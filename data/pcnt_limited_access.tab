@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_limited_access
+01001	Alabama	Autauga	pcnt_limited_access	10
+01003	Alabama	Baldwin	pcnt_limited_access	5
+01005	Alabama	Barbour	pcnt_limited_access	11
+01007	Alabama	Bibb	pcnt_limited_access	2
+01009	Alabama	Blount	pcnt_limited_access	1
+01011	Alabama	Bullock	pcnt_limited_access	20
+01013	Alabama	Butler	pcnt_limited_access	3
+01015	Alabama	Calhoun	pcnt_limited_access	10
+01017	Alabama	Chambers	pcnt_limited_access	9
+01019	Alabama	Cherokee	pcnt_limited_access	0
+01021	Alabama	Chilton	pcnt_limited_access	2
+01023	Alabama	Choctaw	pcnt_limited_access	12
+01025	Alabama	Clarke	pcnt_limited_access	11
+01027	Alabama	Clay	pcnt_limited_access	2
+01029	Alabama	Cleburne	pcnt_limited_access	1
+01031	Alabama	Coffee	pcnt_limited_access	7
+01033	Alabama	Colbert	pcnt_limited_access	5
+01035	Alabama	Conecuh	pcnt_limited_access	15
+01037	Alabama	Coosa	pcnt_limited_access	7
+01039	Alabama	Covington	pcnt_limited_access	3
+01041	Alabama	Crenshaw	pcnt_limited_access	16
+01043	Alabama	Cullman	pcnt_limited_access	3
+01045	Alabama	Dale	pcnt_limited_access	10
+01047	Alabama	Dallas	pcnt_limited_access	12
+01049	Alabama	DeKalb	pcnt_limited_access	2
+01051	Alabama	Elmore	pcnt_limited_access	7
+01053	Alabama	Escambia	pcnt_limited_access	8
+01055	Alabama	Etowah	pcnt_limited_access	9
+01057	Alabama	Fayette	pcnt_limited_access	1
+01059	Alabama	Franklin	pcnt_limited_access	4
+01061	Alabama	Geneva	pcnt_limited_access	1
+01063	Alabama	Greene	pcnt_limited_access	21
+01065	Alabama	Hale	pcnt_limited_access	0
+01067	Alabama	Henry	pcnt_limited_access	1
+01069	Alabama	Houston	pcnt_limited_access	7
+01071	Alabama	Jackson	pcnt_limited_access	4
+01073	Alabama	Jefferson	pcnt_limited_access	11
+01075	Alabama	Lamar	pcnt_limited_access	0
+01077	Alabama	Lauderdale	pcnt_limited_access	6
+01079	Alabama	Lawrence	pcnt_limited_access	2
+01081	Alabama	Lee	pcnt_limited_access	11
+01083	Alabama	Limestone	pcnt_limited_access	4
+01085	Alabama	Lowndes	pcnt_limited_access	26
+01087	Alabama	Macon	pcnt_limited_access	19
+01089	Alabama	Madison	pcnt_limited_access	8
+01091	Alabama	Marengo	pcnt_limited_access	15
+01093	Alabama	Marion	pcnt_limited_access	1
+01095	Alabama	Marshall	pcnt_limited_access	7
+01097	Alabama	Mobile	pcnt_limited_access	11
+01099	Alabama	Monroe	pcnt_limited_access	17
+01101	Alabama	Montgomery	pcnt_limited_access	11
+01103	Alabama	Morgan	pcnt_limited_access	4
+01105	Alabama	Perry	pcnt_limited_access	6
+01107	Alabama	Pickens	pcnt_limited_access	2
+01109	Alabama	Pike	pcnt_limited_access	6
+01111	Alabama	Randolph	pcnt_limited_access	2
+01113	Alabama	Russell	pcnt_limited_access	8
+01115	Alabama	St. Clair	pcnt_limited_access	1
+01117	Alabama	Shelby	pcnt_limited_access	4
+01119	Alabama	Sumter	pcnt_limited_access	11
+01121	Alabama	Talladega	pcnt_limited_access	6
+01123	Alabama	Tallapoosa	pcnt_limited_access	5
+01125	Alabama	Tuscaloosa	pcnt_limited_access	7
+01127	Alabama	Walker	pcnt_limited_access	4
+01129	Alabama	Washington	pcnt_limited_access	3
+01131	Alabama	Wilcox	pcnt_limited_access	28
+01133	Alabama	Winston	pcnt_limited_access	1
+02013	Alaska	Aleutians East	pcnt_limited_access	22
+02016	Alaska	Aleutians West	pcnt_limited_access	8
+02020	Alaska	Anchorage	pcnt_limited_access	5
+02050	Alaska	Bethel	pcnt_limited_access	39
+02060	Alaska	Bristol Bay	pcnt_limited_access	7
+02068	Alaska	Denali	pcnt_limited_access	19
+02070	Alaska	Dillingham	pcnt_limited_access	17
+02090	Alaska	Fairbanks North Star	pcnt_limited_access	10
+02100	Alaska	Haines	pcnt_limited_access	5
+02110	Alaska	Juneau	pcnt_limited_access	6
+02122	Alaska	Kenai Peninsula	pcnt_limited_access	6
+02130	Alaska	Ketchikan Gateway	pcnt_limited_access	1
+02150	Alaska	Kodiak Island	pcnt_limited_access	4
+02164	Alaska	Lake and Peninsula	pcnt_limited_access	46
+02170	Alaska	Matanuska-Susitna	pcnt_limited_access	6
+02180	Alaska	Nome	pcnt_limited_access	36
+02185	Alaska	North Slope	pcnt_limited_access	4
+02188	Alaska	Northwest Arctic	pcnt_limited_access	32
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_limited_access	8
+02220	Alaska	Sitka	pcnt_limited_access	6
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_limited_access	22
+02240	Alaska	Southeast Fairbanks	pcnt_limited_access	9
+02261	Alaska	Valdez-Cordova	pcnt_limited_access	11
+02270	Alaska	Wade Hampton	pcnt_limited_access	44
+02280	Alaska	Wrangell-Petersburg	pcnt_limited_access	2
+02282	Alaska	Yakutat	pcnt_limited_access	0
+02290	Alaska	Yukon-Koyukuk	pcnt_limited_access	50
+04001	Arizona	Apache	pcnt_limited_access	44
+04003	Arizona	Cochise	pcnt_limited_access	12
+04005	Arizona	Coconino	pcnt_limited_access	13
+04007	Arizona	Gila	pcnt_limited_access	12
+04009	Arizona	Graham	pcnt_limited_access	14
+04011	Arizona	Greenlee	pcnt_limited_access	26
+04012	Arizona	La Paz	pcnt_limited_access	19
+04013	Arizona	Maricopa	pcnt_limited_access	4
+04015	Arizona	Mohave	pcnt_limited_access	17
+04017	Arizona	Navajo	pcnt_limited_access	18
+04019	Arizona	Pima	pcnt_limited_access	7
+04021	Arizona	Pinal	pcnt_limited_access	5
+04023	Arizona	Santa Cruz	pcnt_limited_access	11
+04025	Arizona	Yavapai	pcnt_limited_access	12
+04027	Arizona	Yuma	pcnt_limited_access	11
+05001	Arkansas	Arkansas	pcnt_limited_access	8
+05003	Arkansas	Ashley	pcnt_limited_access	11
+05005	Arkansas	Baxter	pcnt_limited_access	5
+05007	Arkansas	Benton	pcnt_limited_access	6
+05009	Arkansas	Boone	pcnt_limited_access	11
+05011	Arkansas	Bradley	pcnt_limited_access	5
+05013	Arkansas	Calhoun	pcnt_limited_access	32
+05015	Arkansas	Carroll	pcnt_limited_access	4
+05017	Arkansas	Chicot	pcnt_limited_access	3
+05019	Arkansas	Clark	pcnt_limited_access	4
+05021	Arkansas	Clay	pcnt_limited_access	5
+05023	Arkansas	Cleburne	pcnt_limited_access	5
+05025	Arkansas	Cleveland	pcnt_limited_access	9
+05027	Arkansas	Columbia	pcnt_limited_access	7
+05029	Arkansas	Conway	pcnt_limited_access	9
+05031	Arkansas	Craighead	pcnt_limited_access	10
+05033	Arkansas	Crawford	pcnt_limited_access	10
+05035	Arkansas	Crittenden	pcnt_limited_access	4
+05037	Arkansas	Cross	pcnt_limited_access	8
+05039	Arkansas	Dallas	pcnt_limited_access	10
+05041	Arkansas	Desha	pcnt_limited_access	16
+05043	Arkansas	Drew	pcnt_limited_access	7
+05045	Arkansas	Faulkner	pcnt_limited_access	9
+05047	Arkansas	Franklin	pcnt_limited_access	6
+05049	Arkansas	Fulton	pcnt_limited_access	9
+05051	Arkansas	Garland	pcnt_limited_access	12
+05053	Arkansas	Grant	pcnt_limited_access	4
+05055	Arkansas	Greene	pcnt_limited_access	8
+05057	Arkansas	Hempstead	pcnt_limited_access	11
+05059	Arkansas	Hot Spring	pcnt_limited_access	9
+05061	Arkansas	Howard	pcnt_limited_access	7
+05063	Arkansas	Independence	pcnt_limited_access	8
+05065	Arkansas	Izard	pcnt_limited_access	3
+05067	Arkansas	Jackson	pcnt_limited_access	9
+05069	Arkansas	Jefferson	pcnt_limited_access	7
+05071	Arkansas	Johnson	pcnt_limited_access	4
+05073	Arkansas	Lafayette	pcnt_limited_access	9
+05075	Arkansas	Lawrence	pcnt_limited_access	13
+05077	Arkansas	Lee	pcnt_limited_access	16
+05079	Arkansas	Lincoln	pcnt_limited_access	21
+05081	Arkansas	Little River	pcnt_limited_access	4
+05083	Arkansas	Logan	pcnt_limited_access	7
+05085	Arkansas	Lonoke	pcnt_limited_access	6
+05087	Arkansas	Madison	pcnt_limited_access	12
+05089	Arkansas	Marion	pcnt_limited_access	6
+05091	Arkansas	Miller	pcnt_limited_access	10
+05093	Arkansas	Mississippi	pcnt_limited_access	7
+05095	Arkansas	Monroe	pcnt_limited_access	6
+05097	Arkansas	Montgomery	pcnt_limited_access	10
+05099	Arkansas	Nevada	pcnt_limited_access	11
+05101	Arkansas	Newton	pcnt_limited_access	15
+05103	Arkansas	Ouachita	pcnt_limited_access	15
+05105	Arkansas	Perry	pcnt_limited_access	5
+05107	Arkansas	Phillips	pcnt_limited_access	24
+05109	Arkansas	Pike	pcnt_limited_access	9
+05111	Arkansas	Poinsett	pcnt_limited_access	5
+05113	Arkansas	Polk	pcnt_limited_access	19
+05115	Arkansas	Pope	pcnt_limited_access	6
+05117	Arkansas	Prairie	pcnt_limited_access	2
+05119	Arkansas	Pulaski	pcnt_limited_access	10
+05121	Arkansas	Randolph	pcnt_limited_access	14
+05123	Arkansas	St. Francis	pcnt_limited_access	15
+05125	Arkansas	Saline	pcnt_limited_access	6
+05127	Arkansas	Scott	pcnt_limited_access	7
+05129	Arkansas	Searcy	pcnt_limited_access	19
+05131	Arkansas	Sebastian	pcnt_limited_access	5
+05133	Arkansas	Sevier	pcnt_limited_access	20
+05135	Arkansas	Sharp	pcnt_limited_access	9
+05137	Arkansas	Stone	pcnt_limited_access	12
+05139	Arkansas	Union	pcnt_limited_access	11
+05141	Arkansas	Van Buren	pcnt_limited_access	6
+05143	Arkansas	Washington	pcnt_limited_access	7
+05145	Arkansas	White	pcnt_limited_access	6
+05147	Arkansas	Woodruff	pcnt_limited_access	2
+05149	Arkansas	Yell	pcnt_limited_access	3
+06001	California	Alameda	pcnt_limited_access	2
+06003	California	Alpine	pcnt_limited_access	13
+06005	California	Amador	pcnt_limited_access	3
+06007	California	Butte	pcnt_limited_access	7
+06009	California	Calaveras	pcnt_limited_access	2
+06011	California	Colusa	pcnt_limited_access	3
+06013	California	Contra Costa	pcnt_limited_access	3
+06015	California	Del Norte	pcnt_limited_access	10
+06017	California	El Dorado	pcnt_limited_access	5
+06019	California	Fresno	pcnt_limited_access	5
+06021	California	Glenn	pcnt_limited_access	5
+06023	California	Humboldt	pcnt_limited_access	7
+06025	California	Imperial	pcnt_limited_access	8
+06027	California	Inyo	pcnt_limited_access	11
+06029	California	Kern	pcnt_limited_access	5
+06031	California	Kings	pcnt_limited_access	6
+06033	California	Lake	pcnt_limited_access	8
+06035	California	Lassen	pcnt_limited_access	30
+06037	California	Los Angeles	pcnt_limited_access	1
+06039	California	Madera	pcnt_limited_access	8
+06041	California	Marin	pcnt_limited_access	2
+06043	California	Mariposa	pcnt_limited_access	6
+06045	California	Mendocino	pcnt_limited_access	7
+06047	California	Merced	pcnt_limited_access	6
+06049	California	Modoc	pcnt_limited_access	15
+06051	California	Mono	pcnt_limited_access	8
+06053	California	Monterey	pcnt_limited_access	3
+06055	California	Napa	pcnt_limited_access	3
+06057	California	Nevada	pcnt_limited_access	5
+06059	California	Orange	pcnt_limited_access	1
+06061	California	Placer	pcnt_limited_access	2
+06063	California	Plumas	pcnt_limited_access	2
+06065	California	Riverside	pcnt_limited_access	6
+06067	California	Sacramento	pcnt_limited_access	4
+06069	California	San Benito	pcnt_limited_access	3
+06071	California	San Bernardino	pcnt_limited_access	7
+06073	California	San Diego	pcnt_limited_access	3
+06075	California	San Francisco	pcnt_limited_access	1
+06077	California	San Joaquin	pcnt_limited_access	4
+06079	California	San Luis Obispo	pcnt_limited_access	4
+06081	California	San Mateo	pcnt_limited_access	2
+06083	California	Santa Barbara	pcnt_limited_access	3
+06085	California	Santa Clara	pcnt_limited_access	1
+06087	California	Santa Cruz	pcnt_limited_access	4
+06089	California	Shasta	pcnt_limited_access	7
+06091	California	Sierra	pcnt_limited_access	21
+06093	California	Siskiyou	pcnt_limited_access	8
+06095	California	Solano	pcnt_limited_access	4
+06097	California	Sonoma	pcnt_limited_access	4
+06099	California	Stanislaus	pcnt_limited_access	5
+06101	California	Sutter	pcnt_limited_access	10
+06103	California	Tehama	pcnt_limited_access	8
+06105	California	Trinity	pcnt_limited_access	7
+06107	California	Tulare	pcnt_limited_access	8
+06109	California	Tuolumne	pcnt_limited_access	9
+06111	California	Ventura	pcnt_limited_access	2
+06113	California	Yolo	pcnt_limited_access	2
+06115	California	Yuba	pcnt_limited_access	12
+08001	Colorado	Adams	pcnt_limited_access	5
+08003	Colorado	Alamosa	pcnt_limited_access	3
+08005	Colorado	Arapahoe	pcnt_limited_access	4
+08007	Colorado	Archuleta	pcnt_limited_access	8
+08009	Colorado	Baca	pcnt_limited_access	8
+08011	Colorado	Bent	pcnt_limited_access	13
+08013	Colorado	Boulder	pcnt_limited_access	3
+08014	Colorado	Broomfield	pcnt_limited_access	1
+08015	Colorado	Chaffee	pcnt_limited_access	2
+08017	Colorado	Cheyenne	pcnt_limited_access	12
+08019	Colorado	Clear Creek	pcnt_limited_access	2
+08021	Colorado	Conejos	pcnt_limited_access	2
+08023	Colorado	Costilla	pcnt_limited_access	55
+08025	Colorado	Crowley	pcnt_limited_access	30
+08027	Colorado	Custer	pcnt_limited_access	8
+08029	Colorado	Delta	pcnt_limited_access	2
+08031	Colorado	Denver	pcnt_limited_access	6
+08033	Colorado	Dolores	pcnt_limited_access	9
+08035	Colorado	Douglas	pcnt_limited_access	2
+08037	Colorado	Eagle	pcnt_limited_access	4
+08039	Colorado	Elbert	pcnt_limited_access	7
+08041	Colorado	El Paso	pcnt_limited_access	9
+08043	Colorado	Fremont	pcnt_limited_access	10
+08045	Colorado	Garfield	pcnt_limited_access	5
+08047	Colorado	Gilpin	pcnt_limited_access	0
+08049	Colorado	Grand	pcnt_limited_access	4
+08051	Colorado	Gunnison	pcnt_limited_access	2
+08053	Colorado	Hinsdale	pcnt_limited_access	27
+08055	Colorado	Huerfano	pcnt_limited_access	11
+08057	Colorado	Jackson	pcnt_limited_access	8
+08059	Colorado	Jefferson	pcnt_limited_access	4
+08061	Colorado	Kiowa	pcnt_limited_access	36
+08063	Colorado	Kit Carson	pcnt_limited_access	8
+08065	Colorado	Lake	pcnt_limited_access	27
+08067	Colorado	La Plata	pcnt_limited_access	4
+08069	Colorado	Larimer	pcnt_limited_access	5
+08071	Colorado	Las Animas	pcnt_limited_access	15
+08073	Colorado	Lincoln	pcnt_limited_access	7
+08075	Colorado	Logan	pcnt_limited_access	6
+08077	Colorado	Mesa	pcnt_limited_access	9
+08079	Colorado	Mineral	pcnt_limited_access	23
+08081	Colorado	Moffat	pcnt_limited_access	7
+08083	Colorado	Montezuma	pcnt_limited_access	8
+08085	Colorado	Montrose	pcnt_limited_access	8
+08087	Colorado	Morgan	pcnt_limited_access	5
+08089	Colorado	Otero	pcnt_limited_access	16
+08091	Colorado	Ouray	pcnt_limited_access	2
+08093	Colorado	Park	pcnt_limited_access	12
+08095	Colorado	Phillips	pcnt_limited_access	9
+08097	Colorado	Pitkin	pcnt_limited_access	2
+08099	Colorado	Prowers	pcnt_limited_access	15
+08101	Colorado	Pueblo	pcnt_limited_access	16
+08103	Colorado	Rio Blanco	pcnt_limited_access	2
+08105	Colorado	Rio Grande	pcnt_limited_access	2
+08107	Colorado	Routt	pcnt_limited_access	5
+08109	Colorado	Saguache	pcnt_limited_access	51
+08111	Colorado	San Juan	pcnt_limited_access	19
+08113	Colorado	San Miguel	pcnt_limited_access	1
+08115	Colorado	Sedgwick	pcnt_limited_access	5
+08117	Colorado	Summit	pcnt_limited_access	6
+08119	Colorado	Teller	pcnt_limited_access	5
+08121	Colorado	Washington	pcnt_limited_access	19
+08123	Colorado	Weld	pcnt_limited_access	5
+08125	Colorado	Yuma	pcnt_limited_access	7
+09001	Connecticut	Fairfield	pcnt_limited_access	3
+09003	Connecticut	Hartford	pcnt_limited_access	4
+09005	Connecticut	Litchfield	pcnt_limited_access	2
+09007	Connecticut	Middlesex	pcnt_limited_access	5
+09009	Connecticut	New Haven	pcnt_limited_access	4
+09011	Connecticut	New London	pcnt_limited_access	4
+09013	Connecticut	Tolland	pcnt_limited_access	9
+09015	Connecticut	Windham	pcnt_limited_access	6
+10001	Delaware	Kent	pcnt_limited_access	5
+10003	Delaware	New Castle	pcnt_limited_access	6
+10005	Delaware	Sussex	pcnt_limited_access	5
+11001	District of Columbia	District of Columbia	pcnt_limited_access	1
+12001	Florida	Alachua	pcnt_limited_access	7
+12003	Florida	Baker	pcnt_limited_access	13
+12005	Florida	Bay	pcnt_limited_access	10
+12007	Florida	Bradford	pcnt_limited_access	2
+12009	Florida	Brevard	pcnt_limited_access	11
+12011	Florida	Broward	pcnt_limited_access	3
+12013	Florida	Calhoun	pcnt_limited_access	13
+12015	Florida	Charlotte	pcnt_limited_access	12
+12017	Florida	Citrus	pcnt_limited_access	11
+12019	Florida	Clay	pcnt_limited_access	6
+12021	Florida	Collier	pcnt_limited_access	8
+12023	Florida	Columbia	pcnt_limited_access	8
+12027	Florida	DeSoto	pcnt_limited_access	6
+12029	Florida	Dixie	pcnt_limited_access	3
+12031	Florida	Duval	pcnt_limited_access	7
+12033	Florida	Escambia	pcnt_limited_access	13
+12035	Florida	Flagler	pcnt_limited_access	10
+12037	Florida	Franklin	pcnt_limited_access	1
+12039	Florida	Gadsden	pcnt_limited_access	6
+12041	Florida	Gilchrist	pcnt_limited_access	0
+12043	Florida	Glades	pcnt_limited_access	7
+12045	Florida	Gulf	pcnt_limited_access	6
+12047	Florida	Hamilton	pcnt_limited_access	10
+12049	Florida	Hardee	pcnt_limited_access	20
+12051	Florida	Hendry	pcnt_limited_access	14
+12053	Florida	Hernando	pcnt_limited_access	11
+12055	Florida	Highlands	pcnt_limited_access	16
+12057	Florida	Hillsborough	pcnt_limited_access	7
+12059	Florida	Holmes	pcnt_limited_access	10
+12061	Florida	Indian River	pcnt_limited_access	15
+12063	Florida	Jackson	pcnt_limited_access	2
+12065	Florida	Jefferson	pcnt_limited_access	9
+12067	Florida	Lafayette	pcnt_limited_access	2
+12069	Florida	Lake	pcnt_limited_access	9
+12071	Florida	Lee	pcnt_limited_access	9
+12073	Florida	Leon	pcnt_limited_access	8
+12075	Florida	Levy	pcnt_limited_access	4
+12077	Florida	Liberty	pcnt_limited_access	8
+12079	Florida	Madison	pcnt_limited_access	9
+12081	Florida	Manatee	pcnt_limited_access	6
+12083	Florida	Marion	pcnt_limited_access	9
+12085	Florida	Martin	pcnt_limited_access	7
+12086	Florida	Miami-Dade	pcnt_limited_access	2
+12087	Florida	Monroe	pcnt_limited_access	9
+12089	Florida	Nassau	pcnt_limited_access	7
+12091	Florida	Okaloosa	pcnt_limited_access	8
+12093	Florida	Okeechobee	pcnt_limited_access	21
+12095	Florida	Orange	pcnt_limited_access	6
+12097	Florida	Osceola	pcnt_limited_access	8
+12099	Florida	Palm Beach	pcnt_limited_access	5
+12101	Florida	Pasco	pcnt_limited_access	7
+12103	Florida	Pinellas	pcnt_limited_access	5
+12105	Florida	Polk	pcnt_limited_access	11
+12107	Florida	Putnam	pcnt_limited_access	13
+12109	Florida	St. Johns	pcnt_limited_access	6
+12111	Florida	St. Lucie	pcnt_limited_access	11
+12113	Florida	Santa Rosa	pcnt_limited_access	10
+12115	Florida	Sarasota	pcnt_limited_access	6
+12117	Florida	Seminole	pcnt_limited_access	7
+12119	Florida	Sumter	pcnt_limited_access	3
+12121	Florida	Suwannee	pcnt_limited_access	8
+12123	Florida	Taylor	pcnt_limited_access	10
+12125	Florida	Union	pcnt_limited_access	10
+12127	Florida	Volusia	pcnt_limited_access	9
+12129	Florida	Wakulla	pcnt_limited_access	0
+12131	Florida	Walton	pcnt_limited_access	7
+12133	Florida	Washington	pcnt_limited_access	19
+13001	Georgia	Appling	pcnt_limited_access	6
+13003	Georgia	Atkinson	pcnt_limited_access	11
+13005	Georgia	Bacon	pcnt_limited_access	3
+13007	Georgia	Baker	pcnt_limited_access	44
+13009	Georgia	Baldwin	pcnt_limited_access	9
+13011	Georgia	Banks	pcnt_limited_access	4
+13013	Georgia	Barrow	pcnt_limited_access	6
+13015	Georgia	Bartow	pcnt_limited_access	12
+13017	Georgia	Ben Hill	pcnt_limited_access	12
+13019	Georgia	Berrien	pcnt_limited_access	6
+13021	Georgia	Bibb	pcnt_limited_access	8
+13023	Georgia	Bleckley	pcnt_limited_access	3
+13025	Georgia	Brantley	pcnt_limited_access	6
+13027	Georgia	Brooks	pcnt_limited_access	4
+13029	Georgia	Bryan	pcnt_limited_access	2
+13031	Georgia	Bulloch	pcnt_limited_access	10
+13033	Georgia	Burke	pcnt_limited_access	5
+13035	Georgia	Butts	pcnt_limited_access	1
+13037	Georgia	Calhoun	pcnt_limited_access	9
+13039	Georgia	Camden	pcnt_limited_access	11
+13043	Georgia	Candler	pcnt_limited_access	4
+13045	Georgia	Carroll	pcnt_limited_access	11
+13047	Georgia	Catoosa	pcnt_limited_access	11
+13049	Georgia	Charlton	pcnt_limited_access	11
+13051	Georgia	Chatham	pcnt_limited_access	6
+13053	Georgia	Chattahoochee	pcnt_limited_access	22
+13055	Georgia	Chattooga	pcnt_limited_access	4
+13057	Georgia	Cherokee	pcnt_limited_access	6
+13059	Georgia	Clarke	pcnt_limited_access	21
+13061	Georgia	Clay	pcnt_limited_access	1
+13063	Georgia	Clayton	pcnt_limited_access	14
+13065	Georgia	Clinch	pcnt_limited_access	3
+13067	Georgia	Cobb	pcnt_limited_access	9
+13069	Georgia	Coffee	pcnt_limited_access	8
+13071	Georgia	Colquitt	pcnt_limited_access	8
+13073	Georgia	Columbia	pcnt_limited_access	2
+13075	Georgia	Cook	pcnt_limited_access	5
+13077	Georgia	Coweta	pcnt_limited_access	7
+13079	Georgia	Crawford	pcnt_limited_access	0
+13081	Georgia	Crisp	pcnt_limited_access	19
+13083	Georgia	Dade	pcnt_limited_access	1
+13085	Georgia	Dawson	pcnt_limited_access	0
+13087	Georgia	Decatur	pcnt_limited_access	7
+13089	Georgia	DeKalb	pcnt_limited_access	9
+13091	Georgia	Dodge	pcnt_limited_access	1
+13093	Georgia	Dooly	pcnt_limited_access	15
+13095	Georgia	Dougherty	pcnt_limited_access	21
+13097	Georgia	Douglas	pcnt_limited_access	10
+13099	Georgia	Early	pcnt_limited_access	6
+13101	Georgia	Echols	pcnt_limited_access	3
+13103	Georgia	Effingham	pcnt_limited_access	4
+13105	Georgia	Elbert	pcnt_limited_access	8
+13107	Georgia	Emanuel	pcnt_limited_access	16
+13109	Georgia	Evans	pcnt_limited_access	2
+13111	Georgia	Fannin	pcnt_limited_access	0
+13113	Georgia	Fayette	pcnt_limited_access	7
+13115	Georgia	Floyd	pcnt_limited_access	10
+13117	Georgia	Forsyth	pcnt_limited_access	4
+13119	Georgia	Franklin	pcnt_limited_access	1
+13121	Georgia	Fulton	pcnt_limited_access	6
+13123	Georgia	Gilmer	pcnt_limited_access	2
+13125	Georgia	Glascock	pcnt_limited_access	29
+13127	Georgia	Glynn	pcnt_limited_access	9
+13129	Georgia	Gordon	pcnt_limited_access	6
+13131	Georgia	Grady	pcnt_limited_access	5
+13133	Georgia	Greene	pcnt_limited_access	2
+13135	Georgia	Gwinnett	pcnt_limited_access	8
+13137	Georgia	Habersham	pcnt_limited_access	11
+13139	Georgia	Hall	pcnt_limited_access	10
+13141	Georgia	Hancock	pcnt_limited_access	18
+13143	Georgia	Haralson	pcnt_limited_access	2
+13145	Georgia	Harris	pcnt_limited_access	0
+13147	Georgia	Hart	pcnt_limited_access	2
+13149	Georgia	Heard	pcnt_limited_access	1
+13151	Georgia	Henry	pcnt_limited_access	8
+13153	Georgia	Houston	pcnt_limited_access	9
+13155	Georgia	Irwin	pcnt_limited_access	3
+13157	Georgia	Jackson	pcnt_limited_access	0
+13159	Georgia	Jasper	pcnt_limited_access	3
+13161	Georgia	Jeff Davis	pcnt_limited_access	6
+13163	Georgia	Jefferson	pcnt_limited_access	1
+13165	Georgia	Jenkins	pcnt_limited_access	7
+13167	Georgia	Johnson	pcnt_limited_access	8
+13169	Georgia	Jones	pcnt_limited_access	3
+13171	Georgia	Lamar	pcnt_limited_access	2
+13173	Georgia	Lanier	pcnt_limited_access	2
+13175	Georgia	Laurens	pcnt_limited_access	5
+13177	Georgia	Lee	pcnt_limited_access	4
+13179	Georgia	Liberty	pcnt_limited_access	18
+13181	Georgia	Lincoln	pcnt_limited_access	4
+13183	Georgia	Long	pcnt_limited_access	5
+13185	Georgia	Lowndes	pcnt_limited_access	9
+13187	Georgia	Lumpkin	pcnt_limited_access	1
+13189	Georgia	McDuffie	pcnt_limited_access	4
+13191	Georgia	McIntosh	pcnt_limited_access	4
+13193	Georgia	Macon	pcnt_limited_access	9
+13195	Georgia	Madison	pcnt_limited_access	1
+13197	Georgia	Marion	pcnt_limited_access	42
+13199	Georgia	Meriwether	pcnt_limited_access	1
+13201	Georgia	Miller	pcnt_limited_access	2
+13205	Georgia	Mitchell	pcnt_limited_access	10
+13207	Georgia	Monroe	pcnt_limited_access	4
+13209	Georgia	Montgomery	pcnt_limited_access	6
+13211	Georgia	Morgan	pcnt_limited_access	8
+13213	Georgia	Murray	pcnt_limited_access	6
+13215	Georgia	Muscogee	pcnt_limited_access	13
+13217	Georgia	Newton	pcnt_limited_access	9
+13219	Georgia	Oconee	pcnt_limited_access	5
+13221	Georgia	Oglethorpe	pcnt_limited_access	2
+13223	Georgia	Paulding	pcnt_limited_access	6
+13225	Georgia	Peach	pcnt_limited_access	9
+13227	Georgia	Pickens	pcnt_limited_access	2
+13229	Georgia	Pierce	pcnt_limited_access	4
+13231	Georgia	Pike	pcnt_limited_access	0
+13233	Georgia	Polk	pcnt_limited_access	5
+13235	Georgia	Pulaski	pcnt_limited_access	5
+13237	Georgia	Putnam	pcnt_limited_access	1
+13239	Georgia	Quitman	pcnt_limited_access	23
+13241	Georgia	Rabun	pcnt_limited_access	0
+13243	Georgia	Randolph	pcnt_limited_access	3
+13245	Georgia	Richmond	pcnt_limited_access	13
+13247	Georgia	Rockdale	pcnt_limited_access	13
+13249	Georgia	Schley	pcnt_limited_access	1
+13251	Georgia	Screven	pcnt_limited_access	9
+13253	Georgia	Seminole	pcnt_limited_access	3
+13255	Georgia	Spalding	pcnt_limited_access	7
+13257	Georgia	Stephens	pcnt_limited_access	5
+13259	Georgia	Stewart	pcnt_limited_access	7
+13261	Georgia	Sumter	pcnt_limited_access	9
+13263	Georgia	Talbot	pcnt_limited_access	3
+13265	Georgia	Taliaferro	pcnt_limited_access	44
+13267	Georgia	Tattnall	pcnt_limited_access	1
+13269	Georgia	Taylor	pcnt_limited_access	5
+13271	Georgia	Telfair	pcnt_limited_access	4
+13273	Georgia	Terrell	pcnt_limited_access	0
+13275	Georgia	Thomas	pcnt_limited_access	14
+13277	Georgia	Tift	pcnt_limited_access	6
+13279	Georgia	Toombs	pcnt_limited_access	9
+13281	Georgia	Towns	pcnt_limited_access	0
+13283	Georgia	Treutlen	pcnt_limited_access	8
+13285	Georgia	Troup	pcnt_limited_access	6
+13287	Georgia	Turner	pcnt_limited_access	5
+13289	Georgia	Twiggs	pcnt_limited_access	1
+13291	Georgia	Union	pcnt_limited_access	0
+13293	Georgia	Upson	pcnt_limited_access	8
+13295	Georgia	Walker	pcnt_limited_access	10
+13297	Georgia	Walton	pcnt_limited_access	7
+13299	Georgia	Ware	pcnt_limited_access	14
+13301	Georgia	Warren	pcnt_limited_access	1
+13303	Georgia	Washington	pcnt_limited_access	16
+13305	Georgia	Wayne	pcnt_limited_access	13
+13307	Georgia	Webster	pcnt_limited_access	1
+13309	Georgia	Wheeler	pcnt_limited_access	0
+13311	Georgia	White	pcnt_limited_access	0
+13313	Georgia	Whitfield	pcnt_limited_access	12
+13315	Georgia	Wilcox	pcnt_limited_access	0
+13317	Georgia	Wilkes	pcnt_limited_access	17
+13319	Georgia	Wilkinson	pcnt_limited_access	11
+13321	Georgia	Worth	pcnt_limited_access	6
+15001	Hawaii	Hawaii	pcnt_limited_access	11
+15003	Hawaii	Honolulu	pcnt_limited_access	4
+15005	Hawaii	Kalawao	pcnt_limited_access	0
+15007	Hawaii	Kauai	pcnt_limited_access	10
+15009	Hawaii	Maui	pcnt_limited_access	9
+16001	Idaho	Ada	pcnt_limited_access	4
+16003	Idaho	Adams	pcnt_limited_access	4
+16005	Idaho	Bannock	pcnt_limited_access	9
+16007	Idaho	Bear Lake	pcnt_limited_access	9
+16009	Idaho	Benewah	pcnt_limited_access	15
+16011	Idaho	Bingham	pcnt_limited_access	7
+16013	Idaho	Blaine	pcnt_limited_access	6
+16015	Idaho	Boise	pcnt_limited_access	31
+16017	Idaho	Bonner	pcnt_limited_access	6
+16019	Idaho	Bonneville	pcnt_limited_access	7
+16021	Idaho	Boundary	pcnt_limited_access	9
+16023	Idaho	Butte	pcnt_limited_access	9
+16025	Idaho	Camas	pcnt_limited_access	43
+16027	Idaho	Canyon	pcnt_limited_access	8
+16029	Idaho	Caribou	pcnt_limited_access	13
+16031	Idaho	Cassia	pcnt_limited_access	11
+16033	Idaho	Clark	pcnt_limited_access	60
+16035	Idaho	Clearwater	pcnt_limited_access	9
+16037	Idaho	Custer	pcnt_limited_access	8
+16039	Idaho	Elmore	pcnt_limited_access	12
+16041	Idaho	Franklin	pcnt_limited_access	3
+16043	Idaho	Fremont	pcnt_limited_access	4
+16045	Idaho	Gem	pcnt_limited_access	14
+16047	Idaho	Gooding	pcnt_limited_access	5
+16049	Idaho	Idaho	pcnt_limited_access	15
+16051	Idaho	Jefferson	pcnt_limited_access	5
+16053	Idaho	Jerome	pcnt_limited_access	10
+16055	Idaho	Kootenai	pcnt_limited_access	8
+16057	Idaho	Latah	pcnt_limited_access	5
+16059	Idaho	Lemhi	pcnt_limited_access	20
+16061	Idaho	Lewis	pcnt_limited_access	19
+16063	Idaho	Lincoln	pcnt_limited_access	41
+16065	Idaho	Madison	pcnt_limited_access	9
+16067	Idaho	Minidoka	pcnt_limited_access	6
+16069	Idaho	Nez Perce	pcnt_limited_access	4
+16071	Idaho	Oneida	pcnt_limited_access	5
+16073	Idaho	Owyhee	pcnt_limited_access	7
+16075	Idaho	Payette	pcnt_limited_access	9
+16077	Idaho	Power	pcnt_limited_access	6
+16079	Idaho	Shoshone	pcnt_limited_access	2
+16081	Idaho	Teton	pcnt_limited_access	2
+16083	Idaho	Twin Falls	pcnt_limited_access	4
+16085	Idaho	Valley	pcnt_limited_access	7
+16087	Idaho	Washington	pcnt_limited_access	9
+17001	Illinois	Adams	pcnt_limited_access	4
+17003	Illinois	Alexander	pcnt_limited_access	21
+17005	Illinois	Bond	pcnt_limited_access	4
+17007	Illinois	Boone	pcnt_limited_access	2
+17009	Illinois	Brown	pcnt_limited_access	12
+17011	Illinois	Bureau	pcnt_limited_access	12
+17013	Illinois	Calhoun	pcnt_limited_access	5
+17015	Illinois	Carroll	pcnt_limited_access	4
+17017	Illinois	Cass	pcnt_limited_access	3
+17019	Illinois	Champaign	pcnt_limited_access	4
+17021	Illinois	Christian	pcnt_limited_access	3
+17023	Illinois	Clark	pcnt_limited_access	3
+17025	Illinois	Clay	pcnt_limited_access	5
+17027	Illinois	Clinton	pcnt_limited_access	4
+17029	Illinois	Coles	pcnt_limited_access	6
+17031	Illinois	Cook	pcnt_limited_access	2
+17033	Illinois	Crawford	pcnt_limited_access	5
+17035	Illinois	Cumberland	pcnt_limited_access	0
+17037	Illinois	DeKalb	pcnt_limited_access	11
+17039	Illinois	De Witt	pcnt_limited_access	1
+17041	Illinois	Douglas	pcnt_limited_access	3
+17043	Illinois	DuPage	pcnt_limited_access	4
+17045	Illinois	Edgar	pcnt_limited_access	13
+17047	Illinois	Edwards	pcnt_limited_access	4
+17049	Illinois	Effingham	pcnt_limited_access	4
+17051	Illinois	Fayette	pcnt_limited_access	13
+17053	Illinois	Ford	pcnt_limited_access	5
+17055	Illinois	Franklin	pcnt_limited_access	5
+17057	Illinois	Fulton	pcnt_limited_access	4
+17059	Illinois	Gallatin	pcnt_limited_access	33
+17061	Illinois	Greene	pcnt_limited_access	1
+17063	Illinois	Grundy	pcnt_limited_access	3
+17065	Illinois	Hamilton	pcnt_limited_access	6
+17067	Illinois	Hancock	pcnt_limited_access	18
+17069	Illinois	Hardin	pcnt_limited_access	9
+17071	Illinois	Henderson	pcnt_limited_access	0
+17073	Illinois	Henry	pcnt_limited_access	5
+17075	Illinois	Iroquois	pcnt_limited_access	4
+17077	Illinois	Jackson	pcnt_limited_access	11
+17079	Illinois	Jasper	pcnt_limited_access	5
+17081	Illinois	Jefferson	pcnt_limited_access	9
+17083	Illinois	Jersey	pcnt_limited_access	4
+17085	Illinois	Jo Daviess	pcnt_limited_access	5
+17087	Illinois	Johnson	pcnt_limited_access	14
+17089	Illinois	Kane	pcnt_limited_access	3
+17091	Illinois	Kankakee	pcnt_limited_access	6
+17093	Illinois	Kendall	pcnt_limited_access	3
+17095	Illinois	Knox	pcnt_limited_access	4
+17097	Illinois	Lake	pcnt_limited_access	5
+17099	Illinois	LaSalle	pcnt_limited_access	6
+17101	Illinois	Lawrence	pcnt_limited_access	5
+17103	Illinois	Lee	pcnt_limited_access	3
+17105	Illinois	Livingston	pcnt_limited_access	3
+17107	Illinois	Logan	pcnt_limited_access	6
+17109	Illinois	McDonough	pcnt_limited_access	17
+17111	Illinois	McHenry	pcnt_limited_access	6
+17113	Illinois	McLean	pcnt_limited_access	8
+17115	Illinois	Macon	pcnt_limited_access	9
+17117	Illinois	Macoupin	pcnt_limited_access	3
+17119	Illinois	Madison	pcnt_limited_access	10
+17121	Illinois	Marion	pcnt_limited_access	11
+17123	Illinois	Marshall	pcnt_limited_access	4
+17125	Illinois	Mason	pcnt_limited_access	3
+17127	Illinois	Massac	pcnt_limited_access	4
+17129	Illinois	Menard	pcnt_limited_access	0
+17131	Illinois	Mercer	pcnt_limited_access	9
+17133	Illinois	Monroe	pcnt_limited_access	3
+17135	Illinois	Montgomery	pcnt_limited_access	6
+17137	Illinois	Morgan	pcnt_limited_access	9
+17139	Illinois	Moultrie	pcnt_limited_access	1
+17141	Illinois	Ogle	pcnt_limited_access	3
+17143	Illinois	Peoria	pcnt_limited_access	7
+17145	Illinois	Perry	pcnt_limited_access	9
+17147	Illinois	Piatt	pcnt_limited_access	0
+17149	Illinois	Pike	pcnt_limited_access	10
+17151	Illinois	Pope	pcnt_limited_access	8
+17153	Illinois	Pulaski	pcnt_limited_access	24
+17155	Illinois	Putnam	pcnt_limited_access	0
+17157	Illinois	Randolph	pcnt_limited_access	4
+17159	Illinois	Richland	pcnt_limited_access	2
+17161	Illinois	Rock Island	pcnt_limited_access	7
+17163	Illinois	St. Clair	pcnt_limited_access	15
+17165	Illinois	Saline	pcnt_limited_access	17
+17167	Illinois	Sangamon	pcnt_limited_access	7
+17169	Illinois	Schuyler	pcnt_limited_access	6
+17171	Illinois	Scott	pcnt_limited_access	1
+17173	Illinois	Shelby	pcnt_limited_access	6
+17175	Illinois	Stark	pcnt_limited_access	10
+17177	Illinois	Stephenson	pcnt_limited_access	3
+17179	Illinois	Tazewell	pcnt_limited_access	9
+17181	Illinois	Union	pcnt_limited_access	4
+17183	Illinois	Vermilion	pcnt_limited_access	7
+17185	Illinois	Wabash	pcnt_limited_access	2
+17187	Illinois	Warren	pcnt_limited_access	0
+17189	Illinois	Washington	pcnt_limited_access	4
+17191	Illinois	Wayne	pcnt_limited_access	7
+17193	Illinois	White	pcnt_limited_access	14
+17195	Illinois	Whiteside	pcnt_limited_access	5
+17197	Illinois	Will	pcnt_limited_access	6
+17199	Illinois	Williamson	pcnt_limited_access	6
+17201	Illinois	Winnebago	pcnt_limited_access	6
+17203	Illinois	Woodford	pcnt_limited_access	1
+18001	Indiana	Adams	pcnt_limited_access	3
+18003	Indiana	Allen	pcnt_limited_access	10
+18005	Indiana	Bartholomew	pcnt_limited_access	6
+18007	Indiana	Benton	pcnt_limited_access	0
+18009	Indiana	Blackford	pcnt_limited_access	1
+18011	Indiana	Boone	pcnt_limited_access	1
+18013	Indiana	Brown	pcnt_limited_access	1
+18015	Indiana	Carroll	pcnt_limited_access	2
+18017	Indiana	Cass	pcnt_limited_access	1
+18019	Indiana	Clark	pcnt_limited_access	7
+18021	Indiana	Clay	pcnt_limited_access	1
+18023	Indiana	Clinton	pcnt_limited_access	1
+18025	Indiana	Crawford	pcnt_limited_access	4
+18027	Indiana	Daviess	pcnt_limited_access	1
+18029	Indiana	Dearborn	pcnt_limited_access	7
+18031	Indiana	Decatur	pcnt_limited_access	4
+18033	Indiana	DeKalb	pcnt_limited_access	8
+18035	Indiana	Delaware	pcnt_limited_access	7
+18037	Indiana	Dubois	pcnt_limited_access	1
+18039	Indiana	Elkhart	pcnt_limited_access	6
+18041	Indiana	Fayette	pcnt_limited_access	9
+18043	Indiana	Floyd	pcnt_limited_access	4
+18045	Indiana	Fountain	pcnt_limited_access	1
+18047	Indiana	Franklin	pcnt_limited_access	4
+18049	Indiana	Fulton	pcnt_limited_access	6
+18051	Indiana	Gibson	pcnt_limited_access	4
+18053	Indiana	Grant	pcnt_limited_access	8
+18055	Indiana	Greene	pcnt_limited_access	3
+18057	Indiana	Hamilton	pcnt_limited_access	4
+18059	Indiana	Hancock	pcnt_limited_access	8
+18061	Indiana	Harrison	pcnt_limited_access	1
+18063	Indiana	Hendricks	pcnt_limited_access	6
+18065	Indiana	Henry	pcnt_limited_access	1
+18067	Indiana	Howard	pcnt_limited_access	10
+18069	Indiana	Huntington	pcnt_limited_access	7
+18071	Indiana	Jackson	pcnt_limited_access	5
+18073	Indiana	Jasper	pcnt_limited_access	2
+18075	Indiana	Jay	pcnt_limited_access	9
+18077	Indiana	Jefferson	pcnt_limited_access	5
+18079	Indiana	Jennings	pcnt_limited_access	8
+18081	Indiana	Johnson	pcnt_limited_access	6
+18083	Indiana	Knox	pcnt_limited_access	4
+18085	Indiana	Kosciusko	pcnt_limited_access	7
+18087	Indiana	LaGrange	pcnt_limited_access	0
+18089	Indiana	Lake	pcnt_limited_access	8
+18091	Indiana	LaPorte	pcnt_limited_access	7
+18093	Indiana	Lawrence	pcnt_limited_access	4
+18095	Indiana	Madison	pcnt_limited_access	6
+18097	Indiana	Marion	pcnt_limited_access	8
+18099	Indiana	Marshall	pcnt_limited_access	4
+18101	Indiana	Martin	pcnt_limited_access	1
+18103	Indiana	Miami	pcnt_limited_access	8
+18105	Indiana	Monroe	pcnt_limited_access	6
+18107	Indiana	Montgomery	pcnt_limited_access	4
+18109	Indiana	Morgan	pcnt_limited_access	5
+18111	Indiana	Newton	pcnt_limited_access	0
+18113	Indiana	Noble	pcnt_limited_access	3
+18115	Indiana	Ohio	pcnt_limited_access	0
+18117	Indiana	Orange	pcnt_limited_access	3
+18119	Indiana	Owen	pcnt_limited_access	0
+18121	Indiana	Parke	pcnt_limited_access	3
+18123	Indiana	Perry	pcnt_limited_access	7
+18125	Indiana	Pike	pcnt_limited_access	2
+18127	Indiana	Porter	pcnt_limited_access	9
+18129	Indiana	Posey	pcnt_limited_access	6
+18131	Indiana	Pulaski	pcnt_limited_access	1
+18133	Indiana	Putnam	pcnt_limited_access	1
+18135	Indiana	Randolph	pcnt_limited_access	9
+18137	Indiana	Ripley	pcnt_limited_access	1
+18139	Indiana	Rush	pcnt_limited_access	1
+18141	Indiana	St. Joseph	pcnt_limited_access	9
+18143	Indiana	Scott	pcnt_limited_access	2
+18145	Indiana	Shelby	pcnt_limited_access	3
+18147	Indiana	Spencer	pcnt_limited_access	0
+18149	Indiana	Starke	pcnt_limited_access	3
+18151	Indiana	Steuben	pcnt_limited_access	7
+18153	Indiana	Sullivan	pcnt_limited_access	2
+18155	Indiana	Switzerland	pcnt_limited_access	1
+18157	Indiana	Tippecanoe	pcnt_limited_access	10
+18159	Indiana	Tipton	pcnt_limited_access	9
+18161	Indiana	Union	pcnt_limited_access	0
+18163	Indiana	Vanderburgh	pcnt_limited_access	4
+18165	Indiana	Vermillion	pcnt_limited_access	6
+18167	Indiana	Vigo	pcnt_limited_access	9
+18169	Indiana	Wabash	pcnt_limited_access	3
+18171	Indiana	Warren	pcnt_limited_access	1
+18173	Indiana	Warrick	pcnt_limited_access	4
+18175	Indiana	Washington	pcnt_limited_access	3
+18177	Indiana	Wayne	pcnt_limited_access	6
+18179	Indiana	Wells	pcnt_limited_access	5
+18181	Indiana	White	pcnt_limited_access	3
+18183	Indiana	Whitley	pcnt_limited_access	2
+19001	Iowa	Adair	pcnt_limited_access	2
+19003	Iowa	Adams	pcnt_limited_access	2
+19005	Iowa	Allamakee	pcnt_limited_access	6
+19007	Iowa	Appanoose	pcnt_limited_access	6
+19009	Iowa	Audubon	pcnt_limited_access	1
+19011	Iowa	Benton	pcnt_limited_access	3
+19013	Iowa	Black Hawk	pcnt_limited_access	9
+19015	Iowa	Boone	pcnt_limited_access	4
+19017	Iowa	Bremer	pcnt_limited_access	2
+19019	Iowa	Buchanan	pcnt_limited_access	3
+19021	Iowa	Buena Vista	pcnt_limited_access	4
+19023	Iowa	Butler	pcnt_limited_access	13
+19025	Iowa	Calhoun	pcnt_limited_access	15
+19027	Iowa	Carroll	pcnt_limited_access	1
+19029	Iowa	Cass	pcnt_limited_access	7
+19031	Iowa	Cedar	pcnt_limited_access	3
+19033	Iowa	Cerro Gordo	pcnt_limited_access	5
+19035	Iowa	Cherokee	pcnt_limited_access	2
+19037	Iowa	Chickasaw	pcnt_limited_access	6
+19039	Iowa	Clarke	pcnt_limited_access	2
+19041	Iowa	Clay	pcnt_limited_access	2
+19043	Iowa	Clayton	pcnt_limited_access	7
+19045	Iowa	Clinton	pcnt_limited_access	6
+19047	Iowa	Crawford	pcnt_limited_access	8
+19049	Iowa	Dallas	pcnt_limited_access	1
+19051	Iowa	Davis	pcnt_limited_access	5
+19053	Iowa	Decatur	pcnt_limited_access	4
+19055	Iowa	Delaware	pcnt_limited_access	3
+19057	Iowa	Des Moines	pcnt_limited_access	7
+19059	Iowa	Dickinson	pcnt_limited_access	4
+19061	Iowa	Dubuque	pcnt_limited_access	5
+19063	Iowa	Emmet	pcnt_limited_access	7
+19065	Iowa	Fayette	pcnt_limited_access	2
+19067	Iowa	Floyd	pcnt_limited_access	5
+19069	Iowa	Franklin	pcnt_limited_access	4
+19071	Iowa	Fremont	pcnt_limited_access	14
+19073	Iowa	Greene	pcnt_limited_access	8
+19075	Iowa	Grundy	pcnt_limited_access	2
+19077	Iowa	Guthrie	pcnt_limited_access	3
+19079	Iowa	Hamilton	pcnt_limited_access	6
+19081	Iowa	Hancock	pcnt_limited_access	5
+19083	Iowa	Hardin	pcnt_limited_access	4
+19085	Iowa	Harrison	pcnt_limited_access	5
+19087	Iowa	Henry	pcnt_limited_access	12
+19089	Iowa	Howard	pcnt_limited_access	11
+19091	Iowa	Humboldt	pcnt_limited_access	6
+19093	Iowa	Ida	pcnt_limited_access	0
+19095	Iowa	Iowa	pcnt_limited_access	2
+19097	Iowa	Jackson	pcnt_limited_access	5
+19099	Iowa	Jasper	pcnt_limited_access	4
+19101	Iowa	Jefferson	pcnt_limited_access	4
+19103	Iowa	Johnson	pcnt_limited_access	4
+19105	Iowa	Jones	pcnt_limited_access	5
+19107	Iowa	Keokuk	pcnt_limited_access	8
+19109	Iowa	Kossuth	pcnt_limited_access	11
+19111	Iowa	Lee	pcnt_limited_access	3
+19113	Iowa	Linn	pcnt_limited_access	5
+19115	Iowa	Louisa	pcnt_limited_access	0
+19117	Iowa	Lucas	pcnt_limited_access	8
+19119	Iowa	Lyon	pcnt_limited_access	5
+19121	Iowa	Madison	pcnt_limited_access	3
+19123	Iowa	Mahaska	pcnt_limited_access	8
+19125	Iowa	Marion	pcnt_limited_access	3
+19127	Iowa	Marshall	pcnt_limited_access	6
+19129	Iowa	Mills	pcnt_limited_access	3
+19131	Iowa	Mitchell	pcnt_limited_access	6
+19133	Iowa	Monona	pcnt_limited_access	4
+19135	Iowa	Monroe	pcnt_limited_access	7
+19137	Iowa	Montgomery	pcnt_limited_access	7
+19139	Iowa	Muscatine	pcnt_limited_access	7
+19141	Iowa	O'Brien	pcnt_limited_access	8
+19143	Iowa	Osceola	pcnt_limited_access	5
+19145	Iowa	Page	pcnt_limited_access	15
+19147	Iowa	Palo Alto	pcnt_limited_access	9
+19149	Iowa	Plymouth	pcnt_limited_access	1
+19151	Iowa	Pocahontas	pcnt_limited_access	9
+19153	Iowa	Polk	pcnt_limited_access	6
+19155	Iowa	Pottawattamie	pcnt_limited_access	12
+19157	Iowa	Poweshiek	pcnt_limited_access	5
+19159	Iowa	Ringgold	pcnt_limited_access	3
+19161	Iowa	Sac	pcnt_limited_access	6
+19163	Iowa	Scott	pcnt_limited_access	3
+19165	Iowa	Shelby	pcnt_limited_access	8
+19167	Iowa	Sioux	pcnt_limited_access	1
+19169	Iowa	Story	pcnt_limited_access	8
+19171	Iowa	Tama	pcnt_limited_access	7
+19173	Iowa	Taylor	pcnt_limited_access	3
+19175	Iowa	Union	pcnt_limited_access	5
+19177	Iowa	Van Buren	pcnt_limited_access	35
+19179	Iowa	Wapello	pcnt_limited_access	11
+19181	Iowa	Warren	pcnt_limited_access	5
+19183	Iowa	Washington	pcnt_limited_access	2
+19185	Iowa	Wayne	pcnt_limited_access	17
+19187	Iowa	Webster	pcnt_limited_access	6
+19189	Iowa	Winnebago	pcnt_limited_access	6
+19191	Iowa	Winneshiek	pcnt_limited_access	3
+19193	Iowa	Woodbury	pcnt_limited_access	12
+19195	Iowa	Worth	pcnt_limited_access	1
+19197	Iowa	Wright	pcnt_limited_access	2
+20001	Kansas	Allen	pcnt_limited_access	13
+20003	Kansas	Anderson	pcnt_limited_access	9
+20005	Kansas	Atchison	pcnt_limited_access	8
+20007	Kansas	Barber	pcnt_limited_access	4
+20009	Kansas	Barton	pcnt_limited_access	8
+20011	Kansas	Bourbon	pcnt_limited_access	8
+20013	Kansas	Brown	pcnt_limited_access	3
+20015	Kansas	Butler	pcnt_limited_access	6
+20017	Kansas	Chase	pcnt_limited_access	32
+20019	Kansas	Chautauqua	pcnt_limited_access	8
+20021	Kansas	Cherokee	pcnt_limited_access	7
+20023	Kansas	Cheyenne	pcnt_limited_access	37
+20025	Kansas	Clark	pcnt_limited_access	31
+20027	Kansas	Clay	pcnt_limited_access	10
+20029	Kansas	Cloud	pcnt_limited_access	12
+20031	Kansas	Coffey	pcnt_limited_access	17
+20033	Kansas	Comanche	pcnt_limited_access	7
+20035	Kansas	Cowley	pcnt_limited_access	6
+20037	Kansas	Crawford	pcnt_limited_access	14
+20039	Kansas	Decatur	pcnt_limited_access	8
+20041	Kansas	Dickinson	pcnt_limited_access	5
+20043	Kansas	Doniphan	pcnt_limited_access	21
+20045	Kansas	Douglas	pcnt_limited_access	4
+20047	Kansas	Edwards	pcnt_limited_access	5
+20049	Kansas	Elk	pcnt_limited_access	50
+20051	Kansas	Ellis	pcnt_limited_access	6
+20053	Kansas	Ellsworth	pcnt_limited_access	11
+20055	Kansas	Finney	pcnt_limited_access	9
+20057	Kansas	Ford	pcnt_limited_access	14
+20059	Kansas	Franklin	pcnt_limited_access	15
+20061	Kansas	Geary	pcnt_limited_access	13
+20063	Kansas	Gove	pcnt_limited_access	29
+20065	Kansas	Graham	pcnt_limited_access	8
+20067	Kansas	Grant	pcnt_limited_access	4
+20069	Kansas	Gray	pcnt_limited_access	16
+20071	Kansas	Greeley	pcnt_limited_access	23
+20073	Kansas	Greenwood	pcnt_limited_access	15
+20075	Kansas	Hamilton	pcnt_limited_access	48
+20077	Kansas	Harper	pcnt_limited_access	7
+20079	Kansas	Harvey	pcnt_limited_access	7
+20081	Kansas	Haskell	pcnt_limited_access	39
+20083	Kansas	Hodgeman	pcnt_limited_access	33
+20085	Kansas	Jackson	pcnt_limited_access	4
+20087	Kansas	Jefferson	pcnt_limited_access	4
+20089	Kansas	Jewell	pcnt_limited_access	11
+20091	Kansas	Johnson	pcnt_limited_access	3
+20093	Kansas	Kearny	pcnt_limited_access	3
+20095	Kansas	Kingman	pcnt_limited_access	9
+20097	Kansas	Kiowa	pcnt_limited_access	42
+20099	Kansas	Labette	pcnt_limited_access	6
+20101	Kansas	Lane	pcnt_limited_access	36
+20103	Kansas	Leavenworth	pcnt_limited_access	5
+20105	Kansas	Lincoln	pcnt_limited_access	9
+20107	Kansas	Linn	pcnt_limited_access	11
+20109	Kansas	Logan	pcnt_limited_access	6
+20111	Kansas	Lyon	pcnt_limited_access	3
+20113	Kansas	McPherson	pcnt_limited_access	7
+20115	Kansas	Marion	pcnt_limited_access	8
+20117	Kansas	Marshall	pcnt_limited_access	4
+20119	Kansas	Meade	pcnt_limited_access	19
+20121	Kansas	Miami	pcnt_limited_access	3
+20123	Kansas	Mitchell	pcnt_limited_access	6
+20125	Kansas	Montgomery	pcnt_limited_access	3
+20127	Kansas	Morris	pcnt_limited_access	9
+20129	Kansas	Morton	pcnt_limited_access	6
+20131	Kansas	Nemaha	pcnt_limited_access	5
+20133	Kansas	Neosho	pcnt_limited_access	9
+20135	Kansas	Ness	pcnt_limited_access	6
+20137	Kansas	Norton	pcnt_limited_access	12
+20139	Kansas	Osage	pcnt_limited_access	4
+20141	Kansas	Osborne	pcnt_limited_access	10
+20143	Kansas	Ottawa	pcnt_limited_access	7
+20145	Kansas	Pawnee	pcnt_limited_access	5
+20147	Kansas	Phillips	pcnt_limited_access	9
+20149	Kansas	Pottawatomie	pcnt_limited_access	6
+20151	Kansas	Pratt	pcnt_limited_access	6
+20153	Kansas	Rawlins	pcnt_limited_access	12
+20155	Kansas	Reno	pcnt_limited_access	9
+20157	Kansas	Republic	pcnt_limited_access	8
+20159	Kansas	Rice	pcnt_limited_access	6
+20161	Kansas	Riley	pcnt_limited_access	22
+20163	Kansas	Rooks	pcnt_limited_access	6
+20165	Kansas	Rush	pcnt_limited_access	39
+20167	Kansas	Russell	pcnt_limited_access	9
+20169	Kansas	Saline	pcnt_limited_access	5
+20171	Kansas	Scott	pcnt_limited_access	1
+20173	Kansas	Sedgwick	pcnt_limited_access	9
+20175	Kansas	Seward	pcnt_limited_access	22
+20177	Kansas	Shawnee	pcnt_limited_access	10
+20179	Kansas	Sheridan	pcnt_limited_access	37
+20181	Kansas	Sherman	pcnt_limited_access	28
+20183	Kansas	Smith	pcnt_limited_access	12
+20185	Kansas	Stafford	pcnt_limited_access	10
+20187	Kansas	Stanton	pcnt_limited_access	4
+20189	Kansas	Stevens	pcnt_limited_access	7
+20191	Kansas	Sumner	pcnt_limited_access	8
+20193	Kansas	Thomas	pcnt_limited_access	15
+20195	Kansas	Trego	pcnt_limited_access	8
+20197	Kansas	Wabaunsee	pcnt_limited_access	19
+20199	Kansas	Wallace	pcnt_limited_access	12
+20201	Kansas	Washington	pcnt_limited_access	17
+20203	Kansas	Wichita	pcnt_limited_access	31
+20205	Kansas	Wilson	pcnt_limited_access	5
+20207	Kansas	Woodson	pcnt_limited_access	1
+20209	Kansas	Wyandotte	pcnt_limited_access	14
+21001	Kentucky	Adair	pcnt_limited_access	4
+21003	Kentucky	Allen	pcnt_limited_access	1
+21005	Kentucky	Anderson	pcnt_limited_access	6
+21007	Kentucky	Ballard	pcnt_limited_access	3
+21009	Kentucky	Barren	pcnt_limited_access	3
+21011	Kentucky	Bath	pcnt_limited_access	0
+21013	Kentucky	Bell	pcnt_limited_access	13
+21015	Kentucky	Boone	pcnt_limited_access	5
+21017	Kentucky	Bourbon	pcnt_limited_access	3
+21019	Kentucky	Boyd	pcnt_limited_access	11
+21021	Kentucky	Boyle	pcnt_limited_access	10
+21023	Kentucky	Bracken	pcnt_limited_access	0
+21025	Kentucky	Breathitt	pcnt_limited_access	3
+21027	Kentucky	Breckinridge	pcnt_limited_access	4
+21029	Kentucky	Bullitt	pcnt_limited_access	7
+21031	Kentucky	Butler	pcnt_limited_access	5
+21033	Kentucky	Caldwell	pcnt_limited_access	5
+21035	Kentucky	Calloway	pcnt_limited_access	5
+21037	Kentucky	Campbell	pcnt_limited_access	6
+21039	Kentucky	Carlisle	pcnt_limited_access	2
+21041	Kentucky	Carroll	pcnt_limited_access	17
+21043	Kentucky	Carter	pcnt_limited_access	2
+21045	Kentucky	Casey	pcnt_limited_access	4
+21047	Kentucky	Christian	pcnt_limited_access	9
+21049	Kentucky	Clark	pcnt_limited_access	3
+21051	Kentucky	Clay	pcnt_limited_access	7
+21053	Kentucky	Clinton	pcnt_limited_access	1
+21055	Kentucky	Crittenden	pcnt_limited_access	0
+21057	Kentucky	Cumberland	pcnt_limited_access	1
+21059	Kentucky	Daviess	pcnt_limited_access	4
+21061	Kentucky	Edmonson	pcnt_limited_access	1
+21063	Kentucky	Elliott	pcnt_limited_access	0
+21065	Kentucky	Estill	pcnt_limited_access	6
+21067	Kentucky	Fayette	pcnt_limited_access	6
+21069	Kentucky	Fleming	pcnt_limited_access	3
+21071	Kentucky	Floyd	pcnt_limited_access	2
+21073	Kentucky	Franklin	pcnt_limited_access	8
+21075	Kentucky	Fulton	pcnt_limited_access	0
+21077	Kentucky	Gallatin	pcnt_limited_access	0
+21079	Kentucky	Garrard	pcnt_limited_access	12
+21081	Kentucky	Grant	pcnt_limited_access	8
+21083	Kentucky	Graves	pcnt_limited_access	4
+21085	Kentucky	Grayson	pcnt_limited_access	11
+21087	Kentucky	Green	pcnt_limited_access	4
+21089	Kentucky	Greenup	pcnt_limited_access	8
+21091	Kentucky	Hancock	pcnt_limited_access	0
+21093	Kentucky	Hardin	pcnt_limited_access	8
+21095	Kentucky	Harlan	pcnt_limited_access	10
+21097	Kentucky	Harrison	pcnt_limited_access	4
+21099	Kentucky	Hart	pcnt_limited_access	4
+21101	Kentucky	Henderson	pcnt_limited_access	3
+21103	Kentucky	Henry	pcnt_limited_access	3
+21105	Kentucky	Hickman	pcnt_limited_access	1
+21107	Kentucky	Hopkins	pcnt_limited_access	6
+21109	Kentucky	Jackson	pcnt_limited_access	0
+21111	Kentucky	Jefferson	pcnt_limited_access	5
+21113	Kentucky	Jessamine	pcnt_limited_access	2
+21115	Kentucky	Johnson	pcnt_limited_access	5
+21117	Kentucky	Kenton	pcnt_limited_access	7
+21119	Kentucky	Knott	pcnt_limited_access	0
+21121	Kentucky	Knox	pcnt_limited_access	3
+21123	Kentucky	Larue	pcnt_limited_access	1
+21125	Kentucky	Laurel	pcnt_limited_access	5
+21127	Kentucky	Lawrence	pcnt_limited_access	6
+21129	Kentucky	Lee	pcnt_limited_access	0
+21131	Kentucky	Leslie	pcnt_limited_access	2
+21133	Kentucky	Letcher	pcnt_limited_access	0
+21135	Kentucky	Lewis	pcnt_limited_access	1
+21137	Kentucky	Lincoln	pcnt_limited_access	4
+21139	Kentucky	Livingston	pcnt_limited_access	1
+21141	Kentucky	Logan	pcnt_limited_access	1
+21143	Kentucky	Lyon	pcnt_limited_access	0
+21145	Kentucky	McCracken	pcnt_limited_access	8
+21147	Kentucky	McCreary	pcnt_limited_access	3
+21149	Kentucky	McLean	pcnt_limited_access	0
+21151	Kentucky	Madison	pcnt_limited_access	4
+21153	Kentucky	Magoffin	pcnt_limited_access	0
+21155	Kentucky	Marion	pcnt_limited_access	1
+21157	Kentucky	Marshall	pcnt_limited_access	1
+21159	Kentucky	Martin	pcnt_limited_access	0
+21161	Kentucky	Mason	pcnt_limited_access	5
+21163	Kentucky	Meade	pcnt_limited_access	7
+21165	Kentucky	Menifee	pcnt_limited_access	0
+21167	Kentucky	Mercer	pcnt_limited_access	7
+21169	Kentucky	Metcalfe	pcnt_limited_access	0
+21171	Kentucky	Monroe	pcnt_limited_access	3
+21173	Kentucky	Montgomery	pcnt_limited_access	10
+21175	Kentucky	Morgan	pcnt_limited_access	5
+21177	Kentucky	Muhlenberg	pcnt_limited_access	2
+21179	Kentucky	Nelson	pcnt_limited_access	4
+21181	Kentucky	Nicholas	pcnt_limited_access	0
+21183	Kentucky	Ohio	pcnt_limited_access	5
+21185	Kentucky	Oldham	pcnt_limited_access	5
+21187	Kentucky	Owen	pcnt_limited_access	2
+21189	Kentucky	Owsley	pcnt_limited_access	1
+21191	Kentucky	Pendleton	pcnt_limited_access	0
+21193	Kentucky	Perry	pcnt_limited_access	3
+21195	Kentucky	Pike	pcnt_limited_access	1
+21197	Kentucky	Powell	pcnt_limited_access	1
+21199	Kentucky	Pulaski	pcnt_limited_access	6
+21201	Kentucky	Robertson	pcnt_limited_access	38
+21203	Kentucky	Rockcastle	pcnt_limited_access	1
+21205	Kentucky	Rowan	pcnt_limited_access	4
+21207	Kentucky	Russell	pcnt_limited_access	1
+21209	Kentucky	Scott	pcnt_limited_access	4
+21211	Kentucky	Shelby	pcnt_limited_access	2
+21213	Kentucky	Simpson	pcnt_limited_access	5
+21215	Kentucky	Spencer	pcnt_limited_access	0
+21217	Kentucky	Taylor	pcnt_limited_access	2
+21219	Kentucky	Todd	pcnt_limited_access	4
+21221	Kentucky	Trigg	pcnt_limited_access	3
+21223	Kentucky	Trimble	pcnt_limited_access	9
+21225	Kentucky	Union	pcnt_limited_access	4
+21227	Kentucky	Warren	pcnt_limited_access	3
+21229	Kentucky	Washington	pcnt_limited_access	3
+21231	Kentucky	Wayne	pcnt_limited_access	8
+21233	Kentucky	Webster	pcnt_limited_access	0
+21235	Kentucky	Whitley	pcnt_limited_access	6
+21237	Kentucky	Wolfe	pcnt_limited_access	4
+21239	Kentucky	Woodford	pcnt_limited_access	8
+22001	Louisiana	Acadia	pcnt_limited_access	1
+22003	Louisiana	Allen	pcnt_limited_access	18
+22005	Louisiana	Ascension	pcnt_limited_access	11
+22007	Louisiana	Assumption	pcnt_limited_access	13
+22009	Louisiana	Avoyelles	pcnt_limited_access	11
+22011	Louisiana	Beauregard	pcnt_limited_access	15
+22013	Louisiana	Bienville	pcnt_limited_access	12
+22015	Louisiana	Bossier	pcnt_limited_access	7
+22017	Louisiana	Caddo	pcnt_limited_access	14
+22019	Louisiana	Calcasieu	pcnt_limited_access	8
+22021	Louisiana	Caldwell	pcnt_limited_access	4
+22023	Louisiana	Cameron	pcnt_limited_access	10
+22025	Louisiana	Catahoula	pcnt_limited_access	8
+22027	Louisiana	Claiborne	pcnt_limited_access	4
+22029	Louisiana	Concordia	pcnt_limited_access	11
+22031	Louisiana	De Soto	pcnt_limited_access	10
+22033	Louisiana	East Baton Rouge	pcnt_limited_access	11
+22035	Louisiana	East Carroll	pcnt_limited_access	6
+22037	Louisiana	East Feliciana	pcnt_limited_access	9
+22039	Louisiana	Evangeline	pcnt_limited_access	8
+22041	Louisiana	Franklin	pcnt_limited_access	6
+22043	Louisiana	Grant	pcnt_limited_access	8
+22045	Louisiana	Iberia	pcnt_limited_access	5
+22047	Louisiana	Iberville	pcnt_limited_access	3
+22049	Louisiana	Jackson	pcnt_limited_access	10
+22051	Louisiana	Jefferson	pcnt_limited_access	4
+22053	Louisiana	Jefferson Davis	pcnt_limited_access	3
+22055	Louisiana	Lafayette	pcnt_limited_access	9
+22057	Louisiana	Lafourche	pcnt_limited_access	10
+22059	Louisiana	La Salle	pcnt_limited_access	3
+22061	Louisiana	Lincoln	pcnt_limited_access	16
+22063	Louisiana	Livingston	pcnt_limited_access	5
+22065	Louisiana	Madison	pcnt_limited_access	2
+22067	Louisiana	Morehouse	pcnt_limited_access	14
+22069	Louisiana	Natchitoches	pcnt_limited_access	15
+22071	Louisiana	Orleans	pcnt_limited_access	12
+22073	Louisiana	Ouachita	pcnt_limited_access	19
+22075	Louisiana	Plaquemines	pcnt_limited_access	14
+22077	Louisiana	Pointe Coupee	pcnt_limited_access	6
+22079	Louisiana	Rapides	pcnt_limited_access	15
+22081	Louisiana	Red River	pcnt_limited_access	8
+22083	Louisiana	Richland	pcnt_limited_access	5
+22085	Louisiana	Sabine	pcnt_limited_access	11
+22087	Louisiana	St. Bernard	pcnt_limited_access	18
+22089	Louisiana	St. Charles	pcnt_limited_access	15
+22091	Louisiana	St. Helena	pcnt_limited_access	4
+22093	Louisiana	St. James	pcnt_limited_access	5
+22095	Louisiana	St. John the Baptist	pcnt_limited_access	14
+22097	Louisiana	St. Landry	pcnt_limited_access	6
+22099	Louisiana	St. Martin	pcnt_limited_access	3
+22101	Louisiana	St. Mary	pcnt_limited_access	11
+22103	Louisiana	St. Tammany	pcnt_limited_access	6
+22105	Louisiana	Tangipahoa	pcnt_limited_access	11
+22107	Louisiana	Tensas	pcnt_limited_access	33
+22109	Louisiana	Terrebonne	pcnt_limited_access	12
+22111	Louisiana	Union	pcnt_limited_access	7
+22113	Louisiana	Vermilion	pcnt_limited_access	2
+22115	Louisiana	Vernon	pcnt_limited_access	15
+22117	Louisiana	Washington	pcnt_limited_access	10
+22119	Louisiana	Webster	pcnt_limited_access	10
+22121	Louisiana	West Baton Rouge	pcnt_limited_access	4
+22123	Louisiana	West Carroll	pcnt_limited_access	3
+22125	Louisiana	West Feliciana	pcnt_limited_access	20
+22127	Louisiana	Winn	pcnt_limited_access	13
+23001	Maine	Androscoggin	pcnt_limited_access	3
+23003	Maine	Aroostook	pcnt_limited_access	4
+23005	Maine	Cumberland	pcnt_limited_access	5
+23007	Maine	Franklin	pcnt_limited_access	1
+23009	Maine	Hancock	pcnt_limited_access	2
+23011	Maine	Kennebec	pcnt_limited_access	3
+23013	Maine	Knox	pcnt_limited_access	4
+23015	Maine	Lincoln	pcnt_limited_access	1
+23017	Maine	Oxford	pcnt_limited_access	3
+23019	Maine	Penobscot	pcnt_limited_access	6
+23021	Maine	Piscataquis	pcnt_limited_access	2
+23023	Maine	Sagadahoc	pcnt_limited_access	3
+23025	Maine	Somerset	pcnt_limited_access	4
+23027	Maine	Waldo	pcnt_limited_access	3
+23029	Maine	Washington	pcnt_limited_access	5
+23031	Maine	York	pcnt_limited_access	4
+24001	Maryland	Allegany	pcnt_limited_access	16
+24003	Maryland	Anne Arundel	pcnt_limited_access	3
+24005	Maryland	Baltimore	pcnt_limited_access	3
+24009	Maryland	Calvert	pcnt_limited_access	5
+24011	Maryland	Caroline	pcnt_limited_access	2
+24013	Maryland	Carroll	pcnt_limited_access	4
+24015	Maryland	Cecil	pcnt_limited_access	5
+24017	Maryland	Charles	pcnt_limited_access	4
+24019	Maryland	Dorchester	pcnt_limited_access	3
+24021	Maryland	Frederick	pcnt_limited_access	2
+24023	Maryland	Garrett	pcnt_limited_access	2
+24025	Maryland	Harford	pcnt_limited_access	3
+24027	Maryland	Howard	pcnt_limited_access	2
+24029	Maryland	Kent	pcnt_limited_access	0
+24031	Maryland	Montgomery	pcnt_limited_access	1
+24033	Maryland	Prince George's	pcnt_limited_access	4
+24035	Maryland	Queen Anne's	pcnt_limited_access	3
+24037	Maryland	St. Mary's	pcnt_limited_access	2
+24039	Maryland	Somerset	pcnt_limited_access	11
+24041	Maryland	Talbot	pcnt_limited_access	2
+24043	Maryland	Washington	pcnt_limited_access	6
+24045	Maryland	Wicomico	pcnt_limited_access	7
+24047	Maryland	Worcester	pcnt_limited_access	4
+24510	Maryland	Baltimore City	pcnt_limited_access	1
+25001	Massachusetts	Barnstable	pcnt_limited_access	9
+25003	Massachusetts	Berkshire	pcnt_limited_access	6
+25005	Massachusetts	Bristol	pcnt_limited_access	5
+25007	Massachusetts	Dukes	pcnt_limited_access	4
+25009	Massachusetts	Essex	pcnt_limited_access	5
+25011	Massachusetts	Franklin	pcnt_limited_access	5
+25013	Massachusetts	Hampden	pcnt_limited_access	5
+25015	Massachusetts	Hampshire	pcnt_limited_access	6
+25017	Massachusetts	Middlesex	pcnt_limited_access	3
+25019	Massachusetts	Nantucket	pcnt_limited_access	2
+25021	Massachusetts	Norfolk	pcnt_limited_access	4
+25023	Massachusetts	Plymouth	pcnt_limited_access	6
+25025	Massachusetts	Suffolk	pcnt_limited_access	1
+25027	Massachusetts	Worcester	pcnt_limited_access	5
+26001	Michigan	Alcona	pcnt_limited_access	5
+26003	Michigan	Alger	pcnt_limited_access	13
+26005	Michigan	Allegan	pcnt_limited_access	1
+26007	Michigan	Alpena	pcnt_limited_access	3
+26009	Michigan	Antrim	pcnt_limited_access	0
+26011	Michigan	Arenac	pcnt_limited_access	0
+26013	Michigan	Baraga	pcnt_limited_access	4
+26015	Michigan	Barry	pcnt_limited_access	1
+26017	Michigan	Bay	pcnt_limited_access	6
+26019	Michigan	Benzie	pcnt_limited_access	0
+26021	Michigan	Berrien	pcnt_limited_access	8
+26023	Michigan	Branch	pcnt_limited_access	6
+26025	Michigan	Calhoun	pcnt_limited_access	9
+26027	Michigan	Cass	pcnt_limited_access	2
+26029	Michigan	Charlevoix	pcnt_limited_access	1
+26031	Michigan	Cheboygan	pcnt_limited_access	6
+26033	Michigan	Chippewa	pcnt_limited_access	10
+26035	Michigan	Clare	pcnt_limited_access	3
+26037	Michigan	Clinton	pcnt_limited_access	3
+26039	Michigan	Crawford	pcnt_limited_access	7
+26041	Michigan	Delta	pcnt_limited_access	7
+26043	Michigan	Dickinson	pcnt_limited_access	10
+26045	Michigan	Eaton	pcnt_limited_access	5
+26047	Michigan	Emmet	pcnt_limited_access	6
+26049	Michigan	Genesee	pcnt_limited_access	9
+26051	Michigan	Gladwin	pcnt_limited_access	3
+26053	Michigan	Gogebic	pcnt_limited_access	7
+26055	Michigan	Grand Traverse	pcnt_limited_access	4
+26057	Michigan	Gratiot	pcnt_limited_access	2
+26059	Michigan	Hillsdale	pcnt_limited_access	2
+26061	Michigan	Houghton	pcnt_limited_access	4
+26063	Michigan	Huron	pcnt_limited_access	11
+26065	Michigan	Ingham	pcnt_limited_access	13
+26067	Michigan	Ionia	pcnt_limited_access	2
+26069	Michigan	Iosco	pcnt_limited_access	10
+26071	Michigan	Iron	pcnt_limited_access	6
+26073	Michigan	Isabella	pcnt_limited_access	4
+26075	Michigan	Jackson	pcnt_limited_access	10
+26077	Michigan	Kalamazoo	pcnt_limited_access	9
+26079	Michigan	Kalkaska	pcnt_limited_access	3
+26081	Michigan	Kent	pcnt_limited_access	5
+26083	Michigan	Keweenaw	pcnt_limited_access	6
+26085	Michigan	Lake	pcnt_limited_access	7
+26087	Michigan	Lapeer	pcnt_limited_access	3
+26089	Michigan	Leelanau	pcnt_limited_access	4
+26091	Michigan	Lenawee	pcnt_limited_access	7
+26093	Michigan	Livingston	pcnt_limited_access	4
+26095	Michigan	Luce	pcnt_limited_access	5
+26097	Michigan	Mackinac	pcnt_limited_access	12
+26099	Michigan	Macomb	pcnt_limited_access	4
+26101	Michigan	Manistee	pcnt_limited_access	3
+26103	Michigan	Marquette	pcnt_limited_access	5
+26105	Michigan	Mason	pcnt_limited_access	2
+26107	Michigan	Mecosta	pcnt_limited_access	10
+26109	Michigan	Menominee	pcnt_limited_access	2
+26111	Michigan	Midland	pcnt_limited_access	7
+26113	Michigan	Missaukee	pcnt_limited_access	4
+26115	Michigan	Monroe	pcnt_limited_access	5
+26117	Michigan	Montcalm	pcnt_limited_access	3
+26119	Michigan	Montmorency	pcnt_limited_access	1
+26121	Michigan	Muskegon	pcnt_limited_access	14
+26123	Michigan	Newaygo	pcnt_limited_access	1
+26125	Michigan	Oakland	pcnt_limited_access	5
+26127	Michigan	Oceana	pcnt_limited_access	2
+26129	Michigan	Ogemaw	pcnt_limited_access	0
+26131	Michigan	Ontonagon	pcnt_limited_access	12
+26133	Michigan	Osceola	pcnt_limited_access	6
+26135	Michigan	Oscoda	pcnt_limited_access	0
+26137	Michigan	Otsego	pcnt_limited_access	3
+26139	Michigan	Ottawa	pcnt_limited_access	9
+26141	Michigan	Presque Isle	pcnt_limited_access	8
+26143	Michigan	Roscommon	pcnt_limited_access	9
+26145	Michigan	Saginaw	pcnt_limited_access	7
+26147	Michigan	St. Clair	pcnt_limited_access	11
+26149	Michigan	St. Joseph	pcnt_limited_access	4
+26151	Michigan	Sanilac	pcnt_limited_access	2
+26153	Michigan	Schoolcraft	pcnt_limited_access	10
+26155	Michigan	Shiawassee	pcnt_limited_access	7
+26157	Michigan	Tuscola	pcnt_limited_access	3
+26159	Michigan	Van Buren	pcnt_limited_access	1
+26161	Michigan	Washtenaw	pcnt_limited_access	7
+26163	Michigan	Wayne	pcnt_limited_access	4
+26165	Michigan	Wexford	pcnt_limited_access	4
+27001	Minnesota	Aitkin	pcnt_limited_access	12
+27003	Minnesota	Anoka	pcnt_limited_access	7
+27005	Minnesota	Becker	pcnt_limited_access	14
+27007	Minnesota	Beltrami	pcnt_limited_access	8
+27009	Minnesota	Benton	pcnt_limited_access	7
+27011	Minnesota	Big Stone	pcnt_limited_access	16
+27013	Minnesota	Blue Earth	pcnt_limited_access	16
+27015	Minnesota	Brown	pcnt_limited_access	8
+27017	Minnesota	Carlton	pcnt_limited_access	5
+27019	Minnesota	Carver	pcnt_limited_access	3
+27021	Minnesota	Cass	pcnt_limited_access	7
+27023	Minnesota	Chippewa	pcnt_limited_access	3
+27025	Minnesota	Chisago	pcnt_limited_access	2
+27027	Minnesota	Clay	pcnt_limited_access	5
+27029	Minnesota	Clearwater	pcnt_limited_access	17
+27031	Minnesota	Cook	pcnt_limited_access	7
+27033	Minnesota	Cottonwood	pcnt_limited_access	12
+27035	Minnesota	Crow Wing	pcnt_limited_access	2
+27037	Minnesota	Dakota	pcnt_limited_access	5
+27039	Minnesota	Dodge	pcnt_limited_access	1
+27041	Minnesota	Douglas	pcnt_limited_access	10
+27043	Minnesota	Faribault	pcnt_limited_access	5
+27045	Minnesota	Fillmore	pcnt_limited_access	1
+27047	Minnesota	Freeborn	pcnt_limited_access	11
+27049	Minnesota	Goodhue	pcnt_limited_access	6
+27051	Minnesota	Grant	pcnt_limited_access	17
+27053	Minnesota	Hennepin	pcnt_limited_access	5
+27055	Minnesota	Houston	pcnt_limited_access	2
+27057	Minnesota	Hubbard	pcnt_limited_access	6
+27059	Minnesota	Isanti	pcnt_limited_access	3
+27061	Minnesota	Itasca	pcnt_limited_access	6
+27063	Minnesota	Jackson	pcnt_limited_access	8
+27065	Minnesota	Kanabec	pcnt_limited_access	1
+27067	Minnesota	Kandiyohi	pcnt_limited_access	9
+27069	Minnesota	Kittson	pcnt_limited_access	8
+27071	Minnesota	Koochiching	pcnt_limited_access	17
+27073	Minnesota	Lac qui Parle	pcnt_limited_access	4
+27075	Minnesota	Lake	pcnt_limited_access	2
+27077	Minnesota	Lake of the Woods	pcnt_limited_access	15
+27079	Minnesota	Le Sueur	pcnt_limited_access	1
+27081	Minnesota	Lincoln	pcnt_limited_access	25
+27083	Minnesota	Lyon	pcnt_limited_access	7
+27085	Minnesota	McLeod	pcnt_limited_access	4
+27087	Minnesota	Mahnomen	pcnt_limited_access	19
+27089	Minnesota	Marshall	pcnt_limited_access	17
+27091	Minnesota	Martin	pcnt_limited_access	11
+27093	Minnesota	Meeker	pcnt_limited_access	4
+27095	Minnesota	Mille Lacs	pcnt_limited_access	2
+27097	Minnesota	Morrison	pcnt_limited_access	11
+27099	Minnesota	Mower	pcnt_limited_access	9
+27101	Minnesota	Murray	pcnt_limited_access	11
+27103	Minnesota	Nicollet	pcnt_limited_access	8
+27105	Minnesota	Nobles	pcnt_limited_access	14
+27107	Minnesota	Norman	pcnt_limited_access	9
+27109	Minnesota	Olmsted	pcnt_limited_access	4
+27111	Minnesota	Otter Tail	pcnt_limited_access	5
+27113	Minnesota	Pennington	pcnt_limited_access	5
+27115	Minnesota	Pine	pcnt_limited_access	6
+27117	Minnesota	Pipestone	pcnt_limited_access	11
+27119	Minnesota	Polk	pcnt_limited_access	8
+27121	Minnesota	Pope	pcnt_limited_access	3
+27123	Minnesota	Ramsey	pcnt_limited_access	6
+27125	Minnesota	Red Lake	pcnt_limited_access	11
+27127	Minnesota	Redwood	pcnt_limited_access	15
+27129	Minnesota	Renville	pcnt_limited_access	16
+27131	Minnesota	Rice	pcnt_limited_access	5
+27133	Minnesota	Rock	pcnt_limited_access	6
+27135	Minnesota	Roseau	pcnt_limited_access	8
+27137	Minnesota	St. Louis	pcnt_limited_access	9
+27139	Minnesota	Scott	pcnt_limited_access	4
+27141	Minnesota	Sherburne	pcnt_limited_access	4
+27143	Minnesota	Sibley	pcnt_limited_access	1
+27145	Minnesota	Stearns	pcnt_limited_access	5
+27147	Minnesota	Steele	pcnt_limited_access	5
+27149	Minnesota	Stevens	pcnt_limited_access	4
+27151	Minnesota	Swift	pcnt_limited_access	15
+27153	Minnesota	Todd	pcnt_limited_access	13
+27155	Minnesota	Traverse	pcnt_limited_access	16
+27157	Minnesota	Wabasha	pcnt_limited_access	3
+27159	Minnesota	Wadena	pcnt_limited_access	18
+27161	Minnesota	Waseca	pcnt_limited_access	7
+27163	Minnesota	Washington	pcnt_limited_access	5
+27165	Minnesota	Watonwan	pcnt_limited_access	1
+27167	Minnesota	Wilkin	pcnt_limited_access	7
+27169	Minnesota	Winona	pcnt_limited_access	4
+27171	Minnesota	Wright	pcnt_limited_access	2
+27173	Minnesota	Yellow Medicine	pcnt_limited_access	10
+28001	Mississippi	Adams	pcnt_limited_access	16
+28003	Mississippi	Alcorn	pcnt_limited_access	5
+28005	Mississippi	Amite	pcnt_limited_access	11
+28007	Mississippi	Attala	pcnt_limited_access	5
+28009	Mississippi	Benton	pcnt_limited_access	22
+28011	Mississippi	Bolivar	pcnt_limited_access	24
+28013	Mississippi	Calhoun	pcnt_limited_access	4
+28015	Mississippi	Carroll	pcnt_limited_access	24
+28017	Mississippi	Chickasaw	pcnt_limited_access	3
+28019	Mississippi	Choctaw	pcnt_limited_access	2
+28021	Mississippi	Claiborne	pcnt_limited_access	10
+28023	Mississippi	Clarke	pcnt_limited_access	6
+28025	Mississippi	Clay	pcnt_limited_access	10
+28027	Mississippi	Coahoma	pcnt_limited_access	16
+28029	Mississippi	Copiah	pcnt_limited_access	16
+28031	Mississippi	Covington	pcnt_limited_access	0
+28033	Mississippi	DeSoto	pcnt_limited_access	8
+28035	Mississippi	Forrest	pcnt_limited_access	7
+28037	Mississippi	Franklin	pcnt_limited_access	16
+28039	Mississippi	George	pcnt_limited_access	4
+28041	Mississippi	Greene	pcnt_limited_access	7
+28043	Mississippi	Grenada	pcnt_limited_access	8
+28045	Mississippi	Hancock	pcnt_limited_access	17
+28047	Mississippi	Harrison	pcnt_limited_access	16
+28049	Mississippi	Hinds	pcnt_limited_access	11
+28051	Mississippi	Holmes	pcnt_limited_access	20
+28053	Mississippi	Humphreys	pcnt_limited_access	12
+28055	Mississippi	Issaquena	pcnt_limited_access	16
+28057	Mississippi	Itawamba	pcnt_limited_access	4
+28059	Mississippi	Jackson	pcnt_limited_access	9
+28061	Mississippi	Jasper	pcnt_limited_access	6
+28063	Mississippi	Jefferson	pcnt_limited_access	4
+28065	Mississippi	Jefferson Davis	pcnt_limited_access	1
+28067	Mississippi	Jones	pcnt_limited_access	8
+28069	Mississippi	Kemper	pcnt_limited_access	20
+28071	Mississippi	Lafayette	pcnt_limited_access	14
+28073	Mississippi	Lamar	pcnt_limited_access	5
+28075	Mississippi	Lauderdale	pcnt_limited_access	9
+28077	Mississippi	Lawrence	pcnt_limited_access	9
+28079	Mississippi	Leake	pcnt_limited_access	6
+28081	Mississippi	Lee	pcnt_limited_access	7
+28083	Mississippi	Leflore	pcnt_limited_access	21
+28085	Mississippi	Lincoln	pcnt_limited_access	11
+28087	Mississippi	Lowndes	pcnt_limited_access	11
+28089	Mississippi	Madison	pcnt_limited_access	6
+28091	Mississippi	Marion	pcnt_limited_access	9
+28093	Mississippi	Marshall	pcnt_limited_access	6
+28095	Mississippi	Monroe	pcnt_limited_access	3
+28097	Mississippi	Montgomery	pcnt_limited_access	29
+28099	Mississippi	Neshoba	pcnt_limited_access	2
+28101	Mississippi	Newton	pcnt_limited_access	6
+28103	Mississippi	Noxubee	pcnt_limited_access	10
+28105	Mississippi	Oktibbeha	pcnt_limited_access	16
+28107	Mississippi	Panola	pcnt_limited_access	12
+28109	Mississippi	Pearl River	pcnt_limited_access	6
+28111	Mississippi	Perry	pcnt_limited_access	3
+28113	Mississippi	Pike	pcnt_limited_access	5
+28115	Mississippi	Pontotoc	pcnt_limited_access	5
+28117	Mississippi	Prentiss	pcnt_limited_access	3
+28119	Mississippi	Quitman	pcnt_limited_access	23
+28121	Mississippi	Rankin	pcnt_limited_access	8
+28123	Mississippi	Scott	pcnt_limited_access	9
+28125	Mississippi	Sharkey	pcnt_limited_access	4
+28127	Mississippi	Simpson	pcnt_limited_access	4
+28129	Mississippi	Smith	pcnt_limited_access	5
+28131	Mississippi	Stone	pcnt_limited_access	8
+28133	Mississippi	Sunflower	pcnt_limited_access	16
+28135	Mississippi	Tallahatchie	pcnt_limited_access	38
+28137	Mississippi	Tate	pcnt_limited_access	15
+28139	Mississippi	Tippah	pcnt_limited_access	4
+28141	Mississippi	Tishomingo	pcnt_limited_access	0
+28143	Mississippi	Tunica	pcnt_limited_access	20
+28145	Mississippi	Union	pcnt_limited_access	6
+28147	Mississippi	Walthall	pcnt_limited_access	14
+28149	Mississippi	Warren	pcnt_limited_access	12
+28151	Mississippi	Washington	pcnt_limited_access	9
+28153	Mississippi	Wayne	pcnt_limited_access	2
+28155	Mississippi	Webster	pcnt_limited_access	6
+28157	Mississippi	Wilkinson	pcnt_limited_access	8
+28159	Mississippi	Winston	pcnt_limited_access	8
+28161	Mississippi	Yalobusha	pcnt_limited_access	12
+28163	Mississippi	Yazoo	pcnt_limited_access	22
+29001	Missouri	Adair	pcnt_limited_access	9
+29003	Missouri	Andrew	pcnt_limited_access	4
+29005	Missouri	Atchison	pcnt_limited_access	2
+29007	Missouri	Audrain	pcnt_limited_access	7
+29009	Missouri	Barry	pcnt_limited_access	3
+29011	Missouri	Barton	pcnt_limited_access	9
+29013	Missouri	Bates	pcnt_limited_access	2
+29015	Missouri	Benton	pcnt_limited_access	2
+29017	Missouri	Bollinger	pcnt_limited_access	11
+29019	Missouri	Boone	pcnt_limited_access	12
+29021	Missouri	Buchanan	pcnt_limited_access	7
+29023	Missouri	Butler	pcnt_limited_access	7
+29025	Missouri	Caldwell	pcnt_limited_access	8
+29027	Missouri	Callaway	pcnt_limited_access	5
+29029	Missouri	Camden	pcnt_limited_access	3
+29031	Missouri	Cape Girardeau	pcnt_limited_access	7
+29033	Missouri	Carroll	pcnt_limited_access	6
+29035	Missouri	Carter	pcnt_limited_access	28
+29037	Missouri	Cass	pcnt_limited_access	8
+29039	Missouri	Cedar	pcnt_limited_access	3
+29041	Missouri	Chariton	pcnt_limited_access	11
+29043	Missouri	Christian	pcnt_limited_access	4
+29045	Missouri	Clark	pcnt_limited_access	5
+29047	Missouri	Clay	pcnt_limited_access	6
+29049	Missouri	Clinton	pcnt_limited_access	3
+29051	Missouri	Cole	pcnt_limited_access	6
+29053	Missouri	Cooper	pcnt_limited_access	8
+29055	Missouri	Crawford	pcnt_limited_access	2
+29057	Missouri	Dade	pcnt_limited_access	3
+29059	Missouri	Dallas	pcnt_limited_access	8
+29061	Missouri	Daviess	pcnt_limited_access	9
+29063	Missouri	DeKalb	pcnt_limited_access	14
+29065	Missouri	Dent	pcnt_limited_access	6
+29067	Missouri	Douglas	pcnt_limited_access	18
+29069	Missouri	Dunklin	pcnt_limited_access	4
+29071	Missouri	Franklin	pcnt_limited_access	2
+29073	Missouri	Gasconade	pcnt_limited_access	2
+29075	Missouri	Gentry	pcnt_limited_access	1
+29077	Missouri	Greene	pcnt_limited_access	6
+29079	Missouri	Grundy	pcnt_limited_access	13
+29081	Missouri	Harrison	pcnt_limited_access	11
+29083	Missouri	Henry	pcnt_limited_access	11
+29085	Missouri	Hickory	pcnt_limited_access	3
+29087	Missouri	Holt	pcnt_limited_access	36
+29089	Missouri	Howard	pcnt_limited_access	11
+29091	Missouri	Howell	pcnt_limited_access	10
+29093	Missouri	Iron	pcnt_limited_access	10
+29095	Missouri	Jackson	pcnt_limited_access	7
+29097	Missouri	Jasper	pcnt_limited_access	9
+29099	Missouri	Jefferson	pcnt_limited_access	7
+29101	Missouri	Johnson	pcnt_limited_access	6
+29103	Missouri	Knox	pcnt_limited_access	11
+29105	Missouri	Laclede	pcnt_limited_access	8
+29107	Missouri	Lafayette	pcnt_limited_access	5
+29109	Missouri	Lawrence	pcnt_limited_access	4
+29111	Missouri	Lewis	pcnt_limited_access	16
+29113	Missouri	Lincoln	pcnt_limited_access	5
+29115	Missouri	Linn	pcnt_limited_access	11
+29117	Missouri	Livingston	pcnt_limited_access	3
+29119	Missouri	McDonald	pcnt_limited_access	2
+29121	Missouri	Macon	pcnt_limited_access	6
+29123	Missouri	Madison	pcnt_limited_access	8
+29125	Missouri	Maries	pcnt_limited_access	2
+29127	Missouri	Marion	pcnt_limited_access	6
+29129	Missouri	Mercer	pcnt_limited_access	5
+29131	Missouri	Miller	pcnt_limited_access	1
+29133	Missouri	Mississippi	pcnt_limited_access	0
+29135	Missouri	Moniteau	pcnt_limited_access	3
+29137	Missouri	Monroe	pcnt_limited_access	1
+29139	Missouri	Montgomery	pcnt_limited_access	5
+29141	Missouri	Morgan	pcnt_limited_access	1
+29143	Missouri	New Madrid	pcnt_limited_access	2
+29145	Missouri	Newton	pcnt_limited_access	9
+29147	Missouri	Nodaway	pcnt_limited_access	22
+29149	Missouri	Oregon	pcnt_limited_access	9
+29151	Missouri	Osage	pcnt_limited_access	4
+29153	Missouri	Ozark	pcnt_limited_access	28
+29155	Missouri	Pemiscot	pcnt_limited_access	4
+29157	Missouri	Perry	pcnt_limited_access	5
+29159	Missouri	Pettis	pcnt_limited_access	6
+29161	Missouri	Phelps	pcnt_limited_access	6
+29163	Missouri	Pike	pcnt_limited_access	10
+29165	Missouri	Platte	pcnt_limited_access	6
+29167	Missouri	Polk	pcnt_limited_access	3
+29169	Missouri	Pulaski	pcnt_limited_access	6
+29171	Missouri	Putnam	pcnt_limited_access	11
+29173	Missouri	Ralls	pcnt_limited_access	3
+29175	Missouri	Randolph	pcnt_limited_access	7
+29177	Missouri	Ray	pcnt_limited_access	3
+29179	Missouri	Reynolds	pcnt_limited_access	21
+29181	Missouri	Ripley	pcnt_limited_access	13
+29183	Missouri	St. Charles	pcnt_limited_access	5
+29185	Missouri	St. Clair	pcnt_limited_access	4
+29186	Missouri	Ste. Genevieve	pcnt_limited_access	9
+29187	Missouri	St. Francois	pcnt_limited_access	6
+29189	Missouri	St. Louis	pcnt_limited_access	5
+29195	Missouri	Saline	pcnt_limited_access	10
+29197	Missouri	Schuyler	pcnt_limited_access	32
+29199	Missouri	Scotland	pcnt_limited_access	7
+29201	Missouri	Scott	pcnt_limited_access	12
+29203	Missouri	Shannon	pcnt_limited_access	13
+29205	Missouri	Shelby	pcnt_limited_access	15
+29207	Missouri	Stoddard	pcnt_limited_access	2
+29209	Missouri	Stone	pcnt_limited_access	0
+29211	Missouri	Sullivan	pcnt_limited_access	14
+29213	Missouri	Taney	pcnt_limited_access	9
+29215	Missouri	Texas	pcnt_limited_access	6
+29217	Missouri	Vernon	pcnt_limited_access	8
+29219	Missouri	Warren	pcnt_limited_access	2
+29221	Missouri	Washington	pcnt_limited_access	9
+29223	Missouri	Wayne	pcnt_limited_access	19
+29225	Missouri	Webster	pcnt_limited_access	2
+29227	Missouri	Worth	pcnt_limited_access	10
+29229	Missouri	Wright	pcnt_limited_access	6
+29510	Missouri	St. Louis City	pcnt_limited_access	5
+30001	Montana	Beaverhead	pcnt_limited_access	8
+30003	Montana	Big Horn	pcnt_limited_access	24
+30005	Montana	Blaine	pcnt_limited_access	20
+30007	Montana	Broadwater	pcnt_limited_access	11
+30009	Montana	Carbon	pcnt_limited_access	11
+30011	Montana	Carter	pcnt_limited_access	42
+30013	Montana	Cascade	pcnt_limited_access	8
+30015	Montana	Chouteau	pcnt_limited_access	35
+30017	Montana	Custer	pcnt_limited_access	18
+30019	Montana	Daniels	pcnt_limited_access	35
+30021	Montana	Dawson	pcnt_limited_access	10
+30023	Montana	Deer Lodge	pcnt_limited_access	3
+30025	Montana	Fallon	pcnt_limited_access	5
+30027	Montana	Fergus	pcnt_limited_access	12
+30029	Montana	Flathead	pcnt_limited_access	4
+30031	Montana	Gallatin	pcnt_limited_access	4
+30033	Montana	Garfield	pcnt_limited_access	19
+30035	Montana	Glacier	pcnt_limited_access	10
+30037	Montana	Golden Valley	pcnt_limited_access	40
+30039	Montana	Granite	pcnt_limited_access	22
+30041	Montana	Hill	pcnt_limited_access	16
+30043	Montana	Jefferson	pcnt_limited_access	13
+30045	Montana	Judith Basin	pcnt_limited_access	20
+30047	Montana	Lake	pcnt_limited_access	8
+30049	Montana	Lewis and Clark	pcnt_limited_access	6
+30051	Montana	Liberty	pcnt_limited_access	20
+30053	Montana	Lincoln	pcnt_limited_access	6
+30055	Montana	McCone	pcnt_limited_access	31
+30057	Montana	Madison	pcnt_limited_access	11
+30059	Montana	Meagher	pcnt_limited_access	50
+30061	Montana	Mineral	pcnt_limited_access	18
+30063	Montana	Missoula	pcnt_limited_access	8
+30065	Montana	Musselshell	pcnt_limited_access	14
+30067	Montana	Park	pcnt_limited_access	15
+30069	Montana	Petroleum	pcnt_limited_access	48
+30071	Montana	Phillips	pcnt_limited_access	11
+30073	Montana	Pondera	pcnt_limited_access	25
+30075	Montana	Powder River	pcnt_limited_access	20
+30077	Montana	Powell	pcnt_limited_access	7
+30079	Montana	Prairie	pcnt_limited_access	38
+30081	Montana	Ravalli	pcnt_limited_access	2
+30083	Montana	Richland	pcnt_limited_access	10
+30085	Montana	Roosevelt	pcnt_limited_access	26
+30087	Montana	Rosebud	pcnt_limited_access	10
+30089	Montana	Sanders	pcnt_limited_access	22
+30091	Montana	Sheridan	pcnt_limited_access	11
+30093	Montana	Silver Bow	pcnt_limited_access	9
+30095	Montana	Stillwater	pcnt_limited_access	6
+30097	Montana	Sweet Grass	pcnt_limited_access	9
+30099	Montana	Teton	pcnt_limited_access	21
+30101	Montana	Toole	pcnt_limited_access	11
+30103	Montana	Treasure	pcnt_limited_access	40
+30105	Montana	Valley	pcnt_limited_access	14
+30107	Montana	Wheatland	pcnt_limited_access	44
+30109	Montana	Wibaux	pcnt_limited_access	16
+30111	Montana	Yellowstone	pcnt_limited_access	7
+31001	Nebraska	Adams	pcnt_limited_access	8
+31003	Nebraska	Antelope	pcnt_limited_access	16
+31005	Nebraska	Arthur	pcnt_limited_access	36
+31007	Nebraska	Banner	pcnt_limited_access	44
+31009	Nebraska	Blaine	pcnt_limited_access	42
+31011	Nebraska	Boone	pcnt_limited_access	9
+31013	Nebraska	Box Butte	pcnt_limited_access	12
+31015	Nebraska	Boyd	pcnt_limited_access	40
+31017	Nebraska	Brown	pcnt_limited_access	6
+31019	Nebraska	Buffalo	pcnt_limited_access	11
+31021	Nebraska	Burt	pcnt_limited_access	15
+31023	Nebraska	Butler	pcnt_limited_access	5
+31025	Nebraska	Cass	pcnt_limited_access	6
+31027	Nebraska	Cedar	pcnt_limited_access	13
+31029	Nebraska	Chase	pcnt_limited_access	11
+31031	Nebraska	Cherry	pcnt_limited_access	13
+31033	Nebraska	Cheyenne	pcnt_limited_access	5
+31035	Nebraska	Clay	pcnt_limited_access	15
+31037	Nebraska	Colfax	pcnt_limited_access	6
+31039	Nebraska	Cuming	pcnt_limited_access	10
+31041	Nebraska	Custer	pcnt_limited_access	18
+31043	Nebraska	Dakota	pcnt_limited_access	6
+31045	Nebraska	Dawes	pcnt_limited_access	9
+31047	Nebraska	Dawson	pcnt_limited_access	15
+31049	Nebraska	Deuel	pcnt_limited_access	7
+31051	Nebraska	Dixon	pcnt_limited_access	13
+31053	Nebraska	Dodge	pcnt_limited_access	8
+31055	Nebraska	Douglas	pcnt_limited_access	4
+31057	Nebraska	Dundy	pcnt_limited_access	11
+31059	Nebraska	Fillmore	pcnt_limited_access	8
+31061	Nebraska	Franklin	pcnt_limited_access	19
+31063	Nebraska	Frontier	pcnt_limited_access	38
+31065	Nebraska	Furnas	pcnt_limited_access	20
+31067	Nebraska	Gage	pcnt_limited_access	6
+31069	Nebraska	Garden	pcnt_limited_access	44
+31071	Nebraska	Garfield	pcnt_limited_access	1
+31073	Nebraska	Gosper	pcnt_limited_access	20
+31075	Nebraska	Grant	pcnt_limited_access	40
+31077	Nebraska	Greeley	pcnt_limited_access	24
+31079	Nebraska	Hall	pcnt_limited_access	5
+31081	Nebraska	Hamilton	pcnt_limited_access	1
+31083	Nebraska	Harlan	pcnt_limited_access	2
+31085	Nebraska	Hayes	pcnt_limited_access	33
+31087	Nebraska	Hitchcock	pcnt_limited_access	36
+31089	Nebraska	Holt	pcnt_limited_access	8
+31091	Nebraska	Hooker	pcnt_limited_access	49
+31093	Nebraska	Howard	pcnt_limited_access	6
+31095	Nebraska	Jefferson	pcnt_limited_access	5
+31097	Nebraska	Johnson	pcnt_limited_access	6
+31099	Nebraska	Kearney	pcnt_limited_access	3
+31101	Nebraska	Keith	pcnt_limited_access	7
+31103	Nebraska	Keya Paha	pcnt_limited_access	49
+31105	Nebraska	Kimball	pcnt_limited_access	2
+31107	Nebraska	Knox	pcnt_limited_access	29
+31109	Nebraska	Lancaster	pcnt_limited_access	3
+31111	Nebraska	Lincoln	pcnt_limited_access	7
+31113	Nebraska	Logan	pcnt_limited_access	26
+31115	Nebraska	Loup	pcnt_limited_access	37
+31117	Nebraska	McPherson	pcnt_limited_access	25
+31119	Nebraska	Madison	pcnt_limited_access	9
+31121	Nebraska	Merrick	pcnt_limited_access	13
+31123	Nebraska	Morrill	pcnt_limited_access	20
+31125	Nebraska	Nance	pcnt_limited_access	28
+31127	Nebraska	Nemaha	pcnt_limited_access	4
+31129	Nebraska	Nuckolls	pcnt_limited_access	16
+31131	Nebraska	Otoe	pcnt_limited_access	4
+31133	Nebraska	Pawnee	pcnt_limited_access	6
+31135	Nebraska	Perkins	pcnt_limited_access	23
+31137	Nebraska	Phelps	pcnt_limited_access	5
+31139	Nebraska	Pierce	pcnt_limited_access	25
+31141	Nebraska	Platte	pcnt_limited_access	4
+31143	Nebraska	Polk	pcnt_limited_access	26
+31145	Nebraska	Red Willow	pcnt_limited_access	15
+31147	Nebraska	Richardson	pcnt_limited_access	7
+31149	Nebraska	Rock	pcnt_limited_access	11
+31151	Nebraska	Saline	pcnt_limited_access	7
+31153	Nebraska	Sarpy	pcnt_limited_access	6
+31155	Nebraska	Saunders	pcnt_limited_access	3
+31157	Nebraska	Scotts Bluff	pcnt_limited_access	10
+31159	Nebraska	Seward	pcnt_limited_access	4
+31161	Nebraska	Sheridan	pcnt_limited_access	16
+31163	Nebraska	Sherman	pcnt_limited_access	15
+31165	Nebraska	Sioux	pcnt_limited_access	24
+31167	Nebraska	Stanton	pcnt_limited_access	24
+31169	Nebraska	Thayer	pcnt_limited_access	9
+31171	Nebraska	Thomas	pcnt_limited_access	23
+31173	Nebraska	Thurston	pcnt_limited_access	7
+31175	Nebraska	Valley	pcnt_limited_access	9
+31177	Nebraska	Washington	pcnt_limited_access	1
+31179	Nebraska	Wayne	pcnt_limited_access	2
+31181	Nebraska	Webster	pcnt_limited_access	42
+31183	Nebraska	Wheeler	pcnt_limited_access	43
+31185	Nebraska	York	pcnt_limited_access	7
+32001	Nevada	Churchill	pcnt_limited_access	7
+32003	Nevada	Clark	pcnt_limited_access	2
+32005	Nevada	Douglas	pcnt_limited_access	12
+32007	Nevada	Elko	pcnt_limited_access	6
+32009	Nevada	Esmeralda	pcnt_limited_access	29
+32011	Nevada	Eureka	pcnt_limited_access	25
+32013	Nevada	Humboldt	pcnt_limited_access	9
+32015	Nevada	Lander	pcnt_limited_access	4
+32017	Nevada	Lincoln	pcnt_limited_access	35
+32019	Nevada	Lyon	pcnt_limited_access	12
+32021	Nevada	Mineral	pcnt_limited_access	16
+32023	Nevada	Nye	pcnt_limited_access	19
+32027	Nevada	Pershing	pcnt_limited_access	3
+32029	Nevada	Storey	pcnt_limited_access	1
+32031	Nevada	Washoe	pcnt_limited_access	5
+32033	Nevada	White Pine	pcnt_limited_access	14
+32510	Nevada	Carson City	pcnt_limited_access	3
+33001	New Hampshire	Belknap	pcnt_limited_access	4
+33003	New Hampshire	Carroll	pcnt_limited_access	0
+33005	New Hampshire	Cheshire	pcnt_limited_access	3
+33007	New Hampshire	Coos	pcnt_limited_access	4
+33009	New Hampshire	Grafton	pcnt_limited_access	4
+33011	New Hampshire	Hillsborough	pcnt_limited_access	3
+33013	New Hampshire	Merrimack	pcnt_limited_access	5
+33015	New Hampshire	Rockingham	pcnt_limited_access	5
+33017	New Hampshire	Strafford	pcnt_limited_access	5
+33019	New Hampshire	Sullivan	pcnt_limited_access	5
+34001	New Jersey	Atlantic	pcnt_limited_access	11
+34003	New Jersey	Bergen	pcnt_limited_access	1
+34005	New Jersey	Burlington	pcnt_limited_access	4
+34007	New Jersey	Camden	pcnt_limited_access	5
+34009	New Jersey	Cape May	pcnt_limited_access	9
+34011	New Jersey	Cumberland	pcnt_limited_access	9
+34013	New Jersey	Essex	pcnt_limited_access	1
+34015	New Jersey	Gloucester	pcnt_limited_access	8
+34017	New Jersey	Hudson	pcnt_limited_access	0
+34019	New Jersey	Hunterdon	pcnt_limited_access	2
+34021	New Jersey	Mercer	pcnt_limited_access	3
+34023	New Jersey	Middlesex	pcnt_limited_access	4
+34025	New Jersey	Monmouth	pcnt_limited_access	4
+34027	New Jersey	Morris	pcnt_limited_access	3
+34029	New Jersey	Ocean	pcnt_limited_access	10
+34031	New Jersey	Passaic	pcnt_limited_access	2
+34033	New Jersey	Salem	pcnt_limited_access	3
+34035	New Jersey	Somerset	pcnt_limited_access	3
+34037	New Jersey	Sussex	pcnt_limited_access	4
+34039	New Jersey	Union	pcnt_limited_access	1
+34041	New Jersey	Warren	pcnt_limited_access	5
+35001	New Mexico	Bernalillo	pcnt_limited_access	6
+35003	New Mexico	Catron	pcnt_limited_access	45
+35005	New Mexico	Chaves	pcnt_limited_access	13
+35006	New Mexico	Cibola	pcnt_limited_access	19
+35007	New Mexico	Colfax	pcnt_limited_access	21
+35009	New Mexico	Curry	pcnt_limited_access	15
+35011	New Mexico	De Baca	pcnt_limited_access	49
+35013	New Mexico	Dona Ana	pcnt_limited_access	21
+35015	New Mexico	Eddy	pcnt_limited_access	13
+35017	New Mexico	Grant	pcnt_limited_access	15
+35019	New Mexico	Guadalupe	pcnt_limited_access	22
+35021	New Mexico	Harding	pcnt_limited_access	30
+35023	New Mexico	Hidalgo	pcnt_limited_access	12
+35025	New Mexico	Lea	pcnt_limited_access	7
+35027	New Mexico	Lincoln	pcnt_limited_access	16
+35028	New Mexico	Los Alamos	pcnt_limited_access	3
+35029	New Mexico	Luna	pcnt_limited_access	18
+35031	New Mexico	McKinley	pcnt_limited_access	33
+35033	New Mexico	Mora	pcnt_limited_access	15
+35035	New Mexico	Otero	pcnt_limited_access	20
+35037	New Mexico	Quay	pcnt_limited_access	13
+35039	New Mexico	Rio Arriba	pcnt_limited_access	23
+35041	New Mexico	Roosevelt	pcnt_limited_access	10
+35043	New Mexico	Sandoval	pcnt_limited_access	14
+35045	New Mexico	San Juan	pcnt_limited_access	14
+35047	New Mexico	San Miguel	pcnt_limited_access	16
+35049	New Mexico	Santa Fe	pcnt_limited_access	10
+35051	New Mexico	Sierra	pcnt_limited_access	21
+35053	New Mexico	Socorro	pcnt_limited_access	17
+35055	New Mexico	Taos	pcnt_limited_access	21
+35057	New Mexico	Torrance	pcnt_limited_access	11
+35059	New Mexico	Union	pcnt_limited_access	14
+35061	New Mexico	Valencia	pcnt_limited_access	19
+36001	New York	Albany	pcnt_limited_access	5
+36003	New York	Allegany	pcnt_limited_access	3
+36005	New York	Bronx	pcnt_limited_access	0
+36007	New York	Broome	pcnt_limited_access	5
+36009	New York	Cattaraugus	pcnt_limited_access	2
+36011	New York	Cayuga	pcnt_limited_access	2
+36013	New York	Chautauqua	pcnt_limited_access	4
+36015	New York	Chemung	pcnt_limited_access	6
+36017	New York	Chenango	pcnt_limited_access	1
+36019	New York	Clinton	pcnt_limited_access	8
+36021	New York	Columbia	pcnt_limited_access	5
+36023	New York	Cortland	pcnt_limited_access	3
+36025	New York	Delaware	pcnt_limited_access	1
+36027	New York	Dutchess	pcnt_limited_access	6
+36029	New York	Erie	pcnt_limited_access	6
+36031	New York	Essex	pcnt_limited_access	2
+36033	New York	Franklin	pcnt_limited_access	7
+36035	New York	Fulton	pcnt_limited_access	3
+36037	New York	Genesee	pcnt_limited_access	2
+36039	New York	Greene	pcnt_limited_access	4
+36041	New York	Hamilton	pcnt_limited_access	6
+36043	New York	Herkimer	pcnt_limited_access	4
+36045	New York	Jefferson	pcnt_limited_access	5
+36047	New York	Kings	pcnt_limited_access	0
+36049	New York	Lewis	pcnt_limited_access	6
+36051	New York	Livingston	pcnt_limited_access	9
+36053	New York	Madison	pcnt_limited_access	5
+36055	New York	Monroe	pcnt_limited_access	7
+36057	New York	Montgomery	pcnt_limited_access	19
+36059	New York	Nassau	pcnt_limited_access	0
+36061	New York	New York	pcnt_limited_access	0
+36063	New York	Niagara	pcnt_limited_access	5
+36065	New York	Oneida	pcnt_limited_access	6
+36067	New York	Onondaga	pcnt_limited_access	5
+36069	New York	Ontario	pcnt_limited_access	3
+36071	New York	Orange	pcnt_limited_access	4
+36073	New York	Orleans	pcnt_limited_access	6
+36075	New York	Oswego	pcnt_limited_access	3
+36077	New York	Otsego	pcnt_limited_access	10
+36079	New York	Putnam	pcnt_limited_access	5
+36081	New York	Queens	pcnt_limited_access	0
+36083	New York	Rensselaer	pcnt_limited_access	5
+36085	New York	Richmond	pcnt_limited_access	1
+36087	New York	Rockland	pcnt_limited_access	5
+36089	New York	St. Lawrence	pcnt_limited_access	6
+36091	New York	Saratoga	pcnt_limited_access	4
+36093	New York	Schenectady	pcnt_limited_access	10
+36095	New York	Schoharie	pcnt_limited_access	3
+36097	New York	Schuyler	pcnt_limited_access	2
+36099	New York	Seneca	pcnt_limited_access	2
+36101	New York	Steuben	pcnt_limited_access	4
+36103	New York	Suffolk	pcnt_limited_access	4
+36105	New York	Sullivan	pcnt_limited_access	6
+36107	New York	Tioga	pcnt_limited_access	3
+36109	New York	Tompkins	pcnt_limited_access	6
+36111	New York	Ulster	pcnt_limited_access	6
+36113	New York	Warren	pcnt_limited_access	4
+36115	New York	Washington	pcnt_limited_access	4
+36117	New York	Wayne	pcnt_limited_access	3
+36119	New York	Westchester	pcnt_limited_access	1
+36121	New York	Wyoming	pcnt_limited_access	5
+36123	New York	Yates	pcnt_limited_access	0
+37001	North Carolina	Alamance	pcnt_limited_access	11
+37003	North Carolina	Alexander	pcnt_limited_access	2
+37005	North Carolina	Alleghany	pcnt_limited_access	1
+37007	North Carolina	Anson	pcnt_limited_access	3
+37009	North Carolina	Ashe	pcnt_limited_access	2
+37011	North Carolina	Avery	pcnt_limited_access	0
+37013	North Carolina	Beaufort	pcnt_limited_access	5
+37015	North Carolina	Bertie	pcnt_limited_access	5
+37017	North Carolina	Bladen	pcnt_limited_access	3
+37019	North Carolina	Brunswick	pcnt_limited_access	5
+37021	North Carolina	Buncombe	pcnt_limited_access	9
+37023	North Carolina	Burke	pcnt_limited_access	12
+37025	North Carolina	Cabarrus	pcnt_limited_access	6
+37027	North Carolina	Caldwell	pcnt_limited_access	16
+37029	North Carolina	Camden	pcnt_limited_access	1
+37031	North Carolina	Carteret	pcnt_limited_access	7
+37033	North Carolina	Caswell	pcnt_limited_access	6
+37035	North Carolina	Catawba	pcnt_limited_access	10
+37037	North Carolina	Chatham	pcnt_limited_access	3
+37039	North Carolina	Cherokee	pcnt_limited_access	0
+37041	North Carolina	Chowan	pcnt_limited_access	7
+37043	North Carolina	Clay	pcnt_limited_access	2
+37045	North Carolina	Cleveland	pcnt_limited_access	6
+37047	North Carolina	Columbus	pcnt_limited_access	1
+37049	North Carolina	Craven	pcnt_limited_access	6
+37051	North Carolina	Cumberland	pcnt_limited_access	13
+37053	North Carolina	Currituck	pcnt_limited_access	3
+37055	North Carolina	Dare	pcnt_limited_access	10
+37057	North Carolina	Davidson	pcnt_limited_access	6
+37059	North Carolina	Davie	pcnt_limited_access	3
+37061	North Carolina	Duplin	pcnt_limited_access	1
+37063	North Carolina	Durham	pcnt_limited_access	6
+37065	North Carolina	Edgecombe	pcnt_limited_access	9
+37067	North Carolina	Forsyth	pcnt_limited_access	12
+37069	North Carolina	Franklin	pcnt_limited_access	2
+37071	North Carolina	Gaston	pcnt_limited_access	11
+37073	North Carolina	Gates	pcnt_limited_access	0
+37075	North Carolina	Graham	pcnt_limited_access	2
+37077	North Carolina	Granville	pcnt_limited_access	3
+37079	North Carolina	Greene	pcnt_limited_access	0
+37081	North Carolina	Guilford	pcnt_limited_access	7
+37083	North Carolina	Halifax	pcnt_limited_access	10
+37085	North Carolina	Harnett	pcnt_limited_access	4
+37087	North Carolina	Haywood	pcnt_limited_access	7
+37089	North Carolina	Henderson	pcnt_limited_access	5
+37091	North Carolina	Hertford	pcnt_limited_access	6
+37093	North Carolina	Hoke	pcnt_limited_access	9
+37095	North Carolina	Hyde	pcnt_limited_access	26
+37097	North Carolina	Iredell	pcnt_limited_access	5
+37099	North Carolina	Jackson	pcnt_limited_access	8
+37101	North Carolina	Johnston	pcnt_limited_access	2
+37103	North Carolina	Jones	pcnt_limited_access	0
+37105	North Carolina	Lee	pcnt_limited_access	9
+37107	North Carolina	Lenoir	pcnt_limited_access	5
+37109	North Carolina	Lincoln	pcnt_limited_access	5
+37111	North Carolina	McDowell	pcnt_limited_access	3
+37113	North Carolina	Macon	pcnt_limited_access	2
+37115	North Carolina	Madison	pcnt_limited_access	4
+37117	North Carolina	Martin	pcnt_limited_access	1
+37119	North Carolina	Mecklenburg	pcnt_limited_access	7
+37121	North Carolina	Mitchell	pcnt_limited_access	3
+37123	North Carolina	Montgomery	pcnt_limited_access	0
+37125	North Carolina	Moore	pcnt_limited_access	6
+37127	North Carolina	Nash	pcnt_limited_access	4
+37129	North Carolina	New Hanover	pcnt_limited_access	8
+37131	North Carolina	Northampton	pcnt_limited_access	3
+37133	North Carolina	Onslow	pcnt_limited_access	11
+37135	North Carolina	Orange	pcnt_limited_access	11
+37137	North Carolina	Pamlico	pcnt_limited_access	2
+37139	North Carolina	Pasquotank	pcnt_limited_access	9
+37141	North Carolina	Pender	pcnt_limited_access	3
+37143	North Carolina	Perquimans	pcnt_limited_access	1
+37145	North Carolina	Person	pcnt_limited_access	3
+37147	North Carolina	Pitt	pcnt_limited_access	3
+37149	North Carolina	Polk	pcnt_limited_access	0
+37151	North Carolina	Randolph	pcnt_limited_access	7
+37153	North Carolina	Richmond	pcnt_limited_access	5
+37155	North Carolina	Robeson	pcnt_limited_access	6
+37157	North Carolina	Rockingham	pcnt_limited_access	11
+37159	North Carolina	Rowan	pcnt_limited_access	9
+37161	North Carolina	Rutherford	pcnt_limited_access	10
+37163	North Carolina	Sampson	pcnt_limited_access	2
+37165	North Carolina	Scotland	pcnt_limited_access	8
+37167	North Carolina	Stanly	pcnt_limited_access	3
+37169	North Carolina	Stokes	pcnt_limited_access	6
+37171	North Carolina	Surry	pcnt_limited_access	3
+37173	North Carolina	Swain	pcnt_limited_access	3
+37175	North Carolina	Transylvania	pcnt_limited_access	3
+37177	North Carolina	Tyrrell	pcnt_limited_access	6
+37179	North Carolina	Union	pcnt_limited_access	4
+37181	North Carolina	Vance	pcnt_limited_access	5
+37183	North Carolina	Wake	pcnt_limited_access	4
+37185	North Carolina	Warren	pcnt_limited_access	4
+37187	North Carolina	Washington	pcnt_limited_access	10
+37189	North Carolina	Watauga	pcnt_limited_access	3
+37191	North Carolina	Wayne	pcnt_limited_access	8
+37193	North Carolina	Wilkes	pcnt_limited_access	6
+37195	North Carolina	Wilson	pcnt_limited_access	3
+37197	North Carolina	Yadkin	pcnt_limited_access	0
+37199	North Carolina	Yancey	pcnt_limited_access	0
+38001	North Dakota	Adams	pcnt_limited_access	11
+38003	North Dakota	Barnes	pcnt_limited_access	7
+38005	North Dakota	Benson	pcnt_limited_access	22
+38007	North Dakota	Billings	pcnt_limited_access	21
+38009	North Dakota	Bottineau	pcnt_limited_access	14
+38011	North Dakota	Bowman	pcnt_limited_access	6
+38013	North Dakota	Burke	pcnt_limited_access	23
+38015	North Dakota	Burleigh	pcnt_limited_access	5
+38017	North Dakota	Cass	pcnt_limited_access	3
+38019	North Dakota	Cavalier	pcnt_limited_access	8
+38021	North Dakota	Dickey	pcnt_limited_access	21
+38023	North Dakota	Divide	pcnt_limited_access	8
+38025	North Dakota	Dunn	pcnt_limited_access	30
+38027	North Dakota	Eddy	pcnt_limited_access	10
+38029	North Dakota	Emmons	pcnt_limited_access	17
+38031	North Dakota	Foster	pcnt_limited_access	5
+38033	North Dakota	Golden Valley	pcnt_limited_access	12
+38035	North Dakota	Grand Forks	pcnt_limited_access	12
+38037	North Dakota	Grant	pcnt_limited_access	16
+38039	North Dakota	Griggs	pcnt_limited_access	7
+38041	North Dakota	Hettinger	pcnt_limited_access	32
+38043	North Dakota	Kidder	pcnt_limited_access	40
+38045	North Dakota	LaMoure	pcnt_limited_access	27
+38047	North Dakota	Logan	pcnt_limited_access	31
+38049	North Dakota	McHenry	pcnt_limited_access	35
+38051	North Dakota	McIntosh	pcnt_limited_access	7
+38053	North Dakota	McKenzie	pcnt_limited_access	15
+38055	North Dakota	McLean	pcnt_limited_access	14
+38057	North Dakota	Mercer	pcnt_limited_access	5
+38059	North Dakota	Morton	pcnt_limited_access	7
+38061	North Dakota	Mountrail	pcnt_limited_access	3
+38063	North Dakota	Nelson	pcnt_limited_access	28
+38065	North Dakota	Oliver	pcnt_limited_access	19
+38067	North Dakota	Pembina	pcnt_limited_access	12
+38069	North Dakota	Pierce	pcnt_limited_access	7
+38071	North Dakota	Ramsey	pcnt_limited_access	6
+38073	North Dakota	Ransom	pcnt_limited_access	4
+38075	North Dakota	Renville	pcnt_limited_access	21
+38077	North Dakota	Richland	pcnt_limited_access	13
+38079	North Dakota	Rolette	pcnt_limited_access	3
+38081	North Dakota	Sargent	pcnt_limited_access	6
+38083	North Dakota	Sheridan	pcnt_limited_access	35
+38085	North Dakota	Sioux	pcnt_limited_access	26
+38087	North Dakota	Slope	pcnt_limited_access	26
+38089	North Dakota	Stark	pcnt_limited_access	8
+38091	North Dakota	Steele	pcnt_limited_access	29
+38093	North Dakota	Stutsman	pcnt_limited_access	10
+38095	North Dakota	Towner	pcnt_limited_access	31
+38097	North Dakota	Traill	pcnt_limited_access	7
+38099	North Dakota	Walsh	pcnt_limited_access	5
+38101	North Dakota	Ward	pcnt_limited_access	13
+38103	North Dakota	Wells	pcnt_limited_access	12
+38105	North Dakota	Williams	pcnt_limited_access	4
+39001	Ohio	Adams	pcnt_limited_access	2
+39003	Ohio	Allen	pcnt_limited_access	6
+39005	Ohio	Ashland	pcnt_limited_access	1
+39007	Ohio	Ashtabula	pcnt_limited_access	8
+39009	Ohio	Athens	pcnt_limited_access	14
+39011	Ohio	Auglaize	pcnt_limited_access	1
+39013	Ohio	Belmont	pcnt_limited_access	5
+39015	Ohio	Brown	pcnt_limited_access	4
+39017	Ohio	Butler	pcnt_limited_access	6
+39019	Ohio	Carroll	pcnt_limited_access	2
+39021	Ohio	Champaign	pcnt_limited_access	0
+39023	Ohio	Clark	pcnt_limited_access	7
+39025	Ohio	Clermont	pcnt_limited_access	9
+39027	Ohio	Clinton	pcnt_limited_access	3
+39029	Ohio	Columbiana	pcnt_limited_access	6
+39031	Ohio	Coshocton	pcnt_limited_access	6
+39033	Ohio	Crawford	pcnt_limited_access	2
+39035	Ohio	Cuyahoga	pcnt_limited_access	4
+39037	Ohio	Darke	pcnt_limited_access	2
+39039	Ohio	Defiance	pcnt_limited_access	6
+39041	Ohio	Delaware	pcnt_limited_access	2
+39043	Ohio	Erie	pcnt_limited_access	8
+39045	Ohio	Fairfield	pcnt_limited_access	6
+39047	Ohio	Fayette	pcnt_limited_access	2
+39049	Ohio	Franklin	pcnt_limited_access	6
+39051	Ohio	Fulton	pcnt_limited_access	4
+39053	Ohio	Gallia	pcnt_limited_access	4
+39055	Ohio	Geauga	pcnt_limited_access	3
+39057	Ohio	Greene	pcnt_limited_access	6
+39059	Ohio	Guernsey	pcnt_limited_access	5
+39061	Ohio	Hamilton	pcnt_limited_access	7
+39063	Ohio	Hancock	pcnt_limited_access	6
+39065	Ohio	Hardin	pcnt_limited_access	2
+39067	Ohio	Harrison	pcnt_limited_access	1
+39069	Ohio	Henry	pcnt_limited_access	4
+39071	Ohio	Highland	pcnt_limited_access	2
+39073	Ohio	Hocking	pcnt_limited_access	8
+39075	Ohio	Holmes	pcnt_limited_access	1
+39077	Ohio	Huron	pcnt_limited_access	4
+39079	Ohio	Jackson	pcnt_limited_access	3
+39081	Ohio	Jefferson	pcnt_limited_access	8
+39083	Ohio	Knox	pcnt_limited_access	4
+39085	Ohio	Lake	pcnt_limited_access	7
+39087	Ohio	Lawrence	pcnt_limited_access	6
+39089	Ohio	Licking	pcnt_limited_access	3
+39091	Ohio	Logan	pcnt_limited_access	3
+39093	Ohio	Lorain	pcnt_limited_access	7
+39095	Ohio	Lucas	pcnt_limited_access	5
+39097	Ohio	Madison	pcnt_limited_access	4
+39099	Ohio	Mahoning	pcnt_limited_access	13
+39101	Ohio	Marion	pcnt_limited_access	17
+39103	Ohio	Medina	pcnt_limited_access	4
+39105	Ohio	Meigs	pcnt_limited_access	10
+39107	Ohio	Mercer	pcnt_limited_access	2
+39109	Ohio	Miami	pcnt_limited_access	3
+39111	Ohio	Monroe	pcnt_limited_access	2
+39113	Ohio	Montgomery	pcnt_limited_access	9
+39115	Ohio	Morgan	pcnt_limited_access	3
+39117	Ohio	Morrow	pcnt_limited_access	0
+39119	Ohio	Muskingum	pcnt_limited_access	9
+39121	Ohio	Noble	pcnt_limited_access	8
+39123	Ohio	Ottawa	pcnt_limited_access	5
+39125	Ohio	Paulding	pcnt_limited_access	7
+39127	Ohio	Perry	pcnt_limited_access	5
+39129	Ohio	Pickaway	pcnt_limited_access	2
+39131	Ohio	Pike	pcnt_limited_access	11
+39133	Ohio	Portage	pcnt_limited_access	5
+39135	Ohio	Preble	pcnt_limited_access	0
+39137	Ohio	Putnam	pcnt_limited_access	3
+39139	Ohio	Richland	pcnt_limited_access	6
+39141	Ohio	Ross	pcnt_limited_access	4
+39143	Ohio	Sandusky	pcnt_limited_access	3
+39145	Ohio	Scioto	pcnt_limited_access	7
+39147	Ohio	Seneca	pcnt_limited_access	3
+39149	Ohio	Shelby	pcnt_limited_access	5
+39151	Ohio	Stark	pcnt_limited_access	7
+39153	Ohio	Summit	pcnt_limited_access	8
+39155	Ohio	Trumbull	pcnt_limited_access	7
+39157	Ohio	Tuscarawas	pcnt_limited_access	6
+39159	Ohio	Union	pcnt_limited_access	2
+39161	Ohio	Van Wert	pcnt_limited_access	4
+39163	Ohio	Vinton	pcnt_limited_access	7
+39165	Ohio	Warren	pcnt_limited_access	5
+39167	Ohio	Washington	pcnt_limited_access	3
+39169	Ohio	Wayne	pcnt_limited_access	4
+39171	Ohio	Williams	pcnt_limited_access	6
+39173	Ohio	Wood	pcnt_limited_access	6
+39175	Ohio	Wyandot	pcnt_limited_access	2
+40001	Oklahoma	Adair	pcnt_limited_access	4
+40003	Oklahoma	Alfalfa	pcnt_limited_access	19
+40005	Oklahoma	Atoka	pcnt_limited_access	18
+40007	Oklahoma	Beaver	pcnt_limited_access	12
+40009	Oklahoma	Beckham	pcnt_limited_access	6
+40011	Oklahoma	Blaine	pcnt_limited_access	23
+40013	Oklahoma	Bryan	pcnt_limited_access	7
+40015	Oklahoma	Caddo	pcnt_limited_access	14
+40017	Oklahoma	Canadian	pcnt_limited_access	6
+40019	Oklahoma	Carter	pcnt_limited_access	3
+40021	Oklahoma	Cherokee	pcnt_limited_access	12
+40023	Oklahoma	Choctaw	pcnt_limited_access	23
+40025	Oklahoma	Cimarron	pcnt_limited_access	19
+40027	Oklahoma	Cleveland	pcnt_limited_access	6
+40029	Oklahoma	Coal	pcnt_limited_access	12
+40031	Oklahoma	Comanche	pcnt_limited_access	15
+40033	Oklahoma	Cotton	pcnt_limited_access	2
+40035	Oklahoma	Craig	pcnt_limited_access	7
+40037	Oklahoma	Creek	pcnt_limited_access	6
+40039	Oklahoma	Custer	pcnt_limited_access	8
+40041	Oklahoma	Delaware	pcnt_limited_access	10
+40043	Oklahoma	Dewey	pcnt_limited_access	38
+40045	Oklahoma	Ellis	pcnt_limited_access	34
+40047	Oklahoma	Garfield	pcnt_limited_access	9
+40049	Oklahoma	Garvin	pcnt_limited_access	14
+40051	Oklahoma	Grady	pcnt_limited_access	6
+40053	Oklahoma	Grant	pcnt_limited_access	24
+40055	Oklahoma	Greer	pcnt_limited_access	2
+40057	Oklahoma	Harmon	pcnt_limited_access	3
+40059	Oklahoma	Harper	pcnt_limited_access	17
+40061	Oklahoma	Haskell	pcnt_limited_access	17
+40063	Oklahoma	Hughes	pcnt_limited_access	9
+40065	Oklahoma	Jackson	pcnt_limited_access	7
+40067	Oklahoma	Jefferson	pcnt_limited_access	11
+40069	Oklahoma	Johnston	pcnt_limited_access	14
+40071	Oklahoma	Kay	pcnt_limited_access	9
+40073	Oklahoma	Kingfisher	pcnt_limited_access	4
+40075	Oklahoma	Kiowa	pcnt_limited_access	20
+40077	Oklahoma	Latimer	pcnt_limited_access	9
+40079	Oklahoma	Le Flore	pcnt_limited_access	7
+40081	Oklahoma	Lincoln	pcnt_limited_access	8
+40083	Oklahoma	Logan	pcnt_limited_access	10
+40085	Oklahoma	Love	pcnt_limited_access	8
+40087	Oklahoma	McClain	pcnt_limited_access	3
+40089	Oklahoma	McCurtain	pcnt_limited_access	8
+40091	Oklahoma	McIntosh	pcnt_limited_access	6
+40093	Oklahoma	Major	pcnt_limited_access	14
+40095	Oklahoma	Marshall	pcnt_limited_access	4
+40097	Oklahoma	Mayes	pcnt_limited_access	1
+40099	Oklahoma	Murray	pcnt_limited_access	4
+40101	Oklahoma	Muskogee	pcnt_limited_access	6
+40103	Oklahoma	Noble	pcnt_limited_access	9
+40105	Oklahoma	Nowata	pcnt_limited_access	10
+40107	Oklahoma	Okfuskee	pcnt_limited_access	13
+40109	Oklahoma	Oklahoma	pcnt_limited_access	9
+40111	Oklahoma	Okmulgee	pcnt_limited_access	11
+40113	Oklahoma	Osage	pcnt_limited_access	12
+40115	Oklahoma	Ottawa	pcnt_limited_access	9
+40117	Oklahoma	Pawnee	pcnt_limited_access	1
+40119	Oklahoma	Payne	pcnt_limited_access	12
+40121	Oklahoma	Pittsburg	pcnt_limited_access	18
+40123	Oklahoma	Pontotoc	pcnt_limited_access	9
+40125	Oklahoma	Pottawatomie	pcnt_limited_access	8
+40127	Oklahoma	Pushmataha	pcnt_limited_access	13
+40129	Oklahoma	Roger Mills	pcnt_limited_access	17
+40131	Oklahoma	Rogers	pcnt_limited_access	5
+40133	Oklahoma	Seminole	pcnt_limited_access	4
+40135	Oklahoma	Sequoyah	pcnt_limited_access	4
+40137	Oklahoma	Stephens	pcnt_limited_access	6
+40139	Oklahoma	Texas	pcnt_limited_access	35
+40141	Oklahoma	Tillman	pcnt_limited_access	17
+40143	Oklahoma	Tulsa	pcnt_limited_access	9
+40145	Oklahoma	Wagoner	pcnt_limited_access	7
+40147	Oklahoma	Washington	pcnt_limited_access	11
+40149	Oklahoma	Washita	pcnt_limited_access	16
+40151	Oklahoma	Woods	pcnt_limited_access	9
+40153	Oklahoma	Woodward	pcnt_limited_access	6
+41001	Oregon	Baker	pcnt_limited_access	14
+41003	Oregon	Benton	pcnt_limited_access	5
+41005	Oregon	Clackamas	pcnt_limited_access	3
+41007	Oregon	Clatsop	pcnt_limited_access	11
+41009	Oregon	Columbia	pcnt_limited_access	4
+41011	Oregon	Coos	pcnt_limited_access	5
+41013	Oregon	Crook	pcnt_limited_access	5
+41015	Oregon	Curry	pcnt_limited_access	5
+41017	Oregon	Deschutes	pcnt_limited_access	4
+41019	Oregon	Douglas	pcnt_limited_access	11
+41021	Oregon	Gilliam	pcnt_limited_access	21
+41023	Oregon	Grant	pcnt_limited_access	18
+41025	Oregon	Harney	pcnt_limited_access	13
+41027	Oregon	Hood River	pcnt_limited_access	1
+41029	Oregon	Jackson	pcnt_limited_access	5
+41031	Oregon	Jefferson	pcnt_limited_access	11
+41033	Oregon	Josephine	pcnt_limited_access	6
+41035	Oregon	Klamath	pcnt_limited_access	13
+41037	Oregon	Lake	pcnt_limited_access	22
+41039	Oregon	Lane	pcnt_limited_access	5
+41041	Oregon	Lincoln	pcnt_limited_access	6
+41043	Oregon	Linn	pcnt_limited_access	9
+41045	Oregon	Malheur	pcnt_limited_access	6
+41047	Oregon	Marion	pcnt_limited_access	5
+41049	Oregon	Morrow	pcnt_limited_access	11
+41051	Oregon	Multnomah	pcnt_limited_access	4
+41053	Oregon	Polk	pcnt_limited_access	8
+41055	Oregon	Sherman	pcnt_limited_access	15
+41057	Oregon	Tillamook	pcnt_limited_access	9
+41059	Oregon	Umatilla	pcnt_limited_access	9
+41061	Oregon	Union	pcnt_limited_access	17
+41063	Oregon	Wallowa	pcnt_limited_access	10
+41065	Oregon	Wasco	pcnt_limited_access	15
+41067	Oregon	Washington	pcnt_limited_access	2
+41069	Oregon	Wheeler	pcnt_limited_access	46
+41071	Oregon	Yamhill	pcnt_limited_access	4
+42001	Pennsylvania	Adams	pcnt_limited_access	3
+42003	Pennsylvania	Allegheny	pcnt_limited_access	6
+42005	Pennsylvania	Armstrong	pcnt_limited_access	1
+42007	Pennsylvania	Beaver	pcnt_limited_access	12
+42009	Pennsylvania	Bedford	pcnt_limited_access	5
+42011	Pennsylvania	Berks	pcnt_limited_access	3
+42013	Pennsylvania	Blair	pcnt_limited_access	6
+42015	Pennsylvania	Bradford	pcnt_limited_access	4
+42017	Pennsylvania	Bucks	pcnt_limited_access	4
+42019	Pennsylvania	Butler	pcnt_limited_access	3
+42021	Pennsylvania	Cambria	pcnt_limited_access	7
+42023	Pennsylvania	Cameron	pcnt_limited_access	3
+42025	Pennsylvania	Carbon	pcnt_limited_access	3
+42027	Pennsylvania	Centre	pcnt_limited_access	3
+42029	Pennsylvania	Chester	pcnt_limited_access	6
+42031	Pennsylvania	Clarion	pcnt_limited_access	2
+42033	Pennsylvania	Clearfield	pcnt_limited_access	5
+42035	Pennsylvania	Clinton	pcnt_limited_access	6
+42037	Pennsylvania	Columbia	pcnt_limited_access	3
+42039	Pennsylvania	Crawford	pcnt_limited_access	3
+42041	Pennsylvania	Cumberland	pcnt_limited_access	3
+42043	Pennsylvania	Dauphin	pcnt_limited_access	12
+42045	Pennsylvania	Delaware	pcnt_limited_access	4
+42047	Pennsylvania	Elk	pcnt_limited_access	3
+42049	Pennsylvania	Erie	pcnt_limited_access	7
+42051	Pennsylvania	Fayette	pcnt_limited_access	7
+42053	Pennsylvania	Forest	pcnt_limited_access	1
+42055	Pennsylvania	Franklin	pcnt_limited_access	5
+42057	Pennsylvania	Fulton	pcnt_limited_access	5
+42059	Pennsylvania	Greene	pcnt_limited_access	6
+42061	Pennsylvania	Huntingdon	pcnt_limited_access	1
+42063	Pennsylvania	Indiana	pcnt_limited_access	4
+42065	Pennsylvania	Jefferson	pcnt_limited_access	2
+42067	Pennsylvania	Juniata	pcnt_limited_access	6
+42069	Pennsylvania	Lackawanna	pcnt_limited_access	3
+42071	Pennsylvania	Lancaster	pcnt_limited_access	5
+42073	Pennsylvania	Lawrence	pcnt_limited_access	12
+42075	Pennsylvania	Lebanon	pcnt_limited_access	4
+42077	Pennsylvania	Lehigh	pcnt_limited_access	4
+42079	Pennsylvania	Luzerne	pcnt_limited_access	5
+42081	Pennsylvania	Lycoming	pcnt_limited_access	7
+42083	Pennsylvania	McKean	pcnt_limited_access	1
+42085	Pennsylvania	Mercer	pcnt_limited_access	5
+42087	Pennsylvania	Mifflin	pcnt_limited_access	3
+42089	Pennsylvania	Monroe	pcnt_limited_access	8
+42091	Pennsylvania	Montgomery	pcnt_limited_access	3
+42093	Pennsylvania	Montour	pcnt_limited_access	4
+42095	Pennsylvania	Northampton	pcnt_limited_access	4
+42097	Pennsylvania	Northumberland	pcnt_limited_access	4
+42099	Pennsylvania	Perry	pcnt_limited_access	4
+42101	Pennsylvania	Philadelphia	pcnt_limited_access	0
+42103	Pennsylvania	Pike	pcnt_limited_access	2
+42105	Pennsylvania	Potter	pcnt_limited_access	9
+42107	Pennsylvania	Schuylkill	pcnt_limited_access	2
+42109	Pennsylvania	Snyder	pcnt_limited_access	2
+42111	Pennsylvania	Somerset	pcnt_limited_access	6
+42113	Pennsylvania	Sullivan	pcnt_limited_access	14
+42115	Pennsylvania	Susquehanna	pcnt_limited_access	2
+42117	Pennsylvania	Tioga	pcnt_limited_access	1
+42119	Pennsylvania	Union	pcnt_limited_access	10
+42121	Pennsylvania	Venango	pcnt_limited_access	3
+42123	Pennsylvania	Warren	pcnt_limited_access	5
+42125	Pennsylvania	Washington	pcnt_limited_access	6
+42127	Pennsylvania	Wayne	pcnt_limited_access	2
+42129	Pennsylvania	Westmoreland	pcnt_limited_access	7
+42131	Pennsylvania	Wyoming	pcnt_limited_access	1
+42133	Pennsylvania	York	pcnt_limited_access	5
+44001	Rhode Island	Bristol	pcnt_limited_access	12
+44003	Rhode Island	Kent	pcnt_limited_access	6
+44005	Rhode Island	Newport	pcnt_limited_access	6
+44007	Rhode Island	Providence	pcnt_limited_access	5
+44009	Rhode Island	Washington	pcnt_limited_access	9
+45001	South Carolina	Abbeville	pcnt_limited_access	15
+45003	South Carolina	Aiken	pcnt_limited_access	6
+45005	South Carolina	Allendale	pcnt_limited_access	1
+45007	South Carolina	Anderson	pcnt_limited_access	11
+45009	South Carolina	Bamberg	pcnt_limited_access	7
+45011	South Carolina	Barnwell	pcnt_limited_access	1
+45013	South Carolina	Beaufort	pcnt_limited_access	9
+45015	South Carolina	Berkeley	pcnt_limited_access	7
+45017	South Carolina	Calhoun	pcnt_limited_access	0
+45019	South Carolina	Charleston	pcnt_limited_access	6
+45021	South Carolina	Cherokee	pcnt_limited_access	5
+45023	South Carolina	Chester	pcnt_limited_access	9
+45025	South Carolina	Chesterfield	pcnt_limited_access	7
+45027	South Carolina	Clarendon	pcnt_limited_access	2
+45029	South Carolina	Colleton	pcnt_limited_access	12
+45031	South Carolina	Darlington	pcnt_limited_access	6
+45033	South Carolina	Dillon	pcnt_limited_access	6
+45035	South Carolina	Dorchester	pcnt_limited_access	5
+45037	South Carolina	Edgefield	pcnt_limited_access	3
+45039	South Carolina	Fairfield	pcnt_limited_access	7
+45041	South Carolina	Florence	pcnt_limited_access	9
+45043	South Carolina	Georgetown	pcnt_limited_access	8
+45045	South Carolina	Greenville	pcnt_limited_access	10
+45047	South Carolina	Greenwood	pcnt_limited_access	5
+45049	South Carolina	Hampton	pcnt_limited_access	7
+45051	South Carolina	Horry	pcnt_limited_access	6
+45053	South Carolina	Jasper	pcnt_limited_access	5
+45055	South Carolina	Kershaw	pcnt_limited_access	7
+45057	South Carolina	Lancaster	pcnt_limited_access	6
+45059	South Carolina	Laurens	pcnt_limited_access	9
+45061	South Carolina	Lee	pcnt_limited_access	3
+45063	South Carolina	Lexington	pcnt_limited_access	6
+45065	South Carolina	McCormick	pcnt_limited_access	2
+45067	South Carolina	Marion	pcnt_limited_access	2
+45069	South Carolina	Marlboro	pcnt_limited_access	7
+45071	South Carolina	Newberry	pcnt_limited_access	6
+45073	South Carolina	Oconee	pcnt_limited_access	6
+45075	South Carolina	Orangeburg	pcnt_limited_access	6
+45077	South Carolina	Pickens	pcnt_limited_access	12
+45079	South Carolina	Richland	pcnt_limited_access	9
+45081	South Carolina	Saluda	pcnt_limited_access	2
+45083	South Carolina	Spartanburg	pcnt_limited_access	13
+45085	South Carolina	Sumter	pcnt_limited_access	9
+45087	South Carolina	Union	pcnt_limited_access	4
+45089	South Carolina	Williamsburg	pcnt_limited_access	5
+45091	South Carolina	York	pcnt_limited_access	6
+46003	South Dakota	Aurora	pcnt_limited_access	34
+46005	South Dakota	Beadle	pcnt_limited_access	8
+46007	South Dakota	Bennett	pcnt_limited_access	49
+46009	South Dakota	Bon Homme	pcnt_limited_access	30
+46011	South Dakota	Brookings	pcnt_limited_access	16
+46013	South Dakota	Brown	pcnt_limited_access	7
+46015	South Dakota	Brule	pcnt_limited_access	11
+46017	South Dakota	Buffalo	pcnt_limited_access	12
+46019	South Dakota	Butte	pcnt_limited_access	12
+46021	South Dakota	Campbell	pcnt_limited_access	28
+46023	South Dakota	Charles Mix	pcnt_limited_access	17
+46025	South Dakota	Clark	pcnt_limited_access	13
+46027	South Dakota	Clay	pcnt_limited_access	5
+46029	South Dakota	Codington	pcnt_limited_access	7
+46031	South Dakota	Corson	pcnt_limited_access	63
+46033	South Dakota	Custer	pcnt_limited_access	7
+46035	South Dakota	Davison	pcnt_limited_access	6
+46037	South Dakota	Day	pcnt_limited_access	19
+46039	South Dakota	Deuel	pcnt_limited_access	27
+46041	South Dakota	Dewey	pcnt_limited_access	19
+46043	South Dakota	Douglas	pcnt_limited_access	34
+46045	South Dakota	Edmunds	pcnt_limited_access	17
+46047	South Dakota	Fall River	pcnt_limited_access	15
+46049	South Dakota	Faulk	pcnt_limited_access	44
+46051	South Dakota	Grant	pcnt_limited_access	6
+46053	South Dakota	Gregory	pcnt_limited_access	15
+46055	South Dakota	Haakon	pcnt_limited_access	11
+46057	South Dakota	Hamlin	pcnt_limited_access	36
+46059	South Dakota	Hand	pcnt_limited_access	13
+46061	South Dakota	Hanson	pcnt_limited_access	7
+46063	South Dakota	Harding	pcnt_limited_access	40
+46065	South Dakota	Hughes	pcnt_limited_access	7
+46067	South Dakota	Hutchinson	pcnt_limited_access	15
+46069	South Dakota	Hyde	pcnt_limited_access	29
+46071	South Dakota	Jackson	pcnt_limited_access	46
+46073	South Dakota	Jerauld	pcnt_limited_access	42
+46075	South Dakota	Jones	pcnt_limited_access	27
+46077	South Dakota	Kingsbury	pcnt_limited_access	15
+46079	South Dakota	Lake	pcnt_limited_access	3
+46081	South Dakota	Lawrence	pcnt_limited_access	5
+46083	South Dakota	Lincoln	pcnt_limited_access	2
+46085	South Dakota	Lyman	pcnt_limited_access	21
+46087	South Dakota	McCook	pcnt_limited_access	25
+46089	South Dakota	McPherson	pcnt_limited_access	25
+46091	South Dakota	Marshall	pcnt_limited_access	23
+46093	South Dakota	Meade	pcnt_limited_access	4
+46095	South Dakota	Mellette	pcnt_limited_access	48
+46097	South Dakota	Miner	pcnt_limited_access	5
+46099	South Dakota	Minnehaha	pcnt_limited_access	5
+46101	South Dakota	Moody	pcnt_limited_access	24
+46103	South Dakota	Pennington	pcnt_limited_access	8
+46105	South Dakota	Perkins	pcnt_limited_access	21
+46107	South Dakota	Potter	pcnt_limited_access	32
+46109	South Dakota	Roberts	pcnt_limited_access	18
+46111	South Dakota	Sanborn	pcnt_limited_access	30
+46113	South Dakota	Shannon	pcnt_limited_access	37
+46115	South Dakota	Spink	pcnt_limited_access	14
+46117	South Dakota	Stanley	pcnt_limited_access	7
+46119	South Dakota	Sully	pcnt_limited_access	23
+46121	South Dakota	Todd	pcnt_limited_access	13
+46123	South Dakota	Tripp	pcnt_limited_access	10
+46125	South Dakota	Turner	pcnt_limited_access	9
+46127	South Dakota	Union	pcnt_limited_access	3
+46129	South Dakota	Walworth	pcnt_limited_access	10
+46135	South Dakota	Yankton	pcnt_limited_access	11
+46137	South Dakota	Ziebach	pcnt_limited_access	46
+47001	Tennessee	Anderson	pcnt_limited_access	5
+47003	Tennessee	Bedford	pcnt_limited_access	6
+47005	Tennessee	Benton	pcnt_limited_access	6
+47007	Tennessee	Bledsoe	pcnt_limited_access	3
+47009	Tennessee	Blount	pcnt_limited_access	10
+47011	Tennessee	Bradley	pcnt_limited_access	11
+47013	Tennessee	Campbell	pcnt_limited_access	7
+47015	Tennessee	Cannon	pcnt_limited_access	1
+47017	Tennessee	Carroll	pcnt_limited_access	3
+47019	Tennessee	Carter	pcnt_limited_access	15
+47021	Tennessee	Cheatham	pcnt_limited_access	0
+47023	Tennessee	Chester	pcnt_limited_access	6
+47025	Tennessee	Claiborne	pcnt_limited_access	9
+47027	Tennessee	Clay	pcnt_limited_access	0
+47029	Tennessee	Cocke	pcnt_limited_access	10
+47031	Tennessee	Coffee	pcnt_limited_access	6
+47033	Tennessee	Crockett	pcnt_limited_access	0
+47035	Tennessee	Cumberland	pcnt_limited_access	5
+47037	Tennessee	Davidson	pcnt_limited_access	8
+47039	Tennessee	Decatur	pcnt_limited_access	3
+47041	Tennessee	DeKalb	pcnt_limited_access	1
+47043	Tennessee	Dickson	pcnt_limited_access	5
+47045	Tennessee	Dyer	pcnt_limited_access	14
+47047	Tennessee	Fayette	pcnt_limited_access	4
+47049	Tennessee	Fentress	pcnt_limited_access	0
+47051	Tennessee	Franklin	pcnt_limited_access	8
+47053	Tennessee	Gibson	pcnt_limited_access	6
+47055	Tennessee	Giles	pcnt_limited_access	6
+47057	Tennessee	Grainger	pcnt_limited_access	0
+47059	Tennessee	Greene	pcnt_limited_access	4
+47061	Tennessee	Grundy	pcnt_limited_access	5
+47063	Tennessee	Hamblen	pcnt_limited_access	11
+47065	Tennessee	Hamilton	pcnt_limited_access	12
+47067	Tennessee	Hancock	pcnt_limited_access	1
+47069	Tennessee	Hardeman	pcnt_limited_access	10
+47071	Tennessee	Hardin	pcnt_limited_access	6
+47073	Tennessee	Hawkins	pcnt_limited_access	8
+47075	Tennessee	Haywood	pcnt_limited_access	8
+47077	Tennessee	Henderson	pcnt_limited_access	5
+47079	Tennessee	Henry	pcnt_limited_access	8
+47081	Tennessee	Hickman	pcnt_limited_access	3
+47083	Tennessee	Houston	pcnt_limited_access	2
+47085	Tennessee	Humphreys	pcnt_limited_access	4
+47087	Tennessee	Jackson	pcnt_limited_access	0
+47089	Tennessee	Jefferson	pcnt_limited_access	3
+47091	Tennessee	Johnson	pcnt_limited_access	5
+47093	Tennessee	Knox	pcnt_limited_access	11
+47095	Tennessee	Lake	pcnt_limited_access	0
+47097	Tennessee	Lauderdale	pcnt_limited_access	5
+47099	Tennessee	Lawrence	pcnt_limited_access	3
+47101	Tennessee	Lewis	pcnt_limited_access	2
+47103	Tennessee	Lincoln	pcnt_limited_access	6
+47105	Tennessee	Loudon	pcnt_limited_access	10
+47107	Tennessee	McMinn	pcnt_limited_access	6
+47109	Tennessee	McNairy	pcnt_limited_access	5
+47111	Tennessee	Macon	pcnt_limited_access	0
+47113	Tennessee	Madison	pcnt_limited_access	9
+47115	Tennessee	Marion	pcnt_limited_access	3
+47117	Tennessee	Marshall	pcnt_limited_access	3
+47119	Tennessee	Maury	pcnt_limited_access	5
+47121	Tennessee	Meigs	pcnt_limited_access	0
+47123	Tennessee	Monroe	pcnt_limited_access	2
+47125	Tennessee	Montgomery	pcnt_limited_access	13
+47127	Tennessee	Moore	pcnt_limited_access	13
+47129	Tennessee	Morgan	pcnt_limited_access	9
+47131	Tennessee	Obion	pcnt_limited_access	4
+47133	Tennessee	Overton	pcnt_limited_access	1
+47135	Tennessee	Perry	pcnt_limited_access	4
+47137	Tennessee	Pickett	pcnt_limited_access	0
+47139	Tennessee	Polk	pcnt_limited_access	0
+47141	Tennessee	Putnam	pcnt_limited_access	10
+47143	Tennessee	Rhea	pcnt_limited_access	5
+47145	Tennessee	Roane	pcnt_limited_access	9
+47147	Tennessee	Robertson	pcnt_limited_access	2
+47149	Tennessee	Rutherford	pcnt_limited_access	6
+47151	Tennessee	Scott	pcnt_limited_access	3
+47153	Tennessee	Sequatchie	pcnt_limited_access	0
+47155	Tennessee	Sevier	pcnt_limited_access	5
+47157	Tennessee	Shelby	pcnt_limited_access	9
+47159	Tennessee	Smith	pcnt_limited_access	1
+47161	Tennessee	Stewart	pcnt_limited_access	5
+47163	Tennessee	Sullivan	pcnt_limited_access	14
+47165	Tennessee	Sumner	pcnt_limited_access	6
+47167	Tennessee	Tipton	pcnt_limited_access	8
+47169	Tennessee	Trousdale	pcnt_limited_access	0
+47171	Tennessee	Unicoi	pcnt_limited_access	3
+47173	Tennessee	Union	pcnt_limited_access	0
+47175	Tennessee	Van Buren	pcnt_limited_access	1
+47177	Tennessee	Warren	pcnt_limited_access	2
+47179	Tennessee	Washington	pcnt_limited_access	6
+47181	Tennessee	Wayne	pcnt_limited_access	9
+47183	Tennessee	Weakley	pcnt_limited_access	4
+47185	Tennessee	White	pcnt_limited_access	6
+47187	Tennessee	Williamson	pcnt_limited_access	3
+47189	Tennessee	Wilson	pcnt_limited_access	4
+48001	Texas	Anderson	pcnt_limited_access	10
+48003	Texas	Andrews	pcnt_limited_access	14
+48005	Texas	Angelina	pcnt_limited_access	13
+48007	Texas	Aransas	pcnt_limited_access	17
+48009	Texas	Archer	pcnt_limited_access	6
+48011	Texas	Armstrong	pcnt_limited_access	29
+48013	Texas	Atascosa	pcnt_limited_access	6
+48015	Texas	Austin	pcnt_limited_access	4
+48017	Texas	Bailey	pcnt_limited_access	4
+48019	Texas	Bandera	pcnt_limited_access	5
+48021	Texas	Bastrop	pcnt_limited_access	18
+48023	Texas	Baylor	pcnt_limited_access	4
+48025	Texas	Bee	pcnt_limited_access	12
+48027	Texas	Bell	pcnt_limited_access	13
+48029	Texas	Bexar	pcnt_limited_access	12
+48031	Texas	Blanco	pcnt_limited_access	2
+48033	Texas	Borden	pcnt_limited_access	28
+48035	Texas	Bosque	pcnt_limited_access	8
+48037	Texas	Bowie	pcnt_limited_access	9
+48039	Texas	Brazoria	pcnt_limited_access	7
+48041	Texas	Brazos	pcnt_limited_access	18
+48043	Texas	Brewster	pcnt_limited_access	11
+48045	Texas	Briscoe	pcnt_limited_access	47
+48047	Texas	Brooks	pcnt_limited_access	11
+48049	Texas	Brown	pcnt_limited_access	16
+48051	Texas	Burleson	pcnt_limited_access	5
+48053	Texas	Burnet	pcnt_limited_access	13
+48055	Texas	Caldwell	pcnt_limited_access	8
+48057	Texas	Calhoun	pcnt_limited_access	11
+48059	Texas	Callahan	pcnt_limited_access	6
+48061	Texas	Cameron	pcnt_limited_access	16
+48063	Texas	Camp	pcnt_limited_access	6
+48065	Texas	Carson	pcnt_limited_access	11
+48067	Texas	Cass	pcnt_limited_access	4
+48069	Texas	Castro	pcnt_limited_access	3
+48071	Texas	Chambers	pcnt_limited_access	4
+48073	Texas	Cherokee	pcnt_limited_access	8
+48075	Texas	Childress	pcnt_limited_access	19
+48077	Texas	Clay	pcnt_limited_access	9
+48079	Texas	Cochran	pcnt_limited_access	10
+48081	Texas	Coke	pcnt_limited_access	37
+48083	Texas	Coleman	pcnt_limited_access	8
+48085	Texas	Collin	pcnt_limited_access	2
+48087	Texas	Collingsworth	pcnt_limited_access	2
+48089	Texas	Colorado	pcnt_limited_access	6
+48091	Texas	Comal	pcnt_limited_access	6
+48093	Texas	Comanche	pcnt_limited_access	5
+48095	Texas	Concho	pcnt_limited_access	10
+48097	Texas	Cooke	pcnt_limited_access	3
+48099	Texas	Coryell	pcnt_limited_access	11
+48101	Texas	Cottle	pcnt_limited_access	4
+48103	Texas	Crane	pcnt_limited_access	3
+48105	Texas	Crockett	pcnt_limited_access	4
+48107	Texas	Crosby	pcnt_limited_access	2
+48109	Texas	Culberson	pcnt_limited_access	4
+48111	Texas	Dallam	pcnt_limited_access	16
+48113	Texas	Dallas	pcnt_limited_access	8
+48115	Texas	Dawson	pcnt_limited_access	11
+48117	Texas	Deaf Smith	pcnt_limited_access	11
+48119	Texas	Delta	pcnt_limited_access	3
+48121	Texas	Denton	pcnt_limited_access	4
+48123	Texas	DeWitt	pcnt_limited_access	8
+48125	Texas	Dickens	pcnt_limited_access	6
+48127	Texas	Dimmit	pcnt_limited_access	14
+48129	Texas	Donley	pcnt_limited_access	5
+48131	Texas	Duval	pcnt_limited_access	18
+48133	Texas	Eastland	pcnt_limited_access	11
+48135	Texas	Ector	pcnt_limited_access	8
+48137	Texas	Edwards	pcnt_limited_access	10
+48139	Texas	Ellis	pcnt_limited_access	7
+48141	Texas	El Paso	pcnt_limited_access	12
+48143	Texas	Erath	pcnt_limited_access	15
+48145	Texas	Falls	pcnt_limited_access	18
+48147	Texas	Fannin	pcnt_limited_access	14
+48149	Texas	Fayette	pcnt_limited_access	9
+48151	Texas	Fisher	pcnt_limited_access	6
+48153	Texas	Floyd	pcnt_limited_access	1
+48155	Texas	Foard	pcnt_limited_access	53
+48157	Texas	Fort Bend	pcnt_limited_access	8
+48159	Texas	Franklin	pcnt_limited_access	2
+48161	Texas	Freestone	pcnt_limited_access	7
+48163	Texas	Frio	pcnt_limited_access	6
+48165	Texas	Gaines	pcnt_limited_access	4
+48167	Texas	Galveston	pcnt_limited_access	9
+48169	Texas	Garza	pcnt_limited_access	2
+48171	Texas	Gillespie	pcnt_limited_access	4
+48173	Texas	Glasscock	pcnt_limited_access	26
+48175	Texas	Goliad	pcnt_limited_access	8
+48177	Texas	Gonzales	pcnt_limited_access	14
+48179	Texas	Gray	pcnt_limited_access	7
+48181	Texas	Grayson	pcnt_limited_access	11
+48183	Texas	Gregg	pcnt_limited_access	9
+48185	Texas	Grimes	pcnt_limited_access	16
+48187	Texas	Guadalupe	pcnt_limited_access	9
+48189	Texas	Hale	pcnt_limited_access	14
+48191	Texas	Hall	pcnt_limited_access	14
+48193	Texas	Hamilton	pcnt_limited_access	8
+48195	Texas	Hansford	pcnt_limited_access	13
+48197	Texas	Hardeman	pcnt_limited_access	13
+48199	Texas	Hardin	pcnt_limited_access	8
+48201	Texas	Harris	pcnt_limited_access	7
+48203	Texas	Harrison	pcnt_limited_access	7
+48205	Texas	Hartley	pcnt_limited_access	7
+48207	Texas	Haskell	pcnt_limited_access	9
+48209	Texas	Hays	pcnt_limited_access	7
+48211	Texas	Hemphill	pcnt_limited_access	2
+48213	Texas	Henderson	pcnt_limited_access	11
+48215	Texas	Hidalgo	pcnt_limited_access	27
+48217	Texas	Hill	pcnt_limited_access	1
+48219	Texas	Hockley	pcnt_limited_access	12
+48221	Texas	Hood	pcnt_limited_access	10
+48223	Texas	Hopkins	pcnt_limited_access	6
+48225	Texas	Houston	pcnt_limited_access	12
+48227	Texas	Howard	pcnt_limited_access	22
+48229	Texas	Hudspeth	pcnt_limited_access	72
+48231	Texas	Hunt	pcnt_limited_access	6
+48233	Texas	Hutchinson	pcnt_limited_access	12
+48235	Texas	Irion	pcnt_limited_access	28
+48237	Texas	Jack	pcnt_limited_access	14
+48239	Texas	Jackson	pcnt_limited_access	6
+48241	Texas	Jasper	pcnt_limited_access	9
+48243	Texas	Jeff Davis	pcnt_limited_access	11
+48245	Texas	Jefferson	pcnt_limited_access	11
+48247	Texas	Jim Hogg	pcnt_limited_access	1
+48249	Texas	Jim Wells	pcnt_limited_access	10
+48251	Texas	Johnson	pcnt_limited_access	7
+48253	Texas	Jones	pcnt_limited_access	8
+48255	Texas	Karnes	pcnt_limited_access	10
+48257	Texas	Kaufman	pcnt_limited_access	4
+48259	Texas	Kendall	pcnt_limited_access	2
+48261	Texas	Kenedy	pcnt_limited_access	33
+48263	Texas	Kent	pcnt_limited_access	29
+48265	Texas	Kerr	pcnt_limited_access	12
+48267	Texas	Kimble	pcnt_limited_access	5
+48269	Texas	King	pcnt_limited_access	5
+48271	Texas	Kinney	pcnt_limited_access	2
+48273	Texas	Kleberg	pcnt_limited_access	17
+48275	Texas	Knox	pcnt_limited_access	6
+48277	Texas	Lamar	pcnt_limited_access	12
+48279	Texas	Lamb	pcnt_limited_access	2
+48281	Texas	Lampasas	pcnt_limited_access	8
+48283	Texas	La Salle	pcnt_limited_access	28
+48285	Texas	Lavaca	pcnt_limited_access	5
+48287	Texas	Lee	pcnt_limited_access	3
+48289	Texas	Leon	pcnt_limited_access	8
+48291	Texas	Liberty	pcnt_limited_access	6
+48293	Texas	Limestone	pcnt_limited_access	9
+48295	Texas	Lipscomb	pcnt_limited_access	31
+48297	Texas	Live Oak	pcnt_limited_access	3
+48299	Texas	Llano	pcnt_limited_access	13
+48301	Texas	Loving	pcnt_limited_access	0
+48303	Texas	Lubbock	pcnt_limited_access	10
+48305	Texas	Lynn	pcnt_limited_access	15
+48307	Texas	McCulloch	pcnt_limited_access	5
+48309	Texas	McLennan	pcnt_limited_access	13
+48311	Texas	McMullen	pcnt_limited_access	28
+48313	Texas	Madison	pcnt_limited_access	4
+48315	Texas	Marion	pcnt_limited_access	5
+48317	Texas	Martin	pcnt_limited_access	9
+48319	Texas	Mason	pcnt_limited_access	4
+48321	Texas	Matagorda	pcnt_limited_access	16
+48323	Texas	Maverick	pcnt_limited_access	23
+48325	Texas	Medina	pcnt_limited_access	8
+48327	Texas	Menard	pcnt_limited_access	4
+48329	Texas	Midland	pcnt_limited_access	10
+48331	Texas	Milam	pcnt_limited_access	8
+48333	Texas	Mills	pcnt_limited_access	10
+48335	Texas	Mitchell	pcnt_limited_access	5
+48337	Texas	Montague	pcnt_limited_access	8
+48339	Texas	Montgomery	pcnt_limited_access	6
+48341	Texas	Moore	pcnt_limited_access	18
+48343	Texas	Morris	pcnt_limited_access	2
+48345	Texas	Motley	pcnt_limited_access	8
+48347	Texas	Nacogdoches	pcnt_limited_access	15
+48349	Texas	Navarro	pcnt_limited_access	10
+48351	Texas	Newton	pcnt_limited_access	10
+48353	Texas	Nolan	pcnt_limited_access	6
+48355	Texas	Nueces	pcnt_limited_access	12
+48357	Texas	Ochiltree	pcnt_limited_access	2
+48359	Texas	Oldham	pcnt_limited_access	40
+48361	Texas	Orange	pcnt_limited_access	8
+48363	Texas	Palo Pinto	pcnt_limited_access	12
+48365	Texas	Panola	pcnt_limited_access	8
+48367	Texas	Parker	pcnt_limited_access	5
+48369	Texas	Parmer	pcnt_limited_access	6
+48371	Texas	Pecos	pcnt_limited_access	10
+48373	Texas	Polk	pcnt_limited_access	13
+48375	Texas	Potter	pcnt_limited_access	16
+48377	Texas	Presidio	pcnt_limited_access	8
+48379	Texas	Rains	pcnt_limited_access	0
+48381	Texas	Randall	pcnt_limited_access	5
+48383	Texas	Reagan	pcnt_limited_access	2
+48385	Texas	Real	pcnt_limited_access	52
+48387	Texas	Red River	pcnt_limited_access	18
+48389	Texas	Reeves	pcnt_limited_access	13
+48391	Texas	Refugio	pcnt_limited_access	8
+48393	Texas	Roberts	pcnt_limited_access	25
+48395	Texas	Robertson	pcnt_limited_access	8
+48397	Texas	Rockwall	pcnt_limited_access	3
+48399	Texas	Runnels	pcnt_limited_access	12
+48401	Texas	Rusk	pcnt_limited_access	9
+48403	Texas	Sabine	pcnt_limited_access	13
+48405	Texas	San Augustine	pcnt_limited_access	15
+48407	Texas	San Jacinto	pcnt_limited_access	1
+48409	Texas	San Patricio	pcnt_limited_access	7
+48411	Texas	San Saba	pcnt_limited_access	12
+48413	Texas	Schleicher	pcnt_limited_access	1
+48415	Texas	Scurry	pcnt_limited_access	13
+48417	Texas	Shackelford	pcnt_limited_access	5
+48419	Texas	Shelby	pcnt_limited_access	6
+48421	Texas	Sherman	pcnt_limited_access	5
+48423	Texas	Smith	pcnt_limited_access	7
+48425	Texas	Somervell	pcnt_limited_access	0
+48427	Texas	Starr	pcnt_limited_access	33
+48429	Texas	Stephens	pcnt_limited_access	13
+48431	Texas	Sterling	pcnt_limited_access	38
+48433	Texas	Stonewall	pcnt_limited_access	4
+48435	Texas	Sutton	pcnt_limited_access	3
+48437	Texas	Swisher	pcnt_limited_access	11
+48439	Texas	Tarrant	pcnt_limited_access	8
+48441	Texas	Taylor	pcnt_limited_access	12
+48443	Texas	Terrell	pcnt_limited_access	47
+48445	Texas	Terry	pcnt_limited_access	22
+48447	Texas	Throckmorton	pcnt_limited_access	35
+48449	Texas	Titus	pcnt_limited_access	6
+48451	Texas	Tom Green	pcnt_limited_access	12
+48453	Texas	Travis	pcnt_limited_access	8
+48455	Texas	Trinity	pcnt_limited_access	6
+48457	Texas	Tyler	pcnt_limited_access	23
+48459	Texas	Upshur	pcnt_limited_access	6
+48461	Texas	Upton	pcnt_limited_access	7
+48463	Texas	Uvalde	pcnt_limited_access	21
+48465	Texas	Val Verde	pcnt_limited_access	15
+48467	Texas	Van Zandt	pcnt_limited_access	2
+48469	Texas	Victoria	pcnt_limited_access	14
+48471	Texas	Walker	pcnt_limited_access	11
+48473	Texas	Waller	pcnt_limited_access	4
+48475	Texas	Ward	pcnt_limited_access	12
+48477	Texas	Washington	pcnt_limited_access	5
+48479	Texas	Webb	pcnt_limited_access	9
+48481	Texas	Wharton	pcnt_limited_access	7
+48483	Texas	Wheeler	pcnt_limited_access	2
+48485	Texas	Wichita	pcnt_limited_access	13
+48487	Texas	Wilbarger	pcnt_limited_access	12
+48489	Texas	Willacy	pcnt_limited_access	3
+48491	Texas	Williamson	pcnt_limited_access	7
+48493	Texas	Wilson	pcnt_limited_access	3
+48495	Texas	Winkler	pcnt_limited_access	1
+48497	Texas	Wise	pcnt_limited_access	2
+48499	Texas	Wood	pcnt_limited_access	4
+48501	Texas	Yoakum	pcnt_limited_access	4
+48503	Texas	Young	pcnt_limited_access	15
+48505	Texas	Zapata	pcnt_limited_access	29
+48507	Texas	Zavala	pcnt_limited_access	22
+49001	Utah	Beaver	pcnt_limited_access	5
+49003	Utah	Box Elder	pcnt_limited_access	4
+49005	Utah	Cache	pcnt_limited_access	9
+49007	Utah	Carbon	pcnt_limited_access	8
+49009	Utah	Daggett	pcnt_limited_access	34
+49011	Utah	Davis	pcnt_limited_access	4
+49013	Utah	Duchesne	pcnt_limited_access	8
+49015	Utah	Emery	pcnt_limited_access	12
+49017	Utah	Garfield	pcnt_limited_access	11
+49019	Utah	Grand	pcnt_limited_access	7
+49021	Utah	Iron	pcnt_limited_access	12
+49023	Utah	Juab	pcnt_limited_access	13
+49025	Utah	Kane	pcnt_limited_access	16
+49027	Utah	Millard	pcnt_limited_access	12
+49029	Utah	Morgan	pcnt_limited_access	0
+49031	Utah	Piute	pcnt_limited_access	41
+49033	Utah	Rich	pcnt_limited_access	33
+49035	Utah	Salt Lake	pcnt_limited_access	3
+49037	Utah	San Juan	pcnt_limited_access	27
+49039	Utah	Sanpete	pcnt_limited_access	4
+49041	Utah	Sevier	pcnt_limited_access	1
+49043	Utah	Summit	pcnt_limited_access	4
+49045	Utah	Tooele	pcnt_limited_access	7
+49047	Utah	Uintah	pcnt_limited_access	5
+49049	Utah	Utah	pcnt_limited_access	6
+49051	Utah	Wasatch	pcnt_limited_access	1
+49053	Utah	Washington	pcnt_limited_access	8
+49055	Utah	Wayne	pcnt_limited_access	14
+49057	Utah	Weber	pcnt_limited_access	6
+50001	Vermont	Addison	pcnt_limited_access	1
+50003	Vermont	Bennington	pcnt_limited_access	4
+50005	Vermont	Caledonia	pcnt_limited_access	2
+50007	Vermont	Chittenden	pcnt_limited_access	4
+50009	Vermont	Essex	pcnt_limited_access	12
+50011	Vermont	Franklin	pcnt_limited_access	1
+50013	Vermont	Grand Isle	pcnt_limited_access	1
+50015	Vermont	Lamoille	pcnt_limited_access	0
+50017	Vermont	Orange	pcnt_limited_access	4
+50019	Vermont	Orleans	pcnt_limited_access	5
+50021	Vermont	Rutland	pcnt_limited_access	3
+50023	Vermont	Washington	pcnt_limited_access	2
+50025	Vermont	Windham	pcnt_limited_access	4
+50027	Vermont	Windsor	pcnt_limited_access	4
+51001	Virginia	Accomack	pcnt_limited_access	2
+51003	Virginia	Albemarle	pcnt_limited_access	3
+51005	Virginia	Alleghany	pcnt_limited_access	4
+51007	Virginia	Amelia	pcnt_limited_access	3
+51009	Virginia	Amherst	pcnt_limited_access	8
+51011	Virginia	Appomattox	pcnt_limited_access	1
+51013	Virginia	Arlington	pcnt_limited_access	0
+51015	Virginia	Augusta	pcnt_limited_access	3
+51017	Virginia	Bath	pcnt_limited_access	4
+51019	Virginia	Bedford	pcnt_limited_access	2
+51021	Virginia	Bland	pcnt_limited_access	14
+51023	Virginia	Botetourt	pcnt_limited_access	3
+51025	Virginia	Brunswick	pcnt_limited_access	5
+51027	Virginia	Buchanan	pcnt_limited_access	3
+51029	Virginia	Buckingham	pcnt_limited_access	4
+51031	Virginia	Campbell	pcnt_limited_access	6
+51033	Virginia	Caroline	pcnt_limited_access	1
+51035	Virginia	Carroll	pcnt_limited_access	2
+51036	Virginia	Charles City	pcnt_limited_access	1
+51037	Virginia	Charlotte	pcnt_limited_access	14
+51041	Virginia	Chesterfield	pcnt_limited_access	6
+51043	Virginia	Clarke	pcnt_limited_access	0
+51045	Virginia	Craig	pcnt_limited_access	4
+51047	Virginia	Culpeper	pcnt_limited_access	1
+51049	Virginia	Cumberland	pcnt_limited_access	22
+51051	Virginia	Dickenson	pcnt_limited_access	0
+51053	Virginia	Dinwiddie	pcnt_limited_access	6
+51057	Virginia	Essex	pcnt_limited_access	9
+51059	Virginia	Fairfax	pcnt_limited_access	1
+51061	Virginia	Fauquier	pcnt_limited_access	1
+51063	Virginia	Floyd	pcnt_limited_access	11
+51065	Virginia	Fluvanna	pcnt_limited_access	2
+51067	Virginia	Franklin	pcnt_limited_access	7
+51069	Virginia	Frederick	pcnt_limited_access	3
+51071	Virginia	Giles	pcnt_limited_access	4
+51073	Virginia	Gloucester	pcnt_limited_access	2
+51075	Virginia	Goochland	pcnt_limited_access	4
+51077	Virginia	Grayson	pcnt_limited_access	6
+51079	Virginia	Greene	pcnt_limited_access	0
+51081	Virginia	Greensville	pcnt_limited_access	3
+51083	Virginia	Halifax	pcnt_limited_access	11
+51085	Virginia	Hanover	pcnt_limited_access	2
+51087	Virginia	Henrico	pcnt_limited_access	4
+51089	Virginia	Henry	pcnt_limited_access	7
+51091	Virginia	Highland	pcnt_limited_access	30
+51093	Virginia	Isle of Wight	pcnt_limited_access	3
+51095	Virginia	James City	pcnt_limited_access	6
+51097	Virginia	King and Queen	pcnt_limited_access	5
+51099	Virginia	King George	pcnt_limited_access	0
+51101	Virginia	King William	pcnt_limited_access	2
+51103	Virginia	Lancaster	pcnt_limited_access	0
+51105	Virginia	Lee	pcnt_limited_access	0
+51107	Virginia	Loudoun	pcnt_limited_access	1
+51109	Virginia	Louisa	pcnt_limited_access	1
+51111	Virginia	Lunenburg	pcnt_limited_access	0
+51113	Virginia	Madison	pcnt_limited_access	1
+51115	Virginia	Mathews	pcnt_limited_access	0
+51117	Virginia	Mecklenburg	pcnt_limited_access	4
+51119	Virginia	Middlesex	pcnt_limited_access	0
+51121	Virginia	Montgomery	pcnt_limited_access	2
+51125	Virginia	Nelson	pcnt_limited_access	2
+51127	Virginia	New Kent	pcnt_limited_access	0
+51131	Virginia	Northampton	pcnt_limited_access	0
+51133	Virginia	Northumberland	pcnt_limited_access	1
+51135	Virginia	Nottoway	pcnt_limited_access	21
+51137	Virginia	Orange	pcnt_limited_access	4
+51139	Virginia	Page	pcnt_limited_access	1
+51141	Virginia	Patrick	pcnt_limited_access	2
+51143	Virginia	Pittsylvania	pcnt_limited_access	5
+51145	Virginia	Powhatan	pcnt_limited_access	2
+51147	Virginia	Prince Edward	pcnt_limited_access	6
+51149	Virginia	Prince George	pcnt_limited_access	9
+51153	Virginia	Prince William	pcnt_limited_access	3
+51155	Virginia	Pulaski	pcnt_limited_access	6
+51157	Virginia	Rappahannock	pcnt_limited_access	19
+51159	Virginia	Richmond	pcnt_limited_access	2
+51161	Virginia	Roanoke	pcnt_limited_access	3
+51163	Virginia	Rockbridge	pcnt_limited_access	6
+51165	Virginia	Rockingham	pcnt_limited_access	6
+51167	Virginia	Russell	pcnt_limited_access	3
+51169	Virginia	Scott	pcnt_limited_access	5
+51171	Virginia	Shenandoah	pcnt_limited_access	3
+51173	Virginia	Smyth	pcnt_limited_access	4
+51175	Virginia	Southampton	pcnt_limited_access	15
+51177	Virginia	Spotsylvania	pcnt_limited_access	5
+51179	Virginia	Stafford	pcnt_limited_access	3
+51181	Virginia	Surry	pcnt_limited_access	7
+51183	Virginia	Sussex	pcnt_limited_access	12
+51185	Virginia	Tazewell	pcnt_limited_access	7
+51187	Virginia	Warren	pcnt_limited_access	2
+51191	Virginia	Washington	pcnt_limited_access	4
+51193	Virginia	Westmoreland	pcnt_limited_access	5
+51195	Virginia	Wise	pcnt_limited_access	5
+51197	Virginia	Wythe	pcnt_limited_access	2
+51199	Virginia	York	pcnt_limited_access	4
+51510	Virginia	Alexandria City	pcnt_limited_access	0
+51515	Virginia	Bedford City	pcnt_limited_access	5
+51520	Virginia	Bristol City	pcnt_limited_access	15
+51530	Virginia	Buena Vista City	pcnt_limited_access	41
+51540	Virginia	Charlottesville City	pcnt_limited_access	1
+51550	Virginia	Chesapeake City	pcnt_limited_access	4
+51570	Virginia	Colonial Heights City	pcnt_limited_access	6
+51580	Virginia	Covington City	pcnt_limited_access	8
+51590	Virginia	Danville City	pcnt_limited_access	7
+51595	Virginia	Emporia City	pcnt_limited_access	1
+51600	Virginia	Fairfax City	pcnt_limited_access	0
+51610	Virginia	Falls Church City	pcnt_limited_access	0
+51620	Virginia	Franklin City	pcnt_limited_access	22
+51630	Virginia	Fredericksburg City	pcnt_limited_access	6
+51640	Virginia	Galax City	pcnt_limited_access	1
+51650	Virginia	Hampton City	pcnt_limited_access	6
+51660	Virginia	Harrisonburg City	pcnt_limited_access	4
+51670	Virginia	Hopewell City	pcnt_limited_access	12
+51678	Virginia	Lexington City	pcnt_limited_access	0
+51680	Virginia	Lynchburg City	pcnt_limited_access	12
+51683	Virginia	Manassas City	pcnt_limited_access	1
+51685	Virginia	Manassas Park City	pcnt_limited_access	5
+51690	Virginia	Martinsville City	pcnt_limited_access	11
+51700	Virginia	Newport News City	pcnt_limited_access	4
+51710	Virginia	Norfolk City	pcnt_limited_access	4
+51720	Virginia	Norton City	pcnt_limited_access	7
+51730	Virginia	Petersburg City	pcnt_limited_access	13
+51735	Virginia	Poquoson City	pcnt_limited_access	4
+51740	Virginia	Portsmouth City	pcnt_limited_access	3
+51750	Virginia	Radford City	pcnt_limited_access	7
+51760	Virginia	Richmond City	pcnt_limited_access	8
+51770	Virginia	Roanoke City	pcnt_limited_access	11
+51775	Virginia	Salem City	pcnt_limited_access	11
+51790	Virginia	Staunton City	pcnt_limited_access	2
+51800	Virginia	Suffolk City	pcnt_limited_access	3
+51810	Virginia	Virginia Beach City	pcnt_limited_access	3
+51820	Virginia	Waynesboro City	pcnt_limited_access	5
+51830	Virginia	Williamsburg City	pcnt_limited_access	1
+51840	Virginia	Winchester City	pcnt_limited_access	8
+53001	Washington	Adams	pcnt_limited_access	11
+53003	Washington	Asotin	pcnt_limited_access	5
+53005	Washington	Benton	pcnt_limited_access	4
+53007	Washington	Chelan	pcnt_limited_access	6
+53009	Washington	Clallam	pcnt_limited_access	7
+53011	Washington	Clark	pcnt_limited_access	4
+53013	Washington	Columbia	pcnt_limited_access	10
+53015	Washington	Cowlitz	pcnt_limited_access	10
+53017	Washington	Douglas	pcnt_limited_access	15
+53019	Washington	Ferry	pcnt_limited_access	23
+53021	Washington	Franklin	pcnt_limited_access	12
+53023	Washington	Garfield	pcnt_limited_access	36
+53025	Washington	Grant	pcnt_limited_access	9
+53027	Washington	Grays Harbor	pcnt_limited_access	6
+53029	Washington	Island	pcnt_limited_access	6
+53031	Washington	Jefferson	pcnt_limited_access	8
+53033	Washington	King	pcnt_limited_access	3
+53035	Washington	Kitsap	pcnt_limited_access	6
+53037	Washington	Kittitas	pcnt_limited_access	10
+53039	Washington	Klickitat	pcnt_limited_access	9
+53041	Washington	Lewis	pcnt_limited_access	6
+53043	Washington	Lincoln	pcnt_limited_access	22
+53045	Washington	Mason	pcnt_limited_access	2
+53047	Washington	Okanogan	pcnt_limited_access	6
+53049	Washington	Pacific	pcnt_limited_access	11
+53051	Washington	Pend Oreille	pcnt_limited_access	14
+53053	Washington	Pierce	pcnt_limited_access	8
+53055	Washington	San Juan	pcnt_limited_access	0
+53057	Washington	Skagit	pcnt_limited_access	7
+53059	Washington	Skamania	pcnt_limited_access	1
+53061	Washington	Snohomish	pcnt_limited_access	3
+53063	Washington	Spokane	pcnt_limited_access	4
+53065	Washington	Stevens	pcnt_limited_access	12
+53067	Washington	Thurston	pcnt_limited_access	6
+53069	Washington	Wahkiakum	pcnt_limited_access	21
+53071	Washington	Walla Walla	pcnt_limited_access	7
+53073	Washington	Whatcom	pcnt_limited_access	6
+53075	Washington	Whitman	pcnt_limited_access	8
+53077	Washington	Yakima	pcnt_limited_access	5
+54001	West Virginia	Barbour	pcnt_limited_access	1
+54003	West Virginia	Berkeley	pcnt_limited_access	7
+54005	West Virginia	Boone	pcnt_limited_access	1
+54007	West Virginia	Braxton	pcnt_limited_access	9
+54009	West Virginia	Brooke	pcnt_limited_access	6
+54011	West Virginia	Cabell	pcnt_limited_access	3
+54013	West Virginia	Calhoun	pcnt_limited_access	13
+54015	West Virginia	Clay	pcnt_limited_access	7
+54017	West Virginia	Doddridge	pcnt_limited_access	1
+54019	West Virginia	Fayette	pcnt_limited_access	7
+54021	West Virginia	Gilmer	pcnt_limited_access	4
+54023	West Virginia	Grant	pcnt_limited_access	6
+54025	West Virginia	Greenbrier	pcnt_limited_access	4
+54027	West Virginia	Hampshire	pcnt_limited_access	10
+54029	West Virginia	Hancock	pcnt_limited_access	9
+54031	West Virginia	Hardy	pcnt_limited_access	16
+54033	West Virginia	Harrison	pcnt_limited_access	5
+54035	West Virginia	Jackson	pcnt_limited_access	4
+54037	West Virginia	Jefferson	pcnt_limited_access	1
+54039	West Virginia	Kanawha	pcnt_limited_access	8
+54041	West Virginia	Lewis	pcnt_limited_access	2
+54043	West Virginia	Lincoln	pcnt_limited_access	0
+54045	West Virginia	Logan	pcnt_limited_access	2
+54047	West Virginia	McDowell	pcnt_limited_access	2
+54049	West Virginia	Marion	pcnt_limited_access	5
+54051	West Virginia	Marshall	pcnt_limited_access	12
+54053	West Virginia	Mason	pcnt_limited_access	8
+54055	West Virginia	Mercer	pcnt_limited_access	10
+54057	West Virginia	Mineral	pcnt_limited_access	5
+54059	West Virginia	Mingo	pcnt_limited_access	0
+54061	West Virginia	Monongalia	pcnt_limited_access	10
+54063	West Virginia	Monroe	pcnt_limited_access	2
+54065	West Virginia	Morgan	pcnt_limited_access	5
+54067	West Virginia	Nicholas	pcnt_limited_access	2
+54069	West Virginia	Ohio	pcnt_limited_access	10
+54071	West Virginia	Pendleton	pcnt_limited_access	12
+54073	West Virginia	Pleasants	pcnt_limited_access	0
+54075	West Virginia	Pocahontas	pcnt_limited_access	17
+54077	West Virginia	Preston	pcnt_limited_access	6
+54079	West Virginia	Putnam	pcnt_limited_access	5
+54081	West Virginia	Raleigh	pcnt_limited_access	13
+54083	West Virginia	Randolph	pcnt_limited_access	3
+54085	West Virginia	Ritchie	pcnt_limited_access	2
+54087	West Virginia	Roane	pcnt_limited_access	8
+54089	West Virginia	Summers	pcnt_limited_access	7
+54091	West Virginia	Taylor	pcnt_limited_access	1
+54093	West Virginia	Tucker	pcnt_limited_access	1
+54095	West Virginia	Tyler	pcnt_limited_access	2
+54097	West Virginia	Upshur	pcnt_limited_access	2
+54099	West Virginia	Wayne	pcnt_limited_access	6
+54101	West Virginia	Webster	pcnt_limited_access	1
+54103	West Virginia	Wetzel	pcnt_limited_access	20
+54105	West Virginia	Wirt	pcnt_limited_access	0
+54107	West Virginia	Wood	pcnt_limited_access	6
+54109	West Virginia	Wyoming	pcnt_limited_access	1
+55001	Wisconsin	Adams	pcnt_limited_access	6
+55003	Wisconsin	Ashland	pcnt_limited_access	13
+55005	Wisconsin	Barron	pcnt_limited_access	3
+55007	Wisconsin	Bayfield	pcnt_limited_access	8
+55009	Wisconsin	Brown	pcnt_limited_access	6
+55011	Wisconsin	Buffalo	pcnt_limited_access	7
+55013	Wisconsin	Burnett	pcnt_limited_access	4
+55015	Wisconsin	Calumet	pcnt_limited_access	2
+55017	Wisconsin	Chippewa	pcnt_limited_access	5
+55019	Wisconsin	Clark	pcnt_limited_access	3
+55021	Wisconsin	Columbia	pcnt_limited_access	2
+55023	Wisconsin	Crawford	pcnt_limited_access	13
+55025	Wisconsin	Dane	pcnt_limited_access	5
+55027	Wisconsin	Dodge	pcnt_limited_access	2
+55029	Wisconsin	Door	pcnt_limited_access	5
+55031	Wisconsin	Douglas	pcnt_limited_access	6
+55033	Wisconsin	Dunn	pcnt_limited_access	5
+55035	Wisconsin	Eau Claire	pcnt_limited_access	8
+55037	Wisconsin	Florence	pcnt_limited_access	22
+55039	Wisconsin	Fond du Lac	pcnt_limited_access	3
+55041	Wisconsin	Forest	pcnt_limited_access	17
+55043	Wisconsin	Grant	pcnt_limited_access	4
+55045	Wisconsin	Green	pcnt_limited_access	4
+55047	Wisconsin	Green Lake	pcnt_limited_access	2
+55049	Wisconsin	Iowa	pcnt_limited_access	3
+55051	Wisconsin	Iron	pcnt_limited_access	7
+55053	Wisconsin	Jackson	pcnt_limited_access	14
+55055	Wisconsin	Jefferson	pcnt_limited_access	2
+55057	Wisconsin	Juneau	pcnt_limited_access	5
+55059	Wisconsin	Kenosha	pcnt_limited_access	7
+55061	Wisconsin	Kewaunee	pcnt_limited_access	0
+55063	Wisconsin	La Crosse	pcnt_limited_access	5
+55065	Wisconsin	Lafayette	pcnt_limited_access	4
+55067	Wisconsin	Langlade	pcnt_limited_access	10
+55069	Wisconsin	Lincoln	pcnt_limited_access	4
+55071	Wisconsin	Manitowoc	pcnt_limited_access	5
+55073	Wisconsin	Marathon	pcnt_limited_access	5
+55075	Wisconsin	Marinette	pcnt_limited_access	8
+55077	Wisconsin	Marquette	pcnt_limited_access	0
+55078	Wisconsin	Menominee	pcnt_limited_access	18
+55079	Wisconsin	Milwaukee	pcnt_limited_access	3
+55081	Wisconsin	Monroe	pcnt_limited_access	5
+55083	Wisconsin	Oconto	pcnt_limited_access	4
+55085	Wisconsin	Oneida	pcnt_limited_access	4
+55087	Wisconsin	Outagamie	pcnt_limited_access	3
+55089	Wisconsin	Ozaukee	pcnt_limited_access	4
+55091	Wisconsin	Pepin	pcnt_limited_access	0
+55093	Wisconsin	Pierce	pcnt_limited_access	3
+55095	Wisconsin	Polk	pcnt_limited_access	1
+55097	Wisconsin	Portage	pcnt_limited_access	7
+55099	Wisconsin	Price	pcnt_limited_access	4
+55101	Wisconsin	Racine	pcnt_limited_access	8
+55103	Wisconsin	Richland	pcnt_limited_access	8
+55105	Wisconsin	Rock	pcnt_limited_access	9
+55107	Wisconsin	Rusk	pcnt_limited_access	9
+55109	Wisconsin	St. Croix	pcnt_limited_access	2
+55111	Wisconsin	Sauk	pcnt_limited_access	2
+55113	Wisconsin	Sawyer	pcnt_limited_access	11
+55115	Wisconsin	Shawano	pcnt_limited_access	5
+55117	Wisconsin	Sheboygan	pcnt_limited_access	2
+55119	Wisconsin	Taylor	pcnt_limited_access	7
+55121	Wisconsin	Trempealeau	pcnt_limited_access	1
+55123	Wisconsin	Vernon	pcnt_limited_access	6
+55125	Wisconsin	Vilas	pcnt_limited_access	4
+55127	Wisconsin	Walworth	pcnt_limited_access	8
+55129	Wisconsin	Washburn	pcnt_limited_access	7
+55131	Wisconsin	Washington	pcnt_limited_access	2
+55133	Wisconsin	Waukesha	pcnt_limited_access	5
+55135	Wisconsin	Waupaca	pcnt_limited_access	6
+55137	Wisconsin	Waushara	pcnt_limited_access	0
+55139	Wisconsin	Winnebago	pcnt_limited_access	8
+55141	Wisconsin	Wood	pcnt_limited_access	6
+56001	Wyoming	Albany	pcnt_limited_access	13
+56003	Wyoming	Big Horn	pcnt_limited_access	7
+56005	Wyoming	Campbell	pcnt_limited_access	3
+56007	Wyoming	Carbon	pcnt_limited_access	14
+56009	Wyoming	Converse	pcnt_limited_access	2
+56011	Wyoming	Crook	pcnt_limited_access	26
+56013	Wyoming	Fremont	pcnt_limited_access	5
+56015	Wyoming	Goshen	pcnt_limited_access	11
+56017	Wyoming	Hot Springs	pcnt_limited_access	3
+56019	Wyoming	Johnson	pcnt_limited_access	5
+56021	Wyoming	Laramie	pcnt_limited_access	6
+56023	Wyoming	Lincoln	pcnt_limited_access	3
+56025	Wyoming	Natrona	pcnt_limited_access	12
+56027	Wyoming	Niobrara	pcnt_limited_access	6
+56029	Wyoming	Park	pcnt_limited_access	8
+56031	Wyoming	Platte	pcnt_limited_access	7
+56033	Wyoming	Sheridan	pcnt_limited_access	12
+56035	Wyoming	Sublette	pcnt_limited_access	4
+56037	Wyoming	Sweetwater	pcnt_limited_access	6
+56039	Wyoming	Teton	pcnt_limited_access	5
+56041	Wyoming	Uinta	pcnt_limited_access	7
+56043	Wyoming	Washakie	pcnt_limited_access	3
+56045	Wyoming	Weston	pcnt_limited_access	4

@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_obese
+01001	Alabama	Autauga	pcnt_obese	34
+01003	Alabama	Baldwin	pcnt_obese	26
+01005	Alabama	Barbour	pcnt_obese	37
+01007	Alabama	Bibb	pcnt_obese	34
+01009	Alabama	Blount	pcnt_obese	32
+01011	Alabama	Bullock	pcnt_obese	39
+01013	Alabama	Butler	pcnt_obese	41
+01015	Alabama	Calhoun	pcnt_obese	34
+01017	Alabama	Chambers	pcnt_obese	35
+01019	Alabama	Cherokee	pcnt_obese	31
+01021	Alabama	Chilton	pcnt_obese	35
+01023	Alabama	Choctaw	pcnt_obese	38
+01025	Alabama	Clarke	pcnt_obese	35
+01027	Alabama	Clay	pcnt_obese	34
+01029	Alabama	Cleburne	pcnt_obese	30
+01031	Alabama	Coffee	pcnt_obese	32
+01033	Alabama	Colbert	pcnt_obese	33
+01035	Alabama	Conecuh	pcnt_obese	33
+01037	Alabama	Coosa	pcnt_obese	34
+01039	Alabama	Covington	pcnt_obese	36
+01041	Alabama	Crenshaw	pcnt_obese	37
+01043	Alabama	Cullman	pcnt_obese	32
+01045	Alabama	Dale	pcnt_obese	36
+01047	Alabama	Dallas	pcnt_obese	41
+01049	Alabama	DeKalb	pcnt_obese	34
+01051	Alabama	Elmore	pcnt_obese	32
+01053	Alabama	Escambia	pcnt_obese	36
+01055	Alabama	Etowah	pcnt_obese	32
+01057	Alabama	Fayette	pcnt_obese	37
+01059	Alabama	Franklin	pcnt_obese	31
+01061	Alabama	Geneva	pcnt_obese	36
+01063	Alabama	Greene	pcnt_obese	48
+01065	Alabama	Hale	pcnt_obese	44
+01067	Alabama	Henry	pcnt_obese	34
+01069	Alabama	Houston	pcnt_obese	33
+01071	Alabama	Jackson	pcnt_obese	31
+01073	Alabama	Jefferson	pcnt_obese	32
+01075	Alabama	Lamar	pcnt_obese	32
+01077	Alabama	Lauderdale	pcnt_obese	32
+01079	Alabama	Lawrence	pcnt_obese	38
+01081	Alabama	Lee	pcnt_obese	30
+01083	Alabama	Limestone	pcnt_obese	31
+01085	Alabama	Lowndes	pcnt_obese	45
+01087	Alabama	Macon	pcnt_obese	41
+01089	Alabama	Madison	pcnt_obese	31
+01091	Alabama	Marengo	pcnt_obese	40
+01093	Alabama	Marion	pcnt_obese	33
+01095	Alabama	Marshall	pcnt_obese	29
+01097	Alabama	Mobile	pcnt_obese	32
+01099	Alabama	Monroe	pcnt_obese	36
+01101	Alabama	Montgomery	pcnt_obese	34
+01103	Alabama	Morgan	pcnt_obese	33
+01105	Alabama	Perry	pcnt_obese	40
+01107	Alabama	Pickens	pcnt_obese	36
+01109	Alabama	Pike	pcnt_obese	37
+01111	Alabama	Randolph	pcnt_obese	32
+01113	Alabama	Russell	pcnt_obese	39
+01115	Alabama	St. Clair	pcnt_obese	36
+01117	Alabama	Shelby	pcnt_obese	28
+01119	Alabama	Sumter	pcnt_obese	42
+01121	Alabama	Talladega	pcnt_obese	37
+01123	Alabama	Tallapoosa	pcnt_obese	37
+01125	Alabama	Tuscaloosa	pcnt_obese	35
+01127	Alabama	Walker	pcnt_obese	35
+01129	Alabama	Washington	pcnt_obese	36
+01131	Alabama	Wilcox	pcnt_obese	43
+01133	Alabama	Winston	pcnt_obese	36
+02013	Alaska	Aleutians East	pcnt_obese	31
+02016	Alaska	Aleutians West	pcnt_obese	28
+02020	Alaska	Anchorage	pcnt_obese	26
+02050	Alaska	Bethel	pcnt_obese	30
+02060	Alaska	Bristol Bay	pcnt_obese	35
+02068	Alaska	Denali	pcnt_obese	28
+02070	Alaska	Dillingham	pcnt_obese	34
+02090	Alaska	Fairbanks North Star	pcnt_obese	28
+02100	Alaska	Haines	pcnt_obese	32
+02110	Alaska	Juneau	pcnt_obese	26
+02122	Alaska	Kenai Peninsula	pcnt_obese	29
+02130	Alaska	Ketchikan Gateway	pcnt_obese	32
+02150	Alaska	Kodiak Island	pcnt_obese	30
+02164	Alaska	Lake and Peninsula	pcnt_obese	34
+02170	Alaska	Matanuska-Susitna	pcnt_obese	30
+02180	Alaska	Nome	pcnt_obese	36
+02185	Alaska	North Slope	pcnt_obese	39
+02188	Alaska	Northwest Arctic	pcnt_obese	30
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_obese	36
+02220	Alaska	Sitka	pcnt_obese	30
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_obese	32
+02240	Alaska	Southeast Fairbanks	pcnt_obese	31
+02261	Alaska	Valdez-Cordova	pcnt_obese	29
+02270	Alaska	Wade Hampton	pcnt_obese	30
+02280	Alaska	Wrangell-Petersburg	pcnt_obese	31
+02282	Alaska	Yakutat	pcnt_obese	31
+02290	Alaska	Yukon-Koyukuk	pcnt_obese	33
+04001	Arizona	Apache	pcnt_obese	33
+04003	Arizona	Cochise	pcnt_obese	24
+04005	Arizona	Coconino	pcnt_obese	25
+04007	Arizona	Gila	pcnt_obese	26
+04009	Arizona	Graham	pcnt_obese	33
+04011	Arizona	Greenlee	pcnt_obese	36
+04012	Arizona	La Paz	pcnt_obese	30
+04013	Arizona	Maricopa	pcnt_obese	24
+04015	Arizona	Mohave	pcnt_obese	27
+04017	Arizona	Navajo	pcnt_obese	32
+04019	Arizona	Pima	pcnt_obese	26
+04021	Arizona	Pinal	pcnt_obese	30
+04023	Arizona	Santa Cruz	pcnt_obese	22
+04025	Arizona	Yavapai	pcnt_obese	22
+04027	Arizona	Yuma	pcnt_obese	29
+05001	Arkansas	Arkansas	pcnt_obese	36
+05003	Arkansas	Ashley	pcnt_obese	39
+05005	Arkansas	Baxter	pcnt_obese	28
+05007	Arkansas	Benton	pcnt_obese	28
+05009	Arkansas	Boone	pcnt_obese	29
+05011	Arkansas	Bradley	pcnt_obese	32
+05013	Arkansas	Calhoun	pcnt_obese	34
+05015	Arkansas	Carroll	pcnt_obese	26
+05017	Arkansas	Chicot	pcnt_obese	38
+05019	Arkansas	Clark	pcnt_obese	34
+05021	Arkansas	Clay	pcnt_obese	32
+05023	Arkansas	Cleburne	pcnt_obese	27
+05025	Arkansas	Cleveland	pcnt_obese	33
+05027	Arkansas	Columbia	pcnt_obese	32
+05029	Arkansas	Conway	pcnt_obese	33
+05031	Arkansas	Craighead	pcnt_obese	33
+05033	Arkansas	Crawford	pcnt_obese	33
+05035	Arkansas	Crittenden	pcnt_obese	38
+05037	Arkansas	Cross	pcnt_obese	34
+05039	Arkansas	Dallas	pcnt_obese	34
+05041	Arkansas	Desha	pcnt_obese	38
+05043	Arkansas	Drew	pcnt_obese	36
+05045	Arkansas	Faulkner	pcnt_obese	33
+05047	Arkansas	Franklin	pcnt_obese	34
+05049	Arkansas	Fulton	pcnt_obese	31
+05051	Arkansas	Garland	pcnt_obese	28
+05053	Arkansas	Grant	pcnt_obese	36
+05055	Arkansas	Greene	pcnt_obese	34
+05057	Arkansas	Hempstead	pcnt_obese	36
+05059	Arkansas	Hot Spring	pcnt_obese	35
+05061	Arkansas	Howard	pcnt_obese	35
+05063	Arkansas	Independence	pcnt_obese	30
+05065	Arkansas	Izard	pcnt_obese	29
+05067	Arkansas	Jackson	pcnt_obese	32
+05069	Arkansas	Jefferson	pcnt_obese	38
+05071	Arkansas	Johnson	pcnt_obese	35
+05073	Arkansas	Lafayette	pcnt_obese	31
+05075	Arkansas	Lawrence	pcnt_obese	34
+05077	Arkansas	Lee	pcnt_obese	37
+05079	Arkansas	Lincoln	pcnt_obese	36
+05081	Arkansas	Little River	pcnt_obese	33
+05083	Arkansas	Logan	pcnt_obese	29
+05085	Arkansas	Lonoke	pcnt_obese	34
+05087	Arkansas	Madison	pcnt_obese	30
+05089	Arkansas	Marion	pcnt_obese	32
+05091	Arkansas	Miller	pcnt_obese	38
+05093	Arkansas	Mississippi	pcnt_obese	39
+05095	Arkansas	Monroe	pcnt_obese	36
+05097	Arkansas	Montgomery	pcnt_obese	28
+05099	Arkansas	Nevada	pcnt_obese	35
+05101	Arkansas	Newton	pcnt_obese	35
+05103	Arkansas	Ouachita	pcnt_obese	37
+05105	Arkansas	Perry	pcnt_obese	32
+05107	Arkansas	Phillips	pcnt_obese	39
+05109	Arkansas	Pike	pcnt_obese	31
+05111	Arkansas	Poinsett	pcnt_obese	37
+05113	Arkansas	Polk	pcnt_obese	38
+05115	Arkansas	Pope	pcnt_obese	32
+05117	Arkansas	Prairie	pcnt_obese	32
+05119	Arkansas	Pulaski	pcnt_obese	32
+05121	Arkansas	Randolph	pcnt_obese	35
+05123	Arkansas	St. Francis	pcnt_obese	38
+05125	Arkansas	Saline	pcnt_obese	31
+05127	Arkansas	Scott	pcnt_obese	32
+05129	Arkansas	Searcy	pcnt_obese	31
+05131	Arkansas	Sebastian	pcnt_obese	30
+05133	Arkansas	Sevier	pcnt_obese	32
+05135	Arkansas	Sharp	pcnt_obese	28
+05137	Arkansas	Stone	pcnt_obese	32
+05139	Arkansas	Union	pcnt_obese	31
+05141	Arkansas	Van Buren	pcnt_obese	31
+05143	Arkansas	Washington	pcnt_obese	30
+05145	Arkansas	White	pcnt_obese	31
+05147	Arkansas	Woodruff	pcnt_obese	34
+05149	Arkansas	Yell	pcnt_obese	36
+06001	California	Alameda	pcnt_obese	20
+06003	California	Alpine	pcnt_obese	25
+06005	California	Amador	pcnt_obese	25
+06007	California	Butte	pcnt_obese	25
+06009	California	Calaveras	pcnt_obese	26
+06011	California	Colusa	pcnt_obese	25
+06013	California	Contra Costa	pcnt_obese	24
+06015	California	Del Norte	pcnt_obese	27
+06017	California	El Dorado	pcnt_obese	21
+06019	California	Fresno	pcnt_obese	29
+06021	California	Glenn	pcnt_obese	27
+06023	California	Humboldt	pcnt_obese	26
+06025	California	Imperial	pcnt_obese	25
+06027	California	Inyo	pcnt_obese	23
+06029	California	Kern	pcnt_obese	29
+06031	California	Kings	pcnt_obese	28
+06033	California	Lake	pcnt_obese	27
+06035	California	Lassen	pcnt_obese	27
+06037	California	Los Angeles	pcnt_obese	22
+06039	California	Madera	pcnt_obese	30
+06041	California	Marin	pcnt_obese	15
+06043	California	Mariposa	pcnt_obese	24
+06045	California	Mendocino	pcnt_obese	23
+06047	California	Merced	pcnt_obese	32
+06049	California	Modoc	pcnt_obese	25
+06051	California	Mono	pcnt_obese	21
+06053	California	Monterey	pcnt_obese	22
+06055	California	Napa	pcnt_obese	22
+06057	California	Nevada	pcnt_obese	21
+06059	California	Orange	pcnt_obese	21
+06061	California	Placer	pcnt_obese	20
+06063	California	Plumas	pcnt_obese	24
+06065	California	Riverside	pcnt_obese	28
+06067	California	Sacramento	pcnt_obese	28
+06069	California	San Benito	pcnt_obese	24
+06071	California	San Bernardino	pcnt_obese	28
+06073	California	San Diego	pcnt_obese	23
+06075	California	San Francisco	pcnt_obese	17
+06077	California	San Joaquin	pcnt_obese	30
+06079	California	San Luis Obispo	pcnt_obese	22
+06081	California	San Mateo	pcnt_obese	20
+06083	California	Santa Barbara	pcnt_obese	20
+06085	California	Santa Clara	pcnt_obese	21
+06087	California	Santa Cruz	pcnt_obese	20
+06089	California	Shasta	pcnt_obese	28
+06091	California	Sierra	pcnt_obese	24
+06093	California	Siskiyou	pcnt_obese	25
+06095	California	Solano	pcnt_obese	27
+06097	California	Sonoma	pcnt_obese	23
+06099	California	Stanislaus	pcnt_obese	31
+06101	California	Sutter	pcnt_obese	27
+06103	California	Tehama	pcnt_obese	25
+06105	California	Trinity	pcnt_obese	24
+06107	California	Tulare	pcnt_obese	31
+06109	California	Tuolumne	pcnt_obese	23
+06111	California	Ventura	pcnt_obese	23
+06113	California	Yolo	pcnt_obese	26
+06115	California	Yuba	pcnt_obese	31
+08001	Colorado	Adams	pcnt_obese	25
+08003	Colorado	Alamosa	pcnt_obese	21
+08005	Colorado	Arapahoe	pcnt_obese	20
+08007	Colorado	Archuleta	pcnt_obese	17
+08009	Colorado	Baca	pcnt_obese	23
+08011	Colorado	Bent	pcnt_obese	25
+08013	Colorado	Boulder	pcnt_obese	15
+08014	Colorado	Broomfield	pcnt_obese	22
+08015	Colorado	Chaffee	pcnt_obese	16
+08017	Colorado	Cheyenne	pcnt_obese	21
+08019	Colorado	Clear Creek	pcnt_obese	19
+08021	Colorado	Conejos	pcnt_obese	18
+08023	Colorado	Costilla	pcnt_obese	21
+08025	Colorado	Crowley	pcnt_obese	23
+08027	Colorado	Custer	pcnt_obese	21
+08029	Colorado	Delta	pcnt_obese	20
+08031	Colorado	Denver	pcnt_obese	18
+08033	Colorado	Dolores	pcnt_obese	21
+08035	Colorado	Douglas	pcnt_obese	16
+08037	Colorado	Eagle	pcnt_obese	14
+08039	Colorado	Elbert	pcnt_obese	22
+08041	Colorado	El Paso	pcnt_obese	21
+08043	Colorado	Fremont	pcnt_obese	22
+08045	Colorado	Garfield	pcnt_obese	18
+08047	Colorado	Gilpin	pcnt_obese	20
+08049	Colorado	Grand	pcnt_obese	19
+08051	Colorado	Gunnison	pcnt_obese	16
+08053	Colorado	Hinsdale	pcnt_obese	20
+08055	Colorado	Huerfano	pcnt_obese	20
+08057	Colorado	Jackson	pcnt_obese	21
+08059	Colorado	Jefferson	pcnt_obese	19
+08061	Colorado	Kiowa	pcnt_obese	24
+08063	Colorado	Kit Carson	pcnt_obese	27
+08065	Colorado	Lake	pcnt_obese	18
+08067	Colorado	La Plata	pcnt_obese	16
+08069	Colorado	Larimer	pcnt_obese	19
+08071	Colorado	Las Animas	pcnt_obese	22
+08073	Colorado	Lincoln	pcnt_obese	22
+08075	Colorado	Logan	pcnt_obese	23
+08077	Colorado	Mesa	pcnt_obese	22
+08079	Colorado	Mineral	pcnt_obese	19
+08081	Colorado	Moffat	pcnt_obese	24
+08083	Colorado	Montezuma	pcnt_obese	19
+08085	Colorado	Montrose	pcnt_obese	19
+08087	Colorado	Morgan	pcnt_obese	26
+08089	Colorado	Otero	pcnt_obese	26
+08091	Colorado	Ouray	pcnt_obese	18
+08093	Colorado	Park	pcnt_obese	19
+08095	Colorado	Phillips	pcnt_obese	22
+08097	Colorado	Pitkin	pcnt_obese	14
+08099	Colorado	Prowers	pcnt_obese	22
+08101	Colorado	Pueblo	pcnt_obese	24
+08103	Colorado	Rio Blanco	pcnt_obese	20
+08105	Colorado	Rio Grande	pcnt_obese	21
+08107	Colorado	Routt	pcnt_obese	14
+08109	Colorado	Saguache	pcnt_obese	21
+08111	Colorado	San Juan	pcnt_obese	19
+08113	Colorado	San Miguel	pcnt_obese	17
+08115	Colorado	Sedgwick	pcnt_obese	24
+08117	Colorado	Summit	pcnt_obese	15
+08119	Colorado	Teller	pcnt_obese	19
+08121	Colorado	Washington	pcnt_obese	21
+08123	Colorado	Weld	pcnt_obese	25
+08125	Colorado	Yuma	pcnt_obese	24
+09001	Connecticut	Fairfield	pcnt_obese	18
+09003	Connecticut	Hartford	pcnt_obese	24
+09005	Connecticut	Litchfield	pcnt_obese	20
+09007	Connecticut	Middlesex	pcnt_obese	23
+09009	Connecticut	New Haven	pcnt_obese	27
+09011	Connecticut	New London	pcnt_obese	24
+09013	Connecticut	Tolland	pcnt_obese	23
+09015	Connecticut	Windham	pcnt_obese	30
+10001	Delaware	Kent	pcnt_obese	33
+10003	Delaware	New Castle	pcnt_obese	27
+10005	Delaware	Sussex	pcnt_obese	29
+11001	District of Columbia	District of Columbia	pcnt_obese	22
+12001	Florida	Alachua	pcnt_obese	25
+12003	Florida	Baker	pcnt_obese	35
+12005	Florida	Bay	pcnt_obese	27
+12007	Florida	Bradford	pcnt_obese	35
+12009	Florida	Brevard	pcnt_obese	28
+12011	Florida	Broward	pcnt_obese	25
+12013	Florida	Calhoun	pcnt_obese	34
+12015	Florida	Charlotte	pcnt_obese	26
+12017	Florida	Citrus	pcnt_obese	29
+12019	Florida	Clay	pcnt_obese	30
+12021	Florida	Collier	pcnt_obese	21
+12023	Florida	Columbia	pcnt_obese	34
+12027	Florida	DeSoto	pcnt_obese	34
+12029	Florida	Dixie	pcnt_obese	35
+12031	Florida	Duval	pcnt_obese	28
+12033	Florida	Escambia	pcnt_obese	29
+12035	Florida	Flagler	pcnt_obese	29
+12037	Florida	Franklin	pcnt_obese	27
+12039	Florida	Gadsden	pcnt_obese	36
+12041	Florida	Gilchrist	pcnt_obese	33
+12043	Florida	Glades	pcnt_obese	35
+12045	Florida	Gulf	pcnt_obese	30
+12047	Florida	Hamilton	pcnt_obese	38
+12049	Florida	Hardee	pcnt_obese	37
+12051	Florida	Hendry	pcnt_obese	35
+12053	Florida	Hernando	pcnt_obese	28
+12055	Florida	Highlands	pcnt_obese	29
+12057	Florida	Hillsborough	pcnt_obese	26
+12059	Florida	Holmes	pcnt_obese	30
+12061	Florida	Indian River	pcnt_obese	22
+12063	Florida	Jackson	pcnt_obese	33
+12065	Florida	Jefferson	pcnt_obese	34
+12067	Florida	Lafayette	pcnt_obese	33
+12069	Florida	Lake	pcnt_obese	26
+12071	Florida	Lee	pcnt_obese	26
+12073	Florida	Leon	pcnt_obese	28
+12075	Florida	Levy	pcnt_obese	34
+12077	Florida	Liberty	pcnt_obese	36
+12079	Florida	Madison	pcnt_obese	36
+12081	Florida	Manatee	pcnt_obese	26
+12083	Florida	Marion	pcnt_obese	32
+12085	Florida	Martin	pcnt_obese	21
+12086	Florida	Miami-Dade	pcnt_obese	24
+12087	Florida	Monroe	pcnt_obese	20
+12089	Florida	Nassau	pcnt_obese	29
+12091	Florida	Okaloosa	pcnt_obese	30
+12093	Florida	Okeechobee	pcnt_obese	31
+12095	Florida	Orange	pcnt_obese	27
+12097	Florida	Osceola	pcnt_obese	29
+12099	Florida	Palm Beach	pcnt_obese	22
+12101	Florida	Pasco	pcnt_obese	28
+12103	Florida	Pinellas	pcnt_obese	24
+12105	Florida	Polk	pcnt_obese	33
+12107	Florida	Putnam	pcnt_obese	35
+12109	Florida	St. Johns	pcnt_obese	22
+12111	Florida	St. Lucie	pcnt_obese	27
+12113	Florida	Santa Rosa	pcnt_obese	28
+12115	Florida	Sarasota	pcnt_obese	21
+12117	Florida	Seminole	pcnt_obese	25
+12119	Florida	Sumter	pcnt_obese	29
+12121	Florida	Suwannee	pcnt_obese	31
+12123	Florida	Taylor	pcnt_obese	35
+12125	Florida	Union	pcnt_obese	36
+12127	Florida	Volusia	pcnt_obese	25
+12129	Florida	Wakulla	pcnt_obese	35
+12131	Florida	Walton	pcnt_obese	27
+12133	Florida	Washington	pcnt_obese	36
+13001	Georgia	Appling	pcnt_obese	33
+13003	Georgia	Atkinson	pcnt_obese	29
+13005	Georgia	Bacon	pcnt_obese	31
+13007	Georgia	Baker	pcnt_obese	33
+13009	Georgia	Baldwin	pcnt_obese	31
+13011	Georgia	Banks	pcnt_obese	28
+13013	Georgia	Barrow	pcnt_obese	29
+13015	Georgia	Bartow	pcnt_obese	26
+13017	Georgia	Ben Hill	pcnt_obese	33
+13019	Georgia	Berrien	pcnt_obese	31
+13021	Georgia	Bibb	pcnt_obese	30
+13023	Georgia	Bleckley	pcnt_obese	29
+13025	Georgia	Brantley	pcnt_obese	29
+13027	Georgia	Brooks	pcnt_obese	31
+13029	Georgia	Bryan	pcnt_obese	28
+13031	Georgia	Bulloch	pcnt_obese	31
+13033	Georgia	Burke	pcnt_obese	37
+13035	Georgia	Butts	pcnt_obese	31
+13037	Georgia	Calhoun	pcnt_obese	34
+13039	Georgia	Camden	pcnt_obese	29
+13043	Georgia	Candler	pcnt_obese	31
+13045	Georgia	Carroll	pcnt_obese	31
+13047	Georgia	Catoosa	pcnt_obese	33
+13049	Georgia	Charlton	pcnt_obese	31
+13051	Georgia	Chatham	pcnt_obese	29
+13053	Georgia	Chattahoochee	pcnt_obese	32
+13055	Georgia	Chattooga	pcnt_obese	31
+13057	Georgia	Cherokee	pcnt_obese	28
+13059	Georgia	Clarke	pcnt_obese	28
+13061	Georgia	Clay	pcnt_obese	33
+13063	Georgia	Clayton	pcnt_obese	35
+13065	Georgia	Clinch	pcnt_obese	33
+13067	Georgia	Cobb	pcnt_obese	24
+13069	Georgia	Coffee	pcnt_obese	30
+13071	Georgia	Colquitt	pcnt_obese	31
+13073	Georgia	Columbia	pcnt_obese	26
+13075	Georgia	Cook	pcnt_obese	33
+13077	Georgia	Coweta	pcnt_obese	30
+13079	Georgia	Crawford	pcnt_obese	30
+13081	Georgia	Crisp	pcnt_obese	34
+13083	Georgia	Dade	pcnt_obese	28
+13085	Georgia	Dawson	pcnt_obese	27
+13087	Georgia	Decatur	pcnt_obese	34
+13089	Georgia	DeKalb	pcnt_obese	26
+13091	Georgia	Dodge	pcnt_obese	36
+13093	Georgia	Dooly	pcnt_obese	34
+13095	Georgia	Dougherty	pcnt_obese	35
+13097	Georgia	Douglas	pcnt_obese	31
+13099	Georgia	Early	pcnt_obese	30
+13101	Georgia	Echols	pcnt_obese	29
+13103	Georgia	Effingham	pcnt_obese	32
+13105	Georgia	Elbert	pcnt_obese	36
+13107	Georgia	Emanuel	pcnt_obese	31
+13109	Georgia	Evans	pcnt_obese	32
+13111	Georgia	Fannin	pcnt_obese	29
+13113	Georgia	Fayette	pcnt_obese	24
+13115	Georgia	Floyd	pcnt_obese	29
+13117	Georgia	Forsyth	pcnt_obese	23
+13119	Georgia	Franklin	pcnt_obese	28
+13121	Georgia	Fulton	pcnt_obese	24
+13123	Georgia	Gilmer	pcnt_obese	30
+13125	Georgia	Glascock	pcnt_obese	27
+13127	Georgia	Glynn	pcnt_obese	27
+13129	Georgia	Gordon	pcnt_obese	31
+13131	Georgia	Grady	pcnt_obese	33
+13133	Georgia	Greene	pcnt_obese	32
+13135	Georgia	Gwinnett	pcnt_obese	26
+13137	Georgia	Habersham	pcnt_obese	27
+13139	Georgia	Hall	pcnt_obese	28
+13141	Georgia	Hancock	pcnt_obese	37
+13143	Georgia	Haralson	pcnt_obese	31
+13145	Georgia	Harris	pcnt_obese	28
+13147	Georgia	Hart	pcnt_obese	30
+13149	Georgia	Heard	pcnt_obese	28
+13151	Georgia	Henry	pcnt_obese	28
+13153	Georgia	Houston	pcnt_obese	29
+13155	Georgia	Irwin	pcnt_obese	31
+13157	Georgia	Jackson	pcnt_obese	26
+13159	Georgia	Jasper	pcnt_obese	29
+13161	Georgia	Jeff Davis	pcnt_obese	27
+13163	Georgia	Jefferson	pcnt_obese	37
+13165	Georgia	Jenkins	pcnt_obese	33
+13167	Georgia	Johnson	pcnt_obese	35
+13169	Georgia	Jones	pcnt_obese	30
+13171	Georgia	Lamar	pcnt_obese	30
+13173	Georgia	Lanier	pcnt_obese	31
+13175	Georgia	Laurens	pcnt_obese	36
+13177	Georgia	Lee	pcnt_obese	28
+13179	Georgia	Liberty	pcnt_obese	32
+13181	Georgia	Lincoln	pcnt_obese	33
+13183	Georgia	Long	pcnt_obese	30
+13185	Georgia	Lowndes	pcnt_obese	34
+13187	Georgia	Lumpkin	pcnt_obese	28
+13189	Georgia	McDuffie	pcnt_obese	30
+13191	Georgia	McIntosh	pcnt_obese	32
+13193	Georgia	Macon	pcnt_obese	34
+13195	Georgia	Madison	pcnt_obese	31
+13197	Georgia	Marion	pcnt_obese	32
+13199	Georgia	Meriwether	pcnt_obese	32
+13201	Georgia	Miller	pcnt_obese	33
+13205	Georgia	Mitchell	pcnt_obese	34
+13207	Georgia	Monroe	pcnt_obese	31
+13209	Georgia	Montgomery	pcnt_obese	31
+13211	Georgia	Morgan	pcnt_obese	29
+13213	Georgia	Murray	pcnt_obese	30
+13215	Georgia	Muscogee	pcnt_obese	35
+13217	Georgia	Newton	pcnt_obese	31
+13219	Georgia	Oconee	pcnt_obese	26
+13221	Georgia	Oglethorpe	pcnt_obese	31
+13223	Georgia	Paulding	pcnt_obese	26
+13225	Georgia	Peach	pcnt_obese	30
+13227	Georgia	Pickens	pcnt_obese	26
+13229	Georgia	Pierce	pcnt_obese	29
+13231	Georgia	Pike	pcnt_obese	30
+13233	Georgia	Polk	pcnt_obese	29
+13235	Georgia	Pulaski	pcnt_obese	30
+13237	Georgia	Putnam	pcnt_obese	29
+13239	Georgia	Quitman	pcnt_obese	33
+13241	Georgia	Rabun	pcnt_obese	27
+13243	Georgia	Randolph	pcnt_obese	36
+13245	Georgia	Richmond	pcnt_obese	33
+13247	Georgia	Rockdale	pcnt_obese	32
+13249	Georgia	Schley	pcnt_obese	31
+13251	Georgia	Screven	pcnt_obese	31
+13253	Georgia	Seminole	pcnt_obese	33
+13255	Georgia	Spalding	pcnt_obese	32
+13257	Georgia	Stephens	pcnt_obese	33
+13259	Georgia	Stewart	pcnt_obese	35
+13261	Georgia	Sumter	pcnt_obese	35
+13263	Georgia	Talbot	pcnt_obese	35
+13265	Georgia	Taliaferro	pcnt_obese	35
+13267	Georgia	Tattnall	pcnt_obese	29
+13269	Georgia	Taylor	pcnt_obese	34
+13271	Georgia	Telfair	pcnt_obese	30
+13273	Georgia	Terrell	pcnt_obese	38
+13275	Georgia	Thomas	pcnt_obese	34
+13277	Georgia	Tift	pcnt_obese	33
+13279	Georgia	Toombs	pcnt_obese	32
+13281	Georgia	Towns	pcnt_obese	27
+13283	Georgia	Treutlen	pcnt_obese	35
+13285	Georgia	Troup	pcnt_obese	33
+13287	Georgia	Turner	pcnt_obese	34
+13289	Georgia	Twiggs	pcnt_obese	33
+13291	Georgia	Union	pcnt_obese	27
+13293	Georgia	Upson	pcnt_obese	30
+13295	Georgia	Walker	pcnt_obese	31
+13297	Georgia	Walton	pcnt_obese	28
+13299	Georgia	Ware	pcnt_obese	31
+13301	Georgia	Warren	pcnt_obese	35
+13303	Georgia	Washington	pcnt_obese	35
+13305	Georgia	Wayne	pcnt_obese	32
+13307	Georgia	Webster	pcnt_obese	32
+13309	Georgia	Wheeler	pcnt_obese	30
+13311	Georgia	White	pcnt_obese	29
+13313	Georgia	Whitfield	pcnt_obese	29
+13315	Georgia	Wilcox	pcnt_obese	33
+13317	Georgia	Wilkes	pcnt_obese	31
+13319	Georgia	Wilkinson	pcnt_obese	32
+13321	Georgia	Worth	pcnt_obese	30
+15001	Hawaii	Hawaii	pcnt_obese	24
+15003	Hawaii	Honolulu	pcnt_obese	22
+15005	Hawaii	Kalawao	pcnt_obese	27
+15007	Hawaii	Kauai	pcnt_obese	22
+15009	Hawaii	Maui	pcnt_obese	23
+16001	Idaho	Ada	pcnt_obese	23
+16003	Idaho	Adams	pcnt_obese	28
+16005	Idaho	Bannock	pcnt_obese	30
+16007	Idaho	Bear Lake	pcnt_obese	25
+16009	Idaho	Benewah	pcnt_obese	29
+16011	Idaho	Bingham	pcnt_obese	34
+16013	Idaho	Blaine	pcnt_obese	18
+16015	Idaho	Boise	pcnt_obese	29
+16017	Idaho	Bonner	pcnt_obese	23
+16019	Idaho	Bonneville	pcnt_obese	27
+16021	Idaho	Boundary	pcnt_obese	24
+16023	Idaho	Butte	pcnt_obese	29
+16025	Idaho	Camas	pcnt_obese	26
+16027	Idaho	Canyon	pcnt_obese	29
+16029	Idaho	Caribou	pcnt_obese	24
+16031	Idaho	Cassia	pcnt_obese	29
+16033	Idaho	Clark	pcnt_obese	28
+16035	Idaho	Clearwater	pcnt_obese	32
+16037	Idaho	Custer	pcnt_obese	28
+16039	Idaho	Elmore	pcnt_obese	28
+16041	Idaho	Franklin	pcnt_obese	30
+16043	Idaho	Fremont	pcnt_obese	24
+16045	Idaho	Gem	pcnt_obese	31
+16047	Idaho	Gooding	pcnt_obese	29
+16049	Idaho	Idaho	pcnt_obese	30
+16051	Idaho	Jefferson	pcnt_obese	26
+16053	Idaho	Jerome	pcnt_obese	32
+16055	Idaho	Kootenai	pcnt_obese	26
+16057	Idaho	Latah	pcnt_obese	26
+16059	Idaho	Lemhi	pcnt_obese	24
+16061	Idaho	Lewis	pcnt_obese	30
+16063	Idaho	Lincoln	pcnt_obese	25
+16065	Idaho	Madison	pcnt_obese	27
+16067	Idaho	Minidoka	pcnt_obese	30
+16069	Idaho	Nez Perce	pcnt_obese	31
+16071	Idaho	Oneida	pcnt_obese	29
+16073	Idaho	Owyhee	pcnt_obese	30
+16075	Idaho	Payette	pcnt_obese	27
+16077	Idaho	Power	pcnt_obese	30
+16079	Idaho	Shoshone	pcnt_obese	30
+16081	Idaho	Teton	pcnt_obese	25
+16083	Idaho	Twin Falls	pcnt_obese	26
+16085	Idaho	Valley	pcnt_obese	28
+16087	Idaho	Washington	pcnt_obese	28
+17001	Illinois	Adams	pcnt_obese	31
+17003	Illinois	Alexander	pcnt_obese	31
+17005	Illinois	Bond	pcnt_obese	29
+17007	Illinois	Boone	pcnt_obese	30
+17009	Illinois	Brown	pcnt_obese	30
+17011	Illinois	Bureau	pcnt_obese	28
+17013	Illinois	Calhoun	pcnt_obese	28
+17015	Illinois	Carroll	pcnt_obese	27
+17017	Illinois	Cass	pcnt_obese	30
+17019	Illinois	Champaign	pcnt_obese	27
+17021	Illinois	Christian	pcnt_obese	29
+17023	Illinois	Clark	pcnt_obese	31
+17025	Illinois	Clay	pcnt_obese	29
+17027	Illinois	Clinton	pcnt_obese	28
+17029	Illinois	Coles	pcnt_obese	29
+17031	Illinois	Cook	pcnt_obese	26
+17033	Illinois	Crawford	pcnt_obese	31
+17035	Illinois	Cumberland	pcnt_obese	28
+17037	Illinois	DeKalb	pcnt_obese	30
+17039	Illinois	De Witt	pcnt_obese	29
+17041	Illinois	Douglas	pcnt_obese	30
+17043	Illinois	DuPage	pcnt_obese	25
+17045	Illinois	Edgar	pcnt_obese	31
+17047	Illinois	Edwards	pcnt_obese	27
+17049	Illinois	Effingham	pcnt_obese	28
+17051	Illinois	Fayette	pcnt_obese	30
+17053	Illinois	Ford	pcnt_obese	32
+17055	Illinois	Franklin	pcnt_obese	30
+17057	Illinois	Fulton	pcnt_obese	30
+17059	Illinois	Gallatin	pcnt_obese	28
+17061	Illinois	Greene	pcnt_obese	32
+17063	Illinois	Grundy	pcnt_obese	32
+17065	Illinois	Hamilton	pcnt_obese	30
+17067	Illinois	Hancock	pcnt_obese	28
+17069	Illinois	Hardin	pcnt_obese	30
+17071	Illinois	Henderson	pcnt_obese	31
+17073	Illinois	Henry	pcnt_obese	28
+17075	Illinois	Iroquois	pcnt_obese	32
+17077	Illinois	Jackson	pcnt_obese	27
+17079	Illinois	Jasper	pcnt_obese	29
+17081	Illinois	Jefferson	pcnt_obese	33
+17083	Illinois	Jersey	pcnt_obese	28
+17085	Illinois	Jo Daviess	pcnt_obese	29
+17087	Illinois	Johnson	pcnt_obese	29
+17089	Illinois	Kane	pcnt_obese	28
+17091	Illinois	Kankakee	pcnt_obese	31
+17093	Illinois	Kendall	pcnt_obese	26
+17095	Illinois	Knox	pcnt_obese	33
+17097	Illinois	Lake	pcnt_obese	25
+17099	Illinois	LaSalle	pcnt_obese	30
+17101	Illinois	Lawrence	pcnt_obese	29
+17103	Illinois	Lee	pcnt_obese	27
+17105	Illinois	Livingston	pcnt_obese	29
+17107	Illinois	Logan	pcnt_obese	35
+17109	Illinois	McDonough	pcnt_obese	29
+17111	Illinois	McHenry	pcnt_obese	24
+17113	Illinois	McLean	pcnt_obese	30
+17115	Illinois	Macon	pcnt_obese	33
+17117	Illinois	Macoupin	pcnt_obese	29
+17119	Illinois	Madison	pcnt_obese	30
+17121	Illinois	Marion	pcnt_obese	30
+17123	Illinois	Marshall	pcnt_obese	26
+17125	Illinois	Mason	pcnt_obese	31
+17127	Illinois	Massac	pcnt_obese	32
+17129	Illinois	Menard	pcnt_obese	27
+17131	Illinois	Mercer	pcnt_obese	31
+17133	Illinois	Monroe	pcnt_obese	29
+17135	Illinois	Montgomery	pcnt_obese	25
+17137	Illinois	Morgan	pcnt_obese	29
+17139	Illinois	Moultrie	pcnt_obese	28
+17141	Illinois	Ogle	pcnt_obese	28
+17143	Illinois	Peoria	pcnt_obese	29
+17145	Illinois	Perry	pcnt_obese	29
+17147	Illinois	Piatt	pcnt_obese	29
+17149	Illinois	Pike	pcnt_obese	28
+17151	Illinois	Pope	pcnt_obese	30
+17153	Illinois	Pulaski	pcnt_obese	32
+17155	Illinois	Putnam	pcnt_obese	29
+17157	Illinois	Randolph	pcnt_obese	29
+17159	Illinois	Richland	pcnt_obese	30
+17161	Illinois	Rock Island	pcnt_obese	28
+17163	Illinois	St. Clair	pcnt_obese	30
+17165	Illinois	Saline	pcnt_obese	29
+17167	Illinois	Sangamon	pcnt_obese	29
+17169	Illinois	Schuyler	pcnt_obese	27
+17171	Illinois	Scott	pcnt_obese	29
+17173	Illinois	Shelby	pcnt_obese	28
+17175	Illinois	Stark	pcnt_obese	30
+17177	Illinois	Stephenson	pcnt_obese	30
+17179	Illinois	Tazewell	pcnt_obese	27
+17181	Illinois	Union	pcnt_obese	31
+17183	Illinois	Vermilion	pcnt_obese	29
+17185	Illinois	Wabash	pcnt_obese	29
+17187	Illinois	Warren	pcnt_obese	29
+17189	Illinois	Washington	pcnt_obese	31
+17191	Illinois	Wayne	pcnt_obese	29
+17193	Illinois	White	pcnt_obese	29
+17195	Illinois	Whiteside	pcnt_obese	28
+17197	Illinois	Will	pcnt_obese	31
+17199	Illinois	Williamson	pcnt_obese	31
+17201	Illinois	Winnebago	pcnt_obese	29
+17203	Illinois	Woodford	pcnt_obese	29
+18001	Indiana	Adams	pcnt_obese	33
+18003	Indiana	Allen	pcnt_obese	33
+18005	Indiana	Bartholomew	pcnt_obese	31
+18007	Indiana	Benton	pcnt_obese	33
+18009	Indiana	Blackford	pcnt_obese	33
+18011	Indiana	Boone	pcnt_obese	30
+18013	Indiana	Brown	pcnt_obese	30
+18015	Indiana	Carroll	pcnt_obese	32
+18017	Indiana	Cass	pcnt_obese	34
+18019	Indiana	Clark	pcnt_obese	31
+18021	Indiana	Clay	pcnt_obese	36
+18023	Indiana	Clinton	pcnt_obese	29
+18025	Indiana	Crawford	pcnt_obese	37
+18027	Indiana	Daviess	pcnt_obese	33
+18029	Indiana	Dearborn	pcnt_obese	34
+18031	Indiana	Decatur	pcnt_obese	31
+18033	Indiana	DeKalb	pcnt_obese	31
+18035	Indiana	Delaware	pcnt_obese	33
+18037	Indiana	Dubois	pcnt_obese	32
+18039	Indiana	Elkhart	pcnt_obese	29
+18041	Indiana	Fayette	pcnt_obese	34
+18043	Indiana	Floyd	pcnt_obese	31
+18045	Indiana	Fountain	pcnt_obese	29
+18047	Indiana	Franklin	pcnt_obese	29
+18049	Indiana	Fulton	pcnt_obese	32
+18051	Indiana	Gibson	pcnt_obese	28
+18053	Indiana	Grant	pcnt_obese	30
+18055	Indiana	Greene	pcnt_obese	31
+18057	Indiana	Hamilton	pcnt_obese	22
+18059	Indiana	Hancock	pcnt_obese	28
+18061	Indiana	Harrison	pcnt_obese	30
+18063	Indiana	Hendricks	pcnt_obese	34
+18065	Indiana	Henry	pcnt_obese	31
+18067	Indiana	Howard	pcnt_obese	34
+18069	Indiana	Huntington	pcnt_obese	35
+18071	Indiana	Jackson	pcnt_obese	31
+18073	Indiana	Jasper	pcnt_obese	32
+18075	Indiana	Jay	pcnt_obese	35
+18077	Indiana	Jefferson	pcnt_obese	31
+18079	Indiana	Jennings	pcnt_obese	30
+18081	Indiana	Johnson	pcnt_obese	29
+18083	Indiana	Knox	pcnt_obese	32
+18085	Indiana	Kosciusko	pcnt_obese	33
+18087	Indiana	LaGrange	pcnt_obese	30
+18089	Indiana	Lake	pcnt_obese	34
+18091	Indiana	LaPorte	pcnt_obese	31
+18093	Indiana	Lawrence	pcnt_obese	29
+18095	Indiana	Madison	pcnt_obese	37
+18097	Indiana	Marion	pcnt_obese	30
+18099	Indiana	Marshall	pcnt_obese	29
+18101	Indiana	Martin	pcnt_obese	30
+18103	Indiana	Miami	pcnt_obese	32
+18105	Indiana	Monroe	pcnt_obese	26
+18107	Indiana	Montgomery	pcnt_obese	31
+18109	Indiana	Morgan	pcnt_obese	31
+18111	Indiana	Newton	pcnt_obese	31
+18113	Indiana	Noble	pcnt_obese	31
+18115	Indiana	Ohio	pcnt_obese	30
+18117	Indiana	Orange	pcnt_obese	33
+18119	Indiana	Owen	pcnt_obese	36
+18121	Indiana	Parke	pcnt_obese	29
+18123	Indiana	Perry	pcnt_obese	33
+18125	Indiana	Pike	pcnt_obese	31
+18127	Indiana	Porter	pcnt_obese	30
+18129	Indiana	Posey	pcnt_obese	31
+18131	Indiana	Pulaski	pcnt_obese	34
+18133	Indiana	Putnam	pcnt_obese	31
+18135	Indiana	Randolph	pcnt_obese	35
+18137	Indiana	Ripley	pcnt_obese	31
+18139	Indiana	Rush	pcnt_obese	32
+18141	Indiana	St. Joseph	pcnt_obese	30
+18143	Indiana	Scott	pcnt_obese	29
+18145	Indiana	Shelby	pcnt_obese	36
+18147	Indiana	Spencer	pcnt_obese	31
+18149	Indiana	Starke	pcnt_obese	33
+18151	Indiana	Steuben	pcnt_obese	32
+18153	Indiana	Sullivan	pcnt_obese	31
+18155	Indiana	Switzerland	pcnt_obese	28
+18157	Indiana	Tippecanoe	pcnt_obese	28
+18159	Indiana	Tipton	pcnt_obese	31
+18161	Indiana	Union	pcnt_obese	33
+18163	Indiana	Vanderburgh	pcnt_obese	29
+18165	Indiana	Vermillion	pcnt_obese	31
+18167	Indiana	Vigo	pcnt_obese	33
+18169	Indiana	Wabash	pcnt_obese	36
+18171	Indiana	Warren	pcnt_obese	30
+18173	Indiana	Warrick	pcnt_obese	32
+18175	Indiana	Washington	pcnt_obese	30
+18177	Indiana	Wayne	pcnt_obese	28
+18179	Indiana	Wells	pcnt_obese	32
+18181	Indiana	White	pcnt_obese	34
+18183	Indiana	Whitley	pcnt_obese	33
+19001	Iowa	Adair	pcnt_obese	31
+19003	Iowa	Adams	pcnt_obese	33
+19005	Iowa	Allamakee	pcnt_obese	29
+19007	Iowa	Appanoose	pcnt_obese	30
+19009	Iowa	Audubon	pcnt_obese	33
+19011	Iowa	Benton	pcnt_obese	31
+19013	Iowa	Black Hawk	pcnt_obese	29
+19015	Iowa	Boone	pcnt_obese	34
+19017	Iowa	Bremer	pcnt_obese	27
+19019	Iowa	Buchanan	pcnt_obese	29
+19021	Iowa	Buena Vista	pcnt_obese	29
+19023	Iowa	Butler	pcnt_obese	26
+19025	Iowa	Calhoun	pcnt_obese	31
+19027	Iowa	Carroll	pcnt_obese	31
+19029	Iowa	Cass	pcnt_obese	36
+19031	Iowa	Cedar	pcnt_obese	33
+19033	Iowa	Cerro Gordo	pcnt_obese	27
+19035	Iowa	Cherokee	pcnt_obese	26
+19037	Iowa	Chickasaw	pcnt_obese	31
+19039	Iowa	Clarke	pcnt_obese	30
+19041	Iowa	Clay	pcnt_obese	30
+19043	Iowa	Clayton	pcnt_obese	29
+19045	Iowa	Clinton	pcnt_obese	30
+19047	Iowa	Crawford	pcnt_obese	32
+19049	Iowa	Dallas	pcnt_obese	30
+19051	Iowa	Davis	pcnt_obese	31
+19053	Iowa	Decatur	pcnt_obese	29
+19055	Iowa	Delaware	pcnt_obese	33
+19057	Iowa	Des Moines	pcnt_obese	34
+19059	Iowa	Dickinson	pcnt_obese	27
+19061	Iowa	Dubuque	pcnt_obese	27
+19063	Iowa	Emmet	pcnt_obese	31
+19065	Iowa	Fayette	pcnt_obese	33
+19067	Iowa	Floyd	pcnt_obese	30
+19069	Iowa	Franklin	pcnt_obese	33
+19071	Iowa	Fremont	pcnt_obese	32
+19073	Iowa	Greene	pcnt_obese	29
+19075	Iowa	Grundy	pcnt_obese	31
+19077	Iowa	Guthrie	pcnt_obese	30
+19079	Iowa	Hamilton	pcnt_obese	32
+19081	Iowa	Hancock	pcnt_obese	29
+19083	Iowa	Hardin	pcnt_obese	33
+19085	Iowa	Harrison	pcnt_obese	31
+19087	Iowa	Henry	pcnt_obese	30
+19089	Iowa	Howard	pcnt_obese	28
+19091	Iowa	Humboldt	pcnt_obese	31
+19093	Iowa	Ida	pcnt_obese	27
+19095	Iowa	Iowa	pcnt_obese	29
+19097	Iowa	Jackson	pcnt_obese	31
+19099	Iowa	Jasper	pcnt_obese	35
+19101	Iowa	Jefferson	pcnt_obese	30
+19103	Iowa	Johnson	pcnt_obese	24
+19105	Iowa	Jones	pcnt_obese	30
+19107	Iowa	Keokuk	pcnt_obese	34
+19109	Iowa	Kossuth	pcnt_obese	29
+19111	Iowa	Lee	pcnt_obese	31
+19113	Iowa	Linn	pcnt_obese	28
+19115	Iowa	Louisa	pcnt_obese	34
+19117	Iowa	Lucas	pcnt_obese	31
+19119	Iowa	Lyon	pcnt_obese	27
+19121	Iowa	Madison	pcnt_obese	29
+19123	Iowa	Mahaska	pcnt_obese	28
+19125	Iowa	Marion	pcnt_obese	32
+19127	Iowa	Marshall	pcnt_obese	32
+19129	Iowa	Mills	pcnt_obese	26
+19131	Iowa	Mitchell	pcnt_obese	26
+19133	Iowa	Monona	pcnt_obese	27
+19135	Iowa	Monroe	pcnt_obese	33
+19137	Iowa	Montgomery	pcnt_obese	31
+19139	Iowa	Muscatine	pcnt_obese	32
+19141	Iowa	O'Brien	pcnt_obese	30
+19143	Iowa	Osceola	pcnt_obese	31
+19145	Iowa	Page	pcnt_obese	32
+19147	Iowa	Palo Alto	pcnt_obese	28
+19149	Iowa	Plymouth	pcnt_obese	31
+19151	Iowa	Pocahontas	pcnt_obese	30
+19153	Iowa	Polk	pcnt_obese	28
+19155	Iowa	Pottawattamie	pcnt_obese	30
+19157	Iowa	Poweshiek	pcnt_obese	31
+19159	Iowa	Ringgold	pcnt_obese	29
+19161	Iowa	Sac	pcnt_obese	29
+19163	Iowa	Scott	pcnt_obese	27
+19165	Iowa	Shelby	pcnt_obese	32
+19167	Iowa	Sioux	pcnt_obese	26
+19169	Iowa	Story	pcnt_obese	26
+19171	Iowa	Tama	pcnt_obese	26
+19173	Iowa	Taylor	pcnt_obese	30
+19175	Iowa	Union	pcnt_obese	30
+19177	Iowa	Van Buren	pcnt_obese	32
+19179	Iowa	Wapello	pcnt_obese	29
+19181	Iowa	Warren	pcnt_obese	35
+19183	Iowa	Washington	pcnt_obese	31
+19185	Iowa	Wayne	pcnt_obese	33
+19187	Iowa	Webster	pcnt_obese	30
+19189	Iowa	Winnebago	pcnt_obese	26
+19191	Iowa	Winneshiek	pcnt_obese	25
+19193	Iowa	Woodbury	pcnt_obese	31
+19195	Iowa	Worth	pcnt_obese	29
+19197	Iowa	Wright	pcnt_obese	30
+20001	Kansas	Allen	pcnt_obese	34
+20003	Kansas	Anderson	pcnt_obese	32
+20005	Kansas	Atchison	pcnt_obese	33
+20007	Kansas	Barber	pcnt_obese	35
+20009	Kansas	Barton	pcnt_obese	34
+20011	Kansas	Bourbon	pcnt_obese	35
+20013	Kansas	Brown	pcnt_obese	37
+20015	Kansas	Butler	pcnt_obese	33
+20017	Kansas	Chase	pcnt_obese	32
+20019	Kansas	Chautauqua	pcnt_obese	29
+20021	Kansas	Cherokee	pcnt_obese	36
+20023	Kansas	Cheyenne	pcnt_obese	32
+20025	Kansas	Clark	pcnt_obese	32
+20027	Kansas	Clay	pcnt_obese	31
+20029	Kansas	Cloud	pcnt_obese	31
+20031	Kansas	Coffey	pcnt_obese	35
+20033	Kansas	Comanche	pcnt_obese	29
+20035	Kansas	Cowley	pcnt_obese	33
+20037	Kansas	Crawford	pcnt_obese	35
+20039	Kansas	Decatur	pcnt_obese	31
+20041	Kansas	Dickinson	pcnt_obese	31
+20043	Kansas	Doniphan	pcnt_obese	35
+20045	Kansas	Douglas	pcnt_obese	27
+20047	Kansas	Edwards	pcnt_obese	34
+20049	Kansas	Elk	pcnt_obese	32
+20051	Kansas	Ellis	pcnt_obese	31
+20053	Kansas	Ellsworth	pcnt_obese	35
+20055	Kansas	Finney	pcnt_obese	33
+20057	Kansas	Ford	pcnt_obese	33
+20059	Kansas	Franklin	pcnt_obese	34
+20061	Kansas	Geary	pcnt_obese	29
+20063	Kansas	Gove	pcnt_obese	31
+20065	Kansas	Graham	pcnt_obese	32
+20067	Kansas	Grant	pcnt_obese	34
+20069	Kansas	Gray	pcnt_obese	30
+20071	Kansas	Greeley	pcnt_obese	34
+20073	Kansas	Greenwood	pcnt_obese	34
+20075	Kansas	Hamilton	pcnt_obese	32
+20077	Kansas	Harper	pcnt_obese	28
+20079	Kansas	Harvey	pcnt_obese	29
+20081	Kansas	Haskell	pcnt_obese	31
+20083	Kansas	Hodgeman	pcnt_obese	33
+20085	Kansas	Jackson	pcnt_obese	32
+20087	Kansas	Jefferson	pcnt_obese	38
+20089	Kansas	Jewell	pcnt_obese	34
+20091	Kansas	Johnson	pcnt_obese	24
+20093	Kansas	Kearny	pcnt_obese	31
+20095	Kansas	Kingman	pcnt_obese	31
+20097	Kansas	Kiowa	pcnt_obese	31
+20099	Kansas	Labette	pcnt_obese	32
+20101	Kansas	Lane	pcnt_obese	34
+20103	Kansas	Leavenworth	pcnt_obese	32
+20105	Kansas	Lincoln	pcnt_obese	28
+20107	Kansas	Linn	pcnt_obese	35
+20109	Kansas	Logan	pcnt_obese	32
+20111	Kansas	Lyon	pcnt_obese	31
+20113	Kansas	McPherson	pcnt_obese	31
+20115	Kansas	Marion	pcnt_obese	31
+20117	Kansas	Marshall	pcnt_obese	34
+20119	Kansas	Meade	pcnt_obese	31
+20121	Kansas	Miami	pcnt_obese	30
+20123	Kansas	Mitchell	pcnt_obese	28
+20125	Kansas	Montgomery	pcnt_obese	31
+20127	Kansas	Morris	pcnt_obese	33
+20129	Kansas	Morton	pcnt_obese	33
+20131	Kansas	Nemaha	pcnt_obese	28
+20133	Kansas	Neosho	pcnt_obese	36
+20135	Kansas	Ness	pcnt_obese	28
+20137	Kansas	Norton	pcnt_obese	30
+20139	Kansas	Osage	pcnt_obese	35
+20141	Kansas	Osborne	pcnt_obese	32
+20143	Kansas	Ottawa	pcnt_obese	32
+20145	Kansas	Pawnee	pcnt_obese	34
+20147	Kansas	Phillips	pcnt_obese	34
+20149	Kansas	Pottawatomie	pcnt_obese	31
+20151	Kansas	Pratt	pcnt_obese	32
+20153	Kansas	Rawlins	pcnt_obese	33
+20155	Kansas	Reno	pcnt_obese	33
+20157	Kansas	Republic	pcnt_obese	32
+20159	Kansas	Rice	pcnt_obese	37
+20161	Kansas	Riley	pcnt_obese	27
+20163	Kansas	Rooks	pcnt_obese	30
+20165	Kansas	Rush	pcnt_obese	29
+20167	Kansas	Russell	pcnt_obese	32
+20169	Kansas	Saline	pcnt_obese	34
+20171	Kansas	Scott	pcnt_obese	29
+20173	Kansas	Sedgwick	pcnt_obese	30
+20175	Kansas	Seward	pcnt_obese	36
+20177	Kansas	Shawnee	pcnt_obese	33
+20179	Kansas	Sheridan	pcnt_obese	30
+20181	Kansas	Sherman	pcnt_obese	32
+20183	Kansas	Smith	pcnt_obese	31
+20185	Kansas	Stafford	pcnt_obese	33
+20187	Kansas	Stanton	pcnt_obese	31
+20189	Kansas	Stevens	pcnt_obese	30
+20191	Kansas	Sumner	pcnt_obese	34
+20193	Kansas	Thomas	pcnt_obese	31
+20195	Kansas	Trego	pcnt_obese	33
+20197	Kansas	Wabaunsee	pcnt_obese	32
+20199	Kansas	Wallace	pcnt_obese	32
+20201	Kansas	Washington	pcnt_obese	33
+20203	Kansas	Wichita	pcnt_obese	32
+20205	Kansas	Wilson	pcnt_obese	35
+20207	Kansas	Woodson	pcnt_obese	31
+20209	Kansas	Wyandotte	pcnt_obese	38
+21001	Kentucky	Adair	pcnt_obese	36
+21003	Kentucky	Allen	pcnt_obese	34
+21005	Kentucky	Anderson	pcnt_obese	36
+21007	Kentucky	Ballard	pcnt_obese	32
+21009	Kentucky	Barren	pcnt_obese	29
+21011	Kentucky	Bath	pcnt_obese	33
+21013	Kentucky	Bell	pcnt_obese	36
+21015	Kentucky	Boone	pcnt_obese	31
+21017	Kentucky	Bourbon	pcnt_obese	35
+21019	Kentucky	Boyd	pcnt_obese	36
+21021	Kentucky	Boyle	pcnt_obese	31
+21023	Kentucky	Bracken	pcnt_obese	34
+21025	Kentucky	Breathitt	pcnt_obese	40
+21027	Kentucky	Breckinridge	pcnt_obese	34
+21029	Kentucky	Bullitt	pcnt_obese	34
+21031	Kentucky	Butler	pcnt_obese	33
+21033	Kentucky	Caldwell	pcnt_obese	35
+21035	Kentucky	Calloway	pcnt_obese	29
+21037	Kentucky	Campbell	pcnt_obese	28
+21039	Kentucky	Carlisle	pcnt_obese	32
+21041	Kentucky	Carroll	pcnt_obese	32
+21043	Kentucky	Carter	pcnt_obese	35
+21045	Kentucky	Casey	pcnt_obese	36
+21047	Kentucky	Christian	pcnt_obese	31
+21049	Kentucky	Clark	pcnt_obese	29
+21051	Kentucky	Clay	pcnt_obese	33
+21053	Kentucky	Clinton	pcnt_obese	33
+21055	Kentucky	Crittenden	pcnt_obese	33
+21057	Kentucky	Cumberland	pcnt_obese	33
+21059	Kentucky	Daviess	pcnt_obese	31
+21061	Kentucky	Edmonson	pcnt_obese	34
+21063	Kentucky	Elliott	pcnt_obese	36
+21065	Kentucky	Estill	pcnt_obese	35
+21067	Kentucky	Fayette	pcnt_obese	31
+21069	Kentucky	Fleming	pcnt_obese	35
+21071	Kentucky	Floyd	pcnt_obese	37
+21073	Kentucky	Franklin	pcnt_obese	33
+21075	Kentucky	Fulton	pcnt_obese	32
+21077	Kentucky	Gallatin	pcnt_obese	33
+21079	Kentucky	Garrard	pcnt_obese	33
+21081	Kentucky	Grant	pcnt_obese	38
+21083	Kentucky	Graves	pcnt_obese	34
+21085	Kentucky	Grayson	pcnt_obese	31
+21087	Kentucky	Green	pcnt_obese	32
+21089	Kentucky	Greenup	pcnt_obese	35
+21091	Kentucky	Hancock	pcnt_obese	35
+21093	Kentucky	Hardin	pcnt_obese	31
+21095	Kentucky	Harlan	pcnt_obese	33
+21097	Kentucky	Harrison	pcnt_obese	30
+21099	Kentucky	Hart	pcnt_obese	34
+21101	Kentucky	Henderson	pcnt_obese	33
+21103	Kentucky	Henry	pcnt_obese	35
+21105	Kentucky	Hickman	pcnt_obese	33
+21107	Kentucky	Hopkins	pcnt_obese	35
+21109	Kentucky	Jackson	pcnt_obese	33
+21111	Kentucky	Jefferson	pcnt_obese	34
+21113	Kentucky	Jessamine	pcnt_obese	31
+21115	Kentucky	Johnson	pcnt_obese	38
+21117	Kentucky	Kenton	pcnt_obese	31
+21119	Kentucky	Knott	pcnt_obese	34
+21121	Kentucky	Knox	pcnt_obese	36
+21123	Kentucky	Larue	pcnt_obese	33
+21125	Kentucky	Laurel	pcnt_obese	37
+21127	Kentucky	Lawrence	pcnt_obese	36
+21129	Kentucky	Lee	pcnt_obese	33
+21131	Kentucky	Leslie	pcnt_obese	36
+21133	Kentucky	Letcher	pcnt_obese	39
+21135	Kentucky	Lewis	pcnt_obese	35
+21137	Kentucky	Lincoln	pcnt_obese	40
+21139	Kentucky	Livingston	pcnt_obese	34
+21141	Kentucky	Logan	pcnt_obese	34
+21143	Kentucky	Lyon	pcnt_obese	34
+21145	Kentucky	McCracken	pcnt_obese	30
+21147	Kentucky	McCreary	pcnt_obese	32
+21149	Kentucky	McLean	pcnt_obese	31
+21151	Kentucky	Madison	pcnt_obese	30
+21153	Kentucky	Magoffin	pcnt_obese	32
+21155	Kentucky	Marion	pcnt_obese	34
+21157	Kentucky	Marshall	pcnt_obese	36
+21159	Kentucky	Martin	pcnt_obese	39
+21161	Kentucky	Mason	pcnt_obese	31
+21163	Kentucky	Meade	pcnt_obese	36
+21165	Kentucky	Menifee	pcnt_obese	36
+21167	Kentucky	Mercer	pcnt_obese	34
+21169	Kentucky	Metcalfe	pcnt_obese	35
+21171	Kentucky	Monroe	pcnt_obese	35
+21173	Kentucky	Montgomery	pcnt_obese	32
+21175	Kentucky	Morgan	pcnt_obese	35
+21177	Kentucky	Muhlenberg	pcnt_obese	32
+21179	Kentucky	Nelson	pcnt_obese	30
+21181	Kentucky	Nicholas	pcnt_obese	34
+21183	Kentucky	Ohio	pcnt_obese	33
+21185	Kentucky	Oldham	pcnt_obese	30
+21187	Kentucky	Owen	pcnt_obese	34
+21189	Kentucky	Owsley	pcnt_obese	33
+21191	Kentucky	Pendleton	pcnt_obese	36
+21193	Kentucky	Perry	pcnt_obese	39
+21195	Kentucky	Pike	pcnt_obese	37
+21197	Kentucky	Powell	pcnt_obese	35
+21199	Kentucky	Pulaski	pcnt_obese	31
+21201	Kentucky	Robertson	pcnt_obese	32
+21203	Kentucky	Rockcastle	pcnt_obese	36
+21205	Kentucky	Rowan	pcnt_obese	35
+21207	Kentucky	Russell	pcnt_obese	34
+21209	Kentucky	Scott	pcnt_obese	33
+21211	Kentucky	Shelby	pcnt_obese	35
+21213	Kentucky	Simpson	pcnt_obese	32
+21215	Kentucky	Spencer	pcnt_obese	37
+21217	Kentucky	Taylor	pcnt_obese	33
+21219	Kentucky	Todd	pcnt_obese	32
+21221	Kentucky	Trigg	pcnt_obese	34
+21223	Kentucky	Trimble	pcnt_obese	34
+21225	Kentucky	Union	pcnt_obese	36
+21227	Kentucky	Warren	pcnt_obese	29
+21229	Kentucky	Washington	pcnt_obese	32
+21231	Kentucky	Wayne	pcnt_obese	33
+21233	Kentucky	Webster	pcnt_obese	37
+21235	Kentucky	Whitley	pcnt_obese	33
+21237	Kentucky	Wolfe	pcnt_obese	32
+21239	Kentucky	Woodford	pcnt_obese	32
+22001	Louisiana	Acadia	pcnt_obese	33
+22003	Louisiana	Allen	pcnt_obese	38
+22005	Louisiana	Ascension	pcnt_obese	32
+22007	Louisiana	Assumption	pcnt_obese	33
+22009	Louisiana	Avoyelles	pcnt_obese	37
+22011	Louisiana	Beauregard	pcnt_obese	33
+22013	Louisiana	Bienville	pcnt_obese	39
+22015	Louisiana	Bossier	pcnt_obese	31
+22017	Louisiana	Caddo	pcnt_obese	32
+22019	Louisiana	Calcasieu	pcnt_obese	35
+22021	Louisiana	Caldwell	pcnt_obese	38
+22023	Louisiana	Cameron	pcnt_obese	33
+22025	Louisiana	Catahoula	pcnt_obese	34
+22027	Louisiana	Claiborne	pcnt_obese	34
+22029	Louisiana	Concordia	pcnt_obese	33
+22031	Louisiana	De Soto	pcnt_obese	37
+22033	Louisiana	East Baton Rouge	pcnt_obese	32
+22035	Louisiana	East Carroll	pcnt_obese	36
+22037	Louisiana	East Feliciana	pcnt_obese	35
+22039	Louisiana	Evangeline	pcnt_obese	33
+22041	Louisiana	Franklin	pcnt_obese	36
+22043	Louisiana	Grant	pcnt_obese	32
+22045	Louisiana	Iberia	pcnt_obese	34
+22047	Louisiana	Iberville	pcnt_obese	37
+22049	Louisiana	Jackson	pcnt_obese	31
+22051	Louisiana	Jefferson	pcnt_obese	32
+22053	Louisiana	Jefferson Davis	pcnt_obese	34
+22055	Louisiana	Lafayette	pcnt_obese	29
+22057	Louisiana	Lafourche	pcnt_obese	36
+22059	Louisiana	La Salle	pcnt_obese	33
+22061	Louisiana	Lincoln	pcnt_obese	34
+22063	Louisiana	Livingston	pcnt_obese	31
+22065	Louisiana	Madison	pcnt_obese	37
+22067	Louisiana	Morehouse	pcnt_obese	38
+22069	Louisiana	Natchitoches	pcnt_obese	36
+22071	Louisiana	Orleans	pcnt_obese	30
+22073	Louisiana	Ouachita	pcnt_obese	32
+22075	Louisiana	Plaquemines	pcnt_obese	34
+22077	Louisiana	Pointe Coupee	pcnt_obese	32
+22079	Louisiana	Rapides	pcnt_obese	33
+22081	Louisiana	Red River	pcnt_obese	35
+22083	Louisiana	Richland	pcnt_obese	36
+22085	Louisiana	Sabine	pcnt_obese	36
+22087	Louisiana	St. Bernard	pcnt_obese	33
+22089	Louisiana	St. Charles	pcnt_obese	33
+22091	Louisiana	St. Helena	pcnt_obese	37
+22093	Louisiana	St. James	pcnt_obese	36
+22095	Louisiana	St. John the Baptist	pcnt_obese	39
+22097	Louisiana	St. Landry	pcnt_obese	38
+22099	Louisiana	St. Martin	pcnt_obese	36
+22101	Louisiana	St. Mary	pcnt_obese	38
+22103	Louisiana	St. Tammany	pcnt_obese	28
+22105	Louisiana	Tangipahoa	pcnt_obese	36
+22107	Louisiana	Tensas	pcnt_obese	36
+22109	Louisiana	Terrebonne	pcnt_obese	39
+22111	Louisiana	Union	pcnt_obese	36
+22113	Louisiana	Vermilion	pcnt_obese	34
+22115	Louisiana	Vernon	pcnt_obese	36
+22117	Louisiana	Washington	pcnt_obese	35
+22119	Louisiana	Webster	pcnt_obese	36
+22121	Louisiana	West Baton Rouge	pcnt_obese	32
+22123	Louisiana	West Carroll	pcnt_obese	32
+22125	Louisiana	West Feliciana	pcnt_obese	33
+22127	Louisiana	Winn	pcnt_obese	33
+23001	Maine	Androscoggin	pcnt_obese	32
+23003	Maine	Aroostook	pcnt_obese	32
+23005	Maine	Cumberland	pcnt_obese	22
+23007	Maine	Franklin	pcnt_obese	29
+23009	Maine	Hancock	pcnt_obese	25
+23011	Maine	Kennebec	pcnt_obese	30
+23013	Maine	Knox	pcnt_obese	26
+23015	Maine	Lincoln	pcnt_obese	24
+23017	Maine	Oxford	pcnt_obese	28
+23019	Maine	Penobscot	pcnt_obese	31
+23021	Maine	Piscataquis	pcnt_obese	34
+23023	Maine	Sagadahoc	pcnt_obese	26
+23025	Maine	Somerset	pcnt_obese	35
+23027	Maine	Waldo	pcnt_obese	28
+23029	Maine	Washington	pcnt_obese	31
+23031	Maine	York	pcnt_obese	26
+24001	Maryland	Allegany	pcnt_obese	31
+24003	Maryland	Anne Arundel	pcnt_obese	28
+24005	Maryland	Baltimore	pcnt_obese	27
+24009	Maryland	Calvert	pcnt_obese	28
+24011	Maryland	Caroline	pcnt_obese	33
+24013	Maryland	Carroll	pcnt_obese	28
+24015	Maryland	Cecil	pcnt_obese	32
+24017	Maryland	Charles	pcnt_obese	33
+24019	Maryland	Dorchester	pcnt_obese	36
+24021	Maryland	Frederick	pcnt_obese	27
+24023	Maryland	Garrett	pcnt_obese	30
+24025	Maryland	Harford	pcnt_obese	28
+24027	Maryland	Howard	pcnt_obese	25
+24029	Maryland	Kent	pcnt_obese	28
+24031	Maryland	Montgomery	pcnt_obese	18
+24033	Maryland	Prince George's	pcnt_obese	34
+24035	Maryland	Queen Anne's	pcnt_obese	28
+24037	Maryland	St. Mary's	pcnt_obese	29
+24039	Maryland	Somerset	pcnt_obese	40
+24041	Maryland	Talbot	pcnt_obese	26
+24043	Maryland	Washington	pcnt_obese	30
+24045	Maryland	Wicomico	pcnt_obese	34
+24047	Maryland	Worcester	pcnt_obese	31
+24510	Maryland	Baltimore City	pcnt_obese	31
+25001	Massachusetts	Barnstable	pcnt_obese	18
+25003	Massachusetts	Berkshire	pcnt_obese	24
+25005	Massachusetts	Bristol	pcnt_obese	29
+25007	Massachusetts	Dukes	pcnt_obese	19
+25009	Massachusetts	Essex	pcnt_obese	24
+25011	Massachusetts	Franklin	pcnt_obese	25
+25013	Massachusetts	Hampden	pcnt_obese	29
+25015	Massachusetts	Hampshire	pcnt_obese	22
+25017	Massachusetts	Middlesex	pcnt_obese	23
+25019	Massachusetts	Nantucket	pcnt_obese	23
+25021	Massachusetts	Norfolk	pcnt_obese	20
+25023	Massachusetts	Plymouth	pcnt_obese	23
+25025	Massachusetts	Suffolk	pcnt_obese	22
+25027	Massachusetts	Worcester	pcnt_obese	26
+26001	Michigan	Alcona	pcnt_obese	30
+26003	Michigan	Alger	pcnt_obese	31
+26005	Michigan	Allegan	pcnt_obese	32
+26007	Michigan	Alpena	pcnt_obese	31
+26009	Michigan	Antrim	pcnt_obese	31
+26011	Michigan	Arenac	pcnt_obese	35
+26013	Michigan	Baraga	pcnt_obese	32
+26015	Michigan	Barry	pcnt_obese	36
+26017	Michigan	Bay	pcnt_obese	34
+26019	Michigan	Benzie	pcnt_obese	30
+26021	Michigan	Berrien	pcnt_obese	33
+26023	Michigan	Branch	pcnt_obese	33
+26025	Michigan	Calhoun	pcnt_obese	36
+26027	Michigan	Cass	pcnt_obese	31
+26029	Michigan	Charlevoix	pcnt_obese	28
+26031	Michigan	Cheboygan	pcnt_obese	39
+26033	Michigan	Chippewa	pcnt_obese	31
+26035	Michigan	Clare	pcnt_obese	30
+26037	Michigan	Clinton	pcnt_obese	32
+26039	Michigan	Crawford	pcnt_obese	30
+26041	Michigan	Delta	pcnt_obese	30
+26043	Michigan	Dickinson	pcnt_obese	28
+26045	Michigan	Eaton	pcnt_obese	31
+26047	Michigan	Emmet	pcnt_obese	32
+26049	Michigan	Genesee	pcnt_obese	36
+26051	Michigan	Gladwin	pcnt_obese	34
+26053	Michigan	Gogebic	pcnt_obese	31
+26055	Michigan	Grand Traverse	pcnt_obese	30
+26057	Michigan	Gratiot	pcnt_obese	38
+26059	Michigan	Hillsdale	pcnt_obese	28
+26061	Michigan	Houghton	pcnt_obese	26
+26063	Michigan	Huron	pcnt_obese	31
+26065	Michigan	Ingham	pcnt_obese	31
+26067	Michigan	Ionia	pcnt_obese	34
+26069	Michigan	Iosco	pcnt_obese	34
+26071	Michigan	Iron	pcnt_obese	30
+26073	Michigan	Isabella	pcnt_obese	33
+26075	Michigan	Jackson	pcnt_obese	37
+26077	Michigan	Kalamazoo	pcnt_obese	29
+26079	Michigan	Kalkaska	pcnt_obese	31
+26081	Michigan	Kent	pcnt_obese	30
+26083	Michigan	Keweenaw	pcnt_obese	32
+26085	Michigan	Lake	pcnt_obese	32
+26087	Michigan	Lapeer	pcnt_obese	34
+26089	Michigan	Leelanau	pcnt_obese	31
+26091	Michigan	Lenawee	pcnt_obese	34
+26093	Michigan	Livingston	pcnt_obese	27
+26095	Michigan	Luce	pcnt_obese	32
+26097	Michigan	Mackinac	pcnt_obese	33
+26099	Michigan	Macomb	pcnt_obese	31
+26101	Michigan	Manistee	pcnt_obese	27
+26103	Michigan	Marquette	pcnt_obese	30
+26105	Michigan	Mason	pcnt_obese	32
+26107	Michigan	Mecosta	pcnt_obese	32
+26109	Michigan	Menominee	pcnt_obese	31
+26111	Michigan	Midland	pcnt_obese	31
+26113	Michigan	Missaukee	pcnt_obese	34
+26115	Michigan	Monroe	pcnt_obese	35
+26117	Michigan	Montcalm	pcnt_obese	34
+26119	Michigan	Montmorency	pcnt_obese	32
+26121	Michigan	Muskegon	pcnt_obese	35
+26123	Michigan	Newaygo	pcnt_obese	35
+26125	Michigan	Oakland	pcnt_obese	27
+26127	Michigan	Oceana	pcnt_obese	35
+26129	Michigan	Ogemaw	pcnt_obese	34
+26131	Michigan	Ontonagon	pcnt_obese	32
+26133	Michigan	Osceola	pcnt_obese	33
+26135	Michigan	Oscoda	pcnt_obese	32
+26137	Michigan	Otsego	pcnt_obese	31
+26139	Michigan	Ottawa	pcnt_obese	25
+26141	Michigan	Presque Isle	pcnt_obese	33
+26143	Michigan	Roscommon	pcnt_obese	36
+26145	Michigan	Saginaw	pcnt_obese	40
+26147	Michigan	St. Clair	pcnt_obese	31
+26149	Michigan	St. Joseph	pcnt_obese	32
+26151	Michigan	Sanilac	pcnt_obese	35
+26153	Michigan	Schoolcraft	pcnt_obese	30
+26155	Michigan	Shiawassee	pcnt_obese	32
+26157	Michigan	Tuscola	pcnt_obese	31
+26159	Michigan	Van Buren	pcnt_obese	30
+26161	Michigan	Washtenaw	pcnt_obese	25
+26163	Michigan	Wayne	pcnt_obese	34
+26165	Michigan	Wexford	pcnt_obese	33
+27001	Minnesota	Aitkin	pcnt_obese	29
+27003	Minnesota	Anoka	pcnt_obese	30
+27005	Minnesota	Becker	pcnt_obese	29
+27007	Minnesota	Beltrami	pcnt_obese	30
+27009	Minnesota	Benton	pcnt_obese	27
+27011	Minnesota	Big Stone	pcnt_obese	28
+27013	Minnesota	Blue Earth	pcnt_obese	27
+27015	Minnesota	Brown	pcnt_obese	31
+27017	Minnesota	Carlton	pcnt_obese	28
+27019	Minnesota	Carver	pcnt_obese	26
+27021	Minnesota	Cass	pcnt_obese	28
+27023	Minnesota	Chippewa	pcnt_obese	32
+27025	Minnesota	Chisago	pcnt_obese	27
+27027	Minnesota	Clay	pcnt_obese	30
+27029	Minnesota	Clearwater	pcnt_obese	31
+27031	Minnesota	Cook	pcnt_obese	28
+27033	Minnesota	Cottonwood	pcnt_obese	28
+27035	Minnesota	Crow Wing	pcnt_obese	25
+27037	Minnesota	Dakota	pcnt_obese	26
+27039	Minnesota	Dodge	pcnt_obese	32
+27041	Minnesota	Douglas	pcnt_obese	28
+27043	Minnesota	Faribault	pcnt_obese	29
+27045	Minnesota	Fillmore	pcnt_obese	29
+27047	Minnesota	Freeborn	pcnt_obese	29
+27049	Minnesota	Goodhue	pcnt_obese	28
+27051	Minnesota	Grant	pcnt_obese	27
+27053	Minnesota	Hennepin	pcnt_obese	21
+27055	Minnesota	Houston	pcnt_obese	27
+27057	Minnesota	Hubbard	pcnt_obese	25
+27059	Minnesota	Isanti	pcnt_obese	29
+27061	Minnesota	Itasca	pcnt_obese	27
+27063	Minnesota	Jackson	pcnt_obese	31
+27065	Minnesota	Kanabec	pcnt_obese	29
+27067	Minnesota	Kandiyohi	pcnt_obese	29
+27069	Minnesota	Kittson	pcnt_obese	29
+27071	Minnesota	Koochiching	pcnt_obese	30
+27073	Minnesota	Lac qui Parle	pcnt_obese	30
+27075	Minnesota	Lake	pcnt_obese	30
+27077	Minnesota	Lake of the Woods	pcnt_obese	28
+27079	Minnesota	Le Sueur	pcnt_obese	30
+27081	Minnesota	Lincoln	pcnt_obese	28
+27083	Minnesota	Lyon	pcnt_obese	30
+27085	Minnesota	McLeod	pcnt_obese	29
+27087	Minnesota	Mahnomen	pcnt_obese	32
+27089	Minnesota	Marshall	pcnt_obese	27
+27091	Minnesota	Martin	pcnt_obese	27
+27093	Minnesota	Meeker	pcnt_obese	26
+27095	Minnesota	Mille Lacs	pcnt_obese	27
+27097	Minnesota	Morrison	pcnt_obese	29
+27099	Minnesota	Mower	pcnt_obese	29
+27101	Minnesota	Murray	pcnt_obese	31
+27103	Minnesota	Nicollet	pcnt_obese	28
+27105	Minnesota	Nobles	pcnt_obese	27
+27107	Minnesota	Norman	pcnt_obese	31
+27109	Minnesota	Olmsted	pcnt_obese	28
+27111	Minnesota	Otter Tail	pcnt_obese	31
+27113	Minnesota	Pennington	pcnt_obese	28
+27115	Minnesota	Pine	pcnt_obese	27
+27117	Minnesota	Pipestone	pcnt_obese	28
+27119	Minnesota	Polk	pcnt_obese	31
+27121	Minnesota	Pope	pcnt_obese	28
+27123	Minnesota	Ramsey	pcnt_obese	24
+27125	Minnesota	Red Lake	pcnt_obese	32
+27127	Minnesota	Redwood	pcnt_obese	29
+27129	Minnesota	Renville	pcnt_obese	32
+27131	Minnesota	Rice	pcnt_obese	24
+27133	Minnesota	Rock	pcnt_obese	25
+27135	Minnesota	Roseau	pcnt_obese	32
+27137	Minnesota	St. Louis	pcnt_obese	28
+27139	Minnesota	Scott	pcnt_obese	25
+27141	Minnesota	Sherburne	pcnt_obese	31
+27143	Minnesota	Sibley	pcnt_obese	30
+27145	Minnesota	Stearns	pcnt_obese	29
+27147	Minnesota	Steele	pcnt_obese	30
+27149	Minnesota	Stevens	pcnt_obese	27
+27151	Minnesota	Swift	pcnt_obese	29
+27153	Minnesota	Todd	pcnt_obese	31
+27155	Minnesota	Traverse	pcnt_obese	28
+27157	Minnesota	Wabasha	pcnt_obese	25
+27159	Minnesota	Wadena	pcnt_obese	31
+27161	Minnesota	Waseca	pcnt_obese	31
+27163	Minnesota	Washington	pcnt_obese	26
+27165	Minnesota	Watonwan	pcnt_obese	28
+27167	Minnesota	Wilkin	pcnt_obese	29
+27169	Minnesota	Winona	pcnt_obese	31
+27171	Minnesota	Wright	pcnt_obese	25
+27173	Minnesota	Yellow Medicine	pcnt_obese	25
+28001	Mississippi	Adams	pcnt_obese	37
+28003	Mississippi	Alcorn	pcnt_obese	32
+28005	Mississippi	Amite	pcnt_obese	37
+28007	Mississippi	Attala	pcnt_obese	38
+28009	Mississippi	Benton	pcnt_obese	36
+28011	Mississippi	Bolivar	pcnt_obese	39
+28013	Mississippi	Calhoun	pcnt_obese	33
+28015	Mississippi	Carroll	pcnt_obese	34
+28017	Mississippi	Chickasaw	pcnt_obese	35
+28019	Mississippi	Choctaw	pcnt_obese	34
+28021	Mississippi	Claiborne	pcnt_obese	42
+28023	Mississippi	Clarke	pcnt_obese	33
+28025	Mississippi	Clay	pcnt_obese	38
+28027	Mississippi	Coahoma	pcnt_obese	44
+28029	Mississippi	Copiah	pcnt_obese	36
+28031	Mississippi	Covington	pcnt_obese	40
+28033	Mississippi	DeSoto	pcnt_obese	33
+28035	Mississippi	Forrest	pcnt_obese	36
+28037	Mississippi	Franklin	pcnt_obese	39
+28039	Mississippi	George	pcnt_obese	38
+28041	Mississippi	Greene	pcnt_obese	40
+28043	Mississippi	Grenada	pcnt_obese	37
+28045	Mississippi	Hancock	pcnt_obese	35
+28047	Mississippi	Harrison	pcnt_obese	36
+28049	Mississippi	Hinds	pcnt_obese	36
+28051	Mississippi	Holmes	pcnt_obese	41
+28053	Mississippi	Humphreys	pcnt_obese	41
+28055	Mississippi	Issaquena	pcnt_obese	37
+28057	Mississippi	Itawamba	pcnt_obese	35
+28059	Mississippi	Jackson	pcnt_obese	33
+28061	Mississippi	Jasper	pcnt_obese	39
+28063	Mississippi	Jefferson	pcnt_obese	45
+28065	Mississippi	Jefferson Davis	pcnt_obese	35
+28067	Mississippi	Jones	pcnt_obese	37
+28069	Mississippi	Kemper	pcnt_obese	38
+28071	Mississippi	Lafayette	pcnt_obese	32
+28073	Mississippi	Lamar	pcnt_obese	32
+28075	Mississippi	Lauderdale	pcnt_obese	35
+28077	Mississippi	Lawrence	pcnt_obese	36
+28079	Mississippi	Leake	pcnt_obese	36
+28081	Mississippi	Lee	pcnt_obese	34
+28083	Mississippi	Leflore	pcnt_obese	39
+28085	Mississippi	Lincoln	pcnt_obese	36
+28087	Mississippi	Lowndes	pcnt_obese	37
+28089	Mississippi	Madison	pcnt_obese	29
+28091	Mississippi	Marion	pcnt_obese	36
+28093	Mississippi	Marshall	pcnt_obese	39
+28095	Mississippi	Monroe	pcnt_obese	35
+28097	Mississippi	Montgomery	pcnt_obese	36
+28099	Mississippi	Neshoba	pcnt_obese	35
+28101	Mississippi	Newton	pcnt_obese	33
+28103	Mississippi	Noxubee	pcnt_obese	40
+28105	Mississippi	Oktibbeha	pcnt_obese	32
+28107	Mississippi	Panola	pcnt_obese	36
+28109	Mississippi	Pearl River	pcnt_obese	33
+28111	Mississippi	Perry	pcnt_obese	36
+28113	Mississippi	Pike	pcnt_obese	39
+28115	Mississippi	Pontotoc	pcnt_obese	34
+28117	Mississippi	Prentiss	pcnt_obese	34
+28119	Mississippi	Quitman	pcnt_obese	40
+28121	Mississippi	Rankin	pcnt_obese	35
+28123	Mississippi	Scott	pcnt_obese	38
+28125	Mississippi	Sharkey	pcnt_obese	40
+28127	Mississippi	Simpson	pcnt_obese	35
+28129	Mississippi	Smith	pcnt_obese	34
+28131	Mississippi	Stone	pcnt_obese	34
+28133	Mississippi	Sunflower	pcnt_obese	42
+28135	Mississippi	Tallahatchie	pcnt_obese	37
+28137	Mississippi	Tate	pcnt_obese	35
+28139	Mississippi	Tippah	pcnt_obese	35
+28141	Mississippi	Tishomingo	pcnt_obese	28
+28143	Mississippi	Tunica	pcnt_obese	40
+28145	Mississippi	Union	pcnt_obese	34
+28147	Mississippi	Walthall	pcnt_obese	39
+28149	Mississippi	Warren	pcnt_obese	39
+28151	Mississippi	Washington	pcnt_obese	38
+28153	Mississippi	Wayne	pcnt_obese	35
+28155	Mississippi	Webster	pcnt_obese	33
+28157	Mississippi	Wilkinson	pcnt_obese	40
+28159	Mississippi	Winston	pcnt_obese	36
+28161	Mississippi	Yalobusha	pcnt_obese	38
+28163	Mississippi	Yazoo	pcnt_obese	36
+29001	Missouri	Adair	pcnt_obese	28
+29003	Missouri	Andrew	pcnt_obese	31
+29005	Missouri	Atchison	pcnt_obese	30
+29007	Missouri	Audrain	pcnt_obese	31
+29009	Missouri	Barry	pcnt_obese	30
+29011	Missouri	Barton	pcnt_obese	33
+29013	Missouri	Bates	pcnt_obese	30
+29015	Missouri	Benton	pcnt_obese	32
+29017	Missouri	Bollinger	pcnt_obese	35
+29019	Missouri	Boone	pcnt_obese	28
+29021	Missouri	Buchanan	pcnt_obese	37
+29023	Missouri	Butler	pcnt_obese	33
+29025	Missouri	Caldwell	pcnt_obese	35
+29027	Missouri	Callaway	pcnt_obese	36
+29029	Missouri	Camden	pcnt_obese	27
+29031	Missouri	Cape Girardeau	pcnt_obese	28
+29033	Missouri	Carroll	pcnt_obese	31
+29035	Missouri	Carter	pcnt_obese	31
+29037	Missouri	Cass	pcnt_obese	33
+29039	Missouri	Cedar	pcnt_obese	31
+29041	Missouri	Chariton	pcnt_obese	31
+29043	Missouri	Christian	pcnt_obese	27
+29045	Missouri	Clark	pcnt_obese	33
+29047	Missouri	Clay	pcnt_obese	28
+29049	Missouri	Clinton	pcnt_obese	31
+29051	Missouri	Cole	pcnt_obese	28
+29053	Missouri	Cooper	pcnt_obese	30
+29055	Missouri	Crawford	pcnt_obese	32
+29057	Missouri	Dade	pcnt_obese	29
+29059	Missouri	Dallas	pcnt_obese	32
+29061	Missouri	Daviess	pcnt_obese	32
+29063	Missouri	DeKalb	pcnt_obese	32
+29065	Missouri	Dent	pcnt_obese	32
+29067	Missouri	Douglas	pcnt_obese	32
+29069	Missouri	Dunklin	pcnt_obese	35
+29071	Missouri	Franklin	pcnt_obese	31
+29073	Missouri	Gasconade	pcnt_obese	32
+29075	Missouri	Gentry	pcnt_obese	31
+29077	Missouri	Greene	pcnt_obese	30
+29079	Missouri	Grundy	pcnt_obese	29
+29081	Missouri	Harrison	pcnt_obese	32
+29083	Missouri	Henry	pcnt_obese	32
+29085	Missouri	Hickory	pcnt_obese	32
+29087	Missouri	Holt	pcnt_obese	31
+29089	Missouri	Howard	pcnt_obese	31
+29091	Missouri	Howell	pcnt_obese	30
+29093	Missouri	Iron	pcnt_obese	34
+29095	Missouri	Jackson	pcnt_obese	33
+29097	Missouri	Jasper	pcnt_obese	33
+29099	Missouri	Jefferson	pcnt_obese	36
+29101	Missouri	Johnson	pcnt_obese	34
+29103	Missouri	Knox	pcnt_obese	32
+29105	Missouri	Laclede	pcnt_obese	32
+29107	Missouri	Lafayette	pcnt_obese	31
+29109	Missouri	Lawrence	pcnt_obese	30
+29111	Missouri	Lewis	pcnt_obese	34
+29113	Missouri	Lincoln	pcnt_obese	36
+29115	Missouri	Linn	pcnt_obese	37
+29117	Missouri	Livingston	pcnt_obese	28
+29119	Missouri	McDonald	pcnt_obese	32
+29121	Missouri	Macon	pcnt_obese	31
+29123	Missouri	Madison	pcnt_obese	34
+29125	Missouri	Maries	pcnt_obese	31
+29127	Missouri	Marion	pcnt_obese	29
+29129	Missouri	Mercer	pcnt_obese	32
+29131	Missouri	Miller	pcnt_obese	30
+29133	Missouri	Mississippi	pcnt_obese	31
+29135	Missouri	Moniteau	pcnt_obese	30
+29137	Missouri	Monroe	pcnt_obese	31
+29139	Missouri	Montgomery	pcnt_obese	32
+29141	Missouri	Morgan	pcnt_obese	29
+29143	Missouri	New Madrid	pcnt_obese	32
+29145	Missouri	Newton	pcnt_obese	33
+29147	Missouri	Nodaway	pcnt_obese	31
+29149	Missouri	Oregon	pcnt_obese	33
+29151	Missouri	Osage	pcnt_obese	30
+29153	Missouri	Ozark	pcnt_obese	28
+29155	Missouri	Pemiscot	pcnt_obese	38
+29157	Missouri	Perry	pcnt_obese	34
+29159	Missouri	Pettis	pcnt_obese	29
+29161	Missouri	Phelps	pcnt_obese	31
+29163	Missouri	Pike	pcnt_obese	33
+29165	Missouri	Platte	pcnt_obese	28
+29167	Missouri	Polk	pcnt_obese	33
+29169	Missouri	Pulaski	pcnt_obese	33
+29171	Missouri	Putnam	pcnt_obese	29
+29173	Missouri	Ralls	pcnt_obese	31
+29175	Missouri	Randolph	pcnt_obese	35
+29177	Missouri	Ray	pcnt_obese	32
+29179	Missouri	Reynolds	pcnt_obese	33
+29181	Missouri	Ripley	pcnt_obese	31
+29183	Missouri	St. Charles	pcnt_obese	30
+29185	Missouri	St. Clair	pcnt_obese	31
+29186	Missouri	Ste. Genevieve	pcnt_obese	31
+29187	Missouri	St. Francois	pcnt_obese	31
+29189	Missouri	St. Louis	pcnt_obese	29
+29195	Missouri	Saline	pcnt_obese	31
+29197	Missouri	Schuyler	pcnt_obese	32
+29199	Missouri	Scotland	pcnt_obese	34
+29201	Missouri	Scott	pcnt_obese	34
+29203	Missouri	Shannon	pcnt_obese	35
+29205	Missouri	Shelby	pcnt_obese	33
+29207	Missouri	Stoddard	pcnt_obese	29
+29209	Missouri	Stone	pcnt_obese	30
+29211	Missouri	Sullivan	pcnt_obese	29
+29213	Missouri	Taney	pcnt_obese	32
+29215	Missouri	Texas	pcnt_obese	35
+29217	Missouri	Vernon	pcnt_obese	34
+29219	Missouri	Warren	pcnt_obese	32
+29221	Missouri	Washington	pcnt_obese	30
+29223	Missouri	Wayne	pcnt_obese	29
+29225	Missouri	Webster	pcnt_obese	32
+29227	Missouri	Worth	pcnt_obese	30
+29229	Missouri	Wright	pcnt_obese	33
+29510	Missouri	St. Louis City	pcnt_obese	34
+30001	Montana	Beaverhead	pcnt_obese	23
+30003	Montana	Big Horn	pcnt_obese	36
+30005	Montana	Blaine	pcnt_obese	35
+30007	Montana	Broadwater	pcnt_obese	26
+30009	Montana	Carbon	pcnt_obese	27
+30011	Montana	Carter	pcnt_obese	24
+30013	Montana	Cascade	pcnt_obese	26
+30015	Montana	Chouteau	pcnt_obese	29
+30017	Montana	Custer	pcnt_obese	23
+30019	Montana	Daniels	pcnt_obese	23
+30021	Montana	Dawson	pcnt_obese	28
+30023	Montana	Deer Lodge	pcnt_obese	27
+30025	Montana	Fallon	pcnt_obese	25
+30027	Montana	Fergus	pcnt_obese	24
+30029	Montana	Flathead	pcnt_obese	22
+30031	Montana	Gallatin	pcnt_obese	17
+30033	Montana	Garfield	pcnt_obese	26
+30035	Montana	Glacier	pcnt_obese	31
+30037	Montana	Golden Valley	pcnt_obese	28
+30039	Montana	Granite	pcnt_obese	23
+30041	Montana	Hill	pcnt_obese	32
+30043	Montana	Jefferson	pcnt_obese	21
+30045	Montana	Judith Basin	pcnt_obese	25
+30047	Montana	Lake	pcnt_obese	28
+30049	Montana	Lewis and Clark	pcnt_obese	24
+30051	Montana	Liberty	pcnt_obese	26
+30053	Montana	Lincoln	pcnt_obese	26
+30055	Montana	McCone	pcnt_obese	26
+30057	Montana	Madison	pcnt_obese	25
+30059	Montana	Meagher	pcnt_obese	25
+30061	Montana	Mineral	pcnt_obese	28
+30063	Montana	Missoula	pcnt_obese	21
+30065	Montana	Musselshell	pcnt_obese	22
+30067	Montana	Park	pcnt_obese	21
+30069	Montana	Petroleum	pcnt_obese	24
+30071	Montana	Phillips	pcnt_obese	26
+30073	Montana	Pondera	pcnt_obese	29
+30075	Montana	Powder River	pcnt_obese	24
+30077	Montana	Powell	pcnt_obese	24
+30079	Montana	Prairie	pcnt_obese	28
+30081	Montana	Ravalli	pcnt_obese	21
+30083	Montana	Richland	pcnt_obese	31
+30085	Montana	Roosevelt	pcnt_obese	35
+30087	Montana	Rosebud	pcnt_obese	35
+30089	Montana	Sanders	pcnt_obese	24
+30091	Montana	Sheridan	pcnt_obese	28
+30093	Montana	Silver Bow	pcnt_obese	25
+30095	Montana	Stillwater	pcnt_obese	27
+30097	Montana	Sweet Grass	pcnt_obese	21
+30099	Montana	Teton	pcnt_obese	25
+30101	Montana	Toole	pcnt_obese	29
+30103	Montana	Treasure	pcnt_obese	25
+30105	Montana	Valley	pcnt_obese	27
+30107	Montana	Wheatland	pcnt_obese	26
+30109	Montana	Wibaux	pcnt_obese	26
+30111	Montana	Yellowstone	pcnt_obese	28
+31001	Nebraska	Adams	pcnt_obese	30
+31003	Nebraska	Antelope	pcnt_obese	29
+31005	Nebraska	Arthur	pcnt_obese	27
+31007	Nebraska	Banner	pcnt_obese	31
+31009	Nebraska	Blaine	pcnt_obese	29
+31011	Nebraska	Boone	pcnt_obese	29
+31013	Nebraska	Box Butte	pcnt_obese	32
+31015	Nebraska	Boyd	pcnt_obese	28
+31017	Nebraska	Brown	pcnt_obese	29
+31019	Nebraska	Buffalo	pcnt_obese	30
+31021	Nebraska	Burt	pcnt_obese	31
+31023	Nebraska	Butler	pcnt_obese	28
+31025	Nebraska	Cass	pcnt_obese	29
+31027	Nebraska	Cedar	pcnt_obese	28
+31029	Nebraska	Chase	pcnt_obese	26
+31031	Nebraska	Cherry	pcnt_obese	27
+31033	Nebraska	Cheyenne	pcnt_obese	29
+31035	Nebraska	Clay	pcnt_obese	35
+31037	Nebraska	Colfax	pcnt_obese	33
+31039	Nebraska	Cuming	pcnt_obese	29
+31041	Nebraska	Custer	pcnt_obese	30
+31043	Nebraska	Dakota	pcnt_obese	35
+31045	Nebraska	Dawes	pcnt_obese	28
+31047	Nebraska	Dawson	pcnt_obese	32
+31049	Nebraska	Deuel	pcnt_obese	28
+31051	Nebraska	Dixon	pcnt_obese	33
+31053	Nebraska	Dodge	pcnt_obese	30
+31055	Nebraska	Douglas	pcnt_obese	27
+31057	Nebraska	Dundy	pcnt_obese	30
+31059	Nebraska	Fillmore	pcnt_obese	29
+31061	Nebraska	Franklin	pcnt_obese	29
+31063	Nebraska	Frontier	pcnt_obese	33
+31065	Nebraska	Furnas	pcnt_obese	33
+31067	Nebraska	Gage	pcnt_obese	33
+31069	Nebraska	Garden	pcnt_obese	28
+31071	Nebraska	Garfield	pcnt_obese	27
+31073	Nebraska	Gosper	pcnt_obese	29
+31075	Nebraska	Grant	pcnt_obese	26
+31077	Nebraska	Greeley	pcnt_obese	33
+31079	Nebraska	Hall	pcnt_obese	32
+31081	Nebraska	Hamilton	pcnt_obese	31
+31083	Nebraska	Harlan	pcnt_obese	27
+31085	Nebraska	Hayes	pcnt_obese	29
+31087	Nebraska	Hitchcock	pcnt_obese	32
+31089	Nebraska	Holt	pcnt_obese	29
+31091	Nebraska	Hooker	pcnt_obese	33
+31093	Nebraska	Howard	pcnt_obese	30
+31095	Nebraska	Jefferson	pcnt_obese	31
+31097	Nebraska	Johnson	pcnt_obese	33
+31099	Nebraska	Kearney	pcnt_obese	27
+31101	Nebraska	Keith	pcnt_obese	28
+31103	Nebraska	Keya Paha	pcnt_obese	29
+31105	Nebraska	Kimball	pcnt_obese	28
+31107	Nebraska	Knox	pcnt_obese	28
+31109	Nebraska	Lancaster	pcnt_obese	28
+31111	Nebraska	Lincoln	pcnt_obese	32
+31113	Nebraska	Logan	pcnt_obese	28
+31115	Nebraska	Loup	pcnt_obese	30
+31117	Nebraska	McPherson	pcnt_obese	30
+31119	Nebraska	Madison	pcnt_obese	29
+31121	Nebraska	Merrick	pcnt_obese	35
+31123	Nebraska	Morrill	pcnt_obese	28
+31125	Nebraska	Nance	pcnt_obese	28
+31127	Nebraska	Nemaha	pcnt_obese	33
+31129	Nebraska	Nuckolls	pcnt_obese	30
+31131	Nebraska	Otoe	pcnt_obese	33
+31133	Nebraska	Pawnee	pcnt_obese	31
+31135	Nebraska	Perkins	pcnt_obese	27
+31137	Nebraska	Phelps	pcnt_obese	31
+31139	Nebraska	Pierce	pcnt_obese	32
+31141	Nebraska	Platte	pcnt_obese	28
+31143	Nebraska	Polk	pcnt_obese	34
+31145	Nebraska	Red Willow	pcnt_obese	31
+31147	Nebraska	Richardson	pcnt_obese	33
+31149	Nebraska	Rock	pcnt_obese	31
+31151	Nebraska	Saline	pcnt_obese	33
+31153	Nebraska	Sarpy	pcnt_obese	29
+31155	Nebraska	Saunders	pcnt_obese	30
+31157	Nebraska	Scotts Bluff	pcnt_obese	32
+31159	Nebraska	Seward	pcnt_obese	29
+31161	Nebraska	Sheridan	pcnt_obese	27
+31163	Nebraska	Sherman	pcnt_obese	31
+31165	Nebraska	Sioux	pcnt_obese	29
+31167	Nebraska	Stanton	pcnt_obese	33
+31169	Nebraska	Thayer	pcnt_obese	29
+31171	Nebraska	Thomas	pcnt_obese	33
+31173	Nebraska	Thurston	pcnt_obese	37
+31175	Nebraska	Valley	pcnt_obese	29
+31177	Nebraska	Washington	pcnt_obese	30
+31179	Nebraska	Wayne	pcnt_obese	29
+31181	Nebraska	Webster	pcnt_obese	30
+31183	Nebraska	Wheeler	pcnt_obese	27
+31185	Nebraska	York	pcnt_obese	35
+32001	Nevada	Churchill	pcnt_obese	29
+32003	Nevada	Clark	pcnt_obese	26
+32005	Nevada	Douglas	pcnt_obese	22
+32007	Nevada	Elko	pcnt_obese	31
+32009	Nevada	Esmeralda	pcnt_obese	28
+32011	Nevada	Eureka	pcnt_obese	27
+32013	Nevada	Humboldt	pcnt_obese	30
+32015	Nevada	Lander	pcnt_obese	27
+32017	Nevada	Lincoln	pcnt_obese	25
+32019	Nevada	Lyon	pcnt_obese	30
+32021	Nevada	Mineral	pcnt_obese	31
+32023	Nevada	Nye	pcnt_obese	30
+32027	Nevada	Pershing	pcnt_obese	29
+32029	Nevada	Storey	pcnt_obese	23
+32031	Nevada	Washoe	pcnt_obese	23
+32033	Nevada	White Pine	pcnt_obese	30
+32510	Nevada	Carson City	pcnt_obese	23
+33001	New Hampshire	Belknap	pcnt_obese	26
+33003	New Hampshire	Carroll	pcnt_obese	24
+33005	New Hampshire	Cheshire	pcnt_obese	28
+33007	New Hampshire	Coos	pcnt_obese	31
+33009	New Hampshire	Grafton	pcnt_obese	24
+33011	New Hampshire	Hillsborough	pcnt_obese	27
+33013	New Hampshire	Merrimack	pcnt_obese	25
+33015	New Hampshire	Rockingham	pcnt_obese	26
+33017	New Hampshire	Strafford	pcnt_obese	30
+33019	New Hampshire	Sullivan	pcnt_obese	29
+34001	New Jersey	Atlantic	pcnt_obese	28
+34003	New Jersey	Bergen	pcnt_obese	22
+34005	New Jersey	Burlington	pcnt_obese	28
+34007	New Jersey	Camden	pcnt_obese	28
+34009	New Jersey	Cape May	pcnt_obese	25
+34011	New Jersey	Cumberland	pcnt_obese	33
+34013	New Jersey	Essex	pcnt_obese	26
+34015	New Jersey	Gloucester	pcnt_obese	27
+34017	New Jersey	Hudson	pcnt_obese	24
+34019	New Jersey	Hunterdon	pcnt_obese	21
+34021	New Jersey	Mercer	pcnt_obese	25
+34023	New Jersey	Middlesex	pcnt_obese	24
+34025	New Jersey	Monmouth	pcnt_obese	22
+34027	New Jersey	Morris	pcnt_obese	22
+34029	New Jersey	Ocean	pcnt_obese	27
+34031	New Jersey	Passaic	pcnt_obese	24
+34033	New Jersey	Salem	pcnt_obese	34
+34035	New Jersey	Somerset	pcnt_obese	22
+34037	New Jersey	Sussex	pcnt_obese	27
+34039	New Jersey	Union	pcnt_obese	22
+34041	New Jersey	Warren	pcnt_obese	27
+35001	New Mexico	Bernalillo	pcnt_obese	20
+35003	New Mexico	Catron	pcnt_obese	24
+35005	New Mexico	Chaves	pcnt_obese	29
+35006	New Mexico	Cibola	pcnt_obese	32
+35007	New Mexico	Colfax	pcnt_obese	21
+35009	New Mexico	Curry	pcnt_obese	27
+35011	New Mexico	De Baca	pcnt_obese	22
+35013	New Mexico	Dona Ana	pcnt_obese	26
+35015	New Mexico	Eddy	pcnt_obese	31
+35017	New Mexico	Grant	pcnt_obese	23
+35019	New Mexico	Guadalupe	pcnt_obese	25
+35021	New Mexico	Harding	pcnt_obese	27
+35023	New Mexico	Hidalgo	pcnt_obese	24
+35025	New Mexico	Lea	pcnt_obese	32
+35027	New Mexico	Lincoln	pcnt_obese	20
+35028	New Mexico	Los Alamos	pcnt_obese	19
+35029	New Mexico	Luna	pcnt_obese	27
+35031	New Mexico	McKinley	pcnt_obese	36
+35033	New Mexico	Mora	pcnt_obese	21
+35035	New Mexico	Otero	pcnt_obese	26
+35037	New Mexico	Quay	pcnt_obese	24
+35039	New Mexico	Rio Arriba	pcnt_obese	25
+35041	New Mexico	Roosevelt	pcnt_obese	27
+35043	New Mexico	Sandoval	pcnt_obese	24
+35045	New Mexico	San Juan	pcnt_obese	30
+35047	New Mexico	San Miguel	pcnt_obese	23
+35049	New Mexico	Santa Fe	pcnt_obese	14
+35051	New Mexico	Sierra	pcnt_obese	25
+35053	New Mexico	Socorro	pcnt_obese	27
+35055	New Mexico	Taos	pcnt_obese	19
+35057	New Mexico	Torrance	pcnt_obese	25
+35059	New Mexico	Union	pcnt_obese	24
+35061	New Mexico	Valencia	pcnt_obese	28
+36001	New York	Albany	pcnt_obese	24
+36003	New York	Allegany	pcnt_obese	29
+36005	New York	Bronx	pcnt_obese	28
+36007	New York	Broome	pcnt_obese	30
+36009	New York	Cattaraugus	pcnt_obese	29
+36011	New York	Cayuga	pcnt_obese	25
+36013	New York	Chautauqua	pcnt_obese	28
+36015	New York	Chemung	pcnt_obese	27
+36017	New York	Chenango	pcnt_obese	28
+36019	New York	Clinton	pcnt_obese	29
+36021	New York	Columbia	pcnt_obese	26
+36023	New York	Cortland	pcnt_obese	27
+36025	New York	Delaware	pcnt_obese	28
+36027	New York	Dutchess	pcnt_obese	28
+36029	New York	Erie	pcnt_obese	29
+36031	New York	Essex	pcnt_obese	28
+36033	New York	Franklin	pcnt_obese	28
+36035	New York	Fulton	pcnt_obese	29
+36037	New York	Genesee	pcnt_obese	28
+36039	New York	Greene	pcnt_obese	29
+36041	New York	Hamilton	pcnt_obese	25
+36043	New York	Herkimer	pcnt_obese	32
+36045	New York	Jefferson	pcnt_obese	32
+36047	New York	Kings	pcnt_obese	25
+36049	New York	Lewis	pcnt_obese	29
+36051	New York	Livingston	pcnt_obese	28
+36053	New York	Madison	pcnt_obese	27
+36055	New York	Monroe	pcnt_obese	30
+36057	New York	Montgomery	pcnt_obese	30
+36059	New York	Nassau	pcnt_obese	21
+36061	New York	New York	pcnt_obese	15
+36063	New York	Niagara	pcnt_obese	29
+36065	New York	Oneida	pcnt_obese	29
+36067	New York	Onondaga	pcnt_obese	29
+36069	New York	Ontario	pcnt_obese	27
+36071	New York	Orange	pcnt_obese	26
+36073	New York	Orleans	pcnt_obese	30
+36075	New York	Oswego	pcnt_obese	34
+36077	New York	Otsego	pcnt_obese	28
+36079	New York	Putnam	pcnt_obese	29
+36081	New York	Queens	pcnt_obese	22
+36083	New York	Rensselaer	pcnt_obese	29
+36085	New York	Richmond	pcnt_obese	28
+36087	New York	Rockland	pcnt_obese	26
+36089	New York	St. Lawrence	pcnt_obese	32
+36091	New York	Saratoga	pcnt_obese	26
+36093	New York	Schenectady	pcnt_obese	28
+36095	New York	Schoharie	pcnt_obese	28
+36097	New York	Schuyler	pcnt_obese	28
+36099	New York	Seneca	pcnt_obese	31
+36101	New York	Steuben	pcnt_obese	31
+36103	New York	Suffolk	pcnt_obese	26
+36105	New York	Sullivan	pcnt_obese	27
+36107	New York	Tioga	pcnt_obese	29
+36109	New York	Tompkins	pcnt_obese	23
+36111	New York	Ulster	pcnt_obese	27
+36113	New York	Warren	pcnt_obese	30
+36115	New York	Washington	pcnt_obese	29
+36117	New York	Wayne	pcnt_obese	30
+36119	New York	Westchester	pcnt_obese	17
+36121	New York	Wyoming	pcnt_obese	29
+36123	New York	Yates	pcnt_obese	25
+37001	North Carolina	Alamance	pcnt_obese	34
+37003	North Carolina	Alexander	pcnt_obese	28
+37005	North Carolina	Alleghany	pcnt_obese	25
+37007	North Carolina	Anson	pcnt_obese	36
+37009	North Carolina	Ashe	pcnt_obese	23
+37011	North Carolina	Avery	pcnt_obese	30
+37013	North Carolina	Beaufort	pcnt_obese	36
+37015	North Carolina	Bertie	pcnt_obese	38
+37017	North Carolina	Bladen	pcnt_obese	37
+37019	North Carolina	Brunswick	pcnt_obese	30
+37021	North Carolina	Buncombe	pcnt_obese	24
+37023	North Carolina	Burke	pcnt_obese	28
+37025	North Carolina	Cabarrus	pcnt_obese	31
+37027	North Carolina	Caldwell	pcnt_obese	30
+37029	North Carolina	Camden	pcnt_obese	32
+37031	North Carolina	Carteret	pcnt_obese	28
+37033	North Carolina	Caswell	pcnt_obese	31
+37035	North Carolina	Catawba	pcnt_obese	27
+37037	North Carolina	Chatham	pcnt_obese	25
+37039	North Carolina	Cherokee	pcnt_obese	27
+37041	North Carolina	Chowan	pcnt_obese	30
+37043	North Carolina	Clay	pcnt_obese	25
+37045	North Carolina	Cleveland	pcnt_obese	32
+37047	North Carolina	Columbus	pcnt_obese	34
+37049	North Carolina	Craven	pcnt_obese	34
+37051	North Carolina	Cumberland	pcnt_obese	33
+37053	North Carolina	Currituck	pcnt_obese	33
+37055	North Carolina	Dare	pcnt_obese	29
+37057	North Carolina	Davidson	pcnt_obese	29
+37059	North Carolina	Davie	pcnt_obese	29
+37061	North Carolina	Duplin	pcnt_obese	35
+37063	North Carolina	Durham	pcnt_obese	30
+37065	North Carolina	Edgecombe	pcnt_obese	40
+37067	North Carolina	Forsyth	pcnt_obese	26
+37069	North Carolina	Franklin	pcnt_obese	35
+37071	North Carolina	Gaston	pcnt_obese	26
+37073	North Carolina	Gates	pcnt_obese	35
+37075	North Carolina	Graham	pcnt_obese	28
+37077	North Carolina	Granville	pcnt_obese	32
+37079	North Carolina	Greene	pcnt_obese	34
+37081	North Carolina	Guilford	pcnt_obese	28
+37083	North Carolina	Halifax	pcnt_obese	39
+37085	North Carolina	Harnett	pcnt_obese	32
+37087	North Carolina	Haywood	pcnt_obese	28
+37089	North Carolina	Henderson	pcnt_obese	24
+37091	North Carolina	Hertford	pcnt_obese	35
+37093	North Carolina	Hoke	pcnt_obese	34
+37095	North Carolina	Hyde	pcnt_obese	32
+37097	North Carolina	Iredell	pcnt_obese	28
+37099	North Carolina	Jackson	pcnt_obese	33
+37101	North Carolina	Johnston	pcnt_obese	34
+37103	North Carolina	Jones	pcnt_obese	35
+37105	North Carolina	Lee	pcnt_obese	30
+37107	North Carolina	Lenoir	pcnt_obese	32
+37109	North Carolina	Lincoln	pcnt_obese	28
+37111	North Carolina	McDowell	pcnt_obese	33
+37113	North Carolina	Macon	pcnt_obese	25
+37115	North Carolina	Madison	pcnt_obese	28
+37117	North Carolina	Martin	pcnt_obese	36
+37119	North Carolina	Mecklenburg	pcnt_obese	26
+37121	North Carolina	Mitchell	pcnt_obese	28
+37123	North Carolina	Montgomery	pcnt_obese	33
+37125	North Carolina	Moore	pcnt_obese	27
+37127	North Carolina	Nash	pcnt_obese	33
+37129	North Carolina	New Hanover	pcnt_obese	26
+37131	North Carolina	Northampton	pcnt_obese	34
+37133	North Carolina	Onslow	pcnt_obese	30
+37135	North Carolina	Orange	pcnt_obese	23
+37137	North Carolina	Pamlico	pcnt_obese	28
+37139	North Carolina	Pasquotank	pcnt_obese	33
+37141	North Carolina	Pender	pcnt_obese	32
+37143	North Carolina	Perquimans	pcnt_obese	33
+37145	North Carolina	Person	pcnt_obese	33
+37147	North Carolina	Pitt	pcnt_obese	36
+37149	North Carolina	Polk	pcnt_obese	22
+37151	North Carolina	Randolph	pcnt_obese	30
+37153	North Carolina	Richmond	pcnt_obese	32
+37155	North Carolina	Robeson	pcnt_obese	41
+37157	North Carolina	Rockingham	pcnt_obese	33
+37159	North Carolina	Rowan	pcnt_obese	32
+37161	North Carolina	Rutherford	pcnt_obese	31
+37163	North Carolina	Sampson	pcnt_obese	36
+37165	North Carolina	Scotland	pcnt_obese	36
+37167	North Carolina	Stanly	pcnt_obese	26
+37169	North Carolina	Stokes	pcnt_obese	28
+37171	North Carolina	Surry	pcnt_obese	31
+37173	North Carolina	Swain	pcnt_obese	32
+37175	North Carolina	Transylvania	pcnt_obese	24
+37177	North Carolina	Tyrrell	pcnt_obese	32
+37179	North Carolina	Union	pcnt_obese	28
+37181	North Carolina	Vance	pcnt_obese	33
+37183	North Carolina	Wake	pcnt_obese	26
+37185	North Carolina	Warren	pcnt_obese	37
+37187	North Carolina	Washington	pcnt_obese	35
+37189	North Carolina	Watauga	pcnt_obese	25
+37191	North Carolina	Wayne	pcnt_obese	33
+37193	North Carolina	Wilkes	pcnt_obese	30
+37195	North Carolina	Wilson	pcnt_obese	32
+37197	North Carolina	Yadkin	pcnt_obese	30
+37199	North Carolina	Yancey	pcnt_obese	27
+38001	North Dakota	Adams	pcnt_obese	30
+38003	North Dakota	Barnes	pcnt_obese	27
+38005	North Dakota	Benson	pcnt_obese	33
+38007	North Dakota	Billings	pcnt_obese	30
+38009	North Dakota	Bottineau	pcnt_obese	32
+38011	North Dakota	Bowman	pcnt_obese	30
+38013	North Dakota	Burke	pcnt_obese	29
+38015	North Dakota	Burleigh	pcnt_obese	25
+38017	North Dakota	Cass	pcnt_obese	28
+38019	North Dakota	Cavalier	pcnt_obese	31
+38021	North Dakota	Dickey	pcnt_obese	29
+38023	North Dakota	Divide	pcnt_obese	30
+38025	North Dakota	Dunn	pcnt_obese	31
+38027	North Dakota	Eddy	pcnt_obese	27
+38029	North Dakota	Emmons	pcnt_obese	32
+38031	North Dakota	Foster	pcnt_obese	28
+38033	North Dakota	Golden Valley	pcnt_obese	30
+38035	North Dakota	Grand Forks	pcnt_obese	31
+38037	North Dakota	Grant	pcnt_obese	37
+38039	North Dakota	Griggs	pcnt_obese	28
+38041	North Dakota	Hettinger	pcnt_obese	27
+38043	North Dakota	Kidder	pcnt_obese	31
+38045	North Dakota	LaMoure	pcnt_obese	27
+38047	North Dakota	Logan	pcnt_obese	33
+38049	North Dakota	McHenry	pcnt_obese	33
+38051	North Dakota	McIntosh	pcnt_obese	32
+38053	North Dakota	McKenzie	pcnt_obese	34
+38055	North Dakota	McLean	pcnt_obese	31
+38057	North Dakota	Mercer	pcnt_obese	32
+38059	North Dakota	Morton	pcnt_obese	31
+38061	North Dakota	Mountrail	pcnt_obese	35
+38063	North Dakota	Nelson	pcnt_obese	30
+38065	North Dakota	Oliver	pcnt_obese	30
+38067	North Dakota	Pembina	pcnt_obese	33
+38069	North Dakota	Pierce	pcnt_obese	32
+38071	North Dakota	Ramsey	pcnt_obese	32
+38073	North Dakota	Ransom	pcnt_obese	31
+38075	North Dakota	Renville	pcnt_obese	27
+38077	North Dakota	Richland	pcnt_obese	32
+38079	North Dakota	Rolette	pcnt_obese	40
+38081	North Dakota	Sargent	pcnt_obese	30
+38083	North Dakota	Sheridan	pcnt_obese	30
+38085	North Dakota	Sioux	pcnt_obese	43
+38087	North Dakota	Slope	pcnt_obese	29
+38089	North Dakota	Stark	pcnt_obese	29
+38091	North Dakota	Steele	pcnt_obese	33
+38093	North Dakota	Stutsman	pcnt_obese	30
+38095	North Dakota	Towner	pcnt_obese	30
+38097	North Dakota	Traill	pcnt_obese	32
+38099	North Dakota	Walsh	pcnt_obese	33
+38101	North Dakota	Ward	pcnt_obese	30
+38103	North Dakota	Wells	pcnt_obese	29
+38105	North Dakota	Williams	pcnt_obese	30
+39001	Ohio	Adams	pcnt_obese	31
+39003	Ohio	Allen	pcnt_obese	37
+39005	Ohio	Ashland	pcnt_obese	30
+39007	Ohio	Ashtabula	pcnt_obese	31
+39009	Ohio	Athens	pcnt_obese	32
+39011	Ohio	Auglaize	pcnt_obese	35
+39013	Ohio	Belmont	pcnt_obese	31
+39015	Ohio	Brown	pcnt_obese	34
+39017	Ohio	Butler	pcnt_obese	32
+39019	Ohio	Carroll	pcnt_obese	31
+39021	Ohio	Champaign	pcnt_obese	34
+39023	Ohio	Clark	pcnt_obese	32
+39025	Ohio	Clermont	pcnt_obese	30
+39027	Ohio	Clinton	pcnt_obese	29
+39029	Ohio	Columbiana	pcnt_obese	36
+39031	Ohio	Coshocton	pcnt_obese	32
+39033	Ohio	Crawford	pcnt_obese	34
+39035	Ohio	Cuyahoga	pcnt_obese	28
+39037	Ohio	Darke	pcnt_obese	32
+39039	Ohio	Defiance	pcnt_obese	29
+39041	Ohio	Delaware	pcnt_obese	26
+39043	Ohio	Erie	pcnt_obese	29
+39045	Ohio	Fairfield	pcnt_obese	31
+39047	Ohio	Fayette	pcnt_obese	30
+39049	Ohio	Franklin	pcnt_obese	31
+39051	Ohio	Fulton	pcnt_obese	31
+39053	Ohio	Gallia	pcnt_obese	33
+39055	Ohio	Geauga	pcnt_obese	24
+39057	Ohio	Greene	pcnt_obese	30
+39059	Ohio	Guernsey	pcnt_obese	31
+39061	Ohio	Hamilton	pcnt_obese	27
+39063	Ohio	Hancock	pcnt_obese	30
+39065	Ohio	Hardin	pcnt_obese	31
+39067	Ohio	Harrison	pcnt_obese	32
+39069	Ohio	Henry	pcnt_obese	33
+39071	Ohio	Highland	pcnt_obese	32
+39073	Ohio	Hocking	pcnt_obese	35
+39075	Ohio	Holmes	pcnt_obese	31
+39077	Ohio	Huron	pcnt_obese	32
+39079	Ohio	Jackson	pcnt_obese	34
+39081	Ohio	Jefferson	pcnt_obese	37
+39083	Ohio	Knox	pcnt_obese	28
+39085	Ohio	Lake	pcnt_obese	29
+39087	Ohio	Lawrence	pcnt_obese	40
+39089	Ohio	Licking	pcnt_obese	32
+39091	Ohio	Logan	pcnt_obese	33
+39093	Ohio	Lorain	pcnt_obese	32
+39095	Ohio	Lucas	pcnt_obese	32
+39097	Ohio	Madison	pcnt_obese	31
+39099	Ohio	Mahoning	pcnt_obese	29
+39101	Ohio	Marion	pcnt_obese	32
+39103	Ohio	Medina	pcnt_obese	28
+39105	Ohio	Meigs	pcnt_obese	32
+39107	Ohio	Mercer	pcnt_obese	28
+39109	Ohio	Miami	pcnt_obese	30
+39111	Ohio	Monroe	pcnt_obese	34
+39113	Ohio	Montgomery	pcnt_obese	31
+39115	Ohio	Morgan	pcnt_obese	36
+39117	Ohio	Morrow	pcnt_obese	30
+39119	Ohio	Muskingum	pcnt_obese	29
+39121	Ohio	Noble	pcnt_obese	33
+39123	Ohio	Ottawa	pcnt_obese	34
+39125	Ohio	Paulding	pcnt_obese	30
+39127	Ohio	Perry	pcnt_obese	34
+39129	Ohio	Pickaway	pcnt_obese	34
+39131	Ohio	Pike	pcnt_obese	33
+39133	Ohio	Portage	pcnt_obese	30
+39135	Ohio	Preble	pcnt_obese	31
+39137	Ohio	Putnam	pcnt_obese	31
+39139	Ohio	Richland	pcnt_obese	30
+39141	Ohio	Ross	pcnt_obese	35
+39143	Ohio	Sandusky	pcnt_obese	32
+39145	Ohio	Scioto	pcnt_obese	34
+39147	Ohio	Seneca	pcnt_obese	30
+39149	Ohio	Shelby	pcnt_obese	30
+39151	Ohio	Stark	pcnt_obese	32
+39153	Ohio	Summit	pcnt_obese	29
+39155	Ohio	Trumbull	pcnt_obese	30
+39157	Ohio	Tuscarawas	pcnt_obese	34
+39159	Ohio	Union	pcnt_obese	34
+39161	Ohio	Van Wert	pcnt_obese	35
+39163	Ohio	Vinton	pcnt_obese	31
+39165	Ohio	Warren	pcnt_obese	27
+39167	Ohio	Washington	pcnt_obese	33
+39169	Ohio	Wayne	pcnt_obese	32
+39171	Ohio	Williams	pcnt_obese	31
+39173	Ohio	Wood	pcnt_obese	30
+39175	Ohio	Wyandot	pcnt_obese	33
+40001	Oklahoma	Adair	pcnt_obese	36
+40003	Oklahoma	Alfalfa	pcnt_obese	31
+40005	Oklahoma	Atoka	pcnt_obese	32
+40007	Oklahoma	Beaver	pcnt_obese	32
+40009	Oklahoma	Beckham	pcnt_obese	35
+40011	Oklahoma	Blaine	pcnt_obese	33
+40013	Oklahoma	Bryan	pcnt_obese	33
+40015	Oklahoma	Caddo	pcnt_obese	33
+40017	Oklahoma	Canadian	pcnt_obese	33
+40019	Oklahoma	Carter	pcnt_obese	35
+40021	Oklahoma	Cherokee	pcnt_obese	36
+40023	Oklahoma	Choctaw	pcnt_obese	34
+40025	Oklahoma	Cimarron	pcnt_obese	31
+40027	Oklahoma	Cleveland	pcnt_obese	30
+40029	Oklahoma	Coal	pcnt_obese	32
+40031	Oklahoma	Comanche	pcnt_obese	33
+40033	Oklahoma	Cotton	pcnt_obese	34
+40035	Oklahoma	Craig	pcnt_obese	34
+40037	Oklahoma	Creek	pcnt_obese	34
+40039	Oklahoma	Custer	pcnt_obese	31
+40041	Oklahoma	Delaware	pcnt_obese	31
+40043	Oklahoma	Dewey	pcnt_obese	32
+40045	Oklahoma	Ellis	pcnt_obese	30
+40047	Oklahoma	Garfield	pcnt_obese	32
+40049	Oklahoma	Garvin	pcnt_obese	29
+40051	Oklahoma	Grady	pcnt_obese	38
+40053	Oklahoma	Grant	pcnt_obese	33
+40055	Oklahoma	Greer	pcnt_obese	32
+40057	Oklahoma	Harmon	pcnt_obese	32
+40059	Oklahoma	Harper	pcnt_obese	30
+40061	Oklahoma	Haskell	pcnt_obese	32
+40063	Oklahoma	Hughes	pcnt_obese	33
+40065	Oklahoma	Jackson	pcnt_obese	35
+40067	Oklahoma	Jefferson	pcnt_obese	33
+40069	Oklahoma	Johnston	pcnt_obese	30
+40071	Oklahoma	Kay	pcnt_obese	36
+40073	Oklahoma	Kingfisher	pcnt_obese	36
+40075	Oklahoma	Kiowa	pcnt_obese	32
+40077	Oklahoma	Latimer	pcnt_obese	34
+40079	Oklahoma	Le Flore	pcnt_obese	32
+40081	Oklahoma	Lincoln	pcnt_obese	31
+40083	Oklahoma	Logan	pcnt_obese	33
+40085	Oklahoma	Love	pcnt_obese	29
+40087	Oklahoma	McClain	pcnt_obese	34
+40089	Oklahoma	McCurtain	pcnt_obese	34
+40091	Oklahoma	McIntosh	pcnt_obese	36
+40093	Oklahoma	Major	pcnt_obese	30
+40095	Oklahoma	Marshall	pcnt_obese	34
+40097	Oklahoma	Mayes	pcnt_obese	35
+40099	Oklahoma	Murray	pcnt_obese	34
+40101	Oklahoma	Muskogee	pcnt_obese	32
+40103	Oklahoma	Noble	pcnt_obese	34
+40105	Oklahoma	Nowata	pcnt_obese	33
+40107	Oklahoma	Okfuskee	pcnt_obese	33
+40109	Oklahoma	Oklahoma	pcnt_obese	30
+40111	Oklahoma	Okmulgee	pcnt_obese	35
+40113	Oklahoma	Osage	pcnt_obese	32
+40115	Oklahoma	Ottawa	pcnt_obese	34
+40117	Oklahoma	Pawnee	pcnt_obese	35
+40119	Oklahoma	Payne	pcnt_obese	31
+40121	Oklahoma	Pittsburg	pcnt_obese	32
+40123	Oklahoma	Pontotoc	pcnt_obese	37
+40125	Oklahoma	Pottawatomie	pcnt_obese	34
+40127	Oklahoma	Pushmataha	pcnt_obese	31
+40129	Oklahoma	Roger Mills	pcnt_obese	33
+40131	Oklahoma	Rogers	pcnt_obese	32
+40133	Oklahoma	Seminole	pcnt_obese	36
+40135	Oklahoma	Sequoyah	pcnt_obese	36
+40137	Oklahoma	Stephens	pcnt_obese	31
+40139	Oklahoma	Texas	pcnt_obese	30
+40141	Oklahoma	Tillman	pcnt_obese	33
+40143	Oklahoma	Tulsa	pcnt_obese	29
+40145	Oklahoma	Wagoner	pcnt_obese	31
+40147	Oklahoma	Washington	pcnt_obese	31
+40149	Oklahoma	Washita	pcnt_obese	28
+40151	Oklahoma	Woods	pcnt_obese	29
+40153	Oklahoma	Woodward	pcnt_obese	31
+41001	Oregon	Baker	pcnt_obese	26
+41003	Oregon	Benton	pcnt_obese	23
+41005	Oregon	Clackamas	pcnt_obese	26
+41007	Oregon	Clatsop	pcnt_obese	26
+41009	Oregon	Columbia	pcnt_obese	28
+41011	Oregon	Coos	pcnt_obese	30
+41013	Oregon	Crook	pcnt_obese	28
+41015	Oregon	Curry	pcnt_obese	30
+41017	Oregon	Deschutes	pcnt_obese	20
+41019	Oregon	Douglas	pcnt_obese	31
+41021	Oregon	Gilliam	pcnt_obese	27
+41023	Oregon	Grant	pcnt_obese	24
+41025	Oregon	Harney	pcnt_obese	26
+41027	Oregon	Hood River	pcnt_obese	23
+41029	Oregon	Jackson	pcnt_obese	23
+41031	Oregon	Jefferson	pcnt_obese	29
+41033	Oregon	Josephine	pcnt_obese	25
+41035	Oregon	Klamath	pcnt_obese	27
+41037	Oregon	Lake	pcnt_obese	26
+41039	Oregon	Lane	pcnt_obese	27
+41041	Oregon	Lincoln	pcnt_obese	27
+41043	Oregon	Linn	pcnt_obese	29
+41045	Oregon	Malheur	pcnt_obese	26
+41047	Oregon	Marion	pcnt_obese	30
+41049	Oregon	Morrow	pcnt_obese	26
+41051	Oregon	Multnomah	pcnt_obese	24
+41053	Oregon	Polk	pcnt_obese	30
+41055	Oregon	Sherman	pcnt_obese	25
+41057	Oregon	Tillamook	pcnt_obese	27
+41059	Oregon	Umatilla	pcnt_obese	34
+41061	Oregon	Union	pcnt_obese	28
+41063	Oregon	Wallowa	pcnt_obese	25
+41065	Oregon	Wasco	pcnt_obese	33
+41067	Oregon	Washington	pcnt_obese	24
+41069	Oregon	Wheeler	pcnt_obese	26
+41071	Oregon	Yamhill	pcnt_obese	27
+42001	Pennsylvania	Adams	pcnt_obese	26
+42003	Pennsylvania	Allegheny	pcnt_obese	29
+42005	Pennsylvania	Armstrong	pcnt_obese	34
+42007	Pennsylvania	Beaver	pcnt_obese	31
+42009	Pennsylvania	Bedford	pcnt_obese	30
+42011	Pennsylvania	Berks	pcnt_obese	29
+42013	Pennsylvania	Blair	pcnt_obese	32
+42015	Pennsylvania	Bradford	pcnt_obese	34
+42017	Pennsylvania	Bucks	pcnt_obese	25
+42019	Pennsylvania	Butler	pcnt_obese	27
+42021	Pennsylvania	Cambria	pcnt_obese	36
+42023	Pennsylvania	Cameron	pcnt_obese	29
+42025	Pennsylvania	Carbon	pcnt_obese	30
+42027	Pennsylvania	Centre	pcnt_obese	27
+42029	Pennsylvania	Chester	pcnt_obese	21
+42031	Pennsylvania	Clarion	pcnt_obese	32
+42033	Pennsylvania	Clearfield	pcnt_obese	29
+42035	Pennsylvania	Clinton	pcnt_obese	32
+42037	Pennsylvania	Columbia	pcnt_obese	36
+42039	Pennsylvania	Crawford	pcnt_obese	29
+42041	Pennsylvania	Cumberland	pcnt_obese	28
+42043	Pennsylvania	Dauphin	pcnt_obese	32
+42045	Pennsylvania	Delaware	pcnt_obese	27
+42047	Pennsylvania	Elk	pcnt_obese	32
+42049	Pennsylvania	Erie	pcnt_obese	29
+42051	Pennsylvania	Fayette	pcnt_obese	35
+42053	Pennsylvania	Forest	pcnt_obese	32
+42055	Pennsylvania	Franklin	pcnt_obese	31
+42057	Pennsylvania	Fulton	pcnt_obese	30
+42059	Pennsylvania	Greene	pcnt_obese	28
+42061	Pennsylvania	Huntingdon	pcnt_obese	31
+42063	Pennsylvania	Indiana	pcnt_obese	29
+42065	Pennsylvania	Jefferson	pcnt_obese	30
+42067	Pennsylvania	Juniata	pcnt_obese	31
+42069	Pennsylvania	Lackawanna	pcnt_obese	26
+42071	Pennsylvania	Lancaster	pcnt_obese	30
+42073	Pennsylvania	Lawrence	pcnt_obese	30
+42075	Pennsylvania	Lebanon	pcnt_obese	31
+42077	Pennsylvania	Lehigh	pcnt_obese	29
+42079	Pennsylvania	Luzerne	pcnt_obese	30
+42081	Pennsylvania	Lycoming	pcnt_obese	31
+42083	Pennsylvania	McKean	pcnt_obese	32
+42085	Pennsylvania	Mercer	pcnt_obese	30
+42087	Pennsylvania	Mifflin	pcnt_obese	31
+42089	Pennsylvania	Monroe	pcnt_obese	30
+42091	Pennsylvania	Montgomery	pcnt_obese	25
+42093	Pennsylvania	Montour	pcnt_obese	30
+42095	Pennsylvania	Northampton	pcnt_obese	30
+42097	Pennsylvania	Northumberland	pcnt_obese	32
+42099	Pennsylvania	Perry	pcnt_obese	32
+42101	Pennsylvania	Philadelphia	pcnt_obese	32
+42103	Pennsylvania	Pike	pcnt_obese	31
+42105	Pennsylvania	Potter	pcnt_obese	31
+42107	Pennsylvania	Schuylkill	pcnt_obese	32
+42109	Pennsylvania	Snyder	pcnt_obese	32
+42111	Pennsylvania	Somerset	pcnt_obese	32
+42113	Pennsylvania	Sullivan	pcnt_obese	34
+42115	Pennsylvania	Susquehanna	pcnt_obese	27
+42117	Pennsylvania	Tioga	pcnt_obese	32
+42119	Pennsylvania	Union	pcnt_obese	30
+42121	Pennsylvania	Venango	pcnt_obese	32
+42123	Pennsylvania	Warren	pcnt_obese	29
+42125	Pennsylvania	Washington	pcnt_obese	29
+42127	Pennsylvania	Wayne	pcnt_obese	28
+42129	Pennsylvania	Westmoreland	pcnt_obese	28
+42131	Pennsylvania	Wyoming	pcnt_obese	31
+42133	Pennsylvania	York	pcnt_obese	32
+44001	Rhode Island	Bristol	pcnt_obese	21
+44003	Rhode Island	Kent	pcnt_obese	27
+44005	Rhode Island	Newport	pcnt_obese	22
+44007	Rhode Island	Providence	pcnt_obese	27
+44009	Rhode Island	Washington	pcnt_obese	21
+45001	South Carolina	Abbeville	pcnt_obese	33
+45003	South Carolina	Aiken	pcnt_obese	33
+45005	South Carolina	Allendale	pcnt_obese	35
+45007	South Carolina	Anderson	pcnt_obese	30
+45009	South Carolina	Bamberg	pcnt_obese	41
+45011	South Carolina	Barnwell	pcnt_obese	37
+45013	South Carolina	Beaufort	pcnt_obese	21
+45015	South Carolina	Berkeley	pcnt_obese	38
+45017	South Carolina	Calhoun	pcnt_obese	40
+45019	South Carolina	Charleston	pcnt_obese	28
+45021	South Carolina	Cherokee	pcnt_obese	31
+45023	South Carolina	Chester	pcnt_obese	32
+45025	South Carolina	Chesterfield	pcnt_obese	35
+45027	South Carolina	Clarendon	pcnt_obese	37
+45029	South Carolina	Colleton	pcnt_obese	34
+45031	South Carolina	Darlington	pcnt_obese	36
+45033	South Carolina	Dillon	pcnt_obese	39
+45035	South Carolina	Dorchester	pcnt_obese	30
+45037	South Carolina	Edgefield	pcnt_obese	36
+45039	South Carolina	Fairfield	pcnt_obese	39
+45041	South Carolina	Florence	pcnt_obese	35
+45043	South Carolina	Georgetown	pcnt_obese	35
+45045	South Carolina	Greenville	pcnt_obese	28
+45047	South Carolina	Greenwood	pcnt_obese	34
+45049	South Carolina	Hampton	pcnt_obese	41
+45051	South Carolina	Horry	pcnt_obese	29
+45053	South Carolina	Jasper	pcnt_obese	40
+45055	South Carolina	Kershaw	pcnt_obese	32
+45057	South Carolina	Lancaster	pcnt_obese	33
+45059	South Carolina	Laurens	pcnt_obese	37
+45061	South Carolina	Lee	pcnt_obese	38
+45063	South Carolina	Lexington	pcnt_obese	31
+45065	South Carolina	McCormick	pcnt_obese	34
+45067	South Carolina	Marion	pcnt_obese	38
+45069	South Carolina	Marlboro	pcnt_obese	43
+45071	South Carolina	Newberry	pcnt_obese	37
+45073	South Carolina	Oconee	pcnt_obese	31
+45075	South Carolina	Orangeburg	pcnt_obese	40
+45077	South Carolina	Pickens	pcnt_obese	28
+45079	South Carolina	Richland	pcnt_obese	31
+45081	South Carolina	Saluda	pcnt_obese	33
+45083	South Carolina	Spartanburg	pcnt_obese	30
+45085	South Carolina	Sumter	pcnt_obese	37
+45087	South Carolina	Union	pcnt_obese	36
+45089	South Carolina	Williamsburg	pcnt_obese	42
+45091	South Carolina	York	pcnt_obese	30
+46003	South Dakota	Aurora	pcnt_obese	30
+46005	South Dakota	Beadle	pcnt_obese	33
+46007	South Dakota	Bennett	pcnt_obese	37
+46009	South Dakota	Bon Homme	pcnt_obese	30
+46011	South Dakota	Brookings	pcnt_obese	27
+46013	South Dakota	Brown	pcnt_obese	32
+46015	South Dakota	Brule	pcnt_obese	35
+46017	South Dakota	Buffalo	pcnt_obese	42
+46019	South Dakota	Butte	pcnt_obese	31
+46021	South Dakota	Campbell	pcnt_obese	30
+46023	South Dakota	Charles Mix	pcnt_obese	35
+46025	South Dakota	Clark	pcnt_obese	33
+46027	South Dakota	Clay	pcnt_obese	32
+46029	South Dakota	Codington	pcnt_obese	30
+46031	South Dakota	Corson	pcnt_obese	42
+46033	South Dakota	Custer	pcnt_obese	26
+46035	South Dakota	Davison	pcnt_obese	28
+46037	South Dakota	Day	pcnt_obese	32
+46039	South Dakota	Deuel	pcnt_obese	33
+46041	South Dakota	Dewey	pcnt_obese	43
+46043	South Dakota	Douglas	pcnt_obese	31
+46045	South Dakota	Edmunds	pcnt_obese	39
+46047	South Dakota	Fall River	pcnt_obese	32
+46049	South Dakota	Faulk	pcnt_obese	29
+46051	South Dakota	Grant	pcnt_obese	33
+46053	South Dakota	Gregory	pcnt_obese	30
+46055	South Dakota	Haakon	pcnt_obese	30
+46057	South Dakota	Hamlin	pcnt_obese	30
+46059	South Dakota	Hand	pcnt_obese	31
+46061	South Dakota	Hanson	pcnt_obese	30
+46063	South Dakota	Harding	pcnt_obese	31
+46065	South Dakota	Hughes	pcnt_obese	30
+46067	South Dakota	Hutchinson	pcnt_obese	31
+46069	South Dakota	Hyde	pcnt_obese	37
+46071	South Dakota	Jackson	pcnt_obese	34
+46073	South Dakota	Jerauld	pcnt_obese	28
+46075	South Dakota	Jones	pcnt_obese	32
+46077	South Dakota	Kingsbury	pcnt_obese	27
+46079	South Dakota	Lake	pcnt_obese	32
+46081	South Dakota	Lawrence	pcnt_obese	23
+46083	South Dakota	Lincoln	pcnt_obese	27
+46085	South Dakota	Lyman	pcnt_obese	37
+46087	South Dakota	McCook	pcnt_obese	27
+46089	South Dakota	McPherson	pcnt_obese	29
+46091	South Dakota	Marshall	pcnt_obese	29
+46093	South Dakota	Meade	pcnt_obese	26
+46095	South Dakota	Mellette	pcnt_obese	37
+46097	South Dakota	Miner	pcnt_obese	31
+46099	South Dakota	Minnehaha	pcnt_obese	29
+46101	South Dakota	Moody	pcnt_obese	33
+46103	South Dakota	Pennington	pcnt_obese	26
+46105	South Dakota	Perkins	pcnt_obese	29
+46107	South Dakota	Potter	pcnt_obese	28
+46109	South Dakota	Roberts	pcnt_obese	36
+46111	South Dakota	Sanborn	pcnt_obese	36
+46113	South Dakota	Shannon	pcnt_obese	42
+46115	South Dakota	Spink	pcnt_obese	36
+46117	South Dakota	Stanley	pcnt_obese	33
+46119	South Dakota	Sully	pcnt_obese	36
+46121	South Dakota	Todd	pcnt_obese	42
+46123	South Dakota	Tripp	pcnt_obese	36
+46125	South Dakota	Turner	pcnt_obese	31
+46127	South Dakota	Union	pcnt_obese	30
+46129	South Dakota	Walworth	pcnt_obese	32
+46135	South Dakota	Yankton	pcnt_obese	33
+46137	South Dakota	Ziebach	pcnt_obese	44
+47001	Tennessee	Anderson	pcnt_obese	31
+47003	Tennessee	Bedford	pcnt_obese	34
+47005	Tennessee	Benton	pcnt_obese	33
+47007	Tennessee	Bledsoe	pcnt_obese	33
+47009	Tennessee	Blount	pcnt_obese	33
+47011	Tennessee	Bradley	pcnt_obese	29
+47013	Tennessee	Campbell	pcnt_obese	34
+47015	Tennessee	Cannon	pcnt_obese	32
+47017	Tennessee	Carroll	pcnt_obese	37
+47019	Tennessee	Carter	pcnt_obese	35
+47021	Tennessee	Cheatham	pcnt_obese	32
+47023	Tennessee	Chester	pcnt_obese	36
+47025	Tennessee	Claiborne	pcnt_obese	30
+47027	Tennessee	Clay	pcnt_obese	32
+47029	Tennessee	Cocke	pcnt_obese	37
+47031	Tennessee	Coffee	pcnt_obese	33
+47033	Tennessee	Crockett	pcnt_obese	34
+47035	Tennessee	Cumberland	pcnt_obese	27
+47037	Tennessee	Davidson	pcnt_obese	30
+47039	Tennessee	Decatur	pcnt_obese	30
+47041	Tennessee	DeKalb	pcnt_obese	32
+47043	Tennessee	Dickson	pcnt_obese	30
+47045	Tennessee	Dyer	pcnt_obese	36
+47047	Tennessee	Fayette	pcnt_obese	36
+47049	Tennessee	Fentress	pcnt_obese	35
+47051	Tennessee	Franklin	pcnt_obese	34
+47053	Tennessee	Gibson	pcnt_obese	37
+47055	Tennessee	Giles	pcnt_obese	36
+47057	Tennessee	Grainger	pcnt_obese	32
+47059	Tennessee	Greene	pcnt_obese	32
+47061	Tennessee	Grundy	pcnt_obese	30
+47063	Tennessee	Hamblen	pcnt_obese	33
+47065	Tennessee	Hamilton	pcnt_obese	30
+47067	Tennessee	Hancock	pcnt_obese	31
+47069	Tennessee	Hardeman	pcnt_obese	39
+47071	Tennessee	Hardin	pcnt_obese	30
+47073	Tennessee	Hawkins	pcnt_obese	34
+47075	Tennessee	Haywood	pcnt_obese	36
+47077	Tennessee	Henderson	pcnt_obese	32
+47079	Tennessee	Henry	pcnt_obese	34
+47081	Tennessee	Hickman	pcnt_obese	32
+47083	Tennessee	Houston	pcnt_obese	33
+47085	Tennessee	Humphreys	pcnt_obese	31
+47087	Tennessee	Jackson	pcnt_obese	35
+47089	Tennessee	Jefferson	pcnt_obese	32
+47091	Tennessee	Johnson	pcnt_obese	32
+47093	Tennessee	Knox	pcnt_obese	31
+47095	Tennessee	Lake	pcnt_obese	35
+47097	Tennessee	Lauderdale	pcnt_obese	36
+47099	Tennessee	Lawrence	pcnt_obese	30
+47101	Tennessee	Lewis	pcnt_obese	32
+47103	Tennessee	Lincoln	pcnt_obese	34
+47105	Tennessee	Loudon	pcnt_obese	31
+47107	Tennessee	McMinn	pcnt_obese	34
+47109	Tennessee	McNairy	pcnt_obese	37
+47111	Tennessee	Macon	pcnt_obese	35
+47113	Tennessee	Madison	pcnt_obese	34
+47115	Tennessee	Marion	pcnt_obese	32
+47117	Tennessee	Marshall	pcnt_obese	31
+47119	Tennessee	Maury	pcnt_obese	33
+47121	Tennessee	Meigs	pcnt_obese	34
+47123	Tennessee	Monroe	pcnt_obese	34
+47125	Tennessee	Montgomery	pcnt_obese	33
+47127	Tennessee	Moore	pcnt_obese	31
+47129	Tennessee	Morgan	pcnt_obese	32
+47131	Tennessee	Obion	pcnt_obese	32
+47133	Tennessee	Overton	pcnt_obese	33
+47135	Tennessee	Perry	pcnt_obese	31
+47137	Tennessee	Pickett	pcnt_obese	31
+47139	Tennessee	Polk	pcnt_obese	33
+47141	Tennessee	Putnam	pcnt_obese	32
+47143	Tennessee	Rhea	pcnt_obese	34
+47145	Tennessee	Roane	pcnt_obese	35
+47147	Tennessee	Robertson	pcnt_obese	32
+47149	Tennessee	Rutherford	pcnt_obese	30
+47151	Tennessee	Scott	pcnt_obese	32
+47153	Tennessee	Sequatchie	pcnt_obese	36
+47155	Tennessee	Sevier	pcnt_obese	30
+47157	Tennessee	Shelby	pcnt_obese	34
+47159	Tennessee	Smith	pcnt_obese	33
+47161	Tennessee	Stewart	pcnt_obese	33
+47163	Tennessee	Sullivan	pcnt_obese	35
+47165	Tennessee	Sumner	pcnt_obese	30
+47167	Tennessee	Tipton	pcnt_obese	36
+47169	Tennessee	Trousdale	pcnt_obese	33
+47171	Tennessee	Unicoi	pcnt_obese	33
+47173	Tennessee	Union	pcnt_obese	32
+47175	Tennessee	Van Buren	pcnt_obese	33
+47177	Tennessee	Warren	pcnt_obese	35
+47179	Tennessee	Washington	pcnt_obese	29
+47181	Tennessee	Wayne	pcnt_obese	32
+47183	Tennessee	Weakley	pcnt_obese	32
+47185	Tennessee	White	pcnt_obese	33
+47187	Tennessee	Williamson	pcnt_obese	24
+47189	Tennessee	Wilson	pcnt_obese	30
+48001	Texas	Anderson	pcnt_obese	33
+48003	Texas	Andrews	pcnt_obese	30
+48005	Texas	Angelina	pcnt_obese	32
+48007	Texas	Aransas	pcnt_obese	28
+48009	Texas	Archer	pcnt_obese	28
+48011	Texas	Armstrong	pcnt_obese	29
+48013	Texas	Atascosa	pcnt_obese	30
+48015	Texas	Austin	pcnt_obese	30
+48017	Texas	Bailey	pcnt_obese	29
+48019	Texas	Bandera	pcnt_obese	30
+48021	Texas	Bastrop	pcnt_obese	31
+48023	Texas	Baylor	pcnt_obese	27
+48025	Texas	Bee	pcnt_obese	29
+48027	Texas	Bell	pcnt_obese	29
+48029	Texas	Bexar	pcnt_obese	28
+48031	Texas	Blanco	pcnt_obese	29
+48033	Texas	Borden	pcnt_obese	28
+48035	Texas	Bosque	pcnt_obese	27
+48037	Texas	Bowie	pcnt_obese	33
+48039	Texas	Brazoria	pcnt_obese	27
+48041	Texas	Brazos	pcnt_obese	30
+48043	Texas	Brewster	pcnt_obese	27
+48045	Texas	Briscoe	pcnt_obese	28
+48047	Texas	Brooks	pcnt_obese	29
+48049	Texas	Brown	pcnt_obese	31
+48051	Texas	Burleson	pcnt_obese	33
+48053	Texas	Burnet	pcnt_obese	28
+48055	Texas	Caldwell	pcnt_obese	32
+48057	Texas	Calhoun	pcnt_obese	30
+48059	Texas	Callahan	pcnt_obese	31
+48061	Texas	Cameron	pcnt_obese	27
+48063	Texas	Camp	pcnt_obese	31
+48065	Texas	Carson	pcnt_obese	31
+48067	Texas	Cass	pcnt_obese	30
+48069	Texas	Castro	pcnt_obese	30
+48071	Texas	Chambers	pcnt_obese	29
+48073	Texas	Cherokee	pcnt_obese	33
+48075	Texas	Childress	pcnt_obese	30
+48077	Texas	Clay	pcnt_obese	30
+48079	Texas	Cochran	pcnt_obese	30
+48081	Texas	Coke	pcnt_obese	31
+48083	Texas	Coleman	pcnt_obese	27
+48085	Texas	Collin	pcnt_obese	25
+48087	Texas	Collingsworth	pcnt_obese	30
+48089	Texas	Colorado	pcnt_obese	29
+48091	Texas	Comal	pcnt_obese	26
+48093	Texas	Comanche	pcnt_obese	28
+48095	Texas	Concho	pcnt_obese	30
+48097	Texas	Cooke	pcnt_obese	33
+48099	Texas	Coryell	pcnt_obese	30
+48101	Texas	Cottle	pcnt_obese	29
+48103	Texas	Crane	pcnt_obese	30
+48105	Texas	Crockett	pcnt_obese	30
+48107	Texas	Crosby	pcnt_obese	28
+48109	Texas	Culberson	pcnt_obese	28
+48111	Texas	Dallam	pcnt_obese	28
+48113	Texas	Dallas	pcnt_obese	31
+48115	Texas	Dawson	pcnt_obese	31
+48117	Texas	Deaf Smith	pcnt_obese	30
+48119	Texas	Delta	pcnt_obese	29
+48121	Texas	Denton	pcnt_obese	30
+48123	Texas	DeWitt	pcnt_obese	28
+48125	Texas	Dickens	pcnt_obese	30
+48127	Texas	Dimmit	pcnt_obese	29
+48129	Texas	Donley	pcnt_obese	30
+48131	Texas	Duval	pcnt_obese	30
+48133	Texas	Eastland	pcnt_obese	29
+48135	Texas	Ector	pcnt_obese	32
+48137	Texas	Edwards	pcnt_obese	30
+48139	Texas	Ellis	pcnt_obese	30
+48141	Texas	El Paso	pcnt_obese	24
+48143	Texas	Erath	pcnt_obese	28
+48145	Texas	Falls	pcnt_obese	31
+48147	Texas	Fannin	pcnt_obese	30
+48149	Texas	Fayette	pcnt_obese	29
+48151	Texas	Fisher	pcnt_obese	30
+48153	Texas	Floyd	pcnt_obese	28
+48155	Texas	Foard	pcnt_obese	29
+48157	Texas	Fort Bend	pcnt_obese	26
+48159	Texas	Franklin	pcnt_obese	27
+48161	Texas	Freestone	pcnt_obese	32
+48163	Texas	Frio	pcnt_obese	29
+48165	Texas	Gaines	pcnt_obese	31
+48167	Texas	Galveston	pcnt_obese	30
+48169	Texas	Garza	pcnt_obese	32
+48171	Texas	Gillespie	pcnt_obese	27
+48173	Texas	Glasscock	pcnt_obese	29
+48175	Texas	Goliad	pcnt_obese	29
+48177	Texas	Gonzales	pcnt_obese	32
+48179	Texas	Gray	pcnt_obese	31
+48181	Texas	Grayson	pcnt_obese	27
+48183	Texas	Gregg	pcnt_obese	32
+48185	Texas	Grimes	pcnt_obese	34
+48187	Texas	Guadalupe	pcnt_obese	30
+48189	Texas	Hale	pcnt_obese	29
+48191	Texas	Hall	pcnt_obese	28
+48193	Texas	Hamilton	pcnt_obese	29
+48195	Texas	Hansford	pcnt_obese	28
+48197	Texas	Hardeman	pcnt_obese	30
+48199	Texas	Hardin	pcnt_obese	30
+48201	Texas	Harris	pcnt_obese	29
+48203	Texas	Harrison	pcnt_obese	34
+48205	Texas	Hartley	pcnt_obese	31
+48207	Texas	Haskell	pcnt_obese	28
+48209	Texas	Hays	pcnt_obese	30
+48211	Texas	Hemphill	pcnt_obese	28
+48213	Texas	Henderson	pcnt_obese	26
+48215	Texas	Hidalgo	pcnt_obese	30
+48217	Texas	Hill	pcnt_obese	33
+48219	Texas	Hockley	pcnt_obese	30
+48221	Texas	Hood	pcnt_obese	30
+48223	Texas	Hopkins	pcnt_obese	33
+48225	Texas	Houston	pcnt_obese	31
+48227	Texas	Howard	pcnt_obese	31
+48229	Texas	Hudspeth	pcnt_obese	28
+48231	Texas	Hunt	pcnt_obese	31
+48233	Texas	Hutchinson	pcnt_obese	32
+48235	Texas	Irion	pcnt_obese	29
+48237	Texas	Jack	pcnt_obese	30
+48239	Texas	Jackson	pcnt_obese	30
+48241	Texas	Jasper	pcnt_obese	30
+48243	Texas	Jeff Davis	pcnt_obese	27
+48245	Texas	Jefferson	pcnt_obese	32
+48247	Texas	Jim Hogg	pcnt_obese	29
+48249	Texas	Jim Wells	pcnt_obese	32
+48251	Texas	Johnson	pcnt_obese	32
+48253	Texas	Jones	pcnt_obese	31
+48255	Texas	Karnes	pcnt_obese	30
+48257	Texas	Kaufman	pcnt_obese	36
+48259	Texas	Kendall	pcnt_obese	24
+48261	Texas	Kenedy	pcnt_obese	30
+48263	Texas	Kent	pcnt_obese	28
+48265	Texas	Kerr	pcnt_obese	29
+48267	Texas	Kimble	pcnt_obese	27
+48269	Texas	King	pcnt_obese	29
+48271	Texas	Kinney	pcnt_obese	28
+48273	Texas	Kleberg	pcnt_obese	30
+48275	Texas	Knox	pcnt_obese	28
+48277	Texas	Lamar	pcnt_obese	26
+48279	Texas	Lamb	pcnt_obese	31
+48281	Texas	Lampasas	pcnt_obese	30
+48283	Texas	La Salle	pcnt_obese	30
+48285	Texas	Lavaca	pcnt_obese	27
+48287	Texas	Lee	pcnt_obese	31
+48289	Texas	Leon	pcnt_obese	31
+48291	Texas	Liberty	pcnt_obese	31
+48293	Texas	Limestone	pcnt_obese	29
+48295	Texas	Lipscomb	pcnt_obese	29
+48297	Texas	Live Oak	pcnt_obese	28
+48299	Texas	Llano	pcnt_obese	27
+48301	Texas	Loving	pcnt_obese	30
+48303	Texas	Lubbock	pcnt_obese	27
+48305	Texas	Lynn	pcnt_obese	29
+48307	Texas	McCulloch	pcnt_obese	28
+48309	Texas	McLennan	pcnt_obese	30
+48311	Texas	McMullen	pcnt_obese	30
+48313	Texas	Madison	pcnt_obese	31
+48315	Texas	Marion	pcnt_obese	31
+48317	Texas	Martin	pcnt_obese	29
+48319	Texas	Mason	pcnt_obese	27
+48321	Texas	Matagorda	pcnt_obese	29
+48323	Texas	Maverick	pcnt_obese	30
+48325	Texas	Medina	pcnt_obese	30
+48327	Texas	Menard	pcnt_obese	30
+48329	Texas	Midland	pcnt_obese	27
+48331	Texas	Milam	pcnt_obese	32
+48333	Texas	Mills	pcnt_obese	29
+48335	Texas	Mitchell	pcnt_obese	32
+48337	Texas	Montague	pcnt_obese	29
+48339	Texas	Montgomery	pcnt_obese	27
+48341	Texas	Moore	pcnt_obese	32
+48343	Texas	Morris	pcnt_obese	32
+48345	Texas	Motley	pcnt_obese	28
+48347	Texas	Nacogdoches	pcnt_obese	30
+48349	Texas	Navarro	pcnt_obese	32
+48351	Texas	Newton	pcnt_obese	31
+48353	Texas	Nolan	pcnt_obese	30
+48355	Texas	Nueces	pcnt_obese	30
+48357	Texas	Ochiltree	pcnt_obese	29
+48359	Texas	Oldham	pcnt_obese	30
+48361	Texas	Orange	pcnt_obese	30
+48363	Texas	Palo Pinto	pcnt_obese	30
+48365	Texas	Panola	pcnt_obese	30
+48367	Texas	Parker	pcnt_obese	32
+48369	Texas	Parmer	pcnt_obese	31
+48371	Texas	Pecos	pcnt_obese	30
+48373	Texas	Polk	pcnt_obese	32
+48375	Texas	Potter	pcnt_obese	34
+48377	Texas	Presidio	pcnt_obese	25
+48379	Texas	Rains	pcnt_obese	30
+48381	Texas	Randall	pcnt_obese	26
+48383	Texas	Reagan	pcnt_obese	29
+48385	Texas	Real	pcnt_obese	29
+48387	Texas	Red River	pcnt_obese	31
+48389	Texas	Reeves	pcnt_obese	30
+48391	Texas	Refugio	pcnt_obese	29
+48393	Texas	Roberts	pcnt_obese	29
+48395	Texas	Robertson	pcnt_obese	32
+48397	Texas	Rockwall	pcnt_obese	27
+48399	Texas	Runnels	pcnt_obese	34
+48401	Texas	Rusk	pcnt_obese	31
+48403	Texas	Sabine	pcnt_obese	31
+48405	Texas	San Augustine	pcnt_obese	30
+48407	Texas	San Jacinto	pcnt_obese	30
+48409	Texas	San Patricio	pcnt_obese	30
+48411	Texas	San Saba	pcnt_obese	29
+48413	Texas	Schleicher	pcnt_obese	30
+48415	Texas	Scurry	pcnt_obese	29
+48417	Texas	Shackelford	pcnt_obese	28
+48419	Texas	Shelby	pcnt_obese	33
+48421	Texas	Sherman	pcnt_obese	29
+48423	Texas	Smith	pcnt_obese	28
+48425	Texas	Somervell	pcnt_obese	29
+48427	Texas	Starr	pcnt_obese	29
+48429	Texas	Stephens	pcnt_obese	28
+48431	Texas	Sterling	pcnt_obese	29
+48433	Texas	Stonewall	pcnt_obese	29
+48435	Texas	Sutton	pcnt_obese	28
+48437	Texas	Swisher	pcnt_obese	29
+48439	Texas	Tarrant	pcnt_obese	28
+48441	Texas	Taylor	pcnt_obese	29
+48443	Texas	Terrell	pcnt_obese	27
+48445	Texas	Terry	pcnt_obese	30
+48447	Texas	Throckmorton	pcnt_obese	29
+48449	Texas	Titus	pcnt_obese	33
+48451	Texas	Tom Green	pcnt_obese	29
+48453	Texas	Travis	pcnt_obese	25
+48455	Texas	Trinity	pcnt_obese	32
+48457	Texas	Tyler	pcnt_obese	28
+48459	Texas	Upshur	pcnt_obese	31
+48461	Texas	Upton	pcnt_obese	29
+48463	Texas	Uvalde	pcnt_obese	30
+48465	Texas	Val Verde	pcnt_obese	29
+48467	Texas	Van Zandt	pcnt_obese	29
+48469	Texas	Victoria	pcnt_obese	31
+48471	Texas	Walker	pcnt_obese	33
+48473	Texas	Waller	pcnt_obese	32
+48475	Texas	Ward	pcnt_obese	29
+48477	Texas	Washington	pcnt_obese	29
+48479	Texas	Webb	pcnt_obese	29
+48481	Texas	Wharton	pcnt_obese	31
+48483	Texas	Wheeler	pcnt_obese	29
+48485	Texas	Wichita	pcnt_obese	31
+48487	Texas	Wilbarger	pcnt_obese	30
+48489	Texas	Willacy	pcnt_obese	30
+48491	Texas	Williamson	pcnt_obese	27
+48493	Texas	Wilson	pcnt_obese	30
+48495	Texas	Winkler	pcnt_obese	31
+48497	Texas	Wise	pcnt_obese	32
+48499	Texas	Wood	pcnt_obese	30
+48501	Texas	Yoakum	pcnt_obese	30
+48503	Texas	Young	pcnt_obese	30
+48505	Texas	Zapata	pcnt_obese	30
+48507	Texas	Zavala	pcnt_obese	30
+49001	Utah	Beaver	pcnt_obese	27
+49003	Utah	Box Elder	pcnt_obese	27
+49005	Utah	Cache	pcnt_obese	23
+49007	Utah	Carbon	pcnt_obese	24
+49009	Utah	Daggett	pcnt_obese	28
+49011	Utah	Davis	pcnt_obese	25
+49013	Utah	Duchesne	pcnt_obese	28
+49015	Utah	Emery	pcnt_obese	29
+49017	Utah	Garfield	pcnt_obese	25
+49019	Utah	Grand	pcnt_obese	20
+49021	Utah	Iron	pcnt_obese	25
+49023	Utah	Juab	pcnt_obese	29
+49025	Utah	Kane	pcnt_obese	25
+49027	Utah	Millard	pcnt_obese	29
+49029	Utah	Morgan	pcnt_obese	23
+49031	Utah	Piute	pcnt_obese	25
+49033	Utah	Rich	pcnt_obese	27
+49035	Utah	Salt Lake	pcnt_obese	25
+49037	Utah	San Juan	pcnt_obese	29
+49039	Utah	Sanpete	pcnt_obese	27
+49041	Utah	Sevier	pcnt_obese	26
+49043	Utah	Summit	pcnt_obese	16
+49045	Utah	Tooele	pcnt_obese	30
+49047	Utah	Uintah	pcnt_obese	29
+49049	Utah	Utah	pcnt_obese	25
+49051	Utah	Wasatch	pcnt_obese	24
+49053	Utah	Washington	pcnt_obese	24
+49055	Utah	Wayne	pcnt_obese	25
+49057	Utah	Weber	pcnt_obese	27
+50001	Vermont	Addison	pcnt_obese	23
+50003	Vermont	Bennington	pcnt_obese	23
+50005	Vermont	Caledonia	pcnt_obese	26
+50007	Vermont	Chittenden	pcnt_obese	20
+50009	Vermont	Essex	pcnt_obese	26
+50011	Vermont	Franklin	pcnt_obese	29
+50013	Vermont	Grand Isle	pcnt_obese	27
+50015	Vermont	Lamoille	pcnt_obese	26
+50017	Vermont	Orange	pcnt_obese	28
+50019	Vermont	Orleans	pcnt_obese	29
+50021	Vermont	Rutland	pcnt_obese	28
+50023	Vermont	Washington	pcnt_obese	22
+50025	Vermont	Windham	pcnt_obese	23
+50027	Vermont	Windsor	pcnt_obese	24
+51001	Virginia	Accomack	pcnt_obese	33
+51003	Virginia	Albemarle	pcnt_obese	27
+51005	Virginia	Alleghany	pcnt_obese	26
+51007	Virginia	Amelia	pcnt_obese	33
+51009	Virginia	Amherst	pcnt_obese	30
+51011	Virginia	Appomattox	pcnt_obese	32
+51013	Virginia	Arlington	pcnt_obese	19
+51015	Virginia	Augusta	pcnt_obese	27
+51017	Virginia	Bath	pcnt_obese	27
+51019	Virginia	Bedford	pcnt_obese	26
+51021	Virginia	Bland	pcnt_obese	30
+51023	Virginia	Botetourt	pcnt_obese	29
+51025	Virginia	Brunswick	pcnt_obese	36
+51027	Virginia	Buchanan	pcnt_obese	34
+51029	Virginia	Buckingham	pcnt_obese	33
+51031	Virginia	Campbell	pcnt_obese	32
+51033	Virginia	Caroline	pcnt_obese	31
+51035	Virginia	Carroll	pcnt_obese	31
+51036	Virginia	Charles City	pcnt_obese	34
+51037	Virginia	Charlotte	pcnt_obese	31
+51041	Virginia	Chesterfield	pcnt_obese	27
+51043	Virginia	Clarke	pcnt_obese	28
+51045	Virginia	Craig	pcnt_obese	27
+51047	Virginia	Culpeper	pcnt_obese	32
+51049	Virginia	Cumberland	pcnt_obese	34
+51051	Virginia	Dickenson	pcnt_obese	31
+51053	Virginia	Dinwiddie	pcnt_obese	34
+51057	Virginia	Essex	pcnt_obese	33
+51059	Virginia	Fairfax	pcnt_obese	24
+51061	Virginia	Fauquier	pcnt_obese	27
+51063	Virginia	Floyd	pcnt_obese	28
+51065	Virginia	Fluvanna	pcnt_obese	30
+51067	Virginia	Franklin	pcnt_obese	30
+51069	Virginia	Frederick	pcnt_obese	29
+51071	Virginia	Giles	pcnt_obese	29
+51073	Virginia	Gloucester	pcnt_obese	29
+51075	Virginia	Goochland	pcnt_obese	27
+51077	Virginia	Grayson	pcnt_obese	29
+51079	Virginia	Greene	pcnt_obese	31
+51081	Virginia	Greensville	pcnt_obese	34
+51083	Virginia	Halifax	pcnt_obese	33
+51085	Virginia	Hanover	pcnt_obese	27
+51087	Virginia	Henrico	pcnt_obese	29
+51089	Virginia	Henry	pcnt_obese	29
+51091	Virginia	Highland	pcnt_obese	27
+51093	Virginia	Isle of Wight	pcnt_obese	31
+51095	Virginia	James City	pcnt_obese	27
+51097	Virginia	King and Queen	pcnt_obese	34
+51099	Virginia	King George	pcnt_obese	28
+51101	Virginia	King William	pcnt_obese	30
+51103	Virginia	Lancaster	pcnt_obese	30
+51105	Virginia	Lee	pcnt_obese	34
+51107	Virginia	Loudoun	pcnt_obese	23
+51109	Virginia	Louisa	pcnt_obese	32
+51111	Virginia	Lunenburg	pcnt_obese	34
+51113	Virginia	Madison	pcnt_obese	32
+51115	Virginia	Mathews	pcnt_obese	29
+51117	Virginia	Mecklenburg	pcnt_obese	32
+51119	Virginia	Middlesex	pcnt_obese	28
+51121	Virginia	Montgomery	pcnt_obese	29
+51125	Virginia	Nelson	pcnt_obese	26
+51127	Virginia	New Kent	pcnt_obese	29
+51131	Virginia	Northampton	pcnt_obese	30
+51133	Virginia	Northumberland	pcnt_obese	33
+51135	Virginia	Nottoway	pcnt_obese	32
+51137	Virginia	Orange	pcnt_obese	31
+51139	Virginia	Page	pcnt_obese	32
+51141	Virginia	Patrick	pcnt_obese	30
+51143	Virginia	Pittsylvania	pcnt_obese	29
+51145	Virginia	Powhatan	pcnt_obese	28
+51147	Virginia	Prince Edward	pcnt_obese	32
+51149	Virginia	Prince George	pcnt_obese	35
+51153	Virginia	Prince William	pcnt_obese	27
+51155	Virginia	Pulaski	pcnt_obese	27
+51157	Virginia	Rappahannock	pcnt_obese	26
+51159	Virginia	Richmond	pcnt_obese	32
+51161	Virginia	Roanoke	pcnt_obese	27
+51163	Virginia	Rockbridge	pcnt_obese	29
+51165	Virginia	Rockingham	pcnt_obese	27
+51167	Virginia	Russell	pcnt_obese	30
+51169	Virginia	Scott	pcnt_obese	28
+51171	Virginia	Shenandoah	pcnt_obese	30
+51173	Virginia	Smyth	pcnt_obese	32
+51175	Virginia	Southampton	pcnt_obese	29
+51177	Virginia	Spotsylvania	pcnt_obese	28
+51179	Virginia	Stafford	pcnt_obese	30
+51181	Virginia	Surry	pcnt_obese	35
+51183	Virginia	Sussex	pcnt_obese	33
+51185	Virginia	Tazewell	pcnt_obese	33
+51187	Virginia	Warren	pcnt_obese	29
+51191	Virginia	Washington	pcnt_obese	27
+51193	Virginia	Westmoreland	pcnt_obese	29
+51195	Virginia	Wise	pcnt_obese	35
+51197	Virginia	Wythe	pcnt_obese	29
+51199	Virginia	York	pcnt_obese	28
+51510	Virginia	Alexandria City	pcnt_obese	20
+51515	Virginia	Bedford City	pcnt_obese	30
+51520	Virginia	Bristol City	pcnt_obese	27
+51530	Virginia	Buena Vista City	pcnt_obese	29
+51540	Virginia	Charlottesville City	pcnt_obese	27
+51550	Virginia	Chesapeake City	pcnt_obese	28
+51570	Virginia	Colonial Heights City	pcnt_obese	28
+51580	Virginia	Covington City	pcnt_obese	28
+51590	Virginia	Danville City	pcnt_obese	30
+51595	Virginia	Emporia City	pcnt_obese	33
+51600	Virginia	Fairfax City	pcnt_obese	28
+51610	Virginia	Falls Church City	pcnt_obese	26
+51620	Virginia	Franklin City	pcnt_obese	32
+51630	Virginia	Fredericksburg City	pcnt_obese	29
+51640	Virginia	Galax City	pcnt_obese	29
+51650	Virginia	Hampton City	pcnt_obese	37
+51660	Virginia	Harrisonburg City	pcnt_obese	29
+51670	Virginia	Hopewell City	pcnt_obese	33
+51678	Virginia	Lexington City	pcnt_obese	28
+51680	Virginia	Lynchburg City	pcnt_obese	31
+51683	Virginia	Manassas City	pcnt_obese	29
+51685	Virginia	Manassas Park City	pcnt_obese	30
+51690	Virginia	Martinsville City	pcnt_obese	32
+51700	Virginia	Newport News City	pcnt_obese	34
+51710	Virginia	Norfolk City	pcnt_obese	33
+51720	Virginia	Norton City	pcnt_obese	28
+51730	Virginia	Petersburg City	pcnt_obese	38
+51735	Virginia	Poquoson City	pcnt_obese	28
+51740	Virginia	Portsmouth City	pcnt_obese	39
+51750	Virginia	Radford City	pcnt_obese	28
+51760	Virginia	Richmond City	pcnt_obese	31
+51770	Virginia	Roanoke City	pcnt_obese	34
+51775	Virginia	Salem City	pcnt_obese	28
+51790	Virginia	Staunton City	pcnt_obese	28
+51800	Virginia	Suffolk City	pcnt_obese	32
+51810	Virginia	Virginia Beach City	pcnt_obese	27
+51820	Virginia	Waynesboro City	pcnt_obese	28
+51830	Virginia	Williamsburg City	pcnt_obese	29
+51840	Virginia	Winchester City	pcnt_obese	29
+53001	Washington	Adams	pcnt_obese	37
+53003	Washington	Asotin	pcnt_obese	29
+53005	Washington	Benton	pcnt_obese	31
+53007	Washington	Chelan	pcnt_obese	24
+53009	Washington	Clallam	pcnt_obese	28
+53011	Washington	Clark	pcnt_obese	29
+53013	Washington	Columbia	pcnt_obese	30
+53015	Washington	Cowlitz	pcnt_obese	37
+53017	Washington	Douglas	pcnt_obese	28
+53019	Washington	Ferry	pcnt_obese	26
+53021	Washington	Franklin	pcnt_obese	31
+53023	Washington	Garfield	pcnt_obese	35
+53025	Washington	Grant	pcnt_obese	33
+53027	Washington	Grays Harbor	pcnt_obese	33
+53029	Washington	Island	pcnt_obese	26
+53031	Washington	Jefferson	pcnt_obese	25
+53033	Washington	King	pcnt_obese	22
+53035	Washington	Kitsap	pcnt_obese	30
+53037	Washington	Kittitas	pcnt_obese	26
+53039	Washington	Klickitat	pcnt_obese	27
+53041	Washington	Lewis	pcnt_obese	35
+53043	Washington	Lincoln	pcnt_obese	32
+53045	Washington	Mason	pcnt_obese	31
+53047	Washington	Okanogan	pcnt_obese	27
+53049	Washington	Pacific	pcnt_obese	33
+53051	Washington	Pend Oreille	pcnt_obese	31
+53053	Washington	Pierce	pcnt_obese	31
+53055	Washington	San Juan	pcnt_obese	19
+53057	Washington	Skagit	pcnt_obese	27
+53059	Washington	Skamania	pcnt_obese	32
+53061	Washington	Snohomish	pcnt_obese	28
+53063	Washington	Spokane	pcnt_obese	28
+53065	Washington	Stevens	pcnt_obese	27
+53067	Washington	Thurston	pcnt_obese	29
+53069	Washington	Wahkiakum	pcnt_obese	30
+53071	Washington	Walla Walla	pcnt_obese	29
+53073	Washington	Whatcom	pcnt_obese	24
+53075	Washington	Whitman	pcnt_obese	28
+53077	Washington	Yakima	pcnt_obese	32
+54001	West Virginia	Barbour	pcnt_obese	34
+54003	West Virginia	Berkeley	pcnt_obese	32
+54005	West Virginia	Boone	pcnt_obese	35
+54007	West Virginia	Braxton	pcnt_obese	34
+54009	West Virginia	Brooke	pcnt_obese	36
+54011	West Virginia	Cabell	pcnt_obese	33
+54013	West Virginia	Calhoun	pcnt_obese	35
+54015	West Virginia	Clay	pcnt_obese	37
+54017	West Virginia	Doddridge	pcnt_obese	33
+54019	West Virginia	Fayette	pcnt_obese	34
+54021	West Virginia	Gilmer	pcnt_obese	37
+54023	West Virginia	Grant	pcnt_obese	34
+54025	West Virginia	Greenbrier	pcnt_obese	29
+54027	West Virginia	Hampshire	pcnt_obese	35
+54029	West Virginia	Hancock	pcnt_obese	32
+54031	West Virginia	Hardy	pcnt_obese	33
+54033	West Virginia	Harrison	pcnt_obese	32
+54035	West Virginia	Jackson	pcnt_obese	36
+54037	West Virginia	Jefferson	pcnt_obese	35
+54039	West Virginia	Kanawha	pcnt_obese	32
+54041	West Virginia	Lewis	pcnt_obese	30
+54043	West Virginia	Lincoln	pcnt_obese	39
+54045	West Virginia	Logan	pcnt_obese	38
+54047	West Virginia	McDowell	pcnt_obese	33
+54049	West Virginia	Marion	pcnt_obese	35
+54051	West Virginia	Marshall	pcnt_obese	33
+54053	West Virginia	Mason	pcnt_obese	37
+54055	West Virginia	Mercer	pcnt_obese	34
+54057	West Virginia	Mineral	pcnt_obese	34
+54059	West Virginia	Mingo	pcnt_obese	32
+54061	West Virginia	Monongalia	pcnt_obese	28
+54063	West Virginia	Monroe	pcnt_obese	29
+54065	West Virginia	Morgan	pcnt_obese	31
+54067	West Virginia	Nicholas	pcnt_obese	36
+54069	West Virginia	Ohio	pcnt_obese	30
+54071	West Virginia	Pendleton	pcnt_obese	34
+54073	West Virginia	Pleasants	pcnt_obese	31
+54075	West Virginia	Pocahontas	pcnt_obese	31
+54077	West Virginia	Preston	pcnt_obese	34
+54079	West Virginia	Putnam	pcnt_obese	30
+54081	West Virginia	Raleigh	pcnt_obese	34
+54083	West Virginia	Randolph	pcnt_obese	34
+54085	West Virginia	Ritchie	pcnt_obese	34
+54087	West Virginia	Roane	pcnt_obese	34
+54089	West Virginia	Summers	pcnt_obese	34
+54091	West Virginia	Taylor	pcnt_obese	33
+54093	West Virginia	Tucker	pcnt_obese	33
+54095	West Virginia	Tyler	pcnt_obese	33
+54097	West Virginia	Upshur	pcnt_obese	30
+54099	West Virginia	Wayne	pcnt_obese	35
+54101	West Virginia	Webster	pcnt_obese	35
+54103	West Virginia	Wetzel	pcnt_obese	34
+54105	West Virginia	Wirt	pcnt_obese	38
+54107	West Virginia	Wood	pcnt_obese	32
+54109	West Virginia	Wyoming	pcnt_obese	36
+55001	Wisconsin	Adams	pcnt_obese	33
+55003	Wisconsin	Ashland	pcnt_obese	30
+55005	Wisconsin	Barron	pcnt_obese	31
+55007	Wisconsin	Bayfield	pcnt_obese	29
+55009	Wisconsin	Brown	pcnt_obese	30
+55011	Wisconsin	Buffalo	pcnt_obese	32
+55013	Wisconsin	Burnett	pcnt_obese	31
+55015	Wisconsin	Calumet	pcnt_obese	31
+55017	Wisconsin	Chippewa	pcnt_obese	32
+55019	Wisconsin	Clark	pcnt_obese	31
+55021	Wisconsin	Columbia	pcnt_obese	31
+55023	Wisconsin	Crawford	pcnt_obese	28
+55025	Wisconsin	Dane	pcnt_obese	24
+55027	Wisconsin	Dodge	pcnt_obese	36
+55029	Wisconsin	Door	pcnt_obese	32
+55031	Wisconsin	Douglas	pcnt_obese	30
+55033	Wisconsin	Dunn	pcnt_obese	29
+55035	Wisconsin	Eau Claire	pcnt_obese	28
+55037	Wisconsin	Florence	pcnt_obese	29
+55039	Wisconsin	Fond du Lac	pcnt_obese	31
+55041	Wisconsin	Forest	pcnt_obese	31
+55043	Wisconsin	Grant	pcnt_obese	29
+55045	Wisconsin	Green	pcnt_obese	26
+55047	Wisconsin	Green Lake	pcnt_obese	30
+55049	Wisconsin	Iowa	pcnt_obese	30
+55051	Wisconsin	Iron	pcnt_obese	28
+55053	Wisconsin	Jackson	pcnt_obese	30
+55055	Wisconsin	Jefferson	pcnt_obese	32
+55057	Wisconsin	Juneau	pcnt_obese	30
+55059	Wisconsin	Kenosha	pcnt_obese	29
+55061	Wisconsin	Kewaunee	pcnt_obese	34
+55063	Wisconsin	La Crosse	pcnt_obese	24
+55065	Wisconsin	Lafayette	pcnt_obese	31
+55067	Wisconsin	Langlade	pcnt_obese	30
+55069	Wisconsin	Lincoln	pcnt_obese	29
+55071	Wisconsin	Manitowoc	pcnt_obese	31
+55073	Wisconsin	Marathon	pcnt_obese	31
+55075	Wisconsin	Marinette	pcnt_obese	31
+55077	Wisconsin	Marquette	pcnt_obese	34
+55078	Wisconsin	Menominee	pcnt_obese	36
+55079	Wisconsin	Milwaukee	pcnt_obese	32
+55081	Wisconsin	Monroe	pcnt_obese	29
+55083	Wisconsin	Oconto	pcnt_obese	28
+55085	Wisconsin	Oneida	pcnt_obese	27
+55087	Wisconsin	Outagamie	pcnt_obese	29
+55089	Wisconsin	Ozaukee	pcnt_obese	26
+55091	Wisconsin	Pepin	pcnt_obese	29
+55093	Wisconsin	Pierce	pcnt_obese	26
+55095	Wisconsin	Polk	pcnt_obese	29
+55097	Wisconsin	Portage	pcnt_obese	28
+55099	Wisconsin	Price	pcnt_obese	32
+55101	Wisconsin	Racine	pcnt_obese	31
+55103	Wisconsin	Richland	pcnt_obese	32
+55105	Wisconsin	Rock	pcnt_obese	31
+55107	Wisconsin	Rusk	pcnt_obese	29
+55109	Wisconsin	St. Croix	pcnt_obese	28
+55111	Wisconsin	Sauk	pcnt_obese	30
+55113	Wisconsin	Sawyer	pcnt_obese	27
+55115	Wisconsin	Shawano	pcnt_obese	30
+55117	Wisconsin	Sheboygan	pcnt_obese	29
+55119	Wisconsin	Taylor	pcnt_obese	28
+55121	Wisconsin	Trempealeau	pcnt_obese	33
+55123	Wisconsin	Vernon	pcnt_obese	28
+55125	Wisconsin	Vilas	pcnt_obese	26
+55127	Wisconsin	Walworth	pcnt_obese	26
+55129	Wisconsin	Washburn	pcnt_obese	31
+55131	Wisconsin	Washington	pcnt_obese	28
+55133	Wisconsin	Waukesha	pcnt_obese	26
+55135	Wisconsin	Waupaca	pcnt_obese	32
+55137	Wisconsin	Waushara	pcnt_obese	33
+55139	Wisconsin	Winnebago	pcnt_obese	30
+55141	Wisconsin	Wood	pcnt_obese	27
+56001	Wyoming	Albany	pcnt_obese	22
+56003	Wyoming	Big Horn	pcnt_obese	28
+56005	Wyoming	Campbell	pcnt_obese	32
+56007	Wyoming	Carbon	pcnt_obese	31
+56009	Wyoming	Converse	pcnt_obese	29
+56011	Wyoming	Crook	pcnt_obese	23
+56013	Wyoming	Fremont	pcnt_obese	25
+56015	Wyoming	Goshen	pcnt_obese	27
+56017	Wyoming	Hot Springs	pcnt_obese	24
+56019	Wyoming	Johnson	pcnt_obese	24
+56021	Wyoming	Laramie	pcnt_obese	25
+56023	Wyoming	Lincoln	pcnt_obese	22
+56025	Wyoming	Natrona	pcnt_obese	27
+56027	Wyoming	Niobrara	pcnt_obese	24
+56029	Wyoming	Park	pcnt_obese	22
+56031	Wyoming	Platte	pcnt_obese	25
+56033	Wyoming	Sheridan	pcnt_obese	25
+56035	Wyoming	Sublette	pcnt_obese	27
+56037	Wyoming	Sweetwater	pcnt_obese	30
+56039	Wyoming	Teton	pcnt_obese	14
+56041	Wyoming	Uinta	pcnt_obese	31
+56043	Wyoming	Washakie	pcnt_obese	25
+56045	Wyoming	Weston	pcnt_obese	29

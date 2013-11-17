@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_excessive_drinking
+01001	Alabama	Autauga	pcnt_excessive_drinking	17
+01003	Alabama	Baldwin	pcnt_excessive_drinking	19
+01005	Alabama	Barbour	pcnt_excessive_drinking	13
+01007	Alabama	Bibb	pcnt_excessive_drinking	13
+01009	Alabama	Blount	pcnt_excessive_drinking	5
+01011	Alabama	Bullock	pcnt_excessive_drinking	
+01013	Alabama	Butler	pcnt_excessive_drinking	10
+01015	Alabama	Calhoun	pcnt_excessive_drinking	13
+01017	Alabama	Chambers	pcnt_excessive_drinking	8
+01019	Alabama	Cherokee	pcnt_excessive_drinking	14
+01021	Alabama	Chilton	pcnt_excessive_drinking	11
+01023	Alabama	Choctaw	pcnt_excessive_drinking	8
+01025	Alabama	Clarke	pcnt_excessive_drinking	13
+01027	Alabama	Clay	pcnt_excessive_drinking	6
+01029	Alabama	Cleburne	pcnt_excessive_drinking	9
+01031	Alabama	Coffee	pcnt_excessive_drinking	12
+01033	Alabama	Colbert	pcnt_excessive_drinking	10
+01035	Alabama	Conecuh	pcnt_excessive_drinking	6
+01037	Alabama	Coosa	pcnt_excessive_drinking	13
+01039	Alabama	Covington	pcnt_excessive_drinking	12
+01041	Alabama	Crenshaw	pcnt_excessive_drinking	13
+01043	Alabama	Cullman	pcnt_excessive_drinking	10
+01045	Alabama	Dale	pcnt_excessive_drinking	15
+01047	Alabama	Dallas	pcnt_excessive_drinking	11
+01049	Alabama	DeKalb	pcnt_excessive_drinking	10
+01051	Alabama	Elmore	pcnt_excessive_drinking	10
+01053	Alabama	Escambia	pcnt_excessive_drinking	7
+01055	Alabama	Etowah	pcnt_excessive_drinking	11
+01057	Alabama	Fayette	pcnt_excessive_drinking	4
+01059	Alabama	Franklin	pcnt_excessive_drinking	4
+01061	Alabama	Geneva	pcnt_excessive_drinking	12
+01063	Alabama	Greene	pcnt_excessive_drinking	
+01065	Alabama	Hale	pcnt_excessive_drinking	8
+01067	Alabama	Henry	pcnt_excessive_drinking	6
+01069	Alabama	Houston	pcnt_excessive_drinking	12
+01071	Alabama	Jackson	pcnt_excessive_drinking	8
+01073	Alabama	Jefferson	pcnt_excessive_drinking	15
+01075	Alabama	Lamar	pcnt_excessive_drinking	
+01077	Alabama	Lauderdale	pcnt_excessive_drinking	4
+01079	Alabama	Lawrence	pcnt_excessive_drinking	5
+01081	Alabama	Lee	pcnt_excessive_drinking	19
+01083	Alabama	Limestone	pcnt_excessive_drinking	10
+01085	Alabama	Lowndes	pcnt_excessive_drinking	18
+01087	Alabama	Macon	pcnt_excessive_drinking	
+01089	Alabama	Madison	pcnt_excessive_drinking	11
+01091	Alabama	Marengo	pcnt_excessive_drinking	15
+01093	Alabama	Marion	pcnt_excessive_drinking	3
+01095	Alabama	Marshall	pcnt_excessive_drinking	13
+01097	Alabama	Mobile	pcnt_excessive_drinking	15
+01099	Alabama	Monroe	pcnt_excessive_drinking	15
+01101	Alabama	Montgomery	pcnt_excessive_drinking	15
+01103	Alabama	Morgan	pcnt_excessive_drinking	10
+01105	Alabama	Perry	pcnt_excessive_drinking	15
+01107	Alabama	Pickens	pcnt_excessive_drinking	8
+01109	Alabama	Pike	pcnt_excessive_drinking	11
+01111	Alabama	Randolph	pcnt_excessive_drinking	13
+01113	Alabama	Russell	pcnt_excessive_drinking	
+01115	Alabama	St. Clair	pcnt_excessive_drinking	11
+01117	Alabama	Shelby	pcnt_excessive_drinking	12
+01119	Alabama	Sumter	pcnt_excessive_drinking	14
+01121	Alabama	Talladega	pcnt_excessive_drinking	10
+01123	Alabama	Tallapoosa	pcnt_excessive_drinking	14
+01125	Alabama	Tuscaloosa	pcnt_excessive_drinking	12
+01127	Alabama	Walker	pcnt_excessive_drinking	7
+01129	Alabama	Washington	pcnt_excessive_drinking	10
+01131	Alabama	Wilcox	pcnt_excessive_drinking	
+01133	Alabama	Winston	pcnt_excessive_drinking	12
+02013	Alaska	Aleutians East	pcnt_excessive_drinking	
+02016	Alaska	Aleutians West	pcnt_excessive_drinking	26
+02020	Alaska	Anchorage	pcnt_excessive_drinking	19
+02050	Alaska	Bethel	pcnt_excessive_drinking	17
+02060	Alaska	Bristol Bay	pcnt_excessive_drinking	
+02068	Alaska	Denali	pcnt_excessive_drinking	27
+02070	Alaska	Dillingham	pcnt_excessive_drinking	15
+02090	Alaska	Fairbanks North Star	pcnt_excessive_drinking	21
+02100	Alaska	Haines	pcnt_excessive_drinking	15
+02110	Alaska	Juneau	pcnt_excessive_drinking	22
+02122	Alaska	Kenai Peninsula	pcnt_excessive_drinking	18
+02130	Alaska	Ketchikan Gateway	pcnt_excessive_drinking	23
+02150	Alaska	Kodiak Island	pcnt_excessive_drinking	26
+02164	Alaska	Lake and Peninsula	pcnt_excessive_drinking	
+02170	Alaska	Matanuska-Susitna	pcnt_excessive_drinking	18
+02180	Alaska	Nome	pcnt_excessive_drinking	21
+02185	Alaska	North Slope	pcnt_excessive_drinking	15
+02188	Alaska	Northwest Arctic	pcnt_excessive_drinking	22
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_excessive_drinking	19
+02220	Alaska	Sitka	pcnt_excessive_drinking	25
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_excessive_drinking	28
+02240	Alaska	Southeast Fairbanks	pcnt_excessive_drinking	14
+02261	Alaska	Valdez-Cordova	pcnt_excessive_drinking	21
+02270	Alaska	Wade Hampton	pcnt_excessive_drinking	8
+02280	Alaska	Wrangell-Petersburg	pcnt_excessive_drinking	21
+02282	Alaska	Yakutat	pcnt_excessive_drinking	
+02290	Alaska	Yukon-Koyukuk	pcnt_excessive_drinking	25
+04001	Arizona	Apache	pcnt_excessive_drinking	13
+04003	Arizona	Cochise	pcnt_excessive_drinking	14
+04005	Arizona	Coconino	pcnt_excessive_drinking	16
+04007	Arizona	Gila	pcnt_excessive_drinking	16
+04009	Arizona	Graham	pcnt_excessive_drinking	14
+04011	Arizona	Greenlee	pcnt_excessive_drinking	17
+04012	Arizona	La Paz	pcnt_excessive_drinking	22
+04013	Arizona	Maricopa	pcnt_excessive_drinking	17
+04015	Arizona	Mohave	pcnt_excessive_drinking	17
+04017	Arizona	Navajo	pcnt_excessive_drinking	12
+04019	Arizona	Pima	pcnt_excessive_drinking	16
+04021	Arizona	Pinal	pcnt_excessive_drinking	19
+04023	Arizona	Santa Cruz	pcnt_excessive_drinking	19
+04025	Arizona	Yavapai	pcnt_excessive_drinking	15
+04027	Arizona	Yuma	pcnt_excessive_drinking	15
+05001	Arkansas	Arkansas	pcnt_excessive_drinking	13
+05003	Arkansas	Ashley	pcnt_excessive_drinking	10
+05005	Arkansas	Baxter	pcnt_excessive_drinking	15
+05007	Arkansas	Benton	pcnt_excessive_drinking	14
+05009	Arkansas	Boone	pcnt_excessive_drinking	6
+05011	Arkansas	Bradley	pcnt_excessive_drinking	4
+05013	Arkansas	Calhoun	pcnt_excessive_drinking	8
+05015	Arkansas	Carroll	pcnt_excessive_drinking	12
+05017	Arkansas	Chicot	pcnt_excessive_drinking	10
+05019	Arkansas	Clark	pcnt_excessive_drinking	9
+05021	Arkansas	Clay	pcnt_excessive_drinking	6
+05023	Arkansas	Cleburne	pcnt_excessive_drinking	
+05025	Arkansas	Cleveland	pcnt_excessive_drinking	7
+05027	Arkansas	Columbia	pcnt_excessive_drinking	12
+05029	Arkansas	Conway	pcnt_excessive_drinking	13
+05031	Arkansas	Craighead	pcnt_excessive_drinking	9
+05033	Arkansas	Crawford	pcnt_excessive_drinking	14
+05035	Arkansas	Crittenden	pcnt_excessive_drinking	11
+05037	Arkansas	Cross	pcnt_excessive_drinking	11
+05039	Arkansas	Dallas	pcnt_excessive_drinking	4
+05041	Arkansas	Desha	pcnt_excessive_drinking	8
+05043	Arkansas	Drew	pcnt_excessive_drinking	12
+05045	Arkansas	Faulkner	pcnt_excessive_drinking	14
+05047	Arkansas	Franklin	pcnt_excessive_drinking	7
+05049	Arkansas	Fulton	pcnt_excessive_drinking	9
+05051	Arkansas	Garland	pcnt_excessive_drinking	15
+05053	Arkansas	Grant	pcnt_excessive_drinking	17
+05055	Arkansas	Greene	pcnt_excessive_drinking	12
+05057	Arkansas	Hempstead	pcnt_excessive_drinking	10
+05059	Arkansas	Hot Spring	pcnt_excessive_drinking	10
+05061	Arkansas	Howard	pcnt_excessive_drinking	
+05063	Arkansas	Independence	pcnt_excessive_drinking	9
+05065	Arkansas	Izard	pcnt_excessive_drinking	11
+05067	Arkansas	Jackson	pcnt_excessive_drinking	3
+05069	Arkansas	Jefferson	pcnt_excessive_drinking	15
+05071	Arkansas	Johnson	pcnt_excessive_drinking	13
+05073	Arkansas	Lafayette	pcnt_excessive_drinking	
+05075	Arkansas	Lawrence	pcnt_excessive_drinking	6
+05077	Arkansas	Lee	pcnt_excessive_drinking	11
+05079	Arkansas	Lincoln	pcnt_excessive_drinking	5
+05081	Arkansas	Little River	pcnt_excessive_drinking	7
+05083	Arkansas	Logan	pcnt_excessive_drinking	10
+05085	Arkansas	Lonoke	pcnt_excessive_drinking	14
+05087	Arkansas	Madison	pcnt_excessive_drinking	16
+05089	Arkansas	Marion	pcnt_excessive_drinking	13
+05091	Arkansas	Miller	pcnt_excessive_drinking	13
+05093	Arkansas	Mississippi	pcnt_excessive_drinking	7
+05095	Arkansas	Monroe	pcnt_excessive_drinking	11
+05097	Arkansas	Montgomery	pcnt_excessive_drinking	
+05099	Arkansas	Nevada	pcnt_excessive_drinking	10
+05101	Arkansas	Newton	pcnt_excessive_drinking	16
+05103	Arkansas	Ouachita	pcnt_excessive_drinking	13
+05105	Arkansas	Perry	pcnt_excessive_drinking	14
+05107	Arkansas	Phillips	pcnt_excessive_drinking	12
+05109	Arkansas	Pike	pcnt_excessive_drinking	13
+05111	Arkansas	Poinsett	pcnt_excessive_drinking	11
+05113	Arkansas	Polk	pcnt_excessive_drinking	11
+05115	Arkansas	Pope	pcnt_excessive_drinking	14
+05117	Arkansas	Prairie	pcnt_excessive_drinking	7
+05119	Arkansas	Pulaski	pcnt_excessive_drinking	16
+05121	Arkansas	Randolph	pcnt_excessive_drinking	10
+05123	Arkansas	St. Francis	pcnt_excessive_drinking	9
+05125	Arkansas	Saline	pcnt_excessive_drinking	11
+05127	Arkansas	Scott	pcnt_excessive_drinking	8
+05129	Arkansas	Searcy	pcnt_excessive_drinking	9
+05131	Arkansas	Sebastian	pcnt_excessive_drinking	12
+05133	Arkansas	Sevier	pcnt_excessive_drinking	17
+05135	Arkansas	Sharp	pcnt_excessive_drinking	8
+05137	Arkansas	Stone	pcnt_excessive_drinking	11
+05139	Arkansas	Union	pcnt_excessive_drinking	12
+05141	Arkansas	Van Buren	pcnt_excessive_drinking	11
+05143	Arkansas	Washington	pcnt_excessive_drinking	15
+05145	Arkansas	White	pcnt_excessive_drinking	12
+05147	Arkansas	Woodruff	pcnt_excessive_drinking	2
+05149	Arkansas	Yell	pcnt_excessive_drinking	16
+06001	California	Alameda	pcnt_excessive_drinking	20
+06003	California	Alpine	pcnt_excessive_drinking	0
+06005	California	Amador	pcnt_excessive_drinking	16
+06007	California	Butte	pcnt_excessive_drinking	19
+06009	California	Calaveras	pcnt_excessive_drinking	23
+06011	California	Colusa	pcnt_excessive_drinking	
+06013	California	Contra Costa	pcnt_excessive_drinking	19
+06015	California	Del Norte	pcnt_excessive_drinking	9
+06017	California	El Dorado	pcnt_excessive_drinking	19
+06019	California	Fresno	pcnt_excessive_drinking	17
+06021	California	Glenn	pcnt_excessive_drinking	
+06023	California	Humboldt	pcnt_excessive_drinking	21
+06025	California	Imperial	pcnt_excessive_drinking	15
+06027	California	Inyo	pcnt_excessive_drinking	
+06029	California	Kern	pcnt_excessive_drinking	16
+06031	California	Kings	pcnt_excessive_drinking	16
+06033	California	Lake	pcnt_excessive_drinking	22
+06035	California	Lassen	pcnt_excessive_drinking	22
+06037	California	Los Angeles	pcnt_excessive_drinking	16
+06039	California	Madera	pcnt_excessive_drinking	15
+06041	California	Marin	pcnt_excessive_drinking	25
+06043	California	Mariposa	pcnt_excessive_drinking	
+06045	California	Mendocino	pcnt_excessive_drinking	25
+06047	California	Merced	pcnt_excessive_drinking	13
+06049	California	Modoc	pcnt_excessive_drinking	
+06051	California	Mono	pcnt_excessive_drinking	
+06053	California	Monterey	pcnt_excessive_drinking	15
+06055	California	Napa	pcnt_excessive_drinking	23
+06057	California	Nevada	pcnt_excessive_drinking	19
+06059	California	Orange	pcnt_excessive_drinking	17
+06061	California	Placer	pcnt_excessive_drinking	17
+06063	California	Plumas	pcnt_excessive_drinking	21
+06065	California	Riverside	pcnt_excessive_drinking	17
+06067	California	Sacramento	pcnt_excessive_drinking	18
+06069	California	San Benito	pcnt_excessive_drinking	
+06071	California	San Bernardino	pcnt_excessive_drinking	17
+06073	California	San Diego	pcnt_excessive_drinking	17
+06075	California	San Francisco	pcnt_excessive_drinking	21
+06077	California	San Joaquin	pcnt_excessive_drinking	18
+06079	California	San Luis Obispo	pcnt_excessive_drinking	20
+06081	California	San Mateo	pcnt_excessive_drinking	19
+06083	California	Santa Barbara	pcnt_excessive_drinking	18
+06085	California	Santa Clara	pcnt_excessive_drinking	14
+06087	California	Santa Cruz	pcnt_excessive_drinking	18
+06089	California	Shasta	pcnt_excessive_drinking	20
+06091	California	Sierra	pcnt_excessive_drinking	
+06093	California	Siskiyou	pcnt_excessive_drinking	20
+06095	California	Solano	pcnt_excessive_drinking	18
+06097	California	Sonoma	pcnt_excessive_drinking	22
+06099	California	Stanislaus	pcnt_excessive_drinking	18
+06101	California	Sutter	pcnt_excessive_drinking	13
+06103	California	Tehama	pcnt_excessive_drinking	19
+06105	California	Trinity	pcnt_excessive_drinking	14
+06107	California	Tulare	pcnt_excessive_drinking	19
+06109	California	Tuolumne	pcnt_excessive_drinking	26
+06111	California	Ventura	pcnt_excessive_drinking	18
+06113	California	Yolo	pcnt_excessive_drinking	17
+06115	California	Yuba	pcnt_excessive_drinking	16
+08001	Colorado	Adams	pcnt_excessive_drinking	19
+08003	Colorado	Alamosa	pcnt_excessive_drinking	12
+08005	Colorado	Arapahoe	pcnt_excessive_drinking	17
+08007	Colorado	Archuleta	pcnt_excessive_drinking	15
+08009	Colorado	Baca	pcnt_excessive_drinking	10
+08011	Colorado	Bent	pcnt_excessive_drinking	
+08013	Colorado	Boulder	pcnt_excessive_drinking	17
+08014	Colorado	Broomfield	pcnt_excessive_drinking	15
+08015	Colorado	Chaffee	pcnt_excessive_drinking	12
+08017	Colorado	Cheyenne	pcnt_excessive_drinking	
+08019	Colorado	Clear Creek	pcnt_excessive_drinking	21
+08021	Colorado	Conejos	pcnt_excessive_drinking	15
+08023	Colorado	Costilla	pcnt_excessive_drinking	5
+08025	Colorado	Crowley	pcnt_excessive_drinking	
+08027	Colorado	Custer	pcnt_excessive_drinking	22
+08029	Colorado	Delta	pcnt_excessive_drinking	16
+08031	Colorado	Denver	pcnt_excessive_drinking	23
+08033	Colorado	Dolores	pcnt_excessive_drinking	17
+08035	Colorado	Douglas	pcnt_excessive_drinking	17
+08037	Colorado	Eagle	pcnt_excessive_drinking	22
+08039	Colorado	Elbert	pcnt_excessive_drinking	18
+08041	Colorado	El Paso	pcnt_excessive_drinking	15
+08043	Colorado	Fremont	pcnt_excessive_drinking	13
+08045	Colorado	Garfield	pcnt_excessive_drinking	19
+08047	Colorado	Gilpin	pcnt_excessive_drinking	18
+08049	Colorado	Grand	pcnt_excessive_drinking	23
+08051	Colorado	Gunnison	pcnt_excessive_drinking	25
+08053	Colorado	Hinsdale	pcnt_excessive_drinking	
+08055	Colorado	Huerfano	pcnt_excessive_drinking	
+08057	Colorado	Jackson	pcnt_excessive_drinking	17
+08059	Colorado	Jefferson	pcnt_excessive_drinking	20
+08061	Colorado	Kiowa	pcnt_excessive_drinking	
+08063	Colorado	Kit Carson	pcnt_excessive_drinking	16
+08065	Colorado	Lake	pcnt_excessive_drinking	20
+08067	Colorado	La Plata	pcnt_excessive_drinking	21
+08069	Colorado	Larimer	pcnt_excessive_drinking	17
+08071	Colorado	Las Animas	pcnt_excessive_drinking	17
+08073	Colorado	Lincoln	pcnt_excessive_drinking	12
+08075	Colorado	Logan	pcnt_excessive_drinking	18
+08077	Colorado	Mesa	pcnt_excessive_drinking	18
+08079	Colorado	Mineral	pcnt_excessive_drinking	
+08081	Colorado	Moffat	pcnt_excessive_drinking	30
+08083	Colorado	Montezuma	pcnt_excessive_drinking	17
+08085	Colorado	Montrose	pcnt_excessive_drinking	14
+08087	Colorado	Morgan	pcnt_excessive_drinking	17
+08089	Colorado	Otero	pcnt_excessive_drinking	13
+08091	Colorado	Ouray	pcnt_excessive_drinking	
+08093	Colorado	Park	pcnt_excessive_drinking	19
+08095	Colorado	Phillips	pcnt_excessive_drinking	
+08097	Colorado	Pitkin	pcnt_excessive_drinking	30
+08099	Colorado	Prowers	pcnt_excessive_drinking	11
+08101	Colorado	Pueblo	pcnt_excessive_drinking	15
+08103	Colorado	Rio Blanco	pcnt_excessive_drinking	16
+08105	Colorado	Rio Grande	pcnt_excessive_drinking	6
+08107	Colorado	Routt	pcnt_excessive_drinking	31
+08109	Colorado	Saguache	pcnt_excessive_drinking	14
+08111	Colorado	San Juan	pcnt_excessive_drinking	
+08113	Colorado	San Miguel	pcnt_excessive_drinking	
+08115	Colorado	Sedgwick	pcnt_excessive_drinking	
+08117	Colorado	Summit	pcnt_excessive_drinking	
+08119	Colorado	Teller	pcnt_excessive_drinking	12
+08121	Colorado	Washington	pcnt_excessive_drinking	12
+08123	Colorado	Weld	pcnt_excessive_drinking	17
+08125	Colorado	Yuma	pcnt_excessive_drinking	6
+09001	Connecticut	Fairfield	pcnt_excessive_drinking	20
+09003	Connecticut	Hartford	pcnt_excessive_drinking	18
+09005	Connecticut	Litchfield	pcnt_excessive_drinking	18
+09007	Connecticut	Middlesex	pcnt_excessive_drinking	18
+09009	Connecticut	New Haven	pcnt_excessive_drinking	19
+09011	Connecticut	New London	pcnt_excessive_drinking	18
+09013	Connecticut	Tolland	pcnt_excessive_drinking	19
+09015	Connecticut	Windham	pcnt_excessive_drinking	17
+10001	Delaware	Kent	pcnt_excessive_drinking	16
+10003	Delaware	New Castle	pcnt_excessive_drinking	21
+10005	Delaware	Sussex	pcnt_excessive_drinking	18
+11001	District of Columbia	District of Columbia	pcnt_excessive_drinking	19
+12001	Florida	Alachua	pcnt_excessive_drinking	16
+12003	Florida	Baker	pcnt_excessive_drinking	15
+12005	Florida	Bay	pcnt_excessive_drinking	18
+12007	Florida	Bradford	pcnt_excessive_drinking	20
+12009	Florida	Brevard	pcnt_excessive_drinking	20
+12011	Florida	Broward	pcnt_excessive_drinking	15
+12013	Florida	Calhoun	pcnt_excessive_drinking	14
+12015	Florida	Charlotte	pcnt_excessive_drinking	15
+12017	Florida	Citrus	pcnt_excessive_drinking	14
+12019	Florida	Clay	pcnt_excessive_drinking	16
+12021	Florida	Collier	pcnt_excessive_drinking	17
+12023	Florida	Columbia	pcnt_excessive_drinking	16
+12027	Florida	DeSoto	pcnt_excessive_drinking	17
+12029	Florida	Dixie	pcnt_excessive_drinking	12
+12031	Florida	Duval	pcnt_excessive_drinking	17
+12033	Florida	Escambia	pcnt_excessive_drinking	16
+12035	Florida	Flagler	pcnt_excessive_drinking	14
+12037	Florida	Franklin	pcnt_excessive_drinking	20
+12039	Florida	Gadsden	pcnt_excessive_drinking	12
+12041	Florida	Gilchrist	pcnt_excessive_drinking	20
+12043	Florida	Glades	pcnt_excessive_drinking	16
+12045	Florida	Gulf	pcnt_excessive_drinking	19
+12047	Florida	Hamilton	pcnt_excessive_drinking	12
+12049	Florida	Hardee	pcnt_excessive_drinking	10
+12051	Florida	Hendry	pcnt_excessive_drinking	14
+12053	Florida	Hernando	pcnt_excessive_drinking	14
+12055	Florida	Highlands	pcnt_excessive_drinking	12
+12057	Florida	Hillsborough	pcnt_excessive_drinking	17
+12059	Florida	Holmes	pcnt_excessive_drinking	10
+12061	Florida	Indian River	pcnt_excessive_drinking	16
+12063	Florida	Jackson	pcnt_excessive_drinking	10
+12065	Florida	Jefferson	pcnt_excessive_drinking	10
+12067	Florida	Lafayette	pcnt_excessive_drinking	10
+12069	Florida	Lake	pcnt_excessive_drinking	13
+12071	Florida	Lee	pcnt_excessive_drinking	18
+12073	Florida	Leon	pcnt_excessive_drinking	19
+12075	Florida	Levy	pcnt_excessive_drinking	13
+12077	Florida	Liberty	pcnt_excessive_drinking	16
+12079	Florida	Madison	pcnt_excessive_drinking	18
+12081	Florida	Manatee	pcnt_excessive_drinking	16
+12083	Florida	Marion	pcnt_excessive_drinking	15
+12085	Florida	Martin	pcnt_excessive_drinking	16
+12086	Florida	Miami-Dade	pcnt_excessive_drinking	13
+12087	Florida	Monroe	pcnt_excessive_drinking	25
+12089	Florida	Nassau	pcnt_excessive_drinking	13
+12091	Florida	Okaloosa	pcnt_excessive_drinking	17
+12093	Florida	Okeechobee	pcnt_excessive_drinking	14
+12095	Florida	Orange	pcnt_excessive_drinking	17
+12097	Florida	Osceola	pcnt_excessive_drinking	15
+12099	Florida	Palm Beach	pcnt_excessive_drinking	15
+12101	Florida	Pasco	pcnt_excessive_drinking	17
+12103	Florida	Pinellas	pcnt_excessive_drinking	18
+12105	Florida	Polk	pcnt_excessive_drinking	13
+12107	Florida	Putnam	pcnt_excessive_drinking	15
+12109	Florida	St. Johns	pcnt_excessive_drinking	21
+12111	Florida	St. Lucie	pcnt_excessive_drinking	12
+12113	Florida	Santa Rosa	pcnt_excessive_drinking	16
+12115	Florida	Sarasota	pcnt_excessive_drinking	16
+12117	Florida	Seminole	pcnt_excessive_drinking	20
+12119	Florida	Sumter	pcnt_excessive_drinking	13
+12121	Florida	Suwannee	pcnt_excessive_drinking	15
+12123	Florida	Taylor	pcnt_excessive_drinking	12
+12125	Florida	Union	pcnt_excessive_drinking	19
+12127	Florida	Volusia	pcnt_excessive_drinking	18
+12129	Florida	Wakulla	pcnt_excessive_drinking	20
+12131	Florida	Walton	pcnt_excessive_drinking	19
+12133	Florida	Washington	pcnt_excessive_drinking	11
+13001	Georgia	Appling	pcnt_excessive_drinking	10
+13003	Georgia	Atkinson	pcnt_excessive_drinking	4
+13005	Georgia	Bacon	pcnt_excessive_drinking	10
+13007	Georgia	Baker	pcnt_excessive_drinking	
+13009	Georgia	Baldwin	pcnt_excessive_drinking	14
+13011	Georgia	Banks	pcnt_excessive_drinking	7
+13013	Georgia	Barrow	pcnt_excessive_drinking	17
+13015	Georgia	Bartow	pcnt_excessive_drinking	14
+13017	Georgia	Ben Hill	pcnt_excessive_drinking	7
+13019	Georgia	Berrien	pcnt_excessive_drinking	14
+13021	Georgia	Bibb	pcnt_excessive_drinking	11
+13023	Georgia	Bleckley	pcnt_excessive_drinking	9
+13025	Georgia	Brantley	pcnt_excessive_drinking	5
+13027	Georgia	Brooks	pcnt_excessive_drinking	7
+13029	Georgia	Bryan	pcnt_excessive_drinking	15
+13031	Georgia	Bulloch	pcnt_excessive_drinking	14
+13033	Georgia	Burke	pcnt_excessive_drinking	10
+13035	Georgia	Butts	pcnt_excessive_drinking	
+13037	Georgia	Calhoun	pcnt_excessive_drinking	
+13039	Georgia	Camden	pcnt_excessive_drinking	17
+13043	Georgia	Candler	pcnt_excessive_drinking	6
+13045	Georgia	Carroll	pcnt_excessive_drinking	13
+13047	Georgia	Catoosa	pcnt_excessive_drinking	15
+13049	Georgia	Charlton	pcnt_excessive_drinking	10
+13051	Georgia	Chatham	pcnt_excessive_drinking	18
+13053	Georgia	Chattahoochee	pcnt_excessive_drinking	
+13055	Georgia	Chattooga	pcnt_excessive_drinking	9
+13057	Georgia	Cherokee	pcnt_excessive_drinking	17
+13059	Georgia	Clarke	pcnt_excessive_drinking	13
+13061	Georgia	Clay	pcnt_excessive_drinking	
+13063	Georgia	Clayton	pcnt_excessive_drinking	10
+13065	Georgia	Clinch	pcnt_excessive_drinking	
+13067	Georgia	Cobb	pcnt_excessive_drinking	16
+13069	Georgia	Coffee	pcnt_excessive_drinking	12
+13071	Georgia	Colquitt	pcnt_excessive_drinking	10
+13073	Georgia	Columbia	pcnt_excessive_drinking	12
+13075	Georgia	Cook	pcnt_excessive_drinking	14
+13077	Georgia	Coweta	pcnt_excessive_drinking	15
+13079	Georgia	Crawford	pcnt_excessive_drinking	5
+13081	Georgia	Crisp	pcnt_excessive_drinking	6
+13083	Georgia	Dade	pcnt_excessive_drinking	
+13085	Georgia	Dawson	pcnt_excessive_drinking	
+13087	Georgia	Decatur	pcnt_excessive_drinking	12
+13089	Georgia	DeKalb	pcnt_excessive_drinking	14
+13091	Georgia	Dodge	pcnt_excessive_drinking	13
+13093	Georgia	Dooly	pcnt_excessive_drinking	5
+13095	Georgia	Dougherty	pcnt_excessive_drinking	12
+13097	Georgia	Douglas	pcnt_excessive_drinking	9
+13099	Georgia	Early	pcnt_excessive_drinking	6
+13101	Georgia	Echols	pcnt_excessive_drinking	
+13103	Georgia	Effingham	pcnt_excessive_drinking	18
+13105	Georgia	Elbert	pcnt_excessive_drinking	10
+13107	Georgia	Emanuel	pcnt_excessive_drinking	8
+13109	Georgia	Evans	pcnt_excessive_drinking	
+13111	Georgia	Fannin	pcnt_excessive_drinking	13
+13113	Georgia	Fayette	pcnt_excessive_drinking	15
+13115	Georgia	Floyd	pcnt_excessive_drinking	9
+13117	Georgia	Forsyth	pcnt_excessive_drinking	18
+13119	Georgia	Franklin	pcnt_excessive_drinking	5
+13121	Georgia	Fulton	pcnt_excessive_drinking	17
+13123	Georgia	Gilmer	pcnt_excessive_drinking	9
+13125	Georgia	Glascock	pcnt_excessive_drinking	
+13127	Georgia	Glynn	pcnt_excessive_drinking	15
+13129	Georgia	Gordon	pcnt_excessive_drinking	12
+13131	Georgia	Grady	pcnt_excessive_drinking	9
+13133	Georgia	Greene	pcnt_excessive_drinking	10
+13135	Georgia	Gwinnett	pcnt_excessive_drinking	16
+13137	Georgia	Habersham	pcnt_excessive_drinking	8
+13139	Georgia	Hall	pcnt_excessive_drinking	16
+13141	Georgia	Hancock	pcnt_excessive_drinking	
+13143	Georgia	Haralson	pcnt_excessive_drinking	18
+13145	Georgia	Harris	pcnt_excessive_drinking	17
+13147	Georgia	Hart	pcnt_excessive_drinking	13
+13149	Georgia	Heard	pcnt_excessive_drinking	1
+13151	Georgia	Henry	pcnt_excessive_drinking	13
+13153	Georgia	Houston	pcnt_excessive_drinking	13
+13155	Georgia	Irwin	pcnt_excessive_drinking	
+13157	Georgia	Jackson	pcnt_excessive_drinking	10
+13159	Georgia	Jasper	pcnt_excessive_drinking	
+13161	Georgia	Jeff Davis	pcnt_excessive_drinking	
+13163	Georgia	Jefferson	pcnt_excessive_drinking	8
+13165	Georgia	Jenkins	pcnt_excessive_drinking	1
+13167	Georgia	Johnson	pcnt_excessive_drinking	
+13169	Georgia	Jones	pcnt_excessive_drinking	13
+13171	Georgia	Lamar	pcnt_excessive_drinking	
+13173	Georgia	Lanier	pcnt_excessive_drinking	
+13175	Georgia	Laurens	pcnt_excessive_drinking	10
+13177	Georgia	Lee	pcnt_excessive_drinking	13
+13179	Georgia	Liberty	pcnt_excessive_drinking	21
+13181	Georgia	Lincoln	pcnt_excessive_drinking	5
+13183	Georgia	Long	pcnt_excessive_drinking	
+13185	Georgia	Lowndes	pcnt_excessive_drinking	14
+13187	Georgia	Lumpkin	pcnt_excessive_drinking	
+13189	Georgia	McDuffie	pcnt_excessive_drinking	5
+13191	Georgia	McIntosh	pcnt_excessive_drinking	9
+13193	Georgia	Macon	pcnt_excessive_drinking	10
+13195	Georgia	Madison	pcnt_excessive_drinking	14
+13197	Georgia	Marion	pcnt_excessive_drinking	
+13199	Georgia	Meriwether	pcnt_excessive_drinking	
+13201	Georgia	Miller	pcnt_excessive_drinking	6
+13205	Georgia	Mitchell	pcnt_excessive_drinking	7
+13207	Georgia	Monroe	pcnt_excessive_drinking	
+13209	Georgia	Montgomery	pcnt_excessive_drinking	7
+13211	Georgia	Morgan	pcnt_excessive_drinking	11
+13213	Georgia	Murray	pcnt_excessive_drinking	12
+13215	Georgia	Muscogee	pcnt_excessive_drinking	18
+13217	Georgia	Newton	pcnt_excessive_drinking	12
+13219	Georgia	Oconee	pcnt_excessive_drinking	14
+13221	Georgia	Oglethorpe	pcnt_excessive_drinking	
+13223	Georgia	Paulding	pcnt_excessive_drinking	12
+13225	Georgia	Peach	pcnt_excessive_drinking	7
+13227	Georgia	Pickens	pcnt_excessive_drinking	13
+13229	Georgia	Pierce	pcnt_excessive_drinking	
+13231	Georgia	Pike	pcnt_excessive_drinking	6
+13233	Georgia	Polk	pcnt_excessive_drinking	7
+13235	Georgia	Pulaski	pcnt_excessive_drinking	8
+13237	Georgia	Putnam	pcnt_excessive_drinking	10
+13239	Georgia	Quitman	pcnt_excessive_drinking	
+13241	Georgia	Rabun	pcnt_excessive_drinking	6
+13243	Georgia	Randolph	pcnt_excessive_drinking	3
+13245	Georgia	Richmond	pcnt_excessive_drinking	18
+13247	Georgia	Rockdale	pcnt_excessive_drinking	15
+13249	Georgia	Schley	pcnt_excessive_drinking	
+13251	Georgia	Screven	pcnt_excessive_drinking	8
+13253	Georgia	Seminole	pcnt_excessive_drinking	4
+13255	Georgia	Spalding	pcnt_excessive_drinking	10
+13257	Georgia	Stephens	pcnt_excessive_drinking	7
+13259	Georgia	Stewart	pcnt_excessive_drinking	
+13261	Georgia	Sumter	pcnt_excessive_drinking	12
+13263	Georgia	Talbot	pcnt_excessive_drinking	
+13265	Georgia	Taliaferro	pcnt_excessive_drinking	
+13267	Georgia	Tattnall	pcnt_excessive_drinking	15
+13269	Georgia	Taylor	pcnt_excessive_drinking	
+13271	Georgia	Telfair	pcnt_excessive_drinking	7
+13273	Georgia	Terrell	pcnt_excessive_drinking	
+13275	Georgia	Thomas	pcnt_excessive_drinking	12
+13277	Georgia	Tift	pcnt_excessive_drinking	7
+13279	Georgia	Toombs	pcnt_excessive_drinking	14
+13281	Georgia	Towns	pcnt_excessive_drinking	7
+13283	Georgia	Treutlen	pcnt_excessive_drinking	9
+13285	Georgia	Troup	pcnt_excessive_drinking	13
+13287	Georgia	Turner	pcnt_excessive_drinking	13
+13289	Georgia	Twiggs	pcnt_excessive_drinking	1
+13291	Georgia	Union	pcnt_excessive_drinking	6
+13293	Georgia	Upson	pcnt_excessive_drinking	
+13295	Georgia	Walker	pcnt_excessive_drinking	10
+13297	Georgia	Walton	pcnt_excessive_drinking	11
+13299	Georgia	Ware	pcnt_excessive_drinking	9
+13301	Georgia	Warren	pcnt_excessive_drinking	
+13303	Georgia	Washington	pcnt_excessive_drinking	
+13305	Georgia	Wayne	pcnt_excessive_drinking	6
+13307	Georgia	Webster	pcnt_excessive_drinking	
+13309	Georgia	Wheeler	pcnt_excessive_drinking	
+13311	Georgia	White	pcnt_excessive_drinking	5
+13313	Georgia	Whitfield	pcnt_excessive_drinking	11
+13315	Georgia	Wilcox	pcnt_excessive_drinking	4
+13317	Georgia	Wilkes	pcnt_excessive_drinking	
+13319	Georgia	Wilkinson	pcnt_excessive_drinking	3
+13321	Georgia	Worth	pcnt_excessive_drinking	7
+15001	Hawaii	Hawaii	pcnt_excessive_drinking	21
+15003	Hawaii	Honolulu	pcnt_excessive_drinking	19
+15005	Hawaii	Kalawao	pcnt_excessive_drinking	
+15007	Hawaii	Kauai	pcnt_excessive_drinking	21
+15009	Hawaii	Maui	pcnt_excessive_drinking	21
+16001	Idaho	Ada	pcnt_excessive_drinking	17
+16003	Idaho	Adams	pcnt_excessive_drinking	20
+16005	Idaho	Bannock	pcnt_excessive_drinking	14
+16007	Idaho	Bear Lake	pcnt_excessive_drinking	5
+16009	Idaho	Benewah	pcnt_excessive_drinking	20
+16011	Idaho	Bingham	pcnt_excessive_drinking	10
+16013	Idaho	Blaine	pcnt_excessive_drinking	26
+16015	Idaho	Boise	pcnt_excessive_drinking	20
+16017	Idaho	Bonner	pcnt_excessive_drinking	19
+16019	Idaho	Bonneville	pcnt_excessive_drinking	9
+16021	Idaho	Boundary	pcnt_excessive_drinking	14
+16023	Idaho	Butte	pcnt_excessive_drinking	11
+16025	Idaho	Camas	pcnt_excessive_drinking	
+16027	Idaho	Canyon	pcnt_excessive_drinking	13
+16029	Idaho	Caribou	pcnt_excessive_drinking	8
+16031	Idaho	Cassia	pcnt_excessive_drinking	10
+16033	Idaho	Clark	pcnt_excessive_drinking	
+16035	Idaho	Clearwater	pcnt_excessive_drinking	13
+16037	Idaho	Custer	pcnt_excessive_drinking	20
+16039	Idaho	Elmore	pcnt_excessive_drinking	21
+16041	Idaho	Franklin	pcnt_excessive_drinking	6
+16043	Idaho	Fremont	pcnt_excessive_drinking	10
+16045	Idaho	Gem	pcnt_excessive_drinking	12
+16047	Idaho	Gooding	pcnt_excessive_drinking	13
+16049	Idaho	Idaho	pcnt_excessive_drinking	19
+16051	Idaho	Jefferson	pcnt_excessive_drinking	9
+16053	Idaho	Jerome	pcnt_excessive_drinking	15
+16055	Idaho	Kootenai	pcnt_excessive_drinking	16
+16057	Idaho	Latah	pcnt_excessive_drinking	19
+16059	Idaho	Lemhi	pcnt_excessive_drinking	14
+16061	Idaho	Lewis	pcnt_excessive_drinking	
+16063	Idaho	Lincoln	pcnt_excessive_drinking	
+16065	Idaho	Madison	pcnt_excessive_drinking	3
+16067	Idaho	Minidoka	pcnt_excessive_drinking	13
+16069	Idaho	Nez Perce	pcnt_excessive_drinking	17
+16071	Idaho	Oneida	pcnt_excessive_drinking	4
+16073	Idaho	Owyhee	pcnt_excessive_drinking	7
+16075	Idaho	Payette	pcnt_excessive_drinking	13
+16077	Idaho	Power	pcnt_excessive_drinking	10
+16079	Idaho	Shoshone	pcnt_excessive_drinking	21
+16081	Idaho	Teton	pcnt_excessive_drinking	20
+16083	Idaho	Twin Falls	pcnt_excessive_drinking	13
+16085	Idaho	Valley	pcnt_excessive_drinking	19
+16087	Idaho	Washington	pcnt_excessive_drinking	10
+17001	Illinois	Adams	pcnt_excessive_drinking	16
+17003	Illinois	Alexander	pcnt_excessive_drinking	
+17005	Illinois	Bond	pcnt_excessive_drinking	
+17007	Illinois	Boone	pcnt_excessive_drinking	13
+17009	Illinois	Brown	pcnt_excessive_drinking	0
+17011	Illinois	Bureau	pcnt_excessive_drinking	16
+17013	Illinois	Calhoun	pcnt_excessive_drinking	
+17015	Illinois	Carroll	pcnt_excessive_drinking	
+17017	Illinois	Cass	pcnt_excessive_drinking	
+17019	Illinois	Champaign	pcnt_excessive_drinking	17
+17021	Illinois	Christian	pcnt_excessive_drinking	14
+17023	Illinois	Clark	pcnt_excessive_drinking	
+17025	Illinois	Clay	pcnt_excessive_drinking	
+17027	Illinois	Clinton	pcnt_excessive_drinking	18
+17029	Illinois	Coles	pcnt_excessive_drinking	16
+17031	Illinois	Cook	pcnt_excessive_drinking	21
+17033	Illinois	Crawford	pcnt_excessive_drinking	
+17035	Illinois	Cumberland	pcnt_excessive_drinking	
+17037	Illinois	DeKalb	pcnt_excessive_drinking	21
+17039	Illinois	De Witt	pcnt_excessive_drinking	
+17041	Illinois	Douglas	pcnt_excessive_drinking	12
+17043	Illinois	DuPage	pcnt_excessive_drinking	20
+17045	Illinois	Edgar	pcnt_excessive_drinking	6
+17047	Illinois	Edwards	pcnt_excessive_drinking	
+17049	Illinois	Effingham	pcnt_excessive_drinking	
+17051	Illinois	Fayette	pcnt_excessive_drinking	10
+17053	Illinois	Ford	pcnt_excessive_drinking	
+17055	Illinois	Franklin	pcnt_excessive_drinking	13
+17057	Illinois	Fulton	pcnt_excessive_drinking	13
+17059	Illinois	Gallatin	pcnt_excessive_drinking	
+17061	Illinois	Greene	pcnt_excessive_drinking	
+17063	Illinois	Grundy	pcnt_excessive_drinking	26
+17065	Illinois	Hamilton	pcnt_excessive_drinking	3
+17067	Illinois	Hancock	pcnt_excessive_drinking	
+17069	Illinois	Hardin	pcnt_excessive_drinking	
+17071	Illinois	Henderson	pcnt_excessive_drinking	
+17073	Illinois	Henry	pcnt_excessive_drinking	19
+17075	Illinois	Iroquois	pcnt_excessive_drinking	21
+17077	Illinois	Jackson	pcnt_excessive_drinking	
+17079	Illinois	Jasper	pcnt_excessive_drinking	
+17081	Illinois	Jefferson	pcnt_excessive_drinking	
+17083	Illinois	Jersey	pcnt_excessive_drinking	
+17085	Illinois	Jo Daviess	pcnt_excessive_drinking	
+17087	Illinois	Johnson	pcnt_excessive_drinking	
+17089	Illinois	Kane	pcnt_excessive_drinking	21
+17091	Illinois	Kankakee	pcnt_excessive_drinking	14
+17093	Illinois	Kendall	pcnt_excessive_drinking	19
+17095	Illinois	Knox	pcnt_excessive_drinking	21
+17097	Illinois	Lake	pcnt_excessive_drinking	18
+17099	Illinois	LaSalle	pcnt_excessive_drinking	23
+17101	Illinois	Lawrence	pcnt_excessive_drinking	
+17103	Illinois	Lee	pcnt_excessive_drinking	
+17105	Illinois	Livingston	pcnt_excessive_drinking	24
+17107	Illinois	Logan	pcnt_excessive_drinking	
+17109	Illinois	McDonough	pcnt_excessive_drinking	
+17111	Illinois	McHenry	pcnt_excessive_drinking	20
+17113	Illinois	McLean	pcnt_excessive_drinking	15
+17115	Illinois	Macon	pcnt_excessive_drinking	16
+17117	Illinois	Macoupin	pcnt_excessive_drinking	18
+17119	Illinois	Madison	pcnt_excessive_drinking	25
+17121	Illinois	Marion	pcnt_excessive_drinking	12
+17123	Illinois	Marshall	pcnt_excessive_drinking	
+17125	Illinois	Mason	pcnt_excessive_drinking	10
+17127	Illinois	Massac	pcnt_excessive_drinking	
+17129	Illinois	Menard	pcnt_excessive_drinking	
+17131	Illinois	Mercer	pcnt_excessive_drinking	13
+17133	Illinois	Monroe	pcnt_excessive_drinking	
+17135	Illinois	Montgomery	pcnt_excessive_drinking	20
+17137	Illinois	Morgan	pcnt_excessive_drinking	
+17139	Illinois	Moultrie	pcnt_excessive_drinking	10
+17141	Illinois	Ogle	pcnt_excessive_drinking	20
+17143	Illinois	Peoria	pcnt_excessive_drinking	20
+17145	Illinois	Perry	pcnt_excessive_drinking	
+17147	Illinois	Piatt	pcnt_excessive_drinking	
+17149	Illinois	Pike	pcnt_excessive_drinking	
+17151	Illinois	Pope	pcnt_excessive_drinking	
+17153	Illinois	Pulaski	pcnt_excessive_drinking	
+17155	Illinois	Putnam	pcnt_excessive_drinking	
+17157	Illinois	Randolph	pcnt_excessive_drinking	
+17159	Illinois	Richland	pcnt_excessive_drinking	13
+17161	Illinois	Rock Island	pcnt_excessive_drinking	15
+17163	Illinois	St. Clair	pcnt_excessive_drinking	17
+17165	Illinois	Saline	pcnt_excessive_drinking	3
+17167	Illinois	Sangamon	pcnt_excessive_drinking	19
+17169	Illinois	Schuyler	pcnt_excessive_drinking	4
+17171	Illinois	Scott	pcnt_excessive_drinking	
+17173	Illinois	Shelby	pcnt_excessive_drinking	11
+17175	Illinois	Stark	pcnt_excessive_drinking	
+17177	Illinois	Stephenson	pcnt_excessive_drinking	20
+17179	Illinois	Tazewell	pcnt_excessive_drinking	15
+17181	Illinois	Union	pcnt_excessive_drinking	
+17183	Illinois	Vermilion	pcnt_excessive_drinking	19
+17185	Illinois	Wabash	pcnt_excessive_drinking	
+17187	Illinois	Warren	pcnt_excessive_drinking	
+17189	Illinois	Washington	pcnt_excessive_drinking	
+17191	Illinois	Wayne	pcnt_excessive_drinking	
+17193	Illinois	White	pcnt_excessive_drinking	
+17195	Illinois	Whiteside	pcnt_excessive_drinking	18
+17197	Illinois	Will	pcnt_excessive_drinking	22
+17199	Illinois	Williamson	pcnt_excessive_drinking	13
+17201	Illinois	Winnebago	pcnt_excessive_drinking	18
+17203	Illinois	Woodford	pcnt_excessive_drinking	19
+18001	Indiana	Adams	pcnt_excessive_drinking	16
+18003	Indiana	Allen	pcnt_excessive_drinking	17
+18005	Indiana	Bartholomew	pcnt_excessive_drinking	14
+18007	Indiana	Benton	pcnt_excessive_drinking	12
+18009	Indiana	Blackford	pcnt_excessive_drinking	12
+18011	Indiana	Boone	pcnt_excessive_drinking	19
+18013	Indiana	Brown	pcnt_excessive_drinking	15
+18015	Indiana	Carroll	pcnt_excessive_drinking	14
+18017	Indiana	Cass	pcnt_excessive_drinking	13
+18019	Indiana	Clark	pcnt_excessive_drinking	16
+18021	Indiana	Clay	pcnt_excessive_drinking	12
+18023	Indiana	Clinton	pcnt_excessive_drinking	10
+18025	Indiana	Crawford	pcnt_excessive_drinking	8
+18027	Indiana	Daviess	pcnt_excessive_drinking	17
+18029	Indiana	Dearborn	pcnt_excessive_drinking	18
+18031	Indiana	Decatur	pcnt_excessive_drinking	13
+18033	Indiana	DeKalb	pcnt_excessive_drinking	11
+18035	Indiana	Delaware	pcnt_excessive_drinking	13
+18037	Indiana	Dubois	pcnt_excessive_drinking	21
+18039	Indiana	Elkhart	pcnt_excessive_drinking	12
+18041	Indiana	Fayette	pcnt_excessive_drinking	12
+18043	Indiana	Floyd	pcnt_excessive_drinking	16
+18045	Indiana	Fountain	pcnt_excessive_drinking	14
+18047	Indiana	Franklin	pcnt_excessive_drinking	20
+18049	Indiana	Fulton	pcnt_excessive_drinking	13
+18051	Indiana	Gibson	pcnt_excessive_drinking	12
+18053	Indiana	Grant	pcnt_excessive_drinking	13
+18055	Indiana	Greene	pcnt_excessive_drinking	14
+18057	Indiana	Hamilton	pcnt_excessive_drinking	18
+18059	Indiana	Hancock	pcnt_excessive_drinking	19
+18061	Indiana	Harrison	pcnt_excessive_drinking	20
+18063	Indiana	Hendricks	pcnt_excessive_drinking	15
+18065	Indiana	Henry	pcnt_excessive_drinking	10
+18067	Indiana	Howard	pcnt_excessive_drinking	13
+18069	Indiana	Huntington	pcnt_excessive_drinking	20
+18071	Indiana	Jackson	pcnt_excessive_drinking	15
+18073	Indiana	Jasper	pcnt_excessive_drinking	17
+18075	Indiana	Jay	pcnt_excessive_drinking	9
+18077	Indiana	Jefferson	pcnt_excessive_drinking	16
+18079	Indiana	Jennings	pcnt_excessive_drinking	15
+18081	Indiana	Johnson	pcnt_excessive_drinking	18
+18083	Indiana	Knox	pcnt_excessive_drinking	15
+18085	Indiana	Kosciusko	pcnt_excessive_drinking	11
+18087	Indiana	LaGrange	pcnt_excessive_drinking	12
+18089	Indiana	Lake	pcnt_excessive_drinking	18
+18091	Indiana	LaPorte	pcnt_excessive_drinking	19
+18093	Indiana	Lawrence	pcnt_excessive_drinking	12
+18095	Indiana	Madison	pcnt_excessive_drinking	15
+18097	Indiana	Marion	pcnt_excessive_drinking	16
+18099	Indiana	Marshall	pcnt_excessive_drinking	12
+18101	Indiana	Martin	pcnt_excessive_drinking	15
+18103	Indiana	Miami	pcnt_excessive_drinking	21
+18105	Indiana	Monroe	pcnt_excessive_drinking	16
+18107	Indiana	Montgomery	pcnt_excessive_drinking	14
+18109	Indiana	Morgan	pcnt_excessive_drinking	19
+18111	Indiana	Newton	pcnt_excessive_drinking	
+18113	Indiana	Noble	pcnt_excessive_drinking	17
+18115	Indiana	Ohio	pcnt_excessive_drinking	
+18117	Indiana	Orange	pcnt_excessive_drinking	15
+18119	Indiana	Owen	pcnt_excessive_drinking	
+18121	Indiana	Parke	pcnt_excessive_drinking	13
+18123	Indiana	Perry	pcnt_excessive_drinking	18
+18125	Indiana	Pike	pcnt_excessive_drinking	
+18127	Indiana	Porter	pcnt_excessive_drinking	18
+18129	Indiana	Posey	pcnt_excessive_drinking	23
+18131	Indiana	Pulaski	pcnt_excessive_drinking	12
+18133	Indiana	Putnam	pcnt_excessive_drinking	10
+18135	Indiana	Randolph	pcnt_excessive_drinking	14
+18137	Indiana	Ripley	pcnt_excessive_drinking	25
+18139	Indiana	Rush	pcnt_excessive_drinking	8
+18141	Indiana	St. Joseph	pcnt_excessive_drinking	20
+18143	Indiana	Scott	pcnt_excessive_drinking	6
+18145	Indiana	Shelby	pcnt_excessive_drinking	19
+18147	Indiana	Spencer	pcnt_excessive_drinking	16
+18149	Indiana	Starke	pcnt_excessive_drinking	20
+18151	Indiana	Steuben	pcnt_excessive_drinking	22
+18153	Indiana	Sullivan	pcnt_excessive_drinking	17
+18155	Indiana	Switzerland	pcnt_excessive_drinking	19
+18157	Indiana	Tippecanoe	pcnt_excessive_drinking	18
+18159	Indiana	Tipton	pcnt_excessive_drinking	11
+18161	Indiana	Union	pcnt_excessive_drinking	7
+18163	Indiana	Vanderburgh	pcnt_excessive_drinking	15
+18165	Indiana	Vermillion	pcnt_excessive_drinking	
+18167	Indiana	Vigo	pcnt_excessive_drinking	17
+18169	Indiana	Wabash	pcnt_excessive_drinking	20
+18171	Indiana	Warren	pcnt_excessive_drinking	9
+18173	Indiana	Warrick	pcnt_excessive_drinking	14
+18175	Indiana	Washington	pcnt_excessive_drinking	12
+18177	Indiana	Wayne	pcnt_excessive_drinking	10
+18179	Indiana	Wells	pcnt_excessive_drinking	6
+18181	Indiana	White	pcnt_excessive_drinking	11
+18183	Indiana	Whitley	pcnt_excessive_drinking	22
+19001	Iowa	Adair	pcnt_excessive_drinking	16
+19003	Iowa	Adams	pcnt_excessive_drinking	11
+19005	Iowa	Allamakee	pcnt_excessive_drinking	24
+19007	Iowa	Appanoose	pcnt_excessive_drinking	
+19009	Iowa	Audubon	pcnt_excessive_drinking	18
+19011	Iowa	Benton	pcnt_excessive_drinking	20
+19013	Iowa	Black Hawk	pcnt_excessive_drinking	20
+19015	Iowa	Boone	pcnt_excessive_drinking	20
+19017	Iowa	Bremer	pcnt_excessive_drinking	24
+19019	Iowa	Buchanan	pcnt_excessive_drinking	24
+19021	Iowa	Buena Vista	pcnt_excessive_drinking	18
+19023	Iowa	Butler	pcnt_excessive_drinking	15
+19025	Iowa	Calhoun	pcnt_excessive_drinking	
+19027	Iowa	Carroll	pcnt_excessive_drinking	21
+19029	Iowa	Cass	pcnt_excessive_drinking	17
+19031	Iowa	Cedar	pcnt_excessive_drinking	22
+19033	Iowa	Cerro Gordo	pcnt_excessive_drinking	18
+19035	Iowa	Cherokee	pcnt_excessive_drinking	21
+19037	Iowa	Chickasaw	pcnt_excessive_drinking	29
+19039	Iowa	Clarke	pcnt_excessive_drinking	13
+19041	Iowa	Clay	pcnt_excessive_drinking	14
+19043	Iowa	Clayton	pcnt_excessive_drinking	32
+19045	Iowa	Clinton	pcnt_excessive_drinking	21
+19047	Iowa	Crawford	pcnt_excessive_drinking	15
+19049	Iowa	Dallas	pcnt_excessive_drinking	19
+19051	Iowa	Davis	pcnt_excessive_drinking	
+19053	Iowa	Decatur	pcnt_excessive_drinking	
+19055	Iowa	Delaware	pcnt_excessive_drinking	23
+19057	Iowa	Des Moines	pcnt_excessive_drinking	17
+19059	Iowa	Dickinson	pcnt_excessive_drinking	19
+19061	Iowa	Dubuque	pcnt_excessive_drinking	28
+19063	Iowa	Emmet	pcnt_excessive_drinking	24
+19065	Iowa	Fayette	pcnt_excessive_drinking	25
+19067	Iowa	Floyd	pcnt_excessive_drinking	22
+19069	Iowa	Franklin	pcnt_excessive_drinking	16
+19071	Iowa	Fremont	pcnt_excessive_drinking	15
+19073	Iowa	Greene	pcnt_excessive_drinking	
+19075	Iowa	Grundy	pcnt_excessive_drinking	21
+19077	Iowa	Guthrie	pcnt_excessive_drinking	16
+19079	Iowa	Hamilton	pcnt_excessive_drinking	14
+19081	Iowa	Hancock	pcnt_excessive_drinking	16
+19083	Iowa	Hardin	pcnt_excessive_drinking	16
+19085	Iowa	Harrison	pcnt_excessive_drinking	20
+19087	Iowa	Henry	pcnt_excessive_drinking	19
+19089	Iowa	Howard	pcnt_excessive_drinking	21
+19091	Iowa	Humboldt	pcnt_excessive_drinking	17
+19093	Iowa	Ida	pcnt_excessive_drinking	
+19095	Iowa	Iowa	pcnt_excessive_drinking	16
+19097	Iowa	Jackson	pcnt_excessive_drinking	28
+19099	Iowa	Jasper	pcnt_excessive_drinking	20
+19101	Iowa	Jefferson	pcnt_excessive_drinking	16
+19103	Iowa	Johnson	pcnt_excessive_drinking	22
+19105	Iowa	Jones	pcnt_excessive_drinking	28
+19107	Iowa	Keokuk	pcnt_excessive_drinking	21
+19109	Iowa	Kossuth	pcnt_excessive_drinking	18
+19111	Iowa	Lee	pcnt_excessive_drinking	23
+19113	Iowa	Linn	pcnt_excessive_drinking	21
+19115	Iowa	Louisa	pcnt_excessive_drinking	24
+19117	Iowa	Lucas	pcnt_excessive_drinking	
+19119	Iowa	Lyon	pcnt_excessive_drinking	16
+19121	Iowa	Madison	pcnt_excessive_drinking	14
+19123	Iowa	Mahaska	pcnt_excessive_drinking	9
+19125	Iowa	Marion	pcnt_excessive_drinking	11
+19127	Iowa	Marshall	pcnt_excessive_drinking	15
+19129	Iowa	Mills	pcnt_excessive_drinking	23
+19131	Iowa	Mitchell	pcnt_excessive_drinking	16
+19133	Iowa	Monona	pcnt_excessive_drinking	18
+19135	Iowa	Monroe	pcnt_excessive_drinking	
+19137	Iowa	Montgomery	pcnt_excessive_drinking	14
+19139	Iowa	Muscatine	pcnt_excessive_drinking	20
+19141	Iowa	O'Brien	pcnt_excessive_drinking	19
+19143	Iowa	Osceola	pcnt_excessive_drinking	
+19145	Iowa	Page	pcnt_excessive_drinking	18
+19147	Iowa	Palo Alto	pcnt_excessive_drinking	19
+19149	Iowa	Plymouth	pcnt_excessive_drinking	24
+19151	Iowa	Pocahontas	pcnt_excessive_drinking	21
+19153	Iowa	Polk	pcnt_excessive_drinking	19
+19155	Iowa	Pottawattamie	pcnt_excessive_drinking	21
+19157	Iowa	Poweshiek	pcnt_excessive_drinking	17
+19159	Iowa	Ringgold	pcnt_excessive_drinking	
+19161	Iowa	Sac	pcnt_excessive_drinking	24
+19163	Iowa	Scott	pcnt_excessive_drinking	24
+19165	Iowa	Shelby	pcnt_excessive_drinking	22
+19167	Iowa	Sioux	pcnt_excessive_drinking	14
+19169	Iowa	Story	pcnt_excessive_drinking	19
+19171	Iowa	Tama	pcnt_excessive_drinking	28
+19173	Iowa	Taylor	pcnt_excessive_drinking	11
+19175	Iowa	Union	pcnt_excessive_drinking	12
+19177	Iowa	Van Buren	pcnt_excessive_drinking	11
+19179	Iowa	Wapello	pcnt_excessive_drinking	14
+19181	Iowa	Warren	pcnt_excessive_drinking	21
+19183	Iowa	Washington	pcnt_excessive_drinking	16
+19185	Iowa	Wayne	pcnt_excessive_drinking	14
+19187	Iowa	Webster	pcnt_excessive_drinking	21
+19189	Iowa	Winnebago	pcnt_excessive_drinking	15
+19191	Iowa	Winneshiek	pcnt_excessive_drinking	20
+19193	Iowa	Woodbury	pcnt_excessive_drinking	20
+19195	Iowa	Worth	pcnt_excessive_drinking	11
+19197	Iowa	Wright	pcnt_excessive_drinking	25
+20001	Kansas	Allen	pcnt_excessive_drinking	11
+20003	Kansas	Anderson	pcnt_excessive_drinking	14
+20005	Kansas	Atchison	pcnt_excessive_drinking	19
+20007	Kansas	Barber	pcnt_excessive_drinking	12
+20009	Kansas	Barton	pcnt_excessive_drinking	15
+20011	Kansas	Bourbon	pcnt_excessive_drinking	9
+20013	Kansas	Brown	pcnt_excessive_drinking	11
+20015	Kansas	Butler	pcnt_excessive_drinking	13
+20017	Kansas	Chase	pcnt_excessive_drinking	14
+20019	Kansas	Chautauqua	pcnt_excessive_drinking	6
+20021	Kansas	Cherokee	pcnt_excessive_drinking	12
+20023	Kansas	Cheyenne	pcnt_excessive_drinking	
+20025	Kansas	Clark	pcnt_excessive_drinking	
+20027	Kansas	Clay	pcnt_excessive_drinking	16
+20029	Kansas	Cloud	pcnt_excessive_drinking	15
+20031	Kansas	Coffey	pcnt_excessive_drinking	15
+20033	Kansas	Comanche	pcnt_excessive_drinking	
+20035	Kansas	Cowley	pcnt_excessive_drinking	10
+20037	Kansas	Crawford	pcnt_excessive_drinking	15
+20039	Kansas	Decatur	pcnt_excessive_drinking	13
+20041	Kansas	Dickinson	pcnt_excessive_drinking	20
+20043	Kansas	Doniphan	pcnt_excessive_drinking	15
+20045	Kansas	Douglas	pcnt_excessive_drinking	19
+20047	Kansas	Edwards	pcnt_excessive_drinking	11
+20049	Kansas	Elk	pcnt_excessive_drinking	3
+20051	Kansas	Ellis	pcnt_excessive_drinking	23
+20053	Kansas	Ellsworth	pcnt_excessive_drinking	13
+20055	Kansas	Finney	pcnt_excessive_drinking	19
+20057	Kansas	Ford	pcnt_excessive_drinking	12
+20059	Kansas	Franklin	pcnt_excessive_drinking	12
+20061	Kansas	Geary	pcnt_excessive_drinking	14
+20063	Kansas	Gove	pcnt_excessive_drinking	6
+20065	Kansas	Graham	pcnt_excessive_drinking	9
+20067	Kansas	Grant	pcnt_excessive_drinking	15
+20069	Kansas	Gray	pcnt_excessive_drinking	15
+20071	Kansas	Greeley	pcnt_excessive_drinking	
+20073	Kansas	Greenwood	pcnt_excessive_drinking	13
+20075	Kansas	Hamilton	pcnt_excessive_drinking	
+20077	Kansas	Harper	pcnt_excessive_drinking	9
+20079	Kansas	Harvey	pcnt_excessive_drinking	10
+20081	Kansas	Haskell	pcnt_excessive_drinking	
+20083	Kansas	Hodgeman	pcnt_excessive_drinking	8
+20085	Kansas	Jackson	pcnt_excessive_drinking	14
+20087	Kansas	Jefferson	pcnt_excessive_drinking	19
+20089	Kansas	Jewell	pcnt_excessive_drinking	10
+20091	Kansas	Johnson	pcnt_excessive_drinking	18
+20093	Kansas	Kearny	pcnt_excessive_drinking	11
+20095	Kansas	Kingman	pcnt_excessive_drinking	12
+20097	Kansas	Kiowa	pcnt_excessive_drinking	8
+20099	Kansas	Labette	pcnt_excessive_drinking	15
+20101	Kansas	Lane	pcnt_excessive_drinking	
+20103	Kansas	Leavenworth	pcnt_excessive_drinking	16
+20105	Kansas	Lincoln	pcnt_excessive_drinking	11
+20107	Kansas	Linn	pcnt_excessive_drinking	7
+20109	Kansas	Logan	pcnt_excessive_drinking	
+20111	Kansas	Lyon	pcnt_excessive_drinking	14
+20113	Kansas	McPherson	pcnt_excessive_drinking	13
+20115	Kansas	Marion	pcnt_excessive_drinking	15
+20117	Kansas	Marshall	pcnt_excessive_drinking	21
+20119	Kansas	Meade	pcnt_excessive_drinking	12
+20121	Kansas	Miami	pcnt_excessive_drinking	14
+20123	Kansas	Mitchell	pcnt_excessive_drinking	14
+20125	Kansas	Montgomery	pcnt_excessive_drinking	12
+20127	Kansas	Morris	pcnt_excessive_drinking	18
+20129	Kansas	Morton	pcnt_excessive_drinking	
+20131	Kansas	Nemaha	pcnt_excessive_drinking	13
+20133	Kansas	Neosho	pcnt_excessive_drinking	18
+20135	Kansas	Ness	pcnt_excessive_drinking	
+20137	Kansas	Norton	pcnt_excessive_drinking	13
+20139	Kansas	Osage	pcnt_excessive_drinking	14
+20141	Kansas	Osborne	pcnt_excessive_drinking	14
+20143	Kansas	Ottawa	pcnt_excessive_drinking	10
+20145	Kansas	Pawnee	pcnt_excessive_drinking	11
+20147	Kansas	Phillips	pcnt_excessive_drinking	18
+20149	Kansas	Pottawatomie	pcnt_excessive_drinking	14
+20151	Kansas	Pratt	pcnt_excessive_drinking	12
+20153	Kansas	Rawlins	pcnt_excessive_drinking	13
+20155	Kansas	Reno	pcnt_excessive_drinking	13
+20157	Kansas	Republic	pcnt_excessive_drinking	23
+20159	Kansas	Rice	pcnt_excessive_drinking	10
+20161	Kansas	Riley	pcnt_excessive_drinking	21
+20163	Kansas	Rooks	pcnt_excessive_drinking	8
+20165	Kansas	Rush	pcnt_excessive_drinking	17
+20167	Kansas	Russell	pcnt_excessive_drinking	11
+20169	Kansas	Saline	pcnt_excessive_drinking	15
+20171	Kansas	Scott	pcnt_excessive_drinking	10
+20173	Kansas	Sedgwick	pcnt_excessive_drinking	15
+20175	Kansas	Seward	pcnt_excessive_drinking	10
+20177	Kansas	Shawnee	pcnt_excessive_drinking	15
+20179	Kansas	Sheridan	pcnt_excessive_drinking	
+20181	Kansas	Sherman	pcnt_excessive_drinking	13
+20183	Kansas	Smith	pcnt_excessive_drinking	10
+20185	Kansas	Stafford	pcnt_excessive_drinking	
+20187	Kansas	Stanton	pcnt_excessive_drinking	
+20189	Kansas	Stevens	pcnt_excessive_drinking	
+20191	Kansas	Sumner	pcnt_excessive_drinking	13
+20193	Kansas	Thomas	pcnt_excessive_drinking	10
+20195	Kansas	Trego	pcnt_excessive_drinking	
+20197	Kansas	Wabaunsee	pcnt_excessive_drinking	19
+20199	Kansas	Wallace	pcnt_excessive_drinking	
+20201	Kansas	Washington	pcnt_excessive_drinking	24
+20203	Kansas	Wichita	pcnt_excessive_drinking	12
+20205	Kansas	Wilson	pcnt_excessive_drinking	14
+20207	Kansas	Woodson	pcnt_excessive_drinking	11
+20209	Kansas	Wyandotte	pcnt_excessive_drinking	15
+21001	Kentucky	Adair	pcnt_excessive_drinking	9
+21003	Kentucky	Allen	pcnt_excessive_drinking	6
+21005	Kentucky	Anderson	pcnt_excessive_drinking	12
+21007	Kentucky	Ballard	pcnt_excessive_drinking	4
+21009	Kentucky	Barren	pcnt_excessive_drinking	9
+21011	Kentucky	Bath	pcnt_excessive_drinking	15
+21013	Kentucky	Bell	pcnt_excessive_drinking	10
+21015	Kentucky	Boone	pcnt_excessive_drinking	17
+21017	Kentucky	Bourbon	pcnt_excessive_drinking	6
+21019	Kentucky	Boyd	pcnt_excessive_drinking	8
+21021	Kentucky	Boyle	pcnt_excessive_drinking	7
+21023	Kentucky	Bracken	pcnt_excessive_drinking	10
+21025	Kentucky	Breathitt	pcnt_excessive_drinking	6
+21027	Kentucky	Breckinridge	pcnt_excessive_drinking	10
+21029	Kentucky	Bullitt	pcnt_excessive_drinking	9
+21031	Kentucky	Butler	pcnt_excessive_drinking	12
+21033	Kentucky	Caldwell	pcnt_excessive_drinking	
+21035	Kentucky	Calloway	pcnt_excessive_drinking	11
+21037	Kentucky	Campbell	pcnt_excessive_drinking	21
+21039	Kentucky	Carlisle	pcnt_excessive_drinking	5
+21041	Kentucky	Carroll	pcnt_excessive_drinking	
+21043	Kentucky	Carter	pcnt_excessive_drinking	7
+21045	Kentucky	Casey	pcnt_excessive_drinking	14
+21047	Kentucky	Christian	pcnt_excessive_drinking	14
+21049	Kentucky	Clark	pcnt_excessive_drinking	14
+21051	Kentucky	Clay	pcnt_excessive_drinking	4
+21053	Kentucky	Clinton	pcnt_excessive_drinking	1
+21055	Kentucky	Crittenden	pcnt_excessive_drinking	13
+21057	Kentucky	Cumberland	pcnt_excessive_drinking	4
+21059	Kentucky	Daviess	pcnt_excessive_drinking	14
+21061	Kentucky	Edmonson	pcnt_excessive_drinking	8
+21063	Kentucky	Elliott	pcnt_excessive_drinking	10
+21065	Kentucky	Estill	pcnt_excessive_drinking	
+21067	Kentucky	Fayette	pcnt_excessive_drinking	10
+21069	Kentucky	Fleming	pcnt_excessive_drinking	7
+21071	Kentucky	Floyd	pcnt_excessive_drinking	8
+21073	Kentucky	Franklin	pcnt_excessive_drinking	12
+21075	Kentucky	Fulton	pcnt_excessive_drinking	
+21077	Kentucky	Gallatin	pcnt_excessive_drinking	
+21079	Kentucky	Garrard	pcnt_excessive_drinking	
+21081	Kentucky	Grant	pcnt_excessive_drinking	8
+21083	Kentucky	Graves	pcnt_excessive_drinking	8
+21085	Kentucky	Grayson	pcnt_excessive_drinking	7
+21087	Kentucky	Green	pcnt_excessive_drinking	8
+21089	Kentucky	Greenup	pcnt_excessive_drinking	10
+21091	Kentucky	Hancock	pcnt_excessive_drinking	10
+21093	Kentucky	Hardin	pcnt_excessive_drinking	8
+21095	Kentucky	Harlan	pcnt_excessive_drinking	3
+21097	Kentucky	Harrison	pcnt_excessive_drinking	8
+21099	Kentucky	Hart	pcnt_excessive_drinking	12
+21101	Kentucky	Henderson	pcnt_excessive_drinking	9
+21103	Kentucky	Henry	pcnt_excessive_drinking	5
+21105	Kentucky	Hickman	pcnt_excessive_drinking	
+21107	Kentucky	Hopkins	pcnt_excessive_drinking	9
+21109	Kentucky	Jackson	pcnt_excessive_drinking	9
+21111	Kentucky	Jefferson	pcnt_excessive_drinking	15
+21113	Kentucky	Jessamine	pcnt_excessive_drinking	13
+21115	Kentucky	Johnson	pcnt_excessive_drinking	5
+21117	Kentucky	Kenton	pcnt_excessive_drinking	21
+21119	Kentucky	Knott	pcnt_excessive_drinking	9
+21121	Kentucky	Knox	pcnt_excessive_drinking	9
+21123	Kentucky	Larue	pcnt_excessive_drinking	11
+21125	Kentucky	Laurel	pcnt_excessive_drinking	7
+21127	Kentucky	Lawrence	pcnt_excessive_drinking	6
+21129	Kentucky	Lee	pcnt_excessive_drinking	9
+21131	Kentucky	Leslie	pcnt_excessive_drinking	10
+21133	Kentucky	Letcher	pcnt_excessive_drinking	7
+21135	Kentucky	Lewis	pcnt_excessive_drinking	12
+21137	Kentucky	Lincoln	pcnt_excessive_drinking	4
+21139	Kentucky	Livingston	pcnt_excessive_drinking	
+21141	Kentucky	Logan	pcnt_excessive_drinking	13
+21143	Kentucky	Lyon	pcnt_excessive_drinking	4
+21145	Kentucky	McCracken	pcnt_excessive_drinking	12
+21147	Kentucky	McCreary	pcnt_excessive_drinking	10
+21149	Kentucky	McLean	pcnt_excessive_drinking	12
+21151	Kentucky	Madison	pcnt_excessive_drinking	5
+21153	Kentucky	Magoffin	pcnt_excessive_drinking	10
+21155	Kentucky	Marion	pcnt_excessive_drinking	12
+21157	Kentucky	Marshall	pcnt_excessive_drinking	13
+21159	Kentucky	Martin	pcnt_excessive_drinking	9
+21161	Kentucky	Mason	pcnt_excessive_drinking	12
+21163	Kentucky	Meade	pcnt_excessive_drinking	8
+21165	Kentucky	Menifee	pcnt_excessive_drinking	12
+21167	Kentucky	Mercer	pcnt_excessive_drinking	8
+21169	Kentucky	Metcalfe	pcnt_excessive_drinking	13
+21171	Kentucky	Monroe	pcnt_excessive_drinking	9
+21173	Kentucky	Montgomery	pcnt_excessive_drinking	11
+21175	Kentucky	Morgan	pcnt_excessive_drinking	9
+21177	Kentucky	Muhlenberg	pcnt_excessive_drinking	11
+21179	Kentucky	Nelson	pcnt_excessive_drinking	20
+21181	Kentucky	Nicholas	pcnt_excessive_drinking	
+21183	Kentucky	Ohio	pcnt_excessive_drinking	8
+21185	Kentucky	Oldham	pcnt_excessive_drinking	16
+21187	Kentucky	Owen	pcnt_excessive_drinking	8
+21189	Kentucky	Owsley	pcnt_excessive_drinking	3
+21191	Kentucky	Pendleton	pcnt_excessive_drinking	12
+21193	Kentucky	Perry	pcnt_excessive_drinking	10
+21195	Kentucky	Pike	pcnt_excessive_drinking	7
+21197	Kentucky	Powell	pcnt_excessive_drinking	
+21199	Kentucky	Pulaski	pcnt_excessive_drinking	7
+21201	Kentucky	Robertson	pcnt_excessive_drinking	11
+21203	Kentucky	Rockcastle	pcnt_excessive_drinking	8
+21205	Kentucky	Rowan	pcnt_excessive_drinking	10
+21207	Kentucky	Russell	pcnt_excessive_drinking	7
+21209	Kentucky	Scott	pcnt_excessive_drinking	12
+21211	Kentucky	Shelby	pcnt_excessive_drinking	14
+21213	Kentucky	Simpson	pcnt_excessive_drinking	8
+21215	Kentucky	Spencer	pcnt_excessive_drinking	
+21217	Kentucky	Taylor	pcnt_excessive_drinking	11
+21219	Kentucky	Todd	pcnt_excessive_drinking	15
+21221	Kentucky	Trigg	pcnt_excessive_drinking	14
+21223	Kentucky	Trimble	pcnt_excessive_drinking	
+21225	Kentucky	Union	pcnt_excessive_drinking	10
+21227	Kentucky	Warren	pcnt_excessive_drinking	12
+21229	Kentucky	Washington	pcnt_excessive_drinking	11
+21231	Kentucky	Wayne	pcnt_excessive_drinking	5
+21233	Kentucky	Webster	pcnt_excessive_drinking	17
+21235	Kentucky	Whitley	pcnt_excessive_drinking	8
+21237	Kentucky	Wolfe	pcnt_excessive_drinking	
+21239	Kentucky	Woodford	pcnt_excessive_drinking	9
+22001	Louisiana	Acadia	pcnt_excessive_drinking	18
+22003	Louisiana	Allen	pcnt_excessive_drinking	9
+22005	Louisiana	Ascension	pcnt_excessive_drinking	20
+22007	Louisiana	Assumption	pcnt_excessive_drinking	11
+22009	Louisiana	Avoyelles	pcnt_excessive_drinking	13
+22011	Louisiana	Beauregard	pcnt_excessive_drinking	12
+22013	Louisiana	Bienville	pcnt_excessive_drinking	18
+22015	Louisiana	Bossier	pcnt_excessive_drinking	18
+22017	Louisiana	Caddo	pcnt_excessive_drinking	13
+22019	Louisiana	Calcasieu	pcnt_excessive_drinking	16
+22021	Louisiana	Caldwell	pcnt_excessive_drinking	14
+22023	Louisiana	Cameron	pcnt_excessive_drinking	15
+22025	Louisiana	Catahoula	pcnt_excessive_drinking	8
+22027	Louisiana	Claiborne	pcnt_excessive_drinking	14
+22029	Louisiana	Concordia	pcnt_excessive_drinking	8
+22031	Louisiana	De Soto	pcnt_excessive_drinking	13
+22033	Louisiana	East Baton Rouge	pcnt_excessive_drinking	14
+22035	Louisiana	East Carroll	pcnt_excessive_drinking	9
+22037	Louisiana	East Feliciana	pcnt_excessive_drinking	7
+22039	Louisiana	Evangeline	pcnt_excessive_drinking	15
+22041	Louisiana	Franklin	pcnt_excessive_drinking	15
+22043	Louisiana	Grant	pcnt_excessive_drinking	12
+22045	Louisiana	Iberia	pcnt_excessive_drinking	14
+22047	Louisiana	Iberville	pcnt_excessive_drinking	14
+22049	Louisiana	Jackson	pcnt_excessive_drinking	10
+22051	Louisiana	Jefferson	pcnt_excessive_drinking	14
+22053	Louisiana	Jefferson Davis	pcnt_excessive_drinking	16
+22055	Louisiana	Lafayette	pcnt_excessive_drinking	21
+22057	Louisiana	Lafourche	pcnt_excessive_drinking	15
+22059	Louisiana	La Salle	pcnt_excessive_drinking	7
+22061	Louisiana	Lincoln	pcnt_excessive_drinking	12
+22063	Louisiana	Livingston	pcnt_excessive_drinking	16
+22065	Louisiana	Madison	pcnt_excessive_drinking	12
+22067	Louisiana	Morehouse	pcnt_excessive_drinking	6
+22069	Louisiana	Natchitoches	pcnt_excessive_drinking	13
+22071	Louisiana	Orleans	pcnt_excessive_drinking	18
+22073	Louisiana	Ouachita	pcnt_excessive_drinking	12
+22075	Louisiana	Plaquemines	pcnt_excessive_drinking	17
+22077	Louisiana	Pointe Coupee	pcnt_excessive_drinking	12
+22079	Louisiana	Rapides	pcnt_excessive_drinking	11
+22081	Louisiana	Red River	pcnt_excessive_drinking	
+22083	Louisiana	Richland	pcnt_excessive_drinking	9
+22085	Louisiana	Sabine	pcnt_excessive_drinking	12
+22087	Louisiana	St. Bernard	pcnt_excessive_drinking	21
+22089	Louisiana	St. Charles	pcnt_excessive_drinking	19
+22091	Louisiana	St. Helena	pcnt_excessive_drinking	
+22093	Louisiana	St. James	pcnt_excessive_drinking	25
+22095	Louisiana	St. John the Baptist	pcnt_excessive_drinking	15
+22097	Louisiana	St. Landry	pcnt_excessive_drinking	15
+22099	Louisiana	St. Martin	pcnt_excessive_drinking	19
+22101	Louisiana	St. Mary	pcnt_excessive_drinking	15
+22103	Louisiana	St. Tammany	pcnt_excessive_drinking	20
+22105	Louisiana	Tangipahoa	pcnt_excessive_drinking	13
+22107	Louisiana	Tensas	pcnt_excessive_drinking	
+22109	Louisiana	Terrebonne	pcnt_excessive_drinking	20
+22111	Louisiana	Union	pcnt_excessive_drinking	10
+22113	Louisiana	Vermilion	pcnt_excessive_drinking	18
+22115	Louisiana	Vernon	pcnt_excessive_drinking	14
+22117	Louisiana	Washington	pcnt_excessive_drinking	10
+22119	Louisiana	Webster	pcnt_excessive_drinking	9
+22121	Louisiana	West Baton Rouge	pcnt_excessive_drinking	
+22123	Louisiana	West Carroll	pcnt_excessive_drinking	15
+22125	Louisiana	West Feliciana	pcnt_excessive_drinking	8
+22127	Louisiana	Winn	pcnt_excessive_drinking	12
+23001	Maine	Androscoggin	pcnt_excessive_drinking	17
+23003	Maine	Aroostook	pcnt_excessive_drinking	13
+23005	Maine	Cumberland	pcnt_excessive_drinking	19
+23007	Maine	Franklin	pcnt_excessive_drinking	17
+23009	Maine	Hancock	pcnt_excessive_drinking	18
+23011	Maine	Kennebec	pcnt_excessive_drinking	16
+23013	Maine	Knox	pcnt_excessive_drinking	16
+23015	Maine	Lincoln	pcnt_excessive_drinking	16
+23017	Maine	Oxford	pcnt_excessive_drinking	18
+23019	Maine	Penobscot	pcnt_excessive_drinking	15
+23021	Maine	Piscataquis	pcnt_excessive_drinking	16
+23023	Maine	Sagadahoc	pcnt_excessive_drinking	17
+23025	Maine	Somerset	pcnt_excessive_drinking	16
+23027	Maine	Waldo	pcnt_excessive_drinking	15
+23029	Maine	Washington	pcnt_excessive_drinking	18
+23031	Maine	York	pcnt_excessive_drinking	20
+24001	Maryland	Allegany	pcnt_excessive_drinking	15
+24003	Maryland	Anne Arundel	pcnt_excessive_drinking	19
+24005	Maryland	Baltimore	pcnt_excessive_drinking	16
+24009	Maryland	Calvert	pcnt_excessive_drinking	18
+24011	Maryland	Caroline	pcnt_excessive_drinking	17
+24013	Maryland	Carroll	pcnt_excessive_drinking	19
+24015	Maryland	Cecil	pcnt_excessive_drinking	17
+24017	Maryland	Charles	pcnt_excessive_drinking	14
+24019	Maryland	Dorchester	pcnt_excessive_drinking	16
+24021	Maryland	Frederick	pcnt_excessive_drinking	17
+24023	Maryland	Garrett	pcnt_excessive_drinking	17
+24025	Maryland	Harford	pcnt_excessive_drinking	16
+24027	Maryland	Howard	pcnt_excessive_drinking	15
+24029	Maryland	Kent	pcnt_excessive_drinking	13
+24031	Maryland	Montgomery	pcnt_excessive_drinking	13
+24033	Maryland	Prince George's	pcnt_excessive_drinking	10
+24035	Maryland	Queen Anne's	pcnt_excessive_drinking	23
+24037	Maryland	St. Mary's	pcnt_excessive_drinking	17
+24039	Maryland	Somerset	pcnt_excessive_drinking	9
+24041	Maryland	Talbot	pcnt_excessive_drinking	15
+24043	Maryland	Washington	pcnt_excessive_drinking	15
+24045	Maryland	Wicomico	pcnt_excessive_drinking	12
+24047	Maryland	Worcester	pcnt_excessive_drinking	19
+24510	Maryland	Baltimore City	pcnt_excessive_drinking	16
+25001	Massachusetts	Barnstable	pcnt_excessive_drinking	18
+25003	Massachusetts	Berkshire	pcnt_excessive_drinking	21
+25005	Massachusetts	Bristol	pcnt_excessive_drinking	20
+25007	Massachusetts	Dukes	pcnt_excessive_drinking	28
+25009	Massachusetts	Essex	pcnt_excessive_drinking	19
+25011	Massachusetts	Franklin	pcnt_excessive_drinking	19
+25013	Massachusetts	Hampden	pcnt_excessive_drinking	19
+25015	Massachusetts	Hampshire	pcnt_excessive_drinking	18
+25017	Massachusetts	Middlesex	pcnt_excessive_drinking	18
+25019	Massachusetts	Nantucket	pcnt_excessive_drinking	
+25021	Massachusetts	Norfolk	pcnt_excessive_drinking	19
+25023	Massachusetts	Plymouth	pcnt_excessive_drinking	21
+25025	Massachusetts	Suffolk	pcnt_excessive_drinking	19
+25027	Massachusetts	Worcester	pcnt_excessive_drinking	21
+26001	Michigan	Alcona	pcnt_excessive_drinking	
+26003	Michigan	Alger	pcnt_excessive_drinking	
+26005	Michigan	Allegan	pcnt_excessive_drinking	20
+26007	Michigan	Alpena	pcnt_excessive_drinking	21
+26009	Michigan	Antrim	pcnt_excessive_drinking	27
+26011	Michigan	Arenac	pcnt_excessive_drinking	12
+26013	Michigan	Baraga	pcnt_excessive_drinking	
+26015	Michigan	Barry	pcnt_excessive_drinking	20
+26017	Michigan	Bay	pcnt_excessive_drinking	24
+26019	Michigan	Benzie	pcnt_excessive_drinking	13
+26021	Michigan	Berrien	pcnt_excessive_drinking	17
+26023	Michigan	Branch	pcnt_excessive_drinking	12
+26025	Michigan	Calhoun	pcnt_excessive_drinking	14
+26027	Michigan	Cass	pcnt_excessive_drinking	21
+26029	Michigan	Charlevoix	pcnt_excessive_drinking	23
+26031	Michigan	Cheboygan	pcnt_excessive_drinking	23
+26033	Michigan	Chippewa	pcnt_excessive_drinking	33
+26035	Michigan	Clare	pcnt_excessive_drinking	13
+26037	Michigan	Clinton	pcnt_excessive_drinking	18
+26039	Michigan	Crawford	pcnt_excessive_drinking	
+26041	Michigan	Delta	pcnt_excessive_drinking	24
+26043	Michigan	Dickinson	pcnt_excessive_drinking	25
+26045	Michigan	Eaton	pcnt_excessive_drinking	16
+26047	Michigan	Emmet	pcnt_excessive_drinking	20
+26049	Michigan	Genesee	pcnt_excessive_drinking	16
+26051	Michigan	Gladwin	pcnt_excessive_drinking	13
+26053	Michigan	Gogebic	pcnt_excessive_drinking	
+26055	Michigan	Grand Traverse	pcnt_excessive_drinking	16
+26057	Michigan	Gratiot	pcnt_excessive_drinking	17
+26059	Michigan	Hillsdale	pcnt_excessive_drinking	17
+26061	Michigan	Houghton	pcnt_excessive_drinking	25
+26063	Michigan	Huron	pcnt_excessive_drinking	16
+26065	Michigan	Ingham	pcnt_excessive_drinking	17
+26067	Michigan	Ionia	pcnt_excessive_drinking	20
+26069	Michigan	Iosco	pcnt_excessive_drinking	22
+26071	Michigan	Iron	pcnt_excessive_drinking	
+26073	Michigan	Isabella	pcnt_excessive_drinking	21
+26075	Michigan	Jackson	pcnt_excessive_drinking	21
+26077	Michigan	Kalamazoo	pcnt_excessive_drinking	18
+26079	Michigan	Kalkaska	pcnt_excessive_drinking	14
+26081	Michigan	Kent	pcnt_excessive_drinking	18
+26083	Michigan	Keweenaw	pcnt_excessive_drinking	
+26085	Michigan	Lake	pcnt_excessive_drinking	12
+26087	Michigan	Lapeer	pcnt_excessive_drinking	16
+26089	Michigan	Leelanau	pcnt_excessive_drinking	18
+26091	Michigan	Lenawee	pcnt_excessive_drinking	22
+26093	Michigan	Livingston	pcnt_excessive_drinking	24
+26095	Michigan	Luce	pcnt_excessive_drinking	
+26097	Michigan	Mackinac	pcnt_excessive_drinking	
+26099	Michigan	Macomb	pcnt_excessive_drinking	20
+26101	Michigan	Manistee	pcnt_excessive_drinking	26
+26103	Michigan	Marquette	pcnt_excessive_drinking	19
+26105	Michigan	Mason	pcnt_excessive_drinking	22
+26107	Michigan	Mecosta	pcnt_excessive_drinking	19
+26109	Michigan	Menominee	pcnt_excessive_drinking	22
+26111	Michigan	Midland	pcnt_excessive_drinking	18
+26113	Michigan	Missaukee	pcnt_excessive_drinking	21
+26115	Michigan	Monroe	pcnt_excessive_drinking	23
+26117	Michigan	Montcalm	pcnt_excessive_drinking	15
+26119	Michigan	Montmorency	pcnt_excessive_drinking	
+26121	Michigan	Muskegon	pcnt_excessive_drinking	23
+26123	Michigan	Newaygo	pcnt_excessive_drinking	19
+26125	Michigan	Oakland	pcnt_excessive_drinking	18
+26127	Michigan	Oceana	pcnt_excessive_drinking	20
+26129	Michigan	Ogemaw	pcnt_excessive_drinking	12
+26131	Michigan	Ontonagon	pcnt_excessive_drinking	
+26133	Michigan	Osceola	pcnt_excessive_drinking	17
+26135	Michigan	Oscoda	pcnt_excessive_drinking	10
+26137	Michigan	Otsego	pcnt_excessive_drinking	23
+26139	Michigan	Ottawa	pcnt_excessive_drinking	18
+26141	Michigan	Presque Isle	pcnt_excessive_drinking	11
+26143	Michigan	Roscommon	pcnt_excessive_drinking	24
+26145	Michigan	Saginaw	pcnt_excessive_drinking	20
+26147	Michigan	St. Clair	pcnt_excessive_drinking	22
+26149	Michigan	St. Joseph	pcnt_excessive_drinking	17
+26151	Michigan	Sanilac	pcnt_excessive_drinking	20
+26153	Michigan	Schoolcraft	pcnt_excessive_drinking	11
+26155	Michigan	Shiawassee	pcnt_excessive_drinking	21
+26157	Michigan	Tuscola	pcnt_excessive_drinking	20
+26159	Michigan	Van Buren	pcnt_excessive_drinking	18
+26161	Michigan	Washtenaw	pcnt_excessive_drinking	15
+26163	Michigan	Wayne	pcnt_excessive_drinking	17
+26165	Michigan	Wexford	pcnt_excessive_drinking	17
+27001	Minnesota	Aitkin	pcnt_excessive_drinking	16
+27003	Minnesota	Anoka	pcnt_excessive_drinking	21
+27005	Minnesota	Becker	pcnt_excessive_drinking	
+27007	Minnesota	Beltrami	pcnt_excessive_drinking	24
+27009	Minnesota	Benton	pcnt_excessive_drinking	20
+27011	Minnesota	Big Stone	pcnt_excessive_drinking	
+27013	Minnesota	Blue Earth	pcnt_excessive_drinking	22
+27015	Minnesota	Brown	pcnt_excessive_drinking	23
+27017	Minnesota	Carlton	pcnt_excessive_drinking	23
+27019	Minnesota	Carver	pcnt_excessive_drinking	25
+27021	Minnesota	Cass	pcnt_excessive_drinking	20
+27023	Minnesota	Chippewa	pcnt_excessive_drinking	
+27025	Minnesota	Chisago	pcnt_excessive_drinking	16
+27027	Minnesota	Clay	pcnt_excessive_drinking	21
+27029	Minnesota	Clearwater	pcnt_excessive_drinking	
+27031	Minnesota	Cook	pcnt_excessive_drinking	
+27033	Minnesota	Cottonwood	pcnt_excessive_drinking	9
+27035	Minnesota	Crow Wing	pcnt_excessive_drinking	19
+27037	Minnesota	Dakota	pcnt_excessive_drinking	20
+27039	Minnesota	Dodge	pcnt_excessive_drinking	
+27041	Minnesota	Douglas	pcnt_excessive_drinking	22
+27043	Minnesota	Faribault	pcnt_excessive_drinking	
+27045	Minnesota	Fillmore	pcnt_excessive_drinking	
+27047	Minnesota	Freeborn	pcnt_excessive_drinking	15
+27049	Minnesota	Goodhue	pcnt_excessive_drinking	28
+27051	Minnesota	Grant	pcnt_excessive_drinking	
+27053	Minnesota	Hennepin	pcnt_excessive_drinking	19
+27055	Minnesota	Houston	pcnt_excessive_drinking	22
+27057	Minnesota	Hubbard	pcnt_excessive_drinking	15
+27059	Minnesota	Isanti	pcnt_excessive_drinking	24
+27061	Minnesota	Itasca	pcnt_excessive_drinking	17
+27063	Minnesota	Jackson	pcnt_excessive_drinking	
+27065	Minnesota	Kanabec	pcnt_excessive_drinking	
+27067	Minnesota	Kandiyohi	pcnt_excessive_drinking	8
+27069	Minnesota	Kittson	pcnt_excessive_drinking	
+27071	Minnesota	Koochiching	pcnt_excessive_drinking	17
+27073	Minnesota	Lac qui Parle	pcnt_excessive_drinking	
+27075	Minnesota	Lake	pcnt_excessive_drinking	
+27077	Minnesota	Lake of the Woods	pcnt_excessive_drinking	
+27079	Minnesota	Le Sueur	pcnt_excessive_drinking	17
+27081	Minnesota	Lincoln	pcnt_excessive_drinking	
+27083	Minnesota	Lyon	pcnt_excessive_drinking	24
+27085	Minnesota	McLeod	pcnt_excessive_drinking	16
+27087	Minnesota	Mahnomen	pcnt_excessive_drinking	
+27089	Minnesota	Marshall	pcnt_excessive_drinking	
+27091	Minnesota	Martin	pcnt_excessive_drinking	
+27093	Minnesota	Meeker	pcnt_excessive_drinking	24
+27095	Minnesota	Mille Lacs	pcnt_excessive_drinking	
+27097	Minnesota	Morrison	pcnt_excessive_drinking	23
+27099	Minnesota	Mower	pcnt_excessive_drinking	16
+27101	Minnesota	Murray	pcnt_excessive_drinking	
+27103	Minnesota	Nicollet	pcnt_excessive_drinking	16
+27105	Minnesota	Nobles	pcnt_excessive_drinking	9
+27107	Minnesota	Norman	pcnt_excessive_drinking	
+27109	Minnesota	Olmsted	pcnt_excessive_drinking	15
+27111	Minnesota	Otter Tail	pcnt_excessive_drinking	20
+27113	Minnesota	Pennington	pcnt_excessive_drinking	
+27115	Minnesota	Pine	pcnt_excessive_drinking	14
+27117	Minnesota	Pipestone	pcnt_excessive_drinking	
+27119	Minnesota	Polk	pcnt_excessive_drinking	29
+27121	Minnesota	Pope	pcnt_excessive_drinking	
+27123	Minnesota	Ramsey	pcnt_excessive_drinking	17
+27125	Minnesota	Red Lake	pcnt_excessive_drinking	
+27127	Minnesota	Redwood	pcnt_excessive_drinking	
+27129	Minnesota	Renville	pcnt_excessive_drinking	12
+27131	Minnesota	Rice	pcnt_excessive_drinking	15
+27133	Minnesota	Rock	pcnt_excessive_drinking	14
+27135	Minnesota	Roseau	pcnt_excessive_drinking	15
+27137	Minnesota	St. Louis	pcnt_excessive_drinking	20
+27139	Minnesota	Scott	pcnt_excessive_drinking	22
+27141	Minnesota	Sherburne	pcnt_excessive_drinking	24
+27143	Minnesota	Sibley	pcnt_excessive_drinking	
+27145	Minnesota	Stearns	pcnt_excessive_drinking	20
+27147	Minnesota	Steele	pcnt_excessive_drinking	18
+27149	Minnesota	Stevens	pcnt_excessive_drinking	12
+27151	Minnesota	Swift	pcnt_excessive_drinking	
+27153	Minnesota	Todd	pcnt_excessive_drinking	19
+27155	Minnesota	Traverse	pcnt_excessive_drinking	
+27157	Minnesota	Wabasha	pcnt_excessive_drinking	
+27159	Minnesota	Wadena	pcnt_excessive_drinking	9
+27161	Minnesota	Waseca	pcnt_excessive_drinking	
+27163	Minnesota	Washington	pcnt_excessive_drinking	20
+27165	Minnesota	Watonwan	pcnt_excessive_drinking	
+27167	Minnesota	Wilkin	pcnt_excessive_drinking	
+27169	Minnesota	Winona	pcnt_excessive_drinking	20
+27171	Minnesota	Wright	pcnt_excessive_drinking	25
+27173	Minnesota	Yellow Medicine	pcnt_excessive_drinking	
+28001	Mississippi	Adams	pcnt_excessive_drinking	11
+28003	Mississippi	Alcorn	pcnt_excessive_drinking	9
+28005	Mississippi	Amite	pcnt_excessive_drinking	9
+28007	Mississippi	Attala	pcnt_excessive_drinking	8
+28009	Mississippi	Benton	pcnt_excessive_drinking	4
+28011	Mississippi	Bolivar	pcnt_excessive_drinking	10
+28013	Mississippi	Calhoun	pcnt_excessive_drinking	9
+28015	Mississippi	Carroll	pcnt_excessive_drinking	13
+28017	Mississippi	Chickasaw	pcnt_excessive_drinking	10
+28019	Mississippi	Choctaw	pcnt_excessive_drinking	10
+28021	Mississippi	Claiborne	pcnt_excessive_drinking	10
+28023	Mississippi	Clarke	pcnt_excessive_drinking	10
+28025	Mississippi	Clay	pcnt_excessive_drinking	7
+28027	Mississippi	Coahoma	pcnt_excessive_drinking	12
+28029	Mississippi	Copiah	pcnt_excessive_drinking	14
+28031	Mississippi	Covington	pcnt_excessive_drinking	9
+28033	Mississippi	DeSoto	pcnt_excessive_drinking	11
+28035	Mississippi	Forrest	pcnt_excessive_drinking	12
+28037	Mississippi	Franklin	pcnt_excessive_drinking	16
+28039	Mississippi	George	pcnt_excessive_drinking	7
+28041	Mississippi	Greene	pcnt_excessive_drinking	10
+28043	Mississippi	Grenada	pcnt_excessive_drinking	16
+28045	Mississippi	Hancock	pcnt_excessive_drinking	14
+28047	Mississippi	Harrison	pcnt_excessive_drinking	16
+28049	Mississippi	Hinds	pcnt_excessive_drinking	13
+28051	Mississippi	Holmes	pcnt_excessive_drinking	9
+28053	Mississippi	Humphreys	pcnt_excessive_drinking	10
+28055	Mississippi	Issaquena	pcnt_excessive_drinking	
+28057	Mississippi	Itawamba	pcnt_excessive_drinking	8
+28059	Mississippi	Jackson	pcnt_excessive_drinking	13
+28061	Mississippi	Jasper	pcnt_excessive_drinking	13
+28063	Mississippi	Jefferson	pcnt_excessive_drinking	13
+28065	Mississippi	Jefferson Davis	pcnt_excessive_drinking	12
+28067	Mississippi	Jones	pcnt_excessive_drinking	7
+28069	Mississippi	Kemper	pcnt_excessive_drinking	15
+28071	Mississippi	Lafayette	pcnt_excessive_drinking	16
+28073	Mississippi	Lamar	pcnt_excessive_drinking	12
+28075	Mississippi	Lauderdale	pcnt_excessive_drinking	9
+28077	Mississippi	Lawrence	pcnt_excessive_drinking	12
+28079	Mississippi	Leake	pcnt_excessive_drinking	12
+28081	Mississippi	Lee	pcnt_excessive_drinking	9
+28083	Mississippi	Leflore	pcnt_excessive_drinking	12
+28085	Mississippi	Lincoln	pcnt_excessive_drinking	10
+28087	Mississippi	Lowndes	pcnt_excessive_drinking	13
+28089	Mississippi	Madison	pcnt_excessive_drinking	13
+28091	Mississippi	Marion	pcnt_excessive_drinking	11
+28093	Mississippi	Marshall	pcnt_excessive_drinking	15
+28095	Mississippi	Monroe	pcnt_excessive_drinking	7
+28097	Mississippi	Montgomery	pcnt_excessive_drinking	10
+28099	Mississippi	Neshoba	pcnt_excessive_drinking	8
+28101	Mississippi	Newton	pcnt_excessive_drinking	9
+28103	Mississippi	Noxubee	pcnt_excessive_drinking	5
+28105	Mississippi	Oktibbeha	pcnt_excessive_drinking	10
+28107	Mississippi	Panola	pcnt_excessive_drinking	11
+28109	Mississippi	Pearl River	pcnt_excessive_drinking	13
+28111	Mississippi	Perry	pcnt_excessive_drinking	9
+28113	Mississippi	Pike	pcnt_excessive_drinking	10
+28115	Mississippi	Pontotoc	pcnt_excessive_drinking	10
+28117	Mississippi	Prentiss	pcnt_excessive_drinking	6
+28119	Mississippi	Quitman	pcnt_excessive_drinking	
+28121	Mississippi	Rankin	pcnt_excessive_drinking	13
+28123	Mississippi	Scott	pcnt_excessive_drinking	11
+28125	Mississippi	Sharkey	pcnt_excessive_drinking	
+28127	Mississippi	Simpson	pcnt_excessive_drinking	9
+28129	Mississippi	Smith	pcnt_excessive_drinking	5
+28131	Mississippi	Stone	pcnt_excessive_drinking	7
+28133	Mississippi	Sunflower	pcnt_excessive_drinking	11
+28135	Mississippi	Tallahatchie	pcnt_excessive_drinking	11
+28137	Mississippi	Tate	pcnt_excessive_drinking	12
+28139	Mississippi	Tippah	pcnt_excessive_drinking	5
+28141	Mississippi	Tishomingo	pcnt_excessive_drinking	11
+28143	Mississippi	Tunica	pcnt_excessive_drinking	9
+28145	Mississippi	Union	pcnt_excessive_drinking	9
+28147	Mississippi	Walthall	pcnt_excessive_drinking	10
+28149	Mississippi	Warren	pcnt_excessive_drinking	15
+28151	Mississippi	Washington	pcnt_excessive_drinking	11
+28153	Mississippi	Wayne	pcnt_excessive_drinking	11
+28155	Mississippi	Webster	pcnt_excessive_drinking	9
+28157	Mississippi	Wilkinson	pcnt_excessive_drinking	13
+28159	Mississippi	Winston	pcnt_excessive_drinking	11
+28161	Mississippi	Yalobusha	pcnt_excessive_drinking	12
+28163	Mississippi	Yazoo	pcnt_excessive_drinking	12
+29001	Missouri	Adair	pcnt_excessive_drinking	21
+29003	Missouri	Andrew	pcnt_excessive_drinking	20
+29005	Missouri	Atchison	pcnt_excessive_drinking	
+29007	Missouri	Audrain	pcnt_excessive_drinking	12
+29009	Missouri	Barry	pcnt_excessive_drinking	16
+29011	Missouri	Barton	pcnt_excessive_drinking	
+29013	Missouri	Bates	pcnt_excessive_drinking	20
+29015	Missouri	Benton	pcnt_excessive_drinking	16
+29017	Missouri	Bollinger	pcnt_excessive_drinking	
+29019	Missouri	Boone	pcnt_excessive_drinking	16
+29021	Missouri	Buchanan	pcnt_excessive_drinking	16
+29023	Missouri	Butler	pcnt_excessive_drinking	10
+29025	Missouri	Caldwell	pcnt_excessive_drinking	
+29027	Missouri	Callaway	pcnt_excessive_drinking	17
+29029	Missouri	Camden	pcnt_excessive_drinking	12
+29031	Missouri	Cape Girardeau	pcnt_excessive_drinking	13
+29033	Missouri	Carroll	pcnt_excessive_drinking	13
+29035	Missouri	Carter	pcnt_excessive_drinking	
+29037	Missouri	Cass	pcnt_excessive_drinking	14
+29039	Missouri	Cedar	pcnt_excessive_drinking	
+29041	Missouri	Chariton	pcnt_excessive_drinking	18
+29043	Missouri	Christian	pcnt_excessive_drinking	17
+29045	Missouri	Clark	pcnt_excessive_drinking	7
+29047	Missouri	Clay	pcnt_excessive_drinking	18
+29049	Missouri	Clinton	pcnt_excessive_drinking	
+29051	Missouri	Cole	pcnt_excessive_drinking	21
+29053	Missouri	Cooper	pcnt_excessive_drinking	
+29055	Missouri	Crawford	pcnt_excessive_drinking	
+29057	Missouri	Dade	pcnt_excessive_drinking	
+29059	Missouri	Dallas	pcnt_excessive_drinking	
+29061	Missouri	Daviess	pcnt_excessive_drinking	15
+29063	Missouri	DeKalb	pcnt_excessive_drinking	
+29065	Missouri	Dent	pcnt_excessive_drinking	7
+29067	Missouri	Douglas	pcnt_excessive_drinking	
+29069	Missouri	Dunklin	pcnt_excessive_drinking	13
+29071	Missouri	Franklin	pcnt_excessive_drinking	15
+29073	Missouri	Gasconade	pcnt_excessive_drinking	
+29075	Missouri	Gentry	pcnt_excessive_drinking	13
+29077	Missouri	Greene	pcnt_excessive_drinking	12
+29079	Missouri	Grundy	pcnt_excessive_drinking	8
+29081	Missouri	Harrison	pcnt_excessive_drinking	18
+29083	Missouri	Henry	pcnt_excessive_drinking	8
+29085	Missouri	Hickory	pcnt_excessive_drinking	4
+29087	Missouri	Holt	pcnt_excessive_drinking	
+29089	Missouri	Howard	pcnt_excessive_drinking	
+29091	Missouri	Howell	pcnt_excessive_drinking	13
+29093	Missouri	Iron	pcnt_excessive_drinking	
+29095	Missouri	Jackson	pcnt_excessive_drinking	16
+29097	Missouri	Jasper	pcnt_excessive_drinking	15
+29099	Missouri	Jefferson	pcnt_excessive_drinking	20
+29101	Missouri	Johnson	pcnt_excessive_drinking	19
+29103	Missouri	Knox	pcnt_excessive_drinking	2
+29105	Missouri	Laclede	pcnt_excessive_drinking	8
+29107	Missouri	Lafayette	pcnt_excessive_drinking	15
+29109	Missouri	Lawrence	pcnt_excessive_drinking	9
+29111	Missouri	Lewis	pcnt_excessive_drinking	16
+29113	Missouri	Lincoln	pcnt_excessive_drinking	17
+29115	Missouri	Linn	pcnt_excessive_drinking	21
+29117	Missouri	Livingston	pcnt_excessive_drinking	8
+29119	Missouri	McDonald	pcnt_excessive_drinking	8
+29121	Missouri	Macon	pcnt_excessive_drinking	17
+29123	Missouri	Madison	pcnt_excessive_drinking	
+29125	Missouri	Maries	pcnt_excessive_drinking	
+29127	Missouri	Marion	pcnt_excessive_drinking	11
+29129	Missouri	Mercer	pcnt_excessive_drinking	11
+29131	Missouri	Miller	pcnt_excessive_drinking	19
+29133	Missouri	Mississippi	pcnt_excessive_drinking	7
+29135	Missouri	Moniteau	pcnt_excessive_drinking	6
+29137	Missouri	Monroe	pcnt_excessive_drinking	
+29139	Missouri	Montgomery	pcnt_excessive_drinking	
+29141	Missouri	Morgan	pcnt_excessive_drinking	13
+29143	Missouri	New Madrid	pcnt_excessive_drinking	8
+29145	Missouri	Newton	pcnt_excessive_drinking	13
+29147	Missouri	Nodaway	pcnt_excessive_drinking	13
+29149	Missouri	Oregon	pcnt_excessive_drinking	
+29151	Missouri	Osage	pcnt_excessive_drinking	
+29153	Missouri	Ozark	pcnt_excessive_drinking	13
+29155	Missouri	Pemiscot	pcnt_excessive_drinking	
+29157	Missouri	Perry	pcnt_excessive_drinking	18
+29159	Missouri	Pettis	pcnt_excessive_drinking	13
+29161	Missouri	Phelps	pcnt_excessive_drinking	16
+29163	Missouri	Pike	pcnt_excessive_drinking	18
+29165	Missouri	Platte	pcnt_excessive_drinking	23
+29167	Missouri	Polk	pcnt_excessive_drinking	18
+29169	Missouri	Pulaski	pcnt_excessive_drinking	22
+29171	Missouri	Putnam	pcnt_excessive_drinking	13
+29173	Missouri	Ralls	pcnt_excessive_drinking	15
+29175	Missouri	Randolph	pcnt_excessive_drinking	17
+29177	Missouri	Ray	pcnt_excessive_drinking	12
+29179	Missouri	Reynolds	pcnt_excessive_drinking	
+29181	Missouri	Ripley	pcnt_excessive_drinking	
+29183	Missouri	St. Charles	pcnt_excessive_drinking	25
+29185	Missouri	St. Clair	pcnt_excessive_drinking	
+29186	Missouri	Ste. Genevieve	pcnt_excessive_drinking	19
+29187	Missouri	St. Francois	pcnt_excessive_drinking	15
+29189	Missouri	St. Louis	pcnt_excessive_drinking	20
+29195	Missouri	Saline	pcnt_excessive_drinking	18
+29197	Missouri	Schuyler	pcnt_excessive_drinking	3
+29199	Missouri	Scotland	pcnt_excessive_drinking	
+29201	Missouri	Scott	pcnt_excessive_drinking	14
+29203	Missouri	Shannon	pcnt_excessive_drinking	12
+29205	Missouri	Shelby	pcnt_excessive_drinking	
+29207	Missouri	Stoddard	pcnt_excessive_drinking	17
+29209	Missouri	Stone	pcnt_excessive_drinking	17
+29211	Missouri	Sullivan	pcnt_excessive_drinking	8
+29213	Missouri	Taney	pcnt_excessive_drinking	11
+29215	Missouri	Texas	pcnt_excessive_drinking	12
+29217	Missouri	Vernon	pcnt_excessive_drinking	
+29219	Missouri	Warren	pcnt_excessive_drinking	12
+29221	Missouri	Washington	pcnt_excessive_drinking	12
+29223	Missouri	Wayne	pcnt_excessive_drinking	8
+29225	Missouri	Webster	pcnt_excessive_drinking	
+29227	Missouri	Worth	pcnt_excessive_drinking	
+29229	Missouri	Wright	pcnt_excessive_drinking	2
+29510	Missouri	St. Louis City	pcnt_excessive_drinking	23
+30001	Montana	Beaverhead	pcnt_excessive_drinking	14
+30003	Montana	Big Horn	pcnt_excessive_drinking	19
+30005	Montana	Blaine	pcnt_excessive_drinking	25
+30007	Montana	Broadwater	pcnt_excessive_drinking	17
+30009	Montana	Carbon	pcnt_excessive_drinking	18
+30011	Montana	Carter	pcnt_excessive_drinking	
+30013	Montana	Cascade	pcnt_excessive_drinking	17
+30015	Montana	Chouteau	pcnt_excessive_drinking	19
+30017	Montana	Custer	pcnt_excessive_drinking	18
+30019	Montana	Daniels	pcnt_excessive_drinking	26
+30021	Montana	Dawson	pcnt_excessive_drinking	19
+30023	Montana	Deer Lodge	pcnt_excessive_drinking	19
+30025	Montana	Fallon	pcnt_excessive_drinking	21
+30027	Montana	Fergus	pcnt_excessive_drinking	18
+30029	Montana	Flathead	pcnt_excessive_drinking	18
+30031	Montana	Gallatin	pcnt_excessive_drinking	22
+30033	Montana	Garfield	pcnt_excessive_drinking	
+30035	Montana	Glacier	pcnt_excessive_drinking	21
+30037	Montana	Golden Valley	pcnt_excessive_drinking	13
+30039	Montana	Granite	pcnt_excessive_drinking	19
+30041	Montana	Hill	pcnt_excessive_drinking	24
+30043	Montana	Jefferson	pcnt_excessive_drinking	15
+30045	Montana	Judith Basin	pcnt_excessive_drinking	
+30047	Montana	Lake	pcnt_excessive_drinking	20
+30049	Montana	Lewis and Clark	pcnt_excessive_drinking	18
+30051	Montana	Liberty	pcnt_excessive_drinking	20
+30053	Montana	Lincoln	pcnt_excessive_drinking	17
+30055	Montana	McCone	pcnt_excessive_drinking	19
+30057	Montana	Madison	pcnt_excessive_drinking	19
+30059	Montana	Meagher	pcnt_excessive_drinking	13
+30061	Montana	Mineral	pcnt_excessive_drinking	13
+30063	Montana	Missoula	pcnt_excessive_drinking	23
+30065	Montana	Musselshell	pcnt_excessive_drinking	14
+30067	Montana	Park	pcnt_excessive_drinking	17
+30069	Montana	Petroleum	pcnt_excessive_drinking	
+30071	Montana	Phillips	pcnt_excessive_drinking	17
+30073	Montana	Pondera	pcnt_excessive_drinking	23
+30075	Montana	Powder River	pcnt_excessive_drinking	
+30077	Montana	Powell	pcnt_excessive_drinking	18
+30079	Montana	Prairie	pcnt_excessive_drinking	17
+30081	Montana	Ravalli	pcnt_excessive_drinking	17
+30083	Montana	Richland	pcnt_excessive_drinking	18
+30085	Montana	Roosevelt	pcnt_excessive_drinking	24
+30087	Montana	Rosebud	pcnt_excessive_drinking	18
+30089	Montana	Sanders	pcnt_excessive_drinking	16
+30091	Montana	Sheridan	pcnt_excessive_drinking	20
+30093	Montana	Silver Bow	pcnt_excessive_drinking	19
+30095	Montana	Stillwater	pcnt_excessive_drinking	22
+30097	Montana	Sweet Grass	pcnt_excessive_drinking	24
+30099	Montana	Teton	pcnt_excessive_drinking	17
+30101	Montana	Toole	pcnt_excessive_drinking	23
+30103	Montana	Treasure	pcnt_excessive_drinking	
+30105	Montana	Valley	pcnt_excessive_drinking	19
+30107	Montana	Wheatland	pcnt_excessive_drinking	
+30109	Montana	Wibaux	pcnt_excessive_drinking	11
+30111	Montana	Yellowstone	pcnt_excessive_drinking	16
+31001	Nebraska	Adams	pcnt_excessive_drinking	17
+31003	Nebraska	Antelope	pcnt_excessive_drinking	16
+31005	Nebraska	Arthur	pcnt_excessive_drinking	
+31007	Nebraska	Banner	pcnt_excessive_drinking	7
+31009	Nebraska	Blaine	pcnt_excessive_drinking	10
+31011	Nebraska	Boone	pcnt_excessive_drinking	19
+31013	Nebraska	Box Butte	pcnt_excessive_drinking	20
+31015	Nebraska	Boyd	pcnt_excessive_drinking	
+31017	Nebraska	Brown	pcnt_excessive_drinking	15
+31019	Nebraska	Buffalo	pcnt_excessive_drinking	16
+31021	Nebraska	Burt	pcnt_excessive_drinking	21
+31023	Nebraska	Butler	pcnt_excessive_drinking	24
+31025	Nebraska	Cass	pcnt_excessive_drinking	19
+31027	Nebraska	Cedar	pcnt_excessive_drinking	24
+31029	Nebraska	Chase	pcnt_excessive_drinking	24
+31031	Nebraska	Cherry	pcnt_excessive_drinking	13
+31033	Nebraska	Cheyenne	pcnt_excessive_drinking	20
+31035	Nebraska	Clay	pcnt_excessive_drinking	13
+31037	Nebraska	Colfax	pcnt_excessive_drinking	16
+31039	Nebraska	Cuming	pcnt_excessive_drinking	19
+31041	Nebraska	Custer	pcnt_excessive_drinking	15
+31043	Nebraska	Dakota	pcnt_excessive_drinking	20
+31045	Nebraska	Dawes	pcnt_excessive_drinking	22
+31047	Nebraska	Dawson	pcnt_excessive_drinking	15
+31049	Nebraska	Deuel	pcnt_excessive_drinking	18
+31051	Nebraska	Dixon	pcnt_excessive_drinking	24
+31053	Nebraska	Dodge	pcnt_excessive_drinking	17
+31055	Nebraska	Douglas	pcnt_excessive_drinking	20
+31057	Nebraska	Dundy	pcnt_excessive_drinking	15
+31059	Nebraska	Fillmore	pcnt_excessive_drinking	22
+31061	Nebraska	Franklin	pcnt_excessive_drinking	15
+31063	Nebraska	Frontier	pcnt_excessive_drinking	21
+31065	Nebraska	Furnas	pcnt_excessive_drinking	12
+31067	Nebraska	Gage	pcnt_excessive_drinking	23
+31069	Nebraska	Garden	pcnt_excessive_drinking	15
+31071	Nebraska	Garfield	pcnt_excessive_drinking	25
+31073	Nebraska	Gosper	pcnt_excessive_drinking	
+31075	Nebraska	Grant	pcnt_excessive_drinking	
+31077	Nebraska	Greeley	pcnt_excessive_drinking	20
+31079	Nebraska	Hall	pcnt_excessive_drinking	17
+31081	Nebraska	Hamilton	pcnt_excessive_drinking	16
+31083	Nebraska	Harlan	pcnt_excessive_drinking	12
+31085	Nebraska	Hayes	pcnt_excessive_drinking	17
+31087	Nebraska	Hitchcock	pcnt_excessive_drinking	13
+31089	Nebraska	Holt	pcnt_excessive_drinking	16
+31091	Nebraska	Hooker	pcnt_excessive_drinking	17
+31093	Nebraska	Howard	pcnt_excessive_drinking	17
+31095	Nebraska	Jefferson	pcnt_excessive_drinking	16
+31097	Nebraska	Johnson	pcnt_excessive_drinking	23
+31099	Nebraska	Kearney	pcnt_excessive_drinking	18
+31101	Nebraska	Keith	pcnt_excessive_drinking	18
+31103	Nebraska	Keya Paha	pcnt_excessive_drinking	14
+31105	Nebraska	Kimball	pcnt_excessive_drinking	12
+31107	Nebraska	Knox	pcnt_excessive_drinking	21
+31109	Nebraska	Lancaster	pcnt_excessive_drinking	20
+31111	Nebraska	Lincoln	pcnt_excessive_drinking	17
+31113	Nebraska	Logan	pcnt_excessive_drinking	
+31115	Nebraska	Loup	pcnt_excessive_drinking	
+31117	Nebraska	McPherson	pcnt_excessive_drinking	
+31119	Nebraska	Madison	pcnt_excessive_drinking	21
+31121	Nebraska	Merrick	pcnt_excessive_drinking	23
+31123	Nebraska	Morrill	pcnt_excessive_drinking	16
+31125	Nebraska	Nance	pcnt_excessive_drinking	25
+31127	Nebraska	Nemaha	pcnt_excessive_drinking	15
+31129	Nebraska	Nuckolls	pcnt_excessive_drinking	22
+31131	Nebraska	Otoe	pcnt_excessive_drinking	25
+31133	Nebraska	Pawnee	pcnt_excessive_drinking	11
+31135	Nebraska	Perkins	pcnt_excessive_drinking	13
+31137	Nebraska	Phelps	pcnt_excessive_drinking	17
+31139	Nebraska	Pierce	pcnt_excessive_drinking	22
+31141	Nebraska	Platte	pcnt_excessive_drinking	23
+31143	Nebraska	Polk	pcnt_excessive_drinking	22
+31145	Nebraska	Red Willow	pcnt_excessive_drinking	18
+31147	Nebraska	Richardson	pcnt_excessive_drinking	20
+31149	Nebraska	Rock	pcnt_excessive_drinking	15
+31151	Nebraska	Saline	pcnt_excessive_drinking	19
+31153	Nebraska	Sarpy	pcnt_excessive_drinking	21
+31155	Nebraska	Saunders	pcnt_excessive_drinking	26
+31157	Nebraska	Scotts Bluff	pcnt_excessive_drinking	12
+31159	Nebraska	Seward	pcnt_excessive_drinking	21
+31161	Nebraska	Sheridan	pcnt_excessive_drinking	14
+31163	Nebraska	Sherman	pcnt_excessive_drinking	17
+31165	Nebraska	Sioux	pcnt_excessive_drinking	17
+31167	Nebraska	Stanton	pcnt_excessive_drinking	23
+31169	Nebraska	Thayer	pcnt_excessive_drinking	19
+31171	Nebraska	Thomas	pcnt_excessive_drinking	19
+31173	Nebraska	Thurston	pcnt_excessive_drinking	23
+31175	Nebraska	Valley	pcnt_excessive_drinking	22
+31177	Nebraska	Washington	pcnt_excessive_drinking	21
+31179	Nebraska	Wayne	pcnt_excessive_drinking	20
+31181	Nebraska	Webster	pcnt_excessive_drinking	18
+31183	Nebraska	Wheeler	pcnt_excessive_drinking	12
+31185	Nebraska	York	pcnt_excessive_drinking	17
+32001	Nevada	Churchill	pcnt_excessive_drinking	17
+32003	Nevada	Clark	pcnt_excessive_drinking	19
+32005	Nevada	Douglas	pcnt_excessive_drinking	20
+32007	Nevada	Elko	pcnt_excessive_drinking	24
+32009	Nevada	Esmeralda	pcnt_excessive_drinking	5
+32011	Nevada	Eureka	pcnt_excessive_drinking	
+32013	Nevada	Humboldt	pcnt_excessive_drinking	24
+32015	Nevada	Lander	pcnt_excessive_drinking	20
+32017	Nevada	Lincoln	pcnt_excessive_drinking	14
+32019	Nevada	Lyon	pcnt_excessive_drinking	21
+32021	Nevada	Mineral	pcnt_excessive_drinking	19
+32023	Nevada	Nye	pcnt_excessive_drinking	14
+32027	Nevada	Pershing	pcnt_excessive_drinking	
+32029	Nevada	Storey	pcnt_excessive_drinking	18
+32031	Nevada	Washoe	pcnt_excessive_drinking	21
+32033	Nevada	White Pine	pcnt_excessive_drinking	13
+32510	Nevada	Carson City	pcnt_excessive_drinking	20
+33001	New Hampshire	Belknap	pcnt_excessive_drinking	16
+33003	New Hampshire	Carroll	pcnt_excessive_drinking	19
+33005	New Hampshire	Cheshire	pcnt_excessive_drinking	17
+33007	New Hampshire	Coos	pcnt_excessive_drinking	18
+33009	New Hampshire	Grafton	pcnt_excessive_drinking	19
+33011	New Hampshire	Hillsborough	pcnt_excessive_drinking	18
+33013	New Hampshire	Merrimack	pcnt_excessive_drinking	16
+33015	New Hampshire	Rockingham	pcnt_excessive_drinking	20
+33017	New Hampshire	Strafford	pcnt_excessive_drinking	17
+33019	New Hampshire	Sullivan	pcnt_excessive_drinking	15
+34001	New Jersey	Atlantic	pcnt_excessive_drinking	18
+34003	New Jersey	Bergen	pcnt_excessive_drinking	17
+34005	New Jersey	Burlington	pcnt_excessive_drinking	15
+34007	New Jersey	Camden	pcnt_excessive_drinking	17
+34009	New Jersey	Cape May	pcnt_excessive_drinking	19
+34011	New Jersey	Cumberland	pcnt_excessive_drinking	18
+34013	New Jersey	Essex	pcnt_excessive_drinking	14
+34015	New Jersey	Gloucester	pcnt_excessive_drinking	18
+34017	New Jersey	Hudson	pcnt_excessive_drinking	17
+34019	New Jersey	Hunterdon	pcnt_excessive_drinking	18
+34021	New Jersey	Mercer	pcnt_excessive_drinking	16
+34023	New Jersey	Middlesex	pcnt_excessive_drinking	13
+34025	New Jersey	Monmouth	pcnt_excessive_drinking	17
+34027	New Jersey	Morris	pcnt_excessive_drinking	17
+34029	New Jersey	Ocean	pcnt_excessive_drinking	15
+34031	New Jersey	Passaic	pcnt_excessive_drinking	15
+34033	New Jersey	Salem	pcnt_excessive_drinking	15
+34035	New Jersey	Somerset	pcnt_excessive_drinking	14
+34037	New Jersey	Sussex	pcnt_excessive_drinking	18
+34039	New Jersey	Union	pcnt_excessive_drinking	16
+34041	New Jersey	Warren	pcnt_excessive_drinking	16
+35001	New Mexico	Bernalillo	pcnt_excessive_drinking	13
+35003	New Mexico	Catron	pcnt_excessive_drinking	13
+35005	New Mexico	Chaves	pcnt_excessive_drinking	14
+35006	New Mexico	Cibola	pcnt_excessive_drinking	13
+35007	New Mexico	Colfax	pcnt_excessive_drinking	15
+35009	New Mexico	Curry	pcnt_excessive_drinking	15
+35011	New Mexico	De Baca	pcnt_excessive_drinking	9
+35013	New Mexico	Dona Ana	pcnt_excessive_drinking	16
+35015	New Mexico	Eddy	pcnt_excessive_drinking	15
+35017	New Mexico	Grant	pcnt_excessive_drinking	15
+35019	New Mexico	Guadalupe	pcnt_excessive_drinking	
+35021	New Mexico	Harding	pcnt_excessive_drinking	
+35023	New Mexico	Hidalgo	pcnt_excessive_drinking	
+35025	New Mexico	Lea	pcnt_excessive_drinking	14
+35027	New Mexico	Lincoln	pcnt_excessive_drinking	18
+35028	New Mexico	Los Alamos	pcnt_excessive_drinking	11
+35029	New Mexico	Luna	pcnt_excessive_drinking	17
+35031	New Mexico	McKinley	pcnt_excessive_drinking	12
+35033	New Mexico	Mora	pcnt_excessive_drinking	9
+35035	New Mexico	Otero	pcnt_excessive_drinking	14
+35037	New Mexico	Quay	pcnt_excessive_drinking	10
+35039	New Mexico	Rio Arriba	pcnt_excessive_drinking	13
+35041	New Mexico	Roosevelt	pcnt_excessive_drinking	12
+35043	New Mexico	Sandoval	pcnt_excessive_drinking	12
+35045	New Mexico	San Juan	pcnt_excessive_drinking	13
+35047	New Mexico	San Miguel	pcnt_excessive_drinking	16
+35049	New Mexico	Santa Fe	pcnt_excessive_drinking	13
+35051	New Mexico	Sierra	pcnt_excessive_drinking	9
+35053	New Mexico	Socorro	pcnt_excessive_drinking	14
+35055	New Mexico	Taos	pcnt_excessive_drinking	16
+35057	New Mexico	Torrance	pcnt_excessive_drinking	14
+35059	New Mexico	Union	pcnt_excessive_drinking	6
+35061	New Mexico	Valencia	pcnt_excessive_drinking	12
+36001	New York	Albany	pcnt_excessive_drinking	19
+36003	New York	Allegany	pcnt_excessive_drinking	22
+36005	New York	Bronx	pcnt_excessive_drinking	15
+36007	New York	Broome	pcnt_excessive_drinking	17
+36009	New York	Cattaraugus	pcnt_excessive_drinking	13
+36011	New York	Cayuga	pcnt_excessive_drinking	23
+36013	New York	Chautauqua	pcnt_excessive_drinking	21
+36015	New York	Chemung	pcnt_excessive_drinking	16
+36017	New York	Chenango	pcnt_excessive_drinking	18
+36019	New York	Clinton	pcnt_excessive_drinking	25
+36021	New York	Columbia	pcnt_excessive_drinking	21
+36023	New York	Cortland	pcnt_excessive_drinking	12
+36025	New York	Delaware	pcnt_excessive_drinking	12
+36027	New York	Dutchess	pcnt_excessive_drinking	18
+36029	New York	Erie	pcnt_excessive_drinking	18
+36031	New York	Essex	pcnt_excessive_drinking	19
+36033	New York	Franklin	pcnt_excessive_drinking	22
+36035	New York	Fulton	pcnt_excessive_drinking	22
+36037	New York	Genesee	pcnt_excessive_drinking	16
+36039	New York	Greene	pcnt_excessive_drinking	17
+36041	New York	Hamilton	pcnt_excessive_drinking	
+36043	New York	Herkimer	pcnt_excessive_drinking	25
+36045	New York	Jefferson	pcnt_excessive_drinking	22
+36047	New York	Kings	pcnt_excessive_drinking	13
+36049	New York	Lewis	pcnt_excessive_drinking	
+36051	New York	Livingston	pcnt_excessive_drinking	13
+36053	New York	Madison	pcnt_excessive_drinking	13
+36055	New York	Monroe	pcnt_excessive_drinking	16
+36057	New York	Montgomery	pcnt_excessive_drinking	17
+36059	New York	Nassau	pcnt_excessive_drinking	16
+36061	New York	New York	pcnt_excessive_drinking	22
+36063	New York	Niagara	pcnt_excessive_drinking	17
+36065	New York	Oneida	pcnt_excessive_drinking	13
+36067	New York	Onondaga	pcnt_excessive_drinking	18
+36069	New York	Ontario	pcnt_excessive_drinking	17
+36071	New York	Orange	pcnt_excessive_drinking	22
+36073	New York	Orleans	pcnt_excessive_drinking	14
+36075	New York	Oswego	pcnt_excessive_drinking	25
+36077	New York	Otsego	pcnt_excessive_drinking	18
+36079	New York	Putnam	pcnt_excessive_drinking	22
+36081	New York	Queens	pcnt_excessive_drinking	14
+36083	New York	Rensselaer	pcnt_excessive_drinking	22
+36085	New York	Richmond	pcnt_excessive_drinking	18
+36087	New York	Rockland	pcnt_excessive_drinking	11
+36089	New York	St. Lawrence	pcnt_excessive_drinking	20
+36091	New York	Saratoga	pcnt_excessive_drinking	19
+36093	New York	Schenectady	pcnt_excessive_drinking	14
+36095	New York	Schoharie	pcnt_excessive_drinking	15
+36097	New York	Schuyler	pcnt_excessive_drinking	
+36099	New York	Seneca	pcnt_excessive_drinking	12
+36101	New York	Steuben	pcnt_excessive_drinking	17
+36103	New York	Suffolk	pcnt_excessive_drinking	18
+36105	New York	Sullivan	pcnt_excessive_drinking	20
+36107	New York	Tioga	pcnt_excessive_drinking	20
+36109	New York	Tompkins	pcnt_excessive_drinking	17
+36111	New York	Ulster	pcnt_excessive_drinking	25
+36113	New York	Warren	pcnt_excessive_drinking	21
+36115	New York	Washington	pcnt_excessive_drinking	13
+36117	New York	Wayne	pcnt_excessive_drinking	14
+36119	New York	Westchester	pcnt_excessive_drinking	17
+36121	New York	Wyoming	pcnt_excessive_drinking	17
+36123	New York	Yates	pcnt_excessive_drinking	17
+37001	North Carolina	Alamance	pcnt_excessive_drinking	11
+37003	North Carolina	Alexander	pcnt_excessive_drinking	13
+37005	North Carolina	Alleghany	pcnt_excessive_drinking	17
+37007	North Carolina	Anson	pcnt_excessive_drinking	8
+37009	North Carolina	Ashe	pcnt_excessive_drinking	10
+37011	North Carolina	Avery	pcnt_excessive_drinking	6
+37013	North Carolina	Beaufort	pcnt_excessive_drinking	
+37015	North Carolina	Bertie	pcnt_excessive_drinking	
+37017	North Carolina	Bladen	pcnt_excessive_drinking	4
+37019	North Carolina	Brunswick	pcnt_excessive_drinking	14
+37021	North Carolina	Buncombe	pcnt_excessive_drinking	13
+37023	North Carolina	Burke	pcnt_excessive_drinking	7
+37025	North Carolina	Cabarrus	pcnt_excessive_drinking	15
+37027	North Carolina	Caldwell	pcnt_excessive_drinking	9
+37029	North Carolina	Camden	pcnt_excessive_drinking	
+37031	North Carolina	Carteret	pcnt_excessive_drinking	21
+37033	North Carolina	Caswell	pcnt_excessive_drinking	11
+37035	North Carolina	Catawba	pcnt_excessive_drinking	13
+37037	North Carolina	Chatham	pcnt_excessive_drinking	17
+37039	North Carolina	Cherokee	pcnt_excessive_drinking	9
+37041	North Carolina	Chowan	pcnt_excessive_drinking	
+37043	North Carolina	Clay	pcnt_excessive_drinking	6
+37045	North Carolina	Cleveland	pcnt_excessive_drinking	9
+37047	North Carolina	Columbus	pcnt_excessive_drinking	6
+37049	North Carolina	Craven	pcnt_excessive_drinking	12
+37051	North Carolina	Cumberland	pcnt_excessive_drinking	12
+37053	North Carolina	Currituck	pcnt_excessive_drinking	
+37055	North Carolina	Dare	pcnt_excessive_drinking	
+37057	North Carolina	Davidson	pcnt_excessive_drinking	15
+37059	North Carolina	Davie	pcnt_excessive_drinking	13
+37061	North Carolina	Duplin	pcnt_excessive_drinking	9
+37063	North Carolina	Durham	pcnt_excessive_drinking	15
+37065	North Carolina	Edgecombe	pcnt_excessive_drinking	10
+37067	North Carolina	Forsyth	pcnt_excessive_drinking	13
+37069	North Carolina	Franklin	pcnt_excessive_drinking	16
+37071	North Carolina	Gaston	pcnt_excessive_drinking	13
+37073	North Carolina	Gates	pcnt_excessive_drinking	8
+37075	North Carolina	Graham	pcnt_excessive_drinking	6
+37077	North Carolina	Granville	pcnt_excessive_drinking	9
+37079	North Carolina	Greene	pcnt_excessive_drinking	4
+37081	North Carolina	Guilford	pcnt_excessive_drinking	14
+37083	North Carolina	Halifax	pcnt_excessive_drinking	8
+37085	North Carolina	Harnett	pcnt_excessive_drinking	13
+37087	North Carolina	Haywood	pcnt_excessive_drinking	12
+37089	North Carolina	Henderson	pcnt_excessive_drinking	12
+37091	North Carolina	Hertford	pcnt_excessive_drinking	9
+37093	North Carolina	Hoke	pcnt_excessive_drinking	12
+37095	North Carolina	Hyde	pcnt_excessive_drinking	
+37097	North Carolina	Iredell	pcnt_excessive_drinking	16
+37099	North Carolina	Jackson	pcnt_excessive_drinking	17
+37101	North Carolina	Johnston	pcnt_excessive_drinking	15
+37103	North Carolina	Jones	pcnt_excessive_drinking	6
+37105	North Carolina	Lee	pcnt_excessive_drinking	10
+37107	North Carolina	Lenoir	pcnt_excessive_drinking	9
+37109	North Carolina	Lincoln	pcnt_excessive_drinking	12
+37111	North Carolina	McDowell	pcnt_excessive_drinking	8
+37113	North Carolina	Macon	pcnt_excessive_drinking	11
+37115	North Carolina	Madison	pcnt_excessive_drinking	8
+37117	North Carolina	Martin	pcnt_excessive_drinking	
+37119	North Carolina	Mecklenburg	pcnt_excessive_drinking	16
+37121	North Carolina	Mitchell	pcnt_excessive_drinking	9
+37123	North Carolina	Montgomery	pcnt_excessive_drinking	9
+37125	North Carolina	Moore	pcnt_excessive_drinking	14
+37127	North Carolina	Nash	pcnt_excessive_drinking	15
+37129	North Carolina	New Hanover	pcnt_excessive_drinking	18
+37131	North Carolina	Northampton	pcnt_excessive_drinking	12
+37133	North Carolina	Onslow	pcnt_excessive_drinking	18
+37135	North Carolina	Orange	pcnt_excessive_drinking	17
+37137	North Carolina	Pamlico	pcnt_excessive_drinking	5
+37139	North Carolina	Pasquotank	pcnt_excessive_drinking	14
+37141	North Carolina	Pender	pcnt_excessive_drinking	
+37143	North Carolina	Perquimans	pcnt_excessive_drinking	12
+37145	North Carolina	Person	pcnt_excessive_drinking	9
+37147	North Carolina	Pitt	pcnt_excessive_drinking	11
+37149	North Carolina	Polk	pcnt_excessive_drinking	14
+37151	North Carolina	Randolph	pcnt_excessive_drinking	11
+37153	North Carolina	Richmond	pcnt_excessive_drinking	9
+37155	North Carolina	Robeson	pcnt_excessive_drinking	9
+37157	North Carolina	Rockingham	pcnt_excessive_drinking	15
+37159	North Carolina	Rowan	pcnt_excessive_drinking	10
+37161	North Carolina	Rutherford	pcnt_excessive_drinking	9
+37163	North Carolina	Sampson	pcnt_excessive_drinking	11
+37165	North Carolina	Scotland	pcnt_excessive_drinking	9
+37167	North Carolina	Stanly	pcnt_excessive_drinking	13
+37169	North Carolina	Stokes	pcnt_excessive_drinking	
+37171	North Carolina	Surry	pcnt_excessive_drinking	5
+37173	North Carolina	Swain	pcnt_excessive_drinking	10
+37175	North Carolina	Transylvania	pcnt_excessive_drinking	12
+37177	North Carolina	Tyrrell	pcnt_excessive_drinking	5
+37179	North Carolina	Union	pcnt_excessive_drinking	13
+37181	North Carolina	Vance	pcnt_excessive_drinking	8
+37183	North Carolina	Wake	pcnt_excessive_drinking	15
+37185	North Carolina	Warren	pcnt_excessive_drinking	6
+37187	North Carolina	Washington	pcnt_excessive_drinking	7
+37189	North Carolina	Watauga	pcnt_excessive_drinking	17
+37191	North Carolina	Wayne	pcnt_excessive_drinking	10
+37193	North Carolina	Wilkes	pcnt_excessive_drinking	9
+37195	North Carolina	Wilson	pcnt_excessive_drinking	
+37197	North Carolina	Yadkin	pcnt_excessive_drinking	6
+37199	North Carolina	Yancey	pcnt_excessive_drinking	7
+38001	North Dakota	Adams	pcnt_excessive_drinking	16
+38003	North Dakota	Barnes	pcnt_excessive_drinking	19
+38005	North Dakota	Benson	pcnt_excessive_drinking	22
+38007	North Dakota	Billings	pcnt_excessive_drinking	
+38009	North Dakota	Bottineau	pcnt_excessive_drinking	22
+38011	North Dakota	Bowman	pcnt_excessive_drinking	18
+38013	North Dakota	Burke	pcnt_excessive_drinking	23
+38015	North Dakota	Burleigh	pcnt_excessive_drinking	19
+38017	North Dakota	Cass	pcnt_excessive_drinking	22
+38019	North Dakota	Cavalier	pcnt_excessive_drinking	19
+38021	North Dakota	Dickey	pcnt_excessive_drinking	24
+38023	North Dakota	Divide	pcnt_excessive_drinking	25
+38025	North Dakota	Dunn	pcnt_excessive_drinking	
+38027	North Dakota	Eddy	pcnt_excessive_drinking	
+38029	North Dakota	Emmons	pcnt_excessive_drinking	17
+38031	North Dakota	Foster	pcnt_excessive_drinking	25
+38033	North Dakota	Golden Valley	pcnt_excessive_drinking	16
+38035	North Dakota	Grand Forks	pcnt_excessive_drinking	21
+38037	North Dakota	Grant	pcnt_excessive_drinking	
+38039	North Dakota	Griggs	pcnt_excessive_drinking	16
+38041	North Dakota	Hettinger	pcnt_excessive_drinking	9
+38043	North Dakota	Kidder	pcnt_excessive_drinking	21
+38045	North Dakota	LaMoure	pcnt_excessive_drinking	12
+38047	North Dakota	Logan	pcnt_excessive_drinking	
+38049	North Dakota	McHenry	pcnt_excessive_drinking	27
+38051	North Dakota	McIntosh	pcnt_excessive_drinking	19
+38053	North Dakota	McKenzie	pcnt_excessive_drinking	30
+38055	North Dakota	McLean	pcnt_excessive_drinking	20
+38057	North Dakota	Mercer	pcnt_excessive_drinking	20
+38059	North Dakota	Morton	pcnt_excessive_drinking	22
+38061	North Dakota	Mountrail	pcnt_excessive_drinking	22
+38063	North Dakota	Nelson	pcnt_excessive_drinking	25
+38065	North Dakota	Oliver	pcnt_excessive_drinking	11
+38067	North Dakota	Pembina	pcnt_excessive_drinking	24
+38069	North Dakota	Pierce	pcnt_excessive_drinking	25
+38071	North Dakota	Ramsey	pcnt_excessive_drinking	29
+38073	North Dakota	Ransom	pcnt_excessive_drinking	24
+38075	North Dakota	Renville	pcnt_excessive_drinking	26
+38077	North Dakota	Richland	pcnt_excessive_drinking	22
+38079	North Dakota	Rolette	pcnt_excessive_drinking	28
+38081	North Dakota	Sargent	pcnt_excessive_drinking	29
+38083	North Dakota	Sheridan	pcnt_excessive_drinking	
+38085	North Dakota	Sioux	pcnt_excessive_drinking	28
+38087	North Dakota	Slope	pcnt_excessive_drinking	
+38089	North Dakota	Stark	pcnt_excessive_drinking	20
+38091	North Dakota	Steele	pcnt_excessive_drinking	
+38093	North Dakota	Stutsman	pcnt_excessive_drinking	22
+38095	North Dakota	Towner	pcnt_excessive_drinking	14
+38097	North Dakota	Traill	pcnt_excessive_drinking	18
+38099	North Dakota	Walsh	pcnt_excessive_drinking	20
+38101	North Dakota	Ward	pcnt_excessive_drinking	22
+38103	North Dakota	Wells	pcnt_excessive_drinking	20
+38105	North Dakota	Williams	pcnt_excessive_drinking	26
+39001	Ohio	Adams	pcnt_excessive_drinking	9
+39003	Ohio	Allen	pcnt_excessive_drinking	16
+39005	Ohio	Ashland	pcnt_excessive_drinking	
+39007	Ohio	Ashtabula	pcnt_excessive_drinking	22
+39009	Ohio	Athens	pcnt_excessive_drinking	10
+39011	Ohio	Auglaize	pcnt_excessive_drinking	15
+39013	Ohio	Belmont	pcnt_excessive_drinking	22
+39015	Ohio	Brown	pcnt_excessive_drinking	11
+39017	Ohio	Butler	pcnt_excessive_drinking	19
+39019	Ohio	Carroll	pcnt_excessive_drinking	16
+39021	Ohio	Champaign	pcnt_excessive_drinking	17
+39023	Ohio	Clark	pcnt_excessive_drinking	15
+39025	Ohio	Clermont	pcnt_excessive_drinking	13
+39027	Ohio	Clinton	pcnt_excessive_drinking	9
+39029	Ohio	Columbiana	pcnt_excessive_drinking	14
+39031	Ohio	Coshocton	pcnt_excessive_drinking	16
+39033	Ohio	Crawford	pcnt_excessive_drinking	
+39035	Ohio	Cuyahoga	pcnt_excessive_drinking	18
+39037	Ohio	Darke	pcnt_excessive_drinking	13
+39039	Ohio	Defiance	pcnt_excessive_drinking	10
+39041	Ohio	Delaware	pcnt_excessive_drinking	21
+39043	Ohio	Erie	pcnt_excessive_drinking	20
+39045	Ohio	Fairfield	pcnt_excessive_drinking	14
+39047	Ohio	Fayette	pcnt_excessive_drinking	
+39049	Ohio	Franklin	pcnt_excessive_drinking	19
+39051	Ohio	Fulton	pcnt_excessive_drinking	
+39053	Ohio	Gallia	pcnt_excessive_drinking	17
+39055	Ohio	Geauga	pcnt_excessive_drinking	20
+39057	Ohio	Greene	pcnt_excessive_drinking	13
+39059	Ohio	Guernsey	pcnt_excessive_drinking	16
+39061	Ohio	Hamilton	pcnt_excessive_drinking	20
+39063	Ohio	Hancock	pcnt_excessive_drinking	11
+39065	Ohio	Hardin	pcnt_excessive_drinking	12
+39067	Ohio	Harrison	pcnt_excessive_drinking	17
+39069	Ohio	Henry	pcnt_excessive_drinking	
+39071	Ohio	Highland	pcnt_excessive_drinking	9
+39073	Ohio	Hocking	pcnt_excessive_drinking	15
+39075	Ohio	Holmes	pcnt_excessive_drinking	
+39077	Ohio	Huron	pcnt_excessive_drinking	
+39079	Ohio	Jackson	pcnt_excessive_drinking	
+39081	Ohio	Jefferson	pcnt_excessive_drinking	19
+39083	Ohio	Knox	pcnt_excessive_drinking	13
+39085	Ohio	Lake	pcnt_excessive_drinking	25
+39087	Ohio	Lawrence	pcnt_excessive_drinking	12
+39089	Ohio	Licking	pcnt_excessive_drinking	20
+39091	Ohio	Logan	pcnt_excessive_drinking	15
+39093	Ohio	Lorain	pcnt_excessive_drinking	19
+39095	Ohio	Lucas	pcnt_excessive_drinking	20
+39097	Ohio	Madison	pcnt_excessive_drinking	15
+39099	Ohio	Mahoning	pcnt_excessive_drinking	15
+39101	Ohio	Marion	pcnt_excessive_drinking	16
+39103	Ohio	Medina	pcnt_excessive_drinking	15
+39105	Ohio	Meigs	pcnt_excessive_drinking	
+39107	Ohio	Mercer	pcnt_excessive_drinking	
+39109	Ohio	Miami	pcnt_excessive_drinking	20
+39111	Ohio	Monroe	pcnt_excessive_drinking	6
+39113	Ohio	Montgomery	pcnt_excessive_drinking	14
+39115	Ohio	Morgan	pcnt_excessive_drinking	10
+39117	Ohio	Morrow	pcnt_excessive_drinking	
+39119	Ohio	Muskingum	pcnt_excessive_drinking	15
+39121	Ohio	Noble	pcnt_excessive_drinking	
+39123	Ohio	Ottawa	pcnt_excessive_drinking	
+39125	Ohio	Paulding	pcnt_excessive_drinking	11
+39127	Ohio	Perry	pcnt_excessive_drinking	13
+39129	Ohio	Pickaway	pcnt_excessive_drinking	13
+39131	Ohio	Pike	pcnt_excessive_drinking	9
+39133	Ohio	Portage	pcnt_excessive_drinking	16
+39135	Ohio	Preble	pcnt_excessive_drinking	
+39137	Ohio	Putnam	pcnt_excessive_drinking	22
+39139	Ohio	Richland	pcnt_excessive_drinking	11
+39141	Ohio	Ross	pcnt_excessive_drinking	13
+39143	Ohio	Sandusky	pcnt_excessive_drinking	19
+39145	Ohio	Scioto	pcnt_excessive_drinking	14
+39147	Ohio	Seneca	pcnt_excessive_drinking	19
+39149	Ohio	Shelby	pcnt_excessive_drinking	18
+39151	Ohio	Stark	pcnt_excessive_drinking	15
+39153	Ohio	Summit	pcnt_excessive_drinking	18
+39155	Ohio	Trumbull	pcnt_excessive_drinking	20
+39157	Ohio	Tuscarawas	pcnt_excessive_drinking	16
+39159	Ohio	Union	pcnt_excessive_drinking	24
+39161	Ohio	Van Wert	pcnt_excessive_drinking	13
+39163	Ohio	Vinton	pcnt_excessive_drinking	
+39165	Ohio	Warren	pcnt_excessive_drinking	21
+39167	Ohio	Washington	pcnt_excessive_drinking	12
+39169	Ohio	Wayne	pcnt_excessive_drinking	12
+39171	Ohio	Williams	pcnt_excessive_drinking	13
+39173	Ohio	Wood	pcnt_excessive_drinking	17
+39175	Ohio	Wyandot	pcnt_excessive_drinking	
+40001	Oklahoma	Adair	pcnt_excessive_drinking	13
+40003	Oklahoma	Alfalfa	pcnt_excessive_drinking	
+40005	Oklahoma	Atoka	pcnt_excessive_drinking	9
+40007	Oklahoma	Beaver	pcnt_excessive_drinking	9
+40009	Oklahoma	Beckham	pcnt_excessive_drinking	13
+40011	Oklahoma	Blaine	pcnt_excessive_drinking	17
+40013	Oklahoma	Bryan	pcnt_excessive_drinking	9
+40015	Oklahoma	Caddo	pcnt_excessive_drinking	10
+40017	Oklahoma	Canadian	pcnt_excessive_drinking	16
+40019	Oklahoma	Carter	pcnt_excessive_drinking	9
+40021	Oklahoma	Cherokee	pcnt_excessive_drinking	13
+40023	Oklahoma	Choctaw	pcnt_excessive_drinking	10
+40025	Oklahoma	Cimarron	pcnt_excessive_drinking	
+40027	Oklahoma	Cleveland	pcnt_excessive_drinking	15
+40029	Oklahoma	Coal	pcnt_excessive_drinking	
+40031	Oklahoma	Comanche	pcnt_excessive_drinking	17
+40033	Oklahoma	Cotton	pcnt_excessive_drinking	
+40035	Oklahoma	Craig	pcnt_excessive_drinking	15
+40037	Oklahoma	Creek	pcnt_excessive_drinking	15
+40039	Oklahoma	Custer	pcnt_excessive_drinking	10
+40041	Oklahoma	Delaware	pcnt_excessive_drinking	11
+40043	Oklahoma	Dewey	pcnt_excessive_drinking	4
+40045	Oklahoma	Ellis	pcnt_excessive_drinking	
+40047	Oklahoma	Garfield	pcnt_excessive_drinking	16
+40049	Oklahoma	Garvin	pcnt_excessive_drinking	7
+40051	Oklahoma	Grady	pcnt_excessive_drinking	11
+40053	Oklahoma	Grant	pcnt_excessive_drinking	
+40055	Oklahoma	Greer	pcnt_excessive_drinking	5
+40057	Oklahoma	Harmon	pcnt_excessive_drinking	0
+40059	Oklahoma	Harper	pcnt_excessive_drinking	
+40061	Oklahoma	Haskell	pcnt_excessive_drinking	8
+40063	Oklahoma	Hughes	pcnt_excessive_drinking	12
+40065	Oklahoma	Jackson	pcnt_excessive_drinking	11
+40067	Oklahoma	Jefferson	pcnt_excessive_drinking	10
+40069	Oklahoma	Johnston	pcnt_excessive_drinking	16
+40071	Oklahoma	Kay	pcnt_excessive_drinking	12
+40073	Oklahoma	Kingfisher	pcnt_excessive_drinking	21
+40075	Oklahoma	Kiowa	pcnt_excessive_drinking	13
+40077	Oklahoma	Latimer	pcnt_excessive_drinking	6
+40079	Oklahoma	Le Flore	pcnt_excessive_drinking	9
+40081	Oklahoma	Lincoln	pcnt_excessive_drinking	12
+40083	Oklahoma	Logan	pcnt_excessive_drinking	12
+40085	Oklahoma	Love	pcnt_excessive_drinking	18
+40087	Oklahoma	McClain	pcnt_excessive_drinking	12
+40089	Oklahoma	McCurtain	pcnt_excessive_drinking	10
+40091	Oklahoma	McIntosh	pcnt_excessive_drinking	9
+40093	Oklahoma	Major	pcnt_excessive_drinking	6
+40095	Oklahoma	Marshall	pcnt_excessive_drinking	15
+40097	Oklahoma	Mayes	pcnt_excessive_drinking	10
+40099	Oklahoma	Murray	pcnt_excessive_drinking	12
+40101	Oklahoma	Muskogee	pcnt_excessive_drinking	10
+40103	Oklahoma	Noble	pcnt_excessive_drinking	13
+40105	Oklahoma	Nowata	pcnt_excessive_drinking	9
+40107	Oklahoma	Okfuskee	pcnt_excessive_drinking	7
+40109	Oklahoma	Oklahoma	pcnt_excessive_drinking	16
+40111	Oklahoma	Okmulgee	pcnt_excessive_drinking	10
+40113	Oklahoma	Osage	pcnt_excessive_drinking	13
+40115	Oklahoma	Ottawa	pcnt_excessive_drinking	10
+40117	Oklahoma	Pawnee	pcnt_excessive_drinking	14
+40119	Oklahoma	Payne	pcnt_excessive_drinking	15
+40121	Oklahoma	Pittsburg	pcnt_excessive_drinking	13
+40123	Oklahoma	Pontotoc	pcnt_excessive_drinking	14
+40125	Oklahoma	Pottawatomie	pcnt_excessive_drinking	15
+40127	Oklahoma	Pushmataha	pcnt_excessive_drinking	8
+40129	Oklahoma	Roger Mills	pcnt_excessive_drinking	
+40131	Oklahoma	Rogers	pcnt_excessive_drinking	12
+40133	Oklahoma	Seminole	pcnt_excessive_drinking	8
+40135	Oklahoma	Sequoyah	pcnt_excessive_drinking	10
+40137	Oklahoma	Stephens	pcnt_excessive_drinking	11
+40139	Oklahoma	Texas	pcnt_excessive_drinking	13
+40141	Oklahoma	Tillman	pcnt_excessive_drinking	
+40143	Oklahoma	Tulsa	pcnt_excessive_drinking	15
+40145	Oklahoma	Wagoner	pcnt_excessive_drinking	10
+40147	Oklahoma	Washington	pcnt_excessive_drinking	9
+40149	Oklahoma	Washita	pcnt_excessive_drinking	10
+40151	Oklahoma	Woods	pcnt_excessive_drinking	16
+40153	Oklahoma	Woodward	pcnt_excessive_drinking	15
+41001	Oregon	Baker	pcnt_excessive_drinking	17
+41003	Oregon	Benton	pcnt_excessive_drinking	15
+41005	Oregon	Clackamas	pcnt_excessive_drinking	16
+41007	Oregon	Clatsop	pcnt_excessive_drinking	15
+41009	Oregon	Columbia	pcnt_excessive_drinking	15
+41011	Oregon	Coos	pcnt_excessive_drinking	18
+41013	Oregon	Crook	pcnt_excessive_drinking	13
+41015	Oregon	Curry	pcnt_excessive_drinking	19
+41017	Oregon	Deschutes	pcnt_excessive_drinking	17
+41019	Oregon	Douglas	pcnt_excessive_drinking	15
+41021	Oregon	Gilliam	pcnt_excessive_drinking	2
+41023	Oregon	Grant	pcnt_excessive_drinking	20
+41025	Oregon	Harney	pcnt_excessive_drinking	12
+41027	Oregon	Hood River	pcnt_excessive_drinking	17
+41029	Oregon	Jackson	pcnt_excessive_drinking	15
+41031	Oregon	Jefferson	pcnt_excessive_drinking	18
+41033	Oregon	Josephine	pcnt_excessive_drinking	14
+41035	Oregon	Klamath	pcnt_excessive_drinking	14
+41037	Oregon	Lake	pcnt_excessive_drinking	17
+41039	Oregon	Lane	pcnt_excessive_drinking	17
+41041	Oregon	Lincoln	pcnt_excessive_drinking	21
+41043	Oregon	Linn	pcnt_excessive_drinking	17
+41045	Oregon	Malheur	pcnt_excessive_drinking	15
+41047	Oregon	Marion	pcnt_excessive_drinking	13
+41049	Oregon	Morrow	pcnt_excessive_drinking	17
+41051	Oregon	Multnomah	pcnt_excessive_drinking	20
+41053	Oregon	Polk	pcnt_excessive_drinking	11
+41055	Oregon	Sherman	pcnt_excessive_drinking	
+41057	Oregon	Tillamook	pcnt_excessive_drinking	21
+41059	Oregon	Umatilla	pcnt_excessive_drinking	14
+41061	Oregon	Union	pcnt_excessive_drinking	13
+41063	Oregon	Wallowa	pcnt_excessive_drinking	21
+41065	Oregon	Wasco	pcnt_excessive_drinking	13
+41067	Oregon	Washington	pcnt_excessive_drinking	16
+41069	Oregon	Wheeler	pcnt_excessive_drinking	
+41071	Oregon	Yamhill	pcnt_excessive_drinking	15
+42001	Pennsylvania	Adams	pcnt_excessive_drinking	15
+42003	Pennsylvania	Allegheny	pcnt_excessive_drinking	19
+42005	Pennsylvania	Armstrong	pcnt_excessive_drinking	20
+42007	Pennsylvania	Beaver	pcnt_excessive_drinking	15
+42009	Pennsylvania	Bedford	pcnt_excessive_drinking	9
+42011	Pennsylvania	Berks	pcnt_excessive_drinking	15
+42013	Pennsylvania	Blair	pcnt_excessive_drinking	13
+42015	Pennsylvania	Bradford	pcnt_excessive_drinking	16
+42017	Pennsylvania	Bucks	pcnt_excessive_drinking	19
+42019	Pennsylvania	Butler	pcnt_excessive_drinking	15
+42021	Pennsylvania	Cambria	pcnt_excessive_drinking	20
+42023	Pennsylvania	Cameron	pcnt_excessive_drinking	
+42025	Pennsylvania	Carbon	pcnt_excessive_drinking	18
+42027	Pennsylvania	Centre	pcnt_excessive_drinking	14
+42029	Pennsylvania	Chester	pcnt_excessive_drinking	19
+42031	Pennsylvania	Clarion	pcnt_excessive_drinking	14
+42033	Pennsylvania	Clearfield	pcnt_excessive_drinking	17
+42035	Pennsylvania	Clinton	pcnt_excessive_drinking	21
+42037	Pennsylvania	Columbia	pcnt_excessive_drinking	17
+42039	Pennsylvania	Crawford	pcnt_excessive_drinking	12
+42041	Pennsylvania	Cumberland	pcnt_excessive_drinking	15
+42043	Pennsylvania	Dauphin	pcnt_excessive_drinking	18
+42045	Pennsylvania	Delaware	pcnt_excessive_drinking	21
+42047	Pennsylvania	Elk	pcnt_excessive_drinking	26
+42049	Pennsylvania	Erie	pcnt_excessive_drinking	19
+42051	Pennsylvania	Fayette	pcnt_excessive_drinking	17
+42053	Pennsylvania	Forest	pcnt_excessive_drinking	
+42055	Pennsylvania	Franklin	pcnt_excessive_drinking	10
+42057	Pennsylvania	Fulton	pcnt_excessive_drinking	
+42059	Pennsylvania	Greene	pcnt_excessive_drinking	
+42061	Pennsylvania	Huntingdon	pcnt_excessive_drinking	19
+42063	Pennsylvania	Indiana	pcnt_excessive_drinking	19
+42065	Pennsylvania	Jefferson	pcnt_excessive_drinking	19
+42067	Pennsylvania	Juniata	pcnt_excessive_drinking	9
+42069	Pennsylvania	Lackawanna	pcnt_excessive_drinking	23
+42071	Pennsylvania	Lancaster	pcnt_excessive_drinking	14
+42073	Pennsylvania	Lawrence	pcnt_excessive_drinking	13
+42075	Pennsylvania	Lebanon	pcnt_excessive_drinking	14
+42077	Pennsylvania	Lehigh	pcnt_excessive_drinking	17
+42079	Pennsylvania	Luzerne	pcnt_excessive_drinking	21
+42081	Pennsylvania	Lycoming	pcnt_excessive_drinking	17
+42083	Pennsylvania	McKean	pcnt_excessive_drinking	23
+42085	Pennsylvania	Mercer	pcnt_excessive_drinking	14
+42087	Pennsylvania	Mifflin	pcnt_excessive_drinking	13
+42089	Pennsylvania	Monroe	pcnt_excessive_drinking	25
+42091	Pennsylvania	Montgomery	pcnt_excessive_drinking	17
+42093	Pennsylvania	Montour	pcnt_excessive_drinking	13
+42095	Pennsylvania	Northampton	pcnt_excessive_drinking	17
+42097	Pennsylvania	Northumberland	pcnt_excessive_drinking	19
+42099	Pennsylvania	Perry	pcnt_excessive_drinking	14
+42101	Pennsylvania	Philadelphia	pcnt_excessive_drinking	17
+42103	Pennsylvania	Pike	pcnt_excessive_drinking	14
+42105	Pennsylvania	Potter	pcnt_excessive_drinking	16
+42107	Pennsylvania	Schuylkill	pcnt_excessive_drinking	18
+42109	Pennsylvania	Snyder	pcnt_excessive_drinking	15
+42111	Pennsylvania	Somerset	pcnt_excessive_drinking	22
+42113	Pennsylvania	Sullivan	pcnt_excessive_drinking	
+42115	Pennsylvania	Susquehanna	pcnt_excessive_drinking	21
+42117	Pennsylvania	Tioga	pcnt_excessive_drinking	15
+42119	Pennsylvania	Union	pcnt_excessive_drinking	16
+42121	Pennsylvania	Venango	pcnt_excessive_drinking	15
+42123	Pennsylvania	Warren	pcnt_excessive_drinking	22
+42125	Pennsylvania	Washington	pcnt_excessive_drinking	18
+42127	Pennsylvania	Wayne	pcnt_excessive_drinking	18
+42129	Pennsylvania	Westmoreland	pcnt_excessive_drinking	16
+42131	Pennsylvania	Wyoming	pcnt_excessive_drinking	21
+42133	Pennsylvania	York	pcnt_excessive_drinking	16
+44001	Rhode Island	Bristol	pcnt_excessive_drinking	18
+44003	Rhode Island	Kent	pcnt_excessive_drinking	20
+44005	Rhode Island	Newport	pcnt_excessive_drinking	21
+44007	Rhode Island	Providence	pcnt_excessive_drinking	18
+44009	Rhode Island	Washington	pcnt_excessive_drinking	23
+45001	South Carolina	Abbeville	pcnt_excessive_drinking	13
+45003	South Carolina	Aiken	pcnt_excessive_drinking	14
+45005	South Carolina	Allendale	pcnt_excessive_drinking	16
+45007	South Carolina	Anderson	pcnt_excessive_drinking	11
+45009	South Carolina	Bamberg	pcnt_excessive_drinking	10
+45011	South Carolina	Barnwell	pcnt_excessive_drinking	11
+45013	South Carolina	Beaufort	pcnt_excessive_drinking	19
+45015	South Carolina	Berkeley	pcnt_excessive_drinking	16
+45017	South Carolina	Calhoun	pcnt_excessive_drinking	11
+45019	South Carolina	Charleston	pcnt_excessive_drinking	22
+45021	South Carolina	Cherokee	pcnt_excessive_drinking	10
+45023	South Carolina	Chester	pcnt_excessive_drinking	15
+45025	South Carolina	Chesterfield	pcnt_excessive_drinking	13
+45027	South Carolina	Clarendon	pcnt_excessive_drinking	13
+45029	South Carolina	Colleton	pcnt_excessive_drinking	9
+45031	South Carolina	Darlington	pcnt_excessive_drinking	10
+45033	South Carolina	Dillon	pcnt_excessive_drinking	10
+45035	South Carolina	Dorchester	pcnt_excessive_drinking	15
+45037	South Carolina	Edgefield	pcnt_excessive_drinking	11
+45039	South Carolina	Fairfield	pcnt_excessive_drinking	11
+45041	South Carolina	Florence	pcnt_excessive_drinking	13
+45043	South Carolina	Georgetown	pcnt_excessive_drinking	16
+45045	South Carolina	Greenville	pcnt_excessive_drinking	13
+45047	South Carolina	Greenwood	pcnt_excessive_drinking	12
+45049	South Carolina	Hampton	pcnt_excessive_drinking	11
+45051	South Carolina	Horry	pcnt_excessive_drinking	17
+45053	South Carolina	Jasper	pcnt_excessive_drinking	19
+45055	South Carolina	Kershaw	pcnt_excessive_drinking	14
+45057	South Carolina	Lancaster	pcnt_excessive_drinking	12
+45059	South Carolina	Laurens	pcnt_excessive_drinking	10
+45061	South Carolina	Lee	pcnt_excessive_drinking	13
+45063	South Carolina	Lexington	pcnt_excessive_drinking	15
+45065	South Carolina	McCormick	pcnt_excessive_drinking	12
+45067	South Carolina	Marion	pcnt_excessive_drinking	7
+45069	South Carolina	Marlboro	pcnt_excessive_drinking	12
+45071	South Carolina	Newberry	pcnt_excessive_drinking	14
+45073	South Carolina	Oconee	pcnt_excessive_drinking	13
+45075	South Carolina	Orangeburg	pcnt_excessive_drinking	11
+45077	South Carolina	Pickens	pcnt_excessive_drinking	9
+45079	South Carolina	Richland	pcnt_excessive_drinking	19
+45081	South Carolina	Saluda	pcnt_excessive_drinking	21
+45083	South Carolina	Spartanburg	pcnt_excessive_drinking	13
+45085	South Carolina	Sumter	pcnt_excessive_drinking	13
+45087	South Carolina	Union	pcnt_excessive_drinking	11
+45089	South Carolina	Williamsburg	pcnt_excessive_drinking	11
+45091	South Carolina	York	pcnt_excessive_drinking	13
+46003	South Dakota	Aurora	pcnt_excessive_drinking	17
+46005	South Dakota	Beadle	pcnt_excessive_drinking	19
+46007	South Dakota	Bennett	pcnt_excessive_drinking	28
+46009	South Dakota	Bon Homme	pcnt_excessive_drinking	16
+46011	South Dakota	Brookings	pcnt_excessive_drinking	19
+46013	South Dakota	Brown	pcnt_excessive_drinking	21
+46015	South Dakota	Brule	pcnt_excessive_drinking	17
+46017	South Dakota	Buffalo	pcnt_excessive_drinking	34
+46019	South Dakota	Butte	pcnt_excessive_drinking	11
+46021	South Dakota	Campbell	pcnt_excessive_drinking	19
+46023	South Dakota	Charles Mix	pcnt_excessive_drinking	22
+46025	South Dakota	Clark	pcnt_excessive_drinking	15
+46027	South Dakota	Clay	pcnt_excessive_drinking	20
+46029	South Dakota	Codington	pcnt_excessive_drinking	22
+46031	South Dakota	Corson	pcnt_excessive_drinking	24
+46033	South Dakota	Custer	pcnt_excessive_drinking	16
+46035	South Dakota	Davison	pcnt_excessive_drinking	14
+46037	South Dakota	Day	pcnt_excessive_drinking	
+46039	South Dakota	Deuel	pcnt_excessive_drinking	26
+46041	South Dakota	Dewey	pcnt_excessive_drinking	24
+46043	South Dakota	Douglas	pcnt_excessive_drinking	16
+46045	South Dakota	Edmunds	pcnt_excessive_drinking	20
+46047	South Dakota	Fall River	pcnt_excessive_drinking	17
+46049	South Dakota	Faulk	pcnt_excessive_drinking	
+46051	South Dakota	Grant	pcnt_excessive_drinking	22
+46053	South Dakota	Gregory	pcnt_excessive_drinking	25
+46055	South Dakota	Haakon	pcnt_excessive_drinking	
+46057	South Dakota	Hamlin	pcnt_excessive_drinking	17
+46059	South Dakota	Hand	pcnt_excessive_drinking	18
+46061	South Dakota	Hanson	pcnt_excessive_drinking	
+46063	South Dakota	Harding	pcnt_excessive_drinking	
+46065	South Dakota	Hughes	pcnt_excessive_drinking	16
+46067	South Dakota	Hutchinson	pcnt_excessive_drinking	15
+46069	South Dakota	Hyde	pcnt_excessive_drinking	
+46071	South Dakota	Jackson	pcnt_excessive_drinking	21
+46073	South Dakota	Jerauld	pcnt_excessive_drinking	14
+46075	South Dakota	Jones	pcnt_excessive_drinking	
+46077	South Dakota	Kingsbury	pcnt_excessive_drinking	17
+46079	South Dakota	Lake	pcnt_excessive_drinking	21
+46081	South Dakota	Lawrence	pcnt_excessive_drinking	20
+46083	South Dakota	Lincoln	pcnt_excessive_drinking	22
+46085	South Dakota	Lyman	pcnt_excessive_drinking	19
+46087	South Dakota	McCook	pcnt_excessive_drinking	23
+46089	South Dakota	McPherson	pcnt_excessive_drinking	15
+46091	South Dakota	Marshall	pcnt_excessive_drinking	20
+46093	South Dakota	Meade	pcnt_excessive_drinking	16
+46095	South Dakota	Mellette	pcnt_excessive_drinking	16
+46097	South Dakota	Miner	pcnt_excessive_drinking	
+46099	South Dakota	Minnehaha	pcnt_excessive_drinking	20
+46101	South Dakota	Moody	pcnt_excessive_drinking	17
+46103	South Dakota	Pennington	pcnt_excessive_drinking	17
+46105	South Dakota	Perkins	pcnt_excessive_drinking	16
+46107	South Dakota	Potter	pcnt_excessive_drinking	17
+46109	South Dakota	Roberts	pcnt_excessive_drinking	18
+46111	South Dakota	Sanborn	pcnt_excessive_drinking	18
+46113	South Dakota	Shannon	pcnt_excessive_drinking	27
+46115	South Dakota	Spink	pcnt_excessive_drinking	22
+46117	South Dakota	Stanley	pcnt_excessive_drinking	20
+46119	South Dakota	Sully	pcnt_excessive_drinking	19
+46121	South Dakota	Todd	pcnt_excessive_drinking	21
+46123	South Dakota	Tripp	pcnt_excessive_drinking	17
+46125	South Dakota	Turner	pcnt_excessive_drinking	18
+46127	South Dakota	Union	pcnt_excessive_drinking	20
+46129	South Dakota	Walworth	pcnt_excessive_drinking	15
+46135	South Dakota	Yankton	pcnt_excessive_drinking	21
+46137	South Dakota	Ziebach	pcnt_excessive_drinking	25
+47001	Tennessee	Anderson	pcnt_excessive_drinking	12
+47003	Tennessee	Bedford	pcnt_excessive_drinking	8
+47005	Tennessee	Benton	pcnt_excessive_drinking	8
+47007	Tennessee	Bledsoe	pcnt_excessive_drinking	7
+47009	Tennessee	Blount	pcnt_excessive_drinking	8
+47011	Tennessee	Bradley	pcnt_excessive_drinking	7
+47013	Tennessee	Campbell	pcnt_excessive_drinking	1
+47015	Tennessee	Cannon	pcnt_excessive_drinking	10
+47017	Tennessee	Carroll	pcnt_excessive_drinking	8
+47019	Tennessee	Carter	pcnt_excessive_drinking	5
+47021	Tennessee	Cheatham	pcnt_excessive_drinking	4
+47023	Tennessee	Chester	pcnt_excessive_drinking	10
+47025	Tennessee	Claiborne	pcnt_excessive_drinking	11
+47027	Tennessee	Clay	pcnt_excessive_drinking	3
+47029	Tennessee	Cocke	pcnt_excessive_drinking	4
+47031	Tennessee	Coffee	pcnt_excessive_drinking	9
+47033	Tennessee	Crockett	pcnt_excessive_drinking	5
+47035	Tennessee	Cumberland	pcnt_excessive_drinking	6
+47037	Tennessee	Davidson	pcnt_excessive_drinking	12
+47039	Tennessee	Decatur	pcnt_excessive_drinking	11
+47041	Tennessee	DeKalb	pcnt_excessive_drinking	6
+47043	Tennessee	Dickson	pcnt_excessive_drinking	9
+47045	Tennessee	Dyer	pcnt_excessive_drinking	11
+47047	Tennessee	Fayette	pcnt_excessive_drinking	8
+47049	Tennessee	Fentress	pcnt_excessive_drinking	2
+47051	Tennessee	Franklin	pcnt_excessive_drinking	11
+47053	Tennessee	Gibson	pcnt_excessive_drinking	11
+47055	Tennessee	Giles	pcnt_excessive_drinking	10
+47057	Tennessee	Grainger	pcnt_excessive_drinking	4
+47059	Tennessee	Greene	pcnt_excessive_drinking	4
+47061	Tennessee	Grundy	pcnt_excessive_drinking	5
+47063	Tennessee	Hamblen	pcnt_excessive_drinking	8
+47065	Tennessee	Hamilton	pcnt_excessive_drinking	11
+47067	Tennessee	Hancock	pcnt_excessive_drinking	
+47069	Tennessee	Hardeman	pcnt_excessive_drinking	5
+47071	Tennessee	Hardin	pcnt_excessive_drinking	6
+47073	Tennessee	Hawkins	pcnt_excessive_drinking	5
+47075	Tennessee	Haywood	pcnt_excessive_drinking	10
+47077	Tennessee	Henderson	pcnt_excessive_drinking	7
+47079	Tennessee	Henry	pcnt_excessive_drinking	9
+47081	Tennessee	Hickman	pcnt_excessive_drinking	4
+47083	Tennessee	Houston	pcnt_excessive_drinking	3
+47085	Tennessee	Humphreys	pcnt_excessive_drinking	4
+47087	Tennessee	Jackson	pcnt_excessive_drinking	
+47089	Tennessee	Jefferson	pcnt_excessive_drinking	8
+47091	Tennessee	Johnson	pcnt_excessive_drinking	3
+47093	Tennessee	Knox	pcnt_excessive_drinking	10
+47095	Tennessee	Lake	pcnt_excessive_drinking	4
+47097	Tennessee	Lauderdale	pcnt_excessive_drinking	13
+47099	Tennessee	Lawrence	pcnt_excessive_drinking	5
+47101	Tennessee	Lewis	pcnt_excessive_drinking	2
+47103	Tennessee	Lincoln	pcnt_excessive_drinking	6
+47105	Tennessee	Loudon	pcnt_excessive_drinking	13
+47107	Tennessee	McMinn	pcnt_excessive_drinking	6
+47109	Tennessee	McNairy	pcnt_excessive_drinking	4
+47111	Tennessee	Macon	pcnt_excessive_drinking	7
+47113	Tennessee	Madison	pcnt_excessive_drinking	10
+47115	Tennessee	Marion	pcnt_excessive_drinking	9
+47117	Tennessee	Marshall	pcnt_excessive_drinking	9
+47119	Tennessee	Maury	pcnt_excessive_drinking	12
+47121	Tennessee	Meigs	pcnt_excessive_drinking	
+47123	Tennessee	Monroe	pcnt_excessive_drinking	9
+47125	Tennessee	Montgomery	pcnt_excessive_drinking	16
+47127	Tennessee	Moore	pcnt_excessive_drinking	3
+47129	Tennessee	Morgan	pcnt_excessive_drinking	5
+47131	Tennessee	Obion	pcnt_excessive_drinking	8
+47133	Tennessee	Overton	pcnt_excessive_drinking	5
+47135	Tennessee	Perry	pcnt_excessive_drinking	1
+47137	Tennessee	Pickett	pcnt_excessive_drinking	
+47139	Tennessee	Polk	pcnt_excessive_drinking	7
+47141	Tennessee	Putnam	pcnt_excessive_drinking	5
+47143	Tennessee	Rhea	pcnt_excessive_drinking	6
+47145	Tennessee	Roane	pcnt_excessive_drinking	4
+47147	Tennessee	Robertson	pcnt_excessive_drinking	11
+47149	Tennessee	Rutherford	pcnt_excessive_drinking	8
+47151	Tennessee	Scott	pcnt_excessive_drinking	5
+47153	Tennessee	Sequatchie	pcnt_excessive_drinking	10
+47155	Tennessee	Sevier	pcnt_excessive_drinking	11
+47157	Tennessee	Shelby	pcnt_excessive_drinking	14
+47159	Tennessee	Smith	pcnt_excessive_drinking	6
+47161	Tennessee	Stewart	pcnt_excessive_drinking	3
+47163	Tennessee	Sullivan	pcnt_excessive_drinking	9
+47165	Tennessee	Sumner	pcnt_excessive_drinking	11
+47167	Tennessee	Tipton	pcnt_excessive_drinking	9
+47169	Tennessee	Trousdale	pcnt_excessive_drinking	0
+47171	Tennessee	Unicoi	pcnt_excessive_drinking	6
+47173	Tennessee	Union	pcnt_excessive_drinking	1
+47175	Tennessee	Van Buren	pcnt_excessive_drinking	
+47177	Tennessee	Warren	pcnt_excessive_drinking	4
+47179	Tennessee	Washington	pcnt_excessive_drinking	7
+47181	Tennessee	Wayne	pcnt_excessive_drinking	6
+47183	Tennessee	Weakley	pcnt_excessive_drinking	10
+47185	Tennessee	White	pcnt_excessive_drinking	3
+47187	Tennessee	Williamson	pcnt_excessive_drinking	14
+47189	Tennessee	Wilson	pcnt_excessive_drinking	13
+48001	Texas	Anderson	pcnt_excessive_drinking	26
+48003	Texas	Andrews	pcnt_excessive_drinking	4
+48005	Texas	Angelina	pcnt_excessive_drinking	9
+48007	Texas	Aransas	pcnt_excessive_drinking	
+48009	Texas	Archer	pcnt_excessive_drinking	
+48011	Texas	Armstrong	pcnt_excessive_drinking	2
+48013	Texas	Atascosa	pcnt_excessive_drinking	
+48015	Texas	Austin	pcnt_excessive_drinking	
+48017	Texas	Bailey	pcnt_excessive_drinking	
+48019	Texas	Bandera	pcnt_excessive_drinking	
+48021	Texas	Bastrop	pcnt_excessive_drinking	
+48023	Texas	Baylor	pcnt_excessive_drinking	6
+48025	Texas	Bee	pcnt_excessive_drinking	
+48027	Texas	Bell	pcnt_excessive_drinking	15
+48029	Texas	Bexar	pcnt_excessive_drinking	19
+48031	Texas	Blanco	pcnt_excessive_drinking	
+48033	Texas	Borden	pcnt_excessive_drinking	
+48035	Texas	Bosque	pcnt_excessive_drinking	
+48037	Texas	Bowie	pcnt_excessive_drinking	11
+48039	Texas	Brazoria	pcnt_excessive_drinking	12
+48041	Texas	Brazos	pcnt_excessive_drinking	14
+48043	Texas	Brewster	pcnt_excessive_drinking	
+48045	Texas	Briscoe	pcnt_excessive_drinking	
+48047	Texas	Brooks	pcnt_excessive_drinking	
+48049	Texas	Brown	pcnt_excessive_drinking	12
+48051	Texas	Burleson	pcnt_excessive_drinking	2
+48053	Texas	Burnet	pcnt_excessive_drinking	
+48055	Texas	Caldwell	pcnt_excessive_drinking	10
+48057	Texas	Calhoun	pcnt_excessive_drinking	
+48059	Texas	Callahan	pcnt_excessive_drinking	
+48061	Texas	Cameron	pcnt_excessive_drinking	17
+48063	Texas	Camp	pcnt_excessive_drinking	
+48065	Texas	Carson	pcnt_excessive_drinking	
+48067	Texas	Cass	pcnt_excessive_drinking	
+48069	Texas	Castro	pcnt_excessive_drinking	2
+48071	Texas	Chambers	pcnt_excessive_drinking	
+48073	Texas	Cherokee	pcnt_excessive_drinking	14
+48075	Texas	Childress	pcnt_excessive_drinking	5
+48077	Texas	Clay	pcnt_excessive_drinking	
+48079	Texas	Cochran	pcnt_excessive_drinking	
+48081	Texas	Coke	pcnt_excessive_drinking	
+48083	Texas	Coleman	pcnt_excessive_drinking	
+48085	Texas	Collin	pcnt_excessive_drinking	13
+48087	Texas	Collingsworth	pcnt_excessive_drinking	0
+48089	Texas	Colorado	pcnt_excessive_drinking	
+48091	Texas	Comal	pcnt_excessive_drinking	18
+48093	Texas	Comanche	pcnt_excessive_drinking	9
+48095	Texas	Concho	pcnt_excessive_drinking	4
+48097	Texas	Cooke	pcnt_excessive_drinking	8
+48099	Texas	Coryell	pcnt_excessive_drinking	
+48101	Texas	Cottle	pcnt_excessive_drinking	2
+48103	Texas	Crane	pcnt_excessive_drinking	
+48105	Texas	Crockett	pcnt_excessive_drinking	
+48107	Texas	Crosby	pcnt_excessive_drinking	
+48109	Texas	Culberson	pcnt_excessive_drinking	
+48111	Texas	Dallam	pcnt_excessive_drinking	6
+48113	Texas	Dallas	pcnt_excessive_drinking	14
+48115	Texas	Dawson	pcnt_excessive_drinking	
+48117	Texas	Deaf Smith	pcnt_excessive_drinking	
+48119	Texas	Delta	pcnt_excessive_drinking	1
+48121	Texas	Denton	pcnt_excessive_drinking	15
+48123	Texas	DeWitt	pcnt_excessive_drinking	
+48125	Texas	Dickens	pcnt_excessive_drinking	3
+48127	Texas	Dimmit	pcnt_excessive_drinking	
+48129	Texas	Donley	pcnt_excessive_drinking	
+48131	Texas	Duval	pcnt_excessive_drinking	0
+48133	Texas	Eastland	pcnt_excessive_drinking	10
+48135	Texas	Ector	pcnt_excessive_drinking	18
+48137	Texas	Edwards	pcnt_excessive_drinking	18
+48139	Texas	Ellis	pcnt_excessive_drinking	20
+48141	Texas	El Paso	pcnt_excessive_drinking	17
+48143	Texas	Erath	pcnt_excessive_drinking	15
+48145	Texas	Falls	pcnt_excessive_drinking	11
+48147	Texas	Fannin	pcnt_excessive_drinking	5
+48149	Texas	Fayette	pcnt_excessive_drinking	
+48151	Texas	Fisher	pcnt_excessive_drinking	
+48153	Texas	Floyd	pcnt_excessive_drinking	1
+48155	Texas	Foard	pcnt_excessive_drinking	
+48157	Texas	Fort Bend	pcnt_excessive_drinking	12
+48159	Texas	Franklin	pcnt_excessive_drinking	
+48161	Texas	Freestone	pcnt_excessive_drinking	8
+48163	Texas	Frio	pcnt_excessive_drinking	
+48165	Texas	Gaines	pcnt_excessive_drinking	
+48167	Texas	Galveston	pcnt_excessive_drinking	16
+48169	Texas	Garza	pcnt_excessive_drinking	
+48171	Texas	Gillespie	pcnt_excessive_drinking	19
+48173	Texas	Glasscock	pcnt_excessive_drinking	
+48175	Texas	Goliad	pcnt_excessive_drinking	
+48177	Texas	Gonzales	pcnt_excessive_drinking	
+48179	Texas	Gray	pcnt_excessive_drinking	
+48181	Texas	Grayson	pcnt_excessive_drinking	10
+48183	Texas	Gregg	pcnt_excessive_drinking	15
+48185	Texas	Grimes	pcnt_excessive_drinking	
+48187	Texas	Guadalupe	pcnt_excessive_drinking	19
+48189	Texas	Hale	pcnt_excessive_drinking	16
+48191	Texas	Hall	pcnt_excessive_drinking	
+48193	Texas	Hamilton	pcnt_excessive_drinking	4
+48195	Texas	Hansford	pcnt_excessive_drinking	
+48197	Texas	Hardeman	pcnt_excessive_drinking	
+48199	Texas	Hardin	pcnt_excessive_drinking	11
+48201	Texas	Harris	pcnt_excessive_drinking	17
+48203	Texas	Harrison	pcnt_excessive_drinking	19
+48205	Texas	Hartley	pcnt_excessive_drinking	0
+48207	Texas	Haskell	pcnt_excessive_drinking	
+48209	Texas	Hays	pcnt_excessive_drinking	17
+48211	Texas	Hemphill	pcnt_excessive_drinking	0
+48213	Texas	Henderson	pcnt_excessive_drinking	17
+48215	Texas	Hidalgo	pcnt_excessive_drinking	15
+48217	Texas	Hill	pcnt_excessive_drinking	10
+48219	Texas	Hockley	pcnt_excessive_drinking	12
+48221	Texas	Hood	pcnt_excessive_drinking	15
+48223	Texas	Hopkins	pcnt_excessive_drinking	
+48225	Texas	Houston	pcnt_excessive_drinking	10
+48227	Texas	Howard	pcnt_excessive_drinking	
+48229	Texas	Hudspeth	pcnt_excessive_drinking	
+48231	Texas	Hunt	pcnt_excessive_drinking	
+48233	Texas	Hutchinson	pcnt_excessive_drinking	10
+48235	Texas	Irion	pcnt_excessive_drinking	
+48237	Texas	Jack	pcnt_excessive_drinking	
+48239	Texas	Jackson	pcnt_excessive_drinking	
+48241	Texas	Jasper	pcnt_excessive_drinking	14
+48243	Texas	Jeff Davis	pcnt_excessive_drinking	9
+48245	Texas	Jefferson	pcnt_excessive_drinking	13
+48247	Texas	Jim Hogg	pcnt_excessive_drinking	
+48249	Texas	Jim Wells	pcnt_excessive_drinking	
+48251	Texas	Johnson	pcnt_excessive_drinking	19
+48253	Texas	Jones	pcnt_excessive_drinking	
+48255	Texas	Karnes	pcnt_excessive_drinking	
+48257	Texas	Kaufman	pcnt_excessive_drinking	
+48259	Texas	Kendall	pcnt_excessive_drinking	
+48261	Texas	Kenedy	pcnt_excessive_drinking	0
+48263	Texas	Kent	pcnt_excessive_drinking	0
+48265	Texas	Kerr	pcnt_excessive_drinking	15
+48267	Texas	Kimble	pcnt_excessive_drinking	
+48269	Texas	King	pcnt_excessive_drinking	
+48271	Texas	Kinney	pcnt_excessive_drinking	0
+48273	Texas	Kleberg	pcnt_excessive_drinking	
+48275	Texas	Knox	pcnt_excessive_drinking	
+48277	Texas	Lamar	pcnt_excessive_drinking	13
+48279	Texas	Lamb	pcnt_excessive_drinking	3
+48281	Texas	Lampasas	pcnt_excessive_drinking	4
+48283	Texas	La Salle	pcnt_excessive_drinking	
+48285	Texas	Lavaca	pcnt_excessive_drinking	12
+48287	Texas	Lee	pcnt_excessive_drinking	
+48289	Texas	Leon	pcnt_excessive_drinking	
+48291	Texas	Liberty	pcnt_excessive_drinking	
+48293	Texas	Limestone	pcnt_excessive_drinking	5
+48295	Texas	Lipscomb	pcnt_excessive_drinking	0
+48297	Texas	Live Oak	pcnt_excessive_drinking	
+48299	Texas	Llano	pcnt_excessive_drinking	
+48301	Texas	Loving	pcnt_excessive_drinking	5
+48303	Texas	Lubbock	pcnt_excessive_drinking	16
+48305	Texas	Lynn	pcnt_excessive_drinking	5
+48307	Texas	McCulloch	pcnt_excessive_drinking	
+48309	Texas	McLennan	pcnt_excessive_drinking	13
+48311	Texas	McMullen	pcnt_excessive_drinking	
+48313	Texas	Madison	pcnt_excessive_drinking	
+48315	Texas	Marion	pcnt_excessive_drinking	
+48317	Texas	Martin	pcnt_excessive_drinking	
+48319	Texas	Mason	pcnt_excessive_drinking	
+48321	Texas	Matagorda	pcnt_excessive_drinking	16
+48323	Texas	Maverick	pcnt_excessive_drinking	10
+48325	Texas	Medina	pcnt_excessive_drinking	
+48327	Texas	Menard	pcnt_excessive_drinking	
+48329	Texas	Midland	pcnt_excessive_drinking	12
+48331	Texas	Milam	pcnt_excessive_drinking	
+48333	Texas	Mills	pcnt_excessive_drinking	
+48335	Texas	Mitchell	pcnt_excessive_drinking	
+48337	Texas	Montague	pcnt_excessive_drinking	
+48339	Texas	Montgomery	pcnt_excessive_drinking	19
+48341	Texas	Moore	pcnt_excessive_drinking	
+48343	Texas	Morris	pcnt_excessive_drinking	
+48345	Texas	Motley	pcnt_excessive_drinking	0
+48347	Texas	Nacogdoches	pcnt_excessive_drinking	13
+48349	Texas	Navarro	pcnt_excessive_drinking	9
+48351	Texas	Newton	pcnt_excessive_drinking	
+48353	Texas	Nolan	pcnt_excessive_drinking	
+48355	Texas	Nueces	pcnt_excessive_drinking	25
+48357	Texas	Ochiltree	pcnt_excessive_drinking	
+48359	Texas	Oldham	pcnt_excessive_drinking	
+48361	Texas	Orange	pcnt_excessive_drinking	19
+48363	Texas	Palo Pinto	pcnt_excessive_drinking	2
+48365	Texas	Panola	pcnt_excessive_drinking	
+48367	Texas	Parker	pcnt_excessive_drinking	13
+48369	Texas	Parmer	pcnt_excessive_drinking	
+48371	Texas	Pecos	pcnt_excessive_drinking	8
+48373	Texas	Polk	pcnt_excessive_drinking	7
+48375	Texas	Potter	pcnt_excessive_drinking	14
+48377	Texas	Presidio	pcnt_excessive_drinking	
+48379	Texas	Rains	pcnt_excessive_drinking	
+48381	Texas	Randall	pcnt_excessive_drinking	14
+48383	Texas	Reagan	pcnt_excessive_drinking	1
+48385	Texas	Real	pcnt_excessive_drinking	
+48387	Texas	Red River	pcnt_excessive_drinking	9
+48389	Texas	Reeves	pcnt_excessive_drinking	0
+48391	Texas	Refugio	pcnt_excessive_drinking	
+48393	Texas	Roberts	pcnt_excessive_drinking	
+48395	Texas	Robertson	pcnt_excessive_drinking	
+48397	Texas	Rockwall	pcnt_excessive_drinking	
+48399	Texas	Runnels	pcnt_excessive_drinking	
+48401	Texas	Rusk	pcnt_excessive_drinking	16
+48403	Texas	Sabine	pcnt_excessive_drinking	8
+48405	Texas	San Augustine	pcnt_excessive_drinking	4
+48407	Texas	San Jacinto	pcnt_excessive_drinking	
+48409	Texas	San Patricio	pcnt_excessive_drinking	
+48411	Texas	San Saba	pcnt_excessive_drinking	
+48413	Texas	Schleicher	pcnt_excessive_drinking	
+48415	Texas	Scurry	pcnt_excessive_drinking	4
+48417	Texas	Shackelford	pcnt_excessive_drinking	
+48419	Texas	Shelby	pcnt_excessive_drinking	
+48421	Texas	Sherman	pcnt_excessive_drinking	3
+48423	Texas	Smith	pcnt_excessive_drinking	12
+48425	Texas	Somervell	pcnt_excessive_drinking	
+48427	Texas	Starr	pcnt_excessive_drinking	
+48429	Texas	Stephens	pcnt_excessive_drinking	
+48431	Texas	Sterling	pcnt_excessive_drinking	
+48433	Texas	Stonewall	pcnt_excessive_drinking	
+48435	Texas	Sutton	pcnt_excessive_drinking	
+48437	Texas	Swisher	pcnt_excessive_drinking	
+48439	Texas	Tarrant	pcnt_excessive_drinking	17
+48441	Texas	Taylor	pcnt_excessive_drinking	10
+48443	Texas	Terrell	pcnt_excessive_drinking	
+48445	Texas	Terry	pcnt_excessive_drinking	9
+48447	Texas	Throckmorton	pcnt_excessive_drinking	0
+48449	Texas	Titus	pcnt_excessive_drinking	
+48451	Texas	Tom Green	pcnt_excessive_drinking	18
+48453	Texas	Travis	pcnt_excessive_drinking	22
+48455	Texas	Trinity	pcnt_excessive_drinking	
+48457	Texas	Tyler	pcnt_excessive_drinking	7
+48459	Texas	Upshur	pcnt_excessive_drinking	
+48461	Texas	Upton	pcnt_excessive_drinking	1
+48463	Texas	Uvalde	pcnt_excessive_drinking	
+48465	Texas	Val Verde	pcnt_excessive_drinking	13
+48467	Texas	Van Zandt	pcnt_excessive_drinking	12
+48469	Texas	Victoria	pcnt_excessive_drinking	
+48471	Texas	Walker	pcnt_excessive_drinking	13
+48473	Texas	Waller	pcnt_excessive_drinking	
+48475	Texas	Ward	pcnt_excessive_drinking	
+48477	Texas	Washington	pcnt_excessive_drinking	
+48479	Texas	Webb	pcnt_excessive_drinking	22
+48481	Texas	Wharton	pcnt_excessive_drinking	
+48483	Texas	Wheeler	pcnt_excessive_drinking	1
+48485	Texas	Wichita	pcnt_excessive_drinking	20
+48487	Texas	Wilbarger	pcnt_excessive_drinking	
+48489	Texas	Willacy	pcnt_excessive_drinking	
+48491	Texas	Williamson	pcnt_excessive_drinking	17
+48493	Texas	Wilson	pcnt_excessive_drinking	24
+48495	Texas	Winkler	pcnt_excessive_drinking	
+48497	Texas	Wise	pcnt_excessive_drinking	
+48499	Texas	Wood	pcnt_excessive_drinking	10
+48501	Texas	Yoakum	pcnt_excessive_drinking	
+48503	Texas	Young	pcnt_excessive_drinking	
+48505	Texas	Zapata	pcnt_excessive_drinking	10
+48507	Texas	Zavala	pcnt_excessive_drinking	
+49001	Utah	Beaver	pcnt_excessive_drinking	12
+49003	Utah	Box Elder	pcnt_excessive_drinking	8
+49005	Utah	Cache	pcnt_excessive_drinking	6
+49007	Utah	Carbon	pcnt_excessive_drinking	10
+49009	Utah	Daggett	pcnt_excessive_drinking	4
+49011	Utah	Davis	pcnt_excessive_drinking	8
+49013	Utah	Duchesne	pcnt_excessive_drinking	9
+49015	Utah	Emery	pcnt_excessive_drinking	10
+49017	Utah	Garfield	pcnt_excessive_drinking	
+49019	Utah	Grand	pcnt_excessive_drinking	20
+49021	Utah	Iron	pcnt_excessive_drinking	10
+49023	Utah	Juab	pcnt_excessive_drinking	7
+49025	Utah	Kane	pcnt_excessive_drinking	8
+49027	Utah	Millard	pcnt_excessive_drinking	5
+49029	Utah	Morgan	pcnt_excessive_drinking	7
+49031	Utah	Piute	pcnt_excessive_drinking	8
+49033	Utah	Rich	pcnt_excessive_drinking	4
+49035	Utah	Salt Lake	pcnt_excessive_drinking	12
+49037	Utah	San Juan	pcnt_excessive_drinking	6
+49039	Utah	Sanpete	pcnt_excessive_drinking	6
+49041	Utah	Sevier	pcnt_excessive_drinking	10
+49043	Utah	Summit	pcnt_excessive_drinking	19
+49045	Utah	Tooele	pcnt_excessive_drinking	12
+49047	Utah	Uintah	pcnt_excessive_drinking	11
+49049	Utah	Utah	pcnt_excessive_drinking	4
+49051	Utah	Wasatch	pcnt_excessive_drinking	9
+49053	Utah	Washington	pcnt_excessive_drinking	7
+49055	Utah	Wayne	pcnt_excessive_drinking	9
+49057	Utah	Weber	pcnt_excessive_drinking	11
+50001	Vermont	Addison	pcnt_excessive_drinking	18
+50003	Vermont	Bennington	pcnt_excessive_drinking	16
+50005	Vermont	Caledonia	pcnt_excessive_drinking	16
+50007	Vermont	Chittenden	pcnt_excessive_drinking	20
+50009	Vermont	Essex	pcnt_excessive_drinking	22
+50011	Vermont	Franklin	pcnt_excessive_drinking	20
+50013	Vermont	Grand Isle	pcnt_excessive_drinking	19
+50015	Vermont	Lamoille	pcnt_excessive_drinking	22
+50017	Vermont	Orange	pcnt_excessive_drinking	21
+50019	Vermont	Orleans	pcnt_excessive_drinking	19
+50021	Vermont	Rutland	pcnt_excessive_drinking	18
+50023	Vermont	Washington	pcnt_excessive_drinking	20
+50025	Vermont	Windham	pcnt_excessive_drinking	18
+50027	Vermont	Windsor	pcnt_excessive_drinking	19
+51001	Virginia	Accomack	pcnt_excessive_drinking	15
+51003	Virginia	Albemarle	pcnt_excessive_drinking	15
+51005	Virginia	Alleghany	pcnt_excessive_drinking	12
+51007	Virginia	Amelia	pcnt_excessive_drinking	11
+51009	Virginia	Amherst	pcnt_excessive_drinking	9
+51011	Virginia	Appomattox	pcnt_excessive_drinking	
+51013	Virginia	Arlington	pcnt_excessive_drinking	19
+51015	Virginia	Augusta	pcnt_excessive_drinking	11
+51017	Virginia	Bath	pcnt_excessive_drinking	
+51019	Virginia	Bedford	pcnt_excessive_drinking	16
+51021	Virginia	Bland	pcnt_excessive_drinking	
+51023	Virginia	Botetourt	pcnt_excessive_drinking	13
+51025	Virginia	Brunswick	pcnt_excessive_drinking	16
+51027	Virginia	Buchanan	pcnt_excessive_drinking	12
+51029	Virginia	Buckingham	pcnt_excessive_drinking	7
+51031	Virginia	Campbell	pcnt_excessive_drinking	11
+51033	Virginia	Caroline	pcnt_excessive_drinking	7
+51035	Virginia	Carroll	pcnt_excessive_drinking	13
+51036	Virginia	Charles City	pcnt_excessive_drinking	
+51037	Virginia	Charlotte	pcnt_excessive_drinking	6
+51041	Virginia	Chesterfield	pcnt_excessive_drinking	15
+51043	Virginia	Clarke	pcnt_excessive_drinking	11
+51045	Virginia	Craig	pcnt_excessive_drinking	
+51047	Virginia	Culpeper	pcnt_excessive_drinking	15
+51049	Virginia	Cumberland	pcnt_excessive_drinking	
+51051	Virginia	Dickenson	pcnt_excessive_drinking	2
+51053	Virginia	Dinwiddie	pcnt_excessive_drinking	15
+51057	Virginia	Essex	pcnt_excessive_drinking	7
+51059	Virginia	Fairfax	pcnt_excessive_drinking	20
+51061	Virginia	Fauquier	pcnt_excessive_drinking	15
+51063	Virginia	Floyd	pcnt_excessive_drinking	
+51065	Virginia	Fluvanna	pcnt_excessive_drinking	19
+51067	Virginia	Franklin	pcnt_excessive_drinking	9
+51069	Virginia	Frederick	pcnt_excessive_drinking	14
+51071	Virginia	Giles	pcnt_excessive_drinking	7
+51073	Virginia	Gloucester	pcnt_excessive_drinking	19
+51075	Virginia	Goochland	pcnt_excessive_drinking	16
+51077	Virginia	Grayson	pcnt_excessive_drinking	9
+51079	Virginia	Greene	pcnt_excessive_drinking	
+51081	Virginia	Greensville	pcnt_excessive_drinking	8
+51083	Virginia	Halifax	pcnt_excessive_drinking	11
+51085	Virginia	Hanover	pcnt_excessive_drinking	17
+51087	Virginia	Henrico	pcnt_excessive_drinking	19
+51089	Virginia	Henry	pcnt_excessive_drinking	11
+51091	Virginia	Highland	pcnt_excessive_drinking	
+51093	Virginia	Isle of Wight	pcnt_excessive_drinking	14
+51095	Virginia	James City	pcnt_excessive_drinking	11
+51097	Virginia	King and Queen	pcnt_excessive_drinking	
+51099	Virginia	King George	pcnt_excessive_drinking	
+51101	Virginia	King William	pcnt_excessive_drinking	12
+51103	Virginia	Lancaster	pcnt_excessive_drinking	22
+51105	Virginia	Lee	pcnt_excessive_drinking	10
+51107	Virginia	Loudoun	pcnt_excessive_drinking	19
+51109	Virginia	Louisa	pcnt_excessive_drinking	12
+51111	Virginia	Lunenburg	pcnt_excessive_drinking	9
+51113	Virginia	Madison	pcnt_excessive_drinking	
+51115	Virginia	Mathews	pcnt_excessive_drinking	10
+51117	Virginia	Mecklenburg	pcnt_excessive_drinking	14
+51119	Virginia	Middlesex	pcnt_excessive_drinking	
+51121	Virginia	Montgomery	pcnt_excessive_drinking	12
+51125	Virginia	Nelson	pcnt_excessive_drinking	11
+51127	Virginia	New Kent	pcnt_excessive_drinking	
+51131	Virginia	Northampton	pcnt_excessive_drinking	18
+51133	Virginia	Northumberland	pcnt_excessive_drinking	12
+51135	Virginia	Nottoway	pcnt_excessive_drinking	
+51137	Virginia	Orange	pcnt_excessive_drinking	15
+51139	Virginia	Page	pcnt_excessive_drinking	18
+51141	Virginia	Patrick	pcnt_excessive_drinking	15
+51143	Virginia	Pittsylvania	pcnt_excessive_drinking	10
+51145	Virginia	Powhatan	pcnt_excessive_drinking	
+51147	Virginia	Prince Edward	pcnt_excessive_drinking	13
+51149	Virginia	Prince George	pcnt_excessive_drinking	
+51153	Virginia	Prince William	pcnt_excessive_drinking	18
+51155	Virginia	Pulaski	pcnt_excessive_drinking	14
+51157	Virginia	Rappahannock	pcnt_excessive_drinking	
+51159	Virginia	Richmond	pcnt_excessive_drinking	13
+51161	Virginia	Roanoke	pcnt_excessive_drinking	12
+51163	Virginia	Rockbridge	pcnt_excessive_drinking	16
+51165	Virginia	Rockingham	pcnt_excessive_drinking	11
+51167	Virginia	Russell	pcnt_excessive_drinking	3
+51169	Virginia	Scott	pcnt_excessive_drinking	8
+51171	Virginia	Shenandoah	pcnt_excessive_drinking	14
+51173	Virginia	Smyth	pcnt_excessive_drinking	6
+51175	Virginia	Southampton	pcnt_excessive_drinking	
+51177	Virginia	Spotsylvania	pcnt_excessive_drinking	16
+51179	Virginia	Stafford	pcnt_excessive_drinking	14
+51181	Virginia	Surry	pcnt_excessive_drinking	11
+51183	Virginia	Sussex	pcnt_excessive_drinking	
+51185	Virginia	Tazewell	pcnt_excessive_drinking	9
+51187	Virginia	Warren	pcnt_excessive_drinking	13
+51191	Virginia	Washington	pcnt_excessive_drinking	9
+51193	Virginia	Westmoreland	pcnt_excessive_drinking	14
+51195	Virginia	Wise	pcnt_excessive_drinking	10
+51197	Virginia	Wythe	pcnt_excessive_drinking	9
+51199	Virginia	York	pcnt_excessive_drinking	14
+51510	Virginia	Alexandria City	pcnt_excessive_drinking	20
+51515	Virginia	Bedford City	pcnt_excessive_drinking	
+51520	Virginia	Bristol City	pcnt_excessive_drinking	2
+51530	Virginia	Buena Vista City	pcnt_excessive_drinking	0
+51540	Virginia	Charlottesville City	pcnt_excessive_drinking	14
+51550	Virginia	Chesapeake City	pcnt_excessive_drinking	18
+51570	Virginia	Colonial Heights City	pcnt_excessive_drinking	
+51580	Virginia	Covington City	pcnt_excessive_drinking	
+51590	Virginia	Danville City	pcnt_excessive_drinking	11
+51595	Virginia	Emporia City	pcnt_excessive_drinking	
+51600	Virginia	Fairfax City	pcnt_excessive_drinking	11
+51610	Virginia	Falls Church City	pcnt_excessive_drinking	
+51620	Virginia	Franklin City	pcnt_excessive_drinking	7
+51630	Virginia	Fredericksburg City	pcnt_excessive_drinking	13
+51640	Virginia	Galax City	pcnt_excessive_drinking	
+51650	Virginia	Hampton City	pcnt_excessive_drinking	16
+51660	Virginia	Harrisonburg City	pcnt_excessive_drinking	
+51670	Virginia	Hopewell City	pcnt_excessive_drinking	14
+51678	Virginia	Lexington City	pcnt_excessive_drinking	
+51680	Virginia	Lynchburg City	pcnt_excessive_drinking	17
+51683	Virginia	Manassas City	pcnt_excessive_drinking	7
+51685	Virginia	Manassas Park City	pcnt_excessive_drinking	
+51690	Virginia	Martinsville City	pcnt_excessive_drinking	
+51700	Virginia	Newport News City	pcnt_excessive_drinking	18
+51710	Virginia	Norfolk City	pcnt_excessive_drinking	19
+51720	Virginia	Norton City	pcnt_excessive_drinking	
+51730	Virginia	Petersburg City	pcnt_excessive_drinking	6
+51735	Virginia	Poquoson City	pcnt_excessive_drinking	
+51740	Virginia	Portsmouth City	pcnt_excessive_drinking	14
+51750	Virginia	Radford City	pcnt_excessive_drinking	
+51760	Virginia	Richmond City	pcnt_excessive_drinking	18
+51770	Virginia	Roanoke City	pcnt_excessive_drinking	15
+51775	Virginia	Salem City	pcnt_excessive_drinking	13
+51790	Virginia	Staunton City	pcnt_excessive_drinking	
+51800	Virginia	Suffolk City	pcnt_excessive_drinking	16
+51810	Virginia	Virginia Beach City	pcnt_excessive_drinking	22
+51820	Virginia	Waynesboro City	pcnt_excessive_drinking	
+51830	Virginia	Williamsburg City	pcnt_excessive_drinking	
+51840	Virginia	Winchester City	pcnt_excessive_drinking	
+53001	Washington	Adams	pcnt_excessive_drinking	13
+53003	Washington	Asotin	pcnt_excessive_drinking	16
+53005	Washington	Benton	pcnt_excessive_drinking	13
+53007	Washington	Chelan	pcnt_excessive_drinking	14
+53009	Washington	Clallam	pcnt_excessive_drinking	13
+53011	Washington	Clark	pcnt_excessive_drinking	16
+53013	Washington	Columbia	pcnt_excessive_drinking	16
+53015	Washington	Cowlitz	pcnt_excessive_drinking	18
+53017	Washington	Douglas	pcnt_excessive_drinking	15
+53019	Washington	Ferry	pcnt_excessive_drinking	18
+53021	Washington	Franklin	pcnt_excessive_drinking	13
+53023	Washington	Garfield	pcnt_excessive_drinking	14
+53025	Washington	Grant	pcnt_excessive_drinking	14
+53027	Washington	Grays Harbor	pcnt_excessive_drinking	21
+53029	Washington	Island	pcnt_excessive_drinking	17
+53031	Washington	Jefferson	pcnt_excessive_drinking	17
+53033	Washington	King	pcnt_excessive_drinking	19
+53035	Washington	Kitsap	pcnt_excessive_drinking	17
+53037	Washington	Kittitas	pcnt_excessive_drinking	19
+53039	Washington	Klickitat	pcnt_excessive_drinking	15
+53041	Washington	Lewis	pcnt_excessive_drinking	14
+53043	Washington	Lincoln	pcnt_excessive_drinking	15
+53045	Washington	Mason	pcnt_excessive_drinking	16
+53047	Washington	Okanogan	pcnt_excessive_drinking	16
+53049	Washington	Pacific	pcnt_excessive_drinking	16
+53051	Washington	Pend Oreille	pcnt_excessive_drinking	17
+53053	Washington	Pierce	pcnt_excessive_drinking	16
+53055	Washington	San Juan	pcnt_excessive_drinking	21
+53057	Washington	Skagit	pcnt_excessive_drinking	17
+53059	Washington	Skamania	pcnt_excessive_drinking	21
+53061	Washington	Snohomish	pcnt_excessive_drinking	17
+53063	Washington	Spokane	pcnt_excessive_drinking	17
+53065	Washington	Stevens	pcnt_excessive_drinking	19
+53067	Washington	Thurston	pcnt_excessive_drinking	16
+53069	Washington	Wahkiakum	pcnt_excessive_drinking	15
+53071	Washington	Walla Walla	pcnt_excessive_drinking	13
+53073	Washington	Whatcom	pcnt_excessive_drinking	18
+53075	Washington	Whitman	pcnt_excessive_drinking	17
+53077	Washington	Yakima	pcnt_excessive_drinking	13
+54001	West Virginia	Barbour	pcnt_excessive_drinking	7
+54003	West Virginia	Berkeley	pcnt_excessive_drinking	13
+54005	West Virginia	Boone	pcnt_excessive_drinking	10
+54007	West Virginia	Braxton	pcnt_excessive_drinking	7
+54009	West Virginia	Brooke	pcnt_excessive_drinking	16
+54011	West Virginia	Cabell	pcnt_excessive_drinking	10
+54013	West Virginia	Calhoun	pcnt_excessive_drinking	11
+54015	West Virginia	Clay	pcnt_excessive_drinking	8
+54017	West Virginia	Doddridge	pcnt_excessive_drinking	7
+54019	West Virginia	Fayette	pcnt_excessive_drinking	14
+54021	West Virginia	Gilmer	pcnt_excessive_drinking	13
+54023	West Virginia	Grant	pcnt_excessive_drinking	7
+54025	West Virginia	Greenbrier	pcnt_excessive_drinking	8
+54027	West Virginia	Hampshire	pcnt_excessive_drinking	12
+54029	West Virginia	Hancock	pcnt_excessive_drinking	15
+54031	West Virginia	Hardy	pcnt_excessive_drinking	11
+54033	West Virginia	Harrison	pcnt_excessive_drinking	8
+54035	West Virginia	Jackson	pcnt_excessive_drinking	12
+54037	West Virginia	Jefferson	pcnt_excessive_drinking	15
+54039	West Virginia	Kanawha	pcnt_excessive_drinking	10
+54041	West Virginia	Lewis	pcnt_excessive_drinking	5
+54043	West Virginia	Lincoln	pcnt_excessive_drinking	10
+54045	West Virginia	Logan	pcnt_excessive_drinking	10
+54047	West Virginia	McDowell	pcnt_excessive_drinking	10
+54049	West Virginia	Marion	pcnt_excessive_drinking	10
+54051	West Virginia	Marshall	pcnt_excessive_drinking	13
+54053	West Virginia	Mason	pcnt_excessive_drinking	9
+54055	West Virginia	Mercer	pcnt_excessive_drinking	6
+54057	West Virginia	Mineral	pcnt_excessive_drinking	8
+54059	West Virginia	Mingo	pcnt_excessive_drinking	8
+54061	West Virginia	Monongalia	pcnt_excessive_drinking	13
+54063	West Virginia	Monroe	pcnt_excessive_drinking	9
+54065	West Virginia	Morgan	pcnt_excessive_drinking	10
+54067	West Virginia	Nicholas	pcnt_excessive_drinking	8
+54069	West Virginia	Ohio	pcnt_excessive_drinking	14
+54071	West Virginia	Pendleton	pcnt_excessive_drinking	9
+54073	West Virginia	Pleasants	pcnt_excessive_drinking	6
+54075	West Virginia	Pocahontas	pcnt_excessive_drinking	19
+54077	West Virginia	Preston	pcnt_excessive_drinking	9
+54079	West Virginia	Putnam	pcnt_excessive_drinking	9
+54081	West Virginia	Raleigh	pcnt_excessive_drinking	7
+54083	West Virginia	Randolph	pcnt_excessive_drinking	9
+54085	West Virginia	Ritchie	pcnt_excessive_drinking	7
+54087	West Virginia	Roane	pcnt_excessive_drinking	13
+54089	West Virginia	Summers	pcnt_excessive_drinking	12
+54091	West Virginia	Taylor	pcnt_excessive_drinking	8
+54093	West Virginia	Tucker	pcnt_excessive_drinking	7
+54095	West Virginia	Tyler	pcnt_excessive_drinking	12
+54097	West Virginia	Upshur	pcnt_excessive_drinking	4
+54099	West Virginia	Wayne	pcnt_excessive_drinking	11
+54101	West Virginia	Webster	pcnt_excessive_drinking	5
+54103	West Virginia	Wetzel	pcnt_excessive_drinking	9
+54105	West Virginia	Wirt	pcnt_excessive_drinking	
+54107	West Virginia	Wood	pcnt_excessive_drinking	11
+54109	West Virginia	Wyoming	pcnt_excessive_drinking	6
+55001	Wisconsin	Adams	pcnt_excessive_drinking	25
+55003	Wisconsin	Ashland	pcnt_excessive_drinking	23
+55005	Wisconsin	Barron	pcnt_excessive_drinking	21
+55007	Wisconsin	Bayfield	pcnt_excessive_drinking	22
+55009	Wisconsin	Brown	pcnt_excessive_drinking	26
+55011	Wisconsin	Buffalo	pcnt_excessive_drinking	28
+55013	Wisconsin	Burnett	pcnt_excessive_drinking	21
+55015	Wisconsin	Calumet	pcnt_excessive_drinking	37
+55017	Wisconsin	Chippewa	pcnt_excessive_drinking	22
+55019	Wisconsin	Clark	pcnt_excessive_drinking	26
+55021	Wisconsin	Columbia	pcnt_excessive_drinking	28
+55023	Wisconsin	Crawford	pcnt_excessive_drinking	23
+55025	Wisconsin	Dane	pcnt_excessive_drinking	24
+55027	Wisconsin	Dodge	pcnt_excessive_drinking	27
+55029	Wisconsin	Door	pcnt_excessive_drinking	25
+55031	Wisconsin	Douglas	pcnt_excessive_drinking	27
+55033	Wisconsin	Dunn	pcnt_excessive_drinking	25
+55035	Wisconsin	Eau Claire	pcnt_excessive_drinking	26
+55037	Wisconsin	Florence	pcnt_excessive_drinking	
+55039	Wisconsin	Fond du Lac	pcnt_excessive_drinking	26
+55041	Wisconsin	Forest	pcnt_excessive_drinking	
+55043	Wisconsin	Grant	pcnt_excessive_drinking	27
+55045	Wisconsin	Green	pcnt_excessive_drinking	25
+55047	Wisconsin	Green Lake	pcnt_excessive_drinking	20
+55049	Wisconsin	Iowa	pcnt_excessive_drinking	26
+55051	Wisconsin	Iron	pcnt_excessive_drinking	30
+55053	Wisconsin	Jackson	pcnt_excessive_drinking	
+55055	Wisconsin	Jefferson	pcnt_excessive_drinking	24
+55057	Wisconsin	Juneau	pcnt_excessive_drinking	25
+55059	Wisconsin	Kenosha	pcnt_excessive_drinking	24
+55061	Wisconsin	Kewaunee	pcnt_excessive_drinking	26
+55063	Wisconsin	La Crosse	pcnt_excessive_drinking	23
+55065	Wisconsin	Lafayette	pcnt_excessive_drinking	17
+55067	Wisconsin	Langlade	pcnt_excessive_drinking	22
+55069	Wisconsin	Lincoln	pcnt_excessive_drinking	22
+55071	Wisconsin	Manitowoc	pcnt_excessive_drinking	28
+55073	Wisconsin	Marathon	pcnt_excessive_drinking	24
+55075	Wisconsin	Marinette	pcnt_excessive_drinking	22
+55077	Wisconsin	Marquette	pcnt_excessive_drinking	27
+55078	Wisconsin	Menominee	pcnt_excessive_drinking	
+55079	Wisconsin	Milwaukee	pcnt_excessive_drinking	22
+55081	Wisconsin	Monroe	pcnt_excessive_drinking	27
+55083	Wisconsin	Oconto	pcnt_excessive_drinking	28
+55085	Wisconsin	Oneida	pcnt_excessive_drinking	21
+55087	Wisconsin	Outagamie	pcnt_excessive_drinking	31
+55089	Wisconsin	Ozaukee	pcnt_excessive_drinking	21
+55091	Wisconsin	Pepin	pcnt_excessive_drinking	18
+55093	Wisconsin	Pierce	pcnt_excessive_drinking	29
+55095	Wisconsin	Polk	pcnt_excessive_drinking	23
+55097	Wisconsin	Portage	pcnt_excessive_drinking	25
+55099	Wisconsin	Price	pcnt_excessive_drinking	18
+55101	Wisconsin	Racine	pcnt_excessive_drinking	24
+55103	Wisconsin	Richland	pcnt_excessive_drinking	27
+55105	Wisconsin	Rock	pcnt_excessive_drinking	26
+55107	Wisconsin	Rusk	pcnt_excessive_drinking	16
+55109	Wisconsin	St. Croix	pcnt_excessive_drinking	30
+55111	Wisconsin	Sauk	pcnt_excessive_drinking	25
+55113	Wisconsin	Sawyer	pcnt_excessive_drinking	22
+55115	Wisconsin	Shawano	pcnt_excessive_drinking	27
+55117	Wisconsin	Sheboygan	pcnt_excessive_drinking	29
+55119	Wisconsin	Taylor	pcnt_excessive_drinking	28
+55121	Wisconsin	Trempealeau	pcnt_excessive_drinking	21
+55123	Wisconsin	Vernon	pcnt_excessive_drinking	25
+55125	Wisconsin	Vilas	pcnt_excessive_drinking	22
+55127	Wisconsin	Walworth	pcnt_excessive_drinking	21
+55129	Wisconsin	Washburn	pcnt_excessive_drinking	24
+55131	Wisconsin	Washington	pcnt_excessive_drinking	25
+55133	Wisconsin	Waukesha	pcnt_excessive_drinking	23
+55135	Wisconsin	Waupaca	pcnt_excessive_drinking	24
+55137	Wisconsin	Waushara	pcnt_excessive_drinking	21
+55139	Wisconsin	Winnebago	pcnt_excessive_drinking	25
+55141	Wisconsin	Wood	pcnt_excessive_drinking	20
+56001	Wyoming	Albany	pcnt_excessive_drinking	16
+56003	Wyoming	Big Horn	pcnt_excessive_drinking	13
+56005	Wyoming	Campbell	pcnt_excessive_drinking	20
+56007	Wyoming	Carbon	pcnt_excessive_drinking	18
+56009	Wyoming	Converse	pcnt_excessive_drinking	21
+56011	Wyoming	Crook	pcnt_excessive_drinking	14
+56013	Wyoming	Fremont	pcnt_excessive_drinking	17
+56015	Wyoming	Goshen	pcnt_excessive_drinking	16
+56017	Wyoming	Hot Springs	pcnt_excessive_drinking	15
+56019	Wyoming	Johnson	pcnt_excessive_drinking	19
+56021	Wyoming	Laramie	pcnt_excessive_drinking	15
+56023	Wyoming	Lincoln	pcnt_excessive_drinking	14
+56025	Wyoming	Natrona	pcnt_excessive_drinking	17
+56027	Wyoming	Niobrara	pcnt_excessive_drinking	16
+56029	Wyoming	Park	pcnt_excessive_drinking	15
+56031	Wyoming	Platte	pcnt_excessive_drinking	17
+56033	Wyoming	Sheridan	pcnt_excessive_drinking	17
+56035	Wyoming	Sublette	pcnt_excessive_drinking	26
+56037	Wyoming	Sweetwater	pcnt_excessive_drinking	21
+56039	Wyoming	Teton	pcnt_excessive_drinking	22
+56041	Wyoming	Uinta	pcnt_excessive_drinking	14
+56043	Wyoming	Washakie	pcnt_excessive_drinking	11
+56045	Wyoming	Weston	pcnt_excessive_drinking	15

@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_afgr
+01001	Alabama	Autauga	pcnt_afgr	80
+01003	Alabama	Baldwin	pcnt_afgr	74
+01005	Alabama	Barbour	pcnt_afgr	61
+01007	Alabama	Bibb	pcnt_afgr	73
+01009	Alabama	Blount	pcnt_afgr	81
+01011	Alabama	Bullock	pcnt_afgr	71
+01013	Alabama	Butler	pcnt_afgr	72
+01015	Alabama	Calhoun	pcnt_afgr	79
+01017	Alabama	Chambers	pcnt_afgr	79
+01019	Alabama	Cherokee	pcnt_afgr	72
+01021	Alabama	Chilton	pcnt_afgr	73
+01023	Alabama	Choctaw	pcnt_afgr	78
+01025	Alabama	Clarke	pcnt_afgr	77
+01027	Alabama	Clay	pcnt_afgr	80
+01029	Alabama	Cleburne	pcnt_afgr	92
+01031	Alabama	Coffee	pcnt_afgr	84
+01033	Alabama	Colbert	pcnt_afgr	75
+01035	Alabama	Conecuh	pcnt_afgr	79
+01037	Alabama	Coosa	pcnt_afgr	47
+01039	Alabama	Covington	pcnt_afgr	76
+01041	Alabama	Crenshaw	pcnt_afgr	87
+01043	Alabama	Cullman	pcnt_afgr	77
+01045	Alabama	Dale	pcnt_afgr	76
+01047	Alabama	Dallas	pcnt_afgr	71
+01049	Alabama	DeKalb	pcnt_afgr	86
+01051	Alabama	Elmore	pcnt_afgr	74
+01053	Alabama	Escambia	pcnt_afgr	76
+01055	Alabama	Etowah	pcnt_afgr	75
+01057	Alabama	Fayette	pcnt_afgr	83
+01059	Alabama	Franklin	pcnt_afgr	85
+01061	Alabama	Geneva	pcnt_afgr	76
+01063	Alabama	Greene	pcnt_afgr	66
+01065	Alabama	Hale	pcnt_afgr	67
+01067	Alabama	Henry	pcnt_afgr	72
+01069	Alabama	Houston	pcnt_afgr	71
+01071	Alabama	Jackson	pcnt_afgr	80
+01073	Alabama	Jefferson	pcnt_afgr	73
+01075	Alabama	Lamar	pcnt_afgr	72
+01077	Alabama	Lauderdale	pcnt_afgr	81
+01079	Alabama	Lawrence	pcnt_afgr	79
+01081	Alabama	Lee	pcnt_afgr	87
+01083	Alabama	Limestone	pcnt_afgr	82
+01085	Alabama	Lowndes	pcnt_afgr	60
+01087	Alabama	Macon	pcnt_afgr	86
+01089	Alabama	Madison	pcnt_afgr	74
+01091	Alabama	Marengo	pcnt_afgr	87
+01093	Alabama	Marion	pcnt_afgr	73
+01095	Alabama	Marshall	pcnt_afgr	82
+01097	Alabama	Mobile	pcnt_afgr	64
+01099	Alabama	Monroe	pcnt_afgr	79
+01101	Alabama	Montgomery	pcnt_afgr	66
+01103	Alabama	Morgan	pcnt_afgr	71
+01105	Alabama	Perry	pcnt_afgr	87
+01107	Alabama	Pickens	pcnt_afgr	75
+01109	Alabama	Pike	pcnt_afgr	69
+01111	Alabama	Randolph	pcnt_afgr	81
+01113	Alabama	Russell	pcnt_afgr	65
+01115	Alabama	St. Clair	pcnt_afgr	76
+01117	Alabama	Shelby	pcnt_afgr	86
+01119	Alabama	Sumter	pcnt_afgr	80
+01121	Alabama	Talladega	pcnt_afgr	74
+01123	Alabama	Tallapoosa	pcnt_afgr	77
+01125	Alabama	Tuscaloosa	pcnt_afgr	67
+01127	Alabama	Walker	pcnt_afgr	77
+01129	Alabama	Washington	pcnt_afgr	85
+01131	Alabama	Wilcox	pcnt_afgr	72
+01133	Alabama	Winston	pcnt_afgr	87
+02013	Alaska	Aleutians East	pcnt_afgr	61
+02016	Alaska	Aleutians West	pcnt_afgr	85
+02020	Alaska	Anchorage	pcnt_afgr	72
+02050	Alaska	Bethel	pcnt_afgr	42
+02060	Alaska	Bristol Bay	pcnt_afgr	73
+02068	Alaska	Denali	pcnt_afgr	50
+02070	Alaska	Dillingham	pcnt_afgr	44
+02090	Alaska	Fairbanks North Star	pcnt_afgr	67
+02100	Alaska	Haines	pcnt_afgr	81
+02110	Alaska	Juneau	pcnt_afgr	72
+02122	Alaska	Kenai Peninsula	pcnt_afgr	73
+02130	Alaska	Ketchikan Gateway	pcnt_afgr	65
+02150	Alaska	Kodiak Island	pcnt_afgr	78
+02164	Alaska	Lake and Peninsula	pcnt_afgr	50
+02170	Alaska	Matanuska-Susitna	pcnt_afgr	70
+02180	Alaska	Nome	pcnt_afgr	56
+02185	Alaska	North Slope	pcnt_afgr	59
+02188	Alaska	Northwest Arctic	pcnt_afgr	49
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_afgr	59
+02220	Alaska	Sitka	pcnt_afgr	83
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_afgr	79
+02240	Alaska	Southeast Fairbanks	pcnt_afgr	64
+02261	Alaska	Valdez-Cordova	pcnt_afgr	86
+02270	Alaska	Wade Hampton	pcnt_afgr	47
+02280	Alaska	Wrangell-Petersburg	pcnt_afgr	80
+02282	Alaska	Yakutat	pcnt_afgr	100
+02290	Alaska	Yukon-Koyukuk	pcnt_afgr	46
+04001	Arizona	Apache	pcnt_afgr	70
+04003	Arizona	Cochise	pcnt_afgr	79
+04005	Arizona	Coconino	pcnt_afgr	76
+04007	Arizona	Gila	pcnt_afgr	72
+04009	Arizona	Graham	pcnt_afgr	82
+04011	Arizona	Greenlee	pcnt_afgr	83
+04012	Arizona	La Paz	pcnt_afgr	75
+04013	Arizona	Maricopa	pcnt_afgr	80
+04015	Arizona	Mohave	pcnt_afgr	73
+04017	Arizona	Navajo	pcnt_afgr	72
+04019	Arizona	Pima	pcnt_afgr	74
+04021	Arizona	Pinal	pcnt_afgr	71
+04023	Arizona	Santa Cruz	pcnt_afgr	81
+04025	Arizona	Yavapai	pcnt_afgr	78
+04027	Arizona	Yuma	pcnt_afgr	78
+05001	Arkansas	Arkansas	pcnt_afgr	83
+05003	Arkansas	Ashley	pcnt_afgr	83
+05005	Arkansas	Baxter	pcnt_afgr	80
+05007	Arkansas	Benton	pcnt_afgr	87
+05009	Arkansas	Boone	pcnt_afgr	82
+05011	Arkansas	Bradley	pcnt_afgr	86
+05013	Arkansas	Calhoun	pcnt_afgr	83
+05015	Arkansas	Carroll	pcnt_afgr	76
+05017	Arkansas	Chicot	pcnt_afgr	78
+05019	Arkansas	Clark	pcnt_afgr	81
+05021	Arkansas	Clay	pcnt_afgr	84
+05023	Arkansas	Cleburne	pcnt_afgr	84
+05025	Arkansas	Cleveland	pcnt_afgr	90
+05027	Arkansas	Columbia	pcnt_afgr	86
+05029	Arkansas	Conway	pcnt_afgr	82
+05031	Arkansas	Craighead	pcnt_afgr	85
+05033	Arkansas	Crawford	pcnt_afgr	88
+05035	Arkansas	Crittenden	pcnt_afgr	74
+05037	Arkansas	Cross	pcnt_afgr	82
+05039	Arkansas	Dallas	pcnt_afgr	88
+05041	Arkansas	Desha	pcnt_afgr	86
+05043	Arkansas	Drew	pcnt_afgr	85
+05045	Arkansas	Faulkner	pcnt_afgr	87
+05047	Arkansas	Franklin	pcnt_afgr	86
+05049	Arkansas	Fulton	pcnt_afgr	99
+05051	Arkansas	Garland	pcnt_afgr	82
+05053	Arkansas	Grant	pcnt_afgr	80
+05055	Arkansas	Greene	pcnt_afgr	83
+05057	Arkansas	Hempstead	pcnt_afgr	84
+05059	Arkansas	Hot Spring	pcnt_afgr	83
+05061	Arkansas	Howard	pcnt_afgr	91
+05063	Arkansas	Independence	pcnt_afgr	90
+05065	Arkansas	Izard	pcnt_afgr	90
+05067	Arkansas	Jackson	pcnt_afgr	86
+05069	Arkansas	Jefferson	pcnt_afgr	76
+05071	Arkansas	Johnson	pcnt_afgr	85
+05073	Arkansas	Lafayette	pcnt_afgr	90
+05075	Arkansas	Lawrence	pcnt_afgr	90
+05077	Arkansas	Lee	pcnt_afgr	83
+05079	Arkansas	Lincoln	pcnt_afgr	82
+05081	Arkansas	Little River	pcnt_afgr	80
+05083	Arkansas	Logan	pcnt_afgr	85
+05085	Arkansas	Lonoke	pcnt_afgr	79
+05087	Arkansas	Madison	pcnt_afgr	86
+05089	Arkansas	Marion	pcnt_afgr	87
+05091	Arkansas	Miller	pcnt_afgr	80
+05093	Arkansas	Mississippi	pcnt_afgr	75
+05095	Arkansas	Monroe	pcnt_afgr	75
+05097	Arkansas	Montgomery	pcnt_afgr	86
+05099	Arkansas	Nevada	pcnt_afgr	91
+05101	Arkansas	Newton	pcnt_afgr	88
+05103	Arkansas	Ouachita	pcnt_afgr	85
+05105	Arkansas	Perry	pcnt_afgr	88
+05107	Arkansas	Phillips	pcnt_afgr	76
+05109	Arkansas	Pike	pcnt_afgr	87
+05111	Arkansas	Poinsett	pcnt_afgr	77
+05113	Arkansas	Polk	pcnt_afgr	92
+05115	Arkansas	Pope	pcnt_afgr	85
+05117	Arkansas	Prairie	pcnt_afgr	91
+05119	Arkansas	Pulaski	pcnt_afgr	68
+05121	Arkansas	Randolph	pcnt_afgr	95
+05123	Arkansas	St. Francis	pcnt_afgr	75
+05125	Arkansas	Saline	pcnt_afgr	85
+05127	Arkansas	Scott	pcnt_afgr	82
+05129	Arkansas	Searcy	pcnt_afgr	85
+05131	Arkansas	Sebastian	pcnt_afgr	78
+05133	Arkansas	Sevier	pcnt_afgr	89
+05135	Arkansas	Sharp	pcnt_afgr	90
+05137	Arkansas	Stone	pcnt_afgr	91
+05139	Arkansas	Union	pcnt_afgr	83
+05141	Arkansas	Van Buren	pcnt_afgr	88
+05143	Arkansas	Washington	pcnt_afgr	84
+05145	Arkansas	White	pcnt_afgr	86
+05147	Arkansas	Woodruff	pcnt_afgr	81
+05149	Arkansas	Yell	pcnt_afgr	84
+06001	California	Alameda	pcnt_afgr	81
+06003	California	Alpine	pcnt_afgr	50
+06005	California	Amador	pcnt_afgr	85
+06007	California	Butte	pcnt_afgr	85
+06009	California	Calaveras	pcnt_afgr	92
+06011	California	Colusa	pcnt_afgr	83
+06013	California	Contra Costa	pcnt_afgr	83
+06015	California	Del Norte	pcnt_afgr	85
+06017	California	El Dorado	pcnt_afgr	92
+06019	California	Fresno	pcnt_afgr	80
+06021	California	Glenn	pcnt_afgr	87
+06023	California	Humboldt	pcnt_afgr	86
+06025	California	Imperial	pcnt_afgr	85
+06027	California	Inyo	pcnt_afgr	81
+06029	California	Kern	pcnt_afgr	79
+06031	California	Kings	pcnt_afgr	77
+06033	California	Lake	pcnt_afgr	82
+06035	California	Lassen	pcnt_afgr	79
+06037	California	Los Angeles	pcnt_afgr	75
+06039	California	Madera	pcnt_afgr	83
+06041	California	Marin	pcnt_afgr	94
+06043	California	Mariposa	pcnt_afgr	92
+06045	California	Mendocino	pcnt_afgr	81
+06047	California	Merced	pcnt_afgr	87
+06049	California	Modoc	pcnt_afgr	88
+06051	California	Mono	pcnt_afgr	76
+06053	California	Monterey	pcnt_afgr	75
+06055	California	Napa	pcnt_afgr	86
+06057	California	Nevada	pcnt_afgr	90
+06059	California	Orange	pcnt_afgr	90
+06061	California	Placer	pcnt_afgr	91
+06063	California	Plumas	pcnt_afgr	63
+06065	California	Riverside	pcnt_afgr	82
+06067	California	Sacramento	pcnt_afgr	78
+06069	California	San Benito	pcnt_afgr	87
+06071	California	San Bernardino	pcnt_afgr	80
+06073	California	San Diego	pcnt_afgr	84
+06075	California	San Francisco	pcnt_afgr	82
+06077	California	San Joaquin	pcnt_afgr	79
+06079	California	San Luis Obispo	pcnt_afgr	92
+06081	California	San Mateo	pcnt_afgr	87
+06083	California	Santa Barbara	pcnt_afgr	86
+06085	California	Santa Clara	pcnt_afgr	83
+06087	California	Santa Cruz	pcnt_afgr	86
+06089	California	Shasta	pcnt_afgr	88
+06091	California	Sierra	pcnt_afgr	93
+06093	California	Siskiyou	pcnt_afgr	88
+06095	California	Solano	pcnt_afgr	77
+06097	California	Sonoma	pcnt_afgr	83
+06099	California	Stanislaus	pcnt_afgr	79
+06101	California	Sutter	pcnt_afgr	85
+06103	California	Tehama	pcnt_afgr	81
+06105	California	Trinity	pcnt_afgr	90
+06107	California	Tulare	pcnt_afgr	81
+06109	California	Tuolumne	pcnt_afgr	89
+06111	California	Ventura	pcnt_afgr	86
+06113	California	Yolo	pcnt_afgr	86
+06115	California	Yuba	pcnt_afgr	81
+08001	Colorado	Adams	pcnt_afgr	65
+08003	Colorado	Alamosa	pcnt_afgr	78
+08005	Colorado	Arapahoe	pcnt_afgr	71
+08007	Colorado	Archuleta	pcnt_afgr	82
+08009	Colorado	Baca	pcnt_afgr	46
+08011	Colorado	Bent	pcnt_afgr	87
+08013	Colorado	Boulder	pcnt_afgr	84
+08014	Colorado	Broomfield	pcnt_afgr	
+08015	Colorado	Chaffee	pcnt_afgr	88
+08017	Colorado	Cheyenne	pcnt_afgr	96
+08019	Colorado	Clear Creek	pcnt_afgr	90
+08021	Colorado	Conejos	pcnt_afgr	91
+08023	Colorado	Costilla	pcnt_afgr	86
+08025	Colorado	Crowley	pcnt_afgr	74
+08027	Colorado	Custer	pcnt_afgr	92
+08029	Colorado	Delta	pcnt_afgr	83
+08031	Colorado	Denver	pcnt_afgr	56
+08033	Colorado	Dolores	pcnt_afgr	67
+08035	Colorado	Douglas	pcnt_afgr	84
+08037	Colorado	Eagle	pcnt_afgr	77
+08039	Colorado	Elbert	pcnt_afgr	86
+08041	Colorado	El Paso	pcnt_afgr	80
+08043	Colorado	Fremont	pcnt_afgr	76
+08045	Colorado	Garfield	pcnt_afgr	69
+08047	Colorado	Gilpin	pcnt_afgr	75
+08049	Colorado	Grand	pcnt_afgr	83
+08051	Colorado	Gunnison	pcnt_afgr	88
+08053	Colorado	Hinsdale	pcnt_afgr	100
+08055	Colorado	Huerfano	pcnt_afgr	85
+08057	Colorado	Jackson	pcnt_afgr	90
+08059	Colorado	Jefferson	pcnt_afgr	79
+08061	Colorado	Kiowa	pcnt_afgr	88
+08063	Colorado	Kit Carson	pcnt_afgr	94
+08065	Colorado	Lake	pcnt_afgr	89
+08067	Colorado	La Plata	pcnt_afgr	72
+08069	Colorado	Larimer	pcnt_afgr	83
+08071	Colorado	Las Animas	pcnt_afgr	67
+08073	Colorado	Lincoln	pcnt_afgr	68
+08075	Colorado	Logan	pcnt_afgr	78
+08077	Colorado	Mesa	pcnt_afgr	72
+08079	Colorado	Mineral	pcnt_afgr	100
+08081	Colorado	Moffat	pcnt_afgr	90
+08083	Colorado	Montezuma	pcnt_afgr	64
+08085	Colorado	Montrose	pcnt_afgr	75
+08087	Colorado	Morgan	pcnt_afgr	72
+08089	Colorado	Otero	pcnt_afgr	82
+08091	Colorado	Ouray	pcnt_afgr	98
+08093	Colorado	Park	pcnt_afgr	89
+08095	Colorado	Phillips	pcnt_afgr	92
+08097	Colorado	Pitkin	pcnt_afgr	91
+08099	Colorado	Prowers	pcnt_afgr	72
+08101	Colorado	Pueblo	pcnt_afgr	68
+08103	Colorado	Rio Blanco	pcnt_afgr	89
+08105	Colorado	Rio Grande	pcnt_afgr	71
+08107	Colorado	Routt	pcnt_afgr	93
+08109	Colorado	Saguache	pcnt_afgr	81
+08111	Colorado	San Juan	pcnt_afgr	0
+08113	Colorado	San Miguel	pcnt_afgr	91
+08115	Colorado	Sedgwick	pcnt_afgr	17
+08117	Colorado	Summit	pcnt_afgr	86
+08119	Colorado	Teller	pcnt_afgr	86
+08121	Colorado	Washington	pcnt_afgr	89
+08123	Colorado	Weld	pcnt_afgr	77
+08125	Colorado	Yuma	pcnt_afgr	88
+09001	Connecticut	Fairfield	pcnt_afgr	84
+09003	Connecticut	Hartford	pcnt_afgr	80
+09005	Connecticut	Litchfield	pcnt_afgr	86
+09007	Connecticut	Middlesex	pcnt_afgr	91
+09009	Connecticut	New Haven	pcnt_afgr	81
+09011	Connecticut	New London	pcnt_afgr	83
+09013	Connecticut	Tolland	pcnt_afgr	86
+09015	Connecticut	Windham	pcnt_afgr	75
+10001	Delaware	Kent	pcnt_afgr	77
+10003	Delaware	New Castle	pcnt_afgr	77
+10005	Delaware	Sussex	pcnt_afgr	81
+11001	District of Columbia	District of Columbia	pcnt_afgr	59
+12001	Florida	Alachua	pcnt_afgr	63
+12003	Florida	Baker	pcnt_afgr	65
+12005	Florida	Bay	pcnt_afgr	68
+12007	Florida	Bradford	pcnt_afgr	61
+12009	Florida	Brevard	pcnt_afgr	81
+12011	Florida	Broward	pcnt_afgr	72
+12013	Florida	Calhoun	pcnt_afgr	74
+12015	Florida	Charlotte	pcnt_afgr	73
+12017	Florida	Citrus	pcnt_afgr	75
+12019	Florida	Clay	pcnt_afgr	74
+12021	Florida	Collier	pcnt_afgr	73
+12023	Florida	Columbia	pcnt_afgr	63
+12027	Florida	DeSoto	pcnt_afgr	63
+12029	Florida	Dixie	pcnt_afgr	53
+12031	Florida	Duval	pcnt_afgr	63
+12033	Florida	Escambia	pcnt_afgr	58
+12035	Florida	Flagler	pcnt_afgr	70
+12037	Florida	Franklin	pcnt_afgr	59
+12039	Florida	Gadsden	pcnt_afgr	55
+12041	Florida	Gilchrist	pcnt_afgr	80
+12043	Florida	Glades	pcnt_afgr	48
+12045	Florida	Gulf	pcnt_afgr	78
+12047	Florida	Hamilton	pcnt_afgr	65
+12049	Florida	Hardee	pcnt_afgr	66
+12051	Florida	Hendry	pcnt_afgr	66
+12053	Florida	Hernando	pcnt_afgr	72
+12055	Florida	Highlands	pcnt_afgr	60
+12057	Florida	Hillsborough	pcnt_afgr	69
+12059	Florida	Holmes	pcnt_afgr	75
+12061	Florida	Indian River	pcnt_afgr	72
+12063	Florida	Jackson	pcnt_afgr	65
+12065	Florida	Jefferson	pcnt_afgr	39
+12067	Florida	Lafayette	pcnt_afgr	64
+12069	Florida	Lake	pcnt_afgr	75
+12071	Florida	Lee	pcnt_afgr	69
+12073	Florida	Leon	pcnt_afgr	68
+12075	Florida	Levy	pcnt_afgr	61
+12077	Florida	Liberty	pcnt_afgr	54
+12079	Florida	Madison	pcnt_afgr	57
+12081	Florida	Manatee	pcnt_afgr	65
+12083	Florida	Marion	pcnt_afgr	70
+12085	Florida	Martin	pcnt_afgr	82
+12086	Florida	Miami-Dade	pcnt_afgr	71
+12087	Florida	Monroe	pcnt_afgr	66
+12089	Florida	Nassau	pcnt_afgr	80
+12091	Florida	Okaloosa	pcnt_afgr	85
+12093	Florida	Okeechobee	pcnt_afgr	62
+12095	Florida	Orange	pcnt_afgr	71
+12097	Florida	Osceola	pcnt_afgr	76
+12099	Florida	Palm Beach	pcnt_afgr	74
+12101	Florida	Pasco	pcnt_afgr	71
+12103	Florida	Pinellas	pcnt_afgr	65
+12105	Florida	Polk	pcnt_afgr	66
+12107	Florida	Putnam	pcnt_afgr	63
+12109	Florida	St. Johns	pcnt_afgr	86
+12111	Florida	St. Lucie	pcnt_afgr	65
+12113	Florida	Santa Rosa	pcnt_afgr	78
+12115	Florida	Sarasota	pcnt_afgr	71
+12117	Florida	Seminole	pcnt_afgr	79
+12119	Florida	Sumter	pcnt_afgr	75
+12121	Florida	Suwannee	pcnt_afgr	54
+12123	Florida	Taylor	pcnt_afgr	61
+12125	Florida	Union	pcnt_afgr	74
+12127	Florida	Volusia	pcnt_afgr	62
+12129	Florida	Wakulla	pcnt_afgr	75
+12131	Florida	Walton	pcnt_afgr	74
+12133	Florida	Washington	pcnt_afgr	69
+13001	Georgia	Appling	pcnt_afgr	61
+13003	Georgia	Atkinson	pcnt_afgr	78
+13005	Georgia	Bacon	pcnt_afgr	77
+13007	Georgia	Baker	pcnt_afgr	41
+13009	Georgia	Baldwin	pcnt_afgr	68
+13011	Georgia	Banks	pcnt_afgr	77
+13013	Georgia	Barrow	pcnt_afgr	64
+13015	Georgia	Bartow	pcnt_afgr	68
+13017	Georgia	Ben Hill	pcnt_afgr	65
+13019	Georgia	Berrien	pcnt_afgr	67
+13021	Georgia	Bibb	pcnt_afgr	51
+13023	Georgia	Bleckley	pcnt_afgr	72
+13025	Georgia	Brantley	pcnt_afgr	60
+13027	Georgia	Brooks	pcnt_afgr	60
+13029	Georgia	Bryan	pcnt_afgr	79
+13031	Georgia	Bulloch	pcnt_afgr	69
+13033	Georgia	Burke	pcnt_afgr	67
+13035	Georgia	Butts	pcnt_afgr	67
+13037	Georgia	Calhoun	pcnt_afgr	60
+13039	Georgia	Camden	pcnt_afgr	75
+13043	Georgia	Candler	pcnt_afgr	76
+13045	Georgia	Carroll	pcnt_afgr	71
+13047	Georgia	Catoosa	pcnt_afgr	76
+13049	Georgia	Charlton	pcnt_afgr	76
+13051	Georgia	Chatham	pcnt_afgr	54
+13053	Georgia	Chattahoochee	pcnt_afgr	67
+13055	Georgia	Chattooga	pcnt_afgr	75
+13057	Georgia	Cherokee	pcnt_afgr	75
+13059	Georgia	Clarke	pcnt_afgr	66
+13061	Georgia	Clay	pcnt_afgr	
+13063	Georgia	Clayton	pcnt_afgr	51
+13065	Georgia	Clinch	pcnt_afgr	86
+13067	Georgia	Cobb	pcnt_afgr	72
+13069	Georgia	Coffee	pcnt_afgr	66
+13071	Georgia	Colquitt	pcnt_afgr	76
+13073	Georgia	Columbia	pcnt_afgr	76
+13075	Georgia	Cook	pcnt_afgr	78
+13077	Georgia	Coweta	pcnt_afgr	75
+13079	Georgia	Crawford	pcnt_afgr	42
+13081	Georgia	Crisp	pcnt_afgr	59
+13083	Georgia	Dade	pcnt_afgr	70
+13085	Georgia	Dawson	pcnt_afgr	74
+13087	Georgia	Decatur	pcnt_afgr	71
+13089	Georgia	DeKalb	pcnt_afgr	59
+13091	Georgia	Dodge	pcnt_afgr	69
+13093	Georgia	Dooly	pcnt_afgr	58
+13095	Georgia	Dougherty	pcnt_afgr	54
+13097	Georgia	Douglas	pcnt_afgr	71
+13099	Georgia	Early	pcnt_afgr	72
+13101	Georgia	Echols	pcnt_afgr	77
+13103	Georgia	Effingham	pcnt_afgr	80
+13105	Georgia	Elbert	pcnt_afgr	70
+13107	Georgia	Emanuel	pcnt_afgr	76
+13109	Georgia	Evans	pcnt_afgr	65
+13111	Georgia	Fannin	pcnt_afgr	82
+13113	Georgia	Fayette	pcnt_afgr	78
+13115	Georgia	Floyd	pcnt_afgr	73
+13117	Georgia	Forsyth	pcnt_afgr	86
+13119	Georgia	Franklin	pcnt_afgr	75
+13121	Georgia	Fulton	pcnt_afgr	64
+13123	Georgia	Gilmer	pcnt_afgr	82
+13125	Georgia	Glascock	pcnt_afgr	80
+13127	Georgia	Glynn	pcnt_afgr	69
+13129	Georgia	Gordon	pcnt_afgr	81
+13131	Georgia	Grady	pcnt_afgr	73
+13133	Georgia	Greene	pcnt_afgr	53
+13135	Georgia	Gwinnett	pcnt_afgr	68
+13137	Georgia	Habersham	pcnt_afgr	68
+13139	Georgia	Hall	pcnt_afgr	71
+13141	Georgia	Hancock	pcnt_afgr	84
+13143	Georgia	Haralson	pcnt_afgr	68
+13145	Georgia	Harris	pcnt_afgr	78
+13147	Georgia	Hart	pcnt_afgr	72
+13149	Georgia	Heard	pcnt_afgr	78
+13151	Georgia	Henry	pcnt_afgr	72
+13153	Georgia	Houston	pcnt_afgr	73
+13155	Georgia	Irwin	pcnt_afgr	56
+13157	Georgia	Jackson	pcnt_afgr	81
+13159	Georgia	Jasper	pcnt_afgr	76
+13161	Georgia	Jeff Davis	pcnt_afgr	76
+13163	Georgia	Jefferson	pcnt_afgr	74
+13165	Georgia	Jenkins	pcnt_afgr	69
+13167	Georgia	Johnson	pcnt_afgr	79
+13169	Georgia	Jones	pcnt_afgr	72
+13171	Georgia	Lamar	pcnt_afgr	67
+13173	Georgia	Lanier	pcnt_afgr	64
+13175	Georgia	Laurens	pcnt_afgr	68
+13177	Georgia	Lee	pcnt_afgr	66
+13179	Georgia	Liberty	pcnt_afgr	67
+13181	Georgia	Lincoln	pcnt_afgr	76
+13183	Georgia	Long	pcnt_afgr	71
+13185	Georgia	Lowndes	pcnt_afgr	62
+13187	Georgia	Lumpkin	pcnt_afgr	81
+13189	Georgia	McDuffie	pcnt_afgr	77
+13191	Georgia	McIntosh	pcnt_afgr	77
+13193	Georgia	Macon	pcnt_afgr	64
+13195	Georgia	Madison	pcnt_afgr	77
+13197	Georgia	Marion	pcnt_afgr	74
+13199	Georgia	Meriwether	pcnt_afgr	70
+13201	Georgia	Miller	pcnt_afgr	83
+13205	Georgia	Mitchell	pcnt_afgr	69
+13207	Georgia	Monroe	pcnt_afgr	78
+13209	Georgia	Montgomery	pcnt_afgr	73
+13211	Georgia	Morgan	pcnt_afgr	86
+13213	Georgia	Murray	pcnt_afgr	66
+13215	Georgia	Muscogee	pcnt_afgr	68
+13217	Georgia	Newton	pcnt_afgr	64
+13219	Georgia	Oconee	pcnt_afgr	92
+13221	Georgia	Oglethorpe	pcnt_afgr	70
+13223	Georgia	Paulding	pcnt_afgr	76
+13225	Georgia	Peach	pcnt_afgr	60
+13227	Georgia	Pickens	pcnt_afgr	81
+13229	Georgia	Pierce	pcnt_afgr	84
+13231	Georgia	Pike	pcnt_afgr	85
+13233	Georgia	Polk	pcnt_afgr	60
+13235	Georgia	Pulaski	pcnt_afgr	70
+13237	Georgia	Putnam	pcnt_afgr	63
+13239	Georgia	Quitman	pcnt_afgr	69
+13241	Georgia	Rabun	pcnt_afgr	90
+13243	Georgia	Randolph	pcnt_afgr	60
+13245	Georgia	Richmond	pcnt_afgr	55
+13247	Georgia	Rockdale	pcnt_afgr	66
+13249	Georgia	Schley	pcnt_afgr	76
+13251	Georgia	Screven	pcnt_afgr	82
+13253	Georgia	Seminole	pcnt_afgr	72
+13255	Georgia	Spalding	pcnt_afgr	59
+13257	Georgia	Stephens	pcnt_afgr	82
+13259	Georgia	Stewart	pcnt_afgr	76
+13261	Georgia	Sumter	pcnt_afgr	63
+13263	Georgia	Talbot	pcnt_afgr	45
+13265	Georgia	Taliaferro	pcnt_afgr	40
+13267	Georgia	Tattnall	pcnt_afgr	60
+13269	Georgia	Taylor	pcnt_afgr	51
+13271	Georgia	Telfair	pcnt_afgr	75
+13273	Georgia	Terrell	pcnt_afgr	76
+13275	Georgia	Thomas	pcnt_afgr	62
+13277	Georgia	Tift	pcnt_afgr	72
+13279	Georgia	Toombs	pcnt_afgr	73
+13281	Georgia	Towns	pcnt_afgr	88
+13283	Georgia	Treutlen	pcnt_afgr	79
+13285	Georgia	Troup	pcnt_afgr	64
+13287	Georgia	Turner	pcnt_afgr	71
+13289	Georgia	Twiggs	pcnt_afgr	59
+13291	Georgia	Union	pcnt_afgr	89
+13293	Georgia	Upson	pcnt_afgr	64
+13295	Georgia	Walker	pcnt_afgr	72
+13297	Georgia	Walton	pcnt_afgr	74
+13299	Georgia	Ware	pcnt_afgr	76
+13301	Georgia	Warren	pcnt_afgr	75
+13303	Georgia	Washington	pcnt_afgr	74
+13305	Georgia	Wayne	pcnt_afgr	62
+13307	Georgia	Webster	pcnt_afgr	67
+13309	Georgia	Wheeler	pcnt_afgr	88
+13311	Georgia	White	pcnt_afgr	86
+13313	Georgia	Whitfield	pcnt_afgr	67
+13315	Georgia	Wilcox	pcnt_afgr	65
+13317	Georgia	Wilkes	pcnt_afgr	67
+13319	Georgia	Wilkinson	pcnt_afgr	66
+13321	Georgia	Worth	pcnt_afgr	65
+15001	Hawaii	Hawaii	pcnt_afgr	
+15003	Hawaii	Honolulu	pcnt_afgr	100
+15005	Hawaii	Kalawao	pcnt_afgr	
+15007	Hawaii	Kauai	pcnt_afgr	
+15009	Hawaii	Maui	pcnt_afgr	
+16001	Idaho	Ada	pcnt_afgr	84
+16003	Idaho	Adams	pcnt_afgr	68
+16005	Idaho	Bannock	pcnt_afgr	91
+16007	Idaho	Bear Lake	pcnt_afgr	85
+16009	Idaho	Benewah	pcnt_afgr	77
+16011	Idaho	Bingham	pcnt_afgr	80
+16013	Idaho	Blaine	pcnt_afgr	76
+16015	Idaho	Boise	pcnt_afgr	74
+16017	Idaho	Bonner	pcnt_afgr	77
+16019	Idaho	Bonneville	pcnt_afgr	87
+16021	Idaho	Boundary	pcnt_afgr	76
+16023	Idaho	Butte	pcnt_afgr	24
+16025	Idaho	Camas	pcnt_afgr	88
+16027	Idaho	Canyon	pcnt_afgr	73
+16029	Idaho	Caribou	pcnt_afgr	91
+16031	Idaho	Cassia	pcnt_afgr	87
+16033	Idaho	Clark	pcnt_afgr	91
+16035	Idaho	Clearwater	pcnt_afgr	95
+16037	Idaho	Custer	pcnt_afgr	86
+16039	Idaho	Elmore	pcnt_afgr	72
+16041	Idaho	Franklin	pcnt_afgr	94
+16043	Idaho	Fremont	pcnt_afgr	72
+16045	Idaho	Gem	pcnt_afgr	75
+16047	Idaho	Gooding	pcnt_afgr	79
+16049	Idaho	Idaho	pcnt_afgr	84
+16051	Idaho	Jefferson	pcnt_afgr	87
+16053	Idaho	Jerome	pcnt_afgr	82
+16055	Idaho	Kootenai	pcnt_afgr	74
+16057	Idaho	Latah	pcnt_afgr	82
+16059	Idaho	Lemhi	pcnt_afgr	72
+16061	Idaho	Lewis	pcnt_afgr	91
+16063	Idaho	Lincoln	pcnt_afgr	86
+16065	Idaho	Madison	pcnt_afgr	100
+16067	Idaho	Minidoka	pcnt_afgr	73
+16069	Idaho	Nez Perce	pcnt_afgr	83
+16071	Idaho	Oneida	pcnt_afgr	96
+16073	Idaho	Owyhee	pcnt_afgr	83
+16075	Idaho	Payette	pcnt_afgr	75
+16077	Idaho	Power	pcnt_afgr	87
+16079	Idaho	Shoshone	pcnt_afgr	77
+16081	Idaho	Teton	pcnt_afgr	83
+16083	Idaho	Twin Falls	pcnt_afgr	76
+16085	Idaho	Valley	pcnt_afgr	71
+16087	Idaho	Washington	pcnt_afgr	91
+17001	Illinois	Adams	pcnt_afgr	90
+17003	Illinois	Alexander	pcnt_afgr	69
+17005	Illinois	Bond	pcnt_afgr	88
+17007	Illinois	Boone	pcnt_afgr	80
+17009	Illinois	Brown	pcnt_afgr	89
+17011	Illinois	Bureau	pcnt_afgr	86
+17013	Illinois	Calhoun	pcnt_afgr	93
+17015	Illinois	Carroll	pcnt_afgr	87
+17017	Illinois	Cass	pcnt_afgr	81
+17019	Illinois	Champaign	pcnt_afgr	87
+17021	Illinois	Christian	pcnt_afgr	80
+17023	Illinois	Clark	pcnt_afgr	91
+17025	Illinois	Clay	pcnt_afgr	84
+17027	Illinois	Clinton	pcnt_afgr	88
+17029	Illinois	Coles	pcnt_afgr	85
+17031	Illinois	Cook	pcnt_afgr	78
+17033	Illinois	Crawford	pcnt_afgr	87
+17035	Illinois	Cumberland	pcnt_afgr	86
+17037	Illinois	DeKalb	pcnt_afgr	87
+17039	Illinois	De Witt	pcnt_afgr	87
+17041	Illinois	Douglas	pcnt_afgr	89
+17043	Illinois	DuPage	pcnt_afgr	92
+17045	Illinois	Edgar	pcnt_afgr	80
+17047	Illinois	Edwards	pcnt_afgr	81
+17049	Illinois	Effingham	pcnt_afgr	86
+17051	Illinois	Fayette	pcnt_afgr	78
+17053	Illinois	Ford	pcnt_afgr	85
+17055	Illinois	Franklin	pcnt_afgr	80
+17057	Illinois	Fulton	pcnt_afgr	84
+17059	Illinois	Gallatin	pcnt_afgr	70
+17061	Illinois	Greene	pcnt_afgr	82
+17063	Illinois	Grundy	pcnt_afgr	87
+17065	Illinois	Hamilton	pcnt_afgr	76
+17067	Illinois	Hancock	pcnt_afgr	83
+17069	Illinois	Hardin	pcnt_afgr	84
+17071	Illinois	Henderson	pcnt_afgr	92
+17073	Illinois	Henry	pcnt_afgr	87
+17075	Illinois	Iroquois	pcnt_afgr	82
+17077	Illinois	Jackson	pcnt_afgr	81
+17079	Illinois	Jasper	pcnt_afgr	88
+17081	Illinois	Jefferson	pcnt_afgr	83
+17083	Illinois	Jersey	pcnt_afgr	86
+17085	Illinois	Jo Daviess	pcnt_afgr	87
+17087	Illinois	Johnson	pcnt_afgr	77
+17089	Illinois	Kane	pcnt_afgr	82
+17091	Illinois	Kankakee	pcnt_afgr	78
+17093	Illinois	Kendall	pcnt_afgr	92
+17095	Illinois	Knox	pcnt_afgr	84
+17097	Illinois	Lake	pcnt_afgr	88
+17099	Illinois	LaSalle	pcnt_afgr	83
+17101	Illinois	Lawrence	pcnt_afgr	80
+17103	Illinois	Lee	pcnt_afgr	83
+17105	Illinois	Livingston	pcnt_afgr	84
+17107	Illinois	Logan	pcnt_afgr	73
+17109	Illinois	McDonough	pcnt_afgr	84
+17111	Illinois	McHenry	pcnt_afgr	92
+17113	Illinois	McLean	pcnt_afgr	82
+17115	Illinois	Macon	pcnt_afgr	75
+17117	Illinois	Macoupin	pcnt_afgr	87
+17119	Illinois	Madison	pcnt_afgr	83
+17121	Illinois	Marion	pcnt_afgr	78
+17123	Illinois	Marshall	pcnt_afgr	88
+17125	Illinois	Mason	pcnt_afgr	79
+17127	Illinois	Massac	pcnt_afgr	75
+17129	Illinois	Menard	pcnt_afgr	87
+17131	Illinois	Mercer	pcnt_afgr	89
+17133	Illinois	Monroe	pcnt_afgr	93
+17135	Illinois	Montgomery	pcnt_afgr	79
+17137	Illinois	Morgan	pcnt_afgr	85
+17139	Illinois	Moultrie	pcnt_afgr	88
+17141	Illinois	Ogle	pcnt_afgr	94
+17143	Illinois	Peoria	pcnt_afgr	77
+17145	Illinois	Perry	pcnt_afgr	84
+17147	Illinois	Piatt	pcnt_afgr	87
+17149	Illinois	Pike	pcnt_afgr	77
+17151	Illinois	Pope	pcnt_afgr	88
+17153	Illinois	Pulaski	pcnt_afgr	83
+17155	Illinois	Putnam	pcnt_afgr	83
+17157	Illinois	Randolph	pcnt_afgr	87
+17159	Illinois	Richland	pcnt_afgr	86
+17161	Illinois	Rock Island	pcnt_afgr	86
+17163	Illinois	St. Clair	pcnt_afgr	80
+17165	Illinois	Saline	pcnt_afgr	79
+17167	Illinois	Sangamon	pcnt_afgr	79
+17169	Illinois	Schuyler	pcnt_afgr	90
+17171	Illinois	Scott	pcnt_afgr	90
+17173	Illinois	Shelby	pcnt_afgr	88
+17175	Illinois	Stark	pcnt_afgr	90
+17177	Illinois	Stephenson	pcnt_afgr	83
+17179	Illinois	Tazewell	pcnt_afgr	84
+17181	Illinois	Union	pcnt_afgr	83
+17183	Illinois	Vermilion	pcnt_afgr	79
+17185	Illinois	Wabash	pcnt_afgr	79
+17187	Illinois	Warren	pcnt_afgr	92
+17189	Illinois	Washington	pcnt_afgr	87
+17191	Illinois	Wayne	pcnt_afgr	82
+17193	Illinois	White	pcnt_afgr	84
+17195	Illinois	Whiteside	pcnt_afgr	83
+17197	Illinois	Will	pcnt_afgr	87
+17199	Illinois	Williamson	pcnt_afgr	80
+17201	Illinois	Winnebago	pcnt_afgr	70
+17203	Illinois	Woodford	pcnt_afgr	88
+18001	Indiana	Adams	pcnt_afgr	92
+18003	Indiana	Allen	pcnt_afgr	90
+18005	Indiana	Bartholomew	pcnt_afgr	81
+18007	Indiana	Benton	pcnt_afgr	95
+18009	Indiana	Blackford	pcnt_afgr	91
+18011	Indiana	Boone	pcnt_afgr	96
+18013	Indiana	Brown	pcnt_afgr	94
+18015	Indiana	Carroll	pcnt_afgr	93
+18017	Indiana	Cass	pcnt_afgr	85
+18019	Indiana	Clark	pcnt_afgr	85
+18021	Indiana	Clay	pcnt_afgr	88
+18023	Indiana	Clinton	pcnt_afgr	86
+18025	Indiana	Crawford	pcnt_afgr	87
+18027	Indiana	Daviess	pcnt_afgr	88
+18029	Indiana	Dearborn	pcnt_afgr	91
+18031	Indiana	Decatur	pcnt_afgr	94
+18033	Indiana	DeKalb	pcnt_afgr	89
+18035	Indiana	Delaware	pcnt_afgr	90
+18037	Indiana	Dubois	pcnt_afgr	90
+18039	Indiana	Elkhart	pcnt_afgr	85
+18041	Indiana	Fayette	pcnt_afgr	83
+18043	Indiana	Floyd	pcnt_afgr	92
+18045	Indiana	Fountain	pcnt_afgr	86
+18047	Indiana	Franklin	pcnt_afgr	88
+18049	Indiana	Fulton	pcnt_afgr	89
+18051	Indiana	Gibson	pcnt_afgr	89
+18053	Indiana	Grant	pcnt_afgr	88
+18055	Indiana	Greene	pcnt_afgr	87
+18057	Indiana	Hamilton	pcnt_afgr	92
+18059	Indiana	Hancock	pcnt_afgr	91
+18061	Indiana	Harrison	pcnt_afgr	92
+18063	Indiana	Hendricks	pcnt_afgr	95
+18065	Indiana	Henry	pcnt_afgr	84
+18067	Indiana	Howard	pcnt_afgr	89
+18069	Indiana	Huntington	pcnt_afgr	85
+18071	Indiana	Jackson	pcnt_afgr	92
+18073	Indiana	Jasper	pcnt_afgr	85
+18075	Indiana	Jay	pcnt_afgr	88
+18077	Indiana	Jefferson	pcnt_afgr	83
+18079	Indiana	Jennings	pcnt_afgr	82
+18081	Indiana	Johnson	pcnt_afgr	90
+18083	Indiana	Knox	pcnt_afgr	83
+18085	Indiana	Kosciusko	pcnt_afgr	89
+18087	Indiana	LaGrange	pcnt_afgr	83
+18089	Indiana	Lake	pcnt_afgr	83
+18091	Indiana	LaPorte	pcnt_afgr	89
+18093	Indiana	Lawrence	pcnt_afgr	80
+18095	Indiana	Madison	pcnt_afgr	81
+18097	Indiana	Marion	pcnt_afgr	81
+18099	Indiana	Marshall	pcnt_afgr	85
+18101	Indiana	Martin	pcnt_afgr	77
+18103	Indiana	Miami	pcnt_afgr	89
+18105	Indiana	Monroe	pcnt_afgr	89
+18107	Indiana	Montgomery	pcnt_afgr	93
+18109	Indiana	Morgan	pcnt_afgr	87
+18111	Indiana	Newton	pcnt_afgr	77
+18113	Indiana	Noble	pcnt_afgr	86
+18115	Indiana	Ohio	pcnt_afgr	90
+18117	Indiana	Orange	pcnt_afgr	90
+18119	Indiana	Owen	pcnt_afgr	82
+18121	Indiana	Parke	pcnt_afgr	86
+18123	Indiana	Perry	pcnt_afgr	90
+18125	Indiana	Pike	pcnt_afgr	96
+18127	Indiana	Porter	pcnt_afgr	90
+18129	Indiana	Posey	pcnt_afgr	87
+18131	Indiana	Pulaski	pcnt_afgr	90
+18133	Indiana	Putnam	pcnt_afgr	86
+18135	Indiana	Randolph	pcnt_afgr	87
+18137	Indiana	Ripley	pcnt_afgr	82
+18139	Indiana	Rush	pcnt_afgr	96
+18141	Indiana	St. Joseph	pcnt_afgr	84
+18143	Indiana	Scott	pcnt_afgr	72
+18145	Indiana	Shelby	pcnt_afgr	91
+18147	Indiana	Spencer	pcnt_afgr	91
+18149	Indiana	Starke	pcnt_afgr	81
+18151	Indiana	Steuben	pcnt_afgr	89
+18153	Indiana	Sullivan	pcnt_afgr	85
+18155	Indiana	Switzerland	pcnt_afgr	84
+18157	Indiana	Tippecanoe	pcnt_afgr	83
+18159	Indiana	Tipton	pcnt_afgr	94
+18161	Indiana	Union	pcnt_afgr	83
+18163	Indiana	Vanderburgh	pcnt_afgr	83
+18165	Indiana	Vermillion	pcnt_afgr	88
+18167	Indiana	Vigo	pcnt_afgr	88
+18169	Indiana	Wabash	pcnt_afgr	88
+18171	Indiana	Warren	pcnt_afgr	91
+18173	Indiana	Warrick	pcnt_afgr	91
+18175	Indiana	Washington	pcnt_afgr	88
+18177	Indiana	Wayne	pcnt_afgr	84
+18179	Indiana	Wells	pcnt_afgr	93
+18181	Indiana	White	pcnt_afgr	83
+18183	Indiana	Whitley	pcnt_afgr	91
+19001	Iowa	Adair	pcnt_afgr	98
+19003	Iowa	Adams	pcnt_afgr	94
+19005	Iowa	Allamakee	pcnt_afgr	99
+19007	Iowa	Appanoose	pcnt_afgr	87
+19009	Iowa	Audubon	pcnt_afgr	91
+19011	Iowa	Benton	pcnt_afgr	85
+19013	Iowa	Black Hawk	pcnt_afgr	84
+19015	Iowa	Boone	pcnt_afgr	90
+19017	Iowa	Bremer	pcnt_afgr	95
+19019	Iowa	Buchanan	pcnt_afgr	91
+19021	Iowa	Buena Vista	pcnt_afgr	73
+19023	Iowa	Butler	pcnt_afgr	91
+19025	Iowa	Calhoun	pcnt_afgr	97
+19027	Iowa	Carroll	pcnt_afgr	92
+19029	Iowa	Cass	pcnt_afgr	93
+19031	Iowa	Cedar	pcnt_afgr	94
+19033	Iowa	Cerro Gordo	pcnt_afgr	90
+19035	Iowa	Cherokee	pcnt_afgr	85
+19037	Iowa	Chickasaw	pcnt_afgr	85
+19039	Iowa	Clarke	pcnt_afgr	87
+19041	Iowa	Clay	pcnt_afgr	90
+19043	Iowa	Clayton	pcnt_afgr	94
+19045	Iowa	Clinton	pcnt_afgr	83
+19047	Iowa	Crawford	pcnt_afgr	83
+19049	Iowa	Dallas	pcnt_afgr	96
+19051	Iowa	Davis	pcnt_afgr	87
+19053	Iowa	Decatur	pcnt_afgr	94
+19055	Iowa	Delaware	pcnt_afgr	98
+19057	Iowa	Des Moines	pcnt_afgr	79
+19059	Iowa	Dickinson	pcnt_afgr	91
+19061	Iowa	Dubuque	pcnt_afgr	90
+19063	Iowa	Emmet	pcnt_afgr	89
+19065	Iowa	Fayette	pcnt_afgr	92
+19067	Iowa	Floyd	pcnt_afgr	94
+19069	Iowa	Franklin	pcnt_afgr	97
+19071	Iowa	Fremont	pcnt_afgr	84
+19073	Iowa	Greene	pcnt_afgr	89
+19075	Iowa	Grundy	pcnt_afgr	96
+19077	Iowa	Guthrie	pcnt_afgr	94
+19079	Iowa	Hamilton	pcnt_afgr	89
+19081	Iowa	Hancock	pcnt_afgr	96
+19083	Iowa	Hardin	pcnt_afgr	92
+19085	Iowa	Harrison	pcnt_afgr	89
+19087	Iowa	Henry	pcnt_afgr	86
+19089	Iowa	Howard	pcnt_afgr	93
+19091	Iowa	Humboldt	pcnt_afgr	96
+19093	Iowa	Ida	pcnt_afgr	97
+19095	Iowa	Iowa	pcnt_afgr	94
+19097	Iowa	Jackson	pcnt_afgr	93
+19099	Iowa	Jasper	pcnt_afgr	92
+19101	Iowa	Jefferson	pcnt_afgr	87
+19103	Iowa	Johnson	pcnt_afgr	88
+19105	Iowa	Jones	pcnt_afgr	93
+19107	Iowa	Keokuk	pcnt_afgr	86
+19109	Iowa	Kossuth	pcnt_afgr	94
+19111	Iowa	Lee	pcnt_afgr	85
+19113	Iowa	Linn	pcnt_afgr	85
+19115	Iowa	Louisa	pcnt_afgr	86
+19117	Iowa	Lucas	pcnt_afgr	95
+19119	Iowa	Lyon	pcnt_afgr	97
+19121	Iowa	Madison	pcnt_afgr	96
+19123	Iowa	Mahaska	pcnt_afgr	89
+19125	Iowa	Marion	pcnt_afgr	92
+19127	Iowa	Marshall	pcnt_afgr	82
+19129	Iowa	Mills	pcnt_afgr	90
+19131	Iowa	Mitchell	pcnt_afgr	98
+19133	Iowa	Monona	pcnt_afgr	91
+19135	Iowa	Monroe	pcnt_afgr	96
+19137	Iowa	Montgomery	pcnt_afgr	92
+19139	Iowa	Muscatine	pcnt_afgr	84
+19141	Iowa	O'Brien	pcnt_afgr	91
+19143	Iowa	Osceola	pcnt_afgr	97
+19145	Iowa	Page	pcnt_afgr	90
+19147	Iowa	Palo Alto	pcnt_afgr	93
+19149	Iowa	Plymouth	pcnt_afgr	95
+19151	Iowa	Pocahontas	pcnt_afgr	91
+19153	Iowa	Polk	pcnt_afgr	86
+19155	Iowa	Pottawattamie	pcnt_afgr	83
+19157	Iowa	Poweshiek	pcnt_afgr	90
+19159	Iowa	Ringgold	pcnt_afgr	97
+19161	Iowa	Sac	pcnt_afgr	92
+19163	Iowa	Scott	pcnt_afgr	83
+19165	Iowa	Shelby	pcnt_afgr	95
+19167	Iowa	Sioux	pcnt_afgr	91
+19169	Iowa	Story	pcnt_afgr	94
+19171	Iowa	Tama	pcnt_afgr	91
+19173	Iowa	Taylor	pcnt_afgr	89
+19175	Iowa	Union	pcnt_afgr	94
+19177	Iowa	Van Buren	pcnt_afgr	92
+19179	Iowa	Wapello	pcnt_afgr	82
+19181	Iowa	Warren	pcnt_afgr	93
+19183	Iowa	Washington	pcnt_afgr	85
+19185	Iowa	Wayne	pcnt_afgr	92
+19187	Iowa	Webster	pcnt_afgr	81
+19189	Iowa	Winnebago	pcnt_afgr	92
+19191	Iowa	Winneshiek	pcnt_afgr	96
+19193	Iowa	Woodbury	pcnt_afgr	87
+19195	Iowa	Worth	pcnt_afgr	99
+19197	Iowa	Wright	pcnt_afgr	94
+20001	Kansas	Allen	pcnt_afgr	86
+20003	Kansas	Anderson	pcnt_afgr	92
+20005	Kansas	Atchison	pcnt_afgr	77
+20007	Kansas	Barber	pcnt_afgr	98
+20009	Kansas	Barton	pcnt_afgr	81
+20011	Kansas	Bourbon	pcnt_afgr	80
+20013	Kansas	Brown	pcnt_afgr	82
+20015	Kansas	Butler	pcnt_afgr	89
+20017	Kansas	Chase	pcnt_afgr	86
+20019	Kansas	Chautauqua	pcnt_afgr	89
+20021	Kansas	Cherokee	pcnt_afgr	80
+20023	Kansas	Cheyenne	pcnt_afgr	97
+20025	Kansas	Clark	pcnt_afgr	95
+20027	Kansas	Clay	pcnt_afgr	88
+20029	Kansas	Cloud	pcnt_afgr	86
+20031	Kansas	Coffey	pcnt_afgr	87
+20033	Kansas	Comanche	pcnt_afgr	94
+20035	Kansas	Cowley	pcnt_afgr	79
+20037	Kansas	Crawford	pcnt_afgr	81
+20039	Kansas	Decatur	pcnt_afgr	87
+20041	Kansas	Dickinson	pcnt_afgr	89
+20043	Kansas	Doniphan	pcnt_afgr	56
+20045	Kansas	Douglas	pcnt_afgr	83
+20047	Kansas	Edwards	pcnt_afgr	93
+20049	Kansas	Elk	pcnt_afgr	91
+20051	Kansas	Ellis	pcnt_afgr	87
+20053	Kansas	Ellsworth	pcnt_afgr	79
+20055	Kansas	Finney	pcnt_afgr	76
+20057	Kansas	Ford	pcnt_afgr	84
+20059	Kansas	Franklin	pcnt_afgr	81
+20061	Kansas	Geary	pcnt_afgr	77
+20063	Kansas	Gove	pcnt_afgr	95
+20065	Kansas	Graham	pcnt_afgr	94
+20067	Kansas	Grant	pcnt_afgr	75
+20069	Kansas	Gray	pcnt_afgr	90
+20071	Kansas	Greeley	pcnt_afgr	96
+20073	Kansas	Greenwood	pcnt_afgr	86
+20075	Kansas	Hamilton	pcnt_afgr	95
+20077	Kansas	Harper	pcnt_afgr	75
+20079	Kansas	Harvey	pcnt_afgr	85
+20081	Kansas	Haskell	pcnt_afgr	83
+20083	Kansas	Hodgeman	pcnt_afgr	100
+20085	Kansas	Jackson	pcnt_afgr	88
+20087	Kansas	Jefferson	pcnt_afgr	92
+20089	Kansas	Jewell	pcnt_afgr	97
+20091	Kansas	Johnson	pcnt_afgr	88
+20093	Kansas	Kearny	pcnt_afgr	75
+20095	Kansas	Kingman	pcnt_afgr	79
+20097	Kansas	Kiowa	pcnt_afgr	28
+20099	Kansas	Labette	pcnt_afgr	87
+20101	Kansas	Lane	pcnt_afgr	97
+20103	Kansas	Leavenworth	pcnt_afgr	81
+20105	Kansas	Lincoln	pcnt_afgr	83
+20107	Kansas	Linn	pcnt_afgr	88
+20109	Kansas	Logan	pcnt_afgr	91
+20111	Kansas	Lyon	pcnt_afgr	81
+20113	Kansas	McPherson	pcnt_afgr	86
+20115	Kansas	Marion	pcnt_afgr	90
+20117	Kansas	Marshall	pcnt_afgr	96
+20119	Kansas	Meade	pcnt_afgr	90
+20121	Kansas	Miami	pcnt_afgr	88
+20123	Kansas	Mitchell	pcnt_afgr	93
+20125	Kansas	Montgomery	pcnt_afgr	77
+20127	Kansas	Morris	pcnt_afgr	98
+20129	Kansas	Morton	pcnt_afgr	64
+20131	Kansas	Nemaha	pcnt_afgr	93
+20133	Kansas	Neosho	pcnt_afgr	85
+20135	Kansas	Ness	pcnt_afgr	95
+20137	Kansas	Norton	pcnt_afgr	86
+20139	Kansas	Osage	pcnt_afgr	91
+20141	Kansas	Osborne	pcnt_afgr	97
+20143	Kansas	Ottawa	pcnt_afgr	94
+20145	Kansas	Pawnee	pcnt_afgr	80
+20147	Kansas	Phillips	pcnt_afgr	94
+20149	Kansas	Pottawatomie	pcnt_afgr	91
+20151	Kansas	Pratt	pcnt_afgr	87
+20153	Kansas	Rawlins	pcnt_afgr	100
+20155	Kansas	Reno	pcnt_afgr	84
+20157	Kansas	Republic	pcnt_afgr	90
+20159	Kansas	Rice	pcnt_afgr	88
+20161	Kansas	Riley	pcnt_afgr	69
+20163	Kansas	Rooks	pcnt_afgr	91
+20165	Kansas	Rush	pcnt_afgr	95
+20167	Kansas	Russell	pcnt_afgr	83
+20169	Kansas	Saline	pcnt_afgr	81
+20171	Kansas	Scott	pcnt_afgr	93
+20173	Kansas	Sedgwick	pcnt_afgr	72
+20175	Kansas	Seward	pcnt_afgr	78
+20177	Kansas	Shawnee	pcnt_afgr	78
+20179	Kansas	Sheridan	pcnt_afgr	92
+20181	Kansas	Sherman	pcnt_afgr	80
+20183	Kansas	Smith	pcnt_afgr	94
+20185	Kansas	Stafford	pcnt_afgr	86
+20187	Kansas	Stanton	pcnt_afgr	81
+20189	Kansas	Stevens	pcnt_afgr	87
+20191	Kansas	Sumner	pcnt_afgr	90
+20193	Kansas	Thomas	pcnt_afgr	80
+20195	Kansas	Trego	pcnt_afgr	77
+20197	Kansas	Wabaunsee	pcnt_afgr	92
+20199	Kansas	Wallace	pcnt_afgr	96
+20201	Kansas	Washington	pcnt_afgr	94
+20203	Kansas	Wichita	pcnt_afgr	88
+20205	Kansas	Wilson	pcnt_afgr	85
+20207	Kansas	Woodson	pcnt_afgr	88
+20209	Kansas	Wyandotte	pcnt_afgr	65
+21001	Kentucky	Adair	pcnt_afgr	80
+21003	Kentucky	Allen	pcnt_afgr	82
+21005	Kentucky	Anderson	pcnt_afgr	89
+21007	Kentucky	Ballard	pcnt_afgr	86
+21009	Kentucky	Barren	pcnt_afgr	88
+21011	Kentucky	Bath	pcnt_afgr	81
+21013	Kentucky	Bell	pcnt_afgr	76
+21015	Kentucky	Boone	pcnt_afgr	82
+21017	Kentucky	Bourbon	pcnt_afgr	79
+21019	Kentucky	Boyd	pcnt_afgr	83
+21021	Kentucky	Boyle	pcnt_afgr	80
+21023	Kentucky	Bracken	pcnt_afgr	77
+21025	Kentucky	Breathitt	pcnt_afgr	68
+21027	Kentucky	Breckinridge	pcnt_afgr	85
+21029	Kentucky	Bullitt	pcnt_afgr	81
+21031	Kentucky	Butler	pcnt_afgr	73
+21033	Kentucky	Caldwell	pcnt_afgr	84
+21035	Kentucky	Calloway	pcnt_afgr	90
+21037	Kentucky	Campbell	pcnt_afgr	72
+21039	Kentucky	Carlisle	pcnt_afgr	74
+21041	Kentucky	Carroll	pcnt_afgr	72
+21043	Kentucky	Carter	pcnt_afgr	74
+21045	Kentucky	Casey	pcnt_afgr	75
+21047	Kentucky	Christian	pcnt_afgr	76
+21049	Kentucky	Clark	pcnt_afgr	75
+21051	Kentucky	Clay	pcnt_afgr	65
+21053	Kentucky	Clinton	pcnt_afgr	72
+21055	Kentucky	Crittenden	pcnt_afgr	72
+21057	Kentucky	Cumberland	pcnt_afgr	70
+21059	Kentucky	Daviess	pcnt_afgr	89
+21061	Kentucky	Edmonson	pcnt_afgr	79
+21063	Kentucky	Elliott	pcnt_afgr	74
+21065	Kentucky	Estill	pcnt_afgr	72
+21067	Kentucky	Fayette	pcnt_afgr	78
+21069	Kentucky	Fleming	pcnt_afgr	69
+21071	Kentucky	Floyd	pcnt_afgr	80
+21073	Kentucky	Franklin	pcnt_afgr	77
+21075	Kentucky	Fulton	pcnt_afgr	71
+21077	Kentucky	Gallatin	pcnt_afgr	71
+21079	Kentucky	Garrard	pcnt_afgr	73
+21081	Kentucky	Grant	pcnt_afgr	71
+21083	Kentucky	Graves	pcnt_afgr	83
+21085	Kentucky	Grayson	pcnt_afgr	81
+21087	Kentucky	Green	pcnt_afgr	91
+21089	Kentucky	Greenup	pcnt_afgr	83
+21091	Kentucky	Hancock	pcnt_afgr	86
+21093	Kentucky	Hardin	pcnt_afgr	83
+21095	Kentucky	Harlan	pcnt_afgr	65
+21097	Kentucky	Harrison	pcnt_afgr	84
+21099	Kentucky	Hart	pcnt_afgr	60
+21101	Kentucky	Henderson	pcnt_afgr	86
+21103	Kentucky	Henry	pcnt_afgr	82
+21105	Kentucky	Hickman	pcnt_afgr	79
+21107	Kentucky	Hopkins	pcnt_afgr	74
+21109	Kentucky	Jackson	pcnt_afgr	72
+21111	Kentucky	Jefferson	pcnt_afgr	71
+21113	Kentucky	Jessamine	pcnt_afgr	75
+21115	Kentucky	Johnson	pcnt_afgr	79
+21117	Kentucky	Kenton	pcnt_afgr	79
+21119	Kentucky	Knott	pcnt_afgr	64
+21121	Kentucky	Knox	pcnt_afgr	74
+21123	Kentucky	Larue	pcnt_afgr	83
+21125	Kentucky	Laurel	pcnt_afgr	74
+21127	Kentucky	Lawrence	pcnt_afgr	58
+21129	Kentucky	Lee	pcnt_afgr	75
+21131	Kentucky	Leslie	pcnt_afgr	71
+21133	Kentucky	Letcher	pcnt_afgr	70
+21135	Kentucky	Lewis	pcnt_afgr	84
+21137	Kentucky	Lincoln	pcnt_afgr	82
+21139	Kentucky	Livingston	pcnt_afgr	89
+21141	Kentucky	Logan	pcnt_afgr	85
+21143	Kentucky	Lyon	pcnt_afgr	90
+21145	Kentucky	McCracken	pcnt_afgr	77
+21147	Kentucky	McCreary	pcnt_afgr	73
+21149	Kentucky	McLean	pcnt_afgr	92
+21151	Kentucky	Madison	pcnt_afgr	77
+21153	Kentucky	Magoffin	pcnt_afgr	76
+21155	Kentucky	Marion	pcnt_afgr	84
+21157	Kentucky	Marshall	pcnt_afgr	82
+21159	Kentucky	Martin	pcnt_afgr	69
+21161	Kentucky	Mason	pcnt_afgr	83
+21163	Kentucky	Meade	pcnt_afgr	87
+21165	Kentucky	Menifee	pcnt_afgr	78
+21167	Kentucky	Mercer	pcnt_afgr	82
+21169	Kentucky	Metcalfe	pcnt_afgr	63
+21171	Kentucky	Monroe	pcnt_afgr	83
+21173	Kentucky	Montgomery	pcnt_afgr	68
+21175	Kentucky	Morgan	pcnt_afgr	75
+21177	Kentucky	Muhlenberg	pcnt_afgr	77
+21179	Kentucky	Nelson	pcnt_afgr	100
+21181	Kentucky	Nicholas	pcnt_afgr	84
+21183	Kentucky	Ohio	pcnt_afgr	83
+21185	Kentucky	Oldham	pcnt_afgr	94
+21187	Kentucky	Owen	pcnt_afgr	72
+21189	Kentucky	Owsley	pcnt_afgr	85
+21191	Kentucky	Pendleton	pcnt_afgr	73
+21193	Kentucky	Perry	pcnt_afgr	84
+21195	Kentucky	Pike	pcnt_afgr	76
+21197	Kentucky	Powell	pcnt_afgr	76
+21199	Kentucky	Pulaski	pcnt_afgr	80
+21201	Kentucky	Robertson	pcnt_afgr	79
+21203	Kentucky	Rockcastle	pcnt_afgr	83
+21205	Kentucky	Rowan	pcnt_afgr	74
+21207	Kentucky	Russell	pcnt_afgr	83
+21209	Kentucky	Scott	pcnt_afgr	78
+21211	Kentucky	Shelby	pcnt_afgr	76
+21213	Kentucky	Simpson	pcnt_afgr	75
+21215	Kentucky	Spencer	pcnt_afgr	
+21217	Kentucky	Taylor	pcnt_afgr	89
+21219	Kentucky	Todd	pcnt_afgr	85
+21221	Kentucky	Trigg	pcnt_afgr	83
+21223	Kentucky	Trimble	pcnt_afgr	67
+21225	Kentucky	Union	pcnt_afgr	76
+21227	Kentucky	Warren	pcnt_afgr	85
+21229	Kentucky	Washington	pcnt_afgr	81
+21231	Kentucky	Wayne	pcnt_afgr	77
+21233	Kentucky	Webster	pcnt_afgr	85
+21235	Kentucky	Whitley	pcnt_afgr	81
+21237	Kentucky	Wolfe	pcnt_afgr	66
+21239	Kentucky	Woodford	pcnt_afgr	93
+22001	Louisiana	Acadia	pcnt_afgr	75
+22003	Louisiana	Allen	pcnt_afgr	82
+22005	Louisiana	Ascension	pcnt_afgr	81
+22007	Louisiana	Assumption	pcnt_afgr	73
+22009	Louisiana	Avoyelles	pcnt_afgr	62
+22011	Louisiana	Beauregard	pcnt_afgr	87
+22013	Louisiana	Bienville	pcnt_afgr	80
+22015	Louisiana	Bossier	pcnt_afgr	78
+22017	Louisiana	Caddo	pcnt_afgr	62
+22019	Louisiana	Calcasieu	pcnt_afgr	78
+22021	Louisiana	Caldwell	pcnt_afgr	72
+22023	Louisiana	Cameron	pcnt_afgr	91
+22025	Louisiana	Catahoula	pcnt_afgr	59
+22027	Louisiana	Claiborne	pcnt_afgr	82
+22029	Louisiana	Concordia	pcnt_afgr	71
+22031	Louisiana	De Soto	pcnt_afgr	77
+22033	Louisiana	East Baton Rouge	pcnt_afgr	69
+22035	Louisiana	East Carroll	pcnt_afgr	64
+22037	Louisiana	East Feliciana	pcnt_afgr	71
+22039	Louisiana	Evangeline	pcnt_afgr	67
+22041	Louisiana	Franklin	pcnt_afgr	63
+22043	Louisiana	Grant	pcnt_afgr	79
+22045	Louisiana	Iberia	pcnt_afgr	70
+22047	Louisiana	Iberville	pcnt_afgr	56
+22049	Louisiana	Jackson	pcnt_afgr	81
+22051	Louisiana	Jefferson	pcnt_afgr	67
+22053	Louisiana	Jefferson Davis	pcnt_afgr	86
+22055	Louisiana	Lafayette	pcnt_afgr	74
+22057	Louisiana	Lafourche	pcnt_afgr	79
+22059	Louisiana	La Salle	pcnt_afgr	74
+22061	Louisiana	Lincoln	pcnt_afgr	85
+22063	Louisiana	Livingston	pcnt_afgr	79
+22065	Louisiana	Madison	pcnt_afgr	68
+22067	Louisiana	Morehouse	pcnt_afgr	62
+22069	Louisiana	Natchitoches	pcnt_afgr	69
+22071	Louisiana	Orleans	pcnt_afgr	94
+22073	Louisiana	Ouachita	pcnt_afgr	71
+22075	Louisiana	Plaquemines	pcnt_afgr	82
+22077	Louisiana	Pointe Coupee	pcnt_afgr	59
+22079	Louisiana	Rapides	pcnt_afgr	68
+22081	Louisiana	Red River	pcnt_afgr	64
+22083	Louisiana	Richland	pcnt_afgr	72
+22085	Louisiana	Sabine	pcnt_afgr	72
+22087	Louisiana	St. Bernard	pcnt_afgr	68
+22089	Louisiana	St. Charles	pcnt_afgr	79
+22091	Louisiana	St. Helena	pcnt_afgr	58
+22093	Louisiana	St. James	pcnt_afgr	75
+22095	Louisiana	St. John the Baptist	pcnt_afgr	64
+22097	Louisiana	St. Landry	pcnt_afgr	68
+22099	Louisiana	St. Martin	pcnt_afgr	70
+22101	Louisiana	St. Mary	pcnt_afgr	70
+22103	Louisiana	St. Tammany	pcnt_afgr	80
+22105	Louisiana	Tangipahoa	pcnt_afgr	72
+22107	Louisiana	Tensas	pcnt_afgr	58
+22109	Louisiana	Terrebonne	pcnt_afgr	71
+22111	Louisiana	Union	pcnt_afgr	61
+22113	Louisiana	Vermilion	pcnt_afgr	79
+22115	Louisiana	Vernon	pcnt_afgr	81
+22117	Louisiana	Washington	pcnt_afgr	75
+22119	Louisiana	Webster	pcnt_afgr	73
+22121	Louisiana	West Baton Rouge	pcnt_afgr	70
+22123	Louisiana	West Carroll	pcnt_afgr	75
+22125	Louisiana	West Feliciana	pcnt_afgr	79
+22127	Louisiana	Winn	pcnt_afgr	75
+23001	Maine	Androscoggin	pcnt_afgr	78
+23003	Maine	Aroostook	pcnt_afgr	86
+23005	Maine	Cumberland	pcnt_afgr	86
+23007	Maine	Franklin	pcnt_afgr	81
+23009	Maine	Hancock	pcnt_afgr	83
+23011	Maine	Kennebec	pcnt_afgr	83
+23013	Maine	Knox	pcnt_afgr	86
+23015	Maine	Lincoln	pcnt_afgr	82
+23017	Maine	Oxford	pcnt_afgr	84
+23019	Maine	Penobscot	pcnt_afgr	83
+23021	Maine	Piscataquis	pcnt_afgr	85
+23023	Maine	Sagadahoc	pcnt_afgr	84
+23025	Maine	Somerset	pcnt_afgr	79
+23027	Maine	Waldo	pcnt_afgr	83
+23029	Maine	Washington	pcnt_afgr	83
+23031	Maine	York	pcnt_afgr	86
+24001	Maryland	Allegany	pcnt_afgr	88
+24003	Maryland	Anne Arundel	pcnt_afgr	84
+24005	Maryland	Baltimore	pcnt_afgr	82
+24009	Maryland	Calvert	pcnt_afgr	91
+24011	Maryland	Caroline	pcnt_afgr	80
+24013	Maryland	Carroll	pcnt_afgr	93
+24015	Maryland	Cecil	pcnt_afgr	83
+24017	Maryland	Charles	pcnt_afgr	88
+24019	Maryland	Dorchester	pcnt_afgr	79
+24021	Maryland	Frederick	pcnt_afgr	92
+24023	Maryland	Garrett	pcnt_afgr	91
+24025	Maryland	Harford	pcnt_afgr	87
+24027	Maryland	Howard	pcnt_afgr	91
+24029	Maryland	Kent	pcnt_afgr	83
+24031	Maryland	Montgomery	pcnt_afgr	87
+24033	Maryland	Prince George's	pcnt_afgr	75
+24035	Maryland	Queen Anne's	pcnt_afgr	90
+24037	Maryland	St. Mary's	pcnt_afgr	84
+24039	Maryland	Somerset	pcnt_afgr	77
+24041	Maryland	Talbot	pcnt_afgr	88
+24043	Maryland	Washington	pcnt_afgr	90
+24045	Maryland	Wicomico	pcnt_afgr	78
+24047	Maryland	Worcester	pcnt_afgr	92
+24510	Maryland	Baltimore City	pcnt_afgr	66
+25001	Massachusetts	Barnstable	pcnt_afgr	88
+25003	Massachusetts	Berkshire	pcnt_afgr	83
+25005	Massachusetts	Bristol	pcnt_afgr	86
+25007	Massachusetts	Dukes	pcnt_afgr	93
+25009	Massachusetts	Essex	pcnt_afgr	83
+25011	Massachusetts	Franklin	pcnt_afgr	81
+25013	Massachusetts	Hampden	pcnt_afgr	72
+25015	Massachusetts	Hampshire	pcnt_afgr	87
+25017	Massachusetts	Middlesex	pcnt_afgr	90
+25019	Massachusetts	Nantucket	pcnt_afgr	88
+25021	Massachusetts	Norfolk	pcnt_afgr	92
+25023	Massachusetts	Plymouth	pcnt_afgr	88
+25025	Massachusetts	Suffolk	pcnt_afgr	63
+25027	Massachusetts	Worcester	pcnt_afgr	86
+26001	Michigan	Alcona	pcnt_afgr	83
+26003	Michigan	Alger	pcnt_afgr	84
+26005	Michigan	Allegan	pcnt_afgr	81
+26007	Michigan	Alpena	pcnt_afgr	70
+26009	Michigan	Antrim	pcnt_afgr	87
+26011	Michigan	Arenac	pcnt_afgr	77
+26013	Michigan	Baraga	pcnt_afgr	78
+26015	Michigan	Barry	pcnt_afgr	80
+26017	Michigan	Bay	pcnt_afgr	75
+26019	Michigan	Benzie	pcnt_afgr	78
+26021	Michigan	Berrien	pcnt_afgr	77
+26023	Michigan	Branch	pcnt_afgr	81
+26025	Michigan	Calhoun	pcnt_afgr	74
+26027	Michigan	Cass	pcnt_afgr	66
+26029	Michigan	Charlevoix	pcnt_afgr	74
+26031	Michigan	Cheboygan	pcnt_afgr	81
+26033	Michigan	Chippewa	pcnt_afgr	72
+26035	Michigan	Clare	pcnt_afgr	72
+26037	Michigan	Clinton	pcnt_afgr	92
+26039	Michigan	Crawford	pcnt_afgr	74
+26041	Michigan	Delta	pcnt_afgr	86
+26043	Michigan	Dickinson	pcnt_afgr	86
+26045	Michigan	Eaton	pcnt_afgr	75
+26047	Michigan	Emmet	pcnt_afgr	81
+26049	Michigan	Genesee	pcnt_afgr	72
+26051	Michigan	Gladwin	pcnt_afgr	80
+26053	Michigan	Gogebic	pcnt_afgr	79
+26055	Michigan	Grand Traverse	pcnt_afgr	82
+26057	Michigan	Gratiot	pcnt_afgr	82
+26059	Michigan	Hillsdale	pcnt_afgr	75
+26061	Michigan	Houghton	pcnt_afgr	88
+26063	Michigan	Huron	pcnt_afgr	84
+26065	Michigan	Ingham	pcnt_afgr	71
+26067	Michigan	Ionia	pcnt_afgr	83
+26069	Michigan	Iosco	pcnt_afgr	69
+26071	Michigan	Iron	pcnt_afgr	82
+26073	Michigan	Isabella	pcnt_afgr	77
+26075	Michigan	Jackson	pcnt_afgr	75
+26077	Michigan	Kalamazoo	pcnt_afgr	74
+26079	Michigan	Kalkaska	pcnt_afgr	76
+26081	Michigan	Kent	pcnt_afgr	75
+26083	Michigan	Keweenaw	pcnt_afgr	
+26085	Michigan	Lake	pcnt_afgr	53
+26087	Michigan	Lapeer	pcnt_afgr	85
+26089	Michigan	Leelanau	pcnt_afgr	79
+26091	Michigan	Lenawee	pcnt_afgr	79
+26093	Michigan	Livingston	pcnt_afgr	83
+26095	Michigan	Luce	pcnt_afgr	85
+26097	Michigan	Mackinac	pcnt_afgr	88
+26099	Michigan	Macomb	pcnt_afgr	76
+26101	Michigan	Manistee	pcnt_afgr	80
+26103	Michigan	Marquette	pcnt_afgr	82
+26105	Michigan	Mason	pcnt_afgr	77
+26107	Michigan	Mecosta	pcnt_afgr	71
+26109	Michigan	Menominee	pcnt_afgr	69
+26111	Michigan	Midland	pcnt_afgr	83
+26113	Michigan	Missaukee	pcnt_afgr	81
+26115	Michigan	Monroe	pcnt_afgr	80
+26117	Michigan	Montcalm	pcnt_afgr	85
+26119	Michigan	Montmorency	pcnt_afgr	78
+26121	Michigan	Muskegon	pcnt_afgr	71
+26123	Michigan	Newaygo	pcnt_afgr	73
+26125	Michigan	Oakland	pcnt_afgr	78
+26127	Michigan	Oceana	pcnt_afgr	69
+26129	Michigan	Ogemaw	pcnt_afgr	69
+26131	Michigan	Ontonagon	pcnt_afgr	80
+26133	Michigan	Osceola	pcnt_afgr	80
+26135	Michigan	Oscoda	pcnt_afgr	79
+26137	Michigan	Otsego	pcnt_afgr	86
+26139	Michigan	Ottawa	pcnt_afgr	84
+26141	Michigan	Presque Isle	pcnt_afgr	77
+26143	Michigan	Roscommon	pcnt_afgr	65
+26145	Michigan	Saginaw	pcnt_afgr	74
+26147	Michigan	St. Clair	pcnt_afgr	78
+26149	Michigan	St. Joseph	pcnt_afgr	77
+26151	Michigan	Sanilac	pcnt_afgr	86
+26153	Michigan	Schoolcraft	pcnt_afgr	86
+26155	Michigan	Shiawassee	pcnt_afgr	82
+26157	Michigan	Tuscola	pcnt_afgr	80
+26159	Michigan	Van Buren	pcnt_afgr	72
+26161	Michigan	Washtenaw	pcnt_afgr	80
+26163	Michigan	Wayne	pcnt_afgr	69
+26165	Michigan	Wexford	pcnt_afgr	79
+27001	Minnesota	Aitkin	pcnt_afgr	85
+27003	Minnesota	Anoka	pcnt_afgr	76
+27005	Minnesota	Becker	pcnt_afgr	81
+27007	Minnesota	Beltrami	pcnt_afgr	56
+27009	Minnesota	Benton	pcnt_afgr	84
+27011	Minnesota	Big Stone	pcnt_afgr	92
+27013	Minnesota	Blue Earth	pcnt_afgr	82
+27015	Minnesota	Brown	pcnt_afgr	79
+27017	Minnesota	Carlton	pcnt_afgr	81
+27019	Minnesota	Carver	pcnt_afgr	79
+27021	Minnesota	Cass	pcnt_afgr	63
+27023	Minnesota	Chippewa	pcnt_afgr	82
+27025	Minnesota	Chisago	pcnt_afgr	80
+27027	Minnesota	Clay	pcnt_afgr	75
+27029	Minnesota	Clearwater	pcnt_afgr	82
+27031	Minnesota	Cook	pcnt_afgr	77
+27033	Minnesota	Cottonwood	pcnt_afgr	83
+27035	Minnesota	Crow Wing	pcnt_afgr	83
+27037	Minnesota	Dakota	pcnt_afgr	83
+27039	Minnesota	Dodge	pcnt_afgr	92
+27041	Minnesota	Douglas	pcnt_afgr	80
+27043	Minnesota	Faribault	pcnt_afgr	80
+27045	Minnesota	Fillmore	pcnt_afgr	88
+27047	Minnesota	Freeborn	pcnt_afgr	70
+27049	Minnesota	Goodhue	pcnt_afgr	87
+27051	Minnesota	Grant	pcnt_afgr	89
+27053	Minnesota	Hennepin	pcnt_afgr	66
+27055	Minnesota	Houston	pcnt_afgr	72
+27057	Minnesota	Hubbard	pcnt_afgr	84
+27059	Minnesota	Isanti	pcnt_afgr	78
+27061	Minnesota	Itasca	pcnt_afgr	81
+27063	Minnesota	Jackson	pcnt_afgr	95
+27065	Minnesota	Kanabec	pcnt_afgr	87
+27067	Minnesota	Kandiyohi	pcnt_afgr	70
+27069	Minnesota	Kittson	pcnt_afgr	92
+27071	Minnesota	Koochiching	pcnt_afgr	82
+27073	Minnesota	Lac qui Parle	pcnt_afgr	93
+27075	Minnesota	Lake	pcnt_afgr	88
+27077	Minnesota	Lake of the Woods	pcnt_afgr	86
+27079	Minnesota	Le Sueur	pcnt_afgr	85
+27081	Minnesota	Lincoln	pcnt_afgr	81
+27083	Minnesota	Lyon	pcnt_afgr	85
+27085	Minnesota	McLeod	pcnt_afgr	84
+27087	Minnesota	Mahnomen	pcnt_afgr	61
+27089	Minnesota	Marshall	pcnt_afgr	87
+27091	Minnesota	Martin	pcnt_afgr	84
+27093	Minnesota	Meeker	pcnt_afgr	93
+27095	Minnesota	Mille Lacs	pcnt_afgr	78
+27097	Minnesota	Morrison	pcnt_afgr	82
+27099	Minnesota	Mower	pcnt_afgr	76
+27101	Minnesota	Murray	pcnt_afgr	92
+27103	Minnesota	Nicollet	pcnt_afgr	83
+27105	Minnesota	Nobles	pcnt_afgr	76
+27107	Minnesota	Norman	pcnt_afgr	82
+27109	Minnesota	Olmsted	pcnt_afgr	78
+27111	Minnesota	Otter Tail	pcnt_afgr	80
+27113	Minnesota	Pennington	pcnt_afgr	81
+27115	Minnesota	Pine	pcnt_afgr	81
+27117	Minnesota	Pipestone	pcnt_afgr	90
+27119	Minnesota	Polk	pcnt_afgr	83
+27121	Minnesota	Pope	pcnt_afgr	88
+27123	Minnesota	Ramsey	pcnt_afgr	69
+27125	Minnesota	Red Lake	pcnt_afgr	93
+27127	Minnesota	Redwood	pcnt_afgr	87
+27129	Minnesota	Renville	pcnt_afgr	90
+27131	Minnesota	Rice	pcnt_afgr	76
+27133	Minnesota	Rock	pcnt_afgr	85
+27135	Minnesota	Roseau	pcnt_afgr	92
+27137	Minnesota	St. Louis	pcnt_afgr	76
+27139	Minnesota	Scott	pcnt_afgr	87
+27141	Minnesota	Sherburne	pcnt_afgr	89
+27143	Minnesota	Sibley	pcnt_afgr	85
+27145	Minnesota	Stearns	pcnt_afgr	84
+27147	Minnesota	Steele	pcnt_afgr	85
+27149	Minnesota	Stevens	pcnt_afgr	89
+27151	Minnesota	Swift	pcnt_afgr	82
+27153	Minnesota	Todd	pcnt_afgr	70
+27155	Minnesota	Traverse	pcnt_afgr	
+27157	Minnesota	Wabasha	pcnt_afgr	81
+27159	Minnesota	Wadena	pcnt_afgr	83
+27161	Minnesota	Waseca	pcnt_afgr	88
+27163	Minnesota	Washington	pcnt_afgr	89
+27165	Minnesota	Watonwan	pcnt_afgr	81
+27167	Minnesota	Wilkin	pcnt_afgr	84
+27169	Minnesota	Winona	pcnt_afgr	82
+27171	Minnesota	Wright	pcnt_afgr	88
+27173	Minnesota	Yellow Medicine	pcnt_afgr	95
+28001	Mississippi	Adams	pcnt_afgr	61
+28003	Mississippi	Alcorn	pcnt_afgr	81
+28005	Mississippi	Amite	pcnt_afgr	61
+28007	Mississippi	Attala	pcnt_afgr	75
+28009	Mississippi	Benton	pcnt_afgr	70
+28011	Mississippi	Bolivar	pcnt_afgr	69
+28013	Mississippi	Calhoun	pcnt_afgr	74
+28015	Mississippi	Carroll	pcnt_afgr	71
+28017	Mississippi	Chickasaw	pcnt_afgr	60
+28019	Mississippi	Choctaw	pcnt_afgr	74
+28021	Mississippi	Claiborne	pcnt_afgr	72
+28023	Mississippi	Clarke	pcnt_afgr	86
+28025	Mississippi	Clay	pcnt_afgr	57
+28027	Mississippi	Coahoma	pcnt_afgr	68
+28029	Mississippi	Copiah	pcnt_afgr	77
+28031	Mississippi	Covington	pcnt_afgr	75
+28033	Mississippi	DeSoto	pcnt_afgr	83
+28035	Mississippi	Forrest	pcnt_afgr	72
+28037	Mississippi	Franklin	pcnt_afgr	81
+28039	Mississippi	George	pcnt_afgr	72
+28041	Mississippi	Greene	pcnt_afgr	78
+28043	Mississippi	Grenada	pcnt_afgr	69
+28045	Mississippi	Hancock	pcnt_afgr	80
+28047	Mississippi	Harrison	pcnt_afgr	78
+28049	Mississippi	Hinds	pcnt_afgr	68
+28051	Mississippi	Holmes	pcnt_afgr	66
+28053	Mississippi	Humphreys	pcnt_afgr	82
+28055	Mississippi	Issaquena	pcnt_afgr	
+28057	Mississippi	Itawamba	pcnt_afgr	72
+28059	Mississippi	Jackson	pcnt_afgr	77
+28061	Mississippi	Jasper	pcnt_afgr	72
+28063	Mississippi	Jefferson	pcnt_afgr	77
+28065	Mississippi	Jefferson Davis	pcnt_afgr	76
+28067	Mississippi	Jones	pcnt_afgr	74
+28069	Mississippi	Kemper	pcnt_afgr	59
+28071	Mississippi	Lafayette	pcnt_afgr	82
+28073	Mississippi	Lamar	pcnt_afgr	82
+28075	Mississippi	Lauderdale	pcnt_afgr	72
+28077	Mississippi	Lawrence	pcnt_afgr	75
+28079	Mississippi	Leake	pcnt_afgr	70
+28081	Mississippi	Lee	pcnt_afgr	72
+28083	Mississippi	Leflore	pcnt_afgr	65
+28085	Mississippi	Lincoln	pcnt_afgr	71
+28087	Mississippi	Lowndes	pcnt_afgr	71
+28089	Mississippi	Madison	pcnt_afgr	81
+28091	Mississippi	Marion	pcnt_afgr	74
+28093	Mississippi	Marshall	pcnt_afgr	72
+28095	Mississippi	Monroe	pcnt_afgr	82
+28097	Mississippi	Montgomery	pcnt_afgr	76
+28099	Mississippi	Neshoba	pcnt_afgr	79
+28101	Mississippi	Newton	pcnt_afgr	74
+28103	Mississippi	Noxubee	pcnt_afgr	71
+28105	Mississippi	Oktibbeha	pcnt_afgr	75
+28107	Mississippi	Panola	pcnt_afgr	69
+28109	Mississippi	Pearl River	pcnt_afgr	72
+28111	Mississippi	Perry	pcnt_afgr	70
+28113	Mississippi	Pike	pcnt_afgr	67
+28115	Mississippi	Pontotoc	pcnt_afgr	86
+28117	Mississippi	Prentiss	pcnt_afgr	85
+28119	Mississippi	Quitman	pcnt_afgr	67
+28121	Mississippi	Rankin	pcnt_afgr	82
+28123	Mississippi	Scott	pcnt_afgr	73
+28125	Mississippi	Sharkey	pcnt_afgr	66
+28127	Mississippi	Simpson	pcnt_afgr	74
+28129	Mississippi	Smith	pcnt_afgr	75
+28131	Mississippi	Stone	pcnt_afgr	79
+28133	Mississippi	Sunflower	pcnt_afgr	65
+28135	Mississippi	Tallahatchie	pcnt_afgr	66
+28137	Mississippi	Tate	pcnt_afgr	73
+28139	Mississippi	Tippah	pcnt_afgr	81
+28141	Mississippi	Tishomingo	pcnt_afgr	85
+28143	Mississippi	Tunica	pcnt_afgr	57
+28145	Mississippi	Union	pcnt_afgr	89
+28147	Mississippi	Walthall	pcnt_afgr	81
+28149	Mississippi	Warren	pcnt_afgr	56
+28151	Mississippi	Washington	pcnt_afgr	64
+28153	Mississippi	Wayne	pcnt_afgr	69
+28155	Mississippi	Webster	pcnt_afgr	77
+28157	Mississippi	Wilkinson	pcnt_afgr	70
+28159	Mississippi	Winston	pcnt_afgr	78
+28161	Mississippi	Yalobusha	pcnt_afgr	68
+28163	Mississippi	Yazoo	pcnt_afgr	61
+29001	Missouri	Adair	pcnt_afgr	87
+29003	Missouri	Andrew	pcnt_afgr	76
+29005	Missouri	Atchison	pcnt_afgr	93
+29007	Missouri	Audrain	pcnt_afgr	88
+29009	Missouri	Barry	pcnt_afgr	88
+29011	Missouri	Barton	pcnt_afgr	89
+29013	Missouri	Bates	pcnt_afgr	84
+29015	Missouri	Benton	pcnt_afgr	89
+29017	Missouri	Bollinger	pcnt_afgr	88
+29019	Missouri	Boone	pcnt_afgr	84
+29021	Missouri	Buchanan	pcnt_afgr	84
+29023	Missouri	Butler	pcnt_afgr	79
+29025	Missouri	Caldwell	pcnt_afgr	89
+29027	Missouri	Callaway	pcnt_afgr	79
+29029	Missouri	Camden	pcnt_afgr	85
+29031	Missouri	Cape Girardeau	pcnt_afgr	80
+29033	Missouri	Carroll	pcnt_afgr	91
+29035	Missouri	Carter	pcnt_afgr	81
+29037	Missouri	Cass	pcnt_afgr	88
+29039	Missouri	Cedar	pcnt_afgr	90
+29041	Missouri	Chariton	pcnt_afgr	92
+29043	Missouri	Christian	pcnt_afgr	91
+29045	Missouri	Clark	pcnt_afgr	82
+29047	Missouri	Clay	pcnt_afgr	86
+29049	Missouri	Clinton	pcnt_afgr	83
+29051	Missouri	Cole	pcnt_afgr	82
+29053	Missouri	Cooper	pcnt_afgr	90
+29055	Missouri	Crawford	pcnt_afgr	80
+29057	Missouri	Dade	pcnt_afgr	85
+29059	Missouri	Dallas	pcnt_afgr	80
+29061	Missouri	Daviess	pcnt_afgr	90
+29063	Missouri	DeKalb	pcnt_afgr	92
+29065	Missouri	Dent	pcnt_afgr	91
+29067	Missouri	Douglas	pcnt_afgr	90
+29069	Missouri	Dunklin	pcnt_afgr	77
+29071	Missouri	Franklin	pcnt_afgr	82
+29073	Missouri	Gasconade	pcnt_afgr	90
+29075	Missouri	Gentry	pcnt_afgr	88
+29077	Missouri	Greene	pcnt_afgr	83
+29079	Missouri	Grundy	pcnt_afgr	92
+29081	Missouri	Harrison	pcnt_afgr	83
+29083	Missouri	Henry	pcnt_afgr	83
+29085	Missouri	Hickory	pcnt_afgr	93
+29087	Missouri	Holt	pcnt_afgr	94
+29089	Missouri	Howard	pcnt_afgr	87
+29091	Missouri	Howell	pcnt_afgr	82
+29093	Missouri	Iron	pcnt_afgr	87
+29095	Missouri	Jackson	pcnt_afgr	73
+29097	Missouri	Jasper	pcnt_afgr	80
+29099	Missouri	Jefferson	pcnt_afgr	83
+29101	Missouri	Johnson	pcnt_afgr	89
+29103	Missouri	Knox	pcnt_afgr	87
+29105	Missouri	Laclede	pcnt_afgr	86
+29107	Missouri	Lafayette	pcnt_afgr	92
+29109	Missouri	Lawrence	pcnt_afgr	80
+29111	Missouri	Lewis	pcnt_afgr	87
+29113	Missouri	Lincoln	pcnt_afgr	87
+29115	Missouri	Linn	pcnt_afgr	85
+29117	Missouri	Livingston	pcnt_afgr	83
+29119	Missouri	McDonald	pcnt_afgr	83
+29121	Missouri	Macon	pcnt_afgr	92
+29123	Missouri	Madison	pcnt_afgr	88
+29125	Missouri	Maries	pcnt_afgr	81
+29127	Missouri	Marion	pcnt_afgr	87
+29129	Missouri	Mercer	pcnt_afgr	100
+29131	Missouri	Miller	pcnt_afgr	83
+29133	Missouri	Mississippi	pcnt_afgr	74
+29135	Missouri	Moniteau	pcnt_afgr	87
+29137	Missouri	Monroe	pcnt_afgr	91
+29139	Missouri	Montgomery	pcnt_afgr	89
+29141	Missouri	Morgan	pcnt_afgr	90
+29143	Missouri	New Madrid	pcnt_afgr	85
+29145	Missouri	Newton	pcnt_afgr	85
+29147	Missouri	Nodaway	pcnt_afgr	91
+29149	Missouri	Oregon	pcnt_afgr	94
+29151	Missouri	Osage	pcnt_afgr	67
+29153	Missouri	Ozark	pcnt_afgr	85
+29155	Missouri	Pemiscot	pcnt_afgr	75
+29157	Missouri	Perry	pcnt_afgr	85
+29159	Missouri	Pettis	pcnt_afgr	91
+29161	Missouri	Phelps	pcnt_afgr	81
+29163	Missouri	Pike	pcnt_afgr	82
+29165	Missouri	Platte	pcnt_afgr	91
+29167	Missouri	Polk	pcnt_afgr	86
+29169	Missouri	Pulaski	pcnt_afgr	82
+29171	Missouri	Putnam	pcnt_afgr	94
+29173	Missouri	Ralls	pcnt_afgr	95
+29175	Missouri	Randolph	pcnt_afgr	89
+29177	Missouri	Ray	pcnt_afgr	86
+29179	Missouri	Reynolds	pcnt_afgr	85
+29181	Missouri	Ripley	pcnt_afgr	80
+29183	Missouri	St. Charles	pcnt_afgr	85
+29185	Missouri	St. Clair	pcnt_afgr	86
+29186	Missouri	Ste. Genevieve	pcnt_afgr	89
+29187	Missouri	St. Francois	pcnt_afgr	85
+29189	Missouri	St. Louis	pcnt_afgr	80
+29195	Missouri	Saline	pcnt_afgr	86
+29197	Missouri	Schuyler	pcnt_afgr	93
+29199	Missouri	Scotland	pcnt_afgr	96
+29201	Missouri	Scott	pcnt_afgr	89
+29203	Missouri	Shannon	pcnt_afgr	80
+29205	Missouri	Shelby	pcnt_afgr	94
+29207	Missouri	Stoddard	pcnt_afgr	90
+29209	Missouri	Stone	pcnt_afgr	89
+29211	Missouri	Sullivan	pcnt_afgr	84
+29213	Missouri	Taney	pcnt_afgr	87
+29215	Missouri	Texas	pcnt_afgr	86
+29217	Missouri	Vernon	pcnt_afgr	78
+29219	Missouri	Warren	pcnt_afgr	86
+29221	Missouri	Washington	pcnt_afgr	80
+29223	Missouri	Wayne	pcnt_afgr	87
+29225	Missouri	Webster	pcnt_afgr	89
+29227	Missouri	Worth	pcnt_afgr	92
+29229	Missouri	Wright	pcnt_afgr	90
+29510	Missouri	St. Louis City	pcnt_afgr	54
+30001	Montana	Beaverhead	pcnt_afgr	87
+30003	Montana	Big Horn	pcnt_afgr	68
+30005	Montana	Blaine	pcnt_afgr	69
+30007	Montana	Broadwater	pcnt_afgr	85
+30009	Montana	Carbon	pcnt_afgr	90
+30011	Montana	Carter	pcnt_afgr	70
+30013	Montana	Cascade	pcnt_afgr	78
+30015	Montana	Chouteau	pcnt_afgr	97
+30017	Montana	Custer	pcnt_afgr	88
+30019	Montana	Daniels	pcnt_afgr	86
+30021	Montana	Dawson	pcnt_afgr	79
+30023	Montana	Deer Lodge	pcnt_afgr	80
+30025	Montana	Fallon	pcnt_afgr	84
+30027	Montana	Fergus	pcnt_afgr	86
+30029	Montana	Flathead	pcnt_afgr	80
+30031	Montana	Gallatin	pcnt_afgr	83
+30033	Montana	Garfield	pcnt_afgr	100
+30035	Montana	Glacier	pcnt_afgr	75
+30037	Montana	Golden Valley	pcnt_afgr	100
+30039	Montana	Granite	pcnt_afgr	91
+30041	Montana	Hill	pcnt_afgr	71
+30043	Montana	Jefferson	pcnt_afgr	88
+30045	Montana	Judith Basin	pcnt_afgr	88
+30047	Montana	Lake	pcnt_afgr	86
+30049	Montana	Lewis and Clark	pcnt_afgr	83
+30051	Montana	Liberty	pcnt_afgr	100
+30053	Montana	Lincoln	pcnt_afgr	85
+30055	Montana	McCone	pcnt_afgr	92
+30057	Montana	Madison	pcnt_afgr	97
+30059	Montana	Meagher	pcnt_afgr	86
+30061	Montana	Mineral	pcnt_afgr	89
+30063	Montana	Missoula	pcnt_afgr	87
+30065	Montana	Musselshell	pcnt_afgr	90
+30067	Montana	Park	pcnt_afgr	88
+30069	Montana	Petroleum	pcnt_afgr	71
+30071	Montana	Phillips	pcnt_afgr	90
+30073	Montana	Pondera	pcnt_afgr	90
+30075	Montana	Powder River	pcnt_afgr	95
+30077	Montana	Powell	pcnt_afgr	87
+30079	Montana	Prairie	pcnt_afgr	100
+30081	Montana	Ravalli	pcnt_afgr	84
+30083	Montana	Richland	pcnt_afgr	88
+30085	Montana	Roosevelt	pcnt_afgr	67
+30087	Montana	Rosebud	pcnt_afgr	79
+30089	Montana	Sanders	pcnt_afgr	92
+30091	Montana	Sheridan	pcnt_afgr	87
+30093	Montana	Silver Bow	pcnt_afgr	79
+30095	Montana	Stillwater	pcnt_afgr	90
+30097	Montana	Sweet Grass	pcnt_afgr	89
+30099	Montana	Teton	pcnt_afgr	97
+30101	Montana	Toole	pcnt_afgr	77
+30103	Montana	Treasure	pcnt_afgr	83
+30105	Montana	Valley	pcnt_afgr	89
+30107	Montana	Wheatland	pcnt_afgr	91
+30109	Montana	Wibaux	pcnt_afgr	100
+30111	Montana	Yellowstone	pcnt_afgr	79
+31001	Nebraska	Adams	pcnt_afgr	87
+31003	Nebraska	Antelope	pcnt_afgr	92
+31005	Nebraska	Arthur	pcnt_afgr	
+31007	Nebraska	Banner	pcnt_afgr	94
+31009	Nebraska	Blaine	pcnt_afgr	
+31011	Nebraska	Boone	pcnt_afgr	93
+31013	Nebraska	Box Butte	pcnt_afgr	85
+31015	Nebraska	Boyd	pcnt_afgr	88
+31017	Nebraska	Brown	pcnt_afgr	96
+31019	Nebraska	Buffalo	pcnt_afgr	86
+31021	Nebraska	Burt	pcnt_afgr	92
+31023	Nebraska	Butler	pcnt_afgr	97
+31025	Nebraska	Cass	pcnt_afgr	94
+31027	Nebraska	Cedar	pcnt_afgr	85
+31029	Nebraska	Chase	pcnt_afgr	80
+31031	Nebraska	Cherry	pcnt_afgr	94
+31033	Nebraska	Cheyenne	pcnt_afgr	97
+31035	Nebraska	Clay	pcnt_afgr	94
+31037	Nebraska	Colfax	pcnt_afgr	91
+31039	Nebraska	Cuming	pcnt_afgr	92
+31041	Nebraska	Custer	pcnt_afgr	90
+31043	Nebraska	Dakota	pcnt_afgr	88
+31045	Nebraska	Dawes	pcnt_afgr	50
+31047	Nebraska	Dawson	pcnt_afgr	85
+31049	Nebraska	Deuel	pcnt_afgr	89
+31051	Nebraska	Dixon	pcnt_afgr	88
+31053	Nebraska	Dodge	pcnt_afgr	84
+31055	Nebraska	Douglas	pcnt_afgr	83
+31057	Nebraska	Dundy	pcnt_afgr	92
+31059	Nebraska	Fillmore	pcnt_afgr	83
+31061	Nebraska	Franklin	pcnt_afgr	85
+31063	Nebraska	Frontier	pcnt_afgr	90
+31065	Nebraska	Furnas	pcnt_afgr	92
+31067	Nebraska	Gage	pcnt_afgr	85
+31069	Nebraska	Garden	pcnt_afgr	96
+31071	Nebraska	Garfield	pcnt_afgr	
+31073	Nebraska	Gosper	pcnt_afgr	95
+31075	Nebraska	Grant	pcnt_afgr	
+31077	Nebraska	Greeley	pcnt_afgr	93
+31079	Nebraska	Hall	pcnt_afgr	86
+31081	Nebraska	Hamilton	pcnt_afgr	97
+31083	Nebraska	Harlan	pcnt_afgr	97
+31085	Nebraska	Hayes	pcnt_afgr	
+31087	Nebraska	Hitchcock	pcnt_afgr	94
+31089	Nebraska	Holt	pcnt_afgr	94
+31091	Nebraska	Hooker	pcnt_afgr	93
+31093	Nebraska	Howard	pcnt_afgr	95
+31095	Nebraska	Jefferson	pcnt_afgr	87
+31097	Nebraska	Johnson	pcnt_afgr	87
+31099	Nebraska	Kearney	pcnt_afgr	92
+31101	Nebraska	Keith	pcnt_afgr	92
+31103	Nebraska	Keya Paha	pcnt_afgr	
+31105	Nebraska	Kimball	pcnt_afgr	87
+31107	Nebraska	Knox	pcnt_afgr	94
+31109	Nebraska	Lancaster	pcnt_afgr	85
+31111	Nebraska	Lincoln	pcnt_afgr	81
+31113	Nebraska	Logan	pcnt_afgr	
+31115	Nebraska	Loup	pcnt_afgr	91
+31117	Nebraska	McPherson	pcnt_afgr	
+31119	Nebraska	Madison	pcnt_afgr	80
+31121	Nebraska	Merrick	pcnt_afgr	98
+31123	Nebraska	Morrill	pcnt_afgr	90
+31125	Nebraska	Nance	pcnt_afgr	
+31127	Nebraska	Nemaha	pcnt_afgr	92
+31129	Nebraska	Nuckolls	pcnt_afgr	94
+31131	Nebraska	Otoe	pcnt_afgr	90
+31133	Nebraska	Pawnee	pcnt_afgr	89
+31135	Nebraska	Perkins	pcnt_afgr	
+31137	Nebraska	Phelps	pcnt_afgr	94
+31139	Nebraska	Pierce	pcnt_afgr	96
+31141	Nebraska	Platte	pcnt_afgr	88
+31143	Nebraska	Polk	pcnt_afgr	90
+31145	Nebraska	Red Willow	pcnt_afgr	89
+31147	Nebraska	Richardson	pcnt_afgr	83
+31149	Nebraska	Rock	pcnt_afgr	94
+31151	Nebraska	Saline	pcnt_afgr	82
+31153	Nebraska	Sarpy	pcnt_afgr	94
+31155	Nebraska	Saunders	pcnt_afgr	94
+31157	Nebraska	Scotts Bluff	pcnt_afgr	88
+31159	Nebraska	Seward	pcnt_afgr	96
+31161	Nebraska	Sheridan	pcnt_afgr	88
+31163	Nebraska	Sherman	pcnt_afgr	88
+31165	Nebraska	Sioux	pcnt_afgr	
+31167	Nebraska	Stanton	pcnt_afgr	
+31169	Nebraska	Thayer	pcnt_afgr	92
+31171	Nebraska	Thomas	pcnt_afgr	
+31173	Nebraska	Thurston	pcnt_afgr	69
+31175	Nebraska	Valley	pcnt_afgr	90
+31177	Nebraska	Washington	pcnt_afgr	95
+31179	Nebraska	Wayne	pcnt_afgr	95
+31181	Nebraska	Webster	pcnt_afgr	96
+31183	Nebraska	Wheeler	pcnt_afgr	
+31185	Nebraska	York	pcnt_afgr	89
+32001	Nevada	Churchill	pcnt_afgr	78
+32003	Nevada	Clark	pcnt_afgr	59
+32005	Nevada	Douglas	pcnt_afgr	83
+32007	Nevada	Elko	pcnt_afgr	75
+32009	Nevada	Esmeralda	pcnt_afgr	
+32011	Nevada	Eureka	pcnt_afgr	88
+32013	Nevada	Humboldt	pcnt_afgr	64
+32015	Nevada	Lander	pcnt_afgr	70
+32017	Nevada	Lincoln	pcnt_afgr	86
+32019	Nevada	Lyon	pcnt_afgr	73
+32021	Nevada	Mineral	pcnt_afgr	67
+32023	Nevada	Nye	pcnt_afgr	65
+32027	Nevada	Pershing	pcnt_afgr	73
+32029	Nevada	Storey	pcnt_afgr	88
+32031	Nevada	Washoe	pcnt_afgr	70
+32033	Nevada	White Pine	pcnt_afgr	76
+32510	Nevada	Carson City	pcnt_afgr	81
+33001	New Hampshire	Belknap	pcnt_afgr	86
+33003	New Hampshire	Carroll	pcnt_afgr	94
+33005	New Hampshire	Cheshire	pcnt_afgr	87
+33007	New Hampshire	Coos	pcnt_afgr	88
+33009	New Hampshire	Grafton	pcnt_afgr	91
+33011	New Hampshire	Hillsborough	pcnt_afgr	84
+33013	New Hampshire	Merrimack	pcnt_afgr	85
+33015	New Hampshire	Rockingham	pcnt_afgr	91
+33017	New Hampshire	Strafford	pcnt_afgr	81
+33019	New Hampshire	Sullivan	pcnt_afgr	83
+34001	New Jersey	Atlantic	pcnt_afgr	84
+34003	New Jersey	Bergen	pcnt_afgr	93
+34005	New Jersey	Burlington	pcnt_afgr	92
+34007	New Jersey	Camden	pcnt_afgr	87
+34009	New Jersey	Cape May	pcnt_afgr	89
+34011	New Jersey	Cumberland	pcnt_afgr	80
+34013	New Jersey	Essex	pcnt_afgr	79
+34015	New Jersey	Gloucester	pcnt_afgr	89
+34017	New Jersey	Hudson	pcnt_afgr	80
+34019	New Jersey	Hunterdon	pcnt_afgr	95
+34021	New Jersey	Mercer	pcnt_afgr	87
+34023	New Jersey	Middlesex	pcnt_afgr	90
+34025	New Jersey	Monmouth	pcnt_afgr	93
+34027	New Jersey	Morris	pcnt_afgr	94
+34029	New Jersey	Ocean	pcnt_afgr	89
+34031	New Jersey	Passaic	pcnt_afgr	80
+34033	New Jersey	Salem	pcnt_afgr	85
+34035	New Jersey	Somerset	pcnt_afgr	94
+34037	New Jersey	Sussex	pcnt_afgr	86
+34039	New Jersey	Union	pcnt_afgr	85
+34041	New Jersey	Warren	pcnt_afgr	91
+35001	New Mexico	Bernalillo	pcnt_afgr	63
+35003	New Mexico	Catron	pcnt_afgr	93
+35005	New Mexico	Chaves	pcnt_afgr	74
+35006	New Mexico	Cibola	pcnt_afgr	70
+35007	New Mexico	Colfax	pcnt_afgr	77
+35009	New Mexico	Curry	pcnt_afgr	74
+35011	New Mexico	De Baca	pcnt_afgr	95
+35013	New Mexico	Dona Ana	pcnt_afgr	74
+35015	New Mexico	Eddy	pcnt_afgr	79
+35017	New Mexico	Grant	pcnt_afgr	80
+35019	New Mexico	Guadalupe	pcnt_afgr	79
+35021	New Mexico	Harding	pcnt_afgr	94
+35023	New Mexico	Hidalgo	pcnt_afgr	93
+35025	New Mexico	Lea	pcnt_afgr	71
+35027	New Mexico	Lincoln	pcnt_afgr	85
+35028	New Mexico	Los Alamos	pcnt_afgr	88
+35029	New Mexico	Luna	pcnt_afgr	61
+35031	New Mexico	McKinley	pcnt_afgr	67
+35033	New Mexico	Mora	pcnt_afgr	82
+35035	New Mexico	Otero	pcnt_afgr	84
+35037	New Mexico	Quay	pcnt_afgr	73
+35039	New Mexico	Rio Arriba	pcnt_afgr	56
+35041	New Mexico	Roosevelt	pcnt_afgr	84
+35043	New Mexico	Sandoval	pcnt_afgr	71
+35045	New Mexico	San Juan	pcnt_afgr	65
+35047	New Mexico	San Miguel	pcnt_afgr	77
+35049	New Mexico	Santa Fe	pcnt_afgr	60
+35051	New Mexico	Sierra	pcnt_afgr	72
+35053	New Mexico	Socorro	pcnt_afgr	75
+35055	New Mexico	Taos	pcnt_afgr	72
+35057	New Mexico	Torrance	pcnt_afgr	71
+35059	New Mexico	Union	pcnt_afgr	100
+35061	New Mexico	Valencia	pcnt_afgr	67
+36001	New York	Albany	pcnt_afgr	81
+36003	New York	Allegany	pcnt_afgr	86
+36005	New York	Bronx	pcnt_afgr	58
+36007	New York	Broome	pcnt_afgr	80
+36009	New York	Cattaraugus	pcnt_afgr	78
+36011	New York	Cayuga	pcnt_afgr	76
+36013	New York	Chautauqua	pcnt_afgr	80
+36015	New York	Chemung	pcnt_afgr	76
+36017	New York	Chenango	pcnt_afgr	82
+36019	New York	Clinton	pcnt_afgr	82
+36021	New York	Columbia	pcnt_afgr	77
+36023	New York	Cortland	pcnt_afgr	79
+36025	New York	Delaware	pcnt_afgr	86
+36027	New York	Dutchess	pcnt_afgr	80
+36029	New York	Erie	pcnt_afgr	80
+36031	New York	Essex	pcnt_afgr	86
+36033	New York	Franklin	pcnt_afgr	79
+36035	New York	Fulton	pcnt_afgr	71
+36037	New York	Genesee	pcnt_afgr	83
+36039	New York	Greene	pcnt_afgr	79
+36041	New York	Hamilton	pcnt_afgr	88
+36043	New York	Herkimer	pcnt_afgr	77
+36045	New York	Jefferson	pcnt_afgr	80
+36047	New York	Kings	pcnt_afgr	64
+36049	New York	Lewis	pcnt_afgr	82
+36051	New York	Livingston	pcnt_afgr	87
+36053	New York	Madison	pcnt_afgr	85
+36055	New York	Monroe	pcnt_afgr	78
+36057	New York	Montgomery	pcnt_afgr	70
+36059	New York	Nassau	pcnt_afgr	90
+36061	New York	New York	pcnt_afgr	67
+36063	New York	Niagara	pcnt_afgr	84
+36065	New York	Oneida	pcnt_afgr	80
+36067	New York	Onondaga	pcnt_afgr	79
+36069	New York	Ontario	pcnt_afgr	87
+36071	New York	Orange	pcnt_afgr	84
+36073	New York	Orleans	pcnt_afgr	84
+36075	New York	Oswego	pcnt_afgr	77
+36077	New York	Otsego	pcnt_afgr	78
+36079	New York	Putnam	pcnt_afgr	90
+36081	New York	Queens	pcnt_afgr	70
+36083	New York	Rensselaer	pcnt_afgr	83
+36085	New York	Richmond	pcnt_afgr	74
+36087	New York	Rockland	pcnt_afgr	88
+36089	New York	St. Lawrence	pcnt_afgr	77
+36091	New York	Saratoga	pcnt_afgr	88
+36093	New York	Schenectady	pcnt_afgr	76
+36095	New York	Schoharie	pcnt_afgr	80
+36097	New York	Schuyler	pcnt_afgr	73
+36099	New York	Seneca	pcnt_afgr	79
+36101	New York	Steuben	pcnt_afgr	84
+36103	New York	Suffolk	pcnt_afgr	88
+36105	New York	Sullivan	pcnt_afgr	76
+36107	New York	Tioga	pcnt_afgr	78
+36109	New York	Tompkins	pcnt_afgr	80
+36111	New York	Ulster	pcnt_afgr	80
+36113	New York	Warren	pcnt_afgr	75
+36115	New York	Washington	pcnt_afgr	78
+36117	New York	Wayne	pcnt_afgr	83
+36119	New York	Westchester	pcnt_afgr	86
+36121	New York	Wyoming	pcnt_afgr	84
+36123	New York	Yates	pcnt_afgr	83
+37001	North Carolina	Alamance	pcnt_afgr	75
+37003	North Carolina	Alexander	pcnt_afgr	85
+37005	North Carolina	Alleghany	pcnt_afgr	86
+37007	North Carolina	Anson	pcnt_afgr	74
+37009	North Carolina	Ashe	pcnt_afgr	80
+37011	North Carolina	Avery	pcnt_afgr	90
+37013	North Carolina	Beaufort	pcnt_afgr	72
+37015	North Carolina	Bertie	pcnt_afgr	72
+37017	North Carolina	Bladen	pcnt_afgr	80
+37019	North Carolina	Brunswick	pcnt_afgr	84
+37021	North Carolina	Buncombe	pcnt_afgr	81
+37023	North Carolina	Burke	pcnt_afgr	85
+37025	North Carolina	Cabarrus	pcnt_afgr	86
+37027	North Carolina	Caldwell	pcnt_afgr	85
+37029	North Carolina	Camden	pcnt_afgr	86
+37031	North Carolina	Carteret	pcnt_afgr	84
+37033	North Carolina	Caswell	pcnt_afgr	78
+37035	North Carolina	Catawba	pcnt_afgr	87
+37037	North Carolina	Chatham	pcnt_afgr	81
+37039	North Carolina	Cherokee	pcnt_afgr	89
+37041	North Carolina	Chowan	pcnt_afgr	78
+37043	North Carolina	Clay	pcnt_afgr	85
+37045	North Carolina	Cleveland	pcnt_afgr	78
+37047	North Carolina	Columbus	pcnt_afgr	82
+37049	North Carolina	Craven	pcnt_afgr	86
+37051	North Carolina	Cumberland	pcnt_afgr	81
+37053	North Carolina	Currituck	pcnt_afgr	87
+37055	North Carolina	Dare	pcnt_afgr	89
+37057	North Carolina	Davidson	pcnt_afgr	82
+37059	North Carolina	Davie	pcnt_afgr	83
+37061	North Carolina	Duplin	pcnt_afgr	81
+37063	North Carolina	Durham	pcnt_afgr	77
+37065	North Carolina	Edgecombe	pcnt_afgr	80
+37067	North Carolina	Forsyth	pcnt_afgr	81
+37069	North Carolina	Franklin	pcnt_afgr	80
+37071	North Carolina	Gaston	pcnt_afgr	78
+37073	North Carolina	Gates	pcnt_afgr	86
+37075	North Carolina	Graham	pcnt_afgr	94
+37077	North Carolina	Granville	pcnt_afgr	73
+37079	North Carolina	Greene	pcnt_afgr	84
+37081	North Carolina	Guilford	pcnt_afgr	85
+37083	North Carolina	Halifax	pcnt_afgr	78
+37085	North Carolina	Harnett	pcnt_afgr	74
+37087	North Carolina	Haywood	pcnt_afgr	79
+37089	North Carolina	Henderson	pcnt_afgr	85
+37091	North Carolina	Hertford	pcnt_afgr	80
+37093	North Carolina	Hoke	pcnt_afgr	74
+37095	North Carolina	Hyde	pcnt_afgr	56
+37097	North Carolina	Iredell	pcnt_afgr	88
+37099	North Carolina	Jackson	pcnt_afgr	86
+37101	North Carolina	Johnston	pcnt_afgr	82
+37103	North Carolina	Jones	pcnt_afgr	81
+37105	North Carolina	Lee	pcnt_afgr	84
+37107	North Carolina	Lenoir	pcnt_afgr	78
+37109	North Carolina	Lincoln	pcnt_afgr	86
+37111	North Carolina	McDowell	pcnt_afgr	78
+37113	North Carolina	Macon	pcnt_afgr	84
+37115	North Carolina	Madison	pcnt_afgr	82
+37117	North Carolina	Martin	pcnt_afgr	74
+37119	North Carolina	Mecklenburg	pcnt_afgr	76
+37121	North Carolina	Mitchell	pcnt_afgr	83
+37123	North Carolina	Montgomery	pcnt_afgr	81
+37125	North Carolina	Moore	pcnt_afgr	83
+37127	North Carolina	Nash	pcnt_afgr	77
+37129	North Carolina	New Hanover	pcnt_afgr	80
+37131	North Carolina	Northampton	pcnt_afgr	71
+37133	North Carolina	Onslow	pcnt_afgr	87
+37135	North Carolina	Orange	pcnt_afgr	88
+37137	North Carolina	Pamlico	pcnt_afgr	88
+37139	North Carolina	Pasquotank	pcnt_afgr	84
+37141	North Carolina	Pender	pcnt_afgr	87
+37143	North Carolina	Perquimans	pcnt_afgr	84
+37145	North Carolina	Person	pcnt_afgr	68
+37147	North Carolina	Pitt	pcnt_afgr	73
+37149	North Carolina	Polk	pcnt_afgr	90
+37151	North Carolina	Randolph	pcnt_afgr	84
+37153	North Carolina	Richmond	pcnt_afgr	74
+37155	North Carolina	Robeson	pcnt_afgr	83
+37157	North Carolina	Rockingham	pcnt_afgr	76
+37159	North Carolina	Rowan	pcnt_afgr	81
+37161	North Carolina	Rutherford	pcnt_afgr	73
+37163	North Carolina	Sampson	pcnt_afgr	76
+37165	North Carolina	Scotland	pcnt_afgr	76
+37167	North Carolina	Stanly	pcnt_afgr	81
+37169	North Carolina	Stokes	pcnt_afgr	86
+37171	North Carolina	Surry	pcnt_afgr	85
+37173	North Carolina	Swain	pcnt_afgr	80
+37175	North Carolina	Transylvania	pcnt_afgr	82
+37177	North Carolina	Tyrrell	pcnt_afgr	78
+37179	North Carolina	Union	pcnt_afgr	89
+37181	North Carolina	Vance	pcnt_afgr	68
+37183	North Carolina	Wake	pcnt_afgr	81
+37185	North Carolina	Warren	pcnt_afgr	84
+37187	North Carolina	Washington	pcnt_afgr	80
+37189	North Carolina	Watauga	pcnt_afgr	85
+37191	North Carolina	Wayne	pcnt_afgr	80
+37193	North Carolina	Wilkes	pcnt_afgr	87
+37195	North Carolina	Wilson	pcnt_afgr	73
+37197	North Carolina	Yadkin	pcnt_afgr	82
+37199	North Carolina	Yancey	pcnt_afgr	82
+38001	North Dakota	Adams	pcnt_afgr	90
+38003	North Dakota	Barnes	pcnt_afgr	86
+38005	North Dakota	Benson	pcnt_afgr	63
+38007	North Dakota	Billings	pcnt_afgr	
+38009	North Dakota	Bottineau	pcnt_afgr	92
+38011	North Dakota	Bowman	pcnt_afgr	88
+38013	North Dakota	Burke	pcnt_afgr	100
+38015	North Dakota	Burleigh	pcnt_afgr	86
+38017	North Dakota	Cass	pcnt_afgr	87
+38019	North Dakota	Cavalier	pcnt_afgr	88
+38021	North Dakota	Dickey	pcnt_afgr	95
+38023	North Dakota	Divide	pcnt_afgr	92
+38025	North Dakota	Dunn	pcnt_afgr	95
+38027	North Dakota	Eddy	pcnt_afgr	80
+38029	North Dakota	Emmons	pcnt_afgr	96
+38031	North Dakota	Foster	pcnt_afgr	98
+38033	North Dakota	Golden Valley	pcnt_afgr	88
+38035	North Dakota	Grand Forks	pcnt_afgr	89
+38037	North Dakota	Grant	pcnt_afgr	96
+38039	North Dakota	Griggs	pcnt_afgr	85
+38041	North Dakota	Hettinger	pcnt_afgr	95
+38043	North Dakota	Kidder	pcnt_afgr	94
+38045	North Dakota	LaMoure	pcnt_afgr	96
+38047	North Dakota	Logan	pcnt_afgr	100
+38049	North Dakota	McHenry	pcnt_afgr	97
+38051	North Dakota	McIntosh	pcnt_afgr	93
+38053	North Dakota	McKenzie	pcnt_afgr	90
+38055	North Dakota	McLean	pcnt_afgr	87
+38057	North Dakota	Mercer	pcnt_afgr	87
+38059	North Dakota	Morton	pcnt_afgr	82
+38061	North Dakota	Mountrail	pcnt_afgr	76
+38063	North Dakota	Nelson	pcnt_afgr	91
+38065	North Dakota	Oliver	pcnt_afgr	100
+38067	North Dakota	Pembina	pcnt_afgr	94
+38069	North Dakota	Pierce	pcnt_afgr	93
+38071	North Dakota	Ramsey	pcnt_afgr	92
+38073	North Dakota	Ransom	pcnt_afgr	95
+38075	North Dakota	Renville	pcnt_afgr	92
+38077	North Dakota	Richland	pcnt_afgr	88
+38079	North Dakota	Rolette	pcnt_afgr	69
+38081	North Dakota	Sargent	pcnt_afgr	93
+38083	North Dakota	Sheridan	pcnt_afgr	
+38085	North Dakota	Sioux	pcnt_afgr	62
+38087	North Dakota	Slope	pcnt_afgr	
+38089	North Dakota	Stark	pcnt_afgr	87
+38091	North Dakota	Steele	pcnt_afgr	96
+38093	North Dakota	Stutsman	pcnt_afgr	82
+38095	North Dakota	Towner	pcnt_afgr	82
+38097	North Dakota	Traill	pcnt_afgr	94
+38099	North Dakota	Walsh	pcnt_afgr	88
+38101	North Dakota	Ward	pcnt_afgr	84
+38103	North Dakota	Wells	pcnt_afgr	91
+38105	North Dakota	Williams	pcnt_afgr	81
+39001	Ohio	Adams	pcnt_afgr	86
+39003	Ohio	Allen	pcnt_afgr	83
+39005	Ohio	Ashland	pcnt_afgr	92
+39007	Ohio	Ashtabula	pcnt_afgr	84
+39009	Ohio	Athens	pcnt_afgr	91
+39011	Ohio	Auglaize	pcnt_afgr	95
+39013	Ohio	Belmont	pcnt_afgr	88
+39015	Ohio	Brown	pcnt_afgr	85
+39017	Ohio	Butler	pcnt_afgr	87
+39019	Ohio	Carroll	pcnt_afgr	88
+39021	Ohio	Champaign	pcnt_afgr	84
+39023	Ohio	Clark	pcnt_afgr	83
+39025	Ohio	Clermont	pcnt_afgr	88
+39027	Ohio	Clinton	pcnt_afgr	85
+39029	Ohio	Columbiana	pcnt_afgr	87
+39031	Ohio	Coshocton	pcnt_afgr	91
+39033	Ohio	Crawford	pcnt_afgr	88
+39035	Ohio	Cuyahoga	pcnt_afgr	75
+39037	Ohio	Darke	pcnt_afgr	90
+39039	Ohio	Defiance	pcnt_afgr	93
+39041	Ohio	Delaware	pcnt_afgr	95
+39043	Ohio	Erie	pcnt_afgr	87
+39045	Ohio	Fairfield	pcnt_afgr	89
+39047	Ohio	Fayette	pcnt_afgr	92
+39049	Ohio	Franklin	pcnt_afgr	83
+39051	Ohio	Fulton	pcnt_afgr	92
+39053	Ohio	Gallia	pcnt_afgr	82
+39055	Ohio	Geauga	pcnt_afgr	91
+39057	Ohio	Greene	pcnt_afgr	89
+39059	Ohio	Guernsey	pcnt_afgr	82
+39061	Ohio	Hamilton	pcnt_afgr	79
+39063	Ohio	Hancock	pcnt_afgr	92
+39065	Ohio	Hardin	pcnt_afgr	89
+39067	Ohio	Harrison	pcnt_afgr	83
+39069	Ohio	Henry	pcnt_afgr	93
+39071	Ohio	Highland	pcnt_afgr	87
+39073	Ohio	Hocking	pcnt_afgr	93
+39075	Ohio	Holmes	pcnt_afgr	93
+39077	Ohio	Huron	pcnt_afgr	89
+39079	Ohio	Jackson	pcnt_afgr	92
+39081	Ohio	Jefferson	pcnt_afgr	90
+39083	Ohio	Knox	pcnt_afgr	87
+39085	Ohio	Lake	pcnt_afgr	87
+39087	Ohio	Lawrence	pcnt_afgr	82
+39089	Ohio	Licking	pcnt_afgr	85
+39091	Ohio	Logan	pcnt_afgr	93
+39093	Ohio	Lorain	pcnt_afgr	83
+39095	Ohio	Lucas	pcnt_afgr	78
+39097	Ohio	Madison	pcnt_afgr	92
+39099	Ohio	Mahoning	pcnt_afgr	84
+39101	Ohio	Marion	pcnt_afgr	76
+39103	Ohio	Medina	pcnt_afgr	92
+39105	Ohio	Meigs	pcnt_afgr	83
+39107	Ohio	Mercer	pcnt_afgr	97
+39109	Ohio	Miami	pcnt_afgr	92
+39111	Ohio	Monroe	pcnt_afgr	87
+39113	Ohio	Montgomery	pcnt_afgr	82
+39115	Ohio	Morgan	pcnt_afgr	89
+39117	Ohio	Morrow	pcnt_afgr	85
+39119	Ohio	Muskingum	pcnt_afgr	92
+39121	Ohio	Noble	pcnt_afgr	87
+39123	Ohio	Ottawa	pcnt_afgr	92
+39125	Ohio	Paulding	pcnt_afgr	92
+39127	Ohio	Perry	pcnt_afgr	88
+39129	Ohio	Pickaway	pcnt_afgr	88
+39131	Ohio	Pike	pcnt_afgr	82
+39133	Ohio	Portage	pcnt_afgr	90
+39135	Ohio	Preble	pcnt_afgr	88
+39137	Ohio	Putnam	pcnt_afgr	96
+39139	Ohio	Richland	pcnt_afgr	84
+39141	Ohio	Ross	pcnt_afgr	85
+39143	Ohio	Sandusky	pcnt_afgr	89
+39145	Ohio	Scioto	pcnt_afgr	89
+39147	Ohio	Seneca	pcnt_afgr	84
+39149	Ohio	Shelby	pcnt_afgr	92
+39151	Ohio	Stark	pcnt_afgr	88
+39153	Ohio	Summit	pcnt_afgr	87
+39155	Ohio	Trumbull	pcnt_afgr	89
+39157	Ohio	Tuscarawas	pcnt_afgr	91
+39159	Ohio	Union	pcnt_afgr	90
+39161	Ohio	Van Wert	pcnt_afgr	90
+39163	Ohio	Vinton	pcnt_afgr	83
+39165	Ohio	Warren	pcnt_afgr	93
+39167	Ohio	Washington	pcnt_afgr	89
+39169	Ohio	Wayne	pcnt_afgr	88
+39171	Ohio	Williams	pcnt_afgr	94
+39173	Ohio	Wood	pcnt_afgr	93
+39175	Ohio	Wyandot	pcnt_afgr	93
+40001	Oklahoma	Adair	pcnt_afgr	71
+40003	Oklahoma	Alfalfa	pcnt_afgr	95
+40005	Oklahoma	Atoka	pcnt_afgr	91
+40007	Oklahoma	Beaver	pcnt_afgr	84
+40009	Oklahoma	Beckham	pcnt_afgr	66
+40011	Oklahoma	Blaine	pcnt_afgr	88
+40013	Oklahoma	Bryan	pcnt_afgr	80
+40015	Oklahoma	Caddo	pcnt_afgr	77
+40017	Oklahoma	Canadian	pcnt_afgr	85
+40019	Oklahoma	Carter	pcnt_afgr	80
+40021	Oklahoma	Cherokee	pcnt_afgr	74
+40023	Oklahoma	Choctaw	pcnt_afgr	84
+40025	Oklahoma	Cimarron	pcnt_afgr	100
+40027	Oklahoma	Cleveland	pcnt_afgr	82
+40029	Oklahoma	Coal	pcnt_afgr	94
+40031	Oklahoma	Comanche	pcnt_afgr	80
+40033	Oklahoma	Cotton	pcnt_afgr	86
+40035	Oklahoma	Craig	pcnt_afgr	87
+40037	Oklahoma	Creek	pcnt_afgr	69
+40039	Oklahoma	Custer	pcnt_afgr	86
+40041	Oklahoma	Delaware	pcnt_afgr	86
+40043	Oklahoma	Dewey	pcnt_afgr	100
+40045	Oklahoma	Ellis	pcnt_afgr	95
+40047	Oklahoma	Garfield	pcnt_afgr	83
+40049	Oklahoma	Garvin	pcnt_afgr	80
+40051	Oklahoma	Grady	pcnt_afgr	72
+40053	Oklahoma	Grant	pcnt_afgr	91
+40055	Oklahoma	Greer	pcnt_afgr	82
+40057	Oklahoma	Harmon	pcnt_afgr	97
+40059	Oklahoma	Harper	pcnt_afgr	80
+40061	Oklahoma	Haskell	pcnt_afgr	81
+40063	Oklahoma	Hughes	pcnt_afgr	82
+40065	Oklahoma	Jackson	pcnt_afgr	75
+40067	Oklahoma	Jefferson	pcnt_afgr	78
+40069	Oklahoma	Johnston	pcnt_afgr	77
+40071	Oklahoma	Kay	pcnt_afgr	67
+40073	Oklahoma	Kingfisher	pcnt_afgr	96
+40075	Oklahoma	Kiowa	pcnt_afgr	82
+40077	Oklahoma	Latimer	pcnt_afgr	73
+40079	Oklahoma	Le Flore	pcnt_afgr	84
+40081	Oklahoma	Lincoln	pcnt_afgr	78
+40083	Oklahoma	Logan	pcnt_afgr	79
+40085	Oklahoma	Love	pcnt_afgr	79
+40087	Oklahoma	McClain	pcnt_afgr	100
+40089	Oklahoma	McCurtain	pcnt_afgr	81
+40091	Oklahoma	McIntosh	pcnt_afgr	73
+40093	Oklahoma	Major	pcnt_afgr	78
+40095	Oklahoma	Marshall	pcnt_afgr	69
+40097	Oklahoma	Mayes	pcnt_afgr	81
+40099	Oklahoma	Murray	pcnt_afgr	79
+40101	Oklahoma	Muskogee	pcnt_afgr	80
+40103	Oklahoma	Noble	pcnt_afgr	86
+40105	Oklahoma	Nowata	pcnt_afgr	88
+40107	Oklahoma	Okfuskee	pcnt_afgr	77
+40109	Oklahoma	Oklahoma	pcnt_afgr	72
+40111	Oklahoma	Okmulgee	pcnt_afgr	79
+40113	Oklahoma	Osage	pcnt_afgr	27
+40115	Oklahoma	Ottawa	pcnt_afgr	73
+40117	Oklahoma	Pawnee	pcnt_afgr	86
+40119	Oklahoma	Payne	pcnt_afgr	87
+40121	Oklahoma	Pittsburg	pcnt_afgr	85
+40123	Oklahoma	Pontotoc	pcnt_afgr	79
+40125	Oklahoma	Pottawatomie	pcnt_afgr	78
+40127	Oklahoma	Pushmataha	pcnt_afgr	80
+40129	Oklahoma	Roger Mills	pcnt_afgr	64
+40131	Oklahoma	Rogers	pcnt_afgr	80
+40133	Oklahoma	Seminole	pcnt_afgr	79
+40135	Oklahoma	Sequoyah	pcnt_afgr	82
+40137	Oklahoma	Stephens	pcnt_afgr	88
+40139	Oklahoma	Texas	pcnt_afgr	73
+40141	Oklahoma	Tillman	pcnt_afgr	74
+40143	Oklahoma	Tulsa	pcnt_afgr	79
+40145	Oklahoma	Wagoner	pcnt_afgr	76
+40147	Oklahoma	Washington	pcnt_afgr	82
+40149	Oklahoma	Washita	pcnt_afgr	88
+40151	Oklahoma	Woods	pcnt_afgr	83
+40153	Oklahoma	Woodward	pcnt_afgr	78
+41001	Oregon	Baker	pcnt_afgr	61
+41003	Oregon	Benton	pcnt_afgr	72
+41005	Oregon	Clackamas	pcnt_afgr	72
+41007	Oregon	Clatsop	pcnt_afgr	66
+41009	Oregon	Columbia	pcnt_afgr	65
+41011	Oregon	Coos	pcnt_afgr	62
+41013	Oregon	Crook	pcnt_afgr	67
+41015	Oregon	Curry	pcnt_afgr	66
+41017	Oregon	Deschutes	pcnt_afgr	64
+41019	Oregon	Douglas	pcnt_afgr	67
+41021	Oregon	Gilliam	pcnt_afgr	83
+41023	Oregon	Grant	pcnt_afgr	73
+41025	Oregon	Harney	pcnt_afgr	65
+41027	Oregon	Hood River	pcnt_afgr	84
+41029	Oregon	Jackson	pcnt_afgr	67
+41031	Oregon	Jefferson	pcnt_afgr	61
+41033	Oregon	Josephine	pcnt_afgr	68
+41035	Oregon	Klamath	pcnt_afgr	61
+41037	Oregon	Lake	pcnt_afgr	83
+41039	Oregon	Lane	pcnt_afgr	67
+41041	Oregon	Lincoln	pcnt_afgr	67
+41043	Oregon	Linn	pcnt_afgr	63
+41045	Oregon	Malheur	pcnt_afgr	70
+41047	Oregon	Marion	pcnt_afgr	68
+41049	Oregon	Morrow	pcnt_afgr	74
+41051	Oregon	Multnomah	pcnt_afgr	63
+41053	Oregon	Polk	pcnt_afgr	60
+41055	Oregon	Sherman	pcnt_afgr	84
+41057	Oregon	Tillamook	pcnt_afgr	78
+41059	Oregon	Umatilla	pcnt_afgr	70
+41061	Oregon	Union	pcnt_afgr	77
+41063	Oregon	Wallowa	pcnt_afgr	90
+41065	Oregon	Wasco	pcnt_afgr	67
+41067	Oregon	Washington	pcnt_afgr	78
+41069	Oregon	Wheeler	pcnt_afgr	83
+41071	Oregon	Yamhill	pcnt_afgr	72
+42001	Pennsylvania	Adams	pcnt_afgr	89
+42003	Pennsylvania	Allegheny	pcnt_afgr	86
+42005	Pennsylvania	Armstrong	pcnt_afgr	92
+42007	Pennsylvania	Beaver	pcnt_afgr	79
+42009	Pennsylvania	Bedford	pcnt_afgr	92
+42011	Pennsylvania	Berks	pcnt_afgr	84
+42013	Pennsylvania	Blair	pcnt_afgr	88
+42015	Pennsylvania	Bradford	pcnt_afgr	86
+42017	Pennsylvania	Bucks	pcnt_afgr	92
+42019	Pennsylvania	Butler	pcnt_afgr	94
+42021	Pennsylvania	Cambria	pcnt_afgr	92
+42023	Pennsylvania	Cameron	pcnt_afgr	85
+42025	Pennsylvania	Carbon	pcnt_afgr	88
+42027	Pennsylvania	Centre	pcnt_afgr	93
+42029	Pennsylvania	Chester	pcnt_afgr	86
+42031	Pennsylvania	Clarion	pcnt_afgr	90
+42033	Pennsylvania	Clearfield	pcnt_afgr	84
+42035	Pennsylvania	Clinton	pcnt_afgr	94
+42037	Pennsylvania	Columbia	pcnt_afgr	83
+42039	Pennsylvania	Crawford	pcnt_afgr	86
+42041	Pennsylvania	Cumberland	pcnt_afgr	89
+42043	Pennsylvania	Dauphin	pcnt_afgr	82
+42045	Pennsylvania	Delaware	pcnt_afgr	86
+42047	Pennsylvania	Elk	pcnt_afgr	89
+42049	Pennsylvania	Erie	pcnt_afgr	87
+42051	Pennsylvania	Fayette	pcnt_afgr	72
+42053	Pennsylvania	Forest	pcnt_afgr	96
+42055	Pennsylvania	Franklin	pcnt_afgr	84
+42057	Pennsylvania	Fulton	pcnt_afgr	89
+42059	Pennsylvania	Greene	pcnt_afgr	84
+42061	Pennsylvania	Huntingdon	pcnt_afgr	87
+42063	Pennsylvania	Indiana	pcnt_afgr	93
+42065	Pennsylvania	Jefferson	pcnt_afgr	89
+42067	Pennsylvania	Juniata	pcnt_afgr	90
+42069	Pennsylvania	Lackawanna	pcnt_afgr	90
+42071	Pennsylvania	Lancaster	pcnt_afgr	88
+42073	Pennsylvania	Lawrence	pcnt_afgr	91
+42075	Pennsylvania	Lebanon	pcnt_afgr	87
+42077	Pennsylvania	Lehigh	pcnt_afgr	84
+42079	Pennsylvania	Luzerne	pcnt_afgr	88
+42081	Pennsylvania	Lycoming	pcnt_afgr	86
+42083	Pennsylvania	McKean	pcnt_afgr	93
+42085	Pennsylvania	Mercer	pcnt_afgr	92
+42087	Pennsylvania	Mifflin	pcnt_afgr	84
+42089	Pennsylvania	Monroe	pcnt_afgr	86
+42091	Pennsylvania	Montgomery	pcnt_afgr	93
+42093	Pennsylvania	Montour	pcnt_afgr	89
+42095	Pennsylvania	Northampton	pcnt_afgr	88
+42097	Pennsylvania	Northumberland	pcnt_afgr	82
+42099	Pennsylvania	Perry	pcnt_afgr	82
+42101	Pennsylvania	Philadelphia	pcnt_afgr	59
+42103	Pennsylvania	Pike	pcnt_afgr	92
+42105	Pennsylvania	Potter	pcnt_afgr	90
+42107	Pennsylvania	Schuylkill	pcnt_afgr	85
+42109	Pennsylvania	Snyder	pcnt_afgr	89
+42111	Pennsylvania	Somerset	pcnt_afgr	93
+42113	Pennsylvania	Sullivan	pcnt_afgr	84
+42115	Pennsylvania	Susquehanna	pcnt_afgr	86
+42117	Pennsylvania	Tioga	pcnt_afgr	83
+42119	Pennsylvania	Union	pcnt_afgr	91
+42121	Pennsylvania	Venango	pcnt_afgr	91
+42123	Pennsylvania	Warren	pcnt_afgr	88
+42125	Pennsylvania	Washington	pcnt_afgr	89
+42127	Pennsylvania	Wayne	pcnt_afgr	92
+42129	Pennsylvania	Westmoreland	pcnt_afgr	92
+42131	Pennsylvania	Wyoming	pcnt_afgr	85
+42133	Pennsylvania	York	pcnt_afgr	88
+44001	Rhode Island	Bristol	pcnt_afgr	92
+44003	Rhode Island	Kent	pcnt_afgr	83
+44005	Rhode Island	Newport	pcnt_afgr	82
+44007	Rhode Island	Providence	pcnt_afgr	74
+44009	Rhode Island	Washington	pcnt_afgr	87
+45001	South Carolina	Abbeville	pcnt_afgr	83
+45003	South Carolina	Aiken	pcnt_afgr	74
+45005	South Carolina	Allendale	pcnt_afgr	66
+45007	South Carolina	Anderson	pcnt_afgr	76
+45009	South Carolina	Bamberg	pcnt_afgr	73
+45011	South Carolina	Barnwell	pcnt_afgr	78
+45013	South Carolina	Beaufort	pcnt_afgr	70
+45015	South Carolina	Berkeley	pcnt_afgr	75
+45017	South Carolina	Calhoun	pcnt_afgr	85
+45019	South Carolina	Charleston	pcnt_afgr	73
+45021	South Carolina	Cherokee	pcnt_afgr	80
+45023	South Carolina	Chester	pcnt_afgr	73
+45025	South Carolina	Chesterfield	pcnt_afgr	72
+45027	South Carolina	Clarendon	pcnt_afgr	78
+45029	South Carolina	Colleton	pcnt_afgr	76
+45031	South Carolina	Darlington	pcnt_afgr	89
+45033	South Carolina	Dillon	pcnt_afgr	66
+45035	South Carolina	Dorchester	pcnt_afgr	75
+45037	South Carolina	Edgefield	pcnt_afgr	80
+45039	South Carolina	Fairfield	pcnt_afgr	69
+45041	South Carolina	Florence	pcnt_afgr	80
+45043	South Carolina	Georgetown	pcnt_afgr	84
+45045	South Carolina	Greenville	pcnt_afgr	74
+45047	South Carolina	Greenwood	pcnt_afgr	78
+45049	South Carolina	Hampton	pcnt_afgr	73
+45051	South Carolina	Horry	pcnt_afgr	75
+45053	South Carolina	Jasper	pcnt_afgr	74
+45055	South Carolina	Kershaw	pcnt_afgr	73
+45057	South Carolina	Lancaster	pcnt_afgr	74
+45059	South Carolina	Laurens	pcnt_afgr	67
+45061	South Carolina	Lee	pcnt_afgr	72
+45063	South Carolina	Lexington	pcnt_afgr	79
+45065	South Carolina	McCormick	pcnt_afgr	76
+45067	South Carolina	Marion	pcnt_afgr	66
+45069	South Carolina	Marlboro	pcnt_afgr	62
+45071	South Carolina	Newberry	pcnt_afgr	75
+45073	South Carolina	Oconee	pcnt_afgr	77
+45075	South Carolina	Orangeburg	pcnt_afgr	71
+45077	South Carolina	Pickens	pcnt_afgr	73
+45079	South Carolina	Richland	pcnt_afgr	59
+45081	South Carolina	Saluda	pcnt_afgr	78
+45083	South Carolina	Spartanburg	pcnt_afgr	78
+45085	South Carolina	Sumter	pcnt_afgr	81
+45087	South Carolina	Union	pcnt_afgr	73
+45089	South Carolina	Williamsburg	pcnt_afgr	71
+45091	South Carolina	York	pcnt_afgr	79
+46003	South Dakota	Aurora	pcnt_afgr	79
+46005	South Dakota	Beadle	pcnt_afgr	82
+46007	South Dakota	Bennett	pcnt_afgr	58
+46009	South Dakota	Bon Homme	pcnt_afgr	90
+46011	South Dakota	Brookings	pcnt_afgr	91
+46013	South Dakota	Brown	pcnt_afgr	86
+46015	South Dakota	Brule	pcnt_afgr	85
+46017	South Dakota	Buffalo	pcnt_afgr	
+46019	South Dakota	Butte	pcnt_afgr	88
+46021	South Dakota	Campbell	pcnt_afgr	
+46023	South Dakota	Charles Mix	pcnt_afgr	89
+46025	South Dakota	Clark	pcnt_afgr	94
+46027	South Dakota	Clay	pcnt_afgr	89
+46029	South Dakota	Codington	pcnt_afgr	87
+46031	South Dakota	Corson	pcnt_afgr	53
+46033	South Dakota	Custer	pcnt_afgr	88
+46035	South Dakota	Davison	pcnt_afgr	92
+46037	South Dakota	Day	pcnt_afgr	92
+46039	South Dakota	Deuel	pcnt_afgr	94
+46041	South Dakota	Dewey	pcnt_afgr	75
+46043	South Dakota	Douglas	pcnt_afgr	100
+46045	South Dakota	Edmunds	pcnt_afgr	100
+46047	South Dakota	Fall River	pcnt_afgr	88
+46049	South Dakota	Faulk	pcnt_afgr	95
+46051	South Dakota	Grant	pcnt_afgr	96
+46053	South Dakota	Gregory	pcnt_afgr	87
+46055	South Dakota	Haakon	pcnt_afgr	100
+46057	South Dakota	Hamlin	pcnt_afgr	93
+46059	South Dakota	Hand	pcnt_afgr	88
+46061	South Dakota	Hanson	pcnt_afgr	89
+46063	South Dakota	Harding	pcnt_afgr	79
+46065	South Dakota	Hughes	pcnt_afgr	83
+46067	South Dakota	Hutchinson	pcnt_afgr	95
+46069	South Dakota	Hyde	pcnt_afgr	100
+46071	South Dakota	Jackson	pcnt_afgr	95
+46073	South Dakota	Jerauld	pcnt_afgr	69
+46075	South Dakota	Jones	pcnt_afgr	85
+46077	South Dakota	Kingsbury	pcnt_afgr	86
+46079	South Dakota	Lake	pcnt_afgr	71
+46081	South Dakota	Lawrence	pcnt_afgr	76
+46083	South Dakota	Lincoln	pcnt_afgr	87
+46085	South Dakota	Lyman	pcnt_afgr	90
+46087	South Dakota	McCook	pcnt_afgr	95
+46089	South Dakota	McPherson	pcnt_afgr	93
+46091	South Dakota	Marshall	pcnt_afgr	97
+46093	South Dakota	Meade	pcnt_afgr	85
+46095	South Dakota	Mellette	pcnt_afgr	52
+46097	South Dakota	Miner	pcnt_afgr	100
+46099	South Dakota	Minnehaha	pcnt_afgr	83
+46101	South Dakota	Moody	pcnt_afgr	87
+46103	South Dakota	Pennington	pcnt_afgr	80
+46105	South Dakota	Perkins	pcnt_afgr	77
+46107	South Dakota	Potter	pcnt_afgr	96
+46109	South Dakota	Roberts	pcnt_afgr	83
+46111	South Dakota	Sanborn	pcnt_afgr	100
+46113	South Dakota	Shannon	pcnt_afgr	
+46115	South Dakota	Spink	pcnt_afgr	86
+46117	South Dakota	Stanley	pcnt_afgr	97
+46119	South Dakota	Sully	pcnt_afgr	92
+46121	South Dakota	Todd	pcnt_afgr	43
+46123	South Dakota	Tripp	pcnt_afgr	80
+46125	South Dakota	Turner	pcnt_afgr	91
+46127	South Dakota	Union	pcnt_afgr	88
+46129	South Dakota	Walworth	pcnt_afgr	91
+46135	South Dakota	Yankton	pcnt_afgr	96
+46137	South Dakota	Ziebach	pcnt_afgr	86
+47001	Tennessee	Anderson	pcnt_afgr	88
+47003	Tennessee	Bedford	pcnt_afgr	81
+47005	Tennessee	Benton	pcnt_afgr	90
+47007	Tennessee	Bledsoe	pcnt_afgr	77
+47009	Tennessee	Blount	pcnt_afgr	91
+47011	Tennessee	Bradley	pcnt_afgr	86
+47013	Tennessee	Campbell	pcnt_afgr	85
+47015	Tennessee	Cannon	pcnt_afgr	84
+47017	Tennessee	Carroll	pcnt_afgr	97
+47019	Tennessee	Carter	pcnt_afgr	92
+47021	Tennessee	Cheatham	pcnt_afgr	84
+47023	Tennessee	Chester	pcnt_afgr	93
+47025	Tennessee	Claiborne	pcnt_afgr	84
+47027	Tennessee	Clay	pcnt_afgr	96
+47029	Tennessee	Cocke	pcnt_afgr	90
+47031	Tennessee	Coffee	pcnt_afgr	85
+47033	Tennessee	Crockett	pcnt_afgr	95
+47035	Tennessee	Cumberland	pcnt_afgr	92
+47037	Tennessee	Davidson	pcnt_afgr	76
+47039	Tennessee	Decatur	pcnt_afgr	87
+47041	Tennessee	DeKalb	pcnt_afgr	94
+47043	Tennessee	Dickson	pcnt_afgr	85
+47045	Tennessee	Dyer	pcnt_afgr	89
+47047	Tennessee	Fayette	pcnt_afgr	79
+47049	Tennessee	Fentress	pcnt_afgr	93
+47051	Tennessee	Franklin	pcnt_afgr	90
+47053	Tennessee	Gibson	pcnt_afgr	91
+47055	Tennessee	Giles	pcnt_afgr	85
+47057	Tennessee	Grainger	pcnt_afgr	92
+47059	Tennessee	Greene	pcnt_afgr	94
+47061	Tennessee	Grundy	pcnt_afgr	86
+47063	Tennessee	Hamblen	pcnt_afgr	90
+47065	Tennessee	Hamilton	pcnt_afgr	82
+47067	Tennessee	Hancock	pcnt_afgr	74
+47069	Tennessee	Hardeman	pcnt_afgr	81
+47071	Tennessee	Hardin	pcnt_afgr	85
+47073	Tennessee	Hawkins	pcnt_afgr	91
+47075	Tennessee	Haywood	pcnt_afgr	79
+47077	Tennessee	Henderson	pcnt_afgr	92
+47079	Tennessee	Henry	pcnt_afgr	80
+47081	Tennessee	Hickman	pcnt_afgr	89
+47083	Tennessee	Houston	pcnt_afgr	95
+47085	Tennessee	Humphreys	pcnt_afgr	88
+47087	Tennessee	Jackson	pcnt_afgr	89
+47089	Tennessee	Jefferson	pcnt_afgr	92
+47091	Tennessee	Johnson	pcnt_afgr	89
+47093	Tennessee	Knox	pcnt_afgr	86
+47095	Tennessee	Lake	pcnt_afgr	80
+47097	Tennessee	Lauderdale	pcnt_afgr	85
+47099	Tennessee	Lawrence	pcnt_afgr	90
+47101	Tennessee	Lewis	pcnt_afgr	87
+47103	Tennessee	Lincoln	pcnt_afgr	92
+47105	Tennessee	Loudon	pcnt_afgr	90
+47107	Tennessee	McMinn	pcnt_afgr	90
+47109	Tennessee	McNairy	pcnt_afgr	93
+47111	Tennessee	Macon	pcnt_afgr	79
+47113	Tennessee	Madison	pcnt_afgr	92
+47115	Tennessee	Marion	pcnt_afgr	83
+47117	Tennessee	Marshall	pcnt_afgr	89
+47119	Tennessee	Maury	pcnt_afgr	82
+47121	Tennessee	Meigs	pcnt_afgr	91
+47123	Tennessee	Monroe	pcnt_afgr	91
+47125	Tennessee	Montgomery	pcnt_afgr	93
+47127	Tennessee	Moore	pcnt_afgr	87
+47129	Tennessee	Morgan	pcnt_afgr	92
+47131	Tennessee	Obion	pcnt_afgr	85
+47133	Tennessee	Overton	pcnt_afgr	91
+47135	Tennessee	Perry	pcnt_afgr	91
+47137	Tennessee	Pickett	pcnt_afgr	96
+47139	Tennessee	Polk	pcnt_afgr	93
+47141	Tennessee	Putnam	pcnt_afgr	85
+47143	Tennessee	Rhea	pcnt_afgr	89
+47145	Tennessee	Roane	pcnt_afgr	78
+47147	Tennessee	Robertson	pcnt_afgr	94
+47149	Tennessee	Rutherford	pcnt_afgr	92
+47151	Tennessee	Scott	pcnt_afgr	87
+47153	Tennessee	Sequatchie	pcnt_afgr	91
+47155	Tennessee	Sevier	pcnt_afgr	80
+47157	Tennessee	Shelby	pcnt_afgr	77
+47159	Tennessee	Smith	pcnt_afgr	92
+47161	Tennessee	Stewart	pcnt_afgr	95
+47163	Tennessee	Sullivan	pcnt_afgr	90
+47165	Tennessee	Sumner	pcnt_afgr	90
+47167	Tennessee	Tipton	pcnt_afgr	96
+47169	Tennessee	Trousdale	pcnt_afgr	96
+47171	Tennessee	Unicoi	pcnt_afgr	94
+47173	Tennessee	Union	pcnt_afgr	72
+47175	Tennessee	Van Buren	pcnt_afgr	86
+47177	Tennessee	Warren	pcnt_afgr	87
+47179	Tennessee	Washington	pcnt_afgr	90
+47181	Tennessee	Wayne	pcnt_afgr	91
+47183	Tennessee	Weakley	pcnt_afgr	87
+47185	Tennessee	White	pcnt_afgr	90
+47187	Tennessee	Williamson	pcnt_afgr	92
+47189	Tennessee	Wilson	pcnt_afgr	90
+48001	Texas	Anderson	pcnt_afgr	95
+48003	Texas	Andrews	pcnt_afgr	91
+48005	Texas	Angelina	pcnt_afgr	88
+48007	Texas	Aransas	pcnt_afgr	87
+48009	Texas	Archer	pcnt_afgr	100
+48011	Texas	Armstrong	pcnt_afgr	92
+48013	Texas	Atascosa	pcnt_afgr	90
+48015	Texas	Austin	pcnt_afgr	95
+48017	Texas	Bailey	pcnt_afgr	95
+48019	Texas	Bandera	pcnt_afgr	91
+48021	Texas	Bastrop	pcnt_afgr	84
+48023	Texas	Baylor	pcnt_afgr	100
+48025	Texas	Bee	pcnt_afgr	86
+48027	Texas	Bell	pcnt_afgr	86
+48029	Texas	Bexar	pcnt_afgr	82
+48031	Texas	Blanco	pcnt_afgr	96
+48033	Texas	Borden	pcnt_afgr	100
+48035	Texas	Bosque	pcnt_afgr	94
+48037	Texas	Bowie	pcnt_afgr	94
+48039	Texas	Brazoria	pcnt_afgr	89
+48041	Texas	Brazos	pcnt_afgr	83
+48043	Texas	Brewster	pcnt_afgr	92
+48045	Texas	Briscoe	pcnt_afgr	100
+48047	Texas	Brooks	pcnt_afgr	80
+48049	Texas	Brown	pcnt_afgr	93
+48051	Texas	Burleson	pcnt_afgr	90
+48053	Texas	Burnet	pcnt_afgr	97
+48055	Texas	Caldwell	pcnt_afgr	91
+48057	Texas	Calhoun	pcnt_afgr	91
+48059	Texas	Callahan	pcnt_afgr	97
+48061	Texas	Cameron	pcnt_afgr	87
+48063	Texas	Camp	pcnt_afgr	97
+48065	Texas	Carson	pcnt_afgr	97
+48067	Texas	Cass	pcnt_afgr	96
+48069	Texas	Castro	pcnt_afgr	99
+48071	Texas	Chambers	pcnt_afgr	99
+48073	Texas	Cherokee	pcnt_afgr	92
+48075	Texas	Childress	pcnt_afgr	97
+48077	Texas	Clay	pcnt_afgr	96
+48079	Texas	Cochran	pcnt_afgr	97
+48081	Texas	Coke	pcnt_afgr	100
+48083	Texas	Coleman	pcnt_afgr	94
+48085	Texas	Collin	pcnt_afgr	95
+48087	Texas	Collingsworth	pcnt_afgr	94
+48089	Texas	Colorado	pcnt_afgr	96
+48091	Texas	Comal	pcnt_afgr	93
+48093	Texas	Comanche	pcnt_afgr	96
+48095	Texas	Concho	pcnt_afgr	93
+48097	Texas	Cooke	pcnt_afgr	96
+48099	Texas	Coryell	pcnt_afgr	91
+48101	Texas	Cottle	pcnt_afgr	100
+48103	Texas	Crane	pcnt_afgr	86
+48105	Texas	Crockett	pcnt_afgr	94
+48107	Texas	Crosby	pcnt_afgr	91
+48109	Texas	Culberson	pcnt_afgr	85
+48111	Texas	Dallam	pcnt_afgr	89
+48113	Texas	Dallas	pcnt_afgr	81
+48115	Texas	Dawson	pcnt_afgr	88
+48117	Texas	Deaf Smith	pcnt_afgr	83
+48119	Texas	Delta	pcnt_afgr	97
+48121	Texas	Denton	pcnt_afgr	93
+48123	Texas	DeWitt	pcnt_afgr	94
+48125	Texas	Dickens	pcnt_afgr	97
+48127	Texas	Dimmit	pcnt_afgr	82
+48129	Texas	Donley	pcnt_afgr	92
+48131	Texas	Duval	pcnt_afgr	80
+48133	Texas	Eastland	pcnt_afgr	90
+48135	Texas	Ector	pcnt_afgr	69
+48137	Texas	Edwards	pcnt_afgr	94
+48139	Texas	Ellis	pcnt_afgr	93
+48141	Texas	El Paso	pcnt_afgr	82
+48143	Texas	Erath	pcnt_afgr	59
+48145	Texas	Falls	pcnt_afgr	88
+48147	Texas	Fannin	pcnt_afgr	96
+48149	Texas	Fayette	pcnt_afgr	94
+48151	Texas	Fisher	pcnt_afgr	97
+48153	Texas	Floyd	pcnt_afgr	87
+48155	Texas	Foard	pcnt_afgr	96
+48157	Texas	Fort Bend	pcnt_afgr	90
+48159	Texas	Franklin	pcnt_afgr	98
+48161	Texas	Freestone	pcnt_afgr	94
+48163	Texas	Frio	pcnt_afgr	86
+48165	Texas	Gaines	pcnt_afgr	93
+48167	Texas	Galveston	pcnt_afgr	89
+48169	Texas	Garza	pcnt_afgr	87
+48171	Texas	Gillespie	pcnt_afgr	98
+48173	Texas	Glasscock	pcnt_afgr	95
+48175	Texas	Goliad	pcnt_afgr	99
+48177	Texas	Gonzales	pcnt_afgr	91
+48179	Texas	Gray	pcnt_afgr	92
+48181	Texas	Grayson	pcnt_afgr	94
+48183	Texas	Gregg	pcnt_afgr	87
+48185	Texas	Grimes	pcnt_afgr	86
+48187	Texas	Guadalupe	pcnt_afgr	92
+48189	Texas	Hale	pcnt_afgr	86
+48191	Texas	Hall	pcnt_afgr	98
+48193	Texas	Hamilton	pcnt_afgr	94
+48195	Texas	Hansford	pcnt_afgr	98
+48197	Texas	Hardeman	pcnt_afgr	93
+48199	Texas	Hardin	pcnt_afgr	92
+48201	Texas	Harris	pcnt_afgr	84
+48203	Texas	Harrison	pcnt_afgr	93
+48205	Texas	Hartley	pcnt_afgr	91
+48207	Texas	Haskell	pcnt_afgr	97
+48209	Texas	Hays	pcnt_afgr	86
+48211	Texas	Hemphill	pcnt_afgr	94
+48213	Texas	Henderson	pcnt_afgr	93
+48215	Texas	Hidalgo	pcnt_afgr	81
+48217	Texas	Hill	pcnt_afgr	95
+48219	Texas	Hockley	pcnt_afgr	88
+48221	Texas	Hood	pcnt_afgr	91
+48223	Texas	Hopkins	pcnt_afgr	93
+48225	Texas	Houston	pcnt_afgr	93
+48227	Texas	Howard	pcnt_afgr	89
+48229	Texas	Hudspeth	pcnt_afgr	91
+48231	Texas	Hunt	pcnt_afgr	89
+48233	Texas	Hutchinson	pcnt_afgr	87
+48235	Texas	Irion	pcnt_afgr	100
+48237	Texas	Jack	pcnt_afgr	95
+48239	Texas	Jackson	pcnt_afgr	91
+48241	Texas	Jasper	pcnt_afgr	93
+48243	Texas	Jeff Davis	pcnt_afgr	93
+48245	Texas	Jefferson	pcnt_afgr	87
+48247	Texas	Jim Hogg	pcnt_afgr	88
+48249	Texas	Jim Wells	pcnt_afgr	78
+48251	Texas	Johnson	pcnt_afgr	90
+48253	Texas	Jones	pcnt_afgr	97
+48255	Texas	Karnes	pcnt_afgr	93
+48257	Texas	Kaufman	pcnt_afgr	90
+48259	Texas	Kendall	pcnt_afgr	98
+48261	Texas	Kenedy	pcnt_afgr	
+48263	Texas	Kent	pcnt_afgr	100
+48265	Texas	Kerr	pcnt_afgr	87
+48267	Texas	Kimble	pcnt_afgr	100
+48269	Texas	King	pcnt_afgr	100
+48271	Texas	Kinney	pcnt_afgr	93
+48273	Texas	Kleberg	pcnt_afgr	80
+48275	Texas	Knox	pcnt_afgr	100
+48277	Texas	Lamar	pcnt_afgr	95
+48279	Texas	Lamb	pcnt_afgr	86
+48281	Texas	Lampasas	pcnt_afgr	95
+48283	Texas	La Salle	pcnt_afgr	85
+48285	Texas	Lavaca	pcnt_afgr	98
+48287	Texas	Lee	pcnt_afgr	93
+48289	Texas	Leon	pcnt_afgr	95
+48291	Texas	Liberty	pcnt_afgr	88
+48293	Texas	Limestone	pcnt_afgr	84
+48295	Texas	Lipscomb	pcnt_afgr	89
+48297	Texas	Live Oak	pcnt_afgr	88
+48299	Texas	Llano	pcnt_afgr	90
+48301	Texas	Loving	pcnt_afgr	
+48303	Texas	Lubbock	pcnt_afgr	85
+48305	Texas	Lynn	pcnt_afgr	96
+48307	Texas	McCulloch	pcnt_afgr	98
+48309	Texas	McLennan	pcnt_afgr	87
+48311	Texas	McMullen	pcnt_afgr	100
+48313	Texas	Madison	pcnt_afgr	97
+48315	Texas	Marion	pcnt_afgr	95
+48317	Texas	Martin	pcnt_afgr	95
+48319	Texas	Mason	pcnt_afgr	96
+48321	Texas	Matagorda	pcnt_afgr	91
+48323	Texas	Maverick	pcnt_afgr	81
+48325	Texas	Medina	pcnt_afgr	91
+48327	Texas	Menard	pcnt_afgr	100
+48329	Texas	Midland	pcnt_afgr	82
+48331	Texas	Milam	pcnt_afgr	91
+48333	Texas	Mills	pcnt_afgr	99
+48335	Texas	Mitchell	pcnt_afgr	93
+48337	Texas	Montague	pcnt_afgr	94
+48339	Texas	Montgomery	pcnt_afgr	91
+48341	Texas	Moore	pcnt_afgr	93
+48343	Texas	Morris	pcnt_afgr	91
+48345	Texas	Motley	pcnt_afgr	100
+48347	Texas	Nacogdoches	pcnt_afgr	89
+48349	Texas	Navarro	pcnt_afgr	91
+48351	Texas	Newton	pcnt_afgr	92
+48353	Texas	Nolan	pcnt_afgr	93
+48355	Texas	Nueces	pcnt_afgr	81
+48357	Texas	Ochiltree	pcnt_afgr	96
+48359	Texas	Oldham	pcnt_afgr	84
+48361	Texas	Orange	pcnt_afgr	89
+48363	Texas	Palo Pinto	pcnt_afgr	91
+48365	Texas	Panola	pcnt_afgr	89
+48367	Texas	Parker	pcnt_afgr	96
+48369	Texas	Parmer	pcnt_afgr	95
+48371	Texas	Pecos	pcnt_afgr	67
+48373	Texas	Polk	pcnt_afgr	92
+48375	Texas	Potter	pcnt_afgr	84
+48377	Texas	Presidio	pcnt_afgr	88
+48379	Texas	Rains	pcnt_afgr	96
+48381	Texas	Randall	pcnt_afgr	94
+48383	Texas	Reagan	pcnt_afgr	77
+48385	Texas	Real	pcnt_afgr	92
+48387	Texas	Red River	pcnt_afgr	94
+48389	Texas	Reeves	pcnt_afgr	96
+48391	Texas	Refugio	pcnt_afgr	94
+48393	Texas	Roberts	pcnt_afgr	100
+48395	Texas	Robertson	pcnt_afgr	93
+48397	Texas	Rockwall	pcnt_afgr	92
+48399	Texas	Runnels	pcnt_afgr	98
+48401	Texas	Rusk	pcnt_afgr	91
+48403	Texas	Sabine	pcnt_afgr	93
+48405	Texas	San Augustine	pcnt_afgr	92
+48407	Texas	San Jacinto	pcnt_afgr	88
+48409	Texas	San Patricio	pcnt_afgr	89
+48411	Texas	San Saba	pcnt_afgr	91
+48413	Texas	Schleicher	pcnt_afgr	96
+48415	Texas	Scurry	pcnt_afgr	94
+48417	Texas	Shackelford	pcnt_afgr	93
+48419	Texas	Shelby	pcnt_afgr	93
+48421	Texas	Sherman	pcnt_afgr	88
+48423	Texas	Smith	pcnt_afgr	89
+48425	Texas	Somervell	pcnt_afgr	96
+48427	Texas	Starr	pcnt_afgr	88
+48429	Texas	Stephens	pcnt_afgr	96
+48431	Texas	Sterling	pcnt_afgr	100
+48433	Texas	Stonewall	pcnt_afgr	100
+48435	Texas	Sutton	pcnt_afgr	95
+48437	Texas	Swisher	pcnt_afgr	94
+48439	Texas	Tarrant	pcnt_afgr	85
+48441	Texas	Taylor	pcnt_afgr	90
+48443	Texas	Terrell	pcnt_afgr	100
+48445	Texas	Terry	pcnt_afgr	86
+48447	Texas	Throckmorton	pcnt_afgr	96
+48449	Texas	Titus	pcnt_afgr	97
+48451	Texas	Tom Green	pcnt_afgr	85
+48453	Texas	Travis	pcnt_afgr	81
+48455	Texas	Trinity	pcnt_afgr	91
+48457	Texas	Tyler	pcnt_afgr	95
+48459	Texas	Upshur	pcnt_afgr	96
+48461	Texas	Upton	pcnt_afgr	98
+48463	Texas	Uvalde	pcnt_afgr	91
+48465	Texas	Val Verde	pcnt_afgr	79
+48467	Texas	Van Zandt	pcnt_afgr	91
+48469	Texas	Victoria	pcnt_afgr	77
+48471	Texas	Walker	pcnt_afgr	69
+48473	Texas	Waller	pcnt_afgr	94
+48475	Texas	Ward	pcnt_afgr	88
+48477	Texas	Washington	pcnt_afgr	91
+48479	Texas	Webb	pcnt_afgr	89
+48481	Texas	Wharton	pcnt_afgr	92
+48483	Texas	Wheeler	pcnt_afgr	88
+48485	Texas	Wichita	pcnt_afgr	92
+48487	Texas	Wilbarger	pcnt_afgr	80
+48489	Texas	Willacy	pcnt_afgr	87
+48491	Texas	Williamson	pcnt_afgr	91
+48493	Texas	Wilson	pcnt_afgr	93
+48495	Texas	Winkler	pcnt_afgr	93
+48497	Texas	Wise	pcnt_afgr	95
+48499	Texas	Wood	pcnt_afgr	96
+48501	Texas	Yoakum	pcnt_afgr	97
+48503	Texas	Young	pcnt_afgr	97
+48505	Texas	Zapata	pcnt_afgr	88
+48507	Texas	Zavala	pcnt_afgr	81
+49001	Utah	Beaver	pcnt_afgr	77
+49003	Utah	Box Elder	pcnt_afgr	80
+49005	Utah	Cache	pcnt_afgr	83
+49007	Utah	Carbon	pcnt_afgr	84
+49009	Utah	Daggett	pcnt_afgr	100
+49011	Utah	Davis	pcnt_afgr	82
+49013	Utah	Duchesne	pcnt_afgr	74
+49015	Utah	Emery	pcnt_afgr	92
+49017	Utah	Garfield	pcnt_afgr	81
+49019	Utah	Grand	pcnt_afgr	90
+49021	Utah	Iron	pcnt_afgr	80
+49023	Utah	Juab	pcnt_afgr	82
+49025	Utah	Kane	pcnt_afgr	75
+49027	Utah	Millard	pcnt_afgr	87
+49029	Utah	Morgan	pcnt_afgr	92
+49031	Utah	Piute	pcnt_afgr	96
+49033	Utah	Rich	pcnt_afgr	97
+49035	Utah	Salt Lake	pcnt_afgr	72
+49037	Utah	San Juan	pcnt_afgr	76
+49039	Utah	Sanpete	pcnt_afgr	70
+49041	Utah	Sevier	pcnt_afgr	75
+49043	Utah	Summit	pcnt_afgr	90
+49045	Utah	Tooele	pcnt_afgr	79
+49047	Utah	Uintah	pcnt_afgr	68
+49049	Utah	Utah	pcnt_afgr	77
+49051	Utah	Wasatch	pcnt_afgr	86
+49053	Utah	Washington	pcnt_afgr	75
+49055	Utah	Wayne	pcnt_afgr	91
+49057	Utah	Weber	pcnt_afgr	72
+50001	Vermont	Addison	pcnt_afgr	87
+50003	Vermont	Bennington	pcnt_afgr	83
+50005	Vermont	Caledonia	pcnt_afgr	92
+50007	Vermont	Chittenden	pcnt_afgr	90
+50009	Vermont	Essex	pcnt_afgr	85
+50011	Vermont	Franklin	pcnt_afgr	88
+50013	Vermont	Grand Isle	pcnt_afgr	
+50015	Vermont	Lamoille	pcnt_afgr	90
+50017	Vermont	Orange	pcnt_afgr	86
+50019	Vermont	Orleans	pcnt_afgr	88
+50021	Vermont	Rutland	pcnt_afgr	87
+50023	Vermont	Washington	pcnt_afgr	91
+50025	Vermont	Windham	pcnt_afgr	81
+50027	Vermont	Windsor	pcnt_afgr	82
+51001	Virginia	Accomack	pcnt_afgr	84
+51003	Virginia	Albemarle	pcnt_afgr	92
+51005	Virginia	Alleghany	pcnt_afgr	89
+51007	Virginia	Amelia	pcnt_afgr	93
+51009	Virginia	Amherst	pcnt_afgr	88
+51011	Virginia	Appomattox	pcnt_afgr	79
+51013	Virginia	Arlington	pcnt_afgr	89
+51015	Virginia	Augusta	pcnt_afgr	90
+51017	Virginia	Bath	pcnt_afgr	96
+51019	Virginia	Bedford	pcnt_afgr	89
+51021	Virginia	Bland	pcnt_afgr	89
+51023	Virginia	Botetourt	pcnt_afgr	92
+51025	Virginia	Brunswick	pcnt_afgr	82
+51027	Virginia	Buchanan	pcnt_afgr	87
+51029	Virginia	Buckingham	pcnt_afgr	89
+51031	Virginia	Campbell	pcnt_afgr	85
+51033	Virginia	Caroline	pcnt_afgr	83
+51035	Virginia	Carroll	pcnt_afgr	89
+51036	Virginia	Charles City	pcnt_afgr	87
+51037	Virginia	Charlotte	pcnt_afgr	88
+51041	Virginia	Chesterfield	pcnt_afgr	89
+51043	Virginia	Clarke	pcnt_afgr	99
+51045	Virginia	Craig	pcnt_afgr	86
+51047	Virginia	Culpeper	pcnt_afgr	92
+51049	Virginia	Cumberland	pcnt_afgr	86
+51051	Virginia	Dickenson	pcnt_afgr	88
+51053	Virginia	Dinwiddie	pcnt_afgr	82
+51057	Virginia	Essex	pcnt_afgr	79
+51059	Virginia	Fairfax	pcnt_afgr	91
+51061	Virginia	Fauquier	pcnt_afgr	93
+51063	Virginia	Floyd	pcnt_afgr	92
+51065	Virginia	Fluvanna	pcnt_afgr	93
+51067	Virginia	Franklin	pcnt_afgr	85
+51069	Virginia	Frederick	pcnt_afgr	87
+51071	Virginia	Giles	pcnt_afgr	81
+51073	Virginia	Gloucester	pcnt_afgr	88
+51075	Virginia	Goochland	pcnt_afgr	91
+51077	Virginia	Grayson	pcnt_afgr	85
+51079	Virginia	Greene	pcnt_afgr	92
+51081	Virginia	Greensville	pcnt_afgr	89
+51083	Virginia	Halifax	pcnt_afgr	86
+51085	Virginia	Hanover	pcnt_afgr	94
+51087	Virginia	Henrico	pcnt_afgr	88
+51089	Virginia	Henry	pcnt_afgr	87
+51091	Virginia	Highland	pcnt_afgr	100
+51093	Virginia	Isle of Wight	pcnt_afgr	87
+51095	Virginia	James City	pcnt_afgr	89
+51097	Virginia	King and Queen	pcnt_afgr	81
+51099	Virginia	King George	pcnt_afgr	93
+51101	Virginia	King William	pcnt_afgr	93
+51103	Virginia	Lancaster	pcnt_afgr	92
+51105	Virginia	Lee	pcnt_afgr	89
+51107	Virginia	Loudoun	pcnt_afgr	95
+51109	Virginia	Louisa	pcnt_afgr	90
+51111	Virginia	Lunenburg	pcnt_afgr	79
+51113	Virginia	Madison	pcnt_afgr	95
+51115	Virginia	Mathews	pcnt_afgr	98
+51117	Virginia	Mecklenburg	pcnt_afgr	88
+51119	Virginia	Middlesex	pcnt_afgr	92
+51121	Virginia	Montgomery	pcnt_afgr	85
+51125	Virginia	Nelson	pcnt_afgr	89
+51127	Virginia	New Kent	pcnt_afgr	85
+51131	Virginia	Northampton	pcnt_afgr	76
+51133	Virginia	Northumberland	pcnt_afgr	89
+51135	Virginia	Nottoway	pcnt_afgr	85
+51137	Virginia	Orange	pcnt_afgr	90
+51139	Virginia	Page	pcnt_afgr	97
+51141	Virginia	Patrick	pcnt_afgr	94
+51143	Virginia	Pittsylvania	pcnt_afgr	89
+51145	Virginia	Powhatan	pcnt_afgr	92
+51147	Virginia	Prince Edward	pcnt_afgr	85
+51149	Virginia	Prince George	pcnt_afgr	83
+51153	Virginia	Prince William	pcnt_afgr	89
+51155	Virginia	Pulaski	pcnt_afgr	87
+51157	Virginia	Rappahannock	pcnt_afgr	82
+51159	Virginia	Richmond	pcnt_afgr	84
+51161	Virginia	Roanoke	pcnt_afgr	92
+51163	Virginia	Rockbridge	pcnt_afgr	83
+51165	Virginia	Rockingham	pcnt_afgr	91
+51167	Virginia	Russell	pcnt_afgr	87
+51169	Virginia	Scott	pcnt_afgr	94
+51171	Virginia	Shenandoah	pcnt_afgr	92
+51173	Virginia	Smyth	pcnt_afgr	88
+51175	Virginia	Southampton	pcnt_afgr	87
+51177	Virginia	Spotsylvania	pcnt_afgr	86
+51179	Virginia	Stafford	pcnt_afgr	92
+51181	Virginia	Surry	pcnt_afgr	84
+51183	Virginia	Sussex	pcnt_afgr	84
+51185	Virginia	Tazewell	pcnt_afgr	78
+51187	Virginia	Warren	pcnt_afgr	92
+51191	Virginia	Washington	pcnt_afgr	91
+51193	Virginia	Westmoreland	pcnt_afgr	88
+51195	Virginia	Wise	pcnt_afgr	86
+51197	Virginia	Wythe	pcnt_afgr	87
+51199	Virginia	York	pcnt_afgr	94
+51510	Virginia	Alexandria City	pcnt_afgr	82
+51515	Virginia	Bedford City	pcnt_afgr	89
+51520	Virginia	Bristol City	pcnt_afgr	81
+51530	Virginia	Buena Vista City	pcnt_afgr	94
+51540	Virginia	Charlottesville City	pcnt_afgr	85
+51550	Virginia	Chesapeake City	pcnt_afgr	91
+51570	Virginia	Colonial Heights City	pcnt_afgr	89
+51580	Virginia	Covington City	pcnt_afgr	83
+51590	Virginia	Danville City	pcnt_afgr	74
+51595	Virginia	Emporia City	pcnt_afgr	89
+51600	Virginia	Fairfax City	pcnt_afgr	91
+51610	Virginia	Falls Church City	pcnt_afgr	97
+51620	Virginia	Franklin City	pcnt_afgr	79
+51630	Virginia	Fredericksburg City	pcnt_afgr	82
+51640	Virginia	Galax City	pcnt_afgr	88
+51650	Virginia	Hampton City	pcnt_afgr	84
+51660	Virginia	Harrisonburg City	pcnt_afgr	85
+51670	Virginia	Hopewell City	pcnt_afgr	86
+51678	Virginia	Lexington City	pcnt_afgr	83
+51680	Virginia	Lynchburg City	pcnt_afgr	85
+51683	Virginia	Manassas City	pcnt_afgr	80
+51685	Virginia	Manassas Park City	pcnt_afgr	85
+51690	Virginia	Martinsville City	pcnt_afgr	87
+51700	Virginia	Newport News City	pcnt_afgr	83
+51710	Virginia	Norfolk City	pcnt_afgr	77
+51720	Virginia	Norton City	pcnt_afgr	98
+51730	Virginia	Petersburg City	pcnt_afgr	78
+51735	Virginia	Poquoson City	pcnt_afgr	94
+51740	Virginia	Portsmouth City	pcnt_afgr	81
+51750	Virginia	Radford City	pcnt_afgr	92
+51760	Virginia	Richmond City	pcnt_afgr	74
+51770	Virginia	Roanoke City	pcnt_afgr	77
+51775	Virginia	Salem City	pcnt_afgr	94
+51790	Virginia	Staunton City	pcnt_afgr	85
+51800	Virginia	Suffolk City	pcnt_afgr	84
+51810	Virginia	Virginia Beach City	pcnt_afgr	87
+51820	Virginia	Waynesboro City	pcnt_afgr	80
+51830	Virginia	Williamsburg City	pcnt_afgr	89
+51840	Virginia	Winchester City	pcnt_afgr	86
+53001	Washington	Adams	pcnt_afgr	79
+53003	Washington	Asotin	pcnt_afgr	72
+53005	Washington	Benton	pcnt_afgr	78
+53007	Washington	Chelan	pcnt_afgr	75
+53009	Washington	Clallam	pcnt_afgr	39
+53011	Washington	Clark	pcnt_afgr	80
+53013	Washington	Columbia	pcnt_afgr	91
+53015	Washington	Cowlitz	pcnt_afgr	80
+53017	Washington	Douglas	pcnt_afgr	84
+53019	Washington	Ferry	pcnt_afgr	81
+53021	Washington	Franklin	pcnt_afgr	68
+53023	Washington	Garfield	pcnt_afgr	92
+53025	Washington	Grant	pcnt_afgr	74
+53027	Washington	Grays Harbor	pcnt_afgr	69
+53029	Washington	Island	pcnt_afgr	83
+53031	Washington	Jefferson	pcnt_afgr	82
+53033	Washington	King	pcnt_afgr	80
+53035	Washington	Kitsap	pcnt_afgr	81
+53037	Washington	Kittitas	pcnt_afgr	75
+53039	Washington	Klickitat	pcnt_afgr	73
+53041	Washington	Lewis	pcnt_afgr	75
+53043	Washington	Lincoln	pcnt_afgr	89
+53045	Washington	Mason	pcnt_afgr	68
+53047	Washington	Okanogan	pcnt_afgr	78
+53049	Washington	Pacific	pcnt_afgr	67
+53051	Washington	Pend Oreille	pcnt_afgr	87
+53053	Washington	Pierce	pcnt_afgr	74
+53055	Washington	San Juan	pcnt_afgr	88
+53057	Washington	Skagit	pcnt_afgr	71
+53059	Washington	Skamania	pcnt_afgr	43
+53061	Washington	Snohomish	pcnt_afgr	76
+53063	Washington	Spokane	pcnt_afgr	81
+53065	Washington	Stevens	pcnt_afgr	72
+53067	Washington	Thurston	pcnt_afgr	80
+53069	Washington	Wahkiakum	pcnt_afgr	84
+53071	Washington	Walla Walla	pcnt_afgr	85
+53073	Washington	Whatcom	pcnt_afgr	77
+53075	Washington	Whitman	pcnt_afgr	90
+53077	Washington	Yakima	pcnt_afgr	72
+54001	West Virginia	Barbour	pcnt_afgr	79
+54003	West Virginia	Berkeley	pcnt_afgr	81
+54005	West Virginia	Boone	pcnt_afgr	76
+54007	West Virginia	Braxton	pcnt_afgr	81
+54009	West Virginia	Brooke	pcnt_afgr	89
+54011	West Virginia	Cabell	pcnt_afgr	71
+54013	West Virginia	Calhoun	pcnt_afgr	86
+54015	West Virginia	Clay	pcnt_afgr	83
+54017	West Virginia	Doddridge	pcnt_afgr	92
+54019	West Virginia	Fayette	pcnt_afgr	71
+54021	West Virginia	Gilmer	pcnt_afgr	82
+54023	West Virginia	Grant	pcnt_afgr	83
+54025	West Virginia	Greenbrier	pcnt_afgr	74
+54027	West Virginia	Hampshire	pcnt_afgr	83
+54029	West Virginia	Hancock	pcnt_afgr	80
+54031	West Virginia	Hardy	pcnt_afgr	79
+54033	West Virginia	Harrison	pcnt_afgr	78
+54035	West Virginia	Jackson	pcnt_afgr	76
+54037	West Virginia	Jefferson	pcnt_afgr	81
+54039	West Virginia	Kanawha	pcnt_afgr	71
+54041	West Virginia	Lewis	pcnt_afgr	72
+54043	West Virginia	Lincoln	pcnt_afgr	75
+54045	West Virginia	Logan	pcnt_afgr	79
+54047	West Virginia	McDowell	pcnt_afgr	74
+54049	West Virginia	Marion	pcnt_afgr	79
+54051	West Virginia	Marshall	pcnt_afgr	86
+54053	West Virginia	Mason	pcnt_afgr	82
+54055	West Virginia	Mercer	pcnt_afgr	73
+54057	West Virginia	Mineral	pcnt_afgr	92
+54059	West Virginia	Mingo	pcnt_afgr	74
+54061	West Virginia	Monongalia	pcnt_afgr	77
+54063	West Virginia	Monroe	pcnt_afgr	76
+54065	West Virginia	Morgan	pcnt_afgr	86
+54067	West Virginia	Nicholas	pcnt_afgr	75
+54069	West Virginia	Ohio	pcnt_afgr	81
+54071	West Virginia	Pendleton	pcnt_afgr	81
+54073	West Virginia	Pleasants	pcnt_afgr	89
+54075	West Virginia	Pocahontas	pcnt_afgr	86
+54077	West Virginia	Preston	pcnt_afgr	79
+54079	West Virginia	Putnam	pcnt_afgr	82
+54081	West Virginia	Raleigh	pcnt_afgr	79
+54083	West Virginia	Randolph	pcnt_afgr	78
+54085	West Virginia	Ritchie	pcnt_afgr	81
+54087	West Virginia	Roane	pcnt_afgr	76
+54089	West Virginia	Summers	pcnt_afgr	73
+54091	West Virginia	Taylor	pcnt_afgr	71
+54093	West Virginia	Tucker	pcnt_afgr	82
+54095	West Virginia	Tyler	pcnt_afgr	95
+54097	West Virginia	Upshur	pcnt_afgr	70
+54099	West Virginia	Wayne	pcnt_afgr	75
+54101	West Virginia	Webster	pcnt_afgr	72
+54103	West Virginia	Wetzel	pcnt_afgr	86
+54105	West Virginia	Wirt	pcnt_afgr	90
+54107	West Virginia	Wood	pcnt_afgr	81
+54109	West Virginia	Wyoming	pcnt_afgr	82
+55001	Wisconsin	Adams	pcnt_afgr	94
+55003	Wisconsin	Ashland	pcnt_afgr	90
+55005	Wisconsin	Barron	pcnt_afgr	89
+55007	Wisconsin	Bayfield	pcnt_afgr	89
+55009	Wisconsin	Brown	pcnt_afgr	87
+55011	Wisconsin	Buffalo	pcnt_afgr	91
+55013	Wisconsin	Burnett	pcnt_afgr	56
+55015	Wisconsin	Calumet	pcnt_afgr	93
+55017	Wisconsin	Chippewa	pcnt_afgr	87
+55019	Wisconsin	Clark	pcnt_afgr	91
+55021	Wisconsin	Columbia	pcnt_afgr	89
+55023	Wisconsin	Crawford	pcnt_afgr	96
+55025	Wisconsin	Dane	pcnt_afgr	86
+55027	Wisconsin	Dodge	pcnt_afgr	93
+55029	Wisconsin	Door	pcnt_afgr	94
+55031	Wisconsin	Douglas	pcnt_afgr	87
+55033	Wisconsin	Dunn	pcnt_afgr	91
+55035	Wisconsin	Eau Claire	pcnt_afgr	87
+55037	Wisconsin	Florence	pcnt_afgr	96
+55039	Wisconsin	Fond du Lac	pcnt_afgr	93
+55041	Wisconsin	Forest	pcnt_afgr	89
+55043	Wisconsin	Grant	pcnt_afgr	95
+55045	Wisconsin	Green	pcnt_afgr	88
+55047	Wisconsin	Green Lake	pcnt_afgr	91
+55049	Wisconsin	Iowa	pcnt_afgr	94
+55051	Wisconsin	Iron	pcnt_afgr	94
+55053	Wisconsin	Jackson	pcnt_afgr	92
+55055	Wisconsin	Jefferson	pcnt_afgr	93
+55057	Wisconsin	Juneau	pcnt_afgr	85
+55059	Wisconsin	Kenosha	pcnt_afgr	82
+55061	Wisconsin	Kewaunee	pcnt_afgr	93
+55063	Wisconsin	La Crosse	pcnt_afgr	92
+55065	Wisconsin	Lafayette	pcnt_afgr	96
+55067	Wisconsin	Langlade	pcnt_afgr	92
+55069	Wisconsin	Lincoln	pcnt_afgr	92
+55071	Wisconsin	Manitowoc	pcnt_afgr	88
+55073	Wisconsin	Marathon	pcnt_afgr	92
+55075	Wisconsin	Marinette	pcnt_afgr	90
+55077	Wisconsin	Marquette	pcnt_afgr	87
+55078	Wisconsin	Menominee	pcnt_afgr	91
+55079	Wisconsin	Milwaukee	pcnt_afgr	76
+55081	Wisconsin	Monroe	pcnt_afgr	90
+55083	Wisconsin	Oconto	pcnt_afgr	89
+55085	Wisconsin	Oneida	pcnt_afgr	87
+55087	Wisconsin	Outagamie	pcnt_afgr	92
+55089	Wisconsin	Ozaukee	pcnt_afgr	96
+55091	Wisconsin	Pepin	pcnt_afgr	98
+55093	Wisconsin	Pierce	pcnt_afgr	96
+55095	Wisconsin	Polk	pcnt_afgr	94
+55097	Wisconsin	Portage	pcnt_afgr	88
+55099	Wisconsin	Price	pcnt_afgr	91
+55101	Wisconsin	Racine	pcnt_afgr	76
+55103	Wisconsin	Richland	pcnt_afgr	97
+55105	Wisconsin	Rock	pcnt_afgr	87
+55107	Wisconsin	Rusk	pcnt_afgr	87
+55109	Wisconsin	St. Croix	pcnt_afgr	95
+55111	Wisconsin	Sauk	pcnt_afgr	91
+55113	Wisconsin	Sawyer	pcnt_afgr	82
+55115	Wisconsin	Shawano	pcnt_afgr	92
+55117	Wisconsin	Sheboygan	pcnt_afgr	91
+55119	Wisconsin	Taylor	pcnt_afgr	91
+55121	Wisconsin	Trempealeau	pcnt_afgr	91
+55123	Wisconsin	Vernon	pcnt_afgr	91
+55125	Wisconsin	Vilas	pcnt_afgr	94
+55127	Wisconsin	Walworth	pcnt_afgr	89
+55129	Wisconsin	Washburn	pcnt_afgr	92
+55131	Wisconsin	Washington	pcnt_afgr	93
+55133	Wisconsin	Waukesha	pcnt_afgr	94
+55135	Wisconsin	Waupaca	pcnt_afgr	90
+55137	Wisconsin	Waushara	pcnt_afgr	93
+55139	Wisconsin	Winnebago	pcnt_afgr	90
+55141	Wisconsin	Wood	pcnt_afgr	96
+56001	Wyoming	Albany	pcnt_afgr	87
+56003	Wyoming	Big Horn	pcnt_afgr	88
+56005	Wyoming	Campbell	pcnt_afgr	85
+56007	Wyoming	Carbon	pcnt_afgr	74
+56009	Wyoming	Converse	pcnt_afgr	86
+56011	Wyoming	Crook	pcnt_afgr	91
+56013	Wyoming	Fremont	pcnt_afgr	75
+56015	Wyoming	Goshen	pcnt_afgr	84
+56017	Wyoming	Hot Springs	pcnt_afgr	87
+56019	Wyoming	Johnson	pcnt_afgr	87
+56021	Wyoming	Laramie	pcnt_afgr	73
+56023	Wyoming	Lincoln	pcnt_afgr	86
+56025	Wyoming	Natrona	pcnt_afgr	71
+56027	Wyoming	Niobrara	pcnt_afgr	48
+56029	Wyoming	Park	pcnt_afgr	86
+56031	Wyoming	Platte	pcnt_afgr	85
+56033	Wyoming	Sheridan	pcnt_afgr	84
+56035	Wyoming	Sublette	pcnt_afgr	87
+56037	Wyoming	Sweetwater	pcnt_afgr	80
+56039	Wyoming	Teton	pcnt_afgr	88
+56041	Wyoming	Uinta	pcnt_afgr	86
+56043	Wyoming	Washakie	pcnt_afgr	78
+56045	Wyoming	Weston	pcnt_afgr	82

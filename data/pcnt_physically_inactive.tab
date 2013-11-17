@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_physically_inactive
+01001	Alabama	Autauga	pcnt_physically_inactive	32
+01003	Alabama	Baldwin	pcnt_physically_inactive	25
+01005	Alabama	Barbour	pcnt_physically_inactive	34
+01007	Alabama	Bibb	pcnt_physically_inactive	37
+01009	Alabama	Blount	pcnt_physically_inactive	36
+01011	Alabama	Bullock	pcnt_physically_inactive	31
+01013	Alabama	Butler	pcnt_physically_inactive	37
+01015	Alabama	Calhoun	pcnt_physically_inactive	34
+01017	Alabama	Chambers	pcnt_physically_inactive	36
+01019	Alabama	Cherokee	pcnt_physically_inactive	36
+01021	Alabama	Chilton	pcnt_physically_inactive	31
+01023	Alabama	Choctaw	pcnt_physically_inactive	35
+01025	Alabama	Clarke	pcnt_physically_inactive	38
+01027	Alabama	Clay	pcnt_physically_inactive	38
+01029	Alabama	Cleburne	pcnt_physically_inactive	34
+01031	Alabama	Coffee	pcnt_physically_inactive	29
+01033	Alabama	Colbert	pcnt_physically_inactive	35
+01035	Alabama	Conecuh	pcnt_physically_inactive	36
+01037	Alabama	Coosa	pcnt_physically_inactive	35
+01039	Alabama	Covington	pcnt_physically_inactive	37
+01041	Alabama	Crenshaw	pcnt_physically_inactive	34
+01043	Alabama	Cullman	pcnt_physically_inactive	29
+01045	Alabama	Dale	pcnt_physically_inactive	31
+01047	Alabama	Dallas	pcnt_physically_inactive	34
+01049	Alabama	DeKalb	pcnt_physically_inactive	28
+01051	Alabama	Elmore	pcnt_physically_inactive	32
+01053	Alabama	Escambia	pcnt_physically_inactive	38
+01055	Alabama	Etowah	pcnt_physically_inactive	34
+01057	Alabama	Fayette	pcnt_physically_inactive	33
+01059	Alabama	Franklin	pcnt_physically_inactive	37
+01061	Alabama	Geneva	pcnt_physically_inactive	35
+01063	Alabama	Greene	pcnt_physically_inactive	38
+01065	Alabama	Hale	pcnt_physically_inactive	36
+01067	Alabama	Henry	pcnt_physically_inactive	31
+01069	Alabama	Houston	pcnt_physically_inactive	33
+01071	Alabama	Jackson	pcnt_physically_inactive	30
+01073	Alabama	Jefferson	pcnt_physically_inactive	29
+01075	Alabama	Lamar	pcnt_physically_inactive	36
+01077	Alabama	Lauderdale	pcnt_physically_inactive	33
+01079	Alabama	Lawrence	pcnt_physically_inactive	36
+01081	Alabama	Lee	pcnt_physically_inactive	27
+01083	Alabama	Limestone	pcnt_physically_inactive	31
+01085	Alabama	Lowndes	pcnt_physically_inactive	38
+01087	Alabama	Macon	pcnt_physically_inactive	31
+01089	Alabama	Madison	pcnt_physically_inactive	25
+01091	Alabama	Marengo	pcnt_physically_inactive	35
+01093	Alabama	Marion	pcnt_physically_inactive	36
+01095	Alabama	Marshall	pcnt_physically_inactive	32
+01097	Alabama	Mobile	pcnt_physically_inactive	31
+01099	Alabama	Monroe	pcnt_physically_inactive	32
+01101	Alabama	Montgomery	pcnt_physically_inactive	30
+01103	Alabama	Morgan	pcnt_physically_inactive	27
+01105	Alabama	Perry	pcnt_physically_inactive	35
+01107	Alabama	Pickens	pcnt_physically_inactive	33
+01109	Alabama	Pike	pcnt_physically_inactive	32
+01111	Alabama	Randolph	pcnt_physically_inactive	35
+01113	Alabama	Russell	pcnt_physically_inactive	37
+01115	Alabama	St. Clair	pcnt_physically_inactive	35
+01117	Alabama	Shelby	pcnt_physically_inactive	24
+01119	Alabama	Sumter	pcnt_physically_inactive	33
+01121	Alabama	Talladega	pcnt_physically_inactive	35
+01123	Alabama	Tallapoosa	pcnt_physically_inactive	31
+01125	Alabama	Tuscaloosa	pcnt_physically_inactive	29
+01127	Alabama	Walker	pcnt_physically_inactive	38
+01129	Alabama	Washington	pcnt_physically_inactive	33
+01131	Alabama	Wilcox	pcnt_physically_inactive	35
+01133	Alabama	Winston	pcnt_physically_inactive	34
+02013	Alaska	Aleutians East	pcnt_physically_inactive	29
+02016	Alaska	Aleutians West	pcnt_physically_inactive	23
+02020	Alaska	Anchorage	pcnt_physically_inactive	22
+02050	Alaska	Bethel	pcnt_physically_inactive	28
+02060	Alaska	Bristol Bay	pcnt_physically_inactive	24
+02068	Alaska	Denali	pcnt_physically_inactive	21
+02070	Alaska	Dillingham	pcnt_physically_inactive	28
+02090	Alaska	Fairbanks North Star	pcnt_physically_inactive	23
+02100	Alaska	Haines	pcnt_physically_inactive	21
+02110	Alaska	Juneau	pcnt_physically_inactive	18
+02122	Alaska	Kenai Peninsula	pcnt_physically_inactive	24
+02130	Alaska	Ketchikan Gateway	pcnt_physically_inactive	28
+02150	Alaska	Kodiak Island	pcnt_physically_inactive	21
+02164	Alaska	Lake and Peninsula	pcnt_physically_inactive	31
+02170	Alaska	Matanuska-Susitna	pcnt_physically_inactive	24
+02180	Alaska	Nome	pcnt_physically_inactive	24
+02185	Alaska	North Slope	pcnt_physically_inactive	33
+02188	Alaska	Northwest Arctic	pcnt_physically_inactive	32
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_physically_inactive	25
+02220	Alaska	Sitka	pcnt_physically_inactive	20
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_physically_inactive	25
+02240	Alaska	Southeast Fairbanks	pcnt_physically_inactive	25
+02261	Alaska	Valdez-Cordova	pcnt_physically_inactive	25
+02270	Alaska	Wade Hampton	pcnt_physically_inactive	28
+02280	Alaska	Wrangell-Petersburg	pcnt_physically_inactive	25
+02282	Alaska	Yakutat	pcnt_physically_inactive	24
+02290	Alaska	Yukon-Koyukuk	pcnt_physically_inactive	27
+04001	Arizona	Apache	pcnt_physically_inactive	28
+04003	Arizona	Cochise	pcnt_physically_inactive	24
+04005	Arizona	Coconino	pcnt_physically_inactive	17
+04007	Arizona	Gila	pcnt_physically_inactive	25
+04009	Arizona	Graham	pcnt_physically_inactive	27
+04011	Arizona	Greenlee	pcnt_physically_inactive	26
+04012	Arizona	La Paz	pcnt_physically_inactive	34
+04013	Arizona	Maricopa	pcnt_physically_inactive	19
+04015	Arizona	Mohave	pcnt_physically_inactive	30
+04017	Arizona	Navajo	pcnt_physically_inactive	25
+04019	Arizona	Pima	pcnt_physically_inactive	20
+04021	Arizona	Pinal	pcnt_physically_inactive	24
+04023	Arizona	Santa Cruz	pcnt_physically_inactive	18
+04025	Arizona	Yavapai	pcnt_physically_inactive	21
+04027	Arizona	Yuma	pcnt_physically_inactive	24
+05001	Arkansas	Arkansas	pcnt_physically_inactive	37
+05003	Arkansas	Ashley	pcnt_physically_inactive	39
+05005	Arkansas	Baxter	pcnt_physically_inactive	33
+05007	Arkansas	Benton	pcnt_physically_inactive	28
+05009	Arkansas	Boone	pcnt_physically_inactive	32
+05011	Arkansas	Bradley	pcnt_physically_inactive	33
+05013	Arkansas	Calhoun	pcnt_physically_inactive	37
+05015	Arkansas	Carroll	pcnt_physically_inactive	28
+05017	Arkansas	Chicot	pcnt_physically_inactive	36
+05019	Arkansas	Clark	pcnt_physically_inactive	31
+05021	Arkansas	Clay	pcnt_physically_inactive	35
+05023	Arkansas	Cleburne	pcnt_physically_inactive	32
+05025	Arkansas	Cleveland	pcnt_physically_inactive	28
+05027	Arkansas	Columbia	pcnt_physically_inactive	30
+05029	Arkansas	Conway	pcnt_physically_inactive	30
+05031	Arkansas	Craighead	pcnt_physically_inactive	32
+05033	Arkansas	Crawford	pcnt_physically_inactive	30
+05035	Arkansas	Crittenden	pcnt_physically_inactive	33
+05037	Arkansas	Cross	pcnt_physically_inactive	36
+05039	Arkansas	Dallas	pcnt_physically_inactive	34
+05041	Arkansas	Desha	pcnt_physically_inactive	33
+05043	Arkansas	Drew	pcnt_physically_inactive	33
+05045	Arkansas	Faulkner	pcnt_physically_inactive	28
+05047	Arkansas	Franklin	pcnt_physically_inactive	31
+05049	Arkansas	Fulton	pcnt_physically_inactive	30
+05051	Arkansas	Garland	pcnt_physically_inactive	28
+05053	Arkansas	Grant	pcnt_physically_inactive	34
+05055	Arkansas	Greene	pcnt_physically_inactive	28
+05057	Arkansas	Hempstead	pcnt_physically_inactive	32
+05059	Arkansas	Hot Spring	pcnt_physically_inactive	35
+05061	Arkansas	Howard	pcnt_physically_inactive	34
+05063	Arkansas	Independence	pcnt_physically_inactive	33
+05065	Arkansas	Izard	pcnt_physically_inactive	32
+05067	Arkansas	Jackson	pcnt_physically_inactive	37
+05069	Arkansas	Jefferson	pcnt_physically_inactive	35
+05071	Arkansas	Johnson	pcnt_physically_inactive	31
+05073	Arkansas	Lafayette	pcnt_physically_inactive	33
+05075	Arkansas	Lawrence	pcnt_physically_inactive	34
+05077	Arkansas	Lee	pcnt_physically_inactive	38
+05079	Arkansas	Lincoln	pcnt_physically_inactive	31
+05081	Arkansas	Little River	pcnt_physically_inactive	32
+05083	Arkansas	Logan	pcnt_physically_inactive	32
+05085	Arkansas	Lonoke	pcnt_physically_inactive	31
+05087	Arkansas	Madison	pcnt_physically_inactive	30
+05089	Arkansas	Marion	pcnt_physically_inactive	28
+05091	Arkansas	Miller	pcnt_physically_inactive	36
+05093	Arkansas	Mississippi	pcnt_physically_inactive	43
+05095	Arkansas	Monroe	pcnt_physically_inactive	37
+05097	Arkansas	Montgomery	pcnt_physically_inactive	29
+05099	Arkansas	Nevada	pcnt_physically_inactive	35
+05101	Arkansas	Newton	pcnt_physically_inactive	33
+05103	Arkansas	Ouachita	pcnt_physically_inactive	36
+05105	Arkansas	Perry	pcnt_physically_inactive	34
+05107	Arkansas	Phillips	pcnt_physically_inactive	39
+05109	Arkansas	Pike	pcnt_physically_inactive	29
+05111	Arkansas	Poinsett	pcnt_physically_inactive	38
+05113	Arkansas	Polk	pcnt_physically_inactive	32
+05115	Arkansas	Pope	pcnt_physically_inactive	26
+05117	Arkansas	Prairie	pcnt_physically_inactive	32
+05119	Arkansas	Pulaski	pcnt_physically_inactive	29
+05121	Arkansas	Randolph	pcnt_physically_inactive	33
+05123	Arkansas	St. Francis	pcnt_physically_inactive	41
+05125	Arkansas	Saline	pcnt_physically_inactive	26
+05127	Arkansas	Scott	pcnt_physically_inactive	33
+05129	Arkansas	Searcy	pcnt_physically_inactive	34
+05131	Arkansas	Sebastian	pcnt_physically_inactive	34
+05133	Arkansas	Sevier	pcnt_physically_inactive	33
+05135	Arkansas	Sharp	pcnt_physically_inactive	34
+05137	Arkansas	Stone	pcnt_physically_inactive	36
+05139	Arkansas	Union	pcnt_physically_inactive	28
+05141	Arkansas	Van Buren	pcnt_physically_inactive	35
+05143	Arkansas	Washington	pcnt_physically_inactive	24
+05145	Arkansas	White	pcnt_physically_inactive	28
+05147	Arkansas	Woodruff	pcnt_physically_inactive	35
+05149	Arkansas	Yell	pcnt_physically_inactive	29
+06001	California	Alameda	pcnt_physically_inactive	17
+06003	California	Alpine	pcnt_physically_inactive	20
+06005	California	Amador	pcnt_physically_inactive	18
+06007	California	Butte	pcnt_physically_inactive	17
+06009	California	Calaveras	pcnt_physically_inactive	21
+06011	California	Colusa	pcnt_physically_inactive	18
+06013	California	Contra Costa	pcnt_physically_inactive	18
+06015	California	Del Norte	pcnt_physically_inactive	18
+06017	California	El Dorado	pcnt_physically_inactive	15
+06019	California	Fresno	pcnt_physically_inactive	21
+06021	California	Glenn	pcnt_physically_inactive	19
+06023	California	Humboldt	pcnt_physically_inactive	19
+06025	California	Imperial	pcnt_physically_inactive	23
+06027	California	Inyo	pcnt_physically_inactive	18
+06029	California	Kern	pcnt_physically_inactive	24
+06031	California	Kings	pcnt_physically_inactive	22
+06033	California	Lake	pcnt_physically_inactive	18
+06035	California	Lassen	pcnt_physically_inactive	18
+06037	California	Los Angeles	pcnt_physically_inactive	19
+06039	California	Madera	pcnt_physically_inactive	20
+06041	California	Marin	pcnt_physically_inactive	13
+06043	California	Mariposa	pcnt_physically_inactive	21
+06045	California	Mendocino	pcnt_physically_inactive	18
+06047	California	Merced	pcnt_physically_inactive	20
+06049	California	Modoc	pcnt_physically_inactive	20
+06051	California	Mono	pcnt_physically_inactive	14
+06053	California	Monterey	pcnt_physically_inactive	16
+06055	California	Napa	pcnt_physically_inactive	16
+06057	California	Nevada	pcnt_physically_inactive	14
+06059	California	Orange	pcnt_physically_inactive	16
+06061	California	Placer	pcnt_physically_inactive	14
+06063	California	Plumas	pcnt_physically_inactive	20
+06065	California	Riverside	pcnt_physically_inactive	22
+06067	California	Sacramento	pcnt_physically_inactive	19
+06069	California	San Benito	pcnt_physically_inactive	16
+06071	California	San Bernardino	pcnt_physically_inactive	21
+06073	California	San Diego	pcnt_physically_inactive	17
+06075	California	San Francisco	pcnt_physically_inactive	17
+06077	California	San Joaquin	pcnt_physically_inactive	21
+06079	California	San Luis Obispo	pcnt_physically_inactive	15
+06081	California	San Mateo	pcnt_physically_inactive	16
+06083	California	Santa Barbara	pcnt_physically_inactive	16
+06085	California	Santa Clara	pcnt_physically_inactive	17
+06087	California	Santa Cruz	pcnt_physically_inactive	12
+06089	California	Shasta	pcnt_physically_inactive	20
+06091	California	Sierra	pcnt_physically_inactive	19
+06093	California	Siskiyou	pcnt_physically_inactive	20
+06095	California	Solano	pcnt_physically_inactive	21
+06097	California	Sonoma	pcnt_physically_inactive	15
+06099	California	Stanislaus	pcnt_physically_inactive	24
+06101	California	Sutter	pcnt_physically_inactive	22
+06103	California	Tehama	pcnt_physically_inactive	18
+06105	California	Trinity	pcnt_physically_inactive	23
+06107	California	Tulare	pcnt_physically_inactive	24
+06109	California	Tuolumne	pcnt_physically_inactive	19
+06111	California	Ventura	pcnt_physically_inactive	17
+06113	California	Yolo	pcnt_physically_inactive	16
+06115	California	Yuba	pcnt_physically_inactive	25
+08001	Colorado	Adams	pcnt_physically_inactive	21
+08003	Colorado	Alamosa	pcnt_physically_inactive	20
+08005	Colorado	Arapahoe	pcnt_physically_inactive	17
+08007	Colorado	Archuleta	pcnt_physically_inactive	17
+08009	Colorado	Baca	pcnt_physically_inactive	24
+08011	Colorado	Bent	pcnt_physically_inactive	22
+08013	Colorado	Boulder	pcnt_physically_inactive	11
+08014	Colorado	Broomfield	pcnt_physically_inactive	16
+08015	Colorado	Chaffee	pcnt_physically_inactive	17
+08017	Colorado	Cheyenne	pcnt_physically_inactive	21
+08019	Colorado	Clear Creek	pcnt_physically_inactive	18
+08021	Colorado	Conejos	pcnt_physically_inactive	20
+08023	Colorado	Costilla	pcnt_physically_inactive	20
+08025	Colorado	Crowley	pcnt_physically_inactive	22
+08027	Colorado	Custer	pcnt_physically_inactive	22
+08029	Colorado	Delta	pcnt_physically_inactive	24
+08031	Colorado	Denver	pcnt_physically_inactive	16
+08033	Colorado	Dolores	pcnt_physically_inactive	22
+08035	Colorado	Douglas	pcnt_physically_inactive	11
+08037	Colorado	Eagle	pcnt_physically_inactive	11
+08039	Colorado	Elbert	pcnt_physically_inactive	19
+08041	Colorado	El Paso	pcnt_physically_inactive	18
+08043	Colorado	Fremont	pcnt_physically_inactive	20
+08045	Colorado	Garfield	pcnt_physically_inactive	15
+08047	Colorado	Gilpin	pcnt_physically_inactive	19
+08049	Colorado	Grand	pcnt_physically_inactive	17
+08051	Colorado	Gunnison	pcnt_physically_inactive	15
+08053	Colorado	Hinsdale	pcnt_physically_inactive	20
+08055	Colorado	Huerfano	pcnt_physically_inactive	24
+08057	Colorado	Jackson	pcnt_physically_inactive	19
+08059	Colorado	Jefferson	pcnt_physically_inactive	16
+08061	Colorado	Kiowa	pcnt_physically_inactive	22
+08063	Colorado	Kit Carson	pcnt_physically_inactive	27
+08065	Colorado	Lake	pcnt_physically_inactive	18
+08067	Colorado	La Plata	pcnt_physically_inactive	15
+08069	Colorado	Larimer	pcnt_physically_inactive	14
+08071	Colorado	Las Animas	pcnt_physically_inactive	25
+08073	Colorado	Lincoln	pcnt_physically_inactive	24
+08075	Colorado	Logan	pcnt_physically_inactive	23
+08077	Colorado	Mesa	pcnt_physically_inactive	18
+08079	Colorado	Mineral	pcnt_physically_inactive	19
+08081	Colorado	Moffat	pcnt_physically_inactive	26
+08083	Colorado	Montezuma	pcnt_physically_inactive	21
+08085	Colorado	Montrose	pcnt_physically_inactive	20
+08087	Colorado	Morgan	pcnt_physically_inactive	24
+08089	Colorado	Otero	pcnt_physically_inactive	24
+08091	Colorado	Ouray	pcnt_physically_inactive	16
+08093	Colorado	Park	pcnt_physically_inactive	20
+08095	Colorado	Phillips	pcnt_physically_inactive	20
+08097	Colorado	Pitkin	pcnt_physically_inactive	13
+08099	Colorado	Prowers	pcnt_physically_inactive	28
+08101	Colorado	Pueblo	pcnt_physically_inactive	20
+08103	Colorado	Rio Blanco	pcnt_physically_inactive	19
+08105	Colorado	Rio Grande	pcnt_physically_inactive	24
+08107	Colorado	Routt	pcnt_physically_inactive	11
+08109	Colorado	Saguache	pcnt_physically_inactive	19
+08111	Colorado	San Juan	pcnt_physically_inactive	19
+08113	Colorado	San Miguel	pcnt_physically_inactive	13
+08115	Colorado	Sedgwick	pcnt_physically_inactive	21
+08117	Colorado	Summit	pcnt_physically_inactive	12
+08119	Colorado	Teller	pcnt_physically_inactive	19
+08121	Colorado	Washington	pcnt_physically_inactive	27
+08123	Colorado	Weld	pcnt_physically_inactive	18
+08125	Colorado	Yuma	pcnt_physically_inactive	22
+09001	Connecticut	Fairfield	pcnt_physically_inactive	20
+09003	Connecticut	Hartford	pcnt_physically_inactive	23
+09005	Connecticut	Litchfield	pcnt_physically_inactive	19
+09007	Connecticut	Middlesex	pcnt_physically_inactive	21
+09009	Connecticut	New Haven	pcnt_physically_inactive	27
+09011	Connecticut	New London	pcnt_physically_inactive	23
+09013	Connecticut	Tolland	pcnt_physically_inactive	19
+09015	Connecticut	Windham	pcnt_physically_inactive	26
+10001	Delaware	Kent	pcnt_physically_inactive	28
+10003	Delaware	New Castle	pcnt_physically_inactive	22
+10005	Delaware	Sussex	pcnt_physically_inactive	26
+11001	District of Columbia	District of Columbia	pcnt_physically_inactive	20
+12001	Florida	Alachua	pcnt_physically_inactive	22
+12003	Florida	Baker	pcnt_physically_inactive	33
+12005	Florida	Bay	pcnt_physically_inactive	24
+12007	Florida	Bradford	pcnt_physically_inactive	30
+12009	Florida	Brevard	pcnt_physically_inactive	25
+12011	Florida	Broward	pcnt_physically_inactive	23
+12013	Florida	Calhoun	pcnt_physically_inactive	30
+12015	Florida	Charlotte	pcnt_physically_inactive	22
+12017	Florida	Citrus	pcnt_physically_inactive	27
+12019	Florida	Clay	pcnt_physically_inactive	24
+12021	Florida	Collier	pcnt_physically_inactive	17
+12023	Florida	Columbia	pcnt_physically_inactive	29
+12027	Florida	DeSoto	pcnt_physically_inactive	31
+12029	Florida	Dixie	pcnt_physically_inactive	34
+12031	Florida	Duval	pcnt_physically_inactive	26
+12033	Florida	Escambia	pcnt_physically_inactive	26
+12035	Florida	Flagler	pcnt_physically_inactive	24
+12037	Florida	Franklin	pcnt_physically_inactive	30
+12039	Florida	Gadsden	pcnt_physically_inactive	32
+12041	Florida	Gilchrist	pcnt_physically_inactive	29
+12043	Florida	Glades	pcnt_physically_inactive	34
+12045	Florida	Gulf	pcnt_physically_inactive	28
+12047	Florida	Hamilton	pcnt_physically_inactive	34
+12049	Florida	Hardee	pcnt_physically_inactive	31
+12051	Florida	Hendry	pcnt_physically_inactive	31
+12053	Florida	Hernando	pcnt_physically_inactive	27
+12055	Florida	Highlands	pcnt_physically_inactive	28
+12057	Florida	Hillsborough	pcnt_physically_inactive	24
+12059	Florida	Holmes	pcnt_physically_inactive	33
+12061	Florida	Indian River	pcnt_physically_inactive	24
+12063	Florida	Jackson	pcnt_physically_inactive	32
+12065	Florida	Jefferson	pcnt_physically_inactive	29
+12067	Florida	Lafayette	pcnt_physically_inactive	29
+12069	Florida	Lake	pcnt_physically_inactive	24
+12071	Florida	Lee	pcnt_physically_inactive	23
+12073	Florida	Leon	pcnt_physically_inactive	21
+12075	Florida	Levy	pcnt_physically_inactive	33
+12077	Florida	Liberty	pcnt_physically_inactive	31
+12079	Florida	Madison	pcnt_physically_inactive	32
+12081	Florida	Manatee	pcnt_physically_inactive	25
+12083	Florida	Marion	pcnt_physically_inactive	28
+12085	Florida	Martin	pcnt_physically_inactive	20
+12086	Florida	Miami-Dade	pcnt_physically_inactive	24
+12087	Florida	Monroe	pcnt_physically_inactive	19
+12089	Florida	Nassau	pcnt_physically_inactive	24
+12091	Florida	Okaloosa	pcnt_physically_inactive	23
+12093	Florida	Okeechobee	pcnt_physically_inactive	32
+12095	Florida	Orange	pcnt_physically_inactive	24
+12097	Florida	Osceola	pcnt_physically_inactive	26
+12099	Florida	Palm Beach	pcnt_physically_inactive	23
+12101	Florida	Pasco	pcnt_physically_inactive	29
+12103	Florida	Pinellas	pcnt_physically_inactive	21
+12105	Florida	Polk	pcnt_physically_inactive	26
+12107	Florida	Putnam	pcnt_physically_inactive	32
+12109	Florida	St. Johns	pcnt_physically_inactive	18
+12111	Florida	St. Lucie	pcnt_physically_inactive	25
+12113	Florida	Santa Rosa	pcnt_physically_inactive	25
+12115	Florida	Sarasota	pcnt_physically_inactive	20
+12117	Florida	Seminole	pcnt_physically_inactive	20
+12119	Florida	Sumter	pcnt_physically_inactive	20
+12121	Florida	Suwannee	pcnt_physically_inactive	30
+12123	Florida	Taylor	pcnt_physically_inactive	31
+12125	Florida	Union	pcnt_physically_inactive	31
+12127	Florida	Volusia	pcnt_physically_inactive	26
+12129	Florida	Wakulla	pcnt_physically_inactive	28
+12131	Florida	Walton	pcnt_physically_inactive	27
+12133	Florida	Washington	pcnt_physically_inactive	30
+13001	Georgia	Appling	pcnt_physically_inactive	32
+13003	Georgia	Atkinson	pcnt_physically_inactive	30
+13005	Georgia	Bacon	pcnt_physically_inactive	34
+13007	Georgia	Baker	pcnt_physically_inactive	28
+13009	Georgia	Baldwin	pcnt_physically_inactive	28
+13011	Georgia	Banks	pcnt_physically_inactive	25
+13013	Georgia	Barrow	pcnt_physically_inactive	28
+13015	Georgia	Bartow	pcnt_physically_inactive	25
+13017	Georgia	Ben Hill	pcnt_physically_inactive	31
+13019	Georgia	Berrien	pcnt_physically_inactive	30
+13021	Georgia	Bibb	pcnt_physically_inactive	29
+13023	Georgia	Bleckley	pcnt_physically_inactive	28
+13025	Georgia	Brantley	pcnt_physically_inactive	29
+13027	Georgia	Brooks	pcnt_physically_inactive	31
+13029	Georgia	Bryan	pcnt_physically_inactive	24
+13031	Georgia	Bulloch	pcnt_physically_inactive	25
+13033	Georgia	Burke	pcnt_physically_inactive	31
+13035	Georgia	Butts	pcnt_physically_inactive	26
+13037	Georgia	Calhoun	pcnt_physically_inactive	27
+13039	Georgia	Camden	pcnt_physically_inactive	24
+13043	Georgia	Candler	pcnt_physically_inactive	28
+13045	Georgia	Carroll	pcnt_physically_inactive	25
+13047	Georgia	Catoosa	pcnt_physically_inactive	30
+13049	Georgia	Charlton	pcnt_physically_inactive	30
+13051	Georgia	Chatham	pcnt_physically_inactive	24
+13053	Georgia	Chattahoochee	pcnt_physically_inactive	24
+13055	Georgia	Chattooga	pcnt_physically_inactive	28
+13057	Georgia	Cherokee	pcnt_physically_inactive	22
+13059	Georgia	Clarke	pcnt_physically_inactive	19
+13061	Georgia	Clay	pcnt_physically_inactive	30
+13063	Georgia	Clayton	pcnt_physically_inactive	29
+13065	Georgia	Clinch	pcnt_physically_inactive	31
+13067	Georgia	Cobb	pcnt_physically_inactive	21
+13069	Georgia	Coffee	pcnt_physically_inactive	32
+13071	Georgia	Colquitt	pcnt_physically_inactive	29
+13073	Georgia	Columbia	pcnt_physically_inactive	22
+13075	Georgia	Cook	pcnt_physically_inactive	29
+13077	Georgia	Coweta	pcnt_physically_inactive	24
+13079	Georgia	Crawford	pcnt_physically_inactive	28
+13081	Georgia	Crisp	pcnt_physically_inactive	32
+13083	Georgia	Dade	pcnt_physically_inactive	24
+13085	Georgia	Dawson	pcnt_physically_inactive	24
+13087	Georgia	Decatur	pcnt_physically_inactive	33
+13089	Georgia	DeKalb	pcnt_physically_inactive	21
+13091	Georgia	Dodge	pcnt_physically_inactive	31
+13093	Georgia	Dooly	pcnt_physically_inactive	30
+13095	Georgia	Dougherty	pcnt_physically_inactive	28
+13097	Georgia	Douglas	pcnt_physically_inactive	25
+13099	Georgia	Early	pcnt_physically_inactive	31
+13101	Georgia	Echols	pcnt_physically_inactive	24
+13103	Georgia	Effingham	pcnt_physically_inactive	26
+13105	Georgia	Elbert	pcnt_physically_inactive	32
+13107	Georgia	Emanuel	pcnt_physically_inactive	28
+13109	Georgia	Evans	pcnt_physically_inactive	29
+13111	Georgia	Fannin	pcnt_physically_inactive	26
+13113	Georgia	Fayette	pcnt_physically_inactive	21
+13115	Georgia	Floyd	pcnt_physically_inactive	30
+13117	Georgia	Forsyth	pcnt_physically_inactive	20
+13119	Georgia	Franklin	pcnt_physically_inactive	26
+13121	Georgia	Fulton	pcnt_physically_inactive	19
+13123	Georgia	Gilmer	pcnt_physically_inactive	26
+13125	Georgia	Glascock	pcnt_physically_inactive	29
+13127	Georgia	Glynn	pcnt_physically_inactive	26
+13129	Georgia	Gordon	pcnt_physically_inactive	29
+13131	Georgia	Grady	pcnt_physically_inactive	30
+13133	Georgia	Greene	pcnt_physically_inactive	27
+13135	Georgia	Gwinnett	pcnt_physically_inactive	20
+13137	Georgia	Habersham	pcnt_physically_inactive	27
+13139	Georgia	Hall	pcnt_physically_inactive	22
+13141	Georgia	Hancock	pcnt_physically_inactive	29
+13143	Georgia	Haralson	pcnt_physically_inactive	28
+13145	Georgia	Harris	pcnt_physically_inactive	21
+13147	Georgia	Hart	pcnt_physically_inactive	26
+13149	Georgia	Heard	pcnt_physically_inactive	28
+13151	Georgia	Henry	pcnt_physically_inactive	23
+13153	Georgia	Houston	pcnt_physically_inactive	26
+13155	Georgia	Irwin	pcnt_physically_inactive	26
+13157	Georgia	Jackson	pcnt_physically_inactive	26
+13159	Georgia	Jasper	pcnt_physically_inactive	28
+13161	Georgia	Jeff Davis	pcnt_physically_inactive	26
+13163	Georgia	Jefferson	pcnt_physically_inactive	31
+13165	Georgia	Jenkins	pcnt_physically_inactive	28
+13167	Georgia	Johnson	pcnt_physically_inactive	30
+13169	Georgia	Jones	pcnt_physically_inactive	30
+13171	Georgia	Lamar	pcnt_physically_inactive	28
+13173	Georgia	Lanier	pcnt_physically_inactive	29
+13175	Georgia	Laurens	pcnt_physically_inactive	29
+13177	Georgia	Lee	pcnt_physically_inactive	24
+13179	Georgia	Liberty	pcnt_physically_inactive	26
+13181	Georgia	Lincoln	pcnt_physically_inactive	30
+13183	Georgia	Long	pcnt_physically_inactive	24
+13185	Georgia	Lowndes	pcnt_physically_inactive	27
+13187	Georgia	Lumpkin	pcnt_physically_inactive	20
+13189	Georgia	McDuffie	pcnt_physically_inactive	28
+13191	Georgia	McIntosh	pcnt_physically_inactive	30
+13193	Georgia	Macon	pcnt_physically_inactive	27
+13195	Georgia	Madison	pcnt_physically_inactive	25
+13197	Georgia	Marion	pcnt_physically_inactive	27
+13199	Georgia	Meriwether	pcnt_physically_inactive	28
+13201	Georgia	Miller	pcnt_physically_inactive	34
+13205	Georgia	Mitchell	pcnt_physically_inactive	31
+13207	Georgia	Monroe	pcnt_physically_inactive	27
+13209	Georgia	Montgomery	pcnt_physically_inactive	27
+13211	Georgia	Morgan	pcnt_physically_inactive	26
+13213	Georgia	Murray	pcnt_physically_inactive	32
+13215	Georgia	Muscogee	pcnt_physically_inactive	28
+13217	Georgia	Newton	pcnt_physically_inactive	26
+13219	Georgia	Oconee	pcnt_physically_inactive	22
+13221	Georgia	Oglethorpe	pcnt_physically_inactive	24
+13223	Georgia	Paulding	pcnt_physically_inactive	25
+13225	Georgia	Peach	pcnt_physically_inactive	29
+13227	Georgia	Pickens	pcnt_physically_inactive	24
+13229	Georgia	Pierce	pcnt_physically_inactive	29
+13231	Georgia	Pike	pcnt_physically_inactive	26
+13233	Georgia	Polk	pcnt_physically_inactive	27
+13235	Georgia	Pulaski	pcnt_physically_inactive	31
+13237	Georgia	Putnam	pcnt_physically_inactive	26
+13239	Georgia	Quitman	pcnt_physically_inactive	32
+13241	Georgia	Rabun	pcnt_physically_inactive	25
+13243	Georgia	Randolph	pcnt_physically_inactive	33
+13245	Georgia	Richmond	pcnt_physically_inactive	28
+13247	Georgia	Rockdale	pcnt_physically_inactive	27
+13249	Georgia	Schley	pcnt_physically_inactive	28
+13251	Georgia	Screven	pcnt_physically_inactive	31
+13253	Georgia	Seminole	pcnt_physically_inactive	27
+13255	Georgia	Spalding	pcnt_physically_inactive	28
+13257	Georgia	Stephens	pcnt_physically_inactive	29
+13259	Georgia	Stewart	pcnt_physically_inactive	31
+13261	Georgia	Sumter	pcnt_physically_inactive	30
+13263	Georgia	Talbot	pcnt_physically_inactive	30
+13265	Georgia	Taliaferro	pcnt_physically_inactive	32
+13267	Georgia	Tattnall	pcnt_physically_inactive	28
+13269	Georgia	Taylor	pcnt_physically_inactive	30
+13271	Georgia	Telfair	pcnt_physically_inactive	27
+13273	Georgia	Terrell	pcnt_physically_inactive	31
+13275	Georgia	Thomas	pcnt_physically_inactive	30
+13277	Georgia	Tift	pcnt_physically_inactive	29
+13279	Georgia	Toombs	pcnt_physically_inactive	32
+13281	Georgia	Towns	pcnt_physically_inactive	30
+13283	Georgia	Treutlen	pcnt_physically_inactive	29
+13285	Georgia	Troup	pcnt_physically_inactive	29
+13287	Georgia	Turner	pcnt_physically_inactive	33
+13289	Georgia	Twiggs	pcnt_physically_inactive	31
+13291	Georgia	Union	pcnt_physically_inactive	26
+13293	Georgia	Upson	pcnt_physically_inactive	28
+13295	Georgia	Walker	pcnt_physically_inactive	36
+13297	Georgia	Walton	pcnt_physically_inactive	31
+13299	Georgia	Ware	pcnt_physically_inactive	35
+13301	Georgia	Warren	pcnt_physically_inactive	29
+13303	Georgia	Washington	pcnt_physically_inactive	28
+13305	Georgia	Wayne	pcnt_physically_inactive	32
+13307	Georgia	Webster	pcnt_physically_inactive	28
+13309	Georgia	Wheeler	pcnt_physically_inactive	26
+13311	Georgia	White	pcnt_physically_inactive	24
+13313	Georgia	Whitfield	pcnt_physically_inactive	28
+13315	Georgia	Wilcox	pcnt_physically_inactive	32
+13317	Georgia	Wilkes	pcnt_physically_inactive	30
+13319	Georgia	Wilkinson	pcnt_physically_inactive	28
+13321	Georgia	Worth	pcnt_physically_inactive	27
+15001	Hawaii	Hawaii	pcnt_physically_inactive	18
+15003	Hawaii	Honolulu	pcnt_physically_inactive	19
+15005	Hawaii	Kalawao	pcnt_physically_inactive	20
+15007	Hawaii	Kauai	pcnt_physically_inactive	17
+15009	Hawaii	Maui	pcnt_physically_inactive	17
+16001	Idaho	Ada	pcnt_physically_inactive	15
+16003	Idaho	Adams	pcnt_physically_inactive	24
+16005	Idaho	Bannock	pcnt_physically_inactive	20
+16007	Idaho	Bear Lake	pcnt_physically_inactive	31
+16009	Idaho	Benewah	pcnt_physically_inactive	30
+16011	Idaho	Bingham	pcnt_physically_inactive	23
+16013	Idaho	Blaine	pcnt_physically_inactive	13
+16015	Idaho	Boise	pcnt_physically_inactive	20
+16017	Idaho	Bonner	pcnt_physically_inactive	20
+16019	Idaho	Bonneville	pcnt_physically_inactive	21
+16021	Idaho	Boundary	pcnt_physically_inactive	27
+16023	Idaho	Butte	pcnt_physically_inactive	25
+16025	Idaho	Camas	pcnt_physically_inactive	21
+16027	Idaho	Canyon	pcnt_physically_inactive	23
+16029	Idaho	Caribou	pcnt_physically_inactive	28
+16031	Idaho	Cassia	pcnt_physically_inactive	24
+16033	Idaho	Clark	pcnt_physically_inactive	23
+16035	Idaho	Clearwater	pcnt_physically_inactive	27
+16037	Idaho	Custer	pcnt_physically_inactive	24
+16039	Idaho	Elmore	pcnt_physically_inactive	23
+16041	Idaho	Franklin	pcnt_physically_inactive	24
+16043	Idaho	Fremont	pcnt_physically_inactive	23
+16045	Idaho	Gem	pcnt_physically_inactive	27
+16047	Idaho	Gooding	pcnt_physically_inactive	27
+16049	Idaho	Idaho	pcnt_physically_inactive	26
+16051	Idaho	Jefferson	pcnt_physically_inactive	24
+16053	Idaho	Jerome	pcnt_physically_inactive	20
+16055	Idaho	Kootenai	pcnt_physically_inactive	20
+16057	Idaho	Latah	pcnt_physically_inactive	17
+16059	Idaho	Lemhi	pcnt_physically_inactive	18
+16061	Idaho	Lewis	pcnt_physically_inactive	27
+16063	Idaho	Lincoln	pcnt_physically_inactive	24
+16065	Idaho	Madison	pcnt_physically_inactive	21
+16067	Idaho	Minidoka	pcnt_physically_inactive	27
+16069	Idaho	Nez Perce	pcnt_physically_inactive	24
+16071	Idaho	Oneida	pcnt_physically_inactive	27
+16073	Idaho	Owyhee	pcnt_physically_inactive	29
+16075	Idaho	Payette	pcnt_physically_inactive	26
+16077	Idaho	Power	pcnt_physically_inactive	25
+16079	Idaho	Shoshone	pcnt_physically_inactive	29
+16081	Idaho	Teton	pcnt_physically_inactive	16
+16083	Idaho	Twin Falls	pcnt_physically_inactive	24
+16085	Idaho	Valley	pcnt_physically_inactive	24
+16087	Idaho	Washington	pcnt_physically_inactive	27
+17001	Illinois	Adams	pcnt_physically_inactive	34
+17003	Illinois	Alexander	pcnt_physically_inactive	31
+17005	Illinois	Bond	pcnt_physically_inactive	31
+17007	Illinois	Boone	pcnt_physically_inactive	26
+17009	Illinois	Brown	pcnt_physically_inactive	28
+17011	Illinois	Bureau	pcnt_physically_inactive	30
+17013	Illinois	Calhoun	pcnt_physically_inactive	34
+17015	Illinois	Carroll	pcnt_physically_inactive	33
+17017	Illinois	Cass	pcnt_physically_inactive	30
+17019	Illinois	Champaign	pcnt_physically_inactive	25
+17021	Illinois	Christian	pcnt_physically_inactive	27
+17023	Illinois	Clark	pcnt_physically_inactive	32
+17025	Illinois	Clay	pcnt_physically_inactive	32
+17027	Illinois	Clinton	pcnt_physically_inactive	28
+17029	Illinois	Coles	pcnt_physically_inactive	25
+17031	Illinois	Cook	pcnt_physically_inactive	24
+17033	Illinois	Crawford	pcnt_physically_inactive	32
+17035	Illinois	Cumberland	pcnt_physically_inactive	31
+17037	Illinois	DeKalb	pcnt_physically_inactive	25
+17039	Illinois	De Witt	pcnt_physically_inactive	29
+17041	Illinois	Douglas	pcnt_physically_inactive	29
+17043	Illinois	DuPage	pcnt_physically_inactive	19
+17045	Illinois	Edgar	pcnt_physically_inactive	30
+17047	Illinois	Edwards	pcnt_physically_inactive	28
+17049	Illinois	Effingham	pcnt_physically_inactive	30
+17051	Illinois	Fayette	pcnt_physically_inactive	32
+17053	Illinois	Ford	pcnt_physically_inactive	31
+17055	Illinois	Franklin	pcnt_physically_inactive	31
+17057	Illinois	Fulton	pcnt_physically_inactive	31
+17059	Illinois	Gallatin	pcnt_physically_inactive	29
+17061	Illinois	Greene	pcnt_physically_inactive	33
+17063	Illinois	Grundy	pcnt_physically_inactive	35
+17065	Illinois	Hamilton	pcnt_physically_inactive	32
+17067	Illinois	Hancock	pcnt_physically_inactive	31
+17069	Illinois	Hardin	pcnt_physically_inactive	28
+17071	Illinois	Henderson	pcnt_physically_inactive	28
+17073	Illinois	Henry	pcnt_physically_inactive	31
+17075	Illinois	Iroquois	pcnt_physically_inactive	32
+17077	Illinois	Jackson	pcnt_physically_inactive	27
+17079	Illinois	Jasper	pcnt_physically_inactive	32
+17081	Illinois	Jefferson	pcnt_physically_inactive	30
+17083	Illinois	Jersey	pcnt_physically_inactive	28
+17085	Illinois	Jo Daviess	pcnt_physically_inactive	25
+17087	Illinois	Johnson	pcnt_physically_inactive	30
+17089	Illinois	Kane	pcnt_physically_inactive	23
+17091	Illinois	Kankakee	pcnt_physically_inactive	29
+17093	Illinois	Kendall	pcnt_physically_inactive	24
+17095	Illinois	Knox	pcnt_physically_inactive	33
+17097	Illinois	Lake	pcnt_physically_inactive	19
+17099	Illinois	LaSalle	pcnt_physically_inactive	27
+17101	Illinois	Lawrence	pcnt_physically_inactive	30
+17103	Illinois	Lee	pcnt_physically_inactive	28
+17105	Illinois	Livingston	pcnt_physically_inactive	32
+17107	Illinois	Logan	pcnt_physically_inactive	30
+17109	Illinois	McDonough	pcnt_physically_inactive	27
+17111	Illinois	McHenry	pcnt_physically_inactive	24
+17113	Illinois	McLean	pcnt_physically_inactive	24
+17115	Illinois	Macon	pcnt_physically_inactive	28
+17117	Illinois	Macoupin	pcnt_physically_inactive	27
+17119	Illinois	Madison	pcnt_physically_inactive	28
+17121	Illinois	Marion	pcnt_physically_inactive	31
+17123	Illinois	Marshall	pcnt_physically_inactive	30
+17125	Illinois	Mason	pcnt_physically_inactive	30
+17127	Illinois	Massac	pcnt_physically_inactive	31
+17129	Illinois	Menard	pcnt_physically_inactive	30
+17131	Illinois	Mercer	pcnt_physically_inactive	27
+17133	Illinois	Monroe	pcnt_physically_inactive	30
+17135	Illinois	Montgomery	pcnt_physically_inactive	29
+17137	Illinois	Morgan	pcnt_physically_inactive	30
+17139	Illinois	Moultrie	pcnt_physically_inactive	30
+17141	Illinois	Ogle	pcnt_physically_inactive	29
+17143	Illinois	Peoria	pcnt_physically_inactive	26
+17145	Illinois	Perry	pcnt_physically_inactive	31
+17147	Illinois	Piatt	pcnt_physically_inactive	32
+17149	Illinois	Pike	pcnt_physically_inactive	28
+17151	Illinois	Pope	pcnt_physically_inactive	30
+17153	Illinois	Pulaski	pcnt_physically_inactive	31
+17155	Illinois	Putnam	pcnt_physically_inactive	29
+17157	Illinois	Randolph	pcnt_physically_inactive	26
+17159	Illinois	Richland	pcnt_physically_inactive	31
+17161	Illinois	Rock Island	pcnt_physically_inactive	27
+17163	Illinois	St. Clair	pcnt_physically_inactive	29
+17165	Illinois	Saline	pcnt_physically_inactive	33
+17167	Illinois	Sangamon	pcnt_physically_inactive	26
+17169	Illinois	Schuyler	pcnt_physically_inactive	32
+17171	Illinois	Scott	pcnt_physically_inactive	31
+17173	Illinois	Shelby	pcnt_physically_inactive	32
+17175	Illinois	Stark	pcnt_physically_inactive	30
+17177	Illinois	Stephenson	pcnt_physically_inactive	29
+17179	Illinois	Tazewell	pcnt_physically_inactive	28
+17181	Illinois	Union	pcnt_physically_inactive	33
+17183	Illinois	Vermilion	pcnt_physically_inactive	31
+17185	Illinois	Wabash	pcnt_physically_inactive	30
+17187	Illinois	Warren	pcnt_physically_inactive	28
+17189	Illinois	Washington	pcnt_physically_inactive	29
+17191	Illinois	Wayne	pcnt_physically_inactive	28
+17193	Illinois	White	pcnt_physically_inactive	33
+17195	Illinois	Whiteside	pcnt_physically_inactive	31
+17197	Illinois	Will	pcnt_physically_inactive	25
+17199	Illinois	Williamson	pcnt_physically_inactive	32
+17201	Illinois	Winnebago	pcnt_physically_inactive	27
+17203	Illinois	Woodford	pcnt_physically_inactive	24
+18001	Indiana	Adams	pcnt_physically_inactive	25
+18003	Indiana	Allen	pcnt_physically_inactive	26
+18005	Indiana	Bartholomew	pcnt_physically_inactive	27
+18007	Indiana	Benton	pcnt_physically_inactive	34
+18009	Indiana	Blackford	pcnt_physically_inactive	30
+18011	Indiana	Boone	pcnt_physically_inactive	30
+18013	Indiana	Brown	pcnt_physically_inactive	26
+18015	Indiana	Carroll	pcnt_physically_inactive	27
+18017	Indiana	Cass	pcnt_physically_inactive	29
+18019	Indiana	Clark	pcnt_physically_inactive	32
+18021	Indiana	Clay	pcnt_physically_inactive	30
+18023	Indiana	Clinton	pcnt_physically_inactive	27
+18025	Indiana	Crawford	pcnt_physically_inactive	31
+18027	Indiana	Daviess	pcnt_physically_inactive	27
+18029	Indiana	Dearborn	pcnt_physically_inactive	29
+18031	Indiana	Decatur	pcnt_physically_inactive	25
+18033	Indiana	DeKalb	pcnt_physically_inactive	27
+18035	Indiana	Delaware	pcnt_physically_inactive	30
+18037	Indiana	Dubois	pcnt_physically_inactive	25
+18039	Indiana	Elkhart	pcnt_physically_inactive	26
+18041	Indiana	Fayette	pcnt_physically_inactive	32
+18043	Indiana	Floyd	pcnt_physically_inactive	25
+18045	Indiana	Fountain	pcnt_physically_inactive	30
+18047	Indiana	Franklin	pcnt_physically_inactive	26
+18049	Indiana	Fulton	pcnt_physically_inactive	27
+18051	Indiana	Gibson	pcnt_physically_inactive	28
+18053	Indiana	Grant	pcnt_physically_inactive	33
+18055	Indiana	Greene	pcnt_physically_inactive	29
+18057	Indiana	Hamilton	pcnt_physically_inactive	19
+18059	Indiana	Hancock	pcnt_physically_inactive	24
+18061	Indiana	Harrison	pcnt_physically_inactive	29
+18063	Indiana	Hendricks	pcnt_physically_inactive	24
+18065	Indiana	Henry	pcnt_physically_inactive	31
+18067	Indiana	Howard	pcnt_physically_inactive	32
+18069	Indiana	Huntington	pcnt_physically_inactive	31
+18071	Indiana	Jackson	pcnt_physically_inactive	33
+18073	Indiana	Jasper	pcnt_physically_inactive	30
+18075	Indiana	Jay	pcnt_physically_inactive	32
+18077	Indiana	Jefferson	pcnt_physically_inactive	31
+18079	Indiana	Jennings	pcnt_physically_inactive	29
+18081	Indiana	Johnson	pcnt_physically_inactive	28
+18083	Indiana	Knox	pcnt_physically_inactive	34
+18085	Indiana	Kosciusko	pcnt_physically_inactive	27
+18087	Indiana	LaGrange	pcnt_physically_inactive	25
+18089	Indiana	Lake	pcnt_physically_inactive	30
+18091	Indiana	LaPorte	pcnt_physically_inactive	26
+18093	Indiana	Lawrence	pcnt_physically_inactive	30
+18095	Indiana	Madison	pcnt_physically_inactive	34
+18097	Indiana	Marion	pcnt_physically_inactive	26
+18099	Indiana	Marshall	pcnt_physically_inactive	29
+18101	Indiana	Martin	pcnt_physically_inactive	31
+18103	Indiana	Miami	pcnt_physically_inactive	31
+18105	Indiana	Monroe	pcnt_physically_inactive	22
+18107	Indiana	Montgomery	pcnt_physically_inactive	31
+18109	Indiana	Morgan	pcnt_physically_inactive	28
+18111	Indiana	Newton	pcnt_physically_inactive	30
+18113	Indiana	Noble	pcnt_physically_inactive	28
+18115	Indiana	Ohio	pcnt_physically_inactive	29
+18117	Indiana	Orange	pcnt_physically_inactive	37
+18119	Indiana	Owen	pcnt_physically_inactive	31
+18121	Indiana	Parke	pcnt_physically_inactive	33
+18123	Indiana	Perry	pcnt_physically_inactive	30
+18125	Indiana	Pike	pcnt_physically_inactive	30
+18127	Indiana	Porter	pcnt_physically_inactive	26
+18129	Indiana	Posey	pcnt_physically_inactive	28
+18131	Indiana	Pulaski	pcnt_physically_inactive	28
+18133	Indiana	Putnam	pcnt_physically_inactive	30
+18135	Indiana	Randolph	pcnt_physically_inactive	38
+18137	Indiana	Ripley	pcnt_physically_inactive	31
+18139	Indiana	Rush	pcnt_physically_inactive	32
+18141	Indiana	St. Joseph	pcnt_physically_inactive	27
+18143	Indiana	Scott	pcnt_physically_inactive	32
+18145	Indiana	Shelby	pcnt_physically_inactive	33
+18147	Indiana	Spencer	pcnt_physically_inactive	26
+18149	Indiana	Starke	pcnt_physically_inactive	35
+18151	Indiana	Steuben	pcnt_physically_inactive	28
+18153	Indiana	Sullivan	pcnt_physically_inactive	33
+18155	Indiana	Switzerland	pcnt_physically_inactive	28
+18157	Indiana	Tippecanoe	pcnt_physically_inactive	24
+18159	Indiana	Tipton	pcnt_physically_inactive	30
+18161	Indiana	Union	pcnt_physically_inactive	26
+18163	Indiana	Vanderburgh	pcnt_physically_inactive	28
+18165	Indiana	Vermillion	pcnt_physically_inactive	28
+18167	Indiana	Vigo	pcnt_physically_inactive	28
+18169	Indiana	Wabash	pcnt_physically_inactive	27
+18171	Indiana	Warren	pcnt_physically_inactive	31
+18173	Indiana	Warrick	pcnt_physically_inactive	24
+18175	Indiana	Washington	pcnt_physically_inactive	33
+18177	Indiana	Wayne	pcnt_physically_inactive	29
+18179	Indiana	Wells	pcnt_physically_inactive	27
+18181	Indiana	White	pcnt_physically_inactive	29
+18183	Indiana	Whitley	pcnt_physically_inactive	21
+19001	Iowa	Adair	pcnt_physically_inactive	31
+19003	Iowa	Adams	pcnt_physically_inactive	27
+19005	Iowa	Allamakee	pcnt_physically_inactive	24
+19007	Iowa	Appanoose	pcnt_physically_inactive	31
+19009	Iowa	Audubon	pcnt_physically_inactive	29
+19011	Iowa	Benton	pcnt_physically_inactive	26
+19013	Iowa	Black Hawk	pcnt_physically_inactive	23
+19015	Iowa	Boone	pcnt_physically_inactive	28
+19017	Iowa	Bremer	pcnt_physically_inactive	24
+19019	Iowa	Buchanan	pcnt_physically_inactive	27
+19021	Iowa	Buena Vista	pcnt_physically_inactive	28
+19023	Iowa	Butler	pcnt_physically_inactive	28
+19025	Iowa	Calhoun	pcnt_physically_inactive	30
+19027	Iowa	Carroll	pcnt_physically_inactive	30
+19029	Iowa	Cass	pcnt_physically_inactive	28
+19031	Iowa	Cedar	pcnt_physically_inactive	25
+19033	Iowa	Cerro Gordo	pcnt_physically_inactive	25
+19035	Iowa	Cherokee	pcnt_physically_inactive	24
+19037	Iowa	Chickasaw	pcnt_physically_inactive	28
+19039	Iowa	Clarke	pcnt_physically_inactive	30
+19041	Iowa	Clay	pcnt_physically_inactive	28
+19043	Iowa	Clayton	pcnt_physically_inactive	31
+19045	Iowa	Clinton	pcnt_physically_inactive	30
+19047	Iowa	Crawford	pcnt_physically_inactive	33
+19049	Iowa	Dallas	pcnt_physically_inactive	23
+19051	Iowa	Davis	pcnt_physically_inactive	30
+19053	Iowa	Decatur	pcnt_physically_inactive	27
+19055	Iowa	Delaware	pcnt_physically_inactive	29
+19057	Iowa	Des Moines	pcnt_physically_inactive	30
+19059	Iowa	Dickinson	pcnt_physically_inactive	23
+19061	Iowa	Dubuque	pcnt_physically_inactive	21
+19063	Iowa	Emmet	pcnt_physically_inactive	29
+19065	Iowa	Fayette	pcnt_physically_inactive	26
+19067	Iowa	Floyd	pcnt_physically_inactive	26
+19069	Iowa	Franklin	pcnt_physically_inactive	28
+19071	Iowa	Fremont	pcnt_physically_inactive	32
+19073	Iowa	Greene	pcnt_physically_inactive	29
+19075	Iowa	Grundy	pcnt_physically_inactive	25
+19077	Iowa	Guthrie	pcnt_physically_inactive	28
+19079	Iowa	Hamilton	pcnt_physically_inactive	25
+19081	Iowa	Hancock	pcnt_physically_inactive	26
+19083	Iowa	Hardin	pcnt_physically_inactive	32
+19085	Iowa	Harrison	pcnt_physically_inactive	29
+19087	Iowa	Henry	pcnt_physically_inactive	25
+19089	Iowa	Howard	pcnt_physically_inactive	24
+19091	Iowa	Humboldt	pcnt_physically_inactive	27
+19093	Iowa	Ida	pcnt_physically_inactive	26
+19095	Iowa	Iowa	pcnt_physically_inactive	31
+19097	Iowa	Jackson	pcnt_physically_inactive	25
+19099	Iowa	Jasper	pcnt_physically_inactive	25
+19101	Iowa	Jefferson	pcnt_physically_inactive	23
+19103	Iowa	Johnson	pcnt_physically_inactive	19
+19105	Iowa	Jones	pcnt_physically_inactive	26
+19107	Iowa	Keokuk	pcnt_physically_inactive	26
+19109	Iowa	Kossuth	pcnt_physically_inactive	35
+19111	Iowa	Lee	pcnt_physically_inactive	28
+19113	Iowa	Linn	pcnt_physically_inactive	24
+19115	Iowa	Louisa	pcnt_physically_inactive	28
+19117	Iowa	Lucas	pcnt_physically_inactive	30
+19119	Iowa	Lyon	pcnt_physically_inactive	28
+19121	Iowa	Madison	pcnt_physically_inactive	22
+19123	Iowa	Mahaska	pcnt_physically_inactive	30
+19125	Iowa	Marion	pcnt_physically_inactive	25
+19127	Iowa	Marshall	pcnt_physically_inactive	26
+19129	Iowa	Mills	pcnt_physically_inactive	24
+19131	Iowa	Mitchell	pcnt_physically_inactive	29
+19133	Iowa	Monona	pcnt_physically_inactive	32
+19135	Iowa	Monroe	pcnt_physically_inactive	36
+19137	Iowa	Montgomery	pcnt_physically_inactive	26
+19139	Iowa	Muscatine	pcnt_physically_inactive	25
+19141	Iowa	O'Brien	pcnt_physically_inactive	26
+19143	Iowa	Osceola	pcnt_physically_inactive	26
+19145	Iowa	Page	pcnt_physically_inactive	30
+19147	Iowa	Palo Alto	pcnt_physically_inactive	27
+19149	Iowa	Plymouth	pcnt_physically_inactive	30
+19151	Iowa	Pocahontas	pcnt_physically_inactive	27
+19153	Iowa	Polk	pcnt_physically_inactive	24
+19155	Iowa	Pottawattamie	pcnt_physically_inactive	28
+19157	Iowa	Poweshiek	pcnt_physically_inactive	26
+19159	Iowa	Ringgold	pcnt_physically_inactive	29
+19161	Iowa	Sac	pcnt_physically_inactive	27
+19163	Iowa	Scott	pcnt_physically_inactive	21
+19165	Iowa	Shelby	pcnt_physically_inactive	26
+19167	Iowa	Sioux	pcnt_physically_inactive	24
+19169	Iowa	Story	pcnt_physically_inactive	20
+19171	Iowa	Tama	pcnt_physically_inactive	30
+19173	Iowa	Taylor	pcnt_physically_inactive	26
+19175	Iowa	Union	pcnt_physically_inactive	29
+19177	Iowa	Van Buren	pcnt_physically_inactive	26
+19179	Iowa	Wapello	pcnt_physically_inactive	27
+19181	Iowa	Warren	pcnt_physically_inactive	27
+19183	Iowa	Washington	pcnt_physically_inactive	24
+19185	Iowa	Wayne	pcnt_physically_inactive	27
+19187	Iowa	Webster	pcnt_physically_inactive	32
+19189	Iowa	Winnebago	pcnt_physically_inactive	24
+19191	Iowa	Winneshiek	pcnt_physically_inactive	23
+19193	Iowa	Woodbury	pcnt_physically_inactive	30
+19195	Iowa	Worth	pcnt_physically_inactive	26
+19197	Iowa	Wright	pcnt_physically_inactive	30
+20001	Kansas	Allen	pcnt_physically_inactive	28
+20003	Kansas	Anderson	pcnt_physically_inactive	27
+20005	Kansas	Atchison	pcnt_physically_inactive	31
+20007	Kansas	Barber	pcnt_physically_inactive	35
+20009	Kansas	Barton	pcnt_physically_inactive	28
+20011	Kansas	Bourbon	pcnt_physically_inactive	27
+20013	Kansas	Brown	pcnt_physically_inactive	31
+20015	Kansas	Butler	pcnt_physically_inactive	24
+20017	Kansas	Chase	pcnt_physically_inactive	24
+20019	Kansas	Chautauqua	pcnt_physically_inactive	27
+20021	Kansas	Cherokee	pcnt_physically_inactive	27
+20023	Kansas	Cheyenne	pcnt_physically_inactive	23
+20025	Kansas	Clark	pcnt_physically_inactive	30
+20027	Kansas	Clay	pcnt_physically_inactive	29
+20029	Kansas	Cloud	pcnt_physically_inactive	25
+20031	Kansas	Coffey	pcnt_physically_inactive	25
+20033	Kansas	Comanche	pcnt_physically_inactive	31
+20035	Kansas	Cowley	pcnt_physically_inactive	29
+20037	Kansas	Crawford	pcnt_physically_inactive	28
+20039	Kansas	Decatur	pcnt_physically_inactive	29
+20041	Kansas	Dickinson	pcnt_physically_inactive	27
+20043	Kansas	Doniphan	pcnt_physically_inactive	29
+20045	Kansas	Douglas	pcnt_physically_inactive	19
+20047	Kansas	Edwards	pcnt_physically_inactive	29
+20049	Kansas	Elk	pcnt_physically_inactive	29
+20051	Kansas	Ellis	pcnt_physically_inactive	25
+20053	Kansas	Ellsworth	pcnt_physically_inactive	26
+20055	Kansas	Finney	pcnt_physically_inactive	25
+20057	Kansas	Ford	pcnt_physically_inactive	29
+20059	Kansas	Franklin	pcnt_physically_inactive	28
+20061	Kansas	Geary	pcnt_physically_inactive	29
+20063	Kansas	Gove	pcnt_physically_inactive	31
+20065	Kansas	Graham	pcnt_physically_inactive	26
+20067	Kansas	Grant	pcnt_physically_inactive	21
+20069	Kansas	Gray	pcnt_physically_inactive	26
+20071	Kansas	Greeley	pcnt_physically_inactive	31
+20073	Kansas	Greenwood	pcnt_physically_inactive	33
+20075	Kansas	Hamilton	pcnt_physically_inactive	27
+20077	Kansas	Harper	pcnt_physically_inactive	34
+20079	Kansas	Harvey	pcnt_physically_inactive	25
+20081	Kansas	Haskell	pcnt_physically_inactive	28
+20083	Kansas	Hodgeman	pcnt_physically_inactive	29
+20085	Kansas	Jackson	pcnt_physically_inactive	28
+20087	Kansas	Jefferson	pcnt_physically_inactive	24
+20089	Kansas	Jewell	pcnt_physically_inactive	28
+20091	Kansas	Johnson	pcnt_physically_inactive	17
+20093	Kansas	Kearny	pcnt_physically_inactive	26
+20095	Kansas	Kingman	pcnt_physically_inactive	32
+20097	Kansas	Kiowa	pcnt_physically_inactive	26
+20099	Kansas	Labette	pcnt_physically_inactive	33
+20101	Kansas	Lane	pcnt_physically_inactive	27
+20103	Kansas	Leavenworth	pcnt_physically_inactive	25
+20105	Kansas	Lincoln	pcnt_physically_inactive	26
+20107	Kansas	Linn	pcnt_physically_inactive	31
+20109	Kansas	Logan	pcnt_physically_inactive	32
+20111	Kansas	Lyon	pcnt_physically_inactive	25
+20113	Kansas	McPherson	pcnt_physically_inactive	25
+20115	Kansas	Marion	pcnt_physically_inactive	30
+20117	Kansas	Marshall	pcnt_physically_inactive	28
+20119	Kansas	Meade	pcnt_physically_inactive	25
+20121	Kansas	Miami	pcnt_physically_inactive	26
+20123	Kansas	Mitchell	pcnt_physically_inactive	26
+20125	Kansas	Montgomery	pcnt_physically_inactive	32
+20127	Kansas	Morris	pcnt_physically_inactive	27
+20129	Kansas	Morton	pcnt_physically_inactive	31
+20131	Kansas	Nemaha	pcnt_physically_inactive	27
+20133	Kansas	Neosho	pcnt_physically_inactive	32
+20135	Kansas	Ness	pcnt_physically_inactive	28
+20137	Kansas	Norton	pcnt_physically_inactive	26
+20139	Kansas	Osage	pcnt_physically_inactive	29
+20141	Kansas	Osborne	pcnt_physically_inactive	28
+20143	Kansas	Ottawa	pcnt_physically_inactive	33
+20145	Kansas	Pawnee	pcnt_physically_inactive	30
+20147	Kansas	Phillips	pcnt_physically_inactive	27
+20149	Kansas	Pottawatomie	pcnt_physically_inactive	25
+20151	Kansas	Pratt	pcnt_physically_inactive	31
+20153	Kansas	Rawlins	pcnt_physically_inactive	29
+20155	Kansas	Reno	pcnt_physically_inactive	23
+20157	Kansas	Republic	pcnt_physically_inactive	30
+20159	Kansas	Rice	pcnt_physically_inactive	25
+20161	Kansas	Riley	pcnt_physically_inactive	19
+20163	Kansas	Rooks	pcnt_physically_inactive	28
+20165	Kansas	Rush	pcnt_physically_inactive	28
+20167	Kansas	Russell	pcnt_physically_inactive	30
+20169	Kansas	Saline	pcnt_physically_inactive	25
+20171	Kansas	Scott	pcnt_physically_inactive	25
+20173	Kansas	Sedgwick	pcnt_physically_inactive	23
+20175	Kansas	Seward	pcnt_physically_inactive	29
+20177	Kansas	Shawnee	pcnt_physically_inactive	24
+20179	Kansas	Sheridan	pcnt_physically_inactive	28
+20181	Kansas	Sherman	pcnt_physically_inactive	29
+20183	Kansas	Smith	pcnt_physically_inactive	34
+20185	Kansas	Stafford	pcnt_physically_inactive	34
+20187	Kansas	Stanton	pcnt_physically_inactive	27
+20189	Kansas	Stevens	pcnt_physically_inactive	27
+20191	Kansas	Sumner	pcnt_physically_inactive	29
+20193	Kansas	Thomas	pcnt_physically_inactive	22
+20195	Kansas	Trego	pcnt_physically_inactive	31
+20197	Kansas	Wabaunsee	pcnt_physically_inactive	26
+20199	Kansas	Wallace	pcnt_physically_inactive	30
+20201	Kansas	Washington	pcnt_physically_inactive	25
+20203	Kansas	Wichita	pcnt_physically_inactive	31
+20205	Kansas	Wilson	pcnt_physically_inactive	27
+20207	Kansas	Woodson	pcnt_physically_inactive	33
+20209	Kansas	Wyandotte	pcnt_physically_inactive	33
+21001	Kentucky	Adair	pcnt_physically_inactive	39
+21003	Kentucky	Allen	pcnt_physically_inactive	29
+21005	Kentucky	Anderson	pcnt_physically_inactive	35
+21007	Kentucky	Ballard	pcnt_physically_inactive	34
+21009	Kentucky	Barren	pcnt_physically_inactive	31
+21011	Kentucky	Bath	pcnt_physically_inactive	36
+21013	Kentucky	Bell	pcnt_physically_inactive	33
+21015	Kentucky	Boone	pcnt_physically_inactive	28
+21017	Kentucky	Bourbon	pcnt_physically_inactive	37
+21019	Kentucky	Boyd	pcnt_physically_inactive	34
+21021	Kentucky	Boyle	pcnt_physically_inactive	31
+21023	Kentucky	Bracken	pcnt_physically_inactive	32
+21025	Kentucky	Breathitt	pcnt_physically_inactive	35
+21027	Kentucky	Breckinridge	pcnt_physically_inactive	33
+21029	Kentucky	Bullitt	pcnt_physically_inactive	34
+21031	Kentucky	Butler	pcnt_physically_inactive	31
+21033	Kentucky	Caldwell	pcnt_physically_inactive	33
+21035	Kentucky	Calloway	pcnt_physically_inactive	24
+21037	Kentucky	Campbell	pcnt_physically_inactive	27
+21039	Kentucky	Carlisle	pcnt_physically_inactive	31
+21041	Kentucky	Carroll	pcnt_physically_inactive	35
+21043	Kentucky	Carter	pcnt_physically_inactive	43
+21045	Kentucky	Casey	pcnt_physically_inactive	37
+21047	Kentucky	Christian	pcnt_physically_inactive	33
+21049	Kentucky	Clark	pcnt_physically_inactive	30
+21051	Kentucky	Clay	pcnt_physically_inactive	36
+21053	Kentucky	Clinton	pcnt_physically_inactive	38
+21055	Kentucky	Crittenden	pcnt_physically_inactive	40
+21057	Kentucky	Cumberland	pcnt_physically_inactive	34
+21059	Kentucky	Daviess	pcnt_physically_inactive	29
+21061	Kentucky	Edmonson	pcnt_physically_inactive	29
+21063	Kentucky	Elliott	pcnt_physically_inactive	39
+21065	Kentucky	Estill	pcnt_physically_inactive	38
+21067	Kentucky	Fayette	pcnt_physically_inactive	24
+21069	Kentucky	Fleming	pcnt_physically_inactive	36
+21071	Kentucky	Floyd	pcnt_physically_inactive	41
+21073	Kentucky	Franklin	pcnt_physically_inactive	32
+21075	Kentucky	Fulton	pcnt_physically_inactive	38
+21077	Kentucky	Gallatin	pcnt_physically_inactive	38
+21079	Kentucky	Garrard	pcnt_physically_inactive	36
+21081	Kentucky	Grant	pcnt_physically_inactive	37
+21083	Kentucky	Graves	pcnt_physically_inactive	32
+21085	Kentucky	Grayson	pcnt_physically_inactive	34
+21087	Kentucky	Green	pcnt_physically_inactive	38
+21089	Kentucky	Greenup	pcnt_physically_inactive	34
+21091	Kentucky	Hancock	pcnt_physically_inactive	32
+21093	Kentucky	Hardin	pcnt_physically_inactive	30
+21095	Kentucky	Harlan	pcnt_physically_inactive	36
+21097	Kentucky	Harrison	pcnt_physically_inactive	35
+21099	Kentucky	Hart	pcnt_physically_inactive	37
+21101	Kentucky	Henderson	pcnt_physically_inactive	28
+21103	Kentucky	Henry	pcnt_physically_inactive	34
+21105	Kentucky	Hickman	pcnt_physically_inactive	34
+21107	Kentucky	Hopkins	pcnt_physically_inactive	35
+21109	Kentucky	Jackson	pcnt_physically_inactive	37
+21111	Kentucky	Jefferson	pcnt_physically_inactive	29
+21113	Kentucky	Jessamine	pcnt_physically_inactive	31
+21115	Kentucky	Johnson	pcnt_physically_inactive	35
+21117	Kentucky	Kenton	pcnt_physically_inactive	27
+21119	Kentucky	Knott	pcnt_physically_inactive	37
+21121	Kentucky	Knox	pcnt_physically_inactive	36
+21123	Kentucky	Larue	pcnt_physically_inactive	32
+21125	Kentucky	Laurel	pcnt_physically_inactive	36
+21127	Kentucky	Lawrence	pcnt_physically_inactive	37
+21129	Kentucky	Lee	pcnt_physically_inactive	36
+21131	Kentucky	Leslie	pcnt_physically_inactive	39
+21133	Kentucky	Letcher	pcnt_physically_inactive	37
+21135	Kentucky	Lewis	pcnt_physically_inactive	36
+21137	Kentucky	Lincoln	pcnt_physically_inactive	39
+21139	Kentucky	Livingston	pcnt_physically_inactive	36
+21141	Kentucky	Logan	pcnt_physically_inactive	35
+21143	Kentucky	Lyon	pcnt_physically_inactive	31
+21145	Kentucky	McCracken	pcnt_physically_inactive	30
+21147	Kentucky	McCreary	pcnt_physically_inactive	41
+21149	Kentucky	McLean	pcnt_physically_inactive	36
+21151	Kentucky	Madison	pcnt_physically_inactive	30
+21153	Kentucky	Magoffin	pcnt_physically_inactive	42
+21155	Kentucky	Marion	pcnt_physically_inactive	35
+21157	Kentucky	Marshall	pcnt_physically_inactive	27
+21159	Kentucky	Martin	pcnt_physically_inactive	38
+21161	Kentucky	Mason	pcnt_physically_inactive	31
+21163	Kentucky	Meade	pcnt_physically_inactive	32
+21165	Kentucky	Menifee	pcnt_physically_inactive	33
+21167	Kentucky	Mercer	pcnt_physically_inactive	35
+21169	Kentucky	Metcalfe	pcnt_physically_inactive	35
+21171	Kentucky	Monroe	pcnt_physically_inactive	34
+21173	Kentucky	Montgomery	pcnt_physically_inactive	32
+21175	Kentucky	Morgan	pcnt_physically_inactive	35
+21177	Kentucky	Muhlenberg	pcnt_physically_inactive	33
+21179	Kentucky	Nelson	pcnt_physically_inactive	29
+21181	Kentucky	Nicholas	pcnt_physically_inactive	36
+21183	Kentucky	Ohio	pcnt_physically_inactive	37
+21185	Kentucky	Oldham	pcnt_physically_inactive	28
+21187	Kentucky	Owen	pcnt_physically_inactive	37
+21189	Kentucky	Owsley	pcnt_physically_inactive	35
+21191	Kentucky	Pendleton	pcnt_physically_inactive	32
+21193	Kentucky	Perry	pcnt_physically_inactive	40
+21195	Kentucky	Pike	pcnt_physically_inactive	39
+21197	Kentucky	Powell	pcnt_physically_inactive	42
+21199	Kentucky	Pulaski	pcnt_physically_inactive	34
+21201	Kentucky	Robertson	pcnt_physically_inactive	36
+21203	Kentucky	Rockcastle	pcnt_physically_inactive	38
+21205	Kentucky	Rowan	pcnt_physically_inactive	30
+21207	Kentucky	Russell	pcnt_physically_inactive	34
+21209	Kentucky	Scott	pcnt_physically_inactive	31
+21211	Kentucky	Shelby	pcnt_physically_inactive	28
+21213	Kentucky	Simpson	pcnt_physically_inactive	36
+21215	Kentucky	Spencer	pcnt_physically_inactive	30
+21217	Kentucky	Taylor	pcnt_physically_inactive	28
+21219	Kentucky	Todd	pcnt_physically_inactive	37
+21221	Kentucky	Trigg	pcnt_physically_inactive	35
+21223	Kentucky	Trimble	pcnt_physically_inactive	35
+21225	Kentucky	Union	pcnt_physically_inactive	34
+21227	Kentucky	Warren	pcnt_physically_inactive	29
+21229	Kentucky	Washington	pcnt_physically_inactive	30
+21231	Kentucky	Wayne	pcnt_physically_inactive	42
+21233	Kentucky	Webster	pcnt_physically_inactive	35
+21235	Kentucky	Whitley	pcnt_physically_inactive	35
+21237	Kentucky	Wolfe	pcnt_physically_inactive	34
+21239	Kentucky	Woodford	pcnt_physically_inactive	28
+22001	Louisiana	Acadia	pcnt_physically_inactive	32
+22003	Louisiana	Allen	pcnt_physically_inactive	34
+22005	Louisiana	Ascension	pcnt_physically_inactive	28
+22007	Louisiana	Assumption	pcnt_physically_inactive	30
+22009	Louisiana	Avoyelles	pcnt_physically_inactive	37
+22011	Louisiana	Beauregard	pcnt_physically_inactive	31
+22013	Louisiana	Bienville	pcnt_physically_inactive	30
+22015	Louisiana	Bossier	pcnt_physically_inactive	27
+22017	Louisiana	Caddo	pcnt_physically_inactive	31
+22019	Louisiana	Calcasieu	pcnt_physically_inactive	30
+22021	Louisiana	Caldwell	pcnt_physically_inactive	32
+22023	Louisiana	Cameron	pcnt_physically_inactive	25
+22025	Louisiana	Catahoula	pcnt_physically_inactive	35
+22027	Louisiana	Claiborne	pcnt_physically_inactive	33
+22029	Louisiana	Concordia	pcnt_physically_inactive	33
+22031	Louisiana	De Soto	pcnt_physically_inactive	32
+22033	Louisiana	East Baton Rouge	pcnt_physically_inactive	26
+22035	Louisiana	East Carroll	pcnt_physically_inactive	33
+22037	Louisiana	East Feliciana	pcnt_physically_inactive	28
+22039	Louisiana	Evangeline	pcnt_physically_inactive	30
+22041	Louisiana	Franklin	pcnt_physically_inactive	37
+22043	Louisiana	Grant	pcnt_physically_inactive	33
+22045	Louisiana	Iberia	pcnt_physically_inactive	31
+22047	Louisiana	Iberville	pcnt_physically_inactive	33
+22049	Louisiana	Jackson	pcnt_physically_inactive	34
+22051	Louisiana	Jefferson	pcnt_physically_inactive	29
+22053	Louisiana	Jefferson Davis	pcnt_physically_inactive	32
+22055	Louisiana	Lafayette	pcnt_physically_inactive	25
+22057	Louisiana	Lafourche	pcnt_physically_inactive	31
+22059	Louisiana	La Salle	pcnt_physically_inactive	32
+22061	Louisiana	Lincoln	pcnt_physically_inactive	31
+22063	Louisiana	Livingston	pcnt_physically_inactive	30
+22065	Louisiana	Madison	pcnt_physically_inactive	35
+22067	Louisiana	Morehouse	pcnt_physically_inactive	36
+22069	Louisiana	Natchitoches	pcnt_physically_inactive	33
+22071	Louisiana	Orleans	pcnt_physically_inactive	29
+22073	Louisiana	Ouachita	pcnt_physically_inactive	30
+22075	Louisiana	Plaquemines	pcnt_physically_inactive	31
+22077	Louisiana	Pointe Coupee	pcnt_physically_inactive	31
+22079	Louisiana	Rapides	pcnt_physically_inactive	31
+22081	Louisiana	Red River	pcnt_physically_inactive	33
+22083	Louisiana	Richland	pcnt_physically_inactive	30
+22085	Louisiana	Sabine	pcnt_physically_inactive	33
+22087	Louisiana	St. Bernard	pcnt_physically_inactive	32
+22089	Louisiana	St. Charles	pcnt_physically_inactive	29
+22091	Louisiana	St. Helena	pcnt_physically_inactive	34
+22093	Louisiana	St. James	pcnt_physically_inactive	33
+22095	Louisiana	St. John the Baptist	pcnt_physically_inactive	32
+22097	Louisiana	St. Landry	pcnt_physically_inactive	33
+22099	Louisiana	St. Martin	pcnt_physically_inactive	30
+22101	Louisiana	St. Mary	pcnt_physically_inactive	33
+22103	Louisiana	St. Tammany	pcnt_physically_inactive	24
+22105	Louisiana	Tangipahoa	pcnt_physically_inactive	32
+22107	Louisiana	Tensas	pcnt_physically_inactive	34
+22109	Louisiana	Terrebonne	pcnt_physically_inactive	33
+22111	Louisiana	Union	pcnt_physically_inactive	36
+22113	Louisiana	Vermilion	pcnt_physically_inactive	28
+22115	Louisiana	Vernon	pcnt_physically_inactive	29
+22117	Louisiana	Washington	pcnt_physically_inactive	36
+22119	Louisiana	Webster	pcnt_physically_inactive	32
+22121	Louisiana	West Baton Rouge	pcnt_physically_inactive	29
+22123	Louisiana	West Carroll	pcnt_physically_inactive	33
+22125	Louisiana	West Feliciana	pcnt_physically_inactive	30
+22127	Louisiana	Winn	pcnt_physically_inactive	37
+23001	Maine	Androscoggin	pcnt_physically_inactive	27
+23003	Maine	Aroostook	pcnt_physically_inactive	33
+23005	Maine	Cumberland	pcnt_physically_inactive	17
+23007	Maine	Franklin	pcnt_physically_inactive	22
+23009	Maine	Hancock	pcnt_physically_inactive	20
+23011	Maine	Kennebec	pcnt_physically_inactive	23
+23013	Maine	Knox	pcnt_physically_inactive	21
+23015	Maine	Lincoln	pcnt_physically_inactive	21
+23017	Maine	Oxford	pcnt_physically_inactive	25
+23019	Maine	Penobscot	pcnt_physically_inactive	26
+23021	Maine	Piscataquis	pcnt_physically_inactive	25
+23023	Maine	Sagadahoc	pcnt_physically_inactive	20
+23025	Maine	Somerset	pcnt_physically_inactive	27
+23027	Maine	Waldo	pcnt_physically_inactive	23
+23029	Maine	Washington	pcnt_physically_inactive	31
+23031	Maine	York	pcnt_physically_inactive	21
+24001	Maryland	Allegany	pcnt_physically_inactive	32
+24003	Maryland	Anne Arundel	pcnt_physically_inactive	20
+24005	Maryland	Baltimore	pcnt_physically_inactive	28
+24009	Maryland	Calvert	pcnt_physically_inactive	23
+24011	Maryland	Caroline	pcnt_physically_inactive	30
+24013	Maryland	Carroll	pcnt_physically_inactive	21
+24015	Maryland	Cecil	pcnt_physically_inactive	28
+24017	Maryland	Charles	pcnt_physically_inactive	24
+24019	Maryland	Dorchester	pcnt_physically_inactive	31
+24021	Maryland	Frederick	pcnt_physically_inactive	22
+24023	Maryland	Garrett	pcnt_physically_inactive	31
+24025	Maryland	Harford	pcnt_physically_inactive	25
+24027	Maryland	Howard	pcnt_physically_inactive	18
+24029	Maryland	Kent	pcnt_physically_inactive	27
+24031	Maryland	Montgomery	pcnt_physically_inactive	17
+24033	Maryland	Prince George's	pcnt_physically_inactive	25
+24035	Maryland	Queen Anne's	pcnt_physically_inactive	24
+24037	Maryland	St. Mary's	pcnt_physically_inactive	23
+24039	Maryland	Somerset	pcnt_physically_inactive	32
+24041	Maryland	Talbot	pcnt_physically_inactive	23
+24043	Maryland	Washington	pcnt_physically_inactive	28
+24045	Maryland	Wicomico	pcnt_physically_inactive	28
+24047	Maryland	Worcester	pcnt_physically_inactive	25
+24510	Maryland	Baltimore City	pcnt_physically_inactive	31
+25001	Massachusetts	Barnstable	pcnt_physically_inactive	18
+25003	Massachusetts	Berkshire	pcnt_physically_inactive	23
+25005	Massachusetts	Bristol	pcnt_physically_inactive	29
+25007	Massachusetts	Dukes	pcnt_physically_inactive	19
+25009	Massachusetts	Essex	pcnt_physically_inactive	22
+25011	Massachusetts	Franklin	pcnt_physically_inactive	19
+25013	Massachusetts	Hampden	pcnt_physically_inactive	26
+25015	Massachusetts	Hampshire	pcnt_physically_inactive	17
+25017	Massachusetts	Middlesex	pcnt_physically_inactive	21
+25019	Massachusetts	Nantucket	pcnt_physically_inactive	20
+25021	Massachusetts	Norfolk	pcnt_physically_inactive	20
+25023	Massachusetts	Plymouth	pcnt_physically_inactive	21
+25025	Massachusetts	Suffolk	pcnt_physically_inactive	21
+25027	Massachusetts	Worcester	pcnt_physically_inactive	23
+26001	Michigan	Alcona	pcnt_physically_inactive	27
+26003	Michigan	Alger	pcnt_physically_inactive	25
+26005	Michigan	Allegan	pcnt_physically_inactive	24
+26007	Michigan	Alpena	pcnt_physically_inactive	23
+26009	Michigan	Antrim	pcnt_physically_inactive	24
+26011	Michigan	Arenac	pcnt_physically_inactive	26
+26013	Michigan	Baraga	pcnt_physically_inactive	24
+26015	Michigan	Barry	pcnt_physically_inactive	27
+26017	Michigan	Bay	pcnt_physically_inactive	26
+26019	Michigan	Benzie	pcnt_physically_inactive	25
+26021	Michigan	Berrien	pcnt_physically_inactive	29
+26023	Michigan	Branch	pcnt_physically_inactive	30
+26025	Michigan	Calhoun	pcnt_physically_inactive	28
+26027	Michigan	Cass	pcnt_physically_inactive	28
+26029	Michigan	Charlevoix	pcnt_physically_inactive	22
+26031	Michigan	Cheboygan	pcnt_physically_inactive	29
+26033	Michigan	Chippewa	pcnt_physically_inactive	23
+26035	Michigan	Clare	pcnt_physically_inactive	32
+26037	Michigan	Clinton	pcnt_physically_inactive	26
+26039	Michigan	Crawford	pcnt_physically_inactive	25
+26041	Michigan	Delta	pcnt_physically_inactive	26
+26043	Michigan	Dickinson	pcnt_physically_inactive	24
+26045	Michigan	Eaton	pcnt_physically_inactive	23
+26047	Michigan	Emmet	pcnt_physically_inactive	23
+26049	Michigan	Genesee	pcnt_physically_inactive	30
+26051	Michigan	Gladwin	pcnt_physically_inactive	29
+26053	Michigan	Gogebic	pcnt_physically_inactive	26
+26055	Michigan	Grand Traverse	pcnt_physically_inactive	20
+26057	Michigan	Gratiot	pcnt_physically_inactive	28
+26059	Michigan	Hillsdale	pcnt_physically_inactive	27
+26061	Michigan	Houghton	pcnt_physically_inactive	27
+26063	Michigan	Huron	pcnt_physically_inactive	24
+26065	Michigan	Ingham	pcnt_physically_inactive	22
+26067	Michigan	Ionia	pcnt_physically_inactive	24
+26069	Michigan	Iosco	pcnt_physically_inactive	25
+26071	Michigan	Iron	pcnt_physically_inactive	25
+26073	Michigan	Isabella	pcnt_physically_inactive	24
+26075	Michigan	Jackson	pcnt_physically_inactive	28
+26077	Michigan	Kalamazoo	pcnt_physically_inactive	22
+26079	Michigan	Kalkaska	pcnt_physically_inactive	26
+26081	Michigan	Kent	pcnt_physically_inactive	21
+26083	Michigan	Keweenaw	pcnt_physically_inactive	28
+26085	Michigan	Lake	pcnt_physically_inactive	26
+26087	Michigan	Lapeer	pcnt_physically_inactive	27
+26089	Michigan	Leelanau	pcnt_physically_inactive	29
+26091	Michigan	Lenawee	pcnt_physically_inactive	24
+26093	Michigan	Livingston	pcnt_physically_inactive	19
+26095	Michigan	Luce	pcnt_physically_inactive	27
+26097	Michigan	Mackinac	pcnt_physically_inactive	27
+26099	Michigan	Macomb	pcnt_physically_inactive	25
+26101	Michigan	Manistee	pcnt_physically_inactive	29
+26103	Michigan	Marquette	pcnt_physically_inactive	21
+26105	Michigan	Mason	pcnt_physically_inactive	29
+26107	Michigan	Mecosta	pcnt_physically_inactive	26
+26109	Michigan	Menominee	pcnt_physically_inactive	27
+26111	Michigan	Midland	pcnt_physically_inactive	22
+26113	Michigan	Missaukee	pcnt_physically_inactive	26
+26115	Michigan	Monroe	pcnt_physically_inactive	28
+26117	Michigan	Montcalm	pcnt_physically_inactive	23
+26119	Michigan	Montmorency	pcnt_physically_inactive	27
+26121	Michigan	Muskegon	pcnt_physically_inactive	26
+26123	Michigan	Newaygo	pcnt_physically_inactive	26
+26125	Michigan	Oakland	pcnt_physically_inactive	21
+26127	Michigan	Oceana	pcnt_physically_inactive	26
+26129	Michigan	Ogemaw	pcnt_physically_inactive	31
+26131	Michigan	Ontonagon	pcnt_physically_inactive	23
+26133	Michigan	Osceola	pcnt_physically_inactive	28
+26135	Michigan	Oscoda	pcnt_physically_inactive	29
+26137	Michigan	Otsego	pcnt_physically_inactive	25
+26139	Michigan	Ottawa	pcnt_physically_inactive	21
+26141	Michigan	Presque Isle	pcnt_physically_inactive	26
+26143	Michigan	Roscommon	pcnt_physically_inactive	33
+26145	Michigan	Saginaw	pcnt_physically_inactive	31
+26147	Michigan	St. Clair	pcnt_physically_inactive	25
+26149	Michigan	St. Joseph	pcnt_physically_inactive	26
+26151	Michigan	Sanilac	pcnt_physically_inactive	29
+26153	Michigan	Schoolcraft	pcnt_physically_inactive	26
+26155	Michigan	Shiawassee	pcnt_physically_inactive	27
+26157	Michigan	Tuscola	pcnt_physically_inactive	28
+26159	Michigan	Van Buren	pcnt_physically_inactive	28
+26161	Michigan	Washtenaw	pcnt_physically_inactive	19
+26163	Michigan	Wayne	pcnt_physically_inactive	28
+26165	Michigan	Wexford	pcnt_physically_inactive	29
+27001	Minnesota	Aitkin	pcnt_physically_inactive	23
+27003	Minnesota	Anoka	pcnt_physically_inactive	21
+27005	Minnesota	Becker	pcnt_physically_inactive	23
+27007	Minnesota	Beltrami	pcnt_physically_inactive	22
+27009	Minnesota	Benton	pcnt_physically_inactive	21
+27011	Minnesota	Big Stone	pcnt_physically_inactive	23
+27013	Minnesota	Blue Earth	pcnt_physically_inactive	25
+27015	Minnesota	Brown	pcnt_physically_inactive	24
+27017	Minnesota	Carlton	pcnt_physically_inactive	20
+27019	Minnesota	Carver	pcnt_physically_inactive	17
+27021	Minnesota	Cass	pcnt_physically_inactive	23
+27023	Minnesota	Chippewa	pcnt_physically_inactive	22
+27025	Minnesota	Chisago	pcnt_physically_inactive	19
+27027	Minnesota	Clay	pcnt_physically_inactive	23
+27029	Minnesota	Clearwater	pcnt_physically_inactive	23
+27031	Minnesota	Cook	pcnt_physically_inactive	20
+27033	Minnesota	Cottonwood	pcnt_physically_inactive	27
+27035	Minnesota	Crow Wing	pcnt_physically_inactive	19
+27037	Minnesota	Dakota	pcnt_physically_inactive	17
+27039	Minnesota	Dodge	pcnt_physically_inactive	20
+27041	Minnesota	Douglas	pcnt_physically_inactive	20
+27043	Minnesota	Faribault	pcnt_physically_inactive	25
+27045	Minnesota	Fillmore	pcnt_physically_inactive	23
+27047	Minnesota	Freeborn	pcnt_physically_inactive	23
+27049	Minnesota	Goodhue	pcnt_physically_inactive	19
+27051	Minnesota	Grant	pcnt_physically_inactive	23
+27053	Minnesota	Hennepin	pcnt_physically_inactive	16
+27055	Minnesota	Houston	pcnt_physically_inactive	21
+27057	Minnesota	Hubbard	pcnt_physically_inactive	21
+27059	Minnesota	Isanti	pcnt_physically_inactive	19
+27061	Minnesota	Itasca	pcnt_physically_inactive	19
+27063	Minnesota	Jackson	pcnt_physically_inactive	24
+27065	Minnesota	Kanabec	pcnt_physically_inactive	22
+27067	Minnesota	Kandiyohi	pcnt_physically_inactive	24
+27069	Minnesota	Kittson	pcnt_physically_inactive	25
+27071	Minnesota	Koochiching	pcnt_physically_inactive	22
+27073	Minnesota	Lac qui Parle	pcnt_physically_inactive	22
+27075	Minnesota	Lake	pcnt_physically_inactive	24
+27077	Minnesota	Lake of the Woods	pcnt_physically_inactive	24
+27079	Minnesota	Le Sueur	pcnt_physically_inactive	22
+27081	Minnesota	Lincoln	pcnt_physically_inactive	24
+27083	Minnesota	Lyon	pcnt_physically_inactive	23
+27085	Minnesota	McLeod	pcnt_physically_inactive	19
+27087	Minnesota	Mahnomen	pcnt_physically_inactive	28
+27089	Minnesota	Marshall	pcnt_physically_inactive	22
+27091	Minnesota	Martin	pcnt_physically_inactive	22
+27093	Minnesota	Meeker	pcnt_physically_inactive	25
+27095	Minnesota	Mille Lacs	pcnt_physically_inactive	24
+27097	Minnesota	Morrison	pcnt_physically_inactive	22
+27099	Minnesota	Mower	pcnt_physically_inactive	23
+27101	Minnesota	Murray	pcnt_physically_inactive	21
+27103	Minnesota	Nicollet	pcnt_physically_inactive	17
+27105	Minnesota	Nobles	pcnt_physically_inactive	23
+27107	Minnesota	Norman	pcnt_physically_inactive	23
+27109	Minnesota	Olmsted	pcnt_physically_inactive	18
+27111	Minnesota	Otter Tail	pcnt_physically_inactive	25
+27113	Minnesota	Pennington	pcnt_physically_inactive	24
+27115	Minnesota	Pine	pcnt_physically_inactive	21
+27117	Minnesota	Pipestone	pcnt_physically_inactive	21
+27119	Minnesota	Polk	pcnt_physically_inactive	27
+27121	Minnesota	Pope	pcnt_physically_inactive	26
+27123	Minnesota	Ramsey	pcnt_physically_inactive	15
+27125	Minnesota	Red Lake	pcnt_physically_inactive	21
+27127	Minnesota	Redwood	pcnt_physically_inactive	23
+27129	Minnesota	Renville	pcnt_physically_inactive	25
+27131	Minnesota	Rice	pcnt_physically_inactive	17
+27133	Minnesota	Rock	pcnt_physically_inactive	24
+27135	Minnesota	Roseau	pcnt_physically_inactive	23
+27137	Minnesota	St. Louis	pcnt_physically_inactive	18
+27139	Minnesota	Scott	pcnt_physically_inactive	17
+27141	Minnesota	Sherburne	pcnt_physically_inactive	22
+27143	Minnesota	Sibley	pcnt_physically_inactive	24
+27145	Minnesota	Stearns	pcnt_physically_inactive	19
+27147	Minnesota	Steele	pcnt_physically_inactive	22
+27149	Minnesota	Stevens	pcnt_physically_inactive	22
+27151	Minnesota	Swift	pcnt_physically_inactive	28
+27153	Minnesota	Todd	pcnt_physically_inactive	28
+27155	Minnesota	Traverse	pcnt_physically_inactive	25
+27157	Minnesota	Wabasha	pcnt_physically_inactive	24
+27159	Minnesota	Wadena	pcnt_physically_inactive	24
+27161	Minnesota	Waseca	pcnt_physically_inactive	24
+27163	Minnesota	Washington	pcnt_physically_inactive	16
+27165	Minnesota	Watonwan	pcnt_physically_inactive	24
+27167	Minnesota	Wilkin	pcnt_physically_inactive	27
+27169	Minnesota	Winona	pcnt_physically_inactive	20
+27171	Minnesota	Wright	pcnt_physically_inactive	18
+27173	Minnesota	Yellow Medicine	pcnt_physically_inactive	21
+28001	Mississippi	Adams	pcnt_physically_inactive	40
+28003	Mississippi	Alcorn	pcnt_physically_inactive	35
+28005	Mississippi	Amite	pcnt_physically_inactive	33
+28007	Mississippi	Attala	pcnt_physically_inactive	36
+28009	Mississippi	Benton	pcnt_physically_inactive	34
+28011	Mississippi	Bolivar	pcnt_physically_inactive	32
+28013	Mississippi	Calhoun	pcnt_physically_inactive	37
+28015	Mississippi	Carroll	pcnt_physically_inactive	33
+28017	Mississippi	Chickasaw	pcnt_physically_inactive	34
+28019	Mississippi	Choctaw	pcnt_physically_inactive	30
+28021	Mississippi	Claiborne	pcnt_physically_inactive	40
+28023	Mississippi	Clarke	pcnt_physically_inactive	39
+28025	Mississippi	Clay	pcnt_physically_inactive	38
+28027	Mississippi	Coahoma	pcnt_physically_inactive	37
+28029	Mississippi	Copiah	pcnt_physically_inactive	38
+28031	Mississippi	Covington	pcnt_physically_inactive	31
+28033	Mississippi	DeSoto	pcnt_physically_inactive	30
+28035	Mississippi	Forrest	pcnt_physically_inactive	32
+28037	Mississippi	Franklin	pcnt_physically_inactive	39
+28039	Mississippi	George	pcnt_physically_inactive	33
+28041	Mississippi	Greene	pcnt_physically_inactive	32
+28043	Mississippi	Grenada	pcnt_physically_inactive	36
+28045	Mississippi	Hancock	pcnt_physically_inactive	30
+28047	Mississippi	Harrison	pcnt_physically_inactive	30
+28049	Mississippi	Hinds	pcnt_physically_inactive	35
+28051	Mississippi	Holmes	pcnt_physically_inactive	35
+28053	Mississippi	Humphreys	pcnt_physically_inactive	34
+28055	Mississippi	Issaquena	pcnt_physically_inactive	34
+28057	Mississippi	Itawamba	pcnt_physically_inactive	36
+28059	Mississippi	Jackson	pcnt_physically_inactive	29
+28061	Mississippi	Jasper	pcnt_physically_inactive	36
+28063	Mississippi	Jefferson	pcnt_physically_inactive	38
+28065	Mississippi	Jefferson Davis	pcnt_physically_inactive	32
+28067	Mississippi	Jones	pcnt_physically_inactive	33
+28069	Mississippi	Kemper	pcnt_physically_inactive	34
+28071	Mississippi	Lafayette	pcnt_physically_inactive	28
+28073	Mississippi	Lamar	pcnt_physically_inactive	29
+28075	Mississippi	Lauderdale	pcnt_physically_inactive	30
+28077	Mississippi	Lawrence	pcnt_physically_inactive	35
+28079	Mississippi	Leake	pcnt_physically_inactive	39
+28081	Mississippi	Lee	pcnt_physically_inactive	31
+28083	Mississippi	Leflore	pcnt_physically_inactive	35
+28085	Mississippi	Lincoln	pcnt_physically_inactive	35
+28087	Mississippi	Lowndes	pcnt_physically_inactive	34
+28089	Mississippi	Madison	pcnt_physically_inactive	26
+28091	Mississippi	Marion	pcnt_physically_inactive	30
+28093	Mississippi	Marshall	pcnt_physically_inactive	38
+28095	Mississippi	Monroe	pcnt_physically_inactive	37
+28097	Mississippi	Montgomery	pcnt_physically_inactive	37
+28099	Mississippi	Neshoba	pcnt_physically_inactive	34
+28101	Mississippi	Newton	pcnt_physically_inactive	34
+28103	Mississippi	Noxubee	pcnt_physically_inactive	34
+28105	Mississippi	Oktibbeha	pcnt_physically_inactive	26
+28107	Mississippi	Panola	pcnt_physically_inactive	37
+28109	Mississippi	Pearl River	pcnt_physically_inactive	30
+28111	Mississippi	Perry	pcnt_physically_inactive	37
+28113	Mississippi	Pike	pcnt_physically_inactive	36
+28115	Mississippi	Pontotoc	pcnt_physically_inactive	35
+28117	Mississippi	Prentiss	pcnt_physically_inactive	33
+28119	Mississippi	Quitman	pcnt_physically_inactive	35
+28121	Mississippi	Rankin	pcnt_physically_inactive	28
+28123	Mississippi	Scott	pcnt_physically_inactive	35
+28125	Mississippi	Sharkey	pcnt_physically_inactive	36
+28127	Mississippi	Simpson	pcnt_physically_inactive	33
+28129	Mississippi	Smith	pcnt_physically_inactive	36
+28131	Mississippi	Stone	pcnt_physically_inactive	31
+28133	Mississippi	Sunflower	pcnt_physically_inactive	34
+28135	Mississippi	Tallahatchie	pcnt_physically_inactive	34
+28137	Mississippi	Tate	pcnt_physically_inactive	33
+28139	Mississippi	Tippah	pcnt_physically_inactive	40
+28141	Mississippi	Tishomingo	pcnt_physically_inactive	31
+28143	Mississippi	Tunica	pcnt_physically_inactive	39
+28145	Mississippi	Union	pcnt_physically_inactive	32
+28147	Mississippi	Walthall	pcnt_physically_inactive	36
+28149	Mississippi	Warren	pcnt_physically_inactive	31
+28151	Mississippi	Washington	pcnt_physically_inactive	37
+28153	Mississippi	Wayne	pcnt_physically_inactive	33
+28155	Mississippi	Webster	pcnt_physically_inactive	35
+28157	Mississippi	Wilkinson	pcnt_physically_inactive	36
+28159	Mississippi	Winston	pcnt_physically_inactive	35
+28161	Mississippi	Yalobusha	pcnt_physically_inactive	35
+28163	Mississippi	Yazoo	pcnt_physically_inactive	35
+29001	Missouri	Adair	pcnt_physically_inactive	31
+29003	Missouri	Andrew	pcnt_physically_inactive	25
+29005	Missouri	Atchison	pcnt_physically_inactive	29
+29007	Missouri	Audrain	pcnt_physically_inactive	32
+29009	Missouri	Barry	pcnt_physically_inactive	33
+29011	Missouri	Barton	pcnt_physically_inactive	29
+29013	Missouri	Bates	pcnt_physically_inactive	29
+29015	Missouri	Benton	pcnt_physically_inactive	33
+29017	Missouri	Bollinger	pcnt_physically_inactive	33
+29019	Missouri	Boone	pcnt_physically_inactive	21
+29021	Missouri	Buchanan	pcnt_physically_inactive	31
+29023	Missouri	Butler	pcnt_physically_inactive	33
+29025	Missouri	Caldwell	pcnt_physically_inactive	32
+29027	Missouri	Callaway	pcnt_physically_inactive	29
+29029	Missouri	Camden	pcnt_physically_inactive	33
+29031	Missouri	Cape Girardeau	pcnt_physically_inactive	28
+29033	Missouri	Carroll	pcnt_physically_inactive	27
+29035	Missouri	Carter	pcnt_physically_inactive	31
+29037	Missouri	Cass	pcnt_physically_inactive	28
+29039	Missouri	Cedar	pcnt_physically_inactive	30
+29041	Missouri	Chariton	pcnt_physically_inactive	31
+29043	Missouri	Christian	pcnt_physically_inactive	26
+29045	Missouri	Clark	pcnt_physically_inactive	32
+29047	Missouri	Clay	pcnt_physically_inactive	27
+29049	Missouri	Clinton	pcnt_physically_inactive	30
+29051	Missouri	Cole	pcnt_physically_inactive	26
+29053	Missouri	Cooper	pcnt_physically_inactive	26
+29055	Missouri	Crawford	pcnt_physically_inactive	29
+29057	Missouri	Dade	pcnt_physically_inactive	29
+29059	Missouri	Dallas	pcnt_physically_inactive	30
+29061	Missouri	Daviess	pcnt_physically_inactive	29
+29063	Missouri	DeKalb	pcnt_physically_inactive	30
+29065	Missouri	Dent	pcnt_physically_inactive	31
+29067	Missouri	Douglas	pcnt_physically_inactive	30
+29069	Missouri	Dunklin	pcnt_physically_inactive	42
+29071	Missouri	Franklin	pcnt_physically_inactive	27
+29073	Missouri	Gasconade	pcnt_physically_inactive	33
+29075	Missouri	Gentry	pcnt_physically_inactive	31
+29077	Missouri	Greene	pcnt_physically_inactive	26
+29079	Missouri	Grundy	pcnt_physically_inactive	28
+29081	Missouri	Harrison	pcnt_physically_inactive	32
+29083	Missouri	Henry	pcnt_physically_inactive	32
+29085	Missouri	Hickory	pcnt_physically_inactive	30
+29087	Missouri	Holt	pcnt_physically_inactive	29
+29089	Missouri	Howard	pcnt_physically_inactive	33
+29091	Missouri	Howell	pcnt_physically_inactive	31
+29093	Missouri	Iron	pcnt_physically_inactive	30
+29095	Missouri	Jackson	pcnt_physically_inactive	26
+29097	Missouri	Jasper	pcnt_physically_inactive	27
+29099	Missouri	Jefferson	pcnt_physically_inactive	31
+29101	Missouri	Johnson	pcnt_physically_inactive	29
+29103	Missouri	Knox	pcnt_physically_inactive	32
+29105	Missouri	Laclede	pcnt_physically_inactive	35
+29107	Missouri	Lafayette	pcnt_physically_inactive	28
+29109	Missouri	Lawrence	pcnt_physically_inactive	30
+29111	Missouri	Lewis	pcnt_physically_inactive	30
+29113	Missouri	Lincoln	pcnt_physically_inactive	27
+29115	Missouri	Linn	pcnt_physically_inactive	35
+29117	Missouri	Livingston	pcnt_physically_inactive	34
+29119	Missouri	McDonald	pcnt_physically_inactive	32
+29121	Missouri	Macon	pcnt_physically_inactive	31
+29123	Missouri	Madison	pcnt_physically_inactive	30
+29125	Missouri	Maries	pcnt_physically_inactive	31
+29127	Missouri	Marion	pcnt_physically_inactive	32
+29129	Missouri	Mercer	pcnt_physically_inactive	36
+29131	Missouri	Miller	pcnt_physically_inactive	31
+29133	Missouri	Mississippi	pcnt_physically_inactive	38
+29135	Missouri	Moniteau	pcnt_physically_inactive	32
+29137	Missouri	Monroe	pcnt_physically_inactive	29
+29139	Missouri	Montgomery	pcnt_physically_inactive	30
+29141	Missouri	Morgan	pcnt_physically_inactive	38
+29143	Missouri	New Madrid	pcnt_physically_inactive	32
+29145	Missouri	Newton	pcnt_physically_inactive	32
+29147	Missouri	Nodaway	pcnt_physically_inactive	30
+29149	Missouri	Oregon	pcnt_physically_inactive	35
+29151	Missouri	Osage	pcnt_physically_inactive	28
+29153	Missouri	Ozark	pcnt_physically_inactive	32
+29155	Missouri	Pemiscot	pcnt_physically_inactive	37
+29157	Missouri	Perry	pcnt_physically_inactive	27
+29159	Missouri	Pettis	pcnt_physically_inactive	33
+29161	Missouri	Phelps	pcnt_physically_inactive	28
+29163	Missouri	Pike	pcnt_physically_inactive	32
+29165	Missouri	Platte	pcnt_physically_inactive	28
+29167	Missouri	Polk	pcnt_physically_inactive	28
+29169	Missouri	Pulaski	pcnt_physically_inactive	27
+29171	Missouri	Putnam	pcnt_physically_inactive	31
+29173	Missouri	Ralls	pcnt_physically_inactive	29
+29175	Missouri	Randolph	pcnt_physically_inactive	32
+29177	Missouri	Ray	pcnt_physically_inactive	32
+29179	Missouri	Reynolds	pcnt_physically_inactive	35
+29181	Missouri	Ripley	pcnt_physically_inactive	36
+29183	Missouri	St. Charles	pcnt_physically_inactive	25
+29185	Missouri	St. Clair	pcnt_physically_inactive	33
+29186	Missouri	Ste. Genevieve	pcnt_physically_inactive	34
+29187	Missouri	St. Francois	pcnt_physically_inactive	28
+29189	Missouri	St. Louis	pcnt_physically_inactive	25
+29195	Missouri	Saline	pcnt_physically_inactive	30
+29197	Missouri	Schuyler	pcnt_physically_inactive	31
+29199	Missouri	Scotland	pcnt_physically_inactive	29
+29201	Missouri	Scott	pcnt_physically_inactive	34
+29203	Missouri	Shannon	pcnt_physically_inactive	32
+29205	Missouri	Shelby	pcnt_physically_inactive	31
+29207	Missouri	Stoddard	pcnt_physically_inactive	41
+29209	Missouri	Stone	pcnt_physically_inactive	29
+29211	Missouri	Sullivan	pcnt_physically_inactive	31
+29213	Missouri	Taney	pcnt_physically_inactive	31
+29215	Missouri	Texas	pcnt_physically_inactive	33
+29217	Missouri	Vernon	pcnt_physically_inactive	32
+29219	Missouri	Warren	pcnt_physically_inactive	29
+29221	Missouri	Washington	pcnt_physically_inactive	28
+29223	Missouri	Wayne	pcnt_physically_inactive	32
+29225	Missouri	Webster	pcnt_physically_inactive	26
+29227	Missouri	Worth	pcnt_physically_inactive	31
+29229	Missouri	Wright	pcnt_physically_inactive	36
+29510	Missouri	St. Louis City	pcnt_physically_inactive	28
+30001	Montana	Beaverhead	pcnt_physically_inactive	21
+30003	Montana	Big Horn	pcnt_physically_inactive	27
+30005	Montana	Blaine	pcnt_physically_inactive	34
+30007	Montana	Broadwater	pcnt_physically_inactive	25
+30009	Montana	Carbon	pcnt_physically_inactive	26
+30011	Montana	Carter	pcnt_physically_inactive	33
+30013	Montana	Cascade	pcnt_physically_inactive	24
+30015	Montana	Chouteau	pcnt_physically_inactive	29
+30017	Montana	Custer	pcnt_physically_inactive	25
+30019	Montana	Daniels	pcnt_physically_inactive	26
+30021	Montana	Dawson	pcnt_physically_inactive	31
+30023	Montana	Deer Lodge	pcnt_physically_inactive	24
+30025	Montana	Fallon	pcnt_physically_inactive	33
+30027	Montana	Fergus	pcnt_physically_inactive	24
+30029	Montana	Flathead	pcnt_physically_inactive	20
+30031	Montana	Gallatin	pcnt_physically_inactive	17
+30033	Montana	Garfield	pcnt_physically_inactive	28
+30035	Montana	Glacier	pcnt_physically_inactive	31
+30037	Montana	Golden Valley	pcnt_physically_inactive	26
+30039	Montana	Granite	pcnt_physically_inactive	26
+30041	Montana	Hill	pcnt_physically_inactive	29
+30043	Montana	Jefferson	pcnt_physically_inactive	20
+30045	Montana	Judith Basin	pcnt_physically_inactive	30
+30047	Montana	Lake	pcnt_physically_inactive	23
+30049	Montana	Lewis and Clark	pcnt_physically_inactive	19
+30051	Montana	Liberty	pcnt_physically_inactive	35
+30053	Montana	Lincoln	pcnt_physically_inactive	25
+30055	Montana	McCone	pcnt_physically_inactive	28
+30057	Montana	Madison	pcnt_physically_inactive	28
+30059	Montana	Meagher	pcnt_physically_inactive	29
+30061	Montana	Mineral	pcnt_physically_inactive	31
+30063	Montana	Missoula	pcnt_physically_inactive	16
+30065	Montana	Musselshell	pcnt_physically_inactive	29
+30067	Montana	Park	pcnt_physically_inactive	22
+30069	Montana	Petroleum	pcnt_physically_inactive	26
+30071	Montana	Phillips	pcnt_physically_inactive	33
+30073	Montana	Pondera	pcnt_physically_inactive	30
+30075	Montana	Powder River	pcnt_physically_inactive	31
+30077	Montana	Powell	pcnt_physically_inactive	26
+30079	Montana	Prairie	pcnt_physically_inactive	31
+30081	Montana	Ravalli	pcnt_physically_inactive	21
+30083	Montana	Richland	pcnt_physically_inactive	30
+30085	Montana	Roosevelt	pcnt_physically_inactive	33
+30087	Montana	Rosebud	pcnt_physically_inactive	30
+30089	Montana	Sanders	pcnt_physically_inactive	27
+30091	Montana	Sheridan	pcnt_physically_inactive	31
+30093	Montana	Silver Bow	pcnt_physically_inactive	26
+30095	Montana	Stillwater	pcnt_physically_inactive	24
+30097	Montana	Sweet Grass	pcnt_physically_inactive	30
+30099	Montana	Teton	pcnt_physically_inactive	27
+30101	Montana	Toole	pcnt_physically_inactive	27
+30103	Montana	Treasure	pcnt_physically_inactive	29
+30105	Montana	Valley	pcnt_physically_inactive	31
+30107	Montana	Wheatland	pcnt_physically_inactive	32
+30109	Montana	Wibaux	pcnt_physically_inactive	33
+30111	Montana	Yellowstone	pcnt_physically_inactive	24
+31001	Nebraska	Adams	pcnt_physically_inactive	24
+31003	Nebraska	Antelope	pcnt_physically_inactive	30
+31005	Nebraska	Arthur	pcnt_physically_inactive	29
+31007	Nebraska	Banner	pcnt_physically_inactive	28
+31009	Nebraska	Blaine	pcnt_physically_inactive	31
+31011	Nebraska	Boone	pcnt_physically_inactive	31
+31013	Nebraska	Box Butte	pcnt_physically_inactive	27
+31015	Nebraska	Boyd	pcnt_physically_inactive	32
+31017	Nebraska	Brown	pcnt_physically_inactive	30
+31019	Nebraska	Buffalo	pcnt_physically_inactive	23
+31021	Nebraska	Burt	pcnt_physically_inactive	34
+31023	Nebraska	Butler	pcnt_physically_inactive	30
+31025	Nebraska	Cass	pcnt_physically_inactive	27
+31027	Nebraska	Cedar	pcnt_physically_inactive	31
+31029	Nebraska	Chase	pcnt_physically_inactive	29
+31031	Nebraska	Cherry	pcnt_physically_inactive	30
+31033	Nebraska	Cheyenne	pcnt_physically_inactive	25
+31035	Nebraska	Clay	pcnt_physically_inactive	33
+31037	Nebraska	Colfax	pcnt_physically_inactive	29
+31039	Nebraska	Cuming	pcnt_physically_inactive	31
+31041	Nebraska	Custer	pcnt_physically_inactive	32
+31043	Nebraska	Dakota	pcnt_physically_inactive	31
+31045	Nebraska	Dawes	pcnt_physically_inactive	25
+31047	Nebraska	Dawson	pcnt_physically_inactive	27
+31049	Nebraska	Deuel	pcnt_physically_inactive	31
+31051	Nebraska	Dixon	pcnt_physically_inactive	32
+31053	Nebraska	Dodge	pcnt_physically_inactive	31
+31055	Nebraska	Douglas	pcnt_physically_inactive	24
+31057	Nebraska	Dundy	pcnt_physically_inactive	33
+31059	Nebraska	Fillmore	pcnt_physically_inactive	29
+31061	Nebraska	Franklin	pcnt_physically_inactive	35
+31063	Nebraska	Frontier	pcnt_physically_inactive	33
+31065	Nebraska	Furnas	pcnt_physically_inactive	28
+31067	Nebraska	Gage	pcnt_physically_inactive	29
+31069	Nebraska	Garden	pcnt_physically_inactive	33
+31071	Nebraska	Garfield	pcnt_physically_inactive	27
+31073	Nebraska	Gosper	pcnt_physically_inactive	28
+31075	Nebraska	Grant	pcnt_physically_inactive	32
+31077	Nebraska	Greeley	pcnt_physically_inactive	31
+31079	Nebraska	Hall	pcnt_physically_inactive	27
+31081	Nebraska	Hamilton	pcnt_physically_inactive	29
+31083	Nebraska	Harlan	pcnt_physically_inactive	31
+31085	Nebraska	Hayes	pcnt_physically_inactive	30
+31087	Nebraska	Hitchcock	pcnt_physically_inactive	34
+31089	Nebraska	Holt	pcnt_physically_inactive	33
+31091	Nebraska	Hooker	pcnt_physically_inactive	30
+31093	Nebraska	Howard	pcnt_physically_inactive	31
+31095	Nebraska	Jefferson	pcnt_physically_inactive	33
+31097	Nebraska	Johnson	pcnt_physically_inactive	30
+31099	Nebraska	Kearney	pcnt_physically_inactive	26
+31101	Nebraska	Keith	pcnt_physically_inactive	24
+31103	Nebraska	Keya Paha	pcnt_physically_inactive	36
+31105	Nebraska	Kimball	pcnt_physically_inactive	27
+31107	Nebraska	Knox	pcnt_physically_inactive	32
+31109	Nebraska	Lancaster	pcnt_physically_inactive	20
+31111	Nebraska	Lincoln	pcnt_physically_inactive	28
+31113	Nebraska	Logan	pcnt_physically_inactive	29
+31115	Nebraska	Loup	pcnt_physically_inactive	29
+31117	Nebraska	McPherson	pcnt_physically_inactive	29
+31119	Nebraska	Madison	pcnt_physically_inactive	24
+31121	Nebraska	Merrick	pcnt_physically_inactive	28
+31123	Nebraska	Morrill	pcnt_physically_inactive	29
+31125	Nebraska	Nance	pcnt_physically_inactive	32
+31127	Nebraska	Nemaha	pcnt_physically_inactive	31
+31129	Nebraska	Nuckolls	pcnt_physically_inactive	30
+31131	Nebraska	Otoe	pcnt_physically_inactive	29
+31133	Nebraska	Pawnee	pcnt_physically_inactive	35
+31135	Nebraska	Perkins	pcnt_physically_inactive	31
+31137	Nebraska	Phelps	pcnt_physically_inactive	27
+31139	Nebraska	Pierce	pcnt_physically_inactive	34
+31141	Nebraska	Platte	pcnt_physically_inactive	25
+31143	Nebraska	Polk	pcnt_physically_inactive	30
+31145	Nebraska	Red Willow	pcnt_physically_inactive	26
+31147	Nebraska	Richardson	pcnt_physically_inactive	34
+31149	Nebraska	Rock	pcnt_physically_inactive	32
+31151	Nebraska	Saline	pcnt_physically_inactive	28
+31153	Nebraska	Sarpy	pcnt_physically_inactive	20
+31155	Nebraska	Saunders	pcnt_physically_inactive	26
+31157	Nebraska	Scotts Bluff	pcnt_physically_inactive	28
+31159	Nebraska	Seward	pcnt_physically_inactive	24
+31161	Nebraska	Sheridan	pcnt_physically_inactive	32
+31163	Nebraska	Sherman	pcnt_physically_inactive	32
+31165	Nebraska	Sioux	pcnt_physically_inactive	29
+31167	Nebraska	Stanton	pcnt_physically_inactive	32
+31169	Nebraska	Thayer	pcnt_physically_inactive	31
+31171	Nebraska	Thomas	pcnt_physically_inactive	30
+31173	Nebraska	Thurston	pcnt_physically_inactive	35
+31175	Nebraska	Valley	pcnt_physically_inactive	31
+31177	Nebraska	Washington	pcnt_physically_inactive	23
+31179	Nebraska	Wayne	pcnt_physically_inactive	26
+31181	Nebraska	Webster	pcnt_physically_inactive	34
+31183	Nebraska	Wheeler	pcnt_physically_inactive	31
+31185	Nebraska	York	pcnt_physically_inactive	29
+32001	Nevada	Churchill	pcnt_physically_inactive	27
+32003	Nevada	Clark	pcnt_physically_inactive	25
+32005	Nevada	Douglas	pcnt_physically_inactive	18
+32007	Nevada	Elko	pcnt_physically_inactive	24
+32009	Nevada	Esmeralda	pcnt_physically_inactive	26
+32011	Nevada	Eureka	pcnt_physically_inactive	26
+32013	Nevada	Humboldt	pcnt_physically_inactive	25
+32015	Nevada	Lander	pcnt_physically_inactive	25
+32017	Nevada	Lincoln	pcnt_physically_inactive	26
+32019	Nevada	Lyon	pcnt_physically_inactive	27
+32021	Nevada	Mineral	pcnt_physically_inactive	30
+32023	Nevada	Nye	pcnt_physically_inactive	31
+32027	Nevada	Pershing	pcnt_physically_inactive	26
+32029	Nevada	Storey	pcnt_physically_inactive	23
+32031	Nevada	Washoe	pcnt_physically_inactive	17
+32033	Nevada	White Pine	pcnt_physically_inactive	25
+32510	Nevada	Carson City	pcnt_physically_inactive	21
+33001	New Hampshire	Belknap	pcnt_physically_inactive	22
+33003	New Hampshire	Carroll	pcnt_physically_inactive	21
+33005	New Hampshire	Cheshire	pcnt_physically_inactive	22
+33007	New Hampshire	Coos	pcnt_physically_inactive	29
+33009	New Hampshire	Grafton	pcnt_physically_inactive	20
+33011	New Hampshire	Hillsborough	pcnt_physically_inactive	22
+33013	New Hampshire	Merrimack	pcnt_physically_inactive	21
+33015	New Hampshire	Rockingham	pcnt_physically_inactive	20
+33017	New Hampshire	Strafford	pcnt_physically_inactive	23
+33019	New Hampshire	Sullivan	pcnt_physically_inactive	26
+34001	New Jersey	Atlantic	pcnt_physically_inactive	25
+34003	New Jersey	Bergen	pcnt_physically_inactive	24
+34005	New Jersey	Burlington	pcnt_physically_inactive	24
+34007	New Jersey	Camden	pcnt_physically_inactive	28
+34009	New Jersey	Cape May	pcnt_physically_inactive	24
+34011	New Jersey	Cumberland	pcnt_physically_inactive	31
+34013	New Jersey	Essex	pcnt_physically_inactive	28
+34015	New Jersey	Gloucester	pcnt_physically_inactive	25
+34017	New Jersey	Hudson	pcnt_physically_inactive	28
+34019	New Jersey	Hunterdon	pcnt_physically_inactive	19
+34021	New Jersey	Mercer	pcnt_physically_inactive	25
+34023	New Jersey	Middlesex	pcnt_physically_inactive	27
+34025	New Jersey	Monmouth	pcnt_physically_inactive	22
+34027	New Jersey	Morris	pcnt_physically_inactive	21
+34029	New Jersey	Ocean	pcnt_physically_inactive	26
+34031	New Jersey	Passaic	pcnt_physically_inactive	28
+34033	New Jersey	Salem	pcnt_physically_inactive	31
+34035	New Jersey	Somerset	pcnt_physically_inactive	21
+34037	New Jersey	Sussex	pcnt_physically_inactive	22
+34039	New Jersey	Union	pcnt_physically_inactive	25
+34041	New Jersey	Warren	pcnt_physically_inactive	26
+35001	New Mexico	Bernalillo	pcnt_physically_inactive	16
+35003	New Mexico	Catron	pcnt_physically_inactive	21
+35005	New Mexico	Chaves	pcnt_physically_inactive	27
+35006	New Mexico	Cibola	pcnt_physically_inactive	26
+35007	New Mexico	Colfax	pcnt_physically_inactive	25
+35009	New Mexico	Curry	pcnt_physically_inactive	28
+35011	New Mexico	De Baca	pcnt_physically_inactive	29
+35013	New Mexico	Dona Ana	pcnt_physically_inactive	18
+35015	New Mexico	Eddy	pcnt_physically_inactive	28
+35017	New Mexico	Grant	pcnt_physically_inactive	20
+35019	New Mexico	Guadalupe	pcnt_physically_inactive	24
+35021	New Mexico	Harding	pcnt_physically_inactive	22
+35023	New Mexico	Hidalgo	pcnt_physically_inactive	25
+35025	New Mexico	Lea	pcnt_physically_inactive	30
+35027	New Mexico	Lincoln	pcnt_physically_inactive	21
+35028	New Mexico	Los Alamos	pcnt_physically_inactive	15
+35029	New Mexico	Luna	pcnt_physically_inactive	23
+35031	New Mexico	McKinley	pcnt_physically_inactive	26
+35033	New Mexico	Mora	pcnt_physically_inactive	23
+35035	New Mexico	Otero	pcnt_physically_inactive	22
+35037	New Mexico	Quay	pcnt_physically_inactive	29
+35039	New Mexico	Rio Arriba	pcnt_physically_inactive	23
+35041	New Mexico	Roosevelt	pcnt_physically_inactive	28
+35043	New Mexico	Sandoval	pcnt_physically_inactive	19
+35045	New Mexico	San Juan	pcnt_physically_inactive	24
+35047	New Mexico	San Miguel	pcnt_physically_inactive	20
+35049	New Mexico	Santa Fe	pcnt_physically_inactive	12
+35051	New Mexico	Sierra	pcnt_physically_inactive	27
+35053	New Mexico	Socorro	pcnt_physically_inactive	22
+35055	New Mexico	Taos	pcnt_physically_inactive	16
+35057	New Mexico	Torrance	pcnt_physically_inactive	24
+35059	New Mexico	Union	pcnt_physically_inactive	26
+35061	New Mexico	Valencia	pcnt_physically_inactive	24
+36001	New York	Albany	pcnt_physically_inactive	23
+36003	New York	Allegany	pcnt_physically_inactive	27
+36005	New York	Bronx	pcnt_physically_inactive	30
+36007	New York	Broome	pcnt_physically_inactive	24
+36009	New York	Cattaraugus	pcnt_physically_inactive	27
+36011	New York	Cayuga	pcnt_physically_inactive	26
+36013	New York	Chautauqua	pcnt_physically_inactive	26
+36015	New York	Chemung	pcnt_physically_inactive	27
+36017	New York	Chenango	pcnt_physically_inactive	25
+36019	New York	Clinton	pcnt_physically_inactive	24
+36021	New York	Columbia	pcnt_physically_inactive	22
+36023	New York	Cortland	pcnt_physically_inactive	27
+36025	New York	Delaware	pcnt_physically_inactive	28
+36027	New York	Dutchess	pcnt_physically_inactive	23
+36029	New York	Erie	pcnt_physically_inactive	26
+36031	New York	Essex	pcnt_physically_inactive	23
+36033	New York	Franklin	pcnt_physically_inactive	26
+36035	New York	Fulton	pcnt_physically_inactive	27
+36037	New York	Genesee	pcnt_physically_inactive	25
+36039	New York	Greene	pcnt_physically_inactive	26
+36041	New York	Hamilton	pcnt_physically_inactive	23
+36043	New York	Herkimer	pcnt_physically_inactive	27
+36045	New York	Jefferson	pcnt_physically_inactive	27
+36047	New York	Kings	pcnt_physically_inactive	28
+36049	New York	Lewis	pcnt_physically_inactive	27
+36051	New York	Livingston	pcnt_physically_inactive	25
+36053	New York	Madison	pcnt_physically_inactive	23
+36055	New York	Monroe	pcnt_physically_inactive	21
+36057	New York	Montgomery	pcnt_physically_inactive	29
+36059	New York	Nassau	pcnt_physically_inactive	23
+36061	New York	New York	pcnt_physically_inactive	16
+36063	New York	Niagara	pcnt_physically_inactive	29
+36065	New York	Oneida	pcnt_physically_inactive	27
+36067	New York	Onondaga	pcnt_physically_inactive	22
+36069	New York	Ontario	pcnt_physically_inactive	20
+36071	New York	Orange	pcnt_physically_inactive	26
+36073	New York	Orleans	pcnt_physically_inactive	28
+36075	New York	Oswego	pcnt_physically_inactive	27
+36077	New York	Otsego	pcnt_physically_inactive	25
+36079	New York	Putnam	pcnt_physically_inactive	23
+36081	New York	Queens	pcnt_physically_inactive	28
+36083	New York	Rensselaer	pcnt_physically_inactive	24
+36085	New York	Richmond	pcnt_physically_inactive	29
+36087	New York	Rockland	pcnt_physically_inactive	25
+36089	New York	St. Lawrence	pcnt_physically_inactive	31
+36091	New York	Saratoga	pcnt_physically_inactive	24
+36093	New York	Schenectady	pcnt_physically_inactive	25
+36095	New York	Schoharie	pcnt_physically_inactive	28
+36097	New York	Schuyler	pcnt_physically_inactive	30
+36099	New York	Seneca	pcnt_physically_inactive	32
+36101	New York	Steuben	pcnt_physically_inactive	26
+36103	New York	Suffolk	pcnt_physically_inactive	23
+36105	New York	Sullivan	pcnt_physically_inactive	25
+36107	New York	Tioga	pcnt_physically_inactive	26
+36109	New York	Tompkins	pcnt_physically_inactive	21
+36111	New York	Ulster	pcnt_physically_inactive	24
+36113	New York	Warren	pcnt_physically_inactive	21
+36115	New York	Washington	pcnt_physically_inactive	31
+36117	New York	Wayne	pcnt_physically_inactive	24
+36119	New York	Westchester	pcnt_physically_inactive	19
+36121	New York	Wyoming	pcnt_physically_inactive	23
+36123	New York	Yates	pcnt_physically_inactive	27
+37001	North Carolina	Alamance	pcnt_physically_inactive	28
+37003	North Carolina	Alexander	pcnt_physically_inactive	25
+37005	North Carolina	Alleghany	pcnt_physically_inactive	30
+37007	North Carolina	Anson	pcnt_physically_inactive	30
+37009	North Carolina	Ashe	pcnt_physically_inactive	26
+37011	North Carolina	Avery	pcnt_physically_inactive	21
+37013	North Carolina	Beaufort	pcnt_physically_inactive	30
+37015	North Carolina	Bertie	pcnt_physically_inactive	31
+37017	North Carolina	Bladen	pcnt_physically_inactive	31
+37019	North Carolina	Brunswick	pcnt_physically_inactive	27
+37021	North Carolina	Buncombe	pcnt_physically_inactive	20
+37023	North Carolina	Burke	pcnt_physically_inactive	28
+37025	North Carolina	Cabarrus	pcnt_physically_inactive	23
+37027	North Carolina	Caldwell	pcnt_physically_inactive	28
+37029	North Carolina	Camden	pcnt_physically_inactive	26
+37031	North Carolina	Carteret	pcnt_physically_inactive	29
+37033	North Carolina	Caswell	pcnt_physically_inactive	29
+37035	North Carolina	Catawba	pcnt_physically_inactive	27
+37037	North Carolina	Chatham	pcnt_physically_inactive	22
+37039	North Carolina	Cherokee	pcnt_physically_inactive	28
+37041	North Carolina	Chowan	pcnt_physically_inactive	30
+37043	North Carolina	Clay	pcnt_physically_inactive	24
+37045	North Carolina	Cleveland	pcnt_physically_inactive	30
+37047	North Carolina	Columbus	pcnt_physically_inactive	29
+37049	North Carolina	Craven	pcnt_physically_inactive	27
+37051	North Carolina	Cumberland	pcnt_physically_inactive	30
+37053	North Carolina	Currituck	pcnt_physically_inactive	24
+37055	North Carolina	Dare	pcnt_physically_inactive	25
+37057	North Carolina	Davidson	pcnt_physically_inactive	30
+37059	North Carolina	Davie	pcnt_physically_inactive	29
+37061	North Carolina	Duplin	pcnt_physically_inactive	34
+37063	North Carolina	Durham	pcnt_physically_inactive	20
+37065	North Carolina	Edgecombe	pcnt_physically_inactive	31
+37067	North Carolina	Forsyth	pcnt_physically_inactive	21
+37069	North Carolina	Franklin	pcnt_physically_inactive	29
+37071	North Carolina	Gaston	pcnt_physically_inactive	29
+37073	North Carolina	Gates	pcnt_physically_inactive	30
+37075	North Carolina	Graham	pcnt_physically_inactive	28
+37077	North Carolina	Granville	pcnt_physically_inactive	27
+37079	North Carolina	Greene	pcnt_physically_inactive	29
+37081	North Carolina	Guilford	pcnt_physically_inactive	23
+37083	North Carolina	Halifax	pcnt_physically_inactive	34
+37085	North Carolina	Harnett	pcnt_physically_inactive	27
+37087	North Carolina	Haywood	pcnt_physically_inactive	24
+37089	North Carolina	Henderson	pcnt_physically_inactive	23
+37091	North Carolina	Hertford	pcnt_physically_inactive	35
+37093	North Carolina	Hoke	pcnt_physically_inactive	29
+37095	North Carolina	Hyde	pcnt_physically_inactive	31
+37097	North Carolina	Iredell	pcnt_physically_inactive	25
+37099	North Carolina	Jackson	pcnt_physically_inactive	25
+37101	North Carolina	Johnston	pcnt_physically_inactive	28
+37103	North Carolina	Jones	pcnt_physically_inactive	33
+37105	North Carolina	Lee	pcnt_physically_inactive	24
+37107	North Carolina	Lenoir	pcnt_physically_inactive	34
+37109	North Carolina	Lincoln	pcnt_physically_inactive	24
+37111	North Carolina	McDowell	pcnt_physically_inactive	31
+37113	North Carolina	Macon	pcnt_physically_inactive	25
+37115	North Carolina	Madison	pcnt_physically_inactive	22
+37117	North Carolina	Martin	pcnt_physically_inactive	29
+37119	North Carolina	Mecklenburg	pcnt_physically_inactive	20
+37121	North Carolina	Mitchell	pcnt_physically_inactive	26
+37123	North Carolina	Montgomery	pcnt_physically_inactive	28
+37125	North Carolina	Moore	pcnt_physically_inactive	24
+37127	North Carolina	Nash	pcnt_physically_inactive	29
+37129	North Carolina	New Hanover	pcnt_physically_inactive	21
+37131	North Carolina	Northampton	pcnt_physically_inactive	33
+37133	North Carolina	Onslow	pcnt_physically_inactive	23
+37135	North Carolina	Orange	pcnt_physically_inactive	16
+37137	North Carolina	Pamlico	pcnt_physically_inactive	27
+37139	North Carolina	Pasquotank	pcnt_physically_inactive	26
+37141	North Carolina	Pender	pcnt_physically_inactive	25
+37143	North Carolina	Perquimans	pcnt_physically_inactive	28
+37145	North Carolina	Person	pcnt_physically_inactive	28
+37147	North Carolina	Pitt	pcnt_physically_inactive	25
+37149	North Carolina	Polk	pcnt_physically_inactive	25
+37151	North Carolina	Randolph	pcnt_physically_inactive	30
+37153	North Carolina	Richmond	pcnt_physically_inactive	31
+37155	North Carolina	Robeson	pcnt_physically_inactive	39
+37157	North Carolina	Rockingham	pcnt_physically_inactive	31
+37159	North Carolina	Rowan	pcnt_physically_inactive	30
+37161	North Carolina	Rutherford	pcnt_physically_inactive	31
+37163	North Carolina	Sampson	pcnt_physically_inactive	29
+37165	North Carolina	Scotland	pcnt_physically_inactive	29
+37167	North Carolina	Stanly	pcnt_physically_inactive	32
+37169	North Carolina	Stokes	pcnt_physically_inactive	26
+37171	North Carolina	Surry	pcnt_physically_inactive	28
+37173	North Carolina	Swain	pcnt_physically_inactive	30
+37175	North Carolina	Transylvania	pcnt_physically_inactive	25
+37177	North Carolina	Tyrrell	pcnt_physically_inactive	28
+37179	North Carolina	Union	pcnt_physically_inactive	22
+37181	North Carolina	Vance	pcnt_physically_inactive	33
+37183	North Carolina	Wake	pcnt_physically_inactive	18
+37185	North Carolina	Warren	pcnt_physically_inactive	31
+37187	North Carolina	Washington	pcnt_physically_inactive	30
+37189	North Carolina	Watauga	pcnt_physically_inactive	21
+37191	North Carolina	Wayne	pcnt_physically_inactive	32
+37193	North Carolina	Wilkes	pcnt_physically_inactive	32
+37195	North Carolina	Wilson	pcnt_physically_inactive	32
+37197	North Carolina	Yadkin	pcnt_physically_inactive	29
+37199	North Carolina	Yancey	pcnt_physically_inactive	28
+38001	North Dakota	Adams	pcnt_physically_inactive	29
+38003	North Dakota	Barnes	pcnt_physically_inactive	27
+38005	North Dakota	Benson	pcnt_physically_inactive	34
+38007	North Dakota	Billings	pcnt_physically_inactive	28
+38009	North Dakota	Bottineau	pcnt_physically_inactive	28
+38011	North Dakota	Bowman	pcnt_physically_inactive	32
+38013	North Dakota	Burke	pcnt_physically_inactive	33
+38015	North Dakota	Burleigh	pcnt_physically_inactive	21
+38017	North Dakota	Cass	pcnt_physically_inactive	22
+38019	North Dakota	Cavalier	pcnt_physically_inactive	30
+38021	North Dakota	Dickey	pcnt_physically_inactive	30
+38023	North Dakota	Divide	pcnt_physically_inactive	33
+38025	North Dakota	Dunn	pcnt_physically_inactive	33
+38027	North Dakota	Eddy	pcnt_physically_inactive	33
+38029	North Dakota	Emmons	pcnt_physically_inactive	32
+38031	North Dakota	Foster	pcnt_physically_inactive	30
+38033	North Dakota	Golden Valley	pcnt_physically_inactive	32
+38035	North Dakota	Grand Forks	pcnt_physically_inactive	23
+38037	North Dakota	Grant	pcnt_physically_inactive	32
+38039	North Dakota	Griggs	pcnt_physically_inactive	27
+38041	North Dakota	Hettinger	pcnt_physically_inactive	32
+38043	North Dakota	Kidder	pcnt_physically_inactive	32
+38045	North Dakota	LaMoure	pcnt_physically_inactive	28
+38047	North Dakota	Logan	pcnt_physically_inactive	35
+38049	North Dakota	McHenry	pcnt_physically_inactive	39
+38051	North Dakota	McIntosh	pcnt_physically_inactive	36
+38053	North Dakota	McKenzie	pcnt_physically_inactive	30
+38055	North Dakota	McLean	pcnt_physically_inactive	31
+38057	North Dakota	Mercer	pcnt_physically_inactive	29
+38059	North Dakota	Morton	pcnt_physically_inactive	27
+38061	North Dakota	Mountrail	pcnt_physically_inactive	34
+38063	North Dakota	Nelson	pcnt_physically_inactive	31
+38065	North Dakota	Oliver	pcnt_physically_inactive	26
+38067	North Dakota	Pembina	pcnt_physically_inactive	32
+38069	North Dakota	Pierce	pcnt_physically_inactive	34
+38071	North Dakota	Ramsey	pcnt_physically_inactive	26
+38073	North Dakota	Ransom	pcnt_physically_inactive	30
+38075	North Dakota	Renville	pcnt_physically_inactive	27
+38077	North Dakota	Richland	pcnt_physically_inactive	29
+38079	North Dakota	Rolette	pcnt_physically_inactive	36
+38081	North Dakota	Sargent	pcnt_physically_inactive	31
+38083	North Dakota	Sheridan	pcnt_physically_inactive	33
+38085	North Dakota	Sioux	pcnt_physically_inactive	32
+38087	North Dakota	Slope	pcnt_physically_inactive	32
+38089	North Dakota	Stark	pcnt_physically_inactive	28
+38091	North Dakota	Steele	pcnt_physically_inactive	28
+38093	North Dakota	Stutsman	pcnt_physically_inactive	28
+38095	North Dakota	Towner	pcnt_physically_inactive	27
+38097	North Dakota	Traill	pcnt_physically_inactive	32
+38099	North Dakota	Walsh	pcnt_physically_inactive	29
+38101	North Dakota	Ward	pcnt_physically_inactive	28
+38103	North Dakota	Wells	pcnt_physically_inactive	31
+38105	North Dakota	Williams	pcnt_physically_inactive	32
+39001	Ohio	Adams	pcnt_physically_inactive	35
+39003	Ohio	Allen	pcnt_physically_inactive	27
+39005	Ohio	Ashland	pcnt_physically_inactive	30
+39007	Ohio	Ashtabula	pcnt_physically_inactive	32
+39009	Ohio	Athens	pcnt_physically_inactive	28
+39011	Ohio	Auglaize	pcnt_physically_inactive	26
+39013	Ohio	Belmont	pcnt_physically_inactive	30
+39015	Ohio	Brown	pcnt_physically_inactive	33
+39017	Ohio	Butler	pcnt_physically_inactive	26
+39019	Ohio	Carroll	pcnt_physically_inactive	25
+39021	Ohio	Champaign	pcnt_physically_inactive	27
+39023	Ohio	Clark	pcnt_physically_inactive	30
+39025	Ohio	Clermont	pcnt_physically_inactive	25
+39027	Ohio	Clinton	pcnt_physically_inactive	33
+39029	Ohio	Columbiana	pcnt_physically_inactive	29
+39031	Ohio	Coshocton	pcnt_physically_inactive	31
+39033	Ohio	Crawford	pcnt_physically_inactive	29
+39035	Ohio	Cuyahoga	pcnt_physically_inactive	26
+39037	Ohio	Darke	pcnt_physically_inactive	32
+39039	Ohio	Defiance	pcnt_physically_inactive	29
+39041	Ohio	Delaware	pcnt_physically_inactive	21
+39043	Ohio	Erie	pcnt_physically_inactive	29
+39045	Ohio	Fairfield	pcnt_physically_inactive	28
+39047	Ohio	Fayette	pcnt_physically_inactive	31
+39049	Ohio	Franklin	pcnt_physically_inactive	25
+39051	Ohio	Fulton	pcnt_physically_inactive	27
+39053	Ohio	Gallia	pcnt_physically_inactive	39
+39055	Ohio	Geauga	pcnt_physically_inactive	21
+39057	Ohio	Greene	pcnt_physically_inactive	23
+39059	Ohio	Guernsey	pcnt_physically_inactive	32
+39061	Ohio	Hamilton	pcnt_physically_inactive	25
+39063	Ohio	Hancock	pcnt_physically_inactive	25
+39065	Ohio	Hardin	pcnt_physically_inactive	27
+39067	Ohio	Harrison	pcnt_physically_inactive	31
+39069	Ohio	Henry	pcnt_physically_inactive	30
+39071	Ohio	Highland	pcnt_physically_inactive	35
+39073	Ohio	Hocking	pcnt_physically_inactive	28
+39075	Ohio	Holmes	pcnt_physically_inactive	27
+39077	Ohio	Huron	pcnt_physically_inactive	33
+39079	Ohio	Jackson	pcnt_physically_inactive	38
+39081	Ohio	Jefferson	pcnt_physically_inactive	33
+39083	Ohio	Knox	pcnt_physically_inactive	27
+39085	Ohio	Lake	pcnt_physically_inactive	26
+39087	Ohio	Lawrence	pcnt_physically_inactive	37
+39089	Ohio	Licking	pcnt_physically_inactive	26
+39091	Ohio	Logan	pcnt_physically_inactive	31
+39093	Ohio	Lorain	pcnt_physically_inactive	28
+39095	Ohio	Lucas	pcnt_physically_inactive	28
+39097	Ohio	Madison	pcnt_physically_inactive	33
+39099	Ohio	Mahoning	pcnt_physically_inactive	28
+39101	Ohio	Marion	pcnt_physically_inactive	31
+39103	Ohio	Medina	pcnt_physically_inactive	24
+39105	Ohio	Meigs	pcnt_physically_inactive	32
+39107	Ohio	Mercer	pcnt_physically_inactive	27
+39109	Ohio	Miami	pcnt_physically_inactive	30
+39111	Ohio	Monroe	pcnt_physically_inactive	33
+39113	Ohio	Montgomery	pcnt_physically_inactive	26
+39115	Ohio	Morgan	pcnt_physically_inactive	31
+39117	Ohio	Morrow	pcnt_physically_inactive	32
+39119	Ohio	Muskingum	pcnt_physically_inactive	32
+39121	Ohio	Noble	pcnt_physically_inactive	27
+39123	Ohio	Ottawa	pcnt_physically_inactive	26
+39125	Ohio	Paulding	pcnt_physically_inactive	31
+39127	Ohio	Perry	pcnt_physically_inactive	33
+39129	Ohio	Pickaway	pcnt_physically_inactive	30
+39131	Ohio	Pike	pcnt_physically_inactive	36
+39133	Ohio	Portage	pcnt_physically_inactive	29
+39135	Ohio	Preble	pcnt_physically_inactive	30
+39137	Ohio	Putnam	pcnt_physically_inactive	28
+39139	Ohio	Richland	pcnt_physically_inactive	28
+39141	Ohio	Ross	pcnt_physically_inactive	29
+39143	Ohio	Sandusky	pcnt_physically_inactive	27
+39145	Ohio	Scioto	pcnt_physically_inactive	31
+39147	Ohio	Seneca	pcnt_physically_inactive	30
+39149	Ohio	Shelby	pcnt_physically_inactive	30
+39151	Ohio	Stark	pcnt_physically_inactive	27
+39153	Ohio	Summit	pcnt_physically_inactive	24
+39155	Ohio	Trumbull	pcnt_physically_inactive	31
+39157	Ohio	Tuscarawas	pcnt_physically_inactive	30
+39159	Ohio	Union	pcnt_physically_inactive	26
+39161	Ohio	Van Wert	pcnt_physically_inactive	25
+39163	Ohio	Vinton	pcnt_physically_inactive	30
+39165	Ohio	Warren	pcnt_physically_inactive	22
+39167	Ohio	Washington	pcnt_physically_inactive	24
+39169	Ohio	Wayne	pcnt_physically_inactive	24
+39171	Ohio	Williams	pcnt_physically_inactive	25
+39173	Ohio	Wood	pcnt_physically_inactive	25
+39175	Ohio	Wyandot	pcnt_physically_inactive	32
+40001	Oklahoma	Adair	pcnt_physically_inactive	33
+40003	Oklahoma	Alfalfa	pcnt_physically_inactive	34
+40005	Oklahoma	Atoka	pcnt_physically_inactive	29
+40007	Oklahoma	Beaver	pcnt_physically_inactive	33
+40009	Oklahoma	Beckham	pcnt_physically_inactive	34
+40011	Oklahoma	Blaine	pcnt_physically_inactive	31
+40013	Oklahoma	Bryan	pcnt_physically_inactive	32
+40015	Oklahoma	Caddo	pcnt_physically_inactive	33
+40017	Oklahoma	Canadian	pcnt_physically_inactive	30
+40019	Oklahoma	Carter	pcnt_physically_inactive	36
+40021	Oklahoma	Cherokee	pcnt_physically_inactive	31
+40023	Oklahoma	Choctaw	pcnt_physically_inactive	35
+40025	Oklahoma	Cimarron	pcnt_physically_inactive	37
+40027	Oklahoma	Cleveland	pcnt_physically_inactive	26
+40029	Oklahoma	Coal	pcnt_physically_inactive	33
+40031	Oklahoma	Comanche	pcnt_physically_inactive	31
+40033	Oklahoma	Cotton	pcnt_physically_inactive	37
+40035	Oklahoma	Craig	pcnt_physically_inactive	34
+40037	Oklahoma	Creek	pcnt_physically_inactive	34
+40039	Oklahoma	Custer	pcnt_physically_inactive	35
+40041	Oklahoma	Delaware	pcnt_physically_inactive	37
+40043	Oklahoma	Dewey	pcnt_physically_inactive	35
+40045	Oklahoma	Ellis	pcnt_physically_inactive	35
+40047	Oklahoma	Garfield	pcnt_physically_inactive	30
+40049	Oklahoma	Garvin	pcnt_physically_inactive	35
+40051	Oklahoma	Grady	pcnt_physically_inactive	29
+40053	Oklahoma	Grant	pcnt_physically_inactive	31
+40055	Oklahoma	Greer	pcnt_physically_inactive	35
+40057	Oklahoma	Harmon	pcnt_physically_inactive	36
+40059	Oklahoma	Harper	pcnt_physically_inactive	37
+40061	Oklahoma	Haskell	pcnt_physically_inactive	35
+40063	Oklahoma	Hughes	pcnt_physically_inactive	32
+40065	Oklahoma	Jackson	pcnt_physically_inactive	33
+40067	Oklahoma	Jefferson	pcnt_physically_inactive	36
+40069	Oklahoma	Johnston	pcnt_physically_inactive	34
+40071	Oklahoma	Kay	pcnt_physically_inactive	33
+40073	Oklahoma	Kingfisher	pcnt_physically_inactive	32
+40075	Oklahoma	Kiowa	pcnt_physically_inactive	37
+40077	Oklahoma	Latimer	pcnt_physically_inactive	36
+40079	Oklahoma	Le Flore	pcnt_physically_inactive	38
+40081	Oklahoma	Lincoln	pcnt_physically_inactive	41
+40083	Oklahoma	Logan	pcnt_physically_inactive	30
+40085	Oklahoma	Love	pcnt_physically_inactive	33
+40087	Oklahoma	McClain	pcnt_physically_inactive	29
+40089	Oklahoma	McCurtain	pcnt_physically_inactive	39
+40091	Oklahoma	McIntosh	pcnt_physically_inactive	37
+40093	Oklahoma	Major	pcnt_physically_inactive	35
+40095	Oklahoma	Marshall	pcnt_physically_inactive	33
+40097	Oklahoma	Mayes	pcnt_physically_inactive	38
+40099	Oklahoma	Murray	pcnt_physically_inactive	33
+40101	Oklahoma	Muskogee	pcnt_physically_inactive	36
+40103	Oklahoma	Noble	pcnt_physically_inactive	33
+40105	Oklahoma	Nowata	pcnt_physically_inactive	30
+40107	Oklahoma	Okfuskee	pcnt_physically_inactive	38
+40109	Oklahoma	Oklahoma	pcnt_physically_inactive	30
+40111	Oklahoma	Okmulgee	pcnt_physically_inactive	34
+40113	Oklahoma	Osage	pcnt_physically_inactive	35
+40115	Oklahoma	Ottawa	pcnt_physically_inactive	36
+40117	Oklahoma	Pawnee	pcnt_physically_inactive	39
+40119	Oklahoma	Payne	pcnt_physically_inactive	28
+40121	Oklahoma	Pittsburg	pcnt_physically_inactive	35
+40123	Oklahoma	Pontotoc	pcnt_physically_inactive	35
+40125	Oklahoma	Pottawatomie	pcnt_physically_inactive	35
+40127	Oklahoma	Pushmataha	pcnt_physically_inactive	35
+40129	Oklahoma	Roger Mills	pcnt_physically_inactive	36
+40131	Oklahoma	Rogers	pcnt_physically_inactive	32
+40133	Oklahoma	Seminole	pcnt_physically_inactive	36
+40135	Oklahoma	Sequoyah	pcnt_physically_inactive	39
+40137	Oklahoma	Stephens	pcnt_physically_inactive	30
+40139	Oklahoma	Texas	pcnt_physically_inactive	30
+40141	Oklahoma	Tillman	pcnt_physically_inactive	34
+40143	Oklahoma	Tulsa	pcnt_physically_inactive	29
+40145	Oklahoma	Wagoner	pcnt_physically_inactive	34
+40147	Oklahoma	Washington	pcnt_physically_inactive	30
+40149	Oklahoma	Washita	pcnt_physically_inactive	30
+40151	Oklahoma	Woods	pcnt_physically_inactive	31
+40153	Oklahoma	Woodward	pcnt_physically_inactive	32
+41001	Oregon	Baker	pcnt_physically_inactive	20
+41003	Oregon	Benton	pcnt_physically_inactive	15
+41005	Oregon	Clackamas	pcnt_physically_inactive	17
+41007	Oregon	Clatsop	pcnt_physically_inactive	20
+41009	Oregon	Columbia	pcnt_physically_inactive	19
+41011	Oregon	Coos	pcnt_physically_inactive	22
+41013	Oregon	Crook	pcnt_physically_inactive	20
+41015	Oregon	Curry	pcnt_physically_inactive	24
+41017	Oregon	Deschutes	pcnt_physically_inactive	16
+41019	Oregon	Douglas	pcnt_physically_inactive	22
+41021	Oregon	Gilliam	pcnt_physically_inactive	19
+41023	Oregon	Grant	pcnt_physically_inactive	20
+41025	Oregon	Harney	pcnt_physically_inactive	21
+41027	Oregon	Hood River	pcnt_physically_inactive	17
+41029	Oregon	Jackson	pcnt_physically_inactive	15
+41031	Oregon	Jefferson	pcnt_physically_inactive	22
+41033	Oregon	Josephine	pcnt_physically_inactive	22
+41035	Oregon	Klamath	pcnt_physically_inactive	21
+41037	Oregon	Lake	pcnt_physically_inactive	21
+41039	Oregon	Lane	pcnt_physically_inactive	17
+41041	Oregon	Lincoln	pcnt_physically_inactive	20
+41043	Oregon	Linn	pcnt_physically_inactive	21
+41045	Oregon	Malheur	pcnt_physically_inactive	22
+41047	Oregon	Marion	pcnt_physically_inactive	19
+41049	Oregon	Morrow	pcnt_physically_inactive	25
+41051	Oregon	Multnomah	pcnt_physically_inactive	16
+41053	Oregon	Polk	pcnt_physically_inactive	20
+41055	Oregon	Sherman	pcnt_physically_inactive	19
+41057	Oregon	Tillamook	pcnt_physically_inactive	20
+41059	Oregon	Umatilla	pcnt_physically_inactive	25
+41061	Oregon	Union	pcnt_physically_inactive	19
+41063	Oregon	Wallowa	pcnt_physically_inactive	21
+41065	Oregon	Wasco	pcnt_physically_inactive	20
+41067	Oregon	Washington	pcnt_physically_inactive	16
+41069	Oregon	Wheeler	pcnt_physically_inactive	20
+41071	Oregon	Yamhill	pcnt_physically_inactive	19
+42001	Pennsylvania	Adams	pcnt_physically_inactive	28
+42003	Pennsylvania	Allegheny	pcnt_physically_inactive	26
+42005	Pennsylvania	Armstrong	pcnt_physically_inactive	28
+42007	Pennsylvania	Beaver	pcnt_physically_inactive	28
+42009	Pennsylvania	Bedford	pcnt_physically_inactive	27
+42011	Pennsylvania	Berks	pcnt_physically_inactive	24
+42013	Pennsylvania	Blair	pcnt_physically_inactive	31
+42015	Pennsylvania	Bradford	pcnt_physically_inactive	29
+42017	Pennsylvania	Bucks	pcnt_physically_inactive	23
+42019	Pennsylvania	Butler	pcnt_physically_inactive	23
+42021	Pennsylvania	Cambria	pcnt_physically_inactive	31
+42023	Pennsylvania	Cameron	pcnt_physically_inactive	28
+42025	Pennsylvania	Carbon	pcnt_physically_inactive	27
+42027	Pennsylvania	Centre	pcnt_physically_inactive	20
+42029	Pennsylvania	Chester	pcnt_physically_inactive	19
+42031	Pennsylvania	Clarion	pcnt_physically_inactive	30
+42033	Pennsylvania	Clearfield	pcnt_physically_inactive	25
+42035	Pennsylvania	Clinton	pcnt_physically_inactive	29
+42037	Pennsylvania	Columbia	pcnt_physically_inactive	28
+42039	Pennsylvania	Crawford	pcnt_physically_inactive	26
+42041	Pennsylvania	Cumberland	pcnt_physically_inactive	23
+42043	Pennsylvania	Dauphin	pcnt_physically_inactive	28
+42045	Pennsylvania	Delaware	pcnt_physically_inactive	24
+42047	Pennsylvania	Elk	pcnt_physically_inactive	30
+42049	Pennsylvania	Erie	pcnt_physically_inactive	29
+42051	Pennsylvania	Fayette	pcnt_physically_inactive	34
+42053	Pennsylvania	Forest	pcnt_physically_inactive	25
+42055	Pennsylvania	Franklin	pcnt_physically_inactive	26
+42057	Pennsylvania	Fulton	pcnt_physically_inactive	27
+42059	Pennsylvania	Greene	pcnt_physically_inactive	34
+42061	Pennsylvania	Huntingdon	pcnt_physically_inactive	32
+42063	Pennsylvania	Indiana	pcnt_physically_inactive	30
+42065	Pennsylvania	Jefferson	pcnt_physically_inactive	30
+42067	Pennsylvania	Juniata	pcnt_physically_inactive	28
+42069	Pennsylvania	Lackawanna	pcnt_physically_inactive	30
+42071	Pennsylvania	Lancaster	pcnt_physically_inactive	22
+42073	Pennsylvania	Lawrence	pcnt_physically_inactive	29
+42075	Pennsylvania	Lebanon	pcnt_physically_inactive	24
+42077	Pennsylvania	Lehigh	pcnt_physically_inactive	25
+42079	Pennsylvania	Luzerne	pcnt_physically_inactive	31
+42081	Pennsylvania	Lycoming	pcnt_physically_inactive	29
+42083	Pennsylvania	McKean	pcnt_physically_inactive	29
+42085	Pennsylvania	Mercer	pcnt_physically_inactive	25
+42087	Pennsylvania	Mifflin	pcnt_physically_inactive	30
+42089	Pennsylvania	Monroe	pcnt_physically_inactive	26
+42091	Pennsylvania	Montgomery	pcnt_physically_inactive	21
+42093	Pennsylvania	Montour	pcnt_physically_inactive	30
+42095	Pennsylvania	Northampton	pcnt_physically_inactive	25
+42097	Pennsylvania	Northumberland	pcnt_physically_inactive	31
+42099	Pennsylvania	Perry	pcnt_physically_inactive	27
+42101	Pennsylvania	Philadelphia	pcnt_physically_inactive	30
+42103	Pennsylvania	Pike	pcnt_physically_inactive	25
+42105	Pennsylvania	Potter	pcnt_physically_inactive	29
+42107	Pennsylvania	Schuylkill	pcnt_physically_inactive	33
+42109	Pennsylvania	Snyder	pcnt_physically_inactive	25
+42111	Pennsylvania	Somerset	pcnt_physically_inactive	28
+42113	Pennsylvania	Sullivan	pcnt_physically_inactive	30
+42115	Pennsylvania	Susquehanna	pcnt_physically_inactive	27
+42117	Pennsylvania	Tioga	pcnt_physically_inactive	27
+42119	Pennsylvania	Union	pcnt_physically_inactive	25
+42121	Pennsylvania	Venango	pcnt_physically_inactive	29
+42123	Pennsylvania	Warren	pcnt_physically_inactive	30
+42125	Pennsylvania	Washington	pcnt_physically_inactive	26
+42127	Pennsylvania	Wayne	pcnt_physically_inactive	25
+42129	Pennsylvania	Westmoreland	pcnt_physically_inactive	29
+42131	Pennsylvania	Wyoming	pcnt_physically_inactive	25
+42133	Pennsylvania	York	pcnt_physically_inactive	23
+44001	Rhode Island	Bristol	pcnt_physically_inactive	20
+44003	Rhode Island	Kent	pcnt_physically_inactive	26
+44005	Rhode Island	Newport	pcnt_physically_inactive	20
+44007	Rhode Island	Providence	pcnt_physically_inactive	28
+44009	Rhode Island	Washington	pcnt_physically_inactive	19
+45001	South Carolina	Abbeville	pcnt_physically_inactive	32
+45003	South Carolina	Aiken	pcnt_physically_inactive	26
+45005	South Carolina	Allendale	pcnt_physically_inactive	35
+45007	South Carolina	Anderson	pcnt_physically_inactive	30
+45009	South Carolina	Bamberg	pcnt_physically_inactive	34
+45011	South Carolina	Barnwell	pcnt_physically_inactive	32
+45013	South Carolina	Beaufort	pcnt_physically_inactive	18
+45015	South Carolina	Berkeley	pcnt_physically_inactive	30
+45017	South Carolina	Calhoun	pcnt_physically_inactive	34
+45019	South Carolina	Charleston	pcnt_physically_inactive	24
+45021	South Carolina	Cherokee	pcnt_physically_inactive	31
+45023	South Carolina	Chester	pcnt_physically_inactive	34
+45025	South Carolina	Chesterfield	pcnt_physically_inactive	33
+45027	South Carolina	Clarendon	pcnt_physically_inactive	33
+45029	South Carolina	Colleton	pcnt_physically_inactive	33
+45031	South Carolina	Darlington	pcnt_physically_inactive	34
+45033	South Carolina	Dillon	pcnt_physically_inactive	38
+45035	South Carolina	Dorchester	pcnt_physically_inactive	26
+45037	South Carolina	Edgefield	pcnt_physically_inactive	26
+45039	South Carolina	Fairfield	pcnt_physically_inactive	36
+45041	South Carolina	Florence	pcnt_physically_inactive	33
+45043	South Carolina	Georgetown	pcnt_physically_inactive	30
+45045	South Carolina	Greenville	pcnt_physically_inactive	25
+45047	South Carolina	Greenwood	pcnt_physically_inactive	31
+45049	South Carolina	Hampton	pcnt_physically_inactive	31
+45051	South Carolina	Horry	pcnt_physically_inactive	25
+45053	South Carolina	Jasper	pcnt_physically_inactive	30
+45055	South Carolina	Kershaw	pcnt_physically_inactive	28
+45057	South Carolina	Lancaster	pcnt_physically_inactive	32
+45059	South Carolina	Laurens	pcnt_physically_inactive	33
+45061	South Carolina	Lee	pcnt_physically_inactive	35
+45063	South Carolina	Lexington	pcnt_physically_inactive	26
+45065	South Carolina	McCormick	pcnt_physically_inactive	26
+45067	South Carolina	Marion	pcnt_physically_inactive	34
+45069	South Carolina	Marlboro	pcnt_physically_inactive	33
+45071	South Carolina	Newberry	pcnt_physically_inactive	31
+45073	South Carolina	Oconee	pcnt_physically_inactive	26
+45075	South Carolina	Orangeburg	pcnt_physically_inactive	33
+45077	South Carolina	Pickens	pcnt_physically_inactive	27
+45079	South Carolina	Richland	pcnt_physically_inactive	26
+45081	South Carolina	Saluda	pcnt_physically_inactive	32
+45083	South Carolina	Spartanburg	pcnt_physically_inactive	28
+45085	South Carolina	Sumter	pcnt_physically_inactive	32
+45087	South Carolina	Union	pcnt_physically_inactive	35
+45089	South Carolina	Williamsburg	pcnt_physically_inactive	32
+45091	South Carolina	York	pcnt_physically_inactive	26
+46003	South Dakota	Aurora	pcnt_physically_inactive	36
+46005	South Dakota	Beadle	pcnt_physically_inactive	31
+46007	South Dakota	Bennett	pcnt_physically_inactive	29
+46009	South Dakota	Bon Homme	pcnt_physically_inactive	31
+46011	South Dakota	Brookings	pcnt_physically_inactive	22
+46013	South Dakota	Brown	pcnt_physically_inactive	30
+46015	South Dakota	Brule	pcnt_physically_inactive	34
+46017	South Dakota	Buffalo	pcnt_physically_inactive	36
+46019	South Dakota	Butte	pcnt_physically_inactive	32
+46021	South Dakota	Campbell	pcnt_physically_inactive	36
+46023	South Dakota	Charles Mix	pcnt_physically_inactive	30
+46025	South Dakota	Clark	pcnt_physically_inactive	31
+46027	South Dakota	Clay	pcnt_physically_inactive	23
+46029	South Dakota	Codington	pcnt_physically_inactive	27
+46031	South Dakota	Corson	pcnt_physically_inactive	32
+46033	South Dakota	Custer	pcnt_physically_inactive	26
+46035	South Dakota	Davison	pcnt_physically_inactive	28
+46037	South Dakota	Day	pcnt_physically_inactive	31
+46039	South Dakota	Deuel	pcnt_physically_inactive	28
+46041	South Dakota	Dewey	pcnt_physically_inactive	34
+46043	South Dakota	Douglas	pcnt_physically_inactive	35
+46045	South Dakota	Edmunds	pcnt_physically_inactive	29
+46047	South Dakota	Fall River	pcnt_physically_inactive	24
+46049	South Dakota	Faulk	pcnt_physically_inactive	32
+46051	South Dakota	Grant	pcnt_physically_inactive	31
+46053	South Dakota	Gregory	pcnt_physically_inactive	32
+46055	South Dakota	Haakon	pcnt_physically_inactive	30
+46057	South Dakota	Hamlin	pcnt_physically_inactive	30
+46059	South Dakota	Hand	pcnt_physically_inactive	34
+46061	South Dakota	Hanson	pcnt_physically_inactive	27
+46063	South Dakota	Harding	pcnt_physically_inactive	31
+46065	South Dakota	Hughes	pcnt_physically_inactive	22
+46067	South Dakota	Hutchinson	pcnt_physically_inactive	30
+46069	South Dakota	Hyde	pcnt_physically_inactive	32
+46071	South Dakota	Jackson	pcnt_physically_inactive	31
+46073	South Dakota	Jerauld	pcnt_physically_inactive	32
+46075	South Dakota	Jones	pcnt_physically_inactive	33
+46077	South Dakota	Kingsbury	pcnt_physically_inactive	31
+46079	South Dakota	Lake	pcnt_physically_inactive	28
+46081	South Dakota	Lawrence	pcnt_physically_inactive	25
+46083	South Dakota	Lincoln	pcnt_physically_inactive	22
+46085	South Dakota	Lyman	pcnt_physically_inactive	33
+46087	South Dakota	McCook	pcnt_physically_inactive	29
+46089	South Dakota	McPherson	pcnt_physically_inactive	29
+46091	South Dakota	Marshall	pcnt_physically_inactive	31
+46093	South Dakota	Meade	pcnt_physically_inactive	27
+46095	South Dakota	Mellette	pcnt_physically_inactive	34
+46097	South Dakota	Miner	pcnt_physically_inactive	36
+46099	South Dakota	Minnehaha	pcnt_physically_inactive	24
+46101	South Dakota	Moody	pcnt_physically_inactive	28
+46103	South Dakota	Pennington	pcnt_physically_inactive	23
+46105	South Dakota	Perkins	pcnt_physically_inactive	33
+46107	South Dakota	Potter	pcnt_physically_inactive	30
+46109	South Dakota	Roberts	pcnt_physically_inactive	31
+46111	South Dakota	Sanborn	pcnt_physically_inactive	35
+46113	South Dakota	Shannon	pcnt_physically_inactive	31
+46115	South Dakota	Spink	pcnt_physically_inactive	33
+46117	South Dakota	Stanley	pcnt_physically_inactive	32
+46119	South Dakota	Sully	pcnt_physically_inactive	28
+46121	South Dakota	Todd	pcnt_physically_inactive	31
+46123	South Dakota	Tripp	pcnt_physically_inactive	34
+46125	South Dakota	Turner	pcnt_physically_inactive	32
+46127	South Dakota	Union	pcnt_physically_inactive	24
+46129	South Dakota	Walworth	pcnt_physically_inactive	33
+46135	South Dakota	Yankton	pcnt_physically_inactive	24
+46137	South Dakota	Ziebach	pcnt_physically_inactive	34
+47001	Tennessee	Anderson	pcnt_physically_inactive	33
+47003	Tennessee	Bedford	pcnt_physically_inactive	31
+47005	Tennessee	Benton	pcnt_physically_inactive	32
+47007	Tennessee	Bledsoe	pcnt_physically_inactive	36
+47009	Tennessee	Blount	pcnt_physically_inactive	27
+47011	Tennessee	Bradley	pcnt_physically_inactive	31
+47013	Tennessee	Campbell	pcnt_physically_inactive	36
+47015	Tennessee	Cannon	pcnt_physically_inactive	33
+47017	Tennessee	Carroll	pcnt_physically_inactive	35
+47019	Tennessee	Carter	pcnt_physically_inactive	33
+47021	Tennessee	Cheatham	pcnt_physically_inactive	33
+47023	Tennessee	Chester	pcnt_physically_inactive	29
+47025	Tennessee	Claiborne	pcnt_physically_inactive	36
+47027	Tennessee	Clay	pcnt_physically_inactive	30
+47029	Tennessee	Cocke	pcnt_physically_inactive	35
+47031	Tennessee	Coffee	pcnt_physically_inactive	27
+47033	Tennessee	Crockett	pcnt_physically_inactive	33
+47035	Tennessee	Cumberland	pcnt_physically_inactive	28
+47037	Tennessee	Davidson	pcnt_physically_inactive	27
+47039	Tennessee	Decatur	pcnt_physically_inactive	36
+47041	Tennessee	DeKalb	pcnt_physically_inactive	30
+47043	Tennessee	Dickson	pcnt_physically_inactive	32
+47045	Tennessee	Dyer	pcnt_physically_inactive	35
+47047	Tennessee	Fayette	pcnt_physically_inactive	31
+47049	Tennessee	Fentress	pcnt_physically_inactive	34
+47051	Tennessee	Franklin	pcnt_physically_inactive	34
+47053	Tennessee	Gibson	pcnt_physically_inactive	39
+47055	Tennessee	Giles	pcnt_physically_inactive	31
+47057	Tennessee	Grainger	pcnt_physically_inactive	34
+47059	Tennessee	Greene	pcnt_physically_inactive	34
+47061	Tennessee	Grundy	pcnt_physically_inactive	33
+47063	Tennessee	Hamblen	pcnt_physically_inactive	34
+47065	Tennessee	Hamilton	pcnt_physically_inactive	27
+47067	Tennessee	Hancock	pcnt_physically_inactive	36
+47069	Tennessee	Hardeman	pcnt_physically_inactive	34
+47071	Tennessee	Hardin	pcnt_physically_inactive	36
+47073	Tennessee	Hawkins	pcnt_physically_inactive	33
+47075	Tennessee	Haywood	pcnt_physically_inactive	34
+47077	Tennessee	Henderson	pcnt_physically_inactive	33
+47079	Tennessee	Henry	pcnt_physically_inactive	34
+47081	Tennessee	Hickman	pcnt_physically_inactive	32
+47083	Tennessee	Houston	pcnt_physically_inactive	31
+47085	Tennessee	Humphreys	pcnt_physically_inactive	32
+47087	Tennessee	Jackson	pcnt_physically_inactive	34
+47089	Tennessee	Jefferson	pcnt_physically_inactive	32
+47091	Tennessee	Johnson	pcnt_physically_inactive	32
+47093	Tennessee	Knox	pcnt_physically_inactive	28
+47095	Tennessee	Lake	pcnt_physically_inactive	37
+47097	Tennessee	Lauderdale	pcnt_physically_inactive	35
+47099	Tennessee	Lawrence	pcnt_physically_inactive	33
+47101	Tennessee	Lewis	pcnt_physically_inactive	37
+47103	Tennessee	Lincoln	pcnt_physically_inactive	35
+47105	Tennessee	Loudon	pcnt_physically_inactive	30
+47107	Tennessee	McMinn	pcnt_physically_inactive	34
+47109	Tennessee	McNairy	pcnt_physically_inactive	34
+47111	Tennessee	Macon	pcnt_physically_inactive	29
+47113	Tennessee	Madison	pcnt_physically_inactive	29
+47115	Tennessee	Marion	pcnt_physically_inactive	37
+47117	Tennessee	Marshall	pcnt_physically_inactive	34
+47119	Tennessee	Maury	pcnt_physically_inactive	31
+47121	Tennessee	Meigs	pcnt_physically_inactive	35
+47123	Tennessee	Monroe	pcnt_physically_inactive	32
+47125	Tennessee	Montgomery	pcnt_physically_inactive	30
+47127	Tennessee	Moore	pcnt_physically_inactive	30
+47129	Tennessee	Morgan	pcnt_physically_inactive	30
+47131	Tennessee	Obion	pcnt_physically_inactive	37
+47133	Tennessee	Overton	pcnt_physically_inactive	35
+47135	Tennessee	Perry	pcnt_physically_inactive	32
+47137	Tennessee	Pickett	pcnt_physically_inactive	34
+47139	Tennessee	Polk	pcnt_physically_inactive	35
+47141	Tennessee	Putnam	pcnt_physically_inactive	29
+47143	Tennessee	Rhea	pcnt_physically_inactive	32
+47145	Tennessee	Roane	pcnt_physically_inactive	35
+47147	Tennessee	Robertson	pcnt_physically_inactive	34
+47149	Tennessee	Rutherford	pcnt_physically_inactive	27
+47151	Tennessee	Scott	pcnt_physically_inactive	37
+47153	Tennessee	Sequatchie	pcnt_physically_inactive	32
+47155	Tennessee	Sevier	pcnt_physically_inactive	29
+47157	Tennessee	Shelby	pcnt_physically_inactive	29
+47159	Tennessee	Smith	pcnt_physically_inactive	32
+47161	Tennessee	Stewart	pcnt_physically_inactive	34
+47163	Tennessee	Sullivan	pcnt_physically_inactive	31
+47165	Tennessee	Sumner	pcnt_physically_inactive	29
+47167	Tennessee	Tipton	pcnt_physically_inactive	33
+47169	Tennessee	Trousdale	pcnt_physically_inactive	36
+47171	Tennessee	Unicoi	pcnt_physically_inactive	32
+47173	Tennessee	Union	pcnt_physically_inactive	32
+47175	Tennessee	Van Buren	pcnt_physically_inactive	34
+47177	Tennessee	Warren	pcnt_physically_inactive	32
+47179	Tennessee	Washington	pcnt_physically_inactive	29
+47181	Tennessee	Wayne	pcnt_physically_inactive	30
+47183	Tennessee	Weakley	pcnt_physically_inactive	36
+47185	Tennessee	White	pcnt_physically_inactive	36
+47187	Tennessee	Williamson	pcnt_physically_inactive	19
+47189	Tennessee	Wilson	pcnt_physically_inactive	29
+48001	Texas	Anderson	pcnt_physically_inactive	32
+48003	Texas	Andrews	pcnt_physically_inactive	28
+48005	Texas	Angelina	pcnt_physically_inactive	29
+48007	Texas	Aransas	pcnt_physically_inactive	29
+48009	Texas	Archer	pcnt_physically_inactive	29
+48011	Texas	Armstrong	pcnt_physically_inactive	29
+48013	Texas	Atascosa	pcnt_physically_inactive	29
+48015	Texas	Austin	pcnt_physically_inactive	27
+48017	Texas	Bailey	pcnt_physically_inactive	29
+48019	Texas	Bandera	pcnt_physically_inactive	31
+48021	Texas	Bastrop	pcnt_physically_inactive	27
+48023	Texas	Baylor	pcnt_physically_inactive	29
+48025	Texas	Bee	pcnt_physically_inactive	25
+48027	Texas	Bell	pcnt_physically_inactive	28
+48029	Texas	Bexar	pcnt_physically_inactive	22
+48031	Texas	Blanco	pcnt_physically_inactive	26
+48033	Texas	Borden	pcnt_physically_inactive	28
+48035	Texas	Bosque	pcnt_physically_inactive	27
+48037	Texas	Bowie	pcnt_physically_inactive	30
+48039	Texas	Brazoria	pcnt_physically_inactive	26
+48041	Texas	Brazos	pcnt_physically_inactive	22
+48043	Texas	Brewster	pcnt_physically_inactive	26
+48045	Texas	Briscoe	pcnt_physically_inactive	27
+48047	Texas	Brooks	pcnt_physically_inactive	30
+48049	Texas	Brown	pcnt_physically_inactive	28
+48051	Texas	Burleson	pcnt_physically_inactive	32
+48053	Texas	Burnet	pcnt_physically_inactive	28
+48055	Texas	Caldwell	pcnt_physically_inactive	25
+48057	Texas	Calhoun	pcnt_physically_inactive	26
+48059	Texas	Callahan	pcnt_physically_inactive	25
+48061	Texas	Cameron	pcnt_physically_inactive	23
+48063	Texas	Camp	pcnt_physically_inactive	28
+48065	Texas	Carson	pcnt_physically_inactive	27
+48067	Texas	Cass	pcnt_physically_inactive	34
+48069	Texas	Castro	pcnt_physically_inactive	30
+48071	Texas	Chambers	pcnt_physically_inactive	30
+48073	Texas	Cherokee	pcnt_physically_inactive	30
+48075	Texas	Childress	pcnt_physically_inactive	26
+48077	Texas	Clay	pcnt_physically_inactive	33
+48079	Texas	Cochran	pcnt_physically_inactive	29
+48081	Texas	Coke	pcnt_physically_inactive	33
+48083	Texas	Coleman	pcnt_physically_inactive	34
+48085	Texas	Collin	pcnt_physically_inactive	22
+48087	Texas	Collingsworth	pcnt_physically_inactive	29
+48089	Texas	Colorado	pcnt_physically_inactive	31
+48091	Texas	Comal	pcnt_physically_inactive	26
+48093	Texas	Comanche	pcnt_physically_inactive	29
+48095	Texas	Concho	pcnt_physically_inactive	25
+48097	Texas	Cooke	pcnt_physically_inactive	28
+48099	Texas	Coryell	pcnt_physically_inactive	27
+48101	Texas	Cottle	pcnt_physically_inactive	31
+48103	Texas	Crane	pcnt_physically_inactive	29
+48105	Texas	Crockett	pcnt_physically_inactive	27
+48107	Texas	Crosby	pcnt_physically_inactive	31
+48109	Texas	Culberson	pcnt_physically_inactive	28
+48111	Texas	Dallam	pcnt_physically_inactive	29
+48113	Texas	Dallas	pcnt_physically_inactive	25
+48115	Texas	Dawson	pcnt_physically_inactive	29
+48117	Texas	Deaf Smith	pcnt_physically_inactive	28
+48119	Texas	Delta	pcnt_physically_inactive	30
+48121	Texas	Denton	pcnt_physically_inactive	24
+48123	Texas	DeWitt	pcnt_physically_inactive	26
+48125	Texas	Dickens	pcnt_physically_inactive	28
+48127	Texas	Dimmit	pcnt_physically_inactive	27
+48129	Texas	Donley	pcnt_physically_inactive	29
+48131	Texas	Duval	pcnt_physically_inactive	27
+48133	Texas	Eastland	pcnt_physically_inactive	29
+48135	Texas	Ector	pcnt_physically_inactive	28
+48137	Texas	Edwards	pcnt_physically_inactive	28
+48139	Texas	Ellis	pcnt_physically_inactive	25
+48141	Texas	El Paso	pcnt_physically_inactive	22
+48143	Texas	Erath	pcnt_physically_inactive	26
+48145	Texas	Falls	pcnt_physically_inactive	30
+48147	Texas	Fannin	pcnt_physically_inactive	32
+48149	Texas	Fayette	pcnt_physically_inactive	28
+48151	Texas	Fisher	pcnt_physically_inactive	30
+48153	Texas	Floyd	pcnt_physically_inactive	30
+48155	Texas	Foard	pcnt_physically_inactive	31
+48157	Texas	Fort Bend	pcnt_physically_inactive	21
+48159	Texas	Franklin	pcnt_physically_inactive	32
+48161	Texas	Freestone	pcnt_physically_inactive	29
+48163	Texas	Frio	pcnt_physically_inactive	30
+48165	Texas	Gaines	pcnt_physically_inactive	29
+48167	Texas	Galveston	pcnt_physically_inactive	25
+48169	Texas	Garza	pcnt_physically_inactive	29
+48171	Texas	Gillespie	pcnt_physically_inactive	29
+48173	Texas	Glasscock	pcnt_physically_inactive	29
+48175	Texas	Goliad	pcnt_physically_inactive	27
+48177	Texas	Gonzales	pcnt_physically_inactive	29
+48179	Texas	Gray	pcnt_physically_inactive	39
+48181	Texas	Grayson	pcnt_physically_inactive	27
+48183	Texas	Gregg	pcnt_physically_inactive	30
+48185	Texas	Grimes	pcnt_physically_inactive	27
+48187	Texas	Guadalupe	pcnt_physically_inactive	24
+48189	Texas	Hale	pcnt_physically_inactive	29
+48191	Texas	Hall	pcnt_physically_inactive	28
+48193	Texas	Hamilton	pcnt_physically_inactive	31
+48195	Texas	Hansford	pcnt_physically_inactive	30
+48197	Texas	Hardeman	pcnt_physically_inactive	29
+48199	Texas	Hardin	pcnt_physically_inactive	30
+48201	Texas	Harris	pcnt_physically_inactive	23
+48203	Texas	Harrison	pcnt_physically_inactive	34
+48205	Texas	Hartley	pcnt_physically_inactive	28
+48207	Texas	Haskell	pcnt_physically_inactive	29
+48209	Texas	Hays	pcnt_physically_inactive	26
+48211	Texas	Hemphill	pcnt_physically_inactive	30
+48213	Texas	Henderson	pcnt_physically_inactive	30
+48215	Texas	Hidalgo	pcnt_physically_inactive	24
+48217	Texas	Hill	pcnt_physically_inactive	33
+48219	Texas	Hockley	pcnt_physically_inactive	31
+48221	Texas	Hood	pcnt_physically_inactive	26
+48223	Texas	Hopkins	pcnt_physically_inactive	30
+48225	Texas	Houston	pcnt_physically_inactive	27
+48227	Texas	Howard	pcnt_physically_inactive	29
+48229	Texas	Hudspeth	pcnt_physically_inactive	30
+48231	Texas	Hunt	pcnt_physically_inactive	31
+48233	Texas	Hutchinson	pcnt_physically_inactive	27
+48235	Texas	Irion	pcnt_physically_inactive	29
+48237	Texas	Jack	pcnt_physically_inactive	28
+48239	Texas	Jackson	pcnt_physically_inactive	27
+48241	Texas	Jasper	pcnt_physically_inactive	35
+48243	Texas	Jeff Davis	pcnt_physically_inactive	25
+48245	Texas	Jefferson	pcnt_physically_inactive	31
+48247	Texas	Jim Hogg	pcnt_physically_inactive	28
+48249	Texas	Jim Wells	pcnt_physically_inactive	27
+48251	Texas	Johnson	pcnt_physically_inactive	30
+48253	Texas	Jones	pcnt_physically_inactive	30
+48255	Texas	Karnes	pcnt_physically_inactive	28
+48257	Texas	Kaufman	pcnt_physically_inactive	32
+48259	Texas	Kendall	pcnt_physically_inactive	25
+48261	Texas	Kenedy	pcnt_physically_inactive	28
+48263	Texas	Kent	pcnt_physically_inactive	29
+48265	Texas	Kerr	pcnt_physically_inactive	24
+48267	Texas	Kimble	pcnt_physically_inactive	27
+48269	Texas	King	pcnt_physically_inactive	26
+48271	Texas	Kinney	pcnt_physically_inactive	29
+48273	Texas	Kleberg	pcnt_physically_inactive	27
+48275	Texas	Knox	pcnt_physically_inactive	28
+48277	Texas	Lamar	pcnt_physically_inactive	32
+48279	Texas	Lamb	pcnt_physically_inactive	28
+48281	Texas	Lampasas	pcnt_physically_inactive	27
+48283	Texas	La Salle	pcnt_physically_inactive	27
+48285	Texas	Lavaca	pcnt_physically_inactive	29
+48287	Texas	Lee	pcnt_physically_inactive	30
+48289	Texas	Leon	pcnt_physically_inactive	32
+48291	Texas	Liberty	pcnt_physically_inactive	32
+48293	Texas	Limestone	pcnt_physically_inactive	27
+48295	Texas	Lipscomb	pcnt_physically_inactive	31
+48297	Texas	Live Oak	pcnt_physically_inactive	30
+48299	Texas	Llano	pcnt_physically_inactive	30
+48301	Texas	Loving	pcnt_physically_inactive	27
+48303	Texas	Lubbock	pcnt_physically_inactive	26
+48305	Texas	Lynn	pcnt_physically_inactive	29
+48307	Texas	McCulloch	pcnt_physically_inactive	31
+48309	Texas	McLennan	pcnt_physically_inactive	25
+48311	Texas	McMullen	pcnt_physically_inactive	29
+48313	Texas	Madison	pcnt_physically_inactive	27
+48315	Texas	Marion	pcnt_physically_inactive	31
+48317	Texas	Martin	pcnt_physically_inactive	27
+48319	Texas	Mason	pcnt_physically_inactive	29
+48321	Texas	Matagorda	pcnt_physically_inactive	28
+48323	Texas	Maverick	pcnt_physically_inactive	29
+48325	Texas	Medina	pcnt_physically_inactive	26
+48327	Texas	Menard	pcnt_physically_inactive	29
+48329	Texas	Midland	pcnt_physically_inactive	30
+48331	Texas	Milam	pcnt_physically_inactive	32
+48333	Texas	Mills	pcnt_physically_inactive	27
+48335	Texas	Mitchell	pcnt_physically_inactive	29
+48337	Texas	Montague	pcnt_physically_inactive	31
+48339	Texas	Montgomery	pcnt_physically_inactive	23
+48341	Texas	Moore	pcnt_physically_inactive	30
+48343	Texas	Morris	pcnt_physically_inactive	31
+48345	Texas	Motley	pcnt_physically_inactive	30
+48347	Texas	Nacogdoches	pcnt_physically_inactive	27
+48349	Texas	Navarro	pcnt_physically_inactive	31
+48351	Texas	Newton	pcnt_physically_inactive	31
+48353	Texas	Nolan	pcnt_physically_inactive	30
+48355	Texas	Nueces	pcnt_physically_inactive	24
+48357	Texas	Ochiltree	pcnt_physically_inactive	27
+48359	Texas	Oldham	pcnt_physically_inactive	29
+48361	Texas	Orange	pcnt_physically_inactive	35
+48363	Texas	Palo Pinto	pcnt_physically_inactive	27
+48365	Texas	Panola	pcnt_physically_inactive	27
+48367	Texas	Parker	pcnt_physically_inactive	30
+48369	Texas	Parmer	pcnt_physically_inactive	29
+48371	Texas	Pecos	pcnt_physically_inactive	28
+48373	Texas	Polk	pcnt_physically_inactive	31
+48375	Texas	Potter	pcnt_physically_inactive	31
+48377	Texas	Presidio	pcnt_physically_inactive	27
+48379	Texas	Rains	pcnt_physically_inactive	29
+48381	Texas	Randall	pcnt_physically_inactive	21
+48383	Texas	Reagan	pcnt_physically_inactive	29
+48385	Texas	Real	pcnt_physically_inactive	30
+48387	Texas	Red River	pcnt_physically_inactive	33
+48389	Texas	Reeves	pcnt_physically_inactive	28
+48391	Texas	Refugio	pcnt_physically_inactive	30
+48393	Texas	Roberts	pcnt_physically_inactive	29
+48395	Texas	Robertson	pcnt_physically_inactive	29
+48397	Texas	Rockwall	pcnt_physically_inactive	27
+48399	Texas	Runnels	pcnt_physically_inactive	28
+48401	Texas	Rusk	pcnt_physically_inactive	28
+48403	Texas	Sabine	pcnt_physically_inactive	31
+48405	Texas	San Augustine	pcnt_physically_inactive	32
+48407	Texas	San Jacinto	pcnt_physically_inactive	31
+48409	Texas	San Patricio	pcnt_physically_inactive	29
+48411	Texas	San Saba	pcnt_physically_inactive	32
+48413	Texas	Schleicher	pcnt_physically_inactive	28
+48415	Texas	Scurry	pcnt_physically_inactive	30
+48417	Texas	Shackelford	pcnt_physically_inactive	28
+48419	Texas	Shelby	pcnt_physically_inactive	33
+48421	Texas	Sherman	pcnt_physically_inactive	28
+48423	Texas	Smith	pcnt_physically_inactive	26
+48425	Texas	Somervell	pcnt_physically_inactive	28
+48427	Texas	Starr	pcnt_physically_inactive	29
+48429	Texas	Stephens	pcnt_physically_inactive	29
+48431	Texas	Sterling	pcnt_physically_inactive	29
+48433	Texas	Stonewall	pcnt_physically_inactive	30
+48435	Texas	Sutton	pcnt_physically_inactive	27
+48437	Texas	Swisher	pcnt_physically_inactive	30
+48439	Texas	Tarrant	pcnt_physically_inactive	22
+48441	Texas	Taylor	pcnt_physically_inactive	33
+48443	Texas	Terrell	pcnt_physically_inactive	31
+48445	Texas	Terry	pcnt_physically_inactive	32
+48447	Texas	Throckmorton	pcnt_physically_inactive	30
+48449	Texas	Titus	pcnt_physically_inactive	27
+48451	Texas	Tom Green	pcnt_physically_inactive	26
+48453	Texas	Travis	pcnt_physically_inactive	18
+48455	Texas	Trinity	pcnt_physically_inactive	34
+48457	Texas	Tyler	pcnt_physically_inactive	30
+48459	Texas	Upshur	pcnt_physically_inactive	36
+48461	Texas	Upton	pcnt_physically_inactive	29
+48463	Texas	Uvalde	pcnt_physically_inactive	28
+48465	Texas	Val Verde	pcnt_physically_inactive	26
+48467	Texas	Van Zandt	pcnt_physically_inactive	31
+48469	Texas	Victoria	pcnt_physically_inactive	26
+48471	Texas	Walker	pcnt_physically_inactive	27
+48473	Texas	Waller	pcnt_physically_inactive	30
+48475	Texas	Ward	pcnt_physically_inactive	31
+48477	Texas	Washington	pcnt_physically_inactive	28
+48479	Texas	Webb	pcnt_physically_inactive	27
+48481	Texas	Wharton	pcnt_physically_inactive	29
+48483	Texas	Wheeler	pcnt_physically_inactive	30
+48485	Texas	Wichita	pcnt_physically_inactive	31
+48487	Texas	Wilbarger	pcnt_physically_inactive	27
+48489	Texas	Willacy	pcnt_physically_inactive	28
+48491	Texas	Williamson	pcnt_physically_inactive	19
+48493	Texas	Wilson	pcnt_physically_inactive	27
+48495	Texas	Winkler	pcnt_physically_inactive	28
+48497	Texas	Wise	pcnt_physically_inactive	30
+48499	Texas	Wood	pcnt_physically_inactive	31
+48501	Texas	Yoakum	pcnt_physically_inactive	29
+48503	Texas	Young	pcnt_physically_inactive	28
+48505	Texas	Zapata	pcnt_physically_inactive	28
+48507	Texas	Zavala	pcnt_physically_inactive	28
+49001	Utah	Beaver	pcnt_physically_inactive	23
+49003	Utah	Box Elder	pcnt_physically_inactive	22
+49005	Utah	Cache	pcnt_physically_inactive	17
+49007	Utah	Carbon	pcnt_physically_inactive	26
+49009	Utah	Daggett	pcnt_physically_inactive	21
+49011	Utah	Davis	pcnt_physically_inactive	16
+49013	Utah	Duchesne	pcnt_physically_inactive	25
+49015	Utah	Emery	pcnt_physically_inactive	22
+49017	Utah	Garfield	pcnt_physically_inactive	25
+49019	Utah	Grand	pcnt_physically_inactive	19
+49021	Utah	Iron	pcnt_physically_inactive	19
+49023	Utah	Juab	pcnt_physically_inactive	21
+49025	Utah	Kane	pcnt_physically_inactive	24
+49027	Utah	Millard	pcnt_physically_inactive	22
+49029	Utah	Morgan	pcnt_physically_inactive	19
+49031	Utah	Piute	pcnt_physically_inactive	27
+49033	Utah	Rich	pcnt_physically_inactive	21
+49035	Utah	Salt Lake	pcnt_physically_inactive	18
+49037	Utah	San Juan	pcnt_physically_inactive	29
+49039	Utah	Sanpete	pcnt_physically_inactive	24
+49041	Utah	Sevier	pcnt_physically_inactive	23
+49043	Utah	Summit	pcnt_physically_inactive	13
+49045	Utah	Tooele	pcnt_physically_inactive	21
+49047	Utah	Uintah	pcnt_physically_inactive	27
+49049	Utah	Utah	pcnt_physically_inactive	15
+49051	Utah	Wasatch	pcnt_physically_inactive	16
+49053	Utah	Washington	pcnt_physically_inactive	18
+49055	Utah	Wayne	pcnt_physically_inactive	22
+49057	Utah	Weber	pcnt_physically_inactive	19
+50001	Vermont	Addison	pcnt_physically_inactive	19
+50003	Vermont	Bennington	pcnt_physically_inactive	21
+50005	Vermont	Caledonia	pcnt_physically_inactive	22
+50007	Vermont	Chittenden	pcnt_physically_inactive	15
+50009	Vermont	Essex	pcnt_physically_inactive	25
+50011	Vermont	Franklin	pcnt_physically_inactive	25
+50013	Vermont	Grand Isle	pcnt_physically_inactive	19
+50015	Vermont	Lamoille	pcnt_physically_inactive	18
+50017	Vermont	Orange	pcnt_physically_inactive	21
+50019	Vermont	Orleans	pcnt_physically_inactive	26
+50021	Vermont	Rutland	pcnt_physically_inactive	23
+50023	Vermont	Washington	pcnt_physically_inactive	18
+50025	Vermont	Windham	pcnt_physically_inactive	17
+50027	Vermont	Windsor	pcnt_physically_inactive	20
+51001	Virginia	Accomack	pcnt_physically_inactive	30
+51003	Virginia	Albemarle	pcnt_physically_inactive	19
+51005	Virginia	Alleghany	pcnt_physically_inactive	26
+51007	Virginia	Amelia	pcnt_physically_inactive	26
+51009	Virginia	Amherst	pcnt_physically_inactive	26
+51011	Virginia	Appomattox	pcnt_physically_inactive	27
+51013	Virginia	Arlington	pcnt_physically_inactive	17
+51015	Virginia	Augusta	pcnt_physically_inactive	26
+51017	Virginia	Bath	pcnt_physically_inactive	27
+51019	Virginia	Bedford	pcnt_physically_inactive	30
+51021	Virginia	Bland	pcnt_physically_inactive	26
+51023	Virginia	Botetourt	pcnt_physically_inactive	22
+51025	Virginia	Brunswick	pcnt_physically_inactive	29
+51027	Virginia	Buchanan	pcnt_physically_inactive	32
+51029	Virginia	Buckingham	pcnt_physically_inactive	28
+51031	Virginia	Campbell	pcnt_physically_inactive	24
+51033	Virginia	Caroline	pcnt_physically_inactive	24
+51035	Virginia	Carroll	pcnt_physically_inactive	30
+51036	Virginia	Charles City	pcnt_physically_inactive	32
+51037	Virginia	Charlotte	pcnt_physically_inactive	27
+51041	Virginia	Chesterfield	pcnt_physically_inactive	22
+51043	Virginia	Clarke	pcnt_physically_inactive	25
+51045	Virginia	Craig	pcnt_physically_inactive	26
+51047	Virginia	Culpeper	pcnt_physically_inactive	24
+51049	Virginia	Cumberland	pcnt_physically_inactive	29
+51051	Virginia	Dickenson	pcnt_physically_inactive	30
+51053	Virginia	Dinwiddie	pcnt_physically_inactive	24
+51057	Virginia	Essex	pcnt_physically_inactive	29
+51059	Virginia	Fairfax	pcnt_physically_inactive	19
+51061	Virginia	Fauquier	pcnt_physically_inactive	21
+51063	Virginia	Floyd	pcnt_physically_inactive	25
+51065	Virginia	Fluvanna	pcnt_physically_inactive	22
+51067	Virginia	Franklin	pcnt_physically_inactive	26
+51069	Virginia	Frederick	pcnt_physically_inactive	26
+51071	Virginia	Giles	pcnt_physically_inactive	29
+51073	Virginia	Gloucester	pcnt_physically_inactive	25
+51075	Virginia	Goochland	pcnt_physically_inactive	22
+51077	Virginia	Grayson	pcnt_physically_inactive	29
+51079	Virginia	Greene	pcnt_physically_inactive	24
+51081	Virginia	Greensville	pcnt_physically_inactive	30
+51083	Virginia	Halifax	pcnt_physically_inactive	33
+51085	Virginia	Hanover	pcnt_physically_inactive	20
+51087	Virginia	Henrico	pcnt_physically_inactive	26
+51089	Virginia	Henry	pcnt_physically_inactive	33
+51091	Virginia	Highland	pcnt_physically_inactive	25
+51093	Virginia	Isle of Wight	pcnt_physically_inactive	28
+51095	Virginia	James City	pcnt_physically_inactive	21
+51097	Virginia	King and Queen	pcnt_physically_inactive	29
+51099	Virginia	King George	pcnt_physically_inactive	21
+51101	Virginia	King William	pcnt_physically_inactive	29
+51103	Virginia	Lancaster	pcnt_physically_inactive	32
+51105	Virginia	Lee	pcnt_physically_inactive	34
+51107	Virginia	Loudoun	pcnt_physically_inactive	20
+51109	Virginia	Louisa	pcnt_physically_inactive	30
+51111	Virginia	Lunenburg	pcnt_physically_inactive	33
+51113	Virginia	Madison	pcnt_physically_inactive	26
+51115	Virginia	Mathews	pcnt_physically_inactive	27
+51117	Virginia	Mecklenburg	pcnt_physically_inactive	29
+51119	Virginia	Middlesex	pcnt_physically_inactive	31
+51121	Virginia	Montgomery	pcnt_physically_inactive	21
+51125	Virginia	Nelson	pcnt_physically_inactive	25
+51127	Virginia	New Kent	pcnt_physically_inactive	22
+51131	Virginia	Northampton	pcnt_physically_inactive	31
+51133	Virginia	Northumberland	pcnt_physically_inactive	30
+51135	Virginia	Nottoway	pcnt_physically_inactive	28
+51137	Virginia	Orange	pcnt_physically_inactive	26
+51139	Virginia	Page	pcnt_physically_inactive	28
+51141	Virginia	Patrick	pcnt_physically_inactive	27
+51143	Virginia	Pittsylvania	pcnt_physically_inactive	28
+51145	Virginia	Powhatan	pcnt_physically_inactive	27
+51147	Virginia	Prince Edward	pcnt_physically_inactive	29
+51149	Virginia	Prince George	pcnt_physically_inactive	28
+51153	Virginia	Prince William	pcnt_physically_inactive	21
+51155	Virginia	Pulaski	pcnt_physically_inactive	25
+51157	Virginia	Rappahannock	pcnt_physically_inactive	26
+51159	Virginia	Richmond	pcnt_physically_inactive	30
+51161	Virginia	Roanoke	pcnt_physically_inactive	24
+51163	Virginia	Rockbridge	pcnt_physically_inactive	29
+51165	Virginia	Rockingham	pcnt_physically_inactive	21
+51167	Virginia	Russell	pcnt_physically_inactive	35
+51169	Virginia	Scott	pcnt_physically_inactive	32
+51171	Virginia	Shenandoah	pcnt_physically_inactive	29
+51173	Virginia	Smyth	pcnt_physically_inactive	25
+51175	Virginia	Southampton	pcnt_physically_inactive	28
+51177	Virginia	Spotsylvania	pcnt_physically_inactive	20
+51179	Virginia	Stafford	pcnt_physically_inactive	20
+51181	Virginia	Surry	pcnt_physically_inactive	27
+51183	Virginia	Sussex	pcnt_physically_inactive	30
+51185	Virginia	Tazewell	pcnt_physically_inactive	38
+51187	Virginia	Warren	pcnt_physically_inactive	25
+51191	Virginia	Washington	pcnt_physically_inactive	30
+51193	Virginia	Westmoreland	pcnt_physically_inactive	31
+51195	Virginia	Wise	pcnt_physically_inactive	38
+51197	Virginia	Wythe	pcnt_physically_inactive	26
+51199	Virginia	York	pcnt_physically_inactive	23
+51510	Virginia	Alexandria City	pcnt_physically_inactive	18
+51515	Virginia	Bedford City	pcnt_physically_inactive	26
+51520	Virginia	Bristol City	pcnt_physically_inactive	27
+51530	Virginia	Buena Vista City	pcnt_physically_inactive	25
+51540	Virginia	Charlottesville City	pcnt_physically_inactive	26
+51550	Virginia	Chesapeake City	pcnt_physically_inactive	22
+51570	Virginia	Colonial Heights City	pcnt_physically_inactive	24
+51580	Virginia	Covington City	pcnt_physically_inactive	26
+51590	Virginia	Danville City	pcnt_physically_inactive	30
+51595	Virginia	Emporia City	pcnt_physically_inactive	30
+51600	Virginia	Fairfax City	pcnt_physically_inactive	27
+51610	Virginia	Falls Church City	pcnt_physically_inactive	22
+51620	Virginia	Franklin City	pcnt_physically_inactive	32
+51630	Virginia	Fredericksburg City	pcnt_physically_inactive	25
+51640	Virginia	Galax City	pcnt_physically_inactive	26
+51650	Virginia	Hampton City	pcnt_physically_inactive	28
+51660	Virginia	Harrisonburg City	pcnt_physically_inactive	24
+51670	Virginia	Hopewell City	pcnt_physically_inactive	30
+51678	Virginia	Lexington City	pcnt_physically_inactive	24
+51680	Virginia	Lynchburg City	pcnt_physically_inactive	30
+51683	Virginia	Manassas City	pcnt_physically_inactive	25
+51685	Virginia	Manassas Park City	pcnt_physically_inactive	25
+51690	Virginia	Martinsville City	pcnt_physically_inactive	29
+51700	Virginia	Newport News City	pcnt_physically_inactive	29
+51710	Virginia	Norfolk City	pcnt_physically_inactive	26
+51720	Virginia	Norton City	pcnt_physically_inactive	25
+51730	Virginia	Petersburg City	pcnt_physically_inactive	33
+51735	Virginia	Poquoson City	pcnt_physically_inactive	23
+51740	Virginia	Portsmouth City	pcnt_physically_inactive	29
+51750	Virginia	Radford City	pcnt_physically_inactive	22
+51760	Virginia	Richmond City	pcnt_physically_inactive	28
+51770	Virginia	Roanoke City	pcnt_physically_inactive	27
+51775	Virginia	Salem City	pcnt_physically_inactive	23
+51790	Virginia	Staunton City	pcnt_physically_inactive	26
+51800	Virginia	Suffolk City	pcnt_physically_inactive	27
+51810	Virginia	Virginia Beach City	pcnt_physically_inactive	24
+51820	Virginia	Waynesboro City	pcnt_physically_inactive	27
+51830	Virginia	Williamsburg City	pcnt_physically_inactive	24
+51840	Virginia	Winchester City	pcnt_physically_inactive	25
+53001	Washington	Adams	pcnt_physically_inactive	27
+53003	Washington	Asotin	pcnt_physically_inactive	24
+53005	Washington	Benton	pcnt_physically_inactive	20
+53007	Washington	Chelan	pcnt_physically_inactive	20
+53009	Washington	Clallam	pcnt_physically_inactive	19
+53011	Washington	Clark	pcnt_physically_inactive	19
+53013	Washington	Columbia	pcnt_physically_inactive	19
+53015	Washington	Cowlitz	pcnt_physically_inactive	23
+53017	Washington	Douglas	pcnt_physically_inactive	21
+53019	Washington	Ferry	pcnt_physically_inactive	25
+53021	Washington	Franklin	pcnt_physically_inactive	20
+53023	Washington	Garfield	pcnt_physically_inactive	27
+53025	Washington	Grant	pcnt_physically_inactive	23
+53027	Washington	Grays Harbor	pcnt_physically_inactive	25
+53029	Washington	Island	pcnt_physically_inactive	16
+53031	Washington	Jefferson	pcnt_physically_inactive	17
+53033	Washington	King	pcnt_physically_inactive	17
+53035	Washington	Kitsap	pcnt_physically_inactive	18
+53037	Washington	Kittitas	pcnt_physically_inactive	18
+53039	Washington	Klickitat	pcnt_physically_inactive	23
+53041	Washington	Lewis	pcnt_physically_inactive	22
+53043	Washington	Lincoln	pcnt_physically_inactive	23
+53045	Washington	Mason	pcnt_physically_inactive	21
+53047	Washington	Okanogan	pcnt_physically_inactive	23
+53049	Washington	Pacific	pcnt_physically_inactive	24
+53051	Washington	Pend Oreille	pcnt_physically_inactive	21
+53053	Washington	Pierce	pcnt_physically_inactive	20
+53055	Washington	San Juan	pcnt_physically_inactive	14
+53057	Washington	Skagit	pcnt_physically_inactive	18
+53059	Washington	Skamania	pcnt_physically_inactive	21
+53061	Washington	Snohomish	pcnt_physically_inactive	19
+53063	Washington	Spokane	pcnt_physically_inactive	21
+53065	Washington	Stevens	pcnt_physically_inactive	24
+53067	Washington	Thurston	pcnt_physically_inactive	19
+53069	Washington	Wahkiakum	pcnt_physically_inactive	22
+53071	Washington	Walla Walla	pcnt_physically_inactive	17
+53073	Washington	Whatcom	pcnt_physically_inactive	16
+53075	Washington	Whitman	pcnt_physically_inactive	20
+53077	Washington	Yakima	pcnt_physically_inactive	24
+54001	West Virginia	Barbour	pcnt_physically_inactive	29
+54003	West Virginia	Berkeley	pcnt_physically_inactive	29
+54005	West Virginia	Boone	pcnt_physically_inactive	41
+54007	West Virginia	Braxton	pcnt_physically_inactive	35
+54009	West Virginia	Brooke	pcnt_physically_inactive	36
+54011	West Virginia	Cabell	pcnt_physically_inactive	31
+54013	West Virginia	Calhoun	pcnt_physically_inactive	33
+54015	West Virginia	Clay	pcnt_physically_inactive	34
+54017	West Virginia	Doddridge	pcnt_physically_inactive	38
+54019	West Virginia	Fayette	pcnt_physically_inactive	35
+54021	West Virginia	Gilmer	pcnt_physically_inactive	35
+54023	West Virginia	Grant	pcnt_physically_inactive	31
+54025	West Virginia	Greenbrier	pcnt_physically_inactive	31
+54027	West Virginia	Hampshire	pcnt_physically_inactive	31
+54029	West Virginia	Hancock	pcnt_physically_inactive	29
+54031	West Virginia	Hardy	pcnt_physically_inactive	28
+54033	West Virginia	Harrison	pcnt_physically_inactive	32
+54035	West Virginia	Jackson	pcnt_physically_inactive	30
+54037	West Virginia	Jefferson	pcnt_physically_inactive	28
+54039	West Virginia	Kanawha	pcnt_physically_inactive	32
+54041	West Virginia	Lewis	pcnt_physically_inactive	33
+54043	West Virginia	Lincoln	pcnt_physically_inactive	39
+54045	West Virginia	Logan	pcnt_physically_inactive	44
+54047	West Virginia	McDowell	pcnt_physically_inactive	44
+54049	West Virginia	Marion	pcnt_physically_inactive	33
+54051	West Virginia	Marshall	pcnt_physically_inactive	37
+54053	West Virginia	Mason	pcnt_physically_inactive	34
+54055	West Virginia	Mercer	pcnt_physically_inactive	35
+54057	West Virginia	Mineral	pcnt_physically_inactive	32
+54059	West Virginia	Mingo	pcnt_physically_inactive	41
+54061	West Virginia	Monongalia	pcnt_physically_inactive	24
+54063	West Virginia	Monroe	pcnt_physically_inactive	32
+54065	West Virginia	Morgan	pcnt_physically_inactive	31
+54067	West Virginia	Nicholas	pcnt_physically_inactive	34
+54069	West Virginia	Ohio	pcnt_physically_inactive	31
+54071	West Virginia	Pendleton	pcnt_physically_inactive	33
+54073	West Virginia	Pleasants	pcnt_physically_inactive	31
+54075	West Virginia	Pocahontas	pcnt_physically_inactive	29
+54077	West Virginia	Preston	pcnt_physically_inactive	33
+54079	West Virginia	Putnam	pcnt_physically_inactive	29
+54081	West Virginia	Raleigh	pcnt_physically_inactive	36
+54083	West Virginia	Randolph	pcnt_physically_inactive	34
+54085	West Virginia	Ritchie	pcnt_physically_inactive	35
+54087	West Virginia	Roane	pcnt_physically_inactive	34
+54089	West Virginia	Summers	pcnt_physically_inactive	35
+54091	West Virginia	Taylor	pcnt_physically_inactive	36
+54093	West Virginia	Tucker	pcnt_physically_inactive	38
+54095	West Virginia	Tyler	pcnt_physically_inactive	30
+54097	West Virginia	Upshur	pcnt_physically_inactive	31
+54099	West Virginia	Wayne	pcnt_physically_inactive	32
+54101	West Virginia	Webster	pcnt_physically_inactive	37
+54103	West Virginia	Wetzel	pcnt_physically_inactive	32
+54105	West Virginia	Wirt	pcnt_physically_inactive	29
+54107	West Virginia	Wood	pcnt_physically_inactive	32
+54109	West Virginia	Wyoming	pcnt_physically_inactive	42
+55001	Wisconsin	Adams	pcnt_physically_inactive	27
+55003	Wisconsin	Ashland	pcnt_physically_inactive	21
+55005	Wisconsin	Barron	pcnt_physically_inactive	25
+55007	Wisconsin	Bayfield	pcnt_physically_inactive	22
+55009	Wisconsin	Brown	pcnt_physically_inactive	20
+55011	Wisconsin	Buffalo	pcnt_physically_inactive	25
+55013	Wisconsin	Burnett	pcnt_physically_inactive	25
+55015	Wisconsin	Calumet	pcnt_physically_inactive	19
+55017	Wisconsin	Chippewa	pcnt_physically_inactive	18
+55019	Wisconsin	Clark	pcnt_physically_inactive	25
+55021	Wisconsin	Columbia	pcnt_physically_inactive	27
+55023	Wisconsin	Crawford	pcnt_physically_inactive	24
+55025	Wisconsin	Dane	pcnt_physically_inactive	17
+55027	Wisconsin	Dodge	pcnt_physically_inactive	24
+55029	Wisconsin	Door	pcnt_physically_inactive	22
+55031	Wisconsin	Douglas	pcnt_physically_inactive	21
+55033	Wisconsin	Dunn	pcnt_physically_inactive	24
+55035	Wisconsin	Eau Claire	pcnt_physically_inactive	23
+55037	Wisconsin	Florence	pcnt_physically_inactive	24
+55039	Wisconsin	Fond du Lac	pcnt_physically_inactive	26
+55041	Wisconsin	Forest	pcnt_physically_inactive	26
+55043	Wisconsin	Grant	pcnt_physically_inactive	20
+55045	Wisconsin	Green	pcnt_physically_inactive	19
+55047	Wisconsin	Green Lake	pcnt_physically_inactive	26
+55049	Wisconsin	Iowa	pcnt_physically_inactive	24
+55051	Wisconsin	Iron	pcnt_physically_inactive	24
+55053	Wisconsin	Jackson	pcnt_physically_inactive	25
+55055	Wisconsin	Jefferson	pcnt_physically_inactive	22
+55057	Wisconsin	Juneau	pcnt_physically_inactive	24
+55059	Wisconsin	Kenosha	pcnt_physically_inactive	23
+55061	Wisconsin	Kewaunee	pcnt_physically_inactive	25
+55063	Wisconsin	La Crosse	pcnt_physically_inactive	19
+55065	Wisconsin	Lafayette	pcnt_physically_inactive	23
+55067	Wisconsin	Langlade	pcnt_physically_inactive	24
+55069	Wisconsin	Lincoln	pcnt_physically_inactive	24
+55071	Wisconsin	Manitowoc	pcnt_physically_inactive	23
+55073	Wisconsin	Marathon	pcnt_physically_inactive	27
+55075	Wisconsin	Marinette	pcnt_physically_inactive	27
+55077	Wisconsin	Marquette	pcnt_physically_inactive	27
+55078	Wisconsin	Menominee	pcnt_physically_inactive	31
+55079	Wisconsin	Milwaukee	pcnt_physically_inactive	27
+55081	Wisconsin	Monroe	pcnt_physically_inactive	25
+55083	Wisconsin	Oconto	pcnt_physically_inactive	25
+55085	Wisconsin	Oneida	pcnt_physically_inactive	22
+55087	Wisconsin	Outagamie	pcnt_physically_inactive	22
+55089	Wisconsin	Ozaukee	pcnt_physically_inactive	18
+55091	Wisconsin	Pepin	pcnt_physically_inactive	26
+55093	Wisconsin	Pierce	pcnt_physically_inactive	21
+55095	Wisconsin	Polk	pcnt_physically_inactive	20
+55097	Wisconsin	Portage	pcnt_physically_inactive	23
+55099	Wisconsin	Price	pcnt_physically_inactive	26
+55101	Wisconsin	Racine	pcnt_physically_inactive	25
+55103	Wisconsin	Richland	pcnt_physically_inactive	25
+55105	Wisconsin	Rock	pcnt_physically_inactive	24
+55107	Wisconsin	Rusk	pcnt_physically_inactive	27
+55109	Wisconsin	St. Croix	pcnt_physically_inactive	17
+55111	Wisconsin	Sauk	pcnt_physically_inactive	24
+55113	Wisconsin	Sawyer	pcnt_physically_inactive	23
+55115	Wisconsin	Shawano	pcnt_physically_inactive	27
+55117	Wisconsin	Sheboygan	pcnt_physically_inactive	23
+55119	Wisconsin	Taylor	pcnt_physically_inactive	25
+55121	Wisconsin	Trempealeau	pcnt_physically_inactive	26
+55123	Wisconsin	Vernon	pcnt_physically_inactive	24
+55125	Wisconsin	Vilas	pcnt_physically_inactive	25
+55127	Wisconsin	Walworth	pcnt_physically_inactive	22
+55129	Wisconsin	Washburn	pcnt_physically_inactive	23
+55131	Wisconsin	Washington	pcnt_physically_inactive	22
+55133	Wisconsin	Waukesha	pcnt_physically_inactive	19
+55135	Wisconsin	Waupaca	pcnt_physically_inactive	23
+55137	Wisconsin	Waushara	pcnt_physically_inactive	25
+55139	Wisconsin	Winnebago	pcnt_physically_inactive	20
+55141	Wisconsin	Wood	pcnt_physically_inactive	20
+56001	Wyoming	Albany	pcnt_physically_inactive	19
+56003	Wyoming	Big Horn	pcnt_physically_inactive	27
+56005	Wyoming	Campbell	pcnt_physically_inactive	27
+56007	Wyoming	Carbon	pcnt_physically_inactive	32
+56009	Wyoming	Converse	pcnt_physically_inactive	24
+56011	Wyoming	Crook	pcnt_physically_inactive	23
+56013	Wyoming	Fremont	pcnt_physically_inactive	25
+56015	Wyoming	Goshen	pcnt_physically_inactive	31
+56017	Wyoming	Hot Springs	pcnt_physically_inactive	25
+56019	Wyoming	Johnson	pcnt_physically_inactive	23
+56021	Wyoming	Laramie	pcnt_physically_inactive	24
+56023	Wyoming	Lincoln	pcnt_physically_inactive	22
+56025	Wyoming	Natrona	pcnt_physically_inactive	24
+56027	Wyoming	Niobrara	pcnt_physically_inactive	30
+56029	Wyoming	Park	pcnt_physically_inactive	23
+56031	Wyoming	Platte	pcnt_physically_inactive	28
+56033	Wyoming	Sheridan	pcnt_physically_inactive	20
+56035	Wyoming	Sublette	pcnt_physically_inactive	23
+56037	Wyoming	Sweetwater	pcnt_physically_inactive	24
+56039	Wyoming	Teton	pcnt_physically_inactive	10
+56041	Wyoming	Uinta	pcnt_physically_inactive	23
+56043	Wyoming	Washakie	pcnt_physically_inactive	25
+56045	Wyoming	Weston	pcnt_physically_inactive	28

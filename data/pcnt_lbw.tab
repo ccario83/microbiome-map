@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_lbw
+01001	Alabama	Autauga	pcnt_lbw	9.4
+01003	Alabama	Baldwin	pcnt_lbw	8.8
+01005	Alabama	Barbour	pcnt_lbw	12.3
+01007	Alabama	Bibb	pcnt_lbw	11.9
+01009	Alabama	Blount	pcnt_lbw	7.6
+01011	Alabama	Bullock	pcnt_lbw	14.1
+01013	Alabama	Butler	pcnt_lbw	10.4
+01015	Alabama	Calhoun	pcnt_lbw	9.2
+01017	Alabama	Chambers	pcnt_lbw	11.4
+01019	Alabama	Cherokee	pcnt_lbw	9.3
+01021	Alabama	Chilton	pcnt_lbw	9.8
+01023	Alabama	Choctaw	pcnt_lbw	10.8
+01025	Alabama	Clarke	pcnt_lbw	12.2
+01027	Alabama	Clay	pcnt_lbw	10.9
+01029	Alabama	Cleburne	pcnt_lbw	7.9
+01031	Alabama	Coffee	pcnt_lbw	9.2
+01033	Alabama	Colbert	pcnt_lbw	11.0
+01035	Alabama	Conecuh	pcnt_lbw	11.6
+01037	Alabama	Coosa	pcnt_lbw	11.7
+01039	Alabama	Covington	pcnt_lbw	9.6
+01041	Alabama	Crenshaw	pcnt_lbw	9.7
+01043	Alabama	Cullman	pcnt_lbw	9.3
+01045	Alabama	Dale	pcnt_lbw	8.4
+01047	Alabama	Dallas	pcnt_lbw	12.6
+01049	Alabama	DeKalb	pcnt_lbw	8.9
+01051	Alabama	Elmore	pcnt_lbw	9.0
+01053	Alabama	Escambia	pcnt_lbw	10.8
+01055	Alabama	Etowah	pcnt_lbw	9.1
+01057	Alabama	Fayette	pcnt_lbw	9.6
+01059	Alabama	Franklin	pcnt_lbw	9.0
+01061	Alabama	Geneva	pcnt_lbw	8.8
+01063	Alabama	Greene	pcnt_lbw	15.3
+01065	Alabama	Hale	pcnt_lbw	13.0
+01067	Alabama	Henry	pcnt_lbw	9.0
+01069	Alabama	Houston	pcnt_lbw	8.5
+01071	Alabama	Jackson	pcnt_lbw	8.9
+01073	Alabama	Jefferson	pcnt_lbw	11.6
+01075	Alabama	Lamar	pcnt_lbw	9.0
+01077	Alabama	Lauderdale	pcnt_lbw	10.1
+01079	Alabama	Lawrence	pcnt_lbw	10.1
+01081	Alabama	Lee	pcnt_lbw	8.0
+01083	Alabama	Limestone	pcnt_lbw	9.6
+01085	Alabama	Lowndes	pcnt_lbw	12.9
+01087	Alabama	Macon	pcnt_lbw	11.4
+01089	Alabama	Madison	pcnt_lbw	10.6
+01091	Alabama	Marengo	pcnt_lbw	12.4
+01093	Alabama	Marion	pcnt_lbw	9.3
+01095	Alabama	Marshall	pcnt_lbw	8.2
+01097	Alabama	Mobile	pcnt_lbw	11.9
+01099	Alabama	Monroe	pcnt_lbw	15.1
+01101	Alabama	Montgomery	pcnt_lbw	11.7
+01103	Alabama	Morgan	pcnt_lbw	9.2
+01105	Alabama	Perry	pcnt_lbw	12.8
+01107	Alabama	Pickens	pcnt_lbw	12.7
+01109	Alabama	Pike	pcnt_lbw	10.1
+01111	Alabama	Randolph	pcnt_lbw	10.2
+01113	Alabama	Russell	pcnt_lbw	11.0
+01115	Alabama	St. Clair	pcnt_lbw	8.7
+01117	Alabama	Shelby	pcnt_lbw	8.5
+01119	Alabama	Sumter	pcnt_lbw	13.6
+01121	Alabama	Talladega	pcnt_lbw	12.7
+01123	Alabama	Tallapoosa	pcnt_lbw	12.0
+01125	Alabama	Tuscaloosa	pcnt_lbw	11.6
+01127	Alabama	Walker	pcnt_lbw	10.2
+01129	Alabama	Washington	pcnt_lbw	10.0
+01131	Alabama	Wilcox	pcnt_lbw	12.9
+01133	Alabama	Winston	pcnt_lbw	9.8
+02013	Alaska	Aleutians East	pcnt_lbw	
+02016	Alaska	Aleutians West	pcnt_lbw	
+02020	Alaska	Anchorage	pcnt_lbw	6.3
+02050	Alaska	Bethel	pcnt_lbw	5.5
+02060	Alaska	Bristol Bay	pcnt_lbw	
+02068	Alaska	Denali	pcnt_lbw	
+02070	Alaska	Dillingham	pcnt_lbw	4.7
+02090	Alaska	Fairbanks North Star	pcnt_lbw	5.6
+02100	Alaska	Haines	pcnt_lbw	
+02110	Alaska	Juneau	pcnt_lbw	4.9
+02122	Alaska	Kenai Peninsula	pcnt_lbw	4.6
+02130	Alaska	Ketchikan Gateway	pcnt_lbw	5.6
+02150	Alaska	Kodiak Island	pcnt_lbw	5.7
+02164	Alaska	Lake and Peninsula	pcnt_lbw	
+02170	Alaska	Matanuska-Susitna	pcnt_lbw	6.1
+02180	Alaska	Nome	pcnt_lbw	6.7
+02185	Alaska	North Slope	pcnt_lbw	7.0
+02188	Alaska	Northwest Arctic	pcnt_lbw	6.4
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_lbw	4.9
+02220	Alaska	Sitka	pcnt_lbw	5.1
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_lbw	
+02240	Alaska	Southeast Fairbanks	pcnt_lbw	5.4
+02261	Alaska	Valdez-Cordova	pcnt_lbw	5.3
+02270	Alaska	Wade Hampton	pcnt_lbw	5.8
+02280	Alaska	Wrangell-Petersburg	pcnt_lbw	6.3
+02282	Alaska	Yakutat	pcnt_lbw	
+02290	Alaska	Yukon-Koyukuk	pcnt_lbw	4.3
+04001	Arizona	Apache	pcnt_lbw	7.2
+04003	Arizona	Cochise	pcnt_lbw	8.1
+04005	Arizona	Coconino	pcnt_lbw	8.0
+04007	Arizona	Gila	pcnt_lbw	8.6
+04009	Arizona	Graham	pcnt_lbw	7.7
+04011	Arizona	Greenlee	pcnt_lbw	7.2
+04012	Arizona	La Paz	pcnt_lbw	5.7
+04013	Arizona	Maricopa	pcnt_lbw	7.0
+04015	Arizona	Mohave	pcnt_lbw	6.9
+04017	Arizona	Navajo	pcnt_lbw	8.1
+04019	Arizona	Pima	pcnt_lbw	7.2
+04021	Arizona	Pinal	pcnt_lbw	6.8
+04023	Arizona	Santa Cruz	pcnt_lbw	7.9
+04025	Arizona	Yavapai	pcnt_lbw	7.2
+04027	Arizona	Yuma	pcnt_lbw	6.1
+05001	Arkansas	Arkansas	pcnt_lbw	11.8
+05003	Arkansas	Ashley	pcnt_lbw	10.2
+05005	Arkansas	Baxter	pcnt_lbw	7.3
+05007	Arkansas	Benton	pcnt_lbw	7.2
+05009	Arkansas	Boone	pcnt_lbw	6.2
+05011	Arkansas	Bradley	pcnt_lbw	9.6
+05013	Arkansas	Calhoun	pcnt_lbw	12.1
+05015	Arkansas	Carroll	pcnt_lbw	6.6
+05017	Arkansas	Chicot	pcnt_lbw	11.7
+05019	Arkansas	Clark	pcnt_lbw	7.8
+05021	Arkansas	Clay	pcnt_lbw	8.0
+05023	Arkansas	Cleburne	pcnt_lbw	8.7
+05025	Arkansas	Cleveland	pcnt_lbw	11.0
+05027	Arkansas	Columbia	pcnt_lbw	9.3
+05029	Arkansas	Conway	pcnt_lbw	6.7
+05031	Arkansas	Craighead	pcnt_lbw	8.3
+05033	Arkansas	Crawford	pcnt_lbw	8.0
+05035	Arkansas	Crittenden	pcnt_lbw	12.4
+05037	Arkansas	Cross	pcnt_lbw	12.1
+05039	Arkansas	Dallas	pcnt_lbw	14.2
+05041	Arkansas	Desha	pcnt_lbw	15.0
+05043	Arkansas	Drew	pcnt_lbw	10.1
+05045	Arkansas	Faulkner	pcnt_lbw	7.7
+05047	Arkansas	Franklin	pcnt_lbw	8.0
+05049	Arkansas	Fulton	pcnt_lbw	8.1
+05051	Arkansas	Garland	pcnt_lbw	9.2
+05053	Arkansas	Grant	pcnt_lbw	9.3
+05055	Arkansas	Greene	pcnt_lbw	7.6
+05057	Arkansas	Hempstead	pcnt_lbw	10.8
+05059	Arkansas	Hot Spring	pcnt_lbw	8.0
+05061	Arkansas	Howard	pcnt_lbw	9.1
+05063	Arkansas	Independence	pcnt_lbw	9.1
+05065	Arkansas	Izard	pcnt_lbw	8.2
+05067	Arkansas	Jackson	pcnt_lbw	10.8
+05069	Arkansas	Jefferson	pcnt_lbw	12.4
+05071	Arkansas	Johnson	pcnt_lbw	7.1
+05073	Arkansas	Lafayette	pcnt_lbw	12.7
+05075	Arkansas	Lawrence	pcnt_lbw	7.6
+05077	Arkansas	Lee	pcnt_lbw	13.3
+05079	Arkansas	Lincoln	pcnt_lbw	9.5
+05081	Arkansas	Little River	pcnt_lbw	9.9
+05083	Arkansas	Logan	pcnt_lbw	8.9
+05085	Arkansas	Lonoke	pcnt_lbw	7.8
+05087	Arkansas	Madison	pcnt_lbw	6.9
+05089	Arkansas	Marion	pcnt_lbw	7.4
+05091	Arkansas	Miller	pcnt_lbw	10.5
+05093	Arkansas	Mississippi	pcnt_lbw	11.6
+05095	Arkansas	Monroe	pcnt_lbw	12.2
+05097	Arkansas	Montgomery	pcnt_lbw	7.6
+05099	Arkansas	Nevada	pcnt_lbw	10.8
+05101	Arkansas	Newton	pcnt_lbw	8.9
+05103	Arkansas	Ouachita	pcnt_lbw	11.6
+05105	Arkansas	Perry	pcnt_lbw	8.1
+05107	Arkansas	Phillips	pcnt_lbw	13.5
+05109	Arkansas	Pike	pcnt_lbw	8.3
+05111	Arkansas	Poinsett	pcnt_lbw	9.9
+05113	Arkansas	Polk	pcnt_lbw	8.1
+05115	Arkansas	Pope	pcnt_lbw	7.5
+05117	Arkansas	Prairie	pcnt_lbw	9.1
+05119	Arkansas	Pulaski	pcnt_lbw	10.5
+05121	Arkansas	Randolph	pcnt_lbw	7.3
+05123	Arkansas	St. Francis	pcnt_lbw	12.9
+05125	Arkansas	Saline	pcnt_lbw	8.3
+05127	Arkansas	Scott	pcnt_lbw	7.8
+05129	Arkansas	Searcy	pcnt_lbw	7.2
+05131	Arkansas	Sebastian	pcnt_lbw	8.3
+05133	Arkansas	Sevier	pcnt_lbw	7.1
+05135	Arkansas	Sharp	pcnt_lbw	8.1
+05137	Arkansas	Stone	pcnt_lbw	12.5
+05139	Arkansas	Union	pcnt_lbw	10.2
+05141	Arkansas	Van Buren	pcnt_lbw	8.6
+05143	Arkansas	Washington	pcnt_lbw	7.2
+05145	Arkansas	White	pcnt_lbw	8.3
+05147	Arkansas	Woodruff	pcnt_lbw	12.3
+05149	Arkansas	Yell	pcnt_lbw	8.9
+06001	California	Alameda	pcnt_lbw	7.1
+06003	California	Alpine	pcnt_lbw	
+06005	California	Amador	pcnt_lbw	4.9
+06007	California	Butte	pcnt_lbw	5.8
+06009	California	Calaveras	pcnt_lbw	5.9
+06011	California	Colusa	pcnt_lbw	5.3
+06013	California	Contra Costa	pcnt_lbw	6.7
+06015	California	Del Norte	pcnt_lbw	5.4
+06017	California	El Dorado	pcnt_lbw	6.3
+06019	California	Fresno	pcnt_lbw	7.4
+06021	California	Glenn	pcnt_lbw	4.7
+06023	California	Humboldt	pcnt_lbw	6.0
+06025	California	Imperial	pcnt_lbw	6.2
+06027	California	Inyo	pcnt_lbw	8.5
+06029	California	Kern	pcnt_lbw	7.1
+06031	California	Kings	pcnt_lbw	6.5
+06033	California	Lake	pcnt_lbw	5.9
+06035	California	Lassen	pcnt_lbw	6.3
+06037	California	Los Angeles	pcnt_lbw	7.3
+06039	California	Madera	pcnt_lbw	6.3
+06041	California	Marin	pcnt_lbw	6.3
+06043	California	Mariposa	pcnt_lbw	5.1
+06045	California	Mendocino	pcnt_lbw	6.3
+06047	California	Merced	pcnt_lbw	6.4
+06049	California	Modoc	pcnt_lbw	6.0
+06051	California	Mono	pcnt_lbw	8.8
+06053	California	Monterey	pcnt_lbw	5.9
+06055	California	Napa	pcnt_lbw	6.1
+06057	California	Nevada	pcnt_lbw	5.9
+06059	California	Orange	pcnt_lbw	6.4
+06061	California	Placer	pcnt_lbw	5.7
+06063	California	Plumas	pcnt_lbw	5.3
+06065	California	Riverside	pcnt_lbw	6.5
+06067	California	Sacramento	pcnt_lbw	6.9
+06069	California	San Benito	pcnt_lbw	6.0
+06071	California	San Bernardino	pcnt_lbw	7.1
+06073	California	San Diego	pcnt_lbw	6.6
+06075	California	San Francisco	pcnt_lbw	7.0
+06077	California	San Joaquin	pcnt_lbw	6.9
+06079	California	San Luis Obispo	pcnt_lbw	6.0
+06081	California	San Mateo	pcnt_lbw	6.7
+06083	California	Santa Barbara	pcnt_lbw	6.2
+06085	California	Santa Clara	pcnt_lbw	6.7
+06087	California	Santa Cruz	pcnt_lbw	5.8
+06089	California	Shasta	pcnt_lbw	6.2
+06091	California	Sierra	pcnt_lbw	
+06093	California	Siskiyou	pcnt_lbw	7.4
+06095	California	Solano	pcnt_lbw	7.1
+06097	California	Sonoma	pcnt_lbw	5.8
+06099	California	Stanislaus	pcnt_lbw	6.4
+06101	California	Sutter	pcnt_lbw	5.8
+06103	California	Tehama	pcnt_lbw	5.5
+06105	California	Trinity	pcnt_lbw	5.0
+06107	California	Tulare	pcnt_lbw	6.2
+06109	California	Tuolumne	pcnt_lbw	4.7
+06111	California	Ventura	pcnt_lbw	6.5
+06113	California	Yolo	pcnt_lbw	5.3
+06115	California	Yuba	pcnt_lbw	6.2
+08001	Colorado	Adams	pcnt_lbw	8.8
+08003	Colorado	Alamosa	pcnt_lbw	11.1
+08005	Colorado	Arapahoe	pcnt_lbw	9.4
+08007	Colorado	Archuleta	pcnt_lbw	9.4
+08009	Colorado	Baca	pcnt_lbw	11.8
+08011	Colorado	Bent	pcnt_lbw	14.3
+08013	Colorado	Boulder	pcnt_lbw	7.7
+08014	Colorado	Broomfield	pcnt_lbw	7.5
+08015	Colorado	Chaffee	pcnt_lbw	10.4
+08017	Colorado	Cheyenne	pcnt_lbw	
+08019	Colorado	Clear Creek	pcnt_lbw	11.9
+08021	Colorado	Conejos	pcnt_lbw	12.1
+08023	Colorado	Costilla	pcnt_lbw	12.1
+08025	Colorado	Crowley	pcnt_lbw	10.6
+08027	Colorado	Custer	pcnt_lbw	
+08029	Colorado	Delta	pcnt_lbw	9.8
+08031	Colorado	Denver	pcnt_lbw	9.5
+08033	Colorado	Dolores	pcnt_lbw	
+08035	Colorado	Douglas	pcnt_lbw	8.9
+08037	Colorado	Eagle	pcnt_lbw	8.8
+08039	Colorado	Elbert	pcnt_lbw	10.3
+08041	Colorado	El Paso	pcnt_lbw	9.7
+08043	Colorado	Fremont	pcnt_lbw	9.7
+08045	Colorado	Garfield	pcnt_lbw	7.1
+08047	Colorado	Gilpin	pcnt_lbw	10.5
+08049	Colorado	Grand	pcnt_lbw	10.5
+08051	Colorado	Gunnison	pcnt_lbw	10.1
+08053	Colorado	Hinsdale	pcnt_lbw	
+08055	Colorado	Huerfano	pcnt_lbw	12.2
+08057	Colorado	Jackson	pcnt_lbw	
+08059	Colorado	Jefferson	pcnt_lbw	8.6
+08061	Colorado	Kiowa	pcnt_lbw	
+08063	Colorado	Kit Carson	pcnt_lbw	7.5
+08065	Colorado	Lake	pcnt_lbw	15.2
+08067	Colorado	La Plata	pcnt_lbw	8.0
+08069	Colorado	Larimer	pcnt_lbw	7.8
+08071	Colorado	Las Animas	pcnt_lbw	11.0
+08073	Colorado	Lincoln	pcnt_lbw	9.0
+08075	Colorado	Logan	pcnt_lbw	7.1
+08077	Colorado	Mesa	pcnt_lbw	7.5
+08079	Colorado	Mineral	pcnt_lbw	
+08081	Colorado	Moffat	pcnt_lbw	9.3
+08083	Colorado	Montezuma	pcnt_lbw	7.3
+08085	Colorado	Montrose	pcnt_lbw	9.1
+08087	Colorado	Morgan	pcnt_lbw	7.6
+08089	Colorado	Otero	pcnt_lbw	11.0
+08091	Colorado	Ouray	pcnt_lbw	9.1
+08093	Colorado	Park	pcnt_lbw	11.7
+08095	Colorado	Phillips	pcnt_lbw	6.3
+08097	Colorado	Pitkin	pcnt_lbw	8.2
+08099	Colorado	Prowers	pcnt_lbw	8.7
+08101	Colorado	Pueblo	pcnt_lbw	9.2
+08103	Colorado	Rio Blanco	pcnt_lbw	7.9
+08105	Colorado	Rio Grande	pcnt_lbw	11.2
+08107	Colorado	Routt	pcnt_lbw	9.4
+08109	Colorado	Saguache	pcnt_lbw	10.7
+08111	Colorado	San Juan	pcnt_lbw	
+08113	Colorado	San Miguel	pcnt_lbw	8.2
+08115	Colorado	Sedgwick	pcnt_lbw	
+08117	Colorado	Summit	pcnt_lbw	11.3
+08119	Colorado	Teller	pcnt_lbw	14.0
+08121	Colorado	Washington	pcnt_lbw	6.3
+08123	Colorado	Weld	pcnt_lbw	7.6
+08125	Colorado	Yuma	pcnt_lbw	6.8
+09001	Connecticut	Fairfield	pcnt_lbw	7.6
+09003	Connecticut	Hartford	pcnt_lbw	8.7
+09005	Connecticut	Litchfield	pcnt_lbw	7.0
+09007	Connecticut	Middlesex	pcnt_lbw	6.7
+09009	Connecticut	New Haven	pcnt_lbw	8.5
+09011	Connecticut	New London	pcnt_lbw	7.1
+09013	Connecticut	Tolland	pcnt_lbw	7.3
+09015	Connecticut	Windham	pcnt_lbw	7.7
+10001	Delaware	Kent	pcnt_lbw	8.8
+10003	Delaware	New Castle	pcnt_lbw	9.5
+10005	Delaware	Sussex	pcnt_lbw	7.9
+11001	District of Columbia	District of Columbia	pcnt_lbw	10.8
+12001	Florida	Alachua	pcnt_lbw	8.9
+12003	Florida	Baker	pcnt_lbw	8.8
+12005	Florida	Bay	pcnt_lbw	8.4
+12007	Florida	Bradford	pcnt_lbw	10.1
+12009	Florida	Brevard	pcnt_lbw	8.4
+12011	Florida	Broward	pcnt_lbw	9.2
+12013	Florida	Calhoun	pcnt_lbw	8.4
+12015	Florida	Charlotte	pcnt_lbw	7.3
+12017	Florida	Citrus	pcnt_lbw	7.6
+12019	Florida	Clay	pcnt_lbw	7.6
+12021	Florida	Collier	pcnt_lbw	7.0
+12023	Florida	Columbia	pcnt_lbw	8.7
+12027	Florida	DeSoto	pcnt_lbw	7.3
+12029	Florida	Dixie	pcnt_lbw	7.3
+12031	Florida	Duval	pcnt_lbw	9.6
+12033	Florida	Escambia	pcnt_lbw	10.3
+12035	Florida	Flagler	pcnt_lbw	7.9
+12037	Florida	Franklin	pcnt_lbw	8.0
+12039	Florida	Gadsden	pcnt_lbw	11.8
+12041	Florida	Gilchrist	pcnt_lbw	7.6
+12043	Florida	Glades	pcnt_lbw	9.5
+12045	Florida	Gulf	pcnt_lbw	8.5
+12047	Florida	Hamilton	pcnt_lbw	10.8
+12049	Florida	Hardee	pcnt_lbw	7.8
+12051	Florida	Hendry	pcnt_lbw	8.1
+12053	Florida	Hernando	pcnt_lbw	7.8
+12055	Florida	Highlands	pcnt_lbw	8.1
+12057	Florida	Hillsborough	pcnt_lbw	8.9
+12059	Florida	Holmes	pcnt_lbw	7.8
+12061	Florida	Indian River	pcnt_lbw	7.1
+12063	Florida	Jackson	pcnt_lbw	9.8
+12065	Florida	Jefferson	pcnt_lbw	10.8
+12067	Florida	Lafayette	pcnt_lbw	8.1
+12069	Florida	Lake	pcnt_lbw	7.9
+12071	Florida	Lee	pcnt_lbw	8.2
+12073	Florida	Leon	pcnt_lbw	9.4
+12075	Florida	Levy	pcnt_lbw	8.1
+12077	Florida	Liberty	pcnt_lbw	10.1
+12079	Florida	Madison	pcnt_lbw	9.9
+12081	Florida	Manatee	pcnt_lbw	7.6
+12083	Florida	Marion	pcnt_lbw	8.3
+12085	Florida	Martin	pcnt_lbw	7.7
+12086	Florida	Miami-Dade	pcnt_lbw	8.9
+12087	Florida	Monroe	pcnt_lbw	7.6
+12089	Florida	Nassau	pcnt_lbw	7.9
+12091	Florida	Okaloosa	pcnt_lbw	7.9
+12093	Florida	Okeechobee	pcnt_lbw	9.0
+12095	Florida	Orange	pcnt_lbw	9.1
+12097	Florida	Osceola	pcnt_lbw	8.3
+12099	Florida	Palm Beach	pcnt_lbw	9.2
+12101	Florida	Pasco	pcnt_lbw	8.3
+12103	Florida	Pinellas	pcnt_lbw	8.5
+12105	Florida	Polk	pcnt_lbw	8.4
+12107	Florida	Putnam	pcnt_lbw	9.9
+12109	Florida	St. Johns	pcnt_lbw	6.8
+12111	Florida	St. Lucie	pcnt_lbw	8.4
+12113	Florida	Santa Rosa	pcnt_lbw	7.5
+12115	Florida	Sarasota	pcnt_lbw	7.1
+12117	Florida	Seminole	pcnt_lbw	7.8
+12119	Florida	Sumter	pcnt_lbw	9.3
+12121	Florida	Suwannee	pcnt_lbw	8.0
+12123	Florida	Taylor	pcnt_lbw	9.9
+12125	Florida	Union	pcnt_lbw	8.8
+12127	Florida	Volusia	pcnt_lbw	8.2
+12129	Florida	Wakulla	pcnt_lbw	9.1
+12131	Florida	Walton	pcnt_lbw	8.6
+12133	Florida	Washington	pcnt_lbw	9.1
+13001	Georgia	Appling	pcnt_lbw	11.1
+13003	Georgia	Atkinson	pcnt_lbw	7.1
+13005	Georgia	Bacon	pcnt_lbw	10.9
+13007	Georgia	Baker	pcnt_lbw	9.2
+13009	Georgia	Baldwin	pcnt_lbw	10.4
+13011	Georgia	Banks	pcnt_lbw	9.0
+13013	Georgia	Barrow	pcnt_lbw	7.8
+13015	Georgia	Bartow	pcnt_lbw	8.1
+13017	Georgia	Ben Hill	pcnt_lbw	16.3
+13019	Georgia	Berrien	pcnt_lbw	9.7
+13021	Georgia	Bibb	pcnt_lbw	13.3
+13023	Georgia	Bleckley	pcnt_lbw	12.5
+13025	Georgia	Brantley	pcnt_lbw	7.1
+13027	Georgia	Brooks	pcnt_lbw	12.9
+13029	Georgia	Bryan	pcnt_lbw	6.8
+13031	Georgia	Bulloch	pcnt_lbw	9.6
+13033	Georgia	Burke	pcnt_lbw	12.7
+13035	Georgia	Butts	pcnt_lbw	10.3
+13037	Georgia	Calhoun	pcnt_lbw	12.1
+13039	Georgia	Camden	pcnt_lbw	8.6
+13043	Georgia	Candler	pcnt_lbw	7.3
+13045	Georgia	Carroll	pcnt_lbw	7.7
+13047	Georgia	Catoosa	pcnt_lbw	8.5
+13049	Georgia	Charlton	pcnt_lbw	8.7
+13051	Georgia	Chatham	pcnt_lbw	10.4
+13053	Georgia	Chattahoochee	pcnt_lbw	7.3
+13055	Georgia	Chattooga	pcnt_lbw	9.4
+13057	Georgia	Cherokee	pcnt_lbw	7.5
+13059	Georgia	Clarke	pcnt_lbw	9.0
+13061	Georgia	Clay	pcnt_lbw	12.6
+13063	Georgia	Clayton	pcnt_lbw	10.7
+13065	Georgia	Clinch	pcnt_lbw	13.2
+13067	Georgia	Cobb	pcnt_lbw	8.2
+13069	Georgia	Coffee	pcnt_lbw	10.2
+13071	Georgia	Colquitt	pcnt_lbw	10.6
+13073	Georgia	Columbia	pcnt_lbw	7.5
+13075	Georgia	Cook	pcnt_lbw	11.5
+13077	Georgia	Coweta	pcnt_lbw	7.1
+13079	Georgia	Crawford	pcnt_lbw	9.1
+13081	Georgia	Crisp	pcnt_lbw	14.4
+13083	Georgia	Dade	pcnt_lbw	8.8
+13085	Georgia	Dawson	pcnt_lbw	7.8
+13087	Georgia	Decatur	pcnt_lbw	11.3
+13089	Georgia	DeKalb	pcnt_lbw	10.3
+13091	Georgia	Dodge	pcnt_lbw	12.1
+13093	Georgia	Dooly	pcnt_lbw	13.2
+13095	Georgia	Dougherty	pcnt_lbw	13.3
+13097	Georgia	Douglas	pcnt_lbw	9.2
+13099	Georgia	Early	pcnt_lbw	13.6
+13101	Georgia	Echols	pcnt_lbw	
+13103	Georgia	Effingham	pcnt_lbw	8.7
+13105	Georgia	Elbert	pcnt_lbw	9.9
+13107	Georgia	Emanuel	pcnt_lbw	10.1
+13109	Georgia	Evans	pcnt_lbw	8.7
+13111	Georgia	Fannin	pcnt_lbw	8.6
+13113	Georgia	Fayette	pcnt_lbw	6.7
+13115	Georgia	Floyd	pcnt_lbw	9.7
+13117	Georgia	Forsyth	pcnt_lbw	7.3
+13119	Georgia	Franklin	pcnt_lbw	9.4
+13121	Georgia	Fulton	pcnt_lbw	10.8
+13123	Georgia	Gilmer	pcnt_lbw	8.7
+13125	Georgia	Glascock	pcnt_lbw	11.0
+13127	Georgia	Glynn	pcnt_lbw	9.6
+13129	Georgia	Gordon	pcnt_lbw	7.5
+13131	Georgia	Grady	pcnt_lbw	9.9
+13133	Georgia	Greene	pcnt_lbw	10.9
+13135	Georgia	Gwinnett	pcnt_lbw	7.8
+13137	Georgia	Habersham	pcnt_lbw	7.7
+13139	Georgia	Hall	pcnt_lbw	7.4
+13141	Georgia	Hancock	pcnt_lbw	14.8
+13143	Georgia	Haralson	pcnt_lbw	7.8
+13145	Georgia	Harris	pcnt_lbw	9.1
+13147	Georgia	Hart	pcnt_lbw	9.6
+13149	Georgia	Heard	pcnt_lbw	8.5
+13151	Georgia	Henry	pcnt_lbw	8.7
+13153	Georgia	Houston	pcnt_lbw	9.1
+13155	Georgia	Irwin	pcnt_lbw	14.0
+13157	Georgia	Jackson	pcnt_lbw	7.9
+13159	Georgia	Jasper	pcnt_lbw	9.2
+13161	Georgia	Jeff Davis	pcnt_lbw	9.7
+13163	Georgia	Jefferson	pcnt_lbw	11.7
+13165	Georgia	Jenkins	pcnt_lbw	11.2
+13167	Georgia	Johnson	pcnt_lbw	11.7
+13169	Georgia	Jones	pcnt_lbw	10.5
+13171	Georgia	Lamar	pcnt_lbw	11.3
+13173	Georgia	Lanier	pcnt_lbw	9.1
+13175	Georgia	Laurens	pcnt_lbw	10.5
+13177	Georgia	Lee	pcnt_lbw	8.6
+13179	Georgia	Liberty	pcnt_lbw	9.0
+13181	Georgia	Lincoln	pcnt_lbw	10.5
+13183	Georgia	Long	pcnt_lbw	9.4
+13185	Georgia	Lowndes	pcnt_lbw	11.2
+13187	Georgia	Lumpkin	pcnt_lbw	6.9
+13189	Georgia	McDuffie	pcnt_lbw	11.9
+13191	Georgia	McIntosh	pcnt_lbw	10.7
+13193	Georgia	Macon	pcnt_lbw	13.4
+13195	Georgia	Madison	pcnt_lbw	9.0
+13197	Georgia	Marion	pcnt_lbw	11.0
+13199	Georgia	Meriwether	pcnt_lbw	10.0
+13201	Georgia	Miller	pcnt_lbw	10.3
+13205	Georgia	Mitchell	pcnt_lbw	11.6
+13207	Georgia	Monroe	pcnt_lbw	10.3
+13209	Georgia	Montgomery	pcnt_lbw	11.0
+13211	Georgia	Morgan	pcnt_lbw	7.6
+13213	Georgia	Murray	pcnt_lbw	7.6
+13215	Georgia	Muscogee	pcnt_lbw	11.0
+13217	Georgia	Newton	pcnt_lbw	9.6
+13219	Georgia	Oconee	pcnt_lbw	8.1
+13221	Georgia	Oglethorpe	pcnt_lbw	8.0
+13223	Georgia	Paulding	pcnt_lbw	7.6
+13225	Georgia	Peach	pcnt_lbw	9.5
+13227	Georgia	Pickens	pcnt_lbw	7.4
+13229	Georgia	Pierce	pcnt_lbw	8.9
+13231	Georgia	Pike	pcnt_lbw	9.5
+13233	Georgia	Polk	pcnt_lbw	9.0
+13235	Georgia	Pulaski	pcnt_lbw	10.2
+13237	Georgia	Putnam	pcnt_lbw	9.5
+13239	Georgia	Quitman	pcnt_lbw	17.3
+13241	Georgia	Rabun	pcnt_lbw	8.9
+13243	Georgia	Randolph	pcnt_lbw	17.5
+13245	Georgia	Richmond	pcnt_lbw	11.4
+13247	Georgia	Rockdale	pcnt_lbw	9.4
+13249	Georgia	Schley	pcnt_lbw	8.2
+13251	Georgia	Screven	pcnt_lbw	11.5
+13253	Georgia	Seminole	pcnt_lbw	10.2
+13255	Georgia	Spalding	pcnt_lbw	14.1
+13257	Georgia	Stephens	pcnt_lbw	9.3
+13259	Georgia	Stewart	pcnt_lbw	12.7
+13261	Georgia	Sumter	pcnt_lbw	12.0
+13263	Georgia	Talbot	pcnt_lbw	15.6
+13265	Georgia	Taliaferro	pcnt_lbw	
+13267	Georgia	Tattnall	pcnt_lbw	8.9
+13269	Georgia	Taylor	pcnt_lbw	10.9
+13271	Georgia	Telfair	pcnt_lbw	10.8
+13273	Georgia	Terrell	pcnt_lbw	17.3
+13275	Georgia	Thomas	pcnt_lbw	10.9
+13277	Georgia	Tift	pcnt_lbw	11.6
+13279	Georgia	Toombs	pcnt_lbw	10.3
+13281	Georgia	Towns	pcnt_lbw	7.3
+13283	Georgia	Treutlen	pcnt_lbw	10.6
+13285	Georgia	Troup	pcnt_lbw	10.5
+13287	Georgia	Turner	pcnt_lbw	14.0
+13289	Georgia	Twiggs	pcnt_lbw	13.2
+13291	Georgia	Union	pcnt_lbw	7.7
+13293	Georgia	Upson	pcnt_lbw	11.1
+13295	Georgia	Walker	pcnt_lbw	10.3
+13297	Georgia	Walton	pcnt_lbw	8.0
+13299	Georgia	Ware	pcnt_lbw	10.2
+13301	Georgia	Warren	pcnt_lbw	11.3
+13303	Georgia	Washington	pcnt_lbw	12.6
+13305	Georgia	Wayne	pcnt_lbw	9.3
+13307	Georgia	Webster	pcnt_lbw	16.1
+13309	Georgia	Wheeler	pcnt_lbw	10.6
+13311	Georgia	White	pcnt_lbw	6.4
+13313	Georgia	Whitfield	pcnt_lbw	7.0
+13315	Georgia	Wilcox	pcnt_lbw	10.9
+13317	Georgia	Wilkes	pcnt_lbw	9.6
+13319	Georgia	Wilkinson	pcnt_lbw	12.0
+13321	Georgia	Worth	pcnt_lbw	12.7
+15001	Hawaii	Hawaii	pcnt_lbw	8.0
+15003	Hawaii	Honolulu	pcnt_lbw	8.3
+15005	Hawaii	Kalawao	pcnt_lbw	
+15007	Hawaii	Kauai	pcnt_lbw	7.7
+15009	Hawaii	Maui	pcnt_lbw	7.3
+16001	Idaho	Ada	pcnt_lbw	6.9
+16003	Idaho	Adams	pcnt_lbw	
+16005	Idaho	Bannock	pcnt_lbw	7.3
+16007	Idaho	Bear Lake	pcnt_lbw	8.0
+16009	Idaho	Benewah	pcnt_lbw	6.9
+16011	Idaho	Bingham	pcnt_lbw	8.6
+16013	Idaho	Blaine	pcnt_lbw	6.8
+16015	Idaho	Boise	pcnt_lbw	8.3
+16017	Idaho	Bonner	pcnt_lbw	6.3
+16019	Idaho	Bonneville	pcnt_lbw	7.5
+16021	Idaho	Boundary	pcnt_lbw	3.4
+16023	Idaho	Butte	pcnt_lbw	8.9
+16025	Idaho	Camas	pcnt_lbw	
+16027	Idaho	Canyon	pcnt_lbw	6.1
+16029	Idaho	Caribou	pcnt_lbw	7.2
+16031	Idaho	Cassia	pcnt_lbw	6.8
+16033	Idaho	Clark	pcnt_lbw	
+16035	Idaho	Clearwater	pcnt_lbw	5.5
+16037	Idaho	Custer	pcnt_lbw	
+16039	Idaho	Elmore	pcnt_lbw	6.9
+16041	Idaho	Franklin	pcnt_lbw	5.6
+16043	Idaho	Fremont	pcnt_lbw	7.2
+16045	Idaho	Gem	pcnt_lbw	7.2
+16047	Idaho	Gooding	pcnt_lbw	6.6
+16049	Idaho	Idaho	pcnt_lbw	4.9
+16051	Idaho	Jefferson	pcnt_lbw	5.3
+16053	Idaho	Jerome	pcnt_lbw	7.3
+16055	Idaho	Kootenai	pcnt_lbw	6.0
+16057	Idaho	Latah	pcnt_lbw	5.2
+16059	Idaho	Lemhi	pcnt_lbw	7.5
+16061	Idaho	Lewis	pcnt_lbw	
+16063	Idaho	Lincoln	pcnt_lbw	5.3
+16065	Idaho	Madison	pcnt_lbw	5.3
+16067	Idaho	Minidoka	pcnt_lbw	7.2
+16069	Idaho	Nez Perce	pcnt_lbw	6.2
+16071	Idaho	Oneida	pcnt_lbw	7.8
+16073	Idaho	Owyhee	pcnt_lbw	5.5
+16075	Idaho	Payette	pcnt_lbw	7.3
+16077	Idaho	Power	pcnt_lbw	7.4
+16079	Idaho	Shoshone	pcnt_lbw	6.6
+16081	Idaho	Teton	pcnt_lbw	7.0
+16083	Idaho	Twin Falls	pcnt_lbw	7.2
+16085	Idaho	Valley	pcnt_lbw	4.7
+16087	Idaho	Washington	pcnt_lbw	6.8
+17001	Illinois	Adams	pcnt_lbw	7.0
+17003	Illinois	Alexander	pcnt_lbw	12.2
+17005	Illinois	Bond	pcnt_lbw	7.3
+17007	Illinois	Boone	pcnt_lbw	7.3
+17009	Illinois	Brown	pcnt_lbw	7.4
+17011	Illinois	Bureau	pcnt_lbw	6.0
+17013	Illinois	Calhoun	pcnt_lbw	6.8
+17015	Illinois	Carroll	pcnt_lbw	8.2
+17017	Illinois	Cass	pcnt_lbw	6.5
+17019	Illinois	Champaign	pcnt_lbw	8.3
+17021	Illinois	Christian	pcnt_lbw	9.3
+17023	Illinois	Clark	pcnt_lbw	7.4
+17025	Illinois	Clay	pcnt_lbw	7.4
+17027	Illinois	Clinton	pcnt_lbw	6.3
+17029	Illinois	Coles	pcnt_lbw	6.8
+17031	Illinois	Cook	pcnt_lbw	9.2
+17033	Illinois	Crawford	pcnt_lbw	9.3
+17035	Illinois	Cumberland	pcnt_lbw	6.8
+17037	Illinois	DeKalb	pcnt_lbw	6.7
+17039	Illinois	De Witt	pcnt_lbw	8.4
+17041	Illinois	Douglas	pcnt_lbw	6.2
+17043	Illinois	DuPage	pcnt_lbw	7.2
+17045	Illinois	Edgar	pcnt_lbw	6.9
+17047	Illinois	Edwards	pcnt_lbw	8.3
+17049	Illinois	Effingham	pcnt_lbw	7.3
+17051	Illinois	Fayette	pcnt_lbw	9.0
+17053	Illinois	Ford	pcnt_lbw	8.1
+17055	Illinois	Franklin	pcnt_lbw	8.3
+17057	Illinois	Fulton	pcnt_lbw	8.0
+17059	Illinois	Gallatin	pcnt_lbw	9.1
+17061	Illinois	Greene	pcnt_lbw	8.8
+17063	Illinois	Grundy	pcnt_lbw	7.1
+17065	Illinois	Hamilton	pcnt_lbw	10.2
+17067	Illinois	Hancock	pcnt_lbw	5.6
+17069	Illinois	Hardin	pcnt_lbw	10.2
+17071	Illinois	Henderson	pcnt_lbw	7.1
+17073	Illinois	Henry	pcnt_lbw	6.1
+17075	Illinois	Iroquois	pcnt_lbw	6.5
+17077	Illinois	Jackson	pcnt_lbw	7.7
+17079	Illinois	Jasper	pcnt_lbw	9.3
+17081	Illinois	Jefferson	pcnt_lbw	9.6
+17083	Illinois	Jersey	pcnt_lbw	6.9
+17085	Illinois	Jo Daviess	pcnt_lbw	6.3
+17087	Illinois	Johnson	pcnt_lbw	7.7
+17089	Illinois	Kane	pcnt_lbw	7.4
+17091	Illinois	Kankakee	pcnt_lbw	8.4
+17093	Illinois	Kendall	pcnt_lbw	7.4
+17095	Illinois	Knox	pcnt_lbw	8.2
+17097	Illinois	Lake	pcnt_lbw	7.6
+17099	Illinois	LaSalle	pcnt_lbw	7.6
+17101	Illinois	Lawrence	pcnt_lbw	8.0
+17103	Illinois	Lee	pcnt_lbw	6.8
+17105	Illinois	Livingston	pcnt_lbw	8.6
+17107	Illinois	Logan	pcnt_lbw	7.7
+17109	Illinois	McDonough	pcnt_lbw	7.3
+17111	Illinois	McHenry	pcnt_lbw	7.0
+17113	Illinois	McLean	pcnt_lbw	8.3
+17115	Illinois	Macon	pcnt_lbw	9.6
+17117	Illinois	Macoupin	pcnt_lbw	7.3
+17119	Illinois	Madison	pcnt_lbw	8.3
+17121	Illinois	Marion	pcnt_lbw	8.4
+17123	Illinois	Marshall	pcnt_lbw	8.5
+17125	Illinois	Mason	pcnt_lbw	10.1
+17127	Illinois	Massac	pcnt_lbw	9.2
+17129	Illinois	Menard	pcnt_lbw	5.9
+17131	Illinois	Mercer	pcnt_lbw	4.8
+17133	Illinois	Monroe	pcnt_lbw	6.4
+17135	Illinois	Montgomery	pcnt_lbw	7.2
+17137	Illinois	Morgan	pcnt_lbw	8.6
+17139	Illinois	Moultrie	pcnt_lbw	6.3
+17141	Illinois	Ogle	pcnt_lbw	7.2
+17143	Illinois	Peoria	pcnt_lbw	8.9
+17145	Illinois	Perry	pcnt_lbw	8.2
+17147	Illinois	Piatt	pcnt_lbw	7.8
+17149	Illinois	Pike	pcnt_lbw	7.3
+17151	Illinois	Pope	pcnt_lbw	
+17153	Illinois	Pulaski	pcnt_lbw	11.8
+17155	Illinois	Putnam	pcnt_lbw	7.9
+17157	Illinois	Randolph	pcnt_lbw	8.2
+17159	Illinois	Richland	pcnt_lbw	8.4
+17161	Illinois	Rock Island	pcnt_lbw	7.7
+17163	Illinois	St. Clair	pcnt_lbw	9.5
+17165	Illinois	Saline	pcnt_lbw	8.8
+17167	Illinois	Sangamon	pcnt_lbw	9.3
+17169	Illinois	Schuyler	pcnt_lbw	6.6
+17171	Illinois	Scott	pcnt_lbw	7.0
+17173	Illinois	Shelby	pcnt_lbw	7.0
+17175	Illinois	Stark	pcnt_lbw	9.6
+17177	Illinois	Stephenson	pcnt_lbw	9.4
+17179	Illinois	Tazewell	pcnt_lbw	7.3
+17181	Illinois	Union	pcnt_lbw	7.8
+17183	Illinois	Vermilion	pcnt_lbw	9.3
+17185	Illinois	Wabash	pcnt_lbw	7.4
+17187	Illinois	Warren	pcnt_lbw	6.6
+17189	Illinois	Washington	pcnt_lbw	6.2
+17191	Illinois	Wayne	pcnt_lbw	7.1
+17193	Illinois	White	pcnt_lbw	7.8
+17195	Illinois	Whiteside	pcnt_lbw	5.9
+17197	Illinois	Will	pcnt_lbw	7.6
+17199	Illinois	Williamson	pcnt_lbw	8.0
+17201	Illinois	Winnebago	pcnt_lbw	9.2
+17203	Illinois	Woodford	pcnt_lbw	6.5
+18001	Indiana	Adams	pcnt_lbw	7.0
+18003	Indiana	Allen	pcnt_lbw	9.0
+18005	Indiana	Bartholomew	pcnt_lbw	7.8
+18007	Indiana	Benton	pcnt_lbw	5.9
+18009	Indiana	Blackford	pcnt_lbw	9.1
+18011	Indiana	Boone	pcnt_lbw	6.7
+18013	Indiana	Brown	pcnt_lbw	6.3
+18015	Indiana	Carroll	pcnt_lbw	7.0
+18017	Indiana	Cass	pcnt_lbw	7.7
+18019	Indiana	Clark	pcnt_lbw	8.2
+18021	Indiana	Clay	pcnt_lbw	6.2
+18023	Indiana	Clinton	pcnt_lbw	7.6
+18025	Indiana	Crawford	pcnt_lbw	9.5
+18027	Indiana	Daviess	pcnt_lbw	7.5
+18029	Indiana	Dearborn	pcnt_lbw	7.6
+18031	Indiana	Decatur	pcnt_lbw	7.5
+18033	Indiana	DeKalb	pcnt_lbw	6.4
+18035	Indiana	Delaware	pcnt_lbw	9.3
+18037	Indiana	Dubois	pcnt_lbw	7.3
+18039	Indiana	Elkhart	pcnt_lbw	7.2
+18041	Indiana	Fayette	pcnt_lbw	8.1
+18043	Indiana	Floyd	pcnt_lbw	8.6
+18045	Indiana	Fountain	pcnt_lbw	6.2
+18047	Indiana	Franklin	pcnt_lbw	7.9
+18049	Indiana	Fulton	pcnt_lbw	7.4
+18051	Indiana	Gibson	pcnt_lbw	7.9
+18053	Indiana	Grant	pcnt_lbw	9.4
+18055	Indiana	Greene	pcnt_lbw	8.2
+18057	Indiana	Hamilton	pcnt_lbw	7.0
+18059	Indiana	Hancock	pcnt_lbw	7.8
+18061	Indiana	Harrison	pcnt_lbw	7.7
+18063	Indiana	Hendricks	pcnt_lbw	7.0
+18065	Indiana	Henry	pcnt_lbw	8.1
+18067	Indiana	Howard	pcnt_lbw	7.9
+18069	Indiana	Huntington	pcnt_lbw	8.5
+18071	Indiana	Jackson	pcnt_lbw	7.5
+18073	Indiana	Jasper	pcnt_lbw	6.8
+18075	Indiana	Jay	pcnt_lbw	7.8
+18077	Indiana	Jefferson	pcnt_lbw	8.0
+18079	Indiana	Jennings	pcnt_lbw	7.8
+18081	Indiana	Johnson	pcnt_lbw	6.9
+18083	Indiana	Knox	pcnt_lbw	8.2
+18085	Indiana	Kosciusko	pcnt_lbw	7.0
+18087	Indiana	LaGrange	pcnt_lbw	5.4
+18089	Indiana	Lake	pcnt_lbw	10.0
+18091	Indiana	LaPorte	pcnt_lbw	9.5
+18093	Indiana	Lawrence	pcnt_lbw	8.8
+18095	Indiana	Madison	pcnt_lbw	8.6
+18097	Indiana	Marion	pcnt_lbw	9.4
+18099	Indiana	Marshall	pcnt_lbw	6.5
+18101	Indiana	Martin	pcnt_lbw	8.2
+18103	Indiana	Miami	pcnt_lbw	7.9
+18105	Indiana	Monroe	pcnt_lbw	7.2
+18107	Indiana	Montgomery	pcnt_lbw	8.2
+18109	Indiana	Morgan	pcnt_lbw	7.9
+18111	Indiana	Newton	pcnt_lbw	7.0
+18113	Indiana	Noble	pcnt_lbw	7.6
+18115	Indiana	Ohio	pcnt_lbw	5.8
+18117	Indiana	Orange	pcnt_lbw	8.0
+18119	Indiana	Owen	pcnt_lbw	7.5
+18121	Indiana	Parke	pcnt_lbw	7.3
+18123	Indiana	Perry	pcnt_lbw	9.2
+18125	Indiana	Pike	pcnt_lbw	9.4
+18127	Indiana	Porter	pcnt_lbw	7.1
+18129	Indiana	Posey	pcnt_lbw	7.3
+18131	Indiana	Pulaski	pcnt_lbw	6.9
+18133	Indiana	Putnam	pcnt_lbw	7.1
+18135	Indiana	Randolph	pcnt_lbw	8.5
+18137	Indiana	Ripley	pcnt_lbw	6.6
+18139	Indiana	Rush	pcnt_lbw	9.4
+18141	Indiana	St. Joseph	pcnt_lbw	8.3
+18143	Indiana	Scott	pcnt_lbw	9.2
+18145	Indiana	Shelby	pcnt_lbw	8.0
+18147	Indiana	Spencer	pcnt_lbw	7.5
+18149	Indiana	Starke	pcnt_lbw	7.0
+18151	Indiana	Steuben	pcnt_lbw	7.9
+18153	Indiana	Sullivan	pcnt_lbw	8.0
+18155	Indiana	Switzerland	pcnt_lbw	6.6
+18157	Indiana	Tippecanoe	pcnt_lbw	6.9
+18159	Indiana	Tipton	pcnt_lbw	8.2
+18161	Indiana	Union	pcnt_lbw	5.0
+18163	Indiana	Vanderburgh	pcnt_lbw	9.1
+18165	Indiana	Vermillion	pcnt_lbw	7.9
+18167	Indiana	Vigo	pcnt_lbw	7.9
+18169	Indiana	Wabash	pcnt_lbw	8.9
+18171	Indiana	Warren	pcnt_lbw	5.8
+18173	Indiana	Warrick	pcnt_lbw	8.3
+18175	Indiana	Washington	pcnt_lbw	7.1
+18177	Indiana	Wayne	pcnt_lbw	8.2
+18179	Indiana	Wells	pcnt_lbw	7.7
+18181	Indiana	White	pcnt_lbw	6.6
+18183	Indiana	Whitley	pcnt_lbw	8.3
+19001	Iowa	Adair	pcnt_lbw	7.4
+19003	Iowa	Adams	pcnt_lbw	7.1
+19005	Iowa	Allamakee	pcnt_lbw	6.5
+19007	Iowa	Appanoose	pcnt_lbw	8.2
+19009	Iowa	Audubon	pcnt_lbw	8.7
+19011	Iowa	Benton	pcnt_lbw	5.9
+19013	Iowa	Black Hawk	pcnt_lbw	8.3
+19015	Iowa	Boone	pcnt_lbw	5.8
+19017	Iowa	Bremer	pcnt_lbw	7.0
+19019	Iowa	Buchanan	pcnt_lbw	5.9
+19021	Iowa	Buena Vista	pcnt_lbw	6.3
+19023	Iowa	Butler	pcnt_lbw	6.8
+19025	Iowa	Calhoun	pcnt_lbw	7.8
+19027	Iowa	Carroll	pcnt_lbw	5.2
+19029	Iowa	Cass	pcnt_lbw	8.1
+19031	Iowa	Cedar	pcnt_lbw	7.3
+19033	Iowa	Cerro Gordo	pcnt_lbw	6.7
+19035	Iowa	Cherokee	pcnt_lbw	5.0
+19037	Iowa	Chickasaw	pcnt_lbw	5.3
+19039	Iowa	Clarke	pcnt_lbw	8.5
+19041	Iowa	Clay	pcnt_lbw	5.4
+19043	Iowa	Clayton	pcnt_lbw	6.7
+19045	Iowa	Clinton	pcnt_lbw	8.0
+19047	Iowa	Crawford	pcnt_lbw	6.0
+19049	Iowa	Dallas	pcnt_lbw	7.3
+19051	Iowa	Davis	pcnt_lbw	4.4
+19053	Iowa	Decatur	pcnt_lbw	8.4
+19055	Iowa	Delaware	pcnt_lbw	6.1
+19057	Iowa	Des Moines	pcnt_lbw	7.2
+19059	Iowa	Dickinson	pcnt_lbw	5.9
+19061	Iowa	Dubuque	pcnt_lbw	6.1
+19063	Iowa	Emmet	pcnt_lbw	8.0
+19065	Iowa	Fayette	pcnt_lbw	6.3
+19067	Iowa	Floyd	pcnt_lbw	6.3
+19069	Iowa	Franklin	pcnt_lbw	5.1
+19071	Iowa	Fremont	pcnt_lbw	7.3
+19073	Iowa	Greene	pcnt_lbw	7.8
+19075	Iowa	Grundy	pcnt_lbw	8.3
+19077	Iowa	Guthrie	pcnt_lbw	6.6
+19079	Iowa	Hamilton	pcnt_lbw	8.7
+19081	Iowa	Hancock	pcnt_lbw	4.5
+19083	Iowa	Hardin	pcnt_lbw	7.3
+19085	Iowa	Harrison	pcnt_lbw	7.5
+19087	Iowa	Henry	pcnt_lbw	5.4
+19089	Iowa	Howard	pcnt_lbw	5.8
+19091	Iowa	Humboldt	pcnt_lbw	5.7
+19093	Iowa	Ida	pcnt_lbw	7.9
+19095	Iowa	Iowa	pcnt_lbw	5.3
+19097	Iowa	Jackson	pcnt_lbw	6.8
+19099	Iowa	Jasper	pcnt_lbw	7.9
+19101	Iowa	Jefferson	pcnt_lbw	4.9
+19103	Iowa	Johnson	pcnt_lbw	6.6
+19105	Iowa	Jones	pcnt_lbw	6.3
+19107	Iowa	Keokuk	pcnt_lbw	8.0
+19109	Iowa	Kossuth	pcnt_lbw	6.3
+19111	Iowa	Lee	pcnt_lbw	7.2
+19113	Iowa	Linn	pcnt_lbw	6.6
+19115	Iowa	Louisa	pcnt_lbw	7.9
+19117	Iowa	Lucas	pcnt_lbw	7.1
+19119	Iowa	Lyon	pcnt_lbw	6.0
+19121	Iowa	Madison	pcnt_lbw	7.3
+19123	Iowa	Mahaska	pcnt_lbw	6.7
+19125	Iowa	Marion	pcnt_lbw	6.9
+19127	Iowa	Marshall	pcnt_lbw	7.0
+19129	Iowa	Mills	pcnt_lbw	8.1
+19131	Iowa	Mitchell	pcnt_lbw	4.8
+19133	Iowa	Monona	pcnt_lbw	8.5
+19135	Iowa	Monroe	pcnt_lbw	6.6
+19137	Iowa	Montgomery	pcnt_lbw	6.9
+19139	Iowa	Muscatine	pcnt_lbw	7.1
+19141	Iowa	O'Brien	pcnt_lbw	6.2
+19143	Iowa	Osceola	pcnt_lbw	4.9
+19145	Iowa	Page	pcnt_lbw	6.9
+19147	Iowa	Palo Alto	pcnt_lbw	7.2
+19149	Iowa	Plymouth	pcnt_lbw	6.1
+19151	Iowa	Pocahontas	pcnt_lbw	6.4
+19153	Iowa	Polk	pcnt_lbw	7.2
+19155	Iowa	Pottawattamie	pcnt_lbw	7.8
+19157	Iowa	Poweshiek	pcnt_lbw	6.1
+19159	Iowa	Ringgold	pcnt_lbw	5.5
+19161	Iowa	Sac	pcnt_lbw	5.1
+19163	Iowa	Scott	pcnt_lbw	7.1
+19165	Iowa	Shelby	pcnt_lbw	6.0
+19167	Iowa	Sioux	pcnt_lbw	5.0
+19169	Iowa	Story	pcnt_lbw	5.9
+19171	Iowa	Tama	pcnt_lbw	8.3
+19173	Iowa	Taylor	pcnt_lbw	5.9
+19175	Iowa	Union	pcnt_lbw	7.6
+19177	Iowa	Van Buren	pcnt_lbw	7.0
+19179	Iowa	Wapello	pcnt_lbw	7.4
+19181	Iowa	Warren	pcnt_lbw	6.9
+19183	Iowa	Washington	pcnt_lbw	5.9
+19185	Iowa	Wayne	pcnt_lbw	7.5
+19187	Iowa	Webster	pcnt_lbw	6.0
+19189	Iowa	Winnebago	pcnt_lbw	8.6
+19191	Iowa	Winneshiek	pcnt_lbw	5.7
+19193	Iowa	Woodbury	pcnt_lbw	7.5
+19195	Iowa	Worth	pcnt_lbw	5.0
+19197	Iowa	Wright	pcnt_lbw	6.8
+20001	Kansas	Allen	pcnt_lbw	7.1
+20003	Kansas	Anderson	pcnt_lbw	7.9
+20005	Kansas	Atchison	pcnt_lbw	7.2
+20007	Kansas	Barber	pcnt_lbw	7.4
+20009	Kansas	Barton	pcnt_lbw	7.5
+20011	Kansas	Bourbon	pcnt_lbw	7.7
+20013	Kansas	Brown	pcnt_lbw	6.4
+20015	Kansas	Butler	pcnt_lbw	7.3
+20017	Kansas	Chase	pcnt_lbw	
+20019	Kansas	Chautauqua	pcnt_lbw	
+20021	Kansas	Cherokee	pcnt_lbw	7.6
+20023	Kansas	Cheyenne	pcnt_lbw	
+20025	Kansas	Clark	pcnt_lbw	
+20027	Kansas	Clay	pcnt_lbw	6.7
+20029	Kansas	Cloud	pcnt_lbw	8.0
+20031	Kansas	Coffey	pcnt_lbw	5.1
+20033	Kansas	Comanche	pcnt_lbw	
+20035	Kansas	Cowley	pcnt_lbw	7.3
+20037	Kansas	Crawford	pcnt_lbw	7.9
+20039	Kansas	Decatur	pcnt_lbw	
+20041	Kansas	Dickinson	pcnt_lbw	5.8
+20043	Kansas	Doniphan	pcnt_lbw	6.1
+20045	Kansas	Douglas	pcnt_lbw	6.4
+20047	Kansas	Edwards	pcnt_lbw	7.6
+20049	Kansas	Elk	pcnt_lbw	9.3
+20051	Kansas	Ellis	pcnt_lbw	6.1
+20053	Kansas	Ellsworth	pcnt_lbw	5.7
+20055	Kansas	Finney	pcnt_lbw	7.6
+20057	Kansas	Ford	pcnt_lbw	6.3
+20059	Kansas	Franklin	pcnt_lbw	7.2
+20061	Kansas	Geary	pcnt_lbw	8.1
+20063	Kansas	Gove	pcnt_lbw	
+20065	Kansas	Graham	pcnt_lbw	
+20067	Kansas	Grant	pcnt_lbw	8.4
+20069	Kansas	Gray	pcnt_lbw	8.0
+20071	Kansas	Greeley	pcnt_lbw	
+20073	Kansas	Greenwood	pcnt_lbw	6.4
+20075	Kansas	Hamilton	pcnt_lbw	7.3
+20077	Kansas	Harper	pcnt_lbw	5.3
+20079	Kansas	Harvey	pcnt_lbw	6.6
+20081	Kansas	Haskell	pcnt_lbw	5.4
+20083	Kansas	Hodgeman	pcnt_lbw	
+20085	Kansas	Jackson	pcnt_lbw	6.9
+20087	Kansas	Jefferson	pcnt_lbw	6.8
+20089	Kansas	Jewell	pcnt_lbw	
+20091	Kansas	Johnson	pcnt_lbw	6.3
+20093	Kansas	Kearny	pcnt_lbw	5.9
+20095	Kansas	Kingman	pcnt_lbw	6.5
+20097	Kansas	Kiowa	pcnt_lbw	
+20099	Kansas	Labette	pcnt_lbw	8.2
+20101	Kansas	Lane	pcnt_lbw	
+20103	Kansas	Leavenworth	pcnt_lbw	7.7
+20105	Kansas	Lincoln	pcnt_lbw	
+20107	Kansas	Linn	pcnt_lbw	8.1
+20109	Kansas	Logan	pcnt_lbw	
+20111	Kansas	Lyon	pcnt_lbw	6.8
+20113	Kansas	McPherson	pcnt_lbw	5.8
+20115	Kansas	Marion	pcnt_lbw	6.7
+20117	Kansas	Marshall	pcnt_lbw	6.7
+20119	Kansas	Meade	pcnt_lbw	5.2
+20121	Kansas	Miami	pcnt_lbw	6.5
+20123	Kansas	Mitchell	pcnt_lbw	5.4
+20125	Kansas	Montgomery	pcnt_lbw	8.8
+20127	Kansas	Morris	pcnt_lbw	
+20129	Kansas	Morton	pcnt_lbw	7.0
+20131	Kansas	Nemaha	pcnt_lbw	5.8
+20133	Kansas	Neosho	pcnt_lbw	6.9
+20135	Kansas	Ness	pcnt_lbw	
+20137	Kansas	Norton	pcnt_lbw	9.6
+20139	Kansas	Osage	pcnt_lbw	7.0
+20141	Kansas	Osborne	pcnt_lbw	
+20143	Kansas	Ottawa	pcnt_lbw	7.2
+20145	Kansas	Pawnee	pcnt_lbw	8.7
+20147	Kansas	Phillips	pcnt_lbw	6.8
+20149	Kansas	Pottawatomie	pcnt_lbw	5.8
+20151	Kansas	Pratt	pcnt_lbw	7.6
+20153	Kansas	Rawlins	pcnt_lbw	
+20155	Kansas	Reno	pcnt_lbw	6.7
+20157	Kansas	Republic	pcnt_lbw	8.0
+20159	Kansas	Rice	pcnt_lbw	7.2
+20161	Kansas	Riley	pcnt_lbw	5.8
+20163	Kansas	Rooks	pcnt_lbw	6.6
+20165	Kansas	Rush	pcnt_lbw	
+20167	Kansas	Russell	pcnt_lbw	8.1
+20169	Kansas	Saline	pcnt_lbw	7.7
+20171	Kansas	Scott	pcnt_lbw	6.7
+20173	Kansas	Sedgwick	pcnt_lbw	8.0
+20175	Kansas	Seward	pcnt_lbw	5.9
+20177	Kansas	Shawnee	pcnt_lbw	7.6
+20179	Kansas	Sheridan	pcnt_lbw	
+20181	Kansas	Sherman	pcnt_lbw	11.0
+20183	Kansas	Smith	pcnt_lbw	
+20185	Kansas	Stafford	pcnt_lbw	7.1
+20187	Kansas	Stanton	pcnt_lbw	
+20189	Kansas	Stevens	pcnt_lbw	4.1
+20191	Kansas	Sumner	pcnt_lbw	7.5
+20193	Kansas	Thomas	pcnt_lbw	6.5
+20195	Kansas	Trego	pcnt_lbw	
+20197	Kansas	Wabaunsee	pcnt_lbw	5.0
+20199	Kansas	Wallace	pcnt_lbw	
+20201	Kansas	Washington	pcnt_lbw	6.0
+20203	Kansas	Wichita	pcnt_lbw	8.5
+20205	Kansas	Wilson	pcnt_lbw	7.9
+20207	Kansas	Woodson	pcnt_lbw	
+20209	Kansas	Wyandotte	pcnt_lbw	8.3
+21001	Kentucky	Adair	pcnt_lbw	9.1
+21003	Kentucky	Allen	pcnt_lbw	7.8
+21005	Kentucky	Anderson	pcnt_lbw	9.8
+21007	Kentucky	Ballard	pcnt_lbw	11.7
+21009	Kentucky	Barren	pcnt_lbw	9.0
+21011	Kentucky	Bath	pcnt_lbw	9.4
+21013	Kentucky	Bell	pcnt_lbw	9.9
+21015	Kentucky	Boone	pcnt_lbw	7.3
+21017	Kentucky	Bourbon	pcnt_lbw	9.8
+21019	Kentucky	Boyd	pcnt_lbw	10.8
+21021	Kentucky	Boyle	pcnt_lbw	8.8
+21023	Kentucky	Bracken	pcnt_lbw	7.9
+21025	Kentucky	Breathitt	pcnt_lbw	9.4
+21027	Kentucky	Breckinridge	pcnt_lbw	8.4
+21029	Kentucky	Bullitt	pcnt_lbw	8.7
+21031	Kentucky	Butler	pcnt_lbw	9.3
+21033	Kentucky	Caldwell	pcnt_lbw	9.8
+21035	Kentucky	Calloway	pcnt_lbw	7.2
+21037	Kentucky	Campbell	pcnt_lbw	8.5
+21039	Kentucky	Carlisle	pcnt_lbw	8.9
+21041	Kentucky	Carroll	pcnt_lbw	7.9
+21043	Kentucky	Carter	pcnt_lbw	9.4
+21045	Kentucky	Casey	pcnt_lbw	8.3
+21047	Kentucky	Christian	pcnt_lbw	8.8
+21049	Kentucky	Clark	pcnt_lbw	10.2
+21051	Kentucky	Clay	pcnt_lbw	10.6
+21053	Kentucky	Clinton	pcnt_lbw	10.6
+21055	Kentucky	Crittenden	pcnt_lbw	8.3
+21057	Kentucky	Cumberland	pcnt_lbw	11.2
+21059	Kentucky	Daviess	pcnt_lbw	8.6
+21061	Kentucky	Edmonson	pcnt_lbw	8.0
+21063	Kentucky	Elliott	pcnt_lbw	12.1
+21065	Kentucky	Estill	pcnt_lbw	9.8
+21067	Kentucky	Fayette	pcnt_lbw	8.6
+21069	Kentucky	Fleming	pcnt_lbw	8.8
+21071	Kentucky	Floyd	pcnt_lbw	11.4
+21073	Kentucky	Franklin	pcnt_lbw	9.6
+21075	Kentucky	Fulton	pcnt_lbw	10.8
+21077	Kentucky	Gallatin	pcnt_lbw	9.5
+21079	Kentucky	Garrard	pcnt_lbw	11.0
+21081	Kentucky	Grant	pcnt_lbw	9.4
+21083	Kentucky	Graves	pcnt_lbw	8.1
+21085	Kentucky	Grayson	pcnt_lbw	8.1
+21087	Kentucky	Green	pcnt_lbw	7.8
+21089	Kentucky	Greenup	pcnt_lbw	9.1
+21091	Kentucky	Hancock	pcnt_lbw	7.4
+21093	Kentucky	Hardin	pcnt_lbw	7.6
+21095	Kentucky	Harlan	pcnt_lbw	10.9
+21097	Kentucky	Harrison	pcnt_lbw	10.4
+21099	Kentucky	Hart	pcnt_lbw	7.8
+21101	Kentucky	Henderson	pcnt_lbw	11.3
+21103	Kentucky	Henry	pcnt_lbw	7.6
+21105	Kentucky	Hickman	pcnt_lbw	7.0
+21107	Kentucky	Hopkins	pcnt_lbw	9.5
+21109	Kentucky	Jackson	pcnt_lbw	9.9
+21111	Kentucky	Jefferson	pcnt_lbw	9.5
+21113	Kentucky	Jessamine	pcnt_lbw	8.4
+21115	Kentucky	Johnson	pcnt_lbw	10.8
+21117	Kentucky	Kenton	pcnt_lbw	8.5
+21119	Kentucky	Knott	pcnt_lbw	11.0
+21121	Kentucky	Knox	pcnt_lbw	8.9
+21123	Kentucky	Larue	pcnt_lbw	6.3
+21125	Kentucky	Laurel	pcnt_lbw	8.4
+21127	Kentucky	Lawrence	pcnt_lbw	15.8
+21129	Kentucky	Lee	pcnt_lbw	10.5
+21131	Kentucky	Leslie	pcnt_lbw	9.9
+21133	Kentucky	Letcher	pcnt_lbw	10.6
+21135	Kentucky	Lewis	pcnt_lbw	9.5
+21137	Kentucky	Lincoln	pcnt_lbw	8.9
+21139	Kentucky	Livingston	pcnt_lbw	7.6
+21141	Kentucky	Logan	pcnt_lbw	8.3
+21143	Kentucky	Lyon	pcnt_lbw	6.7
+21145	Kentucky	McCracken	pcnt_lbw	8.8
+21147	Kentucky	McCreary	pcnt_lbw	8.7
+21149	Kentucky	McLean	pcnt_lbw	10.5
+21151	Kentucky	Madison	pcnt_lbw	9.2
+21153	Kentucky	Magoffin	pcnt_lbw	12.2
+21155	Kentucky	Marion	pcnt_lbw	9.1
+21157	Kentucky	Marshall	pcnt_lbw	8.1
+21159	Kentucky	Martin	pcnt_lbw	14.5
+21161	Kentucky	Mason	pcnt_lbw	9.8
+21163	Kentucky	Meade	pcnt_lbw	8.2
+21165	Kentucky	Menifee	pcnt_lbw	10.8
+21167	Kentucky	Mercer	pcnt_lbw	7.9
+21169	Kentucky	Metcalfe	pcnt_lbw	8.7
+21171	Kentucky	Monroe	pcnt_lbw	8.9
+21173	Kentucky	Montgomery	pcnt_lbw	9.8
+21175	Kentucky	Morgan	pcnt_lbw	8.7
+21177	Kentucky	Muhlenberg	pcnt_lbw	8.9
+21179	Kentucky	Nelson	pcnt_lbw	9.1
+21181	Kentucky	Nicholas	pcnt_lbw	11.5
+21183	Kentucky	Ohio	pcnt_lbw	8.3
+21185	Kentucky	Oldham	pcnt_lbw	7.9
+21187	Kentucky	Owen	pcnt_lbw	8.3
+21189	Kentucky	Owsley	pcnt_lbw	10.8
+21191	Kentucky	Pendleton	pcnt_lbw	10.1
+21193	Kentucky	Perry	pcnt_lbw	10.9
+21195	Kentucky	Pike	pcnt_lbw	11.2
+21197	Kentucky	Powell	pcnt_lbw	10.1
+21199	Kentucky	Pulaski	pcnt_lbw	8.9
+21201	Kentucky	Robertson	pcnt_lbw	
+21203	Kentucky	Rockcastle	pcnt_lbw	7.6
+21205	Kentucky	Rowan	pcnt_lbw	7.3
+21207	Kentucky	Russell	pcnt_lbw	7.9
+21209	Kentucky	Scott	pcnt_lbw	7.9
+21211	Kentucky	Shelby	pcnt_lbw	8.0
+21213	Kentucky	Simpson	pcnt_lbw	7.8
+21215	Kentucky	Spencer	pcnt_lbw	7.2
+21217	Kentucky	Taylor	pcnt_lbw	7.8
+21219	Kentucky	Todd	pcnt_lbw	9.1
+21221	Kentucky	Trigg	pcnt_lbw	10.2
+21223	Kentucky	Trimble	pcnt_lbw	7.1
+21225	Kentucky	Union	pcnt_lbw	10.3
+21227	Kentucky	Warren	pcnt_lbw	8.9
+21229	Kentucky	Washington	pcnt_lbw	7.0
+21231	Kentucky	Wayne	pcnt_lbw	7.7
+21233	Kentucky	Webster	pcnt_lbw	9.4
+21235	Kentucky	Whitley	pcnt_lbw	9.8
+21237	Kentucky	Wolfe	pcnt_lbw	9.7
+21239	Kentucky	Woodford	pcnt_lbw	8.1
+22001	Louisiana	Acadia	pcnt_lbw	10.8
+22003	Louisiana	Allen	pcnt_lbw	10.1
+22005	Louisiana	Ascension	pcnt_lbw	8.9
+22007	Louisiana	Assumption	pcnt_lbw	12.4
+22009	Louisiana	Avoyelles	pcnt_lbw	11.4
+22011	Louisiana	Beauregard	pcnt_lbw	8.4
+22013	Louisiana	Bienville	pcnt_lbw	13.1
+22015	Louisiana	Bossier	pcnt_lbw	10.9
+22017	Louisiana	Caddo	pcnt_lbw	14.2
+22019	Louisiana	Calcasieu	pcnt_lbw	10.9
+22021	Louisiana	Caldwell	pcnt_lbw	11.4
+22023	Louisiana	Cameron	pcnt_lbw	8.8
+22025	Louisiana	Catahoula	pcnt_lbw	12.9
+22027	Louisiana	Claiborne	pcnt_lbw	12.7
+22029	Louisiana	Concordia	pcnt_lbw	14.8
+22031	Louisiana	De Soto	pcnt_lbw	13.4
+22033	Louisiana	East Baton Rouge	pcnt_lbw	12.0
+22035	Louisiana	East Carroll	pcnt_lbw	14.5
+22037	Louisiana	East Feliciana	pcnt_lbw	11.0
+22039	Louisiana	Evangeline	pcnt_lbw	12.4
+22041	Louisiana	Franklin	pcnt_lbw	12.9
+22043	Louisiana	Grant	pcnt_lbw	9.2
+22045	Louisiana	Iberia	pcnt_lbw	10.9
+22047	Louisiana	Iberville	pcnt_lbw	11.8
+22049	Louisiana	Jackson	pcnt_lbw	10.4
+22051	Louisiana	Jefferson	pcnt_lbw	9.7
+22053	Louisiana	Jefferson Davis	pcnt_lbw	9.5
+22055	Louisiana	Lafayette	pcnt_lbw	9.7
+22057	Louisiana	Lafourche	pcnt_lbw	9.4
+22059	Louisiana	La Salle	pcnt_lbw	8.4
+22061	Louisiana	Lincoln	pcnt_lbw	9.7
+22063	Louisiana	Livingston	pcnt_lbw	8.3
+22065	Louisiana	Madison	pcnt_lbw	14.0
+22067	Louisiana	Morehouse	pcnt_lbw	11.9
+22069	Louisiana	Natchitoches	pcnt_lbw	12.0
+22071	Louisiana	Orleans	pcnt_lbw	13.0
+22073	Louisiana	Ouachita	pcnt_lbw	13.0
+22075	Louisiana	Plaquemines	pcnt_lbw	8.1
+22077	Louisiana	Pointe Coupee	pcnt_lbw	12.4
+22079	Louisiana	Rapides	pcnt_lbw	10.6
+22081	Louisiana	Red River	pcnt_lbw	14.1
+22083	Louisiana	Richland	pcnt_lbw	11.9
+22085	Louisiana	Sabine	pcnt_lbw	11.1
+22087	Louisiana	St. Bernard	pcnt_lbw	10.1
+22089	Louisiana	St. Charles	pcnt_lbw	10.0
+22091	Louisiana	St. Helena	pcnt_lbw	11.7
+22093	Louisiana	St. James	pcnt_lbw	11.3
+22095	Louisiana	St. John the Baptist	pcnt_lbw	11.2
+22097	Louisiana	St. Landry	pcnt_lbw	11.6
+22099	Louisiana	St. Martin	pcnt_lbw	11.6
+22101	Louisiana	St. Mary	pcnt_lbw	11.4
+22103	Louisiana	St. Tammany	pcnt_lbw	8.2
+22105	Louisiana	Tangipahoa	pcnt_lbw	11.1
+22107	Louisiana	Tensas	pcnt_lbw	14.3
+22109	Louisiana	Terrebonne	pcnt_lbw	10.5
+22111	Louisiana	Union	pcnt_lbw	10.8
+22113	Louisiana	Vermilion	pcnt_lbw	10.3
+22115	Louisiana	Vernon	pcnt_lbw	8.8
+22117	Louisiana	Washington	pcnt_lbw	12.0
+22119	Louisiana	Webster	pcnt_lbw	12.6
+22121	Louisiana	West Baton Rouge	pcnt_lbw	11.4
+22123	Louisiana	West Carroll	pcnt_lbw	10.2
+22125	Louisiana	West Feliciana	pcnt_lbw	7.8
+22127	Louisiana	Winn	pcnt_lbw	9.9
+23001	Maine	Androscoggin	pcnt_lbw	6.6
+23003	Maine	Aroostook	pcnt_lbw	6.7
+23005	Maine	Cumberland	pcnt_lbw	6.6
+23007	Maine	Franklin	pcnt_lbw	7.3
+23009	Maine	Hancock	pcnt_lbw	5.2
+23011	Maine	Kennebec	pcnt_lbw	6.3
+23013	Maine	Knox	pcnt_lbw	5.1
+23015	Maine	Lincoln	pcnt_lbw	7.0
+23017	Maine	Oxford	pcnt_lbw	7.0
+23019	Maine	Penobscot	pcnt_lbw	6.6
+23021	Maine	Piscataquis	pcnt_lbw	6.8
+23023	Maine	Sagadahoc	pcnt_lbw	6.3
+23025	Maine	Somerset	pcnt_lbw	7.8
+23027	Maine	Waldo	pcnt_lbw	7.3
+23029	Maine	Washington	pcnt_lbw	5.9
+23031	Maine	York	pcnt_lbw	6.4
+24001	Maryland	Allegany	pcnt_lbw	9.6
+24003	Maryland	Anne Arundel	pcnt_lbw	8.4
+24005	Maryland	Baltimore	pcnt_lbw	9.0
+24009	Maryland	Calvert	pcnt_lbw	6.8
+24011	Maryland	Caroline	pcnt_lbw	8.1
+24013	Maryland	Carroll	pcnt_lbw	7.0
+24015	Maryland	Cecil	pcnt_lbw	7.3
+24017	Maryland	Charles	pcnt_lbw	9.5
+24019	Maryland	Dorchester	pcnt_lbw	10.7
+24021	Maryland	Frederick	pcnt_lbw	7.9
+24023	Maryland	Garrett	pcnt_lbw	7.6
+24025	Maryland	Harford	pcnt_lbw	7.8
+24027	Maryland	Howard	pcnt_lbw	7.8
+24029	Maryland	Kent	pcnt_lbw	9.0
+24031	Maryland	Montgomery	pcnt_lbw	8.1
+24033	Maryland	Prince George's	pcnt_lbw	10.4
+24035	Maryland	Queen Anne's	pcnt_lbw	7.5
+24037	Maryland	St. Mary's	pcnt_lbw	7.1
+24039	Maryland	Somerset	pcnt_lbw	9.5
+24041	Maryland	Talbot	pcnt_lbw	7.0
+24043	Maryland	Washington	pcnt_lbw	7.5
+24045	Maryland	Wicomico	pcnt_lbw	9.1
+24047	Maryland	Worcester	pcnt_lbw	7.0
+24510	Maryland	Baltimore City	pcnt_lbw	12.7
+25001	Massachusetts	Barnstable	pcnt_lbw	7.1
+25003	Massachusetts	Berkshire	pcnt_lbw	7.9
+25005	Massachusetts	Bristol	pcnt_lbw	8.3
+25007	Massachusetts	Dukes	pcnt_lbw	5.3
+25009	Massachusetts	Essex	pcnt_lbw	7.7
+25011	Massachusetts	Franklin	pcnt_lbw	7.1
+25013	Massachusetts	Hampden	pcnt_lbw	8.7
+25015	Massachusetts	Hampshire	pcnt_lbw	6.7
+25017	Massachusetts	Middlesex	pcnt_lbw	7.5
+25019	Massachusetts	Nantucket	pcnt_lbw	6.3
+25021	Massachusetts	Norfolk	pcnt_lbw	7.2
+25023	Massachusetts	Plymouth	pcnt_lbw	7.7
+25025	Massachusetts	Suffolk	pcnt_lbw	9.1
+25027	Massachusetts	Worcester	pcnt_lbw	7.4
+26001	Michigan	Alcona	pcnt_lbw	8.0
+26003	Michigan	Alger	pcnt_lbw	6.3
+26005	Michigan	Allegan	pcnt_lbw	6.7
+26007	Michigan	Alpena	pcnt_lbw	9.7
+26009	Michigan	Antrim	pcnt_lbw	7.2
+26011	Michigan	Arenac	pcnt_lbw	7.7
+26013	Michigan	Baraga	pcnt_lbw	6.4
+26015	Michigan	Barry	pcnt_lbw	6.6
+26017	Michigan	Bay	pcnt_lbw	7.5
+26019	Michigan	Benzie	pcnt_lbw	7.5
+26021	Michigan	Berrien	pcnt_lbw	8.4
+26023	Michigan	Branch	pcnt_lbw	6.3
+26025	Michigan	Calhoun	pcnt_lbw	8.2
+26027	Michigan	Cass	pcnt_lbw	8.6
+26029	Michigan	Charlevoix	pcnt_lbw	5.9
+26031	Michigan	Cheboygan	pcnt_lbw	5.8
+26033	Michigan	Chippewa	pcnt_lbw	5.6
+26035	Michigan	Clare	pcnt_lbw	8.1
+26037	Michigan	Clinton	pcnt_lbw	7.2
+26039	Michigan	Crawford	pcnt_lbw	8.1
+26041	Michigan	Delta	pcnt_lbw	7.8
+26043	Michigan	Dickinson	pcnt_lbw	6.5
+26045	Michigan	Eaton	pcnt_lbw	6.8
+26047	Michigan	Emmet	pcnt_lbw	6.7
+26049	Michigan	Genesee	pcnt_lbw	10.2
+26051	Michigan	Gladwin	pcnt_lbw	8.4
+26053	Michigan	Gogebic	pcnt_lbw	6.8
+26055	Michigan	Grand Traverse	pcnt_lbw	7.1
+26057	Michigan	Gratiot	pcnt_lbw	7.2
+26059	Michigan	Hillsdale	pcnt_lbw	6.3
+26061	Michigan	Houghton	pcnt_lbw	4.8
+26063	Michigan	Huron	pcnt_lbw	7.4
+26065	Michigan	Ingham	pcnt_lbw	8.2
+26067	Michigan	Ionia	pcnt_lbw	6.5
+26069	Michigan	Iosco	pcnt_lbw	6.4
+26071	Michigan	Iron	pcnt_lbw	4.7
+26073	Michigan	Isabella	pcnt_lbw	7.4
+26075	Michigan	Jackson	pcnt_lbw	8.2
+26077	Michigan	Kalamazoo	pcnt_lbw	8.4
+26079	Michigan	Kalkaska	pcnt_lbw	7.8
+26081	Michigan	Kent	pcnt_lbw	7.5
+26083	Michigan	Keweenaw	pcnt_lbw	
+26085	Michigan	Lake	pcnt_lbw	7.4
+26087	Michigan	Lapeer	pcnt_lbw	7.3
+26089	Michigan	Leelanau	pcnt_lbw	5.4
+26091	Michigan	Lenawee	pcnt_lbw	7.2
+26093	Michigan	Livingston	pcnt_lbw	6.4
+26095	Michigan	Luce	pcnt_lbw	8.9
+26097	Michigan	Mackinac	pcnt_lbw	7.1
+26099	Michigan	Macomb	pcnt_lbw	8.2
+26101	Michigan	Manistee	pcnt_lbw	8.9
+26103	Michigan	Marquette	pcnt_lbw	6.8
+26105	Michigan	Mason	pcnt_lbw	7.5
+26107	Michigan	Mecosta	pcnt_lbw	6.6
+26109	Michigan	Menominee	pcnt_lbw	6.2
+26111	Michigan	Midland	pcnt_lbw	7.4
+26113	Michigan	Missaukee	pcnt_lbw	5.5
+26115	Michigan	Monroe	pcnt_lbw	7.2
+26117	Michigan	Montcalm	pcnt_lbw	6.7
+26119	Michigan	Montmorency	pcnt_lbw	7.5
+26121	Michigan	Muskegon	pcnt_lbw	8.4
+26123	Michigan	Newaygo	pcnt_lbw	6.7
+26125	Michigan	Oakland	pcnt_lbw	8.1
+26127	Michigan	Oceana	pcnt_lbw	7.2
+26129	Michigan	Ogemaw	pcnt_lbw	6.3
+26131	Michigan	Ontonagon	pcnt_lbw	6.5
+26133	Michigan	Osceola	pcnt_lbw	5.8
+26135	Michigan	Oscoda	pcnt_lbw	5.0
+26137	Michigan	Otsego	pcnt_lbw	6.3
+26139	Michigan	Ottawa	pcnt_lbw	6.4
+26141	Michigan	Presque Isle	pcnt_lbw	6.6
+26143	Michigan	Roscommon	pcnt_lbw	6.5
+26145	Michigan	Saginaw	pcnt_lbw	9.7
+26147	Michigan	St. Clair	pcnt_lbw	8.1
+26149	Michigan	St. Joseph	pcnt_lbw	7.0
+26151	Michigan	Sanilac	pcnt_lbw	6.6
+26153	Michigan	Schoolcraft	pcnt_lbw	8.1
+26155	Michigan	Shiawassee	pcnt_lbw	7.5
+26157	Michigan	Tuscola	pcnt_lbw	7.0
+26159	Michigan	Van Buren	pcnt_lbw	7.0
+26161	Michigan	Washtenaw	pcnt_lbw	7.8
+26163	Michigan	Wayne	pcnt_lbw	10.6
+26165	Michigan	Wexford	pcnt_lbw	7.2
+27001	Minnesota	Aitkin	pcnt_lbw	5.7
+27003	Minnesota	Anoka	pcnt_lbw	6.6
+27005	Minnesota	Becker	pcnt_lbw	5.4
+27007	Minnesota	Beltrami	pcnt_lbw	5.7
+27009	Minnesota	Benton	pcnt_lbw	7.2
+27011	Minnesota	Big Stone	pcnt_lbw	
+27013	Minnesota	Blue Earth	pcnt_lbw	6.0
+27015	Minnesota	Brown	pcnt_lbw	5.3
+27017	Minnesota	Carlton	pcnt_lbw	5.5
+27019	Minnesota	Carver	pcnt_lbw	5.7
+27021	Minnesota	Cass	pcnt_lbw	7.4
+27023	Minnesota	Chippewa	pcnt_lbw	6.2
+27025	Minnesota	Chisago	pcnt_lbw	6.0
+27027	Minnesota	Clay	pcnt_lbw	6.7
+27029	Minnesota	Clearwater	pcnt_lbw	5.6
+27031	Minnesota	Cook	pcnt_lbw	
+27033	Minnesota	Cottonwood	pcnt_lbw	6.4
+27035	Minnesota	Crow Wing	pcnt_lbw	6.0
+27037	Minnesota	Dakota	pcnt_lbw	6.2
+27039	Minnesota	Dodge	pcnt_lbw	5.9
+27041	Minnesota	Douglas	pcnt_lbw	5.9
+27043	Minnesota	Faribault	pcnt_lbw	6.5
+27045	Minnesota	Fillmore	pcnt_lbw	5.6
+27047	Minnesota	Freeborn	pcnt_lbw	6.1
+27049	Minnesota	Goodhue	pcnt_lbw	6.1
+27051	Minnesota	Grant	pcnt_lbw	5.3
+27053	Minnesota	Hennepin	pcnt_lbw	7.3
+27055	Minnesota	Houston	pcnt_lbw	5.6
+27057	Minnesota	Hubbard	pcnt_lbw	5.7
+27059	Minnesota	Isanti	pcnt_lbw	6.2
+27061	Minnesota	Itasca	pcnt_lbw	6.1
+27063	Minnesota	Jackson	pcnt_lbw	8.0
+27065	Minnesota	Kanabec	pcnt_lbw	5.0
+27067	Minnesota	Kandiyohi	pcnt_lbw	5.4
+27069	Minnesota	Kittson	pcnt_lbw	
+27071	Minnesota	Koochiching	pcnt_lbw	5.1
+27073	Minnesota	Lac qui Parle	pcnt_lbw	4.6
+27075	Minnesota	Lake	pcnt_lbw	8.4
+27077	Minnesota	Lake of the Woods	pcnt_lbw	
+27079	Minnesota	Le Sueur	pcnt_lbw	5.3
+27081	Minnesota	Lincoln	pcnt_lbw	6.0
+27083	Minnesota	Lyon	pcnt_lbw	5.7
+27085	Minnesota	McLeod	pcnt_lbw	5.5
+27087	Minnesota	Mahnomen	pcnt_lbw	5.2
+27089	Minnesota	Marshall	pcnt_lbw	6.4
+27091	Minnesota	Martin	pcnt_lbw	7.3
+27093	Minnesota	Meeker	pcnt_lbw	5.8
+27095	Minnesota	Mille Lacs	pcnt_lbw	5.8
+27097	Minnesota	Morrison	pcnt_lbw	6.9
+27099	Minnesota	Mower	pcnt_lbw	6.0
+27101	Minnesota	Murray	pcnt_lbw	5.7
+27103	Minnesota	Nicollet	pcnt_lbw	6.0
+27105	Minnesota	Nobles	pcnt_lbw	6.5
+27107	Minnesota	Norman	pcnt_lbw	6.8
+27109	Minnesota	Olmsted	pcnt_lbw	6.4
+27111	Minnesota	Otter Tail	pcnt_lbw	5.5
+27113	Minnesota	Pennington	pcnt_lbw	6.5
+27115	Minnesota	Pine	pcnt_lbw	6.1
+27117	Minnesota	Pipestone	pcnt_lbw	6.4
+27119	Minnesota	Polk	pcnt_lbw	6.1
+27121	Minnesota	Pope	pcnt_lbw	5.8
+27123	Minnesota	Ramsey	pcnt_lbw	7.3
+27125	Minnesota	Red Lake	pcnt_lbw	6.1
+27127	Minnesota	Redwood	pcnt_lbw	6.1
+27129	Minnesota	Renville	pcnt_lbw	5.6
+27131	Minnesota	Rice	pcnt_lbw	6.5
+27133	Minnesota	Rock	pcnt_lbw	5.5
+27135	Minnesota	Roseau	pcnt_lbw	6.1
+27137	Minnesota	St. Louis	pcnt_lbw	6.2
+27139	Minnesota	Scott	pcnt_lbw	6.3
+27141	Minnesota	Sherburne	pcnt_lbw	6.2
+27143	Minnesota	Sibley	pcnt_lbw	6.4
+27145	Minnesota	Stearns	pcnt_lbw	6.5
+27147	Minnesota	Steele	pcnt_lbw	5.5
+27149	Minnesota	Stevens	pcnt_lbw	4.7
+27151	Minnesota	Swift	pcnt_lbw	4.8
+27153	Minnesota	Todd	pcnt_lbw	5.6
+27155	Minnesota	Traverse	pcnt_lbw	
+27157	Minnesota	Wabasha	pcnt_lbw	5.7
+27159	Minnesota	Wadena	pcnt_lbw	6.9
+27161	Minnesota	Waseca	pcnt_lbw	5.8
+27163	Minnesota	Washington	pcnt_lbw	6.1
+27165	Minnesota	Watonwan	pcnt_lbw	5.3
+27167	Minnesota	Wilkin	pcnt_lbw	5.0
+27169	Minnesota	Winona	pcnt_lbw	5.3
+27171	Minnesota	Wright	pcnt_lbw	5.7
+27173	Minnesota	Yellow Medicine	pcnt_lbw	5.3
+28001	Mississippi	Adams	pcnt_lbw	14.8
+28003	Mississippi	Alcorn	pcnt_lbw	11.6
+28005	Mississippi	Amite	pcnt_lbw	11.1
+28007	Mississippi	Attala	pcnt_lbw	13.0
+28009	Mississippi	Benton	pcnt_lbw	12.8
+28011	Mississippi	Bolivar	pcnt_lbw	13.8
+28013	Mississippi	Calhoun	pcnt_lbw	11.7
+28015	Mississippi	Carroll	pcnt_lbw	10.5
+28017	Mississippi	Chickasaw	pcnt_lbw	11.2
+28019	Mississippi	Choctaw	pcnt_lbw	13.3
+28021	Mississippi	Claiborne	pcnt_lbw	16.8
+28023	Mississippi	Clarke	pcnt_lbw	12.9
+28025	Mississippi	Clay	pcnt_lbw	13.3
+28027	Mississippi	Coahoma	pcnt_lbw	16.7
+28029	Mississippi	Copiah	pcnt_lbw	16.1
+28031	Mississippi	Covington	pcnt_lbw	11.7
+28033	Mississippi	DeSoto	pcnt_lbw	8.3
+28035	Mississippi	Forrest	pcnt_lbw	12.2
+28037	Mississippi	Franklin	pcnt_lbw	14.1
+28039	Mississippi	George	pcnt_lbw	9.6
+28041	Mississippi	Greene	pcnt_lbw	8.8
+28043	Mississippi	Grenada	pcnt_lbw	12.1
+28045	Mississippi	Hancock	pcnt_lbw	8.0
+28047	Mississippi	Harrison	pcnt_lbw	10.5
+28049	Mississippi	Hinds	pcnt_lbw	15.4
+28051	Mississippi	Holmes	pcnt_lbw	14.6
+28053	Mississippi	Humphreys	pcnt_lbw	15.9
+28055	Mississippi	Issaquena	pcnt_lbw	16.8
+28057	Mississippi	Itawamba	pcnt_lbw	9.4
+28059	Mississippi	Jackson	pcnt_lbw	10.6
+28061	Mississippi	Jasper	pcnt_lbw	13.7
+28063	Mississippi	Jefferson	pcnt_lbw	16.2
+28065	Mississippi	Jefferson Davis	pcnt_lbw	15.6
+28067	Mississippi	Jones	pcnt_lbw	11.5
+28069	Mississippi	Kemper	pcnt_lbw	14.6
+28071	Mississippi	Lafayette	pcnt_lbw	9.7
+28073	Mississippi	Lamar	pcnt_lbw	9.5
+28075	Mississippi	Lauderdale	pcnt_lbw	12.9
+28077	Mississippi	Lawrence	pcnt_lbw	12.5
+28079	Mississippi	Leake	pcnt_lbw	12.2
+28081	Mississippi	Lee	pcnt_lbw	11.2
+28083	Mississippi	Leflore	pcnt_lbw	14.0
+28085	Mississippi	Lincoln	pcnt_lbw	11.4
+28087	Mississippi	Lowndes	pcnt_lbw	12.0
+28089	Mississippi	Madison	pcnt_lbw	11.2
+28091	Mississippi	Marion	pcnt_lbw	11.2
+28093	Mississippi	Marshall	pcnt_lbw	11.7
+28095	Mississippi	Monroe	pcnt_lbw	12.4
+28097	Mississippi	Montgomery	pcnt_lbw	13.5
+28099	Mississippi	Neshoba	pcnt_lbw	11.2
+28101	Mississippi	Newton	pcnt_lbw	11.4
+28103	Mississippi	Noxubee	pcnt_lbw	13.5
+28105	Mississippi	Oktibbeha	pcnt_lbw	11.6
+28107	Mississippi	Panola	pcnt_lbw	11.8
+28109	Mississippi	Pearl River	pcnt_lbw	9.2
+28111	Mississippi	Perry	pcnt_lbw	9.9
+28113	Mississippi	Pike	pcnt_lbw	13.9
+28115	Mississippi	Pontotoc	pcnt_lbw	10.5
+28117	Mississippi	Prentiss	pcnt_lbw	10.1
+28119	Mississippi	Quitman	pcnt_lbw	15.0
+28121	Mississippi	Rankin	pcnt_lbw	10.6
+28123	Mississippi	Scott	pcnt_lbw	13.3
+28125	Mississippi	Sharkey	pcnt_lbw	13.7
+28127	Mississippi	Simpson	pcnt_lbw	13.1
+28129	Mississippi	Smith	pcnt_lbw	11.4
+28131	Mississippi	Stone	pcnt_lbw	9.4
+28133	Mississippi	Sunflower	pcnt_lbw	14.9
+28135	Mississippi	Tallahatchie	pcnt_lbw	15.1
+28137	Mississippi	Tate	pcnt_lbw	9.2
+28139	Mississippi	Tippah	pcnt_lbw	12.6
+28141	Mississippi	Tishomingo	pcnt_lbw	9.3
+28143	Mississippi	Tunica	pcnt_lbw	14.4
+28145	Mississippi	Union	pcnt_lbw	11.7
+28147	Mississippi	Walthall	pcnt_lbw	10.1
+28149	Mississippi	Warren	pcnt_lbw	12.6
+28151	Mississippi	Washington	pcnt_lbw	13.7
+28153	Mississippi	Wayne	pcnt_lbw	14.0
+28155	Mississippi	Webster	pcnt_lbw	11.5
+28157	Mississippi	Wilkinson	pcnt_lbw	16.6
+28159	Mississippi	Winston	pcnt_lbw	14.0
+28161	Mississippi	Yalobusha	pcnt_lbw	10.1
+28163	Mississippi	Yazoo	pcnt_lbw	13.4
+29001	Missouri	Adair	pcnt_lbw	8.9
+29003	Missouri	Andrew	pcnt_lbw	5.6
+29005	Missouri	Atchison	pcnt_lbw	5.3
+29007	Missouri	Audrain	pcnt_lbw	7.6
+29009	Missouri	Barry	pcnt_lbw	7.9
+29011	Missouri	Barton	pcnt_lbw	7.7
+29013	Missouri	Bates	pcnt_lbw	6.8
+29015	Missouri	Benton	pcnt_lbw	7.1
+29017	Missouri	Bollinger	pcnt_lbw	7.2
+29019	Missouri	Boone	pcnt_lbw	7.7
+29021	Missouri	Buchanan	pcnt_lbw	7.4
+29023	Missouri	Butler	pcnt_lbw	10.0
+29025	Missouri	Caldwell	pcnt_lbw	9.6
+29027	Missouri	Callaway	pcnt_lbw	9.2
+29029	Missouri	Camden	pcnt_lbw	6.8
+29031	Missouri	Cape Girardeau	pcnt_lbw	8.1
+29033	Missouri	Carroll	pcnt_lbw	6.4
+29035	Missouri	Carter	pcnt_lbw	10.0
+29037	Missouri	Cass	pcnt_lbw	6.7
+29039	Missouri	Cedar	pcnt_lbw	5.8
+29041	Missouri	Chariton	pcnt_lbw	6.0
+29043	Missouri	Christian	pcnt_lbw	6.5
+29045	Missouri	Clark	pcnt_lbw	6.2
+29047	Missouri	Clay	pcnt_lbw	6.8
+29049	Missouri	Clinton	pcnt_lbw	6.7
+29051	Missouri	Cole	pcnt_lbw	7.5
+29053	Missouri	Cooper	pcnt_lbw	9.3
+29055	Missouri	Crawford	pcnt_lbw	8.6
+29057	Missouri	Dade	pcnt_lbw	6.0
+29059	Missouri	Dallas	pcnt_lbw	6.6
+29061	Missouri	Daviess	pcnt_lbw	7.5
+29063	Missouri	DeKalb	pcnt_lbw	6.8
+29065	Missouri	Dent	pcnt_lbw	8.1
+29067	Missouri	Douglas	pcnt_lbw	8.5
+29069	Missouri	Dunklin	pcnt_lbw	11.3
+29071	Missouri	Franklin	pcnt_lbw	7.4
+29073	Missouri	Gasconade	pcnt_lbw	7.7
+29075	Missouri	Gentry	pcnt_lbw	6.4
+29077	Missouri	Greene	pcnt_lbw	7.1
+29079	Missouri	Grundy	pcnt_lbw	7.4
+29081	Missouri	Harrison	pcnt_lbw	6.5
+29083	Missouri	Henry	pcnt_lbw	7.3
+29085	Missouri	Hickory	pcnt_lbw	5.0
+29087	Missouri	Holt	pcnt_lbw	6.7
+29089	Missouri	Howard	pcnt_lbw	9.3
+29091	Missouri	Howell	pcnt_lbw	7.5
+29093	Missouri	Iron	pcnt_lbw	7.3
+29095	Missouri	Jackson	pcnt_lbw	8.5
+29097	Missouri	Jasper	pcnt_lbw	6.6
+29099	Missouri	Jefferson	pcnt_lbw	7.4
+29101	Missouri	Johnson	pcnt_lbw	6.5
+29103	Missouri	Knox	pcnt_lbw	6.7
+29105	Missouri	Laclede	pcnt_lbw	7.1
+29107	Missouri	Lafayette	pcnt_lbw	6.7
+29109	Missouri	Lawrence	pcnt_lbw	7.7
+29111	Missouri	Lewis	pcnt_lbw	6.4
+29113	Missouri	Lincoln	pcnt_lbw	6.5
+29115	Missouri	Linn	pcnt_lbw	6.2
+29117	Missouri	Livingston	pcnt_lbw	7.3
+29119	Missouri	McDonald	pcnt_lbw	8.0
+29121	Missouri	Macon	pcnt_lbw	6.9
+29123	Missouri	Madison	pcnt_lbw	7.8
+29125	Missouri	Maries	pcnt_lbw	6.0
+29127	Missouri	Marion	pcnt_lbw	7.3
+29129	Missouri	Mercer	pcnt_lbw	9.6
+29131	Missouri	Miller	pcnt_lbw	6.7
+29133	Missouri	Mississippi	pcnt_lbw	12.2
+29135	Missouri	Moniteau	pcnt_lbw	5.7
+29137	Missouri	Monroe	pcnt_lbw	9.4
+29139	Missouri	Montgomery	pcnt_lbw	7.7
+29141	Missouri	Morgan	pcnt_lbw	6.9
+29143	Missouri	New Madrid	pcnt_lbw	12.1
+29145	Missouri	Newton	pcnt_lbw	7.0
+29147	Missouri	Nodaway	pcnt_lbw	6.6
+29149	Missouri	Oregon	pcnt_lbw	9.6
+29151	Missouri	Osage	pcnt_lbw	6.7
+29153	Missouri	Ozark	pcnt_lbw	5.4
+29155	Missouri	Pemiscot	pcnt_lbw	14.1
+29157	Missouri	Perry	pcnt_lbw	7.5
+29159	Missouri	Pettis	pcnt_lbw	7.1
+29161	Missouri	Phelps	pcnt_lbw	7.3
+29163	Missouri	Pike	pcnt_lbw	8.1
+29165	Missouri	Platte	pcnt_lbw	6.8
+29167	Missouri	Polk	pcnt_lbw	6.7
+29169	Missouri	Pulaski	pcnt_lbw	7.6
+29171	Missouri	Putnam	pcnt_lbw	8.3
+29173	Missouri	Ralls	pcnt_lbw	7.2
+29175	Missouri	Randolph	pcnt_lbw	7.1
+29177	Missouri	Ray	pcnt_lbw	8.0
+29179	Missouri	Reynolds	pcnt_lbw	7.1
+29181	Missouri	Ripley	pcnt_lbw	10.5
+29183	Missouri	St. Charles	pcnt_lbw	7.3
+29185	Missouri	St. Clair	pcnt_lbw	8.8
+29186	Missouri	Ste. Genevieve	pcnt_lbw	6.5
+29187	Missouri	St. Francois	pcnt_lbw	8.1
+29189	Missouri	St. Louis	pcnt_lbw	8.9
+29195	Missouri	Saline	pcnt_lbw	8.3
+29197	Missouri	Schuyler	pcnt_lbw	5.8
+29199	Missouri	Scotland	pcnt_lbw	5.0
+29201	Missouri	Scott	pcnt_lbw	9.0
+29203	Missouri	Shannon	pcnt_lbw	8.1
+29205	Missouri	Shelby	pcnt_lbw	8.0
+29207	Missouri	Stoddard	pcnt_lbw	8.6
+29209	Missouri	Stone	pcnt_lbw	7.6
+29211	Missouri	Sullivan	pcnt_lbw	7.1
+29213	Missouri	Taney	pcnt_lbw	7.8
+29215	Missouri	Texas	pcnt_lbw	7.3
+29217	Missouri	Vernon	pcnt_lbw	6.0
+29219	Missouri	Warren	pcnt_lbw	6.3
+29221	Missouri	Washington	pcnt_lbw	10.2
+29223	Missouri	Wayne	pcnt_lbw	8.1
+29225	Missouri	Webster	pcnt_lbw	6.6
+29227	Missouri	Worth	pcnt_lbw	
+29229	Missouri	Wright	pcnt_lbw	8.4
+29510	Missouri	St. Louis City	pcnt_lbw	11.9
+30001	Montana	Beaverhead	pcnt_lbw	8.9
+30003	Montana	Big Horn	pcnt_lbw	6.4
+30005	Montana	Blaine	pcnt_lbw	7.7
+30007	Montana	Broadwater	pcnt_lbw	8.2
+30009	Montana	Carbon	pcnt_lbw	6.2
+30011	Montana	Carter	pcnt_lbw	
+30013	Montana	Cascade	pcnt_lbw	7.5
+30015	Montana	Chouteau	pcnt_lbw	7.1
+30017	Montana	Custer	pcnt_lbw	8.3
+30019	Montana	Daniels	pcnt_lbw	
+30021	Montana	Dawson	pcnt_lbw	7.1
+30023	Montana	Deer Lodge	pcnt_lbw	9.4
+30025	Montana	Fallon	pcnt_lbw	10.4
+30027	Montana	Fergus	pcnt_lbw	7.3
+30029	Montana	Flathead	pcnt_lbw	6.2
+30031	Montana	Gallatin	pcnt_lbw	6.5
+30033	Montana	Garfield	pcnt_lbw	
+30035	Montana	Glacier	pcnt_lbw	9.2
+30037	Montana	Golden Valley	pcnt_lbw	
+30039	Montana	Granite	pcnt_lbw	
+30041	Montana	Hill	pcnt_lbw	6.2
+30043	Montana	Jefferson	pcnt_lbw	7.2
+30045	Montana	Judith Basin	pcnt_lbw	
+30047	Montana	Lake	pcnt_lbw	8.5
+30049	Montana	Lewis and Clark	pcnt_lbw	8.5
+30051	Montana	Liberty	pcnt_lbw	
+30053	Montana	Lincoln	pcnt_lbw	7.1
+30055	Montana	McCone	pcnt_lbw	
+30057	Montana	Madison	pcnt_lbw	
+30059	Montana	Meagher	pcnt_lbw	13.5
+30061	Montana	Mineral	pcnt_lbw	8.1
+30063	Montana	Missoula	pcnt_lbw	7.1
+30065	Montana	Musselshell	pcnt_lbw	8.3
+30067	Montana	Park	pcnt_lbw	6.0
+30069	Montana	Petroleum	pcnt_lbw	
+30071	Montana	Phillips	pcnt_lbw	
+30073	Montana	Pondera	pcnt_lbw	4.9
+30075	Montana	Powder River	pcnt_lbw	
+30077	Montana	Powell	pcnt_lbw	8.2
+30079	Montana	Prairie	pcnt_lbw	
+30081	Montana	Ravalli	pcnt_lbw	6.9
+30083	Montana	Richland	pcnt_lbw	8.6
+30085	Montana	Roosevelt	pcnt_lbw	7.9
+30087	Montana	Rosebud	pcnt_lbw	6.9
+30089	Montana	Sanders	pcnt_lbw	7.0
+30091	Montana	Sheridan	pcnt_lbw	
+30093	Montana	Silver Bow	pcnt_lbw	8.5
+30095	Montana	Stillwater	pcnt_lbw	8.3
+30097	Montana	Sweet Grass	pcnt_lbw	8.6
+30099	Montana	Teton	pcnt_lbw	6.8
+30101	Montana	Toole	pcnt_lbw	8.2
+30103	Montana	Treasure	pcnt_lbw	
+30105	Montana	Valley	pcnt_lbw	5.8
+30107	Montana	Wheatland	pcnt_lbw	
+30109	Montana	Wibaux	pcnt_lbw	
+30111	Montana	Yellowstone	pcnt_lbw	7.2
+31001	Nebraska	Adams	pcnt_lbw	6.8
+31003	Nebraska	Antelope	pcnt_lbw	5.4
+31005	Nebraska	Arthur	pcnt_lbw	
+31007	Nebraska	Banner	pcnt_lbw	
+31009	Nebraska	Blaine	pcnt_lbw	
+31011	Nebraska	Boone	pcnt_lbw	6.7
+31013	Nebraska	Box Butte	pcnt_lbw	7.9
+31015	Nebraska	Boyd	pcnt_lbw	
+31017	Nebraska	Brown	pcnt_lbw	
+31019	Nebraska	Buffalo	pcnt_lbw	5.9
+31021	Nebraska	Burt	pcnt_lbw	8.1
+31023	Nebraska	Butler	pcnt_lbw	5.4
+31025	Nebraska	Cass	pcnt_lbw	6.7
+31027	Nebraska	Cedar	pcnt_lbw	3.5
+31029	Nebraska	Chase	pcnt_lbw	5.7
+31031	Nebraska	Cherry	pcnt_lbw	5.6
+31033	Nebraska	Cheyenne	pcnt_lbw	7.4
+31035	Nebraska	Clay	pcnt_lbw	
+31037	Nebraska	Colfax	pcnt_lbw	4.9
+31039	Nebraska	Cuming	pcnt_lbw	5.9
+31041	Nebraska	Custer	pcnt_lbw	6.0
+31043	Nebraska	Dakota	pcnt_lbw	6.5
+31045	Nebraska	Dawes	pcnt_lbw	6.5
+31047	Nebraska	Dawson	pcnt_lbw	6.4
+31049	Nebraska	Deuel	pcnt_lbw	
+31051	Nebraska	Dixon	pcnt_lbw	6.4
+31053	Nebraska	Dodge	pcnt_lbw	6.7
+31055	Nebraska	Douglas	pcnt_lbw	8.0
+31057	Nebraska	Dundy	pcnt_lbw	
+31059	Nebraska	Fillmore	pcnt_lbw	7.6
+31061	Nebraska	Franklin	pcnt_lbw	
+31063	Nebraska	Frontier	pcnt_lbw	
+31065	Nebraska	Furnas	pcnt_lbw	
+31067	Nebraska	Gage	pcnt_lbw	7.4
+31069	Nebraska	Garden	pcnt_lbw	
+31071	Nebraska	Garfield	pcnt_lbw	
+31073	Nebraska	Gosper	pcnt_lbw	
+31075	Nebraska	Grant	pcnt_lbw	
+31077	Nebraska	Greeley	pcnt_lbw	
+31079	Nebraska	Hall	pcnt_lbw	6.9
+31081	Nebraska	Hamilton	pcnt_lbw	8.0
+31083	Nebraska	Harlan	pcnt_lbw	
+31085	Nebraska	Hayes	pcnt_lbw	
+31087	Nebraska	Hitchcock	pcnt_lbw	
+31089	Nebraska	Holt	pcnt_lbw	7.2
+31091	Nebraska	Hooker	pcnt_lbw	
+31093	Nebraska	Howard	pcnt_lbw	5.5
+31095	Nebraska	Jefferson	pcnt_lbw	8.8
+31097	Nebraska	Johnson	pcnt_lbw	
+31099	Nebraska	Kearney	pcnt_lbw	6.5
+31101	Nebraska	Keith	pcnt_lbw	10.1
+31103	Nebraska	Keya Paha	pcnt_lbw	
+31105	Nebraska	Kimball	pcnt_lbw	10.5
+31107	Nebraska	Knox	pcnt_lbw	7.0
+31109	Nebraska	Lancaster	pcnt_lbw	6.9
+31111	Nebraska	Lincoln	pcnt_lbw	8.4
+31113	Nebraska	Logan	pcnt_lbw	
+31115	Nebraska	Loup	pcnt_lbw	
+31117	Nebraska	McPherson	pcnt_lbw	
+31119	Nebraska	Madison	pcnt_lbw	6.0
+31121	Nebraska	Merrick	pcnt_lbw	6.4
+31123	Nebraska	Morrill	pcnt_lbw	9.0
+31125	Nebraska	Nance	pcnt_lbw	7.5
+31127	Nebraska	Nemaha	pcnt_lbw	7.5
+31129	Nebraska	Nuckolls	pcnt_lbw	6.8
+31131	Nebraska	Otoe	pcnt_lbw	8.4
+31133	Nebraska	Pawnee	pcnt_lbw	13.6
+31135	Nebraska	Perkins	pcnt_lbw	
+31137	Nebraska	Phelps	pcnt_lbw	5.7
+31139	Nebraska	Pierce	pcnt_lbw	4.4
+31141	Nebraska	Platte	pcnt_lbw	5.5
+31143	Nebraska	Polk	pcnt_lbw	6.3
+31145	Nebraska	Red Willow	pcnt_lbw	6.0
+31147	Nebraska	Richardson	pcnt_lbw	6.9
+31149	Nebraska	Rock	pcnt_lbw	
+31151	Nebraska	Saline	pcnt_lbw	5.1
+31153	Nebraska	Sarpy	pcnt_lbw	6.5
+31155	Nebraska	Saunders	pcnt_lbw	6.1
+31157	Nebraska	Scotts Bluff	pcnt_lbw	7.7
+31159	Nebraska	Seward	pcnt_lbw	6.7
+31161	Nebraska	Sheridan	pcnt_lbw	5.2
+31163	Nebraska	Sherman	pcnt_lbw	
+31165	Nebraska	Sioux	pcnt_lbw	
+31167	Nebraska	Stanton	pcnt_lbw	4.4
+31169	Nebraska	Thayer	pcnt_lbw	9.7
+31171	Nebraska	Thomas	pcnt_lbw	
+31173	Nebraska	Thurston	pcnt_lbw	6.1
+31175	Nebraska	Valley	pcnt_lbw	
+31177	Nebraska	Washington	pcnt_lbw	5.8
+31179	Nebraska	Wayne	pcnt_lbw	5.1
+31181	Nebraska	Webster	pcnt_lbw	
+31183	Nebraska	Wheeler	pcnt_lbw	
+31185	Nebraska	York	pcnt_lbw	7.3
+32001	Nevada	Churchill	pcnt_lbw	7.2
+32003	Nevada	Clark	pcnt_lbw	8.3
+32005	Nevada	Douglas	pcnt_lbw	8.5
+32007	Nevada	Elko	pcnt_lbw	6.5
+32009	Nevada	Esmeralda	pcnt_lbw	
+32011	Nevada	Eureka	pcnt_lbw	
+32013	Nevada	Humboldt	pcnt_lbw	5.9
+32015	Nevada	Lander	pcnt_lbw	7.6
+32017	Nevada	Lincoln	pcnt_lbw	
+32019	Nevada	Lyon	pcnt_lbw	7.6
+32021	Nevada	Mineral	pcnt_lbw	7.8
+32023	Nevada	Nye	pcnt_lbw	9.2
+32027	Nevada	Pershing	pcnt_lbw	6.2
+32029	Nevada	Storey	pcnt_lbw	
+32031	Nevada	Washoe	pcnt_lbw	8.3
+32033	Nevada	White Pine	pcnt_lbw	5.5
+32510	Nevada	Carson City	pcnt_lbw	7.4
+33001	New Hampshire	Belknap	pcnt_lbw	6.3
+33003	New Hampshire	Carroll	pcnt_lbw	5.9
+33005	New Hampshire	Cheshire	pcnt_lbw	5.9
+33007	New Hampshire	Coos	pcnt_lbw	8.0
+33009	New Hampshire	Grafton	pcnt_lbw	6.4
+33011	New Hampshire	Hillsborough	pcnt_lbw	7.0
+33013	New Hampshire	Merrimack	pcnt_lbw	6.5
+33015	New Hampshire	Rockingham	pcnt_lbw	6.7
+33017	New Hampshire	Strafford	pcnt_lbw	6.8
+33019	New Hampshire	Sullivan	pcnt_lbw	7.7
+34001	New Jersey	Atlantic	pcnt_lbw	8.7
+34003	New Jersey	Bergen	pcnt_lbw	7.7
+34005	New Jersey	Burlington	pcnt_lbw	8.4
+34007	New Jersey	Camden	pcnt_lbw	9.1
+34009	New Jersey	Cape May	pcnt_lbw	7.1
+34011	New Jersey	Cumberland	pcnt_lbw	9.5
+34013	New Jersey	Essex	pcnt_lbw	10.6
+34015	New Jersey	Gloucester	pcnt_lbw	8.4
+34017	New Jersey	Hudson	pcnt_lbw	8.3
+34019	New Jersey	Hunterdon	pcnt_lbw	6.7
+34021	New Jersey	Mercer	pcnt_lbw	9.3
+34023	New Jersey	Middlesex	pcnt_lbw	8.3
+34025	New Jersey	Monmouth	pcnt_lbw	7.6
+34027	New Jersey	Morris	pcnt_lbw	7.5
+34029	New Jersey	Ocean	pcnt_lbw	6.3
+34031	New Jersey	Passaic	pcnt_lbw	8.7
+34033	New Jersey	Salem	pcnt_lbw	8.6
+34035	New Jersey	Somerset	pcnt_lbw	8.0
+34037	New Jersey	Sussex	pcnt_lbw	6.9
+34039	New Jersey	Union	pcnt_lbw	8.4
+34041	New Jersey	Warren	pcnt_lbw	7.7
+35001	New Mexico	Bernalillo	pcnt_lbw	8.8
+35003	New Mexico	Catron	pcnt_lbw	
+35005	New Mexico	Chaves	pcnt_lbw	8.0
+35006	New Mexico	Cibola	pcnt_lbw	9.3
+35007	New Mexico	Colfax	pcnt_lbw	11.3
+35009	New Mexico	Curry	pcnt_lbw	8.2
+35011	New Mexico	De Baca	pcnt_lbw	
+35013	New Mexico	Dona Ana	pcnt_lbw	7.5
+35015	New Mexico	Eddy	pcnt_lbw	7.7
+35017	New Mexico	Grant	pcnt_lbw	10.4
+35019	New Mexico	Guadalupe	pcnt_lbw	10.4
+35021	New Mexico	Harding	pcnt_lbw	
+35023	New Mexico	Hidalgo	pcnt_lbw	7.3
+35025	New Mexico	Lea	pcnt_lbw	9.2
+35027	New Mexico	Lincoln	pcnt_lbw	9.6
+35028	New Mexico	Los Alamos	pcnt_lbw	9.3
+35029	New Mexico	Luna	pcnt_lbw	8.3
+35031	New Mexico	McKinley	pcnt_lbw	8.3
+35033	New Mexico	Mora	pcnt_lbw	12.8
+35035	New Mexico	Otero	pcnt_lbw	8.5
+35037	New Mexico	Quay	pcnt_lbw	8.8
+35039	New Mexico	Rio Arriba	pcnt_lbw	11.3
+35041	New Mexico	Roosevelt	pcnt_lbw	7.0
+35043	New Mexico	Sandoval	pcnt_lbw	8.3
+35045	New Mexico	San Juan	pcnt_lbw	7.4
+35047	New Mexico	San Miguel	pcnt_lbw	11.8
+35049	New Mexico	Santa Fe	pcnt_lbw	9.1
+35051	New Mexico	Sierra	pcnt_lbw	8.1
+35053	New Mexico	Socorro	pcnt_lbw	9.2
+35055	New Mexico	Taos	pcnt_lbw	10.5
+35057	New Mexico	Torrance	pcnt_lbw	8.3
+35059	New Mexico	Union	pcnt_lbw	10.2
+35061	New Mexico	Valencia	pcnt_lbw	8.0
+36001	New York	Albany	pcnt_lbw	8.1
+36003	New York	Allegany	pcnt_lbw	7.1
+36005	New York	Bronx	pcnt_lbw	10.0
+36007	New York	Broome	pcnt_lbw	7.9
+36009	New York	Cattaraugus	pcnt_lbw	7.1
+36011	New York	Cayuga	pcnt_lbw	7.1
+36013	New York	Chautauqua	pcnt_lbw	7.8
+36015	New York	Chemung	pcnt_lbw	8.6
+36017	New York	Chenango	pcnt_lbw	6.7
+36019	New York	Clinton	pcnt_lbw	7.2
+36021	New York	Columbia	pcnt_lbw	7.7
+36023	New York	Cortland	pcnt_lbw	8.4
+36025	New York	Delaware	pcnt_lbw	7.5
+36027	New York	Dutchess	pcnt_lbw	7.0
+36029	New York	Erie	pcnt_lbw	8.2
+36031	New York	Essex	pcnt_lbw	7.8
+36033	New York	Franklin	pcnt_lbw	7.3
+36035	New York	Fulton	pcnt_lbw	7.8
+36037	New York	Genesee	pcnt_lbw	6.4
+36039	New York	Greene	pcnt_lbw	9.6
+36041	New York	Hamilton	pcnt_lbw	
+36043	New York	Herkimer	pcnt_lbw	6.9
+36045	New York	Jefferson	pcnt_lbw	6.9
+36047	New York	Kings	pcnt_lbw	8.6
+36049	New York	Lewis	pcnt_lbw	6.3
+36051	New York	Livingston	pcnt_lbw	6.1
+36053	New York	Madison	pcnt_lbw	6.7
+36055	New York	Monroe	pcnt_lbw	8.2
+36057	New York	Montgomery	pcnt_lbw	7.4
+36059	New York	Nassau	pcnt_lbw	8.0
+36061	New York	New York	pcnt_lbw	8.7
+36063	New York	Niagara	pcnt_lbw	7.8
+36065	New York	Oneida	pcnt_lbw	8.3
+36067	New York	Onondaga	pcnt_lbw	8.1
+36069	New York	Ontario	pcnt_lbw	6.4
+36071	New York	Orange	pcnt_lbw	7.1
+36073	New York	Orleans	pcnt_lbw	7.4
+36075	New York	Oswego	pcnt_lbw	7.0
+36077	New York	Otsego	pcnt_lbw	6.9
+36079	New York	Putnam	pcnt_lbw	7.7
+36081	New York	Queens	pcnt_lbw	8.3
+36083	New York	Rensselaer	pcnt_lbw	7.3
+36085	New York	Richmond	pcnt_lbw	8.2
+36087	New York	Rockland	pcnt_lbw	6.7
+36089	New York	St. Lawrence	pcnt_lbw	7.6
+36091	New York	Saratoga	pcnt_lbw	6.7
+36093	New York	Schenectady	pcnt_lbw	8.6
+36095	New York	Schoharie	pcnt_lbw	7.0
+36097	New York	Schuyler	pcnt_lbw	6.5
+36099	New York	Seneca	pcnt_lbw	5.9
+36101	New York	Steuben	pcnt_lbw	7.1
+36103	New York	Suffolk	pcnt_lbw	7.6
+36105	New York	Sullivan	pcnt_lbw	8.8
+36107	New York	Tioga	pcnt_lbw	7.5
+36109	New York	Tompkins	pcnt_lbw	6.8
+36111	New York	Ulster	pcnt_lbw	7.6
+36113	New York	Warren	pcnt_lbw	7.1
+36115	New York	Washington	pcnt_lbw	7.8
+36117	New York	Wayne	pcnt_lbw	6.9
+36119	New York	Westchester	pcnt_lbw	8.4
+36121	New York	Wyoming	pcnt_lbw	5.4
+36123	New York	Yates	pcnt_lbw	5.3
+37001	North Carolina	Alamance	pcnt_lbw	9.4
+37003	North Carolina	Alexander	pcnt_lbw	7.9
+37005	North Carolina	Alleghany	pcnt_lbw	9.2
+37007	North Carolina	Anson	pcnt_lbw	10.9
+37009	North Carolina	Ashe	pcnt_lbw	8.5
+37011	North Carolina	Avery	pcnt_lbw	7.9
+37013	North Carolina	Beaufort	pcnt_lbw	10.5
+37015	North Carolina	Bertie	pcnt_lbw	13.9
+37017	North Carolina	Bladen	pcnt_lbw	10.0
+37019	North Carolina	Brunswick	pcnt_lbw	8.6
+37021	North Carolina	Buncombe	pcnt_lbw	8.6
+37023	North Carolina	Burke	pcnt_lbw	8.2
+37025	North Carolina	Cabarrus	pcnt_lbw	8.8
+37027	North Carolina	Caldwell	pcnt_lbw	9.1
+37029	North Carolina	Camden	pcnt_lbw	7.9
+37031	North Carolina	Carteret	pcnt_lbw	7.4
+37033	North Carolina	Caswell	pcnt_lbw	9.7
+37035	North Carolina	Catawba	pcnt_lbw	8.7
+37037	North Carolina	Chatham	pcnt_lbw	8.3
+37039	North Carolina	Cherokee	pcnt_lbw	10.3
+37041	North Carolina	Chowan	pcnt_lbw	12.2
+37043	North Carolina	Clay	pcnt_lbw	6.0
+37045	North Carolina	Cleveland	pcnt_lbw	9.8
+37047	North Carolina	Columbus	pcnt_lbw	11.6
+37049	North Carolina	Craven	pcnt_lbw	8.7
+37051	North Carolina	Cumberland	pcnt_lbw	9.9
+37053	North Carolina	Currituck	pcnt_lbw	7.9
+37055	North Carolina	Dare	pcnt_lbw	7.0
+37057	North Carolina	Davidson	pcnt_lbw	9.6
+37059	North Carolina	Davie	pcnt_lbw	8.2
+37061	North Carolina	Duplin	pcnt_lbw	8.5
+37063	North Carolina	Durham	pcnt_lbw	9.4
+37065	North Carolina	Edgecombe	pcnt_lbw	13.0
+37067	North Carolina	Forsyth	pcnt_lbw	10.3
+37069	North Carolina	Franklin	pcnt_lbw	8.5
+37071	North Carolina	Gaston	pcnt_lbw	9.6
+37073	North Carolina	Gates	pcnt_lbw	11.0
+37075	North Carolina	Graham	pcnt_lbw	7.5
+37077	North Carolina	Granville	pcnt_lbw	9.5
+37079	North Carolina	Greene	pcnt_lbw	11.5
+37081	North Carolina	Guilford	pcnt_lbw	9.4
+37083	North Carolina	Halifax	pcnt_lbw	13.0
+37085	North Carolina	Harnett	pcnt_lbw	8.7
+37087	North Carolina	Haywood	pcnt_lbw	9.8
+37089	North Carolina	Henderson	pcnt_lbw	7.6
+37091	North Carolina	Hertford	pcnt_lbw	12.4
+37093	North Carolina	Hoke	pcnt_lbw	8.7
+37095	North Carolina	Hyde	pcnt_lbw	9.1
+37097	North Carolina	Iredell	pcnt_lbw	8.7
+37099	North Carolina	Jackson	pcnt_lbw	6.7
+37101	North Carolina	Johnston	pcnt_lbw	8.0
+37103	North Carolina	Jones	pcnt_lbw	10.2
+37105	North Carolina	Lee	pcnt_lbw	9.3
+37107	North Carolina	Lenoir	pcnt_lbw	11.2
+37109	North Carolina	Lincoln	pcnt_lbw	8.2
+37111	North Carolina	McDowell	pcnt_lbw	8.9
+37113	North Carolina	Macon	pcnt_lbw	7.6
+37115	North Carolina	Madison	pcnt_lbw	8.3
+37117	North Carolina	Martin	pcnt_lbw	12.3
+37119	North Carolina	Mecklenburg	pcnt_lbw	9.0
+37121	North Carolina	Mitchell	pcnt_lbw	8.9
+37123	North Carolina	Montgomery	pcnt_lbw	9.0
+37125	North Carolina	Moore	pcnt_lbw	7.6
+37127	North Carolina	Nash	pcnt_lbw	9.9
+37129	North Carolina	New Hanover	pcnt_lbw	8.7
+37131	North Carolina	Northampton	pcnt_lbw	14.1
+37133	North Carolina	Onslow	pcnt_lbw	7.8
+37135	North Carolina	Orange	pcnt_lbw	7.8
+37137	North Carolina	Pamlico	pcnt_lbw	8.6
+37139	North Carolina	Pasquotank	pcnt_lbw	10.2
+37141	North Carolina	Pender	pcnt_lbw	8.4
+37143	North Carolina	Perquimans	pcnt_lbw	10.1
+37145	North Carolina	Person	pcnt_lbw	9.9
+37147	North Carolina	Pitt	pcnt_lbw	10.9
+37149	North Carolina	Polk	pcnt_lbw	9.6
+37151	North Carolina	Randolph	pcnt_lbw	8.3
+37153	North Carolina	Richmond	pcnt_lbw	9.6
+37155	North Carolina	Robeson	pcnt_lbw	11.1
+37157	North Carolina	Rockingham	pcnt_lbw	9.5
+37159	North Carolina	Rowan	pcnt_lbw	9.8
+37161	North Carolina	Rutherford	pcnt_lbw	8.8
+37163	North Carolina	Sampson	pcnt_lbw	9.3
+37165	North Carolina	Scotland	pcnt_lbw	12.4
+37167	North Carolina	Stanly	pcnt_lbw	9.9
+37169	North Carolina	Stokes	pcnt_lbw	9.7
+37171	North Carolina	Surry	pcnt_lbw	8.3
+37173	North Carolina	Swain	pcnt_lbw	7.0
+37175	North Carolina	Transylvania	pcnt_lbw	8.0
+37177	North Carolina	Tyrrell	pcnt_lbw	12.6
+37179	North Carolina	Union	pcnt_lbw	7.6
+37181	North Carolina	Vance	pcnt_lbw	12.5
+37183	North Carolina	Wake	pcnt_lbw	7.9
+37185	North Carolina	Warren	pcnt_lbw	14.5
+37187	North Carolina	Washington	pcnt_lbw	11.4
+37189	North Carolina	Watauga	pcnt_lbw	6.1
+37191	North Carolina	Wayne	pcnt_lbw	8.9
+37193	North Carolina	Wilkes	pcnt_lbw	8.8
+37195	North Carolina	Wilson	pcnt_lbw	9.6
+37197	North Carolina	Yadkin	pcnt_lbw	9.5
+37199	North Carolina	Yancey	pcnt_lbw	8.1
+38001	North Dakota	Adams	pcnt_lbw	
+38003	North Dakota	Barnes	pcnt_lbw	4.7
+38005	North Dakota	Benson	pcnt_lbw	6.7
+38007	North Dakota	Billings	pcnt_lbw	
+38009	North Dakota	Bottineau	pcnt_lbw	5.6
+38011	North Dakota	Bowman	pcnt_lbw	
+38013	North Dakota	Burke	pcnt_lbw	
+38015	North Dakota	Burleigh	pcnt_lbw	7.0
+38017	North Dakota	Cass	pcnt_lbw	6.5
+38019	North Dakota	Cavalier	pcnt_lbw	
+38021	North Dakota	Dickey	pcnt_lbw	4.8
+38023	North Dakota	Divide	pcnt_lbw	
+38025	North Dakota	Dunn	pcnt_lbw	
+38027	North Dakota	Eddy	pcnt_lbw	
+38029	North Dakota	Emmons	pcnt_lbw	
+38031	North Dakota	Foster	pcnt_lbw	
+38033	North Dakota	Golden Valley	pcnt_lbw	
+38035	North Dakota	Grand Forks	pcnt_lbw	6.5
+38037	North Dakota	Grant	pcnt_lbw	
+38039	North Dakota	Griggs	pcnt_lbw	
+38041	North Dakota	Hettinger	pcnt_lbw	
+38043	North Dakota	Kidder	pcnt_lbw	
+38045	North Dakota	LaMoure	pcnt_lbw	
+38047	North Dakota	Logan	pcnt_lbw	
+38049	North Dakota	McHenry	pcnt_lbw	
+38051	North Dakota	McIntosh	pcnt_lbw	
+38053	North Dakota	McKenzie	pcnt_lbw	6.0
+38055	North Dakota	McLean	pcnt_lbw	5.3
+38057	North Dakota	Mercer	pcnt_lbw	9.0
+38059	North Dakota	Morton	pcnt_lbw	6.9
+38061	North Dakota	Mountrail	pcnt_lbw	8.0
+38063	North Dakota	Nelson	pcnt_lbw	
+38065	North Dakota	Oliver	pcnt_lbw	
+38067	North Dakota	Pembina	pcnt_lbw	6.7
+38069	North Dakota	Pierce	pcnt_lbw	
+38071	North Dakota	Ramsey	pcnt_lbw	7.3
+38073	North Dakota	Ransom	pcnt_lbw	5.1
+38075	North Dakota	Renville	pcnt_lbw	
+38077	North Dakota	Richland	pcnt_lbw	7.5
+38079	North Dakota	Rolette	pcnt_lbw	8.4
+38081	North Dakota	Sargent	pcnt_lbw	
+38083	North Dakota	Sheridan	pcnt_lbw	
+38085	North Dakota	Sioux	pcnt_lbw	8.2
+38087	North Dakota	Slope	pcnt_lbw	
+38089	North Dakota	Stark	pcnt_lbw	5.7
+38091	North Dakota	Steele	pcnt_lbw	
+38093	North Dakota	Stutsman	pcnt_lbw	8.1
+38095	North Dakota	Towner	pcnt_lbw	
+38097	North Dakota	Traill	pcnt_lbw	5.5
+38099	North Dakota	Walsh	pcnt_lbw	5.9
+38101	North Dakota	Ward	pcnt_lbw	6.0
+38103	North Dakota	Wells	pcnt_lbw	
+38105	North Dakota	Williams	pcnt_lbw	5.9
+39001	Ohio	Adams	pcnt_lbw	8.3
+39003	Ohio	Allen	pcnt_lbw	8.4
+39005	Ohio	Ashland	pcnt_lbw	7.0
+39007	Ohio	Ashtabula	pcnt_lbw	7.8
+39009	Ohio	Athens	pcnt_lbw	7.9
+39011	Ohio	Auglaize	pcnt_lbw	6.5
+39013	Ohio	Belmont	pcnt_lbw	7.9
+39015	Ohio	Brown	pcnt_lbw	7.8
+39017	Ohio	Butler	pcnt_lbw	7.9
+39019	Ohio	Carroll	pcnt_lbw	8.6
+39021	Ohio	Champaign	pcnt_lbw	8.2
+39023	Ohio	Clark	pcnt_lbw	8.5
+39025	Ohio	Clermont	pcnt_lbw	7.0
+39027	Ohio	Clinton	pcnt_lbw	8.8
+39029	Ohio	Columbiana	pcnt_lbw	7.7
+39031	Ohio	Coshocton	pcnt_lbw	7.7
+39033	Ohio	Crawford	pcnt_lbw	7.5
+39035	Ohio	Cuyahoga	pcnt_lbw	10.4
+39037	Ohio	Darke	pcnt_lbw	6.5
+39039	Ohio	Defiance	pcnt_lbw	6.3
+39041	Ohio	Delaware	pcnt_lbw	7.2
+39043	Ohio	Erie	pcnt_lbw	8.0
+39045	Ohio	Fairfield	pcnt_lbw	7.2
+39047	Ohio	Fayette	pcnt_lbw	8.5
+39049	Ohio	Franklin	pcnt_lbw	9.4
+39051	Ohio	Fulton	pcnt_lbw	6.1
+39053	Ohio	Gallia	pcnt_lbw	10.1
+39055	Ohio	Geauga	pcnt_lbw	6.1
+39057	Ohio	Greene	pcnt_lbw	7.4
+39059	Ohio	Guernsey	pcnt_lbw	8.1
+39061	Ohio	Hamilton	pcnt_lbw	10.0
+39063	Ohio	Hancock	pcnt_lbw	7.8
+39065	Ohio	Hardin	pcnt_lbw	8.0
+39067	Ohio	Harrison	pcnt_lbw	9.1
+39069	Ohio	Henry	pcnt_lbw	6.1
+39071	Ohio	Highland	pcnt_lbw	7.9
+39073	Ohio	Hocking	pcnt_lbw	8.1
+39075	Ohio	Holmes	pcnt_lbw	5.0
+39077	Ohio	Huron	pcnt_lbw	7.1
+39079	Ohio	Jackson	pcnt_lbw	9.4
+39081	Ohio	Jefferson	pcnt_lbw	8.5
+39083	Ohio	Knox	pcnt_lbw	6.3
+39085	Ohio	Lake	pcnt_lbw	7.4
+39087	Ohio	Lawrence	pcnt_lbw	11.4
+39089	Ohio	Licking	pcnt_lbw	7.5
+39091	Ohio	Logan	pcnt_lbw	8.2
+39093	Ohio	Lorain	pcnt_lbw	7.8
+39095	Ohio	Lucas	pcnt_lbw	9.5
+39097	Ohio	Madison	pcnt_lbw	6.9
+39099	Ohio	Mahoning	pcnt_lbw	10.0
+39101	Ohio	Marion	pcnt_lbw	9.3
+39103	Ohio	Medina	pcnt_lbw	6.8
+39105	Ohio	Meigs	pcnt_lbw	9.0
+39107	Ohio	Mercer	pcnt_lbw	5.0
+39109	Ohio	Miami	pcnt_lbw	7.7
+39111	Ohio	Monroe	pcnt_lbw	8.6
+39113	Ohio	Montgomery	pcnt_lbw	9.1
+39115	Ohio	Morgan	pcnt_lbw	9.0
+39117	Ohio	Morrow	pcnt_lbw	7.9
+39119	Ohio	Muskingum	pcnt_lbw	9.3
+39121	Ohio	Noble	pcnt_lbw	6.7
+39123	Ohio	Ottawa	pcnt_lbw	7.4
+39125	Ohio	Paulding	pcnt_lbw	7.9
+39127	Ohio	Perry	pcnt_lbw	8.9
+39129	Ohio	Pickaway	pcnt_lbw	7.5
+39131	Ohio	Pike	pcnt_lbw	8.9
+39133	Ohio	Portage	pcnt_lbw	7.5
+39135	Ohio	Preble	pcnt_lbw	7.4
+39137	Ohio	Putnam	pcnt_lbw	5.4
+39139	Ohio	Richland	pcnt_lbw	8.8
+39141	Ohio	Ross	pcnt_lbw	9.2
+39143	Ohio	Sandusky	pcnt_lbw	7.5
+39145	Ohio	Scioto	pcnt_lbw	9.4
+39147	Ohio	Seneca	pcnt_lbw	7.5
+39149	Ohio	Shelby	pcnt_lbw	6.9
+39151	Ohio	Stark	pcnt_lbw	9.1
+39153	Ohio	Summit	pcnt_lbw	8.8
+39155	Ohio	Trumbull	pcnt_lbw	8.9
+39157	Ohio	Tuscarawas	pcnt_lbw	7.8
+39159	Ohio	Union	pcnt_lbw	7.3
+39161	Ohio	Van Wert	pcnt_lbw	6.7
+39163	Ohio	Vinton	pcnt_lbw	9.6
+39165	Ohio	Warren	pcnt_lbw	6.8
+39167	Ohio	Washington	pcnt_lbw	7.8
+39169	Ohio	Wayne	pcnt_lbw	6.7
+39171	Ohio	Williams	pcnt_lbw	7.1
+39173	Ohio	Wood	pcnt_lbw	6.7
+39175	Ohio	Wyandot	pcnt_lbw	6.8
+40001	Oklahoma	Adair	pcnt_lbw	8.6
+40003	Oklahoma	Alfalfa	pcnt_lbw	7.2
+40005	Oklahoma	Atoka	pcnt_lbw	8.4
+40007	Oklahoma	Beaver	pcnt_lbw	8.1
+40009	Oklahoma	Beckham	pcnt_lbw	9.1
+40011	Oklahoma	Blaine	pcnt_lbw	10.0
+40013	Oklahoma	Bryan	pcnt_lbw	7.9
+40015	Oklahoma	Caddo	pcnt_lbw	7.5
+40017	Oklahoma	Canadian	pcnt_lbw	7.7
+40019	Oklahoma	Carter	pcnt_lbw	9.4
+40021	Oklahoma	Cherokee	pcnt_lbw	7.8
+40023	Oklahoma	Choctaw	pcnt_lbw	9.8
+40025	Oklahoma	Cimarron	pcnt_lbw	
+40027	Oklahoma	Cleveland	pcnt_lbw	7.0
+40029	Oklahoma	Coal	pcnt_lbw	8.5
+40031	Oklahoma	Comanche	pcnt_lbw	8.5
+40033	Oklahoma	Cotton	pcnt_lbw	7.7
+40035	Oklahoma	Craig	pcnt_lbw	9.0
+40037	Oklahoma	Creek	pcnt_lbw	8.4
+40039	Oklahoma	Custer	pcnt_lbw	7.6
+40041	Oklahoma	Delaware	pcnt_lbw	7.9
+40043	Oklahoma	Dewey	pcnt_lbw	6.0
+40045	Oklahoma	Ellis	pcnt_lbw	6.2
+40047	Oklahoma	Garfield	pcnt_lbw	8.3
+40049	Oklahoma	Garvin	pcnt_lbw	8.5
+40051	Oklahoma	Grady	pcnt_lbw	8.6
+40053	Oklahoma	Grant	pcnt_lbw	7.4
+40055	Oklahoma	Greer	pcnt_lbw	10.7
+40057	Oklahoma	Harmon	pcnt_lbw	
+40059	Oklahoma	Harper	pcnt_lbw	6.8
+40061	Oklahoma	Haskell	pcnt_lbw	8.9
+40063	Oklahoma	Hughes	pcnt_lbw	7.8
+40065	Oklahoma	Jackson	pcnt_lbw	9.6
+40067	Oklahoma	Jefferson	pcnt_lbw	9.2
+40069	Oklahoma	Johnston	pcnt_lbw	8.2
+40071	Oklahoma	Kay	pcnt_lbw	8.0
+40073	Oklahoma	Kingfisher	pcnt_lbw	6.7
+40075	Oklahoma	Kiowa	pcnt_lbw	9.6
+40077	Oklahoma	Latimer	pcnt_lbw	7.1
+40079	Oklahoma	Le Flore	pcnt_lbw	7.1
+40081	Oklahoma	Lincoln	pcnt_lbw	8.1
+40083	Oklahoma	Logan	pcnt_lbw	7.5
+40085	Oklahoma	Love	pcnt_lbw	9.2
+40087	Oklahoma	McClain	pcnt_lbw	8.7
+40089	Oklahoma	McCurtain	pcnt_lbw	7.9
+40091	Oklahoma	McIntosh	pcnt_lbw	9.2
+40093	Oklahoma	Major	pcnt_lbw	9.1
+40095	Oklahoma	Marshall	pcnt_lbw	6.7
+40097	Oklahoma	Mayes	pcnt_lbw	7.2
+40099	Oklahoma	Murray	pcnt_lbw	9.2
+40101	Oklahoma	Muskogee	pcnt_lbw	8.3
+40103	Oklahoma	Noble	pcnt_lbw	5.3
+40105	Oklahoma	Nowata	pcnt_lbw	5.9
+40107	Oklahoma	Okfuskee	pcnt_lbw	8.2
+40109	Oklahoma	Oklahoma	pcnt_lbw	8.9
+40111	Oklahoma	Okmulgee	pcnt_lbw	8.4
+40113	Oklahoma	Osage	pcnt_lbw	8.2
+40115	Oklahoma	Ottawa	pcnt_lbw	7.7
+40117	Oklahoma	Pawnee	pcnt_lbw	8.4
+40119	Oklahoma	Payne	pcnt_lbw	5.9
+40121	Oklahoma	Pittsburg	pcnt_lbw	9.1
+40123	Oklahoma	Pontotoc	pcnt_lbw	7.8
+40125	Oklahoma	Pottawatomie	pcnt_lbw	7.6
+40127	Oklahoma	Pushmataha	pcnt_lbw	7.9
+40129	Oklahoma	Roger Mills	pcnt_lbw	
+40131	Oklahoma	Rogers	pcnt_lbw	7.4
+40133	Oklahoma	Seminole	pcnt_lbw	7.9
+40135	Oklahoma	Sequoyah	pcnt_lbw	7.7
+40137	Oklahoma	Stephens	pcnt_lbw	7.5
+40139	Oklahoma	Texas	pcnt_lbw	6.5
+40141	Oklahoma	Tillman	pcnt_lbw	8.1
+40143	Oklahoma	Tulsa	pcnt_lbw	8.4
+40145	Oklahoma	Wagoner	pcnt_lbw	7.4
+40147	Oklahoma	Washington	pcnt_lbw	7.4
+40149	Oklahoma	Washita	pcnt_lbw	8.4
+40151	Oklahoma	Woods	pcnt_lbw	7.3
+40153	Oklahoma	Woodward	pcnt_lbw	7.9
+41001	Oregon	Baker	pcnt_lbw	8.6
+41003	Oregon	Benton	pcnt_lbw	5.6
+41005	Oregon	Clackamas	pcnt_lbw	5.7
+41007	Oregon	Clatsop	pcnt_lbw	5.9
+41009	Oregon	Columbia	pcnt_lbw	6.0
+41011	Oregon	Coos	pcnt_lbw	6.6
+41013	Oregon	Crook	pcnt_lbw	6.4
+41015	Oregon	Curry	pcnt_lbw	5.0
+41017	Oregon	Deschutes	pcnt_lbw	5.9
+41019	Oregon	Douglas	pcnt_lbw	6.6
+41021	Oregon	Gilliam	pcnt_lbw	
+41023	Oregon	Grant	pcnt_lbw	5.1
+41025	Oregon	Harney	pcnt_lbw	5.7
+41027	Oregon	Hood River	pcnt_lbw	4.6
+41029	Oregon	Jackson	pcnt_lbw	6.0
+41031	Oregon	Jefferson	pcnt_lbw	6.8
+41033	Oregon	Josephine	pcnt_lbw	5.5
+41035	Oregon	Klamath	pcnt_lbw	7.9
+41037	Oregon	Lake	pcnt_lbw	7.2
+41039	Oregon	Lane	pcnt_lbw	6.3
+41041	Oregon	Lincoln	pcnt_lbw	5.2
+41043	Oregon	Linn	pcnt_lbw	6.4
+41045	Oregon	Malheur	pcnt_lbw	6.2
+41047	Oregon	Marion	pcnt_lbw	5.7
+41049	Oregon	Morrow	pcnt_lbw	6.5
+41051	Oregon	Multnomah	pcnt_lbw	6.6
+41053	Oregon	Polk	pcnt_lbw	5.8
+41055	Oregon	Sherman	pcnt_lbw	
+41057	Oregon	Tillamook	pcnt_lbw	7.0
+41059	Oregon	Umatilla	pcnt_lbw	6.2
+41061	Oregon	Union	pcnt_lbw	7.1
+41063	Oregon	Wallowa	pcnt_lbw	8.1
+41065	Oregon	Wasco	pcnt_lbw	5.0
+41067	Oregon	Washington	pcnt_lbw	6.0
+41069	Oregon	Wheeler	pcnt_lbw	
+41071	Oregon	Yamhill	pcnt_lbw	5.4
+42001	Pennsylvania	Adams	pcnt_lbw	7.2
+42003	Pennsylvania	Allegheny	pcnt_lbw	8.6
+42005	Pennsylvania	Armstrong	pcnt_lbw	7.3
+42007	Pennsylvania	Beaver	pcnt_lbw	7.7
+42009	Pennsylvania	Bedford	pcnt_lbw	6.0
+42011	Pennsylvania	Berks	pcnt_lbw	7.8
+42013	Pennsylvania	Blair	pcnt_lbw	7.2
+42015	Pennsylvania	Bradford	pcnt_lbw	7.0
+42017	Pennsylvania	Bucks	pcnt_lbw	7.3
+42019	Pennsylvania	Butler	pcnt_lbw	6.9
+42021	Pennsylvania	Cambria	pcnt_lbw	9.3
+42023	Pennsylvania	Cameron	pcnt_lbw	
+42025	Pennsylvania	Carbon	pcnt_lbw	7.8
+42027	Pennsylvania	Centre	pcnt_lbw	6.6
+42029	Pennsylvania	Chester	pcnt_lbw	6.8
+42031	Pennsylvania	Clarion	pcnt_lbw	7.7
+42033	Pennsylvania	Clearfield	pcnt_lbw	7.5
+42035	Pennsylvania	Clinton	pcnt_lbw	6.9
+42037	Pennsylvania	Columbia	pcnt_lbw	7.8
+42039	Pennsylvania	Crawford	pcnt_lbw	6.8
+42041	Pennsylvania	Cumberland	pcnt_lbw	6.7
+42043	Pennsylvania	Dauphin	pcnt_lbw	9.1
+42045	Pennsylvania	Delaware	pcnt_lbw	8.2
+42047	Pennsylvania	Elk	pcnt_lbw	8.7
+42049	Pennsylvania	Erie	pcnt_lbw	8.6
+42051	Pennsylvania	Fayette	pcnt_lbw	9.6
+42053	Pennsylvania	Forest	pcnt_lbw	8.6
+42055	Pennsylvania	Franklin	pcnt_lbw	7.7
+42057	Pennsylvania	Fulton	pcnt_lbw	7.5
+42059	Pennsylvania	Greene	pcnt_lbw	8.8
+42061	Pennsylvania	Huntingdon	pcnt_lbw	7.5
+42063	Pennsylvania	Indiana	pcnt_lbw	7.8
+42065	Pennsylvania	Jefferson	pcnt_lbw	8.4
+42067	Pennsylvania	Juniata	pcnt_lbw	5.1
+42069	Pennsylvania	Lackawanna	pcnt_lbw	8.6
+42071	Pennsylvania	Lancaster	pcnt_lbw	6.8
+42073	Pennsylvania	Lawrence	pcnt_lbw	8.9
+42075	Pennsylvania	Lebanon	pcnt_lbw	7.5
+42077	Pennsylvania	Lehigh	pcnt_lbw	8.4
+42079	Pennsylvania	Luzerne	pcnt_lbw	8.3
+42081	Pennsylvania	Lycoming	pcnt_lbw	7.0
+42083	Pennsylvania	McKean	pcnt_lbw	9.0
+42085	Pennsylvania	Mercer	pcnt_lbw	8.2
+42087	Pennsylvania	Mifflin	pcnt_lbw	7.0
+42089	Pennsylvania	Monroe	pcnt_lbw	8.7
+42091	Pennsylvania	Montgomery	pcnt_lbw	7.2
+42093	Pennsylvania	Montour	pcnt_lbw	5.4
+42095	Pennsylvania	Northampton	pcnt_lbw	8.9
+42097	Pennsylvania	Northumberland	pcnt_lbw	8.8
+42099	Pennsylvania	Perry	pcnt_lbw	7.3
+42101	Pennsylvania	Philadelphia	pcnt_lbw	11.3
+42103	Pennsylvania	Pike	pcnt_lbw	7.0
+42105	Pennsylvania	Potter	pcnt_lbw	8.3
+42107	Pennsylvania	Schuylkill	pcnt_lbw	7.8
+42109	Pennsylvania	Snyder	pcnt_lbw	6.2
+42111	Pennsylvania	Somerset	pcnt_lbw	7.6
+42113	Pennsylvania	Sullivan	pcnt_lbw	7.1
+42115	Pennsylvania	Susquehanna	pcnt_lbw	7.1
+42117	Pennsylvania	Tioga	pcnt_lbw	6.9
+42119	Pennsylvania	Union	pcnt_lbw	6.1
+42121	Pennsylvania	Venango	pcnt_lbw	7.3
+42123	Pennsylvania	Warren	pcnt_lbw	6.8
+42125	Pennsylvania	Washington	pcnt_lbw	7.5
+42127	Pennsylvania	Wayne	pcnt_lbw	7.4
+42129	Pennsylvania	Westmoreland	pcnt_lbw	7.5
+42131	Pennsylvania	Wyoming	pcnt_lbw	6.6
+42133	Pennsylvania	York	pcnt_lbw	8.2
+44001	Rhode Island	Bristol	pcnt_lbw	5.5
+44003	Rhode Island	Kent	pcnt_lbw	7.6
+44005	Rhode Island	Newport	pcnt_lbw	6.9
+44007	Rhode Island	Providence	pcnt_lbw	8.4
+44009	Rhode Island	Washington	pcnt_lbw	6.7
+45001	South Carolina	Abbeville	pcnt_lbw	10.8
+45003	South Carolina	Aiken	pcnt_lbw	9.7
+45005	South Carolina	Allendale	pcnt_lbw	12.4
+45007	South Carolina	Anderson	pcnt_lbw	9.0
+45009	South Carolina	Bamberg	pcnt_lbw	12.8
+45011	South Carolina	Barnwell	pcnt_lbw	12.8
+45013	South Carolina	Beaufort	pcnt_lbw	8.5
+45015	South Carolina	Berkeley	pcnt_lbw	8.7
+45017	South Carolina	Calhoun	pcnt_lbw	11.2
+45019	South Carolina	Charleston	pcnt_lbw	9.7
+45021	South Carolina	Cherokee	pcnt_lbw	12.5
+45023	South Carolina	Chester	pcnt_lbw	11.0
+45025	South Carolina	Chesterfield	pcnt_lbw	12.2
+45027	South Carolina	Clarendon	pcnt_lbw	11.6
+45029	South Carolina	Colleton	pcnt_lbw	10.5
+45031	South Carolina	Darlington	pcnt_lbw	12.7
+45033	South Carolina	Dillon	pcnt_lbw	13.4
+45035	South Carolina	Dorchester	pcnt_lbw	9.0
+45037	South Carolina	Edgefield	pcnt_lbw	9.1
+45039	South Carolina	Fairfield	pcnt_lbw	12.1
+45041	South Carolina	Florence	pcnt_lbw	12.7
+45043	South Carolina	Georgetown	pcnt_lbw	10.9
+45045	South Carolina	Greenville	pcnt_lbw	8.7
+45047	South Carolina	Greenwood	pcnt_lbw	11.4
+45049	South Carolina	Hampton	pcnt_lbw	11.2
+45051	South Carolina	Horry	pcnt_lbw	10.1
+45053	South Carolina	Jasper	pcnt_lbw	10.6
+45055	South Carolina	Kershaw	pcnt_lbw	9.5
+45057	South Carolina	Lancaster	pcnt_lbw	10.7
+45059	South Carolina	Laurens	pcnt_lbw	11.0
+45061	South Carolina	Lee	pcnt_lbw	14.5
+45063	South Carolina	Lexington	pcnt_lbw	8.1
+45065	South Carolina	McCormick	pcnt_lbw	13.9
+45067	South Carolina	Marion	pcnt_lbw	13.1
+45069	South Carolina	Marlboro	pcnt_lbw	14.7
+45071	South Carolina	Newberry	pcnt_lbw	11.2
+45073	South Carolina	Oconee	pcnt_lbw	8.5
+45075	South Carolina	Orangeburg	pcnt_lbw	13.3
+45077	South Carolina	Pickens	pcnt_lbw	8.2
+45079	South Carolina	Richland	pcnt_lbw	11.2
+45081	South Carolina	Saluda	pcnt_lbw	9.7
+45083	South Carolina	Spartanburg	pcnt_lbw	10.1
+45085	South Carolina	Sumter	pcnt_lbw	10.5
+45087	South Carolina	Union	pcnt_lbw	12.2
+45089	South Carolina	Williamsburg	pcnt_lbw	13.8
+45091	South Carolina	York	pcnt_lbw	8.4
+46003	South Dakota	Aurora	pcnt_lbw	
+46005	South Dakota	Beadle	pcnt_lbw	7.5
+46007	South Dakota	Bennett	pcnt_lbw	6.7
+46009	South Dakota	Bon Homme	pcnt_lbw	6.0
+46011	South Dakota	Brookings	pcnt_lbw	4.7
+46013	South Dakota	Brown	pcnt_lbw	6.1
+46015	South Dakota	Brule	pcnt_lbw	6.0
+46017	South Dakota	Buffalo	pcnt_lbw	6.5
+46019	South Dakota	Butte	pcnt_lbw	5.5
+46021	South Dakota	Campbell	pcnt_lbw	
+46023	South Dakota	Charles Mix	pcnt_lbw	6.4
+46025	South Dakota	Clark	pcnt_lbw	
+46027	South Dakota	Clay	pcnt_lbw	6.3
+46029	South Dakota	Codington	pcnt_lbw	6.0
+46031	South Dakota	Corson	pcnt_lbw	6.3
+46033	South Dakota	Custer	pcnt_lbw	8.2
+46035	South Dakota	Davison	pcnt_lbw	7.3
+46037	South Dakota	Day	pcnt_lbw	5.4
+46039	South Dakota	Deuel	pcnt_lbw	7.0
+46041	South Dakota	Dewey	pcnt_lbw	7.0
+46043	South Dakota	Douglas	pcnt_lbw	
+46045	South Dakota	Edmunds	pcnt_lbw	
+46047	South Dakota	Fall River	pcnt_lbw	6.4
+46049	South Dakota	Faulk	pcnt_lbw	
+46051	South Dakota	Grant	pcnt_lbw	6.9
+46053	South Dakota	Gregory	pcnt_lbw	
+46055	South Dakota	Haakon	pcnt_lbw	
+46057	South Dakota	Hamlin	pcnt_lbw	5.3
+46059	South Dakota	Hand	pcnt_lbw	
+46061	South Dakota	Hanson	pcnt_lbw	7.8
+46063	South Dakota	Harding	pcnt_lbw	
+46065	South Dakota	Hughes	pcnt_lbw	5.4
+46067	South Dakota	Hutchinson	pcnt_lbw	4.6
+46069	South Dakota	Hyde	pcnt_lbw	
+46071	South Dakota	Jackson	pcnt_lbw	8.3
+46073	South Dakota	Jerauld	pcnt_lbw	
+46075	South Dakota	Jones	pcnt_lbw	
+46077	South Dakota	Kingsbury	pcnt_lbw	4.9
+46079	South Dakota	Lake	pcnt_lbw	6.0
+46081	South Dakota	Lawrence	pcnt_lbw	7.8
+46083	South Dakota	Lincoln	pcnt_lbw	6.0
+46085	South Dakota	Lyman	pcnt_lbw	5.1
+46087	South Dakota	McCook	pcnt_lbw	6.4
+46089	South Dakota	McPherson	pcnt_lbw	
+46091	South Dakota	Marshall	pcnt_lbw	5.8
+46093	South Dakota	Meade	pcnt_lbw	7.4
+46095	South Dakota	Mellette	pcnt_lbw	7.3
+46097	South Dakota	Miner	pcnt_lbw	
+46099	South Dakota	Minnehaha	pcnt_lbw	6.9
+46101	South Dakota	Moody	pcnt_lbw	6.3
+46103	South Dakota	Pennington	pcnt_lbw	7.1
+46105	South Dakota	Perkins	pcnt_lbw	
+46107	South Dakota	Potter	pcnt_lbw	
+46109	South Dakota	Roberts	pcnt_lbw	5.9
+46111	South Dakota	Sanborn	pcnt_lbw	
+46113	South Dakota	Shannon	pcnt_lbw	7.6
+46115	South Dakota	Spink	pcnt_lbw	9.0
+46117	South Dakota	Stanley	pcnt_lbw	
+46119	South Dakota	Sully	pcnt_lbw	
+46121	South Dakota	Todd	pcnt_lbw	8.5
+46123	South Dakota	Tripp	pcnt_lbw	8.2
+46125	South Dakota	Turner	pcnt_lbw	7.2
+46127	South Dakota	Union	pcnt_lbw	8.1
+46129	South Dakota	Walworth	pcnt_lbw	
+46135	South Dakota	Yankton	pcnt_lbw	6.3
+46137	South Dakota	Ziebach	pcnt_lbw	6.3
+47001	Tennessee	Anderson	pcnt_lbw	9.3
+47003	Tennessee	Bedford	pcnt_lbw	8.8
+47005	Tennessee	Benton	pcnt_lbw	9.5
+47007	Tennessee	Bledsoe	pcnt_lbw	7.6
+47009	Tennessee	Blount	pcnt_lbw	8.5
+47011	Tennessee	Bradley	pcnt_lbw	8.5
+47013	Tennessee	Campbell	pcnt_lbw	8.9
+47015	Tennessee	Cannon	pcnt_lbw	10.0
+47017	Tennessee	Carroll	pcnt_lbw	9.4
+47019	Tennessee	Carter	pcnt_lbw	9.8
+47021	Tennessee	Cheatham	pcnt_lbw	9.3
+47023	Tennessee	Chester	pcnt_lbw	7.7
+47025	Tennessee	Claiborne	pcnt_lbw	10.4
+47027	Tennessee	Clay	pcnt_lbw	6.9
+47029	Tennessee	Cocke	pcnt_lbw	10.2
+47031	Tennessee	Coffee	pcnt_lbw	7.7
+47033	Tennessee	Crockett	pcnt_lbw	7.3
+47035	Tennessee	Cumberland	pcnt_lbw	9.1
+47037	Tennessee	Davidson	pcnt_lbw	9.2
+47039	Tennessee	Decatur	pcnt_lbw	7.1
+47041	Tennessee	DeKalb	pcnt_lbw	9.0
+47043	Tennessee	Dickson	pcnt_lbw	7.8
+47045	Tennessee	Dyer	pcnt_lbw	10.5
+47047	Tennessee	Fayette	pcnt_lbw	9.3
+47049	Tennessee	Fentress	pcnt_lbw	9.5
+47051	Tennessee	Franklin	pcnt_lbw	9.1
+47053	Tennessee	Gibson	pcnt_lbw	9.1
+47055	Tennessee	Giles	pcnt_lbw	7.6
+47057	Tennessee	Grainger	pcnt_lbw	9.4
+47059	Tennessee	Greene	pcnt_lbw	8.9
+47061	Tennessee	Grundy	pcnt_lbw	10.1
+47063	Tennessee	Hamblen	pcnt_lbw	8.3
+47065	Tennessee	Hamilton	pcnt_lbw	10.9
+47067	Tennessee	Hancock	pcnt_lbw	9.8
+47069	Tennessee	Hardeman	pcnt_lbw	11.7
+47071	Tennessee	Hardin	pcnt_lbw	9.6
+47073	Tennessee	Hawkins	pcnt_lbw	8.4
+47075	Tennessee	Haywood	pcnt_lbw	11.9
+47077	Tennessee	Henderson	pcnt_lbw	9.3
+47079	Tennessee	Henry	pcnt_lbw	8.8
+47081	Tennessee	Hickman	pcnt_lbw	8.2
+47083	Tennessee	Houston	pcnt_lbw	6.1
+47085	Tennessee	Humphreys	pcnt_lbw	8.6
+47087	Tennessee	Jackson	pcnt_lbw	7.1
+47089	Tennessee	Jefferson	pcnt_lbw	8.2
+47091	Tennessee	Johnson	pcnt_lbw	11.0
+47093	Tennessee	Knox	pcnt_lbw	9.0
+47095	Tennessee	Lake	pcnt_lbw	11.1
+47097	Tennessee	Lauderdale	pcnt_lbw	12.4
+47099	Tennessee	Lawrence	pcnt_lbw	8.3
+47101	Tennessee	Lewis	pcnt_lbw	8.4
+47103	Tennessee	Lincoln	pcnt_lbw	10.7
+47105	Tennessee	Loudon	pcnt_lbw	8.3
+47107	Tennessee	McMinn	pcnt_lbw	8.7
+47109	Tennessee	McNairy	pcnt_lbw	8.4
+47111	Tennessee	Macon	pcnt_lbw	8.2
+47113	Tennessee	Madison	pcnt_lbw	10.0
+47115	Tennessee	Marion	pcnt_lbw	11.9
+47117	Tennessee	Marshall	pcnt_lbw	9.0
+47119	Tennessee	Maury	pcnt_lbw	9.3
+47121	Tennessee	Meigs	pcnt_lbw	7.3
+47123	Tennessee	Monroe	pcnt_lbw	8.4
+47125	Tennessee	Montgomery	pcnt_lbw	8.3
+47127	Tennessee	Moore	pcnt_lbw	9.3
+47129	Tennessee	Morgan	pcnt_lbw	9.2
+47131	Tennessee	Obion	pcnt_lbw	9.2
+47133	Tennessee	Overton	pcnt_lbw	8.7
+47135	Tennessee	Perry	pcnt_lbw	6.8
+47137	Tennessee	Pickett	pcnt_lbw	7.4
+47139	Tennessee	Polk	pcnt_lbw	9.8
+47141	Tennessee	Putnam	pcnt_lbw	7.5
+47143	Tennessee	Rhea	pcnt_lbw	9.4
+47145	Tennessee	Roane	pcnt_lbw	9.3
+47147	Tennessee	Robertson	pcnt_lbw	8.2
+47149	Tennessee	Rutherford	pcnt_lbw	8.3
+47151	Tennessee	Scott	pcnt_lbw	7.5
+47153	Tennessee	Sequatchie	pcnt_lbw	10.4
+47155	Tennessee	Sevier	pcnt_lbw	8.9
+47157	Tennessee	Shelby	pcnt_lbw	11.1
+47159	Tennessee	Smith	pcnt_lbw	7.9
+47161	Tennessee	Stewart	pcnt_lbw	10.5
+47163	Tennessee	Sullivan	pcnt_lbw	8.9
+47165	Tennessee	Sumner	pcnt_lbw	7.7
+47167	Tennessee	Tipton	pcnt_lbw	9.0
+47169	Tennessee	Trousdale	pcnt_lbw	11.5
+47171	Tennessee	Unicoi	pcnt_lbw	7.6
+47173	Tennessee	Union	pcnt_lbw	10.2
+47175	Tennessee	Van Buren	pcnt_lbw	8.0
+47177	Tennessee	Warren	pcnt_lbw	8.1
+47179	Tennessee	Washington	pcnt_lbw	8.9
+47181	Tennessee	Wayne	pcnt_lbw	7.6
+47183	Tennessee	Weakley	pcnt_lbw	7.9
+47185	Tennessee	White	pcnt_lbw	7.6
+47187	Tennessee	Williamson	pcnt_lbw	6.9
+47189	Tennessee	Wilson	pcnt_lbw	8.2
+48001	Texas	Anderson	pcnt_lbw	8.6
+48003	Texas	Andrews	pcnt_lbw	11.0
+48005	Texas	Angelina	pcnt_lbw	9.0
+48007	Texas	Aransas	pcnt_lbw	8.2
+48009	Texas	Archer	pcnt_lbw	7.5
+48011	Texas	Armstrong	pcnt_lbw	
+48013	Texas	Atascosa	pcnt_lbw	9.1
+48015	Texas	Austin	pcnt_lbw	7.1
+48017	Texas	Bailey	pcnt_lbw	8.8
+48019	Texas	Bandera	pcnt_lbw	8.8
+48021	Texas	Bastrop	pcnt_lbw	7.3
+48023	Texas	Baylor	pcnt_lbw	10.5
+48025	Texas	Bee	pcnt_lbw	8.9
+48027	Texas	Bell	pcnt_lbw	8.6
+48029	Texas	Bexar	pcnt_lbw	9.3
+48031	Texas	Blanco	pcnt_lbw	7.1
+48033	Texas	Borden	pcnt_lbw	
+48035	Texas	Bosque	pcnt_lbw	7.9
+48037	Texas	Bowie	pcnt_lbw	10.0
+48039	Texas	Brazoria	pcnt_lbw	8.3
+48041	Texas	Brazos	pcnt_lbw	7.5
+48043	Texas	Brewster	pcnt_lbw	9.0
+48045	Texas	Briscoe	pcnt_lbw	
+48047	Texas	Brooks	pcnt_lbw	11.3
+48049	Texas	Brown	pcnt_lbw	8.9
+48051	Texas	Burleson	pcnt_lbw	7.5
+48053	Texas	Burnet	pcnt_lbw	6.8
+48055	Texas	Caldwell	pcnt_lbw	8.1
+48057	Texas	Calhoun	pcnt_lbw	7.9
+48059	Texas	Callahan	pcnt_lbw	9.4
+48061	Texas	Cameron	pcnt_lbw	7.8
+48063	Texas	Camp	pcnt_lbw	7.0
+48065	Texas	Carson	pcnt_lbw	8.0
+48067	Texas	Cass	pcnt_lbw	9.0
+48069	Texas	Castro	pcnt_lbw	7.4
+48071	Texas	Chambers	pcnt_lbw	6.9
+48073	Texas	Cherokee	pcnt_lbw	7.9
+48075	Texas	Childress	pcnt_lbw	9.3
+48077	Texas	Clay	pcnt_lbw	7.7
+48079	Texas	Cochran	pcnt_lbw	7.6
+48081	Texas	Coke	pcnt_lbw	9.6
+48083	Texas	Coleman	pcnt_lbw	9.9
+48085	Texas	Collin	pcnt_lbw	7.7
+48087	Texas	Collingsworth	pcnt_lbw	7.5
+48089	Texas	Colorado	pcnt_lbw	7.3
+48091	Texas	Comal	pcnt_lbw	7.2
+48093	Texas	Comanche	pcnt_lbw	6.9
+48095	Texas	Concho	pcnt_lbw	
+48097	Texas	Cooke	pcnt_lbw	7.9
+48099	Texas	Coryell	pcnt_lbw	8.2
+48101	Texas	Cottle	pcnt_lbw	
+48103	Texas	Crane	pcnt_lbw	12.4
+48105	Texas	Crockett	pcnt_lbw	7.8
+48107	Texas	Crosby	pcnt_lbw	9.6
+48109	Texas	Culberson	pcnt_lbw	8.8
+48111	Texas	Dallam	pcnt_lbw	8.3
+48113	Texas	Dallas	pcnt_lbw	8.3
+48115	Texas	Dawson	pcnt_lbw	10.6
+48117	Texas	Deaf Smith	pcnt_lbw	8.8
+48119	Texas	Delta	pcnt_lbw	8.2
+48121	Texas	Denton	pcnt_lbw	7.1
+48123	Texas	DeWitt	pcnt_lbw	7.6
+48125	Texas	Dickens	pcnt_lbw	
+48127	Texas	Dimmit	pcnt_lbw	8.1
+48129	Texas	Donley	pcnt_lbw	8.3
+48131	Texas	Duval	pcnt_lbw	10.5
+48133	Texas	Eastland	pcnt_lbw	8.4
+48135	Texas	Ector	pcnt_lbw	10.1
+48137	Texas	Edwards	pcnt_lbw	
+48139	Texas	Ellis	pcnt_lbw	7.4
+48141	Texas	El Paso	pcnt_lbw	8.9
+48143	Texas	Erath	pcnt_lbw	6.6
+48145	Texas	Falls	pcnt_lbw	10.0
+48147	Texas	Fannin	pcnt_lbw	7.7
+48149	Texas	Fayette	pcnt_lbw	7.7
+48151	Texas	Fisher	pcnt_lbw	8.7
+48153	Texas	Floyd	pcnt_lbw	10.6
+48155	Texas	Foard	pcnt_lbw	
+48157	Texas	Fort Bend	pcnt_lbw	8.8
+48159	Texas	Franklin	pcnt_lbw	7.1
+48161	Texas	Freestone	pcnt_lbw	8.3
+48163	Texas	Frio	pcnt_lbw	9.3
+48165	Texas	Gaines	pcnt_lbw	8.0
+48167	Texas	Galveston	pcnt_lbw	8.6
+48169	Texas	Garza	pcnt_lbw	11.0
+48171	Texas	Gillespie	pcnt_lbw	7.5
+48173	Texas	Glasscock	pcnt_lbw	
+48175	Texas	Goliad	pcnt_lbw	7.8
+48177	Texas	Gonzales	pcnt_lbw	8.7
+48179	Texas	Gray	pcnt_lbw	8.7
+48181	Texas	Grayson	pcnt_lbw	7.8
+48183	Texas	Gregg	pcnt_lbw	9.7
+48185	Texas	Grimes	pcnt_lbw	7.8
+48187	Texas	Guadalupe	pcnt_lbw	7.9
+48189	Texas	Hale	pcnt_lbw	9.2
+48191	Texas	Hall	pcnt_lbw	9.9
+48193	Texas	Hamilton	pcnt_lbw	6.5
+48195	Texas	Hansford	pcnt_lbw	6.8
+48197	Texas	Hardeman	pcnt_lbw	8.4
+48199	Texas	Hardin	pcnt_lbw	8.6
+48201	Texas	Harris	pcnt_lbw	8.6
+48203	Texas	Harrison	pcnt_lbw	9.8
+48205	Texas	Hartley	pcnt_lbw	6.7
+48207	Texas	Haskell	pcnt_lbw	8.7
+48209	Texas	Hays	pcnt_lbw	7.4
+48211	Texas	Hemphill	pcnt_lbw	6.0
+48213	Texas	Henderson	pcnt_lbw	7.1
+48215	Texas	Hidalgo	pcnt_lbw	7.6
+48217	Texas	Hill	pcnt_lbw	7.3
+48219	Texas	Hockley	pcnt_lbw	9.8
+48221	Texas	Hood	pcnt_lbw	7.1
+48223	Texas	Hopkins	pcnt_lbw	7.5
+48225	Texas	Houston	pcnt_lbw	9.8
+48227	Texas	Howard	pcnt_lbw	10.4
+48229	Texas	Hudspeth	pcnt_lbw	8.3
+48231	Texas	Hunt	pcnt_lbw	7.6
+48233	Texas	Hutchinson	pcnt_lbw	10.4
+48235	Texas	Irion	pcnt_lbw	
+48237	Texas	Jack	pcnt_lbw	9.9
+48239	Texas	Jackson	pcnt_lbw	6.8
+48241	Texas	Jasper	pcnt_lbw	10.4
+48243	Texas	Jeff Davis	pcnt_lbw	
+48245	Texas	Jefferson	pcnt_lbw	10.3
+48247	Texas	Jim Hogg	pcnt_lbw	9.6
+48249	Texas	Jim Wells	pcnt_lbw	11.1
+48251	Texas	Johnson	pcnt_lbw	7.6
+48253	Texas	Jones	pcnt_lbw	8.4
+48255	Texas	Karnes	pcnt_lbw	8.8
+48257	Texas	Kaufman	pcnt_lbw	7.6
+48259	Texas	Kendall	pcnt_lbw	7.2
+48261	Texas	Kenedy	pcnt_lbw	
+48263	Texas	Kent	pcnt_lbw	
+48265	Texas	Kerr	pcnt_lbw	10.2
+48267	Texas	Kimble	pcnt_lbw	9.4
+48269	Texas	King	pcnt_lbw	
+48271	Texas	Kinney	pcnt_lbw	
+48273	Texas	Kleberg	pcnt_lbw	8.9
+48275	Texas	Knox	pcnt_lbw	9.6
+48277	Texas	Lamar	pcnt_lbw	9.5
+48279	Texas	Lamb	pcnt_lbw	9.6
+48281	Texas	Lampasas	pcnt_lbw	6.1
+48283	Texas	La Salle	pcnt_lbw	9.2
+48285	Texas	Lavaca	pcnt_lbw	8.1
+48287	Texas	Lee	pcnt_lbw	7.3
+48289	Texas	Leon	pcnt_lbw	7.1
+48291	Texas	Liberty	pcnt_lbw	8.2
+48293	Texas	Limestone	pcnt_lbw	9.4
+48295	Texas	Lipscomb	pcnt_lbw	8.5
+48297	Texas	Live Oak	pcnt_lbw	8.0
+48299	Texas	Llano	pcnt_lbw	7.9
+48301	Texas	Loving	pcnt_lbw	
+48303	Texas	Lubbock	pcnt_lbw	10.4
+48305	Texas	Lynn	pcnt_lbw	11.1
+48307	Texas	McCulloch	pcnt_lbw	9.5
+48309	Texas	McLennan	pcnt_lbw	8.3
+48311	Texas	McMullen	pcnt_lbw	
+48313	Texas	Madison	pcnt_lbw	8.2
+48315	Texas	Marion	pcnt_lbw	9.1
+48317	Texas	Martin	pcnt_lbw	8.0
+48319	Texas	Mason	pcnt_lbw	
+48321	Texas	Matagorda	pcnt_lbw	8.2
+48323	Texas	Maverick	pcnt_lbw	8.1
+48325	Texas	Medina	pcnt_lbw	8.3
+48327	Texas	Menard	pcnt_lbw	
+48329	Texas	Midland	pcnt_lbw	8.2
+48331	Texas	Milam	pcnt_lbw	8.9
+48333	Texas	Mills	pcnt_lbw	
+48335	Texas	Mitchell	pcnt_lbw	8.6
+48337	Texas	Montague	pcnt_lbw	7.0
+48339	Texas	Montgomery	pcnt_lbw	7.8
+48341	Texas	Moore	pcnt_lbw	6.8
+48343	Texas	Morris	pcnt_lbw	9.8
+48345	Texas	Motley	pcnt_lbw	
+48347	Texas	Nacogdoches	pcnt_lbw	7.9
+48349	Texas	Navarro	pcnt_lbw	7.8
+48351	Texas	Newton	pcnt_lbw	9.1
+48353	Texas	Nolan	pcnt_lbw	10.3
+48355	Texas	Nueces	pcnt_lbw	9.1
+48357	Texas	Ochiltree	pcnt_lbw	7.6
+48359	Texas	Oldham	pcnt_lbw	
+48361	Texas	Orange	pcnt_lbw	9.7
+48363	Texas	Palo Pinto	pcnt_lbw	7.3
+48365	Texas	Panola	pcnt_lbw	8.2
+48367	Texas	Parker	pcnt_lbw	7.1
+48369	Texas	Parmer	pcnt_lbw	7.9
+48371	Texas	Pecos	pcnt_lbw	7.9
+48373	Texas	Polk	pcnt_lbw	9.0
+48375	Texas	Potter	pcnt_lbw	9.8
+48377	Texas	Presidio	pcnt_lbw	7.6
+48379	Texas	Rains	pcnt_lbw	9.4
+48381	Texas	Randall	pcnt_lbw	8.0
+48383	Texas	Reagan	pcnt_lbw	7.3
+48385	Texas	Real	pcnt_lbw	
+48387	Texas	Red River	pcnt_lbw	10.1
+48389	Texas	Reeves	pcnt_lbw	10.0
+48391	Texas	Refugio	pcnt_lbw	8.1
+48393	Texas	Roberts	pcnt_lbw	
+48395	Texas	Robertson	pcnt_lbw	7.5
+48397	Texas	Rockwall	pcnt_lbw	7.5
+48399	Texas	Runnels	pcnt_lbw	10.0
+48401	Texas	Rusk	pcnt_lbw	9.2
+48403	Texas	Sabine	pcnt_lbw	6.7
+48405	Texas	San Augustine	pcnt_lbw	10.0
+48407	Texas	San Jacinto	pcnt_lbw	8.2
+48409	Texas	San Patricio	pcnt_lbw	8.8
+48411	Texas	San Saba	pcnt_lbw	7.4
+48413	Texas	Schleicher	pcnt_lbw	7.4
+48415	Texas	Scurry	pcnt_lbw	10.5
+48417	Texas	Shackelford	pcnt_lbw	9.9
+48419	Texas	Shelby	pcnt_lbw	9.5
+48421	Texas	Sherman	pcnt_lbw	7.5
+48423	Texas	Smith	pcnt_lbw	7.8
+48425	Texas	Somervell	pcnt_lbw	6.8
+48427	Texas	Starr	pcnt_lbw	8.4
+48429	Texas	Stephens	pcnt_lbw	6.5
+48431	Texas	Sterling	pcnt_lbw	
+48433	Texas	Stonewall	pcnt_lbw	
+48435	Texas	Sutton	pcnt_lbw	8.0
+48437	Texas	Swisher	pcnt_lbw	12.3
+48439	Texas	Tarrant	pcnt_lbw	8.1
+48441	Texas	Taylor	pcnt_lbw	9.0
+48443	Texas	Terrell	pcnt_lbw	
+48445	Texas	Terry	pcnt_lbw	10.8
+48447	Texas	Throckmorton	pcnt_lbw	
+48449	Texas	Titus	pcnt_lbw	7.8
+48451	Texas	Tom Green	pcnt_lbw	7.8
+48453	Texas	Travis	pcnt_lbw	7.6
+48455	Texas	Trinity	pcnt_lbw	9.6
+48457	Texas	Tyler	pcnt_lbw	8.1
+48459	Texas	Upshur	pcnt_lbw	7.6
+48461	Texas	Upton	pcnt_lbw	9.1
+48463	Texas	Uvalde	pcnt_lbw	8.1
+48465	Texas	Val Verde	pcnt_lbw	7.3
+48467	Texas	Van Zandt	pcnt_lbw	7.3
+48469	Texas	Victoria	pcnt_lbw	8.4
+48471	Texas	Walker	pcnt_lbw	8.7
+48473	Texas	Waller	pcnt_lbw	7.9
+48475	Texas	Ward	pcnt_lbw	10.4
+48477	Texas	Washington	pcnt_lbw	8.7
+48479	Texas	Webb	pcnt_lbw	7.2
+48481	Texas	Wharton	pcnt_lbw	8.9
+48483	Texas	Wheeler	pcnt_lbw	7.4
+48485	Texas	Wichita	pcnt_lbw	8.2
+48487	Texas	Wilbarger	pcnt_lbw	7.5
+48489	Texas	Willacy	pcnt_lbw	8.2
+48491	Texas	Williamson	pcnt_lbw	7.0
+48493	Texas	Wilson	pcnt_lbw	8.3
+48495	Texas	Winkler	pcnt_lbw	10.1
+48497	Texas	Wise	pcnt_lbw	6.9
+48499	Texas	Wood	pcnt_lbw	7.8
+48501	Texas	Yoakum	pcnt_lbw	9.5
+48503	Texas	Young	pcnt_lbw	7.4
+48505	Texas	Zapata	pcnt_lbw	8.4
+48507	Texas	Zavala	pcnt_lbw	9.1
+49001	Utah	Beaver	pcnt_lbw	6.5
+49003	Utah	Box Elder	pcnt_lbw	6.4
+49005	Utah	Cache	pcnt_lbw	6.0
+49007	Utah	Carbon	pcnt_lbw	9.4
+49009	Utah	Daggett	pcnt_lbw	
+49011	Utah	Davis	pcnt_lbw	6.9
+49013	Utah	Duchesne	pcnt_lbw	7.3
+49015	Utah	Emery	pcnt_lbw	7.2
+49017	Utah	Garfield	pcnt_lbw	8.8
+49019	Utah	Grand	pcnt_lbw	5.8
+49021	Utah	Iron	pcnt_lbw	6.8
+49023	Utah	Juab	pcnt_lbw	7.4
+49025	Utah	Kane	pcnt_lbw	7.2
+49027	Utah	Millard	pcnt_lbw	7.0
+49029	Utah	Morgan	pcnt_lbw	6.0
+49031	Utah	Piute	pcnt_lbw	
+49033	Utah	Rich	pcnt_lbw	
+49035	Utah	Salt Lake	pcnt_lbw	7.3
+49037	Utah	San Juan	pcnt_lbw	6.4
+49039	Utah	Sanpete	pcnt_lbw	7.0
+49041	Utah	Sevier	pcnt_lbw	8.4
+49043	Utah	Summit	pcnt_lbw	8.8
+49045	Utah	Tooele	pcnt_lbw	7.4
+49047	Utah	Uintah	pcnt_lbw	8.5
+49049	Utah	Utah	pcnt_lbw	5.7
+49051	Utah	Wasatch	pcnt_lbw	6.9
+49053	Utah	Washington	pcnt_lbw	5.9
+49055	Utah	Wayne	pcnt_lbw	
+49057	Utah	Weber	pcnt_lbw	7.9
+50001	Vermont	Addison	pcnt_lbw	5.4
+50003	Vermont	Bennington	pcnt_lbw	6.7
+50005	Vermont	Caledonia	pcnt_lbw	7.1
+50007	Vermont	Chittenden	pcnt_lbw	6.7
+50009	Vermont	Essex	pcnt_lbw	9.5
+50011	Vermont	Franklin	pcnt_lbw	6.8
+50013	Vermont	Grand Isle	pcnt_lbw	8.9
+50015	Vermont	Lamoille	pcnt_lbw	5.1
+50017	Vermont	Orange	pcnt_lbw	7.3
+50019	Vermont	Orleans	pcnt_lbw	6.8
+50021	Vermont	Rutland	pcnt_lbw	6.7
+50023	Vermont	Washington	pcnt_lbw	6.1
+50025	Vermont	Windham	pcnt_lbw	5.5
+50027	Vermont	Windsor	pcnt_lbw	6.6
+51001	Virginia	Accomack	pcnt_lbw	9.7
+51003	Virginia	Albemarle	pcnt_lbw	6.5
+51005	Virginia	Alleghany	pcnt_lbw	9.7
+51007	Virginia	Amelia	pcnt_lbw	6.9
+51009	Virginia	Amherst	pcnt_lbw	7.2
+51011	Virginia	Appomattox	pcnt_lbw	9.5
+51013	Virginia	Arlington	pcnt_lbw	6.5
+51015	Virginia	Augusta	pcnt_lbw	7.0
+51017	Virginia	Bath	pcnt_lbw	9.4
+51019	Virginia	Bedford	pcnt_lbw	8.1
+51021	Virginia	Bland	pcnt_lbw	10.4
+51023	Virginia	Botetourt	pcnt_lbw	6.9
+51025	Virginia	Brunswick	pcnt_lbw	10.8
+51027	Virginia	Buchanan	pcnt_lbw	8.8
+51029	Virginia	Buckingham	pcnt_lbw	9.9
+51031	Virginia	Campbell	pcnt_lbw	7.5
+51033	Virginia	Caroline	pcnt_lbw	8.6
+51035	Virginia	Carroll	pcnt_lbw	6.6
+51036	Virginia	Charles City	pcnt_lbw	10.2
+51037	Virginia	Charlotte	pcnt_lbw	12.2
+51041	Virginia	Chesterfield	pcnt_lbw	8.0
+51043	Virginia	Clarke	pcnt_lbw	7.2
+51045	Virginia	Craig	pcnt_lbw	
+51047	Virginia	Culpeper	pcnt_lbw	7.7
+51049	Virginia	Cumberland	pcnt_lbw	12.0
+51051	Virginia	Dickenson	pcnt_lbw	7.4
+51053	Virginia	Dinwiddie	pcnt_lbw	10.4
+51057	Virginia	Essex	pcnt_lbw	10.9
+51059	Virginia	Fairfax	pcnt_lbw	6.9
+51061	Virginia	Fauquier	pcnt_lbw	6.8
+51063	Virginia	Floyd	pcnt_lbw	6.8
+51065	Virginia	Fluvanna	pcnt_lbw	7.4
+51067	Virginia	Franklin	pcnt_lbw	8.0
+51069	Virginia	Frederick	pcnt_lbw	6.8
+51071	Virginia	Giles	pcnt_lbw	8.2
+51073	Virginia	Gloucester	pcnt_lbw	7.8
+51075	Virginia	Goochland	pcnt_lbw	8.1
+51077	Virginia	Grayson	pcnt_lbw	8.1
+51079	Virginia	Greene	pcnt_lbw	7.7
+51081	Virginia	Greensville	pcnt_lbw	11.9
+51083	Virginia	Halifax	pcnt_lbw	11.9
+51085	Virginia	Hanover	pcnt_lbw	8.0
+51087	Virginia	Henrico	pcnt_lbw	9.2
+51089	Virginia	Henry	pcnt_lbw	10.4
+51091	Virginia	Highland	pcnt_lbw	
+51093	Virginia	Isle of Wight	pcnt_lbw	8.5
+51095	Virginia	James City	pcnt_lbw	6.6
+51097	Virginia	King and Queen	pcnt_lbw	12.7
+51099	Virginia	King George	pcnt_lbw	7.5
+51101	Virginia	King William	pcnt_lbw	7.4
+51103	Virginia	Lancaster	pcnt_lbw	12.1
+51105	Virginia	Lee	pcnt_lbw	8.5
+51107	Virginia	Loudoun	pcnt_lbw	6.9
+51109	Virginia	Louisa	pcnt_lbw	9.5
+51111	Virginia	Lunenburg	pcnt_lbw	8.7
+51113	Virginia	Madison	pcnt_lbw	7.2
+51115	Virginia	Mathews	pcnt_lbw	7.4
+51117	Virginia	Mecklenburg	pcnt_lbw	10.4
+51119	Virginia	Middlesex	pcnt_lbw	9.4
+51121	Virginia	Montgomery	pcnt_lbw	7.4
+51125	Virginia	Nelson	pcnt_lbw	7.0
+51127	Virginia	New Kent	pcnt_lbw	7.2
+51131	Virginia	Northampton	pcnt_lbw	10.3
+51133	Virginia	Northumberland	pcnt_lbw	11.3
+51135	Virginia	Nottoway	pcnt_lbw	11.9
+51137	Virginia	Orange	pcnt_lbw	6.8
+51139	Virginia	Page	pcnt_lbw	5.7
+51141	Virginia	Patrick	pcnt_lbw	8.3
+51143	Virginia	Pittsylvania	pcnt_lbw	9.1
+51145	Virginia	Powhatan	pcnt_lbw	7.3
+51147	Virginia	Prince Edward	pcnt_lbw	12.1
+51149	Virginia	Prince George	pcnt_lbw	8.4
+51153	Virginia	Prince William	pcnt_lbw	7.2
+51155	Virginia	Pulaski	pcnt_lbw	9.5
+51157	Virginia	Rappahannock	pcnt_lbw	7.0
+51159	Virginia	Richmond	pcnt_lbw	11.1
+51161	Virginia	Roanoke	pcnt_lbw	7.9
+51163	Virginia	Rockbridge	pcnt_lbw	8.8
+51165	Virginia	Rockingham	pcnt_lbw	7.6
+51167	Virginia	Russell	pcnt_lbw	8.1
+51169	Virginia	Scott	pcnt_lbw	8.3
+51171	Virginia	Shenandoah	pcnt_lbw	7.0
+51173	Virginia	Smyth	pcnt_lbw	9.3
+51175	Virginia	Southampton	pcnt_lbw	10.5
+51177	Virginia	Spotsylvania	pcnt_lbw	7.5
+51179	Virginia	Stafford	pcnt_lbw	7.2
+51181	Virginia	Surry	pcnt_lbw	9.7
+51183	Virginia	Sussex	pcnt_lbw	11.1
+51185	Virginia	Tazewell	pcnt_lbw	10.5
+51187	Virginia	Warren	pcnt_lbw	6.8
+51191	Virginia	Washington	pcnt_lbw	8.5
+51193	Virginia	Westmoreland	pcnt_lbw	9.4
+51195	Virginia	Wise	pcnt_lbw	9.6
+51197	Virginia	Wythe	pcnt_lbw	9.4
+51199	Virginia	York	pcnt_lbw	7.1
+51510	Virginia	Alexandria City	pcnt_lbw	7.5
+51515	Virginia	Bedford City	pcnt_lbw	8.0
+51520	Virginia	Bristol City	pcnt_lbw	9.1
+51530	Virginia	Buena Vista City	pcnt_lbw	
+51540	Virginia	Charlottesville City	pcnt_lbw	8.5
+51550	Virginia	Chesapeake City	pcnt_lbw	8.9
+51570	Virginia	Colonial Heights City	pcnt_lbw	10.0
+51580	Virginia	Covington City	pcnt_lbw	12.2
+51590	Virginia	Danville City	pcnt_lbw	11.3
+51595	Virginia	Emporia City	pcnt_lbw	11.9
+51600	Virginia	Fairfax City	pcnt_lbw	8.0
+51610	Virginia	Falls Church City	pcnt_lbw	7.8
+51620	Virginia	Franklin City	pcnt_lbw	13.1
+51630	Virginia	Fredericksburg City	pcnt_lbw	9.4
+51640	Virginia	Galax City	pcnt_lbw	7.4
+51650	Virginia	Hampton City	pcnt_lbw	9.9
+51660	Virginia	Harrisonburg City	pcnt_lbw	6.9
+51670	Virginia	Hopewell City	pcnt_lbw	10.4
+51678	Virginia	Lexington City	pcnt_lbw	
+51680	Virginia	Lynchburg City	pcnt_lbw	8.8
+51683	Virginia	Manassas City	pcnt_lbw	7.2
+51685	Virginia	Manassas Park City	pcnt_lbw	6.3
+51690	Virginia	Martinsville City	pcnt_lbw	11.2
+51700	Virginia	Newport News City	pcnt_lbw	9.6
+51710	Virginia	Norfolk City	pcnt_lbw	10.7
+51720	Virginia	Norton City	pcnt_lbw	9.3
+51730	Virginia	Petersburg City	pcnt_lbw	14.1
+51735	Virginia	Poquoson City	pcnt_lbw	7.3
+51740	Virginia	Portsmouth City	pcnt_lbw	11.2
+51750	Virginia	Radford City	pcnt_lbw	8.8
+51760	Virginia	Richmond City	pcnt_lbw	11.9
+51770	Virginia	Roanoke City	pcnt_lbw	10.5
+51775	Virginia	Salem City	pcnt_lbw	7.3
+51790	Virginia	Staunton City	pcnt_lbw	6.6
+51800	Virginia	Suffolk City	pcnt_lbw	10.4
+51810	Virginia	Virginia Beach City	pcnt_lbw	8.1
+51820	Virginia	Waynesboro City	pcnt_lbw	7.9
+51830	Virginia	Williamsburg City	pcnt_lbw	11.7
+51840	Virginia	Winchester City	pcnt_lbw	7.9
+53001	Washington	Adams	pcnt_lbw	6.1
+53003	Washington	Asotin	pcnt_lbw	6.6
+53005	Washington	Benton	pcnt_lbw	6.6
+53007	Washington	Chelan	pcnt_lbw	6.5
+53009	Washington	Clallam	pcnt_lbw	5.1
+53011	Washington	Clark	pcnt_lbw	6.0
+53013	Washington	Columbia	pcnt_lbw	
+53015	Washington	Cowlitz	pcnt_lbw	6.7
+53017	Washington	Douglas	pcnt_lbw	6.3
+53019	Washington	Ferry	pcnt_lbw	6.3
+53021	Washington	Franklin	pcnt_lbw	6.7
+53023	Washington	Garfield	pcnt_lbw	
+53025	Washington	Grant	pcnt_lbw	6.4
+53027	Washington	Grays Harbor	pcnt_lbw	6.2
+53029	Washington	Island	pcnt_lbw	5.3
+53031	Washington	Jefferson	pcnt_lbw	4.2
+53033	Washington	King	pcnt_lbw	6.6
+53035	Washington	Kitsap	pcnt_lbw	6.5
+53037	Washington	Kittitas	pcnt_lbw	4.4
+53039	Washington	Klickitat	pcnt_lbw	6.3
+53041	Washington	Lewis	pcnt_lbw	5.9
+53043	Washington	Lincoln	pcnt_lbw	6.2
+53045	Washington	Mason	pcnt_lbw	6.2
+53047	Washington	Okanogan	pcnt_lbw	8.1
+53049	Washington	Pacific	pcnt_lbw	5.3
+53051	Washington	Pend Oreille	pcnt_lbw	6.4
+53053	Washington	Pierce	pcnt_lbw	6.5
+53055	Washington	San Juan	pcnt_lbw	4.4
+53057	Washington	Skagit	pcnt_lbw	5.6
+53059	Washington	Skamania	pcnt_lbw	5.7
+53061	Washington	Snohomish	pcnt_lbw	5.9
+53063	Washington	Spokane	pcnt_lbw	6.5
+53065	Washington	Stevens	pcnt_lbw	6.0
+53067	Washington	Thurston	pcnt_lbw	5.8
+53069	Washington	Wahkiakum	pcnt_lbw	
+53071	Washington	Walla Walla	pcnt_lbw	6.5
+53073	Washington	Whatcom	pcnt_lbw	4.8
+53075	Washington	Whitman	pcnt_lbw	6.2
+53077	Washington	Yakima	pcnt_lbw	6.7
+54001	West Virginia	Barbour	pcnt_lbw	6.8
+54003	West Virginia	Berkeley	pcnt_lbw	7.6
+54005	West Virginia	Boone	pcnt_lbw	10.3
+54007	West Virginia	Braxton	pcnt_lbw	8.6
+54009	West Virginia	Brooke	pcnt_lbw	8.7
+54011	West Virginia	Cabell	pcnt_lbw	11.1
+54013	West Virginia	Calhoun	pcnt_lbw	9.3
+54015	West Virginia	Clay	pcnt_lbw	9.0
+54017	West Virginia	Doddridge	pcnt_lbw	9.3
+54019	West Virginia	Fayette	pcnt_lbw	10.2
+54021	West Virginia	Gilmer	pcnt_lbw	9.0
+54023	West Virginia	Grant	pcnt_lbw	7.5
+54025	West Virginia	Greenbrier	pcnt_lbw	8.7
+54027	West Virginia	Hampshire	pcnt_lbw	6.7
+54029	West Virginia	Hancock	pcnt_lbw	7.2
+54031	West Virginia	Hardy	pcnt_lbw	7.1
+54033	West Virginia	Harrison	pcnt_lbw	8.7
+54035	West Virginia	Jackson	pcnt_lbw	8.0
+54037	West Virginia	Jefferson	pcnt_lbw	7.4
+54039	West Virginia	Kanawha	pcnt_lbw	9.8
+54041	West Virginia	Lewis	pcnt_lbw	9.7
+54043	West Virginia	Lincoln	pcnt_lbw	9.9
+54045	West Virginia	Logan	pcnt_lbw	11.8
+54047	West Virginia	McDowell	pcnt_lbw	12.6
+54049	West Virginia	Marion	pcnt_lbw	9.2
+54051	West Virginia	Marshall	pcnt_lbw	8.8
+54053	West Virginia	Mason	pcnt_lbw	11.3
+54055	West Virginia	Mercer	pcnt_lbw	13.2
+54057	West Virginia	Mineral	pcnt_lbw	9.6
+54059	West Virginia	Mingo	pcnt_lbw	11.8
+54061	West Virginia	Monongalia	pcnt_lbw	7.7
+54063	West Virginia	Monroe	pcnt_lbw	8.2
+54065	West Virginia	Morgan	pcnt_lbw	8.0
+54067	West Virginia	Nicholas	pcnt_lbw	10.2
+54069	West Virginia	Ohio	pcnt_lbw	8.9
+54071	West Virginia	Pendleton	pcnt_lbw	8.6
+54073	West Virginia	Pleasants	pcnt_lbw	9.6
+54075	West Virginia	Pocahontas	pcnt_lbw	10.4
+54077	West Virginia	Preston	pcnt_lbw	9.1
+54079	West Virginia	Putnam	pcnt_lbw	8.4
+54081	West Virginia	Raleigh	pcnt_lbw	10.1
+54083	West Virginia	Randolph	pcnt_lbw	8.7
+54085	West Virginia	Ritchie	pcnt_lbw	7.7
+54087	West Virginia	Roane	pcnt_lbw	6.5
+54089	West Virginia	Summers	pcnt_lbw	10.4
+54091	West Virginia	Taylor	pcnt_lbw	7.3
+54093	West Virginia	Tucker	pcnt_lbw	7.4
+54095	West Virginia	Tyler	pcnt_lbw	9.3
+54097	West Virginia	Upshur	pcnt_lbw	7.2
+54099	West Virginia	Wayne	pcnt_lbw	13.1
+54101	West Virginia	Webster	pcnt_lbw	8.8
+54103	West Virginia	Wetzel	pcnt_lbw	9.4
+54105	West Virginia	Wirt	pcnt_lbw	8.5
+54107	West Virginia	Wood	pcnt_lbw	9.4
+54109	West Virginia	Wyoming	pcnt_lbw	11.1
+55001	Wisconsin	Adams	pcnt_lbw	7.9
+55003	Wisconsin	Ashland	pcnt_lbw	5.3
+55005	Wisconsin	Barron	pcnt_lbw	5.6
+55007	Wisconsin	Bayfield	pcnt_lbw	4.8
+55009	Wisconsin	Brown	pcnt_lbw	6.5
+55011	Wisconsin	Buffalo	pcnt_lbw	5.6
+55013	Wisconsin	Burnett	pcnt_lbw	6.5
+55015	Wisconsin	Calumet	pcnt_lbw	5.8
+55017	Wisconsin	Chippewa	pcnt_lbw	6.0
+55019	Wisconsin	Clark	pcnt_lbw	5.3
+55021	Wisconsin	Columbia	pcnt_lbw	6.2
+55023	Wisconsin	Crawford	pcnt_lbw	6.4
+55025	Wisconsin	Dane	pcnt_lbw	6.2
+55027	Wisconsin	Dodge	pcnt_lbw	6.2
+55029	Wisconsin	Door	pcnt_lbw	5.6
+55031	Wisconsin	Douglas	pcnt_lbw	6.2
+55033	Wisconsin	Dunn	pcnt_lbw	5.7
+55035	Wisconsin	Eau Claire	pcnt_lbw	6.2
+55037	Wisconsin	Florence	pcnt_lbw	
+55039	Wisconsin	Fond du Lac	pcnt_lbw	6.9
+55041	Wisconsin	Forest	pcnt_lbw	8.0
+55043	Wisconsin	Grant	pcnt_lbw	5.2
+55045	Wisconsin	Green	pcnt_lbw	6.6
+55047	Wisconsin	Green Lake	pcnt_lbw	5.2
+55049	Wisconsin	Iowa	pcnt_lbw	4.5
+55051	Wisconsin	Iron	pcnt_lbw	
+55053	Wisconsin	Jackson	pcnt_lbw	7.1
+55055	Wisconsin	Jefferson	pcnt_lbw	5.8
+55057	Wisconsin	Juneau	pcnt_lbw	6.0
+55059	Wisconsin	Kenosha	pcnt_lbw	7.9
+55061	Wisconsin	Kewaunee	pcnt_lbw	6.0
+55063	Wisconsin	La Crosse	pcnt_lbw	6.0
+55065	Wisconsin	Lafayette	pcnt_lbw	5.1
+55067	Wisconsin	Langlade	pcnt_lbw	6.7
+55069	Wisconsin	Lincoln	pcnt_lbw	6.3
+55071	Wisconsin	Manitowoc	pcnt_lbw	7.0
+55073	Wisconsin	Marathon	pcnt_lbw	6.0
+55075	Wisconsin	Marinette	pcnt_lbw	6.9
+55077	Wisconsin	Marquette	pcnt_lbw	7.2
+55078	Wisconsin	Menominee	pcnt_lbw	7.4
+55079	Wisconsin	Milwaukee	pcnt_lbw	9.2
+55081	Wisconsin	Monroe	pcnt_lbw	5.9
+55083	Wisconsin	Oconto	pcnt_lbw	5.7
+55085	Wisconsin	Oneida	pcnt_lbw	7.8
+55087	Wisconsin	Outagamie	pcnt_lbw	7.1
+55089	Wisconsin	Ozaukee	pcnt_lbw	5.4
+55091	Wisconsin	Pepin	pcnt_lbw	5.5
+55093	Wisconsin	Pierce	pcnt_lbw	5.9
+55095	Wisconsin	Polk	pcnt_lbw	5.9
+55097	Wisconsin	Portage	pcnt_lbw	5.6
+55099	Wisconsin	Price	pcnt_lbw	6.0
+55101	Wisconsin	Racine	pcnt_lbw	8.0
+55103	Wisconsin	Richland	pcnt_lbw	5.1
+55105	Wisconsin	Rock	pcnt_lbw	7.3
+55107	Wisconsin	Rusk	pcnt_lbw	7.0
+55109	Wisconsin	St. Croix	pcnt_lbw	5.6
+55111	Wisconsin	Sauk	pcnt_lbw	6.0
+55113	Wisconsin	Sawyer	pcnt_lbw	5.8
+55115	Wisconsin	Shawano	pcnt_lbw	7.0
+55117	Wisconsin	Sheboygan	pcnt_lbw	5.8
+55119	Wisconsin	Taylor	pcnt_lbw	6.0
+55121	Wisconsin	Trempealeau	pcnt_lbw	5.7
+55123	Wisconsin	Vernon	pcnt_lbw	5.2
+55125	Wisconsin	Vilas	pcnt_lbw	5.8
+55127	Wisconsin	Walworth	pcnt_lbw	6.6
+55129	Wisconsin	Washburn	pcnt_lbw	6.5
+55131	Wisconsin	Washington	pcnt_lbw	5.8
+55133	Wisconsin	Waukesha	pcnt_lbw	6.4
+55135	Wisconsin	Waupaca	pcnt_lbw	7.3
+55137	Wisconsin	Waushara	pcnt_lbw	6.3
+55139	Wisconsin	Winnebago	pcnt_lbw	7.3
+55141	Wisconsin	Wood	pcnt_lbw	5.8
+56001	Wyoming	Albany	pcnt_lbw	10.4
+56003	Wyoming	Big Horn	pcnt_lbw	6.5
+56005	Wyoming	Campbell	pcnt_lbw	9.3
+56007	Wyoming	Carbon	pcnt_lbw	9.9
+56009	Wyoming	Converse	pcnt_lbw	5.8
+56011	Wyoming	Crook	pcnt_lbw	5.4
+56013	Wyoming	Fremont	pcnt_lbw	9.2
+56015	Wyoming	Goshen	pcnt_lbw	8.0
+56017	Wyoming	Hot Springs	pcnt_lbw	7.6
+56019	Wyoming	Johnson	pcnt_lbw	6.4
+56021	Wyoming	Laramie	pcnt_lbw	9.5
+56023	Wyoming	Lincoln	pcnt_lbw	8.9
+56025	Wyoming	Natrona	pcnt_lbw	8.0
+56027	Wyoming	Niobrara	pcnt_lbw	
+56029	Wyoming	Park	pcnt_lbw	7.3
+56031	Wyoming	Platte	pcnt_lbw	9.9
+56033	Wyoming	Sheridan	pcnt_lbw	7.9
+56035	Wyoming	Sublette	pcnt_lbw	9.9
+56037	Wyoming	Sweetwater	pcnt_lbw	9.3
+56039	Wyoming	Teton	pcnt_lbw	6.7
+56041	Wyoming	Uinta	pcnt_lbw	9.4
+56043	Wyoming	Washakie	pcnt_lbw	6.2
+56045	Wyoming	Weston	pcnt_lbw	9.8

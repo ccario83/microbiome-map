@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_pop_in_viol
+01001	Alabama	Autauga	pcnt_pop_in_viol	0
+01003	Alabama	Baldwin	pcnt_pop_in_viol	8
+01005	Alabama	Barbour	pcnt_pop_in_viol	8
+01007	Alabama	Bibb	pcnt_pop_in_viol	0
+01009	Alabama	Blount	pcnt_pop_in_viol	7
+01011	Alabama	Bullock	pcnt_pop_in_viol	0
+01013	Alabama	Butler	pcnt_pop_in_viol	0
+01015	Alabama	Calhoun	pcnt_pop_in_viol	0
+01017	Alabama	Chambers	pcnt_pop_in_viol	0
+01019	Alabama	Cherokee	pcnt_pop_in_viol	0
+01021	Alabama	Chilton	pcnt_pop_in_viol	0
+01023	Alabama	Choctaw	pcnt_pop_in_viol	0
+01025	Alabama	Clarke	pcnt_pop_in_viol	12
+01027	Alabama	Clay	pcnt_pop_in_viol	0
+01029	Alabama	Cleburne	pcnt_pop_in_viol	0
+01031	Alabama	Coffee	pcnt_pop_in_viol	0
+01033	Alabama	Colbert	pcnt_pop_in_viol	5
+01035	Alabama	Conecuh	pcnt_pop_in_viol	0
+01037	Alabama	Coosa	pcnt_pop_in_viol	0
+01039	Alabama	Covington	pcnt_pop_in_viol	0
+01041	Alabama	Crenshaw	pcnt_pop_in_viol	0
+01043	Alabama	Cullman	pcnt_pop_in_viol	0
+01045	Alabama	Dale	pcnt_pop_in_viol	0
+01047	Alabama	Dallas	pcnt_pop_in_viol	0
+01049	Alabama	DeKalb	pcnt_pop_in_viol	0
+01051	Alabama	Elmore	pcnt_pop_in_viol	0
+01053	Alabama	Escambia	pcnt_pop_in_viol	0
+01055	Alabama	Etowah	pcnt_pop_in_viol	0
+01057	Alabama	Fayette	pcnt_pop_in_viol	0
+01059	Alabama	Franklin	pcnt_pop_in_viol	0
+01061	Alabama	Geneva	pcnt_pop_in_viol	0
+01063	Alabama	Greene	pcnt_pop_in_viol	0
+01065	Alabama	Hale	pcnt_pop_in_viol	49
+01067	Alabama	Henry	pcnt_pop_in_viol	46
+01069	Alabama	Houston	pcnt_pop_in_viol	0
+01071	Alabama	Jackson	pcnt_pop_in_viol	0
+01073	Alabama	Jefferson	pcnt_pop_in_viol	0
+01075	Alabama	Lamar	pcnt_pop_in_viol	0
+01077	Alabama	Lauderdale	pcnt_pop_in_viol	0
+01079	Alabama	Lawrence	pcnt_pop_in_viol	7
+01081	Alabama	Lee	pcnt_pop_in_viol	0
+01083	Alabama	Limestone	pcnt_pop_in_viol	0
+01085	Alabama	Lowndes	pcnt_pop_in_viol	0
+01087	Alabama	Macon	pcnt_pop_in_viol	0
+01089	Alabama	Madison	pcnt_pop_in_viol	0
+01091	Alabama	Marengo	pcnt_pop_in_viol	45
+01093	Alabama	Marion	pcnt_pop_in_viol	0
+01095	Alabama	Marshall	pcnt_pop_in_viol	0
+01097	Alabama	Mobile	pcnt_pop_in_viol	0
+01099	Alabama	Monroe	pcnt_pop_in_viol	8
+01101	Alabama	Montgomery	pcnt_pop_in_viol	0
+01103	Alabama	Morgan	pcnt_pop_in_viol	0
+01105	Alabama	Perry	pcnt_pop_in_viol	0
+01107	Alabama	Pickens	pcnt_pop_in_viol	0
+01109	Alabama	Pike	pcnt_pop_in_viol	0
+01111	Alabama	Randolph	pcnt_pop_in_viol	7
+01113	Alabama	Russell	pcnt_pop_in_viol	0
+01115	Alabama	St. Clair	pcnt_pop_in_viol	0
+01117	Alabama	Shelby	pcnt_pop_in_viol	0
+01119	Alabama	Sumter	pcnt_pop_in_viol	0
+01121	Alabama	Talladega	pcnt_pop_in_viol	0
+01123	Alabama	Tallapoosa	pcnt_pop_in_viol	4
+01125	Alabama	Tuscaloosa	pcnt_pop_in_viol	0
+01127	Alabama	Walker	pcnt_pop_in_viol	0
+01129	Alabama	Washington	pcnt_pop_in_viol	0
+01131	Alabama	Wilcox	pcnt_pop_in_viol	0
+01133	Alabama	Winston	pcnt_pop_in_viol	0
+02013	Alaska	Aleutians East	pcnt_pop_in_viol	45
+02016	Alaska	Aleutians West	pcnt_pop_in_viol	3
+02020	Alaska	Anchorage	pcnt_pop_in_viol	34
+02050	Alaska	Bethel	pcnt_pop_in_viol	18
+02060	Alaska	Bristol Bay	pcnt_pop_in_viol	0
+02068	Alaska	Denali	pcnt_pop_in_viol	
+02070	Alaska	Dillingham	pcnt_pop_in_viol	57
+02090	Alaska	Fairbanks North Star	pcnt_pop_in_viol	2
+02100	Alaska	Haines	pcnt_pop_in_viol	73
+02110	Alaska	Juneau	pcnt_pop_in_viol	0
+02122	Alaska	Kenai Peninsula	pcnt_pop_in_viol	5
+02130	Alaska	Ketchikan Gateway	pcnt_pop_in_viol	99
+02150	Alaska	Kodiak Island	pcnt_pop_in_viol	3
+02164	Alaska	Lake and Peninsula	pcnt_pop_in_viol	31
+02170	Alaska	Matanuska-Susitna	pcnt_pop_in_viol	1
+02180	Alaska	Nome	pcnt_pop_in_viol	66
+02185	Alaska	North Slope	pcnt_pop_in_viol	0
+02188	Alaska	Northwest Arctic	pcnt_pop_in_viol	73
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_pop_in_viol	63
+02220	Alaska	Sitka	pcnt_pop_in_viol	1
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_pop_in_viol	8
+02240	Alaska	Southeast Fairbanks	pcnt_pop_in_viol	10
+02261	Alaska	Valdez-Cordova	pcnt_pop_in_viol	1
+02270	Alaska	Wade Hampton	pcnt_pop_in_viol	71
+02280	Alaska	Wrangell-Petersburg	pcnt_pop_in_viol	7
+02282	Alaska	Yakutat	pcnt_pop_in_viol	0
+02290	Alaska	Yukon-Koyukuk	pcnt_pop_in_viol	23
+04001	Arizona	Apache	pcnt_pop_in_viol	45
+04003	Arizona	Cochise	pcnt_pop_in_viol	15
+04005	Arizona	Coconino	pcnt_pop_in_viol	8
+04007	Arizona	Gila	pcnt_pop_in_viol	19
+04009	Arizona	Graham	pcnt_pop_in_viol	0
+04011	Arizona	Greenlee	pcnt_pop_in_viol	0
+04012	Arizona	La Paz	pcnt_pop_in_viol	2
+04013	Arizona	Maricopa	pcnt_pop_in_viol	0
+04015	Arizona	Mohave	pcnt_pop_in_viol	28
+04017	Arizona	Navajo	pcnt_pop_in_viol	15
+04019	Arizona	Pima	pcnt_pop_in_viol	3
+04021	Arizona	Pinal	pcnt_pop_in_viol	7
+04023	Arizona	Santa Cruz	pcnt_pop_in_viol	5
+04025	Arizona	Yavapai	pcnt_pop_in_viol	6
+04027	Arizona	Yuma	pcnt_pop_in_viol	1
+05001	Arkansas	Arkansas	pcnt_pop_in_viol	12
+05003	Arkansas	Ashley	pcnt_pop_in_viol	4
+05005	Arkansas	Baxter	pcnt_pop_in_viol	0
+05007	Arkansas	Benton	pcnt_pop_in_viol	10
+05009	Arkansas	Boone	pcnt_pop_in_viol	12
+05011	Arkansas	Bradley	pcnt_pop_in_viol	0
+05013	Arkansas	Calhoun	pcnt_pop_in_viol	8
+05015	Arkansas	Carroll	pcnt_pop_in_viol	1
+05017	Arkansas	Chicot	pcnt_pop_in_viol	0
+05019	Arkansas	Clark	pcnt_pop_in_viol	4
+05021	Arkansas	Clay	pcnt_pop_in_viol	21
+05023	Arkansas	Cleburne	pcnt_pop_in_viol	25
+05025	Arkansas	Cleveland	pcnt_pop_in_viol	0
+05027	Arkansas	Columbia	pcnt_pop_in_viol	2
+05029	Arkansas	Conway	pcnt_pop_in_viol	0
+05031	Arkansas	Craighead	pcnt_pop_in_viol	0
+05033	Arkansas	Crawford	pcnt_pop_in_viol	14
+05035	Arkansas	Crittenden	pcnt_pop_in_viol	5
+05037	Arkansas	Cross	pcnt_pop_in_viol	2
+05039	Arkansas	Dallas	pcnt_pop_in_viol	0
+05041	Arkansas	Desha	pcnt_pop_in_viol	2
+05043	Arkansas	Drew	pcnt_pop_in_viol	4
+05045	Arkansas	Faulkner	pcnt_pop_in_viol	23
+05047	Arkansas	Franklin	pcnt_pop_in_viol	21
+05049	Arkansas	Fulton	pcnt_pop_in_viol	1
+05051	Arkansas	Garland	pcnt_pop_in_viol	0
+05053	Arkansas	Grant	pcnt_pop_in_viol	0
+05055	Arkansas	Greene	pcnt_pop_in_viol	0
+05057	Arkansas	Hempstead	pcnt_pop_in_viol	7
+05059	Arkansas	Hot Spring	pcnt_pop_in_viol	0
+05061	Arkansas	Howard	pcnt_pop_in_viol	4
+05063	Arkansas	Independence	pcnt_pop_in_viol	0
+05065	Arkansas	Izard	pcnt_pop_in_viol	41
+05067	Arkansas	Jackson	pcnt_pop_in_viol	0
+05069	Arkansas	Jefferson	pcnt_pop_in_viol	11
+05071	Arkansas	Johnson	pcnt_pop_in_viol	0
+05073	Arkansas	Lafayette	pcnt_pop_in_viol	0
+05075	Arkansas	Lawrence	pcnt_pop_in_viol	7
+05077	Arkansas	Lee	pcnt_pop_in_viol	0
+05079	Arkansas	Lincoln	pcnt_pop_in_viol	43
+05081	Arkansas	Little River	pcnt_pop_in_viol	10
+05083	Arkansas	Logan	pcnt_pop_in_viol	35
+05085	Arkansas	Lonoke	pcnt_pop_in_viol	11
+05087	Arkansas	Madison	pcnt_pop_in_viol	6
+05089	Arkansas	Marion	pcnt_pop_in_viol	18
+05091	Arkansas	Miller	pcnt_pop_in_viol	0
+05093	Arkansas	Mississippi	pcnt_pop_in_viol	9
+05095	Arkansas	Monroe	pcnt_pop_in_viol	19
+05097	Arkansas	Montgomery	pcnt_pop_in_viol	0
+05099	Arkansas	Nevada	pcnt_pop_in_viol	0
+05101	Arkansas	Newton	pcnt_pop_in_viol	30
+05103	Arkansas	Ouachita	pcnt_pop_in_viol	53
+05105	Arkansas	Perry	pcnt_pop_in_viol	15
+05107	Arkansas	Phillips	pcnt_pop_in_viol	17
+05109	Arkansas	Pike	pcnt_pop_in_viol	35
+05111	Arkansas	Poinsett	pcnt_pop_in_viol	1
+05113	Arkansas	Polk	pcnt_pop_in_viol	24
+05115	Arkansas	Pope	pcnt_pop_in_viol	0
+05117	Arkansas	Prairie	pcnt_pop_in_viol	67
+05119	Arkansas	Pulaski	pcnt_pop_in_viol	9
+05121	Arkansas	Randolph	pcnt_pop_in_viol	3
+05123	Arkansas	St. Francis	pcnt_pop_in_viol	3
+05125	Arkansas	Saline	pcnt_pop_in_viol	5
+05127	Arkansas	Scott	pcnt_pop_in_viol	100
+05129	Arkansas	Searcy	pcnt_pop_in_viol	52
+05131	Arkansas	Sebastian	pcnt_pop_in_viol	20
+05133	Arkansas	Sevier	pcnt_pop_in_viol	0
+05135	Arkansas	Sharp	pcnt_pop_in_viol	9
+05137	Arkansas	Stone	pcnt_pop_in_viol	0
+05139	Arkansas	Union	pcnt_pop_in_viol	10
+05141	Arkansas	Van Buren	pcnt_pop_in_viol	47
+05143	Arkansas	Washington	pcnt_pop_in_viol	2
+05145	Arkansas	White	pcnt_pop_in_viol	0
+05147	Arkansas	Woodruff	pcnt_pop_in_viol	18
+05149	Arkansas	Yell	pcnt_pop_in_viol	20
+06001	California	Alameda	pcnt_pop_in_viol	0
+06003	California	Alpine	pcnt_pop_in_viol	0
+06005	California	Amador	pcnt_pop_in_viol	7
+06007	California	Butte	pcnt_pop_in_viol	0
+06009	California	Calaveras	pcnt_pop_in_viol	1
+06011	California	Colusa	pcnt_pop_in_viol	13
+06013	California	Contra Costa	pcnt_pop_in_viol	0
+06015	California	Del Norte	pcnt_pop_in_viol	0
+06017	California	El Dorado	pcnt_pop_in_viol	0
+06019	California	Fresno	pcnt_pop_in_viol	22
+06021	California	Glenn	pcnt_pop_in_viol	0
+06023	California	Humboldt	pcnt_pop_in_viol	1
+06025	California	Imperial	pcnt_pop_in_viol	29
+06027	California	Inyo	pcnt_pop_in_viol	7
+06029	California	Kern	pcnt_pop_in_viol	10
+06031	California	Kings	pcnt_pop_in_viol	22
+06033	California	Lake	pcnt_pop_in_viol	0
+06035	California	Lassen	pcnt_pop_in_viol	10
+06037	California	Los Angeles	pcnt_pop_in_viol	7
+06039	California	Madera	pcnt_pop_in_viol	16
+06041	California	Marin	pcnt_pop_in_viol	1
+06043	California	Mariposa	pcnt_pop_in_viol	45
+06045	California	Mendocino	pcnt_pop_in_viol	1
+06047	California	Merced	pcnt_pop_in_viol	5
+06049	California	Modoc	pcnt_pop_in_viol	0
+06051	California	Mono	pcnt_pop_in_viol	7
+06053	California	Monterey	pcnt_pop_in_viol	1
+06055	California	Napa	pcnt_pop_in_viol	1
+06057	California	Nevada	pcnt_pop_in_viol	2
+06059	California	Orange	pcnt_pop_in_viol	0
+06061	California	Placer	pcnt_pop_in_viol	1
+06063	California	Plumas	pcnt_pop_in_viol	32
+06065	California	Riverside	pcnt_pop_in_viol	0
+06067	California	Sacramento	pcnt_pop_in_viol	0
+06069	California	San Benito	pcnt_pop_in_viol	0
+06071	California	San Bernardino	pcnt_pop_in_viol	2
+06073	California	San Diego	pcnt_pop_in_viol	0
+06075	California	San Francisco	pcnt_pop_in_viol	0
+06077	California	San Joaquin	pcnt_pop_in_viol	1
+06079	California	San Luis Obispo	pcnt_pop_in_viol	1
+06081	California	San Mateo	pcnt_pop_in_viol	0
+06083	California	Santa Barbara	pcnt_pop_in_viol	3
+06085	California	Santa Clara	pcnt_pop_in_viol	0
+06087	California	Santa Cruz	pcnt_pop_in_viol	2
+06089	California	Shasta	pcnt_pop_in_viol	1
+06091	California	Sierra	pcnt_pop_in_viol	18
+06093	California	Siskiyou	pcnt_pop_in_viol	0
+06095	California	Solano	pcnt_pop_in_viol	0
+06097	California	Sonoma	pcnt_pop_in_viol	1
+06099	California	Stanislaus	pcnt_pop_in_viol	28
+06101	California	Sutter	pcnt_pop_in_viol	21
+06103	California	Tehama	pcnt_pop_in_viol	16
+06105	California	Trinity	pcnt_pop_in_viol	3
+06107	California	Tulare	pcnt_pop_in_viol	11
+06109	California	Tuolumne	pcnt_pop_in_viol	0
+06111	California	Ventura	pcnt_pop_in_viol	0
+06113	California	Yolo	pcnt_pop_in_viol	0
+06115	California	Yuba	pcnt_pop_in_viol	0
+08001	Colorado	Adams	pcnt_pop_in_viol	0
+08003	Colorado	Alamosa	pcnt_pop_in_viol	0
+08005	Colorado	Arapahoe	pcnt_pop_in_viol	7
+08007	Colorado	Archuleta	pcnt_pop_in_viol	0
+08009	Colorado	Baca	pcnt_pop_in_viol	2
+08011	Colorado	Bent	pcnt_pop_in_viol	0
+08013	Colorado	Boulder	pcnt_pop_in_viol	0
+08014	Colorado	Broomfield	pcnt_pop_in_viol	0
+08015	Colorado	Chaffee	pcnt_pop_in_viol	0
+08017	Colorado	Cheyenne	pcnt_pop_in_viol	0
+08019	Colorado	Clear Creek	pcnt_pop_in_viol	0
+08021	Colorado	Conejos	pcnt_pop_in_viol	21
+08023	Colorado	Costilla	pcnt_pop_in_viol	32
+08025	Colorado	Crowley	pcnt_pop_in_viol	0
+08027	Colorado	Custer	pcnt_pop_in_viol	0
+08029	Colorado	Delta	pcnt_pop_in_viol	5
+08031	Colorado	Denver	pcnt_pop_in_viol	0
+08033	Colorado	Dolores	pcnt_pop_in_viol	0
+08035	Colorado	Douglas	pcnt_pop_in_viol	0
+08037	Colorado	Eagle	pcnt_pop_in_viol	9
+08039	Colorado	Elbert	pcnt_pop_in_viol	1
+08041	Colorado	El Paso	pcnt_pop_in_viol	0
+08043	Colorado	Fremont	pcnt_pop_in_viol	0
+08045	Colorado	Garfield	pcnt_pop_in_viol	0
+08047	Colorado	Gilpin	pcnt_pop_in_viol	0
+08049	Colorado	Grand	pcnt_pop_in_viol	0
+08051	Colorado	Gunnison	pcnt_pop_in_viol	15
+08053	Colorado	Hinsdale	pcnt_pop_in_viol	0
+08055	Colorado	Huerfano	pcnt_pop_in_viol	2
+08057	Colorado	Jackson	pcnt_pop_in_viol	0
+08059	Colorado	Jefferson	pcnt_pop_in_viol	0
+08061	Colorado	Kiowa	pcnt_pop_in_viol	8
+08063	Colorado	Kit Carson	pcnt_pop_in_viol	3
+08065	Colorado	Lake	pcnt_pop_in_viol	0
+08067	Colorado	La Plata	pcnt_pop_in_viol	2
+08069	Colorado	Larimer	pcnt_pop_in_viol	0
+08071	Colorado	Las Animas	pcnt_pop_in_viol	0
+08073	Colorado	Lincoln	pcnt_pop_in_viol	0
+08075	Colorado	Logan	pcnt_pop_in_viol	78
+08077	Colorado	Mesa	pcnt_pop_in_viol	0
+08079	Colorado	Mineral	pcnt_pop_in_viol	0
+08081	Colorado	Moffat	pcnt_pop_in_viol	0
+08083	Colorado	Montezuma	pcnt_pop_in_viol	0
+08085	Colorado	Montrose	pcnt_pop_in_viol	0
+08087	Colorado	Morgan	pcnt_pop_in_viol	5
+08089	Colorado	Otero	pcnt_pop_in_viol	15
+08091	Colorado	Ouray	pcnt_pop_in_viol	0
+08093	Colorado	Park	pcnt_pop_in_viol	0
+08095	Colorado	Phillips	pcnt_pop_in_viol	0
+08097	Colorado	Pitkin	pcnt_pop_in_viol	0
+08099	Colorado	Prowers	pcnt_pop_in_viol	11
+08101	Colorado	Pueblo	pcnt_pop_in_viol	1
+08103	Colorado	Rio Blanco	pcnt_pop_in_viol	0
+08105	Colorado	Rio Grande	pcnt_pop_in_viol	0
+08107	Colorado	Routt	pcnt_pop_in_viol	1
+08109	Colorado	Saguache	pcnt_pop_in_viol	0
+08111	Colorado	San Juan	pcnt_pop_in_viol	0
+08113	Colorado	San Miguel	pcnt_pop_in_viol	0
+08115	Colorado	Sedgwick	pcnt_pop_in_viol	0
+08117	Colorado	Summit	pcnt_pop_in_viol	0
+08119	Colorado	Teller	pcnt_pop_in_viol	2
+08121	Colorado	Washington	pcnt_pop_in_viol	0
+08123	Colorado	Weld	pcnt_pop_in_viol	4
+08125	Colorado	Yuma	pcnt_pop_in_viol	0
+09001	Connecticut	Fairfield	pcnt_pop_in_viol	0
+09003	Connecticut	Hartford	pcnt_pop_in_viol	0
+09005	Connecticut	Litchfield	pcnt_pop_in_viol	1
+09007	Connecticut	Middlesex	pcnt_pop_in_viol	1
+09009	Connecticut	New Haven	pcnt_pop_in_viol	0
+09011	Connecticut	New London	pcnt_pop_in_viol	7
+09013	Connecticut	Tolland	pcnt_pop_in_viol	15
+09015	Connecticut	Windham	pcnt_pop_in_viol	2
+10001	Delaware	Kent	pcnt_pop_in_viol	1
+10003	Delaware	New Castle	pcnt_pop_in_viol	0
+10005	Delaware	Sussex	pcnt_pop_in_viol	3
+11001	District of Columbia	District of Columbia	pcnt_pop_in_viol	2
+12001	Florida	Alachua	pcnt_pop_in_viol	6
+12003	Florida	Baker	pcnt_pop_in_viol	0
+12005	Florida	Bay	pcnt_pop_in_viol	10
+12007	Florida	Bradford	pcnt_pop_in_viol	0
+12009	Florida	Brevard	pcnt_pop_in_viol	2
+12011	Florida	Broward	pcnt_pop_in_viol	3
+12013	Florida	Calhoun	pcnt_pop_in_viol	0
+12015	Florida	Charlotte	pcnt_pop_in_viol	1
+12017	Florida	Citrus	pcnt_pop_in_viol	28
+12019	Florida	Clay	pcnt_pop_in_viol	0
+12021	Florida	Collier	pcnt_pop_in_viol	10
+12023	Florida	Columbia	pcnt_pop_in_viol	0
+12027	Florida	DeSoto	pcnt_pop_in_viol	1
+12029	Florida	Dixie	pcnt_pop_in_viol	69
+12031	Florida	Duval	pcnt_pop_in_viol	0
+12033	Florida	Escambia	pcnt_pop_in_viol	0
+12035	Florida	Flagler	pcnt_pop_in_viol	8
+12037	Florida	Franklin	pcnt_pop_in_viol	61
+12039	Florida	Gadsden	pcnt_pop_in_viol	0
+12041	Florida	Gilchrist	pcnt_pop_in_viol	0
+12043	Florida	Glades	pcnt_pop_in_viol	0
+12045	Florida	Gulf	pcnt_pop_in_viol	2
+12047	Florida	Hamilton	pcnt_pop_in_viol	10
+12049	Florida	Hardee	pcnt_pop_in_viol	0
+12051	Florida	Hendry	pcnt_pop_in_viol	0
+12053	Florida	Hernando	pcnt_pop_in_viol	0
+12055	Florida	Highlands	pcnt_pop_in_viol	2
+12057	Florida	Hillsborough	pcnt_pop_in_viol	0
+12059	Florida	Holmes	pcnt_pop_in_viol	0
+12061	Florida	Indian River	pcnt_pop_in_viol	0
+12063	Florida	Jackson	pcnt_pop_in_viol	9
+12065	Florida	Jefferson	pcnt_pop_in_viol	0
+12067	Florida	Lafayette	pcnt_pop_in_viol	69
+12069	Florida	Lake	pcnt_pop_in_viol	0
+12071	Florida	Lee	pcnt_pop_in_viol	2
+12073	Florida	Leon	pcnt_pop_in_viol	0
+12075	Florida	Levy	pcnt_pop_in_viol	4
+12077	Florida	Liberty	pcnt_pop_in_viol	29
+12079	Florida	Madison	pcnt_pop_in_viol	0
+12081	Florida	Manatee	pcnt_pop_in_viol	0
+12083	Florida	Marion	pcnt_pop_in_viol	3
+12085	Florida	Martin	pcnt_pop_in_viol	63
+12086	Florida	Miami-Dade	pcnt_pop_in_viol	0
+12087	Florida	Monroe	pcnt_pop_in_viol	0
+12089	Florida	Nassau	pcnt_pop_in_viol	32
+12091	Florida	Okaloosa	pcnt_pop_in_viol	4
+12093	Florida	Okeechobee	pcnt_pop_in_viol	95
+12095	Florida	Orange	pcnt_pop_in_viol	0
+12097	Florida	Osceola	pcnt_pop_in_viol	0
+12099	Florida	Palm Beach	pcnt_pop_in_viol	0
+12101	Florida	Pasco	pcnt_pop_in_viol	2
+12103	Florida	Pinellas	pcnt_pop_in_viol	0
+12105	Florida	Polk	pcnt_pop_in_viol	6
+12107	Florida	Putnam	pcnt_pop_in_viol	0
+12109	Florida	St. Johns	pcnt_pop_in_viol	12
+12111	Florida	St. Lucie	pcnt_pop_in_viol	0
+12113	Florida	Santa Rosa	pcnt_pop_in_viol	10
+12115	Florida	Sarasota	pcnt_pop_in_viol	4
+12117	Florida	Seminole	pcnt_pop_in_viol	11
+12119	Florida	Sumter	pcnt_pop_in_viol	1
+12121	Florida	Suwannee	pcnt_pop_in_viol	0
+12123	Florida	Taylor	pcnt_pop_in_viol	90
+12125	Florida	Union	pcnt_pop_in_viol	39
+12127	Florida	Volusia	pcnt_pop_in_viol	0
+12129	Florida	Wakulla	pcnt_pop_in_viol	0
+12131	Florida	Walton	pcnt_pop_in_viol	15
+12133	Florida	Washington	pcnt_pop_in_viol	37
+13001	Georgia	Appling	pcnt_pop_in_viol	0
+13003	Georgia	Atkinson	pcnt_pop_in_viol	0
+13005	Georgia	Bacon	pcnt_pop_in_viol	0
+13007	Georgia	Baker	pcnt_pop_in_viol	0
+13009	Georgia	Baldwin	pcnt_pop_in_viol	0
+13011	Georgia	Banks	pcnt_pop_in_viol	0
+13013	Georgia	Barrow	pcnt_pop_in_viol	0
+13015	Georgia	Bartow	pcnt_pop_in_viol	32
+13017	Georgia	Ben Hill	pcnt_pop_in_viol	0
+13019	Georgia	Berrien	pcnt_pop_in_viol	0
+13021	Georgia	Bibb	pcnt_pop_in_viol	0
+13023	Georgia	Bleckley	pcnt_pop_in_viol	0
+13025	Georgia	Brantley	pcnt_pop_in_viol	0
+13027	Georgia	Brooks	pcnt_pop_in_viol	0
+13029	Georgia	Bryan	pcnt_pop_in_viol	3
+13031	Georgia	Bulloch	pcnt_pop_in_viol	1
+13033	Georgia	Burke	pcnt_pop_in_viol	0
+13035	Georgia	Butts	pcnt_pop_in_viol	84
+13037	Georgia	Calhoun	pcnt_pop_in_viol	0
+13039	Georgia	Camden	pcnt_pop_in_viol	0
+13043	Georgia	Candler	pcnt_pop_in_viol	0
+13045	Georgia	Carroll	pcnt_pop_in_viol	7
+13047	Georgia	Catoosa	pcnt_pop_in_viol	0
+13049	Georgia	Charlton	pcnt_pop_in_viol	0
+13051	Georgia	Chatham	pcnt_pop_in_viol	0
+13053	Georgia	Chattahoochee	pcnt_pop_in_viol	0
+13055	Georgia	Chattooga	pcnt_pop_in_viol	0
+13057	Georgia	Cherokee	pcnt_pop_in_viol	0
+13059	Georgia	Clarke	pcnt_pop_in_viol	0
+13061	Georgia	Clay	pcnt_pop_in_viol	13
+13063	Georgia	Clayton	pcnt_pop_in_viol	0
+13065	Georgia	Clinch	pcnt_pop_in_viol	0
+13067	Georgia	Cobb	pcnt_pop_in_viol	0
+13069	Georgia	Coffee	pcnt_pop_in_viol	0
+13071	Georgia	Colquitt	pcnt_pop_in_viol	0
+13073	Georgia	Columbia	pcnt_pop_in_viol	0
+13075	Georgia	Cook	pcnt_pop_in_viol	0
+13077	Georgia	Coweta	pcnt_pop_in_viol	0
+13079	Georgia	Crawford	pcnt_pop_in_viol	0
+13081	Georgia	Crisp	pcnt_pop_in_viol	0
+13083	Georgia	Dade	pcnt_pop_in_viol	0
+13085	Georgia	Dawson	pcnt_pop_in_viol	2
+13087	Georgia	Decatur	pcnt_pop_in_viol	1
+13089	Georgia	DeKalb	pcnt_pop_in_viol	0
+13091	Georgia	Dodge	pcnt_pop_in_viol	0
+13093	Georgia	Dooly	pcnt_pop_in_viol	2
+13095	Georgia	Dougherty	pcnt_pop_in_viol	0
+13097	Georgia	Douglas	pcnt_pop_in_viol	0
+13099	Georgia	Early	pcnt_pop_in_viol	0
+13101	Georgia	Echols	pcnt_pop_in_viol	0
+13103	Georgia	Effingham	pcnt_pop_in_viol	0
+13105	Georgia	Elbert	pcnt_pop_in_viol	0
+13107	Georgia	Emanuel	pcnt_pop_in_viol	1
+13109	Georgia	Evans	pcnt_pop_in_viol	0
+13111	Georgia	Fannin	pcnt_pop_in_viol	0
+13113	Georgia	Fayette	pcnt_pop_in_viol	0
+13115	Georgia	Floyd	pcnt_pop_in_viol	0
+13117	Georgia	Forsyth	pcnt_pop_in_viol	0
+13119	Georgia	Franklin	pcnt_pop_in_viol	0
+13121	Georgia	Fulton	pcnt_pop_in_viol	1
+13123	Georgia	Gilmer	pcnt_pop_in_viol	0
+13125	Georgia	Glascock	pcnt_pop_in_viol	0
+13127	Georgia	Glynn	pcnt_pop_in_viol	0
+13129	Georgia	Gordon	pcnt_pop_in_viol	0
+13131	Georgia	Grady	pcnt_pop_in_viol	0
+13133	Georgia	Greene	pcnt_pop_in_viol	1
+13135	Georgia	Gwinnett	pcnt_pop_in_viol	3
+13137	Georgia	Habersham	pcnt_pop_in_viol	4
+13139	Georgia	Hall	pcnt_pop_in_viol	0
+13141	Georgia	Hancock	pcnt_pop_in_viol	0
+13143	Georgia	Haralson	pcnt_pop_in_viol	0
+13145	Georgia	Harris	pcnt_pop_in_viol	0
+13147	Georgia	Hart	pcnt_pop_in_viol	0
+13149	Georgia	Heard	pcnt_pop_in_viol	86
+13151	Georgia	Henry	pcnt_pop_in_viol	0
+13153	Georgia	Houston	pcnt_pop_in_viol	0
+13155	Georgia	Irwin	pcnt_pop_in_viol	0
+13157	Georgia	Jackson	pcnt_pop_in_viol	0
+13159	Georgia	Jasper	pcnt_pop_in_viol	0
+13161	Georgia	Jeff Davis	pcnt_pop_in_viol	0
+13163	Georgia	Jefferson	pcnt_pop_in_viol	5
+13165	Georgia	Jenkins	pcnt_pop_in_viol	0
+13167	Georgia	Johnson	pcnt_pop_in_viol	85
+13169	Georgia	Jones	pcnt_pop_in_viol	0
+13171	Georgia	Lamar	pcnt_pop_in_viol	0
+13173	Georgia	Lanier	pcnt_pop_in_viol	0
+13175	Georgia	Laurens	pcnt_pop_in_viol	0
+13177	Georgia	Lee	pcnt_pop_in_viol	0
+13179	Georgia	Liberty	pcnt_pop_in_viol	0
+13181	Georgia	Lincoln	pcnt_pop_in_viol	3
+13183	Georgia	Long	pcnt_pop_in_viol	3
+13185	Georgia	Lowndes	pcnt_pop_in_viol	2
+13187	Georgia	Lumpkin	pcnt_pop_in_viol	1
+13189	Georgia	McDuffie	pcnt_pop_in_viol	0
+13191	Georgia	McIntosh	pcnt_pop_in_viol	0
+13193	Georgia	Macon	pcnt_pop_in_viol	0
+13195	Georgia	Madison	pcnt_pop_in_viol	1
+13197	Georgia	Marion	pcnt_pop_in_viol	0
+13199	Georgia	Meriwether	pcnt_pop_in_viol	11
+13201	Georgia	Miller	pcnt_pop_in_viol	0
+13205	Georgia	Mitchell	pcnt_pop_in_viol	0
+13207	Georgia	Monroe	pcnt_pop_in_viol	0
+13209	Georgia	Montgomery	pcnt_pop_in_viol	0
+13211	Georgia	Morgan	pcnt_pop_in_viol	0
+13213	Georgia	Murray	pcnt_pop_in_viol	0
+13215	Georgia	Muscogee	pcnt_pop_in_viol	0
+13217	Georgia	Newton	pcnt_pop_in_viol	0
+13219	Georgia	Oconee	pcnt_pop_in_viol	0
+13221	Georgia	Oglethorpe	pcnt_pop_in_viol	2
+13223	Georgia	Paulding	pcnt_pop_in_viol	6
+13225	Georgia	Peach	pcnt_pop_in_viol	0
+13227	Georgia	Pickens	pcnt_pop_in_viol	0
+13229	Georgia	Pierce	pcnt_pop_in_viol	13
+13231	Georgia	Pike	pcnt_pop_in_viol	12
+13233	Georgia	Polk	pcnt_pop_in_viol	0
+13235	Georgia	Pulaski	pcnt_pop_in_viol	0
+13237	Georgia	Putnam	pcnt_pop_in_viol	0
+13239	Georgia	Quitman	pcnt_pop_in_viol	0
+13241	Georgia	Rabun	pcnt_pop_in_viol	0
+13243	Georgia	Randolph	pcnt_pop_in_viol	0
+13245	Georgia	Richmond	pcnt_pop_in_viol	0
+13247	Georgia	Rockdale	pcnt_pop_in_viol	0
+13249	Georgia	Schley	pcnt_pop_in_viol	0
+13251	Georgia	Screven	pcnt_pop_in_viol	0
+13253	Georgia	Seminole	pcnt_pop_in_viol	0
+13255	Georgia	Spalding	pcnt_pop_in_viol	0
+13257	Georgia	Stephens	pcnt_pop_in_viol	0
+13259	Georgia	Stewart	pcnt_pop_in_viol	29
+13261	Georgia	Sumter	pcnt_pop_in_viol	2
+13263	Georgia	Talbot	pcnt_pop_in_viol	0
+13265	Georgia	Taliaferro	pcnt_pop_in_viol	0
+13267	Georgia	Tattnall	pcnt_pop_in_viol	0
+13269	Georgia	Taylor	pcnt_pop_in_viol	0
+13271	Georgia	Telfair	pcnt_pop_in_viol	0
+13273	Georgia	Terrell	pcnt_pop_in_viol	0
+13275	Georgia	Thomas	pcnt_pop_in_viol	0
+13277	Georgia	Tift	pcnt_pop_in_viol	1
+13279	Georgia	Toombs	pcnt_pop_in_viol	1
+13281	Georgia	Towns	pcnt_pop_in_viol	0
+13283	Georgia	Treutlen	pcnt_pop_in_viol	100
+13285	Georgia	Troup	pcnt_pop_in_viol	0
+13287	Georgia	Turner	pcnt_pop_in_viol	0
+13289	Georgia	Twiggs	pcnt_pop_in_viol	0
+13291	Georgia	Union	pcnt_pop_in_viol	0
+13293	Georgia	Upson	pcnt_pop_in_viol	0
+13295	Georgia	Walker	pcnt_pop_in_viol	0
+13297	Georgia	Walton	pcnt_pop_in_viol	0
+13299	Georgia	Ware	pcnt_pop_in_viol	0
+13301	Georgia	Warren	pcnt_pop_in_viol	0
+13303	Georgia	Washington	pcnt_pop_in_viol	0
+13305	Georgia	Wayne	pcnt_pop_in_viol	1
+13307	Georgia	Webster	pcnt_pop_in_viol	0
+13309	Georgia	Wheeler	pcnt_pop_in_viol	0
+13311	Georgia	White	pcnt_pop_in_viol	2
+13313	Georgia	Whitfield	pcnt_pop_in_viol	0
+13315	Georgia	Wilcox	pcnt_pop_in_viol	77
+13317	Georgia	Wilkes	pcnt_pop_in_viol	85
+13319	Georgia	Wilkinson	pcnt_pop_in_viol	0
+13321	Georgia	Worth	pcnt_pop_in_viol	0
+15001	Hawaii	Hawaii	pcnt_pop_in_viol	
+15003	Hawaii	Honolulu	pcnt_pop_in_viol	
+15005	Hawaii	Kalawao	pcnt_pop_in_viol	
+15007	Hawaii	Kauai	pcnt_pop_in_viol	0
+15009	Hawaii	Maui	pcnt_pop_in_viol	
+16001	Idaho	Ada	pcnt_pop_in_viol	0
+16003	Idaho	Adams	pcnt_pop_in_viol	3
+16005	Idaho	Bannock	pcnt_pop_in_viol	2
+16007	Idaho	Bear Lake	pcnt_pop_in_viol	4
+16009	Idaho	Benewah	pcnt_pop_in_viol	0
+16011	Idaho	Bingham	pcnt_pop_in_viol	1
+16013	Idaho	Blaine	pcnt_pop_in_viol	1
+16015	Idaho	Boise	pcnt_pop_in_viol	11
+16017	Idaho	Bonner	pcnt_pop_in_viol	4
+16019	Idaho	Bonneville	pcnt_pop_in_viol	2
+16021	Idaho	Boundary	pcnt_pop_in_viol	0
+16023	Idaho	Butte	pcnt_pop_in_viol	0
+16025	Idaho	Camas	pcnt_pop_in_viol	0
+16027	Idaho	Canyon	pcnt_pop_in_viol	3
+16029	Idaho	Caribou	pcnt_pop_in_viol	0
+16031	Idaho	Cassia	pcnt_pop_in_viol	11
+16033	Idaho	Clark	pcnt_pop_in_viol	0
+16035	Idaho	Clearwater	pcnt_pop_in_viol	9
+16037	Idaho	Custer	pcnt_pop_in_viol	39
+16039	Idaho	Elmore	pcnt_pop_in_viol	56
+16041	Idaho	Franklin	pcnt_pop_in_viol	5
+16043	Idaho	Fremont	pcnt_pop_in_viol	30
+16045	Idaho	Gem	pcnt_pop_in_viol	1
+16047	Idaho	Gooding	pcnt_pop_in_viol	1
+16049	Idaho	Idaho	pcnt_pop_in_viol	4
+16051	Idaho	Jefferson	pcnt_pop_in_viol	5
+16053	Idaho	Jerome	pcnt_pop_in_viol	79
+16055	Idaho	Kootenai	pcnt_pop_in_viol	5
+16057	Idaho	Latah	pcnt_pop_in_viol	1
+16059	Idaho	Lemhi	pcnt_pop_in_viol	0
+16061	Idaho	Lewis	pcnt_pop_in_viol	18
+16063	Idaho	Lincoln	pcnt_pop_in_viol	22
+16065	Idaho	Madison	pcnt_pop_in_viol	93
+16067	Idaho	Minidoka	pcnt_pop_in_viol	1
+16069	Idaho	Nez Perce	pcnt_pop_in_viol	1
+16071	Idaho	Oneida	pcnt_pop_in_viol	0
+16073	Idaho	Owyhee	pcnt_pop_in_viol	11
+16075	Idaho	Payette	pcnt_pop_in_viol	12
+16077	Idaho	Power	pcnt_pop_in_viol	3
+16079	Idaho	Shoshone	pcnt_pop_in_viol	71
+16081	Idaho	Teton	pcnt_pop_in_viol	2
+16083	Idaho	Twin Falls	pcnt_pop_in_viol	78
+16085	Idaho	Valley	pcnt_pop_in_viol	3
+16087	Idaho	Washington	pcnt_pop_in_viol	0
+17001	Illinois	Adams	pcnt_pop_in_viol	2
+17003	Illinois	Alexander	pcnt_pop_in_viol	0
+17005	Illinois	Bond	pcnt_pop_in_viol	2
+17007	Illinois	Boone	pcnt_pop_in_viol	0
+17009	Illinois	Brown	pcnt_pop_in_viol	0
+17011	Illinois	Bureau	pcnt_pop_in_viol	9
+17013	Illinois	Calhoun	pcnt_pop_in_viol	0
+17015	Illinois	Carroll	pcnt_pop_in_viol	5
+17017	Illinois	Cass	pcnt_pop_in_viol	0
+17019	Illinois	Champaign	pcnt_pop_in_viol	0
+17021	Illinois	Christian	pcnt_pop_in_viol	0
+17023	Illinois	Clark	pcnt_pop_in_viol	0
+17025	Illinois	Clay	pcnt_pop_in_viol	0
+17027	Illinois	Clinton	pcnt_pop_in_viol	0
+17029	Illinois	Coles	pcnt_pop_in_viol	2
+17031	Illinois	Cook	pcnt_pop_in_viol	1
+17033	Illinois	Crawford	pcnt_pop_in_viol	0
+17035	Illinois	Cumberland	pcnt_pop_in_viol	0
+17037	Illinois	DeKalb	pcnt_pop_in_viol	0
+17039	Illinois	De Witt	pcnt_pop_in_viol	64
+17041	Illinois	Douglas	pcnt_pop_in_viol	0
+17043	Illinois	DuPage	pcnt_pop_in_viol	3
+17045	Illinois	Edgar	pcnt_pop_in_viol	10
+17047	Illinois	Edwards	pcnt_pop_in_viol	0
+17049	Illinois	Effingham	pcnt_pop_in_viol	0
+17051	Illinois	Fayette	pcnt_pop_in_viol	0
+17053	Illinois	Ford	pcnt_pop_in_viol	0
+17055	Illinois	Franklin	pcnt_pop_in_viol	0
+17057	Illinois	Fulton	pcnt_pop_in_viol	1
+17059	Illinois	Gallatin	pcnt_pop_in_viol	17
+17061	Illinois	Greene	pcnt_pop_in_viol	0
+17063	Illinois	Grundy	pcnt_pop_in_viol	0
+17065	Illinois	Hamilton	pcnt_pop_in_viol	0
+17067	Illinois	Hancock	pcnt_pop_in_viol	0
+17069	Illinois	Hardin	pcnt_pop_in_viol	9
+17071	Illinois	Henderson	pcnt_pop_in_viol	4
+17073	Illinois	Henry	pcnt_pop_in_viol	0
+17075	Illinois	Iroquois	pcnt_pop_in_viol	3
+17077	Illinois	Jackson	pcnt_pop_in_viol	0
+17079	Illinois	Jasper	pcnt_pop_in_viol	1
+17081	Illinois	Jefferson	pcnt_pop_in_viol	0
+17083	Illinois	Jersey	pcnt_pop_in_viol	4
+17085	Illinois	Jo Daviess	pcnt_pop_in_viol	0
+17087	Illinois	Johnson	pcnt_pop_in_viol	28
+17089	Illinois	Kane	pcnt_pop_in_viol	0
+17091	Illinois	Kankakee	pcnt_pop_in_viol	0
+17093	Illinois	Kendall	pcnt_pop_in_viol	0
+17095	Illinois	Knox	pcnt_pop_in_viol	0
+17097	Illinois	Lake	pcnt_pop_in_viol	3
+17099	Illinois	LaSalle	pcnt_pop_in_viol	23
+17101	Illinois	Lawrence	pcnt_pop_in_viol	5
+17103	Illinois	Lee	pcnt_pop_in_viol	1
+17105	Illinois	Livingston	pcnt_pop_in_viol	0
+17107	Illinois	Logan	pcnt_pop_in_viol	2
+17109	Illinois	McDonough	pcnt_pop_in_viol	0
+17111	Illinois	McHenry	pcnt_pop_in_viol	0
+17113	Illinois	McLean	pcnt_pop_in_viol	1
+17115	Illinois	Macon	pcnt_pop_in_viol	0
+17117	Illinois	Macoupin	pcnt_pop_in_viol	12
+17119	Illinois	Madison	pcnt_pop_in_viol	0
+17121	Illinois	Marion	pcnt_pop_in_viol	1
+17123	Illinois	Marshall	pcnt_pop_in_viol	0
+17125	Illinois	Mason	pcnt_pop_in_viol	0
+17127	Illinois	Massac	pcnt_pop_in_viol	0
+17129	Illinois	Menard	pcnt_pop_in_viol	40
+17131	Illinois	Mercer	pcnt_pop_in_viol	0
+17133	Illinois	Monroe	pcnt_pop_in_viol	1
+17135	Illinois	Montgomery	pcnt_pop_in_viol	0
+17137	Illinois	Morgan	pcnt_pop_in_viol	0
+17139	Illinois	Moultrie	pcnt_pop_in_viol	0
+17141	Illinois	Ogle	pcnt_pop_in_viol	0
+17143	Illinois	Peoria	pcnt_pop_in_viol	0
+17145	Illinois	Perry	pcnt_pop_in_viol	3
+17147	Illinois	Piatt	pcnt_pop_in_viol	4
+17149	Illinois	Pike	pcnt_pop_in_viol	0
+17151	Illinois	Pope	pcnt_pop_in_viol	0
+17153	Illinois	Pulaski	pcnt_pop_in_viol	0
+17155	Illinois	Putnam	pcnt_pop_in_viol	0
+17157	Illinois	Randolph	pcnt_pop_in_viol	31
+17159	Illinois	Richland	pcnt_pop_in_viol	0
+17161	Illinois	Rock Island	pcnt_pop_in_viol	0
+17163	Illinois	St. Clair	pcnt_pop_in_viol	1
+17165	Illinois	Saline	pcnt_pop_in_viol	0
+17167	Illinois	Sangamon	pcnt_pop_in_viol	1
+17169	Illinois	Schuyler	pcnt_pop_in_viol	1
+17171	Illinois	Scott	pcnt_pop_in_viol	0
+17173	Illinois	Shelby	pcnt_pop_in_viol	5
+17175	Illinois	Stark	pcnt_pop_in_viol	0
+17177	Illinois	Stephenson	pcnt_pop_in_viol	0
+17179	Illinois	Tazewell	pcnt_pop_in_viol	1
+17181	Illinois	Union	pcnt_pop_in_viol	8
+17183	Illinois	Vermilion	pcnt_pop_in_viol	3
+17185	Illinois	Wabash	pcnt_pop_in_viol	0
+17187	Illinois	Warren	pcnt_pop_in_viol	0
+17189	Illinois	Washington	pcnt_pop_in_viol	0
+17191	Illinois	Wayne	pcnt_pop_in_viol	19
+17193	Illinois	White	pcnt_pop_in_viol	0
+17195	Illinois	Whiteside	pcnt_pop_in_viol	0
+17197	Illinois	Will	pcnt_pop_in_viol	1
+17199	Illinois	Williamson	pcnt_pop_in_viol	0
+17201	Illinois	Winnebago	pcnt_pop_in_viol	74
+17203	Illinois	Woodford	pcnt_pop_in_viol	1
+18001	Indiana	Adams	pcnt_pop_in_viol	0
+18003	Indiana	Allen	pcnt_pop_in_viol	0
+18005	Indiana	Bartholomew	pcnt_pop_in_viol	0
+18007	Indiana	Benton	pcnt_pop_in_viol	0
+18009	Indiana	Blackford	pcnt_pop_in_viol	0
+18011	Indiana	Boone	pcnt_pop_in_viol	17
+18013	Indiana	Brown	pcnt_pop_in_viol	0
+18015	Indiana	Carroll	pcnt_pop_in_viol	0
+18017	Indiana	Cass	pcnt_pop_in_viol	1
+18019	Indiana	Clark	pcnt_pop_in_viol	0
+18021	Indiana	Clay	pcnt_pop_in_viol	0
+18023	Indiana	Clinton	pcnt_pop_in_viol	0
+18025	Indiana	Crawford	pcnt_pop_in_viol	0
+18027	Indiana	Daviess	pcnt_pop_in_viol	0
+18029	Indiana	Dearborn	pcnt_pop_in_viol	0
+18031	Indiana	Decatur	pcnt_pop_in_viol	9
+18033	Indiana	DeKalb	pcnt_pop_in_viol	0
+18035	Indiana	Delaware	pcnt_pop_in_viol	0
+18037	Indiana	Dubois	pcnt_pop_in_viol	0
+18039	Indiana	Elkhart	pcnt_pop_in_viol	2
+18041	Indiana	Fayette	pcnt_pop_in_viol	0
+18043	Indiana	Floyd	pcnt_pop_in_viol	0
+18045	Indiana	Fountain	pcnt_pop_in_viol	5
+18047	Indiana	Franklin	pcnt_pop_in_viol	0
+18049	Indiana	Fulton	pcnt_pop_in_viol	0
+18051	Indiana	Gibson	pcnt_pop_in_viol	17
+18053	Indiana	Grant	pcnt_pop_in_viol	0
+18055	Indiana	Greene	pcnt_pop_in_viol	0
+18057	Indiana	Hamilton	pcnt_pop_in_viol	0
+18059	Indiana	Hancock	pcnt_pop_in_viol	0
+18061	Indiana	Harrison	pcnt_pop_in_viol	39
+18063	Indiana	Hendricks	pcnt_pop_in_viol	0
+18065	Indiana	Henry	pcnt_pop_in_viol	0
+18067	Indiana	Howard	pcnt_pop_in_viol	0
+18069	Indiana	Huntington	pcnt_pop_in_viol	0
+18071	Indiana	Jackson	pcnt_pop_in_viol	0
+18073	Indiana	Jasper	pcnt_pop_in_viol	1
+18075	Indiana	Jay	pcnt_pop_in_viol	0
+18077	Indiana	Jefferson	pcnt_pop_in_viol	0
+18079	Indiana	Jennings	pcnt_pop_in_viol	0
+18081	Indiana	Johnson	pcnt_pop_in_viol	0
+18083	Indiana	Knox	pcnt_pop_in_viol	0
+18085	Indiana	Kosciusko	pcnt_pop_in_viol	13
+18087	Indiana	LaGrange	pcnt_pop_in_viol	1
+18089	Indiana	Lake	pcnt_pop_in_viol	0
+18091	Indiana	LaPorte	pcnt_pop_in_viol	51
+18093	Indiana	Lawrence	pcnt_pop_in_viol	0
+18095	Indiana	Madison	pcnt_pop_in_viol	0
+18097	Indiana	Marion	pcnt_pop_in_viol	0
+18099	Indiana	Marshall	pcnt_pop_in_viol	0
+18101	Indiana	Martin	pcnt_pop_in_viol	0
+18103	Indiana	Miami	pcnt_pop_in_viol	2
+18105	Indiana	Monroe	pcnt_pop_in_viol	0
+18107	Indiana	Montgomery	pcnt_pop_in_viol	0
+18109	Indiana	Morgan	pcnt_pop_in_viol	17
+18111	Indiana	Newton	pcnt_pop_in_viol	0
+18113	Indiana	Noble	pcnt_pop_in_viol	1
+18115	Indiana	Ohio	pcnt_pop_in_viol	0
+18117	Indiana	Orange	pcnt_pop_in_viol	0
+18119	Indiana	Owen	pcnt_pop_in_viol	0
+18121	Indiana	Parke	pcnt_pop_in_viol	6
+18123	Indiana	Perry	pcnt_pop_in_viol	57
+18125	Indiana	Pike	pcnt_pop_in_viol	0
+18127	Indiana	Porter	pcnt_pop_in_viol	14
+18129	Indiana	Posey	pcnt_pop_in_viol	77
+18131	Indiana	Pulaski	pcnt_pop_in_viol	0
+18133	Indiana	Putnam	pcnt_pop_in_viol	0
+18135	Indiana	Randolph	pcnt_pop_in_viol	0
+18137	Indiana	Ripley	pcnt_pop_in_viol	6
+18139	Indiana	Rush	pcnt_pop_in_viol	4
+18141	Indiana	St. Joseph	pcnt_pop_in_viol	0
+18143	Indiana	Scott	pcnt_pop_in_viol	33
+18145	Indiana	Shelby	pcnt_pop_in_viol	0
+18147	Indiana	Spencer	pcnt_pop_in_viol	0
+18149	Indiana	Starke	pcnt_pop_in_viol	0
+18151	Indiana	Steuben	pcnt_pop_in_viol	1
+18153	Indiana	Sullivan	pcnt_pop_in_viol	4
+18155	Indiana	Switzerland	pcnt_pop_in_viol	0
+18157	Indiana	Tippecanoe	pcnt_pop_in_viol	0
+18159	Indiana	Tipton	pcnt_pop_in_viol	0
+18161	Indiana	Union	pcnt_pop_in_viol	0
+18163	Indiana	Vanderburgh	pcnt_pop_in_viol	0
+18165	Indiana	Vermillion	pcnt_pop_in_viol	8
+18167	Indiana	Vigo	pcnt_pop_in_viol	0
+18169	Indiana	Wabash	pcnt_pop_in_viol	2
+18171	Indiana	Warren	pcnt_pop_in_viol	0
+18173	Indiana	Warrick	pcnt_pop_in_viol	0
+18175	Indiana	Washington	pcnt_pop_in_viol	31
+18177	Indiana	Wayne	pcnt_pop_in_viol	0
+18179	Indiana	Wells	pcnt_pop_in_viol	0
+18181	Indiana	White	pcnt_pop_in_viol	0
+18183	Indiana	Whitley	pcnt_pop_in_viol	0
+19001	Iowa	Adair	pcnt_pop_in_viol	0
+19003	Iowa	Adams	pcnt_pop_in_viol	0
+19005	Iowa	Allamakee	pcnt_pop_in_viol	1
+19007	Iowa	Appanoose	pcnt_pop_in_viol	0
+19009	Iowa	Audubon	pcnt_pop_in_viol	0
+19011	Iowa	Benton	pcnt_pop_in_viol	5
+19013	Iowa	Black Hawk	pcnt_pop_in_viol	0
+19015	Iowa	Boone	pcnt_pop_in_viol	0
+19017	Iowa	Bremer	pcnt_pop_in_viol	0
+19019	Iowa	Buchanan	pcnt_pop_in_viol	0
+19021	Iowa	Buena Vista	pcnt_pop_in_viol	1
+19023	Iowa	Butler	pcnt_pop_in_viol	0
+19025	Iowa	Calhoun	pcnt_pop_in_viol	0
+19027	Iowa	Carroll	pcnt_pop_in_viol	1
+19029	Iowa	Cass	pcnt_pop_in_viol	0
+19031	Iowa	Cedar	pcnt_pop_in_viol	0
+19033	Iowa	Cerro Gordo	pcnt_pop_in_viol	0
+19035	Iowa	Cherokee	pcnt_pop_in_viol	0
+19037	Iowa	Chickasaw	pcnt_pop_in_viol	0
+19039	Iowa	Clarke	pcnt_pop_in_viol	0
+19041	Iowa	Clay	pcnt_pop_in_viol	0
+19043	Iowa	Clayton	pcnt_pop_in_viol	0
+19045	Iowa	Clinton	pcnt_pop_in_viol	1
+19047	Iowa	Crawford	pcnt_pop_in_viol	0
+19049	Iowa	Dallas	pcnt_pop_in_viol	2
+19051	Iowa	Davis	pcnt_pop_in_viol	91
+19053	Iowa	Decatur	pcnt_pop_in_viol	68
+19055	Iowa	Delaware	pcnt_pop_in_viol	0
+19057	Iowa	Des Moines	pcnt_pop_in_viol	0
+19059	Iowa	Dickinson	pcnt_pop_in_viol	0
+19061	Iowa	Dubuque	pcnt_pop_in_viol	6
+19063	Iowa	Emmet	pcnt_pop_in_viol	1
+19065	Iowa	Fayette	pcnt_pop_in_viol	0
+19067	Iowa	Floyd	pcnt_pop_in_viol	0
+19069	Iowa	Franklin	pcnt_pop_in_viol	0
+19071	Iowa	Fremont	pcnt_pop_in_viol	0
+19073	Iowa	Greene	pcnt_pop_in_viol	8
+19075	Iowa	Grundy	pcnt_pop_in_viol	0
+19077	Iowa	Guthrie	pcnt_pop_in_viol	0
+19079	Iowa	Hamilton	pcnt_pop_in_viol	0
+19081	Iowa	Hancock	pcnt_pop_in_viol	0
+19083	Iowa	Hardin	pcnt_pop_in_viol	0
+19085	Iowa	Harrison	pcnt_pop_in_viol	0
+19087	Iowa	Henry	pcnt_pop_in_viol	2
+19089	Iowa	Howard	pcnt_pop_in_viol	2
+19091	Iowa	Humboldt	pcnt_pop_in_viol	0
+19093	Iowa	Ida	pcnt_pop_in_viol	0
+19095	Iowa	Iowa	pcnt_pop_in_viol	29
+19097	Iowa	Jackson	pcnt_pop_in_viol	0
+19099	Iowa	Jasper	pcnt_pop_in_viol	0
+19101	Iowa	Jefferson	pcnt_pop_in_viol	0
+19103	Iowa	Johnson	pcnt_pop_in_viol	1
+19105	Iowa	Jones	pcnt_pop_in_viol	15
+19107	Iowa	Keokuk	pcnt_pop_in_viol	0
+19109	Iowa	Kossuth	pcnt_pop_in_viol	0
+19111	Iowa	Lee	pcnt_pop_in_viol	0
+19113	Iowa	Linn	pcnt_pop_in_viol	1
+19115	Iowa	Louisa	pcnt_pop_in_viol	0
+19117	Iowa	Lucas	pcnt_pop_in_viol	0
+19119	Iowa	Lyon	pcnt_pop_in_viol	0
+19121	Iowa	Madison	pcnt_pop_in_viol	0
+19123	Iowa	Mahaska	pcnt_pop_in_viol	0
+19125	Iowa	Marion	pcnt_pop_in_viol	0
+19127	Iowa	Marshall	pcnt_pop_in_viol	0
+19129	Iowa	Mills	pcnt_pop_in_viol	63
+19131	Iowa	Mitchell	pcnt_pop_in_viol	0
+19133	Iowa	Monona	pcnt_pop_in_viol	0
+19135	Iowa	Monroe	pcnt_pop_in_viol	0
+19137	Iowa	Montgomery	pcnt_pop_in_viol	0
+19139	Iowa	Muscatine	pcnt_pop_in_viol	0
+19141	Iowa	O'Brien	pcnt_pop_in_viol	6
+19143	Iowa	Osceola	pcnt_pop_in_viol	0
+19145	Iowa	Page	pcnt_pop_in_viol	0
+19147	Iowa	Palo Alto	pcnt_pop_in_viol	4
+19149	Iowa	Plymouth	pcnt_pop_in_viol	1
+19151	Iowa	Pocahontas	pcnt_pop_in_viol	0
+19153	Iowa	Polk	pcnt_pop_in_viol	2
+19155	Iowa	Pottawattamie	pcnt_pop_in_viol	5
+19157	Iowa	Poweshiek	pcnt_pop_in_viol	0
+19159	Iowa	Ringgold	pcnt_pop_in_viol	0
+19161	Iowa	Sac	pcnt_pop_in_viol	12
+19163	Iowa	Scott	pcnt_pop_in_viol	1
+19165	Iowa	Shelby	pcnt_pop_in_viol	0
+19167	Iowa	Sioux	pcnt_pop_in_viol	0
+19169	Iowa	Story	pcnt_pop_in_viol	0
+19171	Iowa	Tama	pcnt_pop_in_viol	0
+19173	Iowa	Taylor	pcnt_pop_in_viol	0
+19175	Iowa	Union	pcnt_pop_in_viol	0
+19177	Iowa	Van Buren	pcnt_pop_in_viol	0
+19179	Iowa	Wapello	pcnt_pop_in_viol	0
+19181	Iowa	Warren	pcnt_pop_in_viol	0
+19183	Iowa	Washington	pcnt_pop_in_viol	53
+19185	Iowa	Wayne	pcnt_pop_in_viol	0
+19187	Iowa	Webster	pcnt_pop_in_viol	0
+19189	Iowa	Winnebago	pcnt_pop_in_viol	0
+19191	Iowa	Winneshiek	pcnt_pop_in_viol	0
+19193	Iowa	Woodbury	pcnt_pop_in_viol	88
+19195	Iowa	Worth	pcnt_pop_in_viol	0
+19197	Iowa	Wright	pcnt_pop_in_viol	0
+20001	Kansas	Allen	pcnt_pop_in_viol	52
+20003	Kansas	Anderson	pcnt_pop_in_viol	4
+20005	Kansas	Atchison	pcnt_pop_in_viol	68
+20007	Kansas	Barber	pcnt_pop_in_viol	0
+20009	Kansas	Barton	pcnt_pop_in_viol	0
+20011	Kansas	Bourbon	pcnt_pop_in_viol	0
+20013	Kansas	Brown	pcnt_pop_in_viol	71
+20015	Kansas	Butler	pcnt_pop_in_viol	0
+20017	Kansas	Chase	pcnt_pop_in_viol	0
+20019	Kansas	Chautauqua	pcnt_pop_in_viol	0
+20021	Kansas	Cherokee	pcnt_pop_in_viol	0
+20023	Kansas	Cheyenne	pcnt_pop_in_viol	75
+20025	Kansas	Clark	pcnt_pop_in_viol	5
+20027	Kansas	Clay	pcnt_pop_in_viol	0
+20029	Kansas	Cloud	pcnt_pop_in_viol	0
+20031	Kansas	Coffey	pcnt_pop_in_viol	0
+20033	Kansas	Comanche	pcnt_pop_in_viol	0
+20035	Kansas	Cowley	pcnt_pop_in_viol	0
+20037	Kansas	Crawford	pcnt_pop_in_viol	0
+20039	Kansas	Decatur	pcnt_pop_in_viol	88
+20041	Kansas	Dickinson	pcnt_pop_in_viol	18
+20043	Kansas	Doniphan	pcnt_pop_in_viol	1
+20045	Kansas	Douglas	pcnt_pop_in_viol	0
+20047	Kansas	Edwards	pcnt_pop_in_viol	21
+20049	Kansas	Elk	pcnt_pop_in_viol	44
+20051	Kansas	Ellis	pcnt_pop_in_viol	0
+20053	Kansas	Ellsworth	pcnt_pop_in_viol	0
+20055	Kansas	Finney	pcnt_pop_in_viol	79
+20057	Kansas	Ford	pcnt_pop_in_viol	0
+20059	Kansas	Franklin	pcnt_pop_in_viol	0
+20061	Kansas	Geary	pcnt_pop_in_viol	1
+20063	Kansas	Gove	pcnt_pop_in_viol	0
+20065	Kansas	Graham	pcnt_pop_in_viol	8
+20067	Kansas	Grant	pcnt_pop_in_viol	0
+20069	Kansas	Gray	pcnt_pop_in_viol	0
+20071	Kansas	Greeley	pcnt_pop_in_viol	0
+20073	Kansas	Greenwood	pcnt_pop_in_viol	6
+20075	Kansas	Hamilton	pcnt_pop_in_viol	0
+20077	Kansas	Harper	pcnt_pop_in_viol	6
+20079	Kansas	Harvey	pcnt_pop_in_viol	0
+20081	Kansas	Haskell	pcnt_pop_in_viol	0
+20083	Kansas	Hodgeman	pcnt_pop_in_viol	0
+20085	Kansas	Jackson	pcnt_pop_in_viol	0
+20087	Kansas	Jefferson	pcnt_pop_in_viol	18
+20089	Kansas	Jewell	pcnt_pop_in_viol	0
+20091	Kansas	Johnson	pcnt_pop_in_viol	0
+20093	Kansas	Kearny	pcnt_pop_in_viol	76
+20095	Kansas	Kingman	pcnt_pop_in_viol	11
+20097	Kansas	Kiowa	pcnt_pop_in_viol	55
+20099	Kansas	Labette	pcnt_pop_in_viol	0
+20101	Kansas	Lane	pcnt_pop_in_viol	0
+20103	Kansas	Leavenworth	pcnt_pop_in_viol	6
+20105	Kansas	Lincoln	pcnt_pop_in_viol	9
+20107	Kansas	Linn	pcnt_pop_in_viol	18
+20109	Kansas	Logan	pcnt_pop_in_viol	0
+20111	Kansas	Lyon	pcnt_pop_in_viol	0
+20113	Kansas	McPherson	pcnt_pop_in_viol	0
+20115	Kansas	Marion	pcnt_pop_in_viol	24
+20117	Kansas	Marshall	pcnt_pop_in_viol	2
+20119	Kansas	Meade	pcnt_pop_in_viol	0
+20121	Kansas	Miami	pcnt_pop_in_viol	0
+20123	Kansas	Mitchell	pcnt_pop_in_viol	43
+20125	Kansas	Montgomery	pcnt_pop_in_viol	1
+20127	Kansas	Morris	pcnt_pop_in_viol	0
+20129	Kansas	Morton	pcnt_pop_in_viol	0
+20131	Kansas	Nemaha	pcnt_pop_in_viol	0
+20133	Kansas	Neosho	pcnt_pop_in_viol	0
+20135	Kansas	Ness	pcnt_pop_in_viol	0
+20137	Kansas	Norton	pcnt_pop_in_viol	64
+20139	Kansas	Osage	pcnt_pop_in_viol	4
+20141	Kansas	Osborne	pcnt_pop_in_viol	30
+20143	Kansas	Ottawa	pcnt_pop_in_viol	0
+20145	Kansas	Pawnee	pcnt_pop_in_viol	0
+20147	Kansas	Phillips	pcnt_pop_in_viol	0
+20149	Kansas	Pottawatomie	pcnt_pop_in_viol	0
+20151	Kansas	Pratt	pcnt_pop_in_viol	0
+20153	Kansas	Rawlins	pcnt_pop_in_viol	80
+20155	Kansas	Reno	pcnt_pop_in_viol	5
+20157	Kansas	Republic	pcnt_pop_in_viol	0
+20159	Kansas	Rice	pcnt_pop_in_viol	0
+20161	Kansas	Riley	pcnt_pop_in_viol	0
+20163	Kansas	Rooks	pcnt_pop_in_viol	17
+20165	Kansas	Rush	pcnt_pop_in_viol	5
+20167	Kansas	Russell	pcnt_pop_in_viol	5
+20169	Kansas	Saline	pcnt_pop_in_viol	1
+20171	Kansas	Scott	pcnt_pop_in_viol	100
+20173	Kansas	Sedgwick	pcnt_pop_in_viol	2
+20175	Kansas	Seward	pcnt_pop_in_viol	0
+20177	Kansas	Shawnee	pcnt_pop_in_viol	0
+20179	Kansas	Sheridan	pcnt_pop_in_viol	0
+20181	Kansas	Sherman	pcnt_pop_in_viol	0
+20183	Kansas	Smith	pcnt_pop_in_viol	8
+20185	Kansas	Stafford	pcnt_pop_in_viol	45
+20187	Kansas	Stanton	pcnt_pop_in_viol	0
+20189	Kansas	Stevens	pcnt_pop_in_viol	0
+20191	Kansas	Sumner	pcnt_pop_in_viol	53
+20193	Kansas	Thomas	pcnt_pop_in_viol	5
+20195	Kansas	Trego	pcnt_pop_in_viol	0
+20197	Kansas	Wabaunsee	pcnt_pop_in_viol	0
+20199	Kansas	Wallace	pcnt_pop_in_viol	0
+20201	Kansas	Washington	pcnt_pop_in_viol	52
+20203	Kansas	Wichita	pcnt_pop_in_viol	100
+20205	Kansas	Wilson	pcnt_pop_in_viol	26
+20207	Kansas	Woodson	pcnt_pop_in_viol	0
+20209	Kansas	Wyandotte	pcnt_pop_in_viol	0
+21001	Kentucky	Adair	pcnt_pop_in_viol	0
+21003	Kentucky	Allen	pcnt_pop_in_viol	0
+21005	Kentucky	Anderson	pcnt_pop_in_viol	0
+21007	Kentucky	Ballard	pcnt_pop_in_viol	0
+21009	Kentucky	Barren	pcnt_pop_in_viol	0
+21011	Kentucky	Bath	pcnt_pop_in_viol	0
+21013	Kentucky	Bell	pcnt_pop_in_viol	1
+21015	Kentucky	Boone	pcnt_pop_in_viol	0
+21017	Kentucky	Bourbon	pcnt_pop_in_viol	86
+21019	Kentucky	Boyd	pcnt_pop_in_viol	65
+21021	Kentucky	Boyle	pcnt_pop_in_viol	4
+21023	Kentucky	Bracken	pcnt_pop_in_viol	11
+21025	Kentucky	Breathitt	pcnt_pop_in_viol	83
+21027	Kentucky	Breckinridge	pcnt_pop_in_viol	0
+21029	Kentucky	Bullitt	pcnt_pop_in_viol	0
+21031	Kentucky	Butler	pcnt_pop_in_viol	0
+21033	Kentucky	Caldwell	pcnt_pop_in_viol	0
+21035	Kentucky	Calloway	pcnt_pop_in_viol	83
+21037	Kentucky	Campbell	pcnt_pop_in_viol	0
+21039	Kentucky	Carlisle	pcnt_pop_in_viol	0
+21041	Kentucky	Carroll	pcnt_pop_in_viol	0
+21043	Kentucky	Carter	pcnt_pop_in_viol	37
+21045	Kentucky	Casey	pcnt_pop_in_viol	0
+21047	Kentucky	Christian	pcnt_pop_in_viol	0
+21049	Kentucky	Clark	pcnt_pop_in_viol	0
+21051	Kentucky	Clay	pcnt_pop_in_viol	0
+21053	Kentucky	Clinton	pcnt_pop_in_viol	0
+21055	Kentucky	Crittenden	pcnt_pop_in_viol	100
+21057	Kentucky	Cumberland	pcnt_pop_in_viol	0
+21059	Kentucky	Daviess	pcnt_pop_in_viol	0
+21061	Kentucky	Edmonson	pcnt_pop_in_viol	81
+21063	Kentucky	Elliott	pcnt_pop_in_viol	0
+21065	Kentucky	Estill	pcnt_pop_in_viol	0
+21067	Kentucky	Fayette	pcnt_pop_in_viol	0
+21069	Kentucky	Fleming	pcnt_pop_in_viol	0
+21071	Kentucky	Floyd	pcnt_pop_in_viol	95
+21073	Kentucky	Franklin	pcnt_pop_in_viol	0
+21075	Kentucky	Fulton	pcnt_pop_in_viol	0
+21077	Kentucky	Gallatin	pcnt_pop_in_viol	0
+21079	Kentucky	Garrard	pcnt_pop_in_viol	78
+21081	Kentucky	Grant	pcnt_pop_in_viol	18
+21083	Kentucky	Graves	pcnt_pop_in_viol	0
+21085	Kentucky	Grayson	pcnt_pop_in_viol	0
+21087	Kentucky	Green	pcnt_pop_in_viol	0
+21089	Kentucky	Greenup	pcnt_pop_in_viol	29
+21091	Kentucky	Hancock	pcnt_pop_in_viol	0
+21093	Kentucky	Hardin	pcnt_pop_in_viol	0
+21095	Kentucky	Harlan	pcnt_pop_in_viol	23
+21097	Kentucky	Harrison	pcnt_pop_in_viol	67
+21099	Kentucky	Hart	pcnt_pop_in_viol	0
+21101	Kentucky	Henderson	pcnt_pop_in_viol	0
+21103	Kentucky	Henry	pcnt_pop_in_viol	0
+21105	Kentucky	Hickman	pcnt_pop_in_viol	0
+21107	Kentucky	Hopkins	pcnt_pop_in_viol	6
+21109	Kentucky	Jackson	pcnt_pop_in_viol	0
+21111	Kentucky	Jefferson	pcnt_pop_in_viol	0
+21113	Kentucky	Jessamine	pcnt_pop_in_viol	14
+21115	Kentucky	Johnson	pcnt_pop_in_viol	0
+21117	Kentucky	Kenton	pcnt_pop_in_viol	0
+21119	Kentucky	Knott	pcnt_pop_in_viol	62
+21121	Kentucky	Knox	pcnt_pop_in_viol	0
+21123	Kentucky	Larue	pcnt_pop_in_viol	0
+21125	Kentucky	Laurel	pcnt_pop_in_viol	0
+21127	Kentucky	Lawrence	pcnt_pop_in_viol	0
+21129	Kentucky	Lee	pcnt_pop_in_viol	82
+21131	Kentucky	Leslie	pcnt_pop_in_viol	0
+21133	Kentucky	Letcher	pcnt_pop_in_viol	27
+21135	Kentucky	Lewis	pcnt_pop_in_viol	0
+21137	Kentucky	Lincoln	pcnt_pop_in_viol	0
+21139	Kentucky	Livingston	pcnt_pop_in_viol	0
+21141	Kentucky	Logan	pcnt_pop_in_viol	0
+21143	Kentucky	Lyon	pcnt_pop_in_viol	7
+21145	Kentucky	McCracken	pcnt_pop_in_viol	0
+21147	Kentucky	McCreary	pcnt_pop_in_viol	0
+21149	Kentucky	McLean	pcnt_pop_in_viol	24
+21151	Kentucky	Madison	pcnt_pop_in_viol	31
+21153	Kentucky	Magoffin	pcnt_pop_in_viol	23
+21155	Kentucky	Marion	pcnt_pop_in_viol	0
+21157	Kentucky	Marshall	pcnt_pop_in_viol	0
+21159	Kentucky	Martin	pcnt_pop_in_viol	100
+21161	Kentucky	Mason	pcnt_pop_in_viol	53
+21163	Kentucky	Meade	pcnt_pop_in_viol	0
+21165	Kentucky	Menifee	pcnt_pop_in_viol	0
+21167	Kentucky	Mercer	pcnt_pop_in_viol	18
+21169	Kentucky	Metcalfe	pcnt_pop_in_viol	0
+21171	Kentucky	Monroe	pcnt_pop_in_viol	24
+21173	Kentucky	Montgomery	pcnt_pop_in_viol	15
+21175	Kentucky	Morgan	pcnt_pop_in_viol	27
+21177	Kentucky	Muhlenberg	pcnt_pop_in_viol	0
+21179	Kentucky	Nelson	pcnt_pop_in_viol	61
+21181	Kentucky	Nicholas	pcnt_pop_in_viol	35
+21183	Kentucky	Ohio	pcnt_pop_in_viol	77
+21185	Kentucky	Oldham	pcnt_pop_in_viol	0
+21187	Kentucky	Owen	pcnt_pop_in_viol	0
+21189	Kentucky	Owsley	pcnt_pop_in_viol	0
+21191	Kentucky	Pendleton	pcnt_pop_in_viol	25
+21193	Kentucky	Perry	pcnt_pop_in_viol	0
+21195	Kentucky	Pike	pcnt_pop_in_viol	0
+21197	Kentucky	Powell	pcnt_pop_in_viol	0
+21199	Kentucky	Pulaski	pcnt_pop_in_viol	29
+21201	Kentucky	Robertson	pcnt_pop_in_viol	0
+21203	Kentucky	Rockcastle	pcnt_pop_in_viol	0
+21205	Kentucky	Rowan	pcnt_pop_in_viol	18
+21207	Kentucky	Russell	pcnt_pop_in_viol	0
+21209	Kentucky	Scott	pcnt_pop_in_viol	0
+21211	Kentucky	Shelby	pcnt_pop_in_viol	0
+21213	Kentucky	Simpson	pcnt_pop_in_viol	0
+21215	Kentucky	Spencer	pcnt_pop_in_viol	0
+21217	Kentucky	Taylor	pcnt_pop_in_viol	0
+21219	Kentucky	Todd	pcnt_pop_in_viol	0
+21221	Kentucky	Trigg	pcnt_pop_in_viol	0
+21223	Kentucky	Trimble	pcnt_pop_in_viol	0
+21225	Kentucky	Union	pcnt_pop_in_viol	21
+21227	Kentucky	Warren	pcnt_pop_in_viol	45
+21229	Kentucky	Washington	pcnt_pop_in_viol	0
+21231	Kentucky	Wayne	pcnt_pop_in_viol	0
+21233	Kentucky	Webster	pcnt_pop_in_viol	0
+21235	Kentucky	Whitley	pcnt_pop_in_viol	0
+21237	Kentucky	Wolfe	pcnt_pop_in_viol	100
+21239	Kentucky	Woodford	pcnt_pop_in_viol	0
+22001	Louisiana	Acadia	pcnt_pop_in_viol	0
+22003	Louisiana	Allen	pcnt_pop_in_viol	9
+22005	Louisiana	Ascension	pcnt_pop_in_viol	40
+22007	Louisiana	Assumption	pcnt_pop_in_viol	0
+22009	Louisiana	Avoyelles	pcnt_pop_in_viol	4
+22011	Louisiana	Beauregard	pcnt_pop_in_viol	61
+22013	Louisiana	Bienville	pcnt_pop_in_viol	14
+22015	Louisiana	Bossier	pcnt_pop_in_viol	2
+22017	Louisiana	Caddo	pcnt_pop_in_viol	84
+22019	Louisiana	Calcasieu	pcnt_pop_in_viol	3
+22021	Louisiana	Caldwell	pcnt_pop_in_viol	0
+22023	Louisiana	Cameron	pcnt_pop_in_viol	58
+22025	Louisiana	Catahoula	pcnt_pop_in_viol	5
+22027	Louisiana	Claiborne	pcnt_pop_in_viol	0
+22029	Louisiana	Concordia	pcnt_pop_in_viol	27
+22031	Louisiana	De Soto	pcnt_pop_in_viol	50
+22033	Louisiana	East Baton Rouge	pcnt_pop_in_viol	0
+22035	Louisiana	East Carroll	pcnt_pop_in_viol	0
+22037	Louisiana	East Feliciana	pcnt_pop_in_viol	43
+22039	Louisiana	Evangeline	pcnt_pop_in_viol	0
+22041	Louisiana	Franklin	pcnt_pop_in_viol	0
+22043	Louisiana	Grant	pcnt_pop_in_viol	24
+22045	Louisiana	Iberia	pcnt_pop_in_viol	10
+22047	Louisiana	Iberville	pcnt_pop_in_viol	0
+22049	Louisiana	Jackson	pcnt_pop_in_viol	14
+22051	Louisiana	Jefferson	pcnt_pop_in_viol	0
+22053	Louisiana	Jefferson Davis	pcnt_pop_in_viol	31
+22055	Louisiana	Lafayette	pcnt_pop_in_viol	9
+22057	Louisiana	Lafourche	pcnt_pop_in_viol	0
+22059	Louisiana	La Salle	pcnt_pop_in_viol	9
+22061	Louisiana	Lincoln	pcnt_pop_in_viol	0
+22063	Louisiana	Livingston	pcnt_pop_in_viol	5
+22065	Louisiana	Madison	pcnt_pop_in_viol	8
+22067	Louisiana	Morehouse	pcnt_pop_in_viol	7
+22069	Louisiana	Natchitoches	pcnt_pop_in_viol	62
+22071	Louisiana	Orleans	pcnt_pop_in_viol	0
+22073	Louisiana	Ouachita	pcnt_pop_in_viol	15
+22075	Louisiana	Plaquemines	pcnt_pop_in_viol	0
+22077	Louisiana	Pointe Coupee	pcnt_pop_in_viol	6
+22079	Louisiana	Rapides	pcnt_pop_in_viol	18
+22081	Louisiana	Red River	pcnt_pop_in_viol	3
+22083	Louisiana	Richland	pcnt_pop_in_viol	23
+22085	Louisiana	Sabine	pcnt_pop_in_viol	48
+22087	Louisiana	St. Bernard	pcnt_pop_in_viol	100
+22089	Louisiana	St. Charles	pcnt_pop_in_viol	0
+22091	Louisiana	St. Helena	pcnt_pop_in_viol	0
+22093	Louisiana	St. James	pcnt_pop_in_viol	12
+22095	Louisiana	St. John the Baptist	pcnt_pop_in_viol	1
+22097	Louisiana	St. Landry	pcnt_pop_in_viol	10
+22099	Louisiana	St. Martin	pcnt_pop_in_viol	4
+22101	Louisiana	St. Mary	pcnt_pop_in_viol	13
+22103	Louisiana	St. Tammany	pcnt_pop_in_viol	15
+22105	Louisiana	Tangipahoa	pcnt_pop_in_viol	6
+22107	Louisiana	Tensas	pcnt_pop_in_viol	9
+22109	Louisiana	Terrebonne	pcnt_pop_in_viol	0
+22111	Louisiana	Union	pcnt_pop_in_viol	39
+22113	Louisiana	Vermilion	pcnt_pop_in_viol	32
+22115	Louisiana	Vernon	pcnt_pop_in_viol	0
+22117	Louisiana	Washington	pcnt_pop_in_viol	17
+22119	Louisiana	Webster	pcnt_pop_in_viol	9
+22121	Louisiana	West Baton Rouge	pcnt_pop_in_viol	35
+22123	Louisiana	West Carroll	pcnt_pop_in_viol	0
+22125	Louisiana	West Feliciana	pcnt_pop_in_viol	0
+22127	Louisiana	Winn	pcnt_pop_in_viol	63
+23001	Maine	Androscoggin	pcnt_pop_in_viol	1
+23003	Maine	Aroostook	pcnt_pop_in_viol	25
+23005	Maine	Cumberland	pcnt_pop_in_viol	0
+23007	Maine	Franklin	pcnt_pop_in_viol	6
+23009	Maine	Hancock	pcnt_pop_in_viol	1
+23011	Maine	Kennebec	pcnt_pop_in_viol	0
+23013	Maine	Knox	pcnt_pop_in_viol	9
+23015	Maine	Lincoln	pcnt_pop_in_viol	1
+23017	Maine	Oxford	pcnt_pop_in_viol	4
+23019	Maine	Penobscot	pcnt_pop_in_viol	8
+23021	Maine	Piscataquis	pcnt_pop_in_viol	21
+23023	Maine	Sagadahoc	pcnt_pop_in_viol	12
+23025	Maine	Somerset	pcnt_pop_in_viol	1
+23027	Maine	Waldo	pcnt_pop_in_viol	2
+23029	Maine	Washington	pcnt_pop_in_viol	16
+23031	Maine	York	pcnt_pop_in_viol	0
+24001	Maryland	Allegany	pcnt_pop_in_viol	1
+24003	Maryland	Anne Arundel	pcnt_pop_in_viol	0
+24005	Maryland	Baltimore	pcnt_pop_in_viol	0
+24009	Maryland	Calvert	pcnt_pop_in_viol	0
+24011	Maryland	Caroline	pcnt_pop_in_viol	3
+24013	Maryland	Carroll	pcnt_pop_in_viol	0
+24015	Maryland	Cecil	pcnt_pop_in_viol	9
+24017	Maryland	Charles	pcnt_pop_in_viol	0
+24019	Maryland	Dorchester	pcnt_pop_in_viol	1
+24021	Maryland	Frederick	pcnt_pop_in_viol	0
+24023	Maryland	Garrett	pcnt_pop_in_viol	21
+24025	Maryland	Harford	pcnt_pop_in_viol	4
+24027	Maryland	Howard	pcnt_pop_in_viol	0
+24029	Maryland	Kent	pcnt_pop_in_viol	0
+24031	Maryland	Montgomery	pcnt_pop_in_viol	0
+24033	Maryland	Prince George's	pcnt_pop_in_viol	0
+24035	Maryland	Queen Anne's	pcnt_pop_in_viol	0
+24037	Maryland	St. Mary's	pcnt_pop_in_viol	0
+24039	Maryland	Somerset	pcnt_pop_in_viol	0
+24041	Maryland	Talbot	pcnt_pop_in_viol	0
+24043	Maryland	Washington	pcnt_pop_in_viol	1
+24045	Maryland	Wicomico	pcnt_pop_in_viol	3
+24047	Maryland	Worcester	pcnt_pop_in_viol	0
+24510	Maryland	Baltimore City	pcnt_pop_in_viol	
+25001	Massachusetts	Barnstable	pcnt_pop_in_viol	17
+25003	Massachusetts	Berkshire	pcnt_pop_in_viol	1
+25005	Massachusetts	Bristol	pcnt_pop_in_viol	11
+25007	Massachusetts	Dukes	pcnt_pop_in_viol	28
+25009	Massachusetts	Essex	pcnt_pop_in_viol	2
+25011	Massachusetts	Franklin	pcnt_pop_in_viol	35
+25013	Massachusetts	Hampden	pcnt_pop_in_viol	12
+25015	Massachusetts	Hampshire	pcnt_pop_in_viol	4
+25017	Massachusetts	Middlesex	pcnt_pop_in_viol	7
+25019	Massachusetts	Nantucket	pcnt_pop_in_viol	86
+25021	Massachusetts	Norfolk	pcnt_pop_in_viol	16
+25023	Massachusetts	Plymouth	pcnt_pop_in_viol	29
+25025	Massachusetts	Suffolk	pcnt_pop_in_viol	0
+25027	Massachusetts	Worcester	pcnt_pop_in_viol	14
+26001	Michigan	Alcona	pcnt_pop_in_viol	0
+26003	Michigan	Alger	pcnt_pop_in_viol	76
+26005	Michigan	Allegan	pcnt_pop_in_viol	0
+26007	Michigan	Alpena	pcnt_pop_in_viol	0
+26009	Michigan	Antrim	pcnt_pop_in_viol	12
+26011	Michigan	Arenac	pcnt_pop_in_viol	0
+26013	Michigan	Baraga	pcnt_pop_in_viol	0
+26015	Michigan	Barry	pcnt_pop_in_viol	1
+26017	Michigan	Bay	pcnt_pop_in_viol	0
+26019	Michigan	Benzie	pcnt_pop_in_viol	0
+26021	Michigan	Berrien	pcnt_pop_in_viol	12
+26023	Michigan	Branch	pcnt_pop_in_viol	0
+26025	Michigan	Calhoun	pcnt_pop_in_viol	1
+26027	Michigan	Cass	pcnt_pop_in_viol	0
+26029	Michigan	Charlevoix	pcnt_pop_in_viol	0
+26031	Michigan	Cheboygan	pcnt_pop_in_viol	0
+26033	Michigan	Chippewa	pcnt_pop_in_viol	0
+26035	Michigan	Clare	pcnt_pop_in_viol	0
+26037	Michigan	Clinton	pcnt_pop_in_viol	0
+26039	Michigan	Crawford	pcnt_pop_in_viol	0
+26041	Michigan	Delta	pcnt_pop_in_viol	0
+26043	Michigan	Dickinson	pcnt_pop_in_viol	50
+26045	Michigan	Eaton	pcnt_pop_in_viol	0
+26047	Michigan	Emmet	pcnt_pop_in_viol	3
+26049	Michigan	Genesee	pcnt_pop_in_viol	0
+26051	Michigan	Gladwin	pcnt_pop_in_viol	2
+26053	Michigan	Gogebic	pcnt_pop_in_viol	6
+26055	Michigan	Grand Traverse	pcnt_pop_in_viol	0
+26057	Michigan	Gratiot	pcnt_pop_in_viol	0
+26059	Michigan	Hillsdale	pcnt_pop_in_viol	1
+26061	Michigan	Houghton	pcnt_pop_in_viol	4
+26063	Michigan	Huron	pcnt_pop_in_viol	0
+26065	Michigan	Ingham	pcnt_pop_in_viol	0
+26067	Michigan	Ionia	pcnt_pop_in_viol	4
+26069	Michigan	Iosco	pcnt_pop_in_viol	0
+26071	Michigan	Iron	pcnt_pop_in_viol	50
+26073	Michigan	Isabella	pcnt_pop_in_viol	0
+26075	Michigan	Jackson	pcnt_pop_in_viol	0
+26077	Michigan	Kalamazoo	pcnt_pop_in_viol	0
+26079	Michigan	Kalkaska	pcnt_pop_in_viol	1
+26081	Michigan	Kent	pcnt_pop_in_viol	1
+26083	Michigan	Keweenaw	pcnt_pop_in_viol	10
+26085	Michigan	Lake	pcnt_pop_in_viol	72
+26087	Michigan	Lapeer	pcnt_pop_in_viol	0
+26089	Michigan	Leelanau	pcnt_pop_in_viol	0
+26091	Michigan	Lenawee	pcnt_pop_in_viol	0
+26093	Michigan	Livingston	pcnt_pop_in_viol	0
+26095	Michigan	Luce	pcnt_pop_in_viol	13
+26097	Michigan	Mackinac	pcnt_pop_in_viol	0
+26099	Michigan	Macomb	pcnt_pop_in_viol	2
+26101	Michigan	Manistee	pcnt_pop_in_viol	3
+26103	Michigan	Marquette	pcnt_pop_in_viol	6
+26105	Michigan	Mason	pcnt_pop_in_viol	0
+26107	Michigan	Mecosta	pcnt_pop_in_viol	1
+26109	Michigan	Menominee	pcnt_pop_in_viol	2
+26111	Michigan	Midland	pcnt_pop_in_viol	0
+26113	Michigan	Missaukee	pcnt_pop_in_viol	0
+26115	Michigan	Monroe	pcnt_pop_in_viol	0
+26117	Michigan	Montcalm	pcnt_pop_in_viol	0
+26119	Michigan	Montmorency	pcnt_pop_in_viol	0
+26121	Michigan	Muskegon	pcnt_pop_in_viol	0
+26123	Michigan	Newaygo	pcnt_pop_in_viol	0
+26125	Michigan	Oakland	pcnt_pop_in_viol	0
+26127	Michigan	Oceana	pcnt_pop_in_viol	0
+26129	Michigan	Ogemaw	pcnt_pop_in_viol	0
+26131	Michigan	Ontonagon	pcnt_pop_in_viol	0
+26133	Michigan	Osceola	pcnt_pop_in_viol	0
+26135	Michigan	Oscoda	pcnt_pop_in_viol	0
+26137	Michigan	Otsego	pcnt_pop_in_viol	4
+26139	Michigan	Ottawa	pcnt_pop_in_viol	0
+26141	Michigan	Presque Isle	pcnt_pop_in_viol	0
+26143	Michigan	Roscommon	pcnt_pop_in_viol	8
+26145	Michigan	Saginaw	pcnt_pop_in_viol	1
+26147	Michigan	St. Clair	pcnt_pop_in_viol	0
+26149	Michigan	St. Joseph	pcnt_pop_in_viol	6
+26151	Michigan	Sanilac	pcnt_pop_in_viol	7
+26153	Michigan	Schoolcraft	pcnt_pop_in_viol	0
+26155	Michigan	Shiawassee	pcnt_pop_in_viol	1
+26157	Michigan	Tuscola	pcnt_pop_in_viol	0
+26159	Michigan	Van Buren	pcnt_pop_in_viol	0
+26161	Michigan	Washtenaw	pcnt_pop_in_viol	0
+26163	Michigan	Wayne	pcnt_pop_in_viol	0
+26165	Michigan	Wexford	pcnt_pop_in_viol	0
+27001	Minnesota	Aitkin	pcnt_pop_in_viol	65
+27003	Minnesota	Anoka	pcnt_pop_in_viol	0
+27005	Minnesota	Becker	pcnt_pop_in_viol	0
+27007	Minnesota	Beltrami	pcnt_pop_in_viol	0
+27009	Minnesota	Benton	pcnt_pop_in_viol	15
+27011	Minnesota	Big Stone	pcnt_pop_in_viol	1
+27013	Minnesota	Blue Earth	pcnt_pop_in_viol	1
+27015	Minnesota	Brown	pcnt_pop_in_viol	0
+27017	Minnesota	Carlton	pcnt_pop_in_viol	0
+27019	Minnesota	Carver	pcnt_pop_in_viol	0
+27021	Minnesota	Cass	pcnt_pop_in_viol	7
+27023	Minnesota	Chippewa	pcnt_pop_in_viol	3
+27025	Minnesota	Chisago	pcnt_pop_in_viol	5
+27027	Minnesota	Clay	pcnt_pop_in_viol	8
+27029	Minnesota	Clearwater	pcnt_pop_in_viol	0
+27031	Minnesota	Cook	pcnt_pop_in_viol	0
+27033	Minnesota	Cottonwood	pcnt_pop_in_viol	0
+27035	Minnesota	Crow Wing	pcnt_pop_in_viol	0
+27037	Minnesota	Dakota	pcnt_pop_in_viol	0
+27039	Minnesota	Dodge	pcnt_pop_in_viol	5
+27041	Minnesota	Douglas	pcnt_pop_in_viol	0
+27043	Minnesota	Faribault	pcnt_pop_in_viol	0
+27045	Minnesota	Fillmore	pcnt_pop_in_viol	8
+27047	Minnesota	Freeborn	pcnt_pop_in_viol	1
+27049	Minnesota	Goodhue	pcnt_pop_in_viol	0
+27051	Minnesota	Grant	pcnt_pop_in_viol	18
+27053	Minnesota	Hennepin	pcnt_pop_in_viol	0
+27055	Minnesota	Houston	pcnt_pop_in_viol	0
+27057	Minnesota	Hubbard	pcnt_pop_in_viol	0
+27059	Minnesota	Isanti	pcnt_pop_in_viol	0
+27061	Minnesota	Itasca	pcnt_pop_in_viol	7
+27063	Minnesota	Jackson	pcnt_pop_in_viol	0
+27065	Minnesota	Kanabec	pcnt_pop_in_viol	0
+27067	Minnesota	Kandiyohi	pcnt_pop_in_viol	0
+27069	Minnesota	Kittson	pcnt_pop_in_viol	0
+27071	Minnesota	Koochiching	pcnt_pop_in_viol	3
+27073	Minnesota	Lac qui Parle	pcnt_pop_in_viol	0
+27075	Minnesota	Lake	pcnt_pop_in_viol	3
+27077	Minnesota	Lake of the Woods	pcnt_pop_in_viol	0
+27079	Minnesota	Le Sueur	pcnt_pop_in_viol	0
+27081	Minnesota	Lincoln	pcnt_pop_in_viol	0
+27083	Minnesota	Lyon	pcnt_pop_in_viol	0
+27085	Minnesota	McLeod	pcnt_pop_in_viol	2
+27087	Minnesota	Mahnomen	pcnt_pop_in_viol	0
+27089	Minnesota	Marshall	pcnt_pop_in_viol	0
+27091	Minnesota	Martin	pcnt_pop_in_viol	2
+27093	Minnesota	Meeker	pcnt_pop_in_viol	0
+27095	Minnesota	Mille Lacs	pcnt_pop_in_viol	0
+27097	Minnesota	Morrison	pcnt_pop_in_viol	0
+27099	Minnesota	Mower	pcnt_pop_in_viol	0
+27101	Minnesota	Murray	pcnt_pop_in_viol	3
+27103	Minnesota	Nicollet	pcnt_pop_in_viol	0
+27105	Minnesota	Nobles	pcnt_pop_in_viol	2
+27107	Minnesota	Norman	pcnt_pop_in_viol	0
+27109	Minnesota	Olmsted	pcnt_pop_in_viol	0
+27111	Minnesota	Otter Tail	pcnt_pop_in_viol	0
+27113	Minnesota	Pennington	pcnt_pop_in_viol	0
+27115	Minnesota	Pine	pcnt_pop_in_viol	27
+27117	Minnesota	Pipestone	pcnt_pop_in_viol	64
+27119	Minnesota	Polk	pcnt_pop_in_viol	1
+27121	Minnesota	Pope	pcnt_pop_in_viol	6
+27123	Minnesota	Ramsey	pcnt_pop_in_viol	0
+27125	Minnesota	Red Lake	pcnt_pop_in_viol	0
+27127	Minnesota	Redwood	pcnt_pop_in_viol	0
+27129	Minnesota	Renville	pcnt_pop_in_viol	0
+27131	Minnesota	Rice	pcnt_pop_in_viol	0
+27133	Minnesota	Rock	pcnt_pop_in_viol	0
+27135	Minnesota	Roseau	pcnt_pop_in_viol	0
+27137	Minnesota	St. Louis	pcnt_pop_in_viol	0
+27139	Minnesota	Scott	pcnt_pop_in_viol	0
+27141	Minnesota	Sherburne	pcnt_pop_in_viol	0
+27143	Minnesota	Sibley	pcnt_pop_in_viol	0
+27145	Minnesota	Stearns	pcnt_pop_in_viol	3
+27147	Minnesota	Steele	pcnt_pop_in_viol	4
+27149	Minnesota	Stevens	pcnt_pop_in_viol	0
+27151	Minnesota	Swift	pcnt_pop_in_viol	0
+27153	Minnesota	Todd	pcnt_pop_in_viol	0
+27155	Minnesota	Traverse	pcnt_pop_in_viol	0
+27157	Minnesota	Wabasha	pcnt_pop_in_viol	1
+27159	Minnesota	Wadena	pcnt_pop_in_viol	0
+27161	Minnesota	Waseca	pcnt_pop_in_viol	1
+27163	Minnesota	Washington	pcnt_pop_in_viol	2
+27165	Minnesota	Watonwan	pcnt_pop_in_viol	0
+27167	Minnesota	Wilkin	pcnt_pop_in_viol	0
+27169	Minnesota	Winona	pcnt_pop_in_viol	5
+27171	Minnesota	Wright	pcnt_pop_in_viol	8
+27173	Minnesota	Yellow Medicine	pcnt_pop_in_viol	0
+28001	Mississippi	Adams	pcnt_pop_in_viol	0
+28003	Mississippi	Alcorn	pcnt_pop_in_viol	0
+28005	Mississippi	Amite	pcnt_pop_in_viol	0
+28007	Mississippi	Attala	pcnt_pop_in_viol	6
+28009	Mississippi	Benton	pcnt_pop_in_viol	0
+28011	Mississippi	Bolivar	pcnt_pop_in_viol	0
+28013	Mississippi	Calhoun	pcnt_pop_in_viol	0
+28015	Mississippi	Carroll	pcnt_pop_in_viol	0
+28017	Mississippi	Chickasaw	pcnt_pop_in_viol	0
+28019	Mississippi	Choctaw	pcnt_pop_in_viol	0
+28021	Mississippi	Claiborne	pcnt_pop_in_viol	25
+28023	Mississippi	Clarke	pcnt_pop_in_viol	0
+28025	Mississippi	Clay	pcnt_pop_in_viol	0
+28027	Mississippi	Coahoma	pcnt_pop_in_viol	2
+28029	Mississippi	Copiah	pcnt_pop_in_viol	0
+28031	Mississippi	Covington	pcnt_pop_in_viol	16
+28033	Mississippi	DeSoto	pcnt_pop_in_viol	0
+28035	Mississippi	Forrest	pcnt_pop_in_viol	7
+28037	Mississippi	Franklin	pcnt_pop_in_viol	0
+28039	Mississippi	George	pcnt_pop_in_viol	0
+28041	Mississippi	Greene	pcnt_pop_in_viol	0
+28043	Mississippi	Grenada	pcnt_pop_in_viol	0
+28045	Mississippi	Hancock	pcnt_pop_in_viol	7
+28047	Mississippi	Harrison	pcnt_pop_in_viol	0
+28049	Mississippi	Hinds	pcnt_pop_in_viol	9
+28051	Mississippi	Holmes	pcnt_pop_in_viol	0
+28053	Mississippi	Humphreys	pcnt_pop_in_viol	0
+28055	Mississippi	Issaquena	pcnt_pop_in_viol	50
+28057	Mississippi	Itawamba	pcnt_pop_in_viol	12
+28059	Mississippi	Jackson	pcnt_pop_in_viol	14
+28061	Mississippi	Jasper	pcnt_pop_in_viol	12
+28063	Mississippi	Jefferson	pcnt_pop_in_viol	24
+28065	Mississippi	Jefferson Davis	pcnt_pop_in_viol	0
+28067	Mississippi	Jones	pcnt_pop_in_viol	3
+28069	Mississippi	Kemper	pcnt_pop_in_viol	0
+28071	Mississippi	Lafayette	pcnt_pop_in_viol	29
+28073	Mississippi	Lamar	pcnt_pop_in_viol	15
+28075	Mississippi	Lauderdale	pcnt_pop_in_viol	5
+28077	Mississippi	Lawrence	pcnt_pop_in_viol	0
+28079	Mississippi	Leake	pcnt_pop_in_viol	17
+28081	Mississippi	Lee	pcnt_pop_in_viol	10
+28083	Mississippi	Leflore	pcnt_pop_in_viol	62
+28085	Mississippi	Lincoln	pcnt_pop_in_viol	0
+28087	Mississippi	Lowndes	pcnt_pop_in_viol	0
+28089	Mississippi	Madison	pcnt_pop_in_viol	3
+28091	Mississippi	Marion	pcnt_pop_in_viol	1
+28093	Mississippi	Marshall	pcnt_pop_in_viol	0
+28095	Mississippi	Monroe	pcnt_pop_in_viol	0
+28097	Mississippi	Montgomery	pcnt_pop_in_viol	39
+28099	Mississippi	Neshoba	pcnt_pop_in_viol	0
+28101	Mississippi	Newton	pcnt_pop_in_viol	0
+28103	Mississippi	Noxubee	pcnt_pop_in_viol	0
+28105	Mississippi	Oktibbeha	pcnt_pop_in_viol	0
+28107	Mississippi	Panola	pcnt_pop_in_viol	0
+28109	Mississippi	Pearl River	pcnt_pop_in_viol	0
+28111	Mississippi	Perry	pcnt_pop_in_viol	21
+28113	Mississippi	Pike	pcnt_pop_in_viol	4
+28115	Mississippi	Pontotoc	pcnt_pop_in_viol	4
+28117	Mississippi	Prentiss	pcnt_pop_in_viol	0
+28119	Mississippi	Quitman	pcnt_pop_in_viol	5
+28121	Mississippi	Rankin	pcnt_pop_in_viol	15
+28123	Mississippi	Scott	pcnt_pop_in_viol	16
+28125	Mississippi	Sharkey	pcnt_pop_in_viol	79
+28127	Mississippi	Simpson	pcnt_pop_in_viol	2
+28129	Mississippi	Smith	pcnt_pop_in_viol	12
+28131	Mississippi	Stone	pcnt_pop_in_viol	0
+28133	Mississippi	Sunflower	pcnt_pop_in_viol	19
+28135	Mississippi	Tallahatchie	pcnt_pop_in_viol	11
+28137	Mississippi	Tate	pcnt_pop_in_viol	4
+28139	Mississippi	Tippah	pcnt_pop_in_viol	0
+28141	Mississippi	Tishomingo	pcnt_pop_in_viol	0
+28143	Mississippi	Tunica	pcnt_pop_in_viol	0
+28145	Mississippi	Union	pcnt_pop_in_viol	0
+28147	Mississippi	Walthall	pcnt_pop_in_viol	0
+28149	Mississippi	Warren	pcnt_pop_in_viol	11
+28151	Mississippi	Washington	pcnt_pop_in_viol	65
+28153	Mississippi	Wayne	pcnt_pop_in_viol	43
+28155	Mississippi	Webster	pcnt_pop_in_viol	3
+28157	Mississippi	Wilkinson	pcnt_pop_in_viol	0
+28159	Mississippi	Winston	pcnt_pop_in_viol	2
+28161	Mississippi	Yalobusha	pcnt_pop_in_viol	0
+28163	Mississippi	Yazoo	pcnt_pop_in_viol	1
+29001	Missouri	Adair	pcnt_pop_in_viol	2
+29003	Missouri	Andrew	pcnt_pop_in_viol	1
+29005	Missouri	Atchison	pcnt_pop_in_viol	45
+29007	Missouri	Audrain	pcnt_pop_in_viol	16
+29009	Missouri	Barry	pcnt_pop_in_viol	0
+29011	Missouri	Barton	pcnt_pop_in_viol	0
+29013	Missouri	Bates	pcnt_pop_in_viol	7
+29015	Missouri	Benton	pcnt_pop_in_viol	4
+29017	Missouri	Bollinger	pcnt_pop_in_viol	0
+29019	Missouri	Boone	pcnt_pop_in_viol	0
+29021	Missouri	Buchanan	pcnt_pop_in_viol	0
+29023	Missouri	Butler	pcnt_pop_in_viol	0
+29025	Missouri	Caldwell	pcnt_pop_in_viol	23
+29027	Missouri	Callaway	pcnt_pop_in_viol	0
+29029	Missouri	Camden	pcnt_pop_in_viol	2
+29031	Missouri	Cape Girardeau	pcnt_pop_in_viol	1
+29033	Missouri	Carroll	pcnt_pop_in_viol	9
+29035	Missouri	Carter	pcnt_pop_in_viol	33
+29037	Missouri	Cass	pcnt_pop_in_viol	4
+29039	Missouri	Cedar	pcnt_pop_in_viol	50
+29041	Missouri	Chariton	pcnt_pop_in_viol	13
+29043	Missouri	Christian	pcnt_pop_in_viol	48
+29045	Missouri	Clark	pcnt_pop_in_viol	0
+29047	Missouri	Clay	pcnt_pop_in_viol	0
+29049	Missouri	Clinton	pcnt_pop_in_viol	0
+29051	Missouri	Cole	pcnt_pop_in_viol	0
+29053	Missouri	Cooper	pcnt_pop_in_viol	23
+29055	Missouri	Crawford	pcnt_pop_in_viol	40
+29057	Missouri	Dade	pcnt_pop_in_viol	0
+29059	Missouri	Dallas	pcnt_pop_in_viol	0
+29061	Missouri	Daviess	pcnt_pop_in_viol	22
+29063	Missouri	DeKalb	pcnt_pop_in_viol	11
+29065	Missouri	Dent	pcnt_pop_in_viol	0
+29067	Missouri	Douglas	pcnt_pop_in_viol	1
+29069	Missouri	Dunklin	pcnt_pop_in_viol	20
+29071	Missouri	Franklin	pcnt_pop_in_viol	33
+29073	Missouri	Gasconade	pcnt_pop_in_viol	0
+29075	Missouri	Gentry	pcnt_pop_in_viol	0
+29077	Missouri	Greene	pcnt_pop_in_viol	0
+29079	Missouri	Grundy	pcnt_pop_in_viol	57
+29081	Missouri	Harrison	pcnt_pop_in_viol	0
+29083	Missouri	Henry	pcnt_pop_in_viol	1
+29085	Missouri	Hickory	pcnt_pop_in_viol	19
+29087	Missouri	Holt	pcnt_pop_in_viol	0
+29089	Missouri	Howard	pcnt_pop_in_viol	4
+29091	Missouri	Howell	pcnt_pop_in_viol	0
+29093	Missouri	Iron	pcnt_pop_in_viol	9
+29095	Missouri	Jackson	pcnt_pop_in_viol	0
+29097	Missouri	Jasper	pcnt_pop_in_viol	1
+29099	Missouri	Jefferson	pcnt_pop_in_viol	2
+29101	Missouri	Johnson	pcnt_pop_in_viol	0
+29103	Missouri	Knox	pcnt_pop_in_viol	0
+29105	Missouri	Laclede	pcnt_pop_in_viol	0
+29107	Missouri	Lafayette	pcnt_pop_in_viol	25
+29109	Missouri	Lawrence	pcnt_pop_in_viol	26
+29111	Missouri	Lewis	pcnt_pop_in_viol	37
+29113	Missouri	Lincoln	pcnt_pop_in_viol	43
+29115	Missouri	Linn	pcnt_pop_in_viol	3
+29117	Missouri	Livingston	pcnt_pop_in_viol	12
+29119	Missouri	McDonald	pcnt_pop_in_viol	20
+29121	Missouri	Macon	pcnt_pop_in_viol	0
+29123	Missouri	Madison	pcnt_pop_in_viol	4
+29125	Missouri	Maries	pcnt_pop_in_viol	74
+29127	Missouri	Marion	pcnt_pop_in_viol	68
+29129	Missouri	Mercer	pcnt_pop_in_viol	0
+29131	Missouri	Miller	pcnt_pop_in_viol	77
+29133	Missouri	Mississippi	pcnt_pop_in_viol	0
+29135	Missouri	Moniteau	pcnt_pop_in_viol	2
+29137	Missouri	Monroe	pcnt_pop_in_viol	0
+29139	Missouri	Montgomery	pcnt_pop_in_viol	21
+29141	Missouri	Morgan	pcnt_pop_in_viol	49
+29143	Missouri	New Madrid	pcnt_pop_in_viol	35
+29145	Missouri	Newton	pcnt_pop_in_viol	1
+29147	Missouri	Nodaway	pcnt_pop_in_viol	2
+29149	Missouri	Oregon	pcnt_pop_in_viol	0
+29151	Missouri	Osage	pcnt_pop_in_viol	0
+29153	Missouri	Ozark	pcnt_pop_in_viol	15
+29155	Missouri	Pemiscot	pcnt_pop_in_viol	0
+29157	Missouri	Perry	pcnt_pop_in_viol	0
+29159	Missouri	Pettis	pcnt_pop_in_viol	6
+29161	Missouri	Phelps	pcnt_pop_in_viol	15
+29163	Missouri	Pike	pcnt_pop_in_viol	2
+29165	Missouri	Platte	pcnt_pop_in_viol	0
+29167	Missouri	Polk	pcnt_pop_in_viol	0
+29169	Missouri	Pulaski	pcnt_pop_in_viol	4
+29171	Missouri	Putnam	pcnt_pop_in_viol	0
+29173	Missouri	Ralls	pcnt_pop_in_viol	0
+29175	Missouri	Randolph	pcnt_pop_in_viol	54
+29177	Missouri	Ray	pcnt_pop_in_viol	0
+29179	Missouri	Reynolds	pcnt_pop_in_viol	63
+29181	Missouri	Ripley	pcnt_pop_in_viol	0
+29183	Missouri	St. Charles	pcnt_pop_in_viol	0
+29185	Missouri	St. Clair	pcnt_pop_in_viol	0
+29186	Missouri	Ste. Genevieve	pcnt_pop_in_viol	27
+29187	Missouri	St. Francois	pcnt_pop_in_viol	58
+29189	Missouri	St. Louis	pcnt_pop_in_viol	0
+29195	Missouri	Saline	pcnt_pop_in_viol	10
+29197	Missouri	Schuyler	pcnt_pop_in_viol	0
+29199	Missouri	Scotland	pcnt_pop_in_viol	0
+29201	Missouri	Scott	pcnt_pop_in_viol	2
+29203	Missouri	Shannon	pcnt_pop_in_viol	0
+29205	Missouri	Shelby	pcnt_pop_in_viol	0
+29207	Missouri	Stoddard	pcnt_pop_in_viol	2
+29209	Missouri	Stone	pcnt_pop_in_viol	5
+29211	Missouri	Sullivan	pcnt_pop_in_viol	0
+29213	Missouri	Taney	pcnt_pop_in_viol	8
+29215	Missouri	Texas	pcnt_pop_in_viol	3
+29217	Missouri	Vernon	pcnt_pop_in_viol	46
+29219	Missouri	Warren	pcnt_pop_in_viol	0
+29221	Missouri	Washington	pcnt_pop_in_viol	71
+29223	Missouri	Wayne	pcnt_pop_in_viol	9
+29225	Missouri	Webster	pcnt_pop_in_viol	36
+29227	Missouri	Worth	pcnt_pop_in_viol	1
+29229	Missouri	Wright	pcnt_pop_in_viol	0
+29510	Missouri	St. Louis City	pcnt_pop_in_viol	
+30001	Montana	Beaverhead	pcnt_pop_in_viol	3
+30003	Montana	Big Horn	pcnt_pop_in_viol	2
+30005	Montana	Blaine	pcnt_pop_in_viol	38
+30007	Montana	Broadwater	pcnt_pop_in_viol	0
+30009	Montana	Carbon	pcnt_pop_in_viol	0
+30011	Montana	Carter	pcnt_pop_in_viol	0
+30013	Montana	Cascade	pcnt_pop_in_viol	12
+30015	Montana	Chouteau	pcnt_pop_in_viol	6
+30017	Montana	Custer	pcnt_pop_in_viol	0
+30019	Montana	Daniels	pcnt_pop_in_viol	7
+30021	Montana	Dawson	pcnt_pop_in_viol	0
+30023	Montana	Deer Lodge	pcnt_pop_in_viol	4
+30025	Montana	Fallon	pcnt_pop_in_viol	0
+30027	Montana	Fergus	pcnt_pop_in_viol	88
+30029	Montana	Flathead	pcnt_pop_in_viol	4
+30031	Montana	Gallatin	pcnt_pop_in_viol	13
+30033	Montana	Garfield	pcnt_pop_in_viol	0
+30035	Montana	Glacier	pcnt_pop_in_viol	79
+30037	Montana	Golden Valley	pcnt_pop_in_viol	76
+30039	Montana	Granite	pcnt_pop_in_viol	0
+30041	Montana	Hill	pcnt_pop_in_viol	1
+30043	Montana	Jefferson	pcnt_pop_in_viol	9
+30045	Montana	Judith Basin	pcnt_pop_in_viol	0
+30047	Montana	Lake	pcnt_pop_in_viol	27
+30049	Montana	Lewis and Clark	pcnt_pop_in_viol	1
+30051	Montana	Liberty	pcnt_pop_in_viol	12
+30053	Montana	Lincoln	pcnt_pop_in_viol	19
+30055	Montana	McCone	pcnt_pop_in_viol	0
+30057	Montana	Madison	pcnt_pop_in_viol	47
+30059	Montana	Meagher	pcnt_pop_in_viol	0
+30061	Montana	Mineral	pcnt_pop_in_viol	0
+30063	Montana	Missoula	pcnt_pop_in_viol	1
+30065	Montana	Musselshell	pcnt_pop_in_viol	0
+30067	Montana	Park	pcnt_pop_in_viol	3
+30069	Montana	Petroleum	pcnt_pop_in_viol	0
+30071	Montana	Phillips	pcnt_pop_in_viol	7
+30073	Montana	Pondera	pcnt_pop_in_viol	8
+30075	Montana	Powder River	pcnt_pop_in_viol	0
+30077	Montana	Powell	pcnt_pop_in_viol	0
+30079	Montana	Prairie	pcnt_pop_in_viol	0
+30081	Montana	Ravalli	pcnt_pop_in_viol	13
+30083	Montana	Richland	pcnt_pop_in_viol	1
+30085	Montana	Roosevelt	pcnt_pop_in_viol	0
+30087	Montana	Rosebud	pcnt_pop_in_viol	13
+30089	Montana	Sanders	pcnt_pop_in_viol	4
+30091	Montana	Sheridan	pcnt_pop_in_viol	8
+30093	Montana	Silver Bow	pcnt_pop_in_viol	94
+30095	Montana	Stillwater	pcnt_pop_in_viol	3
+30097	Montana	Sweet Grass	pcnt_pop_in_viol	0
+30099	Montana	Teton	pcnt_pop_in_viol	7
+30101	Montana	Toole	pcnt_pop_in_viol	1
+30103	Montana	Treasure	pcnt_pop_in_viol	0
+30105	Montana	Valley	pcnt_pop_in_viol	10
+30107	Montana	Wheatland	pcnt_pop_in_viol	0
+30109	Montana	Wibaux	pcnt_pop_in_viol	100
+30111	Montana	Yellowstone	pcnt_pop_in_viol	0
+31001	Nebraska	Adams	pcnt_pop_in_viol	95
+31003	Nebraska	Antelope	pcnt_pop_in_viol	11
+31005	Nebraska	Arthur	pcnt_pop_in_viol	
+31007	Nebraska	Banner	pcnt_pop_in_viol	100
+31009	Nebraska	Blaine	pcnt_pop_in_viol	0
+31011	Nebraska	Boone	pcnt_pop_in_viol	76
+31013	Nebraska	Box Butte	pcnt_pop_in_viol	0
+31015	Nebraska	Boyd	pcnt_pop_in_viol	13
+31017	Nebraska	Brown	pcnt_pop_in_viol	86
+31019	Nebraska	Buffalo	pcnt_pop_in_viol	5
+31021	Nebraska	Burt	pcnt_pop_in_viol	0
+31023	Nebraska	Butler	pcnt_pop_in_viol	18
+31025	Nebraska	Cass	pcnt_pop_in_viol	6
+31027	Nebraska	Cedar	pcnt_pop_in_viol	89
+31029	Nebraska	Chase	pcnt_pop_in_viol	23
+31031	Nebraska	Cherry	pcnt_pop_in_viol	9
+31033	Nebraska	Cheyenne	pcnt_pop_in_viol	7
+31035	Nebraska	Clay	pcnt_pop_in_viol	39
+31037	Nebraska	Colfax	pcnt_pop_in_viol	8
+31039	Nebraska	Cuming	pcnt_pop_in_viol	7
+31041	Nebraska	Custer	pcnt_pop_in_viol	23
+31043	Nebraska	Dakota	pcnt_pop_in_viol	0
+31045	Nebraska	Dawes	pcnt_pop_in_viol	14
+31047	Nebraska	Dawson	pcnt_pop_in_viol	1
+31049	Nebraska	Deuel	pcnt_pop_in_viol	33
+31051	Nebraska	Dixon	pcnt_pop_in_viol	38
+31053	Nebraska	Dodge	pcnt_pop_in_viol	3
+31055	Nebraska	Douglas	pcnt_pop_in_viol	0
+31057	Nebraska	Dundy	pcnt_pop_in_viol	83
+31059	Nebraska	Fillmore	pcnt_pop_in_viol	0
+31061	Nebraska	Franklin	pcnt_pop_in_viol	87
+31063	Nebraska	Frontier	pcnt_pop_in_viol	18
+31065	Nebraska	Furnas	pcnt_pop_in_viol	54
+31067	Nebraska	Gage	pcnt_pop_in_viol	3
+31069	Nebraska	Garden	pcnt_pop_in_viol	0
+31071	Nebraska	Garfield	pcnt_pop_in_viol	0
+31073	Nebraska	Gosper	pcnt_pop_in_viol	7
+31075	Nebraska	Grant	pcnt_pop_in_viol	100
+31077	Nebraska	Greeley	pcnt_pop_in_viol	19
+31079	Nebraska	Hall	pcnt_pop_in_viol	1
+31081	Nebraska	Hamilton	pcnt_pop_in_viol	5
+31083	Nebraska	Harlan	pcnt_pop_in_viol	0
+31085	Nebraska	Hayes	pcnt_pop_in_viol	100
+31087	Nebraska	Hitchcock	pcnt_pop_in_viol	19
+31089	Nebraska	Holt	pcnt_pop_in_viol	76
+31091	Nebraska	Hooker	pcnt_pop_in_viol	0
+31093	Nebraska	Howard	pcnt_pop_in_viol	5
+31095	Nebraska	Jefferson	pcnt_pop_in_viol	1
+31097	Nebraska	Johnson	pcnt_pop_in_viol	60
+31099	Nebraska	Kearney	pcnt_pop_in_viol	9
+31101	Nebraska	Keith	pcnt_pop_in_viol	17
+31103	Nebraska	Keya Paha	pcnt_pop_in_viol	0
+31105	Nebraska	Kimball	pcnt_pop_in_viol	0
+31107	Nebraska	Knox	pcnt_pop_in_viol	23
+31109	Nebraska	Lancaster	pcnt_pop_in_viol	0
+31111	Nebraska	Lincoln	pcnt_pop_in_viol	90
+31113	Nebraska	Logan	pcnt_pop_in_viol	100
+31115	Nebraska	Loup	pcnt_pop_in_viol	
+31117	Nebraska	McPherson	pcnt_pop_in_viol	
+31119	Nebraska	Madison	pcnt_pop_in_viol	3
+31121	Nebraska	Merrick	pcnt_pop_in_viol	84
+31123	Nebraska	Morrill	pcnt_pop_in_viol	45
+31125	Nebraska	Nance	pcnt_pop_in_viol	5
+31127	Nebraska	Nemaha	pcnt_pop_in_viol	3
+31129	Nebraska	Nuckolls	pcnt_pop_in_viol	0
+31131	Nebraska	Otoe	pcnt_pop_in_viol	33
+31133	Nebraska	Pawnee	pcnt_pop_in_viol	4
+31135	Nebraska	Perkins	pcnt_pop_in_viol	23
+31137	Nebraska	Phelps	pcnt_pop_in_viol	84
+31139	Nebraska	Pierce	pcnt_pop_in_viol	45
+31141	Nebraska	Platte	pcnt_pop_in_viol	3
+31143	Nebraska	Polk	pcnt_pop_in_viol	22
+31145	Nebraska	Red Willow	pcnt_pop_in_viol	11
+31147	Nebraska	Richardson	pcnt_pop_in_viol	21
+31149	Nebraska	Rock	pcnt_pop_in_viol	0
+31151	Nebraska	Saline	pcnt_pop_in_viol	7
+31153	Nebraska	Sarpy	pcnt_pop_in_viol	25
+31155	Nebraska	Saunders	pcnt_pop_in_viol	67
+31157	Nebraska	Scotts Bluff	pcnt_pop_in_viol	21
+31159	Nebraska	Seward	pcnt_pop_in_viol	64
+31161	Nebraska	Sheridan	pcnt_pop_in_viol	0
+31163	Nebraska	Sherman	pcnt_pop_in_viol	79
+31165	Nebraska	Sioux	pcnt_pop_in_viol	0
+31167	Nebraska	Stanton	pcnt_pop_in_viol	35
+31169	Nebraska	Thayer	pcnt_pop_in_viol	15
+31171	Nebraska	Thomas	pcnt_pop_in_viol	0
+31173	Nebraska	Thurston	pcnt_pop_in_viol	0
+31175	Nebraska	Valley	pcnt_pop_in_viol	11
+31177	Nebraska	Washington	pcnt_pop_in_viol	66
+31179	Nebraska	Wayne	pcnt_pop_in_viol	0
+31181	Nebraska	Webster	pcnt_pop_in_viol	0
+31183	Nebraska	Wheeler	pcnt_pop_in_viol	46
+31185	Nebraska	York	pcnt_pop_in_viol	17
+32001	Nevada	Churchill	pcnt_pop_in_viol	5
+32003	Nevada	Clark	pcnt_pop_in_viol	1
+32005	Nevada	Douglas	pcnt_pop_in_viol	17
+32007	Nevada	Elko	pcnt_pop_in_viol	13
+32009	Nevada	Esmeralda	pcnt_pop_in_viol	72
+32011	Nevada	Eureka	pcnt_pop_in_viol	0
+32013	Nevada	Humboldt	pcnt_pop_in_viol	12
+32015	Nevada	Lander	pcnt_pop_in_viol	0
+32017	Nevada	Lincoln	pcnt_pop_in_viol	22
+32019	Nevada	Lyon	pcnt_pop_in_viol	0
+32021	Nevada	Mineral	pcnt_pop_in_viol	7
+32023	Nevada	Nye	pcnt_pop_in_viol	2
+32027	Nevada	Pershing	pcnt_pop_in_viol	0
+32029	Nevada	Storey	pcnt_pop_in_viol	0
+32031	Nevada	Washoe	pcnt_pop_in_viol	0
+32033	Nevada	White Pine	pcnt_pop_in_viol	0
+32510	Nevada	Carson City	pcnt_pop_in_viol	
+33001	New Hampshire	Belknap	pcnt_pop_in_viol	1
+33003	New Hampshire	Carroll	pcnt_pop_in_viol	1
+33005	New Hampshire	Cheshire	pcnt_pop_in_viol	2
+33007	New Hampshire	Coos	pcnt_pop_in_viol	0
+33009	New Hampshire	Grafton	pcnt_pop_in_viol	0
+33011	New Hampshire	Hillsborough	pcnt_pop_in_viol	0
+33013	New Hampshire	Merrimack	pcnt_pop_in_viol	0
+33015	New Hampshire	Rockingham	pcnt_pop_in_viol	0
+33017	New Hampshire	Strafford	pcnt_pop_in_viol	0
+33019	New Hampshire	Sullivan	pcnt_pop_in_viol	0
+34001	New Jersey	Atlantic	pcnt_pop_in_viol	13
+34003	New Jersey	Bergen	pcnt_pop_in_viol	11
+34005	New Jersey	Burlington	pcnt_pop_in_viol	11
+34007	New Jersey	Camden	pcnt_pop_in_viol	0
+34009	New Jersey	Cape May	pcnt_pop_in_viol	7
+34011	New Jersey	Cumberland	pcnt_pop_in_viol	4
+34013	New Jersey	Essex	pcnt_pop_in_viol	24
+34015	New Jersey	Gloucester	pcnt_pop_in_viol	3
+34017	New Jersey	Hudson	pcnt_pop_in_viol	1
+34019	New Jersey	Hunterdon	pcnt_pop_in_viol	5
+34021	New Jersey	Mercer	pcnt_pop_in_viol	0
+34023	New Jersey	Middlesex	pcnt_pop_in_viol	15
+34025	New Jersey	Monmouth	pcnt_pop_in_viol	9
+34027	New Jersey	Morris	pcnt_pop_in_viol	8
+34029	New Jersey	Ocean	pcnt_pop_in_viol	3
+34031	New Jersey	Passaic	pcnt_pop_in_viol	0
+34033	New Jersey	Salem	pcnt_pop_in_viol	1
+34035	New Jersey	Somerset	pcnt_pop_in_viol	0
+34037	New Jersey	Sussex	pcnt_pop_in_viol	27
+34039	New Jersey	Union	pcnt_pop_in_viol	3
+34041	New Jersey	Warren	pcnt_pop_in_viol	3
+35001	New Mexico	Bernalillo	pcnt_pop_in_viol	0
+35003	New Mexico	Catron	pcnt_pop_in_viol	38
+35005	New Mexico	Chaves	pcnt_pop_in_viol	2
+35006	New Mexico	Cibola	pcnt_pop_in_viol	0
+35007	New Mexico	Colfax	pcnt_pop_in_viol	17
+35009	New Mexico	Curry	pcnt_pop_in_viol	0
+35011	New Mexico	De Baca	pcnt_pop_in_viol	72
+35013	New Mexico	Dona Ana	pcnt_pop_in_viol	10
+35015	New Mexico	Eddy	pcnt_pop_in_viol	6
+35017	New Mexico	Grant	pcnt_pop_in_viol	0
+35019	New Mexico	Guadalupe	pcnt_pop_in_viol	8
+35021	New Mexico	Harding	pcnt_pop_in_viol	0
+35023	New Mexico	Hidalgo	pcnt_pop_in_viol	0
+35025	New Mexico	Lea	pcnt_pop_in_viol	0
+35027	New Mexico	Lincoln	pcnt_pop_in_viol	0
+35028	New Mexico	Los Alamos	pcnt_pop_in_viol	0
+35029	New Mexico	Luna	pcnt_pop_in_viol	0
+35031	New Mexico	McKinley	pcnt_pop_in_viol	0
+35033	New Mexico	Mora	pcnt_pop_in_viol	14
+35035	New Mexico	Otero	pcnt_pop_in_viol	0
+35037	New Mexico	Quay	pcnt_pop_in_viol	12
+35039	New Mexico	Rio Arriba	pcnt_pop_in_viol	50
+35041	New Mexico	Roosevelt	pcnt_pop_in_viol	1
+35043	New Mexico	Sandoval	pcnt_pop_in_viol	13
+35045	New Mexico	San Juan	pcnt_pop_in_viol	18
+35047	New Mexico	San Miguel	pcnt_pop_in_viol	5
+35049	New Mexico	Santa Fe	pcnt_pop_in_viol	0
+35051	New Mexico	Sierra	pcnt_pop_in_viol	0
+35053	New Mexico	Socorro	pcnt_pop_in_viol	80
+35055	New Mexico	Taos	pcnt_pop_in_viol	18
+35057	New Mexico	Torrance	pcnt_pop_in_viol	18
+35059	New Mexico	Union	pcnt_pop_in_viol	0
+35061	New Mexico	Valencia	pcnt_pop_in_viol	24
+36001	New York	Albany	pcnt_pop_in_viol	0
+36003	New York	Allegany	pcnt_pop_in_viol	8
+36005	New York	Bronx	pcnt_pop_in_viol	
+36007	New York	Broome	pcnt_pop_in_viol	35
+36009	New York	Cattaraugus	pcnt_pop_in_viol	3
+36011	New York	Cayuga	pcnt_pop_in_viol	2
+36013	New York	Chautauqua	pcnt_pop_in_viol	7
+36015	New York	Chemung	pcnt_pop_in_viol	0
+36017	New York	Chenango	pcnt_pop_in_viol	0
+36019	New York	Clinton	pcnt_pop_in_viol	47
+36021	New York	Columbia	pcnt_pop_in_viol	1
+36023	New York	Cortland	pcnt_pop_in_viol	0
+36025	New York	Delaware	pcnt_pop_in_viol	4
+36027	New York	Dutchess	pcnt_pop_in_viol	1
+36029	New York	Erie	pcnt_pop_in_viol	0
+36031	New York	Essex	pcnt_pop_in_viol	28
+36033	New York	Franklin	pcnt_pop_in_viol	41
+36035	New York	Fulton	pcnt_pop_in_viol	3
+36037	New York	Genesee	pcnt_pop_in_viol	0
+36039	New York	Greene	pcnt_pop_in_viol	24
+36041	New York	Hamilton	pcnt_pop_in_viol	44
+36043	New York	Herkimer	pcnt_pop_in_viol	22
+36045	New York	Jefferson	pcnt_pop_in_viol	33
+36047	New York	Kings	pcnt_pop_in_viol	
+36049	New York	Lewis	pcnt_pop_in_viol	43
+36051	New York	Livingston	pcnt_pop_in_viol	36
+36053	New York	Madison	pcnt_pop_in_viol	14
+36055	New York	Monroe	pcnt_pop_in_viol	0
+36057	New York	Montgomery	pcnt_pop_in_viol	10
+36059	New York	Nassau	pcnt_pop_in_viol	12
+36061	New York	New York	pcnt_pop_in_viol	0
+36063	New York	Niagara	pcnt_pop_in_viol	0
+36065	New York	Oneida	pcnt_pop_in_viol	3
+36067	New York	Onondaga	pcnt_pop_in_viol	0
+36069	New York	Ontario	pcnt_pop_in_viol	15
+36071	New York	Orange	pcnt_pop_in_viol	41
+36073	New York	Orleans	pcnt_pop_in_viol	0
+36075	New York	Oswego	pcnt_pop_in_viol	4
+36077	New York	Otsego	pcnt_pop_in_viol	0
+36079	New York	Putnam	pcnt_pop_in_viol	0
+36081	New York	Queens	pcnt_pop_in_viol	
+36083	New York	Rensselaer	pcnt_pop_in_viol	9
+36085	New York	Richmond	pcnt_pop_in_viol	
+36087	New York	Rockland	pcnt_pop_in_viol	0
+36089	New York	St. Lawrence	pcnt_pop_in_viol	11
+36091	New York	Saratoga	pcnt_pop_in_viol	11
+36093	New York	Schenectady	pcnt_pop_in_viol	0
+36095	New York	Schoharie	pcnt_pop_in_viol	18
+36097	New York	Schuyler	pcnt_pop_in_viol	0
+36099	New York	Seneca	pcnt_pop_in_viol	5
+36101	New York	Steuben	pcnt_pop_in_viol	0
+36103	New York	Suffolk	pcnt_pop_in_viol	2
+36105	New York	Sullivan	pcnt_pop_in_viol	0
+36107	New York	Tioga	pcnt_pop_in_viol	0
+36109	New York	Tompkins	pcnt_pop_in_viol	2
+36111	New York	Ulster	pcnt_pop_in_viol	35
+36113	New York	Warren	pcnt_pop_in_viol	35
+36115	New York	Washington	pcnt_pop_in_viol	22
+36117	New York	Wayne	pcnt_pop_in_viol	16
+36119	New York	Westchester	pcnt_pop_in_viol	11
+36121	New York	Wyoming	pcnt_pop_in_viol	14
+36123	New York	Yates	pcnt_pop_in_viol	1
+37001	North Carolina	Alamance	pcnt_pop_in_viol	3
+37003	North Carolina	Alexander	pcnt_pop_in_viol	0
+37005	North Carolina	Alleghany	pcnt_pop_in_viol	0
+37007	North Carolina	Anson	pcnt_pop_in_viol	0
+37009	North Carolina	Ashe	pcnt_pop_in_viol	0
+37011	North Carolina	Avery	pcnt_pop_in_viol	16
+37013	North Carolina	Beaufort	pcnt_pop_in_viol	0
+37015	North Carolina	Bertie	pcnt_pop_in_viol	0
+37017	North Carolina	Bladen	pcnt_pop_in_viol	0
+37019	North Carolina	Brunswick	pcnt_pop_in_viol	3
+37021	North Carolina	Buncombe	pcnt_pop_in_viol	0
+37023	North Carolina	Burke	pcnt_pop_in_viol	0
+37025	North Carolina	Cabarrus	pcnt_pop_in_viol	0
+37027	North Carolina	Caldwell	pcnt_pop_in_viol	0
+37029	North Carolina	Camden	pcnt_pop_in_viol	0
+37031	North Carolina	Carteret	pcnt_pop_in_viol	7
+37033	North Carolina	Caswell	pcnt_pop_in_viol	77
+37035	North Carolina	Catawba	pcnt_pop_in_viol	0
+37037	North Carolina	Chatham	pcnt_pop_in_viol	11
+37039	North Carolina	Cherokee	pcnt_pop_in_viol	44
+37041	North Carolina	Chowan	pcnt_pop_in_viol	0
+37043	North Carolina	Clay	pcnt_pop_in_viol	5
+37045	North Carolina	Cleveland	pcnt_pop_in_viol	0
+37047	North Carolina	Columbus	pcnt_pop_in_viol	24
+37049	North Carolina	Craven	pcnt_pop_in_viol	0
+37051	North Carolina	Cumberland	pcnt_pop_in_viol	3
+37053	North Carolina	Currituck	pcnt_pop_in_viol	0
+37055	North Carolina	Dare	pcnt_pop_in_viol	0
+37057	North Carolina	Davidson	pcnt_pop_in_viol	0
+37059	North Carolina	Davie	pcnt_pop_in_viol	0
+37061	North Carolina	Duplin	pcnt_pop_in_viol	3
+37063	North Carolina	Durham	pcnt_pop_in_viol	0
+37065	North Carolina	Edgecombe	pcnt_pop_in_viol	74
+37067	North Carolina	Forsyth	pcnt_pop_in_viol	0
+37069	North Carolina	Franklin	pcnt_pop_in_viol	9
+37071	North Carolina	Gaston	pcnt_pop_in_viol	14
+37073	North Carolina	Gates	pcnt_pop_in_viol	0
+37075	North Carolina	Graham	pcnt_pop_in_viol	1
+37077	North Carolina	Granville	pcnt_pop_in_viol	0
+37079	North Carolina	Greene	pcnt_pop_in_viol	0
+37081	North Carolina	Guilford	pcnt_pop_in_viol	2
+37083	North Carolina	Halifax	pcnt_pop_in_viol	12
+37085	North Carolina	Harnett	pcnt_pop_in_viol	0
+37087	North Carolina	Haywood	pcnt_pop_in_viol	0
+37089	North Carolina	Henderson	pcnt_pop_in_viol	1
+37091	North Carolina	Hertford	pcnt_pop_in_viol	0
+37093	North Carolina	Hoke	pcnt_pop_in_viol	0
+37095	North Carolina	Hyde	pcnt_pop_in_viol	0
+37097	North Carolina	Iredell	pcnt_pop_in_viol	0
+37099	North Carolina	Jackson	pcnt_pop_in_viol	1
+37101	North Carolina	Johnston	pcnt_pop_in_viol	2
+37103	North Carolina	Jones	pcnt_pop_in_viol	0
+37105	North Carolina	Lee	pcnt_pop_in_viol	0
+37107	North Carolina	Lenoir	pcnt_pop_in_viol	0
+37109	North Carolina	Lincoln	pcnt_pop_in_viol	0
+37111	North Carolina	McDowell	pcnt_pop_in_viol	1
+37113	North Carolina	Macon	pcnt_pop_in_viol	1
+37115	North Carolina	Madison	pcnt_pop_in_viol	0
+37117	North Carolina	Martin	pcnt_pop_in_viol	0
+37119	North Carolina	Mecklenburg	pcnt_pop_in_viol	0
+37121	North Carolina	Mitchell	pcnt_pop_in_viol	0
+37123	North Carolina	Montgomery	pcnt_pop_in_viol	0
+37125	North Carolina	Moore	pcnt_pop_in_viol	9
+37127	North Carolina	Nash	pcnt_pop_in_viol	3
+37129	North Carolina	New Hanover	pcnt_pop_in_viol	6
+37131	North Carolina	Northampton	pcnt_pop_in_viol	4
+37133	North Carolina	Onslow	pcnt_pop_in_viol	5
+37135	North Carolina	Orange	pcnt_pop_in_viol	0
+37137	North Carolina	Pamlico	pcnt_pop_in_viol	0
+37139	North Carolina	Pasquotank	pcnt_pop_in_viol	0
+37141	North Carolina	Pender	pcnt_pop_in_viol	17
+37143	North Carolina	Perquimans	pcnt_pop_in_viol	0
+37145	North Carolina	Person	pcnt_pop_in_viol	0
+37147	North Carolina	Pitt	pcnt_pop_in_viol	0
+37149	North Carolina	Polk	pcnt_pop_in_viol	0
+37151	North Carolina	Randolph	pcnt_pop_in_viol	12
+37153	North Carolina	Richmond	pcnt_pop_in_viol	0
+37155	North Carolina	Robeson	pcnt_pop_in_viol	0
+37157	North Carolina	Rockingham	pcnt_pop_in_viol	29
+37159	North Carolina	Rowan	pcnt_pop_in_viol	0
+37161	North Carolina	Rutherford	pcnt_pop_in_viol	3
+37163	North Carolina	Sampson	pcnt_pop_in_viol	0
+37165	North Carolina	Scotland	pcnt_pop_in_viol	3
+37167	North Carolina	Stanly	pcnt_pop_in_viol	11
+37169	North Carolina	Stokes	pcnt_pop_in_viol	90
+37171	North Carolina	Surry	pcnt_pop_in_viol	0
+37173	North Carolina	Swain	pcnt_pop_in_viol	2
+37175	North Carolina	Transylvania	pcnt_pop_in_viol	1
+37177	North Carolina	Tyrrell	pcnt_pop_in_viol	0
+37179	North Carolina	Union	pcnt_pop_in_viol	0
+37181	North Carolina	Vance	pcnt_pop_in_viol	0
+37183	North Carolina	Wake	pcnt_pop_in_viol	0
+37185	North Carolina	Warren	pcnt_pop_in_viol	7
+37187	North Carolina	Washington	pcnt_pop_in_viol	0
+37189	North Carolina	Watauga	pcnt_pop_in_viol	0
+37191	North Carolina	Wayne	pcnt_pop_in_viol	0
+37193	North Carolina	Wilkes	pcnt_pop_in_viol	0
+37195	North Carolina	Wilson	pcnt_pop_in_viol	0
+37197	North Carolina	Yadkin	pcnt_pop_in_viol	5
+37199	North Carolina	Yancey	pcnt_pop_in_viol	0
+38001	North Dakota	Adams	pcnt_pop_in_viol	0
+38003	North Dakota	Barnes	pcnt_pop_in_viol	0
+38005	North Dakota	Benson	pcnt_pop_in_viol	14
+38007	North Dakota	Billings	pcnt_pop_in_viol	0
+38009	North Dakota	Bottineau	pcnt_pop_in_viol	16
+38011	North Dakota	Bowman	pcnt_pop_in_viol	0
+38013	North Dakota	Burke	pcnt_pop_in_viol	31
+38015	North Dakota	Burleigh	pcnt_pop_in_viol	0
+38017	North Dakota	Cass	pcnt_pop_in_viol	0
+38019	North Dakota	Cavalier	pcnt_pop_in_viol	0
+38021	North Dakota	Dickey	pcnt_pop_in_viol	0
+38023	North Dakota	Divide	pcnt_pop_in_viol	0
+38025	North Dakota	Dunn	pcnt_pop_in_viol	24
+38027	North Dakota	Eddy	pcnt_pop_in_viol	0
+38029	North Dakota	Emmons	pcnt_pop_in_viol	0
+38031	North Dakota	Foster	pcnt_pop_in_viol	0
+38033	North Dakota	Golden Valley	pcnt_pop_in_viol	0
+38035	North Dakota	Grand Forks	pcnt_pop_in_viol	0
+38037	North Dakota	Grant	pcnt_pop_in_viol	0
+38039	North Dakota	Griggs	pcnt_pop_in_viol	0
+38041	North Dakota	Hettinger	pcnt_pop_in_viol	0
+38043	North Dakota	Kidder	pcnt_pop_in_viol	0
+38045	North Dakota	LaMoure	pcnt_pop_in_viol	0
+38047	North Dakota	Logan	pcnt_pop_in_viol	0
+38049	North Dakota	McHenry	pcnt_pop_in_viol	0
+38051	North Dakota	McIntosh	pcnt_pop_in_viol	0
+38053	North Dakota	McKenzie	pcnt_pop_in_viol	3
+38055	North Dakota	McLean	pcnt_pop_in_viol	19
+38057	North Dakota	Mercer	pcnt_pop_in_viol	2
+38059	North Dakota	Morton	pcnt_pop_in_viol	0
+38061	North Dakota	Mountrail	pcnt_pop_in_viol	0
+38063	North Dakota	Nelson	pcnt_pop_in_viol	0
+38065	North Dakota	Oliver	pcnt_pop_in_viol	0
+38067	North Dakota	Pembina	pcnt_pop_in_viol	10
+38069	North Dakota	Pierce	pcnt_pop_in_viol	0
+38071	North Dakota	Ramsey	pcnt_pop_in_viol	0
+38073	North Dakota	Ransom	pcnt_pop_in_viol	0
+38075	North Dakota	Renville	pcnt_pop_in_viol	0
+38077	North Dakota	Richland	pcnt_pop_in_viol	2
+38079	North Dakota	Rolette	pcnt_pop_in_viol	16
+38081	North Dakota	Sargent	pcnt_pop_in_viol	0
+38083	North Dakota	Sheridan	pcnt_pop_in_viol	0
+38085	North Dakota	Sioux	pcnt_pop_in_viol	0
+38087	North Dakota	Slope	pcnt_pop_in_viol	0
+38089	North Dakota	Stark	pcnt_pop_in_viol	0
+38091	North Dakota	Steele	pcnt_pop_in_viol	0
+38093	North Dakota	Stutsman	pcnt_pop_in_viol	0
+38095	North Dakota	Towner	pcnt_pop_in_viol	0
+38097	North Dakota	Traill	pcnt_pop_in_viol	0
+38099	North Dakota	Walsh	pcnt_pop_in_viol	0
+38101	North Dakota	Ward	pcnt_pop_in_viol	0
+38103	North Dakota	Wells	pcnt_pop_in_viol	1
+38105	North Dakota	Williams	pcnt_pop_in_viol	0
+39001	Ohio	Adams	pcnt_pop_in_viol	0
+39003	Ohio	Allen	pcnt_pop_in_viol	9
+39005	Ohio	Ashland	pcnt_pop_in_viol	0
+39007	Ohio	Ashtabula	pcnt_pop_in_viol	0
+39009	Ohio	Athens	pcnt_pop_in_viol	0
+39011	Ohio	Auglaize	pcnt_pop_in_viol	0
+39013	Ohio	Belmont	pcnt_pop_in_viol	0
+39015	Ohio	Brown	pcnt_pop_in_viol	0
+39017	Ohio	Butler	pcnt_pop_in_viol	0
+39019	Ohio	Carroll	pcnt_pop_in_viol	0
+39021	Ohio	Champaign	pcnt_pop_in_viol	0
+39023	Ohio	Clark	pcnt_pop_in_viol	0
+39025	Ohio	Clermont	pcnt_pop_in_viol	0
+39027	Ohio	Clinton	pcnt_pop_in_viol	0
+39029	Ohio	Columbiana	pcnt_pop_in_viol	0
+39031	Ohio	Coshocton	pcnt_pop_in_viol	0
+39033	Ohio	Crawford	pcnt_pop_in_viol	0
+39035	Ohio	Cuyahoga	pcnt_pop_in_viol	0
+39037	Ohio	Darke	pcnt_pop_in_viol	0
+39039	Ohio	Defiance	pcnt_pop_in_viol	6
+39041	Ohio	Delaware	pcnt_pop_in_viol	0
+39043	Ohio	Erie	pcnt_pop_in_viol	9
+39045	Ohio	Fairfield	pcnt_pop_in_viol	0
+39047	Ohio	Fayette	pcnt_pop_in_viol	0
+39049	Ohio	Franklin	pcnt_pop_in_viol	0
+39051	Ohio	Fulton	pcnt_pop_in_viol	2
+39053	Ohio	Gallia	pcnt_pop_in_viol	0
+39055	Ohio	Geauga	pcnt_pop_in_viol	0
+39057	Ohio	Greene	pcnt_pop_in_viol	0
+39059	Ohio	Guernsey	pcnt_pop_in_viol	0
+39061	Ohio	Hamilton	pcnt_pop_in_viol	0
+39063	Ohio	Hancock	pcnt_pop_in_viol	4
+39065	Ohio	Hardin	pcnt_pop_in_viol	0
+39067	Ohio	Harrison	pcnt_pop_in_viol	6
+39069	Ohio	Henry	pcnt_pop_in_viol	16
+39071	Ohio	Highland	pcnt_pop_in_viol	10
+39073	Ohio	Hocking	pcnt_pop_in_viol	0
+39075	Ohio	Holmes	pcnt_pop_in_viol	0
+39077	Ohio	Huron	pcnt_pop_in_viol	7
+39079	Ohio	Jackson	pcnt_pop_in_viol	71
+39081	Ohio	Jefferson	pcnt_pop_in_viol	0
+39083	Ohio	Knox	pcnt_pop_in_viol	0
+39085	Ohio	Lake	pcnt_pop_in_viol	0
+39087	Ohio	Lawrence	pcnt_pop_in_viol	0
+39089	Ohio	Licking	pcnt_pop_in_viol	1
+39091	Ohio	Logan	pcnt_pop_in_viol	0
+39093	Ohio	Lorain	pcnt_pop_in_viol	27
+39095	Ohio	Lucas	pcnt_pop_in_viol	0
+39097	Ohio	Madison	pcnt_pop_in_viol	31
+39099	Ohio	Mahoning	pcnt_pop_in_viol	3
+39101	Ohio	Marion	pcnt_pop_in_viol	0
+39103	Ohio	Medina	pcnt_pop_in_viol	0
+39105	Ohio	Meigs	pcnt_pop_in_viol	0
+39107	Ohio	Mercer	pcnt_pop_in_viol	0
+39109	Ohio	Miami	pcnt_pop_in_viol	25
+39111	Ohio	Monroe	pcnt_pop_in_viol	0
+39113	Ohio	Montgomery	pcnt_pop_in_viol	0
+39115	Ohio	Morgan	pcnt_pop_in_viol	0
+39117	Ohio	Morrow	pcnt_pop_in_viol	0
+39119	Ohio	Muskingum	pcnt_pop_in_viol	0
+39121	Ohio	Noble	pcnt_pop_in_viol	0
+39123	Ohio	Ottawa	pcnt_pop_in_viol	0
+39125	Ohio	Paulding	pcnt_pop_in_viol	0
+39127	Ohio	Perry	pcnt_pop_in_viol	21
+39129	Ohio	Pickaway	pcnt_pop_in_viol	0
+39131	Ohio	Pike	pcnt_pop_in_viol	0
+39133	Ohio	Portage	pcnt_pop_in_viol	1
+39135	Ohio	Preble	pcnt_pop_in_viol	0
+39137	Ohio	Putnam	pcnt_pop_in_viol	10
+39139	Ohio	Richland	pcnt_pop_in_viol	0
+39141	Ohio	Ross	pcnt_pop_in_viol	0
+39143	Ohio	Sandusky	pcnt_pop_in_viol	0
+39145	Ohio	Scioto	pcnt_pop_in_viol	0
+39147	Ohio	Seneca	pcnt_pop_in_viol	0
+39149	Ohio	Shelby	pcnt_pop_in_viol	0
+39151	Ohio	Stark	pcnt_pop_in_viol	0
+39153	Ohio	Summit	pcnt_pop_in_viol	7
+39155	Ohio	Trumbull	pcnt_pop_in_viol	0
+39157	Ohio	Tuscarawas	pcnt_pop_in_viol	0
+39159	Ohio	Union	pcnt_pop_in_viol	0
+39161	Ohio	Van Wert	pcnt_pop_in_viol	0
+39163	Ohio	Vinton	pcnt_pop_in_viol	0
+39165	Ohio	Warren	pcnt_pop_in_viol	0
+39167	Ohio	Washington	pcnt_pop_in_viol	0
+39169	Ohio	Wayne	pcnt_pop_in_viol	5
+39171	Ohio	Williams	pcnt_pop_in_viol	0
+39173	Ohio	Wood	pcnt_pop_in_viol	1
+39175	Ohio	Wyandot	pcnt_pop_in_viol	0
+40001	Oklahoma	Adair	pcnt_pop_in_viol	0
+40003	Oklahoma	Alfalfa	pcnt_pop_in_viol	21
+40005	Oklahoma	Atoka	pcnt_pop_in_viol	65
+40007	Oklahoma	Beaver	pcnt_pop_in_viol	1
+40009	Oklahoma	Beckham	pcnt_pop_in_viol	0
+40011	Oklahoma	Blaine	pcnt_pop_in_viol	61
+40013	Oklahoma	Bryan	pcnt_pop_in_viol	16
+40015	Oklahoma	Caddo	pcnt_pop_in_viol	61
+40017	Oklahoma	Canadian	pcnt_pop_in_viol	49
+40019	Oklahoma	Carter	pcnt_pop_in_viol	29
+40021	Oklahoma	Cherokee	pcnt_pop_in_viol	3
+40023	Oklahoma	Choctaw	pcnt_pop_in_viol	70
+40025	Oklahoma	Cimarron	pcnt_pop_in_viol	0
+40027	Oklahoma	Cleveland	pcnt_pop_in_viol	23
+40029	Oklahoma	Coal	pcnt_pop_in_viol	46
+40031	Oklahoma	Comanche	pcnt_pop_in_viol	0
+40033	Oklahoma	Cotton	pcnt_pop_in_viol	89
+40035	Oklahoma	Craig	pcnt_pop_in_viol	40
+40037	Oklahoma	Creek	pcnt_pop_in_viol	33
+40039	Oklahoma	Custer	pcnt_pop_in_viol	46
+40041	Oklahoma	Delaware	pcnt_pop_in_viol	1
+40043	Oklahoma	Dewey	pcnt_pop_in_viol	0
+40045	Oklahoma	Ellis	pcnt_pop_in_viol	0
+40047	Oklahoma	Garfield	pcnt_pop_in_viol	4
+40049	Oklahoma	Garvin	pcnt_pop_in_viol	27
+40051	Oklahoma	Grady	pcnt_pop_in_viol	1
+40053	Oklahoma	Grant	pcnt_pop_in_viol	6
+40055	Oklahoma	Greer	pcnt_pop_in_viol	0
+40057	Oklahoma	Harmon	pcnt_pop_in_viol	63
+40059	Oklahoma	Harper	pcnt_pop_in_viol	0
+40061	Oklahoma	Haskell	pcnt_pop_in_viol	40
+40063	Oklahoma	Hughes	pcnt_pop_in_viol	70
+40065	Oklahoma	Jackson	pcnt_pop_in_viol	69
+40067	Oklahoma	Jefferson	pcnt_pop_in_viol	96
+40069	Oklahoma	Johnston	pcnt_pop_in_viol	30
+40071	Oklahoma	Kay	pcnt_pop_in_viol	12
+40073	Oklahoma	Kingfisher	pcnt_pop_in_viol	15
+40075	Oklahoma	Kiowa	pcnt_pop_in_viol	20
+40077	Oklahoma	Latimer	pcnt_pop_in_viol	0
+40079	Oklahoma	Le Flore	pcnt_pop_in_viol	3
+40081	Oklahoma	Lincoln	pcnt_pop_in_viol	50
+40083	Oklahoma	Logan	pcnt_pop_in_viol	2
+40085	Oklahoma	Love	pcnt_pop_in_viol	46
+40087	Oklahoma	McClain	pcnt_pop_in_viol	0
+40089	Oklahoma	McCurtain	pcnt_pop_in_viol	25
+40091	Oklahoma	McIntosh	pcnt_pop_in_viol	65
+40093	Oklahoma	Major	pcnt_pop_in_viol	21
+40095	Oklahoma	Marshall	pcnt_pop_in_viol	67
+40097	Oklahoma	Mayes	pcnt_pop_in_viol	9
+40099	Oklahoma	Murray	pcnt_pop_in_viol	13
+40101	Oklahoma	Muskogee	pcnt_pop_in_viol	9
+40103	Oklahoma	Noble	pcnt_pop_in_viol	8
+40105	Oklahoma	Nowata	pcnt_pop_in_viol	52
+40107	Oklahoma	Okfuskee	pcnt_pop_in_viol	10
+40109	Oklahoma	Oklahoma	pcnt_pop_in_viol	0
+40111	Oklahoma	Okmulgee	pcnt_pop_in_viol	40
+40113	Oklahoma	Osage	pcnt_pop_in_viol	37
+40115	Oklahoma	Ottawa	pcnt_pop_in_viol	0
+40117	Oklahoma	Pawnee	pcnt_pop_in_viol	46
+40119	Oklahoma	Payne	pcnt_pop_in_viol	0
+40121	Oklahoma	Pittsburg	pcnt_pop_in_viol	60
+40123	Oklahoma	Pontotoc	pcnt_pop_in_viol	0
+40125	Oklahoma	Pottawatomie	pcnt_pop_in_viol	13
+40127	Oklahoma	Pushmataha	pcnt_pop_in_viol	68
+40129	Oklahoma	Roger Mills	pcnt_pop_in_viol	0
+40131	Oklahoma	Rogers	pcnt_pop_in_viol	22
+40133	Oklahoma	Seminole	pcnt_pop_in_viol	21
+40135	Oklahoma	Sequoyah	pcnt_pop_in_viol	7
+40137	Oklahoma	Stephens	pcnt_pop_in_viol	59
+40139	Oklahoma	Texas	pcnt_pop_in_viol	1
+40141	Oklahoma	Tillman	pcnt_pop_in_viol	79
+40143	Oklahoma	Tulsa	pcnt_pop_in_viol	5
+40145	Oklahoma	Wagoner	pcnt_pop_in_viol	20
+40147	Oklahoma	Washington	pcnt_pop_in_viol	80
+40149	Oklahoma	Washita	pcnt_pop_in_viol	0
+40151	Oklahoma	Woods	pcnt_pop_in_viol	13
+40153	Oklahoma	Woodward	pcnt_pop_in_viol	0
+41001	Oregon	Baker	pcnt_pop_in_viol	0
+41003	Oregon	Benton	pcnt_pop_in_viol	0
+41005	Oregon	Clackamas	pcnt_pop_in_viol	0
+41007	Oregon	Clatsop	pcnt_pop_in_viol	0
+41009	Oregon	Columbia	pcnt_pop_in_viol	6
+41011	Oregon	Coos	pcnt_pop_in_viol	0
+41013	Oregon	Crook	pcnt_pop_in_viol	0
+41015	Oregon	Curry	pcnt_pop_in_viol	0
+41017	Oregon	Deschutes	pcnt_pop_in_viol	2
+41019	Oregon	Douglas	pcnt_pop_in_viol	0
+41021	Oregon	Gilliam	pcnt_pop_in_viol	0
+41023	Oregon	Grant	pcnt_pop_in_viol	0
+41025	Oregon	Harney	pcnt_pop_in_viol	0
+41027	Oregon	Hood River	pcnt_pop_in_viol	2
+41029	Oregon	Jackson	pcnt_pop_in_viol	0
+41031	Oregon	Jefferson	pcnt_pop_in_viol	20
+41033	Oregon	Josephine	pcnt_pop_in_viol	0
+41035	Oregon	Klamath	pcnt_pop_in_viol	1
+41037	Oregon	Lake	pcnt_pop_in_viol	7
+41039	Oregon	Lane	pcnt_pop_in_viol	2
+41041	Oregon	Lincoln	pcnt_pop_in_viol	1
+41043	Oregon	Linn	pcnt_pop_in_viol	0
+41045	Oregon	Malheur	pcnt_pop_in_viol	31
+41047	Oregon	Marion	pcnt_pop_in_viol	1
+41049	Oregon	Morrow	pcnt_pop_in_viol	3
+41051	Oregon	Multnomah	pcnt_pop_in_viol	0
+41053	Oregon	Polk	pcnt_pop_in_viol	9
+41055	Oregon	Sherman	pcnt_pop_in_viol	0
+41057	Oregon	Tillamook	pcnt_pop_in_viol	17
+41059	Oregon	Umatilla	pcnt_pop_in_viol	34
+41061	Oregon	Union	pcnt_pop_in_viol	0
+41063	Oregon	Wallowa	pcnt_pop_in_viol	0
+41065	Oregon	Wasco	pcnt_pop_in_viol	1
+41067	Oregon	Washington	pcnt_pop_in_viol	2
+41069	Oregon	Wheeler	pcnt_pop_in_viol	19
+41071	Oregon	Yamhill	pcnt_pop_in_viol	29
+42001	Pennsylvania	Adams	pcnt_pop_in_viol	5
+42003	Pennsylvania	Allegheny	pcnt_pop_in_viol	1
+42005	Pennsylvania	Armstrong	pcnt_pop_in_viol	4
+42007	Pennsylvania	Beaver	pcnt_pop_in_viol	33
+42009	Pennsylvania	Bedford	pcnt_pop_in_viol	4
+42011	Pennsylvania	Berks	pcnt_pop_in_viol	24
+42013	Pennsylvania	Blair	pcnt_pop_in_viol	0
+42015	Pennsylvania	Bradford	pcnt_pop_in_viol	0
+42017	Pennsylvania	Bucks	pcnt_pop_in_viol	12
+42019	Pennsylvania	Butler	pcnt_pop_in_viol	8
+42021	Pennsylvania	Cambria	pcnt_pop_in_viol	10
+42023	Pennsylvania	Cameron	pcnt_pop_in_viol	93
+42025	Pennsylvania	Carbon	pcnt_pop_in_viol	54
+42027	Pennsylvania	Centre	pcnt_pop_in_viol	1
+42029	Pennsylvania	Chester	pcnt_pop_in_viol	17
+42031	Pennsylvania	Clarion	pcnt_pop_in_viol	8
+42033	Pennsylvania	Clearfield	pcnt_pop_in_viol	17
+42035	Pennsylvania	Clinton	pcnt_pop_in_viol	2
+42037	Pennsylvania	Columbia	pcnt_pop_in_viol	0
+42039	Pennsylvania	Crawford	pcnt_pop_in_viol	8
+42041	Pennsylvania	Cumberland	pcnt_pop_in_viol	0
+42043	Pennsylvania	Dauphin	pcnt_pop_in_viol	29
+42045	Pennsylvania	Delaware	pcnt_pop_in_viol	0
+42047	Pennsylvania	Elk	pcnt_pop_in_viol	5
+42049	Pennsylvania	Erie	pcnt_pop_in_viol	13
+42051	Pennsylvania	Fayette	pcnt_pop_in_viol	3
+42053	Pennsylvania	Forest	pcnt_pop_in_viol	0
+42055	Pennsylvania	Franklin	pcnt_pop_in_viol	67
+42057	Pennsylvania	Fulton	pcnt_pop_in_viol	0
+42059	Pennsylvania	Greene	pcnt_pop_in_viol	12
+42061	Pennsylvania	Huntingdon	pcnt_pop_in_viol	6
+42063	Pennsylvania	Indiana	pcnt_pop_in_viol	2
+42065	Pennsylvania	Jefferson	pcnt_pop_in_viol	8
+42067	Pennsylvania	Juniata	pcnt_pop_in_viol	2
+42069	Pennsylvania	Lackawanna	pcnt_pop_in_viol	0
+42071	Pennsylvania	Lancaster	pcnt_pop_in_viol	8
+42073	Pennsylvania	Lawrence	pcnt_pop_in_viol	0
+42075	Pennsylvania	Lebanon	pcnt_pop_in_viol	0
+42077	Pennsylvania	Lehigh	pcnt_pop_in_viol	5
+42079	Pennsylvania	Luzerne	pcnt_pop_in_viol	15
+42081	Pennsylvania	Lycoming	pcnt_pop_in_viol	0
+42083	Pennsylvania	McKean	pcnt_pop_in_viol	12
+42085	Pennsylvania	Mercer	pcnt_pop_in_viol	0
+42087	Pennsylvania	Mifflin	pcnt_pop_in_viol	1
+42089	Pennsylvania	Monroe	pcnt_pop_in_viol	7
+42091	Pennsylvania	Montgomery	pcnt_pop_in_viol	66
+42093	Pennsylvania	Montour	pcnt_pop_in_viol	0
+42095	Pennsylvania	Northampton	pcnt_pop_in_viol	0
+42097	Pennsylvania	Northumberland	pcnt_pop_in_viol	1
+42099	Pennsylvania	Perry	pcnt_pop_in_viol	7
+42101	Pennsylvania	Philadelphia	pcnt_pop_in_viol	0
+42103	Pennsylvania	Pike	pcnt_pop_in_viol	18
+42105	Pennsylvania	Potter	pcnt_pop_in_viol	8
+42107	Pennsylvania	Schuylkill	pcnt_pop_in_viol	1
+42109	Pennsylvania	Snyder	pcnt_pop_in_viol	0
+42111	Pennsylvania	Somerset	pcnt_pop_in_viol	4
+42113	Pennsylvania	Sullivan	pcnt_pop_in_viol	46
+42115	Pennsylvania	Susquehanna	pcnt_pop_in_viol	7
+42117	Pennsylvania	Tioga	pcnt_pop_in_viol	38
+42119	Pennsylvania	Union	pcnt_pop_in_viol	0
+42121	Pennsylvania	Venango	pcnt_pop_in_viol	0
+42123	Pennsylvania	Warren	pcnt_pop_in_viol	5
+42125	Pennsylvania	Washington	pcnt_pop_in_viol	29
+42127	Pennsylvania	Wayne	pcnt_pop_in_viol	27
+42129	Pennsylvania	Westmoreland	pcnt_pop_in_viol	0
+42131	Pennsylvania	Wyoming	pcnt_pop_in_viol	6
+42133	Pennsylvania	York	pcnt_pop_in_viol	0
+44001	Rhode Island	Bristol	pcnt_pop_in_viol	0
+44003	Rhode Island	Kent	pcnt_pop_in_viol	0
+44005	Rhode Island	Newport	pcnt_pop_in_viol	10
+44007	Rhode Island	Providence	pcnt_pop_in_viol	1
+44009	Rhode Island	Washington	pcnt_pop_in_viol	31
+45001	South Carolina	Abbeville	pcnt_pop_in_viol	41
+45003	South Carolina	Aiken	pcnt_pop_in_viol	0
+45005	South Carolina	Allendale	pcnt_pop_in_viol	0
+45007	South Carolina	Anderson	pcnt_pop_in_viol	0
+45009	South Carolina	Bamberg	pcnt_pop_in_viol	0
+45011	South Carolina	Barnwell	pcnt_pop_in_viol	0
+45013	South Carolina	Beaufort	pcnt_pop_in_viol	1
+45015	South Carolina	Berkeley	pcnt_pop_in_viol	0
+45017	South Carolina	Calhoun	pcnt_pop_in_viol	0
+45019	South Carolina	Charleston	pcnt_pop_in_viol	0
+45021	South Carolina	Cherokee	pcnt_pop_in_viol	0
+45023	South Carolina	Chester	pcnt_pop_in_viol	0
+45025	South Carolina	Chesterfield	pcnt_pop_in_viol	0
+45027	South Carolina	Clarendon	pcnt_pop_in_viol	0
+45029	South Carolina	Colleton	pcnt_pop_in_viol	0
+45031	South Carolina	Darlington	pcnt_pop_in_viol	0
+45033	South Carolina	Dillon	pcnt_pop_in_viol	0
+45035	South Carolina	Dorchester	pcnt_pop_in_viol	0
+45037	South Carolina	Edgefield	pcnt_pop_in_viol	0
+45039	South Carolina	Fairfield	pcnt_pop_in_viol	46
+45041	South Carolina	Florence	pcnt_pop_in_viol	0
+45043	South Carolina	Georgetown	pcnt_pop_in_viol	0
+45045	South Carolina	Greenville	pcnt_pop_in_viol	0
+45047	South Carolina	Greenwood	pcnt_pop_in_viol	0
+45049	South Carolina	Hampton	pcnt_pop_in_viol	0
+45051	South Carolina	Horry	pcnt_pop_in_viol	0
+45053	South Carolina	Jasper	pcnt_pop_in_viol	0
+45055	South Carolina	Kershaw	pcnt_pop_in_viol	4
+45057	South Carolina	Lancaster	pcnt_pop_in_viol	0
+45059	South Carolina	Laurens	pcnt_pop_in_viol	0
+45061	South Carolina	Lee	pcnt_pop_in_viol	0
+45063	South Carolina	Lexington	pcnt_pop_in_viol	16
+45065	South Carolina	McCormick	pcnt_pop_in_viol	0
+45067	South Carolina	Marion	pcnt_pop_in_viol	0
+45069	South Carolina	Marlboro	pcnt_pop_in_viol	0
+45071	South Carolina	Newberry	pcnt_pop_in_viol	0
+45073	South Carolina	Oconee	pcnt_pop_in_viol	0
+45075	South Carolina	Orangeburg	pcnt_pop_in_viol	0
+45077	South Carolina	Pickens	pcnt_pop_in_viol	6
+45079	South Carolina	Richland	pcnt_pop_in_viol	0
+45081	South Carolina	Saluda	pcnt_pop_in_viol	1
+45083	South Carolina	Spartanburg	pcnt_pop_in_viol	0
+45085	South Carolina	Sumter	pcnt_pop_in_viol	2
+45087	South Carolina	Union	pcnt_pop_in_viol	30
+45089	South Carolina	Williamsburg	pcnt_pop_in_viol	0
+45091	South Carolina	York	pcnt_pop_in_viol	5
+46003	South Dakota	Aurora	pcnt_pop_in_viol	0
+46005	South Dakota	Beadle	pcnt_pop_in_viol	0
+46007	South Dakota	Bennett	pcnt_pop_in_viol	0
+46009	South Dakota	Bon Homme	pcnt_pop_in_viol	0
+46011	South Dakota	Brookings	pcnt_pop_in_viol	0
+46013	South Dakota	Brown	pcnt_pop_in_viol	73
+46015	South Dakota	Brule	pcnt_pop_in_viol	71
+46017	South Dakota	Buffalo	pcnt_pop_in_viol	
+46019	South Dakota	Butte	pcnt_pop_in_viol	3
+46021	South Dakota	Campbell	pcnt_pop_in_viol	0
+46023	South Dakota	Charles Mix	pcnt_pop_in_viol	10
+46025	South Dakota	Clark	pcnt_pop_in_viol	4
+46027	South Dakota	Clay	pcnt_pop_in_viol	0
+46029	South Dakota	Codington	pcnt_pop_in_viol	0
+46031	South Dakota	Corson	pcnt_pop_in_viol	7
+46033	South Dakota	Custer	pcnt_pop_in_viol	18
+46035	South Dakota	Davison	pcnt_pop_in_viol	0
+46037	South Dakota	Day	pcnt_pop_in_viol	6
+46039	South Dakota	Deuel	pcnt_pop_in_viol	0
+46041	South Dakota	Dewey	pcnt_pop_in_viol	0
+46043	South Dakota	Douglas	pcnt_pop_in_viol	2
+46045	South Dakota	Edmunds	pcnt_pop_in_viol	0
+46047	South Dakota	Fall River	pcnt_pop_in_viol	13
+46049	South Dakota	Faulk	pcnt_pop_in_viol	9
+46051	South Dakota	Grant	pcnt_pop_in_viol	0
+46053	South Dakota	Gregory	pcnt_pop_in_viol	0
+46055	South Dakota	Haakon	pcnt_pop_in_viol	11
+46057	South Dakota	Hamlin	pcnt_pop_in_viol	0
+46059	South Dakota	Hand	pcnt_pop_in_viol	0
+46061	South Dakota	Hanson	pcnt_pop_in_viol	0
+46063	South Dakota	Harding	pcnt_pop_in_viol	0
+46065	South Dakota	Hughes	pcnt_pop_in_viol	0
+46067	South Dakota	Hutchinson	pcnt_pop_in_viol	0
+46069	South Dakota	Hyde	pcnt_pop_in_viol	0
+46071	South Dakota	Jackson	pcnt_pop_in_viol	0
+46073	South Dakota	Jerauld	pcnt_pop_in_viol	0
+46075	South Dakota	Jones	pcnt_pop_in_viol	0
+46077	South Dakota	Kingsbury	pcnt_pop_in_viol	10
+46079	South Dakota	Lake	pcnt_pop_in_viol	65
+46081	South Dakota	Lawrence	pcnt_pop_in_viol	1
+46083	South Dakota	Lincoln	pcnt_pop_in_viol	0
+46085	South Dakota	Lyman	pcnt_pop_in_viol	38
+46087	South Dakota	McCook	pcnt_pop_in_viol	2
+46089	South Dakota	McPherson	pcnt_pop_in_viol	0
+46091	South Dakota	Marshall	pcnt_pop_in_viol	6
+46093	South Dakota	Meade	pcnt_pop_in_viol	5
+46095	South Dakota	Mellette	pcnt_pop_in_viol	0
+46097	South Dakota	Miner	pcnt_pop_in_viol	0
+46099	South Dakota	Minnehaha	pcnt_pop_in_viol	0
+46101	South Dakota	Moody	pcnt_pop_in_viol	4
+46103	South Dakota	Pennington	pcnt_pop_in_viol	2
+46105	South Dakota	Perkins	pcnt_pop_in_viol	0
+46107	South Dakota	Potter	pcnt_pop_in_viol	0
+46109	South Dakota	Roberts	pcnt_pop_in_viol	7
+46111	South Dakota	Sanborn	pcnt_pop_in_viol	21
+46113	South Dakota	Shannon	pcnt_pop_in_viol	0
+46115	South Dakota	Spink	pcnt_pop_in_viol	5
+46117	South Dakota	Stanley	pcnt_pop_in_viol	0
+46119	South Dakota	Sully	pcnt_pop_in_viol	0
+46121	South Dakota	Todd	pcnt_pop_in_viol	
+46123	South Dakota	Tripp	pcnt_pop_in_viol	67
+46125	South Dakota	Turner	pcnt_pop_in_viol	19
+46127	South Dakota	Union	pcnt_pop_in_viol	0
+46129	South Dakota	Walworth	pcnt_pop_in_viol	0
+46135	South Dakota	Yankton	pcnt_pop_in_viol	3
+46137	South Dakota	Ziebach	pcnt_pop_in_viol	100
+47001	Tennessee	Anderson	pcnt_pop_in_viol	0
+47003	Tennessee	Bedford	pcnt_pop_in_viol	33
+47005	Tennessee	Benton	pcnt_pop_in_viol	0
+47007	Tennessee	Bledsoe	pcnt_pop_in_viol	81
+47009	Tennessee	Blount	pcnt_pop_in_viol	0
+47011	Tennessee	Bradley	pcnt_pop_in_viol	82
+47013	Tennessee	Campbell	pcnt_pop_in_viol	11
+47015	Tennessee	Cannon	pcnt_pop_in_viol	0
+47017	Tennessee	Carroll	pcnt_pop_in_viol	0
+47019	Tennessee	Carter	pcnt_pop_in_viol	0
+47021	Tennessee	Cheatham	pcnt_pop_in_viol	0
+47023	Tennessee	Chester	pcnt_pop_in_viol	0
+47025	Tennessee	Claiborne	pcnt_pop_in_viol	52
+47027	Tennessee	Clay	pcnt_pop_in_viol	0
+47029	Tennessee	Cocke	pcnt_pop_in_viol	0
+47031	Tennessee	Coffee	pcnt_pop_in_viol	0
+47033	Tennessee	Crockett	pcnt_pop_in_viol	0
+47035	Tennessee	Cumberland	pcnt_pop_in_viol	0
+47037	Tennessee	Davidson	pcnt_pop_in_viol	82
+47039	Tennessee	Decatur	pcnt_pop_in_viol	25
+47041	Tennessee	DeKalb	pcnt_pop_in_viol	0
+47043	Tennessee	Dickson	pcnt_pop_in_viol	0
+47045	Tennessee	Dyer	pcnt_pop_in_viol	0
+47047	Tennessee	Fayette	pcnt_pop_in_viol	0
+47049	Tennessee	Fentress	pcnt_pop_in_viol	15
+47051	Tennessee	Franklin	pcnt_pop_in_viol	0
+47053	Tennessee	Gibson	pcnt_pop_in_viol	0
+47055	Tennessee	Giles	pcnt_pop_in_viol	3
+47057	Tennessee	Grainger	pcnt_pop_in_viol	0
+47059	Tennessee	Greene	pcnt_pop_in_viol	32
+47061	Tennessee	Grundy	pcnt_pop_in_viol	51
+47063	Tennessee	Hamblen	pcnt_pop_in_viol	0
+47065	Tennessee	Hamilton	pcnt_pop_in_viol	0
+47067	Tennessee	Hancock	pcnt_pop_in_viol	0
+47069	Tennessee	Hardeman	pcnt_pop_in_viol	0
+47071	Tennessee	Hardin	pcnt_pop_in_viol	0
+47073	Tennessee	Hawkins	pcnt_pop_in_viol	41
+47075	Tennessee	Haywood	pcnt_pop_in_viol	0
+47077	Tennessee	Henderson	pcnt_pop_in_viol	4
+47079	Tennessee	Henry	pcnt_pop_in_viol	0
+47081	Tennessee	Hickman	pcnt_pop_in_viol	0
+47083	Tennessee	Houston	pcnt_pop_in_viol	0
+47085	Tennessee	Humphreys	pcnt_pop_in_viol	0
+47087	Tennessee	Jackson	pcnt_pop_in_viol	0
+47089	Tennessee	Jefferson	pcnt_pop_in_viol	0
+47091	Tennessee	Johnson	pcnt_pop_in_viol	9
+47093	Tennessee	Knox	pcnt_pop_in_viol	0
+47095	Tennessee	Lake	pcnt_pop_in_viol	0
+47097	Tennessee	Lauderdale	pcnt_pop_in_viol	0
+47099	Tennessee	Lawrence	pcnt_pop_in_viol	13
+47101	Tennessee	Lewis	pcnt_pop_in_viol	0
+47103	Tennessee	Lincoln	pcnt_pop_in_viol	6
+47105	Tennessee	Loudon	pcnt_pop_in_viol	0
+47107	Tennessee	McMinn	pcnt_pop_in_viol	7
+47109	Tennessee	McNairy	pcnt_pop_in_viol	0
+47111	Tennessee	Macon	pcnt_pop_in_viol	0
+47113	Tennessee	Madison	pcnt_pop_in_viol	0
+47115	Tennessee	Marion	pcnt_pop_in_viol	27
+47117	Tennessee	Marshall	pcnt_pop_in_viol	0
+47119	Tennessee	Maury	pcnt_pop_in_viol	15
+47121	Tennessee	Meigs	pcnt_pop_in_viol	0
+47123	Tennessee	Monroe	pcnt_pop_in_viol	0
+47125	Tennessee	Montgomery	pcnt_pop_in_viol	0
+47127	Tennessee	Moore	pcnt_pop_in_viol	0
+47129	Tennessee	Morgan	pcnt_pop_in_viol	0
+47131	Tennessee	Obion	pcnt_pop_in_viol	18
+47133	Tennessee	Overton	pcnt_pop_in_viol	0
+47135	Tennessee	Perry	pcnt_pop_in_viol	31
+47137	Tennessee	Pickett	pcnt_pop_in_viol	0
+47139	Tennessee	Polk	pcnt_pop_in_viol	0
+47141	Tennessee	Putnam	pcnt_pop_in_viol	0
+47143	Tennessee	Rhea	pcnt_pop_in_viol	12
+47145	Tennessee	Roane	pcnt_pop_in_viol	0
+47147	Tennessee	Robertson	pcnt_pop_in_viol	74
+47149	Tennessee	Rutherford	pcnt_pop_in_viol	0
+47151	Tennessee	Scott	pcnt_pop_in_viol	0
+47153	Tennessee	Sequatchie	pcnt_pop_in_viol	0
+47155	Tennessee	Sevier	pcnt_pop_in_viol	50
+47157	Tennessee	Shelby	pcnt_pop_in_viol	0
+47159	Tennessee	Smith	pcnt_pop_in_viol	14
+47161	Tennessee	Stewart	pcnt_pop_in_viol	0
+47163	Tennessee	Sullivan	pcnt_pop_in_viol	0
+47165	Tennessee	Sumner	pcnt_pop_in_viol	5
+47167	Tennessee	Tipton	pcnt_pop_in_viol	13
+47169	Tennessee	Trousdale	pcnt_pop_in_viol	0
+47171	Tennessee	Unicoi	pcnt_pop_in_viol	0
+47173	Tennessee	Union	pcnt_pop_in_viol	43
+47175	Tennessee	Van Buren	pcnt_pop_in_viol	48
+47177	Tennessee	Warren	pcnt_pop_in_viol	58
+47179	Tennessee	Washington	pcnt_pop_in_viol	0
+47181	Tennessee	Wayne	pcnt_pop_in_viol	0
+47183	Tennessee	Weakley	pcnt_pop_in_viol	0
+47185	Tennessee	White	pcnt_pop_in_viol	0
+47187	Tennessee	Williamson	pcnt_pop_in_viol	0
+47189	Tennessee	Wilson	pcnt_pop_in_viol	0
+48001	Texas	Anderson	pcnt_pop_in_viol	2
+48003	Texas	Andrews	pcnt_pop_in_viol	100
+48005	Texas	Angelina	pcnt_pop_in_viol	18
+48007	Texas	Aransas	pcnt_pop_in_viol	2
+48009	Texas	Archer	pcnt_pop_in_viol	3
+48011	Texas	Armstrong	pcnt_pop_in_viol	0
+48013	Texas	Atascosa	pcnt_pop_in_viol	20
+48015	Texas	Austin	pcnt_pop_in_viol	2
+48017	Texas	Bailey	pcnt_pop_in_viol	0
+48019	Texas	Bandera	pcnt_pop_in_viol	19
+48021	Texas	Bastrop	pcnt_pop_in_viol	0
+48023	Texas	Baylor	pcnt_pop_in_viol	0
+48025	Texas	Bee	pcnt_pop_in_viol	1
+48027	Texas	Bell	pcnt_pop_in_viol	2
+48029	Texas	Bexar	pcnt_pop_in_viol	0
+48031	Texas	Blanco	pcnt_pop_in_viol	51
+48033	Texas	Borden	pcnt_pop_in_viol	100
+48035	Texas	Bosque	pcnt_pop_in_viol	9
+48037	Texas	Bowie	pcnt_pop_in_viol	5
+48039	Texas	Brazoria	pcnt_pop_in_viol	8
+48041	Texas	Brazos	pcnt_pop_in_viol	0
+48043	Texas	Brewster	pcnt_pop_in_viol	0
+48045	Texas	Briscoe	pcnt_pop_in_viol	31
+48047	Texas	Brooks	pcnt_pop_in_viol	0
+48049	Texas	Brown	pcnt_pop_in_viol	5
+48051	Texas	Burleson	pcnt_pop_in_viol	7
+48053	Texas	Burnet	pcnt_pop_in_viol	5
+48055	Texas	Caldwell	pcnt_pop_in_viol	4
+48057	Texas	Calhoun	pcnt_pop_in_viol	11
+48059	Texas	Callahan	pcnt_pop_in_viol	0
+48061	Texas	Cameron	pcnt_pop_in_viol	10
+48063	Texas	Camp	pcnt_pop_in_viol	0
+48065	Texas	Carson	pcnt_pop_in_viol	0
+48067	Texas	Cass	pcnt_pop_in_viol	35
+48069	Texas	Castro	pcnt_pop_in_viol	0
+48071	Texas	Chambers	pcnt_pop_in_viol	14
+48073	Texas	Cherokee	pcnt_pop_in_viol	13
+48075	Texas	Childress	pcnt_pop_in_viol	2
+48077	Texas	Clay	pcnt_pop_in_viol	55
+48079	Texas	Cochran	pcnt_pop_in_viol	79
+48081	Texas	Coke	pcnt_pop_in_viol	59
+48083	Texas	Coleman	pcnt_pop_in_viol	0
+48085	Texas	Collin	pcnt_pop_in_viol	0
+48087	Texas	Collingsworth	pcnt_pop_in_viol	14
+48089	Texas	Colorado	pcnt_pop_in_viol	0
+48091	Texas	Comal	pcnt_pop_in_viol	0
+48093	Texas	Comanche	pcnt_pop_in_viol	73
+48095	Texas	Concho	pcnt_pop_in_viol	100
+48097	Texas	Cooke	pcnt_pop_in_viol	0
+48099	Texas	Coryell	pcnt_pop_in_viol	5
+48101	Texas	Cottle	pcnt_pop_in_viol	0
+48103	Texas	Crane	pcnt_pop_in_viol	100
+48105	Texas	Crockett	pcnt_pop_in_viol	0
+48107	Texas	Crosby	pcnt_pop_in_viol	2
+48109	Texas	Culberson	pcnt_pop_in_viol	0
+48111	Texas	Dallam	pcnt_pop_in_viol	0
+48113	Texas	Dallas	pcnt_pop_in_viol	2
+48115	Texas	Dawson	pcnt_pop_in_viol	8
+48117	Texas	Deaf Smith	pcnt_pop_in_viol	0
+48119	Texas	Delta	pcnt_pop_in_viol	0
+48121	Texas	Denton	pcnt_pop_in_viol	0
+48123	Texas	DeWitt	pcnt_pop_in_viol	0
+48125	Texas	Dickens	pcnt_pop_in_viol	0
+48127	Texas	Dimmit	pcnt_pop_in_viol	0
+48129	Texas	Donley	pcnt_pop_in_viol	0
+48131	Texas	Duval	pcnt_pop_in_viol	41
+48133	Texas	Eastland	pcnt_pop_in_viol	6
+48135	Texas	Ector	pcnt_pop_in_viol	0
+48137	Texas	Edwards	pcnt_pop_in_viol	0
+48139	Texas	Ellis	pcnt_pop_in_viol	1
+48141	Texas	El Paso	pcnt_pop_in_viol	1
+48143	Texas	Erath	pcnt_pop_in_viol	19
+48145	Texas	Falls	pcnt_pop_in_viol	66
+48147	Texas	Fannin	pcnt_pop_in_viol	0
+48149	Texas	Fayette	pcnt_pop_in_viol	37
+48151	Texas	Fisher	pcnt_pop_in_viol	11
+48153	Texas	Floyd	pcnt_pop_in_viol	0
+48155	Texas	Foard	pcnt_pop_in_viol	0
+48157	Texas	Fort Bend	pcnt_pop_in_viol	0
+48159	Texas	Franklin	pcnt_pop_in_viol	0
+48161	Texas	Freestone	pcnt_pop_in_viol	0
+48163	Texas	Frio	pcnt_pop_in_viol	0
+48165	Texas	Gaines	pcnt_pop_in_viol	100
+48167	Texas	Galveston	pcnt_pop_in_viol	2
+48169	Texas	Garza	pcnt_pop_in_viol	3
+48171	Texas	Gillespie	pcnt_pop_in_viol	1
+48173	Texas	Glasscock	pcnt_pop_in_viol	0
+48175	Texas	Goliad	pcnt_pop_in_viol	0
+48177	Texas	Gonzales	pcnt_pop_in_viol	0
+48179	Texas	Gray	pcnt_pop_in_viol	0
+48181	Texas	Grayson	pcnt_pop_in_viol	2
+48183	Texas	Gregg	pcnt_pop_in_viol	6
+48185	Texas	Grimes	pcnt_pop_in_viol	20
+48187	Texas	Guadalupe	pcnt_pop_in_viol	0
+48189	Texas	Hale	pcnt_pop_in_viol	0
+48191	Texas	Hall	pcnt_pop_in_viol	22
+48193	Texas	Hamilton	pcnt_pop_in_viol	64
+48195	Texas	Hansford	pcnt_pop_in_viol	0
+48197	Texas	Hardeman	pcnt_pop_in_viol	20
+48199	Texas	Hardin	pcnt_pop_in_viol	0
+48201	Texas	Harris	pcnt_pop_in_viol	2
+48203	Texas	Harrison	pcnt_pop_in_viol	39
+48205	Texas	Hartley	pcnt_pop_in_viol	0
+48207	Texas	Haskell	pcnt_pop_in_viol	11
+48209	Texas	Hays	pcnt_pop_in_viol	1
+48211	Texas	Hemphill	pcnt_pop_in_viol	0
+48213	Texas	Henderson	pcnt_pop_in_viol	22
+48215	Texas	Hidalgo	pcnt_pop_in_viol	20
+48217	Texas	Hill	pcnt_pop_in_viol	3
+48219	Texas	Hockley	pcnt_pop_in_viol	7
+48221	Texas	Hood	pcnt_pop_in_viol	35
+48223	Texas	Hopkins	pcnt_pop_in_viol	0
+48225	Texas	Houston	pcnt_pop_in_viol	6
+48227	Texas	Howard	pcnt_pop_in_viol	99
+48229	Texas	Hudspeth	pcnt_pop_in_viol	48
+48231	Texas	Hunt	pcnt_pop_in_viol	6
+48233	Texas	Hutchinson	pcnt_pop_in_viol	0
+48235	Texas	Irion	pcnt_pop_in_viol	0
+48237	Texas	Jack	pcnt_pop_in_viol	0
+48239	Texas	Jackson	pcnt_pop_in_viol	1
+48241	Texas	Jasper	pcnt_pop_in_viol	2
+48243	Texas	Jeff Davis	pcnt_pop_in_viol	0
+48245	Texas	Jefferson	pcnt_pop_in_viol	6
+48247	Texas	Jim Hogg	pcnt_pop_in_viol	100
+48249	Texas	Jim Wells	pcnt_pop_in_viol	7
+48251	Texas	Johnson	pcnt_pop_in_viol	4
+48253	Texas	Jones	pcnt_pop_in_viol	0
+48255	Texas	Karnes	pcnt_pop_in_viol	6
+48257	Texas	Kaufman	pcnt_pop_in_viol	3
+48259	Texas	Kendall	pcnt_pop_in_viol	13
+48261	Texas	Kenedy	pcnt_pop_in_viol	0
+48263	Texas	Kent	pcnt_pop_in_viol	23
+48265	Texas	Kerr	pcnt_pop_in_viol	2
+48267	Texas	Kimble	pcnt_pop_in_viol	0
+48269	Texas	King	pcnt_pop_in_viol	100
+48271	Texas	Kinney	pcnt_pop_in_viol	0
+48273	Texas	Kleberg	pcnt_pop_in_viol	2
+48275	Texas	Knox	pcnt_pop_in_viol	12
+48277	Texas	Lamar	pcnt_pop_in_viol	0
+48279	Texas	Lamb	pcnt_pop_in_viol	1
+48281	Texas	Lampasas	pcnt_pop_in_viol	10
+48283	Texas	La Salle	pcnt_pop_in_viol	0
+48285	Texas	Lavaca	pcnt_pop_in_viol	16
+48287	Texas	Lee	pcnt_pop_in_viol	6
+48289	Texas	Leon	pcnt_pop_in_viol	0
+48291	Texas	Liberty	pcnt_pop_in_viol	3
+48293	Texas	Limestone	pcnt_pop_in_viol	17
+48295	Texas	Lipscomb	pcnt_pop_in_viol	0
+48297	Texas	Live Oak	pcnt_pop_in_viol	36
+48299	Texas	Llano	pcnt_pop_in_viol	29
+48301	Texas	Loving	pcnt_pop_in_viol	0
+48303	Texas	Lubbock	pcnt_pop_in_viol	5
+48305	Texas	Lynn	pcnt_pop_in_viol	81
+48307	Texas	McCulloch	pcnt_pop_in_viol	94
+48309	Texas	McLennan	pcnt_pop_in_viol	5
+48311	Texas	McMullen	pcnt_pop_in_viol	0
+48313	Texas	Madison	pcnt_pop_in_viol	3
+48315	Texas	Marion	pcnt_pop_in_viol	23
+48317	Texas	Martin	pcnt_pop_in_viol	100
+48319	Texas	Mason	pcnt_pop_in_viol	100
+48321	Texas	Matagorda	pcnt_pop_in_viol	63
+48323	Texas	Maverick	pcnt_pop_in_viol	3
+48325	Texas	Medina	pcnt_pop_in_viol	3
+48327	Texas	Menard	pcnt_pop_in_viol	0
+48329	Texas	Midland	pcnt_pop_in_viol	99
+48331	Texas	Milam	pcnt_pop_in_viol	0
+48333	Texas	Mills	pcnt_pop_in_viol	88
+48335	Texas	Mitchell	pcnt_pop_in_viol	0
+48337	Texas	Montague	pcnt_pop_in_viol	0
+48339	Texas	Montgomery	pcnt_pop_in_viol	2
+48341	Texas	Moore	pcnt_pop_in_viol	0
+48343	Texas	Morris	pcnt_pop_in_viol	0
+48345	Texas	Motley	pcnt_pop_in_viol	25
+48347	Texas	Nacogdoches	pcnt_pop_in_viol	0
+48349	Texas	Navarro	pcnt_pop_in_viol	8
+48351	Texas	Newton	pcnt_pop_in_viol	0
+48353	Texas	Nolan	pcnt_pop_in_viol	15
+48355	Texas	Nueces	pcnt_pop_in_viol	1
+48357	Texas	Ochiltree	pcnt_pop_in_viol	0
+48359	Texas	Oldham	pcnt_pop_in_viol	0
+48361	Texas	Orange	pcnt_pop_in_viol	0
+48363	Texas	Palo Pinto	pcnt_pop_in_viol	1
+48365	Texas	Panola	pcnt_pop_in_viol	0
+48367	Texas	Parker	pcnt_pop_in_viol	1
+48369	Texas	Parmer	pcnt_pop_in_viol	0
+48371	Texas	Pecos	pcnt_pop_in_viol	6
+48373	Texas	Polk	pcnt_pop_in_viol	8
+48375	Texas	Potter	pcnt_pop_in_viol	0
+48377	Texas	Presidio	pcnt_pop_in_viol	1
+48379	Texas	Rains	pcnt_pop_in_viol	0
+48381	Texas	Randall	pcnt_pop_in_viol	2
+48383	Texas	Reagan	pcnt_pop_in_viol	0
+48385	Texas	Real	pcnt_pop_in_viol	0
+48387	Texas	Red River	pcnt_pop_in_viol	1
+48389	Texas	Reeves	pcnt_pop_in_viol	0
+48391	Texas	Refugio	pcnt_pop_in_viol	42
+48393	Texas	Roberts	pcnt_pop_in_viol	0
+48395	Texas	Robertson	pcnt_pop_in_viol	0
+48397	Texas	Rockwall	pcnt_pop_in_viol	0
+48399	Texas	Runnels	pcnt_pop_in_viol	71
+48401	Texas	Rusk	pcnt_pop_in_viol	1
+48403	Texas	Sabine	pcnt_pop_in_viol	48
+48405	Texas	San Augustine	pcnt_pop_in_viol	25
+48407	Texas	San Jacinto	pcnt_pop_in_viol	13
+48409	Texas	San Patricio	pcnt_pop_in_viol	0
+48411	Texas	San Saba	pcnt_pop_in_viol	12
+48413	Texas	Schleicher	pcnt_pop_in_viol	0
+48415	Texas	Scurry	pcnt_pop_in_viol	85
+48417	Texas	Shackelford	pcnt_pop_in_viol	61
+48419	Texas	Shelby	pcnt_pop_in_viol	42
+48421	Texas	Sherman	pcnt_pop_in_viol	0
+48423	Texas	Smith	pcnt_pop_in_viol	0
+48425	Texas	Somervell	pcnt_pop_in_viol	0
+48427	Texas	Starr	pcnt_pop_in_viol	6
+48429	Texas	Stephens	pcnt_pop_in_viol	0
+48431	Texas	Sterling	pcnt_pop_in_viol	0
+48433	Texas	Stonewall	pcnt_pop_in_viol	94
+48435	Texas	Sutton	pcnt_pop_in_viol	0
+48437	Texas	Swisher	pcnt_pop_in_viol	0
+48439	Texas	Tarrant	pcnt_pop_in_viol	23
+48441	Texas	Taylor	pcnt_pop_in_viol	0
+48443	Texas	Terrell	pcnt_pop_in_viol	0
+48445	Texas	Terry	pcnt_pop_in_viol	8
+48447	Texas	Throckmorton	pcnt_pop_in_viol	0
+48449	Texas	Titus	pcnt_pop_in_viol	0
+48451	Texas	Tom Green	pcnt_pop_in_viol	0
+48453	Texas	Travis	pcnt_pop_in_viol	3
+48455	Texas	Trinity	pcnt_pop_in_viol	8
+48457	Texas	Tyler	pcnt_pop_in_viol	12
+48459	Texas	Upshur	pcnt_pop_in_viol	0
+48461	Texas	Upton	pcnt_pop_in_viol	0
+48463	Texas	Uvalde	pcnt_pop_in_viol	0
+48465	Texas	Val Verde	pcnt_pop_in_viol	92
+48467	Texas	Van Zandt	pcnt_pop_in_viol	14
+48469	Texas	Victoria	pcnt_pop_in_viol	1
+48471	Texas	Walker	pcnt_pop_in_viol	0
+48473	Texas	Waller	pcnt_pop_in_viol	17
+48475	Texas	Ward	pcnt_pop_in_viol	0
+48477	Texas	Washington	pcnt_pop_in_viol	1
+48479	Texas	Webb	pcnt_pop_in_viol	0
+48481	Texas	Wharton	pcnt_pop_in_viol	0
+48483	Texas	Wheeler	pcnt_pop_in_viol	94
+48485	Texas	Wichita	pcnt_pop_in_viol	8
+48487	Texas	Wilbarger	pcnt_pop_in_viol	98
+48489	Texas	Willacy	pcnt_pop_in_viol	0
+48491	Texas	Williamson	pcnt_pop_in_viol	1
+48493	Texas	Wilson	pcnt_pop_in_viol	0
+48495	Texas	Winkler	pcnt_pop_in_viol	0
+48497	Texas	Wise	pcnt_pop_in_viol	20
+48499	Texas	Wood	pcnt_pop_in_viol	0
+48501	Texas	Yoakum	pcnt_pop_in_viol	100
+48503	Texas	Young	pcnt_pop_in_viol	0
+48505	Texas	Zapata	pcnt_pop_in_viol	0
+48507	Texas	Zavala	pcnt_pop_in_viol	15
+49001	Utah	Beaver	pcnt_pop_in_viol	28
+49003	Utah	Box Elder	pcnt_pop_in_viol	3
+49005	Utah	Cache	pcnt_pop_in_viol	8
+49007	Utah	Carbon	pcnt_pop_in_viol	0
+49009	Utah	Daggett	pcnt_pop_in_viol	49
+49011	Utah	Davis	pcnt_pop_in_viol	17
+49013	Utah	Duchesne	pcnt_pop_in_viol	53
+49015	Utah	Emery	pcnt_pop_in_viol	15
+49017	Utah	Garfield	pcnt_pop_in_viol	19
+49019	Utah	Grand	pcnt_pop_in_viol	0
+49021	Utah	Iron	pcnt_pop_in_viol	4
+49023	Utah	Juab	pcnt_pop_in_viol	9
+49025	Utah	Kane	pcnt_pop_in_viol	8
+49027	Utah	Millard	pcnt_pop_in_viol	4
+49029	Utah	Morgan	pcnt_pop_in_viol	11
+49031	Utah	Piute	pcnt_pop_in_viol	30
+49033	Utah	Rich	pcnt_pop_in_viol	46
+49035	Utah	Salt Lake	pcnt_pop_in_viol	5
+49037	Utah	San Juan	pcnt_pop_in_viol	6
+49039	Utah	Sanpete	pcnt_pop_in_viol	27
+49041	Utah	Sevier	pcnt_pop_in_viol	7
+49043	Utah	Summit	pcnt_pop_in_viol	29
+49045	Utah	Tooele	pcnt_pop_in_viol	60
+49047	Utah	Uintah	pcnt_pop_in_viol	38
+49049	Utah	Utah	pcnt_pop_in_viol	21
+49051	Utah	Wasatch	pcnt_pop_in_viol	61
+49053	Utah	Washington	pcnt_pop_in_viol	19
+49055	Utah	Wayne	pcnt_pop_in_viol	23
+49057	Utah	Weber	pcnt_pop_in_viol	9
+50001	Vermont	Addison	pcnt_pop_in_viol	30
+50003	Vermont	Bennington	pcnt_pop_in_viol	3
+50005	Vermont	Caledonia	pcnt_pop_in_viol	4
+50007	Vermont	Chittenden	pcnt_pop_in_viol	8
+50009	Vermont	Essex	pcnt_pop_in_viol	5
+50011	Vermont	Franklin	pcnt_pop_in_viol	2
+50013	Vermont	Grand Isle	pcnt_pop_in_viol	56
+50015	Vermont	Lamoille	pcnt_pop_in_viol	24
+50017	Vermont	Orange	pcnt_pop_in_viol	1
+50019	Vermont	Orleans	pcnt_pop_in_viol	2
+50021	Vermont	Rutland	pcnt_pop_in_viol	51
+50023	Vermont	Washington	pcnt_pop_in_viol	1
+50025	Vermont	Windham	pcnt_pop_in_viol	6
+50027	Vermont	Windsor	pcnt_pop_in_viol	4
+51001	Virginia	Accomack	pcnt_pop_in_viol	23
+51003	Virginia	Albemarle	pcnt_pop_in_viol	0
+51005	Virginia	Alleghany	pcnt_pop_in_viol	0
+51007	Virginia	Amelia	pcnt_pop_in_viol	0
+51009	Virginia	Amherst	pcnt_pop_in_viol	0
+51011	Virginia	Appomattox	pcnt_pop_in_viol	0
+51013	Virginia	Arlington	pcnt_pop_in_viol	0
+51015	Virginia	Augusta	pcnt_pop_in_viol	0
+51017	Virginia	Bath	pcnt_pop_in_viol	0
+51019	Virginia	Bedford	pcnt_pop_in_viol	1
+51021	Virginia	Bland	pcnt_pop_in_viol	2
+51023	Virginia	Botetourt	pcnt_pop_in_viol	6
+51025	Virginia	Brunswick	pcnt_pop_in_viol	11
+51027	Virginia	Buchanan	pcnt_pop_in_viol	0
+51029	Virginia	Buckingham	pcnt_pop_in_viol	0
+51031	Virginia	Campbell	pcnt_pop_in_viol	6
+51033	Virginia	Caroline	pcnt_pop_in_viol	19
+51035	Virginia	Carroll	pcnt_pop_in_viol	3
+51036	Virginia	Charles City	pcnt_pop_in_viol	0
+51037	Virginia	Charlotte	pcnt_pop_in_viol	0
+51041	Virginia	Chesterfield	pcnt_pop_in_viol	0
+51043	Virginia	Clarke	pcnt_pop_in_viol	0
+51045	Virginia	Craig	pcnt_pop_in_viol	0
+51047	Virginia	Culpeper	pcnt_pop_in_viol	1
+51049	Virginia	Cumberland	pcnt_pop_in_viol	0
+51051	Virginia	Dickenson	pcnt_pop_in_viol	0
+51053	Virginia	Dinwiddie	pcnt_pop_in_viol	0
+51057	Virginia	Essex	pcnt_pop_in_viol	1
+51059	Virginia	Fairfax	pcnt_pop_in_viol	0
+51061	Virginia	Fauquier	pcnt_pop_in_viol	5
+51063	Virginia	Floyd	pcnt_pop_in_viol	0
+51065	Virginia	Fluvanna	pcnt_pop_in_viol	0
+51067	Virginia	Franklin	pcnt_pop_in_viol	0
+51069	Virginia	Frederick	pcnt_pop_in_viol	0
+51071	Virginia	Giles	pcnt_pop_in_viol	0
+51073	Virginia	Gloucester	pcnt_pop_in_viol	0
+51075	Virginia	Goochland	pcnt_pop_in_viol	0
+51077	Virginia	Grayson	pcnt_pop_in_viol	0
+51079	Virginia	Greene	pcnt_pop_in_viol	22
+51081	Virginia	Greensville	pcnt_pop_in_viol	0
+51083	Virginia	Halifax	pcnt_pop_in_viol	0
+51085	Virginia	Hanover	pcnt_pop_in_viol	0
+51087	Virginia	Henrico	pcnt_pop_in_viol	0
+51089	Virginia	Henry	pcnt_pop_in_viol	0
+51091	Virginia	Highland	pcnt_pop_in_viol	0
+51093	Virginia	Isle of Wight	pcnt_pop_in_viol	21
+51095	Virginia	James City	pcnt_pop_in_viol	0
+51097	Virginia	King and Queen	pcnt_pop_in_viol	0
+51099	Virginia	King George	pcnt_pop_in_viol	21
+51101	Virginia	King William	pcnt_pop_in_viol	49
+51103	Virginia	Lancaster	pcnt_pop_in_viol	8
+51105	Virginia	Lee	pcnt_pop_in_viol	23
+51107	Virginia	Loudoun	pcnt_pop_in_viol	0
+51109	Virginia	Louisa	pcnt_pop_in_viol	1
+51111	Virginia	Lunenburg	pcnt_pop_in_viol	0
+51113	Virginia	Madison	pcnt_pop_in_viol	0
+51115	Virginia	Mathews	pcnt_pop_in_viol	18
+51117	Virginia	Mecklenburg	pcnt_pop_in_viol	2
+51119	Virginia	Middlesex	pcnt_pop_in_viol	0
+51121	Virginia	Montgomery	pcnt_pop_in_viol	0
+51125	Virginia	Nelson	pcnt_pop_in_viol	0
+51127	Virginia	New Kent	pcnt_pop_in_viol	0
+51131	Virginia	Northampton	pcnt_pop_in_viol	56
+51133	Virginia	Northumberland	pcnt_pop_in_viol	0
+51135	Virginia	Nottoway	pcnt_pop_in_viol	90
+51137	Virginia	Orange	pcnt_pop_in_viol	0
+51139	Virginia	Page	pcnt_pop_in_viol	0
+51141	Virginia	Patrick	pcnt_pop_in_viol	0
+51143	Virginia	Pittsylvania	pcnt_pop_in_viol	17
+51145	Virginia	Powhatan	pcnt_pop_in_viol	0
+51147	Virginia	Prince Edward	pcnt_pop_in_viol	0
+51149	Virginia	Prince George	pcnt_pop_in_viol	1
+51153	Virginia	Prince William	pcnt_pop_in_viol	0
+51155	Virginia	Pulaski	pcnt_pop_in_viol	0
+51157	Virginia	Rappahannock	pcnt_pop_in_viol	0
+51159	Virginia	Richmond	pcnt_pop_in_viol	3
+51161	Virginia	Roanoke	pcnt_pop_in_viol	0
+51163	Virginia	Rockbridge	pcnt_pop_in_viol	0
+51165	Virginia	Rockingham	pcnt_pop_in_viol	10
+51167	Virginia	Russell	pcnt_pop_in_viol	0
+51169	Virginia	Scott	pcnt_pop_in_viol	0
+51171	Virginia	Shenandoah	pcnt_pop_in_viol	30
+51173	Virginia	Smyth	pcnt_pop_in_viol	25
+51175	Virginia	Southampton	pcnt_pop_in_viol	14
+51177	Virginia	Spotsylvania	pcnt_pop_in_viol	0
+51179	Virginia	Stafford	pcnt_pop_in_viol	0
+51181	Virginia	Surry	pcnt_pop_in_viol	6
+51183	Virginia	Sussex	pcnt_pop_in_viol	0
+51185	Virginia	Tazewell	pcnt_pop_in_viol	0
+51187	Virginia	Warren	pcnt_pop_in_viol	1
+51191	Virginia	Washington	pcnt_pop_in_viol	0
+51193	Virginia	Westmoreland	pcnt_pop_in_viol	0
+51195	Virginia	Wise	pcnt_pop_in_viol	37
+51197	Virginia	Wythe	pcnt_pop_in_viol	1
+51199	Virginia	York	pcnt_pop_in_viol	0
+51510	Virginia	Alexandria City	pcnt_pop_in_viol	
+51515	Virginia	Bedford City	pcnt_pop_in_viol	
+51520	Virginia	Bristol City	pcnt_pop_in_viol	
+51530	Virginia	Buena Vista City	pcnt_pop_in_viol	
+51540	Virginia	Charlottesville City	pcnt_pop_in_viol	
+51550	Virginia	Chesapeake City	pcnt_pop_in_viol	
+51570	Virginia	Colonial Heights City	pcnt_pop_in_viol	
+51580	Virginia	Covington City	pcnt_pop_in_viol	
+51590	Virginia	Danville City	pcnt_pop_in_viol	
+51595	Virginia	Emporia City	pcnt_pop_in_viol	
+51600	Virginia	Fairfax City	pcnt_pop_in_viol	
+51610	Virginia	Falls Church City	pcnt_pop_in_viol	
+51620	Virginia	Franklin City	pcnt_pop_in_viol	
+51630	Virginia	Fredericksburg City	pcnt_pop_in_viol	
+51640	Virginia	Galax City	pcnt_pop_in_viol	
+51650	Virginia	Hampton City	pcnt_pop_in_viol	
+51660	Virginia	Harrisonburg City	pcnt_pop_in_viol	
+51670	Virginia	Hopewell City	pcnt_pop_in_viol	
+51678	Virginia	Lexington City	pcnt_pop_in_viol	
+51680	Virginia	Lynchburg City	pcnt_pop_in_viol	
+51683	Virginia	Manassas City	pcnt_pop_in_viol	
+51685	Virginia	Manassas Park City	pcnt_pop_in_viol	
+51690	Virginia	Martinsville City	pcnt_pop_in_viol	
+51700	Virginia	Newport News City	pcnt_pop_in_viol	
+51710	Virginia	Norfolk City	pcnt_pop_in_viol	
+51720	Virginia	Norton City	pcnt_pop_in_viol	
+51730	Virginia	Petersburg City	pcnt_pop_in_viol	
+51735	Virginia	Poquoson City	pcnt_pop_in_viol	
+51740	Virginia	Portsmouth City	pcnt_pop_in_viol	
+51750	Virginia	Radford City	pcnt_pop_in_viol	
+51760	Virginia	Richmond City	pcnt_pop_in_viol	
+51770	Virginia	Roanoke City	pcnt_pop_in_viol	
+51775	Virginia	Salem City	pcnt_pop_in_viol	
+51790	Virginia	Staunton City	pcnt_pop_in_viol	
+51800	Virginia	Suffolk City	pcnt_pop_in_viol	
+51810	Virginia	Virginia Beach City	pcnt_pop_in_viol	
+51820	Virginia	Waynesboro City	pcnt_pop_in_viol	
+51830	Virginia	Williamsburg City	pcnt_pop_in_viol	
+51840	Virginia	Winchester City	pcnt_pop_in_viol	
+53001	Washington	Adams	pcnt_pop_in_viol	0
+53003	Washington	Asotin	pcnt_pop_in_viol	0
+53005	Washington	Benton	pcnt_pop_in_viol	0
+53007	Washington	Chelan	pcnt_pop_in_viol	1
+53009	Washington	Clallam	pcnt_pop_in_viol	3
+53011	Washington	Clark	pcnt_pop_in_viol	0
+53013	Washington	Columbia	pcnt_pop_in_viol	0
+53015	Washington	Cowlitz	pcnt_pop_in_viol	0
+53017	Washington	Douglas	pcnt_pop_in_viol	1
+53019	Washington	Ferry	pcnt_pop_in_viol	15
+53021	Washington	Franklin	pcnt_pop_in_viol	3
+53023	Washington	Garfield	pcnt_pop_in_viol	0
+53025	Washington	Grant	pcnt_pop_in_viol	5
+53027	Washington	Grays Harbor	pcnt_pop_in_viol	0
+53029	Washington	Island	pcnt_pop_in_viol	1
+53031	Washington	Jefferson	pcnt_pop_in_viol	1
+53033	Washington	King	pcnt_pop_in_viol	0
+53035	Washington	Kitsap	pcnt_pop_in_viol	0
+53037	Washington	Kittitas	pcnt_pop_in_viol	0
+53039	Washington	Klickitat	pcnt_pop_in_viol	0
+53041	Washington	Lewis	pcnt_pop_in_viol	0
+53043	Washington	Lincoln	pcnt_pop_in_viol	2
+53045	Washington	Mason	pcnt_pop_in_viol	0
+53047	Washington	Okanogan	pcnt_pop_in_viol	2
+53049	Washington	Pacific	pcnt_pop_in_viol	0
+53051	Washington	Pend Oreille	pcnt_pop_in_viol	7
+53053	Washington	Pierce	pcnt_pop_in_viol	0
+53055	Washington	San Juan	pcnt_pop_in_viol	0
+53057	Washington	Skagit	pcnt_pop_in_viol	0
+53059	Washington	Skamania	pcnt_pop_in_viol	0
+53061	Washington	Snohomish	pcnt_pop_in_viol	0
+53063	Washington	Spokane	pcnt_pop_in_viol	0
+53065	Washington	Stevens	pcnt_pop_in_viol	0
+53067	Washington	Thurston	pcnt_pop_in_viol	0
+53069	Washington	Wahkiakum	pcnt_pop_in_viol	0
+53071	Washington	Walla Walla	pcnt_pop_in_viol	2
+53073	Washington	Whatcom	pcnt_pop_in_viol	1
+53075	Washington	Whitman	pcnt_pop_in_viol	0
+53077	Washington	Yakima	pcnt_pop_in_viol	0
+54001	West Virginia	Barbour	pcnt_pop_in_viol	0
+54003	West Virginia	Berkeley	pcnt_pop_in_viol	0
+54005	West Virginia	Boone	pcnt_pop_in_viol	0
+54007	West Virginia	Braxton	pcnt_pop_in_viol	0
+54009	West Virginia	Brooke	pcnt_pop_in_viol	0
+54011	West Virginia	Cabell	pcnt_pop_in_viol	0
+54013	West Virginia	Calhoun	pcnt_pop_in_viol	28
+54015	West Virginia	Clay	pcnt_pop_in_viol	0
+54017	West Virginia	Doddridge	pcnt_pop_in_viol	0
+54019	West Virginia	Fayette	pcnt_pop_in_viol	0
+54021	West Virginia	Gilmer	pcnt_pop_in_viol	0
+54023	West Virginia	Grant	pcnt_pop_in_viol	0
+54025	West Virginia	Greenbrier	pcnt_pop_in_viol	10
+54027	West Virginia	Hampshire	pcnt_pop_in_viol	0
+54029	West Virginia	Hancock	pcnt_pop_in_viol	0
+54031	West Virginia	Hardy	pcnt_pop_in_viol	0
+54033	West Virginia	Harrison	pcnt_pop_in_viol	10
+54035	West Virginia	Jackson	pcnt_pop_in_viol	0
+54037	West Virginia	Jefferson	pcnt_pop_in_viol	0
+54039	West Virginia	Kanawha	pcnt_pop_in_viol	1
+54041	West Virginia	Lewis	pcnt_pop_in_viol	0
+54043	West Virginia	Lincoln	pcnt_pop_in_viol	0
+54045	West Virginia	Logan	pcnt_pop_in_viol	0
+54047	West Virginia	McDowell	pcnt_pop_in_viol	2
+54049	West Virginia	Marion	pcnt_pop_in_viol	1
+54051	West Virginia	Marshall	pcnt_pop_in_viol	0
+54053	West Virginia	Mason	pcnt_pop_in_viol	0
+54055	West Virginia	Mercer	pcnt_pop_in_viol	19
+54057	West Virginia	Mineral	pcnt_pop_in_viol	28
+54059	West Virginia	Mingo	pcnt_pop_in_viol	0
+54061	West Virginia	Monongalia	pcnt_pop_in_viol	0
+54063	West Virginia	Monroe	pcnt_pop_in_viol	0
+54065	West Virginia	Morgan	pcnt_pop_in_viol	2
+54067	West Virginia	Nicholas	pcnt_pop_in_viol	15
+54069	West Virginia	Ohio	pcnt_pop_in_viol	0
+54071	West Virginia	Pendleton	pcnt_pop_in_viol	0
+54073	West Virginia	Pleasants	pcnt_pop_in_viol	0
+54075	West Virginia	Pocahontas	pcnt_pop_in_viol	0
+54077	West Virginia	Preston	pcnt_pop_in_viol	0
+54079	West Virginia	Putnam	pcnt_pop_in_viol	0
+54081	West Virginia	Raleigh	pcnt_pop_in_viol	0
+54083	West Virginia	Randolph	pcnt_pop_in_viol	1
+54085	West Virginia	Ritchie	pcnt_pop_in_viol	0
+54087	West Virginia	Roane	pcnt_pop_in_viol	0
+54089	West Virginia	Summers	pcnt_pop_in_viol	0
+54091	West Virginia	Taylor	pcnt_pop_in_viol	0
+54093	West Virginia	Tucker	pcnt_pop_in_viol	13
+54095	West Virginia	Tyler	pcnt_pop_in_viol	0
+54097	West Virginia	Upshur	pcnt_pop_in_viol	0
+54099	West Virginia	Wayne	pcnt_pop_in_viol	0
+54101	West Virginia	Webster	pcnt_pop_in_viol	0
+54103	West Virginia	Wetzel	pcnt_pop_in_viol	0
+54105	West Virginia	Wirt	pcnt_pop_in_viol	0
+54107	West Virginia	Wood	pcnt_pop_in_viol	8
+54109	West Virginia	Wyoming	pcnt_pop_in_viol	3
+55001	Wisconsin	Adams	pcnt_pop_in_viol	0
+55003	Wisconsin	Ashland	pcnt_pop_in_viol	4
+55005	Wisconsin	Barron	pcnt_pop_in_viol	25
+55007	Wisconsin	Bayfield	pcnt_pop_in_viol	56
+55009	Wisconsin	Brown	pcnt_pop_in_viol	0
+55011	Wisconsin	Buffalo	pcnt_pop_in_viol	0
+55013	Wisconsin	Burnett	pcnt_pop_in_viol	21
+55015	Wisconsin	Calumet	pcnt_pop_in_viol	0
+55017	Wisconsin	Chippewa	pcnt_pop_in_viol	0
+55019	Wisconsin	Clark	pcnt_pop_in_viol	0
+55021	Wisconsin	Columbia	pcnt_pop_in_viol	0
+55023	Wisconsin	Crawford	pcnt_pop_in_viol	0
+55025	Wisconsin	Dane	pcnt_pop_in_viol	5
+55027	Wisconsin	Dodge	pcnt_pop_in_viol	10
+55029	Wisconsin	Door	pcnt_pop_in_viol	0
+55031	Wisconsin	Douglas	pcnt_pop_in_viol	0
+55033	Wisconsin	Dunn	pcnt_pop_in_viol	81
+55035	Wisconsin	Eau Claire	pcnt_pop_in_viol	2
+55037	Wisconsin	Florence	pcnt_pop_in_viol	0
+55039	Wisconsin	Fond du Lac	pcnt_pop_in_viol	3
+55041	Wisconsin	Forest	pcnt_pop_in_viol	0
+55043	Wisconsin	Grant	pcnt_pop_in_viol	10
+55045	Wisconsin	Green	pcnt_pop_in_viol	0
+55047	Wisconsin	Green Lake	pcnt_pop_in_viol	55
+55049	Wisconsin	Iowa	pcnt_pop_in_viol	19
+55051	Wisconsin	Iron	pcnt_pop_in_viol	23
+55053	Wisconsin	Jackson	pcnt_pop_in_viol	0
+55055	Wisconsin	Jefferson	pcnt_pop_in_viol	14
+55057	Wisconsin	Juneau	pcnt_pop_in_viol	0
+55059	Wisconsin	Kenosha	pcnt_pop_in_viol	7
+55061	Wisconsin	Kewaunee	pcnt_pop_in_viol	0
+55063	Wisconsin	La Crosse	pcnt_pop_in_viol	1
+55065	Wisconsin	Lafayette	pcnt_pop_in_viol	6
+55067	Wisconsin	Langlade	pcnt_pop_in_viol	4
+55069	Wisconsin	Lincoln	pcnt_pop_in_viol	1
+55071	Wisconsin	Manitowoc	pcnt_pop_in_viol	2
+55073	Wisconsin	Marathon	pcnt_pop_in_viol	0
+55075	Wisconsin	Marinette	pcnt_pop_in_viol	0
+55077	Wisconsin	Marquette	pcnt_pop_in_viol	0
+55078	Wisconsin	Menominee	pcnt_pop_in_viol	
+55079	Wisconsin	Milwaukee	pcnt_pop_in_viol	3
+55081	Wisconsin	Monroe	pcnt_pop_in_viol	24
+55083	Wisconsin	Oconto	pcnt_pop_in_viol	1
+55085	Wisconsin	Oneida	pcnt_pop_in_viol	21
+55087	Wisconsin	Outagamie	pcnt_pop_in_viol	2
+55089	Wisconsin	Ozaukee	pcnt_pop_in_viol	22
+55091	Wisconsin	Pepin	pcnt_pop_in_viol	0
+55093	Wisconsin	Pierce	pcnt_pop_in_viol	1
+55095	Wisconsin	Polk	pcnt_pop_in_viol	29
+55097	Wisconsin	Portage	pcnt_pop_in_viol	0
+55099	Wisconsin	Price	pcnt_pop_in_viol	0
+55101	Wisconsin	Racine	pcnt_pop_in_viol	10
+55103	Wisconsin	Richland	pcnt_pop_in_viol	0
+55105	Wisconsin	Rock	pcnt_pop_in_viol	0
+55107	Wisconsin	Rusk	pcnt_pop_in_viol	14
+55109	Wisconsin	St. Croix	pcnt_pop_in_viol	13
+55111	Wisconsin	Sauk	pcnt_pop_in_viol	11
+55113	Wisconsin	Sawyer	pcnt_pop_in_viol	16
+55115	Wisconsin	Shawano	pcnt_pop_in_viol	43
+55117	Wisconsin	Sheboygan	pcnt_pop_in_viol	0
+55119	Wisconsin	Taylor	pcnt_pop_in_viol	0
+55121	Wisconsin	Trempealeau	pcnt_pop_in_viol	7
+55123	Wisconsin	Vernon	pcnt_pop_in_viol	0
+55125	Wisconsin	Vilas	pcnt_pop_in_viol	0
+55127	Wisconsin	Walworth	pcnt_pop_in_viol	4
+55129	Wisconsin	Washburn	pcnt_pop_in_viol	0
+55131	Wisconsin	Washington	pcnt_pop_in_viol	6
+55133	Wisconsin	Waukesha	pcnt_pop_in_viol	41
+55135	Wisconsin	Waupaca	pcnt_pop_in_viol	0
+55137	Wisconsin	Waushara	pcnt_pop_in_viol	0
+55139	Wisconsin	Winnebago	pcnt_pop_in_viol	0
+55141	Wisconsin	Wood	pcnt_pop_in_viol	0
+56001	Wyoming	Albany	pcnt_pop_in_viol	1
+56003	Wyoming	Big Horn	pcnt_pop_in_viol	0
+56005	Wyoming	Campbell	pcnt_pop_in_viol	1
+56007	Wyoming	Carbon	pcnt_pop_in_viol	7
+56009	Wyoming	Converse	pcnt_pop_in_viol	0
+56011	Wyoming	Crook	pcnt_pop_in_viol	0
+56013	Wyoming	Fremont	pcnt_pop_in_viol	2
+56015	Wyoming	Goshen	pcnt_pop_in_viol	1
+56017	Wyoming	Hot Springs	pcnt_pop_in_viol	76
+56019	Wyoming	Johnson	pcnt_pop_in_viol	0
+56021	Wyoming	Laramie	pcnt_pop_in_viol	0
+56023	Wyoming	Lincoln	pcnt_pop_in_viol	0
+56025	Wyoming	Natrona	pcnt_pop_in_viol	0
+56027	Wyoming	Niobrara	pcnt_pop_in_viol	0
+56029	Wyoming	Park	pcnt_pop_in_viol	2
+56031	Wyoming	Platte	pcnt_pop_in_viol	65
+56033	Wyoming	Sheridan	pcnt_pop_in_viol	0
+56035	Wyoming	Sublette	pcnt_pop_in_viol	0
+56037	Wyoming	Sweetwater	pcnt_pop_in_viol	0
+56039	Wyoming	Teton	pcnt_pop_in_viol	0
+56041	Wyoming	Uinta	pcnt_pop_in_viol	0
+56043	Wyoming	Washakie	pcnt_pop_in_viol	0
+56045	Wyoming	Weston	pcnt_pop_in_viol	3

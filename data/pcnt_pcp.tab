@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_pcp
+01001	Alabama	Autauga	pcnt_pcp	0.000366
+01003	Alabama	Baldwin	pcnt_pcp	0.000742
+01005	Alabama	Barbour	pcnt_pcp	0.000438
+01007	Alabama	Bibb	pcnt_pcp	0.000262
+01009	Alabama	Blount	pcnt_pcp	0.000209
+01011	Alabama	Bullock	pcnt_pcp	0.000551
+01013	Alabama	Butler	pcnt_pcp	0.000334
+01015	Alabama	Calhoun	pcnt_pcp	0.000625
+01017	Alabama	Chambers	pcnt_pcp	0.000410
+01019	Alabama	Cherokee	pcnt_pcp	0.000308
+01021	Alabama	Chilton	pcnt_pcp	0.000183
+01023	Alabama	Choctaw	pcnt_pcp	0.000361
+01025	Alabama	Clarke	pcnt_pcp	0.000543
+01027	Alabama	Clay	pcnt_pcp	0.000359
+01029	Alabama	Cleburne	pcnt_pcp	0.000134
+01031	Alabama	Coffee	pcnt_pcp	0.000439
+01033	Alabama	Colbert	pcnt_pcp	0.000606
+01035	Alabama	Conecuh	pcnt_pcp	0.000378
+01037	Alabama	Coosa	pcnt_pcp	0.000087
+01039	Alabama	Covington	pcnt_pcp	0.000635
+01041	Alabama	Crenshaw	pcnt_pcp	0.000144
+01043	Alabama	Cullman	pcnt_pcp	0.000572
+01045	Alabama	Dale	pcnt_pcp	0.000278
+01047	Alabama	Dallas	pcnt_pcp	0.000548
+01049	Alabama	DeKalb	pcnt_pcp	0.000309
+01051	Alabama	Elmore	pcnt_pcp	0.000289
+01053	Alabama	Escambia	pcnt_pcp	0.000549
+01055	Alabama	Etowah	pcnt_pcp	0.000709
+01057	Alabama	Fayette	pcnt_pcp	0.000406
+01059	Alabama	Franklin	pcnt_pcp	0.000473
+01061	Alabama	Geneva	pcnt_pcp	0.000186
+01063	Alabama	Greene	pcnt_pcp	0.000333
+01065	Alabama	Hale	pcnt_pcp	0.000064
+01067	Alabama	Henry	pcnt_pcp	0.000289
+01069	Alabama	Houston	pcnt_pcp	0.000776
+01071	Alabama	Jackson	pcnt_pcp	0.000508
+01073	Alabama	Jefferson	pcnt_pcp	0.000973
+01075	Alabama	Lamar	pcnt_pcp	0.000207
+01077	Alabama	Lauderdale	pcnt_pcp	0.000507
+01079	Alabama	Lawrence	pcnt_pcp	0.000175
+01081	Alabama	Lee	pcnt_pcp	0.000483
+01083	Alabama	Limestone	pcnt_pcp	0.000252
+01085	Alabama	Lowndes	pcnt_pcp	0.000089
+01087	Alabama	Macon	pcnt_pcp	0.000232
+01089	Alabama	Madison	pcnt_pcp	0.000840
+01091	Alabama	Marengo	pcnt_pcp	0.000334
+01093	Alabama	Marion	pcnt_pcp	0.000683
+01095	Alabama	Marshall	pcnt_pcp	0.000558
+01097	Alabama	Mobile	pcnt_pcp	0.000583
+01099	Alabama	Monroe	pcnt_pcp	0.000348
+01101	Alabama	Montgomery	pcnt_pcp	0.000845
+01103	Alabama	Morgan	pcnt_pcp	0.000560
+01105	Alabama	Perry	pcnt_pcp	0.000380
+01107	Alabama	Pickens	pcnt_pcp	0.000355
+01109	Alabama	Pike	pcnt_pcp	0.000546
+01111	Alabama	Randolph	pcnt_pcp	0.000393
+01113	Alabama	Russell	pcnt_pcp	0.000301
+01115	Alabama	St. Clair	pcnt_pcp	0.000239
+01117	Alabama	Shelby	pcnt_pcp	0.000853
+01119	Alabama	Sumter	pcnt_pcp	0.000436
+01121	Alabama	Talladega	pcnt_pcp	0.000317
+01123	Alabama	Tallapoosa	pcnt_pcp	0.000385
+01125	Alabama	Tuscaloosa	pcnt_pcp	0.000687
+01127	Alabama	Walker	pcnt_pcp	0.000478
+01129	Alabama	Washington	pcnt_pcp	0.000170
+01131	Alabama	Wilcox	pcnt_pcp	0.000431
+01133	Alabama	Winston	pcnt_pcp	0.000328
+02013	Alaska	Aleutians East	pcnt_pcp	#VALUE!
+02016	Alaska	Aleutians West	pcnt_pcp	0.001082
+02020	Alaska	Anchorage	pcnt_pcp	0.000921
+02050	Alaska	Bethel	pcnt_pcp	0.000935
+02060	Alaska	Bristol Bay	pcnt_pcp	0.023928
+02068	Alaska	Denali	pcnt_pcp	0.013079
+02070	Alaska	Dillingham	pcnt_pcp	0.002463
+02090	Alaska	Fairbanks North Star	pcnt_pcp	0.000713
+02100	Alaska	Haines	pcnt_pcp	0.001996
+02110	Alaska	Juneau	pcnt_pcp	0.001211
+02122	Alaska	Kenai Peninsula	pcnt_pcp	0.000810
+02130	Alaska	Ketchikan Gateway	pcnt_pcp	0.001035
+02150	Alaska	Kodiak Island	pcnt_pcp	0.001321
+02164	Alaska	Lake and Peninsula	pcnt_pcp	0.014688
+02170	Alaska	Matanuska-Susitna	pcnt_pcp	0.000524
+02180	Alaska	Nome	pcnt_pcp	0.001045
+02185	Alaska	North Slope	pcnt_pcp	0.000211
+02188	Alaska	Northwest Arctic	pcnt_pcp	0.000530
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_pcp	0.000894
+02220	Alaska	Sitka	pcnt_pcp	0.002132
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_pcp	#VALUE!
+02240	Alaska	Southeast Fairbanks	pcnt_pcp	0.000566
+02261	Alaska	Valdez-Cordova	pcnt_pcp	0.000723
+02270	Alaska	Wade Hampton	pcnt_pcp	#VALUE!
+02280	Alaska	Wrangell-Petersburg	pcnt_pcp	0.001129
+02282	Alaska	Yakutat	pcnt_pcp	0.036419
+02290	Alaska	Yukon-Koyukuk	pcnt_pcp	0.000178
+04001	Arizona	Apache	pcnt_pcp	0.000321
+04003	Arizona	Cochise	pcnt_pcp	0.000387
+04005	Arizona	Coconino	pcnt_pcp	0.000736
+04007	Arizona	Gila	pcnt_pcp	0.000729
+04009	Arizona	Graham	pcnt_pcp	0.000485
+04011	Arizona	Greenlee	pcnt_pcp	0.000479
+04012	Arizona	La Paz	pcnt_pcp	0.000440
+04013	Arizona	Maricopa	pcnt_pcp	0.000671
+04015	Arizona	Mohave	pcnt_pcp	0.000496
+04017	Arizona	Navajo	pcnt_pcp	0.000567
+04019	Arizona	Pima	pcnt_pcp	0.000801
+04021	Arizona	Pinal	pcnt_pcp	0.000133
+04023	Arizona	Santa Cruz	pcnt_pcp	0.000337
+04025	Arizona	Yavapai	pcnt_pcp	0.000621
+04027	Arizona	Yuma	pcnt_pcp	0.000432
+05001	Arkansas	Arkansas	pcnt_pcp	0.000527
+05003	Arkansas	Ashley	pcnt_pcp	0.000366
+05005	Arkansas	Baxter	pcnt_pcp	0.000747
+05007	Arkansas	Benton	pcnt_pcp	0.000543
+05009	Arkansas	Boone	pcnt_pcp	0.000759
+05011	Arkansas	Bradley	pcnt_pcp	0.000522
+05013	Arkansas	Calhoun	pcnt_pcp	0.000188
+05015	Arkansas	Carroll	pcnt_pcp	0.000581
+05017	Arkansas	Chicot	pcnt_pcp	0.000933
+05019	Arkansas	Clark	pcnt_pcp	0.000610
+05021	Arkansas	Clay	pcnt_pcp	0.000249
+05023	Arkansas	Cleburne	pcnt_pcp	0.000577
+05025	Arkansas	Cleveland	pcnt_pcp	0.000115
+05027	Arkansas	Columbia	pcnt_pcp	0.000531
+05029	Arkansas	Conway	pcnt_pcp	0.000658
+05031	Arkansas	Craighead	pcnt_pcp	0.001004
+05033	Arkansas	Crawford	pcnt_pcp	0.000484
+05035	Arkansas	Crittenden	pcnt_pcp	0.000432
+05037	Arkansas	Cross	pcnt_pcp	0.000449
+05039	Arkansas	Dallas	pcnt_pcp	0.000618
+05041	Arkansas	Desha	pcnt_pcp	0.000462
+05043	Arkansas	Drew	pcnt_pcp	0.000486
+05045	Arkansas	Faulkner	pcnt_pcp	0.000474
+05047	Arkansas	Franklin	pcnt_pcp	0.000276
+05049	Arkansas	Fulton	pcnt_pcp	0.000735
+05051	Arkansas	Garland	pcnt_pcp	0.000707
+05053	Arkansas	Grant	pcnt_pcp	0.000168
+05055	Arkansas	Greene	pcnt_pcp	0.000569
+05057	Arkansas	Hempstead	pcnt_pcp	0.000266
+05059	Arkansas	Hot Spring	pcnt_pcp	0.000243
+05061	Arkansas	Howard	pcnt_pcp	0.000507
+05063	Arkansas	Independence	pcnt_pcp	0.000872
+05065	Arkansas	Izard	pcnt_pcp	0.000293
+05067	Arkansas	Jackson	pcnt_pcp	0.000445
+05069	Arkansas	Jefferson	pcnt_pcp	0.000776
+05071	Arkansas	Johnson	pcnt_pcp	0.000704
+05073	Arkansas	Lafayette	pcnt_pcp	0.000262
+05075	Arkansas	Lawrence	pcnt_pcp	0.000344
+05077	Arkansas	Lee	pcnt_pcp	0.000288
+05079	Arkansas	Lincoln	pcnt_pcp	0.000071
+05081	Arkansas	Little River	pcnt_pcp	0.000533
+05083	Arkansas	Logan	pcnt_pcp	0.000313
+05085	Arkansas	Lonoke	pcnt_pcp	0.000175
+05087	Arkansas	Madison	pcnt_pcp	0.000191
+05089	Arkansas	Marion	pcnt_pcp	0.000180
+05091	Arkansas	Miller	pcnt_pcp	0.000299
+05093	Arkansas	Mississippi	pcnt_pcp	0.000389
+05095	Arkansas	Monroe	pcnt_pcp	0.000493
+05097	Arkansas	Montgomery	pcnt_pcp	0.000105
+05099	Arkansas	Nevada	pcnt_pcp	0.000334
+05101	Arkansas	Newton	pcnt_pcp	0.000240
+05103	Arkansas	Ouachita	pcnt_pcp	0.000498
+05105	Arkansas	Perry	pcnt_pcp	0.000096
+05107	Arkansas	Phillips	pcnt_pcp	0.000323
+05109	Arkansas	Pike	pcnt_pcp	0.000443
+05111	Arkansas	Poinsett	pcnt_pcp	0.000204
+05113	Arkansas	Polk	pcnt_pcp	0.000532
+05115	Arkansas	Pope	pcnt_pcp	0.000631
+05117	Arkansas	Prairie	pcnt_pcp	#VALUE!
+05119	Arkansas	Pulaski	pcnt_pcp	0.001022
+05121	Arkansas	Randolph	pcnt_pcp	0.000612
+05123	Arkansas	St. Francis	pcnt_pcp	0.000355
+05125	Arkansas	Saline	pcnt_pcp	0.000400
+05127	Arkansas	Scott	pcnt_pcp	0.000177
+05129	Arkansas	Searcy	pcnt_pcp	0.000489
+05131	Arkansas	Sebastian	pcnt_pcp	0.001145
+05133	Arkansas	Sevier	pcnt_pcp	0.000525
+05135	Arkansas	Sharp	pcnt_pcp	0.000522
+05137	Arkansas	Stone	pcnt_pcp	0.000563
+05139	Arkansas	Union	pcnt_pcp	0.000795
+05141	Arkansas	Van Buren	pcnt_pcp	0.000173
+05143	Arkansas	Washington	pcnt_pcp	0.000716
+05145	Arkansas	White	pcnt_pcp	0.000517
+05147	Arkansas	Woodruff	pcnt_pcp	0.000413
+05149	Arkansas	Yell	pcnt_pcp	0.000586
+06001	California	Alameda	pcnt_pcp	0.000980
+06003	California	Alpine	pcnt_pcp	0.020654
+06005	California	Amador	pcnt_pcp	0.000579
+06007	California	Butte	pcnt_pcp	0.000668
+06009	California	Calaveras	pcnt_pcp	0.000462
+06011	California	Colusa	pcnt_pcp	0.000326
+06013	California	Contra Costa	pcnt_pcp	0.000893
+06015	California	Del Norte	pcnt_pcp	0.000734
+06017	California	El Dorado	pcnt_pcp	0.000746
+06019	California	Fresno	pcnt_pcp	0.000611
+06021	California	Glenn	pcnt_pcp	0.000142
+06023	California	Humboldt	pcnt_pcp	0.000750
+06025	California	Imperial	pcnt_pcp	0.000240
+06027	California	Inyo	pcnt_pcp	0.000973
+06029	California	Kern	pcnt_pcp	0.000495
+06031	California	Kings	pcnt_pcp	0.000346
+06033	California	Lake	pcnt_pcp	0.000556
+06035	California	Lassen	pcnt_pcp	0.000460
+06037	California	Los Angeles	pcnt_pcp	0.000707
+06039	California	Madera	pcnt_pcp	0.000456
+06041	California	Marin	pcnt_pcp	0.001404
+06043	California	Mariposa	pcnt_pcp	0.000274
+06045	California	Mendocino	pcnt_pcp	0.000968
+06047	California	Merced	pcnt_pcp	0.000428
+06049	California	Modoc	pcnt_pcp	0.000310
+06051	California	Mono	pcnt_pcp	0.000562
+06053	California	Monterey	pcnt_pcp	0.000627
+06055	California	Napa	pcnt_pcp	0.000841
+06057	California	Nevada	pcnt_pcp	0.000740
+06059	California	Orange	pcnt_pcp	0.000919
+06061	California	Placer	pcnt_pcp	0.001076
+06063	California	Plumas	pcnt_pcp	0.000903
+06065	California	Riverside	pcnt_pcp	0.000398
+06067	California	Sacramento	pcnt_pcp	0.000754
+06069	California	San Benito	pcnt_pcp	0.000324
+06071	California	San Bernardino	pcnt_pcp	0.000535
+06073	California	San Diego	pcnt_pcp	0.000752
+06075	California	San Francisco	pcnt_pcp	0.001453
+06077	California	San Joaquin	pcnt_pcp	0.000592
+06079	California	San Luis Obispo	pcnt_pcp	0.000781
+06081	California	San Mateo	pcnt_pcp	0.000912
+06083	California	Santa Barbara	pcnt_pcp	0.000799
+06085	California	Santa Clara	pcnt_pcp	0.000986
+06087	California	Santa Cruz	pcnt_pcp	0.000955
+06089	California	Shasta	pcnt_pcp	0.000818
+06091	California	Sierra	pcnt_pcp	0.000310
+06093	California	Siskiyou	pcnt_pcp	0.000668
+06095	California	Solano	pcnt_pcp	0.000729
+06097	California	Sonoma	pcnt_pcp	0.000935
+06099	California	Stanislaus	pcnt_pcp	0.000650
+06101	California	Sutter	pcnt_pcp	0.000833
+06103	California	Tehama	pcnt_pcp	0.000377
+06105	California	Trinity	pcnt_pcp	0.000363
+06107	California	Tulare	pcnt_pcp	0.000428
+06109	California	Tuolumne	pcnt_pcp	0.000943
+06111	California	Ventura	pcnt_pcp	0.000686
+06113	California	Yolo	pcnt_pcp	0.001110
+06115	California	Yuba	pcnt_pcp	0.000276
+08001	Colorado	Adams	pcnt_pcp	0.000482
+08003	Colorado	Alamosa	pcnt_pcp	0.001163
+08005	Colorado	Arapahoe	pcnt_pcp	0.000792
+08007	Colorado	Archuleta	pcnt_pcp	0.000746
+08009	Colorado	Baca	pcnt_pcp	0.000789
+08011	Colorado	Bent	pcnt_pcp	0.000155
+08013	Colorado	Boulder	pcnt_pcp	0.001221
+08014	Colorado	Broomfield	pcnt_pcp	0.000998
+08015	Colorado	Chaffee	pcnt_pcp	0.001124
+08017	Colorado	Cheyenne	pcnt_pcp	0.001091
+08019	Colorado	Clear Creek	pcnt_pcp	0.000110
+08021	Colorado	Conejos	pcnt_pcp	0.000483
+08023	Colorado	Costilla	pcnt_pcp	#VALUE!
+08025	Colorado	Crowley	pcnt_pcp	0.000343
+08027	Colorado	Custer	pcnt_pcp	0.000468
+08029	Colorado	Delta	pcnt_pcp	0.000842
+08031	Colorado	Denver	pcnt_pcp	0.001152
+08033	Colorado	Dolores	pcnt_pcp	0.000485
+08035	Colorado	Douglas	pcnt_pcp	0.000659
+08037	Colorado	Eagle	pcnt_pcp	0.000730
+08039	Colorado	Elbert	pcnt_pcp	#VALUE!
+08041	Colorado	El Paso	pcnt_pcp	0.000561
+08043	Colorado	Fremont	pcnt_pcp	0.000491
+08045	Colorado	Garfield	pcnt_pcp	0.000713
+08047	Colorado	Gilpin	pcnt_pcp	0.000183
+08049	Colorado	Grand	pcnt_pcp	0.000744
+08051	Colorado	Gunnison	pcnt_pcp	0.000522
+08053	Colorado	Hinsdale	pcnt_pcp	0.001188
+08055	Colorado	Huerfano	pcnt_pcp	0.000750
+08057	Colorado	Jackson	pcnt_pcp	0.000719
+08059	Colorado	Jefferson	pcnt_pcp	0.000835
+08061	Colorado	Kiowa	pcnt_pcp	0.001427
+08063	Colorado	Kit Carson	pcnt_pcp	0.000728
+08065	Colorado	Lake	pcnt_pcp	0.000274
+08067	Colorado	La Plata	pcnt_pcp	0.001011
+08069	Colorado	Larimer	pcnt_pcp	0.000796
+08071	Colorado	Las Animas	pcnt_pcp	0.000454
+08073	Colorado	Lincoln	pcnt_pcp	0.000913
+08075	Colorado	Logan	pcnt_pcp	0.000616
+08077	Colorado	Mesa	pcnt_pcp	0.000930
+08079	Colorado	Mineral	pcnt_pcp	0.001416
+08081	Colorado	Moffat	pcnt_pcp	0.000507
+08083	Colorado	Montezuma	pcnt_pcp	0.000862
+08085	Colorado	Montrose	pcnt_pcp	0.000826
+08087	Colorado	Morgan	pcnt_pcp	0.000572
+08089	Colorado	Otero	pcnt_pcp	0.000796
+08091	Colorado	Ouray	pcnt_pcp	0.001799
+08093	Colorado	Park	pcnt_pcp	0.000246
+08095	Colorado	Phillips	pcnt_pcp	0.000672
+08097	Colorado	Pitkin	pcnt_pcp	0.000699
+08099	Colorado	Prowers	pcnt_pcp	0.000319
+08101	Colorado	Pueblo	pcnt_pcp	0.000803
+08103	Colorado	Rio Blanco	pcnt_pcp	0.000906
+08105	Colorado	Rio Grande	pcnt_pcp	0.000666
+08107	Colorado	Routt	pcnt_pcp	0.001024
+08109	Colorado	Saguache	pcnt_pcp	0.000652
+08111	Colorado	San Juan	pcnt_pcp	0.033850
+08113	Colorado	San Miguel	pcnt_pcp	0.000951
+08115	Colorado	Sedgwick	pcnt_pcp	0.001264
+08117	Colorado	Summit	pcnt_pcp	0.000890
+08119	Colorado	Teller	pcnt_pcp	0.000725
+08121	Colorado	Washington	pcnt_pcp	#VALUE!
+08123	Colorado	Weld	pcnt_pcp	0.000472
+08125	Colorado	Yuma	pcnt_pcp	0.000498
+09001	Connecticut	Fairfield	pcnt_pcp	0.000907
+09003	Connecticut	Hartford	pcnt_pcp	0.000859
+09005	Connecticut	Litchfield	pcnt_pcp	0.000617
+09007	Connecticut	Middlesex	pcnt_pcp	0.000755
+09009	Connecticut	New Haven	pcnt_pcp	0.000878
+09011	Connecticut	New London	pcnt_pcp	0.000632
+09013	Connecticut	Tolland	pcnt_pcp	0.000583
+09015	Connecticut	Windham	pcnt_pcp	0.000524
+10001	Delaware	Kent	pcnt_pcp	0.000516
+10003	Delaware	New Castle	pcnt_pcp	0.000811
+10005	Delaware	Sussex	pcnt_pcp	0.000601
+11001	District of Columbia	District of Columbia	pcnt_pcp	0.001171
+12001	Florida	Alachua	pcnt_pcp	0.001372
+12003	Florida	Baker	pcnt_pcp	0.000332
+12005	Florida	Bay	pcnt_pcp	0.000526
+12007	Florida	Bradford	pcnt_pcp	0.000351
+12009	Florida	Brevard	pcnt_pcp	0.000692
+12011	Florida	Broward	pcnt_pcp	0.000746
+12013	Florida	Calhoun	pcnt_pcp	0.000410
+12015	Florida	Charlotte	pcnt_pcp	0.000656
+12017	Florida	Citrus	pcnt_pcp	0.000581
+12019	Florida	Clay	pcnt_pcp	0.000653
+12021	Florida	Collier	pcnt_pcp	0.000679
+12023	Florida	Columbia	pcnt_pcp	0.000488
+12027	Florida	DeSoto	pcnt_pcp	0.000343
+12029	Florida	Dixie	pcnt_pcp	0.000183
+12031	Florida	Duval	pcnt_pcp	0.000802
+12033	Florida	Escambia	pcnt_pcp	0.000651
+12035	Florida	Flagler	pcnt_pcp	0.000437
+12037	Florida	Franklin	pcnt_pcp	0.000259
+12039	Florida	Gadsden	pcnt_pcp	0.000259
+12041	Florida	Gilchrist	pcnt_pcp	0.000236
+12043	Florida	Glades	pcnt_pcp	0.000078
+12045	Florida	Gulf	pcnt_pcp	0.000568
+12047	Florida	Hamilton	pcnt_pcp	0.000136
+12049	Florida	Hardee	pcnt_pcp	0.000216
+12051	Florida	Hendry	pcnt_pcp	0.000281
+12053	Florida	Hernando	pcnt_pcp	0.000596
+12055	Florida	Highlands	pcnt_pcp	0.000557
+12057	Florida	Hillsborough	pcnt_pcp	0.000773
+12059	Florida	Holmes	pcnt_pcp	0.000352
+12061	Florida	Indian River	pcnt_pcp	0.000673
+12063	Florida	Jackson	pcnt_pcp	0.000403
+12065	Florida	Jefferson	pcnt_pcp	0.000203
+12067	Florida	Lafayette	pcnt_pcp	0.000112
+12069	Florida	Lake	pcnt_pcp	0.000628
+12071	Florida	Lee	pcnt_pcp	0.000619
+12073	Florida	Leon	pcnt_pcp	0.000754
+12075	Florida	Levy	pcnt_pcp	0.000196
+12077	Florida	Liberty	pcnt_pcp	#VALUE!
+12079	Florida	Madison	pcnt_pcp	0.000156
+12081	Florida	Manatee	pcnt_pcp	0.000578
+12083	Florida	Marion	pcnt_pcp	0.000519
+12085	Florida	Martin	pcnt_pcp	0.000786
+12086	Florida	Miami-Dade	pcnt_pcp	0.000792
+12087	Florida	Monroe	pcnt_pcp	0.000765
+12089	Florida	Nassau	pcnt_pcp	0.000395
+12091	Florida	Okaloosa	pcnt_pcp	0.000736
+12093	Florida	Okeechobee	pcnt_pcp	0.000450
+12095	Florida	Orange	pcnt_pcp	0.000722
+12097	Florida	Osceola	pcnt_pcp	0.000449
+12099	Florida	Palm Beach	pcnt_pcp	0.000770
+12101	Florida	Pasco	pcnt_pcp	0.000507
+12103	Florida	Pinellas	pcnt_pcp	0.000873
+12105	Florida	Polk	pcnt_pcp	0.000479
+12107	Florida	Putnam	pcnt_pcp	0.000350
+12109	Florida	St. Johns	pcnt_pcp	0.000853
+12111	Florida	St. Lucie	pcnt_pcp	0.000373
+12113	Florida	Santa Rosa	pcnt_pcp	0.000625
+12115	Florida	Sarasota	pcnt_pcp	0.000779
+12117	Florida	Seminole	pcnt_pcp	0.000740
+12119	Florida	Sumter	pcnt_pcp	0.000201
+12121	Florida	Suwannee	pcnt_pcp	0.000193
+12123	Florida	Taylor	pcnt_pcp	0.000354
+12125	Florida	Union	pcnt_pcp	0.000193
+12127	Florida	Volusia	pcnt_pcp	0.000641
+12129	Florida	Wakulla	pcnt_pcp	0.000292
+12131	Florida	Walton	pcnt_pcp	0.000398
+12133	Florida	Washington	pcnt_pcp	0.000281
+13001	Georgia	Appling	pcnt_pcp	0.000437
+13003	Georgia	Atkinson	pcnt_pcp	#VALUE!
+13005	Georgia	Bacon	pcnt_pcp	0.000541
+13007	Georgia	Baker	pcnt_pcp	#VALUE!
+13009	Georgia	Baldwin	pcnt_pcp	0.000711
+13011	Georgia	Banks	pcnt_pcp	0.000163
+13013	Georgia	Barrow	pcnt_pcp	0.000301
+13015	Georgia	Bartow	pcnt_pcp	0.000409
+13017	Georgia	Ben Hill	pcnt_pcp	0.000623
+13019	Georgia	Berrien	pcnt_pcp	0.000155
+13021	Georgia	Bibb	pcnt_pcp	0.001035
+13023	Georgia	Bleckley	pcnt_pcp	0.000380
+13025	Georgia	Brantley	pcnt_pcp	0.000163
+13027	Georgia	Brooks	pcnt_pcp	0.000185
+13029	Georgia	Bryan	pcnt_pcp	0.000724
+13031	Georgia	Bulloch	pcnt_pcp	0.000538
+13033	Georgia	Burke	pcnt_pcp	0.000385
+13035	Georgia	Butts	pcnt_pcp	0.000338
+13037	Georgia	Calhoun	pcnt_pcp	0.000447
+13039	Georgia	Camden	pcnt_pcp	0.000434
+13043	Georgia	Candler	pcnt_pcp	0.000272
+13045	Georgia	Carroll	pcnt_pcp	0.000524
+13047	Georgia	Catoosa	pcnt_pcp	0.000484
+13049	Georgia	Charlton	pcnt_pcp	0.000078
+13051	Georgia	Chatham	pcnt_pcp	0.000840
+13053	Georgia	Chattahoochee	pcnt_pcp	0.000090
+13055	Georgia	Chattooga	pcnt_pcp	0.000192
+13057	Georgia	Cherokee	pcnt_pcp	0.000362
+13059	Georgia	Clarke	pcnt_pcp	0.000703
+13061	Georgia	Clay	pcnt_pcp	0.000316
+13063	Georgia	Clayton	pcnt_pcp	0.000293
+13065	Georgia	Clinch	pcnt_pcp	0.000294
+13067	Georgia	Cobb	pcnt_pcp	0.000584
+13069	Georgia	Coffee	pcnt_pcp	0.000516
+13071	Georgia	Colquitt	pcnt_pcp	0.000549
+13073	Georgia	Columbia	pcnt_pcp	0.001153
+13075	Georgia	Cook	pcnt_pcp	0.000522
+13077	Georgia	Coweta	pcnt_pcp	0.000422
+13079	Georgia	Crawford	pcnt_pcp	0.000555
+13081	Georgia	Crisp	pcnt_pcp	0.000726
+13083	Georgia	Dade	pcnt_pcp	0.000361
+13085	Georgia	Dawson	pcnt_pcp	0.000626
+13087	Georgia	Decatur	pcnt_pcp	0.000396
+13089	Georgia	DeKalb	pcnt_pcp	0.000924
+13091	Georgia	Dodge	pcnt_pcp	0.000321
+13093	Georgia	Dooly	pcnt_pcp	#VALUE!
+13095	Georgia	Dougherty	pcnt_pcp	0.000898
+13097	Georgia	Douglas	pcnt_pcp	0.000392
+13099	Georgia	Early	pcnt_pcp	0.000273
+13101	Georgia	Echols	pcnt_pcp	#VALUE!
+13103	Georgia	Effingham	pcnt_pcp	0.000210
+13105	Georgia	Elbert	pcnt_pcp	0.000497
+13107	Georgia	Emanuel	pcnt_pcp	0.000442
+13109	Georgia	Evans	pcnt_pcp	0.000363
+13111	Georgia	Fannin	pcnt_pcp	0.000549
+13113	Georgia	Fayette	pcnt_pcp	0.001104
+13115	Georgia	Floyd	pcnt_pcp	0.001174
+13117	Georgia	Forsyth	pcnt_pcp	0.000345
+13119	Georgia	Franklin	pcnt_pcp	0.000499
+13121	Georgia	Fulton	pcnt_pcp	0.001085
+13123	Georgia	Gilmer	pcnt_pcp	0.000529
+13125	Georgia	Glascock	pcnt_pcp	0.000325
+13127	Georgia	Glynn	pcnt_pcp	0.000614
+13129	Georgia	Gordon	pcnt_pcp	0.000525
+13131	Georgia	Grady	pcnt_pcp	0.000399
+13133	Georgia	Greene	pcnt_pcp	0.000687
+13135	Georgia	Gwinnett	pcnt_pcp	0.000563
+13137	Georgia	Habersham	pcnt_pcp	0.000580
+13139	Georgia	Hall	pcnt_pcp	0.000583
+13141	Georgia	Hancock	pcnt_pcp	0.000211
+13143	Georgia	Haralson	pcnt_pcp	0.000452
+13145	Georgia	Harris	pcnt_pcp	0.000342
+13147	Georgia	Hart	pcnt_pcp	0.000436
+13149	Georgia	Heard	pcnt_pcp	0.000084
+13151	Georgia	Henry	pcnt_pcp	0.000448
+13153	Georgia	Houston	pcnt_pcp	0.000512
+13155	Georgia	Irwin	pcnt_pcp	0.000312
+13157	Georgia	Jackson	pcnt_pcp	0.000478
+13159	Georgia	Jasper	pcnt_pcp	0.000359
+13161	Georgia	Jeff Davis	pcnt_pcp	0.000332
+13163	Georgia	Jefferson	pcnt_pcp	0.000474
+13165	Georgia	Jenkins	pcnt_pcp	0.000360
+13167	Georgia	Johnson	pcnt_pcp	0.000301
+13169	Georgia	Jones	pcnt_pcp	0.000174
+13171	Georgia	Lamar	pcnt_pcp	0.000438
+13173	Georgia	Lanier	pcnt_pcp	0.000297
+13175	Georgia	Laurens	pcnt_pcp	0.001033
+13177	Georgia	Lee	pcnt_pcp	0.000422
+13179	Georgia	Liberty	pcnt_pcp	0.000271
+13181	Georgia	Lincoln	pcnt_pcp	0.000251
+13183	Georgia	Long	pcnt_pcp	#VALUE!
+13185	Georgia	Lowndes	pcnt_pcp	0.000520
+13187	Georgia	Lumpkin	pcnt_pcp	0.000367
+13189	Georgia	McDuffie	pcnt_pcp	0.000595
+13191	Georgia	McIntosh	pcnt_pcp	0.000140
+13193	Georgia	Macon	pcnt_pcp	0.000068
+13195	Georgia	Madison	pcnt_pcp	0.000177
+13197	Georgia	Marion	pcnt_pcp	0.000114
+13199	Georgia	Meriwether	pcnt_pcp	0.000229
+13201	Georgia	Miller	pcnt_pcp	0.000651
+13205	Georgia	Mitchell	pcnt_pcp	0.000468
+13207	Georgia	Monroe	pcnt_pcp	0.000567
+13209	Georgia	Montgomery	pcnt_pcp	#VALUE!
+13211	Georgia	Morgan	pcnt_pcp	0.000559
+13213	Georgia	Murray	pcnt_pcp	0.000228
+13215	Georgia	Muscogee	pcnt_pcp	0.001004
+13217	Georgia	Newton	pcnt_pcp	0.000330
+13219	Georgia	Oconee	pcnt_pcp	0.000969
+13221	Georgia	Oglethorpe	pcnt_pcp	0.000134
+13223	Georgia	Paulding	pcnt_pcp	0.000126
+13225	Georgia	Peach	pcnt_pcp	0.000288
+13227	Georgia	Pickens	pcnt_pcp	0.000442
+13229	Georgia	Pierce	pcnt_pcp	0.000425
+13231	Georgia	Pike	pcnt_pcp	0.000112
+13233	Georgia	Polk	pcnt_pcp	0.000193
+13235	Georgia	Pulaski	pcnt_pcp	0.000838
+13237	Georgia	Putnam	pcnt_pcp	0.000235
+13239	Georgia	Quitman	pcnt_pcp	#VALUE!
+13241	Georgia	Rabun	pcnt_pcp	0.000553
+13243	Georgia	Randolph	pcnt_pcp	0.000260
+13245	Georgia	Richmond	pcnt_pcp	0.000752
+13247	Georgia	Rockdale	pcnt_pcp	0.000785
+13249	Georgia	Schley	pcnt_pcp	#VALUE!
+13251	Georgia	Screven	pcnt_pcp	0.000138
+13253	Georgia	Seminole	pcnt_pcp	0.001144
+13255	Georgia	Spalding	pcnt_pcp	0.000500
+13257	Georgia	Stephens	pcnt_pcp	0.000650
+13259	Georgia	Stewart	pcnt_pcp	0.000661
+13261	Georgia	Sumter	pcnt_pcp	0.000547
+13263	Georgia	Talbot	pcnt_pcp	0.000146
+13265	Georgia	Taliaferro	pcnt_pcp	0.014126
+13267	Georgia	Tattnall	pcnt_pcp	0.000195
+13269	Georgia	Taylor	pcnt_pcp	#VALUE!
+13271	Georgia	Telfair	pcnt_pcp	0.000304
+13273	Georgia	Terrell	pcnt_pcp	0.000107
+13275	Georgia	Thomas	pcnt_pcp	0.000872
+13277	Georgia	Tift	pcnt_pcp	0.000894
+13279	Georgia	Toombs	pcnt_pcp	0.000733
+13281	Georgia	Towns	pcnt_pcp	0.000856
+13283	Georgia	Treutlen	pcnt_pcp	#VALUE!
+13285	Georgia	Troup	pcnt_pcp	0.000462
+13287	Georgia	Turner	pcnt_pcp	0.000447
+13289	Georgia	Twiggs	pcnt_pcp	0.000111
+13291	Georgia	Union	pcnt_pcp	0.000890
+13293	Georgia	Upson	pcnt_pcp	0.000554
+13295	Georgia	Walker	pcnt_pcp	0.000232
+13297	Georgia	Walton	pcnt_pcp	0.000405
+13299	Georgia	Ware	pcnt_pcp	0.000770
+13301	Georgia	Warren	pcnt_pcp	0.000517
+13303	Georgia	Washington	pcnt_pcp	0.000709
+13305	Georgia	Wayne	pcnt_pcp	0.000432
+13307	Georgia	Webster	pcnt_pcp	#VALUE!
+13309	Georgia	Wheeler	pcnt_pcp	#VALUE!
+13311	Georgia	White	pcnt_pcp	0.000294
+13313	Georgia	Whitfield	pcnt_pcp	0.000545
+13315	Georgia	Wilcox	pcnt_pcp	0.000108
+13317	Georgia	Wilkes	pcnt_pcp	0.000572
+13319	Georgia	Wilkinson	pcnt_pcp	0.000105
+13321	Georgia	Worth	pcnt_pcp	0.000277
+15001	Hawaii	Hawaii	pcnt_pcp	0.000745
+15003	Hawaii	Honolulu	pcnt_pcp	0.000880
+15005	Hawaii	Kalawao	pcnt_pcp	0.266667
+15007	Hawaii	Kauai	pcnt_pcp	0.000952
+15009	Hawaii	Maui	pcnt_pcp	0.000858
+16001	Idaho	Ada	pcnt_pcp	0.000786
+16003	Idaho	Adams	pcnt_pcp	0.000506
+16005	Idaho	Bannock	pcnt_pcp	0.000687
+16007	Idaho	Bear Lake	pcnt_pcp	0.000502
+16009	Idaho	Benewah	pcnt_pcp	0.000323
+16011	Idaho	Bingham	pcnt_pcp	0.000306
+16013	Idaho	Blaine	pcnt_pcp	0.000985
+16015	Idaho	Boise	pcnt_pcp	0.000285
+16017	Idaho	Bonner	pcnt_pcp	0.000635
+16019	Idaho	Bonneville	pcnt_pcp	0.000468
+16021	Idaho	Boundary	pcnt_pcp	0.000727
+16023	Idaho	Butte	pcnt_pcp	0.001035
+16025	Idaho	Camas	pcnt_pcp	0.021661
+16027	Idaho	Canyon	pcnt_pcp	0.000306
+16029	Idaho	Caribou	pcnt_pcp	0.000143
+16031	Idaho	Cassia	pcnt_pcp	0.000606
+16033	Idaho	Clark	pcnt_pcp	0.024490
+16035	Idaho	Clearwater	pcnt_pcp	0.001029
+16037	Idaho	Custer	pcnt_pcp	#VALUE!
+16039	Idaho	Elmore	pcnt_pcp	0.000665
+16041	Idaho	Franklin	pcnt_pcp	0.000313
+16043	Idaho	Fremont	pcnt_pcp	0.000075
+16045	Idaho	Gem	pcnt_pcp	0.000540
+16047	Idaho	Gooding	pcnt_pcp	0.000452
+16049	Idaho	Idaho	pcnt_pcp	0.000675
+16051	Idaho	Jefferson	pcnt_pcp	0.000191
+16053	Idaho	Jerome	pcnt_pcp	0.000401
+16055	Idaho	Kootenai	pcnt_pcp	0.000677
+16057	Idaho	Latah	pcnt_pcp	0.000670
+16059	Idaho	Lemhi	pcnt_pcp	0.000503
+16061	Idaho	Lewis	pcnt_pcp	0.000262
+16063	Idaho	Lincoln	pcnt_pcp	0.000192
+16065	Idaho	Madison	pcnt_pcp	0.000559
+16067	Idaho	Minidoka	pcnt_pcp	0.000349
+16069	Idaho	Nez Perce	pcnt_pcp	0.000789
+16071	Idaho	Oneida	pcnt_pcp	0.000466
+16073	Idaho	Owyhee	pcnt_pcp	0.000174
+16075	Idaho	Payette	pcnt_pcp	0.000177
+16077	Idaho	Power	pcnt_pcp	0.000254
+16079	Idaho	Shoshone	pcnt_pcp	0.000707
+16081	Idaho	Teton	pcnt_pcp	0.000689
+16083	Idaho	Twin Falls	pcnt_pcp	0.000568
+16085	Idaho	Valley	pcnt_pcp	0.001534
+16087	Idaho	Washington	pcnt_pcp	0.000489
+17001	Illinois	Adams	pcnt_pcp	0.000850
+17003	Illinois	Alexander	pcnt_pcp	0.000243
+17005	Illinois	Bond	pcnt_pcp	0.000563
+17007	Illinois	Boone	pcnt_pcp	0.000461
+17009	Illinois	Brown	pcnt_pcp	#VALUE!
+17011	Illinois	Bureau	pcnt_pcp	0.000458
+17013	Illinois	Calhoun	pcnt_pcp	0.000589
+17015	Illinois	Carroll	pcnt_pcp	0.000326
+17017	Illinois	Cass	pcnt_pcp	0.000147
+17019	Illinois	Champaign	pcnt_pcp	0.000840
+17021	Illinois	Christian	pcnt_pcp	0.000517
+17023	Illinois	Clark	pcnt_pcp	0.000368
+17025	Illinois	Clay	pcnt_pcp	0.000435
+17027	Illinois	Clinton	pcnt_pcp	0.000344
+17029	Illinois	Coles	pcnt_pcp	0.000612
+17031	Illinois	Cook	pcnt_pcp	0.000902
+17033	Illinois	Crawford	pcnt_pcp	0.000504
+17035	Illinois	Cumberland	pcnt_pcp	0.000091
+17037	Illinois	DeKalb	pcnt_pcp	0.000352
+17039	Illinois	De Witt	pcnt_pcp	0.000483
+17041	Illinois	Douglas	pcnt_pcp	0.000250
+17043	Illinois	DuPage	pcnt_pcp	0.001337
+17045	Illinois	Edgar	pcnt_pcp	0.000324
+17047	Illinois	Edwards	pcnt_pcp	#VALUE!
+17049	Illinois	Effingham	pcnt_pcp	0.000789
+17051	Illinois	Fayette	pcnt_pcp	0.000181
+17053	Illinois	Ford	pcnt_pcp	0.000711
+17055	Illinois	Franklin	pcnt_pcp	0.000379
+17057	Illinois	Fulton	pcnt_pcp	0.000324
+17059	Illinois	Gallatin	pcnt_pcp	0.000179
+17061	Illinois	Greene	pcnt_pcp	0.000433
+17063	Illinois	Grundy	pcnt_pcp	0.000339
+17065	Illinois	Hamilton	pcnt_pcp	0.000236
+17067	Illinois	Hancock	pcnt_pcp	0.000471
+17069	Illinois	Hardin	pcnt_pcp	0.000696
+17071	Illinois	Henderson	pcnt_pcp	0.000136
+17073	Illinois	Henry	pcnt_pcp	0.000357
+17075	Illinois	Iroquois	pcnt_pcp	0.000438
+17077	Illinois	Jackson	pcnt_pcp	0.001176
+17079	Illinois	Jasper	pcnt_pcp	0.000103
+17081	Illinois	Jefferson	pcnt_pcp	0.000722
+17083	Illinois	Jersey	pcnt_pcp	0.000348
+17085	Illinois	Jo Daviess	pcnt_pcp	0.000485
+17087	Illinois	Johnson	pcnt_pcp	0.000238
+17089	Illinois	Kane	pcnt_pcp	0.000424
+17091	Illinois	Kankakee	pcnt_pcp	0.000476
+17093	Illinois	Kendall	pcnt_pcp	0.000339
+17095	Illinois	Knox	pcnt_pcp	0.000680
+17097	Illinois	Lake	pcnt_pcp	0.000967
+17099	Illinois	LaSalle	pcnt_pcp	0.000439
+17101	Illinois	Lawrence	pcnt_pcp	0.000297
+17103	Illinois	Lee	pcnt_pcp	0.000640
+17105	Illinois	Livingston	pcnt_pcp	0.000514
+17107	Illinois	Logan	pcnt_pcp	0.000297
+17109	Illinois	McDonough	pcnt_pcp	0.000644
+17111	Illinois	McHenry	pcnt_pcp	0.000566
+17113	Illinois	McLean	pcnt_pcp	0.000636
+17115	Illinois	Macon	pcnt_pcp	0.000795
+17117	Illinois	Macoupin	pcnt_pcp	0.000251
+17119	Illinois	Madison	pcnt_pcp	0.000479
+17121	Illinois	Marion	pcnt_pcp	0.000558
+17123	Illinois	Marshall	pcnt_pcp	0.000158
+17125	Illinois	Mason	pcnt_pcp	0.000342
+17127	Illinois	Massac	pcnt_pcp	0.000194
+17129	Illinois	Menard	pcnt_pcp	0.000236
+17131	Illinois	Mercer	pcnt_pcp	0.000304
+17133	Illinois	Monroe	pcnt_pcp	0.000303
+17135	Illinois	Montgomery	pcnt_pcp	0.000499
+17137	Illinois	Morgan	pcnt_pcp	0.000338
+17139	Illinois	Moultrie	pcnt_pcp	0.000337
+17141	Illinois	Ogle	pcnt_pcp	0.000580
+17143	Illinois	Peoria	pcnt_pcp	0.001127
+17145	Illinois	Perry	pcnt_pcp	0.000537
+17147	Illinois	Piatt	pcnt_pcp	0.000299
+17149	Illinois	Pike	pcnt_pcp	0.000487
+17151	Illinois	Pope	pcnt_pcp	#VALUE!
+17153	Illinois	Pulaski	pcnt_pcp	#VALUE!
+17155	Illinois	Putnam	pcnt_pcp	0.000167
+17157	Illinois	Randolph	pcnt_pcp	0.000508
+17159	Illinois	Richland	pcnt_pcp	0.000801
+17161	Illinois	Rock Island	pcnt_pcp	0.000549
+17163	Illinois	St. Clair	pcnt_pcp	0.000607
+17165	Illinois	Saline	pcnt_pcp	0.000883
+17167	Illinois	Sangamon	pcnt_pcp	0.001011
+17169	Illinois	Schuyler	pcnt_pcp	0.000265
+17171	Illinois	Scott	pcnt_pcp	0.000374
+17173	Illinois	Shelby	pcnt_pcp	0.000179
+17175	Illinois	Stark	pcnt_pcp	0.000168
+17177	Illinois	Stephenson	pcnt_pcp	0.000524
+17179	Illinois	Tazewell	pcnt_pcp	0.000443
+17181	Illinois	Union	pcnt_pcp	0.000676
+17183	Illinois	Vermilion	pcnt_pcp	0.000490
+17185	Illinois	Wabash	pcnt_pcp	0.000503
+17187	Illinois	Warren	pcnt_pcp	0.000565
+17189	Illinois	Washington	pcnt_pcp	0.000272
+17191	Illinois	Wayne	pcnt_pcp	0.000418
+17193	Illinois	White	pcnt_pcp	0.000273
+17195	Illinois	Whiteside	pcnt_pcp	0.000582
+17197	Illinois	Will	pcnt_pcp	0.000471
+17199	Illinois	Williamson	pcnt_pcp	0.000754
+17201	Illinois	Winnebago	pcnt_pcp	0.000746
+17203	Illinois	Woodford	pcnt_pcp	0.000492
+18001	Indiana	Adams	pcnt_pcp	0.000349
+18003	Indiana	Allen	pcnt_pcp	0.000599
+18005	Indiana	Bartholomew	pcnt_pcp	0.000833
+18007	Indiana	Benton	pcnt_pcp	0.000225
+18009	Indiana	Blackford	pcnt_pcp	0.000549
+18011	Indiana	Boone	pcnt_pcp	0.001742
+18013	Indiana	Brown	pcnt_pcp	0.000197
+18015	Indiana	Carroll	pcnt_pcp	0.000298
+18017	Indiana	Cass	pcnt_pcp	0.000411
+18019	Indiana	Clark	pcnt_pcp	0.000515
+18021	Indiana	Clay	pcnt_pcp	0.000558
+18023	Indiana	Clinton	pcnt_pcp	0.000361
+18025	Indiana	Crawford	pcnt_pcp	#VALUE!
+18027	Indiana	Daviess	pcnt_pcp	0.000347
+18029	Indiana	Dearborn	pcnt_pcp	0.000459
+18031	Indiana	Decatur	pcnt_pcp	0.000427
+18033	Indiana	DeKalb	pcnt_pcp	0.000639
+18035	Indiana	Delaware	pcnt_pcp	0.000791
+18037	Indiana	Dubois	pcnt_pcp	0.000740
+18039	Indiana	Elkhart	pcnt_pcp	0.000471
+18041	Indiana	Fayette	pcnt_pcp	0.000329
+18043	Indiana	Floyd	pcnt_pcp	0.000536
+18045	Indiana	Fountain	pcnt_pcp	0.000116
+18047	Indiana	Franklin	pcnt_pcp	0.000260
+18049	Indiana	Fulton	pcnt_pcp	0.000528
+18051	Indiana	Gibson	pcnt_pcp	0.000417
+18053	Indiana	Grant	pcnt_pcp	0.000471
+18055	Indiana	Greene	pcnt_pcp	0.000271
+18057	Indiana	Hamilton	pcnt_pcp	0.001342
+18059	Indiana	Hancock	pcnt_pcp	0.000712
+18061	Indiana	Harrison	pcnt_pcp	0.000432
+18063	Indiana	Hendricks	pcnt_pcp	0.000562
+18065	Indiana	Henry	pcnt_pcp	0.000404
+18067	Indiana	Howard	pcnt_pcp	0.000604
+18069	Indiana	Huntington	pcnt_pcp	0.000485
+18071	Indiana	Jackson	pcnt_pcp	0.000564
+18073	Indiana	Jasper	pcnt_pcp	0.000507
+18075	Indiana	Jay	pcnt_pcp	0.000472
+18077	Indiana	Jefferson	pcnt_pcp	0.000618
+18079	Indiana	Jennings	pcnt_pcp	0.000421
+18081	Indiana	Johnson	pcnt_pcp	0.000736
+18083	Indiana	Knox	pcnt_pcp	0.000860
+18085	Indiana	Kosciusko	pcnt_pcp	0.000414
+18087	Indiana	LaGrange	pcnt_pcp	0.000296
+18089	Indiana	Lake	pcnt_pcp	0.000567
+18091	Indiana	LaPorte	pcnt_pcp	0.000431
+18093	Indiana	Lawrence	pcnt_pcp	0.000412
+18095	Indiana	Madison	pcnt_pcp	0.000524
+18097	Indiana	Marion	pcnt_pcp	0.000770
+18099	Indiana	Marshall	pcnt_pcp	0.000681
+18101	Indiana	Martin	pcnt_pcp	0.000387
+18103	Indiana	Miami	pcnt_pcp	0.000190
+18105	Indiana	Monroe	pcnt_pcp	0.000614
+18107	Indiana	Montgomery	pcnt_pcp	0.000499
+18109	Indiana	Morgan	pcnt_pcp	0.000507
+18111	Indiana	Newton	pcnt_pcp	0.000070
+18113	Indiana	Noble	pcnt_pcp	0.000337
+18115	Indiana	Ohio	pcnt_pcp	#VALUE!
+18117	Indiana	Orange	pcnt_pcp	0.000606
+18119	Indiana	Owen	pcnt_pcp	0.000185
+18121	Indiana	Parke	pcnt_pcp	0.000288
+18123	Indiana	Perry	pcnt_pcp	0.000465
+18125	Indiana	Pike	pcnt_pcp	0.000156
+18127	Indiana	Porter	pcnt_pcp	0.000571
+18129	Indiana	Posey	pcnt_pcp	0.000348
+18131	Indiana	Pulaski	pcnt_pcp	0.000449
+18133	Indiana	Putnam	pcnt_pcp	0.000448
+18135	Indiana	Randolph	pcnt_pcp	0.000229
+18137	Indiana	Ripley	pcnt_pcp	0.000590
+18139	Indiana	Rush	pcnt_pcp	0.000403
+18141	Indiana	St. Joseph	pcnt_pcp	0.000866
+18143	Indiana	Scott	pcnt_pcp	0.000455
+18145	Indiana	Shelby	pcnt_pcp	0.000270
+18147	Indiana	Spencer	pcnt_pcp	0.000287
+18149	Indiana	Starke	pcnt_pcp	0.000342
+18151	Indiana	Steuben	pcnt_pcp	0.000410
+18153	Indiana	Sullivan	pcnt_pcp	0.000279
+18155	Indiana	Switzerland	pcnt_pcp	0.000094
+18157	Indiana	Tippecanoe	pcnt_pcp	0.000660
+18159	Indiana	Tipton	pcnt_pcp	0.000504
+18161	Indiana	Union	pcnt_pcp	0.000133
+18163	Indiana	Vanderburgh	pcnt_pcp	0.000935
+18165	Indiana	Vermillion	pcnt_pcp	0.000309
+18167	Indiana	Vigo	pcnt_pcp	0.000918
+18169	Indiana	Wabash	pcnt_pcp	0.000426
+18171	Indiana	Warren	pcnt_pcp	0.000235
+18173	Indiana	Warrick	pcnt_pcp	0.001304
+18175	Indiana	Washington	pcnt_pcp	0.000389
+18177	Indiana	Wayne	pcnt_pcp	0.000654
+18179	Indiana	Wells	pcnt_pcp	0.000687
+18181	Indiana	White	pcnt_pcp	0.000405
+18183	Indiana	Whitley	pcnt_pcp	0.000480
+19001	Iowa	Adair	pcnt_pcp	0.000391
+19003	Iowa	Adams	pcnt_pcp	0.000745
+19005	Iowa	Allamakee	pcnt_pcp	0.000627
+19007	Iowa	Appanoose	pcnt_pcp	0.000776
+19009	Iowa	Audubon	pcnt_pcp	0.000327
+19011	Iowa	Benton	pcnt_pcp	0.000192
+19013	Iowa	Black Hawk	pcnt_pcp	0.000938
+19015	Iowa	Boone	pcnt_pcp	0.000495
+19017	Iowa	Bremer	pcnt_pcp	0.000618
+19019	Iowa	Buchanan	pcnt_pcp	0.000430
+19021	Iowa	Buena Vista	pcnt_pcp	0.000591
+19023	Iowa	Butler	pcnt_pcp	0.000134
+19025	Iowa	Calhoun	pcnt_pcp	0.000621
+19027	Iowa	Carroll	pcnt_pcp	0.000769
+19029	Iowa	Cass	pcnt_pcp	0.000430
+19031	Iowa	Cedar	pcnt_pcp	0.000216
+19033	Iowa	Cerro Gordo	pcnt_pcp	0.001634
+19035	Iowa	Cherokee	pcnt_pcp	0.000661
+19037	Iowa	Chickasaw	pcnt_pcp	0.000080
+19039	Iowa	Clarke	pcnt_pcp	0.000430
+19041	Iowa	Clay	pcnt_pcp	0.000601
+19043	Iowa	Clayton	pcnt_pcp	0.000442
+19045	Iowa	Clinton	pcnt_pcp	0.000591
+19047	Iowa	Crawford	pcnt_pcp	0.000408
+19049	Iowa	Dallas	pcnt_pcp	0.000375
+19051	Iowa	Davis	pcnt_pcp	0.000456
+19053	Iowa	Decatur	pcnt_pcp	0.000356
+19055	Iowa	Delaware	pcnt_pcp	0.000506
+19057	Iowa	Des Moines	pcnt_pcp	0.000670
+19059	Iowa	Dickinson	pcnt_pcp	0.000780
+19061	Iowa	Dubuque	pcnt_pcp	0.000810
+19063	Iowa	Emmet	pcnt_pcp	0.000583
+19065	Iowa	Fayette	pcnt_pcp	0.000383
+19067	Iowa	Floyd	pcnt_pcp	0.000368
+19069	Iowa	Franklin	pcnt_pcp	0.000374
+19071	Iowa	Fremont	pcnt_pcp	0.000404
+19073	Iowa	Greene	pcnt_pcp	0.000858
+19075	Iowa	Grundy	pcnt_pcp	0.000161
+19077	Iowa	Guthrie	pcnt_pcp	0.000548
+19079	Iowa	Hamilton	pcnt_pcp	0.000511
+19081	Iowa	Hancock	pcnt_pcp	0.000265
+19083	Iowa	Hardin	pcnt_pcp	0.000570
+19085	Iowa	Harrison	pcnt_pcp	0.000335
+19087	Iowa	Henry	pcnt_pcp	0.000646
+19089	Iowa	Howard	pcnt_pcp	0.000733
+19091	Iowa	Humboldt	pcnt_pcp	0.000204
+19093	Iowa	Ida	pcnt_pcp	0.000848
+19095	Iowa	Iowa	pcnt_pcp	0.000612
+19097	Iowa	Jackson	pcnt_pcp	0.000504
+19099	Iowa	Jasper	pcnt_pcp	0.000407
+19101	Iowa	Jefferson	pcnt_pcp	0.000833
+19103	Iowa	Johnson	pcnt_pcp	0.001577
+19105	Iowa	Jones	pcnt_pcp	0.000435
+19107	Iowa	Keokuk	pcnt_pcp	#VALUE!
+19109	Iowa	Kossuth	pcnt_pcp	0.000387
+19111	Iowa	Lee	pcnt_pcp	0.000614
+19113	Iowa	Linn	pcnt_pcp	0.000648
+19115	Iowa	Louisa	pcnt_pcp	0.000176
+19117	Iowa	Lucas	pcnt_pcp	0.000675
+19119	Iowa	Lyon	pcnt_pcp	0.000259
+19121	Iowa	Madison	pcnt_pcp	0.000636
+19123	Iowa	Mahaska	pcnt_pcp	0.000625
+19125	Iowa	Marion	pcnt_pcp	0.000873
+19127	Iowa	Marshall	pcnt_pcp	0.000688
+19129	Iowa	Mills	pcnt_pcp	0.000598
+19131	Iowa	Mitchell	pcnt_pcp	0.000278
+19133	Iowa	Monona	pcnt_pcp	0.000758
+19135	Iowa	Monroe	pcnt_pcp	0.000627
+19137	Iowa	Montgomery	pcnt_pcp	0.000560
+19139	Iowa	Muscatine	pcnt_pcp	0.000539
+19141	Iowa	O'Brien	pcnt_pcp	0.000556
+19143	Iowa	Osceola	pcnt_pcp	0.000310
+19145	Iowa	Page	pcnt_pcp	0.000754
+19147	Iowa	Palo Alto	pcnt_pcp	0.000532
+19149	Iowa	Plymouth	pcnt_pcp	0.000400
+19151	Iowa	Pocahontas	pcnt_pcp	0.000275
+19153	Iowa	Polk	pcnt_pcp	0.001050
+19155	Iowa	Pottawattamie	pcnt_pcp	0.000461
+19157	Iowa	Poweshiek	pcnt_pcp	0.000794
+19159	Iowa	Ringgold	pcnt_pcp	0.000779
+19161	Iowa	Sac	pcnt_pcp	0.000580
+19163	Iowa	Scott	pcnt_pcp	0.000773
+19165	Iowa	Shelby	pcnt_pcp	0.000575
+19167	Iowa	Sioux	pcnt_pcp	0.000682
+19169	Iowa	Story	pcnt_pcp	0.000670
+19171	Iowa	Tama	pcnt_pcp	0.000225
+19173	Iowa	Taylor	pcnt_pcp	#VALUE!
+19175	Iowa	Union	pcnt_pcp	0.000799
+19177	Iowa	Van Buren	pcnt_pcp	0.000529
+19179	Iowa	Wapello	pcnt_pcp	0.000702
+19181	Iowa	Warren	pcnt_pcp	0.000518
+19183	Iowa	Washington	pcnt_pcp	0.000691
+19185	Iowa	Wayne	pcnt_pcp	0.001093
+19187	Iowa	Webster	pcnt_pcp	0.000634
+19189	Iowa	Winnebago	pcnt_pcp	0.000369
+19191	Iowa	Winneshiek	pcnt_pcp	0.000713
+19193	Iowa	Woodbury	pcnt_pcp	0.000596
+19195	Iowa	Worth	pcnt_pcp	0.000264
+19197	Iowa	Wright	pcnt_pcp	0.000531
+20001	Kansas	Allen	pcnt_pcp	0.000300
+20003	Kansas	Anderson	pcnt_pcp	0.000494
+20005	Kansas	Atchison	pcnt_pcp	0.000533
+20007	Kansas	Barber	pcnt_pcp	0.001032
+20009	Kansas	Barton	pcnt_pcp	0.000542
+20011	Kansas	Bourbon	pcnt_pcp	0.000593
+20013	Kansas	Brown	pcnt_pcp	0.001001
+20015	Kansas	Butler	pcnt_pcp	0.000516
+20017	Kansas	Chase	pcnt_pcp	#VALUE!
+20019	Kansas	Chautauqua	pcnt_pcp	#VALUE!
+20021	Kansas	Cherokee	pcnt_pcp	0.000371
+20023	Kansas	Cheyenne	pcnt_pcp	0.000734
+20025	Kansas	Clark	pcnt_pcp	0.001362
+20027	Kansas	Clay	pcnt_pcp	0.001170
+20029	Kansas	Cloud	pcnt_pcp	0.000315
+20031	Kansas	Coffey	pcnt_pcp	0.000349
+20033	Kansas	Comanche	pcnt_pcp	0.000529
+20035	Kansas	Cowley	pcnt_pcp	0.000496
+20037	Kansas	Crawford	pcnt_pcp	0.000613
+20039	Kansas	Decatur	pcnt_pcp	0.000679
+20041	Kansas	Dickinson	pcnt_pcp	0.000556
+20043	Kansas	Doniphan	pcnt_pcp	0.000251
+20045	Kansas	Douglas	pcnt_pcp	0.000765
+20047	Kansas	Edwards	pcnt_pcp	0.000656
+20049	Kansas	Elk	pcnt_pcp	0.000347
+20051	Kansas	Ellis	pcnt_pcp	0.000668
+20053	Kansas	Ellsworth	pcnt_pcp	0.000461
+20055	Kansas	Finney	pcnt_pcp	0.000487
+20057	Kansas	Ford	pcnt_pcp	0.000646
+20059	Kansas	Franklin	pcnt_pcp	0.000461
+20061	Kansas	Geary	pcnt_pcp	0.000453
+20063	Kansas	Gove	pcnt_pcp	0.001862
+20065	Kansas	Graham	pcnt_pcp	0.000384
+20067	Kansas	Grant	pcnt_pcp	0.000509
+20069	Kansas	Gray	pcnt_pcp	0.000166
+20071	Kansas	Greeley	pcnt_pcp	0.001592
+20073	Kansas	Greenwood	pcnt_pcp	0.000749
+20075	Kansas	Hamilton	pcnt_pcp	#VALUE!
+20077	Kansas	Harper	pcnt_pcp	0.000497
+20079	Kansas	Harvey	pcnt_pcp	0.000806
+20081	Kansas	Haskell	pcnt_pcp	0.000468
+20083	Kansas	Hodgeman	pcnt_pcp	0.000522
+20085	Kansas	Jackson	pcnt_pcp	0.000742
+20087	Kansas	Jefferson	pcnt_pcp	0.000627
+20089	Kansas	Jewell	pcnt_pcp	0.000325
+20091	Kansas	Johnson	pcnt_pcp	0.001008
+20093	Kansas	Kearny	pcnt_pcp	0.000752
+20095	Kansas	Kingman	pcnt_pcp	0.000127
+20097	Kansas	Kiowa	pcnt_pcp	0.000390
+20099	Kansas	Labette	pcnt_pcp	0.000835
+20101	Kansas	Lane	pcnt_pcp	0.000574
+20103	Kansas	Leavenworth	pcnt_pcp	0.000366
+20105	Kansas	Lincoln	pcnt_pcp	0.000309
+20107	Kansas	Linn	pcnt_pcp	0.000104
+20109	Kansas	Logan	pcnt_pcp	0.001082
+20111	Kansas	Lyon	pcnt_pcp	0.000624
+20113	Kansas	McPherson	pcnt_pcp	0.000721
+20115	Kansas	Marion	pcnt_pcp	0.000237
+20117	Kansas	Marshall	pcnt_pcp	0.000495
+20119	Kansas	Meade	pcnt_pcp	0.000218
+20121	Kansas	Miami	pcnt_pcp	0.000457
+20123	Kansas	Mitchell	pcnt_pcp	0.000787
+20125	Kansas	Montgomery	pcnt_pcp	0.000509
+20127	Kansas	Morris	pcnt_pcp	0.000846
+20129	Kansas	Morton	pcnt_pcp	0.000929
+20131	Kansas	Nemaha	pcnt_pcp	0.000983
+20133	Kansas	Neosho	pcnt_pcp	0.000546
+20135	Kansas	Ness	pcnt_pcp	0.000965
+20137	Kansas	Norton	pcnt_pcp	0.000530
+20139	Kansas	Osage	pcnt_pcp	0.000123
+20141	Kansas	Osborne	pcnt_pcp	0.000780
+20143	Kansas	Ottawa	pcnt_pcp	0.000656
+20145	Kansas	Pawnee	pcnt_pcp	0.000716
+20147	Kansas	Phillips	pcnt_pcp	0.000532
+20149	Kansas	Pottawatomie	pcnt_pcp	0.000507
+20151	Kansas	Pratt	pcnt_pcp	0.000726
+20153	Kansas	Rawlins	pcnt_pcp	0.000798
+20155	Kansas	Reno	pcnt_pcp	0.000651
+20157	Kansas	Republic	pcnt_pcp	0.000808
+20159	Kansas	Rice	pcnt_pcp	0.000495
+20161	Kansas	Riley	pcnt_pcp	0.000672
+20163	Kansas	Rooks	pcnt_pcp	0.000773
+20165	Kansas	Rush	pcnt_pcp	0.000301
+20167	Kansas	Russell	pcnt_pcp	0.000286
+20169	Kansas	Saline	pcnt_pcp	0.000754
+20171	Kansas	Scott	pcnt_pcp	0.000606
+20173	Kansas	Sedgwick	pcnt_pcp	0.000789
+20175	Kansas	Seward	pcnt_pcp	0.000565
+20177	Kansas	Shawnee	pcnt_pcp	0.000758
+20179	Kansas	Sheridan	pcnt_pcp	0.000392
+20181	Kansas	Sherman	pcnt_pcp	0.000333
+20183	Kansas	Smith	pcnt_pcp	0.000776
+20185	Kansas	Stafford	pcnt_pcp	0.000452
+20187	Kansas	Stanton	pcnt_pcp	0.000444
+20189	Kansas	Stevens	pcnt_pcp	0.000174
+20191	Kansas	Sumner	pcnt_pcp	0.000332
+20193	Kansas	Thomas	pcnt_pcp	0.000629
+20195	Kansas	Trego	pcnt_pcp	0.001669
+20197	Kansas	Wabaunsee	pcnt_pcp	0.000284
+20199	Kansas	Wallace	pcnt_pcp	0.016151
+20201	Kansas	Washington	pcnt_pcp	0.000345
+20203	Kansas	Wichita	pcnt_pcp	#VALUE!
+20205	Kansas	Wilson	pcnt_pcp	0.000745
+20207	Kansas	Woodson	pcnt_pcp	#VALUE!
+20209	Kansas	Wyandotte	pcnt_pcp	0.000621
+21001	Kentucky	Adair	pcnt_pcp	0.000430
+21003	Kentucky	Allen	pcnt_pcp	0.000150
+21005	Kentucky	Anderson	pcnt_pcp	0.000419
+21007	Kentucky	Ballard	pcnt_pcp	0.000121
+21009	Kentucky	Barren	pcnt_pcp	0.000665
+21011	Kentucky	Bath	pcnt_pcp	0.000086
+21013	Kentucky	Bell	pcnt_pcp	0.000523
+21015	Kentucky	Boone	pcnt_pcp	0.000587
+21017	Kentucky	Bourbon	pcnt_pcp	0.000801
+21019	Kentucky	Boyd	pcnt_pcp	0.001109
+21021	Kentucky	Boyle	pcnt_pcp	0.000949
+21023	Kentucky	Bracken	pcnt_pcp	0.000118
+21025	Kentucky	Breathitt	pcnt_pcp	0.000649
+21027	Kentucky	Breckinridge	pcnt_pcp	0.000299
+21029	Kentucky	Bullitt	pcnt_pcp	0.000201
+21031	Kentucky	Butler	pcnt_pcp	0.000157
+21033	Kentucky	Caldwell	pcnt_pcp	0.000540
+21035	Kentucky	Calloway	pcnt_pcp	0.000510
+21037	Kentucky	Campbell	pcnt_pcp	0.000508
+21039	Kentucky	Carlisle	pcnt_pcp	0.000392
+21041	Kentucky	Carroll	pcnt_pcp	0.000370
+21043	Kentucky	Carter	pcnt_pcp	0.000180
+21045	Kentucky	Casey	pcnt_pcp	0.000125
+21047	Kentucky	Christian	pcnt_pcp	0.000405
+21049	Kentucky	Clark	pcnt_pcp	0.000477
+21051	Kentucky	Clay	pcnt_pcp	0.000415
+21053	Kentucky	Clinton	pcnt_pcp	0.000389
+21055	Kentucky	Crittenden	pcnt_pcp	0.000321
+21057	Kentucky	Cumberland	pcnt_pcp	0.000583
+21059	Kentucky	Daviess	pcnt_pcp	0.000548
+21061	Kentucky	Edmonson	pcnt_pcp	0.000165
+21063	Kentucky	Elliott	pcnt_pcp	0.000127
+21065	Kentucky	Estill	pcnt_pcp	0.000272
+21067	Kentucky	Fayette	pcnt_pcp	0.001120
+21069	Kentucky	Fleming	pcnt_pcp	0.000695
+21071	Kentucky	Floyd	pcnt_pcp	0.000736
+21073	Kentucky	Franklin	pcnt_pcp	0.000426
+21075	Kentucky	Fulton	pcnt_pcp	0.000880
+21077	Kentucky	Gallatin	pcnt_pcp	0.000232
+21079	Kentucky	Garrard	pcnt_pcp	0.000295
+21081	Kentucky	Grant	pcnt_pcp	0.000567
+21083	Kentucky	Graves	pcnt_pcp	0.000403
+21085	Kentucky	Grayson	pcnt_pcp	0.000543
+21087	Kentucky	Green	pcnt_pcp	0.000178
+21089	Kentucky	Greenup	pcnt_pcp	0.000596
+21091	Kentucky	Hancock	pcnt_pcp	#VALUE!
+21093	Kentucky	Hardin	pcnt_pcp	0.000626
+21095	Kentucky	Harlan	pcnt_pcp	0.000411
+21097	Kentucky	Harrison	pcnt_pcp	0.000531
+21099	Kentucky	Hart	pcnt_pcp	0.000384
+21101	Kentucky	Henderson	pcnt_pcp	0.000432
+21103	Kentucky	Henry	pcnt_pcp	0.000324
+21105	Kentucky	Hickman	pcnt_pcp	0.000205
+21107	Kentucky	Hopkins	pcnt_pcp	0.001131
+21109	Kentucky	Jackson	pcnt_pcp	0.000074
+21111	Kentucky	Jefferson	pcnt_pcp	0.000907
+21113	Kentucky	Jessamine	pcnt_pcp	0.000678
+21115	Kentucky	Johnson	pcnt_pcp	0.000684
+21117	Kentucky	Kenton	pcnt_pcp	0.000794
+21119	Kentucky	Knott	pcnt_pcp	0.000429
+21121	Kentucky	Knox	pcnt_pcp	0.000282
+21123	Kentucky	Larue	pcnt_pcp	0.000070
+21125	Kentucky	Laurel	pcnt_pcp	0.000424
+21127	Kentucky	Lawrence	pcnt_pcp	0.000629
+21129	Kentucky	Lee	pcnt_pcp	0.000254
+21131	Kentucky	Leslie	pcnt_pcp	0.000177
+21133	Kentucky	Letcher	pcnt_pcp	0.000611
+21135	Kentucky	Lewis	pcnt_pcp	0.000216
+21137	Kentucky	Lincoln	pcnt_pcp	0.000525
+21139	Kentucky	Livingston	pcnt_pcp	0.000419
+21141	Kentucky	Logan	pcnt_pcp	0.000373
+21143	Kentucky	Lyon	pcnt_pcp	0.000361
+21145	Kentucky	McCracken	pcnt_pcp	0.000855
+21147	Kentucky	McCreary	pcnt_pcp	0.000328
+21149	Kentucky	McLean	pcnt_pcp	0.000105
+21151	Kentucky	Madison	pcnt_pcp	0.000590
+21153	Kentucky	Magoffin	pcnt_pcp	0.000075
+21155	Kentucky	Marion	pcnt_pcp	0.000404
+21157	Kentucky	Marshall	pcnt_pcp	0.000350
+21159	Kentucky	Martin	pcnt_pcp	0.000233
+21161	Kentucky	Mason	pcnt_pcp	0.000972
+21163	Kentucky	Meade	pcnt_pcp	0.000209
+21165	Kentucky	Menifee	pcnt_pcp	0.000158
+21167	Kentucky	Mercer	pcnt_pcp	0.000375
+21169	Kentucky	Metcalfe	pcnt_pcp	0.000099
+21171	Kentucky	Monroe	pcnt_pcp	0.000456
+21173	Kentucky	Montgomery	pcnt_pcp	0.000566
+21175	Kentucky	Morgan	pcnt_pcp	0.000287
+21177	Kentucky	Muhlenberg	pcnt_pcp	0.000350
+21179	Kentucky	Nelson	pcnt_pcp	0.000413
+21181	Kentucky	Nicholas	pcnt_pcp	0.000140
+21183	Kentucky	Ohio	pcnt_pcp	0.000210
+21185	Kentucky	Oldham	pcnt_pcp	0.000497
+21187	Kentucky	Owen	pcnt_pcp	0.000369
+21189	Kentucky	Owsley	pcnt_pcp	0.000209
+21191	Kentucky	Pendleton	pcnt_pcp	0.000134
+21193	Kentucky	Perry	pcnt_pcp	0.001115
+21195	Kentucky	Pike	pcnt_pcp	0.000739
+21197	Kentucky	Powell	pcnt_pcp	0.000079
+21199	Kentucky	Pulaski	pcnt_pcp	0.000665
+21201	Kentucky	Robertson	pcnt_pcp	#VALUE!
+21203	Kentucky	Rockcastle	pcnt_pcp	0.000528
+21205	Kentucky	Rowan	pcnt_pcp	0.000943
+21207	Kentucky	Russell	pcnt_pcp	0.000570
+21209	Kentucky	Scott	pcnt_pcp	0.000527
+21211	Kentucky	Shelby	pcnt_pcp	0.000449
+21213	Kentucky	Simpson	pcnt_pcp	0.000576
+21215	Kentucky	Spencer	pcnt_pcp	0.000350
+21217	Kentucky	Taylor	pcnt_pcp	0.000733
+21219	Kentucky	Todd	pcnt_pcp	0.000161
+21221	Kentucky	Trigg	pcnt_pcp	0.000279
+21223	Kentucky	Trimble	pcnt_pcp	0.000227
+21225	Kentucky	Union	pcnt_pcp	0.000266
+21227	Kentucky	Warren	pcnt_pcp	0.000657
+21229	Kentucky	Washington	pcnt_pcp	0.000425
+21231	Kentucky	Wayne	pcnt_pcp	0.000624
+21233	Kentucky	Webster	pcnt_pcp	0.000294
+21235	Kentucky	Whitley	pcnt_pcp	0.000786
+21237	Kentucky	Wolfe	pcnt_pcp	0.000136
+21239	Kentucky	Woodford	pcnt_pcp	0.000600
+22001	Louisiana	Acadia	pcnt_pcp	0.000340
+22003	Louisiana	Allen	pcnt_pcp	0.000311
+22005	Louisiana	Ascension	pcnt_pcp	0.000427
+22007	Louisiana	Assumption	pcnt_pcp	0.000171
+22009	Louisiana	Avoyelles	pcnt_pcp	0.000404
+22011	Louisiana	Beauregard	pcnt_pcp	0.000474
+22013	Louisiana	Bienville	pcnt_pcp	0.000139
+22015	Louisiana	Bossier	pcnt_pcp	0.000434
+22017	Louisiana	Caddo	pcnt_pcp	0.001002
+22019	Louisiana	Calcasieu	pcnt_pcp	0.000631
+22021	Louisiana	Caldwell	pcnt_pcp	0.000395
+22023	Louisiana	Cameron	pcnt_pcp	#VALUE!
+22025	Louisiana	Catahoula	pcnt_pcp	0.000192
+22027	Louisiana	Claiborne	pcnt_pcp	0.000408
+22029	Louisiana	Concordia	pcnt_pcp	0.000288
+22031	Louisiana	De Soto	pcnt_pcp	0.000224
+22033	Louisiana	East Baton Rouge	pcnt_pcp	0.000844
+22035	Louisiana	East Carroll	pcnt_pcp	0.000388
+22037	Louisiana	East Feliciana	pcnt_pcp	0.000347
+22039	Louisiana	Evangeline	pcnt_pcp	0.000677
+22041	Louisiana	Franklin	pcnt_pcp	0.000288
+22043	Louisiana	Grant	pcnt_pcp	0.000134
+22045	Louisiana	Iberia	pcnt_pcp	0.000505
+22047	Louisiana	Iberville	pcnt_pcp	0.000360
+22049	Louisiana	Jackson	pcnt_pcp	0.000123
+22051	Louisiana	Jefferson	pcnt_pcp	0.000838
+22053	Louisiana	Jefferson Davis	pcnt_pcp	0.000474
+22055	Louisiana	Lafayette	pcnt_pcp	0.001013
+22057	Louisiana	Lafourche	pcnt_pcp	0.000426
+22059	Louisiana	La Salle	pcnt_pcp	0.000535
+22061	Louisiana	Lincoln	pcnt_pcp	0.000769
+22063	Louisiana	Livingston	pcnt_pcp	0.000148
+22065	Louisiana	Madison	pcnt_pcp	0.000578
+22067	Louisiana	Morehouse	pcnt_pcp	0.000358
+22069	Louisiana	Natchitoches	pcnt_pcp	0.000505
+22071	Louisiana	Orleans	pcnt_pcp	0.000842
+22073	Louisiana	Ouachita	pcnt_pcp	0.000799
+22075	Louisiana	Plaquemines	pcnt_pcp	0.000086
+22077	Louisiana	Pointe Coupee	pcnt_pcp	0.000263
+22079	Louisiana	Rapides	pcnt_pcp	0.000828
+22081	Louisiana	Red River	pcnt_pcp	0.000221
+22083	Louisiana	Richland	pcnt_pcp	0.000724
+22085	Louisiana	Sabine	pcnt_pcp	0.000165
+22087	Louisiana	St. Bernard	pcnt_pcp	0.000163
+22089	Louisiana	St. Charles	pcnt_pcp	0.000265
+22091	Louisiana	St. Helena	pcnt_pcp	0.000357
+22093	Louisiana	St. James	pcnt_pcp	0.000499
+22095	Louisiana	St. John the Baptist	pcnt_pcp	0.000393
+22097	Louisiana	St. Landry	pcnt_pcp	0.000635
+22099	Louisiana	St. Martin	pcnt_pcp	0.000134
+22101	Louisiana	St. Mary	pcnt_pcp	0.000550
+22103	Louisiana	St. Tammany	pcnt_pcp	0.000751
+22105	Louisiana	Tangipahoa	pcnt_pcp	0.000379
+22107	Louisiana	Tensas	pcnt_pcp	#VALUE!
+22109	Louisiana	Terrebonne	pcnt_pcp	0.000384
+22111	Louisiana	Union	pcnt_pcp	0.000176
+22113	Louisiana	Vermilion	pcnt_pcp	0.000310
+22115	Louisiana	Vernon	pcnt_pcp	0.000285
+22117	Louisiana	Washington	pcnt_pcp	0.000297
+22119	Louisiana	Webster	pcnt_pcp	0.000558
+22121	Louisiana	West Baton Rouge	pcnt_pcp	0.000125
+22123	Louisiana	West Carroll	pcnt_pcp	0.000172
+22125	Louisiana	West Feliciana	pcnt_pcp	0.000320
+22127	Louisiana	Winn	pcnt_pcp	0.000196
+23001	Maine	Androscoggin	pcnt_pcp	0.000864
+23003	Maine	Aroostook	pcnt_pcp	0.000893
+23005	Maine	Cumberland	pcnt_pcp	0.001527
+23007	Maine	Franklin	pcnt_pcp	0.001172
+23009	Maine	Hancock	pcnt_pcp	0.001196
+23011	Maine	Kennebec	pcnt_pcp	0.001106
+23013	Maine	Knox	pcnt_pcp	0.000907
+23015	Maine	Lincoln	pcnt_pcp	0.001222
+23017	Maine	Oxford	pcnt_pcp	0.000572
+23019	Maine	Penobscot	pcnt_pcp	0.001171
+23021	Maine	Piscataquis	pcnt_pcp	0.000912
+23023	Maine	Sagadahoc	pcnt_pcp	0.000682
+23025	Maine	Somerset	pcnt_pcp	0.000805
+23027	Maine	Waldo	pcnt_pcp	0.000696
+23029	Maine	Washington	pcnt_pcp	0.000610
+23031	Maine	York	pcnt_pcp	0.000771
+24001	Maryland	Allegany	pcnt_pcp	0.000573
+24003	Maryland	Anne Arundel	pcnt_pcp	0.000694
+24005	Maryland	Baltimore	pcnt_pcp	0.000960
+24009	Maryland	Calvert	pcnt_pcp	0.000495
+24011	Maryland	Caroline	pcnt_pcp	0.000272
+24013	Maryland	Carroll	pcnt_pcp	0.000556
+24015	Maryland	Cecil	pcnt_pcp	0.000356
+24017	Maryland	Charles	pcnt_pcp	0.000422
+24019	Maryland	Dorchester	pcnt_pcp	0.000551
+24021	Maryland	Frederick	pcnt_pcp	0.000611
+24023	Maryland	Garrett	pcnt_pcp	0.000499
+24025	Maryland	Harford	pcnt_pcp	0.000608
+24027	Maryland	Howard	pcnt_pcp	0.001736
+24029	Maryland	Kent	pcnt_pcp	0.000941
+24031	Maryland	Montgomery	pcnt_pcp	0.001368
+24033	Maryland	Prince George's	pcnt_pcp	0.000545
+24035	Maryland	Queen Anne's	pcnt_pcp	0.000397
+24037	Maryland	St. Mary's	pcnt_pcp	0.000426
+24039	Maryland	Somerset	pcnt_pcp	0.000340
+24041	Maryland	Talbot	pcnt_pcp	0.000898
+24043	Maryland	Washington	pcnt_pcp	0.000603
+24045	Maryland	Wicomico	pcnt_pcp	0.000729
+24047	Maryland	Worcester	pcnt_pcp	0.000680
+24510	Maryland	Baltimore City	pcnt_pcp	0.001015
+25001	Massachusetts	Barnstable	pcnt_pcp	0.000922
+25003	Massachusetts	Berkshire	pcnt_pcp	0.001053
+25005	Massachusetts	Bristol	pcnt_pcp	0.000510
+25007	Massachusetts	Dukes	pcnt_pcp	0.001147
+25009	Massachusetts	Essex	pcnt_pcp	0.000787
+25011	Massachusetts	Franklin	pcnt_pcp	0.000659
+25013	Massachusetts	Hampden	pcnt_pcp	0.000732
+25015	Massachusetts	Hampshire	pcnt_pcp	0.001495
+25017	Massachusetts	Middlesex	pcnt_pcp	0.001225
+25019	Massachusetts	Nantucket	pcnt_pcp	0.000493
+25021	Massachusetts	Norfolk	pcnt_pcp	0.001212
+25023	Massachusetts	Plymouth	pcnt_pcp	0.000615
+25025	Massachusetts	Suffolk	pcnt_pcp	0.001427
+25027	Massachusetts	Worcester	pcnt_pcp	0.001003
+26001	Michigan	Alcona	pcnt_pcp	0.000550
+26003	Michigan	Alger	pcnt_pcp	0.000522
+26005	Michigan	Allegan	pcnt_pcp	0.000296
+26007	Michigan	Alpena	pcnt_pcp	0.000779
+26009	Michigan	Antrim	pcnt_pcp	0.000383
+26011	Michigan	Arenac	pcnt_pcp	0.000441
+26013	Michigan	Baraga	pcnt_pcp	0.000906
+26015	Michigan	Barry	pcnt_pcp	0.000356
+26017	Michigan	Bay	pcnt_pcp	0.000576
+26019	Michigan	Benzie	pcnt_pcp	0.000400
+26021	Michigan	Berrien	pcnt_pcp	0.000823
+26023	Michigan	Branch	pcnt_pcp	0.000554
+26025	Michigan	Calhoun	pcnt_pcp	0.000603
+26027	Michigan	Cass	pcnt_pcp	0.000153
+26029	Michigan	Charlevoix	pcnt_pcp	0.000850
+26031	Michigan	Cheboygan	pcnt_pcp	0.000690
+26033	Michigan	Chippewa	pcnt_pcp	0.000596
+26035	Michigan	Clare	pcnt_pcp	0.000420
+26037	Michigan	Clinton	pcnt_pcp	0.000451
+26039	Michigan	Crawford	pcnt_pcp	0.000926
+26041	Michigan	Delta	pcnt_pcp	0.000701
+26043	Michigan	Dickinson	pcnt_pcp	0.000842
+26045	Michigan	Eaton	pcnt_pcp	0.000399
+26047	Michigan	Emmet	pcnt_pcp	0.001285
+26049	Michigan	Genesee	pcnt_pcp	0.000916
+26051	Michigan	Gladwin	pcnt_pcp	0.000350
+26053	Michigan	Gogebic	pcnt_pcp	0.000792
+26055	Michigan	Grand Traverse	pcnt_pcp	0.001460
+26057	Michigan	Gratiot	pcnt_pcp	0.000589
+26059	Michigan	Hillsdale	pcnt_pcp	0.000343
+26061	Michigan	Houghton	pcnt_pcp	0.000873
+26063	Michigan	Huron	pcnt_pcp	0.000605
+26065	Michigan	Ingham	pcnt_pcp	0.001015
+26067	Michigan	Ionia	pcnt_pcp	0.000297
+26069	Michigan	Iosco	pcnt_pcp	0.000543
+26071	Michigan	Iron	pcnt_pcp	0.000593
+26073	Michigan	Isabella	pcnt_pcp	0.000512
+26075	Michigan	Jackson	pcnt_pcp	0.000525
+26077	Michigan	Kalamazoo	pcnt_pcp	0.000978
+26079	Michigan	Kalkaska	pcnt_pcp	0.000408
+26081	Michigan	Kent	pcnt_pcp	0.000886
+26083	Michigan	Keweenaw	pcnt_pcp	#VALUE!
+26085	Michigan	Lake	pcnt_pcp	0.000174
+26087	Michigan	Lapeer	pcnt_pcp	0.000408
+26089	Michigan	Leelanau	pcnt_pcp	0.000369
+26091	Michigan	Lenawee	pcnt_pcp	0.000351
+26093	Michigan	Livingston	pcnt_pcp	0.000431
+26095	Michigan	Luce	pcnt_pcp	0.001058
+26097	Michigan	Mackinac	pcnt_pcp	0.000902
+26099	Michigan	Macomb	pcnt_pcp	0.000588
+26101	Michigan	Manistee	pcnt_pcp	0.000526
+26103	Michigan	Marquette	pcnt_pcp	0.001161
+26105	Michigan	Mason	pcnt_pcp	0.000696
+26107	Michigan	Mecosta	pcnt_pcp	0.000537
+26109	Michigan	Menominee	pcnt_pcp	0.000375
+26111	Michigan	Midland	pcnt_pcp	0.000861
+26113	Michigan	Missaukee	pcnt_pcp	0.000270
+26115	Michigan	Monroe	pcnt_pcp	0.000375
+26117	Michigan	Montcalm	pcnt_pcp	0.000332
+26119	Michigan	Montmorency	pcnt_pcp	0.000614
+26121	Michigan	Muskegon	pcnt_pcp	0.000709
+26123	Michigan	Newaygo	pcnt_pcp	0.000434
+26125	Michigan	Oakland	pcnt_pcp	0.001464
+26127	Michigan	Oceana	pcnt_pcp	0.000490
+26129	Michigan	Ogemaw	pcnt_pcp	0.000693
+26131	Michigan	Ontonagon	pcnt_pcp	0.000444
+26133	Michigan	Osceola	pcnt_pcp	0.000382
+26135	Michigan	Oscoda	pcnt_pcp	#VALUE!
+26137	Michigan	Otsego	pcnt_pcp	0.000704
+26139	Michigan	Ottawa	pcnt_pcp	0.000564
+26141	Michigan	Presque Isle	pcnt_pcp	0.000225
+26143	Michigan	Roscommon	pcnt_pcp	0.000368
+26145	Michigan	Saginaw	pcnt_pcp	0.000845
+26147	Michigan	St. Clair	pcnt_pcp	0.000541
+26149	Michigan	St. Joseph	pcnt_pcp	0.000441
+26151	Michigan	Sanilac	pcnt_pcp	0.000372
+26153	Michigan	Schoolcraft	pcnt_pcp	0.000589
+26155	Michigan	Shiawassee	pcnt_pcp	0.000397
+26157	Michigan	Tuscola	pcnt_pcp	0.000269
+26159	Michigan	Van Buren	pcnt_pcp	0.000643
+26161	Michigan	Washtenaw	pcnt_pcp	0.001560
+26163	Michigan	Wayne	pcnt_pcp	0.000645
+26165	Michigan	Wexford	pcnt_pcp	0.000978
+27001	Minnesota	Aitkin	pcnt_pcp	0.000740
+27003	Minnesota	Anoka	pcnt_pcp	0.000537
+27005	Minnesota	Becker	pcnt_pcp	0.000799
+27007	Minnesota	Beltrami	pcnt_pcp	0.000741
+27009	Minnesota	Benton	pcnt_pcp	0.000468
+27011	Minnesota	Big Stone	pcnt_pcp	0.000950
+27013	Minnesota	Blue Earth	pcnt_pcp	0.000874
+27015	Minnesota	Brown	pcnt_pcp	0.001005
+27017	Minnesota	Carlton	pcnt_pcp	0.000622
+27019	Minnesota	Carver	pcnt_pcp	0.000887
+27021	Minnesota	Cass	pcnt_pcp	0.000384
+27023	Minnesota	Chippewa	pcnt_pcp	0.000562
+27025	Minnesota	Chisago	pcnt_pcp	0.000482
+27027	Minnesota	Clay	pcnt_pcp	0.000220
+27029	Minnesota	Clearwater	pcnt_pcp	0.000345
+27031	Minnesota	Cook	pcnt_pcp	0.000774
+27033	Minnesota	Cottonwood	pcnt_pcp	0.000684
+27035	Minnesota	Crow Wing	pcnt_pcp	0.000927
+27037	Minnesota	Dakota	pcnt_pcp	0.000669
+27039	Minnesota	Dodge	pcnt_pcp	0.000347
+27041	Minnesota	Douglas	pcnt_pcp	0.001167
+27043	Minnesota	Faribault	pcnt_pcp	0.000207
+27045	Minnesota	Fillmore	pcnt_pcp	0.000336
+27047	Minnesota	Freeborn	pcnt_pcp	0.000641
+27049	Minnesota	Goodhue	pcnt_pcp	0.000822
+27051	Minnesota	Grant	pcnt_pcp	0.000166
+27053	Minnesota	Hennepin	pcnt_pcp	0.001099
+27055	Minnesota	Houston	pcnt_pcp	0.000526
+27057	Minnesota	Hubbard	pcnt_pcp	0.000881
+27059	Minnesota	Isanti	pcnt_pcp	0.000766
+27061	Minnesota	Itasca	pcnt_pcp	0.000956
+27063	Minnesota	Jackson	pcnt_pcp	0.000292
+27065	Minnesota	Kanabec	pcnt_pcp	0.000925
+27067	Minnesota	Kandiyohi	pcnt_pcp	0.001160
+27069	Minnesota	Kittson	pcnt_pcp	#VALUE!
+27071	Minnesota	Koochiching	pcnt_pcp	0.000450
+27073	Minnesota	Lac qui Parle	pcnt_pcp	0.000692
+27075	Minnesota	Lake	pcnt_pcp	0.001011
+27077	Minnesota	Lake of the Woods	pcnt_pcp	0.000495
+27079	Minnesota	Le Sueur	pcnt_pcp	0.000217
+27081	Minnesota	Lincoln	pcnt_pcp	0.001019
+27083	Minnesota	Lyon	pcnt_pcp	0.000503
+27085	Minnesota	McLeod	pcnt_pcp	0.000929
+27087	Minnesota	Mahnomen	pcnt_pcp	0.000368
+27089	Minnesota	Marshall	pcnt_pcp	0.000106
+27091	Minnesota	Martin	pcnt_pcp	0.000961
+27093	Minnesota	Meeker	pcnt_pcp	0.000558
+27095	Minnesota	Mille Lacs	pcnt_pcp	0.000997
+27097	Minnesota	Morrison	pcnt_pcp	0.000602
+27099	Minnesota	Mower	pcnt_pcp	0.000536
+27101	Minnesota	Murray	pcnt_pcp	0.000345
+27103	Minnesota	Nicollet	pcnt_pcp	0.000733
+27105	Minnesota	Nobles	pcnt_pcp	0.000702
+27107	Minnesota	Norman	pcnt_pcp	0.000146
+27109	Minnesota	Olmsted	pcnt_pcp	0.002381
+27111	Minnesota	Otter Tail	pcnt_pcp	0.000524
+27113	Minnesota	Pennington	pcnt_pcp	0.000861
+27115	Minnesota	Pine	pcnt_pcp	0.000269
+27117	Minnesota	Pipestone	pcnt_pcp	0.000417
+27119	Minnesota	Polk	pcnt_pcp	0.000506
+27121	Minnesota	Pope	pcnt_pcp	0.000821
+27123	Minnesota	Ramsey	pcnt_pcp	0.001079
+27125	Minnesota	Red Lake	pcnt_pcp	#VALUE!
+27127	Minnesota	Redwood	pcnt_pcp	0.000561
+27129	Minnesota	Renville	pcnt_pcp	0.000446
+27131	Minnesota	Rice	pcnt_pcp	0.000965
+27133	Minnesota	Rock	pcnt_pcp	0.001034
+27135	Minnesota	Roseau	pcnt_pcp	0.000642
+27137	Minnesota	St. Louis	pcnt_pcp	0.001155
+27139	Minnesota	Scott	pcnt_pcp	0.000629
+27141	Minnesota	Sherburne	pcnt_pcp	0.000327
+27143	Minnesota	Sibley	pcnt_pcp	0.000263
+27145	Minnesota	Stearns	pcnt_pcp	0.001035
+27147	Minnesota	Steele	pcnt_pcp	0.000959
+27149	Minnesota	Stevens	pcnt_pcp	0.000720
+27151	Minnesota	Swift	pcnt_pcp	0.000512
+27153	Minnesota	Todd	pcnt_pcp	0.000643
+27155	Minnesota	Traverse	pcnt_pcp	0.000282
+27157	Minnesota	Wabasha	pcnt_pcp	0.000784
+27159	Minnesota	Wadena	pcnt_pcp	0.000650
+27161	Minnesota	Waseca	pcnt_pcp	0.000522
+27163	Minnesota	Washington	pcnt_pcp	0.001064
+27165	Minnesota	Watonwan	pcnt_pcp	0.000534
+27167	Minnesota	Wilkin	pcnt_pcp	0.000152
+27169	Minnesota	Winona	pcnt_pcp	0.000525
+27171	Minnesota	Wright	pcnt_pcp	0.000448
+27173	Minnesota	Yellow Medicine	pcnt_pcp	0.000767
+28001	Mississippi	Adams	pcnt_pcp	0.000744
+28003	Mississippi	Alcorn	pcnt_pcp	0.000485
+28005	Mississippi	Amite	pcnt_pcp	0.000229
+28007	Mississippi	Attala	pcnt_pcp	0.000563
+28009	Mississippi	Benton	pcnt_pcp	#VALUE!
+28011	Mississippi	Bolivar	pcnt_pcp	0.000587
+28013	Mississippi	Calhoun	pcnt_pcp	0.000268
+28015	Mississippi	Carroll	pcnt_pcp	0.000189
+28017	Mississippi	Chickasaw	pcnt_pcp	0.000575
+28019	Mississippi	Choctaw	pcnt_pcp	0.000117
+28021	Mississippi	Claiborne	pcnt_pcp	0.000209
+28023	Mississippi	Clarke	pcnt_pcp	0.000239
+28025	Mississippi	Clay	pcnt_pcp	0.000437
+28027	Mississippi	Coahoma	pcnt_pcp	0.000612
+28029	Mississippi	Copiah	pcnt_pcp	0.000374
+28031	Mississippi	Covington	pcnt_pcp	0.000255
+28033	Mississippi	DeSoto	pcnt_pcp	0.000260
+28035	Mississippi	Forrest	pcnt_pcp	0.001493
+28037	Mississippi	Franklin	pcnt_pcp	0.000369
+28039	Mississippi	George	pcnt_pcp	0.000397
+28041	Mississippi	Greene	pcnt_pcp	#VALUE!
+28043	Mississippi	Grenada	pcnt_pcp	0.000503
+28045	Mississippi	Hancock	pcnt_pcp	0.000364
+28047	Mississippi	Harrison	pcnt_pcp	0.000543
+28049	Mississippi	Hinds	pcnt_pcp	0.000766
+28051	Mississippi	Holmes	pcnt_pcp	0.000523
+28053	Mississippi	Humphreys	pcnt_pcp	0.000321
+28055	Mississippi	Issaquena	pcnt_pcp	0.017143
+28057	Mississippi	Itawamba	pcnt_pcp	0.000214
+28059	Mississippi	Jackson	pcnt_pcp	0.000501
+28061	Mississippi	Jasper	pcnt_pcp	0.000177
+28063	Mississippi	Jefferson	pcnt_pcp	0.000389
+28065	Mississippi	Jefferson Davis	pcnt_pcp	0.000241
+28067	Mississippi	Jones	pcnt_pcp	0.000501
+28069	Mississippi	Kemper	pcnt_pcp	0.000096
+28071	Mississippi	Lafayette	pcnt_pcp	0.000653
+28073	Mississippi	Lamar	pcnt_pcp	0.000143
+28075	Mississippi	Lauderdale	pcnt_pcp	0.000998
+28077	Mississippi	Lawrence	pcnt_pcp	0.000465
+28079	Mississippi	Leake	pcnt_pcp	0.000126
+28081	Mississippi	Lee	pcnt_pcp	0.000940
+28083	Mississippi	Leflore	pcnt_pcp	0.000589
+28085	Mississippi	Lincoln	pcnt_pcp	0.000344
+28087	Mississippi	Lowndes	pcnt_pcp	0.000451
+28089	Mississippi	Madison	pcnt_pcp	0.001099
+28091	Mississippi	Marion	pcnt_pcp	0.000443
+28093	Mississippi	Marshall	pcnt_pcp	0.000108
+28095	Mississippi	Monroe	pcnt_pcp	0.000515
+28097	Mississippi	Montgomery	pcnt_pcp	0.000916
+28099	Mississippi	Neshoba	pcnt_pcp	0.000472
+28101	Mississippi	Newton	pcnt_pcp	0.000276
+28103	Mississippi	Noxubee	pcnt_pcp	0.000260
+28105	Mississippi	Oktibbeha	pcnt_pcp	0.000378
+28107	Mississippi	Panola	pcnt_pcp	0.000346
+28109	Mississippi	Pearl River	pcnt_pcp	0.000305
+28111	Mississippi	Perry	pcnt_pcp	0.000082
+28113	Mississippi	Pike	pcnt_pcp	0.000495
+28115	Mississippi	Pontotoc	pcnt_pcp	0.000233
+28117	Mississippi	Prentiss	pcnt_pcp	0.000317
+28119	Mississippi	Quitman	pcnt_pcp	0.000122
+28121	Mississippi	Rankin	pcnt_pcp	0.000690
+28123	Mississippi	Scott	pcnt_pcp	0.000212
+28125	Mississippi	Sharkey	pcnt_pcp	0.000410
+28127	Mississippi	Simpson	pcnt_pcp	0.000546
+28129	Mississippi	Smith	pcnt_pcp	0.000182
+28131	Mississippi	Stone	pcnt_pcp	0.000279
+28133	Mississippi	Sunflower	pcnt_pcp	0.000272
+28135	Mississippi	Tallahatchie	pcnt_pcp	0.000130
+28137	Mississippi	Tate	pcnt_pcp	0.000276
+28139	Mississippi	Tippah	pcnt_pcp	0.000270
+28141	Mississippi	Tishomingo	pcnt_pcp	0.000408
+28143	Mississippi	Tunica	pcnt_pcp	0.000093
+28145	Mississippi	Union	pcnt_pcp	0.000552
+28147	Mississippi	Walthall	pcnt_pcp	0.000583
+28149	Mississippi	Warren	pcnt_pcp	0.000615
+28151	Mississippi	Washington	pcnt_pcp	0.000529
+28153	Mississippi	Wayne	pcnt_pcp	0.000289
+28155	Mississippi	Webster	pcnt_pcp	0.000485
+28157	Mississippi	Wilkinson	pcnt_pcp	0.000406
+28159	Mississippi	Winston	pcnt_pcp	0.000313
+28161	Mississippi	Yalobusha	pcnt_pcp	0.000237
+28163	Mississippi	Yazoo	pcnt_pcp	0.000143
+29001	Missouri	Adair	pcnt_pcp	0.001330
+29003	Missouri	Andrew	pcnt_pcp	0.000058
+29005	Missouri	Atchison	pcnt_pcp	0.000177
+29007	Missouri	Audrain	pcnt_pcp	0.000628
+29009	Missouri	Barry	pcnt_pcp	0.000591
+29011	Missouri	Barton	pcnt_pcp	0.000404
+29013	Missouri	Bates	pcnt_pcp	0.000235
+29015	Missouri	Benton	pcnt_pcp	0.000419
+29017	Missouri	Bollinger	pcnt_pcp	0.000081
+29019	Missouri	Boone	pcnt_pcp	0.001055
+29021	Missouri	Buchanan	pcnt_pcp	0.000606
+29023	Missouri	Butler	pcnt_pcp	0.001005
+29025	Missouri	Caldwell	pcnt_pcp	#VALUE!
+29027	Missouri	Callaway	pcnt_pcp	0.000383
+29029	Missouri	Camden	pcnt_pcp	0.000841
+29031	Missouri	Cape Girardeau	pcnt_pcp	0.000870
+29033	Missouri	Carroll	pcnt_pcp	0.000323
+29035	Missouri	Carter	pcnt_pcp	0.000159
+29037	Missouri	Cass	pcnt_pcp	0.000241
+29039	Missouri	Cedar	pcnt_pcp	0.000286
+29041	Missouri	Chariton	pcnt_pcp	#VALUE!
+29043	Missouri	Christian	pcnt_pcp	0.000360
+29045	Missouri	Clark	pcnt_pcp	0.000420
+29047	Missouri	Clay	pcnt_pcp	0.000566
+29049	Missouri	Clinton	pcnt_pcp	0.000627
+29051	Missouri	Cole	pcnt_pcp	0.000828
+29053	Missouri	Cooper	pcnt_pcp	0.000398
+29055	Missouri	Crawford	pcnt_pcp	0.000162
+29057	Missouri	Dade	pcnt_pcp	0.000509
+29059	Missouri	Dallas	pcnt_pcp	0.000060
+29061	Missouri	Daviess	pcnt_pcp	0.000118
+29063	Missouri	DeKalb	pcnt_pcp	0.000233
+29065	Missouri	Dent	pcnt_pcp	0.000383
+29067	Missouri	Douglas	pcnt_pcp	0.000220
+29069	Missouri	Dunklin	pcnt_pcp	0.000564
+29071	Missouri	Franklin	pcnt_pcp	0.000621
+29073	Missouri	Gasconade	pcnt_pcp	0.000460
+29075	Missouri	Gentry	pcnt_pcp	0.000445
+29077	Missouri	Greene	pcnt_pcp	0.000988
+29079	Missouri	Grundy	pcnt_pcp	0.000682
+29081	Missouri	Harrison	pcnt_pcp	0.000559
+29083	Missouri	Henry	pcnt_pcp	0.000674
+29085	Missouri	Hickory	pcnt_pcp	0.000104
+29087	Missouri	Holt	pcnt_pcp	0.000408
+29089	Missouri	Howard	pcnt_pcp	0.000395
+29091	Missouri	Howell	pcnt_pcp	0.000740
+29093	Missouri	Iron	pcnt_pcp	0.000378
+29095	Missouri	Jackson	pcnt_pcp	0.000725
+29097	Missouri	Jasper	pcnt_pcp	0.000850
+29099	Missouri	Jefferson	pcnt_pcp	0.000233
+29101	Missouri	Johnson	pcnt_pcp	0.000417
+29103	Missouri	Knox	pcnt_pcp	0.000727
+29105	Missouri	Laclede	pcnt_pcp	0.000674
+29107	Missouri	Lafayette	pcnt_pcp	0.000299
+29109	Missouri	Lawrence	pcnt_pcp	0.000570
+29111	Missouri	Lewis	pcnt_pcp	0.000294
+29113	Missouri	Lincoln	pcnt_pcp	0.000152
+29115	Missouri	Linn	pcnt_pcp	0.000628
+29117	Missouri	Livingston	pcnt_pcp	0.000658
+29119	Missouri	McDonald	pcnt_pcp	0.000130
+29121	Missouri	Macon	pcnt_pcp	0.000385
+29123	Missouri	Madison	pcnt_pcp	0.000328
+29125	Missouri	Maries	pcnt_pcp	0.000109
+29127	Missouri	Marion	pcnt_pcp	0.000974
+29129	Missouri	Mercer	pcnt_pcp	0.000265
+29131	Missouri	Miller	pcnt_pcp	0.000243
+29133	Missouri	Mississippi	pcnt_pcp	0.000278
+29135	Missouri	Moniteau	pcnt_pcp	0.000192
+29137	Missouri	Monroe	pcnt_pcp	0.000341
+29139	Missouri	Montgomery	pcnt_pcp	0.000408
+29141	Missouri	Morgan	pcnt_pcp	0.000243
+29143	Missouri	New Madrid	pcnt_pcp	0.000211
+29145	Missouri	Newton	pcnt_pcp	0.000207
+29147	Missouri	Nodaway	pcnt_pcp	0.000599
+29149	Missouri	Oregon	pcnt_pcp	0.000092
+29151	Missouri	Osage	pcnt_pcp	0.000072
+29153	Missouri	Ozark	pcnt_pcp	0.000205
+29155	Missouri	Pemiscot	pcnt_pcp	0.000274
+29157	Missouri	Perry	pcnt_pcp	0.000422
+29159	Missouri	Pettis	pcnt_pcp	0.000426
+29161	Missouri	Phelps	pcnt_pcp	0.000906
+29163	Missouri	Pike	pcnt_pcp	0.000270
+29165	Missouri	Platte	pcnt_pcp	0.000635
+29167	Missouri	Polk	pcnt_pcp	0.000578
+29169	Missouri	Pulaski	pcnt_pcp	0.000341
+29171	Missouri	Putnam	pcnt_pcp	#VALUE!
+29173	Missouri	Ralls	pcnt_pcp	0.000196
+29175	Missouri	Randolph	pcnt_pcp	0.000512
+29177	Missouri	Ray	pcnt_pcp	0.000426
+29179	Missouri	Reynolds	pcnt_pcp	0.000597
+29181	Missouri	Ripley	pcnt_pcp	0.000142
+29183	Missouri	St. Charles	pcnt_pcp	0.000445
+29185	Missouri	St. Clair	pcnt_pcp	0.000611
+29186	Missouri	Ste. Genevieve	pcnt_pcp	0.000441
+29187	Missouri	St. Francois	pcnt_pcp	0.000825
+29189	Missouri	St. Louis	pcnt_pcp	0.001133
+29195	Missouri	Saline	pcnt_pcp	0.000556
+29197	Missouri	Schuyler	pcnt_pcp	0.000450
+29199	Missouri	Scotland	pcnt_pcp	0.000620
+29201	Missouri	Scott	pcnt_pcp	0.000536
+29203	Missouri	Shannon	pcnt_pcp	0.000118
+29205	Missouri	Shelby	pcnt_pcp	#VALUE!
+29207	Missouri	Stoddard	pcnt_pcp	0.000600
+29209	Missouri	Stone	pcnt_pcp	0.000279
+29211	Missouri	Sullivan	pcnt_pcp	0.000298
+29213	Missouri	Taney	pcnt_pcp	0.000791
+29215	Missouri	Texas	pcnt_pcp	0.000422
+29217	Missouri	Vernon	pcnt_pcp	0.000426
+29219	Missouri	Warren	pcnt_pcp	0.000154
+29221	Missouri	Washington	pcnt_pcp	0.000159
+29223	Missouri	Wayne	pcnt_pcp	0.000444
+29225	Missouri	Webster	pcnt_pcp	0.000303
+29227	Missouri	Worth	pcnt_pcp	#VALUE!
+29229	Missouri	Wright	pcnt_pcp	0.000265
+29510	Missouri	St. Louis City	pcnt_pcp	0.000725
+30001	Montana	Beaverhead	pcnt_pcp	0.000973
+30003	Montana	Big Horn	pcnt_pcp	0.000774
+30005	Montana	Blaine	pcnt_pcp	0.000462
+30007	Montana	Broadwater	pcnt_pcp	0.000355
+30009	Montana	Carbon	pcnt_pcp	0.000596
+30011	Montana	Carter	pcnt_pcp	0.020725
+30013	Montana	Cascade	pcnt_pcp	0.000675
+30015	Montana	Chouteau	pcnt_pcp	0.000172
+30017	Montana	Custer	pcnt_pcp	0.001196
+30019	Montana	Daniels	pcnt_pcp	0.000571
+30021	Montana	Dawson	pcnt_pcp	0.000560
+30023	Montana	Deer Lodge	pcnt_pcp	0.000753
+30025	Montana	Fallon	pcnt_pcp	0.000692
+30027	Montana	Fergus	pcnt_pcp	0.001035
+30029	Montana	Flathead	pcnt_pcp	0.000715
+30031	Montana	Gallatin	pcnt_pcp	0.000815
+30033	Montana	Garfield	pcnt_pcp	0.020117
+30035	Montana	Glacier	pcnt_pcp	0.000817
+30037	Montana	Golden Valley	pcnt_pcp	0.001129
+30039	Montana	Granite	pcnt_pcp	0.000325
+30041	Montana	Hill	pcnt_pcp	0.000557
+30043	Montana	Jefferson	pcnt_pcp	0.000789
+30045	Montana	Judith Basin	pcnt_pcp	#VALUE!
+30047	Montana	Lake	pcnt_pcp	0.000730
+30049	Montana	Lewis and Clark	pcnt_pcp	0.000802
+30051	Montana	Liberty	pcnt_pcp	0.001274
+30053	Montana	Lincoln	pcnt_pcp	0.000712
+30055	Montana	McCone	pcnt_pcp	0.013809
+30057	Montana	Madison	pcnt_pcp	0.000520
+30059	Montana	Meagher	pcnt_pcp	0.000529
+30061	Montana	Mineral	pcnt_pcp	0.000711
+30063	Montana	Missoula	pcnt_pcp	0.000877
+30065	Montana	Musselshell	pcnt_pcp	#VALUE!
+30067	Montana	Park	pcnt_pcp	0.000834
+30069	Montana	Petroleum	pcnt_pcp	0.048682
+30071	Montana	Phillips	pcnt_pcp	0.000234
+30073	Montana	Pondera	pcnt_pcp	0.000810
+30075	Montana	Powder River	pcnt_pcp	0.013817
+30077	Montana	Powell	pcnt_pcp	0.001280
+30079	Montana	Prairie	pcnt_pcp	0.000840
+30081	Montana	Ravalli	pcnt_pcp	0.000669
+30083	Montana	Richland	pcnt_pcp	0.000615
+30085	Montana	Roosevelt	pcnt_pcp	0.000383
+30087	Montana	Rosebud	pcnt_pcp	0.000540
+30089	Montana	Sanders	pcnt_pcp	0.000614
+30091	Montana	Sheridan	pcnt_pcp	0.000296
+30093	Montana	Silver Bow	pcnt_pcp	0.000701
+30095	Montana	Stillwater	pcnt_pcp	0.000220
+30097	Montana	Sweet Grass	pcnt_pcp	0.000276
+30099	Montana	Teton	pcnt_pcp	0.000329
+30101	Montana	Toole	pcnt_pcp	0.000935
+30103	Montana	Treasure	pcnt_pcp	0.033287
+30105	Montana	Valley	pcnt_pcp	0.000542
+30107	Montana	Wheatland	pcnt_pcp	#VALUE!
+30109	Montana	Wibaux	pcnt_pcp	0.023786
+30111	Montana	Yellowstone	pcnt_pcp	0.000835
+31001	Nebraska	Adams	pcnt_pcp	0.000861
+31003	Nebraska	Antelope	pcnt_pcp	0.000601
+31005	Nebraska	Arthur	pcnt_pcp	0.051613
+31007	Nebraska	Banner	pcnt_pcp	0.034483
+31009	Nebraska	Blaine	pcnt_pcp	0.050104
+31011	Nebraska	Boone	pcnt_pcp	0.001456
+31013	Nebraska	Box Butte	pcnt_pcp	0.000443
+31015	Nebraska	Boyd	pcnt_pcp	0.001427
+31017	Nebraska	Brown	pcnt_pcp	0.000317
+31019	Nebraska	Buffalo	pcnt_pcp	0.000911
+31021	Nebraska	Burt	pcnt_pcp	0.000292
+31023	Nebraska	Butler	pcnt_pcp	0.000715
+31025	Nebraska	Cass	pcnt_pcp	0.000317
+31027	Nebraska	Cedar	pcnt_pcp	0.000227
+31029	Nebraska	Chase	pcnt_pcp	0.000503
+31031	Nebraska	Cherry	pcnt_pcp	0.000699
+31033	Nebraska	Cheyenne	pcnt_pcp	0.000501
+31035	Nebraska	Clay	pcnt_pcp	0.000153
+31037	Nebraska	Colfax	pcnt_pcp	0.000095
+31039	Nebraska	Cuming	pcnt_pcp	0.000328
+31041	Nebraska	Custer	pcnt_pcp	0.000917
+31043	Nebraska	Dakota	pcnt_pcp	0.000095
+31045	Nebraska	Dawes	pcnt_pcp	0.000763
+31047	Nebraska	Dawson	pcnt_pcp	0.000575
+31049	Nebraska	Deuel	pcnt_pcp	0.000515
+31051	Nebraska	Dixon	pcnt_pcp	0.000167
+31053	Nebraska	Dodge	pcnt_pcp	0.000627
+31055	Nebraska	Douglas	pcnt_pcp	0.000962
+31057	Nebraska	Dundy	pcnt_pcp	0.000997
+31059	Nebraska	Fillmore	pcnt_pcp	0.000850
+31061	Nebraska	Franklin	pcnt_pcp	0.000618
+31063	Nebraska	Frontier	pcnt_pcp	#VALUE!
+31065	Nebraska	Furnas	pcnt_pcp	0.000404
+31067	Nebraska	Gage	pcnt_pcp	0.000763
+31069	Nebraska	Garden	pcnt_pcp	#VALUE!
+31071	Nebraska	Garfield	pcnt_pcp	0.000489
+31073	Nebraska	Gosper	pcnt_pcp	0.000488
+31075	Nebraska	Grant	pcnt_pcp	0.039216
+31077	Nebraska	Greeley	pcnt_pcp	#VALUE!
+31079	Nebraska	Hall	pcnt_pcp	0.000613
+31081	Nebraska	Hamilton	pcnt_pcp	0.000876
+31083	Nebraska	Harlan	pcnt_pcp	0.000292
+31085	Nebraska	Hayes	pcnt_pcp	0.025000
+31087	Nebraska	Hitchcock	pcnt_pcp	#VALUE!
+31089	Nebraska	Holt	pcnt_pcp	0.001054
+31091	Nebraska	Hooker	pcnt_pcp	0.002725
+31093	Nebraska	Howard	pcnt_pcp	0.000639
+31095	Nebraska	Jefferson	pcnt_pcp	0.000664
+31097	Nebraska	Johnson	pcnt_pcp	0.000574
+31099	Nebraska	Kearney	pcnt_pcp	0.000462
+31101	Nebraska	Keith	pcnt_pcp	0.000836
+31103	Nebraska	Keya Paha	pcnt_pcp	0.029126
+31105	Nebraska	Kimball	pcnt_pcp	#VALUE!
+31107	Nebraska	Knox	pcnt_pcp	0.000460
+31109	Nebraska	Lancaster	pcnt_pcp	0.000734
+31111	Nebraska	Lincoln	pcnt_pcp	0.000579
+31113	Nebraska	Logan	pcnt_pcp	0.031291
+31115	Nebraska	Loup	pcnt_pcp	0.037975
+31117	Nebraska	McPherson	pcnt_pcp	0.044444
+31119	Nebraska	Madison	pcnt_pcp	0.000716
+31121	Nebraska	Merrick	pcnt_pcp	0.000382
+31123	Nebraska	Morrill	pcnt_pcp	0.000198
+31125	Nebraska	Nance	pcnt_pcp	#VALUE!
+31127	Nebraska	Nemaha	pcnt_pcp	0.000689
+31129	Nebraska	Nuckolls	pcnt_pcp	0.001111
+31131	Nebraska	Otoe	pcnt_pcp	0.000444
+31133	Nebraska	Pawnee	pcnt_pcp	0.000722
+31135	Nebraska	Perkins	pcnt_pcp	0.001008
+31137	Nebraska	Phelps	pcnt_pcp	0.000978
+31139	Nebraska	Pierce	pcnt_pcp	0.000964
+31141	Nebraska	Platte	pcnt_pcp	0.000434
+31143	Nebraska	Polk	pcnt_pcp	0.000186
+31145	Nebraska	Red Willow	pcnt_pcp	0.000633
+31147	Nebraska	Richardson	pcnt_pcp	0.000479
+31149	Nebraska	Rock	pcnt_pcp	0.000658
+31151	Nebraska	Saline	pcnt_pcp	0.000633
+31153	Nebraska	Sarpy	pcnt_pcp	0.000532
+31155	Nebraska	Saunders	pcnt_pcp	0.000336
+31157	Nebraska	Scotts Bluff	pcnt_pcp	0.000783
+31159	Nebraska	Seward	pcnt_pcp	0.000535
+31161	Nebraska	Sheridan	pcnt_pcp	0.000733
+31163	Nebraska	Sherman	pcnt_pcp	0.000317
+31165	Nebraska	Sioux	pcnt_pcp	0.018279
+31167	Nebraska	Stanton	pcnt_pcp	#VALUE!
+31169	Nebraska	Thayer	pcnt_pcp	0.000766
+31171	Nebraska	Thomas	pcnt_pcp	0.036980
+31173	Nebraska	Thurston	pcnt_pcp	0.000430
+31175	Nebraska	Valley	pcnt_pcp	0.000234
+31177	Nebraska	Washington	pcnt_pcp	0.000345
+31179	Nebraska	Wayne	pcnt_pcp	0.000416
+31181	Nebraska	Webster	pcnt_pcp	0.000786
+31183	Nebraska	Wheeler	pcnt_pcp	0.029197
+31185	Nebraska	York	pcnt_pcp	0.000660
+32001	Nevada	Churchill	pcnt_pcp	0.000403
+32003	Nevada	Clark	pcnt_pcp	0.000545
+32005	Nevada	Douglas	pcnt_pcp	0.000660
+32007	Nevada	Elko	pcnt_pcp	0.000470
+32009	Nevada	Esmeralda	pcnt_pcp	0.030848
+32011	Nevada	Eureka	pcnt_pcp	0.012018
+32013	Nevada	Humboldt	pcnt_pcp	0.000542
+32015	Nevada	Lander	pcnt_pcp	0.000173
+32017	Nevada	Lincoln	pcnt_pcp	0.000373
+32019	Nevada	Lyon	pcnt_pcp	0.000192
+32021	Nevada	Mineral	pcnt_pcp	0.001047
+32023	Nevada	Nye	pcnt_pcp	0.000365
+32027	Nevada	Pershing	pcnt_pcp	#VALUE!
+32029	Nevada	Storey	pcnt_pcp	#VALUE!
+32031	Nevada	Washoe	pcnt_pcp	0.000711
+32033	Nevada	White Pine	pcnt_pcp	0.000696
+32510	Nevada	Carson City	pcnt_pcp	0.000779
+33001	New Hampshire	Belknap	pcnt_pcp	0.000666
+33003	New Hampshire	Carroll	pcnt_pcp	0.000711
+33005	New Hampshire	Cheshire	pcnt_pcp	0.000688
+33007	New Hampshire	Coos	pcnt_pcp	0.001244
+33009	New Hampshire	Grafton	pcnt_pcp	0.001887
+33011	New Hampshire	Hillsborough	pcnt_pcp	0.000833
+33013	New Hampshire	Merrimack	pcnt_pcp	0.001161
+33015	New Hampshire	Rockingham	pcnt_pcp	0.000796
+33017	New Hampshire	Strafford	pcnt_pcp	0.000739
+33019	New Hampshire	Sullivan	pcnt_pcp	0.000664
+34001	New Jersey	Atlantic	pcnt_pcp	0.000743
+34003	New Jersey	Bergen	pcnt_pcp	0.001239
+34005	New Jersey	Burlington	pcnt_pcp	0.000887
+34007	New Jersey	Camden	pcnt_pcp	0.000970
+34009	New Jersey	Cape May	pcnt_pcp	0.000556
+34011	New Jersey	Cumberland	pcnt_pcp	0.000453
+34013	New Jersey	Essex	pcnt_pcp	0.000835
+34015	New Jersey	Gloucester	pcnt_pcp	0.000534
+34017	New Jersey	Hudson	pcnt_pcp	0.000529
+34019	New Jersey	Hunterdon	pcnt_pcp	0.001217
+34021	New Jersey	Mercer	pcnt_pcp	0.001006
+34023	New Jersey	Middlesex	pcnt_pcp	0.000906
+34025	New Jersey	Monmouth	pcnt_pcp	0.001107
+34027	New Jersey	Morris	pcnt_pcp	0.001005
+34029	New Jersey	Ocean	pcnt_pcp	0.000507
+34031	New Jersey	Passaic	pcnt_pcp	0.000592
+34033	New Jersey	Salem	pcnt_pcp	0.000470
+34035	New Jersey	Somerset	pcnt_pcp	0.001089
+34037	New Jersey	Sussex	pcnt_pcp	0.000550
+34039	New Jersey	Union	pcnt_pcp	0.000729
+34041	New Jersey	Warren	pcnt_pcp	0.000589
+35001	New Mexico	Bernalillo	pcnt_pcp	0.000907
+35003	New Mexico	Catron	pcnt_pcp	0.000534
+35005	New Mexico	Chaves	pcnt_pcp	0.000745
+35006	New Mexico	Cibola	pcnt_pcp	0.000623
+35007	New Mexico	Colfax	pcnt_pcp	0.000582
+35009	New Mexico	Curry	pcnt_pcp	0.000531
+35011	New Mexico	De Baca	pcnt_pcp	0.000496
+35013	New Mexico	Dona Ana	pcnt_pcp	0.000542
+35015	New Mexico	Eddy	pcnt_pcp	0.000464
+35017	New Mexico	Grant	pcnt_pcp	0.000816
+35019	New Mexico	Guadalupe	pcnt_pcp	0.000638
+35021	New Mexico	Harding	pcnt_pcp	0.034783
+35023	New Mexico	Hidalgo	pcnt_pcp	#VALUE!
+35025	New Mexico	Lea	pcnt_pcp	0.000448
+35027	New Mexico	Lincoln	pcnt_pcp	0.000585
+35028	New Mexico	Los Alamos	pcnt_pcp	0.001555
+35029	New Mexico	Luna	pcnt_pcp	0.000358
+35031	New Mexico	McKinley	pcnt_pcp	0.000808
+35033	New Mexico	Mora	pcnt_pcp	#VALUE!
+35035	New Mexico	Otero	pcnt_pcp	0.000513
+35037	New Mexico	Quay	pcnt_pcp	0.000441
+35039	New Mexico	Rio Arriba	pcnt_pcp	0.000446
+35041	New Mexico	Roosevelt	pcnt_pcp	0.000349
+35043	New Mexico	Sandoval	pcnt_pcp	0.000650
+35045	New Mexico	San Juan	pcnt_pcp	0.000522
+35047	New Mexico	San Miguel	pcnt_pcp	0.000920
+35049	New Mexico	Santa Fe	pcnt_pcp	0.001004
+35051	New Mexico	Sierra	pcnt_pcp	0.000500
+35053	New Mexico	Socorro	pcnt_pcp	0.000448
+35055	New Mexico	Taos	pcnt_pcp	0.001002
+35057	New Mexico	Torrance	pcnt_pcp	0.000061
+35059	New Mexico	Union	pcnt_pcp	0.000661
+35061	New Mexico	Valencia	pcnt_pcp	0.000261
+36001	New York	Albany	pcnt_pcp	0.000935
+36003	New York	Allegany	pcnt_pcp	0.000327
+36005	New York	Bronx	pcnt_pcp	0.000471
+36007	New York	Broome	pcnt_pcp	0.000804
+36009	New York	Cattaraugus	pcnt_pcp	0.000449
+36011	New York	Cayuga	pcnt_pcp	0.000263
+36013	New York	Chautauqua	pcnt_pcp	0.000490
+36015	New York	Chemung	pcnt_pcp	0.000687
+36017	New York	Chenango	pcnt_pcp	0.000496
+36019	New York	Clinton	pcnt_pcp	0.000657
+36021	New York	Columbia	pcnt_pcp	0.000492
+36023	New York	Cortland	pcnt_pcp	0.000588
+36025	New York	Delaware	pcnt_pcp	0.000543
+36027	New York	Dutchess	pcnt_pcp	0.000716
+36029	New York	Erie	pcnt_pcp	0.000786
+36031	New York	Essex	pcnt_pcp	0.000331
+36033	New York	Franklin	pcnt_pcp	0.000717
+36035	New York	Fulton	pcnt_pcp	0.000505
+36037	New York	Genesee	pcnt_pcp	0.000333
+36039	New York	Greene	pcnt_pcp	0.000326
+36041	New York	Hamilton	pcnt_pcp	0.000207
+36043	New York	Herkimer	pcnt_pcp	0.000372
+36045	New York	Jefferson	pcnt_pcp	0.000454
+36047	New York	Kings	pcnt_pcp	0.000627
+36049	New York	Lewis	pcnt_pcp	0.000627
+36051	New York	Livingston	pcnt_pcp	0.000490
+36053	New York	Madison	pcnt_pcp	0.000572
+36055	New York	Monroe	pcnt_pcp	0.000996
+36057	New York	Montgomery	pcnt_pcp	0.000637
+36059	New York	Nassau	pcnt_pcp	0.001484
+36061	New York	New York	pcnt_pcp	0.001312
+36063	New York	Niagara	pcnt_pcp	0.000416
+36065	New York	Oneida	pcnt_pcp	0.000737
+36067	New York	Onondaga	pcnt_pcp	0.000873
+36069	New York	Ontario	pcnt_pcp	0.000805
+36071	New York	Orange	pcnt_pcp	0.000683
+36073	New York	Orleans	pcnt_pcp	0.000233
+36075	New York	Oswego	pcnt_pcp	0.000377
+36077	New York	Otsego	pcnt_pcp	0.001062
+36079	New York	Putnam	pcnt_pcp	0.000572
+36081	New York	Queens	pcnt_pcp	0.000661
+36083	New York	Rensselaer	pcnt_pcp	0.000521
+36085	New York	Richmond	pcnt_pcp	0.000925
+36087	New York	Rockland	pcnt_pcp	0.000961
+36089	New York	St. Lawrence	pcnt_pcp	0.000527
+36091	New York	Saratoga	pcnt_pcp	0.000728
+36093	New York	Schenectady	pcnt_pcp	0.000769
+36095	New York	Schoharie	pcnt_pcp	0.000245
+36097	New York	Schuyler	pcnt_pcp	0.000600
+36099	New York	Seneca	pcnt_pcp	0.000227
+36101	New York	Steuben	pcnt_pcp	0.000587
+36103	New York	Suffolk	pcnt_pcp	0.000736
+36105	New York	Sullivan	pcnt_pcp	0.000439
+36107	New York	Tioga	pcnt_pcp	0.000294
+36109	New York	Tompkins	pcnt_pcp	0.000856
+36111	New York	Ulster	pcnt_pcp	0.000751
+36113	New York	Warren	pcnt_pcp	0.001126
+36115	New York	Washington	pcnt_pcp	0.000363
+36117	New York	Wayne	pcnt_pcp	0.000331
+36119	New York	Westchester	pcnt_pcp	0.001403
+36121	New York	Wyoming	pcnt_pcp	0.000499
+36123	New York	Yates	pcnt_pcp	0.000552
+37001	North Carolina	Alamance	pcnt_pcp	0.000541
+37003	North Carolina	Alexander	pcnt_pcp	0.000188
+37005	North Carolina	Alleghany	pcnt_pcp	0.001075
+37007	North Carolina	Anson	pcnt_pcp	0.000372
+37009	North Carolina	Ashe	pcnt_pcp	0.000513
+37011	North Carolina	Avery	pcnt_pcp	0.000282
+37013	North Carolina	Beaufort	pcnt_pcp	0.000503
+37015	North Carolina	Bertie	pcnt_pcp	0.000188
+37017	North Carolina	Bladen	pcnt_pcp	0.000312
+37019	North Carolina	Brunswick	pcnt_pcp	0.000454
+37021	North Carolina	Buncombe	pcnt_pcp	0.001220
+37023	North Carolina	Burke	pcnt_pcp	0.000584
+37025	North Carolina	Cabarrus	pcnt_pcp	0.000840
+37027	North Carolina	Caldwell	pcnt_pcp	0.000410
+37029	North Carolina	Camden	pcnt_pcp	0.000100
+37031	North Carolina	Carteret	pcnt_pcp	0.000525
+37033	North Carolina	Caswell	pcnt_pcp	0.000126
+37035	North Carolina	Catawba	pcnt_pcp	0.000674
+37037	North Carolina	Chatham	pcnt_pcp	0.000392
+37039	North Carolina	Cherokee	pcnt_pcp	0.000510
+37041	North Carolina	Chowan	pcnt_pcp	0.000745
+37043	North Carolina	Clay	pcnt_pcp	0.000473
+37045	North Carolina	Cleveland	pcnt_pcp	0.000531
+37047	North Carolina	Columbus	pcnt_pcp	0.000380
+37049	North Carolina	Craven	pcnt_pcp	0.000703
+37051	North Carolina	Cumberland	pcnt_pcp	0.000753
+37053	North Carolina	Currituck	pcnt_pcp	0.000169
+37055	North Carolina	Dare	pcnt_pcp	0.000677
+37057	North Carolina	Davidson	pcnt_pcp	0.000319
+37059	North Carolina	Davie	pcnt_pcp	0.000363
+37061	North Carolina	Duplin	pcnt_pcp	0.000289
+37063	North Carolina	Durham	pcnt_pcp	0.001185
+37065	North Carolina	Edgecombe	pcnt_pcp	0.000301
+37067	North Carolina	Forsyth	pcnt_pcp	0.000979
+37069	North Carolina	Franklin	pcnt_pcp	0.000148
+37071	North Carolina	Gaston	pcnt_pcp	0.000616
+37073	North Carolina	Gates	pcnt_pcp	0.000082
+37075	North Carolina	Graham	pcnt_pcp	0.000225
+37077	North Carolina	Granville	pcnt_pcp	0.000483
+37079	North Carolina	Greene	pcnt_pcp	0.000093
+37081	North Carolina	Guilford	pcnt_pcp	0.000754
+37083	North Carolina	Halifax	pcnt_pcp	0.000532
+37085	North Carolina	Harnett	pcnt_pcp	0.000268
+37087	North Carolina	Haywood	pcnt_pcp	0.000678
+37089	North Carolina	Henderson	pcnt_pcp	0.000767
+37091	North Carolina	Hertford	pcnt_pcp	0.000609
+37093	North Carolina	Hoke	pcnt_pcp	0.000084
+37095	North Carolina	Hyde	pcnt_pcp	0.000172
+37097	North Carolina	Iredell	pcnt_pcp	0.000714
+37099	North Carolina	Jackson	pcnt_pcp	0.001017
+37101	North Carolina	Johnston	pcnt_pcp	0.000307
+37103	North Carolina	Jones	pcnt_pcp	0.000591
+37105	North Carolina	Lee	pcnt_pcp	0.000484
+37107	North Carolina	Lenoir	pcnt_pcp	0.000522
+37109	North Carolina	Lincoln	pcnt_pcp	0.000472
+37111	North Carolina	McDowell	pcnt_pcp	0.000311
+37113	North Carolina	Macon	pcnt_pcp	0.000855
+37115	North Carolina	Madison	pcnt_pcp	0.000481
+37117	North Carolina	Martin	pcnt_pcp	0.000408
+37119	North Carolina	Mecklenburg	pcnt_pcp	0.000871
+37121	North Carolina	Mitchell	pcnt_pcp	0.000901
+37123	North Carolina	Montgomery	pcnt_pcp	0.000288
+37125	North Carolina	Moore	pcnt_pcp	0.000915
+37127	North Carolina	Nash	pcnt_pcp	0.000563
+37129	North Carolina	New Hanover	pcnt_pcp	0.000856
+37131	North Carolina	Northampton	pcnt_pcp	0.000091
+37133	North Carolina	Onslow	pcnt_pcp	0.000368
+37135	North Carolina	Orange	pcnt_pcp	0.001953
+37137	North Carolina	Pamlico	pcnt_pcp	0.000457
+37139	North Carolina	Pasquotank	pcnt_pcp	0.000516
+37141	North Carolina	Pender	pcnt_pcp	0.000267
+37143	North Carolina	Perquimans	pcnt_pcp	0.000222
+37145	North Carolina	Person	pcnt_pcp	0.000406
+37147	North Carolina	Pitt	pcnt_pcp	0.000961
+37149	North Carolina	Polk	pcnt_pcp	0.000587
+37151	North Carolina	Randolph	pcnt_pcp	0.000437
+37153	North Carolina	Richmond	pcnt_pcp	0.000386
+37155	North Carolina	Robeson	pcnt_pcp	0.000416
+37157	North Carolina	Rockingham	pcnt_pcp	0.000385
+37159	North Carolina	Rowan	pcnt_pcp	0.000390
+37161	North Carolina	Rutherford	pcnt_pcp	0.000546
+37163	North Carolina	Sampson	pcnt_pcp	0.000441
+37165	North Carolina	Scotland	pcnt_pcp	0.000804
+37167	North Carolina	Stanly	pcnt_pcp	0.000479
+37169	North Carolina	Stokes	pcnt_pcp	0.000190
+37171	North Carolina	Surry	pcnt_pcp	0.000760
+37173	North Carolina	Swain	pcnt_pcp	0.001073
+37175	North Carolina	Transylvania	pcnt_pcp	0.000756
+37177	North Carolina	Tyrrell	pcnt_pcp	#VALUE!
+37179	North Carolina	Union	pcnt_pcp	0.000559
+37181	North Carolina	Vance	pcnt_pcp	0.000507
+37183	North Carolina	Wake	pcnt_pcp	0.000806
+37185	North Carolina	Warren	pcnt_pcp	0.000143
+37187	North Carolina	Washington	pcnt_pcp	0.000455
+37189	North Carolina	Watauga	pcnt_pcp	0.000804
+37191	North Carolina	Wayne	pcnt_pcp	0.000537
+37193	North Carolina	Wilkes	pcnt_pcp	0.000419
+37195	North Carolina	Wilson	pcnt_pcp	0.000430
+37197	North Carolina	Yadkin	pcnt_pcp	0.000287
+37199	North Carolina	Yancey	pcnt_pcp	0.000788
+38001	North Dakota	Adams	pcnt_pcp	0.004274
+38003	North Dakota	Barnes	pcnt_pcp	0.000813
+38005	North Dakota	Benson	pcnt_pcp	#VALUE!
+38007	North Dakota	Billings	pcnt_pcp	0.031048
+38009	North Dakota	Bottineau	pcnt_pcp	0.000467
+38011	North Dakota	Bowman	pcnt_pcp	0.000636
+38013	North Dakota	Burke	pcnt_pcp	0.012220
+38015	North Dakota	Burleigh	pcnt_pcp	0.000943
+38017	North Dakota	Cass	pcnt_pcp	0.001145
+38019	North Dakota	Cavalier	pcnt_pcp	0.000251
+38021	North Dakota	Dickey	pcnt_pcp	0.000378
+38023	North Dakota	Divide	pcnt_pcp	0.000962
+38025	North Dakota	Dunn	pcnt_pcp	#VALUE!
+38027	North Dakota	Eddy	pcnt_pcp	#VALUE!
+38029	North Dakota	Emmons	pcnt_pcp	0.000564
+38031	North Dakota	Foster	pcnt_pcp	0.000896
+38033	North Dakota	Golden Valley	pcnt_pcp	0.014243
+38035	North Dakota	Grand Forks	pcnt_pcp	0.001016
+38037	North Dakota	Grant	pcnt_pcp	#VALUE!
+38039	North Dakota	Griggs	pcnt_pcp	#VALUE!
+38041	North Dakota	Hettinger	pcnt_pcp	#VALUE!
+38043	North Dakota	Kidder	pcnt_pcp	#VALUE!
+38045	North Dakota	LaMoure	pcnt_pcp	0.000242
+38047	North Dakota	Logan	pcnt_pcp	0.012000
+38049	North Dakota	McHenry	pcnt_pcp	#VALUE!
+38051	North Dakota	McIntosh	pcnt_pcp	0.001072
+38053	North Dakota	McKenzie	pcnt_pcp	0.000156
+38055	North Dakota	McLean	pcnt_pcp	#VALUE!
+38057	North Dakota	Mercer	pcnt_pcp	0.000831
+38059	North Dakota	Morton	pcnt_pcp	0.000435
+38061	North Dakota	Mountrail	pcnt_pcp	0.000647
+38063	North Dakota	Nelson	pcnt_pcp	0.000321
+38065	North Dakota	Oliver	pcnt_pcp	0.013072
+38067	North Dakota	Pembina	pcnt_pcp	0.000270
+38069	North Dakota	Pierce	pcnt_pcp	0.000688
+38071	North Dakota	Ramsey	pcnt_pcp	0.001309
+38073	North Dakota	Ransom	pcnt_pcp	0.000737
+38075	North Dakota	Renville	pcnt_pcp	#VALUE!
+38077	North Dakota	Richland	pcnt_pcp	0.000490
+38079	North Dakota	Rolette	pcnt_pcp	0.000429
+38081	North Dakota	Sargent	pcnt_pcp	#VALUE!
+38083	North Dakota	Sheridan	pcnt_pcp	0.018279
+38085	North Dakota	Sioux	pcnt_pcp	#VALUE!
+38087	North Dakota	Slope	pcnt_pcp	0.032967
+38089	North Dakota	Stark	pcnt_pcp	0.000616
+38091	North Dakota	Steele	pcnt_pcp	0.012091
+38093	North Dakota	Stutsman	pcnt_pcp	0.000711
+38095	North Dakota	Towner	pcnt_pcp	#VALUE!
+38097	North Dakota	Traill	pcnt_pcp	0.000123
+38099	North Dakota	Walsh	pcnt_pcp	0.000631
+38101	North Dakota	Ward	pcnt_pcp	0.000725
+38103	North Dakota	Wells	pcnt_pcp	0.000476
+38105	North Dakota	Williams	pcnt_pcp	0.000709
+39001	Ohio	Adams	pcnt_pcp	0.000315
+39003	Ohio	Allen	pcnt_pcp	0.000546
+39005	Ohio	Ashland	pcnt_pcp	0.000508
+39007	Ohio	Ashtabula	pcnt_pcp	0.000394
+39009	Ohio	Athens	pcnt_pcp	0.000772
+39011	Ohio	Auglaize	pcnt_pcp	0.000609
+39013	Ohio	Belmont	pcnt_pcp	0.000426
+39015	Ohio	Brown	pcnt_pcp	0.000379
+39017	Ohio	Butler	pcnt_pcp	0.000494
+39019	Ohio	Carroll	pcnt_pcp	0.000382
+39021	Ohio	Champaign	pcnt_pcp	0.000225
+39023	Ohio	Clark	pcnt_pcp	0.000485
+39025	Ohio	Clermont	pcnt_pcp	0.000526
+39027	Ohio	Clinton	pcnt_pcp	0.000812
+39029	Ohio	Columbiana	pcnt_pcp	0.000575
+39031	Ohio	Coshocton	pcnt_pcp	0.000461
+39033	Ohio	Crawford	pcnt_pcp	0.000274
+39035	Ohio	Cuyahoga	pcnt_pcp	0.001095
+39037	Ohio	Darke	pcnt_pcp	0.000434
+39039	Ohio	Defiance	pcnt_pcp	0.000718
+39041	Ohio	Delaware	pcnt_pcp	0.001171
+39043	Ohio	Erie	pcnt_pcp	0.000766
+39045	Ohio	Fairfield	pcnt_pcp	0.000622
+39047	Ohio	Fayette	pcnt_pcp	0.000379
+39049	Ohio	Franklin	pcnt_pcp	0.000940
+39051	Ohio	Fulton	pcnt_pcp	0.000469
+39053	Ohio	Gallia	pcnt_pcp	0.001196
+39055	Ohio	Geauga	pcnt_pcp	0.000728
+39057	Ohio	Greene	pcnt_pcp	0.000805
+39059	Ohio	Guernsey	pcnt_pcp	0.000524
+39061	Ohio	Hamilton	pcnt_pcp	0.001044
+39063	Ohio	Hancock	pcnt_pcp	0.000535
+39065	Ohio	Hardin	pcnt_pcp	0.000312
+39067	Ohio	Harrison	pcnt_pcp	0.000442
+39069	Ohio	Henry	pcnt_pcp	0.000319
+39071	Ohio	Highland	pcnt_pcp	0.000459
+39073	Ohio	Hocking	pcnt_pcp	0.000442
+39075	Ohio	Holmes	pcnt_pcp	0.000377
+39077	Ohio	Huron	pcnt_pcp	0.000654
+39079	Ohio	Jackson	pcnt_pcp	0.000451
+39081	Ohio	Jefferson	pcnt_pcp	0.000460
+39083	Ohio	Knox	pcnt_pcp	0.000426
+39085	Ohio	Lake	pcnt_pcp	0.000443
+39087	Ohio	Lawrence	pcnt_pcp	0.000433
+39089	Ohio	Licking	pcnt_pcp	0.000444
+39091	Ohio	Logan	pcnt_pcp	0.000568
+39093	Ohio	Lorain	pcnt_pcp	0.000570
+39095	Ohio	Lucas	pcnt_pcp	0.000875
+39097	Ohio	Madison	pcnt_pcp	0.000460
+39099	Ohio	Mahoning	pcnt_pcp	0.000915
+39101	Ohio	Marion	pcnt_pcp	0.000466
+39103	Ohio	Medina	pcnt_pcp	0.000580
+39105	Ohio	Meigs	pcnt_pcp	0.000126
+39107	Ohio	Mercer	pcnt_pcp	0.000466
+39109	Ohio	Miami	pcnt_pcp	0.000468
+39111	Ohio	Monroe	pcnt_pcp	0.000137
+39113	Ohio	Montgomery	pcnt_pcp	0.000918
+39115	Ohio	Morgan	pcnt_pcp	0.000066
+39117	Ohio	Morrow	pcnt_pcp	0.000172
+39119	Ohio	Muskingum	pcnt_pcp	0.000639
+39121	Ohio	Noble	pcnt_pcp	0.000204
+39123	Ohio	Ottawa	pcnt_pcp	0.000628
+39125	Ohio	Paulding	pcnt_pcp	0.000357
+39127	Ohio	Perry	pcnt_pcp	0.000249
+39129	Ohio	Pickaway	pcnt_pcp	0.000430
+39131	Ohio	Pike	pcnt_pcp	0.000348
+39133	Ohio	Portage	pcnt_pcp	0.000390
+39135	Ohio	Preble	pcnt_pcp	0.000308
+39137	Ohio	Putnam	pcnt_pcp	0.000436
+39139	Ohio	Richland	pcnt_pcp	0.000491
+39141	Ohio	Ross	pcnt_pcp	0.000768
+39143	Ohio	Sandusky	pcnt_pcp	0.000443
+39145	Ohio	Scioto	pcnt_pcp	0.000528
+39147	Ohio	Seneca	pcnt_pcp	0.000353
+39149	Ohio	Shelby	pcnt_pcp	0.000486
+39151	Ohio	Stark	pcnt_pcp	0.000754
+39153	Ohio	Summit	pcnt_pcp	0.000922
+39155	Ohio	Trumbull	pcnt_pcp	0.000557
+39157	Ohio	Tuscarawas	pcnt_pcp	0.000476
+39159	Ohio	Union	pcnt_pcp	0.000363
+39161	Ohio	Van Wert	pcnt_pcp	0.000488
+39163	Ohio	Vinton	pcnt_pcp	0.000149
+39165	Ohio	Warren	pcnt_pcp	0.000812
+39167	Ohio	Washington	pcnt_pcp	0.000729
+39169	Ohio	Wayne	pcnt_pcp	0.000533
+39171	Ohio	Williams	pcnt_pcp	0.000533
+39173	Ohio	Wood	pcnt_pcp	0.000654
+39175	Ohio	Wyandot	pcnt_pcp	0.000265
+40001	Oklahoma	Adair	pcnt_pcp	0.000484
+40003	Oklahoma	Alfalfa	pcnt_pcp	#VALUE!
+40005	Oklahoma	Atoka	pcnt_pcp	0.000070
+40007	Oklahoma	Beaver	pcnt_pcp	0.000531
+40009	Oklahoma	Beckham	pcnt_pcp	0.000590
+40011	Oklahoma	Blaine	pcnt_pcp	0.000505
+40013	Oklahoma	Bryan	pcnt_pcp	0.000446
+40015	Oklahoma	Caddo	pcnt_pcp	0.000270
+40017	Oklahoma	Canadian	pcnt_pcp	0.000387
+40019	Oklahoma	Carter	pcnt_pcp	0.000483
+40021	Oklahoma	Cherokee	pcnt_pcp	0.000615
+40023	Oklahoma	Choctaw	pcnt_pcp	0.000394
+40025	Oklahoma	Cimarron	pcnt_pcp	0.000405
+40027	Oklahoma	Cleveland	pcnt_pcp	0.000506
+40029	Oklahoma	Coal	pcnt_pcp	0.000169
+40031	Oklahoma	Comanche	pcnt_pcp	0.000686
+40033	Oklahoma	Cotton	pcnt_pcp	0.000161
+40035	Oklahoma	Craig	pcnt_pcp	0.000465
+40037	Oklahoma	Creek	pcnt_pcp	0.000414
+40039	Oklahoma	Custer	pcnt_pcp	0.000582
+40041	Oklahoma	Delaware	pcnt_pcp	0.000481
+40043	Oklahoma	Dewey	pcnt_pcp	0.000414
+40045	Oklahoma	Ellis	pcnt_pcp	0.001205
+40047	Oklahoma	Garfield	pcnt_pcp	0.000593
+40049	Oklahoma	Garvin	pcnt_pcp	0.000472
+40051	Oklahoma	Grady	pcnt_pcp	0.000457
+40053	Oklahoma	Grant	pcnt_pcp	#VALUE!
+40055	Oklahoma	Greer	pcnt_pcp	0.000483
+40057	Oklahoma	Harmon	pcnt_pcp	0.000683
+40059	Oklahoma	Harper	pcnt_pcp	0.000271
+40061	Oklahoma	Haskell	pcnt_pcp	0.000392
+40063	Oklahoma	Hughes	pcnt_pcp	0.000285
+40065	Oklahoma	Jackson	pcnt_pcp	0.000642
+40067	Oklahoma	Jefferson	pcnt_pcp	0.000310
+40069	Oklahoma	Johnston	pcnt_pcp	0.000273
+40071	Oklahoma	Kay	pcnt_pcp	0.000474
+40073	Oklahoma	Kingfisher	pcnt_pcp	0.000332
+40075	Oklahoma	Kiowa	pcnt_pcp	0.000531
+40077	Oklahoma	Latimer	pcnt_pcp	0.000987
+40079	Oklahoma	Le Flore	pcnt_pcp	0.000277
+40081	Oklahoma	Lincoln	pcnt_pcp	0.000262
+40083	Oklahoma	Logan	pcnt_pcp	0.000071
+40085	Oklahoma	Love	pcnt_pcp	0.000318
+40087	Oklahoma	McClain	pcnt_pcp	0.000403
+40089	Oklahoma	McCurtain	pcnt_pcp	0.000483
+40091	Oklahoma	McIntosh	pcnt_pcp	0.000296
+40093	Oklahoma	Major	pcnt_pcp	0.000532
+40095	Oklahoma	Marshall	pcnt_pcp	0.000315
+40097	Oklahoma	Mayes	pcnt_pcp	0.000436
+40099	Oklahoma	Murray	pcnt_pcp	0.000222
+40101	Oklahoma	Muskogee	pcnt_pcp	0.000534
+40103	Oklahoma	Noble	pcnt_pcp	0.000346
+40105	Oklahoma	Nowata	pcnt_pcp	0.000095
+40107	Oklahoma	Okfuskee	pcnt_pcp	0.000164
+40109	Oklahoma	Oklahoma	pcnt_pcp	0.000806
+40111	Oklahoma	Okmulgee	pcnt_pcp	0.000424
+40113	Oklahoma	Osage	pcnt_pcp	0.000084
+40115	Oklahoma	Ottawa	pcnt_pcp	0.000440
+40117	Oklahoma	Pawnee	pcnt_pcp	0.000302
+40119	Oklahoma	Payne	pcnt_pcp	0.000684
+40121	Oklahoma	Pittsburg	pcnt_pcp	0.000524
+40123	Oklahoma	Pontotoc	pcnt_pcp	0.000639
+40125	Oklahoma	Pottawatomie	pcnt_pcp	0.000445
+40127	Oklahoma	Pushmataha	pcnt_pcp	0.000346
+40129	Oklahoma	Roger Mills	pcnt_pcp	0.000274
+40131	Oklahoma	Rogers	pcnt_pcp	0.000425
+40133	Oklahoma	Seminole	pcnt_pcp	0.000354
+40135	Oklahoma	Sequoyah	pcnt_pcp	0.000283
+40137	Oklahoma	Stephens	pcnt_pcp	0.000510
+40139	Oklahoma	Texas	pcnt_pcp	0.000480
+40141	Oklahoma	Tillman	pcnt_pcp	0.000500
+40143	Oklahoma	Tulsa	pcnt_pcp	0.001067
+40145	Oklahoma	Wagoner	pcnt_pcp	0.000286
+40147	Oklahoma	Washington	pcnt_pcp	0.000568
+40149	Oklahoma	Washita	pcnt_pcp	0.000172
+40151	Oklahoma	Woods	pcnt_pcp	0.000787
+40153	Oklahoma	Woodward	pcnt_pcp	0.000601
+41001	Oregon	Baker	pcnt_pcp	0.000684
+41003	Oregon	Benton	pcnt_pcp	0.001124
+41005	Oregon	Clackamas	pcnt_pcp	0.000839
+41007	Oregon	Clatsop	pcnt_pcp	0.000729
+41009	Oregon	Columbia	pcnt_pcp	0.000243
+41011	Oregon	Coos	pcnt_pcp	0.000857
+41013	Oregon	Crook	pcnt_pcp	0.000287
+41015	Oregon	Curry	pcnt_pcp	0.000627
+41017	Oregon	Deschutes	pcnt_pcp	0.000899
+41019	Oregon	Douglas	pcnt_pcp	0.000660
+41021	Oregon	Gilliam	pcnt_pcp	0.012834
+41023	Oregon	Grant	pcnt_pcp	0.001206
+41025	Oregon	Harney	pcnt_pcp	0.000675
+41027	Oregon	Hood River	pcnt_pcp	0.001828
+41029	Oregon	Jackson	pcnt_pcp	0.000915
+41031	Oregon	Jefferson	pcnt_pcp	0.000507
+41033	Oregon	Josephine	pcnt_pcp	0.000809
+41035	Oregon	Klamath	pcnt_pcp	0.000830
+41037	Oregon	Lake	pcnt_pcp	0.000508
+41039	Oregon	Lane	pcnt_pcp	0.000907
+41041	Oregon	Lincoln	pcnt_pcp	0.000565
+41043	Oregon	Linn	pcnt_pcp	0.000676
+41045	Oregon	Malheur	pcnt_pcp	0.000511
+41047	Oregon	Marion	pcnt_pcp	0.000715
+41049	Oregon	Morrow	pcnt_pcp	0.000178
+41051	Oregon	Multnomah	pcnt_pcp	0.001222
+41053	Oregon	Polk	pcnt_pcp	0.000556
+41055	Oregon	Sherman	pcnt_pcp	0.013552
+41057	Oregon	Tillamook	pcnt_pcp	0.000752
+41059	Oregon	Umatilla	pcnt_pcp	0.000539
+41061	Oregon	Union	pcnt_pcp	0.000777
+41063	Oregon	Wallowa	pcnt_pcp	0.001282
+41065	Oregon	Wasco	pcnt_pcp	0.000673
+41067	Oregon	Washington	pcnt_pcp	0.000884
+41069	Oregon	Wheeler	pcnt_pcp	0.016552
+41071	Oregon	Yamhill	pcnt_pcp	0.000725
+42001	Pennsylvania	Adams	pcnt_pcp	0.000572
+42003	Pennsylvania	Allegheny	pcnt_pcp	0.001024
+42005	Pennsylvania	Armstrong	pcnt_pcp	0.000523
+42007	Pennsylvania	Beaver	pcnt_pcp	0.000439
+42009	Pennsylvania	Bedford	pcnt_pcp	0.000342
+42011	Pennsylvania	Berks	pcnt_pcp	0.000633
+42013	Pennsylvania	Blair	pcnt_pcp	0.000874
+42015	Pennsylvania	Bradford	pcnt_pcp	0.000847
+42017	Pennsylvania	Bucks	pcnt_pcp	0.000887
+42019	Pennsylvania	Butler	pcnt_pcp	0.000516
+42021	Pennsylvania	Cambria	pcnt_pcp	0.000796
+42023	Pennsylvania	Cameron	pcnt_pcp	0.000591
+42025	Pennsylvania	Carbon	pcnt_pcp	0.000460
+42027	Pennsylvania	Centre	pcnt_pcp	0.000641
+42029	Pennsylvania	Chester	pcnt_pcp	0.000852
+42031	Pennsylvania	Clarion	pcnt_pcp	0.000451
+42033	Pennsylvania	Clearfield	pcnt_pcp	0.000625
+42035	Pennsylvania	Clinton	pcnt_pcp	0.000488
+42037	Pennsylvania	Columbia	pcnt_pcp	0.000755
+42039	Pennsylvania	Crawford	pcnt_pcp	0.000652
+42041	Pennsylvania	Cumberland	pcnt_pcp	0.000921
+42043	Pennsylvania	Dauphin	pcnt_pcp	0.000842
+42045	Pennsylvania	Delaware	pcnt_pcp	0.001144
+42047	Pennsylvania	Elk	pcnt_pcp	0.000471
+42049	Pennsylvania	Erie	pcnt_pcp	0.000769
+42051	Pennsylvania	Fayette	pcnt_pcp	0.000462
+42053	Pennsylvania	Forest	pcnt_pcp	#VALUE!
+42055	Pennsylvania	Franklin	pcnt_pcp	0.000608
+42057	Pennsylvania	Fulton	pcnt_pcp	0.000336
+42059	Pennsylvania	Greene	pcnt_pcp	0.000361
+42061	Pennsylvania	Huntingdon	pcnt_pcp	0.000478
+42063	Pennsylvania	Indiana	pcnt_pcp	0.000536
+42065	Pennsylvania	Jefferson	pcnt_pcp	0.000464
+42067	Pennsylvania	Juniata	pcnt_pcp	0.000325
+42069	Pennsylvania	Lackawanna	pcnt_pcp	0.000751
+42071	Pennsylvania	Lancaster	pcnt_pcp	0.000723
+42073	Pennsylvania	Lawrence	pcnt_pcp	0.000473
+42075	Pennsylvania	Lebanon	pcnt_pcp	0.000546
+42077	Pennsylvania	Lehigh	pcnt_pcp	0.000945
+42079	Pennsylvania	Luzerne	pcnt_pcp	0.000786
+42081	Pennsylvania	Lycoming	pcnt_pcp	0.000732
+42083	Pennsylvania	McKean	pcnt_pcp	0.000530
+42085	Pennsylvania	Mercer	pcnt_pcp	0.000729
+42087	Pennsylvania	Mifflin	pcnt_pcp	0.000450
+42089	Pennsylvania	Monroe	pcnt_pcp	0.000453
+42091	Pennsylvania	Montgomery	pcnt_pcp	0.001340
+42093	Pennsylvania	Montour	pcnt_pcp	0.004608
+42095	Pennsylvania	Northampton	pcnt_pcp	0.000873
+42097	Pennsylvania	Northumberland	pcnt_pcp	0.000371
+42099	Pennsylvania	Perry	pcnt_pcp	0.000326
+42101	Pennsylvania	Philadelphia	pcnt_pcp	0.000635
+42103	Pennsylvania	Pike	pcnt_pcp	0.000401
+42105	Pennsylvania	Potter	pcnt_pcp	0.000515
+42107	Pennsylvania	Schuylkill	pcnt_pcp	0.000607
+42109	Pennsylvania	Snyder	pcnt_pcp	0.000527
+42111	Pennsylvania	Somerset	pcnt_pcp	0.000451
+42113	Pennsylvania	Sullivan	pcnt_pcp	#VALUE!
+42115	Pennsylvania	Susquehanna	pcnt_pcp	0.000347
+42117	Pennsylvania	Tioga	pcnt_pcp	0.000500
+42119	Pennsylvania	Union	pcnt_pcp	0.000826
+42121	Pennsylvania	Venango	pcnt_pcp	0.000601
+42123	Pennsylvania	Warren	pcnt_pcp	0.000575
+42125	Pennsylvania	Washington	pcnt_pcp	0.000669
+42127	Pennsylvania	Wayne	pcnt_pcp	0.000436
+42129	Pennsylvania	Westmoreland	pcnt_pcp	0.000720
+42131	Pennsylvania	Wyoming	pcnt_pcp	0.000458
+42133	Pennsylvania	York	pcnt_pcp	0.000716
+44001	Rhode Island	Bristol	pcnt_pcp	0.001667
+44003	Rhode Island	Kent	pcnt_pcp	0.000723
+44005	Rhode Island	Newport	pcnt_pcp	0.000821
+44007	Rhode Island	Providence	pcnt_pcp	0.000878
+44009	Rhode Island	Washington	pcnt_pcp	0.000962
+45001	South Carolina	Abbeville	pcnt_pcp	0.000473
+45003	South Carolina	Aiken	pcnt_pcp	0.000343
+45005	South Carolina	Allendale	pcnt_pcp	0.000677
+45007	South Carolina	Anderson	pcnt_pcp	0.000593
+45009	South Carolina	Bamberg	pcnt_pcp	0.000376
+45011	South Carolina	Barnwell	pcnt_pcp	0.000265
+45013	South Carolina	Beaufort	pcnt_pcp	0.000644
+45015	South Carolina	Berkeley	pcnt_pcp	0.000291
+45017	South Carolina	Calhoun	pcnt_pcp	0.000132
+45019	South Carolina	Charleston	pcnt_pcp	0.001245
+45021	South Carolina	Cherokee	pcnt_pcp	0.000487
+45023	South Carolina	Chester	pcnt_pcp	0.000332
+45025	South Carolina	Chesterfield	pcnt_pcp	0.000321
+45027	South Carolina	Clarendon	pcnt_pcp	0.000487
+45029	South Carolina	Colleton	pcnt_pcp	0.000488
+45031	South Carolina	Darlington	pcnt_pcp	0.000539
+45033	South Carolina	Dillon	pcnt_pcp	0.000436
+45035	South Carolina	Dorchester	pcnt_pcp	0.000378
+45037	South Carolina	Edgefield	pcnt_pcp	0.000223
+45039	South Carolina	Fairfield	pcnt_pcp	0.000419
+45041	South Carolina	Florence	pcnt_pcp	0.000912
+45043	South Carolina	Georgetown	pcnt_pcp	0.000599
+45045	South Carolina	Greenville	pcnt_pcp	0.000931
+45047	South Carolina	Greenwood	pcnt_pcp	0.001105
+45049	South Carolina	Hampton	pcnt_pcp	0.000427
+45051	South Carolina	Horry	pcnt_pcp	0.000606
+45053	South Carolina	Jasper	pcnt_pcp	0.000281
+45055	South Carolina	Kershaw	pcnt_pcp	0.000550
+45057	South Carolina	Lancaster	pcnt_pcp	0.000429
+45059	South Carolina	Laurens	pcnt_pcp	0.000466
+45061	South Carolina	Lee	pcnt_pcp	0.000104
+45063	South Carolina	Lexington	pcnt_pcp	0.000581
+45065	South Carolina	McCormick	pcnt_pcp	0.000293
+45067	South Carolina	Marion	pcnt_pcp	0.000485
+45069	South Carolina	Marlboro	pcnt_pcp	0.000277
+45071	South Carolina	Newberry	pcnt_pcp	0.000665
+45073	South Carolina	Oconee	pcnt_pcp	0.000565
+45075	South Carolina	Orangeburg	pcnt_pcp	0.000466
+45077	South Carolina	Pickens	pcnt_pcp	0.000621
+45079	South Carolina	Richland	pcnt_pcp	0.000825
+45081	South Carolina	Saluda	pcnt_pcp	0.000100
+45083	South Carolina	Spartanburg	pcnt_pcp	0.000674
+45085	South Carolina	Sumter	pcnt_pcp	0.000493
+45087	South Carolina	Union	pcnt_pcp	0.000589
+45089	South Carolina	Williamsburg	pcnt_pcp	0.000146
+45091	South Carolina	York	pcnt_pcp	0.000485
+46003	South Dakota	Aurora	pcnt_pcp	#VALUE!
+46005	South Dakota	Beadle	pcnt_pcp	0.000632
+46007	South Dakota	Bennett	pcnt_pcp	0.000290
+46009	South Dakota	Bon Homme	pcnt_pcp	0.000850
+46011	South Dakota	Brookings	pcnt_pcp	0.000468
+46013	South Dakota	Brown	pcnt_pcp	0.000765
+46015	South Dakota	Brule	pcnt_pcp	0.001139
+46017	South Dakota	Buffalo	pcnt_pcp	0.000516
+46019	South Dakota	Butte	pcnt_pcp	0.000394
+46021	South Dakota	Campbell	pcnt_pcp	0.016293
+46023	South Dakota	Charles Mix	pcnt_pcp	0.000766
+46025	South Dakota	Clark	pcnt_pcp	#VALUE!
+46027	South Dakota	Clay	pcnt_pcp	0.000722
+46029	South Dakota	Codington	pcnt_pcp	0.000918
+46031	South Dakota	Corson	pcnt_pcp	#VALUE!
+46033	South Dakota	Custer	pcnt_pcp	0.000848
+46035	South Dakota	Davison	pcnt_pcp	0.000973
+46037	South Dakota	Day	pcnt_pcp	0.000350
+46039	South Dakota	Deuel	pcnt_pcp	0.000230
+46041	South Dakota	Dewey	pcnt_pcp	0.000750
+46043	South Dakota	Douglas	pcnt_pcp	0.000335
+46045	South Dakota	Edmunds	pcnt_pcp	#VALUE!
+46047	South Dakota	Fall River	pcnt_pcp	0.000562
+46049	South Dakota	Faulk	pcnt_pcp	0.000422
+46051	South Dakota	Grant	pcnt_pcp	0.000816
+46053	South Dakota	Gregory	pcnt_pcp	0.000937
+46055	South Dakota	Haakon	pcnt_pcp	0.000519
+46057	South Dakota	Hamlin	pcnt_pcp	0.000169
+46059	South Dakota	Hand	pcnt_pcp	0.000874
+46061	South Dakota	Hanson	pcnt_pcp	#VALUE!
+46063	South Dakota	Harding	pcnt_pcp	0.019246
+46065	South Dakota	Hughes	pcnt_pcp	0.000820
+46067	South Dakota	Hutchinson	pcnt_pcp	0.001089
+46069	South Dakota	Hyde	pcnt_pcp	0.016913
+46071	South Dakota	Jackson	pcnt_pcp	#VALUE!
+46073	South Dakota	Jerauld	pcnt_pcp	0.000958
+46075	South Dakota	Jones	pcnt_pcp	0.023645
+46077	South Dakota	Kingsbury	pcnt_pcp	0.000389
+46079	South Dakota	Lake	pcnt_pcp	0.000799
+46081	South Dakota	Lawrence	pcnt_pcp	0.001034
+46083	South Dakota	Lincoln	pcnt_pcp	0.001062
+46085	South Dakota	Lyman	pcnt_pcp	0.000266
+46087	South Dakota	McCook	pcnt_pcp	0.000178
+46089	South Dakota	McPherson	pcnt_pcp	0.000815
+46091	South Dakota	Marshall	pcnt_pcp	0.000429
+46093	South Dakota	Meade	pcnt_pcp	0.000590
+46095	South Dakota	Mellette	pcnt_pcp	#VALUE!
+46097	South Dakota	Miner	pcnt_pcp	#VALUE!
+46099	South Dakota	Minnehaha	pcnt_pcp	0.000972
+46101	South Dakota	Moody	pcnt_pcp	0.000308
+46103	South Dakota	Pennington	pcnt_pcp	0.000770
+46105	South Dakota	Perkins	pcnt_pcp	#VALUE!
+46107	South Dakota	Potter	pcnt_pcp	#VALUE!
+46109	South Dakota	Roberts	pcnt_pcp	0.000786
+46111	South Dakota	Sanborn	pcnt_pcp	#VALUE!
+46113	South Dakota	Shannon	pcnt_pcp	0.000439
+46115	South Dakota	Spink	pcnt_pcp	0.000468
+46117	South Dakota	Stanley	pcnt_pcp	0.000670
+46119	South Dakota	Sully	pcnt_pcp	0.017493
+46121	South Dakota	Todd	pcnt_pcp	0.000207
+46123	South Dakota	Tripp	pcnt_pcp	0.001064
+46125	South Dakota	Turner	pcnt_pcp	0.000479
+46127	South Dakota	Union	pcnt_pcp	0.000828
+46129	South Dakota	Walworth	pcnt_pcp	0.001100
+46135	South Dakota	Yankton	pcnt_pcp	0.000890
+46137	South Dakota	Ziebach	pcnt_pcp	#VALUE!
+47001	Tennessee	Anderson	pcnt_pcp	0.000679
+47003	Tennessee	Bedford	pcnt_pcp	0.000354
+47005	Tennessee	Benton	pcnt_pcp	0.000182
+47007	Tennessee	Bledsoe	pcnt_pcp	0.000233
+47009	Tennessee	Blount	pcnt_pcp	0.000593
+47011	Tennessee	Bradley	pcnt_pcp	0.000535
+47013	Tennessee	Campbell	pcnt_pcp	0.000615
+47015	Tennessee	Cannon	pcnt_pcp	0.000217
+47017	Tennessee	Carroll	pcnt_pcp	0.000526
+47019	Tennessee	Carter	pcnt_pcp	0.000314
+47021	Tennessee	Cheatham	pcnt_pcp	0.000358
+47023	Tennessee	Chester	pcnt_pcp	0.000175
+47025	Tennessee	Claiborne	pcnt_pcp	0.000372
+47027	Tennessee	Clay	pcnt_pcp	0.000127
+47029	Tennessee	Cocke	pcnt_pcp	0.000534
+47031	Tennessee	Coffee	pcnt_pcp	0.000758
+47033	Tennessee	Crockett	pcnt_pcp	0.000206
+47035	Tennessee	Cumberland	pcnt_pcp	0.000676
+47037	Tennessee	Davidson	pcnt_pcp	0.000923
+47039	Tennessee	Decatur	pcnt_pcp	0.000426
+47041	Tennessee	DeKalb	pcnt_pcp	0.000587
+47043	Tennessee	Dickson	pcnt_pcp	0.000442
+47045	Tennessee	Dyer	pcnt_pcp	0.000678
+47047	Tennessee	Fayette	pcnt_pcp	0.000182
+47049	Tennessee	Fentress	pcnt_pcp	0.000501
+47051	Tennessee	Franklin	pcnt_pcp	0.000684
+47053	Tennessee	Gibson	pcnt_pcp	0.000584
+47055	Tennessee	Giles	pcnt_pcp	0.000510
+47057	Tennessee	Grainger	pcnt_pcp	0.000132
+47059	Tennessee	Greene	pcnt_pcp	0.000654
+47061	Tennessee	Grundy	pcnt_pcp	0.000292
+47063	Tennessee	Hamblen	pcnt_pcp	0.000735
+47065	Tennessee	Hamilton	pcnt_pcp	0.000976
+47067	Tennessee	Hancock	pcnt_pcp	0.000146
+47069	Tennessee	Hardeman	pcnt_pcp	0.000294
+47071	Tennessee	Hardin	pcnt_pcp	0.000461
+47073	Tennessee	Hawkins	pcnt_pcp	0.000317
+47075	Tennessee	Haywood	pcnt_pcp	0.000426
+47077	Tennessee	Henderson	pcnt_pcp	0.000360
+47079	Tennessee	Henry	pcnt_pcp	0.000618
+47081	Tennessee	Hickman	pcnt_pcp	0.000162
+47083	Tennessee	Houston	pcnt_pcp	0.000355
+47085	Tennessee	Humphreys	pcnt_pcp	0.000323
+47087	Tennessee	Jackson	pcnt_pcp	0.000086
+47089	Tennessee	Jefferson	pcnt_pcp	0.000428
+47091	Tennessee	Johnson	pcnt_pcp	0.000438
+47093	Tennessee	Knox	pcnt_pcp	0.001151
+47095	Tennessee	Lake	pcnt_pcp	#VALUE!
+47097	Tennessee	Lauderdale	pcnt_pcp	0.000108
+47099	Tennessee	Lawrence	pcnt_pcp	0.000405
+47101	Tennessee	Lewis	pcnt_pcp	0.000247
+47103	Tennessee	Lincoln	pcnt_pcp	0.000688
+47105	Tennessee	Loudon	pcnt_pcp	0.000492
+47107	Tennessee	McMinn	pcnt_pcp	0.000440
+47109	Tennessee	McNairy	pcnt_pcp	0.000422
+47111	Tennessee	Macon	pcnt_pcp	0.000224
+47113	Tennessee	Madison	pcnt_pcp	0.001232
+47115	Tennessee	Marion	pcnt_pcp	0.000460
+47117	Tennessee	Marshall	pcnt_pcp	0.000261
+47119	Tennessee	Maury	pcnt_pcp	0.000653
+47121	Tennessee	Meigs	pcnt_pcp	0.000425
+47123	Tennessee	Monroe	pcnt_pcp	0.000336
+47125	Tennessee	Montgomery	pcnt_pcp	0.000415
+47127	Tennessee	Moore	pcnt_pcp	#VALUE!
+47129	Tennessee	Morgan	pcnt_pcp	0.000091
+47131	Tennessee	Obion	pcnt_pcp	0.000503
+47133	Tennessee	Overton	pcnt_pcp	0.000452
+47135	Tennessee	Perry	pcnt_pcp	0.000378
+47137	Tennessee	Pickett	pcnt_pcp	0.000197
+47139	Tennessee	Polk	pcnt_pcp	0.000594
+47141	Tennessee	Putnam	pcnt_pcp	0.000745
+47143	Tennessee	Rhea	pcnt_pcp	0.000440
+47145	Tennessee	Roane	pcnt_pcp	0.000351
+47147	Tennessee	Robertson	pcnt_pcp	0.000421
+47149	Tennessee	Rutherford	pcnt_pcp	0.000428
+47151	Tennessee	Scott	pcnt_pcp	0.000360
+47153	Tennessee	Sequatchie	pcnt_pcp	0.000354
+47155	Tennessee	Sevier	pcnt_pcp	0.000411
+47157	Tennessee	Shelby	pcnt_pcp	0.000785
+47159	Tennessee	Smith	pcnt_pcp	0.000575
+47161	Tennessee	Stewart	pcnt_pcp	0.000150
+47163	Tennessee	Sullivan	pcnt_pcp	0.001289
+47165	Tennessee	Sumner	pcnt_pcp	0.000539
+47167	Tennessee	Tipton	pcnt_pcp	0.000343
+47169	Tennessee	Trousdale	pcnt_pcp	0.000254
+47171	Tennessee	Unicoi	pcnt_pcp	0.000547
+47173	Tennessee	Union	pcnt_pcp	0.000210
+47175	Tennessee	Van Buren	pcnt_pcp	0.000180
+47177	Tennessee	Warren	pcnt_pcp	0.000552
+47179	Tennessee	Washington	pcnt_pcp	0.001616
+47181	Tennessee	Wayne	pcnt_pcp	0.000412
+47183	Tennessee	Weakley	pcnt_pcp	0.000571
+47185	Tennessee	White	pcnt_pcp	0.000309
+47187	Tennessee	Williamson	pcnt_pcp	0.001418
+47189	Tennessee	Wilson	pcnt_pcp	0.000384
+48001	Texas	Anderson	pcnt_pcp	0.000377
+48003	Texas	Andrews	pcnt_pcp	0.000539
+48005	Texas	Angelina	pcnt_pcp	0.000690
+48007	Texas	Aransas	pcnt_pcp	0.000475
+48009	Texas	Archer	pcnt_pcp	0.000110
+48011	Texas	Armstrong	pcnt_pcp	0.012625
+48013	Texas	Atascosa	pcnt_pcp	0.000244
+48015	Texas	Austin	pcnt_pcp	0.000176
+48017	Texas	Bailey	pcnt_pcp	0.000695
+48019	Texas	Bandera	pcnt_pcp	0.000243
+48021	Texas	Bastrop	pcnt_pcp	0.000309
+48023	Texas	Baylor	pcnt_pcp	0.001073
+48025	Texas	Bee	pcnt_pcp	0.000282
+48027	Texas	Bell	pcnt_pcp	0.000812
+48029	Texas	Bexar	pcnt_pcp	0.000662
+48031	Texas	Blanco	pcnt_pcp	0.000285
+48033	Texas	Borden	pcnt_pcp	0.037152
+48035	Texas	Bosque	pcnt_pcp	0.000548
+48037	Texas	Bowie	pcnt_pcp	0.000831
+48039	Texas	Brazoria	pcnt_pcp	0.000633
+48041	Texas	Brazos	pcnt_pcp	0.000767
+48043	Texas	Brewster	pcnt_pcp	0.000431
+48045	Texas	Briscoe	pcnt_pcp	0.000613
+48047	Texas	Brooks	pcnt_pcp	#VALUE!
+48049	Texas	Brown	pcnt_pcp	0.000577
+48051	Texas	Burleson	pcnt_pcp	0.000291
+48053	Texas	Burnet	pcnt_pcp	0.000444
+48055	Texas	Caldwell	pcnt_pcp	0.000367
+48057	Texas	Calhoun	pcnt_pcp	0.000515
+48059	Texas	Callahan	pcnt_pcp	0.000222
+48061	Texas	Cameron	pcnt_pcp	0.000451
+48063	Texas	Camp	pcnt_pcp	0.000564
+48065	Texas	Carson	pcnt_pcp	#VALUE!
+48067	Texas	Cass	pcnt_pcp	0.000328
+48069	Texas	Castro	pcnt_pcp	0.000369
+48071	Texas	Chambers	pcnt_pcp	0.000113
+48073	Texas	Cherokee	pcnt_pcp	0.000275
+48075	Texas	Childress	pcnt_pcp	0.001276
+48077	Texas	Clay	pcnt_pcp	0.000279
+48079	Texas	Cochran	pcnt_pcp	0.000318
+48081	Texas	Coke	pcnt_pcp	#VALUE!
+48083	Texas	Coleman	pcnt_pcp	0.000562
+48085	Texas	Collin	pcnt_pcp	0.000810
+48087	Texas	Collingsworth	pcnt_pcp	0.000654
+48089	Texas	Colorado	pcnt_pcp	0.000766
+48091	Texas	Comal	pcnt_pcp	0.000631
+48093	Texas	Comanche	pcnt_pcp	0.000501
+48095	Texas	Concho	pcnt_pcp	#VALUE!
+48097	Texas	Cooke	pcnt_pcp	0.000312
+48099	Texas	Coryell	pcnt_pcp	0.000132
+48101	Texas	Cottle	pcnt_pcp	0.015979
+48103	Texas	Crane	pcnt_pcp	0.000228
+48105	Texas	Crockett	pcnt_pcp	0.000269
+48107	Texas	Crosby	pcnt_pcp	0.000330
+48109	Texas	Culberson	pcnt_pcp	0.000417
+48111	Texas	Dallam	pcnt_pcp	0.000741
+48113	Texas	Dallas	pcnt_pcp	0.000631
+48115	Texas	Dawson	pcnt_pcp	0.000289
+48117	Texas	Deaf Smith	pcnt_pcp	0.000257
+48119	Texas	Delta	pcnt_pcp	#VALUE!
+48121	Texas	Denton	pcnt_pcp	0.000549
+48123	Texas	DeWitt	pcnt_pcp	0.000398
+48125	Texas	Dickens	pcnt_pcp	#VALUE!
+48127	Texas	Dimmit	pcnt_pcp	0.000498
+48129	Texas	Donley	pcnt_pcp	0.000272
+48131	Texas	Duval	pcnt_pcp	#VALUE!
+48133	Texas	Eastland	pcnt_pcp	0.000269
+48135	Texas	Ector	pcnt_pcp	0.000598
+48137	Texas	Edwards	pcnt_pcp	0.000502
+48139	Texas	Ellis	pcnt_pcp	0.000406
+48141	Texas	El Paso	pcnt_pcp	0.000433
+48143	Texas	Erath	pcnt_pcp	0.000606
+48145	Texas	Falls	pcnt_pcp	0.000168
+48147	Texas	Fannin	pcnt_pcp	0.000206
+48149	Texas	Fayette	pcnt_pcp	0.000367
+48151	Texas	Fisher	pcnt_pcp	0.000253
+48153	Texas	Floyd	pcnt_pcp	0.000623
+48155	Texas	Foard	pcnt_pcp	0.017924
+48157	Texas	Fort Bend	pcnt_pcp	0.000657
+48159	Texas	Franklin	pcnt_pcp	0.000377
+48161	Texas	Freestone	pcnt_pcp	0.000303
+48163	Texas	Frio	pcnt_pcp	0.000349
+48165	Texas	Gaines	pcnt_pcp	0.000170
+48167	Texas	Galveston	pcnt_pcp	0.000653
+48169	Texas	Garza	pcnt_pcp	0.000155
+48171	Texas	Gillespie	pcnt_pcp	0.001285
+48173	Texas	Glasscock	pcnt_pcp	0.019528
+48175	Texas	Goliad	pcnt_pcp	#VALUE!
+48177	Texas	Gonzales	pcnt_pcp	0.000454
+48179	Texas	Gray	pcnt_pcp	0.000490
+48181	Texas	Grayson	pcnt_pcp	0.000479
+48183	Texas	Gregg	pcnt_pcp	0.000772
+48185	Texas	Grimes	pcnt_pcp	0.000263
+48187	Texas	Guadalupe	pcnt_pcp	0.000325
+48189	Texas	Hale	pcnt_pcp	0.000385
+48191	Texas	Hall	pcnt_pcp	0.000594
+48193	Texas	Hamilton	pcnt_pcp	0.000823
+48195	Texas	Hansford	pcnt_pcp	0.000357
+48197	Texas	Hardeman	pcnt_pcp	0.000962
+48199	Texas	Hardin	pcnt_pcp	0.000274
+48201	Texas	Harris	pcnt_pcp	0.000554
+48203	Texas	Harrison	pcnt_pcp	0.000289
+48205	Texas	Hartley	pcnt_pcp	#VALUE!
+48207	Texas	Haskell	pcnt_pcp	0.000339
+48209	Texas	Hays	pcnt_pcp	0.000442
+48211	Texas	Hemphill	pcnt_pcp	0.000789
+48213	Texas	Henderson	pcnt_pcp	0.000407
+48215	Texas	Hidalgo	pcnt_pcp	0.000447
+48217	Texas	Hill	pcnt_pcp	0.000427
+48219	Texas	Hockley	pcnt_pcp	0.000394
+48221	Texas	Hood	pcnt_pcp	0.000506
+48223	Texas	Hopkins	pcnt_pcp	0.000397
+48225	Texas	Houston	pcnt_pcp	0.000253
+48227	Texas	Howard	pcnt_pcp	0.000343
+48229	Texas	Hudspeth	pcnt_pcp	#VALUE!
+48231	Texas	Hunt	pcnt_pcp	0.000371
+48233	Texas	Hutchinson	pcnt_pcp	0.000362
+48235	Texas	Irion	pcnt_pcp	0.000622
+48237	Texas	Jack	pcnt_pcp	0.000332
+48239	Texas	Jackson	pcnt_pcp	0.000142
+48241	Texas	Jasper	pcnt_pcp	0.000447
+48243	Texas	Jeff Davis	pcnt_pcp	0.000426
+48245	Texas	Jefferson	pcnt_pcp	0.000638
+48247	Texas	Jim Hogg	pcnt_pcp	0.000189
+48249	Texas	Jim Wells	pcnt_pcp	0.000391
+48251	Texas	Johnson	pcnt_pcp	0.000430
+48253	Texas	Jones	pcnt_pcp	0.000445
+48255	Texas	Karnes	pcnt_pcp	0.000337
+48257	Texas	Kaufman	pcnt_pcp	0.000308
+48259	Texas	Kendall	pcnt_pcp	0.001129
+48261	Texas	Kenedy	pcnt_pcp	0.057279
+48263	Texas	Kent	pcnt_pcp	0.029520
+48265	Texas	Kerr	pcnt_pcp	0.000866
+48267	Texas	Kimble	pcnt_pcp	0.000435
+48269	Texas	King	pcnt_pcp	0.083624
+48271	Texas	Kinney	pcnt_pcp	#VALUE!
+48273	Texas	Kleberg	pcnt_pcp	0.000436
+48275	Texas	Knox	pcnt_pcp	0.000268
+48277	Texas	Lamar	pcnt_pcp	0.000541
+48279	Texas	Lamb	pcnt_pcp	0.000214
+48281	Texas	Lampasas	pcnt_pcp	0.000456
+48283	Texas	La Salle	pcnt_pcp	#VALUE!
+48285	Texas	Lavaca	pcnt_pcp	0.000519
+48287	Texas	Lee	pcnt_pcp	0.000241
+48289	Texas	Leon	pcnt_pcp	0.000179
+48291	Texas	Liberty	pcnt_pcp	0.000277
+48293	Texas	Limestone	pcnt_pcp	0.000469
+48295	Texas	Lipscomb	pcnt_pcp	#VALUE!
+48297	Texas	Live Oak	pcnt_pcp	#VALUE!
+48299	Texas	Llano	pcnt_pcp	0.000828
+48301	Texas	Loving	pcnt_pcp	0.289157
+48303	Texas	Lubbock	pcnt_pcp	0.000721
+48305	Texas	Lynn	pcnt_pcp	0.000509
+48307	Texas	McCulloch	pcnt_pcp	0.000485
+48309	Texas	McLennan	pcnt_pcp	0.000644
+48311	Texas	McMullen	pcnt_pcp	0.033755
+48313	Texas	Madison	pcnt_pcp	0.000146
+48315	Texas	Marion	pcnt_pcp	0.000095
+48317	Texas	Martin	pcnt_pcp	0.000207
+48319	Texas	Mason	pcnt_pcp	#VALUE!
+48321	Texas	Matagorda	pcnt_pcp	0.000326
+48323	Texas	Maverick	pcnt_pcp	0.000293
+48325	Texas	Medina	pcnt_pcp	0.000282
+48327	Texas	Menard	pcnt_pcp	0.000891
+48329	Texas	Midland	pcnt_pcp	0.000453
+48331	Texas	Milam	pcnt_pcp	0.000364
+48333	Texas	Mills	pcnt_pcp	0.000404
+48335	Texas	Mitchell	pcnt_pcp	0.000213
+48337	Texas	Montague	pcnt_pcp	0.000356
+48339	Texas	Montgomery	pcnt_pcp	0.000610
+48341	Texas	Moore	pcnt_pcp	0.000364
+48343	Texas	Morris	pcnt_pcp	0.000155
+48345	Texas	Motley	pcnt_pcp	0.019802
+48347	Texas	Nacogdoches	pcnt_pcp	0.000681
+48349	Texas	Navarro	pcnt_pcp	0.000398
+48351	Texas	Newton	pcnt_pcp	0.000139
+48353	Texas	Nolan	pcnt_pcp	0.000459
+48355	Texas	Nueces	pcnt_pcp	0.000705
+48357	Texas	Ochiltree	pcnt_pcp	0.000392
+48359	Texas	Oldham	pcnt_pcp	#VALUE!
+48361	Texas	Orange	pcnt_pcp	0.000293
+48363	Texas	Palo Pinto	pcnt_pcp	0.000463
+48365	Texas	Panola	pcnt_pcp	0.000336
+48367	Texas	Parker	pcnt_pcp	0.000435
+48369	Texas	Parmer	pcnt_pcp	0.000388
+48371	Texas	Pecos	pcnt_pcp	0.000322
+48373	Texas	Polk	pcnt_pcp	0.000462
+48375	Texas	Potter	pcnt_pcp	0.000782
+48377	Texas	Presidio	pcnt_pcp	0.000127
+48379	Texas	Rains	pcnt_pcp	0.000183
+48381	Texas	Randall	pcnt_pcp	0.000578
+48383	Texas	Reagan	pcnt_pcp	0.000299
+48385	Texas	Real	pcnt_pcp	#VALUE!
+48387	Texas	Red River	pcnt_pcp	0.000155
+48389	Texas	Reeves	pcnt_pcp	0.000145
+48391	Texas	Refugio	pcnt_pcp	0.000136
+48393	Texas	Roberts	pcnt_pcp	0.025974
+48395	Texas	Robertson	pcnt_pcp	0.000060
+48397	Texas	Rockwall	pcnt_pcp	0.000658
+48399	Texas	Runnels	pcnt_pcp	0.000665
+48401	Texas	Rusk	pcnt_pcp	0.000243
+48403	Texas	Sabine	pcnt_pcp	0.000184
+48405	Texas	San Augustine	pcnt_pcp	0.000226
+48407	Texas	San Jacinto	pcnt_pcp	0.000076
+48409	Texas	San Patricio	pcnt_pcp	0.000325
+48411	Texas	San Saba	pcnt_pcp	0.000489
+48413	Texas	Schleicher	pcnt_pcp	0.000571
+48415	Texas	Scurry	pcnt_pcp	0.000472
+48417	Texas	Shackelford	pcnt_pcp	#VALUE!
+48419	Texas	Shelby	pcnt_pcp	0.000236
+48421	Texas	Sherman	pcnt_pcp	#VALUE!
+48423	Texas	Smith	pcnt_pcp	0.000989
+48425	Texas	Somervell	pcnt_pcp	0.000588
+48427	Texas	Starr	pcnt_pcp	0.000229
+48429	Texas	Stephens	pcnt_pcp	0.000313
+48431	Texas	Sterling	pcnt_pcp	0.021053
+48433	Texas	Stonewall	pcnt_pcp	0.000666
+48435	Texas	Sutton	pcnt_pcp	0.000736
+48437	Texas	Swisher	pcnt_pcp	0.000380
+48439	Texas	Tarrant	pcnt_pcp	0.000575
+48441	Texas	Taylor	pcnt_pcp	0.000645
+48443	Texas	Terrell	pcnt_pcp	0.000995
+48445	Texas	Terry	pcnt_pcp	0.000473
+48447	Texas	Throckmorton	pcnt_pcp	0.000613
+48449	Texas	Titus	pcnt_pcp	0.000555
+48451	Texas	Tom Green	pcnt_pcp	0.000642
+48453	Texas	Travis	pcnt_pcp	0.000787
+48455	Texas	Trinity	pcnt_pcp	0.000205
+48457	Texas	Tyler	pcnt_pcp	0.000230
+48459	Texas	Upshur	pcnt_pcp	0.000254
+48461	Texas	Upton	pcnt_pcp	0.000297
+48463	Texas	Uvalde	pcnt_pcp	0.000529
+48465	Texas	Val Verde	pcnt_pcp	0.000286
+48467	Texas	Van Zandt	pcnt_pcp	0.000133
+48469	Texas	Victoria	pcnt_pcp	0.000703
+48471	Texas	Walker	pcnt_pcp	0.000323
+48473	Texas	Waller	pcnt_pcp	0.000138
+48475	Texas	Ward	pcnt_pcp	0.000377
+48477	Texas	Washington	pcnt_pcp	0.000563
+48479	Texas	Webb	pcnt_pcp	0.000310
+48481	Texas	Wharton	pcnt_pcp	0.000435
+48483	Texas	Wheeler	pcnt_pcp	0.000740
+48485	Texas	Wichita	pcnt_pcp	0.000707
+48487	Texas	Wilbarger	pcnt_pcp	0.000666
+48489	Texas	Willacy	pcnt_pcp	0.000316
+48491	Texas	Williamson	pcnt_pcp	0.000595
+48493	Texas	Wilson	pcnt_pcp	0.000255
+48495	Texas	Winkler	pcnt_pcp	0.000423
+48497	Texas	Wise	pcnt_pcp	0.000406
+48499	Texas	Wood	pcnt_pcp	0.000619
+48501	Texas	Yoakum	pcnt_pcp	0.000509
+48503	Texas	Young	pcnt_pcp	0.000593
+48505	Texas	Zapata	pcnt_pcp	0.000071
+48507	Texas	Zavala	pcnt_pcp	0.000256
+49001	Utah	Beaver	pcnt_pcp	0.000903
+49003	Utah	Box Elder	pcnt_pcp	0.000339
+49005	Utah	Cache	pcnt_pcp	0.000441
+49007	Utah	Carbon	pcnt_pcp	0.000513
+49009	Utah	Daggett	pcnt_pcp	0.022514
+49011	Utah	Davis	pcnt_pcp	0.000468
+49013	Utah	Duchesne	pcnt_pcp	0.000376
+49015	Utah	Emery	pcnt_pcp	0.000091
+49017	Utah	Garfield	pcnt_pcp	0.000386
+49019	Utah	Grand	pcnt_pcp	0.001183
+49021	Utah	Iron	pcnt_pcp	0.000432
+49023	Utah	Juab	pcnt_pcp	0.000682
+49025	Utah	Kane	pcnt_pcp	0.000280
+49027	Utah	Millard	pcnt_pcp	0.000478
+49029	Utah	Morgan	pcnt_pcp	0.000735
+49031	Utah	Piute	pcnt_pcp	0.015365
+49033	Utah	Rich	pcnt_pcp	#VALUE!
+49035	Utah	Salt Lake	pcnt_pcp	0.000717
+49037	Utah	San Juan	pcnt_pcp	0.000472
+49039	Utah	Sanpete	pcnt_pcp	0.000646
+49041	Utah	Sevier	pcnt_pcp	0.000528
+49043	Utah	Summit	pcnt_pcp	0.001041
+49045	Utah	Tooele	pcnt_pcp	0.000273
+49047	Utah	Uintah	pcnt_pcp	0.000401
+49049	Utah	Utah	pcnt_pcp	0.000441
+49051	Utah	Wasatch	pcnt_pcp	0.000506
+49053	Utah	Washington	pcnt_pcp	0.000513
+49055	Utah	Wayne	pcnt_pcp	#VALUE!
+49057	Utah	Weber	pcnt_pcp	0.000426
+50001	Vermont	Addison	pcnt_pcp	0.001060
+50003	Vermont	Bennington	pcnt_pcp	0.001025
+50005	Vermont	Caledonia	pcnt_pcp	0.000769
+50007	Vermont	Chittenden	pcnt_pcp	0.001634
+50009	Vermont	Essex	pcnt_pcp	0.000476
+50011	Vermont	Franklin	pcnt_pcp	0.000503
+50013	Vermont	Grand Isle	pcnt_pcp	0.000287
+50015	Vermont	Lamoille	pcnt_pcp	0.000898
+50017	Vermont	Orange	pcnt_pcp	0.000691
+50019	Vermont	Orleans	pcnt_pcp	0.000698
+50021	Vermont	Rutland	pcnt_pcp	0.000829
+50023	Vermont	Washington	pcnt_pcp	0.001041
+50025	Vermont	Windham	pcnt_pcp	0.001238
+50027	Vermont	Windsor	pcnt_pcp	0.001007
+51001	Virginia	Accomack	pcnt_pcp	0.000421
+51003	Virginia	Albemarle	pcnt_pcp	0.001362
+51005	Virginia	Alleghany	pcnt_pcp	0.000987
+51007	Virginia	Amelia	pcnt_pcp	0.000078
+51009	Virginia	Amherst	pcnt_pcp	0.000185
+51011	Virginia	Appomattox	pcnt_pcp	0.000200
+51013	Virginia	Arlington	pcnt_pcp	0.000707
+51015	Virginia	Augusta	pcnt_pcp	0.000448
+51017	Virginia	Bath	pcnt_pcp	0.000423
+51019	Virginia	Bedford	pcnt_pcp	0.000669
+51021	Virginia	Bland	pcnt_pcp	#VALUE!
+51023	Virginia	Botetourt	pcnt_pcp	0.000543
+51025	Virginia	Brunswick	pcnt_pcp	0.000287
+51027	Virginia	Buchanan	pcnt_pcp	0.000375
+51029	Virginia	Buckingham	pcnt_pcp	0.000234
+51031	Virginia	Campbell	pcnt_pcp	0.000219
+51033	Virginia	Caroline	pcnt_pcp	0.000140
+51035	Virginia	Carroll	pcnt_pcp	0.000266
+51036	Virginia	Charles City	pcnt_pcp	0.000275
+51037	Virginia	Charlotte	pcnt_pcp	0.000238
+51041	Virginia	Chesterfield	pcnt_pcp	0.000861
+51043	Virginia	Clarke	pcnt_pcp	0.000569
+51045	Virginia	Craig	pcnt_pcp	0.000193
+51047	Virginia	Culpeper	pcnt_pcp	0.000342
+51049	Virginia	Cumberland	pcnt_pcp	0.000100
+51051	Virginia	Dickenson	pcnt_pcp	0.000252
+51053	Virginia	Dinwiddie	pcnt_pcp	0.000071
+51057	Virginia	Essex	pcnt_pcp	0.000447
+51059	Virginia	Fairfax	pcnt_pcp	0.000939
+51061	Virginia	Fauquier	pcnt_pcp	0.000489
+51063	Virginia	Floyd	pcnt_pcp	0.000196
+51065	Virginia	Fluvanna	pcnt_pcp	0.000388
+51067	Virginia	Franklin	pcnt_pcp	0.000463
+51069	Virginia	Frederick	pcnt_pcp	0.000357
+51071	Virginia	Giles	pcnt_pcp	0.000694
+51073	Virginia	Gloucester	pcnt_pcp	0.000623
+51075	Virginia	Goochland	pcnt_pcp	0.000689
+51077	Virginia	Grayson	pcnt_pcp	0.000517
+51079	Virginia	Greene	pcnt_pcp	0.000217
+51081	Virginia	Greensville	pcnt_pcp	0.000654
+51083	Virginia	Halifax	pcnt_pcp	0.000552
+51085	Virginia	Hanover	pcnt_pcp	0.000700
+51087	Virginia	Henrico	pcnt_pcp	0.001139
+51089	Virginia	Henry	pcnt_pcp	0.000074
+51091	Virginia	Highland	pcnt_pcp	0.000866
+51093	Virginia	Isle of Wight	pcnt_pcp	0.000510
+51095	Virginia	James City	pcnt_pcp	0.001294
+51097	Virginia	King and Queen	pcnt_pcp	0.000430
+51099	Virginia	King George	pcnt_pcp	0.000127
+51101	Virginia	King William	pcnt_pcp	0.000501
+51103	Virginia	Lancaster	pcnt_pcp	0.001669
+51105	Virginia	Lee	pcnt_pcp	0.000392
+51107	Virginia	Loudoun	pcnt_pcp	0.000682
+51109	Virginia	Louisa	pcnt_pcp	0.000180
+51111	Virginia	Lunenburg	pcnt_pcp	0.000232
+51113	Virginia	Madison	pcnt_pcp	0.000602
+51115	Virginia	Mathews	pcnt_pcp	0.000223
+51117	Virginia	Mecklenburg	pcnt_pcp	0.000734
+51119	Virginia	Middlesex	pcnt_pcp	0.000547
+51121	Virginia	Montgomery	pcnt_pcp	0.000635
+51125	Virginia	Nelson	pcnt_pcp	0.000666
+51127	Virginia	New Kent	pcnt_pcp	0.000269
+51131	Virginia	Northampton	pcnt_pcp	0.001211
+51133	Virginia	Northumberland	pcnt_pcp	0.000405
+51135	Virginia	Nottoway	pcnt_pcp	0.000631
+51137	Virginia	Orange	pcnt_pcp	0.000656
+51139	Virginia	Page	pcnt_pcp	0.000499
+51141	Virginia	Patrick	pcnt_pcp	0.000325
+51143	Virginia	Pittsylvania	pcnt_pcp	0.000063
+51145	Virginia	Powhatan	pcnt_pcp	0.000641
+51147	Virginia	Prince Edward	pcnt_pcp	0.000513
+51149	Virginia	Prince George	pcnt_pcp	0.000168
+51153	Virginia	Prince William	pcnt_pcp	0.000423
+51155	Virginia	Pulaski	pcnt_pcp	0.000575
+51157	Virginia	Rappahannock	pcnt_pcp	0.000532
+51159	Virginia	Richmond	pcnt_pcp	#VALUE!
+51161	Virginia	Roanoke	pcnt_pcp	0.001192
+51163	Virginia	Rockbridge	pcnt_pcp	0.000090
+51165	Virginia	Rockingham	pcnt_pcp	0.000249
+51167	Virginia	Russell	pcnt_pcp	0.000416
+51169	Virginia	Scott	pcnt_pcp	0.000259
+51171	Virginia	Shenandoah	pcnt_pcp	0.000523
+51173	Virginia	Smyth	pcnt_pcp	0.000652
+51175	Virginia	Southampton	pcnt_pcp	0.000162
+51177	Virginia	Spotsylvania	pcnt_pcp	0.000570
+51179	Virginia	Stafford	pcnt_pcp	0.000370
+51181	Virginia	Surry	pcnt_pcp	0.000142
+51183	Virginia	Sussex	pcnt_pcp	0.000249
+51185	Virginia	Tazewell	pcnt_pcp	0.000933
+51187	Virginia	Warren	pcnt_pcp	0.000479
+51191	Virginia	Washington	pcnt_pcp	0.000674
+51193	Virginia	Westmoreland	pcnt_pcp	0.000115
+51195	Virginia	Wise	pcnt_pcp	0.000506
+51197	Virginia	Wythe	pcnt_pcp	0.000651
+51199	Virginia	York	pcnt_pcp	0.001055
+51510	Virginia	Alexandria City	pcnt_pcp	0.000752
+51515	Virginia	Bedford City	pcnt_pcp	#VALUE!
+51520	Virginia	Bristol City	pcnt_pcp	0.000281
+51530	Virginia	Buena Vista City	pcnt_pcp	0.000151
+51540	Virginia	Charlottesville City	pcnt_pcp	0.002551
+51550	Virginia	Chesapeake City	pcnt_pcp	0.000776
+51570	Virginia	Colonial Heights City	pcnt_pcp	0.001613
+51580	Virginia	Covington City	pcnt_pcp	0.000669
+51590	Virginia	Danville City	pcnt_pcp	0.000887
+51595	Virginia	Emporia City	pcnt_pcp	#VALUE!
+51600	Virginia	Fairfax City	pcnt_pcp	0.002347
+51610	Virginia	Falls Church City	pcnt_pcp	0.003125
+51620	Virginia	Franklin City	pcnt_pcp	0.001855
+51630	Virginia	Fredericksburg City	pcnt_pcp	0.001597
+51640	Virginia	Galax City	pcnt_pcp	0.003676
+51650	Virginia	Hampton City	pcnt_pcp	0.000422
+51660	Virginia	Harrisonburg City	pcnt_pcp	0.001285
+51670	Virginia	Hopewell City	pcnt_pcp	0.000574
+51678	Virginia	Lexington City	pcnt_pcp	0.003115
+51680	Virginia	Lynchburg City	pcnt_pcp	0.001282
+51683	Virginia	Manassas City	pcnt_pcp	0.001256
+51685	Virginia	Manassas Park City	pcnt_pcp	#VALUE!
+51690	Virginia	Martinsville City	pcnt_pcp	0.002331
+51700	Virginia	Newport News City	pcnt_pcp	0.000592
+51710	Virginia	Norfolk City	pcnt_pcp	0.000845
+51720	Virginia	Norton City	pcnt_pcp	0.004274
+51730	Virginia	Petersburg City	pcnt_pcp	0.000676
+51735	Virginia	Poquoson City	pcnt_pcp	0.000494
+51740	Virginia	Portsmouth City	pcnt_pcp	0.000533
+51750	Virginia	Radford City	pcnt_pcp	0.000973
+51760	Virginia	Richmond City	pcnt_pcp	0.000765
+51770	Virginia	Roanoke City	pcnt_pcp	0.000775
+51775	Virginia	Salem City	pcnt_pcp	0.001449
+51790	Virginia	Staunton City	pcnt_pcp	0.000673
+51800	Virginia	Suffolk City	pcnt_pcp	0.000978
+51810	Virginia	Virginia Beach City	pcnt_pcp	0.000770
+51820	Virginia	Waynesboro City	pcnt_pcp	0.000903
+51830	Virginia	Williamsburg City	pcnt_pcp	#VALUE!
+51840	Virginia	Winchester City	pcnt_pcp	0.002632
+53001	Washington	Adams	pcnt_pcp	0.000532
+53003	Washington	Asotin	pcnt_pcp	0.000922
+53005	Washington	Benton	pcnt_pcp	0.000760
+53007	Washington	Chelan	pcnt_pcp	0.001170
+53009	Washington	Clallam	pcnt_pcp	0.000965
+53011	Washington	Clark	pcnt_pcp	0.000658
+53013	Washington	Columbia	pcnt_pcp	0.000486
+53015	Washington	Cowlitz	pcnt_pcp	0.000635
+53017	Washington	Douglas	pcnt_pcp	0.000415
+53019	Washington	Ferry	pcnt_pcp	0.000397
+53021	Washington	Franklin	pcnt_pcp	0.000341
+53023	Washington	Garfield	pcnt_pcp	0.000440
+53025	Washington	Grant	pcnt_pcp	0.000502
+53027	Washington	Grays Harbor	pcnt_pcp	0.000412
+53029	Washington	Island	pcnt_pcp	0.000394
+53031	Washington	Jefferson	pcnt_pcp	0.000936
+53033	Washington	King	pcnt_pcp	0.001127
+53035	Washington	Kitsap	pcnt_pcp	0.000707
+53037	Washington	Kittitas	pcnt_pcp	0.000561
+53039	Washington	Klickitat	pcnt_pcp	0.000686
+53041	Washington	Lewis	pcnt_pcp	0.000504
+53043	Washington	Lincoln	pcnt_pcp	0.000473
+53045	Washington	Mason	pcnt_pcp	0.000230
+53047	Washington	Okanogan	pcnt_pcp	0.001067
+53049	Washington	Pacific	pcnt_pcp	0.000431
+53051	Washington	Pend Oreille	pcnt_pcp	0.000463
+53053	Washington	Pierce	pcnt_pcp	0.000692
+53055	Washington	San Juan	pcnt_pcp	0.000952
+53057	Washington	Skagit	pcnt_pcp	0.000965
+53059	Washington	Skamania	pcnt_pcp	0.000090
+53061	Washington	Snohomish	pcnt_pcp	0.000513
+53063	Washington	Spokane	pcnt_pcp	0.000826
+53065	Washington	Stevens	pcnt_pcp	0.000598
+53067	Washington	Thurston	pcnt_pcp	0.000937
+53069	Washington	Wahkiakum	pcnt_pcp	#VALUE!
+53071	Washington	Walla Walla	pcnt_pcp	0.001189
+53073	Washington	Whatcom	pcnt_pcp	0.000888
+53075	Washington	Whitman	pcnt_pcp	0.000737
+53077	Washington	Yakima	pcnt_pcp	0.000716
+54001	West Virginia	Barbour	pcnt_pcp	0.000301
+54003	West Virginia	Berkeley	pcnt_pcp	0.000430
+54005	West Virginia	Boone	pcnt_pcp	0.000366
+54007	West Virginia	Braxton	pcnt_pcp	0.000344
+54009	West Virginia	Brooke	pcnt_pcp	0.000250
+54011	West Virginia	Cabell	pcnt_pcp	0.001506
+54013	West Virginia	Calhoun	pcnt_pcp	0.000131
+54015	West Virginia	Clay	pcnt_pcp	0.000213
+54017	West Virginia	Doddridge	pcnt_pcp	0.000122
+54019	West Virginia	Fayette	pcnt_pcp	0.000631
+54021	West Virginia	Gilmer	pcnt_pcp	0.000459
+54023	West Virginia	Grant	pcnt_pcp	0.000587
+54025	West Virginia	Greenbrier	pcnt_pcp	0.001493
+54027	West Virginia	Hampshire	pcnt_pcp	0.000334
+54029	West Virginia	Hancock	pcnt_pcp	0.000653
+54031	West Virginia	Hardy	pcnt_pcp	0.000142
+54033	West Virginia	Harrison	pcnt_pcp	0.001027
+54035	West Virginia	Jackson	pcnt_pcp	0.000377
+54037	West Virginia	Jefferson	pcnt_pcp	0.000373
+54039	West Virginia	Kanawha	pcnt_pcp	0.001203
+54041	West Virginia	Lewis	pcnt_pcp	0.000672
+54043	West Virginia	Lincoln	pcnt_pcp	0.000276
+54045	West Virginia	Logan	pcnt_pcp	0.000627
+54047	West Virginia	McDowell	pcnt_pcp	0.000408
+54049	West Virginia	Marion	pcnt_pcp	0.000655
+54051	West Virginia	Marshall	pcnt_pcp	0.000514
+54053	West Virginia	Mason	pcnt_pcp	0.000659
+54055	West Virginia	Mercer	pcnt_pcp	0.000691
+54057	West Virginia	Mineral	pcnt_pcp	0.000354
+54059	West Virginia	Mingo	pcnt_pcp	0.000560
+54061	West Virginia	Monongalia	pcnt_pcp	0.001189
+54063	West Virginia	Monroe	pcnt_pcp	0.000519
+54065	West Virginia	Morgan	pcnt_pcp	0.000457
+54067	West Virginia	Nicholas	pcnt_pcp	0.000876
+54069	West Virginia	Ohio	pcnt_pcp	0.001621
+54071	West Virginia	Pendleton	pcnt_pcp	0.000520
+54073	West Virginia	Pleasants	pcnt_pcp	0.000396
+54075	West Virginia	Pocahontas	pcnt_pcp	0.000689
+54077	West Virginia	Preston	pcnt_pcp	0.000239
+54079	West Virginia	Putnam	pcnt_pcp	0.001007
+54081	West Virginia	Raleigh	pcnt_pcp	0.000913
+54083	West Virginia	Randolph	pcnt_pcp	0.000783
+54085	West Virginia	Ritchie	pcnt_pcp	0.000287
+54087	West Virginia	Roane	pcnt_pcp	0.000402
+54089	West Virginia	Summers	pcnt_pcp	0.000431
+54091	West Virginia	Taylor	pcnt_pcp	0.000533
+54093	West Virginia	Tucker	pcnt_pcp	0.000702
+54095	West Virginia	Tyler	pcnt_pcp	0.000435
+54097	West Virginia	Upshur	pcnt_pcp	0.000495
+54099	West Virginia	Wayne	pcnt_pcp	0.000448
+54101	West Virginia	Webster	pcnt_pcp	0.000545
+54103	West Virginia	Wetzel	pcnt_pcp	0.000544
+54105	West Virginia	Wirt	pcnt_pcp	0.000174
+54107	West Virginia	Wood	pcnt_pcp	0.000782
+54109	West Virginia	Wyoming	pcnt_pcp	0.000295
+55001	Wisconsin	Adams	pcnt_pcp	0.000144
+55003	Wisconsin	Ashland	pcnt_pcp	0.001608
+55005	Wisconsin	Barron	pcnt_pcp	0.001135
+55007	Wisconsin	Bayfield	pcnt_pcp	0.000266
+55009	Wisconsin	Brown	pcnt_pcp	0.000704
+55011	Wisconsin	Buffalo	pcnt_pcp	0.000295
+55013	Wisconsin	Burnett	pcnt_pcp	0.000259
+55015	Wisconsin	Calumet	pcnt_pcp	0.000163
+55017	Wisconsin	Chippewa	pcnt_pcp	0.000752
+55019	Wisconsin	Clark	pcnt_pcp	0.000432
+55021	Wisconsin	Columbia	pcnt_pcp	0.000650
+55023	Wisconsin	Crawford	pcnt_pcp	0.000601
+55025	Wisconsin	Dane	pcnt_pcp	0.001225
+55027	Wisconsin	Dodge	pcnt_pcp	0.000586
+55029	Wisconsin	Door	pcnt_pcp	0.000829
+55031	Wisconsin	Douglas	pcnt_pcp	0.000317
+55033	Wisconsin	Dunn	pcnt_pcp	0.000592
+55035	Wisconsin	Eau Claire	pcnt_pcp	0.001215
+55037	Wisconsin	Florence	pcnt_pcp	0.000680
+55039	Wisconsin	Fond du Lac	pcnt_pcp	0.000639
+55041	Wisconsin	Forest	pcnt_pcp	0.000323
+55043	Wisconsin	Grant	pcnt_pcp	0.000449
+55045	Wisconsin	Green	pcnt_pcp	0.000651
+55047	Wisconsin	Green Lake	pcnt_pcp	0.000998
+55049	Wisconsin	Iowa	pcnt_pcp	0.000675
+55051	Wisconsin	Iron	pcnt_pcp	0.000678
+55053	Wisconsin	Jackson	pcnt_pcp	0.001075
+55055	Wisconsin	Jefferson	pcnt_pcp	0.000430
+55057	Wisconsin	Juneau	pcnt_pcp	0.000750
+55059	Wisconsin	Kenosha	pcnt_pcp	0.000450
+55061	Wisconsin	Kewaunee	pcnt_pcp	0.000291
+55063	Wisconsin	La Crosse	pcnt_pcp	0.001420
+55065	Wisconsin	Lafayette	pcnt_pcp	0.000297
+55067	Wisconsin	Langlade	pcnt_pcp	0.000853
+55069	Wisconsin	Lincoln	pcnt_pcp	0.000661
+55071	Wisconsin	Manitowoc	pcnt_pcp	0.000664
+55073	Wisconsin	Marathon	pcnt_pcp	0.000850
+55075	Wisconsin	Marinette	pcnt_pcp	0.000719
+55077	Wisconsin	Marquette	pcnt_pcp	0.000065
+55078	Wisconsin	Menominee	pcnt_pcp	0.000704
+55079	Wisconsin	Milwaukee	pcnt_pcp	0.000729
+55081	Wisconsin	Monroe	pcnt_pcp	0.000648
+55083	Wisconsin	Oconto	pcnt_pcp	0.000319
+55085	Wisconsin	Oneida	pcnt_pcp	0.001475
+55087	Wisconsin	Outagamie	pcnt_pcp	0.000837
+55089	Wisconsin	Ozaukee	pcnt_pcp	0.001357
+55091	Wisconsin	Pepin	pcnt_pcp	0.000402
+55093	Wisconsin	Pierce	pcnt_pcp	0.000439
+55095	Wisconsin	Polk	pcnt_pcp	0.001042
+55097	Wisconsin	Portage	pcnt_pcp	0.000743
+55099	Wisconsin	Price	pcnt_pcp	0.000638
+55101	Wisconsin	Racine	pcnt_pcp	0.000527
+55103	Wisconsin	Richland	pcnt_pcp	0.000667
+55105	Wisconsin	Rock	pcnt_pcp	0.000630
+55107	Wisconsin	Rusk	pcnt_pcp	0.000816
+55109	Wisconsin	St. Croix	pcnt_pcp	0.000474
+55111	Wisconsin	Sauk	pcnt_pcp	0.000903
+55113	Wisconsin	Sawyer	pcnt_pcp	0.001087
+55115	Wisconsin	Shawano	pcnt_pcp	0.000620
+55117	Wisconsin	Sheboygan	pcnt_pcp	0.000580
+55119	Wisconsin	Taylor	pcnt_pcp	0.000532
+55121	Wisconsin	Trempealeau	pcnt_pcp	0.000450
+55123	Wisconsin	Vernon	pcnt_pcp	0.000772
+55125	Wisconsin	Vilas	pcnt_pcp	0.000419
+55127	Wisconsin	Walworth	pcnt_pcp	0.000391
+55129	Wisconsin	Washburn	pcnt_pcp	0.000943
+55131	Wisconsin	Washington	pcnt_pcp	0.000591
+55133	Wisconsin	Waukesha	pcnt_pcp	0.001319
+55135	Wisconsin	Waupaca	pcnt_pcp	0.000649
+55137	Wisconsin	Waushara	pcnt_pcp	0.000327
+55139	Wisconsin	Winnebago	pcnt_pcp	0.000826
+55141	Wisconsin	Wood	pcnt_pcp	0.001712
+56001	Wyoming	Albany	pcnt_pcp	0.000659
+56003	Wyoming	Big Horn	pcnt_pcp	0.000342
+56005	Wyoming	Campbell	pcnt_pcp	0.000498
+56007	Wyoming	Carbon	pcnt_pcp	0.000379
+56009	Wyoming	Converse	pcnt_pcp	0.000506
+56011	Wyoming	Crook	pcnt_pcp	0.000281
+56013	Wyoming	Fremont	pcnt_pcp	0.000770
+56015	Wyoming	Goshen	pcnt_pcp	0.000671
+56017	Wyoming	Hot Springs	pcnt_pcp	0.001041
+56019	Wyoming	Johnson	pcnt_pcp	0.001049
+56021	Wyoming	Laramie	pcnt_pcp	0.000749
+56023	Wyoming	Lincoln	pcnt_pcp	0.000663
+56025	Wyoming	Natrona	pcnt_pcp	0.000689
+56027	Wyoming	Niobrara	pcnt_pcp	#VALUE!
+56029	Wyoming	Park	pcnt_pcp	0.001027
+56031	Wyoming	Platte	pcnt_pcp	0.000575
+56033	Wyoming	Sheridan	pcnt_pcp	0.000686
+56035	Wyoming	Sublette	pcnt_pcp	0.000489
+56037	Wyoming	Sweetwater	pcnt_pcp	0.000298
+56039	Wyoming	Teton	pcnt_pcp	0.001221
+56041	Wyoming	Uinta	pcnt_pcp	0.000474
+56043	Wyoming	Washakie	pcnt_pcp	0.000468
+56045	Wyoming	Weston	pcnt_pcp	0.000557

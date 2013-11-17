@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_children_in_poverty
+01001	Alabama	Autauga	pcnt_children_in_poverty	21
+01003	Alabama	Baldwin	pcnt_children_in_poverty	21
+01005	Alabama	Barbour	pcnt_children_in_poverty	40
+01007	Alabama	Bibb	pcnt_children_in_poverty	31
+01009	Alabama	Blount	pcnt_children_in_poverty	22
+01011	Alabama	Bullock	pcnt_children_in_poverty	41
+01013	Alabama	Butler	pcnt_children_in_poverty	36
+01015	Alabama	Calhoun	pcnt_children_in_poverty	32
+01017	Alabama	Chambers	pcnt_children_in_poverty	39
+01019	Alabama	Cherokee	pcnt_children_in_poverty	37
+01021	Alabama	Chilton	pcnt_children_in_poverty	28
+01023	Alabama	Choctaw	pcnt_children_in_poverty	36
+01025	Alabama	Clarke	pcnt_children_in_poverty	35
+01027	Alabama	Clay	pcnt_children_in_poverty	29
+01029	Alabama	Cleburne	pcnt_children_in_poverty	26
+01031	Alabama	Coffee	pcnt_children_in_poverty	24
+01033	Alabama	Colbert	pcnt_children_in_poverty	28
+01035	Alabama	Conecuh	pcnt_children_in_poverty	40
+01037	Alabama	Coosa	pcnt_children_in_poverty	36
+01039	Alabama	Covington	pcnt_children_in_poverty	34
+01041	Alabama	Crenshaw	pcnt_children_in_poverty	28
+01043	Alabama	Cullman	pcnt_children_in_poverty	28
+01045	Alabama	Dale	pcnt_children_in_poverty	28
+01047	Alabama	Dallas	pcnt_children_in_poverty	50
+01049	Alabama	DeKalb	pcnt_children_in_poverty	30
+01051	Alabama	Elmore	pcnt_children_in_poverty	21
+01053	Alabama	Escambia	pcnt_children_in_poverty	32
+01055	Alabama	Etowah	pcnt_children_in_poverty	30
+01057	Alabama	Fayette	pcnt_children_in_poverty	33
+01059	Alabama	Franklin	pcnt_children_in_poverty	33
+01061	Alabama	Geneva	pcnt_children_in_poverty	42
+01063	Alabama	Greene	pcnt_children_in_poverty	47
+01065	Alabama	Hale	pcnt_children_in_poverty	41
+01067	Alabama	Henry	pcnt_children_in_poverty	29
+01069	Alabama	Houston	pcnt_children_in_poverty	29
+01071	Alabama	Jackson	pcnt_children_in_poverty	25
+01073	Alabama	Jefferson	pcnt_children_in_poverty	27
+01075	Alabama	Lamar	pcnt_children_in_poverty	31
+01077	Alabama	Lauderdale	pcnt_children_in_poverty	24
+01079	Alabama	Lawrence	pcnt_children_in_poverty	27
+01081	Alabama	Lee	pcnt_children_in_poverty	21
+01083	Alabama	Limestone	pcnt_children_in_poverty	21
+01085	Alabama	Lowndes	pcnt_children_in_poverty	40
+01087	Alabama	Macon	pcnt_children_in_poverty	43
+01089	Alabama	Madison	pcnt_children_in_poverty	20
+01091	Alabama	Marengo	pcnt_children_in_poverty	34
+01093	Alabama	Marion	pcnt_children_in_poverty	33
+01095	Alabama	Marshall	pcnt_children_in_poverty	28
+01097	Alabama	Mobile	pcnt_children_in_poverty	30
+01099	Alabama	Monroe	pcnt_children_in_poverty	42
+01101	Alabama	Montgomery	pcnt_children_in_poverty	34
+01103	Alabama	Morgan	pcnt_children_in_poverty	27
+01105	Alabama	Perry	pcnt_children_in_poverty	47
+01107	Alabama	Pickens	pcnt_children_in_poverty	35
+01109	Alabama	Pike	pcnt_children_in_poverty	34
+01111	Alabama	Randolph	pcnt_children_in_poverty	31
+01113	Alabama	Russell	pcnt_children_in_poverty	30
+01115	Alabama	St. Clair	pcnt_children_in_poverty	25
+01117	Alabama	Shelby	pcnt_children_in_poverty	12
+01119	Alabama	Sumter	pcnt_children_in_poverty	46
+01121	Alabama	Talladega	pcnt_children_in_poverty	35
+01123	Alabama	Tallapoosa	pcnt_children_in_poverty	30
+01125	Alabama	Tuscaloosa	pcnt_children_in_poverty	27
+01127	Alabama	Walker	pcnt_children_in_poverty	30
+01129	Alabama	Washington	pcnt_children_in_poverty	27
+01131	Alabama	Wilcox	pcnt_children_in_poverty	51
+01133	Alabama	Winston	pcnt_children_in_poverty	30
+02013	Alaska	Aleutians East	pcnt_children_in_poverty	18
+02016	Alaska	Aleutians West	pcnt_children_in_poverty	9
+02020	Alaska	Anchorage	pcnt_children_in_poverty	12
+02050	Alaska	Bethel	pcnt_children_in_poverty	30
+02060	Alaska	Bristol Bay	pcnt_children_in_poverty	11
+02068	Alaska	Denali	pcnt_children_in_poverty	8
+02070	Alaska	Dillingham	pcnt_children_in_poverty	27
+02090	Alaska	Fairbanks North Star	pcnt_children_in_poverty	11
+02100	Alaska	Haines	pcnt_children_in_poverty	17
+02110	Alaska	Juneau	pcnt_children_in_poverty	10
+02122	Alaska	Kenai Peninsula	pcnt_children_in_poverty	14
+02130	Alaska	Ketchikan Gateway	pcnt_children_in_poverty	15
+02150	Alaska	Kodiak Island	pcnt_children_in_poverty	11
+02164	Alaska	Lake and Peninsula	pcnt_children_in_poverty	22
+02170	Alaska	Matanuska-Susitna	pcnt_children_in_poverty	15
+02180	Alaska	Nome	pcnt_children_in_poverty	32
+02185	Alaska	North Slope	pcnt_children_in_poverty	14
+02188	Alaska	Northwest Arctic	pcnt_children_in_poverty	28
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_children_in_poverty	23
+02220	Alaska	Sitka	pcnt_children_in_poverty	11
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_children_in_poverty	21
+02240	Alaska	Southeast Fairbanks	pcnt_children_in_poverty	20
+02261	Alaska	Valdez-Cordova	pcnt_children_in_poverty	11
+02270	Alaska	Wade Hampton	pcnt_children_in_poverty	42
+02280	Alaska	Wrangell-Petersburg	pcnt_children_in_poverty	16
+02282	Alaska	Yakutat	pcnt_children_in_poverty	17
+02290	Alaska	Yukon-Koyukuk	pcnt_children_in_poverty	29
+04001	Arizona	Apache	pcnt_children_in_poverty	44
+04003	Arizona	Cochise	pcnt_children_in_poverty	31
+04005	Arizona	Coconino	pcnt_children_in_poverty	27
+04007	Arizona	Gila	pcnt_children_in_poverty	38
+04009	Arizona	Graham	pcnt_children_in_poverty	31
+04011	Arizona	Greenlee	pcnt_children_in_poverty	18
+04012	Arizona	La Paz	pcnt_children_in_poverty	38
+04013	Arizona	Maricopa	pcnt_children_in_poverty	25
+04015	Arizona	Mohave	pcnt_children_in_poverty	37
+04017	Arizona	Navajo	pcnt_children_in_poverty	45
+04019	Arizona	Pima	pcnt_children_in_poverty	29
+04021	Arizona	Pinal	pcnt_children_in_poverty	23
+04023	Arizona	Santa Cruz	pcnt_children_in_poverty	35
+04025	Arizona	Yavapai	pcnt_children_in_poverty	29
+04027	Arizona	Yuma	pcnt_children_in_poverty	32
+05001	Arkansas	Arkansas	pcnt_children_in_poverty	28
+05003	Arkansas	Ashley	pcnt_children_in_poverty	31
+05005	Arkansas	Baxter	pcnt_children_in_poverty	28
+05007	Arkansas	Benton	pcnt_children_in_poverty	18
+05009	Arkansas	Boone	pcnt_children_in_poverty	27
+05011	Arkansas	Bradley	pcnt_children_in_poverty	36
+05013	Arkansas	Calhoun	pcnt_children_in_poverty	22
+05015	Arkansas	Carroll	pcnt_children_in_poverty	30
+05017	Arkansas	Chicot	pcnt_children_in_poverty	48
+05019	Arkansas	Clark	pcnt_children_in_poverty	30
+05021	Arkansas	Clay	pcnt_children_in_poverty	29
+05023	Arkansas	Cleburne	pcnt_children_in_poverty	26
+05025	Arkansas	Cleveland	pcnt_children_in_poverty	25
+05027	Arkansas	Columbia	pcnt_children_in_poverty	37
+05029	Arkansas	Conway	pcnt_children_in_poverty	31
+05031	Arkansas	Craighead	pcnt_children_in_poverty	28
+05033	Arkansas	Crawford	pcnt_children_in_poverty	27
+05035	Arkansas	Crittenden	pcnt_children_in_poverty	40
+05037	Arkansas	Cross	pcnt_children_in_poverty	28
+05039	Arkansas	Dallas	pcnt_children_in_poverty	34
+05041	Arkansas	Desha	pcnt_children_in_poverty	40
+05043	Arkansas	Drew	pcnt_children_in_poverty	31
+05045	Arkansas	Faulkner	pcnt_children_in_poverty	18
+05047	Arkansas	Franklin	pcnt_children_in_poverty	28
+05049	Arkansas	Fulton	pcnt_children_in_poverty	34
+05051	Arkansas	Garland	pcnt_children_in_poverty	32
+05053	Arkansas	Grant	pcnt_children_in_poverty	18
+05055	Arkansas	Greene	pcnt_children_in_poverty	26
+05057	Arkansas	Hempstead	pcnt_children_in_poverty	38
+05059	Arkansas	Hot Spring	pcnt_children_in_poverty	30
+05061	Arkansas	Howard	pcnt_children_in_poverty	31
+05063	Arkansas	Independence	pcnt_children_in_poverty	28
+05065	Arkansas	Izard	pcnt_children_in_poverty	32
+05067	Arkansas	Jackson	pcnt_children_in_poverty	35
+05069	Arkansas	Jefferson	pcnt_children_in_poverty	36
+05071	Arkansas	Johnson	pcnt_children_in_poverty	30
+05073	Arkansas	Lafayette	pcnt_children_in_poverty	35
+05075	Arkansas	Lawrence	pcnt_children_in_poverty	34
+05077	Arkansas	Lee	pcnt_children_in_poverty	46
+05079	Arkansas	Lincoln	pcnt_children_in_poverty	29
+05081	Arkansas	Little River	pcnt_children_in_poverty	28
+05083	Arkansas	Logan	pcnt_children_in_poverty	31
+05085	Arkansas	Lonoke	pcnt_children_in_poverty	19
+05087	Arkansas	Madison	pcnt_children_in_poverty	31
+05089	Arkansas	Marion	pcnt_children_in_poverty	35
+05091	Arkansas	Miller	pcnt_children_in_poverty	32
+05093	Arkansas	Mississippi	pcnt_children_in_poverty	36
+05095	Arkansas	Monroe	pcnt_children_in_poverty	48
+05097	Arkansas	Montgomery	pcnt_children_in_poverty	35
+05099	Arkansas	Nevada	pcnt_children_in_poverty	35
+05101	Arkansas	Newton	pcnt_children_in_poverty	36
+05103	Arkansas	Ouachita	pcnt_children_in_poverty	38
+05105	Arkansas	Perry	pcnt_children_in_poverty	27
+05107	Arkansas	Phillips	pcnt_children_in_poverty	51
+05109	Arkansas	Pike	pcnt_children_in_poverty	32
+05111	Arkansas	Poinsett	pcnt_children_in_poverty	37
+05113	Arkansas	Polk	pcnt_children_in_poverty	35
+05115	Arkansas	Pope	pcnt_children_in_poverty	30
+05117	Arkansas	Prairie	pcnt_children_in_poverty	31
+05119	Arkansas	Pulaski	pcnt_children_in_poverty	23
+05121	Arkansas	Randolph	pcnt_children_in_poverty	35
+05123	Arkansas	St. Francis	pcnt_children_in_poverty	44
+05125	Arkansas	Saline	pcnt_children_in_poverty	15
+05127	Arkansas	Scott	pcnt_children_in_poverty	37
+05129	Arkansas	Searcy	pcnt_children_in_poverty	47
+05131	Arkansas	Sebastian	pcnt_children_in_poverty	31
+05133	Arkansas	Sevier	pcnt_children_in_poverty	32
+05135	Arkansas	Sharp	pcnt_children_in_poverty	38
+05137	Arkansas	Stone	pcnt_children_in_poverty	39
+05139	Arkansas	Union	pcnt_children_in_poverty	32
+05141	Arkansas	Van Buren	pcnt_children_in_poverty	39
+05143	Arkansas	Washington	pcnt_children_in_poverty	27
+05145	Arkansas	White	pcnt_children_in_poverty	24
+05147	Arkansas	Woodruff	pcnt_children_in_poverty	39
+05149	Arkansas	Yell	pcnt_children_in_poverty	28
+06001	California	Alameda	pcnt_children_in_poverty	17
+06003	California	Alpine	pcnt_children_in_poverty	29
+06005	California	Amador	pcnt_children_in_poverty	19
+06007	California	Butte	pcnt_children_in_poverty	28
+06009	California	Calaveras	pcnt_children_in_poverty	20
+06011	California	Colusa	pcnt_children_in_poverty	20
+06013	California	Contra Costa	pcnt_children_in_poverty	15
+06015	California	Del Norte	pcnt_children_in_poverty	34
+06017	California	El Dorado	pcnt_children_in_poverty	13
+06019	California	Fresno	pcnt_children_in_poverty	35
+06021	California	Glenn	pcnt_children_in_poverty	27
+06023	California	Humboldt	pcnt_children_in_poverty	26
+06025	California	Imperial	pcnt_children_in_poverty	33
+06027	California	Inyo	pcnt_children_in_poverty	20
+06029	California	Kern	pcnt_children_in_poverty	35
+06031	California	Kings	pcnt_children_in_poverty	30
+06033	California	Lake	pcnt_children_in_poverty	34
+06035	California	Lassen	pcnt_children_in_poverty	19
+06037	California	Los Angeles	pcnt_children_in_poverty	26
+06039	California	Madera	pcnt_children_in_poverty	34
+06041	California	Marin	pcnt_children_in_poverty	11
+06043	California	Mariposa	pcnt_children_in_poverty	24
+06045	California	Mendocino	pcnt_children_in_poverty	31
+06047	California	Merced	pcnt_children_in_poverty	36
+06049	California	Modoc	pcnt_children_in_poverty	32
+06051	California	Mono	pcnt_children_in_poverty	16
+06053	California	Monterey	pcnt_children_in_poverty	25
+06055	California	Napa	pcnt_children_in_poverty	17
+06057	California	Nevada	pcnt_children_in_poverty	17
+06059	California	Orange	pcnt_children_in_poverty	18
+06061	California	Placer	pcnt_children_in_poverty	10
+06063	California	Plumas	pcnt_children_in_poverty	22
+06065	California	Riverside	pcnt_children_in_poverty	23
+06067	California	Sacramento	pcnt_children_in_poverty	25
+06069	California	San Benito	pcnt_children_in_poverty	18
+06071	California	San Bernardino	pcnt_children_in_poverty	26
+06073	California	San Diego	pcnt_children_in_poverty	19
+06075	California	San Francisco	pcnt_children_in_poverty	16
+06077	California	San Joaquin	pcnt_children_in_poverty	25
+06079	California	San Luis Obispo	pcnt_children_in_poverty	18
+06081	California	San Mateo	pcnt_children_in_poverty	10
+06083	California	Santa Barbara	pcnt_children_in_poverty	21
+06085	California	Santa Clara	pcnt_children_in_poverty	13
+06087	California	Santa Cruz	pcnt_children_in_poverty	19
+06089	California	Shasta	pcnt_children_in_poverty	25
+06091	California	Sierra	pcnt_children_in_poverty	20
+06093	California	Siskiyou	pcnt_children_in_poverty	32
+06095	California	Solano	pcnt_children_in_poverty	18
+06097	California	Sonoma	pcnt_children_in_poverty	16
+06099	California	Stanislaus	pcnt_children_in_poverty	32
+06101	California	Sutter	pcnt_children_in_poverty	25
+06103	California	Tehama	pcnt_children_in_poverty	28
+06105	California	Trinity	pcnt_children_in_poverty	33
+06107	California	Tulare	pcnt_children_in_poverty	34
+06109	California	Tuolumne	pcnt_children_in_poverty	24
+06111	California	Ventura	pcnt_children_in_poverty	16
+06113	California	Yolo	pcnt_children_in_poverty	21
+06115	California	Yuba	pcnt_children_in_poverty	27
+08001	Colorado	Adams	pcnt_children_in_poverty	23
+08003	Colorado	Alamosa	pcnt_children_in_poverty	30
+08005	Colorado	Arapahoe	pcnt_children_in_poverty	16
+08007	Colorado	Archuleta	pcnt_children_in_poverty	27
+08009	Colorado	Baca	pcnt_children_in_poverty	31
+08011	Colorado	Bent	pcnt_children_in_poverty	35
+08013	Colorado	Boulder	pcnt_children_in_poverty	13
+08014	Colorado	Broomfield	pcnt_children_in_poverty	8
+08015	Colorado	Chaffee	pcnt_children_in_poverty	20
+08017	Colorado	Cheyenne	pcnt_children_in_poverty	24
+08019	Colorado	Clear Creek	pcnt_children_in_poverty	14
+08021	Colorado	Conejos	pcnt_children_in_poverty	28
+08023	Colorado	Costilla	pcnt_children_in_poverty	38
+08025	Colorado	Crowley	pcnt_children_in_poverty	41
+08027	Colorado	Custer	pcnt_children_in_poverty	29
+08029	Colorado	Delta	pcnt_children_in_poverty	25
+08031	Colorado	Denver	pcnt_children_in_poverty	26
+08033	Colorado	Dolores	pcnt_children_in_poverty	16
+08035	Colorado	Douglas	pcnt_children_in_poverty	5
+08037	Colorado	Eagle	pcnt_children_in_poverty	15
+08039	Colorado	Elbert	pcnt_children_in_poverty	11
+08041	Colorado	El Paso	pcnt_children_in_poverty	18
+08043	Colorado	Fremont	pcnt_children_in_poverty	25
+08045	Colorado	Garfield	pcnt_children_in_poverty	15
+08047	Colorado	Gilpin	pcnt_children_in_poverty	12
+08049	Colorado	Grand	pcnt_children_in_poverty	16
+08051	Colorado	Gunnison	pcnt_children_in_poverty	18
+08053	Colorado	Hinsdale	pcnt_children_in_poverty	28
+08055	Colorado	Huerfano	pcnt_children_in_poverty	38
+08057	Colorado	Jackson	pcnt_children_in_poverty	29
+08059	Colorado	Jefferson	pcnt_children_in_poverty	12
+08061	Colorado	Kiowa	pcnt_children_in_poverty	18
+08063	Colorado	Kit Carson	pcnt_children_in_poverty	22
+08065	Colorado	Lake	pcnt_children_in_poverty	27
+08067	Colorado	La Plata	pcnt_children_in_poverty	15
+08069	Colorado	Larimer	pcnt_children_in_poverty	14
+08071	Colorado	Las Animas	pcnt_children_in_poverty	27
+08073	Colorado	Lincoln	pcnt_children_in_poverty	24
+08075	Colorado	Logan	pcnt_children_in_poverty	21
+08077	Colorado	Mesa	pcnt_children_in_poverty	16
+08079	Colorado	Mineral	pcnt_children_in_poverty	21
+08081	Colorado	Moffat	pcnt_children_in_poverty	18
+08083	Colorado	Montezuma	pcnt_children_in_poverty	26
+08085	Colorado	Montrose	pcnt_children_in_poverty	25
+08087	Colorado	Morgan	pcnt_children_in_poverty	20
+08089	Colorado	Otero	pcnt_children_in_poverty	35
+08091	Colorado	Ouray	pcnt_children_in_poverty	17
+08093	Colorado	Park	pcnt_children_in_poverty	16
+08095	Colorado	Phillips	pcnt_children_in_poverty	17
+08097	Colorado	Pitkin	pcnt_children_in_poverty	9
+08099	Colorado	Prowers	pcnt_children_in_poverty	30
+08101	Colorado	Pueblo	pcnt_children_in_poverty	27
+08103	Colorado	Rio Blanco	pcnt_children_in_poverty	12
+08105	Colorado	Rio Grande	pcnt_children_in_poverty	31
+08107	Colorado	Routt	pcnt_children_in_poverty	12
+08109	Colorado	Saguache	pcnt_children_in_poverty	42
+08111	Colorado	San Juan	pcnt_children_in_poverty	24
+08113	Colorado	San Miguel	pcnt_children_in_poverty	16
+08115	Colorado	Sedgwick	pcnt_children_in_poverty	22
+08117	Colorado	Summit	pcnt_children_in_poverty	14
+08119	Colorado	Teller	pcnt_children_in_poverty	15
+08121	Colorado	Washington	pcnt_children_in_poverty	20
+08123	Colorado	Weld	pcnt_children_in_poverty	18
+08125	Colorado	Yuma	pcnt_children_in_poverty	20
+09001	Connecticut	Fairfield	pcnt_children_in_poverty	12
+09003	Connecticut	Hartford	pcnt_children_in_poverty	17
+09005	Connecticut	Litchfield	pcnt_children_in_poverty	9
+09007	Connecticut	Middlesex	pcnt_children_in_poverty	8
+09009	Connecticut	New Haven	pcnt_children_in_poverty	19
+09011	Connecticut	New London	pcnt_children_in_poverty	12
+09013	Connecticut	Tolland	pcnt_children_in_poverty	7
+09015	Connecticut	Windham	pcnt_children_in_poverty	15
+10001	Delaware	Kent	pcnt_children_in_poverty	23
+10003	Delaware	New Castle	pcnt_children_in_poverty	16
+10005	Delaware	Sussex	pcnt_children_in_poverty	23
+11001	District of Columbia	District of Columbia	pcnt_children_in_poverty	31
+12001	Florida	Alachua	pcnt_children_in_poverty	22
+12003	Florida	Baker	pcnt_children_in_poverty	24
+12005	Florida	Bay	pcnt_children_in_poverty	23
+12007	Florida	Bradford	pcnt_children_in_poverty	30
+12009	Florida	Brevard	pcnt_children_in_poverty	23
+12011	Florida	Broward	pcnt_children_in_poverty	21
+12013	Florida	Calhoun	pcnt_children_in_poverty	32
+12015	Florida	Charlotte	pcnt_children_in_poverty	24
+12017	Florida	Citrus	pcnt_children_in_poverty	31
+12019	Florida	Clay	pcnt_children_in_poverty	15
+12021	Florida	Collier	pcnt_children_in_poverty	31
+12023	Florida	Columbia	pcnt_children_in_poverty	32
+12027	Florida	DeSoto	pcnt_children_in_poverty	42
+12029	Florida	Dixie	pcnt_children_in_poverty	36
+12031	Florida	Duval	pcnt_children_in_poverty	26
+12033	Florida	Escambia	pcnt_children_in_poverty	28
+12035	Florida	Flagler	pcnt_children_in_poverty	26
+12037	Florida	Franklin	pcnt_children_in_poverty	31
+12039	Florida	Gadsden	pcnt_children_in_poverty	38
+12041	Florida	Gilchrist	pcnt_children_in_poverty	29
+12043	Florida	Glades	pcnt_children_in_poverty	34
+12045	Florida	Gulf	pcnt_children_in_poverty	28
+12047	Florida	Hamilton	pcnt_children_in_poverty	39
+12049	Florida	Hardee	pcnt_children_in_poverty	45
+12051	Florida	Hendry	pcnt_children_in_poverty	40
+12053	Florida	Hernando	pcnt_children_in_poverty	28
+12055	Florida	Highlands	pcnt_children_in_poverty	33
+12057	Florida	Hillsborough	pcnt_children_in_poverty	24
+12059	Florida	Holmes	pcnt_children_in_poverty	37
+12061	Florida	Indian River	pcnt_children_in_poverty	23
+12063	Florida	Jackson	pcnt_children_in_poverty	29
+12065	Florida	Jefferson	pcnt_children_in_poverty	28
+12067	Florida	Lafayette	pcnt_children_in_poverty	28
+12069	Florida	Lake	pcnt_children_in_poverty	21
+12071	Florida	Lee	pcnt_children_in_poverty	26
+12073	Florida	Leon	pcnt_children_in_poverty	23
+12075	Florida	Levy	pcnt_children_in_poverty	33
+12077	Florida	Liberty	pcnt_children_in_poverty	28
+12079	Florida	Madison	pcnt_children_in_poverty	37
+12081	Florida	Manatee	pcnt_children_in_poverty	27
+12083	Florida	Marion	pcnt_children_in_poverty	30
+12085	Florida	Martin	pcnt_children_in_poverty	22
+12086	Florida	Miami-Dade	pcnt_children_in_poverty	29
+12087	Florida	Monroe	pcnt_children_in_poverty	22
+12089	Florida	Nassau	pcnt_children_in_poverty	18
+12091	Florida	Okaloosa	pcnt_children_in_poverty	22
+12093	Florida	Okeechobee	pcnt_children_in_poverty	36
+12095	Florida	Orange	pcnt_children_in_poverty	26
+12097	Florida	Osceola	pcnt_children_in_poverty	24
+12099	Florida	Palm Beach	pcnt_children_in_poverty	24
+12101	Florida	Pasco	pcnt_children_in_poverty	21
+12103	Florida	Pinellas	pcnt_children_in_poverty	24
+12105	Florida	Polk	pcnt_children_in_poverty	30
+12107	Florida	Putnam	pcnt_children_in_poverty	42
+12109	Florida	St. Johns	pcnt_children_in_poverty	12
+12111	Florida	St. Lucie	pcnt_children_in_poverty	32
+12113	Florida	Santa Rosa	pcnt_children_in_poverty	16
+12115	Florida	Sarasota	pcnt_children_in_poverty	19
+12117	Florida	Seminole	pcnt_children_in_poverty	17
+12119	Florida	Sumter	pcnt_children_in_poverty	35
+12121	Florida	Suwannee	pcnt_children_in_poverty	36
+12123	Florida	Taylor	pcnt_children_in_poverty	31
+12125	Florida	Union	pcnt_children_in_poverty	26
+12127	Florida	Volusia	pcnt_children_in_poverty	27
+12129	Florida	Wakulla	pcnt_children_in_poverty	21
+12131	Florida	Walton	pcnt_children_in_poverty	25
+12133	Florida	Washington	pcnt_children_in_poverty	34
+13001	Georgia	Appling	pcnt_children_in_poverty	34
+13003	Georgia	Atkinson	pcnt_children_in_poverty	44
+13005	Georgia	Bacon	pcnt_children_in_poverty	35
+13007	Georgia	Baker	pcnt_children_in_poverty	42
+13009	Georgia	Baldwin	pcnt_children_in_poverty	36
+13011	Georgia	Banks	pcnt_children_in_poverty	28
+13013	Georgia	Barrow	pcnt_children_in_poverty	23
+13015	Georgia	Bartow	pcnt_children_in_poverty	29
+13017	Georgia	Ben Hill	pcnt_children_in_poverty	43
+13019	Georgia	Berrien	pcnt_children_in_poverty	35
+13021	Georgia	Bibb	pcnt_children_in_poverty	35
+13023	Georgia	Bleckley	pcnt_children_in_poverty	29
+13025	Georgia	Brantley	pcnt_children_in_poverty	31
+13027	Georgia	Brooks	pcnt_children_in_poverty	41
+13029	Georgia	Bryan	pcnt_children_in_poverty	19
+13031	Georgia	Bulloch	pcnt_children_in_poverty	31
+13033	Georgia	Burke	pcnt_children_in_poverty	43
+13035	Georgia	Butts	pcnt_children_in_poverty	29
+13037	Georgia	Calhoun	pcnt_children_in_poverty	42
+13039	Georgia	Camden	pcnt_children_in_poverty	20
+13043	Georgia	Candler	pcnt_children_in_poverty	40
+13045	Georgia	Carroll	pcnt_children_in_poverty	25
+13047	Georgia	Catoosa	pcnt_children_in_poverty	21
+13049	Georgia	Charlton	pcnt_children_in_poverty	35
+13051	Georgia	Chatham	pcnt_children_in_poverty	35
+13053	Georgia	Chattahoochee	pcnt_children_in_poverty	19
+13055	Georgia	Chattooga	pcnt_children_in_poverty	28
+13057	Georgia	Cherokee	pcnt_children_in_poverty	13
+13059	Georgia	Clarke	pcnt_children_in_poverty	38
+13061	Georgia	Clay	pcnt_children_in_poverty	54
+13063	Georgia	Clayton	pcnt_children_in_poverty	35
+13065	Georgia	Clinch	pcnt_children_in_poverty	39
+13067	Georgia	Cobb	pcnt_children_in_poverty	18
+13069	Georgia	Coffee	pcnt_children_in_poverty	40
+13071	Georgia	Colquitt	pcnt_children_in_poverty	38
+13073	Georgia	Columbia	pcnt_children_in_poverty	11
+13075	Georgia	Cook	pcnt_children_in_poverty	41
+13077	Georgia	Coweta	pcnt_children_in_poverty	20
+13079	Georgia	Crawford	pcnt_children_in_poverty	30
+13081	Georgia	Crisp	pcnt_children_in_poverty	46
+13083	Georgia	Dade	pcnt_children_in_poverty	24
+13085	Georgia	Dawson	pcnt_children_in_poverty	21
+13087	Georgia	Decatur	pcnt_children_in_poverty	46
+13089	Georgia	DeKalb	pcnt_children_in_poverty	29
+13091	Georgia	Dodge	pcnt_children_in_poverty	39
+13093	Georgia	Dooly	pcnt_children_in_poverty	40
+13095	Georgia	Dougherty	pcnt_children_in_poverty	40
+13097	Georgia	Douglas	pcnt_children_in_poverty	22
+13099	Georgia	Early	pcnt_children_in_poverty	40
+13101	Georgia	Echols	pcnt_children_in_poverty	40
+13103	Georgia	Effingham	pcnt_children_in_poverty	18
+13105	Georgia	Elbert	pcnt_children_in_poverty	34
+13107	Georgia	Emanuel	pcnt_children_in_poverty	42
+13109	Georgia	Evans	pcnt_children_in_poverty	41
+13111	Georgia	Fannin	pcnt_children_in_poverty	38
+13113	Georgia	Fayette	pcnt_children_in_poverty	12
+13115	Georgia	Floyd	pcnt_children_in_poverty	30
+13117	Georgia	Forsyth	pcnt_children_in_poverty	10
+13119	Georgia	Franklin	pcnt_children_in_poverty	34
+13121	Georgia	Fulton	pcnt_children_in_poverty	27
+13123	Georgia	Gilmer	pcnt_children_in_poverty	43
+13125	Georgia	Glascock	pcnt_children_in_poverty	24
+13127	Georgia	Glynn	pcnt_children_in_poverty	31
+13129	Georgia	Gordon	pcnt_children_in_poverty	28
+13131	Georgia	Grady	pcnt_children_in_poverty	38
+13133	Georgia	Greene	pcnt_children_in_poverty	43
+13135	Georgia	Gwinnett	pcnt_children_in_poverty	22
+13137	Georgia	Habersham	pcnt_children_in_poverty	28
+13139	Georgia	Hall	pcnt_children_in_poverty	26
+13141	Georgia	Hancock	pcnt_children_in_poverty	43
+13143	Georgia	Haralson	pcnt_children_in_poverty	29
+13145	Georgia	Harris	pcnt_children_in_poverty	16
+13147	Georgia	Hart	pcnt_children_in_poverty	30
+13149	Georgia	Heard	pcnt_children_in_poverty	39
+13151	Georgia	Henry	pcnt_children_in_poverty	21
+13153	Georgia	Houston	pcnt_children_in_poverty	21
+13155	Georgia	Irwin	pcnt_children_in_poverty	35
+13157	Georgia	Jackson	pcnt_children_in_poverty	21
+13159	Georgia	Jasper	pcnt_children_in_poverty	31
+13161	Georgia	Jeff Davis	pcnt_children_in_poverty	36
+13163	Georgia	Jefferson	pcnt_children_in_poverty	42
+13165	Georgia	Jenkins	pcnt_children_in_poverty	54
+13167	Georgia	Johnson	pcnt_children_in_poverty	37
+13169	Georgia	Jones	pcnt_children_in_poverty	22
+13171	Georgia	Lamar	pcnt_children_in_poverty	29
+13173	Georgia	Lanier	pcnt_children_in_poverty	36
+13175	Georgia	Laurens	pcnt_children_in_poverty	36
+13177	Georgia	Lee	pcnt_children_in_poverty	18
+13179	Georgia	Liberty	pcnt_children_in_poverty	22
+13181	Georgia	Lincoln	pcnt_children_in_poverty	33
+13183	Georgia	Long	pcnt_children_in_poverty	34
+13185	Georgia	Lowndes	pcnt_children_in_poverty	33
+13187	Georgia	Lumpkin	pcnt_children_in_poverty	27
+13189	Georgia	McDuffie	pcnt_children_in_poverty	36
+13191	Georgia	McIntosh	pcnt_children_in_poverty	36
+13193	Georgia	Macon	pcnt_children_in_poverty	37
+13195	Georgia	Madison	pcnt_children_in_poverty	29
+13197	Georgia	Marion	pcnt_children_in_poverty	37
+13199	Georgia	Meriwether	pcnt_children_in_poverty	36
+13201	Georgia	Miller	pcnt_children_in_poverty	37
+13205	Georgia	Mitchell	pcnt_children_in_poverty	39
+13207	Georgia	Monroe	pcnt_children_in_poverty	22
+13209	Georgia	Montgomery	pcnt_children_in_poverty	35
+13211	Georgia	Morgan	pcnt_children_in_poverty	25
+13213	Georgia	Murray	pcnt_children_in_poverty	29
+13215	Georgia	Muscogee	pcnt_children_in_poverty	30
+13217	Georgia	Newton	pcnt_children_in_poverty	26
+13219	Georgia	Oconee	pcnt_children_in_poverty	12
+13221	Georgia	Oglethorpe	pcnt_children_in_poverty	25
+13223	Georgia	Paulding	pcnt_children_in_poverty	16
+13225	Georgia	Peach	pcnt_children_in_poverty	33
+13227	Georgia	Pickens	pcnt_children_in_poverty	27
+13229	Georgia	Pierce	pcnt_children_in_poverty	32
+13231	Georgia	Pike	pcnt_children_in_poverty	20
+13233	Georgia	Polk	pcnt_children_in_poverty	33
+13235	Georgia	Pulaski	pcnt_children_in_poverty	31
+13237	Georgia	Putnam	pcnt_children_in_poverty	33
+13239	Georgia	Quitman	pcnt_children_in_poverty	44
+13241	Georgia	Rabun	pcnt_children_in_poverty	33
+13243	Georgia	Randolph	pcnt_children_in_poverty	43
+13245	Georgia	Richmond	pcnt_children_in_poverty	36
+13247	Georgia	Rockdale	pcnt_children_in_poverty	25
+13249	Georgia	Schley	pcnt_children_in_poverty	26
+13251	Georgia	Screven	pcnt_children_in_poverty	39
+13253	Georgia	Seminole	pcnt_children_in_poverty	45
+13255	Georgia	Spalding	pcnt_children_in_poverty	35
+13257	Georgia	Stephens	pcnt_children_in_poverty	34
+13259	Georgia	Stewart	pcnt_children_in_poverty	45
+13261	Georgia	Sumter	pcnt_children_in_poverty	41
+13263	Georgia	Talbot	pcnt_children_in_poverty	37
+13265	Georgia	Taliaferro	pcnt_children_in_poverty	50
+13267	Georgia	Tattnall	pcnt_children_in_poverty	44
+13269	Georgia	Taylor	pcnt_children_in_poverty	36
+13271	Georgia	Telfair	pcnt_children_in_poverty	44
+13273	Georgia	Terrell	pcnt_children_in_poverty	48
+13275	Georgia	Thomas	pcnt_children_in_poverty	34
+13277	Georgia	Tift	pcnt_children_in_poverty	38
+13279	Georgia	Toombs	pcnt_children_in_poverty	39
+13281	Georgia	Towns	pcnt_children_in_poverty	33
+13283	Georgia	Treutlen	pcnt_children_in_poverty	41
+13285	Georgia	Troup	pcnt_children_in_poverty	32
+13287	Georgia	Turner	pcnt_children_in_poverty	44
+13289	Georgia	Twiggs	pcnt_children_in_poverty	34
+13291	Georgia	Union	pcnt_children_in_poverty	31
+13293	Georgia	Upson	pcnt_children_in_poverty	32
+13295	Georgia	Walker	pcnt_children_in_poverty	27
+13297	Georgia	Walton	pcnt_children_in_poverty	23
+13299	Georgia	Ware	pcnt_children_in_poverty	36
+13301	Georgia	Warren	pcnt_children_in_poverty	40
+13303	Georgia	Washington	pcnt_children_in_poverty	34
+13305	Georgia	Wayne	pcnt_children_in_poverty	34
+13307	Georgia	Webster	pcnt_children_in_poverty	34
+13309	Georgia	Wheeler	pcnt_children_in_poverty	41
+13311	Georgia	White	pcnt_children_in_poverty	28
+13313	Georgia	Whitfield	pcnt_children_in_poverty	25
+13315	Georgia	Wilcox	pcnt_children_in_poverty	40
+13317	Georgia	Wilkes	pcnt_children_in_poverty	36
+13319	Georgia	Wilkinson	pcnt_children_in_poverty	31
+13321	Georgia	Worth	pcnt_children_in_poverty	37
+15001	Hawaii	Hawaii	pcnt_children_in_poverty	30
+15003	Hawaii	Honolulu	pcnt_children_in_poverty	14
+15005	Hawaii	Kalawao	pcnt_children_in_poverty	
+15007	Hawaii	Kauai	pcnt_children_in_poverty	18
+15009	Hawaii	Maui	pcnt_children_in_poverty	18
+16001	Idaho	Ada	pcnt_children_in_poverty	16
+16003	Idaho	Adams	pcnt_children_in_poverty	27
+16005	Idaho	Bannock	pcnt_children_in_poverty	24
+16007	Idaho	Bear Lake	pcnt_children_in_poverty	20
+16009	Idaho	Benewah	pcnt_children_in_poverty	24
+16011	Idaho	Bingham	pcnt_children_in_poverty	22
+16013	Idaho	Blaine	pcnt_children_in_poverty	16
+16015	Idaho	Boise	pcnt_children_in_poverty	22
+16017	Idaho	Bonner	pcnt_children_in_poverty	24
+16019	Idaho	Bonneville	pcnt_children_in_poverty	19
+16021	Idaho	Boundary	pcnt_children_in_poverty	28
+16023	Idaho	Butte	pcnt_children_in_poverty	22
+16025	Idaho	Camas	pcnt_children_in_poverty	19
+16027	Idaho	Canyon	pcnt_children_in_poverty	27
+16029	Idaho	Caribou	pcnt_children_in_poverty	17
+16031	Idaho	Cassia	pcnt_children_in_poverty	24
+16033	Idaho	Clark	pcnt_children_in_poverty	28
+16035	Idaho	Clearwater	pcnt_children_in_poverty	28
+16037	Idaho	Custer	pcnt_children_in_poverty	20
+16039	Idaho	Elmore	pcnt_children_in_poverty	22
+16041	Idaho	Franklin	pcnt_children_in_poverty	17
+16043	Idaho	Fremont	pcnt_children_in_poverty	26
+16045	Idaho	Gem	pcnt_children_in_poverty	27
+16047	Idaho	Gooding	pcnt_children_in_poverty	27
+16049	Idaho	Idaho	pcnt_children_in_poverty	26
+16051	Idaho	Jefferson	pcnt_children_in_poverty	19
+16053	Idaho	Jerome	pcnt_children_in_poverty	27
+16055	Idaho	Kootenai	pcnt_children_in_poverty	20
+16057	Idaho	Latah	pcnt_children_in_poverty	17
+16059	Idaho	Lemhi	pcnt_children_in_poverty	29
+16061	Idaho	Lewis	pcnt_children_in_poverty	28
+16063	Idaho	Lincoln	pcnt_children_in_poverty	25
+16065	Idaho	Madison	pcnt_children_in_poverty	26
+16067	Idaho	Minidoka	pcnt_children_in_poverty	25
+16069	Idaho	Nez Perce	pcnt_children_in_poverty	19
+16071	Idaho	Oneida	pcnt_children_in_poverty	20
+16073	Idaho	Owyhee	pcnt_children_in_poverty	36
+16075	Idaho	Payette	pcnt_children_in_poverty	27
+16077	Idaho	Power	pcnt_children_in_poverty	26
+16079	Idaho	Shoshone	pcnt_children_in_poverty	29
+16081	Idaho	Teton	pcnt_children_in_poverty	21
+16083	Idaho	Twin Falls	pcnt_children_in_poverty	23
+16085	Idaho	Valley	pcnt_children_in_poverty	21
+16087	Idaho	Washington	pcnt_children_in_poverty	28
+17001	Illinois	Adams	pcnt_children_in_poverty	23
+17003	Illinois	Alexander	pcnt_children_in_poverty	48
+17005	Illinois	Bond	pcnt_children_in_poverty	19
+17007	Illinois	Boone	pcnt_children_in_poverty	15
+17009	Illinois	Brown	pcnt_children_in_poverty	14
+17011	Illinois	Bureau	pcnt_children_in_poverty	17
+17013	Illinois	Calhoun	pcnt_children_in_poverty	18
+17015	Illinois	Carroll	pcnt_children_in_poverty	24
+17017	Illinois	Cass	pcnt_children_in_poverty	24
+17019	Illinois	Champaign	pcnt_children_in_poverty	21
+17021	Illinois	Christian	pcnt_children_in_poverty	20
+17023	Illinois	Clark	pcnt_children_in_poverty	20
+17025	Illinois	Clay	pcnt_children_in_poverty	23
+17027	Illinois	Clinton	pcnt_children_in_poverty	13
+17029	Illinois	Coles	pcnt_children_in_poverty	21
+17031	Illinois	Cook	pcnt_children_in_poverty	27
+17033	Illinois	Crawford	pcnt_children_in_poverty	22
+17035	Illinois	Cumberland	pcnt_children_in_poverty	19
+17037	Illinois	DeKalb	pcnt_children_in_poverty	17
+17039	Illinois	De Witt	pcnt_children_in_poverty	18
+17041	Illinois	Douglas	pcnt_children_in_poverty	16
+17043	Illinois	DuPage	pcnt_children_in_poverty	11
+17045	Illinois	Edgar	pcnt_children_in_poverty	22
+17047	Illinois	Edwards	pcnt_children_in_poverty	17
+17049	Illinois	Effingham	pcnt_children_in_poverty	16
+17051	Illinois	Fayette	pcnt_children_in_poverty	28
+17053	Illinois	Ford	pcnt_children_in_poverty	17
+17055	Illinois	Franklin	pcnt_children_in_poverty	28
+17057	Illinois	Fulton	pcnt_children_in_poverty	20
+17059	Illinois	Gallatin	pcnt_children_in_poverty	28
+17061	Illinois	Greene	pcnt_children_in_poverty	22
+17063	Illinois	Grundy	pcnt_children_in_poverty	10
+17065	Illinois	Hamilton	pcnt_children_in_poverty	25
+17067	Illinois	Hancock	pcnt_children_in_poverty	19
+17069	Illinois	Hardin	pcnt_children_in_poverty	32
+17071	Illinois	Henderson	pcnt_children_in_poverty	21
+17073	Illinois	Henry	pcnt_children_in_poverty	16
+17075	Illinois	Iroquois	pcnt_children_in_poverty	21
+17077	Illinois	Jackson	pcnt_children_in_poverty	34
+17079	Illinois	Jasper	pcnt_children_in_poverty	16
+17081	Illinois	Jefferson	pcnt_children_in_poverty	28
+17083	Illinois	Jersey	pcnt_children_in_poverty	15
+17085	Illinois	Jo Daviess	pcnt_children_in_poverty	16
+17087	Illinois	Johnson	pcnt_children_in_poverty	21
+17089	Illinois	Kane	pcnt_children_in_poverty	19
+17091	Illinois	Kankakee	pcnt_children_in_poverty	24
+17093	Illinois	Kendall	pcnt_children_in_poverty	7
+17095	Illinois	Knox	pcnt_children_in_poverty	30
+17097	Illinois	Lake	pcnt_children_in_poverty	16
+17099	Illinois	LaSalle	pcnt_children_in_poverty	18
+17101	Illinois	Lawrence	pcnt_children_in_poverty	21
+17103	Illinois	Lee	pcnt_children_in_poverty	16
+17105	Illinois	Livingston	pcnt_children_in_poverty	17
+17107	Illinois	Logan	pcnt_children_in_poverty	19
+17109	Illinois	McDonough	pcnt_children_in_poverty	23
+17111	Illinois	McHenry	pcnt_children_in_poverty	10
+17113	Illinois	McLean	pcnt_children_in_poverty	14
+17115	Illinois	Macon	pcnt_children_in_poverty	22
+17117	Illinois	Macoupin	pcnt_children_in_poverty	20
+17119	Illinois	Madison	pcnt_children_in_poverty	20
+17121	Illinois	Marion	pcnt_children_in_poverty	29
+17123	Illinois	Marshall	pcnt_children_in_poverty	17
+17125	Illinois	Mason	pcnt_children_in_poverty	21
+17127	Illinois	Massac	pcnt_children_in_poverty	28
+17129	Illinois	Menard	pcnt_children_in_poverty	15
+17131	Illinois	Mercer	pcnt_children_in_poverty	14
+17133	Illinois	Monroe	pcnt_children_in_poverty	6
+17135	Illinois	Montgomery	pcnt_children_in_poverty	22
+17137	Illinois	Morgan	pcnt_children_in_poverty	22
+17139	Illinois	Moultrie	pcnt_children_in_poverty	18
+17141	Illinois	Ogle	pcnt_children_in_poverty	15
+17143	Illinois	Peoria	pcnt_children_in_poverty	29
+17145	Illinois	Perry	pcnt_children_in_poverty	24
+17147	Illinois	Piatt	pcnt_children_in_poverty	10
+17149	Illinois	Pike	pcnt_children_in_poverty	23
+17151	Illinois	Pope	pcnt_children_in_poverty	28
+17153	Illinois	Pulaski	pcnt_children_in_poverty	35
+17155	Illinois	Putnam	pcnt_children_in_poverty	13
+17157	Illinois	Randolph	pcnt_children_in_poverty	22
+17159	Illinois	Richland	pcnt_children_in_poverty	22
+17161	Illinois	Rock Island	pcnt_children_in_poverty	22
+17163	Illinois	St. Clair	pcnt_children_in_poverty	31
+17165	Illinois	Saline	pcnt_children_in_poverty	33
+17167	Illinois	Sangamon	pcnt_children_in_poverty	25
+17169	Illinois	Schuyler	pcnt_children_in_poverty	17
+17171	Illinois	Scott	pcnt_children_in_poverty	16
+17173	Illinois	Shelby	pcnt_children_in_poverty	17
+17175	Illinois	Stark	pcnt_children_in_poverty	16
+17177	Illinois	Stephenson	pcnt_children_in_poverty	24
+17179	Illinois	Tazewell	pcnt_children_in_poverty	15
+17181	Illinois	Union	pcnt_children_in_poverty	28
+17183	Illinois	Vermilion	pcnt_children_in_poverty	31
+17185	Illinois	Wabash	pcnt_children_in_poverty	21
+17187	Illinois	Warren	pcnt_children_in_poverty	21
+17189	Illinois	Washington	pcnt_children_in_poverty	13
+17191	Illinois	Wayne	pcnt_children_in_poverty	21
+17193	Illinois	White	pcnt_children_in_poverty	23
+17195	Illinois	Whiteside	pcnt_children_in_poverty	21
+17197	Illinois	Will	pcnt_children_in_poverty	11
+17199	Illinois	Williamson	pcnt_children_in_poverty	23
+17201	Illinois	Winnebago	pcnt_children_in_poverty	28
+17203	Illinois	Woodford	pcnt_children_in_poverty	9
+18001	Indiana	Adams	pcnt_children_in_poverty	28
+18003	Indiana	Allen	pcnt_children_in_poverty	25
+18005	Indiana	Bartholomew	pcnt_children_in_poverty	20
+18007	Indiana	Benton	pcnt_children_in_poverty	18
+18009	Indiana	Blackford	pcnt_children_in_poverty	25
+18011	Indiana	Boone	pcnt_children_in_poverty	9
+18013	Indiana	Brown	pcnt_children_in_poverty	22
+18015	Indiana	Carroll	pcnt_children_in_poverty	17
+18017	Indiana	Cass	pcnt_children_in_poverty	22
+18019	Indiana	Clark	pcnt_children_in_poverty	19
+18021	Indiana	Clay	pcnt_children_in_poverty	21
+18023	Indiana	Clinton	pcnt_children_in_poverty	24
+18025	Indiana	Crawford	pcnt_children_in_poverty	30
+18027	Indiana	Daviess	pcnt_children_in_poverty	23
+18029	Indiana	Dearborn	pcnt_children_in_poverty	14
+18031	Indiana	Decatur	pcnt_children_in_poverty	22
+18033	Indiana	DeKalb	pcnt_children_in_poverty	18
+18035	Indiana	Delaware	pcnt_children_in_poverty	26
+18037	Indiana	Dubois	pcnt_children_in_poverty	10
+18039	Indiana	Elkhart	pcnt_children_in_poverty	27
+18041	Indiana	Fayette	pcnt_children_in_poverty	31
+18043	Indiana	Floyd	pcnt_children_in_poverty	18
+18045	Indiana	Fountain	pcnt_children_in_poverty	18
+18047	Indiana	Franklin	pcnt_children_in_poverty	16
+18049	Indiana	Fulton	pcnt_children_in_poverty	23
+18051	Indiana	Gibson	pcnt_children_in_poverty	15
+18053	Indiana	Grant	pcnt_children_in_poverty	26
+18055	Indiana	Greene	pcnt_children_in_poverty	21
+18057	Indiana	Hamilton	pcnt_children_in_poverty	6
+18059	Indiana	Hancock	pcnt_children_in_poverty	10
+18061	Indiana	Harrison	pcnt_children_in_poverty	17
+18063	Indiana	Hendricks	pcnt_children_in_poverty	7
+18065	Indiana	Henry	pcnt_children_in_poverty	24
+18067	Indiana	Howard	pcnt_children_in_poverty	25
+18069	Indiana	Huntington	pcnt_children_in_poverty	18
+18071	Indiana	Jackson	pcnt_children_in_poverty	20
+18073	Indiana	Jasper	pcnt_children_in_poverty	15
+18075	Indiana	Jay	pcnt_children_in_poverty	28
+18077	Indiana	Jefferson	pcnt_children_in_poverty	22
+18079	Indiana	Jennings	pcnt_children_in_poverty	22
+18081	Indiana	Johnson	pcnt_children_in_poverty	13
+18083	Indiana	Knox	pcnt_children_in_poverty	27
+18085	Indiana	Kosciusko	pcnt_children_in_poverty	16
+18087	Indiana	LaGrange	pcnt_children_in_poverty	21
+18089	Indiana	Lake	pcnt_children_in_poverty	30
+18091	Indiana	LaPorte	pcnt_children_in_poverty	26
+18093	Indiana	Lawrence	pcnt_children_in_poverty	23
+18095	Indiana	Madison	pcnt_children_in_poverty	29
+18097	Indiana	Marion	pcnt_children_in_poverty	32
+18099	Indiana	Marshall	pcnt_children_in_poverty	18
+18101	Indiana	Martin	pcnt_children_in_poverty	20
+18103	Indiana	Miami	pcnt_children_in_poverty	23
+18105	Indiana	Monroe	pcnt_children_in_poverty	18
+18107	Indiana	Montgomery	pcnt_children_in_poverty	24
+18109	Indiana	Morgan	pcnt_children_in_poverty	17
+18111	Indiana	Newton	pcnt_children_in_poverty	23
+18113	Indiana	Noble	pcnt_children_in_poverty	19
+18115	Indiana	Ohio	pcnt_children_in_poverty	18
+18117	Indiana	Orange	pcnt_children_in_poverty	26
+18119	Indiana	Owen	pcnt_children_in_poverty	25
+18121	Indiana	Parke	pcnt_children_in_poverty	28
+18123	Indiana	Perry	pcnt_children_in_poverty	18
+18125	Indiana	Pike	pcnt_children_in_poverty	17
+18127	Indiana	Porter	pcnt_children_in_poverty	14
+18129	Indiana	Posey	pcnt_children_in_poverty	17
+18131	Indiana	Pulaski	pcnt_children_in_poverty	20
+18133	Indiana	Putnam	pcnt_children_in_poverty	18
+18135	Indiana	Randolph	pcnt_children_in_poverty	27
+18137	Indiana	Ripley	pcnt_children_in_poverty	17
+18139	Indiana	Rush	pcnt_children_in_poverty	21
+18141	Indiana	St. Joseph	pcnt_children_in_poverty	30
+18143	Indiana	Scott	pcnt_children_in_poverty	34
+18145	Indiana	Shelby	pcnt_children_in_poverty	19
+18147	Indiana	Spencer	pcnt_children_in_poverty	15
+18149	Indiana	Starke	pcnt_children_in_poverty	25
+18151	Indiana	Steuben	pcnt_children_in_poverty	21
+18153	Indiana	Sullivan	pcnt_children_in_poverty	23
+18155	Indiana	Switzerland	pcnt_children_in_poverty	29
+18157	Indiana	Tippecanoe	pcnt_children_in_poverty	21
+18159	Indiana	Tipton	pcnt_children_in_poverty	14
+18161	Indiana	Union	pcnt_children_in_poverty	23
+18163	Indiana	Vanderburgh	pcnt_children_in_poverty	22
+18165	Indiana	Vermillion	pcnt_children_in_poverty	20
+18167	Indiana	Vigo	pcnt_children_in_poverty	25
+18169	Indiana	Wabash	pcnt_children_in_poverty	23
+18171	Indiana	Warren	pcnt_children_in_poverty	15
+18173	Indiana	Warrick	pcnt_children_in_poverty	12
+18175	Indiana	Washington	pcnt_children_in_poverty	24
+18177	Indiana	Wayne	pcnt_children_in_poverty	34
+18179	Indiana	Wells	pcnt_children_in_poverty	16
+18181	Indiana	White	pcnt_children_in_poverty	19
+18183	Indiana	Whitley	pcnt_children_in_poverty	14
+19001	Iowa	Adair	pcnt_children_in_poverty	15
+19003	Iowa	Adams	pcnt_children_in_poverty	22
+19005	Iowa	Allamakee	pcnt_children_in_poverty	23
+19007	Iowa	Appanoose	pcnt_children_in_poverty	25
+19009	Iowa	Audubon	pcnt_children_in_poverty	16
+19011	Iowa	Benton	pcnt_children_in_poverty	12
+19013	Iowa	Black Hawk	pcnt_children_in_poverty	21
+19015	Iowa	Boone	pcnt_children_in_poverty	13
+19017	Iowa	Bremer	pcnt_children_in_poverty	8
+19019	Iowa	Buchanan	pcnt_children_in_poverty	18
+19021	Iowa	Buena Vista	pcnt_children_in_poverty	17
+19023	Iowa	Butler	pcnt_children_in_poverty	14
+19025	Iowa	Calhoun	pcnt_children_in_poverty	17
+19027	Iowa	Carroll	pcnt_children_in_poverty	12
+19029	Iowa	Cass	pcnt_children_in_poverty	21
+19031	Iowa	Cedar	pcnt_children_in_poverty	11
+19033	Iowa	Cerro Gordo	pcnt_children_in_poverty	18
+19035	Iowa	Cherokee	pcnt_children_in_poverty	16
+19037	Iowa	Chickasaw	pcnt_children_in_poverty	14
+19039	Iowa	Clarke	pcnt_children_in_poverty	19
+19041	Iowa	Clay	pcnt_children_in_poverty	17
+19043	Iowa	Clayton	pcnt_children_in_poverty	21
+19045	Iowa	Clinton	pcnt_children_in_poverty	19
+19047	Iowa	Crawford	pcnt_children_in_poverty	19
+19049	Iowa	Dallas	pcnt_children_in_poverty	8
+19051	Iowa	Davis	pcnt_children_in_poverty	28
+19053	Iowa	Decatur	pcnt_children_in_poverty	30
+19055	Iowa	Delaware	pcnt_children_in_poverty	15
+19057	Iowa	Des Moines	pcnt_children_in_poverty	24
+19059	Iowa	Dickinson	pcnt_children_in_poverty	12
+19061	Iowa	Dubuque	pcnt_children_in_poverty	13
+19063	Iowa	Emmet	pcnt_children_in_poverty	18
+19065	Iowa	Fayette	pcnt_children_in_poverty	19
+19067	Iowa	Floyd	pcnt_children_in_poverty	18
+19069	Iowa	Franklin	pcnt_children_in_poverty	19
+19071	Iowa	Fremont	pcnt_children_in_poverty	18
+19073	Iowa	Greene	pcnt_children_in_poverty	22
+19075	Iowa	Grundy	pcnt_children_in_poverty	8
+19077	Iowa	Guthrie	pcnt_children_in_poverty	14
+19079	Iowa	Hamilton	pcnt_children_in_poverty	16
+19081	Iowa	Hancock	pcnt_children_in_poverty	14
+19083	Iowa	Hardin	pcnt_children_in_poverty	18
+19085	Iowa	Harrison	pcnt_children_in_poverty	14
+19087	Iowa	Henry	pcnt_children_in_poverty	20
+19089	Iowa	Howard	pcnt_children_in_poverty	20
+19091	Iowa	Humboldt	pcnt_children_in_poverty	16
+19093	Iowa	Ida	pcnt_children_in_poverty	17
+19095	Iowa	Iowa	pcnt_children_in_poverty	9
+19097	Iowa	Jackson	pcnt_children_in_poverty	16
+19099	Iowa	Jasper	pcnt_children_in_poverty	14
+19101	Iowa	Jefferson	pcnt_children_in_poverty	23
+19103	Iowa	Johnson	pcnt_children_in_poverty	16
+19105	Iowa	Jones	pcnt_children_in_poverty	14
+19107	Iowa	Keokuk	pcnt_children_in_poverty	18
+19109	Iowa	Kossuth	pcnt_children_in_poverty	15
+19111	Iowa	Lee	pcnt_children_in_poverty	24
+19113	Iowa	Linn	pcnt_children_in_poverty	14
+19115	Iowa	Louisa	pcnt_children_in_poverty	18
+19117	Iowa	Lucas	pcnt_children_in_poverty	26
+19119	Iowa	Lyon	pcnt_children_in_poverty	13
+19121	Iowa	Madison	pcnt_children_in_poverty	11
+19123	Iowa	Mahaska	pcnt_children_in_poverty	18
+19125	Iowa	Marion	pcnt_children_in_poverty	12
+19127	Iowa	Marshall	pcnt_children_in_poverty	20
+19129	Iowa	Mills	pcnt_children_in_poverty	14
+19131	Iowa	Mitchell	pcnt_children_in_poverty	16
+19133	Iowa	Monona	pcnt_children_in_poverty	20
+19135	Iowa	Monroe	pcnt_children_in_poverty	18
+19137	Iowa	Montgomery	pcnt_children_in_poverty	21
+19139	Iowa	Muscatine	pcnt_children_in_poverty	21
+19141	Iowa	O'Brien	pcnt_children_in_poverty	13
+19143	Iowa	Osceola	pcnt_children_in_poverty	15
+19145	Iowa	Page	pcnt_children_in_poverty	25
+19147	Iowa	Palo Alto	pcnt_children_in_poverty	15
+19149	Iowa	Plymouth	pcnt_children_in_poverty	10
+19151	Iowa	Pocahontas	pcnt_children_in_poverty	19
+19153	Iowa	Polk	pcnt_children_in_poverty	18
+19155	Iowa	Pottawattamie	pcnt_children_in_poverty	21
+19157	Iowa	Poweshiek	pcnt_children_in_poverty	15
+19159	Iowa	Ringgold	pcnt_children_in_poverty	27
+19161	Iowa	Sac	pcnt_children_in_poverty	15
+19163	Iowa	Scott	pcnt_children_in_poverty	21
+19165	Iowa	Shelby	pcnt_children_in_poverty	13
+19167	Iowa	Sioux	pcnt_children_in_poverty	11
+19169	Iowa	Story	pcnt_children_in_poverty	13
+19171	Iowa	Tama	pcnt_children_in_poverty	17
+19173	Iowa	Taylor	pcnt_children_in_poverty	19
+19175	Iowa	Union	pcnt_children_in_poverty	22
+19177	Iowa	Van Buren	pcnt_children_in_poverty	28
+19179	Iowa	Wapello	pcnt_children_in_poverty	26
+19181	Iowa	Warren	pcnt_children_in_poverty	9
+19183	Iowa	Washington	pcnt_children_in_poverty	18
+19185	Iowa	Wayne	pcnt_children_in_poverty	28
+19187	Iowa	Webster	pcnt_children_in_poverty	20
+19189	Iowa	Winnebago	pcnt_children_in_poverty	16
+19191	Iowa	Winneshiek	pcnt_children_in_poverty	13
+19193	Iowa	Woodbury	pcnt_children_in_poverty	24
+19195	Iowa	Worth	pcnt_children_in_poverty	15
+19197	Iowa	Wright	pcnt_children_in_poverty	18
+20001	Kansas	Allen	pcnt_children_in_poverty	28
+20003	Kansas	Anderson	pcnt_children_in_poverty	21
+20005	Kansas	Atchison	pcnt_children_in_poverty	21
+20007	Kansas	Barber	pcnt_children_in_poverty	18
+20009	Kansas	Barton	pcnt_children_in_poverty	23
+20011	Kansas	Bourbon	pcnt_children_in_poverty	30
+20013	Kansas	Brown	pcnt_children_in_poverty	25
+20015	Kansas	Butler	pcnt_children_in_poverty	14
+20017	Kansas	Chase	pcnt_children_in_poverty	18
+20019	Kansas	Chautauqua	pcnt_children_in_poverty	30
+20021	Kansas	Cherokee	pcnt_children_in_poverty	27
+20023	Kansas	Cheyenne	pcnt_children_in_poverty	19
+20025	Kansas	Clark	pcnt_children_in_poverty	17
+20027	Kansas	Clay	pcnt_children_in_poverty	18
+20029	Kansas	Cloud	pcnt_children_in_poverty	19
+20031	Kansas	Coffey	pcnt_children_in_poverty	15
+20033	Kansas	Comanche	pcnt_children_in_poverty	14
+20035	Kansas	Cowley	pcnt_children_in_poverty	25
+20037	Kansas	Crawford	pcnt_children_in_poverty	27
+20039	Kansas	Decatur	pcnt_children_in_poverty	20
+20041	Kansas	Dickinson	pcnt_children_in_poverty	18
+20043	Kansas	Doniphan	pcnt_children_in_poverty	20
+20045	Kansas	Douglas	pcnt_children_in_poverty	14
+20047	Kansas	Edwards	pcnt_children_in_poverty	20
+20049	Kansas	Elk	pcnt_children_in_poverty	26
+20051	Kansas	Ellis	pcnt_children_in_poverty	16
+20053	Kansas	Ellsworth	pcnt_children_in_poverty	15
+20055	Kansas	Finney	pcnt_children_in_poverty	24
+20057	Kansas	Ford	pcnt_children_in_poverty	20
+20059	Kansas	Franklin	pcnt_children_in_poverty	21
+20061	Kansas	Geary	pcnt_children_in_poverty	26
+20063	Kansas	Gove	pcnt_children_in_poverty	17
+20065	Kansas	Graham	pcnt_children_in_poverty	16
+20067	Kansas	Grant	pcnt_children_in_poverty	18
+20069	Kansas	Gray	pcnt_children_in_poverty	13
+20071	Kansas	Greeley	pcnt_children_in_poverty	15
+20073	Kansas	Greenwood	pcnt_children_in_poverty	24
+20075	Kansas	Hamilton	pcnt_children_in_poverty	21
+20077	Kansas	Harper	pcnt_children_in_poverty	23
+20079	Kansas	Harvey	pcnt_children_in_poverty	19
+20081	Kansas	Haskell	pcnt_children_in_poverty	17
+20083	Kansas	Hodgeman	pcnt_children_in_poverty	14
+20085	Kansas	Jackson	pcnt_children_in_poverty	16
+20087	Kansas	Jefferson	pcnt_children_in_poverty	13
+20089	Kansas	Jewell	pcnt_children_in_poverty	20
+20091	Kansas	Johnson	pcnt_children_in_poverty	8
+20093	Kansas	Kearny	pcnt_children_in_poverty	20
+20095	Kansas	Kingman	pcnt_children_in_poverty	18
+20097	Kansas	Kiowa	pcnt_children_in_poverty	20
+20099	Kansas	Labette	pcnt_children_in_poverty	30
+20101	Kansas	Lane	pcnt_children_in_poverty	15
+20103	Kansas	Leavenworth	pcnt_children_in_poverty	14
+20105	Kansas	Lincoln	pcnt_children_in_poverty	21
+20107	Kansas	Linn	pcnt_children_in_poverty	23
+20109	Kansas	Logan	pcnt_children_in_poverty	16
+20111	Kansas	Lyon	pcnt_children_in_poverty	25
+20113	Kansas	McPherson	pcnt_children_in_poverty	12
+20115	Kansas	Marion	pcnt_children_in_poverty	17
+20117	Kansas	Marshall	pcnt_children_in_poverty	17
+20119	Kansas	Meade	pcnt_children_in_poverty	14
+20121	Kansas	Miami	pcnt_children_in_poverty	12
+20123	Kansas	Mitchell	pcnt_children_in_poverty	17
+20125	Kansas	Montgomery	pcnt_children_in_poverty	26
+20127	Kansas	Morris	pcnt_children_in_poverty	17
+20129	Kansas	Morton	pcnt_children_in_poverty	21
+20131	Kansas	Nemaha	pcnt_children_in_poverty	11
+20133	Kansas	Neosho	pcnt_children_in_poverty	27
+20135	Kansas	Ness	pcnt_children_in_poverty	18
+20137	Kansas	Norton	pcnt_children_in_poverty	17
+20139	Kansas	Osage	pcnt_children_in_poverty	17
+20141	Kansas	Osborne	pcnt_children_in_poverty	22
+20143	Kansas	Ottawa	pcnt_children_in_poverty	14
+20145	Kansas	Pawnee	pcnt_children_in_poverty	18
+20147	Kansas	Phillips	pcnt_children_in_poverty	17
+20149	Kansas	Pottawatomie	pcnt_children_in_poverty	13
+20151	Kansas	Pratt	pcnt_children_in_poverty	18
+20153	Kansas	Rawlins	pcnt_children_in_poverty	16
+20155	Kansas	Reno	pcnt_children_in_poverty	19
+20157	Kansas	Republic	pcnt_children_in_poverty	19
+20159	Kansas	Rice	pcnt_children_in_poverty	21
+20161	Kansas	Riley	pcnt_children_in_poverty	17
+20163	Kansas	Rooks	pcnt_children_in_poverty	17
+20165	Kansas	Rush	pcnt_children_in_poverty	19
+20167	Kansas	Russell	pcnt_children_in_poverty	21
+20169	Kansas	Saline	pcnt_children_in_poverty	22
+20171	Kansas	Scott	pcnt_children_in_poverty	14
+20173	Kansas	Sedgwick	pcnt_children_in_poverty	21
+20175	Kansas	Seward	pcnt_children_in_poverty	22
+20177	Kansas	Shawnee	pcnt_children_in_poverty	20
+20179	Kansas	Sheridan	pcnt_children_in_poverty	19
+20181	Kansas	Sherman	pcnt_children_in_poverty	25
+20183	Kansas	Smith	pcnt_children_in_poverty	20
+20185	Kansas	Stafford	pcnt_children_in_poverty	20
+20187	Kansas	Stanton	pcnt_children_in_poverty	21
+20189	Kansas	Stevens	pcnt_children_in_poverty	17
+20191	Kansas	Sumner	pcnt_children_in_poverty	19
+20193	Kansas	Thomas	pcnt_children_in_poverty	14
+20195	Kansas	Trego	pcnt_children_in_poverty	14
+20197	Kansas	Wabaunsee	pcnt_children_in_poverty	13
+20199	Kansas	Wallace	pcnt_children_in_poverty	16
+20201	Kansas	Washington	pcnt_children_in_poverty	16
+20203	Kansas	Wichita	pcnt_children_in_poverty	21
+20205	Kansas	Wilson	pcnt_children_in_poverty	25
+20207	Kansas	Woodson	pcnt_children_in_poverty	28
+20209	Kansas	Wyandotte	pcnt_children_in_poverty	40
+21001	Kentucky	Adair	pcnt_children_in_poverty	38
+21003	Kentucky	Allen	pcnt_children_in_poverty	29
+21005	Kentucky	Anderson	pcnt_children_in_poverty	17
+21007	Kentucky	Ballard	pcnt_children_in_poverty	25
+21009	Kentucky	Barren	pcnt_children_in_poverty	31
+21011	Kentucky	Bath	pcnt_children_in_poverty	38
+21013	Kentucky	Bell	pcnt_children_in_poverty	51
+21015	Kentucky	Boone	pcnt_children_in_poverty	12
+21017	Kentucky	Bourbon	pcnt_children_in_poverty	29
+21019	Kentucky	Boyd	pcnt_children_in_poverty	30
+21021	Kentucky	Boyle	pcnt_children_in_poverty	25
+21023	Kentucky	Bracken	pcnt_children_in_poverty	26
+21025	Kentucky	Breathitt	pcnt_children_in_poverty	47
+21027	Kentucky	Breckinridge	pcnt_children_in_poverty	31
+21029	Kentucky	Bullitt	pcnt_children_in_poverty	17
+21031	Kentucky	Butler	pcnt_children_in_poverty	31
+21033	Kentucky	Caldwell	pcnt_children_in_poverty	31
+21035	Kentucky	Calloway	pcnt_children_in_poverty	24
+21037	Kentucky	Campbell	pcnt_children_in_poverty	18
+21039	Kentucky	Carlisle	pcnt_children_in_poverty	28
+21041	Kentucky	Carroll	pcnt_children_in_poverty	30
+21043	Kentucky	Carter	pcnt_children_in_poverty	33
+21045	Kentucky	Casey	pcnt_children_in_poverty	42
+21047	Kentucky	Christian	pcnt_children_in_poverty	34
+21049	Kentucky	Clark	pcnt_children_in_poverty	25
+21051	Kentucky	Clay	pcnt_children_in_poverty	47
+21053	Kentucky	Clinton	pcnt_children_in_poverty	39
+21055	Kentucky	Crittenden	pcnt_children_in_poverty	33
+21057	Kentucky	Cumberland	pcnt_children_in_poverty	41
+21059	Kentucky	Daviess	pcnt_children_in_poverty	24
+21061	Kentucky	Edmonson	pcnt_children_in_poverty	28
+21063	Kentucky	Elliott	pcnt_children_in_poverty	38
+21065	Kentucky	Estill	pcnt_children_in_poverty	41
+21067	Kentucky	Fayette	pcnt_children_in_poverty	21
+21069	Kentucky	Fleming	pcnt_children_in_poverty	32
+21071	Kentucky	Floyd	pcnt_children_in_poverty	38
+21073	Kentucky	Franklin	pcnt_children_in_poverty	22
+21075	Kentucky	Fulton	pcnt_children_in_poverty	45
+21077	Kentucky	Gallatin	pcnt_children_in_poverty	28
+21079	Kentucky	Garrard	pcnt_children_in_poverty	31
+21081	Kentucky	Grant	pcnt_children_in_poverty	25
+21083	Kentucky	Graves	pcnt_children_in_poverty	29
+21085	Kentucky	Grayson	pcnt_children_in_poverty	39
+21087	Kentucky	Green	pcnt_children_in_poverty	35
+21089	Kentucky	Greenup	pcnt_children_in_poverty	24
+21091	Kentucky	Hancock	pcnt_children_in_poverty	20
+21093	Kentucky	Hardin	pcnt_children_in_poverty	24
+21095	Kentucky	Harlan	pcnt_children_in_poverty	42
+21097	Kentucky	Harrison	pcnt_children_in_poverty	28
+21099	Kentucky	Hart	pcnt_children_in_poverty	40
+21101	Kentucky	Henderson	pcnt_children_in_poverty	24
+21103	Kentucky	Henry	pcnt_children_in_poverty	28
+21105	Kentucky	Hickman	pcnt_children_in_poverty	29
+21107	Kentucky	Hopkins	pcnt_children_in_poverty	29
+21109	Kentucky	Jackson	pcnt_children_in_poverty	42
+21111	Kentucky	Jefferson	pcnt_children_in_poverty	27
+21113	Kentucky	Jessamine	pcnt_children_in_poverty	25
+21115	Kentucky	Johnson	pcnt_children_in_poverty	36
+21117	Kentucky	Kenton	pcnt_children_in_poverty	23
+21119	Kentucky	Knott	pcnt_children_in_poverty	39
+21121	Kentucky	Knox	pcnt_children_in_poverty	45
+21123	Kentucky	Larue	pcnt_children_in_poverty	28
+21125	Kentucky	Laurel	pcnt_children_in_poverty	33
+21127	Kentucky	Lawrence	pcnt_children_in_poverty	35
+21129	Kentucky	Lee	pcnt_children_in_poverty	49
+21131	Kentucky	Leslie	pcnt_children_in_poverty	34
+21133	Kentucky	Letcher	pcnt_children_in_poverty	35
+21135	Kentucky	Lewis	pcnt_children_in_poverty	48
+21137	Kentucky	Lincoln	pcnt_children_in_poverty	37
+21139	Kentucky	Livingston	pcnt_children_in_poverty	25
+21141	Kentucky	Logan	pcnt_children_in_poverty	31
+21143	Kentucky	Lyon	pcnt_children_in_poverty	23
+21145	Kentucky	McCracken	pcnt_children_in_poverty	27
+21147	Kentucky	McCreary	pcnt_children_in_poverty	48
+21149	Kentucky	McLean	pcnt_children_in_poverty	29
+21151	Kentucky	Madison	pcnt_children_in_poverty	24
+21153	Kentucky	Magoffin	pcnt_children_in_poverty	41
+21155	Kentucky	Marion	pcnt_children_in_poverty	28
+21157	Kentucky	Marshall	pcnt_children_in_poverty	21
+21159	Kentucky	Martin	pcnt_children_in_poverty	47
+21161	Kentucky	Mason	pcnt_children_in_poverty	31
+21163	Kentucky	Meade	pcnt_children_in_poverty	22
+21165	Kentucky	Menifee	pcnt_children_in_poverty	47
+21167	Kentucky	Mercer	pcnt_children_in_poverty	25
+21169	Kentucky	Metcalfe	pcnt_children_in_poverty	38
+21171	Kentucky	Monroe	pcnt_children_in_poverty	37
+21173	Kentucky	Montgomery	pcnt_children_in_poverty	32
+21175	Kentucky	Morgan	pcnt_children_in_poverty	39
+21177	Kentucky	Muhlenberg	pcnt_children_in_poverty	30
+21179	Kentucky	Nelson	pcnt_children_in_poverty	23
+21181	Kentucky	Nicholas	pcnt_children_in_poverty	31
+21183	Kentucky	Ohio	pcnt_children_in_poverty	33
+21185	Kentucky	Oldham	pcnt_children_in_poverty	8
+21187	Kentucky	Owen	pcnt_children_in_poverty	28
+21189	Kentucky	Owsley	pcnt_children_in_poverty	57
+21191	Kentucky	Pendleton	pcnt_children_in_poverty	25
+21193	Kentucky	Perry	pcnt_children_in_poverty	32
+21195	Kentucky	Pike	pcnt_children_in_poverty	28
+21197	Kentucky	Powell	pcnt_children_in_poverty	41
+21199	Kentucky	Pulaski	pcnt_children_in_poverty	35
+21201	Kentucky	Robertson	pcnt_children_in_poverty	34
+21203	Kentucky	Rockcastle	pcnt_children_in_poverty	39
+21205	Kentucky	Rowan	pcnt_children_in_poverty	33
+21207	Kentucky	Russell	pcnt_children_in_poverty	35
+21209	Kentucky	Scott	pcnt_children_in_poverty	18
+21211	Kentucky	Shelby	pcnt_children_in_poverty	19
+21213	Kentucky	Simpson	pcnt_children_in_poverty	26
+21215	Kentucky	Spencer	pcnt_children_in_poverty	14
+21217	Kentucky	Taylor	pcnt_children_in_poverty	30
+21219	Kentucky	Todd	pcnt_children_in_poverty	34
+21221	Kentucky	Trigg	pcnt_children_in_poverty	27
+21223	Kentucky	Trimble	pcnt_children_in_poverty	24
+21225	Kentucky	Union	pcnt_children_in_poverty	27
+21227	Kentucky	Warren	pcnt_children_in_poverty	25
+21229	Kentucky	Washington	pcnt_children_in_poverty	26
+21231	Kentucky	Wayne	pcnt_children_in_poverty	48
+21233	Kentucky	Webster	pcnt_children_in_poverty	26
+21235	Kentucky	Whitley	pcnt_children_in_poverty	37
+21237	Kentucky	Wolfe	pcnt_children_in_poverty	49
+21239	Kentucky	Woodford	pcnt_children_in_poverty	17
+22001	Louisiana	Acadia	pcnt_children_in_poverty	28
+22003	Louisiana	Allen	pcnt_children_in_poverty	28
+22005	Louisiana	Ascension	pcnt_children_in_poverty	15
+22007	Louisiana	Assumption	pcnt_children_in_poverty	26
+22009	Louisiana	Avoyelles	pcnt_children_in_poverty	34
+22011	Louisiana	Beauregard	pcnt_children_in_poverty	24
+22013	Louisiana	Bienville	pcnt_children_in_poverty	38
+22015	Louisiana	Bossier	pcnt_children_in_poverty	21
+22017	Louisiana	Caddo	pcnt_children_in_poverty	33
+22019	Louisiana	Calcasieu	pcnt_children_in_poverty	26
+22021	Louisiana	Caldwell	pcnt_children_in_poverty	30
+22023	Louisiana	Cameron	pcnt_children_in_poverty	18
+22025	Louisiana	Catahoula	pcnt_children_in_poverty	37
+22027	Louisiana	Claiborne	pcnt_children_in_poverty	36
+22029	Louisiana	Concordia	pcnt_children_in_poverty	41
+22031	Louisiana	De Soto	pcnt_children_in_poverty	27
+22033	Louisiana	East Baton Rouge	pcnt_children_in_poverty	29
+22035	Louisiana	East Carroll	pcnt_children_in_poverty	54
+22037	Louisiana	East Feliciana	pcnt_children_in_poverty	28
+22039	Louisiana	Evangeline	pcnt_children_in_poverty	34
+22041	Louisiana	Franklin	pcnt_children_in_poverty	43
+22043	Louisiana	Grant	pcnt_children_in_poverty	28
+22045	Louisiana	Iberia	pcnt_children_in_poverty	30
+22047	Louisiana	Iberville	pcnt_children_in_poverty	30
+22049	Louisiana	Jackson	pcnt_children_in_poverty	29
+22051	Louisiana	Jefferson	pcnt_children_in_poverty	28
+22053	Louisiana	Jefferson Davis	pcnt_children_in_poverty	28
+22055	Louisiana	Lafayette	pcnt_children_in_poverty	21
+22057	Louisiana	Lafourche	pcnt_children_in_poverty	23
+22059	Louisiana	La Salle	pcnt_children_in_poverty	23
+22061	Louisiana	Lincoln	pcnt_children_in_poverty	32
+22063	Louisiana	Livingston	pcnt_children_in_poverty	17
+22065	Louisiana	Madison	pcnt_children_in_poverty	55
+22067	Louisiana	Morehouse	pcnt_children_in_poverty	41
+22069	Louisiana	Natchitoches	pcnt_children_in_poverty	40
+22071	Louisiana	Orleans	pcnt_children_in_poverty	42
+22073	Louisiana	Ouachita	pcnt_children_in_poverty	41
+22075	Louisiana	Plaquemines	pcnt_children_in_poverty	16
+22077	Louisiana	Pointe Coupee	pcnt_children_in_poverty	33
+22079	Louisiana	Rapides	pcnt_children_in_poverty	32
+22081	Louisiana	Red River	pcnt_children_in_poverty	37
+22083	Louisiana	Richland	pcnt_children_in_poverty	37
+22085	Louisiana	Sabine	pcnt_children_in_poverty	26
+22087	Louisiana	St. Bernard	pcnt_children_in_poverty	29
+22089	Louisiana	St. Charles	pcnt_children_in_poverty	18
+22091	Louisiana	St. Helena	pcnt_children_in_poverty	39
+22093	Louisiana	St. James	pcnt_children_in_poverty	28
+22095	Louisiana	St. John the Baptist	pcnt_children_in_poverty	25
+22097	Louisiana	St. Landry	pcnt_children_in_poverty	36
+22099	Louisiana	St. Martin	pcnt_children_in_poverty	33
+22101	Louisiana	St. Mary	pcnt_children_in_poverty	27
+22103	Louisiana	St. Tammany	pcnt_children_in_poverty	16
+22105	Louisiana	Tangipahoa	pcnt_children_in_poverty	35
+22107	Louisiana	Tensas	pcnt_children_in_poverty	49
+22109	Louisiana	Terrebonne	pcnt_children_in_poverty	28
+22111	Louisiana	Union	pcnt_children_in_poverty	38
+22113	Louisiana	Vermilion	pcnt_children_in_poverty	26
+22115	Louisiana	Vernon	pcnt_children_in_poverty	21
+22117	Louisiana	Washington	pcnt_children_in_poverty	40
+22119	Louisiana	Webster	pcnt_children_in_poverty	32
+22121	Louisiana	West Baton Rouge	pcnt_children_in_poverty	23
+22123	Louisiana	West Carroll	pcnt_children_in_poverty	34
+22125	Louisiana	West Feliciana	pcnt_children_in_poverty	20
+22127	Louisiana	Winn	pcnt_children_in_poverty	33
+23001	Maine	Androscoggin	pcnt_children_in_poverty	24
+23003	Maine	Aroostook	pcnt_children_in_poverty	27
+23005	Maine	Cumberland	pcnt_children_in_poverty	15
+23007	Maine	Franklin	pcnt_children_in_poverty	24
+23009	Maine	Hancock	pcnt_children_in_poverty	19
+23011	Maine	Kennebec	pcnt_children_in_poverty	18
+23013	Maine	Knox	pcnt_children_in_poverty	20
+23015	Maine	Lincoln	pcnt_children_in_poverty	20
+23017	Maine	Oxford	pcnt_children_in_poverty	24
+23019	Maine	Penobscot	pcnt_children_in_poverty	19
+23021	Maine	Piscataquis	pcnt_children_in_poverty	30
+23023	Maine	Sagadahoc	pcnt_children_in_poverty	18
+23025	Maine	Somerset	pcnt_children_in_poverty	27
+23027	Maine	Waldo	pcnt_children_in_poverty	22
+23029	Maine	Washington	pcnt_children_in_poverty	31
+23031	Maine	York	pcnt_children_in_poverty	14
+24001	Maryland	Allegany	pcnt_children_in_poverty	25
+24003	Maryland	Anne Arundel	pcnt_children_in_poverty	9
+24005	Maryland	Baltimore	pcnt_children_in_poverty	13
+24009	Maryland	Calvert	pcnt_children_in_poverty	9
+24011	Maryland	Caroline	pcnt_children_in_poverty	21
+24013	Maryland	Carroll	pcnt_children_in_poverty	7
+24015	Maryland	Cecil	pcnt_children_in_poverty	15
+24017	Maryland	Charles	pcnt_children_in_poverty	11
+24019	Maryland	Dorchester	pcnt_children_in_poverty	30
+24021	Maryland	Frederick	pcnt_children_in_poverty	9
+24023	Maryland	Garrett	pcnt_children_in_poverty	21
+24025	Maryland	Harford	pcnt_children_in_poverty	12
+24027	Maryland	Howard	pcnt_children_in_poverty	8
+24029	Maryland	Kent	pcnt_children_in_poverty	22
+24031	Maryland	Montgomery	pcnt_children_in_poverty	9
+24033	Maryland	Prince George's	pcnt_children_in_poverty	12
+24035	Maryland	Queen Anne's	pcnt_children_in_poverty	12
+24037	Maryland	St. Mary's	pcnt_children_in_poverty	12
+24039	Maryland	Somerset	pcnt_children_in_poverty	32
+24041	Maryland	Talbot	pcnt_children_in_poverty	17
+24043	Maryland	Washington	pcnt_children_in_poverty	18
+24045	Maryland	Wicomico	pcnt_children_in_poverty	24
+24047	Maryland	Worcester	pcnt_children_in_poverty	23
+24510	Maryland	Baltimore City	pcnt_children_in_poverty	36
+25001	Massachusetts	Barnstable	pcnt_children_in_poverty	15
+25003	Massachusetts	Berkshire	pcnt_children_in_poverty	20
+25005	Massachusetts	Bristol	pcnt_children_in_poverty	16
+25007	Massachusetts	Dukes	pcnt_children_in_poverty	14
+25009	Massachusetts	Essex	pcnt_children_in_poverty	17
+25011	Massachusetts	Franklin	pcnt_children_in_poverty	17
+25013	Massachusetts	Hampden	pcnt_children_in_poverty	25
+25015	Massachusetts	Hampshire	pcnt_children_in_poverty	12
+25017	Massachusetts	Middlesex	pcnt_children_in_poverty	9
+25019	Massachusetts	Nantucket	pcnt_children_in_poverty	10
+25021	Massachusetts	Norfolk	pcnt_children_in_poverty	7
+25023	Massachusetts	Plymouth	pcnt_children_in_poverty	11
+25025	Massachusetts	Suffolk	pcnt_children_in_poverty	32
+25027	Massachusetts	Worcester	pcnt_children_in_poverty	16
+26001	Michigan	Alcona	pcnt_children_in_poverty	33
+26003	Michigan	Alger	pcnt_children_in_poverty	23
+26005	Michigan	Allegan	pcnt_children_in_poverty	18
+26007	Michigan	Alpena	pcnt_children_in_poverty	27
+26009	Michigan	Antrim	pcnt_children_in_poverty	30
+26011	Michigan	Arenac	pcnt_children_in_poverty	32
+26013	Michigan	Baraga	pcnt_children_in_poverty	25
+26015	Michigan	Barry	pcnt_children_in_poverty	16
+26017	Michigan	Bay	pcnt_children_in_poverty	22
+26019	Michigan	Benzie	pcnt_children_in_poverty	21
+26021	Michigan	Berrien	pcnt_children_in_poverty	28
+26023	Michigan	Branch	pcnt_children_in_poverty	26
+26025	Michigan	Calhoun	pcnt_children_in_poverty	29
+26027	Michigan	Cass	pcnt_children_in_poverty	22
+26029	Michigan	Charlevoix	pcnt_children_in_poverty	19
+26031	Michigan	Cheboygan	pcnt_children_in_poverty	31
+26033	Michigan	Chippewa	pcnt_children_in_poverty	25
+26035	Michigan	Clare	pcnt_children_in_poverty	40
+26037	Michigan	Clinton	pcnt_children_in_poverty	13
+26039	Michigan	Crawford	pcnt_children_in_poverty	30
+26041	Michigan	Delta	pcnt_children_in_poverty	21
+26043	Michigan	Dickinson	pcnt_children_in_poverty	19
+26045	Michigan	Eaton	pcnt_children_in_poverty	17
+26047	Michigan	Emmet	pcnt_children_in_poverty	19
+26049	Michigan	Genesee	pcnt_children_in_poverty	31
+26051	Michigan	Gladwin	pcnt_children_in_poverty	36
+26053	Michigan	Gogebic	pcnt_children_in_poverty	31
+26055	Michigan	Grand Traverse	pcnt_children_in_poverty	19
+26057	Michigan	Gratiot	pcnt_children_in_poverty	28
+26059	Michigan	Hillsdale	pcnt_children_in_poverty	29
+26061	Michigan	Houghton	pcnt_children_in_poverty	21
+26063	Michigan	Huron	pcnt_children_in_poverty	23
+26065	Michigan	Ingham	pcnt_children_in_poverty	24
+26067	Michigan	Ionia	pcnt_children_in_poverty	23
+26069	Michigan	Iosco	pcnt_children_in_poverty	37
+26071	Michigan	Iron	pcnt_children_in_poverty	27
+26073	Michigan	Isabella	pcnt_children_in_poverty	24
+26075	Michigan	Jackson	pcnt_children_in_poverty	25
+26077	Michigan	Kalamazoo	pcnt_children_in_poverty	22
+26079	Michigan	Kalkaska	pcnt_children_in_poverty	30
+26081	Michigan	Kent	pcnt_children_in_poverty	20
+26083	Michigan	Keweenaw	pcnt_children_in_poverty	23
+26085	Michigan	Lake	pcnt_children_in_poverty	48
+26087	Michigan	Lapeer	pcnt_children_in_poverty	19
+26089	Michigan	Leelanau	pcnt_children_in_poverty	18
+26091	Michigan	Lenawee	pcnt_children_in_poverty	18
+26093	Michigan	Livingston	pcnt_children_in_poverty	9
+26095	Michigan	Luce	pcnt_children_in_poverty	30
+26097	Michigan	Mackinac	pcnt_children_in_poverty	24
+26099	Michigan	Macomb	pcnt_children_in_poverty	21
+26101	Michigan	Manistee	pcnt_children_in_poverty	27
+26103	Michigan	Marquette	pcnt_children_in_poverty	21
+26105	Michigan	Mason	pcnt_children_in_poverty	27
+26107	Michigan	Mecosta	pcnt_children_in_poverty	36
+26109	Michigan	Menominee	pcnt_children_in_poverty	26
+26111	Michigan	Midland	pcnt_children_in_poverty	18
+26113	Michigan	Missaukee	pcnt_children_in_poverty	29
+26115	Michigan	Monroe	pcnt_children_in_poverty	18
+26117	Michigan	Montcalm	pcnt_children_in_poverty	27
+26119	Michigan	Montmorency	pcnt_children_in_poverty	35
+26121	Michigan	Muskegon	pcnt_children_in_poverty	28
+26123	Michigan	Newaygo	pcnt_children_in_poverty	27
+26125	Michigan	Oakland	pcnt_children_in_poverty	15
+26127	Michigan	Oceana	pcnt_children_in_poverty	32
+26129	Michigan	Ogemaw	pcnt_children_in_poverty	38
+26131	Michigan	Ontonagon	pcnt_children_in_poverty	27
+26133	Michigan	Osceola	pcnt_children_in_poverty	28
+26135	Michigan	Oscoda	pcnt_children_in_poverty	33
+26137	Michigan	Otsego	pcnt_children_in_poverty	23
+26139	Michigan	Ottawa	pcnt_children_in_poverty	12
+26141	Michigan	Presque Isle	pcnt_children_in_poverty	26
+26143	Michigan	Roscommon	pcnt_children_in_poverty	36
+26145	Michigan	Saginaw	pcnt_children_in_poverty	31
+26147	Michigan	St. Clair	pcnt_children_in_poverty	22
+26149	Michigan	St. Joseph	pcnt_children_in_poverty	31
+26151	Michigan	Sanilac	pcnt_children_in_poverty	27
+26153	Michigan	Schoolcraft	pcnt_children_in_poverty	25
+26155	Michigan	Shiawassee	pcnt_children_in_poverty	22
+26157	Michigan	Tuscola	pcnt_children_in_poverty	25
+26159	Michigan	Van Buren	pcnt_children_in_poverty	32
+26161	Michigan	Washtenaw	pcnt_children_in_poverty	18
+26163	Michigan	Wayne	pcnt_children_in_poverty	38
+26165	Michigan	Wexford	pcnt_children_in_poverty	25
+27001	Minnesota	Aitkin	pcnt_children_in_poverty	23
+27003	Minnesota	Anoka	pcnt_children_in_poverty	11
+27005	Minnesota	Becker	pcnt_children_in_poverty	20
+27007	Minnesota	Beltrami	pcnt_children_in_poverty	30
+27009	Minnesota	Benton	pcnt_children_in_poverty	14
+27011	Minnesota	Big Stone	pcnt_children_in_poverty	21
+27013	Minnesota	Blue Earth	pcnt_children_in_poverty	17
+27015	Minnesota	Brown	pcnt_children_in_poverty	12
+27017	Minnesota	Carlton	pcnt_children_in_poverty	13
+27019	Minnesota	Carver	pcnt_children_in_poverty	6
+27021	Minnesota	Cass	pcnt_children_in_poverty	30
+27023	Minnesota	Chippewa	pcnt_children_in_poverty	16
+27025	Minnesota	Chisago	pcnt_children_in_poverty	9
+27027	Minnesota	Clay	pcnt_children_in_poverty	17
+27029	Minnesota	Clearwater	pcnt_children_in_poverty	30
+27031	Minnesota	Cook	pcnt_children_in_poverty	17
+27033	Minnesota	Cottonwood	pcnt_children_in_poverty	17
+27035	Minnesota	Crow Wing	pcnt_children_in_poverty	19
+27037	Minnesota	Dakota	pcnt_children_in_poverty	9
+27039	Minnesota	Dodge	pcnt_children_in_poverty	10
+27041	Minnesota	Douglas	pcnt_children_in_poverty	14
+27043	Minnesota	Faribault	pcnt_children_in_poverty	21
+27045	Minnesota	Fillmore	pcnt_children_in_poverty	18
+27047	Minnesota	Freeborn	pcnt_children_in_poverty	17
+27049	Minnesota	Goodhue	pcnt_children_in_poverty	13
+27051	Minnesota	Grant	pcnt_children_in_poverty	16
+27053	Minnesota	Hennepin	pcnt_children_in_poverty	18
+27055	Minnesota	Houston	pcnt_children_in_poverty	13
+27057	Minnesota	Hubbard	pcnt_children_in_poverty	23
+27059	Minnesota	Isanti	pcnt_children_in_poverty	13
+27061	Minnesota	Itasca	pcnt_children_in_poverty	21
+27063	Minnesota	Jackson	pcnt_children_in_poverty	17
+27065	Minnesota	Kanabec	pcnt_children_in_poverty	22
+27067	Minnesota	Kandiyohi	pcnt_children_in_poverty	19
+27069	Minnesota	Kittson	pcnt_children_in_poverty	16
+27071	Minnesota	Koochiching	pcnt_children_in_poverty	22
+27073	Minnesota	Lac qui Parle	pcnt_children_in_poverty	15
+27075	Minnesota	Lake	pcnt_children_in_poverty	17
+27077	Minnesota	Lake of the Woods	pcnt_children_in_poverty	18
+27079	Minnesota	Le Sueur	pcnt_children_in_poverty	11
+27081	Minnesota	Lincoln	pcnt_children_in_poverty	13
+27083	Minnesota	Lyon	pcnt_children_in_poverty	16
+27085	Minnesota	McLeod	pcnt_children_in_poverty	11
+27087	Minnesota	Mahnomen	pcnt_children_in_poverty	37
+27089	Minnesota	Marshall	pcnt_children_in_poverty	13
+27091	Minnesota	Martin	pcnt_children_in_poverty	19
+27093	Minnesota	Meeker	pcnt_children_in_poverty	13
+27095	Minnesota	Mille Lacs	pcnt_children_in_poverty	19
+27097	Minnesota	Morrison	pcnt_children_in_poverty	17
+27099	Minnesota	Mower	pcnt_children_in_poverty	20
+27101	Minnesota	Murray	pcnt_children_in_poverty	14
+27103	Minnesota	Nicollet	pcnt_children_in_poverty	12
+27105	Minnesota	Nobles	pcnt_children_in_poverty	21
+27107	Minnesota	Norman	pcnt_children_in_poverty	19
+27109	Minnesota	Olmsted	pcnt_children_in_poverty	11
+27111	Minnesota	Otter Tail	pcnt_children_in_poverty	16
+27113	Minnesota	Pennington	pcnt_children_in_poverty	17
+27115	Minnesota	Pine	pcnt_children_in_poverty	24
+27117	Minnesota	Pipestone	pcnt_children_in_poverty	18
+27119	Minnesota	Polk	pcnt_children_in_poverty	20
+27121	Minnesota	Pope	pcnt_children_in_poverty	14
+27123	Minnesota	Ramsey	pcnt_children_in_poverty	26
+27125	Minnesota	Red Lake	pcnt_children_in_poverty	16
+27127	Minnesota	Redwood	pcnt_children_in_poverty	15
+27129	Minnesota	Renville	pcnt_children_in_poverty	17
+27131	Minnesota	Rice	pcnt_children_in_poverty	14
+27133	Minnesota	Rock	pcnt_children_in_poverty	15
+27135	Minnesota	Roseau	pcnt_children_in_poverty	15
+27137	Minnesota	St. Louis	pcnt_children_in_poverty	21
+27139	Minnesota	Scott	pcnt_children_in_poverty	7
+27141	Minnesota	Sherburne	pcnt_children_in_poverty	9
+27143	Minnesota	Sibley	pcnt_children_in_poverty	17
+27145	Minnesota	Stearns	pcnt_children_in_poverty	13
+27147	Minnesota	Steele	pcnt_children_in_poverty	14
+27149	Minnesota	Stevens	pcnt_children_in_poverty	12
+27151	Minnesota	Swift	pcnt_children_in_poverty	15
+27153	Minnesota	Todd	pcnt_children_in_poverty	25
+27155	Minnesota	Traverse	pcnt_children_in_poverty	19
+27157	Minnesota	Wabasha	pcnt_children_in_poverty	13
+27159	Minnesota	Wadena	pcnt_children_in_poverty	26
+27161	Minnesota	Waseca	pcnt_children_in_poverty	14
+27163	Minnesota	Washington	pcnt_children_in_poverty	7
+27165	Minnesota	Watonwan	pcnt_children_in_poverty	18
+27167	Minnesota	Wilkin	pcnt_children_in_poverty	13
+27169	Minnesota	Winona	pcnt_children_in_poverty	15
+27171	Minnesota	Wright	pcnt_children_in_poverty	9
+27173	Minnesota	Yellow Medicine	pcnt_children_in_poverty	15
+28001	Mississippi	Adams	pcnt_children_in_poverty	51
+28003	Mississippi	Alcorn	pcnt_children_in_poverty	29
+28005	Mississippi	Amite	pcnt_children_in_poverty	33
+28007	Mississippi	Attala	pcnt_children_in_poverty	37
+28009	Mississippi	Benton	pcnt_children_in_poverty	40
+28011	Mississippi	Bolivar	pcnt_children_in_poverty	50
+28013	Mississippi	Calhoun	pcnt_children_in_poverty	31
+28015	Mississippi	Carroll	pcnt_children_in_poverty	28
+28017	Mississippi	Chickasaw	pcnt_children_in_poverty	31
+28019	Mississippi	Choctaw	pcnt_children_in_poverty	39
+28021	Mississippi	Claiborne	pcnt_children_in_poverty	53
+28023	Mississippi	Clarke	pcnt_children_in_poverty	35
+28025	Mississippi	Clay	pcnt_children_in_poverty	42
+28027	Mississippi	Coahoma	pcnt_children_in_poverty	52
+28029	Mississippi	Copiah	pcnt_children_in_poverty	36
+28031	Mississippi	Covington	pcnt_children_in_poverty	35
+28033	Mississippi	DeSoto	pcnt_children_in_poverty	16
+28035	Mississippi	Forrest	pcnt_children_in_poverty	34
+28037	Mississippi	Franklin	pcnt_children_in_poverty	33
+28039	Mississippi	George	pcnt_children_in_poverty	26
+28041	Mississippi	Greene	pcnt_children_in_poverty	25
+28043	Mississippi	Grenada	pcnt_children_in_poverty	31
+28045	Mississippi	Hancock	pcnt_children_in_poverty	32
+28047	Mississippi	Harrison	pcnt_children_in_poverty	31
+28049	Mississippi	Hinds	pcnt_children_in_poverty	37
+28051	Mississippi	Holmes	pcnt_children_in_poverty	53
+28053	Mississippi	Humphreys	pcnt_children_in_poverty	53
+28055	Mississippi	Issaquena	pcnt_children_in_poverty	54
+28057	Mississippi	Itawamba	pcnt_children_in_poverty	26
+28059	Mississippi	Jackson	pcnt_children_in_poverty	25
+28061	Mississippi	Jasper	pcnt_children_in_poverty	34
+28063	Mississippi	Jefferson	pcnt_children_in_poverty	46
+28065	Mississippi	Jefferson Davis	pcnt_children_in_poverty	43
+28067	Mississippi	Jones	pcnt_children_in_poverty	32
+28069	Mississippi	Kemper	pcnt_children_in_poverty	39
+28071	Mississippi	Lafayette	pcnt_children_in_poverty	23
+28073	Mississippi	Lamar	pcnt_children_in_poverty	22
+28075	Mississippi	Lauderdale	pcnt_children_in_poverty	34
+28077	Mississippi	Lawrence	pcnt_children_in_poverty	28
+28079	Mississippi	Leake	pcnt_children_in_poverty	43
+28081	Mississippi	Lee	pcnt_children_in_poverty	25
+28083	Mississippi	Leflore	pcnt_children_in_poverty	62
+28085	Mississippi	Lincoln	pcnt_children_in_poverty	36
+28087	Mississippi	Lowndes	pcnt_children_in_poverty	34
+28089	Mississippi	Madison	pcnt_children_in_poverty	19
+28091	Mississippi	Marion	pcnt_children_in_poverty	42
+28093	Mississippi	Marshall	pcnt_children_in_poverty	36
+28095	Mississippi	Monroe	pcnt_children_in_poverty	30
+28097	Mississippi	Montgomery	pcnt_children_in_poverty	43
+28099	Mississippi	Neshoba	pcnt_children_in_poverty	33
+28101	Mississippi	Newton	pcnt_children_in_poverty	31
+28103	Mississippi	Noxubee	pcnt_children_in_poverty	48
+28105	Mississippi	Oktibbeha	pcnt_children_in_poverty	32
+28107	Mississippi	Panola	pcnt_children_in_poverty	36
+28109	Mississippi	Pearl River	pcnt_children_in_poverty	34
+28111	Mississippi	Perry	pcnt_children_in_poverty	31
+28113	Mississippi	Pike	pcnt_children_in_poverty	42
+28115	Mississippi	Pontotoc	pcnt_children_in_poverty	25
+28117	Mississippi	Prentiss	pcnt_children_in_poverty	34
+28119	Mississippi	Quitman	pcnt_children_in_poverty	50
+28121	Mississippi	Rankin	pcnt_children_in_poverty	17
+28123	Mississippi	Scott	pcnt_children_in_poverty	35
+28125	Mississippi	Sharkey	pcnt_children_in_poverty	52
+28127	Mississippi	Simpson	pcnt_children_in_poverty	35
+28129	Mississippi	Smith	pcnt_children_in_poverty	29
+28131	Mississippi	Stone	pcnt_children_in_poverty	29
+28133	Mississippi	Sunflower	pcnt_children_in_poverty	50
+28135	Mississippi	Tallahatchie	pcnt_children_in_poverty	45
+28137	Mississippi	Tate	pcnt_children_in_poverty	27
+28139	Mississippi	Tippah	pcnt_children_in_poverty	29
+28141	Mississippi	Tishomingo	pcnt_children_in_poverty	27
+28143	Mississippi	Tunica	pcnt_children_in_poverty	46
+28145	Mississippi	Union	pcnt_children_in_poverty	27
+28147	Mississippi	Walthall	pcnt_children_in_poverty	38
+28149	Mississippi	Warren	pcnt_children_in_poverty	36
+28151	Mississippi	Washington	pcnt_children_in_poverty	55
+28153	Mississippi	Wayne	pcnt_children_in_poverty	47
+28155	Mississippi	Webster	pcnt_children_in_poverty	32
+28157	Mississippi	Wilkinson	pcnt_children_in_poverty	46
+28159	Mississippi	Winston	pcnt_children_in_poverty	33
+28161	Mississippi	Yalobusha	pcnt_children_in_poverty	37
+28163	Mississippi	Yazoo	pcnt_children_in_poverty	41
+29001	Missouri	Adair	pcnt_children_in_poverty	26
+29003	Missouri	Andrew	pcnt_children_in_poverty	14
+29005	Missouri	Atchison	pcnt_children_in_poverty	17
+29007	Missouri	Audrain	pcnt_children_in_poverty	28
+29009	Missouri	Barry	pcnt_children_in_poverty	29
+29011	Missouri	Barton	pcnt_children_in_poverty	28
+29013	Missouri	Bates	pcnt_children_in_poverty	24
+29015	Missouri	Benton	pcnt_children_in_poverty	32
+29017	Missouri	Bollinger	pcnt_children_in_poverty	26
+29019	Missouri	Boone	pcnt_children_in_poverty	19
+29021	Missouri	Buchanan	pcnt_children_in_poverty	24
+29023	Missouri	Butler	pcnt_children_in_poverty	34
+29025	Missouri	Caldwell	pcnt_children_in_poverty	20
+29027	Missouri	Callaway	pcnt_children_in_poverty	19
+29029	Missouri	Camden	pcnt_children_in_poverty	29
+29031	Missouri	Cape Girardeau	pcnt_children_in_poverty	21
+29033	Missouri	Carroll	pcnt_children_in_poverty	23
+29035	Missouri	Carter	pcnt_children_in_poverty	37
+29037	Missouri	Cass	pcnt_children_in_poverty	15
+29039	Missouri	Cedar	pcnt_children_in_poverty	40
+29041	Missouri	Chariton	pcnt_children_in_poverty	20
+29043	Missouri	Christian	pcnt_children_in_poverty	18
+29045	Missouri	Clark	pcnt_children_in_poverty	25
+29047	Missouri	Clay	pcnt_children_in_poverty	12
+29049	Missouri	Clinton	pcnt_children_in_poverty	18
+29051	Missouri	Cole	pcnt_children_in_poverty	18
+29053	Missouri	Cooper	pcnt_children_in_poverty	23
+29055	Missouri	Crawford	pcnt_children_in_poverty	31
+29057	Missouri	Dade	pcnt_children_in_poverty	31
+29059	Missouri	Dallas	pcnt_children_in_poverty	33
+29061	Missouri	Daviess	pcnt_children_in_poverty	30
+29063	Missouri	DeKalb	pcnt_children_in_poverty	16
+29065	Missouri	Dent	pcnt_children_in_poverty	32
+29067	Missouri	Douglas	pcnt_children_in_poverty	37
+29069	Missouri	Dunklin	pcnt_children_in_poverty	44
+29071	Missouri	Franklin	pcnt_children_in_poverty	14
+29073	Missouri	Gasconade	pcnt_children_in_poverty	22
+29075	Missouri	Gentry	pcnt_children_in_poverty	23
+29077	Missouri	Greene	pcnt_children_in_poverty	24
+29079	Missouri	Grundy	pcnt_children_in_poverty	28
+29081	Missouri	Harrison	pcnt_children_in_poverty	26
+29083	Missouri	Henry	pcnt_children_in_poverty	28
+29085	Missouri	Hickory	pcnt_children_in_poverty	41
+29087	Missouri	Holt	pcnt_children_in_poverty	21
+29089	Missouri	Howard	pcnt_children_in_poverty	23
+29091	Missouri	Howell	pcnt_children_in_poverty	32
+29093	Missouri	Iron	pcnt_children_in_poverty	36
+29095	Missouri	Jackson	pcnt_children_in_poverty	27
+29097	Missouri	Jasper	pcnt_children_in_poverty	24
+29099	Missouri	Jefferson	pcnt_children_in_poverty	17
+29101	Missouri	Johnson	pcnt_children_in_poverty	19
+29103	Missouri	Knox	pcnt_children_in_poverty	36
+29105	Missouri	Laclede	pcnt_children_in_poverty	27
+29107	Missouri	Lafayette	pcnt_children_in_poverty	19
+29109	Missouri	Lawrence	pcnt_children_in_poverty	27
+29111	Missouri	Lewis	pcnt_children_in_poverty	26
+29113	Missouri	Lincoln	pcnt_children_in_poverty	19
+29115	Missouri	Linn	pcnt_children_in_poverty	25
+29117	Missouri	Livingston	pcnt_children_in_poverty	23
+29119	Missouri	McDonald	pcnt_children_in_poverty	33
+29121	Missouri	Macon	pcnt_children_in_poverty	26
+29123	Missouri	Madison	pcnt_children_in_poverty	33
+29125	Missouri	Maries	pcnt_children_in_poverty	28
+29127	Missouri	Marion	pcnt_children_in_poverty	24
+29129	Missouri	Mercer	pcnt_children_in_poverty	24
+29131	Missouri	Miller	pcnt_children_in_poverty	31
+29133	Missouri	Mississippi	pcnt_children_in_poverty	40
+29135	Missouri	Moniteau	pcnt_children_in_poverty	21
+29137	Missouri	Monroe	pcnt_children_in_poverty	27
+29139	Missouri	Montgomery	pcnt_children_in_poverty	26
+29141	Missouri	Morgan	pcnt_children_in_poverty	34
+29143	Missouri	New Madrid	pcnt_children_in_poverty	34
+29145	Missouri	Newton	pcnt_children_in_poverty	25
+29147	Missouri	Nodaway	pcnt_children_in_poverty	18
+29149	Missouri	Oregon	pcnt_children_in_poverty	40
+29151	Missouri	Osage	pcnt_children_in_poverty	13
+29153	Missouri	Ozark	pcnt_children_in_poverty	41
+29155	Missouri	Pemiscot	pcnt_children_in_poverty	44
+29157	Missouri	Perry	pcnt_children_in_poverty	19
+29159	Missouri	Pettis	pcnt_children_in_poverty	27
+29161	Missouri	Phelps	pcnt_children_in_poverty	25
+29163	Missouri	Pike	pcnt_children_in_poverty	29
+29165	Missouri	Platte	pcnt_children_in_poverty	10
+29167	Missouri	Polk	pcnt_children_in_poverty	30
+29169	Missouri	Pulaski	pcnt_children_in_poverty	16
+29171	Missouri	Putnam	pcnt_children_in_poverty	30
+29173	Missouri	Ralls	pcnt_children_in_poverty	17
+29175	Missouri	Randolph	pcnt_children_in_poverty	27
+29177	Missouri	Ray	pcnt_children_in_poverty	18
+29179	Missouri	Reynolds	pcnt_children_in_poverty	44
+29181	Missouri	Ripley	pcnt_children_in_poverty	39
+29183	Missouri	St. Charles	pcnt_children_in_poverty	8
+29185	Missouri	St. Clair	pcnt_children_in_poverty	37
+29186	Missouri	Ste. Genevieve	pcnt_children_in_poverty	18
+29187	Missouri	St. Francois	pcnt_children_in_poverty	29
+29189	Missouri	St. Louis	pcnt_children_in_poverty	17
+29195	Missouri	Saline	pcnt_children_in_poverty	26
+29197	Missouri	Schuyler	pcnt_children_in_poverty	32
+29199	Missouri	Scotland	pcnt_children_in_poverty	29
+29201	Missouri	Scott	pcnt_children_in_poverty	29
+29203	Missouri	Shannon	pcnt_children_in_poverty	45
+29205	Missouri	Shelby	pcnt_children_in_poverty	26
+29207	Missouri	Stoddard	pcnt_children_in_poverty	25
+29209	Missouri	Stone	pcnt_children_in_poverty	32
+29211	Missouri	Sullivan	pcnt_children_in_poverty	24
+29213	Missouri	Taney	pcnt_children_in_poverty	32
+29215	Missouri	Texas	pcnt_children_in_poverty	35
+29217	Missouri	Vernon	pcnt_children_in_poverty	31
+29219	Missouri	Warren	pcnt_children_in_poverty	21
+29221	Missouri	Washington	pcnt_children_in_poverty	39
+29223	Missouri	Wayne	pcnt_children_in_poverty	39
+29225	Missouri	Webster	pcnt_children_in_poverty	33
+29227	Missouri	Worth	pcnt_children_in_poverty	25
+29229	Missouri	Wright	pcnt_children_in_poverty	39
+29510	Missouri	St. Louis City	pcnt_children_in_poverty	38
+30001	Montana	Beaverhead	pcnt_children_in_poverty	25
+30003	Montana	Big Horn	pcnt_children_in_poverty	36
+30005	Montana	Blaine	pcnt_children_in_poverty	32
+30007	Montana	Broadwater	pcnt_children_in_poverty	19
+30009	Montana	Carbon	pcnt_children_in_poverty	18
+30011	Montana	Carter	pcnt_children_in_poverty	30
+30013	Montana	Cascade	pcnt_children_in_poverty	21
+30015	Montana	Chouteau	pcnt_children_in_poverty	27
+30017	Montana	Custer	pcnt_children_in_poverty	20
+30019	Montana	Daniels	pcnt_children_in_poverty	11
+30021	Montana	Dawson	pcnt_children_in_poverty	16
+30023	Montana	Deer Lodge	pcnt_children_in_poverty	25
+30025	Montana	Fallon	pcnt_children_in_poverty	12
+30027	Montana	Fergus	pcnt_children_in_poverty	21
+30029	Montana	Flathead	pcnt_children_in_poverty	19
+30031	Montana	Gallatin	pcnt_children_in_poverty	13
+30033	Montana	Garfield	pcnt_children_in_poverty	31
+30035	Montana	Glacier	pcnt_children_in_poverty	39
+30037	Montana	Golden Valley	pcnt_children_in_poverty	37
+30039	Montana	Granite	pcnt_children_in_poverty	27
+30041	Montana	Hill	pcnt_children_in_poverty	26
+30043	Montana	Jefferson	pcnt_children_in_poverty	14
+30045	Montana	Judith Basin	pcnt_children_in_poverty	24
+30047	Montana	Lake	pcnt_children_in_poverty	33
+30049	Montana	Lewis and Clark	pcnt_children_in_poverty	15
+30051	Montana	Liberty	pcnt_children_in_poverty	28
+30053	Montana	Lincoln	pcnt_children_in_poverty	34
+30055	Montana	McCone	pcnt_children_in_poverty	22
+30057	Montana	Madison	pcnt_children_in_poverty	18
+30059	Montana	Meagher	pcnt_children_in_poverty	30
+30061	Montana	Mineral	pcnt_children_in_poverty	30
+30063	Montana	Missoula	pcnt_children_in_poverty	19
+30065	Montana	Musselshell	pcnt_children_in_poverty	30
+30067	Montana	Park	pcnt_children_in_poverty	19
+30069	Montana	Petroleum	pcnt_children_in_poverty	27
+30071	Montana	Phillips	pcnt_children_in_poverty	23
+30073	Montana	Pondera	pcnt_children_in_poverty	25
+30075	Montana	Powder River	pcnt_children_in_poverty	15
+30077	Montana	Powell	pcnt_children_in_poverty	24
+30079	Montana	Prairie	pcnt_children_in_poverty	20
+30081	Montana	Ravalli	pcnt_children_in_poverty	25
+30083	Montana	Richland	pcnt_children_in_poverty	14
+30085	Montana	Roosevelt	pcnt_children_in_poverty	37
+30087	Montana	Rosebud	pcnt_children_in_poverty	27
+30089	Montana	Sanders	pcnt_children_in_poverty	33
+30091	Montana	Sheridan	pcnt_children_in_poverty	14
+30093	Montana	Silver Bow	pcnt_children_in_poverty	23
+30095	Montana	Stillwater	pcnt_children_in_poverty	14
+30097	Montana	Sweet Grass	pcnt_children_in_poverty	15
+30099	Montana	Teton	pcnt_children_in_poverty	20
+30101	Montana	Toole	pcnt_children_in_poverty	22
+30103	Montana	Treasure	pcnt_children_in_poverty	20
+30105	Montana	Valley	pcnt_children_in_poverty	22
+30107	Montana	Wheatland	pcnt_children_in_poverty	27
+30109	Montana	Wibaux	pcnt_children_in_poverty	17
+30111	Montana	Yellowstone	pcnt_children_in_poverty	17
+31001	Nebraska	Adams	pcnt_children_in_poverty	20
+31003	Nebraska	Antelope	pcnt_children_in_poverty	22
+31005	Nebraska	Arthur	pcnt_children_in_poverty	16
+31007	Nebraska	Banner	pcnt_children_in_poverty	24
+31009	Nebraska	Blaine	pcnt_children_in_poverty	28
+31011	Nebraska	Boone	pcnt_children_in_poverty	14
+31013	Nebraska	Box Butte	pcnt_children_in_poverty	24
+31015	Nebraska	Boyd	pcnt_children_in_poverty	22
+31017	Nebraska	Brown	pcnt_children_in_poverty	20
+31019	Nebraska	Buffalo	pcnt_children_in_poverty	15
+31021	Nebraska	Burt	pcnt_children_in_poverty	17
+31023	Nebraska	Butler	pcnt_children_in_poverty	13
+31025	Nebraska	Cass	pcnt_children_in_poverty	13
+31027	Nebraska	Cedar	pcnt_children_in_poverty	14
+31029	Nebraska	Chase	pcnt_children_in_poverty	15
+31031	Nebraska	Cherry	pcnt_children_in_poverty	26
+31033	Nebraska	Cheyenne	pcnt_children_in_poverty	16
+31035	Nebraska	Clay	pcnt_children_in_poverty	16
+31037	Nebraska	Colfax	pcnt_children_in_poverty	17
+31039	Nebraska	Cuming	pcnt_children_in_poverty	12
+31041	Nebraska	Custer	pcnt_children_in_poverty	20
+31043	Nebraska	Dakota	pcnt_children_in_poverty	20
+31045	Nebraska	Dawes	pcnt_children_in_poverty	23
+31047	Nebraska	Dawson	pcnt_children_in_poverty	19
+31049	Nebraska	Deuel	pcnt_children_in_poverty	21
+31051	Nebraska	Dixon	pcnt_children_in_poverty	16
+31053	Nebraska	Dodge	pcnt_children_in_poverty	16
+31055	Nebraska	Douglas	pcnt_children_in_poverty	20
+31057	Nebraska	Dundy	pcnt_children_in_poverty	22
+31059	Nebraska	Fillmore	pcnt_children_in_poverty	15
+31061	Nebraska	Franklin	pcnt_children_in_poverty	20
+31063	Nebraska	Frontier	pcnt_children_in_poverty	15
+31065	Nebraska	Furnas	pcnt_children_in_poverty	22
+31067	Nebraska	Gage	pcnt_children_in_poverty	16
+31069	Nebraska	Garden	pcnt_children_in_poverty	27
+31071	Nebraska	Garfield	pcnt_children_in_poverty	20
+31073	Nebraska	Gosper	pcnt_children_in_poverty	13
+31075	Nebraska	Grant	pcnt_children_in_poverty	23
+31077	Nebraska	Greeley	pcnt_children_in_poverty	25
+31079	Nebraska	Hall	pcnt_children_in_poverty	20
+31081	Nebraska	Hamilton	pcnt_children_in_poverty	12
+31083	Nebraska	Harlan	pcnt_children_in_poverty	21
+31085	Nebraska	Hayes	pcnt_children_in_poverty	23
+31087	Nebraska	Hitchcock	pcnt_children_in_poverty	25
+31089	Nebraska	Holt	pcnt_children_in_poverty	18
+31091	Nebraska	Hooker	pcnt_children_in_poverty	14
+31093	Nebraska	Howard	pcnt_children_in_poverty	15
+31095	Nebraska	Jefferson	pcnt_children_in_poverty	18
+31097	Nebraska	Johnson	pcnt_children_in_poverty	15
+31099	Nebraska	Kearney	pcnt_children_in_poverty	15
+31101	Nebraska	Keith	pcnt_children_in_poverty	21
+31103	Nebraska	Keya Paha	pcnt_children_in_poverty	37
+31105	Nebraska	Kimball	pcnt_children_in_poverty	22
+31107	Nebraska	Knox	pcnt_children_in_poverty	22
+31109	Nebraska	Lancaster	pcnt_children_in_poverty	18
+31111	Nebraska	Lincoln	pcnt_children_in_poverty	19
+31113	Nebraska	Logan	pcnt_children_in_poverty	21
+31115	Nebraska	Loup	pcnt_children_in_poverty	32
+31117	Nebraska	McPherson	pcnt_children_in_poverty	23
+31119	Nebraska	Madison	pcnt_children_in_poverty	21
+31121	Nebraska	Merrick	pcnt_children_in_poverty	16
+31123	Nebraska	Morrill	pcnt_children_in_poverty	24
+31125	Nebraska	Nance	pcnt_children_in_poverty	21
+31127	Nebraska	Nemaha	pcnt_children_in_poverty	17
+31129	Nebraska	Nuckolls	pcnt_children_in_poverty	18
+31131	Nebraska	Otoe	pcnt_children_in_poverty	15
+31133	Nebraska	Pawnee	pcnt_children_in_poverty	22
+31135	Nebraska	Perkins	pcnt_children_in_poverty	17
+31137	Nebraska	Phelps	pcnt_children_in_poverty	13
+31139	Nebraska	Pierce	pcnt_children_in_poverty	14
+31141	Nebraska	Platte	pcnt_children_in_poverty	17
+31143	Nebraska	Polk	pcnt_children_in_poverty	13
+31145	Nebraska	Red Willow	pcnt_children_in_poverty	18
+31147	Nebraska	Richardson	pcnt_children_in_poverty	22
+31149	Nebraska	Rock	pcnt_children_in_poverty	32
+31151	Nebraska	Saline	pcnt_children_in_poverty	14
+31153	Nebraska	Sarpy	pcnt_children_in_poverty	9
+31155	Nebraska	Saunders	pcnt_children_in_poverty	11
+31157	Nebraska	Scotts Bluff	pcnt_children_in_poverty	26
+31159	Nebraska	Seward	pcnt_children_in_poverty	9
+31161	Nebraska	Sheridan	pcnt_children_in_poverty	27
+31163	Nebraska	Sherman	pcnt_children_in_poverty	22
+31165	Nebraska	Sioux	pcnt_children_in_poverty	32
+31167	Nebraska	Stanton	pcnt_children_in_poverty	15
+31169	Nebraska	Thayer	pcnt_children_in_poverty	16
+31171	Nebraska	Thomas	pcnt_children_in_poverty	25
+31173	Nebraska	Thurston	pcnt_children_in_poverty	33
+31175	Nebraska	Valley	pcnt_children_in_poverty	18
+31177	Nebraska	Washington	pcnt_children_in_poverty	10
+31179	Nebraska	Wayne	pcnt_children_in_poverty	14
+31181	Nebraska	Webster	pcnt_children_in_poverty	20
+31183	Nebraska	Wheeler	pcnt_children_in_poverty	20
+31185	Nebraska	York	pcnt_children_in_poverty	17
+32001	Nevada	Churchill	pcnt_children_in_poverty	21
+32003	Nevada	Clark	pcnt_children_in_poverty	23
+32005	Nevada	Douglas	pcnt_children_in_poverty	16
+32007	Nevada	Elko	pcnt_children_in_poverty	14
+32009	Nevada	Esmeralda	pcnt_children_in_poverty	22
+32011	Nevada	Eureka	pcnt_children_in_poverty	13
+32013	Nevada	Humboldt	pcnt_children_in_poverty	16
+32015	Nevada	Lander	pcnt_children_in_poverty	14
+32017	Nevada	Lincoln	pcnt_children_in_poverty	19
+32019	Nevada	Lyon	pcnt_children_in_poverty	19
+32021	Nevada	Mineral	pcnt_children_in_poverty	26
+32023	Nevada	Nye	pcnt_children_in_poverty	30
+32027	Nevada	Pershing	pcnt_children_in_poverty	24
+32029	Nevada	Storey	pcnt_children_in_poverty	14
+32031	Nevada	Washoe	pcnt_children_in_poverty	18
+32033	Nevada	White Pine	pcnt_children_in_poverty	18
+32510	Nevada	Carson City	pcnt_children_in_poverty	22
+33001	New Hampshire	Belknap	pcnt_children_in_poverty	16
+33003	New Hampshire	Carroll	pcnt_children_in_poverty	18
+33005	New Hampshire	Cheshire	pcnt_children_in_poverty	14
+33007	New Hampshire	Coos	pcnt_children_in_poverty	24
+33009	New Hampshire	Grafton	pcnt_children_in_poverty	14
+33011	New Hampshire	Hillsborough	pcnt_children_in_poverty	12
+33013	New Hampshire	Merrimack	pcnt_children_in_poverty	12
+33015	New Hampshire	Rockingham	pcnt_children_in_poverty	8
+33017	New Hampshire	Strafford	pcnt_children_in_poverty	15
+33019	New Hampshire	Sullivan	pcnt_children_in_poverty	16
+34001	New Jersey	Atlantic	pcnt_children_in_poverty	18
+34003	New Jersey	Bergen	pcnt_children_in_poverty	8
+34005	New Jersey	Burlington	pcnt_children_in_poverty	8
+34007	New Jersey	Camden	pcnt_children_in_poverty	19
+34009	New Jersey	Cape May	pcnt_children_in_poverty	19
+34011	New Jersey	Cumberland	pcnt_children_in_poverty	26
+34013	New Jersey	Essex	pcnt_children_in_poverty	23
+34015	New Jersey	Gloucester	pcnt_children_in_poverty	10
+34017	New Jersey	Hudson	pcnt_children_in_poverty	24
+34019	New Jersey	Hunterdon	pcnt_children_in_poverty	5
+34021	New Jersey	Mercer	pcnt_children_in_poverty	15
+34023	New Jersey	Middlesex	pcnt_children_in_poverty	11
+34025	New Jersey	Monmouth	pcnt_children_in_poverty	9
+34027	New Jersey	Morris	pcnt_children_in_poverty	6
+34029	New Jersey	Ocean	pcnt_children_in_poverty	20
+34031	New Jersey	Passaic	pcnt_children_in_poverty	25
+34033	New Jersey	Salem	pcnt_children_in_poverty	18
+34035	New Jersey	Somerset	pcnt_children_in_poverty	6
+34037	New Jersey	Sussex	pcnt_children_in_poverty	7
+34039	New Jersey	Union	pcnt_children_in_poverty	14
+34041	New Jersey	Warren	pcnt_children_in_poverty	10
+35001	New Mexico	Bernalillo	pcnt_children_in_poverty	27
+35003	New Mexico	Catron	pcnt_children_in_poverty	43
+35005	New Mexico	Chaves	pcnt_children_in_poverty	32
+35006	New Mexico	Cibola	pcnt_children_in_poverty	41
+35007	New Mexico	Colfax	pcnt_children_in_poverty	28
+35009	New Mexico	Curry	pcnt_children_in_poverty	28
+35011	New Mexico	De Baca	pcnt_children_in_poverty	37
+35013	New Mexico	Dona Ana	pcnt_children_in_poverty	40
+35015	New Mexico	Eddy	pcnt_children_in_poverty	22
+35017	New Mexico	Grant	pcnt_children_in_poverty	33
+35019	New Mexico	Guadalupe	pcnt_children_in_poverty	33
+35021	New Mexico	Harding	pcnt_children_in_poverty	26
+35023	New Mexico	Hidalgo	pcnt_children_in_poverty	39
+35025	New Mexico	Lea	pcnt_children_in_poverty	25
+35027	New Mexico	Lincoln	pcnt_children_in_poverty	31
+35028	New Mexico	Los Alamos	pcnt_children_in_poverty	4
+35029	New Mexico	Luna	pcnt_children_in_poverty	43
+35031	New Mexico	McKinley	pcnt_children_in_poverty	42
+35033	New Mexico	Mora	pcnt_children_in_poverty	33
+35035	New Mexico	Otero	pcnt_children_in_poverty	30
+35037	New Mexico	Quay	pcnt_children_in_poverty	36
+35039	New Mexico	Rio Arriba	pcnt_children_in_poverty	31
+35041	New Mexico	Roosevelt	pcnt_children_in_poverty	33
+35043	New Mexico	Sandoval	pcnt_children_in_poverty	19
+35045	New Mexico	San Juan	pcnt_children_in_poverty	25
+35047	New Mexico	San Miguel	pcnt_children_in_poverty	34
+35049	New Mexico	Santa Fe	pcnt_children_in_poverty	24
+35051	New Mexico	Sierra	pcnt_children_in_poverty	42
+35053	New Mexico	Socorro	pcnt_children_in_poverty	40
+35055	New Mexico	Taos	pcnt_children_in_poverty	44
+35057	New Mexico	Torrance	pcnt_children_in_poverty	38
+35059	New Mexico	Union	pcnt_children_in_poverty	28
+35061	New Mexico	Valencia	pcnt_children_in_poverty	29
+36001	New York	Albany	pcnt_children_in_poverty	19
+36003	New York	Allegany	pcnt_children_in_poverty	24
+36005	New York	Bronx	pcnt_children_in_poverty	41
+36007	New York	Broome	pcnt_children_in_poverty	24
+36009	New York	Cattaraugus	pcnt_children_in_poverty	28
+36011	New York	Cayuga	pcnt_children_in_poverty	21
+36013	New York	Chautauqua	pcnt_children_in_poverty	31
+36015	New York	Chemung	pcnt_children_in_poverty	24
+36017	New York	Chenango	pcnt_children_in_poverty	26
+36019	New York	Clinton	pcnt_children_in_poverty	20
+36021	New York	Columbia	pcnt_children_in_poverty	17
+36023	New York	Cortland	pcnt_children_in_poverty	22
+36025	New York	Delaware	pcnt_children_in_poverty	27
+36027	New York	Dutchess	pcnt_children_in_poverty	12
+36029	New York	Erie	pcnt_children_in_poverty	23
+36031	New York	Essex	pcnt_children_in_poverty	22
+36033	New York	Franklin	pcnt_children_in_poverty	29
+36035	New York	Fulton	pcnt_children_in_poverty	25
+36037	New York	Genesee	pcnt_children_in_poverty	18
+36039	New York	Greene	pcnt_children_in_poverty	22
+36041	New York	Hamilton	pcnt_children_in_poverty	19
+36043	New York	Herkimer	pcnt_children_in_poverty	25
+36045	New York	Jefferson	pcnt_children_in_poverty	26
+36047	New York	Kings	pcnt_children_in_poverty	34
+36049	New York	Lewis	pcnt_children_in_poverty	20
+36051	New York	Livingston	pcnt_children_in_poverty	17
+36053	New York	Madison	pcnt_children_in_poverty	18
+36055	New York	Monroe	pcnt_children_in_poverty	24
+36057	New York	Montgomery	pcnt_children_in_poverty	29
+36059	New York	Nassau	pcnt_children_in_poverty	9
+36061	New York	New York	pcnt_children_in_poverty	27
+36063	New York	Niagara	pcnt_children_in_poverty	19
+36065	New York	Oneida	pcnt_children_in_poverty	27
+36067	New York	Onondaga	pcnt_children_in_poverty	23
+36069	New York	Ontario	pcnt_children_in_poverty	15
+36071	New York	Orange	pcnt_children_in_poverty	21
+36073	New York	Orleans	pcnt_children_in_poverty	21
+36075	New York	Oswego	pcnt_children_in_poverty	26
+36077	New York	Otsego	pcnt_children_in_poverty	23
+36079	New York	Putnam	pcnt_children_in_poverty	7
+36081	New York	Queens	pcnt_children_in_poverty	22
+36083	New York	Rensselaer	pcnt_children_in_poverty	19
+36085	New York	Richmond	pcnt_children_in_poverty	19
+36087	New York	Rockland	pcnt_children_in_poverty	23
+36089	New York	St. Lawrence	pcnt_children_in_poverty	25
+36091	New York	Saratoga	pcnt_children_in_poverty	9
+36093	New York	Schenectady	pcnt_children_in_poverty	23
+36095	New York	Schoharie	pcnt_children_in_poverty	19
+36097	New York	Schuyler	pcnt_children_in_poverty	23
+36099	New York	Seneca	pcnt_children_in_poverty	21
+36101	New York	Steuben	pcnt_children_in_poverty	28
+36103	New York	Suffolk	pcnt_children_in_poverty	9
+36105	New York	Sullivan	pcnt_children_in_poverty	25
+36107	New York	Tioga	pcnt_children_in_poverty	17
+36109	New York	Tompkins	pcnt_children_in_poverty	18
+36111	New York	Ulster	pcnt_children_in_poverty	18
+36113	New York	Warren	pcnt_children_in_poverty	20
+36115	New York	Washington	pcnt_children_in_poverty	22
+36117	New York	Wayne	pcnt_children_in_poverty	21
+36119	New York	Westchester	pcnt_children_in_poverty	14
+36121	New York	Wyoming	pcnt_children_in_poverty	16
+36123	New York	Yates	pcnt_children_in_poverty	24
+37001	North Carolina	Alamance	pcnt_children_in_poverty	26
+37003	North Carolina	Alexander	pcnt_children_in_poverty	27
+37005	North Carolina	Alleghany	pcnt_children_in_poverty	33
+37007	North Carolina	Anson	pcnt_children_in_poverty	36
+37009	North Carolina	Ashe	pcnt_children_in_poverty	31
+37011	North Carolina	Avery	pcnt_children_in_poverty	31
+37013	North Carolina	Beaufort	pcnt_children_in_poverty	36
+37015	North Carolina	Bertie	pcnt_children_in_poverty	35
+37017	North Carolina	Bladen	pcnt_children_in_poverty	34
+37019	North Carolina	Brunswick	pcnt_children_in_poverty	29
+37021	North Carolina	Buncombe	pcnt_children_in_poverty	27
+37023	North Carolina	Burke	pcnt_children_in_poverty	30
+37025	North Carolina	Cabarrus	pcnt_children_in_poverty	18
+37027	North Carolina	Caldwell	pcnt_children_in_poverty	29
+37029	North Carolina	Camden	pcnt_children_in_poverty	15
+37031	North Carolina	Carteret	pcnt_children_in_poverty	26
+37033	North Carolina	Caswell	pcnt_children_in_poverty	29
+37035	North Carolina	Catawba	pcnt_children_in_poverty	22
+37037	North Carolina	Chatham	pcnt_children_in_poverty	19
+37039	North Carolina	Cherokee	pcnt_children_in_poverty	32
+37041	North Carolina	Chowan	pcnt_children_in_poverty	38
+37043	North Carolina	Clay	pcnt_children_in_poverty	38
+37045	North Carolina	Cleveland	pcnt_children_in_poverty	32
+37047	North Carolina	Columbus	pcnt_children_in_poverty	37
+37049	North Carolina	Craven	pcnt_children_in_poverty	26
+37051	North Carolina	Cumberland	pcnt_children_in_poverty	26
+37053	North Carolina	Currituck	pcnt_children_in_poverty	18
+37055	North Carolina	Dare	pcnt_children_in_poverty	20
+37057	North Carolina	Davidson	pcnt_children_in_poverty	22
+37059	North Carolina	Davie	pcnt_children_in_poverty	18
+37061	North Carolina	Duplin	pcnt_children_in_poverty	30
+37063	North Carolina	Durham	pcnt_children_in_poverty	27
+37065	North Carolina	Edgecombe	pcnt_children_in_poverty	40
+37067	North Carolina	Forsyth	pcnt_children_in_poverty	28
+37069	North Carolina	Franklin	pcnt_children_in_poverty	24
+37071	North Carolina	Gaston	pcnt_children_in_poverty	24
+37073	North Carolina	Gates	pcnt_children_in_poverty	24
+37075	North Carolina	Graham	pcnt_children_in_poverty	35
+37077	North Carolina	Granville	pcnt_children_in_poverty	21
+37079	North Carolina	Greene	pcnt_children_in_poverty	36
+37081	North Carolina	Guilford	pcnt_children_in_poverty	24
+37083	North Carolina	Halifax	pcnt_children_in_poverty	39
+37085	North Carolina	Harnett	pcnt_children_in_poverty	26
+37087	North Carolina	Haywood	pcnt_children_in_poverty	32
+37089	North Carolina	Henderson	pcnt_children_in_poverty	23
+37091	North Carolina	Hertford	pcnt_children_in_poverty	38
+37093	North Carolina	Hoke	pcnt_children_in_poverty	29
+37095	North Carolina	Hyde	pcnt_children_in_poverty	31
+37097	North Carolina	Iredell	pcnt_children_in_poverty	20
+37099	North Carolina	Jackson	pcnt_children_in_poverty	27
+37101	North Carolina	Johnston	pcnt_children_in_poverty	22
+37103	North Carolina	Jones	pcnt_children_in_poverty	33
+37105	North Carolina	Lee	pcnt_children_in_poverty	31
+37107	North Carolina	Lenoir	pcnt_children_in_poverty	36
+37109	North Carolina	Lincoln	pcnt_children_in_poverty	22
+37111	North Carolina	McDowell	pcnt_children_in_poverty	34
+37113	North Carolina	Macon	pcnt_children_in_poverty	30
+37115	North Carolina	Madison	pcnt_children_in_poverty	30
+37117	North Carolina	Martin	pcnt_children_in_poverty	37
+37119	North Carolina	Mecklenburg	pcnt_children_in_poverty	24
+37121	North Carolina	Mitchell	pcnt_children_in_poverty	30
+37123	North Carolina	Montgomery	pcnt_children_in_poverty	38
+37125	North Carolina	Moore	pcnt_children_in_poverty	23
+37127	North Carolina	Nash	pcnt_children_in_poverty	29
+37129	North Carolina	New Hanover	pcnt_children_in_poverty	24
+37131	North Carolina	Northampton	pcnt_children_in_poverty	39
+37133	North Carolina	Onslow	pcnt_children_in_poverty	22
+37135	North Carolina	Orange	pcnt_children_in_poverty	17
+37137	North Carolina	Pamlico	pcnt_children_in_poverty	33
+37139	North Carolina	Pasquotank	pcnt_children_in_poverty	31
+37141	North Carolina	Pender	pcnt_children_in_poverty	26
+37143	North Carolina	Perquimans	pcnt_children_in_poverty	31
+37145	North Carolina	Person	pcnt_children_in_poverty	25
+37147	North Carolina	Pitt	pcnt_children_in_poverty	28
+37149	North Carolina	Polk	pcnt_children_in_poverty	25
+37151	North Carolina	Randolph	pcnt_children_in_poverty	25
+37153	North Carolina	Richmond	pcnt_children_in_poverty	38
+37155	North Carolina	Robeson	pcnt_children_in_poverty	43
+37157	North Carolina	Rockingham	pcnt_children_in_poverty	25
+37159	North Carolina	Rowan	pcnt_children_in_poverty	29
+37161	North Carolina	Rutherford	pcnt_children_in_poverty	32
+37163	North Carolina	Sampson	pcnt_children_in_poverty	31
+37165	North Carolina	Scotland	pcnt_children_in_poverty	44
+37167	North Carolina	Stanly	pcnt_children_in_poverty	25
+37169	North Carolina	Stokes	pcnt_children_in_poverty	21
+37171	North Carolina	Surry	pcnt_children_in_poverty	30
+37173	North Carolina	Swain	pcnt_children_in_poverty	30
+37175	North Carolina	Transylvania	pcnt_children_in_poverty	30
+37177	North Carolina	Tyrrell	pcnt_children_in_poverty	40
+37179	North Carolina	Union	pcnt_children_in_poverty	14
+37181	North Carolina	Vance	pcnt_children_in_poverty	39
+37183	North Carolina	Wake	pcnt_children_in_poverty	16
+37185	North Carolina	Warren	pcnt_children_in_poverty	37
+37187	North Carolina	Washington	pcnt_children_in_poverty	36
+37189	North Carolina	Watauga	pcnt_children_in_poverty	23
+37191	North Carolina	Wayne	pcnt_children_in_poverty	32
+37193	North Carolina	Wilkes	pcnt_children_in_poverty	35
+37195	North Carolina	Wilson	pcnt_children_in_poverty	36
+37197	North Carolina	Yadkin	pcnt_children_in_poverty	28
+37199	North Carolina	Yancey	pcnt_children_in_poverty	31
+38001	North Dakota	Adams	pcnt_children_in_poverty	12
+38003	North Dakota	Barnes	pcnt_children_in_poverty	14
+38005	North Dakota	Benson	pcnt_children_in_poverty	37
+38007	North Dakota	Billings	pcnt_children_in_poverty	11
+38009	North Dakota	Bottineau	pcnt_children_in_poverty	14
+38011	North Dakota	Bowman	pcnt_children_in_poverty	10
+38013	North Dakota	Burke	pcnt_children_in_poverty	11
+38015	North Dakota	Burleigh	pcnt_children_in_poverty	11
+38017	North Dakota	Cass	pcnt_children_in_poverty	12
+38019	North Dakota	Cavalier	pcnt_children_in_poverty	15
+38021	North Dakota	Dickey	pcnt_children_in_poverty	13
+38023	North Dakota	Divide	pcnt_children_in_poverty	14
+38025	North Dakota	Dunn	pcnt_children_in_poverty	13
+38027	North Dakota	Eddy	pcnt_children_in_poverty	14
+38029	North Dakota	Emmons	pcnt_children_in_poverty	17
+38031	North Dakota	Foster	pcnt_children_in_poverty	10
+38033	North Dakota	Golden Valley	pcnt_children_in_poverty	22
+38035	North Dakota	Grand Forks	pcnt_children_in_poverty	15
+38037	North Dakota	Grant	pcnt_children_in_poverty	27
+38039	North Dakota	Griggs	pcnt_children_in_poverty	12
+38041	North Dakota	Hettinger	pcnt_children_in_poverty	13
+38043	North Dakota	Kidder	pcnt_children_in_poverty	21
+38045	North Dakota	LaMoure	pcnt_children_in_poverty	12
+38047	North Dakota	Logan	pcnt_children_in_poverty	18
+38049	North Dakota	McHenry	pcnt_children_in_poverty	18
+38051	North Dakota	McIntosh	pcnt_children_in_poverty	20
+38053	North Dakota	McKenzie	pcnt_children_in_poverty	16
+38055	North Dakota	McLean	pcnt_children_in_poverty	14
+38057	North Dakota	Mercer	pcnt_children_in_poverty	9
+38059	North Dakota	Morton	pcnt_children_in_poverty	15
+38061	North Dakota	Mountrail	pcnt_children_in_poverty	18
+38063	North Dakota	Nelson	pcnt_children_in_poverty	13
+38065	North Dakota	Oliver	pcnt_children_in_poverty	20
+38067	North Dakota	Pembina	pcnt_children_in_poverty	11
+38069	North Dakota	Pierce	pcnt_children_in_poverty	16
+38071	North Dakota	Ramsey	pcnt_children_in_poverty	18
+38073	North Dakota	Ransom	pcnt_children_in_poverty	10
+38075	North Dakota	Renville	pcnt_children_in_poverty	11
+38077	North Dakota	Richland	pcnt_children_in_poverty	12
+38079	North Dakota	Rolette	pcnt_children_in_poverty	47
+38081	North Dakota	Sargent	pcnt_children_in_poverty	9
+38083	North Dakota	Sheridan	pcnt_children_in_poverty	27
+38085	North Dakota	Sioux	pcnt_children_in_poverty	41
+38087	North Dakota	Slope	pcnt_children_in_poverty	12
+38089	North Dakota	Stark	pcnt_children_in_poverty	11
+38091	North Dakota	Steele	pcnt_children_in_poverty	14
+38093	North Dakota	Stutsman	pcnt_children_in_poverty	15
+38095	North Dakota	Towner	pcnt_children_in_poverty	16
+38097	North Dakota	Traill	pcnt_children_in_poverty	12
+38099	North Dakota	Walsh	pcnt_children_in_poverty	14
+38101	North Dakota	Ward	pcnt_children_in_poverty	14
+38103	North Dakota	Wells	pcnt_children_in_poverty	13
+38105	North Dakota	Williams	pcnt_children_in_poverty	11
+39001	Ohio	Adams	pcnt_children_in_poverty	34
+39003	Ohio	Allen	pcnt_children_in_poverty	29
+39005	Ohio	Ashland	pcnt_children_in_poverty	20
+39007	Ohio	Ashtabula	pcnt_children_in_poverty	29
+39009	Ohio	Athens	pcnt_children_in_poverty	31
+39011	Ohio	Auglaize	pcnt_children_in_poverty	14
+39013	Ohio	Belmont	pcnt_children_in_poverty	24
+39015	Ohio	Brown	pcnt_children_in_poverty	25
+39017	Ohio	Butler	pcnt_children_in_poverty	18
+39019	Ohio	Carroll	pcnt_children_in_poverty	27
+39021	Ohio	Champaign	pcnt_children_in_poverty	23
+39023	Ohio	Clark	pcnt_children_in_poverty	30
+39025	Ohio	Clermont	pcnt_children_in_poverty	16
+39027	Ohio	Clinton	pcnt_children_in_poverty	23
+39029	Ohio	Columbiana	pcnt_children_in_poverty	27
+39031	Ohio	Coshocton	pcnt_children_in_poverty	29
+39033	Ohio	Crawford	pcnt_children_in_poverty	29
+39035	Ohio	Cuyahoga	pcnt_children_in_poverty	29
+39037	Ohio	Darke	pcnt_children_in_poverty	19
+39039	Ohio	Defiance	pcnt_children_in_poverty	19
+39041	Ohio	Delaware	pcnt_children_in_poverty	6
+39043	Ohio	Erie	pcnt_children_in_poverty	21
+39045	Ohio	Fairfield	pcnt_children_in_poverty	16
+39047	Ohio	Fayette	pcnt_children_in_poverty	25
+39049	Ohio	Franklin	pcnt_children_in_poverty	27
+39051	Ohio	Fulton	pcnt_children_in_poverty	15
+39053	Ohio	Gallia	pcnt_children_in_poverty	33
+39055	Ohio	Geauga	pcnt_children_in_poverty	12
+39057	Ohio	Greene	pcnt_children_in_poverty	19
+39059	Ohio	Guernsey	pcnt_children_in_poverty	33
+39061	Ohio	Hamilton	pcnt_children_in_poverty	28
+39063	Ohio	Hancock	pcnt_children_in_poverty	18
+39065	Ohio	Hardin	pcnt_children_in_poverty	25
+39067	Ohio	Harrison	pcnt_children_in_poverty	28
+39069	Ohio	Henry	pcnt_children_in_poverty	15
+39071	Ohio	Highland	pcnt_children_in_poverty	31
+39073	Ohio	Hocking	pcnt_children_in_poverty	28
+39075	Ohio	Holmes	pcnt_children_in_poverty	24
+39077	Ohio	Huron	pcnt_children_in_poverty	22
+39079	Ohio	Jackson	pcnt_children_in_poverty	30
+39081	Ohio	Jefferson	pcnt_children_in_poverty	28
+39083	Ohio	Knox	pcnt_children_in_poverty	23
+39085	Ohio	Lake	pcnt_children_in_poverty	14
+39087	Ohio	Lawrence	pcnt_children_in_poverty	29
+39089	Ohio	Licking	pcnt_children_in_poverty	20
+39091	Ohio	Logan	pcnt_children_in_poverty	21
+39093	Ohio	Lorain	pcnt_children_in_poverty	24
+39095	Ohio	Lucas	pcnt_children_in_poverty	33
+39097	Ohio	Madison	pcnt_children_in_poverty	18
+39099	Ohio	Mahoning	pcnt_children_in_poverty	30
+39101	Ohio	Marion	pcnt_children_in_poverty	28
+39103	Ohio	Medina	pcnt_children_in_poverty	12
+39105	Ohio	Meigs	pcnt_children_in_poverty	35
+39107	Ohio	Mercer	pcnt_children_in_poverty	12
+39109	Ohio	Miami	pcnt_children_in_poverty	21
+39111	Ohio	Monroe	pcnt_children_in_poverty	28
+39113	Ohio	Montgomery	pcnt_children_in_poverty	28
+39115	Ohio	Morgan	pcnt_children_in_poverty	31
+39117	Ohio	Morrow	pcnt_children_in_poverty	23
+39119	Ohio	Muskingum	pcnt_children_in_poverty	30
+39121	Ohio	Noble	pcnt_children_in_poverty	23
+39123	Ohio	Ottawa	pcnt_children_in_poverty	17
+39125	Ohio	Paulding	pcnt_children_in_poverty	20
+39127	Ohio	Perry	pcnt_children_in_poverty	26
+39129	Ohio	Pickaway	pcnt_children_in_poverty	21
+39131	Ohio	Pike	pcnt_children_in_poverty	36
+39133	Ohio	Portage	pcnt_children_in_poverty	18
+39135	Ohio	Preble	pcnt_children_in_poverty	19
+39137	Ohio	Putnam	pcnt_children_in_poverty	10
+39139	Ohio	Richland	pcnt_children_in_poverty	27
+39141	Ohio	Ross	pcnt_children_in_poverty	28
+39143	Ohio	Sandusky	pcnt_children_in_poverty	21
+39145	Ohio	Scioto	pcnt_children_in_poverty	37
+39147	Ohio	Seneca	pcnt_children_in_poverty	22
+39149	Ohio	Shelby	pcnt_children_in_poverty	16
+39151	Ohio	Stark	pcnt_children_in_poverty	25
+39153	Ohio	Summit	pcnt_children_in_poverty	25
+39155	Ohio	Trumbull	pcnt_children_in_poverty	29
+39157	Ohio	Tuscarawas	pcnt_children_in_poverty	22
+39159	Ohio	Union	pcnt_children_in_poverty	10
+39161	Ohio	Van Wert	pcnt_children_in_poverty	17
+39163	Ohio	Vinton	pcnt_children_in_poverty	39
+39165	Ohio	Warren	pcnt_children_in_poverty	9
+39167	Ohio	Washington	pcnt_children_in_poverty	22
+39169	Ohio	Wayne	pcnt_children_in_poverty	22
+39171	Ohio	Williams	pcnt_children_in_poverty	19
+39173	Ohio	Wood	pcnt_children_in_poverty	14
+39175	Ohio	Wyandot	pcnt_children_in_poverty	14
+40001	Oklahoma	Adair	pcnt_children_in_poverty	34
+40003	Oklahoma	Alfalfa	pcnt_children_in_poverty	22
+40005	Oklahoma	Atoka	pcnt_children_in_poverty	33
+40007	Oklahoma	Beaver	pcnt_children_in_poverty	17
+40009	Oklahoma	Beckham	pcnt_children_in_poverty	23
+40011	Oklahoma	Blaine	pcnt_children_in_poverty	28
+40013	Oklahoma	Bryan	pcnt_children_in_poverty	28
+40015	Oklahoma	Caddo	pcnt_children_in_poverty	27
+40017	Oklahoma	Canadian	pcnt_children_in_poverty	12
+40019	Oklahoma	Carter	pcnt_children_in_poverty	24
+40021	Oklahoma	Cherokee	pcnt_children_in_poverty	33
+40023	Oklahoma	Choctaw	pcnt_children_in_poverty	41
+40025	Oklahoma	Cimarron	pcnt_children_in_poverty	28
+40027	Oklahoma	Cleveland	pcnt_children_in_poverty	16
+40029	Oklahoma	Coal	pcnt_children_in_poverty	31
+40031	Oklahoma	Comanche	pcnt_children_in_poverty	24
+40033	Oklahoma	Cotton	pcnt_children_in_poverty	25
+40035	Oklahoma	Craig	pcnt_children_in_poverty	27
+40037	Oklahoma	Creek	pcnt_children_in_poverty	25
+40039	Oklahoma	Custer	pcnt_children_in_poverty	20
+40041	Oklahoma	Delaware	pcnt_children_in_poverty	33
+40043	Oklahoma	Dewey	pcnt_children_in_poverty	19
+40045	Oklahoma	Ellis	pcnt_children_in_poverty	18
+40047	Oklahoma	Garfield	pcnt_children_in_poverty	25
+40049	Oklahoma	Garvin	pcnt_children_in_poverty	24
+40051	Oklahoma	Grady	pcnt_children_in_poverty	20
+40053	Oklahoma	Grant	pcnt_children_in_poverty	19
+40055	Oklahoma	Greer	pcnt_children_in_poverty	30
+40057	Oklahoma	Harmon	pcnt_children_in_poverty	39
+40059	Oklahoma	Harper	pcnt_children_in_poverty	18
+40061	Oklahoma	Haskell	pcnt_children_in_poverty	31
+40063	Oklahoma	Hughes	pcnt_children_in_poverty	33
+40065	Oklahoma	Jackson	pcnt_children_in_poverty	26
+40067	Oklahoma	Jefferson	pcnt_children_in_poverty	31
+40069	Oklahoma	Johnston	pcnt_children_in_poverty	29
+40071	Oklahoma	Kay	pcnt_children_in_poverty	27
+40073	Oklahoma	Kingfisher	pcnt_children_in_poverty	17
+40075	Oklahoma	Kiowa	pcnt_children_in_poverty	30
+40077	Oklahoma	Latimer	pcnt_children_in_poverty	28
+40079	Oklahoma	Le Flore	pcnt_children_in_poverty	27
+40081	Oklahoma	Lincoln	pcnt_children_in_poverty	24
+40083	Oklahoma	Logan	pcnt_children_in_poverty	19
+40085	Oklahoma	Love	pcnt_children_in_poverty	24
+40087	Oklahoma	McClain	pcnt_children_in_poverty	20
+40089	Oklahoma	McCurtain	pcnt_children_in_poverty	40
+40091	Oklahoma	McIntosh	pcnt_children_in_poverty	34
+40093	Oklahoma	Major	pcnt_children_in_poverty	18
+40095	Oklahoma	Marshall	pcnt_children_in_poverty	27
+40097	Oklahoma	Mayes	pcnt_children_in_poverty	27
+40099	Oklahoma	Murray	pcnt_children_in_poverty	22
+40101	Oklahoma	Muskogee	pcnt_children_in_poverty	34
+40103	Oklahoma	Noble	pcnt_children_in_poverty	20
+40105	Oklahoma	Nowata	pcnt_children_in_poverty	27
+40107	Oklahoma	Okfuskee	pcnt_children_in_poverty	32
+40109	Oklahoma	Oklahoma	pcnt_children_in_poverty	26
+40111	Oklahoma	Okmulgee	pcnt_children_in_poverty	33
+40113	Oklahoma	Osage	pcnt_children_in_poverty	24
+40115	Oklahoma	Ottawa	pcnt_children_in_poverty	31
+40117	Oklahoma	Pawnee	pcnt_children_in_poverty	25
+40119	Oklahoma	Payne	pcnt_children_in_poverty	24
+40121	Oklahoma	Pittsburg	pcnt_children_in_poverty	23
+40123	Oklahoma	Pontotoc	pcnt_children_in_poverty	25
+40125	Oklahoma	Pottawatomie	pcnt_children_in_poverty	28
+40127	Oklahoma	Pushmataha	pcnt_children_in_poverty	39
+40129	Oklahoma	Roger Mills	pcnt_children_in_poverty	19
+40131	Oklahoma	Rogers	pcnt_children_in_poverty	14
+40133	Oklahoma	Seminole	pcnt_children_in_poverty	31
+40135	Oklahoma	Sequoyah	pcnt_children_in_poverty	32
+40137	Oklahoma	Stephens	pcnt_children_in_poverty	24
+40139	Oklahoma	Texas	pcnt_children_in_poverty	21
+40141	Oklahoma	Tillman	pcnt_children_in_poverty	33
+40143	Oklahoma	Tulsa	pcnt_children_in_poverty	21
+40145	Oklahoma	Wagoner	pcnt_children_in_poverty	18
+40147	Oklahoma	Washington	pcnt_children_in_poverty	24
+40149	Oklahoma	Washita	pcnt_children_in_poverty	23
+40151	Oklahoma	Woods	pcnt_children_in_poverty	23
+40153	Oklahoma	Woodward	pcnt_children_in_poverty	20
+41001	Oregon	Baker	pcnt_children_in_poverty	33
+41003	Oregon	Benton	pcnt_children_in_poverty	17
+41005	Oregon	Clackamas	pcnt_children_in_poverty	16
+41007	Oregon	Clatsop	pcnt_children_in_poverty	28
+41009	Oregon	Columbia	pcnt_children_in_poverty	17
+41011	Oregon	Coos	pcnt_children_in_poverty	29
+41013	Oregon	Crook	pcnt_children_in_poverty	28
+41015	Oregon	Curry	pcnt_children_in_poverty	26
+41017	Oregon	Deschutes	pcnt_children_in_poverty	20
+41019	Oregon	Douglas	pcnt_children_in_poverty	28
+41021	Oregon	Gilliam	pcnt_children_in_poverty	18
+41023	Oregon	Grant	pcnt_children_in_poverty	28
+41025	Oregon	Harney	pcnt_children_in_poverty	30
+41027	Oregon	Hood River	pcnt_children_in_poverty	23
+41029	Oregon	Jackson	pcnt_children_in_poverty	27
+41031	Oregon	Jefferson	pcnt_children_in_poverty	33
+41033	Oregon	Josephine	pcnt_children_in_poverty	32
+41035	Oregon	Klamath	pcnt_children_in_poverty	31
+41037	Oregon	Lake	pcnt_children_in_poverty	30
+41039	Oregon	Lane	pcnt_children_in_poverty	24
+41041	Oregon	Lincoln	pcnt_children_in_poverty	27
+41043	Oregon	Linn	pcnt_children_in_poverty	28
+41045	Oregon	Malheur	pcnt_children_in_poverty	35
+41047	Oregon	Marion	pcnt_children_in_poverty	31
+41049	Oregon	Morrow	pcnt_children_in_poverty	23
+41051	Oregon	Multnomah	pcnt_children_in_poverty	26
+41053	Oregon	Polk	pcnt_children_in_poverty	19
+41055	Oregon	Sherman	pcnt_children_in_poverty	21
+41057	Oregon	Tillamook	pcnt_children_in_poverty	25
+41059	Oregon	Umatilla	pcnt_children_in_poverty	26
+41061	Oregon	Union	pcnt_children_in_poverty	21
+41063	Oregon	Wallowa	pcnt_children_in_poverty	27
+41065	Oregon	Wasco	pcnt_children_in_poverty	26
+41067	Oregon	Washington	pcnt_children_in_poverty	16
+41069	Oregon	Wheeler	pcnt_children_in_poverty	36
+41071	Oregon	Yamhill	pcnt_children_in_poverty	20
+42001	Pennsylvania	Adams	pcnt_children_in_poverty	13
+42003	Pennsylvania	Allegheny	pcnt_children_in_poverty	19
+42005	Pennsylvania	Armstrong	pcnt_children_in_poverty	19
+42007	Pennsylvania	Beaver	pcnt_children_in_poverty	18
+42009	Pennsylvania	Bedford	pcnt_children_in_poverty	18
+42011	Pennsylvania	Berks	pcnt_children_in_poverty	19
+42013	Pennsylvania	Blair	pcnt_children_in_poverty	22
+42015	Pennsylvania	Bradford	pcnt_children_in_poverty	22
+42017	Pennsylvania	Bucks	pcnt_children_in_poverty	8
+42019	Pennsylvania	Butler	pcnt_children_in_poverty	11
+42021	Pennsylvania	Cambria	pcnt_children_in_poverty	21
+42023	Pennsylvania	Cameron	pcnt_children_in_poverty	23
+42025	Pennsylvania	Carbon	pcnt_children_in_poverty	19
+42027	Pennsylvania	Centre	pcnt_children_in_poverty	13
+42029	Pennsylvania	Chester	pcnt_children_in_poverty	9
+42031	Pennsylvania	Clarion	pcnt_children_in_poverty	18
+42033	Pennsylvania	Clearfield	pcnt_children_in_poverty	22
+42035	Pennsylvania	Clinton	pcnt_children_in_poverty	23
+42037	Pennsylvania	Columbia	pcnt_children_in_poverty	18
+42039	Pennsylvania	Crawford	pcnt_children_in_poverty	25
+42041	Pennsylvania	Cumberland	pcnt_children_in_poverty	11
+42043	Pennsylvania	Dauphin	pcnt_children_in_poverty	20
+42045	Pennsylvania	Delaware	pcnt_children_in_poverty	15
+42047	Pennsylvania	Elk	pcnt_children_in_poverty	15
+42049	Pennsylvania	Erie	pcnt_children_in_poverty	26
+42051	Pennsylvania	Fayette	pcnt_children_in_poverty	32
+42053	Pennsylvania	Forest	pcnt_children_in_poverty	32
+42055	Pennsylvania	Franklin	pcnt_children_in_poverty	15
+42057	Pennsylvania	Fulton	pcnt_children_in_poverty	19
+42059	Pennsylvania	Greene	pcnt_children_in_poverty	22
+42061	Pennsylvania	Huntingdon	pcnt_children_in_poverty	19
+42063	Pennsylvania	Indiana	pcnt_children_in_poverty	23
+42065	Pennsylvania	Jefferson	pcnt_children_in_poverty	23
+42067	Pennsylvania	Juniata	pcnt_children_in_poverty	21
+42069	Pennsylvania	Lackawanna	pcnt_children_in_poverty	19
+42071	Pennsylvania	Lancaster	pcnt_children_in_poverty	16
+42073	Pennsylvania	Lawrence	pcnt_children_in_poverty	25
+42075	Pennsylvania	Lebanon	pcnt_children_in_poverty	18
+42077	Pennsylvania	Lehigh	pcnt_children_in_poverty	22
+42079	Pennsylvania	Luzerne	pcnt_children_in_poverty	26
+42081	Pennsylvania	Lycoming	pcnt_children_in_poverty	21
+42083	Pennsylvania	McKean	pcnt_children_in_poverty	24
+42085	Pennsylvania	Mercer	pcnt_children_in_poverty	23
+42087	Pennsylvania	Mifflin	pcnt_children_in_poverty	28
+42089	Pennsylvania	Monroe	pcnt_children_in_poverty	17
+42091	Pennsylvania	Montgomery	pcnt_children_in_poverty	7
+42093	Pennsylvania	Montour	pcnt_children_in_poverty	18
+42095	Pennsylvania	Northampton	pcnt_children_in_poverty	13
+42097	Pennsylvania	Northumberland	pcnt_children_in_poverty	21
+42099	Pennsylvania	Perry	pcnt_children_in_poverty	17
+42101	Pennsylvania	Philadelphia	pcnt_children_in_poverty	39
+42103	Pennsylvania	Pike	pcnt_children_in_poverty	15
+42105	Pennsylvania	Potter	pcnt_children_in_poverty	25
+42107	Pennsylvania	Schuylkill	pcnt_children_in_poverty	19
+42109	Pennsylvania	Snyder	pcnt_children_in_poverty	19
+42111	Pennsylvania	Somerset	pcnt_children_in_poverty	21
+42113	Pennsylvania	Sullivan	pcnt_children_in_poverty	22
+42115	Pennsylvania	Susquehanna	pcnt_children_in_poverty	21
+42117	Pennsylvania	Tioga	pcnt_children_in_poverty	22
+42119	Pennsylvania	Union	pcnt_children_in_poverty	17
+42121	Pennsylvania	Venango	pcnt_children_in_poverty	26
+42123	Pennsylvania	Warren	pcnt_children_in_poverty	24
+42125	Pennsylvania	Washington	pcnt_children_in_poverty	14
+42127	Pennsylvania	Wayne	pcnt_children_in_poverty	20
+42129	Pennsylvania	Westmoreland	pcnt_children_in_poverty	15
+42131	Pennsylvania	Wyoming	pcnt_children_in_poverty	20
+42133	Pennsylvania	York	pcnt_children_in_poverty	15
+44001	Rhode Island	Bristol	pcnt_children_in_poverty	9
+44003	Rhode Island	Kent	pcnt_children_in_poverty	14
+44005	Rhode Island	Newport	pcnt_children_in_poverty	14
+44007	Rhode Island	Providence	pcnt_children_in_poverty	27
+44009	Rhode Island	Washington	pcnt_children_in_poverty	12
+45001	South Carolina	Abbeville	pcnt_children_in_poverty	29
+45003	South Carolina	Aiken	pcnt_children_in_poverty	32
+45005	South Carolina	Allendale	pcnt_children_in_poverty	49
+45007	South Carolina	Anderson	pcnt_children_in_poverty	24
+45009	South Carolina	Bamberg	pcnt_children_in_poverty	37
+45011	South Carolina	Barnwell	pcnt_children_in_poverty	35
+45013	South Carolina	Beaufort	pcnt_children_in_poverty	23
+45015	South Carolina	Berkeley	pcnt_children_in_poverty	23
+45017	South Carolina	Calhoun	pcnt_children_in_poverty	30
+45019	South Carolina	Charleston	pcnt_children_in_poverty	26
+45021	South Carolina	Cherokee	pcnt_children_in_poverty	32
+45023	South Carolina	Chester	pcnt_children_in_poverty	46
+45025	South Carolina	Chesterfield	pcnt_children_in_poverty	33
+45027	South Carolina	Clarendon	pcnt_children_in_poverty	37
+45029	South Carolina	Colleton	pcnt_children_in_poverty	40
+45031	South Carolina	Darlington	pcnt_children_in_poverty	35
+45033	South Carolina	Dillon	pcnt_children_in_poverty	48
+45035	South Carolina	Dorchester	pcnt_children_in_poverty	19
+45037	South Carolina	Edgefield	pcnt_children_in_poverty	28
+45039	South Carolina	Fairfield	pcnt_children_in_poverty	32
+45041	South Carolina	Florence	pcnt_children_in_poverty	31
+45043	South Carolina	Georgetown	pcnt_children_in_poverty	37
+45045	South Carolina	Greenville	pcnt_children_in_poverty	25
+45047	South Carolina	Greenwood	pcnt_children_in_poverty	29
+45049	South Carolina	Hampton	pcnt_children_in_poverty	39
+45051	South Carolina	Horry	pcnt_children_in_poverty	32
+45053	South Carolina	Jasper	pcnt_children_in_poverty	39
+45055	South Carolina	Kershaw	pcnt_children_in_poverty	27
+45057	South Carolina	Lancaster	pcnt_children_in_poverty	28
+45059	South Carolina	Laurens	pcnt_children_in_poverty	37
+45061	South Carolina	Lee	pcnt_children_in_poverty	40
+45063	South Carolina	Lexington	pcnt_children_in_poverty	21
+45065	South Carolina	McCormick	pcnt_children_in_poverty	34
+45067	South Carolina	Marion	pcnt_children_in_poverty	42
+45069	South Carolina	Marlboro	pcnt_children_in_poverty	44
+45071	South Carolina	Newberry	pcnt_children_in_poverty	33
+45073	South Carolina	Oconee	pcnt_children_in_poverty	28
+45075	South Carolina	Orangeburg	pcnt_children_in_poverty	34
+45077	South Carolina	Pickens	pcnt_children_in_poverty	24
+45079	South Carolina	Richland	pcnt_children_in_poverty	24
+45081	South Carolina	Saluda	pcnt_children_in_poverty	28
+45083	South Carolina	Spartanburg	pcnt_children_in_poverty	27
+45085	South Carolina	Sumter	pcnt_children_in_poverty	28
+45087	South Carolina	Union	pcnt_children_in_poverty	31
+45089	South Carolina	Williamsburg	pcnt_children_in_poverty	42
+45091	South Carolina	York	pcnt_children_in_poverty	21
+46003	South Dakota	Aurora	pcnt_children_in_poverty	18
+46005	South Dakota	Beadle	pcnt_children_in_poverty	21
+46007	South Dakota	Bennett	pcnt_children_in_poverty	49
+46009	South Dakota	Bon Homme	pcnt_children_in_poverty	20
+46011	South Dakota	Brookings	pcnt_children_in_poverty	13
+46013	South Dakota	Brown	pcnt_children_in_poverty	13
+46015	South Dakota	Brule	pcnt_children_in_poverty	18
+46017	South Dakota	Buffalo	pcnt_children_in_poverty	49
+46019	South Dakota	Butte	pcnt_children_in_poverty	24
+46021	South Dakota	Campbell	pcnt_children_in_poverty	12
+46023	South Dakota	Charles Mix	pcnt_children_in_poverty	36
+46025	South Dakota	Clark	pcnt_children_in_poverty	24
+46027	South Dakota	Clay	pcnt_children_in_poverty	21
+46029	South Dakota	Codington	pcnt_children_in_poverty	15
+46031	South Dakota	Corson	pcnt_children_in_poverty	49
+46033	South Dakota	Custer	pcnt_children_in_poverty	21
+46035	South Dakota	Davison	pcnt_children_in_poverty	16
+46037	South Dakota	Day	pcnt_children_in_poverty	23
+46039	South Dakota	Deuel	pcnt_children_in_poverty	14
+46041	South Dakota	Dewey	pcnt_children_in_poverty	40
+46043	South Dakota	Douglas	pcnt_children_in_poverty	15
+46045	South Dakota	Edmunds	pcnt_children_in_poverty	17
+46047	South Dakota	Fall River	pcnt_children_in_poverty	24
+46049	South Dakota	Faulk	pcnt_children_in_poverty	20
+46051	South Dakota	Grant	pcnt_children_in_poverty	14
+46053	South Dakota	Gregory	pcnt_children_in_poverty	30
+46055	South Dakota	Haakon	pcnt_children_in_poverty	17
+46057	South Dakota	Hamlin	pcnt_children_in_poverty	17
+46059	South Dakota	Hand	pcnt_children_in_poverty	15
+46061	South Dakota	Hanson	pcnt_children_in_poverty	12
+46063	South Dakota	Harding	pcnt_children_in_poverty	24
+46065	South Dakota	Hughes	pcnt_children_in_poverty	14
+46067	South Dakota	Hutchinson	pcnt_children_in_poverty	18
+46069	South Dakota	Hyde	pcnt_children_in_poverty	16
+46071	South Dakota	Jackson	pcnt_children_in_poverty	45
+46073	South Dakota	Jerauld	pcnt_children_in_poverty	26
+46075	South Dakota	Jones	pcnt_children_in_poverty	23
+46077	South Dakota	Kingsbury	pcnt_children_in_poverty	16
+46079	South Dakota	Lake	pcnt_children_in_poverty	14
+46081	South Dakota	Lawrence	pcnt_children_in_poverty	17
+46083	South Dakota	Lincoln	pcnt_children_in_poverty	6
+46085	South Dakota	Lyman	pcnt_children_in_poverty	32
+46087	South Dakota	McCook	pcnt_children_in_poverty	15
+46089	South Dakota	McPherson	pcnt_children_in_poverty	27
+46091	South Dakota	Marshall	pcnt_children_in_poverty	22
+46093	South Dakota	Meade	pcnt_children_in_poverty	18
+46095	South Dakota	Mellette	pcnt_children_in_poverty	50
+46097	South Dakota	Miner	pcnt_children_in_poverty	17
+46099	South Dakota	Minnehaha	pcnt_children_in_poverty	15
+46101	South Dakota	Moody	pcnt_children_in_poverty	16
+46103	South Dakota	Pennington	pcnt_children_in_poverty	20
+46105	South Dakota	Perkins	pcnt_children_in_poverty	22
+46107	South Dakota	Potter	pcnt_children_in_poverty	16
+46109	South Dakota	Roberts	pcnt_children_in_poverty	28
+46111	South Dakota	Sanborn	pcnt_children_in_poverty	21
+46113	South Dakota	Shannon	pcnt_children_in_poverty	52
+46115	South Dakota	Spink	pcnt_children_in_poverty	16
+46117	South Dakota	Stanley	pcnt_children_in_poverty	17
+46119	South Dakota	Sully	pcnt_children_in_poverty	10
+46121	South Dakota	Todd	pcnt_children_in_poverty	52
+46123	South Dakota	Tripp	pcnt_children_in_poverty	28
+46125	South Dakota	Turner	pcnt_children_in_poverty	12
+46127	South Dakota	Union	pcnt_children_in_poverty	9
+46129	South Dakota	Walworth	pcnt_children_in_poverty	24
+46135	South Dakota	Yankton	pcnt_children_in_poverty	16
+46137	South Dakota	Ziebach	pcnt_children_in_poverty	52
+47001	Tennessee	Anderson	pcnt_children_in_poverty	25
+47003	Tennessee	Bedford	pcnt_children_in_poverty	28
+47005	Tennessee	Benton	pcnt_children_in_poverty	35
+47007	Tennessee	Bledsoe	pcnt_children_in_poverty	34
+47009	Tennessee	Blount	pcnt_children_in_poverty	21
+47011	Tennessee	Bradley	pcnt_children_in_poverty	28
+47013	Tennessee	Campbell	pcnt_children_in_poverty	39
+47015	Tennessee	Cannon	pcnt_children_in_poverty	32
+47017	Tennessee	Carroll	pcnt_children_in_poverty	32
+47019	Tennessee	Carter	pcnt_children_in_poverty	31
+47021	Tennessee	Cheatham	pcnt_children_in_poverty	21
+47023	Tennessee	Chester	pcnt_children_in_poverty	27
+47025	Tennessee	Claiborne	pcnt_children_in_poverty	37
+47027	Tennessee	Clay	pcnt_children_in_poverty	35
+47029	Tennessee	Cocke	pcnt_children_in_poverty	41
+47031	Tennessee	Coffee	pcnt_children_in_poverty	29
+47033	Tennessee	Crockett	pcnt_children_in_poverty	29
+47035	Tennessee	Cumberland	pcnt_children_in_poverty	34
+47037	Tennessee	Davidson	pcnt_children_in_poverty	29
+47039	Tennessee	Decatur	pcnt_children_in_poverty	33
+47041	Tennessee	DeKalb	pcnt_children_in_poverty	32
+47043	Tennessee	Dickson	pcnt_children_in_poverty	22
+47045	Tennessee	Dyer	pcnt_children_in_poverty	30
+47047	Tennessee	Fayette	pcnt_children_in_poverty	21
+47049	Tennessee	Fentress	pcnt_children_in_poverty	39
+47051	Tennessee	Franklin	pcnt_children_in_poverty	26
+47053	Tennessee	Gibson	pcnt_children_in_poverty	27
+47055	Tennessee	Giles	pcnt_children_in_poverty	26
+47057	Tennessee	Grainger	pcnt_children_in_poverty	32
+47059	Tennessee	Greene	pcnt_children_in_poverty	38
+47061	Tennessee	Grundy	pcnt_children_in_poverty	45
+47063	Tennessee	Hamblen	pcnt_children_in_poverty	29
+47065	Tennessee	Hamilton	pcnt_children_in_poverty	28
+47067	Tennessee	Hancock	pcnt_children_in_poverty	45
+47069	Tennessee	Hardeman	pcnt_children_in_poverty	31
+47071	Tennessee	Hardin	pcnt_children_in_poverty	40
+47073	Tennessee	Hawkins	pcnt_children_in_poverty	29
+47075	Tennessee	Haywood	pcnt_children_in_poverty	35
+47077	Tennessee	Henderson	pcnt_children_in_poverty	26
+47079	Tennessee	Henry	pcnt_children_in_poverty	30
+47081	Tennessee	Hickman	pcnt_children_in_poverty	31
+47083	Tennessee	Houston	pcnt_children_in_poverty	30
+47085	Tennessee	Humphreys	pcnt_children_in_poverty	27
+47087	Tennessee	Jackson	pcnt_children_in_poverty	37
+47089	Tennessee	Jefferson	pcnt_children_in_poverty	29
+47091	Tennessee	Johnson	pcnt_children_in_poverty	37
+47093	Tennessee	Knox	pcnt_children_in_poverty	20
+47095	Tennessee	Lake	pcnt_children_in_poverty	48
+47097	Tennessee	Lauderdale	pcnt_children_in_poverty	39
+47099	Tennessee	Lawrence	pcnt_children_in_poverty	27
+47101	Tennessee	Lewis	pcnt_children_in_poverty	33
+47103	Tennessee	Lincoln	pcnt_children_in_poverty	25
+47105	Tennessee	Loudon	pcnt_children_in_poverty	24
+47107	Tennessee	McMinn	pcnt_children_in_poverty	28
+47109	Tennessee	McNairy	pcnt_children_in_poverty	32
+47111	Tennessee	Macon	pcnt_children_in_poverty	33
+47113	Tennessee	Madison	pcnt_children_in_poverty	32
+47115	Tennessee	Marion	pcnt_children_in_poverty	29
+47117	Tennessee	Marshall	pcnt_children_in_poverty	24
+47119	Tennessee	Maury	pcnt_children_in_poverty	25
+47121	Tennessee	Meigs	pcnt_children_in_poverty	33
+47123	Tennessee	Monroe	pcnt_children_in_poverty	34
+47125	Tennessee	Montgomery	pcnt_children_in_poverty	24
+47127	Tennessee	Moore	pcnt_children_in_poverty	23
+47129	Tennessee	Morgan	pcnt_children_in_poverty	30
+47131	Tennessee	Obion	pcnt_children_in_poverty	28
+47133	Tennessee	Overton	pcnt_children_in_poverty	34
+47135	Tennessee	Perry	pcnt_children_in_poverty	31
+47137	Tennessee	Pickett	pcnt_children_in_poverty	31
+47139	Tennessee	Polk	pcnt_children_in_poverty	27
+47141	Tennessee	Putnam	pcnt_children_in_poverty	29
+47143	Tennessee	Rhea	pcnt_children_in_poverty	31
+47145	Tennessee	Roane	pcnt_children_in_poverty	29
+47147	Tennessee	Robertson	pcnt_children_in_poverty	22
+47149	Tennessee	Rutherford	pcnt_children_in_poverty	16
+47151	Tennessee	Scott	pcnt_children_in_poverty	34
+47153	Tennessee	Sequatchie	pcnt_children_in_poverty	32
+47155	Tennessee	Sevier	pcnt_children_in_poverty	29
+47157	Tennessee	Shelby	pcnt_children_in_poverty	31
+47159	Tennessee	Smith	pcnt_children_in_poverty	27
+47161	Tennessee	Stewart	pcnt_children_in_poverty	26
+47163	Tennessee	Sullivan	pcnt_children_in_poverty	27
+47165	Tennessee	Sumner	pcnt_children_in_poverty	17
+47167	Tennessee	Tipton	pcnt_children_in_poverty	23
+47169	Tennessee	Trousdale	pcnt_children_in_poverty	28
+47171	Tennessee	Unicoi	pcnt_children_in_poverty	29
+47173	Tennessee	Union	pcnt_children_in_poverty	34
+47175	Tennessee	Van Buren	pcnt_children_in_poverty	31
+47177	Tennessee	Warren	pcnt_children_in_poverty	32
+47179	Tennessee	Washington	pcnt_children_in_poverty	24
+47181	Tennessee	Wayne	pcnt_children_in_poverty	32
+47183	Tennessee	Weakley	pcnt_children_in_poverty	25
+47185	Tennessee	White	pcnt_children_in_poverty	30
+47187	Tennessee	Williamson	pcnt_children_in_poverty	7
+47189	Tennessee	Wilson	pcnt_children_in_poverty	17
+48001	Texas	Anderson	pcnt_children_in_poverty	27
+48003	Texas	Andrews	pcnt_children_in_poverty	18
+48005	Texas	Angelina	pcnt_children_in_poverty	29
+48007	Texas	Aransas	pcnt_children_in_poverty	38
+48009	Texas	Archer	pcnt_children_in_poverty	17
+48011	Texas	Armstrong	pcnt_children_in_poverty	16
+48013	Texas	Atascosa	pcnt_children_in_poverty	32
+48015	Texas	Austin	pcnt_children_in_poverty	20
+48017	Texas	Bailey	pcnt_children_in_poverty	28
+48019	Texas	Bandera	pcnt_children_in_poverty	24
+48021	Texas	Bastrop	pcnt_children_in_poverty	23
+48023	Texas	Baylor	pcnt_children_in_poverty	32
+48025	Texas	Bee	pcnt_children_in_poverty	36
+48027	Texas	Bell	pcnt_children_in_poverty	23
+48029	Texas	Bexar	pcnt_children_in_poverty	26
+48031	Texas	Blanco	pcnt_children_in_poverty	21
+48033	Texas	Borden	pcnt_children_in_poverty	16
+48035	Texas	Bosque	pcnt_children_in_poverty	26
+48037	Texas	Bowie	pcnt_children_in_poverty	28
+48039	Texas	Brazoria	pcnt_children_in_poverty	17
+48041	Texas	Brazos	pcnt_children_in_poverty	24
+48043	Texas	Brewster	pcnt_children_in_poverty	24
+48045	Texas	Briscoe	pcnt_children_in_poverty	27
+48047	Texas	Brooks	pcnt_children_in_poverty	48
+48049	Texas	Brown	pcnt_children_in_poverty	31
+48051	Texas	Burleson	pcnt_children_in_poverty	26
+48053	Texas	Burnet	pcnt_children_in_poverty	27
+48055	Texas	Caldwell	pcnt_children_in_poverty	27
+48057	Texas	Calhoun	pcnt_children_in_poverty	27
+48059	Texas	Callahan	pcnt_children_in_poverty	26
+48061	Texas	Cameron	pcnt_children_in_poverty	47
+48063	Texas	Camp	pcnt_children_in_poverty	36
+48065	Texas	Carson	pcnt_children_in_poverty	13
+48067	Texas	Cass	pcnt_children_in_poverty	26
+48069	Texas	Castro	pcnt_children_in_poverty	31
+48071	Texas	Chambers	pcnt_children_in_poverty	14
+48073	Texas	Cherokee	pcnt_children_in_poverty	32
+48075	Texas	Childress	pcnt_children_in_poverty	32
+48077	Texas	Clay	pcnt_children_in_poverty	18
+48079	Texas	Cochran	pcnt_children_in_poverty	33
+48081	Texas	Coke	pcnt_children_in_poverty	21
+48083	Texas	Coleman	pcnt_children_in_poverty	39
+48085	Texas	Collin	pcnt_children_in_poverty	10
+48087	Texas	Collingsworth	pcnt_children_in_poverty	37
+48089	Texas	Colorado	pcnt_children_in_poverty	26
+48091	Texas	Comal	pcnt_children_in_poverty	16
+48093	Texas	Comanche	pcnt_children_in_poverty	36
+48095	Texas	Concho	pcnt_children_in_poverty	31
+48097	Texas	Cooke	pcnt_children_in_poverty	24
+48099	Texas	Coryell	pcnt_children_in_poverty	22
+48101	Texas	Cottle	pcnt_children_in_poverty	33
+48103	Texas	Crane	pcnt_children_in_poverty	15
+48105	Texas	Crockett	pcnt_children_in_poverty	26
+48107	Texas	Crosby	pcnt_children_in_poverty	40
+48109	Texas	Culberson	pcnt_children_in_poverty	38
+48111	Texas	Dallam	pcnt_children_in_poverty	22
+48113	Texas	Dallas	pcnt_children_in_poverty	30
+48115	Texas	Dawson	pcnt_children_in_poverty	32
+48117	Texas	Deaf Smith	pcnt_children_in_poverty	31
+48119	Texas	Delta	pcnt_children_in_poverty	32
+48121	Texas	Denton	pcnt_children_in_poverty	12
+48123	Texas	DeWitt	pcnt_children_in_poverty	28
+48125	Texas	Dickens	pcnt_children_in_poverty	35
+48127	Texas	Dimmit	pcnt_children_in_poverty	40
+48129	Texas	Donley	pcnt_children_in_poverty	32
+48131	Texas	Duval	pcnt_children_in_poverty	39
+48133	Texas	Eastland	pcnt_children_in_poverty	30
+48135	Texas	Ector	pcnt_children_in_poverty	21
+48137	Texas	Edwards	pcnt_children_in_poverty	38
+48139	Texas	Ellis	pcnt_children_in_poverty	18
+48141	Texas	El Paso	pcnt_children_in_poverty	34
+48143	Texas	Erath	pcnt_children_in_poverty	26
+48145	Texas	Falls	pcnt_children_in_poverty	34
+48147	Texas	Fannin	pcnt_children_in_poverty	27
+48149	Texas	Fayette	pcnt_children_in_poverty	22
+48151	Texas	Fisher	pcnt_children_in_poverty	22
+48153	Texas	Floyd	pcnt_children_in_poverty	32
+48155	Texas	Foard	pcnt_children_in_poverty	26
+48157	Texas	Fort Bend	pcnt_children_in_poverty	12
+48159	Texas	Franklin	pcnt_children_in_poverty	29
+48161	Texas	Freestone	pcnt_children_in_poverty	22
+48163	Texas	Frio	pcnt_children_in_poverty	41
+48165	Texas	Gaines	pcnt_children_in_poverty	25
+48167	Texas	Galveston	pcnt_children_in_poverty	22
+48169	Texas	Garza	pcnt_children_in_poverty	30
+48171	Texas	Gillespie	pcnt_children_in_poverty	21
+48173	Texas	Glasscock	pcnt_children_in_poverty	18
+48175	Texas	Goliad	pcnt_children_in_poverty	25
+48177	Texas	Gonzales	pcnt_children_in_poverty	37
+48179	Texas	Gray	pcnt_children_in_poverty	19
+48181	Texas	Grayson	pcnt_children_in_poverty	24
+48183	Texas	Gregg	pcnt_children_in_poverty	26
+48185	Texas	Grimes	pcnt_children_in_poverty	26
+48187	Texas	Guadalupe	pcnt_children_in_poverty	16
+48189	Texas	Hale	pcnt_children_in_poverty	37
+48191	Texas	Hall	pcnt_children_in_poverty	41
+48193	Texas	Hamilton	pcnt_children_in_poverty	29
+48195	Texas	Hansford	pcnt_children_in_poverty	20
+48197	Texas	Hardeman	pcnt_children_in_poverty	32
+48199	Texas	Hardin	pcnt_children_in_poverty	19
+48201	Texas	Harris	pcnt_children_in_poverty	29
+48203	Texas	Harrison	pcnt_children_in_poverty	25
+48205	Texas	Hartley	pcnt_children_in_poverty	12
+48207	Texas	Haskell	pcnt_children_in_poverty	37
+48209	Texas	Hays	pcnt_children_in_poverty	18
+48211	Texas	Hemphill	pcnt_children_in_poverty	12
+48213	Texas	Henderson	pcnt_children_in_poverty	27
+48215	Texas	Hidalgo	pcnt_children_in_poverty	48
+48217	Texas	Hill	pcnt_children_in_poverty	28
+48219	Texas	Hockley	pcnt_children_in_poverty	26
+48221	Texas	Hood	pcnt_children_in_poverty	20
+48223	Texas	Hopkins	pcnt_children_in_poverty	32
+48225	Texas	Houston	pcnt_children_in_poverty	34
+48227	Texas	Howard	pcnt_children_in_poverty	32
+48229	Texas	Hudspeth	pcnt_children_in_poverty	47
+48231	Texas	Hunt	pcnt_children_in_poverty	24
+48233	Texas	Hutchinson	pcnt_children_in_poverty	20
+48235	Texas	Irion	pcnt_children_in_poverty	17
+48237	Texas	Jack	pcnt_children_in_poverty	20
+48239	Texas	Jackson	pcnt_children_in_poverty	23
+48241	Texas	Jasper	pcnt_children_in_poverty	28
+48243	Texas	Jeff Davis	pcnt_children_in_poverty	28
+48245	Texas	Jefferson	pcnt_children_in_poverty	29
+48247	Texas	Jim Hogg	pcnt_children_in_poverty	36
+48249	Texas	Jim Wells	pcnt_children_in_poverty	38
+48251	Texas	Johnson	pcnt_children_in_poverty	20
+48253	Texas	Jones	pcnt_children_in_poverty	31
+48255	Texas	Karnes	pcnt_children_in_poverty	32
+48257	Texas	Kaufman	pcnt_children_in_poverty	18
+48259	Texas	Kendall	pcnt_children_in_poverty	15
+48261	Texas	Kenedy	pcnt_children_in_poverty	27
+48263	Texas	Kent	pcnt_children_in_poverty	19
+48265	Texas	Kerr	pcnt_children_in_poverty	27
+48267	Texas	Kimble	pcnt_children_in_poverty	35
+48269	Texas	King	pcnt_children_in_poverty	10
+48271	Texas	Kinney	pcnt_children_in_poverty	33
+48273	Texas	Kleberg	pcnt_children_in_poverty	35
+48275	Texas	Knox	pcnt_children_in_poverty	35
+48277	Texas	Lamar	pcnt_children_in_poverty	30
+48279	Texas	Lamb	pcnt_children_in_poverty	36
+48281	Texas	Lampasas	pcnt_children_in_poverty	28
+48283	Texas	La Salle	pcnt_children_in_poverty	42
+48285	Texas	Lavaca	pcnt_children_in_poverty	19
+48287	Texas	Lee	pcnt_children_in_poverty	21
+48289	Texas	Leon	pcnt_children_in_poverty	28
+48291	Texas	Liberty	pcnt_children_in_poverty	27
+48293	Texas	Limestone	pcnt_children_in_poverty	34
+48295	Texas	Lipscomb	pcnt_children_in_poverty	18
+48297	Texas	Live Oak	pcnt_children_in_poverty	28
+48299	Texas	Llano	pcnt_children_in_poverty	29
+48301	Texas	Loving	pcnt_children_in_poverty	42
+48303	Texas	Lubbock	pcnt_children_in_poverty	26
+48305	Texas	Lynn	pcnt_children_in_poverty	30
+48307	Texas	McCulloch	pcnt_children_in_poverty	37
+48309	Texas	McLennan	pcnt_children_in_poverty	34
+48311	Texas	McMullen	pcnt_children_in_poverty	18
+48313	Texas	Madison	pcnt_children_in_poverty	31
+48315	Texas	Marion	pcnt_children_in_poverty	33
+48317	Texas	Martin	pcnt_children_in_poverty	26
+48319	Texas	Mason	pcnt_children_in_poverty	30
+48321	Texas	Matagorda	pcnt_children_in_poverty	30
+48323	Texas	Maverick	pcnt_children_in_poverty	43
+48325	Texas	Medina	pcnt_children_in_poverty	26
+48327	Texas	Menard	pcnt_children_in_poverty	39
+48329	Texas	Midland	pcnt_children_in_poverty	19
+48331	Texas	Milam	pcnt_children_in_poverty	32
+48333	Texas	Mills	pcnt_children_in_poverty	29
+48335	Texas	Mitchell	pcnt_children_in_poverty	28
+48337	Texas	Montague	pcnt_children_in_poverty	25
+48339	Texas	Montgomery	pcnt_children_in_poverty	20
+48341	Texas	Moore	pcnt_children_in_poverty	24
+48343	Texas	Morris	pcnt_children_in_poverty	31
+48345	Texas	Motley	pcnt_children_in_poverty	27
+48347	Texas	Nacogdoches	pcnt_children_in_poverty	33
+48349	Texas	Navarro	pcnt_children_in_poverty	29
+48351	Texas	Newton	pcnt_children_in_poverty	30
+48353	Texas	Nolan	pcnt_children_in_poverty	32
+48355	Texas	Nueces	pcnt_children_in_poverty	32
+48357	Texas	Ochiltree	pcnt_children_in_poverty	19
+48359	Texas	Oldham	pcnt_children_in_poverty	26
+48361	Texas	Orange	pcnt_children_in_poverty	23
+48363	Texas	Palo Pinto	pcnt_children_in_poverty	29
+48365	Texas	Panola	pcnt_children_in_poverty	22
+48367	Texas	Parker	pcnt_children_in_poverty	16
+48369	Texas	Parmer	pcnt_children_in_poverty	23
+48371	Texas	Pecos	pcnt_children_in_poverty	24
+48373	Texas	Polk	pcnt_children_in_poverty	33
+48375	Texas	Potter	pcnt_children_in_poverty	32
+48377	Texas	Presidio	pcnt_children_in_poverty	36
+48379	Texas	Rains	pcnt_children_in_poverty	29
+48381	Texas	Randall	pcnt_children_in_poverty	14
+48383	Texas	Reagan	pcnt_children_in_poverty	13
+48385	Texas	Real	pcnt_children_in_poverty	39
+48387	Texas	Red River	pcnt_children_in_poverty	34
+48389	Texas	Reeves	pcnt_children_in_poverty	38
+48391	Texas	Refugio	pcnt_children_in_poverty	28
+48393	Texas	Roberts	pcnt_children_in_poverty	15
+48395	Texas	Robertson	pcnt_children_in_poverty	32
+48397	Texas	Rockwall	pcnt_children_in_poverty	9
+48399	Texas	Runnels	pcnt_children_in_poverty	32
+48401	Texas	Rusk	pcnt_children_in_poverty	23
+48403	Texas	Sabine	pcnt_children_in_poverty	34
+48405	Texas	San Augustine	pcnt_children_in_poverty	38
+48407	Texas	San Jacinto	pcnt_children_in_poverty	32
+48409	Texas	San Patricio	pcnt_children_in_poverty	30
+48411	Texas	San Saba	pcnt_children_in_poverty	33
+48413	Texas	Schleicher	pcnt_children_in_poverty	24
+48415	Texas	Scurry	pcnt_children_in_poverty	23
+48417	Texas	Shackelford	pcnt_children_in_poverty	21
+48419	Texas	Shelby	pcnt_children_in_poverty	32
+48421	Texas	Sherman	pcnt_children_in_poverty	17
+48423	Texas	Smith	pcnt_children_in_poverty	24
+48425	Texas	Somervell	pcnt_children_in_poverty	18
+48427	Texas	Starr	pcnt_children_in_poverty	46
+48429	Texas	Stephens	pcnt_children_in_poverty	30
+48431	Texas	Sterling	pcnt_children_in_poverty	19
+48433	Texas	Stonewall	pcnt_children_in_poverty	26
+48435	Texas	Sutton	pcnt_children_in_poverty	20
+48437	Texas	Swisher	pcnt_children_in_poverty	31
+48439	Texas	Tarrant	pcnt_children_in_poverty	24
+48441	Texas	Taylor	pcnt_children_in_poverty	21
+48443	Texas	Terrell	pcnt_children_in_poverty	27
+48445	Texas	Terry	pcnt_children_in_poverty	33
+48447	Texas	Throckmorton	pcnt_children_in_poverty	25
+48449	Texas	Titus	pcnt_children_in_poverty	26
+48451	Texas	Tom Green	pcnt_children_in_poverty	25
+48453	Texas	Travis	pcnt_children_in_poverty	24
+48455	Texas	Trinity	pcnt_children_in_poverty	34
+48457	Texas	Tyler	pcnt_children_in_poverty	29
+48459	Texas	Upshur	pcnt_children_in_poverty	25
+48461	Texas	Upton	pcnt_children_in_poverty	23
+48463	Texas	Uvalde	pcnt_children_in_poverty	39
+48465	Texas	Val Verde	pcnt_children_in_poverty	32
+48467	Texas	Van Zandt	pcnt_children_in_poverty	27
+48469	Texas	Victoria	pcnt_children_in_poverty	29
+48471	Texas	Walker	pcnt_children_in_poverty	28
+48473	Texas	Waller	pcnt_children_in_poverty	26
+48475	Texas	Ward	pcnt_children_in_poverty	24
+48477	Texas	Washington	pcnt_children_in_poverty	22
+48479	Texas	Webb	pcnt_children_in_poverty	44
+48481	Texas	Wharton	pcnt_children_in_poverty	27
+48483	Texas	Wheeler	pcnt_children_in_poverty	21
+48485	Texas	Wichita	pcnt_children_in_poverty	25
+48487	Texas	Wilbarger	pcnt_children_in_poverty	27
+48489	Texas	Willacy	pcnt_children_in_poverty	43
+48491	Texas	Williamson	pcnt_children_in_poverty	11
+48493	Texas	Wilson	pcnt_children_in_poverty	18
+48495	Texas	Winkler	pcnt_children_in_poverty	22
+48497	Texas	Wise	pcnt_children_in_poverty	17
+48499	Texas	Wood	pcnt_children_in_poverty	28
+48501	Texas	Yoakum	pcnt_children_in_poverty	18
+48503	Texas	Young	pcnt_children_in_poverty	26
+48505	Texas	Zapata	pcnt_children_in_poverty	46
+48507	Texas	Zavala	pcnt_children_in_poverty	46
+49001	Utah	Beaver	pcnt_children_in_poverty	15
+49003	Utah	Box Elder	pcnt_children_in_poverty	13
+49005	Utah	Cache	pcnt_children_in_poverty	17
+49007	Utah	Carbon	pcnt_children_in_poverty	19
+49009	Utah	Daggett	pcnt_children_in_poverty	8
+49011	Utah	Davis	pcnt_children_in_poverty	10
+49013	Utah	Duchesne	pcnt_children_in_poverty	15
+49015	Utah	Emery	pcnt_children_in_poverty	17
+49017	Utah	Garfield	pcnt_children_in_poverty	20
+49019	Utah	Grand	pcnt_children_in_poverty	24
+49021	Utah	Iron	pcnt_children_in_poverty	25
+49023	Utah	Juab	pcnt_children_in_poverty	18
+49025	Utah	Kane	pcnt_children_in_poverty	19
+49027	Utah	Millard	pcnt_children_in_poverty	24
+49029	Utah	Morgan	pcnt_children_in_poverty	7
+49031	Utah	Piute	pcnt_children_in_poverty	37
+49033	Utah	Rich	pcnt_children_in_poverty	17
+49035	Utah	Salt Lake	pcnt_children_in_poverty	19
+49037	Utah	San Juan	pcnt_children_in_poverty	33
+49039	Utah	Sanpete	pcnt_children_in_poverty	21
+49041	Utah	Sevier	pcnt_children_in_poverty	21
+49043	Utah	Summit	pcnt_children_in_poverty	12
+49045	Utah	Tooele	pcnt_children_in_poverty	12
+49047	Utah	Uintah	pcnt_children_in_poverty	14
+49049	Utah	Utah	pcnt_children_in_poverty	13
+49051	Utah	Wasatch	pcnt_children_in_poverty	13
+49053	Utah	Washington	pcnt_children_in_poverty	24
+49055	Utah	Wayne	pcnt_children_in_poverty	26
+49057	Utah	Weber	pcnt_children_in_poverty	17
+50001	Vermont	Addison	pcnt_children_in_poverty	14
+50003	Vermont	Bennington	pcnt_children_in_poverty	20
+50005	Vermont	Caledonia	pcnt_children_in_poverty	21
+50007	Vermont	Chittenden	pcnt_children_in_poverty	11
+50009	Vermont	Essex	pcnt_children_in_poverty	27
+50011	Vermont	Franklin	pcnt_children_in_poverty	16
+50013	Vermont	Grand Isle	pcnt_children_in_poverty	16
+50015	Vermont	Lamoille	pcnt_children_in_poverty	19
+50017	Vermont	Orange	pcnt_children_in_poverty	18
+50019	Vermont	Orleans	pcnt_children_in_poverty	27
+50021	Vermont	Rutland	pcnt_children_in_poverty	18
+50023	Vermont	Washington	pcnt_children_in_poverty	13
+50025	Vermont	Windham	pcnt_children_in_poverty	17
+50027	Vermont	Windsor	pcnt_children_in_poverty	16
+51001	Virginia	Accomack	pcnt_children_in_poverty	31
+51003	Virginia	Albemarle	pcnt_children_in_poverty	11
+51005	Virginia	Alleghany	pcnt_children_in_poverty	20
+51007	Virginia	Amelia	pcnt_children_in_poverty	18
+51009	Virginia	Amherst	pcnt_children_in_poverty	20
+51011	Virginia	Appomattox	pcnt_children_in_poverty	22
+51013	Virginia	Arlington	pcnt_children_in_poverty	10
+51015	Virginia	Augusta	pcnt_children_in_poverty	14
+51017	Virginia	Bath	pcnt_children_in_poverty	16
+51019	Virginia	Bedford	pcnt_children_in_poverty	14
+51021	Virginia	Bland	pcnt_children_in_poverty	19
+51023	Virginia	Botetourt	pcnt_children_in_poverty	10
+51025	Virginia	Brunswick	pcnt_children_in_poverty	31
+51027	Virginia	Buchanan	pcnt_children_in_poverty	31
+51029	Virginia	Buckingham	pcnt_children_in_poverty	26
+51031	Virginia	Campbell	pcnt_children_in_poverty	23
+51033	Virginia	Caroline	pcnt_children_in_poverty	19
+51035	Virginia	Carroll	pcnt_children_in_poverty	29
+51036	Virginia	Charles City	pcnt_children_in_poverty	18
+51037	Virginia	Charlotte	pcnt_children_in_poverty	31
+51041	Virginia	Chesterfield	pcnt_children_in_poverty	10
+51043	Virginia	Clarke	pcnt_children_in_poverty	10
+51045	Virginia	Craig	pcnt_children_in_poverty	20
+51047	Virginia	Culpeper	pcnt_children_in_poverty	16
+51049	Virginia	Cumberland	pcnt_children_in_poverty	27
+51051	Virginia	Dickenson	pcnt_children_in_poverty	27
+51053	Virginia	Dinwiddie	pcnt_children_in_poverty	19
+51057	Virginia	Essex	pcnt_children_in_poverty	25
+51059	Virginia	Fairfax	pcnt_children_in_poverty	9
+51061	Virginia	Fauquier	pcnt_children_in_poverty	9
+51063	Virginia	Floyd	pcnt_children_in_poverty	21
+51065	Virginia	Fluvanna	pcnt_children_in_poverty	10
+51067	Virginia	Franklin	pcnt_children_in_poverty	22
+51069	Virginia	Frederick	pcnt_children_in_poverty	12
+51071	Virginia	Giles	pcnt_children_in_poverty	19
+51073	Virginia	Gloucester	pcnt_children_in_poverty	15
+51075	Virginia	Goochland	pcnt_children_in_poverty	10
+51077	Virginia	Grayson	pcnt_children_in_poverty	29
+51079	Virginia	Greene	pcnt_children_in_poverty	14
+51081	Virginia	Greensville	pcnt_children_in_poverty	26
+51083	Virginia	Halifax	pcnt_children_in_poverty	26
+51085	Virginia	Hanover	pcnt_children_in_poverty	7
+51087	Virginia	Henrico	pcnt_children_in_poverty	15
+51089	Virginia	Henry	pcnt_children_in_poverty	34
+51091	Virginia	Highland	pcnt_children_in_poverty	23
+51093	Virginia	Isle of Wight	pcnt_children_in_poverty	16
+51095	Virginia	James City	pcnt_children_in_poverty	11
+51097	Virginia	King and Queen	pcnt_children_in_poverty	20
+51099	Virginia	King George	pcnt_children_in_poverty	10
+51101	Virginia	King William	pcnt_children_in_poverty	13
+51103	Virginia	Lancaster	pcnt_children_in_poverty	27
+51105	Virginia	Lee	pcnt_children_in_poverty	36
+51107	Virginia	Loudoun	pcnt_children_in_poverty	5
+51109	Virginia	Louisa	pcnt_children_in_poverty	17
+51111	Virginia	Lunenburg	pcnt_children_in_poverty	29
+51113	Virginia	Madison	pcnt_children_in_poverty	18
+51115	Virginia	Mathews	pcnt_children_in_poverty	18
+51117	Virginia	Mecklenburg	pcnt_children_in_poverty	29
+51119	Virginia	Middlesex	pcnt_children_in_poverty	24
+51121	Virginia	Montgomery	pcnt_children_in_poverty	17
+51125	Virginia	Nelson	pcnt_children_in_poverty	21
+51127	Virginia	New Kent	pcnt_children_in_poverty	11
+51131	Virginia	Northampton	pcnt_children_in_poverty	35
+51133	Virginia	Northumberland	pcnt_children_in_poverty	28
+51135	Virginia	Nottoway	pcnt_children_in_poverty	29
+51137	Virginia	Orange	pcnt_children_in_poverty	17
+51139	Virginia	Page	pcnt_children_in_poverty	24
+51141	Virginia	Patrick	pcnt_children_in_poverty	27
+51143	Virginia	Pittsylvania	pcnt_children_in_poverty	21
+51145	Virginia	Powhatan	pcnt_children_in_poverty	10
+51147	Virginia	Prince Edward	pcnt_children_in_poverty	27
+51149	Virginia	Prince George	pcnt_children_in_poverty	14
+51153	Virginia	Prince William	pcnt_children_in_poverty	10
+51155	Virginia	Pulaski	pcnt_children_in_poverty	24
+51157	Virginia	Rappahannock	pcnt_children_in_poverty	16
+51159	Virginia	Richmond	pcnt_children_in_poverty	26
+51161	Virginia	Roanoke	pcnt_children_in_poverty	10
+51163	Virginia	Rockbridge	pcnt_children_in_poverty	19
+51165	Virginia	Rockingham	pcnt_children_in_poverty	13
+51167	Virginia	Russell	pcnt_children_in_poverty	27
+51169	Virginia	Scott	pcnt_children_in_poverty	25
+51171	Virginia	Shenandoah	pcnt_children_in_poverty	20
+51173	Virginia	Smyth	pcnt_children_in_poverty	28
+51175	Virginia	Southampton	pcnt_children_in_poverty	22
+51177	Virginia	Spotsylvania	pcnt_children_in_poverty	12
+51179	Virginia	Stafford	pcnt_children_in_poverty	8
+51181	Virginia	Surry	pcnt_children_in_poverty	20
+51183	Virginia	Sussex	pcnt_children_in_poverty	23
+51185	Virginia	Tazewell	pcnt_children_in_poverty	23
+51187	Virginia	Warren	pcnt_children_in_poverty	16
+51191	Virginia	Washington	pcnt_children_in_poverty	20
+51193	Virginia	Westmoreland	pcnt_children_in_poverty	29
+51195	Virginia	Wise	pcnt_children_in_poverty	28
+51197	Virginia	Wythe	pcnt_children_in_poverty	22
+51199	Virginia	York	pcnt_children_in_poverty	8
+51510	Virginia	Alexandria City	pcnt_children_in_poverty	15
+51515	Virginia	Bedford City	pcnt_children_in_poverty	29
+51520	Virginia	Bristol City	pcnt_children_in_poverty	35
+51530	Virginia	Buena Vista City	pcnt_children_in_poverty	22
+51540	Virginia	Charlottesville City	pcnt_children_in_poverty	22
+51550	Virginia	Chesapeake City	pcnt_children_in_poverty	14
+51570	Virginia	Colonial Heights City	pcnt_children_in_poverty	16
+51580	Virginia	Covington City	pcnt_children_in_poverty	26
+51590	Virginia	Danville City	pcnt_children_in_poverty	41
+51595	Virginia	Emporia City	pcnt_children_in_poverty	34
+51600	Virginia	Fairfax City	pcnt_children_in_poverty	9
+51610	Virginia	Falls Church City	pcnt_children_in_poverty	3
+51620	Virginia	Franklin City	pcnt_children_in_poverty	34
+51630	Virginia	Fredericksburg City	pcnt_children_in_poverty	23
+51640	Virginia	Galax City	pcnt_children_in_poverty	37
+51650	Virginia	Hampton City	pcnt_children_in_poverty	24
+51660	Virginia	Harrisonburg City	pcnt_children_in_poverty	24
+51670	Virginia	Hopewell City	pcnt_children_in_poverty	30
+51678	Virginia	Lexington City	pcnt_children_in_poverty	14
+51680	Virginia	Lynchburg City	pcnt_children_in_poverty	25
+51683	Virginia	Manassas City	pcnt_children_in_poverty	17
+51685	Virginia	Manassas Park City	pcnt_children_in_poverty	14
+51690	Virginia	Martinsville City	pcnt_children_in_poverty	37
+51700	Virginia	Newport News City	pcnt_children_in_poverty	23
+51710	Virginia	Norfolk City	pcnt_children_in_poverty	28
+51720	Virginia	Norton City	pcnt_children_in_poverty	32
+51730	Virginia	Petersburg City	pcnt_children_in_poverty	38
+51735	Virginia	Poquoson City	pcnt_children_in_poverty	7
+51740	Virginia	Portsmouth City	pcnt_children_in_poverty	28
+51750	Virginia	Radford City	pcnt_children_in_poverty	19
+51760	Virginia	Richmond City	pcnt_children_in_poverty	36
+51770	Virginia	Roanoke City	pcnt_children_in_poverty	30
+51775	Virginia	Salem City	pcnt_children_in_poverty	15
+51790	Virginia	Staunton City	pcnt_children_in_poverty	23
+51800	Virginia	Suffolk City	pcnt_children_in_poverty	18
+51810	Virginia	Virginia Beach City	pcnt_children_in_poverty	13
+51820	Virginia	Waynesboro City	pcnt_children_in_poverty	28
+51830	Virginia	Williamsburg City	pcnt_children_in_poverty	23
+51840	Virginia	Winchester City	pcnt_children_in_poverty	24
+53001	Washington	Adams	pcnt_children_in_poverty	29
+53003	Washington	Asotin	pcnt_children_in_poverty	26
+53005	Washington	Benton	pcnt_children_in_poverty	17
+53007	Washington	Chelan	pcnt_children_in_poverty	24
+53009	Washington	Clallam	pcnt_children_in_poverty	20
+53011	Washington	Clark	pcnt_children_in_poverty	18
+53013	Washington	Columbia	pcnt_children_in_poverty	23
+53015	Washington	Cowlitz	pcnt_children_in_poverty	27
+53017	Washington	Douglas	pcnt_children_in_poverty	27
+53019	Washington	Ferry	pcnt_children_in_poverty	29
+53021	Washington	Franklin	pcnt_children_in_poverty	36
+53023	Washington	Garfield	pcnt_children_in_poverty	18
+53025	Washington	Grant	pcnt_children_in_poverty	28
+53027	Washington	Grays Harbor	pcnt_children_in_poverty	29
+53029	Washington	Island	pcnt_children_in_poverty	15
+53031	Washington	Jefferson	pcnt_children_in_poverty	24
+53033	Washington	King	pcnt_children_in_poverty	15
+53035	Washington	Kitsap	pcnt_children_in_poverty	14
+53037	Washington	Kittitas	pcnt_children_in_poverty	22
+53039	Washington	Klickitat	pcnt_children_in_poverty	27
+53041	Washington	Lewis	pcnt_children_in_poverty	24
+53043	Washington	Lincoln	pcnt_children_in_poverty	19
+53045	Washington	Mason	pcnt_children_in_poverty	22
+53047	Washington	Okanogan	pcnt_children_in_poverty	35
+53049	Washington	Pacific	pcnt_children_in_poverty	28
+53051	Washington	Pend Oreille	pcnt_children_in_poverty	33
+53053	Washington	Pierce	pcnt_children_in_poverty	17
+53055	Washington	San Juan	pcnt_children_in_poverty	20
+53057	Washington	Skagit	pcnt_children_in_poverty	23
+53059	Washington	Skamania	pcnt_children_in_poverty	21
+53061	Washington	Snohomish	pcnt_children_in_poverty	15
+53063	Washington	Spokane	pcnt_children_in_poverty	18
+53065	Washington	Stevens	pcnt_children_in_poverty	29
+53067	Washington	Thurston	pcnt_children_in_poverty	17
+53069	Washington	Wahkiakum	pcnt_children_in_poverty	26
+53071	Washington	Walla Walla	pcnt_children_in_poverty	23
+53073	Washington	Whatcom	pcnt_children_in_poverty	18
+53075	Washington	Whitman	pcnt_children_in_poverty	19
+53077	Washington	Yakima	pcnt_children_in_poverty	31
+54001	West Virginia	Barbour	pcnt_children_in_poverty	34
+54003	West Virginia	Berkeley	pcnt_children_in_poverty	21
+54005	West Virginia	Boone	pcnt_children_in_poverty	27
+54007	West Virginia	Braxton	pcnt_children_in_poverty	30
+54009	West Virginia	Brooke	pcnt_children_in_poverty	23
+54011	West Virginia	Cabell	pcnt_children_in_poverty	28
+54013	West Virginia	Calhoun	pcnt_children_in_poverty	34
+54015	West Virginia	Clay	pcnt_children_in_poverty	42
+54017	West Virginia	Doddridge	pcnt_children_in_poverty	26
+54019	West Virginia	Fayette	pcnt_children_in_poverty	30
+54021	West Virginia	Gilmer	pcnt_children_in_poverty	28
+54023	West Virginia	Grant	pcnt_children_in_poverty	29
+54025	West Virginia	Greenbrier	pcnt_children_in_poverty	25
+54027	West Virginia	Hampshire	pcnt_children_in_poverty	29
+54029	West Virginia	Hancock	pcnt_children_in_poverty	26
+54031	West Virginia	Hardy	pcnt_children_in_poverty	24
+54033	West Virginia	Harrison	pcnt_children_in_poverty	26
+54035	West Virginia	Jackson	pcnt_children_in_poverty	27
+54037	West Virginia	Jefferson	pcnt_children_in_poverty	15
+54039	West Virginia	Kanawha	pcnt_children_in_poverty	27
+54041	West Virginia	Lewis	pcnt_children_in_poverty	29
+54043	West Virginia	Lincoln	pcnt_children_in_poverty	35
+54045	West Virginia	Logan	pcnt_children_in_poverty	28
+54047	West Virginia	McDowell	pcnt_children_in_poverty	46
+54049	West Virginia	Marion	pcnt_children_in_poverty	23
+54051	West Virginia	Marshall	pcnt_children_in_poverty	22
+54053	West Virginia	Mason	pcnt_children_in_poverty	29
+54055	West Virginia	Mercer	pcnt_children_in_poverty	34
+54057	West Virginia	Mineral	pcnt_children_in_poverty	25
+54059	West Virginia	Mingo	pcnt_children_in_poverty	32
+54061	West Virginia	Monongalia	pcnt_children_in_poverty	17
+54063	West Virginia	Monroe	pcnt_children_in_poverty	28
+54065	West Virginia	Morgan	pcnt_children_in_poverty	22
+54067	West Virginia	Nicholas	pcnt_children_in_poverty	29
+54069	West Virginia	Ohio	pcnt_children_in_poverty	22
+54071	West Virginia	Pendleton	pcnt_children_in_poverty	27
+54073	West Virginia	Pleasants	pcnt_children_in_poverty	21
+54075	West Virginia	Pocahontas	pcnt_children_in_poverty	29
+54077	West Virginia	Preston	pcnt_children_in_poverty	24
+54079	West Virginia	Putnam	pcnt_children_in_poverty	15
+54081	West Virginia	Raleigh	pcnt_children_in_poverty	23
+54083	West Virginia	Randolph	pcnt_children_in_poverty	31
+54085	West Virginia	Ritchie	pcnt_children_in_poverty	28
+54087	West Virginia	Roane	pcnt_children_in_poverty	33
+54089	West Virginia	Summers	pcnt_children_in_poverty	36
+54091	West Virginia	Taylor	pcnt_children_in_poverty	25
+54093	West Virginia	Tucker	pcnt_children_in_poverty	25
+54095	West Virginia	Tyler	pcnt_children_in_poverty	28
+54097	West Virginia	Upshur	pcnt_children_in_poverty	28
+54099	West Virginia	Wayne	pcnt_children_in_poverty	28
+54101	West Virginia	Webster	pcnt_children_in_poverty	38
+54103	West Virginia	Wetzel	pcnt_children_in_poverty	27
+54105	West Virginia	Wirt	pcnt_children_in_poverty	30
+54107	West Virginia	Wood	pcnt_children_in_poverty	28
+54109	West Virginia	Wyoming	pcnt_children_in_poverty	34
+55001	Wisconsin	Adams	pcnt_children_in_poverty	29
+55003	Wisconsin	Ashland	pcnt_children_in_poverty	26
+55005	Wisconsin	Barron	pcnt_children_in_poverty	20
+55007	Wisconsin	Bayfield	pcnt_children_in_poverty	21
+55009	Wisconsin	Brown	pcnt_children_in_poverty	15
+55011	Wisconsin	Buffalo	pcnt_children_in_poverty	18
+55013	Wisconsin	Burnett	pcnt_children_in_poverty	27
+55015	Wisconsin	Calumet	pcnt_children_in_poverty	8
+55017	Wisconsin	Chippewa	pcnt_children_in_poverty	16
+55019	Wisconsin	Clark	pcnt_children_in_poverty	27
+55021	Wisconsin	Columbia	pcnt_children_in_poverty	14
+55023	Wisconsin	Crawford	pcnt_children_in_poverty	20
+55025	Wisconsin	Dane	pcnt_children_in_poverty	15
+55027	Wisconsin	Dodge	pcnt_children_in_poverty	14
+55029	Wisconsin	Door	pcnt_children_in_poverty	16
+55031	Wisconsin	Douglas	pcnt_children_in_poverty	20
+55033	Wisconsin	Dunn	pcnt_children_in_poverty	17
+55035	Wisconsin	Eau Claire	pcnt_children_in_poverty	16
+55037	Wisconsin	Florence	pcnt_children_in_poverty	20
+55039	Wisconsin	Fond du Lac	pcnt_children_in_poverty	14
+55041	Wisconsin	Forest	pcnt_children_in_poverty	23
+55043	Wisconsin	Grant	pcnt_children_in_poverty	20
+55045	Wisconsin	Green	pcnt_children_in_poverty	12
+55047	Wisconsin	Green Lake	pcnt_children_in_poverty	21
+55049	Wisconsin	Iowa	pcnt_children_in_poverty	14
+55051	Wisconsin	Iron	pcnt_children_in_poverty	22
+55053	Wisconsin	Jackson	pcnt_children_in_poverty	22
+55055	Wisconsin	Jefferson	pcnt_children_in_poverty	14
+55057	Wisconsin	Juneau	pcnt_children_in_poverty	25
+55059	Wisconsin	Kenosha	pcnt_children_in_poverty	19
+55061	Wisconsin	Kewaunee	pcnt_children_in_poverty	13
+55063	Wisconsin	La Crosse	pcnt_children_in_poverty	15
+55065	Wisconsin	Lafayette	pcnt_children_in_poverty	20
+55067	Wisconsin	Langlade	pcnt_children_in_poverty	23
+55069	Wisconsin	Lincoln	pcnt_children_in_poverty	16
+55071	Wisconsin	Manitowoc	pcnt_children_in_poverty	13
+55073	Wisconsin	Marathon	pcnt_children_in_poverty	16
+55075	Wisconsin	Marinette	pcnt_children_in_poverty	18
+55077	Wisconsin	Marquette	pcnt_children_in_poverty	26
+55078	Wisconsin	Menominee	pcnt_children_in_poverty	48
+55079	Wisconsin	Milwaukee	pcnt_children_in_poverty	32
+55081	Wisconsin	Monroe	pcnt_children_in_poverty	25
+55083	Wisconsin	Oconto	pcnt_children_in_poverty	15
+55085	Wisconsin	Oneida	pcnt_children_in_poverty	20
+55087	Wisconsin	Outagamie	pcnt_children_in_poverty	11
+55089	Wisconsin	Ozaukee	pcnt_children_in_poverty	6
+55091	Wisconsin	Pepin	pcnt_children_in_poverty	22
+55093	Wisconsin	Pierce	pcnt_children_in_poverty	9
+55095	Wisconsin	Polk	pcnt_children_in_poverty	16
+55097	Wisconsin	Portage	pcnt_children_in_poverty	15
+55099	Wisconsin	Price	pcnt_children_in_poverty	22
+55101	Wisconsin	Racine	pcnt_children_in_poverty	21
+55103	Wisconsin	Richland	pcnt_children_in_poverty	23
+55105	Wisconsin	Rock	pcnt_children_in_poverty	21
+55107	Wisconsin	Rusk	pcnt_children_in_poverty	29
+55109	Wisconsin	St. Croix	pcnt_children_in_poverty	9
+55111	Wisconsin	Sauk	pcnt_children_in_poverty	18
+55113	Wisconsin	Sawyer	pcnt_children_in_poverty	28
+55115	Wisconsin	Shawano	pcnt_children_in_poverty	18
+55117	Wisconsin	Sheboygan	pcnt_children_in_poverty	13
+55119	Wisconsin	Taylor	pcnt_children_in_poverty	19
+55121	Wisconsin	Trempealeau	pcnt_children_in_poverty	18
+55123	Wisconsin	Vernon	pcnt_children_in_poverty	26
+55125	Wisconsin	Vilas	pcnt_children_in_poverty	23
+55127	Wisconsin	Walworth	pcnt_children_in_poverty	18
+55129	Wisconsin	Washburn	pcnt_children_in_poverty	25
+55131	Wisconsin	Washington	pcnt_children_in_poverty	8
+55133	Wisconsin	Waukesha	pcnt_children_in_poverty	7
+55135	Wisconsin	Waupaca	pcnt_children_in_poverty	17
+55137	Wisconsin	Waushara	pcnt_children_in_poverty	22
+55139	Wisconsin	Winnebago	pcnt_children_in_poverty	16
+55141	Wisconsin	Wood	pcnt_children_in_poverty	18
+56001	Wyoming	Albany	pcnt_children_in_poverty	19
+56003	Wyoming	Big Horn	pcnt_children_in_poverty	15
+56005	Wyoming	Campbell	pcnt_children_in_poverty	10
+56007	Wyoming	Carbon	pcnt_children_in_poverty	16
+56009	Wyoming	Converse	pcnt_children_in_poverty	15
+56011	Wyoming	Crook	pcnt_children_in_poverty	12
+56013	Wyoming	Fremont	pcnt_children_in_poverty	22
+56015	Wyoming	Goshen	pcnt_children_in_poverty	23
+56017	Wyoming	Hot Springs	pcnt_children_in_poverty	19
+56019	Wyoming	Johnson	pcnt_children_in_poverty	13
+56021	Wyoming	Laramie	pcnt_children_in_poverty	16
+56023	Wyoming	Lincoln	pcnt_children_in_poverty	13
+56025	Wyoming	Natrona	pcnt_children_in_poverty	16
+56027	Wyoming	Niobrara	pcnt_children_in_poverty	18
+56029	Wyoming	Park	pcnt_children_in_poverty	18
+56031	Wyoming	Platte	pcnt_children_in_poverty	19
+56033	Wyoming	Sheridan	pcnt_children_in_poverty	14
+56035	Wyoming	Sublette	pcnt_children_in_poverty	9
+56037	Wyoming	Sweetwater	pcnt_children_in_poverty	15
+56039	Wyoming	Teton	pcnt_children_in_poverty	15
+56041	Wyoming	Uinta	pcnt_children_in_poverty	14
+56043	Wyoming	Washakie	pcnt_children_in_poverty	15
+56045	Wyoming	Weston	pcnt_children_in_poverty	16

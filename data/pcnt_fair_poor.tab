@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_fair_poor
+01001	Alabama	Autauga	pcnt_fair_poor	23
+01003	Alabama	Baldwin	pcnt_fair_poor	13
+01005	Alabama	Barbour	pcnt_fair_poor	22
+01007	Alabama	Bibb	pcnt_fair_poor	21
+01009	Alabama	Blount	pcnt_fair_poor	22
+01011	Alabama	Bullock	pcnt_fair_poor	25
+01013	Alabama	Butler	pcnt_fair_poor	20
+01015	Alabama	Calhoun	pcnt_fair_poor	24
+01017	Alabama	Chambers	pcnt_fair_poor	40
+01019	Alabama	Cherokee	pcnt_fair_poor	23
+01021	Alabama	Chilton	pcnt_fair_poor	21
+01023	Alabama	Choctaw	pcnt_fair_poor	33
+01025	Alabama	Clarke	pcnt_fair_poor	
+01027	Alabama	Clay	pcnt_fair_poor	24
+01029	Alabama	Cleburne	pcnt_fair_poor	19
+01031	Alabama	Coffee	pcnt_fair_poor	19
+01033	Alabama	Colbert	pcnt_fair_poor	24
+01035	Alabama	Conecuh	pcnt_fair_poor	20
+01037	Alabama	Coosa	pcnt_fair_poor	22
+01039	Alabama	Covington	pcnt_fair_poor	23
+01041	Alabama	Crenshaw	pcnt_fair_poor	20
+01043	Alabama	Cullman	pcnt_fair_poor	22
+01045	Alabama	Dale	pcnt_fair_poor	24
+01047	Alabama	Dallas	pcnt_fair_poor	26
+01049	Alabama	DeKalb	pcnt_fair_poor	21
+01051	Alabama	Elmore	pcnt_fair_poor	18
+01053	Alabama	Escambia	pcnt_fair_poor	26
+01055	Alabama	Etowah	pcnt_fair_poor	23
+01057	Alabama	Fayette	pcnt_fair_poor	31
+01059	Alabama	Franklin	pcnt_fair_poor	22
+01061	Alabama	Geneva	pcnt_fair_poor	27
+01063	Alabama	Greene	pcnt_fair_poor	20
+01065	Alabama	Hale	pcnt_fair_poor	23
+01067	Alabama	Henry	pcnt_fair_poor	17
+01069	Alabama	Houston	pcnt_fair_poor	21
+01071	Alabama	Jackson	pcnt_fair_poor	27
+01073	Alabama	Jefferson	pcnt_fair_poor	17
+01075	Alabama	Lamar	pcnt_fair_poor	27
+01077	Alabama	Lauderdale	pcnt_fair_poor	21
+01079	Alabama	Lawrence	pcnt_fair_poor	21
+01081	Alabama	Lee	pcnt_fair_poor	19
+01083	Alabama	Limestone	pcnt_fair_poor	20
+01085	Alabama	Lowndes	pcnt_fair_poor	33
+01087	Alabama	Macon	pcnt_fair_poor	25
+01089	Alabama	Madison	pcnt_fair_poor	14
+01091	Alabama	Marengo	pcnt_fair_poor	24
+01093	Alabama	Marion	pcnt_fair_poor	22
+01095	Alabama	Marshall	pcnt_fair_poor	21
+01097	Alabama	Mobile	pcnt_fair_poor	22
+01099	Alabama	Monroe	pcnt_fair_poor	24
+01101	Alabama	Montgomery	pcnt_fair_poor	20
+01103	Alabama	Morgan	pcnt_fair_poor	14
+01105	Alabama	Perry	pcnt_fair_poor	27
+01107	Alabama	Pickens	pcnt_fair_poor	26
+01109	Alabama	Pike	pcnt_fair_poor	22
+01111	Alabama	Randolph	pcnt_fair_poor	21
+01113	Alabama	Russell	pcnt_fair_poor	20
+01115	Alabama	St. Clair	pcnt_fair_poor	19
+01117	Alabama	Shelby	pcnt_fair_poor	13
+01119	Alabama	Sumter	pcnt_fair_poor	25
+01121	Alabama	Talladega	pcnt_fair_poor	29
+01123	Alabama	Tallapoosa	pcnt_fair_poor	23
+01125	Alabama	Tuscaloosa	pcnt_fair_poor	17
+01127	Alabama	Walker	pcnt_fair_poor	33
+01129	Alabama	Washington	pcnt_fair_poor	22
+01131	Alabama	Wilcox	pcnt_fair_poor	29
+01133	Alabama	Winston	pcnt_fair_poor	18
+02013	Alaska	Aleutians East	pcnt_fair_poor	14
+02016	Alaska	Aleutians West	pcnt_fair_poor	21
+02020	Alaska	Anchorage	pcnt_fair_poor	13
+02050	Alaska	Bethel	pcnt_fair_poor	20
+02060	Alaska	Bristol Bay	pcnt_fair_poor	14
+02068	Alaska	Denali	pcnt_fair_poor	7
+02070	Alaska	Dillingham	pcnt_fair_poor	12
+02090	Alaska	Fairbanks North Star	pcnt_fair_poor	11
+02100	Alaska	Haines	pcnt_fair_poor	14
+02110	Alaska	Juneau	pcnt_fair_poor	11
+02122	Alaska	Kenai Peninsula	pcnt_fair_poor	14
+02130	Alaska	Ketchikan Gateway	pcnt_fair_poor	14
+02150	Alaska	Kodiak Island	pcnt_fair_poor	12
+02164	Alaska	Lake and Peninsula	pcnt_fair_poor	14
+02170	Alaska	Matanuska-Susitna	pcnt_fair_poor	14
+02180	Alaska	Nome	pcnt_fair_poor	17
+02185	Alaska	North Slope	pcnt_fair_poor	21
+02188	Alaska	Northwest Arctic	pcnt_fair_poor	19
+02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_fair_poor	20
+02220	Alaska	Sitka	pcnt_fair_poor	13
+02232	Alaska	Skagway-Hoonah-Angoon	pcnt_fair_poor	12
+02240	Alaska	Southeast Fairbanks	pcnt_fair_poor	16
+02261	Alaska	Valdez-Cordova	pcnt_fair_poor	16
+02270	Alaska	Wade Hampton	pcnt_fair_poor	26
+02280	Alaska	Wrangell-Petersburg	pcnt_fair_poor	15
+02282	Alaska	Yakutat	pcnt_fair_poor	14
+02290	Alaska	Yukon-Koyukuk	pcnt_fair_poor	18
+04001	Arizona	Apache	pcnt_fair_poor	20
+04003	Arizona	Cochise	pcnt_fair_poor	18
+04005	Arizona	Coconino	pcnt_fair_poor	12
+04007	Arizona	Gila	pcnt_fair_poor	23
+04009	Arizona	Graham	pcnt_fair_poor	21
+04011	Arizona	Greenlee	pcnt_fair_poor	
+04012	Arizona	La Paz	pcnt_fair_poor	23
+04013	Arizona	Maricopa	pcnt_fair_poor	15
+04015	Arizona	Mohave	pcnt_fair_poor	20
+04017	Arizona	Navajo	pcnt_fair_poor	17
+04019	Arizona	Pima	pcnt_fair_poor	15
+04021	Arizona	Pinal	pcnt_fair_poor	17
+04023	Arizona	Santa Cruz	pcnt_fair_poor	19
+04025	Arizona	Yavapai	pcnt_fair_poor	18
+04027	Arizona	Yuma	pcnt_fair_poor	23
+05001	Arkansas	Arkansas	pcnt_fair_poor	29
+05003	Arkansas	Ashley	pcnt_fair_poor	26
+05005	Arkansas	Baxter	pcnt_fair_poor	17
+05007	Arkansas	Benton	pcnt_fair_poor	13
+05009	Arkansas	Boone	pcnt_fair_poor	17
+05011	Arkansas	Bradley	pcnt_fair_poor	18
+05013	Arkansas	Calhoun	pcnt_fair_poor	21
+05015	Arkansas	Carroll	pcnt_fair_poor	20
+05017	Arkansas	Chicot	pcnt_fair_poor	26
+05019	Arkansas	Clark	pcnt_fair_poor	22
+05021	Arkansas	Clay	pcnt_fair_poor	27
+05023	Arkansas	Cleburne	pcnt_fair_poor	24
+05025	Arkansas	Cleveland	pcnt_fair_poor	22
+05027	Arkansas	Columbia	pcnt_fair_poor	18
+05029	Arkansas	Conway	pcnt_fair_poor	24
+05031	Arkansas	Craighead	pcnt_fair_poor	20
+05033	Arkansas	Crawford	pcnt_fair_poor	18
+05035	Arkansas	Crittenden	pcnt_fair_poor	22
+05037	Arkansas	Cross	pcnt_fair_poor	24
+05039	Arkansas	Dallas	pcnt_fair_poor	
+05041	Arkansas	Desha	pcnt_fair_poor	21
+05043	Arkansas	Drew	pcnt_fair_poor	19
+05045	Arkansas	Faulkner	pcnt_fair_poor	18
+05047	Arkansas	Franklin	pcnt_fair_poor	
+05049	Arkansas	Fulton	pcnt_fair_poor	25
+05051	Arkansas	Garland	pcnt_fair_poor	18
+05053	Arkansas	Grant	pcnt_fair_poor	25
+05055	Arkansas	Greene	pcnt_fair_poor	17
+05057	Arkansas	Hempstead	pcnt_fair_poor	
+05059	Arkansas	Hot Spring	pcnt_fair_poor	27
+05061	Arkansas	Howard	pcnt_fair_poor	20
+05063	Arkansas	Independence	pcnt_fair_poor	22
+05065	Arkansas	Izard	pcnt_fair_poor	30
+05067	Arkansas	Jackson	pcnt_fair_poor	
+05069	Arkansas	Jefferson	pcnt_fair_poor	17
+05071	Arkansas	Johnson	pcnt_fair_poor	23
+05073	Arkansas	Lafayette	pcnt_fair_poor	16
+05075	Arkansas	Lawrence	pcnt_fair_poor	
+05077	Arkansas	Lee	pcnt_fair_poor	
+05079	Arkansas	Lincoln	pcnt_fair_poor	25
+05081	Arkansas	Little River	pcnt_fair_poor	18
+05083	Arkansas	Logan	pcnt_fair_poor	23
+05085	Arkansas	Lonoke	pcnt_fair_poor	17
+05087	Arkansas	Madison	pcnt_fair_poor	21
+05089	Arkansas	Marion	pcnt_fair_poor	17
+05091	Arkansas	Miller	pcnt_fair_poor	24
+05093	Arkansas	Mississippi	pcnt_fair_poor	26
+05095	Arkansas	Monroe	pcnt_fair_poor	
+05097	Arkansas	Montgomery	pcnt_fair_poor	
+05099	Arkansas	Nevada	pcnt_fair_poor	32
+05101	Arkansas	Newton	pcnt_fair_poor	17
+05103	Arkansas	Ouachita	pcnt_fair_poor	23
+05105	Arkansas	Perry	pcnt_fair_poor	
+05107	Arkansas	Phillips	pcnt_fair_poor	20
+05109	Arkansas	Pike	pcnt_fair_poor	23
+05111	Arkansas	Poinsett	pcnt_fair_poor	27
+05113	Arkansas	Polk	pcnt_fair_poor	23
+05115	Arkansas	Pope	pcnt_fair_poor	20
+05117	Arkansas	Prairie	pcnt_fair_poor	21
+05119	Arkansas	Pulaski	pcnt_fair_poor	15
+05121	Arkansas	Randolph	pcnt_fair_poor	22
+05123	Arkansas	St. Francis	pcnt_fair_poor	19
+05125	Arkansas	Saline	pcnt_fair_poor	18
+05127	Arkansas	Scott	pcnt_fair_poor	14
+05129	Arkansas	Searcy	pcnt_fair_poor	21
+05131	Arkansas	Sebastian	pcnt_fair_poor	19
+05133	Arkansas	Sevier	pcnt_fair_poor	21
+05135	Arkansas	Sharp	pcnt_fair_poor	29
+05137	Arkansas	Stone	pcnt_fair_poor	23
+05139	Arkansas	Union	pcnt_fair_poor	23
+05141	Arkansas	Van Buren	pcnt_fair_poor	24
+05143	Arkansas	Washington	pcnt_fair_poor	15
+05145	Arkansas	White	pcnt_fair_poor	18
+05147	Arkansas	Woodruff	pcnt_fair_poor	
+05149	Arkansas	Yell	pcnt_fair_poor	23
+06001	California	Alameda	pcnt_fair_poor	15
+06003	California	Alpine	pcnt_fair_poor	
+06005	California	Amador	pcnt_fair_poor	18
+06007	California	Butte	pcnt_fair_poor	15
+06009	California	Calaveras	pcnt_fair_poor	16
+06011	California	Colusa	pcnt_fair_poor	
+06013	California	Contra Costa	pcnt_fair_poor	14
+06015	California	Del Norte	pcnt_fair_poor	
+06017	California	El Dorado	pcnt_fair_poor	10
+06019	California	Fresno	pcnt_fair_poor	22
+06021	California	Glenn	pcnt_fair_poor	
+06023	California	Humboldt	pcnt_fair_poor	13
+06025	California	Imperial	pcnt_fair_poor	32
+06027	California	Inyo	pcnt_fair_poor	
+06029	California	Kern	pcnt_fair_poor	24
+06031	California	Kings	pcnt_fair_poor	27
+06033	California	Lake	pcnt_fair_poor	18
+06035	California	Lassen	pcnt_fair_poor	16
+06037	California	Los Angeles	pcnt_fair_poor	23
+06039	California	Madera	pcnt_fair_poor	30
+06041	California	Marin	pcnt_fair_poor	9
+06043	California	Mariposa	pcnt_fair_poor	
+06045	California	Mendocino	pcnt_fair_poor	17
+06047	California	Merced	pcnt_fair_poor	23
+06049	California	Modoc	pcnt_fair_poor	
+06051	California	Mono	pcnt_fair_poor	8
+06053	California	Monterey	pcnt_fair_poor	22
+06055	California	Napa	pcnt_fair_poor	17
+06057	California	Nevada	pcnt_fair_poor	11
+06059	California	Orange	pcnt_fair_poor	15
+06061	California	Placer	pcnt_fair_poor	10
+06063	California	Plumas	pcnt_fair_poor	6
+06065	California	Riverside	pcnt_fair_poor	19
+06067	California	Sacramento	pcnt_fair_poor	14
+06069	California	San Benito	pcnt_fair_poor	21
+06071	California	San Bernardino	pcnt_fair_poor	20
+06073	California	San Diego	pcnt_fair_poor	16
+06075	California	San Francisco	pcnt_fair_poor	17
+06077	California	San Joaquin	pcnt_fair_poor	21
+06079	California	San Luis Obispo	pcnt_fair_poor	12
+06081	California	San Mateo	pcnt_fair_poor	13
+06083	California	Santa Barbara	pcnt_fair_poor	21
+06085	California	Santa Clara	pcnt_fair_poor	14
+06087	California	Santa Cruz	pcnt_fair_poor	18
+06089	California	Shasta	pcnt_fair_poor	15
+06091	California	Sierra	pcnt_fair_poor	
+06093	California	Siskiyou	pcnt_fair_poor	22
+06095	California	Solano	pcnt_fair_poor	17
+06097	California	Sonoma	pcnt_fair_poor	14
+06099	California	Stanislaus	pcnt_fair_poor	23
+06101	California	Sutter	pcnt_fair_poor	23
+06103	California	Tehama	pcnt_fair_poor	26
+06105	California	Trinity	pcnt_fair_poor	
+06107	California	Tulare	pcnt_fair_poor	26
+06109	California	Tuolumne	pcnt_fair_poor	12
+06111	California	Ventura	pcnt_fair_poor	15
+06113	California	Yolo	pcnt_fair_poor	16
+06115	California	Yuba	pcnt_fair_poor	22
+08001	Colorado	Adams	pcnt_fair_poor	17
+08003	Colorado	Alamosa	pcnt_fair_poor	14
+08005	Colorado	Arapahoe	pcnt_fair_poor	12
+08007	Colorado	Archuleta	pcnt_fair_poor	12
+08009	Colorado	Baca	pcnt_fair_poor	14
+08011	Colorado	Bent	pcnt_fair_poor	
+08013	Colorado	Boulder	pcnt_fair_poor	9
+08014	Colorado	Broomfield	pcnt_fair_poor	8
+08015	Colorado	Chaffee	pcnt_fair_poor	11
+08017	Colorado	Cheyenne	pcnt_fair_poor	16
+08019	Colorado	Clear Creek	pcnt_fair_poor	8
+08021	Colorado	Conejos	pcnt_fair_poor	24
+08023	Colorado	Costilla	pcnt_fair_poor	
+08025	Colorado	Crowley	pcnt_fair_poor	
+08027	Colorado	Custer	pcnt_fair_poor	8
+08029	Colorado	Delta	pcnt_fair_poor	17
+08031	Colorado	Denver	pcnt_fair_poor	16
+08033	Colorado	Dolores	pcnt_fair_poor	9
+08035	Colorado	Douglas	pcnt_fair_poor	7
+08037	Colorado	Eagle	pcnt_fair_poor	14
+08039	Colorado	Elbert	pcnt_fair_poor	7
+08041	Colorado	El Paso	pcnt_fair_poor	12
+08043	Colorado	Fremont	pcnt_fair_poor	14
+08045	Colorado	Garfield	pcnt_fair_poor	17
+08047	Colorado	Gilpin	pcnt_fair_poor	
+08049	Colorado	Grand	pcnt_fair_poor	5
+08051	Colorado	Gunnison	pcnt_fair_poor	7
+08053	Colorado	Hinsdale	pcnt_fair_poor	
+08055	Colorado	Huerfano	pcnt_fair_poor	
+08057	Colorado	Jackson	pcnt_fair_poor	8
+08059	Colorado	Jefferson	pcnt_fair_poor	10
+08061	Colorado	Kiowa	pcnt_fair_poor	
+08063	Colorado	Kit Carson	pcnt_fair_poor	23
+08065	Colorado	Lake	pcnt_fair_poor	23
+08067	Colorado	La Plata	pcnt_fair_poor	9
+08069	Colorado	Larimer	pcnt_fair_poor	11
+08071	Colorado	Las Animas	pcnt_fair_poor	19
+08073	Colorado	Lincoln	pcnt_fair_poor	11
+08075	Colorado	Logan	pcnt_fair_poor	14
+08077	Colorado	Mesa	pcnt_fair_poor	14
+08079	Colorado	Mineral	pcnt_fair_poor	9
+08081	Colorado	Moffat	pcnt_fair_poor	20
+08083	Colorado	Montezuma	pcnt_fair_poor	15
+08085	Colorado	Montrose	pcnt_fair_poor	13
+08087	Colorado	Morgan	pcnt_fair_poor	25
+08089	Colorado	Otero	pcnt_fair_poor	15
+08091	Colorado	Ouray	pcnt_fair_poor	2
+08093	Colorado	Park	pcnt_fair_poor	12
+08095	Colorado	Phillips	pcnt_fair_poor	13
+08097	Colorado	Pitkin	pcnt_fair_poor	6
+08099	Colorado	Prowers	pcnt_fair_poor	22
+08101	Colorado	Pueblo	pcnt_fair_poor	17
+08103	Colorado	Rio Blanco	pcnt_fair_poor	18
+08105	Colorado	Rio Grande	pcnt_fair_poor	20
+08107	Colorado	Routt	pcnt_fair_poor	7
+08109	Colorado	Saguache	pcnt_fair_poor	19
+08111	Colorado	San Juan	pcnt_fair_poor	
+08113	Colorado	San Miguel	pcnt_fair_poor	5
+08115	Colorado	Sedgwick	pcnt_fair_poor	15
+08117	Colorado	Summit	pcnt_fair_poor	7
+08119	Colorado	Teller	pcnt_fair_poor	8
+08121	Colorado	Washington	pcnt_fair_poor	13
+08123	Colorado	Weld	pcnt_fair_poor	15
+08125	Colorado	Yuma	pcnt_fair_poor	15
+09001	Connecticut	Fairfield	pcnt_fair_poor	10
+09003	Connecticut	Hartford	pcnt_fair_poor	11
+09005	Connecticut	Litchfield	pcnt_fair_poor	10
+09007	Connecticut	Middlesex	pcnt_fair_poor	10
+09009	Connecticut	New Haven	pcnt_fair_poor	12
+09011	Connecticut	New London	pcnt_fair_poor	11
+09013	Connecticut	Tolland	pcnt_fair_poor	9
+09015	Connecticut	Windham	pcnt_fair_poor	12
+10001	Delaware	Kent	pcnt_fair_poor	15
+10003	Delaware	New Castle	pcnt_fair_poor	11
+10005	Delaware	Sussex	pcnt_fair_poor	14
+11001	District of Columbia	District of Columbia	pcnt_fair_poor	12
+12001	Florida	Alachua	pcnt_fair_poor	14
+12003	Florida	Baker	pcnt_fair_poor	24
+12005	Florida	Bay	pcnt_fair_poor	17
+12007	Florida	Bradford	pcnt_fair_poor	15
+12009	Florida	Brevard	pcnt_fair_poor	15
+12011	Florida	Broward	pcnt_fair_poor	13
+12013	Florida	Calhoun	pcnt_fair_poor	26
+12015	Florida	Charlotte	pcnt_fair_poor	20
+12017	Florida	Citrus	pcnt_fair_poor	19
+12019	Florida	Clay	pcnt_fair_poor	13
+12021	Florida	Collier	pcnt_fair_poor	16
+12023	Florida	Columbia	pcnt_fair_poor	22
+12027	Florida	DeSoto	pcnt_fair_poor	17
+12029	Florida	Dixie	pcnt_fair_poor	24
+12031	Florida	Duval	pcnt_fair_poor	17
+12033	Florida	Escambia	pcnt_fair_poor	17
+12035	Florida	Flagler	pcnt_fair_poor	17
+12037	Florida	Franklin	pcnt_fair_poor	20
+12039	Florida	Gadsden	pcnt_fair_poor	22
+12041	Florida	Gilchrist	pcnt_fair_poor	20
+12043	Florida	Glades	pcnt_fair_poor	18
+12045	Florida	Gulf	pcnt_fair_poor	21
+12047	Florida	Hamilton	pcnt_fair_poor	19
+12049	Florida	Hardee	pcnt_fair_poor	22
+12051	Florida	Hendry	pcnt_fair_poor	21
+12053	Florida	Hernando	pcnt_fair_poor	21
+12055	Florida	Highlands	pcnt_fair_poor	18
+12057	Florida	Hillsborough	pcnt_fair_poor	17
+12059	Florida	Holmes	pcnt_fair_poor	22
+12061	Florida	Indian River	pcnt_fair_poor	20
+12063	Florida	Jackson	pcnt_fair_poor	19
+12065	Florida	Jefferson	pcnt_fair_poor	20
+12067	Florida	Lafayette	pcnt_fair_poor	23
+12069	Florida	Lake	pcnt_fair_poor	16
+12071	Florida	Lee	pcnt_fair_poor	15
+12073	Florida	Leon	pcnt_fair_poor	10
+12075	Florida	Levy	pcnt_fair_poor	23
+12077	Florida	Liberty	pcnt_fair_poor	19
+12079	Florida	Madison	pcnt_fair_poor	18
+12081	Florida	Manatee	pcnt_fair_poor	17
+12083	Florida	Marion	pcnt_fair_poor	20
+12085	Florida	Martin	pcnt_fair_poor	11
+12086	Florida	Miami-Dade	pcnt_fair_poor	17
+12087	Florida	Monroe	pcnt_fair_poor	11
+12089	Florida	Nassau	pcnt_fair_poor	16
+12091	Florida	Okaloosa	pcnt_fair_poor	16
+12093	Florida	Okeechobee	pcnt_fair_poor	22
+12095	Florida	Orange	pcnt_fair_poor	15
+12097	Florida	Osceola	pcnt_fair_poor	18
+12099	Florida	Palm Beach	pcnt_fair_poor	13
+12101	Florida	Pasco	pcnt_fair_poor	20
+12103	Florida	Pinellas	pcnt_fair_poor	16
+12105	Florida	Polk	pcnt_fair_poor	20
+12107	Florida	Putnam	pcnt_fair_poor	24
+12109	Florida	St. Johns	pcnt_fair_poor	12
+12111	Florida	St. Lucie	pcnt_fair_poor	16
+12113	Florida	Santa Rosa	pcnt_fair_poor	14
+12115	Florida	Sarasota	pcnt_fair_poor	12
+12117	Florida	Seminole	pcnt_fair_poor	12
+12119	Florida	Sumter	pcnt_fair_poor	15
+12121	Florida	Suwannee	pcnt_fair_poor	23
+12123	Florida	Taylor	pcnt_fair_poor	25
+12125	Florida	Union	pcnt_fair_poor	24
+12127	Florida	Volusia	pcnt_fair_poor	19
+12129	Florida	Wakulla	pcnt_fair_poor	15
+12131	Florida	Walton	pcnt_fair_poor	20
+12133	Florida	Washington	pcnt_fair_poor	25
+13001	Georgia	Appling	pcnt_fair_poor	21
+13003	Georgia	Atkinson	pcnt_fair_poor	
+13005	Georgia	Bacon	pcnt_fair_poor	14
+13007	Georgia	Baker	pcnt_fair_poor	
+13009	Georgia	Baldwin	pcnt_fair_poor	28
+13011	Georgia	Banks	pcnt_fair_poor	17
+13013	Georgia	Barrow	pcnt_fair_poor	19
+13015	Georgia	Bartow	pcnt_fair_poor	21
+13017	Georgia	Ben Hill	pcnt_fair_poor	26
+13019	Georgia	Berrien	pcnt_fair_poor	24
+13021	Georgia	Bibb	pcnt_fair_poor	17
+13023	Georgia	Bleckley	pcnt_fair_poor	21
+13025	Georgia	Brantley	pcnt_fair_poor	23
+13027	Georgia	Brooks	pcnt_fair_poor	22
+13029	Georgia	Bryan	pcnt_fair_poor	10
+13031	Georgia	Bulloch	pcnt_fair_poor	19
+13033	Georgia	Burke	pcnt_fair_poor	
+13035	Georgia	Butts	pcnt_fair_poor	
+13037	Georgia	Calhoun	pcnt_fair_poor	
+13039	Georgia	Camden	pcnt_fair_poor	14
+13043	Georgia	Candler	pcnt_fair_poor	21
+13045	Georgia	Carroll	pcnt_fair_poor	18
+13047	Georgia	Catoosa	pcnt_fair_poor	22
+13049	Georgia	Charlton	pcnt_fair_poor	19
+13051	Georgia	Chatham	pcnt_fair_poor	16
+13053	Georgia	Chattahoochee	pcnt_fair_poor	
+13055	Georgia	Chattooga	pcnt_fair_poor	26
+13057	Georgia	Cherokee	pcnt_fair_poor	12
+13059	Georgia	Clarke	pcnt_fair_poor	13
+13061	Georgia	Clay	pcnt_fair_poor	
+13063	Georgia	Clayton	pcnt_fair_poor	17
+13065	Georgia	Clinch	pcnt_fair_poor	
+13067	Georgia	Cobb	pcnt_fair_poor	10
+13069	Georgia	Coffee	pcnt_fair_poor	23
+13071	Georgia	Colquitt	pcnt_fair_poor	20
+13073	Georgia	Columbia	pcnt_fair_poor	13
+13075	Georgia	Cook	pcnt_fair_poor	24
+13077	Georgia	Coweta	pcnt_fair_poor	18
+13079	Georgia	Crawford	pcnt_fair_poor	22
+13081	Georgia	Crisp	pcnt_fair_poor	24
+13083	Georgia	Dade	pcnt_fair_poor	16
+13085	Georgia	Dawson	pcnt_fair_poor	11
+13087	Georgia	Decatur	pcnt_fair_poor	23
+13089	Georgia	DeKalb	pcnt_fair_poor	12
+13091	Georgia	Dodge	pcnt_fair_poor	23
+13093	Georgia	Dooly	pcnt_fair_poor	17
+13095	Georgia	Dougherty	pcnt_fair_poor	21
+13097	Georgia	Douglas	pcnt_fair_poor	17
+13099	Georgia	Early	pcnt_fair_poor	
+13101	Georgia	Echols	pcnt_fair_poor	
+13103	Georgia	Effingham	pcnt_fair_poor	18
+13105	Georgia	Elbert	pcnt_fair_poor	25
+13107	Georgia	Emanuel	pcnt_fair_poor	21
+13109	Georgia	Evans	pcnt_fair_poor	28
+13111	Georgia	Fannin	pcnt_fair_poor	23
+13113	Georgia	Fayette	pcnt_fair_poor	8
+13115	Georgia	Floyd	pcnt_fair_poor	20
+13117	Georgia	Forsyth	pcnt_fair_poor	8
+13119	Georgia	Franklin	pcnt_fair_poor	15
+13121	Georgia	Fulton	pcnt_fair_poor	12
+13123	Georgia	Gilmer	pcnt_fair_poor	21
+13125	Georgia	Glascock	pcnt_fair_poor	
+13127	Georgia	Glynn	pcnt_fair_poor	14
+13129	Georgia	Gordon	pcnt_fair_poor	19
+13131	Georgia	Grady	pcnt_fair_poor	22
+13133	Georgia	Greene	pcnt_fair_poor	18
+13135	Georgia	Gwinnett	pcnt_fair_poor	12
+13137	Georgia	Habersham	pcnt_fair_poor	18
+13139	Georgia	Hall	pcnt_fair_poor	14
+13141	Georgia	Hancock	pcnt_fair_poor	
+13143	Georgia	Haralson	pcnt_fair_poor	21
+13145	Georgia	Harris	pcnt_fair_poor	13
+13147	Georgia	Hart	pcnt_fair_poor	
+13149	Georgia	Heard	pcnt_fair_poor	
+13151	Georgia	Henry	pcnt_fair_poor	13
+13153	Georgia	Houston	pcnt_fair_poor	13
+13155	Georgia	Irwin	pcnt_fair_poor	18
+13157	Georgia	Jackson	pcnt_fair_poor	20
+13159	Georgia	Jasper	pcnt_fair_poor	
+13161	Georgia	Jeff Davis	pcnt_fair_poor	18
+13163	Georgia	Jefferson	pcnt_fair_poor	20
+13165	Georgia	Jenkins	pcnt_fair_poor	
+13167	Georgia	Johnson	pcnt_fair_poor	26
+13169	Georgia	Jones	pcnt_fair_poor	17
+13171	Georgia	Lamar	pcnt_fair_poor	
+13173	Georgia	Lanier	pcnt_fair_poor	
+13175	Georgia	Laurens	pcnt_fair_poor	20
+13177	Georgia	Lee	pcnt_fair_poor	11
+13179	Georgia	Liberty	pcnt_fair_poor	21
+13181	Georgia	Lincoln	pcnt_fair_poor	
+13183	Georgia	Long	pcnt_fair_poor	14
+13185	Georgia	Lowndes	pcnt_fair_poor	18
+13187	Georgia	Lumpkin	pcnt_fair_poor	14
+13189	Georgia	McDuffie	pcnt_fair_poor	24
+13191	Georgia	McIntosh	pcnt_fair_poor	
+13193	Georgia	Macon	pcnt_fair_poor	15
+13195	Georgia	Madison	pcnt_fair_poor	26
+13197	Georgia	Marion	pcnt_fair_poor	
+13199	Georgia	Meriwether	pcnt_fair_poor	21
+13201	Georgia	Miller	pcnt_fair_poor	17
+13205	Georgia	Mitchell	pcnt_fair_poor	19
+13207	Georgia	Monroe	pcnt_fair_poor	18
+13209	Georgia	Montgomery	pcnt_fair_poor	19
+13211	Georgia	Morgan	pcnt_fair_poor	11
+13213	Georgia	Murray	pcnt_fair_poor	32
+13215	Georgia	Muscogee	pcnt_fair_poor	18
+13217	Georgia	Newton	pcnt_fair_poor	17
+13219	Georgia	Oconee	pcnt_fair_poor	15
+13221	Georgia	Oglethorpe	pcnt_fair_poor	11
+13223	Georgia	Paulding	pcnt_fair_poor	18
+13225	Georgia	Peach	pcnt_fair_poor	
+13227	Georgia	Pickens	pcnt_fair_poor	16
+13229	Georgia	Pierce	pcnt_fair_poor	
+13231	Georgia	Pike	pcnt_fair_poor	14
+13233	Georgia	Polk	pcnt_fair_poor	23
+13235	Georgia	Pulaski	pcnt_fair_poor	15
+13237	Georgia	Putnam	pcnt_fair_poor	22
+13239	Georgia	Quitman	pcnt_fair_poor	
+13241	Georgia	Rabun	pcnt_fair_poor	14
+13243	Georgia	Randolph	pcnt_fair_poor	
+13245	Georgia	Richmond	pcnt_fair_poor	17
+13247	Georgia	Rockdale	pcnt_fair_poor	13
+13249	Georgia	Schley	pcnt_fair_poor	
+13251	Georgia	Screven	pcnt_fair_poor	21
+13253	Georgia	Seminole	pcnt_fair_poor	20
+13255	Georgia	Spalding	pcnt_fair_poor	21
+13257	Georgia	Stephens	pcnt_fair_poor	24
+13259	Georgia	Stewart	pcnt_fair_poor	
+13261	Georgia	Sumter	pcnt_fair_poor	16
+13263	Georgia	Talbot	pcnt_fair_poor	17
+13265	Georgia	Taliaferro	pcnt_fair_poor	
+13267	Georgia	Tattnall	pcnt_fair_poor	22
+13269	Georgia	Taylor	pcnt_fair_poor	
+13271	Georgia	Telfair	pcnt_fair_poor	
+13273	Georgia	Terrell	pcnt_fair_poor	
+13275	Georgia	Thomas	pcnt_fair_poor	17
+13277	Georgia	Tift	pcnt_fair_poor	18
+13279	Georgia	Toombs	pcnt_fair_poor	20
+13281	Georgia	Towns	pcnt_fair_poor	
+13283	Georgia	Treutlen	pcnt_fair_poor	15
+13285	Georgia	Troup	pcnt_fair_poor	14
+13287	Georgia	Turner	pcnt_fair_poor	22
+13289	Georgia	Twiggs	pcnt_fair_poor	
+13291	Georgia	Union	pcnt_fair_poor	18
+13293	Georgia	Upson	pcnt_fair_poor	17
+13295	Georgia	Walker	pcnt_fair_poor	25
+13297	Georgia	Walton	pcnt_fair_poor	15
+13299	Georgia	Ware	pcnt_fair_poor	21
+13301	Georgia	Warren	pcnt_fair_poor	
+13303	Georgia	Washington	pcnt_fair_poor	19
+13305	Georgia	Wayne	pcnt_fair_poor	24
+13307	Georgia	Webster	pcnt_fair_poor	
+13309	Georgia	Wheeler	pcnt_fair_poor	31
+13311	Georgia	White	pcnt_fair_poor	17
+13313	Georgia	Whitfield	pcnt_fair_poor	22
+13315	Georgia	Wilcox	pcnt_fair_poor	24
+13317	Georgia	Wilkes	pcnt_fair_poor	
+13319	Georgia	Wilkinson	pcnt_fair_poor	24
+13321	Georgia	Worth	pcnt_fair_poor	
+15001	Hawaii	Hawaii	pcnt_fair_poor	16
+15003	Hawaii	Honolulu	pcnt_fair_poor	13
+15005	Hawaii	Kalawao	pcnt_fair_poor	
+15007	Hawaii	Kauai	pcnt_fair_poor	16
+15009	Hawaii	Maui	pcnt_fair_poor	13
+16001	Idaho	Ada	pcnt_fair_poor	12
+16003	Idaho	Adams	pcnt_fair_poor	16
+16005	Idaho	Bannock	pcnt_fair_poor	15
+16007	Idaho	Bear Lake	pcnt_fair_poor	16
+16009	Idaho	Benewah	pcnt_fair_poor	21
+16011	Idaho	Bingham	pcnt_fair_poor	16
+16013	Idaho	Blaine	pcnt_fair_poor	10
+16015	Idaho	Boise	pcnt_fair_poor	17
+16017	Idaho	Bonner	pcnt_fair_poor	16
+16019	Idaho	Bonneville	pcnt_fair_poor	14
+16021	Idaho	Boundary	pcnt_fair_poor	13
+16023	Idaho	Butte	pcnt_fair_poor	
+16025	Idaho	Camas	pcnt_fair_poor	
+16027	Idaho	Canyon	pcnt_fair_poor	18
+16029	Idaho	Caribou	pcnt_fair_poor	16
+16031	Idaho	Cassia	pcnt_fair_poor	16
+16033	Idaho	Clark	pcnt_fair_poor	
+16035	Idaho	Clearwater	pcnt_fair_poor	20
+16037	Idaho	Custer	pcnt_fair_poor	12
+16039	Idaho	Elmore	pcnt_fair_poor	17
+16041	Idaho	Franklin	pcnt_fair_poor	12
+16043	Idaho	Fremont	pcnt_fair_poor	14
+16045	Idaho	Gem	pcnt_fair_poor	19
+16047	Idaho	Gooding	pcnt_fair_poor	22
+16049	Idaho	Idaho	pcnt_fair_poor	22
+16051	Idaho	Jefferson	pcnt_fair_poor	16
+16053	Idaho	Jerome	pcnt_fair_poor	20
+16055	Idaho	Kootenai	pcnt_fair_poor	12
+16057	Idaho	Latah	pcnt_fair_poor	12
+16059	Idaho	Lemhi	pcnt_fair_poor	14
+16061	Idaho	Lewis	pcnt_fair_poor	13
+16063	Idaho	Lincoln	pcnt_fair_poor	18
+16065	Idaho	Madison	pcnt_fair_poor	10
+16067	Idaho	Minidoka	pcnt_fair_poor	21
+16069	Idaho	Nez Perce	pcnt_fair_poor	16
+16071	Idaho	Oneida	pcnt_fair_poor	11
+16073	Idaho	Owyhee	pcnt_fair_poor	20
+16075	Idaho	Payette	pcnt_fair_poor	18
+16077	Idaho	Power	pcnt_fair_poor	20
+16079	Idaho	Shoshone	pcnt_fair_poor	20
+16081	Idaho	Teton	pcnt_fair_poor	15
+16083	Idaho	Twin Falls	pcnt_fair_poor	14
+16085	Idaho	Valley	pcnt_fair_poor	15
+16087	Idaho	Washington	pcnt_fair_poor	18
+17001	Illinois	Adams	pcnt_fair_poor	18
+17003	Illinois	Alexander	pcnt_fair_poor	
+17005	Illinois	Bond	pcnt_fair_poor	20
+17007	Illinois	Boone	pcnt_fair_poor	
+17009	Illinois	Brown	pcnt_fair_poor	
+17011	Illinois	Bureau	pcnt_fair_poor	16
+17013	Illinois	Calhoun	pcnt_fair_poor	
+17015	Illinois	Carroll	pcnt_fair_poor	8
+17017	Illinois	Cass	pcnt_fair_poor	
+17019	Illinois	Champaign	pcnt_fair_poor	11
+17021	Illinois	Christian	pcnt_fair_poor	18
+17023	Illinois	Clark	pcnt_fair_poor	
+17025	Illinois	Clay	pcnt_fair_poor	
+17027	Illinois	Clinton	pcnt_fair_poor	12
+17029	Illinois	Coles	pcnt_fair_poor	11
+17031	Illinois	Cook	pcnt_fair_poor	17
+17033	Illinois	Crawford	pcnt_fair_poor	21
+17035	Illinois	Cumberland	pcnt_fair_poor	
+17037	Illinois	DeKalb	pcnt_fair_poor	14
+17039	Illinois	De Witt	pcnt_fair_poor	
+17041	Illinois	Douglas	pcnt_fair_poor	4
+17043	Illinois	DuPage	pcnt_fair_poor	11
+17045	Illinois	Edgar	pcnt_fair_poor	
+17047	Illinois	Edwards	pcnt_fair_poor	
+17049	Illinois	Effingham	pcnt_fair_poor	13
+17051	Illinois	Fayette	pcnt_fair_poor	13
+17053	Illinois	Ford	pcnt_fair_poor	7
+17055	Illinois	Franklin	pcnt_fair_poor	23
+17057	Illinois	Fulton	pcnt_fair_poor	14
+17059	Illinois	Gallatin	pcnt_fair_poor	
+17061	Illinois	Greene	pcnt_fair_poor	
+17063	Illinois	Grundy	pcnt_fair_poor	14
+17065	Illinois	Hamilton	pcnt_fair_poor	
+17067	Illinois	Hancock	pcnt_fair_poor	15
+17069	Illinois	Hardin	pcnt_fair_poor	
+17071	Illinois	Henderson	pcnt_fair_poor	
+17073	Illinois	Henry	pcnt_fair_poor	8
+17075	Illinois	Iroquois	pcnt_fair_poor	
+17077	Illinois	Jackson	pcnt_fair_poor	20
+17079	Illinois	Jasper	pcnt_fair_poor	
+17081	Illinois	Jefferson	pcnt_fair_poor	21
+17083	Illinois	Jersey	pcnt_fair_poor	7
+17085	Illinois	Jo Daviess	pcnt_fair_poor	9
+17087	Illinois	Johnson	pcnt_fair_poor	
+17089	Illinois	Kane	pcnt_fair_poor	13
+17091	Illinois	Kankakee	pcnt_fair_poor	18
+17093	Illinois	Kendall	pcnt_fair_poor	12
+17095	Illinois	Knox	pcnt_fair_poor	15
+17097	Illinois	Lake	pcnt_fair_poor	14
+17099	Illinois	LaSalle	pcnt_fair_poor	17
+17101	Illinois	Lawrence	pcnt_fair_poor	
+17103	Illinois	Lee	pcnt_fair_poor	
+17105	Illinois	Livingston	pcnt_fair_poor	14
+17107	Illinois	Logan	pcnt_fair_poor	17
+17109	Illinois	McDonough	pcnt_fair_poor	10
+17111	Illinois	McHenry	pcnt_fair_poor	13
+17113	Illinois	McLean	pcnt_fair_poor	12
+17115	Illinois	Macon	pcnt_fair_poor	19
+17117	Illinois	Macoupin	pcnt_fair_poor	
+17119	Illinois	Madison	pcnt_fair_poor	17
+17121	Illinois	Marion	pcnt_fair_poor	17
+17123	Illinois	Marshall	pcnt_fair_poor	
+17125	Illinois	Mason	pcnt_fair_poor	10
+17127	Illinois	Massac	pcnt_fair_poor	
+17129	Illinois	Menard	pcnt_fair_poor	14
+17131	Illinois	Mercer	pcnt_fair_poor	12
+17133	Illinois	Monroe	pcnt_fair_poor	15
+17135	Illinois	Montgomery	pcnt_fair_poor	19
+17137	Illinois	Morgan	pcnt_fair_poor	14
+17139	Illinois	Moultrie	pcnt_fair_poor	
+17141	Illinois	Ogle	pcnt_fair_poor	17
+17143	Illinois	Peoria	pcnt_fair_poor	12
+17145	Illinois	Perry	pcnt_fair_poor	
+17147	Illinois	Piatt	pcnt_fair_poor	13
+17149	Illinois	Pike	pcnt_fair_poor	9
+17151	Illinois	Pope	pcnt_fair_poor	
+17153	Illinois	Pulaski	pcnt_fair_poor	
+17155	Illinois	Putnam	pcnt_fair_poor	
+17157	Illinois	Randolph	pcnt_fair_poor	10
+17159	Illinois	Richland	pcnt_fair_poor	7
+17161	Illinois	Rock Island	pcnt_fair_poor	18
+17163	Illinois	St. Clair	pcnt_fair_poor	16
+17165	Illinois	Saline	pcnt_fair_poor	
+17167	Illinois	Sangamon	pcnt_fair_poor	18
+17169	Illinois	Schuyler	pcnt_fair_poor	
+17171	Illinois	Scott	pcnt_fair_poor	
+17173	Illinois	Shelby	pcnt_fair_poor	12
+17175	Illinois	Stark	pcnt_fair_poor	
+17177	Illinois	Stephenson	pcnt_fair_poor	9
+17179	Illinois	Tazewell	pcnt_fair_poor	12
+17181	Illinois	Union	pcnt_fair_poor	
+17183	Illinois	Vermilion	pcnt_fair_poor	18
+17185	Illinois	Wabash	pcnt_fair_poor	
+17187	Illinois	Warren	pcnt_fair_poor	8
+17189	Illinois	Washington	pcnt_fair_poor	
+17191	Illinois	Wayne	pcnt_fair_poor	15
+17193	Illinois	White	pcnt_fair_poor	
+17195	Illinois	Whiteside	pcnt_fair_poor	12
+17197	Illinois	Will	pcnt_fair_poor	13
+17199	Illinois	Williamson	pcnt_fair_poor	22
+17201	Illinois	Winnebago	pcnt_fair_poor	15
+17203	Illinois	Woodford	pcnt_fair_poor	8
+18001	Indiana	Adams	pcnt_fair_poor	15
+18003	Indiana	Allen	pcnt_fair_poor	13
+18005	Indiana	Bartholomew	pcnt_fair_poor	14
+18007	Indiana	Benton	pcnt_fair_poor	17
+18009	Indiana	Blackford	pcnt_fair_poor	27
+18011	Indiana	Boone	pcnt_fair_poor	13
+18013	Indiana	Brown	pcnt_fair_poor	11
+18015	Indiana	Carroll	pcnt_fair_poor	21
+18017	Indiana	Cass	pcnt_fair_poor	17
+18019	Indiana	Clark	pcnt_fair_poor	16
+18021	Indiana	Clay	pcnt_fair_poor	17
+18023	Indiana	Clinton	pcnt_fair_poor	16
+18025	Indiana	Crawford	pcnt_fair_poor	20
+18027	Indiana	Daviess	pcnt_fair_poor	27
+18029	Indiana	Dearborn	pcnt_fair_poor	12
+18031	Indiana	Decatur	pcnt_fair_poor	17
+18033	Indiana	DeKalb	pcnt_fair_poor	13
+18035	Indiana	Delaware	pcnt_fair_poor	19
+18037	Indiana	Dubois	pcnt_fair_poor	11
+18039	Indiana	Elkhart	pcnt_fair_poor	15
+18041	Indiana	Fayette	pcnt_fair_poor	24
+18043	Indiana	Floyd	pcnt_fair_poor	19
+18045	Indiana	Fountain	pcnt_fair_poor	14
+18047	Indiana	Franklin	pcnt_fair_poor	25
+18049	Indiana	Fulton	pcnt_fair_poor	19
+18051	Indiana	Gibson	pcnt_fair_poor	17
+18053	Indiana	Grant	pcnt_fair_poor	17
+18055	Indiana	Greene	pcnt_fair_poor	16
+18057	Indiana	Hamilton	pcnt_fair_poor	7
+18059	Indiana	Hancock	pcnt_fair_poor	15
+18061	Indiana	Harrison	pcnt_fair_poor	12
+18063	Indiana	Hendricks	pcnt_fair_poor	13
+18065	Indiana	Henry	pcnt_fair_poor	17
+18067	Indiana	Howard	pcnt_fair_poor	19
+18069	Indiana	Huntington	pcnt_fair_poor	16
+18071	Indiana	Jackson	pcnt_fair_poor	20
+18073	Indiana	Jasper	pcnt_fair_poor	13
+18075	Indiana	Jay	pcnt_fair_poor	17
+18077	Indiana	Jefferson	pcnt_fair_poor	18
+18079	Indiana	Jennings	pcnt_fair_poor	19
+18081	Indiana	Johnson	pcnt_fair_poor	14
+18083	Indiana	Knox	pcnt_fair_poor	21
+18085	Indiana	Kosciusko	pcnt_fair_poor	18
+18087	Indiana	LaGrange	pcnt_fair_poor	16
+18089	Indiana	Lake	pcnt_fair_poor	18
+18091	Indiana	LaPorte	pcnt_fair_poor	16
+18093	Indiana	Lawrence	pcnt_fair_poor	20
+18095	Indiana	Madison	pcnt_fair_poor	19
+18097	Indiana	Marion	pcnt_fair_poor	17
+18099	Indiana	Marshall	pcnt_fair_poor	12
+18101	Indiana	Martin	pcnt_fair_poor	19
+18103	Indiana	Miami	pcnt_fair_poor	16
+18105	Indiana	Monroe	pcnt_fair_poor	15
+18107	Indiana	Montgomery	pcnt_fair_poor	16
+18109	Indiana	Morgan	pcnt_fair_poor	17
+18111	Indiana	Newton	pcnt_fair_poor	23
+18113	Indiana	Noble	pcnt_fair_poor	17
+18115	Indiana	Ohio	pcnt_fair_poor	
+18117	Indiana	Orange	pcnt_fair_poor	27
+18119	Indiana	Owen	pcnt_fair_poor	14
+18121	Indiana	Parke	pcnt_fair_poor	16
+18123	Indiana	Perry	pcnt_fair_poor	18
+18125	Indiana	Pike	pcnt_fair_poor	21
+18127	Indiana	Porter	pcnt_fair_poor	12
+18129	Indiana	Posey	pcnt_fair_poor	16
+18131	Indiana	Pulaski	pcnt_fair_poor	27
+18133	Indiana	Putnam	pcnt_fair_poor	13
+18135	Indiana	Randolph	pcnt_fair_poor	23
+18137	Indiana	Ripley	pcnt_fair_poor	17
+18139	Indiana	Rush	pcnt_fair_poor	17
+18141	Indiana	St. Joseph	pcnt_fair_poor	15
+18143	Indiana	Scott	pcnt_fair_poor	24
+18145	Indiana	Shelby	pcnt_fair_poor	22
+18147	Indiana	Spencer	pcnt_fair_poor	17
+18149	Indiana	Starke	pcnt_fair_poor	20
+18151	Indiana	Steuben	pcnt_fair_poor	16
+18153	Indiana	Sullivan	pcnt_fair_poor	21
+18155	Indiana	Switzerland	pcnt_fair_poor	24
+18157	Indiana	Tippecanoe	pcnt_fair_poor	15
+18159	Indiana	Tipton	pcnt_fair_poor	14
+18161	Indiana	Union	pcnt_fair_poor	21
+18163	Indiana	Vanderburgh	pcnt_fair_poor	20
+18165	Indiana	Vermillion	pcnt_fair_poor	20
+18167	Indiana	Vigo	pcnt_fair_poor	18
+18169	Indiana	Wabash	pcnt_fair_poor	15
+18171	Indiana	Warren	pcnt_fair_poor	
+18173	Indiana	Warrick	pcnt_fair_poor	12
+18175	Indiana	Washington	pcnt_fair_poor	27
+18177	Indiana	Wayne	pcnt_fair_poor	16
+18179	Indiana	Wells	pcnt_fair_poor	14
+18181	Indiana	White	pcnt_fair_poor	14
+18183	Indiana	Whitley	pcnt_fair_poor	11
+19001	Iowa	Adair	pcnt_fair_poor	7
+19003	Iowa	Adams	pcnt_fair_poor	11
+19005	Iowa	Allamakee	pcnt_fair_poor	16
+19007	Iowa	Appanoose	pcnt_fair_poor	26
+19009	Iowa	Audubon	pcnt_fair_poor	8
+19011	Iowa	Benton	pcnt_fair_poor	8
+19013	Iowa	Black Hawk	pcnt_fair_poor	13
+19015	Iowa	Boone	pcnt_fair_poor	10
+19017	Iowa	Bremer	pcnt_fair_poor	9
+19019	Iowa	Buchanan	pcnt_fair_poor	15
+19021	Iowa	Buena Vista	pcnt_fair_poor	12
+19023	Iowa	Butler	pcnt_fair_poor	10
+19025	Iowa	Calhoun	pcnt_fair_poor	12
+19027	Iowa	Carroll	pcnt_fair_poor	9
+19029	Iowa	Cass	pcnt_fair_poor	11
+19031	Iowa	Cedar	pcnt_fair_poor	5
+19033	Iowa	Cerro Gordo	pcnt_fair_poor	11
+19035	Iowa	Cherokee	pcnt_fair_poor	12
+19037	Iowa	Chickasaw	pcnt_fair_poor	9
+19039	Iowa	Clarke	pcnt_fair_poor	11
+19041	Iowa	Clay	pcnt_fair_poor	9
+19043	Iowa	Clayton	pcnt_fair_poor	13
+19045	Iowa	Clinton	pcnt_fair_poor	16
+19047	Iowa	Crawford	pcnt_fair_poor	15
+19049	Iowa	Dallas	pcnt_fair_poor	10
+19051	Iowa	Davis	pcnt_fair_poor	15
+19053	Iowa	Decatur	pcnt_fair_poor	19
+19055	Iowa	Delaware	pcnt_fair_poor	8
+19057	Iowa	Des Moines	pcnt_fair_poor	17
+19059	Iowa	Dickinson	pcnt_fair_poor	13
+19061	Iowa	Dubuque	pcnt_fair_poor	9
+19063	Iowa	Emmet	pcnt_fair_poor	10
+19065	Iowa	Fayette	pcnt_fair_poor	11
+19067	Iowa	Floyd	pcnt_fair_poor	14
+19069	Iowa	Franklin	pcnt_fair_poor	10
+19071	Iowa	Fremont	pcnt_fair_poor	16
+19073	Iowa	Greene	pcnt_fair_poor	7
+19075	Iowa	Grundy	pcnt_fair_poor	10
+19077	Iowa	Guthrie	pcnt_fair_poor	8
+19079	Iowa	Hamilton	pcnt_fair_poor	9
+19081	Iowa	Hancock	pcnt_fair_poor	15
+19083	Iowa	Hardin	pcnt_fair_poor	12
+19085	Iowa	Harrison	pcnt_fair_poor	14
+19087	Iowa	Henry	pcnt_fair_poor	9
+19089	Iowa	Howard	pcnt_fair_poor	13
+19091	Iowa	Humboldt	pcnt_fair_poor	13
+19093	Iowa	Ida	pcnt_fair_poor	7
+19095	Iowa	Iowa	pcnt_fair_poor	18
+19097	Iowa	Jackson	pcnt_fair_poor	13
+19099	Iowa	Jasper	pcnt_fair_poor	12
+19101	Iowa	Jefferson	pcnt_fair_poor	12
+19103	Iowa	Johnson	pcnt_fair_poor	7
+19105	Iowa	Jones	pcnt_fair_poor	12
+19107	Iowa	Keokuk	pcnt_fair_poor	18
+19109	Iowa	Kossuth	pcnt_fair_poor	14
+19111	Iowa	Lee	pcnt_fair_poor	16
+19113	Iowa	Linn	pcnt_fair_poor	11
+19115	Iowa	Louisa	pcnt_fair_poor	20
+19117	Iowa	Lucas	pcnt_fair_poor	9
+19119	Iowa	Lyon	pcnt_fair_poor	7
+19121	Iowa	Madison	pcnt_fair_poor	9
+19123	Iowa	Mahaska	pcnt_fair_poor	11
+19125	Iowa	Marion	pcnt_fair_poor	10
+19127	Iowa	Marshall	pcnt_fair_poor	11
+19129	Iowa	Mills	pcnt_fair_poor	15
+19131	Iowa	Mitchell	pcnt_fair_poor	4
+19133	Iowa	Monona	pcnt_fair_poor	13
+19135	Iowa	Monroe	pcnt_fair_poor	14
+19137	Iowa	Montgomery	pcnt_fair_poor	14
+19139	Iowa	Muscatine	pcnt_fair_poor	13
+19141	Iowa	O'Brien	pcnt_fair_poor	8
+19143	Iowa	Osceola	pcnt_fair_poor	12
+19145	Iowa	Page	pcnt_fair_poor	8
+19147	Iowa	Palo Alto	pcnt_fair_poor	
+19149	Iowa	Plymouth	pcnt_fair_poor	8
+19151	Iowa	Pocahontas	pcnt_fair_poor	9
+19153	Iowa	Polk	pcnt_fair_poor	11
+19155	Iowa	Pottawattamie	pcnt_fair_poor	13
+19157	Iowa	Poweshiek	pcnt_fair_poor	10
+19159	Iowa	Ringgold	pcnt_fair_poor	13
+19161	Iowa	Sac	pcnt_fair_poor	10
+19163	Iowa	Scott	pcnt_fair_poor	10
+19165	Iowa	Shelby	pcnt_fair_poor	9
+19167	Iowa	Sioux	pcnt_fair_poor	8
+19169	Iowa	Story	pcnt_fair_poor	7
+19171	Iowa	Tama	pcnt_fair_poor	12
+19173	Iowa	Taylor	pcnt_fair_poor	14
+19175	Iowa	Union	pcnt_fair_poor	9
+19177	Iowa	Van Buren	pcnt_fair_poor	19
+19179	Iowa	Wapello	pcnt_fair_poor	18
+19181	Iowa	Warren	pcnt_fair_poor	13
+19183	Iowa	Washington	pcnt_fair_poor	12
+19185	Iowa	Wayne	pcnt_fair_poor	20
+19187	Iowa	Webster	pcnt_fair_poor	13
+19189	Iowa	Winnebago	pcnt_fair_poor	11
+19191	Iowa	Winneshiek	pcnt_fair_poor	6
+19193	Iowa	Woodbury	pcnt_fair_poor	13
+19195	Iowa	Worth	pcnt_fair_poor	10
+19197	Iowa	Wright	pcnt_fair_poor	10
+20001	Kansas	Allen	pcnt_fair_poor	18
+20003	Kansas	Anderson	pcnt_fair_poor	16
+20005	Kansas	Atchison	pcnt_fair_poor	14
+20007	Kansas	Barber	pcnt_fair_poor	10
+20009	Kansas	Barton	pcnt_fair_poor	17
+20011	Kansas	Bourbon	pcnt_fair_poor	20
+20013	Kansas	Brown	pcnt_fair_poor	19
+20015	Kansas	Butler	pcnt_fair_poor	12
+20017	Kansas	Chase	pcnt_fair_poor	10
+20019	Kansas	Chautauqua	pcnt_fair_poor	14
+20021	Kansas	Cherokee	pcnt_fair_poor	20
+20023	Kansas	Cheyenne	pcnt_fair_poor	5
+20025	Kansas	Clark	pcnt_fair_poor	
+20027	Kansas	Clay	pcnt_fair_poor	11
+20029	Kansas	Cloud	pcnt_fair_poor	16
+20031	Kansas	Coffey	pcnt_fair_poor	10
+20033	Kansas	Comanche	pcnt_fair_poor	8
+20035	Kansas	Cowley	pcnt_fair_poor	15
+20037	Kansas	Crawford	pcnt_fair_poor	17
+20039	Kansas	Decatur	pcnt_fair_poor	12
+20041	Kansas	Dickinson	pcnt_fair_poor	15
+20043	Kansas	Doniphan	pcnt_fair_poor	17
+20045	Kansas	Douglas	pcnt_fair_poor	12
+20047	Kansas	Edwards	pcnt_fair_poor	13
+20049	Kansas	Elk	pcnt_fair_poor	18
+20051	Kansas	Ellis	pcnt_fair_poor	9
+20053	Kansas	Ellsworth	pcnt_fair_poor	
+20055	Kansas	Finney	pcnt_fair_poor	15
+20057	Kansas	Ford	pcnt_fair_poor	16
+20059	Kansas	Franklin	pcnt_fair_poor	15
+20061	Kansas	Geary	pcnt_fair_poor	17
+20063	Kansas	Gove	pcnt_fair_poor	6
+20065	Kansas	Graham	pcnt_fair_poor	12
+20067	Kansas	Grant	pcnt_fair_poor	13
+20069	Kansas	Gray	pcnt_fair_poor	13
+20071	Kansas	Greeley	pcnt_fair_poor	10
+20073	Kansas	Greenwood	pcnt_fair_poor	19
+20075	Kansas	Hamilton	pcnt_fair_poor	9
+20077	Kansas	Harper	pcnt_fair_poor	12
+20079	Kansas	Harvey	pcnt_fair_poor	13
+20081	Kansas	Haskell	pcnt_fair_poor	11
+20083	Kansas	Hodgeman	pcnt_fair_poor	
+20085	Kansas	Jackson	pcnt_fair_poor	12
+20087	Kansas	Jefferson	pcnt_fair_poor	12
+20089	Kansas	Jewell	pcnt_fair_poor	13
+20091	Kansas	Johnson	pcnt_fair_poor	8
+20093	Kansas	Kearny	pcnt_fair_poor	10
+20095	Kansas	Kingman	pcnt_fair_poor	18
+20097	Kansas	Kiowa	pcnt_fair_poor	3
+20099	Kansas	Labette	pcnt_fair_poor	20
+20101	Kansas	Lane	pcnt_fair_poor	5
+20103	Kansas	Leavenworth	pcnt_fair_poor	12
+20105	Kansas	Lincoln	pcnt_fair_poor	
+20107	Kansas	Linn	pcnt_fair_poor	15
+20109	Kansas	Logan	pcnt_fair_poor	11
+20111	Kansas	Lyon	pcnt_fair_poor	13
+20113	Kansas	McPherson	pcnt_fair_poor	9
+20115	Kansas	Marion	pcnt_fair_poor	13
+20117	Kansas	Marshall	pcnt_fair_poor	15
+20119	Kansas	Meade	pcnt_fair_poor	10
+20121	Kansas	Miami	pcnt_fair_poor	12
+20123	Kansas	Mitchell	pcnt_fair_poor	11
+20125	Kansas	Montgomery	pcnt_fair_poor	19
+20127	Kansas	Morris	pcnt_fair_poor	16
+20129	Kansas	Morton	pcnt_fair_poor	
+20131	Kansas	Nemaha	pcnt_fair_poor	12
+20133	Kansas	Neosho	pcnt_fair_poor	19
+20135	Kansas	Ness	pcnt_fair_poor	15
+20137	Kansas	Norton	pcnt_fair_poor	9
+20139	Kansas	Osage	pcnt_fair_poor	18
+20141	Kansas	Osborne	pcnt_fair_poor	10
+20143	Kansas	Ottawa	pcnt_fair_poor	11
+20145	Kansas	Pawnee	pcnt_fair_poor	13
+20147	Kansas	Phillips	pcnt_fair_poor	9
+20149	Kansas	Pottawatomie	pcnt_fair_poor	9
+20151	Kansas	Pratt	pcnt_fair_poor	16
+20153	Kansas	Rawlins	pcnt_fair_poor	7
+20155	Kansas	Reno	pcnt_fair_poor	12
+20157	Kansas	Republic	pcnt_fair_poor	9
+20159	Kansas	Rice	pcnt_fair_poor	11
+20161	Kansas	Riley	pcnt_fair_poor	7
+20163	Kansas	Rooks	pcnt_fair_poor	13
+20165	Kansas	Rush	pcnt_fair_poor	12
+20167	Kansas	Russell	pcnt_fair_poor	13
+20169	Kansas	Saline	pcnt_fair_poor	14
+20171	Kansas	Scott	pcnt_fair_poor	7
+20173	Kansas	Sedgwick	pcnt_fair_poor	13
+20175	Kansas	Seward	pcnt_fair_poor	21
+20177	Kansas	Shawnee	pcnt_fair_poor	13
+20179	Kansas	Sheridan	pcnt_fair_poor	5
+20181	Kansas	Sherman	pcnt_fair_poor	11
+20183	Kansas	Smith	pcnt_fair_poor	10
+20185	Kansas	Stafford	pcnt_fair_poor	16
+20187	Kansas	Stanton	pcnt_fair_poor	7
+20189	Kansas	Stevens	pcnt_fair_poor	8
+20191	Kansas	Sumner	pcnt_fair_poor	16
+20193	Kansas	Thomas	pcnt_fair_poor	15
+20195	Kansas	Trego	pcnt_fair_poor	13
+20197	Kansas	Wabaunsee	pcnt_fair_poor	11
+20199	Kansas	Wallace	pcnt_fair_poor	7
+20201	Kansas	Washington	pcnt_fair_poor	11
+20203	Kansas	Wichita	pcnt_fair_poor	18
+20205	Kansas	Wilson	pcnt_fair_poor	21
+20207	Kansas	Woodson	pcnt_fair_poor	20
+20209	Kansas	Wyandotte	pcnt_fair_poor	20
+21001	Kentucky	Adair	pcnt_fair_poor	35
+21003	Kentucky	Allen	pcnt_fair_poor	24
+21005	Kentucky	Anderson	pcnt_fair_poor	17
+21007	Kentucky	Ballard	pcnt_fair_poor	23
+21009	Kentucky	Barren	pcnt_fair_poor	25
+21011	Kentucky	Bath	pcnt_fair_poor	28
+21013	Kentucky	Bell	pcnt_fair_poor	33
+21015	Kentucky	Boone	pcnt_fair_poor	13
+21017	Kentucky	Bourbon	pcnt_fair_poor	19
+21019	Kentucky	Boyd	pcnt_fair_poor	25
+21021	Kentucky	Boyle	pcnt_fair_poor	15
+21023	Kentucky	Bracken	pcnt_fair_poor	24
+21025	Kentucky	Breathitt	pcnt_fair_poor	34
+21027	Kentucky	Breckinridge	pcnt_fair_poor	25
+21029	Kentucky	Bullitt	pcnt_fair_poor	21
+21031	Kentucky	Butler	pcnt_fair_poor	21
+21033	Kentucky	Caldwell	pcnt_fair_poor	18
+21035	Kentucky	Calloway	pcnt_fair_poor	20
+21037	Kentucky	Campbell	pcnt_fair_poor	16
+21039	Kentucky	Carlisle	pcnt_fair_poor	16
+21041	Kentucky	Carroll	pcnt_fair_poor	
+21043	Kentucky	Carter	pcnt_fair_poor	32
+21045	Kentucky	Casey	pcnt_fair_poor	28
+21047	Kentucky	Christian	pcnt_fair_poor	24
+21049	Kentucky	Clark	pcnt_fair_poor	22
+21051	Kentucky	Clay	pcnt_fair_poor	37
+21053	Kentucky	Clinton	pcnt_fair_poor	28
+21055	Kentucky	Crittenden	pcnt_fair_poor	30
+21057	Kentucky	Cumberland	pcnt_fair_poor	29
+21059	Kentucky	Daviess	pcnt_fair_poor	18
+21061	Kentucky	Edmonson	pcnt_fair_poor	30
+21063	Kentucky	Elliott	pcnt_fair_poor	30
+21065	Kentucky	Estill	pcnt_fair_poor	
+21067	Kentucky	Fayette	pcnt_fair_poor	14
+21069	Kentucky	Fleming	pcnt_fair_poor	25
+21071	Kentucky	Floyd	pcnt_fair_poor	38
+21073	Kentucky	Franklin	pcnt_fair_poor	15
+21075	Kentucky	Fulton	pcnt_fair_poor	
+21077	Kentucky	Gallatin	pcnt_fair_poor	
+21079	Kentucky	Garrard	pcnt_fair_poor	17
+21081	Kentucky	Grant	pcnt_fair_poor	27
+21083	Kentucky	Graves	pcnt_fair_poor	22
+21085	Kentucky	Grayson	pcnt_fair_poor	26
+21087	Kentucky	Green	pcnt_fair_poor	27
+21089	Kentucky	Greenup	pcnt_fair_poor	25
+21091	Kentucky	Hancock	pcnt_fair_poor	18
+21093	Kentucky	Hardin	pcnt_fair_poor	19
+21095	Kentucky	Harlan	pcnt_fair_poor	37
+21097	Kentucky	Harrison	pcnt_fair_poor	16
+21099	Kentucky	Hart	pcnt_fair_poor	26
+21101	Kentucky	Henderson	pcnt_fair_poor	19
+21103	Kentucky	Henry	pcnt_fair_poor	17
+21105	Kentucky	Hickman	pcnt_fair_poor	
+21107	Kentucky	Hopkins	pcnt_fair_poor	22
+21109	Kentucky	Jackson	pcnt_fair_poor	36
+21111	Kentucky	Jefferson	pcnt_fair_poor	17
+21113	Kentucky	Jessamine	pcnt_fair_poor	16
+21115	Kentucky	Johnson	pcnt_fair_poor	30
+21117	Kentucky	Kenton	pcnt_fair_poor	17
+21119	Kentucky	Knott	pcnt_fair_poor	31
+21121	Kentucky	Knox	pcnt_fair_poor	31
+21123	Kentucky	Larue	pcnt_fair_poor	21
+21125	Kentucky	Laurel	pcnt_fair_poor	29
+21127	Kentucky	Lawrence	pcnt_fair_poor	27
+21129	Kentucky	Lee	pcnt_fair_poor	34
+21131	Kentucky	Leslie	pcnt_fair_poor	38
+21133	Kentucky	Letcher	pcnt_fair_poor	32
+21135	Kentucky	Lewis	pcnt_fair_poor	31
+21137	Kentucky	Lincoln	pcnt_fair_poor	
+21139	Kentucky	Livingston	pcnt_fair_poor	
+21141	Kentucky	Logan	pcnt_fair_poor	23
+21143	Kentucky	Lyon	pcnt_fair_poor	
+21145	Kentucky	McCracken	pcnt_fair_poor	20
+21147	Kentucky	McCreary	pcnt_fair_poor	41
+21149	Kentucky	McLean	pcnt_fair_poor	21
+21151	Kentucky	Madison	pcnt_fair_poor	17
+21153	Kentucky	Magoffin	pcnt_fair_poor	39
+21155	Kentucky	Marion	pcnt_fair_poor	19
+21157	Kentucky	Marshall	pcnt_fair_poor	19
+21159	Kentucky	Martin	pcnt_fair_poor	36
+21161	Kentucky	Mason	pcnt_fair_poor	19
+21163	Kentucky	Meade	pcnt_fair_poor	17
+21165	Kentucky	Menifee	pcnt_fair_poor	31
+21167	Kentucky	Mercer	pcnt_fair_poor	16
+21169	Kentucky	Metcalfe	pcnt_fair_poor	31
+21171	Kentucky	Monroe	pcnt_fair_poor	24
+21173	Kentucky	Montgomery	pcnt_fair_poor	24
+21175	Kentucky	Morgan	pcnt_fair_poor	29
+21177	Kentucky	Muhlenberg	pcnt_fair_poor	20
+21179	Kentucky	Nelson	pcnt_fair_poor	19
+21181	Kentucky	Nicholas	pcnt_fair_poor	
+21183	Kentucky	Ohio	pcnt_fair_poor	27
+21185	Kentucky	Oldham	pcnt_fair_poor	8
+21187	Kentucky	Owen	pcnt_fair_poor	23
+21189	Kentucky	Owsley	pcnt_fair_poor	
+21191	Kentucky	Pendleton	pcnt_fair_poor	
+21193	Kentucky	Perry	pcnt_fair_poor	34
+21195	Kentucky	Pike	pcnt_fair_poor	36
+21197	Kentucky	Powell	pcnt_fair_poor	24
+21199	Kentucky	Pulaski	pcnt_fair_poor	25
+21201	Kentucky	Robertson	pcnt_fair_poor	25
+21203	Kentucky	Rockcastle	pcnt_fair_poor	28
+21205	Kentucky	Rowan	pcnt_fair_poor	24
+21207	Kentucky	Russell	pcnt_fair_poor	23
+21209	Kentucky	Scott	pcnt_fair_poor	18
+21211	Kentucky	Shelby	pcnt_fair_poor	14
+21213	Kentucky	Simpson	pcnt_fair_poor	15
+21215	Kentucky	Spencer	pcnt_fair_poor	19
+21217	Kentucky	Taylor	pcnt_fair_poor	21
+21219	Kentucky	Todd	pcnt_fair_poor	23
+21221	Kentucky	Trigg	pcnt_fair_poor	24
+21223	Kentucky	Trimble	pcnt_fair_poor	25
+21225	Kentucky	Union	pcnt_fair_poor	23
+21227	Kentucky	Warren	pcnt_fair_poor	18
+21229	Kentucky	Washington	pcnt_fair_poor	15
+21231	Kentucky	Wayne	pcnt_fair_poor	31
+21233	Kentucky	Webster	pcnt_fair_poor	22
+21235	Kentucky	Whitley	pcnt_fair_poor	28
+21237	Kentucky	Wolfe	pcnt_fair_poor	35
+21239	Kentucky	Woodford	pcnt_fair_poor	
+22001	Louisiana	Acadia	pcnt_fair_poor	20
+22003	Louisiana	Allen	pcnt_fair_poor	24
+22005	Louisiana	Ascension	pcnt_fair_poor	18
+22007	Louisiana	Assumption	pcnt_fair_poor	23
+22009	Louisiana	Avoyelles	pcnt_fair_poor	26
+22011	Louisiana	Beauregard	pcnt_fair_poor	24
+22013	Louisiana	Bienville	pcnt_fair_poor	23
+22015	Louisiana	Bossier	pcnt_fair_poor	18
+22017	Louisiana	Caddo	pcnt_fair_poor	18
+22019	Louisiana	Calcasieu	pcnt_fair_poor	19
+22021	Louisiana	Caldwell	pcnt_fair_poor	22
+22023	Louisiana	Cameron	pcnt_fair_poor	20
+22025	Louisiana	Catahoula	pcnt_fair_poor	23
+22027	Louisiana	Claiborne	pcnt_fair_poor	21
+22029	Louisiana	Concordia	pcnt_fair_poor	22
+22031	Louisiana	De Soto	pcnt_fair_poor	20
+22033	Louisiana	East Baton Rouge	pcnt_fair_poor	16
+22035	Louisiana	East Carroll	pcnt_fair_poor	26
+22037	Louisiana	East Feliciana	pcnt_fair_poor	24
+22039	Louisiana	Evangeline	pcnt_fair_poor	25
+22041	Louisiana	Franklin	pcnt_fair_poor	29
+22043	Louisiana	Grant	pcnt_fair_poor	27
+22045	Louisiana	Iberia	pcnt_fair_poor	25
+22047	Louisiana	Iberville	pcnt_fair_poor	22
+22049	Louisiana	Jackson	pcnt_fair_poor	24
+22051	Louisiana	Jefferson	pcnt_fair_poor	20
+22053	Louisiana	Jefferson Davis	pcnt_fair_poor	21
+22055	Louisiana	Lafayette	pcnt_fair_poor	16
+22057	Louisiana	Lafourche	pcnt_fair_poor	19
+22059	Louisiana	La Salle	pcnt_fair_poor	15
+22061	Louisiana	Lincoln	pcnt_fair_poor	22
+22063	Louisiana	Livingston	pcnt_fair_poor	20
+22065	Louisiana	Madison	pcnt_fair_poor	18
+22067	Louisiana	Morehouse	pcnt_fair_poor	25
+22069	Louisiana	Natchitoches	pcnt_fair_poor	21
+22071	Louisiana	Orleans	pcnt_fair_poor	18
+22073	Louisiana	Ouachita	pcnt_fair_poor	20
+22075	Louisiana	Plaquemines	pcnt_fair_poor	19
+22077	Louisiana	Pointe Coupee	pcnt_fair_poor	12
+22079	Louisiana	Rapides	pcnt_fair_poor	21
+22081	Louisiana	Red River	pcnt_fair_poor	
+22083	Louisiana	Richland	pcnt_fair_poor	21
+22085	Louisiana	Sabine	pcnt_fair_poor	25
+22087	Louisiana	St. Bernard	pcnt_fair_poor	26
+22089	Louisiana	St. Charles	pcnt_fair_poor	17
+22091	Louisiana	St. Helena	pcnt_fair_poor	
+22093	Louisiana	St. James	pcnt_fair_poor	23
+22095	Louisiana	St. John the Baptist	pcnt_fair_poor	21
+22097	Louisiana	St. Landry	pcnt_fair_poor	25
+22099	Louisiana	St. Martin	pcnt_fair_poor	24
+22101	Louisiana	St. Mary	pcnt_fair_poor	22
+22103	Louisiana	St. Tammany	pcnt_fair_poor	15
+22105	Louisiana	Tangipahoa	pcnt_fair_poor	24
+22107	Louisiana	Tensas	pcnt_fair_poor	22
+22109	Louisiana	Terrebonne	pcnt_fair_poor	22
+22111	Louisiana	Union	pcnt_fair_poor	24
+22113	Louisiana	Vermilion	pcnt_fair_poor	19
+22115	Louisiana	Vernon	pcnt_fair_poor	20
+22117	Louisiana	Washington	pcnt_fair_poor	26
+22119	Louisiana	Webster	pcnt_fair_poor	19
+22121	Louisiana	West Baton Rouge	pcnt_fair_poor	21
+22123	Louisiana	West Carroll	pcnt_fair_poor	23
+22125	Louisiana	West Feliciana	pcnt_fair_poor	
+22127	Louisiana	Winn	pcnt_fair_poor	23
+23001	Maine	Androscoggin	pcnt_fair_poor	13
+23003	Maine	Aroostook	pcnt_fair_poor	18
+23005	Maine	Cumberland	pcnt_fair_poor	10
+23007	Maine	Franklin	pcnt_fair_poor	12
+23009	Maine	Hancock	pcnt_fair_poor	13
+23011	Maine	Kennebec	pcnt_fair_poor	14
+23013	Maine	Knox	pcnt_fair_poor	13
+23015	Maine	Lincoln	pcnt_fair_poor	10
+23017	Maine	Oxford	pcnt_fair_poor	16
+23019	Maine	Penobscot	pcnt_fair_poor	14
+23021	Maine	Piscataquis	pcnt_fair_poor	17
+23023	Maine	Sagadahoc	pcnt_fair_poor	11
+23025	Maine	Somerset	pcnt_fair_poor	17
+23027	Maine	Waldo	pcnt_fair_poor	13
+23029	Maine	Washington	pcnt_fair_poor	17
+23031	Maine	York	pcnt_fair_poor	12
+24001	Maryland	Allegany	pcnt_fair_poor	18
+24003	Maryland	Anne Arundel	pcnt_fair_poor	11
+24005	Maryland	Baltimore	pcnt_fair_poor	14
+24009	Maryland	Calvert	pcnt_fair_poor	12
+24011	Maryland	Caroline	pcnt_fair_poor	17
+24013	Maryland	Carroll	pcnt_fair_poor	13
+24015	Maryland	Cecil	pcnt_fair_poor	15
+24017	Maryland	Charles	pcnt_fair_poor	12
+24019	Maryland	Dorchester	pcnt_fair_poor	17
+24021	Maryland	Frederick	pcnt_fair_poor	11
+24023	Maryland	Garrett	pcnt_fair_poor	17
+24025	Maryland	Harford	pcnt_fair_poor	12
+24027	Maryland	Howard	pcnt_fair_poor	8
+24029	Maryland	Kent	pcnt_fair_poor	13
+24031	Maryland	Montgomery	pcnt_fair_poor	9
+24033	Maryland	Prince George's	pcnt_fair_poor	12
+24035	Maryland	Queen Anne's	pcnt_fair_poor	10
+24037	Maryland	St. Mary's	pcnt_fair_poor	12
+24039	Maryland	Somerset	pcnt_fair_poor	16
+24041	Maryland	Talbot	pcnt_fair_poor	13
+24043	Maryland	Washington	pcnt_fair_poor	15
+24045	Maryland	Wicomico	pcnt_fair_poor	15
+24047	Maryland	Worcester	pcnt_fair_poor	14
+24510	Maryland	Baltimore City	pcnt_fair_poor	19
+25001	Massachusetts	Barnstable	pcnt_fair_poor	9
+25003	Massachusetts	Berkshire	pcnt_fair_poor	13
+25005	Massachusetts	Bristol	pcnt_fair_poor	15
+25007	Massachusetts	Dukes	pcnt_fair_poor	9
+25009	Massachusetts	Essex	pcnt_fair_poor	13
+25011	Massachusetts	Franklin	pcnt_fair_poor	11
+25013	Massachusetts	Hampden	pcnt_fair_poor	15
+25015	Massachusetts	Hampshire	pcnt_fair_poor	10
+25017	Massachusetts	Middlesex	pcnt_fair_poor	9
+25019	Massachusetts	Nantucket	pcnt_fair_poor	6
+25021	Massachusetts	Norfolk	pcnt_fair_poor	9
+25023	Massachusetts	Plymouth	pcnt_fair_poor	11
+25025	Massachusetts	Suffolk	pcnt_fair_poor	17
+25027	Massachusetts	Worcester	pcnt_fair_poor	13
+26001	Michigan	Alcona	pcnt_fair_poor	17
+26003	Michigan	Alger	pcnt_fair_poor	7
+26005	Michigan	Allegan	pcnt_fair_poor	13
+26007	Michigan	Alpena	pcnt_fair_poor	15
+26009	Michigan	Antrim	pcnt_fair_poor	15
+26011	Michigan	Arenac	pcnt_fair_poor	
+26013	Michigan	Baraga	pcnt_fair_poor	16
+26015	Michigan	Barry	pcnt_fair_poor	14
+26017	Michigan	Bay	pcnt_fair_poor	15
+26019	Michigan	Benzie	pcnt_fair_poor	8
+26021	Michigan	Berrien	pcnt_fair_poor	18
+26023	Michigan	Branch	pcnt_fair_poor	23
+26025	Michigan	Calhoun	pcnt_fair_poor	17
+26027	Michigan	Cass	pcnt_fair_poor	18
+26029	Michigan	Charlevoix	pcnt_fair_poor	10
+26031	Michigan	Cheboygan	pcnt_fair_poor	14
+26033	Michigan	Chippewa	pcnt_fair_poor	15
+26035	Michigan	Clare	pcnt_fair_poor	20
+26037	Michigan	Clinton	pcnt_fair_poor	12
+26039	Michigan	Crawford	pcnt_fair_poor	17
+26041	Michigan	Delta	pcnt_fair_poor	15
+26043	Michigan	Dickinson	pcnt_fair_poor	15
+26045	Michigan	Eaton	pcnt_fair_poor	14
+26047	Michigan	Emmet	pcnt_fair_poor	15
+26049	Michigan	Genesee	pcnt_fair_poor	18
+26051	Michigan	Gladwin	pcnt_fair_poor	20
+26053	Michigan	Gogebic	pcnt_fair_poor	9
+26055	Michigan	Grand Traverse	pcnt_fair_poor	9
+26057	Michigan	Gratiot	pcnt_fair_poor	17
+26059	Michigan	Hillsdale	pcnt_fair_poor	16
+26061	Michigan	Houghton	pcnt_fair_poor	14
+26063	Michigan	Huron	pcnt_fair_poor	15
+26065	Michigan	Ingham	pcnt_fair_poor	13
+26067	Michigan	Ionia	pcnt_fair_poor	16
+26069	Michigan	Iosco	pcnt_fair_poor	12
+26071	Michigan	Iron	pcnt_fair_poor	
+26073	Michigan	Isabella	pcnt_fair_poor	10
+26075	Michigan	Jackson	pcnt_fair_poor	14
+26077	Michigan	Kalamazoo	pcnt_fair_poor	15
+26079	Michigan	Kalkaska	pcnt_fair_poor	
+26081	Michigan	Kent	pcnt_fair_poor	12
+26083	Michigan	Keweenaw	pcnt_fair_poor	
+26085	Michigan	Lake	pcnt_fair_poor	
+26087	Michigan	Lapeer	pcnt_fair_poor	12
+26089	Michigan	Leelanau	pcnt_fair_poor	7
+26091	Michigan	Lenawee	pcnt_fair_poor	10
+26093	Michigan	Livingston	pcnt_fair_poor	9
+26095	Michigan	Luce	pcnt_fair_poor	18
+26097	Michigan	Mackinac	pcnt_fair_poor	11
+26099	Michigan	Macomb	pcnt_fair_poor	13
+26101	Michigan	Manistee	pcnt_fair_poor	18
+26103	Michigan	Marquette	pcnt_fair_poor	12
+26105	Michigan	Mason	pcnt_fair_poor	22
+26107	Michigan	Mecosta	pcnt_fair_poor	10
+26109	Michigan	Menominee	pcnt_fair_poor	14
+26111	Michigan	Midland	pcnt_fair_poor	12
+26113	Michigan	Missaukee	pcnt_fair_poor	17
+26115	Michigan	Monroe	pcnt_fair_poor	14
+26117	Michigan	Montcalm	pcnt_fair_poor	14
+26119	Michigan	Montmorency	pcnt_fair_poor	13
+26121	Michigan	Muskegon	pcnt_fair_poor	17
+26123	Michigan	Newaygo	pcnt_fair_poor	14
+26125	Michigan	Oakland	pcnt_fair_poor	11
+26127	Michigan	Oceana	pcnt_fair_poor	16
+26129	Michigan	Ogemaw	pcnt_fair_poor	18
+26131	Michigan	Ontonagon	pcnt_fair_poor	
+26133	Michigan	Osceola	pcnt_fair_poor	12
+26135	Michigan	Oscoda	pcnt_fair_poor	
+26137	Michigan	Otsego	pcnt_fair_poor	12
+26139	Michigan	Ottawa	pcnt_fair_poor	9
+26141	Michigan	Presque Isle	pcnt_fair_poor	
+26143	Michigan	Roscommon	pcnt_fair_poor	23
+26145	Michigan	Saginaw	pcnt_fair_poor	15
+26147	Michigan	St. Clair	pcnt_fair_poor	17
+26149	Michigan	St. Joseph	pcnt_fair_poor	19
+26151	Michigan	Sanilac	pcnt_fair_poor	13
+26153	Michigan	Schoolcraft	pcnt_fair_poor	14
+26155	Michigan	Shiawassee	pcnt_fair_poor	15
+26157	Michigan	Tuscola	pcnt_fair_poor	15
+26159	Michigan	Van Buren	pcnt_fair_poor	19
+26161	Michigan	Washtenaw	pcnt_fair_poor	10
+26163	Michigan	Wayne	pcnt_fair_poor	18
+26165	Michigan	Wexford	pcnt_fair_poor	20
+27001	Minnesota	Aitkin	pcnt_fair_poor	17
+27003	Minnesota	Anoka	pcnt_fair_poor	12
+27005	Minnesota	Becker	pcnt_fair_poor	11
+27007	Minnesota	Beltrami	pcnt_fair_poor	13
+27009	Minnesota	Benton	pcnt_fair_poor	13
+27011	Minnesota	Big Stone	pcnt_fair_poor	10
+27013	Minnesota	Blue Earth	pcnt_fair_poor	10
+27015	Minnesota	Brown	pcnt_fair_poor	10
+27017	Minnesota	Carlton	pcnt_fair_poor	10
+27019	Minnesota	Carver	pcnt_fair_poor	8
+27021	Minnesota	Cass	pcnt_fair_poor	13
+27023	Minnesota	Chippewa	pcnt_fair_poor	16
+27025	Minnesota	Chisago	pcnt_fair_poor	14
+27027	Minnesota	Clay	pcnt_fair_poor	9
+27029	Minnesota	Clearwater	pcnt_fair_poor	8
+27031	Minnesota	Cook	pcnt_fair_poor	12
+27033	Minnesota	Cottonwood	pcnt_fair_poor	18
+27035	Minnesota	Crow Wing	pcnt_fair_poor	15
+27037	Minnesota	Dakota	pcnt_fair_poor	10
+27039	Minnesota	Dodge	pcnt_fair_poor	6
+27041	Minnesota	Douglas	pcnt_fair_poor	12
+27043	Minnesota	Faribault	pcnt_fair_poor	12
+27045	Minnesota	Fillmore	pcnt_fair_poor	9
+27047	Minnesota	Freeborn	pcnt_fair_poor	14
+27049	Minnesota	Goodhue	pcnt_fair_poor	11
+27051	Minnesota	Grant	pcnt_fair_poor	
+27053	Minnesota	Hennepin	pcnt_fair_poor	9
+27055	Minnesota	Houston	pcnt_fair_poor	9
+27057	Minnesota	Hubbard	pcnt_fair_poor	13
+27059	Minnesota	Isanti	pcnt_fair_poor	12
+27061	Minnesota	Itasca	pcnt_fair_poor	16
+27063	Minnesota	Jackson	pcnt_fair_poor	5
+27065	Minnesota	Kanabec	pcnt_fair_poor	12
+27067	Minnesota	Kandiyohi	pcnt_fair_poor	9
+27069	Minnesota	Kittson	pcnt_fair_poor	
+27071	Minnesota	Koochiching	pcnt_fair_poor	12
+27073	Minnesota	Lac qui Parle	pcnt_fair_poor	15
+27075	Minnesota	Lake	pcnt_fair_poor	19
+27077	Minnesota	Lake of the Woods	pcnt_fair_poor	7
+27079	Minnesota	Le Sueur	pcnt_fair_poor	13
+27081	Minnesota	Lincoln	pcnt_fair_poor	
+27083	Minnesota	Lyon	pcnt_fair_poor	13
+27085	Minnesota	McLeod	pcnt_fair_poor	8
+27087	Minnesota	Mahnomen	pcnt_fair_poor	9
+27089	Minnesota	Marshall	pcnt_fair_poor	9
+27091	Minnesota	Martin	pcnt_fair_poor	10
+27093	Minnesota	Meeker	pcnt_fair_poor	11
+27095	Minnesota	Mille Lacs	pcnt_fair_poor	13
+27097	Minnesota	Morrison	pcnt_fair_poor	18
+27099	Minnesota	Mower	pcnt_fair_poor	11
+27101	Minnesota	Murray	pcnt_fair_poor	13
+27103	Minnesota	Nicollet	pcnt_fair_poor	11
+27105	Minnesota	Nobles	pcnt_fair_poor	8
+27107	Minnesota	Norman	pcnt_fair_poor	12
+27109	Minnesota	Olmsted	pcnt_fair_poor	7
+27111	Minnesota	Otter Tail	pcnt_fair_poor	13
+27113	Minnesota	Pennington	pcnt_fair_poor	11
+27115	Minnesota	Pine	pcnt_fair_poor	10
+27117	Minnesota	Pipestone	pcnt_fair_poor	
+27119	Minnesota	Polk	pcnt_fair_poor	12
+27121	Minnesota	Pope	pcnt_fair_poor	9
+27123	Minnesota	Ramsey	pcnt_fair_poor	10
+27125	Minnesota	Red Lake	pcnt_fair_poor	9
+27127	Minnesota	Redwood	pcnt_fair_poor	8
+27129	Minnesota	Renville	pcnt_fair_poor	12
+27131	Minnesota	Rice	pcnt_fair_poor	11
+27133	Minnesota	Rock	pcnt_fair_poor	
+27135	Minnesota	Roseau	pcnt_fair_poor	10
+27137	Minnesota	St. Louis	pcnt_fair_poor	11
+27139	Minnesota	Scott	pcnt_fair_poor	8
+27141	Minnesota	Sherburne	pcnt_fair_poor	17
+27143	Minnesota	Sibley	pcnt_fair_poor	15
+27145	Minnesota	Stearns	pcnt_fair_poor	11
+27147	Minnesota	Steele	pcnt_fair_poor	5
+27149	Minnesota	Stevens	pcnt_fair_poor	17
+27151	Minnesota	Swift	pcnt_fair_poor	17
+27153	Minnesota	Todd	pcnt_fair_poor	15
+27155	Minnesota	Traverse	pcnt_fair_poor	
+27157	Minnesota	Wabasha	pcnt_fair_poor	10
+27159	Minnesota	Wadena	pcnt_fair_poor	11
+27161	Minnesota	Waseca	pcnt_fair_poor	12
+27163	Minnesota	Washington	pcnt_fair_poor	9
+27165	Minnesota	Watonwan	pcnt_fair_poor	
+27167	Minnesota	Wilkin	pcnt_fair_poor	
+27169	Minnesota	Winona	pcnt_fair_poor	9
+27171	Minnesota	Wright	pcnt_fair_poor	9
+27173	Minnesota	Yellow Medicine	pcnt_fair_poor	11
+28001	Mississippi	Adams	pcnt_fair_poor	26
+28003	Mississippi	Alcorn	pcnt_fair_poor	22
+28005	Mississippi	Amite	pcnt_fair_poor	23
+28007	Mississippi	Attala	pcnt_fair_poor	32
+28009	Mississippi	Benton	pcnt_fair_poor	21
+28011	Mississippi	Bolivar	pcnt_fair_poor	20
+28013	Mississippi	Calhoun	pcnt_fair_poor	23
+28015	Mississippi	Carroll	pcnt_fair_poor	21
+28017	Mississippi	Chickasaw	pcnt_fair_poor	27
+28019	Mississippi	Choctaw	pcnt_fair_poor	20
+28021	Mississippi	Claiborne	pcnt_fair_poor	26
+28023	Mississippi	Clarke	pcnt_fair_poor	21
+28025	Mississippi	Clay	pcnt_fair_poor	25
+28027	Mississippi	Coahoma	pcnt_fair_poor	25
+28029	Mississippi	Copiah	pcnt_fair_poor	25
+28031	Mississippi	Covington	pcnt_fair_poor	26
+28033	Mississippi	DeSoto	pcnt_fair_poor	16
+28035	Mississippi	Forrest	pcnt_fair_poor	20
+28037	Mississippi	Franklin	pcnt_fair_poor	30
+28039	Mississippi	George	pcnt_fair_poor	24
+28041	Mississippi	Greene	pcnt_fair_poor	29
+28043	Mississippi	Grenada	pcnt_fair_poor	29
+28045	Mississippi	Hancock	pcnt_fair_poor	21
+28047	Mississippi	Harrison	pcnt_fair_poor	20
+28049	Mississippi	Hinds	pcnt_fair_poor	21
+28051	Mississippi	Holmes	pcnt_fair_poor	23
+28053	Mississippi	Humphreys	pcnt_fair_poor	24
+28055	Mississippi	Issaquena	pcnt_fair_poor	
+28057	Mississippi	Itawamba	pcnt_fair_poor	27
+28059	Mississippi	Jackson	pcnt_fair_poor	19
+28061	Mississippi	Jasper	pcnt_fair_poor	24
+28063	Mississippi	Jefferson	pcnt_fair_poor	30
+28065	Mississippi	Jefferson Davis	pcnt_fair_poor	26
+28067	Mississippi	Jones	pcnt_fair_poor	22
+28069	Mississippi	Kemper	pcnt_fair_poor	28
+28071	Mississippi	Lafayette	pcnt_fair_poor	16
+28073	Mississippi	Lamar	pcnt_fair_poor	19
+28075	Mississippi	Lauderdale	pcnt_fair_poor	21
+28077	Mississippi	Lawrence	pcnt_fair_poor	24
+28079	Mississippi	Leake	pcnt_fair_poor	24
+28081	Mississippi	Lee	pcnt_fair_poor	18
+28083	Mississippi	Leflore	pcnt_fair_poor	21
+28085	Mississippi	Lincoln	pcnt_fair_poor	24
+28087	Mississippi	Lowndes	pcnt_fair_poor	21
+28089	Mississippi	Madison	pcnt_fair_poor	16
+28091	Mississippi	Marion	pcnt_fair_poor	26
+28093	Mississippi	Marshall	pcnt_fair_poor	22
+28095	Mississippi	Monroe	pcnt_fair_poor	25
+28097	Mississippi	Montgomery	pcnt_fair_poor	23
+28099	Mississippi	Neshoba	pcnt_fair_poor	28
+28101	Mississippi	Newton	pcnt_fair_poor	23
+28103	Mississippi	Noxubee	pcnt_fair_poor	24
+28105	Mississippi	Oktibbeha	pcnt_fair_poor	17
+28107	Mississippi	Panola	pcnt_fair_poor	23
+28109	Mississippi	Pearl River	pcnt_fair_poor	25
+28111	Mississippi	Perry	pcnt_fair_poor	28
+28113	Mississippi	Pike	pcnt_fair_poor	27
+28115	Mississippi	Pontotoc	pcnt_fair_poor	24
+28117	Mississippi	Prentiss	pcnt_fair_poor	25
+28119	Mississippi	Quitman	pcnt_fair_poor	
+28121	Mississippi	Rankin	pcnt_fair_poor	15
+28123	Mississippi	Scott	pcnt_fair_poor	26
+28125	Mississippi	Sharkey	pcnt_fair_poor	17
+28127	Mississippi	Simpson	pcnt_fair_poor	26
+28129	Mississippi	Smith	pcnt_fair_poor	20
+28131	Mississippi	Stone	pcnt_fair_poor	21
+28133	Mississippi	Sunflower	pcnt_fair_poor	24
+28135	Mississippi	Tallahatchie	pcnt_fair_poor	34
+28137	Mississippi	Tate	pcnt_fair_poor	21
+28139	Mississippi	Tippah	pcnt_fair_poor	31
+28141	Mississippi	Tishomingo	pcnt_fair_poor	21
+28143	Mississippi	Tunica	pcnt_fair_poor	26
+28145	Mississippi	Union	pcnt_fair_poor	24
+28147	Mississippi	Walthall	pcnt_fair_poor	24
+28149	Mississippi	Warren	pcnt_fair_poor	21
+28151	Mississippi	Washington	pcnt_fair_poor	23
+28153	Mississippi	Wayne	pcnt_fair_poor	27
+28155	Mississippi	Webster	pcnt_fair_poor	26
+28157	Mississippi	Wilkinson	pcnt_fair_poor	28
+28159	Mississippi	Winston	pcnt_fair_poor	22
+28161	Mississippi	Yalobusha	pcnt_fair_poor	24
+28163	Mississippi	Yazoo	pcnt_fair_poor	24
+29001	Missouri	Adair	pcnt_fair_poor	17
+29003	Missouri	Andrew	pcnt_fair_poor	11
+29005	Missouri	Atchison	pcnt_fair_poor	15
+29007	Missouri	Audrain	pcnt_fair_poor	19
+29009	Missouri	Barry	pcnt_fair_poor	18
+29011	Missouri	Barton	pcnt_fair_poor	14
+29013	Missouri	Bates	pcnt_fair_poor	18
+29015	Missouri	Benton	pcnt_fair_poor	18
+29017	Missouri	Bollinger	pcnt_fair_poor	20
+29019	Missouri	Boone	pcnt_fair_poor	11
+29021	Missouri	Buchanan	pcnt_fair_poor	22
+29023	Missouri	Butler	pcnt_fair_poor	27
+29025	Missouri	Caldwell	pcnt_fair_poor	14
+29027	Missouri	Callaway	pcnt_fair_poor	17
+29029	Missouri	Camden	pcnt_fair_poor	17
+29031	Missouri	Cape Girardeau	pcnt_fair_poor	15
+29033	Missouri	Carroll	pcnt_fair_poor	19
+29035	Missouri	Carter	pcnt_fair_poor	
+29037	Missouri	Cass	pcnt_fair_poor	14
+29039	Missouri	Cedar	pcnt_fair_poor	13
+29041	Missouri	Chariton	pcnt_fair_poor	23
+29043	Missouri	Christian	pcnt_fair_poor	12
+29045	Missouri	Clark	pcnt_fair_poor	
+29047	Missouri	Clay	pcnt_fair_poor	14
+29049	Missouri	Clinton	pcnt_fair_poor	12
+29051	Missouri	Cole	pcnt_fair_poor	13
+29053	Missouri	Cooper	pcnt_fair_poor	12
+29055	Missouri	Crawford	pcnt_fair_poor	18
+29057	Missouri	Dade	pcnt_fair_poor	
+29059	Missouri	Dallas	pcnt_fair_poor	16
+29061	Missouri	Daviess	pcnt_fair_poor	14
+29063	Missouri	DeKalb	pcnt_fair_poor	11
+29065	Missouri	Dent	pcnt_fair_poor	
+29067	Missouri	Douglas	pcnt_fair_poor	16
+29069	Missouri	Dunklin	pcnt_fair_poor	27
+29071	Missouri	Franklin	pcnt_fair_poor	15
+29073	Missouri	Gasconade	pcnt_fair_poor	
+29075	Missouri	Gentry	pcnt_fair_poor	20
+29077	Missouri	Greene	pcnt_fair_poor	17
+29079	Missouri	Grundy	pcnt_fair_poor	17
+29081	Missouri	Harrison	pcnt_fair_poor	19
+29083	Missouri	Henry	pcnt_fair_poor	19
+29085	Missouri	Hickory	pcnt_fair_poor	
+29087	Missouri	Holt	pcnt_fair_poor	9
+29089	Missouri	Howard	pcnt_fair_poor	10
+29091	Missouri	Howell	pcnt_fair_poor	19
+29093	Missouri	Iron	pcnt_fair_poor	
+29095	Missouri	Jackson	pcnt_fair_poor	15
+29097	Missouri	Jasper	pcnt_fair_poor	15
+29099	Missouri	Jefferson	pcnt_fair_poor	16
+29101	Missouri	Johnson	pcnt_fair_poor	13
+29103	Missouri	Knox	pcnt_fair_poor	15
+29105	Missouri	Laclede	pcnt_fair_poor	21
+29107	Missouri	Lafayette	pcnt_fair_poor	11
+29109	Missouri	Lawrence	pcnt_fair_poor	21
+29111	Missouri	Lewis	pcnt_fair_poor	19
+29113	Missouri	Lincoln	pcnt_fair_poor	16
+29115	Missouri	Linn	pcnt_fair_poor	19
+29117	Missouri	Livingston	pcnt_fair_poor	
+29119	Missouri	McDonald	pcnt_fair_poor	19
+29121	Missouri	Macon	pcnt_fair_poor	11
+29123	Missouri	Madison	pcnt_fair_poor	
+29125	Missouri	Maries	pcnt_fair_poor	11
+29127	Missouri	Marion	pcnt_fair_poor	16
+29129	Missouri	Mercer	pcnt_fair_poor	10
+29131	Missouri	Miller	pcnt_fair_poor	25
+29133	Missouri	Mississippi	pcnt_fair_poor	
+29135	Missouri	Moniteau	pcnt_fair_poor	15
+29137	Missouri	Monroe	pcnt_fair_poor	19
+29139	Missouri	Montgomery	pcnt_fair_poor	
+29141	Missouri	Morgan	pcnt_fair_poor	22
+29143	Missouri	New Madrid	pcnt_fair_poor	26
+29145	Missouri	Newton	pcnt_fair_poor	16
+29147	Missouri	Nodaway	pcnt_fair_poor	15
+29149	Missouri	Oregon	pcnt_fair_poor	26
+29151	Missouri	Osage	pcnt_fair_poor	15
+29153	Missouri	Ozark	pcnt_fair_poor	17
+29155	Missouri	Pemiscot	pcnt_fair_poor	
+29157	Missouri	Perry	pcnt_fair_poor	19
+29159	Missouri	Pettis	pcnt_fair_poor	21
+29161	Missouri	Phelps	pcnt_fair_poor	20
+29163	Missouri	Pike	pcnt_fair_poor	21
+29165	Missouri	Platte	pcnt_fair_poor	12
+29167	Missouri	Polk	pcnt_fair_poor	20
+29169	Missouri	Pulaski	pcnt_fair_poor	21
+29171	Missouri	Putnam	pcnt_fair_poor	15
+29173	Missouri	Ralls	pcnt_fair_poor	16
+29175	Missouri	Randolph	pcnt_fair_poor	21
+29177	Missouri	Ray	pcnt_fair_poor	21
+29179	Missouri	Reynolds	pcnt_fair_poor	30
+29181	Missouri	Ripley	pcnt_fair_poor	26
+29183	Missouri	St. Charles	pcnt_fair_poor	10
+29185	Missouri	St. Clair	pcnt_fair_poor	
+29186	Missouri	Ste. Genevieve	pcnt_fair_poor	18
+29187	Missouri	St. Francois	pcnt_fair_poor	25
+29189	Missouri	St. Louis	pcnt_fair_poor	13
+29195	Missouri	Saline	pcnt_fair_poor	15
+29197	Missouri	Schuyler	pcnt_fair_poor	17
+29199	Missouri	Scotland	pcnt_fair_poor	
+29201	Missouri	Scott	pcnt_fair_poor	24
+29203	Missouri	Shannon	pcnt_fair_poor	25
+29205	Missouri	Shelby	pcnt_fair_poor	17
+29207	Missouri	Stoddard	pcnt_fair_poor	22
+29209	Missouri	Stone	pcnt_fair_poor	17
+29211	Missouri	Sullivan	pcnt_fair_poor	24
+29213	Missouri	Taney	pcnt_fair_poor	18
+29215	Missouri	Texas	pcnt_fair_poor	31
+29217	Missouri	Vernon	pcnt_fair_poor	23
+29219	Missouri	Warren	pcnt_fair_poor	16
+29221	Missouri	Washington	pcnt_fair_poor	27
+29223	Missouri	Wayne	pcnt_fair_poor	26
+29225	Missouri	Webster	pcnt_fair_poor	
+29227	Missouri	Worth	pcnt_fair_poor	
+29229	Missouri	Wright	pcnt_fair_poor	20
+29510	Missouri	St. Louis City	pcnt_fair_poor	18
+30001	Montana	Beaverhead	pcnt_fair_poor	11
+30003	Montana	Big Horn	pcnt_fair_poor	20
+30005	Montana	Blaine	pcnt_fair_poor	19
+30007	Montana	Broadwater	pcnt_fair_poor	13
+30009	Montana	Carbon	pcnt_fair_poor	10
+30011	Montana	Carter	pcnt_fair_poor	15
+30013	Montana	Cascade	pcnt_fair_poor	14
+30015	Montana	Chouteau	pcnt_fair_poor	13
+30017	Montana	Custer	pcnt_fair_poor	14
+30019	Montana	Daniels	pcnt_fair_poor	10
+30021	Montana	Dawson	pcnt_fair_poor	14
+30023	Montana	Deer Lodge	pcnt_fair_poor	20
+30025	Montana	Fallon	pcnt_fair_poor	11
+30027	Montana	Fergus	pcnt_fair_poor	12
+30029	Montana	Flathead	pcnt_fair_poor	13
+30031	Montana	Gallatin	pcnt_fair_poor	8
+30033	Montana	Garfield	pcnt_fair_poor	
+30035	Montana	Glacier	pcnt_fair_poor	19
+30037	Montana	Golden Valley	pcnt_fair_poor	
+30039	Montana	Granite	pcnt_fair_poor	8
+30041	Montana	Hill	pcnt_fair_poor	16
+30043	Montana	Jefferson	pcnt_fair_poor	12
+30045	Montana	Judith Basin	pcnt_fair_poor	13
+30047	Montana	Lake	pcnt_fair_poor	14
+30049	Montana	Lewis and Clark	pcnt_fair_poor	14
+30051	Montana	Liberty	pcnt_fair_poor	10
+30053	Montana	Lincoln	pcnt_fair_poor	18
+30055	Montana	McCone	pcnt_fair_poor	7
+30057	Montana	Madison	pcnt_fair_poor	10
+30059	Montana	Meagher	pcnt_fair_poor	12
+30061	Montana	Mineral	pcnt_fair_poor	
+30063	Montana	Missoula	pcnt_fair_poor	10
+30065	Montana	Musselshell	pcnt_fair_poor	14
+30067	Montana	Park	pcnt_fair_poor	16
+30069	Montana	Petroleum	pcnt_fair_poor	
+30071	Montana	Phillips	pcnt_fair_poor	13
+30073	Montana	Pondera	pcnt_fair_poor	14
+30075	Montana	Powder River	pcnt_fair_poor	8
+30077	Montana	Powell	pcnt_fair_poor	19
+30079	Montana	Prairie	pcnt_fair_poor	10
+30081	Montana	Ravalli	pcnt_fair_poor	14
+30083	Montana	Richland	pcnt_fair_poor	13
+30085	Montana	Roosevelt	pcnt_fair_poor	19
+30087	Montana	Rosebud	pcnt_fair_poor	16
+30089	Montana	Sanders	pcnt_fair_poor	15
+30091	Montana	Sheridan	pcnt_fair_poor	14
+30093	Montana	Silver Bow	pcnt_fair_poor	17
+30095	Montana	Stillwater	pcnt_fair_poor	10
+30097	Montana	Sweet Grass	pcnt_fair_poor	7
+30099	Montana	Teton	pcnt_fair_poor	14
+30101	Montana	Toole	pcnt_fair_poor	13
+30103	Montana	Treasure	pcnt_fair_poor	
+30105	Montana	Valley	pcnt_fair_poor	16
+30107	Montana	Wheatland	pcnt_fair_poor	18
+30109	Montana	Wibaux	pcnt_fair_poor	10
+30111	Montana	Yellowstone	pcnt_fair_poor	14
+31001	Nebraska	Adams	pcnt_fair_poor	14
+31003	Nebraska	Antelope	pcnt_fair_poor	13
+31005	Nebraska	Arthur	pcnt_fair_poor	9
+31007	Nebraska	Banner	pcnt_fair_poor	10
+31009	Nebraska	Blaine	pcnt_fair_poor	9
+31011	Nebraska	Boone	pcnt_fair_poor	9
+31013	Nebraska	Box Butte	pcnt_fair_poor	14
+31015	Nebraska	Boyd	pcnt_fair_poor	13
+31017	Nebraska	Brown	pcnt_fair_poor	24
+31019	Nebraska	Buffalo	pcnt_fair_poor	10
+31021	Nebraska	Burt	pcnt_fair_poor	14
+31023	Nebraska	Butler	pcnt_fair_poor	13
+31025	Nebraska	Cass	pcnt_fair_poor	9
+31027	Nebraska	Cedar	pcnt_fair_poor	9
+31029	Nebraska	Chase	pcnt_fair_poor	10
+31031	Nebraska	Cherry	pcnt_fair_poor	11
+31033	Nebraska	Cheyenne	pcnt_fair_poor	12
+31035	Nebraska	Clay	pcnt_fair_poor	11
+31037	Nebraska	Colfax	pcnt_fair_poor	16
+31039	Nebraska	Cuming	pcnt_fair_poor	13
+31041	Nebraska	Custer	pcnt_fair_poor	13
+31043	Nebraska	Dakota	pcnt_fair_poor	19
+31045	Nebraska	Dawes	pcnt_fair_poor	12
+31047	Nebraska	Dawson	pcnt_fair_poor	15
+31049	Nebraska	Deuel	pcnt_fair_poor	10
+31051	Nebraska	Dixon	pcnt_fair_poor	9
+31053	Nebraska	Dodge	pcnt_fair_poor	13
+31055	Nebraska	Douglas	pcnt_fair_poor	12
+31057	Nebraska	Dundy	pcnt_fair_poor	15
+31059	Nebraska	Fillmore	pcnt_fair_poor	9
+31061	Nebraska	Franklin	pcnt_fair_poor	15
+31063	Nebraska	Frontier	pcnt_fair_poor	12
+31065	Nebraska	Furnas	pcnt_fair_poor	12
+31067	Nebraska	Gage	pcnt_fair_poor	16
+31069	Nebraska	Garden	pcnt_fair_poor	13
+31071	Nebraska	Garfield	pcnt_fair_poor	8
+31073	Nebraska	Gosper	pcnt_fair_poor	10
+31075	Nebraska	Grant	pcnt_fair_poor	7
+31077	Nebraska	Greeley	pcnt_fair_poor	11
+31079	Nebraska	Hall	pcnt_fair_poor	15
+31081	Nebraska	Hamilton	pcnt_fair_poor	11
+31083	Nebraska	Harlan	pcnt_fair_poor	11
+31085	Nebraska	Hayes	pcnt_fair_poor	8
+31087	Nebraska	Hitchcock	pcnt_fair_poor	12
+31089	Nebraska	Holt	pcnt_fair_poor	12
+31091	Nebraska	Hooker	pcnt_fair_poor	12
+31093	Nebraska	Howard	pcnt_fair_poor	12
+31095	Nebraska	Jefferson	pcnt_fair_poor	15
+31097	Nebraska	Johnson	pcnt_fair_poor	13
+31099	Nebraska	Kearney	pcnt_fair_poor	10
+31101	Nebraska	Keith	pcnt_fair_poor	13
+31103	Nebraska	Keya Paha	pcnt_fair_poor	9
+31105	Nebraska	Kimball	pcnt_fair_poor	18
+31107	Nebraska	Knox	pcnt_fair_poor	12
+31109	Nebraska	Lancaster	pcnt_fair_poor	10
+31111	Nebraska	Lincoln	pcnt_fair_poor	15
+31113	Nebraska	Logan	pcnt_fair_poor	10
+31115	Nebraska	Loup	pcnt_fair_poor	15
+31117	Nebraska	McPherson	pcnt_fair_poor	9
+31119	Nebraska	Madison	pcnt_fair_poor	13
+31121	Nebraska	Merrick	pcnt_fair_poor	12
+31123	Nebraska	Morrill	pcnt_fair_poor	16
+31125	Nebraska	Nance	pcnt_fair_poor	13
+31127	Nebraska	Nemaha	pcnt_fair_poor	13
+31129	Nebraska	Nuckolls	pcnt_fair_poor	13
+31131	Nebraska	Otoe	pcnt_fair_poor	12
+31133	Nebraska	Pawnee	pcnt_fair_poor	11
+31135	Nebraska	Perkins	pcnt_fair_poor	10
+31137	Nebraska	Phelps	pcnt_fair_poor	12
+31139	Nebraska	Pierce	pcnt_fair_poor	8
+31141	Nebraska	Platte	pcnt_fair_poor	13
+31143	Nebraska	Polk	pcnt_fair_poor	10
+31145	Nebraska	Red Willow	pcnt_fair_poor	16
+31147	Nebraska	Richardson	pcnt_fair_poor	16
+31149	Nebraska	Rock	pcnt_fair_poor	13
+31151	Nebraska	Saline	pcnt_fair_poor	13
+31153	Nebraska	Sarpy	pcnt_fair_poor	10
+31155	Nebraska	Saunders	pcnt_fair_poor	11
+31157	Nebraska	Scotts Bluff	pcnt_fair_poor	15
+31159	Nebraska	Seward	pcnt_fair_poor	8
+31161	Nebraska	Sheridan	pcnt_fair_poor	12
+31163	Nebraska	Sherman	pcnt_fair_poor	15
+31165	Nebraska	Sioux	pcnt_fair_poor	13
+31167	Nebraska	Stanton	pcnt_fair_poor	13
+31169	Nebraska	Thayer	pcnt_fair_poor	12
+31171	Nebraska	Thomas	pcnt_fair_poor	10
+31173	Nebraska	Thurston	pcnt_fair_poor	18
+31175	Nebraska	Valley	pcnt_fair_poor	19
+31177	Nebraska	Washington	pcnt_fair_poor	9
+31179	Nebraska	Wayne	pcnt_fair_poor	11
+31181	Nebraska	Webster	pcnt_fair_poor	13
+31183	Nebraska	Wheeler	pcnt_fair_poor	10
+31185	Nebraska	York	pcnt_fair_poor	13
+32001	Nevada	Churchill	pcnt_fair_poor	16
+32003	Nevada	Clark	pcnt_fair_poor	18
+32005	Nevada	Douglas	pcnt_fair_poor	15
+32007	Nevada	Elko	pcnt_fair_poor	18
+32009	Nevada	Esmeralda	pcnt_fair_poor	
+32011	Nevada	Eureka	pcnt_fair_poor	14
+32013	Nevada	Humboldt	pcnt_fair_poor	16
+32015	Nevada	Lander	pcnt_fair_poor	20
+32017	Nevada	Lincoln	pcnt_fair_poor	11
+32019	Nevada	Lyon	pcnt_fair_poor	15
+32021	Nevada	Mineral	pcnt_fair_poor	21
+32023	Nevada	Nye	pcnt_fair_poor	20
+32027	Nevada	Pershing	pcnt_fair_poor	17
+32029	Nevada	Storey	pcnt_fair_poor	13
+32031	Nevada	Washoe	pcnt_fair_poor	15
+32033	Nevada	White Pine	pcnt_fair_poor	21
+32510	Nevada	Carson City	pcnt_fair_poor	20
+33001	New Hampshire	Belknap	pcnt_fair_poor	12
+33003	New Hampshire	Carroll	pcnt_fair_poor	13
+33005	New Hampshire	Cheshire	pcnt_fair_poor	13
+33007	New Hampshire	Coos	pcnt_fair_poor	19
+33009	New Hampshire	Grafton	pcnt_fair_poor	11
+33011	New Hampshire	Hillsborough	pcnt_fair_poor	11
+33013	New Hampshire	Merrimack	pcnt_fair_poor	10
+33015	New Hampshire	Rockingham	pcnt_fair_poor	10
+33017	New Hampshire	Strafford	pcnt_fair_poor	14
+33019	New Hampshire	Sullivan	pcnt_fair_poor	12
+34001	New Jersey	Atlantic	pcnt_fair_poor	19
+34003	New Jersey	Bergen	pcnt_fair_poor	12
+34005	New Jersey	Burlington	pcnt_fair_poor	12
+34007	New Jersey	Camden	pcnt_fair_poor	17
+34009	New Jersey	Cape May	pcnt_fair_poor	14
+34011	New Jersey	Cumberland	pcnt_fair_poor	25
+34013	New Jersey	Essex	pcnt_fair_poor	18
+34015	New Jersey	Gloucester	pcnt_fair_poor	14
+34017	New Jersey	Hudson	pcnt_fair_poor	24
+34019	New Jersey	Hunterdon	pcnt_fair_poor	9
+34021	New Jersey	Mercer	pcnt_fair_poor	15
+34023	New Jersey	Middlesex	pcnt_fair_poor	14
+34025	New Jersey	Monmouth	pcnt_fair_poor	11
+34027	New Jersey	Morris	pcnt_fair_poor	9
+34029	New Jersey	Ocean	pcnt_fair_poor	14
+34031	New Jersey	Passaic	pcnt_fair_poor	21
+34033	New Jersey	Salem	pcnt_fair_poor	18
+34035	New Jersey	Somerset	pcnt_fair_poor	10
+34037	New Jersey	Sussex	pcnt_fair_poor	12
+34039	New Jersey	Union	pcnt_fair_poor	17
+34041	New Jersey	Warren	pcnt_fair_poor	14
+35001	New Mexico	Bernalillo	pcnt_fair_poor	15
+35003	New Mexico	Catron	pcnt_fair_poor	23
+35005	New Mexico	Chaves	pcnt_fair_poor	24
+35006	New Mexico	Cibola	pcnt_fair_poor	24
+35007	New Mexico	Colfax	pcnt_fair_poor	18
+35009	New Mexico	Curry	pcnt_fair_poor	19
+35011	New Mexico	De Baca	pcnt_fair_poor	
+35013	New Mexico	Dona Ana	pcnt_fair_poor	21
+35015	New Mexico	Eddy	pcnt_fair_poor	20
+35017	New Mexico	Grant	pcnt_fair_poor	20
+35019	New Mexico	Guadalupe	pcnt_fair_poor	13
+35021	New Mexico	Harding	pcnt_fair_poor	10
+35023	New Mexico	Hidalgo	pcnt_fair_poor	
+35025	New Mexico	Lea	pcnt_fair_poor	22
+35027	New Mexico	Lincoln	pcnt_fair_poor	11
+35028	New Mexico	Los Alamos	pcnt_fair_poor	9
+35029	New Mexico	Luna	pcnt_fair_poor	21
+35031	New Mexico	McKinley	pcnt_fair_poor	18
+35033	New Mexico	Mora	pcnt_fair_poor	19
+35035	New Mexico	Otero	pcnt_fair_poor	19
+35037	New Mexico	Quay	pcnt_fair_poor	26
+35039	New Mexico	Rio Arriba	pcnt_fair_poor	23
+35041	New Mexico	Roosevelt	pcnt_fair_poor	18
+35043	New Mexico	Sandoval	pcnt_fair_poor	13
+35045	New Mexico	San Juan	pcnt_fair_poor	17
+35047	New Mexico	San Miguel	pcnt_fair_poor	25
+35049	New Mexico	Santa Fe	pcnt_fair_poor	15
+35051	New Mexico	Sierra	pcnt_fair_poor	27
+35053	New Mexico	Socorro	pcnt_fair_poor	23
+35055	New Mexico	Taos	pcnt_fair_poor	16
+35057	New Mexico	Torrance	pcnt_fair_poor	17
+35059	New Mexico	Union	pcnt_fair_poor	16
+35061	New Mexico	Valencia	pcnt_fair_poor	19
+36001	New York	Albany	pcnt_fair_poor	13
+36003	New York	Allegany	pcnt_fair_poor	14
+36005	New York	Bronx	pcnt_fair_poor	24
+36007	New York	Broome	pcnt_fair_poor	14
+36009	New York	Cattaraugus	pcnt_fair_poor	20
+36011	New York	Cayuga	pcnt_fair_poor	15
+36013	New York	Chautauqua	pcnt_fair_poor	16
+36015	New York	Chemung	pcnt_fair_poor	22
+36017	New York	Chenango	pcnt_fair_poor	12
+36019	New York	Clinton	pcnt_fair_poor	14
+36021	New York	Columbia	pcnt_fair_poor	14
+36023	New York	Cortland	pcnt_fair_poor	15
+36025	New York	Delaware	pcnt_fair_poor	12
+36027	New York	Dutchess	pcnt_fair_poor	11
+36029	New York	Erie	pcnt_fair_poor	14
+36031	New York	Essex	pcnt_fair_poor	10
+36033	New York	Franklin	pcnt_fair_poor	15
+36035	New York	Fulton	pcnt_fair_poor	17
+36037	New York	Genesee	pcnt_fair_poor	13
+36039	New York	Greene	pcnt_fair_poor	9
+36041	New York	Hamilton	pcnt_fair_poor	
+36043	New York	Herkimer	pcnt_fair_poor	12
+36045	New York	Jefferson	pcnt_fair_poor	14
+36047	New York	Kings	pcnt_fair_poor	20
+36049	New York	Lewis	pcnt_fair_poor	15
+36051	New York	Livingston	pcnt_fair_poor	10
+36053	New York	Madison	pcnt_fair_poor	14
+36055	New York	Monroe	pcnt_fair_poor	16
+36057	New York	Montgomery	pcnt_fair_poor	14
+36059	New York	Nassau	pcnt_fair_poor	12
+36061	New York	New York	pcnt_fair_poor	16
+36063	New York	Niagara	pcnt_fair_poor	14
+36065	New York	Oneida	pcnt_fair_poor	14
+36067	New York	Onondaga	pcnt_fair_poor	13
+36069	New York	Ontario	pcnt_fair_poor	8
+36071	New York	Orange	pcnt_fair_poor	17
+36073	New York	Orleans	pcnt_fair_poor	20
+36075	New York	Oswego	pcnt_fair_poor	17
+36077	New York	Otsego	pcnt_fair_poor	14
+36079	New York	Putnam	pcnt_fair_poor	7
+36081	New York	Queens	pcnt_fair_poor	18
+36083	New York	Rensselaer	pcnt_fair_poor	16
+36085	New York	Richmond	pcnt_fair_poor	13
+36087	New York	Rockland	pcnt_fair_poor	12
+36089	New York	St. Lawrence	pcnt_fair_poor	17
+36091	New York	Saratoga	pcnt_fair_poor	12
+36093	New York	Schenectady	pcnt_fair_poor	14
+36095	New York	Schoharie	pcnt_fair_poor	12
+36097	New York	Schuyler	pcnt_fair_poor	16
+36099	New York	Seneca	pcnt_fair_poor	
+36101	New York	Steuben	pcnt_fair_poor	16
+36103	New York	Suffolk	pcnt_fair_poor	12
+36105	New York	Sullivan	pcnt_fair_poor	15
+36107	New York	Tioga	pcnt_fair_poor	14
+36109	New York	Tompkins	pcnt_fair_poor	12
+36111	New York	Ulster	pcnt_fair_poor	11
+36113	New York	Warren	pcnt_fair_poor	13
+36115	New York	Washington	pcnt_fair_poor	17
+36117	New York	Wayne	pcnt_fair_poor	19
+36119	New York	Westchester	pcnt_fair_poor	11
+36121	New York	Wyoming	pcnt_fair_poor	15
+36123	New York	Yates	pcnt_fair_poor	
+37001	North Carolina	Alamance	pcnt_fair_poor	20
+37003	North Carolina	Alexander	pcnt_fair_poor	20
+37005	North Carolina	Alleghany	pcnt_fair_poor	26
+37007	North Carolina	Anson	pcnt_fair_poor	21
+37009	North Carolina	Ashe	pcnt_fair_poor	23
+37011	North Carolina	Avery	pcnt_fair_poor	23
+37013	North Carolina	Beaufort	pcnt_fair_poor	20
+37015	North Carolina	Bertie	pcnt_fair_poor	
+37017	North Carolina	Bladen	pcnt_fair_poor	31
+37019	North Carolina	Brunswick	pcnt_fair_poor	17
+37021	North Carolina	Buncombe	pcnt_fair_poor	14
+37023	North Carolina	Burke	pcnt_fair_poor	23
+37025	North Carolina	Cabarrus	pcnt_fair_poor	16
+37027	North Carolina	Caldwell	pcnt_fair_poor	20
+37029	North Carolina	Camden	pcnt_fair_poor	20
+37031	North Carolina	Carteret	pcnt_fair_poor	18
+37033	North Carolina	Caswell	pcnt_fair_poor	20
+37035	North Carolina	Catawba	pcnt_fair_poor	18
+37037	North Carolina	Chatham	pcnt_fair_poor	20
+37039	North Carolina	Cherokee	pcnt_fair_poor	22
+37041	North Carolina	Chowan	pcnt_fair_poor	15
+37043	North Carolina	Clay	pcnt_fair_poor	21
+37045	North Carolina	Cleveland	pcnt_fair_poor	20
+37047	North Carolina	Columbus	pcnt_fair_poor	28
+37049	North Carolina	Craven	pcnt_fair_poor	15
+37051	North Carolina	Cumberland	pcnt_fair_poor	19
+37053	North Carolina	Currituck	pcnt_fair_poor	
+37055	North Carolina	Dare	pcnt_fair_poor	21
+37057	North Carolina	Davidson	pcnt_fair_poor	21
+37059	North Carolina	Davie	pcnt_fair_poor	18
+37061	North Carolina	Duplin	pcnt_fair_poor	
+37063	North Carolina	Durham	pcnt_fair_poor	17
+37065	North Carolina	Edgecombe	pcnt_fair_poor	19
+37067	North Carolina	Forsyth	pcnt_fair_poor	15
+37069	North Carolina	Franklin	pcnt_fair_poor	16
+37071	North Carolina	Gaston	pcnt_fair_poor	21
+37073	North Carolina	Gates	pcnt_fair_poor	25
+37075	North Carolina	Graham	pcnt_fair_poor	25
+37077	North Carolina	Granville	pcnt_fair_poor	17
+37079	North Carolina	Greene	pcnt_fair_poor	
+37081	North Carolina	Guilford	pcnt_fair_poor	13
+37083	North Carolina	Halifax	pcnt_fair_poor	29
+37085	North Carolina	Harnett	pcnt_fair_poor	19
+37087	North Carolina	Haywood	pcnt_fair_poor	18
+37089	North Carolina	Henderson	pcnt_fair_poor	18
+37091	North Carolina	Hertford	pcnt_fair_poor	
+37093	North Carolina	Hoke	pcnt_fair_poor	22
+37095	North Carolina	Hyde	pcnt_fair_poor	
+37097	North Carolina	Iredell	pcnt_fair_poor	16
+37099	North Carolina	Jackson	pcnt_fair_poor	21
+37101	North Carolina	Johnston	pcnt_fair_poor	20
+37103	North Carolina	Jones	pcnt_fair_poor	22
+37105	North Carolina	Lee	pcnt_fair_poor	18
+37107	North Carolina	Lenoir	pcnt_fair_poor	26
+37109	North Carolina	Lincoln	pcnt_fair_poor	20
+37111	North Carolina	McDowell	pcnt_fair_poor	24
+37113	North Carolina	Macon	pcnt_fair_poor	15
+37115	North Carolina	Madison	pcnt_fair_poor	21
+37117	North Carolina	Martin	pcnt_fair_poor	22
+37119	North Carolina	Mecklenburg	pcnt_fair_poor	15
+37121	North Carolina	Mitchell	pcnt_fair_poor	20
+37123	North Carolina	Montgomery	pcnt_fair_poor	
+37125	North Carolina	Moore	pcnt_fair_poor	16
+37127	North Carolina	Nash	pcnt_fair_poor	19
+37129	North Carolina	New Hanover	pcnt_fair_poor	14
+37131	North Carolina	Northampton	pcnt_fair_poor	
+37133	North Carolina	Onslow	pcnt_fair_poor	17
+37135	North Carolina	Orange	pcnt_fair_poor	12
+37137	North Carolina	Pamlico	pcnt_fair_poor	17
+37139	North Carolina	Pasquotank	pcnt_fair_poor	21
+37141	North Carolina	Pender	pcnt_fair_poor	10
+37143	North Carolina	Perquimans	pcnt_fair_poor	22
+37145	North Carolina	Person	pcnt_fair_poor	16
+37147	North Carolina	Pitt	pcnt_fair_poor	17
+37149	North Carolina	Polk	pcnt_fair_poor	11
+37151	North Carolina	Randolph	pcnt_fair_poor	19
+37153	North Carolina	Richmond	pcnt_fair_poor	22
+37155	North Carolina	Robeson	pcnt_fair_poor	27
+37157	North Carolina	Rockingham	pcnt_fair_poor	22
+37159	North Carolina	Rowan	pcnt_fair_poor	22
+37161	North Carolina	Rutherford	pcnt_fair_poor	23
+37163	North Carolina	Sampson	pcnt_fair_poor	24
+37165	North Carolina	Scotland	pcnt_fair_poor	25
+37167	North Carolina	Stanly	pcnt_fair_poor	27
+37169	North Carolina	Stokes	pcnt_fair_poor	18
+37171	North Carolina	Surry	pcnt_fair_poor	22
+37173	North Carolina	Swain	pcnt_fair_poor	23
+37175	North Carolina	Transylvania	pcnt_fair_poor	14
+37177	North Carolina	Tyrrell	pcnt_fair_poor	
+37179	North Carolina	Union	pcnt_fair_poor	16
+37181	North Carolina	Vance	pcnt_fair_poor	27
+37183	North Carolina	Wake	pcnt_fair_poor	12
+37185	North Carolina	Warren	pcnt_fair_poor	21
+37187	North Carolina	Washington	pcnt_fair_poor	19
+37189	North Carolina	Watauga	pcnt_fair_poor	14
+37191	North Carolina	Wayne	pcnt_fair_poor	19
+37193	North Carolina	Wilkes	pcnt_fair_poor	22
+37195	North Carolina	Wilson	pcnt_fair_poor	17
+37197	North Carolina	Yadkin	pcnt_fair_poor	21
+37199	North Carolina	Yancey	pcnt_fair_poor	19
+38001	North Dakota	Adams	pcnt_fair_poor	15
+38003	North Dakota	Barnes	pcnt_fair_poor	11
+38005	North Dakota	Benson	pcnt_fair_poor	20
+38007	North Dakota	Billings	pcnt_fair_poor	6
+38009	North Dakota	Bottineau	pcnt_fair_poor	13
+38011	North Dakota	Bowman	pcnt_fair_poor	11
+38013	North Dakota	Burke	pcnt_fair_poor	10
+38015	North Dakota	Burleigh	pcnt_fair_poor	10
+38017	North Dakota	Cass	pcnt_fair_poor	10
+38019	North Dakota	Cavalier	pcnt_fair_poor	8
+38021	North Dakota	Dickey	pcnt_fair_poor	9
+38023	North Dakota	Divide	pcnt_fair_poor	8
+38025	North Dakota	Dunn	pcnt_fair_poor	11
+38027	North Dakota	Eddy	pcnt_fair_poor	15
+38029	North Dakota	Emmons	pcnt_fair_poor	13
+38031	North Dakota	Foster	pcnt_fair_poor	11
+38033	North Dakota	Golden Valley	pcnt_fair_poor	8
+38035	North Dakota	Grand Forks	pcnt_fair_poor	11
+38037	North Dakota	Grant	pcnt_fair_poor	10
+38039	North Dakota	Griggs	pcnt_fair_poor	6
+38041	North Dakota	Hettinger	pcnt_fair_poor	10
+38043	North Dakota	Kidder	pcnt_fair_poor	13
+38045	North Dakota	LaMoure	pcnt_fair_poor	10
+38047	North Dakota	Logan	pcnt_fair_poor	12
+38049	North Dakota	McHenry	pcnt_fair_poor	14
+38051	North Dakota	McIntosh	pcnt_fair_poor	11
+38053	North Dakota	McKenzie	pcnt_fair_poor	12
+38055	North Dakota	McLean	pcnt_fair_poor	13
+38057	North Dakota	Mercer	pcnt_fair_poor	14
+38059	North Dakota	Morton	pcnt_fair_poor	12
+38061	North Dakota	Mountrail	pcnt_fair_poor	18
+38063	North Dakota	Nelson	pcnt_fair_poor	10
+38065	North Dakota	Oliver	pcnt_fair_poor	14
+38067	North Dakota	Pembina	pcnt_fair_poor	10
+38069	North Dakota	Pierce	pcnt_fair_poor	13
+38071	North Dakota	Ramsey	pcnt_fair_poor	12
+38073	North Dakota	Ransom	pcnt_fair_poor	13
+38075	North Dakota	Renville	pcnt_fair_poor	7
+38077	North Dakota	Richland	pcnt_fair_poor	11
+38079	North Dakota	Rolette	pcnt_fair_poor	22
+38081	North Dakota	Sargent	pcnt_fair_poor	10
+38083	North Dakota	Sheridan	pcnt_fair_poor	11
+38085	North Dakota	Sioux	pcnt_fair_poor	29
+38087	North Dakota	Slope	pcnt_fair_poor	4
+38089	North Dakota	Stark	pcnt_fair_poor	13
+38091	North Dakota	Steele	pcnt_fair_poor	12
+38093	North Dakota	Stutsman	pcnt_fair_poor	12
+38095	North Dakota	Towner	pcnt_fair_poor	10
+38097	North Dakota	Traill	pcnt_fair_poor	12
+38099	North Dakota	Walsh	pcnt_fair_poor	13
+38101	North Dakota	Ward	pcnt_fair_poor	11
+38103	North Dakota	Wells	pcnt_fair_poor	11
+38105	North Dakota	Williams	pcnt_fair_poor	11
+39001	Ohio	Adams	pcnt_fair_poor	18
+39003	Ohio	Allen	pcnt_fair_poor	13
+39005	Ohio	Ashland	pcnt_fair_poor	9
+39007	Ohio	Ashtabula	pcnt_fair_poor	18
+39009	Ohio	Athens	pcnt_fair_poor	16
+39011	Ohio	Auglaize	pcnt_fair_poor	12
+39013	Ohio	Belmont	pcnt_fair_poor	16
+39015	Ohio	Brown	pcnt_fair_poor	14
+39017	Ohio	Butler	pcnt_fair_poor	16
+39019	Ohio	Carroll	pcnt_fair_poor	21
+39021	Ohio	Champaign	pcnt_fair_poor	13
+39023	Ohio	Clark	pcnt_fair_poor	15
+39025	Ohio	Clermont	pcnt_fair_poor	15
+39027	Ohio	Clinton	pcnt_fair_poor	19
+39029	Ohio	Columbiana	pcnt_fair_poor	19
+39031	Ohio	Coshocton	pcnt_fair_poor	21
+39033	Ohio	Crawford	pcnt_fair_poor	16
+39035	Ohio	Cuyahoga	pcnt_fair_poor	15
+39037	Ohio	Darke	pcnt_fair_poor	21
+39039	Ohio	Defiance	pcnt_fair_poor	16
+39041	Ohio	Delaware	pcnt_fair_poor	8
+39043	Ohio	Erie	pcnt_fair_poor	18
+39045	Ohio	Fairfield	pcnt_fair_poor	12
+39047	Ohio	Fayette	pcnt_fair_poor	23
+39049	Ohio	Franklin	pcnt_fair_poor	14
+39051	Ohio	Fulton	pcnt_fair_poor	11
+39053	Ohio	Gallia	pcnt_fair_poor	19
+39055	Ohio	Geauga	pcnt_fair_poor	7
+39057	Ohio	Greene	pcnt_fair_poor	12
+39059	Ohio	Guernsey	pcnt_fair_poor	14
+39061	Ohio	Hamilton	pcnt_fair_poor	13
+39063	Ohio	Hancock	pcnt_fair_poor	8
+39065	Ohio	Hardin	pcnt_fair_poor	19
+39067	Ohio	Harrison	pcnt_fair_poor	19
+39069	Ohio	Henry	pcnt_fair_poor	16
+39071	Ohio	Highland	pcnt_fair_poor	21
+39073	Ohio	Hocking	pcnt_fair_poor	18
+39075	Ohio	Holmes	pcnt_fair_poor	
+39077	Ohio	Huron	pcnt_fair_poor	14
+39079	Ohio	Jackson	pcnt_fair_poor	24
+39081	Ohio	Jefferson	pcnt_fair_poor	24
+39083	Ohio	Knox	pcnt_fair_poor	13
+39085	Ohio	Lake	pcnt_fair_poor	14
+39087	Ohio	Lawrence	pcnt_fair_poor	28
+39089	Ohio	Licking	pcnt_fair_poor	13
+39091	Ohio	Logan	pcnt_fair_poor	11
+39093	Ohio	Lorain	pcnt_fair_poor	16
+39095	Ohio	Lucas	pcnt_fair_poor	17
+39097	Ohio	Madison	pcnt_fair_poor	17
+39099	Ohio	Mahoning	pcnt_fair_poor	14
+39101	Ohio	Marion	pcnt_fair_poor	18
+39103	Ohio	Medina	pcnt_fair_poor	10
+39105	Ohio	Meigs	pcnt_fair_poor	24
+39107	Ohio	Mercer	pcnt_fair_poor	
+39109	Ohio	Miami	pcnt_fair_poor	12
+39111	Ohio	Monroe	pcnt_fair_poor	15
+39113	Ohio	Montgomery	pcnt_fair_poor	16
+39115	Ohio	Morgan	pcnt_fair_poor	
+39117	Ohio	Morrow	pcnt_fair_poor	
+39119	Ohio	Muskingum	pcnt_fair_poor	16
+39121	Ohio	Noble	pcnt_fair_poor	16
+39123	Ohio	Ottawa	pcnt_fair_poor	13
+39125	Ohio	Paulding	pcnt_fair_poor	17
+39127	Ohio	Perry	pcnt_fair_poor	13
+39129	Ohio	Pickaway	pcnt_fair_poor	22
+39131	Ohio	Pike	pcnt_fair_poor	21
+39133	Ohio	Portage	pcnt_fair_poor	14
+39135	Ohio	Preble	pcnt_fair_poor	
+39137	Ohio	Putnam	pcnt_fair_poor	9
+39139	Ohio	Richland	pcnt_fair_poor	16
+39141	Ohio	Ross	pcnt_fair_poor	30
+39143	Ohio	Sandusky	pcnt_fair_poor	17
+39145	Ohio	Scioto	pcnt_fair_poor	24
+39147	Ohio	Seneca	pcnt_fair_poor	15
+39149	Ohio	Shelby	pcnt_fair_poor	16
+39151	Ohio	Stark	pcnt_fair_poor	14
+39153	Ohio	Summit	pcnt_fair_poor	14
+39155	Ohio	Trumbull	pcnt_fair_poor	18
+39157	Ohio	Tuscarawas	pcnt_fair_poor	14
+39159	Ohio	Union	pcnt_fair_poor	10
+39161	Ohio	Van Wert	pcnt_fair_poor	16
+39163	Ohio	Vinton	pcnt_fair_poor	15
+39165	Ohio	Warren	pcnt_fair_poor	12
+39167	Ohio	Washington	pcnt_fair_poor	15
+39169	Ohio	Wayne	pcnt_fair_poor	12
+39171	Ohio	Williams	pcnt_fair_poor	16
+39173	Ohio	Wood	pcnt_fair_poor	13
+39175	Ohio	Wyandot	pcnt_fair_poor	14
+40001	Oklahoma	Adair	pcnt_fair_poor	25
+40003	Oklahoma	Alfalfa	pcnt_fair_poor	13
+40005	Oklahoma	Atoka	pcnt_fair_poor	25
+40007	Oklahoma	Beaver	pcnt_fair_poor	14
+40009	Oklahoma	Beckham	pcnt_fair_poor	19
+40011	Oklahoma	Blaine	pcnt_fair_poor	20
+40013	Oklahoma	Bryan	pcnt_fair_poor	24
+40015	Oklahoma	Caddo	pcnt_fair_poor	20
+40017	Oklahoma	Canadian	pcnt_fair_poor	13
+40019	Oklahoma	Carter	pcnt_fair_poor	19
+40021	Oklahoma	Cherokee	pcnt_fair_poor	24
+40023	Oklahoma	Choctaw	pcnt_fair_poor	21
+40025	Oklahoma	Cimarron	pcnt_fair_poor	12
+40027	Oklahoma	Cleveland	pcnt_fair_poor	14
+40029	Oklahoma	Coal	pcnt_fair_poor	
+40031	Oklahoma	Comanche	pcnt_fair_poor	20
+40033	Oklahoma	Cotton	pcnt_fair_poor	18
+40035	Oklahoma	Craig	pcnt_fair_poor	20
+40037	Oklahoma	Creek	pcnt_fair_poor	20
+40039	Oklahoma	Custer	pcnt_fair_poor	19
+40041	Oklahoma	Delaware	pcnt_fair_poor	26
+40043	Oklahoma	Dewey	pcnt_fair_poor	
+40045	Oklahoma	Ellis	pcnt_fair_poor	
+40047	Oklahoma	Garfield	pcnt_fair_poor	14
+40049	Oklahoma	Garvin	pcnt_fair_poor	22
+40051	Oklahoma	Grady	pcnt_fair_poor	19
+40053	Oklahoma	Grant	pcnt_fair_poor	17
+40055	Oklahoma	Greer	pcnt_fair_poor	18
+40057	Oklahoma	Harmon	pcnt_fair_poor	
+40059	Oklahoma	Harper	pcnt_fair_poor	
+40061	Oklahoma	Haskell	pcnt_fair_poor	20
+40063	Oklahoma	Hughes	pcnt_fair_poor	23
+40065	Oklahoma	Jackson	pcnt_fair_poor	19
+40067	Oklahoma	Jefferson	pcnt_fair_poor	
+40069	Oklahoma	Johnston	pcnt_fair_poor	
+40071	Oklahoma	Kay	pcnt_fair_poor	20
+40073	Oklahoma	Kingfisher	pcnt_fair_poor	13
+40075	Oklahoma	Kiowa	pcnt_fair_poor	26
+40077	Oklahoma	Latimer	pcnt_fair_poor	28
+40079	Oklahoma	Le Flore	pcnt_fair_poor	23
+40081	Oklahoma	Lincoln	pcnt_fair_poor	20
+40083	Oklahoma	Logan	pcnt_fair_poor	17
+40085	Oklahoma	Love	pcnt_fair_poor	25
+40087	Oklahoma	McClain	pcnt_fair_poor	16
+40089	Oklahoma	McCurtain	pcnt_fair_poor	21
+40091	Oklahoma	McIntosh	pcnt_fair_poor	22
+40093	Oklahoma	Major	pcnt_fair_poor	22
+40095	Oklahoma	Marshall	pcnt_fair_poor	26
+40097	Oklahoma	Mayes	pcnt_fair_poor	21
+40099	Oklahoma	Murray	pcnt_fair_poor	17
+40101	Oklahoma	Muskogee	pcnt_fair_poor	25
+40103	Oklahoma	Noble	pcnt_fair_poor	24
+40105	Oklahoma	Nowata	pcnt_fair_poor	21
+40107	Oklahoma	Okfuskee	pcnt_fair_poor	24
+40109	Oklahoma	Oklahoma	pcnt_fair_poor	19
+40111	Oklahoma	Okmulgee	pcnt_fair_poor	21
+40113	Oklahoma	Osage	pcnt_fair_poor	18
+40115	Oklahoma	Ottawa	pcnt_fair_poor	22
+40117	Oklahoma	Pawnee	pcnt_fair_poor	18
+40119	Oklahoma	Payne	pcnt_fair_poor	17
+40121	Oklahoma	Pittsburg	pcnt_fair_poor	21
+40123	Oklahoma	Pontotoc	pcnt_fair_poor	24
+40125	Oklahoma	Pottawatomie	pcnt_fair_poor	20
+40127	Oklahoma	Pushmataha	pcnt_fair_poor	29
+40129	Oklahoma	Roger Mills	pcnt_fair_poor	20
+40131	Oklahoma	Rogers	pcnt_fair_poor	17
+40133	Oklahoma	Seminole	pcnt_fair_poor	29
+40135	Oklahoma	Sequoyah	pcnt_fair_poor	26
+40137	Oklahoma	Stephens	pcnt_fair_poor	18
+40139	Oklahoma	Texas	pcnt_fair_poor	13
+40141	Oklahoma	Tillman	pcnt_fair_poor	21
+40143	Oklahoma	Tulsa	pcnt_fair_poor	17
+40145	Oklahoma	Wagoner	pcnt_fair_poor	19
+40147	Oklahoma	Washington	pcnt_fair_poor	16
+40149	Oklahoma	Washita	pcnt_fair_poor	
+40151	Oklahoma	Woods	pcnt_fair_poor	16
+40153	Oklahoma	Woodward	pcnt_fair_poor	15
+41001	Oregon	Baker	pcnt_fair_poor	12
+41003	Oregon	Benton	pcnt_fair_poor	11
+41005	Oregon	Clackamas	pcnt_fair_poor	12
+41007	Oregon	Clatsop	pcnt_fair_poor	13
+41009	Oregon	Columbia	pcnt_fair_poor	17
+41011	Oregon	Coos	pcnt_fair_poor	16
+41013	Oregon	Crook	pcnt_fair_poor	13
+41015	Oregon	Curry	pcnt_fair_poor	15
+41017	Oregon	Deschutes	pcnt_fair_poor	10
+41019	Oregon	Douglas	pcnt_fair_poor	21
+41021	Oregon	Gilliam	pcnt_fair_poor	
+41023	Oregon	Grant	pcnt_fair_poor	7
+41025	Oregon	Harney	pcnt_fair_poor	17
+41027	Oregon	Hood River	pcnt_fair_poor	15
+41029	Oregon	Jackson	pcnt_fair_poor	14
+41031	Oregon	Jefferson	pcnt_fair_poor	14
+41033	Oregon	Josephine	pcnt_fair_poor	18
+41035	Oregon	Klamath	pcnt_fair_poor	18
+41037	Oregon	Lake	pcnt_fair_poor	11
+41039	Oregon	Lane	pcnt_fair_poor	14
+41041	Oregon	Lincoln	pcnt_fair_poor	15
+41043	Oregon	Linn	pcnt_fair_poor	17
+41045	Oregon	Malheur	pcnt_fair_poor	17
+41047	Oregon	Marion	pcnt_fair_poor	14
+41049	Oregon	Morrow	pcnt_fair_poor	15
+41051	Oregon	Multnomah	pcnt_fair_poor	13
+41053	Oregon	Polk	pcnt_fair_poor	14
+41055	Oregon	Sherman	pcnt_fair_poor	
+41057	Oregon	Tillamook	pcnt_fair_poor	11
+41059	Oregon	Umatilla	pcnt_fair_poor	19
+41061	Oregon	Union	pcnt_fair_poor	13
+41063	Oregon	Wallowa	pcnt_fair_poor	
+41065	Oregon	Wasco	pcnt_fair_poor	15
+41067	Oregon	Washington	pcnt_fair_poor	11
+41069	Oregon	Wheeler	pcnt_fair_poor	
+41071	Oregon	Yamhill	pcnt_fair_poor	14
+42001	Pennsylvania	Adams	pcnt_fair_poor	12
+42003	Pennsylvania	Allegheny	pcnt_fair_poor	13
+42005	Pennsylvania	Armstrong	pcnt_fair_poor	14
+42007	Pennsylvania	Beaver	pcnt_fair_poor	17
+42009	Pennsylvania	Bedford	pcnt_fair_poor	18
+42011	Pennsylvania	Berks	pcnt_fair_poor	12
+42013	Pennsylvania	Blair	pcnt_fair_poor	21
+42015	Pennsylvania	Bradford	pcnt_fair_poor	13
+42017	Pennsylvania	Bucks	pcnt_fair_poor	10
+42019	Pennsylvania	Butler	pcnt_fair_poor	11
+42021	Pennsylvania	Cambria	pcnt_fair_poor	18
+42023	Pennsylvania	Cameron	pcnt_fair_poor	
+42025	Pennsylvania	Carbon	pcnt_fair_poor	13
+42027	Pennsylvania	Centre	pcnt_fair_poor	11
+42029	Pennsylvania	Chester	pcnt_fair_poor	9
+42031	Pennsylvania	Clarion	pcnt_fair_poor	15
+42033	Pennsylvania	Clearfield	pcnt_fair_poor	17
+42035	Pennsylvania	Clinton	pcnt_fair_poor	17
+42037	Pennsylvania	Columbia	pcnt_fair_poor	16
+42039	Pennsylvania	Crawford	pcnt_fair_poor	15
+42041	Pennsylvania	Cumberland	pcnt_fair_poor	12
+42043	Pennsylvania	Dauphin	pcnt_fair_poor	12
+42045	Pennsylvania	Delaware	pcnt_fair_poor	13
+42047	Pennsylvania	Elk	pcnt_fair_poor	25
+42049	Pennsylvania	Erie	pcnt_fair_poor	16
+42051	Pennsylvania	Fayette	pcnt_fair_poor	20
+42053	Pennsylvania	Forest	pcnt_fair_poor	
+42055	Pennsylvania	Franklin	pcnt_fair_poor	14
+42057	Pennsylvania	Fulton	pcnt_fair_poor	9
+42059	Pennsylvania	Greene	pcnt_fair_poor	27
+42061	Pennsylvania	Huntingdon	pcnt_fair_poor	12
+42063	Pennsylvania	Indiana	pcnt_fair_poor	16
+42065	Pennsylvania	Jefferson	pcnt_fair_poor	15
+42067	Pennsylvania	Juniata	pcnt_fair_poor	9
+42069	Pennsylvania	Lackawanna	pcnt_fair_poor	14
+42071	Pennsylvania	Lancaster	pcnt_fair_poor	11
+42073	Pennsylvania	Lawrence	pcnt_fair_poor	16
+42075	Pennsylvania	Lebanon	pcnt_fair_poor	12
+42077	Pennsylvania	Lehigh	pcnt_fair_poor	12
+42079	Pennsylvania	Luzerne	pcnt_fair_poor	15
+42081	Pennsylvania	Lycoming	pcnt_fair_poor	14
+42083	Pennsylvania	McKean	pcnt_fair_poor	19
+42085	Pennsylvania	Mercer	pcnt_fair_poor	18
+42087	Pennsylvania	Mifflin	pcnt_fair_poor	
+42089	Pennsylvania	Monroe	pcnt_fair_poor	12
+42091	Pennsylvania	Montgomery	pcnt_fair_poor	11
+42093	Pennsylvania	Montour	pcnt_fair_poor	10
+42095	Pennsylvania	Northampton	pcnt_fair_poor	16
+42097	Pennsylvania	Northumberland	pcnt_fair_poor	19
+42099	Pennsylvania	Perry	pcnt_fair_poor	14
+42101	Pennsylvania	Philadelphia	pcnt_fair_poor	20
+42103	Pennsylvania	Pike	pcnt_fair_poor	13
+42105	Pennsylvania	Potter	pcnt_fair_poor	16
+42107	Pennsylvania	Schuylkill	pcnt_fair_poor	16
+42109	Pennsylvania	Snyder	pcnt_fair_poor	13
+42111	Pennsylvania	Somerset	pcnt_fair_poor	16
+42113	Pennsylvania	Sullivan	pcnt_fair_poor	
+42115	Pennsylvania	Susquehanna	pcnt_fair_poor	21
+42117	Pennsylvania	Tioga	pcnt_fair_poor	14
+42119	Pennsylvania	Union	pcnt_fair_poor	12
+42121	Pennsylvania	Venango	pcnt_fair_poor	17
+42123	Pennsylvania	Warren	pcnt_fair_poor	16
+42125	Pennsylvania	Washington	pcnt_fair_poor	15
+42127	Pennsylvania	Wayne	pcnt_fair_poor	14
+42129	Pennsylvania	Westmoreland	pcnt_fair_poor	13
+42131	Pennsylvania	Wyoming	pcnt_fair_poor	18
+42133	Pennsylvania	York	pcnt_fair_poor	13
+44001	Rhode Island	Bristol	pcnt_fair_poor	9
+44003	Rhode Island	Kent	pcnt_fair_poor	12
+44005	Rhode Island	Newport	pcnt_fair_poor	10
+44007	Rhode Island	Providence	pcnt_fair_poor	15
+44009	Rhode Island	Washington	pcnt_fair_poor	9
+45001	South Carolina	Abbeville	pcnt_fair_poor	20
+45003	South Carolina	Aiken	pcnt_fair_poor	15
+45005	South Carolina	Allendale	pcnt_fair_poor	21
+45007	South Carolina	Anderson	pcnt_fair_poor	18
+45009	South Carolina	Bamberg	pcnt_fair_poor	24
+45011	South Carolina	Barnwell	pcnt_fair_poor	22
+45013	South Carolina	Beaufort	pcnt_fair_poor	10
+45015	South Carolina	Berkeley	pcnt_fair_poor	17
+45017	South Carolina	Calhoun	pcnt_fair_poor	13
+45019	South Carolina	Charleston	pcnt_fair_poor	11
+45021	South Carolina	Cherokee	pcnt_fair_poor	22
+45023	South Carolina	Chester	pcnt_fair_poor	23
+45025	South Carolina	Chesterfield	pcnt_fair_poor	20
+45027	South Carolina	Clarendon	pcnt_fair_poor	20
+45029	South Carolina	Colleton	pcnt_fair_poor	20
+45031	South Carolina	Darlington	pcnt_fair_poor	21
+45033	South Carolina	Dillon	pcnt_fair_poor	25
+45035	South Carolina	Dorchester	pcnt_fair_poor	15
+45037	South Carolina	Edgefield	pcnt_fair_poor	16
+45039	South Carolina	Fairfield	pcnt_fair_poor	16
+45041	South Carolina	Florence	pcnt_fair_poor	19
+45043	South Carolina	Georgetown	pcnt_fair_poor	15
+45045	South Carolina	Greenville	pcnt_fair_poor	14
+45047	South Carolina	Greenwood	pcnt_fair_poor	17
+45049	South Carolina	Hampton	pcnt_fair_poor	22
+45051	South Carolina	Horry	pcnt_fair_poor	16
+45053	South Carolina	Jasper	pcnt_fair_poor	18
+45055	South Carolina	Kershaw	pcnt_fair_poor	15
+45057	South Carolina	Lancaster	pcnt_fair_poor	18
+45059	South Carolina	Laurens	pcnt_fair_poor	21
+45061	South Carolina	Lee	pcnt_fair_poor	29
+45063	South Carolina	Lexington	pcnt_fair_poor	15
+45065	South Carolina	McCormick	pcnt_fair_poor	27
+45067	South Carolina	Marion	pcnt_fair_poor	25
+45069	South Carolina	Marlboro	pcnt_fair_poor	29
+45071	South Carolina	Newberry	pcnt_fair_poor	18
+45073	South Carolina	Oconee	pcnt_fair_poor	19
+45075	South Carolina	Orangeburg	pcnt_fair_poor	20
+45077	South Carolina	Pickens	pcnt_fair_poor	18
+45079	South Carolina	Richland	pcnt_fair_poor	14
+45081	South Carolina	Saluda	pcnt_fair_poor	17
+45083	South Carolina	Spartanburg	pcnt_fair_poor	17
+45085	South Carolina	Sumter	pcnt_fair_poor	18
+45087	South Carolina	Union	pcnt_fair_poor	21
+45089	South Carolina	Williamsburg	pcnt_fair_poor	23
+45091	South Carolina	York	pcnt_fair_poor	13
+46003	South Dakota	Aurora	pcnt_fair_poor	12
+46005	South Dakota	Beadle	pcnt_fair_poor	12
+46007	South Dakota	Bennett	pcnt_fair_poor	17
+46009	South Dakota	Bon Homme	pcnt_fair_poor	9
+46011	South Dakota	Brookings	pcnt_fair_poor	8
+46013	South Dakota	Brown	pcnt_fair_poor	12
+46015	South Dakota	Brule	pcnt_fair_poor	13
+46017	South Dakota	Buffalo	pcnt_fair_poor	24
+46019	South Dakota	Butte	pcnt_fair_poor	13
+46021	South Dakota	Campbell	pcnt_fair_poor	9
+46023	South Dakota	Charles Mix	pcnt_fair_poor	10
+46025	South Dakota	Clark	pcnt_fair_poor	12
+46027	South Dakota	Clay	pcnt_fair_poor	6
+46029	South Dakota	Codington	pcnt_fair_poor	11
+46031	South Dakota	Corson	pcnt_fair_poor	21
+46033	South Dakota	Custer	pcnt_fair_poor	12
+46035	South Dakota	Davison	pcnt_fair_poor	11
+46037	South Dakota	Day	pcnt_fair_poor	11
+46039	South Dakota	Deuel	pcnt_fair_poor	13
+46041	South Dakota	Dewey	pcnt_fair_poor	20
+46043	South Dakota	Douglas	pcnt_fair_poor	16
+46045	South Dakota	Edmunds	pcnt_fair_poor	11
+46047	South Dakota	Fall River	pcnt_fair_poor	16
+46049	South Dakota	Faulk	pcnt_fair_poor	15
+46051	South Dakota	Grant	pcnt_fair_poor	18
+46053	South Dakota	Gregory	pcnt_fair_poor	10
+46055	South Dakota	Haakon	pcnt_fair_poor	15
+46057	South Dakota	Hamlin	pcnt_fair_poor	11
+46059	South Dakota	Hand	pcnt_fair_poor	7
+46061	South Dakota	Hanson	pcnt_fair_poor	10
+46063	South Dakota	Harding	pcnt_fair_poor	8
+46065	South Dakota	Hughes	pcnt_fair_poor	11
+46067	South Dakota	Hutchinson	pcnt_fair_poor	12
+46069	South Dakota	Hyde	pcnt_fair_poor	12
+46071	South Dakota	Jackson	pcnt_fair_poor	14
+46073	South Dakota	Jerauld	pcnt_fair_poor	10
+46075	South Dakota	Jones	pcnt_fair_poor	7
+46077	South Dakota	Kingsbury	pcnt_fair_poor	10
+46079	South Dakota	Lake	pcnt_fair_poor	15
+46081	South Dakota	Lawrence	pcnt_fair_poor	11
+46083	South Dakota	Lincoln	pcnt_fair_poor	8
+46085	South Dakota	Lyman	pcnt_fair_poor	12
+46087	South Dakota	McCook	pcnt_fair_poor	9
+46089	South Dakota	McPherson	pcnt_fair_poor	11
+46091	South Dakota	Marshall	pcnt_fair_poor	15
+46093	South Dakota	Meade	pcnt_fair_poor	11
+46095	South Dakota	Mellette	pcnt_fair_poor	13
+46097	South Dakota	Miner	pcnt_fair_poor	8
+46099	South Dakota	Minnehaha	pcnt_fair_poor	10
+46101	South Dakota	Moody	pcnt_fair_poor	20
+46103	South Dakota	Pennington	pcnt_fair_poor	11
+46105	South Dakota	Perkins	pcnt_fair_poor	14
+46107	South Dakota	Potter	pcnt_fair_poor	11
+46109	South Dakota	Roberts	pcnt_fair_poor	10
+46111	South Dakota	Sanborn	pcnt_fair_poor	13
+46113	South Dakota	Shannon	pcnt_fair_poor	23
+46115	South Dakota	Spink	pcnt_fair_poor	13
+46117	South Dakota	Stanley	pcnt_fair_poor	16
+46119	South Dakota	Sully	pcnt_fair_poor	7
+46121	South Dakota	Todd	pcnt_fair_poor	20
+46123	South Dakota	Tripp	pcnt_fair_poor	14
+46125	South Dakota	Turner	pcnt_fair_poor	10
+46127	South Dakota	Union	pcnt_fair_poor	12
+46129	South Dakota	Walworth	pcnt_fair_poor	19
+46135	South Dakota	Yankton	pcnt_fair_poor	11
+46137	South Dakota	Ziebach	pcnt_fair_poor	19
+47001	Tennessee	Anderson	pcnt_fair_poor	18
+47003	Tennessee	Bedford	pcnt_fair_poor	20
+47005	Tennessee	Benton	pcnt_fair_poor	20
+47007	Tennessee	Bledsoe	pcnt_fair_poor	24
+47009	Tennessee	Blount	pcnt_fair_poor	18
+47011	Tennessee	Bradley	pcnt_fair_poor	18
+47013	Tennessee	Campbell	pcnt_fair_poor	38
+47015	Tennessee	Cannon	pcnt_fair_poor	22
+47017	Tennessee	Carroll	pcnt_fair_poor	20
+47019	Tennessee	Carter	pcnt_fair_poor	25
+47021	Tennessee	Cheatham	pcnt_fair_poor	22
+47023	Tennessee	Chester	pcnt_fair_poor	18
+47025	Tennessee	Claiborne	pcnt_fair_poor	
+47027	Tennessee	Clay	pcnt_fair_poor	
+47029	Tennessee	Cocke	pcnt_fair_poor	23
+47031	Tennessee	Coffee	pcnt_fair_poor	19
+47033	Tennessee	Crockett	pcnt_fair_poor	19
+47035	Tennessee	Cumberland	pcnt_fair_poor	22
+47037	Tennessee	Davidson	pcnt_fair_poor	15
+47039	Tennessee	Decatur	pcnt_fair_poor	29
+47041	Tennessee	DeKalb	pcnt_fair_poor	21
+47043	Tennessee	Dickson	pcnt_fair_poor	21
+47045	Tennessee	Dyer	pcnt_fair_poor	19
+47047	Tennessee	Fayette	pcnt_fair_poor	16
+47049	Tennessee	Fentress	pcnt_fair_poor	
+47051	Tennessee	Franklin	pcnt_fair_poor	18
+47053	Tennessee	Gibson	pcnt_fair_poor	24
+47055	Tennessee	Giles	pcnt_fair_poor	22
+47057	Tennessee	Grainger	pcnt_fair_poor	23
+47059	Tennessee	Greene	pcnt_fair_poor	23
+47061	Tennessee	Grundy	pcnt_fair_poor	
+47063	Tennessee	Hamblen	pcnt_fair_poor	25
+47065	Tennessee	Hamilton	pcnt_fair_poor	17
+47067	Tennessee	Hancock	pcnt_fair_poor	
+47069	Tennessee	Hardeman	pcnt_fair_poor	29
+47071	Tennessee	Hardin	pcnt_fair_poor	24
+47073	Tennessee	Hawkins	pcnt_fair_poor	26
+47075	Tennessee	Haywood	pcnt_fair_poor	23
+47077	Tennessee	Henderson	pcnt_fair_poor	17
+47079	Tennessee	Henry	pcnt_fair_poor	27
+47081	Tennessee	Hickman	pcnt_fair_poor	22
+47083	Tennessee	Houston	pcnt_fair_poor	
+47085	Tennessee	Humphreys	pcnt_fair_poor	
+47087	Tennessee	Jackson	pcnt_fair_poor	
+47089	Tennessee	Jefferson	pcnt_fair_poor	
+47091	Tennessee	Johnson	pcnt_fair_poor	27
+47093	Tennessee	Knox	pcnt_fair_poor	16
+47095	Tennessee	Lake	pcnt_fair_poor	19
+47097	Tennessee	Lauderdale	pcnt_fair_poor	24
+47099	Tennessee	Lawrence	pcnt_fair_poor	23
+47101	Tennessee	Lewis	pcnt_fair_poor	19
+47103	Tennessee	Lincoln	pcnt_fair_poor	24
+47105	Tennessee	Loudon	pcnt_fair_poor	14
+47107	Tennessee	McMinn	pcnt_fair_poor	26
+47109	Tennessee	McNairy	pcnt_fair_poor	26
+47111	Tennessee	Macon	pcnt_fair_poor	24
+47113	Tennessee	Madison	pcnt_fair_poor	19
+47115	Tennessee	Marion	pcnt_fair_poor	28
+47117	Tennessee	Marshall	pcnt_fair_poor	21
+47119	Tennessee	Maury	pcnt_fair_poor	18
+47121	Tennessee	Meigs	pcnt_fair_poor	
+47123	Tennessee	Monroe	pcnt_fair_poor	21
+47125	Tennessee	Montgomery	pcnt_fair_poor	18
+47127	Tennessee	Moore	pcnt_fair_poor	
+47129	Tennessee	Morgan	pcnt_fair_poor	26
+47131	Tennessee	Obion	pcnt_fair_poor	19
+47133	Tennessee	Overton	pcnt_fair_poor	31
+47135	Tennessee	Perry	pcnt_fair_poor	
+47137	Tennessee	Pickett	pcnt_fair_poor	
+47139	Tennessee	Polk	pcnt_fair_poor	22
+47141	Tennessee	Putnam	pcnt_fair_poor	16
+47143	Tennessee	Rhea	pcnt_fair_poor	24
+47145	Tennessee	Roane	pcnt_fair_poor	24
+47147	Tennessee	Robertson	pcnt_fair_poor	17
+47149	Tennessee	Rutherford	pcnt_fair_poor	16
+47151	Tennessee	Scott	pcnt_fair_poor	
+47153	Tennessee	Sequatchie	pcnt_fair_poor	32
+47155	Tennessee	Sevier	pcnt_fair_poor	22
+47157	Tennessee	Shelby	pcnt_fair_poor	15
+47159	Tennessee	Smith	pcnt_fair_poor	16
+47161	Tennessee	Stewart	pcnt_fair_poor	
+47163	Tennessee	Sullivan	pcnt_fair_poor	21
+47165	Tennessee	Sumner	pcnt_fair_poor	18
+47167	Tennessee	Tipton	pcnt_fair_poor	25
+47169	Tennessee	Trousdale	pcnt_fair_poor	
+47171	Tennessee	Unicoi	pcnt_fair_poor	22
+47173	Tennessee	Union	pcnt_fair_poor	
+47175	Tennessee	Van Buren	pcnt_fair_poor	26
+47177	Tennessee	Warren	pcnt_fair_poor	29
+47179	Tennessee	Washington	pcnt_fair_poor	19
+47181	Tennessee	Wayne	pcnt_fair_poor	22
+47183	Tennessee	Weakley	pcnt_fair_poor	20
+47185	Tennessee	White	pcnt_fair_poor	23
+47187	Tennessee	Williamson	pcnt_fair_poor	7
+47189	Tennessee	Wilson	pcnt_fair_poor	17
+48001	Texas	Anderson	pcnt_fair_poor	21
+48003	Texas	Andrews	pcnt_fair_poor	14
+48005	Texas	Angelina	pcnt_fair_poor	25
+48007	Texas	Aransas	pcnt_fair_poor	13
+48009	Texas	Archer	pcnt_fair_poor	
+48011	Texas	Armstrong	pcnt_fair_poor	
+48013	Texas	Atascosa	pcnt_fair_poor	25
+48015	Texas	Austin	pcnt_fair_poor	
+48017	Texas	Bailey	pcnt_fair_poor	
+48019	Texas	Bandera	pcnt_fair_poor	
+48021	Texas	Bastrop	pcnt_fair_poor	12
+48023	Texas	Baylor	pcnt_fair_poor	13
+48025	Texas	Bee	pcnt_fair_poor	
+48027	Texas	Bell	pcnt_fair_poor	20
+48029	Texas	Bexar	pcnt_fair_poor	17
+48031	Texas	Blanco	pcnt_fair_poor	
+48033	Texas	Borden	pcnt_fair_poor	
+48035	Texas	Bosque	pcnt_fair_poor	15
+48037	Texas	Bowie	pcnt_fair_poor	20
+48039	Texas	Brazoria	pcnt_fair_poor	12
+48041	Texas	Brazos	pcnt_fair_poor	13
+48043	Texas	Brewster	pcnt_fair_poor	17
+48045	Texas	Briscoe	pcnt_fair_poor	
+48047	Texas	Brooks	pcnt_fair_poor	
+48049	Texas	Brown	pcnt_fair_poor	24
+48051	Texas	Burleson	pcnt_fair_poor	13
+48053	Texas	Burnet	pcnt_fair_poor	8
+48055	Texas	Caldwell	pcnt_fair_poor	
+48057	Texas	Calhoun	pcnt_fair_poor	
+48059	Texas	Callahan	pcnt_fair_poor	16
+48061	Texas	Cameron	pcnt_fair_poor	29
+48063	Texas	Camp	pcnt_fair_poor	
+48065	Texas	Carson	pcnt_fair_poor	
+48067	Texas	Cass	pcnt_fair_poor	
+48069	Texas	Castro	pcnt_fair_poor	
+48071	Texas	Chambers	pcnt_fair_poor	
+48073	Texas	Cherokee	pcnt_fair_poor	27
+48075	Texas	Childress	pcnt_fair_poor	
+48077	Texas	Clay	pcnt_fair_poor	
+48079	Texas	Cochran	pcnt_fair_poor	
+48081	Texas	Coke	pcnt_fair_poor	
+48083	Texas	Coleman	pcnt_fair_poor	
+48085	Texas	Collin	pcnt_fair_poor	11
+48087	Texas	Collingsworth	pcnt_fair_poor	
+48089	Texas	Colorado	pcnt_fair_poor	
+48091	Texas	Comal	pcnt_fair_poor	13
+48093	Texas	Comanche	pcnt_fair_poor	
+48095	Texas	Concho	pcnt_fair_poor	
+48097	Texas	Cooke	pcnt_fair_poor	
+48099	Texas	Coryell	pcnt_fair_poor	21
+48101	Texas	Cottle	pcnt_fair_poor	
+48103	Texas	Crane	pcnt_fair_poor	
+48105	Texas	Crockett	pcnt_fair_poor	
+48107	Texas	Crosby	pcnt_fair_poor	
+48109	Texas	Culberson	pcnt_fair_poor	
+48111	Texas	Dallam	pcnt_fair_poor	12
+48113	Texas	Dallas	pcnt_fair_poor	17
+48115	Texas	Dawson	pcnt_fair_poor	
+48117	Texas	Deaf Smith	pcnt_fair_poor	
+48119	Texas	Delta	pcnt_fair_poor	
+48121	Texas	Denton	pcnt_fair_poor	12
+48123	Texas	DeWitt	pcnt_fair_poor	9
+48125	Texas	Dickens	pcnt_fair_poor	
+48127	Texas	Dimmit	pcnt_fair_poor	
+48129	Texas	Donley	pcnt_fair_poor	
+48131	Texas	Duval	pcnt_fair_poor	
+48133	Texas	Eastland	pcnt_fair_poor	18
+48135	Texas	Ector	pcnt_fair_poor	22
+48137	Texas	Edwards	pcnt_fair_poor	23
+48139	Texas	Ellis	pcnt_fair_poor	16
+48141	Texas	El Paso	pcnt_fair_poor	26
+48143	Texas	Erath	pcnt_fair_poor	13
+48145	Texas	Falls	pcnt_fair_poor	
+48147	Texas	Fannin	pcnt_fair_poor	
+48149	Texas	Fayette	pcnt_fair_poor	
+48151	Texas	Fisher	pcnt_fair_poor	
+48153	Texas	Floyd	pcnt_fair_poor	
+48155	Texas	Foard	pcnt_fair_poor	
+48157	Texas	Fort Bend	pcnt_fair_poor	15
+48159	Texas	Franklin	pcnt_fair_poor	17
+48161	Texas	Freestone	pcnt_fair_poor	19
+48163	Texas	Frio	pcnt_fair_poor	
+48165	Texas	Gaines	pcnt_fair_poor	
+48167	Texas	Galveston	pcnt_fair_poor	14
+48169	Texas	Garza	pcnt_fair_poor	
+48171	Texas	Gillespie	pcnt_fair_poor	9
+48173	Texas	Glasscock	pcnt_fair_poor	
+48175	Texas	Goliad	pcnt_fair_poor	
+48177	Texas	Gonzales	pcnt_fair_poor	
+48179	Texas	Gray	pcnt_fair_poor	16
+48181	Texas	Grayson	pcnt_fair_poor	16
+48183	Texas	Gregg	pcnt_fair_poor	19
+48185	Texas	Grimes	pcnt_fair_poor	14
+48187	Texas	Guadalupe	pcnt_fair_poor	19
+48189	Texas	Hale	pcnt_fair_poor	19
+48191	Texas	Hall	pcnt_fair_poor	
+48193	Texas	Hamilton	pcnt_fair_poor	11
+48195	Texas	Hansford	pcnt_fair_poor	
+48197	Texas	Hardeman	pcnt_fair_poor	
+48199	Texas	Hardin	pcnt_fair_poor	17
+48201	Texas	Harris	pcnt_fair_poor	18
+48203	Texas	Harrison	pcnt_fair_poor	20
+48205	Texas	Hartley	pcnt_fair_poor	
+48207	Texas	Haskell	pcnt_fair_poor	
+48209	Texas	Hays	pcnt_fair_poor	15
+48211	Texas	Hemphill	pcnt_fair_poor	
+48213	Texas	Henderson	pcnt_fair_poor	21
+48215	Texas	Hidalgo	pcnt_fair_poor	27
+48217	Texas	Hill	pcnt_fair_poor	
+48219	Texas	Hockley	pcnt_fair_poor	17
+48221	Texas	Hood	pcnt_fair_poor	
+48223	Texas	Hopkins	pcnt_fair_poor	17
+48225	Texas	Houston	pcnt_fair_poor	
+48227	Texas	Howard	pcnt_fair_poor	
+48229	Texas	Hudspeth	pcnt_fair_poor	
+48231	Texas	Hunt	pcnt_fair_poor	22
+48233	Texas	Hutchinson	pcnt_fair_poor	
+48235	Texas	Irion	pcnt_fair_poor	
+48237	Texas	Jack	pcnt_fair_poor	
+48239	Texas	Jackson	pcnt_fair_poor	
+48241	Texas	Jasper	pcnt_fair_poor	
+48243	Texas	Jeff Davis	pcnt_fair_poor	8
+48245	Texas	Jefferson	pcnt_fair_poor	16
+48247	Texas	Jim Hogg	pcnt_fair_poor	
+48249	Texas	Jim Wells	pcnt_fair_poor	
+48251	Texas	Johnson	pcnt_fair_poor	22
+48253	Texas	Jones	pcnt_fair_poor	
+48255	Texas	Karnes	pcnt_fair_poor	13
+48257	Texas	Kaufman	pcnt_fair_poor	16
+48259	Texas	Kendall	pcnt_fair_poor	11
+48261	Texas	Kenedy	pcnt_fair_poor	
+48263	Texas	Kent	pcnt_fair_poor	
+48265	Texas	Kerr	pcnt_fair_poor	18
+48267	Texas	Kimble	pcnt_fair_poor	
+48269	Texas	King	pcnt_fair_poor	
+48271	Texas	Kinney	pcnt_fair_poor	
+48273	Texas	Kleberg	pcnt_fair_poor	16
+48275	Texas	Knox	pcnt_fair_poor	
+48277	Texas	Lamar	pcnt_fair_poor	20
+48279	Texas	Lamb	pcnt_fair_poor	
+48281	Texas	Lampasas	pcnt_fair_poor	
+48283	Texas	La Salle	pcnt_fair_poor	
+48285	Texas	Lavaca	pcnt_fair_poor	
+48287	Texas	Lee	pcnt_fair_poor	
+48289	Texas	Leon	pcnt_fair_poor	
+48291	Texas	Liberty	pcnt_fair_poor	22
+48293	Texas	Limestone	pcnt_fair_poor	
+48295	Texas	Lipscomb	pcnt_fair_poor	
+48297	Texas	Live Oak	pcnt_fair_poor	
+48299	Texas	Llano	pcnt_fair_poor	7
+48301	Texas	Loving	pcnt_fair_poor	
+48303	Texas	Lubbock	pcnt_fair_poor	17
+48305	Texas	Lynn	pcnt_fair_poor	12
+48307	Texas	McCulloch	pcnt_fair_poor	14
+48309	Texas	McLennan	pcnt_fair_poor	21
+48311	Texas	McMullen	pcnt_fair_poor	
+48313	Texas	Madison	pcnt_fair_poor	
+48315	Texas	Marion	pcnt_fair_poor	
+48317	Texas	Martin	pcnt_fair_poor	
+48319	Texas	Mason	pcnt_fair_poor	
+48321	Texas	Matagorda	pcnt_fair_poor	26
+48323	Texas	Maverick	pcnt_fair_poor	29
+48325	Texas	Medina	pcnt_fair_poor	16
+48327	Texas	Menard	pcnt_fair_poor	
+48329	Texas	Midland	pcnt_fair_poor	12
+48331	Texas	Milam	pcnt_fair_poor	
+48333	Texas	Mills	pcnt_fair_poor	
+48335	Texas	Mitchell	pcnt_fair_poor	
+48337	Texas	Montague	pcnt_fair_poor	
+48339	Texas	Montgomery	pcnt_fair_poor	16
+48341	Texas	Moore	pcnt_fair_poor	
+48343	Texas	Morris	pcnt_fair_poor	
+48345	Texas	Motley	pcnt_fair_poor	
+48347	Texas	Nacogdoches	pcnt_fair_poor	22
+48349	Texas	Navarro	pcnt_fair_poor	
+48351	Texas	Newton	pcnt_fair_poor	
+48353	Texas	Nolan	pcnt_fair_poor	
+48355	Texas	Nueces	pcnt_fair_poor	18
+48357	Texas	Ochiltree	pcnt_fair_poor	
+48359	Texas	Oldham	pcnt_fair_poor	
+48361	Texas	Orange	pcnt_fair_poor	17
+48363	Texas	Palo Pinto	pcnt_fair_poor	19
+48365	Texas	Panola	pcnt_fair_poor	16
+48367	Texas	Parker	pcnt_fair_poor	17
+48369	Texas	Parmer	pcnt_fair_poor	
+48371	Texas	Pecos	pcnt_fair_poor	16
+48373	Texas	Polk	pcnt_fair_poor	23
+48375	Texas	Potter	pcnt_fair_poor	22
+48377	Texas	Presidio	pcnt_fair_poor	22
+48379	Texas	Rains	pcnt_fair_poor	
+48381	Texas	Randall	pcnt_fair_poor	15
+48383	Texas	Reagan	pcnt_fair_poor	
+48385	Texas	Real	pcnt_fair_poor	
+48387	Texas	Red River	pcnt_fair_poor	
+48389	Texas	Reeves	pcnt_fair_poor	
+48391	Texas	Refugio	pcnt_fair_poor	
+48393	Texas	Roberts	pcnt_fair_poor	
+48395	Texas	Robertson	pcnt_fair_poor	
+48397	Texas	Rockwall	pcnt_fair_poor	6
+48399	Texas	Runnels	pcnt_fair_poor	
+48401	Texas	Rusk	pcnt_fair_poor	17
+48403	Texas	Sabine	pcnt_fair_poor	
+48405	Texas	San Augustine	pcnt_fair_poor	
+48407	Texas	San Jacinto	pcnt_fair_poor	
+48409	Texas	San Patricio	pcnt_fair_poor	20
+48411	Texas	San Saba	pcnt_fair_poor	
+48413	Texas	Schleicher	pcnt_fair_poor	
+48415	Texas	Scurry	pcnt_fair_poor	11
+48417	Texas	Shackelford	pcnt_fair_poor	
+48419	Texas	Shelby	pcnt_fair_poor	20
+48421	Texas	Sherman	pcnt_fair_poor	
+48423	Texas	Smith	pcnt_fair_poor	19
+48425	Texas	Somervell	pcnt_fair_poor	
+48427	Texas	Starr	pcnt_fair_poor	35
+48429	Texas	Stephens	pcnt_fair_poor	
+48431	Texas	Sterling	pcnt_fair_poor	
+48433	Texas	Stonewall	pcnt_fair_poor	
+48435	Texas	Sutton	pcnt_fair_poor	
+48437	Texas	Swisher	pcnt_fair_poor	
+48439	Texas	Tarrant	pcnt_fair_poor	16
+48441	Texas	Taylor	pcnt_fair_poor	20
+48443	Texas	Terrell	pcnt_fair_poor	
+48445	Texas	Terry	pcnt_fair_poor	24
+48447	Texas	Throckmorton	pcnt_fair_poor	
+48449	Texas	Titus	pcnt_fair_poor	16
+48451	Texas	Tom Green	pcnt_fair_poor	17
+48453	Texas	Travis	pcnt_fair_poor	14
+48455	Texas	Trinity	pcnt_fair_poor	
+48457	Texas	Tyler	pcnt_fair_poor	
+48459	Texas	Upshur	pcnt_fair_poor	
+48461	Texas	Upton	pcnt_fair_poor	
+48463	Texas	Uvalde	pcnt_fair_poor	
+48465	Texas	Val Verde	pcnt_fair_poor	32
+48467	Texas	Van Zandt	pcnt_fair_poor	18
+48469	Texas	Victoria	pcnt_fair_poor	20
+48471	Texas	Walker	pcnt_fair_poor	16
+48473	Texas	Waller	pcnt_fair_poor	21
+48475	Texas	Ward	pcnt_fair_poor	
+48477	Texas	Washington	pcnt_fair_poor	13
+48479	Texas	Webb	pcnt_fair_poor	26
+48481	Texas	Wharton	pcnt_fair_poor	
+48483	Texas	Wheeler	pcnt_fair_poor	
+48485	Texas	Wichita	pcnt_fair_poor	17
+48487	Texas	Wilbarger	pcnt_fair_poor	
+48489	Texas	Willacy	pcnt_fair_poor	
+48491	Texas	Williamson	pcnt_fair_poor	12
+48493	Texas	Wilson	pcnt_fair_poor	21
+48495	Texas	Winkler	pcnt_fair_poor	
+48497	Texas	Wise	pcnt_fair_poor	16
+48499	Texas	Wood	pcnt_fair_poor	23
+48501	Texas	Yoakum	pcnt_fair_poor	
+48503	Texas	Young	pcnt_fair_poor	
+48505	Texas	Zapata	pcnt_fair_poor	
+48507	Texas	Zavala	pcnt_fair_poor	
+49001	Utah	Beaver	pcnt_fair_poor	14
+49003	Utah	Box Elder	pcnt_fair_poor	14
+49005	Utah	Cache	pcnt_fair_poor	11
+49007	Utah	Carbon	pcnt_fair_poor	19
+49009	Utah	Daggett	pcnt_fair_poor	8
+49011	Utah	Davis	pcnt_fair_poor	10
+49013	Utah	Duchesne	pcnt_fair_poor	17
+49015	Utah	Emery	pcnt_fair_poor	18
+49017	Utah	Garfield	pcnt_fair_poor	13
+49019	Utah	Grand	pcnt_fair_poor	15
+49021	Utah	Iron	pcnt_fair_poor	12
+49023	Utah	Juab	pcnt_fair_poor	15
+49025	Utah	Kane	pcnt_fair_poor	14
+49027	Utah	Millard	pcnt_fair_poor	12
+49029	Utah	Morgan	pcnt_fair_poor	4
+49031	Utah	Piute	pcnt_fair_poor	15
+49033	Utah	Rich	pcnt_fair_poor	
+49035	Utah	Salt Lake	pcnt_fair_poor	13
+49037	Utah	San Juan	pcnt_fair_poor	14
+49039	Utah	Sanpete	pcnt_fair_poor	16
+49041	Utah	Sevier	pcnt_fair_poor	18
+49043	Utah	Summit	pcnt_fair_poor	10
+49045	Utah	Tooele	pcnt_fair_poor	14
+49047	Utah	Uintah	pcnt_fair_poor	15
+49049	Utah	Utah	pcnt_fair_poor	12
+49051	Utah	Wasatch	pcnt_fair_poor	10
+49053	Utah	Washington	pcnt_fair_poor	13
+49055	Utah	Wayne	pcnt_fair_poor	6
+49057	Utah	Weber	pcnt_fair_poor	15
+50001	Vermont	Addison	pcnt_fair_poor	10
+50003	Vermont	Bennington	pcnt_fair_poor	13
+50005	Vermont	Caledonia	pcnt_fair_poor	13
+50007	Vermont	Chittenden	pcnt_fair_poor	8
+50009	Vermont	Essex	pcnt_fair_poor	18
+50011	Vermont	Franklin	pcnt_fair_poor	12
+50013	Vermont	Grand Isle	pcnt_fair_poor	9
+50015	Vermont	Lamoille	pcnt_fair_poor	11
+50017	Vermont	Orange	pcnt_fair_poor	12
+50019	Vermont	Orleans	pcnt_fair_poor	14
+50021	Vermont	Rutland	pcnt_fair_poor	13
+50023	Vermont	Washington	pcnt_fair_poor	10
+50025	Vermont	Windham	pcnt_fair_poor	12
+50027	Vermont	Windsor	pcnt_fair_poor	11
+51001	Virginia	Accomack	pcnt_fair_poor	21
+51003	Virginia	Albemarle	pcnt_fair_poor	6
+51005	Virginia	Alleghany	pcnt_fair_poor	16
+51007	Virginia	Amelia	pcnt_fair_poor	18
+51009	Virginia	Amherst	pcnt_fair_poor	14
+51011	Virginia	Appomattox	pcnt_fair_poor	11
+51013	Virginia	Arlington	pcnt_fair_poor	9
+51015	Virginia	Augusta	pcnt_fair_poor	11
+51017	Virginia	Bath	pcnt_fair_poor	
+51019	Virginia	Bedford	pcnt_fair_poor	16
+51021	Virginia	Bland	pcnt_fair_poor	
+51023	Virginia	Botetourt	pcnt_fair_poor	12
+51025	Virginia	Brunswick	pcnt_fair_poor	15
+51027	Virginia	Buchanan	pcnt_fair_poor	29
+51029	Virginia	Buckingham	pcnt_fair_poor	28
+51031	Virginia	Campbell	pcnt_fair_poor	17
+51033	Virginia	Caroline	pcnt_fair_poor	
+51035	Virginia	Carroll	pcnt_fair_poor	17
+51036	Virginia	Charles City	pcnt_fair_poor	
+51037	Virginia	Charlotte	pcnt_fair_poor	25
+51041	Virginia	Chesterfield	pcnt_fair_poor	13
+51043	Virginia	Clarke	pcnt_fair_poor	12
+51045	Virginia	Craig	pcnt_fair_poor	14
+51047	Virginia	Culpeper	pcnt_fair_poor	14
+51049	Virginia	Cumberland	pcnt_fair_poor	23
+51051	Virginia	Dickenson	pcnt_fair_poor	31
+51053	Virginia	Dinwiddie	pcnt_fair_poor	19
+51057	Virginia	Essex	pcnt_fair_poor	12
+51059	Virginia	Fairfax	pcnt_fair_poor	7
+51061	Virginia	Fauquier	pcnt_fair_poor	13
+51063	Virginia	Floyd	pcnt_fair_poor	15
+51065	Virginia	Fluvanna	pcnt_fair_poor	11
+51067	Virginia	Franklin	pcnt_fair_poor	24
+51069	Virginia	Frederick	pcnt_fair_poor	13
+51071	Virginia	Giles	pcnt_fair_poor	17
+51073	Virginia	Gloucester	pcnt_fair_poor	13
+51075	Virginia	Goochland	pcnt_fair_poor	7
+51077	Virginia	Grayson	pcnt_fair_poor	20
+51079	Virginia	Greene	pcnt_fair_poor	8
+51081	Virginia	Greensville	pcnt_fair_poor	
+51083	Virginia	Halifax	pcnt_fair_poor	17
+51085	Virginia	Hanover	pcnt_fair_poor	9
+51087	Virginia	Henrico	pcnt_fair_poor	10
+51089	Virginia	Henry	pcnt_fair_poor	26
+51091	Virginia	Highland	pcnt_fair_poor	
+51093	Virginia	Isle of Wight	pcnt_fair_poor	11
+51095	Virginia	James City	pcnt_fair_poor	9
+51097	Virginia	King and Queen	pcnt_fair_poor	
+51099	Virginia	King George	pcnt_fair_poor	
+51101	Virginia	King William	pcnt_fair_poor	13
+51103	Virginia	Lancaster	pcnt_fair_poor	11
+51105	Virginia	Lee	pcnt_fair_poor	29
+51107	Virginia	Loudoun	pcnt_fair_poor	11
+51109	Virginia	Louisa	pcnt_fair_poor	14
+51111	Virginia	Lunenburg	pcnt_fair_poor	22
+51113	Virginia	Madison	pcnt_fair_poor	
+51115	Virginia	Mathews	pcnt_fair_poor	
+51117	Virginia	Mecklenburg	pcnt_fair_poor	18
+51119	Virginia	Middlesex	pcnt_fair_poor	
+51121	Virginia	Montgomery	pcnt_fair_poor	12
+51125	Virginia	Nelson	pcnt_fair_poor	6
+51127	Virginia	New Kent	pcnt_fair_poor	
+51131	Virginia	Northampton	pcnt_fair_poor	19
+51133	Virginia	Northumberland	pcnt_fair_poor	13
+51135	Virginia	Nottoway	pcnt_fair_poor	19
+51137	Virginia	Orange	pcnt_fair_poor	16
+51139	Virginia	Page	pcnt_fair_poor	17
+51141	Virginia	Patrick	pcnt_fair_poor	
+51143	Virginia	Pittsylvania	pcnt_fair_poor	19
+51145	Virginia	Powhatan	pcnt_fair_poor	9
+51147	Virginia	Prince Edward	pcnt_fair_poor	10
+51149	Virginia	Prince George	pcnt_fair_poor	10
+51153	Virginia	Prince William	pcnt_fair_poor	15
+51155	Virginia	Pulaski	pcnt_fair_poor	26
+51157	Virginia	Rappahannock	pcnt_fair_poor	9
+51159	Virginia	Richmond	pcnt_fair_poor	
+51161	Virginia	Roanoke	pcnt_fair_poor	14
+51163	Virginia	Rockbridge	pcnt_fair_poor	8
+51165	Virginia	Rockingham	pcnt_fair_poor	11
+51167	Virginia	Russell	pcnt_fair_poor	28
+51169	Virginia	Scott	pcnt_fair_poor	24
+51171	Virginia	Shenandoah	pcnt_fair_poor	13
+51173	Virginia	Smyth	pcnt_fair_poor	22
+51175	Virginia	Southampton	pcnt_fair_poor	13
+51177	Virginia	Spotsylvania	pcnt_fair_poor	12
+51179	Virginia	Stafford	pcnt_fair_poor	11
+51181	Virginia	Surry	pcnt_fair_poor	17
+51183	Virginia	Sussex	pcnt_fair_poor	17
+51185	Virginia	Tazewell	pcnt_fair_poor	29
+51187	Virginia	Warren	pcnt_fair_poor	12
+51191	Virginia	Washington	pcnt_fair_poor	22
+51193	Virginia	Westmoreland	pcnt_fair_poor	16
+51195	Virginia	Wise	pcnt_fair_poor	26
+51197	Virginia	Wythe	pcnt_fair_poor	25
+51199	Virginia	York	pcnt_fair_poor	5
+51510	Virginia	Alexandria City	pcnt_fair_poor	10
+51515	Virginia	Bedford City	pcnt_fair_poor	13
+51520	Virginia	Bristol City	pcnt_fair_poor	
+51530	Virginia	Buena Vista City	pcnt_fair_poor	
+51540	Virginia	Charlottesville City	pcnt_fair_poor	10
+51550	Virginia	Chesapeake City	pcnt_fair_poor	12
+51570	Virginia	Colonial Heights City	pcnt_fair_poor	
+51580	Virginia	Covington City	pcnt_fair_poor	
+51590	Virginia	Danville City	pcnt_fair_poor	27
+51595	Virginia	Emporia City	pcnt_fair_poor	
+51600	Virginia	Fairfax City	pcnt_fair_poor	10
+51610	Virginia	Falls Church City	pcnt_fair_poor	
+51620	Virginia	Franklin City	pcnt_fair_poor	16
+51630	Virginia	Fredericksburg City	pcnt_fair_poor	
+51640	Virginia	Galax City	pcnt_fair_poor	
+51650	Virginia	Hampton City	pcnt_fair_poor	13
+51660	Virginia	Harrisonburg City	pcnt_fair_poor	8
+51670	Virginia	Hopewell City	pcnt_fair_poor	24
+51678	Virginia	Lexington City	pcnt_fair_poor	
+51680	Virginia	Lynchburg City	pcnt_fair_poor	15
+51683	Virginia	Manassas City	pcnt_fair_poor	6
+51685	Virginia	Manassas Park City	pcnt_fair_poor	
+51690	Virginia	Martinsville City	pcnt_fair_poor	
+51700	Virginia	Newport News City	pcnt_fair_poor	16
+51710	Virginia	Norfolk City	pcnt_fair_poor	15
+51720	Virginia	Norton City	pcnt_fair_poor	
+51730	Virginia	Petersburg City	pcnt_fair_poor	16
+51735	Virginia	Poquoson City	pcnt_fair_poor	
+51740	Virginia	Portsmouth City	pcnt_fair_poor	18
+51750	Virginia	Radford City	pcnt_fair_poor	11
+51760	Virginia	Richmond City	pcnt_fair_poor	15
+51770	Virginia	Roanoke City	pcnt_fair_poor	18
+51775	Virginia	Salem City	pcnt_fair_poor	15
+51790	Virginia	Staunton City	pcnt_fair_poor	
+51800	Virginia	Suffolk City	pcnt_fair_poor	14
+51810	Virginia	Virginia Beach City	pcnt_fair_poor	13
+51820	Virginia	Waynesboro City	pcnt_fair_poor	
+51830	Virginia	Williamsburg City	pcnt_fair_poor	5
+51840	Virginia	Winchester City	pcnt_fair_poor	18
+53001	Washington	Adams	pcnt_fair_poor	24
+53003	Washington	Asotin	pcnt_fair_poor	18
+53005	Washington	Benton	pcnt_fair_poor	13
+53007	Washington	Chelan	pcnt_fair_poor	16
+53009	Washington	Clallam	pcnt_fair_poor	14
+53011	Washington	Clark	pcnt_fair_poor	14
+53013	Washington	Columbia	pcnt_fair_poor	16
+53015	Washington	Cowlitz	pcnt_fair_poor	19
+53017	Washington	Douglas	pcnt_fair_poor	15
+53019	Washington	Ferry	pcnt_fair_poor	18
+53021	Washington	Franklin	pcnt_fair_poor	23
+53023	Washington	Garfield	pcnt_fair_poor	15
+53025	Washington	Grant	pcnt_fair_poor	19
+53027	Washington	Grays Harbor	pcnt_fair_poor	19
+53029	Washington	Island	pcnt_fair_poor	13
+53031	Washington	Jefferson	pcnt_fair_poor	15
+53033	Washington	King	pcnt_fair_poor	11
+53035	Washington	Kitsap	pcnt_fair_poor	13
+53037	Washington	Kittitas	pcnt_fair_poor	12
+53039	Washington	Klickitat	pcnt_fair_poor	15
+53041	Washington	Lewis	pcnt_fair_poor	18
+53043	Washington	Lincoln	pcnt_fair_poor	12
+53045	Washington	Mason	pcnt_fair_poor	19
+53047	Washington	Okanogan	pcnt_fair_poor	20
+53049	Washington	Pacific	pcnt_fair_poor	19
+53051	Washington	Pend Oreille	pcnt_fair_poor	15
+53053	Washington	Pierce	pcnt_fair_poor	15
+53055	Washington	San Juan	pcnt_fair_poor	9
+53057	Washington	Skagit	pcnt_fair_poor	15
+53059	Washington	Skamania	pcnt_fair_poor	16
+53061	Washington	Snohomish	pcnt_fair_poor	13
+53063	Washington	Spokane	pcnt_fair_poor	14
+53065	Washington	Stevens	pcnt_fair_poor	16
+53067	Washington	Thurston	pcnt_fair_poor	13
+53069	Washington	Wahkiakum	pcnt_fair_poor	
+53071	Washington	Walla Walla	pcnt_fair_poor	16
+53073	Washington	Whatcom	pcnt_fair_poor	12
+53075	Washington	Whitman	pcnt_fair_poor	10
+53077	Washington	Yakima	pcnt_fair_poor	22
+54001	West Virginia	Barbour	pcnt_fair_poor	27
+54003	West Virginia	Berkeley	pcnt_fair_poor	17
+54005	West Virginia	Boone	pcnt_fair_poor	30
+54007	West Virginia	Braxton	pcnt_fair_poor	23
+54009	West Virginia	Brooke	pcnt_fair_poor	18
+54011	West Virginia	Cabell	pcnt_fair_poor	21
+54013	West Virginia	Calhoun	pcnt_fair_poor	23
+54015	West Virginia	Clay	pcnt_fair_poor	29
+54017	West Virginia	Doddridge	pcnt_fair_poor	12
+54019	West Virginia	Fayette	pcnt_fair_poor	22
+54021	West Virginia	Gilmer	pcnt_fair_poor	24
+54023	West Virginia	Grant	pcnt_fair_poor	24
+54025	West Virginia	Greenbrier	pcnt_fair_poor	23
+54027	West Virginia	Hampshire	pcnt_fair_poor	18
+54029	West Virginia	Hancock	pcnt_fair_poor	17
+54031	West Virginia	Hardy	pcnt_fair_poor	16
+54033	West Virginia	Harrison	pcnt_fair_poor	18
+54035	West Virginia	Jackson	pcnt_fair_poor	21
+54037	West Virginia	Jefferson	pcnt_fair_poor	16
+54039	West Virginia	Kanawha	pcnt_fair_poor	21
+54041	West Virginia	Lewis	pcnt_fair_poor	23
+54043	West Virginia	Lincoln	pcnt_fair_poor	31
+54045	West Virginia	Logan	pcnt_fair_poor	30
+54047	West Virginia	McDowell	pcnt_fair_poor	33
+54049	West Virginia	Marion	pcnt_fair_poor	18
+54051	West Virginia	Marshall	pcnt_fair_poor	18
+54053	West Virginia	Mason	pcnt_fair_poor	22
+54055	West Virginia	Mercer	pcnt_fair_poor	25
+54057	West Virginia	Mineral	pcnt_fair_poor	16
+54059	West Virginia	Mingo	pcnt_fair_poor	35
+54061	West Virginia	Monongalia	pcnt_fair_poor	16
+54063	West Virginia	Monroe	pcnt_fair_poor	22
+54065	West Virginia	Morgan	pcnt_fair_poor	22
+54067	West Virginia	Nicholas	pcnt_fair_poor	25
+54069	West Virginia	Ohio	pcnt_fair_poor	14
+54071	West Virginia	Pendleton	pcnt_fair_poor	14
+54073	West Virginia	Pleasants	pcnt_fair_poor	16
+54075	West Virginia	Pocahontas	pcnt_fair_poor	24
+54077	West Virginia	Preston	pcnt_fair_poor	20
+54079	West Virginia	Putnam	pcnt_fair_poor	17
+54081	West Virginia	Raleigh	pcnt_fair_poor	27
+54083	West Virginia	Randolph	pcnt_fair_poor	22
+54085	West Virginia	Ritchie	pcnt_fair_poor	18
+54087	West Virginia	Roane	pcnt_fair_poor	21
+54089	West Virginia	Summers	pcnt_fair_poor	25
+54091	West Virginia	Taylor	pcnt_fair_poor	26
+54093	West Virginia	Tucker	pcnt_fair_poor	15
+54095	West Virginia	Tyler	pcnt_fair_poor	17
+54097	West Virginia	Upshur	pcnt_fair_poor	20
+54099	West Virginia	Wayne	pcnt_fair_poor	29
+54101	West Virginia	Webster	pcnt_fair_poor	27
+54103	West Virginia	Wetzel	pcnt_fair_poor	22
+54105	West Virginia	Wirt	pcnt_fair_poor	16
+54107	West Virginia	Wood	pcnt_fair_poor	20
+54109	West Virginia	Wyoming	pcnt_fair_poor	36
+55001	Wisconsin	Adams	pcnt_fair_poor	17
+55003	Wisconsin	Ashland	pcnt_fair_poor	11
+55005	Wisconsin	Barron	pcnt_fair_poor	12
+55007	Wisconsin	Bayfield	pcnt_fair_poor	12
+55009	Wisconsin	Brown	pcnt_fair_poor	14
+55011	Wisconsin	Buffalo	pcnt_fair_poor	20
+55013	Wisconsin	Burnett	pcnt_fair_poor	13
+55015	Wisconsin	Calumet	pcnt_fair_poor	13
+55017	Wisconsin	Chippewa	pcnt_fair_poor	12
+55019	Wisconsin	Clark	pcnt_fair_poor	13
+55021	Wisconsin	Columbia	pcnt_fair_poor	11
+55023	Wisconsin	Crawford	pcnt_fair_poor	10
+55025	Wisconsin	Dane	pcnt_fair_poor	9
+55027	Wisconsin	Dodge	pcnt_fair_poor	16
+55029	Wisconsin	Door	pcnt_fair_poor	7
+55031	Wisconsin	Douglas	pcnt_fair_poor	15
+55033	Wisconsin	Dunn	pcnt_fair_poor	11
+55035	Wisconsin	Eau Claire	pcnt_fair_poor	9
+55037	Wisconsin	Florence	pcnt_fair_poor	14
+55039	Wisconsin	Fond du Lac	pcnt_fair_poor	13
+55041	Wisconsin	Forest	pcnt_fair_poor	13
+55043	Wisconsin	Grant	pcnt_fair_poor	11
+55045	Wisconsin	Green	pcnt_fair_poor	9
+55047	Wisconsin	Green Lake	pcnt_fair_poor	19
+55049	Wisconsin	Iowa	pcnt_fair_poor	
+55051	Wisconsin	Iron	pcnt_fair_poor	7
+55053	Wisconsin	Jackson	pcnt_fair_poor	14
+55055	Wisconsin	Jefferson	pcnt_fair_poor	11
+55057	Wisconsin	Juneau	pcnt_fair_poor	20
+55059	Wisconsin	Kenosha	pcnt_fair_poor	14
+55061	Wisconsin	Kewaunee	pcnt_fair_poor	10
+55063	Wisconsin	La Crosse	pcnt_fair_poor	9
+55065	Wisconsin	Lafayette	pcnt_fair_poor	12
+55067	Wisconsin	Langlade	pcnt_fair_poor	17
+55069	Wisconsin	Lincoln	pcnt_fair_poor	13
+55071	Wisconsin	Manitowoc	pcnt_fair_poor	15
+55073	Wisconsin	Marathon	pcnt_fair_poor	13
+55075	Wisconsin	Marinette	pcnt_fair_poor	12
+55077	Wisconsin	Marquette	pcnt_fair_poor	17
+55078	Wisconsin	Menominee	pcnt_fair_poor	16
+55079	Wisconsin	Milwaukee	pcnt_fair_poor	15
+55081	Wisconsin	Monroe	pcnt_fair_poor	11
+55083	Wisconsin	Oconto	pcnt_fair_poor	12
+55085	Wisconsin	Oneida	pcnt_fair_poor	12
+55087	Wisconsin	Outagamie	pcnt_fair_poor	8
+55089	Wisconsin	Ozaukee	pcnt_fair_poor	8
+55091	Wisconsin	Pepin	pcnt_fair_poor	13
+55093	Wisconsin	Pierce	pcnt_fair_poor	10
+55095	Wisconsin	Polk	pcnt_fair_poor	13
+55097	Wisconsin	Portage	pcnt_fair_poor	11
+55099	Wisconsin	Price	pcnt_fair_poor	16
+55101	Wisconsin	Racine	pcnt_fair_poor	15
+55103	Wisconsin	Richland	pcnt_fair_poor	12
+55105	Wisconsin	Rock	pcnt_fair_poor	14
+55107	Wisconsin	Rusk	pcnt_fair_poor	13
+55109	Wisconsin	St. Croix	pcnt_fair_poor	8
+55111	Wisconsin	Sauk	pcnt_fair_poor	10
+55113	Wisconsin	Sawyer	pcnt_fair_poor	6
+55115	Wisconsin	Shawano	pcnt_fair_poor	14
+55117	Wisconsin	Sheboygan	pcnt_fair_poor	11
+55119	Wisconsin	Taylor	pcnt_fair_poor	8
+55121	Wisconsin	Trempealeau	pcnt_fair_poor	16
+55123	Wisconsin	Vernon	pcnt_fair_poor	10
+55125	Wisconsin	Vilas	pcnt_fair_poor	7
+55127	Wisconsin	Walworth	pcnt_fair_poor	14
+55129	Wisconsin	Washburn	pcnt_fair_poor	15
+55131	Wisconsin	Washington	pcnt_fair_poor	10
+55133	Wisconsin	Waukesha	pcnt_fair_poor	10
+55135	Wisconsin	Waupaca	pcnt_fair_poor	11
+55137	Wisconsin	Waushara	pcnt_fair_poor	9
+55139	Wisconsin	Winnebago	pcnt_fair_poor	9
+55141	Wisconsin	Wood	pcnt_fair_poor	12
+56001	Wyoming	Albany	pcnt_fair_poor	10
+56003	Wyoming	Big Horn	pcnt_fair_poor	14
+56005	Wyoming	Campbell	pcnt_fair_poor	13
+56007	Wyoming	Carbon	pcnt_fair_poor	14
+56009	Wyoming	Converse	pcnt_fair_poor	12
+56011	Wyoming	Crook	pcnt_fair_poor	10
+56013	Wyoming	Fremont	pcnt_fair_poor	14
+56015	Wyoming	Goshen	pcnt_fair_poor	14
+56017	Wyoming	Hot Springs	pcnt_fair_poor	16
+56019	Wyoming	Johnson	pcnt_fair_poor	9
+56021	Wyoming	Laramie	pcnt_fair_poor	12
+56023	Wyoming	Lincoln	pcnt_fair_poor	12
+56025	Wyoming	Natrona	pcnt_fair_poor	14
+56027	Wyoming	Niobrara	pcnt_fair_poor	12
+56029	Wyoming	Park	pcnt_fair_poor	10
+56031	Wyoming	Platte	pcnt_fair_poor	12
+56033	Wyoming	Sheridan	pcnt_fair_poor	13
+56035	Wyoming	Sublette	pcnt_fair_poor	12
+56037	Wyoming	Sweetwater	pcnt_fair_poor	14
+56039	Wyoming	Teton	pcnt_fair_poor	6
+56041	Wyoming	Uinta	pcnt_fair_poor	14
+56043	Wyoming	Washakie	pcnt_fair_poor	11
+56045	Wyoming	Weston	pcnt_fair_poor	14
