@@ -22,6 +22,8 @@ class App < Sinatra::Base
         @files = Dir.glob(File.join(settings.root, "data/", "*"))
         @files.map!{|file| File.basename(file, ".*")}
         @datafile = "/data/#{params[:splat].first}.tab"
+        annotation = JSON.parse(File.read("views/json/dataset_metadata.json"))
+        @description = annotation[1][params[:splat].first]['Description']
         slim :"slim/map"
     end
 
@@ -31,9 +33,9 @@ class App < Sinatra::Base
     end
 
     # The county map
-    get '/json/us_counties.json' do
+    get '/json/*.json' do
         content_type :json
-        File.read('views/json/us_counties.json')
+        File.read("views/json/#{params[:splat].first}.json")
     end
 
     # To handle data

@@ -42,3 +42,10 @@ queue()
 
 $('.menu').dropit()
 $('.menu').show()
+
+$.getJSON("/json/dataset_metadata.json", (data) -> console.log(data))
+
+
+
+
+
