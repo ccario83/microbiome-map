@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	child_mortality_rate
+1001	Alabama	Autauga	child_mortality_rate	59.2
+1003	Alabama	Baldwin	child_mortality_rate	58.7
+1005	Alabama	Barbour	child_mortality_rate	105.3
+1007	Alabama	Bibb	child_mortality_rate	103.9
+1009	Alabama	Blount	child_mortality_rate	63.9
+1011	Alabama	Bullock	child_mortality_rate	
+1013	Alabama	Butler	child_mortality_rate	64
+1015	Alabama	Calhoun	child_mortality_rate	81.3
+1017	Alabama	Chambers	child_mortality_rate	62.8
+1019	Alabama	Cherokee	child_mortality_rate	72.7
+1021	Alabama	Chilton	child_mortality_rate	98.5
+1023	Alabama	Choctaw	child_mortality_rate	
+1025	Alabama	Clarke	child_mortality_rate	48.8
+1027	Alabama	Clay	child_mortality_rate	77.8
+1029	Alabama	Cleburne	child_mortality_rate	
+1031	Alabama	Coffee	child_mortality_rate	95.2
+1033	Alabama	Colbert	child_mortality_rate	86.5
+1035	Alabama	Conecuh	child_mortality_rate	79.5
+1037	Alabama	Coosa	child_mortality_rate	
+1039	Alabama	Covington	child_mortality_rate	87.7
+1041	Alabama	Crenshaw	child_mortality_rate	74.2
+1043	Alabama	Cullman	child_mortality_rate	55.9
+1045	Alabama	Dale	child_mortality_rate	76.6
+1047	Alabama	Dallas	child_mortality_rate	86.8
+1049	Alabama	DeKalb	child_mortality_rate	53.2
+1051	Alabama	Elmore	child_mortality_rate	73.3
+1053	Alabama	Escambia	child_mortality_rate	76.4
+1055	Alabama	Etowah	child_mortality_rate	79.7
+1057	Alabama	Fayette	child_mortality_rate	89
+1059	Alabama	Franklin	child_mortality_rate	70.5
+1061	Alabama	Geneva	child_mortality_rate	70.9
+1063	Alabama	Greene	child_mortality_rate	
+1065	Alabama	Hale	child_mortality_rate	91.4
+1067	Alabama	Henry	child_mortality_rate	
+1069	Alabama	Houston	child_mortality_rate	69.9
+1071	Alabama	Jackson	child_mortality_rate	81.9
+1073	Alabama	Jefferson	child_mortality_rate	97
+1075	Alabama	Lamar	child_mortality_rate	
+1077	Alabama	Lauderdale	child_mortality_rate	60.1
+1079	Alabama	Lawrence	child_mortality_rate	52.7
+1081	Alabama	Lee	child_mortality_rate	59.9
+1083	Alabama	Limestone	child_mortality_rate	53.4
+1085	Alabama	Lowndes	child_mortality_rate	94.1
+1087	Alabama	Macon	child_mortality_rate	114.8
+1089	Alabama	Madison	child_mortality_rate	63.5
+1091	Alabama	Marengo	child_mortality_rate	55.5
+1093	Alabama	Marion	child_mortality_rate	89.3
+1095	Alabama	Marshall	child_mortality_rate	85.7
+1097	Alabama	Mobile	child_mortality_rate	78.5
+1099	Alabama	Monroe	child_mortality_rate	49.5
+1101	Alabama	Montgomery	child_mortality_rate	103.9
+1103	Alabama	Morgan	child_mortality_rate	76.3
+1105	Alabama	Perry	child_mortality_rate	
+1107	Alabama	Pickens	child_mortality_rate	136.9
+1109	Alabama	Pike	child_mortality_rate	82
+1111	Alabama	Randolph	child_mortality_rate	77.8
+1113	Alabama	Russell	child_mortality_rate	96.9
+1115	Alabama	St. Clair	child_mortality_rate	72.8
+1117	Alabama	Shelby	child_mortality_rate	50.6
+1119	Alabama	Sumter	child_mortality_rate	
+1121	Alabama	Talladega	child_mortality_rate	107.2
+1123	Alabama	Tallapoosa	child_mortality_rate	104.1
+1125	Alabama	Tuscaloosa	child_mortality_rate	105.9
+1127	Alabama	Walker	child_mortality_rate	89.6
+1129	Alabama	Washington	child_mortality_rate	77.9
+1131	Alabama	Wilcox	child_mortality_rate	82.5
+1133	Alabama	Winston	child_mortality_rate	137.8
+2013	Alaska	Aleutians East	child_mortality_rate	
+2016	Alaska	Aleutians West	child_mortality_rate	
+2020	Alaska	Anchorage	child_mortality_rate	51.7
+2050	Alaska	Bethel	child_mortality_rate	180.3
+2060	Alaska	Bristol Bay	child_mortality_rate	
+2068	Alaska	Denali	child_mortality_rate	
+2070	Alaska	Dillingham	child_mortality_rate	
+2090	Alaska	Fairbanks North Star	child_mortality_rate	43.4
+2100	Alaska	Haines	child_mortality_rate	
+2110	Alaska	Juneau	child_mortality_rate	54
+2122	Alaska	Kenai Peninsula	child_mortality_rate	68.5
+2130	Alaska	Ketchikan Gateway	child_mortality_rate	100.1
+2150	Alaska	Kodiak Island	child_mortality_rate	
+2164	Alaska	Lake and Peninsula	child_mortality_rate	
+2170	Alaska	Matanuska-Susitna	child_mortality_rate	50.2
+2180	Alaska	Nome	child_mortality_rate	163.5
+2185	Alaska	North Slope	child_mortality_rate	177.6
+2188	Alaska	Northwest Arctic	child_mortality_rate	132.9
+2201	Alaska	Prince of Wales-Outer Ketchikan	child_mortality_rate	
+2220	Alaska	Sitka	child_mortality_rate	
+2232	Alaska	Skagway-Hoonah-Angoon	child_mortality_rate	
+2240	Alaska	Southeast Fairbanks	child_mortality_rate	
+2261	Alaska	Valdez-Cordova	child_mortality_rate	116.9
+2270	Alaska	Wade Hampton	child_mortality_rate	295.3
+2280	Alaska	Wrangell-Petersburg	child_mortality_rate	
+2282	Alaska	Yakutat	child_mortality_rate	
+2290	Alaska	Yukon-Koyukuk	child_mortality_rate	
+4001	Arizona	Apache	child_mortality_rate	98.6
+4003	Arizona	Cochise	child_mortality_rate	78.3
+4005	Arizona	Coconino	child_mortality_rate	71
+4007	Arizona	Gila	child_mortality_rate	117.6
+4009	Arizona	Graham	child_mortality_rate	79.2
+4011	Arizona	Greenlee	child_mortality_rate	
+4012	Arizona	La Paz	child_mortality_rate	95.6
+4013	Arizona	Maricopa	child_mortality_rate	57.8
+4015	Arizona	Mohave	child_mortality_rate	63.5
+4017	Arizona	Navajo	child_mortality_rate	86.9
+4019	Arizona	Pima	child_mortality_rate	64.9
+4021	Arizona	Pinal	child_mortality_rate	58.5
+4023	Arizona	Santa Cruz	child_mortality_rate	50.3
+4025	Arizona	Yavapai	child_mortality_rate	52.1
+4027	Arizona	Yuma	child_mortality_rate	61.3
+5001	Arkansas	Arkansas	child_mortality_rate	
+5003	Arkansas	Ashley	child_mortality_rate	91.2
+5005	Arkansas	Baxter	child_mortality_rate	63
+5007	Arkansas	Benton	child_mortality_rate	53.5
+5009	Arkansas	Boone	child_mortality_rate	66.4
+5011	Arkansas	Bradley	child_mortality_rate	91.4
+5013	Arkansas	Calhoun	child_mortality_rate	
+5015	Arkansas	Carroll	child_mortality_rate	65.1
+5017	Arkansas	Chicot	child_mortality_rate	
+5019	Arkansas	Clark	child_mortality_rate	54.7
+5021	Arkansas	Clay	child_mortality_rate	
+5023	Arkansas	Cleburne	child_mortality_rate	62.7
+5025	Arkansas	Cleveland	child_mortality_rate	
+5027	Arkansas	Columbia	child_mortality_rate	83.1
+5029	Arkansas	Conway	child_mortality_rate	73
+5031	Arkansas	Craighead	child_mortality_rate	81.9
+5033	Arkansas	Crawford	child_mortality_rate	50.6
+5035	Arkansas	Crittenden	child_mortality_rate	118.5
+5037	Arkansas	Cross	child_mortality_rate	97.5
+5039	Arkansas	Dallas	child_mortality_rate	
+5041	Arkansas	Desha	child_mortality_rate	79.1
+5043	Arkansas	Drew	child_mortality_rate	119.5
+5045	Arkansas	Faulkner	child_mortality_rate	62.2
+5047	Arkansas	Franklin	child_mortality_rate	
+5049	Arkansas	Fulton	child_mortality_rate	
+5051	Arkansas	Garland	child_mortality_rate	57.2
+5053	Arkansas	Grant	child_mortality_rate	74.8
+5055	Arkansas	Greene	child_mortality_rate	76.4
+5057	Arkansas	Hempstead	child_mortality_rate	71.3
+5059	Arkansas	Hot Spring	child_mortality_rate	71.4
+5061	Arkansas	Howard	child_mortality_rate	
+5063	Arkansas	Independence	child_mortality_rate	86.8
+5065	Arkansas	Izard	child_mortality_rate	
+5067	Arkansas	Jackson	child_mortality_rate	65.7
+5069	Arkansas	Jefferson	child_mortality_rate	69.1
+5071	Arkansas	Johnson	child_mortality_rate	63.1
+5073	Arkansas	Lafayette	child_mortality_rate	
+5075	Arkansas	Lawrence	child_mortality_rate	
+5077	Arkansas	Lee	child_mortality_rate	
+5079	Arkansas	Lincoln	child_mortality_rate	
+5081	Arkansas	Little River	child_mortality_rate	
+5083	Arkansas	Logan	child_mortality_rate	49.3
+5085	Arkansas	Lonoke	child_mortality_rate	77.5
+5087	Arkansas	Madison	child_mortality_rate	
+5089	Arkansas	Marion	child_mortality_rate	
+5091	Arkansas	Miller	child_mortality_rate	82.5
+5093	Arkansas	Mississippi	child_mortality_rate	100
+5095	Arkansas	Monroe	child_mortality_rate	
+5097	Arkansas	Montgomery	child_mortality_rate	
+5099	Arkansas	Nevada	child_mortality_rate	
+5101	Arkansas	Newton	child_mortality_rate	
+5103	Arkansas	Ouachita	child_mortality_rate	108.7
+5105	Arkansas	Perry	child_mortality_rate	
+5107	Arkansas	Phillips	child_mortality_rate	97.8
+5109	Arkansas	Pike	child_mortality_rate	
+5111	Arkansas	Poinsett	child_mortality_rate	94.9
+5113	Arkansas	Polk	child_mortality_rate	71
+5115	Arkansas	Pope	child_mortality_rate	79.4
+5117	Arkansas	Prairie	child_mortality_rate	131.2
+5119	Arkansas	Pulaski	child_mortality_rate	89.1
+5121	Arkansas	Randolph	child_mortality_rate	65.4
+5123	Arkansas	St. Francis	child_mortality_rate	105.2
+5125	Arkansas	Saline	child_mortality_rate	59.4
+5127	Arkansas	Scott	child_mortality_rate	
+5129	Arkansas	Searcy	child_mortality_rate	
+5131	Arkansas	Sebastian	child_mortality_rate	53.9
+5133	Arkansas	Sevier	child_mortality_rate	87
+5135	Arkansas	Sharp	child_mortality_rate	
+5137	Arkansas	Stone	child_mortality_rate	
+5139	Arkansas	Union	child_mortality_rate	80.8
+5141	Arkansas	Van Buren	child_mortality_rate	91.8
+5143	Arkansas	Washington	child_mortality_rate	64.3
+5145	Arkansas	White	child_mortality_rate	71.9
+5147	Arkansas	Woodruff	child_mortality_rate	
+5149	Arkansas	Yell	child_mortality_rate	100
+6001	California	Alameda	child_mortality_rate	43.6
+6003	California	Alpine	child_mortality_rate	
+6005	California	Amador	child_mortality_rate	41.4
+6007	California	Butte	child_mortality_rate	51.5
+6009	California	Calaveras	child_mortality_rate	42.9
+6011	California	Colusa	child_mortality_rate	39.4
+6013	California	Contra Costa	child_mortality_rate	40
+6015	California	Del Norte	child_mortality_rate	89.6
+6017	California	El Dorado	child_mortality_rate	31
+6019	California	Fresno	child_mortality_rate	59.4
+6021	California	Glenn	child_mortality_rate	40.8
+6023	California	Humboldt	child_mortality_rate	53.5
+6025	California	Imperial	child_mortality_rate	48
+6027	California	Inyo	child_mortality_rate	
+6029	California	Kern	child_mortality_rate	61.1
+6031	California	Kings	child_mortality_rate	55.2
+6033	California	Lake	child_mortality_rate	57.4
+6035	California	Lassen	child_mortality_rate	50.6
+6037	California	Los Angeles	child_mortality_rate	47.5
+6039	California	Madera	child_mortality_rate	54.1
+6041	California	Marin	child_mortality_rate	28.1
+6043	California	Mariposa	child_mortality_rate	
+6045	California	Mendocino	child_mortality_rate	57.5
+6047	California	Merced	child_mortality_rate	56.5
+6049	California	Modoc	child_mortality_rate	
+6051	California	Mono	child_mortality_rate	
+6053	California	Monterey	child_mortality_rate	52
+6055	California	Napa	child_mortality_rate	48.8
+6057	California	Nevada	child_mortality_rate	38.3
+6059	California	Orange	child_mortality_rate	38.5
+6061	California	Placer	child_mortality_rate	33
+6063	California	Plumas	child_mortality_rate	
+6065	California	Riverside	child_mortality_rate	44.7
+6067	California	Sacramento	child_mortality_rate	49.6
+6069	California	San Benito	child_mortality_rate	37.1
+6071	California	San Bernardino	child_mortality_rate	54.6
+6073	California	San Diego	child_mortality_rate	46.8
+6075	California	San Francisco	child_mortality_rate	50.1
+6077	California	San Joaquin	child_mortality_rate	51.8
+6079	California	San Luis Obispo	child_mortality_rate	39.2
+6081	California	San Mateo	child_mortality_rate	35.5
+6083	California	Santa Barbara	child_mortality_rate	46.9
+6085	California	Santa Clara	child_mortality_rate	33.5
+6087	California	Santa Cruz	child_mortality_rate	34.4
+6089	California	Shasta	child_mortality_rate	52.4
+6091	California	Sierra	child_mortality_rate	
+6093	California	Siskiyou	child_mortality_rate	48.2
+6095	California	Solano	child_mortality_rate	48.9
+6097	California	Sonoma	child_mortality_rate	38.8
+6099	California	Stanislaus	child_mortality_rate	54.5
+6101	California	Sutter	child_mortality_rate	40.2
+6103	California	Tehama	child_mortality_rate	55.5
+6105	California	Trinity	child_mortality_rate	
+6107	California	Tulare	child_mortality_rate	57.9
+6109	California	Tuolumne	child_mortality_rate	32.3
+6111	California	Ventura	child_mortality_rate	46.6
+6113	California	Yolo	child_mortality_rate	33
+6115	California	Yuba	child_mortality_rate	54.7
+8001	Colorado	Adams	child_mortality_rate	51.8
+8003	Colorado	Alamosa	child_mortality_rate	64.2
+8005	Colorado	Arapahoe	child_mortality_rate	55.7
+8007	Colorado	Archuleta	child_mortality_rate	
+8009	Colorado	Baca	child_mortality_rate	
+8011	Colorado	Bent	child_mortality_rate	
+8013	Colorado	Boulder	child_mortality_rate	42
+8014	Colorado	Broomfield	child_mortality_rate	40.4
+8015	Colorado	Chaffee	child_mortality_rate	
+8017	Colorado	Cheyenne	child_mortality_rate	
+8019	Colorado	Clear Creek	child_mortality_rate	
+8021	Colorado	Conejos	child_mortality_rate	
+8023	Colorado	Costilla	child_mortality_rate	
+8025	Colorado	Crowley	child_mortality_rate	
+8027	Colorado	Custer	child_mortality_rate	
+8029	Colorado	Delta	child_mortality_rate	65.7
+8031	Colorado	Denver	child_mortality_rate	80
+8033	Colorado	Dolores	child_mortality_rate	
+8035	Colorado	Douglas	child_mortality_rate	32.3
+8037	Colorado	Eagle	child_mortality_rate	43.6
+8039	Colorado	Elbert	child_mortality_rate	
+8041	Colorado	El Paso	child_mortality_rate	63
+8043	Colorado	Fremont	child_mortality_rate	59.7
+8045	Colorado	Garfield	child_mortality_rate	53.2
+8047	Colorado	Gilpin	child_mortality_rate	
+8049	Colorado	Grand	child_mortality_rate	
+8051	Colorado	Gunnison	child_mortality_rate	90.4
+8053	Colorado	Hinsdale	child_mortality_rate	
+8055	Colorado	Huerfano	child_mortality_rate	
+8057	Colorado	Jackson	child_mortality_rate	
+8059	Colorado	Jefferson	child_mortality_rate	43.1
+8061	Colorado	Kiowa	child_mortality_rate	
+8063	Colorado	Kit Carson	child_mortality_rate	
+8065	Colorado	Lake	child_mortality_rate	
+8067	Colorado	La Plata	child_mortality_rate	55.4
+8069	Colorado	Larimer	child_mortality_rate	42.9
+8071	Colorado	Las Animas	child_mortality_rate	105.5
+8073	Colorado	Lincoln	child_mortality_rate	
+8075	Colorado	Logan	child_mortality_rate	75.9
+8077	Colorado	Mesa	child_mortality_rate	41.1
+8079	Colorado	Mineral	child_mortality_rate	
+8081	Colorado	Moffat	child_mortality_rate	75.3
+8083	Colorado	Montezuma	child_mortality_rate	91.9
+8085	Colorado	Montrose	child_mortality_rate	83.6
+8087	Colorado	Morgan	child_mortality_rate	51
+8089	Colorado	Otero	child_mortality_rate	63.9
+8091	Colorado	Ouray	child_mortality_rate	
+8093	Colorado	Park	child_mortality_rate	
+8095	Colorado	Phillips	child_mortality_rate	
+8097	Colorado	Pitkin	child_mortality_rate	
+8099	Colorado	Prowers	child_mortality_rate	71.5
+8101	Colorado	Pueblo	child_mortality_rate	59.9
+8103	Colorado	Rio Blanco	child_mortality_rate	
+8105	Colorado	Rio Grande	child_mortality_rate	
+8107	Colorado	Routt	child_mortality_rate	56.8
+8109	Colorado	Saguache	child_mortality_rate	
+8111	Colorado	San Juan	child_mortality_rate	
+8113	Colorado	San Miguel	child_mortality_rate	
+8115	Colorado	Sedgwick	child_mortality_rate	
+8117	Colorado	Summit	child_mortality_rate	
+8119	Colorado	Teller	child_mortality_rate	67.2
+8121	Colorado	Washington	child_mortality_rate	
+8123	Colorado	Weld	child_mortality_rate	56.2
+8125	Colorado	Yuma	child_mortality_rate	
+9001	Connecticut	Fairfield	child_mortality_rate	37.2
+9003	Connecticut	Hartford	child_mortality_rate	47.7
+9005	Connecticut	Litchfield	child_mortality_rate	29.7
+9007	Connecticut	Middlesex	child_mortality_rate	25.9
+9009	Connecticut	New Haven	child_mortality_rate	48.9
+9011	Connecticut	New London	child_mortality_rate	40.2
+9013	Connecticut	Tolland	child_mortality_rate	28
+9015	Connecticut	Windham	child_mortality_rate	33.4
+10001	Delaware	Kent	child_mortality_rate	59.3
+10003	Delaware	New Castle	child_mortality_rate	62.9
+10005	Delaware	Sussex	child_mortality_rate	63.5
+11001	District of Columbia	District of Columbia	child_mortality_rate	132.4
+12001	Florida	Alachua	child_mortality_rate	81.7
+12003	Florida	Baker	child_mortality_rate	85.6
+12005	Florida	Bay	child_mortality_rate	61
+12007	Florida	Bradford	child_mortality_rate	91.2
+12009	Florida	Brevard	child_mortality_rate	54.8
+12011	Florida	Broward	child_mortality_rate	54
+12013	Florida	Calhoun	child_mortality_rate	88.6
+12015	Florida	Charlotte	child_mortality_rate	44.4
+12017	Florida	Citrus	child_mortality_rate	52.5
+12019	Florida	Clay	child_mortality_rate	38.4
+12021	Florida	Collier	child_mortality_rate	62.8
+12023	Florida	Columbia	child_mortality_rate	94.4
+12027	Florida	DeSoto	child_mortality_rate	54.2
+12029	Florida	Dixie	child_mortality_rate	
+12031	Florida	Duval	child_mortality_rate	80.3
+12033	Florida	Escambia	child_mortality_rate	83.9
+12035	Florida	Flagler	child_mortality_rate	45.2
+12037	Florida	Franklin	child_mortality_rate	
+12039	Florida	Gadsden	child_mortality_rate	104
+12041	Florida	Gilchrist	child_mortality_rate	68.2
+12043	Florida	Glades	child_mortality_rate	
+12045	Florida	Gulf	child_mortality_rate	
+12047	Florida	Hamilton	child_mortality_rate	117.2
+12049	Florida	Hardee	child_mortality_rate	89.4
+12051	Florida	Hendry	child_mortality_rate	70.6
+12053	Florida	Hernando	child_mortality_rate	51.8
+12055	Florida	Highlands	child_mortality_rate	65.8
+12057	Florida	Hillsborough	child_mortality_rate	70.2
+12059	Florida	Holmes	child_mortality_rate	56.9
+12061	Florida	Indian River	child_mortality_rate	64.5
+12063	Florida	Jackson	child_mortality_rate	61.9
+12065	Florida	Jefferson	child_mortality_rate	116.2
+12067	Florida	Lafayette	child_mortality_rate	
+12069	Florida	Lake	child_mortality_rate	63.5
+12071	Florida	Lee	child_mortality_rate	56.1
+12073	Florida	Leon	child_mortality_rate	73.4
+12075	Florida	Levy	child_mortality_rate	76.5
+12077	Florida	Liberty	child_mortality_rate	
+12079	Florida	Madison	child_mortality_rate	105.2
+12081	Florida	Manatee	child_mortality_rate	64.1
+12083	Florida	Marion	child_mortality_rate	70.9
+12085	Florida	Martin	child_mortality_rate	41.5
+12086	Florida	Miami-Dade	child_mortality_rate	53.8
+12087	Florida	Monroe	child_mortality_rate	49.5
+12089	Florida	Nassau	child_mortality_rate	70.8
+12091	Florida	Okaloosa	child_mortality_rate	71.7
+12093	Florida	Okeechobee	child_mortality_rate	72.8
+12095	Florida	Orange	child_mortality_rate	66.3
+12097	Florida	Osceola	child_mortality_rate	64.9
+12099	Florida	Palm Beach	child_mortality_rate	56.2
+12101	Florida	Pasco	child_mortality_rate	52.9
+12103	Florida	Pinellas	child_mortality_rate	67.2
+12105	Florida	Polk	child_mortality_rate	69.4
+12107	Florida	Putnam	child_mortality_rate	76.9
+12109	Florida	St. Johns	child_mortality_rate	43.4
+12111	Florida	St. Lucie	child_mortality_rate	57
+12113	Florida	Santa Rosa	child_mortality_rate	47
+12115	Florida	Sarasota	child_mortality_rate	41.7
+12117	Florida	Seminole	child_mortality_rate	49.7
+12119	Florida	Sumter	child_mortality_rate	82.2
+12121	Florida	Suwannee	child_mortality_rate	97.1
+12123	Florida	Taylor	child_mortality_rate	110.5
+12125	Florida	Union	child_mortality_rate	
+12127	Florida	Volusia	child_mortality_rate	65.6
+12129	Florida	Wakulla	child_mortality_rate	61.6
+12131	Florida	Walton	child_mortality_rate	69
+12133	Florida	Washington	child_mortality_rate	56.3
+13001	Georgia	Appling	child_mortality_rate	90
+13003	Georgia	Atkinson	child_mortality_rate	
+13005	Georgia	Bacon	child_mortality_rate	
+13007	Georgia	Baker	child_mortality_rate	
+13009	Georgia	Baldwin	child_mortality_rate	61.1
+13011	Georgia	Banks	child_mortality_rate	64.9
+13013	Georgia	Barrow	child_mortality_rate	53.2
+13015	Georgia	Bartow	child_mortality_rate	51.4
+13017	Georgia	Ben Hill	child_mortality_rate	90.2
+13019	Georgia	Berrien	child_mortality_rate	66.6
+13021	Georgia	Bibb	child_mortality_rate	108.8
+13023	Georgia	Bleckley	child_mortality_rate	
+13025	Georgia	Brantley	child_mortality_rate	83.9
+13027	Georgia	Brooks	child_mortality_rate	69.9
+13029	Georgia	Bryan	child_mortality_rate	61
+13031	Georgia	Bulloch	child_mortality_rate	80.7
+13033	Georgia	Burke	child_mortality_rate	93.3
+13035	Georgia	Butts	child_mortality_rate	89.3
+13037	Georgia	Calhoun	child_mortality_rate	
+13039	Georgia	Camden	child_mortality_rate	51.6
+13043	Georgia	Candler	child_mortality_rate	98.2
+13045	Georgia	Carroll	child_mortality_rate	60
+13047	Georgia	Catoosa	child_mortality_rate	54.8
+13049	Georgia	Charlton	child_mortality_rate	129.2
+13051	Georgia	Chatham	child_mortality_rate	79.3
+13053	Georgia	Chattahoochee	child_mortality_rate	
+13055	Georgia	Chattooga	child_mortality_rate	75.6
+13057	Georgia	Cherokee	child_mortality_rate	46.4
+13059	Georgia	Clarke	child_mortality_rate	65.6
+13061	Georgia	Clay	child_mortality_rate	
+13063	Georgia	Clayton	child_mortality_rate	72.3
+13065	Georgia	Clinch	child_mortality_rate	138
+13067	Georgia	Cobb	child_mortality_rate	56.3
+13069	Georgia	Coffee	child_mortality_rate	76.1
+13071	Georgia	Colquitt	child_mortality_rate	70.6
+13073	Georgia	Columbia	child_mortality_rate	45.6
+13075	Georgia	Cook	child_mortality_rate	69.5
+13077	Georgia	Coweta	child_mortality_rate	41.9
+13079	Georgia	Crawford	child_mortality_rate	
+13081	Georgia	Crisp	child_mortality_rate	84.8
+13083	Georgia	Dade	child_mortality_rate	89
+13085	Georgia	Dawson	child_mortality_rate	73.5
+13087	Georgia	Decatur	child_mortality_rate	69.2
+13089	Georgia	DeKalb	child_mortality_rate	76.4
+13091	Georgia	Dodge	child_mortality_rate	69.2
+13093	Georgia	Dooly	child_mortality_rate	
+13095	Georgia	Dougherty	child_mortality_rate	99.7
+13097	Georgia	Douglas	child_mortality_rate	60
+13099	Georgia	Early	child_mortality_rate	108.8
+13101	Georgia	Echols	child_mortality_rate	
+13103	Georgia	Effingham	child_mortality_rate	67.7
+13105	Georgia	Elbert	child_mortality_rate	57
+13107	Georgia	Emanuel	child_mortality_rate	78.5
+13109	Georgia	Evans	child_mortality_rate	95.8
+13111	Georgia	Fannin	child_mortality_rate	59.7
+13113	Georgia	Fayette	child_mortality_rate	33.6
+13115	Georgia	Floyd	child_mortality_rate	103.1
+13117	Georgia	Forsyth	child_mortality_rate	26
+13119	Georgia	Franklin	child_mortality_rate	64
+13121	Georgia	Fulton	child_mortality_rate	72.4
+13123	Georgia	Gilmer	child_mortality_rate	62.9
+13125	Georgia	Glascock	child_mortality_rate	
+13127	Georgia	Glynn	child_mortality_rate	98.6
+13129	Georgia	Gordon	child_mortality_rate	53.9
+13131	Georgia	Grady	child_mortality_rate	80.5
+13133	Georgia	Greene	child_mortality_rate	
+13135	Georgia	Gwinnett	child_mortality_rate	50.6
+13137	Georgia	Habersham	child_mortality_rate	41.5
+13139	Georgia	Hall	child_mortality_rate	57
+13141	Georgia	Hancock	child_mortality_rate	
+13143	Georgia	Haralson	child_mortality_rate	68.4
+13145	Georgia	Harris	child_mortality_rate	76.2
+13147	Georgia	Hart	child_mortality_rate	43.9
+13149	Georgia	Heard	child_mortality_rate	
+13151	Georgia	Henry	child_mortality_rate	62.8
+13153	Georgia	Houston	child_mortality_rate	76.3
+13155	Georgia	Irwin	child_mortality_rate	114.8
+13157	Georgia	Jackson	child_mortality_rate	68.1
+13159	Georgia	Jasper	child_mortality_rate	78.5
+13161	Georgia	Jeff Davis	child_mortality_rate	67.9
+13163	Georgia	Jefferson	child_mortality_rate	69.3
+13165	Georgia	Jenkins	child_mortality_rate	
+13167	Georgia	Johnson	child_mortality_rate	
+13169	Georgia	Jones	child_mortality_rate	
+13171	Georgia	Lamar	child_mortality_rate	69.7
+13173	Georgia	Lanier	child_mortality_rate	94
+13175	Georgia	Laurens	child_mortality_rate	53.9
+13177	Georgia	Lee	child_mortality_rate	78.4
+13179	Georgia	Liberty	child_mortality_rate	75.9
+13181	Georgia	Lincoln	child_mortality_rate	
+13183	Georgia	Long	child_mortality_rate	105.1
+13185	Georgia	Lowndes	child_mortality_rate	102.9
+13187	Georgia	Lumpkin	child_mortality_rate	39.8
+13189	Georgia	McDuffie	child_mortality_rate	86.4
+13191	Georgia	McIntosh	child_mortality_rate	
+13193	Georgia	Macon	child_mortality_rate	74.7
+13195	Georgia	Madison	child_mortality_rate	68.3
+13197	Georgia	Marion	child_mortality_rate	
+13199	Georgia	Meriwether	child_mortality_rate	64.6
+13201	Georgia	Miller	child_mortality_rate	
+13205	Georgia	Mitchell	child_mortality_rate	75.2
+13207	Georgia	Monroe	child_mortality_rate	41.5
+13209	Georgia	Montgomery	child_mortality_rate	
+13211	Georgia	Morgan	child_mortality_rate	
+13213	Georgia	Murray	child_mortality_rate	48.2
+13215	Georgia	Muscogee	child_mortality_rate	116.3
+13217	Georgia	Newton	child_mortality_rate	56.6
+13219	Georgia	Oconee	child_mortality_rate	
+13221	Georgia	Oglethorpe	child_mortality_rate	
+13223	Georgia	Paulding	child_mortality_rate	48.1
+13225	Georgia	Peach	child_mortality_rate	114.7
+13227	Georgia	Pickens	child_mortality_rate	48.7
+13229	Georgia	Pierce	child_mortality_rate	77.7
+13231	Georgia	Pike	child_mortality_rate	84.3
+13233	Georgia	Polk	child_mortality_rate	59.4
+13235	Georgia	Pulaski	child_mortality_rate	
+13237	Georgia	Putnam	child_mortality_rate	86.9
+13239	Georgia	Quitman	child_mortality_rate	
+13241	Georgia	Rabun	child_mortality_rate	99.7
+13243	Georgia	Randolph	child_mortality_rate	
+13245	Georgia	Richmond	child_mortality_rate	109.9
+13247	Georgia	Rockdale	child_mortality_rate	41.8
+13249	Georgia	Schley	child_mortality_rate	
+13251	Georgia	Screven	child_mortality_rate	98.6
+13253	Georgia	Seminole	child_mortality_rate	
+13255	Georgia	Spalding	child_mortality_rate	85.4
+13257	Georgia	Stephens	child_mortality_rate	54.7
+13259	Georgia	Stewart	child_mortality_rate	
+13261	Georgia	Sumter	child_mortality_rate	41
+13263	Georgia	Talbot	child_mortality_rate	
+13265	Georgia	Taliaferro	child_mortality_rate	
+13267	Georgia	Tattnall	child_mortality_rate	99.7
+13269	Georgia	Taylor	child_mortality_rate	
+13271	Georgia	Telfair	child_mortality_rate	77.3
+13273	Georgia	Terrell	child_mortality_rate	144.3
+13275	Georgia	Thomas	child_mortality_rate	77.9
+13277	Georgia	Tift	child_mortality_rate	96.2
+13279	Georgia	Toombs	child_mortality_rate	65.8
+13281	Georgia	Towns	child_mortality_rate	
+13283	Georgia	Treutlen	child_mortality_rate	
+13285	Georgia	Troup	child_mortality_rate	78.9
+13287	Georgia	Turner	child_mortality_rate	
+13289	Georgia	Twiggs	child_mortality_rate	
+13291	Georgia	Union	child_mortality_rate	
+13293	Georgia	Upson	child_mortality_rate	72.3
+13295	Georgia	Walker	child_mortality_rate	57.9
+13297	Georgia	Walton	child_mortality_rate	49.1
+13299	Georgia	Ware	child_mortality_rate	90
+13301	Georgia	Warren	child_mortality_rate	
+13303	Georgia	Washington	child_mortality_rate	107.3
+13305	Georgia	Wayne	child_mortality_rate	126.1
+13307	Georgia	Webster	child_mortality_rate	
+13309	Georgia	Wheeler	child_mortality_rate	
+13311	Georgia	White	child_mortality_rate	
+13313	Georgia	Whitfield	child_mortality_rate	57
+13315	Georgia	Wilcox	child_mortality_rate	181.1
+13317	Georgia	Wilkes	child_mortality_rate	
+13319	Georgia	Wilkinson	child_mortality_rate	104.2
+13321	Georgia	Worth	child_mortality_rate	59.1
+15001	Hawaii	Hawaii	child_mortality_rate	60
+15003	Hawaii	Honolulu	child_mortality_rate	57.9
+15005	Hawaii	Kalawao	child_mortality_rate	
+15007	Hawaii	Kauai	child_mortality_rate	50.8
+15009	Hawaii	Maui	child_mortality_rate	40.1
+16001	Idaho	Ada	child_mortality_rate	43
+16003	Idaho	Adams	child_mortality_rate	
+16005	Idaho	Bannock	child_mortality_rate	53
+16007	Idaho	Bear Lake	child_mortality_rate	
+16009	Idaho	Benewah	child_mortality_rate	
+16011	Idaho	Bingham	child_mortality_rate	73
+16013	Idaho	Blaine	child_mortality_rate	62.4
+16015	Idaho	Boise	child_mortality_rate	
+16017	Idaho	Bonner	child_mortality_rate	52.9
+16019	Idaho	Bonneville	child_mortality_rate	57.3
+16021	Idaho	Boundary	child_mortality_rate	
+16023	Idaho	Butte	child_mortality_rate	
+16025	Idaho	Camas	child_mortality_rate	
+16027	Idaho	Canyon	child_mortality_rate	55.4
+16029	Idaho	Caribou	child_mortality_rate	
+16031	Idaho	Cassia	child_mortality_rate	78.2
+16033	Idaho	Clark	child_mortality_rate	
+16035	Idaho	Clearwater	child_mortality_rate	
+16037	Idaho	Custer	child_mortality_rate	
+16039	Idaho	Elmore	child_mortality_rate	87.7
+16041	Idaho	Franklin	child_mortality_rate	
+16043	Idaho	Fremont	child_mortality_rate	
+16045	Idaho	Gem	child_mortality_rate	70.7
+16047	Idaho	Gooding	child_mortality_rate	61.3
+16049	Idaho	Idaho	child_mortality_rate	
+16051	Idaho	Jefferson	child_mortality_rate	59.6
+16053	Idaho	Jerome	child_mortality_rate	111.3
+16055	Idaho	Kootenai	child_mortality_rate	41.1
+16057	Idaho	Latah	child_mortality_rate	62.4
+16059	Idaho	Lemhi	child_mortality_rate	
+16061	Idaho	Lewis	child_mortality_rate	
+16063	Idaho	Lincoln	child_mortality_rate	
+16065	Idaho	Madison	child_mortality_rate	91.7
+16067	Idaho	Minidoka	child_mortality_rate	
+16069	Idaho	Nez Perce	child_mortality_rate	58.3
+16071	Idaho	Oneida	child_mortality_rate	
+16073	Idaho	Owyhee	child_mortality_rate	88.5
+16075	Idaho	Payette	child_mortality_rate	68.8
+16077	Idaho	Power	child_mortality_rate	
+16079	Idaho	Shoshone	child_mortality_rate	
+16081	Idaho	Teton	child_mortality_rate	
+16083	Idaho	Twin Falls	child_mortality_rate	80.2
+16085	Idaho	Valley	child_mortality_rate	
+16087	Idaho	Washington	child_mortality_rate	
+17001	Illinois	Adams	child_mortality_rate	54.6
+17003	Illinois	Alexander	child_mortality_rate	
+17005	Illinois	Bond	child_mortality_rate	
+17007	Illinois	Boone	child_mortality_rate	48.7
+17009	Illinois	Brown	child_mortality_rate	
+17011	Illinois	Bureau	child_mortality_rate	57.7
+17013	Illinois	Calhoun	child_mortality_rate	
+17015	Illinois	Carroll	child_mortality_rate	92.1
+17017	Illinois	Cass	child_mortality_rate	
+17019	Illinois	Champaign	child_mortality_rate	64.6
+17021	Illinois	Christian	child_mortality_rate	71.9
+17023	Illinois	Clark	child_mortality_rate	
+17025	Illinois	Clay	child_mortality_rate	
+17027	Illinois	Clinton	child_mortality_rate	40.8
+17029	Illinois	Coles	child_mortality_rate	60.7
+17031	Illinois	Cook	child_mortality_rate	68
+17033	Illinois	Crawford	child_mortality_rate	79.6
+17035	Illinois	Cumberland	child_mortality_rate	
+17037	Illinois	DeKalb	child_mortality_rate	45.8
+17039	Illinois	De Witt	child_mortality_rate	
+17041	Illinois	Douglas	child_mortality_rate	48
+17043	Illinois	DuPage	child_mortality_rate	39.3
+17045	Illinois	Edgar	child_mortality_rate	
+17047	Illinois	Edwards	child_mortality_rate	161
+17049	Illinois	Effingham	child_mortality_rate	60.7
+17051	Illinois	Fayette	child_mortality_rate	
+17053	Illinois	Ford	child_mortality_rate	
+17055	Illinois	Franklin	child_mortality_rate	82.9
+17057	Illinois	Fulton	child_mortality_rate	64
+17059	Illinois	Gallatin	child_mortality_rate	
+17061	Illinois	Greene	child_mortality_rate	77.6
+17063	Illinois	Grundy	child_mortality_rate	57.4
+17065	Illinois	Hamilton	child_mortality_rate	
+17067	Illinois	Hancock	child_mortality_rate	
+17069	Illinois	Hardin	child_mortality_rate	
+17071	Illinois	Henderson	child_mortality_rate	
+17073	Illinois	Henry	child_mortality_rate	36.7
+17075	Illinois	Iroquois	child_mortality_rate	59.6
+17077	Illinois	Jackson	child_mortality_rate	75.6
+17079	Illinois	Jasper	child_mortality_rate	
+17081	Illinois	Jefferson	child_mortality_rate	76.7
+17083	Illinois	Jersey	child_mortality_rate	60.9
+17085	Illinois	Jo Daviess	child_mortality_rate	
+17087	Illinois	Johnson	child_mortality_rate	
+17089	Illinois	Kane	child_mortality_rate	47.3
+17091	Illinois	Kankakee	child_mortality_rate	61.3
+17093	Illinois	Kendall	child_mortality_rate	43.7
+17095	Illinois	Knox	child_mortality_rate	68.3
+17097	Illinois	Lake	child_mortality_rate	37.1
+17099	Illinois	LaSalle	child_mortality_rate	57.2
+17101	Illinois	Lawrence	child_mortality_rate	129
+17103	Illinois	Lee	child_mortality_rate	50.5
+17105	Illinois	Livingston	child_mortality_rate	86.9
+17107	Illinois	Logan	child_mortality_rate	101.3
+17109	Illinois	McDonough	child_mortality_rate	57.8
+17111	Illinois	McHenry	child_mortality_rate	37.8
+17113	Illinois	McLean	child_mortality_rate	58.3
+17115	Illinois	Macon	child_mortality_rate	87.6
+17117	Illinois	Macoupin	child_mortality_rate	52.5
+17119	Illinois	Madison	child_mortality_rate	60.6
+17121	Illinois	Marion	child_mortality_rate	50.1
+17123	Illinois	Marshall	child_mortality_rate	
+17125	Illinois	Mason	child_mortality_rate	
+17127	Illinois	Massac	child_mortality_rate	70.8
+17129	Illinois	Menard	child_mortality_rate	
+17131	Illinois	Mercer	child_mortality_rate	
+17133	Illinois	Monroe	child_mortality_rate	34
+17135	Illinois	Montgomery	child_mortality_rate	61.9
+17137	Illinois	Morgan	child_mortality_rate	
+17139	Illinois	Moultrie	child_mortality_rate	67.6
+17141	Illinois	Ogle	child_mortality_rate	38.8
+17143	Illinois	Peoria	child_mortality_rate	75.6
+17145	Illinois	Perry	child_mortality_rate	58.4
+17147	Illinois	Piatt	child_mortality_rate	61.9
+17149	Illinois	Pike	child_mortality_rate	
+17151	Illinois	Pope	child_mortality_rate	
+17153	Illinois	Pulaski	child_mortality_rate	
+17155	Illinois	Putnam	child_mortality_rate	
+17157	Illinois	Randolph	child_mortality_rate	44.1
+17159	Illinois	Richland	child_mortality_rate	
+17161	Illinois	Rock Island	child_mortality_rate	62.4
+17163	Illinois	St. Clair	child_mortality_rate	66.6
+17165	Illinois	Saline	child_mortality_rate	68.9
+17167	Illinois	Sangamon	child_mortality_rate	66.9
+17169	Illinois	Schuyler	child_mortality_rate	
+17171	Illinois	Scott	child_mortality_rate	
+17173	Illinois	Shelby	child_mortality_rate	68.4
+17175	Illinois	Stark	child_mortality_rate	
+17177	Illinois	Stephenson	child_mortality_rate	52.5
+17179	Illinois	Tazewell	child_mortality_rate	44.8
+17181	Illinois	Union	child_mortality_rate	63.3
+17183	Illinois	Vermilion	child_mortality_rate	83.2
+17185	Illinois	Wabash	child_mortality_rate	
+17187	Illinois	Warren	child_mortality_rate	
+17189	Illinois	Washington	child_mortality_rate	
+17191	Illinois	Wayne	child_mortality_rate	65
+17193	Illinois	White	child_mortality_rate	
+17195	Illinois	Whiteside	child_mortality_rate	59.2
+17197	Illinois	Will	child_mortality_rate	48.6
+17199	Illinois	Williamson	child_mortality_rate	79.7
+17201	Illinois	Winnebago	child_mortality_rate	63.5
+17203	Illinois	Woodford	child_mortality_rate	47.1
+18001	Indiana	Adams	child_mortality_rate	103.5
+18003	Indiana	Allen	child_mortality_rate	68.5
+18005	Indiana	Bartholomew	child_mortality_rate	61.7
+18007	Indiana	Benton	child_mortality_rate	
+18009	Indiana	Blackford	child_mortality_rate	
+18011	Indiana	Boone	child_mortality_rate	50.9
+18013	Indiana	Brown	child_mortality_rate	
+18015	Indiana	Carroll	child_mortality_rate	
+18017	Indiana	Cass	child_mortality_rate	91.3
+18019	Indiana	Clark	child_mortality_rate	40.8
+18021	Indiana	Clay	child_mortality_rate	64.7
+18023	Indiana	Clinton	child_mortality_rate	61.9
+18025	Indiana	Crawford	child_mortality_rate	
+18027	Indiana	Daviess	child_mortality_rate	58.7
+18029	Indiana	Dearborn	child_mortality_rate	53.5
+18031	Indiana	Decatur	child_mortality_rate	
+18033	Indiana	DeKalb	child_mortality_rate	48.9
+18035	Indiana	Delaware	child_mortality_rate	67.4
+18037	Indiana	Dubois	child_mortality_rate	60.6
+18039	Indiana	Elkhart	child_mortality_rate	56.6
+18041	Indiana	Fayette	child_mortality_rate	50.6
+18043	Indiana	Floyd	child_mortality_rate	37.5
+18045	Indiana	Fountain	child_mortality_rate	
+18047	Indiana	Franklin	child_mortality_rate	
+18049	Indiana	Fulton	child_mortality_rate	86.4
+18051	Indiana	Gibson	child_mortality_rate	42.9
+18053	Indiana	Grant	child_mortality_rate	73.2
+18055	Indiana	Greene	child_mortality_rate	75.9
+18057	Indiana	Hamilton	child_mortality_rate	36
+18059	Indiana	Hancock	child_mortality_rate	48.1
+18061	Indiana	Harrison	child_mortality_rate	37.9
+18063	Indiana	Hendricks	child_mortality_rate	47.1
+18065	Indiana	Henry	child_mortality_rate	65
+18067	Indiana	Howard	child_mortality_rate	53.8
+18069	Indiana	Huntington	child_mortality_rate	39.2
+18071	Indiana	Jackson	child_mortality_rate	96.1
+18073	Indiana	Jasper	child_mortality_rate	58.3
+18075	Indiana	Jay	child_mortality_rate	52
+18077	Indiana	Jefferson	child_mortality_rate	47
+18079	Indiana	Jennings	child_mortality_rate	68.6
+18081	Indiana	Johnson	child_mortality_rate	51.2
+18083	Indiana	Knox	child_mortality_rate	75.3
+18085	Indiana	Kosciusko	child_mortality_rate	51.1
+18087	Indiana	LaGrange	child_mortality_rate	68.4
+18089	Indiana	Lake	child_mortality_rate	74.2
+18091	Indiana	LaPorte	child_mortality_rate	85.7
+18093	Indiana	Lawrence	child_mortality_rate	61.4
+18095	Indiana	Madison	child_mortality_rate	76.7
+18097	Indiana	Marion	child_mortality_rate	90.4
+18099	Indiana	Marshall	child_mortality_rate	58.7
+18101	Indiana	Martin	child_mortality_rate	
+18103	Indiana	Miami	child_mortality_rate	46.2
+18105	Indiana	Monroe	child_mortality_rate	41.5
+18107	Indiana	Montgomery	child_mortality_rate	66.8
+18109	Indiana	Morgan	child_mortality_rate	42.7
+18111	Indiana	Newton	child_mortality_rate	
+18113	Indiana	Noble	child_mortality_rate	54
+18115	Indiana	Ohio	child_mortality_rate	
+18117	Indiana	Orange	child_mortality_rate	60.4
+18119	Indiana	Owen	child_mortality_rate	
+18121	Indiana	Parke	child_mortality_rate	99
+18123	Indiana	Perry	child_mortality_rate	60.1
+18125	Indiana	Pike	child_mortality_rate	
+18127	Indiana	Porter	child_mortality_rate	42.6
+18129	Indiana	Posey	child_mortality_rate	
+18131	Indiana	Pulaski	child_mortality_rate	
+18133	Indiana	Putnam	child_mortality_rate	67.3
+18135	Indiana	Randolph	child_mortality_rate	
+18137	Indiana	Ripley	child_mortality_rate	42.9
+18139	Indiana	Rush	child_mortality_rate	67.6
+18141	Indiana	St. Joseph	child_mortality_rate	70.9
+18143	Indiana	Scott	child_mortality_rate	59.2
+18145	Indiana	Shelby	child_mortality_rate	61.4
+18147	Indiana	Spencer	child_mortality_rate	68.4
+18149	Indiana	Starke	child_mortality_rate	73.9
+18151	Indiana	Steuben	child_mortality_rate	40.6
+18153	Indiana	Sullivan	child_mortality_rate	59.4
+18155	Indiana	Switzerland	child_mortality_rate	93.5
+18157	Indiana	Tippecanoe	child_mortality_rate	44.6
+18159	Indiana	Tipton	child_mortality_rate	79.3
+18161	Indiana	Union	child_mortality_rate	
+18163	Indiana	Vanderburgh	child_mortality_rate	74.1
+18165	Indiana	Vermillion	child_mortality_rate	78.1
+18167	Indiana	Vigo	child_mortality_rate	55.4
+18169	Indiana	Wabash	child_mortality_rate	62.9
+18171	Indiana	Warren	child_mortality_rate	
+18173	Indiana	Warrick	child_mortality_rate	55.5
+18175	Indiana	Washington	child_mortality_rate	65.9
+18177	Indiana	Wayne	child_mortality_rate	64.4
+18179	Indiana	Wells	child_mortality_rate	35.7
+18181	Indiana	White	child_mortality_rate	95.7
+18183	Indiana	Whitley	child_mortality_rate	39.5
+19001	Iowa	Adair	child_mortality_rate	
+19003	Iowa	Adams	child_mortality_rate	
+19005	Iowa	Allamakee	child_mortality_rate	
+19007	Iowa	Appanoose	child_mortality_rate	
+19009	Iowa	Audubon	child_mortality_rate	
+19011	Iowa	Benton	child_mortality_rate	
+19013	Iowa	Black Hawk	child_mortality_rate	55.9
+19015	Iowa	Boone	child_mortality_rate	55.1
+19017	Iowa	Bremer	child_mortality_rate	
+19019	Iowa	Buchanan	child_mortality_rate	
+19021	Iowa	Buena Vista	child_mortality_rate	60.3
+19023	Iowa	Butler	child_mortality_rate	
+19025	Iowa	Calhoun	child_mortality_rate	
+19027	Iowa	Carroll	child_mortality_rate	67.4
+19029	Iowa	Cass	child_mortality_rate	
+19031	Iowa	Cedar	child_mortality_rate	55.4
+19033	Iowa	Cerro Gordo	child_mortality_rate	51.9
+19035	Iowa	Cherokee	child_mortality_rate	
+19037	Iowa	Chickasaw	child_mortality_rate	
+19039	Iowa	Clarke	child_mortality_rate	
+19041	Iowa	Clay	child_mortality_rate	
+19043	Iowa	Clayton	child_mortality_rate	58.9
+19045	Iowa	Clinton	child_mortality_rate	72.3
+19047	Iowa	Crawford	child_mortality_rate	61.5
+19049	Iowa	Dallas	child_mortality_rate	16.5
+19051	Iowa	Davis	child_mortality_rate	
+19053	Iowa	Decatur	child_mortality_rate	
+19055	Iowa	Delaware	child_mortality_rate	
+19057	Iowa	Des Moines	child_mortality_rate	40.1
+19059	Iowa	Dickinson	child_mortality_rate	
+19061	Iowa	Dubuque	child_mortality_rate	46.1
+19063	Iowa	Emmet	child_mortality_rate	
+19065	Iowa	Fayette	child_mortality_rate	
+19067	Iowa	Floyd	child_mortality_rate	70
+19069	Iowa	Franklin	child_mortality_rate	
+19071	Iowa	Fremont	child_mortality_rate	
+19073	Iowa	Greene	child_mortality_rate	
+19075	Iowa	Grundy	child_mortality_rate	
+19077	Iowa	Guthrie	child_mortality_rate	
+19079	Iowa	Hamilton	child_mortality_rate	71.9
+19081	Iowa	Hancock	child_mortality_rate	
+19083	Iowa	Hardin	child_mortality_rate	
+19085	Iowa	Harrison	child_mortality_rate	
+19087	Iowa	Henry	child_mortality_rate	
+19089	Iowa	Howard	child_mortality_rate	
+19091	Iowa	Humboldt	child_mortality_rate	
+19093	Iowa	Ida	child_mortality_rate	
+19095	Iowa	Iowa	child_mortality_rate	
+19097	Iowa	Jackson	child_mortality_rate	
+19099	Iowa	Jasper	child_mortality_rate	49.5
+19101	Iowa	Jefferson	child_mortality_rate	
+19103	Iowa	Johnson	child_mortality_rate	54.3
+19105	Iowa	Jones	child_mortality_rate	
+19107	Iowa	Keokuk	child_mortality_rate	
+19109	Iowa	Kossuth	child_mortality_rate	
+19111	Iowa	Lee	child_mortality_rate	52.5
+19113	Iowa	Linn	child_mortality_rate	40.6
+19115	Iowa	Louisa	child_mortality_rate	80.9
+19117	Iowa	Lucas	child_mortality_rate	
+19119	Iowa	Lyon	child_mortality_rate	
+19121	Iowa	Madison	child_mortality_rate	
+19123	Iowa	Mahaska	child_mortality_rate	
+19125	Iowa	Marion	child_mortality_rate	50.6
+19127	Iowa	Marshall	child_mortality_rate	36.7
+19129	Iowa	Mills	child_mortality_rate	
+19131	Iowa	Mitchell	child_mortality_rate	
+19133	Iowa	Monona	child_mortality_rate	
+19135	Iowa	Monroe	child_mortality_rate	
+19137	Iowa	Montgomery	child_mortality_rate	
+19139	Iowa	Muscatine	child_mortality_rate	
+19141	Iowa	O'Brien	child_mortality_rate	
+19143	Iowa	Osceola	child_mortality_rate	
+19145	Iowa	Page	child_mortality_rate	
+19147	Iowa	Palo Alto	child_mortality_rate	
+19149	Iowa	Plymouth	child_mortality_rate	
+19151	Iowa	Pocahontas	child_mortality_rate	
+19153	Iowa	Polk	child_mortality_rate	55.9
+19155	Iowa	Pottawattamie	child_mortality_rate	54.5
+19157	Iowa	Poweshiek	child_mortality_rate	
+19159	Iowa	Ringgold	child_mortality_rate	
+19161	Iowa	Sac	child_mortality_rate	
+19163	Iowa	Scott	child_mortality_rate	50.9
+19165	Iowa	Shelby	child_mortality_rate	
+19167	Iowa	Sioux	child_mortality_rate	67
+19169	Iowa	Story	child_mortality_rate	41.5
+19171	Iowa	Tama	child_mortality_rate	
+19173	Iowa	Taylor	child_mortality_rate	
+19175	Iowa	Union	child_mortality_rate	94.5
+19177	Iowa	Van Buren	child_mortality_rate	
+19179	Iowa	Wapello	child_mortality_rate	58.4
+19181	Iowa	Warren	child_mortality_rate	42.1
+19183	Iowa	Washington	child_mortality_rate	
+19185	Iowa	Wayne	child_mortality_rate	
+19187	Iowa	Webster	child_mortality_rate	58.2
+19189	Iowa	Winnebago	child_mortality_rate	
+19191	Iowa	Winneshiek	child_mortality_rate	
+19193	Iowa	Woodbury	child_mortality_rate	52.7
+19195	Iowa	Worth	child_mortality_rate	
+19197	Iowa	Wright	child_mortality_rate	
+20001	Kansas	Allen	child_mortality_rate	
+20003	Kansas	Anderson	child_mortality_rate	
+20005	Kansas	Atchison	child_mortality_rate	
+20007	Kansas	Barber	child_mortality_rate	
+20009	Kansas	Barton	child_mortality_rate	48.4
+20011	Kansas	Bourbon	child_mortality_rate	77.1
+20013	Kansas	Brown	child_mortality_rate	99.4
+20015	Kansas	Butler	child_mortality_rate	59.5
+20017	Kansas	Chase	child_mortality_rate	
+20019	Kansas	Chautauqua	child_mortality_rate	
+20021	Kansas	Cherokee	child_mortality_rate	59.5
+20023	Kansas	Cheyenne	child_mortality_rate	
+20025	Kansas	Clark	child_mortality_rate	
+20027	Kansas	Clay	child_mortality_rate	
+20029	Kansas	Cloud	child_mortality_rate	130.6
+20031	Kansas	Coffey	child_mortality_rate	
+20033	Kansas	Comanche	child_mortality_rate	
+20035	Kansas	Cowley	child_mortality_rate	95
+20037	Kansas	Crawford	child_mortality_rate	57.8
+20039	Kansas	Decatur	child_mortality_rate	
+20041	Kansas	Dickinson	child_mortality_rate	76.5
+20043	Kansas	Doniphan	child_mortality_rate	
+20045	Kansas	Douglas	child_mortality_rate	45.5
+20047	Kansas	Edwards	child_mortality_rate	
+20049	Kansas	Elk	child_mortality_rate	
+20051	Kansas	Ellis	child_mortality_rate	43.2
+20053	Kansas	Ellsworth	child_mortality_rate	
+20055	Kansas	Finney	child_mortality_rate	67.5
+20057	Kansas	Ford	child_mortality_rate	91.7
+20059	Kansas	Franklin	child_mortality_rate	51.5
+20061	Kansas	Geary	child_mortality_rate	125.2
+20063	Kansas	Gove	child_mortality_rate	
+20065	Kansas	Graham	child_mortality_rate	
+20067	Kansas	Grant	child_mortality_rate	112.6
+20069	Kansas	Gray	child_mortality_rate	
+20071	Kansas	Greeley	child_mortality_rate	
+20073	Kansas	Greenwood	child_mortality_rate	
+20075	Kansas	Hamilton	child_mortality_rate	
+20077	Kansas	Harper	child_mortality_rate	
+20079	Kansas	Harvey	child_mortality_rate	54.4
+20081	Kansas	Haskell	child_mortality_rate	
+20083	Kansas	Hodgeman	child_mortality_rate	
+20085	Kansas	Jackson	child_mortality_rate	
+20087	Kansas	Jefferson	child_mortality_rate	63.1
+20089	Kansas	Jewell	child_mortality_rate	
+20091	Kansas	Johnson	child_mortality_rate	47.1
+20093	Kansas	Kearny	child_mortality_rate	
+20095	Kansas	Kingman	child_mortality_rate	
+20097	Kansas	Kiowa	child_mortality_rate	
+20099	Kansas	Labette	child_mortality_rate	74.6
+20101	Kansas	Lane	child_mortality_rate	
+20103	Kansas	Leavenworth	child_mortality_rate	43.6
+20105	Kansas	Lincoln	child_mortality_rate	
+20107	Kansas	Linn	child_mortality_rate	
+20109	Kansas	Logan	child_mortality_rate	
+20111	Kansas	Lyon	child_mortality_rate	68.8
+20113	Kansas	McPherson	child_mortality_rate	50.4
+20115	Kansas	Marion	child_mortality_rate	103.5
+20117	Kansas	Marshall	child_mortality_rate	
+20119	Kansas	Meade	child_mortality_rate	
+20121	Kansas	Miami	child_mortality_rate	48.5
+20123	Kansas	Mitchell	child_mortality_rate	
+20125	Kansas	Montgomery	child_mortality_rate	44.3
+20127	Kansas	Morris	child_mortality_rate	
+20129	Kansas	Morton	child_mortality_rate	
+20131	Kansas	Nemaha	child_mortality_rate	
+20133	Kansas	Neosho	child_mortality_rate	121.6
+20135	Kansas	Ness	child_mortality_rate	
+20137	Kansas	Norton	child_mortality_rate	
+20139	Kansas	Osage	child_mortality_rate	84.3
+20141	Kansas	Osborne	child_mortality_rate	
+20143	Kansas	Ottawa	child_mortality_rate	
+20145	Kansas	Pawnee	child_mortality_rate	
+20147	Kansas	Phillips	child_mortality_rate	
+20149	Kansas	Pottawatomie	child_mortality_rate	48.6
+20151	Kansas	Pratt	child_mortality_rate	
+20153	Kansas	Rawlins	child_mortality_rate	
+20155	Kansas	Reno	child_mortality_rate	64.6
+20157	Kansas	Republic	child_mortality_rate	
+20159	Kansas	Rice	child_mortality_rate	
+20161	Kansas	Riley	child_mortality_rate	61.4
+20163	Kansas	Rooks	child_mortality_rate	
+20165	Kansas	Rush	child_mortality_rate	
+20167	Kansas	Russell	child_mortality_rate	
+20169	Kansas	Saline	child_mortality_rate	69.1
+20171	Kansas	Scott	child_mortality_rate	
+20173	Kansas	Sedgwick	child_mortality_rate	73.2
+20175	Kansas	Seward	child_mortality_rate	82.8
+20177	Kansas	Shawnee	child_mortality_rate	68.9
+20179	Kansas	Sheridan	child_mortality_rate	
+20181	Kansas	Sherman	child_mortality_rate	
+20183	Kansas	Smith	child_mortality_rate	
+20185	Kansas	Stafford	child_mortality_rate	
+20187	Kansas	Stanton	child_mortality_rate	
+20189	Kansas	Stevens	child_mortality_rate	
+20191	Kansas	Sumner	child_mortality_rate	62.6
+20193	Kansas	Thomas	child_mortality_rate	177.9
+20195	Kansas	Trego	child_mortality_rate	
+20197	Kansas	Wabaunsee	child_mortality_rate	
+20199	Kansas	Wallace	child_mortality_rate	
+20201	Kansas	Washington	child_mortality_rate	
+20203	Kansas	Wichita	child_mortality_rate	
+20205	Kansas	Wilson	child_mortality_rate	
+20207	Kansas	Woodson	child_mortality_rate	
+20209	Kansas	Wyandotte	child_mortality_rate	86.9
+21001	Kentucky	Adair	child_mortality_rate	
+21003	Kentucky	Allen	child_mortality_rate	56.2
+21005	Kentucky	Anderson	child_mortality_rate	86.9
+21007	Kentucky	Ballard	child_mortality_rate	
+21009	Kentucky	Barren	child_mortality_rate	61.6
+21011	Kentucky	Bath	child_mortality_rate	95.2
+21013	Kentucky	Bell	child_mortality_rate	102.7
+21015	Kentucky	Boone	child_mortality_rate	48.7
+21017	Kentucky	Bourbon	child_mortality_rate	78.5
+21019	Kentucky	Boyd	child_mortality_rate	49.7
+21021	Kentucky	Boyle	child_mortality_rate	
+21023	Kentucky	Bracken	child_mortality_rate	
+21025	Kentucky	Breathitt	child_mortality_rate	159.2
+21027	Kentucky	Breckinridge	child_mortality_rate	71.6
+21029	Kentucky	Bullitt	child_mortality_rate	37.4
+21031	Kentucky	Butler	child_mortality_rate	110.8
+21033	Kentucky	Caldwell	child_mortality_rate	87.2
+21035	Kentucky	Calloway	child_mortality_rate	45.2
+21037	Kentucky	Campbell	child_mortality_rate	45
+21039	Kentucky	Carlisle	child_mortality_rate	
+21041	Kentucky	Carroll	child_mortality_rate	
+21043	Kentucky	Carter	child_mortality_rate	65.1
+21045	Kentucky	Casey	child_mortality_rate	99.3
+21047	Kentucky	Christian	child_mortality_rate	89.1
+21049	Kentucky	Clark	child_mortality_rate	71.3
+21051	Kentucky	Clay	child_mortality_rate	100.5
+21053	Kentucky	Clinton	child_mortality_rate	
+21055	Kentucky	Crittenden	child_mortality_rate	
+21057	Kentucky	Cumberland	child_mortality_rate	
+21059	Kentucky	Daviess	child_mortality_rate	71.3
+21061	Kentucky	Edmonson	child_mortality_rate	
+21063	Kentucky	Elliott	child_mortality_rate	
+21065	Kentucky	Estill	child_mortality_rate	131.7
+21067	Kentucky	Fayette	child_mortality_rate	68.8
+21069	Kentucky	Fleming	child_mortality_rate	84.5
+21071	Kentucky	Floyd	child_mortality_rate	80.6
+21073	Kentucky	Franklin	child_mortality_rate	65
+21075	Kentucky	Fulton	child_mortality_rate	
+21077	Kentucky	Gallatin	child_mortality_rate	109.5
+21079	Kentucky	Garrard	child_mortality_rate	
+21081	Kentucky	Grant	child_mortality_rate	53.4
+21083	Kentucky	Graves	child_mortality_rate	63.9
+21085	Kentucky	Grayson	child_mortality_rate	52.8
+21087	Kentucky	Green	child_mortality_rate	
+21089	Kentucky	Greenup	child_mortality_rate	47.4
+21091	Kentucky	Hancock	child_mortality_rate	
+21093	Kentucky	Hardin	child_mortality_rate	52.3
+21095	Kentucky	Harlan	child_mortality_rate	87.7
+21097	Kentucky	Harrison	child_mortality_rate	102.2
+21099	Kentucky	Hart	child_mortality_rate	
+21101	Kentucky	Henderson	child_mortality_rate	60.2
+21103	Kentucky	Henry	child_mortality_rate	
+21105	Kentucky	Hickman	child_mortality_rate	
+21107	Kentucky	Hopkins	child_mortality_rate	79.9
+21109	Kentucky	Jackson	child_mortality_rate	92.7
+21111	Kentucky	Jefferson	child_mortality_rate	60.9
+21113	Kentucky	Jessamine	child_mortality_rate	42.3
+21115	Kentucky	Johnson	child_mortality_rate	99.7
+21117	Kentucky	Kenton	child_mortality_rate	75.2
+21119	Kentucky	Knott	child_mortality_rate	82.9
+21121	Kentucky	Knox	child_mortality_rate	91.8
+21123	Kentucky	Larue	child_mortality_rate	
+21125	Kentucky	Laurel	child_mortality_rate	60.9
+21127	Kentucky	Lawrence	child_mortality_rate	107.1
+21129	Kentucky	Lee	child_mortality_rate	
+21131	Kentucky	Leslie	child_mortality_rate	110.6
+21133	Kentucky	Letcher	child_mortality_rate	45.9
+21135	Kentucky	Lewis	child_mortality_rate	74.2
+21137	Kentucky	Lincoln	child_mortality_rate	108.5
+21139	Kentucky	Livingston	child_mortality_rate	
+21141	Kentucky	Logan	child_mortality_rate	75.3
+21143	Kentucky	Lyon	child_mortality_rate	
+21145	Kentucky	McCracken	child_mortality_rate	79.6
+21147	Kentucky	McCreary	child_mortality_rate	76.8
+21149	Kentucky	McLean	child_mortality_rate	
+21151	Kentucky	Madison	child_mortality_rate	45.2
+21153	Kentucky	Magoffin	child_mortality_rate	
+21155	Kentucky	Marion	child_mortality_rate	
+21157	Kentucky	Marshall	child_mortality_rate	37.8
+21159	Kentucky	Martin	child_mortality_rate	
+21161	Kentucky	Mason	child_mortality_rate	139.3
+21163	Kentucky	Meade	child_mortality_rate	34.8
+21165	Kentucky	Menifee	child_mortality_rate	
+21167	Kentucky	Mercer	child_mortality_rate	69.4
+21169	Kentucky	Metcalfe	child_mortality_rate	
+21171	Kentucky	Monroe	child_mortality_rate	
+21173	Kentucky	Montgomery	child_mortality_rate	81.6
+21175	Kentucky	Morgan	child_mortality_rate	
+21177	Kentucky	Muhlenberg	child_mortality_rate	120.2
+21179	Kentucky	Nelson	child_mortality_rate	53.3
+21181	Kentucky	Nicholas	child_mortality_rate	
+21183	Kentucky	Ohio	child_mortality_rate	58.7
+21185	Kentucky	Oldham	child_mortality_rate	31.7
+21187	Kentucky	Owen	child_mortality_rate	
+21189	Kentucky	Owsley	child_mortality_rate	
+21191	Kentucky	Pendleton	child_mortality_rate	112.9
+21193	Kentucky	Perry	child_mortality_rate	90.6
+21195	Kentucky	Pike	child_mortality_rate	81.1
+21197	Kentucky	Powell	child_mortality_rate	86.8
+21199	Kentucky	Pulaski	child_mortality_rate	73.8
+21201	Kentucky	Robertson	child_mortality_rate	
+21203	Kentucky	Rockcastle	child_mortality_rate	
+21205	Kentucky	Rowan	child_mortality_rate	
+21207	Kentucky	Russell	child_mortality_rate	83.2
+21209	Kentucky	Scott	child_mortality_rate	36.8
+21211	Kentucky	Shelby	child_mortality_rate	58.2
+21213	Kentucky	Simpson	child_mortality_rate	
+21215	Kentucky	Spencer	child_mortality_rate	
+21217	Kentucky	Taylor	child_mortality_rate	78
+21219	Kentucky	Todd	child_mortality_rate	81.6
+21221	Kentucky	Trigg	child_mortality_rate	101.4
+21223	Kentucky	Trimble	child_mortality_rate	
+21225	Kentucky	Union	child_mortality_rate	78.6
+21227	Kentucky	Warren	child_mortality_rate	49.5
+21229	Kentucky	Washington	child_mortality_rate	
+21231	Kentucky	Wayne	child_mortality_rate	73.1
+21233	Kentucky	Webster	child_mortality_rate	
+21235	Kentucky	Whitley	child_mortality_rate	74.1
+21237	Kentucky	Wolfe	child_mortality_rate	
+21239	Kentucky	Woodford	child_mortality_rate	
+22001	Louisiana	Acadia	child_mortality_rate	80.3
+22003	Louisiana	Allen	child_mortality_rate	42.1
+22005	Louisiana	Ascension	child_mortality_rate	70.3
+22007	Louisiana	Assumption	child_mortality_rate	68.1
+22009	Louisiana	Avoyelles	child_mortality_rate	75.4
+22011	Louisiana	Beauregard	child_mortality_rate	54.3
+22013	Louisiana	Bienville	child_mortality_rate	190.9
+22015	Louisiana	Bossier	child_mortality_rate	66.7
+22017	Louisiana	Caddo	child_mortality_rate	128.4
+22019	Louisiana	Calcasieu	child_mortality_rate	80
+22021	Louisiana	Caldwell	child_mortality_rate	
+22023	Louisiana	Cameron	child_mortality_rate	
+22025	Louisiana	Catahoula	child_mortality_rate	
+22027	Louisiana	Claiborne	child_mortality_rate	78.6
+22029	Louisiana	Concordia	child_mortality_rate	130.3
+22031	Louisiana	De Soto	child_mortality_rate	108.8
+22033	Louisiana	East Baton Rouge	child_mortality_rate	97.3
+22035	Louisiana	East Carroll	child_mortality_rate	190.8
+22037	Louisiana	East Feliciana	child_mortality_rate	91.7
+22039	Louisiana	Evangeline	child_mortality_rate	93.8
+22041	Louisiana	Franklin	child_mortality_rate	70.9
+22043	Louisiana	Grant	child_mortality_rate	111.9
+22045	Louisiana	Iberia	child_mortality_rate	79.3
+22047	Louisiana	Iberville	child_mortality_rate	81
+22049	Louisiana	Jackson	child_mortality_rate	80.4
+22051	Louisiana	Jefferson	child_mortality_rate	74.9
+22053	Louisiana	Jefferson Davis	child_mortality_rate	91.7
+22055	Louisiana	Lafayette	child_mortality_rate	66.7
+22057	Louisiana	Lafourche	child_mortality_rate	73.7
+22059	Louisiana	La Salle	child_mortality_rate	
+22061	Louisiana	Lincoln	child_mortality_rate	79.8
+22063	Louisiana	Livingston	child_mortality_rate	54
+22065	Louisiana	Madison	child_mortality_rate	135.5
+22067	Louisiana	Morehouse	child_mortality_rate	74.5
+22069	Louisiana	Natchitoches	child_mortality_rate	67.4
+22071	Louisiana	Orleans	child_mortality_rate	106.1
+22073	Louisiana	Ouachita	child_mortality_rate	99.1
+22075	Louisiana	Plaquemines	child_mortality_rate	59.3
+22077	Louisiana	Pointe Coupee	child_mortality_rate	99.6
+22079	Louisiana	Rapides	child_mortality_rate	83.3
+22081	Louisiana	Red River	child_mortality_rate	136.5
+22083	Louisiana	Richland	child_mortality_rate	84.6
+22085	Louisiana	Sabine	child_mortality_rate	58.8
+22087	Louisiana	St. Bernard	child_mortality_rate	62.6
+22089	Louisiana	St. Charles	child_mortality_rate	52.1
+22091	Louisiana	St. Helena	child_mortality_rate	
+22093	Louisiana	St. James	child_mortality_rate	
+22095	Louisiana	St. John the Baptist	child_mortality_rate	79.7
+22097	Louisiana	St. Landry	child_mortality_rate	79.5
+22099	Louisiana	St. Martin	child_mortality_rate	83.3
+22101	Louisiana	St. Mary	child_mortality_rate	71.1
+22103	Louisiana	St. Tammany	child_mortality_rate	50.8
+22105	Louisiana	Tangipahoa	child_mortality_rate	99.3
+22107	Louisiana	Tensas	child_mortality_rate	187.7
+22109	Louisiana	Terrebonne	child_mortality_rate	81.3
+22111	Louisiana	Union	child_mortality_rate	79.7
+22113	Louisiana	Vermilion	child_mortality_rate	53.6
+22115	Louisiana	Vernon	child_mortality_rate	66.6
+22117	Louisiana	Washington	child_mortality_rate	98.4
+22119	Louisiana	Webster	child_mortality_rate	104.7
+22121	Louisiana	West Baton Rouge	child_mortality_rate	80.1
+22123	Louisiana	West Carroll	child_mortality_rate	95.1
+22125	Louisiana	West Feliciana	child_mortality_rate	
+22127	Louisiana	Winn	child_mortality_rate	
+23001	Maine	Androscoggin	child_mortality_rate	56
+23003	Maine	Aroostook	child_mortality_rate	49.2
+23005	Maine	Cumberland	child_mortality_rate	44.7
+23007	Maine	Franklin	child_mortality_rate	56.2
+23009	Maine	Hancock	child_mortality_rate	34.4
+23011	Maine	Kennebec	child_mortality_rate	44.3
+23013	Maine	Knox	child_mortality_rate	63.4
+23015	Maine	Lincoln	child_mortality_rate	48.6
+23017	Maine	Oxford	child_mortality_rate	33.7
+23019	Maine	Penobscot	child_mortality_rate	49.4
+23021	Maine	Piscataquis	child_mortality_rate	
+23023	Maine	Sagadahoc	child_mortality_rate	
+23025	Maine	Somerset	child_mortality_rate	57
+23027	Maine	Waldo	child_mortality_rate	54.6
+23029	Maine	Washington	child_mortality_rate	59.5
+23031	Maine	York	child_mortality_rate	44
+24001	Maryland	Allegany	child_mortality_rate	60.1
+24003	Maryland	Anne Arundel	child_mortality_rate	53.2
+24005	Maryland	Baltimore	child_mortality_rate	59.2
+24009	Maryland	Calvert	child_mortality_rate	43.2
+24011	Maryland	Caroline	child_mortality_rate	86.4
+24013	Maryland	Carroll	child_mortality_rate	37.1
+24015	Maryland	Cecil	child_mortality_rate	50.4
+24017	Maryland	Charles	child_mortality_rate	55.2
+24019	Maryland	Dorchester	child_mortality_rate	133.3
+24021	Maryland	Frederick	child_mortality_rate	40
+24023	Maryland	Garrett	child_mortality_rate	58.7
+24025	Maryland	Harford	child_mortality_rate	42.4
+24027	Maryland	Howard	child_mortality_rate	37.2
+24029	Maryland	Kent	child_mortality_rate	
+24031	Maryland	Montgomery	child_mortality_rate	43.4
+24033	Maryland	Prince George's	child_mortality_rate	85.9
+24035	Maryland	Queen Anne's	child_mortality_rate	52
+24037	Maryland	St. Mary's	child_mortality_rate	66.3
+24039	Maryland	Somerset	child_mortality_rate	81.8
+24041	Maryland	Talbot	child_mortality_rate	40.9
+24043	Maryland	Washington	child_mortality_rate	53.2
+24045	Maryland	Wicomico	child_mortality_rate	65.8
+24047	Maryland	Worcester	child_mortality_rate	58.1
+24510	Maryland	Baltimore City	child_mortality_rate	126.6
+25001	Massachusetts	Barnstable	child_mortality_rate	35.7
+25003	Massachusetts	Berkshire	child_mortality_rate	36.3
+25005	Massachusetts	Bristol	child_mortality_rate	43.5
+25007	Massachusetts	Dukes	child_mortality_rate	
+25009	Massachusetts	Essex	child_mortality_rate	33.3
+25011	Massachusetts	Franklin	child_mortality_rate	39.9
+25013	Massachusetts	Hampden	child_mortality_rate	50.1
+25015	Massachusetts	Hampshire	child_mortality_rate	28.4
+25017	Massachusetts	Middlesex	child_mortality_rate	33.6
+25019	Massachusetts	Nantucket	child_mortality_rate	
+25021	Massachusetts	Norfolk	child_mortality_rate	29.9
+25023	Massachusetts	Plymouth	child_mortality_rate	37.2
+25025	Massachusetts	Suffolk	child_mortality_rate	62
+25027	Massachusetts	Worcester	child_mortality_rate	41.1
+26001	Michigan	Alcona	child_mortality_rate	
+26003	Michigan	Alger	child_mortality_rate	
+26005	Michigan	Allegan	child_mortality_rate	53
+26007	Michigan	Alpena	child_mortality_rate	51.2
+26009	Michigan	Antrim	child_mortality_rate	63.5
+26011	Michigan	Arenac	child_mortality_rate	
+26013	Michigan	Baraga	child_mortality_rate	
+26015	Michigan	Barry	child_mortality_rate	57
+26017	Michigan	Bay	child_mortality_rate	55.3
+26019	Michigan	Benzie	child_mortality_rate	
+26021	Michigan	Berrien	child_mortality_rate	67.5
+26023	Michigan	Branch	child_mortality_rate	42.9
+26025	Michigan	Calhoun	child_mortality_rate	75.2
+26027	Michigan	Cass	child_mortality_rate	56.2
+26029	Michigan	Charlevoix	child_mortality_rate	42
+26031	Michigan	Cheboygan	child_mortality_rate	
+26033	Michigan	Chippewa	child_mortality_rate	58.4
+26035	Michigan	Clare	child_mortality_rate	57
+26037	Michigan	Clinton	child_mortality_rate	34.6
+26039	Michigan	Crawford	child_mortality_rate	
+26041	Michigan	Delta	child_mortality_rate	47.7
+26043	Michigan	Dickinson	child_mortality_rate	47.3
+26045	Michigan	Eaton	child_mortality_rate	41.1
+26047	Michigan	Emmet	child_mortality_rate	
+26049	Michigan	Genesee	child_mortality_rate	63.1
+26051	Michigan	Gladwin	child_mortality_rate	47.1
+26053	Michigan	Gogebic	child_mortality_rate	
+26055	Michigan	Grand Traverse	child_mortality_rate	47.5
+26057	Michigan	Gratiot	child_mortality_rate	61.5
+26059	Michigan	Hillsdale	child_mortality_rate	46.4
+26061	Michigan	Houghton	child_mortality_rate	49.9
+26063	Michigan	Huron	child_mortality_rate	35.5
+26065	Michigan	Ingham	child_mortality_rate	55.9
+26067	Michigan	Ionia	child_mortality_rate	42.3
+26069	Michigan	Iosco	child_mortality_rate	52
+26071	Michigan	Iron	child_mortality_rate	
+26073	Michigan	Isabella	child_mortality_rate	49.4
+26075	Michigan	Jackson	child_mortality_rate	55.8
+26077	Michigan	Kalamazoo	child_mortality_rate	65.3
+26079	Michigan	Kalkaska	child_mortality_rate	61.8
+26081	Michigan	Kent	child_mortality_rate	56.3
+26083	Michigan	Keweenaw	child_mortality_rate	
+26085	Michigan	Lake	child_mortality_rate	
+26087	Michigan	Lapeer	child_mortality_rate	48.1
+26089	Michigan	Leelanau	child_mortality_rate	
+26091	Michigan	Lenawee	child_mortality_rate	62.8
+26093	Michigan	Livingston	child_mortality_rate	37.3
+26095	Michigan	Luce	child_mortality_rate	
+26097	Michigan	Mackinac	child_mortality_rate	
+26099	Michigan	Macomb	child_mortality_rate	49
+26101	Michigan	Manistee	child_mortality_rate	
+26103	Michigan	Marquette	child_mortality_rate	36
+26105	Michigan	Mason	child_mortality_rate	59.1
+26107	Michigan	Mecosta	child_mortality_rate	74.6
+26109	Michigan	Menominee	child_mortality_rate	
+26111	Michigan	Midland	child_mortality_rate	36.9
+26113	Michigan	Missaukee	child_mortality_rate	
+26115	Michigan	Monroe	child_mortality_rate	42.4
+26117	Michigan	Montcalm	child_mortality_rate	50.8
+26119	Michigan	Montmorency	child_mortality_rate	
+26121	Michigan	Muskegon	child_mortality_rate	60.5
+26123	Michigan	Newaygo	child_mortality_rate	55.7
+26125	Michigan	Oakland	child_mortality_rate	45.1
+26127	Michigan	Oceana	child_mortality_rate	69.7
+26129	Michigan	Ogemaw	child_mortality_rate	60.5
+26131	Michigan	Ontonagon	child_mortality_rate	
+26133	Michigan	Osceola	child_mortality_rate	59.3
+26135	Michigan	Oscoda	child_mortality_rate	
+26137	Michigan	Otsego	child_mortality_rate	87.5
+26139	Michigan	Ottawa	child_mortality_rate	44.2
+26141	Michigan	Presque Isle	child_mortality_rate	102.1
+26143	Michigan	Roscommon	child_mortality_rate	84.9
+26145	Michigan	Saginaw	child_mortality_rate	75
+26147	Michigan	St. Clair	child_mortality_rate	43.7
+26149	Michigan	St. Joseph	child_mortality_rate	79
+26151	Michigan	Sanilac	child_mortality_rate	49.6
+26153	Michigan	Schoolcraft	child_mortality_rate	
+26155	Michigan	Shiawassee	child_mortality_rate	42.4
+26157	Michigan	Tuscola	child_mortality_rate	42.4
+26159	Michigan	Van Buren	child_mortality_rate	46.9
+26161	Michigan	Washtenaw	child_mortality_rate	47.1
+26163	Michigan	Wayne	child_mortality_rate	80.8
+26165	Michigan	Wexford	child_mortality_rate	55.5
+27001	Minnesota	Aitkin	child_mortality_rate	
+27003	Minnesota	Anoka	child_mortality_rate	39.7
+27005	Minnesota	Becker	child_mortality_rate	75.6
+27007	Minnesota	Beltrami	child_mortality_rate	73.9
+27009	Minnesota	Benton	child_mortality_rate	36.6
+27011	Minnesota	Big Stone	child_mortality_rate	
+27013	Minnesota	Blue Earth	child_mortality_rate	49.1
+27015	Minnesota	Brown	child_mortality_rate	43
+27017	Minnesota	Carlton	child_mortality_rate	62.8
+27019	Minnesota	Carver	child_mortality_rate	34.3
+27021	Minnesota	Cass	child_mortality_rate	67.4
+27023	Minnesota	Chippewa	child_mortality_rate	
+27025	Minnesota	Chisago	child_mortality_rate	33.8
+27027	Minnesota	Clay	child_mortality_rate	56.2
+27029	Minnesota	Clearwater	child_mortality_rate	
+27031	Minnesota	Cook	child_mortality_rate	
+27033	Minnesota	Cottonwood	child_mortality_rate	
+27035	Minnesota	Crow Wing	child_mortality_rate	29.3
+27037	Minnesota	Dakota	child_mortality_rate	31.3
+27039	Minnesota	Dodge	child_mortality_rate	
+27041	Minnesota	Douglas	child_mortality_rate	
+27043	Minnesota	Faribault	child_mortality_rate	
+27045	Minnesota	Fillmore	child_mortality_rate	63.4
+27047	Minnesota	Freeborn	child_mortality_rate	50.6
+27049	Minnesota	Goodhue	child_mortality_rate	43.3
+27051	Minnesota	Grant	child_mortality_rate	
+27053	Minnesota	Hennepin	child_mortality_rate	53.9
+27055	Minnesota	Houston	child_mortality_rate	66.4
+27057	Minnesota	Hubbard	child_mortality_rate	61.4
+27059	Minnesota	Isanti	child_mortality_rate	30
+27061	Minnesota	Itasca	child_mortality_rate	45.4
+27063	Minnesota	Jackson	child_mortality_rate	
+27065	Minnesota	Kanabec	child_mortality_rate	
+27067	Minnesota	Kandiyohi	child_mortality_rate	53.9
+27069	Minnesota	Kittson	child_mortality_rate	
+27071	Minnesota	Koochiching	child_mortality_rate	
+27073	Minnesota	Lac qui Parle	child_mortality_rate	
+27075	Minnesota	Lake	child_mortality_rate	
+27077	Minnesota	Lake of the Woods	child_mortality_rate	
+27079	Minnesota	Le Sueur	child_mortality_rate	34.9
+27081	Minnesota	Lincoln	child_mortality_rate	
+27083	Minnesota	Lyon	child_mortality_rate	76.2
+27085	Minnesota	McLeod	child_mortality_rate	
+27087	Minnesota	Mahnomen	child_mortality_rate	
+27089	Minnesota	Marshall	child_mortality_rate	
+27091	Minnesota	Martin	child_mortality_rate	
+27093	Minnesota	Meeker	child_mortality_rate	66.9
+27095	Minnesota	Mille Lacs	child_mortality_rate	78.2
+27097	Minnesota	Morrison	child_mortality_rate	54.6
+27099	Minnesota	Mower	child_mortality_rate	56.2
+27101	Minnesota	Murray	child_mortality_rate	
+27103	Minnesota	Nicollet	child_mortality_rate	48
+27105	Minnesota	Nobles	child_mortality_rate	45.8
+27107	Minnesota	Norman	child_mortality_rate	
+27109	Minnesota	Olmsted	child_mortality_rate	54.1
+27111	Minnesota	Otter Tail	child_mortality_rate	23.7
+27113	Minnesota	Pennington	child_mortality_rate	
+27115	Minnesota	Pine	child_mortality_rate	63.9
+27117	Minnesota	Pipestone	child_mortality_rate	
+27119	Minnesota	Polk	child_mortality_rate	50.4
+27121	Minnesota	Pope	child_mortality_rate	
+27123	Minnesota	Ramsey	child_mortality_rate	62.7
+27125	Minnesota	Red Lake	child_mortality_rate	
+27127	Minnesota	Redwood	child_mortality_rate	62.3
+27129	Minnesota	Renville	child_mortality_rate	
+27131	Minnesota	Rice	child_mortality_rate	41.2
+27133	Minnesota	Rock	child_mortality_rate	
+27135	Minnesota	Roseau	child_mortality_rate	
+27137	Minnesota	St. Louis	child_mortality_rate	45.4
+27139	Minnesota	Scott	child_mortality_rate	34.9
+27141	Minnesota	Sherburne	child_mortality_rate	38.8
+27143	Minnesota	Sibley	child_mortality_rate	
+27145	Minnesota	Stearns	child_mortality_rate	36.9
+27147	Minnesota	Steele	child_mortality_rate	54.3
+27149	Minnesota	Stevens	child_mortality_rate	
+27151	Minnesota	Swift	child_mortality_rate	
+27153	Minnesota	Todd	child_mortality_rate	71.7
+27155	Minnesota	Traverse	child_mortality_rate	
+27157	Minnesota	Wabasha	child_mortality_rate	58.2
+27159	Minnesota	Wadena	child_mortality_rate	
+27161	Minnesota	Waseca	child_mortality_rate	
+27163	Minnesota	Washington	child_mortality_rate	38.2
+27165	Minnesota	Watonwan	child_mortality_rate	
+27167	Minnesota	Wilkin	child_mortality_rate	
+27169	Minnesota	Winona	child_mortality_rate	47.1
+27171	Minnesota	Wright	child_mortality_rate	36.1
+27173	Minnesota	Yellow Medicine	child_mortality_rate	
+28001	Mississippi	Adams	child_mortality_rate	114.6
+28003	Mississippi	Alcorn	child_mortality_rate	66.7
+28005	Mississippi	Amite	child_mortality_rate	82.1
+28007	Mississippi	Attala	child_mortality_rate	108.1
+28009	Mississippi	Benton	child_mortality_rate	
+28011	Mississippi	Bolivar	child_mortality_rate	134.4
+28013	Mississippi	Calhoun	child_mortality_rate	80.5
+28015	Mississippi	Carroll	child_mortality_rate	
+28017	Mississippi	Chickasaw	child_mortality_rate	
+28019	Mississippi	Choctaw	child_mortality_rate	203.2
+28021	Mississippi	Claiborne	child_mortality_rate	104.2
+28023	Mississippi	Clarke	child_mortality_rate	88.3
+28025	Mississippi	Clay	child_mortality_rate	83.4
+28027	Mississippi	Coahoma	child_mortality_rate	108.1
+28029	Mississippi	Copiah	child_mortality_rate	101
+28031	Mississippi	Covington	child_mortality_rate	96.5
+28033	Mississippi	DeSoto	child_mortality_rate	59.9
+28035	Mississippi	Forrest	child_mortality_rate	128
+28037	Mississippi	Franklin	child_mortality_rate	
+28039	Mississippi	George	child_mortality_rate	90.7
+28041	Mississippi	Greene	child_mortality_rate	
+28043	Mississippi	Grenada	child_mortality_rate	103.5
+28045	Mississippi	Hancock	child_mortality_rate	67.3
+28047	Mississippi	Harrison	child_mortality_rate	78.2
+28049	Mississippi	Hinds	child_mortality_rate	92
+28051	Mississippi	Holmes	child_mortality_rate	135
+28053	Mississippi	Humphreys	child_mortality_rate	106.8
+28055	Mississippi	Issaquena	child_mortality_rate	
+28057	Mississippi	Itawamba	child_mortality_rate	81.9
+28059	Mississippi	Jackson	child_mortality_rate	76.7
+28061	Mississippi	Jasper	child_mortality_rate	92.3
+28063	Mississippi	Jefferson	child_mortality_rate	158.6
+28065	Mississippi	Jefferson Davis	child_mortality_rate	126
+28067	Mississippi	Jones	child_mortality_rate	107.3
+28069	Mississippi	Kemper	child_mortality_rate	
+28071	Mississippi	Lafayette	child_mortality_rate	71.8
+28073	Mississippi	Lamar	child_mortality_rate	53.3
+28075	Mississippi	Lauderdale	child_mortality_rate	89.5
+28077	Mississippi	Lawrence	child_mortality_rate	158.8
+28079	Mississippi	Leake	child_mortality_rate	82.9
+28081	Mississippi	Lee	child_mortality_rate	81.7
+28083	Mississippi	Leflore	child_mortality_rate	99.7
+28085	Mississippi	Lincoln	child_mortality_rate	113.2
+28087	Mississippi	Lowndes	child_mortality_rate	93.3
+28089	Mississippi	Madison	child_mortality_rate	57.2
+28091	Mississippi	Marion	child_mortality_rate	122.4
+28093	Mississippi	Marshall	child_mortality_rate	112.3
+28095	Mississippi	Monroe	child_mortality_rate	88.9
+28097	Mississippi	Montgomery	child_mortality_rate	181.3
+28099	Mississippi	Neshoba	child_mortality_rate	91.8
+28101	Mississippi	Newton	child_mortality_rate	79.2
+28103	Mississippi	Noxubee	child_mortality_rate	78.2
+28105	Mississippi	Oktibbeha	child_mortality_rate	94.4
+28107	Mississippi	Panola	child_mortality_rate	83.9
+28109	Mississippi	Pearl River	child_mortality_rate	91.2
+28111	Mississippi	Perry	child_mortality_rate	125.3
+28113	Mississippi	Pike	child_mortality_rate	130.6
+28115	Mississippi	Pontotoc	child_mortality_rate	93.4
+28117	Mississippi	Prentiss	child_mortality_rate	83.8
+28119	Mississippi	Quitman	child_mortality_rate	165.7
+28121	Mississippi	Rankin	child_mortality_rate	80.3
+28123	Mississippi	Scott	child_mortality_rate	133.1
+28125	Mississippi	Sharkey	child_mortality_rate	225.1
+28127	Mississippi	Simpson	child_mortality_rate	136.2
+28129	Mississippi	Smith	child_mortality_rate	110.5
+28131	Mississippi	Stone	child_mortality_rate	101.4
+28133	Mississippi	Sunflower	child_mortality_rate	157.9
+28135	Mississippi	Tallahatchie	child_mortality_rate	134.2
+28137	Mississippi	Tate	child_mortality_rate	77.6
+28139	Mississippi	Tippah	child_mortality_rate	89
+28141	Mississippi	Tishomingo	child_mortality_rate	65.8
+28143	Mississippi	Tunica	child_mortality_rate	158.6
+28145	Mississippi	Union	child_mortality_rate	93.2
+28147	Mississippi	Walthall	child_mortality_rate	152.1
+28149	Mississippi	Warren	child_mortality_rate	91.2
+28151	Mississippi	Washington	child_mortality_rate	120.1
+28153	Mississippi	Wayne	child_mortality_rate	94.2
+28155	Mississippi	Webster	child_mortality_rate	147.2
+28157	Mississippi	Wilkinson	child_mortality_rate	162
+28159	Mississippi	Winston	child_mortality_rate	83
+28161	Mississippi	Yalobusha	child_mortality_rate	80.3
+28163	Mississippi	Yazoo	child_mortality_rate	65.9
+29001	Missouri	Adair	child_mortality_rate	56.1
+29003	Missouri	Andrew	child_mortality_rate	
+29005	Missouri	Atchison	child_mortality_rate	
+29007	Missouri	Audrain	child_mortality_rate	62.2
+29009	Missouri	Barry	child_mortality_rate	61.5
+29011	Missouri	Barton	child_mortality_rate	
+29013	Missouri	Bates	child_mortality_rate	81.3
+29015	Missouri	Benton	child_mortality_rate	78.5
+29017	Missouri	Bollinger	child_mortality_rate	
+29019	Missouri	Boone	child_mortality_rate	54.4
+29021	Missouri	Buchanan	child_mortality_rate	76.5
+29023	Missouri	Butler	child_mortality_rate	95.4
+29025	Missouri	Caldwell	child_mortality_rate	
+29027	Missouri	Callaway	child_mortality_rate	76.3
+29029	Missouri	Camden	child_mortality_rate	48.1
+29031	Missouri	Cape Girardeau	child_mortality_rate	75.8
+29033	Missouri	Carroll	child_mortality_rate	
+29035	Missouri	Carter	child_mortality_rate	
+29037	Missouri	Cass	child_mortality_rate	39.9
+29039	Missouri	Cedar	child_mortality_rate	119.4
+29041	Missouri	Chariton	child_mortality_rate	
+29043	Missouri	Christian	child_mortality_rate	46
+29045	Missouri	Clark	child_mortality_rate	172.5
+29047	Missouri	Clay	child_mortality_rate	50.8
+29049	Missouri	Clinton	child_mortality_rate	62.9
+29051	Missouri	Cole	child_mortality_rate	68.8
+29053	Missouri	Cooper	child_mortality_rate	
+29055	Missouri	Crawford	child_mortality_rate	57.3
+29057	Missouri	Dade	child_mortality_rate	
+29059	Missouri	Dallas	child_mortality_rate	76.7
+29061	Missouri	Daviess	child_mortality_rate	
+29063	Missouri	DeKalb	child_mortality_rate	
+29065	Missouri	Dent	child_mortality_rate	117.1
+29067	Missouri	Douglas	child_mortality_rate	86.8
+29069	Missouri	Dunklin	child_mortality_rate	79.5
+29071	Missouri	Franklin	child_mortality_rate	73.7
+29073	Missouri	Gasconade	child_mortality_rate	101.4
+29075	Missouri	Gentry	child_mortality_rate	
+29077	Missouri	Greene	child_mortality_rate	62.3
+29079	Missouri	Grundy	child_mortality_rate	
+29081	Missouri	Harrison	child_mortality_rate	
+29083	Missouri	Henry	child_mortality_rate	65.1
+29085	Missouri	Hickory	child_mortality_rate	
+29087	Missouri	Holt	child_mortality_rate	
+29089	Missouri	Howard	child_mortality_rate	
+29091	Missouri	Howell	child_mortality_rate	72.8
+29093	Missouri	Iron	child_mortality_rate	
+29095	Missouri	Jackson	child_mortality_rate	76.8
+29097	Missouri	Jasper	child_mortality_rate	52.6
+29099	Missouri	Jefferson	child_mortality_rate	46.2
+29101	Missouri	Johnson	child_mortality_rate	60.7
+29103	Missouri	Knox	child_mortality_rate	
+29105	Missouri	Laclede	child_mortality_rate	77.4
+29107	Missouri	Lafayette	child_mortality_rate	51.5
+29109	Missouri	Lawrence	child_mortality_rate	53.6
+29111	Missouri	Lewis	child_mortality_rate	
+29113	Missouri	Lincoln	child_mortality_rate	66.1
+29115	Missouri	Linn	child_mortality_rate	
+29117	Missouri	Livingston	child_mortality_rate	
+29119	Missouri	McDonald	child_mortality_rate	53.7
+29121	Missouri	Macon	child_mortality_rate	
+29123	Missouri	Madison	child_mortality_rate	
+29125	Missouri	Maries	child_mortality_rate	
+29127	Missouri	Marion	child_mortality_rate	76.2
+29129	Missouri	Mercer	child_mortality_rate	
+29131	Missouri	Miller	child_mortality_rate	72.6
+29133	Missouri	Mississippi	child_mortality_rate	
+29135	Missouri	Moniteau	child_mortality_rate	82.9
+29137	Missouri	Monroe	child_mortality_rate	
+29139	Missouri	Montgomery	child_mortality_rate	
+29141	Missouri	Morgan	child_mortality_rate	91.8
+29143	Missouri	New Madrid	child_mortality_rate	110.2
+29145	Missouri	Newton	child_mortality_rate	70.9
+29147	Missouri	Nodaway	child_mortality_rate	
+29149	Missouri	Oregon	child_mortality_rate	
+29151	Missouri	Osage	child_mortality_rate	
+29153	Missouri	Ozark	child_mortality_rate	
+29155	Missouri	Pemiscot	child_mortality_rate	96.7
+29157	Missouri	Perry	child_mortality_rate	
+29159	Missouri	Pettis	child_mortality_rate	51.2
+29161	Missouri	Phelps	child_mortality_rate	48.7
+29163	Missouri	Pike	child_mortality_rate	77.3
+29165	Missouri	Platte	child_mortality_rate	28.9
+29167	Missouri	Polk	child_mortality_rate	52.3
+29169	Missouri	Pulaski	child_mortality_rate	63.3
+29171	Missouri	Putnam	child_mortality_rate	
+29173	Missouri	Ralls	child_mortality_rate	105.6
+29175	Missouri	Randolph	child_mortality_rate	62.9
+29177	Missouri	Ray	child_mortality_rate	45.8
+29179	Missouri	Reynolds	child_mortality_rate	
+29181	Missouri	Ripley	child_mortality_rate	82.7
+29183	Missouri	St. Charles	child_mortality_rate	44.7
+29185	Missouri	St. Clair	child_mortality_rate	
+29186	Missouri	Ste. Genevieve	child_mortality_rate	
+29187	Missouri	St. Francois	child_mortality_rate	70.2
+29189	Missouri	St. Louis	child_mortality_rate	60.1
+29195	Missouri	Saline	child_mortality_rate	74.9
+29197	Missouri	Schuyler	child_mortality_rate	
+29199	Missouri	Scotland	child_mortality_rate	
+29201	Missouri	Scott	child_mortality_rate	72.7
+29203	Missouri	Shannon	child_mortality_rate	
+29205	Missouri	Shelby	child_mortality_rate	
+29207	Missouri	Stoddard	child_mortality_rate	39.8
+29209	Missouri	Stone	child_mortality_rate	48.3
+29211	Missouri	Sullivan	child_mortality_rate	
+29213	Missouri	Taney	child_mortality_rate	56.4
+29215	Missouri	Texas	child_mortality_rate	109.3
+29217	Missouri	Vernon	child_mortality_rate	71
+29219	Missouri	Warren	child_mortality_rate	59.1
+29221	Missouri	Washington	child_mortality_rate	
+29223	Missouri	Wayne	child_mortality_rate	97.7
+29225	Missouri	Webster	child_mortality_rate	69.8
+29227	Missouri	Worth	child_mortality_rate	
+29229	Missouri	Wright	child_mortality_rate	56.2
+29510	Missouri	St. Louis City	child_mortality_rate	119.3
+30001	Montana	Beaverhead	child_mortality_rate	
+30003	Montana	Big Horn	child_mortality_rate	112.4
+30005	Montana	Blaine	child_mortality_rate	
+30007	Montana	Broadwater	child_mortality_rate	
+30009	Montana	Carbon	child_mortality_rate	
+30011	Montana	Carter	child_mortality_rate	
+30013	Montana	Cascade	child_mortality_rate	57.4
+30015	Montana	Chouteau	child_mortality_rate	
+30017	Montana	Custer	child_mortality_rate	103.5
+30019	Montana	Daniels	child_mortality_rate	
+30021	Montana	Dawson	child_mortality_rate	
+30023	Montana	Deer Lodge	child_mortality_rate	
+30025	Montana	Fallon	child_mortality_rate	
+30027	Montana	Fergus	child_mortality_rate	
+30029	Montana	Flathead	child_mortality_rate	57.3
+30031	Montana	Gallatin	child_mortality_rate	52.6
+30033	Montana	Garfield	child_mortality_rate	
+30035	Montana	Glacier	child_mortality_rate	89.5
+30037	Montana	Golden Valley	child_mortality_rate	
+30039	Montana	Granite	child_mortality_rate	
+30041	Montana	Hill	child_mortality_rate	75.9
+30043	Montana	Jefferson	child_mortality_rate	
+30045	Montana	Judith Basin	child_mortality_rate	
+30047	Montana	Lake	child_mortality_rate	87.1
+30049	Montana	Lewis and Clark	child_mortality_rate	49.2
+30051	Montana	Liberty	child_mortality_rate	
+30053	Montana	Lincoln	child_mortality_rate	70
+30055	Montana	McCone	child_mortality_rate	
+30057	Montana	Madison	child_mortality_rate	
+30059	Montana	Meagher	child_mortality_rate	
+30061	Montana	Mineral	child_mortality_rate	
+30063	Montana	Missoula	child_mortality_rate	57.1
+30065	Montana	Musselshell	child_mortality_rate	
+30067	Montana	Park	child_mortality_rate	
+30069	Montana	Petroleum	child_mortality_rate	
+30071	Montana	Phillips	child_mortality_rate	
+30073	Montana	Pondera	child_mortality_rate	
+30075	Montana	Powder River	child_mortality_rate	
+30077	Montana	Powell	child_mortality_rate	
+30079	Montana	Prairie	child_mortality_rate	
+30081	Montana	Ravalli	child_mortality_rate	61.1
+30083	Montana	Richland	child_mortality_rate	110.1
+30085	Montana	Roosevelt	child_mortality_rate	183.9
+30087	Montana	Rosebud	child_mortality_rate	107.8
+30089	Montana	Sanders	child_mortality_rate	
+30091	Montana	Sheridan	child_mortality_rate	
+30093	Montana	Silver Bow	child_mortality_rate	48.2
+30095	Montana	Stillwater	child_mortality_rate	
+30097	Montana	Sweet Grass	child_mortality_rate	
+30099	Montana	Teton	child_mortality_rate	
+30101	Montana	Toole	child_mortality_rate	
+30103	Montana	Treasure	child_mortality_rate	
+30105	Montana	Valley	child_mortality_rate	
+30107	Montana	Wheatland	child_mortality_rate	
+30109	Montana	Wibaux	child_mortality_rate	
+30111	Montana	Yellowstone	child_mortality_rate	62.3
+31001	Nebraska	Adams	child_mortality_rate	76.3
+31003	Nebraska	Antelope	child_mortality_rate	
+31005	Nebraska	Arthur	child_mortality_rate	
+31007	Nebraska	Banner	child_mortality_rate	
+31009	Nebraska	Blaine	child_mortality_rate	
+31011	Nebraska	Boone	child_mortality_rate	
+31013	Nebraska	Box Butte	child_mortality_rate	
+31015	Nebraska	Boyd	child_mortality_rate	
+31017	Nebraska	Brown	child_mortality_rate	
+31019	Nebraska	Buffalo	child_mortality_rate	50.4
+31021	Nebraska	Burt	child_mortality_rate	
+31023	Nebraska	Butler	child_mortality_rate	
+31025	Nebraska	Cass	child_mortality_rate	69.3
+31027	Nebraska	Cedar	child_mortality_rate	
+31029	Nebraska	Chase	child_mortality_rate	
+31031	Nebraska	Cherry	child_mortality_rate	
+31033	Nebraska	Cheyenne	child_mortality_rate	
+31035	Nebraska	Clay	child_mortality_rate	
+31037	Nebraska	Colfax	child_mortality_rate	85.4
+31039	Nebraska	Cuming	child_mortality_rate	
+31041	Nebraska	Custer	child_mortality_rate	
+31043	Nebraska	Dakota	child_mortality_rate	72.6
+31045	Nebraska	Dawes	child_mortality_rate	
+31047	Nebraska	Dawson	child_mortality_rate	68
+31049	Nebraska	Deuel	child_mortality_rate	
+31051	Nebraska	Dixon	child_mortality_rate	
+31053	Nebraska	Dodge	child_mortality_rate	57.1
+31055	Nebraska	Douglas	child_mortality_rate	59.6
+31057	Nebraska	Dundy	child_mortality_rate	
+31059	Nebraska	Fillmore	child_mortality_rate	
+31061	Nebraska	Franklin	child_mortality_rate	
+31063	Nebraska	Frontier	child_mortality_rate	
+31065	Nebraska	Furnas	child_mortality_rate	
+31067	Nebraska	Gage	child_mortality_rate	67.2
+31069	Nebraska	Garden	child_mortality_rate	
+31071	Nebraska	Garfield	child_mortality_rate	
+31073	Nebraska	Gosper	child_mortality_rate	
+31075	Nebraska	Grant	child_mortality_rate	
+31077	Nebraska	Greeley	child_mortality_rate	
+31079	Nebraska	Hall	child_mortality_rate	38.5
+31081	Nebraska	Hamilton	child_mortality_rate	
+31083	Nebraska	Harlan	child_mortality_rate	
+31085	Nebraska	Hayes	child_mortality_rate	
+31087	Nebraska	Hitchcock	child_mortality_rate	
+31089	Nebraska	Holt	child_mortality_rate	
+31091	Nebraska	Hooker	child_mortality_rate	
+31093	Nebraska	Howard	child_mortality_rate	
+31095	Nebraska	Jefferson	child_mortality_rate	
+31097	Nebraska	Johnson	child_mortality_rate	
+31099	Nebraska	Kearney	child_mortality_rate	
+31101	Nebraska	Keith	child_mortality_rate	205.1
+31103	Nebraska	Keya Paha	child_mortality_rate	
+31105	Nebraska	Kimball	child_mortality_rate	
+31107	Nebraska	Knox	child_mortality_rate	
+31109	Nebraska	Lancaster	child_mortality_rate	52.4
+31111	Nebraska	Lincoln	child_mortality_rate	65.8
+31113	Nebraska	Logan	child_mortality_rate	
+31115	Nebraska	Loup	child_mortality_rate	
+31117	Nebraska	McPherson	child_mortality_rate	
+31119	Nebraska	Madison	child_mortality_rate	68.9
+31121	Nebraska	Merrick	child_mortality_rate	
+31123	Nebraska	Morrill	child_mortality_rate	
+31125	Nebraska	Nance	child_mortality_rate	
+31127	Nebraska	Nemaha	child_mortality_rate	
+31129	Nebraska	Nuckolls	child_mortality_rate	
+31131	Nebraska	Otoe	child_mortality_rate	
+31133	Nebraska	Pawnee	child_mortality_rate	
+31135	Nebraska	Perkins	child_mortality_rate	
+31137	Nebraska	Phelps	child_mortality_rate	
+31139	Nebraska	Pierce	child_mortality_rate	
+31141	Nebraska	Platte	child_mortality_rate	59.1
+31143	Nebraska	Polk	child_mortality_rate	
+31145	Nebraska	Red Willow	child_mortality_rate	97.6
+31147	Nebraska	Richardson	child_mortality_rate	
+31149	Nebraska	Rock	child_mortality_rate	
+31151	Nebraska	Saline	child_mortality_rate	
+31153	Nebraska	Sarpy	child_mortality_rate	42.1
+31155	Nebraska	Saunders	child_mortality_rate	
+31157	Nebraska	Scotts Bluff	child_mortality_rate	68.4
+31159	Nebraska	Seward	child_mortality_rate	
+31161	Nebraska	Sheridan	child_mortality_rate	
+31163	Nebraska	Sherman	child_mortality_rate	
+31165	Nebraska	Sioux	child_mortality_rate	
+31167	Nebraska	Stanton	child_mortality_rate	
+31169	Nebraska	Thayer	child_mortality_rate	
+31171	Nebraska	Thomas	child_mortality_rate	
+31173	Nebraska	Thurston	child_mortality_rate	
+31175	Nebraska	Valley	child_mortality_rate	
+31177	Nebraska	Washington	child_mortality_rate	
+31179	Nebraska	Wayne	child_mortality_rate	
+31181	Nebraska	Webster	child_mortality_rate	
+31183	Nebraska	Wheeler	child_mortality_rate	
+31185	Nebraska	York	child_mortality_rate	
+32001	Nevada	Churchill	child_mortality_rate	70.1
+32003	Nevada	Clark	child_mortality_rate	56.6
+32005	Nevada	Douglas	child_mortality_rate	41.4
+32007	Nevada	Elko	child_mortality_rate	53.3
+32009	Nevada	Esmeralda	child_mortality_rate	
+32011	Nevada	Eureka	child_mortality_rate	
+32013	Nevada	Humboldt	child_mortality_rate	73.3
+32015	Nevada	Lander	child_mortality_rate	
+32017	Nevada	Lincoln	child_mortality_rate	
+32019	Nevada	Lyon	child_mortality_rate	43.5
+32021	Nevada	Mineral	child_mortality_rate	
+32023	Nevada	Nye	child_mortality_rate	63.5
+32027	Nevada	Pershing	child_mortality_rate	
+32029	Nevada	Storey	child_mortality_rate	
+32031	Nevada	Washoe	child_mortality_rate	57.9
+32033	Nevada	White Pine	child_mortality_rate	
+32510	Nevada	Carson City	child_mortality_rate	41.6
+33001	New Hampshire	Belknap	child_mortality_rate	29.3
+33003	New Hampshire	Carroll	child_mortality_rate	43.4
+33005	New Hampshire	Cheshire	child_mortality_rate	41.7
+33007	New Hampshire	Coos	child_mortality_rate	61.2
+33009	New Hampshire	Grafton	child_mortality_rate	35.9
+33011	New Hampshire	Hillsborough	child_mortality_rate	33.7
+33013	New Hampshire	Merrimack	child_mortality_rate	38.1
+33015	New Hampshire	Rockingham	child_mortality_rate	30.7
+33017	New Hampshire	Strafford	child_mortality_rate	48.6
+33019	New Hampshire	Sullivan	child_mortality_rate	50.8
+34001	New Jersey	Atlantic	child_mortality_rate	63.6
+34003	New Jersey	Bergen	child_mortality_rate	24.8
+34005	New Jersey	Burlington	child_mortality_rate	41.9
+34007	New Jersey	Camden	child_mortality_rate	63.4
+34009	New Jersey	Cape May	child_mortality_rate	42.6
+34011	New Jersey	Cumberland	child_mortality_rate	82.8
+34013	New Jersey	Essex	child_mortality_rate	67.1
+34015	New Jersey	Gloucester	child_mortality_rate	34.5
+34017	New Jersey	Hudson	child_mortality_rate	44.7
+34019	New Jersey	Hunterdon	child_mortality_rate	16.9
+34021	New Jersey	Mercer	child_mortality_rate	63.4
+34023	New Jersey	Middlesex	child_mortality_rate	33.8
+34025	New Jersey	Monmouth	child_mortality_rate	30.9
+34027	New Jersey	Morris	child_mortality_rate	25
+34029	New Jersey	Ocean	child_mortality_rate	32.7
+34031	New Jersey	Passaic	child_mortality_rate	41.6
+34033	New Jersey	Salem	child_mortality_rate	65.2
+34035	New Jersey	Somerset	child_mortality_rate	22
+34037	New Jersey	Sussex	child_mortality_rate	30.3
+34039	New Jersey	Union	child_mortality_rate	44.6
+34041	New Jersey	Warren	child_mortality_rate	36.1
+35001	New Mexico	Bernalillo	child_mortality_rate	54.3
+35003	New Mexico	Catron	child_mortality_rate	
+35005	New Mexico	Chaves	child_mortality_rate	73.2
+35006	New Mexico	Cibola	child_mortality_rate	103.1
+35007	New Mexico	Colfax	child_mortality_rate	95.3
+35009	New Mexico	Curry	child_mortality_rate	58.8
+35011	New Mexico	De Baca	child_mortality_rate	
+35013	New Mexico	Dona Ana	child_mortality_rate	53.2
+35015	New Mexico	Eddy	child_mortality_rate	70
+35017	New Mexico	Grant	child_mortality_rate	38.1
+35019	New Mexico	Guadalupe	child_mortality_rate	
+35021	New Mexico	Harding	child_mortality_rate	
+35023	New Mexico	Hidalgo	child_mortality_rate	
+35025	New Mexico	Lea	child_mortality_rate	80
+35027	New Mexico	Lincoln	child_mortality_rate	75.6
+35028	New Mexico	Los Alamos	child_mortality_rate	
+35029	New Mexico	Luna	child_mortality_rate	47.8
+35031	New Mexico	McKinley	child_mortality_rate	80.6
+35033	New Mexico	Mora	child_mortality_rate	
+35035	New Mexico	Otero	child_mortality_rate	60.4
+35037	New Mexico	Quay	child_mortality_rate	
+35039	New Mexico	Rio Arriba	child_mortality_rate	87.4
+35041	New Mexico	Roosevelt	child_mortality_rate	69.1
+35043	New Mexico	Sandoval	child_mortality_rate	38.8
+35045	New Mexico	San Juan	child_mortality_rate	86.5
+35047	New Mexico	San Miguel	child_mortality_rate	53
+35049	New Mexico	Santa Fe	child_mortality_rate	54.5
+35051	New Mexico	Sierra	child_mortality_rate	
+35053	New Mexico	Socorro	child_mortality_rate	80.6
+35055	New Mexico	Taos	child_mortality_rate	62.3
+35057	New Mexico	Torrance	child_mortality_rate	85
+35059	New Mexico	Union	child_mortality_rate	
+35061	New Mexico	Valencia	child_mortality_rate	42.2
+36001	New York	Albany	child_mortality_rate	60.8
+36003	New York	Allegany	child_mortality_rate	39.4
+36005	New York	Bronx	child_mortality_rate	56.5
+36007	New York	Broome	child_mortality_rate	63.4
+36009	New York	Cattaraugus	child_mortality_rate	58.8
+36011	New York	Cayuga	child_mortality_rate	46.4
+36013	New York	Chautauqua	child_mortality_rate	52.5
+36015	New York	Chemung	child_mortality_rate	55
+36017	New York	Chenango	child_mortality_rate	41.9
+36019	New York	Clinton	child_mortality_rate	59.7
+36021	New York	Columbia	child_mortality_rate	51
+36023	New York	Cortland	child_mortality_rate	49.5
+36025	New York	Delaware	child_mortality_rate	38.9
+36027	New York	Dutchess	child_mortality_rate	38.9
+36029	New York	Erie	child_mortality_rate	58
+36031	New York	Essex	child_mortality_rate	39
+36033	New York	Franklin	child_mortality_rate	36.9
+36035	New York	Fulton	child_mortality_rate	39.8
+36037	New York	Genesee	child_mortality_rate	55.4
+36039	New York	Greene	child_mortality_rate	43.3
+36041	New York	Hamilton	child_mortality_rate	
+36043	New York	Herkimer	child_mortality_rate	62.1
+36045	New York	Jefferson	child_mortality_rate	70.1
+36047	New York	Kings	child_mortality_rate	54.5
+36049	New York	Lewis	child_mortality_rate	44.4
+36051	New York	Livingston	child_mortality_rate	31.6
+36053	New York	Madison	child_mortality_rate	36.9
+36055	New York	Monroe	child_mortality_rate	56.5
+36057	New York	Montgomery	child_mortality_rate	44.4
+36059	New York	Nassau	child_mortality_rate	34.5
+36061	New York	New York	child_mortality_rate	49.9
+36063	New York	Niagara	child_mortality_rate	52.2
+36065	New York	Oneida	child_mortality_rate	48.7
+36067	New York	Onondaga	child_mortality_rate	53.4
+36069	New York	Ontario	child_mortality_rate	49.1
+36071	New York	Orange	child_mortality_rate	50.6
+36073	New York	Orleans	child_mortality_rate	56
+36075	New York	Oswego	child_mortality_rate	47.4
+36077	New York	Otsego	child_mortality_rate	33.3
+36079	New York	Putnam	child_mortality_rate	29.9
+36081	New York	Queens	child_mortality_rate	45.7
+36083	New York	Rensselaer	child_mortality_rate	49.2
+36085	New York	Richmond	child_mortality_rate	38.2
+36087	New York	Rockland	child_mortality_rate	37.4
+36089	New York	St. Lawrence	child_mortality_rate	59
+36091	New York	Saratoga	child_mortality_rate	36.3
+36093	New York	Schenectady	child_mortality_rate	57.5
+36095	New York	Schoharie	child_mortality_rate	40.6
+36097	New York	Schuyler	child_mortality_rate	
+36099	New York	Seneca	child_mortality_rate	42.2
+36101	New York	Steuben	child_mortality_rate	46.5
+36103	New York	Suffolk	child_mortality_rate	35.7
+36105	New York	Sullivan	child_mortality_rate	56.1
+36107	New York	Tioga	child_mortality_rate	38.6
+36109	New York	Tompkins	child_mortality_rate	26.7
+36111	New York	Ulster	child_mortality_rate	47.5
+36113	New York	Warren	child_mortality_rate	55.8
+36115	New York	Washington	child_mortality_rate	55.1
+36117	New York	Wayne	child_mortality_rate	42.8
+36119	New York	Westchester	child_mortality_rate	37.1
+36121	New York	Wyoming	child_mortality_rate	41.9
+36123	New York	Yates	child_mortality_rate	47.7
+37001	North Carolina	Alamance	child_mortality_rate	62.7
+37003	North Carolina	Alexander	child_mortality_rate	50.2
+37005	North Carolina	Alleghany	child_mortality_rate	
+37007	North Carolina	Anson	child_mortality_rate	65.4
+37009	North Carolina	Ashe	child_mortality_rate	
+37011	North Carolina	Avery	child_mortality_rate	
+37013	North Carolina	Beaufort	child_mortality_rate	56.7
+37015	North Carolina	Bertie	child_mortality_rate	159.5
+37017	North Carolina	Bladen	child_mortality_rate	76.1
+37019	North Carolina	Brunswick	child_mortality_rate	68.4
+37021	North Carolina	Buncombe	child_mortality_rate	49
+37023	North Carolina	Burke	child_mortality_rate	65.9
+37025	North Carolina	Cabarrus	child_mortality_rate	40.5
+37027	North Carolina	Caldwell	child_mortality_rate	56.8
+37029	North Carolina	Camden	child_mortality_rate	
+37031	North Carolina	Carteret	child_mortality_rate	46
+37033	North Carolina	Caswell	child_mortality_rate	69.9
+37035	North Carolina	Catawba	child_mortality_rate	65.3
+37037	North Carolina	Chatham	child_mortality_rate	52.9
+37039	North Carolina	Cherokee	child_mortality_rate	60.6
+37041	North Carolina	Chowan	child_mortality_rate	
+37043	North Carolina	Clay	child_mortality_rate	
+37045	North Carolina	Cleveland	child_mortality_rate	60.8
+37047	North Carolina	Columbus	child_mortality_rate	114.2
+37049	North Carolina	Craven	child_mortality_rate	88.7
+37051	North Carolina	Cumberland	child_mortality_rate	88.5
+37053	North Carolina	Currituck	child_mortality_rate	75
+37055	North Carolina	Dare	child_mortality_rate	77.5
+37057	North Carolina	Davidson	child_mortality_rate	61.3
+37059	North Carolina	Davie	child_mortality_rate	30.6
+37061	North Carolina	Duplin	child_mortality_rate	86.1
+37063	North Carolina	Durham	child_mortality_rate	73.7
+37065	North Carolina	Edgecombe	child_mortality_rate	89.9
+37067	North Carolina	Forsyth	child_mortality_rate	84.3
+37069	North Carolina	Franklin	child_mortality_rate	57.8
+37071	North Carolina	Gaston	child_mortality_rate	77
+37073	North Carolina	Gates	child_mortality_rate	
+37075	North Carolina	Graham	child_mortality_rate	
+37077	North Carolina	Granville	child_mortality_rate	54
+37079	North Carolina	Greene	child_mortality_rate	106.1
+37081	North Carolina	Guilford	child_mortality_rate	74.3
+37083	North Carolina	Halifax	child_mortality_rate	79.9
+37085	North Carolina	Harnett	child_mortality_rate	78.9
+37087	North Carolina	Haywood	child_mortality_rate	53.7
+37089	North Carolina	Henderson	child_mortality_rate	48.5
+37091	North Carolina	Hertford	child_mortality_rate	118.1
+37093	North Carolina	Hoke	child_mortality_rate	71.7
+37095	North Carolina	Hyde	child_mortality_rate	
+37097	North Carolina	Iredell	child_mortality_rate	50.3
+37099	North Carolina	Jackson	child_mortality_rate	75.2
+37101	North Carolina	Johnston	child_mortality_rate	61
+37103	North Carolina	Jones	child_mortality_rate	
+37105	North Carolina	Lee	child_mortality_rate	62.3
+37107	North Carolina	Lenoir	child_mortality_rate	94.9
+37109	North Carolina	Lincoln	child_mortality_rate	64.5
+37111	North Carolina	McDowell	child_mortality_rate	50.7
+37113	North Carolina	Macon	child_mortality_rate	53.6
+37115	North Carolina	Madison	child_mortality_rate	
+37117	North Carolina	Martin	child_mortality_rate	72.6
+37119	North Carolina	Mecklenburg	child_mortality_rate	58.5
+37121	North Carolina	Mitchell	child_mortality_rate	
+37123	North Carolina	Montgomery	child_mortality_rate	77.3
+37125	North Carolina	Moore	child_mortality_rate	56.9
+37127	North Carolina	Nash	child_mortality_rate	84.4
+37129	North Carolina	New Hanover	child_mortality_rate	45.7
+37131	North Carolina	Northampton	child_mortality_rate	62.8
+37133	North Carolina	Onslow	child_mortality_rate	89.7
+37135	North Carolina	Orange	child_mortality_rate	53.1
+37137	North Carolina	Pamlico	child_mortality_rate	
+37139	North Carolina	Pasquotank	child_mortality_rate	88.1
+37141	North Carolina	Pender	child_mortality_rate	83.4
+37143	North Carolina	Perquimans	child_mortality_rate	91.8
+37145	North Carolina	Person	child_mortality_rate	67.6
+37147	North Carolina	Pitt	child_mortality_rate	83.7
+37149	North Carolina	Polk	child_mortality_rate	70.4
+37151	North Carolina	Randolph	child_mortality_rate	59.8
+37153	North Carolina	Richmond	child_mortality_rate	60.9
+37155	North Carolina	Robeson	child_mortality_rate	121
+37157	North Carolina	Rockingham	child_mortality_rate	65.3
+37159	North Carolina	Rowan	child_mortality_rate	58.2
+37161	North Carolina	Rutherford	child_mortality_rate	52.1
+37163	North Carolina	Sampson	child_mortality_rate	96.7
+37165	North Carolina	Scotland	child_mortality_rate	99.7
+37167	North Carolina	Stanly	child_mortality_rate	66.7
+37169	North Carolina	Stokes	child_mortality_rate	67.5
+37171	North Carolina	Surry	child_mortality_rate	72.2
+37173	North Carolina	Swain	child_mortality_rate	
+37175	North Carolina	Transylvania	child_mortality_rate	72.4
+37177	North Carolina	Tyrrell	child_mortality_rate	
+37179	North Carolina	Union	child_mortality_rate	41
+37181	North Carolina	Vance	child_mortality_rate	91.6
+37183	North Carolina	Wake	child_mortality_rate	55
+37185	North Carolina	Warren	child_mortality_rate	73.8
+37187	North Carolina	Washington	child_mortality_rate	79.2
+37189	North Carolina	Watauga	child_mortality_rate	60.4
+37191	North Carolina	Wayne	child_mortality_rate	80
+37193	North Carolina	Wilkes	child_mortality_rate	60.5
+37195	North Carolina	Wilson	child_mortality_rate	65
+37197	North Carolina	Yadkin	child_mortality_rate	69
+37199	North Carolina	Yancey	child_mortality_rate	
+38001	North Dakota	Adams	child_mortality_rate	
+38003	North Dakota	Barnes	child_mortality_rate	
+38005	North Dakota	Benson	child_mortality_rate	156.8
+38007	North Dakota	Billings	child_mortality_rate	
+38009	North Dakota	Bottineau	child_mortality_rate	
+38011	North Dakota	Bowman	child_mortality_rate	
+38013	North Dakota	Burke	child_mortality_rate	
+38015	North Dakota	Burleigh	child_mortality_rate	65.3
+38017	North Dakota	Cass	child_mortality_rate	53.3
+38019	North Dakota	Cavalier	child_mortality_rate	
+38021	North Dakota	Dickey	child_mortality_rate	
+38023	North Dakota	Divide	child_mortality_rate	
+38025	North Dakota	Dunn	child_mortality_rate	
+38027	North Dakota	Eddy	child_mortality_rate	
+38029	North Dakota	Emmons	child_mortality_rate	
+38031	North Dakota	Foster	child_mortality_rate	
+38033	North Dakota	Golden Valley	child_mortality_rate	
+38035	North Dakota	Grand Forks	child_mortality_rate	44.6
+38037	North Dakota	Grant	child_mortality_rate	
+38039	North Dakota	Griggs	child_mortality_rate	
+38041	North Dakota	Hettinger	child_mortality_rate	
+38043	North Dakota	Kidder	child_mortality_rate	
+38045	North Dakota	LaMoure	child_mortality_rate	
+38047	North Dakota	Logan	child_mortality_rate	
+38049	North Dakota	McHenry	child_mortality_rate	
+38051	North Dakota	McIntosh	child_mortality_rate	
+38053	North Dakota	McKenzie	child_mortality_rate	156.4
+38055	North Dakota	McLean	child_mortality_rate	
+38057	North Dakota	Mercer	child_mortality_rate	
+38059	North Dakota	Morton	child_mortality_rate	73.8
+38061	North Dakota	Mountrail	child_mortality_rate	
+38063	North Dakota	Nelson	child_mortality_rate	
+38065	North Dakota	Oliver	child_mortality_rate	
+38067	North Dakota	Pembina	child_mortality_rate	
+38069	North Dakota	Pierce	child_mortality_rate	
+38071	North Dakota	Ramsey	child_mortality_rate	
+38073	North Dakota	Ransom	child_mortality_rate	
+38075	North Dakota	Renville	child_mortality_rate	
+38077	North Dakota	Richland	child_mortality_rate	
+38079	North Dakota	Rolette	child_mortality_rate	150.5
+38081	North Dakota	Sargent	child_mortality_rate	
+38083	North Dakota	Sheridan	child_mortality_rate	
+38085	North Dakota	Sioux	child_mortality_rate	
+38087	North Dakota	Slope	child_mortality_rate	
+38089	North Dakota	Stark	child_mortality_rate	
+38091	North Dakota	Steele	child_mortality_rate	
+38093	North Dakota	Stutsman	child_mortality_rate	92
+38095	North Dakota	Towner	child_mortality_rate	
+38097	North Dakota	Traill	child_mortality_rate	
+38099	North Dakota	Walsh	child_mortality_rate	
+38101	North Dakota	Ward	child_mortality_rate	58.7
+38103	North Dakota	Wells	child_mortality_rate	
+38105	North Dakota	Williams	child_mortality_rate	76.1
+39001	Ohio	Adams	child_mortality_rate	90
+39003	Ohio	Allen	child_mortality_rate	64.8
+39005	Ohio	Ashland	child_mortality_rate	50.4
+39007	Ohio	Ashtabula	child_mortality_rate	77.8
+39009	Ohio	Athens	child_mortality_rate	45.4
+39011	Ohio	Auglaize	child_mortality_rate	42.4
+39013	Ohio	Belmont	child_mortality_rate	50.1
+39015	Ohio	Brown	child_mortality_rate	89.8
+39017	Ohio	Butler	child_mortality_rate	50.1
+39019	Ohio	Carroll	child_mortality_rate	84.9
+39021	Ohio	Champaign	child_mortality_rate	63.7
+39023	Ohio	Clark	child_mortality_rate	59.3
+39025	Ohio	Clermont	child_mortality_rate	51.3
+39027	Ohio	Clinton	child_mortality_rate	87.9
+39029	Ohio	Columbiana	child_mortality_rate	61.4
+39031	Ohio	Coshocton	child_mortality_rate	63.8
+39033	Ohio	Crawford	child_mortality_rate	84.4
+39035	Ohio	Cuyahoga	child_mortality_rate	72.4
+39037	Ohio	Darke	child_mortality_rate	65.9
+39039	Ohio	Defiance	child_mortality_rate	46.7
+39041	Ohio	Delaware	child_mortality_rate	30.2
+39043	Ohio	Erie	child_mortality_rate	64.4
+39045	Ohio	Fairfield	child_mortality_rate	37.8
+39047	Ohio	Fayette	child_mortality_rate	62.4
+39049	Ohio	Franklin	child_mortality_rate	75.8
+39051	Ohio	Fulton	child_mortality_rate	45
+39053	Ohio	Gallia	child_mortality_rate	64.4
+39055	Ohio	Geauga	child_mortality_rate	28.4
+39057	Ohio	Greene	child_mortality_rate	49
+39059	Ohio	Guernsey	child_mortality_rate	38
+39061	Ohio	Hamilton	child_mortality_rate	85.1
+39063	Ohio	Hancock	child_mortality_rate	58.5
+39065	Ohio	Hardin	child_mortality_rate	69.3
+39067	Ohio	Harrison	child_mortality_rate	
+39069	Ohio	Henry	child_mortality_rate	58.3
+39071	Ohio	Highland	child_mortality_rate	66.9
+39073	Ohio	Hocking	child_mortality_rate	35.2
+39075	Ohio	Holmes	child_mortality_rate	72.2
+39077	Ohio	Huron	child_mortality_rate	50.2
+39079	Ohio	Jackson	child_mortality_rate	72.9
+39081	Ohio	Jefferson	child_mortality_rate	57.8
+39083	Ohio	Knox	child_mortality_rate	50.8
+39085	Ohio	Lake	child_mortality_rate	43.1
+39087	Ohio	Lawrence	child_mortality_rate	60.7
+39089	Ohio	Licking	child_mortality_rate	50
+39091	Ohio	Logan	child_mortality_rate	50.8
+39093	Ohio	Lorain	child_mortality_rate	55.6
+39095	Ohio	Lucas	child_mortality_rate	64.3
+39097	Ohio	Madison	child_mortality_rate	65.7
+39099	Ohio	Mahoning	child_mortality_rate	70.6
+39101	Ohio	Marion	child_mortality_rate	57
+39103	Ohio	Medina	child_mortality_rate	23.3
+39105	Ohio	Meigs	child_mortality_rate	87.9
+39107	Ohio	Mercer	child_mortality_rate	47.8
+39109	Ohio	Miami	child_mortality_rate	50
+39111	Ohio	Monroe	child_mortality_rate	
+39113	Ohio	Montgomery	child_mortality_rate	60.4
+39115	Ohio	Morgan	child_mortality_rate	
+39117	Ohio	Morrow	child_mortality_rate	38.2
+39119	Ohio	Muskingum	child_mortality_rate	63.6
+39121	Ohio	Noble	child_mortality_rate	
+39123	Ohio	Ottawa	child_mortality_rate	42.6
+39125	Ohio	Paulding	child_mortality_rate	60.5
+39127	Ohio	Perry	child_mortality_rate	78.7
+39129	Ohio	Pickaway	child_mortality_rate	56.9
+39131	Ohio	Pike	child_mortality_rate	65.2
+39133	Ohio	Portage	child_mortality_rate	62.9
+39135	Ohio	Preble	child_mortality_rate	52.9
+39137	Ohio	Putnam	child_mortality_rate	37.6
+39139	Ohio	Richland	child_mortality_rate	62.7
+39141	Ohio	Ross	child_mortality_rate	49.5
+39143	Ohio	Sandusky	child_mortality_rate	56.6
+39145	Ohio	Scioto	child_mortality_rate	91.1
+39147	Ohio	Seneca	child_mortality_rate	42.1
+39149	Ohio	Shelby	child_mortality_rate	45.9
+39151	Ohio	Stark	child_mortality_rate	60.9
+39153	Ohio	Summit	child_mortality_rate	52.1
+39155	Ohio	Trumbull	child_mortality_rate	65.8
+39157	Ohio	Tuscarawas	child_mortality_rate	45.3
+39159	Ohio	Union	child_mortality_rate	51.4
+39161	Ohio	Van Wert	child_mortality_rate	51.6
+39163	Ohio	Vinton	child_mortality_rate	
+39165	Ohio	Warren	child_mortality_rate	44.4
+39167	Ohio	Washington	child_mortality_rate	66.2
+39169	Ohio	Wayne	child_mortality_rate	66.3
+39171	Ohio	Williams	child_mortality_rate	54.3
+39173	Ohio	Wood	child_mortality_rate	42
+39175	Ohio	Wyandot	child_mortality_rate	54
+40001	Oklahoma	Adair	child_mortality_rate	81.8
+40003	Oklahoma	Alfalfa	child_mortality_rate	
+40005	Oklahoma	Atoka	child_mortality_rate	
+40007	Oklahoma	Beaver	child_mortality_rate	
+40009	Oklahoma	Beckham	child_mortality_rate	102.8
+40011	Oklahoma	Blaine	child_mortality_rate	106.9
+40013	Oklahoma	Bryan	child_mortality_rate	61.2
+40015	Oklahoma	Caddo	child_mortality_rate	82.8
+40017	Oklahoma	Canadian	child_mortality_rate	51.7
+40019	Oklahoma	Carter	child_mortality_rate	75.9
+40021	Oklahoma	Cherokee	child_mortality_rate	60.4
+40023	Oklahoma	Choctaw	child_mortality_rate	120.2
+40025	Oklahoma	Cimarron	child_mortality_rate	
+40027	Oklahoma	Cleveland	child_mortality_rate	48.4
+40029	Oklahoma	Coal	child_mortality_rate	
+40031	Oklahoma	Comanche	child_mortality_rate	113.7
+40033	Oklahoma	Cotton	child_mortality_rate	
+40035	Oklahoma	Craig	child_mortality_rate	109.6
+40037	Oklahoma	Creek	child_mortality_rate	76
+40039	Oklahoma	Custer	child_mortality_rate	76.8
+40041	Oklahoma	Delaware	child_mortality_rate	74.6
+40043	Oklahoma	Dewey	child_mortality_rate	
+40045	Oklahoma	Ellis	child_mortality_rate	
+40047	Oklahoma	Garfield	child_mortality_rate	99.2
+40049	Oklahoma	Garvin	child_mortality_rate	73.8
+40051	Oklahoma	Grady	child_mortality_rate	66.5
+40053	Oklahoma	Grant	child_mortality_rate	
+40055	Oklahoma	Greer	child_mortality_rate	
+40057	Oklahoma	Harmon	child_mortality_rate	
+40059	Oklahoma	Harper	child_mortality_rate	
+40061	Oklahoma	Haskell	child_mortality_rate	
+40063	Oklahoma	Hughes	child_mortality_rate	97.8
+40065	Oklahoma	Jackson	child_mortality_rate	72.1
+40067	Oklahoma	Jefferson	child_mortality_rate	
+40069	Oklahoma	Johnston	child_mortality_rate	122.6
+40071	Oklahoma	Kay	child_mortality_rate	59.3
+40073	Oklahoma	Kingfisher	child_mortality_rate	
+40075	Oklahoma	Kiowa	child_mortality_rate	
+40077	Oklahoma	Latimer	child_mortality_rate	
+40079	Oklahoma	Le Flore	child_mortality_rate	72.1
+40081	Oklahoma	Lincoln	child_mortality_rate	83.3
+40083	Oklahoma	Logan	child_mortality_rate	54.3
+40085	Oklahoma	Love	child_mortality_rate	120.7
+40087	Oklahoma	McClain	child_mortality_rate	73.1
+40089	Oklahoma	McCurtain	child_mortality_rate	85.5
+40091	Oklahoma	McIntosh	child_mortality_rate	99.8
+40093	Oklahoma	Major	child_mortality_rate	
+40095	Oklahoma	Marshall	child_mortality_rate	87.1
+40097	Oklahoma	Mayes	child_mortality_rate	80.9
+40099	Oklahoma	Murray	child_mortality_rate	
+40101	Oklahoma	Muskogee	child_mortality_rate	83.5
+40103	Oklahoma	Noble	child_mortality_rate	115.6
+40105	Oklahoma	Nowata	child_mortality_rate	
+40107	Oklahoma	Okfuskee	child_mortality_rate	124.7
+40109	Oklahoma	Oklahoma	child_mortality_rate	82.5
+40111	Oklahoma	Okmulgee	child_mortality_rate	109.1
+40113	Oklahoma	Osage	child_mortality_rate	64.7
+40115	Oklahoma	Ottawa	child_mortality_rate	95.5
+40117	Oklahoma	Pawnee	child_mortality_rate	
+40119	Oklahoma	Payne	child_mortality_rate	57.8
+40121	Oklahoma	Pittsburg	child_mortality_rate	84.8
+40123	Oklahoma	Pontotoc	child_mortality_rate	86.9
+40125	Oklahoma	Pottawatomie	child_mortality_rate	96.9
+40127	Oklahoma	Pushmataha	child_mortality_rate	131.1
+40129	Oklahoma	Roger Mills	child_mortality_rate	
+40131	Oklahoma	Rogers	child_mortality_rate	65.1
+40133	Oklahoma	Seminole	child_mortality_rate	98.9
+40135	Oklahoma	Sequoyah	child_mortality_rate	64.1
+40137	Oklahoma	Stephens	child_mortality_rate	84.5
+40139	Oklahoma	Texas	child_mortality_rate	113.3
+40141	Oklahoma	Tillman	child_mortality_rate	
+40143	Oklahoma	Tulsa	child_mortality_rate	78.9
+40145	Oklahoma	Wagoner	child_mortality_rate	40.7
+40147	Oklahoma	Washington	child_mortality_rate	69.2
+40149	Oklahoma	Washita	child_mortality_rate	108.9
+40151	Oklahoma	Woods	child_mortality_rate	
+40153	Oklahoma	Woodward	child_mortality_rate	82.1
+41001	Oregon	Baker	child_mortality_rate	90.3
+41003	Oregon	Benton	child_mortality_rate	22.9
+41005	Oregon	Clackamas	child_mortality_rate	32.7
+41007	Oregon	Clatsop	child_mortality_rate	55.3
+41009	Oregon	Columbia	child_mortality_rate	37.7
+41011	Oregon	Coos	child_mortality_rate	43.2
+41013	Oregon	Crook	child_mortality_rate	
+41015	Oregon	Curry	child_mortality_rate	
+41017	Oregon	Deschutes	child_mortality_rate	39.2
+41019	Oregon	Douglas	child_mortality_rate	52.3
+41021	Oregon	Gilliam	child_mortality_rate	
+41023	Oregon	Grant	child_mortality_rate	
+41025	Oregon	Harney	child_mortality_rate	
+41027	Oregon	Hood River	child_mortality_rate	52.6
+41029	Oregon	Jackson	child_mortality_rate	41.9
+41031	Oregon	Jefferson	child_mortality_rate	97
+41033	Oregon	Josephine	child_mortality_rate	64.3
+41035	Oregon	Klamath	child_mortality_rate	56
+41037	Oregon	Lake	child_mortality_rate	
+41039	Oregon	Lane	child_mortality_rate	46.4
+41041	Oregon	Lincoln	child_mortality_rate	33.9
+41043	Oregon	Linn	child_mortality_rate	55
+41045	Oregon	Malheur	child_mortality_rate	37.2
+41047	Oregon	Marion	child_mortality_rate	50.5
+41049	Oregon	Morrow	child_mortality_rate	
+41051	Oregon	Multnomah	child_mortality_rate	53.7
+41053	Oregon	Polk	child_mortality_rate	42.8
+41055	Oregon	Sherman	child_mortality_rate	
+41057	Oregon	Tillamook	child_mortality_rate	59.5
+41059	Oregon	Umatilla	child_mortality_rate	63.6
+41061	Oregon	Union	child_mortality_rate	56.3
+41063	Oregon	Wallowa	child_mortality_rate	
+41065	Oregon	Wasco	child_mortality_rate	56.5
+41067	Oregon	Washington	child_mortality_rate	40.8
+41069	Oregon	Wheeler	child_mortality_rate	
+41071	Oregon	Yamhill	child_mortality_rate	44.3
+42001	Pennsylvania	Adams	child_mortality_rate	51.2
+42003	Pennsylvania	Allegheny	child_mortality_rate	60.6
+42005	Pennsylvania	Armstrong	child_mortality_rate	49.8
+42007	Pennsylvania	Beaver	child_mortality_rate	53
+42009	Pennsylvania	Bedford	child_mortality_rate	56.9
+42011	Pennsylvania	Berks	child_mortality_rate	53.8
+42013	Pennsylvania	Blair	child_mortality_rate	45.1
+42015	Pennsylvania	Bradford	child_mortality_rate	60.7
+42017	Pennsylvania	Bucks	child_mortality_rate	34.5
+42019	Pennsylvania	Butler	child_mortality_rate	38.9
+42021	Pennsylvania	Cambria	child_mortality_rate	61.2
+42023	Pennsylvania	Cameron	child_mortality_rate	
+42025	Pennsylvania	Carbon	child_mortality_rate	41.8
+42027	Pennsylvania	Centre	child_mortality_rate	62
+42029	Pennsylvania	Chester	child_mortality_rate	39
+42031	Pennsylvania	Clarion	child_mortality_rate	62.7
+42033	Pennsylvania	Clearfield	child_mortality_rate	43.5
+42035	Pennsylvania	Clinton	child_mortality_rate	48.9
+42037	Pennsylvania	Columbia	child_mortality_rate	59
+42039	Pennsylvania	Crawford	child_mortality_rate	47
+42041	Pennsylvania	Cumberland	child_mortality_rate	40.7
+42043	Pennsylvania	Dauphin	child_mortality_rate	63.1
+42045	Pennsylvania	Delaware	child_mortality_rate	52
+42047	Pennsylvania	Elk	child_mortality_rate	39.9
+42049	Pennsylvania	Erie	child_mortality_rate	66.8
+42051	Pennsylvania	Fayette	child_mortality_rate	64.2
+42053	Pennsylvania	Forest	child_mortality_rate	
+42055	Pennsylvania	Franklin	child_mortality_rate	53.6
+42057	Pennsylvania	Fulton	child_mortality_rate	115
+42059	Pennsylvania	Greene	child_mortality_rate	79.5
+42061	Pennsylvania	Huntingdon	child_mortality_rate	56
+42063	Pennsylvania	Indiana	child_mortality_rate	57.2
+42065	Pennsylvania	Jefferson	child_mortality_rate	78.4
+42067	Pennsylvania	Juniata	child_mortality_rate	54.9
+42069	Pennsylvania	Lackawanna	child_mortality_rate	60
+42071	Pennsylvania	Lancaster	child_mortality_rate	63
+42073	Pennsylvania	Lawrence	child_mortality_rate	57
+42075	Pennsylvania	Lebanon	child_mortality_rate	54.7
+42077	Pennsylvania	Lehigh	child_mortality_rate	60.4
+42079	Pennsylvania	Luzerne	child_mortality_rate	50.4
+42081	Pennsylvania	Lycoming	child_mortality_rate	63.1
+42083	Pennsylvania	McKean	child_mortality_rate	39.8
+42085	Pennsylvania	Mercer	child_mortality_rate	44.9
+42087	Pennsylvania	Mifflin	child_mortality_rate	82.4
+42089	Pennsylvania	Monroe	child_mortality_rate	41
+42091	Pennsylvania	Montgomery	child_mortality_rate	39.6
+42093	Pennsylvania	Montour	child_mortality_rate	140.3
+42095	Pennsylvania	Northampton	child_mortality_rate	47.3
+42097	Pennsylvania	Northumberland	child_mortality_rate	39.8
+42099	Pennsylvania	Perry	child_mortality_rate	46.1
+42101	Pennsylvania	Philadelphia	child_mortality_rate	102.9
+42103	Pennsylvania	Pike	child_mortality_rate	23.5
+42105	Pennsylvania	Potter	child_mortality_rate	
+42107	Pennsylvania	Schuylkill	child_mortality_rate	55
+42109	Pennsylvania	Snyder	child_mortality_rate	44.5
+42111	Pennsylvania	Somerset	child_mortality_rate	50.1
+42113	Pennsylvania	Sullivan	child_mortality_rate	
+42115	Pennsylvania	Susquehanna	child_mortality_rate	55.7
+42117	Pennsylvania	Tioga	child_mortality_rate	51.5
+42119	Pennsylvania	Union	child_mortality_rate	65.6
+42121	Pennsylvania	Venango	child_mortality_rate	33
+42123	Pennsylvania	Warren	child_mortality_rate	58.8
+42125	Pennsylvania	Washington	child_mortality_rate	44
+42127	Pennsylvania	Wayne	child_mortality_rate	43.2
+42129	Pennsylvania	Westmoreland	child_mortality_rate	47
+42131	Pennsylvania	Wyoming	child_mortality_rate	51.9
+42133	Pennsylvania	York	child_mortality_rate	45.5
+44001	Rhode Island	Bristol	child_mortality_rate	
+44003	Rhode Island	Kent	child_mortality_rate	43.3
+44005	Rhode Island	Newport	child_mortality_rate	29.9
+44007	Rhode Island	Providence	child_mortality_rate	57.3
+44009	Rhode Island	Washington	child_mortality_rate	37.1
+45001	South Carolina	Abbeville	child_mortality_rate	96.4
+45003	South Carolina	Aiken	child_mortality_rate	65.9
+45005	South Carolina	Allendale	child_mortality_rate	134.2
+45007	South Carolina	Anderson	child_mortality_rate	68.8
+45009	South Carolina	Bamberg	child_mortality_rate	68.2
+45011	South Carolina	Barnwell	child_mortality_rate	55.3
+45013	South Carolina	Beaufort	child_mortality_rate	56.6
+45015	South Carolina	Berkeley	child_mortality_rate	68.6
+45017	South Carolina	Calhoun	child_mortality_rate	80.9
+45019	South Carolina	Charleston	child_mortality_rate	82.2
+45021	South Carolina	Cherokee	child_mortality_rate	75.5
+45023	South Carolina	Chester	child_mortality_rate	82.8
+45025	South Carolina	Chesterfield	child_mortality_rate	100.8
+45027	South Carolina	Clarendon	child_mortality_rate	78.5
+45029	South Carolina	Colleton	child_mortality_rate	77.6
+45031	South Carolina	Darlington	child_mortality_rate	89.5
+45033	South Carolina	Dillon	child_mortality_rate	73.1
+45035	South Carolina	Dorchester	child_mortality_rate	42.6
+45037	South Carolina	Edgefield	child_mortality_rate	
+45039	South Carolina	Fairfield	child_mortality_rate	106.7
+45041	South Carolina	Florence	child_mortality_rate	95.3
+45043	South Carolina	Georgetown	child_mortality_rate	88.3
+45045	South Carolina	Greenville	child_mortality_rate	60.9
+45047	South Carolina	Greenwood	child_mortality_rate	84.9
+45049	South Carolina	Hampton	child_mortality_rate	76.8
+45051	South Carolina	Horry	child_mortality_rate	82.4
+45053	South Carolina	Jasper	child_mortality_rate	62.5
+45055	South Carolina	Kershaw	child_mortality_rate	64.7
+45057	South Carolina	Lancaster	child_mortality_rate	71.8
+45059	South Carolina	Laurens	child_mortality_rate	72.8
+45061	South Carolina	Lee	child_mortality_rate	66.9
+45063	South Carolina	Lexington	child_mortality_rate	57
+45065	South Carolina	McCormick	child_mortality_rate	
+45067	South Carolina	Marion	child_mortality_rate	150.2
+45069	South Carolina	Marlboro	child_mortality_rate	81.2
+45071	South Carolina	Newberry	child_mortality_rate	55.8
+45073	South Carolina	Oconee	child_mortality_rate	59.1
+45075	South Carolina	Orangeburg	child_mortality_rate	131.3
+45077	South Carolina	Pickens	child_mortality_rate	63.2
+45079	South Carolina	Richland	child_mortality_rate	55.3
+45081	South Carolina	Saluda	child_mortality_rate	108.8
+45083	South Carolina	Spartanburg	child_mortality_rate	69.1
+45085	South Carolina	Sumter	child_mortality_rate	78
+45087	South Carolina	Union	child_mortality_rate	56
+45089	South Carolina	Williamsburg	child_mortality_rate	115.9
+45091	South Carolina	York	child_mortality_rate	63.4
+46003	South Dakota	Aurora	child_mortality_rate	
+46005	South Dakota	Beadle	child_mortality_rate	79.9
+46007	South Dakota	Bennett	child_mortality_rate	
+46009	South Dakota	Bon Homme	child_mortality_rate	
+46011	South Dakota	Brookings	child_mortality_rate	54.7
+46013	South Dakota	Brown	child_mortality_rate	56.6
+46015	South Dakota	Brule	child_mortality_rate	
+46017	South Dakota	Buffalo	child_mortality_rate	
+46019	South Dakota	Butte	child_mortality_rate	
+46021	South Dakota	Campbell	child_mortality_rate	
+46023	South Dakota	Charles Mix	child_mortality_rate	
+46025	South Dakota	Clark	child_mortality_rate	
+46027	South Dakota	Clay	child_mortality_rate	
+46029	South Dakota	Codington	child_mortality_rate	40.7
+46031	South Dakota	Corson	child_mortality_rate	292.5
+46033	South Dakota	Custer	child_mortality_rate	
+46035	South Dakota	Davison	child_mortality_rate	54.9
+46037	South Dakota	Day	child_mortality_rate	
+46039	South Dakota	Deuel	child_mortality_rate	
+46041	South Dakota	Dewey	child_mortality_rate	
+46043	South Dakota	Douglas	child_mortality_rate	
+46045	South Dakota	Edmunds	child_mortality_rate	
+46047	South Dakota	Fall River	child_mortality_rate	
+46049	South Dakota	Faulk	child_mortality_rate	
+46051	South Dakota	Grant	child_mortality_rate	
+46053	South Dakota	Gregory	child_mortality_rate	
+46055	South Dakota	Haakon	child_mortality_rate	
+46057	South Dakota	Hamlin	child_mortality_rate	
+46059	South Dakota	Hand	child_mortality_rate	
+46061	South Dakota	Hanson	child_mortality_rate	
+46063	South Dakota	Harding	child_mortality_rate	
+46065	South Dakota	Hughes	child_mortality_rate	80.2
+46067	South Dakota	Hutchinson	child_mortality_rate	
+46069	South Dakota	Hyde	child_mortality_rate	
+46071	South Dakota	Jackson	child_mortality_rate	
+46073	South Dakota	Jerauld	child_mortality_rate	
+46075	South Dakota	Jones	child_mortality_rate	
+46077	South Dakota	Kingsbury	child_mortality_rate	
+46079	South Dakota	Lake	child_mortality_rate	
+46081	South Dakota	Lawrence	child_mortality_rate	52.9
+46083	South Dakota	Lincoln	child_mortality_rate	45.7
+46085	South Dakota	Lyman	child_mortality_rate	
+46087	South Dakota	McCook	child_mortality_rate	
+46089	South Dakota	McPherson	child_mortality_rate	
+46091	South Dakota	Marshall	child_mortality_rate	
+46093	South Dakota	Meade	child_mortality_rate	102.5
+46095	South Dakota	Mellette	child_mortality_rate	
+46097	South Dakota	Miner	child_mortality_rate	
+46099	South Dakota	Minnehaha	child_mortality_rate	64
+46101	South Dakota	Moody	child_mortality_rate	
+46103	South Dakota	Pennington	child_mortality_rate	75.2
+46105	South Dakota	Perkins	child_mortality_rate	
+46107	South Dakota	Potter	child_mortality_rate	
+46109	South Dakota	Roberts	child_mortality_rate	105.7
+46111	South Dakota	Sanborn	child_mortality_rate	
+46113	South Dakota	Shannon	child_mortality_rate	204.5
+46115	South Dakota	Spink	child_mortality_rate	
+46117	South Dakota	Stanley	child_mortality_rate	
+46119	South Dakota	Sully	child_mortality_rate	
+46121	South Dakota	Todd	child_mortality_rate	176.9
+46123	South Dakota	Tripp	child_mortality_rate	
+46125	South Dakota	Turner	child_mortality_rate	
+46127	South Dakota	Union	child_mortality_rate	
+46129	South Dakota	Walworth	child_mortality_rate	
+46135	South Dakota	Yankton	child_mortality_rate	60.2
+46137	South Dakota	Ziebach	child_mortality_rate	
+47001	Tennessee	Anderson	child_mortality_rate	45.3
+47003	Tennessee	Bedford	child_mortality_rate	81.5
+47005	Tennessee	Benton	child_mortality_rate	
+47007	Tennessee	Bledsoe	child_mortality_rate	
+47009	Tennessee	Blount	child_mortality_rate	49.2
+47011	Tennessee	Bradley	child_mortality_rate	52.9
+47013	Tennessee	Campbell	child_mortality_rate	58.3
+47015	Tennessee	Cannon	child_mortality_rate	
+47017	Tennessee	Carroll	child_mortality_rate	51.3
+47019	Tennessee	Carter	child_mortality_rate	78.9
+47021	Tennessee	Cheatham	child_mortality_rate	43.1
+47023	Tennessee	Chester	child_mortality_rate	75.8
+47025	Tennessee	Claiborne	child_mortality_rate	80.2
+47027	Tennessee	Clay	child_mortality_rate	
+47029	Tennessee	Cocke	child_mortality_rate	70.8
+47031	Tennessee	Coffee	child_mortality_rate	63.4
+47033	Tennessee	Crockett	child_mortality_rate	77.1
+47035	Tennessee	Cumberland	child_mortality_rate	74.6
+47037	Tennessee	Davidson	child_mortality_rate	80.2
+47039	Tennessee	Decatur	child_mortality_rate	99
+47041	Tennessee	DeKalb	child_mortality_rate	92.7
+47043	Tennessee	Dickson	child_mortality_rate	88.1
+47045	Tennessee	Dyer	child_mortality_rate	88
+47047	Tennessee	Fayette	child_mortality_rate	60.4
+47049	Tennessee	Fentress	child_mortality_rate	83.9
+47051	Tennessee	Franklin	child_mortality_rate	57.8
+47053	Tennessee	Gibson	child_mortality_rate	63.1
+47055	Tennessee	Giles	child_mortality_rate	67.5
+47057	Tennessee	Grainger	child_mortality_rate	
+47059	Tennessee	Greene	child_mortality_rate	46
+47061	Tennessee	Grundy	child_mortality_rate	108.2
+47063	Tennessee	Hamblen	child_mortality_rate	52.9
+47065	Tennessee	Hamilton	child_mortality_rate	77.4
+47067	Tennessee	Hancock	child_mortality_rate	
+47069	Tennessee	Hardeman	child_mortality_rate	46.1
+47071	Tennessee	Hardin	child_mortality_rate	82.6
+47073	Tennessee	Hawkins	child_mortality_rate	48.8
+47075	Tennessee	Haywood	child_mortality_rate	111.4
+47077	Tennessee	Henderson	child_mortality_rate	63.7
+47079	Tennessee	Henry	child_mortality_rate	99.4
+47081	Tennessee	Hickman	child_mortality_rate	114.3
+47083	Tennessee	Houston	child_mortality_rate	
+47085	Tennessee	Humphreys	child_mortality_rate	
+47087	Tennessee	Jackson	child_mortality_rate	
+47089	Tennessee	Jefferson	child_mortality_rate	74.1
+47091	Tennessee	Johnson	child_mortality_rate	
+47093	Tennessee	Knox	child_mortality_rate	51.6
+47095	Tennessee	Lake	child_mortality_rate	
+47097	Tennessee	Lauderdale	child_mortality_rate	87.4
+47099	Tennessee	Lawrence	child_mortality_rate	52.2
+47101	Tennessee	Lewis	child_mortality_rate	
+47103	Tennessee	Lincoln	child_mortality_rate	77.8
+47105	Tennessee	Loudon	child_mortality_rate	33.2
+47107	Tennessee	McMinn	child_mortality_rate	62.3
+47109	Tennessee	McNairy	child_mortality_rate	69.4
+47111	Tennessee	Macon	child_mortality_rate	85.3
+47113	Tennessee	Madison	child_mortality_rate	77.6
+47115	Tennessee	Marion	child_mortality_rate	89
+47117	Tennessee	Marshall	child_mortality_rate	93.1
+47119	Tennessee	Maury	child_mortality_rate	73.3
+47121	Tennessee	Meigs	child_mortality_rate	
+47123	Tennessee	Monroe	child_mortality_rate	53.5
+47125	Tennessee	Montgomery	child_mortality_rate	70.9
+47127	Tennessee	Moore	child_mortality_rate	
+47129	Tennessee	Morgan	child_mortality_rate	
+47131	Tennessee	Obion	child_mortality_rate	88.7
+47133	Tennessee	Overton	child_mortality_rate	
+47135	Tennessee	Perry	child_mortality_rate	
+47137	Tennessee	Pickett	child_mortality_rate	
+47139	Tennessee	Polk	child_mortality_rate	99.4
+47141	Tennessee	Putnam	child_mortality_rate	56.8
+47143	Tennessee	Rhea	child_mortality_rate	70.9
+47145	Tennessee	Roane	child_mortality_rate	61
+47147	Tennessee	Robertson	child_mortality_rate	53.2
+47149	Tennessee	Rutherford	child_mortality_rate	54.1
+47151	Tennessee	Scott	child_mortality_rate	75.2
+47153	Tennessee	Sequatchie	child_mortality_rate	97.2
+47155	Tennessee	Sevier	child_mortality_rate	74.9
+47157	Tennessee	Shelby	child_mortality_rate	99.1
+47159	Tennessee	Smith	child_mortality_rate	
+47161	Tennessee	Stewart	child_mortality_rate	
+47163	Tennessee	Sullivan	child_mortality_rate	62.9
+47165	Tennessee	Sumner	child_mortality_rate	55.7
+47167	Tennessee	Tipton	child_mortality_rate	60.5
+47169	Tennessee	Trousdale	child_mortality_rate	
+47171	Tennessee	Unicoi	child_mortality_rate	81.5
+47173	Tennessee	Union	child_mortality_rate	
+47175	Tennessee	Van Buren	child_mortality_rate	
+47177	Tennessee	Warren	child_mortality_rate	54.4
+47179	Tennessee	Washington	child_mortality_rate	60.8
+47181	Tennessee	Wayne	child_mortality_rate	
+47183	Tennessee	Weakley	child_mortality_rate	50.1
+47185	Tennessee	White	child_mortality_rate	55.7
+47187	Tennessee	Williamson	child_mortality_rate	23.6
+47189	Tennessee	Wilson	child_mortality_rate	50.9
+48001	Texas	Anderson	child_mortality_rate	62.8
+48003	Texas	Andrews	child_mortality_rate	96.1
+48005	Texas	Angelina	child_mortality_rate	62.8
+48007	Texas	Aransas	child_mortality_rate	58.9
+48009	Texas	Archer	child_mortality_rate	
+48011	Texas	Armstrong	child_mortality_rate	
+48013	Texas	Atascosa	child_mortality_rate	48.7
+48015	Texas	Austin	child_mortality_rate	74
+48017	Texas	Bailey	child_mortality_rate	
+48019	Texas	Bandera	child_mortality_rate	
+48021	Texas	Bastrop	child_mortality_rate	54.7
+48023	Texas	Baylor	child_mortality_rate	
+48025	Texas	Bee	child_mortality_rate	68.2
+48027	Texas	Bell	child_mortality_rate	81.7
+48029	Texas	Bexar	child_mortality_rate	56.8
+48031	Texas	Blanco	child_mortality_rate	111
+48033	Texas	Borden	child_mortality_rate	
+48035	Texas	Bosque	child_mortality_rate	
+48037	Texas	Bowie	child_mortality_rate	57
+48039	Texas	Brazoria	child_mortality_rate	53.7
+48041	Texas	Brazos	child_mortality_rate	54.9
+48043	Texas	Brewster	child_mortality_rate	
+48045	Texas	Briscoe	child_mortality_rate	
+48047	Texas	Brooks	child_mortality_rate	
+48049	Texas	Brown	child_mortality_rate	51.6
+48051	Texas	Burleson	child_mortality_rate	
+48053	Texas	Burnet	child_mortality_rate	45.3
+48055	Texas	Caldwell	child_mortality_rate	70.4
+48057	Texas	Calhoun	child_mortality_rate	65.4
+48059	Texas	Callahan	child_mortality_rate	
+48061	Texas	Cameron	child_mortality_rate	52.7
+48063	Texas	Camp	child_mortality_rate	75.7
+48065	Texas	Carson	child_mortality_rate	
+48067	Texas	Cass	child_mortality_rate	81
+48069	Texas	Castro	child_mortality_rate	
+48071	Texas	Chambers	child_mortality_rate	36.9
+48073	Texas	Cherokee	child_mortality_rate	70.9
+48075	Texas	Childress	child_mortality_rate	
+48077	Texas	Clay	child_mortality_rate	
+48079	Texas	Cochran	child_mortality_rate	
+48081	Texas	Coke	child_mortality_rate	
+48083	Texas	Coleman	child_mortality_rate	
+48085	Texas	Collin	child_mortality_rate	37.7
+48087	Texas	Collingsworth	child_mortality_rate	
+48089	Texas	Colorado	child_mortality_rate	70.9
+48091	Texas	Comal	child_mortality_rate	48.9
+48093	Texas	Comanche	child_mortality_rate	73.8
+48095	Texas	Concho	child_mortality_rate	
+48097	Texas	Cooke	child_mortality_rate	73.1
+48099	Texas	Coryell	child_mortality_rate	54
+48101	Texas	Cottle	child_mortality_rate	
+48103	Texas	Crane	child_mortality_rate	
+48105	Texas	Crockett	child_mortality_rate	
+48107	Texas	Crosby	child_mortality_rate	
+48109	Texas	Culberson	child_mortality_rate	
+48111	Texas	Dallam	child_mortality_rate	126.7
+48113	Texas	Dallas	child_mortality_rate	68.1
+48115	Texas	Dawson	child_mortality_rate	
+48117	Texas	Deaf Smith	child_mortality_rate	100.9
+48119	Texas	Delta	child_mortality_rate	
+48121	Texas	Denton	child_mortality_rate	39.6
+48123	Texas	DeWitt	child_mortality_rate	67
+48125	Texas	Dickens	child_mortality_rate	
+48127	Texas	Dimmit	child_mortality_rate	
+48129	Texas	Donley	child_mortality_rate	
+48131	Texas	Duval	child_mortality_rate	
+48133	Texas	Eastland	child_mortality_rate	71
+48135	Texas	Ector	child_mortality_rate	74.7
+48137	Texas	Edwards	child_mortality_rate	
+48139	Texas	Ellis	child_mortality_rate	45.4
+48141	Texas	El Paso	child_mortality_rate	44.1
+48143	Texas	Erath	child_mortality_rate	54.4
+48145	Texas	Falls	child_mortality_rate	106
+48147	Texas	Fannin	child_mortality_rate	59.8
+48149	Texas	Fayette	child_mortality_rate	46.2
+48151	Texas	Fisher	child_mortality_rate	
+48153	Texas	Floyd	child_mortality_rate	
+48155	Texas	Foard	child_mortality_rate	
+48157	Texas	Fort Bend	child_mortality_rate	36.7
+48159	Texas	Franklin	child_mortality_rate	
+48161	Texas	Freestone	child_mortality_rate	54.6
+48163	Texas	Frio	child_mortality_rate	
+48165	Texas	Gaines	child_mortality_rate	59.8
+48167	Texas	Galveston	child_mortality_rate	52.6
+48169	Texas	Garza	child_mortality_rate	
+48171	Texas	Gillespie	child_mortality_rate	60.7
+48173	Texas	Glasscock	child_mortality_rate	
+48175	Texas	Goliad	child_mortality_rate	
+48177	Texas	Gonzales	child_mortality_rate	65.4
+48179	Texas	Gray	child_mortality_rate	107.1
+48181	Texas	Grayson	child_mortality_rate	56
+48183	Texas	Gregg	child_mortality_rate	70.4
+48185	Texas	Grimes	child_mortality_rate	66.1
+48187	Texas	Guadalupe	child_mortality_rate	48.3
+48189	Texas	Hale	child_mortality_rate	62.8
+48191	Texas	Hall	child_mortality_rate	
+48193	Texas	Hamilton	child_mortality_rate	
+48195	Texas	Hansford	child_mortality_rate	
+48197	Texas	Hardeman	child_mortality_rate	
+48199	Texas	Hardin	child_mortality_rate	42.9
+48201	Texas	Harris	child_mortality_rate	61.5
+48203	Texas	Harrison	child_mortality_rate	64.4
+48205	Texas	Hartley	child_mortality_rate	
+48207	Texas	Haskell	child_mortality_rate	
+48209	Texas	Hays	child_mortality_rate	40.9
+48211	Texas	Hemphill	child_mortality_rate	
+48213	Texas	Henderson	child_mortality_rate	67.8
+48215	Texas	Hidalgo	child_mortality_rate	54.4
+48217	Texas	Hill	child_mortality_rate	93.5
+48219	Texas	Hockley	child_mortality_rate	52.3
+48221	Texas	Hood	child_mortality_rate	59.8
+48223	Texas	Hopkins	child_mortality_rate	39.3
+48225	Texas	Houston	child_mortality_rate	
+48227	Texas	Howard	child_mortality_rate	83.3
+48229	Texas	Hudspeth	child_mortality_rate	
+48231	Texas	Hunt	child_mortality_rate	64.3
+48233	Texas	Hutchinson	child_mortality_rate	104.5
+48235	Texas	Irion	child_mortality_rate	
+48237	Texas	Jack	child_mortality_rate	123.9
+48239	Texas	Jackson	child_mortality_rate	
+48241	Texas	Jasper	child_mortality_rate	71.1
+48243	Texas	Jeff Davis	child_mortality_rate	
+48245	Texas	Jefferson	child_mortality_rate	65.5
+48247	Texas	Jim Hogg	child_mortality_rate	
+48249	Texas	Jim Wells	child_mortality_rate	69.4
+48251	Texas	Johnson	child_mortality_rate	61.3
+48253	Texas	Jones	child_mortality_rate	
+48255	Texas	Karnes	child_mortality_rate	83.7
+48257	Texas	Kaufman	child_mortality_rate	54.6
+48259	Texas	Kendall	child_mortality_rate	57.1
+48261	Texas	Kenedy	child_mortality_rate	
+48263	Texas	Kent	child_mortality_rate	
+48265	Texas	Kerr	child_mortality_rate	52.4
+48267	Texas	Kimble	child_mortality_rate	
+48269	Texas	King	child_mortality_rate	
+48271	Texas	Kinney	child_mortality_rate	
+48273	Texas	Kleberg	child_mortality_rate	47.1
+48275	Texas	Knox	child_mortality_rate	
+48277	Texas	Lamar	child_mortality_rate	57.2
+48279	Texas	Lamb	child_mortality_rate	66.3
+48281	Texas	Lampasas	child_mortality_rate	65.2
+48283	Texas	La Salle	child_mortality_rate	
+48285	Texas	Lavaca	child_mortality_rate	
+48287	Texas	Lee	child_mortality_rate	58.3
+48289	Texas	Leon	child_mortality_rate	
+48291	Texas	Liberty	child_mortality_rate	65.6
+48293	Texas	Limestone	child_mortality_rate	82.3
+48295	Texas	Lipscomb	child_mortality_rate	
+48297	Texas	Live Oak	child_mortality_rate	
+48299	Texas	Llano	child_mortality_rate	
+48301	Texas	Loving	child_mortality_rate	
+48303	Texas	Lubbock	child_mortality_rate	65.5
+48305	Texas	Lynn	child_mortality_rate	
+48307	Texas	McCulloch	child_mortality_rate	
+48309	Texas	McLennan	child_mortality_rate	73.8
+48311	Texas	McMullen	child_mortality_rate	
+48313	Texas	Madison	child_mortality_rate	
+48315	Texas	Marion	child_mortality_rate	
+48317	Texas	Martin	child_mortality_rate	
+48319	Texas	Mason	child_mortality_rate	
+48321	Texas	Matagorda	child_mortality_rate	59.1
+48323	Texas	Maverick	child_mortality_rate	45.8
+48325	Texas	Medina	child_mortality_rate	48.6
+48327	Texas	Menard	child_mortality_rate	
+48329	Texas	Midland	child_mortality_rate	50.9
+48331	Texas	Milam	child_mortality_rate	68.1
+48333	Texas	Mills	child_mortality_rate	
+48335	Texas	Mitchell	child_mortality_rate	
+48337	Texas	Montague	child_mortality_rate	71
+48339	Texas	Montgomery	child_mortality_rate	43.2
+48341	Texas	Moore	child_mortality_rate	47.5
+48343	Texas	Morris	child_mortality_rate	97.3
+48345	Texas	Motley	child_mortality_rate	
+48347	Texas	Nacogdoches	child_mortality_rate	69.2
+48349	Texas	Navarro	child_mortality_rate	57.7
+48351	Texas	Newton	child_mortality_rate	
+48353	Texas	Nolan	child_mortality_rate	110.2
+48355	Texas	Nueces	child_mortality_rate	55.5
+48357	Texas	Ochiltree	child_mortality_rate	
+48359	Texas	Oldham	child_mortality_rate	
+48361	Texas	Orange	child_mortality_rate	74.8
+48363	Texas	Palo Pinto	child_mortality_rate	78
+48365	Texas	Panola	child_mortality_rate	64.4
+48367	Texas	Parker	child_mortality_rate	64.3
+48369	Texas	Parmer	child_mortality_rate	
+48371	Texas	Pecos	child_mortality_rate	
+48373	Texas	Polk	child_mortality_rate	118.2
+48375	Texas	Potter	child_mortality_rate	111.9
+48377	Texas	Presidio	child_mortality_rate	
+48379	Texas	Rains	child_mortality_rate	
+48381	Texas	Randall	child_mortality_rate	65.5
+48383	Texas	Reagan	child_mortality_rate	
+48385	Texas	Real	child_mortality_rate	
+48387	Texas	Red River	child_mortality_rate	115.1
+48389	Texas	Reeves	child_mortality_rate	89.1
+48391	Texas	Refugio	child_mortality_rate	
+48393	Texas	Roberts	child_mortality_rate	
+48395	Texas	Robertson	child_mortality_rate	64.1
+48397	Texas	Rockwall	child_mortality_rate	29.8
+48399	Texas	Runnels	child_mortality_rate	
+48401	Texas	Rusk	child_mortality_rate	51
+48403	Texas	Sabine	child_mortality_rate	131.3
+48405	Texas	San Augustine	child_mortality_rate	
+48407	Texas	San Jacinto	child_mortality_rate	55.2
+48409	Texas	San Patricio	child_mortality_rate	57.3
+48411	Texas	San Saba	child_mortality_rate	
+48413	Texas	Schleicher	child_mortality_rate	
+48415	Texas	Scurry	child_mortality_rate	66.3
+48417	Texas	Shackelford	child_mortality_rate	
+48419	Texas	Shelby	child_mortality_rate	88.6
+48421	Texas	Sherman	child_mortality_rate	
+48423	Texas	Smith	child_mortality_rate	64.1
+48425	Texas	Somervell	child_mortality_rate	
+48427	Texas	Starr	child_mortality_rate	65.4
+48429	Texas	Stephens	child_mortality_rate	
+48431	Texas	Sterling	child_mortality_rate	
+48433	Texas	Stonewall	child_mortality_rate	
+48435	Texas	Sutton	child_mortality_rate	
+48437	Texas	Swisher	child_mortality_rate	
+48439	Texas	Tarrant	child_mortality_rate	62.9
+48441	Texas	Taylor	child_mortality_rate	76.1
+48443	Texas	Terrell	child_mortality_rate	
+48445	Texas	Terry	child_mortality_rate	92.9
+48447	Texas	Throckmorton	child_mortality_rate	
+48449	Texas	Titus	child_mortality_rate	52.2
+48451	Texas	Tom Green	child_mortality_rate	53.4
+48453	Texas	Travis	child_mortality_rate	53.9
+48455	Texas	Trinity	child_mortality_rate	
+48457	Texas	Tyler	child_mortality_rate	
+48459	Texas	Upshur	child_mortality_rate	56.6
+48461	Texas	Upton	child_mortality_rate	
+48463	Texas	Uvalde	child_mortality_rate	39
+48465	Texas	Val Verde	child_mortality_rate	48.3
+48467	Texas	Van Zandt	child_mortality_rate	64.6
+48469	Texas	Victoria	child_mortality_rate	56
+48471	Texas	Walker	child_mortality_rate	70.2
+48473	Texas	Waller	child_mortality_rate	77.9
+48475	Texas	Ward	child_mortality_rate	
+48477	Texas	Washington	child_mortality_rate	47.1
+48479	Texas	Webb	child_mortality_rate	58.3
+48481	Texas	Wharton	child_mortality_rate	49.9
+48483	Texas	Wheeler	child_mortality_rate	
+48485	Texas	Wichita	child_mortality_rate	75.2
+48487	Texas	Wilbarger	child_mortality_rate	85.2
+48489	Texas	Willacy	child_mortality_rate	58.6
+48491	Texas	Williamson	child_mortality_rate	35
+48493	Texas	Wilson	child_mortality_rate	64.6
+48495	Texas	Winkler	child_mortality_rate	
+48497	Texas	Wise	child_mortality_rate	61.4
+48499	Texas	Wood	child_mortality_rate	66.5
+48501	Texas	Yoakum	child_mortality_rate	
+48503	Texas	Young	child_mortality_rate	
+48505	Texas	Zapata	child_mortality_rate	115.4
+48507	Texas	Zavala	child_mortality_rate	73.1
+49001	Utah	Beaver	child_mortality_rate	
+49003	Utah	Box Elder	child_mortality_rate	54.1
+49005	Utah	Cache	child_mortality_rate	50.2
+49007	Utah	Carbon	child_mortality_rate	63.1
+49009	Utah	Daggett	child_mortality_rate	
+49011	Utah	Davis	child_mortality_rate	50.8
+49013	Utah	Duchesne	child_mortality_rate	70.4
+49015	Utah	Emery	child_mortality_rate	
+49017	Utah	Garfield	child_mortality_rate	
+49019	Utah	Grand	child_mortality_rate	
+49021	Utah	Iron	child_mortality_rate	64
+49023	Utah	Juab	child_mortality_rate	66.1
+49025	Utah	Kane	child_mortality_rate	
+49027	Utah	Millard	child_mortality_rate	
+49029	Utah	Morgan	child_mortality_rate	
+49031	Utah	Piute	child_mortality_rate	
+49033	Utah	Rich	child_mortality_rate	
+49035	Utah	Salt Lake	child_mortality_rate	54.2
+49037	Utah	San Juan	child_mortality_rate	60.7
+49039	Utah	Sanpete	child_mortality_rate	61.2
+49041	Utah	Sevier	child_mortality_rate	52.9
+49043	Utah	Summit	child_mortality_rate	40.1
+49045	Utah	Tooele	child_mortality_rate	47.7
+49047	Utah	Uintah	child_mortality_rate	57.4
+49049	Utah	Utah	child_mortality_rate	48.7
+49051	Utah	Wasatch	child_mortality_rate	69
+49053	Utah	Washington	child_mortality_rate	53.4
+49055	Utah	Wayne	child_mortality_rate	
+49057	Utah	Weber	child_mortality_rate	58.5
+50001	Vermont	Addison	child_mortality_rate	35.2
+50003	Vermont	Bennington	child_mortality_rate	58.2
+50005	Vermont	Caledonia	child_mortality_rate	
+50007	Vermont	Chittenden	child_mortality_rate	28.5
+50009	Vermont	Essex	child_mortality_rate	
+50011	Vermont	Franklin	child_mortality_rate	35.4
+50013	Vermont	Grand Isle	child_mortality_rate	
+50015	Vermont	Lamoille	child_mortality_rate	54.9
+50017	Vermont	Orange	child_mortality_rate	52.1
+50019	Vermont	Orleans	child_mortality_rate	
+50021	Vermont	Rutland	child_mortality_rate	48.6
+50023	Vermont	Washington	child_mortality_rate	58.2
+50025	Vermont	Windham	child_mortality_rate	41.4
+50027	Vermont	Windsor	child_mortality_rate	41.2
+51001	Virginia	Accomack	child_mortality_rate	80
+51003	Virginia	Albemarle	child_mortality_rate	45.9
+51005	Virginia	Alleghany	child_mortality_rate	
+51007	Virginia	Amelia	child_mortality_rate	
+51009	Virginia	Amherst	child_mortality_rate	64
+51011	Virginia	Appomattox	child_mortality_rate	
+51013	Virginia	Arlington	child_mortality_rate	53.8
+51015	Virginia	Augusta	child_mortality_rate	49.7
+51017	Virginia	Bath	child_mortality_rate	
+51019	Virginia	Bedford	child_mortality_rate	43.7
+51021	Virginia	Bland	child_mortality_rate	
+51023	Virginia	Botetourt	child_mortality_rate	66.9
+51025	Virginia	Brunswick	child_mortality_rate	101.5
+51027	Virginia	Buchanan	child_mortality_rate	81.8
+51029	Virginia	Buckingham	child_mortality_rate	75.2
+51031	Virginia	Campbell	child_mortality_rate	51.6
+51033	Virginia	Caroline	child_mortality_rate	69.4
+51035	Virginia	Carroll	child_mortality_rate	63.9
+51036	Virginia	Charles City	child_mortality_rate	
+51037	Virginia	Charlotte	child_mortality_rate	84.3
+51041	Virginia	Chesterfield	child_mortality_rate	42.1
+51043	Virginia	Clarke	child_mortality_rate	
+51045	Virginia	Craig	child_mortality_rate	
+51047	Virginia	Culpeper	child_mortality_rate	66.6
+51049	Virginia	Cumberland	child_mortality_rate	108
+51051	Virginia	Dickenson	child_mortality_rate	
+51053	Virginia	Dinwiddie	child_mortality_rate	71.1
+51057	Virginia	Essex	child_mortality_rate	
+51059	Virginia	Fairfax	child_mortality_rate	41.3
+51061	Virginia	Fauquier	child_mortality_rate	39.2
+51063	Virginia	Floyd	child_mortality_rate	97.6
+51065	Virginia	Fluvanna	child_mortality_rate	50.3
+51067	Virginia	Franklin	child_mortality_rate	53.6
+51069	Virginia	Frederick	child_mortality_rate	44.5
+51071	Virginia	Giles	child_mortality_rate	73.1
+51073	Virginia	Gloucester	child_mortality_rate	42.1
+51075	Virginia	Goochland	child_mortality_rate	
+51077	Virginia	Grayson	child_mortality_rate	81.2
+51079	Virginia	Greene	child_mortality_rate	59.2
+51081	Virginia	Greensville	child_mortality_rate	
+51083	Virginia	Halifax	child_mortality_rate	79.9
+51085	Virginia	Hanover	child_mortality_rate	33.5
+51087	Virginia	Henrico	child_mortality_rate	51.9
+51089	Virginia	Henry	child_mortality_rate	70.5
+51091	Virginia	Highland	child_mortality_rate	
+51093	Virginia	Isle of Wight	child_mortality_rate	52.7
+51095	Virginia	James City	child_mortality_rate	44
+51097	Virginia	King and Queen	child_mortality_rate	
+51099	Virginia	King George	child_mortality_rate	73.9
+51101	Virginia	King William	child_mortality_rate	70.1
+51103	Virginia	Lancaster	child_mortality_rate	
+51105	Virginia	Lee	child_mortality_rate	47.9
+51107	Virginia	Loudoun	child_mortality_rate	30
+51109	Virginia	Louisa	child_mortality_rate	51.4
+51111	Virginia	Lunenburg	child_mortality_rate	
+51113	Virginia	Madison	child_mortality_rate	
+51115	Virginia	Mathews	child_mortality_rate	
+51117	Virginia	Mecklenburg	child_mortality_rate	69.1
+51119	Virginia	Middlesex	child_mortality_rate	
+51121	Virginia	Montgomery	child_mortality_rate	46.7
+51125	Virginia	Nelson	child_mortality_rate	
+51127	Virginia	New Kent	child_mortality_rate	
+51131	Virginia	Northampton	child_mortality_rate	
+51133	Virginia	Northumberland	child_mortality_rate	
+51135	Virginia	Nottoway	child_mortality_rate	
+51137	Virginia	Orange	child_mortality_rate	48.9
+51139	Virginia	Page	child_mortality_rate	56.6
+51141	Virginia	Patrick	child_mortality_rate	75.9
+51143	Virginia	Pittsylvania	child_mortality_rate	60.4
+51145	Virginia	Powhatan	child_mortality_rate	38.2
+51147	Virginia	Prince Edward	child_mortality_rate	
+51149	Virginia	Prince George	child_mortality_rate	49.4
+51153	Virginia	Prince William	child_mortality_rate	50.6
+51155	Virginia	Pulaski	child_mortality_rate	68.7
+51157	Virginia	Rappahannock	child_mortality_rate	
+51159	Virginia	Richmond	child_mortality_rate	
+51161	Virginia	Roanoke	child_mortality_rate	38.3
+51163	Virginia	Rockbridge	child_mortality_rate	97
+51165	Virginia	Rockingham	child_mortality_rate	50
+51167	Virginia	Russell	child_mortality_rate	83.6
+51169	Virginia	Scott	child_mortality_rate	82.4
+51171	Virginia	Shenandoah	child_mortality_rate	45.9
+51173	Virginia	Smyth	child_mortality_rate	62.2
+51175	Virginia	Southampton	child_mortality_rate	88.3
+51177	Virginia	Spotsylvania	child_mortality_rate	62.7
+51179	Virginia	Stafford	child_mortality_rate	50.1
+51181	Virginia	Surry	child_mortality_rate	
+51183	Virginia	Sussex	child_mortality_rate	
+51185	Virginia	Tazewell	child_mortality_rate	73.1
+51187	Virginia	Warren	child_mortality_rate	44
+51191	Virginia	Washington	child_mortality_rate	64.7
+51193	Virginia	Westmoreland	child_mortality_rate	92.1
+51195	Virginia	Wise	child_mortality_rate	54.8
+51197	Virginia	Wythe	child_mortality_rate	57
+51199	Virginia	York	child_mortality_rate	34.7
+51510	Virginia	Alexandria City	child_mortality_rate	80.4
+51515	Virginia	Bedford City	child_mortality_rate	
+51520	Virginia	Bristol City	child_mortality_rate	
+51530	Virginia	Buena Vista City	child_mortality_rate	
+51540	Virginia	Charlottesville City	child_mortality_rate	117.7
+51550	Virginia	Chesapeake City	child_mortality_rate	58.9
+51570	Virginia	Colonial Heights City	child_mortality_rate	83.4
+51580	Virginia	Covington City	child_mortality_rate	
+51590	Virginia	Danville City	child_mortality_rate	111.7
+51595	Virginia	Emporia City	child_mortality_rate	
+51600	Virginia	Fairfax City	child_mortality_rate	101.5
+51610	Virginia	Falls Church City	child_mortality_rate	
+51620	Virginia	Franklin City	child_mortality_rate	
+51630	Virginia	Fredericksburg City	child_mortality_rate	157.9
+51640	Virginia	Galax City	child_mortality_rate	
+51650	Virginia	Hampton City	child_mortality_rate	69.3
+51660	Virginia	Harrisonburg City	child_mortality_rate	80.2
+51670	Virginia	Hopewell City	child_mortality_rate	70.1
+51678	Virginia	Lexington City	child_mortality_rate	
+51680	Virginia	Lynchburg City	child_mortality_rate	78.3
+51683	Virginia	Manassas City	child_mortality_rate	63.3
+51685	Virginia	Manassas Park City	child_mortality_rate	
+51690	Virginia	Martinsville City	child_mortality_rate	116.8
+51700	Virginia	Newport News City	child_mortality_rate	92.5
+51710	Virginia	Norfolk City	child_mortality_rate	121
+51720	Virginia	Norton City	child_mortality_rate	
+51730	Virginia	Petersburg City	child_mortality_rate	177.3
+51735	Virginia	Poquoson City	child_mortality_rate	
+51740	Virginia	Portsmouth City	child_mortality_rate	100.5
+51750	Virginia	Radford City	child_mortality_rate	
+51760	Virginia	Richmond City	child_mortality_rate	123.4
+51770	Virginia	Roanoke City	child_mortality_rate	97.6
+51775	Virginia	Salem City	child_mortality_rate	50.6
+51790	Virginia	Staunton City	child_mortality_rate	60
+51800	Virginia	Suffolk City	child_mortality_rate	49.9
+51810	Virginia	Virginia Beach City	child_mortality_rate	52.5
+51820	Virginia	Waynesboro City	child_mortality_rate	73
+51830	Virginia	Williamsburg City	child_mortality_rate	
+51840	Virginia	Winchester City	child_mortality_rate	83.6
+53001	Washington	Adams	child_mortality_rate	77.2
+53003	Washington	Asotin	child_mortality_rate	
+53005	Washington	Benton	child_mortality_rate	45.5
+53007	Washington	Chelan	child_mortality_rate	39.3
+53009	Washington	Clallam	child_mortality_rate	53.5
+53011	Washington	Clark	child_mortality_rate	41.9
+53013	Washington	Columbia	child_mortality_rate	
+53015	Washington	Cowlitz	child_mortality_rate	55.8
+53017	Washington	Douglas	child_mortality_rate	55.9
+53019	Washington	Ferry	child_mortality_rate	
+53021	Washington	Franklin	child_mortality_rate	44.8
+53023	Washington	Garfield	child_mortality_rate	
+53025	Washington	Grant	child_mortality_rate	59
+53027	Washington	Grays Harbor	child_mortality_rate	42.3
+53029	Washington	Island	child_mortality_rate	34.5
+53031	Washington	Jefferson	child_mortality_rate	
+53033	Washington	King	child_mortality_rate	38.7
+53035	Washington	Kitsap	child_mortality_rate	47.2
+53037	Washington	Kittitas	child_mortality_rate	
+53039	Washington	Klickitat	child_mortality_rate	66.3
+53041	Washington	Lewis	child_mortality_rate	36.8
+53043	Washington	Lincoln	child_mortality_rate	
+53045	Washington	Mason	child_mortality_rate	52.9
+53047	Washington	Okanogan	child_mortality_rate	67.8
+53049	Washington	Pacific	child_mortality_rate	97.5
+53051	Washington	Pend Oreille	child_mortality_rate	
+53053	Washington	Pierce	child_mortality_rate	52.8
+53055	Washington	San Juan	child_mortality_rate	
+53057	Washington	Skagit	child_mortality_rate	37
+53059	Washington	Skamania	child_mortality_rate	
+53061	Washington	Snohomish	child_mortality_rate	37.5
+53063	Washington	Spokane	child_mortality_rate	48.8
+53065	Washington	Stevens	child_mortality_rate	77.3
+53067	Washington	Thurston	child_mortality_rate	46
+53069	Washington	Wahkiakum	child_mortality_rate	
+53071	Washington	Walla Walla	child_mortality_rate	49.3
+53073	Washington	Whatcom	child_mortality_rate	40.5
+53075	Washington	Whitman	child_mortality_rate	48.5
+53077	Washington	Yakima	child_mortality_rate	65.7
+54001	West Virginia	Barbour	child_mortality_rate	
+54003	West Virginia	Berkeley	child_mortality_rate	71.3
+54005	West Virginia	Boone	child_mortality_rate	83.3
+54007	West Virginia	Braxton	child_mortality_rate	81.7
+54009	West Virginia	Brooke	child_mortality_rate	
+54011	West Virginia	Cabell	child_mortality_rate	93.4
+54013	West Virginia	Calhoun	child_mortality_rate	
+54015	West Virginia	Clay	child_mortality_rate	
+54017	West Virginia	Doddridge	child_mortality_rate	
+54019	West Virginia	Fayette	child_mortality_rate	83.8
+54021	West Virginia	Gilmer	child_mortality_rate	
+54023	West Virginia	Grant	child_mortality_rate	105.6
+54025	West Virginia	Greenbrier	child_mortality_rate	70
+54027	West Virginia	Hampshire	child_mortality_rate	
+54029	West Virginia	Hancock	child_mortality_rate	52
+54031	West Virginia	Hardy	child_mortality_rate	
+54033	West Virginia	Harrison	child_mortality_rate	67.7
+54035	West Virginia	Jackson	child_mortality_rate	63.9
+54037	West Virginia	Jefferson	child_mortality_rate	43.7
+54039	West Virginia	Kanawha	child_mortality_rate	72.7
+54041	West Virginia	Lewis	child_mortality_rate	72.4
+54043	West Virginia	Lincoln	child_mortality_rate	84.6
+54045	West Virginia	Logan	child_mortality_rate	62.9
+54047	West Virginia	McDowell	child_mortality_rate	126.4
+54049	West Virginia	Marion	child_mortality_rate	53.2
+54051	West Virginia	Marshall	child_mortality_rate	53.5
+54053	West Virginia	Mason	child_mortality_rate	71.9
+54055	West Virginia	Mercer	child_mortality_rate	80.2
+54057	West Virginia	Mineral	child_mortality_rate	54.6
+54059	West Virginia	Mingo	child_mortality_rate	96
+54061	West Virginia	Monongalia	child_mortality_rate	48.6
+54063	West Virginia	Monroe	child_mortality_rate	
+54065	West Virginia	Morgan	child_mortality_rate	
+54067	West Virginia	Nicholas	child_mortality_rate	80.5
+54069	West Virginia	Ohio	child_mortality_rate	63.8
+54071	West Virginia	Pendleton	child_mortality_rate	
+54073	West Virginia	Pleasants	child_mortality_rate	
+54075	West Virginia	Pocahontas	child_mortality_rate	
+54077	West Virginia	Preston	child_mortality_rate	75.2
+54079	West Virginia	Putnam	child_mortality_rate	36.2
+54081	West Virginia	Raleigh	child_mortality_rate	61
+54083	West Virginia	Randolph	child_mortality_rate	82
+54085	West Virginia	Ritchie	child_mortality_rate	
+54087	West Virginia	Roane	child_mortality_rate	
+54089	West Virginia	Summers	child_mortality_rate	99.4
+54091	West Virginia	Taylor	child_mortality_rate	
+54093	West Virginia	Tucker	child_mortality_rate	
+54095	West Virginia	Tyler	child_mortality_rate	
+54097	West Virginia	Upshur	child_mortality_rate	69.6
+54099	West Virginia	Wayne	child_mortality_rate	56.9
+54101	West Virginia	Webster	child_mortality_rate	
+54103	West Virginia	Wetzel	child_mortality_rate	
+54105	West Virginia	Wirt	child_mortality_rate	
+54107	West Virginia	Wood	child_mortality_rate	68.3
+54109	West Virginia	Wyoming	child_mortality_rate	87.3
+55001	Wisconsin	Adams	child_mortality_rate	
+55003	Wisconsin	Ashland	child_mortality_rate	79.8
+55005	Wisconsin	Barron	child_mortality_rate	41.1
+55007	Wisconsin	Bayfield	child_mortality_rate	
+55009	Wisconsin	Brown	child_mortality_rate	46.2
+55011	Wisconsin	Buffalo	child_mortality_rate	
+55013	Wisconsin	Burnett	child_mortality_rate	
+55015	Wisconsin	Calumet	child_mortality_rate	38.2
+55017	Wisconsin	Chippewa	child_mortality_rate	70.1
+55019	Wisconsin	Clark	child_mortality_rate	79.3
+55021	Wisconsin	Columbia	child_mortality_rate	46.9
+55023	Wisconsin	Crawford	child_mortality_rate	
+55025	Wisconsin	Dane	child_mortality_rate	45.2
+55027	Wisconsin	Dodge	child_mortality_rate	45.3
+55029	Wisconsin	Door	child_mortality_rate	
+55031	Wisconsin	Douglas	child_mortality_rate	39.3
+55033	Wisconsin	Dunn	child_mortality_rate	38.6
+55035	Wisconsin	Eau Claire	child_mortality_rate	45.5
+55037	Wisconsin	Florence	child_mortality_rate	
+55039	Wisconsin	Fond du Lac	child_mortality_rate	40.9
+55041	Wisconsin	Forest	child_mortality_rate	131
+55043	Wisconsin	Grant	child_mortality_rate	43.5
+55045	Wisconsin	Green	child_mortality_rate	47.2
+55047	Wisconsin	Green Lake	child_mortality_rate	91.3
+55049	Wisconsin	Iowa	child_mortality_rate	
+55051	Wisconsin	Iron	child_mortality_rate	
+55053	Wisconsin	Jackson	child_mortality_rate	80.4
+55055	Wisconsin	Jefferson	child_mortality_rate	54.1
+55057	Wisconsin	Juneau	child_mortality_rate	64.9
+55059	Wisconsin	Kenosha	child_mortality_rate	54.2
+55061	Wisconsin	Kewaunee	child_mortality_rate	
+55063	Wisconsin	La Crosse	child_mortality_rate	51.4
+55065	Wisconsin	Lafayette	child_mortality_rate	86.1
+55067	Wisconsin	Langlade	child_mortality_rate	
+55069	Wisconsin	Lincoln	child_mortality_rate	65.7
+55071	Wisconsin	Manitowoc	child_mortality_rate	47
+55073	Wisconsin	Marathon	child_mortality_rate	49.9
+55075	Wisconsin	Marinette	child_mortality_rate	60.1
+55077	Wisconsin	Marquette	child_mortality_rate	112.7
+55078	Wisconsin	Menominee	child_mortality_rate	
+55079	Wisconsin	Milwaukee	child_mortality_rate	78
+55081	Wisconsin	Monroe	child_mortality_rate	64.5
+55083	Wisconsin	Oconto	child_mortality_rate	
+55085	Wisconsin	Oneida	child_mortality_rate	62.4
+55087	Wisconsin	Outagamie	child_mortality_rate	42.6
+55089	Wisconsin	Ozaukee	child_mortality_rate	35.2
+55091	Wisconsin	Pepin	child_mortality_rate	
+55093	Wisconsin	Pierce	child_mortality_rate	
+55095	Wisconsin	Polk	child_mortality_rate	51.9
+55097	Wisconsin	Portage	child_mortality_rate	47.8
+55099	Wisconsin	Price	child_mortality_rate	
+55101	Wisconsin	Racine	child_mortality_rate	64.4
+55103	Wisconsin	Richland	child_mortality_rate	81.9
+55105	Wisconsin	Rock	child_mortality_rate	60.3
+55107	Wisconsin	Rusk	child_mortality_rate	
+55109	Wisconsin	St. Croix	child_mortality_rate	50.4
+55111	Wisconsin	Sauk	child_mortality_rate	54.4
+55113	Wisconsin	Sawyer	child_mortality_rate	
+55115	Wisconsin	Shawano	child_mortality_rate	82.4
+55117	Wisconsin	Sheboygan	child_mortality_rate	45.8
+55119	Wisconsin	Taylor	child_mortality_rate	
+55121	Wisconsin	Trempealeau	child_mortality_rate	43
+55123	Wisconsin	Vernon	child_mortality_rate	66.7
+55125	Wisconsin	Vilas	child_mortality_rate	63.9
+55127	Wisconsin	Walworth	child_mortality_rate	39.4
+55129	Wisconsin	Washburn	child_mortality_rate	
+55131	Wisconsin	Washington	child_mortality_rate	43
+55133	Wisconsin	Waukesha	child_mortality_rate	32.3
+55135	Wisconsin	Waupaca	child_mortality_rate	35.1
+55137	Wisconsin	Waushara	child_mortality_rate	50.4
+55139	Wisconsin	Winnebago	child_mortality_rate	50.2
+55141	Wisconsin	Wood	child_mortality_rate	48.1
+56001	Wyoming	Albany	child_mortality_rate	56.1
+56003	Wyoming	Big Horn	child_mortality_rate	
+56005	Wyoming	Campbell	child_mortality_rate	64.5
+56007	Wyoming	Carbon	child_mortality_rate	88.3
+56009	Wyoming	Converse	child_mortality_rate	
+56011	Wyoming	Crook	child_mortality_rate	
+56013	Wyoming	Fremont	child_mortality_rate	110.7
+56015	Wyoming	Goshen	child_mortality_rate	
+56017	Wyoming	Hot Springs	child_mortality_rate	
+56019	Wyoming	Johnson	child_mortality_rate	
+56021	Wyoming	Laramie	child_mortality_rate	64.8
+56023	Wyoming	Lincoln	child_mortality_rate	94.7
+56025	Wyoming	Natrona	child_mortality_rate	70.9
+56027	Wyoming	Niobrara	child_mortality_rate	
+56029	Wyoming	Park	child_mortality_rate	51
+56031	Wyoming	Platte	child_mortality_rate	
+56033	Wyoming	Sheridan	child_mortality_rate	43.4
+56035	Wyoming	Sublette	child_mortality_rate	
+56037	Wyoming	Sweetwater	child_mortality_rate	77.6
+56039	Wyoming	Teton	child_mortality_rate	
+56041	Wyoming	Uinta	child_mortality_rate	48.1
+56043	Wyoming	Washakie	child_mortality_rate	
+56045	Wyoming	Weston	child_mortality_rate	

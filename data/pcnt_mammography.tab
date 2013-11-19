@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_mammography
-01001	Alabama	Autauga	pcnt_mammography	68.5
-01003	Alabama	Baldwin	pcnt_mammography	69.9
-01005	Alabama	Barbour	pcnt_mammography	64.8
-01007	Alabama	Bibb	pcnt_mammography	57.2
-01009	Alabama	Blount	pcnt_mammography	66.0
-01011	Alabama	Bullock	pcnt_mammography	57.0
-01013	Alabama	Butler	pcnt_mammography	59.9
-01015	Alabama	Calhoun	pcnt_mammography	60.0
-01017	Alabama	Chambers	pcnt_mammography	64.5
-01019	Alabama	Cherokee	pcnt_mammography	64.1
-01021	Alabama	Chilton	pcnt_mammography	62.1
-01023	Alabama	Choctaw	pcnt_mammography	66.9
-01025	Alabama	Clarke	pcnt_mammography	62.2
-01027	Alabama	Clay	pcnt_mammography	58.2
-01029	Alabama	Cleburne	pcnt_mammography	50.3
-01031	Alabama	Coffee	pcnt_mammography	70.2
-01033	Alabama	Colbert	pcnt_mammography	65.0
-01035	Alabama	Conecuh	pcnt_mammography	58.2
-01037	Alabama	Coosa	pcnt_mammography	62.6
-01039	Alabama	Covington	pcnt_mammography	66.2
-01041	Alabama	Crenshaw	pcnt_mammography	58.8
-01043	Alabama	Cullman	pcnt_mammography	71.2
-01045	Alabama	Dale	pcnt_mammography	68.1
-01047	Alabama	Dallas	pcnt_mammography	65.3
-01049	Alabama	DeKalb	pcnt_mammography	61.3
-01051	Alabama	Elmore	pcnt_mammography	69.0
-01053	Alabama	Escambia	pcnt_mammography	61.8
-01055	Alabama	Etowah	pcnt_mammography	58.2
-01057	Alabama	Fayette	pcnt_mammography	63.1
-01059	Alabama	Franklin	pcnt_mammography	56.4
-01061	Alabama	Geneva	pcnt_mammography	63.5
-01063	Alabama	Greene	pcnt_mammography	50.6
-01065	Alabama	Hale	pcnt_mammography	59.7
-01067	Alabama	Henry	pcnt_mammography	62.4
-01069	Alabama	Houston	pcnt_mammography	68.1
-01071	Alabama	Jackson	pcnt_mammography	55.9
-01073	Alabama	Jefferson	pcnt_mammography	69.4
-01075	Alabama	Lamar	pcnt_mammography	61.3
-01077	Alabama	Lauderdale	pcnt_mammography	66.2
-01079	Alabama	Lawrence	pcnt_mammography	61.7
-01081	Alabama	Lee	pcnt_mammography	63.4
-01083	Alabama	Limestone	pcnt_mammography	69.7
-01085	Alabama	Lowndes	pcnt_mammography	63.9
-01087	Alabama	Macon	pcnt_mammography	59.7
-01089	Alabama	Madison	pcnt_mammography	69.2
-01091	Alabama	Marengo	pcnt_mammography	51.6
-01093	Alabama	Marion	pcnt_mammography	59.6
-01095	Alabama	Marshall	pcnt_mammography	60.0
-01097	Alabama	Mobile	pcnt_mammography	64.1
-01099	Alabama	Monroe	pcnt_mammography	65.4
-01101	Alabama	Montgomery	pcnt_mammography	67.8
-01103	Alabama	Morgan	pcnt_mammography	68.5
-01105	Alabama	Perry	pcnt_mammography	56.8
-01107	Alabama	Pickens	pcnt_mammography	65.0
-01109	Alabama	Pike	pcnt_mammography	67.3
-01111	Alabama	Randolph	pcnt_mammography	55.1
-01113	Alabama	Russell	pcnt_mammography	57.9
-01115	Alabama	St. Clair	pcnt_mammography	65.0
-01117	Alabama	Shelby	pcnt_mammography	75.0
-01119	Alabama	Sumter	pcnt_mammography	67.0
-01121	Alabama	Talladega	pcnt_mammography	57.3
-01123	Alabama	Tallapoosa	pcnt_mammography	64.8
-01125	Alabama	Tuscaloosa	pcnt_mammography	72.8
-01127	Alabama	Walker	pcnt_mammography	63.3
-01129	Alabama	Washington	pcnt_mammography	61.9
-01131	Alabama	Wilcox	pcnt_mammography	47.9
-01133	Alabama	Winston	pcnt_mammography	55.0
-02013	Alaska	Aleutians East	pcnt_mammography	
-02016	Alaska	Aleutians West	pcnt_mammography	
-02020	Alaska	Anchorage	pcnt_mammography	57.2
-02050	Alaska	Bethel	pcnt_mammography	
-02060	Alaska	Bristol Bay	pcnt_mammography	
-02068	Alaska	Denali	pcnt_mammography	
-02070	Alaska	Dillingham	pcnt_mammography	58.3
-02090	Alaska	Fairbanks North Star	pcnt_mammography	58.5
-02100	Alaska	Haines	pcnt_mammography	58.8
-02110	Alaska	Juneau	pcnt_mammography	68.8
-02122	Alaska	Kenai Peninsula	pcnt_mammography	58.3
-02130	Alaska	Ketchikan Gateway	pcnt_mammography	61.5
-02150	Alaska	Kodiak Island	pcnt_mammography	50.7
-02164	Alaska	Lake and Peninsula	pcnt_mammography	
-02170	Alaska	Matanuska-Susitna	pcnt_mammography	59.1
-02180	Alaska	Nome	pcnt_mammography	55.8
-02185	Alaska	North Slope	pcnt_mammography	
-02188	Alaska	Northwest Arctic	pcnt_mammography	
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_mammography	56.5
-02220	Alaska	Sitka	pcnt_mammography	57.1
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_mammography	60.0
-02240	Alaska	Southeast Fairbanks	pcnt_mammography	52.7
-02261	Alaska	Valdez-Cordova	pcnt_mammography	62.7
-02270	Alaska	Wade Hampton	pcnt_mammography	
-02280	Alaska	Wrangell-Petersburg	pcnt_mammography	55.2
-02282	Alaska	Yakutat	pcnt_mammography	
-02290	Alaska	Yukon-Koyukuk	pcnt_mammography	41.9
-04001	Arizona	Apache	pcnt_mammography	31.1
-04003	Arizona	Cochise	pcnt_mammography	61.0
-04005	Arizona	Coconino	pcnt_mammography	51.8
-04007	Arizona	Gila	pcnt_mammography	65.9
-04009	Arizona	Graham	pcnt_mammography	55.2
-04011	Arizona	Greenlee	pcnt_mammography	49.3
-04012	Arizona	La Paz	pcnt_mammography	49.7
-04013	Arizona	Maricopa	pcnt_mammography	69.4
-04015	Arizona	Mohave	pcnt_mammography	64.2
-04017	Arizona	Navajo	pcnt_mammography	48.7
-04019	Arizona	Pima	pcnt_mammography	72.3
-04021	Arizona	Pinal	pcnt_mammography	69.2
-04023	Arizona	Santa Cruz	pcnt_mammography	54.7
-04025	Arizona	Yavapai	pcnt_mammography	70.1
-04027	Arizona	Yuma	pcnt_mammography	66.1
-05001	Arkansas	Arkansas	pcnt_mammography	52.1
-05003	Arkansas	Ashley	pcnt_mammography	54.4
-05005	Arkansas	Baxter	pcnt_mammography	69.9
-05007	Arkansas	Benton	pcnt_mammography	66.3
-05009	Arkansas	Boone	pcnt_mammography	56.4
-05011	Arkansas	Bradley	pcnt_mammography	61.1
-05013	Arkansas	Calhoun	pcnt_mammography	52.4
-05015	Arkansas	Carroll	pcnt_mammography	59.3
-05017	Arkansas	Chicot	pcnt_mammography	48.6
-05019	Arkansas	Clark	pcnt_mammography	65.7
-05021	Arkansas	Clay	pcnt_mammography	60.7
-05023	Arkansas	Cleburne	pcnt_mammography	69.3
-05025	Arkansas	Cleveland	pcnt_mammography	68.2
-05027	Arkansas	Columbia	pcnt_mammography	58.9
-05029	Arkansas	Conway	pcnt_mammography	63.4
-05031	Arkansas	Craighead	pcnt_mammography	62.3
-05033	Arkansas	Crawford	pcnt_mammography	67.5
-05035	Arkansas	Crittenden	pcnt_mammography	59.0
-05037	Arkansas	Cross	pcnt_mammography	49.2
-05039	Arkansas	Dallas	pcnt_mammography	55.1
-05041	Arkansas	Desha	pcnt_mammography	48.6
-05043	Arkansas	Drew	pcnt_mammography	58.9
-05045	Arkansas	Faulkner	pcnt_mammography	63.3
-05047	Arkansas	Franklin	pcnt_mammography	62.0
-05049	Arkansas	Fulton	pcnt_mammography	56.3
-05051	Arkansas	Garland	pcnt_mammography	60.8
-05053	Arkansas	Grant	pcnt_mammography	61.0
-05055	Arkansas	Greene	pcnt_mammography	55.1
-05057	Arkansas	Hempstead	pcnt_mammography	61.6
-05059	Arkansas	Hot Spring	pcnt_mammography	52.6
-05061	Arkansas	Howard	pcnt_mammography	58.3
-05063	Arkansas	Independence	pcnt_mammography	59.9
-05065	Arkansas	Izard	pcnt_mammography	62.2
-05067	Arkansas	Jackson	pcnt_mammography	52.7
-05069	Arkansas	Jefferson	pcnt_mammography	67.8
-05071	Arkansas	Johnson	pcnt_mammography	54.9
-05073	Arkansas	Lafayette	pcnt_mammography	62.4
-05075	Arkansas	Lawrence	pcnt_mammography	56.2
-05077	Arkansas	Lee	pcnt_mammography	56.9
-05079	Arkansas	Lincoln	pcnt_mammography	63.8
-05081	Arkansas	Little River	pcnt_mammography	52.5
-05083	Arkansas	Logan	pcnt_mammography	55.6
-05085	Arkansas	Lonoke	pcnt_mammography	60.5
-05087	Arkansas	Madison	pcnt_mammography	44.3
-05089	Arkansas	Marion	pcnt_mammography	61.7
-05091	Arkansas	Miller	pcnt_mammography	61.6
-05093	Arkansas	Mississippi	pcnt_mammography	47.1
-05095	Arkansas	Monroe	pcnt_mammography	62.9
-05097	Arkansas	Montgomery	pcnt_mammography	49.2
-05099	Arkansas	Nevada	pcnt_mammography	63.8
-05101	Arkansas	Newton	pcnt_mammography	53.1
-05103	Arkansas	Ouachita	pcnt_mammography	66.9
-05105	Arkansas	Perry	pcnt_mammography	51.2
-05107	Arkansas	Phillips	pcnt_mammography	45.9
-05109	Arkansas	Pike	pcnt_mammography	51.4
-05111	Arkansas	Poinsett	pcnt_mammography	60.2
-05113	Arkansas	Polk	pcnt_mammography	58.1
-05115	Arkansas	Pope	pcnt_mammography	58.5
-05117	Arkansas	Prairie	pcnt_mammography	61.7
-05119	Arkansas	Pulaski	pcnt_mammography	66.1
-05121	Arkansas	Randolph	pcnt_mammography	59.3
-05123	Arkansas	St. Francis	pcnt_mammography	51.9
-05125	Arkansas	Saline	pcnt_mammography	69.8
-05127	Arkansas	Scott	pcnt_mammography	54.9
-05129	Arkansas	Searcy	pcnt_mammography	52.9
-05131	Arkansas	Sebastian	pcnt_mammography	66.3
-05133	Arkansas	Sevier	pcnt_mammography	52.6
-05135	Arkansas	Sharp	pcnt_mammography	60.7
-05137	Arkansas	Stone	pcnt_mammography	52.8
-05139	Arkansas	Union	pcnt_mammography	54.6
-05141	Arkansas	Van Buren	pcnt_mammography	60.5
-05143	Arkansas	Washington	pcnt_mammography	62.9
-05145	Arkansas	White	pcnt_mammography	56.7
-05147	Arkansas	Woodruff	pcnt_mammography	58.7
-05149	Arkansas	Yell	pcnt_mammography	50.2
-06001	California	Alameda	pcnt_mammography	63.2
-06003	California	Alpine	pcnt_mammography	
-06005	California	Amador	pcnt_mammography	71.2
-06007	California	Butte	pcnt_mammography	64.5
-06009	California	Calaveras	pcnt_mammography	66.7
-06011	California	Colusa	pcnt_mammography	63.6
-06013	California	Contra Costa	pcnt_mammography	68.4
-06015	California	Del Norte	pcnt_mammography	61.9
-06017	California	El Dorado	pcnt_mammography	71.2
-06019	California	Fresno	pcnt_mammography	62.9
-06021	California	Glenn	pcnt_mammography	62.3
-06023	California	Humboldt	pcnt_mammography	70.3
-06025	California	Imperial	pcnt_mammography	53.5
-06027	California	Inyo	pcnt_mammography	66.5
-06029	California	Kern	pcnt_mammography	58.0
-06031	California	Kings	pcnt_mammography	55.5
-06033	California	Lake	pcnt_mammography	57.9
-06035	California	Lassen	pcnt_mammography	59.1
-06037	California	Los Angeles	pcnt_mammography	56.1
-06039	California	Madera	pcnt_mammography	62.3
-06041	California	Marin	pcnt_mammography	69.5
-06043	California	Mariposa	pcnt_mammography	65.4
-06045	California	Mendocino	pcnt_mammography	60.3
-06047	California	Merced	pcnt_mammography	62.8
-06049	California	Modoc	pcnt_mammography	54.8
-06051	California	Mono	pcnt_mammography	67.1
-06053	California	Monterey	pcnt_mammography	66.9
-06055	California	Napa	pcnt_mammography	66.5
-06057	California	Nevada	pcnt_mammography	72.6
-06059	California	Orange	pcnt_mammography	65.3
-06061	California	Placer	pcnt_mammography	72.9
-06063	California	Plumas	pcnt_mammography	65.5
-06065	California	Riverside	pcnt_mammography	61.9
-06067	California	Sacramento	pcnt_mammography	62.4
-06069	California	San Benito	pcnt_mammography	65.7
-06071	California	San Bernardino	pcnt_mammography	54.7
-06073	California	San Diego	pcnt_mammography	59.2
-06075	California	San Francisco	pcnt_mammography	61.9
-06077	California	San Joaquin	pcnt_mammography	62.6
-06079	California	San Luis Obispo	pcnt_mammography	70.8
-06081	California	San Mateo	pcnt_mammography	69.6
-06083	California	Santa Barbara	pcnt_mammography	69.0
-06085	California	Santa Clara	pcnt_mammography	66.6
-06087	California	Santa Cruz	pcnt_mammography	69.4
-06089	California	Shasta	pcnt_mammography	62.2
-06091	California	Sierra	pcnt_mammography	78.5
-06093	California	Siskiyou	pcnt_mammography	64.1
-06095	California	Solano	pcnt_mammography	47.6
-06097	California	Sonoma	pcnt_mammography	66.3
-06099	California	Stanislaus	pcnt_mammography	63.3
-06101	California	Sutter	pcnt_mammography	64.4
-06103	California	Tehama	pcnt_mammography	66.0
-06105	California	Trinity	pcnt_mammography	54.4
-06107	California	Tulare	pcnt_mammography	61.5
-06109	California	Tuolumne	pcnt_mammography	68.9
-06111	California	Ventura	pcnt_mammography	65.6
-06113	California	Yolo	pcnt_mammography	66.7
-06115	California	Yuba	pcnt_mammography	57.5
-08001	Colorado	Adams	pcnt_mammography	55.0
-08003	Colorado	Alamosa	pcnt_mammography	47.6
-08005	Colorado	Arapahoe	pcnt_mammography	67.1
-08007	Colorado	Archuleta	pcnt_mammography	55.6
-08009	Colorado	Baca	pcnt_mammography	55.4
-08011	Colorado	Bent	pcnt_mammography	65.3
-08013	Colorado	Boulder	pcnt_mammography	71.9
-08014	Colorado	Broomfield	pcnt_mammography	66.1
-08015	Colorado	Chaffee	pcnt_mammography	69.5
-08017	Colorado	Cheyenne	pcnt_mammography	60.0
-08019	Colorado	Clear Creek	pcnt_mammography	71.1
-08021	Colorado	Conejos	pcnt_mammography	47.2
-08023	Colorado	Costilla	pcnt_mammography	52.1
-08025	Colorado	Crowley	pcnt_mammography	74.4
-08027	Colorado	Custer	pcnt_mammography	71.0
-08029	Colorado	Delta	pcnt_mammography	66.2
-08031	Colorado	Denver	pcnt_mammography	63.5
-08033	Colorado	Dolores	pcnt_mammography	
-08035	Colorado	Douglas	pcnt_mammography	70.5
-08037	Colorado	Eagle	pcnt_mammography	71.3
-08039	Colorado	Elbert	pcnt_mammography	49.6
-08041	Colorado	El Paso	pcnt_mammography	57.5
-08043	Colorado	Fremont	pcnt_mammography	63.6
-08045	Colorado	Garfield	pcnt_mammography	62.8
-08047	Colorado	Gilpin	pcnt_mammography	
-08049	Colorado	Grand	pcnt_mammography	63.6
-08051	Colorado	Gunnison	pcnt_mammography	69.6
-08053	Colorado	Hinsdale	pcnt_mammography	80.0
-08055	Colorado	Huerfano	pcnt_mammography	58.9
-08057	Colorado	Jackson	pcnt_mammography	61.9
-08059	Colorado	Jefferson	pcnt_mammography	63.5
-08061	Colorado	Kiowa	pcnt_mammography	
-08063	Colorado	Kit Carson	pcnt_mammography	53.9
-08065	Colorado	Lake	pcnt_mammography	76.6
-08067	Colorado	La Plata	pcnt_mammography	66.1
-08069	Colorado	Larimer	pcnt_mammography	70.5
-08071	Colorado	Las Animas	pcnt_mammography	64.7
-08073	Colorado	Lincoln	pcnt_mammography	50.0
-08075	Colorado	Logan	pcnt_mammography	67.3
-08077	Colorado	Mesa	pcnt_mammography	67.0
-08079	Colorado	Mineral	pcnt_mammography	68.4
-08081	Colorado	Moffat	pcnt_mammography	54.0
-08083	Colorado	Montezuma	pcnt_mammography	61.8
-08085	Colorado	Montrose	pcnt_mammography	70.5
-08087	Colorado	Morgan	pcnt_mammography	57.1
-08089	Colorado	Otero	pcnt_mammography	65.4
-08091	Colorado	Ouray	pcnt_mammography	69.7
-08093	Colorado	Park	pcnt_mammography	61.6
-08095	Colorado	Phillips	pcnt_mammography	64.9
-08097	Colorado	Pitkin	pcnt_mammography	72.7
-08099	Colorado	Prowers	pcnt_mammography	50.8
-08101	Colorado	Pueblo	pcnt_mammography	64.7
-08103	Colorado	Rio Blanco	pcnt_mammography	60.7
-08105	Colorado	Rio Grande	pcnt_mammography	62.9
-08107	Colorado	Routt	pcnt_mammography	65.8
-08109	Colorado	Saguache	pcnt_mammography	45.3
-08111	Colorado	San Juan	pcnt_mammography	
-08113	Colorado	San Miguel	pcnt_mammography	61.3
-08115	Colorado	Sedgwick	pcnt_mammography	43.2
-08117	Colorado	Summit	pcnt_mammography	77.1
-08119	Colorado	Teller	pcnt_mammography	58.7
-08121	Colorado	Washington	pcnt_mammography	58.8
-08123	Colorado	Weld	pcnt_mammography	62.2
-08125	Colorado	Yuma	pcnt_mammography	61.5
-09001	Connecticut	Fairfield	pcnt_mammography	68.7
-09003	Connecticut	Hartford	pcnt_mammography	72.1
-09005	Connecticut	Litchfield	pcnt_mammography	71.1
-09007	Connecticut	Middlesex	pcnt_mammography	74.7
-09009	Connecticut	New Haven	pcnt_mammography	68.6
-09011	Connecticut	New London	pcnt_mammography	74.5
-09013	Connecticut	Tolland	pcnt_mammography	74.0
-09015	Connecticut	Windham	pcnt_mammography	72.5
+1001	Alabama	Autauga	pcnt_mammography	68.5
+1003	Alabama	Baldwin	pcnt_mammography	69.9
+1005	Alabama	Barbour	pcnt_mammography	64.8
+1007	Alabama	Bibb	pcnt_mammography	57.2
+1009	Alabama	Blount	pcnt_mammography	66
+1011	Alabama	Bullock	pcnt_mammography	57
+1013	Alabama	Butler	pcnt_mammography	59.9
+1015	Alabama	Calhoun	pcnt_mammography	60
+1017	Alabama	Chambers	pcnt_mammography	64.5
+1019	Alabama	Cherokee	pcnt_mammography	64.1
+1021	Alabama	Chilton	pcnt_mammography	62.1
+1023	Alabama	Choctaw	pcnt_mammography	66.9
+1025	Alabama	Clarke	pcnt_mammography	62.2
+1027	Alabama	Clay	pcnt_mammography	58.2
+1029	Alabama	Cleburne	pcnt_mammography	50.3
+1031	Alabama	Coffee	pcnt_mammography	70.2
+1033	Alabama	Colbert	pcnt_mammography	65
+1035	Alabama	Conecuh	pcnt_mammography	58.2
+1037	Alabama	Coosa	pcnt_mammography	62.6
+1039	Alabama	Covington	pcnt_mammography	66.2
+1041	Alabama	Crenshaw	pcnt_mammography	58.8
+1043	Alabama	Cullman	pcnt_mammography	71.2
+1045	Alabama	Dale	pcnt_mammography	68.1
+1047	Alabama	Dallas	pcnt_mammography	65.3
+1049	Alabama	DeKalb	pcnt_mammography	61.3
+1051	Alabama	Elmore	pcnt_mammography	69
+1053	Alabama	Escambia	pcnt_mammography	61.8
+1055	Alabama	Etowah	pcnt_mammography	58.2
+1057	Alabama	Fayette	pcnt_mammography	63.1
+1059	Alabama	Franklin	pcnt_mammography	56.4
+1061	Alabama	Geneva	pcnt_mammography	63.5
+1063	Alabama	Greene	pcnt_mammography	50.6
+1065	Alabama	Hale	pcnt_mammography	59.7
+1067	Alabama	Henry	pcnt_mammography	62.4
+1069	Alabama	Houston	pcnt_mammography	68.1
+1071	Alabama	Jackson	pcnt_mammography	55.9
+1073	Alabama	Jefferson	pcnt_mammography	69.4
+1075	Alabama	Lamar	pcnt_mammography	61.3
+1077	Alabama	Lauderdale	pcnt_mammography	66.2
+1079	Alabama	Lawrence	pcnt_mammography	61.7
+1081	Alabama	Lee	pcnt_mammography	63.4
+1083	Alabama	Limestone	pcnt_mammography	69.7
+1085	Alabama	Lowndes	pcnt_mammography	63.9
+1087	Alabama	Macon	pcnt_mammography	59.7
+1089	Alabama	Madison	pcnt_mammography	69.2
+1091	Alabama	Marengo	pcnt_mammography	51.6
+1093	Alabama	Marion	pcnt_mammography	59.6
+1095	Alabama	Marshall	pcnt_mammography	60
+1097	Alabama	Mobile	pcnt_mammography	64.1
+1099	Alabama	Monroe	pcnt_mammography	65.4
+1101	Alabama	Montgomery	pcnt_mammography	67.8
+1103	Alabama	Morgan	pcnt_mammography	68.5
+1105	Alabama	Perry	pcnt_mammography	56.8
+1107	Alabama	Pickens	pcnt_mammography	65
+1109	Alabama	Pike	pcnt_mammography	67.3
+1111	Alabama	Randolph	pcnt_mammography	55.1
+1113	Alabama	Russell	pcnt_mammography	57.9
+1115	Alabama	St. Clair	pcnt_mammography	65
+1117	Alabama	Shelby	pcnt_mammography	75
+1119	Alabama	Sumter	pcnt_mammography	67
+1121	Alabama	Talladega	pcnt_mammography	57.3
+1123	Alabama	Tallapoosa	pcnt_mammography	64.8
+1125	Alabama	Tuscaloosa	pcnt_mammography	72.8
+1127	Alabama	Walker	pcnt_mammography	63.3
+1129	Alabama	Washington	pcnt_mammography	61.9
+1131	Alabama	Wilcox	pcnt_mammography	47.9
+1133	Alabama	Winston	pcnt_mammography	55
+2013	Alaska	Aleutians East	pcnt_mammography	
+2016	Alaska	Aleutians West	pcnt_mammography	
+2020	Alaska	Anchorage	pcnt_mammography	57.2
+2050	Alaska	Bethel	pcnt_mammography	
+2060	Alaska	Bristol Bay	pcnt_mammography	
+2068	Alaska	Denali	pcnt_mammography	
+2070	Alaska	Dillingham	pcnt_mammography	58.3
+2090	Alaska	Fairbanks North Star	pcnt_mammography	58.5
+2100	Alaska	Haines	pcnt_mammography	58.8
+2110	Alaska	Juneau	pcnt_mammography	68.8
+2122	Alaska	Kenai Peninsula	pcnt_mammography	58.3
+2130	Alaska	Ketchikan Gateway	pcnt_mammography	61.5
+2150	Alaska	Kodiak Island	pcnt_mammography	50.7
+2164	Alaska	Lake and Peninsula	pcnt_mammography	
+2170	Alaska	Matanuska-Susitna	pcnt_mammography	59.1
+2180	Alaska	Nome	pcnt_mammography	55.8
+2185	Alaska	North Slope	pcnt_mammography	
+2188	Alaska	Northwest Arctic	pcnt_mammography	
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_mammography	56.5
+2220	Alaska	Sitka	pcnt_mammography	57.1
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_mammography	60
+2240	Alaska	Southeast Fairbanks	pcnt_mammography	52.7
+2261	Alaska	Valdez-Cordova	pcnt_mammography	62.7
+2270	Alaska	Wade Hampton	pcnt_mammography	
+2280	Alaska	Wrangell-Petersburg	pcnt_mammography	55.2
+2282	Alaska	Yakutat	pcnt_mammography	
+2290	Alaska	Yukon-Koyukuk	pcnt_mammography	41.9
+4001	Arizona	Apache	pcnt_mammography	31.1
+4003	Arizona	Cochise	pcnt_mammography	61
+4005	Arizona	Coconino	pcnt_mammography	51.8
+4007	Arizona	Gila	pcnt_mammography	65.9
+4009	Arizona	Graham	pcnt_mammography	55.2
+4011	Arizona	Greenlee	pcnt_mammography	49.3
+4012	Arizona	La Paz	pcnt_mammography	49.7
+4013	Arizona	Maricopa	pcnt_mammography	69.4
+4015	Arizona	Mohave	pcnt_mammography	64.2
+4017	Arizona	Navajo	pcnt_mammography	48.7
+4019	Arizona	Pima	pcnt_mammography	72.3
+4021	Arizona	Pinal	pcnt_mammography	69.2
+4023	Arizona	Santa Cruz	pcnt_mammography	54.7
+4025	Arizona	Yavapai	pcnt_mammography	70.1
+4027	Arizona	Yuma	pcnt_mammography	66.1
+5001	Arkansas	Arkansas	pcnt_mammography	52.1
+5003	Arkansas	Ashley	pcnt_mammography	54.4
+5005	Arkansas	Baxter	pcnt_mammography	69.9
+5007	Arkansas	Benton	pcnt_mammography	66.3
+5009	Arkansas	Boone	pcnt_mammography	56.4
+5011	Arkansas	Bradley	pcnt_mammography	61.1
+5013	Arkansas	Calhoun	pcnt_mammography	52.4
+5015	Arkansas	Carroll	pcnt_mammography	59.3
+5017	Arkansas	Chicot	pcnt_mammography	48.6
+5019	Arkansas	Clark	pcnt_mammography	65.7
+5021	Arkansas	Clay	pcnt_mammography	60.7
+5023	Arkansas	Cleburne	pcnt_mammography	69.3
+5025	Arkansas	Cleveland	pcnt_mammography	68.2
+5027	Arkansas	Columbia	pcnt_mammography	58.9
+5029	Arkansas	Conway	pcnt_mammography	63.4
+5031	Arkansas	Craighead	pcnt_mammography	62.3
+5033	Arkansas	Crawford	pcnt_mammography	67.5
+5035	Arkansas	Crittenden	pcnt_mammography	59
+5037	Arkansas	Cross	pcnt_mammography	49.2
+5039	Arkansas	Dallas	pcnt_mammography	55.1
+5041	Arkansas	Desha	pcnt_mammography	48.6
+5043	Arkansas	Drew	pcnt_mammography	58.9
+5045	Arkansas	Faulkner	pcnt_mammography	63.3
+5047	Arkansas	Franklin	pcnt_mammography	62
+5049	Arkansas	Fulton	pcnt_mammography	56.3
+5051	Arkansas	Garland	pcnt_mammography	60.8
+5053	Arkansas	Grant	pcnt_mammography	61
+5055	Arkansas	Greene	pcnt_mammography	55.1
+5057	Arkansas	Hempstead	pcnt_mammography	61.6
+5059	Arkansas	Hot Spring	pcnt_mammography	52.6
+5061	Arkansas	Howard	pcnt_mammography	58.3
+5063	Arkansas	Independence	pcnt_mammography	59.9
+5065	Arkansas	Izard	pcnt_mammography	62.2
+5067	Arkansas	Jackson	pcnt_mammography	52.7
+5069	Arkansas	Jefferson	pcnt_mammography	67.8
+5071	Arkansas	Johnson	pcnt_mammography	54.9
+5073	Arkansas	Lafayette	pcnt_mammography	62.4
+5075	Arkansas	Lawrence	pcnt_mammography	56.2
+5077	Arkansas	Lee	pcnt_mammography	56.9
+5079	Arkansas	Lincoln	pcnt_mammography	63.8
+5081	Arkansas	Little River	pcnt_mammography	52.5
+5083	Arkansas	Logan	pcnt_mammography	55.6
+5085	Arkansas	Lonoke	pcnt_mammography	60.5
+5087	Arkansas	Madison	pcnt_mammography	44.3
+5089	Arkansas	Marion	pcnt_mammography	61.7
+5091	Arkansas	Miller	pcnt_mammography	61.6
+5093	Arkansas	Mississippi	pcnt_mammography	47.1
+5095	Arkansas	Monroe	pcnt_mammography	62.9
+5097	Arkansas	Montgomery	pcnt_mammography	49.2
+5099	Arkansas	Nevada	pcnt_mammography	63.8
+5101	Arkansas	Newton	pcnt_mammography	53.1
+5103	Arkansas	Ouachita	pcnt_mammography	66.9
+5105	Arkansas	Perry	pcnt_mammography	51.2
+5107	Arkansas	Phillips	pcnt_mammography	45.9
+5109	Arkansas	Pike	pcnt_mammography	51.4
+5111	Arkansas	Poinsett	pcnt_mammography	60.2
+5113	Arkansas	Polk	pcnt_mammography	58.1
+5115	Arkansas	Pope	pcnt_mammography	58.5
+5117	Arkansas	Prairie	pcnt_mammography	61.7
+5119	Arkansas	Pulaski	pcnt_mammography	66.1
+5121	Arkansas	Randolph	pcnt_mammography	59.3
+5123	Arkansas	St. Francis	pcnt_mammography	51.9
+5125	Arkansas	Saline	pcnt_mammography	69.8
+5127	Arkansas	Scott	pcnt_mammography	54.9
+5129	Arkansas	Searcy	pcnt_mammography	52.9
+5131	Arkansas	Sebastian	pcnt_mammography	66.3
+5133	Arkansas	Sevier	pcnt_mammography	52.6
+5135	Arkansas	Sharp	pcnt_mammography	60.7
+5137	Arkansas	Stone	pcnt_mammography	52.8
+5139	Arkansas	Union	pcnt_mammography	54.6
+5141	Arkansas	Van Buren	pcnt_mammography	60.5
+5143	Arkansas	Washington	pcnt_mammography	62.9
+5145	Arkansas	White	pcnt_mammography	56.7
+5147	Arkansas	Woodruff	pcnt_mammography	58.7
+5149	Arkansas	Yell	pcnt_mammography	50.2
+6001	California	Alameda	pcnt_mammography	63.2
+6003	California	Alpine	pcnt_mammography	
+6005	California	Amador	pcnt_mammography	71.2
+6007	California	Butte	pcnt_mammography	64.5
+6009	California	Calaveras	pcnt_mammography	66.7
+6011	California	Colusa	pcnt_mammography	63.6
+6013	California	Contra Costa	pcnt_mammography	68.4
+6015	California	Del Norte	pcnt_mammography	61.9
+6017	California	El Dorado	pcnt_mammography	71.2
+6019	California	Fresno	pcnt_mammography	62.9
+6021	California	Glenn	pcnt_mammography	62.3
+6023	California	Humboldt	pcnt_mammography	70.3
+6025	California	Imperial	pcnt_mammography	53.5
+6027	California	Inyo	pcnt_mammography	66.5
+6029	California	Kern	pcnt_mammography	58
+6031	California	Kings	pcnt_mammography	55.5
+6033	California	Lake	pcnt_mammography	57.9
+6035	California	Lassen	pcnt_mammography	59.1
+6037	California	Los Angeles	pcnt_mammography	56.1
+6039	California	Madera	pcnt_mammography	62.3
+6041	California	Marin	pcnt_mammography	69.5
+6043	California	Mariposa	pcnt_mammography	65.4
+6045	California	Mendocino	pcnt_mammography	60.3
+6047	California	Merced	pcnt_mammography	62.8
+6049	California	Modoc	pcnt_mammography	54.8
+6051	California	Mono	pcnt_mammography	67.1
+6053	California	Monterey	pcnt_mammography	66.9
+6055	California	Napa	pcnt_mammography	66.5
+6057	California	Nevada	pcnt_mammography	72.6
+6059	California	Orange	pcnt_mammography	65.3
+6061	California	Placer	pcnt_mammography	72.9
+6063	California	Plumas	pcnt_mammography	65.5
+6065	California	Riverside	pcnt_mammography	61.9
+6067	California	Sacramento	pcnt_mammography	62.4
+6069	California	San Benito	pcnt_mammography	65.7
+6071	California	San Bernardino	pcnt_mammography	54.7
+6073	California	San Diego	pcnt_mammography	59.2
+6075	California	San Francisco	pcnt_mammography	61.9
+6077	California	San Joaquin	pcnt_mammography	62.6
+6079	California	San Luis Obispo	pcnt_mammography	70.8
+6081	California	San Mateo	pcnt_mammography	69.6
+6083	California	Santa Barbara	pcnt_mammography	69
+6085	California	Santa Clara	pcnt_mammography	66.6
+6087	California	Santa Cruz	pcnt_mammography	69.4
+6089	California	Shasta	pcnt_mammography	62.2
+6091	California	Sierra	pcnt_mammography	78.5
+6093	California	Siskiyou	pcnt_mammography	64.1
+6095	California	Solano	pcnt_mammography	47.6
+6097	California	Sonoma	pcnt_mammography	66.3
+6099	California	Stanislaus	pcnt_mammography	63.3
+6101	California	Sutter	pcnt_mammography	64.4
+6103	California	Tehama	pcnt_mammography	66
+6105	California	Trinity	pcnt_mammography	54.4
+6107	California	Tulare	pcnt_mammography	61.5
+6109	California	Tuolumne	pcnt_mammography	68.9
+6111	California	Ventura	pcnt_mammography	65.6
+6113	California	Yolo	pcnt_mammography	66.7
+6115	California	Yuba	pcnt_mammography	57.5
+8001	Colorado	Adams	pcnt_mammography	55
+8003	Colorado	Alamosa	pcnt_mammography	47.6
+8005	Colorado	Arapahoe	pcnt_mammography	67.1
+8007	Colorado	Archuleta	pcnt_mammography	55.6
+8009	Colorado	Baca	pcnt_mammography	55.4
+8011	Colorado	Bent	pcnt_mammography	65.3
+8013	Colorado	Boulder	pcnt_mammography	71.9
+8014	Colorado	Broomfield	pcnt_mammography	66.1
+8015	Colorado	Chaffee	pcnt_mammography	69.5
+8017	Colorado	Cheyenne	pcnt_mammography	60
+8019	Colorado	Clear Creek	pcnt_mammography	71.1
+8021	Colorado	Conejos	pcnt_mammography	47.2
+8023	Colorado	Costilla	pcnt_mammography	52.1
+8025	Colorado	Crowley	pcnt_mammography	74.4
+8027	Colorado	Custer	pcnt_mammography	71
+8029	Colorado	Delta	pcnt_mammography	66.2
+8031	Colorado	Denver	pcnt_mammography	63.5
+8033	Colorado	Dolores	pcnt_mammography	
+8035	Colorado	Douglas	pcnt_mammography	70.5
+8037	Colorado	Eagle	pcnt_mammography	71.3
+8039	Colorado	Elbert	pcnt_mammography	49.6
+8041	Colorado	El Paso	pcnt_mammography	57.5
+8043	Colorado	Fremont	pcnt_mammography	63.6
+8045	Colorado	Garfield	pcnt_mammography	62.8
+8047	Colorado	Gilpin	pcnt_mammography	
+8049	Colorado	Grand	pcnt_mammography	63.6
+8051	Colorado	Gunnison	pcnt_mammography	69.6
+8053	Colorado	Hinsdale	pcnt_mammography	80
+8055	Colorado	Huerfano	pcnt_mammography	58.9
+8057	Colorado	Jackson	pcnt_mammography	61.9
+8059	Colorado	Jefferson	pcnt_mammography	63.5
+8061	Colorado	Kiowa	pcnt_mammography	
+8063	Colorado	Kit Carson	pcnt_mammography	53.9
+8065	Colorado	Lake	pcnt_mammography	76.6
+8067	Colorado	La Plata	pcnt_mammography	66.1
+8069	Colorado	Larimer	pcnt_mammography	70.5
+8071	Colorado	Las Animas	pcnt_mammography	64.7
+8073	Colorado	Lincoln	pcnt_mammography	50
+8075	Colorado	Logan	pcnt_mammography	67.3
+8077	Colorado	Mesa	pcnt_mammography	67
+8079	Colorado	Mineral	pcnt_mammography	68.4
+8081	Colorado	Moffat	pcnt_mammography	54
+8083	Colorado	Montezuma	pcnt_mammography	61.8
+8085	Colorado	Montrose	pcnt_mammography	70.5
+8087	Colorado	Morgan	pcnt_mammography	57.1
+8089	Colorado	Otero	pcnt_mammography	65.4
+8091	Colorado	Ouray	pcnt_mammography	69.7
+8093	Colorado	Park	pcnt_mammography	61.6
+8095	Colorado	Phillips	pcnt_mammography	64.9
+8097	Colorado	Pitkin	pcnt_mammography	72.7
+8099	Colorado	Prowers	pcnt_mammography	50.8
+8101	Colorado	Pueblo	pcnt_mammography	64.7
+8103	Colorado	Rio Blanco	pcnt_mammography	60.7
+8105	Colorado	Rio Grande	pcnt_mammography	62.9
+8107	Colorado	Routt	pcnt_mammography	65.8
+8109	Colorado	Saguache	pcnt_mammography	45.3
+8111	Colorado	San Juan	pcnt_mammography	
+8113	Colorado	San Miguel	pcnt_mammography	61.3
+8115	Colorado	Sedgwick	pcnt_mammography	43.2
+8117	Colorado	Summit	pcnt_mammography	77.1
+8119	Colorado	Teller	pcnt_mammography	58.7
+8121	Colorado	Washington	pcnt_mammography	58.8
+8123	Colorado	Weld	pcnt_mammography	62.2
+8125	Colorado	Yuma	pcnt_mammography	61.5
+9001	Connecticut	Fairfield	pcnt_mammography	68.7
+9003	Connecticut	Hartford	pcnt_mammography	72.1
+9005	Connecticut	Litchfield	pcnt_mammography	71.1
+9007	Connecticut	Middlesex	pcnt_mammography	74.7
+9009	Connecticut	New Haven	pcnt_mammography	68.6
+9011	Connecticut	New London	pcnt_mammography	74.5
+9013	Connecticut	Tolland	pcnt_mammography	74
+9015	Connecticut	Windham	pcnt_mammography	72.5
 10001	Delaware	Kent	pcnt_mammography	68.8
 10003	Delaware	New Castle	pcnt_mammography	69.9
 10005	Delaware	Sussex	pcnt_mammography	73.6
@@ -321,13 +321,13 @@ FIPS	State	County	Variable	pcnt_mammography
 12003	Florida	Baker	pcnt_mammography	60.6
 12005	Florida	Bay	pcnt_mammography	64.1
 12007	Florida	Bradford	pcnt_mammography	68.1
-12009	Florida	Brevard	pcnt_mammography	70.0
+12009	Florida	Brevard	pcnt_mammography	70
 12011	Florida	Broward	pcnt_mammography	61.4
 12013	Florida	Calhoun	pcnt_mammography	60.6
 12015	Florida	Charlotte	pcnt_mammography	76.3
-12017	Florida	Citrus	pcnt_mammography	73.0
+12017	Florida	Citrus	pcnt_mammography	73
 12019	Florida	Clay	pcnt_mammography	66.7
-12021	Florida	Collier	pcnt_mammography	78.0
+12021	Florida	Collier	pcnt_mammography	78
 12023	Florida	Columbia	pcnt_mammography	64.6
 12027	Florida	DeSoto	pcnt_mammography	67.7
 12029	Florida	Dixie	pcnt_mammography	51.3
@@ -346,11 +346,11 @@ FIPS	State	County	Variable	pcnt_mammography
 12055	Florida	Highlands	pcnt_mammography	66.1
 12057	Florida	Hillsborough	pcnt_mammography	66.2
 12059	Florida	Holmes	pcnt_mammography	59.9
-12061	Florida	Indian River	pcnt_mammography	75.0
+12061	Florida	Indian River	pcnt_mammography	75
 12063	Florida	Jackson	pcnt_mammography	66.6
-12065	Florida	Jefferson	pcnt_mammography	60.0
+12065	Florida	Jefferson	pcnt_mammography	60
 12067	Florida	Lafayette	pcnt_mammography	58.6
-12069	Florida	Lake	pcnt_mammography	74.0
+12069	Florida	Lake	pcnt_mammography	74
 12071	Florida	Lee	pcnt_mammography	75.2
 12073	Florida	Leon	pcnt_mammography	70.7
 12075	Florida	Levy	pcnt_mammography	59.5
@@ -368,52 +368,52 @@ FIPS	State	County	Variable	pcnt_mammography
 12097	Florida	Osceola	pcnt_mammography	57.9
 12099	Florida	Palm Beach	pcnt_mammography	76.4
 12101	Florida	Pasco	pcnt_mammography	72.1
-12103	Florida	Pinellas	pcnt_mammography	70.0
+12103	Florida	Pinellas	pcnt_mammography	70
 12105	Florida	Polk	pcnt_mammography	69.7
 12107	Florida	Putnam	pcnt_mammography	66.9
 12109	Florida	St. Johns	pcnt_mammography	74.6
 12111	Florida	St. Lucie	pcnt_mammography	71.3
 12113	Florida	Santa Rosa	pcnt_mammography	68.3
 12115	Florida	Sarasota	pcnt_mammography	77.9
-12117	Florida	Seminole	pcnt_mammography	67.0
+12117	Florida	Seminole	pcnt_mammography	67
 12119	Florida	Sumter	pcnt_mammography	84.4
 12121	Florida	Suwannee	pcnt_mammography	62.6
 12123	Florida	Taylor	pcnt_mammography	54.5
 12125	Florida	Union	pcnt_mammography	51.1
 12127	Florida	Volusia	pcnt_mammography	71.8
-12129	Florida	Wakulla	pcnt_mammography	66.0
+12129	Florida	Wakulla	pcnt_mammography	66
 12131	Florida	Walton	pcnt_mammography	68.1
 12133	Florida	Washington	pcnt_mammography	56.8
-13001	Georgia	Appling	pcnt_mammography	57.0
+13001	Georgia	Appling	pcnt_mammography	57
 13003	Georgia	Atkinson	pcnt_mammography	57.4
 13005	Georgia	Bacon	pcnt_mammography	56.4
 13007	Georgia	Baker	pcnt_mammography	62.9
 13009	Georgia	Baldwin	pcnt_mammography	69.5
-13011	Georgia	Banks	pcnt_mammography	55.0
+13011	Georgia	Banks	pcnt_mammography	55
 13013	Georgia	Barrow	pcnt_mammography	61.5
 13015	Georgia	Bartow	pcnt_mammography	64.3
-13017	Georgia	Ben Hill	pcnt_mammography	54.0
+13017	Georgia	Ben Hill	pcnt_mammography	54
 13019	Georgia	Berrien	pcnt_mammography	62.5
 13021	Georgia	Bibb	pcnt_mammography	69.1
-13023	Georgia	Bleckley	pcnt_mammography	69.0
+13023	Georgia	Bleckley	pcnt_mammography	69
 13025	Georgia	Brantley	pcnt_mammography	58.4
 13027	Georgia	Brooks	pcnt_mammography	61.1
 13029	Georgia	Bryan	pcnt_mammography	58.3
 13031	Georgia	Bulloch	pcnt_mammography	62.9
 13033	Georgia	Burke	pcnt_mammography	61.3
 13035	Georgia	Butts	pcnt_mammography	61.1
-13037	Georgia	Calhoun	pcnt_mammography	51.0
+13037	Georgia	Calhoun	pcnt_mammography	51
 13039	Georgia	Camden	pcnt_mammography	70.5
 13043	Georgia	Candler	pcnt_mammography	51.8
 13045	Georgia	Carroll	pcnt_mammography	57.3
 13047	Georgia	Catoosa	pcnt_mammography	63.1
 13049	Georgia	Charlton	pcnt_mammography	53.6
 13051	Georgia	Chatham	pcnt_mammography	73.6
-13053	Georgia	Chattahoochee	pcnt_mammography	62.0
+13053	Georgia	Chattahoochee	pcnt_mammography	62
 13055	Georgia	Chattooga	pcnt_mammography	54.4
 13057	Georgia	Cherokee	pcnt_mammography	63.8
 13059	Georgia	Clarke	pcnt_mammography	72.7
-13061	Georgia	Clay	pcnt_mammography	75.0
+13061	Georgia	Clay	pcnt_mammography	75
 13063	Georgia	Clayton	pcnt_mammography	53.8
 13065	Georgia	Clinch	pcnt_mammography	57.1
 13067	Georgia	Cobb	pcnt_mammography	67.6
@@ -421,8 +421,8 @@ FIPS	State	County	Variable	pcnt_mammography
 13071	Georgia	Colquitt	pcnt_mammography	59.9
 13073	Georgia	Columbia	pcnt_mammography	61.2
 13075	Georgia	Cook	pcnt_mammography	70.7
-13077	Georgia	Coweta	pcnt_mammography	62.0
-13079	Georgia	Crawford	pcnt_mammography	50.0
+13077	Georgia	Coweta	pcnt_mammography	62
+13079	Georgia	Crawford	pcnt_mammography	50
 13081	Georgia	Crisp	pcnt_mammography	67.6
 13083	Georgia	Dade	pcnt_mammography	58.7
 13085	Georgia	Dawson	pcnt_mammography	61.4
@@ -443,7 +443,7 @@ FIPS	State	County	Variable	pcnt_mammography
 13115	Georgia	Floyd	pcnt_mammography	67.4
 13117	Georgia	Forsyth	pcnt_mammography	66.1
 13119	Georgia	Franklin	pcnt_mammography	60.4
-13121	Georgia	Fulton	pcnt_mammography	66.0
+13121	Georgia	Fulton	pcnt_mammography	66
 13123	Georgia	Gilmer	pcnt_mammography	58.1
 13125	Georgia	Glascock	pcnt_mammography	54.1
 13127	Georgia	Glynn	pcnt_mammography	69.2
@@ -452,7 +452,7 @@ FIPS	State	County	Variable	pcnt_mammography
 13133	Georgia	Greene	pcnt_mammography	70.3
 13135	Georgia	Gwinnett	pcnt_mammography	63.3
 13137	Georgia	Habersham	pcnt_mammography	69.5
-13139	Georgia	Hall	pcnt_mammography	67.0
+13139	Georgia	Hall	pcnt_mammography	67
 13141	Georgia	Hancock	pcnt_mammography	68.2
 13143	Georgia	Haralson	pcnt_mammography	63.1
 13145	Georgia	Harris	pcnt_mammography	66.8
@@ -462,19 +462,19 @@ FIPS	State	County	Variable	pcnt_mammography
 13153	Georgia	Houston	pcnt_mammography	65.1
 13155	Georgia	Irwin	pcnt_mammography	71.4
 13157	Georgia	Jackson	pcnt_mammography	62.4
-13159	Georgia	Jasper	pcnt_mammography	63.0
-13161	Georgia	Jeff Davis	pcnt_mammography	51.0
-13163	Georgia	Jefferson	pcnt_mammography	63.0
+13159	Georgia	Jasper	pcnt_mammography	63
+13161	Georgia	Jeff Davis	pcnt_mammography	51
+13163	Georgia	Jefferson	pcnt_mammography	63
 13165	Georgia	Jenkins	pcnt_mammography	56.7
 13167	Georgia	Johnson	pcnt_mammography	54.6
 13169	Georgia	Jones	pcnt_mammography	69.2
 13171	Georgia	Lamar	pcnt_mammography	51.7
-13173	Georgia	Lanier	pcnt_mammography	46.0
+13173	Georgia	Lanier	pcnt_mammography	46
 13175	Georgia	Laurens	pcnt_mammography	66.8
 13177	Georgia	Lee	pcnt_mammography	65.2
 13179	Georgia	Liberty	pcnt_mammography	56.9
 13181	Georgia	Lincoln	pcnt_mammography	56.8
-13183	Georgia	Long	pcnt_mammography	65.0
+13183	Georgia	Long	pcnt_mammography	65
 13185	Georgia	Lowndes	pcnt_mammography	66.3
 13187	Georgia	Lumpkin	pcnt_mammography	67.8
 13189	Georgia	McDuffie	pcnt_mammography	51.9
@@ -494,7 +494,7 @@ FIPS	State	County	Variable	pcnt_mammography
 13219	Georgia	Oconee	pcnt_mammography	71.4
 13221	Georgia	Oglethorpe	pcnt_mammography	67.9
 13223	Georgia	Paulding	pcnt_mammography	64.2
-13225	Georgia	Peach	pcnt_mammography	63.0
+13225	Georgia	Peach	pcnt_mammography	63
 13227	Georgia	Pickens	pcnt_mammography	62.8
 13229	Georgia	Pierce	pcnt_mammography	59.8
 13231	Georgia	Pike	pcnt_mammography	64.1
@@ -508,21 +508,21 @@ FIPS	State	County	Variable	pcnt_mammography
 13247	Georgia	Rockdale	pcnt_mammography	62.8
 13249	Georgia	Schley	pcnt_mammography	58.8
 13251	Georgia	Screven	pcnt_mammography	65.6
-13253	Georgia	Seminole	pcnt_mammography	60.0
+13253	Georgia	Seminole	pcnt_mammography	60
 13255	Georgia	Spalding	pcnt_mammography	57.9
 13257	Georgia	Stephens	pcnt_mammography	59.2
 13259	Georgia	Stewart	pcnt_mammography	42.9
 13261	Georgia	Sumter	pcnt_mammography	59.6
 13263	Georgia	Talbot	pcnt_mammography	62.6
 13265	Georgia	Taliaferro	pcnt_mammography	
-13267	Georgia	Tattnall	pcnt_mammography	55.0
+13267	Georgia	Tattnall	pcnt_mammography	55
 13269	Georgia	Taylor	pcnt_mammography	60.3
 13271	Georgia	Telfair	pcnt_mammography	46.5
 13273	Georgia	Terrell	pcnt_mammography	59.2
 13275	Georgia	Thomas	pcnt_mammography	68.4
 13277	Georgia	Tift	pcnt_mammography	71.7
 13279	Georgia	Toombs	pcnt_mammography	62.4
-13281	Georgia	Towns	pcnt_mammography	70.0
+13281	Georgia	Towns	pcnt_mammography	70
 13283	Georgia	Treutlen	pcnt_mammography	54.5
 13285	Georgia	Troup	pcnt_mammography	61.8
 13287	Georgia	Turner	pcnt_mammography	65.6
@@ -531,7 +531,7 @@ FIPS	State	County	Variable	pcnt_mammography
 13293	Georgia	Upson	pcnt_mammography	49.2
 13295	Georgia	Walker	pcnt_mammography	58.4
 13297	Georgia	Walton	pcnt_mammography	64.5
-13299	Georgia	Ware	pcnt_mammography	62.0
+13299	Georgia	Ware	pcnt_mammography	62
 13301	Georgia	Warren	pcnt_mammography	82.4
 13303	Georgia	Washington	pcnt_mammography	69.2
 13305	Georgia	Wayne	pcnt_mammography	54.7
@@ -540,7 +540,7 @@ FIPS	State	County	Variable	pcnt_mammography
 13311	Georgia	White	pcnt_mammography	66.9
 13313	Georgia	Whitfield	pcnt_mammography	58.7
 13315	Georgia	Wilcox	pcnt_mammography	58.2
-13317	Georgia	Wilkes	pcnt_mammography	61.0
+13317	Georgia	Wilkes	pcnt_mammography	61
 13319	Georgia	Wilkinson	pcnt_mammography	62.8
 13321	Georgia	Worth	pcnt_mammography	65.5
 15001	Hawaii	Hawaii	pcnt_mammography	63.5
@@ -565,11 +565,11 @@ FIPS	State	County	Variable	pcnt_mammography
 16029	Idaho	Caribou	pcnt_mammography	60.8
 16031	Idaho	Cassia	pcnt_mammography	54.1
 16033	Idaho	Clark	pcnt_mammography	
-16035	Idaho	Clearwater	pcnt_mammography	64.0
+16035	Idaho	Clearwater	pcnt_mammography	64
 16037	Idaho	Custer	pcnt_mammography	57.1
 16039	Idaho	Elmore	pcnt_mammography	53.4
 16041	Idaho	Franklin	pcnt_mammography	47.8
-16043	Idaho	Fremont	pcnt_mammography	49.0
+16043	Idaho	Fremont	pcnt_mammography	49
 16045	Idaho	Gem	pcnt_mammography	56.6
 16047	Idaho	Gooding	pcnt_mammography	53.3
 16049	Idaho	Idaho	pcnt_mammography	55.4
@@ -598,7 +598,7 @@ FIPS	State	County	Variable	pcnt_mammography
 17007	Illinois	Boone	pcnt_mammography	62.7
 17009	Illinois	Brown	pcnt_mammography	60.4
 17011	Illinois	Bureau	pcnt_mammography	62.5
-17013	Illinois	Calhoun	pcnt_mammography	58.0
+17013	Illinois	Calhoun	pcnt_mammography	58
 17015	Illinois	Carroll	pcnt_mammography	62.4
 17017	Illinois	Cass	pcnt_mammography	61.6
 17019	Illinois	Champaign	pcnt_mammography	75.8
@@ -607,11 +607,11 @@ FIPS	State	County	Variable	pcnt_mammography
 17025	Illinois	Clay	pcnt_mammography	68.6
 17027	Illinois	Clinton	pcnt_mammography	70.6
 17029	Illinois	Coles	pcnt_mammography	68.2
-17031	Illinois	Cook	pcnt_mammography	63.0
+17031	Illinois	Cook	pcnt_mammography	63
 17033	Illinois	Crawford	pcnt_mammography	69.4
 17035	Illinois	Cumberland	pcnt_mammography	62.8
 17037	Illinois	DeKalb	pcnt_mammography	65.7
-17039	Illinois	De Witt	pcnt_mammography	62.0
+17039	Illinois	De Witt	pcnt_mammography	62
 17041	Illinois	Douglas	pcnt_mammography	68.1
 17043	Illinois	DuPage	pcnt_mammography	68.4
 17045	Illinois	Edgar	pcnt_mammography	56.8
@@ -635,8 +635,8 @@ FIPS	State	County	Variable	pcnt_mammography
 17081	Illinois	Jefferson	pcnt_mammography	63.9
 17083	Illinois	Jersey	pcnt_mammography	71.3
 17085	Illinois	Jo Daviess	pcnt_mammography	76.2
-17087	Illinois	Johnson	pcnt_mammography	70.0
-17089	Illinois	Kane	pcnt_mammography	66.0
+17087	Illinois	Johnson	pcnt_mammography	70
+17089	Illinois	Kane	pcnt_mammography	66
 17091	Illinois	Kankakee	pcnt_mammography	64.6
 17093	Illinois	Kendall	pcnt_mammography	66.2
 17095	Illinois	Knox	pcnt_mammography	72.4
@@ -661,19 +661,19 @@ FIPS	State	County	Variable	pcnt_mammography
 17133	Illinois	Monroe	pcnt_mammography	73.4
 17135	Illinois	Montgomery	pcnt_mammography	65.6
 17137	Illinois	Morgan	pcnt_mammography	65.9
-17139	Illinois	Moultrie	pcnt_mammography	73.0
+17139	Illinois	Moultrie	pcnt_mammography	73
 17141	Illinois	Ogle	pcnt_mammography	64.5
-17143	Illinois	Peoria	pcnt_mammography	64.0
+17143	Illinois	Peoria	pcnt_mammography	64
 17145	Illinois	Perry	pcnt_mammography	61.2
 17147	Illinois	Piatt	pcnt_mammography	74.5
 17149	Illinois	Pike	pcnt_mammography	68.6
-17151	Illinois	Pope	pcnt_mammography	68.0
+17151	Illinois	Pope	pcnt_mammography	68
 17153	Illinois	Pulaski	pcnt_mammography	58.7
-17155	Illinois	Putnam	pcnt_mammography	56.0
+17155	Illinois	Putnam	pcnt_mammography	56
 17157	Illinois	Randolph	pcnt_mammography	66.4
 17159	Illinois	Richland	pcnt_mammography	54.3
 17161	Illinois	Rock Island	pcnt_mammography	72.3
-17163	Illinois	St. Clair	pcnt_mammography	65.0
+17163	Illinois	St. Clair	pcnt_mammography	65
 17165	Illinois	Saline	pcnt_mammography	56.6
 17167	Illinois	Sangamon	pcnt_mammography	72.1
 17169	Illinois	Schuyler	pcnt_mammography	53.7
@@ -698,7 +698,7 @@ FIPS	State	County	Variable	pcnt_mammography
 18003	Indiana	Allen	pcnt_mammography	59.6
 18005	Indiana	Bartholomew	pcnt_mammography	66.2
 18007	Indiana	Benton	pcnt_mammography	58.6
-18009	Indiana	Blackford	pcnt_mammography	64.0
+18009	Indiana	Blackford	pcnt_mammography	64
 18011	Indiana	Boone	pcnt_mammography	67.4
 18013	Indiana	Brown	pcnt_mammography	58.2
 18015	Indiana	Carroll	pcnt_mammography	64.9
@@ -712,7 +712,7 @@ FIPS	State	County	Variable	pcnt_mammography
 18031	Indiana	Decatur	pcnt_mammography	65.9
 18033	Indiana	DeKalb	pcnt_mammography	55.5
 18035	Indiana	Delaware	pcnt_mammography	70.4
-18037	Indiana	Dubois	pcnt_mammography	69.0
+18037	Indiana	Dubois	pcnt_mammography	69
 18039	Indiana	Elkhart	pcnt_mammography	62.7
 18041	Indiana	Fayette	pcnt_mammography	66.1
 18043	Indiana	Floyd	pcnt_mammography	67.3
@@ -724,7 +724,7 @@ FIPS	State	County	Variable	pcnt_mammography
 18055	Indiana	Greene	pcnt_mammography	53.6
 18057	Indiana	Hamilton	pcnt_mammography	72.6
 18059	Indiana	Hancock	pcnt_mammography	66.9
-18061	Indiana	Harrison	pcnt_mammography	64.0
+18061	Indiana	Harrison	pcnt_mammography	64
 18063	Indiana	Hendricks	pcnt_mammography	70.8
 18065	Indiana	Henry	pcnt_mammography	70.6
 18067	Indiana	Howard	pcnt_mammography	67.2
@@ -733,16 +733,16 @@ FIPS	State	County	Variable	pcnt_mammography
 18073	Indiana	Jasper	pcnt_mammography	62.6
 18075	Indiana	Jay	pcnt_mammography	57.9
 18077	Indiana	Jefferson	pcnt_mammography	62.2
-18079	Indiana	Jennings	pcnt_mammography	58.0
+18079	Indiana	Jennings	pcnt_mammography	58
 18081	Indiana	Johnson	pcnt_mammography	65.3
 18083	Indiana	Knox	pcnt_mammography	57.1
 18085	Indiana	Kosciusko	pcnt_mammography	62.2
 18087	Indiana	LaGrange	pcnt_mammography	60.7
-18089	Indiana	Lake	pcnt_mammography	58.0
+18089	Indiana	Lake	pcnt_mammography	58
 18091	Indiana	LaPorte	pcnt_mammography	65.6
-18093	Indiana	Lawrence	pcnt_mammography	65.0
+18093	Indiana	Lawrence	pcnt_mammography	65
 18095	Indiana	Madison	pcnt_mammography	70.4
-18097	Indiana	Marion	pcnt_mammography	63.0
+18097	Indiana	Marion	pcnt_mammography	63
 18099	Indiana	Marshall	pcnt_mammography	56.3
 18101	Indiana	Martin	pcnt_mammography	62.8
 18103	Indiana	Miami	pcnt_mammography	67.2
@@ -751,7 +751,7 @@ FIPS	State	County	Variable	pcnt_mammography
 18109	Indiana	Morgan	pcnt_mammography	64.6
 18111	Indiana	Newton	pcnt_mammography	57.6
 18113	Indiana	Noble	pcnt_mammography	54.1
-18115	Indiana	Ohio	pcnt_mammography	60.0
+18115	Indiana	Ohio	pcnt_mammography	60
 18117	Indiana	Orange	pcnt_mammography	57.5
 18119	Indiana	Owen	pcnt_mammography	57.7
 18121	Indiana	Parke	pcnt_mammography	57.1
@@ -762,7 +762,7 @@ FIPS	State	County	Variable	pcnt_mammography
 18131	Indiana	Pulaski	pcnt_mammography	51.9
 18133	Indiana	Putnam	pcnt_mammography	60.4
 18135	Indiana	Randolph	pcnt_mammography	64.5
-18137	Indiana	Ripley	pcnt_mammography	61.0
+18137	Indiana	Ripley	pcnt_mammography	61
 18139	Indiana	Rush	pcnt_mammography	61.9
 18141	Indiana	St. Joseph	pcnt_mammography	64.6
 18143	Indiana	Scott	pcnt_mammography	57.2
@@ -774,17 +774,17 @@ FIPS	State	County	Variable	pcnt_mammography
 18155	Indiana	Switzerland	pcnt_mammography	52.6
 18157	Indiana	Tippecanoe	pcnt_mammography	66.7
 18159	Indiana	Tipton	pcnt_mammography	67.6
-18161	Indiana	Union	pcnt_mammography	63.0
+18161	Indiana	Union	pcnt_mammography	63
 18163	Indiana	Vanderburgh	pcnt_mammography	69.1
 18165	Indiana	Vermillion	pcnt_mammography	46.7
 18167	Indiana	Vigo	pcnt_mammography	57.5
 18169	Indiana	Wabash	pcnt_mammography	63.5
 18171	Indiana	Warren	pcnt_mammography	72.9
-18173	Indiana	Warrick	pcnt_mammography	71.0
+18173	Indiana	Warrick	pcnt_mammography	71
 18175	Indiana	Washington	pcnt_mammography	56.9
 18177	Indiana	Wayne	pcnt_mammography	62.6
 18179	Indiana	Wells	pcnt_mammography	69.9
-18181	Indiana	White	pcnt_mammography	63.0
+18181	Indiana	White	pcnt_mammography	63
 18183	Indiana	Whitley	pcnt_mammography	56.4
 19001	Iowa	Adair	pcnt_mammography	72.2
 19003	Iowa	Adams	pcnt_mammography	72.2
@@ -795,7 +795,7 @@ FIPS	State	County	Variable	pcnt_mammography
 19013	Iowa	Black Hawk	pcnt_mammography	75.8
 19015	Iowa	Boone	pcnt_mammography	71.9
 19017	Iowa	Bremer	pcnt_mammography	74.4
-19019	Iowa	Buchanan	pcnt_mammography	68.0
+19019	Iowa	Buchanan	pcnt_mammography	68
 19021	Iowa	Buena Vista	pcnt_mammography	62.8
 19023	Iowa	Butler	pcnt_mammography	68.4
 19025	Iowa	Calhoun	pcnt_mammography	73.5
@@ -803,13 +803,13 @@ FIPS	State	County	Variable	pcnt_mammography
 19029	Iowa	Cass	pcnt_mammography	66.7
 19031	Iowa	Cedar	pcnt_mammography	71.1
 19033	Iowa	Cerro Gordo	pcnt_mammography	72.1
-19035	Iowa	Cherokee	pcnt_mammography	74.0
-19037	Iowa	Chickasaw	pcnt_mammography	77.0
+19035	Iowa	Cherokee	pcnt_mammography	74
+19037	Iowa	Chickasaw	pcnt_mammography	77
 19039	Iowa	Clarke	pcnt_mammography	57.8
 19041	Iowa	Clay	pcnt_mammography	67.2
 19043	Iowa	Clayton	pcnt_mammography	65.9
 19045	Iowa	Clinton	pcnt_mammography	68.3
-19047	Iowa	Crawford	pcnt_mammography	68.0
+19047	Iowa	Crawford	pcnt_mammography	68
 19049	Iowa	Dallas	pcnt_mammography	65.4
 19051	Iowa	Davis	pcnt_mammography	58.6
 19053	Iowa	Decatur	pcnt_mammography	61.5
@@ -817,7 +817,7 @@ FIPS	State	County	Variable	pcnt_mammography
 19057	Iowa	Des Moines	pcnt_mammography	66.1
 19059	Iowa	Dickinson	pcnt_mammography	64.4
 19061	Iowa	Dubuque	pcnt_mammography	82.1
-19063	Iowa	Emmet	pcnt_mammography	66.0
+19063	Iowa	Emmet	pcnt_mammography	66
 19065	Iowa	Fayette	pcnt_mammography	65.6
 19067	Iowa	Floyd	pcnt_mammography	74.8
 19069	Iowa	Franklin	pcnt_mammography	68.6
@@ -825,9 +825,9 @@ FIPS	State	County	Variable	pcnt_mammography
 19073	Iowa	Greene	pcnt_mammography	66.7
 19075	Iowa	Grundy	pcnt_mammography	70.9
 19077	Iowa	Guthrie	pcnt_mammography	65.3
-19079	Iowa	Hamilton	pcnt_mammography	77.0
+19079	Iowa	Hamilton	pcnt_mammography	77
 19081	Iowa	Hancock	pcnt_mammography	68.6
-19083	Iowa	Hardin	pcnt_mammography	68.0
+19083	Iowa	Hardin	pcnt_mammography	68
 19085	Iowa	Harrison	pcnt_mammography	61.2
 19087	Iowa	Henry	pcnt_mammography	59.9
 19089	Iowa	Howard	pcnt_mammography	71.7
@@ -836,7 +836,7 @@ FIPS	State	County	Variable	pcnt_mammography
 19095	Iowa	Iowa	pcnt_mammography	71.4
 19097	Iowa	Jackson	pcnt_mammography	66.8
 19099	Iowa	Jasper	pcnt_mammography	62.3
-19101	Iowa	Jefferson	pcnt_mammography	58.0
+19101	Iowa	Jefferson	pcnt_mammography	58
 19103	Iowa	Johnson	pcnt_mammography	75.3
 19105	Iowa	Jones	pcnt_mammography	68.8
 19107	Iowa	Keokuk	pcnt_mammography	54.2
@@ -858,11 +858,11 @@ FIPS	State	County	Variable	pcnt_mammography
 19139	Iowa	Muscatine	pcnt_mammography	68.6
 19141	Iowa	O'Brien	pcnt_mammography	67.7
 19143	Iowa	Osceola	pcnt_mammography	69.7
-19145	Iowa	Page	pcnt_mammography	67.0
+19145	Iowa	Page	pcnt_mammography	67
 19147	Iowa	Palo Alto	pcnt_mammography	70.6
 19149	Iowa	Plymouth	pcnt_mammography	61.5
 19151	Iowa	Pocahontas	pcnt_mammography	58.5
-19153	Iowa	Polk	pcnt_mammography	69.0
+19153	Iowa	Polk	pcnt_mammography	69
 19155	Iowa	Pottawattamie	pcnt_mammography	63.3
 19157	Iowa	Poweshiek	pcnt_mammography	62.7
 19159	Iowa	Ringgold	pcnt_mammography	71.9
@@ -871,20 +871,20 @@ FIPS	State	County	Variable	pcnt_mammography
 19165	Iowa	Shelby	pcnt_mammography	69.3
 19167	Iowa	Sioux	pcnt_mammography	73.2
 19169	Iowa	Story	pcnt_mammography	80.8
-19171	Iowa	Tama	pcnt_mammography	65.0
+19171	Iowa	Tama	pcnt_mammography	65
 19173	Iowa	Taylor	pcnt_mammography	66.3
 19175	Iowa	Union	pcnt_mammography	74.5
 19177	Iowa	Van Buren	pcnt_mammography	59.8
 19179	Iowa	Wapello	pcnt_mammography	66.4
 19181	Iowa	Warren	pcnt_mammography	64.3
-19183	Iowa	Washington	pcnt_mammography	64.0
+19183	Iowa	Washington	pcnt_mammography	64
 19185	Iowa	Wayne	pcnt_mammography	59.6
 19187	Iowa	Webster	pcnt_mammography	64.6
 19189	Iowa	Winnebago	pcnt_mammography	79.2
 19191	Iowa	Winneshiek	pcnt_mammography	66.7
 19193	Iowa	Woodbury	pcnt_mammography	61.5
 19195	Iowa	Worth	pcnt_mammography	71.3
-19197	Iowa	Wright	pcnt_mammography	65.0
+19197	Iowa	Wright	pcnt_mammography	65
 20001	Kansas	Allen	pcnt_mammography	55.4
 20003	Kansas	Anderson	pcnt_mammography	54.9
 20005	Kansas	Atchison	pcnt_mammography	61.1
@@ -892,10 +892,10 @@ FIPS	State	County	Variable	pcnt_mammography
 20009	Kansas	Barton	pcnt_mammography	75.5
 20011	Kansas	Bourbon	pcnt_mammography	55.3
 20013	Kansas	Brown	pcnt_mammography	43.7
-20015	Kansas	Butler	pcnt_mammography	62.0
+20015	Kansas	Butler	pcnt_mammography	62
 20017	Kansas	Chase	pcnt_mammography	69.2
 20019	Kansas	Chautauqua	pcnt_mammography	46.7
-20021	Kansas	Cherokee	pcnt_mammography	54.0
+20021	Kansas	Cherokee	pcnt_mammography	54
 20023	Kansas	Cheyenne	pcnt_mammography	54.8
 20025	Kansas	Clark	pcnt_mammography	66.7
 20027	Kansas	Clay	pcnt_mammography	79.2
@@ -933,8 +933,8 @@ FIPS	State	County	Variable	pcnt_mammography
 20091	Kansas	Johnson	pcnt_mammography	72.6
 20093	Kansas	Kearny	pcnt_mammography	70.6
 20095	Kansas	Kingman	pcnt_mammography	64.1
-20097	Kansas	Kiowa	pcnt_mammography	71.0
-20099	Kansas	Labette	pcnt_mammography	59.0
+20097	Kansas	Kiowa	pcnt_mammography	71
+20099	Kansas	Labette	pcnt_mammography	59
 20101	Kansas	Lane	pcnt_mammography	81.8
 20103	Kansas	Leavenworth	pcnt_mammography	56.3
 20105	Kansas	Lincoln	pcnt_mammography	70.5
@@ -942,7 +942,7 @@ FIPS	State	County	Variable	pcnt_mammography
 20109	Kansas	Logan	pcnt_mammography	57.9
 20111	Kansas	Lyon	pcnt_mammography	69.3
 20113	Kansas	McPherson	pcnt_mammography	72.9
-20115	Kansas	Marion	pcnt_mammography	72.0
+20115	Kansas	Marion	pcnt_mammography	72
 20117	Kansas	Marshall	pcnt_mammography	66.2
 20119	Kansas	Meade	pcnt_mammography	64.4
 20121	Kansas	Miami	pcnt_mammography	62.7
@@ -950,7 +950,7 @@ FIPS	State	County	Variable	pcnt_mammography
 20125	Kansas	Montgomery	pcnt_mammography	60.2
 20127	Kansas	Morris	pcnt_mammography	72.1
 20129	Kansas	Morton	pcnt_mammography	37.1
-20131	Kansas	Nemaha	pcnt_mammography	64.0
+20131	Kansas	Nemaha	pcnt_mammography	64
 20133	Kansas	Neosho	pcnt_mammography	58.6
 20135	Kansas	Ness	pcnt_mammography	77.6
 20137	Kansas	Norton	pcnt_mammography	64.2
@@ -968,7 +968,7 @@ FIPS	State	County	Variable	pcnt_mammography
 20161	Kansas	Riley	pcnt_mammography	74.4
 20163	Kansas	Rooks	pcnt_mammography	76.3
 20165	Kansas	Rush	pcnt_mammography	58.5
-20167	Kansas	Russell	pcnt_mammography	62.0
+20167	Kansas	Russell	pcnt_mammography	62
 20169	Kansas	Saline	pcnt_mammography	78.6
 20171	Kansas	Scott	pcnt_mammography	64.3
 20173	Kansas	Sedgwick	pcnt_mammography	66.1
@@ -977,7 +977,7 @@ FIPS	State	County	Variable	pcnt_mammography
 20179	Kansas	Sheridan	pcnt_mammography	65.2
 20181	Kansas	Sherman	pcnt_mammography	52.9
 20183	Kansas	Smith	pcnt_mammography	71.2
-20185	Kansas	Stafford	pcnt_mammography	55.0
+20185	Kansas	Stafford	pcnt_mammography	55
 20187	Kansas	Stanton	pcnt_mammography	
 20189	Kansas	Stevens	pcnt_mammography	51.1
 20191	Kansas	Sumner	pcnt_mammography	61.5
@@ -985,7 +985,7 @@ FIPS	State	County	Variable	pcnt_mammography
 20195	Kansas	Trego	pcnt_mammography	84.4
 20197	Kansas	Wabaunsee	pcnt_mammography	67.4
 20199	Kansas	Wallace	pcnt_mammography	
-20201	Kansas	Washington	pcnt_mammography	69.0
+20201	Kansas	Washington	pcnt_mammography	69
 20203	Kansas	Wichita	pcnt_mammography	58.3
 20205	Kansas	Wilson	pcnt_mammography	57.9
 20207	Kansas	Woodson	pcnt_mammography	54.9
@@ -1005,8 +1005,8 @@ FIPS	State	County	Variable	pcnt_mammography
 21025	Kentucky	Breathitt	pcnt_mammography	37.1
 21027	Kentucky	Breckinridge	pcnt_mammography	62.7
 21029	Kentucky	Bullitt	pcnt_mammography	68.1
-21031	Kentucky	Butler	pcnt_mammography	48.0
-21033	Kentucky	Caldwell	pcnt_mammography	69.0
+21031	Kentucky	Butler	pcnt_mammography	48
+21033	Kentucky	Caldwell	pcnt_mammography	69
 21035	Kentucky	Calloway	pcnt_mammography	63.2
 21037	Kentucky	Campbell	pcnt_mammography	57.6
 21039	Kentucky	Carlisle	pcnt_mammography	69.6
@@ -1020,18 +1020,18 @@ FIPS	State	County	Variable	pcnt_mammography
 21055	Kentucky	Crittenden	pcnt_mammography	49.3
 21057	Kentucky	Cumberland	pcnt_mammography	41.2
 21059	Kentucky	Daviess	pcnt_mammography	75.7
-21061	Kentucky	Edmonson	pcnt_mammography	60.0
+21061	Kentucky	Edmonson	pcnt_mammography	60
 21063	Kentucky	Elliott	pcnt_mammography	41.9
 21065	Kentucky	Estill	pcnt_mammography	65.4
 21067	Kentucky	Fayette	pcnt_mammography	68.2
-21069	Kentucky	Fleming	pcnt_mammography	50.0
+21069	Kentucky	Fleming	pcnt_mammography	50
 21071	Kentucky	Floyd	pcnt_mammography	54.2
 21073	Kentucky	Franklin	pcnt_mammography	64.8
 21075	Kentucky	Fulton	pcnt_mammography	57.5
-21077	Kentucky	Gallatin	pcnt_mammography	50.0
+21077	Kentucky	Gallatin	pcnt_mammography	50
 21079	Kentucky	Garrard	pcnt_mammography	57.9
 21081	Kentucky	Grant	pcnt_mammography	38.1
-21083	Kentucky	Graves	pcnt_mammography	64.0
+21083	Kentucky	Graves	pcnt_mammography	64
 21085	Kentucky	Grayson	pcnt_mammography	60.3
 21087	Kentucky	Green	pcnt_mammography	55.7
 21089	Kentucky	Greenup	pcnt_mammography	62.5
@@ -1056,20 +1056,20 @@ FIPS	State	County	Variable	pcnt_mammography
 21127	Kentucky	Lawrence	pcnt_mammography	55.7
 21129	Kentucky	Lee	pcnt_mammography	40.7
 21131	Kentucky	Leslie	pcnt_mammography	47.3
-21133	Kentucky	Letcher	pcnt_mammography	57.0
+21133	Kentucky	Letcher	pcnt_mammography	57
 21135	Kentucky	Lewis	pcnt_mammography	42.8
 21137	Kentucky	Lincoln	pcnt_mammography	51.7
 21139	Kentucky	Livingston	pcnt_mammography	61.8
 21141	Kentucky	Logan	pcnt_mammography	71.4
 21143	Kentucky	Lyon	pcnt_mammography	64.8
 21145	Kentucky	McCracken	pcnt_mammography	68.7
-21147	Kentucky	McCreary	pcnt_mammography	49.0
+21147	Kentucky	McCreary	pcnt_mammography	49
 21149	Kentucky	McLean	pcnt_mammography	58.3
 21151	Kentucky	Madison	pcnt_mammography	63.5
 21153	Kentucky	Magoffin	pcnt_mammography	56.7
 21155	Kentucky	Marion	pcnt_mammography	68.9
 21157	Kentucky	Marshall	pcnt_mammography	67.2
-21159	Kentucky	Martin	pcnt_mammography	51.0
+21159	Kentucky	Martin	pcnt_mammography	51
 21161	Kentucky	Mason	pcnt_mammography	64.9
 21163	Kentucky	Meade	pcnt_mammography	64.7
 21165	Kentucky	Menifee	pcnt_mammography	52.4
@@ -1080,25 +1080,25 @@ FIPS	State	County	Variable	pcnt_mammography
 21175	Kentucky	Morgan	pcnt_mammography	49.2
 21177	Kentucky	Muhlenberg	pcnt_mammography	67.9
 21179	Kentucky	Nelson	pcnt_mammography	65.3
-21181	Kentucky	Nicholas	pcnt_mammography	50.0
+21181	Kentucky	Nicholas	pcnt_mammography	50
 21183	Kentucky	Ohio	pcnt_mammography	59.9
 21185	Kentucky	Oldham	pcnt_mammography	72.6
 21187	Kentucky	Owen	pcnt_mammography	46.6
 21189	Kentucky	Owsley	pcnt_mammography	37.9
 21191	Kentucky	Pendleton	pcnt_mammography	47.3
-21193	Kentucky	Perry	pcnt_mammography	51.0
+21193	Kentucky	Perry	pcnt_mammography	51
 21195	Kentucky	Pike	pcnt_mammography	55.7
 21197	Kentucky	Powell	pcnt_mammography	55.2
 21199	Kentucky	Pulaski	pcnt_mammography	60.8
 21201	Kentucky	Robertson	pcnt_mammography	
-21203	Kentucky	Rockcastle	pcnt_mammography	56.0
+21203	Kentucky	Rockcastle	pcnt_mammography	56
 21205	Kentucky	Rowan	pcnt_mammography	57.5
 21207	Kentucky	Russell	pcnt_mammography	56.9
-21209	Kentucky	Scott	pcnt_mammography	59.0
+21209	Kentucky	Scott	pcnt_mammography	59
 21211	Kentucky	Shelby	pcnt_mammography	71.5
 21213	Kentucky	Simpson	pcnt_mammography	60.2
 21215	Kentucky	Spencer	pcnt_mammography	65.1
-21217	Kentucky	Taylor	pcnt_mammography	67.0
+21217	Kentucky	Taylor	pcnt_mammography	67
 21219	Kentucky	Todd	pcnt_mammography	70.8
 21221	Kentucky	Trigg	pcnt_mammography	66.8
 21223	Kentucky	Trimble	pcnt_mammography	63.8
@@ -1108,7 +1108,7 @@ FIPS	State	County	Variable	pcnt_mammography
 21231	Kentucky	Wayne	pcnt_mammography	56.7
 21233	Kentucky	Webster	pcnt_mammography	62.4
 21235	Kentucky	Whitley	pcnt_mammography	55.5
-21237	Kentucky	Wolfe	pcnt_mammography	54.0
+21237	Kentucky	Wolfe	pcnt_mammography	54
 21239	Kentucky	Woodford	pcnt_mammography	76.9
 22001	Louisiana	Acadia	pcnt_mammography	61.6
 22003	Louisiana	Allen	pcnt_mammography	58.3
@@ -1116,10 +1116,10 @@ FIPS	State	County	Variable	pcnt_mammography
 22007	Louisiana	Assumption	pcnt_mammography	65.8
 22009	Louisiana	Avoyelles	pcnt_mammography	55.6
 22011	Louisiana	Beauregard	pcnt_mammography	58.8
-22013	Louisiana	Bienville	pcnt_mammography	59.0
+22013	Louisiana	Bienville	pcnt_mammography	59
 22015	Louisiana	Bossier	pcnt_mammography	61.1
 22017	Louisiana	Caddo	pcnt_mammography	59.8
-22019	Louisiana	Calcasieu	pcnt_mammography	67.0
+22019	Louisiana	Calcasieu	pcnt_mammography	67
 22021	Louisiana	Caldwell	pcnt_mammography	58.6
 22023	Louisiana	Cameron	pcnt_mammography	64.3
 22025	Louisiana	Catahoula	pcnt_mammography	65.3
@@ -1144,7 +1144,7 @@ FIPS	State	County	Variable	pcnt_mammography
 22063	Louisiana	Livingston	pcnt_mammography	66.3
 22065	Louisiana	Madison	pcnt_mammography	48.9
 22067	Louisiana	Morehouse	pcnt_mammography	58.1
-22069	Louisiana	Natchitoches	pcnt_mammography	58.0
+22069	Louisiana	Natchitoches	pcnt_mammography	58
 22071	Louisiana	Orleans	pcnt_mammography	63.1
 22073	Louisiana	Ouachita	pcnt_mammography	63.8
 22075	Louisiana	Plaquemines	pcnt_mammography	64.8
@@ -1155,7 +1155,7 @@ FIPS	State	County	Variable	pcnt_mammography
 22085	Louisiana	Sabine	pcnt_mammography	62.2
 22087	Louisiana	St. Bernard	pcnt_mammography	49.2
 22089	Louisiana	St. Charles	pcnt_mammography	69.7
-22091	Louisiana	St. Helena	pcnt_mammography	51.0
+22091	Louisiana	St. Helena	pcnt_mammography	51
 22093	Louisiana	St. James	pcnt_mammography	60.6
 22095	Louisiana	St. John the Baptist	pcnt_mammography	64.3
 22097	Louisiana	St. Landry	pcnt_mammography	65.4
@@ -1163,7 +1163,7 @@ FIPS	State	County	Variable	pcnt_mammography
 22101	Louisiana	St. Mary	pcnt_mammography	62.2
 22103	Louisiana	St. Tammany	pcnt_mammography	67.4
 22105	Louisiana	Tangipahoa	pcnt_mammography	60.8
-22107	Louisiana	Tensas	pcnt_mammography	50.0
+22107	Louisiana	Tensas	pcnt_mammography	50
 22109	Louisiana	Terrebonne	pcnt_mammography	63.9
 22111	Louisiana	Union	pcnt_mammography	53.7
 22113	Louisiana	Vermilion	pcnt_mammography	55.4
@@ -1173,7 +1173,7 @@ FIPS	State	County	Variable	pcnt_mammography
 22121	Louisiana	West Baton Rouge	pcnt_mammography	64.9
 22123	Louisiana	West Carroll	pcnt_mammography	60.9
 22125	Louisiana	West Feliciana	pcnt_mammography	70.8
-22127	Louisiana	Winn	pcnt_mammography	53.0
+22127	Louisiana	Winn	pcnt_mammography	53
 23001	Maine	Androscoggin	pcnt_mammography	68.6
 23003	Maine	Aroostook	pcnt_mammography	78.2
 23005	Maine	Cumberland	pcnt_mammography	72.4
@@ -1193,7 +1193,7 @@ FIPS	State	County	Variable	pcnt_mammography
 24001	Maryland	Allegany	pcnt_mammography	73.7
 24003	Maryland	Anne Arundel	pcnt_mammography	65.9
 24005	Maryland	Baltimore	pcnt_mammography	70.2
-24009	Maryland	Calvert	pcnt_mammography	72.0
+24009	Maryland	Calvert	pcnt_mammography	72
 24011	Maryland	Caroline	pcnt_mammography	61.6
 24013	Maryland	Carroll	pcnt_mammography	68.1
 24015	Maryland	Cecil	pcnt_mammography	65.4
@@ -1202,10 +1202,10 @@ FIPS	State	County	Variable	pcnt_mammography
 24021	Maryland	Frederick	pcnt_mammography	63.5
 24023	Maryland	Garrett	pcnt_mammography	70.9
 24025	Maryland	Harford	pcnt_mammography	68.1
-24027	Maryland	Howard	pcnt_mammography	71.0
-24029	Maryland	Kent	pcnt_mammography	73.0
-24031	Maryland	Montgomery	pcnt_mammography	68.0
-24033	Maryland	Prince George's	pcnt_mammography	63.0
+24027	Maryland	Howard	pcnt_mammography	71
+24029	Maryland	Kent	pcnt_mammography	73
+24031	Maryland	Montgomery	pcnt_mammography	68
+24033	Maryland	Prince George's	pcnt_mammography	63
 24035	Maryland	Queen Anne's	pcnt_mammography	70.8
 24037	Maryland	St. Mary's	pcnt_mammography	70.4
 24039	Maryland	Somerset	pcnt_mammography	64.8
@@ -1214,7 +1214,7 @@ FIPS	State	County	Variable	pcnt_mammography
 24045	Maryland	Wicomico	pcnt_mammography	67.8
 24047	Maryland	Worcester	pcnt_mammography	73.8
 24510	Maryland	Baltimore City	pcnt_mammography	64.4
-25001	Massachusetts	Barnstable	pcnt_mammography	79.0
+25001	Massachusetts	Barnstable	pcnt_mammography	79
 25003	Massachusetts	Berkshire	pcnt_mammography	74.7
 25005	Massachusetts	Bristol	pcnt_mammography	76.7
 25007	Massachusetts	Dukes	pcnt_mammography	76.3
@@ -1222,7 +1222,7 @@ FIPS	State	County	Variable	pcnt_mammography
 25011	Massachusetts	Franklin	pcnt_mammography	75.9
 25013	Massachusetts	Hampden	pcnt_mammography	74.5
 25015	Massachusetts	Hampshire	pcnt_mammography	80.9
-25017	Massachusetts	Middlesex	pcnt_mammography	76.0
+25017	Massachusetts	Middlesex	pcnt_mammography	76
 25019	Massachusetts	Nantucket	pcnt_mammography	73.8
 25021	Massachusetts	Norfolk	pcnt_mammography	76.4
 25023	Massachusetts	Plymouth	pcnt_mammography	74.9
@@ -1247,7 +1247,7 @@ FIPS	State	County	Variable	pcnt_mammography
 26033	Michigan	Chippewa	pcnt_mammography	65.4
 26035	Michigan	Clare	pcnt_mammography	62.1
 26037	Michigan	Clinton	pcnt_mammography	64.7
-26039	Michigan	Crawford	pcnt_mammography	71.0
+26039	Michigan	Crawford	pcnt_mammography	71
 26041	Michigan	Delta	pcnt_mammography	70.4
 26043	Michigan	Dickinson	pcnt_mammography	70.7
 26045	Michigan	Eaton	pcnt_mammography	71.8
@@ -1255,7 +1255,7 @@ FIPS	State	County	Variable	pcnt_mammography
 26049	Michigan	Genesee	pcnt_mammography	69.6
 26051	Michigan	Gladwin	pcnt_mammography	68.1
 26053	Michigan	Gogebic	pcnt_mammography	62.3
-26055	Michigan	Grand Traverse	pcnt_mammography	77.0
+26055	Michigan	Grand Traverse	pcnt_mammography	77
 26057	Michigan	Gratiot	pcnt_mammography	68.3
 26059	Michigan	Hillsdale	pcnt_mammography	64.8
 26061	Michigan	Houghton	pcnt_mammography	58.8
@@ -1263,21 +1263,21 @@ FIPS	State	County	Variable	pcnt_mammography
 26065	Michigan	Ingham	pcnt_mammography	64.5
 26067	Michigan	Ionia	pcnt_mammography	62.9
 26069	Michigan	Iosco	pcnt_mammography	71.5
-26071	Michigan	Iron	pcnt_mammography	65.0
+26071	Michigan	Iron	pcnt_mammography	65
 26073	Michigan	Isabella	pcnt_mammography	63.3
 26075	Michigan	Jackson	pcnt_mammography	63.5
 26077	Michigan	Kalamazoo	pcnt_mammography	71.6
-26079	Michigan	Kalkaska	pcnt_mammography	66.0
+26079	Michigan	Kalkaska	pcnt_mammography	66
 26081	Michigan	Kent	pcnt_mammography	67.9
 26083	Michigan	Keweenaw	pcnt_mammography	71.4
 26085	Michigan	Lake	pcnt_mammography	73.2
 26087	Michigan	Lapeer	pcnt_mammography	60.8
-26089	Michigan	Leelanau	pcnt_mammography	82.0
+26089	Michigan	Leelanau	pcnt_mammography	82
 26091	Michigan	Lenawee	pcnt_mammography	70.6
 26093	Michigan	Livingston	pcnt_mammography	69.4
 26095	Michigan	Luce	pcnt_mammography	72.9
 26097	Michigan	Mackinac	pcnt_mammography	69.2
-26099	Michigan	Macomb	pcnt_mammography	64.0
+26099	Michigan	Macomb	pcnt_mammography	64
 26101	Michigan	Manistee	pcnt_mammography	71.5
 26103	Michigan	Marquette	pcnt_mammography	72.7
 26105	Michigan	Mason	pcnt_mammography	74.8
@@ -1302,7 +1302,7 @@ FIPS	State	County	Variable	pcnt_mammography
 26143	Michigan	Roscommon	pcnt_mammography	71.2
 26145	Michigan	Saginaw	pcnt_mammography	69.5
 26147	Michigan	St. Clair	pcnt_mammography	64.1
-26149	Michigan	St. Joseph	pcnt_mammography	66.0
+26149	Michigan	St. Joseph	pcnt_mammography	66
 26151	Michigan	Sanilac	pcnt_mammography	64.5
 26153	Michigan	Schoolcraft	pcnt_mammography	75.9
 26155	Michigan	Shiawassee	pcnt_mammography	68.6
@@ -1330,10 +1330,10 @@ FIPS	State	County	Variable	pcnt_mammography
 27033	Minnesota	Cottonwood	pcnt_mammography	76.5
 27035	Minnesota	Crow Wing	pcnt_mammography	74.5
 27037	Minnesota	Dakota	pcnt_mammography	71.5
-27039	Minnesota	Dodge	pcnt_mammography	79.0
+27039	Minnesota	Dodge	pcnt_mammography	79
 27041	Minnesota	Douglas	pcnt_mammography	76.3
 27043	Minnesota	Faribault	pcnt_mammography	66.3
-27045	Minnesota	Fillmore	pcnt_mammography	87.0
+27045	Minnesota	Fillmore	pcnt_mammography	87
 27047	Minnesota	Freeborn	pcnt_mammography	67.4
 27049	Minnesota	Goodhue	pcnt_mammography	76.4
 27051	Minnesota	Grant	pcnt_mammography	75.5
@@ -1348,7 +1348,7 @@ FIPS	State	County	Variable	pcnt_mammography
 27069	Minnesota	Kittson	pcnt_mammography	65.5
 27071	Minnesota	Koochiching	pcnt_mammography	69.3
 27073	Minnesota	Lac qui Parle	pcnt_mammography	91.8
-27075	Minnesota	Lake	pcnt_mammography	67.0
+27075	Minnesota	Lake	pcnt_mammography	67
 27077	Minnesota	Lake of the Woods	pcnt_mammography	53.1
 27079	Minnesota	Le Sueur	pcnt_mammography	67.9
 27081	Minnesota	Lincoln	pcnt_mammography	68.6
@@ -1362,7 +1362,7 @@ FIPS	State	County	Variable	pcnt_mammography
 27097	Minnesota	Morrison	pcnt_mammography	69.3
 27099	Minnesota	Mower	pcnt_mammography	74.8
 27101	Minnesota	Murray	pcnt_mammography	79.3
-27103	Minnesota	Nicollet	pcnt_mammography	74.0
+27103	Minnesota	Nicollet	pcnt_mammography	74
 27105	Minnesota	Nobles	pcnt_mammography	77.2
 27107	Minnesota	Norman	pcnt_mammography	72.1
 27109	Minnesota	Olmsted	pcnt_mammography	86.1
@@ -1379,7 +1379,7 @@ FIPS	State	County	Variable	pcnt_mammography
 27131	Minnesota	Rice	pcnt_mammography	80.8
 27133	Minnesota	Rock	pcnt_mammography	72.3
 27135	Minnesota	Roseau	pcnt_mammography	64.7
-27137	Minnesota	St. Louis	pcnt_mammography	70.0
+27137	Minnesota	St. Louis	pcnt_mammography	70
 27139	Minnesota	Scott	pcnt_mammography	69.9
 27141	Minnesota	Sherburne	pcnt_mammography	71.1
 27143	Minnesota	Sibley	pcnt_mammography	63.9
@@ -1394,7 +1394,7 @@ FIPS	State	County	Variable	pcnt_mammography
 27161	Minnesota	Waseca	pcnt_mammography	66.2
 27163	Minnesota	Washington	pcnt_mammography	70.7
 27165	Minnesota	Watonwan	pcnt_mammography	72.6
-27167	Minnesota	Wilkin	pcnt_mammography	66.0
+27167	Minnesota	Wilkin	pcnt_mammography	66
 27169	Minnesota	Winona	pcnt_mammography	75.1
 27171	Minnesota	Wright	pcnt_mammography	72.5
 27173	Minnesota	Yellow Medicine	pcnt_mammography	78.3
@@ -1423,7 +1423,7 @@ FIPS	State	County	Variable	pcnt_mammography
 28045	Mississippi	Hancock	pcnt_mammography	65.5
 28047	Mississippi	Harrison	pcnt_mammography	61.2
 28049	Mississippi	Hinds	pcnt_mammography	63.6
-28051	Mississippi	Holmes	pcnt_mammography	50.0
+28051	Mississippi	Holmes	pcnt_mammography	50
 28053	Mississippi	Humphreys	pcnt_mammography	47.5
 28055	Mississippi	Issaquena	pcnt_mammography	76.5
 28057	Mississippi	Itawamba	pcnt_mammography	56.5
@@ -1454,7 +1454,7 @@ FIPS	State	County	Variable	pcnt_mammography
 28107	Mississippi	Panola	pcnt_mammography	52.3
 28109	Mississippi	Pearl River	pcnt_mammography	56.1
 28111	Mississippi	Perry	pcnt_mammography	44.9
-28113	Mississippi	Pike	pcnt_mammography	57.0
+28113	Mississippi	Pike	pcnt_mammography	57
 28115	Mississippi	Pontotoc	pcnt_mammography	54.2
 28117	Mississippi	Prentiss	pcnt_mammography	54.5
 28119	Mississippi	Quitman	pcnt_mammography	49.1
@@ -1469,7 +1469,7 @@ FIPS	State	County	Variable	pcnt_mammography
 28137	Mississippi	Tate	pcnt_mammography	58.5
 28139	Mississippi	Tippah	pcnt_mammography	52.4
 28141	Mississippi	Tishomingo	pcnt_mammography	54.8
-28143	Mississippi	Tunica	pcnt_mammography	44.0
+28143	Mississippi	Tunica	pcnt_mammography	44
 28145	Mississippi	Union	pcnt_mammography	61.7
 28147	Mississippi	Walthall	pcnt_mammography	53.7
 28149	Mississippi	Warren	pcnt_mammography	64.9
@@ -1486,7 +1486,7 @@ FIPS	State	County	Variable	pcnt_mammography
 29007	Missouri	Audrain	pcnt_mammography	67.9
 29009	Missouri	Barry	pcnt_mammography	63.6
 29011	Missouri	Barton	pcnt_mammography	55.4
-29013	Missouri	Bates	pcnt_mammography	50.0
+29013	Missouri	Bates	pcnt_mammography	50
 29015	Missouri	Benton	pcnt_mammography	57.7
 29017	Missouri	Bollinger	pcnt_mammography	57.9
 29019	Missouri	Boone	pcnt_mammography	73.8
@@ -1505,12 +1505,12 @@ FIPS	State	County	Variable	pcnt_mammography
 29045	Missouri	Clark	pcnt_mammography	53.5
 29047	Missouri	Clay	pcnt_mammography	67.2
 29049	Missouri	Clinton	pcnt_mammography	58.9
-29051	Missouri	Cole	pcnt_mammography	71.0
+29051	Missouri	Cole	pcnt_mammography	71
 29053	Missouri	Cooper	pcnt_mammography	56.4
 29055	Missouri	Crawford	pcnt_mammography	63.6
 29057	Missouri	Dade	pcnt_mammography	61.3
 29059	Missouri	Dallas	pcnt_mammography	55.4
-29061	Missouri	Daviess	pcnt_mammography	51.0
+29061	Missouri	Daviess	pcnt_mammography	51
 29063	Missouri	DeKalb	pcnt_mammography	53.6
 29065	Missouri	Dent	pcnt_mammography	55.7
 29067	Missouri	Douglas	pcnt_mammography	63.5
@@ -1518,7 +1518,7 @@ FIPS	State	County	Variable	pcnt_mammography
 29071	Missouri	Franklin	pcnt_mammography	73.8
 29073	Missouri	Gasconade	pcnt_mammography	63.3
 29075	Missouri	Gentry	pcnt_mammography	48.8
-29077	Missouri	Greene	pcnt_mammography	67.0
+29077	Missouri	Greene	pcnt_mammography	67
 29079	Missouri	Grundy	pcnt_mammography	55.8
 29081	Missouri	Harrison	pcnt_mammography	58.6
 29083	Missouri	Henry	pcnt_mammography	48.8
@@ -1526,7 +1526,7 @@ FIPS	State	County	Variable	pcnt_mammography
 29087	Missouri	Holt	pcnt_mammography	63.6
 29089	Missouri	Howard	pcnt_mammography	59.3
 29091	Missouri	Howell	pcnt_mammography	54.5
-29093	Missouri	Iron	pcnt_mammography	45.0
+29093	Missouri	Iron	pcnt_mammography	45
 29095	Missouri	Jackson	pcnt_mammography	64.9
 29097	Missouri	Jasper	pcnt_mammography	66.8
 29099	Missouri	Jefferson	pcnt_mammography	66.4
@@ -1578,13 +1578,13 @@ FIPS	State	County	Variable	pcnt_mammography
 29189	Missouri	St. Louis	pcnt_mammography	71.2
 29195	Missouri	Saline	pcnt_mammography	68.2
 29197	Missouri	Schuyler	pcnt_mammography	57.4
-29199	Missouri	Scotland	pcnt_mammography	58.0
+29199	Missouri	Scotland	pcnt_mammography	58
 29201	Missouri	Scott	pcnt_mammography	59.3
 29203	Missouri	Shannon	pcnt_mammography	49.5
 29205	Missouri	Shelby	pcnt_mammography	55.6
 29207	Missouri	Stoddard	pcnt_mammography	61.3
-29209	Missouri	Stone	pcnt_mammography	68.0
-29211	Missouri	Sullivan	pcnt_mammography	61.0
+29209	Missouri	Stone	pcnt_mammography	68
+29211	Missouri	Sullivan	pcnt_mammography	61
 29213	Missouri	Taney	pcnt_mammography	62.9
 29215	Missouri	Texas	pcnt_mammography	55.7
 29217	Missouri	Vernon	pcnt_mammography	60.9
@@ -1597,7 +1597,7 @@ FIPS	State	County	Variable	pcnt_mammography
 29510	Missouri	St. Louis City	pcnt_mammography	59.3
 30001	Montana	Beaverhead	pcnt_mammography	64.8
 30003	Montana	Big Horn	pcnt_mammography	47.1
-30005	Montana	Blaine	pcnt_mammography	66.0
+30005	Montana	Blaine	pcnt_mammography	66
 30007	Montana	Broadwater	pcnt_mammography	76.3
 30009	Montana	Carbon	pcnt_mammography	62.2
 30011	Montana	Carter	pcnt_mammography	
@@ -1619,13 +1619,13 @@ FIPS	State	County	Variable	pcnt_mammography
 30043	Montana	Jefferson	pcnt_mammography	57.9
 30045	Montana	Judith Basin	pcnt_mammography	92.6
 30047	Montana	Lake	pcnt_mammography	67.4
-30049	Montana	Lewis and Clark	pcnt_mammography	70.0
-30051	Montana	Liberty	pcnt_mammography	75.0
+30049	Montana	Lewis and Clark	pcnt_mammography	70
+30051	Montana	Liberty	pcnt_mammography	75
 30053	Montana	Lincoln	pcnt_mammography	63.3
 30055	Montana	McCone	pcnt_mammography	63.6
 30057	Montana	Madison	pcnt_mammography	74.4
 30059	Montana	Meagher	pcnt_mammography	
-30061	Montana	Mineral	pcnt_mammography	50.0
+30061	Montana	Mineral	pcnt_mammography	50
 30063	Montana	Missoula	pcnt_mammography	71.8
 30065	Montana	Musselshell	pcnt_mammography	61.9
 30067	Montana	Park	pcnt_mammography	53.4
@@ -1662,14 +1662,14 @@ FIPS	State	County	Variable	pcnt_mammography
 31017	Nebraska	Brown	pcnt_mammography	65.2
 31019	Nebraska	Buffalo	pcnt_mammography	67.5
 31021	Nebraska	Burt	pcnt_mammography	71.3
-31023	Nebraska	Butler	pcnt_mammography	52.0
+31023	Nebraska	Butler	pcnt_mammography	52
 31025	Nebraska	Cass	pcnt_mammography	57.6
 31027	Nebraska	Cedar	pcnt_mammography	62.3
-31029	Nebraska	Chase	pcnt_mammography	55.0
+31029	Nebraska	Chase	pcnt_mammography	55
 31031	Nebraska	Cherry	pcnt_mammography	61.8
 31033	Nebraska	Cheyenne	pcnt_mammography	58.8
 31035	Nebraska	Clay	pcnt_mammography	61.4
-31037	Nebraska	Colfax	pcnt_mammography	72.0
+31037	Nebraska	Colfax	pcnt_mammography	72
 31039	Nebraska	Cuming	pcnt_mammography	69.9
 31041	Nebraska	Custer	pcnt_mammography	58.1
 31043	Nebraska	Dakota	pcnt_mammography	53.1
@@ -1687,9 +1687,9 @@ FIPS	State	County	Variable	pcnt_mammography
 31067	Nebraska	Gage	pcnt_mammography	76.7
 31069	Nebraska	Garden	pcnt_mammography	62.1
 31071	Nebraska	Garfield	pcnt_mammography	55.6
-31073	Nebraska	Gosper	pcnt_mammography	84.0
+31073	Nebraska	Gosper	pcnt_mammography	84
 31075	Nebraska	Grant	pcnt_mammography	
-31077	Nebraska	Greeley	pcnt_mammography	61.0
+31077	Nebraska	Greeley	pcnt_mammography	61
 31079	Nebraska	Hall	pcnt_mammography	66.8
 31081	Nebraska	Hamilton	pcnt_mammography	54.3
 31083	Nebraska	Harlan	pcnt_mammography	60.8
@@ -1718,7 +1718,7 @@ FIPS	State	County	Variable	pcnt_mammography
 31129	Nebraska	Nuckolls	pcnt_mammography	80.3
 31131	Nebraska	Otoe	pcnt_mammography	66.9
 31133	Nebraska	Pawnee	pcnt_mammography	62.2
-31135	Nebraska	Perkins	pcnt_mammography	80.0
+31135	Nebraska	Perkins	pcnt_mammography	80
 31137	Nebraska	Phelps	pcnt_mammography	73.4
 31139	Nebraska	Pierce	pcnt_mammography	68.5
 31141	Nebraska	Platte	pcnt_mammography	64.9
@@ -1730,15 +1730,15 @@ FIPS	State	County	Variable	pcnt_mammography
 31153	Nebraska	Sarpy	pcnt_mammography	62.1
 31155	Nebraska	Saunders	pcnt_mammography	59.5
 31157	Nebraska	Scotts Bluff	pcnt_mammography	58.8
-31159	Nebraska	Seward	pcnt_mammography	61.0
-31161	Nebraska	Sheridan	pcnt_mammography	50.0
+31159	Nebraska	Seward	pcnt_mammography	61
+31161	Nebraska	Sheridan	pcnt_mammography	50
 31163	Nebraska	Sherman	pcnt_mammography	67.6
 31165	Nebraska	Sioux	pcnt_mammography	
 31167	Nebraska	Stanton	pcnt_mammography	44.8
 31169	Nebraska	Thayer	pcnt_mammography	65.1
 31171	Nebraska	Thomas	pcnt_mammography	
 31173	Nebraska	Thurston	pcnt_mammography	34.7
-31175	Nebraska	Valley	pcnt_mammography	54.0
+31175	Nebraska	Valley	pcnt_mammography	54
 31177	Nebraska	Washington	pcnt_mammography	67.9
 31179	Nebraska	Wayne	pcnt_mammography	76.1
 31181	Nebraska	Webster	pcnt_mammography	63.5
@@ -1750,14 +1750,14 @@ FIPS	State	County	Variable	pcnt_mammography
 32007	Nevada	Elko	pcnt_mammography	42.9
 32009	Nevada	Esmeralda	pcnt_mammography	
 32011	Nevada	Eureka	pcnt_mammography	
-32013	Nevada	Humboldt	pcnt_mammography	51.0
-32015	Nevada	Lander	pcnt_mammography	30.0
+32013	Nevada	Humboldt	pcnt_mammography	51
+32015	Nevada	Lander	pcnt_mammography	30
 32017	Nevada	Lincoln	pcnt_mammography	37.8
 32019	Nevada	Lyon	pcnt_mammography	57.5
-32021	Nevada	Mineral	pcnt_mammography	62.0
+32021	Nevada	Mineral	pcnt_mammography	62
 32023	Nevada	Nye	pcnt_mammography	53.3
 32027	Nevada	Pershing	pcnt_mammography	54.7
-32029	Nevada	Storey	pcnt_mammography	60.0
+32029	Nevada	Storey	pcnt_mammography	60
 32031	Nevada	Washoe	pcnt_mammography	64.3
 32033	Nevada	White Pine	pcnt_mammography	45.2
 32510	Nevada	Carson City	pcnt_mammography	61.7
@@ -1777,19 +1777,19 @@ FIPS	State	County	Variable	pcnt_mammography
 34007	New Jersey	Camden	pcnt_mammography	58.4
 34009	New Jersey	Cape May	pcnt_mammography	67.1
 34011	New Jersey	Cumberland	pcnt_mammography	63.7
-34013	New Jersey	Essex	pcnt_mammography	60.0
+34013	New Jersey	Essex	pcnt_mammography	60
 34015	New Jersey	Gloucester	pcnt_mammography	62.8
 34017	New Jersey	Hudson	pcnt_mammography	53.5
 34019	New Jersey	Hunterdon	pcnt_mammography	67.4
 34021	New Jersey	Mercer	pcnt_mammography	68.4
-34023	New Jersey	Middlesex	pcnt_mammography	60.0
+34023	New Jersey	Middlesex	pcnt_mammography	60
 34025	New Jersey	Monmouth	pcnt_mammography	63.8
 34027	New Jersey	Morris	pcnt_mammography	66.2
 34029	New Jersey	Ocean	pcnt_mammography	65.9
 34031	New Jersey	Passaic	pcnt_mammography	59.4
 34033	New Jersey	Salem	pcnt_mammography	65.2
 34035	New Jersey	Somerset	pcnt_mammography	68.1
-34037	New Jersey	Sussex	pcnt_mammography	57.0
+34037	New Jersey	Sussex	pcnt_mammography	57
 34039	New Jersey	Union	pcnt_mammography	60.7
 34041	New Jersey	Warren	pcnt_mammography	60.6
 35001	New Mexico	Bernalillo	pcnt_mammography	62.7
@@ -1798,9 +1798,9 @@ FIPS	State	County	Variable	pcnt_mammography
 35006	New Mexico	Cibola	pcnt_mammography	48.3
 35007	New Mexico	Colfax	pcnt_mammography	46.8
 35009	New Mexico	Curry	pcnt_mammography	60.3
-35011	New Mexico	De Baca	pcnt_mammography	63.0
+35011	New Mexico	De Baca	pcnt_mammography	63
 35013	New Mexico	Dona Ana	pcnt_mammography	60.6
-35015	New Mexico	Eddy	pcnt_mammography	58.0
+35015	New Mexico	Eddy	pcnt_mammography	58
 35017	New Mexico	Grant	pcnt_mammography	61.5
 35019	New Mexico	Guadalupe	pcnt_mammography	52.3
 35021	New Mexico	Harding	pcnt_mammography	
@@ -1810,16 +1810,16 @@ FIPS	State	County	Variable	pcnt_mammography
 35028	New Mexico	Los Alamos	pcnt_mammography	76.6
 35029	New Mexico	Luna	pcnt_mammography	47.5
 35031	New Mexico	McKinley	pcnt_mammography	42.7
-35033	New Mexico	Mora	pcnt_mammography	40.0
+35033	New Mexico	Mora	pcnt_mammography	40
 35035	New Mexico	Otero	pcnt_mammography	61.8
 35037	New Mexico	Quay	pcnt_mammography	51.6
 35039	New Mexico	Rio Arriba	pcnt_mammography	59.7
 35041	New Mexico	Roosevelt	pcnt_mammography	44.4
-35043	New Mexico	Sandoval	pcnt_mammography	63.0
+35043	New Mexico	Sandoval	pcnt_mammography	63
 35045	New Mexico	San Juan	pcnt_mammography	56.1
 35047	New Mexico	San Miguel	pcnt_mammography	48.4
 35049	New Mexico	Santa Fe	pcnt_mammography	66.7
-35051	New Mexico	Sierra	pcnt_mammography	45.0
+35051	New Mexico	Sierra	pcnt_mammography	45
 35053	New Mexico	Socorro	pcnt_mammography	46.9
 35055	New Mexico	Taos	pcnt_mammography	60.3
 35057	New Mexico	Torrance	pcnt_mammography	55.4
@@ -1835,7 +1835,7 @@ FIPS	State	County	Variable	pcnt_mammography
 36015	New York	Chemung	pcnt_mammography	74.5
 36017	New York	Chenango	pcnt_mammography	66.4
 36019	New York	Clinton	pcnt_mammography	73.1
-36021	New York	Columbia	pcnt_mammography	70.0
+36021	New York	Columbia	pcnt_mammography	70
 36023	New York	Cortland	pcnt_mammography	75.4
 36025	New York	Delaware	pcnt_mammography	66.9
 36027	New York	Dutchess	pcnt_mammography	71.6
@@ -1856,22 +1856,22 @@ FIPS	State	County	Variable	pcnt_mammography
 36057	New York	Montgomery	pcnt_mammography	67.3
 36059	New York	Nassau	pcnt_mammography	66.8
 36061	New York	New York	pcnt_mammography	64.6
-36063	New York	Niagara	pcnt_mammography	69.0
+36063	New York	Niagara	pcnt_mammography	69
 36065	New York	Oneida	pcnt_mammography	75.2
 36067	New York	Onondaga	pcnt_mammography	75.5
 36069	New York	Ontario	pcnt_mammography	70.6
 36071	New York	Orange	pcnt_mammography	65.6
 36073	New York	Orleans	pcnt_mammography	55.6
 36075	New York	Oswego	pcnt_mammography	66.7
-36077	New York	Otsego	pcnt_mammography	73.0
-36079	New York	Putnam	pcnt_mammography	67.0
+36077	New York	Otsego	pcnt_mammography	73
+36079	New York	Putnam	pcnt_mammography	67
 36081	New York	Queens	pcnt_mammography	57.3
 36083	New York	Rensselaer	pcnt_mammography	68.9
 36085	New York	Richmond	pcnt_mammography	62.6
 36087	New York	Rockland	pcnt_mammography	67.9
 36089	New York	St. Lawrence	pcnt_mammography	74.7
 36091	New York	Saratoga	pcnt_mammography	70.2
-36093	New York	Schenectady	pcnt_mammography	71.0
+36093	New York	Schenectady	pcnt_mammography	71
 36095	New York	Schoharie	pcnt_mammography	69.5
 36097	New York	Schuyler	pcnt_mammography	69.2
 36099	New York	Seneca	pcnt_mammography	72.7
@@ -1898,7 +1898,7 @@ FIPS	State	County	Variable	pcnt_mammography
 37017	North Carolina	Bladen	pcnt_mammography	64.3
 37019	North Carolina	Brunswick	pcnt_mammography	77.1
 37021	North Carolina	Buncombe	pcnt_mammography	72.6
-37023	North Carolina	Burke	pcnt_mammography	67.0
+37023	North Carolina	Burke	pcnt_mammography	67
 37025	North Carolina	Cabarrus	pcnt_mammography	70.6
 37027	North Carolina	Caldwell	pcnt_mammography	70.9
 37029	North Carolina	Camden	pcnt_mammography	70.5
@@ -1912,7 +1912,7 @@ FIPS	State	County	Variable	pcnt_mammography
 37045	North Carolina	Cleveland	pcnt_mammography	65.4
 37047	North Carolina	Columbus	pcnt_mammography	68.7
 37049	North Carolina	Craven	pcnt_mammography	80.5
-37051	North Carolina	Cumberland	pcnt_mammography	59.0
+37051	North Carolina	Cumberland	pcnt_mammography	59
 37053	North Carolina	Currituck	pcnt_mammography	69.5
 37055	North Carolina	Dare	pcnt_mammography	67.8
 37057	North Carolina	Davidson	pcnt_mammography	63.3
@@ -1920,16 +1920,16 @@ FIPS	State	County	Variable	pcnt_mammography
 37061	North Carolina	Duplin	pcnt_mammography	65.2
 37063	North Carolina	Durham	pcnt_mammography	70.6
 37065	North Carolina	Edgecombe	pcnt_mammography	74.1
-37067	North Carolina	Forsyth	pcnt_mammography	68.0
+37067	North Carolina	Forsyth	pcnt_mammography	68
 37069	North Carolina	Franklin	pcnt_mammography	71.3
-37071	North Carolina	Gaston	pcnt_mammography	63.0
+37071	North Carolina	Gaston	pcnt_mammography	63
 37073	North Carolina	Gates	pcnt_mammography	68.9
 37075	North Carolina	Graham	pcnt_mammography	59.6
 37077	North Carolina	Granville	pcnt_mammography	70.3
 37079	North Carolina	Greene	pcnt_mammography	66.5
 37081	North Carolina	Guilford	pcnt_mammography	71.7
 37083	North Carolina	Halifax	pcnt_mammography	66.8
-37085	North Carolina	Harnett	pcnt_mammography	64.0
+37085	North Carolina	Harnett	pcnt_mammography	64
 37087	North Carolina	Haywood	pcnt_mammography	69.1
 37089	North Carolina	Henderson	pcnt_mammography	70.3
 37091	North Carolina	Hertford	pcnt_mammography	72.3
@@ -1942,7 +1942,7 @@ FIPS	State	County	Variable	pcnt_mammography
 37105	North Carolina	Lee	pcnt_mammography	69.5
 37107	North Carolina	Lenoir	pcnt_mammography	64.7
 37109	North Carolina	Lincoln	pcnt_mammography	67.6
-37111	North Carolina	McDowell	pcnt_mammography	60.0
+37111	North Carolina	McDowell	pcnt_mammography	60
 37113	North Carolina	Macon	pcnt_mammography	71.7
 37115	North Carolina	Madison	pcnt_mammography	66.8
 37117	North Carolina	Martin	pcnt_mammography	69.8
@@ -1951,16 +1951,16 @@ FIPS	State	County	Variable	pcnt_mammography
 37123	North Carolina	Montgomery	pcnt_mammography	69.6
 37125	North Carolina	Moore	pcnt_mammography	77.4
 37127	North Carolina	Nash	pcnt_mammography	72.9
-37129	North Carolina	New Hanover	pcnt_mammography	77.0
+37129	North Carolina	New Hanover	pcnt_mammography	77
 37131	North Carolina	Northampton	pcnt_mammography	72.7
 37133	North Carolina	Onslow	pcnt_mammography	63.1
 37135	North Carolina	Orange	pcnt_mammography	76.9
 37137	North Carolina	Pamlico	pcnt_mammography	77.5
 37139	North Carolina	Pasquotank	pcnt_mammography	74.9
-37141	North Carolina	Pender	pcnt_mammography	66.0
+37141	North Carolina	Pender	pcnt_mammography	66
 37143	North Carolina	Perquimans	pcnt_mammography	77.2
 37145	North Carolina	Person	pcnt_mammography	67.3
-37147	North Carolina	Pitt	pcnt_mammography	70.0
+37147	North Carolina	Pitt	pcnt_mammography	70
 37149	North Carolina	Polk	pcnt_mammography	67.2
 37151	North Carolina	Randolph	pcnt_mammography	65.1
 37153	North Carolina	Richmond	pcnt_mammography	67.9
@@ -1985,13 +1985,13 @@ FIPS	State	County	Variable	pcnt_mammography
 37191	North Carolina	Wayne	pcnt_mammography	71.1
 37193	North Carolina	Wilkes	pcnt_mammography	72.5
 37195	North Carolina	Wilson	pcnt_mammography	69.6
-37197	North Carolina	Yadkin	pcnt_mammography	65.0
+37197	North Carolina	Yadkin	pcnt_mammography	65
 37199	North Carolina	Yancey	pcnt_mammography	63.7
 38001	North Dakota	Adams	pcnt_mammography	76.7
 38003	North Dakota	Barnes	pcnt_mammography	74.1
 38005	North Dakota	Benson	pcnt_mammography	70.8
 38007	North Dakota	Billings	pcnt_mammography	83.3
-38009	North Dakota	Bottineau	pcnt_mammography	59.0
+38009	North Dakota	Bottineau	pcnt_mammography	59
 38011	North Dakota	Bowman	pcnt_mammography	69.4
 38013	North Dakota	Burke	pcnt_mammography	71.2
 38015	North Dakota	Burleigh	pcnt_mammography	72.4
@@ -2009,7 +2009,7 @@ FIPS	State	County	Variable	pcnt_mammography
 38039	North Dakota	Griggs	pcnt_mammography	74.3
 38041	North Dakota	Hettinger	pcnt_mammography	67.6
 38043	North Dakota	Kidder	pcnt_mammography	67.7
-38045	North Dakota	LaMoure	pcnt_mammography	85.0
+38045	North Dakota	LaMoure	pcnt_mammography	85
 38047	North Dakota	Logan	pcnt_mammography	61.5
 38049	North Dakota	McHenry	pcnt_mammography	70.3
 38051	North Dakota	McIntosh	pcnt_mammography	65.2
@@ -2018,7 +2018,7 @@ FIPS	State	County	Variable	pcnt_mammography
 38057	North Dakota	Mercer	pcnt_mammography	73.1
 38059	North Dakota	Morton	pcnt_mammography	70.9
 38061	North Dakota	Mountrail	pcnt_mammography	57.4
-38063	North Dakota	Nelson	pcnt_mammography	69.0
+38063	North Dakota	Nelson	pcnt_mammography	69
 38065	North Dakota	Oliver	pcnt_mammography	
 38067	North Dakota	Pembina	pcnt_mammography	50.7
 38069	North Dakota	Pierce	pcnt_mammography	64.3
@@ -2032,23 +2032,23 @@ FIPS	State	County	Variable	pcnt_mammography
 38085	North Dakota	Sioux	pcnt_mammography	
 38087	North Dakota	Slope	pcnt_mammography	
 38089	North Dakota	Stark	pcnt_mammography	74.2
-38091	North Dakota	Steele	pcnt_mammography	85.0
-38093	North Dakota	Stutsman	pcnt_mammography	72.0
+38091	North Dakota	Steele	pcnt_mammography	85
+38093	North Dakota	Stutsman	pcnt_mammography	72
 38095	North Dakota	Towner	pcnt_mammography	81.5
-38097	North Dakota	Traill	pcnt_mammography	66.0
+38097	North Dakota	Traill	pcnt_mammography	66
 38099	North Dakota	Walsh	pcnt_mammography	62.3
 38101	North Dakota	Ward	pcnt_mammography	78.6
 38103	North Dakota	Wells	pcnt_mammography	62.1
 38105	North Dakota	Williams	pcnt_mammography	63.1
 39001	Ohio	Adams	pcnt_mammography	52.6
 39003	Ohio	Allen	pcnt_mammography	59.3
-39005	Ohio	Ashland	pcnt_mammography	63.0
+39005	Ohio	Ashland	pcnt_mammography	63
 39007	Ohio	Ashtabula	pcnt_mammography	62.8
 39009	Ohio	Athens	pcnt_mammography	59.4
 39011	Ohio	Auglaize	pcnt_mammography	57.6
 39013	Ohio	Belmont	pcnt_mammography	60.1
-39015	Ohio	Brown	pcnt_mammography	57.0
-39017	Ohio	Butler	pcnt_mammography	59.0
+39015	Ohio	Brown	pcnt_mammography	57
+39017	Ohio	Butler	pcnt_mammography	59
 39019	Ohio	Carroll	pcnt_mammography	64.2
 39021	Ohio	Champaign	pcnt_mammography	62.1
 39023	Ohio	Clark	pcnt_mammography	60.8
@@ -2056,10 +2056,10 @@ FIPS	State	County	Variable	pcnt_mammography
 39027	Ohio	Clinton	pcnt_mammography	53.7
 39029	Ohio	Columbiana	pcnt_mammography	64.1
 39031	Ohio	Coshocton	pcnt_mammography	61.7
-39033	Ohio	Crawford	pcnt_mammography	60.0
+39033	Ohio	Crawford	pcnt_mammography	60
 39035	Ohio	Cuyahoga	pcnt_mammography	66.9
 39037	Ohio	Darke	pcnt_mammography	60.8
-39039	Ohio	Defiance	pcnt_mammography	65.0
+39039	Ohio	Defiance	pcnt_mammography	65
 39041	Ohio	Delaware	pcnt_mammography	66.1
 39043	Ohio	Erie	pcnt_mammography	65.3
 39045	Ohio	Fairfield	pcnt_mammography	66.2
@@ -2069,10 +2069,10 @@ FIPS	State	County	Variable	pcnt_mammography
 39053	Ohio	Gallia	pcnt_mammography	74.3
 39055	Ohio	Geauga	pcnt_mammography	66.4
 39057	Ohio	Greene	pcnt_mammography	56.2
-39059	Ohio	Guernsey	pcnt_mammography	68.0
+39059	Ohio	Guernsey	pcnt_mammography	68
 39061	Ohio	Hamilton	pcnt_mammography	65.9
 39063	Ohio	Hancock	pcnt_mammography	61.8
-39065	Ohio	Hardin	pcnt_mammography	60.0
+39065	Ohio	Hardin	pcnt_mammography	60
 39067	Ohio	Harrison	pcnt_mammography	54.4
 39069	Ohio	Henry	pcnt_mammography	64.6
 39071	Ohio	Highland	pcnt_mammography	55.3
@@ -2095,7 +2095,7 @@ FIPS	State	County	Variable	pcnt_mammography
 39105	Ohio	Meigs	pcnt_mammography	63.3
 39107	Ohio	Mercer	pcnt_mammography	61.6
 39109	Ohio	Miami	pcnt_mammography	63.6
-39111	Ohio	Monroe	pcnt_mammography	66.0
+39111	Ohio	Monroe	pcnt_mammography	66
 39113	Ohio	Montgomery	pcnt_mammography	61.6
 39115	Ohio	Morgan	pcnt_mammography	61.3
 39117	Ohio	Morrow	pcnt_mammography	62.1
@@ -2106,7 +2106,7 @@ FIPS	State	County	Variable	pcnt_mammography
 39127	Ohio	Perry	pcnt_mammography	61.2
 39129	Ohio	Pickaway	pcnt_mammography	64.2
 39131	Ohio	Pike	pcnt_mammography	62.6
-39133	Ohio	Portage	pcnt_mammography	63.0
+39133	Ohio	Portage	pcnt_mammography	63
 39135	Ohio	Preble	pcnt_mammography	54.4
 39137	Ohio	Putnam	pcnt_mammography	63.9
 39139	Ohio	Richland	pcnt_mammography	63.1
@@ -2116,11 +2116,11 @@ FIPS	State	County	Variable	pcnt_mammography
 39147	Ohio	Seneca	pcnt_mammography	59.2
 39149	Ohio	Shelby	pcnt_mammography	61.1
 39151	Ohio	Stark	pcnt_mammography	65.6
-39153	Ohio	Summit	pcnt_mammography	63.0
+39153	Ohio	Summit	pcnt_mammography	63
 39155	Ohio	Trumbull	pcnt_mammography	63.8
-39157	Ohio	Tuscarawas	pcnt_mammography	59.0
+39157	Ohio	Tuscarawas	pcnt_mammography	59
 39159	Ohio	Union	pcnt_mammography	60.9
-39161	Ohio	Van Wert	pcnt_mammography	70.0
+39161	Ohio	Van Wert	pcnt_mammography	70
 39163	Ohio	Vinton	pcnt_mammography	51.8
 39165	Ohio	Warren	pcnt_mammography	67.6
 39167	Ohio	Washington	pcnt_mammography	65.9
@@ -2136,7 +2136,7 @@ FIPS	State	County	Variable	pcnt_mammography
 40011	Oklahoma	Blaine	pcnt_mammography	49.6
 40013	Oklahoma	Bryan	pcnt_mammography	52.7
 40015	Oklahoma	Caddo	pcnt_mammography	52.7
-40017	Oklahoma	Canadian	pcnt_mammography	61.0
+40017	Oklahoma	Canadian	pcnt_mammography	61
 40019	Oklahoma	Carter	pcnt_mammography	51.7
 40021	Oklahoma	Cherokee	pcnt_mammography	53.3
 40023	Oklahoma	Choctaw	pcnt_mammography	47.5
@@ -2144,7 +2144,7 @@ FIPS	State	County	Variable	pcnt_mammography
 40027	Oklahoma	Cleveland	pcnt_mammography	62.9
 40029	Oklahoma	Coal	pcnt_mammography	43.6
 40031	Oklahoma	Comanche	pcnt_mammography	60.1
-40033	Oklahoma	Cotton	pcnt_mammography	54.0
+40033	Oklahoma	Cotton	pcnt_mammography	54
 40035	Oklahoma	Craig	pcnt_mammography	57.9
 40037	Oklahoma	Creek	pcnt_mammography	48.7
 40039	Oklahoma	Custer	pcnt_mammography	54.5
@@ -2159,8 +2159,8 @@ FIPS	State	County	Variable	pcnt_mammography
 40057	Oklahoma	Harmon	pcnt_mammography	
 40059	Oklahoma	Harper	pcnt_mammography	64.9
 40061	Oklahoma	Haskell	pcnt_mammography	49.2
-40063	Oklahoma	Hughes	pcnt_mammography	59.0
-40065	Oklahoma	Jackson	pcnt_mammography	63.0
+40063	Oklahoma	Hughes	pcnt_mammography	59
+40065	Oklahoma	Jackson	pcnt_mammography	63
 40067	Oklahoma	Jefferson	pcnt_mammography	42.2
 40069	Oklahoma	Johnston	pcnt_mammography	47.9
 40071	Oklahoma	Kay	pcnt_mammography	55.7
@@ -2186,12 +2186,12 @@ FIPS	State	County	Variable	pcnt_mammography
 40111	Oklahoma	Okmulgee	pcnt_mammography	48.9
 40113	Oklahoma	Osage	pcnt_mammography	50.8
 40115	Oklahoma	Ottawa	pcnt_mammography	56.4
-40117	Oklahoma	Pawnee	pcnt_mammography	51.0
+40117	Oklahoma	Pawnee	pcnt_mammography	51
 40119	Oklahoma	Payne	pcnt_mammography	59.7
 40121	Oklahoma	Pittsburg	pcnt_mammography	59.5
 40123	Oklahoma	Pontotoc	pcnt_mammography	54.5
 40125	Oklahoma	Pottawatomie	pcnt_mammography	61.8
-40127	Oklahoma	Pushmataha	pcnt_mammography	46.0
+40127	Oklahoma	Pushmataha	pcnt_mammography	46
 40129	Oklahoma	Roger Mills	pcnt_mammography	43.9
 40131	Oklahoma	Rogers	pcnt_mammography	59.5
 40133	Oklahoma	Seminole	pcnt_mammography	60.2
@@ -2202,15 +2202,15 @@ FIPS	State	County	Variable	pcnt_mammography
 40143	Oklahoma	Tulsa	pcnt_mammography	59.8
 40145	Oklahoma	Wagoner	pcnt_mammography	60.5
 40147	Oklahoma	Washington	pcnt_mammography	66.6
-40149	Oklahoma	Washita	pcnt_mammography	50.0
+40149	Oklahoma	Washita	pcnt_mammography	50
 40151	Oklahoma	Woods	pcnt_mammography	51.6
 40153	Oklahoma	Woodward	pcnt_mammography	68.5
 41001	Oregon	Baker	pcnt_mammography	63.3
 41003	Oregon	Benton	pcnt_mammography	73.4
 41005	Oregon	Clackamas	pcnt_mammography	66.3
-41007	Oregon	Clatsop	pcnt_mammography	64.0
+41007	Oregon	Clatsop	pcnt_mammography	64
 41009	Oregon	Columbia	pcnt_mammography	66.7
-41011	Oregon	Coos	pcnt_mammography	70.0
+41011	Oregon	Coos	pcnt_mammography	70
 41013	Oregon	Crook	pcnt_mammography	59.7
 41015	Oregon	Curry	pcnt_mammography	62.1
 41017	Oregon	Deschutes	pcnt_mammography	70.3
@@ -2242,9 +2242,9 @@ FIPS	State	County	Variable	pcnt_mammography
 41069	Oregon	Wheeler	pcnt_mammography	54.5
 41071	Oregon	Yamhill	pcnt_mammography	62.7
 42001	Pennsylvania	Adams	pcnt_mammography	70.3
-42003	Pennsylvania	Allegheny	pcnt_mammography	58.0
-42005	Pennsylvania	Armstrong	pcnt_mammography	63.0
-42007	Pennsylvania	Beaver	pcnt_mammography	57.0
+42003	Pennsylvania	Allegheny	pcnt_mammography	58
+42005	Pennsylvania	Armstrong	pcnt_mammography	63
+42007	Pennsylvania	Beaver	pcnt_mammography	57
 42009	Pennsylvania	Bedford	pcnt_mammography	66.7
 42011	Pennsylvania	Berks	pcnt_mammography	68.5
 42013	Pennsylvania	Blair	pcnt_mammography	59.5
@@ -2261,9 +2261,9 @@ FIPS	State	County	Variable	pcnt_mammography
 42035	Pennsylvania	Clinton	pcnt_mammography	69.9
 42037	Pennsylvania	Columbia	pcnt_mammography	67.1
 42039	Pennsylvania	Crawford	pcnt_mammography	71.3
-42041	Pennsylvania	Cumberland	pcnt_mammography	72.0
+42041	Pennsylvania	Cumberland	pcnt_mammography	72
 42043	Pennsylvania	Dauphin	pcnt_mammography	64.1
-42045	Pennsylvania	Delaware	pcnt_mammography	67.0
+42045	Pennsylvania	Delaware	pcnt_mammography	67
 42047	Pennsylvania	Elk	pcnt_mammography	71.1
 42049	Pennsylvania	Erie	pcnt_mammography	65.7
 42051	Pennsylvania	Fayette	pcnt_mammography	59.1
@@ -2283,14 +2283,14 @@ FIPS	State	County	Variable	pcnt_mammography
 42079	Pennsylvania	Luzerne	pcnt_mammography	64.1
 42081	Pennsylvania	Lycoming	pcnt_mammography	80.7
 42083	Pennsylvania	McKean	pcnt_mammography	67.3
-42085	Pennsylvania	Mercer	pcnt_mammography	67.0
+42085	Pennsylvania	Mercer	pcnt_mammography	67
 42087	Pennsylvania	Mifflin	pcnt_mammography	76.3
 42089	Pennsylvania	Monroe	pcnt_mammography	65.4
 42091	Pennsylvania	Montgomery	pcnt_mammography	70.4
 42093	Pennsylvania	Montour	pcnt_mammography	72.6
 42095	Pennsylvania	Northampton	pcnt_mammography	66.1
 42097	Pennsylvania	Northumberland	pcnt_mammography	74.8
-42099	Pennsylvania	Perry	pcnt_mammography	65.0
+42099	Pennsylvania	Perry	pcnt_mammography	65
 42101	Pennsylvania	Philadelphia	pcnt_mammography	60.7
 42103	Pennsylvania	Pike	pcnt_mammography	64.9
 42105	Pennsylvania	Potter	pcnt_mammography	70.2
@@ -2299,7 +2299,7 @@ FIPS	State	County	Variable	pcnt_mammography
 42111	Pennsylvania	Somerset	pcnt_mammography	60.9
 42113	Pennsylvania	Sullivan	pcnt_mammography	65.1
 42115	Pennsylvania	Susquehanna	pcnt_mammography	66.8
-42117	Pennsylvania	Tioga	pcnt_mammography	72.0
+42117	Pennsylvania	Tioga	pcnt_mammography	72
 42119	Pennsylvania	Union	pcnt_mammography	75.4
 42121	Pennsylvania	Venango	pcnt_mammography	72.8
 42123	Pennsylvania	Warren	pcnt_mammography	63.4
@@ -2307,8 +2307,8 @@ FIPS	State	County	Variable	pcnt_mammography
 42127	Pennsylvania	Wayne	pcnt_mammography	72.6
 42129	Pennsylvania	Westmoreland	pcnt_mammography	55.9
 42131	Pennsylvania	Wyoming	pcnt_mammography	75.7
-42133	Pennsylvania	York	pcnt_mammography	72.0
-44001	Rhode Island	Bristol	pcnt_mammography	74.0
+42133	Pennsylvania	York	pcnt_mammography	72
+44001	Rhode Island	Bristol	pcnt_mammography	74
 44003	Rhode Island	Kent	pcnt_mammography	73.6
 44005	Rhode Island	Newport	pcnt_mammography	73.2
 44007	Rhode Island	Providence	pcnt_mammography	69.6
@@ -2317,7 +2317,7 @@ FIPS	State	County	Variable	pcnt_mammography
 45003	South Carolina	Aiken	pcnt_mammography	70.4
 45005	South Carolina	Allendale	pcnt_mammography	70.3
 45007	South Carolina	Anderson	pcnt_mammography	72.9
-45009	South Carolina	Bamberg	pcnt_mammography	63.0
+45009	South Carolina	Bamberg	pcnt_mammography	63
 45011	South Carolina	Barnwell	pcnt_mammography	69.5
 45013	South Carolina	Beaufort	pcnt_mammography	76.9
 45015	South Carolina	Berkeley	pcnt_mammography	71.6
@@ -2331,20 +2331,20 @@ FIPS	State	County	Variable	pcnt_mammography
 45031	South Carolina	Darlington	pcnt_mammography	64.4
 45033	South Carolina	Dillon	pcnt_mammography	62.9
 45035	South Carolina	Dorchester	pcnt_mammography	72.3
-45037	South Carolina	Edgefield	pcnt_mammography	72.0
+45037	South Carolina	Edgefield	pcnt_mammography	72
 45039	South Carolina	Fairfield	pcnt_mammography	65.9
 45041	South Carolina	Florence	pcnt_mammography	65.4
-45043	South Carolina	Georgetown	pcnt_mammography	72.0
+45043	South Carolina	Georgetown	pcnt_mammography	72
 45045	South Carolina	Greenville	pcnt_mammography	67.7
 45047	South Carolina	Greenwood	pcnt_mammography	75.9
-45049	South Carolina	Hampton	pcnt_mammography	72.0
+45049	South Carolina	Hampton	pcnt_mammography	72
 45051	South Carolina	Horry	pcnt_mammography	69.3
 45053	South Carolina	Jasper	pcnt_mammography	62.4
 45055	South Carolina	Kershaw	pcnt_mammography	65.7
 45057	South Carolina	Lancaster	pcnt_mammography	64.4
 45059	South Carolina	Laurens	pcnt_mammography	61.7
 45061	South Carolina	Lee	pcnt_mammography	70.2
-45063	South Carolina	Lexington	pcnt_mammography	69.0
+45063	South Carolina	Lexington	pcnt_mammography	69
 45065	South Carolina	McCormick	pcnt_mammography	77.8
 45067	South Carolina	Marion	pcnt_mammography	61.1
 45069	South Carolina	Marlboro	pcnt_mammography	55.8
@@ -2355,7 +2355,7 @@ FIPS	State	County	Variable	pcnt_mammography
 45079	South Carolina	Richland	pcnt_mammography	71.2
 45081	South Carolina	Saluda	pcnt_mammography	59.2
 45083	South Carolina	Spartanburg	pcnt_mammography	68.4
-45085	South Carolina	Sumter	pcnt_mammography	68.0
+45085	South Carolina	Sumter	pcnt_mammography	68
 45087	South Carolina	Union	pcnt_mammography	63.7
 45089	South Carolina	Williamsburg	pcnt_mammography	65.3
 45091	South Carolina	York	pcnt_mammography	63.6
@@ -2370,7 +2370,7 @@ FIPS	State	County	Variable	pcnt_mammography
 46019	South Dakota	Butte	pcnt_mammography	67.5
 46021	South Dakota	Campbell	pcnt_mammography	72.7
 46023	South Dakota	Charles Mix	pcnt_mammography	61.7
-46025	South Dakota	Clark	pcnt_mammography	83.0
+46025	South Dakota	Clark	pcnt_mammography	83
 46027	South Dakota	Clay	pcnt_mammography	66.2
 46029	South Dakota	Codington	pcnt_mammography	81.6
 46031	South Dakota	Corson	pcnt_mammography	46.9
@@ -2394,7 +2394,7 @@ FIPS	State	County	Variable	pcnt_mammography
 46067	South Dakota	Hutchinson	pcnt_mammography	62.6
 46069	South Dakota	Hyde	pcnt_mammography	
 46071	South Dakota	Jackson	pcnt_mammography	
-46073	South Dakota	Jerauld	pcnt_mammography	80.0
+46073	South Dakota	Jerauld	pcnt_mammography	80
 46075	South Dakota	Jones	pcnt_mammography	
 46077	South Dakota	Kingsbury	pcnt_mammography	65.8
 46079	South Dakota	Lake	pcnt_mammography	71.1
@@ -2403,15 +2403,15 @@ FIPS	State	County	Variable	pcnt_mammography
 46085	South Dakota	Lyman	pcnt_mammography	69.2
 46087	South Dakota	McCook	pcnt_mammography	70.7
 46089	South Dakota	McPherson	pcnt_mammography	74.5
-46091	South Dakota	Marshall	pcnt_mammography	63.0
+46091	South Dakota	Marshall	pcnt_mammography	63
 46093	South Dakota	Meade	pcnt_mammography	63.4
 46095	South Dakota	Mellette	pcnt_mammography	
-46097	South Dakota	Miner	pcnt_mammography	69.0
+46097	South Dakota	Miner	pcnt_mammography	69
 46099	South Dakota	Minnehaha	pcnt_mammography	73.6
 46101	South Dakota	Moody	pcnt_mammography	79.1
 46103	South Dakota	Pennington	pcnt_mammography	70.8
 46105	South Dakota	Perkins	pcnt_mammography	56.8
-46107	South Dakota	Potter	pcnt_mammography	70.0
+46107	South Dakota	Potter	pcnt_mammography	70
 46109	South Dakota	Roberts	pcnt_mammography	53.8
 46111	South Dakota	Sanborn	pcnt_mammography	74.1
 46113	South Dakota	Shannon	pcnt_mammography	36.8
@@ -2423,7 +2423,7 @@ FIPS	State	County	Variable	pcnt_mammography
 46125	South Dakota	Turner	pcnt_mammography	63.8
 46127	South Dakota	Union	pcnt_mammography	70.1
 46129	South Dakota	Walworth	pcnt_mammography	60.9
-46135	South Dakota	Yankton	pcnt_mammography	74.0
+46135	South Dakota	Yankton	pcnt_mammography	74
 46137	South Dakota	Ziebach	pcnt_mammography	
 47001	Tennessee	Anderson	pcnt_mammography	62.6
 47003	Tennessee	Bedford	pcnt_mammography	67.2
@@ -2432,7 +2432,7 @@ FIPS	State	County	Variable	pcnt_mammography
 47009	Tennessee	Blount	pcnt_mammography	69.2
 47011	Tennessee	Bradley	pcnt_mammography	64.5
 47013	Tennessee	Campbell	pcnt_mammography	60.9
-47015	Tennessee	Cannon	pcnt_mammography	55.0
+47015	Tennessee	Cannon	pcnt_mammography	55
 47017	Tennessee	Carroll	pcnt_mammography	59.3
 47019	Tennessee	Carter	pcnt_mammography	67.1
 47021	Tennessee	Cheatham	pcnt_mammography	61.1
@@ -2459,11 +2459,11 @@ FIPS	State	County	Variable	pcnt_mammography
 47063	Tennessee	Hamblen	pcnt_mammography	62.2
 47065	Tennessee	Hamilton	pcnt_mammography	68.4
 47067	Tennessee	Hancock	pcnt_mammography	36.2
-47069	Tennessee	Hardeman	pcnt_mammography	62.0
+47069	Tennessee	Hardeman	pcnt_mammography	62
 47071	Tennessee	Hardin	pcnt_mammography	55.9
 47073	Tennessee	Hawkins	pcnt_mammography	61.6
 47075	Tennessee	Haywood	pcnt_mammography	64.2
-47077	Tennessee	Henderson	pcnt_mammography	57.0
+47077	Tennessee	Henderson	pcnt_mammography	57
 47079	Tennessee	Henry	pcnt_mammography	55.9
 47081	Tennessee	Hickman	pcnt_mammography	62.4
 47083	Tennessee	Houston	pcnt_mammography	44.9
@@ -2484,15 +2484,15 @@ FIPS	State	County	Variable	pcnt_mammography
 47113	Tennessee	Madison	pcnt_mammography	64.5
 47115	Tennessee	Marion	pcnt_mammography	53.2
 47117	Tennessee	Marshall	pcnt_mammography	66.3
-47119	Tennessee	Maury	pcnt_mammography	68.0
-47121	Tennessee	Meigs	pcnt_mammography	67.0
+47119	Tennessee	Maury	pcnt_mammography	68
+47121	Tennessee	Meigs	pcnt_mammography	67
 47123	Tennessee	Monroe	pcnt_mammography	63.6
 47125	Tennessee	Montgomery	pcnt_mammography	49.5
 47127	Tennessee	Moore	pcnt_mammography	57.1
 47129	Tennessee	Morgan	pcnt_mammography	49.6
-47131	Tennessee	Obion	pcnt_mammography	60.0
+47131	Tennessee	Obion	pcnt_mammography	60
 47133	Tennessee	Overton	pcnt_mammography	49.5
-47135	Tennessee	Perry	pcnt_mammography	58.0
+47135	Tennessee	Perry	pcnt_mammography	58
 47137	Tennessee	Pickett	pcnt_mammography	58.6
 47139	Tennessee	Polk	pcnt_mammography	62.2
 47141	Tennessee	Putnam	pcnt_mammography	70.3
@@ -2501,8 +2501,8 @@ FIPS	State	County	Variable	pcnt_mammography
 47147	Tennessee	Robertson	pcnt_mammography	62.5
 47149	Tennessee	Rutherford	pcnt_mammography	70.4
 47151	Tennessee	Scott	pcnt_mammography	53.8
-47153	Tennessee	Sequatchie	pcnt_mammography	54.0
-47155	Tennessee	Sevier	pcnt_mammography	61.0
+47153	Tennessee	Sequatchie	pcnt_mammography	54
+47155	Tennessee	Sevier	pcnt_mammography	61
 47157	Tennessee	Shelby	pcnt_mammography	62.2
 47159	Tennessee	Smith	pcnt_mammography	57.4
 47161	Tennessee	Stewart	pcnt_mammography	49.2
@@ -2514,7 +2514,7 @@ FIPS	State	County	Variable	pcnt_mammography
 47173	Tennessee	Union	pcnt_mammography	53.5
 47175	Tennessee	Van Buren	pcnt_mammography	61.9
 47177	Tennessee	Warren	pcnt_mammography	62.9
-47179	Tennessee	Washington	pcnt_mammography	70.0
+47179	Tennessee	Washington	pcnt_mammography	70
 47181	Tennessee	Wayne	pcnt_mammography	54.9
 47183	Tennessee	Weakley	pcnt_mammography	61.5
 47185	Tennessee	White	pcnt_mammography	61.5
@@ -2527,7 +2527,7 @@ FIPS	State	County	Variable	pcnt_mammography
 48009	Texas	Archer	pcnt_mammography	67.5
 48011	Texas	Armstrong	pcnt_mammography	58.3
 48013	Texas	Atascosa	pcnt_mammography	55.7
-48015	Texas	Austin	pcnt_mammography	65.0
+48015	Texas	Austin	pcnt_mammography	65
 48017	Texas	Bailey	pcnt_mammography	58.5
 48019	Texas	Bandera	pcnt_mammography	59.7
 48021	Texas	Bastrop	pcnt_mammography	59.5
@@ -2535,20 +2535,20 @@ FIPS	State	County	Variable	pcnt_mammography
 48025	Texas	Bee	pcnt_mammography	60.6
 48027	Texas	Bell	pcnt_mammography	65.3
 48029	Texas	Bexar	pcnt_mammography	61.8
-48031	Texas	Blanco	pcnt_mammography	51.0
+48031	Texas	Blanco	pcnt_mammography	51
 48033	Texas	Borden	pcnt_mammography	
 48035	Texas	Bosque	pcnt_mammography	69.7
 48037	Texas	Bowie	pcnt_mammography	61.6
 48039	Texas	Brazoria	pcnt_mammography	57.6
-48041	Texas	Brazos	pcnt_mammography	64.0
-48043	Texas	Brewster	pcnt_mammography	50.0
+48041	Texas	Brazos	pcnt_mammography	64
+48043	Texas	Brewster	pcnt_mammography	50
 48045	Texas	Briscoe	pcnt_mammography	69.2
 48047	Texas	Brooks	pcnt_mammography	54.4
-48049	Texas	Brown	pcnt_mammography	59.0
+48049	Texas	Brown	pcnt_mammography	59
 48051	Texas	Burleson	pcnt_mammography	57.2
 48053	Texas	Burnet	pcnt_mammography	66.3
 48055	Texas	Caldwell	pcnt_mammography	60.2
-48057	Texas	Calhoun	pcnt_mammography	56.0
+48057	Texas	Calhoun	pcnt_mammography	56
 48059	Texas	Callahan	pcnt_mammography	62.8
 48061	Texas	Cameron	pcnt_mammography	54.9
 48063	Texas	Camp	pcnt_mammography	66.9
@@ -2556,17 +2556,17 @@ FIPS	State	County	Variable	pcnt_mammography
 48067	Texas	Cass	pcnt_mammography	53.5
 48069	Texas	Castro	pcnt_mammography	42.6
 48071	Texas	Chambers	pcnt_mammography	56.2
-48073	Texas	Cherokee	pcnt_mammography	69.0
+48073	Texas	Cherokee	pcnt_mammography	69
 48075	Texas	Childress	pcnt_mammography	52.5
 48077	Texas	Clay	pcnt_mammography	55.4
 48079	Texas	Cochran	pcnt_mammography	51.9
-48081	Texas	Coke	pcnt_mammography	58.0
-48083	Texas	Coleman	pcnt_mammography	54.0
-48085	Texas	Collin	pcnt_mammography	69.0
+48081	Texas	Coke	pcnt_mammography	58
+48083	Texas	Coleman	pcnt_mammography	54
+48085	Texas	Collin	pcnt_mammography	69
 48087	Texas	Collingsworth	pcnt_mammography	53.8
 48089	Texas	Colorado	pcnt_mammography	54.2
 48091	Texas	Comal	pcnt_mammography	62.5
-48093	Texas	Comanche	pcnt_mammography	57.0
+48093	Texas	Comanche	pcnt_mammography	57
 48095	Texas	Concho	pcnt_mammography	71.8
 48097	Texas	Cooke	pcnt_mammography	59.1
 48099	Texas	Coryell	pcnt_mammography	59.9
@@ -2582,13 +2582,13 @@ FIPS	State	County	Variable	pcnt_mammography
 48119	Texas	Delta	pcnt_mammography	58.4
 48121	Texas	Denton	pcnt_mammography	66.1
 48123	Texas	DeWitt	pcnt_mammography	57.7
-48125	Texas	Dickens	pcnt_mammography	50.0
+48125	Texas	Dickens	pcnt_mammography	50
 48127	Texas	Dimmit	pcnt_mammography	38.1
 48129	Texas	Donley	pcnt_mammography	49.2
 48131	Texas	Duval	pcnt_mammography	45.5
 48133	Texas	Eastland	pcnt_mammography	49.6
 48135	Texas	Ector	pcnt_mammography	51.3
-48137	Texas	Edwards	pcnt_mammography	50.0
+48137	Texas	Edwards	pcnt_mammography	50
 48139	Texas	Ellis	pcnt_mammography	62.8
 48141	Texas	El Paso	pcnt_mammography	53.6
 48143	Texas	Erath	pcnt_mammography	55.6
@@ -2599,15 +2599,15 @@ FIPS	State	County	Variable	pcnt_mammography
 48153	Texas	Floyd	pcnt_mammography	61.3
 48155	Texas	Foard	pcnt_mammography	
 48157	Texas	Fort Bend	pcnt_mammography	62.8
-48159	Texas	Franklin	pcnt_mammography	57.0
-48161	Texas	Freestone	pcnt_mammography	55.0
+48159	Texas	Franklin	pcnt_mammography	57
+48161	Texas	Freestone	pcnt_mammography	55
 48163	Texas	Frio	pcnt_mammography	51.3
 48165	Texas	Gaines	pcnt_mammography	47.3
 48167	Texas	Galveston	pcnt_mammography	60.2
 48169	Texas	Garza	pcnt_mammography	52.9
 48171	Texas	Gillespie	pcnt_mammography	72.6
 48173	Texas	Glasscock	pcnt_mammography	
-48175	Texas	Goliad	pcnt_mammography	60.0
+48175	Texas	Goliad	pcnt_mammography	60
 48177	Texas	Gonzales	pcnt_mammography	57.8
 48179	Texas	Gray	pcnt_mammography	46.9
 48181	Texas	Grayson	pcnt_mammography	58.6
@@ -2618,8 +2618,8 @@ FIPS	State	County	Variable	pcnt_mammography
 48191	Texas	Hall	pcnt_mammography	54.2
 48193	Texas	Hamilton	pcnt_mammography	51.2
 48195	Texas	Hansford	pcnt_mammography	46.9
-48197	Texas	Hardeman	pcnt_mammography	50.0
-48199	Texas	Hardin	pcnt_mammography	65.0
+48197	Texas	Hardeman	pcnt_mammography	50
+48199	Texas	Hardin	pcnt_mammography	65
 48201	Texas	Harris	pcnt_mammography	59.2
 48203	Texas	Harrison	pcnt_mammography	58.3
 48205	Texas	Hartley	pcnt_mammography	48.3
@@ -2633,7 +2633,7 @@ FIPS	State	County	Variable	pcnt_mammography
 48221	Texas	Hood	pcnt_mammography	67.7
 48223	Texas	Hopkins	pcnt_mammography	55.7
 48225	Texas	Houston	pcnt_mammography	55.7
-48227	Texas	Howard	pcnt_mammography	45.0
+48227	Texas	Howard	pcnt_mammography	45
 48229	Texas	Hudspeth	pcnt_mammography	
 48231	Texas	Hunt	pcnt_mammography	61.9
 48233	Texas	Hutchinson	pcnt_mammography	51.6
@@ -2643,7 +2643,7 @@ FIPS	State	County	Variable	pcnt_mammography
 48241	Texas	Jasper	pcnt_mammography	57.8
 48243	Texas	Jeff Davis	pcnt_mammography	61.9
 48245	Texas	Jefferson	pcnt_mammography	66.1
-48247	Texas	Jim Hogg	pcnt_mammography	45.0
+48247	Texas	Jim Hogg	pcnt_mammography	45
 48249	Texas	Jim Wells	pcnt_mammography	49.1
 48251	Texas	Johnson	pcnt_mammography	58.8
 48253	Texas	Jones	pcnt_mammography	51.6
@@ -2676,7 +2676,7 @@ FIPS	State	County	Variable	pcnt_mammography
 48307	Texas	McCulloch	pcnt_mammography	45.5
 48309	Texas	McLennan	pcnt_mammography	61.3
 48311	Texas	McMullen	pcnt_mammography	
-48313	Texas	Madison	pcnt_mammography	57.0
+48313	Texas	Madison	pcnt_mammography	57
 48315	Texas	Marion	pcnt_mammography	57.9
 48317	Texas	Martin	pcnt_mammography	43.1
 48319	Texas	Mason	pcnt_mammography	52.6
@@ -2696,11 +2696,11 @@ FIPS	State	County	Variable	pcnt_mammography
 48347	Texas	Nacogdoches	pcnt_mammography	59.6
 48349	Texas	Navarro	pcnt_mammography	51.6
 48351	Texas	Newton	pcnt_mammography	49.6
-48353	Texas	Nolan	pcnt_mammography	58.0
+48353	Texas	Nolan	pcnt_mammography	58
 48355	Texas	Nueces	pcnt_mammography	66.7
 48357	Texas	Ochiltree	pcnt_mammography	45.7
 48359	Texas	Oldham	pcnt_mammography	
-48361	Texas	Orange	pcnt_mammography	61.0
+48361	Texas	Orange	pcnt_mammography	61
 48363	Texas	Palo Pinto	pcnt_mammography	58.1
 48365	Texas	Panola	pcnt_mammography	55.3
 48367	Texas	Parker	pcnt_mammography	61.1
@@ -2710,20 +2710,20 @@ FIPS	State	County	Variable	pcnt_mammography
 48375	Texas	Potter	pcnt_mammography	58.4
 48377	Texas	Presidio	pcnt_mammography	57.9
 48379	Texas	Rains	pcnt_mammography	61.9
-48381	Texas	Randall	pcnt_mammography	65.0
+48381	Texas	Randall	pcnt_mammography	65
 48383	Texas	Reagan	pcnt_mammography	
-48385	Texas	Real	pcnt_mammography	50.0
+48385	Texas	Real	pcnt_mammography	50
 48387	Texas	Red River	pcnt_mammography	52.2
 48389	Texas	Reeves	pcnt_mammography	41.2
 48391	Texas	Refugio	pcnt_mammography	54.6
 48393	Texas	Roberts	pcnt_mammography	
 48395	Texas	Robertson	pcnt_mammography	61.5
 48397	Texas	Rockwall	pcnt_mammography	65.9
-48399	Texas	Runnels	pcnt_mammography	58.0
+48399	Texas	Runnels	pcnt_mammography	58
 48401	Texas	Rusk	pcnt_mammography	64.9
 48403	Texas	Sabine	pcnt_mammography	56.5
-48405	Texas	San Augustine	pcnt_mammography	63.0
-48407	Texas	San Jacinto	pcnt_mammography	50.0
+48405	Texas	San Augustine	pcnt_mammography	63
+48407	Texas	San Jacinto	pcnt_mammography	50
 48409	Texas	San Patricio	pcnt_mammography	64.3
 48411	Texas	San Saba	pcnt_mammography	55.1
 48413	Texas	Schleicher	pcnt_mammography	61.5
@@ -2736,14 +2736,14 @@ FIPS	State	County	Variable	pcnt_mammography
 48427	Texas	Starr	pcnt_mammography	43.3
 48429	Texas	Stephens	pcnt_mammography	50.5
 48431	Texas	Sterling	pcnt_mammography	
-48433	Texas	Stonewall	pcnt_mammography	75.0
+48433	Texas	Stonewall	pcnt_mammography	75
 48435	Texas	Sutton	pcnt_mammography	67.6
 48437	Texas	Swisher	pcnt_mammography	50.5
 48439	Texas	Tarrant	pcnt_mammography	63.9
 48441	Texas	Taylor	pcnt_mammography	65.7
 48443	Texas	Terrell	pcnt_mammography	
 48445	Texas	Terry	pcnt_mammography	49.2
-48447	Texas	Throckmorton	pcnt_mammography	50.0
+48447	Texas	Throckmorton	pcnt_mammography	50
 48449	Texas	Titus	pcnt_mammography	63.1
 48451	Texas	Tom Green	pcnt_mammography	64.7
 48453	Texas	Travis	pcnt_mammography	67.9
@@ -2768,9 +2768,9 @@ FIPS	State	County	Variable	pcnt_mammography
 48491	Texas	Williamson	pcnt_mammography	69.5
 48493	Texas	Wilson	pcnt_mammography	60.7
 48495	Texas	Winkler	pcnt_mammography	43.5
-48497	Texas	Wise	pcnt_mammography	50.0
+48497	Texas	Wise	pcnt_mammography	50
 48499	Texas	Wood	pcnt_mammography	67.3
-48501	Texas	Yoakum	pcnt_mammography	50.0
+48501	Texas	Yoakum	pcnt_mammography	50
 48503	Texas	Young	pcnt_mammography	52.8
 48505	Texas	Zapata	pcnt_mammography	41.1
 48507	Texas	Zavala	pcnt_mammography	33.3
@@ -2791,12 +2791,12 @@ FIPS	State	County	Variable	pcnt_mammography
 49029	Utah	Morgan	pcnt_mammography	68.9
 49031	Utah	Piute	pcnt_mammography	
 49033	Utah	Rich	pcnt_mammography	
-49035	Utah	Salt Lake	pcnt_mammography	60.0
+49035	Utah	Salt Lake	pcnt_mammography	60
 49037	Utah	San Juan	pcnt_mammography	40.6
 49039	Utah	Sanpete	pcnt_mammography	44.6
 49041	Utah	Sevier	pcnt_mammography	55.6
 49043	Utah	Summit	pcnt_mammography	67.5
-49045	Utah	Tooele	pcnt_mammography	54.0
+49045	Utah	Tooele	pcnt_mammography	54
 49047	Utah	Uintah	pcnt_mammography	57.2
 49049	Utah	Utah	pcnt_mammography	57.7
 49051	Utah	Wasatch	pcnt_mammography	60.4
@@ -2804,13 +2804,13 @@ FIPS	State	County	Variable	pcnt_mammography
 49055	Utah	Wayne	pcnt_mammography	59.4
 49057	Utah	Weber	pcnt_mammography	66.6
 50001	Vermont	Addison	pcnt_mammography	74.2
-50003	Vermont	Bennington	pcnt_mammography	68.0
+50003	Vermont	Bennington	pcnt_mammography	68
 50005	Vermont	Caledonia	pcnt_mammography	73.9
-50007	Vermont	Chittenden	pcnt_mammography	72.0
+50007	Vermont	Chittenden	pcnt_mammography	72
 50009	Vermont	Essex	pcnt_mammography	69.9
 50011	Vermont	Franklin	pcnt_mammography	72.2
 50013	Vermont	Grand Isle	pcnt_mammography	72.3
-50015	Vermont	Lamoille	pcnt_mammography	74.0
+50015	Vermont	Lamoille	pcnt_mammography	74
 50017	Vermont	Orange	pcnt_mammography	72.5
 50019	Vermont	Orleans	pcnt_mammography	73.1
 50021	Vermont	Rutland	pcnt_mammography	70.1
@@ -2820,20 +2820,20 @@ FIPS	State	County	Variable	pcnt_mammography
 51001	Virginia	Accomack	pcnt_mammography	58.7
 51003	Virginia	Albemarle	pcnt_mammography	77.3
 51005	Virginia	Alleghany	pcnt_mammography	71.2
-51007	Virginia	Amelia	pcnt_mammography	59.0
-51009	Virginia	Amherst	pcnt_mammography	59.0
+51007	Virginia	Amelia	pcnt_mammography	59
+51009	Virginia	Amherst	pcnt_mammography	59
 51011	Virginia	Appomattox	pcnt_mammography	64.7
 51013	Virginia	Arlington	pcnt_mammography	67.5
 51015	Virginia	Augusta	pcnt_mammography	70.5
 51017	Virginia	Bath	pcnt_mammography	66.7
 51019	Virginia	Bedford	pcnt_mammography	73.1
-51021	Virginia	Bland	pcnt_mammography	69.0
-51023	Virginia	Botetourt	pcnt_mammography	67.0
+51021	Virginia	Bland	pcnt_mammography	69
+51023	Virginia	Botetourt	pcnt_mammography	67
 51025	Virginia	Brunswick	pcnt_mammography	66.3
-51027	Virginia	Buchanan	pcnt_mammography	50.0
+51027	Virginia	Buchanan	pcnt_mammography	50
 51029	Virginia	Buckingham	pcnt_mammography	62.8
 51031	Virginia	Campbell	pcnt_mammography	62.4
-51033	Virginia	Caroline	pcnt_mammography	55.0
+51033	Virginia	Caroline	pcnt_mammography	55
 51035	Virginia	Carroll	pcnt_mammography	68.1
 51036	Virginia	Charles City	pcnt_mammography	76.9
 51037	Virginia	Charlotte	pcnt_mammography	65.3
@@ -2849,39 +2849,39 @@ FIPS	State	County	Variable	pcnt_mammography
 51061	Virginia	Fauquier	pcnt_mammography	61.7
 51063	Virginia	Floyd	pcnt_mammography	68.3
 51065	Virginia	Fluvanna	pcnt_mammography	75.8
-51067	Virginia	Franklin	pcnt_mammography	64.0
+51067	Virginia	Franklin	pcnt_mammography	64
 51069	Virginia	Frederick	pcnt_mammography	59.8
 51071	Virginia	Giles	pcnt_mammography	77.2
 51073	Virginia	Gloucester	pcnt_mammography	69.2
 51075	Virginia	Goochland	pcnt_mammography	65.9
-51077	Virginia	Grayson	pcnt_mammography	67.0
+51077	Virginia	Grayson	pcnt_mammography	67
 51079	Virginia	Greene	pcnt_mammography	68.2
 51081	Virginia	Greensville	pcnt_mammography	54.5
 51083	Virginia	Halifax	pcnt_mammography	60.8
-51085	Virginia	Hanover	pcnt_mammography	70.0
+51085	Virginia	Hanover	pcnt_mammography	70
 51087	Virginia	Henrico	pcnt_mammography	67.1
 51089	Virginia	Henry	pcnt_mammography	65.3
-51091	Virginia	Highland	pcnt_mammography	60.0
+51091	Virginia	Highland	pcnt_mammography	60
 51093	Virginia	Isle of Wight	pcnt_mammography	74.2
 51095	Virginia	James City	pcnt_mammography	79.3
 51097	Virginia	King and Queen	pcnt_mammography	62.9
 51099	Virginia	King George	pcnt_mammography	57.5
-51101	Virginia	King William	pcnt_mammography	63.0
+51101	Virginia	King William	pcnt_mammography	63
 51103	Virginia	Lancaster	pcnt_mammography	72.1
 51105	Virginia	Lee	pcnt_mammography	59.2
 51107	Virginia	Loudoun	pcnt_mammography	65.5
-51109	Virginia	Louisa	pcnt_mammography	68.0
+51109	Virginia	Louisa	pcnt_mammography	68
 51111	Virginia	Lunenburg	pcnt_mammography	64.7
-51113	Virginia	Madison	pcnt_mammography	70.0
+51113	Virginia	Madison	pcnt_mammography	70
 51115	Virginia	Mathews	pcnt_mammography	72.9
 51117	Virginia	Mecklenburg	pcnt_mammography	69.8
 51119	Virginia	Middlesex	pcnt_mammography	74.1
 51121	Virginia	Montgomery	pcnt_mammography	73.7
 51125	Virginia	Nelson	pcnt_mammography	71.3
 51127	Virginia	New Kent	pcnt_mammography	67.2
-51131	Virginia	Northampton	pcnt_mammography	69.0
+51131	Virginia	Northampton	pcnt_mammography	69
 51133	Virginia	Northumberland	pcnt_mammography	71.5
-51135	Virginia	Nottoway	pcnt_mammography	70.0
+51135	Virginia	Nottoway	pcnt_mammography	70
 51137	Virginia	Orange	pcnt_mammography	72.3
 51139	Virginia	Page	pcnt_mammography	54.5
 51141	Virginia	Patrick	pcnt_mammography	53.9
@@ -2889,12 +2889,12 @@ FIPS	State	County	Variable	pcnt_mammography
 51145	Virginia	Powhatan	pcnt_mammography	67.4
 51147	Virginia	Prince Edward	pcnt_mammography	60.7
 51149	Virginia	Prince George	pcnt_mammography	59.9
-51153	Virginia	Prince William	pcnt_mammography	58.0
+51153	Virginia	Prince William	pcnt_mammography	58
 51155	Virginia	Pulaski	pcnt_mammography	67.6
 51157	Virginia	Rappahannock	pcnt_mammography	65.9
 51159	Virginia	Richmond	pcnt_mammography	66.4
 51161	Virginia	Roanoke	pcnt_mammography	72.8
-51163	Virginia	Rockbridge	pcnt_mammography	68.0
+51163	Virginia	Rockbridge	pcnt_mammography	68
 51165	Virginia	Rockingham	pcnt_mammography	57.8
 51167	Virginia	Russell	pcnt_mammography	50.3
 51169	Virginia	Scott	pcnt_mammography	57.1
@@ -2904,7 +2904,7 @@ FIPS	State	County	Variable	pcnt_mammography
 51177	Virginia	Spotsylvania	pcnt_mammography	63.3
 51179	Virginia	Stafford	pcnt_mammography	63.1
 51181	Virginia	Surry	pcnt_mammography	62.7
-51183	Virginia	Sussex	pcnt_mammography	66.0
+51183	Virginia	Sussex	pcnt_mammography	66
 51185	Virginia	Tazewell	pcnt_mammography	59.5
 51187	Virginia	Warren	pcnt_mammography	63.6
 51191	Virginia	Washington	pcnt_mammography	65.7
@@ -2930,7 +2930,7 @@ FIPS	State	County	Variable	pcnt_mammography
 51650	Virginia	Hampton City	pcnt_mammography	68.2
 51660	Virginia	Harrisonburg City	pcnt_mammography	62.8
 51670	Virginia	Hopewell City	pcnt_mammography	53.9
-51678	Virginia	Lexington City	pcnt_mammography	68.0
+51678	Virginia	Lexington City	pcnt_mammography	68
 51680	Virginia	Lynchburg City	pcnt_mammography	59.5
 51683	Virginia	Manassas City	pcnt_mammography	
 51685	Virginia	Manassas Park City	pcnt_mammography	50.8
@@ -2968,24 +2968,24 @@ FIPS	State	County	Variable	pcnt_mammography
 53029	Washington	Island	pcnt_mammography	74.6
 53031	Washington	Jefferson	pcnt_mammography	68.9
 53033	Washington	King	pcnt_mammography	67.1
-53035	Washington	Kitsap	pcnt_mammography	68.0
-53037	Washington	Kittitas	pcnt_mammography	70.0
+53035	Washington	Kitsap	pcnt_mammography	68
+53037	Washington	Kittitas	pcnt_mammography	70
 53039	Washington	Klickitat	pcnt_mammography	72.5
 53041	Washington	Lewis	pcnt_mammography	62.9
-53043	Washington	Lincoln	pcnt_mammography	65.0
+53043	Washington	Lincoln	pcnt_mammography	65
 53045	Washington	Mason	pcnt_mammography	66.3
 53047	Washington	Okanogan	pcnt_mammography	62.7
 53049	Washington	Pacific	pcnt_mammography	64.6
 53051	Washington	Pend Oreille	pcnt_mammography	60.9
 53053	Washington	Pierce	pcnt_mammography	59.8
 53055	Washington	San Juan	pcnt_mammography	72.7
-53057	Washington	Skagit	pcnt_mammography	67.0
+53057	Washington	Skagit	pcnt_mammography	67
 53059	Washington	Skamania	pcnt_mammography	71.1
 53061	Washington	Snohomish	pcnt_mammography	64.2
 53063	Washington	Spokane	pcnt_mammography	71.6
 53065	Washington	Stevens	pcnt_mammography	58.7
 53067	Washington	Thurston	pcnt_mammography	58.4
-53069	Washington	Wahkiakum	pcnt_mammography	68.0
+53069	Washington	Wahkiakum	pcnt_mammography	68
 53071	Washington	Walla Walla	pcnt_mammography	71.8
 53073	Washington	Whatcom	pcnt_mammography	69.4
 53075	Washington	Whitman	pcnt_mammography	71.2
@@ -3004,16 +3004,16 @@ FIPS	State	County	Variable	pcnt_mammography
 54023	West Virginia	Grant	pcnt_mammography	65.6
 54025	West Virginia	Greenbrier	pcnt_mammography	67.4
 54027	West Virginia	Hampshire	pcnt_mammography	55.7
-54029	West Virginia	Hancock	pcnt_mammography	56.0
-54031	West Virginia	Hardy	pcnt_mammography	67.0
-54033	West Virginia	Harrison	pcnt_mammography	67.0
+54029	West Virginia	Hancock	pcnt_mammography	56
+54031	West Virginia	Hardy	pcnt_mammography	67
+54033	West Virginia	Harrison	pcnt_mammography	67
 54035	West Virginia	Jackson	pcnt_mammography	61.6
 54037	West Virginia	Jefferson	pcnt_mammography	60.5
 54039	West Virginia	Kanawha	pcnt_mammography	60.3
 54041	West Virginia	Lewis	pcnt_mammography	56.9
 54043	West Virginia	Lincoln	pcnt_mammography	59.2
 54045	West Virginia	Logan	pcnt_mammography	55.1
-54047	West Virginia	McDowell	pcnt_mammography	46.0
+54047	West Virginia	McDowell	pcnt_mammography	46
 54049	West Virginia	Marion	pcnt_mammography	59.7
 54051	West Virginia	Marshall	pcnt_mammography	61.1
 54053	West Virginia	Mason	pcnt_mammography	61.8
@@ -3021,7 +3021,7 @@ FIPS	State	County	Variable	pcnt_mammography
 54057	West Virginia	Mineral	pcnt_mammography	74.7
 54059	West Virginia	Mingo	pcnt_mammography	43.3
 54061	West Virginia	Monongalia	pcnt_mammography	66.2
-54063	West Virginia	Monroe	pcnt_mammography	75.0
+54063	West Virginia	Monroe	pcnt_mammography	75
 54065	West Virginia	Morgan	pcnt_mammography	64.8
 54067	West Virginia	Nicholas	pcnt_mammography	60.7
 54069	West Virginia	Ohio	pcnt_mammography	67.4
@@ -3032,7 +3032,7 @@ FIPS	State	County	Variable	pcnt_mammography
 54079	West Virginia	Putnam	pcnt_mammography	66.5
 54081	West Virginia	Raleigh	pcnt_mammography	59.5
 54083	West Virginia	Randolph	pcnt_mammography	64.6
-54085	West Virginia	Ritchie	pcnt_mammography	55.0
+54085	West Virginia	Ritchie	pcnt_mammography	55
 54087	West Virginia	Roane	pcnt_mammography	50.8
 54089	West Virginia	Summers	pcnt_mammography	48.5
 54091	West Virginia	Taylor	pcnt_mammography	64.4
@@ -3066,37 +3066,37 @@ FIPS	State	County	Variable	pcnt_mammography
 55037	Wisconsin	Florence	pcnt_mammography	85.4
 55039	Wisconsin	Fond du Lac	pcnt_mammography	73.2
 55041	Wisconsin	Forest	pcnt_mammography	68.4
-55043	Wisconsin	Grant	pcnt_mammography	68.0
+55043	Wisconsin	Grant	pcnt_mammography	68
 55045	Wisconsin	Green	pcnt_mammography	68.9
 55047	Wisconsin	Green Lake	pcnt_mammography	67.7
-55049	Wisconsin	Iowa	pcnt_mammography	64.0
+55049	Wisconsin	Iowa	pcnt_mammography	64
 55051	Wisconsin	Iron	pcnt_mammography	67.3
 55053	Wisconsin	Jackson	pcnt_mammography	63.8
 55055	Wisconsin	Jefferson	pcnt_mammography	69.5
 55057	Wisconsin	Juneau	pcnt_mammography	69.8
 55059	Wisconsin	Kenosha	pcnt_mammography	70.7
 55061	Wisconsin	Kewaunee	pcnt_mammography	76.6
-55063	Wisconsin	La Crosse	pcnt_mammography	78.0
-55065	Wisconsin	Lafayette	pcnt_mammography	66.0
+55063	Wisconsin	La Crosse	pcnt_mammography	78
+55065	Wisconsin	Lafayette	pcnt_mammography	66
 55067	Wisconsin	Langlade	pcnt_mammography	69.5
-55069	Wisconsin	Lincoln	pcnt_mammography	74.0
+55069	Wisconsin	Lincoln	pcnt_mammography	74
 55071	Wisconsin	Manitowoc	pcnt_mammography	78.6
 55073	Wisconsin	Marathon	pcnt_mammography	76.5
 55075	Wisconsin	Marinette	pcnt_mammography	74.4
 55077	Wisconsin	Marquette	pcnt_mammography	69.1
-55078	Wisconsin	Menominee	pcnt_mammography	50.0
+55078	Wisconsin	Menominee	pcnt_mammography	50
 55079	Wisconsin	Milwaukee	pcnt_mammography	68.5
 55081	Wisconsin	Monroe	pcnt_mammography	70.3
 55083	Wisconsin	Oconto	pcnt_mammography	70.6
 55085	Wisconsin	Oneida	pcnt_mammography	77.2
 55087	Wisconsin	Outagamie	pcnt_mammography	74.2
 55089	Wisconsin	Ozaukee	pcnt_mammography	79.3
-55091	Wisconsin	Pepin	pcnt_mammography	75.0
+55091	Wisconsin	Pepin	pcnt_mammography	75
 55093	Wisconsin	Pierce	pcnt_mammography	72.2
 55095	Wisconsin	Polk	pcnt_mammography	61.5
 55097	Wisconsin	Portage	pcnt_mammography	75.9
-55099	Wisconsin	Price	pcnt_mammography	72.0
-55101	Wisconsin	Racine	pcnt_mammography	74.0
+55099	Wisconsin	Price	pcnt_mammography	72
+55101	Wisconsin	Racine	pcnt_mammography	74
 55103	Wisconsin	Richland	pcnt_mammography	58.7
 55105	Wisconsin	Rock	pcnt_mammography	65.9
 55107	Wisconsin	Rusk	pcnt_mammography	74.7
@@ -3105,17 +3105,17 @@ FIPS	State	County	Variable	pcnt_mammography
 55113	Wisconsin	Sawyer	pcnt_mammography	72.8
 55115	Wisconsin	Shawano	pcnt_mammography	72.3
 55117	Wisconsin	Sheboygan	pcnt_mammography	71.1
-55119	Wisconsin	Taylor	pcnt_mammography	71.0
+55119	Wisconsin	Taylor	pcnt_mammography	71
 55121	Wisconsin	Trempealeau	pcnt_mammography	72.7
 55123	Wisconsin	Vernon	pcnt_mammography	61.7
-55125	Wisconsin	Vilas	pcnt_mammography	74.0
+55125	Wisconsin	Vilas	pcnt_mammography	74
 55127	Wisconsin	Walworth	pcnt_mammography	66.7
 55129	Wisconsin	Washburn	pcnt_mammography	73.9
 55131	Wisconsin	Washington	pcnt_mammography	81.5
-55133	Wisconsin	Waukesha	pcnt_mammography	77.0
+55133	Wisconsin	Waukesha	pcnt_mammography	77
 55135	Wisconsin	Waupaca	pcnt_mammography	72.8
 55137	Wisconsin	Waushara	pcnt_mammography	71.2
-55139	Wisconsin	Winnebago	pcnt_mammography	74.0
+55139	Wisconsin	Winnebago	pcnt_mammography	74
 55141	Wisconsin	Wood	pcnt_mammography	78.9
 56001	Wyoming	Albany	pcnt_mammography	66.4
 56003	Wyoming	Big Horn	pcnt_mammography	53.1

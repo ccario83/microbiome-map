@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	physically_unhealthy_days
+1001	Alabama	Autauga	physically_unhealthy_days	5.1
+1003	Alabama	Baldwin	physically_unhealthy_days	3.3
+1005	Alabama	Barbour	physically_unhealthy_days	5
+1007	Alabama	Bibb	physically_unhealthy_days	5
+1009	Alabama	Blount	physically_unhealthy_days	5.2
+1011	Alabama	Bullock	physically_unhealthy_days	5
+1013	Alabama	Butler	physically_unhealthy_days	3.8
+1015	Alabama	Calhoun	physically_unhealthy_days	5.1
+1017	Alabama	Chambers	physically_unhealthy_days	4.8
+1019	Alabama	Cherokee	physically_unhealthy_days	5.1
+1021	Alabama	Chilton	physically_unhealthy_days	4.8
+1023	Alabama	Choctaw	physically_unhealthy_days	7.3
+1025	Alabama	Clarke	physically_unhealthy_days	3.5
+1027	Alabama	Clay	physically_unhealthy_days	5
+1029	Alabama	Cleburne	physically_unhealthy_days	5.5
+1031	Alabama	Coffee	physically_unhealthy_days	3.4
+1033	Alabama	Colbert	physically_unhealthy_days	4.7
+1035	Alabama	Conecuh	physically_unhealthy_days	5.1
+1037	Alabama	Coosa	physically_unhealthy_days	3.5
+1039	Alabama	Covington	physically_unhealthy_days	3.7
+1041	Alabama	Crenshaw	physically_unhealthy_days	4.3
+1043	Alabama	Cullman	physically_unhealthy_days	4.1
+1045	Alabama	Dale	physically_unhealthy_days	5.1
+1047	Alabama	Dallas	physically_unhealthy_days	4
+1049	Alabama	DeKalb	physically_unhealthy_days	4.7
+1051	Alabama	Elmore	physically_unhealthy_days	4.1
+1053	Alabama	Escambia	physically_unhealthy_days	5
+1055	Alabama	Etowah	physically_unhealthy_days	5
+1057	Alabama	Fayette	physically_unhealthy_days	6.7
+1059	Alabama	Franklin	physically_unhealthy_days	
+1061	Alabama	Geneva	physically_unhealthy_days	4.1
+1063	Alabama	Greene	physically_unhealthy_days	4
+1065	Alabama	Hale	physically_unhealthy_days	4.4
+1067	Alabama	Henry	physically_unhealthy_days	3.5
+1069	Alabama	Houston	physically_unhealthy_days	4.4
+1071	Alabama	Jackson	physically_unhealthy_days	5.6
+1073	Alabama	Jefferson	physically_unhealthy_days	3.6
+1075	Alabama	Lamar	physically_unhealthy_days	
+1077	Alabama	Lauderdale	physically_unhealthy_days	4.9
+1079	Alabama	Lawrence	physically_unhealthy_days	3.7
+1081	Alabama	Lee	physically_unhealthy_days	3.6
+1083	Alabama	Limestone	physically_unhealthy_days	3.8
+1085	Alabama	Lowndes	physically_unhealthy_days	4.8
+1087	Alabama	Macon	physically_unhealthy_days	3.6
+1089	Alabama	Madison	physically_unhealthy_days	3.2
+1091	Alabama	Marengo	physically_unhealthy_days	4.5
+1093	Alabama	Marion	physically_unhealthy_days	4.6
+1095	Alabama	Marshall	physically_unhealthy_days	4.7
+1097	Alabama	Mobile	physically_unhealthy_days	4.4
+1099	Alabama	Monroe	physically_unhealthy_days	4.8
+1101	Alabama	Montgomery	physically_unhealthy_days	3.9
+1103	Alabama	Morgan	physically_unhealthy_days	4.1
+1105	Alabama	Perry	physically_unhealthy_days	5.6
+1107	Alabama	Pickens	physically_unhealthy_days	5
+1109	Alabama	Pike	physically_unhealthy_days	4.6
+1111	Alabama	Randolph	physically_unhealthy_days	4.5
+1113	Alabama	Russell	physically_unhealthy_days	4.9
+1115	Alabama	St. Clair	physically_unhealthy_days	3.9
+1117	Alabama	Shelby	physically_unhealthy_days	3.3
+1119	Alabama	Sumter	physically_unhealthy_days	4.1
+1121	Alabama	Talladega	physically_unhealthy_days	5.3
+1123	Alabama	Tallapoosa	physically_unhealthy_days	4.8
+1125	Alabama	Tuscaloosa	physically_unhealthy_days	4.3
+1127	Alabama	Walker	physically_unhealthy_days	6.1
+1129	Alabama	Washington	physically_unhealthy_days	4.3
+1131	Alabama	Wilcox	physically_unhealthy_days	4.1
+1133	Alabama	Winston	physically_unhealthy_days	4.4
+2013	Alaska	Aleutians East	physically_unhealthy_days	3.8
+2016	Alaska	Aleutians West	physically_unhealthy_days	1.7
+2020	Alaska	Anchorage	physically_unhealthy_days	3.4
+2050	Alaska	Bethel	physically_unhealthy_days	3.5
+2060	Alaska	Bristol Bay	physically_unhealthy_days	1.4
+2068	Alaska	Denali	physically_unhealthy_days	2.6
+2070	Alaska	Dillingham	physically_unhealthy_days	2.5
+2090	Alaska	Fairbanks North Star	physically_unhealthy_days	3.5
+2100	Alaska	Haines	physically_unhealthy_days	3.6
+2110	Alaska	Juneau	physically_unhealthy_days	3.4
+2122	Alaska	Kenai Peninsula	physically_unhealthy_days	3.6
+2130	Alaska	Ketchikan Gateway	physically_unhealthy_days	3.4
+2150	Alaska	Kodiak Island	physically_unhealthy_days	2.8
+2164	Alaska	Lake and Peninsula	physically_unhealthy_days	1.6
+2170	Alaska	Matanuska-Susitna	physically_unhealthy_days	3.8
+2180	Alaska	Nome	physically_unhealthy_days	3.6
+2185	Alaska	North Slope	physically_unhealthy_days	3.6
+2188	Alaska	Northwest Arctic	physically_unhealthy_days	4.3
+2201	Alaska	Prince of Wales-Outer Ketchikan	physically_unhealthy_days	4.7
+2220	Alaska	Sitka	physically_unhealthy_days	3.5
+2232	Alaska	Skagway-Hoonah-Angoon	physically_unhealthy_days	3
+2240	Alaska	Southeast Fairbanks	physically_unhealthy_days	3.8
+2261	Alaska	Valdez-Cordova	physically_unhealthy_days	4.1
+2270	Alaska	Wade Hampton	physically_unhealthy_days	6.3
+2280	Alaska	Wrangell-Petersburg	physically_unhealthy_days	3.9
+2282	Alaska	Yakutat	physically_unhealthy_days	4.1
+2290	Alaska	Yukon-Koyukuk	physically_unhealthy_days	4.2
+4001	Arizona	Apache	physically_unhealthy_days	3.9
+4003	Arizona	Cochise	physically_unhealthy_days	4.2
+4005	Arizona	Coconino	physically_unhealthy_days	3
+4007	Arizona	Gila	physically_unhealthy_days	4.9
+4009	Arizona	Graham	physically_unhealthy_days	4.4
+4011	Arizona	Greenlee	physically_unhealthy_days	3.8
+4012	Arizona	La Paz	physically_unhealthy_days	5.2
+4013	Arizona	Maricopa	physically_unhealthy_days	3.1
+4015	Arizona	Mohave	physically_unhealthy_days	4.2
+4017	Arizona	Navajo	physically_unhealthy_days	3.9
+4019	Arizona	Pima	physically_unhealthy_days	3.7
+4021	Arizona	Pinal	physically_unhealthy_days	3.6
+4023	Arizona	Santa Cruz	physically_unhealthy_days	2.7
+4025	Arizona	Yavapai	physically_unhealthy_days	4
+4027	Arizona	Yuma	physically_unhealthy_days	3.8
+5001	Arkansas	Arkansas	physically_unhealthy_days	4.5
+5003	Arkansas	Ashley	physically_unhealthy_days	4.6
+5005	Arkansas	Baxter	physically_unhealthy_days	3.3
+5007	Arkansas	Benton	physically_unhealthy_days	3.2
+5009	Arkansas	Boone	physically_unhealthy_days	3.6
+5011	Arkansas	Bradley	physically_unhealthy_days	3.5
+5013	Arkansas	Calhoun	physically_unhealthy_days	3.2
+5015	Arkansas	Carroll	physically_unhealthy_days	4.5
+5017	Arkansas	Chicot	physically_unhealthy_days	6.8
+5019	Arkansas	Clark	physically_unhealthy_days	4.5
+5021	Arkansas	Clay	physically_unhealthy_days	4.5
+5023	Arkansas	Cleburne	physically_unhealthy_days	5.4
+5025	Arkansas	Cleveland	physically_unhealthy_days	5.3
+5027	Arkansas	Columbia	physically_unhealthy_days	3.2
+5029	Arkansas	Conway	physically_unhealthy_days	4.8
+5031	Arkansas	Craighead	physically_unhealthy_days	3.8
+5033	Arkansas	Crawford	physically_unhealthy_days	3.7
+5035	Arkansas	Crittenden	physically_unhealthy_days	4.4
+5037	Arkansas	Cross	physically_unhealthy_days	3.8
+5039	Arkansas	Dallas	physically_unhealthy_days	4.1
+5041	Arkansas	Desha	physically_unhealthy_days	5.3
+5043	Arkansas	Drew	physically_unhealthy_days	4.2
+5045	Arkansas	Faulkner	physically_unhealthy_days	4.2
+5047	Arkansas	Franklin	physically_unhealthy_days	3.5
+5049	Arkansas	Fulton	physically_unhealthy_days	4.1
+5051	Arkansas	Garland	physically_unhealthy_days	4.2
+5053	Arkansas	Grant	physically_unhealthy_days	4.9
+5055	Arkansas	Greene	physically_unhealthy_days	3.9
+5057	Arkansas	Hempstead	physically_unhealthy_days	3.7
+5059	Arkansas	Hot Spring	physically_unhealthy_days	4.7
+5061	Arkansas	Howard	physically_unhealthy_days	4.7
+5063	Arkansas	Independence	physically_unhealthy_days	5
+5065	Arkansas	Izard	physically_unhealthy_days	6.7
+5067	Arkansas	Jackson	physically_unhealthy_days	5.2
+5069	Arkansas	Jefferson	physically_unhealthy_days	3.3
+5071	Arkansas	Johnson	physically_unhealthy_days	4.5
+5073	Arkansas	Lafayette	physically_unhealthy_days	5
+5075	Arkansas	Lawrence	physically_unhealthy_days	4.2
+5077	Arkansas	Lee	physically_unhealthy_days	5.5
+5079	Arkansas	Lincoln	physically_unhealthy_days	4.8
+5081	Arkansas	Little River	physically_unhealthy_days	4.1
+5083	Arkansas	Logan	physically_unhealthy_days	4.5
+5085	Arkansas	Lonoke	physically_unhealthy_days	3.5
+5087	Arkansas	Madison	physically_unhealthy_days	5.1
+5089	Arkansas	Marion	physically_unhealthy_days	5.5
+5091	Arkansas	Miller	physically_unhealthy_days	4.6
+5093	Arkansas	Mississippi	physically_unhealthy_days	5.5
+5095	Arkansas	Monroe	physically_unhealthy_days	4.7
+5097	Arkansas	Montgomery	physically_unhealthy_days	5.2
+5099	Arkansas	Nevada	physically_unhealthy_days	
+5101	Arkansas	Newton	physically_unhealthy_days	4.2
+5103	Arkansas	Ouachita	physically_unhealthy_days	5.2
+5105	Arkansas	Perry	physically_unhealthy_days	5.6
+5107	Arkansas	Phillips	physically_unhealthy_days	4.1
+5109	Arkansas	Pike	physically_unhealthy_days	3
+5111	Arkansas	Poinsett	physically_unhealthy_days	4.6
+5113	Arkansas	Polk	physically_unhealthy_days	4.5
+5115	Arkansas	Pope	physically_unhealthy_days	4.4
+5117	Arkansas	Prairie	physically_unhealthy_days	
+5119	Arkansas	Pulaski	physically_unhealthy_days	3.2
+5121	Arkansas	Randolph	physically_unhealthy_days	4.8
+5123	Arkansas	St. Francis	physically_unhealthy_days	4.9
+5125	Arkansas	Saline	physically_unhealthy_days	4
+5127	Arkansas	Scott	physically_unhealthy_days	3.9
+5129	Arkansas	Searcy	physically_unhealthy_days	5.6
+5131	Arkansas	Sebastian	physically_unhealthy_days	4.4
+5133	Arkansas	Sevier	physically_unhealthy_days	3.1
+5135	Arkansas	Sharp	physically_unhealthy_days	4.2
+5137	Arkansas	Stone	physically_unhealthy_days	5
+5139	Arkansas	Union	physically_unhealthy_days	4.9
+5141	Arkansas	Van Buren	physically_unhealthy_days	4.3
+5143	Arkansas	Washington	physically_unhealthy_days	3.4
+5145	Arkansas	White	physically_unhealthy_days	3.8
+5147	Arkansas	Woodruff	physically_unhealthy_days	3.8
+5149	Arkansas	Yell	physically_unhealthy_days	5.2
+6001	California	Alameda	physically_unhealthy_days	3
+6003	California	Alpine	physically_unhealthy_days	
+6005	California	Amador	physically_unhealthy_days	4.4
+6007	California	Butte	physically_unhealthy_days	4.3
+6009	California	Calaveras	physically_unhealthy_days	3.8
+6011	California	Colusa	physically_unhealthy_days	2.7
+6013	California	Contra Costa	physically_unhealthy_days	3.3
+6015	California	Del Norte	physically_unhealthy_days	
+6017	California	El Dorado	physically_unhealthy_days	2.5
+6019	California	Fresno	physically_unhealthy_days	4
+6021	California	Glenn	physically_unhealthy_days	3.9
+6023	California	Humboldt	physically_unhealthy_days	4.3
+6025	California	Imperial	physically_unhealthy_days	4.8
+6027	California	Inyo	physically_unhealthy_days	2.8
+6029	California	Kern	physically_unhealthy_days	4.4
+6031	California	Kings	physically_unhealthy_days	5.1
+6033	California	Lake	physically_unhealthy_days	4.4
+6035	California	Lassen	physically_unhealthy_days	3.6
+6037	California	Los Angeles	physically_unhealthy_days	3.8
+6039	California	Madera	physically_unhealthy_days	4
+6041	California	Marin	physically_unhealthy_days	3.3
+6043	California	Mariposa	physically_unhealthy_days	3.2
+6045	California	Mendocino	physically_unhealthy_days	3.9
+6047	California	Merced	physically_unhealthy_days	4.4
+6049	California	Modoc	physically_unhealthy_days	
+6051	California	Mono	physically_unhealthy_days	3.9
+6053	California	Monterey	physically_unhealthy_days	3.5
+6055	California	Napa	physically_unhealthy_days	4
+6057	California	Nevada	physically_unhealthy_days	2.8
+6059	California	Orange	physically_unhealthy_days	3.1
+6061	California	Placer	physically_unhealthy_days	3
+6063	California	Plumas	physically_unhealthy_days	3.2
+6065	California	Riverside	physically_unhealthy_days	4
+6067	California	Sacramento	physically_unhealthy_days	3.4
+6069	California	San Benito	physically_unhealthy_days	3.3
+6071	California	San Bernardino	physically_unhealthy_days	4.3
+6073	California	San Diego	physically_unhealthy_days	3.5
+6075	California	San Francisco	physically_unhealthy_days	3.3
+6077	California	San Joaquin	physically_unhealthy_days	3.8
+6079	California	San Luis Obispo	physically_unhealthy_days	3.2
+6081	California	San Mateo	physically_unhealthy_days	3.2
+6083	California	Santa Barbara	physically_unhealthy_days	3.6
+6085	California	Santa Clara	physically_unhealthy_days	3.1
+6087	California	Santa Cruz	physically_unhealthy_days	3.4
+6089	California	Shasta	physically_unhealthy_days	4
+6091	California	Sierra	physically_unhealthy_days	
+6093	California	Siskiyou	physically_unhealthy_days	4.3
+6095	California	Solano	physically_unhealthy_days	4
+6097	California	Sonoma	physically_unhealthy_days	3.8
+6099	California	Stanislaus	physically_unhealthy_days	4.2
+6101	California	Sutter	physically_unhealthy_days	4.3
+6103	California	Tehama	physically_unhealthy_days	5.9
+6105	California	Trinity	physically_unhealthy_days	4.1
+6107	California	Tulare	physically_unhealthy_days	4.8
+6109	California	Tuolumne	physically_unhealthy_days	3.7
+6111	California	Ventura	physically_unhealthy_days	3.5
+6113	California	Yolo	physically_unhealthy_days	3.7
+6115	California	Yuba	physically_unhealthy_days	4.1
+8001	Colorado	Adams	physically_unhealthy_days	3.5
+8003	Colorado	Alamosa	physically_unhealthy_days	3.4
+8005	Colorado	Arapahoe	physically_unhealthy_days	2.9
+8007	Colorado	Archuleta	physically_unhealthy_days	2.6
+8009	Colorado	Baca	physically_unhealthy_days	2.7
+8011	Colorado	Bent	physically_unhealthy_days	3.7
+8013	Colorado	Boulder	physically_unhealthy_days	2.7
+8014	Colorado	Broomfield	physically_unhealthy_days	2.7
+8015	Colorado	Chaffee	physically_unhealthy_days	2.8
+8017	Colorado	Cheyenne	physically_unhealthy_days	2.5
+8019	Colorado	Clear Creek	physically_unhealthy_days	2.4
+8021	Colorado	Conejos	physically_unhealthy_days	5.2
+8023	Colorado	Costilla	physically_unhealthy_days	3.4
+8025	Colorado	Crowley	physically_unhealthy_days	
+8027	Colorado	Custer	physically_unhealthy_days	2.1
+8029	Colorado	Delta	physically_unhealthy_days	3.7
+8031	Colorado	Denver	physically_unhealthy_days	3.2
+8033	Colorado	Dolores	physically_unhealthy_days	3
+8035	Colorado	Douglas	physically_unhealthy_days	2.3
+8037	Colorado	Eagle	physically_unhealthy_days	2.3
+8039	Colorado	Elbert	physically_unhealthy_days	2.2
+8041	Colorado	El Paso	physically_unhealthy_days	3.4
+8043	Colorado	Fremont	physically_unhealthy_days	3.9
+8045	Colorado	Garfield	physically_unhealthy_days	3.2
+8047	Colorado	Gilpin	physically_unhealthy_days	
+8049	Colorado	Grand	physically_unhealthy_days	2.1
+8051	Colorado	Gunnison	physically_unhealthy_days	2.8
+8053	Colorado	Hinsdale	physically_unhealthy_days	
+8055	Colorado	Huerfano	physically_unhealthy_days	4.7
+8057	Colorado	Jackson	physically_unhealthy_days	1.7
+8059	Colorado	Jefferson	physically_unhealthy_days	2.8
+8061	Colorado	Kiowa	physically_unhealthy_days	
+8063	Colorado	Kit Carson	physically_unhealthy_days	2.5
+8065	Colorado	Lake	physically_unhealthy_days	5.5
+8067	Colorado	La Plata	physically_unhealthy_days	2.6
+8069	Colorado	Larimer	physically_unhealthy_days	3.1
+8071	Colorado	Las Animas	physically_unhealthy_days	4.8
+8073	Colorado	Lincoln	physically_unhealthy_days	3.2
+8075	Colorado	Logan	physically_unhealthy_days	2.9
+8077	Colorado	Mesa	physically_unhealthy_days	3.5
+8079	Colorado	Mineral	physically_unhealthy_days	
+8081	Colorado	Moffat	physically_unhealthy_days	3.7
+8083	Colorado	Montezuma	physically_unhealthy_days	3.2
+8085	Colorado	Montrose	physically_unhealthy_days	3.7
+8087	Colorado	Morgan	physically_unhealthy_days	3.7
+8089	Colorado	Otero	physically_unhealthy_days	3.3
+8091	Colorado	Ouray	physically_unhealthy_days	2.1
+8093	Colorado	Park	physically_unhealthy_days	3.1
+8095	Colorado	Phillips	physically_unhealthy_days	3.1
+8097	Colorado	Pitkin	physically_unhealthy_days	1.9
+8099	Colorado	Prowers	physically_unhealthy_days	3.6
+8101	Colorado	Pueblo	physically_unhealthy_days	4.1
+8103	Colorado	Rio Blanco	physically_unhealthy_days	2.9
+8105	Colorado	Rio Grande	physically_unhealthy_days	3.9
+8107	Colorado	Routt	physically_unhealthy_days	1.9
+8109	Colorado	Saguache	physically_unhealthy_days	4.7
+8111	Colorado	San Juan	physically_unhealthy_days	
+8113	Colorado	San Miguel	physically_unhealthy_days	0.9
+8115	Colorado	Sedgwick	physically_unhealthy_days	4
+8117	Colorado	Summit	physically_unhealthy_days	2.2
+8119	Colorado	Teller	physically_unhealthy_days	3
+8121	Colorado	Washington	physically_unhealthy_days	3.5
+8123	Colorado	Weld	physically_unhealthy_days	3.2
+8125	Colorado	Yuma	physically_unhealthy_days	2.3
+9001	Connecticut	Fairfield	physically_unhealthy_days	2.6
+9003	Connecticut	Hartford	physically_unhealthy_days	2.9
+9005	Connecticut	Litchfield	physically_unhealthy_days	3.1
+9007	Connecticut	Middlesex	physically_unhealthy_days	2.8
+9009	Connecticut	New Haven	physically_unhealthy_days	3.2
+9011	Connecticut	New London	physically_unhealthy_days	3
+9013	Connecticut	Tolland	physically_unhealthy_days	2.7
+9015	Connecticut	Windham	physically_unhealthy_days	3.5
+10001	Delaware	Kent	physically_unhealthy_days	3.8
+10003	Delaware	New Castle	physically_unhealthy_days	3.1
+10005	Delaware	Sussex	physically_unhealthy_days	3.5
+11001	District of Columbia	District of Columbia	physically_unhealthy_days	2.9
+12001	Florida	Alachua	physically_unhealthy_days	3.6
+12003	Florida	Baker	physically_unhealthy_days	5.3
+12005	Florida	Bay	physically_unhealthy_days	3.8
+12007	Florida	Bradford	physically_unhealthy_days	3.9
+12009	Florida	Brevard	physically_unhealthy_days	4.5
+12011	Florida	Broward	physically_unhealthy_days	3.2
+12013	Florida	Calhoun	physically_unhealthy_days	5.1
+12015	Florida	Charlotte	physically_unhealthy_days	3.7
+12017	Florida	Citrus	physically_unhealthy_days	4.5
+12019	Florida	Clay	physically_unhealthy_days	3.4
+12021	Florida	Collier	physically_unhealthy_days	2.9
+12023	Florida	Columbia	physically_unhealthy_days	4.7
+12027	Florida	DeSoto	physically_unhealthy_days	3.6
+12029	Florida	Dixie	physically_unhealthy_days	4.9
+12031	Florida	Duval	physically_unhealthy_days	3.8
+12033	Florida	Escambia	physically_unhealthy_days	3.9
+12035	Florida	Flagler	physically_unhealthy_days	4.1
+12037	Florida	Franklin	physically_unhealthy_days	3.6
+12039	Florida	Gadsden	physically_unhealthy_days	3.7
+12041	Florida	Gilchrist	physically_unhealthy_days	5.6
+12043	Florida	Glades	physically_unhealthy_days	3.3
+12045	Florida	Gulf	physically_unhealthy_days	4.3
+12047	Florida	Hamilton	physically_unhealthy_days	5.6
+12049	Florida	Hardee	physically_unhealthy_days	3.8
+12051	Florida	Hendry	physically_unhealthy_days	3.3
+12053	Florida	Hernando	physically_unhealthy_days	4.9
+12055	Florida	Highlands	physically_unhealthy_days	4.1
+12057	Florida	Hillsborough	physically_unhealthy_days	4
+12059	Florida	Holmes	physically_unhealthy_days	4.6
+12061	Florida	Indian River	physically_unhealthy_days	3.7
+12063	Florida	Jackson	physically_unhealthy_days	4
+12065	Florida	Jefferson	physically_unhealthy_days	3.6
+12067	Florida	Lafayette	physically_unhealthy_days	5.6
+12069	Florida	Lake	physically_unhealthy_days	3.6
+12071	Florida	Lee	physically_unhealthy_days	3.3
+12073	Florida	Leon	physically_unhealthy_days	3.1
+12075	Florida	Levy	physically_unhealthy_days	5.5
+12077	Florida	Liberty	physically_unhealthy_days	5.4
+12079	Florida	Madison	physically_unhealthy_days	3.8
+12081	Florida	Manatee	physically_unhealthy_days	3.8
+12083	Florida	Marion	physically_unhealthy_days	4.3
+12085	Florida	Martin	physically_unhealthy_days	2.3
+12086	Florida	Miami-Dade	physically_unhealthy_days	3.1
+12087	Florida	Monroe	physically_unhealthy_days	3.5
+12089	Florida	Nassau	physically_unhealthy_days	4
+12091	Florida	Okaloosa	physically_unhealthy_days	4.1
+12093	Florida	Okeechobee	physically_unhealthy_days	4.3
+12095	Florida	Orange	physically_unhealthy_days	3.1
+12097	Florida	Osceola	physically_unhealthy_days	4.3
+12099	Florida	Palm Beach	physically_unhealthy_days	3.3
+12101	Florida	Pasco	physically_unhealthy_days	4.8
+12103	Florida	Pinellas	physically_unhealthy_days	4.1
+12105	Florida	Polk	physically_unhealthy_days	3.9
+12107	Florida	Putnam	physically_unhealthy_days	4.3
+12109	Florida	St. Johns	physically_unhealthy_days	3
+12111	Florida	St. Lucie	physically_unhealthy_days	3.8
+12113	Florida	Santa Rosa	physically_unhealthy_days	4.6
+12115	Florida	Sarasota	physically_unhealthy_days	3
+12117	Florida	Seminole	physically_unhealthy_days	2.9
+12119	Florida	Sumter	physically_unhealthy_days	2.7
+12121	Florida	Suwannee	physically_unhealthy_days	4.6
+12123	Florida	Taylor	physically_unhealthy_days	5.1
+12125	Florida	Union	physically_unhealthy_days	5.2
+12127	Florida	Volusia	physically_unhealthy_days	4.1
+12129	Florida	Wakulla	physically_unhealthy_days	3.4
+12131	Florida	Walton	physically_unhealthy_days	4.6
+12133	Florida	Washington	physically_unhealthy_days	5.7
+13001	Georgia	Appling	physically_unhealthy_days	5.3
+13003	Georgia	Atkinson	physically_unhealthy_days	4.6
+13005	Georgia	Bacon	physically_unhealthy_days	4.4
+13007	Georgia	Baker	physically_unhealthy_days	
+13009	Georgia	Baldwin	physically_unhealthy_days	4.2
+13011	Georgia	Banks	physically_unhealthy_days	4
+13013	Georgia	Barrow	physically_unhealthy_days	3.9
+13015	Georgia	Bartow	physically_unhealthy_days	4.1
+13017	Georgia	Ben Hill	physically_unhealthy_days	4.3
+13019	Georgia	Berrien	physically_unhealthy_days	4.8
+13021	Georgia	Bibb	physically_unhealthy_days	3.2
+13023	Georgia	Bleckley	physically_unhealthy_days	4.8
+13025	Georgia	Brantley	physically_unhealthy_days	4.7
+13027	Georgia	Brooks	physically_unhealthy_days	4.2
+13029	Georgia	Bryan	physically_unhealthy_days	3.3
+13031	Georgia	Bulloch	physically_unhealthy_days	2.9
+13033	Georgia	Burke	physically_unhealthy_days	4.2
+13035	Georgia	Butts	physically_unhealthy_days	4.7
+13037	Georgia	Calhoun	physically_unhealthy_days	
+13039	Georgia	Camden	physically_unhealthy_days	3
+13043	Georgia	Candler	physically_unhealthy_days	3.2
+13045	Georgia	Carroll	physically_unhealthy_days	4.3
+13047	Georgia	Catoosa	physically_unhealthy_days	5
+13049	Georgia	Charlton	physically_unhealthy_days	4.9
+13051	Georgia	Chatham	physically_unhealthy_days	3.6
+13053	Georgia	Chattahoochee	physically_unhealthy_days	
+13055	Georgia	Chattooga	physically_unhealthy_days	5.3
+13057	Georgia	Cherokee	physically_unhealthy_days	2.8
+13059	Georgia	Clarke	physically_unhealthy_days	3
+13061	Georgia	Clay	physically_unhealthy_days	
+13063	Georgia	Clayton	physically_unhealthy_days	3.3
+13065	Georgia	Clinch	physically_unhealthy_days	4.1
+13067	Georgia	Cobb	physically_unhealthy_days	2.9
+13069	Georgia	Coffee	physically_unhealthy_days	6.1
+13071	Georgia	Colquitt	physically_unhealthy_days	4.6
+13073	Georgia	Columbia	physically_unhealthy_days	3
+13075	Georgia	Cook	physically_unhealthy_days	3.5
+13077	Georgia	Coweta	physically_unhealthy_days	3.3
+13079	Georgia	Crawford	physically_unhealthy_days	4.5
+13081	Georgia	Crisp	physically_unhealthy_days	3.8
+13083	Georgia	Dade	physically_unhealthy_days	4.3
+13085	Georgia	Dawson	physically_unhealthy_days	3.6
+13087	Georgia	Decatur	physically_unhealthy_days	4.4
+13089	Georgia	DeKalb	physically_unhealthy_days	2.5
+13091	Georgia	Dodge	physically_unhealthy_days	3.8
+13093	Georgia	Dooly	physically_unhealthy_days	
+13095	Georgia	Dougherty	physically_unhealthy_days	3.8
+13097	Georgia	Douglas	physically_unhealthy_days	3.3
+13099	Georgia	Early	physically_unhealthy_days	
+13101	Georgia	Echols	physically_unhealthy_days	
+13103	Georgia	Effingham	physically_unhealthy_days	3.8
+13105	Georgia	Elbert	physically_unhealthy_days	6.1
+13107	Georgia	Emanuel	physically_unhealthy_days	5
+13109	Georgia	Evans	physically_unhealthy_days	7.1
+13111	Georgia	Fannin	physically_unhealthy_days	4.4
+13113	Georgia	Fayette	physically_unhealthy_days	2.3
+13115	Georgia	Floyd	physically_unhealthy_days	4.2
+13117	Georgia	Forsyth	physically_unhealthy_days	2.5
+13119	Georgia	Franklin	physically_unhealthy_days	3
+13121	Georgia	Fulton	physically_unhealthy_days	2.6
+13123	Georgia	Gilmer	physically_unhealthy_days	3.6
+13125	Georgia	Glascock	physically_unhealthy_days	
+13127	Georgia	Glynn	physically_unhealthy_days	3.4
+13129	Georgia	Gordon	physically_unhealthy_days	3.8
+13131	Georgia	Grady	physically_unhealthy_days	5.2
+13133	Georgia	Greene	physically_unhealthy_days	5.1
+13135	Georgia	Gwinnett	physically_unhealthy_days	2.8
+13137	Georgia	Habersham	physically_unhealthy_days	3.2
+13139	Georgia	Hall	physically_unhealthy_days	3.4
+13141	Georgia	Hancock	physically_unhealthy_days	
+13143	Georgia	Haralson	physically_unhealthy_days	4.2
+13145	Georgia	Harris	physically_unhealthy_days	2.9
+13147	Georgia	Hart	physically_unhealthy_days	3.8
+13149	Georgia	Heard	physically_unhealthy_days	
+13151	Georgia	Henry	physically_unhealthy_days	3.3
+13153	Georgia	Houston	physically_unhealthy_days	3.4
+13155	Georgia	Irwin	physically_unhealthy_days	3
+13157	Georgia	Jackson	physically_unhealthy_days	4
+13159	Georgia	Jasper	physically_unhealthy_days	3.8
+13161	Georgia	Jeff Davis	physically_unhealthy_days	5.2
+13163	Georgia	Jefferson	physically_unhealthy_days	4.5
+13165	Georgia	Jenkins	physically_unhealthy_days	
+13167	Georgia	Johnson	physically_unhealthy_days	5.6
+13169	Georgia	Jones	physically_unhealthy_days	6.4
+13171	Georgia	Lamar	physically_unhealthy_days	4.4
+13173	Georgia	Lanier	physically_unhealthy_days	4.4
+13175	Georgia	Laurens	physically_unhealthy_days	3.9
+13177	Georgia	Lee	physically_unhealthy_days	3.2
+13179	Georgia	Liberty	physically_unhealthy_days	4.2
+13181	Georgia	Lincoln	physically_unhealthy_days	
+13183	Georgia	Long	physically_unhealthy_days	3.4
+13185	Georgia	Lowndes	physically_unhealthy_days	3.8
+13187	Georgia	Lumpkin	physically_unhealthy_days	2
+13189	Georgia	McDuffie	physically_unhealthy_days	5.2
+13191	Georgia	McIntosh	physically_unhealthy_days	3.9
+13193	Georgia	Macon	physically_unhealthy_days	5.1
+13195	Georgia	Madison	physically_unhealthy_days	4.9
+13197	Georgia	Marion	physically_unhealthy_days	4.9
+13199	Georgia	Meriwether	physically_unhealthy_days	3.5
+13201	Georgia	Miller	physically_unhealthy_days	2.3
+13205	Georgia	Mitchell	physically_unhealthy_days	4.3
+13207	Georgia	Monroe	physically_unhealthy_days	4.4
+13209	Georgia	Montgomery	physically_unhealthy_days	3.3
+13211	Georgia	Morgan	physically_unhealthy_days	2.7
+13213	Georgia	Murray	physically_unhealthy_days	5.7
+13215	Georgia	Muscogee	physically_unhealthy_days	3.8
+13217	Georgia	Newton	physically_unhealthy_days	3.4
+13219	Georgia	Oconee	physically_unhealthy_days	2
+13221	Georgia	Oglethorpe	physically_unhealthy_days	5.4
+13223	Georgia	Paulding	physically_unhealthy_days	5
+13225	Georgia	Peach	physically_unhealthy_days	4.4
+13227	Georgia	Pickens	physically_unhealthy_days	3.2
+13229	Georgia	Pierce	physically_unhealthy_days	6.1
+13231	Georgia	Pike	physically_unhealthy_days	3.9
+13233	Georgia	Polk	physically_unhealthy_days	5
+13235	Georgia	Pulaski	physically_unhealthy_days	3.7
+13237	Georgia	Putnam	physically_unhealthy_days	4.1
+13239	Georgia	Quitman	physically_unhealthy_days	
+13241	Georgia	Rabun	physically_unhealthy_days	3
+13243	Georgia	Randolph	physically_unhealthy_days	3.8
+13245	Georgia	Richmond	physically_unhealthy_days	3.6
+13247	Georgia	Rockdale	physically_unhealthy_days	2.7
+13249	Georgia	Schley	physically_unhealthy_days	
+13251	Georgia	Screven	physically_unhealthy_days	4.7
+13253	Georgia	Seminole	physically_unhealthy_days	3.1
+13255	Georgia	Spalding	physically_unhealthy_days	3.9
+13257	Georgia	Stephens	physically_unhealthy_days	5.9
+13259	Georgia	Stewart	physically_unhealthy_days	
+13261	Georgia	Sumter	physically_unhealthy_days	3.4
+13263	Georgia	Talbot	physically_unhealthy_days	
+13265	Georgia	Taliaferro	physically_unhealthy_days	
+13267	Georgia	Tattnall	physically_unhealthy_days	5.8
+13269	Georgia	Taylor	physically_unhealthy_days	5.9
+13271	Georgia	Telfair	physically_unhealthy_days	4.9
+13273	Georgia	Terrell	physically_unhealthy_days	
+13275	Georgia	Thomas	physically_unhealthy_days	3.5
+13277	Georgia	Tift	physically_unhealthy_days	3.9
+13279	Georgia	Toombs	physically_unhealthy_days	3.9
+13281	Georgia	Towns	physically_unhealthy_days	2.4
+13283	Georgia	Treutlen	physically_unhealthy_days	3.7
+13285	Georgia	Troup	physically_unhealthy_days	3.9
+13287	Georgia	Turner	physically_unhealthy_days	4.2
+13289	Georgia	Twiggs	physically_unhealthy_days	3.4
+13291	Georgia	Union	physically_unhealthy_days	3.4
+13293	Georgia	Upson	physically_unhealthy_days	5.1
+13295	Georgia	Walker	physically_unhealthy_days	5
+13297	Georgia	Walton	physically_unhealthy_days	3.3
+13299	Georgia	Ware	physically_unhealthy_days	5.4
+13301	Georgia	Warren	physically_unhealthy_days	
+13303	Georgia	Washington	physically_unhealthy_days	4.5
+13305	Georgia	Wayne	physically_unhealthy_days	4.8
+13307	Georgia	Webster	physically_unhealthy_days	
+13309	Georgia	Wheeler	physically_unhealthy_days	3.4
+13311	Georgia	White	physically_unhealthy_days	4.3
+13313	Georgia	Whitfield	physically_unhealthy_days	3.7
+13315	Georgia	Wilcox	physically_unhealthy_days	3.3
+13317	Georgia	Wilkes	physically_unhealthy_days	4.7
+13319	Georgia	Wilkinson	physically_unhealthy_days	5.3
+13321	Georgia	Worth	physically_unhealthy_days	4.5
+15001	Hawaii	Hawaii	physically_unhealthy_days	3.2
+15003	Hawaii	Honolulu	physically_unhealthy_days	2.7
+15005	Hawaii	Kalawao	physically_unhealthy_days	
+15007	Hawaii	Kauai	physically_unhealthy_days	3.1
+15009	Hawaii	Maui	physically_unhealthy_days	3.1
+16001	Idaho	Ada	physically_unhealthy_days	3.2
+16003	Idaho	Adams	physically_unhealthy_days	3.8
+16005	Idaho	Bannock	physically_unhealthy_days	3.8
+16007	Idaho	Bear Lake	physically_unhealthy_days	4.8
+16009	Idaho	Benewah	physically_unhealthy_days	3.9
+16011	Idaho	Bingham	physically_unhealthy_days	3.6
+16013	Idaho	Blaine	physically_unhealthy_days	2.1
+16015	Idaho	Boise	physically_unhealthy_days	4.4
+16017	Idaho	Bonner	physically_unhealthy_days	3.8
+16019	Idaho	Bonneville	physically_unhealthy_days	3.3
+16021	Idaho	Boundary	physically_unhealthy_days	4.1
+16023	Idaho	Butte	physically_unhealthy_days	4.2
+16025	Idaho	Camas	physically_unhealthy_days	
+16027	Idaho	Canyon	physically_unhealthy_days	3.9
+16029	Idaho	Caribou	physically_unhealthy_days	3.8
+16031	Idaho	Cassia	physically_unhealthy_days	3
+16033	Idaho	Clark	physically_unhealthy_days	
+16035	Idaho	Clearwater	physically_unhealthy_days	4.1
+16037	Idaho	Custer	physically_unhealthy_days	2.9
+16039	Idaho	Elmore	physically_unhealthy_days	3.7
+16041	Idaho	Franklin	physically_unhealthy_days	3.3
+16043	Idaho	Fremont	physically_unhealthy_days	2.5
+16045	Idaho	Gem	physically_unhealthy_days	3.9
+16047	Idaho	Gooding	physically_unhealthy_days	4
+16049	Idaho	Idaho	physically_unhealthy_days	3.9
+16051	Idaho	Jefferson	physically_unhealthy_days	3.4
+16053	Idaho	Jerome	physically_unhealthy_days	3.9
+16055	Idaho	Kootenai	physically_unhealthy_days	3.5
+16057	Idaho	Latah	physically_unhealthy_days	3.5
+16059	Idaho	Lemhi	physically_unhealthy_days	2.9
+16061	Idaho	Lewis	physically_unhealthy_days	3.1
+16063	Idaho	Lincoln	physically_unhealthy_days	5.2
+16065	Idaho	Madison	physically_unhealthy_days	2.9
+16067	Idaho	Minidoka	physically_unhealthy_days	4.5
+16069	Idaho	Nez Perce	physically_unhealthy_days	4
+16071	Idaho	Oneida	physically_unhealthy_days	3.2
+16073	Idaho	Owyhee	physically_unhealthy_days	4.2
+16075	Idaho	Payette	physically_unhealthy_days	4.4
+16077	Idaho	Power	physically_unhealthy_days	3
+16079	Idaho	Shoshone	physically_unhealthy_days	4.9
+16081	Idaho	Teton	physically_unhealthy_days	3.5
+16083	Idaho	Twin Falls	physically_unhealthy_days	3.3
+16085	Idaho	Valley	physically_unhealthy_days	3.9
+16087	Idaho	Washington	physically_unhealthy_days	3.7
+17001	Illinois	Adams	physically_unhealthy_days	4.3
+17003	Illinois	Alexander	physically_unhealthy_days	
+17005	Illinois	Bond	physically_unhealthy_days	5.3
+17007	Illinois	Boone	physically_unhealthy_days	3.1
+17009	Illinois	Brown	physically_unhealthy_days	
+17011	Illinois	Bureau	physically_unhealthy_days	3.6
+17013	Illinois	Calhoun	physically_unhealthy_days	
+17015	Illinois	Carroll	physically_unhealthy_days	2.2
+17017	Illinois	Cass	physically_unhealthy_days	4.7
+17019	Illinois	Champaign	physically_unhealthy_days	2.8
+17021	Illinois	Christian	physically_unhealthy_days	4.3
+17023	Illinois	Clark	physically_unhealthy_days	4.4
+17025	Illinois	Clay	physically_unhealthy_days	1.6
+17027	Illinois	Clinton	physically_unhealthy_days	3
+17029	Illinois	Coles	physically_unhealthy_days	4
+17031	Illinois	Cook	physically_unhealthy_days	3.6
+17033	Illinois	Crawford	physically_unhealthy_days	4.8
+17035	Illinois	Cumberland	physically_unhealthy_days	2.3
+17037	Illinois	DeKalb	physically_unhealthy_days	3.1
+17039	Illinois	De Witt	physically_unhealthy_days	4.2
+17041	Illinois	Douglas	physically_unhealthy_days	2
+17043	Illinois	DuPage	physically_unhealthy_days	2.7
+17045	Illinois	Edgar	physically_unhealthy_days	3.9
+17047	Illinois	Edwards	physically_unhealthy_days	
+17049	Illinois	Effingham	physically_unhealthy_days	2.7
+17051	Illinois	Fayette	physically_unhealthy_days	2.4
+17053	Illinois	Ford	physically_unhealthy_days	2
+17055	Illinois	Franklin	physically_unhealthy_days	4.9
+17057	Illinois	Fulton	physically_unhealthy_days	3.8
+17059	Illinois	Gallatin	physically_unhealthy_days	
+17061	Illinois	Greene	physically_unhealthy_days	
+17063	Illinois	Grundy	physically_unhealthy_days	3.2
+17065	Illinois	Hamilton	physically_unhealthy_days	
+17067	Illinois	Hancock	physically_unhealthy_days	3.9
+17069	Illinois	Hardin	physically_unhealthy_days	
+17071	Illinois	Henderson	physically_unhealthy_days	
+17073	Illinois	Henry	physically_unhealthy_days	1.9
+17075	Illinois	Iroquois	physically_unhealthy_days	4.3
+17077	Illinois	Jackson	physically_unhealthy_days	3.5
+17079	Illinois	Jasper	physically_unhealthy_days	
+17081	Illinois	Jefferson	physically_unhealthy_days	4.3
+17083	Illinois	Jersey	physically_unhealthy_days	3.1
+17085	Illinois	Jo Daviess	physically_unhealthy_days	2.7
+17087	Illinois	Johnson	physically_unhealthy_days	
+17089	Illinois	Kane	physically_unhealthy_days	3
+17091	Illinois	Kankakee	physically_unhealthy_days	3.9
+17093	Illinois	Kendall	physically_unhealthy_days	3
+17095	Illinois	Knox	physically_unhealthy_days	3.4
+17097	Illinois	Lake	physically_unhealthy_days	3.4
+17099	Illinois	LaSalle	physically_unhealthy_days	4.3
+17101	Illinois	Lawrence	physically_unhealthy_days	2.7
+17103	Illinois	Lee	physically_unhealthy_days	2.6
+17105	Illinois	Livingston	physically_unhealthy_days	3.5
+17107	Illinois	Logan	physically_unhealthy_days	4
+17109	Illinois	McDonough	physically_unhealthy_days	2.2
+17111	Illinois	McHenry	physically_unhealthy_days	3.6
+17113	Illinois	McLean	physically_unhealthy_days	3.4
+17115	Illinois	Macon	physically_unhealthy_days	3.4
+17117	Illinois	Macoupin	physically_unhealthy_days	3.2
+17119	Illinois	Madison	physically_unhealthy_days	4.1
+17121	Illinois	Marion	physically_unhealthy_days	3
+17123	Illinois	Marshall	physically_unhealthy_days	
+17125	Illinois	Mason	physically_unhealthy_days	
+17127	Illinois	Massac	physically_unhealthy_days	7
+17129	Illinois	Menard	physically_unhealthy_days	3.4
+17131	Illinois	Mercer	physically_unhealthy_days	2.3
+17133	Illinois	Monroe	physically_unhealthy_days	3.5
+17135	Illinois	Montgomery	physically_unhealthy_days	4.1
+17137	Illinois	Morgan	physically_unhealthy_days	3.7
+17139	Illinois	Moultrie	physically_unhealthy_days	
+17141	Illinois	Ogle	physically_unhealthy_days	3.2
+17143	Illinois	Peoria	physically_unhealthy_days	3.3
+17145	Illinois	Perry	physically_unhealthy_days	2.9
+17147	Illinois	Piatt	physically_unhealthy_days	2.1
+17149	Illinois	Pike	physically_unhealthy_days	2.4
+17151	Illinois	Pope	physically_unhealthy_days	
+17153	Illinois	Pulaski	physically_unhealthy_days	
+17155	Illinois	Putnam	physically_unhealthy_days	
+17157	Illinois	Randolph	physically_unhealthy_days	3.2
+17159	Illinois	Richland	physically_unhealthy_days	2.3
+17161	Illinois	Rock Island	physically_unhealthy_days	3.3
+17163	Illinois	St. Clair	physically_unhealthy_days	3.8
+17165	Illinois	Saline	physically_unhealthy_days	4.5
+17167	Illinois	Sangamon	physically_unhealthy_days	3.4
+17169	Illinois	Schuyler	physically_unhealthy_days	
+17171	Illinois	Scott	physically_unhealthy_days	
+17173	Illinois	Shelby	physically_unhealthy_days	3.8
+17175	Illinois	Stark	physically_unhealthy_days	
+17177	Illinois	Stephenson	physically_unhealthy_days	2.5
+17179	Illinois	Tazewell	physically_unhealthy_days	3.5
+17181	Illinois	Union	physically_unhealthy_days	
+17183	Illinois	Vermilion	physically_unhealthy_days	4.3
+17185	Illinois	Wabash	physically_unhealthy_days	
+17187	Illinois	Warren	physically_unhealthy_days	3.1
+17189	Illinois	Washington	physically_unhealthy_days	2.5
+17191	Illinois	Wayne	physically_unhealthy_days	1.7
+17193	Illinois	White	physically_unhealthy_days	4
+17195	Illinois	Whiteside	physically_unhealthy_days	2.3
+17197	Illinois	Will	physically_unhealthy_days	3.1
+17199	Illinois	Williamson	physically_unhealthy_days	3.5
+17201	Illinois	Winnebago	physically_unhealthy_days	3.5
+17203	Illinois	Woodford	physically_unhealthy_days	2.1
+18001	Indiana	Adams	physically_unhealthy_days	3.1
+18003	Indiana	Allen	physically_unhealthy_days	3.2
+18005	Indiana	Bartholomew	physically_unhealthy_days	3.8
+18007	Indiana	Benton	physically_unhealthy_days	5.7
+18009	Indiana	Blackford	physically_unhealthy_days	5.3
+18011	Indiana	Boone	physically_unhealthy_days	2.7
+18013	Indiana	Brown	physically_unhealthy_days	2.2
+18015	Indiana	Carroll	physically_unhealthy_days	3.8
+18017	Indiana	Cass	physically_unhealthy_days	3.2
+18019	Indiana	Clark	physically_unhealthy_days	3.8
+18021	Indiana	Clay	physically_unhealthy_days	4
+18023	Indiana	Clinton	physically_unhealthy_days	4.1
+18025	Indiana	Crawford	physically_unhealthy_days	5.7
+18027	Indiana	Daviess	physically_unhealthy_days	4.4
+18029	Indiana	Dearborn	physically_unhealthy_days	3.9
+18031	Indiana	Decatur	physically_unhealthy_days	4.1
+18033	Indiana	DeKalb	physically_unhealthy_days	3
+18035	Indiana	Delaware	physically_unhealthy_days	4.3
+18037	Indiana	Dubois	physically_unhealthy_days	1.9
+18039	Indiana	Elkhart	physically_unhealthy_days	3.1
+18041	Indiana	Fayette	physically_unhealthy_days	3.5
+18043	Indiana	Floyd	physically_unhealthy_days	3.5
+18045	Indiana	Fountain	physically_unhealthy_days	3.9
+18047	Indiana	Franklin	physically_unhealthy_days	4.8
+18049	Indiana	Fulton	physically_unhealthy_days	3.4
+18051	Indiana	Gibson	physically_unhealthy_days	4.1
+18053	Indiana	Grant	physically_unhealthy_days	4.3
+18055	Indiana	Greene	physically_unhealthy_days	3.8
+18057	Indiana	Hamilton	physically_unhealthy_days	2.3
+18059	Indiana	Hancock	physically_unhealthy_days	3.3
+18061	Indiana	Harrison	physically_unhealthy_days	3.5
+18063	Indiana	Hendricks	physically_unhealthy_days	2.8
+18065	Indiana	Henry	physically_unhealthy_days	4.1
+18067	Indiana	Howard	physically_unhealthy_days	5.1
+18069	Indiana	Huntington	physically_unhealthy_days	3.2
+18071	Indiana	Jackson	physically_unhealthy_days	4.2
+18073	Indiana	Jasper	physically_unhealthy_days	2.9
+18075	Indiana	Jay	physically_unhealthy_days	3.5
+18077	Indiana	Jefferson	physically_unhealthy_days	4.1
+18079	Indiana	Jennings	physically_unhealthy_days	5.1
+18081	Indiana	Johnson	physically_unhealthy_days	3.4
+18083	Indiana	Knox	physically_unhealthy_days	4.5
+18085	Indiana	Kosciusko	physically_unhealthy_days	3.2
+18087	Indiana	LaGrange	physically_unhealthy_days	3.1
+18089	Indiana	Lake	physically_unhealthy_days	3.7
+18091	Indiana	LaPorte	physically_unhealthy_days	3.5
+18093	Indiana	Lawrence	physically_unhealthy_days	3.8
+18095	Indiana	Madison	physically_unhealthy_days	4
+18097	Indiana	Marion	physically_unhealthy_days	3.6
+18099	Indiana	Marshall	physically_unhealthy_days	3.2
+18101	Indiana	Martin	physically_unhealthy_days	4.6
+18103	Indiana	Miami	physically_unhealthy_days	4.2
+18105	Indiana	Monroe	physically_unhealthy_days	3.6
+18107	Indiana	Montgomery	physically_unhealthy_days	3.9
+18109	Indiana	Morgan	physically_unhealthy_days	3.5
+18111	Indiana	Newton	physically_unhealthy_days	4.3
+18113	Indiana	Noble	physically_unhealthy_days	3.1
+18115	Indiana	Ohio	physically_unhealthy_days	
+18117	Indiana	Orange	physically_unhealthy_days	5
+18119	Indiana	Owen	physically_unhealthy_days	4.2
+18121	Indiana	Parke	physically_unhealthy_days	3.9
+18123	Indiana	Perry	physically_unhealthy_days	4.3
+18125	Indiana	Pike	physically_unhealthy_days	4.3
+18127	Indiana	Porter	physically_unhealthy_days	3.3
+18129	Indiana	Posey	physically_unhealthy_days	3.4
+18131	Indiana	Pulaski	physically_unhealthy_days	3.7
+18133	Indiana	Putnam	physically_unhealthy_days	2.7
+18135	Indiana	Randolph	physically_unhealthy_days	5
+18137	Indiana	Ripley	physically_unhealthy_days	3
+18139	Indiana	Rush	physically_unhealthy_days	3.1
+18141	Indiana	St. Joseph	physically_unhealthy_days	3.5
+18143	Indiana	Scott	physically_unhealthy_days	5.5
+18145	Indiana	Shelby	physically_unhealthy_days	4.8
+18147	Indiana	Spencer	physically_unhealthy_days	3.6
+18149	Indiana	Starke	physically_unhealthy_days	4.5
+18151	Indiana	Steuben	physically_unhealthy_days	3.2
+18153	Indiana	Sullivan	physically_unhealthy_days	4.6
+18155	Indiana	Switzerland	physically_unhealthy_days	5.2
+18157	Indiana	Tippecanoe	physically_unhealthy_days	3.2
+18159	Indiana	Tipton	physically_unhealthy_days	3.9
+18161	Indiana	Union	physically_unhealthy_days	3.5
+18163	Indiana	Vanderburgh	physically_unhealthy_days	4.6
+18165	Indiana	Vermillion	physically_unhealthy_days	4.7
+18167	Indiana	Vigo	physically_unhealthy_days	3.9
+18169	Indiana	Wabash	physically_unhealthy_days	3.7
+18171	Indiana	Warren	physically_unhealthy_days	4.1
+18173	Indiana	Warrick	physically_unhealthy_days	3
+18175	Indiana	Washington	physically_unhealthy_days	4.9
+18177	Indiana	Wayne	physically_unhealthy_days	3.8
+18179	Indiana	Wells	physically_unhealthy_days	2.8
+18181	Indiana	White	physically_unhealthy_days	4.1
+18183	Indiana	Whitley	physically_unhealthy_days	3.2
+19001	Iowa	Adair	physically_unhealthy_days	2.2
+19003	Iowa	Adams	physically_unhealthy_days	3.4
+19005	Iowa	Allamakee	physically_unhealthy_days	2.1
+19007	Iowa	Appanoose	physically_unhealthy_days	5.9
+19009	Iowa	Audubon	physically_unhealthy_days	2.3
+19011	Iowa	Benton	physically_unhealthy_days	2.1
+19013	Iowa	Black Hawk	physically_unhealthy_days	3
+19015	Iowa	Boone	physically_unhealthy_days	2.6
+19017	Iowa	Bremer	physically_unhealthy_days	2.4
+19019	Iowa	Buchanan	physically_unhealthy_days	4.3
+19021	Iowa	Buena Vista	physically_unhealthy_days	2.3
+19023	Iowa	Butler	physically_unhealthy_days	2.8
+19025	Iowa	Calhoun	physically_unhealthy_days	3
+19027	Iowa	Carroll	physically_unhealthy_days	2.4
+19029	Iowa	Cass	physically_unhealthy_days	2
+19031	Iowa	Cedar	physically_unhealthy_days	2.3
+19033	Iowa	Cerro Gordo	physically_unhealthy_days	3
+19035	Iowa	Cherokee	physically_unhealthy_days	3.1
+19037	Iowa	Chickasaw	physically_unhealthy_days	1.1
+19039	Iowa	Clarke	physically_unhealthy_days	1.7
+19041	Iowa	Clay	physically_unhealthy_days	2.1
+19043	Iowa	Clayton	physically_unhealthy_days	2.4
+19045	Iowa	Clinton	physically_unhealthy_days	4
+19047	Iowa	Crawford	physically_unhealthy_days	3.6
+19049	Iowa	Dallas	physically_unhealthy_days	2.8
+19051	Iowa	Davis	physically_unhealthy_days	2.5
+19053	Iowa	Decatur	physically_unhealthy_days	4.1
+19055	Iowa	Delaware	physically_unhealthy_days	2
+19057	Iowa	Des Moines	physically_unhealthy_days	3.8
+19059	Iowa	Dickinson	physically_unhealthy_days	2
+19061	Iowa	Dubuque	physically_unhealthy_days	2.3
+19063	Iowa	Emmet	physically_unhealthy_days	1.8
+19065	Iowa	Fayette	physically_unhealthy_days	3
+19067	Iowa	Floyd	physically_unhealthy_days	2.5
+19069	Iowa	Franklin	physically_unhealthy_days	2.6
+19071	Iowa	Fremont	physically_unhealthy_days	3.8
+19073	Iowa	Greene	physically_unhealthy_days	1.6
+19075	Iowa	Grundy	physically_unhealthy_days	2.5
+19077	Iowa	Guthrie	physically_unhealthy_days	2.9
+19079	Iowa	Hamilton	physically_unhealthy_days	2.6
+19081	Iowa	Hancock	physically_unhealthy_days	2.6
+19083	Iowa	Hardin	physically_unhealthy_days	2.6
+19085	Iowa	Harrison	physically_unhealthy_days	3.2
+19087	Iowa	Henry	physically_unhealthy_days	3.2
+19089	Iowa	Howard	physically_unhealthy_days	2.2
+19091	Iowa	Humboldt	physically_unhealthy_days	4.2
+19093	Iowa	Ida	physically_unhealthy_days	2.2
+19095	Iowa	Iowa	physically_unhealthy_days	2.8
+19097	Iowa	Jackson	physically_unhealthy_days	2.8
+19099	Iowa	Jasper	physically_unhealthy_days	2.7
+19101	Iowa	Jefferson	physically_unhealthy_days	2.2
+19103	Iowa	Johnson	physically_unhealthy_days	2.2
+19105	Iowa	Jones	physically_unhealthy_days	3.4
+19107	Iowa	Keokuk	physically_unhealthy_days	2.7
+19109	Iowa	Kossuth	physically_unhealthy_days	2.7
+19111	Iowa	Lee	physically_unhealthy_days	4
+19113	Iowa	Linn	physically_unhealthy_days	2.9
+19115	Iowa	Louisa	physically_unhealthy_days	3.1
+19117	Iowa	Lucas	physically_unhealthy_days	3.5
+19119	Iowa	Lyon	physically_unhealthy_days	1.7
+19121	Iowa	Madison	physically_unhealthy_days	3.1
+19123	Iowa	Mahaska	physically_unhealthy_days	2.9
+19125	Iowa	Marion	physically_unhealthy_days	2.6
+19127	Iowa	Marshall	physically_unhealthy_days	2.2
+19129	Iowa	Mills	physically_unhealthy_days	3.1
+19131	Iowa	Mitchell	physically_unhealthy_days	2.3
+19133	Iowa	Monona	physically_unhealthy_days	1.7
+19135	Iowa	Monroe	physically_unhealthy_days	4.1
+19137	Iowa	Montgomery	physically_unhealthy_days	4.2
+19139	Iowa	Muscatine	physically_unhealthy_days	3
+19141	Iowa	O'Brien	physically_unhealthy_days	1.8
+19143	Iowa	Osceola	physically_unhealthy_days	3.3
+19145	Iowa	Page	physically_unhealthy_days	3.4
+19147	Iowa	Palo Alto	physically_unhealthy_days	3.5
+19149	Iowa	Plymouth	physically_unhealthy_days	2.2
+19151	Iowa	Pocahontas	physically_unhealthy_days	2.3
+19153	Iowa	Polk	physically_unhealthy_days	2.9
+19155	Iowa	Pottawattamie	physically_unhealthy_days	3.1
+19157	Iowa	Poweshiek	physically_unhealthy_days	2.6
+19159	Iowa	Ringgold	physically_unhealthy_days	1.2
+19161	Iowa	Sac	physically_unhealthy_days	2.6
+19163	Iowa	Scott	physically_unhealthy_days	2.8
+19165	Iowa	Shelby	physically_unhealthy_days	2.2
+19167	Iowa	Sioux	physically_unhealthy_days	2
+19169	Iowa	Story	physically_unhealthy_days	2.4
+19171	Iowa	Tama	physically_unhealthy_days	3
+19173	Iowa	Taylor	physically_unhealthy_days	3.6
+19175	Iowa	Union	physically_unhealthy_days	1.9
+19177	Iowa	Van Buren	physically_unhealthy_days	4.4
+19179	Iowa	Wapello	physically_unhealthy_days	4
+19181	Iowa	Warren	physically_unhealthy_days	3.3
+19183	Iowa	Washington	physically_unhealthy_days	3.4
+19185	Iowa	Wayne	physically_unhealthy_days	2.8
+19187	Iowa	Webster	physically_unhealthy_days	3.5
+19189	Iowa	Winnebago	physically_unhealthy_days	2
+19191	Iowa	Winneshiek	physically_unhealthy_days	1.9
+19193	Iowa	Woodbury	physically_unhealthy_days	3.1
+19195	Iowa	Worth	physically_unhealthy_days	2.1
+19197	Iowa	Wright	physically_unhealthy_days	3.1
+20001	Kansas	Allen	physically_unhealthy_days	3.9
+20003	Kansas	Anderson	physically_unhealthy_days	2.8
+20005	Kansas	Atchison	physically_unhealthy_days	3.1
+20007	Kansas	Barber	physically_unhealthy_days	2.2
+20009	Kansas	Barton	physically_unhealthy_days	4.1
+20011	Kansas	Bourbon	physically_unhealthy_days	4.5
+20013	Kansas	Brown	physically_unhealthy_days	3.1
+20015	Kansas	Butler	physically_unhealthy_days	3
+20017	Kansas	Chase	physically_unhealthy_days	1.7
+20019	Kansas	Chautauqua	physically_unhealthy_days	2.7
+20021	Kansas	Cherokee	physically_unhealthy_days	4.1
+20023	Kansas	Cheyenne	physically_unhealthy_days	1.8
+20025	Kansas	Clark	physically_unhealthy_days	3.3
+20027	Kansas	Clay	physically_unhealthy_days	2.7
+20029	Kansas	Cloud	physically_unhealthy_days	3.2
+20031	Kansas	Coffey	physically_unhealthy_days	2.5
+20033	Kansas	Comanche	physically_unhealthy_days	2
+20035	Kansas	Cowley	physically_unhealthy_days	3.6
+20037	Kansas	Crawford	physically_unhealthy_days	3.4
+20039	Kansas	Decatur	physically_unhealthy_days	3.3
+20041	Kansas	Dickinson	physically_unhealthy_days	3.1
+20043	Kansas	Doniphan	physically_unhealthy_days	2.9
+20045	Kansas	Douglas	physically_unhealthy_days	2.9
+20047	Kansas	Edwards	physically_unhealthy_days	3.6
+20049	Kansas	Elk	physically_unhealthy_days	4.7
+20051	Kansas	Ellis	physically_unhealthy_days	2.7
+20053	Kansas	Ellsworth	physically_unhealthy_days	3.6
+20055	Kansas	Finney	physically_unhealthy_days	3
+20057	Kansas	Ford	physically_unhealthy_days	2.5
+20059	Kansas	Franklin	physically_unhealthy_days	3.1
+20061	Kansas	Geary	physically_unhealthy_days	3.8
+20063	Kansas	Gove	physically_unhealthy_days	1.6
+20065	Kansas	Graham	physically_unhealthy_days	2
+20067	Kansas	Grant	physically_unhealthy_days	2.8
+20069	Kansas	Gray	physically_unhealthy_days	3.1
+20071	Kansas	Greeley	physically_unhealthy_days	2.6
+20073	Kansas	Greenwood	physically_unhealthy_days	5
+20075	Kansas	Hamilton	physically_unhealthy_days	4.6
+20077	Kansas	Harper	physically_unhealthy_days	3
+20079	Kansas	Harvey	physically_unhealthy_days	2.5
+20081	Kansas	Haskell	physically_unhealthy_days	2.5
+20083	Kansas	Hodgeman	physically_unhealthy_days	3.6
+20085	Kansas	Jackson	physically_unhealthy_days	3.5
+20087	Kansas	Jefferson	physically_unhealthy_days	3.5
+20089	Kansas	Jewell	physically_unhealthy_days	3.6
+20091	Kansas	Johnson	physically_unhealthy_days	2.4
+20093	Kansas	Kearny	physically_unhealthy_days	1.5
+20095	Kansas	Kingman	physically_unhealthy_days	3.2
+20097	Kansas	Kiowa	physically_unhealthy_days	1.8
+20099	Kansas	Labette	physically_unhealthy_days	3.4
+20101	Kansas	Lane	physically_unhealthy_days	2.9
+20103	Kansas	Leavenworth	physically_unhealthy_days	3.1
+20105	Kansas	Lincoln	physically_unhealthy_days	1.9
+20107	Kansas	Linn	physically_unhealthy_days	3.2
+20109	Kansas	Logan	physically_unhealthy_days	2.9
+20111	Kansas	Lyon	physically_unhealthy_days	3.4
+20113	Kansas	McPherson	physically_unhealthy_days	2.5
+20115	Kansas	Marion	physically_unhealthy_days	2.3
+20117	Kansas	Marshall	physically_unhealthy_days	3.1
+20119	Kansas	Meade	physically_unhealthy_days	1.8
+20121	Kansas	Miami	physically_unhealthy_days	3.1
+20123	Kansas	Mitchell	physically_unhealthy_days	1.8
+20125	Kansas	Montgomery	physically_unhealthy_days	3.9
+20127	Kansas	Morris	physically_unhealthy_days	2.8
+20129	Kansas	Morton	physically_unhealthy_days	
+20131	Kansas	Nemaha	physically_unhealthy_days	1.8
+20133	Kansas	Neosho	physically_unhealthy_days	3.5
+20135	Kansas	Ness	physically_unhealthy_days	3.3
+20137	Kansas	Norton	physically_unhealthy_days	2.6
+20139	Kansas	Osage	physically_unhealthy_days	3.7
+20141	Kansas	Osborne	physically_unhealthy_days	2.3
+20143	Kansas	Ottawa	physically_unhealthy_days	2.9
+20145	Kansas	Pawnee	physically_unhealthy_days	2.7
+20147	Kansas	Phillips	physically_unhealthy_days	2.4
+20149	Kansas	Pottawatomie	physically_unhealthy_days	2.1
+20151	Kansas	Pratt	physically_unhealthy_days	3.3
+20153	Kansas	Rawlins	physically_unhealthy_days	2.5
+20155	Kansas	Reno	physically_unhealthy_days	3.1
+20157	Kansas	Republic	physically_unhealthy_days	3
+20159	Kansas	Rice	physically_unhealthy_days	3.6
+20161	Kansas	Riley	physically_unhealthy_days	2.2
+20163	Kansas	Rooks	physically_unhealthy_days	2.9
+20165	Kansas	Rush	physically_unhealthy_days	3.4
+20167	Kansas	Russell	physically_unhealthy_days	3.2
+20169	Kansas	Saline	physically_unhealthy_days	3.2
+20171	Kansas	Scott	physically_unhealthy_days	2.8
+20173	Kansas	Sedgwick	physically_unhealthy_days	3.2
+20175	Kansas	Seward	physically_unhealthy_days	3.5
+20177	Kansas	Shawnee	physically_unhealthy_days	3.2
+20179	Kansas	Sheridan	physically_unhealthy_days	0.7
+20181	Kansas	Sherman	physically_unhealthy_days	3.3
+20183	Kansas	Smith	physically_unhealthy_days	1.6
+20185	Kansas	Stafford	physically_unhealthy_days	5
+20187	Kansas	Stanton	physically_unhealthy_days	2.9
+20189	Kansas	Stevens	physically_unhealthy_days	2.5
+20191	Kansas	Sumner	physically_unhealthy_days	3.6
+20193	Kansas	Thomas	physically_unhealthy_days	2.4
+20195	Kansas	Trego	physically_unhealthy_days	3.9
+20197	Kansas	Wabaunsee	physically_unhealthy_days	3.2
+20199	Kansas	Wallace	physically_unhealthy_days	2.4
+20201	Kansas	Washington	physically_unhealthy_days	2.5
+20203	Kansas	Wichita	physically_unhealthy_days	3.2
+20205	Kansas	Wilson	physically_unhealthy_days	3.3
+20207	Kansas	Woodson	physically_unhealthy_days	4.8
+20209	Kansas	Wyandotte	physically_unhealthy_days	3.9
+21001	Kentucky	Adair	physically_unhealthy_days	5.8
+21003	Kentucky	Allen	physically_unhealthy_days	5.3
+21005	Kentucky	Anderson	physically_unhealthy_days	3.4
+21007	Kentucky	Ballard	physically_unhealthy_days	6.6
+21009	Kentucky	Barren	physically_unhealthy_days	4.7
+21011	Kentucky	Bath	physically_unhealthy_days	5.1
+21013	Kentucky	Bell	physically_unhealthy_days	7.2
+21015	Kentucky	Boone	physically_unhealthy_days	3.5
+21017	Kentucky	Bourbon	physically_unhealthy_days	3.3
+21019	Kentucky	Boyd	physically_unhealthy_days	5.6
+21021	Kentucky	Boyle	physically_unhealthy_days	3.9
+21023	Kentucky	Bracken	physically_unhealthy_days	4.6
+21025	Kentucky	Breathitt	physically_unhealthy_days	6.6
+21027	Kentucky	Breckinridge	physically_unhealthy_days	4.3
+21029	Kentucky	Bullitt	physically_unhealthy_days	5.9
+21031	Kentucky	Butler	physically_unhealthy_days	6.1
+21033	Kentucky	Caldwell	physically_unhealthy_days	4
+21035	Kentucky	Calloway	physically_unhealthy_days	3.6
+21037	Kentucky	Campbell	physically_unhealthy_days	4
+21039	Kentucky	Carlisle	physically_unhealthy_days	
+21041	Kentucky	Carroll	physically_unhealthy_days	6
+21043	Kentucky	Carter	physically_unhealthy_days	5.6
+21045	Kentucky	Casey	physically_unhealthy_days	6.3
+21047	Kentucky	Christian	physically_unhealthy_days	4.4
+21049	Kentucky	Clark	physically_unhealthy_days	6.6
+21051	Kentucky	Clay	physically_unhealthy_days	7.9
+21053	Kentucky	Clinton	physically_unhealthy_days	6.1
+21055	Kentucky	Crittenden	physically_unhealthy_days	7.2
+21057	Kentucky	Cumberland	physically_unhealthy_days	6.4
+21059	Kentucky	Daviess	physically_unhealthy_days	3.7
+21061	Kentucky	Edmonson	physically_unhealthy_days	6.1
+21063	Kentucky	Elliott	physically_unhealthy_days	5.4
+21065	Kentucky	Estill	physically_unhealthy_days	4
+21067	Kentucky	Fayette	physically_unhealthy_days	3.5
+21069	Kentucky	Fleming	physically_unhealthy_days	5.4
+21071	Kentucky	Floyd	physically_unhealthy_days	8.1
+21073	Kentucky	Franklin	physically_unhealthy_days	3.7
+21075	Kentucky	Fulton	physically_unhealthy_days	
+21077	Kentucky	Gallatin	physically_unhealthy_days	
+21079	Kentucky	Garrard	physically_unhealthy_days	4.6
+21081	Kentucky	Grant	physically_unhealthy_days	5
+21083	Kentucky	Graves	physically_unhealthy_days	4.1
+21085	Kentucky	Grayson	physically_unhealthy_days	5.4
+21087	Kentucky	Green	physically_unhealthy_days	6.6
+21089	Kentucky	Greenup	physically_unhealthy_days	5.5
+21091	Kentucky	Hancock	physically_unhealthy_days	3.5
+21093	Kentucky	Hardin	physically_unhealthy_days	4.4
+21095	Kentucky	Harlan	physically_unhealthy_days	7.6
+21097	Kentucky	Harrison	physically_unhealthy_days	3.6
+21099	Kentucky	Hart	physically_unhealthy_days	5.7
+21101	Kentucky	Henderson	physically_unhealthy_days	4.6
+21103	Kentucky	Henry	physically_unhealthy_days	4.2
+21105	Kentucky	Hickman	physically_unhealthy_days	
+21107	Kentucky	Hopkins	physically_unhealthy_days	4.8
+21109	Kentucky	Jackson	physically_unhealthy_days	7.6
+21111	Kentucky	Jefferson	physically_unhealthy_days	4.1
+21113	Kentucky	Jessamine	physically_unhealthy_days	4
+21115	Kentucky	Johnson	physically_unhealthy_days	6.3
+21117	Kentucky	Kenton	physically_unhealthy_days	3.8
+21119	Kentucky	Knott	physically_unhealthy_days	6.2
+21121	Kentucky	Knox	physically_unhealthy_days	7.3
+21123	Kentucky	Larue	physically_unhealthy_days	4.5
+21125	Kentucky	Laurel	physically_unhealthy_days	5.8
+21127	Kentucky	Lawrence	physically_unhealthy_days	5.4
+21129	Kentucky	Lee	physically_unhealthy_days	7.8
+21131	Kentucky	Leslie	physically_unhealthy_days	8.2
+21133	Kentucky	Letcher	physically_unhealthy_days	6.8
+21135	Kentucky	Lewis	physically_unhealthy_days	5.8
+21137	Kentucky	Lincoln	physically_unhealthy_days	7.7
+21139	Kentucky	Livingston	physically_unhealthy_days	7.4
+21141	Kentucky	Logan	physically_unhealthy_days	4.1
+21143	Kentucky	Lyon	physically_unhealthy_days	4
+21145	Kentucky	McCracken	physically_unhealthy_days	4.1
+21147	Kentucky	McCreary	physically_unhealthy_days	8
+21149	Kentucky	McLean	physically_unhealthy_days	5.3
+21151	Kentucky	Madison	physically_unhealthy_days	4.1
+21153	Kentucky	Magoffin	physically_unhealthy_days	6.6
+21155	Kentucky	Marion	physically_unhealthy_days	4.8
+21157	Kentucky	Marshall	physically_unhealthy_days	4.2
+21159	Kentucky	Martin	physically_unhealthy_days	7.4
+21161	Kentucky	Mason	physically_unhealthy_days	3.8
+21163	Kentucky	Meade	physically_unhealthy_days	4.8
+21165	Kentucky	Menifee	physically_unhealthy_days	7.1
+21167	Kentucky	Mercer	physically_unhealthy_days	4.4
+21169	Kentucky	Metcalfe	physically_unhealthy_days	4.7
+21171	Kentucky	Monroe	physically_unhealthy_days	5
+21173	Kentucky	Montgomery	physically_unhealthy_days	5.2
+21175	Kentucky	Morgan	physically_unhealthy_days	5.5
+21177	Kentucky	Muhlenberg	physically_unhealthy_days	4.6
+21179	Kentucky	Nelson	physically_unhealthy_days	4.2
+21181	Kentucky	Nicholas	physically_unhealthy_days	
+21183	Kentucky	Ohio	physically_unhealthy_days	5.1
+21185	Kentucky	Oldham	physically_unhealthy_days	2.7
+21187	Kentucky	Owen	physically_unhealthy_days	4.3
+21189	Kentucky	Owsley	physically_unhealthy_days	
+21191	Kentucky	Pendleton	physically_unhealthy_days	5.3
+21193	Kentucky	Perry	physically_unhealthy_days	7.2
+21195	Kentucky	Pike	physically_unhealthy_days	7.8
+21197	Kentucky	Powell	physically_unhealthy_days	5.4
+21199	Kentucky	Pulaski	physically_unhealthy_days	4.7
+21201	Kentucky	Robertson	physically_unhealthy_days	6.9
+21203	Kentucky	Rockcastle	physically_unhealthy_days	6.7
+21205	Kentucky	Rowan	physically_unhealthy_days	5.1
+21207	Kentucky	Russell	physically_unhealthy_days	4.5
+21209	Kentucky	Scott	physically_unhealthy_days	5.4
+21211	Kentucky	Shelby	physically_unhealthy_days	3.7
+21213	Kentucky	Simpson	physically_unhealthy_days	4.3
+21215	Kentucky	Spencer	physically_unhealthy_days	3.4
+21217	Kentucky	Taylor	physically_unhealthy_days	4
+21219	Kentucky	Todd	physically_unhealthy_days	5.8
+21221	Kentucky	Trigg	physically_unhealthy_days	4.3
+21223	Kentucky	Trimble	physically_unhealthy_days	5.7
+21225	Kentucky	Union	physically_unhealthy_days	4.9
+21227	Kentucky	Warren	physically_unhealthy_days	4.4
+21229	Kentucky	Washington	physically_unhealthy_days	3.1
+21231	Kentucky	Wayne	physically_unhealthy_days	6
+21233	Kentucky	Webster	physically_unhealthy_days	4
+21235	Kentucky	Whitley	physically_unhealthy_days	6.5
+21237	Kentucky	Wolfe	physically_unhealthy_days	6.1
+21239	Kentucky	Woodford	physically_unhealthy_days	3.2
+22001	Louisiana	Acadia	physically_unhealthy_days	4.1
+22003	Louisiana	Allen	physically_unhealthy_days	6.5
+22005	Louisiana	Ascension	physically_unhealthy_days	3.8
+22007	Louisiana	Assumption	physically_unhealthy_days	5
+22009	Louisiana	Avoyelles	physically_unhealthy_days	4.7
+22011	Louisiana	Beauregard	physically_unhealthy_days	4.3
+22013	Louisiana	Bienville	physically_unhealthy_days	3.7
+22015	Louisiana	Bossier	physically_unhealthy_days	3.5
+22017	Louisiana	Caddo	physically_unhealthy_days	3.7
+22019	Louisiana	Calcasieu	physically_unhealthy_days	3.7
+22021	Louisiana	Caldwell	physically_unhealthy_days	5
+22023	Louisiana	Cameron	physically_unhealthy_days	2.7
+22025	Louisiana	Catahoula	physically_unhealthy_days	4.8
+22027	Louisiana	Claiborne	physically_unhealthy_days	3.8
+22029	Louisiana	Concordia	physically_unhealthy_days	4.2
+22031	Louisiana	De Soto	physically_unhealthy_days	3.8
+22033	Louisiana	East Baton Rouge	physically_unhealthy_days	3.1
+22035	Louisiana	East Carroll	physically_unhealthy_days	3.1
+22037	Louisiana	East Feliciana	physically_unhealthy_days	2.7
+22039	Louisiana	Evangeline	physically_unhealthy_days	4.6
+22041	Louisiana	Franklin	physically_unhealthy_days	4.5
+22043	Louisiana	Grant	physically_unhealthy_days	5.8
+22045	Louisiana	Iberia	physically_unhealthy_days	4.2
+22047	Louisiana	Iberville	physically_unhealthy_days	4.1
+22049	Louisiana	Jackson	physically_unhealthy_days	5.1
+22051	Louisiana	Jefferson	physically_unhealthy_days	3.9
+22053	Louisiana	Jefferson Davis	physically_unhealthy_days	4.6
+22055	Louisiana	Lafayette	physically_unhealthy_days	3.4
+22057	Louisiana	Lafourche	physically_unhealthy_days	3.6
+22059	Louisiana	La Salle	physically_unhealthy_days	3
+22061	Louisiana	Lincoln	physically_unhealthy_days	4
+22063	Louisiana	Livingston	physically_unhealthy_days	4.3
+22065	Louisiana	Madison	physically_unhealthy_days	2.7
+22067	Louisiana	Morehouse	physically_unhealthy_days	5.2
+22069	Louisiana	Natchitoches	physically_unhealthy_days	4.3
+22071	Louisiana	Orleans	physically_unhealthy_days	3.6
+22073	Louisiana	Ouachita	physically_unhealthy_days	3.6
+22075	Louisiana	Plaquemines	physically_unhealthy_days	3.3
+22077	Louisiana	Pointe Coupee	physically_unhealthy_days	2.6
+22079	Louisiana	Rapides	physically_unhealthy_days	3.9
+22081	Louisiana	Red River	physically_unhealthy_days	4.8
+22083	Louisiana	Richland	physically_unhealthy_days	3.7
+22085	Louisiana	Sabine	physically_unhealthy_days	5.7
+22087	Louisiana	St. Bernard	physically_unhealthy_days	4.4
+22089	Louisiana	St. Charles	physically_unhealthy_days	3.6
+22091	Louisiana	St. Helena	physically_unhealthy_days	4
+22093	Louisiana	St. James	physically_unhealthy_days	3.8
+22095	Louisiana	St. John the Baptist	physically_unhealthy_days	3.8
+22097	Louisiana	St. Landry	physically_unhealthy_days	4.3
+22099	Louisiana	St. Martin	physically_unhealthy_days	4.4
+22101	Louisiana	St. Mary	physically_unhealthy_days	4.2
+22103	Louisiana	St. Tammany	physically_unhealthy_days	3.3
+22105	Louisiana	Tangipahoa	physically_unhealthy_days	3.9
+22107	Louisiana	Tensas	physically_unhealthy_days	3
+22109	Louisiana	Terrebonne	physically_unhealthy_days	4.1
+22111	Louisiana	Union	physically_unhealthy_days	4.6
+22113	Louisiana	Vermilion	physically_unhealthy_days	3.8
+22115	Louisiana	Vernon	physically_unhealthy_days	4.6
+22117	Louisiana	Washington	physically_unhealthy_days	5.3
+22119	Louisiana	Webster	physically_unhealthy_days	3.8
+22121	Louisiana	West Baton Rouge	physically_unhealthy_days	4.2
+22123	Louisiana	West Carroll	physically_unhealthy_days	3.6
+22125	Louisiana	West Feliciana	physically_unhealthy_days	3.5
+22127	Louisiana	Winn	physically_unhealthy_days	5.6
+23001	Maine	Androscoggin	physically_unhealthy_days	3.6
+23003	Maine	Aroostook	physically_unhealthy_days	4.2
+23005	Maine	Cumberland	physically_unhealthy_days	2.9
+23007	Maine	Franklin	physically_unhealthy_days	3.5
+23009	Maine	Hancock	physically_unhealthy_days	3.4
+23011	Maine	Kennebec	physically_unhealthy_days	3.7
+23013	Maine	Knox	physically_unhealthy_days	3.6
+23015	Maine	Lincoln	physically_unhealthy_days	3.1
+23017	Maine	Oxford	physically_unhealthy_days	4
+23019	Maine	Penobscot	physically_unhealthy_days	4
+23021	Maine	Piscataquis	physically_unhealthy_days	4.5
+23023	Maine	Sagadahoc	physically_unhealthy_days	3.4
+23025	Maine	Somerset	physically_unhealthy_days	4.4
+23027	Maine	Waldo	physically_unhealthy_days	3.8
+23029	Maine	Washington	physically_unhealthy_days	4.1
+23031	Maine	York	physically_unhealthy_days	3.4
+24001	Maryland	Allegany	physically_unhealthy_days	4.5
+24003	Maryland	Anne Arundel	physically_unhealthy_days	3.1
+24005	Maryland	Baltimore	physically_unhealthy_days	3.2
+24009	Maryland	Calvert	physically_unhealthy_days	3.5
+24011	Maryland	Caroline	physically_unhealthy_days	4
+24013	Maryland	Carroll	physically_unhealthy_days	3.1
+24015	Maryland	Cecil	physically_unhealthy_days	3.9
+24017	Maryland	Charles	physically_unhealthy_days	3.1
+24019	Maryland	Dorchester	physically_unhealthy_days	3
+24021	Maryland	Frederick	physically_unhealthy_days	2.7
+24023	Maryland	Garrett	physically_unhealthy_days	3.6
+24025	Maryland	Harford	physically_unhealthy_days	3.4
+24027	Maryland	Howard	physically_unhealthy_days	2.4
+24029	Maryland	Kent	physically_unhealthy_days	3.8
+24031	Maryland	Montgomery	physically_unhealthy_days	2.5
+24033	Maryland	Prince George's	physically_unhealthy_days	2.8
+24035	Maryland	Queen Anne's	physically_unhealthy_days	3.1
+24037	Maryland	St. Mary's	physically_unhealthy_days	3.2
+24039	Maryland	Somerset	physically_unhealthy_days	3.1
+24041	Maryland	Talbot	physically_unhealthy_days	3.1
+24043	Maryland	Washington	physically_unhealthy_days	3.5
+24045	Maryland	Wicomico	physically_unhealthy_days	3.3
+24047	Maryland	Worcester	physically_unhealthy_days	3.1
+24510	Maryland	Baltimore City	physically_unhealthy_days	3.7
+25001	Massachusetts	Barnstable	physically_unhealthy_days	2.6
+25003	Massachusetts	Berkshire	physically_unhealthy_days	3.8
+25005	Massachusetts	Bristol	physically_unhealthy_days	3.7
+25007	Massachusetts	Dukes	physically_unhealthy_days	3.7
+25009	Massachusetts	Essex	physically_unhealthy_days	3.1
+25011	Massachusetts	Franklin	physically_unhealthy_days	3.6
+25013	Massachusetts	Hampden	physically_unhealthy_days	3.7
+25015	Massachusetts	Hampshire	physically_unhealthy_days	3.2
+25017	Massachusetts	Middlesex	physically_unhealthy_days	2.7
+25019	Massachusetts	Nantucket	physically_unhealthy_days	2.6
+25021	Massachusetts	Norfolk	physically_unhealthy_days	2.9
+25023	Massachusetts	Plymouth	physically_unhealthy_days	3.2
+25025	Massachusetts	Suffolk	physically_unhealthy_days	3.4
+25027	Massachusetts	Worcester	physically_unhealthy_days	3.4
+26001	Michigan	Alcona	physically_unhealthy_days	3.7
+26003	Michigan	Alger	physically_unhealthy_days	1.8
+26005	Michigan	Allegan	physically_unhealthy_days	3
+26007	Michigan	Alpena	physically_unhealthy_days	4.6
+26009	Michigan	Antrim	physically_unhealthy_days	4
+26011	Michigan	Arenac	physically_unhealthy_days	4.7
+26013	Michigan	Baraga	physically_unhealthy_days	4.7
+26015	Michigan	Barry	physically_unhealthy_days	3.5
+26017	Michigan	Bay	physically_unhealthy_days	3.4
+26019	Michigan	Benzie	physically_unhealthy_days	2.8
+26021	Michigan	Berrien	physically_unhealthy_days	3.4
+26023	Michigan	Branch	physically_unhealthy_days	4.7
+26025	Michigan	Calhoun	physically_unhealthy_days	4.1
+26027	Michigan	Cass	physically_unhealthy_days	2.8
+26029	Michigan	Charlevoix	physically_unhealthy_days	2.8
+26031	Michigan	Cheboygan	physically_unhealthy_days	4
+26033	Michigan	Chippewa	physically_unhealthy_days	3.2
+26035	Michigan	Clare	physically_unhealthy_days	4.9
+26037	Michigan	Clinton	physically_unhealthy_days	3.6
+26039	Michigan	Crawford	physically_unhealthy_days	4.4
+26041	Michigan	Delta	physically_unhealthy_days	3.7
+26043	Michigan	Dickinson	physically_unhealthy_days	4.1
+26045	Michigan	Eaton	physically_unhealthy_days	3.1
+26047	Michigan	Emmet	physically_unhealthy_days	3.3
+26049	Michigan	Genesee	physically_unhealthy_days	4.2
+26051	Michigan	Gladwin	physically_unhealthy_days	4.3
+26053	Michigan	Gogebic	physically_unhealthy_days	3.4
+26055	Michigan	Grand Traverse	physically_unhealthy_days	2.7
+26057	Michigan	Gratiot	physically_unhealthy_days	4.1
+26059	Michigan	Hillsdale	physically_unhealthy_days	3.6
+26061	Michigan	Houghton	physically_unhealthy_days	4.2
+26063	Michigan	Huron	physically_unhealthy_days	2.7
+26065	Michigan	Ingham	physically_unhealthy_days	3.7
+26067	Michigan	Ionia	physically_unhealthy_days	3.7
+26069	Michigan	Iosco	physically_unhealthy_days	4
+26071	Michigan	Iron	physically_unhealthy_days	4.8
+26073	Michigan	Isabella	physically_unhealthy_days	3.2
+26075	Michigan	Jackson	physically_unhealthy_days	3.8
+26077	Michigan	Kalamazoo	physically_unhealthy_days	3.7
+26079	Michigan	Kalkaska	physically_unhealthy_days	5.5
+26081	Michigan	Kent	physically_unhealthy_days	3.3
+26083	Michigan	Keweenaw	physically_unhealthy_days	
+26085	Michigan	Lake	physically_unhealthy_days	
+26087	Michigan	Lapeer	physically_unhealthy_days	3.4
+26089	Michigan	Leelanau	physically_unhealthy_days	3.5
+26091	Michigan	Lenawee	physically_unhealthy_days	3.1
+26093	Michigan	Livingston	physically_unhealthy_days	2.9
+26095	Michigan	Luce	physically_unhealthy_days	1.9
+26097	Michigan	Mackinac	physically_unhealthy_days	3.1
+26099	Michigan	Macomb	physically_unhealthy_days	3.4
+26101	Michigan	Manistee	physically_unhealthy_days	3.9
+26103	Michigan	Marquette	physically_unhealthy_days	3.4
+26105	Michigan	Mason	physically_unhealthy_days	4.4
+26107	Michigan	Mecosta	physically_unhealthy_days	3.5
+26109	Michigan	Menominee	physically_unhealthy_days	3.2
+26111	Michigan	Midland	physically_unhealthy_days	2.9
+26113	Michigan	Missaukee	physically_unhealthy_days	4.1
+26115	Michigan	Monroe	physically_unhealthy_days	3.5
+26117	Michigan	Montcalm	physically_unhealthy_days	2.8
+26119	Michigan	Montmorency	physically_unhealthy_days	4.2
+26121	Michigan	Muskegon	physically_unhealthy_days	4.6
+26123	Michigan	Newaygo	physically_unhealthy_days	3.7
+26125	Michigan	Oakland	physically_unhealthy_days	3.1
+26127	Michigan	Oceana	physically_unhealthy_days	5.1
+26129	Michigan	Ogemaw	physically_unhealthy_days	2.9
+26131	Michigan	Ontonagon	physically_unhealthy_days	
+26133	Michigan	Osceola	physically_unhealthy_days	4.1
+26135	Michigan	Oscoda	physically_unhealthy_days	
+26137	Michigan	Otsego	physically_unhealthy_days	3.5
+26139	Michigan	Ottawa	physically_unhealthy_days	2.6
+26141	Michigan	Presque Isle	physically_unhealthy_days	5
+26143	Michigan	Roscommon	physically_unhealthy_days	4.1
+26145	Michigan	Saginaw	physically_unhealthy_days	3.8
+26147	Michigan	St. Clair	physically_unhealthy_days	4
+26149	Michigan	St. Joseph	physically_unhealthy_days	3.6
+26151	Michigan	Sanilac	physically_unhealthy_days	3.2
+26153	Michigan	Schoolcraft	physically_unhealthy_days	3.9
+26155	Michigan	Shiawassee	physically_unhealthy_days	3.5
+26157	Michigan	Tuscola	physically_unhealthy_days	3.5
+26159	Michigan	Van Buren	physically_unhealthy_days	3.2
+26161	Michigan	Washtenaw	physically_unhealthy_days	2.8
+26163	Michigan	Wayne	physically_unhealthy_days	3.8
+26165	Michigan	Wexford	physically_unhealthy_days	3.4
+27001	Minnesota	Aitkin	physically_unhealthy_days	3
+27003	Minnesota	Anoka	physically_unhealthy_days	3.1
+27005	Minnesota	Becker	physically_unhealthy_days	2.8
+27007	Minnesota	Beltrami	physically_unhealthy_days	2.8
+27009	Minnesota	Benton	physically_unhealthy_days	3.4
+27011	Minnesota	Big Stone	physically_unhealthy_days	2.6
+27013	Minnesota	Blue Earth	physically_unhealthy_days	2.3
+27015	Minnesota	Brown	physically_unhealthy_days	2.7
+27017	Minnesota	Carlton	physically_unhealthy_days	3.6
+27019	Minnesota	Carver	physically_unhealthy_days	2.6
+27021	Minnesota	Cass	physically_unhealthy_days	3.1
+27023	Minnesota	Chippewa	physically_unhealthy_days	2.6
+27025	Minnesota	Chisago	physically_unhealthy_days	3.1
+27027	Minnesota	Clay	physically_unhealthy_days	2.8
+27029	Minnesota	Clearwater	physically_unhealthy_days	3.1
+27031	Minnesota	Cook	physically_unhealthy_days	3.4
+27033	Minnesota	Cottonwood	physically_unhealthy_days	4
+27035	Minnesota	Crow Wing	physically_unhealthy_days	3.5
+27037	Minnesota	Dakota	physically_unhealthy_days	2.8
+27039	Minnesota	Dodge	physically_unhealthy_days	2.2
+27041	Minnesota	Douglas	physically_unhealthy_days	2.8
+27043	Minnesota	Faribault	physically_unhealthy_days	3.1
+27045	Minnesota	Fillmore	physically_unhealthy_days	3.6
+27047	Minnesota	Freeborn	physically_unhealthy_days	4.5
+27049	Minnesota	Goodhue	physically_unhealthy_days	2.5
+27051	Minnesota	Grant	physically_unhealthy_days	
+27053	Minnesota	Hennepin	physically_unhealthy_days	2.8
+27055	Minnesota	Houston	physically_unhealthy_days	2.3
+27057	Minnesota	Hubbard	physically_unhealthy_days	2.8
+27059	Minnesota	Isanti	physically_unhealthy_days	4
+27061	Minnesota	Itasca	physically_unhealthy_days	2.6
+27063	Minnesota	Jackson	physically_unhealthy_days	2.6
+27065	Minnesota	Kanabec	physically_unhealthy_days	3.1
+27067	Minnesota	Kandiyohi	physically_unhealthy_days	2.9
+27069	Minnesota	Kittson	physically_unhealthy_days	
+27071	Minnesota	Koochiching	physically_unhealthy_days	3.8
+27073	Minnesota	Lac qui Parle	physically_unhealthy_days	1.9
+27075	Minnesota	Lake	physically_unhealthy_days	3.9
+27077	Minnesota	Lake of the Woods	physically_unhealthy_days	
+27079	Minnesota	Le Sueur	physically_unhealthy_days	3.2
+27081	Minnesota	Lincoln	physically_unhealthy_days	2.3
+27083	Minnesota	Lyon	physically_unhealthy_days	1.5
+27085	Minnesota	McLeod	physically_unhealthy_days	2.6
+27087	Minnesota	Mahnomen	physically_unhealthy_days	3.1
+27089	Minnesota	Marshall	physically_unhealthy_days	1.9
+27091	Minnesota	Martin	physically_unhealthy_days	1.5
+27093	Minnesota	Meeker	physically_unhealthy_days	2.5
+27095	Minnesota	Mille Lacs	physically_unhealthy_days	3.6
+27097	Minnesota	Morrison	physically_unhealthy_days	3.7
+27099	Minnesota	Mower	physically_unhealthy_days	3.2
+27101	Minnesota	Murray	physically_unhealthy_days	4.4
+27103	Minnesota	Nicollet	physically_unhealthy_days	2.8
+27105	Minnesota	Nobles	physically_unhealthy_days	3.1
+27107	Minnesota	Norman	physically_unhealthy_days	
+27109	Minnesota	Olmsted	physically_unhealthy_days	2.4
+27111	Minnesota	Otter Tail	physically_unhealthy_days	3.2
+27113	Minnesota	Pennington	physically_unhealthy_days	3.3
+27115	Minnesota	Pine	physically_unhealthy_days	3.1
+27117	Minnesota	Pipestone	physically_unhealthy_days	
+27119	Minnesota	Polk	physically_unhealthy_days	2.5
+27121	Minnesota	Pope	physically_unhealthy_days	2.5
+27123	Minnesota	Ramsey	physically_unhealthy_days	2.7
+27125	Minnesota	Red Lake	physically_unhealthy_days	1.5
+27127	Minnesota	Redwood	physically_unhealthy_days	1.3
+27129	Minnesota	Renville	physically_unhealthy_days	2.5
+27131	Minnesota	Rice	physically_unhealthy_days	2.5
+27133	Minnesota	Rock	physically_unhealthy_days	3.9
+27135	Minnesota	Roseau	physically_unhealthy_days	3.6
+27137	Minnesota	St. Louis	physically_unhealthy_days	3.2
+27139	Minnesota	Scott	physically_unhealthy_days	2.7
+27141	Minnesota	Sherburne	physically_unhealthy_days	3.3
+27143	Minnesota	Sibley	physically_unhealthy_days	4.2
+27145	Minnesota	Stearns	physically_unhealthy_days	2.9
+27147	Minnesota	Steele	physically_unhealthy_days	2.9
+27149	Minnesota	Stevens	physically_unhealthy_days	2.9
+27151	Minnesota	Swift	physically_unhealthy_days	2.5
+27153	Minnesota	Todd	physically_unhealthy_days	4.4
+27155	Minnesota	Traverse	physically_unhealthy_days	
+27157	Minnesota	Wabasha	physically_unhealthy_days	2.5
+27159	Minnesota	Wadena	physically_unhealthy_days	3.1
+27161	Minnesota	Waseca	physically_unhealthy_days	2.3
+27163	Minnesota	Washington	physically_unhealthy_days	2.9
+27165	Minnesota	Watonwan	physically_unhealthy_days	
+27167	Minnesota	Wilkin	physically_unhealthy_days	
+27169	Minnesota	Winona	physically_unhealthy_days	2.4
+27171	Minnesota	Wright	physically_unhealthy_days	3.1
+27173	Minnesota	Yellow Medicine	physically_unhealthy_days	3.3
+28001	Mississippi	Adams	physically_unhealthy_days	4.9
+28003	Mississippi	Alcorn	physically_unhealthy_days	4.8
+28005	Mississippi	Amite	physically_unhealthy_days	4.5
+28007	Mississippi	Attala	physically_unhealthy_days	4.7
+28009	Mississippi	Benton	physically_unhealthy_days	3.7
+28011	Mississippi	Bolivar	physically_unhealthy_days	3.7
+28013	Mississippi	Calhoun	physically_unhealthy_days	3.8
+28015	Mississippi	Carroll	physically_unhealthy_days	4.5
+28017	Mississippi	Chickasaw	physically_unhealthy_days	4.8
+28019	Mississippi	Choctaw	physically_unhealthy_days	4.1
+28021	Mississippi	Claiborne	physically_unhealthy_days	4.4
+28023	Mississippi	Clarke	physically_unhealthy_days	4
+28025	Mississippi	Clay	physically_unhealthy_days	3.5
+28027	Mississippi	Coahoma	physically_unhealthy_days	4.4
+28029	Mississippi	Copiah	physically_unhealthy_days	4.8
+28031	Mississippi	Covington	physically_unhealthy_days	5
+28033	Mississippi	DeSoto	physically_unhealthy_days	3.3
+28035	Mississippi	Forrest	physically_unhealthy_days	3.9
+28037	Mississippi	Franklin	physically_unhealthy_days	5.5
+28039	Mississippi	George	physically_unhealthy_days	4.5
+28041	Mississippi	Greene	physically_unhealthy_days	4.4
+28043	Mississippi	Grenada	physically_unhealthy_days	4.8
+28045	Mississippi	Hancock	physically_unhealthy_days	4.9
+28047	Mississippi	Harrison	physically_unhealthy_days	4.1
+28049	Mississippi	Hinds	physically_unhealthy_days	3.5
+28051	Mississippi	Holmes	physically_unhealthy_days	4.4
+28053	Mississippi	Humphreys	physically_unhealthy_days	2.4
+28055	Mississippi	Issaquena	physically_unhealthy_days	
+28057	Mississippi	Itawamba	physically_unhealthy_days	4.8
+28059	Mississippi	Jackson	physically_unhealthy_days	4
+28061	Mississippi	Jasper	physically_unhealthy_days	4.8
+28063	Mississippi	Jefferson	physically_unhealthy_days	4.8
+28065	Mississippi	Jefferson Davis	physically_unhealthy_days	4.3
+28067	Mississippi	Jones	physically_unhealthy_days	4
+28069	Mississippi	Kemper	physically_unhealthy_days	4.3
+28071	Mississippi	Lafayette	physically_unhealthy_days	3.4
+28073	Mississippi	Lamar	physically_unhealthy_days	3.4
+28075	Mississippi	Lauderdale	physically_unhealthy_days	3.9
+28077	Mississippi	Lawrence	physically_unhealthy_days	4.4
+28079	Mississippi	Leake	physically_unhealthy_days	4.7
+28081	Mississippi	Lee	physically_unhealthy_days	4.1
+28083	Mississippi	Leflore	physically_unhealthy_days	4
+28085	Mississippi	Lincoln	physically_unhealthy_days	4.7
+28087	Mississippi	Lowndes	physically_unhealthy_days	3.8
+28089	Mississippi	Madison	physically_unhealthy_days	3.1
+28091	Mississippi	Marion	physically_unhealthy_days	5.6
+28093	Mississippi	Marshall	physically_unhealthy_days	4.2
+28095	Mississippi	Monroe	physically_unhealthy_days	5
+28097	Mississippi	Montgomery	physically_unhealthy_days	3.6
+28099	Mississippi	Neshoba	physically_unhealthy_days	4.7
+28101	Mississippi	Newton	physically_unhealthy_days	4
+28103	Mississippi	Noxubee	physically_unhealthy_days	5.4
+28105	Mississippi	Oktibbeha	physically_unhealthy_days	3.4
+28107	Mississippi	Panola	physically_unhealthy_days	4.8
+28109	Mississippi	Pearl River	physically_unhealthy_days	5.1
+28111	Mississippi	Perry	physically_unhealthy_days	5.9
+28113	Mississippi	Pike	physically_unhealthy_days	4.4
+28115	Mississippi	Pontotoc	physically_unhealthy_days	5.4
+28117	Mississippi	Prentiss	physically_unhealthy_days	4.1
+28119	Mississippi	Quitman	physically_unhealthy_days	6.6
+28121	Mississippi	Rankin	physically_unhealthy_days	3.1
+28123	Mississippi	Scott	physically_unhealthy_days	4.6
+28125	Mississippi	Sharkey	physically_unhealthy_days	2.4
+28127	Mississippi	Simpson	physically_unhealthy_days	4.2
+28129	Mississippi	Smith	physically_unhealthy_days	4.4
+28131	Mississippi	Stone	physically_unhealthy_days	5.3
+28133	Mississippi	Sunflower	physically_unhealthy_days	4.4
+28135	Mississippi	Tallahatchie	physically_unhealthy_days	5.2
+28137	Mississippi	Tate	physically_unhealthy_days	4.5
+28139	Mississippi	Tippah	physically_unhealthy_days	5.5
+28141	Mississippi	Tishomingo	physically_unhealthy_days	4.7
+28143	Mississippi	Tunica	physically_unhealthy_days	3.6
+28145	Mississippi	Union	physically_unhealthy_days	3.8
+28147	Mississippi	Walthall	physically_unhealthy_days	4.8
+28149	Mississippi	Warren	physically_unhealthy_days	3.7
+28151	Mississippi	Washington	physically_unhealthy_days	3.9
+28153	Mississippi	Wayne	physically_unhealthy_days	4.6
+28155	Mississippi	Webster	physically_unhealthy_days	4.2
+28157	Mississippi	Wilkinson	physically_unhealthy_days	4.7
+28159	Mississippi	Winston	physically_unhealthy_days	4.2
+28161	Mississippi	Yalobusha	physically_unhealthy_days	4.3
+28163	Mississippi	Yazoo	physically_unhealthy_days	3.8
+29001	Missouri	Adair	physically_unhealthy_days	4.1
+29003	Missouri	Andrew	physically_unhealthy_days	2.9
+29005	Missouri	Atchison	physically_unhealthy_days	2.9
+29007	Missouri	Audrain	physically_unhealthy_days	4.6
+29009	Missouri	Barry	physically_unhealthy_days	4.8
+29011	Missouri	Barton	physically_unhealthy_days	3.6
+29013	Missouri	Bates	physically_unhealthy_days	3.9
+29015	Missouri	Benton	physically_unhealthy_days	4
+29017	Missouri	Bollinger	physically_unhealthy_days	6
+29019	Missouri	Boone	physically_unhealthy_days	2.9
+29021	Missouri	Buchanan	physically_unhealthy_days	4.4
+29023	Missouri	Butler	physically_unhealthy_days	6.4
+29025	Missouri	Caldwell	physically_unhealthy_days	2.4
+29027	Missouri	Callaway	physically_unhealthy_days	3.8
+29029	Missouri	Camden	physically_unhealthy_days	3
+29031	Missouri	Cape Girardeau	physically_unhealthy_days	3.5
+29033	Missouri	Carroll	physically_unhealthy_days	3.8
+29035	Missouri	Carter	physically_unhealthy_days	
+29037	Missouri	Cass	physically_unhealthy_days	3.5
+29039	Missouri	Cedar	physically_unhealthy_days	3.1
+29041	Missouri	Chariton	physically_unhealthy_days	3.7
+29043	Missouri	Christian	physically_unhealthy_days	2.6
+29045	Missouri	Clark	physically_unhealthy_days	3.9
+29047	Missouri	Clay	physically_unhealthy_days	3.4
+29049	Missouri	Clinton	physically_unhealthy_days	2.7
+29051	Missouri	Cole	physically_unhealthy_days	3.1
+29053	Missouri	Cooper	physically_unhealthy_days	2.9
+29055	Missouri	Crawford	physically_unhealthy_days	5.4
+29057	Missouri	Dade	physically_unhealthy_days	
+29059	Missouri	Dallas	physically_unhealthy_days	3
+29061	Missouri	Daviess	physically_unhealthy_days	4.6
+29063	Missouri	DeKalb	physically_unhealthy_days	2.2
+29065	Missouri	Dent	physically_unhealthy_days	5.8
+29067	Missouri	Douglas	physically_unhealthy_days	6
+29069	Missouri	Dunklin	physically_unhealthy_days	6.3
+29071	Missouri	Franklin	physically_unhealthy_days	3.8
+29073	Missouri	Gasconade	physically_unhealthy_days	5
+29075	Missouri	Gentry	physically_unhealthy_days	4.6
+29077	Missouri	Greene	physically_unhealthy_days	4.1
+29079	Missouri	Grundy	physically_unhealthy_days	3.8
+29081	Missouri	Harrison	physically_unhealthy_days	4.4
+29083	Missouri	Henry	physically_unhealthy_days	4.4
+29085	Missouri	Hickory	physically_unhealthy_days	
+29087	Missouri	Holt	physically_unhealthy_days	2.1
+29089	Missouri	Howard	physically_unhealthy_days	3.3
+29091	Missouri	Howell	physically_unhealthy_days	4.7
+29093	Missouri	Iron	physically_unhealthy_days	5.3
+29095	Missouri	Jackson	physically_unhealthy_days	3.5
+29097	Missouri	Jasper	physically_unhealthy_days	3.8
+29099	Missouri	Jefferson	physically_unhealthy_days	3.8
+29101	Missouri	Johnson	physically_unhealthy_days	3.3
+29103	Missouri	Knox	physically_unhealthy_days	3.4
+29105	Missouri	Laclede	physically_unhealthy_days	4.6
+29107	Missouri	Lafayette	physically_unhealthy_days	3
+29109	Missouri	Lawrence	physically_unhealthy_days	4.6
+29111	Missouri	Lewis	physically_unhealthy_days	4.4
+29113	Missouri	Lincoln	physically_unhealthy_days	4.8
+29115	Missouri	Linn	physically_unhealthy_days	3.2
+29117	Missouri	Livingston	physically_unhealthy_days	4.4
+29119	Missouri	McDonald	physically_unhealthy_days	4.3
+29121	Missouri	Macon	physically_unhealthy_days	3.2
+29123	Missouri	Madison	physically_unhealthy_days	4
+29125	Missouri	Maries	physically_unhealthy_days	3.4
+29127	Missouri	Marion	physically_unhealthy_days	4.2
+29129	Missouri	Mercer	physically_unhealthy_days	2.9
+29131	Missouri	Miller	physically_unhealthy_days	4.7
+29133	Missouri	Mississippi	physically_unhealthy_days	
+29135	Missouri	Moniteau	physically_unhealthy_days	2.7
+29137	Missouri	Monroe	physically_unhealthy_days	4
+29139	Missouri	Montgomery	physically_unhealthy_days	4.5
+29141	Missouri	Morgan	physically_unhealthy_days	4.5
+29143	Missouri	New Madrid	physically_unhealthy_days	6.7
+29145	Missouri	Newton	physically_unhealthy_days	3.6
+29147	Missouri	Nodaway	physically_unhealthy_days	2.9
+29149	Missouri	Oregon	physically_unhealthy_days	
+29151	Missouri	Osage	physically_unhealthy_days	3.9
+29153	Missouri	Ozark	physically_unhealthy_days	6.3
+29155	Missouri	Pemiscot	physically_unhealthy_days	4.3
+29157	Missouri	Perry	physically_unhealthy_days	3.7
+29159	Missouri	Pettis	physically_unhealthy_days	4
+29161	Missouri	Phelps	physically_unhealthy_days	4.5
+29163	Missouri	Pike	physically_unhealthy_days	4.1
+29165	Missouri	Platte	physically_unhealthy_days	4
+29167	Missouri	Polk	physically_unhealthy_days	4.3
+29169	Missouri	Pulaski	physically_unhealthy_days	3.8
+29171	Missouri	Putnam	physically_unhealthy_days	3.9
+29173	Missouri	Ralls	physically_unhealthy_days	4.1
+29175	Missouri	Randolph	physically_unhealthy_days	5.2
+29177	Missouri	Ray	physically_unhealthy_days	4.3
+29179	Missouri	Reynolds	physically_unhealthy_days	5.1
+29181	Missouri	Ripley	physically_unhealthy_days	6.9
+29183	Missouri	St. Charles	physically_unhealthy_days	2.9
+29185	Missouri	St. Clair	physically_unhealthy_days	6.1
+29186	Missouri	Ste. Genevieve	physically_unhealthy_days	4
+29187	Missouri	St. Francois	physically_unhealthy_days	5
+29189	Missouri	St. Louis	physically_unhealthy_days	2.8
+29195	Missouri	Saline	physically_unhealthy_days	2.9
+29197	Missouri	Schuyler	physically_unhealthy_days	5
+29199	Missouri	Scotland	physically_unhealthy_days	3.8
+29201	Missouri	Scott	physically_unhealthy_days	3.6
+29203	Missouri	Shannon	physically_unhealthy_days	4.6
+29205	Missouri	Shelby	physically_unhealthy_days	3.4
+29207	Missouri	Stoddard	physically_unhealthy_days	6
+29209	Missouri	Stone	physically_unhealthy_days	3.4
+29211	Missouri	Sullivan	physically_unhealthy_days	6
+29213	Missouri	Taney	physically_unhealthy_days	4.2
+29215	Missouri	Texas	physically_unhealthy_days	7
+29217	Missouri	Vernon	physically_unhealthy_days	4.4
+29219	Missouri	Warren	physically_unhealthy_days	4.2
+29221	Missouri	Washington	physically_unhealthy_days	5.1
+29223	Missouri	Wayne	physically_unhealthy_days	4.6
+29225	Missouri	Webster	physically_unhealthy_days	3.2
+29227	Missouri	Worth	physically_unhealthy_days	2.8
+29229	Missouri	Wright	physically_unhealthy_days	4
+29510	Missouri	St. Louis City	physically_unhealthy_days	3.9
+30001	Montana	Beaverhead	physically_unhealthy_days	3.4
+30003	Montana	Big Horn	physically_unhealthy_days	4
+30005	Montana	Blaine	physically_unhealthy_days	3.7
+30007	Montana	Broadwater	physically_unhealthy_days	3.9
+30009	Montana	Carbon	physically_unhealthy_days	2.7
+30011	Montana	Carter	physically_unhealthy_days	2.6
+30013	Montana	Cascade	physically_unhealthy_days	3.9
+30015	Montana	Chouteau	physically_unhealthy_days	2.7
+30017	Montana	Custer	physically_unhealthy_days	2.8
+30019	Montana	Daniels	physically_unhealthy_days	1.2
+30021	Montana	Dawson	physically_unhealthy_days	3.9
+30023	Montana	Deer Lodge	physically_unhealthy_days	4.8
+30025	Montana	Fallon	physically_unhealthy_days	3.4
+30027	Montana	Fergus	physically_unhealthy_days	2.8
+30029	Montana	Flathead	physically_unhealthy_days	3.6
+30031	Montana	Gallatin	physically_unhealthy_days	2.7
+30033	Montana	Garfield	physically_unhealthy_days	1.8
+30035	Montana	Glacier	physically_unhealthy_days	4.7
+30037	Montana	Golden Valley	physically_unhealthy_days	1.7
+30039	Montana	Granite	physically_unhealthy_days	2.7
+30041	Montana	Hill	physically_unhealthy_days	3.6
+30043	Montana	Jefferson	physically_unhealthy_days	3.4
+30045	Montana	Judith Basin	physically_unhealthy_days	3.9
+30047	Montana	Lake	physically_unhealthy_days	3.7
+30049	Montana	Lewis and Clark	physically_unhealthy_days	3.5
+30051	Montana	Liberty	physically_unhealthy_days	1.3
+30053	Montana	Lincoln	physically_unhealthy_days	3.9
+30055	Montana	McCone	physically_unhealthy_days	2
+30057	Montana	Madison	physically_unhealthy_days	2.2
+30059	Montana	Meagher	physically_unhealthy_days	3
+30061	Montana	Mineral	physically_unhealthy_days	4.2
+30063	Montana	Missoula	physically_unhealthy_days	3.2
+30065	Montana	Musselshell	physically_unhealthy_days	3.1
+30067	Montana	Park	physically_unhealthy_days	3.7
+30069	Montana	Petroleum	physically_unhealthy_days	
+30071	Montana	Phillips	physically_unhealthy_days	3
+30073	Montana	Pondera	physically_unhealthy_days	4.3
+30075	Montana	Powder River	physically_unhealthy_days	2.1
+30077	Montana	Powell	physically_unhealthy_days	3.6
+30079	Montana	Prairie	physically_unhealthy_days	3.1
+30081	Montana	Ravalli	physically_unhealthy_days	3.5
+30083	Montana	Richland	physically_unhealthy_days	2.7
+30085	Montana	Roosevelt	physically_unhealthy_days	3.6
+30087	Montana	Rosebud	physically_unhealthy_days	3.3
+30089	Montana	Sanders	physically_unhealthy_days	3.9
+30091	Montana	Sheridan	physically_unhealthy_days	3.2
+30093	Montana	Silver Bow	physically_unhealthy_days	4
+30095	Montana	Stillwater	physically_unhealthy_days	3.7
+30097	Montana	Sweet Grass	physically_unhealthy_days	2.7
+30099	Montana	Teton	physically_unhealthy_days	2.9
+30101	Montana	Toole	physically_unhealthy_days	3.1
+30103	Montana	Treasure	physically_unhealthy_days	
+30105	Montana	Valley	physically_unhealthy_days	2.9
+30107	Montana	Wheatland	physically_unhealthy_days	3.6
+30109	Montana	Wibaux	physically_unhealthy_days	2.9
+30111	Montana	Yellowstone	physically_unhealthy_days	3.4
+31001	Nebraska	Adams	physically_unhealthy_days	3
+31003	Nebraska	Antelope	physically_unhealthy_days	3
+31005	Nebraska	Arthur	physically_unhealthy_days	2.4
+31007	Nebraska	Banner	physically_unhealthy_days	3.6
+31009	Nebraska	Blaine	physically_unhealthy_days	2.4
+31011	Nebraska	Boone	physically_unhealthy_days	2.2
+31013	Nebraska	Box Butte	physically_unhealthy_days	3.2
+31015	Nebraska	Boyd	physically_unhealthy_days	2.6
+31017	Nebraska	Brown	physically_unhealthy_days	3.9
+31019	Nebraska	Buffalo	physically_unhealthy_days	2.6
+31021	Nebraska	Burt	physically_unhealthy_days	2.4
+31023	Nebraska	Butler	physically_unhealthy_days	2.5
+31025	Nebraska	Cass	physically_unhealthy_days	2.7
+31027	Nebraska	Cedar	physically_unhealthy_days	2.1
+31029	Nebraska	Chase	physically_unhealthy_days	2.8
+31031	Nebraska	Cherry	physically_unhealthy_days	2.6
+31033	Nebraska	Cheyenne	physically_unhealthy_days	3.5
+31035	Nebraska	Clay	physically_unhealthy_days	2.6
+31037	Nebraska	Colfax	physically_unhealthy_days	2.9
+31039	Nebraska	Cuming	physically_unhealthy_days	2.6
+31041	Nebraska	Custer	physically_unhealthy_days	2.8
+31043	Nebraska	Dakota	physically_unhealthy_days	3.2
+31045	Nebraska	Dawes	physically_unhealthy_days	3.1
+31047	Nebraska	Dawson	physically_unhealthy_days	3.2
+31049	Nebraska	Deuel	physically_unhealthy_days	2.7
+31051	Nebraska	Dixon	physically_unhealthy_days	2.7
+31053	Nebraska	Dodge	physically_unhealthy_days	3
+31055	Nebraska	Douglas	physically_unhealthy_days	3
+31057	Nebraska	Dundy	physically_unhealthy_days	3.6
+31059	Nebraska	Fillmore	physically_unhealthy_days	2
+31061	Nebraska	Franklin	physically_unhealthy_days	3.2
+31063	Nebraska	Frontier	physically_unhealthy_days	2.5
+31065	Nebraska	Furnas	physically_unhealthy_days	3.1
+31067	Nebraska	Gage	physically_unhealthy_days	2.9
+31069	Nebraska	Garden	physically_unhealthy_days	2.8
+31071	Nebraska	Garfield	physically_unhealthy_days	2.3
+31073	Nebraska	Gosper	physically_unhealthy_days	2.4
+31075	Nebraska	Grant	physically_unhealthy_days	
+31077	Nebraska	Greeley	physically_unhealthy_days	3.1
+31079	Nebraska	Hall	physically_unhealthy_days	3.2
+31081	Nebraska	Hamilton	physically_unhealthy_days	2.7
+31083	Nebraska	Harlan	physically_unhealthy_days	3.6
+31085	Nebraska	Hayes	physically_unhealthy_days	2.7
+31087	Nebraska	Hitchcock	physically_unhealthy_days	3.8
+31089	Nebraska	Holt	physically_unhealthy_days	2.7
+31091	Nebraska	Hooker	physically_unhealthy_days	4.3
+31093	Nebraska	Howard	physically_unhealthy_days	2.9
+31095	Nebraska	Jefferson	physically_unhealthy_days	3.2
+31097	Nebraska	Johnson	physically_unhealthy_days	2.3
+31099	Nebraska	Kearney	physically_unhealthy_days	2.1
+31101	Nebraska	Keith	physically_unhealthy_days	2.8
+31103	Nebraska	Keya Paha	physically_unhealthy_days	1
+31105	Nebraska	Kimball	physically_unhealthy_days	3.4
+31107	Nebraska	Knox	physically_unhealthy_days	2.5
+31109	Nebraska	Lancaster	physically_unhealthy_days	2.8
+31111	Nebraska	Lincoln	physically_unhealthy_days	3.6
+31113	Nebraska	Logan	physically_unhealthy_days	3.6
+31115	Nebraska	Loup	physically_unhealthy_days	2.2
+31117	Nebraska	McPherson	physically_unhealthy_days	3.7
+31119	Nebraska	Madison	physically_unhealthy_days	2.5
+31121	Nebraska	Merrick	physically_unhealthy_days	3
+31123	Nebraska	Morrill	physically_unhealthy_days	3.6
+31125	Nebraska	Nance	physically_unhealthy_days	2.5
+31127	Nebraska	Nemaha	physically_unhealthy_days	2.7
+31129	Nebraska	Nuckolls	physically_unhealthy_days	2.9
+31131	Nebraska	Otoe	physically_unhealthy_days	3
+31133	Nebraska	Pawnee	physically_unhealthy_days	2.3
+31135	Nebraska	Perkins	physically_unhealthy_days	3.2
+31137	Nebraska	Phelps	physically_unhealthy_days	3.1
+31139	Nebraska	Pierce	physically_unhealthy_days	1.9
+31141	Nebraska	Platte	physically_unhealthy_days	2.5
+31143	Nebraska	Polk	physically_unhealthy_days	2.2
+31145	Nebraska	Red Willow	physically_unhealthy_days	3.3
+31147	Nebraska	Richardson	physically_unhealthy_days	3.6
+31149	Nebraska	Rock	physically_unhealthy_days	2.5
+31151	Nebraska	Saline	physically_unhealthy_days	2.5
+31153	Nebraska	Sarpy	physically_unhealthy_days	2.9
+31155	Nebraska	Saunders	physically_unhealthy_days	3.3
+31157	Nebraska	Scotts Bluff	physically_unhealthy_days	3.7
+31159	Nebraska	Seward	physically_unhealthy_days	2.6
+31161	Nebraska	Sheridan	physically_unhealthy_days	2.6
+31163	Nebraska	Sherman	physically_unhealthy_days	2
+31165	Nebraska	Sioux	physically_unhealthy_days	2.3
+31167	Nebraska	Stanton	physically_unhealthy_days	3.3
+31169	Nebraska	Thayer	physically_unhealthy_days	3.1
+31171	Nebraska	Thomas	physically_unhealthy_days	1.4
+31173	Nebraska	Thurston	physically_unhealthy_days	3.3
+31175	Nebraska	Valley	physically_unhealthy_days	2.4
+31177	Nebraska	Washington	physically_unhealthy_days	2.7
+31179	Nebraska	Wayne	physically_unhealthy_days	2.1
+31181	Nebraska	Webster	physically_unhealthy_days	2.4
+31183	Nebraska	Wheeler	physically_unhealthy_days	2.2
+31185	Nebraska	York	physically_unhealthy_days	3
+32001	Nevada	Churchill	physically_unhealthy_days	3.9
+32003	Nevada	Clark	physically_unhealthy_days	3.7
+32005	Nevada	Douglas	physically_unhealthy_days	3.4
+32007	Nevada	Elko	physically_unhealthy_days	4.1
+32009	Nevada	Esmeralda	physically_unhealthy_days	
+32011	Nevada	Eureka	physically_unhealthy_days	2.8
+32013	Nevada	Humboldt	physically_unhealthy_days	4.5
+32015	Nevada	Lander	physically_unhealthy_days	5.2
+32017	Nevada	Lincoln	physically_unhealthy_days	4
+32019	Nevada	Lyon	physically_unhealthy_days	4.2
+32021	Nevada	Mineral	physically_unhealthy_days	4.5
+32023	Nevada	Nye	physically_unhealthy_days	5.3
+32027	Nevada	Pershing	physically_unhealthy_days	4.9
+32029	Nevada	Storey	physically_unhealthy_days	3.5
+32031	Nevada	Washoe	physically_unhealthy_days	3.6
+32033	Nevada	White Pine	physically_unhealthy_days	6.1
+32510	Nevada	Carson City	physically_unhealthy_days	4
+33001	New Hampshire	Belknap	physically_unhealthy_days	3
+33003	New Hampshire	Carroll	physically_unhealthy_days	3.1
+33005	New Hampshire	Cheshire	physically_unhealthy_days	3.5
+33007	New Hampshire	Coos	physically_unhealthy_days	4.2
+33009	New Hampshire	Grafton	physically_unhealthy_days	3.1
+33011	New Hampshire	Hillsborough	physically_unhealthy_days	3.1
+33013	New Hampshire	Merrimack	physically_unhealthy_days	2.8
+33015	New Hampshire	Rockingham	physically_unhealthy_days	3
+33017	New Hampshire	Strafford	physically_unhealthy_days	3.7
+33019	New Hampshire	Sullivan	physically_unhealthy_days	3.5
+34001	New Jersey	Atlantic	physically_unhealthy_days	4.1
+34003	New Jersey	Bergen	physically_unhealthy_days	2.8
+34005	New Jersey	Burlington	physically_unhealthy_days	3.4
+34007	New Jersey	Camden	physically_unhealthy_days	4.2
+34009	New Jersey	Cape May	physically_unhealthy_days	3.7
+34011	New Jersey	Cumberland	physically_unhealthy_days	4.2
+34013	New Jersey	Essex	physically_unhealthy_days	3.2
+34015	New Jersey	Gloucester	physically_unhealthy_days	3.5
+34017	New Jersey	Hudson	physically_unhealthy_days	4.3
+34019	New Jersey	Hunterdon	physically_unhealthy_days	2.6
+34021	New Jersey	Mercer	physically_unhealthy_days	2.9
+34023	New Jersey	Middlesex	physically_unhealthy_days	3.1
+34025	New Jersey	Monmouth	physically_unhealthy_days	3.1
+34027	New Jersey	Morris	physically_unhealthy_days	2.6
+34029	New Jersey	Ocean	physically_unhealthy_days	3.5
+34031	New Jersey	Passaic	physically_unhealthy_days	3.6
+34033	New Jersey	Salem	physically_unhealthy_days	4.3
+34035	New Jersey	Somerset	physically_unhealthy_days	2.7
+34037	New Jersey	Sussex	physically_unhealthy_days	3.2
+34039	New Jersey	Union	physically_unhealthy_days	3.3
+34041	New Jersey	Warren	physically_unhealthy_days	3.7
+35001	New Mexico	Bernalillo	physically_unhealthy_days	3.7
+35003	New Mexico	Catron	physically_unhealthy_days	3.2
+35005	New Mexico	Chaves	physically_unhealthy_days	4.5
+35006	New Mexico	Cibola	physically_unhealthy_days	4.2
+35007	New Mexico	Colfax	physically_unhealthy_days	4.5
+35009	New Mexico	Curry	physically_unhealthy_days	4.2
+35011	New Mexico	De Baca	physically_unhealthy_days	4.9
+35013	New Mexico	Dona Ana	physically_unhealthy_days	3.7
+35015	New Mexico	Eddy	physically_unhealthy_days	4.5
+35017	New Mexico	Grant	physically_unhealthy_days	4.6
+35019	New Mexico	Guadalupe	physically_unhealthy_days	3.1
+35021	New Mexico	Harding	physically_unhealthy_days	3.2
+35023	New Mexico	Hidalgo	physically_unhealthy_days	3.5
+35025	New Mexico	Lea	physically_unhealthy_days	4.1
+35027	New Mexico	Lincoln	physically_unhealthy_days	2.5
+35028	New Mexico	Los Alamos	physically_unhealthy_days	3.2
+35029	New Mexico	Luna	physically_unhealthy_days	3.7
+35031	New Mexico	McKinley	physically_unhealthy_days	3.4
+35033	New Mexico	Mora	physically_unhealthy_days	3.9
+35035	New Mexico	Otero	physically_unhealthy_days	4.1
+35037	New Mexico	Quay	physically_unhealthy_days	6
+35039	New Mexico	Rio Arriba	physically_unhealthy_days	4.8
+35041	New Mexico	Roosevelt	physically_unhealthy_days	3.5
+35043	New Mexico	Sandoval	physically_unhealthy_days	3.7
+35045	New Mexico	San Juan	physically_unhealthy_days	3.9
+35047	New Mexico	San Miguel	physically_unhealthy_days	5.3
+35049	New Mexico	Santa Fe	physically_unhealthy_days	3.3
+35051	New Mexico	Sierra	physically_unhealthy_days	7.1
+35053	New Mexico	Socorro	physically_unhealthy_days	4.5
+35055	New Mexico	Taos	physically_unhealthy_days	4.3
+35057	New Mexico	Torrance	physically_unhealthy_days	4.9
+35059	New Mexico	Union	physically_unhealthy_days	3.2
+35061	New Mexico	Valencia	physically_unhealthy_days	4.1
+36001	New York	Albany	physically_unhealthy_days	2.8
+36003	New York	Allegany	physically_unhealthy_days	3.6
+36005	New York	Bronx	physically_unhealthy_days	4.1
+36007	New York	Broome	physically_unhealthy_days	3.8
+36009	New York	Cattaraugus	physically_unhealthy_days	3.7
+36011	New York	Cayuga	physically_unhealthy_days	3.2
+36013	New York	Chautauqua	physically_unhealthy_days	4.4
+36015	New York	Chemung	physically_unhealthy_days	4.4
+36017	New York	Chenango	physically_unhealthy_days	4.1
+36019	New York	Clinton	physically_unhealthy_days	3.4
+36021	New York	Columbia	physically_unhealthy_days	3.5
+36023	New York	Cortland	physically_unhealthy_days	3.3
+36025	New York	Delaware	physically_unhealthy_days	3.2
+36027	New York	Dutchess	physically_unhealthy_days	3.1
+36029	New York	Erie	physically_unhealthy_days	3.9
+36031	New York	Essex	physically_unhealthy_days	2.7
+36033	New York	Franklin	physically_unhealthy_days	3.5
+36035	New York	Fulton	physically_unhealthy_days	5.8
+36037	New York	Genesee	physically_unhealthy_days	4.3
+36039	New York	Greene	physically_unhealthy_days	3.7
+36041	New York	Hamilton	physically_unhealthy_days	
+36043	New York	Herkimer	physically_unhealthy_days	3.1
+36045	New York	Jefferson	physically_unhealthy_days	3.9
+36047	New York	Kings	physically_unhealthy_days	3.7
+36049	New York	Lewis	physically_unhealthy_days	3.5
+36051	New York	Livingston	physically_unhealthy_days	2.4
+36053	New York	Madison	physically_unhealthy_days	3.3
+36055	New York	Monroe	physically_unhealthy_days	3.4
+36057	New York	Montgomery	physically_unhealthy_days	3.7
+36059	New York	Nassau	physically_unhealthy_days	3
+36061	New York	New York	physically_unhealthy_days	3.5
+36063	New York	Niagara	physically_unhealthy_days	4.1
+36065	New York	Oneida	physically_unhealthy_days	4
+36067	New York	Onondaga	physically_unhealthy_days	3.3
+36069	New York	Ontario	physically_unhealthy_days	2.9
+36071	New York	Orange	physically_unhealthy_days	3.3
+36073	New York	Orleans	physically_unhealthy_days	5.1
+36075	New York	Oswego	physically_unhealthy_days	3.8
+36077	New York	Otsego	physically_unhealthy_days	4.7
+36079	New York	Putnam	physically_unhealthy_days	2.6
+36081	New York	Queens	physically_unhealthy_days	3.2
+36083	New York	Rensselaer	physically_unhealthy_days	3.8
+36085	New York	Richmond	physically_unhealthy_days	3.1
+36087	New York	Rockland	physically_unhealthy_days	2.8
+36089	New York	St. Lawrence	physically_unhealthy_days	4.8
+36091	New York	Saratoga	physically_unhealthy_days	3.1
+36093	New York	Schenectady	physically_unhealthy_days	3.6
+36095	New York	Schoharie	physically_unhealthy_days	3.3
+36097	New York	Schuyler	physically_unhealthy_days	
+36099	New York	Seneca	physically_unhealthy_days	4.8
+36101	New York	Steuben	physically_unhealthy_days	4.1
+36103	New York	Suffolk	physically_unhealthy_days	3.2
+36105	New York	Sullivan	physically_unhealthy_days	4.4
+36107	New York	Tioga	physically_unhealthy_days	3.7
+36109	New York	Tompkins	physically_unhealthy_days	2.7
+36111	New York	Ulster	physically_unhealthy_days	3.6
+36113	New York	Warren	physically_unhealthy_days	2.8
+36115	New York	Washington	physically_unhealthy_days	3.9
+36117	New York	Wayne	physically_unhealthy_days	5.6
+36119	New York	Westchester	physically_unhealthy_days	3.1
+36121	New York	Wyoming	physically_unhealthy_days	3.5
+36123	New York	Yates	physically_unhealthy_days	2.5
+37001	North Carolina	Alamance	physically_unhealthy_days	3.6
+37003	North Carolina	Alexander	physically_unhealthy_days	5
+37005	North Carolina	Alleghany	physically_unhealthy_days	4.6
+37007	North Carolina	Anson	physically_unhealthy_days	3.9
+37009	North Carolina	Ashe	physically_unhealthy_days	4.6
+37011	North Carolina	Avery	physically_unhealthy_days	4.3
+37013	North Carolina	Beaufort	physically_unhealthy_days	4
+37015	North Carolina	Bertie	physically_unhealthy_days	3.8
+37017	North Carolina	Bladen	physically_unhealthy_days	5.5
+37019	North Carolina	Brunswick	physically_unhealthy_days	3.1
+37021	North Carolina	Buncombe	physically_unhealthy_days	3.4
+37023	North Carolina	Burke	physically_unhealthy_days	4.8
+37025	North Carolina	Cabarrus	physically_unhealthy_days	3.2
+37027	North Carolina	Caldwell	physically_unhealthy_days	4.3
+37029	North Carolina	Camden	physically_unhealthy_days	4.2
+37031	North Carolina	Carteret	physically_unhealthy_days	4.6
+37033	North Carolina	Caswell	physically_unhealthy_days	4.4
+37035	North Carolina	Catawba	physically_unhealthy_days	3.7
+37037	North Carolina	Chatham	physically_unhealthy_days	4.5
+37039	North Carolina	Cherokee	physically_unhealthy_days	4.6
+37041	North Carolina	Chowan	physically_unhealthy_days	3.8
+37043	North Carolina	Clay	physically_unhealthy_days	4.2
+37045	North Carolina	Cleveland	physically_unhealthy_days	4.4
+37047	North Carolina	Columbus	physically_unhealthy_days	5.1
+37049	North Carolina	Craven	physically_unhealthy_days	3.2
+37051	North Carolina	Cumberland	physically_unhealthy_days	4.5
+37053	North Carolina	Currituck	physically_unhealthy_days	4.1
+37055	North Carolina	Dare	physically_unhealthy_days	3.9
+37057	North Carolina	Davidson	physically_unhealthy_days	4.2
+37059	North Carolina	Davie	physically_unhealthy_days	4.4
+37061	North Carolina	Duplin	physically_unhealthy_days	4.2
+37063	North Carolina	Durham	physically_unhealthy_days	2.8
+37065	North Carolina	Edgecombe	physically_unhealthy_days	4.6
+37067	North Carolina	Forsyth	physically_unhealthy_days	3
+37069	North Carolina	Franklin	physically_unhealthy_days	4.2
+37071	North Carolina	Gaston	physically_unhealthy_days	4.5
+37073	North Carolina	Gates	physically_unhealthy_days	4.4
+37075	North Carolina	Graham	physically_unhealthy_days	4
+37077	North Carolina	Granville	physically_unhealthy_days	4.1
+37079	North Carolina	Greene	physically_unhealthy_days	3.5
+37081	North Carolina	Guilford	physically_unhealthy_days	2.9
+37083	North Carolina	Halifax	physically_unhealthy_days	4.6
+37085	North Carolina	Harnett	physically_unhealthy_days	3.9
+37087	North Carolina	Haywood	physically_unhealthy_days	4.4
+37089	North Carolina	Henderson	physically_unhealthy_days	3.5
+37091	North Carolina	Hertford	physically_unhealthy_days	4
+37093	North Carolina	Hoke	physically_unhealthy_days	3.7
+37095	North Carolina	Hyde	physically_unhealthy_days	2.4
+37097	North Carolina	Iredell	physically_unhealthy_days	3.3
+37099	North Carolina	Jackson	physically_unhealthy_days	3.7
+37101	North Carolina	Johnston	physically_unhealthy_days	3.9
+37103	North Carolina	Jones	physically_unhealthy_days	3.6
+37105	North Carolina	Lee	physically_unhealthy_days	3.6
+37107	North Carolina	Lenoir	physically_unhealthy_days	4
+37109	North Carolina	Lincoln	physically_unhealthy_days	4.2
+37111	North Carolina	McDowell	physically_unhealthy_days	5.4
+37113	North Carolina	Macon	physically_unhealthy_days	3.6
+37115	North Carolina	Madison	physically_unhealthy_days	4.4
+37117	North Carolina	Martin	physically_unhealthy_days	4.7
+37119	North Carolina	Mecklenburg	physically_unhealthy_days	3
+37121	North Carolina	Mitchell	physically_unhealthy_days	4
+37123	North Carolina	Montgomery	physically_unhealthy_days	3.1
+37125	North Carolina	Moore	physically_unhealthy_days	3.4
+37127	North Carolina	Nash	physically_unhealthy_days	2.8
+37129	North Carolina	New Hanover	physically_unhealthy_days	3.3
+37131	North Carolina	Northampton	physically_unhealthy_days	4.3
+37133	North Carolina	Onslow	physically_unhealthy_days	4
+37135	North Carolina	Orange	physically_unhealthy_days	2.6
+37137	North Carolina	Pamlico	physically_unhealthy_days	2.2
+37139	North Carolina	Pasquotank	physically_unhealthy_days	3.4
+37141	North Carolina	Pender	physically_unhealthy_days	2.8
+37143	North Carolina	Perquimans	physically_unhealthy_days	4.7
+37145	North Carolina	Person	physically_unhealthy_days	2.7
+37147	North Carolina	Pitt	physically_unhealthy_days	3.4
+37149	North Carolina	Polk	physically_unhealthy_days	3.6
+37151	North Carolina	Randolph	physically_unhealthy_days	3.9
+37153	North Carolina	Richmond	physically_unhealthy_days	4.8
+37155	North Carolina	Robeson	physically_unhealthy_days	4.8
+37157	North Carolina	Rockingham	physically_unhealthy_days	4.4
+37159	North Carolina	Rowan	physically_unhealthy_days	4.2
+37161	North Carolina	Rutherford	physically_unhealthy_days	4.5
+37163	North Carolina	Sampson	physically_unhealthy_days	3.4
+37165	North Carolina	Scotland	physically_unhealthy_days	3.8
+37167	North Carolina	Stanly	physically_unhealthy_days	5.6
+37169	North Carolina	Stokes	physically_unhealthy_days	3.6
+37171	North Carolina	Surry	physically_unhealthy_days	4
+37173	North Carolina	Swain	physically_unhealthy_days	5.3
+37175	North Carolina	Transylvania	physically_unhealthy_days	2.9
+37177	North Carolina	Tyrrell	physically_unhealthy_days	
+37179	North Carolina	Union	physically_unhealthy_days	3.1
+37181	North Carolina	Vance	physically_unhealthy_days	5
+37183	North Carolina	Wake	physically_unhealthy_days	2.7
+37185	North Carolina	Warren	physically_unhealthy_days	
+37187	North Carolina	Washington	physically_unhealthy_days	4.2
+37189	North Carolina	Watauga	physically_unhealthy_days	3.8
+37191	North Carolina	Wayne	physically_unhealthy_days	4
+37193	North Carolina	Wilkes	physically_unhealthy_days	4.9
+37195	North Carolina	Wilson	physically_unhealthy_days	3.4
+37197	North Carolina	Yadkin	physically_unhealthy_days	3.3
+37199	North Carolina	Yancey	physically_unhealthy_days	5.1
+38001	North Dakota	Adams	physically_unhealthy_days	3.3
+38003	North Dakota	Barnes	physically_unhealthy_days	2.1
+38005	North Dakota	Benson	physically_unhealthy_days	3.1
+38007	North Dakota	Billings	physically_unhealthy_days	0.6
+38009	North Dakota	Bottineau	physically_unhealthy_days	3
+38011	North Dakota	Bowman	physically_unhealthy_days	2.3
+38013	North Dakota	Burke	physically_unhealthy_days	2.1
+38015	North Dakota	Burleigh	physically_unhealthy_days	2.8
+38017	North Dakota	Cass	physically_unhealthy_days	2.6
+38019	North Dakota	Cavalier	physically_unhealthy_days	1.3
+38021	North Dakota	Dickey	physically_unhealthy_days	2.4
+38023	North Dakota	Divide	physically_unhealthy_days	2.2
+38025	North Dakota	Dunn	physically_unhealthy_days	2.9
+38027	North Dakota	Eddy	physically_unhealthy_days	2.6
+38029	North Dakota	Emmons	physically_unhealthy_days	2.7
+38031	North Dakota	Foster	physically_unhealthy_days	2.8
+38033	North Dakota	Golden Valley	physically_unhealthy_days	1.8
+38035	North Dakota	Grand Forks	physically_unhealthy_days	2.6
+38037	North Dakota	Grant	physically_unhealthy_days	2.6
+38039	North Dakota	Griggs	physically_unhealthy_days	2.1
+38041	North Dakota	Hettinger	physically_unhealthy_days	2.2
+38043	North Dakota	Kidder	physically_unhealthy_days	1.6
+38045	North Dakota	LaMoure	physically_unhealthy_days	2.4
+38047	North Dakota	Logan	physically_unhealthy_days	2.8
+38049	North Dakota	McHenry	physically_unhealthy_days	2.9
+38051	North Dakota	McIntosh	physically_unhealthy_days	2.7
+38053	North Dakota	McKenzie	physically_unhealthy_days	2.4
+38055	North Dakota	McLean	physically_unhealthy_days	2.9
+38057	North Dakota	Mercer	physically_unhealthy_days	2.7
+38059	North Dakota	Morton	physically_unhealthy_days	2.9
+38061	North Dakota	Mountrail	physically_unhealthy_days	2.9
+38063	North Dakota	Nelson	physically_unhealthy_days	2.2
+38065	North Dakota	Oliver	physically_unhealthy_days	1.9
+38067	North Dakota	Pembina	physically_unhealthy_days	1.9
+38069	North Dakota	Pierce	physically_unhealthy_days	2.7
+38071	North Dakota	Ramsey	physically_unhealthy_days	2.9
+38073	North Dakota	Ransom	physically_unhealthy_days	2.8
+38075	North Dakota	Renville	physically_unhealthy_days	3
+38077	North Dakota	Richland	physically_unhealthy_days	2.8
+38079	North Dakota	Rolette	physically_unhealthy_days	3.7
+38081	North Dakota	Sargent	physically_unhealthy_days	2
+38083	North Dakota	Sheridan	physically_unhealthy_days	2.8
+38085	North Dakota	Sioux	physically_unhealthy_days	4.5
+38087	North Dakota	Slope	physically_unhealthy_days	1.7
+38089	North Dakota	Stark	physically_unhealthy_days	3
+38091	North Dakota	Steele	physically_unhealthy_days	1.9
+38093	North Dakota	Stutsman	physically_unhealthy_days	2.7
+38095	North Dakota	Towner	physically_unhealthy_days	1.8
+38097	North Dakota	Traill	physically_unhealthy_days	2.7
+38099	North Dakota	Walsh	physically_unhealthy_days	2.7
+38101	North Dakota	Ward	physically_unhealthy_days	2.7
+38103	North Dakota	Wells	physically_unhealthy_days	2.9
+38105	North Dakota	Williams	physically_unhealthy_days	2.7
+39001	Ohio	Adams	physically_unhealthy_days	5.6
+39003	Ohio	Allen	physically_unhealthy_days	3.6
+39005	Ohio	Ashland	physically_unhealthy_days	3.5
+39007	Ohio	Ashtabula	physically_unhealthy_days	3.9
+39009	Ohio	Athens	physically_unhealthy_days	3.4
+39011	Ohio	Auglaize	physically_unhealthy_days	3
+39013	Ohio	Belmont	physically_unhealthy_days	5
+39015	Ohio	Brown	physically_unhealthy_days	3.4
+39017	Ohio	Butler	physically_unhealthy_days	4.1
+39019	Ohio	Carroll	physically_unhealthy_days	5.4
+39021	Ohio	Champaign	physically_unhealthy_days	3.8
+39023	Ohio	Clark	physically_unhealthy_days	3.6
+39025	Ohio	Clermont	physically_unhealthy_days	4.3
+39027	Ohio	Clinton	physically_unhealthy_days	4.1
+39029	Ohio	Columbiana	physically_unhealthy_days	4.8
+39031	Ohio	Coshocton	physically_unhealthy_days	4.9
+39033	Ohio	Crawford	physically_unhealthy_days	3.4
+39035	Ohio	Cuyahoga	physically_unhealthy_days	3.3
+39037	Ohio	Darke	physically_unhealthy_days	3
+39039	Ohio	Defiance	physically_unhealthy_days	3.9
+39041	Ohio	Delaware	physically_unhealthy_days	2.3
+39043	Ohio	Erie	physically_unhealthy_days	5.1
+39045	Ohio	Fairfield	physically_unhealthy_days	2.8
+39047	Ohio	Fayette	physically_unhealthy_days	4.9
+39049	Ohio	Franklin	physically_unhealthy_days	3.7
+39051	Ohio	Fulton	physically_unhealthy_days	2.3
+39053	Ohio	Gallia	physically_unhealthy_days	5
+39055	Ohio	Geauga	physically_unhealthy_days	2.8
+39057	Ohio	Greene	physically_unhealthy_days	2.6
+39059	Ohio	Guernsey	physically_unhealthy_days	3.6
+39061	Ohio	Hamilton	physically_unhealthy_days	3.2
+39063	Ohio	Hancock	physically_unhealthy_days	2.9
+39065	Ohio	Hardin	physically_unhealthy_days	3.6
+39067	Ohio	Harrison	physically_unhealthy_days	
+39069	Ohio	Henry	physically_unhealthy_days	5.4
+39071	Ohio	Highland	physically_unhealthy_days	
+39073	Ohio	Hocking	physically_unhealthy_days	3.5
+39075	Ohio	Holmes	physically_unhealthy_days	2.7
+39077	Ohio	Huron	physically_unhealthy_days	3
+39079	Ohio	Jackson	physically_unhealthy_days	5.6
+39081	Ohio	Jefferson	physically_unhealthy_days	4.1
+39083	Ohio	Knox	physically_unhealthy_days	4
+39085	Ohio	Lake	physically_unhealthy_days	3
+39087	Ohio	Lawrence	physically_unhealthy_days	7
+39089	Ohio	Licking	physically_unhealthy_days	3.3
+39091	Ohio	Logan	physically_unhealthy_days	4
+39093	Ohio	Lorain	physically_unhealthy_days	3.1
+39095	Ohio	Lucas	physically_unhealthy_days	4
+39097	Ohio	Madison	physically_unhealthy_days	4.2
+39099	Ohio	Mahoning	physically_unhealthy_days	3.6
+39101	Ohio	Marion	physically_unhealthy_days	4.9
+39103	Ohio	Medina	physically_unhealthy_days	2.5
+39105	Ohio	Meigs	physically_unhealthy_days	5.1
+39107	Ohio	Mercer	physically_unhealthy_days	2.1
+39109	Ohio	Miami	physically_unhealthy_days	3.8
+39111	Ohio	Monroe	physically_unhealthy_days	
+39113	Ohio	Montgomery	physically_unhealthy_days	3.9
+39115	Ohio	Morgan	physically_unhealthy_days	4
+39117	Ohio	Morrow	physically_unhealthy_days	5.2
+39119	Ohio	Muskingum	physically_unhealthy_days	3.4
+39121	Ohio	Noble	physically_unhealthy_days	3.8
+39123	Ohio	Ottawa	physically_unhealthy_days	2.3
+39125	Ohio	Paulding	physically_unhealthy_days	2.5
+39127	Ohio	Perry	physically_unhealthy_days	4.3
+39129	Ohio	Pickaway	physically_unhealthy_days	5
+39131	Ohio	Pike	physically_unhealthy_days	5.1
+39133	Ohio	Portage	physically_unhealthy_days	3.3
+39135	Ohio	Preble	physically_unhealthy_days	
+39137	Ohio	Putnam	physically_unhealthy_days	2
+39139	Ohio	Richland	physically_unhealthy_days	4.1
+39141	Ohio	Ross	physically_unhealthy_days	5.5
+39143	Ohio	Sandusky	physically_unhealthy_days	5.5
+39145	Ohio	Scioto	physically_unhealthy_days	6.8
+39147	Ohio	Seneca	physically_unhealthy_days	2.5
+39149	Ohio	Shelby	physically_unhealthy_days	2.9
+39151	Ohio	Stark	physically_unhealthy_days	3.2
+39153	Ohio	Summit	physically_unhealthy_days	3.5
+39155	Ohio	Trumbull	physically_unhealthy_days	4.1
+39157	Ohio	Tuscarawas	physically_unhealthy_days	4.3
+39159	Ohio	Union	physically_unhealthy_days	2.7
+39161	Ohio	Van Wert	physically_unhealthy_days	4.8
+39163	Ohio	Vinton	physically_unhealthy_days	4
+39165	Ohio	Warren	physically_unhealthy_days	2.8
+39167	Ohio	Washington	physically_unhealthy_days	4.4
+39169	Ohio	Wayne	physically_unhealthy_days	2.4
+39171	Ohio	Williams	physically_unhealthy_days	4
+39173	Ohio	Wood	physically_unhealthy_days	3
+39175	Ohio	Wyandot	physically_unhealthy_days	4.6
+40001	Oklahoma	Adair	physically_unhealthy_days	4.4
+40003	Oklahoma	Alfalfa	physically_unhealthy_days	3.5
+40005	Oklahoma	Atoka	physically_unhealthy_days	6.3
+40007	Oklahoma	Beaver	physically_unhealthy_days	3.5
+40009	Oklahoma	Beckham	physically_unhealthy_days	4.6
+40011	Oklahoma	Blaine	physically_unhealthy_days	3.6
+40013	Oklahoma	Bryan	physically_unhealthy_days	5.1
+40015	Oklahoma	Caddo	physically_unhealthy_days	3.6
+40017	Oklahoma	Canadian	physically_unhealthy_days	3.7
+40019	Oklahoma	Carter	physically_unhealthy_days	4.1
+40021	Oklahoma	Cherokee	physically_unhealthy_days	5.3
+40023	Oklahoma	Choctaw	physically_unhealthy_days	3.9
+40025	Oklahoma	Cimarron	physically_unhealthy_days	2.9
+40027	Oklahoma	Cleveland	physically_unhealthy_days	3.7
+40029	Oklahoma	Coal	physically_unhealthy_days	3.7
+40031	Oklahoma	Comanche	physically_unhealthy_days	5
+40033	Oklahoma	Cotton	physically_unhealthy_days	5
+40035	Oklahoma	Craig	physically_unhealthy_days	3.7
+40037	Oklahoma	Creek	physically_unhealthy_days	4.3
+40039	Oklahoma	Custer	physically_unhealthy_days	4.3
+40041	Oklahoma	Delaware	physically_unhealthy_days	5.1
+40043	Oklahoma	Dewey	physically_unhealthy_days	5.5
+40045	Oklahoma	Ellis	physically_unhealthy_days	4.6
+40047	Oklahoma	Garfield	physically_unhealthy_days	3.7
+40049	Oklahoma	Garvin	physically_unhealthy_days	4.8
+40051	Oklahoma	Grady	physically_unhealthy_days	4.3
+40053	Oklahoma	Grant	physically_unhealthy_days	2.6
+40055	Oklahoma	Greer	physically_unhealthy_days	3.4
+40057	Oklahoma	Harmon	physically_unhealthy_days	
+40059	Oklahoma	Harper	physically_unhealthy_days	
+40061	Oklahoma	Haskell	physically_unhealthy_days	4
+40063	Oklahoma	Hughes	physically_unhealthy_days	4.5
+40065	Oklahoma	Jackson	physically_unhealthy_days	3.9
+40067	Oklahoma	Jefferson	physically_unhealthy_days	6.1
+40069	Oklahoma	Johnston	physically_unhealthy_days	6
+40071	Oklahoma	Kay	physically_unhealthy_days	4.7
+40073	Oklahoma	Kingfisher	physically_unhealthy_days	2.7
+40075	Oklahoma	Kiowa	physically_unhealthy_days	4.2
+40077	Oklahoma	Latimer	physically_unhealthy_days	5.7
+40079	Oklahoma	Le Flore	physically_unhealthy_days	4.2
+40081	Oklahoma	Lincoln	physically_unhealthy_days	5
+40083	Oklahoma	Logan	physically_unhealthy_days	3.8
+40085	Oklahoma	Love	physically_unhealthy_days	6.4
+40087	Oklahoma	McClain	physically_unhealthy_days	3.7
+40089	Oklahoma	McCurtain	physically_unhealthy_days	5.2
+40091	Oklahoma	McIntosh	physically_unhealthy_days	4.5
+40093	Oklahoma	Major	physically_unhealthy_days	4.3
+40095	Oklahoma	Marshall	physically_unhealthy_days	4.8
+40097	Oklahoma	Mayes	physically_unhealthy_days	4.6
+40099	Oklahoma	Murray	physically_unhealthy_days	3.5
+40101	Oklahoma	Muskogee	physically_unhealthy_days	5.5
+40103	Oklahoma	Noble	physically_unhealthy_days	3
+40105	Oklahoma	Nowata	physically_unhealthy_days	4.2
+40107	Oklahoma	Okfuskee	physically_unhealthy_days	4.1
+40109	Oklahoma	Oklahoma	physically_unhealthy_days	4
+40111	Oklahoma	Okmulgee	physically_unhealthy_days	4.4
+40113	Oklahoma	Osage	physically_unhealthy_days	4.2
+40115	Oklahoma	Ottawa	physically_unhealthy_days	4.7
+40117	Oklahoma	Pawnee	physically_unhealthy_days	4.8
+40119	Oklahoma	Payne	physically_unhealthy_days	4
+40121	Oklahoma	Pittsburg	physically_unhealthy_days	4.8
+40123	Oklahoma	Pontotoc	physically_unhealthy_days	4.4
+40125	Oklahoma	Pottawatomie	physically_unhealthy_days	5.2
+40127	Oklahoma	Pushmataha	physically_unhealthy_days	6.3
+40129	Oklahoma	Roger Mills	physically_unhealthy_days	3.2
+40131	Oklahoma	Rogers	physically_unhealthy_days	4
+40133	Oklahoma	Seminole	physically_unhealthy_days	5.7
+40135	Oklahoma	Sequoyah	physically_unhealthy_days	5.9
+40137	Oklahoma	Stephens	physically_unhealthy_days	3.5
+40139	Oklahoma	Texas	physically_unhealthy_days	2.9
+40141	Oklahoma	Tillman	physically_unhealthy_days	5.8
+40143	Oklahoma	Tulsa	physically_unhealthy_days	3.8
+40145	Oklahoma	Wagoner	physically_unhealthy_days	4.4
+40147	Oklahoma	Washington	physically_unhealthy_days	3.7
+40149	Oklahoma	Washita	physically_unhealthy_days	5
+40151	Oklahoma	Woods	physically_unhealthy_days	3.8
+40153	Oklahoma	Woodward	physically_unhealthy_days	3.8
+41001	Oregon	Baker	physically_unhealthy_days	3.1
+41003	Oregon	Benton	physically_unhealthy_days	3.3
+41005	Oregon	Clackamas	physically_unhealthy_days	3.2
+41007	Oregon	Clatsop	physically_unhealthy_days	3.7
+41009	Oregon	Columbia	physically_unhealthy_days	3.9
+41011	Oregon	Coos	physically_unhealthy_days	3.9
+41013	Oregon	Crook	physically_unhealthy_days	3.4
+41015	Oregon	Curry	physically_unhealthy_days	3.6
+41017	Oregon	Deschutes	physically_unhealthy_days	3.7
+41019	Oregon	Douglas	physically_unhealthy_days	4.9
+41021	Oregon	Gilliam	physically_unhealthy_days	
+41023	Oregon	Grant	physically_unhealthy_days	3
+41025	Oregon	Harney	physically_unhealthy_days	3.7
+41027	Oregon	Hood River	physically_unhealthy_days	3.1
+41029	Oregon	Jackson	physically_unhealthy_days	3.7
+41031	Oregon	Jefferson	physically_unhealthy_days	4.3
+41033	Oregon	Josephine	physically_unhealthy_days	4.3
+41035	Oregon	Klamath	physically_unhealthy_days	4.8
+41037	Oregon	Lake	physically_unhealthy_days	2.5
+41039	Oregon	Lane	physically_unhealthy_days	4
+41041	Oregon	Lincoln	physically_unhealthy_days	4.7
+41043	Oregon	Linn	physically_unhealthy_days	4.1
+41045	Oregon	Malheur	physically_unhealthy_days	3.4
+41047	Oregon	Marion	physically_unhealthy_days	3.8
+41049	Oregon	Morrow	physically_unhealthy_days	4.2
+41051	Oregon	Multnomah	physically_unhealthy_days	3.5
+41053	Oregon	Polk	physically_unhealthy_days	3.9
+41055	Oregon	Sherman	physically_unhealthy_days	
+41057	Oregon	Tillamook	physically_unhealthy_days	4.6
+41059	Oregon	Umatilla	physically_unhealthy_days	4
+41061	Oregon	Union	physically_unhealthy_days	3.7
+41063	Oregon	Wallowa	physically_unhealthy_days	4
+41065	Oregon	Wasco	physically_unhealthy_days	2.6
+41067	Oregon	Washington	physically_unhealthy_days	3.2
+41069	Oregon	Wheeler	physically_unhealthy_days	
+41071	Oregon	Yamhill	physically_unhealthy_days	3.6
+42001	Pennsylvania	Adams	physically_unhealthy_days	4.2
+42003	Pennsylvania	Allegheny	physically_unhealthy_days	3.4
+42005	Pennsylvania	Armstrong	physically_unhealthy_days	3.2
+42007	Pennsylvania	Beaver	physically_unhealthy_days	3.7
+42009	Pennsylvania	Bedford	physically_unhealthy_days	3.5
+42011	Pennsylvania	Berks	physically_unhealthy_days	3.3
+42013	Pennsylvania	Blair	physically_unhealthy_days	4.9
+42015	Pennsylvania	Bradford	physically_unhealthy_days	3.1
+42017	Pennsylvania	Bucks	physically_unhealthy_days	2.9
+42019	Pennsylvania	Butler	physically_unhealthy_days	3.4
+42021	Pennsylvania	Cambria	physically_unhealthy_days	4.5
+42023	Pennsylvania	Cameron	physically_unhealthy_days	
+42025	Pennsylvania	Carbon	physically_unhealthy_days	3.7
+42027	Pennsylvania	Centre	physically_unhealthy_days	3.4
+42029	Pennsylvania	Chester	physically_unhealthy_days	2.4
+42031	Pennsylvania	Clarion	physically_unhealthy_days	2.9
+42033	Pennsylvania	Clearfield	physically_unhealthy_days	3.8
+42035	Pennsylvania	Clinton	physically_unhealthy_days	4
+42037	Pennsylvania	Columbia	physically_unhealthy_days	4.3
+42039	Pennsylvania	Crawford	physically_unhealthy_days	4.1
+42041	Pennsylvania	Cumberland	physically_unhealthy_days	2.9
+42043	Pennsylvania	Dauphin	physically_unhealthy_days	3.1
+42045	Pennsylvania	Delaware	physically_unhealthy_days	3.4
+42047	Pennsylvania	Elk	physically_unhealthy_days	5.1
+42049	Pennsylvania	Erie	physically_unhealthy_days	3.8
+42051	Pennsylvania	Fayette	physically_unhealthy_days	4.4
+42053	Pennsylvania	Forest	physically_unhealthy_days	
+42055	Pennsylvania	Franklin	physically_unhealthy_days	3.1
+42057	Pennsylvania	Fulton	physically_unhealthy_days	
+42059	Pennsylvania	Greene	physically_unhealthy_days	5.1
+42061	Pennsylvania	Huntingdon	physically_unhealthy_days	3.3
+42063	Pennsylvania	Indiana	physically_unhealthy_days	4.4
+42065	Pennsylvania	Jefferson	physically_unhealthy_days	3.4
+42067	Pennsylvania	Juniata	physically_unhealthy_days	2.2
+42069	Pennsylvania	Lackawanna	physically_unhealthy_days	3.6
+42071	Pennsylvania	Lancaster	physically_unhealthy_days	2.7
+42073	Pennsylvania	Lawrence	physically_unhealthy_days	4.7
+42075	Pennsylvania	Lebanon	physically_unhealthy_days	3.3
+42077	Pennsylvania	Lehigh	physically_unhealthy_days	3.5
+42079	Pennsylvania	Luzerne	physically_unhealthy_days	4.1
+42081	Pennsylvania	Lycoming	physically_unhealthy_days	3.1
+42083	Pennsylvania	McKean	physically_unhealthy_days	3.4
+42085	Pennsylvania	Mercer	physically_unhealthy_days	3.9
+42087	Pennsylvania	Mifflin	physically_unhealthy_days	3.1
+42089	Pennsylvania	Monroe	physically_unhealthy_days	3.2
+42091	Pennsylvania	Montgomery	physically_unhealthy_days	2.8
+42093	Pennsylvania	Montour	physically_unhealthy_days	2.4
+42095	Pennsylvania	Northampton	physically_unhealthy_days	3.7
+42097	Pennsylvania	Northumberland	physically_unhealthy_days	3.6
+42099	Pennsylvania	Perry	physically_unhealthy_days	4.3
+42101	Pennsylvania	Philadelphia	physically_unhealthy_days	4.3
+42103	Pennsylvania	Pike	physically_unhealthy_days	3.7
+42105	Pennsylvania	Potter	physically_unhealthy_days	4
+42107	Pennsylvania	Schuylkill	physically_unhealthy_days	3.7
+42109	Pennsylvania	Snyder	physically_unhealthy_days	2.2
+42111	Pennsylvania	Somerset	physically_unhealthy_days	4
+42113	Pennsylvania	Sullivan	physically_unhealthy_days	3.4
+42115	Pennsylvania	Susquehanna	physically_unhealthy_days	4.3
+42117	Pennsylvania	Tioga	physically_unhealthy_days	3
+42119	Pennsylvania	Union	physically_unhealthy_days	3
+42121	Pennsylvania	Venango	physically_unhealthy_days	4
+42123	Pennsylvania	Warren	physically_unhealthy_days	3.6
+42125	Pennsylvania	Washington	physically_unhealthy_days	3.7
+42127	Pennsylvania	Wayne	physically_unhealthy_days	4
+42129	Pennsylvania	Westmoreland	physically_unhealthy_days	3.4
+42131	Pennsylvania	Wyoming	physically_unhealthy_days	3
+42133	Pennsylvania	York	physically_unhealthy_days	3.3
+44001	Rhode Island	Bristol	physically_unhealthy_days	3
+44003	Rhode Island	Kent	physically_unhealthy_days	3.7
+44005	Rhode Island	Newport	physically_unhealthy_days	2.8
+44007	Rhode Island	Providence	physically_unhealthy_days	3.8
+44009	Rhode Island	Washington	physically_unhealthy_days	3.2
+45001	South Carolina	Abbeville	physically_unhealthy_days	4
+45003	South Carolina	Aiken	physically_unhealthy_days	3.6
+45005	South Carolina	Allendale	physically_unhealthy_days	2.8
+45007	South Carolina	Anderson	physically_unhealthy_days	3.9
+45009	South Carolina	Bamberg	physically_unhealthy_days	4.3
+45011	South Carolina	Barnwell	physically_unhealthy_days	4
+45013	South Carolina	Beaufort	physically_unhealthy_days	2.7
+45015	South Carolina	Berkeley	physically_unhealthy_days	4.1
+45017	South Carolina	Calhoun	physically_unhealthy_days	3.8
+45019	South Carolina	Charleston	physically_unhealthy_days	3
+45021	South Carolina	Cherokee	physically_unhealthy_days	4.2
+45023	South Carolina	Chester	physically_unhealthy_days	3.9
+45025	South Carolina	Chesterfield	physically_unhealthy_days	4.1
+45027	South Carolina	Clarendon	physically_unhealthy_days	3.6
+45029	South Carolina	Colleton	physically_unhealthy_days	4.4
+45031	South Carolina	Darlington	physically_unhealthy_days	4.6
+45033	South Carolina	Dillon	physically_unhealthy_days	4.7
+45035	South Carolina	Dorchester	physically_unhealthy_days	3.7
+45037	South Carolina	Edgefield	physically_unhealthy_days	3.5
+45039	South Carolina	Fairfield	physically_unhealthy_days	3.6
+45041	South Carolina	Florence	physically_unhealthy_days	4
+45043	South Carolina	Georgetown	physically_unhealthy_days	3.6
+45045	South Carolina	Greenville	physically_unhealthy_days	3.2
+45047	South Carolina	Greenwood	physically_unhealthy_days	3.6
+45049	South Carolina	Hampton	physically_unhealthy_days	3.7
+45051	South Carolina	Horry	physically_unhealthy_days	3.7
+45053	South Carolina	Jasper	physically_unhealthy_days	3.9
+45055	South Carolina	Kershaw	physically_unhealthy_days	3.2
+45057	South Carolina	Lancaster	physically_unhealthy_days	3.8
+45059	South Carolina	Laurens	physically_unhealthy_days	4.3
+45061	South Carolina	Lee	physically_unhealthy_days	4.2
+45063	South Carolina	Lexington	physically_unhealthy_days	3.1
+45065	South Carolina	McCormick	physically_unhealthy_days	4.7
+45067	South Carolina	Marion	physically_unhealthy_days	4.4
+45069	South Carolina	Marlboro	physically_unhealthy_days	4.7
+45071	South Carolina	Newberry	physically_unhealthy_days	4.3
+45073	South Carolina	Oconee	physically_unhealthy_days	4.3
+45075	South Carolina	Orangeburg	physically_unhealthy_days	4.1
+45077	South Carolina	Pickens	physically_unhealthy_days	3.7
+45079	South Carolina	Richland	physically_unhealthy_days	3.4
+45081	South Carolina	Saluda	physically_unhealthy_days	3.4
+45083	South Carolina	Spartanburg	physically_unhealthy_days	3.8
+45085	South Carolina	Sumter	physically_unhealthy_days	3.9
+45087	South Carolina	Union	physically_unhealthy_days	3.9
+45089	South Carolina	Williamsburg	physically_unhealthy_days	3.7
+45091	South Carolina	York	physically_unhealthy_days	3.2
+46003	South Dakota	Aurora	physically_unhealthy_days	3.1
+46005	South Dakota	Beadle	physically_unhealthy_days	3.3
+46007	South Dakota	Bennett	physically_unhealthy_days	2.8
+46009	South Dakota	Bon Homme	physically_unhealthy_days	2.5
+46011	South Dakota	Brookings	physically_unhealthy_days	2.3
+46013	South Dakota	Brown	physically_unhealthy_days	2.9
+46015	South Dakota	Brule	physically_unhealthy_days	2.8
+46017	South Dakota	Buffalo	physically_unhealthy_days	4.4
+46019	South Dakota	Butte	physically_unhealthy_days	3.1
+46021	South Dakota	Campbell	physically_unhealthy_days	2.6
+46023	South Dakota	Charles Mix	physically_unhealthy_days	2.4
+46025	South Dakota	Clark	physically_unhealthy_days	2.8
+46027	South Dakota	Clay	physically_unhealthy_days	2.5
+46029	South Dakota	Codington	physically_unhealthy_days	2.6
+46031	South Dakota	Corson	physically_unhealthy_days	4.2
+46033	South Dakota	Custer	physically_unhealthy_days	3.1
+46035	South Dakota	Davison	physically_unhealthy_days	2.1
+46037	South Dakota	Day	physically_unhealthy_days	3.6
+46039	South Dakota	Deuel	physically_unhealthy_days	3.3
+46041	South Dakota	Dewey	physically_unhealthy_days	3.3
+46043	South Dakota	Douglas	physically_unhealthy_days	2.6
+46045	South Dakota	Edmunds	physically_unhealthy_days	2.7
+46047	South Dakota	Fall River	physically_unhealthy_days	4.4
+46049	South Dakota	Faulk	physically_unhealthy_days	2.3
+46051	South Dakota	Grant	physically_unhealthy_days	2.9
+46053	South Dakota	Gregory	physically_unhealthy_days	2.4
+46055	South Dakota	Haakon	physically_unhealthy_days	2.3
+46057	South Dakota	Hamlin	physically_unhealthy_days	2.9
+46059	South Dakota	Hand	physically_unhealthy_days	2.3
+46061	South Dakota	Hanson	physically_unhealthy_days	2.6
+46063	South Dakota	Harding	physically_unhealthy_days	1.1
+46065	South Dakota	Hughes	physically_unhealthy_days	2.6
+46067	South Dakota	Hutchinson	physically_unhealthy_days	1.9
+46069	South Dakota	Hyde	physically_unhealthy_days	2.7
+46071	South Dakota	Jackson	physically_unhealthy_days	2.5
+46073	South Dakota	Jerauld	physically_unhealthy_days	2
+46075	South Dakota	Jones	physically_unhealthy_days	2.4
+46077	South Dakota	Kingsbury	physically_unhealthy_days	2.4
+46079	South Dakota	Lake	physically_unhealthy_days	2.9
+46081	South Dakota	Lawrence	physically_unhealthy_days	3
+46083	South Dakota	Lincoln	physically_unhealthy_days	1.9
+46085	South Dakota	Lyman	physically_unhealthy_days	2.3
+46087	South Dakota	McCook	physically_unhealthy_days	2
+46089	South Dakota	McPherson	physically_unhealthy_days	2.7
+46091	South Dakota	Marshall	physically_unhealthy_days	2.2
+46093	South Dakota	Meade	physically_unhealthy_days	2.7
+46095	South Dakota	Mellette	physically_unhealthy_days	2.6
+46097	South Dakota	Miner	physically_unhealthy_days	1.7
+46099	South Dakota	Minnehaha	physically_unhealthy_days	2.7
+46101	South Dakota	Moody	physically_unhealthy_days	2.8
+46103	South Dakota	Pennington	physically_unhealthy_days	3.1
+46105	South Dakota	Perkins	physically_unhealthy_days	2.5
+46107	South Dakota	Potter	physically_unhealthy_days	2.2
+46109	South Dakota	Roberts	physically_unhealthy_days	2.8
+46111	South Dakota	Sanborn	physically_unhealthy_days	2.6
+46113	South Dakota	Shannon	physically_unhealthy_days	3.9
+46115	South Dakota	Spink	physically_unhealthy_days	3.3
+46117	South Dakota	Stanley	physically_unhealthy_days	3
+46119	South Dakota	Sully	physically_unhealthy_days	2
+46121	South Dakota	Todd	physically_unhealthy_days	3.9
+46123	South Dakota	Tripp	physically_unhealthy_days	3.5
+46125	South Dakota	Turner	physically_unhealthy_days	2.9
+46127	South Dakota	Union	physically_unhealthy_days	2.2
+46129	South Dakota	Walworth	physically_unhealthy_days	3.6
+46135	South Dakota	Yankton	physically_unhealthy_days	2.7
+46137	South Dakota	Ziebach	physically_unhealthy_days	5.2
+47001	Tennessee	Anderson	physically_unhealthy_days	5.4
+47003	Tennessee	Bedford	physically_unhealthy_days	4.3
+47005	Tennessee	Benton	physically_unhealthy_days	5
+47007	Tennessee	Bledsoe	physically_unhealthy_days	
+47009	Tennessee	Blount	physically_unhealthy_days	3.2
+47011	Tennessee	Bradley	physically_unhealthy_days	4.4
+47013	Tennessee	Campbell	physically_unhealthy_days	8
+47015	Tennessee	Cannon	physically_unhealthy_days	5
+47017	Tennessee	Carroll	physically_unhealthy_days	4.1
+47019	Tennessee	Carter	physically_unhealthy_days	5.9
+47021	Tennessee	Cheatham	physically_unhealthy_days	3.6
+47023	Tennessee	Chester	physically_unhealthy_days	3.3
+47025	Tennessee	Claiborne	physically_unhealthy_days	5
+47027	Tennessee	Clay	physically_unhealthy_days	
+47029	Tennessee	Cocke	physically_unhealthy_days	6.4
+47031	Tennessee	Coffee	physically_unhealthy_days	4.4
+47033	Tennessee	Crockett	physically_unhealthy_days	3.9
+47035	Tennessee	Cumberland	physically_unhealthy_days	3.7
+47037	Tennessee	Davidson	physically_unhealthy_days	3
+47039	Tennessee	Decatur	physically_unhealthy_days	6.2
+47041	Tennessee	DeKalb	physically_unhealthy_days	3.7
+47043	Tennessee	Dickson	physically_unhealthy_days	4.3
+47045	Tennessee	Dyer	physically_unhealthy_days	4.3
+47047	Tennessee	Fayette	physically_unhealthy_days	3.7
+47049	Tennessee	Fentress	physically_unhealthy_days	7.5
+47051	Tennessee	Franklin	physically_unhealthy_days	4.1
+47053	Tennessee	Gibson	physically_unhealthy_days	4.1
+47055	Tennessee	Giles	physically_unhealthy_days	3.7
+47057	Tennessee	Grainger	physically_unhealthy_days	5
+47059	Tennessee	Greene	physically_unhealthy_days	5.6
+47061	Tennessee	Grundy	physically_unhealthy_days	6.5
+47063	Tennessee	Hamblen	physically_unhealthy_days	6.4
+47065	Tennessee	Hamilton	physically_unhealthy_days	3.4
+47067	Tennessee	Hancock	physically_unhealthy_days	
+47069	Tennessee	Hardeman	physically_unhealthy_days	3.9
+47071	Tennessee	Hardin	physically_unhealthy_days	5.3
+47073	Tennessee	Hawkins	physically_unhealthy_days	5.8
+47075	Tennessee	Haywood	physically_unhealthy_days	3.9
+47077	Tennessee	Henderson	physically_unhealthy_days	3.4
+47079	Tennessee	Henry	physically_unhealthy_days	4.5
+47081	Tennessee	Hickman	physically_unhealthy_days	6.5
+47083	Tennessee	Houston	physically_unhealthy_days	
+47085	Tennessee	Humphreys	physically_unhealthy_days	4.1
+47087	Tennessee	Jackson	physically_unhealthy_days	4.4
+47089	Tennessee	Jefferson	physically_unhealthy_days	4.8
+47091	Tennessee	Johnson	physically_unhealthy_days	5.2
+47093	Tennessee	Knox	physically_unhealthy_days	4
+47095	Tennessee	Lake	physically_unhealthy_days	4.2
+47097	Tennessee	Lauderdale	physically_unhealthy_days	6
+47099	Tennessee	Lawrence	physically_unhealthy_days	5
+47101	Tennessee	Lewis	physically_unhealthy_days	4.9
+47103	Tennessee	Lincoln	physically_unhealthy_days	5.2
+47105	Tennessee	Loudon	physically_unhealthy_days	3.9
+47107	Tennessee	McMinn	physically_unhealthy_days	5.5
+47109	Tennessee	McNairy	physically_unhealthy_days	4.8
+47111	Tennessee	Macon	physically_unhealthy_days	5.5
+47113	Tennessee	Madison	physically_unhealthy_days	3.7
+47115	Tennessee	Marion	physically_unhealthy_days	6.8
+47117	Tennessee	Marshall	physically_unhealthy_days	5.5
+47119	Tennessee	Maury	physically_unhealthy_days	4.9
+47121	Tennessee	Meigs	physically_unhealthy_days	5
+47123	Tennessee	Monroe	physically_unhealthy_days	4.4
+47125	Tennessee	Montgomery	physically_unhealthy_days	5.1
+47127	Tennessee	Moore	physically_unhealthy_days	3.2
+47129	Tennessee	Morgan	physically_unhealthy_days	5.5
+47131	Tennessee	Obion	physically_unhealthy_days	4.4
+47133	Tennessee	Overton	physically_unhealthy_days	5.5
+47135	Tennessee	Perry	physically_unhealthy_days	5.2
+47137	Tennessee	Pickett	physically_unhealthy_days	
+47139	Tennessee	Polk	physically_unhealthy_days	6.2
+47141	Tennessee	Putnam	physically_unhealthy_days	3.9
+47143	Tennessee	Rhea	physically_unhealthy_days	5.4
+47145	Tennessee	Roane	physically_unhealthy_days	4.3
+47147	Tennessee	Robertson	physically_unhealthy_days	3.2
+47149	Tennessee	Rutherford	physically_unhealthy_days	3.7
+47151	Tennessee	Scott	physically_unhealthy_days	
+47153	Tennessee	Sequatchie	physically_unhealthy_days	8.5
+47155	Tennessee	Sevier	physically_unhealthy_days	4.2
+47157	Tennessee	Shelby	physically_unhealthy_days	3.3
+47159	Tennessee	Smith	physically_unhealthy_days	3.2
+47161	Tennessee	Stewart	physically_unhealthy_days	
+47163	Tennessee	Sullivan	physically_unhealthy_days	5
+47165	Tennessee	Sumner	physically_unhealthy_days	3.4
+47167	Tennessee	Tipton	physically_unhealthy_days	4.4
+47169	Tennessee	Trousdale	physically_unhealthy_days	
+47171	Tennessee	Unicoi	physically_unhealthy_days	4.9
+47173	Tennessee	Union	physically_unhealthy_days	
+47175	Tennessee	Van Buren	physically_unhealthy_days	4.6
+47177	Tennessee	Warren	physically_unhealthy_days	5.5
+47179	Tennessee	Washington	physically_unhealthy_days	4.8
+47181	Tennessee	Wayne	physically_unhealthy_days	4.5
+47183	Tennessee	Weakley	physically_unhealthy_days	4.5
+47185	Tennessee	White	physically_unhealthy_days	4.9
+47187	Tennessee	Williamson	physically_unhealthy_days	1.8
+47189	Tennessee	Wilson	physically_unhealthy_days	5
+48001	Texas	Anderson	physically_unhealthy_days	3.6
+48003	Texas	Andrews	physically_unhealthy_days	2.4
+48005	Texas	Angelina	physically_unhealthy_days	5
+48007	Texas	Aransas	physically_unhealthy_days	4.1
+48009	Texas	Archer	physically_unhealthy_days	3.4
+48011	Texas	Armstrong	physically_unhealthy_days	
+48013	Texas	Atascosa	physically_unhealthy_days	5.5
+48015	Texas	Austin	physically_unhealthy_days	4.3
+48017	Texas	Bailey	physically_unhealthy_days	
+48019	Texas	Bandera	physically_unhealthy_days	
+48021	Texas	Bastrop	physically_unhealthy_days	2.9
+48023	Texas	Baylor	physically_unhealthy_days	3.9
+48025	Texas	Bee	physically_unhealthy_days	3.8
+48027	Texas	Bell	physically_unhealthy_days	4
+48029	Texas	Bexar	physically_unhealthy_days	3.6
+48031	Texas	Blanco	physically_unhealthy_days	
+48033	Texas	Borden	physically_unhealthy_days	
+48035	Texas	Bosque	physically_unhealthy_days	3.8
+48037	Texas	Bowie	physically_unhealthy_days	4.2
+48039	Texas	Brazoria	physically_unhealthy_days	3
+48041	Texas	Brazos	physically_unhealthy_days	3.8
+48043	Texas	Brewster	physically_unhealthy_days	5.1
+48045	Texas	Briscoe	physically_unhealthy_days	
+48047	Texas	Brooks	physically_unhealthy_days	
+48049	Texas	Brown	physically_unhealthy_days	4.6
+48051	Texas	Burleson	physically_unhealthy_days	2.1
+48053	Texas	Burnet	physically_unhealthy_days	1.9
+48055	Texas	Caldwell	physically_unhealthy_days	3.3
+48057	Texas	Calhoun	physically_unhealthy_days	2.7
+48059	Texas	Callahan	physically_unhealthy_days	4
+48061	Texas	Cameron	physically_unhealthy_days	4.4
+48063	Texas	Camp	physically_unhealthy_days	
+48065	Texas	Carson	physically_unhealthy_days	
+48067	Texas	Cass	physically_unhealthy_days	5.9
+48069	Texas	Castro	physically_unhealthy_days	
+48071	Texas	Chambers	physically_unhealthy_days	4.9
+48073	Texas	Cherokee	physically_unhealthy_days	5.3
+48075	Texas	Childress	physically_unhealthy_days	
+48077	Texas	Clay	physically_unhealthy_days	
+48079	Texas	Cochran	physically_unhealthy_days	
+48081	Texas	Coke	physically_unhealthy_days	
+48083	Texas	Coleman	physically_unhealthy_days	2.4
+48085	Texas	Collin	physically_unhealthy_days	2.8
+48087	Texas	Collingsworth	physically_unhealthy_days	
+48089	Texas	Colorado	physically_unhealthy_days	
+48091	Texas	Comal	physically_unhealthy_days	2
+48093	Texas	Comanche	physically_unhealthy_days	5.9
+48095	Texas	Concho	physically_unhealthy_days	
+48097	Texas	Cooke	physically_unhealthy_days	2.1
+48099	Texas	Coryell	physically_unhealthy_days	5
+48101	Texas	Cottle	physically_unhealthy_days	
+48103	Texas	Crane	physically_unhealthy_days	
+48105	Texas	Crockett	physically_unhealthy_days	
+48107	Texas	Crosby	physically_unhealthy_days	4.1
+48109	Texas	Culberson	physically_unhealthy_days	
+48111	Texas	Dallam	physically_unhealthy_days	2.7
+48113	Texas	Dallas	physically_unhealthy_days	3.3
+48115	Texas	Dawson	physically_unhealthy_days	
+48117	Texas	Deaf Smith	physically_unhealthy_days	
+48119	Texas	Delta	physically_unhealthy_days	
+48121	Texas	Denton	physically_unhealthy_days	2.8
+48123	Texas	DeWitt	physically_unhealthy_days	2.6
+48125	Texas	Dickens	physically_unhealthy_days	
+48127	Texas	Dimmit	physically_unhealthy_days	
+48129	Texas	Donley	physically_unhealthy_days	
+48131	Texas	Duval	physically_unhealthy_days	
+48133	Texas	Eastland	physically_unhealthy_days	5.6
+48135	Texas	Ector	physically_unhealthy_days	4.2
+48137	Texas	Edwards	physically_unhealthy_days	3.7
+48139	Texas	Ellis	physically_unhealthy_days	3.6
+48141	Texas	El Paso	physically_unhealthy_days	4.2
+48143	Texas	Erath	physically_unhealthy_days	2.4
+48145	Texas	Falls	physically_unhealthy_days	4.6
+48147	Texas	Fannin	physically_unhealthy_days	
+48149	Texas	Fayette	physically_unhealthy_days	3.3
+48151	Texas	Fisher	physically_unhealthy_days	
+48153	Texas	Floyd	physically_unhealthy_days	
+48155	Texas	Foard	physically_unhealthy_days	
+48157	Texas	Fort Bend	physically_unhealthy_days	3.2
+48159	Texas	Franklin	physically_unhealthy_days	1.9
+48161	Texas	Freestone	physically_unhealthy_days	3.4
+48163	Texas	Frio	physically_unhealthy_days	
+48165	Texas	Gaines	physically_unhealthy_days	4.3
+48167	Texas	Galveston	physically_unhealthy_days	3.1
+48169	Texas	Garza	physically_unhealthy_days	
+48171	Texas	Gillespie	physically_unhealthy_days	1.9
+48173	Texas	Glasscock	physically_unhealthy_days	
+48175	Texas	Goliad	physically_unhealthy_days	
+48177	Texas	Gonzales	physically_unhealthy_days	3.5
+48179	Texas	Gray	physically_unhealthy_days	3.1
+48181	Texas	Grayson	physically_unhealthy_days	5.4
+48183	Texas	Gregg	physically_unhealthy_days	3.7
+48185	Texas	Grimes	physically_unhealthy_days	2.4
+48187	Texas	Guadalupe	physically_unhealthy_days	3.6
+48189	Texas	Hale	physically_unhealthy_days	4.3
+48191	Texas	Hall	physically_unhealthy_days	
+48193	Texas	Hamilton	physically_unhealthy_days	
+48195	Texas	Hansford	physically_unhealthy_days	
+48197	Texas	Hardeman	physically_unhealthy_days	
+48199	Texas	Hardin	physically_unhealthy_days	5.5
+48201	Texas	Harris	physically_unhealthy_days	3.6
+48203	Texas	Harrison	physically_unhealthy_days	3.7
+48205	Texas	Hartley	physically_unhealthy_days	
+48207	Texas	Haskell	physically_unhealthy_days	
+48209	Texas	Hays	physically_unhealthy_days	3.8
+48211	Texas	Hemphill	physically_unhealthy_days	
+48213	Texas	Henderson	physically_unhealthy_days	4.8
+48215	Texas	Hidalgo	physically_unhealthy_days	4.4
+48217	Texas	Hill	physically_unhealthy_days	4.7
+48219	Texas	Hockley	physically_unhealthy_days	3.2
+48221	Texas	Hood	physically_unhealthy_days	5.2
+48223	Texas	Hopkins	physically_unhealthy_days	3.3
+48225	Texas	Houston	physically_unhealthy_days	4.8
+48227	Texas	Howard	physically_unhealthy_days	5.2
+48229	Texas	Hudspeth	physically_unhealthy_days	
+48231	Texas	Hunt	physically_unhealthy_days	3.7
+48233	Texas	Hutchinson	physically_unhealthy_days	4.3
+48235	Texas	Irion	physically_unhealthy_days	
+48237	Texas	Jack	physically_unhealthy_days	
+48239	Texas	Jackson	physically_unhealthy_days	
+48241	Texas	Jasper	physically_unhealthy_days	5
+48243	Texas	Jeff Davis	physically_unhealthy_days	2.3
+48245	Texas	Jefferson	physically_unhealthy_days	4.3
+48247	Texas	Jim Hogg	physically_unhealthy_days	
+48249	Texas	Jim Wells	physically_unhealthy_days	4.8
+48251	Texas	Johnson	physically_unhealthy_days	5.1
+48253	Texas	Jones	physically_unhealthy_days	
+48255	Texas	Karnes	physically_unhealthy_days	3
+48257	Texas	Kaufman	physically_unhealthy_days	5.2
+48259	Texas	Kendall	physically_unhealthy_days	2.6
+48261	Texas	Kenedy	physically_unhealthy_days	
+48263	Texas	Kent	physically_unhealthy_days	
+48265	Texas	Kerr	physically_unhealthy_days	3.9
+48267	Texas	Kimble	physically_unhealthy_days	
+48269	Texas	King	physically_unhealthy_days	
+48271	Texas	Kinney	physically_unhealthy_days	
+48273	Texas	Kleberg	physically_unhealthy_days	2.7
+48275	Texas	Knox	physically_unhealthy_days	
+48277	Texas	Lamar	physically_unhealthy_days	4.6
+48279	Texas	Lamb	physically_unhealthy_days	2.6
+48281	Texas	Lampasas	physically_unhealthy_days	1.9
+48283	Texas	La Salle	physically_unhealthy_days	
+48285	Texas	Lavaca	physically_unhealthy_days	3.7
+48287	Texas	Lee	physically_unhealthy_days	5.2
+48289	Texas	Leon	physically_unhealthy_days	2.8
+48291	Texas	Liberty	physically_unhealthy_days	3.9
+48293	Texas	Limestone	physically_unhealthy_days	4.5
+48295	Texas	Lipscomb	physically_unhealthy_days	
+48297	Texas	Live Oak	physically_unhealthy_days	
+48299	Texas	Llano	physically_unhealthy_days	3.2
+48301	Texas	Loving	physically_unhealthy_days	
+48303	Texas	Lubbock	physically_unhealthy_days	3.7
+48305	Texas	Lynn	physically_unhealthy_days	3.5
+48307	Texas	McCulloch	physically_unhealthy_days	
+48309	Texas	McLennan	physically_unhealthy_days	4.7
+48311	Texas	McMullen	physically_unhealthy_days	
+48313	Texas	Madison	physically_unhealthy_days	
+48315	Texas	Marion	physically_unhealthy_days	
+48317	Texas	Martin	physically_unhealthy_days	
+48319	Texas	Mason	physically_unhealthy_days	
+48321	Texas	Matagorda	physically_unhealthy_days	5.1
+48323	Texas	Maverick	physically_unhealthy_days	3.9
+48325	Texas	Medina	physically_unhealthy_days	3.8
+48327	Texas	Menard	physically_unhealthy_days	
+48329	Texas	Midland	physically_unhealthy_days	2.8
+48331	Texas	Milam	physically_unhealthy_days	3.8
+48333	Texas	Mills	physically_unhealthy_days	
+48335	Texas	Mitchell	physically_unhealthy_days	
+48337	Texas	Montague	physically_unhealthy_days	
+48339	Texas	Montgomery	physically_unhealthy_days	3.8
+48341	Texas	Moore	physically_unhealthy_days	4.7
+48343	Texas	Morris	physically_unhealthy_days	
+48345	Texas	Motley	physically_unhealthy_days	
+48347	Texas	Nacogdoches	physically_unhealthy_days	4
+48349	Texas	Navarro	physically_unhealthy_days	4.5
+48351	Texas	Newton	physically_unhealthy_days	
+48353	Texas	Nolan	physically_unhealthy_days	
+48355	Texas	Nueces	physically_unhealthy_days	4.4
+48357	Texas	Ochiltree	physically_unhealthy_days	
+48359	Texas	Oldham	physically_unhealthy_days	
+48361	Texas	Orange	physically_unhealthy_days	3.7
+48363	Texas	Palo Pinto	physically_unhealthy_days	5.1
+48365	Texas	Panola	physically_unhealthy_days	4.8
+48367	Texas	Parker	physically_unhealthy_days	3
+48369	Texas	Parmer	physically_unhealthy_days	
+48371	Texas	Pecos	physically_unhealthy_days	3
+48373	Texas	Polk	physically_unhealthy_days	5.2
+48375	Texas	Potter	physically_unhealthy_days	4.1
+48377	Texas	Presidio	physically_unhealthy_days	4
+48379	Texas	Rains	physically_unhealthy_days	
+48381	Texas	Randall	physically_unhealthy_days	3.5
+48383	Texas	Reagan	physically_unhealthy_days	
+48385	Texas	Real	physically_unhealthy_days	
+48387	Texas	Red River	physically_unhealthy_days	
+48389	Texas	Reeves	physically_unhealthy_days	
+48391	Texas	Refugio	physically_unhealthy_days	
+48393	Texas	Roberts	physically_unhealthy_days	
+48395	Texas	Robertson	physically_unhealthy_days	
+48397	Texas	Rockwall	physically_unhealthy_days	2.7
+48399	Texas	Runnels	physically_unhealthy_days	
+48401	Texas	Rusk	physically_unhealthy_days	3.5
+48403	Texas	Sabine	physically_unhealthy_days	
+48405	Texas	San Augustine	physically_unhealthy_days	
+48407	Texas	San Jacinto	physically_unhealthy_days	
+48409	Texas	San Patricio	physically_unhealthy_days	3.9
+48411	Texas	San Saba	physically_unhealthy_days	
+48413	Texas	Schleicher	physically_unhealthy_days	
+48415	Texas	Scurry	physically_unhealthy_days	3
+48417	Texas	Shackelford	physically_unhealthy_days	
+48419	Texas	Shelby	physically_unhealthy_days	3
+48421	Texas	Sherman	physically_unhealthy_days	
+48423	Texas	Smith	physically_unhealthy_days	3.8
+48425	Texas	Somervell	physically_unhealthy_days	
+48427	Texas	Starr	physically_unhealthy_days	3.9
+48429	Texas	Stephens	physically_unhealthy_days	
+48431	Texas	Sterling	physically_unhealthy_days	
+48433	Texas	Stonewall	physically_unhealthy_days	
+48435	Texas	Sutton	physically_unhealthy_days	
+48437	Texas	Swisher	physically_unhealthy_days	
+48439	Texas	Tarrant	physically_unhealthy_days	3.2
+48441	Texas	Taylor	physically_unhealthy_days	3.8
+48443	Texas	Terrell	physically_unhealthy_days	3.1
+48445	Texas	Terry	physically_unhealthy_days	4.8
+48447	Texas	Throckmorton	physically_unhealthy_days	
+48449	Texas	Titus	physically_unhealthy_days	3.7
+48451	Texas	Tom Green	physically_unhealthy_days	3.7
+48453	Texas	Travis	physically_unhealthy_days	2.9
+48455	Texas	Trinity	physically_unhealthy_days	6.1
+48457	Texas	Tyler	physically_unhealthy_days	
+48459	Texas	Upshur	physically_unhealthy_days	3.8
+48461	Texas	Upton	physically_unhealthy_days	
+48463	Texas	Uvalde	physically_unhealthy_days	
+48465	Texas	Val Verde	physically_unhealthy_days	3.1
+48467	Texas	Van Zandt	physically_unhealthy_days	4.2
+48469	Texas	Victoria	physically_unhealthy_days	3
+48471	Texas	Walker	physically_unhealthy_days	5.7
+48473	Texas	Waller	physically_unhealthy_days	2.4
+48475	Texas	Ward	physically_unhealthy_days	
+48477	Texas	Washington	physically_unhealthy_days	2.2
+48479	Texas	Webb	physically_unhealthy_days	3.6
+48481	Texas	Wharton	physically_unhealthy_days	3.8
+48483	Texas	Wheeler	physically_unhealthy_days	
+48485	Texas	Wichita	physically_unhealthy_days	3.8
+48487	Texas	Wilbarger	physically_unhealthy_days	4.4
+48489	Texas	Willacy	physically_unhealthy_days	
+48491	Texas	Williamson	physically_unhealthy_days	2.8
+48493	Texas	Wilson	physically_unhealthy_days	3.2
+48495	Texas	Winkler	physically_unhealthy_days	
+48497	Texas	Wise	physically_unhealthy_days	3.6
+48499	Texas	Wood	physically_unhealthy_days	5
+48501	Texas	Yoakum	physically_unhealthy_days	
+48503	Texas	Young	physically_unhealthy_days	4.6
+48505	Texas	Zapata	physically_unhealthy_days	5.2
+48507	Texas	Zavala	physically_unhealthy_days	
+49001	Utah	Beaver	physically_unhealthy_days	2.7
+49003	Utah	Box Elder	physically_unhealthy_days	3.6
+49005	Utah	Cache	physically_unhealthy_days	3.1
+49007	Utah	Carbon	physically_unhealthy_days	4.4
+49009	Utah	Daggett	physically_unhealthy_days	1.3
+49011	Utah	Davis	physically_unhealthy_days	3.2
+49013	Utah	Duchesne	physically_unhealthy_days	3.9
+49015	Utah	Emery	physically_unhealthy_days	4.4
+49017	Utah	Garfield	physically_unhealthy_days	4.4
+49019	Utah	Grand	physically_unhealthy_days	3.4
+49021	Utah	Iron	physically_unhealthy_days	3.4
+49023	Utah	Juab	physically_unhealthy_days	3.3
+49025	Utah	Kane	physically_unhealthy_days	4
+49027	Utah	Millard	physically_unhealthy_days	3.8
+49029	Utah	Morgan	physically_unhealthy_days	2.1
+49031	Utah	Piute	physically_unhealthy_days	4.1
+49033	Utah	Rich	physically_unhealthy_days	
+49035	Utah	Salt Lake	physically_unhealthy_days	3.3
+49037	Utah	San Juan	physically_unhealthy_days	3.1
+49039	Utah	Sanpete	physically_unhealthy_days	3
+49041	Utah	Sevier	physically_unhealthy_days	4.7
+49043	Utah	Summit	physically_unhealthy_days	2.5
+49045	Utah	Tooele	physically_unhealthy_days	4.1
+49047	Utah	Uintah	physically_unhealthy_days	3.6
+49049	Utah	Utah	physically_unhealthy_days	3.5
+49051	Utah	Wasatch	physically_unhealthy_days	2.9
+49053	Utah	Washington	physically_unhealthy_days	3.2
+49055	Utah	Wayne	physically_unhealthy_days	1.7
+49057	Utah	Weber	physically_unhealthy_days	3.7
+50001	Vermont	Addison	physically_unhealthy_days	2.9
+50003	Vermont	Bennington	physically_unhealthy_days	3.3
+50005	Vermont	Caledonia	physically_unhealthy_days	3.2
+50007	Vermont	Chittenden	physically_unhealthy_days	2.8
+50009	Vermont	Essex	physically_unhealthy_days	4.5
+50011	Vermont	Franklin	physically_unhealthy_days	3.7
+50013	Vermont	Grand Isle	physically_unhealthy_days	2.8
+50015	Vermont	Lamoille	physically_unhealthy_days	3.2
+50017	Vermont	Orange	physically_unhealthy_days	3.1
+50019	Vermont	Orleans	physically_unhealthy_days	3.7
+50021	Vermont	Rutland	physically_unhealthy_days	3.5
+50023	Vermont	Washington	physically_unhealthy_days	3
+50025	Vermont	Windham	physically_unhealthy_days	3.2
+50027	Vermont	Windsor	physically_unhealthy_days	3.2
+51001	Virginia	Accomack	physically_unhealthy_days	3.5
+51003	Virginia	Albemarle	physically_unhealthy_days	2.2
+51005	Virginia	Alleghany	physically_unhealthy_days	3.5
+51007	Virginia	Amelia	physically_unhealthy_days	3.5
+51009	Virginia	Amherst	physically_unhealthy_days	2.2
+51011	Virginia	Appomattox	physically_unhealthy_days	2.4
+51013	Virginia	Arlington	physically_unhealthy_days	2.5
+51015	Virginia	Augusta	physically_unhealthy_days	2.4
+51017	Virginia	Bath	physically_unhealthy_days	
+51019	Virginia	Bedford	physically_unhealthy_days	3.6
+51021	Virginia	Bland	physically_unhealthy_days	
+51023	Virginia	Botetourt	physically_unhealthy_days	4.5
+51025	Virginia	Brunswick	physically_unhealthy_days	3.1
+51027	Virginia	Buchanan	physically_unhealthy_days	6.9
+51029	Virginia	Buckingham	physically_unhealthy_days	4.5
+51031	Virginia	Campbell	physically_unhealthy_days	4.3
+51033	Virginia	Caroline	physically_unhealthy_days	2.3
+51035	Virginia	Carroll	physically_unhealthy_days	4
+51036	Virginia	Charles City	physically_unhealthy_days	
+51037	Virginia	Charlotte	physically_unhealthy_days	4.9
+51041	Virginia	Chesterfield	physically_unhealthy_days	2.7
+51043	Virginia	Clarke	physically_unhealthy_days	2.7
+51045	Virginia	Craig	physically_unhealthy_days	4.3
+51047	Virginia	Culpeper	physically_unhealthy_days	3.7
+51049	Virginia	Cumberland	physically_unhealthy_days	4.4
+51051	Virginia	Dickenson	physically_unhealthy_days	7.4
+51053	Virginia	Dinwiddie	physically_unhealthy_days	3
+51057	Virginia	Essex	physically_unhealthy_days	2.4
+51059	Virginia	Fairfax	physically_unhealthy_days	2.2
+51061	Virginia	Fauquier	physically_unhealthy_days	2.9
+51063	Virginia	Floyd	physically_unhealthy_days	3.4
+51065	Virginia	Fluvanna	physically_unhealthy_days	3.6
+51067	Virginia	Franklin	physically_unhealthy_days	3.6
+51069	Virginia	Frederick	physically_unhealthy_days	2.7
+51071	Virginia	Giles	physically_unhealthy_days	4
+51073	Virginia	Gloucester	physically_unhealthy_days	3.2
+51075	Virginia	Goochland	physically_unhealthy_days	2.7
+51077	Virginia	Grayson	physically_unhealthy_days	3.2
+51079	Virginia	Greene	physically_unhealthy_days	2
+51081	Virginia	Greensville	physically_unhealthy_days	3.2
+51083	Virginia	Halifax	physically_unhealthy_days	3.9
+51085	Virginia	Hanover	physically_unhealthy_days	2.5
+51087	Virginia	Henrico	physically_unhealthy_days	2.9
+51089	Virginia	Henry	physically_unhealthy_days	5.1
+51091	Virginia	Highland	physically_unhealthy_days	
+51093	Virginia	Isle of Wight	physically_unhealthy_days	2.7
+51095	Virginia	James City	physically_unhealthy_days	3.1
+51097	Virginia	King and Queen	physically_unhealthy_days	
+51099	Virginia	King George	physically_unhealthy_days	2.4
+51101	Virginia	King William	physically_unhealthy_days	3.5
+51103	Virginia	Lancaster	physically_unhealthy_days	3.4
+51105	Virginia	Lee	physically_unhealthy_days	5.6
+51107	Virginia	Loudoun	physically_unhealthy_days	2.3
+51109	Virginia	Louisa	physically_unhealthy_days	4
+51111	Virginia	Lunenburg	physically_unhealthy_days	4
+51113	Virginia	Madison	physically_unhealthy_days	
+51115	Virginia	Mathews	physically_unhealthy_days	2.8
+51117	Virginia	Mecklenburg	physically_unhealthy_days	3.8
+51119	Virginia	Middlesex	physically_unhealthy_days	1.7
+51121	Virginia	Montgomery	physically_unhealthy_days	3.3
+51125	Virginia	Nelson	physically_unhealthy_days	1.3
+51127	Virginia	New Kent	physically_unhealthy_days	3.2
+51131	Virginia	Northampton	physically_unhealthy_days	3.6
+51133	Virginia	Northumberland	physically_unhealthy_days	3.9
+51135	Virginia	Nottoway	physically_unhealthy_days	4.2
+51137	Virginia	Orange	physically_unhealthy_days	3.2
+51139	Virginia	Page	physically_unhealthy_days	3
+51141	Virginia	Patrick	physically_unhealthy_days	
+51143	Virginia	Pittsylvania	physically_unhealthy_days	3.8
+51145	Virginia	Powhatan	physically_unhealthy_days	1.9
+51147	Virginia	Prince Edward	physically_unhealthy_days	2.9
+51149	Virginia	Prince George	physically_unhealthy_days	3.3
+51153	Virginia	Prince William	physically_unhealthy_days	3.3
+51155	Virginia	Pulaski	physically_unhealthy_days	5.2
+51157	Virginia	Rappahannock	physically_unhealthy_days	
+51159	Virginia	Richmond	physically_unhealthy_days	3.7
+51161	Virginia	Roanoke	physically_unhealthy_days	4
+51163	Virginia	Rockbridge	physically_unhealthy_days	3.1
+51165	Virginia	Rockingham	physically_unhealthy_days	2.7
+51167	Virginia	Russell	physically_unhealthy_days	6.6
+51169	Virginia	Scott	physically_unhealthy_days	4.8
+51171	Virginia	Shenandoah	physically_unhealthy_days	3.4
+51173	Virginia	Smyth	physically_unhealthy_days	6.1
+51175	Virginia	Southampton	physically_unhealthy_days	2.6
+51177	Virginia	Spotsylvania	physically_unhealthy_days	2.9
+51179	Virginia	Stafford	physically_unhealthy_days	3.5
+51181	Virginia	Surry	physically_unhealthy_days	4.3
+51183	Virginia	Sussex	physically_unhealthy_days	3.7
+51185	Virginia	Tazewell	physically_unhealthy_days	6
+51187	Virginia	Warren	physically_unhealthy_days	3.9
+51191	Virginia	Washington	physically_unhealthy_days	4.4
+51193	Virginia	Westmoreland	physically_unhealthy_days	4.1
+51195	Virginia	Wise	physically_unhealthy_days	6.4
+51197	Virginia	Wythe	physically_unhealthy_days	5
+51199	Virginia	York	physically_unhealthy_days	2.4
+51510	Virginia	Alexandria City	physically_unhealthy_days	2.4
+51515	Virginia	Bedford City	physically_unhealthy_days	1.7
+51520	Virginia	Bristol City	physically_unhealthy_days	
+51530	Virginia	Buena Vista City	physically_unhealthy_days	
+51540	Virginia	Charlottesville City	physically_unhealthy_days	2.6
+51550	Virginia	Chesapeake City	physically_unhealthy_days	2.8
+51570	Virginia	Colonial Heights City	physically_unhealthy_days	
+51580	Virginia	Covington City	physically_unhealthy_days	
+51590	Virginia	Danville City	physically_unhealthy_days	3.4
+51595	Virginia	Emporia City	physically_unhealthy_days	
+51600	Virginia	Fairfax City	physically_unhealthy_days	2.1
+51610	Virginia	Falls Church City	physically_unhealthy_days	2.4
+51620	Virginia	Franklin City	physically_unhealthy_days	2.5
+51630	Virginia	Fredericksburg City	physically_unhealthy_days	5.6
+51640	Virginia	Galax City	physically_unhealthy_days	
+51650	Virginia	Hampton City	physically_unhealthy_days	3.1
+51660	Virginia	Harrisonburg City	physically_unhealthy_days	2.3
+51670	Virginia	Hopewell City	physically_unhealthy_days	5.3
+51678	Virginia	Lexington City	physically_unhealthy_days	
+51680	Virginia	Lynchburg City	physically_unhealthy_days	3.9
+51683	Virginia	Manassas City	physically_unhealthy_days	2.1
+51685	Virginia	Manassas Park City	physically_unhealthy_days	
+51690	Virginia	Martinsville City	physically_unhealthy_days	2.4
+51700	Virginia	Newport News City	physically_unhealthy_days	3.2
+51710	Virginia	Norfolk City	physically_unhealthy_days	3.4
+51720	Virginia	Norton City	physically_unhealthy_days	
+51730	Virginia	Petersburg City	physically_unhealthy_days	3.8
+51735	Virginia	Poquoson City	physically_unhealthy_days	
+51740	Virginia	Portsmouth City	physically_unhealthy_days	3.8
+51750	Virginia	Radford City	physically_unhealthy_days	4.2
+51760	Virginia	Richmond City	physically_unhealthy_days	3.5
+51770	Virginia	Roanoke City	physically_unhealthy_days	4.2
+51775	Virginia	Salem City	physically_unhealthy_days	2.2
+51790	Virginia	Staunton City	physically_unhealthy_days	
+51800	Virginia	Suffolk City	physically_unhealthy_days	2.8
+51810	Virginia	Virginia Beach City	physically_unhealthy_days	3.3
+51820	Virginia	Waynesboro City	physically_unhealthy_days	
+51830	Virginia	Williamsburg City	physically_unhealthy_days	
+51840	Virginia	Winchester City	physically_unhealthy_days	4.3
+53001	Washington	Adams	physically_unhealthy_days	3.8
+53003	Washington	Asotin	physically_unhealthy_days	5
+53005	Washington	Benton	physically_unhealthy_days	3.5
+53007	Washington	Chelan	physically_unhealthy_days	3.3
+53009	Washington	Clallam	physically_unhealthy_days	4.1
+53011	Washington	Clark	physically_unhealthy_days	3.5
+53013	Washington	Columbia	physically_unhealthy_days	3.9
+53015	Washington	Cowlitz	physically_unhealthy_days	4.5
+53017	Washington	Douglas	physically_unhealthy_days	3.8
+53019	Washington	Ferry	physically_unhealthy_days	4.4
+53021	Washington	Franklin	physically_unhealthy_days	4
+53023	Washington	Garfield	physically_unhealthy_days	4
+53025	Washington	Grant	physically_unhealthy_days	4.3
+53027	Washington	Grays Harbor	physically_unhealthy_days	4.6
+53029	Washington	Island	physically_unhealthy_days	3.4
+53031	Washington	Jefferson	physically_unhealthy_days	4
+53033	Washington	King	physically_unhealthy_days	3
+53035	Washington	Kitsap	physically_unhealthy_days	3.7
+53037	Washington	Kittitas	physically_unhealthy_days	3.4
+53039	Washington	Klickitat	physically_unhealthy_days	3.7
+53041	Washington	Lewis	physically_unhealthy_days	4.1
+53043	Washington	Lincoln	physically_unhealthy_days	3.4
+53045	Washington	Mason	physically_unhealthy_days	4.7
+53047	Washington	Okanogan	physically_unhealthy_days	4.3
+53049	Washington	Pacific	physically_unhealthy_days	4.4
+53051	Washington	Pend Oreille	physically_unhealthy_days	4.7
+53053	Washington	Pierce	physically_unhealthy_days	3.9
+53055	Washington	San Juan	physically_unhealthy_days	2.9
+53057	Washington	Skagit	physically_unhealthy_days	3.3
+53059	Washington	Skamania	physically_unhealthy_days	3.6
+53061	Washington	Snohomish	physically_unhealthy_days	3.7
+53063	Washington	Spokane	physically_unhealthy_days	3.8
+53065	Washington	Stevens	physically_unhealthy_days	3.9
+53067	Washington	Thurston	physically_unhealthy_days	3.4
+53069	Washington	Wahkiakum	physically_unhealthy_days	4.9
+53071	Washington	Walla Walla	physically_unhealthy_days	3.2
+53073	Washington	Whatcom	physically_unhealthy_days	3.5
+53075	Washington	Whitman	physically_unhealthy_days	3
+53077	Washington	Yakima	physically_unhealthy_days	4.3
+54001	West Virginia	Barbour	physically_unhealthy_days	6.2
+54003	West Virginia	Berkeley	physically_unhealthy_days	4.1
+54005	West Virginia	Boone	physically_unhealthy_days	6.8
+54007	West Virginia	Braxton	physically_unhealthy_days	4.8
+54009	West Virginia	Brooke	physically_unhealthy_days	4.7
+54011	West Virginia	Cabell	physically_unhealthy_days	4.8
+54013	West Virginia	Calhoun	physically_unhealthy_days	4.7
+54015	West Virginia	Clay	physically_unhealthy_days	5.7
+54017	West Virginia	Doddridge	physically_unhealthy_days	3.6
+54019	West Virginia	Fayette	physically_unhealthy_days	4.8
+54021	West Virginia	Gilmer	physically_unhealthy_days	4.9
+54023	West Virginia	Grant	physically_unhealthy_days	3.8
+54025	West Virginia	Greenbrier	physically_unhealthy_days	4.6
+54027	West Virginia	Hampshire	physically_unhealthy_days	4.5
+54029	West Virginia	Hancock	physically_unhealthy_days	4.2
+54031	West Virginia	Hardy	physically_unhealthy_days	3.7
+54033	West Virginia	Harrison	physically_unhealthy_days	4.8
+54035	West Virginia	Jackson	physically_unhealthy_days	5.6
+54037	West Virginia	Jefferson	physically_unhealthy_days	3.5
+54039	West Virginia	Kanawha	physically_unhealthy_days	4.7
+54041	West Virginia	Lewis	physically_unhealthy_days	5.3
+54043	West Virginia	Lincoln	physically_unhealthy_days	6.1
+54045	West Virginia	Logan	physically_unhealthy_days	6.6
+54047	West Virginia	McDowell	physically_unhealthy_days	6.6
+54049	West Virginia	Marion	physically_unhealthy_days	4.6
+54051	West Virginia	Marshall	physically_unhealthy_days	4
+54053	West Virginia	Mason	physically_unhealthy_days	4.9
+54055	West Virginia	Mercer	physically_unhealthy_days	5.6
+54057	West Virginia	Mineral	physically_unhealthy_days	4.2
+54059	West Virginia	Mingo	physically_unhealthy_days	7.2
+54061	West Virginia	Monongalia	physically_unhealthy_days	3.9
+54063	West Virginia	Monroe	physically_unhealthy_days	4.1
+54065	West Virginia	Morgan	physically_unhealthy_days	4.7
+54067	West Virginia	Nicholas	physically_unhealthy_days	5.5
+54069	West Virginia	Ohio	physically_unhealthy_days	3.5
+54071	West Virginia	Pendleton	physically_unhealthy_days	3.1
+54073	West Virginia	Pleasants	physically_unhealthy_days	4.2
+54075	West Virginia	Pocahontas	physically_unhealthy_days	4.9
+54077	West Virginia	Preston	physically_unhealthy_days	3.9
+54079	West Virginia	Putnam	physically_unhealthy_days	4.5
+54081	West Virginia	Raleigh	physically_unhealthy_days	5.4
+54083	West Virginia	Randolph	physically_unhealthy_days	5.1
+54085	West Virginia	Ritchie	physically_unhealthy_days	4.1
+54087	West Virginia	Roane	physically_unhealthy_days	4.7
+54089	West Virginia	Summers	physically_unhealthy_days	6
+54091	West Virginia	Taylor	physically_unhealthy_days	5.7
+54093	West Virginia	Tucker	physically_unhealthy_days	4.5
+54095	West Virginia	Tyler	physically_unhealthy_days	3.5
+54097	West Virginia	Upshur	physically_unhealthy_days	4
+54099	West Virginia	Wayne	physically_unhealthy_days	6.6
+54101	West Virginia	Webster	physically_unhealthy_days	6.1
+54103	West Virginia	Wetzel	physically_unhealthy_days	4.5
+54105	West Virginia	Wirt	physically_unhealthy_days	2.9
+54107	West Virginia	Wood	physically_unhealthy_days	5.1
+54109	West Virginia	Wyoming	physically_unhealthy_days	7.9
+55001	Wisconsin	Adams	physically_unhealthy_days	3.1
+55003	Wisconsin	Ashland	physically_unhealthy_days	4
+55005	Wisconsin	Barron	physically_unhealthy_days	3.4
+55007	Wisconsin	Bayfield	physically_unhealthy_days	3.1
+55009	Wisconsin	Brown	physically_unhealthy_days	3.7
+55011	Wisconsin	Buffalo	physically_unhealthy_days	3.5
+55013	Wisconsin	Burnett	physically_unhealthy_days	3.1
+55015	Wisconsin	Calumet	physically_unhealthy_days	2.7
+55017	Wisconsin	Chippewa	physically_unhealthy_days	2.4
+55019	Wisconsin	Clark	physically_unhealthy_days	2.8
+55021	Wisconsin	Columbia	physically_unhealthy_days	2.7
+55023	Wisconsin	Crawford	physically_unhealthy_days	2.9
+55025	Wisconsin	Dane	physically_unhealthy_days	3.1
+55027	Wisconsin	Dodge	physically_unhealthy_days	3.2
+55029	Wisconsin	Door	physically_unhealthy_days	2.5
+55031	Wisconsin	Douglas	physically_unhealthy_days	3.2
+55033	Wisconsin	Dunn	physically_unhealthy_days	3.1
+55035	Wisconsin	Eau Claire	physically_unhealthy_days	3.3
+55037	Wisconsin	Florence	physically_unhealthy_days	3.7
+55039	Wisconsin	Fond du Lac	physically_unhealthy_days	3.3
+55041	Wisconsin	Forest	physically_unhealthy_days	3.9
+55043	Wisconsin	Grant	physically_unhealthy_days	2.8
+55045	Wisconsin	Green	physically_unhealthy_days	2.4
+55047	Wisconsin	Green Lake	physically_unhealthy_days	4.3
+55049	Wisconsin	Iowa	physically_unhealthy_days	1.8
+55051	Wisconsin	Iron	physically_unhealthy_days	3.1
+55053	Wisconsin	Jackson	physically_unhealthy_days	4.4
+55055	Wisconsin	Jefferson	physically_unhealthy_days	2.8
+55057	Wisconsin	Juneau	physically_unhealthy_days	4.8
+55059	Wisconsin	Kenosha	physically_unhealthy_days	3.4
+55061	Wisconsin	Kewaunee	physically_unhealthy_days	2.8
+55063	Wisconsin	La Crosse	physically_unhealthy_days	3.3
+55065	Wisconsin	Lafayette	physically_unhealthy_days	2.8
+55067	Wisconsin	Langlade	physically_unhealthy_days	3.8
+55069	Wisconsin	Lincoln	physically_unhealthy_days	4.1
+55071	Wisconsin	Manitowoc	physically_unhealthy_days	2.8
+55073	Wisconsin	Marathon	physically_unhealthy_days	2.8
+55075	Wisconsin	Marinette	physically_unhealthy_days	3.8
+55077	Wisconsin	Marquette	physically_unhealthy_days	3.5
+55078	Wisconsin	Menominee	physically_unhealthy_days	3.9
+55079	Wisconsin	Milwaukee	physically_unhealthy_days	4
+55081	Wisconsin	Monroe	physically_unhealthy_days	3.1
+55083	Wisconsin	Oconto	physically_unhealthy_days	3.8
+55085	Wisconsin	Oneida	physically_unhealthy_days	3.2
+55087	Wisconsin	Outagamie	physically_unhealthy_days	2.8
+55089	Wisconsin	Ozaukee	physically_unhealthy_days	2.9
+55091	Wisconsin	Pepin	physically_unhealthy_days	4.2
+55093	Wisconsin	Pierce	physically_unhealthy_days	2.9
+55095	Wisconsin	Polk	physically_unhealthy_days	2.8
+55097	Wisconsin	Portage	physically_unhealthy_days	3.1
+55099	Wisconsin	Price	physically_unhealthy_days	3.6
+55101	Wisconsin	Racine	physically_unhealthy_days	3.2
+55103	Wisconsin	Richland	physically_unhealthy_days	3.3
+55105	Wisconsin	Rock	physically_unhealthy_days	3.8
+55107	Wisconsin	Rusk	physically_unhealthy_days	2.6
+55109	Wisconsin	St. Croix	physically_unhealthy_days	2.5
+55111	Wisconsin	Sauk	physically_unhealthy_days	3.1
+55113	Wisconsin	Sawyer	physically_unhealthy_days	2.7
+55115	Wisconsin	Shawano	physically_unhealthy_days	4.2
+55117	Wisconsin	Sheboygan	physically_unhealthy_days	2.7
+55119	Wisconsin	Taylor	physically_unhealthy_days	2.6
+55121	Wisconsin	Trempealeau	physically_unhealthy_days	4.5
+55123	Wisconsin	Vernon	physically_unhealthy_days	2.3
+55125	Wisconsin	Vilas	physically_unhealthy_days	2.6
+55127	Wisconsin	Walworth	physically_unhealthy_days	3.4
+55129	Wisconsin	Washburn	physically_unhealthy_days	3.1
+55131	Wisconsin	Washington	physically_unhealthy_days	2.7
+55133	Wisconsin	Waukesha	physically_unhealthy_days	3
+55135	Wisconsin	Waupaca	physically_unhealthy_days	3
+55137	Wisconsin	Waushara	physically_unhealthy_days	3.6
+55139	Wisconsin	Winnebago	physically_unhealthy_days	2.8
+55141	Wisconsin	Wood	physically_unhealthy_days	2.6
+56001	Wyoming	Albany	physically_unhealthy_days	3
+56003	Wyoming	Big Horn	physically_unhealthy_days	3.9
+56005	Wyoming	Campbell	physically_unhealthy_days	3
+56007	Wyoming	Carbon	physically_unhealthy_days	3.9
+56009	Wyoming	Converse	physically_unhealthy_days	2.8
+56011	Wyoming	Crook	physically_unhealthy_days	2.4
+56013	Wyoming	Fremont	physically_unhealthy_days	3.5
+56015	Wyoming	Goshen	physically_unhealthy_days	2.8
+56017	Wyoming	Hot Springs	physically_unhealthy_days	4.8
+56019	Wyoming	Johnson	physically_unhealthy_days	2.8
+56021	Wyoming	Laramie	physically_unhealthy_days	3.2
+56023	Wyoming	Lincoln	physically_unhealthy_days	2.8
+56025	Wyoming	Natrona	physically_unhealthy_days	3.2
+56027	Wyoming	Niobrara	physically_unhealthy_days	3.2
+56029	Wyoming	Park	physically_unhealthy_days	2.8
+56031	Wyoming	Platte	physically_unhealthy_days	3
+56033	Wyoming	Sheridan	physically_unhealthy_days	3.3
+56035	Wyoming	Sublette	physically_unhealthy_days	2.8
+56037	Wyoming	Sweetwater	physically_unhealthy_days	3.8
+56039	Wyoming	Teton	physically_unhealthy_days	2.2
+56041	Wyoming	Uinta	physically_unhealthy_days	4
+56043	Wyoming	Washakie	physically_unhealthy_days	2.9
+56045	Wyoming	Weston	physically_unhealthy_days	3.2

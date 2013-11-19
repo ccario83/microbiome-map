@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_fair_poor
-01001	Alabama	Autauga	pcnt_fair_poor	23
-01003	Alabama	Baldwin	pcnt_fair_poor	13
-01005	Alabama	Barbour	pcnt_fair_poor	22
-01007	Alabama	Bibb	pcnt_fair_poor	21
-01009	Alabama	Blount	pcnt_fair_poor	22
-01011	Alabama	Bullock	pcnt_fair_poor	25
-01013	Alabama	Butler	pcnt_fair_poor	20
-01015	Alabama	Calhoun	pcnt_fair_poor	24
-01017	Alabama	Chambers	pcnt_fair_poor	40
-01019	Alabama	Cherokee	pcnt_fair_poor	23
-01021	Alabama	Chilton	pcnt_fair_poor	21
-01023	Alabama	Choctaw	pcnt_fair_poor	33
-01025	Alabama	Clarke	pcnt_fair_poor	
-01027	Alabama	Clay	pcnt_fair_poor	24
-01029	Alabama	Cleburne	pcnt_fair_poor	19
-01031	Alabama	Coffee	pcnt_fair_poor	19
-01033	Alabama	Colbert	pcnt_fair_poor	24
-01035	Alabama	Conecuh	pcnt_fair_poor	20
-01037	Alabama	Coosa	pcnt_fair_poor	22
-01039	Alabama	Covington	pcnt_fair_poor	23
-01041	Alabama	Crenshaw	pcnt_fair_poor	20
-01043	Alabama	Cullman	pcnt_fair_poor	22
-01045	Alabama	Dale	pcnt_fair_poor	24
-01047	Alabama	Dallas	pcnt_fair_poor	26
-01049	Alabama	DeKalb	pcnt_fair_poor	21
-01051	Alabama	Elmore	pcnt_fair_poor	18
-01053	Alabama	Escambia	pcnt_fair_poor	26
-01055	Alabama	Etowah	pcnt_fair_poor	23
-01057	Alabama	Fayette	pcnt_fair_poor	31
-01059	Alabama	Franklin	pcnt_fair_poor	22
-01061	Alabama	Geneva	pcnt_fair_poor	27
-01063	Alabama	Greene	pcnt_fair_poor	20
-01065	Alabama	Hale	pcnt_fair_poor	23
-01067	Alabama	Henry	pcnt_fair_poor	17
-01069	Alabama	Houston	pcnt_fair_poor	21
-01071	Alabama	Jackson	pcnt_fair_poor	27
-01073	Alabama	Jefferson	pcnt_fair_poor	17
-01075	Alabama	Lamar	pcnt_fair_poor	27
-01077	Alabama	Lauderdale	pcnt_fair_poor	21
-01079	Alabama	Lawrence	pcnt_fair_poor	21
-01081	Alabama	Lee	pcnt_fair_poor	19
-01083	Alabama	Limestone	pcnt_fair_poor	20
-01085	Alabama	Lowndes	pcnt_fair_poor	33
-01087	Alabama	Macon	pcnt_fair_poor	25
-01089	Alabama	Madison	pcnt_fair_poor	14
-01091	Alabama	Marengo	pcnt_fair_poor	24
-01093	Alabama	Marion	pcnt_fair_poor	22
-01095	Alabama	Marshall	pcnt_fair_poor	21
-01097	Alabama	Mobile	pcnt_fair_poor	22
-01099	Alabama	Monroe	pcnt_fair_poor	24
-01101	Alabama	Montgomery	pcnt_fair_poor	20
-01103	Alabama	Morgan	pcnt_fair_poor	14
-01105	Alabama	Perry	pcnt_fair_poor	27
-01107	Alabama	Pickens	pcnt_fair_poor	26
-01109	Alabama	Pike	pcnt_fair_poor	22
-01111	Alabama	Randolph	pcnt_fair_poor	21
-01113	Alabama	Russell	pcnt_fair_poor	20
-01115	Alabama	St. Clair	pcnt_fair_poor	19
-01117	Alabama	Shelby	pcnt_fair_poor	13
-01119	Alabama	Sumter	pcnt_fair_poor	25
-01121	Alabama	Talladega	pcnt_fair_poor	29
-01123	Alabama	Tallapoosa	pcnt_fair_poor	23
-01125	Alabama	Tuscaloosa	pcnt_fair_poor	17
-01127	Alabama	Walker	pcnt_fair_poor	33
-01129	Alabama	Washington	pcnt_fair_poor	22
-01131	Alabama	Wilcox	pcnt_fair_poor	29
-01133	Alabama	Winston	pcnt_fair_poor	18
-02013	Alaska	Aleutians East	pcnt_fair_poor	14
-02016	Alaska	Aleutians West	pcnt_fair_poor	21
-02020	Alaska	Anchorage	pcnt_fair_poor	13
-02050	Alaska	Bethel	pcnt_fair_poor	20
-02060	Alaska	Bristol Bay	pcnt_fair_poor	14
-02068	Alaska	Denali	pcnt_fair_poor	7
-02070	Alaska	Dillingham	pcnt_fair_poor	12
-02090	Alaska	Fairbanks North Star	pcnt_fair_poor	11
-02100	Alaska	Haines	pcnt_fair_poor	14
-02110	Alaska	Juneau	pcnt_fair_poor	11
-02122	Alaska	Kenai Peninsula	pcnt_fair_poor	14
-02130	Alaska	Ketchikan Gateway	pcnt_fair_poor	14
-02150	Alaska	Kodiak Island	pcnt_fair_poor	12
-02164	Alaska	Lake and Peninsula	pcnt_fair_poor	14
-02170	Alaska	Matanuska-Susitna	pcnt_fair_poor	14
-02180	Alaska	Nome	pcnt_fair_poor	17
-02185	Alaska	North Slope	pcnt_fair_poor	21
-02188	Alaska	Northwest Arctic	pcnt_fair_poor	19
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_fair_poor	20
-02220	Alaska	Sitka	pcnt_fair_poor	13
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_fair_poor	12
-02240	Alaska	Southeast Fairbanks	pcnt_fair_poor	16
-02261	Alaska	Valdez-Cordova	pcnt_fair_poor	16
-02270	Alaska	Wade Hampton	pcnt_fair_poor	26
-02280	Alaska	Wrangell-Petersburg	pcnt_fair_poor	15
-02282	Alaska	Yakutat	pcnt_fair_poor	14
-02290	Alaska	Yukon-Koyukuk	pcnt_fair_poor	18
-04001	Arizona	Apache	pcnt_fair_poor	20
-04003	Arizona	Cochise	pcnt_fair_poor	18
-04005	Arizona	Coconino	pcnt_fair_poor	12
-04007	Arizona	Gila	pcnt_fair_poor	23
-04009	Arizona	Graham	pcnt_fair_poor	21
-04011	Arizona	Greenlee	pcnt_fair_poor	
-04012	Arizona	La Paz	pcnt_fair_poor	23
-04013	Arizona	Maricopa	pcnt_fair_poor	15
-04015	Arizona	Mohave	pcnt_fair_poor	20
-04017	Arizona	Navajo	pcnt_fair_poor	17
-04019	Arizona	Pima	pcnt_fair_poor	15
-04021	Arizona	Pinal	pcnt_fair_poor	17
-04023	Arizona	Santa Cruz	pcnt_fair_poor	19
-04025	Arizona	Yavapai	pcnt_fair_poor	18
-04027	Arizona	Yuma	pcnt_fair_poor	23
-05001	Arkansas	Arkansas	pcnt_fair_poor	29
-05003	Arkansas	Ashley	pcnt_fair_poor	26
-05005	Arkansas	Baxter	pcnt_fair_poor	17
-05007	Arkansas	Benton	pcnt_fair_poor	13
-05009	Arkansas	Boone	pcnt_fair_poor	17
-05011	Arkansas	Bradley	pcnt_fair_poor	18
-05013	Arkansas	Calhoun	pcnt_fair_poor	21
-05015	Arkansas	Carroll	pcnt_fair_poor	20
-05017	Arkansas	Chicot	pcnt_fair_poor	26
-05019	Arkansas	Clark	pcnt_fair_poor	22
-05021	Arkansas	Clay	pcnt_fair_poor	27
-05023	Arkansas	Cleburne	pcnt_fair_poor	24
-05025	Arkansas	Cleveland	pcnt_fair_poor	22
-05027	Arkansas	Columbia	pcnt_fair_poor	18
-05029	Arkansas	Conway	pcnt_fair_poor	24
-05031	Arkansas	Craighead	pcnt_fair_poor	20
-05033	Arkansas	Crawford	pcnt_fair_poor	18
-05035	Arkansas	Crittenden	pcnt_fair_poor	22
-05037	Arkansas	Cross	pcnt_fair_poor	24
-05039	Arkansas	Dallas	pcnt_fair_poor	
-05041	Arkansas	Desha	pcnt_fair_poor	21
-05043	Arkansas	Drew	pcnt_fair_poor	19
-05045	Arkansas	Faulkner	pcnt_fair_poor	18
-05047	Arkansas	Franklin	pcnt_fair_poor	
-05049	Arkansas	Fulton	pcnt_fair_poor	25
-05051	Arkansas	Garland	pcnt_fair_poor	18
-05053	Arkansas	Grant	pcnt_fair_poor	25
-05055	Arkansas	Greene	pcnt_fair_poor	17
-05057	Arkansas	Hempstead	pcnt_fair_poor	
-05059	Arkansas	Hot Spring	pcnt_fair_poor	27
-05061	Arkansas	Howard	pcnt_fair_poor	20
-05063	Arkansas	Independence	pcnt_fair_poor	22
-05065	Arkansas	Izard	pcnt_fair_poor	30
-05067	Arkansas	Jackson	pcnt_fair_poor	
-05069	Arkansas	Jefferson	pcnt_fair_poor	17
-05071	Arkansas	Johnson	pcnt_fair_poor	23
-05073	Arkansas	Lafayette	pcnt_fair_poor	16
-05075	Arkansas	Lawrence	pcnt_fair_poor	
-05077	Arkansas	Lee	pcnt_fair_poor	
-05079	Arkansas	Lincoln	pcnt_fair_poor	25
-05081	Arkansas	Little River	pcnt_fair_poor	18
-05083	Arkansas	Logan	pcnt_fair_poor	23
-05085	Arkansas	Lonoke	pcnt_fair_poor	17
-05087	Arkansas	Madison	pcnt_fair_poor	21
-05089	Arkansas	Marion	pcnt_fair_poor	17
-05091	Arkansas	Miller	pcnt_fair_poor	24
-05093	Arkansas	Mississippi	pcnt_fair_poor	26
-05095	Arkansas	Monroe	pcnt_fair_poor	
-05097	Arkansas	Montgomery	pcnt_fair_poor	
-05099	Arkansas	Nevada	pcnt_fair_poor	32
-05101	Arkansas	Newton	pcnt_fair_poor	17
-05103	Arkansas	Ouachita	pcnt_fair_poor	23
-05105	Arkansas	Perry	pcnt_fair_poor	
-05107	Arkansas	Phillips	pcnt_fair_poor	20
-05109	Arkansas	Pike	pcnt_fair_poor	23
-05111	Arkansas	Poinsett	pcnt_fair_poor	27
-05113	Arkansas	Polk	pcnt_fair_poor	23
-05115	Arkansas	Pope	pcnt_fair_poor	20
-05117	Arkansas	Prairie	pcnt_fair_poor	21
-05119	Arkansas	Pulaski	pcnt_fair_poor	15
-05121	Arkansas	Randolph	pcnt_fair_poor	22
-05123	Arkansas	St. Francis	pcnt_fair_poor	19
-05125	Arkansas	Saline	pcnt_fair_poor	18
-05127	Arkansas	Scott	pcnt_fair_poor	14
-05129	Arkansas	Searcy	pcnt_fair_poor	21
-05131	Arkansas	Sebastian	pcnt_fair_poor	19
-05133	Arkansas	Sevier	pcnt_fair_poor	21
-05135	Arkansas	Sharp	pcnt_fair_poor	29
-05137	Arkansas	Stone	pcnt_fair_poor	23
-05139	Arkansas	Union	pcnt_fair_poor	23
-05141	Arkansas	Van Buren	pcnt_fair_poor	24
-05143	Arkansas	Washington	pcnt_fair_poor	15
-05145	Arkansas	White	pcnt_fair_poor	18
-05147	Arkansas	Woodruff	pcnt_fair_poor	
-05149	Arkansas	Yell	pcnt_fair_poor	23
-06001	California	Alameda	pcnt_fair_poor	15
-06003	California	Alpine	pcnt_fair_poor	
-06005	California	Amador	pcnt_fair_poor	18
-06007	California	Butte	pcnt_fair_poor	15
-06009	California	Calaveras	pcnt_fair_poor	16
-06011	California	Colusa	pcnt_fair_poor	
-06013	California	Contra Costa	pcnt_fair_poor	14
-06015	California	Del Norte	pcnt_fair_poor	
-06017	California	El Dorado	pcnt_fair_poor	10
-06019	California	Fresno	pcnt_fair_poor	22
-06021	California	Glenn	pcnt_fair_poor	
-06023	California	Humboldt	pcnt_fair_poor	13
-06025	California	Imperial	pcnt_fair_poor	32
-06027	California	Inyo	pcnt_fair_poor	
-06029	California	Kern	pcnt_fair_poor	24
-06031	California	Kings	pcnt_fair_poor	27
-06033	California	Lake	pcnt_fair_poor	18
-06035	California	Lassen	pcnt_fair_poor	16
-06037	California	Los Angeles	pcnt_fair_poor	23
-06039	California	Madera	pcnt_fair_poor	30
-06041	California	Marin	pcnt_fair_poor	9
-06043	California	Mariposa	pcnt_fair_poor	
-06045	California	Mendocino	pcnt_fair_poor	17
-06047	California	Merced	pcnt_fair_poor	23
-06049	California	Modoc	pcnt_fair_poor	
-06051	California	Mono	pcnt_fair_poor	8
-06053	California	Monterey	pcnt_fair_poor	22
-06055	California	Napa	pcnt_fair_poor	17
-06057	California	Nevada	pcnt_fair_poor	11
-06059	California	Orange	pcnt_fair_poor	15
-06061	California	Placer	pcnt_fair_poor	10
-06063	California	Plumas	pcnt_fair_poor	6
-06065	California	Riverside	pcnt_fair_poor	19
-06067	California	Sacramento	pcnt_fair_poor	14
-06069	California	San Benito	pcnt_fair_poor	21
-06071	California	San Bernardino	pcnt_fair_poor	20
-06073	California	San Diego	pcnt_fair_poor	16
-06075	California	San Francisco	pcnt_fair_poor	17
-06077	California	San Joaquin	pcnt_fair_poor	21
-06079	California	San Luis Obispo	pcnt_fair_poor	12
-06081	California	San Mateo	pcnt_fair_poor	13
-06083	California	Santa Barbara	pcnt_fair_poor	21
-06085	California	Santa Clara	pcnt_fair_poor	14
-06087	California	Santa Cruz	pcnt_fair_poor	18
-06089	California	Shasta	pcnt_fair_poor	15
-06091	California	Sierra	pcnt_fair_poor	
-06093	California	Siskiyou	pcnt_fair_poor	22
-06095	California	Solano	pcnt_fair_poor	17
-06097	California	Sonoma	pcnt_fair_poor	14
-06099	California	Stanislaus	pcnt_fair_poor	23
-06101	California	Sutter	pcnt_fair_poor	23
-06103	California	Tehama	pcnt_fair_poor	26
-06105	California	Trinity	pcnt_fair_poor	
-06107	California	Tulare	pcnt_fair_poor	26
-06109	California	Tuolumne	pcnt_fair_poor	12
-06111	California	Ventura	pcnt_fair_poor	15
-06113	California	Yolo	pcnt_fair_poor	16
-06115	California	Yuba	pcnt_fair_poor	22
-08001	Colorado	Adams	pcnt_fair_poor	17
-08003	Colorado	Alamosa	pcnt_fair_poor	14
-08005	Colorado	Arapahoe	pcnt_fair_poor	12
-08007	Colorado	Archuleta	pcnt_fair_poor	12
-08009	Colorado	Baca	pcnt_fair_poor	14
-08011	Colorado	Bent	pcnt_fair_poor	
-08013	Colorado	Boulder	pcnt_fair_poor	9
-08014	Colorado	Broomfield	pcnt_fair_poor	8
-08015	Colorado	Chaffee	pcnt_fair_poor	11
-08017	Colorado	Cheyenne	pcnt_fair_poor	16
-08019	Colorado	Clear Creek	pcnt_fair_poor	8
-08021	Colorado	Conejos	pcnt_fair_poor	24
-08023	Colorado	Costilla	pcnt_fair_poor	
-08025	Colorado	Crowley	pcnt_fair_poor	
-08027	Colorado	Custer	pcnt_fair_poor	8
-08029	Colorado	Delta	pcnt_fair_poor	17
-08031	Colorado	Denver	pcnt_fair_poor	16
-08033	Colorado	Dolores	pcnt_fair_poor	9
-08035	Colorado	Douglas	pcnt_fair_poor	7
-08037	Colorado	Eagle	pcnt_fair_poor	14
-08039	Colorado	Elbert	pcnt_fair_poor	7
-08041	Colorado	El Paso	pcnt_fair_poor	12
-08043	Colorado	Fremont	pcnt_fair_poor	14
-08045	Colorado	Garfield	pcnt_fair_poor	17
-08047	Colorado	Gilpin	pcnt_fair_poor	
-08049	Colorado	Grand	pcnt_fair_poor	5
-08051	Colorado	Gunnison	pcnt_fair_poor	7
-08053	Colorado	Hinsdale	pcnt_fair_poor	
-08055	Colorado	Huerfano	pcnt_fair_poor	
-08057	Colorado	Jackson	pcnt_fair_poor	8
-08059	Colorado	Jefferson	pcnt_fair_poor	10
-08061	Colorado	Kiowa	pcnt_fair_poor	
-08063	Colorado	Kit Carson	pcnt_fair_poor	23
-08065	Colorado	Lake	pcnt_fair_poor	23
-08067	Colorado	La Plata	pcnt_fair_poor	9
-08069	Colorado	Larimer	pcnt_fair_poor	11
-08071	Colorado	Las Animas	pcnt_fair_poor	19
-08073	Colorado	Lincoln	pcnt_fair_poor	11
-08075	Colorado	Logan	pcnt_fair_poor	14
-08077	Colorado	Mesa	pcnt_fair_poor	14
-08079	Colorado	Mineral	pcnt_fair_poor	9
-08081	Colorado	Moffat	pcnt_fair_poor	20
-08083	Colorado	Montezuma	pcnt_fair_poor	15
-08085	Colorado	Montrose	pcnt_fair_poor	13
-08087	Colorado	Morgan	pcnt_fair_poor	25
-08089	Colorado	Otero	pcnt_fair_poor	15
-08091	Colorado	Ouray	pcnt_fair_poor	2
-08093	Colorado	Park	pcnt_fair_poor	12
-08095	Colorado	Phillips	pcnt_fair_poor	13
-08097	Colorado	Pitkin	pcnt_fair_poor	6
-08099	Colorado	Prowers	pcnt_fair_poor	22
-08101	Colorado	Pueblo	pcnt_fair_poor	17
-08103	Colorado	Rio Blanco	pcnt_fair_poor	18
-08105	Colorado	Rio Grande	pcnt_fair_poor	20
-08107	Colorado	Routt	pcnt_fair_poor	7
-08109	Colorado	Saguache	pcnt_fair_poor	19
-08111	Colorado	San Juan	pcnt_fair_poor	
-08113	Colorado	San Miguel	pcnt_fair_poor	5
-08115	Colorado	Sedgwick	pcnt_fair_poor	15
-08117	Colorado	Summit	pcnt_fair_poor	7
-08119	Colorado	Teller	pcnt_fair_poor	8
-08121	Colorado	Washington	pcnt_fair_poor	13
-08123	Colorado	Weld	pcnt_fair_poor	15
-08125	Colorado	Yuma	pcnt_fair_poor	15
-09001	Connecticut	Fairfield	pcnt_fair_poor	10
-09003	Connecticut	Hartford	pcnt_fair_poor	11
-09005	Connecticut	Litchfield	pcnt_fair_poor	10
-09007	Connecticut	Middlesex	pcnt_fair_poor	10
-09009	Connecticut	New Haven	pcnt_fair_poor	12
-09011	Connecticut	New London	pcnt_fair_poor	11
-09013	Connecticut	Tolland	pcnt_fair_poor	9
-09015	Connecticut	Windham	pcnt_fair_poor	12
+1001	Alabama	Autauga	pcnt_fair_poor	23
+1003	Alabama	Baldwin	pcnt_fair_poor	13
+1005	Alabama	Barbour	pcnt_fair_poor	22
+1007	Alabama	Bibb	pcnt_fair_poor	21
+1009	Alabama	Blount	pcnt_fair_poor	22
+1011	Alabama	Bullock	pcnt_fair_poor	25
+1013	Alabama	Butler	pcnt_fair_poor	20
+1015	Alabama	Calhoun	pcnt_fair_poor	24
+1017	Alabama	Chambers	pcnt_fair_poor	40
+1019	Alabama	Cherokee	pcnt_fair_poor	23
+1021	Alabama	Chilton	pcnt_fair_poor	21
+1023	Alabama	Choctaw	pcnt_fair_poor	33
+1025	Alabama	Clarke	pcnt_fair_poor	
+1027	Alabama	Clay	pcnt_fair_poor	24
+1029	Alabama	Cleburne	pcnt_fair_poor	19
+1031	Alabama	Coffee	pcnt_fair_poor	19
+1033	Alabama	Colbert	pcnt_fair_poor	24
+1035	Alabama	Conecuh	pcnt_fair_poor	20
+1037	Alabama	Coosa	pcnt_fair_poor	22
+1039	Alabama	Covington	pcnt_fair_poor	23
+1041	Alabama	Crenshaw	pcnt_fair_poor	20
+1043	Alabama	Cullman	pcnt_fair_poor	22
+1045	Alabama	Dale	pcnt_fair_poor	24
+1047	Alabama	Dallas	pcnt_fair_poor	26
+1049	Alabama	DeKalb	pcnt_fair_poor	21
+1051	Alabama	Elmore	pcnt_fair_poor	18
+1053	Alabama	Escambia	pcnt_fair_poor	26
+1055	Alabama	Etowah	pcnt_fair_poor	23
+1057	Alabama	Fayette	pcnt_fair_poor	31
+1059	Alabama	Franklin	pcnt_fair_poor	22
+1061	Alabama	Geneva	pcnt_fair_poor	27
+1063	Alabama	Greene	pcnt_fair_poor	20
+1065	Alabama	Hale	pcnt_fair_poor	23
+1067	Alabama	Henry	pcnt_fair_poor	17
+1069	Alabama	Houston	pcnt_fair_poor	21
+1071	Alabama	Jackson	pcnt_fair_poor	27
+1073	Alabama	Jefferson	pcnt_fair_poor	17
+1075	Alabama	Lamar	pcnt_fair_poor	27
+1077	Alabama	Lauderdale	pcnt_fair_poor	21
+1079	Alabama	Lawrence	pcnt_fair_poor	21
+1081	Alabama	Lee	pcnt_fair_poor	19
+1083	Alabama	Limestone	pcnt_fair_poor	20
+1085	Alabama	Lowndes	pcnt_fair_poor	33
+1087	Alabama	Macon	pcnt_fair_poor	25
+1089	Alabama	Madison	pcnt_fair_poor	14
+1091	Alabama	Marengo	pcnt_fair_poor	24
+1093	Alabama	Marion	pcnt_fair_poor	22
+1095	Alabama	Marshall	pcnt_fair_poor	21
+1097	Alabama	Mobile	pcnt_fair_poor	22
+1099	Alabama	Monroe	pcnt_fair_poor	24
+1101	Alabama	Montgomery	pcnt_fair_poor	20
+1103	Alabama	Morgan	pcnt_fair_poor	14
+1105	Alabama	Perry	pcnt_fair_poor	27
+1107	Alabama	Pickens	pcnt_fair_poor	26
+1109	Alabama	Pike	pcnt_fair_poor	22
+1111	Alabama	Randolph	pcnt_fair_poor	21
+1113	Alabama	Russell	pcnt_fair_poor	20
+1115	Alabama	St. Clair	pcnt_fair_poor	19
+1117	Alabama	Shelby	pcnt_fair_poor	13
+1119	Alabama	Sumter	pcnt_fair_poor	25
+1121	Alabama	Talladega	pcnt_fair_poor	29
+1123	Alabama	Tallapoosa	pcnt_fair_poor	23
+1125	Alabama	Tuscaloosa	pcnt_fair_poor	17
+1127	Alabama	Walker	pcnt_fair_poor	33
+1129	Alabama	Washington	pcnt_fair_poor	22
+1131	Alabama	Wilcox	pcnt_fair_poor	29
+1133	Alabama	Winston	pcnt_fair_poor	18
+2013	Alaska	Aleutians East	pcnt_fair_poor	14
+2016	Alaska	Aleutians West	pcnt_fair_poor	21
+2020	Alaska	Anchorage	pcnt_fair_poor	13
+2050	Alaska	Bethel	pcnt_fair_poor	20
+2060	Alaska	Bristol Bay	pcnt_fair_poor	14
+2068	Alaska	Denali	pcnt_fair_poor	7
+2070	Alaska	Dillingham	pcnt_fair_poor	12
+2090	Alaska	Fairbanks North Star	pcnt_fair_poor	11
+2100	Alaska	Haines	pcnt_fair_poor	14
+2110	Alaska	Juneau	pcnt_fair_poor	11
+2122	Alaska	Kenai Peninsula	pcnt_fair_poor	14
+2130	Alaska	Ketchikan Gateway	pcnt_fair_poor	14
+2150	Alaska	Kodiak Island	pcnt_fair_poor	12
+2164	Alaska	Lake and Peninsula	pcnt_fair_poor	14
+2170	Alaska	Matanuska-Susitna	pcnt_fair_poor	14
+2180	Alaska	Nome	pcnt_fair_poor	17
+2185	Alaska	North Slope	pcnt_fair_poor	21
+2188	Alaska	Northwest Arctic	pcnt_fair_poor	19
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_fair_poor	20
+2220	Alaska	Sitka	pcnt_fair_poor	13
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_fair_poor	12
+2240	Alaska	Southeast Fairbanks	pcnt_fair_poor	16
+2261	Alaska	Valdez-Cordova	pcnt_fair_poor	16
+2270	Alaska	Wade Hampton	pcnt_fair_poor	26
+2280	Alaska	Wrangell-Petersburg	pcnt_fair_poor	15
+2282	Alaska	Yakutat	pcnt_fair_poor	14
+2290	Alaska	Yukon-Koyukuk	pcnt_fair_poor	18
+4001	Arizona	Apache	pcnt_fair_poor	20
+4003	Arizona	Cochise	pcnt_fair_poor	18
+4005	Arizona	Coconino	pcnt_fair_poor	12
+4007	Arizona	Gila	pcnt_fair_poor	23
+4009	Arizona	Graham	pcnt_fair_poor	21
+4011	Arizona	Greenlee	pcnt_fair_poor	
+4012	Arizona	La Paz	pcnt_fair_poor	23
+4013	Arizona	Maricopa	pcnt_fair_poor	15
+4015	Arizona	Mohave	pcnt_fair_poor	20
+4017	Arizona	Navajo	pcnt_fair_poor	17
+4019	Arizona	Pima	pcnt_fair_poor	15
+4021	Arizona	Pinal	pcnt_fair_poor	17
+4023	Arizona	Santa Cruz	pcnt_fair_poor	19
+4025	Arizona	Yavapai	pcnt_fair_poor	18
+4027	Arizona	Yuma	pcnt_fair_poor	23
+5001	Arkansas	Arkansas	pcnt_fair_poor	29
+5003	Arkansas	Ashley	pcnt_fair_poor	26
+5005	Arkansas	Baxter	pcnt_fair_poor	17
+5007	Arkansas	Benton	pcnt_fair_poor	13
+5009	Arkansas	Boone	pcnt_fair_poor	17
+5011	Arkansas	Bradley	pcnt_fair_poor	18
+5013	Arkansas	Calhoun	pcnt_fair_poor	21
+5015	Arkansas	Carroll	pcnt_fair_poor	20
+5017	Arkansas	Chicot	pcnt_fair_poor	26
+5019	Arkansas	Clark	pcnt_fair_poor	22
+5021	Arkansas	Clay	pcnt_fair_poor	27
+5023	Arkansas	Cleburne	pcnt_fair_poor	24
+5025	Arkansas	Cleveland	pcnt_fair_poor	22
+5027	Arkansas	Columbia	pcnt_fair_poor	18
+5029	Arkansas	Conway	pcnt_fair_poor	24
+5031	Arkansas	Craighead	pcnt_fair_poor	20
+5033	Arkansas	Crawford	pcnt_fair_poor	18
+5035	Arkansas	Crittenden	pcnt_fair_poor	22
+5037	Arkansas	Cross	pcnt_fair_poor	24
+5039	Arkansas	Dallas	pcnt_fair_poor	
+5041	Arkansas	Desha	pcnt_fair_poor	21
+5043	Arkansas	Drew	pcnt_fair_poor	19
+5045	Arkansas	Faulkner	pcnt_fair_poor	18
+5047	Arkansas	Franklin	pcnt_fair_poor	
+5049	Arkansas	Fulton	pcnt_fair_poor	25
+5051	Arkansas	Garland	pcnt_fair_poor	18
+5053	Arkansas	Grant	pcnt_fair_poor	25
+5055	Arkansas	Greene	pcnt_fair_poor	17
+5057	Arkansas	Hempstead	pcnt_fair_poor	
+5059	Arkansas	Hot Spring	pcnt_fair_poor	27
+5061	Arkansas	Howard	pcnt_fair_poor	20
+5063	Arkansas	Independence	pcnt_fair_poor	22
+5065	Arkansas	Izard	pcnt_fair_poor	30
+5067	Arkansas	Jackson	pcnt_fair_poor	
+5069	Arkansas	Jefferson	pcnt_fair_poor	17
+5071	Arkansas	Johnson	pcnt_fair_poor	23
+5073	Arkansas	Lafayette	pcnt_fair_poor	16
+5075	Arkansas	Lawrence	pcnt_fair_poor	
+5077	Arkansas	Lee	pcnt_fair_poor	
+5079	Arkansas	Lincoln	pcnt_fair_poor	25
+5081	Arkansas	Little River	pcnt_fair_poor	18
+5083	Arkansas	Logan	pcnt_fair_poor	23
+5085	Arkansas	Lonoke	pcnt_fair_poor	17
+5087	Arkansas	Madison	pcnt_fair_poor	21
+5089	Arkansas	Marion	pcnt_fair_poor	17
+5091	Arkansas	Miller	pcnt_fair_poor	24
+5093	Arkansas	Mississippi	pcnt_fair_poor	26
+5095	Arkansas	Monroe	pcnt_fair_poor	
+5097	Arkansas	Montgomery	pcnt_fair_poor	
+5099	Arkansas	Nevada	pcnt_fair_poor	32
+5101	Arkansas	Newton	pcnt_fair_poor	17
+5103	Arkansas	Ouachita	pcnt_fair_poor	23
+5105	Arkansas	Perry	pcnt_fair_poor	
+5107	Arkansas	Phillips	pcnt_fair_poor	20
+5109	Arkansas	Pike	pcnt_fair_poor	23
+5111	Arkansas	Poinsett	pcnt_fair_poor	27
+5113	Arkansas	Polk	pcnt_fair_poor	23
+5115	Arkansas	Pope	pcnt_fair_poor	20
+5117	Arkansas	Prairie	pcnt_fair_poor	21
+5119	Arkansas	Pulaski	pcnt_fair_poor	15
+5121	Arkansas	Randolph	pcnt_fair_poor	22
+5123	Arkansas	St. Francis	pcnt_fair_poor	19
+5125	Arkansas	Saline	pcnt_fair_poor	18
+5127	Arkansas	Scott	pcnt_fair_poor	14
+5129	Arkansas	Searcy	pcnt_fair_poor	21
+5131	Arkansas	Sebastian	pcnt_fair_poor	19
+5133	Arkansas	Sevier	pcnt_fair_poor	21
+5135	Arkansas	Sharp	pcnt_fair_poor	29
+5137	Arkansas	Stone	pcnt_fair_poor	23
+5139	Arkansas	Union	pcnt_fair_poor	23
+5141	Arkansas	Van Buren	pcnt_fair_poor	24
+5143	Arkansas	Washington	pcnt_fair_poor	15
+5145	Arkansas	White	pcnt_fair_poor	18
+5147	Arkansas	Woodruff	pcnt_fair_poor	
+5149	Arkansas	Yell	pcnt_fair_poor	23
+6001	California	Alameda	pcnt_fair_poor	15
+6003	California	Alpine	pcnt_fair_poor	
+6005	California	Amador	pcnt_fair_poor	18
+6007	California	Butte	pcnt_fair_poor	15
+6009	California	Calaveras	pcnt_fair_poor	16
+6011	California	Colusa	pcnt_fair_poor	
+6013	California	Contra Costa	pcnt_fair_poor	14
+6015	California	Del Norte	pcnt_fair_poor	
+6017	California	El Dorado	pcnt_fair_poor	10
+6019	California	Fresno	pcnt_fair_poor	22
+6021	California	Glenn	pcnt_fair_poor	
+6023	California	Humboldt	pcnt_fair_poor	13
+6025	California	Imperial	pcnt_fair_poor	32
+6027	California	Inyo	pcnt_fair_poor	
+6029	California	Kern	pcnt_fair_poor	24
+6031	California	Kings	pcnt_fair_poor	27
+6033	California	Lake	pcnt_fair_poor	18
+6035	California	Lassen	pcnt_fair_poor	16
+6037	California	Los Angeles	pcnt_fair_poor	23
+6039	California	Madera	pcnt_fair_poor	30
+6041	California	Marin	pcnt_fair_poor	9
+6043	California	Mariposa	pcnt_fair_poor	
+6045	California	Mendocino	pcnt_fair_poor	17
+6047	California	Merced	pcnt_fair_poor	23
+6049	California	Modoc	pcnt_fair_poor	
+6051	California	Mono	pcnt_fair_poor	8
+6053	California	Monterey	pcnt_fair_poor	22
+6055	California	Napa	pcnt_fair_poor	17
+6057	California	Nevada	pcnt_fair_poor	11
+6059	California	Orange	pcnt_fair_poor	15
+6061	California	Placer	pcnt_fair_poor	10
+6063	California	Plumas	pcnt_fair_poor	6
+6065	California	Riverside	pcnt_fair_poor	19
+6067	California	Sacramento	pcnt_fair_poor	14
+6069	California	San Benito	pcnt_fair_poor	21
+6071	California	San Bernardino	pcnt_fair_poor	20
+6073	California	San Diego	pcnt_fair_poor	16
+6075	California	San Francisco	pcnt_fair_poor	17
+6077	California	San Joaquin	pcnt_fair_poor	21
+6079	California	San Luis Obispo	pcnt_fair_poor	12
+6081	California	San Mateo	pcnt_fair_poor	13
+6083	California	Santa Barbara	pcnt_fair_poor	21
+6085	California	Santa Clara	pcnt_fair_poor	14
+6087	California	Santa Cruz	pcnt_fair_poor	18
+6089	California	Shasta	pcnt_fair_poor	15
+6091	California	Sierra	pcnt_fair_poor	
+6093	California	Siskiyou	pcnt_fair_poor	22
+6095	California	Solano	pcnt_fair_poor	17
+6097	California	Sonoma	pcnt_fair_poor	14
+6099	California	Stanislaus	pcnt_fair_poor	23
+6101	California	Sutter	pcnt_fair_poor	23
+6103	California	Tehama	pcnt_fair_poor	26
+6105	California	Trinity	pcnt_fair_poor	
+6107	California	Tulare	pcnt_fair_poor	26
+6109	California	Tuolumne	pcnt_fair_poor	12
+6111	California	Ventura	pcnt_fair_poor	15
+6113	California	Yolo	pcnt_fair_poor	16
+6115	California	Yuba	pcnt_fair_poor	22
+8001	Colorado	Adams	pcnt_fair_poor	17
+8003	Colorado	Alamosa	pcnt_fair_poor	14
+8005	Colorado	Arapahoe	pcnt_fair_poor	12
+8007	Colorado	Archuleta	pcnt_fair_poor	12
+8009	Colorado	Baca	pcnt_fair_poor	14
+8011	Colorado	Bent	pcnt_fair_poor	
+8013	Colorado	Boulder	pcnt_fair_poor	9
+8014	Colorado	Broomfield	pcnt_fair_poor	8
+8015	Colorado	Chaffee	pcnt_fair_poor	11
+8017	Colorado	Cheyenne	pcnt_fair_poor	16
+8019	Colorado	Clear Creek	pcnt_fair_poor	8
+8021	Colorado	Conejos	pcnt_fair_poor	24
+8023	Colorado	Costilla	pcnt_fair_poor	
+8025	Colorado	Crowley	pcnt_fair_poor	
+8027	Colorado	Custer	pcnt_fair_poor	8
+8029	Colorado	Delta	pcnt_fair_poor	17
+8031	Colorado	Denver	pcnt_fair_poor	16
+8033	Colorado	Dolores	pcnt_fair_poor	9
+8035	Colorado	Douglas	pcnt_fair_poor	7
+8037	Colorado	Eagle	pcnt_fair_poor	14
+8039	Colorado	Elbert	pcnt_fair_poor	7
+8041	Colorado	El Paso	pcnt_fair_poor	12
+8043	Colorado	Fremont	pcnt_fair_poor	14
+8045	Colorado	Garfield	pcnt_fair_poor	17
+8047	Colorado	Gilpin	pcnt_fair_poor	
+8049	Colorado	Grand	pcnt_fair_poor	5
+8051	Colorado	Gunnison	pcnt_fair_poor	7
+8053	Colorado	Hinsdale	pcnt_fair_poor	
+8055	Colorado	Huerfano	pcnt_fair_poor	
+8057	Colorado	Jackson	pcnt_fair_poor	8
+8059	Colorado	Jefferson	pcnt_fair_poor	10
+8061	Colorado	Kiowa	pcnt_fair_poor	
+8063	Colorado	Kit Carson	pcnt_fair_poor	23
+8065	Colorado	Lake	pcnt_fair_poor	23
+8067	Colorado	La Plata	pcnt_fair_poor	9
+8069	Colorado	Larimer	pcnt_fair_poor	11
+8071	Colorado	Las Animas	pcnt_fair_poor	19
+8073	Colorado	Lincoln	pcnt_fair_poor	11
+8075	Colorado	Logan	pcnt_fair_poor	14
+8077	Colorado	Mesa	pcnt_fair_poor	14
+8079	Colorado	Mineral	pcnt_fair_poor	9
+8081	Colorado	Moffat	pcnt_fair_poor	20
+8083	Colorado	Montezuma	pcnt_fair_poor	15
+8085	Colorado	Montrose	pcnt_fair_poor	13
+8087	Colorado	Morgan	pcnt_fair_poor	25
+8089	Colorado	Otero	pcnt_fair_poor	15
+8091	Colorado	Ouray	pcnt_fair_poor	2
+8093	Colorado	Park	pcnt_fair_poor	12
+8095	Colorado	Phillips	pcnt_fair_poor	13
+8097	Colorado	Pitkin	pcnt_fair_poor	6
+8099	Colorado	Prowers	pcnt_fair_poor	22
+8101	Colorado	Pueblo	pcnt_fair_poor	17
+8103	Colorado	Rio Blanco	pcnt_fair_poor	18
+8105	Colorado	Rio Grande	pcnt_fair_poor	20
+8107	Colorado	Routt	pcnt_fair_poor	7
+8109	Colorado	Saguache	pcnt_fair_poor	19
+8111	Colorado	San Juan	pcnt_fair_poor	
+8113	Colorado	San Miguel	pcnt_fair_poor	5
+8115	Colorado	Sedgwick	pcnt_fair_poor	15
+8117	Colorado	Summit	pcnt_fair_poor	7
+8119	Colorado	Teller	pcnt_fair_poor	8
+8121	Colorado	Washington	pcnt_fair_poor	13
+8123	Colorado	Weld	pcnt_fair_poor	15
+8125	Colorado	Yuma	pcnt_fair_poor	15
+9001	Connecticut	Fairfield	pcnt_fair_poor	10
+9003	Connecticut	Hartford	pcnt_fair_poor	11
+9005	Connecticut	Litchfield	pcnt_fair_poor	10
+9007	Connecticut	Middlesex	pcnt_fair_poor	10
+9009	Connecticut	New Haven	pcnt_fair_poor	12
+9011	Connecticut	New London	pcnt_fair_poor	11
+9013	Connecticut	Tolland	pcnt_fair_poor	9
+9015	Connecticut	Windham	pcnt_fair_poor	12
 10001	Delaware	Kent	pcnt_fair_poor	15
 10003	Delaware	New Castle	pcnt_fair_poor	11
 10005	Delaware	Sussex	pcnt_fair_poor	14

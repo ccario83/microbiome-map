@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	mentally_unhealthy_days
+1001	Alabama	Autauga	mentally_unhealthy_days	4.3
+1003	Alabama	Baldwin	mentally_unhealthy_days	3.8
+1005	Alabama	Barbour	mentally_unhealthy_days	4.1
+1007	Alabama	Bibb	mentally_unhealthy_days	5.3
+1009	Alabama	Blount	mentally_unhealthy_days	4
+1011	Alabama	Bullock	mentally_unhealthy_days	
+1013	Alabama	Butler	mentally_unhealthy_days	3.2
+1015	Alabama	Calhoun	mentally_unhealthy_days	5
+1017	Alabama	Chambers	mentally_unhealthy_days	4
+1019	Alabama	Cherokee	mentally_unhealthy_days	4.3
+1021	Alabama	Chilton	mentally_unhealthy_days	4.8
+1023	Alabama	Choctaw	mentally_unhealthy_days	4.6
+1025	Alabama	Clarke	mentally_unhealthy_days	2.4
+1027	Alabama	Clay	mentally_unhealthy_days	4.6
+1029	Alabama	Cleburne	mentally_unhealthy_days	4.5
+1031	Alabama	Coffee	mentally_unhealthy_days	3.8
+1033	Alabama	Colbert	mentally_unhealthy_days	4.5
+1035	Alabama	Conecuh	mentally_unhealthy_days	4.1
+1037	Alabama	Coosa	mentally_unhealthy_days	3.9
+1039	Alabama	Covington	mentally_unhealthy_days	4.5
+1041	Alabama	Crenshaw	mentally_unhealthy_days	3.4
+1043	Alabama	Cullman	mentally_unhealthy_days	4.5
+1045	Alabama	Dale	mentally_unhealthy_days	4
+1047	Alabama	Dallas	mentally_unhealthy_days	3.7
+1049	Alabama	DeKalb	mentally_unhealthy_days	5.2
+1051	Alabama	Elmore	mentally_unhealthy_days	3.7
+1053	Alabama	Escambia	mentally_unhealthy_days	4.8
+1055	Alabama	Etowah	mentally_unhealthy_days	4.5
+1057	Alabama	Fayette	mentally_unhealthy_days	5.5
+1059	Alabama	Franklin	mentally_unhealthy_days	3.9
+1061	Alabama	Geneva	mentally_unhealthy_days	3.3
+1063	Alabama	Greene	mentally_unhealthy_days	5
+1065	Alabama	Hale	mentally_unhealthy_days	4.1
+1067	Alabama	Henry	mentally_unhealthy_days	3.7
+1069	Alabama	Houston	mentally_unhealthy_days	4.3
+1071	Alabama	Jackson	mentally_unhealthy_days	5.5
+1073	Alabama	Jefferson	mentally_unhealthy_days	3.8
+1075	Alabama	Lamar	mentally_unhealthy_days	5.4
+1077	Alabama	Lauderdale	mentally_unhealthy_days	3.7
+1079	Alabama	Lawrence	mentally_unhealthy_days	4.4
+1081	Alabama	Lee	mentally_unhealthy_days	4.9
+1083	Alabama	Limestone	mentally_unhealthy_days	3.3
+1085	Alabama	Lowndes	mentally_unhealthy_days	4.7
+1087	Alabama	Macon	mentally_unhealthy_days	2.4
+1089	Alabama	Madison	mentally_unhealthy_days	3.3
+1091	Alabama	Marengo	mentally_unhealthy_days	3.7
+1093	Alabama	Marion	mentally_unhealthy_days	4.5
+1095	Alabama	Marshall	mentally_unhealthy_days	4.5
+1097	Alabama	Mobile	mentally_unhealthy_days	4.5
+1099	Alabama	Monroe	mentally_unhealthy_days	4.2
+1101	Alabama	Montgomery	mentally_unhealthy_days	3.6
+1103	Alabama	Morgan	mentally_unhealthy_days	3.8
+1105	Alabama	Perry	mentally_unhealthy_days	3.5
+1107	Alabama	Pickens	mentally_unhealthy_days	3.3
+1109	Alabama	Pike	mentally_unhealthy_days	3.6
+1111	Alabama	Randolph	mentally_unhealthy_days	4.5
+1113	Alabama	Russell	mentally_unhealthy_days	4.4
+1115	Alabama	St. Clair	mentally_unhealthy_days	4
+1117	Alabama	Shelby	mentally_unhealthy_days	3.6
+1119	Alabama	Sumter	mentally_unhealthy_days	4.2
+1121	Alabama	Talladega	mentally_unhealthy_days	5.1
+1123	Alabama	Tallapoosa	mentally_unhealthy_days	5.2
+1125	Alabama	Tuscaloosa	mentally_unhealthy_days	4.3
+1127	Alabama	Walker	mentally_unhealthy_days	5.6
+1129	Alabama	Washington	mentally_unhealthy_days	2.9
+1131	Alabama	Wilcox	mentally_unhealthy_days	4.9
+1133	Alabama	Winston	mentally_unhealthy_days	6.3
+2013	Alaska	Aleutians East	mentally_unhealthy_days	3.6
+2016	Alaska	Aleutians West	mentally_unhealthy_days	1.6
+2020	Alaska	Anchorage	mentally_unhealthy_days	2.9
+2050	Alaska	Bethel	mentally_unhealthy_days	2.8
+2060	Alaska	Bristol Bay	mentally_unhealthy_days	1.6
+2068	Alaska	Denali	mentally_unhealthy_days	2
+2070	Alaska	Dillingham	mentally_unhealthy_days	2.2
+2090	Alaska	Fairbanks North Star	mentally_unhealthy_days	3
+2100	Alaska	Haines	mentally_unhealthy_days	2.1
+2110	Alaska	Juneau	mentally_unhealthy_days	3
+2122	Alaska	Kenai Peninsula	mentally_unhealthy_days	3.2
+2130	Alaska	Ketchikan Gateway	mentally_unhealthy_days	3.1
+2150	Alaska	Kodiak Island	mentally_unhealthy_days	2.1
+2164	Alaska	Lake and Peninsula	mentally_unhealthy_days	1.8
+2170	Alaska	Matanuska-Susitna	mentally_unhealthy_days	3.4
+2180	Alaska	Nome	mentally_unhealthy_days	2.5
+2185	Alaska	North Slope	mentally_unhealthy_days	1.3
+2188	Alaska	Northwest Arctic	mentally_unhealthy_days	2.3
+2201	Alaska	Prince of Wales-Outer Ketchikan	mentally_unhealthy_days	2.9
+2220	Alaska	Sitka	mentally_unhealthy_days	2.7
+2232	Alaska	Skagway-Hoonah-Angoon	mentally_unhealthy_days	2.2
+2240	Alaska	Southeast Fairbanks	mentally_unhealthy_days	2.3
+2261	Alaska	Valdez-Cordova	mentally_unhealthy_days	3.5
+2270	Alaska	Wade Hampton	mentally_unhealthy_days	3.8
+2280	Alaska	Wrangell-Petersburg	mentally_unhealthy_days	3.1
+2282	Alaska	Yakutat	mentally_unhealthy_days	3.1
+2290	Alaska	Yukon-Koyukuk	mentally_unhealthy_days	2.5
+4001	Arizona	Apache	mentally_unhealthy_days	4.3
+4003	Arizona	Cochise	mentally_unhealthy_days	3.7
+4005	Arizona	Coconino	mentally_unhealthy_days	3
+4007	Arizona	Gila	mentally_unhealthy_days	5.5
+4009	Arizona	Graham	mentally_unhealthy_days	4.3
+4011	Arizona	Greenlee	mentally_unhealthy_days	3.2
+4012	Arizona	La Paz	mentally_unhealthy_days	4.8
+4013	Arizona	Maricopa	mentally_unhealthy_days	3.1
+4015	Arizona	Mohave	mentally_unhealthy_days	4.3
+4017	Arizona	Navajo	mentally_unhealthy_days	3.6
+4019	Arizona	Pima	mentally_unhealthy_days	3.4
+4021	Arizona	Pinal	mentally_unhealthy_days	3.4
+4023	Arizona	Santa Cruz	mentally_unhealthy_days	2.6
+4025	Arizona	Yavapai	mentally_unhealthy_days	4.1
+4027	Arizona	Yuma	mentally_unhealthy_days	3
+5001	Arkansas	Arkansas	mentally_unhealthy_days	4.4
+5003	Arkansas	Ashley	mentally_unhealthy_days	3.6
+5005	Arkansas	Baxter	mentally_unhealthy_days	3.7
+5007	Arkansas	Benton	mentally_unhealthy_days	2.8
+5009	Arkansas	Boone	mentally_unhealthy_days	4.1
+5011	Arkansas	Bradley	mentally_unhealthy_days	4.6
+5013	Arkansas	Calhoun	mentally_unhealthy_days	3.7
+5015	Arkansas	Carroll	mentally_unhealthy_days	4.1
+5017	Arkansas	Chicot	mentally_unhealthy_days	4
+5019	Arkansas	Clark	mentally_unhealthy_days	3.1
+5021	Arkansas	Clay	mentally_unhealthy_days	3.1
+5023	Arkansas	Cleburne	mentally_unhealthy_days	4.9
+5025	Arkansas	Cleveland	mentally_unhealthy_days	5.2
+5027	Arkansas	Columbia	mentally_unhealthy_days	4.3
+5029	Arkansas	Conway	mentally_unhealthy_days	5.9
+5031	Arkansas	Craighead	mentally_unhealthy_days	3.7
+5033	Arkansas	Crawford	mentally_unhealthy_days	4
+5035	Arkansas	Crittenden	mentally_unhealthy_days	4.5
+5037	Arkansas	Cross	mentally_unhealthy_days	5
+5039	Arkansas	Dallas	mentally_unhealthy_days	
+5041	Arkansas	Desha	mentally_unhealthy_days	3.1
+5043	Arkansas	Drew	mentally_unhealthy_days	4.6
+5045	Arkansas	Faulkner	mentally_unhealthy_days	3.5
+5047	Arkansas	Franklin	mentally_unhealthy_days	4.6
+5049	Arkansas	Fulton	mentally_unhealthy_days	2.8
+5051	Arkansas	Garland	mentally_unhealthy_days	5.3
+5053	Arkansas	Grant	mentally_unhealthy_days	5.7
+5055	Arkansas	Greene	mentally_unhealthy_days	3.9
+5057	Arkansas	Hempstead	mentally_unhealthy_days	4.4
+5059	Arkansas	Hot Spring	mentally_unhealthy_days	5.3
+5061	Arkansas	Howard	mentally_unhealthy_days	3.1
+5063	Arkansas	Independence	mentally_unhealthy_days	4.4
+5065	Arkansas	Izard	mentally_unhealthy_days	5.5
+5067	Arkansas	Jackson	mentally_unhealthy_days	3.5
+5069	Arkansas	Jefferson	mentally_unhealthy_days	4.1
+5071	Arkansas	Johnson	mentally_unhealthy_days	3.4
+5073	Arkansas	Lafayette	mentally_unhealthy_days	4.7
+5075	Arkansas	Lawrence	mentally_unhealthy_days	3.6
+5077	Arkansas	Lee	mentally_unhealthy_days	4.4
+5079	Arkansas	Lincoln	mentally_unhealthy_days	3.6
+5081	Arkansas	Little River	mentally_unhealthy_days	4
+5083	Arkansas	Logan	mentally_unhealthy_days	3.3
+5085	Arkansas	Lonoke	mentally_unhealthy_days	4
+5087	Arkansas	Madison	mentally_unhealthy_days	2.3
+5089	Arkansas	Marion	mentally_unhealthy_days	4.1
+5091	Arkansas	Miller	mentally_unhealthy_days	3.5
+5093	Arkansas	Mississippi	mentally_unhealthy_days	4.6
+5095	Arkansas	Monroe	mentally_unhealthy_days	3.4
+5097	Arkansas	Montgomery	mentally_unhealthy_days	3.8
+5099	Arkansas	Nevada	mentally_unhealthy_days	
+5101	Arkansas	Newton	mentally_unhealthy_days	3.3
+5103	Arkansas	Ouachita	mentally_unhealthy_days	6.3
+5105	Arkansas	Perry	mentally_unhealthy_days	3.4
+5107	Arkansas	Phillips	mentally_unhealthy_days	5.4
+5109	Arkansas	Pike	mentally_unhealthy_days	3.2
+5111	Arkansas	Poinsett	mentally_unhealthy_days	6.9
+5113	Arkansas	Polk	mentally_unhealthy_days	4.4
+5115	Arkansas	Pope	mentally_unhealthy_days	3.1
+5117	Arkansas	Prairie	mentally_unhealthy_days	3.8
+5119	Arkansas	Pulaski	mentally_unhealthy_days	3.4
+5121	Arkansas	Randolph	mentally_unhealthy_days	4.9
+5123	Arkansas	St. Francis	mentally_unhealthy_days	4.9
+5125	Arkansas	Saline	mentally_unhealthy_days	4.3
+5127	Arkansas	Scott	mentally_unhealthy_days	4.8
+5129	Arkansas	Searcy	mentally_unhealthy_days	5.6
+5131	Arkansas	Sebastian	mentally_unhealthy_days	4
+5133	Arkansas	Sevier	mentally_unhealthy_days	3.1
+5135	Arkansas	Sharp	mentally_unhealthy_days	5.9
+5137	Arkansas	Stone	mentally_unhealthy_days	5
+5139	Arkansas	Union	mentally_unhealthy_days	4.2
+5141	Arkansas	Van Buren	mentally_unhealthy_days	3.9
+5143	Arkansas	Washington	mentally_unhealthy_days	3
+5145	Arkansas	White	mentally_unhealthy_days	3
+5147	Arkansas	Woodruff	mentally_unhealthy_days	
+5149	Arkansas	Yell	mentally_unhealthy_days	3.5
+6001	California	Alameda	mentally_unhealthy_days	3.4
+6003	California	Alpine	mentally_unhealthy_days	
+6005	California	Amador	mentally_unhealthy_days	4.4
+6007	California	Butte	mentally_unhealthy_days	4.2
+6009	California	Calaveras	mentally_unhealthy_days	3.5
+6011	California	Colusa	mentally_unhealthy_days	2.4
+6013	California	Contra Costa	mentally_unhealthy_days	3.6
+6015	California	Del Norte	mentally_unhealthy_days	
+6017	California	El Dorado	mentally_unhealthy_days	2.9
+6019	California	Fresno	mentally_unhealthy_days	3.4
+6021	California	Glenn	mentally_unhealthy_days	3.6
+6023	California	Humboldt	mentally_unhealthy_days	4.4
+6025	California	Imperial	mentally_unhealthy_days	3.7
+6027	California	Inyo	mentally_unhealthy_days	5.2
+6029	California	Kern	mentally_unhealthy_days	4.1
+6031	California	Kings	mentally_unhealthy_days	4.1
+6033	California	Lake	mentally_unhealthy_days	4.1
+6035	California	Lassen	mentally_unhealthy_days	3.7
+6037	California	Los Angeles	mentally_unhealthy_days	3.7
+6039	California	Madera	mentally_unhealthy_days	3.8
+6041	California	Marin	mentally_unhealthy_days	2.7
+6043	California	Mariposa	mentally_unhealthy_days	3.8
+6045	California	Mendocino	mentally_unhealthy_days	3.4
+6047	California	Merced	mentally_unhealthy_days	4.2
+6049	California	Modoc	mentally_unhealthy_days	
+6051	California	Mono	mentally_unhealthy_days	3.4
+6053	California	Monterey	mentally_unhealthy_days	4.2
+6055	California	Napa	mentally_unhealthy_days	4.4
+6057	California	Nevada	mentally_unhealthy_days	3.1
+6059	California	Orange	mentally_unhealthy_days	3.3
+6061	California	Placer	mentally_unhealthy_days	3.1
+6063	California	Plumas	mentally_unhealthy_days	3
+6065	California	Riverside	mentally_unhealthy_days	4
+6067	California	Sacramento	mentally_unhealthy_days	3.9
+6069	California	San Benito	mentally_unhealthy_days	2.9
+6071	California	San Bernardino	mentally_unhealthy_days	4.1
+6073	California	San Diego	mentally_unhealthy_days	3.6
+6075	California	San Francisco	mentally_unhealthy_days	3.4
+6077	California	San Joaquin	mentally_unhealthy_days	3.9
+6079	California	San Luis Obispo	mentally_unhealthy_days	3.8
+6081	California	San Mateo	mentally_unhealthy_days	3
+6083	California	Santa Barbara	mentally_unhealthy_days	2.9
+6085	California	Santa Clara	mentally_unhealthy_days	2.7
+6087	California	Santa Cruz	mentally_unhealthy_days	3.8
+6089	California	Shasta	mentally_unhealthy_days	4
+6091	California	Sierra	mentally_unhealthy_days	
+6093	California	Siskiyou	mentally_unhealthy_days	4.2
+6095	California	Solano	mentally_unhealthy_days	3.2
+6097	California	Sonoma	mentally_unhealthy_days	3.5
+6099	California	Stanislaus	mentally_unhealthy_days	3.8
+6101	California	Sutter	mentally_unhealthy_days	3.3
+6103	California	Tehama	mentally_unhealthy_days	5
+6105	California	Trinity	mentally_unhealthy_days	
+6107	California	Tulare	mentally_unhealthy_days	4.8
+6109	California	Tuolumne	mentally_unhealthy_days	3.9
+6111	California	Ventura	mentally_unhealthy_days	3.6
+6113	California	Yolo	mentally_unhealthy_days	2.9
+6115	California	Yuba	mentally_unhealthy_days	4.9
+8001	Colorado	Adams	mentally_unhealthy_days	3.5
+8003	Colorado	Alamosa	mentally_unhealthy_days	3.1
+8005	Colorado	Arapahoe	mentally_unhealthy_days	3.2
+8007	Colorado	Archuleta	mentally_unhealthy_days	3.7
+8009	Colorado	Baca	mentally_unhealthy_days	2.6
+8011	Colorado	Bent	mentally_unhealthy_days	3.8
+8013	Colorado	Boulder	mentally_unhealthy_days	2.7
+8014	Colorado	Broomfield	mentally_unhealthy_days	3.3
+8015	Colorado	Chaffee	mentally_unhealthy_days	3.2
+8017	Colorado	Cheyenne	mentally_unhealthy_days	1.2
+8019	Colorado	Clear Creek	mentally_unhealthy_days	2.7
+8021	Colorado	Conejos	mentally_unhealthy_days	3.9
+8023	Colorado	Costilla	mentally_unhealthy_days	2.5
+8025	Colorado	Crowley	mentally_unhealthy_days	
+8027	Colorado	Custer	mentally_unhealthy_days	2.5
+8029	Colorado	Delta	mentally_unhealthy_days	3.9
+8031	Colorado	Denver	mentally_unhealthy_days	3.2
+8033	Colorado	Dolores	mentally_unhealthy_days	2.4
+8035	Colorado	Douglas	mentally_unhealthy_days	2.3
+8037	Colorado	Eagle	mentally_unhealthy_days	2.3
+8039	Colorado	Elbert	mentally_unhealthy_days	3.1
+8041	Colorado	El Paso	mentally_unhealthy_days	3.4
+8043	Colorado	Fremont	mentally_unhealthy_days	3.6
+8045	Colorado	Garfield	mentally_unhealthy_days	2.9
+8047	Colorado	Gilpin	mentally_unhealthy_days	4
+8049	Colorado	Grand	mentally_unhealthy_days	3.6
+8051	Colorado	Gunnison	mentally_unhealthy_days	2.6
+8053	Colorado	Hinsdale	mentally_unhealthy_days	
+8055	Colorado	Huerfano	mentally_unhealthy_days	
+8057	Colorado	Jackson	mentally_unhealthy_days	2.6
+8059	Colorado	Jefferson	mentally_unhealthy_days	2.9
+8061	Colorado	Kiowa	mentally_unhealthy_days	
+8063	Colorado	Kit Carson	mentally_unhealthy_days	2.5
+8065	Colorado	Lake	mentally_unhealthy_days	3.3
+8067	Colorado	La Plata	mentally_unhealthy_days	2.4
+8069	Colorado	Larimer	mentally_unhealthy_days	2.8
+8071	Colorado	Las Animas	mentally_unhealthy_days	3.8
+8073	Colorado	Lincoln	mentally_unhealthy_days	2.4
+8075	Colorado	Logan	mentally_unhealthy_days	2.9
+8077	Colorado	Mesa	mentally_unhealthy_days	3.6
+8079	Colorado	Mineral	mentally_unhealthy_days	
+8081	Colorado	Moffat	mentally_unhealthy_days	2.8
+8083	Colorado	Montezuma	mentally_unhealthy_days	4
+8085	Colorado	Montrose	mentally_unhealthy_days	2.7
+8087	Colorado	Morgan	mentally_unhealthy_days	2.9
+8089	Colorado	Otero	mentally_unhealthy_days	3.2
+8091	Colorado	Ouray	mentally_unhealthy_days	2.2
+8093	Colorado	Park	mentally_unhealthy_days	3.3
+8095	Colorado	Phillips	mentally_unhealthy_days	3.3
+8097	Colorado	Pitkin	mentally_unhealthy_days	2.5
+8099	Colorado	Prowers	mentally_unhealthy_days	3.6
+8101	Colorado	Pueblo	mentally_unhealthy_days	3.6
+8103	Colorado	Rio Blanco	mentally_unhealthy_days	3
+8105	Colorado	Rio Grande	mentally_unhealthy_days	4.2
+8107	Colorado	Routt	mentally_unhealthy_days	2.3
+8109	Colorado	Saguache	mentally_unhealthy_days	3.2
+8111	Colorado	San Juan	mentally_unhealthy_days	
+8113	Colorado	San Miguel	mentally_unhealthy_days	3.3
+8115	Colorado	Sedgwick	mentally_unhealthy_days	3.8
+8117	Colorado	Summit	mentally_unhealthy_days	2
+8119	Colorado	Teller	mentally_unhealthy_days	3.1
+8121	Colorado	Washington	mentally_unhealthy_days	3.8
+8123	Colorado	Weld	mentally_unhealthy_days	2.9
+8125	Colorado	Yuma	mentally_unhealthy_days	1.7
+9001	Connecticut	Fairfield	mentally_unhealthy_days	2.8
+9003	Connecticut	Hartford	mentally_unhealthy_days	3.1
+9005	Connecticut	Litchfield	mentally_unhealthy_days	3.1
+9007	Connecticut	Middlesex	mentally_unhealthy_days	3.3
+9009	Connecticut	New Haven	mentally_unhealthy_days	3.4
+9011	Connecticut	New London	mentally_unhealthy_days	2.9
+9013	Connecticut	Tolland	mentally_unhealthy_days	3
+9015	Connecticut	Windham	mentally_unhealthy_days	3
+10001	Delaware	Kent	mentally_unhealthy_days	3.6
+10003	Delaware	New Castle	mentally_unhealthy_days	3.2
+10005	Delaware	Sussex	mentally_unhealthy_days	3.3
+11001	District of Columbia	District of Columbia	mentally_unhealthy_days	2.9
+12001	Florida	Alachua	mentally_unhealthy_days	3.2
+12003	Florida	Baker	mentally_unhealthy_days	4.3
+12005	Florida	Bay	mentally_unhealthy_days	3.5
+12007	Florida	Bradford	mentally_unhealthy_days	4.2
+12009	Florida	Brevard	mentally_unhealthy_days	3.8
+12011	Florida	Broward	mentally_unhealthy_days	3.1
+12013	Florida	Calhoun	mentally_unhealthy_days	4.5
+12015	Florida	Charlotte	mentally_unhealthy_days	4.8
+12017	Florida	Citrus	mentally_unhealthy_days	4.5
+12019	Florida	Clay	mentally_unhealthy_days	3.5
+12021	Florida	Collier	mentally_unhealthy_days	3.4
+12023	Florida	Columbia	mentally_unhealthy_days	3.8
+12027	Florida	DeSoto	mentally_unhealthy_days	3.4
+12029	Florida	Dixie	mentally_unhealthy_days	4.2
+12031	Florida	Duval	mentally_unhealthy_days	3.7
+12033	Florida	Escambia	mentally_unhealthy_days	4.4
+12035	Florida	Flagler	mentally_unhealthy_days	5
+12037	Florida	Franklin	mentally_unhealthy_days	3.9
+12039	Florida	Gadsden	mentally_unhealthy_days	3.4
+12041	Florida	Gilchrist	mentally_unhealthy_days	4
+12043	Florida	Glades	mentally_unhealthy_days	3.2
+12045	Florida	Gulf	mentally_unhealthy_days	3.6
+12047	Florida	Hamilton	mentally_unhealthy_days	5.1
+12049	Florida	Hardee	mentally_unhealthy_days	2.8
+12051	Florida	Hendry	mentally_unhealthy_days	2.9
+12053	Florida	Hernando	mentally_unhealthy_days	4.8
+12055	Florida	Highlands	mentally_unhealthy_days	4.2
+12057	Florida	Hillsborough	mentally_unhealthy_days	4.1
+12059	Florida	Holmes	mentally_unhealthy_days	3.2
+12061	Florida	Indian River	mentally_unhealthy_days	3.7
+12063	Florida	Jackson	mentally_unhealthy_days	4.1
+12065	Florida	Jefferson	mentally_unhealthy_days	3.7
+12067	Florida	Lafayette	mentally_unhealthy_days	3.7
+12069	Florida	Lake	mentally_unhealthy_days	3.6
+12071	Florida	Lee	mentally_unhealthy_days	4
+12073	Florida	Leon	mentally_unhealthy_days	3.2
+12075	Florida	Levy	mentally_unhealthy_days	4.7
+12077	Florida	Liberty	mentally_unhealthy_days	3.2
+12079	Florida	Madison	mentally_unhealthy_days	3.1
+12081	Florida	Manatee	mentally_unhealthy_days	3.7
+12083	Florida	Marion	mentally_unhealthy_days	4.8
+12085	Florida	Martin	mentally_unhealthy_days	2.8
+12086	Florida	Miami-Dade	mentally_unhealthy_days	3.3
+12087	Florida	Monroe	mentally_unhealthy_days	3.6
+12089	Florida	Nassau	mentally_unhealthy_days	4
+12091	Florida	Okaloosa	mentally_unhealthy_days	3.4
+12093	Florida	Okeechobee	mentally_unhealthy_days	3.7
+12095	Florida	Orange	mentally_unhealthy_days	3.3
+12097	Florida	Osceola	mentally_unhealthy_days	3.8
+12099	Florida	Palm Beach	mentally_unhealthy_days	3.3
+12101	Florida	Pasco	mentally_unhealthy_days	4.7
+12103	Florida	Pinellas	mentally_unhealthy_days	4.2
+12105	Florida	Polk	mentally_unhealthy_days	3.7
+12107	Florida	Putnam	mentally_unhealthy_days	4.3
+12109	Florida	St. Johns	mentally_unhealthy_days	3.6
+12111	Florida	St. Lucie	mentally_unhealthy_days	3.9
+12113	Florida	Santa Rosa	mentally_unhealthy_days	3.4
+12115	Florida	Sarasota	mentally_unhealthy_days	3.4
+12117	Florida	Seminole	mentally_unhealthy_days	3.1
+12119	Florida	Sumter	mentally_unhealthy_days	3.2
+12121	Florida	Suwannee	mentally_unhealthy_days	4.6
+12123	Florida	Taylor	mentally_unhealthy_days	4.4
+12125	Florida	Union	mentally_unhealthy_days	4.2
+12127	Florida	Volusia	mentally_unhealthy_days	4.9
+12129	Florida	Wakulla	mentally_unhealthy_days	4.3
+12131	Florida	Walton	mentally_unhealthy_days	3.9
+12133	Florida	Washington	mentally_unhealthy_days	4.8
+13001	Georgia	Appling	mentally_unhealthy_days	4.8
+13003	Georgia	Atkinson	mentally_unhealthy_days	2.5
+13005	Georgia	Bacon	mentally_unhealthy_days	3.2
+13007	Georgia	Baker	mentally_unhealthy_days	
+13009	Georgia	Baldwin	mentally_unhealthy_days	5.5
+13011	Georgia	Banks	mentally_unhealthy_days	
+13013	Georgia	Barrow	mentally_unhealthy_days	4.5
+13015	Georgia	Bartow	mentally_unhealthy_days	4.5
+13017	Georgia	Ben Hill	mentally_unhealthy_days	3.4
+13019	Georgia	Berrien	mentally_unhealthy_days	4.3
+13021	Georgia	Bibb	mentally_unhealthy_days	3.5
+13023	Georgia	Bleckley	mentally_unhealthy_days	3.5
+13025	Georgia	Brantley	mentally_unhealthy_days	4.5
+13027	Georgia	Brooks	mentally_unhealthy_days	4.3
+13029	Georgia	Bryan	mentally_unhealthy_days	4.8
+13031	Georgia	Bulloch	mentally_unhealthy_days	3.4
+13033	Georgia	Burke	mentally_unhealthy_days	
+13035	Georgia	Butts	mentally_unhealthy_days	2.5
+13037	Georgia	Calhoun	mentally_unhealthy_days	
+13039	Georgia	Camden	mentally_unhealthy_days	3.5
+13043	Georgia	Candler	mentally_unhealthy_days	3
+13045	Georgia	Carroll	mentally_unhealthy_days	4.1
+13047	Georgia	Catoosa	mentally_unhealthy_days	5.1
+13049	Georgia	Charlton	mentally_unhealthy_days	
+13051	Georgia	Chatham	mentally_unhealthy_days	3
+13053	Georgia	Chattahoochee	mentally_unhealthy_days	
+13055	Georgia	Chattooga	mentally_unhealthy_days	
+13057	Georgia	Cherokee	mentally_unhealthy_days	2.9
+13059	Georgia	Clarke	mentally_unhealthy_days	3.7
+13061	Georgia	Clay	mentally_unhealthy_days	
+13063	Georgia	Clayton	mentally_unhealthy_days	3.6
+13065	Georgia	Clinch	mentally_unhealthy_days	3
+13067	Georgia	Cobb	mentally_unhealthy_days	2.9
+13069	Georgia	Coffee	mentally_unhealthy_days	3.5
+13071	Georgia	Colquitt	mentally_unhealthy_days	5
+13073	Georgia	Columbia	mentally_unhealthy_days	2.7
+13075	Georgia	Cook	mentally_unhealthy_days	3
+13077	Georgia	Coweta	mentally_unhealthy_days	3.7
+13079	Georgia	Crawford	mentally_unhealthy_days	4.8
+13081	Georgia	Crisp	mentally_unhealthy_days	3.8
+13083	Georgia	Dade	mentally_unhealthy_days	5.1
+13085	Georgia	Dawson	mentally_unhealthy_days	3.1
+13087	Georgia	Decatur	mentally_unhealthy_days	3.7
+13089	Georgia	DeKalb	mentally_unhealthy_days	3
+13091	Georgia	Dodge	mentally_unhealthy_days	4.6
+13093	Georgia	Dooly	mentally_unhealthy_days	3.4
+13095	Georgia	Dougherty	mentally_unhealthy_days	3
+13097	Georgia	Douglas	mentally_unhealthy_days	3.6
+13099	Georgia	Early	mentally_unhealthy_days	3.7
+13101	Georgia	Echols	mentally_unhealthy_days	
+13103	Georgia	Effingham	mentally_unhealthy_days	3.4
+13105	Georgia	Elbert	mentally_unhealthy_days	3.8
+13107	Georgia	Emanuel	mentally_unhealthy_days	3.9
+13109	Georgia	Evans	mentally_unhealthy_days	
+13111	Georgia	Fannin	mentally_unhealthy_days	5.3
+13113	Georgia	Fayette	mentally_unhealthy_days	2.6
+13115	Georgia	Floyd	mentally_unhealthy_days	4.5
+13117	Georgia	Forsyth	mentally_unhealthy_days	2.4
+13119	Georgia	Franklin	mentally_unhealthy_days	4.3
+13121	Georgia	Fulton	mentally_unhealthy_days	2.8
+13123	Georgia	Gilmer	mentally_unhealthy_days	3.8
+13125	Georgia	Glascock	mentally_unhealthy_days	
+13127	Georgia	Glynn	mentally_unhealthy_days	2.4
+13129	Georgia	Gordon	mentally_unhealthy_days	4.4
+13131	Georgia	Grady	mentally_unhealthy_days	3.6
+13133	Georgia	Greene	mentally_unhealthy_days	3.3
+13135	Georgia	Gwinnett	mentally_unhealthy_days	2.7
+13137	Georgia	Habersham	mentally_unhealthy_days	3.2
+13139	Georgia	Hall	mentally_unhealthy_days	3.4
+13141	Georgia	Hancock	mentally_unhealthy_days	
+13143	Georgia	Haralson	mentally_unhealthy_days	4
+13145	Georgia	Harris	mentally_unhealthy_days	2.7
+13147	Georgia	Hart	mentally_unhealthy_days	2.9
+13149	Georgia	Heard	mentally_unhealthy_days	
+13151	Georgia	Henry	mentally_unhealthy_days	2.8
+13153	Georgia	Houston	mentally_unhealthy_days	2.6
+13155	Georgia	Irwin	mentally_unhealthy_days	4.1
+13157	Georgia	Jackson	mentally_unhealthy_days	4.3
+13159	Georgia	Jasper	mentally_unhealthy_days	2.9
+13161	Georgia	Jeff Davis	mentally_unhealthy_days	3.9
+13163	Georgia	Jefferson	mentally_unhealthy_days	3.3
+13165	Georgia	Jenkins	mentally_unhealthy_days	
+13167	Georgia	Johnson	mentally_unhealthy_days	4.7
+13169	Georgia	Jones	mentally_unhealthy_days	3.8
+13171	Georgia	Lamar	mentally_unhealthy_days	3.5
+13173	Georgia	Lanier	mentally_unhealthy_days	4.5
+13175	Georgia	Laurens	mentally_unhealthy_days	3.6
+13177	Georgia	Lee	mentally_unhealthy_days	3.3
+13179	Georgia	Liberty	mentally_unhealthy_days	3.4
+13181	Georgia	Lincoln	mentally_unhealthy_days	1.7
+13183	Georgia	Long	mentally_unhealthy_days	3.9
+13185	Georgia	Lowndes	mentally_unhealthy_days	2.9
+13187	Georgia	Lumpkin	mentally_unhealthy_days	3
+13189	Georgia	McDuffie	mentally_unhealthy_days	3.5
+13191	Georgia	McIntosh	mentally_unhealthy_days	4.2
+13193	Georgia	Macon	mentally_unhealthy_days	2.2
+13195	Georgia	Madison	mentally_unhealthy_days	4.3
+13197	Georgia	Marion	mentally_unhealthy_days	4.7
+13199	Georgia	Meriwether	mentally_unhealthy_days	3.4
+13201	Georgia	Miller	mentally_unhealthy_days	2.2
+13205	Georgia	Mitchell	mentally_unhealthy_days	2.5
+13207	Georgia	Monroe	mentally_unhealthy_days	2.6
+13209	Georgia	Montgomery	mentally_unhealthy_days	4.1
+13211	Georgia	Morgan	mentally_unhealthy_days	2.2
+13213	Georgia	Murray	mentally_unhealthy_days	6.2
+13215	Georgia	Muscogee	mentally_unhealthy_days	4
+13217	Georgia	Newton	mentally_unhealthy_days	2.7
+13219	Georgia	Oconee	mentally_unhealthy_days	2.6
+13221	Georgia	Oglethorpe	mentally_unhealthy_days	4.3
+13223	Georgia	Paulding	mentally_unhealthy_days	4.2
+13225	Georgia	Peach	mentally_unhealthy_days	3.7
+13227	Georgia	Pickens	mentally_unhealthy_days	3.7
+13229	Georgia	Pierce	mentally_unhealthy_days	3.5
+13231	Georgia	Pike	mentally_unhealthy_days	3.8
+13233	Georgia	Polk	mentally_unhealthy_days	4.4
+13235	Georgia	Pulaski	mentally_unhealthy_days	3.5
+13237	Georgia	Putnam	mentally_unhealthy_days	3.1
+13239	Georgia	Quitman	mentally_unhealthy_days	
+13241	Georgia	Rabun	mentally_unhealthy_days	3.3
+13243	Georgia	Randolph	mentally_unhealthy_days	3
+13245	Georgia	Richmond	mentally_unhealthy_days	3.4
+13247	Georgia	Rockdale	mentally_unhealthy_days	2.7
+13249	Georgia	Schley	mentally_unhealthy_days	
+13251	Georgia	Screven	mentally_unhealthy_days	2.8
+13253	Georgia	Seminole	mentally_unhealthy_days	2.9
+13255	Georgia	Spalding	mentally_unhealthy_days	3.3
+13257	Georgia	Stephens	mentally_unhealthy_days	5.4
+13259	Georgia	Stewart	mentally_unhealthy_days	
+13261	Georgia	Sumter	mentally_unhealthy_days	3
+13263	Georgia	Talbot	mentally_unhealthy_days	
+13265	Georgia	Taliaferro	mentally_unhealthy_days	
+13267	Georgia	Tattnall	mentally_unhealthy_days	6.5
+13269	Georgia	Taylor	mentally_unhealthy_days	3.2
+13271	Georgia	Telfair	mentally_unhealthy_days	4.6
+13273	Georgia	Terrell	mentally_unhealthy_days	4.3
+13275	Georgia	Thomas	mentally_unhealthy_days	3.4
+13277	Georgia	Tift	mentally_unhealthy_days	3.8
+13279	Georgia	Toombs	mentally_unhealthy_days	3.6
+13281	Georgia	Towns	mentally_unhealthy_days	1.6
+13283	Georgia	Treutlen	mentally_unhealthy_days	2.6
+13285	Georgia	Troup	mentally_unhealthy_days	3.6
+13287	Georgia	Turner	mentally_unhealthy_days	
+13289	Georgia	Twiggs	mentally_unhealthy_days	3.3
+13291	Georgia	Union	mentally_unhealthy_days	2.4
+13293	Georgia	Upson	mentally_unhealthy_days	4.3
+13295	Georgia	Walker	mentally_unhealthy_days	4.5
+13297	Georgia	Walton	mentally_unhealthy_days	2.8
+13299	Georgia	Ware	mentally_unhealthy_days	4
+13301	Georgia	Warren	mentally_unhealthy_days	1.9
+13303	Georgia	Washington	mentally_unhealthy_days	3.1
+13305	Georgia	Wayne	mentally_unhealthy_days	4.5
+13307	Georgia	Webster	mentally_unhealthy_days	
+13309	Georgia	Wheeler	mentally_unhealthy_days	2.6
+13311	Georgia	White	mentally_unhealthy_days	4.6
+13313	Georgia	Whitfield	mentally_unhealthy_days	3.6
+13315	Georgia	Wilcox	mentally_unhealthy_days	3
+13317	Georgia	Wilkes	mentally_unhealthy_days	2.7
+13319	Georgia	Wilkinson	mentally_unhealthy_days	
+13321	Georgia	Worth	mentally_unhealthy_days	2.9
+15001	Hawaii	Hawaii	mentally_unhealthy_days	3.1
+15003	Hawaii	Honolulu	mentally_unhealthy_days	2.7
+15005	Hawaii	Kalawao	mentally_unhealthy_days	
+15007	Hawaii	Kauai	mentally_unhealthy_days	2.9
+15009	Hawaii	Maui	mentally_unhealthy_days	2.9
+16001	Idaho	Ada	mentally_unhealthy_days	3.3
+16003	Idaho	Adams	mentally_unhealthy_days	3.5
+16005	Idaho	Bannock	mentally_unhealthy_days	3.5
+16007	Idaho	Bear Lake	mentally_unhealthy_days	4.9
+16009	Idaho	Benewah	mentally_unhealthy_days	3.4
+16011	Idaho	Bingham	mentally_unhealthy_days	2.9
+16013	Idaho	Blaine	mentally_unhealthy_days	2.7
+16015	Idaho	Boise	mentally_unhealthy_days	4.3
+16017	Idaho	Bonner	mentally_unhealthy_days	3.7
+16019	Idaho	Bonneville	mentally_unhealthy_days	3.4
+16021	Idaho	Boundary	mentally_unhealthy_days	3.3
+16023	Idaho	Butte	mentally_unhealthy_days	3.6
+16025	Idaho	Camas	mentally_unhealthy_days	
+16027	Idaho	Canyon	mentally_unhealthy_days	3.8
+16029	Idaho	Caribou	mentally_unhealthy_days	3.2
+16031	Idaho	Cassia	mentally_unhealthy_days	3.4
+16033	Idaho	Clark	mentally_unhealthy_days	
+16035	Idaho	Clearwater	mentally_unhealthy_days	3.3
+16037	Idaho	Custer	mentally_unhealthy_days	3
+16039	Idaho	Elmore	mentally_unhealthy_days	2.6
+16041	Idaho	Franklin	mentally_unhealthy_days	3.4
+16043	Idaho	Fremont	mentally_unhealthy_days	3
+16045	Idaho	Gem	mentally_unhealthy_days	4.4
+16047	Idaho	Gooding	mentally_unhealthy_days	3.1
+16049	Idaho	Idaho	mentally_unhealthy_days	2.8
+16051	Idaho	Jefferson	mentally_unhealthy_days	3.1
+16053	Idaho	Jerome	mentally_unhealthy_days	2.8
+16055	Idaho	Kootenai	mentally_unhealthy_days	3.1
+16057	Idaho	Latah	mentally_unhealthy_days	2.7
+16059	Idaho	Lemhi	mentally_unhealthy_days	3.2
+16061	Idaho	Lewis	mentally_unhealthy_days	2.7
+16063	Idaho	Lincoln	mentally_unhealthy_days	3.9
+16065	Idaho	Madison	mentally_unhealthy_days	2.5
+16067	Idaho	Minidoka	mentally_unhealthy_days	4.1
+16069	Idaho	Nez Perce	mentally_unhealthy_days	3.4
+16071	Idaho	Oneida	mentally_unhealthy_days	2.2
+16073	Idaho	Owyhee	mentally_unhealthy_days	3.4
+16075	Idaho	Payette	mentally_unhealthy_days	3.4
+16077	Idaho	Power	mentally_unhealthy_days	3.7
+16079	Idaho	Shoshone	mentally_unhealthy_days	3.8
+16081	Idaho	Teton	mentally_unhealthy_days	3
+16083	Idaho	Twin Falls	mentally_unhealthy_days	3.2
+16085	Idaho	Valley	mentally_unhealthy_days	2.6
+16087	Idaho	Washington	mentally_unhealthy_days	3.9
+17001	Illinois	Adams	mentally_unhealthy_days	3.2
+17003	Illinois	Alexander	mentally_unhealthy_days	
+17005	Illinois	Bond	mentally_unhealthy_days	3.6
+17007	Illinois	Boone	mentally_unhealthy_days	4.4
+17009	Illinois	Brown	mentally_unhealthy_days	
+17011	Illinois	Bureau	mentally_unhealthy_days	2.1
+17013	Illinois	Calhoun	mentally_unhealthy_days	
+17015	Illinois	Carroll	mentally_unhealthy_days	2.1
+17017	Illinois	Cass	mentally_unhealthy_days	4.5
+17019	Illinois	Champaign	mentally_unhealthy_days	2.9
+17021	Illinois	Christian	mentally_unhealthy_days	2.5
+17023	Illinois	Clark	mentally_unhealthy_days	3.6
+17025	Illinois	Clay	mentally_unhealthy_days	
+17027	Illinois	Clinton	mentally_unhealthy_days	2.7
+17029	Illinois	Coles	mentally_unhealthy_days	3.3
+17031	Illinois	Cook	mentally_unhealthy_days	3.5
+17033	Illinois	Crawford	mentally_unhealthy_days	3.5
+17035	Illinois	Cumberland	mentally_unhealthy_days	3
+17037	Illinois	DeKalb	mentally_unhealthy_days	3.7
+17039	Illinois	De Witt	mentally_unhealthy_days	3.4
+17041	Illinois	Douglas	mentally_unhealthy_days	2.1
+17043	Illinois	DuPage	mentally_unhealthy_days	3.1
+17045	Illinois	Edgar	mentally_unhealthy_days	4.9
+17047	Illinois	Edwards	mentally_unhealthy_days	
+17049	Illinois	Effingham	mentally_unhealthy_days	2.4
+17051	Illinois	Fayette	mentally_unhealthy_days	3.8
+17053	Illinois	Ford	mentally_unhealthy_days	1.6
+17055	Illinois	Franklin	mentally_unhealthy_days	2
+17057	Illinois	Fulton	mentally_unhealthy_days	3.2
+17059	Illinois	Gallatin	mentally_unhealthy_days	
+17061	Illinois	Greene	mentally_unhealthy_days	
+17063	Illinois	Grundy	mentally_unhealthy_days	4.2
+17065	Illinois	Hamilton	mentally_unhealthy_days	
+17067	Illinois	Hancock	mentally_unhealthy_days	3.2
+17069	Illinois	Hardin	mentally_unhealthy_days	
+17071	Illinois	Henderson	mentally_unhealthy_days	
+17073	Illinois	Henry	mentally_unhealthy_days	2.8
+17075	Illinois	Iroquois	mentally_unhealthy_days	2.9
+17077	Illinois	Jackson	mentally_unhealthy_days	3.2
+17079	Illinois	Jasper	mentally_unhealthy_days	
+17081	Illinois	Jefferson	mentally_unhealthy_days	3.1
+17083	Illinois	Jersey	mentally_unhealthy_days	3.2
+17085	Illinois	Jo Daviess	mentally_unhealthy_days	2.5
+17087	Illinois	Johnson	mentally_unhealthy_days	
+17089	Illinois	Kane	mentally_unhealthy_days	3
+17091	Illinois	Kankakee	mentally_unhealthy_days	3.4
+17093	Illinois	Kendall	mentally_unhealthy_days	2.8
+17095	Illinois	Knox	mentally_unhealthy_days	2.6
+17097	Illinois	Lake	mentally_unhealthy_days	3.1
+17099	Illinois	LaSalle	mentally_unhealthy_days	3.2
+17101	Illinois	Lawrence	mentally_unhealthy_days	2.3
+17103	Illinois	Lee	mentally_unhealthy_days	2.9
+17105	Illinois	Livingston	mentally_unhealthy_days	3.5
+17107	Illinois	Logan	mentally_unhealthy_days	3.6
+17109	Illinois	McDonough	mentally_unhealthy_days	1.8
+17111	Illinois	McHenry	mentally_unhealthy_days	3.2
+17113	Illinois	McLean	mentally_unhealthy_days	2.7
+17115	Illinois	Macon	mentally_unhealthy_days	3.1
+17117	Illinois	Macoupin	mentally_unhealthy_days	2.9
+17119	Illinois	Madison	mentally_unhealthy_days	4
+17121	Illinois	Marion	mentally_unhealthy_days	3.7
+17123	Illinois	Marshall	mentally_unhealthy_days	
+17125	Illinois	Mason	mentally_unhealthy_days	3.5
+17127	Illinois	Massac	mentally_unhealthy_days	4.3
+17129	Illinois	Menard	mentally_unhealthy_days	
+17131	Illinois	Mercer	mentally_unhealthy_days	1.2
+17133	Illinois	Monroe	mentally_unhealthy_days	3.9
+17135	Illinois	Montgomery	mentally_unhealthy_days	2.6
+17137	Illinois	Morgan	mentally_unhealthy_days	2.5
+17139	Illinois	Moultrie	mentally_unhealthy_days	3.1
+17141	Illinois	Ogle	mentally_unhealthy_days	2.5
+17143	Illinois	Peoria	mentally_unhealthy_days	2.8
+17145	Illinois	Perry	mentally_unhealthy_days	2.8
+17147	Illinois	Piatt	mentally_unhealthy_days	
+17149	Illinois	Pike	mentally_unhealthy_days	
+17151	Illinois	Pope	mentally_unhealthy_days	
+17153	Illinois	Pulaski	mentally_unhealthy_days	
+17155	Illinois	Putnam	mentally_unhealthy_days	
+17157	Illinois	Randolph	mentally_unhealthy_days	2.8
+17159	Illinois	Richland	mentally_unhealthy_days	
+17161	Illinois	Rock Island	mentally_unhealthy_days	3.4
+17163	Illinois	St. Clair	mentally_unhealthy_days	3.5
+17165	Illinois	Saline	mentally_unhealthy_days	
+17167	Illinois	Sangamon	mentally_unhealthy_days	3.7
+17169	Illinois	Schuyler	mentally_unhealthy_days	
+17171	Illinois	Scott	mentally_unhealthy_days	
+17173	Illinois	Shelby	mentally_unhealthy_days	2
+17175	Illinois	Stark	mentally_unhealthy_days	
+17177	Illinois	Stephenson	mentally_unhealthy_days	1.8
+17179	Illinois	Tazewell	mentally_unhealthy_days	2.8
+17181	Illinois	Union	mentally_unhealthy_days	
+17183	Illinois	Vermilion	mentally_unhealthy_days	3.7
+17185	Illinois	Wabash	mentally_unhealthy_days	
+17187	Illinois	Warren	mentally_unhealthy_days	3.7
+17189	Illinois	Washington	mentally_unhealthy_days	1.6
+17191	Illinois	Wayne	mentally_unhealthy_days	2.4
+17193	Illinois	White	mentally_unhealthy_days	2.8
+17195	Illinois	Whiteside	mentally_unhealthy_days	2.1
+17197	Illinois	Will	mentally_unhealthy_days	3.3
+17199	Illinois	Williamson	mentally_unhealthy_days	3.6
+17201	Illinois	Winnebago	mentally_unhealthy_days	3.6
+17203	Illinois	Woodford	mentally_unhealthy_days	2
+18001	Indiana	Adams	mentally_unhealthy_days	2.9
+18003	Indiana	Allen	mentally_unhealthy_days	3.3
+18005	Indiana	Bartholomew	mentally_unhealthy_days	3.2
+18007	Indiana	Benton	mentally_unhealthy_days	3.1
+18009	Indiana	Blackford	mentally_unhealthy_days	4.7
+18011	Indiana	Boone	mentally_unhealthy_days	2.6
+18013	Indiana	Brown	mentally_unhealthy_days	2.6
+18015	Indiana	Carroll	mentally_unhealthy_days	3.8
+18017	Indiana	Cass	mentally_unhealthy_days	3.6
+18019	Indiana	Clark	mentally_unhealthy_days	4.7
+18021	Indiana	Clay	mentally_unhealthy_days	2.6
+18023	Indiana	Clinton	mentally_unhealthy_days	4.1
+18025	Indiana	Crawford	mentally_unhealthy_days	3.8
+18027	Indiana	Daviess	mentally_unhealthy_days	3.7
+18029	Indiana	Dearborn	mentally_unhealthy_days	3.6
+18031	Indiana	Decatur	mentally_unhealthy_days	4.6
+18033	Indiana	DeKalb	mentally_unhealthy_days	3.4
+18035	Indiana	Delaware	mentally_unhealthy_days	4.8
+18037	Indiana	Dubois	mentally_unhealthy_days	1.5
+18039	Indiana	Elkhart	mentally_unhealthy_days	3.4
+18041	Indiana	Fayette	mentally_unhealthy_days	6.9
+18043	Indiana	Floyd	mentally_unhealthy_days	4
+18045	Indiana	Fountain	mentally_unhealthy_days	3
+18047	Indiana	Franklin	mentally_unhealthy_days	2.9
+18049	Indiana	Fulton	mentally_unhealthy_days	4.1
+18051	Indiana	Gibson	mentally_unhealthy_days	3.9
+18053	Indiana	Grant	mentally_unhealthy_days	3.9
+18055	Indiana	Greene	mentally_unhealthy_days	2.9
+18057	Indiana	Hamilton	mentally_unhealthy_days	2.4
+18059	Indiana	Hancock	mentally_unhealthy_days	2.9
+18061	Indiana	Harrison	mentally_unhealthy_days	2.9
+18063	Indiana	Hendricks	mentally_unhealthy_days	3.2
+18065	Indiana	Henry	mentally_unhealthy_days	3.6
+18067	Indiana	Howard	mentally_unhealthy_days	4.9
+18069	Indiana	Huntington	mentally_unhealthy_days	3
+18071	Indiana	Jackson	mentally_unhealthy_days	3.9
+18073	Indiana	Jasper	mentally_unhealthy_days	4.6
+18075	Indiana	Jay	mentally_unhealthy_days	3.9
+18077	Indiana	Jefferson	mentally_unhealthy_days	4.6
+18079	Indiana	Jennings	mentally_unhealthy_days	5
+18081	Indiana	Johnson	mentally_unhealthy_days	3.3
+18083	Indiana	Knox	mentally_unhealthy_days	4.9
+18085	Indiana	Kosciusko	mentally_unhealthy_days	3.4
+18087	Indiana	LaGrange	mentally_unhealthy_days	3.6
+18089	Indiana	Lake	mentally_unhealthy_days	3.5
+18091	Indiana	LaPorte	mentally_unhealthy_days	3.4
+18093	Indiana	Lawrence	mentally_unhealthy_days	4.2
+18095	Indiana	Madison	mentally_unhealthy_days	4.8
+18097	Indiana	Marion	mentally_unhealthy_days	3.8
+18099	Indiana	Marshall	mentally_unhealthy_days	3.4
+18101	Indiana	Martin	mentally_unhealthy_days	3.2
+18103	Indiana	Miami	mentally_unhealthy_days	4.1
+18105	Indiana	Monroe	mentally_unhealthy_days	3.9
+18107	Indiana	Montgomery	mentally_unhealthy_days	4
+18109	Indiana	Morgan	mentally_unhealthy_days	2.7
+18111	Indiana	Newton	mentally_unhealthy_days	4.3
+18113	Indiana	Noble	mentally_unhealthy_days	3.2
+18115	Indiana	Ohio	mentally_unhealthy_days	
+18117	Indiana	Orange	mentally_unhealthy_days	5.7
+18119	Indiana	Owen	mentally_unhealthy_days	3.7
+18121	Indiana	Parke	mentally_unhealthy_days	3
+18123	Indiana	Perry	mentally_unhealthy_days	4.3
+18125	Indiana	Pike	mentally_unhealthy_days	
+18127	Indiana	Porter	mentally_unhealthy_days	3.5
+18129	Indiana	Posey	mentally_unhealthy_days	2.6
+18131	Indiana	Pulaski	mentally_unhealthy_days	2.8
+18133	Indiana	Putnam	mentally_unhealthy_days	2.7
+18135	Indiana	Randolph	mentally_unhealthy_days	3.3
+18137	Indiana	Ripley	mentally_unhealthy_days	3.6
+18139	Indiana	Rush	mentally_unhealthy_days	3
+18141	Indiana	St. Joseph	mentally_unhealthy_days	3.3
+18143	Indiana	Scott	mentally_unhealthy_days	4.8
+18145	Indiana	Shelby	mentally_unhealthy_days	4.4
+18147	Indiana	Spencer	mentally_unhealthy_days	3
+18149	Indiana	Starke	mentally_unhealthy_days	4.9
+18151	Indiana	Steuben	mentally_unhealthy_days	4.7
+18153	Indiana	Sullivan	mentally_unhealthy_days	3.9
+18155	Indiana	Switzerland	mentally_unhealthy_days	4.2
+18157	Indiana	Tippecanoe	mentally_unhealthy_days	3.6
+18159	Indiana	Tipton	mentally_unhealthy_days	3.7
+18161	Indiana	Union	mentally_unhealthy_days	4.5
+18163	Indiana	Vanderburgh	mentally_unhealthy_days	4.3
+18165	Indiana	Vermillion	mentally_unhealthy_days	4.2
+18167	Indiana	Vigo	mentally_unhealthy_days	4.1
+18169	Indiana	Wabash	mentally_unhealthy_days	3.1
+18171	Indiana	Warren	mentally_unhealthy_days	3.5
+18173	Indiana	Warrick	mentally_unhealthy_days	4.3
+18175	Indiana	Washington	mentally_unhealthy_days	4.4
+18177	Indiana	Wayne	mentally_unhealthy_days	4.5
+18179	Indiana	Wells	mentally_unhealthy_days	3.4
+18181	Indiana	White	mentally_unhealthy_days	3.2
+18183	Indiana	Whitley	mentally_unhealthy_days	1.9
+19001	Iowa	Adair	mentally_unhealthy_days	1.7
+19003	Iowa	Adams	mentally_unhealthy_days	
+19005	Iowa	Allamakee	mentally_unhealthy_days	2.4
+19007	Iowa	Appanoose	mentally_unhealthy_days	3.9
+19009	Iowa	Audubon	mentally_unhealthy_days	2.2
+19011	Iowa	Benton	mentally_unhealthy_days	2.1
+19013	Iowa	Black Hawk	mentally_unhealthy_days	3.1
+19015	Iowa	Boone	mentally_unhealthy_days	3
+19017	Iowa	Bremer	mentally_unhealthy_days	2.7
+19019	Iowa	Buchanan	mentally_unhealthy_days	1.9
+19021	Iowa	Buena Vista	mentally_unhealthy_days	1.6
+19023	Iowa	Butler	mentally_unhealthy_days	2.5
+19025	Iowa	Calhoun	mentally_unhealthy_days	2.6
+19027	Iowa	Carroll	mentally_unhealthy_days	2.9
+19029	Iowa	Cass	mentally_unhealthy_days	3.1
+19031	Iowa	Cedar	mentally_unhealthy_days	2
+19033	Iowa	Cerro Gordo	mentally_unhealthy_days	3.2
+19035	Iowa	Cherokee	mentally_unhealthy_days	1.1
+19037	Iowa	Chickasaw	mentally_unhealthy_days	1.7
+19039	Iowa	Clarke	mentally_unhealthy_days	2.3
+19041	Iowa	Clay	mentally_unhealthy_days	1.7
+19043	Iowa	Clayton	mentally_unhealthy_days	2.8
+19045	Iowa	Clinton	mentally_unhealthy_days	3
+19047	Iowa	Crawford	mentally_unhealthy_days	2.6
+19049	Iowa	Dallas	mentally_unhealthy_days	2.8
+19051	Iowa	Davis	mentally_unhealthy_days	2.7
+19053	Iowa	Decatur	mentally_unhealthy_days	2.5
+19055	Iowa	Delaware	mentally_unhealthy_days	2.3
+19057	Iowa	Des Moines	mentally_unhealthy_days	2.8
+19059	Iowa	Dickinson	mentally_unhealthy_days	2.4
+19061	Iowa	Dubuque	mentally_unhealthy_days	1.9
+19063	Iowa	Emmet	mentally_unhealthy_days	2.1
+19065	Iowa	Fayette	mentally_unhealthy_days	3
+19067	Iowa	Floyd	mentally_unhealthy_days	2.4
+19069	Iowa	Franklin	mentally_unhealthy_days	3.4
+19071	Iowa	Fremont	mentally_unhealthy_days	3.3
+19073	Iowa	Greene	mentally_unhealthy_days	2.2
+19075	Iowa	Grundy	mentally_unhealthy_days	2
+19077	Iowa	Guthrie	mentally_unhealthy_days	1.3
+19079	Iowa	Hamilton	mentally_unhealthy_days	3
+19081	Iowa	Hancock	mentally_unhealthy_days	2.4
+19083	Iowa	Hardin	mentally_unhealthy_days	3.1
+19085	Iowa	Harrison	mentally_unhealthy_days	2.5
+19087	Iowa	Henry	mentally_unhealthy_days	2.5
+19089	Iowa	Howard	mentally_unhealthy_days	1.3
+19091	Iowa	Humboldt	mentally_unhealthy_days	0.9
+19093	Iowa	Ida	mentally_unhealthy_days	3.4
+19095	Iowa	Iowa	mentally_unhealthy_days	2.2
+19097	Iowa	Jackson	mentally_unhealthy_days	2.5
+19099	Iowa	Jasper	mentally_unhealthy_days	3.4
+19101	Iowa	Jefferson	mentally_unhealthy_days	2.4
+19103	Iowa	Johnson	mentally_unhealthy_days	2.3
+19105	Iowa	Jones	mentally_unhealthy_days	3.7
+19107	Iowa	Keokuk	mentally_unhealthy_days	2.1
+19109	Iowa	Kossuth	mentally_unhealthy_days	4.1
+19111	Iowa	Lee	mentally_unhealthy_days	2.6
+19113	Iowa	Linn	mentally_unhealthy_days	3.1
+19115	Iowa	Louisa	mentally_unhealthy_days	3.5
+19117	Iowa	Lucas	mentally_unhealthy_days	1.9
+19119	Iowa	Lyon	mentally_unhealthy_days	1.1
+19121	Iowa	Madison	mentally_unhealthy_days	3.6
+19123	Iowa	Mahaska	mentally_unhealthy_days	2.4
+19125	Iowa	Marion	mentally_unhealthy_days	2.1
+19127	Iowa	Marshall	mentally_unhealthy_days	2.9
+19129	Iowa	Mills	mentally_unhealthy_days	3.8
+19131	Iowa	Mitchell	mentally_unhealthy_days	2.2
+19133	Iowa	Monona	mentally_unhealthy_days	1.2
+19135	Iowa	Monroe	mentally_unhealthy_days	4.4
+19137	Iowa	Montgomery	mentally_unhealthy_days	4.2
+19139	Iowa	Muscatine	mentally_unhealthy_days	3.4
+19141	Iowa	O'Brien	mentally_unhealthy_days	1.9
+19143	Iowa	Osceola	mentally_unhealthy_days	2.7
+19145	Iowa	Page	mentally_unhealthy_days	3.1
+19147	Iowa	Palo Alto	mentally_unhealthy_days	
+19149	Iowa	Plymouth	mentally_unhealthy_days	1.9
+19151	Iowa	Pocahontas	mentally_unhealthy_days	1.5
+19153	Iowa	Polk	mentally_unhealthy_days	2.8
+19155	Iowa	Pottawattamie	mentally_unhealthy_days	3.4
+19157	Iowa	Poweshiek	mentally_unhealthy_days	2.6
+19159	Iowa	Ringgold	mentally_unhealthy_days	
+19161	Iowa	Sac	mentally_unhealthy_days	2.5
+19163	Iowa	Scott	mentally_unhealthy_days	2.9
+19165	Iowa	Shelby	mentally_unhealthy_days	2.2
+19167	Iowa	Sioux	mentally_unhealthy_days	1.6
+19169	Iowa	Story	mentally_unhealthy_days	2.1
+19171	Iowa	Tama	mentally_unhealthy_days	2.3
+19173	Iowa	Taylor	mentally_unhealthy_days	2.7
+19175	Iowa	Union	mentally_unhealthy_days	1.5
+19177	Iowa	Van Buren	mentally_unhealthy_days	2
+19179	Iowa	Wapello	mentally_unhealthy_days	2.6
+19181	Iowa	Warren	mentally_unhealthy_days	2.7
+19183	Iowa	Washington	mentally_unhealthy_days	3.5
+19185	Iowa	Wayne	mentally_unhealthy_days	3
+19187	Iowa	Webster	mentally_unhealthy_days	2.5
+19189	Iowa	Winnebago	mentally_unhealthy_days	2.2
+19191	Iowa	Winneshiek	mentally_unhealthy_days	1.7
+19193	Iowa	Woodbury	mentally_unhealthy_days	2.6
+19195	Iowa	Worth	mentally_unhealthy_days	2.3
+19197	Iowa	Wright	mentally_unhealthy_days	2.9
+20001	Kansas	Allen	mentally_unhealthy_days	2.8
+20003	Kansas	Anderson	mentally_unhealthy_days	3.4
+20005	Kansas	Atchison	mentally_unhealthy_days	3.1
+20007	Kansas	Barber	mentally_unhealthy_days	1.6
+20009	Kansas	Barton	mentally_unhealthy_days	3.1
+20011	Kansas	Bourbon	mentally_unhealthy_days	4.1
+20013	Kansas	Brown	mentally_unhealthy_days	1.9
+20015	Kansas	Butler	mentally_unhealthy_days	3.1
+20017	Kansas	Chase	mentally_unhealthy_days	1.2
+20019	Kansas	Chautauqua	mentally_unhealthy_days	3.3
+20021	Kansas	Cherokee	mentally_unhealthy_days	3.2
+20023	Kansas	Cheyenne	mentally_unhealthy_days	
+20025	Kansas	Clark	mentally_unhealthy_days	
+20027	Kansas	Clay	mentally_unhealthy_days	2.5
+20029	Kansas	Cloud	mentally_unhealthy_days	2.8
+20031	Kansas	Coffey	mentally_unhealthy_days	2.1
+20033	Kansas	Comanche	mentally_unhealthy_days	2
+20035	Kansas	Cowley	mentally_unhealthy_days	3.2
+20037	Kansas	Crawford	mentally_unhealthy_days	3.4
+20039	Kansas	Decatur	mentally_unhealthy_days	1.5
+20041	Kansas	Dickinson	mentally_unhealthy_days	2.9
+20043	Kansas	Doniphan	mentally_unhealthy_days	3.5
+20045	Kansas	Douglas	mentally_unhealthy_days	2.7
+20047	Kansas	Edwards	mentally_unhealthy_days	2
+20049	Kansas	Elk	mentally_unhealthy_days	
+20051	Kansas	Ellis	mentally_unhealthy_days	2
+20053	Kansas	Ellsworth	mentally_unhealthy_days	2.6
+20055	Kansas	Finney	mentally_unhealthy_days	2.5
+20057	Kansas	Ford	mentally_unhealthy_days	2
+20059	Kansas	Franklin	mentally_unhealthy_days	2.8
+20061	Kansas	Geary	mentally_unhealthy_days	2.8
+20063	Kansas	Gove	mentally_unhealthy_days	3.4
+20065	Kansas	Graham	mentally_unhealthy_days	2.7
+20067	Kansas	Grant	mentally_unhealthy_days	2.4
+20069	Kansas	Gray	mentally_unhealthy_days	2.5
+20071	Kansas	Greeley	mentally_unhealthy_days	1.3
+20073	Kansas	Greenwood	mentally_unhealthy_days	4
+20075	Kansas	Hamilton	mentally_unhealthy_days	3.2
+20077	Kansas	Harper	mentally_unhealthy_days	1.7
+20079	Kansas	Harvey	mentally_unhealthy_days	2.5
+20081	Kansas	Haskell	mentally_unhealthy_days	1.6
+20083	Kansas	Hodgeman	mentally_unhealthy_days	1.2
+20085	Kansas	Jackson	mentally_unhealthy_days	3
+20087	Kansas	Jefferson	mentally_unhealthy_days	3.1
+20089	Kansas	Jewell	mentally_unhealthy_days	2.2
+20091	Kansas	Johnson	mentally_unhealthy_days	2.4
+20093	Kansas	Kearny	mentally_unhealthy_days	2
+20095	Kansas	Kingman	mentally_unhealthy_days	1.9
+20097	Kansas	Kiowa	mentally_unhealthy_days	1.1
+20099	Kansas	Labette	mentally_unhealthy_days	3.7
+20101	Kansas	Lane	mentally_unhealthy_days	1.1
+20103	Kansas	Leavenworth	mentally_unhealthy_days	2.5
+20105	Kansas	Lincoln	mentally_unhealthy_days	2
+20107	Kansas	Linn	mentally_unhealthy_days	2.9
+20109	Kansas	Logan	mentally_unhealthy_days	3.5
+20111	Kansas	Lyon	mentally_unhealthy_days	3.1
+20113	Kansas	McPherson	mentally_unhealthy_days	2.4
+20115	Kansas	Marion	mentally_unhealthy_days	2.7
+20117	Kansas	Marshall	mentally_unhealthy_days	2.1
+20119	Kansas	Meade	mentally_unhealthy_days	3.3
+20121	Kansas	Miami	mentally_unhealthy_days	2.6
+20123	Kansas	Mitchell	mentally_unhealthy_days	1.2
+20125	Kansas	Montgomery	mentally_unhealthy_days	3.5
+20127	Kansas	Morris	mentally_unhealthy_days	3
+20129	Kansas	Morton	mentally_unhealthy_days	4.3
+20131	Kansas	Nemaha	mentally_unhealthy_days	1.9
+20133	Kansas	Neosho	mentally_unhealthy_days	3.6
+20135	Kansas	Ness	mentally_unhealthy_days	2.3
+20137	Kansas	Norton	mentally_unhealthy_days	2
+20139	Kansas	Osage	mentally_unhealthy_days	3
+20141	Kansas	Osborne	mentally_unhealthy_days	3.2
+20143	Kansas	Ottawa	mentally_unhealthy_days	1.7
+20145	Kansas	Pawnee	mentally_unhealthy_days	2.9
+20147	Kansas	Phillips	mentally_unhealthy_days	2.7
+20149	Kansas	Pottawatomie	mentally_unhealthy_days	2.7
+20151	Kansas	Pratt	mentally_unhealthy_days	1.8
+20153	Kansas	Rawlins	mentally_unhealthy_days	
+20155	Kansas	Reno	mentally_unhealthy_days	2.9
+20157	Kansas	Republic	mentally_unhealthy_days	2.4
+20159	Kansas	Rice	mentally_unhealthy_days	3.3
+20161	Kansas	Riley	mentally_unhealthy_days	2.9
+20163	Kansas	Rooks	mentally_unhealthy_days	2.9
+20165	Kansas	Rush	mentally_unhealthy_days	2.3
+20167	Kansas	Russell	mentally_unhealthy_days	3
+20169	Kansas	Saline	mentally_unhealthy_days	3.4
+20171	Kansas	Scott	mentally_unhealthy_days	2.2
+20173	Kansas	Sedgwick	mentally_unhealthy_days	3.2
+20175	Kansas	Seward	mentally_unhealthy_days	2.1
+20177	Kansas	Shawnee	mentally_unhealthy_days	3.1
+20179	Kansas	Sheridan	mentally_unhealthy_days	0.7
+20181	Kansas	Sherman	mentally_unhealthy_days	1.9
+20183	Kansas	Smith	mentally_unhealthy_days	1.3
+20185	Kansas	Stafford	mentally_unhealthy_days	4.4
+20187	Kansas	Stanton	mentally_unhealthy_days	3.9
+20189	Kansas	Stevens	mentally_unhealthy_days	1.2
+20191	Kansas	Sumner	mentally_unhealthy_days	3.3
+20193	Kansas	Thomas	mentally_unhealthy_days	2.6
+20195	Kansas	Trego	mentally_unhealthy_days	3.7
+20197	Kansas	Wabaunsee	mentally_unhealthy_days	2.9
+20199	Kansas	Wallace	mentally_unhealthy_days	2.7
+20201	Kansas	Washington	mentally_unhealthy_days	2.4
+20203	Kansas	Wichita	mentally_unhealthy_days	2.6
+20205	Kansas	Wilson	mentally_unhealthy_days	3.7
+20207	Kansas	Woodson	mentally_unhealthy_days	
+20209	Kansas	Wyandotte	mentally_unhealthy_days	3.9
+21001	Kentucky	Adair	mentally_unhealthy_days	5.2
+21003	Kentucky	Allen	mentally_unhealthy_days	5
+21005	Kentucky	Anderson	mentally_unhealthy_days	3.1
+21007	Kentucky	Ballard	mentally_unhealthy_days	6
+21009	Kentucky	Barren	mentally_unhealthy_days	4.2
+21011	Kentucky	Bath	mentally_unhealthy_days	5.3
+21013	Kentucky	Bell	mentally_unhealthy_days	6.2
+21015	Kentucky	Boone	mentally_unhealthy_days	3.3
+21017	Kentucky	Bourbon	mentally_unhealthy_days	
+21019	Kentucky	Boyd	mentally_unhealthy_days	5.4
+21021	Kentucky	Boyle	mentally_unhealthy_days	5.4
+21023	Kentucky	Bracken	mentally_unhealthy_days	3.7
+21025	Kentucky	Breathitt	mentally_unhealthy_days	4.9
+21027	Kentucky	Breckinridge	mentally_unhealthy_days	4.9
+21029	Kentucky	Bullitt	mentally_unhealthy_days	5.2
+21031	Kentucky	Butler	mentally_unhealthy_days	3.5
+21033	Kentucky	Caldwell	mentally_unhealthy_days	4.9
+21035	Kentucky	Calloway	mentally_unhealthy_days	3.3
+21037	Kentucky	Campbell	mentally_unhealthy_days	4.6
+21039	Kentucky	Carlisle	mentally_unhealthy_days	2.9
+21041	Kentucky	Carroll	mentally_unhealthy_days	
+21043	Kentucky	Carter	mentally_unhealthy_days	5.2
+21045	Kentucky	Casey	mentally_unhealthy_days	5.1
+21047	Kentucky	Christian	mentally_unhealthy_days	3.6
+21049	Kentucky	Clark	mentally_unhealthy_days	4.2
+21051	Kentucky	Clay	mentally_unhealthy_days	6.5
+21053	Kentucky	Clinton	mentally_unhealthy_days	4.5
+21055	Kentucky	Crittenden	mentally_unhealthy_days	4.4
+21057	Kentucky	Cumberland	mentally_unhealthy_days	4.1
+21059	Kentucky	Daviess	mentally_unhealthy_days	3.7
+21061	Kentucky	Edmonson	mentally_unhealthy_days	5.6
+21063	Kentucky	Elliott	mentally_unhealthy_days	5.4
+21065	Kentucky	Estill	mentally_unhealthy_days	6.1
+21067	Kentucky	Fayette	mentally_unhealthy_days	3.4
+21069	Kentucky	Fleming	mentally_unhealthy_days	4.7
+21071	Kentucky	Floyd	mentally_unhealthy_days	6.2
+21073	Kentucky	Franklin	mentally_unhealthy_days	4.3
+21075	Kentucky	Fulton	mentally_unhealthy_days	
+21077	Kentucky	Gallatin	mentally_unhealthy_days	5
+21079	Kentucky	Garrard	mentally_unhealthy_days	
+21081	Kentucky	Grant	mentally_unhealthy_days	5.3
+21083	Kentucky	Graves	mentally_unhealthy_days	3.5
+21085	Kentucky	Grayson	mentally_unhealthy_days	4.4
+21087	Kentucky	Green	mentally_unhealthy_days	5.9
+21089	Kentucky	Greenup	mentally_unhealthy_days	4.3
+21091	Kentucky	Hancock	mentally_unhealthy_days	3.5
+21093	Kentucky	Hardin	mentally_unhealthy_days	3.7
+21095	Kentucky	Harlan	mentally_unhealthy_days	5.3
+21097	Kentucky	Harrison	mentally_unhealthy_days	1.9
+21099	Kentucky	Hart	mentally_unhealthy_days	4.2
+21101	Kentucky	Henderson	mentally_unhealthy_days	4.9
+21103	Kentucky	Henry	mentally_unhealthy_days	3
+21105	Kentucky	Hickman	mentally_unhealthy_days	
+21107	Kentucky	Hopkins	mentally_unhealthy_days	4.4
+21109	Kentucky	Jackson	mentally_unhealthy_days	6.8
+21111	Kentucky	Jefferson	mentally_unhealthy_days	3.7
+21113	Kentucky	Jessamine	mentally_unhealthy_days	4.1
+21115	Kentucky	Johnson	mentally_unhealthy_days	6.1
+21117	Kentucky	Kenton	mentally_unhealthy_days	4
+21119	Kentucky	Knott	mentally_unhealthy_days	5.6
+21121	Kentucky	Knox	mentally_unhealthy_days	5.4
+21123	Kentucky	Larue	mentally_unhealthy_days	4.7
+21125	Kentucky	Laurel	mentally_unhealthy_days	4.7
+21127	Kentucky	Lawrence	mentally_unhealthy_days	4.8
+21129	Kentucky	Lee	mentally_unhealthy_days	6.9
+21131	Kentucky	Leslie	mentally_unhealthy_days	6.8
+21133	Kentucky	Letcher	mentally_unhealthy_days	5.7
+21135	Kentucky	Lewis	mentally_unhealthy_days	4.8
+21137	Kentucky	Lincoln	mentally_unhealthy_days	5.3
+21139	Kentucky	Livingston	mentally_unhealthy_days	5.8
+21141	Kentucky	Logan	mentally_unhealthy_days	4.7
+21143	Kentucky	Lyon	mentally_unhealthy_days	2.4
+21145	Kentucky	McCracken	mentally_unhealthy_days	3.7
+21147	Kentucky	McCreary	mentally_unhealthy_days	5.7
+21149	Kentucky	McLean	mentally_unhealthy_days	3.7
+21151	Kentucky	Madison	mentally_unhealthy_days	3.6
+21153	Kentucky	Magoffin	mentally_unhealthy_days	5.5
+21155	Kentucky	Marion	mentally_unhealthy_days	4.8
+21157	Kentucky	Marshall	mentally_unhealthy_days	4.5
+21159	Kentucky	Martin	mentally_unhealthy_days	5.8
+21161	Kentucky	Mason	mentally_unhealthy_days	4.1
+21163	Kentucky	Meade	mentally_unhealthy_days	3.9
+21165	Kentucky	Menifee	mentally_unhealthy_days	4.9
+21167	Kentucky	Mercer	mentally_unhealthy_days	5.2
+21169	Kentucky	Metcalfe	mentally_unhealthy_days	3.3
+21171	Kentucky	Monroe	mentally_unhealthy_days	3.8
+21173	Kentucky	Montgomery	mentally_unhealthy_days	4.8
+21175	Kentucky	Morgan	mentally_unhealthy_days	5.2
+21177	Kentucky	Muhlenberg	mentally_unhealthy_days	4
+21179	Kentucky	Nelson	mentally_unhealthy_days	3.9
+21181	Kentucky	Nicholas	mentally_unhealthy_days	
+21183	Kentucky	Ohio	mentally_unhealthy_days	5.2
+21185	Kentucky	Oldham	mentally_unhealthy_days	3.7
+21187	Kentucky	Owen	mentally_unhealthy_days	4.3
+21189	Kentucky	Owsley	mentally_unhealthy_days	5.6
+21191	Kentucky	Pendleton	mentally_unhealthy_days	5.7
+21193	Kentucky	Perry	mentally_unhealthy_days	6.3
+21195	Kentucky	Pike	mentally_unhealthy_days	7
+21197	Kentucky	Powell	mentally_unhealthy_days	3.5
+21199	Kentucky	Pulaski	mentally_unhealthy_days	3.8
+21201	Kentucky	Robertson	mentally_unhealthy_days	4.7
+21203	Kentucky	Rockcastle	mentally_unhealthy_days	5
+21205	Kentucky	Rowan	mentally_unhealthy_days	5
+21207	Kentucky	Russell	mentally_unhealthy_days	5.1
+21209	Kentucky	Scott	mentally_unhealthy_days	3.7
+21211	Kentucky	Shelby	mentally_unhealthy_days	3.2
+21213	Kentucky	Simpson	mentally_unhealthy_days	4.8
+21215	Kentucky	Spencer	mentally_unhealthy_days	3.5
+21217	Kentucky	Taylor	mentally_unhealthy_days	3.9
+21219	Kentucky	Todd	mentally_unhealthy_days	4.2
+21221	Kentucky	Trigg	mentally_unhealthy_days	5
+21223	Kentucky	Trimble	mentally_unhealthy_days	3.4
+21225	Kentucky	Union	mentally_unhealthy_days	3.6
+21227	Kentucky	Warren	mentally_unhealthy_days	4
+21229	Kentucky	Washington	mentally_unhealthy_days	3.5
+21231	Kentucky	Wayne	mentally_unhealthy_days	5.6
+21233	Kentucky	Webster	mentally_unhealthy_days	3.8
+21235	Kentucky	Whitley	mentally_unhealthy_days	5.7
+21237	Kentucky	Wolfe	mentally_unhealthy_days	5.8
+21239	Kentucky	Woodford	mentally_unhealthy_days	3.4
+22001	Louisiana	Acadia	mentally_unhealthy_days	3.3
+22003	Louisiana	Allen	mentally_unhealthy_days	3.8
+22005	Louisiana	Ascension	mentally_unhealthy_days	3.1
+22007	Louisiana	Assumption	mentally_unhealthy_days	3.4
+22009	Louisiana	Avoyelles	mentally_unhealthy_days	3.5
+22011	Louisiana	Beauregard	mentally_unhealthy_days	3.6
+22013	Louisiana	Bienville	mentally_unhealthy_days	3.5
+22015	Louisiana	Bossier	mentally_unhealthy_days	3.5
+22017	Louisiana	Caddo	mentally_unhealthy_days	2.8
+22019	Louisiana	Calcasieu	mentally_unhealthy_days	3.2
+22021	Louisiana	Caldwell	mentally_unhealthy_days	1.4
+22023	Louisiana	Cameron	mentally_unhealthy_days	
+22025	Louisiana	Catahoula	mentally_unhealthy_days	3.6
+22027	Louisiana	Claiborne	mentally_unhealthy_days	2.4
+22029	Louisiana	Concordia	mentally_unhealthy_days	2.8
+22031	Louisiana	De Soto	mentally_unhealthy_days	3.8
+22033	Louisiana	East Baton Rouge	mentally_unhealthy_days	2.7
+22035	Louisiana	East Carroll	mentally_unhealthy_days	2.9
+22037	Louisiana	East Feliciana	mentally_unhealthy_days	2.9
+22039	Louisiana	Evangeline	mentally_unhealthy_days	2.5
+22041	Louisiana	Franklin	mentally_unhealthy_days	1.7
+22043	Louisiana	Grant	mentally_unhealthy_days	4.4
+22045	Louisiana	Iberia	mentally_unhealthy_days	2.9
+22047	Louisiana	Iberville	mentally_unhealthy_days	3.6
+22049	Louisiana	Jackson	mentally_unhealthy_days	2.5
+22051	Louisiana	Jefferson	mentally_unhealthy_days	3.6
+22053	Louisiana	Jefferson Davis	mentally_unhealthy_days	4.1
+22055	Louisiana	Lafayette	mentally_unhealthy_days	2.9
+22057	Louisiana	Lafourche	mentally_unhealthy_days	3.4
+22059	Louisiana	La Salle	mentally_unhealthy_days	3.1
+22061	Louisiana	Lincoln	mentally_unhealthy_days	2.8
+22063	Louisiana	Livingston	mentally_unhealthy_days	3.8
+22065	Louisiana	Madison	mentally_unhealthy_days	2.9
+22067	Louisiana	Morehouse	mentally_unhealthy_days	4
+22069	Louisiana	Natchitoches	mentally_unhealthy_days	3.8
+22071	Louisiana	Orleans	mentally_unhealthy_days	4
+22073	Louisiana	Ouachita	mentally_unhealthy_days	3.3
+22075	Louisiana	Plaquemines	mentally_unhealthy_days	3
+22077	Louisiana	Pointe Coupee	mentally_unhealthy_days	4
+22079	Louisiana	Rapides	mentally_unhealthy_days	3.5
+22081	Louisiana	Red River	mentally_unhealthy_days	2.4
+22083	Louisiana	Richland	mentally_unhealthy_days	3.2
+22085	Louisiana	Sabine	mentally_unhealthy_days	5.1
+22087	Louisiana	St. Bernard	mentally_unhealthy_days	6.2
+22089	Louisiana	St. Charles	mentally_unhealthy_days	3.1
+22091	Louisiana	St. Helena	mentally_unhealthy_days	2.7
+22093	Louisiana	St. James	mentally_unhealthy_days	2.5
+22095	Louisiana	St. John the Baptist	mentally_unhealthy_days	4.3
+22097	Louisiana	St. Landry	mentally_unhealthy_days	4
+22099	Louisiana	St. Martin	mentally_unhealthy_days	3.5
+22101	Louisiana	St. Mary	mentally_unhealthy_days	3.1
+22103	Louisiana	St. Tammany	mentally_unhealthy_days	3.5
+22105	Louisiana	Tangipahoa	mentally_unhealthy_days	3.7
+22107	Louisiana	Tensas	mentally_unhealthy_days	1.3
+22109	Louisiana	Terrebonne	mentally_unhealthy_days	3.8
+22111	Louisiana	Union	mentally_unhealthy_days	3.2
+22113	Louisiana	Vermilion	mentally_unhealthy_days	3.2
+22115	Louisiana	Vernon	mentally_unhealthy_days	3.3
+22117	Louisiana	Washington	mentally_unhealthy_days	3
+22119	Louisiana	Webster	mentally_unhealthy_days	2.8
+22121	Louisiana	West Baton Rouge	mentally_unhealthy_days	4
+22123	Louisiana	West Carroll	mentally_unhealthy_days	3.2
+22125	Louisiana	West Feliciana	mentally_unhealthy_days	1
+22127	Louisiana	Winn	mentally_unhealthy_days	3.2
+23001	Maine	Androscoggin	mentally_unhealthy_days	3.6
+23003	Maine	Aroostook	mentally_unhealthy_days	3.5
+23005	Maine	Cumberland	mentally_unhealthy_days	3.3
+23007	Maine	Franklin	mentally_unhealthy_days	3.6
+23009	Maine	Hancock	mentally_unhealthy_days	3.4
+23011	Maine	Kennebec	mentally_unhealthy_days	3.7
+23013	Maine	Knox	mentally_unhealthy_days	3.5
+23015	Maine	Lincoln	mentally_unhealthy_days	3.9
+23017	Maine	Oxford	mentally_unhealthy_days	4.1
+23019	Maine	Penobscot	mentally_unhealthy_days	3.6
+23021	Maine	Piscataquis	mentally_unhealthy_days	4.1
+23023	Maine	Sagadahoc	mentally_unhealthy_days	3.7
+23025	Maine	Somerset	mentally_unhealthy_days	4.3
+23027	Maine	Waldo	mentally_unhealthy_days	3.8
+23029	Maine	Washington	mentally_unhealthy_days	3.8
+23031	Maine	York	mentally_unhealthy_days	3.3
+24001	Maryland	Allegany	mentally_unhealthy_days	3.9
+24003	Maryland	Anne Arundel	mentally_unhealthy_days	3.3
+24005	Maryland	Baltimore	mentally_unhealthy_days	3.5
+24009	Maryland	Calvert	mentally_unhealthy_days	3.5
+24011	Maryland	Caroline	mentally_unhealthy_days	3.6
+24013	Maryland	Carroll	mentally_unhealthy_days	3.2
+24015	Maryland	Cecil	mentally_unhealthy_days	3.8
+24017	Maryland	Charles	mentally_unhealthy_days	2.8
+24019	Maryland	Dorchester	mentally_unhealthy_days	2.9
+24021	Maryland	Frederick	mentally_unhealthy_days	3.1
+24023	Maryland	Garrett	mentally_unhealthy_days	3.5
+24025	Maryland	Harford	mentally_unhealthy_days	3.9
+24027	Maryland	Howard	mentally_unhealthy_days	2.5
+24029	Maryland	Kent	mentally_unhealthy_days	3.5
+24031	Maryland	Montgomery	mentally_unhealthy_days	2.6
+24033	Maryland	Prince George's	mentally_unhealthy_days	2.9
+24035	Maryland	Queen Anne's	mentally_unhealthy_days	2.8
+24037	Maryland	St. Mary's	mentally_unhealthy_days	2.8
+24039	Maryland	Somerset	mentally_unhealthy_days	4.3
+24041	Maryland	Talbot	mentally_unhealthy_days	3.2
+24043	Maryland	Washington	mentally_unhealthy_days	3.7
+24045	Maryland	Wicomico	mentally_unhealthy_days	3.3
+24047	Maryland	Worcester	mentally_unhealthy_days	3.5
+24510	Maryland	Baltimore City	mentally_unhealthy_days	4
+25001	Massachusetts	Barnstable	mentally_unhealthy_days	3.3
+25003	Massachusetts	Berkshire	mentally_unhealthy_days	3.4
+25005	Massachusetts	Bristol	mentally_unhealthy_days	3.8
+25007	Massachusetts	Dukes	mentally_unhealthy_days	3.4
+25009	Massachusetts	Essex	mentally_unhealthy_days	3.1
+25011	Massachusetts	Franklin	mentally_unhealthy_days	3.3
+25013	Massachusetts	Hampden	mentally_unhealthy_days	3.8
+25015	Massachusetts	Hampshire	mentally_unhealthy_days	2.7
+25017	Massachusetts	Middlesex	mentally_unhealthy_days	2.6
+25019	Massachusetts	Nantucket	mentally_unhealthy_days	2.2
+25021	Massachusetts	Norfolk	mentally_unhealthy_days	2.8
+25023	Massachusetts	Plymouth	mentally_unhealthy_days	3.8
+25025	Massachusetts	Suffolk	mentally_unhealthy_days	3.5
+25027	Massachusetts	Worcester	mentally_unhealthy_days	3.5
+26001	Michigan	Alcona	mentally_unhealthy_days	
+26003	Michigan	Alger	mentally_unhealthy_days	3.2
+26005	Michigan	Allegan	mentally_unhealthy_days	3.5
+26007	Michigan	Alpena	mentally_unhealthy_days	3.3
+26009	Michigan	Antrim	mentally_unhealthy_days	4.3
+26011	Michigan	Arenac	mentally_unhealthy_days	7.3
+26013	Michigan	Baraga	mentally_unhealthy_days	2.1
+26015	Michigan	Barry	mentally_unhealthy_days	3.4
+26017	Michigan	Bay	mentally_unhealthy_days	4.5
+26019	Michigan	Benzie	mentally_unhealthy_days	2.9
+26021	Michigan	Berrien	mentally_unhealthy_days	3.3
+26023	Michigan	Branch	mentally_unhealthy_days	4.5
+26025	Michigan	Calhoun	mentally_unhealthy_days	4.8
+26027	Michigan	Cass	mentally_unhealthy_days	3.2
+26029	Michigan	Charlevoix	mentally_unhealthy_days	2.6
+26031	Michigan	Cheboygan	mentally_unhealthy_days	3.6
+26033	Michigan	Chippewa	mentally_unhealthy_days	3.5
+26035	Michigan	Clare	mentally_unhealthy_days	5
+26037	Michigan	Clinton	mentally_unhealthy_days	3.3
+26039	Michigan	Crawford	mentally_unhealthy_days	
+26041	Michigan	Delta	mentally_unhealthy_days	3.6
+26043	Michigan	Dickinson	mentally_unhealthy_days	2.7
+26045	Michigan	Eaton	mentally_unhealthy_days	3.8
+26047	Michigan	Emmet	mentally_unhealthy_days	4.3
+26049	Michigan	Genesee	mentally_unhealthy_days	4.1
+26051	Michigan	Gladwin	mentally_unhealthy_days	3.6
+26053	Michigan	Gogebic	mentally_unhealthy_days	2.2
+26055	Michigan	Grand Traverse	mentally_unhealthy_days	3
+26057	Michigan	Gratiot	mentally_unhealthy_days	5.1
+26059	Michigan	Hillsdale	mentally_unhealthy_days	3.9
+26061	Michigan	Houghton	mentally_unhealthy_days	1.6
+26063	Michigan	Huron	mentally_unhealthy_days	3.7
+26065	Michigan	Ingham	mentally_unhealthy_days	3.6
+26067	Michigan	Ionia	mentally_unhealthy_days	4.2
+26069	Michigan	Iosco	mentally_unhealthy_days	4.3
+26071	Michigan	Iron	mentally_unhealthy_days	3.5
+26073	Michigan	Isabella	mentally_unhealthy_days	3.2
+26075	Michigan	Jackson	mentally_unhealthy_days	3.8
+26077	Michigan	Kalamazoo	mentally_unhealthy_days	3.6
+26079	Michigan	Kalkaska	mentally_unhealthy_days	5.4
+26081	Michigan	Kent	mentally_unhealthy_days	3.3
+26083	Michigan	Keweenaw	mentally_unhealthy_days	
+26085	Michigan	Lake	mentally_unhealthy_days	
+26087	Michigan	Lapeer	mentally_unhealthy_days	3.1
+26089	Michigan	Leelanau	mentally_unhealthy_days	4.4
+26091	Michigan	Lenawee	mentally_unhealthy_days	2.6
+26093	Michigan	Livingston	mentally_unhealthy_days	3.6
+26095	Michigan	Luce	mentally_unhealthy_days	2.9
+26097	Michigan	Mackinac	mentally_unhealthy_days	2.9
+26099	Michigan	Macomb	mentally_unhealthy_days	3.8
+26101	Michigan	Manistee	mentally_unhealthy_days	4.5
+26103	Michigan	Marquette	mentally_unhealthy_days	2.7
+26105	Michigan	Mason	mentally_unhealthy_days	3.9
+26107	Michigan	Mecosta	mentally_unhealthy_days	3.7
+26109	Michigan	Menominee	mentally_unhealthy_days	4
+26111	Michigan	Midland	mentally_unhealthy_days	3.4
+26113	Michigan	Missaukee	mentally_unhealthy_days	3.7
+26115	Michigan	Monroe	mentally_unhealthy_days	3.8
+26117	Michigan	Montcalm	mentally_unhealthy_days	3
+26119	Michigan	Montmorency	mentally_unhealthy_days	4.6
+26121	Michigan	Muskegon	mentally_unhealthy_days	4.8
+26123	Michigan	Newaygo	mentally_unhealthy_days	4.3
+26125	Michigan	Oakland	mentally_unhealthy_days	3.5
+26127	Michigan	Oceana	mentally_unhealthy_days	3.9
+26129	Michigan	Ogemaw	mentally_unhealthy_days	4.4
+26131	Michigan	Ontonagon	mentally_unhealthy_days	
+26133	Michigan	Osceola	mentally_unhealthy_days	3.5
+26135	Michigan	Oscoda	mentally_unhealthy_days	
+26137	Michigan	Otsego	mentally_unhealthy_days	3.7
+26139	Michigan	Ottawa	mentally_unhealthy_days	2.8
+26141	Michigan	Presque Isle	mentally_unhealthy_days	2.9
+26143	Michigan	Roscommon	mentally_unhealthy_days	3.7
+26145	Michigan	Saginaw	mentally_unhealthy_days	3.8
+26147	Michigan	St. Clair	mentally_unhealthy_days	4.3
+26149	Michigan	St. Joseph	mentally_unhealthy_days	3.4
+26151	Michigan	Sanilac	mentally_unhealthy_days	3.5
+26153	Michigan	Schoolcraft	mentally_unhealthy_days	3.3
+26155	Michigan	Shiawassee	mentally_unhealthy_days	4.1
+26157	Michigan	Tuscola	mentally_unhealthy_days	3.3
+26159	Michigan	Van Buren	mentally_unhealthy_days	3.1
+26161	Michigan	Washtenaw	mentally_unhealthy_days	3.3
+26163	Michigan	Wayne	mentally_unhealthy_days	4
+26165	Michigan	Wexford	mentally_unhealthy_days	4.6
+27001	Minnesota	Aitkin	mentally_unhealthy_days	3.4
+27003	Minnesota	Anoka	mentally_unhealthy_days	3.2
+27005	Minnesota	Becker	mentally_unhealthy_days	2.1
+27007	Minnesota	Beltrami	mentally_unhealthy_days	3.3
+27009	Minnesota	Benton	mentally_unhealthy_days	2.8
+27011	Minnesota	Big Stone	mentally_unhealthy_days	3
+27013	Minnesota	Blue Earth	mentally_unhealthy_days	2.7
+27015	Minnesota	Brown	mentally_unhealthy_days	2
+27017	Minnesota	Carlton	mentally_unhealthy_days	4
+27019	Minnesota	Carver	mentally_unhealthy_days	3
+27021	Minnesota	Cass	mentally_unhealthy_days	3.5
+27023	Minnesota	Chippewa	mentally_unhealthy_days	2.3
+27025	Minnesota	Chisago	mentally_unhealthy_days	3
+27027	Minnesota	Clay	mentally_unhealthy_days	2.7
+27029	Minnesota	Clearwater	mentally_unhealthy_days	2.6
+27031	Minnesota	Cook	mentally_unhealthy_days	1.9
+27033	Minnesota	Cottonwood	mentally_unhealthy_days	1.9
+27035	Minnesota	Crow Wing	mentally_unhealthy_days	3.6
+27037	Minnesota	Dakota	mentally_unhealthy_days	2.5
+27039	Minnesota	Dodge	mentally_unhealthy_days	2.2
+27041	Minnesota	Douglas	mentally_unhealthy_days	2
+27043	Minnesota	Faribault	mentally_unhealthy_days	2.3
+27045	Minnesota	Fillmore	mentally_unhealthy_days	1.3
+27047	Minnesota	Freeborn	mentally_unhealthy_days	4.4
+27049	Minnesota	Goodhue	mentally_unhealthy_days	2.8
+27051	Minnesota	Grant	mentally_unhealthy_days	2
+27053	Minnesota	Hennepin	mentally_unhealthy_days	2.6
+27055	Minnesota	Houston	mentally_unhealthy_days	2.5
+27057	Minnesota	Hubbard	mentally_unhealthy_days	2.9
+27059	Minnesota	Isanti	mentally_unhealthy_days	3
+27061	Minnesota	Itasca	mentally_unhealthy_days	2.4
+27063	Minnesota	Jackson	mentally_unhealthy_days	2.2
+27065	Minnesota	Kanabec	mentally_unhealthy_days	3.6
+27067	Minnesota	Kandiyohi	mentally_unhealthy_days	2.6
+27069	Minnesota	Kittson	mentally_unhealthy_days	
+27071	Minnesota	Koochiching	mentally_unhealthy_days	3.2
+27073	Minnesota	Lac qui Parle	mentally_unhealthy_days	
+27075	Minnesota	Lake	mentally_unhealthy_days	2.3
+27077	Minnesota	Lake of the Woods	mentally_unhealthy_days	
+27079	Minnesota	Le Sueur	mentally_unhealthy_days	1.8
+27081	Minnesota	Lincoln	mentally_unhealthy_days	1.9
+27083	Minnesota	Lyon	mentally_unhealthy_days	2.7
+27085	Minnesota	McLeod	mentally_unhealthy_days	2.4
+27087	Minnesota	Mahnomen	mentally_unhealthy_days	
+27089	Minnesota	Marshall	mentally_unhealthy_days	1.2
+27091	Minnesota	Martin	mentally_unhealthy_days	2.1
+27093	Minnesota	Meeker	mentally_unhealthy_days	1.4
+27095	Minnesota	Mille Lacs	mentally_unhealthy_days	2.4
+27097	Minnesota	Morrison	mentally_unhealthy_days	3.8
+27099	Minnesota	Mower	mentally_unhealthy_days	4.7
+27101	Minnesota	Murray	mentally_unhealthy_days	
+27103	Minnesota	Nicollet	mentally_unhealthy_days	2
+27105	Minnesota	Nobles	mentally_unhealthy_days	1.4
+27107	Minnesota	Norman	mentally_unhealthy_days	
+27109	Minnesota	Olmsted	mentally_unhealthy_days	2.2
+27111	Minnesota	Otter Tail	mentally_unhealthy_days	3.2
+27113	Minnesota	Pennington	mentally_unhealthy_days	3.4
+27115	Minnesota	Pine	mentally_unhealthy_days	2.9
+27117	Minnesota	Pipestone	mentally_unhealthy_days	
+27119	Minnesota	Polk	mentally_unhealthy_days	2.3
+27121	Minnesota	Pope	mentally_unhealthy_days	2.5
+27123	Minnesota	Ramsey	mentally_unhealthy_days	2.5
+27125	Minnesota	Red Lake	mentally_unhealthy_days	0.8
+27127	Minnesota	Redwood	mentally_unhealthy_days	2
+27129	Minnesota	Renville	mentally_unhealthy_days	2.2
+27131	Minnesota	Rice	mentally_unhealthy_days	3
+27133	Minnesota	Rock	mentally_unhealthy_days	2.8
+27135	Minnesota	Roseau	mentally_unhealthy_days	3.1
+27137	Minnesota	St. Louis	mentally_unhealthy_days	3.1
+27139	Minnesota	Scott	mentally_unhealthy_days	2.3
+27141	Minnesota	Sherburne	mentally_unhealthy_days	3
+27143	Minnesota	Sibley	mentally_unhealthy_days	0.8
+27145	Minnesota	Stearns	mentally_unhealthy_days	2.5
+27147	Minnesota	Steele	mentally_unhealthy_days	2.2
+27149	Minnesota	Stevens	mentally_unhealthy_days	2.9
+27151	Minnesota	Swift	mentally_unhealthy_days	1.9
+27153	Minnesota	Todd	mentally_unhealthy_days	2.2
+27155	Minnesota	Traverse	mentally_unhealthy_days	
+27157	Minnesota	Wabasha	mentally_unhealthy_days	4.1
+27159	Minnesota	Wadena	mentally_unhealthy_days	
+27161	Minnesota	Waseca	mentally_unhealthy_days	2.3
+27163	Minnesota	Washington	mentally_unhealthy_days	2.3
+27165	Minnesota	Watonwan	mentally_unhealthy_days	2
+27167	Minnesota	Wilkin	mentally_unhealthy_days	
+27169	Minnesota	Winona	mentally_unhealthy_days	2.4
+27171	Minnesota	Wright	mentally_unhealthy_days	2.4
+27173	Minnesota	Yellow Medicine	mentally_unhealthy_days	4.8
+28001	Mississippi	Adams	mentally_unhealthy_days	5
+28003	Mississippi	Alcorn	mentally_unhealthy_days	3.6
+28005	Mississippi	Amite	mentally_unhealthy_days	4.3
+28007	Mississippi	Attala	mentally_unhealthy_days	4.2
+28009	Mississippi	Benton	mentally_unhealthy_days	3.6
+28011	Mississippi	Bolivar	mentally_unhealthy_days	3.4
+28013	Mississippi	Calhoun	mentally_unhealthy_days	5.5
+28015	Mississippi	Carroll	mentally_unhealthy_days	4.4
+28017	Mississippi	Chickasaw	mentally_unhealthy_days	3.6
+28019	Mississippi	Choctaw	mentally_unhealthy_days	3.3
+28021	Mississippi	Claiborne	mentally_unhealthy_days	5.9
+28023	Mississippi	Clarke	mentally_unhealthy_days	4
+28025	Mississippi	Clay	mentally_unhealthy_days	4.2
+28027	Mississippi	Coahoma	mentally_unhealthy_days	4.2
+28029	Mississippi	Copiah	mentally_unhealthy_days	3.4
+28031	Mississippi	Covington	mentally_unhealthy_days	3.5
+28033	Mississippi	DeSoto	mentally_unhealthy_days	3.5
+28035	Mississippi	Forrest	mentally_unhealthy_days	4.5
+28037	Mississippi	Franklin	mentally_unhealthy_days	4.1
+28039	Mississippi	George	mentally_unhealthy_days	4.5
+28041	Mississippi	Greene	mentally_unhealthy_days	3.1
+28043	Mississippi	Grenada	mentally_unhealthy_days	4.6
+28045	Mississippi	Hancock	mentally_unhealthy_days	5
+28047	Mississippi	Harrison	mentally_unhealthy_days	4.9
+28049	Mississippi	Hinds	mentally_unhealthy_days	4.1
+28051	Mississippi	Holmes	mentally_unhealthy_days	4.3
+28053	Mississippi	Humphreys	mentally_unhealthy_days	3.1
+28055	Mississippi	Issaquena	mentally_unhealthy_days	
+28057	Mississippi	Itawamba	mentally_unhealthy_days	4.9
+28059	Mississippi	Jackson	mentally_unhealthy_days	4.6
+28061	Mississippi	Jasper	mentally_unhealthy_days	2.7
+28063	Mississippi	Jefferson	mentally_unhealthy_days	3.2
+28065	Mississippi	Jefferson Davis	mentally_unhealthy_days	5.7
+28067	Mississippi	Jones	mentally_unhealthy_days	3.9
+28069	Mississippi	Kemper	mentally_unhealthy_days	3.7
+28071	Mississippi	Lafayette	mentally_unhealthy_days	3.6
+28073	Mississippi	Lamar	mentally_unhealthy_days	3.9
+28075	Mississippi	Lauderdale	mentally_unhealthy_days	3.8
+28077	Mississippi	Lawrence	mentally_unhealthy_days	4.2
+28079	Mississippi	Leake	mentally_unhealthy_days	3.8
+28081	Mississippi	Lee	mentally_unhealthy_days	3.5
+28083	Mississippi	Leflore	mentally_unhealthy_days	3.6
+28085	Mississippi	Lincoln	mentally_unhealthy_days	3.7
+28087	Mississippi	Lowndes	mentally_unhealthy_days	4
+28089	Mississippi	Madison	mentally_unhealthy_days	2.6
+28091	Mississippi	Marion	mentally_unhealthy_days	5
+28093	Mississippi	Marshall	mentally_unhealthy_days	3.7
+28095	Mississippi	Monroe	mentally_unhealthy_days	5.5
+28097	Mississippi	Montgomery	mentally_unhealthy_days	3.3
+28099	Mississippi	Neshoba	mentally_unhealthy_days	3.9
+28101	Mississippi	Newton	mentally_unhealthy_days	4.9
+28103	Mississippi	Noxubee	mentally_unhealthy_days	3.6
+28105	Mississippi	Oktibbeha	mentally_unhealthy_days	3.2
+28107	Mississippi	Panola	mentally_unhealthy_days	4.8
+28109	Mississippi	Pearl River	mentally_unhealthy_days	5.2
+28111	Mississippi	Perry	mentally_unhealthy_days	4.3
+28113	Mississippi	Pike	mentally_unhealthy_days	4.7
+28115	Mississippi	Pontotoc	mentally_unhealthy_days	5
+28117	Mississippi	Prentiss	mentally_unhealthy_days	4.7
+28119	Mississippi	Quitman	mentally_unhealthy_days	3.7
+28121	Mississippi	Rankin	mentally_unhealthy_days	3.6
+28123	Mississippi	Scott	mentally_unhealthy_days	4.5
+28125	Mississippi	Sharkey	mentally_unhealthy_days	1.7
+28127	Mississippi	Simpson	mentally_unhealthy_days	4
+28129	Mississippi	Smith	mentally_unhealthy_days	3.9
+28131	Mississippi	Stone	mentally_unhealthy_days	4.7
+28133	Mississippi	Sunflower	mentally_unhealthy_days	3.6
+28135	Mississippi	Tallahatchie	mentally_unhealthy_days	6
+28137	Mississippi	Tate	mentally_unhealthy_days	5.1
+28139	Mississippi	Tippah	mentally_unhealthy_days	6.1
+28141	Mississippi	Tishomingo	mentally_unhealthy_days	5.4
+28143	Mississippi	Tunica	mentally_unhealthy_days	3
+28145	Mississippi	Union	mentally_unhealthy_days	3.9
+28147	Mississippi	Walthall	mentally_unhealthy_days	3.5
+28149	Mississippi	Warren	mentally_unhealthy_days	4.2
+28151	Mississippi	Washington	mentally_unhealthy_days	3.3
+28153	Mississippi	Wayne	mentally_unhealthy_days	4.7
+28155	Mississippi	Webster	mentally_unhealthy_days	4.2
+28157	Mississippi	Wilkinson	mentally_unhealthy_days	4.2
+28159	Mississippi	Winston	mentally_unhealthy_days	4.3
+28161	Mississippi	Yalobusha	mentally_unhealthy_days	4
+28163	Mississippi	Yazoo	mentally_unhealthy_days	3.4
+29001	Missouri	Adair	mentally_unhealthy_days	4.1
+29003	Missouri	Andrew	mentally_unhealthy_days	2.4
+29005	Missouri	Atchison	mentally_unhealthy_days	3.4
+29007	Missouri	Audrain	mentally_unhealthy_days	4.7
+29009	Missouri	Barry	mentally_unhealthy_days	4.8
+29011	Missouri	Barton	mentally_unhealthy_days	
+29013	Missouri	Bates	mentally_unhealthy_days	2.8
+29015	Missouri	Benton	mentally_unhealthy_days	2.9
+29017	Missouri	Bollinger	mentally_unhealthy_days	4.4
+29019	Missouri	Boone	mentally_unhealthy_days	3.6
+29021	Missouri	Buchanan	mentally_unhealthy_days	4.2
+29023	Missouri	Butler	mentally_unhealthy_days	4.9
+29025	Missouri	Caldwell	mentally_unhealthy_days	2.7
+29027	Missouri	Callaway	mentally_unhealthy_days	4.8
+29029	Missouri	Camden	mentally_unhealthy_days	4.2
+29031	Missouri	Cape Girardeau	mentally_unhealthy_days	4.6
+29033	Missouri	Carroll	mentally_unhealthy_days	2.7
+29035	Missouri	Carter	mentally_unhealthy_days	
+29037	Missouri	Cass	mentally_unhealthy_days	3.5
+29039	Missouri	Cedar	mentally_unhealthy_days	2.2
+29041	Missouri	Chariton	mentally_unhealthy_days	5
+29043	Missouri	Christian	mentally_unhealthy_days	3.4
+29045	Missouri	Clark	mentally_unhealthy_days	2.9
+29047	Missouri	Clay	mentally_unhealthy_days	3.8
+29049	Missouri	Clinton	mentally_unhealthy_days	3.8
+29051	Missouri	Cole	mentally_unhealthy_days	2.2
+29053	Missouri	Cooper	mentally_unhealthy_days	2.2
+29055	Missouri	Crawford	mentally_unhealthy_days	4.7
+29057	Missouri	Dade	mentally_unhealthy_days	
+29059	Missouri	Dallas	mentally_unhealthy_days	2.3
+29061	Missouri	Daviess	mentally_unhealthy_days	3.5
+29063	Missouri	DeKalb	mentally_unhealthy_days	3.7
+29065	Missouri	Dent	mentally_unhealthy_days	4.1
+29067	Missouri	Douglas	mentally_unhealthy_days	3.8
+29069	Missouri	Dunklin	mentally_unhealthy_days	5.3
+29071	Missouri	Franklin	mentally_unhealthy_days	3.9
+29073	Missouri	Gasconade	mentally_unhealthy_days	3.4
+29075	Missouri	Gentry	mentally_unhealthy_days	3.9
+29077	Missouri	Greene	mentally_unhealthy_days	3.5
+29079	Missouri	Grundy	mentally_unhealthy_days	3.6
+29081	Missouri	Harrison	mentally_unhealthy_days	2
+29083	Missouri	Henry	mentally_unhealthy_days	5.5
+29085	Missouri	Hickory	mentally_unhealthy_days	
+29087	Missouri	Holt	mentally_unhealthy_days	3.2
+29089	Missouri	Howard	mentally_unhealthy_days	2.8
+29091	Missouri	Howell	mentally_unhealthy_days	5.4
+29093	Missouri	Iron	mentally_unhealthy_days	6.1
+29095	Missouri	Jackson	mentally_unhealthy_days	3.9
+29097	Missouri	Jasper	mentally_unhealthy_days	4.2
+29099	Missouri	Jefferson	mentally_unhealthy_days	4.4
+29101	Missouri	Johnson	mentally_unhealthy_days	2.4
+29103	Missouri	Knox	mentally_unhealthy_days	
+29105	Missouri	Laclede	mentally_unhealthy_days	4
+29107	Missouri	Lafayette	mentally_unhealthy_days	2.5
+29109	Missouri	Lawrence	mentally_unhealthy_days	3.3
+29111	Missouri	Lewis	mentally_unhealthy_days	2.8
+29113	Missouri	Lincoln	mentally_unhealthy_days	4.5
+29115	Missouri	Linn	mentally_unhealthy_days	4.4
+29117	Missouri	Livingston	mentally_unhealthy_days	4
+29119	Missouri	McDonald	mentally_unhealthy_days	3.8
+29121	Missouri	Macon	mentally_unhealthy_days	4.2
+29123	Missouri	Madison	mentally_unhealthy_days	
+29125	Missouri	Maries	mentally_unhealthy_days	
+29127	Missouri	Marion	mentally_unhealthy_days	4.2
+29129	Missouri	Mercer	mentally_unhealthy_days	2.1
+29131	Missouri	Miller	mentally_unhealthy_days	3.3
+29133	Missouri	Mississippi	mentally_unhealthy_days	
+29135	Missouri	Moniteau	mentally_unhealthy_days	2.7
+29137	Missouri	Monroe	mentally_unhealthy_days	2.7
+29139	Missouri	Montgomery	mentally_unhealthy_days	2.4
+29141	Missouri	Morgan	mentally_unhealthy_days	4.9
+29143	Missouri	New Madrid	mentally_unhealthy_days	4.8
+29145	Missouri	Newton	mentally_unhealthy_days	3.7
+29147	Missouri	Nodaway	mentally_unhealthy_days	3.4
+29149	Missouri	Oregon	mentally_unhealthy_days	3.9
+29151	Missouri	Osage	mentally_unhealthy_days	2.7
+29153	Missouri	Ozark	mentally_unhealthy_days	
+29155	Missouri	Pemiscot	mentally_unhealthy_days	4.5
+29157	Missouri	Perry	mentally_unhealthy_days	2.5
+29159	Missouri	Pettis	mentally_unhealthy_days	5.4
+29161	Missouri	Phelps	mentally_unhealthy_days	4.1
+29163	Missouri	Pike	mentally_unhealthy_days	4.6
+29165	Missouri	Platte	mentally_unhealthy_days	3.5
+29167	Missouri	Polk	mentally_unhealthy_days	3.5
+29169	Missouri	Pulaski	mentally_unhealthy_days	3.1
+29171	Missouri	Putnam	mentally_unhealthy_days	2.1
+29173	Missouri	Ralls	mentally_unhealthy_days	1.7
+29175	Missouri	Randolph	mentally_unhealthy_days	4.3
+29177	Missouri	Ray	mentally_unhealthy_days	5.3
+29179	Missouri	Reynolds	mentally_unhealthy_days	5.2
+29181	Missouri	Ripley	mentally_unhealthy_days	4.4
+29183	Missouri	St. Charles	mentally_unhealthy_days	3.2
+29185	Missouri	St. Clair	mentally_unhealthy_days	
+29186	Missouri	Ste. Genevieve	mentally_unhealthy_days	4.4
+29187	Missouri	St. Francois	mentally_unhealthy_days	4.5
+29189	Missouri	St. Louis	mentally_unhealthy_days	3
+29195	Missouri	Saline	mentally_unhealthy_days	3.2
+29197	Missouri	Schuyler	mentally_unhealthy_days	3.5
+29199	Missouri	Scotland	mentally_unhealthy_days	4.8
+29201	Missouri	Scott	mentally_unhealthy_days	4.8
+29203	Missouri	Shannon	mentally_unhealthy_days	3.6
+29205	Missouri	Shelby	mentally_unhealthy_days	2.1
+29207	Missouri	Stoddard	mentally_unhealthy_days	4.4
+29209	Missouri	Stone	mentally_unhealthy_days	
+29211	Missouri	Sullivan	mentally_unhealthy_days	
+29213	Missouri	Taney	mentally_unhealthy_days	5.8
+29215	Missouri	Texas	mentally_unhealthy_days	4.4
+29217	Missouri	Vernon	mentally_unhealthy_days	5.2
+29219	Missouri	Warren	mentally_unhealthy_days	2.5
+29221	Missouri	Washington	mentally_unhealthy_days	5.2
+29223	Missouri	Wayne	mentally_unhealthy_days	6.7
+29225	Missouri	Webster	mentally_unhealthy_days	3.5
+29227	Missouri	Worth	mentally_unhealthy_days	2.2
+29229	Missouri	Wright	mentally_unhealthy_days	4.1
+29510	Missouri	St. Louis City	mentally_unhealthy_days	4.5
+30001	Montana	Beaverhead	mentally_unhealthy_days	2.7
+30003	Montana	Big Horn	mentally_unhealthy_days	3.1
+30005	Montana	Blaine	mentally_unhealthy_days	3.3
+30007	Montana	Broadwater	mentally_unhealthy_days	3.3
+30009	Montana	Carbon	mentally_unhealthy_days	2.3
+30011	Montana	Carter	mentally_unhealthy_days	2.4
+30013	Montana	Cascade	mentally_unhealthy_days	3.4
+30015	Montana	Chouteau	mentally_unhealthy_days	2.5
+30017	Montana	Custer	mentally_unhealthy_days	2.5
+30019	Montana	Daniels	mentally_unhealthy_days	1.9
+30021	Montana	Dawson	mentally_unhealthy_days	2.7
+30023	Montana	Deer Lodge	mentally_unhealthy_days	5.1
+30025	Montana	Fallon	mentally_unhealthy_days	2
+30027	Montana	Fergus	mentally_unhealthy_days	2.4
+30029	Montana	Flathead	mentally_unhealthy_days	3.1
+30031	Montana	Gallatin	mentally_unhealthy_days	2.4
+30033	Montana	Garfield	mentally_unhealthy_days	3.7
+30035	Montana	Glacier	mentally_unhealthy_days	4.4
+30037	Montana	Golden Valley	mentally_unhealthy_days	3.3
+30039	Montana	Granite	mentally_unhealthy_days	1.4
+30041	Montana	Hill	mentally_unhealthy_days	3.7
+30043	Montana	Jefferson	mentally_unhealthy_days	3.1
+30045	Montana	Judith Basin	mentally_unhealthy_days	2.2
+30047	Montana	Lake	mentally_unhealthy_days	3.9
+30049	Montana	Lewis and Clark	mentally_unhealthy_days	3.3
+30051	Montana	Liberty	mentally_unhealthy_days	2.6
+30053	Montana	Lincoln	mentally_unhealthy_days	3.7
+30055	Montana	McCone	mentally_unhealthy_days	1.9
+30057	Montana	Madison	mentally_unhealthy_days	2.7
+30059	Montana	Meagher	mentally_unhealthy_days	2.1
+30061	Montana	Mineral	mentally_unhealthy_days	3.8
+30063	Montana	Missoula	mentally_unhealthy_days	3.3
+30065	Montana	Musselshell	mentally_unhealthy_days	2.8
+30067	Montana	Park	mentally_unhealthy_days	2.9
+30069	Montana	Petroleum	mentally_unhealthy_days	
+30071	Montana	Phillips	mentally_unhealthy_days	3.6
+30073	Montana	Pondera	mentally_unhealthy_days	2.8
+30075	Montana	Powder River	mentally_unhealthy_days	1.4
+30077	Montana	Powell	mentally_unhealthy_days	3.8
+30079	Montana	Prairie	mentally_unhealthy_days	2.5
+30081	Montana	Ravalli	mentally_unhealthy_days	3.1
+30083	Montana	Richland	mentally_unhealthy_days	2.6
+30085	Montana	Roosevelt	mentally_unhealthy_days	3.3
+30087	Montana	Rosebud	mentally_unhealthy_days	3.4
+30089	Montana	Sanders	mentally_unhealthy_days	2.5
+30091	Montana	Sheridan	mentally_unhealthy_days	2.7
+30093	Montana	Silver Bow	mentally_unhealthy_days	4.4
+30095	Montana	Stillwater	mentally_unhealthy_days	2.7
+30097	Montana	Sweet Grass	mentally_unhealthy_days	3.1
+30099	Montana	Teton	mentally_unhealthy_days	3.1
+30101	Montana	Toole	mentally_unhealthy_days	2.2
+30103	Montana	Treasure	mentally_unhealthy_days	
+30105	Montana	Valley	mentally_unhealthy_days	3.4
+30107	Montana	Wheatland	mentally_unhealthy_days	2.8
+30109	Montana	Wibaux	mentally_unhealthy_days	2.1
+30111	Montana	Yellowstone	mentally_unhealthy_days	3.5
+31001	Nebraska	Adams	mentally_unhealthy_days	2.6
+31003	Nebraska	Antelope	mentally_unhealthy_days	2.8
+31005	Nebraska	Arthur	mentally_unhealthy_days	2.3
+31007	Nebraska	Banner	mentally_unhealthy_days	2.3
+31009	Nebraska	Blaine	mentally_unhealthy_days	2.2
+31011	Nebraska	Boone	mentally_unhealthy_days	2.1
+31013	Nebraska	Box Butte	mentally_unhealthy_days	3.6
+31015	Nebraska	Boyd	mentally_unhealthy_days	1.8
+31017	Nebraska	Brown	mentally_unhealthy_days	2.7
+31019	Nebraska	Buffalo	mentally_unhealthy_days	2.3
+31021	Nebraska	Burt	mentally_unhealthy_days	3
+31023	Nebraska	Butler	mentally_unhealthy_days	2.8
+31025	Nebraska	Cass	mentally_unhealthy_days	2.7
+31027	Nebraska	Cedar	mentally_unhealthy_days	1.7
+31029	Nebraska	Chase	mentally_unhealthy_days	2.6
+31031	Nebraska	Cherry	mentally_unhealthy_days	2.4
+31033	Nebraska	Cheyenne	mentally_unhealthy_days	2.7
+31035	Nebraska	Clay	mentally_unhealthy_days	2.4
+31037	Nebraska	Colfax	mentally_unhealthy_days	2.3
+31039	Nebraska	Cuming	mentally_unhealthy_days	2.3
+31041	Nebraska	Custer	mentally_unhealthy_days	2
+31043	Nebraska	Dakota	mentally_unhealthy_days	2.9
+31045	Nebraska	Dawes	mentally_unhealthy_days	3
+31047	Nebraska	Dawson	mentally_unhealthy_days	2.3
+31049	Nebraska	Deuel	mentally_unhealthy_days	2.8
+31051	Nebraska	Dixon	mentally_unhealthy_days	2.3
+31053	Nebraska	Dodge	mentally_unhealthy_days	2.8
+31055	Nebraska	Douglas	mentally_unhealthy_days	2.7
+31057	Nebraska	Dundy	mentally_unhealthy_days	3.6
+31059	Nebraska	Fillmore	mentally_unhealthy_days	2
+31061	Nebraska	Franklin	mentally_unhealthy_days	2.7
+31063	Nebraska	Frontier	mentally_unhealthy_days	2.6
+31065	Nebraska	Furnas	mentally_unhealthy_days	2.9
+31067	Nebraska	Gage	mentally_unhealthy_days	4.3
+31069	Nebraska	Garden	mentally_unhealthy_days	4
+31071	Nebraska	Garfield	mentally_unhealthy_days	3.1
+31073	Nebraska	Gosper	mentally_unhealthy_days	1.9
+31075	Nebraska	Grant	mentally_unhealthy_days	1.4
+31077	Nebraska	Greeley	mentally_unhealthy_days	1.9
+31079	Nebraska	Hall	mentally_unhealthy_days	2.8
+31081	Nebraska	Hamilton	mentally_unhealthy_days	2.2
+31083	Nebraska	Harlan	mentally_unhealthy_days	2.2
+31085	Nebraska	Hayes	mentally_unhealthy_days	2.3
+31087	Nebraska	Hitchcock	mentally_unhealthy_days	3.2
+31089	Nebraska	Holt	mentally_unhealthy_days	2.1
+31091	Nebraska	Hooker	mentally_unhealthy_days	1.3
+31093	Nebraska	Howard	mentally_unhealthy_days	2.5
+31095	Nebraska	Jefferson	mentally_unhealthy_days	2.7
+31097	Nebraska	Johnson	mentally_unhealthy_days	1.7
+31099	Nebraska	Kearney	mentally_unhealthy_days	2.4
+31101	Nebraska	Keith	mentally_unhealthy_days	2.6
+31103	Nebraska	Keya Paha	mentally_unhealthy_days	0.8
+31105	Nebraska	Kimball	mentally_unhealthy_days	3.6
+31107	Nebraska	Knox	mentally_unhealthy_days	2.5
+31109	Nebraska	Lancaster	mentally_unhealthy_days	2.8
+31111	Nebraska	Lincoln	mentally_unhealthy_days	3.2
+31113	Nebraska	Logan	mentally_unhealthy_days	1.5
+31115	Nebraska	Loup	mentally_unhealthy_days	1.3
+31117	Nebraska	McPherson	mentally_unhealthy_days	1.6
+31119	Nebraska	Madison	mentally_unhealthy_days	2.2
+31121	Nebraska	Merrick	mentally_unhealthy_days	2.7
+31123	Nebraska	Morrill	mentally_unhealthy_days	2.4
+31125	Nebraska	Nance	mentally_unhealthy_days	2.1
+31127	Nebraska	Nemaha	mentally_unhealthy_days	3.7
+31129	Nebraska	Nuckolls	mentally_unhealthy_days	2.7
+31131	Nebraska	Otoe	mentally_unhealthy_days	2.3
+31133	Nebraska	Pawnee	mentally_unhealthy_days	2.6
+31135	Nebraska	Perkins	mentally_unhealthy_days	2
+31137	Nebraska	Phelps	mentally_unhealthy_days	2
+31139	Nebraska	Pierce	mentally_unhealthy_days	2.3
+31141	Nebraska	Platte	mentally_unhealthy_days	2.4
+31143	Nebraska	Polk	mentally_unhealthy_days	2
+31145	Nebraska	Red Willow	mentally_unhealthy_days	2.8
+31147	Nebraska	Richardson	mentally_unhealthy_days	3.1
+31149	Nebraska	Rock	mentally_unhealthy_days	2.7
+31151	Nebraska	Saline	mentally_unhealthy_days	3.2
+31153	Nebraska	Sarpy	mentally_unhealthy_days	2.6
+31155	Nebraska	Saunders	mentally_unhealthy_days	2.5
+31157	Nebraska	Scotts Bluff	mentally_unhealthy_days	3.5
+31159	Nebraska	Seward	mentally_unhealthy_days	2.2
+31161	Nebraska	Sheridan	mentally_unhealthy_days	2.2
+31163	Nebraska	Sherman	mentally_unhealthy_days	2.4
+31165	Nebraska	Sioux	mentally_unhealthy_days	2.4
+31167	Nebraska	Stanton	mentally_unhealthy_days	1.8
+31169	Nebraska	Thayer	mentally_unhealthy_days	2.4
+31171	Nebraska	Thomas	mentally_unhealthy_days	1.2
+31173	Nebraska	Thurston	mentally_unhealthy_days	2.7
+31175	Nebraska	Valley	mentally_unhealthy_days	3.1
+31177	Nebraska	Washington	mentally_unhealthy_days	2.2
+31179	Nebraska	Wayne	mentally_unhealthy_days	2.2
+31181	Nebraska	Webster	mentally_unhealthy_days	2.7
+31183	Nebraska	Wheeler	mentally_unhealthy_days	1.9
+31185	Nebraska	York	mentally_unhealthy_days	2.4
+32001	Nevada	Churchill	mentally_unhealthy_days	4
+32003	Nevada	Clark	mentally_unhealthy_days	3.6
+32005	Nevada	Douglas	mentally_unhealthy_days	4.1
+32007	Nevada	Elko	mentally_unhealthy_days	3.5
+32009	Nevada	Esmeralda	mentally_unhealthy_days	
+32011	Nevada	Eureka	mentally_unhealthy_days	
+32013	Nevada	Humboldt	mentally_unhealthy_days	4.4
+32015	Nevada	Lander	mentally_unhealthy_days	4.8
+32017	Nevada	Lincoln	mentally_unhealthy_days	2.2
+32019	Nevada	Lyon	mentally_unhealthy_days	4.3
+32021	Nevada	Mineral	mentally_unhealthy_days	4.4
+32023	Nevada	Nye	mentally_unhealthy_days	4.6
+32027	Nevada	Pershing	mentally_unhealthy_days	5.2
+32029	Nevada	Storey	mentally_unhealthy_days	3.4
+32031	Nevada	Washoe	mentally_unhealthy_days	3.6
+32033	Nevada	White Pine	mentally_unhealthy_days	3.3
+32510	Nevada	Carson City	mentally_unhealthy_days	3.5
+33001	New Hampshire	Belknap	mentally_unhealthy_days	3.5
+33003	New Hampshire	Carroll	mentally_unhealthy_days	3.2
+33005	New Hampshire	Cheshire	mentally_unhealthy_days	3.4
+33007	New Hampshire	Coos	mentally_unhealthy_days	4.5
+33009	New Hampshire	Grafton	mentally_unhealthy_days	3.2
+33011	New Hampshire	Hillsborough	mentally_unhealthy_days	3.1
+33013	New Hampshire	Merrimack	mentally_unhealthy_days	3
+33015	New Hampshire	Rockingham	mentally_unhealthy_days	3.1
+33017	New Hampshire	Strafford	mentally_unhealthy_days	3.7
+33019	New Hampshire	Sullivan	mentally_unhealthy_days	3.9
+34001	New Jersey	Atlantic	mentally_unhealthy_days	3.7
+34003	New Jersey	Bergen	mentally_unhealthy_days	2.8
+34005	New Jersey	Burlington	mentally_unhealthy_days	3.5
+34007	New Jersey	Camden	mentally_unhealthy_days	4.2
+34009	New Jersey	Cape May	mentally_unhealthy_days	3.4
+34011	New Jersey	Cumberland	mentally_unhealthy_days	4
+34013	New Jersey	Essex	mentally_unhealthy_days	3.4
+34015	New Jersey	Gloucester	mentally_unhealthy_days	3.7
+34017	New Jersey	Hudson	mentally_unhealthy_days	3.5
+34019	New Jersey	Hunterdon	mentally_unhealthy_days	2.6
+34021	New Jersey	Mercer	mentally_unhealthy_days	2.7
+34023	New Jersey	Middlesex	mentally_unhealthy_days	3
+34025	New Jersey	Monmouth	mentally_unhealthy_days	3.4
+34027	New Jersey	Morris	mentally_unhealthy_days	2.8
+34029	New Jersey	Ocean	mentally_unhealthy_days	3.5
+34031	New Jersey	Passaic	mentally_unhealthy_days	3.6
+34033	New Jersey	Salem	mentally_unhealthy_days	3.9
+34035	New Jersey	Somerset	mentally_unhealthy_days	2.6
+34037	New Jersey	Sussex	mentally_unhealthy_days	3.1
+34039	New Jersey	Union	mentally_unhealthy_days	3.2
+34041	New Jersey	Warren	mentally_unhealthy_days	3.6
+35001	New Mexico	Bernalillo	mentally_unhealthy_days	3.6
+35003	New Mexico	Catron	mentally_unhealthy_days	4.5
+35005	New Mexico	Chaves	mentally_unhealthy_days	3.7
+35006	New Mexico	Cibola	mentally_unhealthy_days	4.1
+35007	New Mexico	Colfax	mentally_unhealthy_days	4.2
+35009	New Mexico	Curry	mentally_unhealthy_days	3.6
+35011	New Mexico	De Baca	mentally_unhealthy_days	4.2
+35013	New Mexico	Dona Ana	mentally_unhealthy_days	3.4
+35015	New Mexico	Eddy	mentally_unhealthy_days	4.5
+35017	New Mexico	Grant	mentally_unhealthy_days	4.4
+35019	New Mexico	Guadalupe	mentally_unhealthy_days	2.7
+35021	New Mexico	Harding	mentally_unhealthy_days	1.6
+35023	New Mexico	Hidalgo	mentally_unhealthy_days	3.7
+35025	New Mexico	Lea	mentally_unhealthy_days	2.9
+35027	New Mexico	Lincoln	mentally_unhealthy_days	2.8
+35028	New Mexico	Los Alamos	mentally_unhealthy_days	3.3
+35029	New Mexico	Luna	mentally_unhealthy_days	4.2
+35031	New Mexico	McKinley	mentally_unhealthy_days	3.3
+35033	New Mexico	Mora	mentally_unhealthy_days	4.2
+35035	New Mexico	Otero	mentally_unhealthy_days	3.3
+35037	New Mexico	Quay	mentally_unhealthy_days	4.7
+35039	New Mexico	Rio Arriba	mentally_unhealthy_days	4.1
+35041	New Mexico	Roosevelt	mentally_unhealthy_days	2.7
+35043	New Mexico	Sandoval	mentally_unhealthy_days	3.3
+35045	New Mexico	San Juan	mentally_unhealthy_days	3.7
+35047	New Mexico	San Miguel	mentally_unhealthy_days	4
+35049	New Mexico	Santa Fe	mentally_unhealthy_days	3.3
+35051	New Mexico	Sierra	mentally_unhealthy_days	4.2
+35053	New Mexico	Socorro	mentally_unhealthy_days	4.3
+35055	New Mexico	Taos	mentally_unhealthy_days	3.8
+35057	New Mexico	Torrance	mentally_unhealthy_days	4.5
+35059	New Mexico	Union	mentally_unhealthy_days	3
+35061	New Mexico	Valencia	mentally_unhealthy_days	4.1
+36001	New York	Albany	mentally_unhealthy_days	3.1
+36003	New York	Allegany	mentally_unhealthy_days	3.5
+36005	New York	Bronx	mentally_unhealthy_days	3.8
+36007	New York	Broome	mentally_unhealthy_days	3.8
+36009	New York	Cattaraugus	mentally_unhealthy_days	3
+36011	New York	Cayuga	mentally_unhealthy_days	4.6
+36013	New York	Chautauqua	mentally_unhealthy_days	3.8
+36015	New York	Chemung	mentally_unhealthy_days	5.4
+36017	New York	Chenango	mentally_unhealthy_days	2.6
+36019	New York	Clinton	mentally_unhealthy_days	3.6
+36021	New York	Columbia	mentally_unhealthy_days	4
+36023	New York	Cortland	mentally_unhealthy_days	3.6
+36025	New York	Delaware	mentally_unhealthy_days	2.3
+36027	New York	Dutchess	mentally_unhealthy_days	3.1
+36029	New York	Erie	mentally_unhealthy_days	3.4
+36031	New York	Essex	mentally_unhealthy_days	3.2
+36033	New York	Franklin	mentally_unhealthy_days	2.9
+36035	New York	Fulton	mentally_unhealthy_days	4.5
+36037	New York	Genesee	mentally_unhealthy_days	4.2
+36039	New York	Greene	mentally_unhealthy_days	2.6
+36041	New York	Hamilton	mentally_unhealthy_days	
+36043	New York	Herkimer	mentally_unhealthy_days	4.4
+36045	New York	Jefferson	mentally_unhealthy_days	3.2
+36047	New York	Kings	mentally_unhealthy_days	3.5
+36049	New York	Lewis	mentally_unhealthy_days	2.5
+36051	New York	Livingston	mentally_unhealthy_days	1.8
+36053	New York	Madison	mentally_unhealthy_days	3
+36055	New York	Monroe	mentally_unhealthy_days	3.3
+36057	New York	Montgomery	mentally_unhealthy_days	3.2
+36059	New York	Nassau	mentally_unhealthy_days	2.8
+36061	New York	New York	mentally_unhealthy_days	3.6
+36063	New York	Niagara	mentally_unhealthy_days	4.1
+36065	New York	Oneida	mentally_unhealthy_days	4
+36067	New York	Onondaga	mentally_unhealthy_days	3.4
+36069	New York	Ontario	mentally_unhealthy_days	3.2
+36071	New York	Orange	mentally_unhealthy_days	2.9
+36073	New York	Orleans	mentally_unhealthy_days	3.8
+36075	New York	Oswego	mentally_unhealthy_days	3.2
+36077	New York	Otsego	mentally_unhealthy_days	4.3
+36079	New York	Putnam	mentally_unhealthy_days	2.2
+36081	New York	Queens	mentally_unhealthy_days	3.3
+36083	New York	Rensselaer	mentally_unhealthy_days	4.2
+36085	New York	Richmond	mentally_unhealthy_days	3.6
+36087	New York	Rockland	mentally_unhealthy_days	2.9
+36089	New York	St. Lawrence	mentally_unhealthy_days	4.5
+36091	New York	Saratoga	mentally_unhealthy_days	2.6
+36093	New York	Schenectady	mentally_unhealthy_days	2.6
+36095	New York	Schoharie	mentally_unhealthy_days	2.9
+36097	New York	Schuyler	mentally_unhealthy_days	4
+36099	New York	Seneca	mentally_unhealthy_days	4.7
+36101	New York	Steuben	mentally_unhealthy_days	4.1
+36103	New York	Suffolk	mentally_unhealthy_days	3.3
+36105	New York	Sullivan	mentally_unhealthy_days	3.4
+36107	New York	Tioga	mentally_unhealthy_days	3.7
+36109	New York	Tompkins	mentally_unhealthy_days	3.6
+36111	New York	Ulster	mentally_unhealthy_days	3.2
+36113	New York	Warren	mentally_unhealthy_days	2.4
+36115	New York	Washington	mentally_unhealthy_days	3.1
+36117	New York	Wayne	mentally_unhealthy_days	4.6
+36119	New York	Westchester	mentally_unhealthy_days	2.7
+36121	New York	Wyoming	mentally_unhealthy_days	4.2
+36123	New York	Yates	mentally_unhealthy_days	2.5
+37001	North Carolina	Alamance	mentally_unhealthy_days	3.4
+37003	North Carolina	Alexander	mentally_unhealthy_days	5.2
+37005	North Carolina	Alleghany	mentally_unhealthy_days	4.5
+37007	North Carolina	Anson	mentally_unhealthy_days	3.5
+37009	North Carolina	Ashe	mentally_unhealthy_days	3.4
+37011	North Carolina	Avery	mentally_unhealthy_days	2.6
+37013	North Carolina	Beaufort	mentally_unhealthy_days	2.4
+37015	North Carolina	Bertie	mentally_unhealthy_days	2
+37017	North Carolina	Bladen	mentally_unhealthy_days	5
+37019	North Carolina	Brunswick	mentally_unhealthy_days	3.5
+37021	North Carolina	Buncombe	mentally_unhealthy_days	3.5
+37023	North Carolina	Burke	mentally_unhealthy_days	4.5
+37025	North Carolina	Cabarrus	mentally_unhealthy_days	3.2
+37027	North Carolina	Caldwell	mentally_unhealthy_days	4.2
+37029	North Carolina	Camden	mentally_unhealthy_days	2.2
+37031	North Carolina	Carteret	mentally_unhealthy_days	4.1
+37033	North Carolina	Caswell	mentally_unhealthy_days	4.5
+37035	North Carolina	Catawba	mentally_unhealthy_days	3.5
+37037	North Carolina	Chatham	mentally_unhealthy_days	3.7
+37039	North Carolina	Cherokee	mentally_unhealthy_days	3.7
+37041	North Carolina	Chowan	mentally_unhealthy_days	3.1
+37043	North Carolina	Clay	mentally_unhealthy_days	5.6
+37045	North Carolina	Cleveland	mentally_unhealthy_days	4.9
+37047	North Carolina	Columbus	mentally_unhealthy_days	4.5
+37049	North Carolina	Craven	mentally_unhealthy_days	3
+37051	North Carolina	Cumberland	mentally_unhealthy_days	4
+37053	North Carolina	Currituck	mentally_unhealthy_days	3.5
+37055	North Carolina	Dare	mentally_unhealthy_days	4.1
+37057	North Carolina	Davidson	mentally_unhealthy_days	4.1
+37059	North Carolina	Davie	mentally_unhealthy_days	3.1
+37061	North Carolina	Duplin	mentally_unhealthy_days	2.7
+37063	North Carolina	Durham	mentally_unhealthy_days	2.9
+37065	North Carolina	Edgecombe	mentally_unhealthy_days	2.5
+37067	North Carolina	Forsyth	mentally_unhealthy_days	3.1
+37069	North Carolina	Franklin	mentally_unhealthy_days	4.2
+37071	North Carolina	Gaston	mentally_unhealthy_days	4.3
+37073	North Carolina	Gates	mentally_unhealthy_days	4
+37075	North Carolina	Graham	mentally_unhealthy_days	3.7
+37077	North Carolina	Granville	mentally_unhealthy_days	3.9
+37079	North Carolina	Greene	mentally_unhealthy_days	2
+37081	North Carolina	Guilford	mentally_unhealthy_days	3.2
+37083	North Carolina	Halifax	mentally_unhealthy_days	4.3
+37085	North Carolina	Harnett	mentally_unhealthy_days	3.4
+37087	North Carolina	Haywood	mentally_unhealthy_days	4.5
+37089	North Carolina	Henderson	mentally_unhealthy_days	3.3
+37091	North Carolina	Hertford	mentally_unhealthy_days	2.7
+37093	North Carolina	Hoke	mentally_unhealthy_days	3.3
+37095	North Carolina	Hyde	mentally_unhealthy_days	2.6
+37097	North Carolina	Iredell	mentally_unhealthy_days	3.1
+37099	North Carolina	Jackson	mentally_unhealthy_days	4
+37101	North Carolina	Johnston	mentally_unhealthy_days	3.5
+37103	North Carolina	Jones	mentally_unhealthy_days	3.7
+37105	North Carolina	Lee	mentally_unhealthy_days	3.9
+37107	North Carolina	Lenoir	mentally_unhealthy_days	4.8
+37109	North Carolina	Lincoln	mentally_unhealthy_days	3.2
+37111	North Carolina	McDowell	mentally_unhealthy_days	4.5
+37113	North Carolina	Macon	mentally_unhealthy_days	3.6
+37115	North Carolina	Madison	mentally_unhealthy_days	4.1
+37117	North Carolina	Martin	mentally_unhealthy_days	3
+37119	North Carolina	Mecklenburg	mentally_unhealthy_days	3.3
+37121	North Carolina	Mitchell	mentally_unhealthy_days	4.6
+37123	North Carolina	Montgomery	mentally_unhealthy_days	1.6
+37125	North Carolina	Moore	mentally_unhealthy_days	3.2
+37127	North Carolina	Nash	mentally_unhealthy_days	3.1
+37129	North Carolina	New Hanover	mentally_unhealthy_days	3.3
+37131	North Carolina	Northampton	mentally_unhealthy_days	3.7
+37133	North Carolina	Onslow	mentally_unhealthy_days	3.9
+37135	North Carolina	Orange	mentally_unhealthy_days	2.8
+37137	North Carolina	Pamlico	mentally_unhealthy_days	1.7
+37139	North Carolina	Pasquotank	mentally_unhealthy_days	3.6
+37141	North Carolina	Pender	mentally_unhealthy_days	2.6
+37143	North Carolina	Perquimans	mentally_unhealthy_days	2.9
+37145	North Carolina	Person	mentally_unhealthy_days	2.8
+37147	North Carolina	Pitt	mentally_unhealthy_days	3.2
+37149	North Carolina	Polk	mentally_unhealthy_days	3.4
+37151	North Carolina	Randolph	mentally_unhealthy_days	3.6
+37153	North Carolina	Richmond	mentally_unhealthy_days	5.3
+37155	North Carolina	Robeson	mentally_unhealthy_days	3.9
+37157	North Carolina	Rockingham	mentally_unhealthy_days	4.1
+37159	North Carolina	Rowan	mentally_unhealthy_days	4.3
+37161	North Carolina	Rutherford	mentally_unhealthy_days	4.5
+37163	North Carolina	Sampson	mentally_unhealthy_days	2.5
+37165	North Carolina	Scotland	mentally_unhealthy_days	3.2
+37167	North Carolina	Stanly	mentally_unhealthy_days	5.4
+37169	North Carolina	Stokes	mentally_unhealthy_days	5
+37171	North Carolina	Surry	mentally_unhealthy_days	3.7
+37173	North Carolina	Swain	mentally_unhealthy_days	3.8
+37175	North Carolina	Transylvania	mentally_unhealthy_days	3.6
+37177	North Carolina	Tyrrell	mentally_unhealthy_days	
+37179	North Carolina	Union	mentally_unhealthy_days	3
+37181	North Carolina	Vance	mentally_unhealthy_days	3.2
+37183	North Carolina	Wake	mentally_unhealthy_days	2.6
+37185	North Carolina	Warren	mentally_unhealthy_days	3.8
+37187	North Carolina	Washington	mentally_unhealthy_days	2.5
+37189	North Carolina	Watauga	mentally_unhealthy_days	3.7
+37191	North Carolina	Wayne	mentally_unhealthy_days	3.6
+37193	North Carolina	Wilkes	mentally_unhealthy_days	4.4
+37195	North Carolina	Wilson	mentally_unhealthy_days	3.3
+37197	North Carolina	Yadkin	mentally_unhealthy_days	4.2
+37199	North Carolina	Yancey	mentally_unhealthy_days	3.2
+38001	North Dakota	Adams	mentally_unhealthy_days	3.1
+38003	North Dakota	Barnes	mentally_unhealthy_days	2.1
+38005	North Dakota	Benson	mentally_unhealthy_days	3
+38007	North Dakota	Billings	mentally_unhealthy_days	1.3
+38009	North Dakota	Bottineau	mentally_unhealthy_days	2.4
+38011	North Dakota	Bowman	mentally_unhealthy_days	1.4
+38013	North Dakota	Burke	mentally_unhealthy_days	1.9
+38015	North Dakota	Burleigh	mentally_unhealthy_days	2.5
+38017	North Dakota	Cass	mentally_unhealthy_days	2.3
+38019	North Dakota	Cavalier	mentally_unhealthy_days	2.2
+38021	North Dakota	Dickey	mentally_unhealthy_days	2.7
+38023	North Dakota	Divide	mentally_unhealthy_days	3
+38025	North Dakota	Dunn	mentally_unhealthy_days	2.6
+38027	North Dakota	Eddy	mentally_unhealthy_days	3
+38029	North Dakota	Emmons	mentally_unhealthy_days	2.4
+38031	North Dakota	Foster	mentally_unhealthy_days	1.6
+38033	North Dakota	Golden Valley	mentally_unhealthy_days	1.2
+38035	North Dakota	Grand Forks	mentally_unhealthy_days	2.4
+38037	North Dakota	Grant	mentally_unhealthy_days	2.1
+38039	North Dakota	Griggs	mentally_unhealthy_days	1.4
+38041	North Dakota	Hettinger	mentally_unhealthy_days	2.2
+38043	North Dakota	Kidder	mentally_unhealthy_days	2.3
+38045	North Dakota	LaMoure	mentally_unhealthy_days	1.9
+38047	North Dakota	Logan	mentally_unhealthy_days	3
+38049	North Dakota	McHenry	mentally_unhealthy_days	2.6
+38051	North Dakota	McIntosh	mentally_unhealthy_days	2.8
+38053	North Dakota	McKenzie	mentally_unhealthy_days	3.2
+38055	North Dakota	McLean	mentally_unhealthy_days	3
+38057	North Dakota	Mercer	mentally_unhealthy_days	2.4
+38059	North Dakota	Morton	mentally_unhealthy_days	2.5
+38061	North Dakota	Mountrail	mentally_unhealthy_days	2.9
+38063	North Dakota	Nelson	mentally_unhealthy_days	1.6
+38065	North Dakota	Oliver	mentally_unhealthy_days	2
+38067	North Dakota	Pembina	mentally_unhealthy_days	1.9
+38069	North Dakota	Pierce	mentally_unhealthy_days	2.8
+38071	North Dakota	Ramsey	mentally_unhealthy_days	2.8
+38073	North Dakota	Ransom	mentally_unhealthy_days	3.2
+38075	North Dakota	Renville	mentally_unhealthy_days	2.1
+38077	North Dakota	Richland	mentally_unhealthy_days	2.4
+38079	North Dakota	Rolette	mentally_unhealthy_days	3.7
+38081	North Dakota	Sargent	mentally_unhealthy_days	3.2
+38083	North Dakota	Sheridan	mentally_unhealthy_days	3.1
+38085	North Dakota	Sioux	mentally_unhealthy_days	3.7
+38087	North Dakota	Slope	mentally_unhealthy_days	1.8
+38089	North Dakota	Stark	mentally_unhealthy_days	2.5
+38091	North Dakota	Steele	mentally_unhealthy_days	2.3
+38093	North Dakota	Stutsman	mentally_unhealthy_days	2.5
+38095	North Dakota	Towner	mentally_unhealthy_days	1.6
+38097	North Dakota	Traill	mentally_unhealthy_days	2.4
+38099	North Dakota	Walsh	mentally_unhealthy_days	2.2
+38101	North Dakota	Ward	mentally_unhealthy_days	2.3
+38103	North Dakota	Wells	mentally_unhealthy_days	3.2
+38105	North Dakota	Williams	mentally_unhealthy_days	2.3
+39001	Ohio	Adams	mentally_unhealthy_days	4.6
+39003	Ohio	Allen	mentally_unhealthy_days	3.7
+39005	Ohio	Ashland	mentally_unhealthy_days	3.2
+39007	Ohio	Ashtabula	mentally_unhealthy_days	4.2
+39009	Ohio	Athens	mentally_unhealthy_days	5.1
+39011	Ohio	Auglaize	mentally_unhealthy_days	3.4
+39013	Ohio	Belmont	mentally_unhealthy_days	5.2
+39015	Ohio	Brown	mentally_unhealthy_days	3.2
+39017	Ohio	Butler	mentally_unhealthy_days	3.5
+39019	Ohio	Carroll	mentally_unhealthy_days	4.3
+39021	Ohio	Champaign	mentally_unhealthy_days	3.7
+39023	Ohio	Clark	mentally_unhealthy_days	3.7
+39025	Ohio	Clermont	mentally_unhealthy_days	4
+39027	Ohio	Clinton	mentally_unhealthy_days	4.5
+39029	Ohio	Columbiana	mentally_unhealthy_days	3.5
+39031	Ohio	Coshocton	mentally_unhealthy_days	4.8
+39033	Ohio	Crawford	mentally_unhealthy_days	3.4
+39035	Ohio	Cuyahoga	mentally_unhealthy_days	4
+39037	Ohio	Darke	mentally_unhealthy_days	3
+39039	Ohio	Defiance	mentally_unhealthy_days	3.7
+39041	Ohio	Delaware	mentally_unhealthy_days	2.7
+39043	Ohio	Erie	mentally_unhealthy_days	5
+39045	Ohio	Fairfield	mentally_unhealthy_days	3.8
+39047	Ohio	Fayette	mentally_unhealthy_days	5.1
+39049	Ohio	Franklin	mentally_unhealthy_days	4
+39051	Ohio	Fulton	mentally_unhealthy_days	4.2
+39053	Ohio	Gallia	mentally_unhealthy_days	6.1
+39055	Ohio	Geauga	mentally_unhealthy_days	3.2
+39057	Ohio	Greene	mentally_unhealthy_days	2.8
+39059	Ohio	Guernsey	mentally_unhealthy_days	3.3
+39061	Ohio	Hamilton	mentally_unhealthy_days	4
+39063	Ohio	Hancock	mentally_unhealthy_days	3.1
+39065	Ohio	Hardin	mentally_unhealthy_days	4.4
+39067	Ohio	Harrison	mentally_unhealthy_days	3.3
+39069	Ohio	Henry	mentally_unhealthy_days	4.6
+39071	Ohio	Highland	mentally_unhealthy_days	4.3
+39073	Ohio	Hocking	mentally_unhealthy_days	4.3
+39075	Ohio	Holmes	mentally_unhealthy_days	2.6
+39077	Ohio	Huron	mentally_unhealthy_days	3.8
+39079	Ohio	Jackson	mentally_unhealthy_days	5.6
+39081	Ohio	Jefferson	mentally_unhealthy_days	4.4
+39083	Ohio	Knox	mentally_unhealthy_days	3
+39085	Ohio	Lake	mentally_unhealthy_days	3.1
+39087	Ohio	Lawrence	mentally_unhealthy_days	6.6
+39089	Ohio	Licking	mentally_unhealthy_days	3.6
+39091	Ohio	Logan	mentally_unhealthy_days	3.4
+39093	Ohio	Lorain	mentally_unhealthy_days	3.2
+39095	Ohio	Lucas	mentally_unhealthy_days	4.2
+39097	Ohio	Madison	mentally_unhealthy_days	4.2
+39099	Ohio	Mahoning	mentally_unhealthy_days	3.9
+39101	Ohio	Marion	mentally_unhealthy_days	4.5
+39103	Ohio	Medina	mentally_unhealthy_days	3.1
+39105	Ohio	Meigs	mentally_unhealthy_days	
+39107	Ohio	Mercer	mentally_unhealthy_days	2.8
+39109	Ohio	Miami	mentally_unhealthy_days	5.2
+39111	Ohio	Monroe	mentally_unhealthy_days	
+39113	Ohio	Montgomery	mentally_unhealthy_days	3.8
+39115	Ohio	Morgan	mentally_unhealthy_days	3.8
+39117	Ohio	Morrow	mentally_unhealthy_days	5
+39119	Ohio	Muskingum	mentally_unhealthy_days	3.7
+39121	Ohio	Noble	mentally_unhealthy_days	3.4
+39123	Ohio	Ottawa	mentally_unhealthy_days	2.4
+39125	Ohio	Paulding	mentally_unhealthy_days	3.3
+39127	Ohio	Perry	mentally_unhealthy_days	3.8
+39129	Ohio	Pickaway	mentally_unhealthy_days	4.2
+39131	Ohio	Pike	mentally_unhealthy_days	4.7
+39133	Ohio	Portage	mentally_unhealthy_days	3.3
+39135	Ohio	Preble	mentally_unhealthy_days	4.1
+39137	Ohio	Putnam	mentally_unhealthy_days	1.5
+39139	Ohio	Richland	mentally_unhealthy_days	3.8
+39141	Ohio	Ross	mentally_unhealthy_days	5.5
+39143	Ohio	Sandusky	mentally_unhealthy_days	3.2
+39145	Ohio	Scioto	mentally_unhealthy_days	5.9
+39147	Ohio	Seneca	mentally_unhealthy_days	2.3
+39149	Ohio	Shelby	mentally_unhealthy_days	3.6
+39151	Ohio	Stark	mentally_unhealthy_days	3.6
+39153	Ohio	Summit	mentally_unhealthy_days	3.6
+39155	Ohio	Trumbull	mentally_unhealthy_days	3.8
+39157	Ohio	Tuscarawas	mentally_unhealthy_days	3.2
+39159	Ohio	Union	mentally_unhealthy_days	3.6
+39161	Ohio	Van Wert	mentally_unhealthy_days	4.5
+39163	Ohio	Vinton	mentally_unhealthy_days	4.5
+39165	Ohio	Warren	mentally_unhealthy_days	3.6
+39167	Ohio	Washington	mentally_unhealthy_days	3.2
+39169	Ohio	Wayne	mentally_unhealthy_days	3.2
+39171	Ohio	Williams	mentally_unhealthy_days	2.4
+39173	Ohio	Wood	mentally_unhealthy_days	3.6
+39175	Ohio	Wyandot	mentally_unhealthy_days	3.8
+40001	Oklahoma	Adair	mentally_unhealthy_days	2.9
+40003	Oklahoma	Alfalfa	mentally_unhealthy_days	3.6
+40005	Oklahoma	Atoka	mentally_unhealthy_days	5.7
+40007	Oklahoma	Beaver	mentally_unhealthy_days	2
+40009	Oklahoma	Beckham	mentally_unhealthy_days	4.2
+40011	Oklahoma	Blaine	mentally_unhealthy_days	3.6
+40013	Oklahoma	Bryan	mentally_unhealthy_days	5.1
+40015	Oklahoma	Caddo	mentally_unhealthy_days	4
+40017	Oklahoma	Canadian	mentally_unhealthy_days	3.7
+40019	Oklahoma	Carter	mentally_unhealthy_days	4.8
+40021	Oklahoma	Cherokee	mentally_unhealthy_days	4.5
+40023	Oklahoma	Choctaw	mentally_unhealthy_days	3
+40025	Oklahoma	Cimarron	mentally_unhealthy_days	1.5
+40027	Oklahoma	Cleveland	mentally_unhealthy_days	3.7
+40029	Oklahoma	Coal	mentally_unhealthy_days	3.8
+40031	Oklahoma	Comanche	mentally_unhealthy_days	4.6
+40033	Oklahoma	Cotton	mentally_unhealthy_days	2.6
+40035	Oklahoma	Craig	mentally_unhealthy_days	3.9
+40037	Oklahoma	Creek	mentally_unhealthy_days	4.3
+40039	Oklahoma	Custer	mentally_unhealthy_days	3
+40041	Oklahoma	Delaware	mentally_unhealthy_days	4.4
+40043	Oklahoma	Dewey	mentally_unhealthy_days	3.1
+40045	Oklahoma	Ellis	mentally_unhealthy_days	2.4
+40047	Oklahoma	Garfield	mentally_unhealthy_days	3.3
+40049	Oklahoma	Garvin	mentally_unhealthy_days	6.9
+40051	Oklahoma	Grady	mentally_unhealthy_days	4.3
+40053	Oklahoma	Grant	mentally_unhealthy_days	3
+40055	Oklahoma	Greer	mentally_unhealthy_days	3.8
+40057	Oklahoma	Harmon	mentally_unhealthy_days	
+40059	Oklahoma	Harper	mentally_unhealthy_days	
+40061	Oklahoma	Haskell	mentally_unhealthy_days	3.7
+40063	Oklahoma	Hughes	mentally_unhealthy_days	3.2
+40065	Oklahoma	Jackson	mentally_unhealthy_days	3.6
+40067	Oklahoma	Jefferson	mentally_unhealthy_days	4.2
+40069	Oklahoma	Johnston	mentally_unhealthy_days	
+40071	Oklahoma	Kay	mentally_unhealthy_days	4.7
+40073	Oklahoma	Kingfisher	mentally_unhealthy_days	3.7
+40075	Oklahoma	Kiowa	mentally_unhealthy_days	3.6
+40077	Oklahoma	Latimer	mentally_unhealthy_days	5.6
+40079	Oklahoma	Le Flore	mentally_unhealthy_days	4.5
+40081	Oklahoma	Lincoln	mentally_unhealthy_days	4.6
+40083	Oklahoma	Logan	mentally_unhealthy_days	4.5
+40085	Oklahoma	Love	mentally_unhealthy_days	5.6
+40087	Oklahoma	McClain	mentally_unhealthy_days	3.2
+40089	Oklahoma	McCurtain	mentally_unhealthy_days	3.8
+40091	Oklahoma	McIntosh	mentally_unhealthy_days	5.8
+40093	Oklahoma	Major	mentally_unhealthy_days	2.8
+40095	Oklahoma	Marshall	mentally_unhealthy_days	4.6
+40097	Oklahoma	Mayes	mentally_unhealthy_days	4.2
+40099	Oklahoma	Murray	mentally_unhealthy_days	3.7
+40101	Oklahoma	Muskogee	mentally_unhealthy_days	5.4
+40103	Oklahoma	Noble	mentally_unhealthy_days	3.2
+40105	Oklahoma	Nowata	mentally_unhealthy_days	4.6
+40107	Oklahoma	Okfuskee	mentally_unhealthy_days	2.8
+40109	Oklahoma	Oklahoma	mentally_unhealthy_days	4.1
+40111	Oklahoma	Okmulgee	mentally_unhealthy_days	4.6
+40113	Oklahoma	Osage	mentally_unhealthy_days	4
+40115	Oklahoma	Ottawa	mentally_unhealthy_days	4.8
+40117	Oklahoma	Pawnee	mentally_unhealthy_days	4.6
+40119	Oklahoma	Payne	mentally_unhealthy_days	4.5
+40121	Oklahoma	Pittsburg	mentally_unhealthy_days	5.4
+40123	Oklahoma	Pontotoc	mentally_unhealthy_days	4.8
+40125	Oklahoma	Pottawatomie	mentally_unhealthy_days	4.5
+40127	Oklahoma	Pushmataha	mentally_unhealthy_days	4.9
+40129	Oklahoma	Roger Mills	mentally_unhealthy_days	4.5
+40131	Oklahoma	Rogers	mentally_unhealthy_days	3.6
+40133	Oklahoma	Seminole	mentally_unhealthy_days	5.6
+40135	Oklahoma	Sequoyah	mentally_unhealthy_days	4.8
+40137	Oklahoma	Stephens	mentally_unhealthy_days	3.8
+40139	Oklahoma	Texas	mentally_unhealthy_days	1.7
+40141	Oklahoma	Tillman	mentally_unhealthy_days	
+40143	Oklahoma	Tulsa	mentally_unhealthy_days	4
+40145	Oklahoma	Wagoner	mentally_unhealthy_days	4.7
+40147	Oklahoma	Washington	mentally_unhealthy_days	3.3
+40149	Oklahoma	Washita	mentally_unhealthy_days	3.8
+40151	Oklahoma	Woods	mentally_unhealthy_days	3.5
+40153	Oklahoma	Woodward	mentally_unhealthy_days	3.1
+41001	Oregon	Baker	mentally_unhealthy_days	2.9
+41003	Oregon	Benton	mentally_unhealthy_days	2.9
+41005	Oregon	Clackamas	mentally_unhealthy_days	2.9
+41007	Oregon	Clatsop	mentally_unhealthy_days	3
+41009	Oregon	Columbia	mentally_unhealthy_days	4.1
+41011	Oregon	Coos	mentally_unhealthy_days	2.9
+41013	Oregon	Crook	mentally_unhealthy_days	2.8
+41015	Oregon	Curry	mentally_unhealthy_days	2.8
+41017	Oregon	Deschutes	mentally_unhealthy_days	3.2
+41019	Oregon	Douglas	mentally_unhealthy_days	3.6
+41021	Oregon	Gilliam	mentally_unhealthy_days	
+41023	Oregon	Grant	mentally_unhealthy_days	1.7
+41025	Oregon	Harney	mentally_unhealthy_days	2.4
+41027	Oregon	Hood River	mentally_unhealthy_days	2
+41029	Oregon	Jackson	mentally_unhealthy_days	3.7
+41031	Oregon	Jefferson	mentally_unhealthy_days	2.1
+41033	Oregon	Josephine	mentally_unhealthy_days	4
+41035	Oregon	Klamath	mentally_unhealthy_days	3.7
+41037	Oregon	Lake	mentally_unhealthy_days	2.4
+41039	Oregon	Lane	mentally_unhealthy_days	3.7
+41041	Oregon	Lincoln	mentally_unhealthy_days	4.1
+41043	Oregon	Linn	mentally_unhealthy_days	3.4
+41045	Oregon	Malheur	mentally_unhealthy_days	1.8
+41047	Oregon	Marion	mentally_unhealthy_days	2.9
+41049	Oregon	Morrow	mentally_unhealthy_days	1.9
+41051	Oregon	Multnomah	mentally_unhealthy_days	3.3
+41053	Oregon	Polk	mentally_unhealthy_days	3.2
+41055	Oregon	Sherman	mentally_unhealthy_days	
+41057	Oregon	Tillamook	mentally_unhealthy_days	3.1
+41059	Oregon	Umatilla	mentally_unhealthy_days	3.5
+41061	Oregon	Union	mentally_unhealthy_days	3.1
+41063	Oregon	Wallowa	mentally_unhealthy_days	1.8
+41065	Oregon	Wasco	mentally_unhealthy_days	2.4
+41067	Oregon	Washington	mentally_unhealthy_days	2.9
+41069	Oregon	Wheeler	mentally_unhealthy_days	
+41071	Oregon	Yamhill	mentally_unhealthy_days	3.1
+42001	Pennsylvania	Adams	mentally_unhealthy_days	3.1
+42003	Pennsylvania	Allegheny	mentally_unhealthy_days	3.5
+42005	Pennsylvania	Armstrong	mentally_unhealthy_days	3.9
+42007	Pennsylvania	Beaver	mentally_unhealthy_days	3.2
+42009	Pennsylvania	Bedford	mentally_unhealthy_days	3.1
+42011	Pennsylvania	Berks	mentally_unhealthy_days	3.3
+42013	Pennsylvania	Blair	mentally_unhealthy_days	4.2
+42015	Pennsylvania	Bradford	mentally_unhealthy_days	2.4
+42017	Pennsylvania	Bucks	mentally_unhealthy_days	3.4
+42019	Pennsylvania	Butler	mentally_unhealthy_days	3.6
+42021	Pennsylvania	Cambria	mentally_unhealthy_days	4.5
+42023	Pennsylvania	Cameron	mentally_unhealthy_days	
+42025	Pennsylvania	Carbon	mentally_unhealthy_days	3.7
+42027	Pennsylvania	Centre	mentally_unhealthy_days	3.1
+42029	Pennsylvania	Chester	mentally_unhealthy_days	2.8
+42031	Pennsylvania	Clarion	mentally_unhealthy_days	2.8
+42033	Pennsylvania	Clearfield	mentally_unhealthy_days	3
+42035	Pennsylvania	Clinton	mentally_unhealthy_days	3.9
+42037	Pennsylvania	Columbia	mentally_unhealthy_days	3.2
+42039	Pennsylvania	Crawford	mentally_unhealthy_days	4.6
+42041	Pennsylvania	Cumberland	mentally_unhealthy_days	3.1
+42043	Pennsylvania	Dauphin	mentally_unhealthy_days	3.7
+42045	Pennsylvania	Delaware	mentally_unhealthy_days	3.7
+42047	Pennsylvania	Elk	mentally_unhealthy_days	5.7
+42049	Pennsylvania	Erie	mentally_unhealthy_days	4.1
+42051	Pennsylvania	Fayette	mentally_unhealthy_days	4.7
+42053	Pennsylvania	Forest	mentally_unhealthy_days	
+42055	Pennsylvania	Franklin	mentally_unhealthy_days	2.6
+42057	Pennsylvania	Fulton	mentally_unhealthy_days	2.8
+42059	Pennsylvania	Greene	mentally_unhealthy_days	5.5
+42061	Pennsylvania	Huntingdon	mentally_unhealthy_days	3.4
+42063	Pennsylvania	Indiana	mentally_unhealthy_days	3.4
+42065	Pennsylvania	Jefferson	mentally_unhealthy_days	4.2
+42067	Pennsylvania	Juniata	mentally_unhealthy_days	2
+42069	Pennsylvania	Lackawanna	mentally_unhealthy_days	3.8
+42071	Pennsylvania	Lancaster	mentally_unhealthy_days	3.2
+42073	Pennsylvania	Lawrence	mentally_unhealthy_days	3.5
+42075	Pennsylvania	Lebanon	mentally_unhealthy_days	3.3
+42077	Pennsylvania	Lehigh	mentally_unhealthy_days	3.5
+42079	Pennsylvania	Luzerne	mentally_unhealthy_days	4
+42081	Pennsylvania	Lycoming	mentally_unhealthy_days	3.2
+42083	Pennsylvania	McKean	mentally_unhealthy_days	3.6
+42085	Pennsylvania	Mercer	mentally_unhealthy_days	3
+42087	Pennsylvania	Mifflin	mentally_unhealthy_days	4.4
+42089	Pennsylvania	Monroe	mentally_unhealthy_days	3.8
+42091	Pennsylvania	Montgomery	mentally_unhealthy_days	3.2
+42093	Pennsylvania	Montour	mentally_unhealthy_days	2.3
+42095	Pennsylvania	Northampton	mentally_unhealthy_days	3.9
+42097	Pennsylvania	Northumberland	mentally_unhealthy_days	3.7
+42099	Pennsylvania	Perry	mentally_unhealthy_days	4.1
+42101	Pennsylvania	Philadelphia	mentally_unhealthy_days	4.5
+42103	Pennsylvania	Pike	mentally_unhealthy_days	2.9
+42105	Pennsylvania	Potter	mentally_unhealthy_days	2.5
+42107	Pennsylvania	Schuylkill	mentally_unhealthy_days	3.5
+42109	Pennsylvania	Snyder	mentally_unhealthy_days	2.3
+42111	Pennsylvania	Somerset	mentally_unhealthy_days	3.5
+42113	Pennsylvania	Sullivan	mentally_unhealthy_days	
+42115	Pennsylvania	Susquehanna	mentally_unhealthy_days	4.3
+42117	Pennsylvania	Tioga	mentally_unhealthy_days	3.2
+42119	Pennsylvania	Union	mentally_unhealthy_days	2.6
+42121	Pennsylvania	Venango	mentally_unhealthy_days	3.4
+42123	Pennsylvania	Warren	mentally_unhealthy_days	3.3
+42125	Pennsylvania	Washington	mentally_unhealthy_days	3.6
+42127	Pennsylvania	Wayne	mentally_unhealthy_days	4.2
+42129	Pennsylvania	Westmoreland	mentally_unhealthy_days	3.6
+42131	Pennsylvania	Wyoming	mentally_unhealthy_days	4.5
+42133	Pennsylvania	York	mentally_unhealthy_days	3.5
+44001	Rhode Island	Bristol	mentally_unhealthy_days	3
+44003	Rhode Island	Kent	mentally_unhealthy_days	3.8
+44005	Rhode Island	Newport	mentally_unhealthy_days	3
+44007	Rhode Island	Providence	mentally_unhealthy_days	3.7
+44009	Rhode Island	Washington	mentally_unhealthy_days	3.3
+45001	South Carolina	Abbeville	mentally_unhealthy_days	4.6
+45003	South Carolina	Aiken	mentally_unhealthy_days	3.6
+45005	South Carolina	Allendale	mentally_unhealthy_days	2.8
+45007	South Carolina	Anderson	mentally_unhealthy_days	3.9
+45009	South Carolina	Bamberg	mentally_unhealthy_days	3.2
+45011	South Carolina	Barnwell	mentally_unhealthy_days	3.7
+45013	South Carolina	Beaufort	mentally_unhealthy_days	2.9
+45015	South Carolina	Berkeley	mentally_unhealthy_days	3.9
+45017	South Carolina	Calhoun	mentally_unhealthy_days	4.2
+45019	South Carolina	Charleston	mentally_unhealthy_days	3.2
+45021	South Carolina	Cherokee	mentally_unhealthy_days	4.1
+45023	South Carolina	Chester	mentally_unhealthy_days	5.9
+45025	South Carolina	Chesterfield	mentally_unhealthy_days	3.8
+45027	South Carolina	Clarendon	mentally_unhealthy_days	3.6
+45029	South Carolina	Colleton	mentally_unhealthy_days	4.2
+45031	South Carolina	Darlington	mentally_unhealthy_days	3.6
+45033	South Carolina	Dillon	mentally_unhealthy_days	4.2
+45035	South Carolina	Dorchester	mentally_unhealthy_days	3.5
+45037	South Carolina	Edgefield	mentally_unhealthy_days	3.3
+45039	South Carolina	Fairfield	mentally_unhealthy_days	3.9
+45041	South Carolina	Florence	mentally_unhealthy_days	3.5
+45043	South Carolina	Georgetown	mentally_unhealthy_days	3.6
+45045	South Carolina	Greenville	mentally_unhealthy_days	3.2
+45047	South Carolina	Greenwood	mentally_unhealthy_days	4
+45049	South Carolina	Hampton	mentally_unhealthy_days	2.9
+45051	South Carolina	Horry	mentally_unhealthy_days	3.9
+45053	South Carolina	Jasper	mentally_unhealthy_days	4
+45055	South Carolina	Kershaw	mentally_unhealthy_days	2.9
+45057	South Carolina	Lancaster	mentally_unhealthy_days	4.5
+45059	South Carolina	Laurens	mentally_unhealthy_days	4.8
+45061	South Carolina	Lee	mentally_unhealthy_days	4.7
+45063	South Carolina	Lexington	mentally_unhealthy_days	3.7
+45065	South Carolina	McCormick	mentally_unhealthy_days	5.1
+45067	South Carolina	Marion	mentally_unhealthy_days	3.6
+45069	South Carolina	Marlboro	mentally_unhealthy_days	3.9
+45071	South Carolina	Newberry	mentally_unhealthy_days	4.4
+45073	South Carolina	Oconee	mentally_unhealthy_days	4.3
+45075	South Carolina	Orangeburg	mentally_unhealthy_days	3.6
+45077	South Carolina	Pickens	mentally_unhealthy_days	4
+45079	South Carolina	Richland	mentally_unhealthy_days	3.3
+45081	South Carolina	Saluda	mentally_unhealthy_days	3.1
+45083	South Carolina	Spartanburg	mentally_unhealthy_days	4
+45085	South Carolina	Sumter	mentally_unhealthy_days	3.4
+45087	South Carolina	Union	mentally_unhealthy_days	3.9
+45089	South Carolina	Williamsburg	mentally_unhealthy_days	4.1
+45091	South Carolina	York	mentally_unhealthy_days	3.2
+46003	South Dakota	Aurora	mentally_unhealthy_days	1.9
+46005	South Dakota	Beadle	mentally_unhealthy_days	2
+46007	South Dakota	Bennett	mentally_unhealthy_days	3
+46009	South Dakota	Bon Homme	mentally_unhealthy_days	2.4
+46011	South Dakota	Brookings	mentally_unhealthy_days	2.2
+46013	South Dakota	Brown	mentally_unhealthy_days	2.4
+46015	South Dakota	Brule	mentally_unhealthy_days	3.2
+46017	South Dakota	Buffalo	mentally_unhealthy_days	3.9
+46019	South Dakota	Butte	mentally_unhealthy_days	2.8
+46021	South Dakota	Campbell	mentally_unhealthy_days	1.5
+46023	South Dakota	Charles Mix	mentally_unhealthy_days	2.1
+46025	South Dakota	Clark	mentally_unhealthy_days	3
+46027	South Dakota	Clay	mentally_unhealthy_days	2.4
+46029	South Dakota	Codington	mentally_unhealthy_days	2.3
+46031	South Dakota	Corson	mentally_unhealthy_days	3.8
+46033	South Dakota	Custer	mentally_unhealthy_days	3.6
+46035	South Dakota	Davison	mentally_unhealthy_days	2.1
+46037	South Dakota	Day	mentally_unhealthy_days	
+46039	South Dakota	Deuel	mentally_unhealthy_days	2.4
+46041	South Dakota	Dewey	mentally_unhealthy_days	3.1
+46043	South Dakota	Douglas	mentally_unhealthy_days	2.4
+46045	South Dakota	Edmunds	mentally_unhealthy_days	1.3
+46047	South Dakota	Fall River	mentally_unhealthy_days	3.4
+46049	South Dakota	Faulk	mentally_unhealthy_days	0.7
+46051	South Dakota	Grant	mentally_unhealthy_days	4.4
+46053	South Dakota	Gregory	mentally_unhealthy_days	1.8
+46055	South Dakota	Haakon	mentally_unhealthy_days	1.4
+46057	South Dakota	Hamlin	mentally_unhealthy_days	2
+46059	South Dakota	Hand	mentally_unhealthy_days	2.2
+46061	South Dakota	Hanson	mentally_unhealthy_days	3.2
+46063	South Dakota	Harding	mentally_unhealthy_days	0.9
+46065	South Dakota	Hughes	mentally_unhealthy_days	2.1
+46067	South Dakota	Hutchinson	mentally_unhealthy_days	1.7
+46069	South Dakota	Hyde	mentally_unhealthy_days	1.1
+46071	South Dakota	Jackson	mentally_unhealthy_days	2.5
+46073	South Dakota	Jerauld	mentally_unhealthy_days	2.8
+46075	South Dakota	Jones	mentally_unhealthy_days	0.7
+46077	South Dakota	Kingsbury	mentally_unhealthy_days	1.5
+46079	South Dakota	Lake	mentally_unhealthy_days	4.1
+46081	South Dakota	Lawrence	mentally_unhealthy_days	2.5
+46083	South Dakota	Lincoln	mentally_unhealthy_days	1.7
+46085	South Dakota	Lyman	mentally_unhealthy_days	1.6
+46087	South Dakota	McCook	mentally_unhealthy_days	2.8
+46089	South Dakota	McPherson	mentally_unhealthy_days	2.6
+46091	South Dakota	Marshall	mentally_unhealthy_days	2.8
+46093	South Dakota	Meade	mentally_unhealthy_days	2.6
+46095	South Dakota	Mellette	mentally_unhealthy_days	2.7
+46097	South Dakota	Miner	mentally_unhealthy_days	1.3
+46099	South Dakota	Minnehaha	mentally_unhealthy_days	2.6
+46101	South Dakota	Moody	mentally_unhealthy_days	2.2
+46103	South Dakota	Pennington	mentally_unhealthy_days	3.1
+46105	South Dakota	Perkins	mentally_unhealthy_days	2
+46107	South Dakota	Potter	mentally_unhealthy_days	1.4
+46109	South Dakota	Roberts	mentally_unhealthy_days	2.3
+46111	South Dakota	Sanborn	mentally_unhealthy_days	3.4
+46113	South Dakota	Shannon	mentally_unhealthy_days	3.6
+46115	South Dakota	Spink	mentally_unhealthy_days	2.3
+46117	South Dakota	Stanley	mentally_unhealthy_days	2.3
+46119	South Dakota	Sully	mentally_unhealthy_days	2.1
+46121	South Dakota	Todd	mentally_unhealthy_days	2.8
+46123	South Dakota	Tripp	mentally_unhealthy_days	4
+46125	South Dakota	Turner	mentally_unhealthy_days	2.3
+46127	South Dakota	Union	mentally_unhealthy_days	2
+46129	South Dakota	Walworth	mentally_unhealthy_days	2.8
+46135	South Dakota	Yankton	mentally_unhealthy_days	3.5
+46137	South Dakota	Ziebach	mentally_unhealthy_days	3.2
+47001	Tennessee	Anderson	mentally_unhealthy_days	3.3
+47003	Tennessee	Bedford	mentally_unhealthy_days	3.2
+47005	Tennessee	Benton	mentally_unhealthy_days	3.2
+47007	Tennessee	Bledsoe	mentally_unhealthy_days	3.8
+47009	Tennessee	Blount	mentally_unhealthy_days	2.6
+47011	Tennessee	Bradley	mentally_unhealthy_days	4.2
+47013	Tennessee	Campbell	mentally_unhealthy_days	6.1
+47015	Tennessee	Cannon	mentally_unhealthy_days	2.6
+47017	Tennessee	Carroll	mentally_unhealthy_days	4
+47019	Tennessee	Carter	mentally_unhealthy_days	4.2
+47021	Tennessee	Cheatham	mentally_unhealthy_days	3.2
+47023	Tennessee	Chester	mentally_unhealthy_days	2.8
+47025	Tennessee	Claiborne	mentally_unhealthy_days	4.2
+47027	Tennessee	Clay	mentally_unhealthy_days	
+47029	Tennessee	Cocke	mentally_unhealthy_days	4.6
+47031	Tennessee	Coffee	mentally_unhealthy_days	4.9
+47033	Tennessee	Crockett	mentally_unhealthy_days	5.1
+47035	Tennessee	Cumberland	mentally_unhealthy_days	2.6
+47037	Tennessee	Davidson	mentally_unhealthy_days	2.8
+47039	Tennessee	Decatur	mentally_unhealthy_days	2.5
+47041	Tennessee	DeKalb	mentally_unhealthy_days	4.5
+47043	Tennessee	Dickson	mentally_unhealthy_days	4.3
+47045	Tennessee	Dyer	mentally_unhealthy_days	3.2
+47047	Tennessee	Fayette	mentally_unhealthy_days	3
+47049	Tennessee	Fentress	mentally_unhealthy_days	3.6
+47051	Tennessee	Franklin	mentally_unhealthy_days	3.5
+47053	Tennessee	Gibson	mentally_unhealthy_days	3.9
+47055	Tennessee	Giles	mentally_unhealthy_days	3.4
+47057	Tennessee	Grainger	mentally_unhealthy_days	2.8
+47059	Tennessee	Greene	mentally_unhealthy_days	4.4
+47061	Tennessee	Grundy	mentally_unhealthy_days	7.5
+47063	Tennessee	Hamblen	mentally_unhealthy_days	4.8
+47065	Tennessee	Hamilton	mentally_unhealthy_days	3
+47067	Tennessee	Hancock	mentally_unhealthy_days	3.1
+47069	Tennessee	Hardeman	mentally_unhealthy_days	2.6
+47071	Tennessee	Hardin	mentally_unhealthy_days	3.1
+47073	Tennessee	Hawkins	mentally_unhealthy_days	4
+47075	Tennessee	Haywood	mentally_unhealthy_days	2.5
+47077	Tennessee	Henderson	mentally_unhealthy_days	3.2
+47079	Tennessee	Henry	mentally_unhealthy_days	4.1
+47081	Tennessee	Hickman	mentally_unhealthy_days	4.7
+47083	Tennessee	Houston	mentally_unhealthy_days	
+47085	Tennessee	Humphreys	mentally_unhealthy_days	
+47087	Tennessee	Jackson	mentally_unhealthy_days	
+47089	Tennessee	Jefferson	mentally_unhealthy_days	
+47091	Tennessee	Johnson	mentally_unhealthy_days	2.8
+47093	Tennessee	Knox	mentally_unhealthy_days	3.4
+47095	Tennessee	Lake	mentally_unhealthy_days	4.1
+47097	Tennessee	Lauderdale	mentally_unhealthy_days	3.4
+47099	Tennessee	Lawrence	mentally_unhealthy_days	4
+47101	Tennessee	Lewis	mentally_unhealthy_days	5.2
+47103	Tennessee	Lincoln	mentally_unhealthy_days	3.6
+47105	Tennessee	Loudon	mentally_unhealthy_days	3.5
+47107	Tennessee	McMinn	mentally_unhealthy_days	4.8
+47109	Tennessee	McNairy	mentally_unhealthy_days	3.8
+47111	Tennessee	Macon	mentally_unhealthy_days	5
+47113	Tennessee	Madison	mentally_unhealthy_days	3
+47115	Tennessee	Marion	mentally_unhealthy_days	3.3
+47117	Tennessee	Marshall	mentally_unhealthy_days	3
+47119	Tennessee	Maury	mentally_unhealthy_days	3.2
+47121	Tennessee	Meigs	mentally_unhealthy_days	4.5
+47123	Tennessee	Monroe	mentally_unhealthy_days	2.8
+47125	Tennessee	Montgomery	mentally_unhealthy_days	2.8
+47127	Tennessee	Moore	mentally_unhealthy_days	3.1
+47129	Tennessee	Morgan	mentally_unhealthy_days	2.8
+47131	Tennessee	Obion	mentally_unhealthy_days	3.2
+47133	Tennessee	Overton	mentally_unhealthy_days	4
+47135	Tennessee	Perry	mentally_unhealthy_days	4.3
+47137	Tennessee	Pickett	mentally_unhealthy_days	
+47139	Tennessee	Polk	mentally_unhealthy_days	5.1
+47141	Tennessee	Putnam	mentally_unhealthy_days	3.3
+47143	Tennessee	Rhea	mentally_unhealthy_days	4.3
+47145	Tennessee	Roane	mentally_unhealthy_days	2.6
+47147	Tennessee	Robertson	mentally_unhealthy_days	2.7
+47149	Tennessee	Rutherford	mentally_unhealthy_days	3.2
+47151	Tennessee	Scott	mentally_unhealthy_days	4.7
+47153	Tennessee	Sequatchie	mentally_unhealthy_days	4.7
+47155	Tennessee	Sevier	mentally_unhealthy_days	2.8
+47157	Tennessee	Shelby	mentally_unhealthy_days	2.7
+47159	Tennessee	Smith	mentally_unhealthy_days	3.4
+47161	Tennessee	Stewart	mentally_unhealthy_days	
+47163	Tennessee	Sullivan	mentally_unhealthy_days	4
+47165	Tennessee	Sumner	mentally_unhealthy_days	3.6
+47167	Tennessee	Tipton	mentally_unhealthy_days	2.9
+47169	Tennessee	Trousdale	mentally_unhealthy_days	
+47171	Tennessee	Unicoi	mentally_unhealthy_days	4.1
+47173	Tennessee	Union	mentally_unhealthy_days	2.2
+47175	Tennessee	Van Buren	mentally_unhealthy_days	4.1
+47177	Tennessee	Warren	mentally_unhealthy_days	5.7
+47179	Tennessee	Washington	mentally_unhealthy_days	3.8
+47181	Tennessee	Wayne	mentally_unhealthy_days	3.1
+47183	Tennessee	Weakley	mentally_unhealthy_days	2.8
+47185	Tennessee	White	mentally_unhealthy_days	2.8
+47187	Tennessee	Williamson	mentally_unhealthy_days	1.8
+47189	Tennessee	Wilson	mentally_unhealthy_days	3.5
+48001	Texas	Anderson	mentally_unhealthy_days	3.5
+48003	Texas	Andrews	mentally_unhealthy_days	1.8
+48005	Texas	Angelina	mentally_unhealthy_days	4
+48007	Texas	Aransas	mentally_unhealthy_days	1.9
+48009	Texas	Archer	mentally_unhealthy_days	2.9
+48011	Texas	Armstrong	mentally_unhealthy_days	
+48013	Texas	Atascosa	mentally_unhealthy_days	4.1
+48015	Texas	Austin	mentally_unhealthy_days	3.9
+48017	Texas	Bailey	mentally_unhealthy_days	
+48019	Texas	Bandera	mentally_unhealthy_days	
+48021	Texas	Bastrop	mentally_unhealthy_days	2.9
+48023	Texas	Baylor	mentally_unhealthy_days	
+48025	Texas	Bee	mentally_unhealthy_days	5.6
+48027	Texas	Bell	mentally_unhealthy_days	3.2
+48029	Texas	Bexar	mentally_unhealthy_days	3.3
+48031	Texas	Blanco	mentally_unhealthy_days	
+48033	Texas	Borden	mentally_unhealthy_days	
+48035	Texas	Bosque	mentally_unhealthy_days	0.8
+48037	Texas	Bowie	mentally_unhealthy_days	4.5
+48039	Texas	Brazoria	mentally_unhealthy_days	2.9
+48041	Texas	Brazos	mentally_unhealthy_days	3
+48043	Texas	Brewster	mentally_unhealthy_days	4.1
+48045	Texas	Briscoe	mentally_unhealthy_days	
+48047	Texas	Brooks	mentally_unhealthy_days	
+48049	Texas	Brown	mentally_unhealthy_days	3.2
+48051	Texas	Burleson	mentally_unhealthy_days	2.7
+48053	Texas	Burnet	mentally_unhealthy_days	2.9
+48055	Texas	Caldwell	mentally_unhealthy_days	2.5
+48057	Texas	Calhoun	mentally_unhealthy_days	3.1
+48059	Texas	Callahan	mentally_unhealthy_days	3.5
+48061	Texas	Cameron	mentally_unhealthy_days	3.3
+48063	Texas	Camp	mentally_unhealthy_days	
+48065	Texas	Carson	mentally_unhealthy_days	
+48067	Texas	Cass	mentally_unhealthy_days	2.7
+48069	Texas	Castro	mentally_unhealthy_days	
+48071	Texas	Chambers	mentally_unhealthy_days	3.1
+48073	Texas	Cherokee	mentally_unhealthy_days	3.3
+48075	Texas	Childress	mentally_unhealthy_days	
+48077	Texas	Clay	mentally_unhealthy_days	4.4
+48079	Texas	Cochran	mentally_unhealthy_days	
+48081	Texas	Coke	mentally_unhealthy_days	
+48083	Texas	Coleman	mentally_unhealthy_days	
+48085	Texas	Collin	mentally_unhealthy_days	2.6
+48087	Texas	Collingsworth	mentally_unhealthy_days	
+48089	Texas	Colorado	mentally_unhealthy_days	
+48091	Texas	Comal	mentally_unhealthy_days	2
+48093	Texas	Comanche	mentally_unhealthy_days	4
+48095	Texas	Concho	mentally_unhealthy_days	
+48097	Texas	Cooke	mentally_unhealthy_days	2.7
+48099	Texas	Coryell	mentally_unhealthy_days	4.7
+48101	Texas	Cottle	mentally_unhealthy_days	
+48103	Texas	Crane	mentally_unhealthy_days	
+48105	Texas	Crockett	mentally_unhealthy_days	
+48107	Texas	Crosby	mentally_unhealthy_days	3.6
+48109	Texas	Culberson	mentally_unhealthy_days	
+48111	Texas	Dallam	mentally_unhealthy_days	3.4
+48113	Texas	Dallas	mentally_unhealthy_days	3.2
+48115	Texas	Dawson	mentally_unhealthy_days	
+48117	Texas	Deaf Smith	mentally_unhealthy_days	
+48119	Texas	Delta	mentally_unhealthy_days	
+48121	Texas	Denton	mentally_unhealthy_days	2.6
+48123	Texas	DeWitt	mentally_unhealthy_days	4.2
+48125	Texas	Dickens	mentally_unhealthy_days	
+48127	Texas	Dimmit	mentally_unhealthy_days	
+48129	Texas	Donley	mentally_unhealthy_days	
+48131	Texas	Duval	mentally_unhealthy_days	
+48133	Texas	Eastland	mentally_unhealthy_days	4.3
+48135	Texas	Ector	mentally_unhealthy_days	3.9
+48137	Texas	Edwards	mentally_unhealthy_days	2.4
+48139	Texas	Ellis	mentally_unhealthy_days	3
+48141	Texas	El Paso	mentally_unhealthy_days	3.2
+48143	Texas	Erath	mentally_unhealthy_days	3
+48145	Texas	Falls	mentally_unhealthy_days	4
+48147	Texas	Fannin	mentally_unhealthy_days	
+48149	Texas	Fayette	mentally_unhealthy_days	
+48151	Texas	Fisher	mentally_unhealthy_days	
+48153	Texas	Floyd	mentally_unhealthy_days	
+48155	Texas	Foard	mentally_unhealthy_days	
+48157	Texas	Fort Bend	mentally_unhealthy_days	2.7
+48159	Texas	Franklin	mentally_unhealthy_days	0.8
+48161	Texas	Freestone	mentally_unhealthy_days	2.9
+48163	Texas	Frio	mentally_unhealthy_days	
+48165	Texas	Gaines	mentally_unhealthy_days	2.2
+48167	Texas	Galveston	mentally_unhealthy_days	2.8
+48169	Texas	Garza	mentally_unhealthy_days	
+48171	Texas	Gillespie	mentally_unhealthy_days	2.9
+48173	Texas	Glasscock	mentally_unhealthy_days	
+48175	Texas	Goliad	mentally_unhealthy_days	
+48177	Texas	Gonzales	mentally_unhealthy_days	3.4
+48179	Texas	Gray	mentally_unhealthy_days	
+48181	Texas	Grayson	mentally_unhealthy_days	5.3
+48183	Texas	Gregg	mentally_unhealthy_days	3.2
+48185	Texas	Grimes	mentally_unhealthy_days	4.1
+48187	Texas	Guadalupe	mentally_unhealthy_days	3.3
+48189	Texas	Hale	mentally_unhealthy_days	4.2
+48191	Texas	Hall	mentally_unhealthy_days	
+48193	Texas	Hamilton	mentally_unhealthy_days	
+48195	Texas	Hansford	mentally_unhealthy_days	
+48197	Texas	Hardeman	mentally_unhealthy_days	
+48199	Texas	Hardin	mentally_unhealthy_days	3.7
+48201	Texas	Harris	mentally_unhealthy_days	3.1
+48203	Texas	Harrison	mentally_unhealthy_days	4.4
+48205	Texas	Hartley	mentally_unhealthy_days	
+48207	Texas	Haskell	mentally_unhealthy_days	
+48209	Texas	Hays	mentally_unhealthy_days	3.5
+48211	Texas	Hemphill	mentally_unhealthy_days	
+48213	Texas	Henderson	mentally_unhealthy_days	4.7
+48215	Texas	Hidalgo	mentally_unhealthy_days	3.2
+48217	Texas	Hill	mentally_unhealthy_days	3.6
+48219	Texas	Hockley	mentally_unhealthy_days	4.5
+48221	Texas	Hood	mentally_unhealthy_days	3.2
+48223	Texas	Hopkins	mentally_unhealthy_days	
+48225	Texas	Houston	mentally_unhealthy_days	3.6
+48227	Texas	Howard	mentally_unhealthy_days	
+48229	Texas	Hudspeth	mentally_unhealthy_days	
+48231	Texas	Hunt	mentally_unhealthy_days	2.7
+48233	Texas	Hutchinson	mentally_unhealthy_days	3
+48235	Texas	Irion	mentally_unhealthy_days	
+48237	Texas	Jack	mentally_unhealthy_days	
+48239	Texas	Jackson	mentally_unhealthy_days	2.4
+48241	Texas	Jasper	mentally_unhealthy_days	2.5
+48243	Texas	Jeff Davis	mentally_unhealthy_days	1.4
+48245	Texas	Jefferson	mentally_unhealthy_days	3.6
+48247	Texas	Jim Hogg	mentally_unhealthy_days	
+48249	Texas	Jim Wells	mentally_unhealthy_days	
+48251	Texas	Johnson	mentally_unhealthy_days	4.6
+48253	Texas	Jones	mentally_unhealthy_days	
+48255	Texas	Karnes	mentally_unhealthy_days	2.2
+48257	Texas	Kaufman	mentally_unhealthy_days	4.4
+48259	Texas	Kendall	mentally_unhealthy_days	2.1
+48261	Texas	Kenedy	mentally_unhealthy_days	
+48263	Texas	Kent	mentally_unhealthy_days	
+48265	Texas	Kerr	mentally_unhealthy_days	3.5
+48267	Texas	Kimble	mentally_unhealthy_days	
+48269	Texas	King	mentally_unhealthy_days	
+48271	Texas	Kinney	mentally_unhealthy_days	
+48273	Texas	Kleberg	mentally_unhealthy_days	2.3
+48275	Texas	Knox	mentally_unhealthy_days	
+48277	Texas	Lamar	mentally_unhealthy_days	3.4
+48279	Texas	Lamb	mentally_unhealthy_days	1.1
+48281	Texas	Lampasas	mentally_unhealthy_days	2.5
+48283	Texas	La Salle	mentally_unhealthy_days	
+48285	Texas	Lavaca	mentally_unhealthy_days	0.9
+48287	Texas	Lee	mentally_unhealthy_days	1.5
+48289	Texas	Leon	mentally_unhealthy_days	3
+48291	Texas	Liberty	mentally_unhealthy_days	6.2
+48293	Texas	Limestone	mentally_unhealthy_days	2.7
+48295	Texas	Lipscomb	mentally_unhealthy_days	
+48297	Texas	Live Oak	mentally_unhealthy_days	
+48299	Texas	Llano	mentally_unhealthy_days	1.4
+48301	Texas	Loving	mentally_unhealthy_days	
+48303	Texas	Lubbock	mentally_unhealthy_days	3.1
+48305	Texas	Lynn	mentally_unhealthy_days	
+48307	Texas	McCulloch	mentally_unhealthy_days	3
+48309	Texas	McLennan	mentally_unhealthy_days	4.7
+48311	Texas	McMullen	mentally_unhealthy_days	
+48313	Texas	Madison	mentally_unhealthy_days	
+48315	Texas	Marion	mentally_unhealthy_days	
+48317	Texas	Martin	mentally_unhealthy_days	
+48319	Texas	Mason	mentally_unhealthy_days	
+48321	Texas	Matagorda	mentally_unhealthy_days	4.4
+48323	Texas	Maverick	mentally_unhealthy_days	3.6
+48325	Texas	Medina	mentally_unhealthy_days	2.7
+48327	Texas	Menard	mentally_unhealthy_days	
+48329	Texas	Midland	mentally_unhealthy_days	2.9
+48331	Texas	Milam	mentally_unhealthy_days	
+48333	Texas	Mills	mentally_unhealthy_days	
+48335	Texas	Mitchell	mentally_unhealthy_days	
+48337	Texas	Montague	mentally_unhealthy_days	
+48339	Texas	Montgomery	mentally_unhealthy_days	4
+48341	Texas	Moore	mentally_unhealthy_days	
+48343	Texas	Morris	mentally_unhealthy_days	
+48345	Texas	Motley	mentally_unhealthy_days	
+48347	Texas	Nacogdoches	mentally_unhealthy_days	5.4
+48349	Texas	Navarro	mentally_unhealthy_days	3.8
+48351	Texas	Newton	mentally_unhealthy_days	
+48353	Texas	Nolan	mentally_unhealthy_days	
+48355	Texas	Nueces	mentally_unhealthy_days	2.9
+48357	Texas	Ochiltree	mentally_unhealthy_days	
+48359	Texas	Oldham	mentally_unhealthy_days	
+48361	Texas	Orange	mentally_unhealthy_days	5.3
+48363	Texas	Palo Pinto	mentally_unhealthy_days	4.5
+48365	Texas	Panola	mentally_unhealthy_days	
+48367	Texas	Parker	mentally_unhealthy_days	3
+48369	Texas	Parmer	mentally_unhealthy_days	3.5
+48371	Texas	Pecos	mentally_unhealthy_days	3.6
+48373	Texas	Polk	mentally_unhealthy_days	4.7
+48375	Texas	Potter	mentally_unhealthy_days	3.5
+48377	Texas	Presidio	mentally_unhealthy_days	3.8
+48379	Texas	Rains	mentally_unhealthy_days	
+48381	Texas	Randall	mentally_unhealthy_days	3.2
+48383	Texas	Reagan	mentally_unhealthy_days	
+48385	Texas	Real	mentally_unhealthy_days	
+48387	Texas	Red River	mentally_unhealthy_days	2.9
+48389	Texas	Reeves	mentally_unhealthy_days	
+48391	Texas	Refugio	mentally_unhealthy_days	
+48393	Texas	Roberts	mentally_unhealthy_days	
+48395	Texas	Robertson	mentally_unhealthy_days	
+48397	Texas	Rockwall	mentally_unhealthy_days	3.8
+48399	Texas	Runnels	mentally_unhealthy_days	
+48401	Texas	Rusk	mentally_unhealthy_days	4.1
+48403	Texas	Sabine	mentally_unhealthy_days	3
+48405	Texas	San Augustine	mentally_unhealthy_days	
+48407	Texas	San Jacinto	mentally_unhealthy_days	
+48409	Texas	San Patricio	mentally_unhealthy_days	2.7
+48411	Texas	San Saba	mentally_unhealthy_days	
+48413	Texas	Schleicher	mentally_unhealthy_days	
+48415	Texas	Scurry	mentally_unhealthy_days	1.2
+48417	Texas	Shackelford	mentally_unhealthy_days	
+48419	Texas	Shelby	mentally_unhealthy_days	4.6
+48421	Texas	Sherman	mentally_unhealthy_days	
+48423	Texas	Smith	mentally_unhealthy_days	3.2
+48425	Texas	Somervell	mentally_unhealthy_days	
+48427	Texas	Starr	mentally_unhealthy_days	3.9
+48429	Texas	Stephens	mentally_unhealthy_days	
+48431	Texas	Sterling	mentally_unhealthy_days	
+48433	Texas	Stonewall	mentally_unhealthy_days	
+48435	Texas	Sutton	mentally_unhealthy_days	
+48437	Texas	Swisher	mentally_unhealthy_days	
+48439	Texas	Tarrant	mentally_unhealthy_days	3
+48441	Texas	Taylor	mentally_unhealthy_days	4.7
+48443	Texas	Terrell	mentally_unhealthy_days	0.4
+48445	Texas	Terry	mentally_unhealthy_days	4.1
+48447	Texas	Throckmorton	mentally_unhealthy_days	
+48449	Texas	Titus	mentally_unhealthy_days	3.4
+48451	Texas	Tom Green	mentally_unhealthy_days	2.7
+48453	Texas	Travis	mentally_unhealthy_days	3.2
+48455	Texas	Trinity	mentally_unhealthy_days	
+48457	Texas	Tyler	mentally_unhealthy_days	4.4
+48459	Texas	Upshur	mentally_unhealthy_days	1.9
+48461	Texas	Upton	mentally_unhealthy_days	
+48463	Texas	Uvalde	mentally_unhealthy_days	4.2
+48465	Texas	Val Verde	mentally_unhealthy_days	2.6
+48467	Texas	Van Zandt	mentally_unhealthy_days	3.6
+48469	Texas	Victoria	mentally_unhealthy_days	3.9
+48471	Texas	Walker	mentally_unhealthy_days	4.7
+48473	Texas	Waller	mentally_unhealthy_days	3.7
+48475	Texas	Ward	mentally_unhealthy_days	
+48477	Texas	Washington	mentally_unhealthy_days	2.1
+48479	Texas	Webb	mentally_unhealthy_days	2.9
+48481	Texas	Wharton	mentally_unhealthy_days	3.4
+48483	Texas	Wheeler	mentally_unhealthy_days	
+48485	Texas	Wichita	mentally_unhealthy_days	2.8
+48487	Texas	Wilbarger	mentally_unhealthy_days	2.5
+48489	Texas	Willacy	mentally_unhealthy_days	
+48491	Texas	Williamson	mentally_unhealthy_days	2.3
+48493	Texas	Wilson	mentally_unhealthy_days	2.6
+48495	Texas	Winkler	mentally_unhealthy_days	
+48497	Texas	Wise	mentally_unhealthy_days	3.8
+48499	Texas	Wood	mentally_unhealthy_days	5.3
+48501	Texas	Yoakum	mentally_unhealthy_days	
+48503	Texas	Young	mentally_unhealthy_days	
+48505	Texas	Zapata	mentally_unhealthy_days	2
+48507	Texas	Zavala	mentally_unhealthy_days	
+49001	Utah	Beaver	mentally_unhealthy_days	2
+49003	Utah	Box Elder	mentally_unhealthy_days	3.3
+49005	Utah	Cache	mentally_unhealthy_days	2.6
+49007	Utah	Carbon	mentally_unhealthy_days	4.3
+49009	Utah	Daggett	mentally_unhealthy_days	3.1
+49011	Utah	Davis	mentally_unhealthy_days	3
+49013	Utah	Duchesne	mentally_unhealthy_days	3.3
+49015	Utah	Emery	mentally_unhealthy_days	4
+49017	Utah	Garfield	mentally_unhealthy_days	2.2
+49019	Utah	Grand	mentally_unhealthy_days	4
+49021	Utah	Iron	mentally_unhealthy_days	3.3
+49023	Utah	Juab	mentally_unhealthy_days	2.5
+49025	Utah	Kane	mentally_unhealthy_days	4.8
+49027	Utah	Millard	mentally_unhealthy_days	3.5
+49029	Utah	Morgan	mentally_unhealthy_days	2.3
+49031	Utah	Piute	mentally_unhealthy_days	6
+49033	Utah	Rich	mentally_unhealthy_days	
+49035	Utah	Salt Lake	mentally_unhealthy_days	3.3
+49037	Utah	San Juan	mentally_unhealthy_days	3.1
+49039	Utah	Sanpete	mentally_unhealthy_days	3.6
+49041	Utah	Sevier	mentally_unhealthy_days	4.2
+49043	Utah	Summit	mentally_unhealthy_days	2.3
+49045	Utah	Tooele	mentally_unhealthy_days	3.6
+49047	Utah	Uintah	mentally_unhealthy_days	3.5
+49049	Utah	Utah	mentally_unhealthy_days	3.1
+49051	Utah	Wasatch	mentally_unhealthy_days	2.6
+49053	Utah	Washington	mentally_unhealthy_days	3
+49055	Utah	Wayne	mentally_unhealthy_days	2.9
+49057	Utah	Weber	mentally_unhealthy_days	3.5
+50001	Vermont	Addison	mentally_unhealthy_days	3.2
+50003	Vermont	Bennington	mentally_unhealthy_days	3.8
+50005	Vermont	Caledonia	mentally_unhealthy_days	3.6
+50007	Vermont	Chittenden	mentally_unhealthy_days	2.8
+50009	Vermont	Essex	mentally_unhealthy_days	4.4
+50011	Vermont	Franklin	mentally_unhealthy_days	3.5
+50013	Vermont	Grand Isle	mentally_unhealthy_days	2.8
+50015	Vermont	Lamoille	mentally_unhealthy_days	3.7
+50017	Vermont	Orange	mentally_unhealthy_days	3.3
+50019	Vermont	Orleans	mentally_unhealthy_days	3.5
+50021	Vermont	Rutland	mentally_unhealthy_days	3.5
+50023	Vermont	Washington	mentally_unhealthy_days	3
+50025	Vermont	Windham	mentally_unhealthy_days	3.7
+50027	Vermont	Windsor	mentally_unhealthy_days	3.2
+51001	Virginia	Accomack	mentally_unhealthy_days	3.4
+51003	Virginia	Albemarle	mentally_unhealthy_days	2.4
+51005	Virginia	Alleghany	mentally_unhealthy_days	4.5
+51007	Virginia	Amelia	mentally_unhealthy_days	4.7
+51009	Virginia	Amherst	mentally_unhealthy_days	2.7
+51011	Virginia	Appomattox	mentally_unhealthy_days	2.8
+51013	Virginia	Arlington	mentally_unhealthy_days	2.4
+51015	Virginia	Augusta	mentally_unhealthy_days	2.8
+51017	Virginia	Bath	mentally_unhealthy_days	
+51019	Virginia	Bedford	mentally_unhealthy_days	4
+51021	Virginia	Bland	mentally_unhealthy_days	
+51023	Virginia	Botetourt	mentally_unhealthy_days	2.7
+51025	Virginia	Brunswick	mentally_unhealthy_days	4.2
+51027	Virginia	Buchanan	mentally_unhealthy_days	5.5
+51029	Virginia	Buckingham	mentally_unhealthy_days	4.4
+51031	Virginia	Campbell	mentally_unhealthy_days	2.8
+51033	Virginia	Caroline	mentally_unhealthy_days	3
+51035	Virginia	Carroll	mentally_unhealthy_days	3.7
+51036	Virginia	Charles City	mentally_unhealthy_days	
+51037	Virginia	Charlotte	mentally_unhealthy_days	2.6
+51041	Virginia	Chesterfield	mentally_unhealthy_days	3.3
+51043	Virginia	Clarke	mentally_unhealthy_days	4
+51045	Virginia	Craig	mentally_unhealthy_days	4.9
+51047	Virginia	Culpeper	mentally_unhealthy_days	3.2
+51049	Virginia	Cumberland	mentally_unhealthy_days	3.1
+51051	Virginia	Dickenson	mentally_unhealthy_days	6.8
+51053	Virginia	Dinwiddie	mentally_unhealthy_days	3.2
+51057	Virginia	Essex	mentally_unhealthy_days	2.5
+51059	Virginia	Fairfax	mentally_unhealthy_days	2
+51061	Virginia	Fauquier	mentally_unhealthy_days	2.9
+51063	Virginia	Floyd	mentally_unhealthy_days	3.3
+51065	Virginia	Fluvanna	mentally_unhealthy_days	1.7
+51067	Virginia	Franklin	mentally_unhealthy_days	3.6
+51069	Virginia	Frederick	mentally_unhealthy_days	3.4
+51071	Virginia	Giles	mentally_unhealthy_days	2.7
+51073	Virginia	Gloucester	mentally_unhealthy_days	3.8
+51075	Virginia	Goochland	mentally_unhealthy_days	3.7
+51077	Virginia	Grayson	mentally_unhealthy_days	4.7
+51079	Virginia	Greene	mentally_unhealthy_days	3
+51081	Virginia	Greensville	mentally_unhealthy_days	3.5
+51083	Virginia	Halifax	mentally_unhealthy_days	3.8
+51085	Virginia	Hanover	mentally_unhealthy_days	3.3
+51087	Virginia	Henrico	mentally_unhealthy_days	2.9
+51089	Virginia	Henry	mentally_unhealthy_days	5.2
+51091	Virginia	Highland	mentally_unhealthy_days	
+51093	Virginia	Isle of Wight	mentally_unhealthy_days	2.7
+51095	Virginia	James City	mentally_unhealthy_days	2.7
+51097	Virginia	King and Queen	mentally_unhealthy_days	
+51099	Virginia	King George	mentally_unhealthy_days	1.1
+51101	Virginia	King William	mentally_unhealthy_days	2
+51103	Virginia	Lancaster	mentally_unhealthy_days	
+51105	Virginia	Lee	mentally_unhealthy_days	4.9
+51107	Virginia	Loudoun	mentally_unhealthy_days	2.4
+51109	Virginia	Louisa	mentally_unhealthy_days	3
+51111	Virginia	Lunenburg	mentally_unhealthy_days	4
+51113	Virginia	Madison	mentally_unhealthy_days	4.3
+51115	Virginia	Mathews	mentally_unhealthy_days	1
+51117	Virginia	Mecklenburg	mentally_unhealthy_days	3.5
+51119	Virginia	Middlesex	mentally_unhealthy_days	2.1
+51121	Virginia	Montgomery	mentally_unhealthy_days	3.4
+51125	Virginia	Nelson	mentally_unhealthy_days	1.9
+51127	Virginia	New Kent	mentally_unhealthy_days	4
+51131	Virginia	Northampton	mentally_unhealthy_days	4.2
+51133	Virginia	Northumberland	mentally_unhealthy_days	3.7
+51135	Virginia	Nottoway	mentally_unhealthy_days	2.9
+51137	Virginia	Orange	mentally_unhealthy_days	3.6
+51139	Virginia	Page	mentally_unhealthy_days	3.3
+51141	Virginia	Patrick	mentally_unhealthy_days	5.2
+51143	Virginia	Pittsylvania	mentally_unhealthy_days	3.7
+51145	Virginia	Powhatan	mentally_unhealthy_days	5
+51147	Virginia	Prince Edward	mentally_unhealthy_days	3.8
+51149	Virginia	Prince George	mentally_unhealthy_days	2.3
+51153	Virginia	Prince William	mentally_unhealthy_days	3
+51155	Virginia	Pulaski	mentally_unhealthy_days	5.3
+51157	Virginia	Rappahannock	mentally_unhealthy_days	
+51159	Virginia	Richmond	mentally_unhealthy_days	3.8
+51161	Virginia	Roanoke	mentally_unhealthy_days	3.3
+51163	Virginia	Rockbridge	mentally_unhealthy_days	1.4
+51165	Virginia	Rockingham	mentally_unhealthy_days	2.7
+51167	Virginia	Russell	mentally_unhealthy_days	5.3
+51169	Virginia	Scott	mentally_unhealthy_days	4.4
+51171	Virginia	Shenandoah	mentally_unhealthy_days	2.6
+51173	Virginia	Smyth	mentally_unhealthy_days	4.1
+51175	Virginia	Southampton	mentally_unhealthy_days	2.2
+51177	Virginia	Spotsylvania	mentally_unhealthy_days	2.7
+51179	Virginia	Stafford	mentally_unhealthy_days	3.6
+51181	Virginia	Surry	mentally_unhealthy_days	
+51183	Virginia	Sussex	mentally_unhealthy_days	3.1
+51185	Virginia	Tazewell	mentally_unhealthy_days	5.5
+51187	Virginia	Warren	mentally_unhealthy_days	4.5
+51191	Virginia	Washington	mentally_unhealthy_days	4.5
+51193	Virginia	Westmoreland	mentally_unhealthy_days	
+51195	Virginia	Wise	mentally_unhealthy_days	6.7
+51197	Virginia	Wythe	mentally_unhealthy_days	3.7
+51199	Virginia	York	mentally_unhealthy_days	2.3
+51510	Virginia	Alexandria City	mentally_unhealthy_days	2.1
+51515	Virginia	Bedford City	mentally_unhealthy_days	2.1
+51520	Virginia	Bristol City	mentally_unhealthy_days	
+51530	Virginia	Buena Vista City	mentally_unhealthy_days	
+51540	Virginia	Charlottesville City	mentally_unhealthy_days	2.3
+51550	Virginia	Chesapeake City	mentally_unhealthy_days	2.5
+51570	Virginia	Colonial Heights City	mentally_unhealthy_days	
+51580	Virginia	Covington City	mentally_unhealthy_days	
+51590	Virginia	Danville City	mentally_unhealthy_days	2.9
+51595	Virginia	Emporia City	mentally_unhealthy_days	
+51600	Virginia	Fairfax City	mentally_unhealthy_days	1.5
+51610	Virginia	Falls Church City	mentally_unhealthy_days	1.9
+51620	Virginia	Franklin City	mentally_unhealthy_days	2.6
+51630	Virginia	Fredericksburg City	mentally_unhealthy_days	4
+51640	Virginia	Galax City	mentally_unhealthy_days	
+51650	Virginia	Hampton City	mentally_unhealthy_days	3.6
+51660	Virginia	Harrisonburg City	mentally_unhealthy_days	2.8
+51670	Virginia	Hopewell City	mentally_unhealthy_days	3
+51678	Virginia	Lexington City	mentally_unhealthy_days	
+51680	Virginia	Lynchburg City	mentally_unhealthy_days	3.2
+51683	Virginia	Manassas City	mentally_unhealthy_days	2.3
+51685	Virginia	Manassas Park City	mentally_unhealthy_days	
+51690	Virginia	Martinsville City	mentally_unhealthy_days	
+51700	Virginia	Newport News City	mentally_unhealthy_days	4
+51710	Virginia	Norfolk City	mentally_unhealthy_days	3.1
+51720	Virginia	Norton City	mentally_unhealthy_days	
+51730	Virginia	Petersburg City	mentally_unhealthy_days	
+51735	Virginia	Poquoson City	mentally_unhealthy_days	
+51740	Virginia	Portsmouth City	mentally_unhealthy_days	4.4
+51750	Virginia	Radford City	mentally_unhealthy_days	3.4
+51760	Virginia	Richmond City	mentally_unhealthy_days	3.5
+51770	Virginia	Roanoke City	mentally_unhealthy_days	4.2
+51775	Virginia	Salem City	mentally_unhealthy_days	3.7
+51790	Virginia	Staunton City	mentally_unhealthy_days	
+51800	Virginia	Suffolk City	mentally_unhealthy_days	3.1
+51810	Virginia	Virginia Beach City	mentally_unhealthy_days	3.4
+51820	Virginia	Waynesboro City	mentally_unhealthy_days	
+51830	Virginia	Williamsburg City	mentally_unhealthy_days	
+51840	Virginia	Winchester City	mentally_unhealthy_days	
+53001	Washington	Adams	mentally_unhealthy_days	2.4
+53003	Washington	Asotin	mentally_unhealthy_days	3.5
+53005	Washington	Benton	mentally_unhealthy_days	3.1
+53007	Washington	Chelan	mentally_unhealthy_days	3
+53009	Washington	Clallam	mentally_unhealthy_days	3.5
+53011	Washington	Clark	mentally_unhealthy_days	3.3
+53013	Washington	Columbia	mentally_unhealthy_days	3.1
+53015	Washington	Cowlitz	mentally_unhealthy_days	4.1
+53017	Washington	Douglas	mentally_unhealthy_days	2.9
+53019	Washington	Ferry	mentally_unhealthy_days	3.1
+53021	Washington	Franklin	mentally_unhealthy_days	2.5
+53023	Washington	Garfield	mentally_unhealthy_days	2.9
+53025	Washington	Grant	mentally_unhealthy_days	2.8
+53027	Washington	Grays Harbor	mentally_unhealthy_days	4.3
+53029	Washington	Island	mentally_unhealthy_days	3.3
+53031	Washington	Jefferson	mentally_unhealthy_days	3.8
+53033	Washington	King	mentally_unhealthy_days	2.9
+53035	Washington	Kitsap	mentally_unhealthy_days	3.3
+53037	Washington	Kittitas	mentally_unhealthy_days	2.9
+53039	Washington	Klickitat	mentally_unhealthy_days	3.3
+53041	Washington	Lewis	mentally_unhealthy_days	3.4
+53043	Washington	Lincoln	mentally_unhealthy_days	3.4
+53045	Washington	Mason	mentally_unhealthy_days	4.5
+53047	Washington	Okanogan	mentally_unhealthy_days	3.8
+53049	Washington	Pacific	mentally_unhealthy_days	4.7
+53051	Washington	Pend Oreille	mentally_unhealthy_days	3.4
+53053	Washington	Pierce	mentally_unhealthy_days	3.6
+53055	Washington	San Juan	mentally_unhealthy_days	2.9
+53057	Washington	Skagit	mentally_unhealthy_days	3.8
+53059	Washington	Skamania	mentally_unhealthy_days	3.3
+53061	Washington	Snohomish	mentally_unhealthy_days	3.6
+53063	Washington	Spokane	mentally_unhealthy_days	3.7
+53065	Washington	Stevens	mentally_unhealthy_days	3.6
+53067	Washington	Thurston	mentally_unhealthy_days	3.5
+53069	Washington	Wahkiakum	mentally_unhealthy_days	4.8
+53071	Washington	Walla Walla	mentally_unhealthy_days	2.9
+53073	Washington	Whatcom	mentally_unhealthy_days	3.5
+53075	Washington	Whitman	mentally_unhealthy_days	3.2
+53077	Washington	Yakima	mentally_unhealthy_days	3.6
+54001	West Virginia	Barbour	mentally_unhealthy_days	3.6
+54003	West Virginia	Berkeley	mentally_unhealthy_days	4.1
+54005	West Virginia	Boone	mentally_unhealthy_days	5.8
+54007	West Virginia	Braxton	mentally_unhealthy_days	3.7
+54009	West Virginia	Brooke	mentally_unhealthy_days	3.9
+54011	West Virginia	Cabell	mentally_unhealthy_days	4.6
+54013	West Virginia	Calhoun	mentally_unhealthy_days	4.4
+54015	West Virginia	Clay	mentally_unhealthy_days	4.4
+54017	West Virginia	Doddridge	mentally_unhealthy_days	4.7
+54019	West Virginia	Fayette	mentally_unhealthy_days	5.1
+54021	West Virginia	Gilmer	mentally_unhealthy_days	4.9
+54023	West Virginia	Grant	mentally_unhealthy_days	4.1
+54025	West Virginia	Greenbrier	mentally_unhealthy_days	4
+54027	West Virginia	Hampshire	mentally_unhealthy_days	3.1
+54029	West Virginia	Hancock	mentally_unhealthy_days	4.5
+54031	West Virginia	Hardy	mentally_unhealthy_days	3.1
+54033	West Virginia	Harrison	mentally_unhealthy_days	4.3
+54035	West Virginia	Jackson	mentally_unhealthy_days	3.8
+54037	West Virginia	Jefferson	mentally_unhealthy_days	3.4
+54039	West Virginia	Kanawha	mentally_unhealthy_days	4.3
+54041	West Virginia	Lewis	mentally_unhealthy_days	5.7
+54043	West Virginia	Lincoln	mentally_unhealthy_days	5.2
+54045	West Virginia	Logan	mentally_unhealthy_days	6.1
+54047	West Virginia	McDowell	mentally_unhealthy_days	5.9
+54049	West Virginia	Marion	mentally_unhealthy_days	3.6
+54051	West Virginia	Marshall	mentally_unhealthy_days	4
+54053	West Virginia	Mason	mentally_unhealthy_days	4.2
+54055	West Virginia	Mercer	mentally_unhealthy_days	5.1
+54057	West Virginia	Mineral	mentally_unhealthy_days	3.4
+54059	West Virginia	Mingo	mentally_unhealthy_days	6.8
+54061	West Virginia	Monongalia	mentally_unhealthy_days	4.2
+54063	West Virginia	Monroe	mentally_unhealthy_days	4.8
+54065	West Virginia	Morgan	mentally_unhealthy_days	4.4
+54067	West Virginia	Nicholas	mentally_unhealthy_days	5
+54069	West Virginia	Ohio	mentally_unhealthy_days	3.8
+54071	West Virginia	Pendleton	mentally_unhealthy_days	2
+54073	West Virginia	Pleasants	mentally_unhealthy_days	4
+54075	West Virginia	Pocahontas	mentally_unhealthy_days	3.9
+54077	West Virginia	Preston	mentally_unhealthy_days	3.8
+54079	West Virginia	Putnam	mentally_unhealthy_days	3.6
+54081	West Virginia	Raleigh	mentally_unhealthy_days	4.7
+54083	West Virginia	Randolph	mentally_unhealthy_days	4.2
+54085	West Virginia	Ritchie	mentally_unhealthy_days	3.8
+54087	West Virginia	Roane	mentally_unhealthy_days	3.6
+54089	West Virginia	Summers	mentally_unhealthy_days	4
+54091	West Virginia	Taylor	mentally_unhealthy_days	3.8
+54093	West Virginia	Tucker	mentally_unhealthy_days	3.4
+54095	West Virginia	Tyler	mentally_unhealthy_days	2.7
+54097	West Virginia	Upshur	mentally_unhealthy_days	3.7
+54099	West Virginia	Wayne	mentally_unhealthy_days	6.1
+54101	West Virginia	Webster	mentally_unhealthy_days	4
+54103	West Virginia	Wetzel	mentally_unhealthy_days	3.6
+54105	West Virginia	Wirt	mentally_unhealthy_days	2.3
+54107	West Virginia	Wood	mentally_unhealthy_days	5.1
+54109	West Virginia	Wyoming	mentally_unhealthy_days	7.1
+55001	Wisconsin	Adams	mentally_unhealthy_days	3.7
+55003	Wisconsin	Ashland	mentally_unhealthy_days	3.7
+55005	Wisconsin	Barron	mentally_unhealthy_days	3.3
+55007	Wisconsin	Bayfield	mentally_unhealthy_days	3.4
+55009	Wisconsin	Brown	mentally_unhealthy_days	2.9
+55011	Wisconsin	Buffalo	mentally_unhealthy_days	2.7
+55013	Wisconsin	Burnett	mentally_unhealthy_days	2.3
+55015	Wisconsin	Calumet	mentally_unhealthy_days	2.7
+55017	Wisconsin	Chippewa	mentally_unhealthy_days	2.9
+55019	Wisconsin	Clark	mentally_unhealthy_days	2.3
+55021	Wisconsin	Columbia	mentally_unhealthy_days	2.6
+55023	Wisconsin	Crawford	mentally_unhealthy_days	2.6
+55025	Wisconsin	Dane	mentally_unhealthy_days	2.8
+55027	Wisconsin	Dodge	mentally_unhealthy_days	3.8
+55029	Wisconsin	Door	mentally_unhealthy_days	2.3
+55031	Wisconsin	Douglas	mentally_unhealthy_days	3.2
+55033	Wisconsin	Dunn	mentally_unhealthy_days	1.8
+55035	Wisconsin	Eau Claire	mentally_unhealthy_days	2.6
+55037	Wisconsin	Florence	mentally_unhealthy_days	2.4
+55039	Wisconsin	Fond du Lac	mentally_unhealthy_days	2.5
+55041	Wisconsin	Forest	mentally_unhealthy_days	2.5
+55043	Wisconsin	Grant	mentally_unhealthy_days	2.2
+55045	Wisconsin	Green	mentally_unhealthy_days	2.4
+55047	Wisconsin	Green Lake	mentally_unhealthy_days	4.1
+55049	Wisconsin	Iowa	mentally_unhealthy_days	2.9
+55051	Wisconsin	Iron	mentally_unhealthy_days	2.4
+55053	Wisconsin	Jackson	mentally_unhealthy_days	
+55055	Wisconsin	Jefferson	mentally_unhealthy_days	3.4
+55057	Wisconsin	Juneau	mentally_unhealthy_days	4.7
+55059	Wisconsin	Kenosha	mentally_unhealthy_days	3.9
+55061	Wisconsin	Kewaunee	mentally_unhealthy_days	2.6
+55063	Wisconsin	La Crosse	mentally_unhealthy_days	2.8
+55065	Wisconsin	Lafayette	mentally_unhealthy_days	1.9
+55067	Wisconsin	Langlade	mentally_unhealthy_days	3.6
+55069	Wisconsin	Lincoln	mentally_unhealthy_days	3.4
+55071	Wisconsin	Manitowoc	mentally_unhealthy_days	2.6
+55073	Wisconsin	Marathon	mentally_unhealthy_days	2.3
+55075	Wisconsin	Marinette	mentally_unhealthy_days	2.8
+55077	Wisconsin	Marquette	mentally_unhealthy_days	3
+55078	Wisconsin	Menominee	mentally_unhealthy_days	2.1
+55079	Wisconsin	Milwaukee	mentally_unhealthy_days	3.7
+55081	Wisconsin	Monroe	mentally_unhealthy_days	2.7
+55083	Wisconsin	Oconto	mentally_unhealthy_days	3.4
+55085	Wisconsin	Oneida	mentally_unhealthy_days	2.6
+55087	Wisconsin	Outagamie	mentally_unhealthy_days	2.3
+55089	Wisconsin	Ozaukee	mentally_unhealthy_days	2.7
+55091	Wisconsin	Pepin	mentally_unhealthy_days	3.8
+55093	Wisconsin	Pierce	mentally_unhealthy_days	2.2
+55095	Wisconsin	Polk	mentally_unhealthy_days	2.7
+55097	Wisconsin	Portage	mentally_unhealthy_days	2.5
+55099	Wisconsin	Price	mentally_unhealthy_days	2.9
+55101	Wisconsin	Racine	mentally_unhealthy_days	3.4
+55103	Wisconsin	Richland	mentally_unhealthy_days	3.8
+55105	Wisconsin	Rock	mentally_unhealthy_days	3.2
+55107	Wisconsin	Rusk	mentally_unhealthy_days	1.7
+55109	Wisconsin	St. Croix	mentally_unhealthy_days	1.9
+55111	Wisconsin	Sauk	mentally_unhealthy_days	2.9
+55113	Wisconsin	Sawyer	mentally_unhealthy_days	3.1
+55115	Wisconsin	Shawano	mentally_unhealthy_days	3.2
+55117	Wisconsin	Sheboygan	mentally_unhealthy_days	3.2
+55119	Wisconsin	Taylor	mentally_unhealthy_days	2.3
+55121	Wisconsin	Trempealeau	mentally_unhealthy_days	2.8
+55123	Wisconsin	Vernon	mentally_unhealthy_days	2.5
+55125	Wisconsin	Vilas	mentally_unhealthy_days	2
+55127	Wisconsin	Walworth	mentally_unhealthy_days	2.8
+55129	Wisconsin	Washburn	mentally_unhealthy_days	2.1
+55131	Wisconsin	Washington	mentally_unhealthy_days	2.5
+55133	Wisconsin	Waukesha	mentally_unhealthy_days	2.6
+55135	Wisconsin	Waupaca	mentally_unhealthy_days	2
+55137	Wisconsin	Waushara	mentally_unhealthy_days	3
+55139	Wisconsin	Winnebago	mentally_unhealthy_days	3
+55141	Wisconsin	Wood	mentally_unhealthy_days	3.5
+56001	Wyoming	Albany	mentally_unhealthy_days	3.1
+56003	Wyoming	Big Horn	mentally_unhealthy_days	3.1
+56005	Wyoming	Campbell	mentally_unhealthy_days	2.8
+56007	Wyoming	Carbon	mentally_unhealthy_days	3.1
+56009	Wyoming	Converse	mentally_unhealthy_days	2.8
+56011	Wyoming	Crook	mentally_unhealthy_days	3.3
+56013	Wyoming	Fremont	mentally_unhealthy_days	3.5
+56015	Wyoming	Goshen	mentally_unhealthy_days	3.5
+56017	Wyoming	Hot Springs	mentally_unhealthy_days	3.4
+56019	Wyoming	Johnson	mentally_unhealthy_days	3.3
+56021	Wyoming	Laramie	mentally_unhealthy_days	3.1
+56023	Wyoming	Lincoln	mentally_unhealthy_days	2.8
+56025	Wyoming	Natrona	mentally_unhealthy_days	3.5
+56027	Wyoming	Niobrara	mentally_unhealthy_days	4.1
+56029	Wyoming	Park	mentally_unhealthy_days	2.8
+56031	Wyoming	Platte	mentally_unhealthy_days	2.7
+56033	Wyoming	Sheridan	mentally_unhealthy_days	3.6
+56035	Wyoming	Sublette	mentally_unhealthy_days	2.6
+56037	Wyoming	Sweetwater	mentally_unhealthy_days	3.7
+56039	Wyoming	Teton	mentally_unhealthy_days	2.3
+56041	Wyoming	Uinta	mentally_unhealthy_days	3.4
+56043	Wyoming	Washakie	mentally_unhealthy_days	2.3
+56045	Wyoming	Weston	mentally_unhealthy_days	3

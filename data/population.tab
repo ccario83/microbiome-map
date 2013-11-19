@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	population
+1001	Alabama	Autauga	population	55267
+1003	Alabama	Baldwin	population	186717
+1005	Alabama	Barbour	population	27119
+1007	Alabama	Bibb	population	22766
+1009	Alabama	Blount	population	57677
+1011	Alabama	Bullock	population	10542
+1013	Alabama	Butler	population	20650
+1015	Alabama	Calhoun	population	117797
+1017	Alabama	Chambers	population	33939
+1019	Alabama	Cherokee	population	26057
+1021	Alabama	Chilton	population	43895
+1023	Alabama	Choctaw	population	13609
+1025	Alabama	Clarke	population	25695
+1027	Alabama	Clay	population	13862
+1029	Alabama	Cleburne	population	14835
+1031	Alabama	Coffee	population	50526
+1033	Alabama	Colbert	population	54512
+1035	Alabama	Conecuh	population	13105
+1037	Alabama	Coosa	population	10713
+1039	Alabama	Covington	population	38058
+1041	Alabama	Crenshaw	population	13911
+1043	Alabama	Cullman	population	80536
+1045	Alabama	Dale	population	50044
+1047	Alabama	Dallas	population	43332
+1049	Alabama	DeKalb	population	71375
+1051	Alabama	Elmore	population	80162
+1053	Alabama	Escambia	population	38095
+1055	Alabama	Etowah	population	104303
+1057	Alabama	Fayette	population	17182
+1059	Alabama	Franklin	population	31884
+1061	Alabama	Geneva	population	26781
+1063	Alabama	Greene	population	8921
+1065	Alabama	Hale	population	15421
+1067	Alabama	Henry	population	17412
+1069	Alabama	Houston	population	102369
+1071	Alabama	Jackson	population	53291
+1073	Alabama	Jefferson	population	658931
+1075	Alabama	Lamar	population	14311
+1077	Alabama	Lauderdale	population	92781
+1079	Alabama	Lawrence	population	34117
+1081	Alabama	Lee	population	143468
+1083	Alabama	Limestone	population	85369
+1085	Alabama	Lowndes	population	11147
+1087	Alabama	Macon	population	21182
+1089	Alabama	Madison	population	340111
+1091	Alabama	Marengo	population	20692
+1093	Alabama	Marion	population	30663
+1095	Alabama	Marshall	population	94166
+1097	Alabama	Mobile	population	412577
+1099	Alabama	Monroe	population	22760
+1101	Alabama	Montgomery	population	232032
+1103	Alabama	Morgan	population	119953
+1105	Alabama	Perry	population	10373
+1107	Alabama	Pickens	population	19349
+1109	Alabama	Pike	population	32915
+1111	Alabama	Randolph	population	22787
+1113	Alabama	Russell	population	54572
+1115	Alabama	St. Clair	population	84398
+1117	Alabama	Shelby	population	197936
+1119	Alabama	Sumter	population	13478
+1121	Alabama	Talladega	population	81664
+1123	Alabama	Tallapoosa	population	41623
+1125	Alabama	Tuscaloosa	population	197211
+1127	Alabama	Walker	population	66661
+1129	Alabama	Washington	population	17344
+1131	Alabama	Wilcox	population	11482
+1133	Alabama	Winston	population	24327
+2013	Alaska	Aleutians East	population	3172
+2016	Alaska	Aleutians West	population	5504
+2020	Alaska	Anchorage	population	295570
+2050	Alaska	Bethel	population	17416
+2060	Alaska	Bristol Bay	population	1030
+2068	Alaska	Denali	population	1855
+2070	Alaska	Dillingham	population	4975
+2090	Alaska	Fairbanks North Star	population	99192
+2100	Alaska	Haines	population	2554
+2110	Alaska	Juneau	population	32164
+2122	Alaska	Kenai Peninsula	population	56293
+2130	Alaska	Ketchikan Gateway	population	13593
+2150	Alaska	Kodiak Island	population	13872
+2164	Alaska	Lake and Peninsula	population	1668
+2170	Alaska	Matanuska-Susitna	population	91946
+2180	Alaska	Nome	population	9856
+2185	Alaska	North Slope	population	9503
+2188	Alaska	Northwest Arctic	population	7733
+2201	Alaska	Prince of Wales-Outer Ketchikan	population	5737
+2220	Alaska	Sitka	population	8952
+2232	Alaska	Skagway-Hoonah-Angoon	population	3047
+2240	Alaska	Southeast Fairbanks	population	7132
+2261	Alaska	Valdez-Cordova	population	9770
+2270	Alaska	Wade Hampton	population	7662
+2280	Alaska	Wrangell-Petersburg	population	6220
+2282	Alaska	Yakutat	population	646
+2290	Alaska	Yukon-Koyukuk	population	5656
+4001	Arizona	Apache	population	72401
+4003	Arizona	Cochise	population	133289
+4005	Arizona	Coconino	population	134511
+4007	Arizona	Gila	population	53144
+4009	Arizona	Graham	population	37147
+4011	Arizona	Greenlee	population	8606
+4012	Arizona	La Paz	population	20419
+4013	Arizona	Maricopa	population	3880244
+4015	Arizona	Mohave	population	202351
+4017	Arizona	Navajo	population	107398
+4019	Arizona	Pima	population	989569
+4021	Arizona	Pinal	population	382992
+4023	Arizona	Santa Cruz	population	47676
+4025	Arizona	Yavapai	population	211888
+4027	Arizona	Yuma	population	200870
+5001	Arkansas	Arkansas	population	18892
+5003	Arkansas	Ashley	population	21692
+5005	Arkansas	Baxter	population	41536
+5007	Arkansas	Benton	population	227556
+5009	Arkansas	Boone	population	37051
+5011	Arkansas	Bradley	population	11482
+5013	Arkansas	Calhoun	population	5144
+5015	Arkansas	Carroll	population	27512
+5017	Arkansas	Chicot	population	11721
+5019	Arkansas	Clark	population	22858
+5021	Arkansas	Clay	population	15880
+5023	Arkansas	Cleburne	population	25901
+5025	Arkansas	Cleveland	population	8672
+5027	Arkansas	Columbia	population	24401
+5029	Arkansas	Conway	population	21270
+5031	Arkansas	Craighead	population	98315
+5033	Arkansas	Crawford	population	61944
+5035	Arkansas	Crittenden	population	50525
+5037	Arkansas	Cross	population	17781
+5039	Arkansas	Dallas	population	8072
+5041	Arkansas	Desha	population	12763
+5043	Arkansas	Drew	population	18467
+5045	Arkansas	Faulkner	population	116342
+5047	Arkansas	Franklin	population	18047
+5049	Arkansas	Fulton	population	12296
+5051	Arkansas	Garland	population	97124
+5053	Arkansas	Grant	population	17988
+5055	Arkansas	Greene	population	42720
+5057	Arkansas	Hempstead	population	22541
+5059	Arkansas	Hot Spring	population	32881
+5061	Arkansas	Howard	population	13886
+5063	Arkansas	Independence	population	36861
+5065	Arkansas	Izard	population	13419
+5067	Arkansas	Jackson	population	17866
+5069	Arkansas	Jefferson	population	76246
+5071	Arkansas	Johnson	population	25742
+5073	Arkansas	Lafayette	population	7516
+5075	Arkansas	Lawrence	population	17178
+5077	Arkansas	Lee	population	10326
+5079	Arkansas	Lincoln	population	14006
+5081	Arkansas	Little River	population	12996
+5083	Arkansas	Logan	population	22290
+5085	Arkansas	Lonoke	population	69341
+5087	Arkansas	Madison	population	15776
+5089	Arkansas	Marion	population	16573
+5091	Arkansas	Miller	population	43759
+5093	Arkansas	Mississippi	population	45966
+5095	Arkansas	Monroe	population	8075
+5097	Arkansas	Montgomery	population	9433
+5099	Arkansas	Nevada	population	9017
+5101	Arkansas	Newton	population	8264
+5103	Arkansas	Ouachita	population	25880
+5105	Arkansas	Perry	population	10405
+5107	Arkansas	Phillips	population	21442
+5109	Arkansas	Pike	population	11259
+5111	Arkansas	Poinsett	population	24514
+5113	Arkansas	Polk	population	20610
+5115	Arkansas	Pope	population	62331
+5117	Arkansas	Prairie	population	8618
+5119	Arkansas	Pulaski	population	386299
+5121	Arkansas	Randolph	population	18017
+5123	Arkansas	St. Francis	population	27970
+5125	Arkansas	Saline	population	109526
+5127	Arkansas	Scott	population	11272
+5129	Arkansas	Searcy	population	8036
+5131	Arkansas	Sebastian	population	127127
+5133	Arkansas	Sevier	population	17293
+5135	Arkansas	Sharp	population	17380
+5137	Arkansas	Stone	population	12603
+5139	Arkansas	Union	population	41427
+5141	Arkansas	Van Buren	population	17083
+5143	Arkansas	Washington	population	207521
+5145	Arkansas	White	population	78167
+5147	Arkansas	Woodruff	population	7229
+5149	Arkansas	Yell	population	22060
+6001	California	Alameda	population	1529875
+6003	California	Alpine	population	1102
+6005	California	Amador	population	37953
+6007	California	Butte	population	220266
+6009	California	Calaveras	population	45052
+6011	California	Colusa	population	21549
+6013	California	Contra Costa	population	1066096
+6015	California	Del Norte	population	28659
+6017	California	El Dorado	population	180938
+6019	California	Fresno	population	942904
+6021	California	Glenn	population	28128
+6023	California	Humboldt	population	134761
+6025	California	Imperial	population	177057
+6027	California	Inyo	population	18478
+6029	California	Kern	population	851710
+6031	California	Kings	population	153765
+6033	California	Lake	population	64323
+6035	California	Lassen	population	34200
+6037	California	Los Angeles	population	9889056
+6039	California	Madera	population	152925
+6041	California	Marin	population	255031
+6043	California	Mariposa	population	18191
+6045	California	Mendocino	population	87553
+6047	California	Merced	population	259898
+6049	California	Modoc	population	9517
+6051	California	Mono	population	14309
+6053	California	Monterey	population	421898
+6055	California	Napa	population	138088
+6057	California	Nevada	population	98612
+6059	California	Orange	population	3055745
+6061	California	Placer	population	357138
+6063	California	Plumas	population	19765
+6065	California	Riverside	population	2239620
+6067	California	Sacramento	population	1436105
+6069	California	San Benito	population	56072
+6071	California	San Bernardino	population	2065377
+6073	California	San Diego	population	3140069
+6075	California	San Francisco	population	812826
+6077	California	San Joaquin	population	696214
+6079	California	San Luis Obispo	population	271969
+6081	California	San Mateo	population	727209
+6083	California	Santa Barbara	population	426878
+6085	California	Santa Clara	population	1809378
+6087	California	Santa Cruz	population	264298
+6089	California	Shasta	population	177774
+6091	California	Sierra	population	3113
+6093	California	Siskiyou	population	44507
+6095	California	Solano	population	416471
+6097	California	Sonoma	population	488116
+6099	California	Stanislaus	population	518522
+6101	California	Sutter	population	94919
+6103	California	Tehama	population	63601
+6105	California	Trinity	population	13723
+6107	California	Tulare	population	449253
+6109	California	Tuolumne	population	54953
+6111	California	Ventura	population	831771
+6113	California	Yolo	population	202054
+6115	California	Yuba	population	72578
+8001	Colorado	Adams	population	451443
+8003	Colorado	Alamosa	population	15710
+8005	Colorado	Arapahoe	population	584948
+8007	Colorado	Archuleta	population	12013
+8009	Colorado	Baca	population	3795
+8011	Colorado	Bent	population	6250
+8013	Colorado	Boulder	population	299378
+8014	Colorado	Broomfield	population	57352
+8015	Colorado	Chaffee	population	17932
+8017	Colorado	Cheyenne	population	1876
+8019	Colorado	Clear Creek	population	9012
+8021	Colorado	Conejos	population	8291
+8023	Colorado	Costilla	population	3662
+8025	Colorado	Crowley	population	5736
+8027	Colorado	Custer	population	4205
+8029	Colorado	Delta	population	30451
+8031	Colorado	Denver	population	619968
+8033	Colorado	Dolores	population	2056
+8035	Colorado	Douglas	population	292167
+8037	Colorado	Eagle	population	51854
+8039	Colorado	Elbert	population	23174
+8041	Colorado	El Paso	population	636963
+8043	Colorado	Fremont	population	47347
+8045	Colorado	Garfield	population	56270
+8047	Colorado	Gilpin	population	5467
+8049	Colorado	Grand	population	14548
+8051	Colorado	Gunnison	population	15408
+8053	Colorado	Hinsdale	population	830
+8055	Colorado	Huerfano	population	6520
+8057	Colorado	Jackson	population	1370
+8059	Colorado	Jefferson	population	539884
+8061	Colorado	Kiowa	population	1433
+8063	Colorado	Kit Carson	population	8142
+8065	Colorado	Lake	population	7427
+8067	Colorado	La Plata	population	51917
+8069	Colorado	Larimer	population	305525
+8071	Colorado	Las Animas	population	15037
+8073	Colorado	Lincoln	population	5454
+8075	Colorado	Logan	population	22619
+8077	Colorado	Mesa	population	147083
+8079	Colorado	Mineral	population	708
+8081	Colorado	Moffat	population	13451
+8083	Colorado	Montezuma	population	25442
+8085	Colorado	Montrose	population	41011
+8087	Colorado	Morgan	population	28175
+8089	Colorado	Otero	population	18865
+8091	Colorado	Ouray	population	4356
+8093	Colorado	Park	population	16089
+8095	Colorado	Phillips	population	4399
+8097	Colorado	Pitkin	population	17102
+8099	Colorado	Prowers	population	12549
+8101	Colorado	Pueblo	population	160545
+8103	Colorado	Rio Blanco	population	6782
+8105	Colorado	Rio Grande	population	11956
+8107	Colorado	Routt	population	23239
+8109	Colorado	Saguache	population	6228
+8111	Colorado	San Juan	population	692
+8113	Colorado	San Miguel	population	7490
+8115	Colorado	Sedgwick	population	2364
+8117	Colorado	Summit	population	27972
+8119	Colorado	Teller	population	23356
+8121	Colorado	Washington	population	4770
+8123	Colorado	Weld	population	258638
+8125	Colorado	Yuma	population	10100
+9001	Connecticut	Fairfield	population	925899
+9003	Connecticut	Hartford	population	894705
+9005	Connecticut	Litchfield	population	188789
+9007	Connecticut	Middlesex	population	166043
+9009	Connecticut	New Haven	population	861113
+9011	Connecticut	New London	population	273502
+9013	Connecticut	Tolland	population	152507
+9015	Connecticut	Windham	population	118151
+10001	Delaware	Kent	population	164834
+10003	Delaware	New Castle	population	541971
+10005	Delaware	Sussex	population	200330
+11001	District of Columbia	District of Columbia	population	617996
+12001	Florida	Alachua	population	249365
+12003	Florida	Baker	population	27154
+12005	Florida	Bay	population	169856
+12007	Florida	Bradford	population	28255
+12009	Florida	Brevard	population	543566
+12011	Florida	Broward	population	1780172
+12013	Florida	Calhoun	population	14750
+12015	Florida	Charlotte	population	160511
+12017	Florida	Citrus	population	140031
+12019	Florida	Clay	population	192370
+12021	Florida	Collier	population	328134
+12023	Florida	Columbia	population	67485
+12027	Florida	DeSoto	population	34894
+12029	Florida	Dixie	population	16486
+12031	Florida	Duval	population	870709
+12033	Florida	Escambia	population	299114
+12035	Florida	Flagler	population	97376
+12037	Florida	Franklin	population	11596
+12039	Florida	Gadsden	population	46151
+12041	Florida	Gilchrist	population	17004
+12043	Florida	Glades	population	12635
+12045	Florida	Gulf	population	15844
+12047	Florida	Hamilton	population	14671
+12049	Florida	Hardee	population	27887
+12051	Florida	Hendry	population	39089
+12053	Florida	Hernando	population	173094
+12055	Florida	Highlands	population	98630
+12057	Florida	Hillsborough	population	1267775
+12059	Florida	Holmes	population	19873
+12061	Florida	Indian River	population	138894
+12063	Florida	Jackson	population	49292
+12065	Florida	Jefferson	population	14658
+12067	Florida	Lafayette	population	8942
+12069	Florida	Lake	population	301019
+12071	Florida	Lee	population	631330
+12073	Florida	Leon	population	277971
+12075	Florida	Levy	population	40156
+12077	Florida	Liberty	population	8314
+12079	Florida	Madison	population	19115
+12081	Florida	Manatee	population	327142
+12083	Florida	Marion	population	332529
+12085	Florida	Martin	population	147495
+12086	Florida	Miami-Dade	population	2554766
+12087	Florida	Monroe	population	73873
+12089	Florida	Nassau	population	74195
+12091	Florida	Okaloosa	population	183482
+12093	Florida	Okeechobee	population	40140
+12095	Florida	Orange	population	1169107
+12097	Florida	Osceola	population	276163
+12099	Florida	Palm Beach	population	1335187
+12101	Florida	Pasco	population	466457
+12103	Florida	Pinellas	population	917398
+12105	Florida	Polk	population	609492
+12107	Florida	Putnam	population	74041
+12109	Florida	St. Johns	population	195823
+12111	Florida	St. Lucie	population	280379
+12113	Florida	Santa Rosa	population	154104
+12115	Florida	Sarasota	population	382213
+12117	Florida	Seminole	population	425071
+12119	Florida	Sumter	population	97756
+12121	Florida	Suwannee	population	41972
+12123	Florida	Taylor	population	22691
+12125	Florida	Union	population	15388
+12127	Florida	Volusia	population	494804
+12129	Florida	Wakulla	population	30978
+12131	Florida	Walton	population	55793
+12133	Florida	Washington	population	24935
+13001	Georgia	Appling	population	18420
+13003	Georgia	Atkinson	population	8413
+13005	Georgia	Bacon	population	11203
+13007	Georgia	Baker	population	3085
+13009	Georgia	Baldwin	population	44417
+13011	Georgia	Banks	population	18251
+13013	Georgia	Barrow	population	69912
+13015	Georgia	Bartow	population	100421
+13017	Georgia	Ben Hill	population	17673
+13019	Georgia	Berrien	population	19372
+13021	Georgia	Bibb	population	156433
+13023	Georgia	Bleckley	population	13290
+13025	Georgia	Brantley	population	18367
+13027	Georgia	Brooks	population	15889
+13029	Georgia	Bryan	population	31377
+13031	Georgia	Bulloch	population	72881
+13033	Georgia	Burke	population	23504
+13035	Georgia	Butts	population	23504
+13037	Georgia	Calhoun	population	6740
+13039	Georgia	Camden	population	50410
+13043	Georgia	Candler	population	11276
+13045	Georgia	Carroll	population	111159
+13047	Georgia	Catoosa	population	64530
+13049	Georgia	Charlton	population	13422
+13051	Georgia	Chatham	population	271544
+13053	Georgia	Chattahoochee	population	11749
+13055	Georgia	Chattooga	population	25736
+13057	Georgia	Cherokee	population	218286
+13059	Georgia	Clarke	population	117344
+13061	Georgia	Clay	population	3111
+13063	Georgia	Clayton	population	261532
+13065	Georgia	Clinch	population	6777
+13067	Georgia	Cobb	population	697553
+13069	Georgia	Coffee	population	42864
+13071	Georgia	Colquitt	population	45645
+13073	Georgia	Columbia	population	128112
+13075	Georgia	Cook	population	17125
+13077	Georgia	Coweta	population	129629
+13079	Georgia	Crawford	population	12567
+13081	Georgia	Crisp	population	23710
+13083	Georgia	Dade	population	16570
+13085	Georgia	Dawson	population	22459
+13087	Georgia	Decatur	population	27694
+13089	Georgia	DeKalb	population	699893
+13091	Georgia	Dodge	population	21894
+13093	Georgia	Dooly	population	14587
+13095	Georgia	Dougherty	population	94788
+13097	Georgia	Douglas	population	133355
+13099	Georgia	Early	population	10778
+13101	Georgia	Echols	population	4129
+13103	Georgia	Effingham	population	52655
+13105	Georgia	Elbert	population	19886
+13107	Georgia	Emanuel	population	22567
+13109	Georgia	Evans	population	11065
+13111	Georgia	Fannin	population	23708
+13113	Georgia	Fayette	population	107784
+13115	Georgia	Floyd	population	95989
+13117	Georgia	Forsyth	population	181840
+13119	Georgia	Franklin	population	21864
+13121	Georgia	Fulton	population	949599
+13123	Georgia	Gilmer	population	28324
+13125	Georgia	Glascock	population	3084
+13127	Georgia	Glynn	population	80386
+13129	Georgia	Gordon	population	55621
+13131	Georgia	Grady	population	25255
+13133	Georgia	Greene	population	16031
+13135	Georgia	Gwinnett	population	824941
+13137	Georgia	Habersham	population	43279
+13139	Georgia	Hall	population	183052
+13141	Georgia	Hancock	population	9400
+13143	Georgia	Haralson	population	28638
+13145	Georgia	Harris	population	32265
+13147	Georgia	Hart	population	25305
+13149	Georgia	Heard	population	11744
+13151	Georgia	Henry	population	207360
+13153	Georgia	Houston	population	143925
+13155	Georgia	Irwin	population	9679
+13157	Georgia	Jackson	population	61257
+13159	Georgia	Jasper	population	13885
+13161	Georgia	Jeff Davis	population	15162
+13163	Georgia	Jefferson	population	16675
+13165	Georgia	Jenkins	population	8148
+13167	Georgia	Johnson	population	9975
+13169	Georgia	Jones	population	28516
+13171	Georgia	Lamar	population	18194
+13173	Georgia	Lanier	population	10404
+13175	Georgia	Laurens	population	47949
+13177	Georgia	Lee	population	28575
+13179	Georgia	Liberty	population	65451
+13181	Georgia	Lincoln	population	7862
+13183	Georgia	Long	population	15136
+13185	Georgia	Lowndes	population	111885
+13187	Georgia	Lumpkin	population	30031
+13189	Georgia	McDuffie	population	21673
+13191	Georgia	McIntosh	population	14170
+13193	Georgia	Macon	population	14405
+13195	Georgia	Madison	population	27921
+13197	Georgia	Marion	population	8746
+13199	Georgia	Meriwether	population	21617
+13201	Georgia	Miller	population	6141
+13205	Georgia	Mitchell	population	23462
+13207	Georgia	Monroe	population	26625
+13209	Georgia	Montgomery	population	9065
+13211	Georgia	Morgan	population	17961
+13213	Georgia	Murray	population	39557
+13215	Georgia	Muscogee	population	194107
+13217	Georgia	Newton	population	100814
+13219	Georgia	Oconee	population	33366
+13221	Georgia	Oglethorpe	population	14686
+13223	Georgia	Paulding	population	143542
+13225	Georgia	Peach	population	27823
+13227	Georgia	Pickens	population	29415
+13229	Georgia	Pierce	population	18770
+13231	Georgia	Pike	population	17751
+13233	Georgia	Polk	population	41211
+13235	Georgia	Pulaski	population	11735
+13237	Georgia	Putnam	population	21345
+13239	Georgia	Quitman	population	2464
+13241	Georgia	Rabun	population	16274
+13243	Georgia	Randolph	population	7558
+13245	Georgia	Richmond	population	201217
+13247	Georgia	Rockdale	population	85765
+13249	Georgia	Schley	population	5020
+13251	Georgia	Screven	population	14367
+13253	Georgia	Seminole	population	8791
+13255	Georgia	Spalding	population	64033
+13257	Georgia	Stephens	population	25960
+13259	Georgia	Stewart	population	5910
+13261	Georgia	Sumter	population	32511
+13263	Georgia	Talbot	population	6751
+13265	Georgia	Taliaferro	population	1703
+13267	Georgia	Tattnall	population	25688
+13269	Georgia	Taylor	population	8499
+13271	Georgia	Telfair	population	16057
+13273	Georgia	Terrell	population	9319
+13275	Georgia	Thomas	population	44702
+13277	Georgia	Tift	population	41461
+13279	Georgia	Toombs	population	27434
+13281	Georgia	Towns	population	10611
+13283	Georgia	Treutlen	population	6825
+13285	Georgia	Troup	population	67764
+13287	Georgia	Turner	population	8875
+13289	Georgia	Twiggs	population	8779
+13291	Georgia	Union	population	21134
+13293	Georgia	Upson	population	26977
+13295	Georgia	Walker	population	68848
+13297	Georgia	Walton	population	84580
+13299	Georgia	Ware	population	36474
+13301	Georgia	Warren	population	5721
+13303	Georgia	Washington	population	21111
+13305	Georgia	Wayne	population	30327
+13307	Georgia	Webster	population	2791
+13309	Georgia	Wheeler	population	7939
+13311	Georgia	White	population	27273
+13313	Georgia	Whitfield	population	103184
+13315	Georgia	Wilcox	population	9298
+13317	Georgia	Wilkes	population	10211
+13319	Georgia	Wilkinson	population	9444
+13321	Georgia	Worth	population	21921
+15001	Hawaii	Hawaii	population	186738
+15003	Hawaii	Honolulu	population	963607
+15005	Hawaii	Kalawao	population	90
+15007	Hawaii	Kauai	population	67701
+15009	Hawaii	Maui	population	156674
+16001	Idaho	Ada	population	400842
+16003	Idaho	Adams	population	3977
+16005	Idaho	Bannock	population	83691
+16007	Idaho	Bear Lake	population	6001
+16009	Idaho	Benewah	population	9209
+16011	Idaho	Bingham	population	45952
+16013	Idaho	Blaine	population	21199
+16015	Idaho	Boise	population	7025
+16017	Idaho	Bonner	population	40808
+16019	Idaho	Bonneville	population	105772
+16021	Idaho	Boundary	population	10804
+16023	Idaho	Butte	population	2822
+16025	Idaho	Camas	population	1124
+16027	Idaho	Canyon	population	191694
+16029	Idaho	Caribou	population	6850
+16031	Idaho	Cassia	population	23186
+16033	Idaho	Clark	population	949
+16035	Idaho	Clearwater	population	8702
+16037	Idaho	Custer	population	4333
+16039	Idaho	Elmore	population	26346
+16041	Idaho	Franklin	population	12850
+16043	Idaho	Fremont	population	13128
+16045	Idaho	Gem	population	16665
+16047	Idaho	Gooding	population	15475
+16049	Idaho	Idaho	population	16446
+16051	Idaho	Jefferson	population	26301
+16053	Idaho	Jerome	population	22682
+16055	Idaho	Kootenai	population	141132
+16057	Idaho	Latah	population	37704
+16059	Idaho	Lemhi	population	7967
+16061	Idaho	Lewis	population	3822
+16063	Idaho	Lincoln	population	5186
+16065	Idaho	Madison	population	37864
+16067	Idaho	Minidoka	population	20155
+16069	Idaho	Nez Perce	population	39543
+16071	Idaho	Oneida	population	4215
+16073	Idaho	Owyhee	population	11438
+16075	Idaho	Payette	population	22624
+16077	Idaho	Power	population	7766
+16079	Idaho	Shoshone	population	12672
+16081	Idaho	Teton	population	10166
+16083	Idaho	Twin Falls	population	78005
+16085	Idaho	Valley	population	9638
+16087	Idaho	Washington	population	10255
+17001	Illinois	Adams	population	67159
+17003	Illinois	Alexander	population	8036
+17005	Illinois	Bond	population	17727
+17007	Illinois	Boone	population	54367
+17009	Illinois	Brown	population	6878
+17011	Illinois	Bureau	population	34606
+17013	Illinois	Calhoun	population	5048
+17015	Illinois	Carroll	population	15163
+17017	Illinois	Cass	population	13579
+17019	Illinois	Champaign	population	201685
+17021	Illinois	Christian	population	34865
+17023	Illinois	Clark	population	16161
+17025	Illinois	Clay	population	13728
+17027	Illinois	Clinton	population	37956
+17029	Illinois	Coles	population	53916
+17031	Illinois	Cook	population	5217080
+17033	Illinois	Crawford	population	19857
+17035	Illinois	Cumberland	population	11096
+17037	Illinois	DeKalb	population	104743
+17039	Illinois	De Witt	population	16578
+17041	Illinois	Douglas	population	19836
+17043	Illinois	DuPage	population	923222
+17045	Illinois	Edgar	population	18393
+17047	Illinois	Edwards	population	6618
+17049	Illinois	Effingham	population	34280
+17051	Illinois	Fayette	population	22133
+17053	Illinois	Ford	population	13976
+17055	Illinois	Franklin	population	39627
+17057	Illinois	Fulton	population	36962
+17059	Illinois	Gallatin	population	5528
+17061	Illinois	Greene	population	13798
+17063	Illinois	Grundy	population	50130
+17065	Illinois	Hamilton	population	8425
+17067	Illinois	Hancock	population	19031
+17069	Illinois	Hardin	population	4281
+17071	Illinois	Henderson	population	7196
+17073	Illinois	Henry	population	50328
+17075	Illinois	Iroquois	population	29475
+17077	Illinois	Jackson	population	60365
+17079	Illinois	Jasper	population	9717
+17081	Illinois	Jefferson	population	38713
+17083	Illinois	Jersey	population	22916
+17085	Illinois	Jo Daviess	population	22712
+17087	Illinois	Johnson	population	12654
+17089	Illinois	Kane	population	520271
+17091	Illinois	Kankakee	population	113698
+17093	Illinois	Kendall	population	116631
+17095	Illinois	Knox	population	52917
+17097	Illinois	Lake	population	706222
+17099	Illinois	LaSalle	population	113518
+17101	Illinois	Lawrence	population	16745
+17103	Illinois	Lee	population	35467
+17105	Illinois	Livingston	population	38885
+17107	Illinois	Logan	population	30140
+17109	Illinois	McDonough	population	32582
+17111	Illinois	McHenry	population	308944
+17113	Illinois	McLean	population	170556
+17115	Illinois	Macon	population	110730
+17117	Illinois	Macoupin	population	47687
+17119	Illinois	Madison	population	268459
+17121	Illinois	Marion	population	39335
+17123	Illinois	Marshall	population	12533
+17125	Illinois	Mason	population	14485
+17127	Illinois	Massac	population	15442
+17129	Illinois	Menard	population	12703
+17131	Illinois	Mercer	population	16363
+17133	Illinois	Monroe	population	33306
+17135	Illinois	Montgomery	population	29848
+17137	Illinois	Morgan	population	35543
+17139	Illinois	Moultrie	population	14824
+17141	Illinois	Ogle	population	53115
+17143	Illinois	Peoria	population	186834
+17145	Illinois	Perry	population	22264
+17147	Illinois	Piatt	population	16675
+17149	Illinois	Pike	population	16398
+17151	Illinois	Pope	population	4370
+17153	Illinois	Pulaski	population	6046
+17155	Illinois	Putnam	population	5968
+17157	Illinois	Randolph	population	33361
+17159	Illinois	Richland	population	16230
+17161	Illinois	Rock Island	population	147556
+17163	Illinois	St. Clair	population	270259
+17165	Illinois	Saline	population	24981
+17167	Illinois	Sangamon	population	198844
+17169	Illinois	Schuyler	population	7479
+17171	Illinois	Scott	population	5271
+17173	Illinois	Shelby	population	22212
+17175	Illinois	Stark	population	5667
+17177	Illinois	Stephenson	population	47563
+17179	Illinois	Tazewell	population	135661
+17181	Illinois	Union	population	17708
+17183	Illinois	Vermilion	population	81509
+17185	Illinois	Wabash	population	11834
+17187	Illinois	Warren	population	17818
+17189	Illinois	Washington	population	14533
+17191	Illinois	Wayne	population	16651
+17193	Illinois	White	population	14663
+17195	Illinois	Whiteside	population	58388
+17197	Illinois	Will	population	681545
+17199	Illinois	Williamson	population	66622
+17201	Illinois	Winnebago	population	293993
+17203	Illinois	Woodford	population	38861
+18001	Indiana	Adams	population	34370
+18003	Indiana	Allen	population	358327
+18005	Indiana	Bartholomew	population	77870
+18007	Indiana	Benton	population	8853
+18009	Indiana	Blackford	population	12594
+18011	Indiana	Boone	population	57481
+18013	Indiana	Brown	population	15099
+18015	Indiana	Carroll	population	20031
+18017	Indiana	Cass	population	38828
+18019	Indiana	Clark	population	111570
+18021	Indiana	Clay	population	26894
+18023	Indiana	Clinton	population	33104
+18025	Indiana	Crawford	population	10658
+18027	Indiana	Daviess	population	31978
+18029	Indiana	Dearborn	population	50113
+18031	Indiana	Decatur	population	25944
+18033	Indiana	DeKalb	population	42462
+18035	Indiana	Delaware	population	117660
+18037	Indiana	Dubois	population	42199
+18039	Indiana	Elkhart	population	198941
+18041	Indiana	Fayette	population	24285
+18043	Indiana	Floyd	population	74989
+18045	Indiana	Fountain	population	17213
+18047	Indiana	Franklin	population	23041
+18049	Indiana	Fulton	population	20872
+18051	Indiana	Gibson	population	33505
+18053	Indiana	Grant	population	69793
+18055	Indiana	Greene	population	32895
+18057	Indiana	Hamilton	population	282810
+18059	Indiana	Hancock	population	70529
+18061	Indiana	Harrison	population	39336
+18063	Indiana	Hendricks	population	147979
+18065	Indiana	Henry	population	49264
+18067	Indiana	Howard	population	82800
+18069	Indiana	Huntington	population	37211
+18071	Indiana	Jackson	population	42966
+18073	Indiana	Jasper	population	33416
+18075	Indiana	Jay	population	21310
+18077	Indiana	Jefferson	population	32249
+18079	Indiana	Jennings	population	28196
+18081	Indiana	Johnson	population	141656
+18083	Indiana	Knox	population	38500
+18085	Indiana	Kosciusko	population	77336
+18087	Indiana	LaGrange	population	37382
+18089	Indiana	Lake	population	495558
+18091	Indiana	LaPorte	population	111374
+18093	Indiana	Lawrence	population	46195
+18095	Indiana	Madison	population	131235
+18097	Indiana	Marion	population	911296
+18099	Indiana	Marshall	population	47050
+18101	Indiana	Martin	population	10332
+18103	Indiana	Miami	population	36611
+18105	Indiana	Monroe	population	139799
+18107	Indiana	Montgomery	population	38441
+18109	Indiana	Morgan	population	69464
+18111	Indiana	Newton	population	14161
+18113	Indiana	Noble	population	47553
+18115	Indiana	Ohio	population	6065
+18117	Indiana	Orange	population	19969
+18119	Indiana	Owen	population	21499
+18121	Indiana	Parke	population	17237
+18123	Indiana	Perry	population	19354
+18125	Indiana	Pike	population	12728
+18127	Indiana	Porter	population	165537
+18129	Indiana	Posey	population	25720
+18131	Indiana	Pulaski	population	13363
+18133	Indiana	Putnam	population	37917
+18135	Indiana	Randolph	population	26105
+18137	Indiana	Ripley	population	28759
+18139	Indiana	Rush	population	17287
+18141	Indiana	St. Joseph	population	266700
+18143	Indiana	Scott	population	23987
+18145	Indiana	Shelby	population	44337
+18147	Indiana	Spencer	population	20961
+18149	Indiana	Starke	population	23199
+18151	Indiana	Steuben	population	34028
+18153	Indiana	Sullivan	population	21356
+18155	Indiana	Switzerland	population	10569
+18157	Indiana	Tippecanoe	population	174724
+18159	Indiana	Tipton	population	15788
+18161	Indiana	Union	population	7513
+18163	Indiana	Vanderburgh	population	180305
+18165	Indiana	Vermillion	population	16231
+18167	Indiana	Vigo	population	108182
+18169	Indiana	Wabash	population	32608
+18171	Indiana	Warren	population	8431
+18173	Indiana	Warrick	population	60275
+18175	Indiana	Washington	population	28147
+18177	Indiana	Wayne	population	68643
+18179	Indiana	Wells	population	27734
+18181	Indiana	White	population	24694
+18183	Indiana	Whitley	population	33392
+19001	Iowa	Adair	population	7527
+19003	Iowa	Adams	population	4004
+19005	Iowa	Allamakee	population	14274
+19007	Iowa	Appanoose	population	12797
+19009	Iowa	Audubon	population	6034
+19011	Iowa	Benton	population	26092
+19013	Iowa	Black Hawk	population	131549
+19015	Iowa	Boone	population	26255
+19017	Iowa	Bremer	population	24281
+19019	Iowa	Buchanan	population	20923
+19021	Iowa	Buena Vista	population	20406
+19023	Iowa	Butler	population	14939
+19025	Iowa	Calhoun	population	9626
+19027	Iowa	Carroll	population	20861
+19029	Iowa	Cass	population	13817
+19031	Iowa	Cedar	population	18400
+19033	Iowa	Cerro Gordo	population	43938
+19035	Iowa	Cherokee	population	12069
+19037	Iowa	Chickasaw	population	12449
+19039	Iowa	Clarke	population	9356
+19041	Iowa	Clay	population	16590
+19043	Iowa	Clayton	population	18014
+19045	Iowa	Clinton	population	49015
+19047	Iowa	Crawford	population	17277
+19049	Iowa	Dallas	population	69444
+19051	Iowa	Davis	population	8787
+19053	Iowa	Decatur	population	8284
+19055	Iowa	Delaware	population	17658
+19057	Iowa	Des Moines	population	40169
+19059	Iowa	Dickinson	population	16899
+19061	Iowa	Dubuque	population	94648
+19063	Iowa	Emmet	population	10104
+19065	Iowa	Fayette	population	20973
+19067	Iowa	Floyd	population	16070
+19069	Iowa	Franklin	population	10730
+19071	Iowa	Fremont	population	7367
+19073	Iowa	Greene	population	9285
+19075	Iowa	Grundy	population	12459
+19077	Iowa	Guthrie	population	10901
+19079	Iowa	Hamilton	population	15538
+19081	Iowa	Hancock	population	11287
+19083	Iowa	Hardin	population	17426
+19085	Iowa	Harrison	population	14828
+19087	Iowa	Henry	population	20284
+19089	Iowa	Howard	population	9565
+19091	Iowa	Humboldt	population	9802
+19093	Iowa	Ida	population	7086
+19095	Iowa	Iowa	population	16320
+19097	Iowa	Jackson	population	19796
+19099	Iowa	Jasper	population	36547
+19101	Iowa	Jefferson	population	16815
+19103	Iowa	Johnson	population	133038
+19105	Iowa	Jones	population	20608
+19107	Iowa	Keokuk	population	10378
+19109	Iowa	Kossuth	population	15396
+19111	Iowa	Lee	population	35621
+19113	Iowa	Linn	population	213875
+19115	Iowa	Louisa	population	11369
+19117	Iowa	Lucas	population	8847
+19119	Iowa	Lyon	population	11670
+19121	Iowa	Madison	population	15779
+19123	Iowa	Mahaska	population	22530
+19125	Iowa	Marion	population	33335
+19127	Iowa	Marshall	population	40980
+19129	Iowa	Mills	population	14992
+19131	Iowa	Mitchell	population	10783
+19133	Iowa	Monona	population	9239
+19135	Iowa	Monroe	population	8056
+19137	Iowa	Montgomery	population	10640
+19139	Iowa	Muscatine	population	42815
+19141	Iowa	O'Brien	population	14210
+19143	Iowa	Osceola	population	6357
+19145	Iowa	Page	population	15987
+19147	Iowa	Palo Alto	population	9419
+19149	Iowa	Plymouth	population	24896
+19151	Iowa	Pocahontas	population	7180
+19153	Iowa	Polk	population	437399
+19155	Iowa	Pottawattamie	population	93518
+19157	Iowa	Poweshiek	population	18804
+19159	Iowa	Ringgold	population	5119
+19161	Iowa	Sac	population	10241
+19163	Iowa	Scott	population	167095
+19165	Iowa	Shelby	population	12039
+19167	Iowa	Sioux	population	33900
+19169	Iowa	Story	population	89663
+19171	Iowa	Tama	population	17695
+19173	Iowa	Taylor	population	6305
+19175	Iowa	Union	population	12545
+19177	Iowa	Van Buren	population	7510
+19179	Iowa	Wapello	population	35421
+19181	Iowa	Warren	population	46732
+19183	Iowa	Washington	population	21855
+19185	Iowa	Wayne	population	6309
+19187	Iowa	Webster	population	37660
+19189	Iowa	Winnebago	population	10789
+19191	Iowa	Winneshiek	population	21024
+19193	Iowa	Woodbury	population	102509
+19195	Iowa	Worth	population	7544
+19197	Iowa	Wright	population	13068
+20001	Kansas	Allen	population	13331
+20003	Kansas	Anderson	population	8070
+20005	Kansas	Atchison	population	16793
+20007	Kansas	Barber	population	4888
+20009	Kansas	Barton	population	27841
+20011	Kansas	Bourbon	population	14985
+20013	Kansas	Brown	population	10010
+20015	Kansas	Butler	population	65817
+20017	Kansas	Chase	population	2817
+20019	Kansas	Chautauqua	population	3584
+20021	Kansas	Cherokee	population	21385
+20023	Kansas	Cheyenne	population	2718
+20025	Kansas	Clark	population	2143
+20027	Kansas	Clay	population	8573
+20029	Kansas	Cloud	population	9365
+20031	Kansas	Coffey	population	8533
+20033	Kansas	Comanche	population	1884
+20035	Kansas	Cowley	population	36272
+20037	Kansas	Crawford	population	39220
+20039	Kansas	Decatur	population	2915
+20041	Kansas	Dickinson	population	19739
+20043	Kansas	Doniphan	population	7945
+20045	Kansas	Douglas	population	112211
+20047	Kansas	Edwards	population	3020
+20049	Kansas	Elk	population	2811
+20051	Kansas	Ellis	population	28742
+20053	Kansas	Ellsworth	population	6483
+20055	Kansas	Finney	population	37083
+20057	Kansas	Ford	population	34568
+20059	Kansas	Franklin	population	25931
+20061	Kansas	Geary	population	35323
+20063	Kansas	Gove	population	2697
+20065	Kansas	Graham	population	2641
+20067	Kansas	Grant	population	7964
+20069	Kansas	Gray	population	6113
+20071	Kansas	Greeley	population	1258
+20073	Kansas	Greenwood	population	6644
+20075	Kansas	Hamilton	population	2666
+20077	Kansas	Harper	population	5993
+20079	Kansas	Harvey	population	34846
+20081	Kansas	Haskell	population	4285
+20083	Kansas	Hodgeman	population	1966
+20085	Kansas	Jackson	population	13433
+20087	Kansas	Jefferson	population	18941
+20089	Kansas	Jewell	population	3096
+20091	Kansas	Johnson	population	552991
+20093	Kansas	Kearny	population	3987
+20095	Kansas	Kingman	population	7853
+20097	Kansas	Kiowa	population	2549
+20099	Kansas	Labette	population	21511
+20101	Kansas	Lane	population	1749
+20103	Kansas	Leavenworth	population	77176
+20105	Kansas	Lincoln	population	3215
+20107	Kansas	Linn	population	9612
+20109	Kansas	Logan	population	2783
+20111	Kansas	Lyon	population	33764
+20113	Kansas	McPherson	population	29241
+20115	Kansas	Marion	population	12538
+20117	Kansas	Marshall	population	10005
+20119	Kansas	Meade	population	4531
+20121	Kansas	Miami	population	32715
+20123	Kansas	Mitchell	population	6295
+20125	Kansas	Montgomery	population	34911
+20127	Kansas	Morris	population	5888
+20129	Kansas	Morton	population	3198
+20131	Kansas	Nemaha	population	10113
+20133	Kansas	Neosho	population	16449
+20135	Kansas	Ness	population	3120
+20137	Kansas	Norton	population	5635
+20139	Kansas	Osage	population	16306
+20141	Kansas	Osborne	population	3847
+20143	Kansas	Ottawa	population	6119
+20145	Kansas	Pawnee	population	7011
+20147	Kansas	Phillips	population	5555
+20149	Kansas	Pottawatomie	population	21920
+20151	Kansas	Pratt	population	9676
+20153	Kansas	Rawlins	population	2512
+20155	Kansas	Reno	population	64607
+20157	Kansas	Republic	population	4907
+20159	Kansas	Rice	population	10076
+20161	Kansas	Riley	population	72997
+20163	Kansas	Rooks	population	5182
+20165	Kansas	Rush	population	3238
+20167	Kansas	Russell	population	6956
+20169	Kansas	Saline	population	55844
+20171	Kansas	Scott	population	4910
+20173	Kansas	Sedgwick	population	501076
+20175	Kansas	Seward	population	23328
+20177	Kansas	Shawnee	population	178941
+20179	Kansas	Sheridan	population	2552
+20181	Kansas	Sherman	population	6054
+20183	Kansas	Smith	population	3834
+20185	Kansas	Stafford	population	4371
+20187	Kansas	Stanton	population	2250
+20189	Kansas	Stevens	population	5613
+20191	Kansas	Sumner	population	23787
+20193	Kansas	Thomas	population	7977
+20195	Kansas	Trego	population	2930
+20197	Kansas	Wabaunsee	population	7026
+20199	Kansas	Wallace	population	1527
+20201	Kansas	Washington	population	5845
+20203	Kansas	Wichita	population	2276
+20205	Kansas	Wilson	population	9300
+20207	Kansas	Woodson	population	3292
+20209	Kansas	Wyandotte	population	158224
+21001	Kentucky	Adair	population	18686
+21003	Kentucky	Allen	population	20140
+21005	Kentucky	Anderson	population	21644
+21007	Kentucky	Ballard	population	8253
+21009	Kentucky	Barren	population	42269
+21011	Kentucky	Bath	population	11742
+21013	Kentucky	Bell	population	28725
+21015	Kentucky	Boone	population	121737
+21017	Kentucky	Bourbon	population	19998
+21019	Kentucky	Boyd	population	49466
+21021	Kentucky	Boyle	population	28550
+21023	Kentucky	Bracken	population	8513
+21025	Kentucky	Breathitt	population	13842
+21027	Kentucky	Breckinridge	population	20256
+21029	Kentucky	Bullitt	population	75109
+21031	Kentucky	Butler	population	12827
+21033	Kentucky	Caldwell	population	12973
+21035	Kentucky	Calloway	population	37544
+21037	Kentucky	Campbell	population	90940
+21039	Kentucky	Carlisle	population	5048
+21041	Kentucky	Carroll	population	11013
+21043	Kentucky	Carter	population	27586
+21045	Kentucky	Casey	population	15909
+21047	Kentucky	Christian	population	73591
+21049	Kentucky	Clark	population	35537
+21051	Kentucky	Clay	population	21720
+21053	Kentucky	Clinton	population	10201
+21055	Kentucky	Crittenden	population	9336
+21057	Kentucky	Cumberland	population	6832
+21059	Kentucky	Daviess	population	97234
+21061	Kentucky	Edmonson	population	12090
+21063	Kentucky	Elliott	population	7707
+21065	Kentucky	Estill	population	14666
+21067	Kentucky	Fayette	population	301569
+21069	Kentucky	Fleming	population	14512
+21071	Kentucky	Floyd	population	39207
+21073	Kentucky	Franklin	population	49393
+21075	Kentucky	Fulton	population	6755
+21077	Kentucky	Gallatin	population	8612
+21079	Kentucky	Garrard	population	16885
+21081	Kentucky	Grant	population	24816
+21083	Kentucky	Graves	population	37519
+21085	Kentucky	Grayson	population	25957
+21087	Kentucky	Green	population	11220
+21089	Kentucky	Greenup	population	36865
+21091	Kentucky	Hancock	population	8572
+21093	Kentucky	Hardin	population	107456
+21095	Kentucky	Harlan	population	29060
+21097	Kentucky	Harrison	population	18777
+21099	Kentucky	Hart	population	18235
+21101	Kentucky	Henderson	population	46406
+21103	Kentucky	Henry	population	15443
+21105	Kentucky	Hickman	population	4784
+21107	Kentucky	Hopkins	population	46909
+21109	Kentucky	Jackson	population	13443
+21111	Kentucky	Jefferson	population	746906
+21113	Kentucky	Jessamine	population	49046
+21115	Kentucky	Johnson	population	23396
+21117	Kentucky	Kenton	population	160406
+21119	Kentucky	Knott	population	16289
+21121	Kentucky	Knox	population	31888
+21123	Kentucky	Larue	population	14315
+21125	Kentucky	Laurel	population	59355
+21127	Kentucky	Lawrence	population	16035
+21129	Kentucky	Lee	population	7817
+21131	Kentucky	Leslie	population	11233
+21133	Kentucky	Letcher	population	24446
+21135	Kentucky	Lewis	population	13878
+21137	Kentucky	Lincoln	population	24731
+21139	Kentucky	Livingston	population	9531
+21141	Kentucky	Logan	population	26792
+21143	Kentucky	Lyon	population	8317
+21145	Kentucky	McCracken	population	65864
+21147	Kentucky	McCreary	population	18285
+21149	Kentucky	McLean	population	9527
+21151	Kentucky	Madison	population	84188
+21153	Kentucky	Magoffin	population	13216
+21155	Kentucky	Marion	population	19982
+21157	Kentucky	Marshall	population	31308
+21159	Kentucky	Martin	population	12751
+21161	Kentucky	Mason	population	17653
+21163	Kentucky	Meade	population	29562
+21165	Kentucky	Menifee	population	6317
+21167	Kentucky	Mercer	population	21282
+21169	Kentucky	Metcalfe	population	10073
+21171	Kentucky	Monroe	population	10937
+21173	Kentucky	Montgomery	population	26743
+21175	Kentucky	Morgan	population	13943
+21177	Kentucky	Muhlenberg	population	31272
+21179	Kentucky	Nelson	population	43974
+21181	Kentucky	Nicholas	population	7071
+21183	Kentucky	Ohio	population	24103
+21185	Kentucky	Oldham	population	60642
+21187	Kentucky	Owen	population	10858
+21189	Kentucky	Owsley	population	4820
+21191	Kentucky	Pendleton	population	14698
+21193	Kentucky	Perry	population	28751
+21195	Kentucky	Pike	population	64904
+21197	Kentucky	Powell	population	12651
+21199	Kentucky	Pulaski	population	63657
+21201	Kentucky	Robertson	population	2229
+21203	Kentucky	Rockcastle	population	17069
+21205	Kentucky	Rowan	population	23582
+21207	Kentucky	Russell	population	17610
+21209	Kentucky	Scott	population	48149
+21211	Kentucky	Shelby	population	43068
+21213	Kentucky	Simpson	population	17378
+21215	Kentucky	Spencer	population	17378
+21217	Kentucky	Taylor	population	24731
+21219	Kentucky	Todd	population	12463
+21221	Kentucky	Trigg	population	14305
+21223	Kentucky	Trimble	population	8725
+21225	Kentucky	Union	population	15067
+21227	Kentucky	Warren	population	115517
+21229	Kentucky	Washington	population	11846
+21231	Kentucky	Wayne	population	20969
+21233	Kentucky	Webster	population	13668
+21235	Kentucky	Whitley	population	35823
+21237	Kentucky	Wolfe	population	7342
+21239	Kentucky	Woodford	population	24945
+22001	Louisiana	Acadia	population	61982
+22003	Louisiana	Allen	population	25757
+22005	Louisiana	Ascension	population	109985
+22007	Louisiana	Assumption	population	23153
+22009	Louisiana	Avoyelles	population	41895
+22011	Louisiana	Beauregard	population	36129
+22013	Louisiana	Bienville	population	14335
+22015	Louisiana	Bossier	population	119732
+22017	Louisiana	Caddo	population	257051
+22019	Louisiana	Calcasieu	population	194092
+22021	Louisiana	Caldwell	population	10057
+22023	Louisiana	Cameron	population	6730
+22025	Louisiana	Catahoula	population	10325
+22027	Louisiana	Claiborne	population	16914
+22029	Louisiana	Concordia	population	20876
+22031	Louisiana	De Soto	population	26812
+22033	Louisiana	East Baton Rouge	population	441438
+22035	Louisiana	East Carroll	population	7630
+22037	Louisiana	East Feliciana	population	20117
+22039	Louisiana	Evangeline	population	33896
+22041	Louisiana	Franklin	population	20785
+22043	Louisiana	Grant	population	22131
+22045	Louisiana	Iberia	population	73400
+22047	Louisiana	Iberville	population	33230
+22049	Louisiana	Jackson	population	16323
+22051	Louisiana	Jefferson	population	432640
+22053	Louisiana	Jefferson Davis	population	31694
+22055	Louisiana	Lafayette	population	224390
+22057	Louisiana	Lafourche	population	96666
+22059	Louisiana	La Salle	population	14985
+22061	Louisiana	Lincoln	population	46856
+22063	Louisiana	Livingston	population	130251
+22065	Louisiana	Madison	population	12004
+22067	Louisiana	Morehouse	population	27608
+22069	Louisiana	Natchitoches	population	39442
+22071	Louisiana	Orleans	population	360740
+22073	Louisiana	Ouachita	population	154919
+22075	Louisiana	Plaquemines	population	23628
+22077	Louisiana	Pointe Coupee	population	22703
+22079	Louisiana	Rapides	population	132374
+22081	Louisiana	Red River	population	8890
+22083	Louisiana	Richland	population	20938
+22085	Louisiana	Sabine	population	24526
+22087	Louisiana	St. Bernard	population	39558
+22089	Louisiana	St. Charles	population	52517
+22091	Louisiana	St. Helena	population	10949
+22093	Louisiana	St. James	population	21784
+22095	Louisiana	St. John the Baptist	population	45221
+22097	Louisiana	St. Landry	population	83552
+22099	Louisiana	St. Martin	population	52917
+22101	Louisiana	St. Mary	population	54210
+22103	Louisiana	St. Tammany	population	236785
+22105	Louisiana	Tangipahoa	population	122571
+22107	Louisiana	Tensas	population	5066
+22109	Louisiana	Terrebonne	population	111917
+22111	Louisiana	Union	population	22732
+22113	Louisiana	Vermilion	population	58276
+22115	Louisiana	Vernon	population	52107
+22117	Louisiana	Washington	population	47139
+22119	Louisiana	Webster	population	41288
+22121	Louisiana	West Baton Rouge	population	24109
+22123	Louisiana	West Carroll	population	11569
+22125	Louisiana	West Feliciana	population	15460
+22127	Louisiana	Winn	population	15080
+23001	Maine	Androscoggin	population	107398
+23003	Maine	Aroostook	population	71482
+23005	Maine	Cumberland	population	282401
+23007	Maine	Franklin	population	30746
+23009	Maine	Hancock	population	54578
+23011	Maine	Kennebec	population	121935
+23013	Maine	Knox	population	39708
+23015	Maine	Lincoln	population	34224
+23017	Maine	Oxford	population	57695
+23019	Maine	Penobscot	population	153786
+23021	Maine	Piscataquis	population	17419
+23023	Maine	Sagadahoc	population	35207
+23025	Maine	Somerset	population	52028
+23027	Maine	Waldo	population	38745
+23029	Maine	Washington	population	32637
+23031	Maine	York	population	198199
+24001	Maryland	Allegany	population	74692
+24003	Maryland	Anne Arundel	population	544403
+24005	Maryland	Baltimore	population	809941
+24009	Maryland	Calvert	population	89256
+24011	Maryland	Caroline	population	32985
+24013	Maryland	Carroll	population	167288
+24015	Maryland	Cecil	population	101694
+24017	Maryland	Charles	population	149130
+24019	Maryland	Dorchester	population	32640
+24021	Maryland	Frederick	population	236745
+24023	Maryland	Garrett	population	30051
+24025	Maryland	Harford	population	246489
+24027	Maryland	Howard	population	293142
+24029	Maryland	Kent	population	20204
+24031	Maryland	Montgomery	population	989794
+24033	Maryland	Prince George's	population	871233
+24035	Maryland	Queen Anne's	population	48354
+24037	Maryland	St. Mary's	population	107484
+24039	Maryland	Somerset	population	26339
+24041	Maryland	Talbot	population	38025
+24043	Maryland	Washington	population	148203
+24045	Maryland	Wicomico	population	99190
+24047	Maryland	Worcester	population	51514
+24510	Maryland	Baltimore City	population	619493
+25001	Massachusetts	Barnstable	population	215769
+25003	Massachusetts	Berkshire	population	130458
+25005	Massachusetts	Bristol	population	548922
+25007	Massachusetts	Dukes	population	16766
+25009	Massachusetts	Essex	population	748930
+25011	Massachusetts	Franklin	population	71599
+25013	Massachusetts	Hampden	population	463783
+25015	Massachusetts	Hampshire	population	157822
+25017	Massachusetts	Middlesex	population	1518171
+25019	Massachusetts	Nantucket	population	10142
+25021	Massachusetts	Norfolk	population	675436
+25023	Massachusetts	Plymouth	population	497579
+25025	Massachusetts	Suffolk	population	730932
+25027	Massachusetts	Worcester	population	801227
+26001	Michigan	Alcona	population	10800
+26003	Michigan	Alger	population	9513
+26005	Michigan	Allegan	population	111234
+26007	Michigan	Alpena	population	29386
+26009	Michigan	Antrim	population	23316
+26011	Michigan	Arenac	population	15649
+26013	Michigan	Baraga	population	8808
+26015	Michigan	Barry	population	58820
+26017	Michigan	Bay	population	107110
+26019	Michigan	Benzie	population	17443
+26021	Michigan	Berrien	population	156941
+26023	Michigan	Branch	population	45197
+26025	Michigan	Calhoun	population	135490
+26027	Michigan	Cass	population	51988
+26029	Michigan	Charlevoix	population	25998
+26031	Michigan	Cheboygan	population	25918
+26033	Michigan	Chippewa	population	38797
+26035	Michigan	Clare	population	31033
+26037	Michigan	Clinton	population	75469
+26039	Michigan	Crawford	population	14014
+26041	Michigan	Delta	population	37105
+26043	Michigan	Dickinson	population	26185
+26045	Michigan	Eaton	population	108056
+26047	Michigan	Emmet	population	32848
+26049	Michigan	Genesee	population	422080
+26051	Michigan	Gladwin	population	25851
+26053	Michigan	Gogebic	population	16281
+26055	Michigan	Grand Traverse	population	88349
+26057	Michigan	Gratiot	population	42145
+26059	Michigan	Hillsdale	population	46514
+26061	Michigan	Houghton	population	36638
+26063	Michigan	Huron	population	32675
+26065	Michigan	Ingham	population	281613
+26067	Michigan	Ionia	population	63979
+26069	Michigan	Iosco	population	25541
+26071	Michigan	Iron	population	11796
+26073	Michigan	Isabella	population	70622
+26075	Michigan	Jackson	population	159748
+26077	Michigan	Kalamazoo	population	252074
+26079	Michigan	Kalkaska	population	17160
+26081	Michigan	Kent	population	608453
+26083	Michigan	Keweenaw	population	2173
+26085	Michigan	Lake	population	11539
+26087	Michigan	Lapeer	population	88082
+26089	Michigan	Leelanau	population	21459
+26091	Michigan	Lenawee	population	99440
+26093	Michigan	Livingston	population	181722
+26095	Michigan	Luce	population	6584
+26097	Michigan	Mackinac	population	11037
+26099	Michigan	Macomb	population	842145
+26101	Michigan	Manistee	population	24709
+26103	Michigan	Marquette	population	67694
+26105	Michigan	Mason	population	28678
+26107	Michigan	Mecosta	population	43300
+26109	Michigan	Menominee	population	23930
+26111	Michigan	Midland	population	84063
+26113	Michigan	Missaukee	population	14911
+26115	Michigan	Monroe	population	151560
+26117	Michigan	Montcalm	population	63185
+26119	Michigan	Montmorency	population	9653
+26121	Michigan	Muskegon	population	171302
+26123	Michigan	Newaygo	population	48352
+26125	Michigan	Oakland	population	1210145
+26127	Michigan	Oceana	population	26523
+26129	Michigan	Ogemaw	population	21570
+26131	Michigan	Ontonagon	population	6598
+26133	Michigan	Osceola	population	23510
+26135	Michigan	Oscoda	population	8608
+26137	Michigan	Otsego	population	24078
+26139	Michigan	Ottawa	population	266300
+26141	Michigan	Presque Isle	population	13155
+26143	Michigan	Roscommon	population	24414
+26145	Michigan	Saginaw	population	199088
+26147	Michigan	St. Clair	population	161642
+26149	Michigan	St. Joseph	population	61136
+26151	Michigan	Sanilac	population	42605
+26153	Michigan	Schoolcraft	population	8490
+26155	Michigan	Shiawassee	population	69841
+26157	Michigan	Tuscola	population	55422
+26159	Michigan	Van Buren	population	76131
+26161	Michigan	Washtenaw	population	347962
+26163	Michigan	Wayne	population	1802096
+26165	Michigan	Wexford	population	32718
+27001	Minnesota	Aitkin	population	16220
+27003	Minnesota	Anoka	population	333140
+27005	Minnesota	Becker	population	32778
+27007	Minnesota	Beltrami	population	45264
+27009	Minnesota	Benton	population	38671
+27011	Minnesota	Big Stone	population	5238
+27013	Minnesota	Blue Earth	population	64384
+27015	Minnesota	Brown	population	25734
+27017	Minnesota	Carlton	population	35455
+27019	Minnesota	Carver	population	92638
+27021	Minnesota	Cass	population	28390
+27023	Minnesota	Chippewa	population	12319
+27025	Minnesota	Chisago	population	53916
+27027	Minnesota	Clay	population	59803
+27029	Minnesota	Clearwater	population	8774
+27031	Minnesota	Cook	population	5218
+27033	Minnesota	Cottonwood	population	11686
+27035	Minnesota	Crow Wing	population	62763
+27037	Minnesota	Dakota	population	402006
+27039	Minnesota	Dodge	population	20243
+27041	Minnesota	Douglas	population	36172
+27043	Minnesota	Faribault	population	14508
+27045	Minnesota	Fillmore	population	20876
+27047	Minnesota	Freeborn	population	31172
+27049	Minnesota	Goodhue	population	46217
+27051	Minnesota	Grant	population	5989
+27053	Minnesota	Hennepin	population	1168431
+27055	Minnesota	Houston	population	18916
+27057	Minnesota	Hubbard	population	20303
+27059	Minnesota	Isanti	population	38283
+27061	Minnesota	Itasca	population	45034
+27063	Minnesota	Jackson	population	10202
+27065	Minnesota	Kanabec	population	16169
+27067	Minnesota	Kandiyohi	population	42173
+27069	Minnesota	Kittson	population	4515
+27071	Minnesota	Koochiching	population	13213
+27073	Minnesota	Lac qui Parle	population	7193
+27075	Minnesota	Lake	population	10824
+27077	Minnesota	Lake of the Woods	population	4007
+27079	Minnesota	Le Sueur	population	27656
+27081	Minnesota	Lincoln	population	5820
+27083	Minnesota	Lyon	population	25891
+27085	Minnesota	McLeod	population	36432
+27087	Minnesota	Mahnomen	population	5456
+27089	Minnesota	Marshall	population	9481
+27091	Minnesota	Martin	population	20689
+27093	Minnesota	Meeker	population	23265
+27095	Minnesota	Mille Lacs	population	25979
+27097	Minnesota	Morrison	population	33229
+27099	Minnesota	Mower	population	39349
+27101	Minnesota	Murray	population	8630
+27103	Minnesota	Nicollet	population	32820
+27105	Minnesota	Nobles	population	21397
+27107	Minnesota	Norman	population	6869
+27109	Minnesota	Olmsted	population	145769
+27111	Minnesota	Otter Tail	population	57252
+27113	Minnesota	Pennington	population	14072
+27115	Minnesota	Pine	population	29604
+27117	Minnesota	Pipestone	population	9501
+27119	Minnesota	Polk	population	31456
+27121	Minnesota	Pope	population	10894
+27123	Minnesota	Ramsey	population	514696
+27125	Minnesota	Red Lake	population	4105
+27127	Minnesota	Redwood	population	15972
+27129	Minnesota	Renville	population	15500
+27131	Minnesota	Rice	population	64409
+27133	Minnesota	Rock	population	9614
+27135	Minnesota	Roseau	population	15540
+27137	Minnesota	St. Louis	population	200255
+27139	Minnesota	Scott	population	132556
+27141	Minnesota	Sherburne	population	89319
+27143	Minnesota	Sibley	population	15169
+27145	Minnesota	Stearns	population	151343
+27147	Minnesota	Steele	population	36534
+27149	Minnesota	Stevens	population	9685
+27151	Minnesota	Swift	population	9640
+27153	Minnesota	Todd	population	24836
+27155	Minnesota	Traverse	population	3523
+27157	Minnesota	Wabasha	population	21600
+27159	Minnesota	Wadena	population	13749
+27161	Minnesota	Waseca	population	19273
+27163	Minnesota	Washington	population	241280
+27165	Minnesota	Watonwan	population	11201
+27167	Minnesota	Wilkin	population	6592
+27169	Minnesota	Winona	population	51378
+27171	Minnesota	Wright	population	126437
+27173	Minnesota	Yellow Medicine	population	10307
+28001	Mississippi	Adams	population	32067
+28003	Mississippi	Alcorn	population	37052
+28005	Mississippi	Amite	population	13064
+28007	Mississippi	Attala	population	19466
+28009	Mississippi	Benton	population	8732
+28011	Mississippi	Bolivar	population	33771
+28013	Mississippi	Calhoun	population	14917
+28015	Mississippi	Carroll	population	10373
+28017	Mississippi	Chickasaw	population	17124
+28019	Mississippi	Choctaw	population	8412
+28021	Mississippi	Claiborne	population	9585
+28023	Mississippi	Clarke	population	16743
+28025	Mississippi	Clay	population	20456
+28027	Mississippi	Coahoma	population	25913
+28029	Mississippi	Copiah	population	29247
+28031	Mississippi	Covington	population	19629
+28033	Mississippi	DeSoto	population	164053
+28035	Mississippi	Forrest	population	75842
+28037	Mississippi	Franklin	population	8017
+28039	Mississippi	George	population	22889
+28041	Mississippi	Greene	population	14338
+28043	Mississippi	Grenada	population	21706
+28045	Mississippi	Hancock	population	44649
+28047	Mississippi	Harrison	population	191040
+28049	Mississippi	Hinds	population	248184
+28051	Mississippi	Holmes	population	18818
+28053	Mississippi	Humphreys	population	9312
+28055	Mississippi	Issaquena	population	1392
+28057	Mississippi	Itawamba	population	23332
+28059	Mississippi	Jackson	population	139901
+28061	Mississippi	Jasper	population	16777
+28063	Mississippi	Jefferson	population	7605
+28065	Mississippi	Jefferson Davis	population	12118
+28067	Mississippi	Jones	population	68075
+28069	Mississippi	Kemper	population	10146
+28071	Mississippi	Lafayette	population	48472
+28073	Mississippi	Lamar	population	57422
+28075	Mississippi	Lauderdale	population	80475
+28077	Mississippi	Lawrence	population	12687
+28079	Mississippi	Leake	population	23572
+28081	Mississippi	Lee	population	84156
+28083	Mississippi	Leflore	population	31861
+28085	Mississippi	Lincoln	population	34889
+28087	Mississippi	Lowndes	population	59671
+28089	Mississippi	Madison	population	96941
+28091	Mississippi	Marion	population	26809
+28093	Mississippi	Marshall	population	36786
+28095	Mississippi	Monroe	population	36626
+28097	Mississippi	Montgomery	population	10872
+28099	Mississippi	Neshoba	population	29818
+28101	Mississippi	Newton	population	21499
+28103	Mississippi	Noxubee	population	11351
+28105	Mississippi	Oktibbeha	population	47741
+28107	Mississippi	Panola	population	34602
+28109	Mississippi	Pearl River	population	55718
+28111	Mississippi	Perry	population	12164
+28113	Mississippi	Pike	population	40406
+28115	Mississippi	Pontotoc	population	29900
+28117	Mississippi	Prentiss	population	25330
+28119	Mississippi	Quitman	population	8134
+28121	Mississippi	Rankin	population	143702
+28123	Mississippi	Scott	population	28388
+28125	Mississippi	Sharkey	population	4892
+28127	Mississippi	Simpson	population	27320
+28129	Mississippi	Smith	population	16442
+28131	Mississippi	Stone	population	17822
+28133	Mississippi	Sunflower	population	29296
+28135	Mississippi	Tallahatchie	population	15318
+28137	Mississippi	Tate	population	28719
+28139	Mississippi	Tippah	population	22143
+28141	Mississippi	Tishomingo	population	19603
+28143	Mississippi	Tunica	population	10628
+28145	Mississippi	Union	population	27340
+28147	Mississippi	Walthall	population	15406
+28149	Mississippi	Warren	population	48346
+28151	Mississippi	Washington	population	50406
+28153	Mississippi	Wayne	population	20589
+28155	Mississippi	Webster	population	10319
+28157	Mississippi	Wilkinson	population	9679
+28159	Mississippi	Winston	population	19069
+28161	Mississippi	Yalobusha	population	12552
+28163	Mississippi	Yazoo	population	27886
+29001	Missouri	Adair	population	25552
+29003	Missouri	Andrew	population	17196
+29005	Missouri	Atchison	population	5569
+29007	Missouri	Audrain	population	25566
+29009	Missouri	Barry	population	35282
+29011	Missouri	Barton	population	12327
+29013	Missouri	Bates	population	17008
+29015	Missouri	Benton	population	19115
+29017	Missouri	Bollinger	population	12356
+29019	Missouri	Boone	population	165627
+29021	Missouri	Buchanan	population	89666
+29023	Missouri	Butler	population	43082
+29025	Missouri	Caldwell	population	9315
+29027	Missouri	Callaway	population	44420
+29029	Missouri	Camden	population	43679
+29031	Missouri	Cape Girardeau	population	76632
+29033	Missouri	Carroll	population	9260
+29035	Missouri	Carter	population	6365
+29037	Missouri	Cass	population	100052
+29039	Missouri	Cedar	population	13948
+29041	Missouri	Chariton	population	7734
+29043	Missouri	Christian	population	78570
+29045	Missouri	Clark	population	7019
+29047	Missouri	Clay	population	225161
+29049	Missouri	Clinton	population	20789
+29051	Missouri	Cole	population	76448
+29053	Missouri	Cooper	population	17663
+29055	Missouri	Crawford	population	24800
+29057	Missouri	Dade	population	7807
+29059	Missouri	Dallas	population	16749
+29061	Missouri	Daviess	population	8313
+29063	Missouri	DeKalb	population	12767
+29065	Missouri	Dent	population	15676
+29067	Missouri	Douglas	population	13548
+29069	Missouri	Dunklin	population	31974
+29071	Missouri	Franklin	population	101938
+29073	Missouri	Gasconade	population	15168
+29075	Missouri	Gentry	population	6786
+29077	Missouri	Greene	population	277214
+29079	Missouri	Grundy	population	10228
+29081	Missouri	Harrison	population	8866
+29083	Missouri	Henry	population	22219
+29085	Missouri	Hickory	population	9628
+29087	Missouri	Holt	population	4814
+29089	Missouri	Howard	population	10204
+29091	Missouri	Howell	population	40665
+29093	Missouri	Iron	population	10656
+29095	Missouri	Jackson	population	676360
+29097	Missouri	Jasper	population	118435
+29099	Missouri	Jefferson	population	219480
+29101	Missouri	Johnson	population	53439
+29103	Missouri	Knox	population	4126
+29105	Missouri	Laclede	population	35636
+29107	Missouri	Lafayette	population	33209
+29109	Missouri	Lawrence	population	38660
+29111	Missouri	Lewis	population	10155
+29113	Missouri	Lincoln	population	53076
+29115	Missouri	Linn	population	12566
+29117	Missouri	Livingston	population	15074
+29119	Missouri	McDonald	population	22977
+29121	Missouri	Macon	population	15591
+29123	Missouri	Madison	population	12195
+29125	Missouri	Maries	population	9171
+29127	Missouri	Marion	population	28717
+29129	Missouri	Mercer	population	3804
+29131	Missouri	Miller	population	24770
+29133	Missouri	Mississippi	population	14306
+29135	Missouri	Moniteau	population	15697
+29137	Missouri	Monroe	population	8734
+29139	Missouri	Montgomery	population	12270
+29141	Missouri	Morgan	population	20502
+29143	Missouri	New Madrid	population	18783
+29145	Missouri	Newton	population	58414
+29147	Missouri	Nodaway	population	23468
+29149	Missouri	Oregon	population	11017
+29151	Missouri	Osage	population	13915
+29153	Missouri	Ozark	population	9595
+29155	Missouri	Pemiscot	population	18174
+29157	Missouri	Perry	population	19041
+29159	Missouri	Pettis	population	42178
+29161	Missouri	Phelps	population	45020
+29163	Missouri	Pike	population	18572
+29165	Missouri	Platte	population	90903
+29167	Missouri	Polk	population	31170
+29169	Missouri	Pulaski	population	53175
+29171	Missouri	Putnam	population	4978
+29173	Missouri	Ralls	population	10281
+29175	Missouri	Randolph	population	25346
+29177	Missouri	Ray	population	23230
+29179	Missouri	Reynolds	population	6588
+29181	Missouri	Ripley	population	14143
+29183	Missouri	St. Charles	population	365151
+29185	Missouri	St. Clair	population	9641
+29186	Missouri	Ste. Genevieve	population	18124
+29187	Missouri	St. Francois	population	65577
+29189	Missouri	St. Louis	population	998692
+29195	Missouri	Saline	population	23280
+29197	Missouri	Schuyler	population	4381
+29199	Missouri	Scotland	population	4828
+29201	Missouri	Scott	population	39136
+29203	Missouri	Shannon	population	8432
+29205	Missouri	Shelby	population	6280
+29207	Missouri	Stoddard	population	29807
+29209	Missouri	Stone	population	32263
+29211	Missouri	Sullivan	population	6659
+29213	Missouri	Taney	population	52736
+29215	Missouri	Texas	population	25936
+29217	Missouri	Vernon	population	20963
+29219	Missouri	Warren	population	32515
+29221	Missouri	Washington	population	25076
+29223	Missouri	Wayne	population	13475
+29225	Missouri	Webster	population	36439
+29227	Missouri	Worth	population	2150
+29229	Missouri	Wright	population	18716
+29510	Missouri	St. Louis City	population	318069
+30001	Montana	Beaverhead	population	9198
+30003	Montana	Big Horn	population	13093
+30005	Montana	Blaine	population	6565
+30007	Montana	Broadwater	population	5752
+30009	Montana	Carbon	population	10028
+30011	Montana	Carter	population	1152
+30013	Montana	Cascade	population	81837
+30015	Montana	Chouteau	population	5793
+30017	Montana	Custer	population	11752
+30019	Montana	Daniels	population	1763
+30021	Montana	Dawson	population	8989
+30023	Montana	Deer Lodge	population	9299
+30025	Montana	Fallon	population	2956
+30027	Montana	Fergus	population	11506
+30029	Montana	Flathead	population	91301
+30031	Montana	Gallatin	population	91377
+30033	Montana	Garfield	population	1251
+30035	Montana	Glacier	population	13624
+30037	Montana	Golden Valley	population	865
+30039	Montana	Granite	population	3068
+30041	Montana	Hill	population	16397
+30043	Montana	Jefferson	population	11381
+30045	Montana	Judith Basin	population	2004
+30047	Montana	Lake	population	28947
+30049	Montana	Lewis and Clark	population	64318
+30051	Montana	Liberty	population	2402
+30053	Montana	Lincoln	population	19566
+30055	Montana	McCone	population	1711
+30057	Montana	Madison	population	7660
+30059	Montana	Meagher	population	1911
+30061	Montana	Mineral	population	4208
+30063	Montana	Missoula	population	110138
+30065	Montana	Musselshell	population	4701
+30067	Montana	Park	population	15469
+30069	Montana	Petroleum	population	491
+30071	Montana	Phillips	population	4250
+30073	Montana	Pondera	population	6257
+30075	Montana	Powder River	population	1738
+30077	Montana	Powell	population	7063
+30079	Montana	Prairie	population	1159
+30081	Montana	Ravalli	population	40450
+30083	Montana	Richland	population	10128
+30085	Montana	Roosevelt	population	10527
+30087	Montana	Rosebud	population	9379
+30089	Montana	Sanders	population	11440
+30091	Montana	Sheridan	population	3460
+30093	Montana	Silver Bow	population	34383
+30095	Montana	Stillwater	population	9131
+30097	Montana	Sweet Grass	population	3623
+30099	Montana	Teton	population	6091
+30101	Montana	Toole	population	5239
+30103	Montana	Treasure	population	727
+30105	Montana	Valley	population	7487
+30107	Montana	Wheatland	population	2140
+30109	Montana	Wibaux	population	985
+30111	Montana	Yellowstone	population	150069
+31001	Nebraska	Adams	population	31216
+31003	Nebraska	Antelope	population	6619
+31005	Nebraska	Arthur	population	469
+31007	Nebraska	Banner	population	684
+31009	Nebraska	Blaine	population	473
+31011	Nebraska	Boone	population	5412
+31013	Nebraska	Box Butte	population	11383
+31015	Nebraska	Boyd	population	2082
+31017	Nebraska	Brown	population	3117
+31019	Nebraska	Buffalo	population	46690
+31021	Nebraska	Burt	population	6802
+31023	Nebraska	Butler	population	8287
+31025	Nebraska	Cass	population	25188
+31027	Nebraska	Cedar	population	8730
+31029	Nebraska	Chase	population	4011
+31031	Nebraska	Cherry	population	5761
+31033	Nebraska	Cheyenne	population	9978
+31035	Nebraska	Clay	population	6486
+31037	Nebraska	Colfax	population	10614
+31039	Nebraska	Cuming	population	9181
+31041	Nebraska	Custer	population	10903
+31043	Nebraska	Dakota	population	20913
+31045	Nebraska	Dawes	population	9196
+31047	Nebraska	Dawson	population	24388
+31049	Nebraska	Deuel	population	1984
+31051	Nebraska	Dixon	population	5989
+31053	Nebraska	Dodge	population	36773
+31055	Nebraska	Douglas	population	524861
+31057	Nebraska	Dundy	population	1976
+31059	Nebraska	Fillmore	population	5866
+31061	Nebraska	Franklin	population	3207
+31063	Nebraska	Frontier	population	2723
+31065	Nebraska	Furnas	population	4943
+31067	Nebraska	Gage	population	22031
+31069	Nebraska	Garden	population	2069
+31071	Nebraska	Garfield	population	2032
+31073	Nebraska	Gosper	population	2010
+31075	Nebraska	Grant	population	630
+31077	Nebraska	Greeley	population	2519
+31079	Nebraska	Hall	population	59477
+31081	Nebraska	Hamilton	population	9069
+31083	Nebraska	Harlan	population	3417
+31085	Nebraska	Hayes	population	960
+31087	Nebraska	Hitchcock	population	2857
+31089	Nebraska	Holt	population	10399
+31091	Nebraska	Hooker	population	729
+31093	Nebraska	Howard	population	6342
+31095	Nebraska	Jefferson	population	7519
+31097	Nebraska	Johnson	population	5211
+31099	Nebraska	Kearney	population	6588
+31101	Nebraska	Keith	population	8301
+31103	Nebraska	Keya Paha	population	813
+31105	Nebraska	Kimball	population	3775
+31107	Nebraska	Knox	population	8575
+31109	Nebraska	Lancaster	population	289800
+31111	Nebraska	Lincoln	population	36142
+31113	Nebraska	Logan	population	762
+31115	Nebraska	Loup	population	610
+31117	Nebraska	McPherson	population	552
+31119	Nebraska	Madison	population	34931
+31121	Nebraska	Merrick	population	7732
+31123	Nebraska	Morrill	population	4998
+31125	Nebraska	Nance	population	3740
+31127	Nebraska	Nemaha	population	7280
+31129	Nebraska	Nuckolls	population	4478
+31131	Nebraska	Otoe	population	15798
+31133	Nebraska	Pawnee	population	2735
+31135	Nebraska	Perkins	population	2955
+31137	Nebraska	Phelps	population	9184
+31139	Nebraska	Pierce	population	7216
+31141	Nebraska	Platte	population	32593
+31143	Nebraska	Polk	population	5322
+31145	Nebraska	Red Willow	population	11032
+31147	Nebraska	Richardson	population	8345
+31149	Nebraska	Rock	population	1494
+31151	Nebraska	Saline	population	14345
+31153	Nebraska	Sarpy	population	162561
+31155	Nebraska	Saunders	population	20867
+31157	Nebraska	Scotts Bluff	population	37044
+31159	Nebraska	Seward	population	16703
+31161	Nebraska	Sheridan	population	5392
+31163	Nebraska	Sherman	population	3093
+31165	Nebraska	Sioux	population	1336
+31167	Nebraska	Stanton	population	6155
+31169	Nebraska	Thayer	population	5160
+31171	Nebraska	Thomas	population	716
+31173	Nebraska	Thurston	population	7006
+31175	Nebraska	Valley	population	4218
+31177	Nebraska	Washington	population	20295
+31179	Nebraska	Wayne	population	9504
+31181	Nebraska	Webster	population	3775
+31183	Nebraska	Wheeler	population	818
+31185	Nebraska	York	population	13726
+32001	Nevada	Churchill	population	24637
+32003	Nevada	Clark	population	1969975
+32005	Nevada	Douglas	population	46886
+32007	Nevada	Elko	population	49491
+32009	Nevada	Esmeralda	population	775
+32011	Nevada	Eureka	population	1979
+32013	Nevada	Humboldt	population	16735
+32015	Nevada	Lander	population	5841
+32017	Nevada	Lincoln	population	5311
+32019	Nevada	Lyon	population	51871
+32021	Nevada	Mineral	population	4593
+32023	Nevada	Nye	population	43351
+32027	Nevada	Pershing	population	6734
+32029	Nevada	Storey	population	3896
+32031	Nevada	Washoe	population	425710
+32033	Nevada	White Pine	population	10098
+32510	Nevada	Carson City	population	55439
+33001	New Hampshire	Belknap	population	60223
+33003	New Hampshire	Carroll	population	47641
+33005	New Hampshire	Cheshire	population	76918
+33007	New Hampshire	Coos	population	32688
+33009	New Hampshire	Grafton	population	88923
+33011	New Hampshire	Hillsborough	population	401696
+33013	New Hampshire	Merrimack	population	146579
+33015	New Hampshire	Rockingham	population	296207
+33017	New Hampshire	Strafford	population	123857
+33019	New Hampshire	Sullivan	population	43462
+34001	New Jersey	Atlantic	population	274338
+34003	New Jersey	Bergen	population	911004
+34005	New Jersey	Burlington	population	449576
+34007	New Jersey	Camden	population	513241
+34009	New Jersey	Cape May	population	96601
+34011	New Jersey	Cumberland	population	157095
+34013	New Jersey	Essex	population	785137
+34015	New Jersey	Gloucester	population	289104
+34017	New Jersey	Hudson	population	641224
+34019	New Jersey	Hunterdon	population	128038
+34021	New Jersey	Mercer	population	367063
+34023	New Jersey	Middlesex	population	814217
+34025	New Jersey	Monmouth	population	631020
+34027	New Jersey	Morris	population	494976
+34029	New Jersey	Ocean	population	579369
+34031	New Jersey	Passaic	population	502007
+34033	New Jersey	Salem	population	65902
+34035	New Jersey	Somerset	population	324893
+34037	New Jersey	Sussex	population	148517
+34039	New Jersey	Union	population	539494
+34041	New Jersey	Warren	population	108339
+35001	New Mexico	Bernalillo	population	670968
+35003	New Mexico	Catron	population	3733
+35005	New Mexico	Chaves	population	65890
+35006	New Mexico	Cibola	population	27658
+35007	New Mexico	Colfax	population	13640
+35009	New Mexico	Curry	population	49649
+35011	New Mexico	De Baca	population	1945
+35013	New Mexico	Dona Ana	population	213598
+35015	New Mexico	Eddy	population	54152
+35017	New Mexico	Grant	population	29380
+35019	New Mexico	Guadalupe	population	4619
+35021	New Mexico	Harding	population	704
+35023	New Mexico	Hidalgo	population	4861
+35025	New Mexico	Lea	population	65423
+35027	New Mexico	Lincoln	population	20454
+35028	New Mexico	Los Alamos	population	18222
+35029	New Mexico	Luna	population	25281
+35031	New Mexico	McKinley	population	73664
+35033	New Mexico	Mora	population	4773
+35035	New Mexico	Otero	population	65703
+35037	New Mexico	Quay	population	9026
+35039	New Mexico	Rio Arriba	population	40446
+35041	New Mexico	Roosevelt	population	20446
+35043	New Mexico	Sandoval	population	134259
+35045	New Mexico	San Juan	population	128200
+35047	New Mexico	San Miguel	population	29301
+35049	New Mexico	Santa Fe	population	145648
+35051	New Mexico	Sierra	population	11943
+35053	New Mexico	Socorro	population	17873
+35055	New Mexico	Taos	population	32917
+35057	New Mexico	Torrance	population	16345
+35059	New Mexico	Union	population	4433
+35061	New Mexico	Valencia	population	77070
+36001	New York	Albany	population	303565
+36003	New York	Allegany	population	48778
+36005	New York	Bronx	population	1392002
+36007	New York	Broome	population	199031
+36009	New York	Cattaraugus	population	79832
+36011	New York	Cayuga	population	79738
+36013	New York	Chautauqua	population	134368
+36015	New York	Chemung	population	88840
+36017	New York	Chenango	population	50118
+36019	New York	Clinton	population	81945
+36021	New York	Columbia	population	62550
+36023	New York	Cortland	population	49363
+36025	New York	Delaware	population	47559
+36027	New York	Dutchess	population	297999
+36029	New York	Erie	population	918028
+36031	New York	Essex	population	39181
+36033	New York	Franklin	population	51551
+36035	New York	Fulton	population	55180
+36037	New York	Genesee	population	59993
+36039	New York	Greene	population	48954
+36041	New York	Hamilton	population	4793
+36043	New York	Herkimer	population	64160
+36045	New York	Jefferson	population	117910
+36047	New York	Kings	population	2532645
+36049	New York	Lewis	population	27072
+36051	New York	Livingston	population	65070
+36053	New York	Madison	population	73365
+36055	New York	Monroe	population	745625
+36057	New York	Montgomery	population	49916
+36059	New York	Nassau	population	1344436
+36061	New York	New York	population	1601948
+36063	New York	Niagara	population	216011
+36065	New York	Oneida	population	234287
+36067	New York	Onondaga	population	466960
+36069	New York	Ontario	population	108525
+36071	New York	Orange	population	374872
+36073	New York	Orleans	population	42622
+36075	New York	Oswego	population	122228
+36077	New York	Otsego	population	61917
+36079	New York	Putnam	population	99933
+36081	New York	Queens	population	2247848
+36083	New York	Rensselaer	population	159395
+36085	New York	Richmond	population	470467
+36087	New York	Rockland	population	315158
+36089	New York	St. Lawrence	population	111690
+36091	New York	Saratoga	population	220882
+36093	New York	Schenectady	population	155058
+36095	New York	Schoharie	population	32578
+36097	New York	Schuyler	population	18361
+36099	New York	Seneca	population	35198
+36101	New York	Steuben	population	99033
+36103	New York	Suffolk	population	1498816
+36105	New York	Sullivan	population	76900
+36107	New York	Tioga	population	51043
+36109	New York	Tompkins	population	101723
+36111	New York	Ulster	population	182448
+36113	New York	Warren	population	65831
+36115	New York	Washington	population	63165
+36117	New York	Wayne	population	93436
+36119	New York	Westchester	population	955899
+36121	New York	Wyoming	population	41944
+36123	New York	Yates	population	25454
+37001	North Carolina	Alamance	population	153291
+37003	North Carolina	Alexander	population	37087
+37005	North Carolina	Alleghany	population	11052
+37007	North Carolina	Anson	population	26609
+37009	North Carolina	Ashe	population	27143
+37011	North Carolina	Avery	population	17572
+37013	North Carolina	Beaufort	population	47691
+37015	North Carolina	Bertie	population	20874
+37017	North Carolina	Bladen	population	34928
+37019	North Carolina	Brunswick	population	110097
+37021	North Carolina	Buncombe	population	241419
+37023	North Carolina	Burke	population	90904
+37025	North Carolina	Cabarrus	population	181468
+37027	North Carolina	Caldwell	population	82395
+37029	North Carolina	Camden	population	10014
+37031	North Carolina	Carteret	population	67373
+37033	North Carolina	Caswell	population	23403
+37035	North Carolina	Catawba	population	154181
+37037	North Carolina	Chatham	population	64195
+37039	North Carolina	Cherokee	population	27194
+37041	North Carolina	Chowan	population	14853
+37043	North Carolina	Clay	population	10563
+37045	North Carolina	Cleveland	population	97489
+37047	North Carolina	Columbus	population	57712
+37049	North Carolina	Craven	population	104786
+37051	North Carolina	Cumberland	population	324885
+37053	North Carolina	Currituck	population	23955
+37055	North Carolina	Dare	population	34307
+37057	North Carolina	Davidson	population	162697
+37059	North Carolina	Davie	population	41552
+37061	North Carolina	Duplin	population	59542
+37063	North Carolina	Durham	population	273392
+37065	North Carolina	Edgecombe	population	56041
+37067	North Carolina	Forsyth	population	354952
+37069	North Carolina	Franklin	population	61140
+37071	North Carolina	Gaston	population	207031
+37073	North Carolina	Gates	population	12043
+37075	North Carolina	Graham	population	8802
+37077	North Carolina	Granville	population	59976
+37079	North Carolina	Greene	population	21556
+37081	North Carolina	Guilford	population	495279
+37083	North Carolina	Halifax	population	54173
+37085	North Carolina	Harnett	population	119256
+37087	North Carolina	Haywood	population	58855
+37089	North Carolina	Henderson	population	107927
+37091	North Carolina	Hertford	population	24433
+37093	North Carolina	Hoke	population	49272
+37095	North Carolina	Hyde	population	5822
+37097	North Carolina	Iredell	population	161202
+37099	North Carolina	Jackson	population	40285
+37101	North Carolina	Johnston	population	172595
+37103	North Carolina	Jones	population	10020
+37105	North Carolina	Lee	population	58752
+37107	North Carolina	Lenoir	population	59339
+37109	North Carolina	Lincoln	population	78932
+37111	North Carolina	McDowell	population	45104
+37113	North Carolina	Macon	population	34074
+37115	North Carolina	Madison	population	20816
+37117	North Carolina	Martin	population	24180
+37119	North Carolina	Mecklenburg	population	944373
+37121	North Carolina	Mitchell	population	15445
+37123	North Carolina	Montgomery	population	27667
+37125	North Carolina	Moore	population	89352
+37127	North Carolina	Nash	population	96116
+37129	North Carolina	New Hanover	population	206189
+37131	North Carolina	Northampton	population	21893
+37133	North Carolina	Onslow	population	179719
+37135	North Carolina	Orange	population	135755
+37137	North Carolina	Pamlico	population	13197
+37139	North Carolina	Pasquotank	population	40696
+37141	North Carolina	Pender	population	53399
+37143	North Carolina	Perquimans	population	13487
+37145	North Carolina	Person	population	39637
+37147	North Carolina	Pitt	population	171134
+37149	North Carolina	Polk	population	20256
+37151	North Carolina	Randolph	population	142358
+37153	North Carolina	Richmond	population	46611
+37155	North Carolina	Robeson	population	135517
+37157	North Carolina	Rockingham	population	93329
+37159	North Carolina	Rowan	population	138019
+37161	North Carolina	Rutherford	population	67538
+37163	North Carolina	Sampson	population	63734
+37165	North Carolina	Scotland	population	35861
+37167	North Carolina	Stanly	population	60626
+37169	North Carolina	Stokes	population	47242
+37171	North Carolina	Surry	population	73714
+37173	North Carolina	Swain	population	14043
+37175	North Carolina	Transylvania	population	32820
+37177	North Carolina	Tyrrell	population	4364
+37179	North Carolina	Union	population	205463
+37181	North Carolina	Vance	population	45307
+37183	North Carolina	Wake	population	929780
+37185	North Carolina	Warren	population	20861
+37187	North Carolina	Washington	population	12973
+37189	North Carolina	Watauga	population	51333
+37191	North Carolina	Wayne	population	123697
+37193	North Carolina	Wilkes	population	68984
+37195	North Carolina	Wilson	population	81452
+37197	North Carolina	Yadkin	population	38279
+37199	North Carolina	Yancey	population	17701
+38001	North Dakota	Adams	population	2307
+38003	North Dakota	Barnes	population	11056
+38005	North Dakota	Benson	population	6723
+38007	North Dakota	Billings	population	816
+38009	North Dakota	Bottineau	population	6443
+38011	North Dakota	Bowman	population	3134
+38013	North Dakota	Burke	population	2033
+38015	North Dakota	Burleigh	population	83145
+38017	North Dakota	Cass	population	152368
+38019	North Dakota	Cavalier	population	3939
+38021	North Dakota	Dickey	population	5317
+38023	North Dakota	Divide	population	2125
+38025	North Dakota	Dunn	population	3720
+38027	North Dakota	Eddy	population	2380
+38029	North Dakota	Emmons	population	3546
+38031	North Dakota	Foster	population	3341
+38033	North Dakota	Golden Valley	population	1752
+38035	North Dakota	Grand Forks	population	66598
+38037	North Dakota	Grant	population	2337
+38039	North Dakota	Griggs	population	2372
+38041	North Dakota	Hettinger	population	2515
+38043	North Dakota	Kidder	population	2414
+38045	North Dakota	LaMoure	population	4105
+38047	North Dakota	Logan	population	1985
+38049	North Dakota	McHenry	population	5505
+38051	North Dakota	McIntosh	population	2769
+38053	North Dakota	McKenzie	population	7019
+38055	North Dakota	McLean	population	9068
+38057	North Dakota	Mercer	population	8449
+38059	North Dakota	Morton	population	27734
+38061	North Dakota	Mountrail	population	8097
+38063	North Dakota	Nelson	population	3057
+38065	North Dakota	Oliver	population	1830
+38067	North Dakota	Pembina	population	7342
+38069	North Dakota	Pierce	population	4375
+38071	North Dakota	Ramsey	population	11452
+38073	North Dakota	Ransom	population	5403
+38075	North Dakota	Renville	population	2490
+38077	North Dakota	Richland	population	16245
+38079	North Dakota	Rolette	population	14206
+38081	North Dakota	Sargent	population	3798
+38083	North Dakota	Sheridan	population	1309
+38085	North Dakota	Sioux	population	4280
+38087	North Dakota	Slope	population	718
+38089	North Dakota	Stark	population	25177
+38091	North Dakota	Steele	population	1950
+38093	North Dakota	Stutsman	population	21062
+38095	North Dakota	Towner	population	2264
+38097	North Dakota	Traill	population	8147
+38099	North Dakota	Walsh	population	11032
+38101	North Dakota	Ward	population	64072
+38103	North Dakota	Wells	population	4237
+38105	North Dakota	Williams	population	24374
+39001	Ohio	Adams	population	28456
+39003	Ohio	Allen	population	106094
+39005	Ohio	Ashland	population	53153
+39007	Ohio	Ashtabula	population	101345
+39009	Ohio	Athens	population	64769
+39011	Ohio	Auglaize	population	45838
+39013	Ohio	Belmont	population	70151
+39015	Ohio	Brown	population	44687
+39017	Ohio	Butler	population	369999
+39019	Ohio	Carroll	population	28782
+39021	Ohio	Champaign	population	39795
+39023	Ohio	Clark	population	137691
+39025	Ohio	Clermont	population	199139
+39027	Ohio	Clinton	population	41927
+39029	Ohio	Columbiana	population	107570
+39031	Ohio	Coshocton	population	36955
+39033	Ohio	Crawford	population	43389
+39035	Ohio	Cuyahoga	population	1270294
+39037	Ohio	Darke	population	52809
+39039	Ohio	Defiance	population	38884
+39041	Ohio	Delaware	population	178341
+39043	Ohio	Erie	population	76751
+39045	Ohio	Fairfield	population	147066
+39047	Ohio	Fayette	population	28985
+39049	Ohio	Franklin	population	1178799
+39051	Ohio	Fulton	population	42510
+39053	Ohio	Gallia	population	30970
+39055	Ohio	Geauga	population	93228
+39057	Ohio	Greene	population	162846
+39059	Ohio	Guernsey	population	39927
+39061	Ohio	Hamilton	population	800362
+39063	Ohio	Hancock	population	75056
+39065	Ohio	Hardin	population	32020
+39067	Ohio	Harrison	population	15850
+39069	Ohio	Henry	population	28064
+39071	Ohio	Highland	population	43433
+39073	Ohio	Hocking	population	29394
+39075	Ohio	Holmes	population	42746
+39077	Ohio	Huron	population	59496
+39079	Ohio	Jackson	population	33186
+39081	Ohio	Jefferson	population	68828
+39083	Ohio	Knox	population	61275
+39085	Ohio	Lake	population	229885
+39087	Ohio	Lawrence	population	62489
+39089	Ohio	Licking	population	167248
+39091	Ohio	Logan	population	45688
+39093	Ohio	Lorain	population	301614
+39095	Ohio	Lucas	population	440005
+39097	Ohio	Madison	population	43401
+39099	Ohio	Mahoning	population	237270
+39101	Ohio	Marion	population	66212
+39103	Ohio	Medina	population	173262
+39105	Ohio	Meigs	population	23680
+39107	Ohio	Mercer	population	40838
+39109	Ohio	Miami	population	102857
+39111	Ohio	Monroe	population	14585
+39113	Ohio	Montgomery	population	537602
+39115	Ohio	Morgan	population	15034
+39117	Ohio	Morrow	population	34855
+39119	Ohio	Muskingum	population	86237
+39121	Ohio	Noble	population	14702
+39123	Ohio	Ottawa	population	41396
+39125	Ohio	Paulding	population	19420
+39127	Ohio	Perry	population	36303
+39129	Ohio	Pickaway	population	55990
+39131	Ohio	Pike	population	28628
+39133	Ohio	Portage	population	161624
+39135	Ohio	Preble	population	42083
+39137	Ohio	Putnam	population	34294
+39139	Ohio	Richland	population	123510
+39141	Ohio	Ross	population	78249
+39143	Ohio	Sandusky	population	60734
+39145	Ohio	Scioto	population	79277
+39147	Ohio	Seneca	population	56469
+39149	Ohio	Shelby	population	49307
+39151	Ohio	Stark	population	375087
+39153	Ohio	Summit	population	539832
+39155	Ohio	Trumbull	population	209264
+39157	Ohio	Tuscarawas	population	92508
+39159	Ohio	Union	population	52764
+39161	Ohio	Van Wert	population	28601
+39163	Ohio	Vinton	population	13367
+39165	Ohio	Warren	population	214910
+39167	Ohio	Washington	population	61755
+39169	Ohio	Wayne	population	114611
+39171	Ohio	Williams	population	37597
+39173	Ohio	Wood	population	126355
+39175	Ohio	Wyandot	population	22692
+40001	Oklahoma	Adair	population	22612
+40003	Oklahoma	Alfalfa	population	5662
+40005	Oklahoma	Atoka	population	14206
+40007	Oklahoma	Beaver	population	5624
+40009	Oklahoma	Beckham	population	22288
+40011	Oklahoma	Blaine	population	9780
+40013	Oklahoma	Bryan	population	43089
+40015	Oklahoma	Caddo	population	29537
+40017	Oklahoma	Canadian	population	119492
+40019	Oklahoma	Carter	population	48096
+40021	Oklahoma	Cherokee	population	47845
+40023	Oklahoma	Choctaw	population	15250
+40025	Oklahoma	Cimarron	population	2487
+40027	Oklahoma	Cleveland	population	261281
+40029	Oklahoma	Coal	population	5928
+40031	Oklahoma	Comanche	population	125815
+40033	Oklahoma	Cotton	population	6179
+40035	Oklahoma	Craig	population	15073
+40037	Oklahoma	Creek	population	70467
+40039	Oklahoma	Custer	population	27750
+40041	Oklahoma	Delaware	population	41633
+40043	Oklahoma	Dewey	population	4867
+40045	Oklahoma	Ellis	population	4051
+40047	Oklahoma	Garfield	population	60670
+40049	Oklahoma	Garvin	population	27452
+40051	Oklahoma	Grady	population	53020
+40053	Oklahoma	Grant	population	4585
+40055	Oklahoma	Greer	population	6125
+40057	Oklahoma	Harmon	population	2919
+40059	Oklahoma	Harper	population	3695
+40061	Oklahoma	Haskell	population	12810
+40063	Oklahoma	Hughes	population	13843
+40065	Oklahoma	Jackson	population	26447
+40067	Oklahoma	Jefferson	population	6506
+40069	Oklahoma	Johnston	population	11139
+40071	Oklahoma	Kay	population	46159
+40073	Oklahoma	Kingfisher	population	15213
+40075	Oklahoma	Kiowa	population	9416
+40077	Oklahoma	Latimer	population	11155
+40079	Oklahoma	Le Flore	population	50628
+40081	Oklahoma	Lincoln	population	34155
+40083	Oklahoma	Logan	population	42499
+40085	Oklahoma	Love	population	9386
+40087	Oklahoma	McClain	population	35235
+40089	Oklahoma	McCurtain	population	33195
+40091	Oklahoma	McIntosh	population	20360
+40093	Oklahoma	Major	population	7657
+40095	Oklahoma	Marshall	population	16049
+40097	Oklahoma	Mayes	population	41389
+40099	Oklahoma	Murray	population	13571
+40101	Oklahoma	Muskogee	population	71003
+40103	Oklahoma	Noble	population	11578
+40105	Oklahoma	Nowata	population	10629
+40107	Oklahoma	Okfuskee	population	12348
+40109	Oklahoma	Oklahoma	population	732371
+40111	Oklahoma	Okmulgee	population	39937
+40113	Oklahoma	Osage	population	47425
+40115	Oklahoma	Ottawa	population	31860
+40117	Oklahoma	Pawnee	population	16730
+40119	Oklahoma	Payne	population	77988
+40121	Oklahoma	Pittsburg	population	45625
+40123	Oklahoma	Pontotoc	population	37799
+40125	Oklahoma	Pottawatomie	population	70280
+40127	Oklahoma	Pushmataha	population	11478
+40129	Oklahoma	Roger Mills	population	3702
+40131	Oklahoma	Rogers	population	87706
+40133	Oklahoma	Seminole	population	25292
+40135	Oklahoma	Sequoyah	population	42341
+40137	Oklahoma	Stephens	population	45197
+40139	Oklahoma	Texas	population	21312
+40141	Oklahoma	Tillman	population	8061
+40143	Oklahoma	Tulsa	population	610599
+40145	Oklahoma	Wagoner	population	74098
+40147	Oklahoma	Washington	population	51476
+40149	Oklahoma	Washita	population	11574
+40151	Oklahoma	Woods	population	8775
+40153	Oklahoma	Woodward	population	20034
+41001	Oregon	Baker	population	15984
+41003	Oregon	Benton	population	85928
+41005	Oregon	Clackamas	population	380207
+41007	Oregon	Clatsop	population	37153
+41009	Oregon	Columbia	population	49402
+41011	Oregon	Coos	population	62791
+41013	Oregon	Crook	population	20839
+41015	Oregon	Curry	population	22426
+41017	Oregon	Deschutes	population	160338
+41019	Oregon	Douglas	population	107490
+41021	Oregon	Gilliam	population	1937
+41023	Oregon	Grant	population	7410
+41025	Oregon	Harney	population	7373
+41027	Oregon	Hood River	population	22493
+41029	Oregon	Jackson	population	204822
+41031	Oregon	Jefferson	population	21771
+41033	Oregon	Josephine	population	82987
+41035	Oregon	Klamath	population	66299
+41037	Oregon	Lake	population	7908
+41039	Oregon	Lane	population	353416
+41041	Oregon	Lincoln	population	45933
+41043	Oregon	Linn	population	118122
+41045	Oregon	Malheur	population	31068
+41047	Oregon	Marion	population	318872
+41049	Oregon	Morrow	population	11169
+41051	Oregon	Multnomah	population	748031
+41053	Oregon	Polk	population	75993
+41055	Oregon	Sherman	population	1718
+41057	Oregon	Tillamook	population	25403
+41059	Oregon	Umatilla	population	76725
+41061	Oregon	Union	population	25791
+41063	Oregon	Wallowa	population	6990
+41065	Oregon	Wasco	population	25234
+41067	Oregon	Washington	population	540410
+41069	Oregon	Wheeler	population	1426
+41071	Oregon	Yamhill	population	100000
+42001	Pennsylvania	Adams	population	101434
+42003	Pennsylvania	Allegheny	population	1227066
+42005	Pennsylvania	Armstrong	population	68568
+42007	Pennsylvania	Beaver	population	170414
+42009	Pennsylvania	Bedford	population	49739
+42011	Pennsylvania	Berks	population	412778
+42013	Pennsylvania	Blair	population	127099
+42015	Pennsylvania	Bradford	population	62917
+42017	Pennsylvania	Bucks	population	626854
+42019	Pennsylvania	Butler	population	184848
+42021	Pennsylvania	Cambria	population	143728
+42023	Pennsylvania	Cameron	population	5010
+42025	Pennsylvania	Carbon	population	65154
+42027	Pennsylvania	Centre	population	154722
+42029	Pennsylvania	Chester	population	503897
+42031	Pennsylvania	Clarion	population	40013
+42033	Pennsylvania	Clearfield	population	81445
+42035	Pennsylvania	Clinton	population	39208
+42037	Pennsylvania	Columbia	population	67476
+42039	Pennsylvania	Crawford	population	88740
+42041	Pennsylvania	Cumberland	population	237892
+42043	Pennsylvania	Dauphin	population	268977
+42045	Pennsylvania	Delaware	population	559494
+42047	Pennsylvania	Elk	population	31751
+42049	Pennsylvania	Erie	population	280985
+42051	Pennsylvania	Fayette	population	136097
+42053	Pennsylvania	Forest	population	7589
+42055	Pennsylvania	Franklin	population	150811
+42057	Pennsylvania	Fulton	population	14801
+42059	Pennsylvania	Greene	population	38623
+42061	Pennsylvania	Huntingdon	population	45875
+42063	Pennsylvania	Indiana	population	89298
+42065	Pennsylvania	Jefferson	population	44976
+42067	Pennsylvania	Juniata	population	24400
+42069	Pennsylvania	Lackawanna	population	214166
+42071	Pennsylvania	Lancaster	population	523594
+42073	Pennsylvania	Lawrence	population	90535
+42075	Pennsylvania	Lebanon	population	134311
+42077	Pennsylvania	Lehigh	population	352947
+42079	Pennsylvania	Luzerne	population	320651
+42081	Pennsylvania	Lycoming	population	116747
+42083	Pennsylvania	McKean	population	43222
+42085	Pennsylvania	Mercer	population	116205
+42087	Pennsylvania	Mifflin	population	46858
+42089	Pennsylvania	Monroe	population	169882
+42091	Pennsylvania	Montgomery	population	804210
+42093	Pennsylvania	Montour	population	18296
+42095	Pennsylvania	Northampton	population	298476
+42097	Pennsylvania	Northumberland	population	94558
+42099	Pennsylvania	Perry	population	46042
+42101	Pennsylvania	Philadelphia	population	1536471
+42103	Pennsylvania	Pike	population	56852
+42105	Pennsylvania	Potter	population	17453
+42107	Pennsylvania	Schuylkill	population	147513
+42109	Pennsylvania	Snyder	population	39819
+42111	Pennsylvania	Somerset	population	77405
+42113	Pennsylvania	Sullivan	population	6479
+42115	Pennsylvania	Susquehanna	population	43192
+42117	Pennsylvania	Tioga	population	42419
+42119	Pennsylvania	Union	population	44847
+42121	Pennsylvania	Venango	population	54683
+42123	Pennsylvania	Warren	population	41441
+42125	Pennsylvania	Washington	population	208282
+42127	Pennsylvania	Wayne	population	53004
+42129	Pennsylvania	Westmoreland	population	364471
+42131	Pennsylvania	Wyoming	population	28406
+42133	Pennsylvania	York	population	436770
+44001	Rhode Island	Bristol	population	49800
+44003	Rhode Island	Kent	population	165535
+44005	Rhode Island	Newport	population	82695
+44007	Rhode Island	Providence	population	626709
+44009	Rhode Island	Washington	population	126563
+45001	South Carolina	Abbeville	population	25161
+45003	South Carolina	Aiken	population	160682
+45005	South Carolina	Allendale	population	10181
+45007	South Carolina	Anderson	population	188488
+45009	South Carolina	Bamberg	population	15975
+45011	South Carolina	Barnwell	population	22358
+45013	South Carolina	Beaufort	population	164684
+45015	South Carolina	Berkeley	population	183525
+45017	South Carolina	Calhoun	population	15145
+45019	South Carolina	Charleston	population	357704
+45021	South Carolina	Cherokee	population	55540
+45023	South Carolina	Chester	population	32916
+45025	South Carolina	Chesterfield	population	46557
+45027	South Carolina	Clarendon	population	34726
+45029	South Carolina	Colleton	population	38611
+45031	South Carolina	Darlington	population	68299
+45033	South Carolina	Dillon	population	31758
+45035	South Carolina	Dorchester	population	140892
+45037	South Carolina	Edgefield	population	26670
+45039	South Carolina	Fairfield	population	23571
+45041	South Carolina	Florence	population	137862
+45043	South Carolina	Georgetown	population	59991
+45045	South Carolina	Greenville	population	461299
+45047	South Carolina	Greenwood	population	69835
+45049	South Carolina	Hampton	population	20821
+45051	South Carolina	Horry	population	276340
+45053	South Carolina	Jasper	population	25195
+45055	South Carolina	Kershaw	population	62273
+45057	South Carolina	Lancaster	population	77908
+45059	South Carolina	Laurens	population	66528
+45061	South Carolina	Lee	population	18976
+45063	South Carolina	Lexington	population	267129
+45065	South Carolina	McCormick	population	10035
+45067	South Carolina	Marion	population	32846
+45069	South Carolina	Marlboro	population	28509
+45071	South Carolina	Newberry	population	37721
+45073	South Carolina	Oconee	population	74418
+45075	South Carolina	Orangeburg	population	91910
+45077	South Carolina	Pickens	population	119574
+45079	South Carolina	Richland	population	389116
+45081	South Carolina	Saluda	population	19882
+45083	South Carolina	Spartanburg	population	286868
+45085	South Carolina	Sumter	population	107460
+45087	South Carolina	Union	population	28679
+45089	South Carolina	Williamsburg	population	34084
+45091	South Carolina	York	population	230528
+46003	South Dakota	Aurora	population	2694
+46005	South Dakota	Beadle	population	17550
+46007	South Dakota	Bennett	population	3441
+46009	South Dakota	Bon Homme	population	6983
+46011	South Dakota	Brookings	population	32226
+46013	South Dakota	Brown	population	36822
+46015	South Dakota	Brule	population	5283
+46017	South Dakota	Buffalo	population	1988
+46019	South Dakota	Butte	population	10259
+46021	South Dakota	Campbell	population	1427
+46023	South Dakota	Charles Mix	population	9208
+46025	South Dakota	Clark	population	3628
+46027	South Dakota	Clay	population	14051
+46029	South Dakota	Codington	population	27442
+46031	South Dakota	Corson	population	4022
+46033	South Dakota	Custer	population	8338
+46035	South Dakota	Davison	population	19651
+46037	South Dakota	Day	population	5741
+46039	South Dakota	Deuel	population	4359
+46041	South Dakota	Dewey	population	5421
+46043	South Dakota	Douglas	population	2972
+46045	South Dakota	Edmunds	population	4056
+46047	South Dakota	Fall River	population	6981
+46049	South Dakota	Faulk	population	2367
+46051	South Dakota	Grant	population	7250
+46053	South Dakota	Gregory	population	4216
+46055	South Dakota	Haakon	population	1907
+46057	South Dakota	Hamlin	population	5978
+46059	South Dakota	Hand	population	3423
+46061	South Dakota	Hanson	population	3376
+46063	South Dakota	Harding	population	1269
+46065	South Dakota	Hughes	population	17292
+46067	South Dakota	Hutchinson	population	7257
+46069	South Dakota	Hyde	population	1394
+46071	South Dakota	Jackson	population	3169
+46073	South Dakota	Jerauld	population	2085
+46075	South Dakota	Jones	population	1003
+46077	South Dakota	Kingsbury	population	5179
+46079	South Dakota	Lake	population	11567
+46081	South Dakota	Lawrence	population	24312
+46083	South Dakota	Lincoln	population	46793
+46085	South Dakota	Lyman	population	3806
+46087	South Dakota	McCook	population	5556
+46089	South Dakota	McPherson	population	2452
+46091	South Dakota	Marshall	population	4597
+46093	South Dakota	Meade	population	25546
+46095	South Dakota	Mellette	population	2067
+46097	South Dakota	Miner	population	2359
+46099	South Dakota	Minnehaha	population	171752
+46101	South Dakota	Moody	population	6475
+46103	South Dakota	Pennington	population	102815
+46105	South Dakota	Perkins	population	3001
+46107	South Dakota	Potter	population	2364
+46109	South Dakota	Roberts	population	10286
+46111	South Dakota	Sanborn	population	2392
+46113	South Dakota	Shannon	population	13928
+46115	South Dakota	Spink	population	6470
+46117	South Dakota	Stanley	population	3002
+46119	South Dakota	Sully	population	1375
+46121	South Dakota	Todd	population	9822
+46123	South Dakota	Tripp	population	5615
+46125	South Dakota	Turner	population	8332
+46127	South Dakota	Union	population	14651
+46129	South Dakota	Walworth	population	5575
+46135	South Dakota	Yankton	population	22612
+46137	South Dakota	Ziebach	population	2852
+47001	Tennessee	Anderson	population	75233
+47003	Tennessee	Bedford	population	45509
+47005	Tennessee	Benton	population	16430
+47007	Tennessee	Bledsoe	population	12865
+47009	Tennessee	Blount	population	123901
+47011	Tennessee	Bradley	population	100055
+47013	Tennessee	Campbell	population	40512
+47015	Tennessee	Cannon	population	13761
+47017	Tennessee	Carroll	population	28457
+47019	Tennessee	Carter	population	57185
+47021	Tennessee	Cheatham	population	39078
+47023	Tennessee	Chester	population	17141
+47025	Tennessee	Claiborne	population	32172
+47027	Tennessee	Clay	population	7761
+47029	Tennessee	Cocke	population	35544
+47031	Tennessee	Coffee	population	53016
+47033	Tennessee	Crockett	population	14553
+47035	Tennessee	Cumberland	population	56632
+47037	Tennessee	Davidson	population	635475
+47039	Tennessee	Decatur	population	11687
+47041	Tennessee	DeKalb	population	18854
+47043	Tennessee	Dickson	population	50081
+47045	Tennessee	Dyer	population	38192
+47047	Tennessee	Fayette	population	38513
+47049	Tennessee	Fentress	population	18020
+47051	Tennessee	Franklin	population	40917
+47053	Tennessee	Gibson	population	49935
+47055	Tennessee	Giles	population	29387
+47057	Tennessee	Grainger	population	22766
+47059	Tennessee	Greene	population	69339
+47061	Tennessee	Grundy	population	13545
+47063	Tennessee	Hamblen	population	63062
+47065	Tennessee	Hamilton	population	340855
+47067	Tennessee	Hancock	population	6737
+47069	Tennessee	Hardeman	population	26834
+47071	Tennessee	Hardin	population	25874
+47073	Tennessee	Hawkins	population	56671
+47075	Tennessee	Haywood	population	18470
+47077	Tennessee	Henderson	population	27912
+47079	Tennessee	Henry	population	32352
+47081	Tennessee	Hickman	population	24406
+47083	Tennessee	Houston	population	8333
+47085	Tennessee	Humphreys	population	18470
+47087	Tennessee	Jackson	population	11371
+47089	Tennessee	Jefferson	population	51666
+47091	Tennessee	Johnson	population	18231
+47093	Tennessee	Knox	population	436929
+47095	Tennessee	Lake	population	7779
+47097	Tennessee	Lauderdale	population	27748
+47099	Tennessee	Lawrence	population	42115
+47101	Tennessee	Lewis	population	12142
+47103	Tennessee	Lincoln	population	33431
+47105	Tennessee	Loudon	population	49237
+47107	Tennessee	McMinn	population	52508
+47109	Tennessee	McNairy	population	26094
+47111	Tennessee	Macon	population	22485
+47113	Tennessee	Madison	population	98255
+47115	Tennessee	Marion	population	28223
+47117	Tennessee	Marshall	population	30881
+47119	Tennessee	Maury	population	81509
+47121	Tennessee	Meigs	population	11737
+47123	Tennessee	Monroe	population	44882
+47125	Tennessee	Montgomery	population	176619
+47127	Tennessee	Moore	population	6411
+47129	Tennessee	Morgan	population	21838
+47131	Tennessee	Obion	population	31790
+47133	Tennessee	Overton	population	22169
+47135	Tennessee	Perry	population	7898
+47137	Tennessee	Pickett	population	5122
+47139	Tennessee	Polk	population	16779
+47141	Tennessee	Putnam	population	72958
+47143	Tennessee	Rhea	population	32079
+47145	Tennessee	Roane	population	53838
+47147	Tennessee	Robertson	population	67106
+47149	Tennessee	Rutherford	population	268921
+47151	Tennessee	Scott	population	22160
+47153	Tennessee	Sequatchie	population	14346
+47155	Tennessee	Sevier	population	91466
+47157	Tennessee	Shelby	population	935088
+47159	Tennessee	Smith	population	19150
+47161	Tennessee	Stewart	population	13186
+47163	Tennessee	Sullivan	population	157419
+47165	Tennessee	Sumner	population	163686
+47167	Tennessee	Tipton	population	61293
+47169	Tennessee	Trousdale	population	7816
+47171	Tennessee	Unicoi	population	18280
+47173	Tennessee	Union	population	19200
+47175	Tennessee	Van Buren	population	5483
+47177	Tennessee	Warren	population	39927
+47179	Tennessee	Washington	population	124353
+47181	Tennessee	Wayne	population	16951
+47183	Tennessee	Weakley	population	34980
+47185	Tennessee	White	population	26149
+47187	Tennessee	Williamson	population	188560
+47189	Tennessee	Wilson	population	116617
+48001	Texas	Anderson	population	58308
+48003	Texas	Andrews	population	15445
+48005	Texas	Angelina	population	87669
+48007	Texas	Aransas	population	23374
+48009	Texas	Archer	population	8842
+48011	Texas	Armstrong	population	1928
+48013	Texas	Atascosa	population	45579
+48015	Texas	Austin	population	28665
+48017	Texas	Bailey	population	7247
+48019	Texas	Bandera	population	20538
+48021	Texas	Bastrop	population	75115
+48023	Texas	Baylor	population	3741
+48025	Texas	Bee	population	32095
+48027	Texas	Bell	population	315196
+48029	Texas	Bexar	population	1756153
+48031	Texas	Blanco	population	10600
+48033	Texas	Borden	population	626
+48035	Texas	Bosque	population	18306
+48037	Texas	Bowie	population	92793
+48039	Texas	Brazoria	population	319973
+48041	Texas	Brazos	population	197632
+48043	Texas	Brewster	population	9386
+48045	Texas	Briscoe	population	1651
+48047	Texas	Brooks	population	7222
+48049	Texas	Brown	population	38186
+48051	Texas	Burleson	population	17251
+48053	Texas	Burnet	population	43117
+48055	Texas	Caldwell	population	38442
+48057	Texas	Calhoun	population	21442
+48059	Texas	Callahan	population	13515
+48061	Texas	Cameron	population	414123
+48063	Texas	Camp	population	12407
+48065	Texas	Carson	population	6259
+48067	Texas	Cass	population	30256
+48069	Texas	Castro	population	8116
+48071	Texas	Chambers	population	35552
+48073	Texas	Cherokee	population	51140
+48075	Texas	Childress	population	6984
+48077	Texas	Clay	population	10721
+48079	Texas	Cochran	population	3109
+48081	Texas	Coke	population	3305
+48083	Texas	Coleman	population	8763
+48085	Texas	Collin	population	812226
+48087	Texas	Collingsworth	population	3092
+48089	Texas	Colorado	population	20816
+48091	Texas	Comal	population	111963
+48093	Texas	Comanche	population	13891
+48095	Texas	Concho	population	4081
+48097	Texas	Cooke	population	38396
+48099	Texas	Coryell	population	76508
+48101	Texas	Cottle	population	1499
+48103	Texas	Crane	population	4383
+48105	Texas	Crockett	population	3722
+48107	Texas	Crosby	population	6092
+48109	Texas	Culberson	population	2383
+48111	Texas	Dallam	population	6866
+48113	Texas	Dallas	population	2416014
+48115	Texas	Dawson	population	13751
+48117	Texas	Deaf Smith	population	19595
+48119	Texas	Delta	population	5212
+48121	Texas	Denton	population	686406
+48123	Texas	DeWitt	population	20255
+48125	Texas	Dickens	population	2402
+48127	Texas	Dimmit	population	10118
+48129	Texas	Donley	population	3651
+48131	Texas	Duval	population	11669
+48133	Texas	Eastland	population	18633
+48135	Texas	Ector	population	140111
+48137	Texas	Edwards	population	1966
+48139	Texas	Ellis	population	152753
+48141	Texas	El Paso	population	820790
+48143	Texas	Erath	population	38266
+48145	Texas	Falls	population	17944
+48147	Texas	Fannin	population	33958
+48149	Texas	Fayette	population	24732
+48151	Texas	Fisher	population	3914
+48153	Texas	Floyd	population	6394
+48155	Texas	Foard	population	1341
+48157	Texas	Fort Bend	population	606953
+48159	Texas	Franklin	population	10551
+48161	Texas	Freestone	population	19684
+48163	Texas	Frio	population	17400
+48165	Texas	Gaines	population	18003
+48167	Texas	Galveston	population	295747
+48169	Texas	Garza	population	6562
+48171	Texas	Gillespie	population	25114
+48173	Texas	Glasscock	population	1251
+48175	Texas	Goliad	population	7243
+48177	Texas	Gonzales	population	19904
+48179	Texas	Gray	population	22755
+48181	Texas	Grayson	population	121419
+48183	Texas	Gregg	population	123081
+48185	Texas	Grimes	population	26887
+48187	Texas	Guadalupe	population	135757
+48189	Texas	Hale	population	36498
+48191	Texas	Hall	population	3377
+48193	Texas	Hamilton	population	8472
+48195	Texas	Hansford	population	5577
+48197	Texas	Hardeman	population	4176
+48199	Texas	Hardin	population	55246
+48201	Texas	Harris	population	4180894
+48203	Texas	Harrison	population	66296
+48205	Texas	Hartley	population	5971
+48207	Texas	Haskell	population	5989
+48209	Texas	Hays	population	164050
+48211	Texas	Hemphill	population	3970
+48213	Texas	Henderson	population	78826
+48215	Texas	Hidalgo	population	797810
+48217	Texas	Hill	population	35392
+48219	Texas	Hockley	population	22892
+48221	Texas	Hood	population	51670
+48223	Texas	Hopkins	population	35371
+48225	Texas	Houston	population	23484
+48227	Texas	Howard	population	35122
+48229	Texas	Hudspeth	population	3423
+48231	Texas	Hunt	population	86531
+48233	Texas	Hutchinson	population	22132
+48235	Texas	Irion	population	1620
+48237	Texas	Jack	population	9035
+48239	Texas	Jackson	population	14032
+48241	Texas	Jasper	population	36296
+48243	Texas	Jeff Davis	population	2288
+48245	Texas	Jefferson	population	252802
+48247	Texas	Jim Hogg	population	5265
+48249	Texas	Jim Wells	population	41339
+48251	Texas	Johnson	population	152734
+48253	Texas	Jones	population	20146
+48255	Texas	Karnes	population	14946
+48257	Texas	Kaufman	population	105358
+48259	Texas	Kendall	population	34781
+48261	Texas	Kenedy	population	437
+48263	Texas	Kent	population	825
+48265	Texas	Kerr	population	49783
+48267	Texas	Kimble	population	4632
+48269	Texas	King	population	255
+48271	Texas	Kinney	population	3630
+48273	Texas	Kleberg	population	32196
+48275	Texas	Knox	population	3758
+48277	Texas	Lamar	population	50074
+48279	Texas	Lamb	population	14167
+48281	Texas	Lampasas	population	19891
+48283	Texas	La Salle	population	7001
+48285	Texas	Lavaca	population	19347
+48287	Texas	Lee	population	16666
+48289	Texas	Leon	population	16916
+48291	Texas	Liberty	population	76206
+48293	Texas	Limestone	population	23634
+48295	Texas	Lipscomb	population	3327
+48297	Texas	Live Oak	population	11447
+48299	Texas	Llano	population	19181
+48301	Texas	Loving	population	94
+48303	Texas	Lubbock	population	283910
+48305	Texas	Lynn	population	5888
+48307	Texas	McCulloch	population	8290
+48309	Texas	McLennan	population	238564
+48311	Texas	McMullen	population	690
+48313	Texas	Madison	population	13747
+48315	Texas	Marion	population	10507
+48317	Texas	Martin	population	4934
+48319	Texas	Mason	population	3984
+48321	Texas	Matagorda	population	36809
+48323	Texas	Maverick	population	55405
+48325	Texas	Medina	population	46367
+48327	Texas	Menard	population	2264
+48329	Texas	Midland	population	140308
+48331	Texas	Milam	population	24699
+48333	Texas	Mills	population	4848
+48335	Texas	Mitchell	population	9426
+48337	Texas	Montague	population	19710
+48339	Texas	Montgomery	population	471734
+48341	Texas	Moore	population	21954
+48343	Texas	Morris	population	12848
+48345	Texas	Motley	population	1230
+48347	Texas	Nacogdoches	population	65466
+48349	Texas	Navarro	population	48054
+48351	Texas	Newton	population	14454
+48353	Texas	Nolan	population	15269
+48355	Texas	Nueces	population	343281
+48357	Texas	Ochiltree	population	10530
+48359	Texas	Oldham	population	2074
+48361	Texas	Orange	population	82487
+48363	Texas	Palo Pinto	population	28115
+48365	Texas	Panola	population	24058
+48367	Texas	Parker	population	118376
+48369	Texas	Parmer	population	10332
+48371	Texas	Pecos	population	15716
+48373	Texas	Polk	population	45725
+48375	Texas	Potter	population	122285
+48377	Texas	Presidio	population	7761
+48379	Texas	Rains	population	11059
+48381	Texas	Randall	population	123351
+48383	Texas	Reagan	population	3390
+48385	Texas	Real	population	3426
+48387	Texas	Red River	population	12703
+48389	Texas	Reeves	population	13757
+48391	Texas	Refugio	population	7291
+48393	Texas	Roberts	population	816
+48395	Texas	Robertson	population	16740
+48397	Texas	Rockwall	population	81290
+48399	Texas	Runnels	population	10524
+48401	Texas	Rusk	population	53759
+48403	Texas	Sabine	population	10740
+48405	Texas	San Augustine	population	8874
+48407	Texas	San Jacinto	population	26801
+48409	Texas	San Patricio	population	64726
+48411	Texas	San Saba	population	6023
+48413	Texas	Schleicher	population	3309
+48415	Texas	Scurry	population	16919
+48417	Texas	Shackelford	population	3318
+48419	Texas	Shelby	population	25772
+48421	Texas	Sherman	population	3040
+48423	Texas	Smith	population	213381
+48425	Texas	Somervell	population	8451
+48427	Texas	Starr	population	61715
+48429	Texas	Stephens	population	9548
+48431	Texas	Sterling	population	1158
+48433	Texas	Stonewall	population	1472
+48435	Texas	Sutton	population	4007
+48437	Texas	Swisher	population	7801
+48439	Texas	Tarrant	population	1849815
+48441	Texas	Taylor	population	132755
+48443	Texas	Terrell	population	960
+48445	Texas	Terry	population	12675
+48447	Texas	Throckmorton	population	1609
+48449	Texas	Titus	population	32596
+48451	Texas	Tom Green	population	111823
+48453	Texas	Travis	population	1063130
+48455	Texas	Trinity	population	14659
+48457	Texas	Tyler	population	21666
+48459	Texas	Upshur	population	39826
+48461	Texas	Upton	population	3346
+48463	Texas	Uvalde	population	26535
+48465	Texas	Val Verde	population	49106
+48467	Texas	Van Zandt	population	52776
+48469	Texas	Victoria	population	87545
+48471	Texas	Walker	population	68087
+48473	Texas	Waller	population	44013
+48475	Texas	Ward	population	10716
+48477	Texas	Washington	population	33791
+48479	Texas	Webb	population	256496
+48481	Texas	Wharton	population	41314
+48483	Texas	Wheeler	population	5465
+48485	Texas	Wichita	population	130698
+48487	Texas	Wilbarger	population	13404
+48489	Texas	Willacy	population	22095
+48491	Texas	Williamson	population	442782
+48493	Texas	Wilson	population	43789
+48495	Texas	Winkler	population	7178
+48497	Texas	Wise	population	59833
+48499	Texas	Wood	population	42164
+48501	Texas	Yoakum	population	8005
+48503	Texas	Young	population	18484
+48505	Texas	Zapata	population	14282
+48507	Texas	Zavala	population	11849
+49001	Utah	Beaver	population	6594
+49003	Utah	Box Elder	population	50290
+49005	Utah	Cache	population	114699
+49007	Utah	Carbon	population	21318
+49009	Utah	Daggett	population	1156
+49011	Utah	Davis	population	311811
+49013	Utah	Duchesne	population	18888
+49015	Utah	Emery	population	10944
+49017	Utah	Garfield	population	5144
+49019	Utah	Grand	population	9325
+49021	Utah	Iron	population	46740
+49023	Utah	Juab	population	10335
+49025	Utah	Kane	population	7257
+49027	Utah	Millard	population	12645
+49029	Utah	Morgan	population	9685
+49031	Utah	Piute	population	1497
+49033	Utah	Rich	population	2303
+49035	Utah	Salt Lake	population	1048985
+49037	Utah	San Juan	population	14825
+49039	Utah	Sanpete	population	27988
+49041	Utah	Sevier	population	20971
+49043	Utah	Summit	population	37594
+49045	Utah	Tooele	population	59326
+49047	Utah	Uintah	population	33163
+49049	Utah	Utah	population	530499
+49051	Utah	Wasatch	population	24417
+49053	Utah	Washington	population	141666
+49055	Utah	Wayne	population	2737
+49057	Utah	Weber	population	234420
+50001	Vermont	Addison	population	36742
+50003	Vermont	Bennington	population	36970
+50005	Vermont	Caledonia	population	31166
+50007	Vermont	Chittenden	population	157491
+50009	Vermont	Essex	population	6291
+50011	Vermont	Franklin	population	48113
+50013	Vermont	Grand Isle	population	6931
+50015	Vermont	Lamoille	population	24701
+50017	Vermont	Orange	population	29006
+50019	Vermont	Orleans	population	27173
+50021	Vermont	Rutland	population	61289
+50023	Vermont	Washington	population	59626
+50025	Vermont	Windham	population	44266
+50027	Vermont	Windsor	population	56666
+51001	Virginia	Accomack	population	33336
+51003	Virginia	Albemarle	population	100553
+51005	Virginia	Alleghany	population	16175
+51007	Virginia	Amelia	population	12805
+51009	Virginia	Amherst	population	32167
+51011	Virginia	Appomattox	population	15041
+51013	Virginia	Arlington	population	216004
+51015	Virginia	Augusta	population	73549
+51017	Virginia	Bath	population	4657
+51019	Virginia	Bedford	population	69246
+51021	Virginia	Bland	population	6818
+51023	Virginia	Botetourt	population	32928
+51025	Virginia	Brunswick	population	17204
+51027	Virginia	Buchanan	population	23581
+51029	Virginia	Buckingham	population	17278
+51031	Virginia	Campbell	population	55032
+51033	Virginia	Caroline	population	28674
+51035	Virginia	Carroll	population	29981
+51036	Virginia	Charles City	population	7241
+51037	Virginia	Charlotte	population	12505
+51041	Virginia	Chesterfield	population	320277
+51043	Virginia	Clarke	population	14258
+51045	Virginia	Craig	population	5099
+51047	Virginia	Culpeper	population	47476
+51049	Virginia	Cumberland	population	9969
+51051	Virginia	Dickenson	population	15741
+51053	Virginia	Dinwiddie	population	27918
+51057	Virginia	Essex	population	11205
+51059	Virginia	Fairfax	population	1100692
+51061	Virginia	Fauquier	population	66071
+51063	Virginia	Floyd	population	15378
+51065	Virginia	Fluvanna	population	26061
+51067	Virginia	Franklin	population	56419
+51069	Virginia	Frederick	population	79666
+51071	Virginia	Giles	population	17124
+51073	Virginia	Gloucester	population	36901
+51075	Virginia	Goochland	population	21883
+51077	Virginia	Grayson	population	15328
+51079	Virginia	Greene	population	18660
+51081	Virginia	Greensville	population	12112
+51083	Virginia	Halifax	population	36056
+51085	Virginia	Hanover	population	100342
+51087	Virginia	Henrico	population	310445
+51089	Virginia	Henry	population	53741
+51091	Virginia	Highland	population	2267
+51093	Virginia	Isle of Wight	population	35356
+51095	Virginia	James City	population	68200
+51097	Virginia	King and Queen	population	6997
+51099	Virginia	King George	population	24161
+51101	Virginia	King William	population	15981
+51103	Virginia	Lancaster	population	11282
+51105	Virginia	Lee	population	25146
+51107	Virginia	Loudoun	population	325405
+51109	Virginia	Louisa	population	33395
+51111	Virginia	Lunenburg	population	12874
+51113	Virginia	Madison	population	13169
+51115	Virginia	Mathews	population	8962
+51117	Virginia	Mecklenburg	population	32622
+51119	Virginia	Middlesex	population	10854
+51121	Virginia	Montgomery	population	94342
+51125	Virginia	Nelson	population	15097
+51127	Virginia	New Kent	population	18822
+51131	Virginia	Northampton	population	12377
+51133	Virginia	Northumberland	population	12461
+51135	Virginia	Nottoway	population	15840
+51137	Virginia	Orange	population	33938
+51139	Virginia	Page	population	23958
+51141	Virginia	Patrick	population	18390
+51143	Virginia	Pittsylvania	population	62844
+51145	Virginia	Powhatan	population	28110
+51147	Virginia	Prince Edward	population	23343
+51149	Virginia	Prince George	population	36555
+51153	Virginia	Prince William	population	419006
+51155	Virginia	Pulaski	population	34607
+51157	Virginia	Rappahannock	population	7444
+51159	Virginia	Richmond	population	9220
+51161	Virginia	Roanoke	population	92740
+51163	Virginia	Rockbridge	population	22375
+51165	Virginia	Rockingham	population	76589
+51167	Virginia	Russell	population	28749
+51169	Virginia	Scott	population	23126
+51171	Virginia	Shenandoah	population	42289
+51173	Virginia	Smyth	population	32029
+51175	Virginia	Southampton	population	18408
+51177	Virginia	Spotsylvania	population	124327
+51179	Virginia	Stafford	population	132133
+51181	Virginia	Surry	population	6931
+51183	Virginia	Sussex	population	12087
+51185	Virginia	Tazewell	population	44715
+51187	Virginia	Warren	population	37749
+51191	Virginia	Washington	population	54827
+51193	Virginia	Westmoreland	population	17595
+51195	Virginia	Wise	population	41565
+51197	Virginia	Wythe	population	29204
+51199	Virginia	York	population	66134
+51510	Virginia	Alexandria City	population	144301
+51515	Virginia	Bedford City	population	6181
+51520	Virginia	Bristol City	population	17750
+51530	Virginia	Buena Vista City	population	6636
+51540	Virginia	Charlottesville City	population	43511
+51550	Virginia	Chesapeake City	population	225050
+51570	Virginia	Colonial Heights City	population	17440
+51580	Virginia	Covington City	population	5939
+51590	Virginia	Danville City	population	42852
+51595	Virginia	Emporia City	population	5871
+51600	Virginia	Fairfax City	population	22549
+51610	Virginia	Falls Church City	population	12751
+51620	Virginia	Franklin City	population	8588
+51630	Virginia	Fredericksburg City	population	25691
+51640	Virginia	Galax City	population	6983
+51650	Virginia	Hampton City	population	136401
+51660	Virginia	Harrisonburg City	population	49973
+51670	Virginia	Hopewell City	population	22580
+51678	Virginia	Lexington City	population	6995
+51680	Virginia	Lynchburg City	population	76504
+51683	Virginia	Manassas City	population	39300
+51685	Virginia	Manassas Park City	population	15332
+51690	Virginia	Martinsville City	population	13559
+51700	Virginia	Newport News City	population	179611
+51710	Virginia	Norfolk City	population	242628
+51720	Virginia	Norton City	population	4054
+51730	Virginia	Petersburg City	population	32326
+51735	Virginia	Poquoson City	population	12000
+51740	Virginia	Portsmouth City	population	95684
+51750	Virginia	Radford City	population	16414
+51760	Virginia	Richmond City	population	205533
+51770	Virginia	Roanoke City	population	96714
+51775	Virginia	Salem City	population	24961
+51790	Virginia	Staunton City	population	23769
+51800	Virginia	Suffolk City	population	84930
+51810	Virginia	Virginia Beach City	population	442707
+51820	Virginia	Waynesboro City	population	21311
+51830	Virginia	Williamsburg City	population	14444
+51840	Virginia	Winchester City	population	26587
+53001	Washington	Adams	population	19027
+53003	Washington	Asotin	population	21933
+53005	Washington	Benton	population	180678
+53007	Washington	Chelan	population	73477
+53009	Washington	Clallam	population	71838
+53011	Washington	Clark	population	433418
+53013	Washington	Columbia	population	4050
+53015	Washington	Cowlitz	population	102478
+53017	Washington	Douglas	population	38971
+53019	Washington	Ferry	population	7689
+53021	Washington	Franklin	population	83455
+53023	Washington	Garfield	population	2262
+53025	Washington	Grant	population	91265
+53027	Washington	Grays Harbor	population	72546
+53029	Washington	Island	population	78971
+53031	Washington	Jefferson	population	29924
+53033	Washington	King	population	1969722
+53035	Washington	Kitsap	population	254633
+53037	Washington	Kittitas	population	41629
+53039	Washington	Klickitat	population	20697
+53041	Washington	Lewis	population	75901
+53043	Washington	Lincoln	population	10476
+53045	Washington	Mason	population	61019
+53047	Washington	Okanogan	population	41411
+53049	Washington	Pacific	population	20930
+53051	Washington	Pend Oreille	population	12936
+53053	Washington	Pierce	population	807904
+53055	Washington	San Juan	population	15844
+53057	Washington	Skagit	population	118109
+53059	Washington	Skamania	population	11137
+53061	Washington	Snohomish	population	722400
+53063	Washington	Spokane	population	473761
+53065	Washington	Stevens	population	43496
+53067	Washington	Thurston	population	256591
+53069	Washington	Wahkiakum	population	3991
+53071	Washington	Walla Walla	population	59588
+53073	Washington	Whatcom	population	203663
+53075	Washington	Whitman	population	45077
+53077	Washington	Yakima	population	247141
+54001	West Virginia	Barbour	population	16520
+54003	West Virginia	Berkeley	population	105750
+54005	West Virginia	Boone	population	24444
+54007	West Virginia	Braxton	population	14485
+54009	West Virginia	Brooke	population	23844
+54011	West Virginia	Cabell	population	96653
+54013	West Virginia	Calhoun	population	7652
+54015	West Virginia	Clay	population	9357
+54017	West Virginia	Doddridge	population	8171
+54019	West Virginia	Fayette	population	45699
+54021	West Virginia	Gilmer	population	8705
+54023	West Virginia	Grant	population	11891
+54025	West Virginia	Greenbrier	population	35800
+54027	West Virginia	Hampshire	population	23812
+54029	West Virginia	Hancock	population	30571
+54031	West Virginia	Hardy	population	13912
+54033	West Virginia	Harrison	population	69436
+54035	West Virginia	Jackson	population	29241
+54037	West Virginia	Jefferson	population	54225
+54039	West Virginia	Kanawha	population	192315
+54041	West Virginia	Lewis	population	16416
+54043	West Virginia	Lincoln	population	21550
+54045	West Virginia	Logan	population	36457
+54047	West Virginia	McDowell	population	21729
+54049	West Virginia	Marion	population	56586
+54051	West Virginia	Marshall	population	32800
+54053	West Virginia	Mason	population	27298
+54055	West Virginia	Mercer	population	62465
+54057	West Virginia	Mineral	population	28192
+54059	West Virginia	Mingo	population	26563
+54061	West Virginia	Monongalia	population	98528
+54063	West Virginia	Monroe	population	13534
+54065	West Virginia	Morgan	population	17535
+54067	West Virginia	Nicholas	population	26268
+54069	West Virginia	Ohio	population	44246
+54071	West Virginia	Pendleton	population	7673
+54073	West Virginia	Pleasants	population	7611
+54075	West Virginia	Pocahontas	population	8786
+54077	West Virginia	Preston	population	33723
+54079	West Virginia	Putnam	population	56008
+54081	West Virginia	Raleigh	population	79127
+54083	West Virginia	Randolph	population	29465
+54085	West Virginia	Ritchie	population	10295
+54087	West Virginia	Roane	population	14858
+54089	West Virginia	Summers	population	13867
+54091	West Virginia	Taylor	population	16916
+54093	West Virginia	Tucker	population	7021
+54095	West Virginia	Tyler	population	9121
+54097	West Virginia	Upshur	population	24322
+54099	West Virginia	Wayne	population	42126
+54101	West Virginia	Webster	population	9143
+54103	West Virginia	Wetzel	population	16351
+54105	West Virginia	Wirt	population	5762
+54107	West Virginia	Wood	population	87120
+54109	West Virginia	Wyoming	population	23419
+55001	Wisconsin	Adams	population	20733
+55003	Wisconsin	Ashland	population	16142
+55005	Wisconsin	Barron	population	45883
+55007	Wisconsin	Bayfield	population	15099
+55009	Wisconsin	Brown	population	251412
+55011	Wisconsin	Buffalo	population	13539
+55013	Wisconsin	Burnett	population	15504
+55015	Wisconsin	Calumet	population	49490
+55017	Wisconsin	Chippewa	population	62778
+55019	Wisconsin	Clark	population	34742
+55021	Wisconsin	Columbia	population	56909
+55023	Wisconsin	Crawford	population	16714
+55025	Wisconsin	Dane	population	495959
+55027	Wisconsin	Dodge	population	88661
+55029	Wisconsin	Door	population	27820
+55031	Wisconsin	Douglas	population	44105
+55033	Wisconsin	Dunn	population	43971
+55035	Wisconsin	Eau Claire	population	99879
+55037	Wisconsin	Florence	population	4440
+55039	Wisconsin	Fond du Lac	population	102079
+55041	Wisconsin	Forest	population	9236
+55043	Wisconsin	Grant	population	51210
+55045	Wisconsin	Green	population	36891
+55047	Wisconsin	Green Lake	population	19094
+55049	Wisconsin	Iowa	population	23599
+55051	Wisconsin	Iron	population	5894
+55053	Wisconsin	Jackson	population	20565
+55055	Wisconsin	Jefferson	population	83943
+55057	Wisconsin	Juneau	population	26722
+55059	Wisconsin	Kenosha	population	167293
+55061	Wisconsin	Kewaunee	population	20589
+55063	Wisconsin	La Crosse	population	115572
+55065	Wisconsin	Lafayette	population	16815
+55067	Wisconsin	Langlade	population	19786
+55069	Wisconsin	Lincoln	population	28602
+55071	Wisconsin	Manitowoc	population	80976
+55073	Wisconsin	Marathon	population	134400
+55075	Wisconsin	Marinette	population	41656
+55077	Wisconsin	Marquette	population	15439
+55078	Wisconsin	Menominee	population	4348
+55079	Wisconsin	Milwaukee	population	952532
+55081	Wisconsin	Monroe	population	45050
+55083	Wisconsin	Oconto	population	37468
+55085	Wisconsin	Oneida	population	35801
+55087	Wisconsin	Outagamie	population	177913
+55089	Wisconsin	Ozaukee	population	86568
+55091	Wisconsin	Pepin	population	7412
+55093	Wisconsin	Pierce	population	40862
+55095	Wisconsin	Polk	population	44040
+55097	Wisconsin	Portage	population	70084
+55099	Wisconsin	Price	population	13994
+55101	Wisconsin	Racine	population	195388
+55103	Wisconsin	Richland	population	17983
+55105	Wisconsin	Rock	population	160092
+55107	Wisconsin	Rusk	population	14621
+55109	Wisconsin	St. Croix	population	84922
+55111	Wisconsin	Sauk	population	62290
+55113	Wisconsin	Sawyer	population	16596
+55115	Wisconsin	Shawano	population	41754
+55117	Wisconsin	Sheboygan	population	115149
+55119	Wisconsin	Taylor	population	20661
+55121	Wisconsin	Trempealeau	population	29001
+55123	Wisconsin	Vernon	population	29954
+55125	Wisconsin	Vilas	population	21442
+55127	Wisconsin	Walworth	population	102931
+55129	Wisconsin	Washburn	population	15912
+55131	Wisconsin	Washington	population	132386
+55133	Wisconsin	Waukesha	population	390730
+55135	Wisconsin	Waupaca	population	52682
+55137	Wisconsin	Waushara	population	24576
+55139	Wisconsin	Winnebago	population	167699
+55141	Wisconsin	Wood	population	74785
+56001	Wyoming	Albany	population	36889
+56003	Wyoming	Big Horn	population	11759
+56005	Wyoming	Campbell	population	46618
+56007	Wyoming	Carbon	population	15786
+56009	Wyoming	Converse	population	13755
+56011	Wyoming	Crook	population	7111
+56013	Wyoming	Fremont	population	40579
+56015	Wyoming	Goshen	population	13536
+56017	Wyoming	Hot Springs	population	4799
+56019	Wyoming	Johnson	population	8642
+56021	Wyoming	Laramie	population	92680
+56023	Wyoming	Lincoln	population	18071
+56025	Wyoming	Natrona	population	76366
+56027	Wyoming	Niobrara	population	2491
+56029	Wyoming	Park	population	28592
+56031	Wyoming	Platte	population	8796
+56033	Wyoming	Sheridan	population	29239
+56035	Wyoming	Sublette	population	10146
+56037	Wyoming	Sweetwater	population	44175
+56039	Wyoming	Teton	population	21548
+56041	Wyoming	Uinta	population	20985
+56043	Wyoming	Washakie	population	8487
+56045	Wyoming	Weston	population	7108

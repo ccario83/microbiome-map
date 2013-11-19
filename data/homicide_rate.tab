@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	homicide_rate
+1001	Alabama	Autauga	homicide_rate	4
+1003	Alabama	Baldwin	homicide_rate	4
+1005	Alabama	Barbour	homicide_rate	5
+1007	Alabama	Bibb	homicide_rate	8
+1009	Alabama	Blount	homicide_rate	4
+1011	Alabama	Bullock	homicide_rate	
+1013	Alabama	Butler	homicide_rate	10
+1015	Alabama	Calhoun	homicide_rate	11
+1017	Alabama	Chambers	homicide_rate	8
+1019	Alabama	Cherokee	homicide_rate	
+1021	Alabama	Chilton	homicide_rate	5
+1023	Alabama	Choctaw	homicide_rate	
+1025	Alabama	Clarke	homicide_rate	8
+1027	Alabama	Clay	homicide_rate	
+1029	Alabama	Cleburne	homicide_rate	12
+1031	Alabama	Coffee	homicide_rate	3
+1033	Alabama	Colbert	homicide_rate	6
+1035	Alabama	Conecuh	homicide_rate	11
+1037	Alabama	Coosa	homicide_rate	
+1039	Alabama	Covington	homicide_rate	4
+1041	Alabama	Crenshaw	homicide_rate	
+1043	Alabama	Cullman	homicide_rate	3
+1045	Alabama	Dale	homicide_rate	6
+1047	Alabama	Dallas	homicide_rate	20
+1049	Alabama	DeKalb	homicide_rate	3
+1051	Alabama	Elmore	homicide_rate	6
+1053	Alabama	Escambia	homicide_rate	9
+1055	Alabama	Etowah	homicide_rate	7
+1057	Alabama	Fayette	homicide_rate	
+1059	Alabama	Franklin	homicide_rate	
+1061	Alabama	Geneva	homicide_rate	8
+1063	Alabama	Greene	homicide_rate	18
+1065	Alabama	Hale	homicide_rate	16
+1067	Alabama	Henry	homicide_rate	
+1069	Alabama	Houston	homicide_rate	5
+1071	Alabama	Jackson	homicide_rate	5
+1073	Alabama	Jefferson	homicide_rate	17
+1075	Alabama	Lamar	homicide_rate	
+1077	Alabama	Lauderdale	homicide_rate	6
+1079	Alabama	Lawrence	homicide_rate	7
+1081	Alabama	Lee	homicide_rate	7
+1083	Alabama	Limestone	homicide_rate	6
+1085	Alabama	Lowndes	homicide_rate	23
+1087	Alabama	Macon	homicide_rate	29
+1089	Alabama	Madison	homicide_rate	5
+1091	Alabama	Marengo	homicide_rate	7
+1093	Alabama	Marion	homicide_rate	6
+1095	Alabama	Marshall	homicide_rate	3
+1097	Alabama	Mobile	homicide_rate	14
+1099	Alabama	Monroe	homicide_rate	11
+1101	Alabama	Montgomery	homicide_rate	14
+1103	Alabama	Morgan	homicide_rate	4
+1105	Alabama	Perry	homicide_rate	
+1107	Alabama	Pickens	homicide_rate	
+1109	Alabama	Pike	homicide_rate	7
+1111	Alabama	Randolph	homicide_rate	9
+1113	Alabama	Russell	homicide_rate	14
+1115	Alabama	St. Clair	homicide_rate	5
+1117	Alabama	Shelby	homicide_rate	3
+1119	Alabama	Sumter	homicide_rate	
+1121	Alabama	Talladega	homicide_rate	9
+1123	Alabama	Tallapoosa	homicide_rate	8
+1125	Alabama	Tuscaloosa	homicide_rate	10
+1127	Alabama	Walker	homicide_rate	7
+1129	Alabama	Washington	homicide_rate	8
+1131	Alabama	Wilcox	homicide_rate	
+1133	Alabama	Winston	homicide_rate	
+2013	Alaska	Aleutians East	homicide_rate	
+2016	Alaska	Aleutians West	homicide_rate	
+2020	Alaska	Anchorage	homicide_rate	6
+2050	Alaska	Bethel	homicide_rate	13
+2060	Alaska	Bristol Bay	homicide_rate	
+2068	Alaska	Denali	homicide_rate	
+2070	Alaska	Dillingham	homicide_rate	
+2090	Alaska	Fairbanks North Star	homicide_rate	5
+2100	Alaska	Haines	homicide_rate	
+2110	Alaska	Juneau	homicide_rate	
+2122	Alaska	Kenai Peninsula	homicide_rate	4
+2130	Alaska	Ketchikan Gateway	homicide_rate	
+2150	Alaska	Kodiak Island	homicide_rate	
+2164	Alaska	Lake and Peninsula	homicide_rate	
+2170	Alaska	Matanuska-Susitna	homicide_rate	5
+2180	Alaska	Nome	homicide_rate	
+2185	Alaska	North Slope	homicide_rate	
+2188	Alaska	Northwest Arctic	homicide_rate	
+2201	Alaska	Prince of Wales-Outer Ketchikan	homicide_rate	
+2220	Alaska	Sitka	homicide_rate	
+2232	Alaska	Skagway-Hoonah-Angoon	homicide_rate	
+2240	Alaska	Southeast Fairbanks	homicide_rate	
+2261	Alaska	Valdez-Cordova	homicide_rate	
+2270	Alaska	Wade Hampton	homicide_rate	19
+2280	Alaska	Wrangell-Petersburg	homicide_rate	
+2282	Alaska	Yakutat	homicide_rate	
+2290	Alaska	Yukon-Koyukuk	homicide_rate	
+4001	Arizona	Apache	homicide_rate	13
+4003	Arizona	Cochise	homicide_rate	5
+4005	Arizona	Coconino	homicide_rate	6
+4007	Arizona	Gila	homicide_rate	10
+4009	Arizona	Graham	homicide_rate	4
+4011	Arizona	Greenlee	homicide_rate	
+4012	Arizona	La Paz	homicide_rate	7
+4013	Arizona	Maricopa	homicide_rate	8
+4015	Arizona	Mohave	homicide_rate	7
+4017	Arizona	Navajo	homicide_rate	12
+4019	Arizona	Pima	homicide_rate	9
+4021	Arizona	Pinal	homicide_rate	7
+4023	Arizona	Santa Cruz	homicide_rate	3
+4025	Arizona	Yavapai	homicide_rate	4
+4027	Arizona	Yuma	homicide_rate	5
+5001	Arkansas	Arkansas	homicide_rate	10
+5003	Arkansas	Ashley	homicide_rate	7
+5005	Arkansas	Baxter	homicide_rate	
+5007	Arkansas	Benton	homicide_rate	2
+5009	Arkansas	Boone	homicide_rate	8
+5011	Arkansas	Bradley	homicide_rate	
+5013	Arkansas	Calhoun	homicide_rate	
+5015	Arkansas	Carroll	homicide_rate	
+5017	Arkansas	Chicot	homicide_rate	20
+5019	Arkansas	Clark	homicide_rate	6
+5021	Arkansas	Clay	homicide_rate	
+5023	Arkansas	Cleburne	homicide_rate	
+5025	Arkansas	Cleveland	homicide_rate	
+5027	Arkansas	Columbia	homicide_rate	12
+5029	Arkansas	Conway	homicide_rate	8
+5031	Arkansas	Craighead	homicide_rate	5
+5033	Arkansas	Crawford	homicide_rate	4
+5035	Arkansas	Crittenden	homicide_rate	14
+5037	Arkansas	Cross	homicide_rate	
+5039	Arkansas	Dallas	homicide_rate	17
+5041	Arkansas	Desha	homicide_rate	20
+5043	Arkansas	Drew	homicide_rate	
+5045	Arkansas	Faulkner	homicide_rate	4
+5047	Arkansas	Franklin	homicide_rate	
+5049	Arkansas	Fulton	homicide_rate	
+5051	Arkansas	Garland	homicide_rate	10
+5053	Arkansas	Grant	homicide_rate	
+5055	Arkansas	Greene	homicide_rate	6
+5057	Arkansas	Hempstead	homicide_rate	8
+5059	Arkansas	Hot Spring	homicide_rate	5
+5061	Arkansas	Howard	homicide_rate	10
+5063	Arkansas	Independence	homicide_rate	5
+5065	Arkansas	Izard	homicide_rate	
+5067	Arkansas	Jackson	homicide_rate	
+5069	Arkansas	Jefferson	homicide_rate	20
+5071	Arkansas	Johnson	homicide_rate	
+5073	Arkansas	Lafayette	homicide_rate	
+5075	Arkansas	Lawrence	homicide_rate	
+5077	Arkansas	Lee	homicide_rate	26
+5079	Arkansas	Lincoln	homicide_rate	
+5081	Arkansas	Little River	homicide_rate	
+5083	Arkansas	Logan	homicide_rate	6
+5085	Arkansas	Lonoke	homicide_rate	4
+5087	Arkansas	Madison	homicide_rate	
+5089	Arkansas	Marion	homicide_rate	
+5091	Arkansas	Miller	homicide_rate	7
+5093	Arkansas	Mississippi	homicide_rate	12
+5095	Arkansas	Monroe	homicide_rate	
+5097	Arkansas	Montgomery	homicide_rate	
+5099	Arkansas	Nevada	homicide_rate	
+5101	Arkansas	Newton	homicide_rate	
+5103	Arkansas	Ouachita	homicide_rate	13
+5105	Arkansas	Perry	homicide_rate	
+5107	Arkansas	Phillips	homicide_rate	30
+5109	Arkansas	Pike	homicide_rate	
+5111	Arkansas	Poinsett	homicide_rate	6
+5113	Arkansas	Polk	homicide_rate	
+5115	Arkansas	Pope	homicide_rate	3
+5117	Arkansas	Prairie	homicide_rate	
+5119	Arkansas	Pulaski	homicide_rate	16
+5121	Arkansas	Randolph	homicide_rate	
+5123	Arkansas	St. Francis	homicide_rate	11
+5125	Arkansas	Saline	homicide_rate	4
+5127	Arkansas	Scott	homicide_rate	
+5129	Arkansas	Searcy	homicide_rate	
+5131	Arkansas	Sebastian	homicide_rate	5
+5133	Arkansas	Sevier	homicide_rate	10
+5135	Arkansas	Sharp	homicide_rate	
+5137	Arkansas	Stone	homicide_rate	
+5139	Arkansas	Union	homicide_rate	14
+5141	Arkansas	Van Buren	homicide_rate	
+5143	Arkansas	Washington	homicide_rate	3
+5145	Arkansas	White	homicide_rate	4
+5147	Arkansas	Woodruff	homicide_rate	
+5149	Arkansas	Yell	homicide_rate	
+6001	California	Alameda	homicide_rate	10
+6003	California	Alpine	homicide_rate	
+6005	California	Amador	homicide_rate	
+6007	California	Butte	homicide_rate	4
+6009	California	Calaveras	homicide_rate	3
+6011	California	Colusa	homicide_rate	
+6013	California	Contra Costa	homicide_rate	9
+6015	California	Del Norte	homicide_rate	9
+6017	California	El Dorado	homicide_rate	3
+6019	California	Fresno	homicide_rate	8
+6021	California	Glenn	homicide_rate	
+6023	California	Humboldt	homicide_rate	4
+6025	California	Imperial	homicide_rate	3
+6027	California	Inyo	homicide_rate	
+6029	California	Kern	homicide_rate	8
+6031	California	Kings	homicide_rate	4
+6033	California	Lake	homicide_rate	6
+6035	California	Lassen	homicide_rate	5
+6037	California	Los Angeles	homicide_rate	9
+6039	California	Madera	homicide_rate	6
+6041	California	Marin	homicide_rate	2
+6043	California	Mariposa	homicide_rate	
+6045	California	Mendocino	homicide_rate	6
+6047	California	Merced	homicide_rate	9
+6049	California	Modoc	homicide_rate	
+6051	California	Mono	homicide_rate	
+6053	California	Monterey	homicide_rate	8
+6055	California	Napa	homicide_rate	2
+6057	California	Nevada	homicide_rate	2
+6059	California	Orange	homicide_rate	3
+6061	California	Placer	homicide_rate	2
+6063	California	Plumas	homicide_rate	
+6065	California	Riverside	homicide_rate	5
+6067	California	Sacramento	homicide_rate	7
+6069	California	San Benito	homicide_rate	3
+6071	California	San Bernardino	homicide_rate	8
+6073	California	San Diego	homicide_rate	4
+6075	California	San Francisco	homicide_rate	8
+6077	California	San Joaquin	homicide_rate	8
+6079	California	San Luis Obispo	homicide_rate	2
+6081	California	San Mateo	homicide_rate	4
+6083	California	Santa Barbara	homicide_rate	2
+6085	California	Santa Clara	homicide_rate	3
+6087	California	Santa Cruz	homicide_rate	3
+6089	California	Shasta	homicide_rate	4
+6091	California	Sierra	homicide_rate	
+6093	California	Siskiyou	homicide_rate	5
+6095	California	Solano	homicide_rate	8
+6097	California	Sonoma	homicide_rate	2
+6099	California	Stanislaus	homicide_rate	6
+6101	California	Sutter	homicide_rate	5
+6103	California	Tehama	homicide_rate	5
+6105	California	Trinity	homicide_rate	
+6107	California	Tulare	homicide_rate	9
+6109	California	Tuolumne	homicide_rate	
+6111	California	Ventura	homicide_rate	4
+6113	California	Yolo	homicide_rate	2
+6115	California	Yuba	homicide_rate	5
+8001	Colorado	Adams	homicide_rate	5
+8003	Colorado	Alamosa	homicide_rate	
+8005	Colorado	Arapahoe	homicide_rate	4
+8007	Colorado	Archuleta	homicide_rate	
+8009	Colorado	Baca	homicide_rate	
+8011	Colorado	Bent	homicide_rate	
+8013	Colorado	Boulder	homicide_rate	1
+8014	Colorado	Broomfield	homicide_rate	3
+8015	Colorado	Chaffee	homicide_rate	
+8017	Colorado	Cheyenne	homicide_rate	
+8019	Colorado	Clear Creek	homicide_rate	
+8021	Colorado	Conejos	homicide_rate	
+8023	Colorado	Costilla	homicide_rate	
+8025	Colorado	Crowley	homicide_rate	
+8027	Colorado	Custer	homicide_rate	
+8029	Colorado	Delta	homicide_rate	
+8031	Colorado	Denver	homicide_rate	9
+8033	Colorado	Dolores	homicide_rate	
+8035	Colorado	Douglas	homicide_rate	1
+8037	Colorado	Eagle	homicide_rate	
+8039	Colorado	Elbert	homicide_rate	
+8041	Colorado	El Paso	homicide_rate	4
+8043	Colorado	Fremont	homicide_rate	5
+8045	Colorado	Garfield	homicide_rate	
+8047	Colorado	Gilpin	homicide_rate	
+8049	Colorado	Grand	homicide_rate	
+8051	Colorado	Gunnison	homicide_rate	
+8053	Colorado	Hinsdale	homicide_rate	
+8055	Colorado	Huerfano	homicide_rate	
+8057	Colorado	Jackson	homicide_rate	
+8059	Colorado	Jefferson	homicide_rate	2
+8061	Colorado	Kiowa	homicide_rate	
+8063	Colorado	Kit Carson	homicide_rate	
+8065	Colorado	Lake	homicide_rate	
+8067	Colorado	La Plata	homicide_rate	4
+8069	Colorado	Larimer	homicide_rate	2
+8071	Colorado	Las Animas	homicide_rate	12
+8073	Colorado	Lincoln	homicide_rate	
+8075	Colorado	Logan	homicide_rate	
+8077	Colorado	Mesa	homicide_rate	3
+8079	Colorado	Mineral	homicide_rate	
+8081	Colorado	Moffat	homicide_rate	
+8083	Colorado	Montezuma	homicide_rate	10
+8085	Colorado	Montrose	homicide_rate	4
+8087	Colorado	Morgan	homicide_rate	
+8089	Colorado	Otero	homicide_rate	
+8091	Colorado	Ouray	homicide_rate	
+8093	Colorado	Park	homicide_rate	
+8095	Colorado	Phillips	homicide_rate	
+8097	Colorado	Pitkin	homicide_rate	
+8099	Colorado	Prowers	homicide_rate	
+8101	Colorado	Pueblo	homicide_rate	6
+8103	Colorado	Rio Blanco	homicide_rate	
+8105	Colorado	Rio Grande	homicide_rate	
+8107	Colorado	Routt	homicide_rate	
+8109	Colorado	Saguache	homicide_rate	
+8111	Colorado	San Juan	homicide_rate	
+8113	Colorado	San Miguel	homicide_rate	
+8115	Colorado	Sedgwick	homicide_rate	
+8117	Colorado	Summit	homicide_rate	
+8119	Colorado	Teller	homicide_rate	
+8121	Colorado	Washington	homicide_rate	
+8123	Colorado	Weld	homicide_rate	3
+8125	Colorado	Yuma	homicide_rate	
+9001	Connecticut	Fairfield	homicide_rate	3
+9003	Connecticut	Hartford	homicide_rate	4
+9005	Connecticut	Litchfield	homicide_rate	1
+9007	Connecticut	Middlesex	homicide_rate	1
+9009	Connecticut	New Haven	homicide_rate	4
+9011	Connecticut	New London	homicide_rate	3
+9013	Connecticut	Tolland	homicide_rate	
+9015	Connecticut	Windham	homicide_rate	2
+10001	Delaware	Kent	homicide_rate	4
+10003	Delaware	New Castle	homicide_rate	7
+10005	Delaware	Sussex	homicide_rate	3
+11001	District of Columbia	District of Columbia	homicide_rate	27
+12001	Florida	Alachua	homicide_rate	5
+12003	Florida	Baker	homicide_rate	7
+12005	Florida	Bay	homicide_rate	6
+12007	Florida	Bradford	homicide_rate	
+12009	Florida	Brevard	homicide_rate	5
+12011	Florida	Broward	homicide_rate	5
+12013	Florida	Calhoun	homicide_rate	
+12015	Florida	Charlotte	homicide_rate	3
+12017	Florida	Citrus	homicide_rate	3
+12019	Florida	Clay	homicide_rate	5
+12021	Florida	Collier	homicide_rate	4
+12023	Florida	Columbia	homicide_rate	6
+12027	Florida	DeSoto	homicide_rate	5
+12029	Florida	Dixie	homicide_rate	
+12031	Florida	Duval	homicide_rate	14
+12033	Florida	Escambia	homicide_rate	7
+12035	Florida	Flagler	homicide_rate	2
+12037	Florida	Franklin	homicide_rate	
+12039	Florida	Gadsden	homicide_rate	9
+12041	Florida	Gilchrist	homicide_rate	
+12043	Florida	Glades	homicide_rate	
+12045	Florida	Gulf	homicide_rate	
+12047	Florida	Hamilton	homicide_rate	10
+12049	Florida	Hardee	homicide_rate	5
+12051	Florida	Hendry	homicide_rate	10
+12053	Florida	Hernando	homicide_rate	3
+12055	Florida	Highlands	homicide_rate	4
+12057	Florida	Hillsborough	homicide_rate	6
+12059	Florida	Holmes	homicide_rate	
+12061	Florida	Indian River	homicide_rate	3
+12063	Florida	Jackson	homicide_rate	11
+12065	Florida	Jefferson	homicide_rate	
+12067	Florida	Lafayette	homicide_rate	
+12069	Florida	Lake	homicide_rate	4
+12071	Florida	Lee	homicide_rate	7
+12073	Florida	Leon	homicide_rate	4
+12075	Florida	Levy	homicide_rate	4
+12077	Florida	Liberty	homicide_rate	
+12079	Florida	Madison	homicide_rate	8
+12081	Florida	Manatee	homicide_rate	6
+12083	Florida	Marion	homicide_rate	5
+12085	Florida	Martin	homicide_rate	3
+12086	Florida	Miami-Dade	homicide_rate	9
+12087	Florida	Monroe	homicide_rate	5
+12089	Florida	Nassau	homicide_rate	4
+12091	Florida	Okaloosa	homicide_rate	3
+12093	Florida	Okeechobee	homicide_rate	5
+12095	Florida	Orange	homicide_rate	8
+12097	Florida	Osceola	homicide_rate	5
+12099	Florida	Palm Beach	homicide_rate	7
+12101	Florida	Pasco	homicide_rate	5
+12103	Florida	Pinellas	homicide_rate	5
+12105	Florida	Polk	homicide_rate	5
+12107	Florida	Putnam	homicide_rate	8
+12109	Florida	St. Johns	homicide_rate	3
+12111	Florida	St. Lucie	homicide_rate	5
+12113	Florida	Santa Rosa	homicide_rate	3
+12115	Florida	Sarasota	homicide_rate	4
+12117	Florida	Seminole	homicide_rate	5
+12119	Florida	Sumter	homicide_rate	3
+12121	Florida	Suwannee	homicide_rate	5
+12123	Florida	Taylor	homicide_rate	9
+12125	Florida	Union	homicide_rate	
+12127	Florida	Volusia	homicide_rate	5
+12129	Florida	Wakulla	homicide_rate	5
+12131	Florida	Walton	homicide_rate	5
+12133	Florida	Washington	homicide_rate	10
+13001	Georgia	Appling	homicide_rate	10
+13003	Georgia	Atkinson	homicide_rate	
+13005	Georgia	Bacon	homicide_rate	
+13007	Georgia	Baker	homicide_rate	
+13009	Georgia	Baldwin	homicide_rate	8
+13011	Georgia	Banks	homicide_rate	
+13013	Georgia	Barrow	homicide_rate	5
+13015	Georgia	Bartow	homicide_rate	4
+13017	Georgia	Ben Hill	homicide_rate	8
+13019	Georgia	Berrien	homicide_rate	
+13021	Georgia	Bibb	homicide_rate	15
+13023	Georgia	Bleckley	homicide_rate	
+13025	Georgia	Brantley	homicide_rate	10
+13027	Georgia	Brooks	homicide_rate	
+13029	Georgia	Bryan	homicide_rate	
+13031	Georgia	Bulloch	homicide_rate	3
+13033	Georgia	Burke	homicide_rate	12
+13035	Georgia	Butts	homicide_rate	8
+13037	Georgia	Calhoun	homicide_rate	
+13039	Georgia	Camden	homicide_rate	5
+13043	Georgia	Candler	homicide_rate	
+13045	Georgia	Carroll	homicide_rate	5
+13047	Georgia	Catoosa	homicide_rate	3
+13049	Georgia	Charlton	homicide_rate	
+13051	Georgia	Chatham	homicide_rate	12
+13053	Georgia	Chattahoochee	homicide_rate	
+13055	Georgia	Chattooga	homicide_rate	
+13057	Georgia	Cherokee	homicide_rate	2
+13059	Georgia	Clarke	homicide_rate	5
+13061	Georgia	Clay	homicide_rate	
+13063	Georgia	Clayton	homicide_rate	12
+13065	Georgia	Clinch	homicide_rate	
+13067	Georgia	Cobb	homicide_rate	5
+13069	Georgia	Coffee	homicide_rate	7
+13071	Georgia	Colquitt	homicide_rate	12
+13073	Georgia	Columbia	homicide_rate	2
+13075	Georgia	Cook	homicide_rate	9
+13077	Georgia	Coweta	homicide_rate	4
+13079	Georgia	Crawford	homicide_rate	
+13081	Georgia	Crisp	homicide_rate	12
+13083	Georgia	Dade	homicide_rate	
+13085	Georgia	Dawson	homicide_rate	
+13087	Georgia	Decatur	homicide_rate	7
+13089	Georgia	DeKalb	homicide_rate	14
+13091	Georgia	Dodge	homicide_rate	8
+13093	Georgia	Dooly	homicide_rate	
+13095	Georgia	Dougherty	homicide_rate	9
+13097	Georgia	Douglas	homicide_rate	5
+13099	Georgia	Early	homicide_rate	
+13101	Georgia	Echols	homicide_rate	
+13103	Georgia	Effingham	homicide_rate	4
+13105	Georgia	Elbert	homicide_rate	
+13107	Georgia	Emanuel	homicide_rate	10
+13109	Georgia	Evans	homicide_rate	
+13111	Georgia	Fannin	homicide_rate	
+13113	Georgia	Fayette	homicide_rate	3
+13115	Georgia	Floyd	homicide_rate	4
+13117	Georgia	Forsyth	homicide_rate	1
+13119	Georgia	Franklin	homicide_rate	
+13121	Georgia	Fulton	homicide_rate	14
+13123	Georgia	Gilmer	homicide_rate	
+13125	Georgia	Glascock	homicide_rate	
+13127	Georgia	Glynn	homicide_rate	10
+13129	Georgia	Gordon	homicide_rate	5
+13131	Georgia	Grady	homicide_rate	
+13133	Georgia	Greene	homicide_rate	
+13135	Georgia	Gwinnett	homicide_rate	5
+13137	Georgia	Habersham	homicide_rate	
+13139	Georgia	Hall	homicide_rate	3
+13141	Georgia	Hancock	homicide_rate	
+13143	Georgia	Haralson	homicide_rate	5
+13145	Georgia	Harris	homicide_rate	5
+13147	Georgia	Hart	homicide_rate	
+13149	Georgia	Heard	homicide_rate	
+13151	Georgia	Henry	homicide_rate	4
+13153	Georgia	Houston	homicide_rate	5
+13155	Georgia	Irwin	homicide_rate	
+13157	Georgia	Jackson	homicide_rate	4
+13159	Georgia	Jasper	homicide_rate	
+13161	Georgia	Jeff Davis	homicide_rate	
+13163	Georgia	Jefferson	homicide_rate	9
+13165	Georgia	Jenkins	homicide_rate	
+13167	Georgia	Johnson	homicide_rate	
+13169	Georgia	Jones	homicide_rate	
+13171	Georgia	Lamar	homicide_rate	
+13173	Georgia	Lanier	homicide_rate	
+13175	Georgia	Laurens	homicide_rate	6
+13177	Georgia	Lee	homicide_rate	
+13179	Georgia	Liberty	homicide_rate	8
+13181	Georgia	Lincoln	homicide_rate	
+13183	Georgia	Long	homicide_rate	
+13185	Georgia	Lowndes	homicide_rate	6
+13187	Georgia	Lumpkin	homicide_rate	
+13189	Georgia	McDuffie	homicide_rate	7
+13191	Georgia	McIntosh	homicide_rate	
+13193	Georgia	Macon	homicide_rate	
+13195	Georgia	Madison	homicide_rate	5
+13197	Georgia	Marion	homicide_rate	
+13199	Georgia	Meriwether	homicide_rate	8
+13201	Georgia	Miller	homicide_rate	
+13205	Georgia	Mitchell	homicide_rate	
+13207	Georgia	Monroe	homicide_rate	6
+13209	Georgia	Montgomery	homicide_rate	
+13211	Georgia	Morgan	homicide_rate	
+13213	Georgia	Murray	homicide_rate	
+13215	Georgia	Muscogee	homicide_rate	11
+13217	Georgia	Newton	homicide_rate	6
+13219	Georgia	Oconee	homicide_rate	
+13221	Georgia	Oglethorpe	homicide_rate	
+13223	Georgia	Paulding	homicide_rate	3
+13225	Georgia	Peach	homicide_rate	5
+13227	Georgia	Pickens	homicide_rate	
+13229	Georgia	Pierce	homicide_rate	
+13231	Georgia	Pike	homicide_rate	
+13233	Georgia	Polk	homicide_rate	8
+13235	Georgia	Pulaski	homicide_rate	
+13237	Georgia	Putnam	homicide_rate	
+13239	Georgia	Quitman	homicide_rate	
+13241	Georgia	Rabun	homicide_rate	
+13243	Georgia	Randolph	homicide_rate	
+13245	Georgia	Richmond	homicide_rate	12
+13247	Georgia	Rockdale	homicide_rate	7
+13249	Georgia	Schley	homicide_rate	
+13251	Georgia	Screven	homicide_rate	12
+13253	Georgia	Seminole	homicide_rate	
+13255	Georgia	Spalding	homicide_rate	6
+13257	Georgia	Stephens	homicide_rate	
+13259	Georgia	Stewart	homicide_rate	
+13261	Georgia	Sumter	homicide_rate	7
+13263	Georgia	Talbot	homicide_rate	
+13265	Georgia	Taliaferro	homicide_rate	
+13267	Georgia	Tattnall	homicide_rate	10
+13269	Georgia	Taylor	homicide_rate	
+13271	Georgia	Telfair	homicide_rate	11
+13273	Georgia	Terrell	homicide_rate	
+13275	Georgia	Thomas	homicide_rate	6
+13277	Georgia	Tift	homicide_rate	12
+13279	Georgia	Toombs	homicide_rate	6
+13281	Georgia	Towns	homicide_rate	
+13283	Georgia	Treutlen	homicide_rate	
+13285	Georgia	Troup	homicide_rate	4
+13287	Georgia	Turner	homicide_rate	
+13289	Georgia	Twiggs	homicide_rate	
+13291	Georgia	Union	homicide_rate	
+13293	Georgia	Upson	homicide_rate	
+13295	Georgia	Walker	homicide_rate	4
+13297	Georgia	Walton	homicide_rate	4
+13299	Georgia	Ware	homicide_rate	6
+13301	Georgia	Warren	homicide_rate	
+13303	Georgia	Washington	homicide_rate	
+13305	Georgia	Wayne	homicide_rate	9
+13307	Georgia	Webster	homicide_rate	
+13309	Georgia	Wheeler	homicide_rate	
+13311	Georgia	White	homicide_rate	
+13313	Georgia	Whitfield	homicide_rate	3
+13315	Georgia	Wilcox	homicide_rate	
+13317	Georgia	Wilkes	homicide_rate	
+13319	Georgia	Wilkinson	homicide_rate	
+13321	Georgia	Worth	homicide_rate	9
+15001	Hawaii	Hawaii	homicide_rate	2
+15003	Hawaii	Honolulu	homicide_rate	2
+15005	Hawaii	Kalawao	homicide_rate	
+15007	Hawaii	Kauai	homicide_rate	3
+15009	Hawaii	Maui	homicide_rate	1
+16001	Idaho	Ada	homicide_rate	2
+16003	Idaho	Adams	homicide_rate	
+16005	Idaho	Bannock	homicide_rate	
+16007	Idaho	Bear Lake	homicide_rate	
+16009	Idaho	Benewah	homicide_rate	
+16011	Idaho	Bingham	homicide_rate	
+16013	Idaho	Blaine	homicide_rate	
+16015	Idaho	Boise	homicide_rate	
+16017	Idaho	Bonner	homicide_rate	
+16019	Idaho	Bonneville	homicide_rate	2
+16021	Idaho	Boundary	homicide_rate	
+16023	Idaho	Butte	homicide_rate	
+16025	Idaho	Camas	homicide_rate	
+16027	Idaho	Canyon	homicide_rate	3
+16029	Idaho	Caribou	homicide_rate	
+16031	Idaho	Cassia	homicide_rate	
+16033	Idaho	Clark	homicide_rate	
+16035	Idaho	Clearwater	homicide_rate	
+16037	Idaho	Custer	homicide_rate	
+16039	Idaho	Elmore	homicide_rate	
+16041	Idaho	Franklin	homicide_rate	
+16043	Idaho	Fremont	homicide_rate	
+16045	Idaho	Gem	homicide_rate	
+16047	Idaho	Gooding	homicide_rate	
+16049	Idaho	Idaho	homicide_rate	
+16051	Idaho	Jefferson	homicide_rate	
+16053	Idaho	Jerome	homicide_rate	
+16055	Idaho	Kootenai	homicide_rate	2
+16057	Idaho	Latah	homicide_rate	
+16059	Idaho	Lemhi	homicide_rate	
+16061	Idaho	Lewis	homicide_rate	
+16063	Idaho	Lincoln	homicide_rate	
+16065	Idaho	Madison	homicide_rate	
+16067	Idaho	Minidoka	homicide_rate	
+16069	Idaho	Nez Perce	homicide_rate	
+16071	Idaho	Oneida	homicide_rate	
+16073	Idaho	Owyhee	homicide_rate	
+16075	Idaho	Payette	homicide_rate	
+16077	Idaho	Power	homicide_rate	
+16079	Idaho	Shoshone	homicide_rate	
+16081	Idaho	Teton	homicide_rate	
+16083	Idaho	Twin Falls	homicide_rate	2
+16085	Idaho	Valley	homicide_rate	
+16087	Idaho	Washington	homicide_rate	
+17001	Illinois	Adams	homicide_rate	3
+17003	Illinois	Alexander	homicide_rate	
+17005	Illinois	Bond	homicide_rate	
+17007	Illinois	Boone	homicide_rate	
+17009	Illinois	Brown	homicide_rate	
+17011	Illinois	Bureau	homicide_rate	
+17013	Illinois	Calhoun	homicide_rate	
+17015	Illinois	Carroll	homicide_rate	
+17017	Illinois	Cass	homicide_rate	
+17019	Illinois	Champaign	homicide_rate	3
+17021	Illinois	Christian	homicide_rate	
+17023	Illinois	Clark	homicide_rate	
+17025	Illinois	Clay	homicide_rate	
+17027	Illinois	Clinton	homicide_rate	
+17029	Illinois	Coles	homicide_rate	3
+17031	Illinois	Cook	homicide_rate	12
+17033	Illinois	Crawford	homicide_rate	
+17035	Illinois	Cumberland	homicide_rate	
+17037	Illinois	DeKalb	homicide_rate	
+17039	Illinois	De Witt	homicide_rate	
+17041	Illinois	Douglas	homicide_rate	
+17043	Illinois	DuPage	homicide_rate	1
+17045	Illinois	Edgar	homicide_rate	
+17047	Illinois	Edwards	homicide_rate	
+17049	Illinois	Effingham	homicide_rate	
+17051	Illinois	Fayette	homicide_rate	
+17053	Illinois	Ford	homicide_rate	
+17055	Illinois	Franklin	homicide_rate	
+17057	Illinois	Fulton	homicide_rate	
+17059	Illinois	Gallatin	homicide_rate	
+17061	Illinois	Greene	homicide_rate	
+17063	Illinois	Grundy	homicide_rate	
+17065	Illinois	Hamilton	homicide_rate	
+17067	Illinois	Hancock	homicide_rate	
+17069	Illinois	Hardin	homicide_rate	
+17071	Illinois	Henderson	homicide_rate	
+17073	Illinois	Henry	homicide_rate	
+17075	Illinois	Iroquois	homicide_rate	6
+17077	Illinois	Jackson	homicide_rate	
+17079	Illinois	Jasper	homicide_rate	
+17081	Illinois	Jefferson	homicide_rate	4
+17083	Illinois	Jersey	homicide_rate	
+17085	Illinois	Jo Daviess	homicide_rate	
+17087	Illinois	Johnson	homicide_rate	
+17089	Illinois	Kane	homicide_rate	3
+17091	Illinois	Kankakee	homicide_rate	4
+17093	Illinois	Kendall	homicide_rate	3
+17095	Illinois	Knox	homicide_rate	
+17097	Illinois	Lake	homicide_rate	3
+17099	Illinois	LaSalle	homicide_rate	1
+17101	Illinois	Lawrence	homicide_rate	
+17103	Illinois	Lee	homicide_rate	
+17105	Illinois	Livingston	homicide_rate	
+17107	Illinois	Logan	homicide_rate	
+17109	Illinois	McDonough	homicide_rate	
+17111	Illinois	McHenry	homicide_rate	1
+17113	Illinois	McLean	homicide_rate	2
+17115	Illinois	Macon	homicide_rate	6
+17117	Illinois	Macoupin	homicide_rate	
+17119	Illinois	Madison	homicide_rate	5
+17121	Illinois	Marion	homicide_rate	
+17123	Illinois	Marshall	homicide_rate	
+17125	Illinois	Mason	homicide_rate	
+17127	Illinois	Massac	homicide_rate	
+17129	Illinois	Menard	homicide_rate	
+17131	Illinois	Mercer	homicide_rate	
+17133	Illinois	Monroe	homicide_rate	
+17135	Illinois	Montgomery	homicide_rate	
+17137	Illinois	Morgan	homicide_rate	4
+17139	Illinois	Moultrie	homicide_rate	
+17141	Illinois	Ogle	homicide_rate	
+17143	Illinois	Peoria	homicide_rate	9
+17145	Illinois	Perry	homicide_rate	
+17147	Illinois	Piatt	homicide_rate	
+17149	Illinois	Pike	homicide_rate	
+17151	Illinois	Pope	homicide_rate	
+17153	Illinois	Pulaski	homicide_rate	
+17155	Illinois	Putnam	homicide_rate	
+17157	Illinois	Randolph	homicide_rate	
+17159	Illinois	Richland	homicide_rate	
+17161	Illinois	Rock Island	homicide_rate	4
+17163	Illinois	St. Clair	homicide_rate	15
+17165	Illinois	Saline	homicide_rate	
+17167	Illinois	Sangamon	homicide_rate	5
+17169	Illinois	Schuyler	homicide_rate	
+17171	Illinois	Scott	homicide_rate	
+17173	Illinois	Shelby	homicide_rate	
+17175	Illinois	Stark	homicide_rate	
+17177	Illinois	Stephenson	homicide_rate	4
+17179	Illinois	Tazewell	homicide_rate	3
+17181	Illinois	Union	homicide_rate	
+17183	Illinois	Vermilion	homicide_rate	6
+17185	Illinois	Wabash	homicide_rate	
+17187	Illinois	Warren	homicide_rate	
+17189	Illinois	Washington	homicide_rate	
+17191	Illinois	Wayne	homicide_rate	
+17193	Illinois	White	homicide_rate	
+17195	Illinois	Whiteside	homicide_rate	3
+17197	Illinois	Will	homicide_rate	4
+17199	Illinois	Williamson	homicide_rate	3
+17201	Illinois	Winnebago	homicide_rate	7
+17203	Illinois	Woodford	homicide_rate	
+18001	Indiana	Adams	homicide_rate	
+18003	Indiana	Allen	homicide_rate	7
+18005	Indiana	Bartholomew	homicide_rate	2
+18007	Indiana	Benton	homicide_rate	
+18009	Indiana	Blackford	homicide_rate	
+18011	Indiana	Boone	homicide_rate	3
+18013	Indiana	Brown	homicide_rate	
+18015	Indiana	Carroll	homicide_rate	
+18017	Indiana	Cass	homicide_rate	
+18019	Indiana	Clark	homicide_rate	2
+18021	Indiana	Clay	homicide_rate	
+18023	Indiana	Clinton	homicide_rate	
+18025	Indiana	Crawford	homicide_rate	
+18027	Indiana	Daviess	homicide_rate	
+18029	Indiana	Dearborn	homicide_rate	
+18031	Indiana	Decatur	homicide_rate	
+18033	Indiana	DeKalb	homicide_rate	
+18035	Indiana	Delaware	homicide_rate	3
+18037	Indiana	Dubois	homicide_rate	
+18039	Indiana	Elkhart	homicide_rate	3
+18041	Indiana	Fayette	homicide_rate	
+18043	Indiana	Floyd	homicide_rate	3
+18045	Indiana	Fountain	homicide_rate	
+18047	Indiana	Franklin	homicide_rate	
+18049	Indiana	Fulton	homicide_rate	
+18051	Indiana	Gibson	homicide_rate	
+18053	Indiana	Grant	homicide_rate	3
+18055	Indiana	Greene	homicide_rate	
+18057	Indiana	Hamilton	homicide_rate	1
+18059	Indiana	Hancock	homicide_rate	
+18061	Indiana	Harrison	homicide_rate	
+18063	Indiana	Hendricks	homicide_rate	1
+18065	Indiana	Henry	homicide_rate	4
+18067	Indiana	Howard	homicide_rate	4
+18069	Indiana	Huntington	homicide_rate	
+18071	Indiana	Jackson	homicide_rate	
+18073	Indiana	Jasper	homicide_rate	4
+18075	Indiana	Jay	homicide_rate	
+18077	Indiana	Jefferson	homicide_rate	
+18079	Indiana	Jennings	homicide_rate	
+18081	Indiana	Johnson	homicide_rate	2
+18083	Indiana	Knox	homicide_rate	
+18085	Indiana	Kosciusko	homicide_rate	
+18087	Indiana	LaGrange	homicide_rate	
+18089	Indiana	Lake	homicide_rate	18
+18091	Indiana	LaPorte	homicide_rate	4
+18093	Indiana	Lawrence	homicide_rate	4
+18095	Indiana	Madison	homicide_rate	4
+18097	Indiana	Marion	homicide_rate	13
+18099	Indiana	Marshall	homicide_rate	
+18101	Indiana	Martin	homicide_rate	
+18103	Indiana	Miami	homicide_rate	
+18105	Indiana	Monroe	homicide_rate	2
+18107	Indiana	Montgomery	homicide_rate	
+18109	Indiana	Morgan	homicide_rate	
+18111	Indiana	Newton	homicide_rate	
+18113	Indiana	Noble	homicide_rate	
+18115	Indiana	Ohio	homicide_rate	
+18117	Indiana	Orange	homicide_rate	
+18119	Indiana	Owen	homicide_rate	
+18121	Indiana	Parke	homicide_rate	
+18123	Indiana	Perry	homicide_rate	
+18125	Indiana	Pike	homicide_rate	
+18127	Indiana	Porter	homicide_rate	2
+18129	Indiana	Posey	homicide_rate	
+18131	Indiana	Pulaski	homicide_rate	
+18133	Indiana	Putnam	homicide_rate	
+18135	Indiana	Randolph	homicide_rate	
+18137	Indiana	Ripley	homicide_rate	
+18139	Indiana	Rush	homicide_rate	
+18141	Indiana	St. Joseph	homicide_rate	6
+18143	Indiana	Scott	homicide_rate	6
+18145	Indiana	Shelby	homicide_rate	3
+18147	Indiana	Spencer	homicide_rate	
+18149	Indiana	Starke	homicide_rate	
+18151	Indiana	Steuben	homicide_rate	
+18153	Indiana	Sullivan	homicide_rate	
+18155	Indiana	Switzerland	homicide_rate	
+18157	Indiana	Tippecanoe	homicide_rate	2
+18159	Indiana	Tipton	homicide_rate	
+18161	Indiana	Union	homicide_rate	
+18163	Indiana	Vanderburgh	homicide_rate	4
+18165	Indiana	Vermillion	homicide_rate	
+18167	Indiana	Vigo	homicide_rate	4
+18169	Indiana	Wabash	homicide_rate	
+18171	Indiana	Warren	homicide_rate	
+18173	Indiana	Warrick	homicide_rate	
+18175	Indiana	Washington	homicide_rate	
+18177	Indiana	Wayne	homicide_rate	2
+18179	Indiana	Wells	homicide_rate	
+18181	Indiana	White	homicide_rate	
+18183	Indiana	Whitley	homicide_rate	
+19001	Iowa	Adair	homicide_rate	
+19003	Iowa	Adams	homicide_rate	
+19005	Iowa	Allamakee	homicide_rate	
+19007	Iowa	Appanoose	homicide_rate	
+19009	Iowa	Audubon	homicide_rate	
+19011	Iowa	Benton	homicide_rate	
+19013	Iowa	Black Hawk	homicide_rate	3
+19015	Iowa	Boone	homicide_rate	
+19017	Iowa	Bremer	homicide_rate	
+19019	Iowa	Buchanan	homicide_rate	
+19021	Iowa	Buena Vista	homicide_rate	
+19023	Iowa	Butler	homicide_rate	
+19025	Iowa	Calhoun	homicide_rate	
+19027	Iowa	Carroll	homicide_rate	
+19029	Iowa	Cass	homicide_rate	
+19031	Iowa	Cedar	homicide_rate	
+19033	Iowa	Cerro Gordo	homicide_rate	
+19035	Iowa	Cherokee	homicide_rate	
+19037	Iowa	Chickasaw	homicide_rate	
+19039	Iowa	Clarke	homicide_rate	
+19041	Iowa	Clay	homicide_rate	
+19043	Iowa	Clayton	homicide_rate	
+19045	Iowa	Clinton	homicide_rate	
+19047	Iowa	Crawford	homicide_rate	
+19049	Iowa	Dallas	homicide_rate	
+19051	Iowa	Davis	homicide_rate	
+19053	Iowa	Decatur	homicide_rate	
+19055	Iowa	Delaware	homicide_rate	
+19057	Iowa	Des Moines	homicide_rate	4
+19059	Iowa	Dickinson	homicide_rate	
+19061	Iowa	Dubuque	homicide_rate	2
+19063	Iowa	Emmet	homicide_rate	
+19065	Iowa	Fayette	homicide_rate	
+19067	Iowa	Floyd	homicide_rate	
+19069	Iowa	Franklin	homicide_rate	
+19071	Iowa	Fremont	homicide_rate	
+19073	Iowa	Greene	homicide_rate	
+19075	Iowa	Grundy	homicide_rate	
+19077	Iowa	Guthrie	homicide_rate	
+19079	Iowa	Hamilton	homicide_rate	
+19081	Iowa	Hancock	homicide_rate	
+19083	Iowa	Hardin	homicide_rate	
+19085	Iowa	Harrison	homicide_rate	
+19087	Iowa	Henry	homicide_rate	
+19089	Iowa	Howard	homicide_rate	
+19091	Iowa	Humboldt	homicide_rate	
+19093	Iowa	Ida	homicide_rate	
+19095	Iowa	Iowa	homicide_rate	
+19097	Iowa	Jackson	homicide_rate	
+19099	Iowa	Jasper	homicide_rate	
+19101	Iowa	Jefferson	homicide_rate	
+19103	Iowa	Johnson	homicide_rate	2
+19105	Iowa	Jones	homicide_rate	
+19107	Iowa	Keokuk	homicide_rate	
+19109	Iowa	Kossuth	homicide_rate	
+19111	Iowa	Lee	homicide_rate	
+19113	Iowa	Linn	homicide_rate	2
+19115	Iowa	Louisa	homicide_rate	
+19117	Iowa	Lucas	homicide_rate	
+19119	Iowa	Lyon	homicide_rate	
+19121	Iowa	Madison	homicide_rate	
+19123	Iowa	Mahaska	homicide_rate	
+19125	Iowa	Marion	homicide_rate	
+19127	Iowa	Marshall	homicide_rate	
+19129	Iowa	Mills	homicide_rate	
+19131	Iowa	Mitchell	homicide_rate	
+19133	Iowa	Monona	homicide_rate	
+19135	Iowa	Monroe	homicide_rate	
+19137	Iowa	Montgomery	homicide_rate	
+19139	Iowa	Muscatine	homicide_rate	3
+19141	Iowa	O'Brien	homicide_rate	
+19143	Iowa	Osceola	homicide_rate	
+19145	Iowa	Page	homicide_rate	
+19147	Iowa	Palo Alto	homicide_rate	
+19149	Iowa	Plymouth	homicide_rate	
+19151	Iowa	Pocahontas	homicide_rate	
+19153	Iowa	Polk	homicide_rate	3
+19155	Iowa	Pottawattamie	homicide_rate	4
+19157	Iowa	Poweshiek	homicide_rate	
+19159	Iowa	Ringgold	homicide_rate	
+19161	Iowa	Sac	homicide_rate	
+19163	Iowa	Scott	homicide_rate	4
+19165	Iowa	Shelby	homicide_rate	
+19167	Iowa	Sioux	homicide_rate	
+19169	Iowa	Story	homicide_rate	
+19171	Iowa	Tama	homicide_rate	
+19173	Iowa	Taylor	homicide_rate	
+19175	Iowa	Union	homicide_rate	
+19177	Iowa	Van Buren	homicide_rate	
+19179	Iowa	Wapello	homicide_rate	
+19181	Iowa	Warren	homicide_rate	
+19183	Iowa	Washington	homicide_rate	
+19185	Iowa	Wayne	homicide_rate	
+19187	Iowa	Webster	homicide_rate	4
+19189	Iowa	Winnebago	homicide_rate	
+19191	Iowa	Winneshiek	homicide_rate	
+19193	Iowa	Woodbury	homicide_rate	3
+19195	Iowa	Worth	homicide_rate	
+19197	Iowa	Wright	homicide_rate	
+20001	Kansas	Allen	homicide_rate	
+20003	Kansas	Anderson	homicide_rate	
+20005	Kansas	Atchison	homicide_rate	
+20007	Kansas	Barber	homicide_rate	
+20009	Kansas	Barton	homicide_rate	
+20011	Kansas	Bourbon	homicide_rate	
+20013	Kansas	Brown	homicide_rate	
+20015	Kansas	Butler	homicide_rate	
+20017	Kansas	Chase	homicide_rate	
+20019	Kansas	Chautauqua	homicide_rate	
+20021	Kansas	Cherokee	homicide_rate	
+20023	Kansas	Cheyenne	homicide_rate	
+20025	Kansas	Clark	homicide_rate	
+20027	Kansas	Clay	homicide_rate	
+20029	Kansas	Cloud	homicide_rate	
+20031	Kansas	Coffey	homicide_rate	
+20033	Kansas	Comanche	homicide_rate	
+20035	Kansas	Cowley	homicide_rate	
+20037	Kansas	Crawford	homicide_rate	
+20039	Kansas	Decatur	homicide_rate	
+20041	Kansas	Dickinson	homicide_rate	
+20043	Kansas	Doniphan	homicide_rate	
+20045	Kansas	Douglas	homicide_rate	2
+20047	Kansas	Edwards	homicide_rate	
+20049	Kansas	Elk	homicide_rate	
+20051	Kansas	Ellis	homicide_rate	
+20053	Kansas	Ellsworth	homicide_rate	
+20055	Kansas	Finney	homicide_rate	
+20057	Kansas	Ford	homicide_rate	
+20059	Kansas	Franklin	homicide_rate	
+20061	Kansas	Geary	homicide_rate	7
+20063	Kansas	Gove	homicide_rate	
+20065	Kansas	Graham	homicide_rate	
+20067	Kansas	Grant	homicide_rate	
+20069	Kansas	Gray	homicide_rate	
+20071	Kansas	Greeley	homicide_rate	
+20073	Kansas	Greenwood	homicide_rate	
+20075	Kansas	Hamilton	homicide_rate	
+20077	Kansas	Harper	homicide_rate	
+20079	Kansas	Harvey	homicide_rate	
+20081	Kansas	Haskell	homicide_rate	
+20083	Kansas	Hodgeman	homicide_rate	
+20085	Kansas	Jackson	homicide_rate	
+20087	Kansas	Jefferson	homicide_rate	
+20089	Kansas	Jewell	homicide_rate	
+20091	Kansas	Johnson	homicide_rate	2
+20093	Kansas	Kearny	homicide_rate	
+20095	Kansas	Kingman	homicide_rate	
+20097	Kansas	Kiowa	homicide_rate	
+20099	Kansas	Labette	homicide_rate	
+20101	Kansas	Lane	homicide_rate	
+20103	Kansas	Leavenworth	homicide_rate	2
+20105	Kansas	Lincoln	homicide_rate	
+20107	Kansas	Linn	homicide_rate	
+20109	Kansas	Logan	homicide_rate	
+20111	Kansas	Lyon	homicide_rate	
+20113	Kansas	McPherson	homicide_rate	
+20115	Kansas	Marion	homicide_rate	
+20117	Kansas	Marshall	homicide_rate	
+20119	Kansas	Meade	homicide_rate	
+20121	Kansas	Miami	homicide_rate	
+20123	Kansas	Mitchell	homicide_rate	
+20125	Kansas	Montgomery	homicide_rate	4
+20127	Kansas	Morris	homicide_rate	
+20129	Kansas	Morton	homicide_rate	
+20131	Kansas	Nemaha	homicide_rate	
+20133	Kansas	Neosho	homicide_rate	
+20135	Kansas	Ness	homicide_rate	
+20137	Kansas	Norton	homicide_rate	
+20139	Kansas	Osage	homicide_rate	
+20141	Kansas	Osborne	homicide_rate	
+20143	Kansas	Ottawa	homicide_rate	
+20145	Kansas	Pawnee	homicide_rate	
+20147	Kansas	Phillips	homicide_rate	
+20149	Kansas	Pottawatomie	homicide_rate	
+20151	Kansas	Pratt	homicide_rate	
+20153	Kansas	Rawlins	homicide_rate	
+20155	Kansas	Reno	homicide_rate	2
+20157	Kansas	Republic	homicide_rate	
+20159	Kansas	Rice	homicide_rate	
+20161	Kansas	Riley	homicide_rate	
+20163	Kansas	Rooks	homicide_rate	
+20165	Kansas	Rush	homicide_rate	
+20167	Kansas	Russell	homicide_rate	
+20169	Kansas	Saline	homicide_rate	5
+20171	Kansas	Scott	homicide_rate	
+20173	Kansas	Sedgwick	homicide_rate	6
+20175	Kansas	Seward	homicide_rate	
+20177	Kansas	Shawnee	homicide_rate	7
+20179	Kansas	Sheridan	homicide_rate	
+20181	Kansas	Sherman	homicide_rate	
+20183	Kansas	Smith	homicide_rate	
+20185	Kansas	Stafford	homicide_rate	
+20187	Kansas	Stanton	homicide_rate	
+20189	Kansas	Stevens	homicide_rate	
+20191	Kansas	Sumner	homicide_rate	
+20193	Kansas	Thomas	homicide_rate	
+20195	Kansas	Trego	homicide_rate	
+20197	Kansas	Wabaunsee	homicide_rate	
+20199	Kansas	Wallace	homicide_rate	
+20201	Kansas	Washington	homicide_rate	
+20203	Kansas	Wichita	homicide_rate	
+20205	Kansas	Wilson	homicide_rate	
+20207	Kansas	Woodson	homicide_rate	
+20209	Kansas	Wyandotte	homicide_rate	19
+21001	Kentucky	Adair	homicide_rate	
+21003	Kentucky	Allen	homicide_rate	
+21005	Kentucky	Anderson	homicide_rate	
+21007	Kentucky	Ballard	homicide_rate	
+21009	Kentucky	Barren	homicide_rate	4
+21011	Kentucky	Bath	homicide_rate	
+21013	Kentucky	Bell	homicide_rate	6
+21015	Kentucky	Boone	homicide_rate	2
+21017	Kentucky	Bourbon	homicide_rate	
+21019	Kentucky	Boyd	homicide_rate	3
+21021	Kentucky	Boyle	homicide_rate	
+21023	Kentucky	Bracken	homicide_rate	
+21025	Kentucky	Breathitt	homicide_rate	12
+21027	Kentucky	Breckinridge	homicide_rate	
+21029	Kentucky	Bullitt	homicide_rate	3
+21031	Kentucky	Butler	homicide_rate	
+21033	Kentucky	Caldwell	homicide_rate	
+21035	Kentucky	Calloway	homicide_rate	
+21037	Kentucky	Campbell	homicide_rate	3
+21039	Kentucky	Carlisle	homicide_rate	
+21041	Kentucky	Carroll	homicide_rate	
+21043	Kentucky	Carter	homicide_rate	10
+21045	Kentucky	Casey	homicide_rate	
+21047	Kentucky	Christian	homicide_rate	6
+21049	Kentucky	Clark	homicide_rate	4
+21051	Kentucky	Clay	homicide_rate	
+21053	Kentucky	Clinton	homicide_rate	
+21055	Kentucky	Crittenden	homicide_rate	
+21057	Kentucky	Cumberland	homicide_rate	
+21059	Kentucky	Daviess	homicide_rate	3
+21061	Kentucky	Edmonson	homicide_rate	
+21063	Kentucky	Elliott	homicide_rate	
+21065	Kentucky	Estill	homicide_rate	12
+21067	Kentucky	Fayette	homicide_rate	5
+21069	Kentucky	Fleming	homicide_rate	
+21071	Kentucky	Floyd	homicide_rate	7
+21073	Kentucky	Franklin	homicide_rate	3
+21075	Kentucky	Fulton	homicide_rate	
+21077	Kentucky	Gallatin	homicide_rate	
+21079	Kentucky	Garrard	homicide_rate	
+21081	Kentucky	Grant	homicide_rate	
+21083	Kentucky	Graves	homicide_rate	4
+21085	Kentucky	Grayson	homicide_rate	
+21087	Kentucky	Green	homicide_rate	
+21089	Kentucky	Greenup	homicide_rate	
+21091	Kentucky	Hancock	homicide_rate	
+21093	Kentucky	Hardin	homicide_rate	3
+21095	Kentucky	Harlan	homicide_rate	5
+21097	Kentucky	Harrison	homicide_rate	
+21099	Kentucky	Hart	homicide_rate	
+21101	Kentucky	Henderson	homicide_rate	5
+21103	Kentucky	Henry	homicide_rate	
+21105	Kentucky	Hickman	homicide_rate	
+21107	Kentucky	Hopkins	homicide_rate	4
+21109	Kentucky	Jackson	homicide_rate	
+21111	Kentucky	Jefferson	homicide_rate	9
+21113	Kentucky	Jessamine	homicide_rate	
+21115	Kentucky	Johnson	homicide_rate	6
+21117	Kentucky	Kenton	homicide_rate	4
+21119	Kentucky	Knott	homicide_rate	
+21121	Kentucky	Knox	homicide_rate	
+21123	Kentucky	Larue	homicide_rate	
+21125	Kentucky	Laurel	homicide_rate	6
+21127	Kentucky	Lawrence	homicide_rate	
+21129	Kentucky	Lee	homicide_rate	
+21131	Kentucky	Leslie	homicide_rate	
+21133	Kentucky	Letcher	homicide_rate	6
+21135	Kentucky	Lewis	homicide_rate	
+21137	Kentucky	Lincoln	homicide_rate	
+21139	Kentucky	Livingston	homicide_rate	
+21141	Kentucky	Logan	homicide_rate	
+21143	Kentucky	Lyon	homicide_rate	
+21145	Kentucky	McCracken	homicide_rate	4
+21147	Kentucky	McCreary	homicide_rate	
+21149	Kentucky	McLean	homicide_rate	
+21151	Kentucky	Madison	homicide_rate	3
+21153	Kentucky	Magoffin	homicide_rate	
+21155	Kentucky	Marion	homicide_rate	
+21157	Kentucky	Marshall	homicide_rate	
+21159	Kentucky	Martin	homicide_rate	
+21161	Kentucky	Mason	homicide_rate	
+21163	Kentucky	Meade	homicide_rate	
+21165	Kentucky	Menifee	homicide_rate	
+21167	Kentucky	Mercer	homicide_rate	
+21169	Kentucky	Metcalfe	homicide_rate	
+21171	Kentucky	Monroe	homicide_rate	
+21173	Kentucky	Montgomery	homicide_rate	10
+21175	Kentucky	Morgan	homicide_rate	
+21177	Kentucky	Muhlenberg	homicide_rate	5
+21179	Kentucky	Nelson	homicide_rate	
+21181	Kentucky	Nicholas	homicide_rate	
+21183	Kentucky	Ohio	homicide_rate	
+21185	Kentucky	Oldham	homicide_rate	
+21187	Kentucky	Owen	homicide_rate	
+21189	Kentucky	Owsley	homicide_rate	
+21191	Kentucky	Pendleton	homicide_rate	
+21193	Kentucky	Perry	homicide_rate	8
+21195	Kentucky	Pike	homicide_rate	6
+21197	Kentucky	Powell	homicide_rate	
+21199	Kentucky	Pulaski	homicide_rate	3
+21201	Kentucky	Robertson	homicide_rate	
+21203	Kentucky	Rockcastle	homicide_rate	
+21205	Kentucky	Rowan	homicide_rate	
+21207	Kentucky	Russell	homicide_rate	
+21209	Kentucky	Scott	homicide_rate	3
+21211	Kentucky	Shelby	homicide_rate	
+21213	Kentucky	Simpson	homicide_rate	
+21215	Kentucky	Spencer	homicide_rate	
+21217	Kentucky	Taylor	homicide_rate	7
+21219	Kentucky	Todd	homicide_rate	
+21221	Kentucky	Trigg	homicide_rate	
+21223	Kentucky	Trimble	homicide_rate	
+21225	Kentucky	Union	homicide_rate	
+21227	Kentucky	Warren	homicide_rate	3
+21229	Kentucky	Washington	homicide_rate	
+21231	Kentucky	Wayne	homicide_rate	
+21233	Kentucky	Webster	homicide_rate	
+21235	Kentucky	Whitley	homicide_rate	7
+21237	Kentucky	Wolfe	homicide_rate	
+21239	Kentucky	Woodford	homicide_rate	
+22001	Louisiana	Acadia	homicide_rate	5
+22003	Louisiana	Allen	homicide_rate	
+22005	Louisiana	Ascension	homicide_rate	6
+22007	Louisiana	Assumption	homicide_rate	6
+22009	Louisiana	Avoyelles	homicide_rate	5
+22011	Louisiana	Beauregard	homicide_rate	5
+22013	Louisiana	Bienville	homicide_rate	
+22015	Louisiana	Bossier	homicide_rate	5
+22017	Louisiana	Caddo	homicide_rate	15
+22019	Louisiana	Calcasieu	homicide_rate	9
+22021	Louisiana	Caldwell	homicide_rate	
+22023	Louisiana	Cameron	homicide_rate	
+22025	Louisiana	Catahoula	homicide_rate	
+22027	Louisiana	Claiborne	homicide_rate	
+22029	Louisiana	Concordia	homicide_rate	13
+22031	Louisiana	De Soto	homicide_rate	8
+22033	Louisiana	East Baton Rouge	homicide_rate	17
+22035	Louisiana	East Carroll	homicide_rate	25
+22037	Louisiana	East Feliciana	homicide_rate	8
+22039	Louisiana	Evangeline	homicide_rate	5
+22041	Louisiana	Franklin	homicide_rate	
+22043	Louisiana	Grant	homicide_rate	8
+22045	Louisiana	Iberia	homicide_rate	8
+22047	Louisiana	Iberville	homicide_rate	11
+22049	Louisiana	Jackson	homicide_rate	
+22051	Louisiana	Jefferson	homicide_rate	16
+22053	Louisiana	Jefferson Davis	homicide_rate	11
+22055	Louisiana	Lafayette	homicide_rate	6
+22057	Louisiana	Lafourche	homicide_rate	6
+22059	Louisiana	La Salle	homicide_rate	
+22061	Louisiana	Lincoln	homicide_rate	5
+22063	Louisiana	Livingston	homicide_rate	6
+22065	Louisiana	Madison	homicide_rate	13
+22067	Louisiana	Morehouse	homicide_rate	11
+22069	Louisiana	Natchitoches	homicide_rate	10
+22071	Louisiana	Orleans	homicide_rate	51
+22073	Louisiana	Ouachita	homicide_rate	8
+22075	Louisiana	Plaquemines	homicide_rate	6
+22077	Louisiana	Pointe Coupee	homicide_rate	9
+22079	Louisiana	Rapides	homicide_rate	9
+22081	Louisiana	Red River	homicide_rate	
+22083	Louisiana	Richland	homicide_rate	
+22085	Louisiana	Sabine	homicide_rate	
+22087	Louisiana	St. Bernard	homicide_rate	6
+22089	Louisiana	St. Charles	homicide_rate	8
+22091	Louisiana	St. Helena	homicide_rate	
+22093	Louisiana	St. James	homicide_rate	9
+22095	Louisiana	St. John the Baptist	homicide_rate	18
+22097	Louisiana	St. Landry	homicide_rate	7
+22099	Louisiana	St. Martin	homicide_rate	4
+22101	Louisiana	St. Mary	homicide_rate	8
+22103	Louisiana	St. Tammany	homicide_rate	4
+22105	Louisiana	Tangipahoa	homicide_rate	8
+22107	Louisiana	Tensas	homicide_rate	
+22109	Louisiana	Terrebonne	homicide_rate	9
+22111	Louisiana	Union	homicide_rate	
+22113	Louisiana	Vermilion	homicide_rate	4
+22115	Louisiana	Vernon	homicide_rate	5
+22117	Louisiana	Washington	homicide_rate	13
+22119	Louisiana	Webster	homicide_rate	8
+22121	Louisiana	West Baton Rouge	homicide_rate	10
+22123	Louisiana	West Carroll	homicide_rate	
+22125	Louisiana	West Feliciana	homicide_rate	
+22127	Louisiana	Winn	homicide_rate	9
+23001	Maine	Androscoggin	homicide_rate	2
+23003	Maine	Aroostook	homicide_rate	
+23005	Maine	Cumberland	homicide_rate	2
+23007	Maine	Franklin	homicide_rate	
+23009	Maine	Hancock	homicide_rate	
+23011	Maine	Kennebec	homicide_rate	1
+23013	Maine	Knox	homicide_rate	
+23015	Maine	Lincoln	homicide_rate	
+23017	Maine	Oxford	homicide_rate	4
+23019	Maine	Penobscot	homicide_rate	2
+23021	Maine	Piscataquis	homicide_rate	
+23023	Maine	Sagadahoc	homicide_rate	
+23025	Maine	Somerset	homicide_rate	
+23027	Maine	Waldo	homicide_rate	
+23029	Maine	Washington	homicide_rate	
+23031	Maine	York	homicide_rate	2
+24001	Maryland	Allegany	homicide_rate	2
+24003	Maryland	Anne Arundel	homicide_rate	4
+24005	Maryland	Baltimore	homicide_rate	6
+24009	Maryland	Calvert	homicide_rate	3
+24011	Maryland	Caroline	homicide_rate	
+24013	Maryland	Carroll	homicide_rate	1
+24015	Maryland	Cecil	homicide_rate	5
+24017	Maryland	Charles	homicide_rate	5
+24019	Maryland	Dorchester	homicide_rate	
+24021	Maryland	Frederick	homicide_rate	2
+24023	Maryland	Garrett	homicide_rate	
+24025	Maryland	Harford	homicide_rate	3
+24027	Maryland	Howard	homicide_rate	3
+24029	Maryland	Kent	homicide_rate	
+24031	Maryland	Montgomery	homicide_rate	3
+24033	Maryland	Prince George's	homicide_rate	16
+24035	Maryland	Queen Anne's	homicide_rate	
+24037	Maryland	St. Mary's	homicide_rate	2
+24039	Maryland	Somerset	homicide_rate	
+24041	Maryland	Talbot	homicide_rate	
+24043	Maryland	Washington	homicide_rate	2
+24045	Maryland	Wicomico	homicide_rate	7
+24047	Maryland	Worcester	homicide_rate	
+24510	Maryland	Baltimore City	homicide_rate	38
+25001	Massachusetts	Barnstable	homicide_rate	1
+25003	Massachusetts	Berkshire	homicide_rate	2
+25005	Massachusetts	Bristol	homicide_rate	3
+25007	Massachusetts	Dukes	homicide_rate	
+25009	Massachusetts	Essex	homicide_rate	2
+25011	Massachusetts	Franklin	homicide_rate	
+25013	Massachusetts	Hampden	homicide_rate	5
+25015	Massachusetts	Hampshire	homicide_rate	
+25017	Massachusetts	Middlesex	homicide_rate	1
+25019	Massachusetts	Nantucket	homicide_rate	
+25021	Massachusetts	Norfolk	homicide_rate	1
+25023	Massachusetts	Plymouth	homicide_rate	3
+25025	Massachusetts	Suffolk	homicide_rate	9
+25027	Massachusetts	Worcester	homicide_rate	2
+26001	Michigan	Alcona	homicide_rate	
+26003	Michigan	Alger	homicide_rate	
+26005	Michigan	Allegan	homicide_rate	
+26007	Michigan	Alpena	homicide_rate	
+26009	Michigan	Antrim	homicide_rate	
+26011	Michigan	Arenac	homicide_rate	
+26013	Michigan	Baraga	homicide_rate	
+26015	Michigan	Barry	homicide_rate	
+26017	Michigan	Bay	homicide_rate	2
+26019	Michigan	Benzie	homicide_rate	
+26021	Michigan	Berrien	homicide_rate	4
+26023	Michigan	Branch	homicide_rate	
+26025	Michigan	Calhoun	homicide_rate	6
+26027	Michigan	Cass	homicide_rate	3
+26029	Michigan	Charlevoix	homicide_rate	
+26031	Michigan	Cheboygan	homicide_rate	
+26033	Michigan	Chippewa	homicide_rate	
+26035	Michigan	Clare	homicide_rate	
+26037	Michigan	Clinton	homicide_rate	
+26039	Michigan	Crawford	homicide_rate	
+26041	Michigan	Delta	homicide_rate	
+26043	Michigan	Dickinson	homicide_rate	
+26045	Michigan	Eaton	homicide_rate	2
+26047	Michigan	Emmet	homicide_rate	
+26049	Michigan	Genesee	homicide_rate	12
+26051	Michigan	Gladwin	homicide_rate	
+26053	Michigan	Gogebic	homicide_rate	
+26055	Michigan	Grand Traverse	homicide_rate	
+26057	Michigan	Gratiot	homicide_rate	
+26059	Michigan	Hillsdale	homicide_rate	
+26061	Michigan	Houghton	homicide_rate	
+26063	Michigan	Huron	homicide_rate	
+26065	Michigan	Ingham	homicide_rate	4
+26067	Michigan	Ionia	homicide_rate	
+26069	Michigan	Iosco	homicide_rate	
+26071	Michigan	Iron	homicide_rate	
+26073	Michigan	Isabella	homicide_rate	
+26075	Michigan	Jackson	homicide_rate	4
+26077	Michigan	Kalamazoo	homicide_rate	3
+26079	Michigan	Kalkaska	homicide_rate	
+26081	Michigan	Kent	homicide_rate	3
+26083	Michigan	Keweenaw	homicide_rate	
+26085	Michigan	Lake	homicide_rate	
+26087	Michigan	Lapeer	homicide_rate	2
+26089	Michigan	Leelanau	homicide_rate	
+26091	Michigan	Lenawee	homicide_rate	
+26093	Michigan	Livingston	homicide_rate	1
+26095	Michigan	Luce	homicide_rate	
+26097	Michigan	Mackinac	homicide_rate	
+26099	Michigan	Macomb	homicide_rate	4
+26101	Michigan	Manistee	homicide_rate	
+26103	Michigan	Marquette	homicide_rate	
+26105	Michigan	Mason	homicide_rate	
+26107	Michigan	Mecosta	homicide_rate	
+26109	Michigan	Menominee	homicide_rate	
+26111	Michigan	Midland	homicide_rate	
+26113	Michigan	Missaukee	homicide_rate	
+26115	Michigan	Monroe	homicide_rate	2
+26117	Michigan	Montcalm	homicide_rate	3
+26119	Michigan	Montmorency	homicide_rate	
+26121	Michigan	Muskegon	homicide_rate	3
+26123	Michigan	Newaygo	homicide_rate	
+26125	Michigan	Oakland	homicide_rate	4
+26127	Michigan	Oceana	homicide_rate	5
+26129	Michigan	Ogemaw	homicide_rate	
+26131	Michigan	Ontonagon	homicide_rate	
+26133	Michigan	Osceola	homicide_rate	
+26135	Michigan	Oscoda	homicide_rate	
+26137	Michigan	Otsego	homicide_rate	
+26139	Michigan	Ottawa	homicide_rate	1
+26141	Michigan	Presque Isle	homicide_rate	
+26143	Michigan	Roscommon	homicide_rate	
+26145	Michigan	Saginaw	homicide_rate	11
+26147	Michigan	St. Clair	homicide_rate	2
+26149	Michigan	St. Joseph	homicide_rate	
+26151	Michigan	Sanilac	homicide_rate	
+26153	Michigan	Schoolcraft	homicide_rate	
+26155	Michigan	Shiawassee	homicide_rate	
+26157	Michigan	Tuscola	homicide_rate	
+26159	Michigan	Van Buren	homicide_rate	2
+26161	Michigan	Washtenaw	homicide_rate	3
+26163	Michigan	Wayne	homicide_rate	21
+26165	Michigan	Wexford	homicide_rate	
+27001	Minnesota	Aitkin	homicide_rate	
+27003	Minnesota	Anoka	homicide_rate	2
+27005	Minnesota	Becker	homicide_rate	
+27007	Minnesota	Beltrami	homicide_rate	8
+27009	Minnesota	Benton	homicide_rate	
+27011	Minnesota	Big Stone	homicide_rate	
+27013	Minnesota	Blue Earth	homicide_rate	
+27015	Minnesota	Brown	homicide_rate	
+27017	Minnesota	Carlton	homicide_rate	
+27019	Minnesota	Carver	homicide_rate	
+27021	Minnesota	Cass	homicide_rate	
+27023	Minnesota	Chippewa	homicide_rate	
+27025	Minnesota	Chisago	homicide_rate	
+27027	Minnesota	Clay	homicide_rate	
+27029	Minnesota	Clearwater	homicide_rate	
+27031	Minnesota	Cook	homicide_rate	
+27033	Minnesota	Cottonwood	homicide_rate	
+27035	Minnesota	Crow Wing	homicide_rate	
+27037	Minnesota	Dakota	homicide_rate	1
+27039	Minnesota	Dodge	homicide_rate	
+27041	Minnesota	Douglas	homicide_rate	
+27043	Minnesota	Faribault	homicide_rate	
+27045	Minnesota	Fillmore	homicide_rate	
+27047	Minnesota	Freeborn	homicide_rate	
+27049	Minnesota	Goodhue	homicide_rate	
+27051	Minnesota	Grant	homicide_rate	
+27053	Minnesota	Hennepin	homicide_rate	4
+27055	Minnesota	Houston	homicide_rate	
+27057	Minnesota	Hubbard	homicide_rate	
+27059	Minnesota	Isanti	homicide_rate	
+27061	Minnesota	Itasca	homicide_rate	
+27063	Minnesota	Jackson	homicide_rate	
+27065	Minnesota	Kanabec	homicide_rate	
+27067	Minnesota	Kandiyohi	homicide_rate	
+27069	Minnesota	Kittson	homicide_rate	
+27071	Minnesota	Koochiching	homicide_rate	
+27073	Minnesota	Lac qui Parle	homicide_rate	
+27075	Minnesota	Lake	homicide_rate	
+27077	Minnesota	Lake of the Woods	homicide_rate	
+27079	Minnesota	Le Sueur	homicide_rate	
+27081	Minnesota	Lincoln	homicide_rate	
+27083	Minnesota	Lyon	homicide_rate	
+27085	Minnesota	McLeod	homicide_rate	
+27087	Minnesota	Mahnomen	homicide_rate	
+27089	Minnesota	Marshall	homicide_rate	
+27091	Minnesota	Martin	homicide_rate	
+27093	Minnesota	Meeker	homicide_rate	
+27095	Minnesota	Mille Lacs	homicide_rate	
+27097	Minnesota	Morrison	homicide_rate	
+27099	Minnesota	Mower	homicide_rate	
+27101	Minnesota	Murray	homicide_rate	
+27103	Minnesota	Nicollet	homicide_rate	
+27105	Minnesota	Nobles	homicide_rate	
+27107	Minnesota	Norman	homicide_rate	
+27109	Minnesota	Olmsted	homicide_rate	1
+27111	Minnesota	Otter Tail	homicide_rate	
+27113	Minnesota	Pennington	homicide_rate	
+27115	Minnesota	Pine	homicide_rate	
+27117	Minnesota	Pipestone	homicide_rate	
+27119	Minnesota	Polk	homicide_rate	
+27121	Minnesota	Pope	homicide_rate	
+27123	Minnesota	Ramsey	homicide_rate	4
+27125	Minnesota	Red Lake	homicide_rate	
+27127	Minnesota	Redwood	homicide_rate	
+27129	Minnesota	Renville	homicide_rate	
+27131	Minnesota	Rice	homicide_rate	
+27133	Minnesota	Rock	homicide_rate	
+27135	Minnesota	Roseau	homicide_rate	
+27137	Minnesota	St. Louis	homicide_rate	2
+27139	Minnesota	Scott	homicide_rate	
+27141	Minnesota	Sherburne	homicide_rate	
+27143	Minnesota	Sibley	homicide_rate	
+27145	Minnesota	Stearns	homicide_rate	1
+27147	Minnesota	Steele	homicide_rate	
+27149	Minnesota	Stevens	homicide_rate	
+27151	Minnesota	Swift	homicide_rate	
+27153	Minnesota	Todd	homicide_rate	
+27155	Minnesota	Traverse	homicide_rate	
+27157	Minnesota	Wabasha	homicide_rate	
+27159	Minnesota	Wadena	homicide_rate	
+27161	Minnesota	Waseca	homicide_rate	
+27163	Minnesota	Washington	homicide_rate	1
+27165	Minnesota	Watonwan	homicide_rate	
+27167	Minnesota	Wilkin	homicide_rate	
+27169	Minnesota	Winona	homicide_rate	
+27171	Minnesota	Wright	homicide_rate	
+27173	Minnesota	Yellow Medicine	homicide_rate	
+28001	Mississippi	Adams	homicide_rate	11
+28003	Mississippi	Alcorn	homicide_rate	6
+28005	Mississippi	Amite	homicide_rate	19
+28007	Mississippi	Attala	homicide_rate	16
+28009	Mississippi	Benton	homicide_rate	
+28011	Mississippi	Bolivar	homicide_rate	19
+28013	Mississippi	Calhoun	homicide_rate	
+28015	Mississippi	Carroll	homicide_rate	
+28017	Mississippi	Chickasaw	homicide_rate	
+28019	Mississippi	Choctaw	homicide_rate	
+28021	Mississippi	Claiborne	homicide_rate	23
+28023	Mississippi	Clarke	homicide_rate	
+28025	Mississippi	Clay	homicide_rate	
+28027	Mississippi	Coahoma	homicide_rate	28
+28029	Mississippi	Copiah	homicide_rate	10
+28031	Mississippi	Covington	homicide_rate	9
+28033	Mississippi	DeSoto	homicide_rate	4
+28035	Mississippi	Forrest	homicide_rate	9
+28037	Mississippi	Franklin	homicide_rate	
+28039	Mississippi	George	homicide_rate	12
+28041	Mississippi	Greene	homicide_rate	
+28043	Mississippi	Grenada	homicide_rate	18
+28045	Mississippi	Hancock	homicide_rate	5
+28047	Mississippi	Harrison	homicide_rate	9
+28049	Mississippi	Hinds	homicide_rate	20
+28051	Mississippi	Holmes	homicide_rate	18
+28053	Mississippi	Humphreys	homicide_rate	26
+28055	Mississippi	Issaquena	homicide_rate	
+28057	Mississippi	Itawamba	homicide_rate	6
+28059	Mississippi	Jackson	homicide_rate	9
+28061	Mississippi	Jasper	homicide_rate	12
+28063	Mississippi	Jefferson	homicide_rate	
+28065	Mississippi	Jefferson Davis	homicide_rate	26
+28067	Mississippi	Jones	homicide_rate	9
+28069	Mississippi	Kemper	homicide_rate	
+28071	Mississippi	Lafayette	homicide_rate	5
+28073	Mississippi	Lamar	homicide_rate	4
+28075	Mississippi	Lauderdale	homicide_rate	9
+28077	Mississippi	Lawrence	homicide_rate	12
+28079	Mississippi	Leake	homicide_rate	12
+28081	Mississippi	Lee	homicide_rate	5
+28083	Mississippi	Leflore	homicide_rate	18
+28085	Mississippi	Lincoln	homicide_rate	9
+28087	Mississippi	Lowndes	homicide_rate	6
+28089	Mississippi	Madison	homicide_rate	10
+28091	Mississippi	Marion	homicide_rate	18
+28093	Mississippi	Marshall	homicide_rate	9
+28095	Mississippi	Monroe	homicide_rate	
+28097	Mississippi	Montgomery	homicide_rate	
+28099	Mississippi	Neshoba	homicide_rate	5
+28101	Mississippi	Newton	homicide_rate	8
+28103	Mississippi	Noxubee	homicide_rate	17
+28105	Mississippi	Oktibbeha	homicide_rate	4
+28107	Mississippi	Panola	homicide_rate	9
+28109	Mississippi	Pearl River	homicide_rate	5
+28111	Mississippi	Perry	homicide_rate	12
+28113	Mississippi	Pike	homicide_rate	11
+28115	Mississippi	Pontotoc	homicide_rate	
+28117	Mississippi	Prentiss	homicide_rate	
+28119	Mississippi	Quitman	homicide_rate	18
+28121	Mississippi	Rankin	homicide_rate	4
+28123	Mississippi	Scott	homicide_rate	16
+28125	Mississippi	Sharkey	homicide_rate	
+28127	Mississippi	Simpson	homicide_rate	8
+28129	Mississippi	Smith	homicide_rate	
+28131	Mississippi	Stone	homicide_rate	
+28133	Mississippi	Sunflower	homicide_rate	13
+28135	Mississippi	Tallahatchie	homicide_rate	12
+28137	Mississippi	Tate	homicide_rate	6
+28139	Mississippi	Tippah	homicide_rate	8
+28141	Mississippi	Tishomingo	homicide_rate	
+28143	Mississippi	Tunica	homicide_rate	19
+28145	Mississippi	Union	homicide_rate	6
+28147	Mississippi	Walthall	homicide_rate	14
+28149	Mississippi	Warren	homicide_rate	11
+28151	Mississippi	Washington	homicide_rate	19
+28153	Mississippi	Wayne	homicide_rate	11
+28155	Mississippi	Webster	homicide_rate	
+28157	Mississippi	Wilkinson	homicide_rate	18
+28159	Mississippi	Winston	homicide_rate	
+28161	Mississippi	Yalobusha	homicide_rate	14
+28163	Mississippi	Yazoo	homicide_rate	13
+29001	Missouri	Adair	homicide_rate	
+29003	Missouri	Andrew	homicide_rate	
+29005	Missouri	Atchison	homicide_rate	
+29007	Missouri	Audrain	homicide_rate	
+29009	Missouri	Barry	homicide_rate	5
+29011	Missouri	Barton	homicide_rate	
+29013	Missouri	Bates	homicide_rate	
+29015	Missouri	Benton	homicide_rate	
+29017	Missouri	Bollinger	homicide_rate	
+29019	Missouri	Boone	homicide_rate	3
+29021	Missouri	Buchanan	homicide_rate	5
+29023	Missouri	Butler	homicide_rate	5
+29025	Missouri	Caldwell	homicide_rate	
+29027	Missouri	Callaway	homicide_rate	4
+29029	Missouri	Camden	homicide_rate	
+29031	Missouri	Cape Girardeau	homicide_rate	3
+29033	Missouri	Carroll	homicide_rate	
+29035	Missouri	Carter	homicide_rate	
+29037	Missouri	Cass	homicide_rate	4
+29039	Missouri	Cedar	homicide_rate	
+29041	Missouri	Chariton	homicide_rate	
+29043	Missouri	Christian	homicide_rate	
+29045	Missouri	Clark	homicide_rate	
+29047	Missouri	Clay	homicide_rate	3
+29049	Missouri	Clinton	homicide_rate	
+29051	Missouri	Cole	homicide_rate	4
+29053	Missouri	Cooper	homicide_rate	
+29055	Missouri	Crawford	homicide_rate	
+29057	Missouri	Dade	homicide_rate	
+29059	Missouri	Dallas	homicide_rate	
+29061	Missouri	Daviess	homicide_rate	
+29063	Missouri	DeKalb	homicide_rate	
+29065	Missouri	Dent	homicide_rate	
+29067	Missouri	Douglas	homicide_rate	
+29069	Missouri	Dunklin	homicide_rate	4
+29071	Missouri	Franklin	homicide_rate	3
+29073	Missouri	Gasconade	homicide_rate	
+29075	Missouri	Gentry	homicide_rate	
+29077	Missouri	Greene	homicide_rate	4
+29079	Missouri	Grundy	homicide_rate	
+29081	Missouri	Harrison	homicide_rate	
+29083	Missouri	Henry	homicide_rate	
+29085	Missouri	Hickory	homicide_rate	
+29087	Missouri	Holt	homicide_rate	
+29089	Missouri	Howard	homicide_rate	
+29091	Missouri	Howell	homicide_rate	5
+29093	Missouri	Iron	homicide_rate	
+29095	Missouri	Jackson	homicide_rate	17
+29097	Missouri	Jasper	homicide_rate	4
+29099	Missouri	Jefferson	homicide_rate	2
+29101	Missouri	Johnson	homicide_rate	
+29103	Missouri	Knox	homicide_rate	
+29105	Missouri	Laclede	homicide_rate	7
+29107	Missouri	Lafayette	homicide_rate	
+29109	Missouri	Lawrence	homicide_rate	
+29111	Missouri	Lewis	homicide_rate	
+29113	Missouri	Lincoln	homicide_rate	
+29115	Missouri	Linn	homicide_rate	
+29117	Missouri	Livingston	homicide_rate	
+29119	Missouri	McDonald	homicide_rate	6
+29121	Missouri	Macon	homicide_rate	
+29123	Missouri	Madison	homicide_rate	
+29125	Missouri	Maries	homicide_rate	
+29127	Missouri	Marion	homicide_rate	
+29129	Missouri	Mercer	homicide_rate	
+29131	Missouri	Miller	homicide_rate	
+29133	Missouri	Mississippi	homicide_rate	14
+29135	Missouri	Moniteau	homicide_rate	
+29137	Missouri	Monroe	homicide_rate	
+29139	Missouri	Montgomery	homicide_rate	
+29141	Missouri	Morgan	homicide_rate	
+29143	Missouri	New Madrid	homicide_rate	8
+29145	Missouri	Newton	homicide_rate	4
+29147	Missouri	Nodaway	homicide_rate	
+29149	Missouri	Oregon	homicide_rate	
+29151	Missouri	Osage	homicide_rate	
+29153	Missouri	Ozark	homicide_rate	
+29155	Missouri	Pemiscot	homicide_rate	11
+29157	Missouri	Perry	homicide_rate	
+29159	Missouri	Pettis	homicide_rate	
+29161	Missouri	Phelps	homicide_rate	4
+29163	Missouri	Pike	homicide_rate	
+29165	Missouri	Platte	homicide_rate	3
+29167	Missouri	Polk	homicide_rate	
+29169	Missouri	Pulaski	homicide_rate	3
+29171	Missouri	Putnam	homicide_rate	
+29173	Missouri	Ralls	homicide_rate	
+29175	Missouri	Randolph	homicide_rate	
+29177	Missouri	Ray	homicide_rate	
+29179	Missouri	Reynolds	homicide_rate	
+29181	Missouri	Ripley	homicide_rate	
+29183	Missouri	St. Charles	homicide_rate	2
+29185	Missouri	St. Clair	homicide_rate	
+29186	Missouri	Ste. Genevieve	homicide_rate	
+29187	Missouri	St. Francois	homicide_rate	3
+29189	Missouri	St. Louis	homicide_rate	8
+29195	Missouri	Saline	homicide_rate	
+29197	Missouri	Schuyler	homicide_rate	
+29199	Missouri	Scotland	homicide_rate	
+29201	Missouri	Scott	homicide_rate	
+29203	Missouri	Shannon	homicide_rate	
+29205	Missouri	Shelby	homicide_rate	
+29207	Missouri	Stoddard	homicide_rate	
+29209	Missouri	Stone	homicide_rate	
+29211	Missouri	Sullivan	homicide_rate	
+29213	Missouri	Taney	homicide_rate	4
+29215	Missouri	Texas	homicide_rate	
+29217	Missouri	Vernon	homicide_rate	
+29219	Missouri	Warren	homicide_rate	5
+29221	Missouri	Washington	homicide_rate	6
+29223	Missouri	Wayne	homicide_rate	
+29225	Missouri	Webster	homicide_rate	
+29227	Missouri	Worth	homicide_rate	
+29229	Missouri	Wright	homicide_rate	
+29510	Missouri	St. Louis City	homicide_rate	33
+30001	Montana	Beaverhead	homicide_rate	
+30003	Montana	Big Horn	homicide_rate	
+30005	Montana	Blaine	homicide_rate	
+30007	Montana	Broadwater	homicide_rate	
+30009	Montana	Carbon	homicide_rate	
+30011	Montana	Carter	homicide_rate	
+30013	Montana	Cascade	homicide_rate	5
+30015	Montana	Chouteau	homicide_rate	
+30017	Montana	Custer	homicide_rate	
+30019	Montana	Daniels	homicide_rate	
+30021	Montana	Dawson	homicide_rate	
+30023	Montana	Deer Lodge	homicide_rate	
+30025	Montana	Fallon	homicide_rate	
+30027	Montana	Fergus	homicide_rate	
+30029	Montana	Flathead	homicide_rate	3
+30031	Montana	Gallatin	homicide_rate	
+30033	Montana	Garfield	homicide_rate	
+30035	Montana	Glacier	homicide_rate	
+30037	Montana	Golden Valley	homicide_rate	
+30039	Montana	Granite	homicide_rate	
+30041	Montana	Hill	homicide_rate	
+30043	Montana	Jefferson	homicide_rate	
+30045	Montana	Judith Basin	homicide_rate	
+30047	Montana	Lake	homicide_rate	5
+30049	Montana	Lewis and Clark	homicide_rate	3
+30051	Montana	Liberty	homicide_rate	
+30053	Montana	Lincoln	homicide_rate	
+30055	Montana	McCone	homicide_rate	
+30057	Montana	Madison	homicide_rate	
+30059	Montana	Meagher	homicide_rate	
+30061	Montana	Mineral	homicide_rate	
+30063	Montana	Missoula	homicide_rate	2
+30065	Montana	Musselshell	homicide_rate	
+30067	Montana	Park	homicide_rate	
+30069	Montana	Petroleum	homicide_rate	
+30071	Montana	Phillips	homicide_rate	
+30073	Montana	Pondera	homicide_rate	
+30075	Montana	Powder River	homicide_rate	
+30077	Montana	Powell	homicide_rate	
+30079	Montana	Prairie	homicide_rate	
+30081	Montana	Ravalli	homicide_rate	
+30083	Montana	Richland	homicide_rate	
+30085	Montana	Roosevelt	homicide_rate	18
+30087	Montana	Rosebud	homicide_rate	16
+30089	Montana	Sanders	homicide_rate	
+30091	Montana	Sheridan	homicide_rate	
+30093	Montana	Silver Bow	homicide_rate	
+30095	Montana	Stillwater	homicide_rate	
+30097	Montana	Sweet Grass	homicide_rate	
+30099	Montana	Teton	homicide_rate	
+30101	Montana	Toole	homicide_rate	
+30103	Montana	Treasure	homicide_rate	
+30105	Montana	Valley	homicide_rate	
+30107	Montana	Wheatland	homicide_rate	
+30109	Montana	Wibaux	homicide_rate	
+30111	Montana	Yellowstone	homicide_rate	3
+31001	Nebraska	Adams	homicide_rate	
+31003	Nebraska	Antelope	homicide_rate	
+31005	Nebraska	Arthur	homicide_rate	
+31007	Nebraska	Banner	homicide_rate	
+31009	Nebraska	Blaine	homicide_rate	
+31011	Nebraska	Boone	homicide_rate	
+31013	Nebraska	Box Butte	homicide_rate	
+31015	Nebraska	Boyd	homicide_rate	
+31017	Nebraska	Brown	homicide_rate	
+31019	Nebraska	Buffalo	homicide_rate	
+31021	Nebraska	Burt	homicide_rate	
+31023	Nebraska	Butler	homicide_rate	
+31025	Nebraska	Cass	homicide_rate	
+31027	Nebraska	Cedar	homicide_rate	
+31029	Nebraska	Chase	homicide_rate	
+31031	Nebraska	Cherry	homicide_rate	
+31033	Nebraska	Cheyenne	homicide_rate	
+31035	Nebraska	Clay	homicide_rate	
+31037	Nebraska	Colfax	homicide_rate	
+31039	Nebraska	Cuming	homicide_rate	
+31041	Nebraska	Custer	homicide_rate	
+31043	Nebraska	Dakota	homicide_rate	
+31045	Nebraska	Dawes	homicide_rate	
+31047	Nebraska	Dawson	homicide_rate	
+31049	Nebraska	Deuel	homicide_rate	
+31051	Nebraska	Dixon	homicide_rate	
+31053	Nebraska	Dodge	homicide_rate	
+31055	Nebraska	Douglas	homicide_rate	7
+31057	Nebraska	Dundy	homicide_rate	
+31059	Nebraska	Fillmore	homicide_rate	
+31061	Nebraska	Franklin	homicide_rate	
+31063	Nebraska	Frontier	homicide_rate	
+31065	Nebraska	Furnas	homicide_rate	
+31067	Nebraska	Gage	homicide_rate	
+31069	Nebraska	Garden	homicide_rate	
+31071	Nebraska	Garfield	homicide_rate	
+31073	Nebraska	Gosper	homicide_rate	
+31075	Nebraska	Grant	homicide_rate	
+31077	Nebraska	Greeley	homicide_rate	
+31079	Nebraska	Hall	homicide_rate	3
+31081	Nebraska	Hamilton	homicide_rate	
+31083	Nebraska	Harlan	homicide_rate	
+31085	Nebraska	Hayes	homicide_rate	
+31087	Nebraska	Hitchcock	homicide_rate	
+31089	Nebraska	Holt	homicide_rate	
+31091	Nebraska	Hooker	homicide_rate	
+31093	Nebraska	Howard	homicide_rate	
+31095	Nebraska	Jefferson	homicide_rate	
+31097	Nebraska	Johnson	homicide_rate	
+31099	Nebraska	Kearney	homicide_rate	
+31101	Nebraska	Keith	homicide_rate	
+31103	Nebraska	Keya Paha	homicide_rate	
+31105	Nebraska	Kimball	homicide_rate	
+31107	Nebraska	Knox	homicide_rate	
+31109	Nebraska	Lancaster	homicide_rate	2
+31111	Nebraska	Lincoln	homicide_rate	
+31113	Nebraska	Logan	homicide_rate	
+31115	Nebraska	Loup	homicide_rate	
+31117	Nebraska	McPherson	homicide_rate	
+31119	Nebraska	Madison	homicide_rate	
+31121	Nebraska	Merrick	homicide_rate	
+31123	Nebraska	Morrill	homicide_rate	
+31125	Nebraska	Nance	homicide_rate	
+31127	Nebraska	Nemaha	homicide_rate	
+31129	Nebraska	Nuckolls	homicide_rate	
+31131	Nebraska	Otoe	homicide_rate	
+31133	Nebraska	Pawnee	homicide_rate	
+31135	Nebraska	Perkins	homicide_rate	
+31137	Nebraska	Phelps	homicide_rate	
+31139	Nebraska	Pierce	homicide_rate	
+31141	Nebraska	Platte	homicide_rate	
+31143	Nebraska	Polk	homicide_rate	
+31145	Nebraska	Red Willow	homicide_rate	
+31147	Nebraska	Richardson	homicide_rate	
+31149	Nebraska	Rock	homicide_rate	
+31151	Nebraska	Saline	homicide_rate	
+31153	Nebraska	Sarpy	homicide_rate	1
+31155	Nebraska	Saunders	homicide_rate	
+31157	Nebraska	Scotts Bluff	homicide_rate	
+31159	Nebraska	Seward	homicide_rate	
+31161	Nebraska	Sheridan	homicide_rate	
+31163	Nebraska	Sherman	homicide_rate	
+31165	Nebraska	Sioux	homicide_rate	
+31167	Nebraska	Stanton	homicide_rate	
+31169	Nebraska	Thayer	homicide_rate	
+31171	Nebraska	Thomas	homicide_rate	
+31173	Nebraska	Thurston	homicide_rate	
+31175	Nebraska	Valley	homicide_rate	
+31177	Nebraska	Washington	homicide_rate	
+31179	Nebraska	Wayne	homicide_rate	
+31181	Nebraska	Webster	homicide_rate	
+31183	Nebraska	Wheeler	homicide_rate	
+31185	Nebraska	York	homicide_rate	
+32001	Nevada	Churchill	homicide_rate	
+32003	Nevada	Clark	homicide_rate	8
+32005	Nevada	Douglas	homicide_rate	
+32007	Nevada	Elko	homicide_rate	
+32009	Nevada	Esmeralda	homicide_rate	
+32011	Nevada	Eureka	homicide_rate	
+32013	Nevada	Humboldt	homicide_rate	9
+32015	Nevada	Lander	homicide_rate	
+32017	Nevada	Lincoln	homicide_rate	
+32019	Nevada	Lyon	homicide_rate	
+32021	Nevada	Mineral	homicide_rate	
+32023	Nevada	Nye	homicide_rate	6
+32027	Nevada	Pershing	homicide_rate	
+32029	Nevada	Storey	homicide_rate	
+32031	Nevada	Washoe	homicide_rate	5
+32033	Nevada	White Pine	homicide_rate	
+32510	Nevada	Carson City	homicide_rate	
+33001	New Hampshire	Belknap	homicide_rate	3
+33003	New Hampshire	Carroll	homicide_rate	
+33005	New Hampshire	Cheshire	homicide_rate	
+33007	New Hampshire	Coos	homicide_rate	
+33009	New Hampshire	Grafton	homicide_rate	2
+33011	New Hampshire	Hillsborough	homicide_rate	1
+33013	New Hampshire	Merrimack	homicide_rate	2
+33015	New Hampshire	Rockingham	homicide_rate	1
+33017	New Hampshire	Strafford	homicide_rate	1
+33019	New Hampshire	Sullivan	homicide_rate	
+34001	New Jersey	Atlantic	homicide_rate	6
+34003	New Jersey	Bergen	homicide_rate	1
+34005	New Jersey	Burlington	homicide_rate	2
+34007	New Jersey	Camden	homicide_rate	9
+34009	New Jersey	Cape May	homicide_rate	2
+34011	New Jersey	Cumberland	homicide_rate	8
+34013	New Jersey	Essex	homicide_rate	17
+34015	New Jersey	Gloucester	homicide_rate	3
+34017	New Jersey	Hudson	homicide_rate	6
+34019	New Jersey	Hunterdon	homicide_rate	
+34021	New Jersey	Mercer	homicide_rate	6
+34023	New Jersey	Middlesex	homicide_rate	2
+34025	New Jersey	Monmouth	homicide_rate	2
+34027	New Jersey	Morris	homicide_rate	1
+34029	New Jersey	Ocean	homicide_rate	2
+34031	New Jersey	Passaic	homicide_rate	4
+34033	New Jersey	Salem	homicide_rate	4
+34035	New Jersey	Somerset	homicide_rate	2
+34037	New Jersey	Sussex	homicide_rate	1
+34039	New Jersey	Union	homicide_rate	6
+34041	New Jersey	Warren	homicide_rate	2
+35001	New Mexico	Bernalillo	homicide_rate	8
+35003	New Mexico	Catron	homicide_rate	
+35005	New Mexico	Chaves	homicide_rate	14
+35006	New Mexico	Cibola	homicide_rate	9
+35007	New Mexico	Colfax	homicide_rate	
+35009	New Mexico	Curry	homicide_rate	8
+35011	New Mexico	De Baca	homicide_rate	
+35013	New Mexico	Dona Ana	homicide_rate	4
+35015	New Mexico	Eddy	homicide_rate	8
+35017	New Mexico	Grant	homicide_rate	8
+35019	New Mexico	Guadalupe	homicide_rate	
+35021	New Mexico	Harding	homicide_rate	
+35023	New Mexico	Hidalgo	homicide_rate	
+35025	New Mexico	Lea	homicide_rate	11
+35027	New Mexico	Lincoln	homicide_rate	8
+35028	New Mexico	Los Alamos	homicide_rate	
+35029	New Mexico	Luna	homicide_rate	10
+35031	New Mexico	McKinley	homicide_rate	14
+35033	New Mexico	Mora	homicide_rate	
+35035	New Mexico	Otero	homicide_rate	7
+35037	New Mexico	Quay	homicide_rate	16
+35039	New Mexico	Rio Arriba	homicide_rate	14
+35041	New Mexico	Roosevelt	homicide_rate	
+35043	New Mexico	Sandoval	homicide_rate	4
+35045	New Mexico	San Juan	homicide_rate	9
+35047	New Mexico	San Miguel	homicide_rate	11
+35049	New Mexico	Santa Fe	homicide_rate	5
+35051	New Mexico	Sierra	homicide_rate	
+35053	New Mexico	Socorro	homicide_rate	
+35055	New Mexico	Taos	homicide_rate	8
+35057	New Mexico	Torrance	homicide_rate	
+35059	New Mexico	Union	homicide_rate	
+35061	New Mexico	Valencia	homicide_rate	12
+36001	New York	Albany	homicide_rate	3
+36003	New York	Allegany	homicide_rate	
+36005	New York	Bronx	homicide_rate	10
+36007	New York	Broome	homicide_rate	3
+36009	New York	Cattaraugus	homicide_rate	2
+36011	New York	Cayuga	homicide_rate	
+36013	New York	Chautauqua	homicide_rate	2
+36015	New York	Chemung	homicide_rate	2
+36017	New York	Chenango	homicide_rate	
+36019	New York	Clinton	homicide_rate	
+36021	New York	Columbia	homicide_rate	3
+36023	New York	Cortland	homicide_rate	
+36025	New York	Delaware	homicide_rate	
+36027	New York	Dutchess	homicide_rate	3
+36029	New York	Erie	homicide_rate	7
+36031	New York	Essex	homicide_rate	
+36033	New York	Franklin	homicide_rate	
+36035	New York	Fulton	homicide_rate	
+36037	New York	Genesee	homicide_rate	
+36039	New York	Greene	homicide_rate	
+36041	New York	Hamilton	homicide_rate	
+36043	New York	Herkimer	homicide_rate	
+36045	New York	Jefferson	homicide_rate	3
+36047	New York	Kings	homicide_rate	9
+36049	New York	Lewis	homicide_rate	
+36051	New York	Livingston	homicide_rate	
+36053	New York	Madison	homicide_rate	
+36055	New York	Monroe	homicide_rate	6
+36057	New York	Montgomery	homicide_rate	
+36059	New York	Nassau	homicide_rate	2
+36061	New York	New York	homicide_rate	4
+36063	New York	Niagara	homicide_rate	3
+36065	New York	Oneida	homicide_rate	4
+36067	New York	Onondaga	homicide_rate	5
+36069	New York	Ontario	homicide_rate	2
+36071	New York	Orange	homicide_rate	3
+36073	New York	Orleans	homicide_rate	
+36075	New York	Oswego	homicide_rate	2
+36077	New York	Otsego	homicide_rate	
+36079	New York	Putnam	homicide_rate	2
+36081	New York	Queens	homicide_rate	4
+36083	New York	Rensselaer	homicide_rate	2
+36085	New York	Richmond	homicide_rate	4
+36087	New York	Rockland	homicide_rate	1
+36089	New York	St. Lawrence	homicide_rate	2
+36091	New York	Saratoga	homicide_rate	1
+36093	New York	Schenectady	homicide_rate	5
+36095	New York	Schoharie	homicide_rate	
+36097	New York	Schuyler	homicide_rate	
+36099	New York	Seneca	homicide_rate	
+36101	New York	Steuben	homicide_rate	2
+36103	New York	Suffolk	homicide_rate	3
+36105	New York	Sullivan	homicide_rate	2
+36107	New York	Tioga	homicide_rate	
+36109	New York	Tompkins	homicide_rate	2
+36111	New York	Ulster	homicide_rate	2
+36113	New York	Warren	homicide_rate	
+36115	New York	Washington	homicide_rate	
+36117	New York	Wayne	homicide_rate	
+36119	New York	Westchester	homicide_rate	3
+36121	New York	Wyoming	homicide_rate	
+36123	New York	Yates	homicide_rate	
+37001	North Carolina	Alamance	homicide_rate	5
+37003	North Carolina	Alexander	homicide_rate	6
+37005	North Carolina	Alleghany	homicide_rate	
+37007	North Carolina	Anson	homicide_rate	11
+37009	North Carolina	Ashe	homicide_rate	
+37011	North Carolina	Avery	homicide_rate	
+37013	North Carolina	Beaufort	homicide_rate	6
+37015	North Carolina	Bertie	homicide_rate	7
+37017	North Carolina	Bladen	homicide_rate	11
+37019	North Carolina	Brunswick	homicide_rate	5
+37021	North Carolina	Buncombe	homicide_rate	4
+37023	North Carolina	Burke	homicide_rate	6
+37025	North Carolina	Cabarrus	homicide_rate	5
+37027	North Carolina	Caldwell	homicide_rate	5
+37029	North Carolina	Camden	homicide_rate	
+37031	North Carolina	Carteret	homicide_rate	4
+37033	North Carolina	Caswell	homicide_rate	
+37035	North Carolina	Catawba	homicide_rate	7
+37037	North Carolina	Chatham	homicide_rate	7
+37039	North Carolina	Cherokee	homicide_rate	5
+37041	North Carolina	Chowan	homicide_rate	
+37043	North Carolina	Clay	homicide_rate	
+37045	North Carolina	Cleveland	homicide_rate	9
+37047	North Carolina	Columbus	homicide_rate	15
+37049	North Carolina	Craven	homicide_rate	7
+37051	North Carolina	Cumberland	homicide_rate	10
+37053	North Carolina	Currituck	homicide_rate	
+37055	North Carolina	Dare	homicide_rate	
+37057	North Carolina	Davidson	homicide_rate	4
+37059	North Carolina	Davie	homicide_rate	4
+37061	North Carolina	Duplin	homicide_rate	8
+37063	North Carolina	Durham	homicide_rate	11
+37065	North Carolina	Edgecombe	homicide_rate	12
+37067	North Carolina	Forsyth	homicide_rate	6
+37069	North Carolina	Franklin	homicide_rate	6
+37071	North Carolina	Gaston	homicide_rate	5
+37073	North Carolina	Gates	homicide_rate	
+37075	North Carolina	Graham	homicide_rate	
+37077	North Carolina	Granville	homicide_rate	6
+37079	North Carolina	Greene	homicide_rate	7
+37081	North Carolina	Guilford	homicide_rate	7
+37083	North Carolina	Halifax	homicide_rate	11
+37085	North Carolina	Harnett	homicide_rate	7
+37087	North Carolina	Haywood	homicide_rate	2
+37089	North Carolina	Henderson	homicide_rate	4
+37091	North Carolina	Hertford	homicide_rate	6
+37093	North Carolina	Hoke	homicide_rate	8
+37095	North Carolina	Hyde	homicide_rate	
+37097	North Carolina	Iredell	homicide_rate	4
+37099	North Carolina	Jackson	homicide_rate	
+37101	North Carolina	Johnston	homicide_rate	5
+37103	North Carolina	Jones	homicide_rate	
+37105	North Carolina	Lee	homicide_rate	12
+37107	North Carolina	Lenoir	homicide_rate	8
+37109	North Carolina	Lincoln	homicide_rate	5
+37111	North Carolina	McDowell	homicide_rate	6
+37113	North Carolina	Macon	homicide_rate	4
+37115	North Carolina	Madison	homicide_rate	
+37117	North Carolina	Martin	homicide_rate	8
+37119	North Carolina	Mecklenburg	homicide_rate	9
+37121	North Carolina	Mitchell	homicide_rate	
+37123	North Carolina	Montgomery	homicide_rate	7
+37125	North Carolina	Moore	homicide_rate	7
+37127	North Carolina	Nash	homicide_rate	11
+37129	North Carolina	New Hanover	homicide_rate	5
+37131	North Carolina	Northampton	homicide_rate	10
+37133	North Carolina	Onslow	homicide_rate	5
+37135	North Carolina	Orange	homicide_rate	4
+37137	North Carolina	Pamlico	homicide_rate	
+37139	North Carolina	Pasquotank	homicide_rate	6
+37141	North Carolina	Pender	homicide_rate	4
+37143	North Carolina	Perquimans	homicide_rate	
+37145	North Carolina	Person	homicide_rate	8
+37147	North Carolina	Pitt	homicide_rate	8
+37149	North Carolina	Polk	homicide_rate	
+37151	North Carolina	Randolph	homicide_rate	5
+37153	North Carolina	Richmond	homicide_rate	10
+37155	North Carolina	Robeson	homicide_rate	23
+37157	North Carolina	Rockingham	homicide_rate	7
+37159	North Carolina	Rowan	homicide_rate	7
+37161	North Carolina	Rutherford	homicide_rate	6
+37163	North Carolina	Sampson	homicide_rate	11
+37165	North Carolina	Scotland	homicide_rate	18
+37167	North Carolina	Stanly	homicide_rate	5
+37169	North Carolina	Stokes	homicide_rate	4
+37171	North Carolina	Surry	homicide_rate	5
+37173	North Carolina	Swain	homicide_rate	16
+37175	North Carolina	Transylvania	homicide_rate	
+37177	North Carolina	Tyrrell	homicide_rate	
+37179	North Carolina	Union	homicide_rate	5
+37181	North Carolina	Vance	homicide_rate	15
+37183	North Carolina	Wake	homicide_rate	4
+37185	North Carolina	Warren	homicide_rate	10
+37187	North Carolina	Washington	homicide_rate	
+37189	North Carolina	Watauga	homicide_rate	
+37191	North Carolina	Wayne	homicide_rate	11
+37193	North Carolina	Wilkes	homicide_rate	5
+37195	North Carolina	Wilson	homicide_rate	11
+37197	North Carolina	Yadkin	homicide_rate	4
+37199	North Carolina	Yancey	homicide_rate	
+38001	North Dakota	Adams	homicide_rate	
+38003	North Dakota	Barnes	homicide_rate	
+38005	North Dakota	Benson	homicide_rate	
+38007	North Dakota	Billings	homicide_rate	
+38009	North Dakota	Bottineau	homicide_rate	
+38011	North Dakota	Bowman	homicide_rate	
+38013	North Dakota	Burke	homicide_rate	
+38015	North Dakota	Burleigh	homicide_rate	
+38017	North Dakota	Cass	homicide_rate	
+38019	North Dakota	Cavalier	homicide_rate	
+38021	North Dakota	Dickey	homicide_rate	
+38023	North Dakota	Divide	homicide_rate	
+38025	North Dakota	Dunn	homicide_rate	
+38027	North Dakota	Eddy	homicide_rate	
+38029	North Dakota	Emmons	homicide_rate	
+38031	North Dakota	Foster	homicide_rate	
+38033	North Dakota	Golden Valley	homicide_rate	
+38035	North Dakota	Grand Forks	homicide_rate	
+38037	North Dakota	Grant	homicide_rate	
+38039	North Dakota	Griggs	homicide_rate	
+38041	North Dakota	Hettinger	homicide_rate	
+38043	North Dakota	Kidder	homicide_rate	
+38045	North Dakota	LaMoure	homicide_rate	
+38047	North Dakota	Logan	homicide_rate	
+38049	North Dakota	McHenry	homicide_rate	
+38051	North Dakota	McIntosh	homicide_rate	
+38053	North Dakota	McKenzie	homicide_rate	
+38055	North Dakota	McLean	homicide_rate	
+38057	North Dakota	Mercer	homicide_rate	
+38059	North Dakota	Morton	homicide_rate	
+38061	North Dakota	Mountrail	homicide_rate	
+38063	North Dakota	Nelson	homicide_rate	
+38065	North Dakota	Oliver	homicide_rate	
+38067	North Dakota	Pembina	homicide_rate	
+38069	North Dakota	Pierce	homicide_rate	
+38071	North Dakota	Ramsey	homicide_rate	
+38073	North Dakota	Ransom	homicide_rate	
+38075	North Dakota	Renville	homicide_rate	
+38077	North Dakota	Richland	homicide_rate	
+38079	North Dakota	Rolette	homicide_rate	
+38081	North Dakota	Sargent	homicide_rate	
+38083	North Dakota	Sheridan	homicide_rate	
+38085	North Dakota	Sioux	homicide_rate	
+38087	North Dakota	Slope	homicide_rate	
+38089	North Dakota	Stark	homicide_rate	
+38091	North Dakota	Steele	homicide_rate	
+38093	North Dakota	Stutsman	homicide_rate	
+38095	North Dakota	Towner	homicide_rate	
+38097	North Dakota	Traill	homicide_rate	
+38099	North Dakota	Walsh	homicide_rate	
+38101	North Dakota	Ward	homicide_rate	
+38103	North Dakota	Wells	homicide_rate	
+38105	North Dakota	Williams	homicide_rate	
+39001	Ohio	Adams	homicide_rate	9
+39003	Ohio	Allen	homicide_rate	4
+39005	Ohio	Ashland	homicide_rate	
+39007	Ohio	Ashtabula	homicide_rate	4
+39009	Ohio	Athens	homicide_rate	
+39011	Ohio	Auglaize	homicide_rate	
+39013	Ohio	Belmont	homicide_rate	2
+39015	Ohio	Brown	homicide_rate	
+39017	Ohio	Butler	homicide_rate	3
+39019	Ohio	Carroll	homicide_rate	
+39021	Ohio	Champaign	homicide_rate	
+39023	Ohio	Clark	homicide_rate	5
+39025	Ohio	Clermont	homicide_rate	1
+39027	Ohio	Clinton	homicide_rate	
+39029	Ohio	Columbiana	homicide_rate	3
+39031	Ohio	Coshocton	homicide_rate	
+39033	Ohio	Crawford	homicide_rate	
+39035	Ohio	Cuyahoga	homicide_rate	9
+39037	Ohio	Darke	homicide_rate	3
+39039	Ohio	Defiance	homicide_rate	
+39041	Ohio	Delaware	homicide_rate	1
+39043	Ohio	Erie	homicide_rate	2
+39045	Ohio	Fairfield	homicide_rate	2
+39047	Ohio	Fayette	homicide_rate	
+39049	Ohio	Franklin	homicide_rate	9
+39051	Ohio	Fulton	homicide_rate	
+39053	Ohio	Gallia	homicide_rate	5
+39055	Ohio	Geauga	homicide_rate	
+39057	Ohio	Greene	homicide_rate	2
+39059	Ohio	Guernsey	homicide_rate	
+39061	Ohio	Hamilton	homicide_rate	10
+39063	Ohio	Hancock	homicide_rate	2
+39065	Ohio	Hardin	homicide_rate	
+39067	Ohio	Harrison	homicide_rate	
+39069	Ohio	Henry	homicide_rate	
+39071	Ohio	Highland	homicide_rate	
+39073	Ohio	Hocking	homicide_rate	
+39075	Ohio	Holmes	homicide_rate	
+39077	Ohio	Huron	homicide_rate	
+39079	Ohio	Jackson	homicide_rate	5
+39081	Ohio	Jefferson	homicide_rate	3
+39083	Ohio	Knox	homicide_rate	3
+39085	Ohio	Lake	homicide_rate	1
+39087	Ohio	Lawrence	homicide_rate	6
+39089	Ohio	Licking	homicide_rate	3
+39091	Ohio	Logan	homicide_rate	3
+39093	Ohio	Lorain	homicide_rate	3
+39095	Ohio	Lucas	homicide_rate	6
+39097	Ohio	Madison	homicide_rate	
+39099	Ohio	Mahoning	homicide_rate	11
+39101	Ohio	Marion	homicide_rate	
+39103	Ohio	Medina	homicide_rate	1
+39105	Ohio	Meigs	homicide_rate	
+39107	Ohio	Mercer	homicide_rate	
+39109	Ohio	Miami	homicide_rate	2
+39111	Ohio	Monroe	homicide_rate	
+39113	Ohio	Montgomery	homicide_rate	9
+39115	Ohio	Morgan	homicide_rate	
+39117	Ohio	Morrow	homicide_rate	5
+39119	Ohio	Muskingum	homicide_rate	3
+39121	Ohio	Noble	homicide_rate	
+39123	Ohio	Ottawa	homicide_rate	
+39125	Ohio	Paulding	homicide_rate	
+39127	Ohio	Perry	homicide_rate	
+39129	Ohio	Pickaway	homicide_rate	
+39131	Ohio	Pike	homicide_rate	
+39133	Ohio	Portage	homicide_rate	2
+39135	Ohio	Preble	homicide_rate	
+39137	Ohio	Putnam	homicide_rate	
+39139	Ohio	Richland	homicide_rate	3
+39141	Ohio	Ross	homicide_rate	4
+39143	Ohio	Sandusky	homicide_rate	2
+39145	Ohio	Scioto	homicide_rate	7
+39147	Ohio	Seneca	homicide_rate	
+39149	Ohio	Shelby	homicide_rate	
+39151	Ohio	Stark	homicide_rate	4
+39153	Ohio	Summit	homicide_rate	5
+39155	Ohio	Trumbull	homicide_rate	6
+39157	Ohio	Tuscarawas	homicide_rate	
+39159	Ohio	Union	homicide_rate	
+39161	Ohio	Van Wert	homicide_rate	
+39163	Ohio	Vinton	homicide_rate	
+39165	Ohio	Warren	homicide_rate	1
+39167	Ohio	Washington	homicide_rate	
+39169	Ohio	Wayne	homicide_rate	2
+39171	Ohio	Williams	homicide_rate	
+39173	Ohio	Wood	homicide_rate	1
+39175	Ohio	Wyandot	homicide_rate	
+40001	Oklahoma	Adair	homicide_rate	9
+40003	Oklahoma	Alfalfa	homicide_rate	
+40005	Oklahoma	Atoka	homicide_rate	
+40007	Oklahoma	Beaver	homicide_rate	
+40009	Oklahoma	Beckham	homicide_rate	
+40011	Oklahoma	Blaine	homicide_rate	
+40013	Oklahoma	Bryan	homicide_rate	6
+40015	Oklahoma	Caddo	homicide_rate	9
+40017	Oklahoma	Canadian	homicide_rate	4
+40019	Oklahoma	Carter	homicide_rate	7
+40021	Oklahoma	Cherokee	homicide_rate	5
+40023	Oklahoma	Choctaw	homicide_rate	11
+40025	Oklahoma	Cimarron	homicide_rate	
+40027	Oklahoma	Cleveland	homicide_rate	2
+40029	Oklahoma	Coal	homicide_rate	
+40031	Oklahoma	Comanche	homicide_rate	8
+40033	Oklahoma	Cotton	homicide_rate	
+40035	Oklahoma	Craig	homicide_rate	
+40037	Oklahoma	Creek	homicide_rate	3
+40039	Oklahoma	Custer	homicide_rate	
+40041	Oklahoma	Delaware	homicide_rate	7
+40043	Oklahoma	Dewey	homicide_rate	
+40045	Oklahoma	Ellis	homicide_rate	
+40047	Oklahoma	Garfield	homicide_rate	3
+40049	Oklahoma	Garvin	homicide_rate	6
+40051	Oklahoma	Grady	homicide_rate	3
+40053	Oklahoma	Grant	homicide_rate	
+40055	Oklahoma	Greer	homicide_rate	
+40057	Oklahoma	Harmon	homicide_rate	
+40059	Oklahoma	Harper	homicide_rate	
+40061	Oklahoma	Haskell	homicide_rate	
+40063	Oklahoma	Hughes	homicide_rate	
+40065	Oklahoma	Jackson	homicide_rate	
+40067	Oklahoma	Jefferson	homicide_rate	
+40069	Oklahoma	Johnston	homicide_rate	
+40071	Oklahoma	Kay	homicide_rate	5
+40073	Oklahoma	Kingfisher	homicide_rate	
+40075	Oklahoma	Kiowa	homicide_rate	
+40077	Oklahoma	Latimer	homicide_rate	
+40079	Oklahoma	Le Flore	homicide_rate	5
+40081	Oklahoma	Lincoln	homicide_rate	5
+40083	Oklahoma	Logan	homicide_rate	4
+40085	Oklahoma	Love	homicide_rate	
+40087	Oklahoma	McClain	homicide_rate	4
+40089	Oklahoma	McCurtain	homicide_rate	12
+40091	Oklahoma	McIntosh	homicide_rate	8
+40093	Oklahoma	Major	homicide_rate	
+40095	Oklahoma	Marshall	homicide_rate	
+40097	Oklahoma	Mayes	homicide_rate	5
+40099	Oklahoma	Murray	homicide_rate	
+40101	Oklahoma	Muskogee	homicide_rate	6
+40103	Oklahoma	Noble	homicide_rate	
+40105	Oklahoma	Nowata	homicide_rate	
+40107	Oklahoma	Okfuskee	homicide_rate	
+40109	Oklahoma	Oklahoma	homicide_rate	9
+40111	Oklahoma	Okmulgee	homicide_rate	8
+40113	Oklahoma	Osage	homicide_rate	5
+40115	Oklahoma	Ottawa	homicide_rate	
+40117	Oklahoma	Pawnee	homicide_rate	
+40119	Oklahoma	Payne	homicide_rate	
+40121	Oklahoma	Pittsburg	homicide_rate	8
+40123	Oklahoma	Pontotoc	homicide_rate	4
+40125	Oklahoma	Pottawatomie	homicide_rate	5
+40127	Oklahoma	Pushmataha	homicide_rate	
+40129	Oklahoma	Roger Mills	homicide_rate	
+40131	Oklahoma	Rogers	homicide_rate	2
+40133	Oklahoma	Seminole	homicide_rate	8
+40135	Oklahoma	Sequoyah	homicide_rate	6
+40137	Oklahoma	Stephens	homicide_rate	4
+40139	Oklahoma	Texas	homicide_rate	
+40141	Oklahoma	Tillman	homicide_rate	
+40143	Oklahoma	Tulsa	homicide_rate	10
+40145	Oklahoma	Wagoner	homicide_rate	5
+40147	Oklahoma	Washington	homicide_rate	
+40149	Oklahoma	Washita	homicide_rate	
+40151	Oklahoma	Woods	homicide_rate	
+40153	Oklahoma	Woodward	homicide_rate	
+41001	Oregon	Baker	homicide_rate	
+41003	Oregon	Benton	homicide_rate	
+41005	Oregon	Clackamas	homicide_rate	2
+41007	Oregon	Clatsop	homicide_rate	
+41009	Oregon	Columbia	homicide_rate	3
+41011	Oregon	Coos	homicide_rate	3
+41013	Oregon	Crook	homicide_rate	
+41015	Oregon	Curry	homicide_rate	
+41017	Oregon	Deschutes	homicide_rate	2
+41019	Oregon	Douglas	homicide_rate	3
+41021	Oregon	Gilliam	homicide_rate	
+41023	Oregon	Grant	homicide_rate	
+41025	Oregon	Harney	homicide_rate	
+41027	Oregon	Hood River	homicide_rate	
+41029	Oregon	Jackson	homicide_rate	2
+41031	Oregon	Jefferson	homicide_rate	10
+41033	Oregon	Josephine	homicide_rate	5
+41035	Oregon	Klamath	homicide_rate	6
+41037	Oregon	Lake	homicide_rate	
+41039	Oregon	Lane	homicide_rate	3
+41041	Oregon	Lincoln	homicide_rate	
+41043	Oregon	Linn	homicide_rate	2
+41045	Oregon	Malheur	homicide_rate	
+41047	Oregon	Marion	homicide_rate	3
+41049	Oregon	Morrow	homicide_rate	
+41051	Oregon	Multnomah	homicide_rate	4
+41053	Oregon	Polk	homicide_rate	
+41055	Oregon	Sherman	homicide_rate	
+41057	Oregon	Tillamook	homicide_rate	
+41059	Oregon	Umatilla	homicide_rate	4
+41061	Oregon	Union	homicide_rate	
+41063	Oregon	Wallowa	homicide_rate	
+41065	Oregon	Wasco	homicide_rate	
+41067	Oregon	Washington	homicide_rate	2
+41069	Oregon	Wheeler	homicide_rate	
+41071	Oregon	Yamhill	homicide_rate	
+42001	Pennsylvania	Adams	homicide_rate	2
+42003	Pennsylvania	Allegheny	homicide_rate	8
+42005	Pennsylvania	Armstrong	homicide_rate	2
+42007	Pennsylvania	Beaver	homicide_rate	4
+42009	Pennsylvania	Bedford	homicide_rate	
+42011	Pennsylvania	Berks	homicide_rate	4
+42013	Pennsylvania	Blair	homicide_rate	3
+42015	Pennsylvania	Bradford	homicide_rate	2
+42017	Pennsylvania	Bucks	homicide_rate	2
+42019	Pennsylvania	Butler	homicide_rate	2
+42021	Pennsylvania	Cambria	homicide_rate	2
+42023	Pennsylvania	Cameron	homicide_rate	
+42025	Pennsylvania	Carbon	homicide_rate	2
+42027	Pennsylvania	Centre	homicide_rate	
+42029	Pennsylvania	Chester	homicide_rate	2
+42031	Pennsylvania	Clarion	homicide_rate	
+42033	Pennsylvania	Clearfield	homicide_rate	
+42035	Pennsylvania	Clinton	homicide_rate	
+42037	Pennsylvania	Columbia	homicide_rate	
+42039	Pennsylvania	Crawford	homicide_rate	4
+42041	Pennsylvania	Cumberland	homicide_rate	1
+42043	Pennsylvania	Dauphin	homicide_rate	6
+42045	Pennsylvania	Delaware	homicide_rate	7
+42047	Pennsylvania	Elk	homicide_rate	
+42049	Pennsylvania	Erie	homicide_rate	2
+42051	Pennsylvania	Fayette	homicide_rate	3
+42053	Pennsylvania	Forest	homicide_rate	
+42055	Pennsylvania	Franklin	homicide_rate	2
+42057	Pennsylvania	Fulton	homicide_rate	
+42059	Pennsylvania	Greene	homicide_rate	4
+42061	Pennsylvania	Huntingdon	homicide_rate	
+42063	Pennsylvania	Indiana	homicide_rate	
+42065	Pennsylvania	Jefferson	homicide_rate	
+42067	Pennsylvania	Juniata	homicide_rate	
+42069	Pennsylvania	Lackawanna	homicide_rate	2
+42071	Pennsylvania	Lancaster	homicide_rate	3
+42073	Pennsylvania	Lawrence	homicide_rate	4
+42075	Pennsylvania	Lebanon	homicide_rate	3
+42077	Pennsylvania	Lehigh	homicide_rate	4
+42079	Pennsylvania	Luzerne	homicide_rate	4
+42081	Pennsylvania	Lycoming	homicide_rate	2
+42083	Pennsylvania	McKean	homicide_rate	
+42085	Pennsylvania	Mercer	homicide_rate	2
+42087	Pennsylvania	Mifflin	homicide_rate	
+42089	Pennsylvania	Monroe	homicide_rate	3
+42091	Pennsylvania	Montgomery	homicide_rate	2
+42093	Pennsylvania	Montour	homicide_rate	
+42095	Pennsylvania	Northampton	homicide_rate	3
+42097	Pennsylvania	Northumberland	homicide_rate	2
+42099	Pennsylvania	Perry	homicide_rate	
+42101	Pennsylvania	Philadelphia	homicide_rate	23
+42103	Pennsylvania	Pike	homicide_rate	
+42105	Pennsylvania	Potter	homicide_rate	
+42107	Pennsylvania	Schuylkill	homicide_rate	3
+42109	Pennsylvania	Snyder	homicide_rate	
+42111	Pennsylvania	Somerset	homicide_rate	2
+42113	Pennsylvania	Sullivan	homicide_rate	
+42115	Pennsylvania	Susquehanna	homicide_rate	
+42117	Pennsylvania	Tioga	homicide_rate	
+42119	Pennsylvania	Union	homicide_rate	
+42121	Pennsylvania	Venango	homicide_rate	
+42123	Pennsylvania	Warren	homicide_rate	4
+42125	Pennsylvania	Washington	homicide_rate	2
+42127	Pennsylvania	Wayne	homicide_rate	3
+42129	Pennsylvania	Westmoreland	homicide_rate	2
+42131	Pennsylvania	Wyoming	homicide_rate	
+42133	Pennsylvania	York	homicide_rate	3
+44001	Rhode Island	Bristol	homicide_rate	
+44003	Rhode Island	Kent	homicide_rate	1
+44005	Rhode Island	Newport	homicide_rate	
+44007	Rhode Island	Providence	homicide_rate	4
+44009	Rhode Island	Washington	homicide_rate	
+45001	South Carolina	Abbeville	homicide_rate	6
+45003	South Carolina	Aiken	homicide_rate	7
+45005	South Carolina	Allendale	homicide_rate	15
+45007	South Carolina	Anderson	homicide_rate	8
+45009	South Carolina	Bamberg	homicide_rate	12
+45011	South Carolina	Barnwell	homicide_rate	6
+45013	South Carolina	Beaufort	homicide_rate	5
+45015	South Carolina	Berkeley	homicide_rate	7
+45017	South Carolina	Calhoun	homicide_rate	9
+45019	South Carolina	Charleston	homicide_rate	11
+45021	South Carolina	Cherokee	homicide_rate	8
+45023	South Carolina	Chester	homicide_rate	11
+45025	South Carolina	Chesterfield	homicide_rate	6
+45027	South Carolina	Clarendon	homicide_rate	10
+45029	South Carolina	Colleton	homicide_rate	15
+45031	South Carolina	Darlington	homicide_rate	12
+45033	South Carolina	Dillon	homicide_rate	11
+45035	South Carolina	Dorchester	homicide_rate	5
+45037	South Carolina	Edgefield	homicide_rate	6
+45039	South Carolina	Fairfield	homicide_rate	11
+45041	South Carolina	Florence	homicide_rate	9
+45043	South Carolina	Georgetown	homicide_rate	6
+45045	South Carolina	Greenville	homicide_rate	6
+45047	South Carolina	Greenwood	homicide_rate	6
+45049	South Carolina	Hampton	homicide_rate	13
+45051	South Carolina	Horry	homicide_rate	7
+45053	South Carolina	Jasper	homicide_rate	15
+45055	South Carolina	Kershaw	homicide_rate	7
+45057	South Carolina	Lancaster	homicide_rate	7
+45059	South Carolina	Laurens	homicide_rate	8
+45061	South Carolina	Lee	homicide_rate	15
+45063	South Carolina	Lexington	homicide_rate	5
+45065	South Carolina	McCormick	homicide_rate	
+45067	South Carolina	Marion	homicide_rate	11
+45069	South Carolina	Marlboro	homicide_rate	17
+45071	South Carolina	Newberry	homicide_rate	5
+45073	South Carolina	Oconee	homicide_rate	6
+45075	South Carolina	Orangeburg	homicide_rate	15
+45077	South Carolina	Pickens	homicide_rate	4
+45079	South Carolina	Richland	homicide_rate	10
+45081	South Carolina	Saluda	homicide_rate	7
+45083	South Carolina	Spartanburg	homicide_rate	8
+45085	South Carolina	Sumter	homicide_rate	11
+45087	South Carolina	Union	homicide_rate	5
+45089	South Carolina	Williamsburg	homicide_rate	13
+45091	South Carolina	York	homicide_rate	5
+46003	South Dakota	Aurora	homicide_rate	
+46005	South Dakota	Beadle	homicide_rate	
+46007	South Dakota	Bennett	homicide_rate	
+46009	South Dakota	Bon Homme	homicide_rate	
+46011	South Dakota	Brookings	homicide_rate	
+46013	South Dakota	Brown	homicide_rate	
+46015	South Dakota	Brule	homicide_rate	
+46017	South Dakota	Buffalo	homicide_rate	
+46019	South Dakota	Butte	homicide_rate	
+46021	South Dakota	Campbell	homicide_rate	
+46023	South Dakota	Charles Mix	homicide_rate	
+46025	South Dakota	Clark	homicide_rate	
+46027	South Dakota	Clay	homicide_rate	
+46029	South Dakota	Codington	homicide_rate	
+46031	South Dakota	Corson	homicide_rate	
+46033	South Dakota	Custer	homicide_rate	
+46035	South Dakota	Davison	homicide_rate	
+46037	South Dakota	Day	homicide_rate	
+46039	South Dakota	Deuel	homicide_rate	
+46041	South Dakota	Dewey	homicide_rate	
+46043	South Dakota	Douglas	homicide_rate	
+46045	South Dakota	Edmunds	homicide_rate	
+46047	South Dakota	Fall River	homicide_rate	
+46049	South Dakota	Faulk	homicide_rate	
+46051	South Dakota	Grant	homicide_rate	
+46053	South Dakota	Gregory	homicide_rate	
+46055	South Dakota	Haakon	homicide_rate	
+46057	South Dakota	Hamlin	homicide_rate	
+46059	South Dakota	Hand	homicide_rate	
+46061	South Dakota	Hanson	homicide_rate	
+46063	South Dakota	Harding	homicide_rate	
+46065	South Dakota	Hughes	homicide_rate	
+46067	South Dakota	Hutchinson	homicide_rate	
+46069	South Dakota	Hyde	homicide_rate	
+46071	South Dakota	Jackson	homicide_rate	
+46073	South Dakota	Jerauld	homicide_rate	
+46075	South Dakota	Jones	homicide_rate	
+46077	South Dakota	Kingsbury	homicide_rate	
+46079	South Dakota	Lake	homicide_rate	
+46081	South Dakota	Lawrence	homicide_rate	
+46083	South Dakota	Lincoln	homicide_rate	
+46085	South Dakota	Lyman	homicide_rate	
+46087	South Dakota	McCook	homicide_rate	
+46089	South Dakota	McPherson	homicide_rate	
+46091	South Dakota	Marshall	homicide_rate	
+46093	South Dakota	Meade	homicide_rate	
+46095	South Dakota	Mellette	homicide_rate	
+46097	South Dakota	Miner	homicide_rate	
+46099	South Dakota	Minnehaha	homicide_rate	2
+46101	South Dakota	Moody	homicide_rate	
+46103	South Dakota	Pennington	homicide_rate	2
+46105	South Dakota	Perkins	homicide_rate	
+46107	South Dakota	Potter	homicide_rate	
+46109	South Dakota	Roberts	homicide_rate	
+46111	South Dakota	Sanborn	homicide_rate	
+46113	South Dakota	Shannon	homicide_rate	18
+46115	South Dakota	Spink	homicide_rate	
+46117	South Dakota	Stanley	homicide_rate	
+46119	South Dakota	Sully	homicide_rate	
+46121	South Dakota	Todd	homicide_rate	
+46123	South Dakota	Tripp	homicide_rate	
+46125	South Dakota	Turner	homicide_rate	
+46127	South Dakota	Union	homicide_rate	
+46129	South Dakota	Walworth	homicide_rate	
+46135	South Dakota	Yankton	homicide_rate	
+46137	South Dakota	Ziebach	homicide_rate	
+47001	Tennessee	Anderson	homicide_rate	5
+47003	Tennessee	Bedford	homicide_rate	5
+47005	Tennessee	Benton	homicide_rate	
+47007	Tennessee	Bledsoe	homicide_rate	
+47009	Tennessee	Blount	homicide_rate	3
+47011	Tennessee	Bradley	homicide_rate	3
+47013	Tennessee	Campbell	homicide_rate	5
+47015	Tennessee	Cannon	homicide_rate	
+47017	Tennessee	Carroll	homicide_rate	7
+47019	Tennessee	Carter	homicide_rate	4
+47021	Tennessee	Cheatham	homicide_rate	7
+47023	Tennessee	Chester	homicide_rate	9
+47025	Tennessee	Claiborne	homicide_rate	7
+47027	Tennessee	Clay	homicide_rate	
+47029	Tennessee	Cocke	homicide_rate	6
+47031	Tennessee	Coffee	homicide_rate	5
+47033	Tennessee	Crockett	homicide_rate	
+47035	Tennessee	Cumberland	homicide_rate	8
+47037	Tennessee	Davidson	homicide_rate	12
+47039	Tennessee	Decatur	homicide_rate	
+47041	Tennessee	DeKalb	homicide_rate	
+47043	Tennessee	Dickson	homicide_rate	5
+47045	Tennessee	Dyer	homicide_rate	6
+47047	Tennessee	Fayette	homicide_rate	7
+47049	Tennessee	Fentress	homicide_rate	
+47051	Tennessee	Franklin	homicide_rate	
+47053	Tennessee	Gibson	homicide_rate	5
+47055	Tennessee	Giles	homicide_rate	
+47057	Tennessee	Grainger	homicide_rate	
+47059	Tennessee	Greene	homicide_rate	4
+47061	Tennessee	Grundy	homicide_rate	10
+47063	Tennessee	Hamblen	homicide_rate	3
+47065	Tennessee	Hamilton	homicide_rate	6
+47067	Tennessee	Hancock	homicide_rate	
+47069	Tennessee	Hardeman	homicide_rate	13
+47071	Tennessee	Hardin	homicide_rate	7
+47073	Tennessee	Hawkins	homicide_rate	3
+47075	Tennessee	Haywood	homicide_rate	
+47077	Tennessee	Henderson	homicide_rate	
+47079	Tennessee	Henry	homicide_rate	7
+47081	Tennessee	Hickman	homicide_rate	
+47083	Tennessee	Houston	homicide_rate	
+47085	Tennessee	Humphreys	homicide_rate	
+47087	Tennessee	Jackson	homicide_rate	
+47089	Tennessee	Jefferson	homicide_rate	4
+47091	Tennessee	Johnson	homicide_rate	
+47093	Tennessee	Knox	homicide_rate	7
+47095	Tennessee	Lake	homicide_rate	
+47097	Tennessee	Lauderdale	homicide_rate	8
+47099	Tennessee	Lawrence	homicide_rate	4
+47101	Tennessee	Lewis	homicide_rate	
+47103	Tennessee	Lincoln	homicide_rate	7
+47105	Tennessee	Loudon	homicide_rate	
+47107	Tennessee	McMinn	homicide_rate	4
+47109	Tennessee	McNairy	homicide_rate	7
+47111	Tennessee	Macon	homicide_rate	7
+47113	Tennessee	Madison	homicide_rate	9
+47115	Tennessee	Marion	homicide_rate	
+47117	Tennessee	Marshall	homicide_rate	
+47119	Tennessee	Maury	homicide_rate	9
+47121	Tennessee	Meigs	homicide_rate	
+47123	Tennessee	Monroe	homicide_rate	6
+47125	Tennessee	Montgomery	homicide_rate	7
+47127	Tennessee	Moore	homicide_rate	
+47129	Tennessee	Morgan	homicide_rate	
+47131	Tennessee	Obion	homicide_rate	
+47133	Tennessee	Overton	homicide_rate	
+47135	Tennessee	Perry	homicide_rate	
+47137	Tennessee	Pickett	homicide_rate	
+47139	Tennessee	Polk	homicide_rate	
+47141	Tennessee	Putnam	homicide_rate	4
+47143	Tennessee	Rhea	homicide_rate	6
+47145	Tennessee	Roane	homicide_rate	6
+47147	Tennessee	Robertson	homicide_rate	7
+47149	Tennessee	Rutherford	homicide_rate	4
+47151	Tennessee	Scott	homicide_rate	
+47153	Tennessee	Sequatchie	homicide_rate	
+47155	Tennessee	Sevier	homicide_rate	3
+47157	Tennessee	Shelby	homicide_rate	17
+47159	Tennessee	Smith	homicide_rate	
+47161	Tennessee	Stewart	homicide_rate	
+47163	Tennessee	Sullivan	homicide_rate	3
+47165	Tennessee	Sumner	homicide_rate	3
+47167	Tennessee	Tipton	homicide_rate	6
+47169	Tennessee	Trousdale	homicide_rate	
+47171	Tennessee	Unicoi	homicide_rate	
+47173	Tennessee	Union	homicide_rate	
+47175	Tennessee	Van Buren	homicide_rate	
+47177	Tennessee	Warren	homicide_rate	4
+47179	Tennessee	Washington	homicide_rate	4
+47181	Tennessee	Wayne	homicide_rate	9
+47183	Tennessee	Weakley	homicide_rate	
+47185	Tennessee	White	homicide_rate	6
+47187	Tennessee	Williamson	homicide_rate	2
+47189	Tennessee	Wilson	homicide_rate	3
+48001	Texas	Anderson	homicide_rate	7
+48003	Texas	Andrews	homicide_rate	
+48005	Texas	Angelina	homicide_rate	6
+48007	Texas	Aransas	homicide_rate	10
+48009	Texas	Archer	homicide_rate	
+48011	Texas	Armstrong	homicide_rate	
+48013	Texas	Atascosa	homicide_rate	7
+48015	Texas	Austin	homicide_rate	
+48017	Texas	Bailey	homicide_rate	
+48019	Texas	Bandera	homicide_rate	
+48021	Texas	Bastrop	homicide_rate	4
+48023	Texas	Baylor	homicide_rate	
+48025	Texas	Bee	homicide_rate	
+48027	Texas	Bell	homicide_rate	6
+48029	Texas	Bexar	homicide_rate	8
+48031	Texas	Blanco	homicide_rate	
+48033	Texas	Borden	homicide_rate	
+48035	Texas	Bosque	homicide_rate	
+48037	Texas	Bowie	homicide_rate	10
+48039	Texas	Brazoria	homicide_rate	4
+48041	Texas	Brazos	homicide_rate	3
+48043	Texas	Brewster	homicide_rate	
+48045	Texas	Briscoe	homicide_rate	
+48047	Texas	Brooks	homicide_rate	
+48049	Texas	Brown	homicide_rate	4
+48051	Texas	Burleson	homicide_rate	
+48053	Texas	Burnet	homicide_rate	
+48055	Texas	Caldwell	homicide_rate	
+48057	Texas	Calhoun	homicide_rate	
+48059	Texas	Callahan	homicide_rate	
+48061	Texas	Cameron	homicide_rate	2
+48063	Texas	Camp	homicide_rate	
+48065	Texas	Carson	homicide_rate	
+48067	Texas	Cass	homicide_rate	
+48069	Texas	Castro	homicide_rate	
+48071	Texas	Chambers	homicide_rate	7
+48073	Texas	Cherokee	homicide_rate	
+48075	Texas	Childress	homicide_rate	
+48077	Texas	Clay	homicide_rate	
+48079	Texas	Cochran	homicide_rate	
+48081	Texas	Coke	homicide_rate	
+48083	Texas	Coleman	homicide_rate	
+48085	Texas	Collin	homicide_rate	2
+48087	Texas	Collingsworth	homicide_rate	
+48089	Texas	Colorado	homicide_rate	
+48091	Texas	Comal	homicide_rate	2
+48093	Texas	Comanche	homicide_rate	
+48095	Texas	Concho	homicide_rate	
+48097	Texas	Cooke	homicide_rate	6
+48099	Texas	Coryell	homicide_rate	3
+48101	Texas	Cottle	homicide_rate	
+48103	Texas	Crane	homicide_rate	
+48105	Texas	Crockett	homicide_rate	
+48107	Texas	Crosby	homicide_rate	
+48109	Texas	Culberson	homicide_rate	
+48111	Texas	Dallam	homicide_rate	
+48113	Texas	Dallas	homicide_rate	10
+48115	Texas	Dawson	homicide_rate	
+48117	Texas	Deaf Smith	homicide_rate	
+48119	Texas	Delta	homicide_rate	
+48121	Texas	Denton	homicide_rate	3
+48123	Texas	DeWitt	homicide_rate	
+48125	Texas	Dickens	homicide_rate	
+48127	Texas	Dimmit	homicide_rate	
+48129	Texas	Donley	homicide_rate	
+48131	Texas	Duval	homicide_rate	
+48133	Texas	Eastland	homicide_rate	
+48135	Texas	Ector	homicide_rate	6
+48137	Texas	Edwards	homicide_rate	
+48139	Texas	Ellis	homicide_rate	4
+48141	Texas	El Paso	homicide_rate	3
+48143	Texas	Erath	homicide_rate	4
+48145	Texas	Falls	homicide_rate	
+48147	Texas	Fannin	homicide_rate	4
+48149	Texas	Fayette	homicide_rate	6
+48151	Texas	Fisher	homicide_rate	
+48153	Texas	Floyd	homicide_rate	
+48155	Texas	Foard	homicide_rate	
+48157	Texas	Fort Bend	homicide_rate	5
+48159	Texas	Franklin	homicide_rate	
+48161	Texas	Freestone	homicide_rate	
+48163	Texas	Frio	homicide_rate	9
+48165	Texas	Gaines	homicide_rate	
+48167	Texas	Galveston	homicide_rate	7
+48169	Texas	Garza	homicide_rate	
+48171	Texas	Gillespie	homicide_rate	
+48173	Texas	Glasscock	homicide_rate	
+48175	Texas	Goliad	homicide_rate	
+48177	Texas	Gonzales	homicide_rate	
+48179	Texas	Gray	homicide_rate	
+48181	Texas	Grayson	homicide_rate	5
+48183	Texas	Gregg	homicide_rate	9
+48185	Texas	Grimes	homicide_rate	
+48187	Texas	Guadalupe	homicide_rate	3
+48189	Texas	Hale	homicide_rate	
+48191	Texas	Hall	homicide_rate	
+48193	Texas	Hamilton	homicide_rate	
+48195	Texas	Hansford	homicide_rate	
+48197	Texas	Hardeman	homicide_rate	
+48199	Texas	Hardin	homicide_rate	3
+48201	Texas	Harris	homicide_rate	10
+48203	Texas	Harrison	homicide_rate	9
+48205	Texas	Hartley	homicide_rate	
+48207	Texas	Haskell	homicide_rate	
+48209	Texas	Hays	homicide_rate	2
+48211	Texas	Hemphill	homicide_rate	
+48213	Texas	Henderson	homicide_rate	4
+48215	Texas	Hidalgo	homicide_rate	5
+48217	Texas	Hill	homicide_rate	
+48219	Texas	Hockley	homicide_rate	
+48221	Texas	Hood	homicide_rate	3
+48223	Texas	Hopkins	homicide_rate	
+48225	Texas	Houston	homicide_rate	
+48227	Texas	Howard	homicide_rate	4
+48229	Texas	Hudspeth	homicide_rate	
+48231	Texas	Hunt	homicide_rate	6
+48233	Texas	Hutchinson	homicide_rate	
+48235	Texas	Irion	homicide_rate	
+48237	Texas	Jack	homicide_rate	
+48239	Texas	Jackson	homicide_rate	
+48241	Texas	Jasper	homicide_rate	
+48243	Texas	Jeff Davis	homicide_rate	
+48245	Texas	Jefferson	homicide_rate	9
+48247	Texas	Jim Hogg	homicide_rate	
+48249	Texas	Jim Wells	homicide_rate	6
+48251	Texas	Johnson	homicide_rate	3
+48253	Texas	Jones	homicide_rate	
+48255	Texas	Karnes	homicide_rate	
+48257	Texas	Kaufman	homicide_rate	5
+48259	Texas	Kendall	homicide_rate	
+48261	Texas	Kenedy	homicide_rate	
+48263	Texas	Kent	homicide_rate	
+48265	Texas	Kerr	homicide_rate	4
+48267	Texas	Kimble	homicide_rate	
+48269	Texas	King	homicide_rate	
+48271	Texas	Kinney	homicide_rate	
+48273	Texas	Kleberg	homicide_rate	
+48275	Texas	Knox	homicide_rate	
+48277	Texas	Lamar	homicide_rate	5
+48279	Texas	Lamb	homicide_rate	
+48281	Texas	Lampasas	homicide_rate	
+48283	Texas	La Salle	homicide_rate	
+48285	Texas	Lavaca	homicide_rate	
+48287	Texas	Lee	homicide_rate	
+48289	Texas	Leon	homicide_rate	
+48291	Texas	Liberty	homicide_rate	8
+48293	Texas	Limestone	homicide_rate	9
+48295	Texas	Lipscomb	homicide_rate	
+48297	Texas	Live Oak	homicide_rate	
+48299	Texas	Llano	homicide_rate	
+48301	Texas	Loving	homicide_rate	
+48303	Texas	Lubbock	homicide_rate	6
+48305	Texas	Lynn	homicide_rate	
+48307	Texas	McCulloch	homicide_rate	
+48309	Texas	McLennan	homicide_rate	6
+48311	Texas	McMullen	homicide_rate	
+48313	Texas	Madison	homicide_rate	
+48315	Texas	Marion	homicide_rate	
+48317	Texas	Martin	homicide_rate	
+48319	Texas	Mason	homicide_rate	
+48321	Texas	Matagorda	homicide_rate	9
+48323	Texas	Maverick	homicide_rate	
+48325	Texas	Medina	homicide_rate	5
+48327	Texas	Menard	homicide_rate	
+48329	Texas	Midland	homicide_rate	3
+48331	Texas	Milam	homicide_rate	6
+48333	Texas	Mills	homicide_rate	
+48335	Texas	Mitchell	homicide_rate	
+48337	Texas	Montague	homicide_rate	
+48339	Texas	Montgomery	homicide_rate	4
+48341	Texas	Moore	homicide_rate	
+48343	Texas	Morris	homicide_rate	
+48345	Texas	Motley	homicide_rate	
+48347	Texas	Nacogdoches	homicide_rate	7
+48349	Texas	Navarro	homicide_rate	3
+48351	Texas	Newton	homicide_rate	
+48353	Texas	Nolan	homicide_rate	
+48355	Texas	Nueces	homicide_rate	6
+48357	Texas	Ochiltree	homicide_rate	
+48359	Texas	Oldham	homicide_rate	
+48361	Texas	Orange	homicide_rate	5
+48363	Texas	Palo Pinto	homicide_rate	7
+48365	Texas	Panola	homicide_rate	
+48367	Texas	Parker	homicide_rate	3
+48369	Texas	Parmer	homicide_rate	
+48371	Texas	Pecos	homicide_rate	
+48373	Texas	Polk	homicide_rate	9
+48375	Texas	Potter	homicide_rate	8
+48377	Texas	Presidio	homicide_rate	
+48379	Texas	Rains	homicide_rate	
+48381	Texas	Randall	homicide_rate	3
+48383	Texas	Reagan	homicide_rate	
+48385	Texas	Real	homicide_rate	
+48387	Texas	Red River	homicide_rate	
+48389	Texas	Reeves	homicide_rate	
+48391	Texas	Refugio	homicide_rate	
+48393	Texas	Roberts	homicide_rate	
+48395	Texas	Robertson	homicide_rate	
+48397	Texas	Rockwall	homicide_rate	2
+48399	Texas	Runnels	homicide_rate	
+48401	Texas	Rusk	homicide_rate	6
+48403	Texas	Sabine	homicide_rate	
+48405	Texas	San Augustine	homicide_rate	
+48407	Texas	San Jacinto	homicide_rate	9
+48409	Texas	San Patricio	homicide_rate	3
+48411	Texas	San Saba	homicide_rate	
+48413	Texas	Schleicher	homicide_rate	
+48415	Texas	Scurry	homicide_rate	
+48417	Texas	Shackelford	homicide_rate	
+48419	Texas	Shelby	homicide_rate	9
+48421	Texas	Sherman	homicide_rate	
+48423	Texas	Smith	homicide_rate	5
+48425	Texas	Somervell	homicide_rate	
+48427	Texas	Starr	homicide_rate	8
+48429	Texas	Stephens	homicide_rate	
+48431	Texas	Sterling	homicide_rate	
+48433	Texas	Stonewall	homicide_rate	
+48435	Texas	Sutton	homicide_rate	
+48437	Texas	Swisher	homicide_rate	
+48439	Texas	Tarrant	homicide_rate	5
+48441	Texas	Taylor	homicide_rate	5
+48443	Texas	Terrell	homicide_rate	
+48445	Texas	Terry	homicide_rate	
+48447	Texas	Throckmorton	homicide_rate	
+48449	Texas	Titus	homicide_rate	7
+48451	Texas	Tom Green	homicide_rate	4
+48453	Texas	Travis	homicide_rate	3
+48455	Texas	Trinity	homicide_rate	
+48457	Texas	Tyler	homicide_rate	
+48459	Texas	Upshur	homicide_rate	6
+48461	Texas	Upton	homicide_rate	
+48463	Texas	Uvalde	homicide_rate	5
+48465	Texas	Val Verde	homicide_rate	4
+48467	Texas	Van Zandt	homicide_rate	6
+48469	Texas	Victoria	homicide_rate	6
+48471	Texas	Walker	homicide_rate	5
+48473	Texas	Waller	homicide_rate	8
+48475	Texas	Ward	homicide_rate	
+48477	Texas	Washington	homicide_rate	
+48479	Texas	Webb	homicide_rate	7
+48481	Texas	Wharton	homicide_rate	
+48483	Texas	Wheeler	homicide_rate	
+48485	Texas	Wichita	homicide_rate	5
+48487	Texas	Wilbarger	homicide_rate	
+48489	Texas	Willacy	homicide_rate	
+48491	Texas	Williamson	homicide_rate	1
+48493	Texas	Wilson	homicide_rate	4
+48495	Texas	Winkler	homicide_rate	
+48497	Texas	Wise	homicide_rate	3
+48499	Texas	Wood	homicide_rate	4
+48501	Texas	Yoakum	homicide_rate	
+48503	Texas	Young	homicide_rate	
+48505	Texas	Zapata	homicide_rate	
+48507	Texas	Zavala	homicide_rate	
+49001	Utah	Beaver	homicide_rate	
+49003	Utah	Box Elder	homicide_rate	
+49005	Utah	Cache	homicide_rate	
+49007	Utah	Carbon	homicide_rate	
+49009	Utah	Daggett	homicide_rate	
+49011	Utah	Davis	homicide_rate	1
+49013	Utah	Duchesne	homicide_rate	
+49015	Utah	Emery	homicide_rate	
+49017	Utah	Garfield	homicide_rate	
+49019	Utah	Grand	homicide_rate	
+49021	Utah	Iron	homicide_rate	
+49023	Utah	Juab	homicide_rate	
+49025	Utah	Kane	homicide_rate	
+49027	Utah	Millard	homicide_rate	
+49029	Utah	Morgan	homicide_rate	
+49031	Utah	Piute	homicide_rate	
+49033	Utah	Rich	homicide_rate	
+49035	Utah	Salt Lake	homicide_rate	3
+49037	Utah	San Juan	homicide_rate	
+49039	Utah	Sanpete	homicide_rate	
+49041	Utah	Sevier	homicide_rate	
+49043	Utah	Summit	homicide_rate	
+49045	Utah	Tooele	homicide_rate	
+49047	Utah	Uintah	homicide_rate	
+49049	Utah	Utah	homicide_rate	1
+49051	Utah	Wasatch	homicide_rate	
+49053	Utah	Washington	homicide_rate	1
+49055	Utah	Wayne	homicide_rate	
+49057	Utah	Weber	homicide_rate	2
+50001	Vermont	Addison	homicide_rate	
+50003	Vermont	Bennington	homicide_rate	
+50005	Vermont	Caledonia	homicide_rate	
+50007	Vermont	Chittenden	homicide_rate	2
+50009	Vermont	Essex	homicide_rate	
+50011	Vermont	Franklin	homicide_rate	
+50013	Vermont	Grand Isle	homicide_rate	
+50015	Vermont	Lamoille	homicide_rate	
+50017	Vermont	Orange	homicide_rate	
+50019	Vermont	Orleans	homicide_rate	
+50021	Vermont	Rutland	homicide_rate	2
+50023	Vermont	Washington	homicide_rate	
+50025	Vermont	Windham	homicide_rate	
+50027	Vermont	Windsor	homicide_rate	
+51001	Virginia	Accomack	homicide_rate	9
+51003	Virginia	Albemarle	homicide_rate	
+51005	Virginia	Alleghany	homicide_rate	
+51007	Virginia	Amelia	homicide_rate	
+51009	Virginia	Amherst	homicide_rate	
+51011	Virginia	Appomattox	homicide_rate	10
+51013	Virginia	Arlington	homicide_rate	2
+51015	Virginia	Augusta	homicide_rate	4
+51017	Virginia	Bath	homicide_rate	
+51019	Virginia	Bedford	homicide_rate	
+51021	Virginia	Bland	homicide_rate	
+51023	Virginia	Botetourt	homicide_rate	
+51025	Virginia	Brunswick	homicide_rate	
+51027	Virginia	Buchanan	homicide_rate	9
+51029	Virginia	Buckingham	homicide_rate	
+51031	Virginia	Campbell	homicide_rate	5
+51033	Virginia	Caroline	homicide_rate	5
+51035	Virginia	Carroll	homicide_rate	5
+51036	Virginia	Charles City	homicide_rate	
+51037	Virginia	Charlotte	homicide_rate	
+51041	Virginia	Chesterfield	homicide_rate	5
+51043	Virginia	Clarke	homicide_rate	
+51045	Virginia	Craig	homicide_rate	
+51047	Virginia	Culpeper	homicide_rate	
+51049	Virginia	Cumberland	homicide_rate	
+51051	Virginia	Dickenson	homicide_rate	
+51053	Virginia	Dinwiddie	homicide_rate	6
+51057	Virginia	Essex	homicide_rate	
+51059	Virginia	Fairfax	homicide_rate	2
+51061	Virginia	Fauquier	homicide_rate	4
+51063	Virginia	Floyd	homicide_rate	
+51065	Virginia	Fluvanna	homicide_rate	
+51067	Virginia	Franklin	homicide_rate	4
+51069	Virginia	Frederick	homicide_rate	3
+51071	Virginia	Giles	homicide_rate	
+51073	Virginia	Gloucester	homicide_rate	
+51075	Virginia	Goochland	homicide_rate	
+51077	Virginia	Grayson	homicide_rate	
+51079	Virginia	Greene	homicide_rate	
+51081	Virginia	Greensville	homicide_rate	
+51083	Virginia	Halifax	homicide_rate	7
+51085	Virginia	Hanover	homicide_rate	3
+51087	Virginia	Henrico	homicide_rate	6
+51089	Virginia	Henry	homicide_rate	10
+51091	Virginia	Highland	homicide_rate	
+51093	Virginia	Isle of Wight	homicide_rate	5
+51095	Virginia	James City	homicide_rate	
+51097	Virginia	King and Queen	homicide_rate	
+51099	Virginia	King George	homicide_rate	
+51101	Virginia	King William	homicide_rate	
+51103	Virginia	Lancaster	homicide_rate	
+51105	Virginia	Lee	homicide_rate	7
+51107	Virginia	Loudoun	homicide_rate	1
+51109	Virginia	Louisa	homicide_rate	
+51111	Virginia	Lunenburg	homicide_rate	
+51113	Virginia	Madison	homicide_rate	
+51115	Virginia	Mathews	homicide_rate	
+51117	Virginia	Mecklenburg	homicide_rate	6
+51119	Virginia	Middlesex	homicide_rate	
+51121	Virginia	Montgomery	homicide_rate	4
+51125	Virginia	Nelson	homicide_rate	
+51127	Virginia	New Kent	homicide_rate	
+51131	Virginia	Northampton	homicide_rate	11
+51133	Virginia	Northumberland	homicide_rate	
+51135	Virginia	Nottoway	homicide_rate	
+51137	Virginia	Orange	homicide_rate	4
+51139	Virginia	Page	homicide_rate	
+51141	Virginia	Patrick	homicide_rate	
+51143	Virginia	Pittsylvania	homicide_rate	5
+51145	Virginia	Powhatan	homicide_rate	
+51147	Virginia	Prince Edward	homicide_rate	
+51149	Virginia	Prince George	homicide_rate	4
+51153	Virginia	Prince William	homicide_rate	3
+51155	Virginia	Pulaski	homicide_rate	
+51157	Virginia	Rappahannock	homicide_rate	
+51159	Virginia	Richmond	homicide_rate	
+51161	Virginia	Roanoke	homicide_rate	3
+51163	Virginia	Rockbridge	homicide_rate	
+51165	Virginia	Rockingham	homicide_rate	
+51167	Virginia	Russell	homicide_rate	
+51169	Virginia	Scott	homicide_rate	
+51171	Virginia	Shenandoah	homicide_rate	
+51173	Virginia	Smyth	homicide_rate	4
+51175	Virginia	Southampton	homicide_rate	9
+51177	Virginia	Spotsylvania	homicide_rate	2
+51179	Virginia	Stafford	homicide_rate	3
+51181	Virginia	Surry	homicide_rate	
+51183	Virginia	Sussex	homicide_rate	
+51185	Virginia	Tazewell	homicide_rate	7
+51187	Virginia	Warren	homicide_rate	
+51191	Virginia	Washington	homicide_rate	3
+51193	Virginia	Westmoreland	homicide_rate	
+51195	Virginia	Wise	homicide_rate	
+51197	Virginia	Wythe	homicide_rate	
+51199	Virginia	York	homicide_rate	
+51510	Virginia	Alexandria City	homicide_rate	4
+51515	Virginia	Bedford City	homicide_rate	
+51520	Virginia	Bristol City	homicide_rate	
+51530	Virginia	Buena Vista City	homicide_rate	
+51540	Virginia	Charlottesville City	homicide_rate	5
+51550	Virginia	Chesapeake City	homicide_rate	7
+51570	Virginia	Colonial Heights City	homicide_rate	
+51580	Virginia	Covington City	homicide_rate	
+51590	Virginia	Danville City	homicide_rate	17
+51595	Virginia	Emporia City	homicide_rate	
+51600	Virginia	Fairfax City	homicide_rate	
+51610	Virginia	Falls Church City	homicide_rate	
+51620	Virginia	Franklin City	homicide_rate	
+51630	Virginia	Fredericksburg City	homicide_rate	
+51640	Virginia	Galax City	homicide_rate	
+51650	Virginia	Hampton City	homicide_rate	9
+51660	Virginia	Harrisonburg City	homicide_rate	
+51670	Virginia	Hopewell City	homicide_rate	13
+51678	Virginia	Lexington City	homicide_rate	
+51680	Virginia	Lynchburg City	homicide_rate	3
+51683	Virginia	Manassas City	homicide_rate	6
+51685	Virginia	Manassas Park City	homicide_rate	
+51690	Virginia	Martinsville City	homicide_rate	
+51700	Virginia	Newport News City	homicide_rate	12
+51710	Virginia	Norfolk City	homicide_rate	15
+51720	Virginia	Norton City	homicide_rate	
+51730	Virginia	Petersburg City	homicide_rate	23
+51735	Virginia	Poquoson City	homicide_rate	
+51740	Virginia	Portsmouth City	homicide_rate	16
+51750	Virginia	Radford City	homicide_rate	
+51760	Virginia	Richmond City	homicide_rate	28
+51770	Virginia	Roanoke City	homicide_rate	10
+51775	Virginia	Salem City	homicide_rate	
+51790	Virginia	Staunton City	homicide_rate	6
+51800	Virginia	Suffolk City	homicide_rate	7
+51810	Virginia	Virginia Beach City	homicide_rate	4
+51820	Virginia	Waynesboro City	homicide_rate	
+51830	Virginia	Williamsburg City	homicide_rate	
+51840	Virginia	Winchester City	homicide_rate	
+53001	Washington	Adams	homicide_rate	
+53003	Washington	Asotin	homicide_rate	
+53005	Washington	Benton	homicide_rate	3
+53007	Washington	Chelan	homicide_rate	3
+53009	Washington	Clallam	homicide_rate	3
+53011	Washington	Clark	homicide_rate	3
+53013	Washington	Columbia	homicide_rate	
+53015	Washington	Cowlitz	homicide_rate	3
+53017	Washington	Douglas	homicide_rate	
+53019	Washington	Ferry	homicide_rate	
+53021	Washington	Franklin	homicide_rate	4
+53023	Washington	Garfield	homicide_rate	
+53025	Washington	Grant	homicide_rate	5
+53027	Washington	Grays Harbor	homicide_rate	3
+53029	Washington	Island	homicide_rate	
+53031	Washington	Jefferson	homicide_rate	
+53033	Washington	King	homicide_rate	3
+53035	Washington	Kitsap	homicide_rate	2
+53037	Washington	Kittitas	homicide_rate	
+53039	Washington	Klickitat	homicide_rate	
+53041	Washington	Lewis	homicide_rate	3
+53043	Washington	Lincoln	homicide_rate	
+53045	Washington	Mason	homicide_rate	3
+53047	Washington	Okanogan	homicide_rate	6
+53049	Washington	Pacific	homicide_rate	
+53051	Washington	Pend Oreille	homicide_rate	
+53053	Washington	Pierce	homicide_rate	4
+53055	Washington	San Juan	homicide_rate	
+53057	Washington	Skagit	homicide_rate	3
+53059	Washington	Skamania	homicide_rate	
+53061	Washington	Snohomish	homicide_rate	2
+53063	Washington	Spokane	homicide_rate	3
+53065	Washington	Stevens	homicide_rate	4
+53067	Washington	Thurston	homicide_rate	2
+53069	Washington	Wahkiakum	homicide_rate	
+53071	Washington	Walla Walla	homicide_rate	
+53073	Washington	Whatcom	homicide_rate	2
+53075	Washington	Whitman	homicide_rate	
+53077	Washington	Yakima	homicide_rate	8
+54001	West Virginia	Barbour	homicide_rate	
+54003	West Virginia	Berkeley	homicide_rate	4
+54005	West Virginia	Boone	homicide_rate	
+54007	West Virginia	Braxton	homicide_rate	
+54009	West Virginia	Brooke	homicide_rate	
+54011	West Virginia	Cabell	homicide_rate	7
+54013	West Virginia	Calhoun	homicide_rate	
+54015	West Virginia	Clay	homicide_rate	
+54017	West Virginia	Doddridge	homicide_rate	
+54019	West Virginia	Fayette	homicide_rate	5
+54021	West Virginia	Gilmer	homicide_rate	
+54023	West Virginia	Grant	homicide_rate	
+54025	West Virginia	Greenbrier	homicide_rate	
+54027	West Virginia	Hampshire	homicide_rate	
+54029	West Virginia	Hancock	homicide_rate	
+54031	West Virginia	Hardy	homicide_rate	
+54033	West Virginia	Harrison	homicide_rate	5
+54035	West Virginia	Jackson	homicide_rate	6
+54037	West Virginia	Jefferson	homicide_rate	
+54039	West Virginia	Kanawha	homicide_rate	7
+54041	West Virginia	Lewis	homicide_rate	
+54043	West Virginia	Lincoln	homicide_rate	
+54045	West Virginia	Logan	homicide_rate	9
+54047	West Virginia	McDowell	homicide_rate	14
+54049	West Virginia	Marion	homicide_rate	3
+54051	West Virginia	Marshall	homicide_rate	
+54053	West Virginia	Mason	homicide_rate	
+54055	West Virginia	Mercer	homicide_rate	9
+54057	West Virginia	Mineral	homicide_rate	
+54059	West Virginia	Mingo	homicide_rate	6
+54061	West Virginia	Monongalia	homicide_rate	
+54063	West Virginia	Monroe	homicide_rate	
+54065	West Virginia	Morgan	homicide_rate	
+54067	West Virginia	Nicholas	homicide_rate	6
+54069	West Virginia	Ohio	homicide_rate	
+54071	West Virginia	Pendleton	homicide_rate	
+54073	West Virginia	Pleasants	homicide_rate	
+54075	West Virginia	Pocahontas	homicide_rate	
+54077	West Virginia	Preston	homicide_rate	5
+54079	West Virginia	Putnam	homicide_rate	3
+54081	West Virginia	Raleigh	homicide_rate	5
+54083	West Virginia	Randolph	homicide_rate	
+54085	West Virginia	Ritchie	homicide_rate	
+54087	West Virginia	Roane	homicide_rate	
+54089	West Virginia	Summers	homicide_rate	
+54091	West Virginia	Taylor	homicide_rate	
+54093	West Virginia	Tucker	homicide_rate	
+54095	West Virginia	Tyler	homicide_rate	
+54097	West Virginia	Upshur	homicide_rate	
+54099	West Virginia	Wayne	homicide_rate	7
+54101	West Virginia	Webster	homicide_rate	
+54103	West Virginia	Wetzel	homicide_rate	
+54105	West Virginia	Wirt	homicide_rate	
+54107	West Virginia	Wood	homicide_rate	3
+54109	West Virginia	Wyoming	homicide_rate	8
+55001	Wisconsin	Adams	homicide_rate	
+55003	Wisconsin	Ashland	homicide_rate	
+55005	Wisconsin	Barron	homicide_rate	
+55007	Wisconsin	Bayfield	homicide_rate	
+55009	Wisconsin	Brown	homicide_rate	2
+55011	Wisconsin	Buffalo	homicide_rate	
+55013	Wisconsin	Burnett	homicide_rate	
+55015	Wisconsin	Calumet	homicide_rate	
+55017	Wisconsin	Chippewa	homicide_rate	
+55019	Wisconsin	Clark	homicide_rate	
+55021	Wisconsin	Columbia	homicide_rate	3
+55023	Wisconsin	Crawford	homicide_rate	
+55025	Wisconsin	Dane	homicide_rate	2
+55027	Wisconsin	Dodge	homicide_rate	
+55029	Wisconsin	Door	homicide_rate	
+55031	Wisconsin	Douglas	homicide_rate	
+55033	Wisconsin	Dunn	homicide_rate	
+55035	Wisconsin	Eau Claire	homicide_rate	
+55037	Wisconsin	Florence	homicide_rate	
+55039	Wisconsin	Fond du Lac	homicide_rate	
+55041	Wisconsin	Forest	homicide_rate	
+55043	Wisconsin	Grant	homicide_rate	
+55045	Wisconsin	Green	homicide_rate	
+55047	Wisconsin	Green Lake	homicide_rate	
+55049	Wisconsin	Iowa	homicide_rate	
+55051	Wisconsin	Iron	homicide_rate	
+55053	Wisconsin	Jackson	homicide_rate	
+55055	Wisconsin	Jefferson	homicide_rate	
+55057	Wisconsin	Juneau	homicide_rate	
+55059	Wisconsin	Kenosha	homicide_rate	3
+55061	Wisconsin	Kewaunee	homicide_rate	
+55063	Wisconsin	La Crosse	homicide_rate	
+55065	Wisconsin	Lafayette	homicide_rate	
+55067	Wisconsin	Langlade	homicide_rate	
+55069	Wisconsin	Lincoln	homicide_rate	
+55071	Wisconsin	Manitowoc	homicide_rate	
+55073	Wisconsin	Marathon	homicide_rate	2
+55075	Wisconsin	Marinette	homicide_rate	
+55077	Wisconsin	Marquette	homicide_rate	
+55078	Wisconsin	Menominee	homicide_rate	
+55079	Wisconsin	Milwaukee	homicide_rate	11
+55081	Wisconsin	Monroe	homicide_rate	
+55083	Wisconsin	Oconto	homicide_rate	
+55085	Wisconsin	Oneida	homicide_rate	
+55087	Wisconsin	Outagamie	homicide_rate	1
+55089	Wisconsin	Ozaukee	homicide_rate	
+55091	Wisconsin	Pepin	homicide_rate	
+55093	Wisconsin	Pierce	homicide_rate	
+55095	Wisconsin	Polk	homicide_rate	
+55097	Wisconsin	Portage	homicide_rate	
+55099	Wisconsin	Price	homicide_rate	
+55101	Wisconsin	Racine	homicide_rate	4
+55103	Wisconsin	Richland	homicide_rate	
+55105	Wisconsin	Rock	homicide_rate	3
+55107	Wisconsin	Rusk	homicide_rate	
+55109	Wisconsin	St. Croix	homicide_rate	
+55111	Wisconsin	Sauk	homicide_rate	
+55113	Wisconsin	Sawyer	homicide_rate	
+55115	Wisconsin	Shawano	homicide_rate	
+55117	Wisconsin	Sheboygan	homicide_rate	
+55119	Wisconsin	Taylor	homicide_rate	
+55121	Wisconsin	Trempealeau	homicide_rate	
+55123	Wisconsin	Vernon	homicide_rate	
+55125	Wisconsin	Vilas	homicide_rate	
+55127	Wisconsin	Walworth	homicide_rate	2
+55129	Wisconsin	Washburn	homicide_rate	
+55131	Wisconsin	Washington	homicide_rate	2
+55133	Wisconsin	Waukesha	homicide_rate	1
+55135	Wisconsin	Waupaca	homicide_rate	
+55137	Wisconsin	Waushara	homicide_rate	
+55139	Wisconsin	Winnebago	homicide_rate	2
+55141	Wisconsin	Wood	homicide_rate	
+56001	Wyoming	Albany	homicide_rate	
+56003	Wyoming	Big Horn	homicide_rate	
+56005	Wyoming	Campbell	homicide_rate	
+56007	Wyoming	Carbon	homicide_rate	
+56009	Wyoming	Converse	homicide_rate	
+56011	Wyoming	Crook	homicide_rate	
+56013	Wyoming	Fremont	homicide_rate	10
+56015	Wyoming	Goshen	homicide_rate	
+56017	Wyoming	Hot Springs	homicide_rate	
+56019	Wyoming	Johnson	homicide_rate	
+56021	Wyoming	Laramie	homicide_rate	4
+56023	Wyoming	Lincoln	homicide_rate	
+56025	Wyoming	Natrona	homicide_rate	3
+56027	Wyoming	Niobrara	homicide_rate	
+56029	Wyoming	Park	homicide_rate	
+56031	Wyoming	Platte	homicide_rate	
+56033	Wyoming	Sheridan	homicide_rate	
+56035	Wyoming	Sublette	homicide_rate	
+56037	Wyoming	Sweetwater	homicide_rate	
+56039	Wyoming	Teton	homicide_rate	
+56041	Wyoming	Uinta	homicide_rate	
+56043	Wyoming	Washakie	homicide_rate	
+56045	Wyoming	Weston	homicide_rate	

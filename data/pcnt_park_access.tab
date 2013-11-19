@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_park_access
+1001	Alabama	Autauga	pcnt_park_access	20
+1003	Alabama	Baldwin	pcnt_park_access	5
+1005	Alabama	Barbour	pcnt_park_access	4
+1007	Alabama	Bibb	pcnt_park_access	
+1009	Alabama	Blount	pcnt_park_access	1
+1011	Alabama	Bullock	pcnt_park_access	1
+1013	Alabama	Butler	pcnt_park_access	10
+1015	Alabama	Calhoun	pcnt_park_access	17
+1017	Alabama	Chambers	pcnt_park_access	2
+1019	Alabama	Cherokee	pcnt_park_access	3
+1021	Alabama	Chilton	pcnt_park_access	1
+1023	Alabama	Choctaw	pcnt_park_access	5
+1025	Alabama	Clarke	pcnt_park_access	1
+1027	Alabama	Clay	pcnt_park_access	4
+1029	Alabama	Cleburne	pcnt_park_access	1
+1031	Alabama	Coffee	pcnt_park_access	
+1033	Alabama	Colbert	pcnt_park_access	2
+1035	Alabama	Conecuh	pcnt_park_access	2
+1037	Alabama	Coosa	pcnt_park_access	2
+1039	Alabama	Covington	pcnt_park_access	11
+1041	Alabama	Crenshaw	pcnt_park_access	
+1043	Alabama	Cullman	pcnt_park_access	
+1045	Alabama	Dale	pcnt_park_access	2
+1047	Alabama	Dallas	pcnt_park_access	5
+1049	Alabama	DeKalb	pcnt_park_access	3
+1051	Alabama	Elmore	pcnt_park_access	3
+1053	Alabama	Escambia	pcnt_park_access	1
+1055	Alabama	Etowah	pcnt_park_access	5
+1057	Alabama	Fayette	pcnt_park_access	1
+1059	Alabama	Franklin	pcnt_park_access	
+1061	Alabama	Geneva	pcnt_park_access	4
+1063	Alabama	Greene	pcnt_park_access	1
+1065	Alabama	Hale	pcnt_park_access	4
+1067	Alabama	Henry	pcnt_park_access	1
+1069	Alabama	Houston	pcnt_park_access	1
+1071	Alabama	Jackson	pcnt_park_access	3
+1073	Alabama	Jefferson	pcnt_park_access	32
+1075	Alabama	Lamar	pcnt_park_access	
+1077	Alabama	Lauderdale	pcnt_park_access	16
+1079	Alabama	Lawrence	pcnt_park_access	2
+1081	Alabama	Lee	pcnt_park_access	16
+1083	Alabama	Limestone	pcnt_park_access	11
+1085	Alabama	Lowndes	pcnt_park_access	1
+1087	Alabama	Macon	pcnt_park_access	9
+1089	Alabama	Madison	pcnt_park_access	25
+1091	Alabama	Marengo	pcnt_park_access	2
+1093	Alabama	Marion	pcnt_park_access	2
+1095	Alabama	Marshall	pcnt_park_access	3
+1097	Alabama	Mobile	pcnt_park_access	28
+1099	Alabama	Monroe	pcnt_park_access	1
+1101	Alabama	Montgomery	pcnt_park_access	33
+1103	Alabama	Morgan	pcnt_park_access	13
+1105	Alabama	Perry	pcnt_park_access	
+1107	Alabama	Pickens	pcnt_park_access	8
+1109	Alabama	Pike	pcnt_park_access	15
+1111	Alabama	Randolph	pcnt_park_access	
+1113	Alabama	Russell	pcnt_park_access	4
+1115	Alabama	St. Clair	pcnt_park_access	
+1117	Alabama	Shelby	pcnt_park_access	7
+1119	Alabama	Sumter	pcnt_park_access	17
+1121	Alabama	Talladega	pcnt_park_access	18
+1123	Alabama	Tallapoosa	pcnt_park_access	3
+1125	Alabama	Tuscaloosa	pcnt_park_access	17
+1127	Alabama	Walker	pcnt_park_access	
+1129	Alabama	Washington	pcnt_park_access	3
+1131	Alabama	Wilcox	pcnt_park_access	1
+1133	Alabama	Winston	pcnt_park_access	1
+2013	Alaska	Aleutians East	pcnt_park_access	
+2016	Alaska	Aleutians West	pcnt_park_access	
+2020	Alaska	Anchorage	pcnt_park_access	79
+2050	Alaska	Bethel	pcnt_park_access	
+2060	Alaska	Bristol Bay	pcnt_park_access	1
+2068	Alaska	Denali	pcnt_park_access	16
+2070	Alaska	Dillingham	pcnt_park_access	5
+2090	Alaska	Fairbanks North Star	pcnt_park_access	30
+2100	Alaska	Haines	pcnt_park_access	
+2110	Alaska	Juneau	pcnt_park_access	40
+2122	Alaska	Kenai Peninsula	pcnt_park_access	24
+2130	Alaska	Ketchikan Gateway	pcnt_park_access	
+2150	Alaska	Kodiak Island	pcnt_park_access	7
+2164	Alaska	Lake and Peninsula	pcnt_park_access	11
+2170	Alaska	Matanuska-Susitna	pcnt_park_access	7
+2180	Alaska	Nome	pcnt_park_access	
+2185	Alaska	North Slope	pcnt_park_access	3
+2188	Alaska	Northwest Arctic	pcnt_park_access	
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_park_access	
+2220	Alaska	Sitka	pcnt_park_access	12
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_park_access	5
+2240	Alaska	Southeast Fairbanks	pcnt_park_access	
+2261	Alaska	Valdez-Cordova	pcnt_park_access	6
+2270	Alaska	Wade Hampton	pcnt_park_access	
+2280	Alaska	Wrangell-Petersburg	pcnt_park_access	
+2282	Alaska	Yakutat	pcnt_park_access	
+2290	Alaska	Yukon-Koyukuk	pcnt_park_access	
+4001	Arizona	Apache	pcnt_park_access	4
+4003	Arizona	Cochise	pcnt_park_access	7
+4005	Arizona	Coconino	pcnt_park_access	32
+4007	Arizona	Gila	pcnt_park_access	3
+4009	Arizona	Graham	pcnt_park_access	5
+4011	Arizona	Greenlee	pcnt_park_access	
+4012	Arizona	La Paz	pcnt_park_access	5
+4013	Arizona	Maricopa	pcnt_park_access	45
+4015	Arizona	Mohave	pcnt_park_access	12
+4017	Arizona	Navajo	pcnt_park_access	8
+4019	Arizona	Pima	pcnt_park_access	44
+4021	Arizona	Pinal	pcnt_park_access	19
+4023	Arizona	Santa Cruz	pcnt_park_access	14
+4025	Arizona	Yavapai	pcnt_park_access	30
+4027	Arizona	Yuma	pcnt_park_access	21
+5001	Arkansas	Arkansas	pcnt_park_access	19
+5003	Arkansas	Ashley	pcnt_park_access	7
+5005	Arkansas	Baxter	pcnt_park_access	4
+5007	Arkansas	Benton	pcnt_park_access	23
+5009	Arkansas	Boone	pcnt_park_access	1
+5011	Arkansas	Bradley	pcnt_park_access	14
+5013	Arkansas	Calhoun	pcnt_park_access	10
+5015	Arkansas	Carroll	pcnt_park_access	
+5017	Arkansas	Chicot	pcnt_park_access	
+5019	Arkansas	Clark	pcnt_park_access	16
+5021	Arkansas	Clay	pcnt_park_access	21
+5023	Arkansas	Cleburne	pcnt_park_access	7
+5025	Arkansas	Cleveland	pcnt_park_access	
+5027	Arkansas	Columbia	pcnt_park_access	17
+5029	Arkansas	Conway	pcnt_park_access	11
+5031	Arkansas	Craighead	pcnt_park_access	21
+5033	Arkansas	Crawford	pcnt_park_access	7
+5035	Arkansas	Crittenden	pcnt_park_access	27
+5037	Arkansas	Cross	pcnt_park_access	1
+5039	Arkansas	Dallas	pcnt_park_access	
+5041	Arkansas	Desha	pcnt_park_access	4
+5043	Arkansas	Drew	pcnt_park_access	6
+5045	Arkansas	Faulkner	pcnt_park_access	10
+5047	Arkansas	Franklin	pcnt_park_access	11
+5049	Arkansas	Fulton	pcnt_park_access	6
+5051	Arkansas	Garland	pcnt_park_access	13
+5053	Arkansas	Grant	pcnt_park_access	
+5055	Arkansas	Greene	pcnt_park_access	6
+5057	Arkansas	Hempstead	pcnt_park_access	8
+5059	Arkansas	Hot Spring	pcnt_park_access	6
+5061	Arkansas	Howard	pcnt_park_access	3
+5063	Arkansas	Independence	pcnt_park_access	1
+5065	Arkansas	Izard	pcnt_park_access	6
+5067	Arkansas	Jackson	pcnt_park_access	11
+5069	Arkansas	Jefferson	pcnt_park_access	18
+5071	Arkansas	Johnson	pcnt_park_access	13
+5073	Arkansas	Lafayette	pcnt_park_access	
+5075	Arkansas	Lawrence	pcnt_park_access	
+5077	Arkansas	Lee	pcnt_park_access	12
+5079	Arkansas	Lincoln	pcnt_park_access	
+5081	Arkansas	Little River	pcnt_park_access	2
+5083	Arkansas	Logan	pcnt_park_access	25
+5085	Arkansas	Lonoke	pcnt_park_access	12
+5087	Arkansas	Madison	pcnt_park_access	1
+5089	Arkansas	Marion	pcnt_park_access	1
+5091	Arkansas	Miller	pcnt_park_access	8
+5093	Arkansas	Mississippi	pcnt_park_access	25
+5095	Arkansas	Monroe	pcnt_park_access	3
+5097	Arkansas	Montgomery	pcnt_park_access	3
+5099	Arkansas	Nevada	pcnt_park_access	24
+5101	Arkansas	Newton	pcnt_park_access	
+5103	Arkansas	Ouachita	pcnt_park_access	23
+5105	Arkansas	Perry	pcnt_park_access	2
+5107	Arkansas	Phillips	pcnt_park_access	13
+5109	Arkansas	Pike	pcnt_park_access	12
+5111	Arkansas	Poinsett	pcnt_park_access	21
+5113	Arkansas	Polk	pcnt_park_access	9
+5115	Arkansas	Pope	pcnt_park_access	16
+5117	Arkansas	Prairie	pcnt_park_access	
+5119	Arkansas	Pulaski	pcnt_park_access	30
+5121	Arkansas	Randolph	pcnt_park_access	13
+5123	Arkansas	St. Francis	pcnt_park_access	
+5125	Arkansas	Saline	pcnt_park_access	7
+5127	Arkansas	Scott	pcnt_park_access	1
+5129	Arkansas	Searcy	pcnt_park_access	
+5131	Arkansas	Sebastian	pcnt_park_access	18
+5133	Arkansas	Sevier	pcnt_park_access	11
+5135	Arkansas	Sharp	pcnt_park_access	3
+5137	Arkansas	Stone	pcnt_park_access	4
+5139	Arkansas	Union	pcnt_park_access	23
+5141	Arkansas	Van Buren	pcnt_park_access	3
+5143	Arkansas	Washington	pcnt_park_access	20
+5145	Arkansas	White	pcnt_park_access	11
+5147	Arkansas	Woodruff	pcnt_park_access	
+5149	Arkansas	Yell	pcnt_park_access	14
+6001	California	Alameda	pcnt_park_access	85
+6003	California	Alpine	pcnt_park_access	2
+6005	California	Amador	pcnt_park_access	3
+6007	California	Butte	pcnt_park_access	26
+6009	California	Calaveras	pcnt_park_access	13
+6011	California	Colusa	pcnt_park_access	9
+6013	California	Contra Costa	pcnt_park_access	68
+6015	California	Del Norte	pcnt_park_access	13
+6017	California	El Dorado	pcnt_park_access	28
+6019	California	Fresno	pcnt_park_access	36
+6021	California	Glenn	pcnt_park_access	29
+6023	California	Humboldt	pcnt_park_access	49
+6025	California	Imperial	pcnt_park_access	46
+6027	California	Inyo	pcnt_park_access	16
+6029	California	Kern	pcnt_park_access	44
+6031	California	Kings	pcnt_park_access	36
+6033	California	Lake	pcnt_park_access	27
+6035	California	Lassen	pcnt_park_access	15
+6037	California	Los Angeles	pcnt_park_access	57
+6039	California	Madera	pcnt_park_access	30
+6041	California	Marin	pcnt_park_access	71
+6043	California	Mariposa	pcnt_park_access	7
+6045	California	Mendocino	pcnt_park_access	20
+6047	California	Merced	pcnt_park_access	42
+6049	California	Modoc	pcnt_park_access	18
+6051	California	Mono	pcnt_park_access	27
+6053	California	Monterey	pcnt_park_access	64
+6055	California	Napa	pcnt_park_access	61
+6057	California	Nevada	pcnt_park_access	19
+6059	California	Orange	pcnt_park_access	79
+6061	California	Placer	pcnt_park_access	61
+6063	California	Plumas	pcnt_park_access	
+6065	California	Riverside	pcnt_park_access	42
+6067	California	Sacramento	pcnt_park_access	66
+6069	California	San Benito	pcnt_park_access	59
+6071	California	San Bernardino	pcnt_park_access	37
+6073	California	San Diego	pcnt_park_access	50
+6075	California	San Francisco	pcnt_park_access	97
+6077	California	San Joaquin	pcnt_park_access	66
+6079	California	San Luis Obispo	pcnt_park_access	49
+6081	California	San Mateo	pcnt_park_access	80
+6083	California	Santa Barbara	pcnt_park_access	56
+6085	California	Santa Clara	pcnt_park_access	77
+6087	California	Santa Cruz	pcnt_park_access	60
+6089	California	Shasta	pcnt_park_access	8
+6091	California	Sierra	pcnt_park_access	
+6093	California	Siskiyou	pcnt_park_access	12
+6095	California	Solano	pcnt_park_access	76
+6097	California	Sonoma	pcnt_park_access	59
+6099	California	Stanislaus	pcnt_park_access	69
+6101	California	Sutter	pcnt_park_access	52
+6103	California	Tehama	pcnt_park_access	15
+6105	California	Trinity	pcnt_park_access	18
+6107	California	Tulare	pcnt_park_access	10
+6109	California	Tuolumne	pcnt_park_access	10
+6111	California	Ventura	pcnt_park_access	74
+6113	California	Yolo	pcnt_park_access	79
+6115	California	Yuba	pcnt_park_access	38
+8001	Colorado	Adams	pcnt_park_access	66
+8003	Colorado	Alamosa	pcnt_park_access	
+8005	Colorado	Arapahoe	pcnt_park_access	68
+8007	Colorado	Archuleta	pcnt_park_access	7
+8009	Colorado	Baca	pcnt_park_access	34
+8011	Colorado	Bent	pcnt_park_access	33
+8013	Colorado	Boulder	pcnt_park_access	71
+8014	Colorado	Broomfield	pcnt_park_access	76
+8015	Colorado	Chaffee	pcnt_park_access	
+8017	Colorado	Cheyenne	pcnt_park_access	53
+8019	Colorado	Clear Creek	pcnt_park_access	10
+8021	Colorado	Conejos	pcnt_park_access	10
+8023	Colorado	Costilla	pcnt_park_access	
+8025	Colorado	Crowley	pcnt_park_access	
+8027	Colorado	Custer	pcnt_park_access	21
+8029	Colorado	Delta	pcnt_park_access	21
+8031	Colorado	Denver	pcnt_park_access	85
+8033	Colorado	Dolores	pcnt_park_access	38
+8035	Colorado	Douglas	pcnt_park_access	54
+8037	Colorado	Eagle	pcnt_park_access	40
+8039	Colorado	Elbert	pcnt_park_access	6
+8041	Colorado	El Paso	pcnt_park_access	65
+8043	Colorado	Fremont	pcnt_park_access	14
+8045	Colorado	Garfield	pcnt_park_access	29
+8047	Colorado	Gilpin	pcnt_park_access	13
+8049	Colorado	Grand	pcnt_park_access	36
+8051	Colorado	Gunnison	pcnt_park_access	29
+8053	Colorado	Hinsdale	pcnt_park_access	
+8055	Colorado	Huerfano	pcnt_park_access	39
+8057	Colorado	Jackson	pcnt_park_access	3
+8059	Colorado	Jefferson	pcnt_park_access	68
+8061	Colorado	Kiowa	pcnt_park_access	
+8063	Colorado	Kit Carson	pcnt_park_access	23
+8065	Colorado	Lake	pcnt_park_access	41
+8067	Colorado	La Plata	pcnt_park_access	25
+8069	Colorado	Larimer	pcnt_park_access	55
+8071	Colorado	Las Animas	pcnt_park_access	30
+8073	Colorado	Lincoln	pcnt_park_access	19
+8075	Colorado	Logan	pcnt_park_access	34
+8077	Colorado	Mesa	pcnt_park_access	42
+8079	Colorado	Mineral	pcnt_park_access	
+8081	Colorado	Moffat	pcnt_park_access	32
+8083	Colorado	Montezuma	pcnt_park_access	13
+8085	Colorado	Montrose	pcnt_park_access	5
+8087	Colorado	Morgan	pcnt_park_access	6
+8089	Colorado	Otero	pcnt_park_access	27
+8091	Colorado	Ouray	pcnt_park_access	2
+8093	Colorado	Park	pcnt_park_access	
+8095	Colorado	Phillips	pcnt_park_access	59
+8097	Colorado	Pitkin	pcnt_park_access	46
+8099	Colorado	Prowers	pcnt_park_access	33
+8101	Colorado	Pueblo	pcnt_park_access	63
+8103	Colorado	Rio Blanco	pcnt_park_access	37
+8105	Colorado	Rio Grande	pcnt_park_access	20
+8107	Colorado	Routt	pcnt_park_access	12
+8109	Colorado	Saguache	pcnt_park_access	33
+8111	Colorado	San Juan	pcnt_park_access	
+8113	Colorado	San Miguel	pcnt_park_access	33
+8115	Colorado	Sedgwick	pcnt_park_access	
+8117	Colorado	Summit	pcnt_park_access	30
+8119	Colorado	Teller	pcnt_park_access	13
+8121	Colorado	Washington	pcnt_park_access	
+8123	Colorado	Weld	pcnt_park_access	52
+8125	Colorado	Yuma	pcnt_park_access	41
+9001	Connecticut	Fairfield	pcnt_park_access	39
+9003	Connecticut	Hartford	pcnt_park_access	42
+9005	Connecticut	Litchfield	pcnt_park_access	17
+9007	Connecticut	Middlesex	pcnt_park_access	7
+9009	Connecticut	New Haven	pcnt_park_access	45
+9011	Connecticut	New London	pcnt_park_access	21
+9013	Connecticut	Tolland	pcnt_park_access	9
+9015	Connecticut	Windham	pcnt_park_access	8
+10001	Delaware	Kent	pcnt_park_access	12
+10003	Delaware	New Castle	pcnt_park_access	69
+10005	Delaware	Sussex	pcnt_park_access	13
+11001	District of Columbia	District of Columbia	pcnt_park_access	88
+12001	Florida	Alachua	pcnt_park_access	7
+12003	Florida	Baker	pcnt_park_access	13
+12005	Florida	Bay	pcnt_park_access	28
+12007	Florida	Bradford	pcnt_park_access	9
+12009	Florida	Brevard	pcnt_park_access	36
+12011	Florida	Broward	pcnt_park_access	46
+12013	Florida	Calhoun	pcnt_park_access	4
+12015	Florida	Charlotte	pcnt_park_access	25
+12017	Florida	Citrus	pcnt_park_access	14
+12019	Florida	Clay	pcnt_park_access	11
+12021	Florida	Collier	pcnt_park_access	16
+12023	Florida	Columbia	pcnt_park_access	1
+12027	Florida	DeSoto	pcnt_park_access	6
+12029	Florida	Dixie	pcnt_park_access	3
+12031	Florida	Duval	pcnt_park_access	37
+12033	Florida	Escambia	pcnt_park_access	9
+12035	Florida	Flagler	pcnt_park_access	19
+12037	Florida	Franklin	pcnt_park_access	24
+12039	Florida	Gadsden	pcnt_park_access	7
+12041	Florida	Gilchrist	pcnt_park_access	4
+12043	Florida	Glades	pcnt_park_access	7
+12045	Florida	Gulf	pcnt_park_access	32
+12047	Florida	Hamilton	pcnt_park_access	
+12049	Florida	Hardee	pcnt_park_access	2
+12051	Florida	Hendry	pcnt_park_access	11
+12053	Florida	Hernando	pcnt_park_access	6
+12055	Florida	Highlands	pcnt_park_access	8
+12057	Florida	Hillsborough	pcnt_park_access	41
+12059	Florida	Holmes	pcnt_park_access	2
+12061	Florida	Indian River	pcnt_park_access	32
+12063	Florida	Jackson	pcnt_park_access	5
+12065	Florida	Jefferson	pcnt_park_access	8
+12067	Florida	Lafayette	pcnt_park_access	
+12069	Florida	Lake	pcnt_park_access	8
+12071	Florida	Lee	pcnt_park_access	23
+12073	Florida	Leon	pcnt_park_access	45
+12075	Florida	Levy	pcnt_park_access	4
+12077	Florida	Liberty	pcnt_park_access	1
+12079	Florida	Madison	pcnt_park_access	
+12081	Florida	Manatee	pcnt_park_access	9
+12083	Florida	Marion	pcnt_park_access	13
+12085	Florida	Martin	pcnt_park_access	30
+12086	Florida	Miami-Dade	pcnt_park_access	61
+12087	Florida	Monroe	pcnt_park_access	37
+12089	Florida	Nassau	pcnt_park_access	21
+12091	Florida	Okaloosa	pcnt_park_access	11
+12093	Florida	Okeechobee	pcnt_park_access	3
+12095	Florida	Orange	pcnt_park_access	13
+12097	Florida	Osceola	pcnt_park_access	6
+12099	Florida	Palm Beach	pcnt_park_access	26
+12101	Florida	Pasco	pcnt_park_access	15
+12103	Florida	Pinellas	pcnt_park_access	46
+12105	Florida	Polk	pcnt_park_access	8
+12107	Florida	Putnam	pcnt_park_access	7
+12109	Florida	St. Johns	pcnt_park_access	27
+12111	Florida	St. Lucie	pcnt_park_access	34
+12113	Florida	Santa Rosa	pcnt_park_access	5
+12115	Florida	Sarasota	pcnt_park_access	34
+12117	Florida	Seminole	pcnt_park_access	19
+12119	Florida	Sumter	pcnt_park_access	8
+12121	Florida	Suwannee	pcnt_park_access	6
+12123	Florida	Taylor	pcnt_park_access	1
+12125	Florida	Union	pcnt_park_access	4
+12127	Florida	Volusia	pcnt_park_access	30
+12129	Florida	Wakulla	pcnt_park_access	2
+12131	Florida	Walton	pcnt_park_access	11
+12133	Florida	Washington	pcnt_park_access	6
+13001	Georgia	Appling	pcnt_park_access	
+13003	Georgia	Atkinson	pcnt_park_access	
+13005	Georgia	Bacon	pcnt_park_access	
+13007	Georgia	Baker	pcnt_park_access	
+13009	Georgia	Baldwin	pcnt_park_access	11
+13011	Georgia	Banks	pcnt_park_access	3
+13013	Georgia	Barrow	pcnt_park_access	7
+13015	Georgia	Bartow	pcnt_park_access	9
+13017	Georgia	Ben Hill	pcnt_park_access	25
+13019	Georgia	Berrien	pcnt_park_access	4
+13021	Georgia	Bibb	pcnt_park_access	14
+13023	Georgia	Bleckley	pcnt_park_access	2
+13025	Georgia	Brantley	pcnt_park_access	1
+13027	Georgia	Brooks	pcnt_park_access	
+13029	Georgia	Bryan	pcnt_park_access	13
+13031	Georgia	Bulloch	pcnt_park_access	5
+13033	Georgia	Burke	pcnt_park_access	8
+13035	Georgia	Butts	pcnt_park_access	2
+13037	Georgia	Calhoun	pcnt_park_access	15
+13039	Georgia	Camden	pcnt_park_access	13
+13043	Georgia	Candler	pcnt_park_access	5
+13045	Georgia	Carroll	pcnt_park_access	
+13047	Georgia	Catoosa	pcnt_park_access	7
+13049	Georgia	Charlton	pcnt_park_access	8
+13051	Georgia	Chatham	pcnt_park_access	23
+13053	Georgia	Chattahoochee	pcnt_park_access	20
+13055	Georgia	Chattooga	pcnt_park_access	3
+13057	Georgia	Cherokee	pcnt_park_access	10
+13059	Georgia	Clarke	pcnt_park_access	23
+13061	Georgia	Clay	pcnt_park_access	7
+13063	Georgia	Clayton	pcnt_park_access	11
+13065	Georgia	Clinch	pcnt_park_access	
+13067	Georgia	Cobb	pcnt_park_access	16
+13069	Georgia	Coffee	pcnt_park_access	6
+13071	Georgia	Colquitt	pcnt_park_access	4
+13073	Georgia	Columbia	pcnt_park_access	14
+13075	Georgia	Cook	pcnt_park_access	15
+13077	Georgia	Coweta	pcnt_park_access	12
+13079	Georgia	Crawford	pcnt_park_access	1
+13081	Georgia	Crisp	pcnt_park_access	21
+13083	Georgia	Dade	pcnt_park_access	11
+13085	Georgia	Dawson	pcnt_park_access	2
+13087	Georgia	Decatur	pcnt_park_access	
+13089	Georgia	DeKalb	pcnt_park_access	31
+13091	Georgia	Dodge	pcnt_park_access	7
+13093	Georgia	Dooly	pcnt_park_access	4
+13095	Georgia	Dougherty	pcnt_park_access	41
+13097	Georgia	Douglas	pcnt_park_access	11
+13099	Georgia	Early	pcnt_park_access	1
+13101	Georgia	Echols	pcnt_park_access	2
+13103	Georgia	Effingham	pcnt_park_access	2
+13105	Georgia	Elbert	pcnt_park_access	3
+13107	Georgia	Emanuel	pcnt_park_access	10
+13109	Georgia	Evans	pcnt_park_access	15
+13111	Georgia	Fannin	pcnt_park_access	
+13113	Georgia	Fayette	pcnt_park_access	22
+13115	Georgia	Floyd	pcnt_park_access	20
+13117	Georgia	Forsyth	pcnt_park_access	11
+13119	Georgia	Franklin	pcnt_park_access	4
+13121	Georgia	Fulton	pcnt_park_access	35
+13123	Georgia	Gilmer	pcnt_park_access	
+13125	Georgia	Glascock	pcnt_park_access	3
+13127	Georgia	Glynn	pcnt_park_access	25
+13129	Georgia	Gordon	pcnt_park_access	4
+13131	Georgia	Grady	pcnt_park_access	11
+13133	Georgia	Greene	pcnt_park_access	
+13135	Georgia	Gwinnett	pcnt_park_access	11
+13137	Georgia	Habersham	pcnt_park_access	1
+13139	Georgia	Hall	pcnt_park_access	10
+13141	Georgia	Hancock	pcnt_park_access	
+13143	Georgia	Haralson	pcnt_park_access	
+13145	Georgia	Harris	pcnt_park_access	2
+13147	Georgia	Hart	pcnt_park_access	2
+13149	Georgia	Heard	pcnt_park_access	1
+13151	Georgia	Henry	pcnt_park_access	5
+13153	Georgia	Houston	pcnt_park_access	9
+13155	Georgia	Irwin	pcnt_park_access	1
+13157	Georgia	Jackson	pcnt_park_access	1
+13159	Georgia	Jasper	pcnt_park_access	
+13161	Georgia	Jeff Davis	pcnt_park_access	7
+13163	Georgia	Jefferson	pcnt_park_access	
+13165	Georgia	Jenkins	pcnt_park_access	1
+13167	Georgia	Johnson	pcnt_park_access	1
+13169	Georgia	Jones	pcnt_park_access	1
+13171	Georgia	Lamar	pcnt_park_access	10
+13173	Georgia	Lanier	pcnt_park_access	
+13175	Georgia	Laurens	pcnt_park_access	11
+13177	Georgia	Lee	pcnt_park_access	6
+13179	Georgia	Liberty	pcnt_park_access	
+13181	Georgia	Lincoln	pcnt_park_access	1
+13183	Georgia	Long	pcnt_park_access	3
+13185	Georgia	Lowndes	pcnt_park_access	26
+13187	Georgia	Lumpkin	pcnt_park_access	
+13189	Georgia	McDuffie	pcnt_park_access	
+13191	Georgia	McIntosh	pcnt_park_access	9
+13193	Georgia	Macon	pcnt_park_access	4
+13195	Georgia	Madison	pcnt_park_access	3
+13197	Georgia	Marion	pcnt_park_access	1
+13199	Georgia	Meriwether	pcnt_park_access	12
+13201	Georgia	Miller	pcnt_park_access	7
+13205	Georgia	Mitchell	pcnt_park_access	6
+13207	Georgia	Monroe	pcnt_park_access	7
+13209	Georgia	Montgomery	pcnt_park_access	
+13211	Georgia	Morgan	pcnt_park_access	8
+13213	Georgia	Murray	pcnt_park_access	6
+13215	Georgia	Muscogee	pcnt_park_access	39
+13217	Georgia	Newton	pcnt_park_access	1
+13219	Georgia	Oconee	pcnt_park_access	7
+13221	Georgia	Oglethorpe	pcnt_park_access	2
+13223	Georgia	Paulding	pcnt_park_access	6
+13225	Georgia	Peach	pcnt_park_access	9
+13227	Georgia	Pickens	pcnt_park_access	9
+13229	Georgia	Pierce	pcnt_park_access	2
+13231	Georgia	Pike	pcnt_park_access	1
+13233	Georgia	Polk	pcnt_park_access	7
+13235	Georgia	Pulaski	pcnt_park_access	9
+13237	Georgia	Putnam	pcnt_park_access	
+13239	Georgia	Quitman	pcnt_park_access	
+13241	Georgia	Rabun	pcnt_park_access	7
+13243	Georgia	Randolph	pcnt_park_access	32
+13245	Georgia	Richmond	pcnt_park_access	23
+13247	Georgia	Rockdale	pcnt_park_access	7
+13249	Georgia	Schley	pcnt_park_access	
+13251	Georgia	Screven	pcnt_park_access	2
+13253	Georgia	Seminole	pcnt_park_access	16
+13255	Georgia	Spalding	pcnt_park_access	4
+13257	Georgia	Stephens	pcnt_park_access	
+13259	Georgia	Stewart	pcnt_park_access	2
+13261	Georgia	Sumter	pcnt_park_access	15
+13263	Georgia	Talbot	pcnt_park_access	2
+13265	Georgia	Taliaferro	pcnt_park_access	20
+13267	Georgia	Tattnall	pcnt_park_access	11
+13269	Georgia	Taylor	pcnt_park_access	1
+13271	Georgia	Telfair	pcnt_park_access	7
+13273	Georgia	Terrell	pcnt_park_access	2
+13275	Georgia	Thomas	pcnt_park_access	14
+13277	Georgia	Tift	pcnt_park_access	8
+13279	Georgia	Toombs	pcnt_park_access	
+13281	Georgia	Towns	pcnt_park_access	
+13283	Georgia	Treutlen	pcnt_park_access	
+13285	Georgia	Troup	pcnt_park_access	9
+13287	Georgia	Turner	pcnt_park_access	22
+13289	Georgia	Twiggs	pcnt_park_access	3
+13291	Georgia	Union	pcnt_park_access	
+13293	Georgia	Upson	pcnt_park_access	16
+13295	Georgia	Walker	pcnt_park_access	13
+13297	Georgia	Walton	pcnt_park_access	1
+13299	Georgia	Ware	pcnt_park_access	5
+13301	Georgia	Warren	pcnt_park_access	19
+13303	Georgia	Washington	pcnt_park_access	1
+13305	Georgia	Wayne	pcnt_park_access	2
+13307	Georgia	Webster	pcnt_park_access	1
+13309	Georgia	Wheeler	pcnt_park_access	34
+13311	Georgia	White	pcnt_park_access	4
+13313	Georgia	Whitfield	pcnt_park_access	13
+13315	Georgia	Wilcox	pcnt_park_access	3
+13317	Georgia	Wilkes	pcnt_park_access	2
+13319	Georgia	Wilkinson	pcnt_park_access	1
+13321	Georgia	Worth	pcnt_park_access	7
+15001	Hawaii	Hawaii	pcnt_park_access	31
+15003	Hawaii	Honolulu	pcnt_park_access	76
+15005	Hawaii	Kalawao	pcnt_park_access	100
+15007	Hawaii	Kauai	pcnt_park_access	59
+15009	Hawaii	Maui	pcnt_park_access	62
+16001	Idaho	Ada	pcnt_park_access	56
+16003	Idaho	Adams	pcnt_park_access	23
+16005	Idaho	Bannock	pcnt_park_access	60
+16007	Idaho	Bear Lake	pcnt_park_access	25
+16009	Idaho	Benewah	pcnt_park_access	30
+16011	Idaho	Bingham	pcnt_park_access	17
+16013	Idaho	Blaine	pcnt_park_access	39
+16015	Idaho	Boise	pcnt_park_access	7
+16017	Idaho	Bonner	pcnt_park_access	11
+16019	Idaho	Bonneville	pcnt_park_access	35
+16021	Idaho	Boundary	pcnt_park_access	
+16023	Idaho	Butte	pcnt_park_access	35
+16025	Idaho	Camas	pcnt_park_access	
+16027	Idaho	Canyon	pcnt_park_access	45
+16029	Idaho	Caribou	pcnt_park_access	17
+16031	Idaho	Cassia	pcnt_park_access	26
+16033	Idaho	Clark	pcnt_park_access	53
+16035	Idaho	Clearwater	pcnt_park_access	29
+16037	Idaho	Custer	pcnt_park_access	12
+16039	Idaho	Elmore	pcnt_park_access	41
+16041	Idaho	Franklin	pcnt_park_access	27
+16043	Idaho	Fremont	pcnt_park_access	8
+16045	Idaho	Gem	pcnt_park_access	21
+16047	Idaho	Gooding	pcnt_park_access	34
+16049	Idaho	Idaho	pcnt_park_access	25
+16051	Idaho	Jefferson	pcnt_park_access	6
+16053	Idaho	Jerome	pcnt_park_access	46
+16055	Idaho	Kootenai	pcnt_park_access	5
+16057	Idaho	Latah	pcnt_park_access	22
+16059	Idaho	Lemhi	pcnt_park_access	23
+16061	Idaho	Lewis	pcnt_park_access	37
+16063	Idaho	Lincoln	pcnt_park_access	27
+16065	Idaho	Madison	pcnt_park_access	42
+16067	Idaho	Minidoka	pcnt_park_access	26
+16069	Idaho	Nez Perce	pcnt_park_access	43
+16071	Idaho	Oneida	pcnt_park_access	1
+16073	Idaho	Owyhee	pcnt_park_access	1
+16075	Idaho	Payette	pcnt_park_access	30
+16077	Idaho	Power	pcnt_park_access	51
+16079	Idaho	Shoshone	pcnt_park_access	9
+16081	Idaho	Teton	pcnt_park_access	
+16083	Idaho	Twin Falls	pcnt_park_access	29
+16085	Idaho	Valley	pcnt_park_access	19
+16087	Idaho	Washington	pcnt_park_access	33
+17001	Illinois	Adams	pcnt_park_access	45
+17003	Illinois	Alexander	pcnt_park_access	21
+17005	Illinois	Bond	pcnt_park_access	21
+17007	Illinois	Boone	pcnt_park_access	49
+17009	Illinois	Brown	pcnt_park_access	7
+17011	Illinois	Bureau	pcnt_park_access	31
+17013	Illinois	Calhoun	pcnt_park_access	
+17015	Illinois	Carroll	pcnt_park_access	21
+17017	Illinois	Cass	pcnt_park_access	44
+17019	Illinois	Champaign	pcnt_park_access	66
+17021	Illinois	Christian	pcnt_park_access	25
+17023	Illinois	Clark	pcnt_park_access	16
+17025	Illinois	Clay	pcnt_park_access	19
+17027	Illinois	Clinton	pcnt_park_access	18
+17029	Illinois	Coles	pcnt_park_access	48
+17031	Illinois	Cook	pcnt_park_access	72
+17033	Illinois	Crawford	pcnt_park_access	32
+17035	Illinois	Cumberland	pcnt_park_access	22
+17037	Illinois	DeKalb	pcnt_park_access	53
+17039	Illinois	De Witt	pcnt_park_access	54
+17041	Illinois	Douglas	pcnt_park_access	36
+17043	Illinois	DuPage	pcnt_park_access	81
+17045	Illinois	Edgar	pcnt_park_access	27
+17047	Illinois	Edwards	pcnt_park_access	27
+17049	Illinois	Effingham	pcnt_park_access	28
+17051	Illinois	Fayette	pcnt_park_access	23
+17053	Illinois	Ford	pcnt_park_access	56
+17055	Illinois	Franklin	pcnt_park_access	19
+17057	Illinois	Fulton	pcnt_park_access	28
+17059	Illinois	Gallatin	pcnt_park_access	5
+17061	Illinois	Greene	pcnt_park_access	35
+17063	Illinois	Grundy	pcnt_park_access	22
+17065	Illinois	Hamilton	pcnt_park_access	
+17067	Illinois	Hancock	pcnt_park_access	29
+17069	Illinois	Hardin	pcnt_park_access	8
+17071	Illinois	Henderson	pcnt_park_access	3
+17073	Illinois	Henry	pcnt_park_access	48
+17075	Illinois	Iroquois	pcnt_park_access	28
+17077	Illinois	Jackson	pcnt_park_access	11
+17079	Illinois	Jasper	pcnt_park_access	16
+17081	Illinois	Jefferson	pcnt_park_access	18
+17083	Illinois	Jersey	pcnt_park_access	6
+17085	Illinois	Jo Daviess	pcnt_park_access	16
+17087	Illinois	Johnson	pcnt_park_access	7
+17089	Illinois	Kane	pcnt_park_access	59
+17091	Illinois	Kankakee	pcnt_park_access	49
+17093	Illinois	Kendall	pcnt_park_access	29
+17095	Illinois	Knox	pcnt_park_access	36
+17097	Illinois	Lake	pcnt_park_access	72
+17099	Illinois	LaSalle	pcnt_park_access	49
+17101	Illinois	Lawrence	pcnt_park_access	28
+17103	Illinois	Lee	pcnt_park_access	39
+17105	Illinois	Livingston	pcnt_park_access	51
+17107	Illinois	Logan	pcnt_park_access	46
+17109	Illinois	McDonough	pcnt_park_access	45
+17111	Illinois	McHenry	pcnt_park_access	62
+17113	Illinois	McLean	pcnt_park_access	44
+17115	Illinois	Macon	pcnt_park_access	51
+17117	Illinois	Macoupin	pcnt_park_access	23
+17119	Illinois	Madison	pcnt_park_access	31
+17121	Illinois	Marion	pcnt_park_access	22
+17123	Illinois	Marshall	pcnt_park_access	35
+17125	Illinois	Mason	pcnt_park_access	10
+17127	Illinois	Massac	pcnt_park_access	28
+17129	Illinois	Menard	pcnt_park_access	20
+17131	Illinois	Mercer	pcnt_park_access	28
+17133	Illinois	Monroe	pcnt_park_access	31
+17135	Illinois	Montgomery	pcnt_park_access	31
+17137	Illinois	Morgan	pcnt_park_access	23
+17139	Illinois	Moultrie	pcnt_park_access	11
+17141	Illinois	Ogle	pcnt_park_access	35
+17143	Illinois	Peoria	pcnt_park_access	26
+17145	Illinois	Perry	pcnt_park_access	18
+17147	Illinois	Piatt	pcnt_park_access	43
+17149	Illinois	Pike	pcnt_park_access	34
+17151	Illinois	Pope	pcnt_park_access	3
+17153	Illinois	Pulaski	pcnt_park_access	4
+17155	Illinois	Putnam	pcnt_park_access	18
+17157	Illinois	Randolph	pcnt_park_access	16
+17159	Illinois	Richland	pcnt_park_access	21
+17161	Illinois	Rock Island	pcnt_park_access	63
+17163	Illinois	St. Clair	pcnt_park_access	34
+17165	Illinois	Saline	pcnt_park_access	19
+17167	Illinois	Sangamon	pcnt_park_access	51
+17169	Illinois	Schuyler	pcnt_park_access	4
+17171	Illinois	Scott	pcnt_park_access	24
+17173	Illinois	Shelby	pcnt_park_access	30
+17175	Illinois	Stark	pcnt_park_access	33
+17177	Illinois	Stephenson	pcnt_park_access	33
+17179	Illinois	Tazewell	pcnt_park_access	21
+17181	Illinois	Union	pcnt_park_access	15
+17183	Illinois	Vermilion	pcnt_park_access	33
+17185	Illinois	Wabash	pcnt_park_access	2
+17187	Illinois	Warren	pcnt_park_access	55
+17189	Illinois	Washington	pcnt_park_access	26
+17191	Illinois	Wayne	pcnt_park_access	17
+17193	Illinois	White	pcnt_park_access	35
+17195	Illinois	Whiteside	pcnt_park_access	62
+17197	Illinois	Will	pcnt_park_access	51
+17199	Illinois	Williamson	pcnt_park_access	18
+17201	Illinois	Winnebago	pcnt_park_access	59
+17203	Illinois	Woodford	pcnt_park_access	17
+18001	Indiana	Adams	pcnt_park_access	20
+18003	Indiana	Allen	pcnt_park_access	38
+18005	Indiana	Bartholomew	pcnt_park_access	16
+18007	Indiana	Benton	pcnt_park_access	29
+18009	Indiana	Blackford	pcnt_park_access	1
+18011	Indiana	Boone	pcnt_park_access	20
+18013	Indiana	Brown	pcnt_park_access	7
+18015	Indiana	Carroll	pcnt_park_access	4
+18017	Indiana	Cass	pcnt_park_access	13
+18019	Indiana	Clark	pcnt_park_access	46
+18021	Indiana	Clay	pcnt_park_access	3
+18023	Indiana	Clinton	pcnt_park_access	26
+18025	Indiana	Crawford	pcnt_park_access	4
+18027	Indiana	Daviess	pcnt_park_access	12
+18029	Indiana	Dearborn	pcnt_park_access	5
+18031	Indiana	Decatur	pcnt_park_access	1
+18033	Indiana	DeKalb	pcnt_park_access	31
+18035	Indiana	Delaware	pcnt_park_access	26
+18037	Indiana	Dubois	pcnt_park_access	15
+18039	Indiana	Elkhart	pcnt_park_access	30
+18041	Indiana	Fayette	pcnt_park_access	34
+18043	Indiana	Floyd	pcnt_park_access	31
+18045	Indiana	Fountain	pcnt_park_access	24
+18047	Indiana	Franklin	pcnt_park_access	2
+18049	Indiana	Fulton	pcnt_park_access	19
+18051	Indiana	Gibson	pcnt_park_access	20
+18053	Indiana	Grant	pcnt_park_access	19
+18055	Indiana	Greene	pcnt_park_access	18
+18057	Indiana	Hamilton	pcnt_park_access	17
+18059	Indiana	Hancock	pcnt_park_access	10
+18061	Indiana	Harrison	pcnt_park_access	1
+18063	Indiana	Hendricks	pcnt_park_access	15
+18065	Indiana	Henry	pcnt_park_access	10
+18067	Indiana	Howard	pcnt_park_access	28
+18069	Indiana	Huntington	pcnt_park_access	30
+18071	Indiana	Jackson	pcnt_park_access	20
+18073	Indiana	Jasper	pcnt_park_access	22
+18075	Indiana	Jay	pcnt_park_access	24
+18077	Indiana	Jefferson	pcnt_park_access	20
+18079	Indiana	Jennings	pcnt_park_access	8
+18081	Indiana	Johnson	pcnt_park_access	17
+18083	Indiana	Knox	pcnt_park_access	31
+18085	Indiana	Kosciusko	pcnt_park_access	6
+18087	Indiana	LaGrange	pcnt_park_access	8
+18089	Indiana	Lake	pcnt_park_access	67
+18091	Indiana	LaPorte	pcnt_park_access	30
+18093	Indiana	Lawrence	pcnt_park_access	7
+18095	Indiana	Madison	pcnt_park_access	15
+18097	Indiana	Marion	pcnt_park_access	28
+18099	Indiana	Marshall	pcnt_park_access	7
+18101	Indiana	Martin	pcnt_park_access	13
+18103	Indiana	Miami	pcnt_park_access	3
+18105	Indiana	Monroe	pcnt_park_access	43
+18107	Indiana	Montgomery	pcnt_park_access	10
+18109	Indiana	Morgan	pcnt_park_access	11
+18111	Indiana	Newton	pcnt_park_access	5
+18113	Indiana	Noble	pcnt_park_access	17
+18115	Indiana	Ohio	pcnt_park_access	18
+18117	Indiana	Orange	pcnt_park_access	7
+18119	Indiana	Owen	pcnt_park_access	5
+18121	Indiana	Parke	pcnt_park_access	11
+18123	Indiana	Perry	pcnt_park_access	4
+18125	Indiana	Pike	pcnt_park_access	7
+18127	Indiana	Porter	pcnt_park_access	36
+18129	Indiana	Posey	pcnt_park_access	23
+18131	Indiana	Pulaski	pcnt_park_access	20
+18133	Indiana	Putnam	pcnt_park_access	12
+18135	Indiana	Randolph	pcnt_park_access	18
+18137	Indiana	Ripley	pcnt_park_access	14
+18139	Indiana	Rush	pcnt_park_access	23
+18141	Indiana	St. Joseph	pcnt_park_access	42
+18143	Indiana	Scott	pcnt_park_access	11
+18145	Indiana	Shelby	pcnt_park_access	22
+18147	Indiana	Spencer	pcnt_park_access	14
+18149	Indiana	Starke	pcnt_park_access	13
+18151	Indiana	Steuben	pcnt_park_access	10
+18153	Indiana	Sullivan	pcnt_park_access	32
+18155	Indiana	Switzerland	pcnt_park_access	2
+18157	Indiana	Tippecanoe	pcnt_park_access	22
+18159	Indiana	Tipton	pcnt_park_access	9
+18161	Indiana	Union	pcnt_park_access	4
+18163	Indiana	Vanderburgh	pcnt_park_access	43
+18165	Indiana	Vermillion	pcnt_park_access	16
+18167	Indiana	Vigo	pcnt_park_access	29
+18169	Indiana	Wabash	pcnt_park_access	19
+18171	Indiana	Warren	pcnt_park_access	16
+18173	Indiana	Warrick	pcnt_park_access	11
+18175	Indiana	Washington	pcnt_park_access	2
+18177	Indiana	Wayne	pcnt_park_access	21
+18179	Indiana	Wells	pcnt_park_access	24
+18181	Indiana	White	pcnt_park_access	6
+18183	Indiana	Whitley	pcnt_park_access	16
+19001	Iowa	Adair	pcnt_park_access	53
+19003	Iowa	Adams	pcnt_park_access	2
+19005	Iowa	Allamakee	pcnt_park_access	12
+19007	Iowa	Appanoose	pcnt_park_access	24
+19009	Iowa	Audubon	pcnt_park_access	17
+19011	Iowa	Benton	pcnt_park_access	23
+19013	Iowa	Black Hawk	pcnt_park_access	27
+19015	Iowa	Boone	pcnt_park_access	20
+19017	Iowa	Bremer	pcnt_park_access	24
+19019	Iowa	Buchanan	pcnt_park_access	34
+19021	Iowa	Buena Vista	pcnt_park_access	36
+19023	Iowa	Butler	pcnt_park_access	31
+19025	Iowa	Calhoun	pcnt_park_access	44
+19027	Iowa	Carroll	pcnt_park_access	63
+19029	Iowa	Cass	pcnt_park_access	24
+19031	Iowa	Cedar	pcnt_park_access	32
+19033	Iowa	Cerro Gordo	pcnt_park_access	30
+19035	Iowa	Cherokee	pcnt_park_access	18
+19037	Iowa	Chickasaw	pcnt_park_access	41
+19039	Iowa	Clarke	pcnt_park_access	38
+19041	Iowa	Clay	pcnt_park_access	29
+19043	Iowa	Clayton	pcnt_park_access	12
+19045	Iowa	Clinton	pcnt_park_access	56
+19047	Iowa	Crawford	pcnt_park_access	37
+19049	Iowa	Dallas	pcnt_park_access	19
+19051	Iowa	Davis	pcnt_park_access	17
+19053	Iowa	Decatur	pcnt_park_access	33
+19055	Iowa	Delaware	pcnt_park_access	28
+19057	Iowa	Des Moines	pcnt_park_access	29
+19059	Iowa	Dickinson	pcnt_park_access	40
+19061	Iowa	Dubuque	pcnt_park_access	32
+19063	Iowa	Emmet	pcnt_park_access	68
+19065	Iowa	Fayette	pcnt_park_access	45
+19067	Iowa	Floyd	pcnt_park_access	51
+19069	Iowa	Franklin	pcnt_park_access	45
+19071	Iowa	Fremont	pcnt_park_access	31
+19073	Iowa	Greene	pcnt_park_access	56
+19075	Iowa	Grundy	pcnt_park_access	43
+19077	Iowa	Guthrie	pcnt_park_access	30
+19079	Iowa	Hamilton	pcnt_park_access	41
+19081	Iowa	Hancock	pcnt_park_access	34
+19083	Iowa	Hardin	pcnt_park_access	47
+19085	Iowa	Harrison	pcnt_park_access	22
+19087	Iowa	Henry	pcnt_park_access	35
+19089	Iowa	Howard	pcnt_park_access	37
+19091	Iowa	Humboldt	pcnt_park_access	43
+19093	Iowa	Ida	pcnt_park_access	35
+19095	Iowa	Iowa	pcnt_park_access	19
+19097	Iowa	Jackson	pcnt_park_access	42
+19099	Iowa	Jasper	pcnt_park_access	37
+19101	Iowa	Jefferson	pcnt_park_access	49
+19103	Iowa	Johnson	pcnt_park_access	67
+19105	Iowa	Jones	pcnt_park_access	25
+19107	Iowa	Keokuk	pcnt_park_access	27
+19109	Iowa	Kossuth	pcnt_park_access	34
+19111	Iowa	Lee	pcnt_park_access	50
+19113	Iowa	Linn	pcnt_park_access	68
+19115	Iowa	Louisa	pcnt_park_access	7
+19117	Iowa	Lucas	pcnt_park_access	46
+19119	Iowa	Lyon	pcnt_park_access	46
+19121	Iowa	Madison	pcnt_park_access	16
+19123	Iowa	Mahaska	pcnt_park_access	10
+19125	Iowa	Marion	pcnt_park_access	43
+19127	Iowa	Marshall	pcnt_park_access	30
+19129	Iowa	Mills	pcnt_park_access	16
+19131	Iowa	Mitchell	pcnt_park_access	29
+19133	Iowa	Monona	pcnt_park_access	49
+19135	Iowa	Monroe	pcnt_park_access	11
+19137	Iowa	Montgomery	pcnt_park_access	63
+19139	Iowa	Muscatine	pcnt_park_access	44
+19141	Iowa	O'Brien	pcnt_park_access	6
+19143	Iowa	Osceola	pcnt_park_access	53
+19145	Iowa	Page	pcnt_park_access	56
+19147	Iowa	Palo Alto	pcnt_park_access	51
+19149	Iowa	Plymouth	pcnt_park_access	48
+19151	Iowa	Pocahontas	pcnt_park_access	32
+19153	Iowa	Polk	pcnt_park_access	56
+19155	Iowa	Pottawattamie	pcnt_park_access	55
+19157	Iowa	Poweshiek	pcnt_park_access	56
+19159	Iowa	Ringgold	pcnt_park_access	22
+19161	Iowa	Sac	pcnt_park_access	56
+19163	Iowa	Scott	pcnt_park_access	66
+19165	Iowa	Shelby	pcnt_park_access	47
+19167	Iowa	Sioux	pcnt_park_access	34
+19169	Iowa	Story	pcnt_park_access	40
+19171	Iowa	Tama	pcnt_park_access	42
+19173	Iowa	Taylor	pcnt_park_access	41
+19175	Iowa	Union	pcnt_park_access	44
+19177	Iowa	Van Buren	pcnt_park_access	14
+19179	Iowa	Wapello	pcnt_park_access	26
+19181	Iowa	Warren	pcnt_park_access	27
+19183	Iowa	Washington	pcnt_park_access	23
+19185	Iowa	Wayne	pcnt_park_access	35
+19187	Iowa	Webster	pcnt_park_access	46
+19189	Iowa	Winnebago	pcnt_park_access	23
+19191	Iowa	Winneshiek	pcnt_park_access	41
+19193	Iowa	Woodbury	pcnt_park_access	65
+19195	Iowa	Worth	pcnt_park_access	41
+19197	Iowa	Wright	pcnt_park_access	43
+20001	Kansas	Allen	pcnt_park_access	24
+20003	Kansas	Anderson	pcnt_park_access	23
+20005	Kansas	Atchison	pcnt_park_access	47
+20007	Kansas	Barber	pcnt_park_access	50
+20009	Kansas	Barton	pcnt_park_access	42
+20011	Kansas	Bourbon	pcnt_park_access	33
+20013	Kansas	Brown	pcnt_park_access	12
+20015	Kansas	Butler	pcnt_park_access	15
+20017	Kansas	Chase	pcnt_park_access	2
+20019	Kansas	Chautauqua	pcnt_park_access	8
+20021	Kansas	Cherokee	pcnt_park_access	10
+20023	Kansas	Cheyenne	pcnt_park_access	14
+20025	Kansas	Clark	pcnt_park_access	32
+20027	Kansas	Clay	pcnt_park_access	17
+20029	Kansas	Cloud	pcnt_park_access	49
+20031	Kansas	Coffey	pcnt_park_access	26
+20033	Kansas	Comanche	pcnt_park_access	55
+20035	Kansas	Cowley	pcnt_park_access	37
+20037	Kansas	Crawford	pcnt_park_access	30
+20039	Kansas	Decatur	pcnt_park_access	47
+20041	Kansas	Dickinson	pcnt_park_access	26
+20043	Kansas	Doniphan	pcnt_park_access	23
+20045	Kansas	Douglas	pcnt_park_access	67
+20047	Kansas	Edwards	pcnt_park_access	32
+20049	Kansas	Elk	pcnt_park_access	22
+20051	Kansas	Ellis	pcnt_park_access	41
+20053	Kansas	Ellsworth	pcnt_park_access	27
+20055	Kansas	Finney	pcnt_park_access	11
+20057	Kansas	Ford	pcnt_park_access	52
+20059	Kansas	Franklin	pcnt_park_access	9
+20061	Kansas	Geary	pcnt_park_access	53
+20063	Kansas	Gove	pcnt_park_access	10
+20065	Kansas	Graham	pcnt_park_access	6
+20067	Kansas	Grant	pcnt_park_access	37
+20069	Kansas	Gray	pcnt_park_access	14
+20071	Kansas	Greeley	pcnt_park_access	1
+20073	Kansas	Greenwood	pcnt_park_access	24
+20075	Kansas	Hamilton	pcnt_park_access	19
+20077	Kansas	Harper	pcnt_park_access	42
+20079	Kansas	Harvey	pcnt_park_access	29
+20081	Kansas	Haskell	pcnt_park_access	18
+20083	Kansas	Hodgeman	pcnt_park_access	40
+20085	Kansas	Jackson	pcnt_park_access	25
+20087	Kansas	Jefferson	pcnt_park_access	5
+20089	Kansas	Jewell	pcnt_park_access	47
+20091	Kansas	Johnson	pcnt_park_access	54
+20093	Kansas	Kearny	pcnt_park_access	43
+20095	Kansas	Kingman	pcnt_park_access	13
+20097	Kansas	Kiowa	pcnt_park_access	31
+20099	Kansas	Labette	pcnt_park_access	29
+20101	Kansas	Lane	pcnt_park_access	44
+20103	Kansas	Leavenworth	pcnt_park_access	28
+20105	Kansas	Lincoln	pcnt_park_access	21
+20107	Kansas	Linn	pcnt_park_access	18
+20109	Kansas	Logan	pcnt_park_access	62
+20111	Kansas	Lyon	pcnt_park_access	41
+20113	Kansas	McPherson	pcnt_park_access	57
+20115	Kansas	Marion	pcnt_park_access	33
+20117	Kansas	Marshall	pcnt_park_access	47
+20119	Kansas	Meade	pcnt_park_access	43
+20121	Kansas	Miami	pcnt_park_access	17
+20123	Kansas	Mitchell	pcnt_park_access	19
+20125	Kansas	Montgomery	pcnt_park_access	16
+20127	Kansas	Morris	pcnt_park_access	1
+20129	Kansas	Morton	pcnt_park_access	13
+20131	Kansas	Nemaha	pcnt_park_access	16
+20133	Kansas	Neosho	pcnt_park_access	42
+20135	Kansas	Ness	pcnt_park_access	19
+20137	Kansas	Norton	pcnt_park_access	62
+20139	Kansas	Osage	pcnt_park_access	20
+20141	Kansas	Osborne	pcnt_park_access	33
+20143	Kansas	Ottawa	pcnt_park_access	21
+20145	Kansas	Pawnee	pcnt_park_access	46
+20147	Kansas	Phillips	pcnt_park_access	18
+20149	Kansas	Pottawatomie	pcnt_park_access	1
+20151	Kansas	Pratt	pcnt_park_access	51
+20153	Kansas	Rawlins	pcnt_park_access	53
+20155	Kansas	Reno	pcnt_park_access	31
+20157	Kansas	Republic	pcnt_park_access	7
+20159	Kansas	Rice	pcnt_park_access	46
+20161	Kansas	Riley	pcnt_park_access	40
+20163	Kansas	Rooks	pcnt_park_access	42
+20165	Kansas	Rush	pcnt_park_access	40
+20167	Kansas	Russell	pcnt_park_access	45
+20169	Kansas	Saline	pcnt_park_access	24
+20171	Kansas	Scott	pcnt_park_access	66
+20173	Kansas	Sedgwick	pcnt_park_access	55
+20175	Kansas	Seward	pcnt_park_access	42
+20177	Kansas	Shawnee	pcnt_park_access	51
+20179	Kansas	Sheridan	pcnt_park_access	40
+20181	Kansas	Sherman	pcnt_park_access	69
+20183	Kansas	Smith	pcnt_park_access	35
+20185	Kansas	Stafford	pcnt_park_access	62
+20187	Kansas	Stanton	pcnt_park_access	8
+20189	Kansas	Stevens	pcnt_park_access	39
+20191	Kansas	Sumner	pcnt_park_access	10
+20193	Kansas	Thomas	pcnt_park_access	52
+20195	Kansas	Trego	pcnt_park_access	55
+20197	Kansas	Wabaunsee	pcnt_park_access	
+20199	Kansas	Wallace	pcnt_park_access	41
+20201	Kansas	Washington	pcnt_park_access	23
+20203	Kansas	Wichita	pcnt_park_access	53
+20205	Kansas	Wilson	pcnt_park_access	33
+20207	Kansas	Woodson	pcnt_park_access	37
+20209	Kansas	Wyandotte	pcnt_park_access	55
+21001	Kentucky	Adair	pcnt_park_access	
+21003	Kentucky	Allen	pcnt_park_access	
+21005	Kentucky	Anderson	pcnt_park_access	
+21007	Kentucky	Ballard	pcnt_park_access	11
+21009	Kentucky	Barren	pcnt_park_access	14
+21011	Kentucky	Bath	pcnt_park_access	
+21013	Kentucky	Bell	pcnt_park_access	7
+21015	Kentucky	Boone	pcnt_park_access	20
+21017	Kentucky	Bourbon	pcnt_park_access	
+21019	Kentucky	Boyd	pcnt_park_access	6
+21021	Kentucky	Boyle	pcnt_park_access	17
+21023	Kentucky	Bracken	pcnt_park_access	
+21025	Kentucky	Breathitt	pcnt_park_access	
+21027	Kentucky	Breckinridge	pcnt_park_access	
+21029	Kentucky	Bullitt	pcnt_park_access	9
+21031	Kentucky	Butler	pcnt_park_access	
+21033	Kentucky	Caldwell	pcnt_park_access	8
+21035	Kentucky	Calloway	pcnt_park_access	8
+21037	Kentucky	Campbell	pcnt_park_access	44
+21039	Kentucky	Carlisle	pcnt_park_access	
+21041	Kentucky	Carroll	pcnt_park_access	30
+21043	Kentucky	Carter	pcnt_park_access	2
+21045	Kentucky	Casey	pcnt_park_access	
+21047	Kentucky	Christian	pcnt_park_access	10
+21049	Kentucky	Clark	pcnt_park_access	
+21051	Kentucky	Clay	pcnt_park_access	
+21053	Kentucky	Clinton	pcnt_park_access	
+21055	Kentucky	Crittenden	pcnt_park_access	
+21057	Kentucky	Cumberland	pcnt_park_access	1
+21059	Kentucky	Daviess	pcnt_park_access	36
+21061	Kentucky	Edmonson	pcnt_park_access	9
+21063	Kentucky	Elliott	pcnt_park_access	2
+21065	Kentucky	Estill	pcnt_park_access	
+21067	Kentucky	Fayette	pcnt_park_access	61
+21069	Kentucky	Fleming	pcnt_park_access	
+21071	Kentucky	Floyd	pcnt_park_access	3
+21073	Kentucky	Franklin	pcnt_park_access	15
+21075	Kentucky	Fulton	pcnt_park_access	12
+21077	Kentucky	Gallatin	pcnt_park_access	
+21079	Kentucky	Garrard	pcnt_park_access	
+21081	Kentucky	Grant	pcnt_park_access	2
+21083	Kentucky	Graves	pcnt_park_access	5
+21085	Kentucky	Grayson	pcnt_park_access	4
+21087	Kentucky	Green	pcnt_park_access	
+21089	Kentucky	Greenup	pcnt_park_access	3
+21091	Kentucky	Hancock	pcnt_park_access	
+21093	Kentucky	Hardin	pcnt_park_access	22
+21095	Kentucky	Harlan	pcnt_park_access	3
+21097	Kentucky	Harrison	pcnt_park_access	
+21099	Kentucky	Hart	pcnt_park_access	1
+21101	Kentucky	Henderson	pcnt_park_access	34
+21103	Kentucky	Henry	pcnt_park_access	
+21105	Kentucky	Hickman	pcnt_park_access	4
+21107	Kentucky	Hopkins	pcnt_park_access	8
+21109	Kentucky	Jackson	pcnt_park_access	
+21111	Kentucky	Jefferson	pcnt_park_access	42
+21113	Kentucky	Jessamine	pcnt_park_access	31
+21115	Kentucky	Johnson	pcnt_park_access	8
+21117	Kentucky	Kenton	pcnt_park_access	27
+21119	Kentucky	Knott	pcnt_park_access	
+21121	Kentucky	Knox	pcnt_park_access	5
+21123	Kentucky	Larue	pcnt_park_access	1
+21125	Kentucky	Laurel	pcnt_park_access	3
+21127	Kentucky	Lawrence	pcnt_park_access	16
+21129	Kentucky	Lee	pcnt_park_access	1
+21131	Kentucky	Leslie	pcnt_park_access	
+21133	Kentucky	Letcher	pcnt_park_access	1
+21135	Kentucky	Lewis	pcnt_park_access	3
+21137	Kentucky	Lincoln	pcnt_park_access	
+21139	Kentucky	Livingston	pcnt_park_access	
+21141	Kentucky	Logan	pcnt_park_access	
+21143	Kentucky	Lyon	pcnt_park_access	2
+21145	Kentucky	McCracken	pcnt_park_access	24
+21147	Kentucky	McCreary	pcnt_park_access	6
+21149	Kentucky	McLean	pcnt_park_access	
+21151	Kentucky	Madison	pcnt_park_access	20
+21153	Kentucky	Magoffin	pcnt_park_access	7
+21155	Kentucky	Marion	pcnt_park_access	7
+21157	Kentucky	Marshall	pcnt_park_access	2
+21159	Kentucky	Martin	pcnt_park_access	1
+21161	Kentucky	Mason	pcnt_park_access	16
+21163	Kentucky	Meade	pcnt_park_access	8
+21165	Kentucky	Menifee	pcnt_park_access	
+21167	Kentucky	Mercer	pcnt_park_access	20
+21169	Kentucky	Metcalfe	pcnt_park_access	7
+21171	Kentucky	Monroe	pcnt_park_access	1
+21173	Kentucky	Montgomery	pcnt_park_access	
+21175	Kentucky	Morgan	pcnt_park_access	
+21177	Kentucky	Muhlenberg	pcnt_park_access	3
+21179	Kentucky	Nelson	pcnt_park_access	5
+21181	Kentucky	Nicholas	pcnt_park_access	1
+21183	Kentucky	Ohio	pcnt_park_access	
+21185	Kentucky	Oldham	pcnt_park_access	2
+21187	Kentucky	Owen	pcnt_park_access	
+21189	Kentucky	Owsley	pcnt_park_access	
+21191	Kentucky	Pendleton	pcnt_park_access	1
+21193	Kentucky	Perry	pcnt_park_access	2
+21195	Kentucky	Pike	pcnt_park_access	
+21197	Kentucky	Powell	pcnt_park_access	1
+21199	Kentucky	Pulaski	pcnt_park_access	1
+21201	Kentucky	Robertson	pcnt_park_access	1
+21203	Kentucky	Rockcastle	pcnt_park_access	
+21205	Kentucky	Rowan	pcnt_park_access	
+21207	Kentucky	Russell	pcnt_park_access	1
+21209	Kentucky	Scott	pcnt_park_access	28
+21211	Kentucky	Shelby	pcnt_park_access	4
+21213	Kentucky	Simpson	pcnt_park_access	
+21215	Kentucky	Spencer	pcnt_park_access	
+21217	Kentucky	Taylor	pcnt_park_access	7
+21219	Kentucky	Todd	pcnt_park_access	3
+21221	Kentucky	Trigg	pcnt_park_access	5
+21223	Kentucky	Trimble	pcnt_park_access	
+21225	Kentucky	Union	pcnt_park_access	9
+21227	Kentucky	Warren	pcnt_park_access	24
+21229	Kentucky	Washington	pcnt_park_access	
+21231	Kentucky	Wayne	pcnt_park_access	
+21233	Kentucky	Webster	pcnt_park_access	11
+21235	Kentucky	Whitley	pcnt_park_access	3
+21237	Kentucky	Wolfe	pcnt_park_access	1
+21239	Kentucky	Woodford	pcnt_park_access	
+22001	Louisiana	Acadia	pcnt_park_access	31
+22003	Louisiana	Allen	pcnt_park_access	23
+22005	Louisiana	Ascension	pcnt_park_access	9
+22007	Louisiana	Assumption	pcnt_park_access	
+22009	Louisiana	Avoyelles	pcnt_park_access	6
+22011	Louisiana	Beauregard	pcnt_park_access	7
+22013	Louisiana	Bienville	pcnt_park_access	
+22015	Louisiana	Bossier	pcnt_park_access	6
+22017	Louisiana	Caddo	pcnt_park_access	28
+22019	Louisiana	Calcasieu	pcnt_park_access	29
+22021	Louisiana	Caldwell	pcnt_park_access	3
+22023	Louisiana	Cameron	pcnt_park_access	
+22025	Louisiana	Catahoula	pcnt_park_access	7
+22027	Louisiana	Claiborne	pcnt_park_access	4
+22029	Louisiana	Concordia	pcnt_park_access	10
+22031	Louisiana	De Soto	pcnt_park_access	
+22033	Louisiana	East Baton Rouge	pcnt_park_access	42
+22035	Louisiana	East Carroll	pcnt_park_access	
+22037	Louisiana	East Feliciana	pcnt_park_access	
+22039	Louisiana	Evangeline	pcnt_park_access	12
+22041	Louisiana	Franklin	pcnt_park_access	16
+22043	Louisiana	Grant	pcnt_park_access	
+22045	Louisiana	Iberia	pcnt_park_access	14
+22047	Louisiana	Iberville	pcnt_park_access	21
+22049	Louisiana	Jackson	pcnt_park_access	8
+22051	Louisiana	Jefferson	pcnt_park_access	49
+22053	Louisiana	Jefferson Davis	pcnt_park_access	29
+22055	Louisiana	Lafayette	pcnt_park_access	19
+22057	Louisiana	Lafourche	pcnt_park_access	4
+22059	Louisiana	La Salle	pcnt_park_access	
+22061	Louisiana	Lincoln	pcnt_park_access	19
+22063	Louisiana	Livingston	pcnt_park_access	2
+22065	Louisiana	Madison	pcnt_park_access	
+22067	Louisiana	Morehouse	pcnt_park_access	23
+22069	Louisiana	Natchitoches	pcnt_park_access	14
+22071	Louisiana	Orleans	pcnt_park_access	60
+22073	Louisiana	Ouachita	pcnt_park_access	3
+22075	Louisiana	Plaquemines	pcnt_park_access	6
+22077	Louisiana	Pointe Coupee	pcnt_park_access	13
+22079	Louisiana	Rapides	pcnt_park_access	12
+22081	Louisiana	Red River	pcnt_park_access	
+22083	Louisiana	Richland	pcnt_park_access	9
+22085	Louisiana	Sabine	pcnt_park_access	3
+22087	Louisiana	St. Bernard	pcnt_park_access	26
+22089	Louisiana	St. Charles	pcnt_park_access	9
+22091	Louisiana	St. Helena	pcnt_park_access	4
+22093	Louisiana	St. James	pcnt_park_access	1
+22095	Louisiana	St. John the Baptist	pcnt_park_access	7
+22097	Louisiana	St. Landry	pcnt_park_access	12
+22099	Louisiana	St. Martin	pcnt_park_access	6
+22101	Louisiana	St. Mary	pcnt_park_access	8
+22103	Louisiana	St. Tammany	pcnt_park_access	8
+22105	Louisiana	Tangipahoa	pcnt_park_access	6
+22107	Louisiana	Tensas	pcnt_park_access	1
+22109	Louisiana	Terrebonne	pcnt_park_access	10
+22111	Louisiana	Union	pcnt_park_access	3
+22113	Louisiana	Vermilion	pcnt_park_access	12
+22115	Louisiana	Vernon	pcnt_park_access	2
+22117	Louisiana	Washington	pcnt_park_access	4
+22119	Louisiana	Webster	pcnt_park_access	18
+22121	Louisiana	West Baton Rouge	pcnt_park_access	23
+22123	Louisiana	West Carroll	pcnt_park_access	12
+22125	Louisiana	West Feliciana	pcnt_park_access	2
+22127	Louisiana	Winn	pcnt_park_access	11
+23001	Maine	Androscoggin	pcnt_park_access	7
+23003	Maine	Aroostook	pcnt_park_access	9
+23005	Maine	Cumberland	pcnt_park_access	19
+23007	Maine	Franklin	pcnt_park_access	1
+23009	Maine	Hancock	pcnt_park_access	10
+23011	Maine	Kennebec	pcnt_park_access	10
+23013	Maine	Knox	pcnt_park_access	3
+23015	Maine	Lincoln	pcnt_park_access	1
+23017	Maine	Oxford	pcnt_park_access	7
+23019	Maine	Penobscot	pcnt_park_access	15
+23021	Maine	Piscataquis	pcnt_park_access	
+23023	Maine	Sagadahoc	pcnt_park_access	16
+23025	Maine	Somerset	pcnt_park_access	4
+23027	Maine	Waldo	pcnt_park_access	8
+23029	Maine	Washington	pcnt_park_access	1
+23031	Maine	York	pcnt_park_access	12
+24001	Maryland	Allegany	pcnt_park_access	19
+24003	Maryland	Anne Arundel	pcnt_park_access	35
+24005	Maryland	Baltimore	pcnt_park_access	46
+24009	Maryland	Calvert	pcnt_park_access	5
+24011	Maryland	Caroline	pcnt_park_access	17
+24013	Maryland	Carroll	pcnt_park_access	22
+24015	Maryland	Cecil	pcnt_park_access	18
+24017	Maryland	Charles	pcnt_park_access	8
+24019	Maryland	Dorchester	pcnt_park_access	12
+24021	Maryland	Frederick	pcnt_park_access	20
+24023	Maryland	Garrett	pcnt_park_access	11
+24025	Maryland	Harford	pcnt_park_access	27
+24027	Maryland	Howard	pcnt_park_access	34
+24029	Maryland	Kent	pcnt_park_access	17
+24031	Maryland	Montgomery	pcnt_park_access	84
+24033	Maryland	Prince George's	pcnt_park_access	79
+24035	Maryland	Queen Anne's	pcnt_park_access	16
+24037	Maryland	St. Mary's	pcnt_park_access	15
+24039	Maryland	Somerset	pcnt_park_access	9
+24041	Maryland	Talbot	pcnt_park_access	14
+24043	Maryland	Washington	pcnt_park_access	35
+24045	Maryland	Wicomico	pcnt_park_access	19
+24047	Maryland	Worcester	pcnt_park_access	23
+24510	Maryland	Baltimore City	pcnt_park_access	72
+25001	Massachusetts	Barnstable	pcnt_park_access	11
+25003	Massachusetts	Berkshire	pcnt_park_access	20
+25005	Massachusetts	Bristol	pcnt_park_access	38
+25007	Massachusetts	Dukes	pcnt_park_access	22
+25009	Massachusetts	Essex	pcnt_park_access	52
+25011	Massachusetts	Franklin	pcnt_park_access	6
+25013	Massachusetts	Hampden	pcnt_park_access	45
+25015	Massachusetts	Hampshire	pcnt_park_access	16
+25017	Massachusetts	Middlesex	pcnt_park_access	58
+25019	Massachusetts	Nantucket	pcnt_park_access	
+25021	Massachusetts	Norfolk	pcnt_park_access	50
+25023	Massachusetts	Plymouth	pcnt_park_access	28
+25025	Massachusetts	Suffolk	pcnt_park_access	95
+25027	Massachusetts	Worcester	pcnt_park_access	38
+26001	Michigan	Alcona	pcnt_park_access	12
+26003	Michigan	Alger	pcnt_park_access	25
+26005	Michigan	Allegan	pcnt_park_access	11
+26007	Michigan	Alpena	pcnt_park_access	25
+26009	Michigan	Antrim	pcnt_park_access	17
+26011	Michigan	Arenac	pcnt_park_access	2
+26013	Michigan	Baraga	pcnt_park_access	11
+26015	Michigan	Barry	pcnt_park_access	9
+26017	Michigan	Bay	pcnt_park_access	24
+26019	Michigan	Benzie	pcnt_park_access	15
+26021	Michigan	Berrien	pcnt_park_access	26
+26023	Michigan	Branch	pcnt_park_access	21
+26025	Michigan	Calhoun	pcnt_park_access	26
+26027	Michigan	Cass	pcnt_park_access	8
+26029	Michigan	Charlevoix	pcnt_park_access	26
+26031	Michigan	Cheboygan	pcnt_park_access	9
+26033	Michigan	Chippewa	pcnt_park_access	1
+26035	Michigan	Clare	pcnt_park_access	11
+26037	Michigan	Clinton	pcnt_park_access	26
+26039	Michigan	Crawford	pcnt_park_access	3
+26041	Michigan	Delta	pcnt_park_access	20
+26043	Michigan	Dickinson	pcnt_park_access	22
+26045	Michigan	Eaton	pcnt_park_access	23
+26047	Michigan	Emmet	pcnt_park_access	27
+26049	Michigan	Genesee	pcnt_park_access	30
+26051	Michigan	Gladwin	pcnt_park_access	4
+26053	Michigan	Gogebic	pcnt_park_access	12
+26055	Michigan	Grand Traverse	pcnt_park_access	20
+26057	Michigan	Gratiot	pcnt_park_access	28
+26059	Michigan	Hillsdale	pcnt_park_access	11
+26061	Michigan	Houghton	pcnt_park_access	
+26063	Michigan	Huron	pcnt_park_access	8
+26065	Michigan	Ingham	pcnt_park_access	59
+26067	Michigan	Ionia	pcnt_park_access	17
+26069	Michigan	Iosco	pcnt_park_access	18
+26071	Michigan	Iron	pcnt_park_access	4
+26073	Michigan	Isabella	pcnt_park_access	14
+26075	Michigan	Jackson	pcnt_park_access	20
+26077	Michigan	Kalamazoo	pcnt_park_access	41
+26079	Michigan	Kalkaska	pcnt_park_access	4
+26081	Michigan	Kent	pcnt_park_access	44
+26083	Michigan	Keweenaw	pcnt_park_access	9
+26085	Michigan	Lake	pcnt_park_access	
+26087	Michigan	Lapeer	pcnt_park_access	16
+26089	Michigan	Leelanau	pcnt_park_access	18
+26091	Michigan	Lenawee	pcnt_park_access	26
+26093	Michigan	Livingston	pcnt_park_access	14
+26095	Michigan	Luce	pcnt_park_access	2
+26097	Michigan	Mackinac	pcnt_park_access	16
+26099	Michigan	Macomb	pcnt_park_access	40
+26101	Michigan	Manistee	pcnt_park_access	24
+26103	Michigan	Marquette	pcnt_park_access	17
+26105	Michigan	Mason	pcnt_park_access	14
+26107	Michigan	Mecosta	pcnt_park_access	
+26109	Michigan	Menominee	pcnt_park_access	7
+26111	Michigan	Midland	pcnt_park_access	35
+26113	Michigan	Missaukee	pcnt_park_access	8
+26115	Michigan	Monroe	pcnt_park_access	23
+26117	Michigan	Montcalm	pcnt_park_access	7
+26119	Michigan	Montmorency	pcnt_park_access	5
+26121	Michigan	Muskegon	pcnt_park_access	34
+26123	Michigan	Newaygo	pcnt_park_access	12
+26125	Michigan	Oakland	pcnt_park_access	42
+26127	Michigan	Oceana	pcnt_park_access	10
+26129	Michigan	Ogemaw	pcnt_park_access	8
+26131	Michigan	Ontonagon	pcnt_park_access	2
+26133	Michigan	Osceola	pcnt_park_access	1
+26135	Michigan	Oscoda	pcnt_park_access	
+26137	Michigan	Otsego	pcnt_park_access	7
+26139	Michigan	Ottawa	pcnt_park_access	32
+26141	Michigan	Presque Isle	pcnt_park_access	2
+26143	Michigan	Roscommon	pcnt_park_access	3
+26145	Michigan	Saginaw	pcnt_park_access	19
+26147	Michigan	St. Clair	pcnt_park_access	30
+26149	Michigan	St. Joseph	pcnt_park_access	36
+26151	Michigan	Sanilac	pcnt_park_access	8
+26153	Michigan	Schoolcraft	pcnt_park_access	4
+26155	Michigan	Shiawassee	pcnt_park_access	25
+26157	Michigan	Tuscola	pcnt_park_access	
+26159	Michigan	Van Buren	pcnt_park_access	14
+26161	Michigan	Washtenaw	pcnt_park_access	51
+26163	Michigan	Wayne	pcnt_park_access	64
+26165	Michigan	Wexford	pcnt_park_access	12
+27001	Minnesota	Aitkin	pcnt_park_access	10
+27003	Minnesota	Anoka	pcnt_park_access	78
+27005	Minnesota	Becker	pcnt_park_access	12
+27007	Minnesota	Beltrami	pcnt_park_access	14
+27009	Minnesota	Benton	pcnt_park_access	19
+27011	Minnesota	Big Stone	pcnt_park_access	19
+27013	Minnesota	Blue Earth	pcnt_park_access	63
+27015	Minnesota	Brown	pcnt_park_access	64
+27017	Minnesota	Carlton	pcnt_park_access	25
+27019	Minnesota	Carver	pcnt_park_access	65
+27021	Minnesota	Cass	pcnt_park_access	2
+27023	Minnesota	Chippewa	pcnt_park_access	37
+27025	Minnesota	Chisago	pcnt_park_access	17
+27027	Minnesota	Clay	pcnt_park_access	62
+27029	Minnesota	Clearwater	pcnt_park_access	14
+27031	Minnesota	Cook	pcnt_park_access	10
+27033	Minnesota	Cottonwood	pcnt_park_access	39
+27035	Minnesota	Crow Wing	pcnt_park_access	12
+27037	Minnesota	Dakota	pcnt_park_access	86
+27039	Minnesota	Dodge	pcnt_park_access	5
+27041	Minnesota	Douglas	pcnt_park_access	17
+27043	Minnesota	Faribault	pcnt_park_access	43
+27045	Minnesota	Fillmore	pcnt_park_access	19
+27047	Minnesota	Freeborn	pcnt_park_access	57
+27049	Minnesota	Goodhue	pcnt_park_access	32
+27051	Minnesota	Grant	pcnt_park_access	16
+27053	Minnesota	Hennepin	pcnt_park_access	90
+27055	Minnesota	Houston	pcnt_park_access	41
+27057	Minnesota	Hubbard	pcnt_park_access	13
+27059	Minnesota	Isanti	pcnt_park_access	9
+27061	Minnesota	Itasca	pcnt_park_access	16
+27063	Minnesota	Jackson	pcnt_park_access	22
+27065	Minnesota	Kanabec	pcnt_park_access	
+27067	Minnesota	Kandiyohi	pcnt_park_access	19
+27069	Minnesota	Kittson	pcnt_park_access	25
+27071	Minnesota	Koochiching	pcnt_park_access	8
+27073	Minnesota	Lac qui Parle	pcnt_park_access	34
+27075	Minnesota	Lake	pcnt_park_access	27
+27077	Minnesota	Lake of the Woods	pcnt_park_access	16
+27079	Minnesota	Le Sueur	pcnt_park_access	19
+27081	Minnesota	Lincoln	pcnt_park_access	20
+27083	Minnesota	Lyon	pcnt_park_access	11
+27085	Minnesota	McLeod	pcnt_park_access	47
+27087	Minnesota	Mahnomen	pcnt_park_access	6
+27089	Minnesota	Marshall	pcnt_park_access	8
+27091	Minnesota	Martin	pcnt_park_access	51
+27093	Minnesota	Meeker	pcnt_park_access	26
+27095	Minnesota	Mille Lacs	pcnt_park_access	14
+27097	Minnesota	Morrison	pcnt_park_access	19
+27099	Minnesota	Mower	pcnt_park_access	52
+27101	Minnesota	Murray	pcnt_park_access	25
+27103	Minnesota	Nicollet	pcnt_park_access	47
+27105	Minnesota	Nobles	pcnt_park_access	44
+27107	Minnesota	Norman	pcnt_park_access	20
+27109	Minnesota	Olmsted	pcnt_park_access	62
+27111	Minnesota	Otter Tail	pcnt_park_access	25
+27113	Minnesota	Pennington	pcnt_park_access	26
+27115	Minnesota	Pine	pcnt_park_access	21
+27117	Minnesota	Pipestone	pcnt_park_access	37
+27119	Minnesota	Polk	pcnt_park_access	37
+27121	Minnesota	Pope	pcnt_park_access	21
+27123	Minnesota	Ramsey	pcnt_park_access	89
+27125	Minnesota	Red Lake	pcnt_park_access	1
+27127	Minnesota	Redwood	pcnt_park_access	42
+27129	Minnesota	Renville	pcnt_park_access	49
+27131	Minnesota	Rice	pcnt_park_access	30
+27133	Minnesota	Rock	pcnt_park_access	39
+27135	Minnesota	Roseau	pcnt_park_access	7
+27137	Minnesota	St. Louis	pcnt_park_access	52
+27139	Minnesota	Scott	pcnt_park_access	57
+27141	Minnesota	Sherburne	pcnt_park_access	45
+27143	Minnesota	Sibley	pcnt_park_access	32
+27145	Minnesota	Stearns	pcnt_park_access	46
+27147	Minnesota	Steele	pcnt_park_access	36
+27149	Minnesota	Stevens	pcnt_park_access	23
+27151	Minnesota	Swift	pcnt_park_access	50
+27153	Minnesota	Todd	pcnt_park_access	8
+27155	Minnesota	Traverse	pcnt_park_access	39
+27157	Minnesota	Wabasha	pcnt_park_access	36
+27159	Minnesota	Wadena	pcnt_park_access	4
+27161	Minnesota	Waseca	pcnt_park_access	48
+27163	Minnesota	Washington	pcnt_park_access	62
+27165	Minnesota	Watonwan	pcnt_park_access	48
+27167	Minnesota	Wilkin	pcnt_park_access	23
+27169	Minnesota	Winona	pcnt_park_access	40
+27171	Minnesota	Wright	pcnt_park_access	28
+27173	Minnesota	Yellow Medicine	pcnt_park_access	24
+28001	Mississippi	Adams	pcnt_park_access	5
+28003	Mississippi	Alcorn	pcnt_park_access	11
+28005	Mississippi	Amite	pcnt_park_access	
+28007	Mississippi	Attala	pcnt_park_access	8
+28009	Mississippi	Benton	pcnt_park_access	
+28011	Mississippi	Bolivar	pcnt_park_access	17
+28013	Mississippi	Calhoun	pcnt_park_access	
+28015	Mississippi	Carroll	pcnt_park_access	
+28017	Mississippi	Chickasaw	pcnt_park_access	11
+28019	Mississippi	Choctaw	pcnt_park_access	
+28021	Mississippi	Claiborne	pcnt_park_access	
+28023	Mississippi	Clarke	pcnt_park_access	11
+28025	Mississippi	Clay	pcnt_park_access	29
+28027	Mississippi	Coahoma	pcnt_park_access	28
+28029	Mississippi	Copiah	pcnt_park_access	
+28031	Mississippi	Covington	pcnt_park_access	6
+28033	Mississippi	DeSoto	pcnt_park_access	18
+28035	Mississippi	Forrest	pcnt_park_access	12
+28037	Mississippi	Franklin	pcnt_park_access	6
+28039	Mississippi	George	pcnt_park_access	5
+28041	Mississippi	Greene	pcnt_park_access	
+28043	Mississippi	Grenada	pcnt_park_access	25
+28045	Mississippi	Hancock	pcnt_park_access	2
+28047	Mississippi	Harrison	pcnt_park_access	15
+28049	Mississippi	Hinds	pcnt_park_access	17
+28051	Mississippi	Holmes	pcnt_park_access	
+28053	Mississippi	Humphreys	pcnt_park_access	35
+28055	Mississippi	Issaquena	pcnt_park_access	
+28057	Mississippi	Itawamba	pcnt_park_access	
+28059	Mississippi	Jackson	pcnt_park_access	13
+28061	Mississippi	Jasper	pcnt_park_access	
+28063	Mississippi	Jefferson	pcnt_park_access	
+28065	Mississippi	Jefferson Davis	pcnt_park_access	
+28067	Mississippi	Jones	pcnt_park_access	12
+28069	Mississippi	Kemper	pcnt_park_access	
+28071	Mississippi	Lafayette	pcnt_park_access	9
+28073	Mississippi	Lamar	pcnt_park_access	5
+28075	Mississippi	Lauderdale	pcnt_park_access	10
+28077	Mississippi	Lawrence	pcnt_park_access	
+28079	Mississippi	Leake	pcnt_park_access	11
+28081	Mississippi	Lee	pcnt_park_access	11
+28083	Mississippi	Leflore	pcnt_park_access	46
+28085	Mississippi	Lincoln	pcnt_park_access	6
+28087	Mississippi	Lowndes	pcnt_park_access	5
+28089	Mississippi	Madison	pcnt_park_access	13
+28091	Mississippi	Marion	pcnt_park_access	7
+28093	Mississippi	Marshall	pcnt_park_access	
+28095	Mississippi	Monroe	pcnt_park_access	5
+28097	Mississippi	Montgomery	pcnt_park_access	6
+28099	Mississippi	Neshoba	pcnt_park_access	7
+28101	Mississippi	Newton	pcnt_park_access	4
+28103	Mississippi	Noxubee	pcnt_park_access	
+28105	Mississippi	Oktibbeha	pcnt_park_access	14
+28107	Mississippi	Panola	pcnt_park_access	13
+28109	Mississippi	Pearl River	pcnt_park_access	1
+28111	Mississippi	Perry	pcnt_park_access	
+28113	Mississippi	Pike	pcnt_park_access	14
+28115	Mississippi	Pontotoc	pcnt_park_access	4
+28117	Mississippi	Prentiss	pcnt_park_access	13
+28119	Mississippi	Quitman	pcnt_park_access	9
+28121	Mississippi	Rankin	pcnt_park_access	2
+28123	Mississippi	Scott	pcnt_park_access	3
+28125	Mississippi	Sharkey	pcnt_park_access	1
+28127	Mississippi	Simpson	pcnt_park_access	9
+28129	Mississippi	Smith	pcnt_park_access	
+28131	Mississippi	Stone	pcnt_park_access	1
+28133	Mississippi	Sunflower	pcnt_park_access	14
+28135	Mississippi	Tallahatchie	pcnt_park_access	
+28137	Mississippi	Tate	pcnt_park_access	7
+28139	Mississippi	Tippah	pcnt_park_access	2
+28141	Mississippi	Tishomingo	pcnt_park_access	6
+28143	Mississippi	Tunica	pcnt_park_access	9
+28145	Mississippi	Union	pcnt_park_access	6
+28147	Mississippi	Walthall	pcnt_park_access	4
+28149	Mississippi	Warren	pcnt_park_access	13
+28151	Mississippi	Washington	pcnt_park_access	42
+28153	Mississippi	Wayne	pcnt_park_access	
+28155	Mississippi	Webster	pcnt_park_access	
+28157	Mississippi	Wilkinson	pcnt_park_access	
+28159	Mississippi	Winston	pcnt_park_access	2
+28161	Mississippi	Yalobusha	pcnt_park_access	9
+28163	Mississippi	Yazoo	pcnt_park_access	30
+29001	Missouri	Adair	pcnt_park_access	44
+29003	Missouri	Andrew	pcnt_park_access	12
+29005	Missouri	Atchison	pcnt_park_access	53
+29007	Missouri	Audrain	pcnt_park_access	37
+29009	Missouri	Barry	pcnt_park_access	8
+29011	Missouri	Barton	pcnt_park_access	13
+29013	Missouri	Bates	pcnt_park_access	24
+29015	Missouri	Benton	pcnt_park_access	5
+29017	Missouri	Bollinger	pcnt_park_access	5
+29019	Missouri	Boone	pcnt_park_access	48
+29021	Missouri	Buchanan	pcnt_park_access	40
+29023	Missouri	Butler	pcnt_park_access	16
+29025	Missouri	Caldwell	pcnt_park_access	17
+29027	Missouri	Callaway	pcnt_park_access	15
+29029	Missouri	Camden	pcnt_park_access	6
+29031	Missouri	Cape Girardeau	pcnt_park_access	32
+29033	Missouri	Carroll	pcnt_park_access	
+29035	Missouri	Carter	pcnt_park_access	10
+29037	Missouri	Cass	pcnt_park_access	18
+29039	Missouri	Cedar	pcnt_park_access	2
+29041	Missouri	Chariton	pcnt_park_access	
+29043	Missouri	Christian	pcnt_park_access	3
+29045	Missouri	Clark	pcnt_park_access	
+29047	Missouri	Clay	pcnt_park_access	33
+29049	Missouri	Clinton	pcnt_park_access	32
+29051	Missouri	Cole	pcnt_park_access	20
+29053	Missouri	Cooper	pcnt_park_access	6
+29055	Missouri	Crawford	pcnt_park_access	8
+29057	Missouri	Dade	pcnt_park_access	13
+29059	Missouri	Dallas	pcnt_park_access	4
+29061	Missouri	Daviess	pcnt_park_access	27
+29063	Missouri	DeKalb	pcnt_park_access	5
+29065	Missouri	Dent	pcnt_park_access	10
+29067	Missouri	Douglas	pcnt_park_access	
+29069	Missouri	Dunklin	pcnt_park_access	34
+29071	Missouri	Franklin	pcnt_park_access	17
+29073	Missouri	Gasconade	pcnt_park_access	34
+29075	Missouri	Gentry	pcnt_park_access	7
+29077	Missouri	Greene	pcnt_park_access	28
+29079	Missouri	Grundy	pcnt_park_access	21
+29081	Missouri	Harrison	pcnt_park_access	14
+29083	Missouri	Henry	pcnt_park_access	7
+29085	Missouri	Hickory	pcnt_park_access	11
+29087	Missouri	Holt	pcnt_park_access	31
+29089	Missouri	Howard	pcnt_park_access	24
+29091	Missouri	Howell	pcnt_park_access	11
+29093	Missouri	Iron	pcnt_park_access	7
+29095	Missouri	Jackson	pcnt_park_access	59
+29097	Missouri	Jasper	pcnt_park_access	23
+29099	Missouri	Jefferson	pcnt_park_access	17
+29101	Missouri	Johnson	pcnt_park_access	19
+29103	Missouri	Knox	pcnt_park_access	7
+29105	Missouri	Laclede	pcnt_park_access	13
+29107	Missouri	Lafayette	pcnt_park_access	13
+29109	Missouri	Lawrence	pcnt_park_access	19
+29111	Missouri	Lewis	pcnt_park_access	7
+29113	Missouri	Lincoln	pcnt_park_access	12
+29115	Missouri	Linn	pcnt_park_access	24
+29117	Missouri	Livingston	pcnt_park_access	32
+29119	Missouri	McDonald	pcnt_park_access	3
+29121	Missouri	Macon	pcnt_park_access	21
+29123	Missouri	Madison	pcnt_park_access	20
+29125	Missouri	Maries	pcnt_park_access	7
+29127	Missouri	Marion	pcnt_park_access	24
+29129	Missouri	Mercer	pcnt_park_access	1
+29131	Missouri	Miller	pcnt_park_access	10
+29133	Missouri	Mississippi	pcnt_park_access	27
+29135	Missouri	Moniteau	pcnt_park_access	2
+29137	Missouri	Monroe	pcnt_park_access	19
+29139	Missouri	Montgomery	pcnt_park_access	20
+29141	Missouri	Morgan	pcnt_park_access	5
+29143	Missouri	New Madrid	pcnt_park_access	14
+29145	Missouri	Newton	pcnt_park_access	9
+29147	Missouri	Nodaway	pcnt_park_access	53
+29149	Missouri	Oregon	pcnt_park_access	9
+29151	Missouri	Osage	pcnt_park_access	3
+29153	Missouri	Ozark	pcnt_park_access	
+29155	Missouri	Pemiscot	pcnt_park_access	23
+29157	Missouri	Perry	pcnt_park_access	21
+29159	Missouri	Pettis	pcnt_park_access	33
+29161	Missouri	Phelps	pcnt_park_access	32
+29163	Missouri	Pike	pcnt_park_access	21
+29165	Missouri	Platte	pcnt_park_access	22
+29167	Missouri	Polk	pcnt_park_access	3
+29169	Missouri	Pulaski	pcnt_park_access	2
+29171	Missouri	Putnam	pcnt_park_access	
+29173	Missouri	Ralls	pcnt_park_access	8
+29175	Missouri	Randolph	pcnt_park_access	9
+29177	Missouri	Ray	pcnt_park_access	26
+29179	Missouri	Reynolds	pcnt_park_access	4
+29181	Missouri	Ripley	pcnt_park_access	
+29183	Missouri	St. Charles	pcnt_park_access	30
+29185	Missouri	St. Clair	pcnt_park_access	1
+29186	Missouri	Ste. Genevieve	pcnt_park_access	4
+29187	Missouri	St. Francois	pcnt_park_access	17
+29189	Missouri	St. Louis	pcnt_park_access	48
+29195	Missouri	Saline	pcnt_park_access	12
+29197	Missouri	Schuyler	pcnt_park_access	19
+29199	Missouri	Scotland	pcnt_park_access	28
+29201	Missouri	Scott	pcnt_park_access	13
+29203	Missouri	Shannon	pcnt_park_access	5
+29205	Missouri	Shelby	pcnt_park_access	1
+29207	Missouri	Stoddard	pcnt_park_access	21
+29209	Missouri	Stone	pcnt_park_access	5
+29211	Missouri	Sullivan	pcnt_park_access	21
+29213	Missouri	Taney	pcnt_park_access	18
+29215	Missouri	Texas	pcnt_park_access	1
+29217	Missouri	Vernon	pcnt_park_access	23
+29219	Missouri	Warren	pcnt_park_access	9
+29221	Missouri	Washington	pcnt_park_access	2
+29223	Missouri	Wayne	pcnt_park_access	5
+29225	Missouri	Webster	pcnt_park_access	14
+29227	Missouri	Worth	pcnt_park_access	9
+29229	Missouri	Wright	pcnt_park_access	10
+29510	Missouri	St. Louis City	pcnt_park_access	80
+30001	Montana	Beaverhead	pcnt_park_access	
+30003	Montana	Big Horn	pcnt_park_access	35
+30005	Montana	Blaine	pcnt_park_access	
+30007	Montana	Broadwater	pcnt_park_access	26
+30009	Montana	Carbon	pcnt_park_access	5
+30011	Montana	Carter	pcnt_park_access	26
+30013	Montana	Cascade	pcnt_park_access	72
+30015	Montana	Chouteau	pcnt_park_access	15
+30017	Montana	Custer	pcnt_park_access	49
+30019	Montana	Daniels	pcnt_park_access	56
+30021	Montana	Dawson	pcnt_park_access	49
+30023	Montana	Deer Lodge	pcnt_park_access	36
+30025	Montana	Fallon	pcnt_park_access	44
+30027	Montana	Fergus	pcnt_park_access	41
+30029	Montana	Flathead	pcnt_park_access	19
+30031	Montana	Gallatin	pcnt_park_access	37
+30033	Montana	Garfield	pcnt_park_access	29
+30035	Montana	Glacier	pcnt_park_access	1
+30037	Montana	Golden Valley	pcnt_park_access	
+30039	Montana	Granite	pcnt_park_access	16
+30041	Montana	Hill	pcnt_park_access	39
+30043	Montana	Jefferson	pcnt_park_access	
+30045	Montana	Judith Basin	pcnt_park_access	12
+30047	Montana	Lake	pcnt_park_access	6
+30049	Montana	Lewis and Clark	pcnt_park_access	38
+30051	Montana	Liberty	pcnt_park_access	
+30053	Montana	Lincoln	pcnt_park_access	7
+30055	Montana	McCone	pcnt_park_access	28
+30057	Montana	Madison	pcnt_park_access	5
+30059	Montana	Meagher	pcnt_park_access	45
+30061	Montana	Mineral	pcnt_park_access	25
+30063	Montana	Missoula	pcnt_park_access	39
+30065	Montana	Musselshell	pcnt_park_access	31
+30067	Montana	Park	pcnt_park_access	20
+30069	Montana	Petroleum	pcnt_park_access	
+30071	Montana	Phillips	pcnt_park_access	33
+30073	Montana	Pondera	pcnt_park_access	28
+30075	Montana	Powder River	pcnt_park_access	29
+30077	Montana	Powell	pcnt_park_access	34
+30079	Montana	Prairie	pcnt_park_access	47
+30081	Montana	Ravalli	pcnt_park_access	2
+30083	Montana	Richland	pcnt_park_access	45
+30085	Montana	Roosevelt	pcnt_park_access	24
+30087	Montana	Rosebud	pcnt_park_access	10
+30089	Montana	Sanders	pcnt_park_access	8
+30091	Montana	Sheridan	pcnt_park_access	36
+30093	Montana	Silver Bow	pcnt_park_access	50
+30095	Montana	Stillwater	pcnt_park_access	17
+30097	Montana	Sweet Grass	pcnt_park_access	2
+30099	Montana	Teton	pcnt_park_access	20
+30101	Montana	Toole	pcnt_park_access	56
+30103	Montana	Treasure	pcnt_park_access	
+30105	Montana	Valley	pcnt_park_access	12
+30107	Montana	Wheatland	pcnt_park_access	46
+30109	Montana	Wibaux	pcnt_park_access	
+30111	Montana	Yellowstone	pcnt_park_access	64
+31001	Nebraska	Adams	pcnt_park_access	65
+31003	Nebraska	Antelope	pcnt_park_access	30
+31005	Nebraska	Arthur	pcnt_park_access	
+31007	Nebraska	Banner	pcnt_park_access	1
+31009	Nebraska	Blaine	pcnt_park_access	
+31011	Nebraska	Boone	pcnt_park_access	6
+31013	Nebraska	Box Butte	pcnt_park_access	
+31015	Nebraska	Boyd	pcnt_park_access	
+31017	Nebraska	Brown	pcnt_park_access	25
+31019	Nebraska	Buffalo	pcnt_park_access	38
+31021	Nebraska	Burt	pcnt_park_access	24
+31023	Nebraska	Butler	pcnt_park_access	11
+31025	Nebraska	Cass	pcnt_park_access	23
+31027	Nebraska	Cedar	pcnt_park_access	33
+31029	Nebraska	Chase	pcnt_park_access	56
+31031	Nebraska	Cherry	pcnt_park_access	
+31033	Nebraska	Cheyenne	pcnt_park_access	30
+31035	Nebraska	Clay	pcnt_park_access	40
+31037	Nebraska	Colfax	pcnt_park_access	14
+31039	Nebraska	Cuming	pcnt_park_access	21
+31041	Nebraska	Custer	pcnt_park_access	20
+31043	Nebraska	Dakota	pcnt_park_access	77
+31045	Nebraska	Dawes	pcnt_park_access	58
+31047	Nebraska	Dawson	pcnt_park_access	65
+31049	Nebraska	Deuel	pcnt_park_access	25
+31051	Nebraska	Dixon	pcnt_park_access	26
+31053	Nebraska	Dodge	pcnt_park_access	78
+31055	Nebraska	Douglas	pcnt_park_access	70
+31057	Nebraska	Dundy	pcnt_park_access	4
+31059	Nebraska	Fillmore	pcnt_park_access	40
+31061	Nebraska	Franklin	pcnt_park_access	25
+31063	Nebraska	Frontier	pcnt_park_access	14
+31065	Nebraska	Furnas	pcnt_park_access	38
+31067	Nebraska	Gage	pcnt_park_access	21
+31069	Nebraska	Garden	pcnt_park_access	
+31071	Nebraska	Garfield	pcnt_park_access	29
+31073	Nebraska	Gosper	pcnt_park_access	13
+31075	Nebraska	Grant	pcnt_park_access	
+31077	Nebraska	Greeley	pcnt_park_access	20
+31079	Nebraska	Hall	pcnt_park_access	63
+31081	Nebraska	Hamilton	pcnt_park_access	33
+31083	Nebraska	Harlan	pcnt_park_access	26
+31085	Nebraska	Hayes	pcnt_park_access	2
+31087	Nebraska	Hitchcock	pcnt_park_access	23
+31089	Nebraska	Holt	pcnt_park_access	3
+31091	Nebraska	Hooker	pcnt_park_access	
+31093	Nebraska	Howard	pcnt_park_access	
+31095	Nebraska	Jefferson	pcnt_park_access	43
+31097	Nebraska	Johnson	pcnt_park_access	
+31099	Nebraska	Kearney	pcnt_park_access	44
+31101	Nebraska	Keith	pcnt_park_access	40
+31103	Nebraska	Keya Paha	pcnt_park_access	1
+31105	Nebraska	Kimball	pcnt_park_access	66
+31107	Nebraska	Knox	pcnt_park_access	28
+31109	Nebraska	Lancaster	pcnt_park_access	67
+31111	Nebraska	Lincoln	pcnt_park_access	46
+31113	Nebraska	Logan	pcnt_park_access	41
+31115	Nebraska	Loup	pcnt_park_access	1
+31117	Nebraska	McPherson	pcnt_park_access	
+31119	Nebraska	Madison	pcnt_park_access	37
+31121	Nebraska	Merrick	pcnt_park_access	35
+31123	Nebraska	Morrill	pcnt_park_access	11
+31125	Nebraska	Nance	pcnt_park_access	19
+31127	Nebraska	Nemaha	pcnt_park_access	33
+31129	Nebraska	Nuckolls	pcnt_park_access	42
+31131	Nebraska	Otoe	pcnt_park_access	44
+31133	Nebraska	Pawnee	pcnt_park_access	44
+31135	Nebraska	Perkins	pcnt_park_access	44
+31137	Nebraska	Phelps	pcnt_park_access	21
+31139	Nebraska	Pierce	pcnt_park_access	34
+31141	Nebraska	Platte	pcnt_park_access	19
+31143	Nebraska	Polk	pcnt_park_access	18
+31145	Nebraska	Red Willow	pcnt_park_access	53
+31147	Nebraska	Richardson	pcnt_park_access	56
+31149	Nebraska	Rock	pcnt_park_access	
+31151	Nebraska	Saline	pcnt_park_access	4
+31153	Nebraska	Sarpy	pcnt_park_access	36
+31155	Nebraska	Saunders	pcnt_park_access	24
+31157	Nebraska	Scotts Bluff	pcnt_park_access	4
+31159	Nebraska	Seward	pcnt_park_access	11
+31161	Nebraska	Sheridan	pcnt_park_access	49
+31163	Nebraska	Sherman	pcnt_park_access	41
+31165	Nebraska	Sioux	pcnt_park_access	21
+31167	Nebraska	Stanton	pcnt_park_access	28
+31169	Nebraska	Thayer	pcnt_park_access	25
+31171	Nebraska	Thomas	pcnt_park_access	6
+31173	Nebraska	Thurston	pcnt_park_access	2
+31175	Nebraska	Valley	pcnt_park_access	40
+31177	Nebraska	Washington	pcnt_park_access	18
+31179	Nebraska	Wayne	pcnt_park_access	49
+31181	Nebraska	Webster	pcnt_park_access	48
+31183	Nebraska	Wheeler	pcnt_park_access	1
+31185	Nebraska	York	pcnt_park_access	49
+32001	Nevada	Churchill	pcnt_park_access	24
+32003	Nevada	Clark	pcnt_park_access	40
+32005	Nevada	Douglas	pcnt_park_access	26
+32007	Nevada	Elko	pcnt_park_access	8
+32009	Nevada	Esmeralda	pcnt_park_access	5
+32011	Nevada	Eureka	pcnt_park_access	6
+32013	Nevada	Humboldt	pcnt_park_access	5
+32015	Nevada	Lander	pcnt_park_access	22
+32017	Nevada	Lincoln	pcnt_park_access	16
+32019	Nevada	Lyon	pcnt_park_access	15
+32021	Nevada	Mineral	pcnt_park_access	50
+32023	Nevada	Nye	pcnt_park_access	2
+32027	Nevada	Pershing	pcnt_park_access	
+32029	Nevada	Storey	pcnt_park_access	19
+32031	Nevada	Washoe	pcnt_park_access	47
+32033	Nevada	White Pine	pcnt_park_access	
+32510	Nevada	Carson City	pcnt_park_access	51
+33001	New Hampshire	Belknap	pcnt_park_access	14
+33003	New Hampshire	Carroll	pcnt_park_access	2
+33005	New Hampshire	Cheshire	pcnt_park_access	23
+33007	New Hampshire	Coos	pcnt_park_access	3
+33009	New Hampshire	Grafton	pcnt_park_access	7
+33011	New Hampshire	Hillsborough	pcnt_park_access	34
+33013	New Hampshire	Merrimack	pcnt_park_access	15
+33015	New Hampshire	Rockingham	pcnt_park_access	7
+33017	New Hampshire	Strafford	pcnt_park_access	5
+33019	New Hampshire	Sullivan	pcnt_park_access	13
+34001	New Jersey	Atlantic	pcnt_park_access	36
+34003	New Jersey	Bergen	pcnt_park_access	51
+34005	New Jersey	Burlington	pcnt_park_access	22
+34007	New Jersey	Camden	pcnt_park_access	47
+34009	New Jersey	Cape May	pcnt_park_access	38
+34011	New Jersey	Cumberland	pcnt_park_access	18
+34013	New Jersey	Essex	pcnt_park_access	69
+34015	New Jersey	Gloucester	pcnt_park_access	20
+34017	New Jersey	Hudson	pcnt_park_access	78
+34019	New Jersey	Hunterdon	pcnt_park_access	20
+34021	New Jersey	Mercer	pcnt_park_access	43
+34023	New Jersey	Middlesex	pcnt_park_access	49
+34025	New Jersey	Monmouth	pcnt_park_access	30
+34027	New Jersey	Morris	pcnt_park_access	32
+34029	New Jersey	Ocean	pcnt_park_access	24
+34031	New Jersey	Passaic	pcnt_park_access	61
+34033	New Jersey	Salem	pcnt_park_access	10
+34035	New Jersey	Somerset	pcnt_park_access	25
+34037	New Jersey	Sussex	pcnt_park_access	18
+34039	New Jersey	Union	pcnt_park_access	76
+34041	New Jersey	Warren	pcnt_park_access	11
+35001	New Mexico	Bernalillo	pcnt_park_access	70
+35003	New Mexico	Catron	pcnt_park_access	1
+35005	New Mexico	Chaves	pcnt_park_access	35
+35006	New Mexico	Cibola	pcnt_park_access	10
+35007	New Mexico	Colfax	pcnt_park_access	40
+35009	New Mexico	Curry	pcnt_park_access	34
+35011	New Mexico	De Baca	pcnt_park_access	8
+35013	New Mexico	Dona Ana	pcnt_park_access	9
+35015	New Mexico	Eddy	pcnt_park_access	38
+35017	New Mexico	Grant	pcnt_park_access	8
+35019	New Mexico	Guadalupe	pcnt_park_access	5
+35021	New Mexico	Harding	pcnt_park_access	
+35023	New Mexico	Hidalgo	pcnt_park_access	14
+35025	New Mexico	Lea	pcnt_park_access	24
+35027	New Mexico	Lincoln	pcnt_park_access	6
+35028	New Mexico	Los Alamos	pcnt_park_access	82
+35029	New Mexico	Luna	pcnt_park_access	4
+35031	New Mexico	McKinley	pcnt_park_access	9
+35033	New Mexico	Mora	pcnt_park_access	
+35035	New Mexico	Otero	pcnt_park_access	19
+35037	New Mexico	Quay	pcnt_park_access	30
+35039	New Mexico	Rio Arriba	pcnt_park_access	
+35041	New Mexico	Roosevelt	pcnt_park_access	20
+35043	New Mexico	Sandoval	pcnt_park_access	36
+35045	New Mexico	San Juan	pcnt_park_access	10
+35047	New Mexico	San Miguel	pcnt_park_access	38
+35049	New Mexico	Santa Fe	pcnt_park_access	41
+35051	New Mexico	Sierra	pcnt_park_access	32
+35053	New Mexico	Socorro	pcnt_park_access	
+35055	New Mexico	Taos	pcnt_park_access	11
+35057	New Mexico	Torrance	pcnt_park_access	5
+35059	New Mexico	Union	pcnt_park_access	36
+35061	New Mexico	Valencia	pcnt_park_access	15
+36001	New York	Albany	pcnt_park_access	42
+36003	New York	Allegany	pcnt_park_access	9
+36005	New York	Bronx	pcnt_park_access	77
+36007	New York	Broome	pcnt_park_access	46
+36009	New York	Cattaraugus	pcnt_park_access	23
+36011	New York	Cayuga	pcnt_park_access	28
+36013	New York	Chautauqua	pcnt_park_access	39
+36015	New York	Chemung	pcnt_park_access	15
+36017	New York	Chenango	pcnt_park_access	
+36019	New York	Clinton	pcnt_park_access	31
+36021	New York	Columbia	pcnt_park_access	8
+36023	New York	Cortland	pcnt_park_access	26
+36025	New York	Delaware	pcnt_park_access	13
+36027	New York	Dutchess	pcnt_park_access	37
+36029	New York	Erie	pcnt_park_access	51
+36031	New York	Essex	pcnt_park_access	100
+36033	New York	Franklin	pcnt_park_access	35
+36035	New York	Fulton	pcnt_park_access	47
+36037	New York	Genesee	pcnt_park_access	28
+36039	New York	Greene	pcnt_park_access	6
+36041	New York	Hamilton	pcnt_park_access	100
+36043	New York	Herkimer	pcnt_park_access	31
+36045	New York	Jefferson	pcnt_park_access	20
+36047	New York	Kings	pcnt_park_access	61
+36049	New York	Lewis	pcnt_park_access	6
+36051	New York	Livingston	pcnt_park_access	11
+36053	New York	Madison	pcnt_park_access	29
+36055	New York	Monroe	pcnt_park_access	43
+36057	New York	Montgomery	pcnt_park_access	23
+36059	New York	Nassau	pcnt_park_access	54
+36061	New York	New York	pcnt_park_access	97
+36063	New York	Niagara	pcnt_park_access	47
+36065	New York	Oneida	pcnt_park_access	36
+36067	New York	Onondaga	pcnt_park_access	49
+36069	New York	Ontario	pcnt_park_access	8
+36071	New York	Orange	pcnt_park_access	34
+36073	New York	Orleans	pcnt_park_access	17
+36075	New York	Oswego	pcnt_park_access	7
+36077	New York	Otsego	pcnt_park_access	23
+36079	New York	Putnam	pcnt_park_access	15
+36081	New York	Queens	pcnt_park_access	50
+36083	New York	Rensselaer	pcnt_park_access	22
+36085	New York	Richmond	pcnt_park_access	74
+36087	New York	Rockland	pcnt_park_access	35
+36089	New York	St. Lawrence	pcnt_park_access	19
+36091	New York	Saratoga	pcnt_park_access	28
+36093	New York	Schenectady	pcnt_park_access	42
+36095	New York	Schoharie	pcnt_park_access	7
+36097	New York	Schuyler	pcnt_park_access	9
+36099	New York	Seneca	pcnt_park_access	12
+36101	New York	Steuben	pcnt_park_access	7
+36103	New York	Suffolk	pcnt_park_access	37
+36105	New York	Sullivan	pcnt_park_access	5
+36107	New York	Tioga	pcnt_park_access	7
+36109	New York	Tompkins	pcnt_park_access	30
+36111	New York	Ulster	pcnt_park_access	16
+36113	New York	Warren	pcnt_park_access	56
+36115	New York	Washington	pcnt_park_access	14
+36117	New York	Wayne	pcnt_park_access	18
+36119	New York	Westchester	pcnt_park_access	64
+36121	New York	Wyoming	pcnt_park_access	11
+36123	New York	Yates	pcnt_park_access	6
+37001	North Carolina	Alamance	pcnt_park_access	5
+37003	North Carolina	Alexander	pcnt_park_access	3
+37005	North Carolina	Alleghany	pcnt_park_access	1
+37007	North Carolina	Anson	pcnt_park_access	2
+37009	North Carolina	Ashe	pcnt_park_access	3
+37011	North Carolina	Avery	pcnt_park_access	2
+37013	North Carolina	Beaufort	pcnt_park_access	4
+37015	North Carolina	Bertie	pcnt_park_access	7
+37017	North Carolina	Bladen	pcnt_park_access	1
+37019	North Carolina	Brunswick	pcnt_park_access	8
+37021	North Carolina	Buncombe	pcnt_park_access	14
+37023	North Carolina	Burke	pcnt_park_access	2
+37025	North Carolina	Cabarrus	pcnt_park_access	6
+37027	North Carolina	Caldwell	pcnt_park_access	4
+37029	North Carolina	Camden	pcnt_park_access	4
+37031	North Carolina	Carteret	pcnt_park_access	8
+37033	North Carolina	Caswell	pcnt_park_access	
+37035	North Carolina	Catawba	pcnt_park_access	15
+37037	North Carolina	Chatham	pcnt_park_access	4
+37039	North Carolina	Cherokee	pcnt_park_access	1
+37041	North Carolina	Chowan	pcnt_park_access	3
+37043	North Carolina	Clay	pcnt_park_access	
+37045	North Carolina	Cleveland	pcnt_park_access	8
+37047	North Carolina	Columbus	pcnt_park_access	3
+37049	North Carolina	Craven	pcnt_park_access	1
+37051	North Carolina	Cumberland	pcnt_park_access	1
+37053	North Carolina	Currituck	pcnt_park_access	11
+37055	North Carolina	Dare	pcnt_park_access	43
+37057	North Carolina	Davidson	pcnt_park_access	6
+37059	North Carolina	Davie	pcnt_park_access	3
+37061	North Carolina	Duplin	pcnt_park_access	3
+37063	North Carolina	Durham	pcnt_park_access	38
+37065	North Carolina	Edgecombe	pcnt_park_access	11
+37067	North Carolina	Forsyth	pcnt_park_access	32
+37069	North Carolina	Franklin	pcnt_park_access	1
+37071	North Carolina	Gaston	pcnt_park_access	15
+37073	North Carolina	Gates	pcnt_park_access	2
+37075	North Carolina	Graham	pcnt_park_access	4
+37077	North Carolina	Granville	pcnt_park_access	10
+37079	North Carolina	Greene	pcnt_park_access	1
+37081	North Carolina	Guilford	pcnt_park_access	41
+37083	North Carolina	Halifax	pcnt_park_access	8
+37085	North Carolina	Harnett	pcnt_park_access	3
+37087	North Carolina	Haywood	pcnt_park_access	2
+37089	North Carolina	Henderson	pcnt_park_access	12
+37091	North Carolina	Hertford	pcnt_park_access	
+37093	North Carolina	Hoke	pcnt_park_access	
+37095	North Carolina	Hyde	pcnt_park_access	16
+37097	North Carolina	Iredell	pcnt_park_access	6
+37099	North Carolina	Jackson	pcnt_park_access	
+37101	North Carolina	Johnston	pcnt_park_access	2
+37103	North Carolina	Jones	pcnt_park_access	
+37105	North Carolina	Lee	pcnt_park_access	13
+37107	North Carolina	Lenoir	pcnt_park_access	3
+37109	North Carolina	Lincoln	pcnt_park_access	1
+37111	North Carolina	McDowell	pcnt_park_access	4
+37113	North Carolina	Macon	pcnt_park_access	
+37115	North Carolina	Madison	pcnt_park_access	6
+37117	North Carolina	Martin	pcnt_park_access	6
+37119	North Carolina	Mecklenburg	pcnt_park_access	23
+37121	North Carolina	Mitchell	pcnt_park_access	2
+37123	North Carolina	Montgomery	pcnt_park_access	2
+37125	North Carolina	Moore	pcnt_park_access	2
+37127	North Carolina	Nash	pcnt_park_access	4
+37129	North Carolina	New Hanover	pcnt_park_access	17
+37131	North Carolina	Northampton	pcnt_park_access	2
+37133	North Carolina	Onslow	pcnt_park_access	2
+37135	North Carolina	Orange	pcnt_park_access	22
+37137	North Carolina	Pamlico	pcnt_park_access	3
+37139	North Carolina	Pasquotank	pcnt_park_access	11
+37141	North Carolina	Pender	pcnt_park_access	3
+37143	North Carolina	Perquimans	pcnt_park_access	
+37145	North Carolina	Person	pcnt_park_access	3
+37147	North Carolina	Pitt	pcnt_park_access	22
+37149	North Carolina	Polk	pcnt_park_access	3
+37151	North Carolina	Randolph	pcnt_park_access	9
+37153	North Carolina	Richmond	pcnt_park_access	14
+37155	North Carolina	Robeson	pcnt_park_access	2
+37157	North Carolina	Rockingham	pcnt_park_access	2
+37159	North Carolina	Rowan	pcnt_park_access	5
+37161	North Carolina	Rutherford	pcnt_park_access	
+37163	North Carolina	Sampson	pcnt_park_access	
+37165	North Carolina	Scotland	pcnt_park_access	12
+37167	North Carolina	Stanly	pcnt_park_access	6
+37169	North Carolina	Stokes	pcnt_park_access	1
+37171	North Carolina	Surry	pcnt_park_access	5
+37173	North Carolina	Swain	pcnt_park_access	15
+37175	North Carolina	Transylvania	pcnt_park_access	1
+37177	North Carolina	Tyrrell	pcnt_park_access	
+37179	North Carolina	Union	pcnt_park_access	6
+37181	North Carolina	Vance	pcnt_park_access	14
+37183	North Carolina	Wake	pcnt_park_access	23
+37185	North Carolina	Warren	pcnt_park_access	1
+37187	North Carolina	Washington	pcnt_park_access	2
+37189	North Carolina	Watauga	pcnt_park_access	4
+37191	North Carolina	Wayne	pcnt_park_access	10
+37193	North Carolina	Wilkes	pcnt_park_access	3
+37195	North Carolina	Wilson	pcnt_park_access	4
+37197	North Carolina	Yadkin	pcnt_park_access	
+37199	North Carolina	Yancey	pcnt_park_access	1
+38001	North Dakota	Adams	pcnt_park_access	29
+38003	North Dakota	Barnes	pcnt_park_access	32
+38005	North Dakota	Benson	pcnt_park_access	6
+38007	North Dakota	Billings	pcnt_park_access	17
+38009	North Dakota	Bottineau	pcnt_park_access	1
+38011	North Dakota	Bowman	pcnt_park_access	9
+38013	North Dakota	Burke	pcnt_park_access	14
+38015	North Dakota	Burleigh	pcnt_park_access	27
+38017	North Dakota	Cass	pcnt_park_access	83
+38019	North Dakota	Cavalier	pcnt_park_access	46
+38021	North Dakota	Dickey	pcnt_park_access	1
+38023	North Dakota	Divide	pcnt_park_access	44
+38025	North Dakota	Dunn	pcnt_park_access	20
+38027	North Dakota	Eddy	pcnt_park_access	
+38029	North Dakota	Emmons	pcnt_park_access	
+38031	North Dakota	Foster	pcnt_park_access	
+38033	North Dakota	Golden Valley	pcnt_park_access	41
+38035	North Dakota	Grand Forks	pcnt_park_access	78
+38037	North Dakota	Grant	pcnt_park_access	25
+38039	North Dakota	Griggs	pcnt_park_access	
+38041	North Dakota	Hettinger	pcnt_park_access	35
+38043	North Dakota	Kidder	pcnt_park_access	3
+38045	North Dakota	LaMoure	pcnt_park_access	40
+38047	North Dakota	Logan	pcnt_park_access	47
+38049	North Dakota	McHenry	pcnt_park_access	
+38051	North Dakota	McIntosh	pcnt_park_access	60
+38053	North Dakota	McKenzie	pcnt_park_access	30
+38055	North Dakota	McLean	pcnt_park_access	5
+38057	North Dakota	Mercer	pcnt_park_access	11
+38059	North Dakota	Morton	pcnt_park_access	3
+38061	North Dakota	Mountrail	pcnt_park_access	18
+38063	North Dakota	Nelson	pcnt_park_access	43
+38065	North Dakota	Oliver	pcnt_park_access	19
+38067	North Dakota	Pembina	pcnt_park_access	48
+38069	North Dakota	Pierce	pcnt_park_access	31
+38071	North Dakota	Ramsey	pcnt_park_access	40
+38073	North Dakota	Ransom	pcnt_park_access	35
+38075	North Dakota	Renville	pcnt_park_access	10
+38077	North Dakota	Richland	pcnt_park_access	23
+38079	North Dakota	Rolette	pcnt_park_access	7
+38081	North Dakota	Sargent	pcnt_park_access	2
+38083	North Dakota	Sheridan	pcnt_park_access	36
+38085	North Dakota	Sioux	pcnt_park_access	15
+38087	North Dakota	Slope	pcnt_park_access	
+38089	North Dakota	Stark	pcnt_park_access	19
+38091	North Dakota	Steele	pcnt_park_access	
+38093	North Dakota	Stutsman	pcnt_park_access	57
+38095	North Dakota	Towner	pcnt_park_access	33
+38097	North Dakota	Traill	pcnt_park_access	30
+38099	North Dakota	Walsh	pcnt_park_access	12
+38101	North Dakota	Ward	pcnt_park_access	24
+38103	North Dakota	Wells	pcnt_park_access	
+38105	North Dakota	Williams	pcnt_park_access	41
+39001	Ohio	Adams	pcnt_park_access	3
+39003	Ohio	Allen	pcnt_park_access	22
+39005	Ohio	Ashland	pcnt_park_access	12
+39007	Ohio	Ashtabula	pcnt_park_access	21
+39009	Ohio	Athens	pcnt_park_access	2
+39011	Ohio	Auglaize	pcnt_park_access	29
+39013	Ohio	Belmont	pcnt_park_access	20
+39015	Ohio	Brown	pcnt_park_access	7
+39017	Ohio	Butler	pcnt_park_access	42
+39019	Ohio	Carroll	pcnt_park_access	7
+39021	Ohio	Champaign	pcnt_park_access	15
+39023	Ohio	Clark	pcnt_park_access	28
+39025	Ohio	Clermont	pcnt_park_access	15
+39027	Ohio	Clinton	pcnt_park_access	12
+39029	Ohio	Columbiana	pcnt_park_access	25
+39031	Ohio	Coshocton	pcnt_park_access	7
+39033	Ohio	Crawford	pcnt_park_access	31
+39035	Ohio	Cuyahoga	pcnt_park_access	56
+39037	Ohio	Darke	pcnt_park_access	13
+39039	Ohio	Defiance	pcnt_park_access	21
+39041	Ohio	Delaware	pcnt_park_access	40
+39043	Ohio	Erie	pcnt_park_access	33
+39045	Ohio	Fairfield	pcnt_park_access	38
+39047	Ohio	Fayette	pcnt_park_access	19
+39049	Ohio	Franklin	pcnt_park_access	61
+39051	Ohio	Fulton	pcnt_park_access	27
+39053	Ohio	Gallia	pcnt_park_access	5
+39055	Ohio	Geauga	pcnt_park_access	16
+39057	Ohio	Greene	pcnt_park_access	40
+39059	Ohio	Guernsey	pcnt_park_access	23
+39061	Ohio	Hamilton	pcnt_park_access	59
+39063	Ohio	Hancock	pcnt_park_access	18
+39065	Ohio	Hardin	pcnt_park_access	24
+39067	Ohio	Harrison	pcnt_park_access	17
+39069	Ohio	Henry	pcnt_park_access	
+39071	Ohio	Highland	pcnt_park_access	9
+39073	Ohio	Hocking	pcnt_park_access	7
+39075	Ohio	Holmes	pcnt_park_access	4
+39077	Ohio	Huron	pcnt_park_access	27
+39079	Ohio	Jackson	pcnt_park_access	2
+39081	Ohio	Jefferson	pcnt_park_access	22
+39083	Ohio	Knox	pcnt_park_access	10
+39085	Ohio	Lake	pcnt_park_access	39
+39087	Ohio	Lawrence	pcnt_park_access	9
+39089	Ohio	Licking	pcnt_park_access	18
+39091	Ohio	Logan	pcnt_park_access	36
+39093	Ohio	Lorain	pcnt_park_access	55
+39095	Ohio	Lucas	pcnt_park_access	59
+39097	Ohio	Madison	pcnt_park_access	9
+39099	Ohio	Mahoning	pcnt_park_access	45
+39101	Ohio	Marion	pcnt_park_access	27
+39103	Ohio	Medina	pcnt_park_access	39
+39105	Ohio	Meigs	pcnt_park_access	2
+39107	Ohio	Mercer	pcnt_park_access	25
+39109	Ohio	Miami	pcnt_park_access	48
+39111	Ohio	Monroe	pcnt_park_access	3
+39113	Ohio	Montgomery	pcnt_park_access	69
+39115	Ohio	Morgan	pcnt_park_access	11
+39117	Ohio	Morrow	pcnt_park_access	3
+39119	Ohio	Muskingum	pcnt_park_access	18
+39121	Ohio	Noble	pcnt_park_access	4
+39123	Ohio	Ottawa	pcnt_park_access	15
+39125	Ohio	Paulding	pcnt_park_access	12
+39127	Ohio	Perry	pcnt_park_access	15
+39129	Ohio	Pickaway	pcnt_park_access	17
+39131	Ohio	Pike	pcnt_park_access	2
+39133	Ohio	Portage	pcnt_park_access	16
+39135	Ohio	Preble	pcnt_park_access	10
+39137	Ohio	Putnam	pcnt_park_access	9
+39139	Ohio	Richland	pcnt_park_access	24
+39141	Ohio	Ross	pcnt_park_access	22
+39143	Ohio	Sandusky	pcnt_park_access	33
+39145	Ohio	Scioto	pcnt_park_access	20
+39147	Ohio	Seneca	pcnt_park_access	25
+39149	Ohio	Shelby	pcnt_park_access	5
+39151	Ohio	Stark	pcnt_park_access	37
+39153	Ohio	Summit	pcnt_park_access	59
+39155	Ohio	Trumbull	pcnt_park_access	34
+39157	Ohio	Tuscarawas	pcnt_park_access	23
+39159	Ohio	Union	pcnt_park_access	37
+39161	Ohio	Van Wert	pcnt_park_access	24
+39163	Ohio	Vinton	pcnt_park_access	1
+39165	Ohio	Warren	pcnt_park_access	17
+39167	Ohio	Washington	pcnt_park_access	26
+39169	Ohio	Wayne	pcnt_park_access	18
+39171	Ohio	Williams	pcnt_park_access	23
+39173	Ohio	Wood	pcnt_park_access	20
+39175	Ohio	Wyandot	pcnt_park_access	40
+40001	Oklahoma	Adair	pcnt_park_access	9
+40003	Oklahoma	Alfalfa	pcnt_park_access	13
+40005	Oklahoma	Atoka	pcnt_park_access	
+40007	Oklahoma	Beaver	pcnt_park_access	22
+40009	Oklahoma	Beckham	pcnt_park_access	33
+40011	Oklahoma	Blaine	pcnt_park_access	40
+40013	Oklahoma	Bryan	pcnt_park_access	7
+40015	Oklahoma	Caddo	pcnt_park_access	26
+40017	Oklahoma	Canadian	pcnt_park_access	28
+40019	Oklahoma	Carter	pcnt_park_access	20
+40021	Oklahoma	Cherokee	pcnt_park_access	1
+40023	Oklahoma	Choctaw	pcnt_park_access	23
+40025	Oklahoma	Cimarron	pcnt_park_access	23
+40027	Oklahoma	Cleveland	pcnt_park_access	29
+40029	Oklahoma	Coal	pcnt_park_access	5
+40031	Oklahoma	Comanche	pcnt_park_access	60
+40033	Oklahoma	Cotton	pcnt_park_access	
+40035	Oklahoma	Craig	pcnt_park_access	31
+40037	Oklahoma	Creek	pcnt_park_access	19
+40039	Oklahoma	Custer	pcnt_park_access	53
+40041	Oklahoma	Delaware	pcnt_park_access	2
+40043	Oklahoma	Dewey	pcnt_park_access	22
+40045	Oklahoma	Ellis	pcnt_park_access	50
+40047	Oklahoma	Garfield	pcnt_park_access	36
+40049	Oklahoma	Garvin	pcnt_park_access	13
+40051	Oklahoma	Grady	pcnt_park_access	7
+40053	Oklahoma	Grant	pcnt_park_access	8
+40055	Oklahoma	Greer	pcnt_park_access	15
+40057	Oklahoma	Harmon	pcnt_park_access	15
+40059	Oklahoma	Harper	pcnt_park_access	26
+40061	Oklahoma	Haskell	pcnt_park_access	5
+40063	Oklahoma	Hughes	pcnt_park_access	12
+40065	Oklahoma	Jackson	pcnt_park_access	22
+40067	Oklahoma	Jefferson	pcnt_park_access	
+40069	Oklahoma	Johnston	pcnt_park_access	
+40071	Oklahoma	Kay	pcnt_park_access	62
+40073	Oklahoma	Kingfisher	pcnt_park_access	27
+40075	Oklahoma	Kiowa	pcnt_park_access	65
+40077	Oklahoma	Latimer	pcnt_park_access	4
+40079	Oklahoma	Le Flore	pcnt_park_access	4
+40081	Oklahoma	Lincoln	pcnt_park_access	19
+40083	Oklahoma	Logan	pcnt_park_access	11
+40085	Oklahoma	Love	pcnt_park_access	2
+40087	Oklahoma	McClain	pcnt_park_access	3
+40089	Oklahoma	McCurtain	pcnt_park_access	5
+40091	Oklahoma	McIntosh	pcnt_park_access	6
+40093	Oklahoma	Major	pcnt_park_access	21
+40095	Oklahoma	Marshall	pcnt_park_access	4
+40097	Oklahoma	Mayes	pcnt_park_access	18
+40099	Oklahoma	Murray	pcnt_park_access	50
+40101	Oklahoma	Muskogee	pcnt_park_access	26
+40103	Oklahoma	Noble	pcnt_park_access	43
+40105	Oklahoma	Nowata	pcnt_park_access	24
+40107	Oklahoma	Okfuskee	pcnt_park_access	15
+40109	Oklahoma	Oklahoma	pcnt_park_access	49
+40111	Oklahoma	Okmulgee	pcnt_park_access	5
+40113	Oklahoma	Osage	pcnt_park_access	13
+40115	Oklahoma	Ottawa	pcnt_park_access	39
+40117	Oklahoma	Pawnee	pcnt_park_access	30
+40119	Oklahoma	Payne	pcnt_park_access	32
+40121	Oklahoma	Pittsburg	pcnt_park_access	27
+40123	Oklahoma	Pontotoc	pcnt_park_access	13
+40125	Oklahoma	Pottawatomie	pcnt_park_access	22
+40127	Oklahoma	Pushmataha	pcnt_park_access	16
+40129	Oklahoma	Roger Mills	pcnt_park_access	32
+40131	Oklahoma	Rogers	pcnt_park_access	4
+40133	Oklahoma	Seminole	pcnt_park_access	15
+40135	Oklahoma	Sequoyah	pcnt_park_access	1
+40137	Oklahoma	Stephens	pcnt_park_access	32
+40139	Oklahoma	Texas	pcnt_park_access	38
+40141	Oklahoma	Tillman	pcnt_park_access	48
+40143	Oklahoma	Tulsa	pcnt_park_access	60
+40145	Oklahoma	Wagoner	pcnt_park_access	3
+40147	Oklahoma	Washington	pcnt_park_access	17
+40149	Oklahoma	Washita	pcnt_park_access	38
+40151	Oklahoma	Woods	pcnt_park_access	26
+40153	Oklahoma	Woodward	pcnt_park_access	11
+41001	Oregon	Baker	pcnt_park_access	23
+41003	Oregon	Benton	pcnt_park_access	45
+41005	Oregon	Clackamas	pcnt_park_access	44
+41007	Oregon	Clatsop	pcnt_park_access	35
+41009	Oregon	Columbia	pcnt_park_access	8
+41011	Oregon	Coos	pcnt_park_access	21
+41013	Oregon	Crook	pcnt_park_access	31
+41015	Oregon	Curry	pcnt_park_access	36
+41017	Oregon	Deschutes	pcnt_park_access	51
+41019	Oregon	Douglas	pcnt_park_access	16
+41021	Oregon	Gilliam	pcnt_park_access	31
+41023	Oregon	Grant	pcnt_park_access	14
+41025	Oregon	Harney	pcnt_park_access	
+41027	Oregon	Hood River	pcnt_park_access	31
+41029	Oregon	Jackson	pcnt_park_access	37
+41031	Oregon	Jefferson	pcnt_park_access	8
+41033	Oregon	Josephine	pcnt_park_access	18
+41035	Oregon	Klamath	pcnt_park_access	20
+41037	Oregon	Lake	pcnt_park_access	1
+41039	Oregon	Lane	pcnt_park_access	64
+41041	Oregon	Lincoln	pcnt_park_access	55
+41043	Oregon	Linn	pcnt_park_access	39
+41045	Oregon	Malheur	pcnt_park_access	36
+41047	Oregon	Marion	pcnt_park_access	55
+41049	Oregon	Morrow	pcnt_park_access	13
+41051	Oregon	Multnomah	pcnt_park_access	84
+41053	Oregon	Polk	pcnt_park_access	42
+41055	Oregon	Sherman	pcnt_park_access	8
+41057	Oregon	Tillamook	pcnt_park_access	16
+41059	Oregon	Umatilla	pcnt_park_access	24
+41061	Oregon	Union	pcnt_park_access	41
+41063	Oregon	Wallowa	pcnt_park_access	24
+41065	Oregon	Wasco	pcnt_park_access	32
+41067	Oregon	Washington	pcnt_park_access	72
+41069	Oregon	Wheeler	pcnt_park_access	2
+41071	Oregon	Yamhill	pcnt_park_access	60
+42001	Pennsylvania	Adams	pcnt_park_access	14
+42003	Pennsylvania	Allegheny	pcnt_park_access	46
+42005	Pennsylvania	Armstrong	pcnt_park_access	20
+42007	Pennsylvania	Beaver	pcnt_park_access	26
+42009	Pennsylvania	Bedford	pcnt_park_access	4
+42011	Pennsylvania	Berks	pcnt_park_access	16
+42013	Pennsylvania	Blair	pcnt_park_access	35
+42015	Pennsylvania	Bradford	pcnt_park_access	5
+42017	Pennsylvania	Bucks	pcnt_park_access	26
+42019	Pennsylvania	Butler	pcnt_park_access	20
+42021	Pennsylvania	Cambria	pcnt_park_access	14
+42023	Pennsylvania	Cameron	pcnt_park_access	17
+42025	Pennsylvania	Carbon	pcnt_park_access	23
+42027	Pennsylvania	Centre	pcnt_park_access	38
+42029	Pennsylvania	Chester	pcnt_park_access	27
+42031	Pennsylvania	Clarion	pcnt_park_access	4
+42033	Pennsylvania	Clearfield	pcnt_park_access	13
+42035	Pennsylvania	Clinton	pcnt_park_access	11
+42037	Pennsylvania	Columbia	pcnt_park_access	10
+42039	Pennsylvania	Crawford	pcnt_park_access	27
+42041	Pennsylvania	Cumberland	pcnt_park_access	33
+42043	Pennsylvania	Dauphin	pcnt_park_access	41
+42045	Pennsylvania	Delaware	pcnt_park_access	60
+42047	Pennsylvania	Elk	pcnt_park_access	26
+42049	Pennsylvania	Erie	pcnt_park_access	41
+42051	Pennsylvania	Fayette	pcnt_park_access	14
+42053	Pennsylvania	Forest	pcnt_park_access	2
+42055	Pennsylvania	Franklin	pcnt_park_access	10
+42057	Pennsylvania	Fulton	pcnt_park_access	
+42059	Pennsylvania	Greene	pcnt_park_access	15
+42061	Pennsylvania	Huntingdon	pcnt_park_access	8
+42063	Pennsylvania	Indiana	pcnt_park_access	19
+42065	Pennsylvania	Jefferson	pcnt_park_access	13
+42067	Pennsylvania	Juniata	pcnt_park_access	3
+42069	Pennsylvania	Lackawanna	pcnt_park_access	12
+42071	Pennsylvania	Lancaster	pcnt_park_access	25
+42073	Pennsylvania	Lawrence	pcnt_park_access	13
+42075	Pennsylvania	Lebanon	pcnt_park_access	38
+42077	Pennsylvania	Lehigh	pcnt_park_access	57
+42079	Pennsylvania	Luzerne	pcnt_park_access	35
+42081	Pennsylvania	Lycoming	pcnt_park_access	18
+42083	Pennsylvania	McKean	pcnt_park_access	25
+42085	Pennsylvania	Mercer	pcnt_park_access	14
+42087	Pennsylvania	Mifflin	pcnt_park_access	16
+42089	Pennsylvania	Monroe	pcnt_park_access	8
+42091	Pennsylvania	Montgomery	pcnt_park_access	50
+42093	Pennsylvania	Montour	pcnt_park_access	33
+42095	Pennsylvania	Northampton	pcnt_park_access	42
+42097	Pennsylvania	Northumberland	pcnt_park_access	16
+42099	Pennsylvania	Perry	pcnt_park_access	15
+42101	Pennsylvania	Philadelphia	pcnt_park_access	73
+42103	Pennsylvania	Pike	pcnt_park_access	21
+42105	Pennsylvania	Potter	pcnt_park_access	5
+42107	Pennsylvania	Schuylkill	pcnt_park_access	6
+42109	Pennsylvania	Snyder	pcnt_park_access	3
+42111	Pennsylvania	Somerset	pcnt_park_access	8
+42113	Pennsylvania	Sullivan	pcnt_park_access	5
+42115	Pennsylvania	Susquehanna	pcnt_park_access	
+42117	Pennsylvania	Tioga	pcnt_park_access	3
+42119	Pennsylvania	Union	pcnt_park_access	13
+42121	Pennsylvania	Venango	pcnt_park_access	21
+42123	Pennsylvania	Warren	pcnt_park_access	10
+42125	Pennsylvania	Washington	pcnt_park_access	17
+42127	Pennsylvania	Wayne	pcnt_park_access	5
+42129	Pennsylvania	Westmoreland	pcnt_park_access	25
+42131	Pennsylvania	Wyoming	pcnt_park_access	1
+42133	Pennsylvania	York	pcnt_park_access	12
+44001	Rhode Island	Bristol	pcnt_park_access	56
+44003	Rhode Island	Kent	pcnt_park_access	20
+44005	Rhode Island	Newport	pcnt_park_access	34
+44007	Rhode Island	Providence	pcnt_park_access	53
+44009	Rhode Island	Washington	pcnt_park_access	10
+45001	South Carolina	Abbeville	pcnt_park_access	4
+45003	South Carolina	Aiken	pcnt_park_access	19
+45005	South Carolina	Allendale	pcnt_park_access	
+45007	South Carolina	Anderson	pcnt_park_access	5
+45009	South Carolina	Bamberg	pcnt_park_access	2
+45011	South Carolina	Barnwell	pcnt_park_access	
+45013	South Carolina	Beaufort	pcnt_park_access	9
+45015	South Carolina	Berkeley	pcnt_park_access	5
+45017	South Carolina	Calhoun	pcnt_park_access	2
+45019	South Carolina	Charleston	pcnt_park_access	37
+45021	South Carolina	Cherokee	pcnt_park_access	1
+45023	South Carolina	Chester	pcnt_park_access	7
+45025	South Carolina	Chesterfield	pcnt_park_access	2
+45027	South Carolina	Clarendon	pcnt_park_access	
+45029	South Carolina	Colleton	pcnt_park_access	2
+45031	South Carolina	Darlington	pcnt_park_access	4
+45033	South Carolina	Dillon	pcnt_park_access	12
+45035	South Carolina	Dorchester	pcnt_park_access	2
+45037	South Carolina	Edgefield	pcnt_park_access	
+45039	South Carolina	Fairfield	pcnt_park_access	5
+45041	South Carolina	Florence	pcnt_park_access	15
+45043	South Carolina	Georgetown	pcnt_park_access	5
+45045	South Carolina	Greenville	pcnt_park_access	16
+45047	South Carolina	Greenwood	pcnt_park_access	1
+45049	South Carolina	Hampton	pcnt_park_access	
+45051	South Carolina	Horry	pcnt_park_access	12
+45053	South Carolina	Jasper	pcnt_park_access	
+45055	South Carolina	Kershaw	pcnt_park_access	11
+45057	South Carolina	Lancaster	pcnt_park_access	
+45059	South Carolina	Laurens	pcnt_park_access	4
+45061	South Carolina	Lee	pcnt_park_access	8
+45063	South Carolina	Lexington	pcnt_park_access	8
+45065	South Carolina	McCormick	pcnt_park_access	6
+45067	South Carolina	Marion	pcnt_park_access	
+45069	South Carolina	Marlboro	pcnt_park_access	
+45071	South Carolina	Newberry	pcnt_park_access	24
+45073	South Carolina	Oconee	pcnt_park_access	2
+45075	South Carolina	Orangeburg	pcnt_park_access	9
+45077	South Carolina	Pickens	pcnt_park_access	5
+45079	South Carolina	Richland	pcnt_park_access	28
+45081	South Carolina	Saluda	pcnt_park_access	
+45083	South Carolina	Spartanburg	pcnt_park_access	9
+45085	South Carolina	Sumter	pcnt_park_access	15
+45087	South Carolina	Union	pcnt_park_access	6
+45089	South Carolina	Williamsburg	pcnt_park_access	4
+45091	South Carolina	York	pcnt_park_access	19
+46003	South Dakota	Aurora	pcnt_park_access	44
+46005	South Dakota	Beadle	pcnt_park_access	46
+46007	South Dakota	Bennett	pcnt_park_access	31
+46009	South Dakota	Bon Homme	pcnt_park_access	44
+46011	South Dakota	Brookings	pcnt_park_access	36
+46013	South Dakota	Brown	pcnt_park_access	35
+46015	South Dakota	Brule	pcnt_park_access	26
+46017	South Dakota	Buffalo	pcnt_park_access	2
+46019	South Dakota	Butte	pcnt_park_access	22
+46021	South Dakota	Campbell	pcnt_park_access	3
+46023	South Dakota	Charles Mix	pcnt_park_access	33
+46025	South Dakota	Clark	pcnt_park_access	27
+46027	South Dakota	Clay	pcnt_park_access	68
+46029	South Dakota	Codington	pcnt_park_access	57
+46031	South Dakota	Corson	pcnt_park_access	21
+46033	South Dakota	Custer	pcnt_park_access	8
+46035	South Dakota	Davison	pcnt_park_access	54
+46037	South Dakota	Day	pcnt_park_access	27
+46039	South Dakota	Deuel	pcnt_park_access	26
+46041	South Dakota	Dewey	pcnt_park_access	30
+46043	South Dakota	Douglas	pcnt_park_access	22
+46045	South Dakota	Edmunds	pcnt_park_access	11
+46047	South Dakota	Fall River	pcnt_park_access	1
+46049	South Dakota	Faulk	pcnt_park_access	4
+46051	South Dakota	Grant	pcnt_park_access	36
+46053	South Dakota	Gregory	pcnt_park_access	18
+46055	South Dakota	Haakon	pcnt_park_access	
+46057	South Dakota	Hamlin	pcnt_park_access	16
+46059	South Dakota	Hand	pcnt_park_access	34
+46061	South Dakota	Hanson	pcnt_park_access	3
+46063	South Dakota	Harding	pcnt_park_access	
+46065	South Dakota	Hughes	pcnt_park_access	35
+46067	South Dakota	Hutchinson	pcnt_park_access	38
+46069	South Dakota	Hyde	pcnt_park_access	
+46071	South Dakota	Jackson	pcnt_park_access	19
+46073	South Dakota	Jerauld	pcnt_park_access	34
+46075	South Dakota	Jones	pcnt_park_access	
+46077	South Dakota	Kingsbury	pcnt_park_access	34
+46079	South Dakota	Lake	pcnt_park_access	49
+46081	South Dakota	Lawrence	pcnt_park_access	12
+46083	South Dakota	Lincoln	pcnt_park_access	33
+46085	South Dakota	Lyman	pcnt_park_access	16
+46087	South Dakota	McCook	pcnt_park_access	34
+46089	South Dakota	McPherson	pcnt_park_access	32
+46091	South Dakota	Marshall	pcnt_park_access	1
+46093	South Dakota	Meade	pcnt_park_access	2
+46095	South Dakota	Mellette	pcnt_park_access	
+46097	South Dakota	Miner	pcnt_park_access	26
+46099	South Dakota	Minnehaha	pcnt_park_access	74
+46101	South Dakota	Moody	pcnt_park_access	
+46103	South Dakota	Pennington	pcnt_park_access	34
+46105	South Dakota	Perkins	pcnt_park_access	1
+46107	South Dakota	Potter	pcnt_park_access	42
+46109	South Dakota	Roberts	pcnt_park_access	21
+46111	South Dakota	Sanborn	pcnt_park_access	28
+46113	South Dakota	Shannon	pcnt_park_access	3
+46115	South Dakota	Spink	pcnt_park_access	
+46117	South Dakota	Stanley	pcnt_park_access	
+46119	South Dakota	Sully	pcnt_park_access	
+46121	South Dakota	Todd	pcnt_park_access	10
+46123	South Dakota	Tripp	pcnt_park_access	23
+46125	South Dakota	Turner	pcnt_park_access	36
+46127	South Dakota	Union	pcnt_park_access	22
+46129	South Dakota	Walworth	pcnt_park_access	62
+46135	South Dakota	Yankton	pcnt_park_access	49
+46137	South Dakota	Ziebach	pcnt_park_access	18
+47001	Tennessee	Anderson	pcnt_park_access	8
+47003	Tennessee	Bedford	pcnt_park_access	12
+47005	Tennessee	Benton	pcnt_park_access	
+47007	Tennessee	Bledsoe	pcnt_park_access	1
+47009	Tennessee	Blount	pcnt_park_access	11
+47011	Tennessee	Bradley	pcnt_park_access	5
+47013	Tennessee	Campbell	pcnt_park_access	16
+47015	Tennessee	Cannon	pcnt_park_access	16
+47017	Tennessee	Carroll	pcnt_park_access	7
+47019	Tennessee	Carter	pcnt_park_access	1
+47021	Tennessee	Cheatham	pcnt_park_access	4
+47023	Tennessee	Chester	pcnt_park_access	5
+47025	Tennessee	Claiborne	pcnt_park_access	5
+47027	Tennessee	Clay	pcnt_park_access	2
+47029	Tennessee	Cocke	pcnt_park_access	7
+47031	Tennessee	Coffee	pcnt_park_access	11
+47033	Tennessee	Crockett	pcnt_park_access	4
+47035	Tennessee	Cumberland	pcnt_park_access	8
+47037	Tennessee	Davidson	pcnt_park_access	40
+47039	Tennessee	Decatur	pcnt_park_access	2
+47041	Tennessee	DeKalb	pcnt_park_access	10
+47043	Tennessee	Dickson	pcnt_park_access	2
+47045	Tennessee	Dyer	pcnt_park_access	2
+47047	Tennessee	Fayette	pcnt_park_access	
+47049	Tennessee	Fentress	pcnt_park_access	3
+47051	Tennessee	Franklin	pcnt_park_access	10
+47053	Tennessee	Gibson	pcnt_park_access	16
+47055	Tennessee	Giles	pcnt_park_access	6
+47057	Tennessee	Grainger	pcnt_park_access	4
+47059	Tennessee	Greene	pcnt_park_access	1
+47061	Tennessee	Grundy	pcnt_park_access	7
+47063	Tennessee	Hamblen	pcnt_park_access	8
+47065	Tennessee	Hamilton	pcnt_park_access	12
+47067	Tennessee	Hancock	pcnt_park_access	1
+47069	Tennessee	Hardeman	pcnt_park_access	1
+47071	Tennessee	Hardin	pcnt_park_access	3
+47073	Tennessee	Hawkins	pcnt_park_access	
+47075	Tennessee	Haywood	pcnt_park_access	
+47077	Tennessee	Henderson	pcnt_park_access	7
+47079	Tennessee	Henry	pcnt_park_access	4
+47081	Tennessee	Hickman	pcnt_park_access	3
+47083	Tennessee	Houston	pcnt_park_access	5
+47085	Tennessee	Humphreys	pcnt_park_access	
+47087	Tennessee	Jackson	pcnt_park_access	
+47089	Tennessee	Jefferson	pcnt_park_access	1
+47091	Tennessee	Johnson	pcnt_park_access	1
+47093	Tennessee	Knox	pcnt_park_access	23
+47095	Tennessee	Lake	pcnt_park_access	6
+47097	Tennessee	Lauderdale	pcnt_park_access	8
+47099	Tennessee	Lawrence	pcnt_park_access	8
+47101	Tennessee	Lewis	pcnt_park_access	1
+47103	Tennessee	Lincoln	pcnt_park_access	4
+47105	Tennessee	Loudon	pcnt_park_access	6
+47107	Tennessee	McMinn	pcnt_park_access	2
+47109	Tennessee	McNairy	pcnt_park_access	
+47111	Tennessee	Macon	pcnt_park_access	11
+47113	Tennessee	Madison	pcnt_park_access	4
+47115	Tennessee	Marion	pcnt_park_access	1
+47117	Tennessee	Marshall	pcnt_park_access	3
+47119	Tennessee	Maury	pcnt_park_access	19
+47121	Tennessee	Meigs	pcnt_park_access	1
+47123	Tennessee	Monroe	pcnt_park_access	5
+47125	Tennessee	Montgomery	pcnt_park_access	5
+47127	Tennessee	Moore	pcnt_park_access	
+47129	Tennessee	Morgan	pcnt_park_access	7
+47131	Tennessee	Obion	pcnt_park_access	2
+47133	Tennessee	Overton	pcnt_park_access	3
+47135	Tennessee	Perry	pcnt_park_access	1
+47137	Tennessee	Pickett	pcnt_park_access	
+47139	Tennessee	Polk	pcnt_park_access	2
+47141	Tennessee	Putnam	pcnt_park_access	3
+47143	Tennessee	Rhea	pcnt_park_access	1
+47145	Tennessee	Roane	pcnt_park_access	3
+47147	Tennessee	Robertson	pcnt_park_access	1
+47149	Tennessee	Rutherford	pcnt_park_access	8
+47151	Tennessee	Scott	pcnt_park_access	7
+47153	Tennessee	Sequatchie	pcnt_park_access	
+47155	Tennessee	Sevier	pcnt_park_access	9
+47157	Tennessee	Shelby	pcnt_park_access	44
+47159	Tennessee	Smith	pcnt_park_access	7
+47161	Tennessee	Stewart	pcnt_park_access	4
+47163	Tennessee	Sullivan	pcnt_park_access	22
+47165	Tennessee	Sumner	pcnt_park_access	15
+47167	Tennessee	Tipton	pcnt_park_access	8
+47169	Tennessee	Trousdale	pcnt_park_access	1
+47171	Tennessee	Unicoi	pcnt_park_access	9
+47173	Tennessee	Union	pcnt_park_access	5
+47175	Tennessee	Van Buren	pcnt_park_access	4
+47177	Tennessee	Warren	pcnt_park_access	5
+47179	Tennessee	Washington	pcnt_park_access	16
+47181	Tennessee	Wayne	pcnt_park_access	3
+47183	Tennessee	Weakley	pcnt_park_access	3
+47185	Tennessee	White	pcnt_park_access	1
+47187	Tennessee	Williamson	pcnt_park_access	18
+47189	Tennessee	Wilson	pcnt_park_access	6
+48001	Texas	Anderson	pcnt_park_access	15
+48003	Texas	Andrews	pcnt_park_access	28
+48005	Texas	Angelina	pcnt_park_access	12
+48007	Texas	Aransas	pcnt_park_access	18
+48009	Texas	Archer	pcnt_park_access	10
+48011	Texas	Armstrong	pcnt_park_access	
+48013	Texas	Atascosa	pcnt_park_access	4
+48015	Texas	Austin	pcnt_park_access	3
+48017	Texas	Bailey	pcnt_park_access	22
+48019	Texas	Bandera	pcnt_park_access	4
+48021	Texas	Bastrop	pcnt_park_access	11
+48023	Texas	Baylor	pcnt_park_access	25
+48025	Texas	Bee	pcnt_park_access	29
+48027	Texas	Bell	pcnt_park_access	17
+48029	Texas	Bexar	pcnt_park_access	33
+48031	Texas	Blanco	pcnt_park_access	21
+48033	Texas	Borden	pcnt_park_access	
+48035	Texas	Bosque	pcnt_park_access	17
+48037	Texas	Bowie	pcnt_park_access	8
+48039	Texas	Brazoria	pcnt_park_access	12
+48041	Texas	Brazos	pcnt_park_access	56
+48043	Texas	Brewster	pcnt_park_access	55
+48045	Texas	Briscoe	pcnt_park_access	1
+48047	Texas	Brooks	pcnt_park_access	14
+48049	Texas	Brown	pcnt_park_access	37
+48051	Texas	Burleson	pcnt_park_access	7
+48053	Texas	Burnet	pcnt_park_access	12
+48055	Texas	Caldwell	pcnt_park_access	17
+48057	Texas	Calhoun	pcnt_park_access	
+48059	Texas	Callahan	pcnt_park_access	9
+48061	Texas	Cameron	pcnt_park_access	27
+48063	Texas	Camp	pcnt_park_access	22
+48065	Texas	Carson	pcnt_park_access	43
+48067	Texas	Cass	pcnt_park_access	4
+48069	Texas	Castro	pcnt_park_access	30
+48071	Texas	Chambers	pcnt_park_access	9
+48073	Texas	Cherokee	pcnt_park_access	15
+48075	Texas	Childress	pcnt_park_access	14
+48077	Texas	Clay	pcnt_park_access	1
+48079	Texas	Cochran	pcnt_park_access	47
+48081	Texas	Coke	pcnt_park_access	8
+48083	Texas	Coleman	pcnt_park_access	2
+48085	Texas	Collin	pcnt_park_access	44
+48087	Texas	Collingsworth	pcnt_park_access	49
+48089	Texas	Colorado	pcnt_park_access	8
+48091	Texas	Comal	pcnt_park_access	15
+48093	Texas	Comanche	pcnt_park_access	
+48095	Texas	Concho	pcnt_park_access	4
+48097	Texas	Cooke	pcnt_park_access	29
+48099	Texas	Coryell	pcnt_park_access	7
+48101	Texas	Cottle	pcnt_park_access	
+48103	Texas	Crane	pcnt_park_access	72
+48105	Texas	Crockett	pcnt_park_access	
+48107	Texas	Crosby	pcnt_park_access	13
+48109	Texas	Culberson	pcnt_park_access	1
+48111	Texas	Dallam	pcnt_park_access	27
+48113	Texas	Dallas	pcnt_park_access	61
+48115	Texas	Dawson	pcnt_park_access	63
+48117	Texas	Deaf Smith	pcnt_park_access	50
+48119	Texas	Delta	pcnt_park_access	15
+48121	Texas	Denton	pcnt_park_access	50
+48123	Texas	DeWitt	pcnt_park_access	21
+48125	Texas	Dickens	pcnt_park_access	
+48127	Texas	Dimmit	pcnt_park_access	33
+48129	Texas	Donley	pcnt_park_access	8
+48131	Texas	Duval	pcnt_park_access	13
+48133	Texas	Eastland	pcnt_park_access	17
+48135	Texas	Ector	pcnt_park_access	54
+48137	Texas	Edwards	pcnt_park_access	
+48139	Texas	Ellis	pcnt_park_access	24
+48141	Texas	El Paso	pcnt_park_access	52
+48143	Texas	Erath	pcnt_park_access	4
+48145	Texas	Falls	pcnt_park_access	18
+48147	Texas	Fannin	pcnt_park_access	11
+48149	Texas	Fayette	pcnt_park_access	22
+48151	Texas	Fisher	pcnt_park_access	29
+48153	Texas	Floyd	pcnt_park_access	43
+48155	Texas	Foard	pcnt_park_access	60
+48157	Texas	Fort Bend	pcnt_park_access	14
+48159	Texas	Franklin	pcnt_park_access	8
+48161	Texas	Freestone	pcnt_park_access	14
+48163	Texas	Frio	pcnt_park_access	33
+48165	Texas	Gaines	pcnt_park_access	11
+48167	Texas	Galveston	pcnt_park_access	34
+48169	Texas	Garza	pcnt_park_access	13
+48171	Texas	Gillespie	pcnt_park_access	12
+48173	Texas	Glasscock	pcnt_park_access	
+48175	Texas	Goliad	pcnt_park_access	11
+48177	Texas	Gonzales	pcnt_park_access	21
+48179	Texas	Gray	pcnt_park_access	57
+48181	Texas	Grayson	pcnt_park_access	20
+48183	Texas	Gregg	pcnt_park_access	34
+48185	Texas	Grimes	pcnt_park_access	
+48187	Texas	Guadalupe	pcnt_park_access	13
+48189	Texas	Hale	pcnt_park_access	48
+48191	Texas	Hall	pcnt_park_access	
+48193	Texas	Hamilton	pcnt_park_access	7
+48195	Texas	Hansford	pcnt_park_access	55
+48197	Texas	Hardeman	pcnt_park_access	17
+48199	Texas	Hardin	pcnt_park_access	
+48201	Texas	Harris	pcnt_park_access	31
+48203	Texas	Harrison	pcnt_park_access	5
+48205	Texas	Hartley	pcnt_park_access	14
+48207	Texas	Haskell	pcnt_park_access	
+48209	Texas	Hays	pcnt_park_access	8
+48211	Texas	Hemphill	pcnt_park_access	7
+48213	Texas	Henderson	pcnt_park_access	
+48215	Texas	Hidalgo	pcnt_park_access	8
+48217	Texas	Hill	pcnt_park_access	17
+48219	Texas	Hockley	pcnt_park_access	21
+48221	Texas	Hood	pcnt_park_access	2
+48223	Texas	Hopkins	pcnt_park_access	20
+48225	Texas	Houston	pcnt_park_access	7
+48227	Texas	Howard	pcnt_park_access	24
+48229	Texas	Hudspeth	pcnt_park_access	
+48231	Texas	Hunt	pcnt_park_access	18
+48233	Texas	Hutchinson	pcnt_park_access	49
+48235	Texas	Irion	pcnt_park_access	38
+48237	Texas	Jack	pcnt_park_access	11
+48239	Texas	Jackson	pcnt_park_access	
+48241	Texas	Jasper	pcnt_park_access	
+48243	Texas	Jeff Davis	pcnt_park_access	33
+48245	Texas	Jefferson	pcnt_park_access	31
+48247	Texas	Jim Hogg	pcnt_park_access	
+48249	Texas	Jim Wells	pcnt_park_access	6
+48251	Texas	Johnson	pcnt_park_access	17
+48253	Texas	Jones	pcnt_park_access	9
+48255	Texas	Karnes	pcnt_park_access	10
+48257	Texas	Kaufman	pcnt_park_access	10
+48259	Texas	Kendall	pcnt_park_access	12
+48261	Texas	Kenedy	pcnt_park_access	
+48263	Texas	Kent	pcnt_park_access	
+48265	Texas	Kerr	pcnt_park_access	22
+48267	Texas	Kimble	pcnt_park_access	6
+48269	Texas	King	pcnt_park_access	
+48271	Texas	Kinney	pcnt_park_access	32
+48273	Texas	Kleberg	pcnt_park_access	24
+48275	Texas	Knox	pcnt_park_access	
+48277	Texas	Lamar	pcnt_park_access	33
+48279	Texas	Lamb	pcnt_park_access	37
+48281	Texas	Lampasas	pcnt_park_access	1
+48283	Texas	La Salle	pcnt_park_access	8
+48285	Texas	Lavaca	pcnt_park_access	13
+48287	Texas	Lee	pcnt_park_access	3
+48289	Texas	Leon	pcnt_park_access	3
+48291	Texas	Liberty	pcnt_park_access	2
+48293	Texas	Limestone	pcnt_park_access	13
+48295	Texas	Lipscomb	pcnt_park_access	7
+48297	Texas	Live Oak	pcnt_park_access	14
+48299	Texas	Llano	pcnt_park_access	8
+48301	Texas	Loving	pcnt_park_access	
+48303	Texas	Lubbock	pcnt_park_access	43
+48305	Texas	Lynn	pcnt_park_access	7
+48307	Texas	McCulloch	pcnt_park_access	28
+48309	Texas	McLennan	pcnt_park_access	39
+48311	Texas	McMullen	pcnt_park_access	13
+48313	Texas	Madison	pcnt_park_access	
+48315	Texas	Marion	pcnt_park_access	4
+48317	Texas	Martin	pcnt_park_access	25
+48319	Texas	Mason	pcnt_park_access	
+48321	Texas	Matagorda	pcnt_park_access	13
+48323	Texas	Maverick	pcnt_park_access	
+48325	Texas	Medina	pcnt_park_access	11
+48327	Texas	Menard	pcnt_park_access	
+48329	Texas	Midland	pcnt_park_access	66
+48331	Texas	Milam	pcnt_park_access	3
+48333	Texas	Mills	pcnt_park_access	17
+48335	Texas	Mitchell	pcnt_park_access	1
+48337	Texas	Montague	pcnt_park_access	12
+48339	Texas	Montgomery	pcnt_park_access	12
+48341	Texas	Moore	pcnt_park_access	21
+48343	Texas	Morris	pcnt_park_access	1
+48345	Texas	Motley	pcnt_park_access	24
+48347	Texas	Nacogdoches	pcnt_park_access	22
+48349	Texas	Navarro	pcnt_park_access	10
+48351	Texas	Newton	pcnt_park_access	
+48353	Texas	Nolan	pcnt_park_access	17
+48355	Texas	Nueces	pcnt_park_access	74
+48357	Texas	Ochiltree	pcnt_park_access	54
+48359	Texas	Oldham	pcnt_park_access	22
+48361	Texas	Orange	pcnt_park_access	12
+48363	Texas	Palo Pinto	pcnt_park_access	4
+48365	Texas	Panola	pcnt_park_access	7
+48367	Texas	Parker	pcnt_park_access	11
+48369	Texas	Parmer	pcnt_park_access	57
+48371	Texas	Pecos	pcnt_park_access	41
+48373	Texas	Polk	pcnt_park_access	3
+48375	Texas	Potter	pcnt_park_access	45
+48377	Texas	Presidio	pcnt_park_access	16
+48379	Texas	Rains	pcnt_park_access	2
+48381	Texas	Randall	pcnt_park_access	12
+48383	Texas	Reagan	pcnt_park_access	59
+48385	Texas	Real	pcnt_park_access	2
+48387	Texas	Red River	pcnt_park_access	
+48389	Texas	Reeves	pcnt_park_access	23
+48391	Texas	Refugio	pcnt_park_access	
+48393	Texas	Roberts	pcnt_park_access	42
+48395	Texas	Robertson	pcnt_park_access	12
+48397	Texas	Rockwall	pcnt_park_access	29
+48399	Texas	Runnels	pcnt_park_access	38
+48401	Texas	Rusk	pcnt_park_access	7
+48403	Texas	Sabine	pcnt_park_access	
+48405	Texas	San Augustine	pcnt_park_access	
+48407	Texas	San Jacinto	pcnt_park_access	1
+48409	Texas	San Patricio	pcnt_park_access	8
+48411	Texas	San Saba	pcnt_park_access	
+48413	Texas	Schleicher	pcnt_park_access	15
+48415	Texas	Scurry	pcnt_park_access	
+48417	Texas	Shackelford	pcnt_park_access	34
+48419	Texas	Shelby	pcnt_park_access	9
+48421	Texas	Sherman	pcnt_park_access	38
+48423	Texas	Smith	pcnt_park_access	13
+48425	Texas	Somervell	pcnt_park_access	10
+48427	Texas	Starr	pcnt_park_access	
+48429	Texas	Stephens	pcnt_park_access	23
+48431	Texas	Sterling	pcnt_park_access	47
+48433	Texas	Stonewall	pcnt_park_access	41
+48435	Texas	Sutton	pcnt_park_access	
+48437	Texas	Swisher	pcnt_park_access	36
+48439	Texas	Tarrant	pcnt_park_access	56
+48441	Texas	Taylor	pcnt_park_access	25
+48443	Texas	Terrell	pcnt_park_access	49
+48445	Texas	Terry	pcnt_park_access	17
+48447	Texas	Throckmorton	pcnt_park_access	
+48449	Texas	Titus	pcnt_park_access	24
+48451	Texas	Tom Green	pcnt_park_access	14
+48453	Texas	Travis	pcnt_park_access	36
+48455	Texas	Trinity	pcnt_park_access	
+48457	Texas	Tyler	pcnt_park_access	4
+48459	Texas	Upshur	pcnt_park_access	
+48461	Texas	Upton	pcnt_park_access	48
+48463	Texas	Uvalde	pcnt_park_access	29
+48465	Texas	Val Verde	pcnt_park_access	19
+48467	Texas	Van Zandt	pcnt_park_access	
+48469	Texas	Victoria	pcnt_park_access	14
+48471	Texas	Walker	pcnt_park_access	15
+48473	Texas	Waller	pcnt_park_access	4
+48475	Texas	Ward	pcnt_park_access	57
+48477	Texas	Washington	pcnt_park_access	14
+48479	Texas	Webb	pcnt_park_access	8
+48481	Texas	Wharton	pcnt_park_access	7
+48483	Texas	Wheeler	pcnt_park_access	46
+48485	Texas	Wichita	pcnt_park_access	37
+48487	Texas	Wilbarger	pcnt_park_access	
+48489	Texas	Willacy	pcnt_park_access	13
+48491	Texas	Williamson	pcnt_park_access	23
+48493	Texas	Wilson	pcnt_park_access	
+48495	Texas	Winkler	pcnt_park_access	74
+48497	Texas	Wise	pcnt_park_access	1
+48499	Texas	Wood	pcnt_park_access	9
+48501	Texas	Yoakum	pcnt_park_access	29
+48503	Texas	Young	pcnt_park_access	16
+48505	Texas	Zapata	pcnt_park_access	29
+48507	Texas	Zavala	pcnt_park_access	49
+49001	Utah	Beaver	pcnt_park_access	
+49003	Utah	Box Elder	pcnt_park_access	50
+49005	Utah	Cache	pcnt_park_access	52
+49007	Utah	Carbon	pcnt_park_access	25
+49009	Utah	Daggett	pcnt_park_access	25
+49011	Utah	Davis	pcnt_park_access	67
+49013	Utah	Duchesne	pcnt_park_access	
+49015	Utah	Emery	pcnt_park_access	25
+49017	Utah	Garfield	pcnt_park_access	18
+49019	Utah	Grand	pcnt_park_access	50
+49021	Utah	Iron	pcnt_park_access	
+49023	Utah	Juab	pcnt_park_access	13
+49025	Utah	Kane	pcnt_park_access	36
+49027	Utah	Millard	pcnt_park_access	1
+49029	Utah	Morgan	pcnt_park_access	19
+49031	Utah	Piute	pcnt_park_access	10
+49033	Utah	Rich	pcnt_park_access	3
+49035	Utah	Salt Lake	pcnt_park_access	57
+49037	Utah	San Juan	pcnt_park_access	19
+49039	Utah	Sanpete	pcnt_park_access	27
+49041	Utah	Sevier	pcnt_park_access	21
+49043	Utah	Summit	pcnt_park_access	8
+49045	Utah	Tooele	pcnt_park_access	12
+49047	Utah	Uintah	pcnt_park_access	1
+49049	Utah	Utah	pcnt_park_access	58
+49051	Utah	Wasatch	pcnt_park_access	31
+49053	Utah	Washington	pcnt_park_access	42
+49055	Utah	Wayne	pcnt_park_access	9
+49057	Utah	Weber	pcnt_park_access	69
+50001	Vermont	Addison	pcnt_park_access	2
+50003	Vermont	Bennington	pcnt_park_access	19
+50005	Vermont	Caledonia	pcnt_park_access	5
+50007	Vermont	Chittenden	pcnt_park_access	29
+50009	Vermont	Essex	pcnt_park_access	2
+50011	Vermont	Franklin	pcnt_park_access	5
+50013	Vermont	Grand Isle	pcnt_park_access	8
+50015	Vermont	Lamoille	pcnt_park_access	1
+50017	Vermont	Orange	pcnt_park_access	4
+50019	Vermont	Orleans	pcnt_park_access	7
+50021	Vermont	Rutland	pcnt_park_access	12
+50023	Vermont	Washington	pcnt_park_access	12
+50025	Vermont	Windham	pcnt_park_access	10
+50027	Vermont	Windsor	pcnt_park_access	12
+51001	Virginia	Accomack	pcnt_park_access	3
+51003	Virginia	Albemarle	pcnt_park_access	12
+51005	Virginia	Alleghany	pcnt_park_access	25
+51007	Virginia	Amelia	pcnt_park_access	
+51009	Virginia	Amherst	pcnt_park_access	4
+51011	Virginia	Appomattox	pcnt_park_access	3
+51013	Virginia	Arlington	pcnt_park_access	90
+51015	Virginia	Augusta	pcnt_park_access	2
+51017	Virginia	Bath	pcnt_park_access	1
+51019	Virginia	Bedford	pcnt_park_access	2
+51021	Virginia	Bland	pcnt_park_access	
+51023	Virginia	Botetourt	pcnt_park_access	5
+51025	Virginia	Brunswick	pcnt_park_access	
+51027	Virginia	Buchanan	pcnt_park_access	
+51029	Virginia	Buckingham	pcnt_park_access	
+51031	Virginia	Campbell	pcnt_park_access	2
+51033	Virginia	Caroline	pcnt_park_access	1
+51035	Virginia	Carroll	pcnt_park_access	4
+51036	Virginia	Charles City	pcnt_park_access	3
+51037	Virginia	Charlotte	pcnt_park_access	2
+51041	Virginia	Chesterfield	pcnt_park_access	9
+51043	Virginia	Clarke	pcnt_park_access	1
+51045	Virginia	Craig	pcnt_park_access	12
+51047	Virginia	Culpeper	pcnt_park_access	
+51049	Virginia	Cumberland	pcnt_park_access	1
+51051	Virginia	Dickenson	pcnt_park_access	1
+51053	Virginia	Dinwiddie	pcnt_park_access	5
+51057	Virginia	Essex	pcnt_park_access	1
+51059	Virginia	Fairfax	pcnt_park_access	82
+51061	Virginia	Fauquier	pcnt_park_access	3
+51063	Virginia	Floyd	pcnt_park_access	
+51065	Virginia	Fluvanna	pcnt_park_access	1
+51067	Virginia	Franklin	pcnt_park_access	1
+51069	Virginia	Frederick	pcnt_park_access	7
+51071	Virginia	Giles	pcnt_park_access	5
+51073	Virginia	Gloucester	pcnt_park_access	2
+51075	Virginia	Goochland	pcnt_park_access	
+51077	Virginia	Grayson	pcnt_park_access	12
+51079	Virginia	Greene	pcnt_park_access	3
+51081	Virginia	Greensville	pcnt_park_access	3
+51083	Virginia	Halifax	pcnt_park_access	
+51085	Virginia	Hanover	pcnt_park_access	6
+51087	Virginia	Henrico	pcnt_park_access	17
+51089	Virginia	Henry	pcnt_park_access	2
+51091	Virginia	Highland	pcnt_park_access	
+51093	Virginia	Isle of Wight	pcnt_park_access	2
+51095	Virginia	James City	pcnt_park_access	16
+51097	Virginia	King and Queen	pcnt_park_access	
+51099	Virginia	King George	pcnt_park_access	4
+51101	Virginia	King William	pcnt_park_access	1
+51103	Virginia	Lancaster	pcnt_park_access	
+51105	Virginia	Lee	pcnt_park_access	4
+51107	Virginia	Loudoun	pcnt_park_access	18
+51109	Virginia	Louisa	pcnt_park_access	
+51111	Virginia	Lunenburg	pcnt_park_access	
+51113	Virginia	Madison	pcnt_park_access	2
+51115	Virginia	Mathews	pcnt_park_access	
+51117	Virginia	Mecklenburg	pcnt_park_access	
+51119	Virginia	Middlesex	pcnt_park_access	4
+51121	Virginia	Montgomery	pcnt_park_access	1
+51125	Virginia	Nelson	pcnt_park_access	1
+51127	Virginia	New Kent	pcnt_park_access	
+51131	Virginia	Northampton	pcnt_park_access	8
+51133	Virginia	Northumberland	pcnt_park_access	
+51135	Virginia	Nottoway	pcnt_park_access	
+51137	Virginia	Orange	pcnt_park_access	13
+51139	Virginia	Page	pcnt_park_access	14
+51141	Virginia	Patrick	pcnt_park_access	1
+51143	Virginia	Pittsylvania	pcnt_park_access	2
+51145	Virginia	Powhatan	pcnt_park_access	2
+51147	Virginia	Prince Edward	pcnt_park_access	
+51149	Virginia	Prince George	pcnt_park_access	9
+51153	Virginia	Prince William	pcnt_park_access	32
+51155	Virginia	Pulaski	pcnt_park_access	12
+51157	Virginia	Rappahannock	pcnt_park_access	8
+51159	Virginia	Richmond	pcnt_park_access	
+51161	Virginia	Roanoke	pcnt_park_access	25
+51163	Virginia	Rockbridge	pcnt_park_access	1
+51165	Virginia	Rockingham	pcnt_park_access	5
+51167	Virginia	Russell	pcnt_park_access	1
+51169	Virginia	Scott	pcnt_park_access	2
+51171	Virginia	Shenandoah	pcnt_park_access	3
+51173	Virginia	Smyth	pcnt_park_access	12
+51175	Virginia	Southampton	pcnt_park_access	4
+51177	Virginia	Spotsylvania	pcnt_park_access	20
+51179	Virginia	Stafford	pcnt_park_access	6
+51181	Virginia	Surry	pcnt_park_access	4
+51183	Virginia	Sussex	pcnt_park_access	
+51185	Virginia	Tazewell	pcnt_park_access	2
+51187	Virginia	Warren	pcnt_park_access	27
+51191	Virginia	Washington	pcnt_park_access	4
+51193	Virginia	Westmoreland	pcnt_park_access	1
+51195	Virginia	Wise	pcnt_park_access	3
+51197	Virginia	Wythe	pcnt_park_access	5
+51199	Virginia	York	pcnt_park_access	37
+51510	Virginia	Alexandria City	pcnt_park_access	83
+51515	Virginia	Bedford City	pcnt_park_access	58
+51520	Virginia	Bristol City	pcnt_park_access	66
+51530	Virginia	Buena Vista City	pcnt_park_access	30
+51540	Virginia	Charlottesville City	pcnt_park_access	72
+51550	Virginia	Chesapeake City	pcnt_park_access	21
+51570	Virginia	Colonial Heights City	pcnt_park_access	
+51580	Virginia	Covington City	pcnt_park_access	28
+51590	Virginia	Danville City	pcnt_park_access	18
+51595	Virginia	Emporia City	pcnt_park_access	18
+51600	Virginia	Fairfax City	pcnt_park_access	98
+51610	Virginia	Falls Church City	pcnt_park_access	63
+51620	Virginia	Franklin City	pcnt_park_access	12
+51630	Virginia	Fredericksburg City	pcnt_park_access	45
+51640	Virginia	Galax City	pcnt_park_access	20
+51650	Virginia	Hampton City	pcnt_park_access	46
+51660	Virginia	Harrisonburg City	pcnt_park_access	31
+51670	Virginia	Hopewell City	pcnt_park_access	23
+51678	Virginia	Lexington City	pcnt_park_access	24
+51680	Virginia	Lynchburg City	pcnt_park_access	10
+51683	Virginia	Manassas City	pcnt_park_access	27
+51685	Virginia	Manassas Park City	pcnt_park_access	64
+51690	Virginia	Martinsville City	pcnt_park_access	56
+51700	Virginia	Newport News City	pcnt_park_access	41
+51710	Virginia	Norfolk City	pcnt_park_access	47
+51720	Virginia	Norton City	pcnt_park_access	36
+51730	Virginia	Petersburg City	pcnt_park_access	43
+51735	Virginia	Poquoson City	pcnt_park_access	11
+51740	Virginia	Portsmouth City	pcnt_park_access	48
+51750	Virginia	Radford City	pcnt_park_access	31
+51760	Virginia	Richmond City	pcnt_park_access	42
+51770	Virginia	Roanoke City	pcnt_park_access	61
+51775	Virginia	Salem City	pcnt_park_access	41
+51790	Virginia	Staunton City	pcnt_park_access	53
+51800	Virginia	Suffolk City	pcnt_park_access	17
+51810	Virginia	Virginia Beach City	pcnt_park_access	25
+51820	Virginia	Waynesboro City	pcnt_park_access	16
+51830	Virginia	Williamsburg City	pcnt_park_access	48
+51840	Virginia	Winchester City	pcnt_park_access	55
+53001	Washington	Adams	pcnt_park_access	37
+53003	Washington	Asotin	pcnt_park_access	27
+53005	Washington	Benton	pcnt_park_access	52
+53007	Washington	Chelan	pcnt_park_access	33
+53009	Washington	Clallam	pcnt_park_access	26
+53011	Washington	Clark	pcnt_park_access	57
+53013	Washington	Columbia	pcnt_park_access	36
+53015	Washington	Cowlitz	pcnt_park_access	37
+53017	Washington	Douglas	pcnt_park_access	5
+53019	Washington	Ferry	pcnt_park_access	18
+53021	Washington	Franklin	pcnt_park_access	54
+53023	Washington	Garfield	pcnt_park_access	37
+53025	Washington	Grant	pcnt_park_access	6
+53027	Washington	Grays Harbor	pcnt_park_access	30
+53029	Washington	Island	pcnt_park_access	36
+53031	Washington	Jefferson	pcnt_park_access	41
+53033	Washington	King	pcnt_park_access	73
+53035	Washington	Kitsap	pcnt_park_access	32
+53037	Washington	Kittitas	pcnt_park_access	33
+53039	Washington	Klickitat	pcnt_park_access	14
+53041	Washington	Lewis	pcnt_park_access	23
+53043	Washington	Lincoln	pcnt_park_access	12
+53045	Washington	Mason	pcnt_park_access	14
+53047	Washington	Okanogan	pcnt_park_access	5
+53049	Washington	Pacific	pcnt_park_access	14
+53051	Washington	Pend Oreille	pcnt_park_access	15
+53053	Washington	Pierce	pcnt_park_access	42
+53055	Washington	San Juan	pcnt_park_access	9
+53057	Washington	Skagit	pcnt_park_access	39
+53059	Washington	Skamania	pcnt_park_access	4
+53061	Washington	Snohomish	pcnt_park_access	44
+53063	Washington	Spokane	pcnt_park_access	46
+53065	Washington	Stevens	pcnt_park_access	13
+53067	Washington	Thurston	pcnt_park_access	39
+53069	Washington	Wahkiakum	pcnt_park_access	
+53071	Washington	Walla Walla	pcnt_park_access	44
+53073	Washington	Whatcom	pcnt_park_access	36
+53075	Washington	Whitman	pcnt_park_access	7
+53077	Washington	Yakima	pcnt_park_access	48
+54001	West Virginia	Barbour	pcnt_park_access	10
+54003	West Virginia	Berkeley	pcnt_park_access	9
+54005	West Virginia	Boone	pcnt_park_access	4
+54007	West Virginia	Braxton	pcnt_park_access	
+54009	West Virginia	Brooke	pcnt_park_access	18
+54011	West Virginia	Cabell	pcnt_park_access	31
+54013	West Virginia	Calhoun	pcnt_park_access	1
+54015	West Virginia	Clay	pcnt_park_access	2
+54017	West Virginia	Doddridge	pcnt_park_access	
+54019	West Virginia	Fayette	pcnt_park_access	9
+54021	West Virginia	Gilmer	pcnt_park_access	1
+54023	West Virginia	Grant	pcnt_park_access	10
+54025	West Virginia	Greenbrier	pcnt_park_access	1
+54027	West Virginia	Hampshire	pcnt_park_access	
+54029	West Virginia	Hancock	pcnt_park_access	5
+54031	West Virginia	Hardy	pcnt_park_access	1
+54033	West Virginia	Harrison	pcnt_park_access	14
+54035	West Virginia	Jackson	pcnt_park_access	
+54037	West Virginia	Jefferson	pcnt_park_access	16
+54039	West Virginia	Kanawha	pcnt_park_access	7
+54041	West Virginia	Lewis	pcnt_park_access	10
+54043	West Virginia	Lincoln	pcnt_park_access	
+54045	West Virginia	Logan	pcnt_park_access	3
+54047	West Virginia	McDowell	pcnt_park_access	2
+54049	West Virginia	Marion	pcnt_park_access	7
+54051	West Virginia	Marshall	pcnt_park_access	7
+54053	West Virginia	Mason	pcnt_park_access	8
+54055	West Virginia	Mercer	pcnt_park_access	4
+54057	West Virginia	Mineral	pcnt_park_access	1
+54059	West Virginia	Mingo	pcnt_park_access	5
+54061	West Virginia	Monongalia	pcnt_park_access	24
+54063	West Virginia	Monroe	pcnt_park_access	
+54065	West Virginia	Morgan	pcnt_park_access	12
+54067	West Virginia	Nicholas	pcnt_park_access	1
+54069	West Virginia	Ohio	pcnt_park_access	13
+54071	West Virginia	Pendleton	pcnt_park_access	14
+54073	West Virginia	Pleasants	pcnt_park_access	19
+54075	West Virginia	Pocahontas	pcnt_park_access	5
+54077	West Virginia	Preston	pcnt_park_access	1
+54079	West Virginia	Putnam	pcnt_park_access	
+54081	West Virginia	Raleigh	pcnt_park_access	4
+54083	West Virginia	Randolph	pcnt_park_access	9
+54085	West Virginia	Ritchie	pcnt_park_access	
+54087	West Virginia	Roane	pcnt_park_access	
+54089	West Virginia	Summers	pcnt_park_access	3
+54091	West Virginia	Taylor	pcnt_park_access	3
+54093	West Virginia	Tucker	pcnt_park_access	3
+54095	West Virginia	Tyler	pcnt_park_access	13
+54097	West Virginia	Upshur	pcnt_park_access	23
+54099	West Virginia	Wayne	pcnt_park_access	11
+54101	West Virginia	Webster	pcnt_park_access	1
+54103	West Virginia	Wetzel	pcnt_park_access	27
+54105	West Virginia	Wirt	pcnt_park_access	
+54107	West Virginia	Wood	pcnt_park_access	8
+54109	West Virginia	Wyoming	pcnt_park_access	1
+55001	Wisconsin	Adams	pcnt_park_access	9
+55003	Wisconsin	Ashland	pcnt_park_access	28
+55005	Wisconsin	Barron	pcnt_park_access	22
+55007	Wisconsin	Bayfield	pcnt_park_access	9
+55009	Wisconsin	Brown	pcnt_park_access	63
+55011	Wisconsin	Buffalo	pcnt_park_access	28
+55013	Wisconsin	Burnett	pcnt_park_access	8
+55015	Wisconsin	Calumet	pcnt_park_access	44
+55017	Wisconsin	Chippewa	pcnt_park_access	13
+55019	Wisconsin	Clark	pcnt_park_access	22
+55021	Wisconsin	Columbia	pcnt_park_access	33
+55023	Wisconsin	Crawford	pcnt_park_access	17
+55025	Wisconsin	Dane	pcnt_park_access	79
+55027	Wisconsin	Dodge	pcnt_park_access	42
+55029	Wisconsin	Door	pcnt_park_access	20
+55031	Wisconsin	Douglas	pcnt_park_access	52
+55033	Wisconsin	Dunn	pcnt_park_access	25
+55035	Wisconsin	Eau Claire	pcnt_park_access	34
+55037	Wisconsin	Florence	pcnt_park_access	
+55039	Wisconsin	Fond du Lac	pcnt_park_access	31
+55041	Wisconsin	Forest	pcnt_park_access	
+55043	Wisconsin	Grant	pcnt_park_access	13
+55045	Wisconsin	Green	pcnt_park_access	32
+55047	Wisconsin	Green Lake	pcnt_park_access	36
+55049	Wisconsin	Iowa	pcnt_park_access	13
+55051	Wisconsin	Iron	pcnt_park_access	6
+55053	Wisconsin	Jackson	pcnt_park_access	14
+55055	Wisconsin	Jefferson	pcnt_park_access	45
+55057	Wisconsin	Juneau	pcnt_park_access	16
+55059	Wisconsin	Kenosha	pcnt_park_access	47
+55061	Wisconsin	Kewaunee	pcnt_park_access	33
+55063	Wisconsin	La Crosse	pcnt_park_access	58
+55065	Wisconsin	Lafayette	pcnt_park_access	7
+55067	Wisconsin	Langlade	pcnt_park_access	28
+55069	Wisconsin	Lincoln	pcnt_park_access	13
+55071	Wisconsin	Manitowoc	pcnt_park_access	43
+55073	Wisconsin	Marathon	pcnt_park_access	51
+55075	Wisconsin	Marinette	pcnt_park_access	17
+55077	Wisconsin	Marquette	pcnt_park_access	15
+55078	Wisconsin	Menominee	pcnt_park_access	
+55079	Wisconsin	Milwaukee	pcnt_park_access	80
+55081	Wisconsin	Monroe	pcnt_park_access	25
+55083	Wisconsin	Oconto	pcnt_park_access	9
+55085	Wisconsin	Oneida	pcnt_park_access	19
+55087	Wisconsin	Outagamie	pcnt_park_access	48
+55089	Wisconsin	Ozaukee	pcnt_park_access	47
+55091	Wisconsin	Pepin	pcnt_park_access	25
+55093	Wisconsin	Pierce	pcnt_park_access	23
+55095	Wisconsin	Polk	pcnt_park_access	14
+55097	Wisconsin	Portage	pcnt_park_access	32
+55099	Wisconsin	Price	pcnt_park_access	11
+55101	Wisconsin	Racine	pcnt_park_access	57
+55103	Wisconsin	Richland	pcnt_park_access	21
+55105	Wisconsin	Rock	pcnt_park_access	55
+55107	Wisconsin	Rusk	pcnt_park_access	25
+55109	Wisconsin	St. Croix	pcnt_park_access	13
+55111	Wisconsin	Sauk	pcnt_park_access	45
+55113	Wisconsin	Sawyer	pcnt_park_access	
+55115	Wisconsin	Shawano	pcnt_park_access	16
+55117	Wisconsin	Sheboygan	pcnt_park_access	54
+55119	Wisconsin	Taylor	pcnt_park_access	2
+55121	Wisconsin	Trempealeau	pcnt_park_access	24
+55123	Wisconsin	Vernon	pcnt_park_access	29
+55125	Wisconsin	Vilas	pcnt_park_access	2
+55127	Wisconsin	Walworth	pcnt_park_access	33
+55129	Wisconsin	Washburn	pcnt_park_access	18
+55131	Wisconsin	Washington	pcnt_park_access	52
+55133	Wisconsin	Waukesha	pcnt_park_access	52
+55135	Wisconsin	Waupaca	pcnt_park_access	30
+55137	Wisconsin	Waushara	pcnt_park_access	10
+55139	Wisconsin	Winnebago	pcnt_park_access	47
+55141	Wisconsin	Wood	pcnt_park_access	27
+56001	Wyoming	Albany	pcnt_park_access	31
+56003	Wyoming	Big Horn	pcnt_park_access	27
+56005	Wyoming	Campbell	pcnt_park_access	14
+56007	Wyoming	Carbon	pcnt_park_access	
+56009	Wyoming	Converse	pcnt_park_access	
+56011	Wyoming	Crook	pcnt_park_access	5
+56013	Wyoming	Fremont	pcnt_park_access	12
+56015	Wyoming	Goshen	pcnt_park_access	35
+56017	Wyoming	Hot Springs	pcnt_park_access	36
+56019	Wyoming	Johnson	pcnt_park_access	32
+56021	Wyoming	Laramie	pcnt_park_access	45
+56023	Wyoming	Lincoln	pcnt_park_access	3
+56025	Wyoming	Natrona	pcnt_park_access	41
+56027	Wyoming	Niobrara	pcnt_park_access	45
+56029	Wyoming	Park	pcnt_park_access	52
+56031	Wyoming	Platte	pcnt_park_access	4
+56033	Wyoming	Sheridan	pcnt_park_access	29
+56035	Wyoming	Sublette	pcnt_park_access	
+56037	Wyoming	Sweetwater	pcnt_park_access	16
+56039	Wyoming	Teton	pcnt_park_access	49
+56041	Wyoming	Uinta	pcnt_park_access	3
+56043	Wyoming	Washakie	pcnt_park_access	35
+56045	Wyoming	Weston	pcnt_park_access	13

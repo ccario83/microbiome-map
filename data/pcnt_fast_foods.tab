@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_fast_foods
-01001	Alabama	Autauga	pcnt_fast_foods	52
-01003	Alabama	Baldwin	pcnt_fast_foods	35
-01005	Alabama	Barbour	pcnt_fast_foods	56
-01007	Alabama	Bibb	pcnt_fast_foods	45
-01009	Alabama	Blount	pcnt_fast_foods	56
-01011	Alabama	Bullock	pcnt_fast_foods	50
-01013	Alabama	Butler	pcnt_fast_foods	47
-01015	Alabama	Calhoun	pcnt_fast_foods	55
-01017	Alabama	Chambers	pcnt_fast_foods	54
-01019	Alabama	Cherokee	pcnt_fast_foods	67
-01021	Alabama	Chilton	pcnt_fast_foods	56
-01023	Alabama	Choctaw	pcnt_fast_foods	38
-01025	Alabama	Clarke	pcnt_fast_foods	63
-01027	Alabama	Clay	pcnt_fast_foods	40
-01029	Alabama	Cleburne	pcnt_fast_foods	64
-01031	Alabama	Coffee	pcnt_fast_foods	51
-01033	Alabama	Colbert	pcnt_fast_foods	55
-01035	Alabama	Conecuh	pcnt_fast_foods	50
-01037	Alabama	Coosa	pcnt_fast_foods	
-01039	Alabama	Covington	pcnt_fast_foods	54
-01041	Alabama	Crenshaw	pcnt_fast_foods	29
-01043	Alabama	Cullman	pcnt_fast_foods	52
-01045	Alabama	Dale	pcnt_fast_foods	52
-01047	Alabama	Dallas	pcnt_fast_foods	54
-01049	Alabama	DeKalb	pcnt_fast_foods	56
-01051	Alabama	Elmore	pcnt_fast_foods	42
-01053	Alabama	Escambia	pcnt_fast_foods	56
-01055	Alabama	Etowah	pcnt_fast_foods	61
-01057	Alabama	Fayette	pcnt_fast_foods	67
-01059	Alabama	Franklin	pcnt_fast_foods	49
-01061	Alabama	Geneva	pcnt_fast_foods	60
-01063	Alabama	Greene	pcnt_fast_foods	25
-01065	Alabama	Hale	pcnt_fast_foods	50
-01067	Alabama	Henry	pcnt_fast_foods	56
-01069	Alabama	Houston	pcnt_fast_foods	53
-01071	Alabama	Jackson	pcnt_fast_foods	56
-01073	Alabama	Jefferson	pcnt_fast_foods	60
-01075	Alabama	Lamar	pcnt_fast_foods	31
-01077	Alabama	Lauderdale	pcnt_fast_foods	49
-01079	Alabama	Lawrence	pcnt_fast_foods	51
-01081	Alabama	Lee	pcnt_fast_foods	54
-01083	Alabama	Limestone	pcnt_fast_foods	52
-01085	Alabama	Lowndes	pcnt_fast_foods	67
-01087	Alabama	Macon	pcnt_fast_foods	81
-01089	Alabama	Madison	pcnt_fast_foods	56
-01091	Alabama	Marengo	pcnt_fast_foods	59
-01093	Alabama	Marion	pcnt_fast_foods	53
-01095	Alabama	Marshall	pcnt_fast_foods	48
-01097	Alabama	Mobile	pcnt_fast_foods	55
-01099	Alabama	Monroe	pcnt_fast_foods	60
-01101	Alabama	Montgomery	pcnt_fast_foods	54
-01103	Alabama	Morgan	pcnt_fast_foods	60
-01105	Alabama	Perry	pcnt_fast_foods	22
-01107	Alabama	Pickens	pcnt_fast_foods	44
-01109	Alabama	Pike	pcnt_fast_foods	57
-01111	Alabama	Randolph	pcnt_fast_foods	53
-01113	Alabama	Russell	pcnt_fast_foods	65
-01115	Alabama	St. Clair	pcnt_fast_foods	50
-01117	Alabama	Shelby	pcnt_fast_foods	46
-01119	Alabama	Sumter	pcnt_fast_foods	54
-01121	Alabama	Talladega	pcnt_fast_foods	53
-01123	Alabama	Tallapoosa	pcnt_fast_foods	51
-01125	Alabama	Tuscaloosa	pcnt_fast_foods	60
-01127	Alabama	Walker	pcnt_fast_foods	54
-01129	Alabama	Washington	pcnt_fast_foods	42
-01131	Alabama	Wilcox	pcnt_fast_foods	44
-01133	Alabama	Winston	pcnt_fast_foods	33
-02013	Alaska	Aleutians East	pcnt_fast_foods	100
-02016	Alaska	Aleutians West	pcnt_fast_foods	33
-02020	Alaska	Anchorage	pcnt_fast_foods	50
-02050	Alaska	Bethel	pcnt_fast_foods	55
-02060	Alaska	Bristol Bay	pcnt_fast_foods	33
-02068	Alaska	Denali	pcnt_fast_foods	22
-02070	Alaska	Dillingham	pcnt_fast_foods	
-02090	Alaska	Fairbanks North Star	pcnt_fast_foods	42
-02100	Alaska	Haines	pcnt_fast_foods	14
-02110	Alaska	Juneau	pcnt_fast_foods	40
-02122	Alaska	Kenai Peninsula	pcnt_fast_foods	33
-02130	Alaska	Ketchikan Gateway	pcnt_fast_foods	38
-02150	Alaska	Kodiak Island	pcnt_fast_foods	38
-02164	Alaska	Lake and Peninsula	pcnt_fast_foods	
-02170	Alaska	Matanuska-Susitna	pcnt_fast_foods	47
-02180	Alaska	Nome	pcnt_fast_foods	44
-02185	Alaska	North Slope	pcnt_fast_foods	38
-02188	Alaska	Northwest Arctic	pcnt_fast_foods	100
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_fast_foods	60
-02220	Alaska	Sitka	pcnt_fast_foods	23
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_fast_foods	31
-02240	Alaska	Southeast Fairbanks	pcnt_fast_foods	40
-02261	Alaska	Valdez-Cordova	pcnt_fast_foods	35
-02270	Alaska	Wade Hampton	pcnt_fast_foods	
-02280	Alaska	Wrangell-Petersburg	pcnt_fast_foods	70
-02282	Alaska	Yakutat	pcnt_fast_foods	100
-02290	Alaska	Yukon-Koyukuk	pcnt_fast_foods	
-04001	Arizona	Apache	pcnt_fast_foods	53
-04003	Arizona	Cochise	pcnt_fast_foods	39
-04005	Arizona	Coconino	pcnt_fast_foods	43
-04007	Arizona	Gila	pcnt_fast_foods	39
-04009	Arizona	Graham	pcnt_fast_foods	52
-04011	Arizona	Greenlee	pcnt_fast_foods	14
-04012	Arizona	La Paz	pcnt_fast_foods	42
-04013	Arizona	Maricopa	pcnt_fast_foods	54
-04015	Arizona	Mohave	pcnt_fast_foods	46
-04017	Arizona	Navajo	pcnt_fast_foods	47
-04019	Arizona	Pima	pcnt_fast_foods	50
-04021	Arizona	Pinal	pcnt_fast_foods	56
-04023	Arizona	Santa Cruz	pcnt_fast_foods	44
-04025	Arizona	Yavapai	pcnt_fast_foods	42
-04027	Arizona	Yuma	pcnt_fast_foods	57
-05001	Arkansas	Arkansas	pcnt_fast_foods	59
-05003	Arkansas	Ashley	pcnt_fast_foods	59
-05005	Arkansas	Baxter	pcnt_fast_foods	40
-05007	Arkansas	Benton	pcnt_fast_foods	53
-05009	Arkansas	Boone	pcnt_fast_foods	53
-05011	Arkansas	Bradley	pcnt_fast_foods	44
-05013	Arkansas	Calhoun	pcnt_fast_foods	50
-05015	Arkansas	Carroll	pcnt_fast_foods	23
-05017	Arkansas	Chicot	pcnt_fast_foods	45
-05019	Arkansas	Clark	pcnt_fast_foods	61
-05021	Arkansas	Clay	pcnt_fast_foods	58
-05023	Arkansas	Cleburne	pcnt_fast_foods	42
-05025	Arkansas	Cleveland	pcnt_fast_foods	67
-05027	Arkansas	Columbia	pcnt_fast_foods	58
-05029	Arkansas	Conway	pcnt_fast_foods	45
-05031	Arkansas	Craighead	pcnt_fast_foods	54
-05033	Arkansas	Crawford	pcnt_fast_foods	42
-05035	Arkansas	Crittenden	pcnt_fast_foods	64
-05037	Arkansas	Cross	pcnt_fast_foods	47
-05039	Arkansas	Dallas	pcnt_fast_foods	50
-05041	Arkansas	Desha	pcnt_fast_foods	47
-05043	Arkansas	Drew	pcnt_fast_foods	54
-05045	Arkansas	Faulkner	pcnt_fast_foods	48
-05047	Arkansas	Franklin	pcnt_fast_foods	35
-05049	Arkansas	Fulton	pcnt_fast_foods	40
-05051	Arkansas	Garland	pcnt_fast_foods	42
-05053	Arkansas	Grant	pcnt_fast_foods	53
-05055	Arkansas	Greene	pcnt_fast_foods	54
-05057	Arkansas	Hempstead	pcnt_fast_foods	48
-05059	Arkansas	Hot Spring	pcnt_fast_foods	64
-05061	Arkansas	Howard	pcnt_fast_foods	64
-05063	Arkansas	Independence	pcnt_fast_foods	50
-05065	Arkansas	Izard	pcnt_fast_foods	40
-05067	Arkansas	Jackson	pcnt_fast_foods	31
-05069	Arkansas	Jefferson	pcnt_fast_foods	63
-05071	Arkansas	Johnson	pcnt_fast_foods	59
-05073	Arkansas	Lafayette	pcnt_fast_foods	40
-05075	Arkansas	Lawrence	pcnt_fast_foods	27
-05077	Arkansas	Lee	pcnt_fast_foods	50
-05079	Arkansas	Lincoln	pcnt_fast_foods	13
-05081	Arkansas	Little River	pcnt_fast_foods	44
-05083	Arkansas	Logan	pcnt_fast_foods	44
-05085	Arkansas	Lonoke	pcnt_fast_foods	52
-05087	Arkansas	Madison	pcnt_fast_foods	25
-05089	Arkansas	Marion	pcnt_fast_foods	45
-05091	Arkansas	Miller	pcnt_fast_foods	52
-05093	Arkansas	Mississippi	pcnt_fast_foods	57
-05095	Arkansas	Monroe	pcnt_fast_foods	50
-05097	Arkansas	Montgomery	pcnt_fast_foods	38
-05099	Arkansas	Nevada	pcnt_fast_foods	60
-05101	Arkansas	Newton	pcnt_fast_foods	25
-05103	Arkansas	Ouachita	pcnt_fast_foods	50
-05105	Arkansas	Perry	pcnt_fast_foods	60
-05107	Arkansas	Phillips	pcnt_fast_foods	50
-05109	Arkansas	Pike	pcnt_fast_foods	50
-05111	Arkansas	Poinsett	pcnt_fast_foods	67
-05113	Arkansas	Polk	pcnt_fast_foods	38
-05115	Arkansas	Pope	pcnt_fast_foods	65
-05117	Arkansas	Prairie	pcnt_fast_foods	36
-05119	Arkansas	Pulaski	pcnt_fast_foods	51
-05121	Arkansas	Randolph	pcnt_fast_foods	48
-05123	Arkansas	St. Francis	pcnt_fast_foods	39
-05125	Arkansas	Saline	pcnt_fast_foods	55
-05127	Arkansas	Scott	pcnt_fast_foods	18
-05129	Arkansas	Searcy	pcnt_fast_foods	80
-05131	Arkansas	Sebastian	pcnt_fast_foods	52
-05133	Arkansas	Sevier	pcnt_fast_foods	39
-05135	Arkansas	Sharp	pcnt_fast_foods	37
-05137	Arkansas	Stone	pcnt_fast_foods	45
-05139	Arkansas	Union	pcnt_fast_foods	48
-05141	Arkansas	Van Buren	pcnt_fast_foods	38
-05143	Arkansas	Washington	pcnt_fast_foods	47
-05145	Arkansas	White	pcnt_fast_foods	53
-05147	Arkansas	Woodruff	pcnt_fast_foods	50
-05149	Arkansas	Yell	pcnt_fast_foods	46
-06001	California	Alameda	pcnt_fast_foods	44
-06003	California	Alpine	pcnt_fast_foods	50
-06005	California	Amador	pcnt_fast_foods	31
-06007	California	Butte	pcnt_fast_foods	54
-06009	California	Calaveras	pcnt_fast_foods	35
-06011	California	Colusa	pcnt_fast_foods	48
-06013	California	Contra Costa	pcnt_fast_foods	47
-06015	California	Del Norte	pcnt_fast_foods	44
-06017	California	El Dorado	pcnt_fast_foods	40
-06019	California	Fresno	pcnt_fast_foods	53
-06021	California	Glenn	pcnt_fast_foods	50
-06023	California	Humboldt	pcnt_fast_foods	40
-06025	California	Imperial	pcnt_fast_foods	50
-06027	California	Inyo	pcnt_fast_foods	30
-06029	California	Kern	pcnt_fast_foods	58
-06031	California	Kings	pcnt_fast_foods	64
-06033	California	Lake	pcnt_fast_foods	37
-06035	California	Lassen	pcnt_fast_foods	41
-06037	California	Los Angeles	pcnt_fast_foods	50
-06039	California	Madera	pcnt_fast_foods	59
-06041	California	Marin	pcnt_fast_foods	34
-06043	California	Mariposa	pcnt_fast_foods	41
-06045	California	Mendocino	pcnt_fast_foods	31
-06047	California	Merced	pcnt_fast_foods	60
-06049	California	Modoc	pcnt_fast_foods	35
-06051	California	Mono	pcnt_fast_foods	30
-06053	California	Monterey	pcnt_fast_foods	40
-06055	California	Napa	pcnt_fast_foods	37
-06057	California	Nevada	pcnt_fast_foods	34
-06059	California	Orange	pcnt_fast_foods	51
-06061	California	Placer	pcnt_fast_foods	48
-06063	California	Plumas	pcnt_fast_foods	26
-06065	California	Riverside	pcnt_fast_foods	54
-06067	California	Sacramento	pcnt_fast_foods	51
-06069	California	San Benito	pcnt_fast_foods	50
-06071	California	San Bernardino	pcnt_fast_foods	58
-06073	California	San Diego	pcnt_fast_foods	50
-06075	California	San Francisco	pcnt_fast_foods	30
-06077	California	San Joaquin	pcnt_fast_foods	54
-06079	California	San Luis Obispo	pcnt_fast_foods	42
-06081	California	San Mateo	pcnt_fast_foods	40
-06083	California	Santa Barbara	pcnt_fast_foods	45
-06085	California	Santa Clara	pcnt_fast_foods	45
-06087	California	Santa Cruz	pcnt_fast_foods	42
-06089	California	Shasta	pcnt_fast_foods	51
-06091	California	Sierra	pcnt_fast_foods	33
-06093	California	Siskiyou	pcnt_fast_foods	41
-06095	California	Solano	pcnt_fast_foods	55
-06097	California	Sonoma	pcnt_fast_foods	37
-06099	California	Stanislaus	pcnt_fast_foods	54
-06101	California	Sutter	pcnt_fast_foods	51
-06103	California	Tehama	pcnt_fast_foods	52
-06105	California	Trinity	pcnt_fast_foods	54
-06107	California	Tulare	pcnt_fast_foods	51
-06109	California	Tuolumne	pcnt_fast_foods	31
-06111	California	Ventura	pcnt_fast_foods	49
-06113	California	Yolo	pcnt_fast_foods	53
-06115	California	Yuba	pcnt_fast_foods	57
-08001	Colorado	Adams	pcnt_fast_foods	56
-08003	Colorado	Alamosa	pcnt_fast_foods	41
-08005	Colorado	Arapahoe	pcnt_fast_foods	53
-08007	Colorado	Archuleta	pcnt_fast_foods	29
-08009	Colorado	Baca	pcnt_fast_foods	33
-08011	Colorado	Bent	pcnt_fast_foods	50
-08013	Colorado	Boulder	pcnt_fast_foods	43
-08014	Colorado	Broomfield	pcnt_fast_foods	61
-08015	Colorado	Chaffee	pcnt_fast_foods	40
-08017	Colorado	Cheyenne	pcnt_fast_foods	
-08019	Colorado	Clear Creek	pcnt_fast_foods	30
-08021	Colorado	Conejos	pcnt_fast_foods	25
-08023	Colorado	Costilla	pcnt_fast_foods	
-08025	Colorado	Crowley	pcnt_fast_foods	
-08027	Colorado	Custer	pcnt_fast_foods	14
-08029	Colorado	Delta	pcnt_fast_foods	27
-08031	Colorado	Denver	pcnt_fast_foods	44
-08033	Colorado	Dolores	pcnt_fast_foods	50
-08035	Colorado	Douglas	pcnt_fast_foods	51
-08037	Colorado	Eagle	pcnt_fast_foods	24
-08039	Colorado	Elbert	pcnt_fast_foods	27
-08041	Colorado	El Paso	pcnt_fast_foods	51
-08043	Colorado	Fremont	pcnt_fast_foods	30
-08045	Colorado	Garfield	pcnt_fast_foods	35
-08047	Colorado	Gilpin	pcnt_fast_foods	
-08049	Colorado	Grand	pcnt_fast_foods	20
-08051	Colorado	Gunnison	pcnt_fast_foods	21
-08053	Colorado	Hinsdale	pcnt_fast_foods	29
-08055	Colorado	Huerfano	pcnt_fast_foods	25
-08057	Colorado	Jackson	pcnt_fast_foods	
-08059	Colorado	Jefferson	pcnt_fast_foods	48
-08061	Colorado	Kiowa	pcnt_fast_foods	
-08063	Colorado	Kit Carson	pcnt_fast_foods	50
-08065	Colorado	Lake	pcnt_fast_foods	43
-08067	Colorado	La Plata	pcnt_fast_foods	34
-08069	Colorado	Larimer	pcnt_fast_foods	50
-08071	Colorado	Las Animas	pcnt_fast_foods	34
-08073	Colorado	Lincoln	pcnt_fast_foods	20
-08075	Colorado	Logan	pcnt_fast_foods	44
-08077	Colorado	Mesa	pcnt_fast_foods	52
-08079	Colorado	Mineral	pcnt_fast_foods	
-08081	Colorado	Moffat	pcnt_fast_foods	29
-08083	Colorado	Montezuma	pcnt_fast_foods	33
-08085	Colorado	Montrose	pcnt_fast_foods	35
-08087	Colorado	Morgan	pcnt_fast_foods	35
-08089	Colorado	Otero	pcnt_fast_foods	33
-08091	Colorado	Ouray	pcnt_fast_foods	32
-08093	Colorado	Park	pcnt_fast_foods	38
-08095	Colorado	Phillips	pcnt_fast_foods	29
-08097	Colorado	Pitkin	pcnt_fast_foods	28
-08099	Colorado	Prowers	pcnt_fast_foods	68
-08101	Colorado	Pueblo	pcnt_fast_foods	48
-08103	Colorado	Rio Blanco	pcnt_fast_foods	33
-08105	Colorado	Rio Grande	pcnt_fast_foods	33
-08107	Colorado	Routt	pcnt_fast_foods	28
-08109	Colorado	Saguache	pcnt_fast_foods	
-08111	Colorado	San Juan	pcnt_fast_foods	36
-08113	Colorado	San Miguel	pcnt_fast_foods	34
-08115	Colorado	Sedgwick	pcnt_fast_foods	17
-08117	Colorado	Summit	pcnt_fast_foods	31
-08119	Colorado	Teller	pcnt_fast_foods	41
-08121	Colorado	Washington	pcnt_fast_foods	33
-08123	Colorado	Weld	pcnt_fast_foods	49
-08125	Colorado	Yuma	pcnt_fast_foods	14
-09001	Connecticut	Fairfield	pcnt_fast_foods	37
-09003	Connecticut	Hartford	pcnt_fast_foods	38
-09005	Connecticut	Litchfield	pcnt_fast_foods	26
-09007	Connecticut	Middlesex	pcnt_fast_foods	32
-09009	Connecticut	New Haven	pcnt_fast_foods	42
-09011	Connecticut	New London	pcnt_fast_foods	36
-09013	Connecticut	Tolland	pcnt_fast_foods	36
-09015	Connecticut	Windham	pcnt_fast_foods	38
+1001	Alabama	Autauga	pcnt_fast_foods	52
+1003	Alabama	Baldwin	pcnt_fast_foods	35
+1005	Alabama	Barbour	pcnt_fast_foods	56
+1007	Alabama	Bibb	pcnt_fast_foods	45
+1009	Alabama	Blount	pcnt_fast_foods	56
+1011	Alabama	Bullock	pcnt_fast_foods	50
+1013	Alabama	Butler	pcnt_fast_foods	47
+1015	Alabama	Calhoun	pcnt_fast_foods	55
+1017	Alabama	Chambers	pcnt_fast_foods	54
+1019	Alabama	Cherokee	pcnt_fast_foods	67
+1021	Alabama	Chilton	pcnt_fast_foods	56
+1023	Alabama	Choctaw	pcnt_fast_foods	38
+1025	Alabama	Clarke	pcnt_fast_foods	63
+1027	Alabama	Clay	pcnt_fast_foods	40
+1029	Alabama	Cleburne	pcnt_fast_foods	64
+1031	Alabama	Coffee	pcnt_fast_foods	51
+1033	Alabama	Colbert	pcnt_fast_foods	55
+1035	Alabama	Conecuh	pcnt_fast_foods	50
+1037	Alabama	Coosa	pcnt_fast_foods	
+1039	Alabama	Covington	pcnt_fast_foods	54
+1041	Alabama	Crenshaw	pcnt_fast_foods	29
+1043	Alabama	Cullman	pcnt_fast_foods	52
+1045	Alabama	Dale	pcnt_fast_foods	52
+1047	Alabama	Dallas	pcnt_fast_foods	54
+1049	Alabama	DeKalb	pcnt_fast_foods	56
+1051	Alabama	Elmore	pcnt_fast_foods	42
+1053	Alabama	Escambia	pcnt_fast_foods	56
+1055	Alabama	Etowah	pcnt_fast_foods	61
+1057	Alabama	Fayette	pcnt_fast_foods	67
+1059	Alabama	Franklin	pcnt_fast_foods	49
+1061	Alabama	Geneva	pcnt_fast_foods	60
+1063	Alabama	Greene	pcnt_fast_foods	25
+1065	Alabama	Hale	pcnt_fast_foods	50
+1067	Alabama	Henry	pcnt_fast_foods	56
+1069	Alabama	Houston	pcnt_fast_foods	53
+1071	Alabama	Jackson	pcnt_fast_foods	56
+1073	Alabama	Jefferson	pcnt_fast_foods	60
+1075	Alabama	Lamar	pcnt_fast_foods	31
+1077	Alabama	Lauderdale	pcnt_fast_foods	49
+1079	Alabama	Lawrence	pcnt_fast_foods	51
+1081	Alabama	Lee	pcnt_fast_foods	54
+1083	Alabama	Limestone	pcnt_fast_foods	52
+1085	Alabama	Lowndes	pcnt_fast_foods	67
+1087	Alabama	Macon	pcnt_fast_foods	81
+1089	Alabama	Madison	pcnt_fast_foods	56
+1091	Alabama	Marengo	pcnt_fast_foods	59
+1093	Alabama	Marion	pcnt_fast_foods	53
+1095	Alabama	Marshall	pcnt_fast_foods	48
+1097	Alabama	Mobile	pcnt_fast_foods	55
+1099	Alabama	Monroe	pcnt_fast_foods	60
+1101	Alabama	Montgomery	pcnt_fast_foods	54
+1103	Alabama	Morgan	pcnt_fast_foods	60
+1105	Alabama	Perry	pcnt_fast_foods	22
+1107	Alabama	Pickens	pcnt_fast_foods	44
+1109	Alabama	Pike	pcnt_fast_foods	57
+1111	Alabama	Randolph	pcnt_fast_foods	53
+1113	Alabama	Russell	pcnt_fast_foods	65
+1115	Alabama	St. Clair	pcnt_fast_foods	50
+1117	Alabama	Shelby	pcnt_fast_foods	46
+1119	Alabama	Sumter	pcnt_fast_foods	54
+1121	Alabama	Talladega	pcnt_fast_foods	53
+1123	Alabama	Tallapoosa	pcnt_fast_foods	51
+1125	Alabama	Tuscaloosa	pcnt_fast_foods	60
+1127	Alabama	Walker	pcnt_fast_foods	54
+1129	Alabama	Washington	pcnt_fast_foods	42
+1131	Alabama	Wilcox	pcnt_fast_foods	44
+1133	Alabama	Winston	pcnt_fast_foods	33
+2013	Alaska	Aleutians East	pcnt_fast_foods	100
+2016	Alaska	Aleutians West	pcnt_fast_foods	33
+2020	Alaska	Anchorage	pcnt_fast_foods	50
+2050	Alaska	Bethel	pcnt_fast_foods	55
+2060	Alaska	Bristol Bay	pcnt_fast_foods	33
+2068	Alaska	Denali	pcnt_fast_foods	22
+2070	Alaska	Dillingham	pcnt_fast_foods	
+2090	Alaska	Fairbanks North Star	pcnt_fast_foods	42
+2100	Alaska	Haines	pcnt_fast_foods	14
+2110	Alaska	Juneau	pcnt_fast_foods	40
+2122	Alaska	Kenai Peninsula	pcnt_fast_foods	33
+2130	Alaska	Ketchikan Gateway	pcnt_fast_foods	38
+2150	Alaska	Kodiak Island	pcnt_fast_foods	38
+2164	Alaska	Lake and Peninsula	pcnt_fast_foods	
+2170	Alaska	Matanuska-Susitna	pcnt_fast_foods	47
+2180	Alaska	Nome	pcnt_fast_foods	44
+2185	Alaska	North Slope	pcnt_fast_foods	38
+2188	Alaska	Northwest Arctic	pcnt_fast_foods	100
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_fast_foods	60
+2220	Alaska	Sitka	pcnt_fast_foods	23
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_fast_foods	31
+2240	Alaska	Southeast Fairbanks	pcnt_fast_foods	40
+2261	Alaska	Valdez-Cordova	pcnt_fast_foods	35
+2270	Alaska	Wade Hampton	pcnt_fast_foods	
+2280	Alaska	Wrangell-Petersburg	pcnt_fast_foods	70
+2282	Alaska	Yakutat	pcnt_fast_foods	100
+2290	Alaska	Yukon-Koyukuk	pcnt_fast_foods	
+4001	Arizona	Apache	pcnt_fast_foods	53
+4003	Arizona	Cochise	pcnt_fast_foods	39
+4005	Arizona	Coconino	pcnt_fast_foods	43
+4007	Arizona	Gila	pcnt_fast_foods	39
+4009	Arizona	Graham	pcnt_fast_foods	52
+4011	Arizona	Greenlee	pcnt_fast_foods	14
+4012	Arizona	La Paz	pcnt_fast_foods	42
+4013	Arizona	Maricopa	pcnt_fast_foods	54
+4015	Arizona	Mohave	pcnt_fast_foods	46
+4017	Arizona	Navajo	pcnt_fast_foods	47
+4019	Arizona	Pima	pcnt_fast_foods	50
+4021	Arizona	Pinal	pcnt_fast_foods	56
+4023	Arizona	Santa Cruz	pcnt_fast_foods	44
+4025	Arizona	Yavapai	pcnt_fast_foods	42
+4027	Arizona	Yuma	pcnt_fast_foods	57
+5001	Arkansas	Arkansas	pcnt_fast_foods	59
+5003	Arkansas	Ashley	pcnt_fast_foods	59
+5005	Arkansas	Baxter	pcnt_fast_foods	40
+5007	Arkansas	Benton	pcnt_fast_foods	53
+5009	Arkansas	Boone	pcnt_fast_foods	53
+5011	Arkansas	Bradley	pcnt_fast_foods	44
+5013	Arkansas	Calhoun	pcnt_fast_foods	50
+5015	Arkansas	Carroll	pcnt_fast_foods	23
+5017	Arkansas	Chicot	pcnt_fast_foods	45
+5019	Arkansas	Clark	pcnt_fast_foods	61
+5021	Arkansas	Clay	pcnt_fast_foods	58
+5023	Arkansas	Cleburne	pcnt_fast_foods	42
+5025	Arkansas	Cleveland	pcnt_fast_foods	67
+5027	Arkansas	Columbia	pcnt_fast_foods	58
+5029	Arkansas	Conway	pcnt_fast_foods	45
+5031	Arkansas	Craighead	pcnt_fast_foods	54
+5033	Arkansas	Crawford	pcnt_fast_foods	42
+5035	Arkansas	Crittenden	pcnt_fast_foods	64
+5037	Arkansas	Cross	pcnt_fast_foods	47
+5039	Arkansas	Dallas	pcnt_fast_foods	50
+5041	Arkansas	Desha	pcnt_fast_foods	47
+5043	Arkansas	Drew	pcnt_fast_foods	54
+5045	Arkansas	Faulkner	pcnt_fast_foods	48
+5047	Arkansas	Franklin	pcnt_fast_foods	35
+5049	Arkansas	Fulton	pcnt_fast_foods	40
+5051	Arkansas	Garland	pcnt_fast_foods	42
+5053	Arkansas	Grant	pcnt_fast_foods	53
+5055	Arkansas	Greene	pcnt_fast_foods	54
+5057	Arkansas	Hempstead	pcnt_fast_foods	48
+5059	Arkansas	Hot Spring	pcnt_fast_foods	64
+5061	Arkansas	Howard	pcnt_fast_foods	64
+5063	Arkansas	Independence	pcnt_fast_foods	50
+5065	Arkansas	Izard	pcnt_fast_foods	40
+5067	Arkansas	Jackson	pcnt_fast_foods	31
+5069	Arkansas	Jefferson	pcnt_fast_foods	63
+5071	Arkansas	Johnson	pcnt_fast_foods	59
+5073	Arkansas	Lafayette	pcnt_fast_foods	40
+5075	Arkansas	Lawrence	pcnt_fast_foods	27
+5077	Arkansas	Lee	pcnt_fast_foods	50
+5079	Arkansas	Lincoln	pcnt_fast_foods	13
+5081	Arkansas	Little River	pcnt_fast_foods	44
+5083	Arkansas	Logan	pcnt_fast_foods	44
+5085	Arkansas	Lonoke	pcnt_fast_foods	52
+5087	Arkansas	Madison	pcnt_fast_foods	25
+5089	Arkansas	Marion	pcnt_fast_foods	45
+5091	Arkansas	Miller	pcnt_fast_foods	52
+5093	Arkansas	Mississippi	pcnt_fast_foods	57
+5095	Arkansas	Monroe	pcnt_fast_foods	50
+5097	Arkansas	Montgomery	pcnt_fast_foods	38
+5099	Arkansas	Nevada	pcnt_fast_foods	60
+5101	Arkansas	Newton	pcnt_fast_foods	25
+5103	Arkansas	Ouachita	pcnt_fast_foods	50
+5105	Arkansas	Perry	pcnt_fast_foods	60
+5107	Arkansas	Phillips	pcnt_fast_foods	50
+5109	Arkansas	Pike	pcnt_fast_foods	50
+5111	Arkansas	Poinsett	pcnt_fast_foods	67
+5113	Arkansas	Polk	pcnt_fast_foods	38
+5115	Arkansas	Pope	pcnt_fast_foods	65
+5117	Arkansas	Prairie	pcnt_fast_foods	36
+5119	Arkansas	Pulaski	pcnt_fast_foods	51
+5121	Arkansas	Randolph	pcnt_fast_foods	48
+5123	Arkansas	St. Francis	pcnt_fast_foods	39
+5125	Arkansas	Saline	pcnt_fast_foods	55
+5127	Arkansas	Scott	pcnt_fast_foods	18
+5129	Arkansas	Searcy	pcnt_fast_foods	80
+5131	Arkansas	Sebastian	pcnt_fast_foods	52
+5133	Arkansas	Sevier	pcnt_fast_foods	39
+5135	Arkansas	Sharp	pcnt_fast_foods	37
+5137	Arkansas	Stone	pcnt_fast_foods	45
+5139	Arkansas	Union	pcnt_fast_foods	48
+5141	Arkansas	Van Buren	pcnt_fast_foods	38
+5143	Arkansas	Washington	pcnt_fast_foods	47
+5145	Arkansas	White	pcnt_fast_foods	53
+5147	Arkansas	Woodruff	pcnt_fast_foods	50
+5149	Arkansas	Yell	pcnt_fast_foods	46
+6001	California	Alameda	pcnt_fast_foods	44
+6003	California	Alpine	pcnt_fast_foods	50
+6005	California	Amador	pcnt_fast_foods	31
+6007	California	Butte	pcnt_fast_foods	54
+6009	California	Calaveras	pcnt_fast_foods	35
+6011	California	Colusa	pcnt_fast_foods	48
+6013	California	Contra Costa	pcnt_fast_foods	47
+6015	California	Del Norte	pcnt_fast_foods	44
+6017	California	El Dorado	pcnt_fast_foods	40
+6019	California	Fresno	pcnt_fast_foods	53
+6021	California	Glenn	pcnt_fast_foods	50
+6023	California	Humboldt	pcnt_fast_foods	40
+6025	California	Imperial	pcnt_fast_foods	50
+6027	California	Inyo	pcnt_fast_foods	30
+6029	California	Kern	pcnt_fast_foods	58
+6031	California	Kings	pcnt_fast_foods	64
+6033	California	Lake	pcnt_fast_foods	37
+6035	California	Lassen	pcnt_fast_foods	41
+6037	California	Los Angeles	pcnt_fast_foods	50
+6039	California	Madera	pcnt_fast_foods	59
+6041	California	Marin	pcnt_fast_foods	34
+6043	California	Mariposa	pcnt_fast_foods	41
+6045	California	Mendocino	pcnt_fast_foods	31
+6047	California	Merced	pcnt_fast_foods	60
+6049	California	Modoc	pcnt_fast_foods	35
+6051	California	Mono	pcnt_fast_foods	30
+6053	California	Monterey	pcnt_fast_foods	40
+6055	California	Napa	pcnt_fast_foods	37
+6057	California	Nevada	pcnt_fast_foods	34
+6059	California	Orange	pcnt_fast_foods	51
+6061	California	Placer	pcnt_fast_foods	48
+6063	California	Plumas	pcnt_fast_foods	26
+6065	California	Riverside	pcnt_fast_foods	54
+6067	California	Sacramento	pcnt_fast_foods	51
+6069	California	San Benito	pcnt_fast_foods	50
+6071	California	San Bernardino	pcnt_fast_foods	58
+6073	California	San Diego	pcnt_fast_foods	50
+6075	California	San Francisco	pcnt_fast_foods	30
+6077	California	San Joaquin	pcnt_fast_foods	54
+6079	California	San Luis Obispo	pcnt_fast_foods	42
+6081	California	San Mateo	pcnt_fast_foods	40
+6083	California	Santa Barbara	pcnt_fast_foods	45
+6085	California	Santa Clara	pcnt_fast_foods	45
+6087	California	Santa Cruz	pcnt_fast_foods	42
+6089	California	Shasta	pcnt_fast_foods	51
+6091	California	Sierra	pcnt_fast_foods	33
+6093	California	Siskiyou	pcnt_fast_foods	41
+6095	California	Solano	pcnt_fast_foods	55
+6097	California	Sonoma	pcnt_fast_foods	37
+6099	California	Stanislaus	pcnt_fast_foods	54
+6101	California	Sutter	pcnt_fast_foods	51
+6103	California	Tehama	pcnt_fast_foods	52
+6105	California	Trinity	pcnt_fast_foods	54
+6107	California	Tulare	pcnt_fast_foods	51
+6109	California	Tuolumne	pcnt_fast_foods	31
+6111	California	Ventura	pcnt_fast_foods	49
+6113	California	Yolo	pcnt_fast_foods	53
+6115	California	Yuba	pcnt_fast_foods	57
+8001	Colorado	Adams	pcnt_fast_foods	56
+8003	Colorado	Alamosa	pcnt_fast_foods	41
+8005	Colorado	Arapahoe	pcnt_fast_foods	53
+8007	Colorado	Archuleta	pcnt_fast_foods	29
+8009	Colorado	Baca	pcnt_fast_foods	33
+8011	Colorado	Bent	pcnt_fast_foods	50
+8013	Colorado	Boulder	pcnt_fast_foods	43
+8014	Colorado	Broomfield	pcnt_fast_foods	61
+8015	Colorado	Chaffee	pcnt_fast_foods	40
+8017	Colorado	Cheyenne	pcnt_fast_foods	
+8019	Colorado	Clear Creek	pcnt_fast_foods	30
+8021	Colorado	Conejos	pcnt_fast_foods	25
+8023	Colorado	Costilla	pcnt_fast_foods	
+8025	Colorado	Crowley	pcnt_fast_foods	
+8027	Colorado	Custer	pcnt_fast_foods	14
+8029	Colorado	Delta	pcnt_fast_foods	27
+8031	Colorado	Denver	pcnt_fast_foods	44
+8033	Colorado	Dolores	pcnt_fast_foods	50
+8035	Colorado	Douglas	pcnt_fast_foods	51
+8037	Colorado	Eagle	pcnt_fast_foods	24
+8039	Colorado	Elbert	pcnt_fast_foods	27
+8041	Colorado	El Paso	pcnt_fast_foods	51
+8043	Colorado	Fremont	pcnt_fast_foods	30
+8045	Colorado	Garfield	pcnt_fast_foods	35
+8047	Colorado	Gilpin	pcnt_fast_foods	
+8049	Colorado	Grand	pcnt_fast_foods	20
+8051	Colorado	Gunnison	pcnt_fast_foods	21
+8053	Colorado	Hinsdale	pcnt_fast_foods	29
+8055	Colorado	Huerfano	pcnt_fast_foods	25
+8057	Colorado	Jackson	pcnt_fast_foods	
+8059	Colorado	Jefferson	pcnt_fast_foods	48
+8061	Colorado	Kiowa	pcnt_fast_foods	
+8063	Colorado	Kit Carson	pcnt_fast_foods	50
+8065	Colorado	Lake	pcnt_fast_foods	43
+8067	Colorado	La Plata	pcnt_fast_foods	34
+8069	Colorado	Larimer	pcnt_fast_foods	50
+8071	Colorado	Las Animas	pcnt_fast_foods	34
+8073	Colorado	Lincoln	pcnt_fast_foods	20
+8075	Colorado	Logan	pcnt_fast_foods	44
+8077	Colorado	Mesa	pcnt_fast_foods	52
+8079	Colorado	Mineral	pcnt_fast_foods	
+8081	Colorado	Moffat	pcnt_fast_foods	29
+8083	Colorado	Montezuma	pcnt_fast_foods	33
+8085	Colorado	Montrose	pcnt_fast_foods	35
+8087	Colorado	Morgan	pcnt_fast_foods	35
+8089	Colorado	Otero	pcnt_fast_foods	33
+8091	Colorado	Ouray	pcnt_fast_foods	32
+8093	Colorado	Park	pcnt_fast_foods	38
+8095	Colorado	Phillips	pcnt_fast_foods	29
+8097	Colorado	Pitkin	pcnt_fast_foods	28
+8099	Colorado	Prowers	pcnt_fast_foods	68
+8101	Colorado	Pueblo	pcnt_fast_foods	48
+8103	Colorado	Rio Blanco	pcnt_fast_foods	33
+8105	Colorado	Rio Grande	pcnt_fast_foods	33
+8107	Colorado	Routt	pcnt_fast_foods	28
+8109	Colorado	Saguache	pcnt_fast_foods	
+8111	Colorado	San Juan	pcnt_fast_foods	36
+8113	Colorado	San Miguel	pcnt_fast_foods	34
+8115	Colorado	Sedgwick	pcnt_fast_foods	17
+8117	Colorado	Summit	pcnt_fast_foods	31
+8119	Colorado	Teller	pcnt_fast_foods	41
+8121	Colorado	Washington	pcnt_fast_foods	33
+8123	Colorado	Weld	pcnt_fast_foods	49
+8125	Colorado	Yuma	pcnt_fast_foods	14
+9001	Connecticut	Fairfield	pcnt_fast_foods	37
+9003	Connecticut	Hartford	pcnt_fast_foods	38
+9005	Connecticut	Litchfield	pcnt_fast_foods	26
+9007	Connecticut	Middlesex	pcnt_fast_foods	32
+9009	Connecticut	New Haven	pcnt_fast_foods	42
+9011	Connecticut	New London	pcnt_fast_foods	36
+9013	Connecticut	Tolland	pcnt_fast_foods	36
+9015	Connecticut	Windham	pcnt_fast_foods	38
 10001	Delaware	Kent	pcnt_fast_foods	48
 10003	Delaware	New Castle	pcnt_fast_foods	51
 10005	Delaware	Sussex	pcnt_fast_foods	37

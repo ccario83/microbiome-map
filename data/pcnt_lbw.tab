@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_lbw
-01001	Alabama	Autauga	pcnt_lbw	9.4
-01003	Alabama	Baldwin	pcnt_lbw	8.8
-01005	Alabama	Barbour	pcnt_lbw	12.3
-01007	Alabama	Bibb	pcnt_lbw	11.9
-01009	Alabama	Blount	pcnt_lbw	7.6
-01011	Alabama	Bullock	pcnt_lbw	14.1
-01013	Alabama	Butler	pcnt_lbw	10.4
-01015	Alabama	Calhoun	pcnt_lbw	9.2
-01017	Alabama	Chambers	pcnt_lbw	11.4
-01019	Alabama	Cherokee	pcnt_lbw	9.3
-01021	Alabama	Chilton	pcnt_lbw	9.8
-01023	Alabama	Choctaw	pcnt_lbw	10.8
-01025	Alabama	Clarke	pcnt_lbw	12.2
-01027	Alabama	Clay	pcnt_lbw	10.9
-01029	Alabama	Cleburne	pcnt_lbw	7.9
-01031	Alabama	Coffee	pcnt_lbw	9.2
-01033	Alabama	Colbert	pcnt_lbw	11.0
-01035	Alabama	Conecuh	pcnt_lbw	11.6
-01037	Alabama	Coosa	pcnt_lbw	11.7
-01039	Alabama	Covington	pcnt_lbw	9.6
-01041	Alabama	Crenshaw	pcnt_lbw	9.7
-01043	Alabama	Cullman	pcnt_lbw	9.3
-01045	Alabama	Dale	pcnt_lbw	8.4
-01047	Alabama	Dallas	pcnt_lbw	12.6
-01049	Alabama	DeKalb	pcnt_lbw	8.9
-01051	Alabama	Elmore	pcnt_lbw	9.0
-01053	Alabama	Escambia	pcnt_lbw	10.8
-01055	Alabama	Etowah	pcnt_lbw	9.1
-01057	Alabama	Fayette	pcnt_lbw	9.6
-01059	Alabama	Franklin	pcnt_lbw	9.0
-01061	Alabama	Geneva	pcnt_lbw	8.8
-01063	Alabama	Greene	pcnt_lbw	15.3
-01065	Alabama	Hale	pcnt_lbw	13.0
-01067	Alabama	Henry	pcnt_lbw	9.0
-01069	Alabama	Houston	pcnt_lbw	8.5
-01071	Alabama	Jackson	pcnt_lbw	8.9
-01073	Alabama	Jefferson	pcnt_lbw	11.6
-01075	Alabama	Lamar	pcnt_lbw	9.0
-01077	Alabama	Lauderdale	pcnt_lbw	10.1
-01079	Alabama	Lawrence	pcnt_lbw	10.1
-01081	Alabama	Lee	pcnt_lbw	8.0
-01083	Alabama	Limestone	pcnt_lbw	9.6
-01085	Alabama	Lowndes	pcnt_lbw	12.9
-01087	Alabama	Macon	pcnt_lbw	11.4
-01089	Alabama	Madison	pcnt_lbw	10.6
-01091	Alabama	Marengo	pcnt_lbw	12.4
-01093	Alabama	Marion	pcnt_lbw	9.3
-01095	Alabama	Marshall	pcnt_lbw	8.2
-01097	Alabama	Mobile	pcnt_lbw	11.9
-01099	Alabama	Monroe	pcnt_lbw	15.1
-01101	Alabama	Montgomery	pcnt_lbw	11.7
-01103	Alabama	Morgan	pcnt_lbw	9.2
-01105	Alabama	Perry	pcnt_lbw	12.8
-01107	Alabama	Pickens	pcnt_lbw	12.7
-01109	Alabama	Pike	pcnt_lbw	10.1
-01111	Alabama	Randolph	pcnt_lbw	10.2
-01113	Alabama	Russell	pcnt_lbw	11.0
-01115	Alabama	St. Clair	pcnt_lbw	8.7
-01117	Alabama	Shelby	pcnt_lbw	8.5
-01119	Alabama	Sumter	pcnt_lbw	13.6
-01121	Alabama	Talladega	pcnt_lbw	12.7
-01123	Alabama	Tallapoosa	pcnt_lbw	12.0
-01125	Alabama	Tuscaloosa	pcnt_lbw	11.6
-01127	Alabama	Walker	pcnt_lbw	10.2
-01129	Alabama	Washington	pcnt_lbw	10.0
-01131	Alabama	Wilcox	pcnt_lbw	12.9
-01133	Alabama	Winston	pcnt_lbw	9.8
-02013	Alaska	Aleutians East	pcnt_lbw	
-02016	Alaska	Aleutians West	pcnt_lbw	
-02020	Alaska	Anchorage	pcnt_lbw	6.3
-02050	Alaska	Bethel	pcnt_lbw	5.5
-02060	Alaska	Bristol Bay	pcnt_lbw	
-02068	Alaska	Denali	pcnt_lbw	
-02070	Alaska	Dillingham	pcnt_lbw	4.7
-02090	Alaska	Fairbanks North Star	pcnt_lbw	5.6
-02100	Alaska	Haines	pcnt_lbw	
-02110	Alaska	Juneau	pcnt_lbw	4.9
-02122	Alaska	Kenai Peninsula	pcnt_lbw	4.6
-02130	Alaska	Ketchikan Gateway	pcnt_lbw	5.6
-02150	Alaska	Kodiak Island	pcnt_lbw	5.7
-02164	Alaska	Lake and Peninsula	pcnt_lbw	
-02170	Alaska	Matanuska-Susitna	pcnt_lbw	6.1
-02180	Alaska	Nome	pcnt_lbw	6.7
-02185	Alaska	North Slope	pcnt_lbw	7.0
-02188	Alaska	Northwest Arctic	pcnt_lbw	6.4
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_lbw	4.9
-02220	Alaska	Sitka	pcnt_lbw	5.1
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_lbw	
-02240	Alaska	Southeast Fairbanks	pcnt_lbw	5.4
-02261	Alaska	Valdez-Cordova	pcnt_lbw	5.3
-02270	Alaska	Wade Hampton	pcnt_lbw	5.8
-02280	Alaska	Wrangell-Petersburg	pcnt_lbw	6.3
-02282	Alaska	Yakutat	pcnt_lbw	
-02290	Alaska	Yukon-Koyukuk	pcnt_lbw	4.3
-04001	Arizona	Apache	pcnt_lbw	7.2
-04003	Arizona	Cochise	pcnt_lbw	8.1
-04005	Arizona	Coconino	pcnt_lbw	8.0
-04007	Arizona	Gila	pcnt_lbw	8.6
-04009	Arizona	Graham	pcnt_lbw	7.7
-04011	Arizona	Greenlee	pcnt_lbw	7.2
-04012	Arizona	La Paz	pcnt_lbw	5.7
-04013	Arizona	Maricopa	pcnt_lbw	7.0
-04015	Arizona	Mohave	pcnt_lbw	6.9
-04017	Arizona	Navajo	pcnt_lbw	8.1
-04019	Arizona	Pima	pcnt_lbw	7.2
-04021	Arizona	Pinal	pcnt_lbw	6.8
-04023	Arizona	Santa Cruz	pcnt_lbw	7.9
-04025	Arizona	Yavapai	pcnt_lbw	7.2
-04027	Arizona	Yuma	pcnt_lbw	6.1
-05001	Arkansas	Arkansas	pcnt_lbw	11.8
-05003	Arkansas	Ashley	pcnt_lbw	10.2
-05005	Arkansas	Baxter	pcnt_lbw	7.3
-05007	Arkansas	Benton	pcnt_lbw	7.2
-05009	Arkansas	Boone	pcnt_lbw	6.2
-05011	Arkansas	Bradley	pcnt_lbw	9.6
-05013	Arkansas	Calhoun	pcnt_lbw	12.1
-05015	Arkansas	Carroll	pcnt_lbw	6.6
-05017	Arkansas	Chicot	pcnt_lbw	11.7
-05019	Arkansas	Clark	pcnt_lbw	7.8
-05021	Arkansas	Clay	pcnt_lbw	8.0
-05023	Arkansas	Cleburne	pcnt_lbw	8.7
-05025	Arkansas	Cleveland	pcnt_lbw	11.0
-05027	Arkansas	Columbia	pcnt_lbw	9.3
-05029	Arkansas	Conway	pcnt_lbw	6.7
-05031	Arkansas	Craighead	pcnt_lbw	8.3
-05033	Arkansas	Crawford	pcnt_lbw	8.0
-05035	Arkansas	Crittenden	pcnt_lbw	12.4
-05037	Arkansas	Cross	pcnt_lbw	12.1
-05039	Arkansas	Dallas	pcnt_lbw	14.2
-05041	Arkansas	Desha	pcnt_lbw	15.0
-05043	Arkansas	Drew	pcnt_lbw	10.1
-05045	Arkansas	Faulkner	pcnt_lbw	7.7
-05047	Arkansas	Franklin	pcnt_lbw	8.0
-05049	Arkansas	Fulton	pcnt_lbw	8.1
-05051	Arkansas	Garland	pcnt_lbw	9.2
-05053	Arkansas	Grant	pcnt_lbw	9.3
-05055	Arkansas	Greene	pcnt_lbw	7.6
-05057	Arkansas	Hempstead	pcnt_lbw	10.8
-05059	Arkansas	Hot Spring	pcnt_lbw	8.0
-05061	Arkansas	Howard	pcnt_lbw	9.1
-05063	Arkansas	Independence	pcnt_lbw	9.1
-05065	Arkansas	Izard	pcnt_lbw	8.2
-05067	Arkansas	Jackson	pcnt_lbw	10.8
-05069	Arkansas	Jefferson	pcnt_lbw	12.4
-05071	Arkansas	Johnson	pcnt_lbw	7.1
-05073	Arkansas	Lafayette	pcnt_lbw	12.7
-05075	Arkansas	Lawrence	pcnt_lbw	7.6
-05077	Arkansas	Lee	pcnt_lbw	13.3
-05079	Arkansas	Lincoln	pcnt_lbw	9.5
-05081	Arkansas	Little River	pcnt_lbw	9.9
-05083	Arkansas	Logan	pcnt_lbw	8.9
-05085	Arkansas	Lonoke	pcnt_lbw	7.8
-05087	Arkansas	Madison	pcnt_lbw	6.9
-05089	Arkansas	Marion	pcnt_lbw	7.4
-05091	Arkansas	Miller	pcnt_lbw	10.5
-05093	Arkansas	Mississippi	pcnt_lbw	11.6
-05095	Arkansas	Monroe	pcnt_lbw	12.2
-05097	Arkansas	Montgomery	pcnt_lbw	7.6
-05099	Arkansas	Nevada	pcnt_lbw	10.8
-05101	Arkansas	Newton	pcnt_lbw	8.9
-05103	Arkansas	Ouachita	pcnt_lbw	11.6
-05105	Arkansas	Perry	pcnt_lbw	8.1
-05107	Arkansas	Phillips	pcnt_lbw	13.5
-05109	Arkansas	Pike	pcnt_lbw	8.3
-05111	Arkansas	Poinsett	pcnt_lbw	9.9
-05113	Arkansas	Polk	pcnt_lbw	8.1
-05115	Arkansas	Pope	pcnt_lbw	7.5
-05117	Arkansas	Prairie	pcnt_lbw	9.1
-05119	Arkansas	Pulaski	pcnt_lbw	10.5
-05121	Arkansas	Randolph	pcnt_lbw	7.3
-05123	Arkansas	St. Francis	pcnt_lbw	12.9
-05125	Arkansas	Saline	pcnt_lbw	8.3
-05127	Arkansas	Scott	pcnt_lbw	7.8
-05129	Arkansas	Searcy	pcnt_lbw	7.2
-05131	Arkansas	Sebastian	pcnt_lbw	8.3
-05133	Arkansas	Sevier	pcnt_lbw	7.1
-05135	Arkansas	Sharp	pcnt_lbw	8.1
-05137	Arkansas	Stone	pcnt_lbw	12.5
-05139	Arkansas	Union	pcnt_lbw	10.2
-05141	Arkansas	Van Buren	pcnt_lbw	8.6
-05143	Arkansas	Washington	pcnt_lbw	7.2
-05145	Arkansas	White	pcnt_lbw	8.3
-05147	Arkansas	Woodruff	pcnt_lbw	12.3
-05149	Arkansas	Yell	pcnt_lbw	8.9
-06001	California	Alameda	pcnt_lbw	7.1
-06003	California	Alpine	pcnt_lbw	
-06005	California	Amador	pcnt_lbw	4.9
-06007	California	Butte	pcnt_lbw	5.8
-06009	California	Calaveras	pcnt_lbw	5.9
-06011	California	Colusa	pcnt_lbw	5.3
-06013	California	Contra Costa	pcnt_lbw	6.7
-06015	California	Del Norte	pcnt_lbw	5.4
-06017	California	El Dorado	pcnt_lbw	6.3
-06019	California	Fresno	pcnt_lbw	7.4
-06021	California	Glenn	pcnt_lbw	4.7
-06023	California	Humboldt	pcnt_lbw	6.0
-06025	California	Imperial	pcnt_lbw	6.2
-06027	California	Inyo	pcnt_lbw	8.5
-06029	California	Kern	pcnt_lbw	7.1
-06031	California	Kings	pcnt_lbw	6.5
-06033	California	Lake	pcnt_lbw	5.9
-06035	California	Lassen	pcnt_lbw	6.3
-06037	California	Los Angeles	pcnt_lbw	7.3
-06039	California	Madera	pcnt_lbw	6.3
-06041	California	Marin	pcnt_lbw	6.3
-06043	California	Mariposa	pcnt_lbw	5.1
-06045	California	Mendocino	pcnt_lbw	6.3
-06047	California	Merced	pcnt_lbw	6.4
-06049	California	Modoc	pcnt_lbw	6.0
-06051	California	Mono	pcnt_lbw	8.8
-06053	California	Monterey	pcnt_lbw	5.9
-06055	California	Napa	pcnt_lbw	6.1
-06057	California	Nevada	pcnt_lbw	5.9
-06059	California	Orange	pcnt_lbw	6.4
-06061	California	Placer	pcnt_lbw	5.7
-06063	California	Plumas	pcnt_lbw	5.3
-06065	California	Riverside	pcnt_lbw	6.5
-06067	California	Sacramento	pcnt_lbw	6.9
-06069	California	San Benito	pcnt_lbw	6.0
-06071	California	San Bernardino	pcnt_lbw	7.1
-06073	California	San Diego	pcnt_lbw	6.6
-06075	California	San Francisco	pcnt_lbw	7.0
-06077	California	San Joaquin	pcnt_lbw	6.9
-06079	California	San Luis Obispo	pcnt_lbw	6.0
-06081	California	San Mateo	pcnt_lbw	6.7
-06083	California	Santa Barbara	pcnt_lbw	6.2
-06085	California	Santa Clara	pcnt_lbw	6.7
-06087	California	Santa Cruz	pcnt_lbw	5.8
-06089	California	Shasta	pcnt_lbw	6.2
-06091	California	Sierra	pcnt_lbw	
-06093	California	Siskiyou	pcnt_lbw	7.4
-06095	California	Solano	pcnt_lbw	7.1
-06097	California	Sonoma	pcnt_lbw	5.8
-06099	California	Stanislaus	pcnt_lbw	6.4
-06101	California	Sutter	pcnt_lbw	5.8
-06103	California	Tehama	pcnt_lbw	5.5
-06105	California	Trinity	pcnt_lbw	5.0
-06107	California	Tulare	pcnt_lbw	6.2
-06109	California	Tuolumne	pcnt_lbw	4.7
-06111	California	Ventura	pcnt_lbw	6.5
-06113	California	Yolo	pcnt_lbw	5.3
-06115	California	Yuba	pcnt_lbw	6.2
-08001	Colorado	Adams	pcnt_lbw	8.8
-08003	Colorado	Alamosa	pcnt_lbw	11.1
-08005	Colorado	Arapahoe	pcnt_lbw	9.4
-08007	Colorado	Archuleta	pcnt_lbw	9.4
-08009	Colorado	Baca	pcnt_lbw	11.8
-08011	Colorado	Bent	pcnt_lbw	14.3
-08013	Colorado	Boulder	pcnt_lbw	7.7
-08014	Colorado	Broomfield	pcnt_lbw	7.5
-08015	Colorado	Chaffee	pcnt_lbw	10.4
-08017	Colorado	Cheyenne	pcnt_lbw	
-08019	Colorado	Clear Creek	pcnt_lbw	11.9
-08021	Colorado	Conejos	pcnt_lbw	12.1
-08023	Colorado	Costilla	pcnt_lbw	12.1
-08025	Colorado	Crowley	pcnt_lbw	10.6
-08027	Colorado	Custer	pcnt_lbw	
-08029	Colorado	Delta	pcnt_lbw	9.8
-08031	Colorado	Denver	pcnt_lbw	9.5
-08033	Colorado	Dolores	pcnt_lbw	
-08035	Colorado	Douglas	pcnt_lbw	8.9
-08037	Colorado	Eagle	pcnt_lbw	8.8
-08039	Colorado	Elbert	pcnt_lbw	10.3
-08041	Colorado	El Paso	pcnt_lbw	9.7
-08043	Colorado	Fremont	pcnt_lbw	9.7
-08045	Colorado	Garfield	pcnt_lbw	7.1
-08047	Colorado	Gilpin	pcnt_lbw	10.5
-08049	Colorado	Grand	pcnt_lbw	10.5
-08051	Colorado	Gunnison	pcnt_lbw	10.1
-08053	Colorado	Hinsdale	pcnt_lbw	
-08055	Colorado	Huerfano	pcnt_lbw	12.2
-08057	Colorado	Jackson	pcnt_lbw	
-08059	Colorado	Jefferson	pcnt_lbw	8.6
-08061	Colorado	Kiowa	pcnt_lbw	
-08063	Colorado	Kit Carson	pcnt_lbw	7.5
-08065	Colorado	Lake	pcnt_lbw	15.2
-08067	Colorado	La Plata	pcnt_lbw	8.0
-08069	Colorado	Larimer	pcnt_lbw	7.8
-08071	Colorado	Las Animas	pcnt_lbw	11.0
-08073	Colorado	Lincoln	pcnt_lbw	9.0
-08075	Colorado	Logan	pcnt_lbw	7.1
-08077	Colorado	Mesa	pcnt_lbw	7.5
-08079	Colorado	Mineral	pcnt_lbw	
-08081	Colorado	Moffat	pcnt_lbw	9.3
-08083	Colorado	Montezuma	pcnt_lbw	7.3
-08085	Colorado	Montrose	pcnt_lbw	9.1
-08087	Colorado	Morgan	pcnt_lbw	7.6
-08089	Colorado	Otero	pcnt_lbw	11.0
-08091	Colorado	Ouray	pcnt_lbw	9.1
-08093	Colorado	Park	pcnt_lbw	11.7
-08095	Colorado	Phillips	pcnt_lbw	6.3
-08097	Colorado	Pitkin	pcnt_lbw	8.2
-08099	Colorado	Prowers	pcnt_lbw	8.7
-08101	Colorado	Pueblo	pcnt_lbw	9.2
-08103	Colorado	Rio Blanco	pcnt_lbw	7.9
-08105	Colorado	Rio Grande	pcnt_lbw	11.2
-08107	Colorado	Routt	pcnt_lbw	9.4
-08109	Colorado	Saguache	pcnt_lbw	10.7
-08111	Colorado	San Juan	pcnt_lbw	
-08113	Colorado	San Miguel	pcnt_lbw	8.2
-08115	Colorado	Sedgwick	pcnt_lbw	
-08117	Colorado	Summit	pcnt_lbw	11.3
-08119	Colorado	Teller	pcnt_lbw	14.0
-08121	Colorado	Washington	pcnt_lbw	6.3
-08123	Colorado	Weld	pcnt_lbw	7.6
-08125	Colorado	Yuma	pcnt_lbw	6.8
-09001	Connecticut	Fairfield	pcnt_lbw	7.6
-09003	Connecticut	Hartford	pcnt_lbw	8.7
-09005	Connecticut	Litchfield	pcnt_lbw	7.0
-09007	Connecticut	Middlesex	pcnt_lbw	6.7
-09009	Connecticut	New Haven	pcnt_lbw	8.5
-09011	Connecticut	New London	pcnt_lbw	7.1
-09013	Connecticut	Tolland	pcnt_lbw	7.3
-09015	Connecticut	Windham	pcnt_lbw	7.7
+1001	Alabama	Autauga	pcnt_lbw	9.4
+1003	Alabama	Baldwin	pcnt_lbw	8.8
+1005	Alabama	Barbour	pcnt_lbw	12.3
+1007	Alabama	Bibb	pcnt_lbw	11.9
+1009	Alabama	Blount	pcnt_lbw	7.6
+1011	Alabama	Bullock	pcnt_lbw	14.1
+1013	Alabama	Butler	pcnt_lbw	10.4
+1015	Alabama	Calhoun	pcnt_lbw	9.2
+1017	Alabama	Chambers	pcnt_lbw	11.4
+1019	Alabama	Cherokee	pcnt_lbw	9.3
+1021	Alabama	Chilton	pcnt_lbw	9.8
+1023	Alabama	Choctaw	pcnt_lbw	10.8
+1025	Alabama	Clarke	pcnt_lbw	12.2
+1027	Alabama	Clay	pcnt_lbw	10.9
+1029	Alabama	Cleburne	pcnt_lbw	7.9
+1031	Alabama	Coffee	pcnt_lbw	9.2
+1033	Alabama	Colbert	pcnt_lbw	11
+1035	Alabama	Conecuh	pcnt_lbw	11.6
+1037	Alabama	Coosa	pcnt_lbw	11.7
+1039	Alabama	Covington	pcnt_lbw	9.6
+1041	Alabama	Crenshaw	pcnt_lbw	9.7
+1043	Alabama	Cullman	pcnt_lbw	9.3
+1045	Alabama	Dale	pcnt_lbw	8.4
+1047	Alabama	Dallas	pcnt_lbw	12.6
+1049	Alabama	DeKalb	pcnt_lbw	8.9
+1051	Alabama	Elmore	pcnt_lbw	9
+1053	Alabama	Escambia	pcnt_lbw	10.8
+1055	Alabama	Etowah	pcnt_lbw	9.1
+1057	Alabama	Fayette	pcnt_lbw	9.6
+1059	Alabama	Franklin	pcnt_lbw	9
+1061	Alabama	Geneva	pcnt_lbw	8.8
+1063	Alabama	Greene	pcnt_lbw	15.3
+1065	Alabama	Hale	pcnt_lbw	13
+1067	Alabama	Henry	pcnt_lbw	9
+1069	Alabama	Houston	pcnt_lbw	8.5
+1071	Alabama	Jackson	pcnt_lbw	8.9
+1073	Alabama	Jefferson	pcnt_lbw	11.6
+1075	Alabama	Lamar	pcnt_lbw	9
+1077	Alabama	Lauderdale	pcnt_lbw	10.1
+1079	Alabama	Lawrence	pcnt_lbw	10.1
+1081	Alabama	Lee	pcnt_lbw	8
+1083	Alabama	Limestone	pcnt_lbw	9.6
+1085	Alabama	Lowndes	pcnt_lbw	12.9
+1087	Alabama	Macon	pcnt_lbw	11.4
+1089	Alabama	Madison	pcnt_lbw	10.6
+1091	Alabama	Marengo	pcnt_lbw	12.4
+1093	Alabama	Marion	pcnt_lbw	9.3
+1095	Alabama	Marshall	pcnt_lbw	8.2
+1097	Alabama	Mobile	pcnt_lbw	11.9
+1099	Alabama	Monroe	pcnt_lbw	15.1
+1101	Alabama	Montgomery	pcnt_lbw	11.7
+1103	Alabama	Morgan	pcnt_lbw	9.2
+1105	Alabama	Perry	pcnt_lbw	12.8
+1107	Alabama	Pickens	pcnt_lbw	12.7
+1109	Alabama	Pike	pcnt_lbw	10.1
+1111	Alabama	Randolph	pcnt_lbw	10.2
+1113	Alabama	Russell	pcnt_lbw	11
+1115	Alabama	St. Clair	pcnt_lbw	8.7
+1117	Alabama	Shelby	pcnt_lbw	8.5
+1119	Alabama	Sumter	pcnt_lbw	13.6
+1121	Alabama	Talladega	pcnt_lbw	12.7
+1123	Alabama	Tallapoosa	pcnt_lbw	12
+1125	Alabama	Tuscaloosa	pcnt_lbw	11.6
+1127	Alabama	Walker	pcnt_lbw	10.2
+1129	Alabama	Washington	pcnt_lbw	10
+1131	Alabama	Wilcox	pcnt_lbw	12.9
+1133	Alabama	Winston	pcnt_lbw	9.8
+2013	Alaska	Aleutians East	pcnt_lbw	
+2016	Alaska	Aleutians West	pcnt_lbw	
+2020	Alaska	Anchorage	pcnt_lbw	6.3
+2050	Alaska	Bethel	pcnt_lbw	5.5
+2060	Alaska	Bristol Bay	pcnt_lbw	
+2068	Alaska	Denali	pcnt_lbw	
+2070	Alaska	Dillingham	pcnt_lbw	4.7
+2090	Alaska	Fairbanks North Star	pcnt_lbw	5.6
+2100	Alaska	Haines	pcnt_lbw	
+2110	Alaska	Juneau	pcnt_lbw	4.9
+2122	Alaska	Kenai Peninsula	pcnt_lbw	4.6
+2130	Alaska	Ketchikan Gateway	pcnt_lbw	5.6
+2150	Alaska	Kodiak Island	pcnt_lbw	5.7
+2164	Alaska	Lake and Peninsula	pcnt_lbw	
+2170	Alaska	Matanuska-Susitna	pcnt_lbw	6.1
+2180	Alaska	Nome	pcnt_lbw	6.7
+2185	Alaska	North Slope	pcnt_lbw	7
+2188	Alaska	Northwest Arctic	pcnt_lbw	6.4
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_lbw	4.9
+2220	Alaska	Sitka	pcnt_lbw	5.1
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_lbw	
+2240	Alaska	Southeast Fairbanks	pcnt_lbw	5.4
+2261	Alaska	Valdez-Cordova	pcnt_lbw	5.3
+2270	Alaska	Wade Hampton	pcnt_lbw	5.8
+2280	Alaska	Wrangell-Petersburg	pcnt_lbw	6.3
+2282	Alaska	Yakutat	pcnt_lbw	
+2290	Alaska	Yukon-Koyukuk	pcnt_lbw	4.3
+4001	Arizona	Apache	pcnt_lbw	7.2
+4003	Arizona	Cochise	pcnt_lbw	8.1
+4005	Arizona	Coconino	pcnt_lbw	8
+4007	Arizona	Gila	pcnt_lbw	8.6
+4009	Arizona	Graham	pcnt_lbw	7.7
+4011	Arizona	Greenlee	pcnt_lbw	7.2
+4012	Arizona	La Paz	pcnt_lbw	5.7
+4013	Arizona	Maricopa	pcnt_lbw	7
+4015	Arizona	Mohave	pcnt_lbw	6.9
+4017	Arizona	Navajo	pcnt_lbw	8.1
+4019	Arizona	Pima	pcnt_lbw	7.2
+4021	Arizona	Pinal	pcnt_lbw	6.8
+4023	Arizona	Santa Cruz	pcnt_lbw	7.9
+4025	Arizona	Yavapai	pcnt_lbw	7.2
+4027	Arizona	Yuma	pcnt_lbw	6.1
+5001	Arkansas	Arkansas	pcnt_lbw	11.8
+5003	Arkansas	Ashley	pcnt_lbw	10.2
+5005	Arkansas	Baxter	pcnt_lbw	7.3
+5007	Arkansas	Benton	pcnt_lbw	7.2
+5009	Arkansas	Boone	pcnt_lbw	6.2
+5011	Arkansas	Bradley	pcnt_lbw	9.6
+5013	Arkansas	Calhoun	pcnt_lbw	12.1
+5015	Arkansas	Carroll	pcnt_lbw	6.6
+5017	Arkansas	Chicot	pcnt_lbw	11.7
+5019	Arkansas	Clark	pcnt_lbw	7.8
+5021	Arkansas	Clay	pcnt_lbw	8
+5023	Arkansas	Cleburne	pcnt_lbw	8.7
+5025	Arkansas	Cleveland	pcnt_lbw	11
+5027	Arkansas	Columbia	pcnt_lbw	9.3
+5029	Arkansas	Conway	pcnt_lbw	6.7
+5031	Arkansas	Craighead	pcnt_lbw	8.3
+5033	Arkansas	Crawford	pcnt_lbw	8
+5035	Arkansas	Crittenden	pcnt_lbw	12.4
+5037	Arkansas	Cross	pcnt_lbw	12.1
+5039	Arkansas	Dallas	pcnt_lbw	14.2
+5041	Arkansas	Desha	pcnt_lbw	15
+5043	Arkansas	Drew	pcnt_lbw	10.1
+5045	Arkansas	Faulkner	pcnt_lbw	7.7
+5047	Arkansas	Franklin	pcnt_lbw	8
+5049	Arkansas	Fulton	pcnt_lbw	8.1
+5051	Arkansas	Garland	pcnt_lbw	9.2
+5053	Arkansas	Grant	pcnt_lbw	9.3
+5055	Arkansas	Greene	pcnt_lbw	7.6
+5057	Arkansas	Hempstead	pcnt_lbw	10.8
+5059	Arkansas	Hot Spring	pcnt_lbw	8
+5061	Arkansas	Howard	pcnt_lbw	9.1
+5063	Arkansas	Independence	pcnt_lbw	9.1
+5065	Arkansas	Izard	pcnt_lbw	8.2
+5067	Arkansas	Jackson	pcnt_lbw	10.8
+5069	Arkansas	Jefferson	pcnt_lbw	12.4
+5071	Arkansas	Johnson	pcnt_lbw	7.1
+5073	Arkansas	Lafayette	pcnt_lbw	12.7
+5075	Arkansas	Lawrence	pcnt_lbw	7.6
+5077	Arkansas	Lee	pcnt_lbw	13.3
+5079	Arkansas	Lincoln	pcnt_lbw	9.5
+5081	Arkansas	Little River	pcnt_lbw	9.9
+5083	Arkansas	Logan	pcnt_lbw	8.9
+5085	Arkansas	Lonoke	pcnt_lbw	7.8
+5087	Arkansas	Madison	pcnt_lbw	6.9
+5089	Arkansas	Marion	pcnt_lbw	7.4
+5091	Arkansas	Miller	pcnt_lbw	10.5
+5093	Arkansas	Mississippi	pcnt_lbw	11.6
+5095	Arkansas	Monroe	pcnt_lbw	12.2
+5097	Arkansas	Montgomery	pcnt_lbw	7.6
+5099	Arkansas	Nevada	pcnt_lbw	10.8
+5101	Arkansas	Newton	pcnt_lbw	8.9
+5103	Arkansas	Ouachita	pcnt_lbw	11.6
+5105	Arkansas	Perry	pcnt_lbw	8.1
+5107	Arkansas	Phillips	pcnt_lbw	13.5
+5109	Arkansas	Pike	pcnt_lbw	8.3
+5111	Arkansas	Poinsett	pcnt_lbw	9.9
+5113	Arkansas	Polk	pcnt_lbw	8.1
+5115	Arkansas	Pope	pcnt_lbw	7.5
+5117	Arkansas	Prairie	pcnt_lbw	9.1
+5119	Arkansas	Pulaski	pcnt_lbw	10.5
+5121	Arkansas	Randolph	pcnt_lbw	7.3
+5123	Arkansas	St. Francis	pcnt_lbw	12.9
+5125	Arkansas	Saline	pcnt_lbw	8.3
+5127	Arkansas	Scott	pcnt_lbw	7.8
+5129	Arkansas	Searcy	pcnt_lbw	7.2
+5131	Arkansas	Sebastian	pcnt_lbw	8.3
+5133	Arkansas	Sevier	pcnt_lbw	7.1
+5135	Arkansas	Sharp	pcnt_lbw	8.1
+5137	Arkansas	Stone	pcnt_lbw	12.5
+5139	Arkansas	Union	pcnt_lbw	10.2
+5141	Arkansas	Van Buren	pcnt_lbw	8.6
+5143	Arkansas	Washington	pcnt_lbw	7.2
+5145	Arkansas	White	pcnt_lbw	8.3
+5147	Arkansas	Woodruff	pcnt_lbw	12.3
+5149	Arkansas	Yell	pcnt_lbw	8.9
+6001	California	Alameda	pcnt_lbw	7.1
+6003	California	Alpine	pcnt_lbw	
+6005	California	Amador	pcnt_lbw	4.9
+6007	California	Butte	pcnt_lbw	5.8
+6009	California	Calaveras	pcnt_lbw	5.9
+6011	California	Colusa	pcnt_lbw	5.3
+6013	California	Contra Costa	pcnt_lbw	6.7
+6015	California	Del Norte	pcnt_lbw	5.4
+6017	California	El Dorado	pcnt_lbw	6.3
+6019	California	Fresno	pcnt_lbw	7.4
+6021	California	Glenn	pcnt_lbw	4.7
+6023	California	Humboldt	pcnt_lbw	6
+6025	California	Imperial	pcnt_lbw	6.2
+6027	California	Inyo	pcnt_lbw	8.5
+6029	California	Kern	pcnt_lbw	7.1
+6031	California	Kings	pcnt_lbw	6.5
+6033	California	Lake	pcnt_lbw	5.9
+6035	California	Lassen	pcnt_lbw	6.3
+6037	California	Los Angeles	pcnt_lbw	7.3
+6039	California	Madera	pcnt_lbw	6.3
+6041	California	Marin	pcnt_lbw	6.3
+6043	California	Mariposa	pcnt_lbw	5.1
+6045	California	Mendocino	pcnt_lbw	6.3
+6047	California	Merced	pcnt_lbw	6.4
+6049	California	Modoc	pcnt_lbw	6
+6051	California	Mono	pcnt_lbw	8.8
+6053	California	Monterey	pcnt_lbw	5.9
+6055	California	Napa	pcnt_lbw	6.1
+6057	California	Nevada	pcnt_lbw	5.9
+6059	California	Orange	pcnt_lbw	6.4
+6061	California	Placer	pcnt_lbw	5.7
+6063	California	Plumas	pcnt_lbw	5.3
+6065	California	Riverside	pcnt_lbw	6.5
+6067	California	Sacramento	pcnt_lbw	6.9
+6069	California	San Benito	pcnt_lbw	6
+6071	California	San Bernardino	pcnt_lbw	7.1
+6073	California	San Diego	pcnt_lbw	6.6
+6075	California	San Francisco	pcnt_lbw	7
+6077	California	San Joaquin	pcnt_lbw	6.9
+6079	California	San Luis Obispo	pcnt_lbw	6
+6081	California	San Mateo	pcnt_lbw	6.7
+6083	California	Santa Barbara	pcnt_lbw	6.2
+6085	California	Santa Clara	pcnt_lbw	6.7
+6087	California	Santa Cruz	pcnt_lbw	5.8
+6089	California	Shasta	pcnt_lbw	6.2
+6091	California	Sierra	pcnt_lbw	
+6093	California	Siskiyou	pcnt_lbw	7.4
+6095	California	Solano	pcnt_lbw	7.1
+6097	California	Sonoma	pcnt_lbw	5.8
+6099	California	Stanislaus	pcnt_lbw	6.4
+6101	California	Sutter	pcnt_lbw	5.8
+6103	California	Tehama	pcnt_lbw	5.5
+6105	California	Trinity	pcnt_lbw	5
+6107	California	Tulare	pcnt_lbw	6.2
+6109	California	Tuolumne	pcnt_lbw	4.7
+6111	California	Ventura	pcnt_lbw	6.5
+6113	California	Yolo	pcnt_lbw	5.3
+6115	California	Yuba	pcnt_lbw	6.2
+8001	Colorado	Adams	pcnt_lbw	8.8
+8003	Colorado	Alamosa	pcnt_lbw	11.1
+8005	Colorado	Arapahoe	pcnt_lbw	9.4
+8007	Colorado	Archuleta	pcnt_lbw	9.4
+8009	Colorado	Baca	pcnt_lbw	11.8
+8011	Colorado	Bent	pcnt_lbw	14.3
+8013	Colorado	Boulder	pcnt_lbw	7.7
+8014	Colorado	Broomfield	pcnt_lbw	7.5
+8015	Colorado	Chaffee	pcnt_lbw	10.4
+8017	Colorado	Cheyenne	pcnt_lbw	
+8019	Colorado	Clear Creek	pcnt_lbw	11.9
+8021	Colorado	Conejos	pcnt_lbw	12.1
+8023	Colorado	Costilla	pcnt_lbw	12.1
+8025	Colorado	Crowley	pcnt_lbw	10.6
+8027	Colorado	Custer	pcnt_lbw	
+8029	Colorado	Delta	pcnt_lbw	9.8
+8031	Colorado	Denver	pcnt_lbw	9.5
+8033	Colorado	Dolores	pcnt_lbw	
+8035	Colorado	Douglas	pcnt_lbw	8.9
+8037	Colorado	Eagle	pcnt_lbw	8.8
+8039	Colorado	Elbert	pcnt_lbw	10.3
+8041	Colorado	El Paso	pcnt_lbw	9.7
+8043	Colorado	Fremont	pcnt_lbw	9.7
+8045	Colorado	Garfield	pcnt_lbw	7.1
+8047	Colorado	Gilpin	pcnt_lbw	10.5
+8049	Colorado	Grand	pcnt_lbw	10.5
+8051	Colorado	Gunnison	pcnt_lbw	10.1
+8053	Colorado	Hinsdale	pcnt_lbw	
+8055	Colorado	Huerfano	pcnt_lbw	12.2
+8057	Colorado	Jackson	pcnt_lbw	
+8059	Colorado	Jefferson	pcnt_lbw	8.6
+8061	Colorado	Kiowa	pcnt_lbw	
+8063	Colorado	Kit Carson	pcnt_lbw	7.5
+8065	Colorado	Lake	pcnt_lbw	15.2
+8067	Colorado	La Plata	pcnt_lbw	8
+8069	Colorado	Larimer	pcnt_lbw	7.8
+8071	Colorado	Las Animas	pcnt_lbw	11
+8073	Colorado	Lincoln	pcnt_lbw	9
+8075	Colorado	Logan	pcnt_lbw	7.1
+8077	Colorado	Mesa	pcnt_lbw	7.5
+8079	Colorado	Mineral	pcnt_lbw	
+8081	Colorado	Moffat	pcnt_lbw	9.3
+8083	Colorado	Montezuma	pcnt_lbw	7.3
+8085	Colorado	Montrose	pcnt_lbw	9.1
+8087	Colorado	Morgan	pcnt_lbw	7.6
+8089	Colorado	Otero	pcnt_lbw	11
+8091	Colorado	Ouray	pcnt_lbw	9.1
+8093	Colorado	Park	pcnt_lbw	11.7
+8095	Colorado	Phillips	pcnt_lbw	6.3
+8097	Colorado	Pitkin	pcnt_lbw	8.2
+8099	Colorado	Prowers	pcnt_lbw	8.7
+8101	Colorado	Pueblo	pcnt_lbw	9.2
+8103	Colorado	Rio Blanco	pcnt_lbw	7.9
+8105	Colorado	Rio Grande	pcnt_lbw	11.2
+8107	Colorado	Routt	pcnt_lbw	9.4
+8109	Colorado	Saguache	pcnt_lbw	10.7
+8111	Colorado	San Juan	pcnt_lbw	
+8113	Colorado	San Miguel	pcnt_lbw	8.2
+8115	Colorado	Sedgwick	pcnt_lbw	
+8117	Colorado	Summit	pcnt_lbw	11.3
+8119	Colorado	Teller	pcnt_lbw	14
+8121	Colorado	Washington	pcnt_lbw	6.3
+8123	Colorado	Weld	pcnt_lbw	7.6
+8125	Colorado	Yuma	pcnt_lbw	6.8
+9001	Connecticut	Fairfield	pcnt_lbw	7.6
+9003	Connecticut	Hartford	pcnt_lbw	8.7
+9005	Connecticut	Litchfield	pcnt_lbw	7
+9007	Connecticut	Middlesex	pcnt_lbw	6.7
+9009	Connecticut	New Haven	pcnt_lbw	8.5
+9011	Connecticut	New London	pcnt_lbw	7.1
+9013	Connecticut	Tolland	pcnt_lbw	7.3
+9015	Connecticut	Windham	pcnt_lbw	7.7
 10001	Delaware	Kent	pcnt_lbw	8.8
 10003	Delaware	New Castle	pcnt_lbw	9.5
 10005	Delaware	Sussex	pcnt_lbw	7.9
@@ -327,14 +327,14 @@ FIPS	State	County	Variable	pcnt_lbw
 12015	Florida	Charlotte	pcnt_lbw	7.3
 12017	Florida	Citrus	pcnt_lbw	7.6
 12019	Florida	Clay	pcnt_lbw	7.6
-12021	Florida	Collier	pcnt_lbw	7.0
+12021	Florida	Collier	pcnt_lbw	7
 12023	Florida	Columbia	pcnt_lbw	8.7
 12027	Florida	DeSoto	pcnt_lbw	7.3
 12029	Florida	Dixie	pcnt_lbw	7.3
 12031	Florida	Duval	pcnt_lbw	9.6
 12033	Florida	Escambia	pcnt_lbw	10.3
 12035	Florida	Flagler	pcnt_lbw	7.9
-12037	Florida	Franklin	pcnt_lbw	8.0
+12037	Florida	Franklin	pcnt_lbw	8
 12039	Florida	Gadsden	pcnt_lbw	11.8
 12041	Florida	Gilchrist	pcnt_lbw	7.6
 12043	Florida	Glades	pcnt_lbw	9.5
@@ -363,7 +363,7 @@ FIPS	State	County	Variable	pcnt_lbw
 12087	Florida	Monroe	pcnt_lbw	7.6
 12089	Florida	Nassau	pcnt_lbw	7.9
 12091	Florida	Okaloosa	pcnt_lbw	7.9
-12093	Florida	Okeechobee	pcnt_lbw	9.0
+12093	Florida	Okeechobee	pcnt_lbw	9
 12095	Florida	Orange	pcnt_lbw	9.1
 12097	Florida	Osceola	pcnt_lbw	8.3
 12099	Florida	Palm Beach	pcnt_lbw	9.2
@@ -377,7 +377,7 @@ FIPS	State	County	Variable	pcnt_lbw
 12115	Florida	Sarasota	pcnt_lbw	7.1
 12117	Florida	Seminole	pcnt_lbw	7.8
 12119	Florida	Sumter	pcnt_lbw	9.3
-12121	Florida	Suwannee	pcnt_lbw	8.0
+12121	Florida	Suwannee	pcnt_lbw	8
 12123	Florida	Taylor	pcnt_lbw	9.9
 12125	Florida	Union	pcnt_lbw	8.8
 12127	Florida	Volusia	pcnt_lbw	8.2
@@ -389,7 +389,7 @@ FIPS	State	County	Variable	pcnt_lbw
 13005	Georgia	Bacon	pcnt_lbw	10.9
 13007	Georgia	Baker	pcnt_lbw	9.2
 13009	Georgia	Baldwin	pcnt_lbw	10.4
-13011	Georgia	Banks	pcnt_lbw	9.0
+13011	Georgia	Banks	pcnt_lbw	9
 13013	Georgia	Barrow	pcnt_lbw	7.8
 13015	Georgia	Bartow	pcnt_lbw	8.1
 13017	Georgia	Ben Hill	pcnt_lbw	16.3
@@ -412,7 +412,7 @@ FIPS	State	County	Variable	pcnt_lbw
 13053	Georgia	Chattahoochee	pcnt_lbw	7.3
 13055	Georgia	Chattooga	pcnt_lbw	9.4
 13057	Georgia	Cherokee	pcnt_lbw	7.5
-13059	Georgia	Clarke	pcnt_lbw	9.0
+13059	Georgia	Clarke	pcnt_lbw	9
 13061	Georgia	Clay	pcnt_lbw	12.6
 13063	Georgia	Clayton	pcnt_lbw	10.7
 13065	Georgia	Clinch	pcnt_lbw	13.2
@@ -445,7 +445,7 @@ FIPS	State	County	Variable	pcnt_lbw
 13119	Georgia	Franklin	pcnt_lbw	9.4
 13121	Georgia	Fulton	pcnt_lbw	10.8
 13123	Georgia	Gilmer	pcnt_lbw	8.7
-13125	Georgia	Glascock	pcnt_lbw	11.0
+13125	Georgia	Glascock	pcnt_lbw	11
 13127	Georgia	Glynn	pcnt_lbw	9.6
 13129	Georgia	Gordon	pcnt_lbw	7.5
 13131	Georgia	Grady	pcnt_lbw	9.9
@@ -460,7 +460,7 @@ FIPS	State	County	Variable	pcnt_lbw
 13149	Georgia	Heard	pcnt_lbw	8.5
 13151	Georgia	Henry	pcnt_lbw	8.7
 13153	Georgia	Houston	pcnt_lbw	9.1
-13155	Georgia	Irwin	pcnt_lbw	14.0
+13155	Georgia	Irwin	pcnt_lbw	14
 13157	Georgia	Jackson	pcnt_lbw	7.9
 13159	Georgia	Jasper	pcnt_lbw	9.2
 13161	Georgia	Jeff Davis	pcnt_lbw	9.7
@@ -472,7 +472,7 @@ FIPS	State	County	Variable	pcnt_lbw
 13173	Georgia	Lanier	pcnt_lbw	9.1
 13175	Georgia	Laurens	pcnt_lbw	10.5
 13177	Georgia	Lee	pcnt_lbw	8.6
-13179	Georgia	Liberty	pcnt_lbw	9.0
+13179	Georgia	Liberty	pcnt_lbw	9
 13181	Georgia	Lincoln	pcnt_lbw	10.5
 13183	Georgia	Long	pcnt_lbw	9.4
 13185	Georgia	Lowndes	pcnt_lbw	11.2
@@ -480,25 +480,25 @@ FIPS	State	County	Variable	pcnt_lbw
 13189	Georgia	McDuffie	pcnt_lbw	11.9
 13191	Georgia	McIntosh	pcnt_lbw	10.7
 13193	Georgia	Macon	pcnt_lbw	13.4
-13195	Georgia	Madison	pcnt_lbw	9.0
-13197	Georgia	Marion	pcnt_lbw	11.0
-13199	Georgia	Meriwether	pcnt_lbw	10.0
+13195	Georgia	Madison	pcnt_lbw	9
+13197	Georgia	Marion	pcnt_lbw	11
+13199	Georgia	Meriwether	pcnt_lbw	10
 13201	Georgia	Miller	pcnt_lbw	10.3
 13205	Georgia	Mitchell	pcnt_lbw	11.6
 13207	Georgia	Monroe	pcnt_lbw	10.3
-13209	Georgia	Montgomery	pcnt_lbw	11.0
+13209	Georgia	Montgomery	pcnt_lbw	11
 13211	Georgia	Morgan	pcnt_lbw	7.6
 13213	Georgia	Murray	pcnt_lbw	7.6
-13215	Georgia	Muscogee	pcnt_lbw	11.0
+13215	Georgia	Muscogee	pcnt_lbw	11
 13217	Georgia	Newton	pcnt_lbw	9.6
 13219	Georgia	Oconee	pcnt_lbw	8.1
-13221	Georgia	Oglethorpe	pcnt_lbw	8.0
+13221	Georgia	Oglethorpe	pcnt_lbw	8
 13223	Georgia	Paulding	pcnt_lbw	7.6
 13225	Georgia	Peach	pcnt_lbw	9.5
 13227	Georgia	Pickens	pcnt_lbw	7.4
 13229	Georgia	Pierce	pcnt_lbw	8.9
 13231	Georgia	Pike	pcnt_lbw	9.5
-13233	Georgia	Polk	pcnt_lbw	9.0
+13233	Georgia	Polk	pcnt_lbw	9
 13235	Georgia	Pulaski	pcnt_lbw	10.2
 13237	Georgia	Putnam	pcnt_lbw	9.5
 13239	Georgia	Quitman	pcnt_lbw	17.3
@@ -512,7 +512,7 @@ FIPS	State	County	Variable	pcnt_lbw
 13255	Georgia	Spalding	pcnt_lbw	14.1
 13257	Georgia	Stephens	pcnt_lbw	9.3
 13259	Georgia	Stewart	pcnt_lbw	12.7
-13261	Georgia	Sumter	pcnt_lbw	12.0
+13261	Georgia	Sumter	pcnt_lbw	12
 13263	Georgia	Talbot	pcnt_lbw	15.6
 13265	Georgia	Taliaferro	pcnt_lbw	
 13267	Georgia	Tattnall	pcnt_lbw	8.9
@@ -525,12 +525,12 @@ FIPS	State	County	Variable	pcnt_lbw
 13281	Georgia	Towns	pcnt_lbw	7.3
 13283	Georgia	Treutlen	pcnt_lbw	10.6
 13285	Georgia	Troup	pcnt_lbw	10.5
-13287	Georgia	Turner	pcnt_lbw	14.0
+13287	Georgia	Turner	pcnt_lbw	14
 13289	Georgia	Twiggs	pcnt_lbw	13.2
 13291	Georgia	Union	pcnt_lbw	7.7
 13293	Georgia	Upson	pcnt_lbw	11.1
 13295	Georgia	Walker	pcnt_lbw	10.3
-13297	Georgia	Walton	pcnt_lbw	8.0
+13297	Georgia	Walton	pcnt_lbw	8
 13299	Georgia	Ware	pcnt_lbw	10.2
 13301	Georgia	Warren	pcnt_lbw	11.3
 13303	Georgia	Washington	pcnt_lbw	12.6
@@ -538,12 +538,12 @@ FIPS	State	County	Variable	pcnt_lbw
 13307	Georgia	Webster	pcnt_lbw	16.1
 13309	Georgia	Wheeler	pcnt_lbw	10.6
 13311	Georgia	White	pcnt_lbw	6.4
-13313	Georgia	Whitfield	pcnt_lbw	7.0
+13313	Georgia	Whitfield	pcnt_lbw	7
 13315	Georgia	Wilcox	pcnt_lbw	10.9
 13317	Georgia	Wilkes	pcnt_lbw	9.6
-13319	Georgia	Wilkinson	pcnt_lbw	12.0
+13319	Georgia	Wilkinson	pcnt_lbw	12
 13321	Georgia	Worth	pcnt_lbw	12.7
-15001	Hawaii	Hawaii	pcnt_lbw	8.0
+15001	Hawaii	Hawaii	pcnt_lbw	8
 15003	Hawaii	Honolulu	pcnt_lbw	8.3
 15005	Hawaii	Kalawao	pcnt_lbw	
 15007	Hawaii	Kauai	pcnt_lbw	7.7
@@ -551,7 +551,7 @@ FIPS	State	County	Variable	pcnt_lbw
 16001	Idaho	Ada	pcnt_lbw	6.9
 16003	Idaho	Adams	pcnt_lbw	
 16005	Idaho	Bannock	pcnt_lbw	7.3
-16007	Idaho	Bear Lake	pcnt_lbw	8.0
+16007	Idaho	Bear Lake	pcnt_lbw	8
 16009	Idaho	Benewah	pcnt_lbw	6.9
 16011	Idaho	Bingham	pcnt_lbw	8.6
 16013	Idaho	Blaine	pcnt_lbw	6.8
@@ -575,7 +575,7 @@ FIPS	State	County	Variable	pcnt_lbw
 16049	Idaho	Idaho	pcnt_lbw	4.9
 16051	Idaho	Jefferson	pcnt_lbw	5.3
 16053	Idaho	Jerome	pcnt_lbw	7.3
-16055	Idaho	Kootenai	pcnt_lbw	6.0
+16055	Idaho	Kootenai	pcnt_lbw	6
 16057	Idaho	Latah	pcnt_lbw	5.2
 16059	Idaho	Lemhi	pcnt_lbw	7.5
 16061	Idaho	Lewis	pcnt_lbw	
@@ -588,16 +588,16 @@ FIPS	State	County	Variable	pcnt_lbw
 16075	Idaho	Payette	pcnt_lbw	7.3
 16077	Idaho	Power	pcnt_lbw	7.4
 16079	Idaho	Shoshone	pcnt_lbw	6.6
-16081	Idaho	Teton	pcnt_lbw	7.0
+16081	Idaho	Teton	pcnt_lbw	7
 16083	Idaho	Twin Falls	pcnt_lbw	7.2
 16085	Idaho	Valley	pcnt_lbw	4.7
 16087	Idaho	Washington	pcnt_lbw	6.8
-17001	Illinois	Adams	pcnt_lbw	7.0
+17001	Illinois	Adams	pcnt_lbw	7
 17003	Illinois	Alexander	pcnt_lbw	12.2
 17005	Illinois	Bond	pcnt_lbw	7.3
 17007	Illinois	Boone	pcnt_lbw	7.3
 17009	Illinois	Brown	pcnt_lbw	7.4
-17011	Illinois	Bureau	pcnt_lbw	6.0
+17011	Illinois	Bureau	pcnt_lbw	6
 17013	Illinois	Calhoun	pcnt_lbw	6.8
 17015	Illinois	Carroll	pcnt_lbw	8.2
 17017	Illinois	Cass	pcnt_lbw	6.5
@@ -617,10 +617,10 @@ FIPS	State	County	Variable	pcnt_lbw
 17045	Illinois	Edgar	pcnt_lbw	6.9
 17047	Illinois	Edwards	pcnt_lbw	8.3
 17049	Illinois	Effingham	pcnt_lbw	7.3
-17051	Illinois	Fayette	pcnt_lbw	9.0
+17051	Illinois	Fayette	pcnt_lbw	9
 17053	Illinois	Ford	pcnt_lbw	8.1
 17055	Illinois	Franklin	pcnt_lbw	8.3
-17057	Illinois	Fulton	pcnt_lbw	8.0
+17057	Illinois	Fulton	pcnt_lbw	8
 17059	Illinois	Gallatin	pcnt_lbw	9.1
 17061	Illinois	Greene	pcnt_lbw	8.8
 17063	Illinois	Grundy	pcnt_lbw	7.1
@@ -642,12 +642,12 @@ FIPS	State	County	Variable	pcnt_lbw
 17095	Illinois	Knox	pcnt_lbw	8.2
 17097	Illinois	Lake	pcnt_lbw	7.6
 17099	Illinois	LaSalle	pcnt_lbw	7.6
-17101	Illinois	Lawrence	pcnt_lbw	8.0
+17101	Illinois	Lawrence	pcnt_lbw	8
 17103	Illinois	Lee	pcnt_lbw	6.8
 17105	Illinois	Livingston	pcnt_lbw	8.6
 17107	Illinois	Logan	pcnt_lbw	7.7
 17109	Illinois	McDonough	pcnt_lbw	7.3
-17111	Illinois	McHenry	pcnt_lbw	7.0
+17111	Illinois	McHenry	pcnt_lbw	7
 17113	Illinois	McLean	pcnt_lbw	8.3
 17115	Illinois	Macon	pcnt_lbw	9.6
 17117	Illinois	Macoupin	pcnt_lbw	7.3
@@ -677,8 +677,8 @@ FIPS	State	County	Variable	pcnt_lbw
 17165	Illinois	Saline	pcnt_lbw	8.8
 17167	Illinois	Sangamon	pcnt_lbw	9.3
 17169	Illinois	Schuyler	pcnt_lbw	6.6
-17171	Illinois	Scott	pcnt_lbw	7.0
-17173	Illinois	Shelby	pcnt_lbw	7.0
+17171	Illinois	Scott	pcnt_lbw	7
+17173	Illinois	Shelby	pcnt_lbw	7
 17175	Illinois	Stark	pcnt_lbw	9.6
 17177	Illinois	Stephenson	pcnt_lbw	9.4
 17179	Illinois	Tazewell	pcnt_lbw	7.3
@@ -691,17 +691,17 @@ FIPS	State	County	Variable	pcnt_lbw
 17193	Illinois	White	pcnt_lbw	7.8
 17195	Illinois	Whiteside	pcnt_lbw	5.9
 17197	Illinois	Will	pcnt_lbw	7.6
-17199	Illinois	Williamson	pcnt_lbw	8.0
+17199	Illinois	Williamson	pcnt_lbw	8
 17201	Illinois	Winnebago	pcnt_lbw	9.2
 17203	Illinois	Woodford	pcnt_lbw	6.5
-18001	Indiana	Adams	pcnt_lbw	7.0
-18003	Indiana	Allen	pcnt_lbw	9.0
+18001	Indiana	Adams	pcnt_lbw	7
+18003	Indiana	Allen	pcnt_lbw	9
 18005	Indiana	Bartholomew	pcnt_lbw	7.8
 18007	Indiana	Benton	pcnt_lbw	5.9
 18009	Indiana	Blackford	pcnt_lbw	9.1
 18011	Indiana	Boone	pcnt_lbw	6.7
 18013	Indiana	Brown	pcnt_lbw	6.3
-18015	Indiana	Carroll	pcnt_lbw	7.0
+18015	Indiana	Carroll	pcnt_lbw	7
 18017	Indiana	Cass	pcnt_lbw	7.7
 18019	Indiana	Clark	pcnt_lbw	8.2
 18021	Indiana	Clay	pcnt_lbw	6.2
@@ -722,23 +722,23 @@ FIPS	State	County	Variable	pcnt_lbw
 18051	Indiana	Gibson	pcnt_lbw	7.9
 18053	Indiana	Grant	pcnt_lbw	9.4
 18055	Indiana	Greene	pcnt_lbw	8.2
-18057	Indiana	Hamilton	pcnt_lbw	7.0
+18057	Indiana	Hamilton	pcnt_lbw	7
 18059	Indiana	Hancock	pcnt_lbw	7.8
 18061	Indiana	Harrison	pcnt_lbw	7.7
-18063	Indiana	Hendricks	pcnt_lbw	7.0
+18063	Indiana	Hendricks	pcnt_lbw	7
 18065	Indiana	Henry	pcnt_lbw	8.1
 18067	Indiana	Howard	pcnt_lbw	7.9
 18069	Indiana	Huntington	pcnt_lbw	8.5
 18071	Indiana	Jackson	pcnt_lbw	7.5
 18073	Indiana	Jasper	pcnt_lbw	6.8
 18075	Indiana	Jay	pcnt_lbw	7.8
-18077	Indiana	Jefferson	pcnt_lbw	8.0
+18077	Indiana	Jefferson	pcnt_lbw	8
 18079	Indiana	Jennings	pcnt_lbw	7.8
 18081	Indiana	Johnson	pcnt_lbw	6.9
 18083	Indiana	Knox	pcnt_lbw	8.2
-18085	Indiana	Kosciusko	pcnt_lbw	7.0
+18085	Indiana	Kosciusko	pcnt_lbw	7
 18087	Indiana	LaGrange	pcnt_lbw	5.4
-18089	Indiana	Lake	pcnt_lbw	10.0
+18089	Indiana	Lake	pcnt_lbw	10
 18091	Indiana	LaPorte	pcnt_lbw	9.5
 18093	Indiana	Lawrence	pcnt_lbw	8.8
 18095	Indiana	Madison	pcnt_lbw	8.6
@@ -749,10 +749,10 @@ FIPS	State	County	Variable	pcnt_lbw
 18105	Indiana	Monroe	pcnt_lbw	7.2
 18107	Indiana	Montgomery	pcnt_lbw	8.2
 18109	Indiana	Morgan	pcnt_lbw	7.9
-18111	Indiana	Newton	pcnt_lbw	7.0
+18111	Indiana	Newton	pcnt_lbw	7
 18113	Indiana	Noble	pcnt_lbw	7.6
 18115	Indiana	Ohio	pcnt_lbw	5.8
-18117	Indiana	Orange	pcnt_lbw	8.0
+18117	Indiana	Orange	pcnt_lbw	8
 18119	Indiana	Owen	pcnt_lbw	7.5
 18121	Indiana	Parke	pcnt_lbw	7.3
 18123	Indiana	Perry	pcnt_lbw	9.2
@@ -766,15 +766,15 @@ FIPS	State	County	Variable	pcnt_lbw
 18139	Indiana	Rush	pcnt_lbw	9.4
 18141	Indiana	St. Joseph	pcnt_lbw	8.3
 18143	Indiana	Scott	pcnt_lbw	9.2
-18145	Indiana	Shelby	pcnt_lbw	8.0
+18145	Indiana	Shelby	pcnt_lbw	8
 18147	Indiana	Spencer	pcnt_lbw	7.5
-18149	Indiana	Starke	pcnt_lbw	7.0
+18149	Indiana	Starke	pcnt_lbw	7
 18151	Indiana	Steuben	pcnt_lbw	7.9
-18153	Indiana	Sullivan	pcnt_lbw	8.0
+18153	Indiana	Sullivan	pcnt_lbw	8
 18155	Indiana	Switzerland	pcnt_lbw	6.6
 18157	Indiana	Tippecanoe	pcnt_lbw	6.9
 18159	Indiana	Tipton	pcnt_lbw	8.2
-18161	Indiana	Union	pcnt_lbw	5.0
+18161	Indiana	Union	pcnt_lbw	5
 18163	Indiana	Vanderburgh	pcnt_lbw	9.1
 18165	Indiana	Vermillion	pcnt_lbw	7.9
 18167	Indiana	Vigo	pcnt_lbw	7.9
@@ -794,7 +794,7 @@ FIPS	State	County	Variable	pcnt_lbw
 19011	Iowa	Benton	pcnt_lbw	5.9
 19013	Iowa	Black Hawk	pcnt_lbw	8.3
 19015	Iowa	Boone	pcnt_lbw	5.8
-19017	Iowa	Bremer	pcnt_lbw	7.0
+19017	Iowa	Bremer	pcnt_lbw	7
 19019	Iowa	Buchanan	pcnt_lbw	5.9
 19021	Iowa	Buena Vista	pcnt_lbw	6.3
 19023	Iowa	Butler	pcnt_lbw	6.8
@@ -803,13 +803,13 @@ FIPS	State	County	Variable	pcnt_lbw
 19029	Iowa	Cass	pcnt_lbw	8.1
 19031	Iowa	Cedar	pcnt_lbw	7.3
 19033	Iowa	Cerro Gordo	pcnt_lbw	6.7
-19035	Iowa	Cherokee	pcnt_lbw	5.0
+19035	Iowa	Cherokee	pcnt_lbw	5
 19037	Iowa	Chickasaw	pcnt_lbw	5.3
 19039	Iowa	Clarke	pcnt_lbw	8.5
 19041	Iowa	Clay	pcnt_lbw	5.4
 19043	Iowa	Clayton	pcnt_lbw	6.7
-19045	Iowa	Clinton	pcnt_lbw	8.0
-19047	Iowa	Crawford	pcnt_lbw	6.0
+19045	Iowa	Clinton	pcnt_lbw	8
+19047	Iowa	Crawford	pcnt_lbw	6
 19049	Iowa	Dallas	pcnt_lbw	7.3
 19051	Iowa	Davis	pcnt_lbw	4.4
 19053	Iowa	Decatur	pcnt_lbw	8.4
@@ -817,7 +817,7 @@ FIPS	State	County	Variable	pcnt_lbw
 19057	Iowa	Des Moines	pcnt_lbw	7.2
 19059	Iowa	Dickinson	pcnt_lbw	5.9
 19061	Iowa	Dubuque	pcnt_lbw	6.1
-19063	Iowa	Emmet	pcnt_lbw	8.0
+19063	Iowa	Emmet	pcnt_lbw	8
 19065	Iowa	Fayette	pcnt_lbw	6.3
 19067	Iowa	Floyd	pcnt_lbw	6.3
 19069	Iowa	Franklin	pcnt_lbw	5.1
@@ -839,17 +839,17 @@ FIPS	State	County	Variable	pcnt_lbw
 19101	Iowa	Jefferson	pcnt_lbw	4.9
 19103	Iowa	Johnson	pcnt_lbw	6.6
 19105	Iowa	Jones	pcnt_lbw	6.3
-19107	Iowa	Keokuk	pcnt_lbw	8.0
+19107	Iowa	Keokuk	pcnt_lbw	8
 19109	Iowa	Kossuth	pcnt_lbw	6.3
 19111	Iowa	Lee	pcnt_lbw	7.2
 19113	Iowa	Linn	pcnt_lbw	6.6
 19115	Iowa	Louisa	pcnt_lbw	7.9
 19117	Iowa	Lucas	pcnt_lbw	7.1
-19119	Iowa	Lyon	pcnt_lbw	6.0
+19119	Iowa	Lyon	pcnt_lbw	6
 19121	Iowa	Madison	pcnt_lbw	7.3
 19123	Iowa	Mahaska	pcnt_lbw	6.7
 19125	Iowa	Marion	pcnt_lbw	6.9
-19127	Iowa	Marshall	pcnt_lbw	7.0
+19127	Iowa	Marshall	pcnt_lbw	7
 19129	Iowa	Mills	pcnt_lbw	8.1
 19131	Iowa	Mitchell	pcnt_lbw	4.8
 19133	Iowa	Monona	pcnt_lbw	8.5
@@ -868,22 +868,22 @@ FIPS	State	County	Variable	pcnt_lbw
 19159	Iowa	Ringgold	pcnt_lbw	5.5
 19161	Iowa	Sac	pcnt_lbw	5.1
 19163	Iowa	Scott	pcnt_lbw	7.1
-19165	Iowa	Shelby	pcnt_lbw	6.0
-19167	Iowa	Sioux	pcnt_lbw	5.0
+19165	Iowa	Shelby	pcnt_lbw	6
+19167	Iowa	Sioux	pcnt_lbw	5
 19169	Iowa	Story	pcnt_lbw	5.9
 19171	Iowa	Tama	pcnt_lbw	8.3
 19173	Iowa	Taylor	pcnt_lbw	5.9
 19175	Iowa	Union	pcnt_lbw	7.6
-19177	Iowa	Van Buren	pcnt_lbw	7.0
+19177	Iowa	Van Buren	pcnt_lbw	7
 19179	Iowa	Wapello	pcnt_lbw	7.4
 19181	Iowa	Warren	pcnt_lbw	6.9
 19183	Iowa	Washington	pcnt_lbw	5.9
 19185	Iowa	Wayne	pcnt_lbw	7.5
-19187	Iowa	Webster	pcnt_lbw	6.0
+19187	Iowa	Webster	pcnt_lbw	6
 19189	Iowa	Winnebago	pcnt_lbw	8.6
 19191	Iowa	Winneshiek	pcnt_lbw	5.7
 19193	Iowa	Woodbury	pcnt_lbw	7.5
-19195	Iowa	Worth	pcnt_lbw	5.0
+19195	Iowa	Worth	pcnt_lbw	5
 19197	Iowa	Wright	pcnt_lbw	6.8
 20001	Kansas	Allen	pcnt_lbw	7.1
 20003	Kansas	Anderson	pcnt_lbw	7.9
@@ -899,7 +899,7 @@ FIPS	State	County	Variable	pcnt_lbw
 20023	Kansas	Cheyenne	pcnt_lbw	
 20025	Kansas	Clark	pcnt_lbw	
 20027	Kansas	Clay	pcnt_lbw	6.7
-20029	Kansas	Cloud	pcnt_lbw	8.0
+20029	Kansas	Cloud	pcnt_lbw	8
 20031	Kansas	Coffey	pcnt_lbw	5.1
 20033	Kansas	Comanche	pcnt_lbw	
 20035	Kansas	Cowley	pcnt_lbw	7.3
@@ -919,7 +919,7 @@ FIPS	State	County	Variable	pcnt_lbw
 20063	Kansas	Gove	pcnt_lbw	
 20065	Kansas	Graham	pcnt_lbw	
 20067	Kansas	Grant	pcnt_lbw	8.4
-20069	Kansas	Gray	pcnt_lbw	8.0
+20069	Kansas	Gray	pcnt_lbw	8
 20071	Kansas	Greeley	pcnt_lbw	
 20073	Kansas	Greenwood	pcnt_lbw	6.4
 20075	Kansas	Hamilton	pcnt_lbw	7.3
@@ -949,12 +949,12 @@ FIPS	State	County	Variable	pcnt_lbw
 20123	Kansas	Mitchell	pcnt_lbw	5.4
 20125	Kansas	Montgomery	pcnt_lbw	8.8
 20127	Kansas	Morris	pcnt_lbw	
-20129	Kansas	Morton	pcnt_lbw	7.0
+20129	Kansas	Morton	pcnt_lbw	7
 20131	Kansas	Nemaha	pcnt_lbw	5.8
 20133	Kansas	Neosho	pcnt_lbw	6.9
 20135	Kansas	Ness	pcnt_lbw	
 20137	Kansas	Norton	pcnt_lbw	9.6
-20139	Kansas	Osage	pcnt_lbw	7.0
+20139	Kansas	Osage	pcnt_lbw	7
 20141	Kansas	Osborne	pcnt_lbw	
 20143	Kansas	Ottawa	pcnt_lbw	7.2
 20145	Kansas	Pawnee	pcnt_lbw	8.7
@@ -963,7 +963,7 @@ FIPS	State	County	Variable	pcnt_lbw
 20151	Kansas	Pratt	pcnt_lbw	7.6
 20153	Kansas	Rawlins	pcnt_lbw	
 20155	Kansas	Reno	pcnt_lbw	6.7
-20157	Kansas	Republic	pcnt_lbw	8.0
+20157	Kansas	Republic	pcnt_lbw	8
 20159	Kansas	Rice	pcnt_lbw	7.2
 20161	Kansas	Riley	pcnt_lbw	5.8
 20163	Kansas	Rooks	pcnt_lbw	6.6
@@ -971,11 +971,11 @@ FIPS	State	County	Variable	pcnt_lbw
 20167	Kansas	Russell	pcnt_lbw	8.1
 20169	Kansas	Saline	pcnt_lbw	7.7
 20171	Kansas	Scott	pcnt_lbw	6.7
-20173	Kansas	Sedgwick	pcnt_lbw	8.0
+20173	Kansas	Sedgwick	pcnt_lbw	8
 20175	Kansas	Seward	pcnt_lbw	5.9
 20177	Kansas	Shawnee	pcnt_lbw	7.6
 20179	Kansas	Sheridan	pcnt_lbw	
-20181	Kansas	Sherman	pcnt_lbw	11.0
+20181	Kansas	Sherman	pcnt_lbw	11
 20183	Kansas	Smith	pcnt_lbw	
 20185	Kansas	Stafford	pcnt_lbw	7.1
 20187	Kansas	Stanton	pcnt_lbw	
@@ -983,9 +983,9 @@ FIPS	State	County	Variable	pcnt_lbw
 20191	Kansas	Sumner	pcnt_lbw	7.5
 20193	Kansas	Thomas	pcnt_lbw	6.5
 20195	Kansas	Trego	pcnt_lbw	
-20197	Kansas	Wabaunsee	pcnt_lbw	5.0
+20197	Kansas	Wabaunsee	pcnt_lbw	5
 20199	Kansas	Wallace	pcnt_lbw	
-20201	Kansas	Washington	pcnt_lbw	6.0
+20201	Kansas	Washington	pcnt_lbw	6
 20203	Kansas	Wichita	pcnt_lbw	8.5
 20205	Kansas	Wilson	pcnt_lbw	7.9
 20207	Kansas	Woodson	pcnt_lbw	
@@ -994,7 +994,7 @@ FIPS	State	County	Variable	pcnt_lbw
 21003	Kentucky	Allen	pcnt_lbw	7.8
 21005	Kentucky	Anderson	pcnt_lbw	9.8
 21007	Kentucky	Ballard	pcnt_lbw	11.7
-21009	Kentucky	Barren	pcnt_lbw	9.0
+21009	Kentucky	Barren	pcnt_lbw	9
 21011	Kentucky	Bath	pcnt_lbw	9.4
 21013	Kentucky	Bell	pcnt_lbw	9.9
 21015	Kentucky	Boone	pcnt_lbw	7.3
@@ -1020,7 +1020,7 @@ FIPS	State	County	Variable	pcnt_lbw
 21055	Kentucky	Crittenden	pcnt_lbw	8.3
 21057	Kentucky	Cumberland	pcnt_lbw	11.2
 21059	Kentucky	Daviess	pcnt_lbw	8.6
-21061	Kentucky	Edmonson	pcnt_lbw	8.0
+21061	Kentucky	Edmonson	pcnt_lbw	8
 21063	Kentucky	Elliott	pcnt_lbw	12.1
 21065	Kentucky	Estill	pcnt_lbw	9.8
 21067	Kentucky	Fayette	pcnt_lbw	8.6
@@ -1029,7 +1029,7 @@ FIPS	State	County	Variable	pcnt_lbw
 21073	Kentucky	Franklin	pcnt_lbw	9.6
 21075	Kentucky	Fulton	pcnt_lbw	10.8
 21077	Kentucky	Gallatin	pcnt_lbw	9.5
-21079	Kentucky	Garrard	pcnt_lbw	11.0
+21079	Kentucky	Garrard	pcnt_lbw	11
 21081	Kentucky	Grant	pcnt_lbw	9.4
 21083	Kentucky	Graves	pcnt_lbw	8.1
 21085	Kentucky	Grayson	pcnt_lbw	8.1
@@ -1042,14 +1042,14 @@ FIPS	State	County	Variable	pcnt_lbw
 21099	Kentucky	Hart	pcnt_lbw	7.8
 21101	Kentucky	Henderson	pcnt_lbw	11.3
 21103	Kentucky	Henry	pcnt_lbw	7.6
-21105	Kentucky	Hickman	pcnt_lbw	7.0
+21105	Kentucky	Hickman	pcnt_lbw	7
 21107	Kentucky	Hopkins	pcnt_lbw	9.5
 21109	Kentucky	Jackson	pcnt_lbw	9.9
 21111	Kentucky	Jefferson	pcnt_lbw	9.5
 21113	Kentucky	Jessamine	pcnt_lbw	8.4
 21115	Kentucky	Johnson	pcnt_lbw	10.8
 21117	Kentucky	Kenton	pcnt_lbw	8.5
-21119	Kentucky	Knott	pcnt_lbw	11.0
+21119	Kentucky	Knott	pcnt_lbw	11
 21121	Kentucky	Knox	pcnt_lbw	8.9
 21123	Kentucky	Larue	pcnt_lbw	6.3
 21125	Kentucky	Laurel	pcnt_lbw	8.4
@@ -1095,7 +1095,7 @@ FIPS	State	County	Variable	pcnt_lbw
 21205	Kentucky	Rowan	pcnt_lbw	7.3
 21207	Kentucky	Russell	pcnt_lbw	7.9
 21209	Kentucky	Scott	pcnt_lbw	7.9
-21211	Kentucky	Shelby	pcnt_lbw	8.0
+21211	Kentucky	Shelby	pcnt_lbw	8
 21213	Kentucky	Simpson	pcnt_lbw	7.8
 21215	Kentucky	Spencer	pcnt_lbw	7.2
 21217	Kentucky	Taylor	pcnt_lbw	7.8
@@ -1104,7 +1104,7 @@ FIPS	State	County	Variable	pcnt_lbw
 21223	Kentucky	Trimble	pcnt_lbw	7.1
 21225	Kentucky	Union	pcnt_lbw	10.3
 21227	Kentucky	Warren	pcnt_lbw	8.9
-21229	Kentucky	Washington	pcnt_lbw	7.0
+21229	Kentucky	Washington	pcnt_lbw	7
 21231	Kentucky	Wayne	pcnt_lbw	7.7
 21233	Kentucky	Webster	pcnt_lbw	9.4
 21235	Kentucky	Whitley	pcnt_lbw	9.8
@@ -1126,9 +1126,9 @@ FIPS	State	County	Variable	pcnt_lbw
 22027	Louisiana	Claiborne	pcnt_lbw	12.7
 22029	Louisiana	Concordia	pcnt_lbw	14.8
 22031	Louisiana	De Soto	pcnt_lbw	13.4
-22033	Louisiana	East Baton Rouge	pcnt_lbw	12.0
+22033	Louisiana	East Baton Rouge	pcnt_lbw	12
 22035	Louisiana	East Carroll	pcnt_lbw	14.5
-22037	Louisiana	East Feliciana	pcnt_lbw	11.0
+22037	Louisiana	East Feliciana	pcnt_lbw	11
 22039	Louisiana	Evangeline	pcnt_lbw	12.4
 22041	Louisiana	Franklin	pcnt_lbw	12.9
 22043	Louisiana	Grant	pcnt_lbw	9.2
@@ -1142,11 +1142,11 @@ FIPS	State	County	Variable	pcnt_lbw
 22059	Louisiana	La Salle	pcnt_lbw	8.4
 22061	Louisiana	Lincoln	pcnt_lbw	9.7
 22063	Louisiana	Livingston	pcnt_lbw	8.3
-22065	Louisiana	Madison	pcnt_lbw	14.0
+22065	Louisiana	Madison	pcnt_lbw	14
 22067	Louisiana	Morehouse	pcnt_lbw	11.9
-22069	Louisiana	Natchitoches	pcnt_lbw	12.0
-22071	Louisiana	Orleans	pcnt_lbw	13.0
-22073	Louisiana	Ouachita	pcnt_lbw	13.0
+22069	Louisiana	Natchitoches	pcnt_lbw	12
+22071	Louisiana	Orleans	pcnt_lbw	13
+22073	Louisiana	Ouachita	pcnt_lbw	13
 22075	Louisiana	Plaquemines	pcnt_lbw	8.1
 22077	Louisiana	Pointe Coupee	pcnt_lbw	12.4
 22079	Louisiana	Rapides	pcnt_lbw	10.6
@@ -1154,7 +1154,7 @@ FIPS	State	County	Variable	pcnt_lbw
 22083	Louisiana	Richland	pcnt_lbw	11.9
 22085	Louisiana	Sabine	pcnt_lbw	11.1
 22087	Louisiana	St. Bernard	pcnt_lbw	10.1
-22089	Louisiana	St. Charles	pcnt_lbw	10.0
+22089	Louisiana	St. Charles	pcnt_lbw	10
 22091	Louisiana	St. Helena	pcnt_lbw	11.7
 22093	Louisiana	St. James	pcnt_lbw	11.3
 22095	Louisiana	St. John the Baptist	pcnt_lbw	11.2
@@ -1168,7 +1168,7 @@ FIPS	State	County	Variable	pcnt_lbw
 22111	Louisiana	Union	pcnt_lbw	10.8
 22113	Louisiana	Vermilion	pcnt_lbw	10.3
 22115	Louisiana	Vernon	pcnt_lbw	8.8
-22117	Louisiana	Washington	pcnt_lbw	12.0
+22117	Louisiana	Washington	pcnt_lbw	12
 22119	Louisiana	Webster	pcnt_lbw	12.6
 22121	Louisiana	West Baton Rouge	pcnt_lbw	11.4
 22123	Louisiana	West Carroll	pcnt_lbw	10.2
@@ -1181,8 +1181,8 @@ FIPS	State	County	Variable	pcnt_lbw
 23009	Maine	Hancock	pcnt_lbw	5.2
 23011	Maine	Kennebec	pcnt_lbw	6.3
 23013	Maine	Knox	pcnt_lbw	5.1
-23015	Maine	Lincoln	pcnt_lbw	7.0
-23017	Maine	Oxford	pcnt_lbw	7.0
+23015	Maine	Lincoln	pcnt_lbw	7
+23017	Maine	Oxford	pcnt_lbw	7
 23019	Maine	Penobscot	pcnt_lbw	6.6
 23021	Maine	Piscataquis	pcnt_lbw	6.8
 23023	Maine	Sagadahoc	pcnt_lbw	6.3
@@ -1192,10 +1192,10 @@ FIPS	State	County	Variable	pcnt_lbw
 23031	Maine	York	pcnt_lbw	6.4
 24001	Maryland	Allegany	pcnt_lbw	9.6
 24003	Maryland	Anne Arundel	pcnt_lbw	8.4
-24005	Maryland	Baltimore	pcnt_lbw	9.0
+24005	Maryland	Baltimore	pcnt_lbw	9
 24009	Maryland	Calvert	pcnt_lbw	6.8
 24011	Maryland	Caroline	pcnt_lbw	8.1
-24013	Maryland	Carroll	pcnt_lbw	7.0
+24013	Maryland	Carroll	pcnt_lbw	7
 24015	Maryland	Cecil	pcnt_lbw	7.3
 24017	Maryland	Charles	pcnt_lbw	9.5
 24019	Maryland	Dorchester	pcnt_lbw	10.7
@@ -1203,16 +1203,16 @@ FIPS	State	County	Variable	pcnt_lbw
 24023	Maryland	Garrett	pcnt_lbw	7.6
 24025	Maryland	Harford	pcnt_lbw	7.8
 24027	Maryland	Howard	pcnt_lbw	7.8
-24029	Maryland	Kent	pcnt_lbw	9.0
+24029	Maryland	Kent	pcnt_lbw	9
 24031	Maryland	Montgomery	pcnt_lbw	8.1
 24033	Maryland	Prince George's	pcnt_lbw	10.4
 24035	Maryland	Queen Anne's	pcnt_lbw	7.5
 24037	Maryland	St. Mary's	pcnt_lbw	7.1
 24039	Maryland	Somerset	pcnt_lbw	9.5
-24041	Maryland	Talbot	pcnt_lbw	7.0
+24041	Maryland	Talbot	pcnt_lbw	7
 24043	Maryland	Washington	pcnt_lbw	7.5
 24045	Maryland	Wicomico	pcnt_lbw	9.1
-24047	Maryland	Worcester	pcnt_lbw	7.0
+24047	Maryland	Worcester	pcnt_lbw	7
 24510	Maryland	Baltimore City	pcnt_lbw	12.7
 25001	Massachusetts	Barnstable	pcnt_lbw	7.1
 25003	Massachusetts	Berkshire	pcnt_lbw	7.9
@@ -1228,7 +1228,7 @@ FIPS	State	County	Variable	pcnt_lbw
 25023	Massachusetts	Plymouth	pcnt_lbw	7.7
 25025	Massachusetts	Suffolk	pcnt_lbw	9.1
 25027	Massachusetts	Worcester	pcnt_lbw	7.4
-26001	Michigan	Alcona	pcnt_lbw	8.0
+26001	Michigan	Alcona	pcnt_lbw	8
 26003	Michigan	Alger	pcnt_lbw	6.3
 26005	Michigan	Allegan	pcnt_lbw	6.7
 26007	Michigan	Alpena	pcnt_lbw	9.7
@@ -1295,19 +1295,19 @@ FIPS	State	County	Variable	pcnt_lbw
 26129	Michigan	Ogemaw	pcnt_lbw	6.3
 26131	Michigan	Ontonagon	pcnt_lbw	6.5
 26133	Michigan	Osceola	pcnt_lbw	5.8
-26135	Michigan	Oscoda	pcnt_lbw	5.0
+26135	Michigan	Oscoda	pcnt_lbw	5
 26137	Michigan	Otsego	pcnt_lbw	6.3
 26139	Michigan	Ottawa	pcnt_lbw	6.4
 26141	Michigan	Presque Isle	pcnt_lbw	6.6
 26143	Michigan	Roscommon	pcnt_lbw	6.5
 26145	Michigan	Saginaw	pcnt_lbw	9.7
 26147	Michigan	St. Clair	pcnt_lbw	8.1
-26149	Michigan	St. Joseph	pcnt_lbw	7.0
+26149	Michigan	St. Joseph	pcnt_lbw	7
 26151	Michigan	Sanilac	pcnt_lbw	6.6
 26153	Michigan	Schoolcraft	pcnt_lbw	8.1
 26155	Michigan	Shiawassee	pcnt_lbw	7.5
-26157	Michigan	Tuscola	pcnt_lbw	7.0
-26159	Michigan	Van Buren	pcnt_lbw	7.0
+26157	Michigan	Tuscola	pcnt_lbw	7
+26159	Michigan	Van Buren	pcnt_lbw	7
 26161	Michigan	Washtenaw	pcnt_lbw	7.8
 26163	Michigan	Wayne	pcnt_lbw	10.6
 26165	Michigan	Wexford	pcnt_lbw	7.2
@@ -1317,18 +1317,18 @@ FIPS	State	County	Variable	pcnt_lbw
 27007	Minnesota	Beltrami	pcnt_lbw	5.7
 27009	Minnesota	Benton	pcnt_lbw	7.2
 27011	Minnesota	Big Stone	pcnt_lbw	
-27013	Minnesota	Blue Earth	pcnt_lbw	6.0
+27013	Minnesota	Blue Earth	pcnt_lbw	6
 27015	Minnesota	Brown	pcnt_lbw	5.3
 27017	Minnesota	Carlton	pcnt_lbw	5.5
 27019	Minnesota	Carver	pcnt_lbw	5.7
 27021	Minnesota	Cass	pcnt_lbw	7.4
 27023	Minnesota	Chippewa	pcnt_lbw	6.2
-27025	Minnesota	Chisago	pcnt_lbw	6.0
+27025	Minnesota	Chisago	pcnt_lbw	6
 27027	Minnesota	Clay	pcnt_lbw	6.7
 27029	Minnesota	Clearwater	pcnt_lbw	5.6
 27031	Minnesota	Cook	pcnt_lbw	
 27033	Minnesota	Cottonwood	pcnt_lbw	6.4
-27035	Minnesota	Crow Wing	pcnt_lbw	6.0
+27035	Minnesota	Crow Wing	pcnt_lbw	6
 27037	Minnesota	Dakota	pcnt_lbw	6.2
 27039	Minnesota	Dodge	pcnt_lbw	5.9
 27041	Minnesota	Douglas	pcnt_lbw	5.9
@@ -1342,8 +1342,8 @@ FIPS	State	County	Variable	pcnt_lbw
 27057	Minnesota	Hubbard	pcnt_lbw	5.7
 27059	Minnesota	Isanti	pcnt_lbw	6.2
 27061	Minnesota	Itasca	pcnt_lbw	6.1
-27063	Minnesota	Jackson	pcnt_lbw	8.0
-27065	Minnesota	Kanabec	pcnt_lbw	5.0
+27063	Minnesota	Jackson	pcnt_lbw	8
+27065	Minnesota	Kanabec	pcnt_lbw	5
 27067	Minnesota	Kandiyohi	pcnt_lbw	5.4
 27069	Minnesota	Kittson	pcnt_lbw	
 27071	Minnesota	Koochiching	pcnt_lbw	5.1
@@ -1351,7 +1351,7 @@ FIPS	State	County	Variable	pcnt_lbw
 27075	Minnesota	Lake	pcnt_lbw	8.4
 27077	Minnesota	Lake of the Woods	pcnt_lbw	
 27079	Minnesota	Le Sueur	pcnt_lbw	5.3
-27081	Minnesota	Lincoln	pcnt_lbw	6.0
+27081	Minnesota	Lincoln	pcnt_lbw	6
 27083	Minnesota	Lyon	pcnt_lbw	5.7
 27085	Minnesota	McLeod	pcnt_lbw	5.5
 27087	Minnesota	Mahnomen	pcnt_lbw	5.2
@@ -1360,9 +1360,9 @@ FIPS	State	County	Variable	pcnt_lbw
 27093	Minnesota	Meeker	pcnt_lbw	5.8
 27095	Minnesota	Mille Lacs	pcnt_lbw	5.8
 27097	Minnesota	Morrison	pcnt_lbw	6.9
-27099	Minnesota	Mower	pcnt_lbw	6.0
+27099	Minnesota	Mower	pcnt_lbw	6
 27101	Minnesota	Murray	pcnt_lbw	5.7
-27103	Minnesota	Nicollet	pcnt_lbw	6.0
+27103	Minnesota	Nicollet	pcnt_lbw	6
 27105	Minnesota	Nobles	pcnt_lbw	6.5
 27107	Minnesota	Norman	pcnt_lbw	6.8
 27109	Minnesota	Olmsted	pcnt_lbw	6.4
@@ -1394,14 +1394,14 @@ FIPS	State	County	Variable	pcnt_lbw
 27161	Minnesota	Waseca	pcnt_lbw	5.8
 27163	Minnesota	Washington	pcnt_lbw	6.1
 27165	Minnesota	Watonwan	pcnt_lbw	5.3
-27167	Minnesota	Wilkin	pcnt_lbw	5.0
+27167	Minnesota	Wilkin	pcnt_lbw	5
 27169	Minnesota	Winona	pcnt_lbw	5.3
 27171	Minnesota	Wright	pcnt_lbw	5.7
 27173	Minnesota	Yellow Medicine	pcnt_lbw	5.3
 28001	Mississippi	Adams	pcnt_lbw	14.8
 28003	Mississippi	Alcorn	pcnt_lbw	11.6
 28005	Mississippi	Amite	pcnt_lbw	11.1
-28007	Mississippi	Attala	pcnt_lbw	13.0
+28007	Mississippi	Attala	pcnt_lbw	13
 28009	Mississippi	Benton	pcnt_lbw	12.8
 28011	Mississippi	Bolivar	pcnt_lbw	13.8
 28013	Mississippi	Calhoun	pcnt_lbw	11.7
@@ -1420,7 +1420,7 @@ FIPS	State	County	Variable	pcnt_lbw
 28039	Mississippi	George	pcnt_lbw	9.6
 28041	Mississippi	Greene	pcnt_lbw	8.8
 28043	Mississippi	Grenada	pcnt_lbw	12.1
-28045	Mississippi	Hancock	pcnt_lbw	8.0
+28045	Mississippi	Hancock	pcnt_lbw	8
 28047	Mississippi	Harrison	pcnt_lbw	10.5
 28049	Mississippi	Hinds	pcnt_lbw	15.4
 28051	Mississippi	Holmes	pcnt_lbw	14.6
@@ -1439,9 +1439,9 @@ FIPS	State	County	Variable	pcnt_lbw
 28077	Mississippi	Lawrence	pcnt_lbw	12.5
 28079	Mississippi	Leake	pcnt_lbw	12.2
 28081	Mississippi	Lee	pcnt_lbw	11.2
-28083	Mississippi	Leflore	pcnt_lbw	14.0
+28083	Mississippi	Leflore	pcnt_lbw	14
 28085	Mississippi	Lincoln	pcnt_lbw	11.4
-28087	Mississippi	Lowndes	pcnt_lbw	12.0
+28087	Mississippi	Lowndes	pcnt_lbw	12
 28089	Mississippi	Madison	pcnt_lbw	11.2
 28091	Mississippi	Marion	pcnt_lbw	11.2
 28093	Mississippi	Marshall	pcnt_lbw	11.7
@@ -1457,7 +1457,7 @@ FIPS	State	County	Variable	pcnt_lbw
 28113	Mississippi	Pike	pcnt_lbw	13.9
 28115	Mississippi	Pontotoc	pcnt_lbw	10.5
 28117	Mississippi	Prentiss	pcnt_lbw	10.1
-28119	Mississippi	Quitman	pcnt_lbw	15.0
+28119	Mississippi	Quitman	pcnt_lbw	15
 28121	Mississippi	Rankin	pcnt_lbw	10.6
 28123	Mississippi	Scott	pcnt_lbw	13.3
 28125	Mississippi	Sharkey	pcnt_lbw	13.7
@@ -1474,10 +1474,10 @@ FIPS	State	County	Variable	pcnt_lbw
 28147	Mississippi	Walthall	pcnt_lbw	10.1
 28149	Mississippi	Warren	pcnt_lbw	12.6
 28151	Mississippi	Washington	pcnt_lbw	13.7
-28153	Mississippi	Wayne	pcnt_lbw	14.0
+28153	Mississippi	Wayne	pcnt_lbw	14
 28155	Mississippi	Webster	pcnt_lbw	11.5
 28157	Mississippi	Wilkinson	pcnt_lbw	16.6
-28159	Mississippi	Winston	pcnt_lbw	14.0
+28159	Mississippi	Winston	pcnt_lbw	14
 28161	Mississippi	Yalobusha	pcnt_lbw	10.1
 28163	Mississippi	Yazoo	pcnt_lbw	13.4
 29001	Missouri	Adair	pcnt_lbw	8.9
@@ -1491,16 +1491,16 @@ FIPS	State	County	Variable	pcnt_lbw
 29017	Missouri	Bollinger	pcnt_lbw	7.2
 29019	Missouri	Boone	pcnt_lbw	7.7
 29021	Missouri	Buchanan	pcnt_lbw	7.4
-29023	Missouri	Butler	pcnt_lbw	10.0
+29023	Missouri	Butler	pcnt_lbw	10
 29025	Missouri	Caldwell	pcnt_lbw	9.6
 29027	Missouri	Callaway	pcnt_lbw	9.2
 29029	Missouri	Camden	pcnt_lbw	6.8
 29031	Missouri	Cape Girardeau	pcnt_lbw	8.1
 29033	Missouri	Carroll	pcnt_lbw	6.4
-29035	Missouri	Carter	pcnt_lbw	10.0
+29035	Missouri	Carter	pcnt_lbw	10
 29037	Missouri	Cass	pcnt_lbw	6.7
 29039	Missouri	Cedar	pcnt_lbw	5.8
-29041	Missouri	Chariton	pcnt_lbw	6.0
+29041	Missouri	Chariton	pcnt_lbw	6
 29043	Missouri	Christian	pcnt_lbw	6.5
 29045	Missouri	Clark	pcnt_lbw	6.2
 29047	Missouri	Clay	pcnt_lbw	6.8
@@ -1508,7 +1508,7 @@ FIPS	State	County	Variable	pcnt_lbw
 29051	Missouri	Cole	pcnt_lbw	7.5
 29053	Missouri	Cooper	pcnt_lbw	9.3
 29055	Missouri	Crawford	pcnt_lbw	8.6
-29057	Missouri	Dade	pcnt_lbw	6.0
+29057	Missouri	Dade	pcnt_lbw	6
 29059	Missouri	Dallas	pcnt_lbw	6.6
 29061	Missouri	Daviess	pcnt_lbw	7.5
 29063	Missouri	DeKalb	pcnt_lbw	6.8
@@ -1522,7 +1522,7 @@ FIPS	State	County	Variable	pcnt_lbw
 29079	Missouri	Grundy	pcnt_lbw	7.4
 29081	Missouri	Harrison	pcnt_lbw	6.5
 29083	Missouri	Henry	pcnt_lbw	7.3
-29085	Missouri	Hickory	pcnt_lbw	5.0
+29085	Missouri	Hickory	pcnt_lbw	5
 29087	Missouri	Holt	pcnt_lbw	6.7
 29089	Missouri	Howard	pcnt_lbw	9.3
 29091	Missouri	Howell	pcnt_lbw	7.5
@@ -1539,10 +1539,10 @@ FIPS	State	County	Variable	pcnt_lbw
 29113	Missouri	Lincoln	pcnt_lbw	6.5
 29115	Missouri	Linn	pcnt_lbw	6.2
 29117	Missouri	Livingston	pcnt_lbw	7.3
-29119	Missouri	McDonald	pcnt_lbw	8.0
+29119	Missouri	McDonald	pcnt_lbw	8
 29121	Missouri	Macon	pcnt_lbw	6.9
 29123	Missouri	Madison	pcnt_lbw	7.8
-29125	Missouri	Maries	pcnt_lbw	6.0
+29125	Missouri	Maries	pcnt_lbw	6
 29127	Missouri	Marion	pcnt_lbw	7.3
 29129	Missouri	Mercer	pcnt_lbw	9.6
 29131	Missouri	Miller	pcnt_lbw	6.7
@@ -1552,7 +1552,7 @@ FIPS	State	County	Variable	pcnt_lbw
 29139	Missouri	Montgomery	pcnt_lbw	7.7
 29141	Missouri	Morgan	pcnt_lbw	6.9
 29143	Missouri	New Madrid	pcnt_lbw	12.1
-29145	Missouri	Newton	pcnt_lbw	7.0
+29145	Missouri	Newton	pcnt_lbw	7
 29147	Missouri	Nodaway	pcnt_lbw	6.6
 29149	Missouri	Oregon	pcnt_lbw	9.6
 29151	Missouri	Osage	pcnt_lbw	6.7
@@ -1568,7 +1568,7 @@ FIPS	State	County	Variable	pcnt_lbw
 29171	Missouri	Putnam	pcnt_lbw	8.3
 29173	Missouri	Ralls	pcnt_lbw	7.2
 29175	Missouri	Randolph	pcnt_lbw	7.1
-29177	Missouri	Ray	pcnt_lbw	8.0
+29177	Missouri	Ray	pcnt_lbw	8
 29179	Missouri	Reynolds	pcnt_lbw	7.1
 29181	Missouri	Ripley	pcnt_lbw	10.5
 29183	Missouri	St. Charles	pcnt_lbw	7.3
@@ -1578,16 +1578,16 @@ FIPS	State	County	Variable	pcnt_lbw
 29189	Missouri	St. Louis	pcnt_lbw	8.9
 29195	Missouri	Saline	pcnt_lbw	8.3
 29197	Missouri	Schuyler	pcnt_lbw	5.8
-29199	Missouri	Scotland	pcnt_lbw	5.0
-29201	Missouri	Scott	pcnt_lbw	9.0
+29199	Missouri	Scotland	pcnt_lbw	5
+29201	Missouri	Scott	pcnt_lbw	9
 29203	Missouri	Shannon	pcnt_lbw	8.1
-29205	Missouri	Shelby	pcnt_lbw	8.0
+29205	Missouri	Shelby	pcnt_lbw	8
 29207	Missouri	Stoddard	pcnt_lbw	8.6
 29209	Missouri	Stone	pcnt_lbw	7.6
 29211	Missouri	Sullivan	pcnt_lbw	7.1
 29213	Missouri	Taney	pcnt_lbw	7.8
 29215	Missouri	Texas	pcnt_lbw	7.3
-29217	Missouri	Vernon	pcnt_lbw	6.0
+29217	Missouri	Vernon	pcnt_lbw	6
 29219	Missouri	Warren	pcnt_lbw	6.3
 29221	Missouri	Washington	pcnt_lbw	10.2
 29223	Missouri	Wayne	pcnt_lbw	8.1
@@ -1628,7 +1628,7 @@ FIPS	State	County	Variable	pcnt_lbw
 30061	Montana	Mineral	pcnt_lbw	8.1
 30063	Montana	Missoula	pcnt_lbw	7.1
 30065	Montana	Musselshell	pcnt_lbw	8.3
-30067	Montana	Park	pcnt_lbw	6.0
+30067	Montana	Park	pcnt_lbw	6
 30069	Montana	Petroleum	pcnt_lbw	
 30071	Montana	Phillips	pcnt_lbw	
 30073	Montana	Pondera	pcnt_lbw	4.9
@@ -1639,7 +1639,7 @@ FIPS	State	County	Variable	pcnt_lbw
 30083	Montana	Richland	pcnt_lbw	8.6
 30085	Montana	Roosevelt	pcnt_lbw	7.9
 30087	Montana	Rosebud	pcnt_lbw	6.9
-30089	Montana	Sanders	pcnt_lbw	7.0
+30089	Montana	Sanders	pcnt_lbw	7
 30091	Montana	Sheridan	pcnt_lbw	
 30093	Montana	Silver Bow	pcnt_lbw	8.5
 30095	Montana	Stillwater	pcnt_lbw	8.3
@@ -1671,14 +1671,14 @@ FIPS	State	County	Variable	pcnt_lbw
 31035	Nebraska	Clay	pcnt_lbw	
 31037	Nebraska	Colfax	pcnt_lbw	4.9
 31039	Nebraska	Cuming	pcnt_lbw	5.9
-31041	Nebraska	Custer	pcnt_lbw	6.0
+31041	Nebraska	Custer	pcnt_lbw	6
 31043	Nebraska	Dakota	pcnt_lbw	6.5
 31045	Nebraska	Dawes	pcnt_lbw	6.5
 31047	Nebraska	Dawson	pcnt_lbw	6.4
 31049	Nebraska	Deuel	pcnt_lbw	
 31051	Nebraska	Dixon	pcnt_lbw	6.4
 31053	Nebraska	Dodge	pcnt_lbw	6.7
-31055	Nebraska	Douglas	pcnt_lbw	8.0
+31055	Nebraska	Douglas	pcnt_lbw	8
 31057	Nebraska	Dundy	pcnt_lbw	
 31059	Nebraska	Fillmore	pcnt_lbw	7.6
 31061	Nebraska	Franklin	pcnt_lbw	
@@ -1691,7 +1691,7 @@ FIPS	State	County	Variable	pcnt_lbw
 31075	Nebraska	Grant	pcnt_lbw	
 31077	Nebraska	Greeley	pcnt_lbw	
 31079	Nebraska	Hall	pcnt_lbw	6.9
-31081	Nebraska	Hamilton	pcnt_lbw	8.0
+31081	Nebraska	Hamilton	pcnt_lbw	8
 31083	Nebraska	Harlan	pcnt_lbw	
 31085	Nebraska	Hayes	pcnt_lbw	
 31087	Nebraska	Hitchcock	pcnt_lbw	
@@ -1704,15 +1704,15 @@ FIPS	State	County	Variable	pcnt_lbw
 31101	Nebraska	Keith	pcnt_lbw	10.1
 31103	Nebraska	Keya Paha	pcnt_lbw	
 31105	Nebraska	Kimball	pcnt_lbw	10.5
-31107	Nebraska	Knox	pcnt_lbw	7.0
+31107	Nebraska	Knox	pcnt_lbw	7
 31109	Nebraska	Lancaster	pcnt_lbw	6.9
 31111	Nebraska	Lincoln	pcnt_lbw	8.4
 31113	Nebraska	Logan	pcnt_lbw	
 31115	Nebraska	Loup	pcnt_lbw	
 31117	Nebraska	McPherson	pcnt_lbw	
-31119	Nebraska	Madison	pcnt_lbw	6.0
+31119	Nebraska	Madison	pcnt_lbw	6
 31121	Nebraska	Merrick	pcnt_lbw	6.4
-31123	Nebraska	Morrill	pcnt_lbw	9.0
+31123	Nebraska	Morrill	pcnt_lbw	9
 31125	Nebraska	Nance	pcnt_lbw	7.5
 31127	Nebraska	Nemaha	pcnt_lbw	7.5
 31129	Nebraska	Nuckolls	pcnt_lbw	6.8
@@ -1723,7 +1723,7 @@ FIPS	State	County	Variable	pcnt_lbw
 31139	Nebraska	Pierce	pcnt_lbw	4.4
 31141	Nebraska	Platte	pcnt_lbw	5.5
 31143	Nebraska	Polk	pcnt_lbw	6.3
-31145	Nebraska	Red Willow	pcnt_lbw	6.0
+31145	Nebraska	Red Willow	pcnt_lbw	6
 31147	Nebraska	Richardson	pcnt_lbw	6.9
 31149	Nebraska	Rock	pcnt_lbw	
 31151	Nebraska	Saline	pcnt_lbw	5.1
@@ -1764,9 +1764,9 @@ FIPS	State	County	Variable	pcnt_lbw
 33001	New Hampshire	Belknap	pcnt_lbw	6.3
 33003	New Hampshire	Carroll	pcnt_lbw	5.9
 33005	New Hampshire	Cheshire	pcnt_lbw	5.9
-33007	New Hampshire	Coos	pcnt_lbw	8.0
+33007	New Hampshire	Coos	pcnt_lbw	8
 33009	New Hampshire	Grafton	pcnt_lbw	6.4
-33011	New Hampshire	Hillsborough	pcnt_lbw	7.0
+33011	New Hampshire	Hillsborough	pcnt_lbw	7
 33013	New Hampshire	Merrimack	pcnt_lbw	6.5
 33015	New Hampshire	Rockingham	pcnt_lbw	6.7
 33017	New Hampshire	Strafford	pcnt_lbw	6.8
@@ -1788,13 +1788,13 @@ FIPS	State	County	Variable	pcnt_lbw
 34029	New Jersey	Ocean	pcnt_lbw	6.3
 34031	New Jersey	Passaic	pcnt_lbw	8.7
 34033	New Jersey	Salem	pcnt_lbw	8.6
-34035	New Jersey	Somerset	pcnt_lbw	8.0
+34035	New Jersey	Somerset	pcnt_lbw	8
 34037	New Jersey	Sussex	pcnt_lbw	6.9
 34039	New Jersey	Union	pcnt_lbw	8.4
 34041	New Jersey	Warren	pcnt_lbw	7.7
 35001	New Mexico	Bernalillo	pcnt_lbw	8.8
 35003	New Mexico	Catron	pcnt_lbw	
-35005	New Mexico	Chaves	pcnt_lbw	8.0
+35005	New Mexico	Chaves	pcnt_lbw	8
 35006	New Mexico	Cibola	pcnt_lbw	9.3
 35007	New Mexico	Colfax	pcnt_lbw	11.3
 35009	New Mexico	Curry	pcnt_lbw	8.2
@@ -1814,7 +1814,7 @@ FIPS	State	County	Variable	pcnt_lbw
 35035	New Mexico	Otero	pcnt_lbw	8.5
 35037	New Mexico	Quay	pcnt_lbw	8.8
 35039	New Mexico	Rio Arriba	pcnt_lbw	11.3
-35041	New Mexico	Roosevelt	pcnt_lbw	7.0
+35041	New Mexico	Roosevelt	pcnt_lbw	7
 35043	New Mexico	Sandoval	pcnt_lbw	8.3
 35045	New Mexico	San Juan	pcnt_lbw	7.4
 35047	New Mexico	San Miguel	pcnt_lbw	11.8
@@ -1824,10 +1824,10 @@ FIPS	State	County	Variable	pcnt_lbw
 35055	New Mexico	Taos	pcnt_lbw	10.5
 35057	New Mexico	Torrance	pcnt_lbw	8.3
 35059	New Mexico	Union	pcnt_lbw	10.2
-35061	New Mexico	Valencia	pcnt_lbw	8.0
+35061	New Mexico	Valencia	pcnt_lbw	8
 36001	New York	Albany	pcnt_lbw	8.1
 36003	New York	Allegany	pcnt_lbw	7.1
-36005	New York	Bronx	pcnt_lbw	10.0
+36005	New York	Bronx	pcnt_lbw	10
 36007	New York	Broome	pcnt_lbw	7.9
 36009	New York	Cattaraugus	pcnt_lbw	7.1
 36011	New York	Cayuga	pcnt_lbw	7.1
@@ -1838,7 +1838,7 @@ FIPS	State	County	Variable	pcnt_lbw
 36021	New York	Columbia	pcnt_lbw	7.7
 36023	New York	Cortland	pcnt_lbw	8.4
 36025	New York	Delaware	pcnt_lbw	7.5
-36027	New York	Dutchess	pcnt_lbw	7.0
+36027	New York	Dutchess	pcnt_lbw	7
 36029	New York	Erie	pcnt_lbw	8.2
 36031	New York	Essex	pcnt_lbw	7.8
 36033	New York	Franklin	pcnt_lbw	7.3
@@ -1854,7 +1854,7 @@ FIPS	State	County	Variable	pcnt_lbw
 36053	New York	Madison	pcnt_lbw	6.7
 36055	New York	Monroe	pcnt_lbw	8.2
 36057	New York	Montgomery	pcnt_lbw	7.4
-36059	New York	Nassau	pcnt_lbw	8.0
+36059	New York	Nassau	pcnt_lbw	8
 36061	New York	New York	pcnt_lbw	8.7
 36063	New York	Niagara	pcnt_lbw	7.8
 36065	New York	Oneida	pcnt_lbw	8.3
@@ -1862,7 +1862,7 @@ FIPS	State	County	Variable	pcnt_lbw
 36069	New York	Ontario	pcnt_lbw	6.4
 36071	New York	Orange	pcnt_lbw	7.1
 36073	New York	Orleans	pcnt_lbw	7.4
-36075	New York	Oswego	pcnt_lbw	7.0
+36075	New York	Oswego	pcnt_lbw	7
 36077	New York	Otsego	pcnt_lbw	6.9
 36079	New York	Putnam	pcnt_lbw	7.7
 36081	New York	Queens	pcnt_lbw	8.3
@@ -1872,7 +1872,7 @@ FIPS	State	County	Variable	pcnt_lbw
 36089	New York	St. Lawrence	pcnt_lbw	7.6
 36091	New York	Saratoga	pcnt_lbw	6.7
 36093	New York	Schenectady	pcnt_lbw	8.6
-36095	New York	Schoharie	pcnt_lbw	7.0
+36095	New York	Schoharie	pcnt_lbw	7
 36097	New York	Schuyler	pcnt_lbw	6.5
 36099	New York	Seneca	pcnt_lbw	5.9
 36101	New York	Steuben	pcnt_lbw	7.1
@@ -1895,7 +1895,7 @@ FIPS	State	County	Variable	pcnt_lbw
 37011	North Carolina	Avery	pcnt_lbw	7.9
 37013	North Carolina	Beaufort	pcnt_lbw	10.5
 37015	North Carolina	Bertie	pcnt_lbw	13.9
-37017	North Carolina	Bladen	pcnt_lbw	10.0
+37017	North Carolina	Bladen	pcnt_lbw	10
 37019	North Carolina	Brunswick	pcnt_lbw	8.6
 37021	North Carolina	Buncombe	pcnt_lbw	8.6
 37023	North Carolina	Burke	pcnt_lbw	8.2
@@ -1908,27 +1908,27 @@ FIPS	State	County	Variable	pcnt_lbw
 37037	North Carolina	Chatham	pcnt_lbw	8.3
 37039	North Carolina	Cherokee	pcnt_lbw	10.3
 37041	North Carolina	Chowan	pcnt_lbw	12.2
-37043	North Carolina	Clay	pcnt_lbw	6.0
+37043	North Carolina	Clay	pcnt_lbw	6
 37045	North Carolina	Cleveland	pcnt_lbw	9.8
 37047	North Carolina	Columbus	pcnt_lbw	11.6
 37049	North Carolina	Craven	pcnt_lbw	8.7
 37051	North Carolina	Cumberland	pcnt_lbw	9.9
 37053	North Carolina	Currituck	pcnt_lbw	7.9
-37055	North Carolina	Dare	pcnt_lbw	7.0
+37055	North Carolina	Dare	pcnt_lbw	7
 37057	North Carolina	Davidson	pcnt_lbw	9.6
 37059	North Carolina	Davie	pcnt_lbw	8.2
 37061	North Carolina	Duplin	pcnt_lbw	8.5
 37063	North Carolina	Durham	pcnt_lbw	9.4
-37065	North Carolina	Edgecombe	pcnt_lbw	13.0
+37065	North Carolina	Edgecombe	pcnt_lbw	13
 37067	North Carolina	Forsyth	pcnt_lbw	10.3
 37069	North Carolina	Franklin	pcnt_lbw	8.5
 37071	North Carolina	Gaston	pcnt_lbw	9.6
-37073	North Carolina	Gates	pcnt_lbw	11.0
+37073	North Carolina	Gates	pcnt_lbw	11
 37075	North Carolina	Graham	pcnt_lbw	7.5
 37077	North Carolina	Granville	pcnt_lbw	9.5
 37079	North Carolina	Greene	pcnt_lbw	11.5
 37081	North Carolina	Guilford	pcnt_lbw	9.4
-37083	North Carolina	Halifax	pcnt_lbw	13.0
+37083	North Carolina	Halifax	pcnt_lbw	13
 37085	North Carolina	Harnett	pcnt_lbw	8.7
 37087	North Carolina	Haywood	pcnt_lbw	9.8
 37089	North Carolina	Henderson	pcnt_lbw	7.6
@@ -1937,7 +1937,7 @@ FIPS	State	County	Variable	pcnt_lbw
 37095	North Carolina	Hyde	pcnt_lbw	9.1
 37097	North Carolina	Iredell	pcnt_lbw	8.7
 37099	North Carolina	Jackson	pcnt_lbw	6.7
-37101	North Carolina	Johnston	pcnt_lbw	8.0
+37101	North Carolina	Johnston	pcnt_lbw	8
 37103	North Carolina	Jones	pcnt_lbw	10.2
 37105	North Carolina	Lee	pcnt_lbw	9.3
 37107	North Carolina	Lenoir	pcnt_lbw	11.2
@@ -1946,9 +1946,9 @@ FIPS	State	County	Variable	pcnt_lbw
 37113	North Carolina	Macon	pcnt_lbw	7.6
 37115	North Carolina	Madison	pcnt_lbw	8.3
 37117	North Carolina	Martin	pcnt_lbw	12.3
-37119	North Carolina	Mecklenburg	pcnt_lbw	9.0
+37119	North Carolina	Mecklenburg	pcnt_lbw	9
 37121	North Carolina	Mitchell	pcnt_lbw	8.9
-37123	North Carolina	Montgomery	pcnt_lbw	9.0
+37123	North Carolina	Montgomery	pcnt_lbw	9
 37125	North Carolina	Moore	pcnt_lbw	7.6
 37127	North Carolina	Nash	pcnt_lbw	9.9
 37129	North Carolina	New Hanover	pcnt_lbw	8.7
@@ -1973,8 +1973,8 @@ FIPS	State	County	Variable	pcnt_lbw
 37167	North Carolina	Stanly	pcnt_lbw	9.9
 37169	North Carolina	Stokes	pcnt_lbw	9.7
 37171	North Carolina	Surry	pcnt_lbw	8.3
-37173	North Carolina	Swain	pcnt_lbw	7.0
-37175	North Carolina	Transylvania	pcnt_lbw	8.0
+37173	North Carolina	Swain	pcnt_lbw	7
+37175	North Carolina	Transylvania	pcnt_lbw	8
 37177	North Carolina	Tyrrell	pcnt_lbw	12.6
 37179	North Carolina	Union	pcnt_lbw	7.6
 37181	North Carolina	Vance	pcnt_lbw	12.5
@@ -1994,7 +1994,7 @@ FIPS	State	County	Variable	pcnt_lbw
 38009	North Dakota	Bottineau	pcnt_lbw	5.6
 38011	North Dakota	Bowman	pcnt_lbw	
 38013	North Dakota	Burke	pcnt_lbw	
-38015	North Dakota	Burleigh	pcnt_lbw	7.0
+38015	North Dakota	Burleigh	pcnt_lbw	7
 38017	North Dakota	Cass	pcnt_lbw	6.5
 38019	North Dakota	Cavalier	pcnt_lbw	
 38021	North Dakota	Dickey	pcnt_lbw	4.8
@@ -2013,11 +2013,11 @@ FIPS	State	County	Variable	pcnt_lbw
 38047	North Dakota	Logan	pcnt_lbw	
 38049	North Dakota	McHenry	pcnt_lbw	
 38051	North Dakota	McIntosh	pcnt_lbw	
-38053	North Dakota	McKenzie	pcnt_lbw	6.0
+38053	North Dakota	McKenzie	pcnt_lbw	6
 38055	North Dakota	McLean	pcnt_lbw	5.3
-38057	North Dakota	Mercer	pcnt_lbw	9.0
+38057	North Dakota	Mercer	pcnt_lbw	9
 38059	North Dakota	Morton	pcnt_lbw	6.9
-38061	North Dakota	Mountrail	pcnt_lbw	8.0
+38061	North Dakota	Mountrail	pcnt_lbw	8
 38063	North Dakota	Nelson	pcnt_lbw	
 38065	North Dakota	Oliver	pcnt_lbw	
 38067	North Dakota	Pembina	pcnt_lbw	6.7
@@ -2037,12 +2037,12 @@ FIPS	State	County	Variable	pcnt_lbw
 38095	North Dakota	Towner	pcnt_lbw	
 38097	North Dakota	Traill	pcnt_lbw	5.5
 38099	North Dakota	Walsh	pcnt_lbw	5.9
-38101	North Dakota	Ward	pcnt_lbw	6.0
+38101	North Dakota	Ward	pcnt_lbw	6
 38103	North Dakota	Wells	pcnt_lbw	
 38105	North Dakota	Williams	pcnt_lbw	5.9
 39001	Ohio	Adams	pcnt_lbw	8.3
 39003	Ohio	Allen	pcnt_lbw	8.4
-39005	Ohio	Ashland	pcnt_lbw	7.0
+39005	Ohio	Ashland	pcnt_lbw	7
 39007	Ohio	Ashtabula	pcnt_lbw	7.8
 39009	Ohio	Athens	pcnt_lbw	7.9
 39011	Ohio	Auglaize	pcnt_lbw	6.5
@@ -2052,7 +2052,7 @@ FIPS	State	County	Variable	pcnt_lbw
 39019	Ohio	Carroll	pcnt_lbw	8.6
 39021	Ohio	Champaign	pcnt_lbw	8.2
 39023	Ohio	Clark	pcnt_lbw	8.5
-39025	Ohio	Clermont	pcnt_lbw	7.0
+39025	Ohio	Clermont	pcnt_lbw	7
 39027	Ohio	Clinton	pcnt_lbw	8.8
 39029	Ohio	Columbiana	pcnt_lbw	7.7
 39031	Ohio	Coshocton	pcnt_lbw	7.7
@@ -2061,7 +2061,7 @@ FIPS	State	County	Variable	pcnt_lbw
 39037	Ohio	Darke	pcnt_lbw	6.5
 39039	Ohio	Defiance	pcnt_lbw	6.3
 39041	Ohio	Delaware	pcnt_lbw	7.2
-39043	Ohio	Erie	pcnt_lbw	8.0
+39043	Ohio	Erie	pcnt_lbw	8
 39045	Ohio	Fairfield	pcnt_lbw	7.2
 39047	Ohio	Fayette	pcnt_lbw	8.5
 39049	Ohio	Franklin	pcnt_lbw	9.4
@@ -2070,14 +2070,14 @@ FIPS	State	County	Variable	pcnt_lbw
 39055	Ohio	Geauga	pcnt_lbw	6.1
 39057	Ohio	Greene	pcnt_lbw	7.4
 39059	Ohio	Guernsey	pcnt_lbw	8.1
-39061	Ohio	Hamilton	pcnt_lbw	10.0
+39061	Ohio	Hamilton	pcnt_lbw	10
 39063	Ohio	Hancock	pcnt_lbw	7.8
-39065	Ohio	Hardin	pcnt_lbw	8.0
+39065	Ohio	Hardin	pcnt_lbw	8
 39067	Ohio	Harrison	pcnt_lbw	9.1
 39069	Ohio	Henry	pcnt_lbw	6.1
 39071	Ohio	Highland	pcnt_lbw	7.9
 39073	Ohio	Hocking	pcnt_lbw	8.1
-39075	Ohio	Holmes	pcnt_lbw	5.0
+39075	Ohio	Holmes	pcnt_lbw	5
 39077	Ohio	Huron	pcnt_lbw	7.1
 39079	Ohio	Jackson	pcnt_lbw	9.4
 39081	Ohio	Jefferson	pcnt_lbw	8.5
@@ -2089,15 +2089,15 @@ FIPS	State	County	Variable	pcnt_lbw
 39093	Ohio	Lorain	pcnt_lbw	7.8
 39095	Ohio	Lucas	pcnt_lbw	9.5
 39097	Ohio	Madison	pcnt_lbw	6.9
-39099	Ohio	Mahoning	pcnt_lbw	10.0
+39099	Ohio	Mahoning	pcnt_lbw	10
 39101	Ohio	Marion	pcnt_lbw	9.3
 39103	Ohio	Medina	pcnt_lbw	6.8
-39105	Ohio	Meigs	pcnt_lbw	9.0
-39107	Ohio	Mercer	pcnt_lbw	5.0
+39105	Ohio	Meigs	pcnt_lbw	9
+39107	Ohio	Mercer	pcnt_lbw	5
 39109	Ohio	Miami	pcnt_lbw	7.7
 39111	Ohio	Monroe	pcnt_lbw	8.6
 39113	Ohio	Montgomery	pcnt_lbw	9.1
-39115	Ohio	Morgan	pcnt_lbw	9.0
+39115	Ohio	Morgan	pcnt_lbw	9
 39117	Ohio	Morrow	pcnt_lbw	7.9
 39119	Ohio	Muskingum	pcnt_lbw	9.3
 39121	Ohio	Noble	pcnt_lbw	6.7
@@ -2133,7 +2133,7 @@ FIPS	State	County	Variable	pcnt_lbw
 40005	Oklahoma	Atoka	pcnt_lbw	8.4
 40007	Oklahoma	Beaver	pcnt_lbw	8.1
 40009	Oklahoma	Beckham	pcnt_lbw	9.1
-40011	Oklahoma	Blaine	pcnt_lbw	10.0
+40011	Oklahoma	Blaine	pcnt_lbw	10
 40013	Oklahoma	Bryan	pcnt_lbw	7.9
 40015	Oklahoma	Caddo	pcnt_lbw	7.5
 40017	Oklahoma	Canadian	pcnt_lbw	7.7
@@ -2141,15 +2141,15 @@ FIPS	State	County	Variable	pcnt_lbw
 40021	Oklahoma	Cherokee	pcnt_lbw	7.8
 40023	Oklahoma	Choctaw	pcnt_lbw	9.8
 40025	Oklahoma	Cimarron	pcnt_lbw	
-40027	Oklahoma	Cleveland	pcnt_lbw	7.0
+40027	Oklahoma	Cleveland	pcnt_lbw	7
 40029	Oklahoma	Coal	pcnt_lbw	8.5
 40031	Oklahoma	Comanche	pcnt_lbw	8.5
 40033	Oklahoma	Cotton	pcnt_lbw	7.7
-40035	Oklahoma	Craig	pcnt_lbw	9.0
+40035	Oklahoma	Craig	pcnt_lbw	9
 40037	Oklahoma	Creek	pcnt_lbw	8.4
 40039	Oklahoma	Custer	pcnt_lbw	7.6
 40041	Oklahoma	Delaware	pcnt_lbw	7.9
-40043	Oklahoma	Dewey	pcnt_lbw	6.0
+40043	Oklahoma	Dewey	pcnt_lbw	6
 40045	Oklahoma	Ellis	pcnt_lbw	6.2
 40047	Oklahoma	Garfield	pcnt_lbw	8.3
 40049	Oklahoma	Garvin	pcnt_lbw	8.5
@@ -2163,7 +2163,7 @@ FIPS	State	County	Variable	pcnt_lbw
 40065	Oklahoma	Jackson	pcnt_lbw	9.6
 40067	Oklahoma	Jefferson	pcnt_lbw	9.2
 40069	Oklahoma	Johnston	pcnt_lbw	8.2
-40071	Oklahoma	Kay	pcnt_lbw	8.0
+40071	Oklahoma	Kay	pcnt_lbw	8
 40073	Oklahoma	Kingfisher	pcnt_lbw	6.7
 40075	Oklahoma	Kiowa	pcnt_lbw	9.6
 40077	Oklahoma	Latimer	pcnt_lbw	7.1
@@ -2209,17 +2209,17 @@ FIPS	State	County	Variable	pcnt_lbw
 41003	Oregon	Benton	pcnt_lbw	5.6
 41005	Oregon	Clackamas	pcnt_lbw	5.7
 41007	Oregon	Clatsop	pcnt_lbw	5.9
-41009	Oregon	Columbia	pcnt_lbw	6.0
+41009	Oregon	Columbia	pcnt_lbw	6
 41011	Oregon	Coos	pcnt_lbw	6.6
 41013	Oregon	Crook	pcnt_lbw	6.4
-41015	Oregon	Curry	pcnt_lbw	5.0
+41015	Oregon	Curry	pcnt_lbw	5
 41017	Oregon	Deschutes	pcnt_lbw	5.9
 41019	Oregon	Douglas	pcnt_lbw	6.6
 41021	Oregon	Gilliam	pcnt_lbw	
 41023	Oregon	Grant	pcnt_lbw	5.1
 41025	Oregon	Harney	pcnt_lbw	5.7
 41027	Oregon	Hood River	pcnt_lbw	4.6
-41029	Oregon	Jackson	pcnt_lbw	6.0
+41029	Oregon	Jackson	pcnt_lbw	6
 41031	Oregon	Jefferson	pcnt_lbw	6.8
 41033	Oregon	Josephine	pcnt_lbw	5.5
 41035	Oregon	Klamath	pcnt_lbw	7.9
@@ -2233,22 +2233,22 @@ FIPS	State	County	Variable	pcnt_lbw
 41051	Oregon	Multnomah	pcnt_lbw	6.6
 41053	Oregon	Polk	pcnt_lbw	5.8
 41055	Oregon	Sherman	pcnt_lbw	
-41057	Oregon	Tillamook	pcnt_lbw	7.0
+41057	Oregon	Tillamook	pcnt_lbw	7
 41059	Oregon	Umatilla	pcnt_lbw	6.2
 41061	Oregon	Union	pcnt_lbw	7.1
 41063	Oregon	Wallowa	pcnt_lbw	8.1
-41065	Oregon	Wasco	pcnt_lbw	5.0
-41067	Oregon	Washington	pcnt_lbw	6.0
+41065	Oregon	Wasco	pcnt_lbw	5
+41067	Oregon	Washington	pcnt_lbw	6
 41069	Oregon	Wheeler	pcnt_lbw	
 41071	Oregon	Yamhill	pcnt_lbw	5.4
 42001	Pennsylvania	Adams	pcnt_lbw	7.2
 42003	Pennsylvania	Allegheny	pcnt_lbw	8.6
 42005	Pennsylvania	Armstrong	pcnt_lbw	7.3
 42007	Pennsylvania	Beaver	pcnt_lbw	7.7
-42009	Pennsylvania	Bedford	pcnt_lbw	6.0
+42009	Pennsylvania	Bedford	pcnt_lbw	6
 42011	Pennsylvania	Berks	pcnt_lbw	7.8
 42013	Pennsylvania	Blair	pcnt_lbw	7.2
-42015	Pennsylvania	Bradford	pcnt_lbw	7.0
+42015	Pennsylvania	Bradford	pcnt_lbw	7
 42017	Pennsylvania	Bucks	pcnt_lbw	7.3
 42019	Pennsylvania	Butler	pcnt_lbw	6.9
 42021	Pennsylvania	Cambria	pcnt_lbw	9.3
@@ -2281,10 +2281,10 @@ FIPS	State	County	Variable	pcnt_lbw
 42075	Pennsylvania	Lebanon	pcnt_lbw	7.5
 42077	Pennsylvania	Lehigh	pcnt_lbw	8.4
 42079	Pennsylvania	Luzerne	pcnt_lbw	8.3
-42081	Pennsylvania	Lycoming	pcnt_lbw	7.0
-42083	Pennsylvania	McKean	pcnt_lbw	9.0
+42081	Pennsylvania	Lycoming	pcnt_lbw	7
+42083	Pennsylvania	McKean	pcnt_lbw	9
 42085	Pennsylvania	Mercer	pcnt_lbw	8.2
-42087	Pennsylvania	Mifflin	pcnt_lbw	7.0
+42087	Pennsylvania	Mifflin	pcnt_lbw	7
 42089	Pennsylvania	Monroe	pcnt_lbw	8.7
 42091	Pennsylvania	Montgomery	pcnt_lbw	7.2
 42093	Pennsylvania	Montour	pcnt_lbw	5.4
@@ -2292,7 +2292,7 @@ FIPS	State	County	Variable	pcnt_lbw
 42097	Pennsylvania	Northumberland	pcnt_lbw	8.8
 42099	Pennsylvania	Perry	pcnt_lbw	7.3
 42101	Pennsylvania	Philadelphia	pcnt_lbw	11.3
-42103	Pennsylvania	Pike	pcnt_lbw	7.0
+42103	Pennsylvania	Pike	pcnt_lbw	7
 42105	Pennsylvania	Potter	pcnt_lbw	8.3
 42107	Pennsylvania	Schuylkill	pcnt_lbw	7.8
 42109	Pennsylvania	Snyder	pcnt_lbw	6.2
@@ -2316,7 +2316,7 @@ FIPS	State	County	Variable	pcnt_lbw
 45001	South Carolina	Abbeville	pcnt_lbw	10.8
 45003	South Carolina	Aiken	pcnt_lbw	9.7
 45005	South Carolina	Allendale	pcnt_lbw	12.4
-45007	South Carolina	Anderson	pcnt_lbw	9.0
+45007	South Carolina	Anderson	pcnt_lbw	9
 45009	South Carolina	Bamberg	pcnt_lbw	12.8
 45011	South Carolina	Barnwell	pcnt_lbw	12.8
 45013	South Carolina	Beaufort	pcnt_lbw	8.5
@@ -2324,13 +2324,13 @@ FIPS	State	County	Variable	pcnt_lbw
 45017	South Carolina	Calhoun	pcnt_lbw	11.2
 45019	South Carolina	Charleston	pcnt_lbw	9.7
 45021	South Carolina	Cherokee	pcnt_lbw	12.5
-45023	South Carolina	Chester	pcnt_lbw	11.0
+45023	South Carolina	Chester	pcnt_lbw	11
 45025	South Carolina	Chesterfield	pcnt_lbw	12.2
 45027	South Carolina	Clarendon	pcnt_lbw	11.6
 45029	South Carolina	Colleton	pcnt_lbw	10.5
 45031	South Carolina	Darlington	pcnt_lbw	12.7
 45033	South Carolina	Dillon	pcnt_lbw	13.4
-45035	South Carolina	Dorchester	pcnt_lbw	9.0
+45035	South Carolina	Dorchester	pcnt_lbw	9
 45037	South Carolina	Edgefield	pcnt_lbw	9.1
 45039	South Carolina	Fairfield	pcnt_lbw	12.1
 45041	South Carolina	Florence	pcnt_lbw	12.7
@@ -2342,7 +2342,7 @@ FIPS	State	County	Variable	pcnt_lbw
 45053	South Carolina	Jasper	pcnt_lbw	10.6
 45055	South Carolina	Kershaw	pcnt_lbw	9.5
 45057	South Carolina	Lancaster	pcnt_lbw	10.7
-45059	South Carolina	Laurens	pcnt_lbw	11.0
+45059	South Carolina	Laurens	pcnt_lbw	11
 45061	South Carolina	Lee	pcnt_lbw	14.5
 45063	South Carolina	Lexington	pcnt_lbw	8.1
 45065	South Carolina	McCormick	pcnt_lbw	13.9
@@ -2362,23 +2362,23 @@ FIPS	State	County	Variable	pcnt_lbw
 46003	South Dakota	Aurora	pcnt_lbw	
 46005	South Dakota	Beadle	pcnt_lbw	7.5
 46007	South Dakota	Bennett	pcnt_lbw	6.7
-46009	South Dakota	Bon Homme	pcnt_lbw	6.0
+46009	South Dakota	Bon Homme	pcnt_lbw	6
 46011	South Dakota	Brookings	pcnt_lbw	4.7
 46013	South Dakota	Brown	pcnt_lbw	6.1
-46015	South Dakota	Brule	pcnt_lbw	6.0
+46015	South Dakota	Brule	pcnt_lbw	6
 46017	South Dakota	Buffalo	pcnt_lbw	6.5
 46019	South Dakota	Butte	pcnt_lbw	5.5
 46021	South Dakota	Campbell	pcnt_lbw	
 46023	South Dakota	Charles Mix	pcnt_lbw	6.4
 46025	South Dakota	Clark	pcnt_lbw	
 46027	South Dakota	Clay	pcnt_lbw	6.3
-46029	South Dakota	Codington	pcnt_lbw	6.0
+46029	South Dakota	Codington	pcnt_lbw	6
 46031	South Dakota	Corson	pcnt_lbw	6.3
 46033	South Dakota	Custer	pcnt_lbw	8.2
 46035	South Dakota	Davison	pcnt_lbw	7.3
 46037	South Dakota	Day	pcnt_lbw	5.4
-46039	South Dakota	Deuel	pcnt_lbw	7.0
-46041	South Dakota	Dewey	pcnt_lbw	7.0
+46039	South Dakota	Deuel	pcnt_lbw	7
+46041	South Dakota	Dewey	pcnt_lbw	7
 46043	South Dakota	Douglas	pcnt_lbw	
 46045	South Dakota	Edmunds	pcnt_lbw	
 46047	South Dakota	Fall River	pcnt_lbw	6.4
@@ -2397,9 +2397,9 @@ FIPS	State	County	Variable	pcnt_lbw
 46073	South Dakota	Jerauld	pcnt_lbw	
 46075	South Dakota	Jones	pcnt_lbw	
 46077	South Dakota	Kingsbury	pcnt_lbw	4.9
-46079	South Dakota	Lake	pcnt_lbw	6.0
+46079	South Dakota	Lake	pcnt_lbw	6
 46081	South Dakota	Lawrence	pcnt_lbw	7.8
-46083	South Dakota	Lincoln	pcnt_lbw	6.0
+46083	South Dakota	Lincoln	pcnt_lbw	6
 46085	South Dakota	Lyman	pcnt_lbw	5.1
 46087	South Dakota	McCook	pcnt_lbw	6.4
 46089	South Dakota	McPherson	pcnt_lbw	
@@ -2415,7 +2415,7 @@ FIPS	State	County	Variable	pcnt_lbw
 46109	South Dakota	Roberts	pcnt_lbw	5.9
 46111	South Dakota	Sanborn	pcnt_lbw	
 46113	South Dakota	Shannon	pcnt_lbw	7.6
-46115	South Dakota	Spink	pcnt_lbw	9.0
+46115	South Dakota	Spink	pcnt_lbw	9
 46117	South Dakota	Stanley	pcnt_lbw	
 46119	South Dakota	Sully	pcnt_lbw	
 46121	South Dakota	Todd	pcnt_lbw	8.5
@@ -2432,7 +2432,7 @@ FIPS	State	County	Variable	pcnt_lbw
 47009	Tennessee	Blount	pcnt_lbw	8.5
 47011	Tennessee	Bradley	pcnt_lbw	8.5
 47013	Tennessee	Campbell	pcnt_lbw	8.9
-47015	Tennessee	Cannon	pcnt_lbw	10.0
+47015	Tennessee	Cannon	pcnt_lbw	10
 47017	Tennessee	Carroll	pcnt_lbw	9.4
 47019	Tennessee	Carter	pcnt_lbw	9.8
 47021	Tennessee	Cheatham	pcnt_lbw	9.3
@@ -2445,7 +2445,7 @@ FIPS	State	County	Variable	pcnt_lbw
 47035	Tennessee	Cumberland	pcnt_lbw	9.1
 47037	Tennessee	Davidson	pcnt_lbw	9.2
 47039	Tennessee	Decatur	pcnt_lbw	7.1
-47041	Tennessee	DeKalb	pcnt_lbw	9.0
+47041	Tennessee	DeKalb	pcnt_lbw	9
 47043	Tennessee	Dickson	pcnt_lbw	7.8
 47045	Tennessee	Dyer	pcnt_lbw	10.5
 47047	Tennessee	Fayette	pcnt_lbw	9.3
@@ -2470,8 +2470,8 @@ FIPS	State	County	Variable	pcnt_lbw
 47085	Tennessee	Humphreys	pcnt_lbw	8.6
 47087	Tennessee	Jackson	pcnt_lbw	7.1
 47089	Tennessee	Jefferson	pcnt_lbw	8.2
-47091	Tennessee	Johnson	pcnt_lbw	11.0
-47093	Tennessee	Knox	pcnt_lbw	9.0
+47091	Tennessee	Johnson	pcnt_lbw	11
+47093	Tennessee	Knox	pcnt_lbw	9
 47095	Tennessee	Lake	pcnt_lbw	11.1
 47097	Tennessee	Lauderdale	pcnt_lbw	12.4
 47099	Tennessee	Lawrence	pcnt_lbw	8.3
@@ -2481,9 +2481,9 @@ FIPS	State	County	Variable	pcnt_lbw
 47107	Tennessee	McMinn	pcnt_lbw	8.7
 47109	Tennessee	McNairy	pcnt_lbw	8.4
 47111	Tennessee	Macon	pcnt_lbw	8.2
-47113	Tennessee	Madison	pcnt_lbw	10.0
+47113	Tennessee	Madison	pcnt_lbw	10
 47115	Tennessee	Marion	pcnt_lbw	11.9
-47117	Tennessee	Marshall	pcnt_lbw	9.0
+47117	Tennessee	Marshall	pcnt_lbw	9
 47119	Tennessee	Maury	pcnt_lbw	9.3
 47121	Tennessee	Meigs	pcnt_lbw	7.3
 47123	Tennessee	Monroe	pcnt_lbw	8.4
@@ -2508,11 +2508,11 @@ FIPS	State	County	Variable	pcnt_lbw
 47161	Tennessee	Stewart	pcnt_lbw	10.5
 47163	Tennessee	Sullivan	pcnt_lbw	8.9
 47165	Tennessee	Sumner	pcnt_lbw	7.7
-47167	Tennessee	Tipton	pcnt_lbw	9.0
+47167	Tennessee	Tipton	pcnt_lbw	9
 47169	Tennessee	Trousdale	pcnt_lbw	11.5
 47171	Tennessee	Unicoi	pcnt_lbw	7.6
 47173	Tennessee	Union	pcnt_lbw	10.2
-47175	Tennessee	Van Buren	pcnt_lbw	8.0
+47175	Tennessee	Van Buren	pcnt_lbw	8
 47177	Tennessee	Warren	pcnt_lbw	8.1
 47179	Tennessee	Washington	pcnt_lbw	8.9
 47181	Tennessee	Wayne	pcnt_lbw	7.6
@@ -2521,8 +2521,8 @@ FIPS	State	County	Variable	pcnt_lbw
 47187	Tennessee	Williamson	pcnt_lbw	6.9
 47189	Tennessee	Wilson	pcnt_lbw	8.2
 48001	Texas	Anderson	pcnt_lbw	8.6
-48003	Texas	Andrews	pcnt_lbw	11.0
-48005	Texas	Angelina	pcnt_lbw	9.0
+48003	Texas	Andrews	pcnt_lbw	11
+48005	Texas	Angelina	pcnt_lbw	9
 48007	Texas	Aransas	pcnt_lbw	8.2
 48009	Texas	Archer	pcnt_lbw	7.5
 48011	Texas	Armstrong	pcnt_lbw	
@@ -2538,10 +2538,10 @@ FIPS	State	County	Variable	pcnt_lbw
 48031	Texas	Blanco	pcnt_lbw	7.1
 48033	Texas	Borden	pcnt_lbw	
 48035	Texas	Bosque	pcnt_lbw	7.9
-48037	Texas	Bowie	pcnt_lbw	10.0
+48037	Texas	Bowie	pcnt_lbw	10
 48039	Texas	Brazoria	pcnt_lbw	8.3
 48041	Texas	Brazos	pcnt_lbw	7.5
-48043	Texas	Brewster	pcnt_lbw	9.0
+48043	Texas	Brewster	pcnt_lbw	9
 48045	Texas	Briscoe	pcnt_lbw	
 48047	Texas	Brooks	pcnt_lbw	11.3
 48049	Texas	Brown	pcnt_lbw	8.9
@@ -2551,9 +2551,9 @@ FIPS	State	County	Variable	pcnt_lbw
 48057	Texas	Calhoun	pcnt_lbw	7.9
 48059	Texas	Callahan	pcnt_lbw	9.4
 48061	Texas	Cameron	pcnt_lbw	7.8
-48063	Texas	Camp	pcnt_lbw	7.0
-48065	Texas	Carson	pcnt_lbw	8.0
-48067	Texas	Cass	pcnt_lbw	9.0
+48063	Texas	Camp	pcnt_lbw	7
+48065	Texas	Carson	pcnt_lbw	8
+48067	Texas	Cass	pcnt_lbw	9
 48069	Texas	Castro	pcnt_lbw	7.4
 48071	Texas	Chambers	pcnt_lbw	6.9
 48073	Texas	Cherokee	pcnt_lbw	7.9
@@ -2592,7 +2592,7 @@ FIPS	State	County	Variable	pcnt_lbw
 48139	Texas	Ellis	pcnt_lbw	7.4
 48141	Texas	El Paso	pcnt_lbw	8.9
 48143	Texas	Erath	pcnt_lbw	6.6
-48145	Texas	Falls	pcnt_lbw	10.0
+48145	Texas	Falls	pcnt_lbw	10
 48147	Texas	Fannin	pcnt_lbw	7.7
 48149	Texas	Fayette	pcnt_lbw	7.7
 48151	Texas	Fisher	pcnt_lbw	8.7
@@ -2602,9 +2602,9 @@ FIPS	State	County	Variable	pcnt_lbw
 48159	Texas	Franklin	pcnt_lbw	7.1
 48161	Texas	Freestone	pcnt_lbw	8.3
 48163	Texas	Frio	pcnt_lbw	9.3
-48165	Texas	Gaines	pcnt_lbw	8.0
+48165	Texas	Gaines	pcnt_lbw	8
 48167	Texas	Galveston	pcnt_lbw	8.6
-48169	Texas	Garza	pcnt_lbw	11.0
+48169	Texas	Garza	pcnt_lbw	11
 48171	Texas	Gillespie	pcnt_lbw	7.5
 48173	Texas	Glasscock	pcnt_lbw	
 48175	Texas	Goliad	pcnt_lbw	7.8
@@ -2625,7 +2625,7 @@ FIPS	State	County	Variable	pcnt_lbw
 48205	Texas	Hartley	pcnt_lbw	6.7
 48207	Texas	Haskell	pcnt_lbw	8.7
 48209	Texas	Hays	pcnt_lbw	7.4
-48211	Texas	Hemphill	pcnt_lbw	6.0
+48211	Texas	Hemphill	pcnt_lbw	6
 48213	Texas	Henderson	pcnt_lbw	7.1
 48215	Texas	Hidalgo	pcnt_lbw	7.6
 48217	Texas	Hill	pcnt_lbw	7.3
@@ -2668,7 +2668,7 @@ FIPS	State	County	Variable	pcnt_lbw
 48291	Texas	Liberty	pcnt_lbw	8.2
 48293	Texas	Limestone	pcnt_lbw	9.4
 48295	Texas	Lipscomb	pcnt_lbw	8.5
-48297	Texas	Live Oak	pcnt_lbw	8.0
+48297	Texas	Live Oak	pcnt_lbw	8
 48299	Texas	Llano	pcnt_lbw	7.9
 48301	Texas	Loving	pcnt_lbw	
 48303	Texas	Lubbock	pcnt_lbw	10.4
@@ -2678,7 +2678,7 @@ FIPS	State	County	Variable	pcnt_lbw
 48311	Texas	McMullen	pcnt_lbw	
 48313	Texas	Madison	pcnt_lbw	8.2
 48315	Texas	Marion	pcnt_lbw	9.1
-48317	Texas	Martin	pcnt_lbw	8.0
+48317	Texas	Martin	pcnt_lbw	8
 48319	Texas	Mason	pcnt_lbw	
 48321	Texas	Matagorda	pcnt_lbw	8.2
 48323	Texas	Maverick	pcnt_lbw	8.1
@@ -2688,7 +2688,7 @@ FIPS	State	County	Variable	pcnt_lbw
 48331	Texas	Milam	pcnt_lbw	8.9
 48333	Texas	Mills	pcnt_lbw	
 48335	Texas	Mitchell	pcnt_lbw	8.6
-48337	Texas	Montague	pcnt_lbw	7.0
+48337	Texas	Montague	pcnt_lbw	7
 48339	Texas	Montgomery	pcnt_lbw	7.8
 48341	Texas	Moore	pcnt_lbw	6.8
 48343	Texas	Morris	pcnt_lbw	9.8
@@ -2706,23 +2706,23 @@ FIPS	State	County	Variable	pcnt_lbw
 48367	Texas	Parker	pcnt_lbw	7.1
 48369	Texas	Parmer	pcnt_lbw	7.9
 48371	Texas	Pecos	pcnt_lbw	7.9
-48373	Texas	Polk	pcnt_lbw	9.0
+48373	Texas	Polk	pcnt_lbw	9
 48375	Texas	Potter	pcnt_lbw	9.8
 48377	Texas	Presidio	pcnt_lbw	7.6
 48379	Texas	Rains	pcnt_lbw	9.4
-48381	Texas	Randall	pcnt_lbw	8.0
+48381	Texas	Randall	pcnt_lbw	8
 48383	Texas	Reagan	pcnt_lbw	7.3
 48385	Texas	Real	pcnt_lbw	
 48387	Texas	Red River	pcnt_lbw	10.1
-48389	Texas	Reeves	pcnt_lbw	10.0
+48389	Texas	Reeves	pcnt_lbw	10
 48391	Texas	Refugio	pcnt_lbw	8.1
 48393	Texas	Roberts	pcnt_lbw	
 48395	Texas	Robertson	pcnt_lbw	7.5
 48397	Texas	Rockwall	pcnt_lbw	7.5
-48399	Texas	Runnels	pcnt_lbw	10.0
+48399	Texas	Runnels	pcnt_lbw	10
 48401	Texas	Rusk	pcnt_lbw	9.2
 48403	Texas	Sabine	pcnt_lbw	6.7
-48405	Texas	San Augustine	pcnt_lbw	10.0
+48405	Texas	San Augustine	pcnt_lbw	10
 48407	Texas	San Jacinto	pcnt_lbw	8.2
 48409	Texas	San Patricio	pcnt_lbw	8.8
 48411	Texas	San Saba	pcnt_lbw	7.4
@@ -2737,10 +2737,10 @@ FIPS	State	County	Variable	pcnt_lbw
 48429	Texas	Stephens	pcnt_lbw	6.5
 48431	Texas	Sterling	pcnt_lbw	
 48433	Texas	Stonewall	pcnt_lbw	
-48435	Texas	Sutton	pcnt_lbw	8.0
+48435	Texas	Sutton	pcnt_lbw	8
 48437	Texas	Swisher	pcnt_lbw	12.3
 48439	Texas	Tarrant	pcnt_lbw	8.1
-48441	Texas	Taylor	pcnt_lbw	9.0
+48441	Texas	Taylor	pcnt_lbw	9
 48443	Texas	Terrell	pcnt_lbw	
 48445	Texas	Terry	pcnt_lbw	10.8
 48447	Texas	Throckmorton	pcnt_lbw	
@@ -2765,7 +2765,7 @@ FIPS	State	County	Variable	pcnt_lbw
 48485	Texas	Wichita	pcnt_lbw	8.2
 48487	Texas	Wilbarger	pcnt_lbw	7.5
 48489	Texas	Willacy	pcnt_lbw	8.2
-48491	Texas	Williamson	pcnt_lbw	7.0
+48491	Texas	Williamson	pcnt_lbw	7
 48493	Texas	Wilson	pcnt_lbw	8.3
 48495	Texas	Winkler	pcnt_lbw	10.1
 48497	Texas	Wise	pcnt_lbw	6.9
@@ -2776,7 +2776,7 @@ FIPS	State	County	Variable	pcnt_lbw
 48507	Texas	Zavala	pcnt_lbw	9.1
 49001	Utah	Beaver	pcnt_lbw	6.5
 49003	Utah	Box Elder	pcnt_lbw	6.4
-49005	Utah	Cache	pcnt_lbw	6.0
+49005	Utah	Cache	pcnt_lbw	6
 49007	Utah	Carbon	pcnt_lbw	9.4
 49009	Utah	Daggett	pcnt_lbw	
 49011	Utah	Davis	pcnt_lbw	6.9
@@ -2787,13 +2787,13 @@ FIPS	State	County	Variable	pcnt_lbw
 49021	Utah	Iron	pcnt_lbw	6.8
 49023	Utah	Juab	pcnt_lbw	7.4
 49025	Utah	Kane	pcnt_lbw	7.2
-49027	Utah	Millard	pcnt_lbw	7.0
-49029	Utah	Morgan	pcnt_lbw	6.0
+49027	Utah	Millard	pcnt_lbw	7
+49029	Utah	Morgan	pcnt_lbw	6
 49031	Utah	Piute	pcnt_lbw	
 49033	Utah	Rich	pcnt_lbw	
 49035	Utah	Salt Lake	pcnt_lbw	7.3
 49037	Utah	San Juan	pcnt_lbw	6.4
-49039	Utah	Sanpete	pcnt_lbw	7.0
+49039	Utah	Sanpete	pcnt_lbw	7
 49041	Utah	Sevier	pcnt_lbw	8.4
 49043	Utah	Summit	pcnt_lbw	8.8
 49045	Utah	Tooele	pcnt_lbw	7.4
@@ -2824,7 +2824,7 @@ FIPS	State	County	Variable	pcnt_lbw
 51009	Virginia	Amherst	pcnt_lbw	7.2
 51011	Virginia	Appomattox	pcnt_lbw	9.5
 51013	Virginia	Arlington	pcnt_lbw	6.5
-51015	Virginia	Augusta	pcnt_lbw	7.0
+51015	Virginia	Augusta	pcnt_lbw	7
 51017	Virginia	Bath	pcnt_lbw	9.4
 51019	Virginia	Bedford	pcnt_lbw	8.1
 51021	Virginia	Bland	pcnt_lbw	10.4
@@ -2837,11 +2837,11 @@ FIPS	State	County	Variable	pcnt_lbw
 51035	Virginia	Carroll	pcnt_lbw	6.6
 51036	Virginia	Charles City	pcnt_lbw	10.2
 51037	Virginia	Charlotte	pcnt_lbw	12.2
-51041	Virginia	Chesterfield	pcnt_lbw	8.0
+51041	Virginia	Chesterfield	pcnt_lbw	8
 51043	Virginia	Clarke	pcnt_lbw	7.2
 51045	Virginia	Craig	pcnt_lbw	
 51047	Virginia	Culpeper	pcnt_lbw	7.7
-51049	Virginia	Cumberland	pcnt_lbw	12.0
+51049	Virginia	Cumberland	pcnt_lbw	12
 51051	Virginia	Dickenson	pcnt_lbw	7.4
 51053	Virginia	Dinwiddie	pcnt_lbw	10.4
 51057	Virginia	Essex	pcnt_lbw	10.9
@@ -2849,7 +2849,7 @@ FIPS	State	County	Variable	pcnt_lbw
 51061	Virginia	Fauquier	pcnt_lbw	6.8
 51063	Virginia	Floyd	pcnt_lbw	6.8
 51065	Virginia	Fluvanna	pcnt_lbw	7.4
-51067	Virginia	Franklin	pcnt_lbw	8.0
+51067	Virginia	Franklin	pcnt_lbw	8
 51069	Virginia	Frederick	pcnt_lbw	6.8
 51071	Virginia	Giles	pcnt_lbw	8.2
 51073	Virginia	Gloucester	pcnt_lbw	7.8
@@ -2858,7 +2858,7 @@ FIPS	State	County	Variable	pcnt_lbw
 51079	Virginia	Greene	pcnt_lbw	7.7
 51081	Virginia	Greensville	pcnt_lbw	11.9
 51083	Virginia	Halifax	pcnt_lbw	11.9
-51085	Virginia	Hanover	pcnt_lbw	8.0
+51085	Virginia	Hanover	pcnt_lbw	8
 51087	Virginia	Henrico	pcnt_lbw	9.2
 51089	Virginia	Henry	pcnt_lbw	10.4
 51091	Virginia	Highland	pcnt_lbw	
@@ -2877,7 +2877,7 @@ FIPS	State	County	Variable	pcnt_lbw
 51117	Virginia	Mecklenburg	pcnt_lbw	10.4
 51119	Virginia	Middlesex	pcnt_lbw	9.4
 51121	Virginia	Montgomery	pcnt_lbw	7.4
-51125	Virginia	Nelson	pcnt_lbw	7.0
+51125	Virginia	Nelson	pcnt_lbw	7
 51127	Virginia	New Kent	pcnt_lbw	7.2
 51131	Virginia	Northampton	pcnt_lbw	10.3
 51133	Virginia	Northumberland	pcnt_lbw	11.3
@@ -2891,14 +2891,14 @@ FIPS	State	County	Variable	pcnt_lbw
 51149	Virginia	Prince George	pcnt_lbw	8.4
 51153	Virginia	Prince William	pcnt_lbw	7.2
 51155	Virginia	Pulaski	pcnt_lbw	9.5
-51157	Virginia	Rappahannock	pcnt_lbw	7.0
+51157	Virginia	Rappahannock	pcnt_lbw	7
 51159	Virginia	Richmond	pcnt_lbw	11.1
 51161	Virginia	Roanoke	pcnt_lbw	7.9
 51163	Virginia	Rockbridge	pcnt_lbw	8.8
 51165	Virginia	Rockingham	pcnt_lbw	7.6
 51167	Virginia	Russell	pcnt_lbw	8.1
 51169	Virginia	Scott	pcnt_lbw	8.3
-51171	Virginia	Shenandoah	pcnt_lbw	7.0
+51171	Virginia	Shenandoah	pcnt_lbw	7
 51173	Virginia	Smyth	pcnt_lbw	9.3
 51175	Virginia	Southampton	pcnt_lbw	10.5
 51177	Virginia	Spotsylvania	pcnt_lbw	7.5
@@ -2913,16 +2913,16 @@ FIPS	State	County	Variable	pcnt_lbw
 51197	Virginia	Wythe	pcnt_lbw	9.4
 51199	Virginia	York	pcnt_lbw	7.1
 51510	Virginia	Alexandria City	pcnt_lbw	7.5
-51515	Virginia	Bedford City	pcnt_lbw	8.0
+51515	Virginia	Bedford City	pcnt_lbw	8
 51520	Virginia	Bristol City	pcnt_lbw	9.1
 51530	Virginia	Buena Vista City	pcnt_lbw	
 51540	Virginia	Charlottesville City	pcnt_lbw	8.5
 51550	Virginia	Chesapeake City	pcnt_lbw	8.9
-51570	Virginia	Colonial Heights City	pcnt_lbw	10.0
+51570	Virginia	Colonial Heights City	pcnt_lbw	10
 51580	Virginia	Covington City	pcnt_lbw	12.2
 51590	Virginia	Danville City	pcnt_lbw	11.3
 51595	Virginia	Emporia City	pcnt_lbw	11.9
-51600	Virginia	Fairfax City	pcnt_lbw	8.0
+51600	Virginia	Fairfax City	pcnt_lbw	8
 51610	Virginia	Falls Church City	pcnt_lbw	7.8
 51620	Virginia	Franklin City	pcnt_lbw	13.1
 51630	Virginia	Fredericksburg City	pcnt_lbw	9.4
@@ -2956,7 +2956,7 @@ FIPS	State	County	Variable	pcnt_lbw
 53005	Washington	Benton	pcnt_lbw	6.6
 53007	Washington	Chelan	pcnt_lbw	6.5
 53009	Washington	Clallam	pcnt_lbw	5.1
-53011	Washington	Clark	pcnt_lbw	6.0
+53011	Washington	Clark	pcnt_lbw	6
 53013	Washington	Columbia	pcnt_lbw	
 53015	Washington	Cowlitz	pcnt_lbw	6.7
 53017	Washington	Douglas	pcnt_lbw	6.3
@@ -2983,7 +2983,7 @@ FIPS	State	County	Variable	pcnt_lbw
 53059	Washington	Skamania	pcnt_lbw	5.7
 53061	Washington	Snohomish	pcnt_lbw	5.9
 53063	Washington	Spokane	pcnt_lbw	6.5
-53065	Washington	Stevens	pcnt_lbw	6.0
+53065	Washington	Stevens	pcnt_lbw	6
 53067	Washington	Thurston	pcnt_lbw	5.8
 53069	Washington	Wahkiakum	pcnt_lbw	
 53071	Washington	Walla Walla	pcnt_lbw	6.5
@@ -2997,17 +2997,17 @@ FIPS	State	County	Variable	pcnt_lbw
 54009	West Virginia	Brooke	pcnt_lbw	8.7
 54011	West Virginia	Cabell	pcnt_lbw	11.1
 54013	West Virginia	Calhoun	pcnt_lbw	9.3
-54015	West Virginia	Clay	pcnt_lbw	9.0
+54015	West Virginia	Clay	pcnt_lbw	9
 54017	West Virginia	Doddridge	pcnt_lbw	9.3
 54019	West Virginia	Fayette	pcnt_lbw	10.2
-54021	West Virginia	Gilmer	pcnt_lbw	9.0
+54021	West Virginia	Gilmer	pcnt_lbw	9
 54023	West Virginia	Grant	pcnt_lbw	7.5
 54025	West Virginia	Greenbrier	pcnt_lbw	8.7
 54027	West Virginia	Hampshire	pcnt_lbw	6.7
 54029	West Virginia	Hancock	pcnt_lbw	7.2
 54031	West Virginia	Hardy	pcnt_lbw	7.1
 54033	West Virginia	Harrison	pcnt_lbw	8.7
-54035	West Virginia	Jackson	pcnt_lbw	8.0
+54035	West Virginia	Jackson	pcnt_lbw	8
 54037	West Virginia	Jefferson	pcnt_lbw	7.4
 54039	West Virginia	Kanawha	pcnt_lbw	9.8
 54041	West Virginia	Lewis	pcnt_lbw	9.7
@@ -3022,7 +3022,7 @@ FIPS	State	County	Variable	pcnt_lbw
 54059	West Virginia	Mingo	pcnt_lbw	11.8
 54061	West Virginia	Monongalia	pcnt_lbw	7.7
 54063	West Virginia	Monroe	pcnt_lbw	8.2
-54065	West Virginia	Morgan	pcnt_lbw	8.0
+54065	West Virginia	Morgan	pcnt_lbw	8
 54067	West Virginia	Nicholas	pcnt_lbw	10.2
 54069	West Virginia	Ohio	pcnt_lbw	8.9
 54071	West Virginia	Pendleton	pcnt_lbw	8.6
@@ -3053,7 +3053,7 @@ FIPS	State	County	Variable	pcnt_lbw
 55011	Wisconsin	Buffalo	pcnt_lbw	5.6
 55013	Wisconsin	Burnett	pcnt_lbw	6.5
 55015	Wisconsin	Calumet	pcnt_lbw	5.8
-55017	Wisconsin	Chippewa	pcnt_lbw	6.0
+55017	Wisconsin	Chippewa	pcnt_lbw	6
 55019	Wisconsin	Clark	pcnt_lbw	5.3
 55021	Wisconsin	Columbia	pcnt_lbw	6.2
 55023	Wisconsin	Crawford	pcnt_lbw	6.4
@@ -3065,7 +3065,7 @@ FIPS	State	County	Variable	pcnt_lbw
 55035	Wisconsin	Eau Claire	pcnt_lbw	6.2
 55037	Wisconsin	Florence	pcnt_lbw	
 55039	Wisconsin	Fond du Lac	pcnt_lbw	6.9
-55041	Wisconsin	Forest	pcnt_lbw	8.0
+55041	Wisconsin	Forest	pcnt_lbw	8
 55043	Wisconsin	Grant	pcnt_lbw	5.2
 55045	Wisconsin	Green	pcnt_lbw	6.6
 55047	Wisconsin	Green Lake	pcnt_lbw	5.2
@@ -3073,15 +3073,15 @@ FIPS	State	County	Variable	pcnt_lbw
 55051	Wisconsin	Iron	pcnt_lbw	
 55053	Wisconsin	Jackson	pcnt_lbw	7.1
 55055	Wisconsin	Jefferson	pcnt_lbw	5.8
-55057	Wisconsin	Juneau	pcnt_lbw	6.0
+55057	Wisconsin	Juneau	pcnt_lbw	6
 55059	Wisconsin	Kenosha	pcnt_lbw	7.9
-55061	Wisconsin	Kewaunee	pcnt_lbw	6.0
-55063	Wisconsin	La Crosse	pcnt_lbw	6.0
+55061	Wisconsin	Kewaunee	pcnt_lbw	6
+55063	Wisconsin	La Crosse	pcnt_lbw	6
 55065	Wisconsin	Lafayette	pcnt_lbw	5.1
 55067	Wisconsin	Langlade	pcnt_lbw	6.7
 55069	Wisconsin	Lincoln	pcnt_lbw	6.3
-55071	Wisconsin	Manitowoc	pcnt_lbw	7.0
-55073	Wisconsin	Marathon	pcnt_lbw	6.0
+55071	Wisconsin	Manitowoc	pcnt_lbw	7
+55073	Wisconsin	Marathon	pcnt_lbw	6
 55075	Wisconsin	Marinette	pcnt_lbw	6.9
 55077	Wisconsin	Marquette	pcnt_lbw	7.2
 55078	Wisconsin	Menominee	pcnt_lbw	7.4
@@ -3095,17 +3095,17 @@ FIPS	State	County	Variable	pcnt_lbw
 55093	Wisconsin	Pierce	pcnt_lbw	5.9
 55095	Wisconsin	Polk	pcnt_lbw	5.9
 55097	Wisconsin	Portage	pcnt_lbw	5.6
-55099	Wisconsin	Price	pcnt_lbw	6.0
-55101	Wisconsin	Racine	pcnt_lbw	8.0
+55099	Wisconsin	Price	pcnt_lbw	6
+55101	Wisconsin	Racine	pcnt_lbw	8
 55103	Wisconsin	Richland	pcnt_lbw	5.1
 55105	Wisconsin	Rock	pcnt_lbw	7.3
-55107	Wisconsin	Rusk	pcnt_lbw	7.0
+55107	Wisconsin	Rusk	pcnt_lbw	7
 55109	Wisconsin	St. Croix	pcnt_lbw	5.6
-55111	Wisconsin	Sauk	pcnt_lbw	6.0
+55111	Wisconsin	Sauk	pcnt_lbw	6
 55113	Wisconsin	Sawyer	pcnt_lbw	5.8
-55115	Wisconsin	Shawano	pcnt_lbw	7.0
+55115	Wisconsin	Shawano	pcnt_lbw	7
 55117	Wisconsin	Sheboygan	pcnt_lbw	5.8
-55119	Wisconsin	Taylor	pcnt_lbw	6.0
+55119	Wisconsin	Taylor	pcnt_lbw	6
 55121	Wisconsin	Trempealeau	pcnt_lbw	5.7
 55123	Wisconsin	Vernon	pcnt_lbw	5.2
 55125	Wisconsin	Vilas	pcnt_lbw	5.8
@@ -3124,12 +3124,12 @@ FIPS	State	County	Variable	pcnt_lbw
 56009	Wyoming	Converse	pcnt_lbw	5.8
 56011	Wyoming	Crook	pcnt_lbw	5.4
 56013	Wyoming	Fremont	pcnt_lbw	9.2
-56015	Wyoming	Goshen	pcnt_lbw	8.0
+56015	Wyoming	Goshen	pcnt_lbw	8
 56017	Wyoming	Hot Springs	pcnt_lbw	7.6
 56019	Wyoming	Johnson	pcnt_lbw	6.4
 56021	Wyoming	Laramie	pcnt_lbw	9.5
 56023	Wyoming	Lincoln	pcnt_lbw	8.9
-56025	Wyoming	Natrona	pcnt_lbw	8.0
+56025	Wyoming	Natrona	pcnt_lbw	8
 56027	Wyoming	Niobrara	pcnt_lbw	
 56029	Wyoming	Park	pcnt_lbw	7.3
 56031	Wyoming	Platte	pcnt_lbw	9.9

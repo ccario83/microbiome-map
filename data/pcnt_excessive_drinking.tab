@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_excessive_drinking
-01001	Alabama	Autauga	pcnt_excessive_drinking	17
-01003	Alabama	Baldwin	pcnt_excessive_drinking	19
-01005	Alabama	Barbour	pcnt_excessive_drinking	13
-01007	Alabama	Bibb	pcnt_excessive_drinking	13
-01009	Alabama	Blount	pcnt_excessive_drinking	5
-01011	Alabama	Bullock	pcnt_excessive_drinking	
-01013	Alabama	Butler	pcnt_excessive_drinking	10
-01015	Alabama	Calhoun	pcnt_excessive_drinking	13
-01017	Alabama	Chambers	pcnt_excessive_drinking	8
-01019	Alabama	Cherokee	pcnt_excessive_drinking	14
-01021	Alabama	Chilton	pcnt_excessive_drinking	11
-01023	Alabama	Choctaw	pcnt_excessive_drinking	8
-01025	Alabama	Clarke	pcnt_excessive_drinking	13
-01027	Alabama	Clay	pcnt_excessive_drinking	6
-01029	Alabama	Cleburne	pcnt_excessive_drinking	9
-01031	Alabama	Coffee	pcnt_excessive_drinking	12
-01033	Alabama	Colbert	pcnt_excessive_drinking	10
-01035	Alabama	Conecuh	pcnt_excessive_drinking	6
-01037	Alabama	Coosa	pcnt_excessive_drinking	13
-01039	Alabama	Covington	pcnt_excessive_drinking	12
-01041	Alabama	Crenshaw	pcnt_excessive_drinking	13
-01043	Alabama	Cullman	pcnt_excessive_drinking	10
-01045	Alabama	Dale	pcnt_excessive_drinking	15
-01047	Alabama	Dallas	pcnt_excessive_drinking	11
-01049	Alabama	DeKalb	pcnt_excessive_drinking	10
-01051	Alabama	Elmore	pcnt_excessive_drinking	10
-01053	Alabama	Escambia	pcnt_excessive_drinking	7
-01055	Alabama	Etowah	pcnt_excessive_drinking	11
-01057	Alabama	Fayette	pcnt_excessive_drinking	4
-01059	Alabama	Franklin	pcnt_excessive_drinking	4
-01061	Alabama	Geneva	pcnt_excessive_drinking	12
-01063	Alabama	Greene	pcnt_excessive_drinking	
-01065	Alabama	Hale	pcnt_excessive_drinking	8
-01067	Alabama	Henry	pcnt_excessive_drinking	6
-01069	Alabama	Houston	pcnt_excessive_drinking	12
-01071	Alabama	Jackson	pcnt_excessive_drinking	8
-01073	Alabama	Jefferson	pcnt_excessive_drinking	15
-01075	Alabama	Lamar	pcnt_excessive_drinking	
-01077	Alabama	Lauderdale	pcnt_excessive_drinking	4
-01079	Alabama	Lawrence	pcnt_excessive_drinking	5
-01081	Alabama	Lee	pcnt_excessive_drinking	19
-01083	Alabama	Limestone	pcnt_excessive_drinking	10
-01085	Alabama	Lowndes	pcnt_excessive_drinking	18
-01087	Alabama	Macon	pcnt_excessive_drinking	
-01089	Alabama	Madison	pcnt_excessive_drinking	11
-01091	Alabama	Marengo	pcnt_excessive_drinking	15
-01093	Alabama	Marion	pcnt_excessive_drinking	3
-01095	Alabama	Marshall	pcnt_excessive_drinking	13
-01097	Alabama	Mobile	pcnt_excessive_drinking	15
-01099	Alabama	Monroe	pcnt_excessive_drinking	15
-01101	Alabama	Montgomery	pcnt_excessive_drinking	15
-01103	Alabama	Morgan	pcnt_excessive_drinking	10
-01105	Alabama	Perry	pcnt_excessive_drinking	15
-01107	Alabama	Pickens	pcnt_excessive_drinking	8
-01109	Alabama	Pike	pcnt_excessive_drinking	11
-01111	Alabama	Randolph	pcnt_excessive_drinking	13
-01113	Alabama	Russell	pcnt_excessive_drinking	
-01115	Alabama	St. Clair	pcnt_excessive_drinking	11
-01117	Alabama	Shelby	pcnt_excessive_drinking	12
-01119	Alabama	Sumter	pcnt_excessive_drinking	14
-01121	Alabama	Talladega	pcnt_excessive_drinking	10
-01123	Alabama	Tallapoosa	pcnt_excessive_drinking	14
-01125	Alabama	Tuscaloosa	pcnt_excessive_drinking	12
-01127	Alabama	Walker	pcnt_excessive_drinking	7
-01129	Alabama	Washington	pcnt_excessive_drinking	10
-01131	Alabama	Wilcox	pcnt_excessive_drinking	
-01133	Alabama	Winston	pcnt_excessive_drinking	12
-02013	Alaska	Aleutians East	pcnt_excessive_drinking	
-02016	Alaska	Aleutians West	pcnt_excessive_drinking	26
-02020	Alaska	Anchorage	pcnt_excessive_drinking	19
-02050	Alaska	Bethel	pcnt_excessive_drinking	17
-02060	Alaska	Bristol Bay	pcnt_excessive_drinking	
-02068	Alaska	Denali	pcnt_excessive_drinking	27
-02070	Alaska	Dillingham	pcnt_excessive_drinking	15
-02090	Alaska	Fairbanks North Star	pcnt_excessive_drinking	21
-02100	Alaska	Haines	pcnt_excessive_drinking	15
-02110	Alaska	Juneau	pcnt_excessive_drinking	22
-02122	Alaska	Kenai Peninsula	pcnt_excessive_drinking	18
-02130	Alaska	Ketchikan Gateway	pcnt_excessive_drinking	23
-02150	Alaska	Kodiak Island	pcnt_excessive_drinking	26
-02164	Alaska	Lake and Peninsula	pcnt_excessive_drinking	
-02170	Alaska	Matanuska-Susitna	pcnt_excessive_drinking	18
-02180	Alaska	Nome	pcnt_excessive_drinking	21
-02185	Alaska	North Slope	pcnt_excessive_drinking	15
-02188	Alaska	Northwest Arctic	pcnt_excessive_drinking	22
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_excessive_drinking	19
-02220	Alaska	Sitka	pcnt_excessive_drinking	25
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_excessive_drinking	28
-02240	Alaska	Southeast Fairbanks	pcnt_excessive_drinking	14
-02261	Alaska	Valdez-Cordova	pcnt_excessive_drinking	21
-02270	Alaska	Wade Hampton	pcnt_excessive_drinking	8
-02280	Alaska	Wrangell-Petersburg	pcnt_excessive_drinking	21
-02282	Alaska	Yakutat	pcnt_excessive_drinking	
-02290	Alaska	Yukon-Koyukuk	pcnt_excessive_drinking	25
-04001	Arizona	Apache	pcnt_excessive_drinking	13
-04003	Arizona	Cochise	pcnt_excessive_drinking	14
-04005	Arizona	Coconino	pcnt_excessive_drinking	16
-04007	Arizona	Gila	pcnt_excessive_drinking	16
-04009	Arizona	Graham	pcnt_excessive_drinking	14
-04011	Arizona	Greenlee	pcnt_excessive_drinking	17
-04012	Arizona	La Paz	pcnt_excessive_drinking	22
-04013	Arizona	Maricopa	pcnt_excessive_drinking	17
-04015	Arizona	Mohave	pcnt_excessive_drinking	17
-04017	Arizona	Navajo	pcnt_excessive_drinking	12
-04019	Arizona	Pima	pcnt_excessive_drinking	16
-04021	Arizona	Pinal	pcnt_excessive_drinking	19
-04023	Arizona	Santa Cruz	pcnt_excessive_drinking	19
-04025	Arizona	Yavapai	pcnt_excessive_drinking	15
-04027	Arizona	Yuma	pcnt_excessive_drinking	15
-05001	Arkansas	Arkansas	pcnt_excessive_drinking	13
-05003	Arkansas	Ashley	pcnt_excessive_drinking	10
-05005	Arkansas	Baxter	pcnt_excessive_drinking	15
-05007	Arkansas	Benton	pcnt_excessive_drinking	14
-05009	Arkansas	Boone	pcnt_excessive_drinking	6
-05011	Arkansas	Bradley	pcnt_excessive_drinking	4
-05013	Arkansas	Calhoun	pcnt_excessive_drinking	8
-05015	Arkansas	Carroll	pcnt_excessive_drinking	12
-05017	Arkansas	Chicot	pcnt_excessive_drinking	10
-05019	Arkansas	Clark	pcnt_excessive_drinking	9
-05021	Arkansas	Clay	pcnt_excessive_drinking	6
-05023	Arkansas	Cleburne	pcnt_excessive_drinking	
-05025	Arkansas	Cleveland	pcnt_excessive_drinking	7
-05027	Arkansas	Columbia	pcnt_excessive_drinking	12
-05029	Arkansas	Conway	pcnt_excessive_drinking	13
-05031	Arkansas	Craighead	pcnt_excessive_drinking	9
-05033	Arkansas	Crawford	pcnt_excessive_drinking	14
-05035	Arkansas	Crittenden	pcnt_excessive_drinking	11
-05037	Arkansas	Cross	pcnt_excessive_drinking	11
-05039	Arkansas	Dallas	pcnt_excessive_drinking	4
-05041	Arkansas	Desha	pcnt_excessive_drinking	8
-05043	Arkansas	Drew	pcnt_excessive_drinking	12
-05045	Arkansas	Faulkner	pcnt_excessive_drinking	14
-05047	Arkansas	Franklin	pcnt_excessive_drinking	7
-05049	Arkansas	Fulton	pcnt_excessive_drinking	9
-05051	Arkansas	Garland	pcnt_excessive_drinking	15
-05053	Arkansas	Grant	pcnt_excessive_drinking	17
-05055	Arkansas	Greene	pcnt_excessive_drinking	12
-05057	Arkansas	Hempstead	pcnt_excessive_drinking	10
-05059	Arkansas	Hot Spring	pcnt_excessive_drinking	10
-05061	Arkansas	Howard	pcnt_excessive_drinking	
-05063	Arkansas	Independence	pcnt_excessive_drinking	9
-05065	Arkansas	Izard	pcnt_excessive_drinking	11
-05067	Arkansas	Jackson	pcnt_excessive_drinking	3
-05069	Arkansas	Jefferson	pcnt_excessive_drinking	15
-05071	Arkansas	Johnson	pcnt_excessive_drinking	13
-05073	Arkansas	Lafayette	pcnt_excessive_drinking	
-05075	Arkansas	Lawrence	pcnt_excessive_drinking	6
-05077	Arkansas	Lee	pcnt_excessive_drinking	11
-05079	Arkansas	Lincoln	pcnt_excessive_drinking	5
-05081	Arkansas	Little River	pcnt_excessive_drinking	7
-05083	Arkansas	Logan	pcnt_excessive_drinking	10
-05085	Arkansas	Lonoke	pcnt_excessive_drinking	14
-05087	Arkansas	Madison	pcnt_excessive_drinking	16
-05089	Arkansas	Marion	pcnt_excessive_drinking	13
-05091	Arkansas	Miller	pcnt_excessive_drinking	13
-05093	Arkansas	Mississippi	pcnt_excessive_drinking	7
-05095	Arkansas	Monroe	pcnt_excessive_drinking	11
-05097	Arkansas	Montgomery	pcnt_excessive_drinking	
-05099	Arkansas	Nevada	pcnt_excessive_drinking	10
-05101	Arkansas	Newton	pcnt_excessive_drinking	16
-05103	Arkansas	Ouachita	pcnt_excessive_drinking	13
-05105	Arkansas	Perry	pcnt_excessive_drinking	14
-05107	Arkansas	Phillips	pcnt_excessive_drinking	12
-05109	Arkansas	Pike	pcnt_excessive_drinking	13
-05111	Arkansas	Poinsett	pcnt_excessive_drinking	11
-05113	Arkansas	Polk	pcnt_excessive_drinking	11
-05115	Arkansas	Pope	pcnt_excessive_drinking	14
-05117	Arkansas	Prairie	pcnt_excessive_drinking	7
-05119	Arkansas	Pulaski	pcnt_excessive_drinking	16
-05121	Arkansas	Randolph	pcnt_excessive_drinking	10
-05123	Arkansas	St. Francis	pcnt_excessive_drinking	9
-05125	Arkansas	Saline	pcnt_excessive_drinking	11
-05127	Arkansas	Scott	pcnt_excessive_drinking	8
-05129	Arkansas	Searcy	pcnt_excessive_drinking	9
-05131	Arkansas	Sebastian	pcnt_excessive_drinking	12
-05133	Arkansas	Sevier	pcnt_excessive_drinking	17
-05135	Arkansas	Sharp	pcnt_excessive_drinking	8
-05137	Arkansas	Stone	pcnt_excessive_drinking	11
-05139	Arkansas	Union	pcnt_excessive_drinking	12
-05141	Arkansas	Van Buren	pcnt_excessive_drinking	11
-05143	Arkansas	Washington	pcnt_excessive_drinking	15
-05145	Arkansas	White	pcnt_excessive_drinking	12
-05147	Arkansas	Woodruff	pcnt_excessive_drinking	2
-05149	Arkansas	Yell	pcnt_excessive_drinking	16
-06001	California	Alameda	pcnt_excessive_drinking	20
-06003	California	Alpine	pcnt_excessive_drinking	0
-06005	California	Amador	pcnt_excessive_drinking	16
-06007	California	Butte	pcnt_excessive_drinking	19
-06009	California	Calaveras	pcnt_excessive_drinking	23
-06011	California	Colusa	pcnt_excessive_drinking	
-06013	California	Contra Costa	pcnt_excessive_drinking	19
-06015	California	Del Norte	pcnt_excessive_drinking	9
-06017	California	El Dorado	pcnt_excessive_drinking	19
-06019	California	Fresno	pcnt_excessive_drinking	17
-06021	California	Glenn	pcnt_excessive_drinking	
-06023	California	Humboldt	pcnt_excessive_drinking	21
-06025	California	Imperial	pcnt_excessive_drinking	15
-06027	California	Inyo	pcnt_excessive_drinking	
-06029	California	Kern	pcnt_excessive_drinking	16
-06031	California	Kings	pcnt_excessive_drinking	16
-06033	California	Lake	pcnt_excessive_drinking	22
-06035	California	Lassen	pcnt_excessive_drinking	22
-06037	California	Los Angeles	pcnt_excessive_drinking	16
-06039	California	Madera	pcnt_excessive_drinking	15
-06041	California	Marin	pcnt_excessive_drinking	25
-06043	California	Mariposa	pcnt_excessive_drinking	
-06045	California	Mendocino	pcnt_excessive_drinking	25
-06047	California	Merced	pcnt_excessive_drinking	13
-06049	California	Modoc	pcnt_excessive_drinking	
-06051	California	Mono	pcnt_excessive_drinking	
-06053	California	Monterey	pcnt_excessive_drinking	15
-06055	California	Napa	pcnt_excessive_drinking	23
-06057	California	Nevada	pcnt_excessive_drinking	19
-06059	California	Orange	pcnt_excessive_drinking	17
-06061	California	Placer	pcnt_excessive_drinking	17
-06063	California	Plumas	pcnt_excessive_drinking	21
-06065	California	Riverside	pcnt_excessive_drinking	17
-06067	California	Sacramento	pcnt_excessive_drinking	18
-06069	California	San Benito	pcnt_excessive_drinking	
-06071	California	San Bernardino	pcnt_excessive_drinking	17
-06073	California	San Diego	pcnt_excessive_drinking	17
-06075	California	San Francisco	pcnt_excessive_drinking	21
-06077	California	San Joaquin	pcnt_excessive_drinking	18
-06079	California	San Luis Obispo	pcnt_excessive_drinking	20
-06081	California	San Mateo	pcnt_excessive_drinking	19
-06083	California	Santa Barbara	pcnt_excessive_drinking	18
-06085	California	Santa Clara	pcnt_excessive_drinking	14
-06087	California	Santa Cruz	pcnt_excessive_drinking	18
-06089	California	Shasta	pcnt_excessive_drinking	20
-06091	California	Sierra	pcnt_excessive_drinking	
-06093	California	Siskiyou	pcnt_excessive_drinking	20
-06095	California	Solano	pcnt_excessive_drinking	18
-06097	California	Sonoma	pcnt_excessive_drinking	22
-06099	California	Stanislaus	pcnt_excessive_drinking	18
-06101	California	Sutter	pcnt_excessive_drinking	13
-06103	California	Tehama	pcnt_excessive_drinking	19
-06105	California	Trinity	pcnt_excessive_drinking	14
-06107	California	Tulare	pcnt_excessive_drinking	19
-06109	California	Tuolumne	pcnt_excessive_drinking	26
-06111	California	Ventura	pcnt_excessive_drinking	18
-06113	California	Yolo	pcnt_excessive_drinking	17
-06115	California	Yuba	pcnt_excessive_drinking	16
-08001	Colorado	Adams	pcnt_excessive_drinking	19
-08003	Colorado	Alamosa	pcnt_excessive_drinking	12
-08005	Colorado	Arapahoe	pcnt_excessive_drinking	17
-08007	Colorado	Archuleta	pcnt_excessive_drinking	15
-08009	Colorado	Baca	pcnt_excessive_drinking	10
-08011	Colorado	Bent	pcnt_excessive_drinking	
-08013	Colorado	Boulder	pcnt_excessive_drinking	17
-08014	Colorado	Broomfield	pcnt_excessive_drinking	15
-08015	Colorado	Chaffee	pcnt_excessive_drinking	12
-08017	Colorado	Cheyenne	pcnt_excessive_drinking	
-08019	Colorado	Clear Creek	pcnt_excessive_drinking	21
-08021	Colorado	Conejos	pcnt_excessive_drinking	15
-08023	Colorado	Costilla	pcnt_excessive_drinking	5
-08025	Colorado	Crowley	pcnt_excessive_drinking	
-08027	Colorado	Custer	pcnt_excessive_drinking	22
-08029	Colorado	Delta	pcnt_excessive_drinking	16
-08031	Colorado	Denver	pcnt_excessive_drinking	23
-08033	Colorado	Dolores	pcnt_excessive_drinking	17
-08035	Colorado	Douglas	pcnt_excessive_drinking	17
-08037	Colorado	Eagle	pcnt_excessive_drinking	22
-08039	Colorado	Elbert	pcnt_excessive_drinking	18
-08041	Colorado	El Paso	pcnt_excessive_drinking	15
-08043	Colorado	Fremont	pcnt_excessive_drinking	13
-08045	Colorado	Garfield	pcnt_excessive_drinking	19
-08047	Colorado	Gilpin	pcnt_excessive_drinking	18
-08049	Colorado	Grand	pcnt_excessive_drinking	23
-08051	Colorado	Gunnison	pcnt_excessive_drinking	25
-08053	Colorado	Hinsdale	pcnt_excessive_drinking	
-08055	Colorado	Huerfano	pcnt_excessive_drinking	
-08057	Colorado	Jackson	pcnt_excessive_drinking	17
-08059	Colorado	Jefferson	pcnt_excessive_drinking	20
-08061	Colorado	Kiowa	pcnt_excessive_drinking	
-08063	Colorado	Kit Carson	pcnt_excessive_drinking	16
-08065	Colorado	Lake	pcnt_excessive_drinking	20
-08067	Colorado	La Plata	pcnt_excessive_drinking	21
-08069	Colorado	Larimer	pcnt_excessive_drinking	17
-08071	Colorado	Las Animas	pcnt_excessive_drinking	17
-08073	Colorado	Lincoln	pcnt_excessive_drinking	12
-08075	Colorado	Logan	pcnt_excessive_drinking	18
-08077	Colorado	Mesa	pcnt_excessive_drinking	18
-08079	Colorado	Mineral	pcnt_excessive_drinking	
-08081	Colorado	Moffat	pcnt_excessive_drinking	30
-08083	Colorado	Montezuma	pcnt_excessive_drinking	17
-08085	Colorado	Montrose	pcnt_excessive_drinking	14
-08087	Colorado	Morgan	pcnt_excessive_drinking	17
-08089	Colorado	Otero	pcnt_excessive_drinking	13
-08091	Colorado	Ouray	pcnt_excessive_drinking	
-08093	Colorado	Park	pcnt_excessive_drinking	19
-08095	Colorado	Phillips	pcnt_excessive_drinking	
-08097	Colorado	Pitkin	pcnt_excessive_drinking	30
-08099	Colorado	Prowers	pcnt_excessive_drinking	11
-08101	Colorado	Pueblo	pcnt_excessive_drinking	15
-08103	Colorado	Rio Blanco	pcnt_excessive_drinking	16
-08105	Colorado	Rio Grande	pcnt_excessive_drinking	6
-08107	Colorado	Routt	pcnt_excessive_drinking	31
-08109	Colorado	Saguache	pcnt_excessive_drinking	14
-08111	Colorado	San Juan	pcnt_excessive_drinking	
-08113	Colorado	San Miguel	pcnt_excessive_drinking	
-08115	Colorado	Sedgwick	pcnt_excessive_drinking	
-08117	Colorado	Summit	pcnt_excessive_drinking	
-08119	Colorado	Teller	pcnt_excessive_drinking	12
-08121	Colorado	Washington	pcnt_excessive_drinking	12
-08123	Colorado	Weld	pcnt_excessive_drinking	17
-08125	Colorado	Yuma	pcnt_excessive_drinking	6
-09001	Connecticut	Fairfield	pcnt_excessive_drinking	20
-09003	Connecticut	Hartford	pcnt_excessive_drinking	18
-09005	Connecticut	Litchfield	pcnt_excessive_drinking	18
-09007	Connecticut	Middlesex	pcnt_excessive_drinking	18
-09009	Connecticut	New Haven	pcnt_excessive_drinking	19
-09011	Connecticut	New London	pcnt_excessive_drinking	18
-09013	Connecticut	Tolland	pcnt_excessive_drinking	19
-09015	Connecticut	Windham	pcnt_excessive_drinking	17
+1001	Alabama	Autauga	pcnt_excessive_drinking	17
+1003	Alabama	Baldwin	pcnt_excessive_drinking	19
+1005	Alabama	Barbour	pcnt_excessive_drinking	13
+1007	Alabama	Bibb	pcnt_excessive_drinking	13
+1009	Alabama	Blount	pcnt_excessive_drinking	5
+1011	Alabama	Bullock	pcnt_excessive_drinking	
+1013	Alabama	Butler	pcnt_excessive_drinking	10
+1015	Alabama	Calhoun	pcnt_excessive_drinking	13
+1017	Alabama	Chambers	pcnt_excessive_drinking	8
+1019	Alabama	Cherokee	pcnt_excessive_drinking	14
+1021	Alabama	Chilton	pcnt_excessive_drinking	11
+1023	Alabama	Choctaw	pcnt_excessive_drinking	8
+1025	Alabama	Clarke	pcnt_excessive_drinking	13
+1027	Alabama	Clay	pcnt_excessive_drinking	6
+1029	Alabama	Cleburne	pcnt_excessive_drinking	9
+1031	Alabama	Coffee	pcnt_excessive_drinking	12
+1033	Alabama	Colbert	pcnt_excessive_drinking	10
+1035	Alabama	Conecuh	pcnt_excessive_drinking	6
+1037	Alabama	Coosa	pcnt_excessive_drinking	13
+1039	Alabama	Covington	pcnt_excessive_drinking	12
+1041	Alabama	Crenshaw	pcnt_excessive_drinking	13
+1043	Alabama	Cullman	pcnt_excessive_drinking	10
+1045	Alabama	Dale	pcnt_excessive_drinking	15
+1047	Alabama	Dallas	pcnt_excessive_drinking	11
+1049	Alabama	DeKalb	pcnt_excessive_drinking	10
+1051	Alabama	Elmore	pcnt_excessive_drinking	10
+1053	Alabama	Escambia	pcnt_excessive_drinking	7
+1055	Alabama	Etowah	pcnt_excessive_drinking	11
+1057	Alabama	Fayette	pcnt_excessive_drinking	4
+1059	Alabama	Franklin	pcnt_excessive_drinking	4
+1061	Alabama	Geneva	pcnt_excessive_drinking	12
+1063	Alabama	Greene	pcnt_excessive_drinking	
+1065	Alabama	Hale	pcnt_excessive_drinking	8
+1067	Alabama	Henry	pcnt_excessive_drinking	6
+1069	Alabama	Houston	pcnt_excessive_drinking	12
+1071	Alabama	Jackson	pcnt_excessive_drinking	8
+1073	Alabama	Jefferson	pcnt_excessive_drinking	15
+1075	Alabama	Lamar	pcnt_excessive_drinking	
+1077	Alabama	Lauderdale	pcnt_excessive_drinking	4
+1079	Alabama	Lawrence	pcnt_excessive_drinking	5
+1081	Alabama	Lee	pcnt_excessive_drinking	19
+1083	Alabama	Limestone	pcnt_excessive_drinking	10
+1085	Alabama	Lowndes	pcnt_excessive_drinking	18
+1087	Alabama	Macon	pcnt_excessive_drinking	
+1089	Alabama	Madison	pcnt_excessive_drinking	11
+1091	Alabama	Marengo	pcnt_excessive_drinking	15
+1093	Alabama	Marion	pcnt_excessive_drinking	3
+1095	Alabama	Marshall	pcnt_excessive_drinking	13
+1097	Alabama	Mobile	pcnt_excessive_drinking	15
+1099	Alabama	Monroe	pcnt_excessive_drinking	15
+1101	Alabama	Montgomery	pcnt_excessive_drinking	15
+1103	Alabama	Morgan	pcnt_excessive_drinking	10
+1105	Alabama	Perry	pcnt_excessive_drinking	15
+1107	Alabama	Pickens	pcnt_excessive_drinking	8
+1109	Alabama	Pike	pcnt_excessive_drinking	11
+1111	Alabama	Randolph	pcnt_excessive_drinking	13
+1113	Alabama	Russell	pcnt_excessive_drinking	
+1115	Alabama	St. Clair	pcnt_excessive_drinking	11
+1117	Alabama	Shelby	pcnt_excessive_drinking	12
+1119	Alabama	Sumter	pcnt_excessive_drinking	14
+1121	Alabama	Talladega	pcnt_excessive_drinking	10
+1123	Alabama	Tallapoosa	pcnt_excessive_drinking	14
+1125	Alabama	Tuscaloosa	pcnt_excessive_drinking	12
+1127	Alabama	Walker	pcnt_excessive_drinking	7
+1129	Alabama	Washington	pcnt_excessive_drinking	10
+1131	Alabama	Wilcox	pcnt_excessive_drinking	
+1133	Alabama	Winston	pcnt_excessive_drinking	12
+2013	Alaska	Aleutians East	pcnt_excessive_drinking	
+2016	Alaska	Aleutians West	pcnt_excessive_drinking	26
+2020	Alaska	Anchorage	pcnt_excessive_drinking	19
+2050	Alaska	Bethel	pcnt_excessive_drinking	17
+2060	Alaska	Bristol Bay	pcnt_excessive_drinking	
+2068	Alaska	Denali	pcnt_excessive_drinking	27
+2070	Alaska	Dillingham	pcnt_excessive_drinking	15
+2090	Alaska	Fairbanks North Star	pcnt_excessive_drinking	21
+2100	Alaska	Haines	pcnt_excessive_drinking	15
+2110	Alaska	Juneau	pcnt_excessive_drinking	22
+2122	Alaska	Kenai Peninsula	pcnt_excessive_drinking	18
+2130	Alaska	Ketchikan Gateway	pcnt_excessive_drinking	23
+2150	Alaska	Kodiak Island	pcnt_excessive_drinking	26
+2164	Alaska	Lake and Peninsula	pcnt_excessive_drinking	
+2170	Alaska	Matanuska-Susitna	pcnt_excessive_drinking	18
+2180	Alaska	Nome	pcnt_excessive_drinking	21
+2185	Alaska	North Slope	pcnt_excessive_drinking	15
+2188	Alaska	Northwest Arctic	pcnt_excessive_drinking	22
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_excessive_drinking	19
+2220	Alaska	Sitka	pcnt_excessive_drinking	25
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_excessive_drinking	28
+2240	Alaska	Southeast Fairbanks	pcnt_excessive_drinking	14
+2261	Alaska	Valdez-Cordova	pcnt_excessive_drinking	21
+2270	Alaska	Wade Hampton	pcnt_excessive_drinking	8
+2280	Alaska	Wrangell-Petersburg	pcnt_excessive_drinking	21
+2282	Alaska	Yakutat	pcnt_excessive_drinking	
+2290	Alaska	Yukon-Koyukuk	pcnt_excessive_drinking	25
+4001	Arizona	Apache	pcnt_excessive_drinking	13
+4003	Arizona	Cochise	pcnt_excessive_drinking	14
+4005	Arizona	Coconino	pcnt_excessive_drinking	16
+4007	Arizona	Gila	pcnt_excessive_drinking	16
+4009	Arizona	Graham	pcnt_excessive_drinking	14
+4011	Arizona	Greenlee	pcnt_excessive_drinking	17
+4012	Arizona	La Paz	pcnt_excessive_drinking	22
+4013	Arizona	Maricopa	pcnt_excessive_drinking	17
+4015	Arizona	Mohave	pcnt_excessive_drinking	17
+4017	Arizona	Navajo	pcnt_excessive_drinking	12
+4019	Arizona	Pima	pcnt_excessive_drinking	16
+4021	Arizona	Pinal	pcnt_excessive_drinking	19
+4023	Arizona	Santa Cruz	pcnt_excessive_drinking	19
+4025	Arizona	Yavapai	pcnt_excessive_drinking	15
+4027	Arizona	Yuma	pcnt_excessive_drinking	15
+5001	Arkansas	Arkansas	pcnt_excessive_drinking	13
+5003	Arkansas	Ashley	pcnt_excessive_drinking	10
+5005	Arkansas	Baxter	pcnt_excessive_drinking	15
+5007	Arkansas	Benton	pcnt_excessive_drinking	14
+5009	Arkansas	Boone	pcnt_excessive_drinking	6
+5011	Arkansas	Bradley	pcnt_excessive_drinking	4
+5013	Arkansas	Calhoun	pcnt_excessive_drinking	8
+5015	Arkansas	Carroll	pcnt_excessive_drinking	12
+5017	Arkansas	Chicot	pcnt_excessive_drinking	10
+5019	Arkansas	Clark	pcnt_excessive_drinking	9
+5021	Arkansas	Clay	pcnt_excessive_drinking	6
+5023	Arkansas	Cleburne	pcnt_excessive_drinking	
+5025	Arkansas	Cleveland	pcnt_excessive_drinking	7
+5027	Arkansas	Columbia	pcnt_excessive_drinking	12
+5029	Arkansas	Conway	pcnt_excessive_drinking	13
+5031	Arkansas	Craighead	pcnt_excessive_drinking	9
+5033	Arkansas	Crawford	pcnt_excessive_drinking	14
+5035	Arkansas	Crittenden	pcnt_excessive_drinking	11
+5037	Arkansas	Cross	pcnt_excessive_drinking	11
+5039	Arkansas	Dallas	pcnt_excessive_drinking	4
+5041	Arkansas	Desha	pcnt_excessive_drinking	8
+5043	Arkansas	Drew	pcnt_excessive_drinking	12
+5045	Arkansas	Faulkner	pcnt_excessive_drinking	14
+5047	Arkansas	Franklin	pcnt_excessive_drinking	7
+5049	Arkansas	Fulton	pcnt_excessive_drinking	9
+5051	Arkansas	Garland	pcnt_excessive_drinking	15
+5053	Arkansas	Grant	pcnt_excessive_drinking	17
+5055	Arkansas	Greene	pcnt_excessive_drinking	12
+5057	Arkansas	Hempstead	pcnt_excessive_drinking	10
+5059	Arkansas	Hot Spring	pcnt_excessive_drinking	10
+5061	Arkansas	Howard	pcnt_excessive_drinking	
+5063	Arkansas	Independence	pcnt_excessive_drinking	9
+5065	Arkansas	Izard	pcnt_excessive_drinking	11
+5067	Arkansas	Jackson	pcnt_excessive_drinking	3
+5069	Arkansas	Jefferson	pcnt_excessive_drinking	15
+5071	Arkansas	Johnson	pcnt_excessive_drinking	13
+5073	Arkansas	Lafayette	pcnt_excessive_drinking	
+5075	Arkansas	Lawrence	pcnt_excessive_drinking	6
+5077	Arkansas	Lee	pcnt_excessive_drinking	11
+5079	Arkansas	Lincoln	pcnt_excessive_drinking	5
+5081	Arkansas	Little River	pcnt_excessive_drinking	7
+5083	Arkansas	Logan	pcnt_excessive_drinking	10
+5085	Arkansas	Lonoke	pcnt_excessive_drinking	14
+5087	Arkansas	Madison	pcnt_excessive_drinking	16
+5089	Arkansas	Marion	pcnt_excessive_drinking	13
+5091	Arkansas	Miller	pcnt_excessive_drinking	13
+5093	Arkansas	Mississippi	pcnt_excessive_drinking	7
+5095	Arkansas	Monroe	pcnt_excessive_drinking	11
+5097	Arkansas	Montgomery	pcnt_excessive_drinking	
+5099	Arkansas	Nevada	pcnt_excessive_drinking	10
+5101	Arkansas	Newton	pcnt_excessive_drinking	16
+5103	Arkansas	Ouachita	pcnt_excessive_drinking	13
+5105	Arkansas	Perry	pcnt_excessive_drinking	14
+5107	Arkansas	Phillips	pcnt_excessive_drinking	12
+5109	Arkansas	Pike	pcnt_excessive_drinking	13
+5111	Arkansas	Poinsett	pcnt_excessive_drinking	11
+5113	Arkansas	Polk	pcnt_excessive_drinking	11
+5115	Arkansas	Pope	pcnt_excessive_drinking	14
+5117	Arkansas	Prairie	pcnt_excessive_drinking	7
+5119	Arkansas	Pulaski	pcnt_excessive_drinking	16
+5121	Arkansas	Randolph	pcnt_excessive_drinking	10
+5123	Arkansas	St. Francis	pcnt_excessive_drinking	9
+5125	Arkansas	Saline	pcnt_excessive_drinking	11
+5127	Arkansas	Scott	pcnt_excessive_drinking	8
+5129	Arkansas	Searcy	pcnt_excessive_drinking	9
+5131	Arkansas	Sebastian	pcnt_excessive_drinking	12
+5133	Arkansas	Sevier	pcnt_excessive_drinking	17
+5135	Arkansas	Sharp	pcnt_excessive_drinking	8
+5137	Arkansas	Stone	pcnt_excessive_drinking	11
+5139	Arkansas	Union	pcnt_excessive_drinking	12
+5141	Arkansas	Van Buren	pcnt_excessive_drinking	11
+5143	Arkansas	Washington	pcnt_excessive_drinking	15
+5145	Arkansas	White	pcnt_excessive_drinking	12
+5147	Arkansas	Woodruff	pcnt_excessive_drinking	2
+5149	Arkansas	Yell	pcnt_excessive_drinking	16
+6001	California	Alameda	pcnt_excessive_drinking	20
+6003	California	Alpine	pcnt_excessive_drinking	0
+6005	California	Amador	pcnt_excessive_drinking	16
+6007	California	Butte	pcnt_excessive_drinking	19
+6009	California	Calaveras	pcnt_excessive_drinking	23
+6011	California	Colusa	pcnt_excessive_drinking	
+6013	California	Contra Costa	pcnt_excessive_drinking	19
+6015	California	Del Norte	pcnt_excessive_drinking	9
+6017	California	El Dorado	pcnt_excessive_drinking	19
+6019	California	Fresno	pcnt_excessive_drinking	17
+6021	California	Glenn	pcnt_excessive_drinking	
+6023	California	Humboldt	pcnt_excessive_drinking	21
+6025	California	Imperial	pcnt_excessive_drinking	15
+6027	California	Inyo	pcnt_excessive_drinking	
+6029	California	Kern	pcnt_excessive_drinking	16
+6031	California	Kings	pcnt_excessive_drinking	16
+6033	California	Lake	pcnt_excessive_drinking	22
+6035	California	Lassen	pcnt_excessive_drinking	22
+6037	California	Los Angeles	pcnt_excessive_drinking	16
+6039	California	Madera	pcnt_excessive_drinking	15
+6041	California	Marin	pcnt_excessive_drinking	25
+6043	California	Mariposa	pcnt_excessive_drinking	
+6045	California	Mendocino	pcnt_excessive_drinking	25
+6047	California	Merced	pcnt_excessive_drinking	13
+6049	California	Modoc	pcnt_excessive_drinking	
+6051	California	Mono	pcnt_excessive_drinking	
+6053	California	Monterey	pcnt_excessive_drinking	15
+6055	California	Napa	pcnt_excessive_drinking	23
+6057	California	Nevada	pcnt_excessive_drinking	19
+6059	California	Orange	pcnt_excessive_drinking	17
+6061	California	Placer	pcnt_excessive_drinking	17
+6063	California	Plumas	pcnt_excessive_drinking	21
+6065	California	Riverside	pcnt_excessive_drinking	17
+6067	California	Sacramento	pcnt_excessive_drinking	18
+6069	California	San Benito	pcnt_excessive_drinking	
+6071	California	San Bernardino	pcnt_excessive_drinking	17
+6073	California	San Diego	pcnt_excessive_drinking	17
+6075	California	San Francisco	pcnt_excessive_drinking	21
+6077	California	San Joaquin	pcnt_excessive_drinking	18
+6079	California	San Luis Obispo	pcnt_excessive_drinking	20
+6081	California	San Mateo	pcnt_excessive_drinking	19
+6083	California	Santa Barbara	pcnt_excessive_drinking	18
+6085	California	Santa Clara	pcnt_excessive_drinking	14
+6087	California	Santa Cruz	pcnt_excessive_drinking	18
+6089	California	Shasta	pcnt_excessive_drinking	20
+6091	California	Sierra	pcnt_excessive_drinking	
+6093	California	Siskiyou	pcnt_excessive_drinking	20
+6095	California	Solano	pcnt_excessive_drinking	18
+6097	California	Sonoma	pcnt_excessive_drinking	22
+6099	California	Stanislaus	pcnt_excessive_drinking	18
+6101	California	Sutter	pcnt_excessive_drinking	13
+6103	California	Tehama	pcnt_excessive_drinking	19
+6105	California	Trinity	pcnt_excessive_drinking	14
+6107	California	Tulare	pcnt_excessive_drinking	19
+6109	California	Tuolumne	pcnt_excessive_drinking	26
+6111	California	Ventura	pcnt_excessive_drinking	18
+6113	California	Yolo	pcnt_excessive_drinking	17
+6115	California	Yuba	pcnt_excessive_drinking	16
+8001	Colorado	Adams	pcnt_excessive_drinking	19
+8003	Colorado	Alamosa	pcnt_excessive_drinking	12
+8005	Colorado	Arapahoe	pcnt_excessive_drinking	17
+8007	Colorado	Archuleta	pcnt_excessive_drinking	15
+8009	Colorado	Baca	pcnt_excessive_drinking	10
+8011	Colorado	Bent	pcnt_excessive_drinking	
+8013	Colorado	Boulder	pcnt_excessive_drinking	17
+8014	Colorado	Broomfield	pcnt_excessive_drinking	15
+8015	Colorado	Chaffee	pcnt_excessive_drinking	12
+8017	Colorado	Cheyenne	pcnt_excessive_drinking	
+8019	Colorado	Clear Creek	pcnt_excessive_drinking	21
+8021	Colorado	Conejos	pcnt_excessive_drinking	15
+8023	Colorado	Costilla	pcnt_excessive_drinking	5
+8025	Colorado	Crowley	pcnt_excessive_drinking	
+8027	Colorado	Custer	pcnt_excessive_drinking	22
+8029	Colorado	Delta	pcnt_excessive_drinking	16
+8031	Colorado	Denver	pcnt_excessive_drinking	23
+8033	Colorado	Dolores	pcnt_excessive_drinking	17
+8035	Colorado	Douglas	pcnt_excessive_drinking	17
+8037	Colorado	Eagle	pcnt_excessive_drinking	22
+8039	Colorado	Elbert	pcnt_excessive_drinking	18
+8041	Colorado	El Paso	pcnt_excessive_drinking	15
+8043	Colorado	Fremont	pcnt_excessive_drinking	13
+8045	Colorado	Garfield	pcnt_excessive_drinking	19
+8047	Colorado	Gilpin	pcnt_excessive_drinking	18
+8049	Colorado	Grand	pcnt_excessive_drinking	23
+8051	Colorado	Gunnison	pcnt_excessive_drinking	25
+8053	Colorado	Hinsdale	pcnt_excessive_drinking	
+8055	Colorado	Huerfano	pcnt_excessive_drinking	
+8057	Colorado	Jackson	pcnt_excessive_drinking	17
+8059	Colorado	Jefferson	pcnt_excessive_drinking	20
+8061	Colorado	Kiowa	pcnt_excessive_drinking	
+8063	Colorado	Kit Carson	pcnt_excessive_drinking	16
+8065	Colorado	Lake	pcnt_excessive_drinking	20
+8067	Colorado	La Plata	pcnt_excessive_drinking	21
+8069	Colorado	Larimer	pcnt_excessive_drinking	17
+8071	Colorado	Las Animas	pcnt_excessive_drinking	17
+8073	Colorado	Lincoln	pcnt_excessive_drinking	12
+8075	Colorado	Logan	pcnt_excessive_drinking	18
+8077	Colorado	Mesa	pcnt_excessive_drinking	18
+8079	Colorado	Mineral	pcnt_excessive_drinking	
+8081	Colorado	Moffat	pcnt_excessive_drinking	30
+8083	Colorado	Montezuma	pcnt_excessive_drinking	17
+8085	Colorado	Montrose	pcnt_excessive_drinking	14
+8087	Colorado	Morgan	pcnt_excessive_drinking	17
+8089	Colorado	Otero	pcnt_excessive_drinking	13
+8091	Colorado	Ouray	pcnt_excessive_drinking	
+8093	Colorado	Park	pcnt_excessive_drinking	19
+8095	Colorado	Phillips	pcnt_excessive_drinking	
+8097	Colorado	Pitkin	pcnt_excessive_drinking	30
+8099	Colorado	Prowers	pcnt_excessive_drinking	11
+8101	Colorado	Pueblo	pcnt_excessive_drinking	15
+8103	Colorado	Rio Blanco	pcnt_excessive_drinking	16
+8105	Colorado	Rio Grande	pcnt_excessive_drinking	6
+8107	Colorado	Routt	pcnt_excessive_drinking	31
+8109	Colorado	Saguache	pcnt_excessive_drinking	14
+8111	Colorado	San Juan	pcnt_excessive_drinking	
+8113	Colorado	San Miguel	pcnt_excessive_drinking	
+8115	Colorado	Sedgwick	pcnt_excessive_drinking	
+8117	Colorado	Summit	pcnt_excessive_drinking	
+8119	Colorado	Teller	pcnt_excessive_drinking	12
+8121	Colorado	Washington	pcnt_excessive_drinking	12
+8123	Colorado	Weld	pcnt_excessive_drinking	17
+8125	Colorado	Yuma	pcnt_excessive_drinking	6
+9001	Connecticut	Fairfield	pcnt_excessive_drinking	20
+9003	Connecticut	Hartford	pcnt_excessive_drinking	18
+9005	Connecticut	Litchfield	pcnt_excessive_drinking	18
+9007	Connecticut	Middlesex	pcnt_excessive_drinking	18
+9009	Connecticut	New Haven	pcnt_excessive_drinking	19
+9011	Connecticut	New London	pcnt_excessive_drinking	18
+9013	Connecticut	Tolland	pcnt_excessive_drinking	19
+9015	Connecticut	Windham	pcnt_excessive_drinking	17
 10001	Delaware	Kent	pcnt_excessive_drinking	16
 10003	Delaware	New Castle	pcnt_excessive_drinking	21
 10005	Delaware	Sussex	pcnt_excessive_drinking	18

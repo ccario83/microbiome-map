@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	hiv_rate
+1001	Alabama	Autauga	hiv_rate	185
+1003	Alabama	Baldwin	hiv_rate	179
+1005	Alabama	Barbour	hiv_rate	345
+1007	Alabama	Bibb	hiv_rate	100
+1009	Alabama	Blount	hiv_rate	81
+1011	Alabama	Bullock	hiv_rate	358
+1013	Alabama	Butler	hiv_rate	207
+1015	Alabama	Calhoun	hiv_rate	176
+1017	Alabama	Chambers	hiv_rate	282
+1019	Alabama	Cherokee	hiv_rate	100
+1021	Alabama	Chilton	hiv_rate	81
+1023	Alabama	Choctaw	hiv_rate	242
+1025	Alabama	Clarke	hiv_rate	107
+1027	Alabama	Clay	hiv_rate	130
+1029	Alabama	Cleburne	hiv_rate	104
+1031	Alabama	Coffee	hiv_rate	133
+1033	Alabama	Colbert	hiv_rate	95
+1035	Alabama	Conecuh	hiv_rate	261
+1037	Alabama	Coosa	hiv_rate	114
+1039	Alabama	Covington	hiv_rate	105
+1041	Alabama	Crenshaw	hiv_rate	164
+1043	Alabama	Cullman	hiv_rate	51
+1045	Alabama	Dale	hiv_rate	299
+1047	Alabama	Dallas	hiv_rate	370
+1049	Alabama	DeKalb	hiv_rate	74
+1051	Alabama	Elmore	hiv_rate	208
+1053	Alabama	Escambia	hiv_rate	146
+1055	Alabama	Etowah	hiv_rate	148
+1057	Alabama	Fayette	hiv_rate	73
+1059	Alabama	Franklin	hiv_rate	55
+1061	Alabama	Geneva	hiv_rate	138
+1063	Alabama	Greene	hiv_rate	271
+1065	Alabama	Hale	hiv_rate	202
+1067	Alabama	Henry	hiv_rate	178
+1069	Alabama	Houston	hiv_rate	304
+1071	Alabama	Jackson	hiv_rate	59
+1073	Alabama	Jefferson	hiv_rate	543
+1075	Alabama	Lamar	hiv_rate	91
+1077	Alabama	Lauderdale	hiv_rate	60
+1079	Alabama	Lawrence	hiv_rate	71
+1081	Alabama	Lee	hiv_rate	152
+1083	Alabama	Limestone	hiv_rate	150
+1085	Alabama	Lowndes	hiv_rate	438
+1087	Alabama	Macon	hiv_rate	505
+1089	Alabama	Madison	hiv_rate	204
+1091	Alabama	Marengo	hiv_rate	109
+1093	Alabama	Marion	hiv_rate	106
+1095	Alabama	Marshall	hiv_rate	99
+1097	Alabama	Mobile	hiv_rate	488
+1099	Alabama	Monroe	hiv_rate	170
+1101	Alabama	Montgomery	hiv_rate	728
+1103	Alabama	Morgan	hiv_rate	114
+1105	Alabama	Perry	hiv_rate	275
+1107	Alabama	Pickens	hiv_rate	153
+1109	Alabama	Pike	hiv_rate	353
+1111	Alabama	Randolph	hiv_rate	61
+1113	Alabama	Russell	hiv_rate	347
+1115	Alabama	St. Clair	hiv_rate	81
+1117	Alabama	Shelby	hiv_rate	75
+1119	Alabama	Sumter	hiv_rate	270
+1121	Alabama	Talladega	hiv_rate	197
+1123	Alabama	Tallapoosa	hiv_rate	140
+1125	Alabama	Tuscaloosa	hiv_rate	211
+1127	Alabama	Walker	hiv_rate	115
+1129	Alabama	Washington	hiv_rate	72
+1131	Alabama	Wilcox	hiv_rate	151
+1133	Alabama	Winston	hiv_rate	48
+2013	Alaska	Aleutians East	hiv_rate	
+2016	Alaska	Aleutians West	hiv_rate	
+2020	Alaska	Anchorage	hiv_rate	161
+2050	Alaska	Bethel	hiv_rate	163
+2060	Alaska	Bristol Bay	hiv_rate	
+2068	Alaska	Denali	hiv_rate	
+2070	Alaska	Dillingham	hiv_rate	230
+2090	Alaska	Fairbanks North Star	hiv_rate	68
+2100	Alaska	Haines	hiv_rate	
+2110	Alaska	Juneau	hiv_rate	88
+2122	Alaska	Kenai Peninsula	hiv_rate	52
+2130	Alaska	Ketchikan Gateway	hiv_rate	62
+2150	Alaska	Kodiak Island	hiv_rate	
+2164	Alaska	Lake and Peninsula	hiv_rate	
+2170	Alaska	Matanuska-Susitna	hiv_rate	38
+2180	Alaska	Nome	hiv_rate	
+2185	Alaska	North Slope	hiv_rate	
+2188	Alaska	Northwest Arctic	hiv_rate	
+2201	Alaska	Prince of Wales-Outer Ketchikan	hiv_rate	
+2220	Alaska	Sitka	hiv_rate	81
+2232	Alaska	Skagway-Hoonah-Angoon	hiv_rate	
+2240	Alaska	Southeast Fairbanks	hiv_rate	106
+2261	Alaska	Valdez-Cordova	hiv_rate	
+2270	Alaska	Wade Hampton	hiv_rate	93
+2280	Alaska	Wrangell-Petersburg	hiv_rate	
+2282	Alaska	Yakutat	hiv_rate	
+2290	Alaska	Yukon-Koyukuk	hiv_rate	
+4001	Arizona	Apache	hiv_rate	111
+4003	Arizona	Cochise	hiv_rate	128
+4005	Arizona	Coconino	hiv_rate	122
+4007	Arizona	Gila	hiv_rate	46
+4009	Arizona	Graham	hiv_rate	127
+4011	Arizona	Greenlee	hiv_rate	
+4012	Arizona	La Paz	hiv_rate	
+4013	Arizona	Maricopa	hiv_rate	260
+4015	Arizona	Mohave	hiv_rate	79
+4017	Arizona	Navajo	hiv_rate	71
+4019	Arizona	Pima	hiv_rate	221
+4021	Arizona	Pinal	hiv_rate	176
+4023	Arizona	Santa Cruz	hiv_rate	101
+4025	Arizona	Yavapai	hiv_rate	80
+4027	Arizona	Yuma	hiv_rate	106
+5001	Arkansas	Arkansas	hiv_rate	170
+5003	Arkansas	Ashley	hiv_rate	89
+5005	Arkansas	Baxter	hiv_rate	62
+5007	Arkansas	Benton	hiv_rate	90
+5009	Arkansas	Boone	hiv_rate	48
+5011	Arkansas	Bradley	hiv_rate	96
+5013	Arkansas	Calhoun	hiv_rate	128
+5015	Arkansas	Carroll	hiv_rate	135
+5017	Arkansas	Chicot	hiv_rate	248
+5019	Arkansas	Clark	hiv_rate	143
+5021	Arkansas	Clay	hiv_rate	43
+5023	Arkansas	Cleburne	hiv_rate	43
+5025	Arkansas	Cleveland	hiv_rate	97
+5027	Arkansas	Columbia	hiv_rate	139
+5029	Arkansas	Conway	hiv_rate	81
+5031	Arkansas	Craighead	hiv_rate	158
+5033	Arkansas	Crawford	hiv_rate	80
+5035	Arkansas	Crittenden	hiv_rate	527
+5037	Arkansas	Cross	hiv_rate	167
+5039	Arkansas	Dallas	hiv_rate	
+5041	Arkansas	Desha	hiv_rate	116
+5043	Arkansas	Drew	hiv_rate	96
+5045	Arkansas	Faulkner	hiv_rate	84
+5047	Arkansas	Franklin	hiv_rate	97
+5049	Arkansas	Fulton	hiv_rate	
+5051	Arkansas	Garland	hiv_rate	182
+5053	Arkansas	Grant	hiv_rate	64
+5055	Arkansas	Greene	hiv_rate	94
+5057	Arkansas	Hempstead	hiv_rate	129
+5059	Arkansas	Hot Spring	hiv_rate	84
+5061	Arkansas	Howard	hiv_rate	103
+5063	Arkansas	Independence	hiv_rate	94
+5065	Arkansas	Izard	hiv_rate	62
+5067	Arkansas	Jackson	hiv_rate	151
+5069	Arkansas	Jefferson	hiv_rate	563
+5071	Arkansas	Johnson	hiv_rate	28
+5073	Arkansas	Lafayette	hiv_rate	
+5075	Arkansas	Lawrence	hiv_rate	
+5077	Arkansas	Lee	hiv_rate	208
+5079	Arkansas	Lincoln	hiv_rate	116
+5081	Arkansas	Little River	hiv_rate	105
+5083	Arkansas	Logan	hiv_rate	51
+5085	Arkansas	Lonoke	hiv_rate	51
+5087	Arkansas	Madison	hiv_rate	99
+5089	Arkansas	Marion	hiv_rate	40
+5091	Arkansas	Miller	hiv_rate	244
+5093	Arkansas	Mississippi	hiv_rate	218
+5095	Arkansas	Monroe	hiv_rate	300
+5097	Arkansas	Montgomery	hiv_rate	131
+5099	Arkansas	Nevada	hiv_rate	132
+5101	Arkansas	Newton	hiv_rate	156
+5103	Arkansas	Ouachita	hiv_rate	226
+5105	Arkansas	Perry	hiv_rate	
+5107	Arkansas	Phillips	hiv_rate	375
+5109	Arkansas	Pike	hiv_rate	
+5111	Arkansas	Poinsett	hiv_rate	81
+5113	Arkansas	Polk	hiv_rate	79
+5115	Arkansas	Pope	hiv_rate	84
+5117	Arkansas	Prairie	hiv_rate	80
+5119	Arkansas	Pulaski	hiv_rate	472
+5121	Arkansas	Randolph	hiv_rate	60
+5123	Arkansas	St. Francis	hiv_rate	315
+5125	Arkansas	Saline	hiv_rate	51
+5127	Arkansas	Scott	hiv_rate	
+5129	Arkansas	Searcy	hiv_rate	
+5131	Arkansas	Sebastian	hiv_rate	189
+5133	Arkansas	Sevier	hiv_rate	43
+5135	Arkansas	Sharp	hiv_rate	66
+5137	Arkansas	Stone	hiv_rate	58
+5139	Arkansas	Union	hiv_rate	368
+5141	Arkansas	Van Buren	hiv_rate	50
+5143	Arkansas	Washington	hiv_rate	192
+5145	Arkansas	White	hiv_rate	85
+5147	Arkansas	Woodruff	hiv_rate	
+5149	Arkansas	Yell	hiv_rate	80
+6001	California	Alameda	hiv_rate	373
+6003	California	Alpine	hiv_rate	
+6005	California	Amador	hiv_rate	98
+6007	California	Butte	hiv_rate	105
+6009	California	Calaveras	hiv_rate	41
+6011	California	Colusa	hiv_rate	
+6013	California	Contra Costa	hiv_rate	201
+6015	California	Del Norte	hiv_rate	121
+6017	California	El Dorado	hiv_rate	90
+6019	California	Fresno	hiv_rate	177
+6021	California	Glenn	hiv_rate	62
+6023	California	Humboldt	hiv_rate	127
+6025	California	Imperial	hiv_rate	145
+6027	California	Inyo	hiv_rate	78
+6029	California	Kern	hiv_rate	258
+6031	California	Kings	hiv_rate	154
+6033	California	Lake	hiv_rate	142
+6035	California	Lassen	hiv_rate	106
+6037	California	Los Angeles	hiv_rate	498
+6039	California	Madera	hiv_rate	141
+6041	California	Marin	hiv_rate	418
+6043	California	Mariposa	hiv_rate	57
+6045	California	Mendocino	hiv_rate	143
+6047	California	Merced	hiv_rate	71
+6049	California	Modoc	hiv_rate	
+6051	California	Mono	hiv_rate	64
+6053	California	Monterey	hiv_rate	175
+6055	California	Napa	hiv_rate	164
+6057	California	Nevada	hiv_rate	71
+6059	California	Orange	hiv_rate	246
+6061	California	Placer	hiv_rate	47
+6063	California	Plumas	hiv_rate	45
+6065	California	Riverside	hiv_rate	253
+6067	California	Sacramento	hiv_rate	244
+6069	California	San Benito	hiv_rate	65
+6071	California	San Bernardino	hiv_rate	191
+6073	California	San Diego	hiv_rate	435
+6075	California	San Francisco	hiv_rate	2011
+6077	California	San Joaquin	hiv_rate	196
+6079	California	San Luis Obispo	hiv_rate	182
+6081	California	San Mateo	hiv_rate	210
+6083	California	Santa Barbara	hiv_rate	143
+6085	California	Santa Clara	hiv_rate	195
+6087	California	Santa Cruz	hiv_rate	188
+6089	California	Shasta	hiv_rate	74
+6091	California	Sierra	hiv_rate	
+6093	California	Siskiyou	hiv_rate	71
+6095	California	Solano	hiv_rate	341
+6097	California	Sonoma	hiv_rate	294
+6099	California	Stanislaus	hiv_rate	123
+6101	California	Sutter	hiv_rate	68
+6103	California	Tehama	hiv_rate	53
+6105	California	Trinity	hiv_rate	47
+6107	California	Tulare	hiv_rate	60
+6109	California	Tuolumne	hiv_rate	88
+6111	California	Ventura	hiv_rate	121
+6113	California	Yolo	hiv_rate	99
+6115	California	Yuba	hiv_rate	57
+8001	Colorado	Adams	hiv_rate	170
+8003	Colorado	Alamosa	hiv_rate	73
+8005	Colorado	Arapahoe	hiv_rate	214
+8007	Colorado	Archuleta	hiv_rate	
+8009	Colorado	Baca	hiv_rate	
+8011	Colorado	Bent	hiv_rate	
+8013	Colorado	Boulder	hiv_rate	177
+8014	Colorado	Broomfield	hiv_rate	64
+8015	Colorado	Chaffee	hiv_rate	60
+8017	Colorado	Cheyenne	hiv_rate	
+8019	Colorado	Clear Creek	hiv_rate	200
+8021	Colorado	Conejos	hiv_rate	
+8023	Colorado	Costilla	hiv_rate	
+8025	Colorado	Crowley	hiv_rate	
+8027	Colorado	Custer	hiv_rate	
+8029	Colorado	Delta	hiv_rate	34
+8031	Colorado	Denver	hiv_rate	1215
+8033	Colorado	Dolores	hiv_rate	
+8035	Colorado	Douglas	hiv_rate	39
+8037	Colorado	Eagle	hiv_rate	125
+8039	Colorado	Elbert	hiv_rate	41
+8041	Colorado	El Paso	hiv_rate	147
+8043	Colorado	Fremont	hiv_rate	311
+8045	Colorado	Garfield	hiv_rate	83
+8047	Colorado	Gilpin	hiv_rate	
+8049	Colorado	Grand	hiv_rate	85
+8051	Colorado	Gunnison	hiv_rate	
+8053	Colorado	Hinsdale	hiv_rate	
+8055	Colorado	Huerfano	hiv_rate	120
+8057	Colorado	Jackson	hiv_rate	
+8059	Colorado	Jefferson	hiv_rate	124
+8061	Colorado	Kiowa	hiv_rate	
+8063	Colorado	Kit Carson	hiv_rate	
+8065	Colorado	Lake	hiv_rate	
+8067	Colorado	La Plata	hiv_rate	81
+8069	Colorado	Larimer	hiv_rate	74
+8071	Colorado	Las Animas	hiv_rate	93
+8073	Colorado	Lincoln	hiv_rate	152
+8075	Colorado	Logan	hiv_rate	40
+8077	Colorado	Mesa	hiv_rate	71
+8079	Colorado	Mineral	hiv_rate	
+8081	Colorado	Moffat	hiv_rate	53
+8083	Colorado	Montezuma	hiv_rate	57
+8085	Colorado	Montrose	hiv_rate	33
+8087	Colorado	Morgan	hiv_rate	88
+8089	Colorado	Otero	hiv_rate	64
+8091	Colorado	Ouray	hiv_rate	
+8093	Colorado	Park	hiv_rate	104
+8095	Colorado	Phillips	hiv_rate	
+8097	Colorado	Pitkin	hiv_rate	217
+8099	Colorado	Prowers	hiv_rate	88
+8101	Colorado	Pueblo	hiv_rate	115
+8103	Colorado	Rio Blanco	hiv_rate	
+8105	Colorado	Rio Grande	hiv_rate	
+8107	Colorado	Routt	hiv_rate	62
+8109	Colorado	Saguache	hiv_rate	97
+8111	Colorado	San Juan	hiv_rate	
+8113	Colorado	San Miguel	hiv_rate	104
+8115	Colorado	Sedgwick	hiv_rate	
+8117	Colorado	Summit	hiv_rate	162
+8119	Colorado	Teller	hiv_rate	27
+8121	Colorado	Washington	hiv_rate	
+8123	Colorado	Weld	hiv_rate	70
+8125	Colorado	Yuma	hiv_rate	103
+9001	Connecticut	Fairfield	hiv_rate	375
+9003	Connecticut	Hartford	hiv_rate	431
+9005	Connecticut	Litchfield	hiv_rate	117
+9007	Connecticut	Middlesex	hiv_rate	169
+9009	Connecticut	New Haven	hiv_rate	455
+9011	Connecticut	New London	hiv_rate	231
+9013	Connecticut	Tolland	hiv_rate	85
+9015	Connecticut	Windham	hiv_rate	203
+10001	Delaware	Kent	hiv_rate	
+10003	Delaware	New Castle	hiv_rate	
+10005	Delaware	Sussex	hiv_rate	
+11001	District of Columbia	District of Columbia	hiv_rate	
+12001	Florida	Alachua	hiv_rate	385
+12003	Florida	Baker	hiv_rate	370
+12005	Florida	Bay	hiv_rate	263
+12007	Florida	Bradford	hiv_rate	463
+12009	Florida	Brevard	hiv_rate	249
+12011	Florida	Broward	hiv_rate	1060
+12013	Florida	Calhoun	hiv_rate	486
+12015	Florida	Charlotte	hiv_rate	163
+12017	Florida	Citrus	hiv_rate	83
+12019	Florida	Clay	hiv_rate	145
+12021	Florida	Collier	hiv_rate	305
+12023	Florida	Columbia	hiv_rate	385
+12027	Florida	DeSoto	hiv_rate	553
+12029	Florida	Dixie	hiv_rate	411
+12031	Florida	Duval	hiv_rate	706
+12033	Florida	Escambia	hiv_rate	433
+12035	Florida	Flagler	hiv_rate	110
+12037	Florida	Franklin	hiv_rate	190
+12039	Florida	Gadsden	hiv_rate	672
+12041	Florida	Gilchrist	hiv_rate	136
+12043	Florida	Glades	hiv_rate	489
+12045	Florida	Gulf	hiv_rate	707
+12047	Florida	Hamilton	hiv_rate	939
+12049	Florida	Hardee	hiv_rate	411
+12051	Florida	Hendry	hiv_rate	422
+12053	Florida	Hernando	hiv_rate	126
+12055	Florida	Highlands	hiv_rate	225
+12057	Florida	Hillsborough	hiv_rate	566
+12059	Florida	Holmes	hiv_rate	384
+12061	Florida	Indian River	hiv_rate	252
+12063	Florida	Jackson	hiv_rate	696
+12065	Florida	Jefferson	hiv_rate	656
+12067	Florida	Lafayette	hiv_rate	457
+12069	Florida	Lake	hiv_rate	193
+12071	Florida	Lee	hiv_rate	311
+12073	Florida	Leon	hiv_rate	400
+12075	Florida	Levy	hiv_rate	160
+12077	Florida	Liberty	hiv_rate	470
+12079	Florida	Madison	hiv_rate	570
+12081	Florida	Manatee	hiv_rate	305
+12083	Florida	Marion	hiv_rate	286
+12085	Florida	Martin	hiv_rate	355
+12086	Florida	Miami-Dade	hiv_rate	1203
+12087	Florida	Monroe	hiv_rate	1021
+12089	Florida	Nassau	hiv_rate	150
+12091	Florida	Okaloosa	hiv_rate	220
+12093	Florida	Okeechobee	hiv_rate	387
+12095	Florida	Orange	hiv_rate	807
+12097	Florida	Osceola	hiv_rate	346
+12099	Florida	Palm Beach	hiv_rate	691
+12101	Florida	Pasco	hiv_rate	160
+12103	Florida	Pinellas	hiv_rate	423
+12105	Florida	Polk	hiv_rate	337
+12107	Florida	Putnam	hiv_rate	376
+12109	Florida	St. Johns	hiv_rate	168
+12111	Florida	St. Lucie	hiv_rate	656
+12113	Florida	Santa Rosa	hiv_rate	146
+12115	Florida	Sarasota	hiv_rate	235
+12117	Florida	Seminole	hiv_rate	257
+12119	Florida	Sumter	hiv_rate	258
+12121	Florida	Suwannee	hiv_rate	203
+12123	Florida	Taylor	hiv_rate	534
+12125	Florida	Union	hiv_rate	3749
+12127	Florida	Volusia	hiv_rate	308
+12129	Florida	Wakulla	hiv_rate	239
+12131	Florida	Walton	hiv_rate	148
+12133	Florida	Washington	hiv_rate	538
+13001	Georgia	Appling	hiv_rate	104
+13003	Georgia	Atkinson	hiv_rate	275
+13005	Georgia	Bacon	hiv_rate	421
+13007	Georgia	Baker	hiv_rate	1240
+13009	Georgia	Baldwin	hiv_rate	584
+13011	Georgia	Banks	hiv_rate	277
+13013	Georgia	Barrow	hiv_rate	118
+13015	Georgia	Bartow	hiv_rate	209
+13017	Georgia	Ben Hill	hiv_rate	348
+13019	Georgia	Berrien	hiv_rate	255
+13021	Georgia	Bibb	hiv_rate	791
+13023	Georgia	Bleckley	hiv_rate	416
+13025	Georgia	Brantley	hiv_rate	176
+13027	Georgia	Brooks	hiv_rate	838
+13029	Georgia	Bryan	hiv_rate	104
+13031	Georgia	Bulloch	hiv_rate	305
+13033	Georgia	Burke	hiv_rate	613
+13035	Georgia	Butts	hiv_rate	1228
+13037	Georgia	Calhoun	hiv_rate	1188
+13039	Georgia	Camden	hiv_rate	202
+13043	Georgia	Candler	hiv_rate	177
+13045	Georgia	Carroll	hiv_rate	222
+13047	Georgia	Catoosa	hiv_rate	114
+13049	Georgia	Charlton	hiv_rate	177
+13051	Georgia	Chatham	hiv_rate	681
+13053	Georgia	Chattahoochee	hiv_rate	81
+13055	Georgia	Chattooga	hiv_rate	247
+13057	Georgia	Cherokee	hiv_rate	146
+13059	Georgia	Clarke	hiv_rate	294
+13061	Georgia	Clay	hiv_rate	609
+13063	Georgia	Clayton	hiv_rate	660
+13065	Georgia	Clinch	hiv_rate	593
+13067	Georgia	Cobb	hiv_rate	294
+13069	Georgia	Coffee	hiv_rate	287
+13071	Georgia	Colquitt	hiv_rate	276
+13073	Georgia	Columbia	hiv_rate	206
+13075	Georgia	Cook	hiv_rate	198
+13077	Georgia	Coweta	hiv_rate	147
+13079	Georgia	Crawford	hiv_rate	437
+13081	Georgia	Crisp	hiv_rate	594
+13083	Georgia	Dade	hiv_rate	81
+13085	Georgia	Dawson	hiv_rate	90
+13087	Georgia	Decatur	hiv_rate	432
+13089	Georgia	DeKalb	hiv_rate	1009
+13091	Georgia	Dodge	hiv_rate	363
+13093	Georgia	Dooly	hiv_rate	628
+13095	Georgia	Dougherty	hiv_rate	684
+13097	Georgia	Douglas	hiv_rate	151
+13099	Georgia	Early	hiv_rate	228
+13101	Georgia	Echols	hiv_rate	
+13103	Georgia	Effingham	hiv_rate	79
+13105	Georgia	Elbert	hiv_rate	207
+13107	Georgia	Emanuel	hiv_rate	402
+13109	Georgia	Evans	hiv_rate	505
+13111	Georgia	Fannin	hiv_rate	82
+13113	Georgia	Fayette	hiv_rate	144
+13115	Georgia	Floyd	hiv_rate	202
+13117	Georgia	Forsyth	hiv_rate	45
+13119	Georgia	Franklin	hiv_rate	105
+13121	Georgia	Fulton	hiv_rate	1228
+13123	Georgia	Gilmer	hiv_rate	80
+13125	Georgia	Glascock	hiv_rate	233
+13127	Georgia	Glynn	hiv_rate	400
+13129	Georgia	Gordon	hiv_rate	79
+13131	Georgia	Grady	hiv_rate	382
+13133	Georgia	Greene	hiv_rate	198
+13135	Georgia	Gwinnett	hiv_rate	196
+13137	Georgia	Habersham	hiv_rate	71
+13139	Georgia	Hall	hiv_rate	92
+13141	Georgia	Hancock	hiv_rate	242
+13143	Georgia	Haralson	hiv_rate	104
+13145	Georgia	Harris	hiv_rate	164
+13147	Georgia	Hart	hiv_rate	154
+13149	Georgia	Heard	hiv_rate	121
+13151	Georgia	Henry	hiv_rate	106
+13153	Georgia	Houston	hiv_rate	159
+13155	Georgia	Irwin	hiv_rate	231
+13157	Georgia	Jackson	hiv_rate	87
+13159	Georgia	Jasper	hiv_rate	442
+13161	Georgia	Jeff Davis	hiv_rate	282
+13163	Georgia	Jefferson	hiv_rate	292
+13165	Georgia	Jenkins	hiv_rate	337
+13167	Georgia	Johnson	hiv_rate	410
+13169	Georgia	Jones	hiv_rate	62
+13171	Georgia	Lamar	hiv_rate	141
+13173	Georgia	Lanier	hiv_rate	142
+13175	Georgia	Laurens	hiv_rate	404
+13177	Georgia	Lee	hiv_rate	82
+13179	Georgia	Liberty	hiv_rate	249
+13181	Georgia	Lincoln	hiv_rate	179
+13183	Georgia	Long	hiv_rate	81
+13185	Georgia	Lowndes	hiv_rate	461
+13187	Georgia	Lumpkin	hiv_rate	75
+13189	Georgia	McDuffie	hiv_rate	165
+13191	Georgia	McIntosh	hiv_rate	372
+13193	Georgia	Macon	hiv_rate	548
+13195	Georgia	Madison	hiv_rate	47
+13197	Georgia	Marion	hiv_rate	257
+13199	Georgia	Meriwether	hiv_rate	213
+13201	Georgia	Miller	hiv_rate	163
+13205	Georgia	Mitchell	hiv_rate	446
+13207	Georgia	Monroe	hiv_rate	89
+13209	Georgia	Montgomery	hiv_rate	121
+13211	Georgia	Morgan	hiv_rate	145
+13213	Georgia	Murray	hiv_rate	65
+13215	Georgia	Muscogee	hiv_rate	515
+13217	Georgia	Newton	hiv_rate	183
+13219	Georgia	Oconee	hiv_rate	30
+13221	Georgia	Oglethorpe	hiv_rate	77
+13223	Georgia	Paulding	hiv_rate	38
+13225	Georgia	Peach	hiv_rate	228
+13227	Georgia	Pickens	hiv_rate	37
+13229	Georgia	Pierce	hiv_rate	109
+13231	Georgia	Pike	hiv_rate	84
+13233	Georgia	Polk	hiv_rate	65
+13235	Georgia	Pulaski	hiv_rate	205
+13237	Georgia	Putnam	hiv_rate	52
+13239	Georgia	Quitman	hiv_rate	452
+13241	Georgia	Rabun	hiv_rate	72
+13243	Georgia	Randolph	hiv_rate	282
+13245	Georgia	Richmond	hiv_rate	722
+13247	Georgia	Rockdale	hiv_rate	120
+13249	Georgia	Schley	hiv_rate	
+13251	Georgia	Screven	hiv_rate	225
+13253	Georgia	Seminole	hiv_rate	182
+13255	Georgia	Spalding	hiv_rate	149
+13257	Georgia	Stephens	hiv_rate	66
+13259	Georgia	Stewart	hiv_rate	329
+13261	Georgia	Sumter	hiv_rate	316
+13263	Georgia	Talbot	hiv_rate	306
+13265	Georgia	Taliaferro	hiv_rate	
+13267	Georgia	Tattnall	hiv_rate	252
+13269	Georgia	Taylor	hiv_rate	265
+13271	Georgia	Telfair	hiv_rate	368
+13273	Georgia	Terrell	hiv_rate	307
+13275	Georgia	Thomas	hiv_rate	262
+13277	Georgia	Tift	hiv_rate	300
+13279	Georgia	Toombs	hiv_rate	180
+13281	Georgia	Towns	hiv_rate	
+13283	Georgia	Treutlen	hiv_rate	205
+13285	Georgia	Troup	hiv_rate	178
+13287	Georgia	Turner	hiv_rate	331
+13289	Georgia	Twiggs	hiv_rate	129
+13291	Georgia	Union	hiv_rate	44
+13293	Georgia	Upson	hiv_rate	157
+13295	Georgia	Walker	hiv_rate	132
+13297	Georgia	Walton	hiv_rate	91
+13299	Georgia	Ware	hiv_rate	476
+13301	Georgia	Warren	hiv_rate	252
+13303	Georgia	Washington	hiv_rate	253
+13305	Georgia	Wayne	hiv_rate	274
+13307	Georgia	Webster	hiv_rate	
+13309	Georgia	Wheeler	hiv_rate	402
+13311	Georgia	White	hiv_rate	28
+13313	Georgia	Whitfield	hiv_rate	164
+13315	Georgia	Wilcox	hiv_rate	771
+13317	Georgia	Wilkes	hiv_rate	185
+13319	Georgia	Wilkinson	hiv_rate	175
+13321	Georgia	Worth	hiv_rate	146
+15001	Hawaii	Hawaii	hiv_rate	
+15003	Hawaii	Honolulu	hiv_rate	
+15005	Hawaii	Kalawao	hiv_rate	
+15007	Hawaii	Kauai	hiv_rate	
+15009	Hawaii	Maui	hiv_rate	
+16001	Idaho	Ada	hiv_rate	99
+16003	Idaho	Adams	hiv_rate	
+16005	Idaho	Bannock	hiv_rate	98
+16007	Idaho	Bear Lake	hiv_rate	
+16009	Idaho	Benewah	hiv_rate	
+16011	Idaho	Bingham	hiv_rate	66
+16013	Idaho	Blaine	hiv_rate	44
+16015	Idaho	Boise	hiv_rate	
+16017	Idaho	Bonner	hiv_rate	43
+16019	Idaho	Bonneville	hiv_rate	43
+16021	Idaho	Boundary	hiv_rate	
+16023	Idaho	Butte	hiv_rate	
+16025	Idaho	Camas	hiv_rate	
+16027	Idaho	Canyon	hiv_rate	59
+16029	Idaho	Caribou	hiv_rate	
+16031	Idaho	Cassia	hiv_rate	
+16033	Idaho	Clark	hiv_rate	
+16035	Idaho	Clearwater	hiv_rate	100
+16037	Idaho	Custer	hiv_rate	
+16039	Idaho	Elmore	hiv_rate	64
+16041	Idaho	Franklin	hiv_rate	
+16043	Idaho	Fremont	hiv_rate	
+16045	Idaho	Gem	hiv_rate	
+16047	Idaho	Gooding	hiv_rate	107
+16049	Idaho	Idaho	hiv_rate	46
+16051	Idaho	Jefferson	hiv_rate	
+16053	Idaho	Jerome	hiv_rate	
+16055	Idaho	Kootenai	hiv_rate	46
+16057	Idaho	Latah	hiv_rate	60
+16059	Idaho	Lemhi	hiv_rate	
+16061	Idaho	Lewis	hiv_rate	
+16063	Idaho	Lincoln	hiv_rate	
+16065	Idaho	Madison	hiv_rate	
+16067	Idaho	Minidoka	hiv_rate	
+16069	Idaho	Nez Perce	hiv_rate	45
+16071	Idaho	Oneida	hiv_rate	
+16073	Idaho	Owyhee	hiv_rate	
+16075	Idaho	Payette	hiv_rate	49
+16077	Idaho	Power	hiv_rate	
+16079	Idaho	Shoshone	hiv_rate	
+16081	Idaho	Teton	hiv_rate	
+16083	Idaho	Twin Falls	hiv_rate	56
+16085	Idaho	Valley	hiv_rate	
+16087	Idaho	Washington	hiv_rate	
+17001	Illinois	Adams	hiv_rate	55
+17003	Illinois	Alexander	hiv_rate	355
+17005	Illinois	Bond	hiv_rate	78
+17007	Illinois	Boone	hiv_rate	47
+17009	Illinois	Brown	hiv_rate	590
+17011	Illinois	Bureau	hiv_rate	48
+17013	Illinois	Calhoun	hiv_rate	
+17015	Illinois	Carroll	hiv_rate	
+17017	Illinois	Cass	hiv_rate	
+17019	Illinois	Champaign	hiv_rate	176
+17021	Illinois	Christian	hiv_rate	205
+17023	Illinois	Clark	hiv_rate	142
+17025	Illinois	Clay	hiv_rate	61
+17027	Illinois	Clinton	hiv_rate	266
+17029	Illinois	Coles	hiv_rate	57
+17031	Illinois	Cook	hiv_rate	548
+17033	Illinois	Crawford	hiv_rate	297
+17035	Illinois	Cumberland	hiv_rate	
+17037	Illinois	DeKalb	hiv_rate	59
+17039	Illinois	De Witt	hiv_rate	
+17041	Illinois	Douglas	hiv_rate	
+17043	Illinois	DuPage	hiv_rate	75
+17045	Illinois	Edgar	hiv_rate	52
+17047	Illinois	Edwards	hiv_rate	
+17049	Illinois	Effingham	hiv_rate	35
+17051	Illinois	Fayette	hiv_rate	437
+17053	Illinois	Ford	hiv_rate	
+17055	Illinois	Franklin	hiv_rate	66
+17057	Illinois	Fulton	hiv_rate	202
+17059	Illinois	Gallatin	hiv_rate	
+17061	Illinois	Greene	hiv_rate	53
+17063	Illinois	Grundy	hiv_rate	49
+17065	Illinois	Hamilton	hiv_rate	
+17067	Illinois	Hancock	hiv_rate	
+17069	Illinois	Hardin	hiv_rate	
+17071	Illinois	Henderson	hiv_rate	
+17073	Illinois	Henry	hiv_rate	73
+17075	Illinois	Iroquois	hiv_rate	31
+17077	Illinois	Jackson	hiv_rate	111
+17079	Illinois	Jasper	hiv_rate	
+17081	Illinois	Jefferson	hiv_rate	132
+17083	Illinois	Jersey	hiv_rate	59
+17085	Illinois	Jo Daviess	hiv_rate	37
+17087	Illinois	Johnson	hiv_rate	788
+17089	Illinois	Kane	hiv_rate	120
+17091	Illinois	Kankakee	hiv_rate	101
+17093	Illinois	Kendall	hiv_rate	30
+17095	Illinois	Knox	hiv_rate	177
+17097	Illinois	Lake	hiv_rate	107
+17099	Illinois	LaSalle	hiv_rate	69
+17101	Illinois	Lawrence	hiv_rate	155
+17103	Illinois	Lee	hiv_rate	235
+17105	Illinois	Livingston	hiv_rate	699
+17107	Illinois	Logan	hiv_rate	441
+17109	Illinois	McDonough	hiv_rate	28
+17111	Illinois	McHenry	hiv_rate	40
+17113	Illinois	McLean	hiv_rate	86
+17115	Illinois	Macon	hiv_rate	137
+17117	Illinois	Macoupin	hiv_rate	48
+17119	Illinois	Madison	hiv_rate	102
+17121	Illinois	Marion	hiv_rate	63
+17123	Illinois	Marshall	hiv_rate	
+17125	Illinois	Mason	hiv_rate	
+17127	Illinois	Massac	hiv_rate	111
+17129	Illinois	Menard	hiv_rate	75
+17131	Illinois	Mercer	hiv_rate	
+17133	Illinois	Monroe	hiv_rate	43
+17135	Illinois	Montgomery	hiv_rate	465
+17137	Illinois	Morgan	hiv_rate	196
+17139	Illinois	Moultrie	hiv_rate	
+17141	Illinois	Ogle	hiv_rate	40
+17143	Illinois	Peoria	hiv_rate	171
+17145	Illinois	Perry	hiv_rate	225
+17147	Illinois	Piatt	hiv_rate	43
+17149	Illinois	Pike	hiv_rate	
+17151	Illinois	Pope	hiv_rate	
+17153	Illinois	Pulaski	hiv_rate	
+17155	Illinois	Putnam	hiv_rate	
+17157	Illinois	Randolph	hiv_rate	280
+17159	Illinois	Richland	hiv_rate	
+17161	Illinois	Rock Island	hiv_rate	165
+17163	Illinois	St. Clair	hiv_rate	264
+17165	Illinois	Saline	hiv_rate	33
+17167	Illinois	Sangamon	hiv_rate	124
+17169	Illinois	Schuyler	hiv_rate	
+17171	Illinois	Scott	hiv_rate	
+17173	Illinois	Shelby	hiv_rate	
+17175	Illinois	Stark	hiv_rate	
+17177	Illinois	Stephenson	hiv_rate	80
+17179	Illinois	Tazewell	hiv_rate	49
+17181	Illinois	Union	hiv_rate	40
+17183	Illinois	Vermilion	hiv_rate	148
+17185	Illinois	Wabash	hiv_rate	49
+17187	Illinois	Warren	hiv_rate	35
+17189	Illinois	Washington	hiv_rate	
+17191	Illinois	Wayne	hiv_rate	37
+17193	Illinois	White	hiv_rate	
+17195	Illinois	Whiteside	hiv_rate	41
+17197	Illinois	Will	hiv_rate	103
+17199	Illinois	Williamson	hiv_rate	77
+17201	Illinois	Winnebago	hiv_rate	133
+17203	Illinois	Woodford	hiv_rate	37
+18001	Indiana	Adams	hiv_rate	
+18003	Indiana	Allen	hiv_rate	131
+18005	Indiana	Bartholomew	hiv_rate	79
+18007	Indiana	Benton	hiv_rate	81
+18009	Indiana	Blackford	hiv_rate	
+18011	Indiana	Boone	hiv_rate	51
+18013	Indiana	Brown	hiv_rate	61
+18015	Indiana	Carroll	hiv_rate	
+18017	Indiana	Cass	hiv_rate	85
+18019	Indiana	Clark	hiv_rate	149
+18021	Indiana	Clay	hiv_rate	76
+18023	Indiana	Clinton	hiv_rate	72
+18025	Indiana	Crawford	hiv_rate	
+18027	Indiana	Daviess	hiv_rate	37
+18029	Indiana	Dearborn	hiv_rate	35
+18031	Indiana	Decatur	hiv_rate	44
+18033	Indiana	DeKalb	hiv_rate	63
+18035	Indiana	Delaware	hiv_rate	101
+18037	Indiana	Dubois	hiv_rate	33
+18039	Indiana	Elkhart	hiv_rate	95
+18041	Indiana	Fayette	hiv_rate	30
+18043	Indiana	Floyd	hiv_rate	150
+18045	Indiana	Fountain	hiv_rate	
+18047	Indiana	Franklin	hiv_rate	
+18049	Indiana	Fulton	hiv_rate	31
+18051	Indiana	Gibson	hiv_rate	42
+18053	Indiana	Grant	hiv_rate	84
+18055	Indiana	Greene	hiv_rate	36
+18057	Indiana	Hamilton	hiv_rate	56
+18059	Indiana	Hancock	hiv_rate	58
+18061	Indiana	Harrison	hiv_rate	56
+18063	Indiana	Hendricks	hiv_rate	136
+18065	Indiana	Henry	hiv_rate	69
+18067	Indiana	Howard	hiv_rate	120
+18069	Indiana	Huntington	hiv_rate	44
+18071	Indiana	Jackson	hiv_rate	86
+18073	Indiana	Jasper	hiv_rate	59
+18075	Indiana	Jay	hiv_rate	60
+18077	Indiana	Jefferson	hiv_rate	82
+18079	Indiana	Jennings	hiv_rate	
+18081	Indiana	Johnson	hiv_rate	81
+18083	Indiana	Knox	hiv_rate	101
+18085	Indiana	Kosciusko	hiv_rate	56
+18087	Indiana	LaGrange	hiv_rate	24
+18089	Indiana	Lake	hiv_rate	229
+18091	Indiana	LaPorte	hiv_rate	187
+18093	Indiana	Lawrence	hiv_rate	49
+18095	Indiana	Madison	hiv_rate	149
+18097	Indiana	Marion	hiv_rate	465
+18099	Indiana	Marshall	hiv_rate	36
+18101	Indiana	Martin	hiv_rate	
+18103	Indiana	Miami	hiv_rate	66
+18105	Indiana	Monroe	hiv_rate	140
+18107	Indiana	Montgomery	hiv_rate	92
+18109	Indiana	Morgan	hiv_rate	73
+18111	Indiana	Newton	hiv_rate	
+18113	Indiana	Noble	hiv_rate	33
+18115	Indiana	Ohio	hiv_rate	
+18117	Indiana	Orange	hiv_rate	
+18119	Indiana	Owen	hiv_rate	67
+18121	Indiana	Parke	hiv_rate	133
+18123	Indiana	Perry	hiv_rate	68
+18125	Indiana	Pike	hiv_rate	
+18127	Indiana	Porter	hiv_rate	82
+18129	Indiana	Posey	hiv_rate	40
+18131	Indiana	Pulaski	hiv_rate	
+18133	Indiana	Putnam	hiv_rate	142
+18135	Indiana	Randolph	hiv_rate	45
+18137	Indiana	Ripley	hiv_rate	
+18139	Indiana	Rush	hiv_rate	
+18141	Indiana	St. Joseph	hiv_rate	192
+18143	Indiana	Scott	hiv_rate	64
+18145	Indiana	Shelby	hiv_rate	51
+18147	Indiana	Spencer	hiv_rate	42
+18149	Indiana	Starke	hiv_rate	70
+18151	Indiana	Steuben	hiv_rate	64
+18153	Indiana	Sullivan	hiv_rate	65
+18155	Indiana	Switzerland	hiv_rate	67
+18157	Indiana	Tippecanoe	hiv_rate	71
+18159	Indiana	Tipton	hiv_rate	
+18161	Indiana	Union	hiv_rate	
+18163	Indiana	Vanderburgh	hiv_rate	144
+18165	Indiana	Vermillion	hiv_rate	67
+18167	Indiana	Vigo	hiv_rate	211
+18169	Indiana	Wabash	hiv_rate	34
+18171	Indiana	Warren	hiv_rate	
+18173	Indiana	Warrick	hiv_rate	33
+18175	Indiana	Washington	hiv_rate	65
+18177	Indiana	Wayne	hiv_rate	107
+18179	Indiana	Wells	hiv_rate	26
+18181	Indiana	White	hiv_rate	67
+18183	Indiana	Whitley	hiv_rate	
+19001	Iowa	Adair	hiv_rate	
+19003	Iowa	Adams	hiv_rate	
+19005	Iowa	Allamakee	hiv_rate	
+19007	Iowa	Appanoose	hiv_rate	
+19009	Iowa	Audubon	hiv_rate	
+19011	Iowa	Benton	hiv_rate	
+19013	Iowa	Black Hawk	hiv_rate	67
+19015	Iowa	Boone	hiv_rate	55
+19017	Iowa	Bremer	hiv_rate	26
+19019	Iowa	Buchanan	hiv_rate	
+19021	Iowa	Buena Vista	hiv_rate	55
+19023	Iowa	Butler	hiv_rate	42
+19025	Iowa	Calhoun	hiv_rate	
+19027	Iowa	Carroll	hiv_rate	
+19029	Iowa	Cass	hiv_rate	
+19031	Iowa	Cedar	hiv_rate	
+19033	Iowa	Cerro Gordo	hiv_rate	40
+19035	Iowa	Cherokee	hiv_rate	
+19037	Iowa	Chickasaw	hiv_rate	
+19039	Iowa	Clarke	hiv_rate	
+19041	Iowa	Clay	hiv_rate	
+19043	Iowa	Clayton	hiv_rate	39
+19045	Iowa	Clinton	hiv_rate	54
+19047	Iowa	Crawford	hiv_rate	
+19049	Iowa	Dallas	hiv_rate	41
+19051	Iowa	Davis	hiv_rate	
+19053	Iowa	Decatur	hiv_rate	
+19055	Iowa	Delaware	hiv_rate	
+19057	Iowa	Des Moines	hiv_rate	57
+19059	Iowa	Dickinson	hiv_rate	
+19061	Iowa	Dubuque	hiv_rate	40
+19063	Iowa	Emmet	hiv_rate	
+19065	Iowa	Fayette	hiv_rate	30
+19067	Iowa	Floyd	hiv_rate	
+19069	Iowa	Franklin	hiv_rate	
+19071	Iowa	Fremont	hiv_rate	
+19073	Iowa	Greene	hiv_rate	
+19075	Iowa	Grundy	hiv_rate	
+19077	Iowa	Guthrie	hiv_rate	
+19079	Iowa	Hamilton	hiv_rate	48
+19081	Iowa	Hancock	hiv_rate	
+19083	Iowa	Hardin	hiv_rate	
+19085	Iowa	Harrison	hiv_rate	
+19087	Iowa	Henry	hiv_rate	60
+19089	Iowa	Howard	hiv_rate	
+19091	Iowa	Humboldt	hiv_rate	
+19093	Iowa	Ida	hiv_rate	
+19095	Iowa	Iowa	hiv_rate	39
+19097	Iowa	Jackson	hiv_rate	
+19099	Iowa	Jasper	hiv_rate	45
+19101	Iowa	Jefferson	hiv_rate	
+19103	Iowa	Johnson	hiv_rate	161
+19105	Iowa	Jones	hiv_rate	41
+19107	Iowa	Keokuk	hiv_rate	60
+19109	Iowa	Kossuth	hiv_rate	
+19111	Iowa	Lee	hiv_rate	40
+19113	Iowa	Linn	hiv_rate	61
+19115	Iowa	Louisa	hiv_rate	73
+19117	Iowa	Lucas	hiv_rate	
+19119	Iowa	Lyon	hiv_rate	
+19121	Iowa	Madison	hiv_rate	73
+19123	Iowa	Mahaska	hiv_rate	
+19125	Iowa	Marion	hiv_rate	36
+19127	Iowa	Marshall	hiv_rate	74
+19129	Iowa	Mills	hiv_rate	
+19131	Iowa	Mitchell	hiv_rate	
+19133	Iowa	Monona	hiv_rate	
+19135	Iowa	Monroe	hiv_rate	
+19137	Iowa	Montgomery	hiv_rate	
+19139	Iowa	Muscatine	hiv_rate	38
+19141	Iowa	O'Brien	hiv_rate	
+19143	Iowa	Osceola	hiv_rate	
+19145	Iowa	Page	hiv_rate	63
+19147	Iowa	Palo Alto	hiv_rate	
+19149	Iowa	Plymouth	hiv_rate	
+19151	Iowa	Pocahontas	hiv_rate	
+19153	Iowa	Polk	hiv_rate	132
+19155	Iowa	Pottawattamie	hiv_rate	91
+19157	Iowa	Poweshiek	hiv_rate	39
+19159	Iowa	Ringgold	hiv_rate	
+19161	Iowa	Sac	hiv_rate	
+19163	Iowa	Scott	hiv_rate	120
+19165	Iowa	Shelby	hiv_rate	
+19167	Iowa	Sioux	hiv_rate	
+19169	Iowa	Story	hiv_rate	42
+19171	Iowa	Tama	hiv_rate	
+19173	Iowa	Taylor	hiv_rate	
+19175	Iowa	Union	hiv_rate	
+19177	Iowa	Van Buren	hiv_rate	
+19179	Iowa	Wapello	hiv_rate	48
+19181	Iowa	Warren	hiv_rate	24
+19183	Iowa	Washington	hiv_rate	41
+19185	Iowa	Wayne	hiv_rate	
+19187	Iowa	Webster	hiv_rate	27
+19189	Iowa	Winnebago	hiv_rate	
+19191	Iowa	Winneshiek	hiv_rate	
+19193	Iowa	Woodbury	hiv_rate	72
+19195	Iowa	Worth	hiv_rate	
+19197	Iowa	Wright	hiv_rate	
+20001	Kansas	Allen	hiv_rate	
+20003	Kansas	Anderson	hiv_rate	
+20005	Kansas	Atchison	hiv_rate	67
+20007	Kansas	Barber	hiv_rate	
+20009	Kansas	Barton	hiv_rate	96
+20011	Kansas	Bourbon	hiv_rate	49
+20013	Kansas	Brown	hiv_rate	
+20015	Kansas	Butler	hiv_rate	65
+20017	Kansas	Chase	hiv_rate	218
+20019	Kansas	Chautauqua	hiv_rate	
+20021	Kansas	Cherokee	hiv_rate	81
+20023	Kansas	Cheyenne	hiv_rate	
+20025	Kansas	Clark	hiv_rate	
+20027	Kansas	Clay	hiv_rate	
+20029	Kansas	Cloud	hiv_rate	
+20031	Kansas	Coffey	hiv_rate	
+20033	Kansas	Comanche	hiv_rate	
+20035	Kansas	Cowley	hiv_rate	35
+20037	Kansas	Crawford	hiv_rate	68
+20039	Kansas	Decatur	hiv_rate	
+20041	Kansas	Dickinson	hiv_rate	
+20043	Kansas	Doniphan	hiv_rate	
+20045	Kansas	Douglas	hiv_rate	79
+20047	Kansas	Edwards	hiv_rate	
+20049	Kansas	Elk	hiv_rate	
+20051	Kansas	Ellis	hiv_rate	30
+20053	Kansas	Ellsworth	hiv_rate	
+20055	Kansas	Finney	hiv_rate	53
+20057	Kansas	Ford	hiv_rate	101
+20059	Kansas	Franklin	hiv_rate	60
+20061	Kansas	Geary	hiv_rate	142
+20063	Kansas	Gove	hiv_rate	
+20065	Kansas	Graham	hiv_rate	
+20067	Kansas	Grant	hiv_rate	
+20069	Kansas	Gray	hiv_rate	
+20071	Kansas	Greeley	hiv_rate	
+20073	Kansas	Greenwood	hiv_rate	
+20075	Kansas	Hamilton	hiv_rate	
+20077	Kansas	Harper	hiv_rate	
+20079	Kansas	Harvey	hiv_rate	39
+20081	Kansas	Haskell	hiv_rate	
+20083	Kansas	Hodgeman	hiv_rate	
+20085	Kansas	Jackson	hiv_rate	
+20087	Kansas	Jefferson	hiv_rate	72
+20089	Kansas	Jewell	hiv_rate	
+20091	Kansas	Johnson	hiv_rate	120
+20093	Kansas	Kearny	hiv_rate	
+20095	Kansas	Kingman	hiv_rate	
+20097	Kansas	Kiowa	hiv_rate	
+20099	Kansas	Labette	hiv_rate	53
+20101	Kansas	Lane	hiv_rate	
+20103	Kansas	Leavenworth	hiv_rate	180
+20105	Kansas	Lincoln	hiv_rate	
+20107	Kansas	Linn	hiv_rate	
+20109	Kansas	Logan	hiv_rate	
+20111	Kansas	Lyon	hiv_rate	28
+20113	Kansas	McPherson	hiv_rate	52
+20115	Kansas	Marion	hiv_rate	
+20117	Kansas	Marshall	hiv_rate	
+20119	Kansas	Meade	hiv_rate	
+20121	Kansas	Miami	hiv_rate	36
+20123	Kansas	Mitchell	hiv_rate	
+20125	Kansas	Montgomery	hiv_rate	52
+20127	Kansas	Morris	hiv_rate	
+20129	Kansas	Morton	hiv_rate	
+20131	Kansas	Nemaha	hiv_rate	
+20133	Kansas	Neosho	hiv_rate	
+20135	Kansas	Ness	hiv_rate	
+20137	Kansas	Norton	hiv_rate	109
+20139	Kansas	Osage	hiv_rate	66
+20141	Kansas	Osborne	hiv_rate	
+20143	Kansas	Ottawa	hiv_rate	
+20145	Kansas	Pawnee	hiv_rate	
+20147	Kansas	Phillips	hiv_rate	
+20149	Kansas	Pottawatomie	hiv_rate	46
+20151	Kansas	Pratt	hiv_rate	
+20153	Kansas	Rawlins	hiv_rate	
+20155	Kansas	Reno	hiv_rate	50
+20157	Kansas	Republic	hiv_rate	
+20159	Kansas	Rice	hiv_rate	
+20161	Kansas	Riley	hiv_rate	52
+20163	Kansas	Rooks	hiv_rate	
+20165	Kansas	Rush	hiv_rate	
+20167	Kansas	Russell	hiv_rate	
+20169	Kansas	Saline	hiv_rate	55
+20171	Kansas	Scott	hiv_rate	
+20173	Kansas	Sedgwick	hiv_rate	172
+20175	Kansas	Seward	hiv_rate	152
+20177	Kansas	Shawnee	hiv_rate	119
+20179	Kansas	Sheridan	hiv_rate	
+20181	Kansas	Sherman	hiv_rate	
+20183	Kansas	Smith	hiv_rate	
+20185	Kansas	Stafford	hiv_rate	
+20187	Kansas	Stanton	hiv_rate	
+20189	Kansas	Stevens	hiv_rate	
+20191	Kansas	Sumner	hiv_rate	72
+20193	Kansas	Thomas	hiv_rate	
+20195	Kansas	Trego	hiv_rate	
+20197	Kansas	Wabaunsee	hiv_rate	
+20199	Kansas	Wallace	hiv_rate	
+20201	Kansas	Washington	hiv_rate	
+20203	Kansas	Wichita	hiv_rate	
+20205	Kansas	Wilson	hiv_rate	
+20207	Kansas	Woodson	hiv_rate	
+20209	Kansas	Wyandotte	hiv_rate	375
+21001	Kentucky	Adair	hiv_rate	
+21003	Kentucky	Allen	hiv_rate	74
+21005	Kentucky	Anderson	hiv_rate	60
+21007	Kentucky	Ballard	hiv_rate	83
+21009	Kentucky	Barren	hiv_rate	52
+21011	Kentucky	Bath	hiv_rate	
+21013	Kentucky	Bell	hiv_rate	55
+21015	Kentucky	Boone	hiv_rate	80
+21017	Kentucky	Bourbon	hiv_rate	90
+21019	Kentucky	Boyd	hiv_rate	110
+21021	Kentucky	Boyle	hiv_rate	83
+21023	Kentucky	Bracken	hiv_rate	71
+21025	Kentucky	Breathitt	hiv_rate	
+21027	Kentucky	Breckinridge	hiv_rate	36
+21029	Kentucky	Bullitt	hiv_rate	64
+21031	Kentucky	Butler	hiv_rate	82
+21033	Kentucky	Caldwell	hiv_rate	130
+21035	Kentucky	Calloway	hiv_rate	70
+21037	Kentucky	Campbell	hiv_rate	120
+21039	Kentucky	Carlisle	hiv_rate	
+21041	Kentucky	Carroll	hiv_rate	67
+21043	Kentucky	Carter	hiv_rate	50
+21045	Kentucky	Casey	hiv_rate	36
+21047	Kentucky	Christian	hiv_rate	124
+21049	Kentucky	Clark	hiv_rate	96
+21051	Kentucky	Clay	hiv_rate	136
+21053	Kentucky	Clinton	hiv_rate	65
+21055	Kentucky	Crittenden	hiv_rate	76
+21057	Kentucky	Cumberland	hiv_rate	
+21059	Kentucky	Daviess	hiv_rate	89
+21061	Kentucky	Edmonson	hiv_rate	
+21063	Kentucky	Elliott	hiv_rate	
+21065	Kentucky	Estill	hiv_rate	
+21067	Kentucky	Fayette	hiv_rate	258
+21069	Kentucky	Fleming	hiv_rate	
+21071	Kentucky	Floyd	hiv_rate	37
+21073	Kentucky	Franklin	hiv_rate	107
+21075	Kentucky	Fulton	hiv_rate	
+21077	Kentucky	Gallatin	hiv_rate	
+21079	Kentucky	Garrard	hiv_rate	
+21081	Kentucky	Grant	hiv_rate	91
+21083	Kentucky	Graves	hiv_rate	87
+21085	Kentucky	Grayson	hiv_rate	37
+21087	Kentucky	Green	hiv_rate	53
+21089	Kentucky	Greenup	hiv_rate	34
+21091	Kentucky	Hancock	hiv_rate	
+21093	Kentucky	Hardin	hiv_rate	115
+21095	Kentucky	Harlan	hiv_rate	35
+21097	Kentucky	Harrison	hiv_rate	
+21099	Kentucky	Hart	hiv_rate	
+21101	Kentucky	Henderson	hiv_rate	104
+21103	Kentucky	Henry	hiv_rate	115
+21105	Kentucky	Hickman	hiv_rate	145
+21107	Kentucky	Hopkins	hiv_rate	44
+21109	Kentucky	Jackson	hiv_rate	
+21111	Kentucky	Jefferson	hiv_rate	366
+21113	Kentucky	Jessamine	hiv_rate	86
+21115	Kentucky	Johnson	hiv_rate	
+21117	Kentucky	Kenton	hiv_rate	189
+21119	Kentucky	Knott	hiv_rate	
+21121	Kentucky	Knox	hiv_rate	36
+21123	Kentucky	Larue	hiv_rate	
+21125	Kentucky	Laurel	hiv_rate	24
+21127	Kentucky	Lawrence	hiv_rate	
+21129	Kentucky	Lee	hiv_rate	79
+21131	Kentucky	Leslie	hiv_rate	
+21133	Kentucky	Letcher	hiv_rate	65
+21135	Kentucky	Lewis	hiv_rate	70
+21137	Kentucky	Lincoln	hiv_rate	28
+21139	Kentucky	Livingston	hiv_rate	109
+21141	Kentucky	Logan	hiv_rate	69
+21143	Kentucky	Lyon	hiv_rate	106
+21145	Kentucky	McCracken	hiv_rate	176
+21147	Kentucky	McCreary	hiv_rate	59
+21149	Kentucky	McLean	hiv_rate	
+21151	Kentucky	Madison	hiv_rate	74
+21153	Kentucky	Magoffin	hiv_rate	
+21155	Kentucky	Marion	hiv_rate	53
+21157	Kentucky	Marshall	hiv_rate	40
+21159	Kentucky	Martin	hiv_rate	65
+21161	Kentucky	Mason	hiv_rate	97
+21163	Kentucky	Meade	hiv_rate	85
+21165	Kentucky	Menifee	hiv_rate	143
+21167	Kentucky	Mercer	hiv_rate	91
+21169	Kentucky	Metcalfe	hiv_rate	
+21171	Kentucky	Monroe	hiv_rate	103
+21173	Kentucky	Montgomery	hiv_rate	66
+21175	Kentucky	Morgan	hiv_rate	93
+21177	Kentucky	Muhlenberg	hiv_rate	43
+21179	Kentucky	Nelson	hiv_rate	45
+21181	Kentucky	Nicholas	hiv_rate	
+21183	Kentucky	Ohio	hiv_rate	36
+21185	Kentucky	Oldham	hiv_rate	195
+21187	Kentucky	Owen	hiv_rate	
+21189	Kentucky	Owsley	hiv_rate	
+21191	Kentucky	Pendleton	hiv_rate	57
+21193	Kentucky	Perry	hiv_rate	28
+21195	Kentucky	Pike	hiv_rate	27
+21197	Kentucky	Powell	hiv_rate	72
+21199	Kentucky	Pulaski	hiv_rate	55
+21201	Kentucky	Robertson	hiv_rate	
+21203	Kentucky	Rockcastle	hiv_rate	
+21205	Kentucky	Rowan	hiv_rate	66
+21207	Kentucky	Russell	hiv_rate	34
+21209	Kentucky	Scott	hiv_rate	106
+21211	Kentucky	Shelby	hiv_rate	104
+21213	Kentucky	Simpson	hiv_rate	64
+21215	Kentucky	Spencer	hiv_rate	45
+21217	Kentucky	Taylor	hiv_rate	58
+21219	Kentucky	Todd	hiv_rate	133
+21221	Kentucky	Trigg	hiv_rate	59
+21223	Kentucky	Trimble	hiv_rate	
+21225	Kentucky	Union	hiv_rate	219
+21227	Kentucky	Warren	hiv_rate	95
+21229	Kentucky	Washington	hiv_rate	
+21231	Kentucky	Wayne	hiv_rate	
+21233	Kentucky	Webster	hiv_rate	
+21235	Kentucky	Whitley	hiv_rate	37
+21237	Kentucky	Wolfe	hiv_rate	
+21239	Kentucky	Woodford	hiv_rate	92
+22001	Louisiana	Acadia	hiv_rate	171
+22003	Louisiana	Allen	hiv_rate	536
+22005	Louisiana	Ascension	hiv_rate	175
+22007	Louisiana	Assumption	hiv_rate	84
+22009	Louisiana	Avoyelles	hiv_rate	365
+22011	Louisiana	Beauregard	hiv_rate	121
+22013	Louisiana	Bienville	hiv_rate	222
+22015	Louisiana	Bossier	hiv_rate	131
+22017	Louisiana	Caddo	hiv_rate	346
+22019	Louisiana	Calcasieu	hiv_rate	326
+22021	Louisiana	Caldwell	hiv_rate	121
+22023	Louisiana	Cameron	hiv_rate	
+22025	Louisiana	Catahoula	hiv_rate	219
+22027	Louisiana	Claiborne	hiv_rate	392
+22029	Louisiana	Concordia	hiv_rate	250
+22031	Louisiana	De Soto	hiv_rate	160
+22033	Louisiana	East Baton Rouge	hiv_rate	819
+22035	Louisiana	East Carroll	hiv_rate	605
+22037	Louisiana	East Feliciana	hiv_rate	482
+22039	Louisiana	Evangeline	hiv_rate	120
+22041	Louisiana	Franklin	hiv_rate	124
+22043	Louisiana	Grant	hiv_rate	138
+22045	Louisiana	Iberia	hiv_rate	126
+22047	Louisiana	Iberville	hiv_rate	720
+22049	Louisiana	Jackson	hiv_rate	137
+22051	Louisiana	Jefferson	hiv_rate	389
+22053	Louisiana	Jefferson Davis	hiv_rate	170
+22055	Louisiana	Lafayette	hiv_rate	277
+22057	Louisiana	Lafourche	hiv_rate	105
+22059	Louisiana	La Salle	hiv_rate	246
+22061	Louisiana	Lincoln	hiv_rate	158
+22063	Louisiana	Livingston	hiv_rate	119
+22065	Louisiana	Madison	hiv_rate	610
+22067	Louisiana	Morehouse	hiv_rate	242
+22069	Louisiana	Natchitoches	hiv_rate	231
+22071	Louisiana	Orleans	hiv_rate	1796
+22073	Louisiana	Ouachita	hiv_rate	355
+22075	Louisiana	Plaquemines	hiv_rate	192
+22077	Louisiana	Pointe Coupee	hiv_rate	206
+22079	Louisiana	Rapides	hiv_rate	334
+22081	Louisiana	Red River	hiv_rate	101
+22083	Louisiana	Richland	hiv_rate	209
+22085	Louisiana	Sabine	hiv_rate	89
+22087	Louisiana	St. Bernard	hiv_rate	329
+22089	Louisiana	St. Charles	hiv_rate	157
+22091	Louisiana	St. Helena	hiv_rate	182
+22093	Louisiana	St. James	hiv_rate	331
+22095	Louisiana	St. John the Baptist	hiv_rate	243
+22097	Louisiana	St. Landry	hiv_rate	251
+22099	Louisiana	St. Martin	hiv_rate	178
+22101	Louisiana	St. Mary	hiv_rate	154
+22103	Louisiana	St. Tammany	hiv_rate	134
+22105	Louisiana	Tangipahoa	hiv_rate	228
+22107	Louisiana	Tensas	hiv_rate	
+22109	Louisiana	Terrebonne	hiv_rate	164
+22111	Louisiana	Union	hiv_rate	129
+22113	Louisiana	Vermilion	hiv_rate	179
+22115	Louisiana	Vernon	hiv_rate	152
+22117	Louisiana	Washington	hiv_rate	386
+22119	Louisiana	Webster	hiv_rate	111
+22121	Louisiana	West Baton Rouge	hiv_rate	524
+22123	Louisiana	West Carroll	hiv_rate	192
+22125	Louisiana	West Feliciana	hiv_rate	849
+22127	Louisiana	Winn	hiv_rate	447
+23001	Maine	Androscoggin	hiv_rate	117
+23003	Maine	Aroostook	hiv_rate	40
+23005	Maine	Cumberland	hiv_rate	169
+23007	Maine	Franklin	hiv_rate	
+23009	Maine	Hancock	hiv_rate	74
+23011	Maine	Kennebec	hiv_rate	111
+23013	Maine	Knox	hiv_rate	58
+23015	Maine	Lincoln	hiv_rate	46
+23017	Maine	Oxford	hiv_rate	56
+23019	Maine	Penobscot	hiv_rate	62
+23021	Maine	Piscataquis	hiv_rate	
+23023	Maine	Sagadahoc	hiv_rate	33
+23025	Maine	Somerset	hiv_rate	55
+23027	Maine	Waldo	hiv_rate	72
+23029	Maine	Washington	hiv_rate	75
+23031	Maine	York	hiv_rate	95
+24001	Maryland	Allegany	hiv_rate	
+24003	Maryland	Anne Arundel	hiv_rate	
+24005	Maryland	Baltimore	hiv_rate	
+24009	Maryland	Calvert	hiv_rate	
+24011	Maryland	Caroline	hiv_rate	
+24013	Maryland	Carroll	hiv_rate	
+24015	Maryland	Cecil	hiv_rate	
+24017	Maryland	Charles	hiv_rate	
+24019	Maryland	Dorchester	hiv_rate	
+24021	Maryland	Frederick	hiv_rate	
+24023	Maryland	Garrett	hiv_rate	
+24025	Maryland	Harford	hiv_rate	
+24027	Maryland	Howard	hiv_rate	
+24029	Maryland	Kent	hiv_rate	
+24031	Maryland	Montgomery	hiv_rate	
+24033	Maryland	Prince George's	hiv_rate	
+24035	Maryland	Queen Anne's	hiv_rate	
+24037	Maryland	St. Mary's	hiv_rate	
+24039	Maryland	Somerset	hiv_rate	
+24041	Maryland	Talbot	hiv_rate	
+24043	Maryland	Washington	hiv_rate	
+24045	Maryland	Wicomico	hiv_rate	
+24047	Maryland	Worcester	hiv_rate	
+24510	Maryland	Baltimore City	hiv_rate	
+25001	Massachusetts	Barnstable	hiv_rate	
+25003	Massachusetts	Berkshire	hiv_rate	
+25005	Massachusetts	Bristol	hiv_rate	
+25007	Massachusetts	Dukes	hiv_rate	
+25009	Massachusetts	Essex	hiv_rate	
+25011	Massachusetts	Franklin	hiv_rate	
+25013	Massachusetts	Hampden	hiv_rate	
+25015	Massachusetts	Hampshire	hiv_rate	
+25017	Massachusetts	Middlesex	hiv_rate	
+25019	Massachusetts	Nantucket	hiv_rate	
+25021	Massachusetts	Norfolk	hiv_rate	
+25023	Massachusetts	Plymouth	hiv_rate	
+25025	Massachusetts	Suffolk	hiv_rate	
+25027	Massachusetts	Worcester	hiv_rate	
+26001	Michigan	Alcona	hiv_rate	
+26003	Michigan	Alger	hiv_rate	
+26005	Michigan	Allegan	hiv_rate	75
+26007	Michigan	Alpena	hiv_rate	
+26009	Michigan	Antrim	hiv_rate	28
+26011	Michigan	Arenac	hiv_rate	
+26013	Michigan	Baraga	hiv_rate	
+26015	Michigan	Barry	hiv_rate	44
+26017	Michigan	Bay	hiv_rate	61
+26019	Michigan	Benzie	hiv_rate	
+26021	Michigan	Berrien	hiv_rate	173
+26023	Michigan	Branch	hiv_rate	59
+26025	Michigan	Calhoun	hiv_rate	100
+26027	Michigan	Cass	hiv_rate	68
+26029	Michigan	Charlevoix	hiv_rate	50
+26031	Michigan	Cheboygan	hiv_rate	25
+26033	Michigan	Chippewa	hiv_rate	78
+26035	Michigan	Clare	hiv_rate	50
+26037	Michigan	Clinton	hiv_rate	54
+26039	Michigan	Crawford	hiv_rate	
+26041	Michigan	Delta	hiv_rate	51
+26043	Michigan	Dickinson	hiv_rate	
+26045	Michigan	Eaton	hiv_rate	55
+26047	Michigan	Emmet	hiv_rate	31
+26049	Michigan	Genesee	hiv_rate	136
+26051	Michigan	Gladwin	hiv_rate	36
+26053	Michigan	Gogebic	hiv_rate	
+26055	Michigan	Grand Traverse	hiv_rate	73
+26057	Michigan	Gratiot	hiv_rate	22
+26059	Michigan	Hillsdale	hiv_rate	18
+26061	Michigan	Houghton	hiv_rate	27
+26063	Michigan	Huron	hiv_rate	
+26065	Michigan	Ingham	hiv_rate	174
+26067	Michigan	Ionia	hiv_rate	52
+26069	Michigan	Iosco	hiv_rate	
+26071	Michigan	Iron	hiv_rate	
+26073	Michigan	Isabella	hiv_rate	55
+26075	Michigan	Jackson	hiv_rate	483
+26077	Michigan	Kalamazoo	hiv_rate	130
+26079	Michigan	Kalkaska	hiv_rate	42
+26081	Michigan	Kent	hiv_rate	151
+26083	Michigan	Keweenaw	hiv_rate	
+26085	Michigan	Lake	hiv_rate	81
+26087	Michigan	Lapeer	hiv_rate	41
+26089	Michigan	Leelanau	hiv_rate	
+26091	Michigan	Lenawee	hiv_rate	59
+26093	Michigan	Livingston	hiv_rate	26
+26095	Michigan	Luce	hiv_rate	
+26097	Michigan	Mackinac	hiv_rate	
+26099	Michigan	Macomb	hiv_rate	80
+26101	Michigan	Manistee	hiv_rate	26
+26103	Michigan	Marquette	hiv_rate	43
+26105	Michigan	Mason	hiv_rate	36
+26107	Michigan	Mecosta	hiv_rate	47
+26109	Michigan	Menominee	hiv_rate	29
+26111	Michigan	Midland	hiv_rate	32
+26113	Michigan	Missaukee	hiv_rate	40
+26115	Michigan	Monroe	hiv_rate	45
+26117	Michigan	Montcalm	hiv_rate	29
+26119	Michigan	Montmorency	hiv_rate	
+26121	Michigan	Muskegon	hiv_rate	81
+26123	Michigan	Newaygo	hiv_rate	26
+26125	Michigan	Oakland	hiv_rate	153
+26127	Michigan	Oceana	hiv_rate	40
+26129	Michigan	Ogemaw	hiv_rate	
+26131	Michigan	Ontonagon	hiv_rate	
+26133	Michigan	Osceola	hiv_rate	
+26135	Michigan	Oscoda	hiv_rate	
+26137	Michigan	Otsego	hiv_rate	47
+26139	Michigan	Ottawa	hiv_rate	46
+26141	Michigan	Presque Isle	hiv_rate	
+26143	Michigan	Roscommon	hiv_rate	48
+26145	Michigan	Saginaw	hiv_rate	113
+26147	Michigan	St. Clair	hiv_rate	59
+26149	Michigan	St. Joseph	hiv_rate	60
+26151	Michigan	Sanilac	hiv_rate	37
+26153	Michigan	Schoolcraft	hiv_rate	
+26155	Michigan	Shiawassee	hiv_rate	35
+26157	Michigan	Tuscola	hiv_rate	22
+26159	Michigan	Van Buren	hiv_rate	73
+26161	Michigan	Washtenaw	hiv_rate	159
+26163	Michigan	Wayne	hiv_rate	418
+26165	Michigan	Wexford	hiv_rate	31
+27001	Minnesota	Aitkin	hiv_rate	
+27003	Minnesota	Anoka	hiv_rate	75
+27005	Minnesota	Becker	hiv_rate	
+27007	Minnesota	Beltrami	hiv_rate	22
+27009	Minnesota	Benton	hiv_rate	27
+27011	Minnesota	Big Stone	hiv_rate	
+27013	Minnesota	Blue Earth	hiv_rate	46
+27015	Minnesota	Brown	hiv_rate	32
+27017	Minnesota	Carlton	hiv_rate	27
+27019	Minnesota	Carver	hiv_rate	45
+27021	Minnesota	Cass	hiv_rate	25
+27023	Minnesota	Chippewa	hiv_rate	49
+27025	Minnesota	Chisago	hiv_rate	36
+27027	Minnesota	Clay	hiv_rate	32
+27029	Minnesota	Clearwater	hiv_rate	
+27031	Minnesota	Cook	hiv_rate	
+27033	Minnesota	Cottonwood	hiv_rate	
+27035	Minnesota	Crow Wing	hiv_rate	17
+27037	Minnesota	Dakota	hiv_rate	78
+27039	Minnesota	Dodge	hiv_rate	
+27041	Minnesota	Douglas	hiv_rate	23
+27043	Minnesota	Faribault	hiv_rate	57
+27045	Minnesota	Fillmore	hiv_rate	
+27047	Minnesota	Freeborn	hiv_rate	23
+27049	Minnesota	Goodhue	hiv_rate	26
+27051	Minnesota	Grant	hiv_rate	
+27053	Minnesota	Hennepin	hiv_rate	379
+27055	Minnesota	Houston	hiv_rate	
+27057	Minnesota	Hubbard	hiv_rate	
+27059	Minnesota	Isanti	hiv_rate	49
+27061	Minnesota	Itasca	hiv_rate	15
+27063	Minnesota	Jackson	hiv_rate	
+27065	Minnesota	Kanabec	hiv_rate	
+27067	Minnesota	Kandiyohi	hiv_rate	41
+27069	Minnesota	Kittson	hiv_rate	
+27071	Minnesota	Koochiching	hiv_rate	
+27073	Minnesota	Lac qui Parle	hiv_rate	
+27075	Minnesota	Lake	hiv_rate	
+27077	Minnesota	Lake of the Woods	hiv_rate	
+27079	Minnesota	Le Sueur	hiv_rate	32
+27081	Minnesota	Lincoln	hiv_rate	
+27083	Minnesota	Lyon	hiv_rate	49
+27085	Minnesota	McLeod	hiv_rate	
+27087	Minnesota	Mahnomen	hiv_rate	
+27089	Minnesota	Marshall	hiv_rate	
+27091	Minnesota	Martin	hiv_rate	35
+27093	Minnesota	Meeker	hiv_rate	58
+27095	Minnesota	Mille Lacs	hiv_rate	42
+27097	Minnesota	Morrison	hiv_rate	21
+27099	Minnesota	Mower	hiv_rate	71
+27101	Minnesota	Murray	hiv_rate	
+27103	Minnesota	Nicollet	hiv_rate	33
+27105	Minnesota	Nobles	hiv_rate	100
+27107	Minnesota	Norman	hiv_rate	
+27109	Minnesota	Olmsted	hiv_rate	155
+27111	Minnesota	Otter Tail	hiv_rate	
+27113	Minnesota	Pennington	hiv_rate	
+27115	Minnesota	Pine	hiv_rate	88
+27117	Minnesota	Pipestone	hiv_rate	
+27119	Minnesota	Polk	hiv_rate	27
+27121	Minnesota	Pope	hiv_rate	
+27123	Minnesota	Ramsey	hiv_rate	253
+27125	Minnesota	Red Lake	hiv_rate	
+27127	Minnesota	Redwood	hiv_rate	
+27129	Minnesota	Renville	hiv_rate	
+27131	Minnesota	Rice	hiv_rate	60
+27133	Minnesota	Rock	hiv_rate	
+27135	Minnesota	Roseau	hiv_rate	
+27137	Minnesota	St. Louis	hiv_rate	53
+27139	Minnesota	Scott	hiv_rate	48
+27141	Minnesota	Sherburne	hiv_rate	60
+27143	Minnesota	Sibley	hiv_rate	
+27145	Minnesota	Stearns	hiv_rate	36
+27147	Minnesota	Steele	hiv_rate	
+27149	Minnesota	Stevens	hiv_rate	
+27151	Minnesota	Swift	hiv_rate	191
+27153	Minnesota	Todd	hiv_rate	
+27155	Minnesota	Traverse	hiv_rate	
+27157	Minnesota	Wabasha	hiv_rate	
+27159	Minnesota	Wadena	hiv_rate	
+27161	Minnesota	Waseca	hiv_rate	39
+27163	Minnesota	Washington	hiv_rate	59
+27165	Minnesota	Watonwan	hiv_rate	67
+27167	Minnesota	Wilkin	hiv_rate	
+27169	Minnesota	Winona	hiv_rate	
+27171	Minnesota	Wright	hiv_rate	23
+27173	Minnesota	Yellow Medicine	hiv_rate	
+28001	Mississippi	Adams	hiv_rate	340
+28003	Mississippi	Alcorn	hiv_rate	112
+28005	Mississippi	Amite	hiv_rate	162
+28007	Mississippi	Attala	hiv_rate	256
+28009	Mississippi	Benton	hiv_rate	245
+28011	Mississippi	Bolivar	hiv_rate	395
+28013	Mississippi	Calhoun	hiv_rate	79
+28015	Mississippi	Carroll	hiv_rate	291
+28017	Mississippi	Chickasaw	hiv_rate	127
+28019	Mississippi	Choctaw	hiv_rate	146
+28021	Mississippi	Claiborne	hiv_rate	212
+28023	Mississippi	Clarke	hiv_rate	328
+28025	Mississippi	Clay	hiv_rate	261
+28027	Mississippi	Coahoma	hiv_rate	709
+28029	Mississippi	Copiah	hiv_rate	389
+28031	Mississippi	Covington	hiv_rate	246
+28033	Mississippi	DeSoto	hiv_rate	161
+28035	Mississippi	Forrest	hiv_rate	472
+28037	Mississippi	Franklin	hiv_rate	150
+28039	Mississippi	George	hiv_rate	82
+28041	Mississippi	Greene	hiv_rate	65
+28043	Mississippi	Grenada	hiv_rate	446
+28045	Mississippi	Hancock	hiv_rate	177
+28047	Mississippi	Harrison	hiv_rate	372
+28049	Mississippi	Hinds	hiv_rate	1062
+28051	Mississippi	Holmes	hiv_rate	339
+28053	Mississippi	Humphreys	hiv_rate	289
+28055	Mississippi	Issaquena	hiv_rate	
+28057	Mississippi	Itawamba	hiv_rate	62
+28059	Mississippi	Jackson	hiv_rate	215
+28061	Mississippi	Jasper	hiv_rate	153
+28063	Mississippi	Jefferson	hiv_rate	399
+28065	Mississippi	Jefferson Davis	hiv_rate	380
+28067	Mississippi	Jones	hiv_rate	286
+28069	Mississippi	Kemper	hiv_rate	120
+28071	Mississippi	Lafayette	hiv_rate	190
+28073	Mississippi	Lamar	hiv_rate	52
+28075	Mississippi	Lauderdale	hiv_rate	366
+28077	Mississippi	Lawrence	hiv_rate	323
+28079	Mississippi	Leake	hiv_rate	164
+28081	Mississippi	Lee	hiv_rate	200
+28083	Mississippi	Leflore	hiv_rate	463
+28085	Mississippi	Lincoln	hiv_rate	149
+28087	Mississippi	Lowndes	hiv_rate	287
+28089	Mississippi	Madison	hiv_rate	267
+28091	Mississippi	Marion	hiv_rate	253
+28093	Mississippi	Marshall	hiv_rate	228
+28095	Mississippi	Monroe	hiv_rate	104
+28097	Mississippi	Montgomery	hiv_rate	309
+28099	Mississippi	Neshoba	hiv_rate	103
+28101	Mississippi	Newton	hiv_rate	230
+28103	Mississippi	Noxubee	hiv_rate	246
+28105	Mississippi	Oktibbeha	hiv_rate	142
+28107	Mississippi	Panola	hiv_rate	174
+28109	Mississippi	Pearl River	hiv_rate	187
+28111	Mississippi	Perry	hiv_rate	173
+28113	Mississippi	Pike	hiv_rate	316
+28115	Mississippi	Pontotoc	hiv_rate	81
+28117	Mississippi	Prentiss	hiv_rate	68
+28119	Mississippi	Quitman	hiv_rate	370
+28121	Mississippi	Rankin	hiv_rate	413
+28123	Mississippi	Scott	hiv_rate	330
+28125	Mississippi	Sharkey	hiv_rate	289
+28127	Mississippi	Simpson	hiv_rate	231
+28129	Mississippi	Smith	hiv_rate	102
+28131	Mississippi	Stone	hiv_rate	223
+28133	Mississippi	Sunflower	hiv_rate	720
+28135	Mississippi	Tallahatchie	hiv_rate	239
+28137	Mississippi	Tate	hiv_rate	107
+28139	Mississippi	Tippah	hiv_rate	
+28141	Mississippi	Tishomingo	hiv_rate	
+28143	Mississippi	Tunica	hiv_rate	751
+28145	Mississippi	Union	hiv_rate	124
+28147	Mississippi	Walthall	hiv_rate	207
+28149	Mississippi	Warren	hiv_rate	406
+28151	Mississippi	Washington	hiv_rate	427
+28153	Mississippi	Wayne	hiv_rate	131
+28155	Mississippi	Webster	hiv_rate	168
+28157	Mississippi	Wilkinson	hiv_rate	242
+28159	Mississippi	Winston	hiv_rate	137
+28161	Mississippi	Yalobusha	hiv_rate	205
+28163	Mississippi	Yazoo	hiv_rate	451
+29001	Missouri	Adair	hiv_rate	51
+29003	Missouri	Andrew	hiv_rate	43
+29005	Missouri	Atchison	hiv_rate	
+29007	Missouri	Audrain	hiv_rate	131
+29009	Missouri	Barry	hiv_rate	37
+29011	Missouri	Barton	hiv_rate	
+29013	Missouri	Bates	hiv_rate	71
+29015	Missouri	Benton	hiv_rate	61
+29017	Missouri	Bollinger	hiv_rate	
+29019	Missouri	Boone	hiv_rate	151
+29021	Missouri	Buchanan	hiv_rate	184
+29023	Missouri	Butler	hiv_rate	63
+29025	Missouri	Caldwell	hiv_rate	
+29027	Missouri	Callaway	hiv_rate	347
+29029	Missouri	Camden	hiv_rate	21
+29031	Missouri	Cape Girardeau	hiv_rate	74
+29033	Missouri	Carroll	hiv_rate	
+29035	Missouri	Carter	hiv_rate	
+29037	Missouri	Cass	hiv_rate	61
+29039	Missouri	Cedar	hiv_rate	52
+29041	Missouri	Chariton	hiv_rate	
+29043	Missouri	Christian	hiv_rate	53
+29045	Missouri	Clark	hiv_rate	87
+29047	Missouri	Clay	hiv_rate	118
+29049	Missouri	Clinton	hiv_rate	68
+29051	Missouri	Cole	hiv_rate	231
+29053	Missouri	Cooper	hiv_rate	135
+29055	Missouri	Crawford	hiv_rate	29
+29057	Missouri	Dade	hiv_rate	
+29059	Missouri	Dallas	hiv_rate	
+29061	Missouri	Daviess	hiv_rate	
+29063	Missouri	DeKalb	hiv_rate	449
+29065	Missouri	Dent	hiv_rate	
+29067	Missouri	Douglas	hiv_rate	44
+29069	Missouri	Dunklin	hiv_rate	119
+29071	Missouri	Franklin	hiv_rate	65
+29073	Missouri	Gasconade	hiv_rate	73
+29075	Missouri	Gentry	hiv_rate	
+29077	Missouri	Greene	hiv_rate	207
+29079	Missouri	Grundy	hiv_rate	
+29081	Missouri	Harrison	hiv_rate	
+29083	Missouri	Henry	hiv_rate	52
+29085	Missouri	Hickory	hiv_rate	
+29087	Missouri	Holt	hiv_rate	
+29089	Missouri	Howard	hiv_rate	84
+29091	Missouri	Howell	hiv_rate	63
+29093	Missouri	Iron	hiv_rate	
+29095	Missouri	Jackson	hiv_rate	491
+29097	Missouri	Jasper	hiv_rate	113
+29099	Missouri	Jefferson	hiv_rate	65
+29101	Missouri	Johnson	hiv_rate	66
+29103	Missouri	Knox	hiv_rate	
+29105	Missouri	Laclede	hiv_rate	47
+29107	Missouri	Lafayette	hiv_rate	68
+29109	Missouri	Lawrence	hiv_rate	49
+29111	Missouri	Lewis	hiv_rate	
+29113	Missouri	Lincoln	hiv_rate	46
+29115	Missouri	Linn	hiv_rate	84
+29117	Missouri	Livingston	hiv_rate	
+29119	Missouri	McDonald	hiv_rate	64
+29121	Missouri	Macon	hiv_rate	40
+29123	Missouri	Madison	hiv_rate	
+29125	Missouri	Maries	hiv_rate	
+29127	Missouri	Marion	hiv_rate	42
+29129	Missouri	Mercer	hiv_rate	
+29131	Missouri	Miller	hiv_rate	58
+29133	Missouri	Mississippi	hiv_rate	284
+29135	Missouri	Moniteau	hiv_rate	89
+29137	Missouri	Monroe	hiv_rate	
+29139	Missouri	Montgomery	hiv_rate	80
+29141	Missouri	Morgan	hiv_rate	35
+29143	Missouri	New Madrid	hiv_rate	71
+29145	Missouri	Newton	hiv_rate	71
+29147	Missouri	Nodaway	hiv_rate	63
+29149	Missouri	Oregon	hiv_rate	58
+29151	Missouri	Osage	hiv_rate	
+29153	Missouri	Ozark	hiv_rate	127
+29155	Missouri	Pemiscot	hiv_rate	173
+29157	Missouri	Perry	hiv_rate	
+29159	Missouri	Pettis	hiv_rate	64
+29161	Missouri	Phelps	hiv_rate	47
+29163	Missouri	Pike	hiv_rate	71
+29165	Missouri	Platte	hiv_rate	124
+29167	Missouri	Polk	hiv_rate	23
+29169	Missouri	Pulaski	hiv_rate	67
+29171	Missouri	Putnam	hiv_rate	
+29173	Missouri	Ralls	hiv_rate	
+29175	Missouri	Randolph	hiv_rate	127
+29177	Missouri	Ray	hiv_rate	45
+29179	Missouri	Reynolds	hiv_rate	
+29181	Missouri	Ripley	hiv_rate	
+29183	Missouri	St. Charles	hiv_rate	67
+29185	Missouri	St. Clair	hiv_rate	
+29186	Missouri	Ste. Genevieve	hiv_rate	68
+29187	Missouri	St. Francois	hiv_rate	186
+29189	Missouri	St. Louis	hiv_rate	210
+29195	Missouri	Saline	hiv_rate	60
+29197	Missouri	Schuyler	hiv_rate	
+29199	Missouri	Scotland	hiv_rate	
+29201	Missouri	Scott	hiv_rate	83
+29203	Missouri	Shannon	hiv_rate	86
+29205	Missouri	Shelby	hiv_rate	
+29207	Missouri	Stoddard	hiv_rate	
+29209	Missouri	Stone	hiv_rate	40
+29211	Missouri	Sullivan	hiv_rate	
+29213	Missouri	Taney	hiv_rate	94
+29215	Missouri	Texas	hiv_rate	53
+29217	Missouri	Vernon	hiv_rate	80
+29219	Missouri	Warren	hiv_rate	26
+29221	Missouri	Washington	hiv_rate	118
+29223	Missouri	Wayne	hiv_rate	
+29225	Missouri	Webster	hiv_rate	71
+29227	Missouri	Worth	hiv_rate	
+29229	Missouri	Wright	hiv_rate	41
+29510	Missouri	St. Louis City	hiv_rate	1004
+30001	Montana	Beaverhead	hiv_rate	
+30003	Montana	Big Horn	hiv_rate	81
+30005	Montana	Blaine	hiv_rate	
+30007	Montana	Broadwater	hiv_rate	
+30009	Montana	Carbon	hiv_rate	
+30011	Montana	Carter	hiv_rate	
+30013	Montana	Cascade	hiv_rate	36
+30015	Montana	Chouteau	hiv_rate	
+30017	Montana	Custer	hiv_rate	
+30019	Montana	Daniels	hiv_rate	
+30021	Montana	Dawson	hiv_rate	
+30023	Montana	Deer Lodge	hiv_rate	
+30025	Montana	Fallon	hiv_rate	
+30027	Montana	Fergus	hiv_rate	
+30029	Montana	Flathead	hiv_rate	26
+30031	Montana	Gallatin	hiv_rate	20
+30033	Montana	Garfield	hiv_rate	
+30035	Montana	Glacier	hiv_rate	
+30037	Montana	Golden Valley	hiv_rate	
+30039	Montana	Granite	hiv_rate	
+30041	Montana	Hill	hiv_rate	
+30043	Montana	Jefferson	hiv_rate	62
+30045	Montana	Judith Basin	hiv_rate	
+30047	Montana	Lake	hiv_rate	26
+30049	Montana	Lewis and Clark	hiv_rate	36
+30051	Montana	Liberty	hiv_rate	
+30053	Montana	Lincoln	hiv_rate	44
+30055	Montana	McCone	hiv_rate	
+30057	Montana	Madison	hiv_rate	
+30059	Montana	Meagher	hiv_rate	
+30061	Montana	Mineral	hiv_rate	
+30063	Montana	Missoula	hiv_rate	58
+30065	Montana	Musselshell	hiv_rate	
+30067	Montana	Park	hiv_rate	
+30069	Montana	Petroleum	hiv_rate	
+30071	Montana	Phillips	hiv_rate	
+30073	Montana	Pondera	hiv_rate	
+30075	Montana	Powder River	hiv_rate	
+30077	Montana	Powell	hiv_rate	93
+30079	Montana	Prairie	hiv_rate	
+30081	Montana	Ravalli	hiv_rate	
+30083	Montana	Richland	hiv_rate	
+30085	Montana	Roosevelt	hiv_rate	
+30087	Montana	Rosebud	hiv_rate	
+30089	Montana	Sanders	hiv_rate	
+30091	Montana	Sheridan	hiv_rate	
+30093	Montana	Silver Bow	hiv_rate	57
+30095	Montana	Stillwater	hiv_rate	
+30097	Montana	Sweet Grass	hiv_rate	
+30099	Montana	Teton	hiv_rate	
+30101	Montana	Toole	hiv_rate	
+30103	Montana	Treasure	hiv_rate	
+30105	Montana	Valley	hiv_rate	
+30107	Montana	Wheatland	hiv_rate	
+30109	Montana	Wibaux	hiv_rate	
+30111	Montana	Yellowstone	hiv_rate	93
+31001	Nebraska	Adams	hiv_rate	54
+31003	Nebraska	Antelope	hiv_rate	
+31005	Nebraska	Arthur	hiv_rate	
+31007	Nebraska	Banner	hiv_rate	
+31009	Nebraska	Blaine	hiv_rate	
+31011	Nebraska	Boone	hiv_rate	
+31013	Nebraska	Box Butte	hiv_rate	
+31015	Nebraska	Boyd	hiv_rate	
+31017	Nebraska	Brown	hiv_rate	
+31019	Nebraska	Buffalo	hiv_rate	43
+31021	Nebraska	Burt	hiv_rate	
+31023	Nebraska	Butler	hiv_rate	
+31025	Nebraska	Cass	hiv_rate	62
+31027	Nebraska	Cedar	hiv_rate	
+31029	Nebraska	Chase	hiv_rate	
+31031	Nebraska	Cherry	hiv_rate	
+31033	Nebraska	Cheyenne	hiv_rate	88
+31035	Nebraska	Clay	hiv_rate	
+31037	Nebraska	Colfax	hiv_rate	
+31039	Nebraska	Cuming	hiv_rate	
+31041	Nebraska	Custer	hiv_rate	
+31043	Nebraska	Dakota	hiv_rate	77
+31045	Nebraska	Dawes	hiv_rate	
+31047	Nebraska	Dawson	hiv_rate	91
+31049	Nebraska	Deuel	hiv_rate	
+31051	Nebraska	Dixon	hiv_rate	
+31053	Nebraska	Dodge	hiv_rate	48
+31055	Nebraska	Douglas	hiv_rate	233
+31057	Nebraska	Dundy	hiv_rate	
+31059	Nebraska	Fillmore	hiv_rate	
+31061	Nebraska	Franklin	hiv_rate	
+31063	Nebraska	Frontier	hiv_rate	
+31065	Nebraska	Furnas	hiv_rate	
+31067	Nebraska	Gage	hiv_rate	
+31069	Nebraska	Garden	hiv_rate	
+31071	Nebraska	Garfield	hiv_rate	
+31073	Nebraska	Gosper	hiv_rate	
+31075	Nebraska	Grant	hiv_rate	
+31077	Nebraska	Greeley	hiv_rate	
+31079	Nebraska	Hall	hiv_rate	102
+31081	Nebraska	Hamilton	hiv_rate	
+31083	Nebraska	Harlan	hiv_rate	
+31085	Nebraska	Hayes	hiv_rate	
+31087	Nebraska	Hitchcock	hiv_rate	
+31089	Nebraska	Holt	hiv_rate	
+31091	Nebraska	Hooker	hiv_rate	
+31093	Nebraska	Howard	hiv_rate	
+31095	Nebraska	Jefferson	hiv_rate	
+31097	Nebraska	Johnson	hiv_rate	
+31099	Nebraska	Kearney	hiv_rate	
+31101	Nebraska	Keith	hiv_rate	
+31103	Nebraska	Keya Paha	hiv_rate	
+31105	Nebraska	Kimball	hiv_rate	
+31107	Nebraska	Knox	hiv_rate	
+31109	Nebraska	Lancaster	hiv_rate	124
+31111	Nebraska	Lincoln	hiv_rate	24
+31113	Nebraska	Logan	hiv_rate	
+31115	Nebraska	Loup	hiv_rate	
+31117	Nebraska	McPherson	hiv_rate	
+31119	Nebraska	Madison	hiv_rate	73
+31121	Nebraska	Merrick	hiv_rate	
+31123	Nebraska	Morrill	hiv_rate	
+31125	Nebraska	Nance	hiv_rate	
+31127	Nebraska	Nemaha	hiv_rate	
+31129	Nebraska	Nuckolls	hiv_rate	
+31131	Nebraska	Otoe	hiv_rate	
+31133	Nebraska	Pawnee	hiv_rate	
+31135	Nebraska	Perkins	hiv_rate	
+31137	Nebraska	Phelps	hiv_rate	
+31139	Nebraska	Pierce	hiv_rate	
+31141	Nebraska	Platte	hiv_rate	38
+31143	Nebraska	Polk	hiv_rate	
+31145	Nebraska	Red Willow	hiv_rate	
+31147	Nebraska	Richardson	hiv_rate	
+31149	Nebraska	Rock	hiv_rate	
+31151	Nebraska	Saline	hiv_rate	44
+31153	Nebraska	Sarpy	hiv_rate	73
+31155	Nebraska	Saunders	hiv_rate	
+31157	Nebraska	Scotts Bluff	hiv_rate	33
+31159	Nebraska	Seward	hiv_rate	
+31161	Nebraska	Sheridan	hiv_rate	
+31163	Nebraska	Sherman	hiv_rate	
+31165	Nebraska	Sioux	hiv_rate	
+31167	Nebraska	Stanton	hiv_rate	
+31169	Nebraska	Thayer	hiv_rate	
+31171	Nebraska	Thomas	hiv_rate	
+31173	Nebraska	Thurston	hiv_rate	
+31175	Nebraska	Valley	hiv_rate	
+31177	Nebraska	Washington	hiv_rate	
+31179	Nebraska	Wayne	hiv_rate	
+31181	Nebraska	Webster	hiv_rate	
+31183	Nebraska	Wheeler	hiv_rate	
+31185	Nebraska	York	hiv_rate	67
+32001	Nevada	Churchill	hiv_rate	85
+32003	Nevada	Clark	hiv_rate	357
+32005	Nevada	Douglas	hiv_rate	99
+32007	Nevada	Elko	hiv_rate	53
+32009	Nevada	Esmeralda	hiv_rate	
+32011	Nevada	Eureka	hiv_rate	
+32013	Nevada	Humboldt	hiv_rate	
+32015	Nevada	Lander	hiv_rate	
+32017	Nevada	Lincoln	hiv_rate	
+32019	Nevada	Lyon	hiv_rate	70
+32021	Nevada	Mineral	hiv_rate	
+32023	Nevada	Nye	hiv_rate	102
+32027	Nevada	Pershing	hiv_rate	
+32029	Nevada	Storey	hiv_rate	135
+32031	Nevada	Washoe	hiv_rate	242
+32033	Nevada	White Pine	hiv_rate	123
+32510	Nevada	Carson City	hiv_rate	334
+33001	New Hampshire	Belknap	hiv_rate	63
+33003	New Hampshire	Carroll	hiv_rate	43
+33005	New Hampshire	Cheshire	hiv_rate	62
+33007	New Hampshire	Coos	hiv_rate	51
+33009	New Hampshire	Grafton	hiv_rate	75
+33011	New Hampshire	Hillsborough	hiv_rate	138
+33013	New Hampshire	Merrimack	hiv_rate	100
+33015	New Hampshire	Rockingham	hiv_rate	75
+33017	New Hampshire	Strafford	hiv_rate	75
+33019	New Hampshire	Sullivan	hiv_rate	67
+34001	New Jersey	Atlantic	hiv_rate	662
+34003	New Jersey	Bergen	hiv_rate	231
+34005	New Jersey	Burlington	hiv_rate	221
+34007	New Jersey	Camden	hiv_rate	401
+34009	New Jersey	Cape May	hiv_rate	240
+34011	New Jersey	Cumberland	hiv_rate	667
+34013	New Jersey	Essex	hiv_rate	1585
+34015	New Jersey	Gloucester	hiv_rate	162
+34017	New Jersey	Hudson	hiv_rate	1022
+34019	New Jersey	Hunterdon	hiv_rate	269
+34021	New Jersey	Mercer	hiv_rate	502
+34023	New Jersey	Middlesex	hiv_rate	298
+34025	New Jersey	Monmouth	hiv_rate	327
+34027	New Jersey	Morris	hiv_rate	187
+34029	New Jersey	Ocean	hiv_rate	121
+34031	New Jersey	Passaic	hiv_rate	654
+34033	New Jersey	Salem	hiv_rate	274
+34035	New Jersey	Somerset	hiv_rate	201
+34037	New Jersey	Sussex	hiv_rate	116
+34039	New Jersey	Union	hiv_rate	637
+34041	New Jersey	Warren	hiv_rate	120
+35001	New Mexico	Bernalillo	hiv_rate	190
+35003	New Mexico	Catron	hiv_rate	
+35005	New Mexico	Chaves	hiv_rate	75
+35006	New Mexico	Cibola	hiv_rate	213
+35007	New Mexico	Colfax	hiv_rate	62
+35009	New Mexico	Curry	hiv_rate	89
+35011	New Mexico	De Baca	hiv_rate	
+35013	New Mexico	Dona Ana	hiv_rate	151
+35015	New Mexico	Eddy	hiv_rate	35
+35017	New Mexico	Grant	hiv_rate	79
+35019	New Mexico	Guadalupe	hiv_rate	
+35021	New Mexico	Harding	hiv_rate	
+35023	New Mexico	Hidalgo	hiv_rate	
+35025	New Mexico	Lea	hiv_rate	55
+35027	New Mexico	Lincoln	hiv_rate	70
+35028	New Mexico	Los Alamos	hiv_rate	59
+35029	New Mexico	Luna	hiv_rate	69
+35031	New Mexico	McKinley	hiv_rate	134
+35033	New Mexico	Mora	hiv_rate	
+35035	New Mexico	Otero	hiv_rate	73
+35037	New Mexico	Quay	hiv_rate	
+35039	New Mexico	Rio Arriba	hiv_rate	152
+35041	New Mexico	Roosevelt	hiv_rate	
+35043	New Mexico	Sandoval	hiv_rate	67
+35045	New Mexico	San Juan	hiv_rate	59
+35047	New Mexico	San Miguel	hiv_rate	116
+35049	New Mexico	Santa Fe	hiv_rate	258
+35051	New Mexico	Sierra	hiv_rate	112
+35053	New Mexico	Socorro	hiv_rate	60
+35055	New Mexico	Taos	hiv_rate	134
+35057	New Mexico	Torrance	hiv_rate	237
+35059	New Mexico	Union	hiv_rate	
+35061	New Mexico	Valencia	hiv_rate	104
+36001	New York	Albany	hiv_rate	442
+36003	New York	Allegany	hiv_rate	70
+36005	New York	Bronx	hiv_rate	2044
+36007	New York	Broome	hiv_rate	220
+36009	New York	Cattaraugus	hiv_rate	144
+36011	New York	Cayuga	hiv_rate	341
+36013	New York	Chautauqua	hiv_rate	222
+36015	New York	Chemung	hiv_rate	311
+36017	New York	Chenango	hiv_rate	112
+36019	New York	Clinton	hiv_rate	422
+36021	New York	Columbia	hiv_rate	275
+36023	New York	Cortland	hiv_rate	63
+36025	New York	Delaware	hiv_rate	138
+36027	New York	Dutchess	hiv_rate	496
+36029	New York	Erie	hiv_rate	267
+36031	New York	Essex	hiv_rate	411
+36033	New York	Franklin	hiv_rate	902
+36035	New York	Fulton	hiv_rate	135
+36037	New York	Genesee	hiv_rate	142
+36039	New York	Greene	hiv_rate	448
+36041	New York	Hamilton	hiv_rate	
+36043	New York	Herkimer	hiv_rate	71
+36045	New York	Jefferson	hiv_rate	371
+36047	New York	Kings	hiv_rate	1259
+36049	New York	Lewis	hiv_rate	287
+36051	New York	Livingston	hiv_rate	357
+36053	New York	Madison	hiv_rate	80
+36055	New York	Monroe	hiv_rate	361
+36057	New York	Montgomery	hiv_rate	183
+36059	New York	Nassau	hiv_rate	260
+36061	New York	New York	hiv_rate	2308
+36063	New York	Niagara	hiv_rate	101
+36065	New York	Oneida	hiv_rate	400
+36067	New York	Onondaga	hiv_rate	251
+36069	New York	Ontario	hiv_rate	104
+36071	New York	Orange	hiv_rate	334
+36073	New York	Orleans	hiv_rate	1089
+36075	New York	Oswego	hiv_rate	92
+36077	New York	Otsego	hiv_rate	109
+36079	New York	Putnam	hiv_rate	144
+36081	New York	Queens	hiv_rate	814
+36083	New York	Rensselaer	hiv_rate	186
+36085	New York	Richmond	hiv_rate	458
+36087	New York	Rockland	hiv_rate	300
+36089	New York	St. Lawrence	hiv_rate	330
+36091	New York	Saratoga	hiv_rate	140
+36093	New York	Schenectady	hiv_rate	314
+36095	New York	Schoharie	hiv_rate	151
+36097	New York	Schuyler	hiv_rate	
+36099	New York	Seneca	hiv_rate	504
+36101	New York	Steuben	hiv_rate	98
+36103	New York	Suffolk	hiv_rate	237
+36105	New York	Sullivan	hiv_rate	647
+36107	New York	Tioga	hiv_rate	79
+36109	New York	Tompkins	hiv_rate	158
+36111	New York	Ulster	hiv_rate	483
+36113	New York	Warren	hiv_rate	115
+36115	New York	Washington	hiv_rate	344
+36117	New York	Wayne	hiv_rate	183
+36119	New York	Westchester	hiv_rate	479
+36121	New York	Wyoming	hiv_rate	637
+36123	New York	Yates	hiv_rate	62
+37001	North Carolina	Alamance	hiv_rate	241
+37003	North Carolina	Alexander	hiv_rate	96
+37005	North Carolina	Alleghany	hiv_rate	
+37007	North Carolina	Anson	hiv_rate	411
+37009	North Carolina	Ashe	hiv_rate	39
+37011	North Carolina	Avery	hiv_rate	64
+37013	North Carolina	Beaufort	hiv_rate	273
+37015	North Carolina	Bertie	hiv_rate	414
+37017	North Carolina	Bladen	hiv_rate	306
+37019	North Carolina	Brunswick	hiv_rate	135
+37021	North Carolina	Buncombe	hiv_rate	229
+37023	North Carolina	Burke	hiv_rate	104
+37025	North Carolina	Cabarrus	hiv_rate	163
+37027	North Carolina	Caldwell	hiv_rate	71
+37029	North Carolina	Camden	hiv_rate	151
+37031	North Carolina	Carteret	hiv_rate	93
+37033	North Carolina	Caswell	hiv_rate	222
+37035	North Carolina	Catawba	hiv_rate	129
+37037	North Carolina	Chatham	hiv_rate	173
+37039	North Carolina	Cherokee	hiv_rate	59
+37041	North Carolina	Chowan	hiv_rate	203
+37043	North Carolina	Clay	hiv_rate	72
+37045	North Carolina	Cleveland	hiv_rate	203
+37047	North Carolina	Columbus	hiv_rate	367
+37049	North Carolina	Craven	hiv_rate	342
+37051	North Carolina	Cumberland	hiv_rate	435
+37053	North Carolina	Currituck	hiv_rate	118
+37055	North Carolina	Dare	hiv_rate	134
+37057	North Carolina	Davidson	hiv_rate	159
+37059	North Carolina	Davie	hiv_rate	74
+37061	North Carolina	Duplin	hiv_rate	362
+37063	North Carolina	Durham	hiv_rate	624
+37065	North Carolina	Edgecombe	hiv_rate	694
+37067	North Carolina	Forsyth	hiv_rate	404
+37069	North Carolina	Franklin	hiv_rate	212
+37071	North Carolina	Gaston	hiv_rate	271
+37073	North Carolina	Gates	hiv_rate	137
+37075	North Carolina	Graham	hiv_rate	
+37077	North Carolina	Granville	hiv_rate	363
+37079	North Carolina	Greene	hiv_rate	370
+37081	North Carolina	Guilford	hiv_rate	453
+37083	North Carolina	Halifax	hiv_rate	319
+37085	North Carolina	Harnett	hiv_rate	196
+37087	North Carolina	Haywood	hiv_rate	99
+37089	North Carolina	Henderson	hiv_rate	84
+37091	North Carolina	Hertford	hiv_rate	626
+37093	North Carolina	Hoke	hiv_rate	361
+37095	North Carolina	Hyde	hiv_rate	286
+37097	North Carolina	Iredell	hiv_rate	89
+37099	North Carolina	Jackson	hiv_rate	76
+37101	North Carolina	Johnston	hiv_rate	233
+37103	North Carolina	Jones	hiv_rate	276
+37105	North Carolina	Lee	hiv_rate	286
+37107	North Carolina	Lenoir	hiv_rate	519
+37109	North Carolina	Lincoln	hiv_rate	70
+37111	North Carolina	McDowell	hiv_rate	81
+37113	North Carolina	Macon	hiv_rate	109
+37115	North Carolina	Madison	hiv_rate	74
+37117	North Carolina	Martin	hiv_rate	349
+37119	North Carolina	Mecklenburg	hiv_rate	579
+37121	North Carolina	Mitchell	hiv_rate	114
+37123	North Carolina	Montgomery	hiv_rate	168
+37125	North Carolina	Moore	hiv_rate	177
+37127	North Carolina	Nash	hiv_rate	319
+37129	North Carolina	New Hanover	hiv_rate	348
+37131	North Carolina	Northampton	hiv_rate	386
+37133	North Carolina	Onslow	hiv_rate	152
+37135	North Carolina	Orange	hiv_rate	254
+37137	North Carolina	Pamlico	hiv_rate	209
+37139	North Carolina	Pasquotank	hiv_rate	270
+37141	North Carolina	Pender	hiv_rate	131
+37143	North Carolina	Perquimans	hiv_rate	282
+37145	North Carolina	Person	hiv_rate	213
+37147	North Carolina	Pitt	hiv_rate	358
+37149	North Carolina	Polk	hiv_rate	109
+37151	North Carolina	Randolph	hiv_rate	116
+37153	North Carolina	Richmond	hiv_rate	320
+37155	North Carolina	Robeson	hiv_rate	363
+37157	North Carolina	Rockingham	hiv_rate	160
+37159	North Carolina	Rowan	hiv_rate	244
+37161	North Carolina	Rutherford	hiv_rate	90
+37163	North Carolina	Sampson	hiv_rate	244
+37165	North Carolina	Scotland	hiv_rate	392
+37167	North Carolina	Stanly	hiv_rate	137
+37169	North Carolina	Stokes	hiv_rate	71
+37171	North Carolina	Surry	hiv_rate	86
+37173	North Carolina	Swain	hiv_rate	103
+37175	North Carolina	Transylvania	hiv_rate	88
+37177	North Carolina	Tyrrell	hiv_rate	191
+37179	North Carolina	Union	hiv_rate	108
+37181	North Carolina	Vance	hiv_rate	459
+37183	North Carolina	Wake	hiv_rate	352
+37185	North Carolina	Warren	hiv_rate	216
+37187	North Carolina	Washington	hiv_rate	444
+37189	North Carolina	Watauga	hiv_rate	60
+37191	North Carolina	Wayne	hiv_rate	412
+37193	North Carolina	Wilkes	hiv_rate	73
+37195	North Carolina	Wilson	hiv_rate	480
+37197	North Carolina	Yadkin	hiv_rate	68
+37199	North Carolina	Yancey	hiv_rate	69
+38001	North Dakota	Adams	hiv_rate	
+38003	North Dakota	Barnes	hiv_rate	
+38005	North Dakota	Benson	hiv_rate	
+38007	North Dakota	Billings	hiv_rate	
+38009	North Dakota	Bottineau	hiv_rate	
+38011	North Dakota	Bowman	hiv_rate	
+38013	North Dakota	Burke	hiv_rate	
+38015	North Dakota	Burleigh	hiv_rate	
+38017	North Dakota	Cass	hiv_rate	
+38019	North Dakota	Cavalier	hiv_rate	
+38021	North Dakota	Dickey	hiv_rate	
+38023	North Dakota	Divide	hiv_rate	
+38025	North Dakota	Dunn	hiv_rate	
+38027	North Dakota	Eddy	hiv_rate	
+38029	North Dakota	Emmons	hiv_rate	
+38031	North Dakota	Foster	hiv_rate	
+38033	North Dakota	Golden Valley	hiv_rate	
+38035	North Dakota	Grand Forks	hiv_rate	
+38037	North Dakota	Grant	hiv_rate	
+38039	North Dakota	Griggs	hiv_rate	
+38041	North Dakota	Hettinger	hiv_rate	
+38043	North Dakota	Kidder	hiv_rate	
+38045	North Dakota	LaMoure	hiv_rate	
+38047	North Dakota	Logan	hiv_rate	
+38049	North Dakota	McHenry	hiv_rate	
+38051	North Dakota	McIntosh	hiv_rate	
+38053	North Dakota	McKenzie	hiv_rate	
+38055	North Dakota	McLean	hiv_rate	
+38057	North Dakota	Mercer	hiv_rate	
+38059	North Dakota	Morton	hiv_rate	
+38061	North Dakota	Mountrail	hiv_rate	
+38063	North Dakota	Nelson	hiv_rate	
+38065	North Dakota	Oliver	hiv_rate	
+38067	North Dakota	Pembina	hiv_rate	
+38069	North Dakota	Pierce	hiv_rate	
+38071	North Dakota	Ramsey	hiv_rate	
+38073	North Dakota	Ransom	hiv_rate	
+38075	North Dakota	Renville	hiv_rate	
+38077	North Dakota	Richland	hiv_rate	
+38079	North Dakota	Rolette	hiv_rate	
+38081	North Dakota	Sargent	hiv_rate	
+38083	North Dakota	Sheridan	hiv_rate	
+38085	North Dakota	Sioux	hiv_rate	
+38087	North Dakota	Slope	hiv_rate	
+38089	North Dakota	Stark	hiv_rate	
+38091	North Dakota	Steele	hiv_rate	
+38093	North Dakota	Stutsman	hiv_rate	
+38095	North Dakota	Towner	hiv_rate	
+38097	North Dakota	Traill	hiv_rate	
+38099	North Dakota	Walsh	hiv_rate	
+38101	North Dakota	Ward	hiv_rate	
+38103	North Dakota	Wells	hiv_rate	
+38105	North Dakota	Williams	hiv_rate	
+39001	Ohio	Adams	hiv_rate	31
+39003	Ohio	Allen	hiv_rate	173
+39005	Ohio	Ashland	hiv_rate	35
+39007	Ohio	Ashtabula	hiv_rate	57
+39009	Ohio	Athens	hiv_rate	58
+39011	Ohio	Auglaize	hiv_rate	34
+39013	Ohio	Belmont	hiv_rate	62
+39015	Ohio	Brown	hiv_rate	46
+39017	Ohio	Butler	hiv_rate	79
+39019	Ohio	Carroll	hiv_rate	29
+39021	Ohio	Champaign	hiv_rate	58
+39023	Ohio	Clark	hiv_rate	104
+39025	Ohio	Clermont	hiv_rate	32
+39027	Ohio	Clinton	hiv_rate	62
+39029	Ohio	Columbiana	hiv_rate	67
+39031	Ohio	Coshocton	hiv_rate	47
+39033	Ohio	Crawford	hiv_rate	38
+39035	Ohio	Cuyahoga	hiv_rate	328
+39037	Ohio	Darke	hiv_rate	59
+39039	Ohio	Defiance	hiv_rate	59
+39041	Ohio	Delaware	hiv_rate	66
+39043	Ohio	Erie	hiv_rate	94
+39045	Ohio	Fairfield	hiv_rate	81
+39047	Ohio	Fayette	hiv_rate	55
+39049	Ohio	Franklin	hiv_rate	358
+39051	Ohio	Fulton	hiv_rate	56
+39053	Ohio	Gallia	hiv_rate	54
+39055	Ohio	Geauga	hiv_rate	22
+39057	Ohio	Greene	hiv_rate	80
+39059	Ohio	Guernsey	hiv_rate	50
+39061	Ohio	Hamilton	hiv_rate	289
+39063	Ohio	Hancock	hiv_rate	55
+39065	Ohio	Hardin	hiv_rate	29
+39067	Ohio	Harrison	hiv_rate	
+39069	Ohio	Henry	hiv_rate	
+39071	Ohio	Highland	hiv_rate	42
+39073	Ohio	Hocking	hiv_rate	65
+39075	Ohio	Holmes	hiv_rate	25
+39077	Ohio	Huron	hiv_rate	39
+39079	Ohio	Jackson	hiv_rate	51
+39081	Ohio	Jefferson	hiv_rate	80
+39083	Ohio	Knox	hiv_rate	31
+39085	Ohio	Lake	hiv_rate	61
+39087	Ohio	Lawrence	hiv_rate	72
+39089	Ohio	Licking	hiv_rate	77
+39091	Ohio	Logan	hiv_rate	35
+39093	Ohio	Lorain	hiv_rate	208
+39095	Ohio	Lucas	hiv_rate	206
+39097	Ohio	Madison	hiv_rate	120
+39099	Ohio	Mahoning	hiv_rate	201
+39101	Ohio	Marion	hiv_rate	128
+39103	Ohio	Medina	hiv_rate	29
+39105	Ohio	Meigs	hiv_rate	36
+39107	Ohio	Mercer	hiv_rate	18
+39109	Ohio	Miami	hiv_rate	67
+39111	Ohio	Monroe	hiv_rate	
+39113	Ohio	Montgomery	hiv_rate	230
+39115	Ohio	Morgan	hiv_rate	59
+39117	Ohio	Morrow	hiv_rate	26
+39119	Ohio	Muskingum	hiv_rate	87
+39121	Ohio	Noble	hiv_rate	96
+39123	Ohio	Ottawa	hiv_rate	43
+39125	Ohio	Paulding	hiv_rate	53
+39127	Ohio	Perry	hiv_rate	51
+39129	Ohio	Pickaway	hiv_rate	846
+39131	Ohio	Pike	hiv_rate	56
+39133	Ohio	Portage	hiv_rate	61
+39135	Ohio	Preble	hiv_rate	28
+39137	Ohio	Putnam	hiv_rate	
+39139	Ohio	Richland	hiv_rate	100
+39141	Ohio	Ross	hiv_rate	131
+39143	Ohio	Sandusky	hiv_rate	62
+39145	Ohio	Scioto	hiv_rate	79
+39147	Ohio	Seneca	hiv_rate	31
+39149	Ohio	Shelby	hiv_rate	47
+39151	Ohio	Stark	hiv_rate	90
+39153	Ohio	Summit	hiv_rate	138
+39155	Ohio	Trumbull	hiv_rate	79
+39157	Ohio	Tuscarawas	hiv_rate	16
+39159	Ohio	Union	hiv_rate	315
+39161	Ohio	Van Wert	hiv_rate	
+39163	Ohio	Vinton	hiv_rate	
+39165	Ohio	Warren	hiv_rate	66
+39167	Ohio	Washington	hiv_rate	70
+39169	Ohio	Wayne	hiv_rate	47
+39171	Ohio	Williams	hiv_rate	76
+39173	Ohio	Wood	hiv_rate	47
+39175	Ohio	Wyandot	hiv_rate	
+40001	Oklahoma	Adair	hiv_rate	57
+40003	Oklahoma	Alfalfa	hiv_rate	
+40005	Oklahoma	Atoka	hiv_rate	49
+40007	Oklahoma	Beaver	hiv_rate	
+40009	Oklahoma	Beckham	hiv_rate	41
+40011	Oklahoma	Blaine	hiv_rate	200
+40013	Oklahoma	Bryan	hiv_rate	81
+40015	Oklahoma	Caddo	hiv_rate	150
+40017	Oklahoma	Canadian	hiv_rate	123
+40019	Oklahoma	Carter	hiv_rate	70
+40021	Oklahoma	Cherokee	hiv_rate	60
+40023	Oklahoma	Choctaw	hiv_rate	83
+40025	Oklahoma	Cimarron	hiv_rate	
+40027	Oklahoma	Cleveland	hiv_rate	137
+40029	Oklahoma	Coal	hiv_rate	
+40031	Oklahoma	Comanche	hiv_rate	202
+40033	Oklahoma	Cotton	hiv_rate	
+40035	Oklahoma	Craig	hiv_rate	92
+40037	Oklahoma	Creek	hiv_rate	74
+40039	Oklahoma	Custer	hiv_rate	80
+40041	Oklahoma	Delaware	hiv_rate	39
+40043	Oklahoma	Dewey	hiv_rate	
+40045	Oklahoma	Ellis	hiv_rate	
+40047	Oklahoma	Garfield	hiv_rate	81
+40049	Oklahoma	Garvin	hiv_rate	44
+40051	Oklahoma	Grady	hiv_rate	74
+40053	Oklahoma	Grant	hiv_rate	
+40055	Oklahoma	Greer	hiv_rate	130
+40057	Oklahoma	Harmon	hiv_rate	
+40059	Oklahoma	Harper	hiv_rate	
+40061	Oklahoma	Haskell	hiv_rate	69
+40063	Oklahoma	Hughes	hiv_rate	53
+40065	Oklahoma	Jackson	hiv_rate	54
+40067	Oklahoma	Jefferson	hiv_rate	112
+40069	Oklahoma	Johnston	hiv_rate	186
+40071	Oklahoma	Kay	hiv_rate	89
+40073	Oklahoma	Kingfisher	hiv_rate	
+40075	Oklahoma	Kiowa	hiv_rate	
+40077	Oklahoma	Latimer	hiv_rate	
+40079	Oklahoma	Le Flore	hiv_rate	85
+40081	Oklahoma	Lincoln	hiv_rate	66
+40083	Oklahoma	Logan	hiv_rate	210
+40085	Oklahoma	Love	hiv_rate	
+40087	Oklahoma	McClain	hiv_rate	85
+40089	Oklahoma	McCurtain	hiv_rate	60
+40091	Oklahoma	McIntosh	hiv_rate	67
+40093	Oklahoma	Major	hiv_rate	
+40095	Oklahoma	Marshall	hiv_rate	68
+40097	Oklahoma	Mayes	hiv_rate	46
+40099	Oklahoma	Murray	hiv_rate	
+40101	Oklahoma	Muskogee	hiv_rate	91
+40103	Oklahoma	Noble	hiv_rate	143
+40105	Oklahoma	Nowata	hiv_rate	91
+40107	Oklahoma	Okfuskee	hiv_rate	98
+40109	Oklahoma	Oklahoma	hiv_rate	291
+40111	Oklahoma	Okmulgee	hiv_rate	46
+40113	Oklahoma	Osage	hiv_rate	199
+40115	Oklahoma	Ottawa	hiv_rate	59
+40117	Oklahoma	Pawnee	hiv_rate	53
+40119	Oklahoma	Payne	hiv_rate	58
+40121	Oklahoma	Pittsburg	hiv_rate	73
+40123	Oklahoma	Pontotoc	hiv_rate	25
+40125	Oklahoma	Pottawatomie	hiv_rate	73
+40127	Oklahoma	Pushmataha	hiv_rate	
+40129	Oklahoma	Roger Mills	hiv_rate	
+40131	Oklahoma	Rogers	hiv_rate	74
+40133	Oklahoma	Seminole	hiv_rate	63
+40135	Oklahoma	Sequoyah	hiv_rate	73
+40137	Oklahoma	Stephens	hiv_rate	43
+40139	Oklahoma	Texas	hiv_rate	65
+40141	Oklahoma	Tillman	hiv_rate	
+40143	Oklahoma	Tulsa	hiv_rate	240
+40145	Oklahoma	Wagoner	hiv_rate	35
+40147	Oklahoma	Washington	hiv_rate	42
+40149	Oklahoma	Washita	hiv_rate	
+40151	Oklahoma	Woods	hiv_rate	
+40153	Oklahoma	Woodward	hiv_rate	55
+41001	Oregon	Baker	hiv_rate	
+41003	Oregon	Benton	hiv_rate	55
+41005	Oregon	Clackamas	hiv_rate	96
+41007	Oregon	Clatsop	hiv_rate	75
+41009	Oregon	Columbia	hiv_rate	66
+41011	Oregon	Coos	hiv_rate	60
+41013	Oregon	Crook	hiv_rate	
+41015	Oregon	Curry	hiv_rate	46
+41017	Oregon	Deschutes	hiv_rate	57
+41019	Oregon	Douglas	hiv_rate	68
+41021	Oregon	Gilliam	hiv_rate	
+41023	Oregon	Grant	hiv_rate	
+41025	Oregon	Harney	hiv_rate	
+41027	Oregon	Hood River	hiv_rate	97
+41029	Oregon	Jackson	hiv_rate	87
+41031	Oregon	Jefferson	hiv_rate	71
+41033	Oregon	Josephine	hiv_rate	87
+41035	Oregon	Klamath	hiv_rate	45
+41037	Oregon	Lake	hiv_rate	
+41039	Oregon	Lane	hiv_rate	90
+41041	Oregon	Lincoln	hiv_rate	84
+41043	Oregon	Linn	hiv_rate	55
+41045	Oregon	Malheur	hiv_rate	65
+41047	Oregon	Marion	hiv_rate	135
+41049	Oregon	Morrow	hiv_rate	76
+41051	Oregon	Multnomah	hiv_rate	452
+41053	Oregon	Polk	hiv_rate	51
+41055	Oregon	Sherman	hiv_rate	
+41057	Oregon	Tillamook	hiv_rate	60
+41059	Oregon	Umatilla	hiv_rate	83
+41061	Oregon	Union	hiv_rate	38
+41063	Oregon	Wallowa	hiv_rate	
+41065	Oregon	Wasco	hiv_rate	60
+41067	Oregon	Washington	hiv_rate	109
+41069	Oregon	Wheeler	hiv_rate	
+41071	Oregon	Yamhill	hiv_rate	57
+42001	Pennsylvania	Adams	hiv_rate	64
+42003	Pennsylvania	Allegheny	hiv_rate	213
+42005	Pennsylvania	Armstrong	hiv_rate	50
+42007	Pennsylvania	Beaver	hiv_rate	62
+42009	Pennsylvania	Bedford	hiv_rate	60
+42011	Pennsylvania	Berks	hiv_rate	263
+42013	Pennsylvania	Blair	hiv_rate	71
+42015	Pennsylvania	Bradford	hiv_rate	69
+42017	Pennsylvania	Bucks	hiv_rate	132
+42019	Pennsylvania	Butler	hiv_rate	41
+42021	Pennsylvania	Cambria	hiv_rate	92
+42023	Pennsylvania	Cameron	hiv_rate	
+42025	Pennsylvania	Carbon	hiv_rate	108
+42027	Pennsylvania	Centre	hiv_rate	114
+42029	Pennsylvania	Chester	hiv_rate	109
+42031	Pennsylvania	Clarion	hiv_rate	44
+42033	Pennsylvania	Clearfield	hiv_rate	91
+42035	Pennsylvania	Clinton	hiv_rate	22
+42037	Pennsylvania	Columbia	hiv_rate	85
+42039	Pennsylvania	Crawford	hiv_rate	78
+42041	Pennsylvania	Cumberland	hiv_rate	181
+42043	Pennsylvania	Dauphin	hiv_rate	407
+42045	Pennsylvania	Delaware	hiv_rate	294
+42047	Pennsylvania	Elk	hiv_rate	22
+42049	Pennsylvania	Erie	hiv_rate	119
+42051	Pennsylvania	Fayette	hiv_rate	59
+42053	Pennsylvania	Forest	hiv_rate	143
+42055	Pennsylvania	Franklin	hiv_rate	102
+42057	Pennsylvania	Fulton	hiv_rate	40
+42059	Pennsylvania	Greene	hiv_rate	70
+42061	Pennsylvania	Huntingdon	hiv_rate	183
+42063	Pennsylvania	Indiana	hiv_rate	48
+42065	Pennsylvania	Jefferson	hiv_rate	37
+42067	Pennsylvania	Juniata	hiv_rate	73
+42069	Pennsylvania	Lackawanna	hiv_rate	139
+42071	Pennsylvania	Lancaster	hiv_rate	173
+42073	Pennsylvania	Lawrence	hiv_rate	51
+42075	Pennsylvania	Lebanon	hiv_rate	107
+42077	Pennsylvania	Lehigh	hiv_rate	300
+42079	Pennsylvania	Luzerne	hiv_rate	117
+42081	Pennsylvania	Lycoming	hiv_rate	223
+42083	Pennsylvania	McKean	hiv_rate	52
+42085	Pennsylvania	Mercer	hiv_rate	72
+42087	Pennsylvania	Mifflin	hiv_rate	47
+42089	Pennsylvania	Monroe	hiv_rate	168
+42091	Pennsylvania	Montgomery	hiv_rate	141
+42093	Pennsylvania	Montour	hiv_rate	87
+42095	Pennsylvania	Northampton	hiv_rate	149
+42097	Pennsylvania	Northumberland	hiv_rate	93
+42099	Pennsylvania	Perry	hiv_rate	77
+42101	Pennsylvania	Philadelphia	hiv_rate	1308
+42103	Pennsylvania	Pike	hiv_rate	162
+42105	Pennsylvania	Potter	hiv_rate	
+42107	Pennsylvania	Schuylkill	hiv_rate	100
+42109	Pennsylvania	Snyder	hiv_rate	49
+42111	Pennsylvania	Somerset	hiv_rate	128
+42113	Pennsylvania	Sullivan	hiv_rate	92
+42115	Pennsylvania	Susquehanna	hiv_rate	61
+42117	Pennsylvania	Tioga	hiv_rate	54
+42119	Pennsylvania	Union	hiv_rate	306
+42121	Pennsylvania	Venango	hiv_rate	36
+42123	Pennsylvania	Warren	hiv_rate	67
+42125	Pennsylvania	Washington	hiv_rate	60
+42127	Pennsylvania	Wayne	hiv_rate	159
+42129	Pennsylvania	Westmoreland	hiv_rate	46
+42131	Pennsylvania	Wyoming	hiv_rate	45
+42133	Pennsylvania	York	hiv_rate	188
+44001	Rhode Island	Bristol	hiv_rate	52
+44003	Rhode Island	Kent	hiv_rate	67
+44005	Rhode Island	Newport	hiv_rate	128
+44007	Rhode Island	Providence	hiv_rate	288
+44009	Rhode Island	Washington	hiv_rate	52
+45001	South Carolina	Abbeville	hiv_rate	237
+45003	South Carolina	Aiken	hiv_rate	298
+45005	South Carolina	Allendale	hiv_rate	716
+45007	South Carolina	Anderson	hiv_rate	165
+45009	South Carolina	Bamberg	hiv_rate	781
+45011	South Carolina	Barnwell	hiv_rate	612
+45013	South Carolina	Beaufort	hiv_rate	257
+45015	South Carolina	Berkeley	hiv_rate	170
+45017	South Carolina	Calhoun	hiv_rate	250
+45019	South Carolina	Charleston	hiv_rate	503
+45021	South Carolina	Cherokee	hiv_rate	137
+45023	South Carolina	Chester	hiv_rate	265
+45025	South Carolina	Chesterfield	hiv_rate	223
+45027	South Carolina	Clarendon	hiv_rate	450
+45029	South Carolina	Colleton	hiv_rate	396
+45031	South Carolina	Darlington	hiv_rate	349
+45033	South Carolina	Dillon	hiv_rate	434
+45035	South Carolina	Dorchester	hiv_rate	223
+45037	South Carolina	Edgefield	hiv_rate	485
+45039	South Carolina	Fairfield	hiv_rate	374
+45041	South Carolina	Florence	hiv_rate	560
+45043	South Carolina	Georgetown	hiv_rate	377
+45045	South Carolina	Greenville	hiv_rate	255
+45047	South Carolina	Greenwood	hiv_rate	328
+45049	South Carolina	Hampton	hiv_rate	561
+45051	South Carolina	Horry	hiv_rate	295
+45053	South Carolina	Jasper	hiv_rate	475
+45055	South Carolina	Kershaw	hiv_rate	298
+45057	South Carolina	Lancaster	hiv_rate	197
+45059	South Carolina	Laurens	hiv_rate	226
+45061	South Carolina	Lee	hiv_rate	550
+45063	South Carolina	Lexington	hiv_rate	258
+45065	South Carolina	McCormick	hiv_rate	592
+45067	South Carolina	Marion	hiv_rate	512
+45069	South Carolina	Marlboro	hiv_rate	417
+45071	South Carolina	Newberry	hiv_rate	266
+45073	South Carolina	Oconee	hiv_rate	69
+45075	South Carolina	Orangeburg	hiv_rate	577
+45077	South Carolina	Pickens	hiv_rate	84
+45079	South Carolina	Richland	hiv_rate	877
+45081	South Carolina	Saluda	hiv_rate	208
+45083	South Carolina	Spartanburg	hiv_rate	230
+45085	South Carolina	Sumter	hiv_rate	650
+45087	South Carolina	Union	hiv_rate	251
+45089	South Carolina	Williamsburg	hiv_rate	637
+45091	South Carolina	York	hiv_rate	214
+46003	South Dakota	Aurora	hiv_rate	
+46005	South Dakota	Beadle	hiv_rate	
+46007	South Dakota	Bennett	hiv_rate	
+46009	South Dakota	Bon Homme	hiv_rate	
+46011	South Dakota	Brookings	hiv_rate	
+46013	South Dakota	Brown	hiv_rate	
+46015	South Dakota	Brule	hiv_rate	
+46017	South Dakota	Buffalo	hiv_rate	
+46019	South Dakota	Butte	hiv_rate	
+46021	South Dakota	Campbell	hiv_rate	
+46023	South Dakota	Charles Mix	hiv_rate	
+46025	South Dakota	Clark	hiv_rate	
+46027	South Dakota	Clay	hiv_rate	
+46029	South Dakota	Codington	hiv_rate	
+46031	South Dakota	Corson	hiv_rate	
+46033	South Dakota	Custer	hiv_rate	
+46035	South Dakota	Davison	hiv_rate	
+46037	South Dakota	Day	hiv_rate	
+46039	South Dakota	Deuel	hiv_rate	
+46041	South Dakota	Dewey	hiv_rate	
+46043	South Dakota	Douglas	hiv_rate	
+46045	South Dakota	Edmunds	hiv_rate	
+46047	South Dakota	Fall River	hiv_rate	
+46049	South Dakota	Faulk	hiv_rate	
+46051	South Dakota	Grant	hiv_rate	
+46053	South Dakota	Gregory	hiv_rate	
+46055	South Dakota	Haakon	hiv_rate	
+46057	South Dakota	Hamlin	hiv_rate	
+46059	South Dakota	Hand	hiv_rate	
+46061	South Dakota	Hanson	hiv_rate	
+46063	South Dakota	Harding	hiv_rate	
+46065	South Dakota	Hughes	hiv_rate	
+46067	South Dakota	Hutchinson	hiv_rate	
+46069	South Dakota	Hyde	hiv_rate	
+46071	South Dakota	Jackson	hiv_rate	
+46073	South Dakota	Jerauld	hiv_rate	
+46075	South Dakota	Jones	hiv_rate	
+46077	South Dakota	Kingsbury	hiv_rate	
+46079	South Dakota	Lake	hiv_rate	
+46081	South Dakota	Lawrence	hiv_rate	
+46083	South Dakota	Lincoln	hiv_rate	
+46085	South Dakota	Lyman	hiv_rate	
+46087	South Dakota	McCook	hiv_rate	
+46089	South Dakota	McPherson	hiv_rate	
+46091	South Dakota	Marshall	hiv_rate	
+46093	South Dakota	Meade	hiv_rate	
+46095	South Dakota	Mellette	hiv_rate	
+46097	South Dakota	Miner	hiv_rate	
+46099	South Dakota	Minnehaha	hiv_rate	
+46101	South Dakota	Moody	hiv_rate	
+46103	South Dakota	Pennington	hiv_rate	
+46105	South Dakota	Perkins	hiv_rate	
+46107	South Dakota	Potter	hiv_rate	
+46109	South Dakota	Roberts	hiv_rate	
+46111	South Dakota	Sanborn	hiv_rate	
+46113	South Dakota	Shannon	hiv_rate	
+46115	South Dakota	Spink	hiv_rate	
+46117	South Dakota	Stanley	hiv_rate	
+46119	South Dakota	Sully	hiv_rate	
+46121	South Dakota	Todd	hiv_rate	
+46123	South Dakota	Tripp	hiv_rate	
+46125	South Dakota	Turner	hiv_rate	
+46127	South Dakota	Union	hiv_rate	
+46129	South Dakota	Walworth	hiv_rate	
+46135	South Dakota	Yankton	hiv_rate	
+46137	South Dakota	Ziebach	hiv_rate	
+47001	Tennessee	Anderson	hiv_rate	92
+47003	Tennessee	Bedford	hiv_rate	70
+47005	Tennessee	Benton	hiv_rate	64
+47007	Tennessee	Bledsoe	hiv_rate	
+47009	Tennessee	Blount	hiv_rate	82
+47011	Tennessee	Bradley	hiv_rate	142
+47013	Tennessee	Campbell	hiv_rate	42
+47015	Tennessee	Cannon	hiv_rate	139
+47017	Tennessee	Carroll	hiv_rate	96
+47019	Tennessee	Carter	hiv_rate	82
+47021	Tennessee	Cheatham	hiv_rate	180
+47023	Tennessee	Chester	hiv_rate	51
+47025	Tennessee	Claiborne	hiv_rate	22
+47027	Tennessee	Clay	hiv_rate	
+47029	Tennessee	Cocke	hiv_rate	73
+47031	Tennessee	Coffee	hiv_rate	85
+47033	Tennessee	Crockett	hiv_rate	61
+47035	Tennessee	Cumberland	hiv_rate	36
+47037	Tennessee	Davidson	hiv_rate	710
+47039	Tennessee	Decatur	hiv_rate	100
+47041	Tennessee	DeKalb	hiv_rate	159
+47043	Tennessee	Dickson	hiv_rate	100
+47045	Tennessee	Dyer	hiv_rate	83
+47047	Tennessee	Fayette	hiv_rate	162
+47049	Tennessee	Fentress	hiv_rate	34
+47051	Tennessee	Franklin	hiv_rate	48
+47053	Tennessee	Gibson	hiv_rate	122
+47055	Tennessee	Giles	hiv_rate	119
+47057	Tennessee	Grainger	hiv_rate	57
+47059	Tennessee	Greene	hiv_rate	77
+47061	Tennessee	Grundy	hiv_rate	75
+47063	Tennessee	Hamblen	hiv_rate	83
+47065	Tennessee	Hamilton	hiv_rate	315
+47067	Tennessee	Hancock	hiv_rate	
+47069	Tennessee	Hardeman	hiv_rate	162
+47071	Tennessee	Hardin	hiv_rate	120
+47073	Tennessee	Hawkins	hiv_rate	47
+47075	Tennessee	Haywood	hiv_rate	555
+47077	Tennessee	Henderson	hiv_rate	76
+47079	Tennessee	Henry	hiv_rate	95
+47081	Tennessee	Hickman	hiv_rate	84
+47083	Tennessee	Houston	hiv_rate	90
+47085	Tennessee	Humphreys	hiv_rate	
+47087	Tennessee	Jackson	hiv_rate	83
+47089	Tennessee	Jefferson	hiv_rate	63
+47091	Tennessee	Johnson	hiv_rate	97
+47093	Tennessee	Knox	hiv_rate	234
+47095	Tennessee	Lake	hiv_rate	203
+47097	Tennessee	Lauderdale	hiv_rate	349
+47099	Tennessee	Lawrence	hiv_rate	81
+47101	Tennessee	Lewis	hiv_rate	
+47103	Tennessee	Lincoln	hiv_rate	74
+47105	Tennessee	Loudon	hiv_rate	62
+47107	Tennessee	McMinn	hiv_rate	99
+47109	Tennessee	McNairy	hiv_rate	46
+47111	Tennessee	Macon	hiv_rate	49
+47113	Tennessee	Madison	hiv_rate	250
+47115	Tennessee	Marion	hiv_rate	106
+47117	Tennessee	Marshall	hiv_rate	92
+47119	Tennessee	Maury	hiv_rate	141
+47121	Tennessee	Meigs	hiv_rate	97
+47123	Tennessee	Monroe	hiv_rate	76
+47125	Tennessee	Montgomery	hiv_rate	164
+47127	Tennessee	Moore	hiv_rate	
+47129	Tennessee	Morgan	hiv_rate	161
+47131	Tennessee	Obion	hiv_rate	106
+47133	Tennessee	Overton	hiv_rate	
+47135	Tennessee	Perry	hiv_rate	108
+47137	Tennessee	Pickett	hiv_rate	
+47139	Tennessee	Polk	hiv_rate	93
+47141	Tennessee	Putnam	hiv_rate	94
+47143	Tennessee	Rhea	hiv_rate	65
+47145	Tennessee	Roane	hiv_rate	58
+47147	Tennessee	Robertson	hiv_rate	154
+47149	Tennessee	Rutherford	hiv_rate	148
+47151	Tennessee	Scott	hiv_rate	34
+47153	Tennessee	Sequatchie	hiv_rate	52
+47155	Tennessee	Sevier	hiv_rate	107
+47157	Tennessee	Shelby	hiv_rate	831
+47159	Tennessee	Smith	hiv_rate	120
+47161	Tennessee	Stewart	hiv_rate	
+47163	Tennessee	Sullivan	hiv_rate	91
+47165	Tennessee	Sumner	hiv_rate	111
+47167	Tennessee	Tipton	hiv_rate	156
+47169	Tennessee	Trousdale	hiv_rate	166
+47171	Tennessee	Unicoi	hiv_rate	58
+47173	Tennessee	Union	hiv_rate	44
+47175	Tennessee	Van Buren	hiv_rate	
+47177	Tennessee	Warren	hiv_rate	119
+47179	Tennessee	Washington	hiv_rate	165
+47181	Tennessee	Wayne	hiv_rate	97
+47183	Tennessee	Weakley	hiv_rate	38
+47185	Tennessee	White	hiv_rate	65
+47187	Tennessee	Williamson	hiv_rate	83
+47189	Tennessee	Wilson	hiv_rate	103
+48001	Texas	Anderson	hiv_rate	363
+48003	Texas	Andrews	hiv_rate	
+48005	Texas	Angelina	hiv_rate	156
+48007	Texas	Aransas	hiv_rate	87
+48009	Texas	Archer	hiv_rate	
+48011	Texas	Armstrong	hiv_rate	
+48013	Texas	Atascosa	hiv_rate	91
+48015	Texas	Austin	hiv_rate	130
+48017	Texas	Bailey	hiv_rate	
+48019	Texas	Bandera	hiv_rate	65
+48021	Texas	Bastrop	hiv_rate	128
+48023	Texas	Baylor	hiv_rate	
+48025	Texas	Bee	hiv_rate	703
+48027	Texas	Bell	hiv_rate	162
+48029	Texas	Bexar	hiv_rate	313
+48031	Texas	Blanco	hiv_rate	70
+48033	Texas	Borden	hiv_rate	
+48035	Texas	Bosque	hiv_rate	52
+48037	Texas	Bowie	hiv_rate	210
+48039	Texas	Brazoria	hiv_rate	119
+48041	Texas	Brazos	hiv_rate	164
+48043	Texas	Brewster	hiv_rate	
+48045	Texas	Briscoe	hiv_rate	
+48047	Texas	Brooks	hiv_rate	157
+48049	Texas	Brown	hiv_rate	150
+48051	Texas	Burleson	hiv_rate	121
+48053	Texas	Burnet	hiv_rate	102
+48055	Texas	Caldwell	hiv_rate	148
+48057	Texas	Calhoun	hiv_rate	58
+48059	Texas	Callahan	hiv_rate	82
+48061	Texas	Cameron	hiv_rate	182
+48063	Texas	Camp	hiv_rate	107
+48065	Texas	Carson	hiv_rate	
+48067	Texas	Cass	hiv_rate	93
+48069	Texas	Castro	hiv_rate	
+48071	Texas	Chambers	hiv_rate	71
+48073	Texas	Cherokee	hiv_rate	199
+48075	Texas	Childress	hiv_rate	
+48077	Texas	Clay	hiv_rate	
+48079	Texas	Cochran	hiv_rate	
+48081	Texas	Coke	hiv_rate	
+48083	Texas	Coleman	hiv_rate	
+48085	Texas	Collin	hiv_rate	141
+48087	Texas	Collingsworth	hiv_rate	
+48089	Texas	Colorado	hiv_rate	121
+48091	Texas	Comal	hiv_rate	89
+48093	Texas	Comanche	hiv_rate	62
+48095	Texas	Concho	hiv_rate	
+48097	Texas	Cooke	hiv_rate	63
+48099	Texas	Coryell	hiv_rate	176
+48101	Texas	Cottle	hiv_rate	
+48103	Texas	Crane	hiv_rate	
+48105	Texas	Crockett	hiv_rate	
+48107	Texas	Crosby	hiv_rate	
+48109	Texas	Culberson	hiv_rate	
+48111	Texas	Dallam	hiv_rate	
+48113	Texas	Dallas	hiv_rate	678
+48115	Texas	Dawson	hiv_rate	55
+48117	Texas	Deaf Smith	hiv_rate	75
+48119	Texas	Delta	hiv_rate	
+48121	Texas	Denton	hiv_rate	121
+48123	Texas	DeWitt	hiv_rate	72
+48125	Texas	Dickens	hiv_rate	
+48127	Texas	Dimmit	hiv_rate	78
+48129	Texas	Donley	hiv_rate	285
+48131	Texas	Duval	hiv_rate	126
+48133	Texas	Eastland	hiv_rate	59
+48135	Texas	Ector	hiv_rate	115
+48137	Texas	Edwards	hiv_rate	
+48139	Texas	Ellis	hiv_rate	104
+48141	Texas	El Paso	hiv_rate	261
+48143	Texas	Erath	hiv_rate	36
+48145	Texas	Falls	hiv_rate	125
+48147	Texas	Fannin	hiv_rate	120
+48149	Texas	Fayette	hiv_rate	61
+48151	Texas	Fisher	hiv_rate	
+48153	Texas	Floyd	hiv_rate	
+48155	Texas	Foard	hiv_rate	
+48157	Texas	Fort Bend	hiv_rate	137
+48159	Texas	Franklin	hiv_rate	
+48161	Texas	Freestone	hiv_rate	111
+48163	Texas	Frio	hiv_rate	164
+48165	Texas	Gaines	hiv_rate	
+48167	Texas	Galveston	hiv_rate	259
+48169	Texas	Garza	hiv_rate	365
+48171	Texas	Gillespie	hiv_rate	39
+48173	Texas	Glasscock	hiv_rate	
+48175	Texas	Goliad	hiv_rate	
+48177	Texas	Gonzales	hiv_rate	89
+48179	Texas	Gray	hiv_rate	127
+48181	Texas	Grayson	hiv_rate	84
+48183	Texas	Gregg	hiv_rate	318
+48185	Texas	Grimes	hiv_rate	163
+48187	Texas	Guadalupe	hiv_rate	62
+48189	Texas	Hale	hiv_rate	79
+48191	Texas	Hall	hiv_rate	
+48193	Texas	Hamilton	hiv_rate	101
+48195	Texas	Hansford	hiv_rate	
+48197	Texas	Hardeman	hiv_rate	
+48199	Texas	Hardin	hiv_rate	83
+48201	Texas	Harris	hiv_rate	577
+48203	Texas	Harrison	hiv_rate	151
+48205	Texas	Hartley	hiv_rate	
+48207	Texas	Haskell	hiv_rate	236
+48209	Texas	Hays	hiv_rate	103
+48211	Texas	Hemphill	hiv_rate	
+48213	Texas	Henderson	hiv_rate	89
+48215	Texas	Hidalgo	hiv_rate	151
+48217	Texas	Hill	hiv_rate	98
+48219	Texas	Hockley	hiv_rate	39
+48221	Texas	Hood	hiv_rate	93
+48223	Texas	Hopkins	hiv_rate	122
+48225	Texas	Houston	hiv_rate	355
+48227	Texas	Howard	hiv_rate	192
+48229	Texas	Hudspeth	hiv_rate	
+48231	Texas	Hunt	hiv_rate	117
+48233	Texas	Hutchinson	hiv_rate	39
+48235	Texas	Irion	hiv_rate	
+48237	Texas	Jack	hiv_rate	201
+48239	Texas	Jackson	hiv_rate	51
+48241	Texas	Jasper	hiv_rate	53
+48243	Texas	Jeff Davis	hiv_rate	
+48245	Texas	Jefferson	hiv_rate	390
+48247	Texas	Jim Hogg	hiv_rate	
+48249	Texas	Jim Wells	hiv_rate	50
+48251	Texas	Johnson	hiv_rate	94
+48253	Texas	Jones	hiv_rate	1017
+48255	Texas	Karnes	hiv_rate	137
+48257	Texas	Kaufman	hiv_rate	129
+48259	Texas	Kendall	hiv_rate	60
+48261	Texas	Kenedy	hiv_rate	
+48263	Texas	Kent	hiv_rate	
+48265	Texas	Kerr	hiv_rate	62
+48267	Texas	Kimble	hiv_rate	
+48269	Texas	King	hiv_rate	
+48271	Texas	Kinney	hiv_rate	
+48273	Texas	Kleberg	hiv_rate	60
+48275	Texas	Knox	hiv_rate	
+48277	Texas	Lamar	hiv_rate	125
+48279	Texas	Lamb	hiv_rate	86
+48281	Texas	Lampasas	hiv_rate	
+48283	Texas	La Salle	hiv_rate	154
+48285	Texas	Lavaca	hiv_rate	85
+48287	Texas	Lee	hiv_rate	97
+48289	Texas	Leon	hiv_rate	90
+48291	Texas	Liberty	hiv_rate	296
+48293	Texas	Limestone	hiv_rate	86
+48295	Texas	Lipscomb	hiv_rate	
+48297	Texas	Live Oak	hiv_rate	74
+48299	Texas	Llano	hiv_rate	
+48301	Texas	Loving	hiv_rate	
+48303	Texas	Lubbock	hiv_rate	130
+48305	Texas	Lynn	hiv_rate	
+48307	Texas	McCulloch	hiv_rate	
+48309	Texas	McLennan	hiv_rate	173
+48311	Texas	McMullen	hiv_rate	
+48313	Texas	Madison	hiv_rate	119
+48315	Texas	Marion	hiv_rate	160
+48317	Texas	Martin	hiv_rate	
+48319	Texas	Mason	hiv_rate	
+48321	Texas	Matagorda	hiv_rate	164
+48323	Texas	Maverick	hiv_rate	93
+48325	Texas	Medina	hiv_rate	74
+48327	Texas	Menard	hiv_rate	
+48329	Texas	Midland	hiv_rate	116
+48331	Texas	Milam	hiv_rate	135
+48333	Texas	Mills	hiv_rate	
+48335	Texas	Mitchell	hiv_rate	83
+48337	Texas	Montague	hiv_rate	34
+48339	Texas	Montgomery	hiv_rate	93
+48341	Texas	Moore	hiv_rate	73
+48343	Texas	Morris	hiv_rate	86
+48345	Texas	Motley	hiv_rate	
+48347	Texas	Nacogdoches	hiv_rate	177
+48349	Texas	Navarro	hiv_rate	150
+48351	Texas	Newton	hiv_rate	
+48353	Texas	Nolan	hiv_rate	90
+48355	Texas	Nueces	hiv_rate	173
+48357	Texas	Ochiltree	hiv_rate	
+48359	Texas	Oldham	hiv_rate	
+48361	Texas	Orange	hiv_rate	110
+48363	Texas	Palo Pinto	hiv_rate	76
+48365	Texas	Panola	hiv_rate	141
+48367	Texas	Parker	hiv_rate	82
+48369	Texas	Parmer	hiv_rate	109
+48371	Texas	Pecos	hiv_rate	44
+48373	Texas	Polk	hiv_rate	146
+48375	Texas	Potter	hiv_rate	305
+48377	Texas	Presidio	hiv_rate	
+48379	Texas	Rains	hiv_rate	
+48381	Texas	Randall	hiv_rate	37
+48383	Texas	Reagan	hiv_rate	
+48385	Texas	Real	hiv_rate	
+48387	Texas	Red River	hiv_rate	52
+48389	Texas	Reeves	hiv_rate	253
+48391	Texas	Refugio	hiv_rate	
+48393	Texas	Roberts	hiv_rate	
+48395	Texas	Robertson	hiv_rate	155
+48397	Texas	Rockwall	hiv_rate	66
+48399	Texas	Runnels	hiv_rate	
+48401	Texas	Rusk	hiv_rate	232
+48403	Texas	Sabine	hiv_rate	113
+48405	Texas	San Augustine	hiv_rate	137
+48407	Texas	San Jacinto	hiv_rate	94
+48409	Texas	San Patricio	hiv_rate	73
+48411	Texas	San Saba	hiv_rate	
+48413	Texas	Schleicher	hiv_rate	
+48415	Texas	Scurry	hiv_rate	59
+48417	Texas	Shackelford	hiv_rate	
+48419	Texas	Shelby	hiv_rate	160
+48421	Texas	Sherman	hiv_rate	
+48423	Texas	Smith	hiv_rate	173
+48425	Texas	Somervell	hiv_rate	
+48427	Texas	Starr	hiv_rate	69
+48429	Texas	Stephens	hiv_rate	151
+48431	Texas	Sterling	hiv_rate	
+48433	Texas	Stonewall	hiv_rate	
+48435	Texas	Sutton	hiv_rate	
+48437	Texas	Swisher	hiv_rate	
+48439	Texas	Tarrant	hiv_rate	252
+48441	Texas	Taylor	hiv_rate	133
+48443	Texas	Terrell	hiv_rate	
+48445	Texas	Terry	hiv_rate	52
+48447	Texas	Throckmorton	hiv_rate	
+48449	Texas	Titus	hiv_rate	97
+48451	Texas	Tom Green	hiv_rate	93
+48453	Texas	Travis	hiv_rate	428
+48455	Texas	Trinity	hiv_rate	196
+48457	Texas	Tyler	hiv_rate	141
+48459	Texas	Upshur	hiv_rate	115
+48461	Texas	Upton	hiv_rate	
+48463	Texas	Uvalde	hiv_rate	46
+48465	Texas	Val Verde	hiv_rate	33
+48467	Texas	Van Zandt	hiv_rate	56
+48469	Texas	Victoria	hiv_rate	123
+48471	Texas	Walker	hiv_rate	4043
+48473	Texas	Waller	hiv_rate	189
+48475	Texas	Ward	hiv_rate	72
+48477	Texas	Washington	hiv_rate	83
+48479	Texas	Webb	hiv_rate	179
+48481	Texas	Wharton	hiv_rate	156
+48483	Texas	Wheeler	hiv_rate	
+48485	Texas	Wichita	hiv_rate	138
+48487	Texas	Wilbarger	hiv_rate	150
+48489	Texas	Willacy	hiv_rate	269
+48491	Texas	Williamson	hiv_rate	99
+48493	Texas	Wilson	hiv_rate	53
+48495	Texas	Winkler	hiv_rate	
+48497	Texas	Wise	hiv_rate	56
+48499	Texas	Wood	hiv_rate	119
+48501	Texas	Yoakum	hiv_rate	
+48503	Texas	Young	hiv_rate	
+48505	Texas	Zapata	hiv_rate	67
+48507	Texas	Zavala	hiv_rate	110
+49001	Utah	Beaver	hiv_rate	
+49003	Utah	Box Elder	hiv_rate	45
+49005	Utah	Cache	hiv_rate	40
+49007	Utah	Carbon	hiv_rate	
+49009	Utah	Daggett	hiv_rate	
+49011	Utah	Davis	hiv_rate	49
+49013	Utah	Duchesne	hiv_rate	
+49015	Utah	Emery	hiv_rate	
+49017	Utah	Garfield	hiv_rate	
+49019	Utah	Grand	hiv_rate	
+49021	Utah	Iron	hiv_rate	37
+49023	Utah	Juab	hiv_rate	
+49025	Utah	Kane	hiv_rate	
+49027	Utah	Millard	hiv_rate	
+49029	Utah	Morgan	hiv_rate	
+49031	Utah	Piute	hiv_rate	
+49033	Utah	Rich	hiv_rate	
+49035	Utah	Salt Lake	hiv_rate	215
+49037	Utah	San Juan	hiv_rate	
+49039	Utah	Sanpete	hiv_rate	29
+49041	Utah	Sevier	hiv_rate	
+49043	Utah	Summit	hiv_rate	77
+49045	Utah	Tooele	hiv_rate	33
+49047	Utah	Uintah	hiv_rate	22
+49049	Utah	Utah	hiv_rate	30
+49051	Utah	Wasatch	hiv_rate	31
+49053	Utah	Washington	hiv_rate	34
+49055	Utah	Wayne	hiv_rate	
+49057	Utah	Weber	hiv_rate	74
+50001	Vermont	Addison	hiv_rate	
+50003	Vermont	Bennington	hiv_rate	
+50005	Vermont	Caledonia	hiv_rate	
+50007	Vermont	Chittenden	hiv_rate	
+50009	Vermont	Essex	hiv_rate	
+50011	Vermont	Franklin	hiv_rate	
+50013	Vermont	Grand Isle	hiv_rate	
+50015	Vermont	Lamoille	hiv_rate	
+50017	Vermont	Orange	hiv_rate	
+50019	Vermont	Orleans	hiv_rate	
+50021	Vermont	Rutland	hiv_rate	
+50023	Vermont	Washington	hiv_rate	
+50025	Vermont	Windham	hiv_rate	
+50027	Vermont	Windsor	hiv_rate	
+51001	Virginia	Accomack	hiv_rate	373
+51003	Virginia	Albemarle	hiv_rate	115
+51005	Virginia	Alleghany	hiv_rate	101
+51007	Virginia	Amelia	hiv_rate	64
+51009	Virginia	Amherst	hiv_rate	135
+51011	Virginia	Appomattox	hiv_rate	136
+51013	Virginia	Arlington	hiv_rate	720
+51015	Virginia	Augusta	hiv_rate	101
+51017	Virginia	Bath	hiv_rate	
+51019	Virginia	Bedford	hiv_rate	61
+51021	Virginia	Bland	hiv_rate	
+51023	Virginia	Botetourt	hiv_rate	50
+51025	Virginia	Brunswick	hiv_rate	437
+51027	Virginia	Buchanan	hiv_rate	88
+51029	Virginia	Buckingham	hiv_rate	524
+51031	Virginia	Campbell	hiv_rate	107
+51033	Virginia	Caroline	hiv_rate	187
+51035	Virginia	Carroll	hiv_rate	41
+51036	Virginia	Charles City	hiv_rate	187
+51037	Virginia	Charlotte	hiv_rate	90
+51041	Virginia	Chesterfield	hiv_rate	174
+51043	Virginia	Clarke	hiv_rate	115
+51045	Virginia	Craig	hiv_rate	
+51047	Virginia	Culpeper	hiv_rate	174
+51049	Virginia	Cumberland	hiv_rate	191
+51051	Virginia	Dickenson	hiv_rate	
+51053	Virginia	Dinwiddie	hiv_rate	189
+51057	Virginia	Essex	hiv_rate	137
+51059	Virginia	Fairfax	hiv_rate	261
+51061	Virginia	Fauquier	hiv_rate	79
+51063	Virginia	Floyd	hiv_rate	39
+51065	Virginia	Fluvanna	hiv_rate	182
+51067	Virginia	Franklin	hiv_rate	71
+51069	Virginia	Frederick	hiv_rate	66
+51071	Virginia	Giles	hiv_rate	55
+51073	Virginia	Gloucester	hiv_rate	102
+51075	Virginia	Goochland	hiv_rate	366
+51077	Virginia	Grayson	hiv_rate	68
+51079	Virginia	Greene	hiv_rate	92
+51081	Virginia	Greensville	hiv_rate	936
+51083	Virginia	Halifax	hiv_rate	248
+51085	Virginia	Hanover	hiv_rate	88
+51087	Virginia	Henrico	hiv_rate	263
+51089	Virginia	Henry	hiv_rate	100
+51091	Virginia	Highland	hiv_rate	
+51093	Virginia	Isle of Wight	hiv_rate	147
+51095	Virginia	James City	hiv_rate	54
+51097	Virginia	King and Queen	hiv_rate	167
+51099	Virginia	King George	hiv_rate	133
+51101	Virginia	King William	hiv_rate	44
+51103	Virginia	Lancaster	hiv_rate	183
+51105	Virginia	Lee	hiv_rate	81
+51107	Virginia	Loudoun	hiv_rate	110
+51109	Virginia	Louisa	hiv_rate	123
+51111	Virginia	Lunenburg	hiv_rate	232
+51113	Virginia	Madison	hiv_rate	92
+51115	Virginia	Mathews	hiv_rate	
+51117	Virginia	Mecklenburg	hiv_rate	321
+51119	Virginia	Middlesex	hiv_rate	181
+51121	Virginia	Montgomery	hiv_rate	48
+51125	Virginia	Nelson	hiv_rate	161
+51127	Virginia	New Kent	hiv_rate	114
+51131	Virginia	Northampton	hiv_rate	372
+51133	Virginia	Northumberland	hiv_rate	166
+51135	Virginia	Nottoway	hiv_rate	392
+51137	Virginia	Orange	hiv_rate	104
+51139	Virginia	Page	hiv_rate	54
+51141	Virginia	Patrick	hiv_rate	51
+51143	Virginia	Pittsylvania	hiv_rate	114
+51145	Virginia	Powhatan	hiv_rate	554
+51147	Virginia	Prince Edward	hiv_rate	164
+51149	Virginia	Prince George	hiv_rate	173
+51153	Virginia	Prince William	hiv_rate	231
+51155	Virginia	Pulaski	hiv_rate	84
+51157	Virginia	Rappahannock	hiv_rate	112
+51159	Virginia	Richmond	hiv_rate	438
+51161	Virginia	Roanoke	hiv_rate	49
+51163	Virginia	Rockbridge	hiv_rate	62
+51165	Virginia	Rockingham	hiv_rate	75
+51167	Virginia	Russell	hiv_rate	40
+51169	Virginia	Scott	hiv_rate	48
+51171	Virginia	Shenandoah	hiv_rate	50
+51173	Virginia	Smyth	hiv_rate	102
+51175	Virginia	Southampton	hiv_rate	156
+51177	Virginia	Spotsylvania	hiv_rate	107
+51179	Virginia	Stafford	hiv_rate	110
+51181	Virginia	Surry	hiv_rate	213
+51183	Virginia	Sussex	hiv_rate	452
+51185	Virginia	Tazewell	hiv_rate	65
+51187	Virginia	Warren	hiv_rate	106
+51191	Virginia	Washington	hiv_rate	62
+51193	Virginia	Westmoreland	hiv_rate	92
+51195	Virginia	Wise	hiv_rate	78
+51197	Virginia	Wythe	hiv_rate	96
+51199	Virginia	York	hiv_rate	97
+51510	Virginia	Alexandria City	hiv_rate	1013
+51515	Virginia	Bedford City	hiv_rate	302
+51520	Virginia	Bristol City	hiv_rate	157
+51530	Virginia	Buena Vista City	hiv_rate	
+51540	Virginia	Charlottesville City	hiv_rate	451
+51550	Virginia	Chesapeake City	hiv_rate	261
+51570	Virginia	Colonial Heights City	hiv_rate	166
+51580	Virginia	Covington City	hiv_rate	171
+51590	Virginia	Danville City	hiv_rate	360
+51595	Virginia	Emporia City	hiv_rate	516
+51600	Virginia	Fairfax City	hiv_rate	733
+51610	Virginia	Falls Church City	hiv_rate	508
+51620	Virginia	Franklin City	hiv_rate	498
+51630	Virginia	Fredericksburg City	hiv_rate	373
+51640	Virginia	Galax City	hiv_rate	122
+51650	Virginia	Hampton City	hiv_rate	437
+51660	Virginia	Harrisonburg City	hiv_rate	142
+51670	Virginia	Hopewell City	hiv_rate	425
+51678	Virginia	Lexington City	hiv_rate	
+51680	Virginia	Lynchburg City	hiv_rate	276
+51683	Virginia	Manassas City	hiv_rate	519
+51685	Virginia	Manassas Park City	hiv_rate	130
+51690	Virginia	Martinsville City	hiv_rate	303
+51700	Virginia	Newport News City	hiv_rate	495
+51710	Virginia	Norfolk City	hiv_rate	1096
+51720	Virginia	Norton City	hiv_rate	
+51730	Virginia	Petersburg City	hiv_rate	1305
+51735	Virginia	Poquoson City	hiv_rate	51
+51740	Virginia	Portsmouth City	hiv_rate	737
+51750	Virginia	Radford City	hiv_rate	
+51760	Virginia	Richmond City	hiv_rate	1158
+51770	Virginia	Roanoke City	hiv_rate	552
+51775	Virginia	Salem City	hiv_rate	139
+51790	Virginia	Staunton City	hiv_rate	265
+51800	Virginia	Suffolk City	hiv_rate	302
+51810	Virginia	Virginia Beach City	hiv_rate	300
+51820	Virginia	Waynesboro City	hiv_rate	137
+51830	Virginia	Williamsburg City	hiv_rate	487
+51840	Virginia	Winchester City	hiv_rate	377
+53001	Washington	Adams	hiv_rate	56
+53003	Washington	Asotin	hiv_rate	78
+53005	Washington	Benton	hiv_rate	61
+53007	Washington	Chelan	hiv_rate	74
+53009	Washington	Clallam	hiv_rate	59
+53011	Washington	Clark	hiv_rate	130
+53013	Washington	Columbia	hiv_rate	
+53015	Washington	Cowlitz	hiv_rate	110
+53017	Washington	Douglas	hiv_rate	20
+53019	Washington	Ferry	hiv_rate	
+53021	Washington	Franklin	hiv_rate	110
+53023	Washington	Garfield	hiv_rate	
+53025	Washington	Grant	hiv_rate	40
+53027	Washington	Grays Harbor	hiv_rate	80
+53029	Washington	Island	hiv_rate	68
+53031	Washington	Jefferson	hiv_rate	71
+53033	Washington	King	hiv_rate	397
+53035	Washington	Kitsap	hiv_rate	92
+53037	Washington	Kittitas	hiv_rate	46
+53039	Washington	Klickitat	hiv_rate	43
+53041	Washington	Lewis	hiv_rate	48
+53043	Washington	Lincoln	hiv_rate	
+53045	Washington	Mason	hiv_rate	161
+53047	Washington	Okanogan	hiv_rate	80
+53049	Washington	Pacific	hiv_rate	100
+53051	Washington	Pend Oreille	hiv_rate	
+53053	Washington	Pierce	hiv_rate	141
+53055	Washington	San Juan	hiv_rate	107
+53057	Washington	Skagit	hiv_rate	48
+53059	Washington	Skamania	hiv_rate	
+53061	Washington	Snohomish	hiv_rate	111
+53063	Washington	Spokane	hiv_rate	102
+53065	Washington	Stevens	hiv_rate	28
+53067	Washington	Thurston	hiv_rate	84
+53069	Washington	Wahkiakum	hiv_rate	
+53071	Washington	Walla Walla	hiv_rate	60
+53073	Washington	Whatcom	hiv_rate	80
+53075	Washington	Whitman	hiv_rate	54
+53077	Washington	Yakima	hiv_rate	87
+54001	West Virginia	Barbour	hiv_rate	45
+54003	West Virginia	Berkeley	hiv_rate	148
+54005	West Virginia	Boone	hiv_rate	72
+54007	West Virginia	Braxton	hiv_rate	97
+54009	West Virginia	Brooke	hiv_rate	44
+54011	West Virginia	Cabell	hiv_rate	178
+54013	West Virginia	Calhoun	hiv_rate	
+54015	West Virginia	Clay	hiv_rate	
+54017	West Virginia	Doddridge	hiv_rate	
+54019	West Virginia	Fayette	hiv_rate	57
+54021	West Virginia	Gilmer	hiv_rate	187
+54023	West Virginia	Grant	hiv_rate	
+54025	West Virginia	Greenbrier	hiv_rate	139
+54027	West Virginia	Hampshire	hiv_rate	45
+54029	West Virginia	Hancock	hiv_rate	64
+54031	West Virginia	Hardy	hiv_rate	
+54033	West Virginia	Harrison	hiv_rate	54
+54035	West Virginia	Jackson	hiv_rate	
+54037	West Virginia	Jefferson	hiv_rate	147
+54039	West Virginia	Kanawha	hiv_rate	176
+54041	West Virginia	Lewis	hiv_rate	
+54043	West Virginia	Lincoln	hiv_rate	31
+54045	West Virginia	Logan	hiv_rate	38
+54047	West Virginia	McDowell	hiv_rate	58
+54049	West Virginia	Marion	hiv_rate	55
+54051	West Virginia	Marshall	hiv_rate	92
+54053	West Virginia	Mason	hiv_rate	
+54055	West Virginia	Mercer	hiv_rate	51
+54057	West Virginia	Mineral	hiv_rate	22
+54059	West Virginia	Mingo	hiv_rate	
+54061	West Virginia	Monongalia	hiv_rate	113
+54063	West Virginia	Monroe	hiv_rate	435
+54065	West Virginia	Morgan	hiv_rate	66
+54067	West Virginia	Nicholas	hiv_rate	
+54069	West Virginia	Ohio	hiv_rate	131
+54071	West Virginia	Pendleton	hiv_rate	
+54073	West Virginia	Pleasants	hiv_rate	
+54075	West Virginia	Pocahontas	hiv_rate	
+54077	West Virginia	Preston	hiv_rate	23
+54079	West Virginia	Putnam	hiv_rate	34
+54081	West Virginia	Raleigh	hiv_rate	141
+54083	West Virginia	Randolph	hiv_rate	92
+54085	West Virginia	Ritchie	hiv_rate	59
+54087	West Virginia	Roane	hiv_rate	
+54089	West Virginia	Summers	hiv_rate	103
+54091	West Virginia	Taylor	hiv_rate	49
+54093	West Virginia	Tucker	hiv_rate	
+54095	West Virginia	Tyler	hiv_rate	
+54097	West Virginia	Upshur	hiv_rate	36
+54099	West Virginia	Wayne	hiv_rate	26
+54101	West Virginia	Webster	hiv_rate	74
+54103	West Virginia	Wetzel	hiv_rate	51
+54105	West Virginia	Wirt	hiv_rate	
+54107	West Virginia	Wood	hiv_rate	74
+54109	West Virginia	Wyoming	hiv_rate	34
+55001	Wisconsin	Adams	hiv_rate	105
+55003	Wisconsin	Ashland	hiv_rate	43
+55005	Wisconsin	Barron	hiv_rate	36
+55007	Wisconsin	Bayfield	hiv_rate	62
+55009	Wisconsin	Brown	hiv_rate	74
+55011	Wisconsin	Buffalo	hiv_rate	
+55013	Wisconsin	Burnett	hiv_rate	54
+55015	Wisconsin	Calumet	hiv_rate	14
+55017	Wisconsin	Chippewa	hiv_rate	23
+55019	Wisconsin	Clark	hiv_rate	34
+55021	Wisconsin	Columbia	hiv_rate	31
+55023	Wisconsin	Crawford	hiv_rate	49
+55025	Wisconsin	Dane	hiv_rate	136
+55027	Wisconsin	Dodge	hiv_rate	183
+55029	Wisconsin	Door	hiv_rate	24
+55031	Wisconsin	Douglas	hiv_rate	46
+55033	Wisconsin	Dunn	hiv_rate	39
+55035	Wisconsin	Eau Claire	hiv_rate	41
+55037	Wisconsin	Florence	hiv_rate	
+55039	Wisconsin	Fond du Lac	hiv_rate	35
+55041	Wisconsin	Forest	hiv_rate	
+55043	Wisconsin	Grant	hiv_rate	24
+55045	Wisconsin	Green	hiv_rate	24
+55047	Wisconsin	Green Lake	hiv_rate	46
+55049	Wisconsin	Iowa	hiv_rate	41
+55051	Wisconsin	Iron	hiv_rate	
+55053	Wisconsin	Jackson	hiv_rate	
+55055	Wisconsin	Jefferson	hiv_rate	22
+55057	Wisconsin	Juneau	hiv_rate	
+55059	Wisconsin	Kenosha	hiv_rate	94
+55061	Wisconsin	Kewaunee	hiv_rate	
+55063	Wisconsin	La Crosse	hiv_rate	75
+55065	Wisconsin	Lafayette	hiv_rate	
+55067	Wisconsin	Langlade	hiv_rate	29
+55069	Wisconsin	Lincoln	hiv_rate	
+55071	Wisconsin	Manitowoc	hiv_rate	34
+55073	Wisconsin	Marathon	hiv_rate	39
+55075	Wisconsin	Marinette	hiv_rate	19
+55077	Wisconsin	Marquette	hiv_rate	
+55078	Wisconsin	Menominee	hiv_rate	160
+55079	Wisconsin	Milwaukee	hiv_rate	328
+55081	Wisconsin	Monroe	hiv_rate	37
+55083	Wisconsin	Oconto	hiv_rate	
+55085	Wisconsin	Oneida	hiv_rate	18
+55087	Wisconsin	Outagamie	hiv_rate	49
+55089	Wisconsin	Ozaukee	hiv_rate	37
+55091	Wisconsin	Pepin	hiv_rate	
+55093	Wisconsin	Pierce	hiv_rate	42
+55095	Wisconsin	Polk	hiv_rate	16
+55097	Wisconsin	Portage	hiv_rate	34
+55099	Wisconsin	Price	hiv_rate	
+55101	Wisconsin	Racine	hiv_rate	92
+55103	Wisconsin	Richland	hiv_rate	
+55105	Wisconsin	Rock	hiv_rate	91
+55107	Wisconsin	Rusk	hiv_rate	
+55109	Wisconsin	St. Croix	hiv_rate	40
+55111	Wisconsin	Sauk	hiv_rate	55
+55113	Wisconsin	Sawyer	hiv_rate	43
+55115	Wisconsin	Shawano	hiv_rate	27
+55117	Wisconsin	Sheboygan	hiv_rate	46
+55119	Wisconsin	Taylor	hiv_rate	
+55121	Wisconsin	Trempealeau	hiv_rate	31
+55123	Wisconsin	Vernon	hiv_rate	
+55125	Wisconsin	Vilas	hiv_rate	42
+55127	Wisconsin	Walworth	hiv_rate	40
+55129	Wisconsin	Washburn	hiv_rate	
+55131	Wisconsin	Washington	hiv_rate	31
+55133	Wisconsin	Waukesha	hiv_rate	33
+55135	Wisconsin	Waupaca	hiv_rate	16
+55137	Wisconsin	Waushara	hiv_rate	38
+55139	Wisconsin	Winnebago	hiv_rate	47
+55141	Wisconsin	Wood	hiv_rate	37
+56001	Wyoming	Albany	hiv_rate	72
+56003	Wyoming	Big Horn	hiv_rate	
+56005	Wyoming	Campbell	hiv_rate	24
+56007	Wyoming	Carbon	hiv_rate	85
+56009	Wyoming	Converse	hiv_rate	
+56011	Wyoming	Crook	hiv_rate	91
+56013	Wyoming	Fremont	hiv_rate	58
+56015	Wyoming	Goshen	hiv_rate	
+56017	Wyoming	Hot Springs	hiv_rate	
+56019	Wyoming	Johnson	hiv_rate	
+56021	Wyoming	Laramie	hiv_rate	74
+56023	Wyoming	Lincoln	hiv_rate	37
+56025	Wyoming	Natrona	hiv_rate	34
+56027	Wyoming	Niobrara	hiv_rate	
+56029	Wyoming	Park	hiv_rate	
+56031	Wyoming	Platte	hiv_rate	
+56033	Wyoming	Sheridan	hiv_rate	25
+56035	Wyoming	Sublette	hiv_rate	
+56037	Wyoming	Sweetwater	hiv_rate	53
+56039	Wyoming	Teton	hiv_rate	79
+56041	Wyoming	Uinta	hiv_rate	84
+56043	Wyoming	Washakie	hiv_rate	
+56045	Wyoming	Weston	hiv_rate	

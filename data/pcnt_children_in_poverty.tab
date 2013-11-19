@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_children_in_poverty
-01001	Alabama	Autauga	pcnt_children_in_poverty	21
-01003	Alabama	Baldwin	pcnt_children_in_poverty	21
-01005	Alabama	Barbour	pcnt_children_in_poverty	40
-01007	Alabama	Bibb	pcnt_children_in_poverty	31
-01009	Alabama	Blount	pcnt_children_in_poverty	22
-01011	Alabama	Bullock	pcnt_children_in_poverty	41
-01013	Alabama	Butler	pcnt_children_in_poverty	36
-01015	Alabama	Calhoun	pcnt_children_in_poverty	32
-01017	Alabama	Chambers	pcnt_children_in_poverty	39
-01019	Alabama	Cherokee	pcnt_children_in_poverty	37
-01021	Alabama	Chilton	pcnt_children_in_poverty	28
-01023	Alabama	Choctaw	pcnt_children_in_poverty	36
-01025	Alabama	Clarke	pcnt_children_in_poverty	35
-01027	Alabama	Clay	pcnt_children_in_poverty	29
-01029	Alabama	Cleburne	pcnt_children_in_poverty	26
-01031	Alabama	Coffee	pcnt_children_in_poverty	24
-01033	Alabama	Colbert	pcnt_children_in_poverty	28
-01035	Alabama	Conecuh	pcnt_children_in_poverty	40
-01037	Alabama	Coosa	pcnt_children_in_poverty	36
-01039	Alabama	Covington	pcnt_children_in_poverty	34
-01041	Alabama	Crenshaw	pcnt_children_in_poverty	28
-01043	Alabama	Cullman	pcnt_children_in_poverty	28
-01045	Alabama	Dale	pcnt_children_in_poverty	28
-01047	Alabama	Dallas	pcnt_children_in_poverty	50
-01049	Alabama	DeKalb	pcnt_children_in_poverty	30
-01051	Alabama	Elmore	pcnt_children_in_poverty	21
-01053	Alabama	Escambia	pcnt_children_in_poverty	32
-01055	Alabama	Etowah	pcnt_children_in_poverty	30
-01057	Alabama	Fayette	pcnt_children_in_poverty	33
-01059	Alabama	Franklin	pcnt_children_in_poverty	33
-01061	Alabama	Geneva	pcnt_children_in_poverty	42
-01063	Alabama	Greene	pcnt_children_in_poverty	47
-01065	Alabama	Hale	pcnt_children_in_poverty	41
-01067	Alabama	Henry	pcnt_children_in_poverty	29
-01069	Alabama	Houston	pcnt_children_in_poverty	29
-01071	Alabama	Jackson	pcnt_children_in_poverty	25
-01073	Alabama	Jefferson	pcnt_children_in_poverty	27
-01075	Alabama	Lamar	pcnt_children_in_poverty	31
-01077	Alabama	Lauderdale	pcnt_children_in_poverty	24
-01079	Alabama	Lawrence	pcnt_children_in_poverty	27
-01081	Alabama	Lee	pcnt_children_in_poverty	21
-01083	Alabama	Limestone	pcnt_children_in_poverty	21
-01085	Alabama	Lowndes	pcnt_children_in_poverty	40
-01087	Alabama	Macon	pcnt_children_in_poverty	43
-01089	Alabama	Madison	pcnt_children_in_poverty	20
-01091	Alabama	Marengo	pcnt_children_in_poverty	34
-01093	Alabama	Marion	pcnt_children_in_poverty	33
-01095	Alabama	Marshall	pcnt_children_in_poverty	28
-01097	Alabama	Mobile	pcnt_children_in_poverty	30
-01099	Alabama	Monroe	pcnt_children_in_poverty	42
-01101	Alabama	Montgomery	pcnt_children_in_poverty	34
-01103	Alabama	Morgan	pcnt_children_in_poverty	27
-01105	Alabama	Perry	pcnt_children_in_poverty	47
-01107	Alabama	Pickens	pcnt_children_in_poverty	35
-01109	Alabama	Pike	pcnt_children_in_poverty	34
-01111	Alabama	Randolph	pcnt_children_in_poverty	31
-01113	Alabama	Russell	pcnt_children_in_poverty	30
-01115	Alabama	St. Clair	pcnt_children_in_poverty	25
-01117	Alabama	Shelby	pcnt_children_in_poverty	12
-01119	Alabama	Sumter	pcnt_children_in_poverty	46
-01121	Alabama	Talladega	pcnt_children_in_poverty	35
-01123	Alabama	Tallapoosa	pcnt_children_in_poverty	30
-01125	Alabama	Tuscaloosa	pcnt_children_in_poverty	27
-01127	Alabama	Walker	pcnt_children_in_poverty	30
-01129	Alabama	Washington	pcnt_children_in_poverty	27
-01131	Alabama	Wilcox	pcnt_children_in_poverty	51
-01133	Alabama	Winston	pcnt_children_in_poverty	30
-02013	Alaska	Aleutians East	pcnt_children_in_poverty	18
-02016	Alaska	Aleutians West	pcnt_children_in_poverty	9
-02020	Alaska	Anchorage	pcnt_children_in_poverty	12
-02050	Alaska	Bethel	pcnt_children_in_poverty	30
-02060	Alaska	Bristol Bay	pcnt_children_in_poverty	11
-02068	Alaska	Denali	pcnt_children_in_poverty	8
-02070	Alaska	Dillingham	pcnt_children_in_poverty	27
-02090	Alaska	Fairbanks North Star	pcnt_children_in_poverty	11
-02100	Alaska	Haines	pcnt_children_in_poverty	17
-02110	Alaska	Juneau	pcnt_children_in_poverty	10
-02122	Alaska	Kenai Peninsula	pcnt_children_in_poverty	14
-02130	Alaska	Ketchikan Gateway	pcnt_children_in_poverty	15
-02150	Alaska	Kodiak Island	pcnt_children_in_poverty	11
-02164	Alaska	Lake and Peninsula	pcnt_children_in_poverty	22
-02170	Alaska	Matanuska-Susitna	pcnt_children_in_poverty	15
-02180	Alaska	Nome	pcnt_children_in_poverty	32
-02185	Alaska	North Slope	pcnt_children_in_poverty	14
-02188	Alaska	Northwest Arctic	pcnt_children_in_poverty	28
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_children_in_poverty	23
-02220	Alaska	Sitka	pcnt_children_in_poverty	11
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_children_in_poverty	21
-02240	Alaska	Southeast Fairbanks	pcnt_children_in_poverty	20
-02261	Alaska	Valdez-Cordova	pcnt_children_in_poverty	11
-02270	Alaska	Wade Hampton	pcnt_children_in_poverty	42
-02280	Alaska	Wrangell-Petersburg	pcnt_children_in_poverty	16
-02282	Alaska	Yakutat	pcnt_children_in_poverty	17
-02290	Alaska	Yukon-Koyukuk	pcnt_children_in_poverty	29
-04001	Arizona	Apache	pcnt_children_in_poverty	44
-04003	Arizona	Cochise	pcnt_children_in_poverty	31
-04005	Arizona	Coconino	pcnt_children_in_poverty	27
-04007	Arizona	Gila	pcnt_children_in_poverty	38
-04009	Arizona	Graham	pcnt_children_in_poverty	31
-04011	Arizona	Greenlee	pcnt_children_in_poverty	18
-04012	Arizona	La Paz	pcnt_children_in_poverty	38
-04013	Arizona	Maricopa	pcnt_children_in_poverty	25
-04015	Arizona	Mohave	pcnt_children_in_poverty	37
-04017	Arizona	Navajo	pcnt_children_in_poverty	45
-04019	Arizona	Pima	pcnt_children_in_poverty	29
-04021	Arizona	Pinal	pcnt_children_in_poverty	23
-04023	Arizona	Santa Cruz	pcnt_children_in_poverty	35
-04025	Arizona	Yavapai	pcnt_children_in_poverty	29
-04027	Arizona	Yuma	pcnt_children_in_poverty	32
-05001	Arkansas	Arkansas	pcnt_children_in_poverty	28
-05003	Arkansas	Ashley	pcnt_children_in_poverty	31
-05005	Arkansas	Baxter	pcnt_children_in_poverty	28
-05007	Arkansas	Benton	pcnt_children_in_poverty	18
-05009	Arkansas	Boone	pcnt_children_in_poverty	27
-05011	Arkansas	Bradley	pcnt_children_in_poverty	36
-05013	Arkansas	Calhoun	pcnt_children_in_poverty	22
-05015	Arkansas	Carroll	pcnt_children_in_poverty	30
-05017	Arkansas	Chicot	pcnt_children_in_poverty	48
-05019	Arkansas	Clark	pcnt_children_in_poverty	30
-05021	Arkansas	Clay	pcnt_children_in_poverty	29
-05023	Arkansas	Cleburne	pcnt_children_in_poverty	26
-05025	Arkansas	Cleveland	pcnt_children_in_poverty	25
-05027	Arkansas	Columbia	pcnt_children_in_poverty	37
-05029	Arkansas	Conway	pcnt_children_in_poverty	31
-05031	Arkansas	Craighead	pcnt_children_in_poverty	28
-05033	Arkansas	Crawford	pcnt_children_in_poverty	27
-05035	Arkansas	Crittenden	pcnt_children_in_poverty	40
-05037	Arkansas	Cross	pcnt_children_in_poverty	28
-05039	Arkansas	Dallas	pcnt_children_in_poverty	34
-05041	Arkansas	Desha	pcnt_children_in_poverty	40
-05043	Arkansas	Drew	pcnt_children_in_poverty	31
-05045	Arkansas	Faulkner	pcnt_children_in_poverty	18
-05047	Arkansas	Franklin	pcnt_children_in_poverty	28
-05049	Arkansas	Fulton	pcnt_children_in_poverty	34
-05051	Arkansas	Garland	pcnt_children_in_poverty	32
-05053	Arkansas	Grant	pcnt_children_in_poverty	18
-05055	Arkansas	Greene	pcnt_children_in_poverty	26
-05057	Arkansas	Hempstead	pcnt_children_in_poverty	38
-05059	Arkansas	Hot Spring	pcnt_children_in_poverty	30
-05061	Arkansas	Howard	pcnt_children_in_poverty	31
-05063	Arkansas	Independence	pcnt_children_in_poverty	28
-05065	Arkansas	Izard	pcnt_children_in_poverty	32
-05067	Arkansas	Jackson	pcnt_children_in_poverty	35
-05069	Arkansas	Jefferson	pcnt_children_in_poverty	36
-05071	Arkansas	Johnson	pcnt_children_in_poverty	30
-05073	Arkansas	Lafayette	pcnt_children_in_poverty	35
-05075	Arkansas	Lawrence	pcnt_children_in_poverty	34
-05077	Arkansas	Lee	pcnt_children_in_poverty	46
-05079	Arkansas	Lincoln	pcnt_children_in_poverty	29
-05081	Arkansas	Little River	pcnt_children_in_poverty	28
-05083	Arkansas	Logan	pcnt_children_in_poverty	31
-05085	Arkansas	Lonoke	pcnt_children_in_poverty	19
-05087	Arkansas	Madison	pcnt_children_in_poverty	31
-05089	Arkansas	Marion	pcnt_children_in_poverty	35
-05091	Arkansas	Miller	pcnt_children_in_poverty	32
-05093	Arkansas	Mississippi	pcnt_children_in_poverty	36
-05095	Arkansas	Monroe	pcnt_children_in_poverty	48
-05097	Arkansas	Montgomery	pcnt_children_in_poverty	35
-05099	Arkansas	Nevada	pcnt_children_in_poverty	35
-05101	Arkansas	Newton	pcnt_children_in_poverty	36
-05103	Arkansas	Ouachita	pcnt_children_in_poverty	38
-05105	Arkansas	Perry	pcnt_children_in_poverty	27
-05107	Arkansas	Phillips	pcnt_children_in_poverty	51
-05109	Arkansas	Pike	pcnt_children_in_poverty	32
-05111	Arkansas	Poinsett	pcnt_children_in_poverty	37
-05113	Arkansas	Polk	pcnt_children_in_poverty	35
-05115	Arkansas	Pope	pcnt_children_in_poverty	30
-05117	Arkansas	Prairie	pcnt_children_in_poverty	31
-05119	Arkansas	Pulaski	pcnt_children_in_poverty	23
-05121	Arkansas	Randolph	pcnt_children_in_poverty	35
-05123	Arkansas	St. Francis	pcnt_children_in_poverty	44
-05125	Arkansas	Saline	pcnt_children_in_poverty	15
-05127	Arkansas	Scott	pcnt_children_in_poverty	37
-05129	Arkansas	Searcy	pcnt_children_in_poverty	47
-05131	Arkansas	Sebastian	pcnt_children_in_poverty	31
-05133	Arkansas	Sevier	pcnt_children_in_poverty	32
-05135	Arkansas	Sharp	pcnt_children_in_poverty	38
-05137	Arkansas	Stone	pcnt_children_in_poverty	39
-05139	Arkansas	Union	pcnt_children_in_poverty	32
-05141	Arkansas	Van Buren	pcnt_children_in_poverty	39
-05143	Arkansas	Washington	pcnt_children_in_poverty	27
-05145	Arkansas	White	pcnt_children_in_poverty	24
-05147	Arkansas	Woodruff	pcnt_children_in_poverty	39
-05149	Arkansas	Yell	pcnt_children_in_poverty	28
-06001	California	Alameda	pcnt_children_in_poverty	17
-06003	California	Alpine	pcnt_children_in_poverty	29
-06005	California	Amador	pcnt_children_in_poverty	19
-06007	California	Butte	pcnt_children_in_poverty	28
-06009	California	Calaveras	pcnt_children_in_poverty	20
-06011	California	Colusa	pcnt_children_in_poverty	20
-06013	California	Contra Costa	pcnt_children_in_poverty	15
-06015	California	Del Norte	pcnt_children_in_poverty	34
-06017	California	El Dorado	pcnt_children_in_poverty	13
-06019	California	Fresno	pcnt_children_in_poverty	35
-06021	California	Glenn	pcnt_children_in_poverty	27
-06023	California	Humboldt	pcnt_children_in_poverty	26
-06025	California	Imperial	pcnt_children_in_poverty	33
-06027	California	Inyo	pcnt_children_in_poverty	20
-06029	California	Kern	pcnt_children_in_poverty	35
-06031	California	Kings	pcnt_children_in_poverty	30
-06033	California	Lake	pcnt_children_in_poverty	34
-06035	California	Lassen	pcnt_children_in_poverty	19
-06037	California	Los Angeles	pcnt_children_in_poverty	26
-06039	California	Madera	pcnt_children_in_poverty	34
-06041	California	Marin	pcnt_children_in_poverty	11
-06043	California	Mariposa	pcnt_children_in_poverty	24
-06045	California	Mendocino	pcnt_children_in_poverty	31
-06047	California	Merced	pcnt_children_in_poverty	36
-06049	California	Modoc	pcnt_children_in_poverty	32
-06051	California	Mono	pcnt_children_in_poverty	16
-06053	California	Monterey	pcnt_children_in_poverty	25
-06055	California	Napa	pcnt_children_in_poverty	17
-06057	California	Nevada	pcnt_children_in_poverty	17
-06059	California	Orange	pcnt_children_in_poverty	18
-06061	California	Placer	pcnt_children_in_poverty	10
-06063	California	Plumas	pcnt_children_in_poverty	22
-06065	California	Riverside	pcnt_children_in_poverty	23
-06067	California	Sacramento	pcnt_children_in_poverty	25
-06069	California	San Benito	pcnt_children_in_poverty	18
-06071	California	San Bernardino	pcnt_children_in_poverty	26
-06073	California	San Diego	pcnt_children_in_poverty	19
-06075	California	San Francisco	pcnt_children_in_poverty	16
-06077	California	San Joaquin	pcnt_children_in_poverty	25
-06079	California	San Luis Obispo	pcnt_children_in_poverty	18
-06081	California	San Mateo	pcnt_children_in_poverty	10
-06083	California	Santa Barbara	pcnt_children_in_poverty	21
-06085	California	Santa Clara	pcnt_children_in_poverty	13
-06087	California	Santa Cruz	pcnt_children_in_poverty	19
-06089	California	Shasta	pcnt_children_in_poverty	25
-06091	California	Sierra	pcnt_children_in_poverty	20
-06093	California	Siskiyou	pcnt_children_in_poverty	32
-06095	California	Solano	pcnt_children_in_poverty	18
-06097	California	Sonoma	pcnt_children_in_poverty	16
-06099	California	Stanislaus	pcnt_children_in_poverty	32
-06101	California	Sutter	pcnt_children_in_poverty	25
-06103	California	Tehama	pcnt_children_in_poverty	28
-06105	California	Trinity	pcnt_children_in_poverty	33
-06107	California	Tulare	pcnt_children_in_poverty	34
-06109	California	Tuolumne	pcnt_children_in_poverty	24
-06111	California	Ventura	pcnt_children_in_poverty	16
-06113	California	Yolo	pcnt_children_in_poverty	21
-06115	California	Yuba	pcnt_children_in_poverty	27
-08001	Colorado	Adams	pcnt_children_in_poverty	23
-08003	Colorado	Alamosa	pcnt_children_in_poverty	30
-08005	Colorado	Arapahoe	pcnt_children_in_poverty	16
-08007	Colorado	Archuleta	pcnt_children_in_poverty	27
-08009	Colorado	Baca	pcnt_children_in_poverty	31
-08011	Colorado	Bent	pcnt_children_in_poverty	35
-08013	Colorado	Boulder	pcnt_children_in_poverty	13
-08014	Colorado	Broomfield	pcnt_children_in_poverty	8
-08015	Colorado	Chaffee	pcnt_children_in_poverty	20
-08017	Colorado	Cheyenne	pcnt_children_in_poverty	24
-08019	Colorado	Clear Creek	pcnt_children_in_poverty	14
-08021	Colorado	Conejos	pcnt_children_in_poverty	28
-08023	Colorado	Costilla	pcnt_children_in_poverty	38
-08025	Colorado	Crowley	pcnt_children_in_poverty	41
-08027	Colorado	Custer	pcnt_children_in_poverty	29
-08029	Colorado	Delta	pcnt_children_in_poverty	25
-08031	Colorado	Denver	pcnt_children_in_poverty	26
-08033	Colorado	Dolores	pcnt_children_in_poverty	16
-08035	Colorado	Douglas	pcnt_children_in_poverty	5
-08037	Colorado	Eagle	pcnt_children_in_poverty	15
-08039	Colorado	Elbert	pcnt_children_in_poverty	11
-08041	Colorado	El Paso	pcnt_children_in_poverty	18
-08043	Colorado	Fremont	pcnt_children_in_poverty	25
-08045	Colorado	Garfield	pcnt_children_in_poverty	15
-08047	Colorado	Gilpin	pcnt_children_in_poverty	12
-08049	Colorado	Grand	pcnt_children_in_poverty	16
-08051	Colorado	Gunnison	pcnt_children_in_poverty	18
-08053	Colorado	Hinsdale	pcnt_children_in_poverty	28
-08055	Colorado	Huerfano	pcnt_children_in_poverty	38
-08057	Colorado	Jackson	pcnt_children_in_poverty	29
-08059	Colorado	Jefferson	pcnt_children_in_poverty	12
-08061	Colorado	Kiowa	pcnt_children_in_poverty	18
-08063	Colorado	Kit Carson	pcnt_children_in_poverty	22
-08065	Colorado	Lake	pcnt_children_in_poverty	27
-08067	Colorado	La Plata	pcnt_children_in_poverty	15
-08069	Colorado	Larimer	pcnt_children_in_poverty	14
-08071	Colorado	Las Animas	pcnt_children_in_poverty	27
-08073	Colorado	Lincoln	pcnt_children_in_poverty	24
-08075	Colorado	Logan	pcnt_children_in_poverty	21
-08077	Colorado	Mesa	pcnt_children_in_poverty	16
-08079	Colorado	Mineral	pcnt_children_in_poverty	21
-08081	Colorado	Moffat	pcnt_children_in_poverty	18
-08083	Colorado	Montezuma	pcnt_children_in_poverty	26
-08085	Colorado	Montrose	pcnt_children_in_poverty	25
-08087	Colorado	Morgan	pcnt_children_in_poverty	20
-08089	Colorado	Otero	pcnt_children_in_poverty	35
-08091	Colorado	Ouray	pcnt_children_in_poverty	17
-08093	Colorado	Park	pcnt_children_in_poverty	16
-08095	Colorado	Phillips	pcnt_children_in_poverty	17
-08097	Colorado	Pitkin	pcnt_children_in_poverty	9
-08099	Colorado	Prowers	pcnt_children_in_poverty	30
-08101	Colorado	Pueblo	pcnt_children_in_poverty	27
-08103	Colorado	Rio Blanco	pcnt_children_in_poverty	12
-08105	Colorado	Rio Grande	pcnt_children_in_poverty	31
-08107	Colorado	Routt	pcnt_children_in_poverty	12
-08109	Colorado	Saguache	pcnt_children_in_poverty	42
-08111	Colorado	San Juan	pcnt_children_in_poverty	24
-08113	Colorado	San Miguel	pcnt_children_in_poverty	16
-08115	Colorado	Sedgwick	pcnt_children_in_poverty	22
-08117	Colorado	Summit	pcnt_children_in_poverty	14
-08119	Colorado	Teller	pcnt_children_in_poverty	15
-08121	Colorado	Washington	pcnt_children_in_poverty	20
-08123	Colorado	Weld	pcnt_children_in_poverty	18
-08125	Colorado	Yuma	pcnt_children_in_poverty	20
-09001	Connecticut	Fairfield	pcnt_children_in_poverty	12
-09003	Connecticut	Hartford	pcnt_children_in_poverty	17
-09005	Connecticut	Litchfield	pcnt_children_in_poverty	9
-09007	Connecticut	Middlesex	pcnt_children_in_poverty	8
-09009	Connecticut	New Haven	pcnt_children_in_poverty	19
-09011	Connecticut	New London	pcnt_children_in_poverty	12
-09013	Connecticut	Tolland	pcnt_children_in_poverty	7
-09015	Connecticut	Windham	pcnt_children_in_poverty	15
+1001	Alabama	Autauga	pcnt_children_in_poverty	21
+1003	Alabama	Baldwin	pcnt_children_in_poverty	21
+1005	Alabama	Barbour	pcnt_children_in_poverty	40
+1007	Alabama	Bibb	pcnt_children_in_poverty	31
+1009	Alabama	Blount	pcnt_children_in_poverty	22
+1011	Alabama	Bullock	pcnt_children_in_poverty	41
+1013	Alabama	Butler	pcnt_children_in_poverty	36
+1015	Alabama	Calhoun	pcnt_children_in_poverty	32
+1017	Alabama	Chambers	pcnt_children_in_poverty	39
+1019	Alabama	Cherokee	pcnt_children_in_poverty	37
+1021	Alabama	Chilton	pcnt_children_in_poverty	28
+1023	Alabama	Choctaw	pcnt_children_in_poverty	36
+1025	Alabama	Clarke	pcnt_children_in_poverty	35
+1027	Alabama	Clay	pcnt_children_in_poverty	29
+1029	Alabama	Cleburne	pcnt_children_in_poverty	26
+1031	Alabama	Coffee	pcnt_children_in_poverty	24
+1033	Alabama	Colbert	pcnt_children_in_poverty	28
+1035	Alabama	Conecuh	pcnt_children_in_poverty	40
+1037	Alabama	Coosa	pcnt_children_in_poverty	36
+1039	Alabama	Covington	pcnt_children_in_poverty	34
+1041	Alabama	Crenshaw	pcnt_children_in_poverty	28
+1043	Alabama	Cullman	pcnt_children_in_poverty	28
+1045	Alabama	Dale	pcnt_children_in_poverty	28
+1047	Alabama	Dallas	pcnt_children_in_poverty	50
+1049	Alabama	DeKalb	pcnt_children_in_poverty	30
+1051	Alabama	Elmore	pcnt_children_in_poverty	21
+1053	Alabama	Escambia	pcnt_children_in_poverty	32
+1055	Alabama	Etowah	pcnt_children_in_poverty	30
+1057	Alabama	Fayette	pcnt_children_in_poverty	33
+1059	Alabama	Franklin	pcnt_children_in_poverty	33
+1061	Alabama	Geneva	pcnt_children_in_poverty	42
+1063	Alabama	Greene	pcnt_children_in_poverty	47
+1065	Alabama	Hale	pcnt_children_in_poverty	41
+1067	Alabama	Henry	pcnt_children_in_poverty	29
+1069	Alabama	Houston	pcnt_children_in_poverty	29
+1071	Alabama	Jackson	pcnt_children_in_poverty	25
+1073	Alabama	Jefferson	pcnt_children_in_poverty	27
+1075	Alabama	Lamar	pcnt_children_in_poverty	31
+1077	Alabama	Lauderdale	pcnt_children_in_poverty	24
+1079	Alabama	Lawrence	pcnt_children_in_poverty	27
+1081	Alabama	Lee	pcnt_children_in_poverty	21
+1083	Alabama	Limestone	pcnt_children_in_poverty	21
+1085	Alabama	Lowndes	pcnt_children_in_poverty	40
+1087	Alabama	Macon	pcnt_children_in_poverty	43
+1089	Alabama	Madison	pcnt_children_in_poverty	20
+1091	Alabama	Marengo	pcnt_children_in_poverty	34
+1093	Alabama	Marion	pcnt_children_in_poverty	33
+1095	Alabama	Marshall	pcnt_children_in_poverty	28
+1097	Alabama	Mobile	pcnt_children_in_poverty	30
+1099	Alabama	Monroe	pcnt_children_in_poverty	42
+1101	Alabama	Montgomery	pcnt_children_in_poverty	34
+1103	Alabama	Morgan	pcnt_children_in_poverty	27
+1105	Alabama	Perry	pcnt_children_in_poverty	47
+1107	Alabama	Pickens	pcnt_children_in_poverty	35
+1109	Alabama	Pike	pcnt_children_in_poverty	34
+1111	Alabama	Randolph	pcnt_children_in_poverty	31
+1113	Alabama	Russell	pcnt_children_in_poverty	30
+1115	Alabama	St. Clair	pcnt_children_in_poverty	25
+1117	Alabama	Shelby	pcnt_children_in_poverty	12
+1119	Alabama	Sumter	pcnt_children_in_poverty	46
+1121	Alabama	Talladega	pcnt_children_in_poverty	35
+1123	Alabama	Tallapoosa	pcnt_children_in_poverty	30
+1125	Alabama	Tuscaloosa	pcnt_children_in_poverty	27
+1127	Alabama	Walker	pcnt_children_in_poverty	30
+1129	Alabama	Washington	pcnt_children_in_poverty	27
+1131	Alabama	Wilcox	pcnt_children_in_poverty	51
+1133	Alabama	Winston	pcnt_children_in_poverty	30
+2013	Alaska	Aleutians East	pcnt_children_in_poverty	18
+2016	Alaska	Aleutians West	pcnt_children_in_poverty	9
+2020	Alaska	Anchorage	pcnt_children_in_poverty	12
+2050	Alaska	Bethel	pcnt_children_in_poverty	30
+2060	Alaska	Bristol Bay	pcnt_children_in_poverty	11
+2068	Alaska	Denali	pcnt_children_in_poverty	8
+2070	Alaska	Dillingham	pcnt_children_in_poverty	27
+2090	Alaska	Fairbanks North Star	pcnt_children_in_poverty	11
+2100	Alaska	Haines	pcnt_children_in_poverty	17
+2110	Alaska	Juneau	pcnt_children_in_poverty	10
+2122	Alaska	Kenai Peninsula	pcnt_children_in_poverty	14
+2130	Alaska	Ketchikan Gateway	pcnt_children_in_poverty	15
+2150	Alaska	Kodiak Island	pcnt_children_in_poverty	11
+2164	Alaska	Lake and Peninsula	pcnt_children_in_poverty	22
+2170	Alaska	Matanuska-Susitna	pcnt_children_in_poverty	15
+2180	Alaska	Nome	pcnt_children_in_poverty	32
+2185	Alaska	North Slope	pcnt_children_in_poverty	14
+2188	Alaska	Northwest Arctic	pcnt_children_in_poverty	28
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_children_in_poverty	23
+2220	Alaska	Sitka	pcnt_children_in_poverty	11
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_children_in_poverty	21
+2240	Alaska	Southeast Fairbanks	pcnt_children_in_poverty	20
+2261	Alaska	Valdez-Cordova	pcnt_children_in_poverty	11
+2270	Alaska	Wade Hampton	pcnt_children_in_poverty	42
+2280	Alaska	Wrangell-Petersburg	pcnt_children_in_poverty	16
+2282	Alaska	Yakutat	pcnt_children_in_poverty	17
+2290	Alaska	Yukon-Koyukuk	pcnt_children_in_poverty	29
+4001	Arizona	Apache	pcnt_children_in_poverty	44
+4003	Arizona	Cochise	pcnt_children_in_poverty	31
+4005	Arizona	Coconino	pcnt_children_in_poverty	27
+4007	Arizona	Gila	pcnt_children_in_poverty	38
+4009	Arizona	Graham	pcnt_children_in_poverty	31
+4011	Arizona	Greenlee	pcnt_children_in_poverty	18
+4012	Arizona	La Paz	pcnt_children_in_poverty	38
+4013	Arizona	Maricopa	pcnt_children_in_poverty	25
+4015	Arizona	Mohave	pcnt_children_in_poverty	37
+4017	Arizona	Navajo	pcnt_children_in_poverty	45
+4019	Arizona	Pima	pcnt_children_in_poverty	29
+4021	Arizona	Pinal	pcnt_children_in_poverty	23
+4023	Arizona	Santa Cruz	pcnt_children_in_poverty	35
+4025	Arizona	Yavapai	pcnt_children_in_poverty	29
+4027	Arizona	Yuma	pcnt_children_in_poverty	32
+5001	Arkansas	Arkansas	pcnt_children_in_poverty	28
+5003	Arkansas	Ashley	pcnt_children_in_poverty	31
+5005	Arkansas	Baxter	pcnt_children_in_poverty	28
+5007	Arkansas	Benton	pcnt_children_in_poverty	18
+5009	Arkansas	Boone	pcnt_children_in_poverty	27
+5011	Arkansas	Bradley	pcnt_children_in_poverty	36
+5013	Arkansas	Calhoun	pcnt_children_in_poverty	22
+5015	Arkansas	Carroll	pcnt_children_in_poverty	30
+5017	Arkansas	Chicot	pcnt_children_in_poverty	48
+5019	Arkansas	Clark	pcnt_children_in_poverty	30
+5021	Arkansas	Clay	pcnt_children_in_poverty	29
+5023	Arkansas	Cleburne	pcnt_children_in_poverty	26
+5025	Arkansas	Cleveland	pcnt_children_in_poverty	25
+5027	Arkansas	Columbia	pcnt_children_in_poverty	37
+5029	Arkansas	Conway	pcnt_children_in_poverty	31
+5031	Arkansas	Craighead	pcnt_children_in_poverty	28
+5033	Arkansas	Crawford	pcnt_children_in_poverty	27
+5035	Arkansas	Crittenden	pcnt_children_in_poverty	40
+5037	Arkansas	Cross	pcnt_children_in_poverty	28
+5039	Arkansas	Dallas	pcnt_children_in_poverty	34
+5041	Arkansas	Desha	pcnt_children_in_poverty	40
+5043	Arkansas	Drew	pcnt_children_in_poverty	31
+5045	Arkansas	Faulkner	pcnt_children_in_poverty	18
+5047	Arkansas	Franklin	pcnt_children_in_poverty	28
+5049	Arkansas	Fulton	pcnt_children_in_poverty	34
+5051	Arkansas	Garland	pcnt_children_in_poverty	32
+5053	Arkansas	Grant	pcnt_children_in_poverty	18
+5055	Arkansas	Greene	pcnt_children_in_poverty	26
+5057	Arkansas	Hempstead	pcnt_children_in_poverty	38
+5059	Arkansas	Hot Spring	pcnt_children_in_poverty	30
+5061	Arkansas	Howard	pcnt_children_in_poverty	31
+5063	Arkansas	Independence	pcnt_children_in_poverty	28
+5065	Arkansas	Izard	pcnt_children_in_poverty	32
+5067	Arkansas	Jackson	pcnt_children_in_poverty	35
+5069	Arkansas	Jefferson	pcnt_children_in_poverty	36
+5071	Arkansas	Johnson	pcnt_children_in_poverty	30
+5073	Arkansas	Lafayette	pcnt_children_in_poverty	35
+5075	Arkansas	Lawrence	pcnt_children_in_poverty	34
+5077	Arkansas	Lee	pcnt_children_in_poverty	46
+5079	Arkansas	Lincoln	pcnt_children_in_poverty	29
+5081	Arkansas	Little River	pcnt_children_in_poverty	28
+5083	Arkansas	Logan	pcnt_children_in_poverty	31
+5085	Arkansas	Lonoke	pcnt_children_in_poverty	19
+5087	Arkansas	Madison	pcnt_children_in_poverty	31
+5089	Arkansas	Marion	pcnt_children_in_poverty	35
+5091	Arkansas	Miller	pcnt_children_in_poverty	32
+5093	Arkansas	Mississippi	pcnt_children_in_poverty	36
+5095	Arkansas	Monroe	pcnt_children_in_poverty	48
+5097	Arkansas	Montgomery	pcnt_children_in_poverty	35
+5099	Arkansas	Nevada	pcnt_children_in_poverty	35
+5101	Arkansas	Newton	pcnt_children_in_poverty	36
+5103	Arkansas	Ouachita	pcnt_children_in_poverty	38
+5105	Arkansas	Perry	pcnt_children_in_poverty	27
+5107	Arkansas	Phillips	pcnt_children_in_poverty	51
+5109	Arkansas	Pike	pcnt_children_in_poverty	32
+5111	Arkansas	Poinsett	pcnt_children_in_poverty	37
+5113	Arkansas	Polk	pcnt_children_in_poverty	35
+5115	Arkansas	Pope	pcnt_children_in_poverty	30
+5117	Arkansas	Prairie	pcnt_children_in_poverty	31
+5119	Arkansas	Pulaski	pcnt_children_in_poverty	23
+5121	Arkansas	Randolph	pcnt_children_in_poverty	35
+5123	Arkansas	St. Francis	pcnt_children_in_poverty	44
+5125	Arkansas	Saline	pcnt_children_in_poverty	15
+5127	Arkansas	Scott	pcnt_children_in_poverty	37
+5129	Arkansas	Searcy	pcnt_children_in_poverty	47
+5131	Arkansas	Sebastian	pcnt_children_in_poverty	31
+5133	Arkansas	Sevier	pcnt_children_in_poverty	32
+5135	Arkansas	Sharp	pcnt_children_in_poverty	38
+5137	Arkansas	Stone	pcnt_children_in_poverty	39
+5139	Arkansas	Union	pcnt_children_in_poverty	32
+5141	Arkansas	Van Buren	pcnt_children_in_poverty	39
+5143	Arkansas	Washington	pcnt_children_in_poverty	27
+5145	Arkansas	White	pcnt_children_in_poverty	24
+5147	Arkansas	Woodruff	pcnt_children_in_poverty	39
+5149	Arkansas	Yell	pcnt_children_in_poverty	28
+6001	California	Alameda	pcnt_children_in_poverty	17
+6003	California	Alpine	pcnt_children_in_poverty	29
+6005	California	Amador	pcnt_children_in_poverty	19
+6007	California	Butte	pcnt_children_in_poverty	28
+6009	California	Calaveras	pcnt_children_in_poverty	20
+6011	California	Colusa	pcnt_children_in_poverty	20
+6013	California	Contra Costa	pcnt_children_in_poverty	15
+6015	California	Del Norte	pcnt_children_in_poverty	34
+6017	California	El Dorado	pcnt_children_in_poverty	13
+6019	California	Fresno	pcnt_children_in_poverty	35
+6021	California	Glenn	pcnt_children_in_poverty	27
+6023	California	Humboldt	pcnt_children_in_poverty	26
+6025	California	Imperial	pcnt_children_in_poverty	33
+6027	California	Inyo	pcnt_children_in_poverty	20
+6029	California	Kern	pcnt_children_in_poverty	35
+6031	California	Kings	pcnt_children_in_poverty	30
+6033	California	Lake	pcnt_children_in_poverty	34
+6035	California	Lassen	pcnt_children_in_poverty	19
+6037	California	Los Angeles	pcnt_children_in_poverty	26
+6039	California	Madera	pcnt_children_in_poverty	34
+6041	California	Marin	pcnt_children_in_poverty	11
+6043	California	Mariposa	pcnt_children_in_poverty	24
+6045	California	Mendocino	pcnt_children_in_poverty	31
+6047	California	Merced	pcnt_children_in_poverty	36
+6049	California	Modoc	pcnt_children_in_poverty	32
+6051	California	Mono	pcnt_children_in_poverty	16
+6053	California	Monterey	pcnt_children_in_poverty	25
+6055	California	Napa	pcnt_children_in_poverty	17
+6057	California	Nevada	pcnt_children_in_poverty	17
+6059	California	Orange	pcnt_children_in_poverty	18
+6061	California	Placer	pcnt_children_in_poverty	10
+6063	California	Plumas	pcnt_children_in_poverty	22
+6065	California	Riverside	pcnt_children_in_poverty	23
+6067	California	Sacramento	pcnt_children_in_poverty	25
+6069	California	San Benito	pcnt_children_in_poverty	18
+6071	California	San Bernardino	pcnt_children_in_poverty	26
+6073	California	San Diego	pcnt_children_in_poverty	19
+6075	California	San Francisco	pcnt_children_in_poverty	16
+6077	California	San Joaquin	pcnt_children_in_poverty	25
+6079	California	San Luis Obispo	pcnt_children_in_poverty	18
+6081	California	San Mateo	pcnt_children_in_poverty	10
+6083	California	Santa Barbara	pcnt_children_in_poverty	21
+6085	California	Santa Clara	pcnt_children_in_poverty	13
+6087	California	Santa Cruz	pcnt_children_in_poverty	19
+6089	California	Shasta	pcnt_children_in_poverty	25
+6091	California	Sierra	pcnt_children_in_poverty	20
+6093	California	Siskiyou	pcnt_children_in_poverty	32
+6095	California	Solano	pcnt_children_in_poverty	18
+6097	California	Sonoma	pcnt_children_in_poverty	16
+6099	California	Stanislaus	pcnt_children_in_poverty	32
+6101	California	Sutter	pcnt_children_in_poverty	25
+6103	California	Tehama	pcnt_children_in_poverty	28
+6105	California	Trinity	pcnt_children_in_poverty	33
+6107	California	Tulare	pcnt_children_in_poverty	34
+6109	California	Tuolumne	pcnt_children_in_poverty	24
+6111	California	Ventura	pcnt_children_in_poverty	16
+6113	California	Yolo	pcnt_children_in_poverty	21
+6115	California	Yuba	pcnt_children_in_poverty	27
+8001	Colorado	Adams	pcnt_children_in_poverty	23
+8003	Colorado	Alamosa	pcnt_children_in_poverty	30
+8005	Colorado	Arapahoe	pcnt_children_in_poverty	16
+8007	Colorado	Archuleta	pcnt_children_in_poverty	27
+8009	Colorado	Baca	pcnt_children_in_poverty	31
+8011	Colorado	Bent	pcnt_children_in_poverty	35
+8013	Colorado	Boulder	pcnt_children_in_poverty	13
+8014	Colorado	Broomfield	pcnt_children_in_poverty	8
+8015	Colorado	Chaffee	pcnt_children_in_poverty	20
+8017	Colorado	Cheyenne	pcnt_children_in_poverty	24
+8019	Colorado	Clear Creek	pcnt_children_in_poverty	14
+8021	Colorado	Conejos	pcnt_children_in_poverty	28
+8023	Colorado	Costilla	pcnt_children_in_poverty	38
+8025	Colorado	Crowley	pcnt_children_in_poverty	41
+8027	Colorado	Custer	pcnt_children_in_poverty	29
+8029	Colorado	Delta	pcnt_children_in_poverty	25
+8031	Colorado	Denver	pcnt_children_in_poverty	26
+8033	Colorado	Dolores	pcnt_children_in_poverty	16
+8035	Colorado	Douglas	pcnt_children_in_poverty	5
+8037	Colorado	Eagle	pcnt_children_in_poverty	15
+8039	Colorado	Elbert	pcnt_children_in_poverty	11
+8041	Colorado	El Paso	pcnt_children_in_poverty	18
+8043	Colorado	Fremont	pcnt_children_in_poverty	25
+8045	Colorado	Garfield	pcnt_children_in_poverty	15
+8047	Colorado	Gilpin	pcnt_children_in_poverty	12
+8049	Colorado	Grand	pcnt_children_in_poverty	16
+8051	Colorado	Gunnison	pcnt_children_in_poverty	18
+8053	Colorado	Hinsdale	pcnt_children_in_poverty	28
+8055	Colorado	Huerfano	pcnt_children_in_poverty	38
+8057	Colorado	Jackson	pcnt_children_in_poverty	29
+8059	Colorado	Jefferson	pcnt_children_in_poverty	12
+8061	Colorado	Kiowa	pcnt_children_in_poverty	18
+8063	Colorado	Kit Carson	pcnt_children_in_poverty	22
+8065	Colorado	Lake	pcnt_children_in_poverty	27
+8067	Colorado	La Plata	pcnt_children_in_poverty	15
+8069	Colorado	Larimer	pcnt_children_in_poverty	14
+8071	Colorado	Las Animas	pcnt_children_in_poverty	27
+8073	Colorado	Lincoln	pcnt_children_in_poverty	24
+8075	Colorado	Logan	pcnt_children_in_poverty	21
+8077	Colorado	Mesa	pcnt_children_in_poverty	16
+8079	Colorado	Mineral	pcnt_children_in_poverty	21
+8081	Colorado	Moffat	pcnt_children_in_poverty	18
+8083	Colorado	Montezuma	pcnt_children_in_poverty	26
+8085	Colorado	Montrose	pcnt_children_in_poverty	25
+8087	Colorado	Morgan	pcnt_children_in_poverty	20
+8089	Colorado	Otero	pcnt_children_in_poverty	35
+8091	Colorado	Ouray	pcnt_children_in_poverty	17
+8093	Colorado	Park	pcnt_children_in_poverty	16
+8095	Colorado	Phillips	pcnt_children_in_poverty	17
+8097	Colorado	Pitkin	pcnt_children_in_poverty	9
+8099	Colorado	Prowers	pcnt_children_in_poverty	30
+8101	Colorado	Pueblo	pcnt_children_in_poverty	27
+8103	Colorado	Rio Blanco	pcnt_children_in_poverty	12
+8105	Colorado	Rio Grande	pcnt_children_in_poverty	31
+8107	Colorado	Routt	pcnt_children_in_poverty	12
+8109	Colorado	Saguache	pcnt_children_in_poverty	42
+8111	Colorado	San Juan	pcnt_children_in_poverty	24
+8113	Colorado	San Miguel	pcnt_children_in_poverty	16
+8115	Colorado	Sedgwick	pcnt_children_in_poverty	22
+8117	Colorado	Summit	pcnt_children_in_poverty	14
+8119	Colorado	Teller	pcnt_children_in_poverty	15
+8121	Colorado	Washington	pcnt_children_in_poverty	20
+8123	Colorado	Weld	pcnt_children_in_poverty	18
+8125	Colorado	Yuma	pcnt_children_in_poverty	20
+9001	Connecticut	Fairfield	pcnt_children_in_poverty	12
+9003	Connecticut	Hartford	pcnt_children_in_poverty	17
+9005	Connecticut	Litchfield	pcnt_children_in_poverty	9
+9007	Connecticut	Middlesex	pcnt_children_in_poverty	8
+9009	Connecticut	New Haven	pcnt_children_in_poverty	19
+9011	Connecticut	New London	pcnt_children_in_poverty	12
+9013	Connecticut	Tolland	pcnt_children_in_poverty	7
+9015	Connecticut	Windham	pcnt_children_in_poverty	15
 10001	Delaware	Kent	pcnt_children_in_poverty	23
 10003	Delaware	New Castle	pcnt_children_in_poverty	16
 10005	Delaware	Sussex	pcnt_children_in_poverty	23

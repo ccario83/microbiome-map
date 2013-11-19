@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	average_daily_pm25
+1001	Alabama	Autauga	average_daily_pm25	13.3
+1003	Alabama	Baldwin	average_daily_pm25	11.8
+1005	Alabama	Barbour	average_daily_pm25	12.1
+1007	Alabama	Bibb	average_daily_pm25	13.7
+1009	Alabama	Blount	average_daily_pm25	13
+1011	Alabama	Bullock	average_daily_pm25	12.5
+1013	Alabama	Butler	average_daily_pm25	12.4
+1015	Alabama	Calhoun	average_daily_pm25	13.1
+1017	Alabama	Chambers	average_daily_pm25	13.2
+1019	Alabama	Cherokee	average_daily_pm25	12.9
+1021	Alabama	Chilton	average_daily_pm25	13.6
+1023	Alabama	Choctaw	average_daily_pm25	13
+1025	Alabama	Clarke	average_daily_pm25	12.7
+1027	Alabama	Clay	average_daily_pm25	13.2
+1029	Alabama	Cleburne	average_daily_pm25	13
+1031	Alabama	Coffee	average_daily_pm25	11.7
+1033	Alabama	Colbert	average_daily_pm25	13.2
+1035	Alabama	Conecuh	average_daily_pm25	12.1
+1037	Alabama	Coosa	average_daily_pm25	13.5
+1039	Alabama	Covington	average_daily_pm25	11.8
+1041	Alabama	Crenshaw	average_daily_pm25	12.3
+1043	Alabama	Cullman	average_daily_pm25	13
+1045	Alabama	Dale	average_daily_pm25	11.7
+1047	Alabama	Dallas	average_daily_pm25	13.2
+1049	Alabama	DeKalb	average_daily_pm25	13
+1051	Alabama	Elmore	average_daily_pm25	13.2
+1053	Alabama	Escambia	average_daily_pm25	11.9
+1055	Alabama	Etowah	average_daily_pm25	13
+1057	Alabama	Fayette	average_daily_pm25	13.3
+1059	Alabama	Franklin	average_daily_pm25	12.9
+1061	Alabama	Geneva	average_daily_pm25	11.4
+1063	Alabama	Greene	average_daily_pm25	13.9
+1065	Alabama	Hale	average_daily_pm25	13.8
+1067	Alabama	Henry	average_daily_pm25	11.6
+1069	Alabama	Houston	average_daily_pm25	11.2
+1071	Alabama	Jackson	average_daily_pm25	13.3
+1073	Alabama	Jefferson	average_daily_pm25	13.3
+1075	Alabama	Lamar	average_daily_pm25	13.2
+1077	Alabama	Lauderdale	average_daily_pm25	13.4
+1079	Alabama	Lawrence	average_daily_pm25	13
+1081	Alabama	Lee	average_daily_pm25	13
+1083	Alabama	Limestone	average_daily_pm25	13.3
+1085	Alabama	Lowndes	average_daily_pm25	12.9
+1087	Alabama	Macon	average_daily_pm25	12.8
+1089	Alabama	Madison	average_daily_pm25	13.3
+1091	Alabama	Marengo	average_daily_pm25	13.3
+1093	Alabama	Marion	average_daily_pm25	13
+1095	Alabama	Marshall	average_daily_pm25	12.9
+1097	Alabama	Mobile	average_daily_pm25	11.8
+1099	Alabama	Monroe	average_daily_pm25	12.4
+1101	Alabama	Montgomery	average_daily_pm25	12.8
+1103	Alabama	Morgan	average_daily_pm25	12.9
+1105	Alabama	Perry	average_daily_pm25	13.6
+1107	Alabama	Pickens	average_daily_pm25	13.6
+1109	Alabama	Pike	average_daily_pm25	12.3
+1111	Alabama	Randolph	average_daily_pm25	13.1
+1113	Alabama	Russell	average_daily_pm25	12.5
+1115	Alabama	St. Clair	average_daily_pm25	13.1
+1117	Alabama	Shelby	average_daily_pm25	13.4
+1119	Alabama	Sumter	average_daily_pm25	13.6
+1121	Alabama	Talladega	average_daily_pm25	13.2
+1123	Alabama	Tallapoosa	average_daily_pm25	13.3
+1125	Alabama	Tuscaloosa	average_daily_pm25	13.6
+1127	Alabama	Walker	average_daily_pm25	13.2
+1129	Alabama	Washington	average_daily_pm25	12.3
+1131	Alabama	Wilcox	average_daily_pm25	12.9
+1133	Alabama	Winston	average_daily_pm25	13
+2013	Alaska	Aleutians East	average_daily_pm25	
+2016	Alaska	Aleutians West	average_daily_pm25	
+2020	Alaska	Anchorage	average_daily_pm25	
+2050	Alaska	Bethel	average_daily_pm25	
+2060	Alaska	Bristol Bay	average_daily_pm25	
+2068	Alaska	Denali	average_daily_pm25	
+2070	Alaska	Dillingham	average_daily_pm25	
+2090	Alaska	Fairbanks North Star	average_daily_pm25	
+2100	Alaska	Haines	average_daily_pm25	
+2110	Alaska	Juneau	average_daily_pm25	
+2122	Alaska	Kenai Peninsula	average_daily_pm25	
+2130	Alaska	Ketchikan Gateway	average_daily_pm25	
+2150	Alaska	Kodiak Island	average_daily_pm25	
+2164	Alaska	Lake and Peninsula	average_daily_pm25	
+2170	Alaska	Matanuska-Susitna	average_daily_pm25	
+2180	Alaska	Nome	average_daily_pm25	
+2185	Alaska	North Slope	average_daily_pm25	
+2188	Alaska	Northwest Arctic	average_daily_pm25	
+2201	Alaska	Prince of Wales-Outer Ketchikan	average_daily_pm25	
+2220	Alaska	Sitka	average_daily_pm25	
+2232	Alaska	Skagway-Hoonah-Angoon	average_daily_pm25	
+2240	Alaska	Southeast Fairbanks	average_daily_pm25	
+2261	Alaska	Valdez-Cordova	average_daily_pm25	
+2270	Alaska	Wade Hampton	average_daily_pm25	
+2280	Alaska	Wrangell-Petersburg	average_daily_pm25	
+2282	Alaska	Yakutat	average_daily_pm25	
+2290	Alaska	Yukon-Koyukuk	average_daily_pm25	
+4001	Arizona	Apache	average_daily_pm25	10.4
+4003	Arizona	Cochise	average_daily_pm25	12.4
+4005	Arizona	Coconino	average_daily_pm25	11.1
+4007	Arizona	Gila	average_daily_pm25	12
+4009	Arizona	Graham	average_daily_pm25	12.6
+4011	Arizona	Greenlee	average_daily_pm25	12.1
+4012	Arizona	La Paz	average_daily_pm25	12.5
+4013	Arizona	Maricopa	average_daily_pm25	12.2
+4015	Arizona	Mohave	average_daily_pm25	12.4
+4017	Arizona	Navajo	average_daily_pm25	10.6
+4019	Arizona	Pima	average_daily_pm25	12.4
+4021	Arizona	Pinal	average_daily_pm25	12.8
+4023	Arizona	Santa Cruz	average_daily_pm25	12.3
+4025	Arizona	Yavapai	average_daily_pm25	12.2
+4027	Arizona	Yuma	average_daily_pm25	11.6
+5001	Arkansas	Arkansas	average_daily_pm25	12.2
+5003	Arkansas	Ashley	average_daily_pm25	11.9
+5005	Arkansas	Baxter	average_daily_pm25	11.6
+5007	Arkansas	Benton	average_daily_pm25	10.5
+5009	Arkansas	Boone	average_daily_pm25	11.2
+5011	Arkansas	Bradley	average_daily_pm25	11.8
+5013	Arkansas	Calhoun	average_daily_pm25	11.8
+5015	Arkansas	Carroll	average_daily_pm25	10.9
+5017	Arkansas	Chicot	average_daily_pm25	12.1
+5019	Arkansas	Clark	average_daily_pm25	11.5
+5021	Arkansas	Clay	average_daily_pm25	12.7
+5023	Arkansas	Cleburne	average_daily_pm25	12.1
+5025	Arkansas	Cleveland	average_daily_pm25	11.9
+5027	Arkansas	Columbia	average_daily_pm25	11.5
+5029	Arkansas	Conway	average_daily_pm25	11.8
+5031	Arkansas	Craighead	average_daily_pm25	13
+5033	Arkansas	Crawford	average_daily_pm25	11.1
+5035	Arkansas	Crittenden	average_daily_pm25	12.9
+5037	Arkansas	Cross	average_daily_pm25	12.7
+5039	Arkansas	Dallas	average_daily_pm25	11.7
+5041	Arkansas	Desha	average_daily_pm25	12.2
+5043	Arkansas	Drew	average_daily_pm25	12
+5045	Arkansas	Faulkner	average_daily_pm25	12
+5047	Arkansas	Franklin	average_daily_pm25	11.2
+5049	Arkansas	Fulton	average_daily_pm25	11.8
+5051	Arkansas	Garland	average_daily_pm25	11.5
+5053	Arkansas	Grant	average_daily_pm25	11.9
+5055	Arkansas	Greene	average_daily_pm25	12.8
+5057	Arkansas	Hempstead	average_daily_pm25	11.4
+5059	Arkansas	Hot Spring	average_daily_pm25	11.6
+5061	Arkansas	Howard	average_daily_pm25	11.2
+5063	Arkansas	Independence	average_daily_pm25	12.4
+5065	Arkansas	Izard	average_daily_pm25	12
+5067	Arkansas	Jackson	average_daily_pm25	12.6
+5069	Arkansas	Jefferson	average_daily_pm25	12.1
+5071	Arkansas	Johnson	average_daily_pm25	11.4
+5073	Arkansas	Lafayette	average_daily_pm25	11.4
+5075	Arkansas	Lawrence	average_daily_pm25	12.6
+5077	Arkansas	Lee	average_daily_pm25	12.5
+5079	Arkansas	Lincoln	average_daily_pm25	12.1
+5081	Arkansas	Little River	average_daily_pm25	11.2
+5083	Arkansas	Logan	average_daily_pm25	11.3
+5085	Arkansas	Lonoke	average_daily_pm25	12.1
+5087	Arkansas	Madison	average_daily_pm25	11.2
+5089	Arkansas	Marion	average_daily_pm25	11.4
+5091	Arkansas	Miller	average_daily_pm25	11.3
+5093	Arkansas	Mississippi	average_daily_pm25	13.3
+5095	Arkansas	Monroe	average_daily_pm25	12.3
+5097	Arkansas	Montgomery	average_daily_pm25	11.3
+5099	Arkansas	Nevada	average_daily_pm25	11.5
+5101	Arkansas	Newton	average_daily_pm25	11.5
+5103	Arkansas	Ouachita	average_daily_pm25	11.6
+5105	Arkansas	Perry	average_daily_pm25	11.7
+5107	Arkansas	Phillips	average_daily_pm25	12.4
+5109	Arkansas	Pike	average_daily_pm25	11.3
+5111	Arkansas	Poinsett	average_daily_pm25	12.9
+5113	Arkansas	Polk	average_daily_pm25	11.1
+5115	Arkansas	Pope	average_daily_pm25	11.6
+5117	Arkansas	Prairie	average_daily_pm25	12.3
+5119	Arkansas	Pulaski	average_daily_pm25	11.9
+5121	Arkansas	Randolph	average_daily_pm25	12.3
+5123	Arkansas	St. Francis	average_daily_pm25	12.6
+5125	Arkansas	Saline	average_daily_pm25	11.8
+5127	Arkansas	Scott	average_daily_pm25	11.1
+5129	Arkansas	Searcy	average_daily_pm25	11.8
+5131	Arkansas	Sebastian	average_daily_pm25	11
+5133	Arkansas	Sevier	average_daily_pm25	11.1
+5135	Arkansas	Sharp	average_daily_pm25	12.2
+5137	Arkansas	Stone	average_daily_pm25	12.1
+5139	Arkansas	Union	average_daily_pm25	11.7
+5141	Arkansas	Van Buren	average_daily_pm25	11.9
+5143	Arkansas	Washington	average_daily_pm25	11
+5145	Arkansas	White	average_daily_pm25	12.3
+5147	Arkansas	Woodruff	average_daily_pm25	12.5
+5149	Arkansas	Yell	average_daily_pm25	11.4
+6001	California	Alameda	average_daily_pm25	10.7
+6003	California	Alpine	average_daily_pm25	12.6
+6005	California	Amador	average_daily_pm25	12
+6007	California	Butte	average_daily_pm25	11.4
+6009	California	Calaveras	average_daily_pm25	12.4
+6011	California	Colusa	average_daily_pm25	10.6
+6013	California	Contra Costa	average_daily_pm25	10.7
+6015	California	Del Norte	average_daily_pm25	10.2
+6017	California	El Dorado	average_daily_pm25	11.8
+6019	California	Fresno	average_daily_pm25	13.2
+6021	California	Glenn	average_daily_pm25	10.9
+6023	California	Humboldt	average_daily_pm25	11.1
+6025	California	Imperial	average_daily_pm25	11.5
+6027	California	Inyo	average_daily_pm25	14.1
+6029	California	Kern	average_daily_pm25	11.2
+6031	California	Kings	average_daily_pm25	11.6
+6033	California	Lake	average_daily_pm25	10.2
+6035	California	Lassen	average_daily_pm25	12.3
+6037	California	Los Angeles	average_daily_pm25	10.2
+6039	California	Madera	average_daily_pm25	13.8
+6041	California	Marin	average_daily_pm25	9.9
+6043	California	Mariposa	average_daily_pm25	13.9
+6045	California	Mendocino	average_daily_pm25	10.2
+6047	California	Merced	average_daily_pm25	12.3
+6049	California	Modoc	average_daily_pm25	10.7
+6051	California	Mono	average_daily_pm25	14.8
+6053	California	Monterey	average_daily_pm25	10.1
+6055	California	Napa	average_daily_pm25	10.3
+6057	California	Nevada	average_daily_pm25	11.6
+6059	California	Orange	average_daily_pm25	11
+6061	California	Placer	average_daily_pm25	11.4
+6063	California	Plumas	average_daily_pm25	12.1
+6065	California	Riverside	average_daily_pm25	11.9
+6067	California	Sacramento	average_daily_pm25	11.3
+6069	California	San Benito	average_daily_pm25	10.9
+6071	California	San Bernardino	average_daily_pm25	12.2
+6073	California	San Diego	average_daily_pm25	11.7
+6075	California	San Francisco	average_daily_pm25	10.1
+6077	California	San Joaquin	average_daily_pm25	11.6
+6079	California	San Luis Obispo	average_daily_pm25	10
+6081	California	San Mateo	average_daily_pm25	10
+6083	California	Santa Barbara	average_daily_pm25	9.5
+6085	California	Santa Clara	average_daily_pm25	10.7
+6087	California	Santa Cruz	average_daily_pm25	10.1
+6089	California	Shasta	average_daily_pm25	11.4
+6091	California	Sierra	average_daily_pm25	12
+6093	California	Siskiyou	average_daily_pm25	10.3
+6095	California	Solano	average_daily_pm25	10.7
+6097	California	Sonoma	average_daily_pm25	9.9
+6099	California	Stanislaus	average_daily_pm25	12.1
+6101	California	Sutter	average_daily_pm25	10.9
+6103	California	Tehama	average_daily_pm25	11.3
+6105	California	Trinity	average_daily_pm25	11.2
+6107	California	Tulare	average_daily_pm25	13.1
+6109	California	Tuolumne	average_daily_pm25	13.3
+6111	California	Ventura	average_daily_pm25	9.6
+6113	California	Yolo	average_daily_pm25	10.8
+6115	California	Yuba	average_daily_pm25	11.2
+8001	Colorado	Adams	average_daily_pm25	8.6
+8003	Colorado	Alamosa	average_daily_pm25	10.5
+8005	Colorado	Arapahoe	average_daily_pm25	8.7
+8007	Colorado	Archuleta	average_daily_pm25	9.9
+8009	Colorado	Baca	average_daily_pm25	11.2
+8011	Colorado	Bent	average_daily_pm25	10.9
+8013	Colorado	Boulder	average_daily_pm25	8.2
+8014	Colorado	Broomfield	average_daily_pm25	
+8015	Colorado	Chaffee	average_daily_pm25	8.4
+8017	Colorado	Cheyenne	average_daily_pm25	10
+8019	Colorado	Clear Creek	average_daily_pm25	8.2
+8021	Colorado	Conejos	average_daily_pm25	10.3
+8023	Colorado	Costilla	average_daily_pm25	10.6
+8025	Colorado	Crowley	average_daily_pm25	10.2
+8027	Colorado	Custer	average_daily_pm25	9.9
+8029	Colorado	Delta	average_daily_pm25	8.2
+8031	Colorado	Denver	average_daily_pm25	8.5
+8033	Colorado	Dolores	average_daily_pm25	8.5
+8035	Colorado	Douglas	average_daily_pm25	8.6
+8037	Colorado	Eagle	average_daily_pm25	7.8
+8039	Colorado	Elbert	average_daily_pm25	8.9
+8041	Colorado	El Paso	average_daily_pm25	9.2
+8043	Colorado	Fremont	average_daily_pm25	9.3
+8045	Colorado	Garfield	average_daily_pm25	8.1
+8047	Colorado	Gilpin	average_daily_pm25	8.2
+8049	Colorado	Grand	average_daily_pm25	8
+8051	Colorado	Gunnison	average_daily_pm25	8.3
+8053	Colorado	Hinsdale	average_daily_pm25	9.4
+8055	Colorado	Huerfano	average_daily_pm25	10.7
+8057	Colorado	Jackson	average_daily_pm25	8
+8059	Colorado	Jefferson	average_daily_pm25	8.4
+8061	Colorado	Kiowa	average_daily_pm25	10.4
+8063	Colorado	Kit Carson	average_daily_pm25	9.6
+8065	Colorado	Lake	average_daily_pm25	7.9
+8067	Colorado	La Plata	average_daily_pm25	9.3
+8069	Colorado	Larimer	average_daily_pm25	8.2
+8071	Colorado	Las Animas	average_daily_pm25	11.1
+8073	Colorado	Lincoln	average_daily_pm25	9.6
+8075	Colorado	Logan	average_daily_pm25	8.6
+8077	Colorado	Mesa	average_daily_pm25	8.3
+8079	Colorado	Mineral	average_daily_pm25	9.9
+8081	Colorado	Moffat	average_daily_pm25	8.1
+8083	Colorado	Montezuma	average_daily_pm25	8.6
+8085	Colorado	Montrose	average_daily_pm25	8.4
+8087	Colorado	Morgan	average_daily_pm25	8.6
+8089	Colorado	Otero	average_daily_pm25	10.8
+8091	Colorado	Ouray	average_daily_pm25	8.8
+8093	Colorado	Park	average_daily_pm25	8.3
+8095	Colorado	Phillips	average_daily_pm25	8.8
+8097	Colorado	Pitkin	average_daily_pm25	7.7
+8099	Colorado	Prowers	average_daily_pm25	10.9
+8101	Colorado	Pueblo	average_daily_pm25	10.2
+8103	Colorado	Rio Blanco	average_daily_pm25	8.2
+8105	Colorado	Rio Grande	average_daily_pm25	10.3
+8107	Colorado	Routt	average_daily_pm25	7.9
+8109	Colorado	Saguache	average_daily_pm25	9.5
+8111	Colorado	San Juan	average_daily_pm25	9.2
+8113	Colorado	San Miguel	average_daily_pm25	8.5
+8115	Colorado	Sedgwick	average_daily_pm25	8.8
+8117	Colorado	Summit	average_daily_pm25	8
+8119	Colorado	Teller	average_daily_pm25	8.8
+8121	Colorado	Washington	average_daily_pm25	8.9
+8123	Colorado	Weld	average_daily_pm25	8.4
+8125	Colorado	Yuma	average_daily_pm25	9.1
+9001	Connecticut	Fairfield	average_daily_pm25	10.8
+9003	Connecticut	Hartford	average_daily_pm25	10.2
+9005	Connecticut	Litchfield	average_daily_pm25	10.4
+9007	Connecticut	Middlesex	average_daily_pm25	10.4
+9009	Connecticut	New Haven	average_daily_pm25	10.5
+9011	Connecticut	New London	average_daily_pm25	10.3
+9013	Connecticut	Tolland	average_daily_pm25	10.2
+9015	Connecticut	Windham	average_daily_pm25	10.2
+10001	Delaware	Kent	average_daily_pm25	11.7
+10003	Delaware	New Castle	average_daily_pm25	12
+10005	Delaware	Sussex	average_daily_pm25	11.7
+11001	District of Columbia	District of Columbia	average_daily_pm25	12.4
+12001	Florida	Alachua	average_daily_pm25	8.5
+12003	Florida	Baker	average_daily_pm25	9.4
+12005	Florida	Bay	average_daily_pm25	10.6
+12007	Florida	Bradford	average_daily_pm25	8.8
+12009	Florida	Brevard	average_daily_pm25	7.1
+12011	Florida	Broward	average_daily_pm25	6.9
+12013	Florida	Calhoun	average_daily_pm25	10.5
+12015	Florida	Charlotte	average_daily_pm25	7
+12017	Florida	Citrus	average_daily_pm25	8.4
+12019	Florida	Clay	average_daily_pm25	8.6
+12021	Florida	Collier	average_daily_pm25	6.9
+12023	Florida	Columbia	average_daily_pm25	9.3
+12027	Florida	DeSoto	average_daily_pm25	7.1
+12029	Florida	Dixie	average_daily_pm25	8.9
+12031	Florida	Duval	average_daily_pm25	9
+12033	Florida	Escambia	average_daily_pm25	11.6
+12035	Florida	Flagler	average_daily_pm25	7.8
+12037	Florida	Franklin	average_daily_pm25	10
+12039	Florida	Gadsden	average_daily_pm25	10.5
+12041	Florida	Gilchrist	average_daily_pm25	8.8
+12043	Florida	Glades	average_daily_pm25	6.8
+12045	Florida	Gulf	average_daily_pm25	10.2
+12047	Florida	Hamilton	average_daily_pm25	9.8
+12049	Florida	Hardee	average_daily_pm25	7.4
+12051	Florida	Hendry	average_daily_pm25	6.7
+12053	Florida	Hernando	average_daily_pm25	8.3
+12055	Florida	Highlands	average_daily_pm25	7
+12057	Florida	Hillsborough	average_daily_pm25	8
+12059	Florida	Holmes	average_daily_pm25	11.2
+12061	Florida	Indian River	average_daily_pm25	6.9
+12063	Florida	Jackson	average_daily_pm25	10.9
+12065	Florida	Jefferson	average_daily_pm25	10.1
+12067	Florida	Lafayette	average_daily_pm25	9.3
+12069	Florida	Lake	average_daily_pm25	7.9
+12071	Florida	Lee	average_daily_pm25	6.8
+12073	Florida	Leon	average_daily_pm25	10.3
+12075	Florida	Levy	average_daily_pm25	8.6
+12077	Florida	Liberty	average_daily_pm25	10.3
+12079	Florida	Madison	average_daily_pm25	9.9
+12081	Florida	Manatee	average_daily_pm25	7.5
+12083	Florida	Marion	average_daily_pm25	8.2
+12085	Florida	Martin	average_daily_pm25	6.6
+12086	Florida	Miami-Dade	average_daily_pm25	
+12087	Florida	Monroe	average_daily_pm25	7.5
+12089	Florida	Nassau	average_daily_pm25	9.5
+12091	Florida	Okaloosa	average_daily_pm25	11.3
+12093	Florida	Okeechobee	average_daily_pm25	6.9
+12095	Florida	Orange	average_daily_pm25	7.5
+12097	Florida	Osceola	average_daily_pm25	7.3
+12099	Florida	Palm Beach	average_daily_pm25	6.6
+12101	Florida	Pasco	average_daily_pm25	8.2
+12103	Florida	Pinellas	average_daily_pm25	8.3
+12105	Florida	Polk	average_daily_pm25	7.6
+12107	Florida	Putnam	average_daily_pm25	8.1
+12109	Florida	St. Johns	average_daily_pm25	8.2
+12111	Florida	St. Lucie	average_daily_pm25	6.7
+12113	Florida	Santa Rosa	average_daily_pm25	11.5
+12115	Florida	Sarasota	average_daily_pm25	7.3
+12117	Florida	Seminole	average_daily_pm25	7.5
+12119	Florida	Sumter	average_daily_pm25	8.1
+12121	Florida	Suwannee	average_daily_pm25	9.4
+12123	Florida	Taylor	average_daily_pm25	9.6
+12125	Florida	Union	average_daily_pm25	9
+12127	Florida	Volusia	average_daily_pm25	7.6
+12129	Florida	Wakulla	average_daily_pm25	10.1
+12131	Florida	Walton	average_daily_pm25	11.1
+12133	Florida	Washington	average_daily_pm25	10.9
+13001	Georgia	Appling	average_daily_pm25	11.1
+13003	Georgia	Atkinson	average_daily_pm25	10.8
+13005	Georgia	Bacon	average_daily_pm25	11
+13007	Georgia	Baker	average_daily_pm25	11.1
+13009	Georgia	Baldwin	average_daily_pm25	12.7
+13011	Georgia	Banks	average_daily_pm25	13
+13013	Georgia	Barrow	average_daily_pm25	12.9
+13015	Georgia	Bartow	average_daily_pm25	12.9
+13017	Georgia	Ben Hill	average_daily_pm25	11.3
+13019	Georgia	Berrien	average_daily_pm25	10.8
+13021	Georgia	Bibb	average_daily_pm25	12.7
+13023	Georgia	Bleckley	average_daily_pm25	12.2
+13025	Georgia	Brantley	average_daily_pm25	10.5
+13027	Georgia	Brooks	average_daily_pm25	10.4
+13029	Georgia	Bryan	average_daily_pm25	11.3
+13031	Georgia	Bulloch	average_daily_pm25	11.8
+13033	Georgia	Burke	average_daily_pm25	12.5
+13035	Georgia	Butts	average_daily_pm25	12.8
+13037	Georgia	Calhoun	average_daily_pm25	11.4
+13039	Georgia	Camden	average_daily_pm25	10
+13043	Georgia	Candler	average_daily_pm25	11.9
+13045	Georgia	Carroll	average_daily_pm25	13
+13047	Georgia	Catoosa	average_daily_pm25	13.4
+13049	Georgia	Charlton	average_daily_pm25	9.9
+13051	Georgia	Chatham	average_daily_pm25	11.2
+13053	Georgia	Chattahoochee	average_daily_pm25	12.5
+13055	Georgia	Chattooga	average_daily_pm25	13
+13057	Georgia	Cherokee	average_daily_pm25	12.9
+13059	Georgia	Clarke	average_daily_pm25	12.9
+13061	Georgia	Clay	average_daily_pm25	11.6
+13063	Georgia	Clayton	average_daily_pm25	12.9
+13065	Georgia	Clinch	average_daily_pm25	10.2
+13067	Georgia	Cobb	average_daily_pm25	12.9
+13069	Georgia	Coffee	average_daily_pm25	11
+13071	Georgia	Colquitt	average_daily_pm25	10.8
+13073	Georgia	Columbia	average_daily_pm25	12.8
+13075	Georgia	Cook	average_daily_pm25	10.7
+13077	Georgia	Coweta	average_daily_pm25	13
+13079	Georgia	Crawford	average_daily_pm25	12.7
+13081	Georgia	Crisp	average_daily_pm25	11.6
+13083	Georgia	Dade	average_daily_pm25	13.3
+13085	Georgia	Dawson	average_daily_pm25	13
+13087	Georgia	Decatur	average_daily_pm25	10.7
+13089	Georgia	DeKalb	average_daily_pm25	12.9
+13091	Georgia	Dodge	average_daily_pm25	11.8
+13093	Georgia	Dooly	average_daily_pm25	11.9
+13095	Georgia	Dougherty	average_daily_pm25	11.3
+13097	Georgia	Douglas	average_daily_pm25	13
+13099	Georgia	Early	average_daily_pm25	11.2
+13101	Georgia	Echols	average_daily_pm25	10.1
+13103	Georgia	Effingham	average_daily_pm25	11.7
+13105	Georgia	Elbert	average_daily_pm25	13
+13107	Georgia	Emanuel	average_daily_pm25	12.1
+13109	Georgia	Evans	average_daily_pm25	11.5
+13111	Georgia	Fannin	average_daily_pm25	13.3
+13113	Georgia	Fayette	average_daily_pm25	12.9
+13115	Georgia	Floyd	average_daily_pm25	12.9
+13117	Georgia	Forsyth	average_daily_pm25	12.9
+13119	Georgia	Franklin	average_daily_pm25	13.1
+13121	Georgia	Fulton	average_daily_pm25	12.9
+13123	Georgia	Gilmer	average_daily_pm25	13.2
+13125	Georgia	Glascock	average_daily_pm25	12.7
+13127	Georgia	Glynn	average_daily_pm25	10.5
+13129	Georgia	Gordon	average_daily_pm25	13
+13131	Georgia	Grady	average_daily_pm25	10.6
+13133	Georgia	Greene	average_daily_pm25	12.8
+13135	Georgia	Gwinnett	average_daily_pm25	12.9
+13137	Georgia	Habersham	average_daily_pm25	13.2
+13139	Georgia	Hall	average_daily_pm25	13
+13141	Georgia	Hancock	average_daily_pm25	12.7
+13143	Georgia	Haralson	average_daily_pm25	13
+13145	Georgia	Harris	average_daily_pm25	13
+13147	Georgia	Hart	average_daily_pm25	13.1
+13149	Georgia	Heard	average_daily_pm25	13.1
+13151	Georgia	Henry	average_daily_pm25	12.9
+13153	Georgia	Houston	average_daily_pm25	12.3
+13155	Georgia	Irwin	average_daily_pm25	11.2
+13157	Georgia	Jackson	average_daily_pm25	12.9
+13159	Georgia	Jasper	average_daily_pm25	12.8
+13161	Georgia	Jeff Davis	average_daily_pm25	11.3
+13163	Georgia	Jefferson	average_daily_pm25	12.5
+13165	Georgia	Jenkins	average_daily_pm25	12.3
+13167	Georgia	Johnson	average_daily_pm25	12.3
+13169	Georgia	Jones	average_daily_pm25	12.7
+13171	Georgia	Lamar	average_daily_pm25	12.8
+13173	Georgia	Lanier	average_daily_pm25	10.5
+13175	Georgia	Laurens	average_daily_pm25	12.1
+13177	Georgia	Lee	average_daily_pm25	11.6
+13179	Georgia	Liberty	average_daily_pm25	11.1
+13181	Georgia	Lincoln	average_daily_pm25	12.9
+13183	Georgia	Long	average_daily_pm25	11.1
+13185	Georgia	Lowndes	average_daily_pm25	10.3
+13187	Georgia	Lumpkin	average_daily_pm25	13.1
+13189	Georgia	McDuffie	average_daily_pm25	12.8
+13191	Georgia	McIntosh	average_daily_pm25	10.8
+13193	Georgia	Macon	average_daily_pm25	12.2
+13195	Georgia	Madison	average_daily_pm25	13
+13197	Georgia	Marion	average_daily_pm25	12.4
+13199	Georgia	Meriwether	average_daily_pm25	13
+13201	Georgia	Miller	average_daily_pm25	11
+13205	Georgia	Mitchell	average_daily_pm25	10.9
+13207	Georgia	Monroe	average_daily_pm25	12.8
+13209	Georgia	Montgomery	average_daily_pm25	11.7
+13211	Georgia	Morgan	average_daily_pm25	12.8
+13213	Georgia	Murray	average_daily_pm25	13.3
+13215	Georgia	Muscogee	average_daily_pm25	12.7
+13217	Georgia	Newton	average_daily_pm25	12.8
+13219	Georgia	Oconee	average_daily_pm25	12.9
+13221	Georgia	Oglethorpe	average_daily_pm25	12.9
+13223	Georgia	Paulding	average_daily_pm25	12.9
+13225	Georgia	Peach	average_daily_pm25	12.4
+13227	Georgia	Pickens	average_daily_pm25	12.9
+13229	Georgia	Pierce	average_daily_pm25	10.7
+13231	Georgia	Pike	average_daily_pm25	12.9
+13233	Georgia	Polk	average_daily_pm25	12.9
+13235	Georgia	Pulaski	average_daily_pm25	12
+13237	Georgia	Putnam	average_daily_pm25	12.8
+13239	Georgia	Quitman	average_daily_pm25	11.9
+13241	Georgia	Rabun	average_daily_pm25	13.3
+13243	Georgia	Randolph	average_daily_pm25	11.8
+13245	Georgia	Richmond	average_daily_pm25	12.7
+13247	Georgia	Rockdale	average_daily_pm25	12.9
+13249	Georgia	Schley	average_daily_pm25	12.3
+13251	Georgia	Screven	average_daily_pm25	12.1
+13253	Georgia	Seminole	average_daily_pm25	10.9
+13255	Georgia	Spalding	average_daily_pm25	12.9
+13257	Georgia	Stephens	average_daily_pm25	13.1
+13259	Georgia	Stewart	average_daily_pm25	12.1
+13261	Georgia	Sumter	average_daily_pm25	11.9
+13263	Georgia	Talbot	average_daily_pm25	12.8
+13265	Georgia	Taliaferro	average_daily_pm25	12.8
+13267	Georgia	Tattnall	average_daily_pm25	11.5
+13269	Georgia	Taylor	average_daily_pm25	12.6
+13271	Georgia	Telfair	average_daily_pm25	11.5
+13273	Georgia	Terrell	average_daily_pm25	11.6
+13275	Georgia	Thomas	average_daily_pm25	10.5
+13277	Georgia	Tift	average_daily_pm25	11
+13279	Georgia	Toombs	average_daily_pm25	11.6
+13281	Georgia	Towns	average_daily_pm25	13.4
+13283	Georgia	Treutlen	average_daily_pm25	12
+13285	Georgia	Troup	average_daily_pm25	13.1
+13287	Georgia	Turner	average_daily_pm25	11.4
+13289	Georgia	Twiggs	average_daily_pm25	12.5
+13291	Georgia	Union	average_daily_pm25	13.3
+13293	Georgia	Upson	average_daily_pm25	12.9
+13295	Georgia	Walker	average_daily_pm25	13.2
+13297	Georgia	Walton	average_daily_pm25	12.9
+13299	Georgia	Ware	average_daily_pm25	10.3
+13301	Georgia	Warren	average_daily_pm25	12.7
+13303	Georgia	Washington	average_daily_pm25	12.6
+13305	Georgia	Wayne	average_daily_pm25	10.9
+13307	Georgia	Webster	average_daily_pm25	12
+13309	Georgia	Wheeler	average_daily_pm25	11.7
+13311	Georgia	White	average_daily_pm25	13.2
+13313	Georgia	Whitfield	average_daily_pm25	13.3
+13315	Georgia	Wilcox	average_daily_pm25	11.6
+13317	Georgia	Wilkes	average_daily_pm25	12.9
+13319	Georgia	Wilkinson	average_daily_pm25	12.5
+13321	Georgia	Worth	average_daily_pm25	11.2
+15001	Hawaii	Hawaii	average_daily_pm25	
+15003	Hawaii	Honolulu	average_daily_pm25	
+15005	Hawaii	Kalawao	average_daily_pm25	
+15007	Hawaii	Kauai	average_daily_pm25	
+15009	Hawaii	Maui	average_daily_pm25	
+16001	Idaho	Ada	average_daily_pm25	7.9
+16003	Idaho	Adams	average_daily_pm25	8.4
+16005	Idaho	Bannock	average_daily_pm25	7.3
+16007	Idaho	Bear Lake	average_daily_pm25	7.2
+16009	Idaho	Benewah	average_daily_pm25	10.1
+16011	Idaho	Bingham	average_daily_pm25	7.1
+16013	Idaho	Blaine	average_daily_pm25	7.3
+16015	Idaho	Boise	average_daily_pm25	7.6
+16017	Idaho	Bonner	average_daily_pm25	10.8
+16019	Idaho	Bonneville	average_daily_pm25	6.8
+16021	Idaho	Boundary	average_daily_pm25	11
+16023	Idaho	Butte	average_daily_pm25	7
+16025	Idaho	Camas	average_daily_pm25	7.5
+16027	Idaho	Canyon	average_daily_pm25	7.9
+16029	Idaho	Caribou	average_daily_pm25	7
+16031	Idaho	Cassia	average_daily_pm25	8.2
+16033	Idaho	Clark	average_daily_pm25	7.1
+16035	Idaho	Clearwater	average_daily_pm25	9.1
+16037	Idaho	Custer	average_daily_pm25	7.4
+16039	Idaho	Elmore	average_daily_pm25	7.8
+16041	Idaho	Franklin	average_daily_pm25	7.5
+16043	Idaho	Fremont	average_daily_pm25	7
+16045	Idaho	Gem	average_daily_pm25	7.9
+16047	Idaho	Gooding	average_daily_pm25	8
+16049	Idaho	Idaho	average_daily_pm25	8.7
+16051	Idaho	Jefferson	average_daily_pm25	6.9
+16053	Idaho	Jerome	average_daily_pm25	8.1
+16055	Idaho	Kootenai	average_daily_pm25	10.4
+16057	Idaho	Latah	average_daily_pm25	9.8
+16059	Idaho	Lemhi	average_daily_pm25	7.9
+16061	Idaho	Lewis	average_daily_pm25	9.3
+16063	Idaho	Lincoln	average_daily_pm25	7.7
+16065	Idaho	Madison	average_daily_pm25	6.8
+16067	Idaho	Minidoka	average_daily_pm25	7.7
+16069	Idaho	Nez Perce	average_daily_pm25	9.5
+16071	Idaho	Oneida	average_daily_pm25	7.8
+16073	Idaho	Owyhee	average_daily_pm25	8.8
+16075	Idaho	Payette	average_daily_pm25	8
+16077	Idaho	Power	average_daily_pm25	7.5
+16079	Idaho	Shoshone	average_daily_pm25	9.7
+16081	Idaho	Teton	average_daily_pm25	6.7
+16083	Idaho	Twin Falls	average_daily_pm25	8.6
+16085	Idaho	Valley	average_daily_pm25	8.1
+16087	Idaho	Washington	average_daily_pm25	8.2
+17001	Illinois	Adams	average_daily_pm25	11.5
+17003	Illinois	Alexander	average_daily_pm25	12.7
+17005	Illinois	Bond	average_daily_pm25	12.6
+17007	Illinois	Boone	average_daily_pm25	11.8
+17009	Illinois	Brown	average_daily_pm25	11.7
+17011	Illinois	Bureau	average_daily_pm25	11.8
+17013	Illinois	Calhoun	average_daily_pm25	12.1
+17015	Illinois	Carroll	average_daily_pm25	11.6
+17017	Illinois	Cass	average_daily_pm25	11.9
+17019	Illinois	Champaign	average_daily_pm25	12.5
+17021	Illinois	Christian	average_daily_pm25	12.5
+17023	Illinois	Clark	average_daily_pm25	13.2
+17025	Illinois	Clay	average_daily_pm25	13.1
+17027	Illinois	Clinton	average_daily_pm25	12.6
+17029	Illinois	Coles	average_daily_pm25	12.9
+17031	Illinois	Cook	average_daily_pm25	12.4
+17033	Illinois	Crawford	average_daily_pm25	13.3
+17035	Illinois	Cumberland	average_daily_pm25	13.1
+17037	Illinois	DeKalb	average_daily_pm25	12.1
+17039	Illinois	De Witt	average_daily_pm25	12.2
+17041	Illinois	Douglas	average_daily_pm25	12.7
+17043	Illinois	DuPage	average_daily_pm25	12.3
+17045	Illinois	Edgar	average_daily_pm25	13
+17047	Illinois	Edwards	average_daily_pm25	13.3
+17049	Illinois	Effingham	average_daily_pm25	13
+17051	Illinois	Fayette	average_daily_pm25	12.8
+17053	Illinois	Ford	average_daily_pm25	12.3
+17055	Illinois	Franklin	average_daily_pm25	12.8
+17057	Illinois	Fulton	average_daily_pm25	11.6
+17059	Illinois	Gallatin	average_daily_pm25	13.3
+17061	Illinois	Greene	average_daily_pm25	12.1
+17063	Illinois	Grundy	average_daily_pm25	12.2
+17065	Illinois	Hamilton	average_daily_pm25	13.1
+17067	Illinois	Hancock	average_daily_pm25	11.3
+17069	Illinois	Hardin	average_daily_pm25	13.3
+17071	Illinois	Henderson	average_daily_pm25	11.3
+17073	Illinois	Henry	average_daily_pm25	11.6
+17075	Illinois	Iroquois	average_daily_pm25	12.4
+17077	Illinois	Jackson	average_daily_pm25	12.5
+17079	Illinois	Jasper	average_daily_pm25	13.2
+17081	Illinois	Jefferson	average_daily_pm25	12.8
+17083	Illinois	Jersey	average_daily_pm25	12.3
+17085	Illinois	Jo Daviess	average_daily_pm25	11.4
+17087	Illinois	Johnson	average_daily_pm25	12.9
+17089	Illinois	Kane	average_daily_pm25	12.2
+17091	Illinois	Kankakee	average_daily_pm25	12.4
+17093	Illinois	Kendall	average_daily_pm25	12.2
+17095	Illinois	Knox	average_daily_pm25	11.5
+17097	Illinois	Lake	average_daily_pm25	12.1
+17099	Illinois	LaSalle	average_daily_pm25	12
+17101	Illinois	Lawrence	average_daily_pm25	13.4
+17103	Illinois	Lee	average_daily_pm25	11.9
+17105	Illinois	Livingston	average_daily_pm25	12.1
+17107	Illinois	Logan	average_daily_pm25	12.1
+17109	Illinois	McDonough	average_daily_pm25	11.5
+17111	Illinois	McHenry	average_daily_pm25	12
+17113	Illinois	McLean	average_daily_pm25	12.1
+17115	Illinois	Macon	average_daily_pm25	12.4
+17117	Illinois	Macoupin	average_daily_pm25	12.4
+17119	Illinois	Madison	average_daily_pm25	12.4
+17121	Illinois	Marion	average_daily_pm25	12.9
+17123	Illinois	Marshall	average_daily_pm25	11.9
+17125	Illinois	Mason	average_daily_pm25	11.9
+17127	Illinois	Massac	average_daily_pm25	13.2
+17129	Illinois	Menard	average_daily_pm25	12
+17131	Illinois	Mercer	average_daily_pm25	11.3
+17133	Illinois	Monroe	average_daily_pm25	12.1
+17135	Illinois	Montgomery	average_daily_pm25	12.6
+17137	Illinois	Morgan	average_daily_pm25	12
+17139	Illinois	Moultrie	average_daily_pm25	12.7
+17141	Illinois	Ogle	average_daily_pm25	11.9
+17143	Illinois	Peoria	average_daily_pm25	11.7
+17145	Illinois	Perry	average_daily_pm25	12.5
+17147	Illinois	Piatt	average_daily_pm25	12.4
+17149	Illinois	Pike	average_daily_pm25	11.8
+17151	Illinois	Pope	average_daily_pm25	13.1
+17153	Illinois	Pulaski	average_daily_pm25	12.9
+17155	Illinois	Putnam	average_daily_pm25	11.9
+17157	Illinois	Randolph	average_daily_pm25	12.2
+17159	Illinois	Richland	average_daily_pm25	13.3
+17161	Illinois	Rock Island	average_daily_pm25	11.4
+17163	Illinois	St. Clair	average_daily_pm25	12.3
+17165	Illinois	Saline	average_daily_pm25	13.1
+17167	Illinois	Sangamon	average_daily_pm25	12.2
+17169	Illinois	Schuyler	average_daily_pm25	11.6
+17171	Illinois	Scott	average_daily_pm25	12
+17173	Illinois	Shelby	average_daily_pm25	12.8
+17175	Illinois	Stark	average_daily_pm25	11.7
+17177	Illinois	Stephenson	average_daily_pm25	11.6
+17179	Illinois	Tazewell	average_daily_pm25	11.9
+17181	Illinois	Union	average_daily_pm25	12.6
+17183	Illinois	Vermilion	average_daily_pm25	12.6
+17185	Illinois	Wabash	average_daily_pm25	13.4
+17187	Illinois	Warren	average_daily_pm25	11.4
+17189	Illinois	Washington	average_daily_pm25	12.6
+17191	Illinois	Wayne	average_daily_pm25	13.1
+17193	Illinois	White	average_daily_pm25	13.3
+17195	Illinois	Whiteside	average_daily_pm25	11.7
+17197	Illinois	Will	average_daily_pm25	12.3
+17199	Illinois	Williamson	average_daily_pm25	12.8
+17201	Illinois	Winnebago	average_daily_pm25	11.7
+17203	Illinois	Woodford	average_daily_pm25	11.9
+18001	Indiana	Adams	average_daily_pm25	13
+18003	Indiana	Allen	average_daily_pm25	12.7
+18005	Indiana	Bartholomew	average_daily_pm25	13.3
+18007	Indiana	Benton	average_daily_pm25	12.5
+18009	Indiana	Blackford	average_daily_pm25	13.1
+18011	Indiana	Boone	average_daily_pm25	13
+18013	Indiana	Brown	average_daily_pm25	13.3
+18015	Indiana	Carroll	average_daily_pm25	12.7
+18017	Indiana	Cass	average_daily_pm25	12.7
+18019	Indiana	Clark	average_daily_pm25	13.2
+18021	Indiana	Clay	average_daily_pm25	13.2
+18023	Indiana	Clinton	average_daily_pm25	12.9
+18025	Indiana	Crawford	average_daily_pm25	13.2
+18027	Indiana	Daviess	average_daily_pm25	13.4
+18029	Indiana	Dearborn	average_daily_pm25	13.4
+18031	Indiana	Decatur	average_daily_pm25	13.3
+18033	Indiana	DeKalb	average_daily_pm25	12.5
+18035	Indiana	Delaware	average_daily_pm25	13.1
+18037	Indiana	Dubois	average_daily_pm25	13.3
+18039	Indiana	Elkhart	average_daily_pm25	12.4
+18041	Indiana	Fayette	average_daily_pm25	13.3
+18043	Indiana	Floyd	average_daily_pm25	13.1
+18045	Indiana	Fountain	average_daily_pm25	12.8
+18047	Indiana	Franklin	average_daily_pm25	13.3
+18049	Indiana	Fulton	average_daily_pm25	12.6
+18051	Indiana	Gibson	average_daily_pm25	13.4
+18053	Indiana	Grant	average_daily_pm25	13
+18055	Indiana	Greene	average_daily_pm25	13.4
+18057	Indiana	Hamilton	average_daily_pm25	13
+18059	Indiana	Hancock	average_daily_pm25	13.1
+18061	Indiana	Harrison	average_daily_pm25	13.2
+18063	Indiana	Hendricks	average_daily_pm25	13.1
+18065	Indiana	Henry	average_daily_pm25	13.2
+18067	Indiana	Howard	average_daily_pm25	12.9
+18069	Indiana	Huntington	average_daily_pm25	12.8
+18071	Indiana	Jackson	average_daily_pm25	13.3
+18073	Indiana	Jasper	average_daily_pm25	12.5
+18075	Indiana	Jay	average_daily_pm25	13.2
+18077	Indiana	Jefferson	average_daily_pm25	13.3
+18079	Indiana	Jennings	average_daily_pm25	13.3
+18081	Indiana	Johnson	average_daily_pm25	13.2
+18083	Indiana	Knox	average_daily_pm25	13.4
+18085	Indiana	Kosciusko	average_daily_pm25	12.6
+18087	Indiana	LaGrange	average_daily_pm25	12.3
+18089	Indiana	Lake	average_daily_pm25	12.4
+18091	Indiana	LaPorte	average_daily_pm25	12.4
+18093	Indiana	Lawrence	average_daily_pm25	13.3
+18095	Indiana	Madison	average_daily_pm25	13.1
+18097	Indiana	Marion	average_daily_pm25	13.1
+18099	Indiana	Marshall	average_daily_pm25	12.5
+18101	Indiana	Martin	average_daily_pm25	13.3
+18103	Indiana	Miami	average_daily_pm25	12.7
+18105	Indiana	Monroe	average_daily_pm25	13.3
+18107	Indiana	Montgomery	average_daily_pm25	12.9
+18109	Indiana	Morgan	average_daily_pm25	13.2
+18111	Indiana	Newton	average_daily_pm25	12.4
+18113	Indiana	Noble	average_daily_pm25	12.5
+18115	Indiana	Ohio	average_daily_pm25	13.3
+18117	Indiana	Orange	average_daily_pm25	13.3
+18119	Indiana	Owen	average_daily_pm25	13.3
+18121	Indiana	Parke	average_daily_pm25	13
+18123	Indiana	Perry	average_daily_pm25	13.2
+18125	Indiana	Pike	average_daily_pm25	13.4
+18127	Indiana	Porter	average_daily_pm25	12.4
+18129	Indiana	Posey	average_daily_pm25	13.5
+18131	Indiana	Pulaski	average_daily_pm25	12.5
+18133	Indiana	Putnam	average_daily_pm25	13.1
+18135	Indiana	Randolph	average_daily_pm25	13.2
+18137	Indiana	Ripley	average_daily_pm25	13.4
+18139	Indiana	Rush	average_daily_pm25	13.2
+18141	Indiana	St. Joseph	average_daily_pm25	12.3
+18143	Indiana	Scott	average_daily_pm25	13.2
+18145	Indiana	Shelby	average_daily_pm25	13.2
+18147	Indiana	Spencer	average_daily_pm25	13.3
+18149	Indiana	Starke	average_daily_pm25	12.5
+18151	Indiana	Steuben	average_daily_pm25	12.3
+18153	Indiana	Sullivan	average_daily_pm25	13.3
+18155	Indiana	Switzerland	average_daily_pm25	13.3
+18157	Indiana	Tippecanoe	average_daily_pm25	12.7
+18159	Indiana	Tipton	average_daily_pm25	13
+18161	Indiana	Union	average_daily_pm25	13.3
+18163	Indiana	Vanderburgh	average_daily_pm25	13.5
+18165	Indiana	Vermillion	average_daily_pm25	12.9
+18167	Indiana	Vigo	average_daily_pm25	13.1
+18169	Indiana	Wabash	average_daily_pm25	12.8
+18171	Indiana	Warren	average_daily_pm25	12.6
+18173	Indiana	Warrick	average_daily_pm25	13.4
+18175	Indiana	Washington	average_daily_pm25	13.3
+18177	Indiana	Wayne	average_daily_pm25	13.3
+18179	Indiana	Wells	average_daily_pm25	13
+18181	Indiana	White	average_daily_pm25	12.6
+18183	Indiana	Whitley	average_daily_pm25	12.6
+19001	Iowa	Adair	average_daily_pm25	9.3
+19003	Iowa	Adams	average_daily_pm25	9
+19005	Iowa	Allamakee	average_daily_pm25	11.3
+19007	Iowa	Appanoose	average_daily_pm25	10.2
+19009	Iowa	Audubon	average_daily_pm25	9.3
+19011	Iowa	Benton	average_daily_pm25	10.8
+19013	Iowa	Black Hawk	average_daily_pm25	10.8
+19015	Iowa	Boone	average_daily_pm25	9.9
+19017	Iowa	Bremer	average_daily_pm25	11
+19019	Iowa	Buchanan	average_daily_pm25	11
+19021	Iowa	Buena Vista	average_daily_pm25	10.1
+19023	Iowa	Butler	average_daily_pm25	10.8
+19025	Iowa	Calhoun	average_daily_pm25	9.9
+19027	Iowa	Carroll	average_daily_pm25	9.5
+19029	Iowa	Cass	average_daily_pm25	9
+19031	Iowa	Cedar	average_daily_pm25	11.2
+19033	Iowa	Cerro Gordo	average_daily_pm25	11
+19035	Iowa	Cherokee	average_daily_pm25	10
+19037	Iowa	Chickasaw	average_daily_pm25	11.2
+19039	Iowa	Clarke	average_daily_pm25	9.6
+19041	Iowa	Clay	average_daily_pm25	10.5
+19043	Iowa	Clayton	average_daily_pm25	11.2
+19045	Iowa	Clinton	average_daily_pm25	11.4
+19047	Iowa	Crawford	average_daily_pm25	9.3
+19049	Iowa	Dallas	average_daily_pm25	9.7
+19051	Iowa	Davis	average_daily_pm25	10.5
+19053	Iowa	Decatur	average_daily_pm25	9.5
+19055	Iowa	Delaware	average_daily_pm25	11.1
+19057	Iowa	Des Moines	average_daily_pm25	11.2
+19059	Iowa	Dickinson	average_daily_pm25	10.9
+19061	Iowa	Dubuque	average_daily_pm25	11.2
+19063	Iowa	Emmet	average_daily_pm25	11
+19065	Iowa	Fayette	average_daily_pm25	11.2
+19067	Iowa	Floyd	average_daily_pm25	11.1
+19069	Iowa	Franklin	average_daily_pm25	10.7
+19071	Iowa	Fremont	average_daily_pm25	8.3
+19073	Iowa	Greene	average_daily_pm25	9.7
+19075	Iowa	Grundy	average_daily_pm25	10.6
+19077	Iowa	Guthrie	average_daily_pm25	9.5
+19079	Iowa	Hamilton	average_daily_pm25	10.3
+19081	Iowa	Hancock	average_daily_pm25	10.9
+19083	Iowa	Hardin	average_daily_pm25	10.5
+19085	Iowa	Harrison	average_daily_pm25	9.1
+19087	Iowa	Henry	average_daily_pm25	11.1
+19089	Iowa	Howard	average_daily_pm25	11.3
+19091	Iowa	Humboldt	average_daily_pm25	10.4
+19093	Iowa	Ida	average_daily_pm25	9.6
+19095	Iowa	Iowa	average_daily_pm25	10.8
+19097	Iowa	Jackson	average_daily_pm25	11.4
+19099	Iowa	Jasper	average_daily_pm25	10.3
+19101	Iowa	Jefferson	average_daily_pm25	10.9
+19103	Iowa	Johnson	average_daily_pm25	11
+19105	Iowa	Jones	average_daily_pm25	11.2
+19107	Iowa	Keokuk	average_daily_pm25	10.7
+19109	Iowa	Kossuth	average_daily_pm25	10.9
+19111	Iowa	Lee	average_daily_pm25	11.2
+19113	Iowa	Linn	average_daily_pm25	11
+19115	Iowa	Louisa	average_daily_pm25	11.2
+19117	Iowa	Lucas	average_daily_pm25	9.9
+19119	Iowa	Lyon	average_daily_pm25	10.6
+19121	Iowa	Madison	average_daily_pm25	9.6
+19123	Iowa	Mahaska	average_daily_pm25	10.4
+19125	Iowa	Marion	average_daily_pm25	10.1
+19127	Iowa	Marshall	average_daily_pm25	10.4
+19129	Iowa	Mills	average_daily_pm25	8.5
+19131	Iowa	Mitchell	average_daily_pm25	11.3
+19133	Iowa	Monona	average_daily_pm25	9.4
+19135	Iowa	Monroe	average_daily_pm25	10.2
+19137	Iowa	Montgomery	average_daily_pm25	8.7
+19139	Iowa	Muscatine	average_daily_pm25	11.2
+19141	Iowa	O'Brien	average_daily_pm25	10.4
+19143	Iowa	Osceola	average_daily_pm25	10.8
+19145	Iowa	Page	average_daily_pm25	8.5
+19147	Iowa	Palo Alto	average_daily_pm25	10.6
+19149	Iowa	Plymouth	average_daily_pm25	10
+19151	Iowa	Pocahontas	average_daily_pm25	10.2
+19153	Iowa	Polk	average_daily_pm25	10
+19155	Iowa	Pottawattamie	average_daily_pm25	8.8
+19157	Iowa	Poweshiek	average_daily_pm25	10.5
+19159	Iowa	Ringgold	average_daily_pm25	9.2
+19161	Iowa	Sac	average_daily_pm25	9.8
+19163	Iowa	Scott	average_daily_pm25	11.4
+19165	Iowa	Shelby	average_daily_pm25	9.1
+19167	Iowa	Sioux	average_daily_pm25	10.3
+19169	Iowa	Story	average_daily_pm25	10.2
+19171	Iowa	Tama	average_daily_pm25	10.6
+19173	Iowa	Taylor	average_daily_pm25	8.8
+19175	Iowa	Union	average_daily_pm25	9.3
+19177	Iowa	Van Buren	average_daily_pm25	10.9
+19179	Iowa	Wapello	average_daily_pm25	10.5
+19181	Iowa	Warren	average_daily_pm25	9.9
+19183	Iowa	Washington	average_daily_pm25	11
+19185	Iowa	Wayne	average_daily_pm25	9.9
+19187	Iowa	Webster	average_daily_pm25	10.1
+19189	Iowa	Winnebago	average_daily_pm25	11.1
+19191	Iowa	Winneshiek	average_daily_pm25	11.4
+19193	Iowa	Woodbury	average_daily_pm25	9.7
+19195	Iowa	Worth	average_daily_pm25	11.2
+19197	Iowa	Wright	average_daily_pm25	10.5
+20001	Kansas	Allen	average_daily_pm25	8.3
+20003	Kansas	Anderson	average_daily_pm25	8.4
+20005	Kansas	Atchison	average_daily_pm25	8.5
+20007	Kansas	Barber	average_daily_pm25	10.1
+20009	Kansas	Barton	average_daily_pm25	10.3
+20011	Kansas	Bourbon	average_daily_pm25	8.6
+20013	Kansas	Brown	average_daily_pm25	8.3
+20015	Kansas	Butler	average_daily_pm25	9
+20017	Kansas	Chase	average_daily_pm25	8.9
+20019	Kansas	Chautauqua	average_daily_pm25	8.9
+20021	Kansas	Cherokee	average_daily_pm25	9
+20023	Kansas	Cheyenne	average_daily_pm25	9.5
+20025	Kansas	Clark	average_daily_pm25	10.5
+20027	Kansas	Clay	average_daily_pm25	9.3
+20029	Kansas	Cloud	average_daily_pm25	9.5
+20031	Kansas	Coffey	average_daily_pm25	8.4
+20033	Kansas	Comanche	average_daily_pm25	10.3
+20035	Kansas	Cowley	average_daily_pm25	9.1
+20037	Kansas	Crawford	average_daily_pm25	8.6
+20039	Kansas	Decatur	average_daily_pm25	9.8
+20041	Kansas	Dickinson	average_daily_pm25	9.3
+20043	Kansas	Doniphan	average_daily_pm25	8.6
+20045	Kansas	Douglas	average_daily_pm25	8.5
+20047	Kansas	Edwards	average_daily_pm25	10.5
+20049	Kansas	Elk	average_daily_pm25	8.6
+20051	Kansas	Ellis	average_daily_pm25	10.6
+20053	Kansas	Ellsworth	average_daily_pm25	10
+20055	Kansas	Finney	average_daily_pm25	10.7
+20057	Kansas	Ford	average_daily_pm25	10.7
+20059	Kansas	Franklin	average_daily_pm25	8.5
+20061	Kansas	Geary	average_daily_pm25	9.1
+20063	Kansas	Gove	average_daily_pm25	10.4
+20065	Kansas	Graham	average_daily_pm25	10.3
+20067	Kansas	Grant	average_daily_pm25	11
+20069	Kansas	Gray	average_daily_pm25	10.8
+20071	Kansas	Greeley	average_daily_pm25	10.4
+20073	Kansas	Greenwood	average_daily_pm25	8.6
+20075	Kansas	Hamilton	average_daily_pm25	10.8
+20077	Kansas	Harper	average_daily_pm25	9.8
+20079	Kansas	Harvey	average_daily_pm25	9.4
+20081	Kansas	Haskell	average_daily_pm25	10.9
+20083	Kansas	Hodgeman	average_daily_pm25	10.6
+20085	Kansas	Jackson	average_daily_pm25	8.5
+20087	Kansas	Jefferson	average_daily_pm25	8.5
+20089	Kansas	Jewell	average_daily_pm25	9.6
+20091	Kansas	Johnson	average_daily_pm25	8.9
+20093	Kansas	Kearny	average_daily_pm25	10.8
+20095	Kansas	Kingman	average_daily_pm25	9.8
+20097	Kansas	Kiowa	average_daily_pm25	10.5
+20099	Kansas	Labette	average_daily_pm25	8.7
+20101	Kansas	Lane	average_daily_pm25	10.5
+20103	Kansas	Leavenworth	average_daily_pm25	8.7
+20105	Kansas	Lincoln	average_daily_pm25	10
+20107	Kansas	Linn	average_daily_pm25	8.7
+20109	Kansas	Logan	average_daily_pm25	10.2
+20111	Kansas	Lyon	average_daily_pm25	8.7
+20113	Kansas	McPherson	average_daily_pm25	9.6
+20115	Kansas	Marion	average_daily_pm25	9.2
+20117	Kansas	Marshall	average_daily_pm25	8.8
+20119	Kansas	Meade	average_daily_pm25	10.7
+20121	Kansas	Miami	average_daily_pm25	8.8
+20123	Kansas	Mitchell	average_daily_pm25	9.8
+20125	Kansas	Montgomery	average_daily_pm25	8.6
+20127	Kansas	Morris	average_daily_pm25	9
+20129	Kansas	Morton	average_daily_pm25	11
+20131	Kansas	Nemaha	average_daily_pm25	8.5
+20133	Kansas	Neosho	average_daily_pm25	8.3
+20135	Kansas	Ness	average_daily_pm25	10.6
+20137	Kansas	Norton	average_daily_pm25	10
+20139	Kansas	Osage	average_daily_pm25	8.4
+20141	Kansas	Osborne	average_daily_pm25	10.1
+20143	Kansas	Ottawa	average_daily_pm25	9.6
+20145	Kansas	Pawnee	average_daily_pm25	10.5
+20147	Kansas	Phillips	average_daily_pm25	10.1
+20149	Kansas	Pottawatomie	average_daily_pm25	8.8
+20151	Kansas	Pratt	average_daily_pm25	10.2
+20153	Kansas	Rawlins	average_daily_pm25	9.7
+20155	Kansas	Reno	average_daily_pm25	9.8
+20157	Kansas	Republic	average_daily_pm25	9.3
+20159	Kansas	Rice	average_daily_pm25	9.9
+20161	Kansas	Riley	average_daily_pm25	9
+20163	Kansas	Rooks	average_daily_pm25	10.4
+20165	Kansas	Rush	average_daily_pm25	10.6
+20167	Kansas	Russell	average_daily_pm25	10.3
+20169	Kansas	Saline	average_daily_pm25	9.6
+20171	Kansas	Scott	average_daily_pm25	10.5
+20173	Kansas	Sedgwick	average_daily_pm25	9.4
+20175	Kansas	Seward	average_daily_pm25	10.7
+20177	Kansas	Shawnee	average_daily_pm25	8.5
+20179	Kansas	Sheridan	average_daily_pm25	10.1
+20181	Kansas	Sherman	average_daily_pm25	9.8
+20183	Kansas	Smith	average_daily_pm25	9.9
+20185	Kansas	Stafford	average_daily_pm25	10.2
+20187	Kansas	Stanton	average_daily_pm25	11.1
+20189	Kansas	Stevens	average_daily_pm25	10.8
+20191	Kansas	Sumner	average_daily_pm25	9.5
+20193	Kansas	Thomas	average_daily_pm25	10
+20195	Kansas	Trego	average_daily_pm25	10.5
+20197	Kansas	Wabaunsee	average_daily_pm25	8.8
+20199	Kansas	Wallace	average_daily_pm25	10.1
+20201	Kansas	Washington	average_daily_pm25	9
+20203	Kansas	Wichita	average_daily_pm25	10.5
+20205	Kansas	Wilson	average_daily_pm25	8.3
+20207	Kansas	Woodson	average_daily_pm25	8.3
+20209	Kansas	Wyandotte	average_daily_pm25	9
+21001	Kentucky	Adair	average_daily_pm25	13.1
+21003	Kentucky	Allen	average_daily_pm25	13.7
+21005	Kentucky	Anderson	average_daily_pm25	12.8
+21007	Kentucky	Ballard	average_daily_pm25	13.1
+21009	Kentucky	Barren	average_daily_pm25	13.5
+21011	Kentucky	Bath	average_daily_pm25	12.7
+21013	Kentucky	Bell	average_daily_pm25	13.1
+21015	Kentucky	Boone	average_daily_pm25	13.3
+21017	Kentucky	Bourbon	average_daily_pm25	12.8
+21019	Kentucky	Boyd	average_daily_pm25	12.7
+21021	Kentucky	Boyle	average_daily_pm25	12.6
+21023	Kentucky	Bracken	average_daily_pm25	13.1
+21025	Kentucky	Breathitt	average_daily_pm25	12.3
+21027	Kentucky	Breckinridge	average_daily_pm25	13.1
+21029	Kentucky	Bullitt	average_daily_pm25	13
+21031	Kentucky	Butler	average_daily_pm25	13.4
+21033	Kentucky	Caldwell	average_daily_pm25	13.8
+21035	Kentucky	Calloway	average_daily_pm25	14
+21037	Kentucky	Campbell	average_daily_pm25	13.3
+21039	Kentucky	Carlisle	average_daily_pm25	13.3
+21041	Kentucky	Carroll	average_daily_pm25	13.2
+21043	Kentucky	Carter	average_daily_pm25	12.7
+21045	Kentucky	Casey	average_daily_pm25	12.8
+21047	Kentucky	Christian	average_daily_pm25	13.9
+21049	Kentucky	Clark	average_daily_pm25	12.6
+21051	Kentucky	Clay	average_daily_pm25	12.7
+21053	Kentucky	Clinton	average_daily_pm25	13.4
+21055	Kentucky	Crittenden	average_daily_pm25	13.6
+21057	Kentucky	Cumberland	average_daily_pm25	13.4
+21059	Kentucky	Daviess	average_daily_pm25	13.3
+21061	Kentucky	Edmonson	average_daily_pm25	13.3
+21063	Kentucky	Elliott	average_daily_pm25	12.6
+21065	Kentucky	Estill	average_daily_pm25	12.4
+21067	Kentucky	Fayette	average_daily_pm25	12.7
+21069	Kentucky	Fleming	average_daily_pm25	12.8
+21071	Kentucky	Floyd	average_daily_pm25	12.4
+21073	Kentucky	Franklin	average_daily_pm25	12.9
+21075	Kentucky	Fulton	average_daily_pm25	13.4
+21077	Kentucky	Gallatin	average_daily_pm25	13.2
+21079	Kentucky	Garrard	average_daily_pm25	12.5
+21081	Kentucky	Grant	average_daily_pm25	13.1
+21083	Kentucky	Graves	average_daily_pm25	13.6
+21085	Kentucky	Grayson	average_daily_pm25	13.1
+21087	Kentucky	Green	average_daily_pm25	13
+21089	Kentucky	Greenup	average_daily_pm25	12.8
+21091	Kentucky	Hancock	average_daily_pm25	13.3
+21093	Kentucky	Hardin	average_daily_pm25	13
+21095	Kentucky	Harlan	average_daily_pm25	12.9
+21097	Kentucky	Harrison	average_daily_pm25	13
+21099	Kentucky	Hart	average_daily_pm25	13.1
+21101	Kentucky	Henderson	average_daily_pm25	13.5
+21103	Kentucky	Henry	average_daily_pm25	13.1
+21105	Kentucky	Hickman	average_daily_pm25	13.4
+21107	Kentucky	Hopkins	average_daily_pm25	13.6
+21109	Kentucky	Jackson	average_daily_pm25	12.3
+21111	Kentucky	Jefferson	average_daily_pm25	13.1
+21113	Kentucky	Jessamine	average_daily_pm25	12.6
+21115	Kentucky	Johnson	average_daily_pm25	12.5
+21117	Kentucky	Kenton	average_daily_pm25	13.3
+21119	Kentucky	Knott	average_daily_pm25	12.4
+21121	Kentucky	Knox	average_daily_pm25	13
+21123	Kentucky	Larue	average_daily_pm25	12.9
+21125	Kentucky	Laurel	average_daily_pm25	12.7
+21127	Kentucky	Lawrence	average_daily_pm25	12.6
+21129	Kentucky	Lee	average_daily_pm25	12.3
+21131	Kentucky	Leslie	average_daily_pm25	12.7
+21133	Kentucky	Letcher	average_daily_pm25	12.6
+21135	Kentucky	Lewis	average_daily_pm25	12.9
+21137	Kentucky	Lincoln	average_daily_pm25	12.5
+21139	Kentucky	Livingston	average_daily_pm25	13.5
+21141	Kentucky	Logan	average_daily_pm25	13.8
+21143	Kentucky	Lyon	average_daily_pm25	13.8
+21145	Kentucky	McCracken	average_daily_pm25	13.3
+21147	Kentucky	McCreary	average_daily_pm25	13.3
+21149	Kentucky	McLean	average_daily_pm25	13.4
+21151	Kentucky	Madison	average_daily_pm25	12.4
+21153	Kentucky	Magoffin	average_daily_pm25	12.4
+21155	Kentucky	Marion	average_daily_pm25	12.7
+21157	Kentucky	Marshall	average_daily_pm25	13.7
+21159	Kentucky	Martin	average_daily_pm25	12.4
+21161	Kentucky	Mason	average_daily_pm25	13
+21163	Kentucky	Meade	average_daily_pm25	13.1
+21165	Kentucky	Menifee	average_daily_pm25	12.5
+21167	Kentucky	Mercer	average_daily_pm25	12.7
+21169	Kentucky	Metcalfe	average_daily_pm25	13.3
+21171	Kentucky	Monroe	average_daily_pm25	13.6
+21173	Kentucky	Montgomery	average_daily_pm25	12.6
+21175	Kentucky	Morgan	average_daily_pm25	12.5
+21177	Kentucky	Muhlenberg	average_daily_pm25	13.6
+21179	Kentucky	Nelson	average_daily_pm25	12.9
+21181	Kentucky	Nicholas	average_daily_pm25	12.8
+21183	Kentucky	Ohio	average_daily_pm25	13.3
+21185	Kentucky	Oldham	average_daily_pm25	13.1
+21187	Kentucky	Owen	average_daily_pm25	13.1
+21189	Kentucky	Owsley	average_daily_pm25	12.4
+21191	Kentucky	Pendleton	average_daily_pm25	13.1
+21193	Kentucky	Perry	average_daily_pm25	12.5
+21195	Kentucky	Pike	average_daily_pm25	12.4
+21197	Kentucky	Powell	average_daily_pm25	12.5
+21199	Kentucky	Pulaski	average_daily_pm25	12.9
+21201	Kentucky	Robertson	average_daily_pm25	13
+21203	Kentucky	Rockcastle	average_daily_pm25	12.5
+21205	Kentucky	Rowan	average_daily_pm25	12.7
+21207	Kentucky	Russell	average_daily_pm25	13.2
+21209	Kentucky	Scott	average_daily_pm25	12.9
+21211	Kentucky	Shelby	average_daily_pm25	13
+21213	Kentucky	Simpson	average_daily_pm25	13.8
+21215	Kentucky	Spencer	average_daily_pm25	12.9
+21217	Kentucky	Taylor	average_daily_pm25	12.8
+21219	Kentucky	Todd	average_daily_pm25	13.9
+21221	Kentucky	Trigg	average_daily_pm25	14.1
+21223	Kentucky	Trimble	average_daily_pm25	13.2
+21225	Kentucky	Union	average_daily_pm25	13.5
+21227	Kentucky	Warren	average_daily_pm25	13.5
+21229	Kentucky	Washington	average_daily_pm25	12.7
+21231	Kentucky	Wayne	average_daily_pm25	13.3
+21233	Kentucky	Webster	average_daily_pm25	13.6
+21235	Kentucky	Whitley	average_daily_pm25	13.2
+21237	Kentucky	Wolfe	average_daily_pm25	12.4
+21239	Kentucky	Woodford	average_daily_pm25	12.8
+22001	Louisiana	Acadia	average_daily_pm25	10.2
+22003	Louisiana	Allen	average_daily_pm25	10.3
+22005	Louisiana	Ascension	average_daily_pm25	10.6
+22007	Louisiana	Assumption	average_daily_pm25	10.4
+22009	Louisiana	Avoyelles	average_daily_pm25	10.8
+22011	Louisiana	Beauregard	average_daily_pm25	10
+22013	Louisiana	Bienville	average_daily_pm25	11.2
+22015	Louisiana	Bossier	average_daily_pm25	11.3
+22017	Louisiana	Caddo	average_daily_pm25	11.2
+22019	Louisiana	Calcasieu	average_daily_pm25	9.9
+22021	Louisiana	Caldwell	average_daily_pm25	11.3
+22023	Louisiana	Cameron	average_daily_pm25	9.8
+22025	Louisiana	Catahoula	average_daily_pm25	11.2
+22027	Louisiana	Claiborne	average_daily_pm25	11.6
+22029	Louisiana	Concordia	average_daily_pm25	11.2
+22031	Louisiana	De Soto	average_daily_pm25	10.8
+22033	Louisiana	East Baton Rouge	average_daily_pm25	10.8
+22035	Louisiana	East Carroll	average_daily_pm25	12.1
+22037	Louisiana	East Feliciana	average_daily_pm25	11
+22039	Louisiana	Evangeline	average_daily_pm25	10.5
+22041	Louisiana	Franklin	average_daily_pm25	11.5
+22043	Louisiana	Grant	average_daily_pm25	10.9
+22045	Louisiana	Iberia	average_daily_pm25	10.2
+22047	Louisiana	Iberville	average_daily_pm25	10.5
+22049	Louisiana	Jackson	average_daily_pm25	11.3
+22051	Louisiana	Jefferson	average_daily_pm25	10.5
+22053	Louisiana	Jefferson Davis	average_daily_pm25	10.1
+22055	Louisiana	Lafayette	average_daily_pm25	10.3
+22057	Louisiana	Lafourche	average_daily_pm25	10.4
+22059	Louisiana	La Salle	average_daily_pm25	11.1
+22061	Louisiana	Lincoln	average_daily_pm25	11.5
+22063	Louisiana	Livingston	average_daily_pm25	10.8
+22065	Louisiana	Madison	average_daily_pm25	11.8
+22067	Louisiana	Morehouse	average_daily_pm25	11.8
+22069	Louisiana	Natchitoches	average_daily_pm25	10.7
+22071	Louisiana	Orleans	average_daily_pm25	10.8
+22073	Louisiana	Ouachita	average_daily_pm25	11.6
+22075	Louisiana	Plaquemines	average_daily_pm25	10.5
+22077	Louisiana	Pointe Coupee	average_daily_pm25	10.7
+22079	Louisiana	Rapides	average_daily_pm25	10.6
+22081	Louisiana	Red River	average_daily_pm25	10.9
+22083	Louisiana	Richland	average_daily_pm25	11.6
+22085	Louisiana	Sabine	average_daily_pm25	10.4
+22087	Louisiana	St. Bernard	average_daily_pm25	10.7
+22089	Louisiana	St. Charles	average_daily_pm25	10.5
+22091	Louisiana	St. Helena	average_daily_pm25	11.1
+22093	Louisiana	St. James	average_daily_pm25	10.5
+22095	Louisiana	St. John the Baptist	average_daily_pm25	10.6
+22097	Louisiana	St. Landry	average_daily_pm25	10.5
+22099	Louisiana	St. Martin	average_daily_pm25	10.4
+22101	Louisiana	St. Mary	average_daily_pm25	10.1
+22103	Louisiana	St. Tammany	average_daily_pm25	11
+22105	Louisiana	Tangipahoa	average_daily_pm25	11.1
+22107	Louisiana	Tensas	average_daily_pm25	11.6
+22109	Louisiana	Terrebonne	average_daily_pm25	10.2
+22111	Louisiana	Union	average_daily_pm25	11.7
+22113	Louisiana	Vermilion	average_daily_pm25	10
+22115	Louisiana	Vernon	average_daily_pm25	10.3
+22117	Louisiana	Washington	average_daily_pm25	11.3
+22119	Louisiana	Webster	average_daily_pm25	11.4
+22121	Louisiana	West Baton Rouge	average_daily_pm25	10.7
+22123	Louisiana	West Carroll	average_daily_pm25	12
+22125	Louisiana	West Feliciana	average_daily_pm25	10.9
+22127	Louisiana	Winn	average_daily_pm25	11.1
+23001	Maine	Androscoggin	average_daily_pm25	9.3
+23003	Maine	Aroostook	average_daily_pm25	8.6
+23005	Maine	Cumberland	average_daily_pm25	9.5
+23007	Maine	Franklin	average_daily_pm25	9
+23009	Maine	Hancock	average_daily_pm25	8.8
+23011	Maine	Kennebec	average_daily_pm25	9.1
+23013	Maine	Knox	average_daily_pm25	9.2
+23015	Maine	Lincoln	average_daily_pm25	9.3
+23017	Maine	Oxford	average_daily_pm25	9.3
+23019	Maine	Penobscot	average_daily_pm25	8.5
+23021	Maine	Piscataquis	average_daily_pm25	8.6
+23023	Maine	Sagadahoc	average_daily_pm25	9.4
+23025	Maine	Somerset	average_daily_pm25	8.8
+23027	Maine	Waldo	average_daily_pm25	9
+23029	Maine	Washington	average_daily_pm25	8.7
+23031	Maine	York	average_daily_pm25	9.7
+24001	Maryland	Allegany	average_daily_pm25	13
+24003	Maryland	Anne Arundel	average_daily_pm25	12.4
+24005	Maryland	Baltimore	average_daily_pm25	12.7
+24009	Maryland	Calvert	average_daily_pm25	12.4
+24011	Maryland	Caroline	average_daily_pm25	11.9
+24013	Maryland	Carroll	average_daily_pm25	12.8
+24015	Maryland	Cecil	average_daily_pm25	12.3
+24017	Maryland	Charles	average_daily_pm25	12.4
+24019	Maryland	Dorchester	average_daily_pm25	12.1
+24021	Maryland	Frederick	average_daily_pm25	12.7
+24023	Maryland	Garrett	average_daily_pm25	13
+24025	Maryland	Harford	average_daily_pm25	12.6
+24027	Maryland	Howard	average_daily_pm25	12.5
+24029	Maryland	Kent	average_daily_pm25	12.1
+24031	Maryland	Montgomery	average_daily_pm25	12.5
+24033	Maryland	Prince George's	average_daily_pm25	12.4
+24035	Maryland	Queen Anne's	average_daily_pm25	12.1
+24037	Maryland	St. Mary's	average_daily_pm25	12.4
+24039	Maryland	Somerset	average_daily_pm25	12.1
+24041	Maryland	Talbot	average_daily_pm25	12.1
+24043	Maryland	Washington	average_daily_pm25	12.9
+24045	Maryland	Wicomico	average_daily_pm25	12
+24047	Maryland	Worcester	average_daily_pm25	12
+24510	Maryland	Baltimore City	average_daily_pm25	12.6
+25001	Massachusetts	Barnstable	average_daily_pm25	10.2
+25003	Massachusetts	Berkshire	average_daily_pm25	10.1
+25005	Massachusetts	Bristol	average_daily_pm25	10.2
+25007	Massachusetts	Dukes	average_daily_pm25	10.2
+25009	Massachusetts	Essex	average_daily_pm25	10
+25011	Massachusetts	Franklin	average_daily_pm25	9.9
+25013	Massachusetts	Hampden	average_daily_pm25	10
+25015	Massachusetts	Hampshire	average_daily_pm25	10
+25017	Massachusetts	Middlesex	average_daily_pm25	10.1
+25019	Massachusetts	Nantucket	average_daily_pm25	10
+25021	Massachusetts	Norfolk	average_daily_pm25	10.2
+25023	Massachusetts	Plymouth	average_daily_pm25	10.3
+25025	Massachusetts	Suffolk	average_daily_pm25	10.2
+25027	Massachusetts	Worcester	average_daily_pm25	10
+26001	Michigan	Alcona	average_daily_pm25	9.5
+26003	Michigan	Alger	average_daily_pm25	8.5
+26005	Michigan	Allegan	average_daily_pm25	11.3
+26007	Michigan	Alpena	average_daily_pm25	9.3
+26009	Michigan	Antrim	average_daily_pm25	9.2
+26011	Michigan	Arenac	average_daily_pm25	9.8
+26013	Michigan	Baraga	average_daily_pm25	8.2
+26015	Michigan	Barry	average_daily_pm25	11.3
+26017	Michigan	Bay	average_daily_pm25	10
+26019	Michigan	Benzie	average_daily_pm25	9.2
+26021	Michigan	Berrien	average_daily_pm25	12.2
+26023	Michigan	Branch	average_daily_pm25	12.1
+26025	Michigan	Calhoun	average_daily_pm25	11.7
+26027	Michigan	Cass	average_daily_pm25	12.2
+26029	Michigan	Charlevoix	average_daily_pm25	9.1
+26031	Michigan	Cheboygan	average_daily_pm25	9
+26033	Michigan	Chippewa	average_daily_pm25	8.9
+26035	Michigan	Clare	average_daily_pm25	9.6
+26037	Michigan	Clinton	average_daily_pm25	10.7
+26039	Michigan	Crawford	average_daily_pm25	9.3
+26041	Michigan	Delta	average_daily_pm25	8.7
+26043	Michigan	Dickinson	average_daily_pm25	8.6
+26045	Michigan	Eaton	average_daily_pm25	11.2
+26047	Michigan	Emmet	average_daily_pm25	9
+26049	Michigan	Genesee	average_daily_pm25	10.8
+26051	Michigan	Gladwin	average_daily_pm25	9.7
+26053	Michigan	Gogebic	average_daily_pm25	8.8
+26055	Michigan	Grand Traverse	average_daily_pm25	9.3
+26057	Michigan	Gratiot	average_daily_pm25	10.3
+26059	Michigan	Hillsdale	average_daily_pm25	12
+26061	Michigan	Houghton	average_daily_pm25	8.2
+26063	Michigan	Huron	average_daily_pm25	10.3
+26065	Michigan	Ingham	average_daily_pm25	11.2
+26067	Michigan	Ionia	average_daily_pm25	10.7
+26069	Michigan	Iosco	average_daily_pm25	9.7
+26071	Michigan	Iron	average_daily_pm25	8.6
+26073	Michigan	Isabella	average_daily_pm25	9.8
+26075	Michigan	Jackson	average_daily_pm25	11.6
+26077	Michigan	Kalamazoo	average_daily_pm25	11.8
+26079	Michigan	Kalkaska	average_daily_pm25	9.3
+26081	Michigan	Kent	average_daily_pm25	10.6
+26083	Michigan	Keweenaw	average_daily_pm25	7.7
+26085	Michigan	Lake	average_daily_pm25	9.4
+26087	Michigan	Lapeer	average_daily_pm25	11.1
+26089	Michigan	Leelanau	average_daily_pm25	9.2
+26091	Michigan	Lenawee	average_daily_pm25	12
+26093	Michigan	Livingston	average_daily_pm25	11.2
+26095	Michigan	Luce	average_daily_pm25	8.7
+26097	Michigan	Mackinac	average_daily_pm25	8.8
+26099	Michigan	Macomb	average_daily_pm25	11.8
+26101	Michigan	Manistee	average_daily_pm25	9.3
+26103	Michigan	Marquette	average_daily_pm25	8.4
+26105	Michigan	Mason	average_daily_pm25	9.3
+26107	Michigan	Mecosta	average_daily_pm25	9.7
+26109	Michigan	Menominee	average_daily_pm25	9
+26111	Michigan	Midland	average_daily_pm25	9.9
+26113	Michigan	Missaukee	average_daily_pm25	9.4
+26115	Michigan	Monroe	average_daily_pm25	12.3
+26117	Michigan	Montcalm	average_daily_pm25	10.2
+26119	Michigan	Montmorency	average_daily_pm25	9.2
+26121	Michigan	Muskegon	average_daily_pm25	10.2
+26123	Michigan	Newaygo	average_daily_pm25	9.8
+26125	Michigan	Oakland	average_daily_pm25	11.5
+26127	Michigan	Oceana	average_daily_pm25	9.6
+26129	Michigan	Ogemaw	average_daily_pm25	9.5
+26131	Michigan	Ontonagon	average_daily_pm25	8.5
+26133	Michigan	Osceola	average_daily_pm25	9.5
+26135	Michigan	Oscoda	average_daily_pm25	9.4
+26137	Michigan	Otsego	average_daily_pm25	9.2
+26139	Michigan	Ottawa	average_daily_pm25	10.7
+26141	Michigan	Presque Isle	average_daily_pm25	9.1
+26143	Michigan	Roscommon	average_daily_pm25	9.5
+26145	Michigan	Saginaw	average_daily_pm25	10.3
+26147	Michigan	St. Clair	average_daily_pm25	11.6
+26149	Michigan	St. Joseph	average_daily_pm25	12.1
+26151	Michigan	Sanilac	average_daily_pm25	10.9
+26153	Michigan	Schoolcraft	average_daily_pm25	8.7
+26155	Michigan	Shiawassee	average_daily_pm25	10.7
+26157	Michigan	Tuscola	average_daily_pm25	10.5
+26159	Michigan	Van Buren	average_daily_pm25	11.9
+26161	Michigan	Washtenaw	average_daily_pm25	11.7
+26163	Michigan	Wayne	average_daily_pm25	12
+26165	Michigan	Wexford	average_daily_pm25	9.4
+27001	Minnesota	Aitkin	average_daily_pm25	9.7
+27003	Minnesota	Anoka	average_daily_pm25	10.9
+27005	Minnesota	Becker	average_daily_pm25	9.7
+27007	Minnesota	Beltrami	average_daily_pm25	9.3
+27009	Minnesota	Benton	average_daily_pm25	10.7
+27011	Minnesota	Big Stone	average_daily_pm25	10.3
+27013	Minnesota	Blue Earth	average_daily_pm25	11.4
+27015	Minnesota	Brown	average_daily_pm25	11.3
+27017	Minnesota	Carlton	average_daily_pm25	9.5
+27019	Minnesota	Carver	average_daily_pm25	11.1
+27021	Minnesota	Cass	average_daily_pm25	9.6
+27023	Minnesota	Chippewa	average_daily_pm25	11.3
+27025	Minnesota	Chisago	average_daily_pm25	10.6
+27027	Minnesota	Clay	average_daily_pm25	9.2
+27029	Minnesota	Clearwater	average_daily_pm25	9.6
+27031	Minnesota	Cook	average_daily_pm25	8.1
+27033	Minnesota	Cottonwood	average_daily_pm25	11.3
+27035	Minnesota	Crow Wing	average_daily_pm25	9.9
+27037	Minnesota	Dakota	average_daily_pm25	11.1
+27039	Minnesota	Dodge	average_daily_pm25	11.4
+27041	Minnesota	Douglas	average_daily_pm25	10.7
+27043	Minnesota	Faribault	average_daily_pm25	11.3
+27045	Minnesota	Fillmore	average_daily_pm25	11.5
+27047	Minnesota	Freeborn	average_daily_pm25	11.4
+27049	Minnesota	Goodhue	average_daily_pm25	11.2
+27051	Minnesota	Grant	average_daily_pm25	10.3
+27053	Minnesota	Hennepin	average_daily_pm25	11
+27055	Minnesota	Houston	average_daily_pm25	11.4
+27057	Minnesota	Hubbard	average_daily_pm25	9.7
+27059	Minnesota	Isanti	average_daily_pm25	10.6
+27061	Minnesota	Itasca	average_daily_pm25	9.2
+27063	Minnesota	Jackson	average_daily_pm25	11.2
+27065	Minnesota	Kanabec	average_daily_pm25	10.3
+27067	Minnesota	Kandiyohi	average_daily_pm25	11.3
+27069	Minnesota	Kittson	average_daily_pm25	8.3
+27071	Minnesota	Koochiching	average_daily_pm25	8.9
+27073	Minnesota	Lac qui Parle	average_daily_pm25	10.7
+27075	Minnesota	Lake	average_daily_pm25	8.5
+27077	Minnesota	Lake of the Woods	average_daily_pm25	9
+27079	Minnesota	Le Sueur	average_daily_pm25	11.3
+27081	Minnesota	Lincoln	average_daily_pm25	10.7
+27083	Minnesota	Lyon	average_daily_pm25	11.1
+27085	Minnesota	McLeod	average_daily_pm25	11.2
+27087	Minnesota	Mahnomen	average_daily_pm25	9.5
+27089	Minnesota	Marshall	average_daily_pm25	8.7
+27091	Minnesota	Martin	average_daily_pm25	11.3
+27093	Minnesota	Meeker	average_daily_pm25	11.2
+27095	Minnesota	Mille Lacs	average_daily_pm25	10.3
+27097	Minnesota	Morrison	average_daily_pm25	10.4
+27099	Minnesota	Mower	average_daily_pm25	11.5
+27101	Minnesota	Murray	average_daily_pm25	11.1
+27103	Minnesota	Nicollet	average_daily_pm25	11.3
+27105	Minnesota	Nobles	average_daily_pm25	11.1
+27107	Minnesota	Norman	average_daily_pm25	9.1
+27109	Minnesota	Olmsted	average_daily_pm25	11.4
+27111	Minnesota	Otter Tail	average_daily_pm25	10.1
+27113	Minnesota	Pennington	average_daily_pm25	9.1
+27115	Minnesota	Pine	average_daily_pm25	9.9
+27117	Minnesota	Pipestone	average_daily_pm25	10.8
+27119	Minnesota	Polk	average_daily_pm25	8.9
+27121	Minnesota	Pope	average_daily_pm25	11.1
+27123	Minnesota	Ramsey	average_daily_pm25	11
+27125	Minnesota	Red Lake	average_daily_pm25	9.1
+27127	Minnesota	Redwood	average_daily_pm25	11.3
+27129	Minnesota	Renville	average_daily_pm25	11.3
+27131	Minnesota	Rice	average_daily_pm25	11.2
+27133	Minnesota	Rock	average_daily_pm25	10.8
+27135	Minnesota	Roseau	average_daily_pm25	8.9
+27137	Minnesota	St. Louis	average_daily_pm25	8.8
+27139	Minnesota	Scott	average_daily_pm25	11.2
+27141	Minnesota	Sherburne	average_daily_pm25	10.9
+27143	Minnesota	Sibley	average_daily_pm25	11.2
+27145	Minnesota	Stearns	average_daily_pm25	11
+27147	Minnesota	Steele	average_daily_pm25	11.4
+27149	Minnesota	Stevens	average_daily_pm25	10.7
+27151	Minnesota	Swift	average_daily_pm25	11.2
+27153	Minnesota	Todd	average_daily_pm25	10.6
+27155	Minnesota	Traverse	average_daily_pm25	10
+27157	Minnesota	Wabasha	average_daily_pm25	11.2
+27159	Minnesota	Wadena	average_daily_pm25	10.1
+27161	Minnesota	Waseca	average_daily_pm25	11.4
+27163	Minnesota	Washington	average_daily_pm25	10.9
+27165	Minnesota	Watonwan	average_daily_pm25	11.4
+27167	Minnesota	Wilkin	average_daily_pm25	9.6
+27169	Minnesota	Winona	average_daily_pm25	11.4
+27171	Minnesota	Wright	average_daily_pm25	11.1
+27173	Minnesota	Yellow Medicine	average_daily_pm25	11
+28001	Mississippi	Adams	average_daily_pm25	11.3
+28003	Mississippi	Alcorn	average_daily_pm25	13.2
+28005	Mississippi	Amite	average_daily_pm25	11.3
+28007	Mississippi	Attala	average_daily_pm25	13
+28009	Mississippi	Benton	average_daily_pm25	13
+28011	Mississippi	Bolivar	average_daily_pm25	12.3
+28013	Mississippi	Calhoun	average_daily_pm25	12.8
+28015	Mississippi	Carroll	average_daily_pm25	12.7
+28017	Mississippi	Chickasaw	average_daily_pm25	12.9
+28019	Mississippi	Choctaw	average_daily_pm25	13
+28021	Mississippi	Claiborne	average_daily_pm25	11.8
+28023	Mississippi	Clarke	average_daily_pm25	12.8
+28025	Mississippi	Clay	average_daily_pm25	13
+28027	Mississippi	Coahoma	average_daily_pm25	12.4
+28029	Mississippi	Copiah	average_daily_pm25	11.9
+28031	Mississippi	Covington	average_daily_pm25	12.1
+28033	Mississippi	DeSoto	average_daily_pm25	12.8
+28035	Mississippi	Forrest	average_daily_pm25	11.8
+28037	Mississippi	Franklin	average_daily_pm25	11.5
+28039	Mississippi	George	average_daily_pm25	11.7
+28041	Mississippi	Greene	average_daily_pm25	12
+28043	Mississippi	Grenada	average_daily_pm25	12.7
+28045	Mississippi	Hancock	average_daily_pm25	11.1
+28047	Mississippi	Harrison	average_daily_pm25	11.3
+28049	Mississippi	Hinds	average_daily_pm25	12.2
+28051	Mississippi	Holmes	average_daily_pm25	12.7
+28053	Mississippi	Humphreys	average_daily_pm25	12.5
+28055	Mississippi	Issaquena	average_daily_pm25	12.2
+28057	Mississippi	Itawamba	average_daily_pm25	12.8
+28059	Mississippi	Jackson	average_daily_pm25	11.5
+28061	Mississippi	Jasper	average_daily_pm25	12.6
+28063	Mississippi	Jefferson	average_daily_pm25	11.6
+28065	Mississippi	Jefferson Davis	average_daily_pm25	11.9
+28067	Mississippi	Jones	average_daily_pm25	12.2
+28069	Mississippi	Kemper	average_daily_pm25	13.5
+28071	Mississippi	Lafayette	average_daily_pm25	12.6
+28073	Mississippi	Lamar	average_daily_pm25	11.7
+28075	Mississippi	Lauderdale	average_daily_pm25	13.1
+28077	Mississippi	Lawrence	average_daily_pm25	11.8
+28079	Mississippi	Leake	average_daily_pm25	13
+28081	Mississippi	Lee	average_daily_pm25	12.8
+28083	Mississippi	Leflore	average_daily_pm25	12.5
+28085	Mississippi	Lincoln	average_daily_pm25	11.7
+28087	Mississippi	Lowndes	average_daily_pm25	13.3
+28089	Mississippi	Madison	average_daily_pm25	12.6
+28091	Mississippi	Marion	average_daily_pm25	11.7
+28093	Mississippi	Marshall	average_daily_pm25	12.8
+28095	Mississippi	Monroe	average_daily_pm25	13
+28097	Mississippi	Montgomery	average_daily_pm25	12.8
+28099	Mississippi	Neshoba	average_daily_pm25	13.2
+28101	Mississippi	Newton	average_daily_pm25	12.9
+28103	Mississippi	Noxubee	average_daily_pm25	13.4
+28105	Mississippi	Oktibbeha	average_daily_pm25	13.1
+28107	Mississippi	Panola	average_daily_pm25	12.5
+28109	Mississippi	Pearl River	average_daily_pm25	11.4
+28111	Mississippi	Perry	average_daily_pm25	11.8
+28113	Mississippi	Pike	average_daily_pm25	11.4
+28115	Mississippi	Pontotoc	average_daily_pm25	12.7
+28117	Mississippi	Prentiss	average_daily_pm25	13
+28119	Mississippi	Quitman	average_daily_pm25	12.5
+28121	Mississippi	Rankin	average_daily_pm25	12.4
+28123	Mississippi	Scott	average_daily_pm25	12.7
+28125	Mississippi	Sharkey	average_daily_pm25	12.3
+28127	Mississippi	Simpson	average_daily_pm25	12.1
+28129	Mississippi	Smith	average_daily_pm25	12.4
+28131	Mississippi	Stone	average_daily_pm25	11.6
+28133	Mississippi	Sunflower	average_daily_pm25	12.4
+28135	Mississippi	Tallahatchie	average_daily_pm25	12.5
+28137	Mississippi	Tate	average_daily_pm25	12.6
+28139	Mississippi	Tippah	average_daily_pm25	13
+28141	Mississippi	Tishomingo	average_daily_pm25	13.2
+28143	Mississippi	Tunica	average_daily_pm25	12.6
+28145	Mississippi	Union	average_daily_pm25	12.7
+28147	Mississippi	Walthall	average_daily_pm25	11.5
+28149	Mississippi	Warren	average_daily_pm25	12
+28151	Mississippi	Washington	average_daily_pm25	12.3
+28153	Mississippi	Wayne	average_daily_pm25	12.4
+28155	Mississippi	Webster	average_daily_pm25	12.9
+28157	Mississippi	Wilkinson	average_daily_pm25	11.1
+28159	Mississippi	Winston	average_daily_pm25	13.2
+28161	Mississippi	Yalobusha	average_daily_pm25	12.6
+28163	Mississippi	Yazoo	average_daily_pm25	12.5
+29001	Missouri	Adair	average_daily_pm25	10.5
+29003	Missouri	Andrew	average_daily_pm25	8.8
+29005	Missouri	Atchison	average_daily_pm25	8.3
+29007	Missouri	Audrain	average_daily_pm25	11.5
+29009	Missouri	Barry	average_daily_pm25	10.2
+29011	Missouri	Barton	average_daily_pm25	8.9
+29013	Missouri	Bates	average_daily_pm25	9.1
+29015	Missouri	Benton	average_daily_pm25	9.9
+29017	Missouri	Bollinger	average_daily_pm25	12.1
+29019	Missouri	Boone	average_daily_pm25	11.1
+29021	Missouri	Buchanan	average_daily_pm25	8.9
+29023	Missouri	Butler	average_daily_pm25	12.4
+29025	Missouri	Caldwell	average_daily_pm25	9.6
+29027	Missouri	Callaway	average_daily_pm25	11.3
+29029	Missouri	Camden	average_daily_pm25	10.2
+29031	Missouri	Cape Girardeau	average_daily_pm25	12.3
+29033	Missouri	Carroll	average_daily_pm25	10
+29035	Missouri	Carter	average_daily_pm25	11.7
+29037	Missouri	Cass	average_daily_pm25	9.2
+29039	Missouri	Cedar	average_daily_pm25	9.3
+29041	Missouri	Chariton	average_daily_pm25	10.4
+29043	Missouri	Christian	average_daily_pm25	10.3
+29045	Missouri	Clark	average_daily_pm25	11.1
+29047	Missouri	Clay	average_daily_pm25	9.2
+29049	Missouri	Clinton	average_daily_pm25	9.2
+29051	Missouri	Cole	average_daily_pm25	10.9
+29053	Missouri	Cooper	average_daily_pm25	10.6
+29055	Missouri	Crawford	average_daily_pm25	11.2
+29057	Missouri	Dade	average_daily_pm25	9.3
+29059	Missouri	Dallas	average_daily_pm25	9.8
+29061	Missouri	Daviess	average_daily_pm25	9.5
+29063	Missouri	DeKalb	average_daily_pm25	9.1
+29065	Missouri	Dent	average_daily_pm25	10.9
+29067	Missouri	Douglas	average_daily_pm25	10.8
+29069	Missouri	Dunklin	average_daily_pm25	13
+29071	Missouri	Franklin	average_daily_pm25	11.6
+29073	Missouri	Gasconade	average_daily_pm25	11.4
+29075	Missouri	Gentry	average_daily_pm25	9.1
+29077	Missouri	Greene	average_daily_pm25	9.8
+29079	Missouri	Grundy	average_daily_pm25	9.8
+29081	Missouri	Harrison	average_daily_pm25	9.4
+29083	Missouri	Henry	average_daily_pm25	9.6
+29085	Missouri	Hickory	average_daily_pm25	9.7
+29087	Missouri	Holt	average_daily_pm25	8.5
+29089	Missouri	Howard	average_daily_pm25	10.8
+29091	Missouri	Howell	average_daily_pm25	11.3
+29093	Missouri	Iron	average_daily_pm25	11.4
+29095	Missouri	Jackson	average_daily_pm25	9.4
+29097	Missouri	Jasper	average_daily_pm25	9.3
+29099	Missouri	Jefferson	average_daily_pm25	11.9
+29101	Missouri	Johnson	average_daily_pm25	9.7
+29103	Missouri	Knox	average_daily_pm25	10.9
+29105	Missouri	Laclede	average_daily_pm25	10.1
+29107	Missouri	Lafayette	average_daily_pm25	9.8
+29109	Missouri	Lawrence	average_daily_pm25	9.7
+29111	Missouri	Lewis	average_daily_pm25	11.2
+29113	Missouri	Lincoln	average_daily_pm25	12
+29115	Missouri	Linn	average_daily_pm25	10.2
+29117	Missouri	Livingston	average_daily_pm25	9.9
+29119	Missouri	McDonald	average_daily_pm25	10.1
+29121	Missouri	Macon	average_daily_pm25	10.6
+29123	Missouri	Madison	average_daily_pm25	11.7
+29125	Missouri	Maries	average_daily_pm25	10.9
+29127	Missouri	Marion	average_daily_pm25	11.4
+29129	Missouri	Mercer	average_daily_pm25	9.7
+29131	Missouri	Miller	average_daily_pm25	10.6
+29133	Missouri	Mississippi	average_daily_pm25	13.1
+29135	Missouri	Moniteau	average_daily_pm25	10.7
+29137	Missouri	Monroe	average_daily_pm25	11.3
+29139	Missouri	Montgomery	average_daily_pm25	11.7
+29141	Missouri	Morgan	average_daily_pm25	10.3
+29143	Missouri	New Madrid	average_daily_pm25	13
+29145	Missouri	Newton	average_daily_pm25	9.7
+29147	Missouri	Nodaway	average_daily_pm25	8.7
+29149	Missouri	Oregon	average_daily_pm25	11.7
+29151	Missouri	Osage	average_daily_pm25	11.1
+29153	Missouri	Ozark	average_daily_pm25	11.1
+29155	Missouri	Pemiscot	average_daily_pm25	13.3
+29157	Missouri	Perry	average_daily_pm25	12.1
+29159	Missouri	Pettis	average_daily_pm25	10.1
+29161	Missouri	Phelps	average_daily_pm25	10.8
+29163	Missouri	Pike	average_daily_pm25	11.8
+29165	Missouri	Platte	average_daily_pm25	8.9
+29167	Missouri	Polk	average_daily_pm25	9.5
+29169	Missouri	Pulaski	average_daily_pm25	10.5
+29171	Missouri	Putnam	average_daily_pm25	10.1
+29173	Missouri	Ralls	average_daily_pm25	11.6
+29175	Missouri	Randolph	average_daily_pm25	10.9
+29177	Missouri	Ray	average_daily_pm25	9.6
+29179	Missouri	Reynolds	average_daily_pm25	11.4
+29181	Missouri	Ripley	average_daily_pm25	12.1
+29183	Missouri	St. Charles	average_daily_pm25	12
+29185	Missouri	St. Clair	average_daily_pm25	9.5
+29186	Missouri	Ste. Genevieve	average_daily_pm25	12
+29187	Missouri	St. Francois	average_daily_pm25	11.7
+29189	Missouri	St. Louis	average_daily_pm25	12.1
+29195	Missouri	Saline	average_daily_pm25	10.3
+29197	Missouri	Schuyler	average_daily_pm25	10.5
+29199	Missouri	Scotland	average_daily_pm25	10.8
+29201	Missouri	Scott	average_daily_pm25	12.7
+29203	Missouri	Shannon	average_daily_pm25	11.2
+29205	Missouri	Shelby	average_daily_pm25	11.1
+29207	Missouri	Stoddard	average_daily_pm25	12.6
+29209	Missouri	Stone	average_daily_pm25	10.4
+29211	Missouri	Sullivan	average_daily_pm25	10.1
+29213	Missouri	Taney	average_daily_pm25	10.8
+29215	Missouri	Texas	average_daily_pm25	10.7
+29217	Missouri	Vernon	average_daily_pm25	9
+29219	Missouri	Warren	average_daily_pm25	11.8
+29221	Missouri	Washington	average_daily_pm25	11.5
+29223	Missouri	Wayne	average_daily_pm25	12
+29225	Missouri	Webster	average_daily_pm25	10.1
+29227	Missouri	Worth	average_daily_pm25	9
+29229	Missouri	Wright	average_daily_pm25	10.4
+29510	Missouri	St. Louis City	average_daily_pm25	12.2
+30001	Montana	Beaverhead	average_daily_pm25	7.8
+30003	Montana	Big Horn	average_daily_pm25	7.3
+30005	Montana	Blaine	average_daily_pm25	9.1
+30007	Montana	Broadwater	average_daily_pm25	8
+30009	Montana	Carbon	average_daily_pm25	7.3
+30011	Montana	Carter	average_daily_pm25	7
+30013	Montana	Cascade	average_daily_pm25	8.6
+30015	Montana	Chouteau	average_daily_pm25	9
+30017	Montana	Custer	average_daily_pm25	7.3
+30019	Montana	Daniels	average_daily_pm25	8.2
+30021	Montana	Dawson	average_daily_pm25	7.4
+30023	Montana	Deer Lodge	average_daily_pm25	8.1
+30025	Montana	Fallon	average_daily_pm25	7.1
+30027	Montana	Fergus	average_daily_pm25	8.3
+30029	Montana	Flathead	average_daily_pm25	9.9
+30031	Montana	Gallatin	average_daily_pm25	7.6
+30033	Montana	Garfield	average_daily_pm25	8
+30035	Montana	Glacier	average_daily_pm25	10.1
+30037	Montana	Golden Valley	average_daily_pm25	7.8
+30039	Montana	Granite	average_daily_pm25	8.3
+30041	Montana	Hill	average_daily_pm25	9.5
+30043	Montana	Jefferson	average_daily_pm25	8
+30045	Montana	Judith Basin	average_daily_pm25	8.2
+30047	Montana	Lake	average_daily_pm25	9.2
+30049	Montana	Lewis and Clark	average_daily_pm25	8.5
+30051	Montana	Liberty	average_daily_pm25	9.7
+30053	Montana	Lincoln	average_daily_pm25	10.5
+30055	Montana	McCone	average_daily_pm25	7.8
+30057	Montana	Madison	average_daily_pm25	7.6
+30059	Montana	Meagher	average_daily_pm25	8
+30061	Montana	Mineral	average_daily_pm25	9
+30063	Montana	Missoula	average_daily_pm25	8.6
+30065	Montana	Musselshell	average_daily_pm25	7.7
+30067	Montana	Park	average_daily_pm25	7.5
+30069	Montana	Petroleum	average_daily_pm25	8.1
+30071	Montana	Phillips	average_daily_pm25	8.7
+30073	Montana	Pondera	average_daily_pm25	9.6
+30075	Montana	Powder River	average_daily_pm25	7.1
+30077	Montana	Powell	average_daily_pm25	8.4
+30079	Montana	Prairie	average_daily_pm25	7.4
+30081	Montana	Ravalli	average_daily_pm25	8.3
+30083	Montana	Richland	average_daily_pm25	7.5
+30085	Montana	Roosevelt	average_daily_pm25	7.9
+30087	Montana	Rosebud	average_daily_pm25	7.5
+30089	Montana	Sanders	average_daily_pm25	9.6
+30091	Montana	Sheridan	average_daily_pm25	7.9
+30093	Montana	Silver Bow	average_daily_pm25	8
+30095	Montana	Stillwater	average_daily_pm25	7.5
+30097	Montana	Sweet Grass	average_daily_pm25	7.6
+30099	Montana	Teton	average_daily_pm25	9.2
+30101	Montana	Toole	average_daily_pm25	9.9
+30103	Montana	Treasure	average_daily_pm25	7.6
+30105	Montana	Valley	average_daily_pm25	8.4
+30107	Montana	Wheatland	average_daily_pm25	7.8
+30109	Montana	Wibaux	average_daily_pm25	7.2
+30111	Montana	Yellowstone	average_daily_pm25	7.5
+31001	Nebraska	Adams	average_daily_pm25	9.3
+31003	Nebraska	Antelope	average_daily_pm25	10.1
+31005	Nebraska	Arthur	average_daily_pm25	9.4
+31007	Nebraska	Banner	average_daily_pm25	8.7
+31009	Nebraska	Blaine	average_daily_pm25	10.2
+31011	Nebraska	Boone	average_daily_pm25	9.8
+31013	Nebraska	Box Butte	average_daily_pm25	9
+31015	Nebraska	Boyd	average_daily_pm25	9.9
+31017	Nebraska	Brown	average_daily_pm25	10.1
+31019	Nebraska	Buffalo	average_daily_pm25	9.6
+31021	Nebraska	Burt	average_daily_pm25	9.4
+31023	Nebraska	Butler	average_daily_pm25	9.2
+31025	Nebraska	Cass	average_daily_pm25	8.6
+31027	Nebraska	Cedar	average_daily_pm25	10
+31029	Nebraska	Chase	average_daily_pm25	8.9
+31031	Nebraska	Cherry	average_daily_pm25	9.6
+31033	Nebraska	Cheyenne	average_daily_pm25	8.8
+31035	Nebraska	Clay	average_daily_pm25	9.1
+31037	Nebraska	Colfax	average_daily_pm25	9.4
+31039	Nebraska	Cuming	average_daily_pm25	9.6
+31041	Nebraska	Custer	average_daily_pm25	9.9
+31043	Nebraska	Dakota	average_daily_pm25	9.8
+31045	Nebraska	Dawes	average_daily_pm25	8.8
+31047	Nebraska	Dawson	average_daily_pm25	9.5
+31049	Nebraska	Deuel	average_daily_pm25	8.9
+31051	Nebraska	Dixon	average_daily_pm25	9.9
+31053	Nebraska	Dodge	average_daily_pm25	9.3
+31055	Nebraska	Douglas	average_daily_pm25	8.9
+31057	Nebraska	Dundy	average_daily_pm25	9.2
+31059	Nebraska	Fillmore	average_daily_pm25	8.9
+31061	Nebraska	Franklin	average_daily_pm25	9.7
+31063	Nebraska	Frontier	average_daily_pm25	9.3
+31065	Nebraska	Furnas	average_daily_pm25	9.6
+31067	Nebraska	Gage	average_daily_pm25	8.7
+31069	Nebraska	Garden	average_daily_pm25	9.1
+31071	Nebraska	Garfield	average_daily_pm25	10.3
+31073	Nebraska	Gosper	average_daily_pm25	9.4
+31075	Nebraska	Grant	average_daily_pm25	9.5
+31077	Nebraska	Greeley	average_daily_pm25	9.9
+31079	Nebraska	Hall	average_daily_pm25	9.4
+31081	Nebraska	Hamilton	average_daily_pm25	9.2
+31083	Nebraska	Harlan	average_daily_pm25	9.8
+31085	Nebraska	Hayes	average_daily_pm25	9.1
+31087	Nebraska	Hitchcock	average_daily_pm25	9.4
+31089	Nebraska	Holt	average_daily_pm25	10.2
+31091	Nebraska	Hooker	average_daily_pm25	9.7
+31093	Nebraska	Howard	average_daily_pm25	9.6
+31095	Nebraska	Jefferson	average_daily_pm25	8.9
+31097	Nebraska	Johnson	average_daily_pm25	8.5
+31099	Nebraska	Kearney	average_daily_pm25	9.4
+31101	Nebraska	Keith	average_daily_pm25	9.2
+31103	Nebraska	Keya Paha	average_daily_pm25	9.8
+31105	Nebraska	Kimball	average_daily_pm25	8.6
+31107	Nebraska	Knox	average_daily_pm25	10
+31109	Nebraska	Lancaster	average_daily_pm25	8.7
+31111	Nebraska	Lincoln	average_daily_pm25	9.4
+31113	Nebraska	Logan	average_daily_pm25	9.8
+31115	Nebraska	Loup	average_daily_pm25	10.4
+31117	Nebraska	McPherson	average_daily_pm25	9.6
+31119	Nebraska	Madison	average_daily_pm25	9.8
+31121	Nebraska	Merrick	average_daily_pm25	9.5
+31123	Nebraska	Morrill	average_daily_pm25	8.9
+31125	Nebraska	Nance	average_daily_pm25	9.6
+31127	Nebraska	Nemaha	average_daily_pm25	8.3
+31129	Nebraska	Nuckolls	average_daily_pm25	9.3
+31131	Nebraska	Otoe	average_daily_pm25	8.4
+31133	Nebraska	Pawnee	average_daily_pm25	8.5
+31135	Nebraska	Perkins	average_daily_pm25	9
+31137	Nebraska	Phelps	average_daily_pm25	9.5
+31139	Nebraska	Pierce	average_daily_pm25	10
+31141	Nebraska	Platte	average_daily_pm25	9.6
+31143	Nebraska	Polk	average_daily_pm25	9.3
+31145	Nebraska	Red Willow	average_daily_pm25	9.5
+31147	Nebraska	Richardson	average_daily_pm25	8.3
+31149	Nebraska	Rock	average_daily_pm25	10.3
+31151	Nebraska	Saline	average_daily_pm25	8.8
+31153	Nebraska	Sarpy	average_daily_pm25	8.7
+31155	Nebraska	Saunders	average_daily_pm25	9
+31157	Nebraska	Scotts Bluff	average_daily_pm25	8.8
+31159	Nebraska	Seward	average_daily_pm25	8.9
+31161	Nebraska	Sheridan	average_daily_pm25	9.1
+31163	Nebraska	Sherman	average_daily_pm25	9.8
+31165	Nebraska	Sioux	average_daily_pm25	8.6
+31167	Nebraska	Stanton	average_daily_pm25	9.7
+31169	Nebraska	Thayer	average_daily_pm25	9.1
+31171	Nebraska	Thomas	average_daily_pm25	9.9
+31173	Nebraska	Thurston	average_daily_pm25	9.7
+31175	Nebraska	Valley	average_daily_pm25	10.1
+31177	Nebraska	Washington	average_daily_pm25	9.1
+31179	Nebraska	Wayne	average_daily_pm25	9.9
+31181	Nebraska	Webster	average_daily_pm25	9.5
+31183	Nebraska	Wheeler	average_daily_pm25	10.2
+31185	Nebraska	York	average_daily_pm25	9
+32001	Nevada	Churchill	average_daily_pm25	13
+32003	Nevada	Clark	average_daily_pm25	12.8
+32005	Nevada	Douglas	average_daily_pm25	12.3
+32007	Nevada	Elko	average_daily_pm25	11.3
+32009	Nevada	Esmeralda	average_daily_pm25	15.4
+32011	Nevada	Eureka	average_daily_pm25	12.8
+32013	Nevada	Humboldt	average_daily_pm25	12
+32015	Nevada	Lander	average_daily_pm25	13
+32017	Nevada	Lincoln	average_daily_pm25	13.4
+32019	Nevada	Lyon	average_daily_pm25	12.6
+32021	Nevada	Mineral	average_daily_pm25	13.8
+32023	Nevada	Nye	average_daily_pm25	13.7
+32027	Nevada	Pershing	average_daily_pm25	13.8
+32029	Nevada	Storey	average_daily_pm25	12.4
+32031	Nevada	Washoe	average_daily_pm25	12.4
+32033	Nevada	White Pine	average_daily_pm25	12.2
+32510	Nevada	Carson City	average_daily_pm25	11.9
+33001	New Hampshire	Belknap	average_daily_pm25	9.6
+33003	New Hampshire	Carroll	average_daily_pm25	9.5
+33005	New Hampshire	Cheshire	average_daily_pm25	9.8
+33007	New Hampshire	Coos	average_daily_pm25	9.3
+33009	New Hampshire	Grafton	average_daily_pm25	9.5
+33011	New Hampshire	Hillsborough	average_daily_pm25	9.9
+33013	New Hampshire	Merrimack	average_daily_pm25	9.7
+33015	New Hampshire	Rockingham	average_daily_pm25	9.9
+33017	New Hampshire	Strafford	average_daily_pm25	9.7
+33019	New Hampshire	Sullivan	average_daily_pm25	9.7
+34001	New Jersey	Atlantic	average_daily_pm25	11.2
+34003	New Jersey	Bergen	average_daily_pm25	11.4
+34005	New Jersey	Burlington	average_daily_pm25	11.5
+34007	New Jersey	Camden	average_daily_pm25	11.7
+34009	New Jersey	Cape May	average_daily_pm25	11.1
+34011	New Jersey	Cumberland	average_daily_pm25	11.5
+34013	New Jersey	Essex	average_daily_pm25	11.7
+34015	New Jersey	Gloucester	average_daily_pm25	11.8
+34017	New Jersey	Hudson	average_daily_pm25	11.6
+34019	New Jersey	Hunterdon	average_daily_pm25	12.2
+34021	New Jersey	Mercer	average_daily_pm25	11.8
+34023	New Jersey	Middlesex	average_daily_pm25	11.8
+34025	New Jersey	Monmouth	average_daily_pm25	11.5
+34027	New Jersey	Morris	average_daily_pm25	11.8
+34029	New Jersey	Ocean	average_daily_pm25	11.3
+34031	New Jersey	Passaic	average_daily_pm25	11.5
+34033	New Jersey	Salem	average_daily_pm25	11.8
+34035	New Jersey	Somerset	average_daily_pm25	12
+34037	New Jersey	Sussex	average_daily_pm25	11.6
+34039	New Jersey	Union	average_daily_pm25	11.9
+34041	New Jersey	Warren	average_daily_pm25	12.1
+35001	New Mexico	Bernalillo	average_daily_pm25	9.9
+35003	New Mexico	Catron	average_daily_pm25	11.1
+35005	New Mexico	Chaves	average_daily_pm25	10.2
+35006	New Mexico	Cibola	average_daily_pm25	10.3
+35007	New Mexico	Colfax	average_daily_pm25	10.2
+35009	New Mexico	Curry	average_daily_pm25	9.5
+35011	New Mexico	De Baca	average_daily_pm25	9.8
+35013	New Mexico	Dona Ana	average_daily_pm25	11.4
+35015	New Mexico	Eddy	average_daily_pm25	10.8
+35017	New Mexico	Grant	average_daily_pm25	11.9
+35019	New Mexico	Guadalupe	average_daily_pm25	9.8
+35021	New Mexico	Harding	average_daily_pm25	9.8
+35023	New Mexico	Hidalgo	average_daily_pm25	12.1
+35025	New Mexico	Lea	average_daily_pm25	10.3
+35027	New Mexico	Lincoln	average_daily_pm25	10.4
+35028	New Mexico	Los Alamos	average_daily_pm25	9.3
+35029	New Mexico	Luna	average_daily_pm25	11.8
+35031	New Mexico	McKinley	average_daily_pm25	10
+35033	New Mexico	Mora	average_daily_pm25	9.6
+35035	New Mexico	Otero	average_daily_pm25	11
+35037	New Mexico	Quay	average_daily_pm25	9.7
+35039	New Mexico	Rio Arriba	average_daily_pm25	9.6
+35041	New Mexico	Roosevelt	average_daily_pm25	9.6
+35043	New Mexico	Sandoval	average_daily_pm25	9.4
+35045	New Mexico	San Juan	average_daily_pm25	9.4
+35047	New Mexico	San Miguel	average_daily_pm25	9.6
+35049	New Mexico	Santa Fe	average_daily_pm25	9.5
+35051	New Mexico	Sierra	average_daily_pm25	11.2
+35053	New Mexico	Socorro	average_daily_pm25	10.7
+35055	New Mexico	Taos	average_daily_pm25	9.9
+35057	New Mexico	Torrance	average_daily_pm25	10.1
+35059	New Mexico	Union	average_daily_pm25	10.4
+35061	New Mexico	Valencia	average_daily_pm25	10.2
+36001	New York	Albany	average_daily_pm25	10.3
+36003	New York	Allegany	average_daily_pm25	12.3
+36005	New York	Bronx	average_daily_pm25	11.4
+36007	New York	Broome	average_daily_pm25	11
+36009	New York	Cattaraugus	average_daily_pm25	12.8
+36011	New York	Cayuga	average_daily_pm25	11.1
+36013	New York	Chautauqua	average_daily_pm25	13.4
+36015	New York	Chemung	average_daily_pm25	11.4
+36017	New York	Chenango	average_daily_pm25	10.8
+36019	New York	Clinton	average_daily_pm25	9.7
+36021	New York	Columbia	average_daily_pm25	10.3
+36023	New York	Cortland	average_daily_pm25	11
+36025	New York	Delaware	average_daily_pm25	10.7
+36027	New York	Dutchess	average_daily_pm25	10.6
+36029	New York	Erie	average_daily_pm25	12.4
+36031	New York	Essex	average_daily_pm25	9.9
+36033	New York	Franklin	average_daily_pm25	9.9
+36035	New York	Fulton	average_daily_pm25	10.4
+36037	New York	Genesee	average_daily_pm25	11.9
+36039	New York	Greene	average_daily_pm25	10.4
+36041	New York	Hamilton	average_daily_pm25	10.3
+36043	New York	Herkimer	average_daily_pm25	10.5
+36045	New York	Jefferson	average_daily_pm25	10.6
+36047	New York	Kings	average_daily_pm25	11.6
+36049	New York	Lewis	average_daily_pm25	10.6
+36051	New York	Livingston	average_daily_pm25	11.9
+36053	New York	Madison	average_daily_pm25	10.8
+36055	New York	Monroe	average_daily_pm25	11.6
+36057	New York	Montgomery	average_daily_pm25	10.4
+36059	New York	Nassau	average_daily_pm25	11.3
+36061	New York	New York	average_daily_pm25	11.5
+36063	New York	Niagara	average_daily_pm25	12
+36065	New York	Oneida	average_daily_pm25	10.7
+36067	New York	Onondaga	average_daily_pm25	11
+36069	New York	Ontario	average_daily_pm25	11.5
+36071	New York	Orange	average_daily_pm25	11.2
+36073	New York	Orleans	average_daily_pm25	11.8
+36075	New York	Oswego	average_daily_pm25	10.9
+36077	New York	Otsego	average_daily_pm25	10.6
+36079	New York	Putnam	average_daily_pm25	10.9
+36081	New York	Queens	average_daily_pm25	11.5
+36083	New York	Rensselaer	average_daily_pm25	10.1
+36085	New York	Richmond	average_daily_pm25	11.8
+36087	New York	Rockland	average_daily_pm25	11.3
+36089	New York	St. Lawrence	average_daily_pm25	10.1
+36091	New York	Saratoga	average_daily_pm25	10.2
+36093	New York	Schenectady	average_daily_pm25	10.3
+36095	New York	Schoharie	average_daily_pm25	10.4
+36097	New York	Schuyler	average_daily_pm25	11.4
+36099	New York	Seneca	average_daily_pm25	11.3
+36101	New York	Steuben	average_daily_pm25	11.8
+36103	New York	Suffolk	average_daily_pm25	10.8
+36105	New York	Sullivan	average_daily_pm25	11.1
+36107	New York	Tioga	average_daily_pm25	11.1
+36109	New York	Tompkins	average_daily_pm25	11.1
+36111	New York	Ulster	average_daily_pm25	10.7
+36113	New York	Warren	average_daily_pm25	10.1
+36115	New York	Washington	average_daily_pm25	10
+36117	New York	Wayne	average_daily_pm25	11.3
+36119	New York	Westchester	average_daily_pm25	11.1
+36121	New York	Wyoming	average_daily_pm25	12.1
+36123	New York	Yates	average_daily_pm25	11.5
+37001	North Carolina	Alamance	average_daily_pm25	12.7
+37003	North Carolina	Alexander	average_daily_pm25	13.1
+37005	North Carolina	Alleghany	average_daily_pm25	12.9
+37007	North Carolina	Anson	average_daily_pm25	13.3
+37009	North Carolina	Ashe	average_daily_pm25	13
+37011	North Carolina	Avery	average_daily_pm25	13.3
+37013	North Carolina	Beaufort	average_daily_pm25	12.4
+37015	North Carolina	Bertie	average_daily_pm25	12.3
+37017	North Carolina	Bladen	average_daily_pm25	13
+37019	North Carolina	Brunswick	average_daily_pm25	12.7
+37021	North Carolina	Buncombe	average_daily_pm25	13.5
+37023	North Carolina	Burke	average_daily_pm25	13.3
+37025	North Carolina	Cabarrus	average_daily_pm25	13.1
+37027	North Carolina	Caldwell	average_daily_pm25	13.3
+37029	North Carolina	Camden	average_daily_pm25	12.3
+37031	North Carolina	Carteret	average_daily_pm25	12.4
+37033	North Carolina	Caswell	average_daily_pm25	12.6
+37035	North Carolina	Catawba	average_daily_pm25	13.2
+37037	North Carolina	Chatham	average_daily_pm25	12.8
+37039	North Carolina	Cherokee	average_daily_pm25	13.5
+37041	North Carolina	Chowan	average_daily_pm25	12.3
+37043	North Carolina	Clay	average_daily_pm25	13.5
+37045	North Carolina	Cleveland	average_daily_pm25	13.3
+37047	North Carolina	Columbus	average_daily_pm25	13
+37049	North Carolina	Craven	average_daily_pm25	12.5
+37051	North Carolina	Cumberland	average_daily_pm25	12.9
+37053	North Carolina	Currituck	average_daily_pm25	12.2
+37055	North Carolina	Dare	average_daily_pm25	12.2
+37057	North Carolina	Davidson	average_daily_pm25	12.9
+37059	North Carolina	Davie	average_daily_pm25	12.9
+37061	North Carolina	Duplin	average_daily_pm25	12.7
+37063	North Carolina	Durham	average_daily_pm25	12.6
+37065	North Carolina	Edgecombe	average_daily_pm25	12.4
+37067	North Carolina	Forsyth	average_daily_pm25	12.8
+37069	North Carolina	Franklin	average_daily_pm25	12.5
+37071	North Carolina	Gaston	average_daily_pm25	13.3
+37073	North Carolina	Gates	average_daily_pm25	12.3
+37075	North Carolina	Graham	average_daily_pm25	13.7
+37077	North Carolina	Granville	average_daily_pm25	12.5
+37079	North Carolina	Greene	average_daily_pm25	12.5
+37081	North Carolina	Guilford	average_daily_pm25	12.7
+37083	North Carolina	Halifax	average_daily_pm25	12.4
+37085	North Carolina	Harnett	average_daily_pm25	12.8
+37087	North Carolina	Haywood	average_daily_pm25	13.6
+37089	North Carolina	Henderson	average_daily_pm25	13.5
+37091	North Carolina	Hertford	average_daily_pm25	12.3
+37093	North Carolina	Hoke	average_daily_pm25	13
+37095	North Carolina	Hyde	average_daily_pm25	12.3
+37097	North Carolina	Iredell	average_daily_pm25	13.1
+37099	North Carolina	Jackson	average_daily_pm25	13.5
+37101	North Carolina	Johnston	average_daily_pm25	12.7
+37103	North Carolina	Jones	average_daily_pm25	12.6
+37105	North Carolina	Lee	average_daily_pm25	12.8
+37107	North Carolina	Lenoir	average_daily_pm25	12.6
+37109	North Carolina	Lincoln	average_daily_pm25	13.2
+37111	North Carolina	McDowell	average_daily_pm25	13.4
+37113	North Carolina	Macon	average_daily_pm25	13.5
+37115	North Carolina	Madison	average_daily_pm25	13.7
+37117	North Carolina	Martin	average_daily_pm25	12.4
+37119	North Carolina	Mecklenburg	average_daily_pm25	13.2
+37121	North Carolina	Mitchell	average_daily_pm25	13.4
+37123	North Carolina	Montgomery	average_daily_pm25	13
+37125	North Carolina	Moore	average_daily_pm25	13
+37127	North Carolina	Nash	average_daily_pm25	12.5
+37129	North Carolina	New Hanover	average_daily_pm25	12.8
+37131	North Carolina	Northampton	average_daily_pm25	12.4
+37133	North Carolina	Onslow	average_daily_pm25	12.7
+37135	North Carolina	Orange	average_daily_pm25	12.6
+37137	North Carolina	Pamlico	average_daily_pm25	12.4
+37139	North Carolina	Pasquotank	average_daily_pm25	12.3
+37141	North Carolina	Pender	average_daily_pm25	12.8
+37143	North Carolina	Perquimans	average_daily_pm25	12.3
+37145	North Carolina	Person	average_daily_pm25	12.6
+37147	North Carolina	Pitt	average_daily_pm25	12.5
+37149	North Carolina	Polk	average_daily_pm25	13.4
+37151	North Carolina	Randolph	average_daily_pm25	12.8
+37153	North Carolina	Richmond	average_daily_pm25	13.2
+37155	North Carolina	Robeson	average_daily_pm25	13.1
+37157	North Carolina	Rockingham	average_daily_pm25	12.6
+37159	North Carolina	Rowan	average_daily_pm25	13
+37161	North Carolina	Rutherford	average_daily_pm25	13.4
+37163	North Carolina	Sampson	average_daily_pm25	12.8
+37165	North Carolina	Scotland	average_daily_pm25	13.2
+37167	North Carolina	Stanly	average_daily_pm25	13.1
+37169	North Carolina	Stokes	average_daily_pm25	12.7
+37171	North Carolina	Surry	average_daily_pm25	12.8
+37173	North Carolina	Swain	average_daily_pm25	13.7
+37175	North Carolina	Transylvania	average_daily_pm25	13.4
+37177	North Carolina	Tyrrell	average_daily_pm25	12.2
+37179	North Carolina	Union	average_daily_pm25	13.3
+37181	North Carolina	Vance	average_daily_pm25	12.5
+37183	North Carolina	Wake	average_daily_pm25	12.6
+37185	North Carolina	Warren	average_daily_pm25	12.5
+37187	North Carolina	Washington	average_daily_pm25	12.3
+37189	North Carolina	Watauga	average_daily_pm25	13.2
+37191	North Carolina	Wayne	average_daily_pm25	12.6
+37193	North Carolina	Wilkes	average_daily_pm25	13
+37195	North Carolina	Wilson	average_daily_pm25	12.5
+37197	North Carolina	Yadkin	average_daily_pm25	12.9
+37199	North Carolina	Yancey	average_daily_pm25	13.5
+38001	North Dakota	Adams	average_daily_pm25	6.9
+38003	North Dakota	Barnes	average_daily_pm25	8.1
+38005	North Dakota	Benson	average_daily_pm25	6.8
+38007	North Dakota	Billings	average_daily_pm25	7
+38009	North Dakota	Bottineau	average_daily_pm25	6.9
+38011	North Dakota	Bowman	average_daily_pm25	6.9
+38013	North Dakota	Burke	average_daily_pm25	7.3
+38015	North Dakota	Burleigh	average_daily_pm25	7.1
+38017	North Dakota	Cass	average_daily_pm25	8.7
+38019	North Dakota	Cavalier	average_daily_pm25	7.1
+38021	North Dakota	Dickey	average_daily_pm25	7.9
+38023	North Dakota	Divide	average_daily_pm25	7.6
+38025	North Dakota	Dunn	average_daily_pm25	7
+38027	North Dakota	Eddy	average_daily_pm25	7.1
+38029	North Dakota	Emmons	average_daily_pm25	7.2
+38031	North Dakota	Foster	average_daily_pm25	7.3
+38033	North Dakota	Golden Valley	average_daily_pm25	7
+38035	North Dakota	Grand Forks	average_daily_pm25	8.1
+38037	North Dakota	Grant	average_daily_pm25	7
+38039	North Dakota	Griggs	average_daily_pm25	7.7
+38041	North Dakota	Hettinger	average_daily_pm25	6.9
+38043	North Dakota	Kidder	average_daily_pm25	7.2
+38045	North Dakota	LaMoure	average_daily_pm25	7.9
+38047	North Dakota	Logan	average_daily_pm25	7.3
+38049	North Dakota	McHenry	average_daily_pm25	6.8
+38051	North Dakota	McIntosh	average_daily_pm25	7.3
+38053	North Dakota	McKenzie	average_daily_pm25	7.2
+38055	North Dakota	McLean	average_daily_pm25	7
+38057	North Dakota	Mercer	average_daily_pm25	7
+38059	North Dakota	Morton	average_daily_pm25	7
+38061	North Dakota	Mountrail	average_daily_pm25	7.1
+38063	North Dakota	Nelson	average_daily_pm25	7.6
+38065	North Dakota	Oliver	average_daily_pm25	7
+38067	North Dakota	Pembina	average_daily_pm25	7.8
+38069	North Dakota	Pierce	average_daily_pm25	6.7
+38071	North Dakota	Ramsey	average_daily_pm25	7
+38073	North Dakota	Ransom	average_daily_pm25	8.6
+38075	North Dakota	Renville	average_daily_pm25	7.1
+38077	North Dakota	Richland	average_daily_pm25	9.3
+38079	North Dakota	Rolette	average_daily_pm25	6.7
+38081	North Dakota	Sargent	average_daily_pm25	8.7
+38083	North Dakota	Sheridan	average_daily_pm25	7
+38085	North Dakota	Sioux	average_daily_pm25	7.1
+38087	North Dakota	Slope	average_daily_pm25	6.9
+38089	North Dakota	Stark	average_daily_pm25	6.9
+38091	North Dakota	Steele	average_daily_pm25	8.1
+38093	North Dakota	Stutsman	average_daily_pm25	7.5
+38095	North Dakota	Towner	average_daily_pm25	6.7
+38097	North Dakota	Traill	average_daily_pm25	8.5
+38099	North Dakota	Walsh	average_daily_pm25	7.7
+38101	North Dakota	Ward	average_daily_pm25	7
+38103	North Dakota	Wells	average_daily_pm25	7
+38105	North Dakota	Williams	average_daily_pm25	7.4
+39001	Ohio	Adams	average_daily_pm25	13.1
+39003	Ohio	Allen	average_daily_pm25	13.2
+39005	Ohio	Ashland	average_daily_pm25	13.9
+39007	Ohio	Ashtabula	average_daily_pm25	14.1
+39009	Ohio	Athens	average_daily_pm25	13.1
+39011	Ohio	Auglaize	average_daily_pm25	13.4
+39013	Ohio	Belmont	average_daily_pm25	13.7
+39015	Ohio	Brown	average_daily_pm25	13.2
+39017	Ohio	Butler	average_daily_pm25	13.4
+39019	Ohio	Carroll	average_daily_pm25	14.4
+39021	Ohio	Champaign	average_daily_pm25	13.4
+39023	Ohio	Clark	average_daily_pm25	13.4
+39025	Ohio	Clermont	average_daily_pm25	13.3
+39027	Ohio	Clinton	average_daily_pm25	13.4
+39029	Ohio	Columbiana	average_daily_pm25	14.5
+39031	Ohio	Coshocton	average_daily_pm25	13.9
+39033	Ohio	Crawford	average_daily_pm25	13.6
+39035	Ohio	Cuyahoga	average_daily_pm25	13.7
+39037	Ohio	Darke	average_daily_pm25	13.3
+39039	Ohio	Defiance	average_daily_pm25	12.6
+39041	Ohio	Delaware	average_daily_pm25	13.6
+39043	Ohio	Erie	average_daily_pm25	13.3
+39045	Ohio	Fairfield	average_daily_pm25	13.4
+39047	Ohio	Fayette	average_daily_pm25	13.4
+39049	Ohio	Franklin	average_daily_pm25	13.5
+39051	Ohio	Fulton	average_daily_pm25	12.3
+39053	Ohio	Gallia	average_daily_pm25	12.8
+39055	Ohio	Geauga	average_daily_pm25	13.9
+39057	Ohio	Greene	average_daily_pm25	13.4
+39059	Ohio	Guernsey	average_daily_pm25	13.7
+39061	Ohio	Hamilton	average_daily_pm25	13.4
+39063	Ohio	Hancock	average_daily_pm25	13.2
+39065	Ohio	Hardin	average_daily_pm25	13.5
+39067	Ohio	Harrison	average_daily_pm25	14.1
+39069	Ohio	Henry	average_daily_pm25	12.6
+39071	Ohio	Highland	average_daily_pm25	13.3
+39073	Ohio	Hocking	average_daily_pm25	13.3
+39075	Ohio	Holmes	average_daily_pm25	14.1
+39077	Ohio	Huron	average_daily_pm25	13.5
+39079	Ohio	Jackson	average_daily_pm25	13
+39081	Ohio	Jefferson	average_daily_pm25	14.2
+39083	Ohio	Knox	average_daily_pm25	13.8
+39085	Ohio	Lake	average_daily_pm25	13.8
+39087	Ohio	Lawrence	average_daily_pm25	12.8
+39089	Ohio	Licking	average_daily_pm25	13.6
+39091	Ohio	Logan	average_daily_pm25	13.5
+39093	Ohio	Lorain	average_daily_pm25	13.6
+39095	Ohio	Lucas	average_daily_pm25	12.6
+39097	Ohio	Madison	average_daily_pm25	13.4
+39099	Ohio	Mahoning	average_daily_pm25	14.4
+39101	Ohio	Marion	average_daily_pm25	13.7
+39103	Ohio	Medina	average_daily_pm25	13.8
+39105	Ohio	Meigs	average_daily_pm25	12.9
+39107	Ohio	Mercer	average_daily_pm25	13.2
+39109	Ohio	Miami	average_daily_pm25	13.4
+39111	Ohio	Monroe	average_daily_pm25	13.4
+39113	Ohio	Montgomery	average_daily_pm25	13.4
+39115	Ohio	Morgan	average_daily_pm25	13.3
+39117	Ohio	Morrow	average_daily_pm25	13.8
+39119	Ohio	Muskingum	average_daily_pm25	13.6
+39121	Ohio	Noble	average_daily_pm25	13.4
+39123	Ohio	Ottawa	average_daily_pm25	12.8
+39125	Ohio	Paulding	average_daily_pm25	12.8
+39127	Ohio	Perry	average_daily_pm25	13.4
+39129	Ohio	Pickaway	average_daily_pm25	13.4
+39131	Ohio	Pike	average_daily_pm25	13.2
+39133	Ohio	Portage	average_daily_pm25	14.1
+39135	Ohio	Preble	average_daily_pm25	13.3
+39137	Ohio	Putnam	average_daily_pm25	13
+39139	Ohio	Richland	average_daily_pm25	13.8
+39141	Ohio	Ross	average_daily_pm25	13.2
+39143	Ohio	Sandusky	average_daily_pm25	13
+39145	Ohio	Scioto	average_daily_pm25	13
+39147	Ohio	Seneca	average_daily_pm25	13.3
+39149	Ohio	Shelby	average_daily_pm25	13.4
+39151	Ohio	Stark	average_daily_pm25	14.2
+39153	Ohio	Summit	average_daily_pm25	14
+39155	Ohio	Trumbull	average_daily_pm25	14.2
+39157	Ohio	Tuscarawas	average_daily_pm25	14.1
+39159	Ohio	Union	average_daily_pm25	13.5
+39161	Ohio	Van Wert	average_daily_pm25	13
+39163	Ohio	Vinton	average_daily_pm25	13.1
+39165	Ohio	Warren	average_daily_pm25	13.4
+39167	Ohio	Washington	average_daily_pm25	13.1
+39169	Ohio	Wayne	average_daily_pm25	14
+39171	Ohio	Williams	average_daily_pm25	12.4
+39173	Ohio	Wood	average_daily_pm25	12.8
+39175	Ohio	Wyandot	average_daily_pm25	13.5
+40001	Oklahoma	Adair	average_daily_pm25	10.8
+40003	Oklahoma	Alfalfa	average_daily_pm25	9.9
+40005	Oklahoma	Atoka	average_daily_pm25	10.4
+40007	Oklahoma	Beaver	average_daily_pm25	10.3
+40009	Oklahoma	Beckham	average_daily_pm25	9.7
+40011	Oklahoma	Blaine	average_daily_pm25	9.8
+40013	Oklahoma	Bryan	average_daily_pm25	10.5
+40015	Oklahoma	Caddo	average_daily_pm25	9.9
+40017	Oklahoma	Canadian	average_daily_pm25	9.9
+40019	Oklahoma	Carter	average_daily_pm25	10.2
+40021	Oklahoma	Cherokee	average_daily_pm25	10.6
+40023	Oklahoma	Choctaw	average_daily_pm25	10.6
+40025	Oklahoma	Cimarron	average_daily_pm25	10.7
+40027	Oklahoma	Cleveland	average_daily_pm25	10.1
+40029	Oklahoma	Coal	average_daily_pm25	10.3
+40031	Oklahoma	Comanche	average_daily_pm25	9.9
+40033	Oklahoma	Cotton	average_daily_pm25	10
+40035	Oklahoma	Craig	average_daily_pm25	9.4
+40037	Oklahoma	Creek	average_daily_pm25	10.2
+40039	Oklahoma	Custer	average_daily_pm25	9.7
+40041	Oklahoma	Delaware	average_daily_pm25	10.1
+40043	Oklahoma	Dewey	average_daily_pm25	9.7
+40045	Oklahoma	Ellis	average_daily_pm25	9.8
+40047	Oklahoma	Garfield	average_daily_pm25	9.8
+40049	Oklahoma	Garvin	average_daily_pm25	10.1
+40051	Oklahoma	Grady	average_daily_pm25	10
+40053	Oklahoma	Grant	average_daily_pm25	9.7
+40055	Oklahoma	Greer	average_daily_pm25	9.8
+40057	Oklahoma	Harmon	average_daily_pm25	9.7
+40059	Oklahoma	Harper	average_daily_pm25	10.2
+40061	Oklahoma	Haskell	average_daily_pm25	10.6
+40063	Oklahoma	Hughes	average_daily_pm25	10.3
+40065	Oklahoma	Jackson	average_daily_pm25	9.8
+40067	Oklahoma	Jefferson	average_daily_pm25	10.1
+40069	Oklahoma	Johnston	average_daily_pm25	10.3
+40071	Oklahoma	Kay	average_daily_pm25	9.5
+40073	Oklahoma	Kingfisher	average_daily_pm25	9.9
+40075	Oklahoma	Kiowa	average_daily_pm25	9.8
+40077	Oklahoma	Latimer	average_daily_pm25	10.6
+40079	Oklahoma	Le Flore	average_daily_pm25	10.8
+40081	Oklahoma	Lincoln	average_daily_pm25	10.2
+40083	Oklahoma	Logan	average_daily_pm25	10
+40085	Oklahoma	Love	average_daily_pm25	10.3
+40087	Oklahoma	McClain	average_daily_pm25	10.1
+40089	Oklahoma	McCurtain	average_daily_pm25	10.9
+40091	Oklahoma	McIntosh	average_daily_pm25	10.4
+40093	Oklahoma	Major	average_daily_pm25	9.9
+40095	Oklahoma	Marshall	average_daily_pm25	10.4
+40097	Oklahoma	Mayes	average_daily_pm25	10.1
+40099	Oklahoma	Murray	average_daily_pm25	10.2
+40101	Oklahoma	Muskogee	average_daily_pm25	10.5
+40103	Oklahoma	Noble	average_daily_pm25	9.8
+40105	Oklahoma	Nowata	average_daily_pm25	9.2
+40107	Oklahoma	Okfuskee	average_daily_pm25	10.3
+40109	Oklahoma	Oklahoma	average_daily_pm25	10.1
+40111	Oklahoma	Okmulgee	average_daily_pm25	10.4
+40113	Oklahoma	Osage	average_daily_pm25	9.5
+40115	Oklahoma	Ottawa	average_daily_pm25	9.5
+40117	Oklahoma	Pawnee	average_daily_pm25	9.8
+40119	Oklahoma	Payne	average_daily_pm25	10
+40121	Oklahoma	Pittsburg	average_daily_pm25	10.4
+40123	Oklahoma	Pontotoc	average_daily_pm25	10.3
+40125	Oklahoma	Pottawatomie	average_daily_pm25	10.2
+40127	Oklahoma	Pushmataha	average_daily_pm25	10.6
+40129	Oklahoma	Roger Mills	average_daily_pm25	9.7
+40131	Oklahoma	Rogers	average_daily_pm25	9.8
+40133	Oklahoma	Seminole	average_daily_pm25	10.2
+40135	Oklahoma	Sequoyah	average_daily_pm25	10.8
+40137	Oklahoma	Stephens	average_daily_pm25	10.1
+40139	Oklahoma	Texas	average_daily_pm25	10.5
+40141	Oklahoma	Tillman	average_daily_pm25	9.9
+40143	Oklahoma	Tulsa	average_daily_pm25	10.1
+40145	Oklahoma	Wagoner	average_daily_pm25	10.4
+40147	Oklahoma	Washington	average_daily_pm25	9.3
+40149	Oklahoma	Washita	average_daily_pm25	9.8
+40151	Oklahoma	Woods	average_daily_pm25	10
+40153	Oklahoma	Woodward	average_daily_pm25	9.9
+41001	Oregon	Baker	average_daily_pm25	8.6
+41003	Oregon	Benton	average_daily_pm25	9.3
+41005	Oregon	Clackamas	average_daily_pm25	9.8
+41007	Oregon	Clatsop	average_daily_pm25	10.6
+41009	Oregon	Columbia	average_daily_pm25	10.5
+41011	Oregon	Coos	average_daily_pm25	9.1
+41013	Oregon	Crook	average_daily_pm25	8.7
+41015	Oregon	Curry	average_daily_pm25	9.5
+41017	Oregon	Deschutes	average_daily_pm25	8.5
+41019	Oregon	Douglas	average_daily_pm25	8.8
+41021	Oregon	Gilliam	average_daily_pm25	9.5
+41023	Oregon	Grant	average_daily_pm25	8.8
+41025	Oregon	Harney	average_daily_pm25	9
+41027	Oregon	Hood River	average_daily_pm25	9.9
+41029	Oregon	Jackson	average_daily_pm25	9.2
+41031	Oregon	Jefferson	average_daily_pm25	9.1
+41033	Oregon	Josephine	average_daily_pm25	9.5
+41035	Oregon	Klamath	average_daily_pm25	9
+41037	Oregon	Lake	average_daily_pm25	9.1
+41039	Oregon	Lane	average_daily_pm25	8.8
+41041	Oregon	Lincoln	average_daily_pm25	9.5
+41043	Oregon	Linn	average_daily_pm25	9.2
+41045	Oregon	Malheur	average_daily_pm25	8.8
+41047	Oregon	Marion	average_daily_pm25	9.6
+41049	Oregon	Morrow	average_daily_pm25	9.5
+41051	Oregon	Multnomah	average_daily_pm25	10.1
+41053	Oregon	Polk	average_daily_pm25	9.7
+41055	Oregon	Sherman	average_daily_pm25	9.7
+41057	Oregon	Tillamook	average_daily_pm25	10.3
+41059	Oregon	Umatilla	average_daily_pm25	9.5
+41061	Oregon	Union	average_daily_pm25	9
+41063	Oregon	Wallowa	average_daily_pm25	9.1
+41065	Oregon	Wasco	average_daily_pm25	9.6
+41067	Oregon	Washington	average_daily_pm25	10.2
+41069	Oregon	Wheeler	average_daily_pm25	9
+41071	Oregon	Yamhill	average_daily_pm25	10
+42001	Pennsylvania	Adams	average_daily_pm25	13
+42003	Pennsylvania	Allegheny	average_daily_pm25	14.4
+42005	Pennsylvania	Armstrong	average_daily_pm25	14.3
+42007	Pennsylvania	Beaver	average_daily_pm25	14.6
+42009	Pennsylvania	Bedford	average_daily_pm25	13.4
+42011	Pennsylvania	Berks	average_daily_pm25	12.8
+42013	Pennsylvania	Blair	average_daily_pm25	13.8
+42015	Pennsylvania	Bradford	average_daily_pm25	11.7
+42017	Pennsylvania	Bucks	average_daily_pm25	12.2
+42019	Pennsylvania	Butler	average_daily_pm25	14.4
+42021	Pennsylvania	Cambria	average_daily_pm25	13.9
+42023	Pennsylvania	Cameron	average_daily_pm25	13.2
+42025	Pennsylvania	Carbon	average_daily_pm25	12.4
+42027	Pennsylvania	Centre	average_daily_pm25	13.5
+42029	Pennsylvania	Chester	average_daily_pm25	12.4
+42031	Pennsylvania	Clarion	average_daily_pm25	14.1
+42033	Pennsylvania	Clearfield	average_daily_pm25	13.7
+42035	Pennsylvania	Clinton	average_daily_pm25	13.1
+42037	Pennsylvania	Columbia	average_daily_pm25	12.6
+42039	Pennsylvania	Crawford	average_daily_pm25	14.2
+42041	Pennsylvania	Cumberland	average_daily_pm25	13.2
+42043	Pennsylvania	Dauphin	average_daily_pm25	13.3
+42045	Pennsylvania	Delaware	average_daily_pm25	12.1
+42047	Pennsylvania	Elk	average_daily_pm25	13.5
+42049	Pennsylvania	Erie	average_daily_pm25	14
+42051	Pennsylvania	Fayette	average_daily_pm25	13.6
+42053	Pennsylvania	Forest	average_daily_pm25	13.8
+42055	Pennsylvania	Franklin	average_daily_pm25	13.2
+42057	Pennsylvania	Fulton	average_daily_pm25	13.2
+42059	Pennsylvania	Greene	average_daily_pm25	13.6
+42061	Pennsylvania	Huntingdon	average_daily_pm25	13.6
+42063	Pennsylvania	Indiana	average_daily_pm25	14.1
+42065	Pennsylvania	Jefferson	average_daily_pm25	13.9
+42067	Pennsylvania	Juniata	average_daily_pm25	13.5
+42069	Pennsylvania	Lackawanna	average_daily_pm25	11.7
+42071	Pennsylvania	Lancaster	average_daily_pm25	12.8
+42073	Pennsylvania	Lawrence	average_daily_pm25	14.5
+42075	Pennsylvania	Lebanon	average_daily_pm25	13.1
+42077	Pennsylvania	Lehigh	average_daily_pm25	12.7
+42079	Pennsylvania	Luzerne	average_daily_pm25	12.2
+42081	Pennsylvania	Lycoming	average_daily_pm25	12.6
+42083	Pennsylvania	McKean	average_daily_pm25	13.1
+42085	Pennsylvania	Mercer	average_daily_pm25	14.4
+42087	Pennsylvania	Mifflin	average_daily_pm25	13.6
+42089	Pennsylvania	Monroe	average_daily_pm25	12.1
+42091	Pennsylvania	Montgomery	average_daily_pm25	12.3
+42093	Pennsylvania	Montour	average_daily_pm25	12.8
+42095	Pennsylvania	Northampton	average_daily_pm25	12.4
+42097	Pennsylvania	Northumberland	average_daily_pm25	13
+42099	Pennsylvania	Perry	average_daily_pm25	13.4
+42101	Pennsylvania	Philadelphia	average_daily_pm25	12
+42103	Pennsylvania	Pike	average_daily_pm25	11.6
+42105	Pennsylvania	Potter	average_daily_pm25	12.7
+42107	Pennsylvania	Schuylkill	average_daily_pm25	13
+42109	Pennsylvania	Snyder	average_daily_pm25	13.4
+42111	Pennsylvania	Somerset	average_daily_pm25	13.5
+42113	Pennsylvania	Sullivan	average_daily_pm25	12.1
+42115	Pennsylvania	Susquehanna	average_daily_pm25	11.3
+42117	Pennsylvania	Tioga	average_daily_pm25	12.2
+42119	Pennsylvania	Union	average_daily_pm25	13
+42121	Pennsylvania	Venango	average_daily_pm25	14.2
+42123	Pennsylvania	Warren	average_daily_pm25	13.6
+42125	Pennsylvania	Washington	average_daily_pm25	14
+42127	Pennsylvania	Wayne	average_daily_pm25	11.4
+42129	Pennsylvania	Westmoreland	average_daily_pm25	14
+42131	Pennsylvania	Wyoming	average_daily_pm25	11.8
+42133	Pennsylvania	York	average_daily_pm25	12.9
+44001	Rhode Island	Bristol	average_daily_pm25	10.2
+44003	Rhode Island	Kent	average_daily_pm25	10.2
+44005	Rhode Island	Newport	average_daily_pm25	10.2
+44007	Rhode Island	Providence	average_daily_pm25	10.2
+44009	Rhode Island	Washington	average_daily_pm25	10.3
+45001	South Carolina	Abbeville	average_daily_pm25	13.1
+45003	South Carolina	Aiken	average_daily_pm25	12.7
+45005	South Carolina	Allendale	average_daily_pm25	12.3
+45007	South Carolina	Anderson	average_daily_pm25	13.2
+45009	South Carolina	Bamberg	average_daily_pm25	12.4
+45011	South Carolina	Barnwell	average_daily_pm25	12.5
+45013	South Carolina	Beaufort	average_daily_pm25	11.6
+45015	South Carolina	Berkeley	average_daily_pm25	12.3
+45017	South Carolina	Calhoun	average_daily_pm25	12.8
+45019	South Carolina	Charleston	average_daily_pm25	11.9
+45021	South Carolina	Cherokee	average_daily_pm25	13.3
+45023	South Carolina	Chester	average_daily_pm25	13.4
+45025	South Carolina	Chesterfield	average_daily_pm25	13.5
+45027	South Carolina	Clarendon	average_daily_pm25	12.8
+45029	South Carolina	Colleton	average_daily_pm25	12
+45031	South Carolina	Darlington	average_daily_pm25	13.4
+45033	South Carolina	Dillon	average_daily_pm25	13.3
+45035	South Carolina	Dorchester	average_daily_pm25	12.2
+45037	South Carolina	Edgefield	average_daily_pm25	12.9
+45039	South Carolina	Fairfield	average_daily_pm25	13.4
+45041	South Carolina	Florence	average_daily_pm25	13.1
+45043	South Carolina	Georgetown	average_daily_pm25	12.4
+45045	South Carolina	Greenville	average_daily_pm25	13.3
+45047	South Carolina	Greenwood	average_daily_pm25	13.1
+45049	South Carolina	Hampton	average_daily_pm25	12
+45051	South Carolina	Horry	average_daily_pm25	12.8
+45053	South Carolina	Jasper	average_daily_pm25	11.7
+45055	South Carolina	Kershaw	average_daily_pm25	13.5
+45057	South Carolina	Lancaster	average_daily_pm25	13.4
+45059	South Carolina	Laurens	average_daily_pm25	13.3
+45061	South Carolina	Lee	average_daily_pm25	13.4
+45063	South Carolina	Lexington	average_daily_pm25	13
+45065	South Carolina	McCormick	average_daily_pm25	13
+45067	South Carolina	Marion	average_daily_pm25	13.1
+45069	South Carolina	Marlboro	average_daily_pm25	13.3
+45071	South Carolina	Newberry	average_daily_pm25	13.3
+45073	South Carolina	Oconee	average_daily_pm25	13.3
+45075	South Carolina	Orangeburg	average_daily_pm25	12.6
+45077	South Carolina	Pickens	average_daily_pm25	13.3
+45079	South Carolina	Richland	average_daily_pm25	13.2
+45081	South Carolina	Saluda	average_daily_pm25	13.1
+45083	South Carolina	Spartanburg	average_daily_pm25	13.3
+45085	South Carolina	Sumter	average_daily_pm25	13.1
+45087	South Carolina	Union	average_daily_pm25	13.3
+45089	South Carolina	Williamsburg	average_daily_pm25	12.7
+45091	South Carolina	York	average_daily_pm25	13.3
+46003	South Dakota	Aurora	average_daily_pm25	9.4
+46005	South Dakota	Beadle	average_daily_pm25	9
+46007	South Dakota	Bennett	average_daily_pm25	8.9
+46009	South Dakota	Bon Homme	average_daily_pm25	10
+46011	South Dakota	Brookings	average_daily_pm25	10.3
+46013	South Dakota	Brown	average_daily_pm25	8.2
+46015	South Dakota	Brule	average_daily_pm25	9.1
+46017	South Dakota	Buffalo	average_daily_pm25	8.7
+46019	South Dakota	Butte	average_daily_pm25	7.2
+46021	South Dakota	Campbell	average_daily_pm25	7.2
+46023	South Dakota	Charles Mix	average_daily_pm25	9.7
+46025	South Dakota	Clark	average_daily_pm25	9.2
+46027	South Dakota	Clay	average_daily_pm25	10.1
+46029	South Dakota	Codington	average_daily_pm25	9.7
+46031	South Dakota	Corson	average_daily_pm25	7
+46033	South Dakota	Custer	average_daily_pm25	8.1
+46035	South Dakota	Davison	average_daily_pm25	9.7
+46037	South Dakota	Day	average_daily_pm25	9.1
+46039	South Dakota	Deuel	average_daily_pm25	10.3
+46041	South Dakota	Dewey	average_daily_pm25	7.3
+46043	South Dakota	Douglas	average_daily_pm25	9.7
+46045	South Dakota	Edmunds	average_daily_pm25	7.4
+46047	South Dakota	Fall River	average_daily_pm25	8.3
+46049	South Dakota	Faulk	average_daily_pm25	7.7
+46051	South Dakota	Grant	average_daily_pm25	10
+46053	South Dakota	Gregory	average_daily_pm25	9.6
+46055	South Dakota	Haakon	average_daily_pm25	8
+46057	South Dakota	Hamlin	average_daily_pm25	9.8
+46059	South Dakota	Hand	average_daily_pm25	8.3
+46061	South Dakota	Hanson	average_daily_pm25	9.9
+46063	South Dakota	Harding	average_daily_pm25	6.9
+46065	South Dakota	Hughes	average_daily_pm25	8.1
+46067	South Dakota	Hutchinson	average_daily_pm25	10
+46069	South Dakota	Hyde	average_daily_pm25	8
+46071	South Dakota	Jackson	average_daily_pm25	8.5
+46073	South Dakota	Jerauld	average_daily_pm25	9.1
+46075	South Dakota	Jones	average_daily_pm25	8.5
+46077	South Dakota	Kingsbury	average_daily_pm25	9.7
+46079	South Dakota	Lake	average_daily_pm25	10.2
+46081	South Dakota	Lawrence	average_daily_pm25	7.5
+46083	South Dakota	Lincoln	average_daily_pm25	10.3
+46085	South Dakota	Lyman	average_daily_pm25	8.7
+46087	South Dakota	McCook	average_daily_pm25	10.1
+46089	South Dakota	McPherson	average_daily_pm25	7.4
+46091	South Dakota	Marshall	average_daily_pm25	8.9
+46093	South Dakota	Meade	average_daily_pm25	7.6
+46095	South Dakota	Mellette	average_daily_pm25	8.8
+46097	South Dakota	Miner	average_daily_pm25	9.8
+46099	South Dakota	Minnehaha	average_daily_pm25	10.4
+46101	South Dakota	Moody	average_daily_pm25	10.5
+46103	South Dakota	Pennington	average_daily_pm25	8
+46105	South Dakota	Perkins	average_daily_pm25	7
+46107	South Dakota	Potter	average_daily_pm25	7.4
+46109	South Dakota	Roberts	average_daily_pm25	9.6
+46111	South Dakota	Sanborn	average_daily_pm25	9.5
+46113	South Dakota	Shannon	average_daily_pm25	8.6
+46115	South Dakota	Spink	average_daily_pm25	8.5
+46117	South Dakota	Stanley	average_daily_pm25	8
+46119	South Dakota	Sully	average_daily_pm25	7.7
+46121	South Dakota	Todd	average_daily_pm25	9.2
+46123	South Dakota	Tripp	average_daily_pm25	9.2
+46125	South Dakota	Turner	average_daily_pm25	10.2
+46127	South Dakota	Union	average_daily_pm25	10.1
+46129	South Dakota	Walworth	average_daily_pm25	7.2
+46135	South Dakota	Yankton	average_daily_pm25	10.1
+46137	South Dakota	Ziebach	average_daily_pm25	7.3
+47001	Tennessee	Anderson	average_daily_pm25	14
+47003	Tennessee	Bedford	average_daily_pm25	14.1
+47005	Tennessee	Benton	average_daily_pm25	14.5
+47007	Tennessee	Bledsoe	average_daily_pm25	14.1
+47009	Tennessee	Blount	average_daily_pm25	14
+47011	Tennessee	Bradley	average_daily_pm25	13.6
+47013	Tennessee	Campbell	average_daily_pm25	13.7
+47015	Tennessee	Cannon	average_daily_pm25	14.4
+47017	Tennessee	Carroll	average_daily_pm25	14.3
+47019	Tennessee	Carter	average_daily_pm25	13.2
+47021	Tennessee	Cheatham	average_daily_pm25	14.4
+47023	Tennessee	Chester	average_daily_pm25	13.7
+47025	Tennessee	Claiborne	average_daily_pm25	13.4
+47027	Tennessee	Clay	average_daily_pm25	13.7
+47029	Tennessee	Cocke	average_daily_pm25	13.8
+47031	Tennessee	Coffee	average_daily_pm25	14
+47033	Tennessee	Crockett	average_daily_pm25	13.8
+47035	Tennessee	Cumberland	average_daily_pm25	14.2
+47037	Tennessee	Davidson	average_daily_pm25	14.4
+47039	Tennessee	Decatur	average_daily_pm25	14.2
+47041	Tennessee	DeKalb	average_daily_pm25	14.4
+47043	Tennessee	Dickson	average_daily_pm25	14.5
+47045	Tennessee	Dyer	average_daily_pm25	13.7
+47047	Tennessee	Fayette	average_daily_pm25	13.2
+47049	Tennessee	Fentress	average_daily_pm25	13.8
+47051	Tennessee	Franklin	average_daily_pm25	13.7
+47053	Tennessee	Gibson	average_daily_pm25	14
+47055	Tennessee	Giles	average_daily_pm25	13.8
+47057	Tennessee	Grainger	average_daily_pm25	13.6
+47059	Tennessee	Greene	average_daily_pm25	13.5
+47061	Tennessee	Grundy	average_daily_pm25	13.9
+47063	Tennessee	Hamblen	average_daily_pm25	13.6
+47065	Tennessee	Hamilton	average_daily_pm25	13.7
+47067	Tennessee	Hancock	average_daily_pm25	13.3
+47069	Tennessee	Hardeman	average_daily_pm25	13.4
+47071	Tennessee	Hardin	average_daily_pm25	13.7
+47073	Tennessee	Hawkins	average_daily_pm25	13.3
+47075	Tennessee	Haywood	average_daily_pm25	13.6
+47077	Tennessee	Henderson	average_daily_pm25	14.1
+47079	Tennessee	Henry	average_daily_pm25	14.2
+47081	Tennessee	Hickman	average_daily_pm25	14.5
+47083	Tennessee	Houston	average_daily_pm25	14.5
+47085	Tennessee	Humphreys	average_daily_pm25	14.6
+47087	Tennessee	Jackson	average_daily_pm25	14
+47089	Tennessee	Jefferson	average_daily_pm25	13.8
+47091	Tennessee	Johnson	average_daily_pm25	13.1
+47093	Tennessee	Knox	average_daily_pm25	14
+47095	Tennessee	Lake	average_daily_pm25	13.4
+47097	Tennessee	Lauderdale	average_daily_pm25	13.5
+47099	Tennessee	Lawrence	average_daily_pm25	13.8
+47101	Tennessee	Lewis	average_daily_pm25	14.2
+47103	Tennessee	Lincoln	average_daily_pm25	13.7
+47105	Tennessee	Loudon	average_daily_pm25	14.1
+47107	Tennessee	McMinn	average_daily_pm25	13.8
+47109	Tennessee	McNairy	average_daily_pm25	13.5
+47111	Tennessee	Macon	average_daily_pm25	13.9
+47113	Tennessee	Madison	average_daily_pm25	13.8
+47115	Tennessee	Marion	average_daily_pm25	13.6
+47117	Tennessee	Marshall	average_daily_pm25	14.1
+47119	Tennessee	Maury	average_daily_pm25	14.3
+47121	Tennessee	Meigs	average_daily_pm25	14
+47123	Tennessee	Monroe	average_daily_pm25	13.8
+47125	Tennessee	Montgomery	average_daily_pm25	14.2
+47127	Tennessee	Moore	average_daily_pm25	13.9
+47129	Tennessee	Morgan	average_daily_pm25	14.1
+47131	Tennessee	Obion	average_daily_pm25	13.6
+47133	Tennessee	Overton	average_daily_pm25	13.9
+47135	Tennessee	Perry	average_daily_pm25	14.4
+47137	Tennessee	Pickett	average_daily_pm25	13.6
+47139	Tennessee	Polk	average_daily_pm25	13.5
+47141	Tennessee	Putnam	average_daily_pm25	14.2
+47143	Tennessee	Rhea	average_daily_pm25	14
+47145	Tennessee	Roane	average_daily_pm25	14.2
+47147	Tennessee	Robertson	average_daily_pm25	14.1
+47149	Tennessee	Rutherford	average_daily_pm25	14.4
+47151	Tennessee	Scott	average_daily_pm25	13.7
+47153	Tennessee	Sequatchie	average_daily_pm25	13.9
+47155	Tennessee	Sevier	average_daily_pm25	13.9
+47157	Tennessee	Shelby	average_daily_pm25	13
+47159	Tennessee	Smith	average_daily_pm25	14.2
+47161	Tennessee	Stewart	average_daily_pm25	14.3
+47163	Tennessee	Sullivan	average_daily_pm25	13.1
+47165	Tennessee	Sumner	average_daily_pm25	14.1
+47167	Tennessee	Tipton	average_daily_pm25	13.3
+47169	Tennessee	Trousdale	average_daily_pm25	14
+47171	Tennessee	Unicoi	average_daily_pm25	13.5
+47173	Tennessee	Union	average_daily_pm25	13.7
+47175	Tennessee	Van Buren	average_daily_pm25	14.2
+47177	Tennessee	Warren	average_daily_pm25	14.2
+47179	Tennessee	Washington	average_daily_pm25	13.3
+47181	Tennessee	Wayne	average_daily_pm25	13.9
+47183	Tennessee	Weakley	average_daily_pm25	13.9
+47185	Tennessee	White	average_daily_pm25	14.3
+47187	Tennessee	Williamson	average_daily_pm25	14.5
+47189	Tennessee	Wilson	average_daily_pm25	14.3
+48001	Texas	Anderson	average_daily_pm25	9.9
+48003	Texas	Andrews	average_daily_pm25	10.6
+48005	Texas	Angelina	average_daily_pm25	9.6
+48007	Texas	Aransas	average_daily_pm25	9.1
+48009	Texas	Archer	average_daily_pm25	10
+48011	Texas	Armstrong	average_daily_pm25	9.6
+48013	Texas	Atascosa	average_daily_pm25	9.1
+48015	Texas	Austin	average_daily_pm25	9.3
+48017	Texas	Bailey	average_daily_pm25	9.5
+48019	Texas	Bandera	average_daily_pm25	9.3
+48021	Texas	Bastrop	average_daily_pm25	9.3
+48023	Texas	Baylor	average_daily_pm25	9.9
+48025	Texas	Bee	average_daily_pm25	9.1
+48027	Texas	Bell	average_daily_pm25	9.6
+48029	Texas	Bexar	average_daily_pm25	9.1
+48031	Texas	Blanco	average_daily_pm25	9.5
+48033	Texas	Borden	average_daily_pm25	10.1
+48035	Texas	Bosque	average_daily_pm25	10
+48037	Texas	Bowie	average_daily_pm25	11.2
+48039	Texas	Brazoria	average_daily_pm25	9.3
+48041	Texas	Brazos	average_daily_pm25	9.3
+48043	Texas	Brewster	average_daily_pm25	12.8
+48045	Texas	Briscoe	average_daily_pm25	9.6
+48047	Texas	Brooks	average_daily_pm25	9.2
+48049	Texas	Brown	average_daily_pm25	10.1
+48051	Texas	Burleson	average_daily_pm25	9.3
+48053	Texas	Burnet	average_daily_pm25	9.7
+48055	Texas	Caldwell	average_daily_pm25	9.3
+48057	Texas	Calhoun	average_daily_pm25	9.2
+48059	Texas	Callahan	average_daily_pm25	10
+48061	Texas	Cameron	average_daily_pm25	9.2
+48063	Texas	Camp	average_daily_pm25	11.2
+48065	Texas	Carson	average_daily_pm25	9.7
+48067	Texas	Cass	average_daily_pm25	11.3
+48069	Texas	Castro	average_daily_pm25	9.5
+48071	Texas	Chambers	average_daily_pm25	9.5
+48073	Texas	Cherokee	average_daily_pm25	10
+48075	Texas	Childress	average_daily_pm25	9.7
+48077	Texas	Clay	average_daily_pm25	10.1
+48079	Texas	Cochran	average_daily_pm25	9.7
+48081	Texas	Coke	average_daily_pm25	10.4
+48083	Texas	Coleman	average_daily_pm25	10.2
+48085	Texas	Collin	average_daily_pm25	10.7
+48087	Texas	Collingsworth	average_daily_pm25	9.7
+48089	Texas	Colorado	average_daily_pm25	9.2
+48091	Texas	Comal	average_daily_pm25	9.2
+48093	Texas	Comanche	average_daily_pm25	10.1
+48095	Texas	Concho	average_daily_pm25	10.4
+48097	Texas	Cooke	average_daily_pm25	10.4
+48099	Texas	Coryell	average_daily_pm25	9.8
+48101	Texas	Cottle	average_daily_pm25	9.7
+48103	Texas	Crane	average_daily_pm25	11.5
+48105	Texas	Crockett	average_daily_pm25	11.3
+48107	Texas	Crosby	average_daily_pm25	9.8
+48109	Texas	Culberson	average_daily_pm25	11.7
+48111	Texas	Dallam	average_daily_pm25	10.2
+48113	Texas	Dallas	average_daily_pm25	10.7
+48115	Texas	Dawson	average_daily_pm25	10.1
+48117	Texas	Deaf Smith	average_daily_pm25	9.6
+48119	Texas	Delta	average_daily_pm25	10.9
+48121	Texas	Denton	average_daily_pm25	10.5
+48123	Texas	DeWitt	average_daily_pm25	9.1
+48125	Texas	Dickens	average_daily_pm25	9.8
+48127	Texas	Dimmit	average_daily_pm25	9.3
+48129	Texas	Donley	average_daily_pm25	9.7
+48131	Texas	Duval	average_daily_pm25	9.1
+48133	Texas	Eastland	average_daily_pm25	10.1
+48135	Texas	Ector	average_daily_pm25	11
+48137	Texas	Edwards	average_daily_pm25	10.3
+48139	Texas	Ellis	average_daily_pm25	10.4
+48141	Texas	El Paso	average_daily_pm25	11.7
+48143	Texas	Erath	average_daily_pm25	10.1
+48145	Texas	Falls	average_daily_pm25	9.6
+48147	Texas	Fannin	average_daily_pm25	10.7
+48149	Texas	Fayette	average_daily_pm25	9.3
+48151	Texas	Fisher	average_daily_pm25	10
+48153	Texas	Floyd	average_daily_pm25	9.6
+48155	Texas	Foard	average_daily_pm25	9.8
+48157	Texas	Fort Bend	average_daily_pm25	9.3
+48159	Texas	Franklin	average_daily_pm25	11
+48161	Texas	Freestone	average_daily_pm25	9.8
+48163	Texas	Frio	average_daily_pm25	9
+48165	Texas	Gaines	average_daily_pm25	10.2
+48167	Texas	Galveston	average_daily_pm25	9.4
+48169	Texas	Garza	average_daily_pm25	9.9
+48171	Texas	Gillespie	average_daily_pm25	9.6
+48173	Texas	Glasscock	average_daily_pm25	10.7
+48175	Texas	Goliad	average_daily_pm25	9.1
+48177	Texas	Gonzales	average_daily_pm25	9.2
+48179	Texas	Gray	average_daily_pm25	9.7
+48181	Texas	Grayson	average_daily_pm25	10.5
+48183	Texas	Gregg	average_daily_pm25	10.9
+48185	Texas	Grimes	average_daily_pm25	9.3
+48187	Texas	Guadalupe	average_daily_pm25	9.2
+48189	Texas	Hale	average_daily_pm25	9.6
+48191	Texas	Hall	average_daily_pm25	9.7
+48193	Texas	Hamilton	average_daily_pm25	10
+48195	Texas	Hansford	average_daily_pm25	10.1
+48197	Texas	Hardeman	average_daily_pm25	9.8
+48199	Texas	Hardin	average_daily_pm25	9.6
+48201	Texas	Harris	average_daily_pm25	9.3
+48203	Texas	Harrison	average_daily_pm25	11.1
+48205	Texas	Hartley	average_daily_pm25	9.9
+48207	Texas	Haskell	average_daily_pm25	9.9
+48209	Texas	Hays	average_daily_pm25	9.3
+48211	Texas	Hemphill	average_daily_pm25	9.7
+48213	Texas	Henderson	average_daily_pm25	10.3
+48215	Texas	Hidalgo	average_daily_pm25	9.3
+48217	Texas	Hill	average_daily_pm25	10.1
+48219	Texas	Hockley	average_daily_pm25	9.7
+48221	Texas	Hood	average_daily_pm25	10.2
+48223	Texas	Hopkins	average_daily_pm25	11
+48225	Texas	Houston	average_daily_pm25	9.3
+48227	Texas	Howard	average_daily_pm25	10.4
+48229	Texas	Hudspeth	average_daily_pm25	11.8
+48231	Texas	Hunt	average_daily_pm25	10.8
+48233	Texas	Hutchinson	average_daily_pm25	9.8
+48235	Texas	Irion	average_daily_pm25	10.9
+48237	Texas	Jack	average_daily_pm25	10.2
+48239	Texas	Jackson	average_daily_pm25	9.2
+48241	Texas	Jasper	average_daily_pm25	9.8
+48243	Texas	Jeff Davis	average_daily_pm25	12.1
+48245	Texas	Jefferson	average_daily_pm25	9.6
+48247	Texas	Jim Hogg	average_daily_pm25	9.2
+48249	Texas	Jim Wells	average_daily_pm25	9.1
+48251	Texas	Johnson	average_daily_pm25	10.3
+48253	Texas	Jones	average_daily_pm25	10
+48255	Texas	Karnes	average_daily_pm25	9.1
+48257	Texas	Kaufman	average_daily_pm25	10.7
+48259	Texas	Kendall	average_daily_pm25	9.3
+48261	Texas	Kenedy	average_daily_pm25	9.2
+48263	Texas	Kent	average_daily_pm25	9.9
+48265	Texas	Kerr	average_daily_pm25	9.5
+48267	Texas	Kimble	average_daily_pm25	10
+48269	Texas	King	average_daily_pm25	9.8
+48271	Texas	Kinney	average_daily_pm25	10.2
+48273	Texas	Kleberg	average_daily_pm25	9.1
+48275	Texas	Knox	average_daily_pm25	9.8
+48277	Texas	Lamar	average_daily_pm25	10.8
+48279	Texas	Lamb	average_daily_pm25	9.6
+48281	Texas	Lampasas	average_daily_pm25	9.9
+48283	Texas	La Salle	average_daily_pm25	9
+48285	Texas	Lavaca	average_daily_pm25	9.2
+48287	Texas	Lee	average_daily_pm25	9.4
+48289	Texas	Leon	average_daily_pm25	9.4
+48291	Texas	Liberty	average_daily_pm25	9.4
+48293	Texas	Limestone	average_daily_pm25	9.7
+48295	Texas	Lipscomb	average_daily_pm25	9.9
+48297	Texas	Live Oak	average_daily_pm25	9
+48299	Texas	Llano	average_daily_pm25	9.8
+48301	Texas	Loving	average_daily_pm25	11.3
+48303	Texas	Lubbock	average_daily_pm25	9.7
+48305	Texas	Lynn	average_daily_pm25	9.9
+48307	Texas	McCulloch	average_daily_pm25	10.2
+48309	Texas	McLennan	average_daily_pm25	9.8
+48311	Texas	McMullen	average_daily_pm25	9
+48313	Texas	Madison	average_daily_pm25	9.2
+48315	Texas	Marion	average_daily_pm25	11.3
+48317	Texas	Martin	average_daily_pm25	10.5
+48319	Texas	Mason	average_daily_pm25	9.9
+48321	Texas	Matagorda	average_daily_pm25	9.2
+48323	Texas	Maverick	average_daily_pm25	9.9
+48325	Texas	Medina	average_daily_pm25	9.1
+48327	Texas	Menard	average_daily_pm25	10.3
+48329	Texas	Midland	average_daily_pm25	10.9
+48331	Texas	Milam	average_daily_pm25	9.5
+48333	Texas	Mills	average_daily_pm25	10
+48335	Texas	Mitchell	average_daily_pm25	10.3
+48337	Texas	Montague	average_daily_pm25	10.2
+48339	Texas	Montgomery	average_daily_pm25	9.3
+48341	Texas	Moore	average_daily_pm25	9.8
+48343	Texas	Morris	average_daily_pm25	11.2
+48345	Texas	Motley	average_daily_pm25	9.7
+48347	Texas	Nacogdoches	average_daily_pm25	10
+48349	Texas	Navarro	average_daily_pm25	10.1
+48351	Texas	Newton	average_daily_pm25	9.9
+48353	Texas	Nolan	average_daily_pm25	10.2
+48355	Texas	Nueces	average_daily_pm25	9.1
+48357	Texas	Ochiltree	average_daily_pm25	10
+48359	Texas	Oldham	average_daily_pm25	9.7
+48361	Texas	Orange	average_daily_pm25	9.7
+48363	Texas	Palo Pinto	average_daily_pm25	10.2
+48365	Texas	Panola	average_daily_pm25	10.7
+48367	Texas	Parker	average_daily_pm25	10.3
+48369	Texas	Parmer	average_daily_pm25	9.5
+48371	Texas	Pecos	average_daily_pm25	12.1
+48373	Texas	Polk	average_daily_pm25	9.4
+48375	Texas	Potter	average_daily_pm25	9.7
+48377	Texas	Presidio	average_daily_pm25	12.1
+48379	Texas	Rains	average_daily_pm25	11
+48381	Texas	Randall	average_daily_pm25	9.6
+48383	Texas	Reagan	average_daily_pm25	11.1
+48385	Texas	Real	average_daily_pm25	9.8
+48387	Texas	Red River	average_daily_pm25	10.9
+48389	Texas	Reeves	average_daily_pm25	11.8
+48391	Texas	Refugio	average_daily_pm25	9.1
+48393	Texas	Roberts	average_daily_pm25	9.8
+48395	Texas	Robertson	average_daily_pm25	9.4
+48397	Texas	Rockwall	average_daily_pm25	10.8
+48399	Texas	Runnels	average_daily_pm25	10.3
+48401	Texas	Rusk	average_daily_pm25	10.5
+48403	Texas	Sabine	average_daily_pm25	10.1
+48405	Texas	San Augustine	average_daily_pm25	10
+48407	Texas	San Jacinto	average_daily_pm25	9.3
+48409	Texas	San Patricio	average_daily_pm25	9.1
+48411	Texas	San Saba	average_daily_pm25	10
+48413	Texas	Schleicher	average_daily_pm25	10.7
+48415	Texas	Scurry	average_daily_pm25	10
+48417	Texas	Shackelford	average_daily_pm25	9.9
+48419	Texas	Shelby	average_daily_pm25	10.4
+48421	Texas	Sherman	average_daily_pm25	10.1
+48423	Texas	Smith	average_daily_pm25	10.6
+48425	Texas	Somervell	average_daily_pm25	10.2
+48427	Texas	Starr	average_daily_pm25	9.4
+48429	Texas	Stephens	average_daily_pm25	10
+48431	Texas	Sterling	average_daily_pm25	10.6
+48433	Texas	Stonewall	average_daily_pm25	9.9
+48435	Texas	Sutton	average_daily_pm25	10.6
+48437	Texas	Swisher	average_daily_pm25	9.5
+48439	Texas	Tarrant	average_daily_pm25	10.5
+48441	Texas	Taylor	average_daily_pm25	10.1
+48443	Texas	Terrell	average_daily_pm25	11.9
+48445	Texas	Terry	average_daily_pm25	9.9
+48447	Texas	Throckmorton	average_daily_pm25	9.9
+48449	Texas	Titus	average_daily_pm25	11.1
+48451	Texas	Tom Green	average_daily_pm25	10.7
+48453	Texas	Travis	average_daily_pm25	9.4
+48455	Texas	Trinity	average_daily_pm25	9.3
+48457	Texas	Tyler	average_daily_pm25	9.6
+48459	Texas	Upshur	average_daily_pm25	11.1
+48461	Texas	Upton	average_daily_pm25	11.3
+48463	Texas	Uvalde	average_daily_pm25	9.5
+48465	Texas	Val Verde	average_daily_pm25	11.1
+48467	Texas	Van Zandt	average_daily_pm25	10.8
+48469	Texas	Victoria	average_daily_pm25	9.2
+48471	Texas	Walker	average_daily_pm25	9.2
+48473	Texas	Waller	average_daily_pm25	9.3
+48475	Texas	Ward	average_daily_pm25	11.6
+48477	Texas	Washington	average_daily_pm25	9.3
+48479	Texas	Webb	average_daily_pm25	9.2
+48481	Texas	Wharton	average_daily_pm25	9.2
+48483	Texas	Wheeler	average_daily_pm25	9.7
+48485	Texas	Wichita	average_daily_pm25	10
+48487	Texas	Wilbarger	average_daily_pm25	9.9
+48489	Texas	Willacy	average_daily_pm25	9.3
+48491	Texas	Williamson	average_daily_pm25	9.5
+48493	Texas	Wilson	average_daily_pm25	9.1
+48495	Texas	Winkler	average_daily_pm25	11.2
+48497	Texas	Wise	average_daily_pm25	10.3
+48499	Texas	Wood	average_daily_pm25	11.1
+48501	Texas	Yoakum	average_daily_pm25	9.9
+48503	Texas	Young	average_daily_pm25	10
+48505	Texas	Zapata	average_daily_pm25	9.3
+48507	Texas	Zavala	average_daily_pm25	9.4
+49001	Utah	Beaver	average_daily_pm25	11.1
+49003	Utah	Box Elder	average_daily_pm25	9.2
+49005	Utah	Cache	average_daily_pm25	8
+49007	Utah	Carbon	average_daily_pm25	9.1
+49009	Utah	Daggett	average_daily_pm25	8.2
+49011	Utah	Davis	average_daily_pm25	9.4
+49013	Utah	Duchesne	average_daily_pm25	8.8
+49015	Utah	Emery	average_daily_pm25	9.1
+49017	Utah	Garfield	average_daily_pm25	8.1
+49019	Utah	Grand	average_daily_pm25	8.7
+49021	Utah	Iron	average_daily_pm25	11.1
+49023	Utah	Juab	average_daily_pm25	10.8
+49025	Utah	Kane	average_daily_pm25	8.7
+49027	Utah	Millard	average_daily_pm25	11
+49029	Utah	Morgan	average_daily_pm25	8.8
+49031	Utah	Piute	average_daily_pm25	9.6
+49033	Utah	Rich	average_daily_pm25	7.8
+49035	Utah	Salt Lake	average_daily_pm25	9.7
+49037	Utah	San Juan	average_daily_pm25	7.7
+49039	Utah	Sanpete	average_daily_pm25	9.9
+49041	Utah	Sevier	average_daily_pm25	9.7
+49043	Utah	Summit	average_daily_pm25	8.7
+49045	Utah	Tooele	average_daily_pm25	10.9
+49047	Utah	Uintah	average_daily_pm25	8.6
+49049	Utah	Utah	average_daily_pm25	9.7
+49051	Utah	Wasatch	average_daily_pm25	9.2
+49053	Utah	Washington	average_daily_pm25	11.5
+49055	Utah	Wayne	average_daily_pm25	8.3
+49057	Utah	Weber	average_daily_pm25	8.8
+50001	Vermont	Addison	average_daily_pm25	9.7
+50003	Vermont	Bennington	average_daily_pm25	9.9
+50005	Vermont	Caledonia	average_daily_pm25	9.5
+50007	Vermont	Chittenden	average_daily_pm25	9.7
+50009	Vermont	Essex	average_daily_pm25	9.4
+50011	Vermont	Franklin	average_daily_pm25	9.6
+50013	Vermont	Grand Isle	average_daily_pm25	9.7
+50015	Vermont	Lamoille	average_daily_pm25	9.6
+50017	Vermont	Orange	average_daily_pm25	9.5
+50019	Vermont	Orleans	average_daily_pm25	9.5
+50021	Vermont	Rutland	average_daily_pm25	9.8
+50023	Vermont	Washington	average_daily_pm25	9.6
+50025	Vermont	Windham	average_daily_pm25	9.8
+50027	Vermont	Windsor	average_daily_pm25	9.6
+51001	Virginia	Accomack	average_daily_pm25	12.2
+51003	Virginia	Albemarle	average_daily_pm25	12.4
+51005	Virginia	Alleghany	average_daily_pm25	12.4
+51007	Virginia	Amelia	average_daily_pm25	12.4
+51009	Virginia	Amherst	average_daily_pm25	12.4
+51011	Virginia	Appomattox	average_daily_pm25	12.4
+51013	Virginia	Arlington	average_daily_pm25	12.4
+51015	Virginia	Augusta	average_daily_pm25	12.4
+51017	Virginia	Bath	average_daily_pm25	12.4
+51019	Virginia	Bedford	average_daily_pm25	12.5
+51021	Virginia	Bland	average_daily_pm25	12.6
+51023	Virginia	Botetourt	average_daily_pm25	12.4
+51025	Virginia	Brunswick	average_daily_pm25	12.4
+51027	Virginia	Buchanan	average_daily_pm25	12.5
+51029	Virginia	Buckingham	average_daily_pm25	12.4
+51031	Virginia	Campbell	average_daily_pm25	12.4
+51033	Virginia	Caroline	average_daily_pm25	12.4
+51035	Virginia	Carroll	average_daily_pm25	12.7
+51036	Virginia	Charles City	average_daily_pm25	12.3
+51037	Virginia	Charlotte	average_daily_pm25	12.4
+51041	Virginia	Chesterfield	average_daily_pm25	12.3
+51043	Virginia	Clarke	average_daily_pm25	12.5
+51045	Virginia	Craig	average_daily_pm25	12.5
+51047	Virginia	Culpeper	average_daily_pm25	12.4
+51049	Virginia	Cumberland	average_daily_pm25	12.4
+51051	Virginia	Dickenson	average_daily_pm25	12.6
+51053	Virginia	Dinwiddie	average_daily_pm25	12.4
+51057	Virginia	Essex	average_daily_pm25	12.3
+51059	Virginia	Fairfax	average_daily_pm25	12.4
+51061	Virginia	Fauquier	average_daily_pm25	12.4
+51063	Virginia	Floyd	average_daily_pm25	12.6
+51065	Virginia	Fluvanna	average_daily_pm25	12.4
+51067	Virginia	Franklin	average_daily_pm25	12.5
+51069	Virginia	Frederick	average_daily_pm25	12.6
+51071	Virginia	Giles	average_daily_pm25	12.5
+51073	Virginia	Gloucester	average_daily_pm25	12.3
+51075	Virginia	Goochland	average_daily_pm25	12.4
+51077	Virginia	Grayson	average_daily_pm25	12.8
+51079	Virginia	Greene	average_daily_pm25	12.4
+51081	Virginia	Greensville	average_daily_pm25	12.4
+51083	Virginia	Halifax	average_daily_pm25	12.5
+51085	Virginia	Hanover	average_daily_pm25	12.3
+51087	Virginia	Henrico	average_daily_pm25	12.3
+51089	Virginia	Henry	average_daily_pm25	12.6
+51091	Virginia	Highland	average_daily_pm25	12.4
+51093	Virginia	Isle of Wight	average_daily_pm25	12.3
+51095	Virginia	James City	average_daily_pm25	12.3
+51097	Virginia	King and Queen	average_daily_pm25	12.3
+51099	Virginia	King George	average_daily_pm25	12.4
+51101	Virginia	King William	average_daily_pm25	12.3
+51103	Virginia	Lancaster	average_daily_pm25	12.3
+51105	Virginia	Lee	average_daily_pm25	13.1
+51107	Virginia	Loudoun	average_daily_pm25	12.5
+51109	Virginia	Louisa	average_daily_pm25	12.4
+51111	Virginia	Lunenburg	average_daily_pm25	12.4
+51113	Virginia	Madison	average_daily_pm25	12.4
+51115	Virginia	Mathews	average_daily_pm25	12.3
+51117	Virginia	Mecklenburg	average_daily_pm25	12.5
+51119	Virginia	Middlesex	average_daily_pm25	12.3
+51121	Virginia	Montgomery	average_daily_pm25	12.5
+51125	Virginia	Nelson	average_daily_pm25	12.4
+51127	Virginia	New Kent	average_daily_pm25	12.3
+51131	Virginia	Northampton	average_daily_pm25	12.3
+51133	Virginia	Northumberland	average_daily_pm25	12.3
+51135	Virginia	Nottoway	average_daily_pm25	12.4
+51137	Virginia	Orange	average_daily_pm25	12.4
+51139	Virginia	Page	average_daily_pm25	12.4
+51141	Virginia	Patrick	average_daily_pm25	12.6
+51143	Virginia	Pittsylvania	average_daily_pm25	12.5
+51145	Virginia	Powhatan	average_daily_pm25	12.4
+51147	Virginia	Prince Edward	average_daily_pm25	12.4
+51149	Virginia	Prince George	average_daily_pm25	12.3
+51153	Virginia	Prince William	average_daily_pm25	12.4
+51155	Virginia	Pulaski	average_daily_pm25	12.6
+51157	Virginia	Rappahannock	average_daily_pm25	12.4
+51159	Virginia	Richmond	average_daily_pm25	12.3
+51161	Virginia	Roanoke	average_daily_pm25	12.5
+51163	Virginia	Rockbridge	average_daily_pm25	12.4
+51165	Virginia	Rockingham	average_daily_pm25	12.4
+51167	Virginia	Russell	average_daily_pm25	12.8
+51169	Virginia	Scott	average_daily_pm25	13
+51171	Virginia	Shenandoah	average_daily_pm25	12.4
+51173	Virginia	Smyth	average_daily_pm25	12.7
+51175	Virginia	Southampton	average_daily_pm25	12.3
+51177	Virginia	Spotsylvania	average_daily_pm25	12.4
+51179	Virginia	Stafford	average_daily_pm25	12.4
+51181	Virginia	Surry	average_daily_pm25	12.3
+51183	Virginia	Sussex	average_daily_pm25	12.3
+51185	Virginia	Tazewell	average_daily_pm25	12.6
+51187	Virginia	Warren	average_daily_pm25	12.4
+51191	Virginia	Washington	average_daily_pm25	12.9
+51193	Virginia	Westmoreland	average_daily_pm25	12.3
+51195	Virginia	Wise	average_daily_pm25	12.7
+51197	Virginia	Wythe	average_daily_pm25	12.7
+51199	Virginia	York	average_daily_pm25	12.3
+51510	Virginia	Alexandria City	average_daily_pm25	12.4
+51515	Virginia	Bedford City	average_daily_pm25	12.5
+51520	Virginia	Bristol City	average_daily_pm25	13
+51530	Virginia	Buena Vista City	average_daily_pm25	12.4
+51540	Virginia	Charlottesville City	average_daily_pm25	12.4
+51550	Virginia	Chesapeake City	average_daily_pm25	12.3
+51570	Virginia	Colonial Heights City	average_daily_pm25	12.3
+51580	Virginia	Covington City	average_daily_pm25	12.4
+51590	Virginia	Danville City	average_daily_pm25	12.6
+51595	Virginia	Emporia City	average_daily_pm25	12.4
+51600	Virginia	Fairfax City	average_daily_pm25	12.4
+51610	Virginia	Falls Church City	average_daily_pm25	12.4
+51620	Virginia	Franklin City	average_daily_pm25	12.3
+51630	Virginia	Fredericksburg City	average_daily_pm25	12.4
+51640	Virginia	Galax City	average_daily_pm25	12.8
+51650	Virginia	Hampton City	average_daily_pm25	12.3
+51660	Virginia	Harrisonburg City	average_daily_pm25	12.4
+51670	Virginia	Hopewell City	average_daily_pm25	12.3
+51678	Virginia	Lexington City	average_daily_pm25	12.4
+51680	Virginia	Lynchburg City	average_daily_pm25	12.4
+51683	Virginia	Manassas City	average_daily_pm25	12.4
+51685	Virginia	Manassas Park City	average_daily_pm25	12.4
+51690	Virginia	Martinsville City	average_daily_pm25	12.6
+51700	Virginia	Newport News City	average_daily_pm25	12.3
+51710	Virginia	Norfolk City	average_daily_pm25	12.3
+51720	Virginia	Norton City	average_daily_pm25	12.8
+51730	Virginia	Petersburg City	average_daily_pm25	12.3
+51735	Virginia	Poquoson City	average_daily_pm25	12.3
+51740	Virginia	Portsmouth City	average_daily_pm25	12.3
+51750	Virginia	Radford City	average_daily_pm25	12.6
+51760	Virginia	Richmond City	average_daily_pm25	12.3
+51770	Virginia	Roanoke City	average_daily_pm25	12.5
+51775	Virginia	Salem City	average_daily_pm25	12.5
+51790	Virginia	Staunton City	average_daily_pm25	12.4
+51800	Virginia	Suffolk City	average_daily_pm25	12.3
+51810	Virginia	Virginia Beach City	average_daily_pm25	12.3
+51820	Virginia	Waynesboro City	average_daily_pm25	12.4
+51830	Virginia	Williamsburg City	average_daily_pm25	12.3
+51840	Virginia	Winchester City	average_daily_pm25	12.5
+53001	Washington	Adams	average_daily_pm25	10.9
+53003	Washington	Asotin	average_daily_pm25	9.6
+53005	Washington	Benton	average_daily_pm25	10.2
+53007	Washington	Chelan	average_daily_pm25	11.4
+53009	Washington	Clallam	average_daily_pm25	12
+53011	Washington	Clark	average_daily_pm25	10.3
+53013	Washington	Columbia	average_daily_pm25	10
+53015	Washington	Cowlitz	average_daily_pm25	10.5
+53017	Washington	Douglas	average_daily_pm25	11.3
+53019	Washington	Ferry	average_daily_pm25	11.6
+53021	Washington	Franklin	average_daily_pm25	10.5
+53023	Washington	Garfield	average_daily_pm25	9.9
+53025	Washington	Grant	average_daily_pm25	11
+53027	Washington	Grays Harbor	average_daily_pm25	11.4
+53029	Washington	Island	average_daily_pm25	11.6
+53031	Washington	Jefferson	average_daily_pm25	11.7
+53033	Washington	King	average_daily_pm25	11.2
+53035	Washington	Kitsap	average_daily_pm25	11.4
+53037	Washington	Kittitas	average_daily_pm25	10.9
+53039	Washington	Klickitat	average_daily_pm25	10.1
+53041	Washington	Lewis	average_daily_pm25	10.7
+53043	Washington	Lincoln	average_daily_pm25	11.2
+53045	Washington	Mason	average_daily_pm25	11.4
+53047	Washington	Okanogan	average_daily_pm25	11.7
+53049	Washington	Pacific	average_daily_pm25	11
+53051	Washington	Pend Oreille	average_daily_pm25	11.2
+53053	Washington	Pierce	average_daily_pm25	10.9
+53055	Washington	San Juan	average_daily_pm25	12
+53057	Washington	Skagit	average_daily_pm25	11.7
+53059	Washington	Skamania	average_daily_pm25	10.3
+53061	Washington	Snohomish	average_daily_pm25	11.5
+53063	Washington	Spokane	average_daily_pm25	10.8
+53065	Washington	Stevens	average_daily_pm25	11.4
+53067	Washington	Thurston	average_daily_pm25	11
+53069	Washington	Wahkiakum	average_daily_pm25	10.8
+53071	Washington	Walla Walla	average_daily_pm25	10.1
+53073	Washington	Whatcom	average_daily_pm25	12
+53075	Washington	Whitman	average_daily_pm25	10.4
+53077	Washington	Yakima	average_daily_pm25	10.5
+54001	West Virginia	Barbour	average_daily_pm25	12.5
+54003	West Virginia	Berkeley	average_daily_pm25	12.8
+54005	West Virginia	Boone	average_daily_pm25	12.5
+54007	West Virginia	Braxton	average_daily_pm25	12.5
+54009	West Virginia	Brooke	average_daily_pm25	14.1
+54011	West Virginia	Cabell	average_daily_pm25	12.7
+54013	West Virginia	Calhoun	average_daily_pm25	12.6
+54015	West Virginia	Clay	average_daily_pm25	12.5
+54017	West Virginia	Doddridge	average_daily_pm25	12.8
+54019	West Virginia	Fayette	average_daily_pm25	12.5
+54021	West Virginia	Gilmer	average_daily_pm25	12.6
+54023	West Virginia	Grant	average_daily_pm25	12.5
+54025	West Virginia	Greenbrier	average_daily_pm25	12.4
+54027	West Virginia	Hampshire	average_daily_pm25	12.7
+54029	West Virginia	Hancock	average_daily_pm25	14.5
+54031	West Virginia	Hardy	average_daily_pm25	12.4
+54033	West Virginia	Harrison	average_daily_pm25	12.8
+54035	West Virginia	Jackson	average_daily_pm25	12.7
+54037	West Virginia	Jefferson	average_daily_pm25	12.6
+54039	West Virginia	Kanawha	average_daily_pm25	12.6
+54041	West Virginia	Lewis	average_daily_pm25	12.5
+54043	West Virginia	Lincoln	average_daily_pm25	12.6
+54045	West Virginia	Logan	average_daily_pm25	12.5
+54047	West Virginia	McDowell	average_daily_pm25	12.4
+54049	West Virginia	Marion	average_daily_pm25	13.1
+54051	West Virginia	Marshall	average_daily_pm25	13.6
+54053	West Virginia	Mason	average_daily_pm25	12.8
+54055	West Virginia	Mercer	average_daily_pm25	12.4
+54057	West Virginia	Mineral	average_daily_pm25	12.8
+54059	West Virginia	Mingo	average_daily_pm25	12.4
+54061	West Virginia	Monongalia	average_daily_pm25	13.2
+54063	West Virginia	Monroe	average_daily_pm25	12.5
+54065	West Virginia	Morgan	average_daily_pm25	12.9
+54067	West Virginia	Nicholas	average_daily_pm25	12.5
+54069	West Virginia	Ohio	average_daily_pm25	13.9
+54071	West Virginia	Pendleton	average_daily_pm25	12.4
+54073	West Virginia	Pleasants	average_daily_pm25	13
+54075	West Virginia	Pocahontas	average_daily_pm25	12.4
+54077	West Virginia	Preston	average_daily_pm25	13
+54079	West Virginia	Putnam	average_daily_pm25	12.7
+54081	West Virginia	Raleigh	average_daily_pm25	12.4
+54083	West Virginia	Randolph	average_daily_pm25	12.4
+54085	West Virginia	Ritchie	average_daily_pm25	12.8
+54087	West Virginia	Roane	average_daily_pm25	12.6
+54089	West Virginia	Summers	average_daily_pm25	12.4
+54091	West Virginia	Taylor	average_daily_pm25	12.8
+54093	West Virginia	Tucker	average_daily_pm25	12.5
+54095	West Virginia	Tyler	average_daily_pm25	13.1
+54097	West Virginia	Upshur	average_daily_pm25	12.4
+54099	West Virginia	Wayne	average_daily_pm25	12.6
+54101	West Virginia	Webster	average_daily_pm25	12.5
+54103	West Virginia	Wetzel	average_daily_pm25	13.2
+54105	West Virginia	Wirt	average_daily_pm25	12.7
+54107	West Virginia	Wood	average_daily_pm25	12.9
+54109	West Virginia	Wyoming	average_daily_pm25	12.4
+55001	Wisconsin	Adams	average_daily_pm25	10.2
+55003	Wisconsin	Ashland	average_daily_pm25	9.3
+55005	Wisconsin	Barron	average_daily_pm25	10.4
+55007	Wisconsin	Bayfield	average_daily_pm25	9.2
+55009	Wisconsin	Brown	average_daily_pm25	9.2
+55011	Wisconsin	Buffalo	average_daily_pm25	11.2
+55013	Wisconsin	Burnett	average_daily_pm25	10.1
+55015	Wisconsin	Calumet	average_daily_pm25	9.3
+55017	Wisconsin	Chippewa	average_daily_pm25	10.5
+55019	Wisconsin	Clark	average_daily_pm25	10.4
+55021	Wisconsin	Columbia	average_daily_pm25	10.4
+55023	Wisconsin	Crawford	average_daily_pm25	11.1
+55025	Wisconsin	Dane	average_daily_pm25	10.9
+55027	Wisconsin	Dodge	average_daily_pm25	10.2
+55029	Wisconsin	Door	average_daily_pm25	9.1
+55031	Wisconsin	Douglas	average_daily_pm25	9.5
+55033	Wisconsin	Dunn	average_daily_pm25	10.8
+55035	Wisconsin	Eau Claire	average_daily_pm25	10.7
+55037	Wisconsin	Florence	average_daily_pm25	8.9
+55039	Wisconsin	Fond du Lac	average_daily_pm25	9.5
+55041	Wisconsin	Forest	average_daily_pm25	9.1
+55043	Wisconsin	Grant	average_daily_pm25	11.2
+55045	Wisconsin	Green	average_daily_pm25	11.2
+55047	Wisconsin	Green Lake	average_daily_pm25	9.8
+55049	Wisconsin	Iowa	average_daily_pm25	11
+55051	Wisconsin	Iron	average_daily_pm25	9.1
+55053	Wisconsin	Jackson	average_daily_pm25	10.7
+55055	Wisconsin	Jefferson	average_daily_pm25	10.8
+55057	Wisconsin	Juneau	average_daily_pm25	10.5
+55059	Wisconsin	Kenosha	average_daily_pm25	11.5
+55061	Wisconsin	Kewaunee	average_daily_pm25	9.1
+55063	Wisconsin	La Crosse	average_daily_pm25	11.1
+55065	Wisconsin	Lafayette	average_daily_pm25	11.3
+55067	Wisconsin	Langlade	average_daily_pm25	9.5
+55069	Wisconsin	Lincoln	average_daily_pm25	9.7
+55071	Wisconsin	Manitowoc	average_daily_pm25	9.1
+55073	Wisconsin	Marathon	average_daily_pm25	9.9
+55075	Wisconsin	Marinette	average_daily_pm25	9.1
+55077	Wisconsin	Marquette	average_daily_pm25	10.1
+55078	Wisconsin	Menominee	average_daily_pm25	9.5
+55079	Wisconsin	Milwaukee	average_daily_pm25	10.7
+55081	Wisconsin	Monroe	average_daily_pm25	10.8
+55083	Wisconsin	Oconto	average_daily_pm25	9.3
+55085	Wisconsin	Oneida	average_daily_pm25	9.4
+55087	Wisconsin	Outagamie	average_daily_pm25	9.4
+55089	Wisconsin	Ozaukee	average_daily_pm25	9.9
+55091	Wisconsin	Pepin	average_daily_pm25	11
+55093	Wisconsin	Pierce	average_daily_pm25	11
+55095	Wisconsin	Polk	average_daily_pm25	10.5
+55097	Wisconsin	Portage	average_daily_pm25	9.9
+55099	Wisconsin	Price	average_daily_pm25	9.7
+55101	Wisconsin	Racine	average_daily_pm25	11.2
+55103	Wisconsin	Richland	average_daily_pm25	10.9
+55105	Wisconsin	Rock	average_daily_pm25	11.3
+55107	Wisconsin	Rusk	average_daily_pm25	10.1
+55109	Wisconsin	St. Croix	average_daily_pm25	10.8
+55111	Wisconsin	Sauk	average_daily_pm25	10.7
+55113	Wisconsin	Sawyer	average_daily_pm25	9.7
+55115	Wisconsin	Shawano	average_daily_pm25	9.5
+55117	Wisconsin	Sheboygan	average_daily_pm25	9.3
+55119	Wisconsin	Taylor	average_daily_pm25	10.1
+55121	Wisconsin	Trempealeau	average_daily_pm25	11
+55123	Wisconsin	Vernon	average_daily_pm25	11
+55125	Wisconsin	Vilas	average_daily_pm25	9.1
+55127	Wisconsin	Walworth	average_daily_pm25	11.4
+55129	Wisconsin	Washburn	average_daily_pm25	9.9
+55131	Wisconsin	Washington	average_daily_pm25	10
+55133	Wisconsin	Waukesha	average_daily_pm25	10.8
+55135	Wisconsin	Waupaca	average_daily_pm25	9.6
+55137	Wisconsin	Waushara	average_daily_pm25	9.9
+55139	Wisconsin	Winnebago	average_daily_pm25	9.5
+55141	Wisconsin	Wood	average_daily_pm25	10.2
+56001	Wyoming	Albany	average_daily_pm25	8.1
+56003	Wyoming	Big Horn	average_daily_pm25	6.8
+56005	Wyoming	Campbell	average_daily_pm25	7
+56007	Wyoming	Carbon	average_daily_pm25	7.8
+56009	Wyoming	Converse	average_daily_pm25	7.6
+56011	Wyoming	Crook	average_daily_pm25	7.2
+56013	Wyoming	Fremont	average_daily_pm25	6.9
+56015	Wyoming	Goshen	average_daily_pm25	8.5
+56017	Wyoming	Hot Springs	average_daily_pm25	6.5
+56019	Wyoming	Johnson	average_daily_pm25	6.6
+56021	Wyoming	Laramie	average_daily_pm25	8.4
+56023	Wyoming	Lincoln	average_daily_pm25	7.1
+56025	Wyoming	Natrona	average_daily_pm25	7.1
+56027	Wyoming	Niobrara	average_daily_pm25	8
+56029	Wyoming	Park	average_daily_pm25	6.9
+56031	Wyoming	Platte	average_daily_pm25	8.3
+56033	Wyoming	Sheridan	average_daily_pm25	6.9
+56035	Wyoming	Sublette	average_daily_pm25	6.9
+56037	Wyoming	Sweetwater	average_daily_pm25	7.6
+56039	Wyoming	Teton	average_daily_pm25	6.8
+56041	Wyoming	Uinta	average_daily_pm25	8
+56043	Wyoming	Washakie	average_daily_pm25	6.4
+56045	Wyoming	Weston	average_daily_pm25	7.5

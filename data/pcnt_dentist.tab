@@ -1,323 +1,323 @@
 FIPS	State	County	Variable	pcnt_dentist
-01001	Alabama	Autauga	pcnt_dentist	0.000254
-01003	Alabama	Baldwin	pcnt_dentist	0.000420
-01005	Alabama	Barbour	pcnt_dentist	0.000294
-01007	Alabama	Bibb	pcnt_dentist	0.000199
-01009	Alabama	Blount	pcnt_dentist	0.000190
-01011	Alabama	Bullock	pcnt_dentist	0.000159
-01013	Alabama	Butler	pcnt_dentist	0.000282
-01015	Alabama	Calhoun	pcnt_dentist	0.000437
-01017	Alabama	Chambers	pcnt_dentist	0.000260
-01019	Alabama	Cherokee	pcnt_dentist	0.000114
-01021	Alabama	Chilton	pcnt_dentist	0.000227
-01023	Alabama	Choctaw	pcnt_dentist	0.000501
-01025	Alabama	Clarke	pcnt_dentist	0.000269
-01027	Alabama	Clay	pcnt_dentist	0.000141
-01029	Alabama	Cleburne	pcnt_dentist	#VALUE!
-01031	Alabama	Coffee	pcnt_dentist	0.000315
-01033	Alabama	Colbert	pcnt_dentist	0.000328
-01035	Alabama	Conecuh	pcnt_dentist	0.000151
-01037	Alabama	Coosa	pcnt_dentist	#VALUE!
-01039	Alabama	Covington	pcnt_dentist	0.000339
-01041	Alabama	Crenshaw	pcnt_dentist	0.000143
-01043	Alabama	Cullman	pcnt_dentist	0.000380
-01045	Alabama	Dale	pcnt_dentist	0.000293
-01047	Alabama	Dallas	pcnt_dentist	0.000247
-01049	Alabama	DeKalb	pcnt_dentist	0.000209
-01051	Alabama	Elmore	pcnt_dentist	0.000129
-01053	Alabama	Escambia	pcnt_dentist	0.000313
-01055	Alabama	Etowah	pcnt_dentist	0.000404
-01057	Alabama	Fayette	pcnt_dentist	0.000342
-01059	Alabama	Franklin	pcnt_dentist	0.000250
-01061	Alabama	Geneva	pcnt_dentist	0.000037
-01063	Alabama	Greene	pcnt_dentist	0.000110
-01065	Alabama	Hale	pcnt_dentist	0.000124
-01067	Alabama	Henry	pcnt_dentist	0.000229
-01069	Alabama	Houston	pcnt_dentist	0.000552
-01071	Alabama	Jackson	pcnt_dentist	0.000279
-01073	Alabama	Jefferson	pcnt_dentist	0.000683
-01075	Alabama	Lamar	pcnt_dentist	0.000204
-01077	Alabama	Lauderdale	pcnt_dentist	0.000476
-01079	Alabama	Lawrence	pcnt_dentist	0.000058
-01081	Alabama	Lee	pcnt_dentist	0.000289
-01083	Alabama	Limestone	pcnt_dentist	0.000255
-01085	Alabama	Lowndes	pcnt_dentist	0.000088
-01087	Alabama	Macon	pcnt_dentist	0.000215
-01089	Alabama	Madison	pcnt_dentist	0.000520
-01091	Alabama	Marengo	pcnt_dentist	0.000236
-01093	Alabama	Marion	pcnt_dentist	0.000190
-01095	Alabama	Marshall	pcnt_dentist	0.000287
-01097	Alabama	Mobile	pcnt_dentist	0.000445
-01099	Alabama	Monroe	pcnt_dentist	0.000215
-01101	Alabama	Montgomery	pcnt_dentist	0.000561
-01103	Alabama	Morgan	pcnt_dentist	0.000452
-01105	Alabama	Perry	pcnt_dentist	0.000266
-01107	Alabama	Pickens	pcnt_dentist	0.000050
-01109	Alabama	Pike	pcnt_dentist	0.000229
-01111	Alabama	Randolph	pcnt_dentist	0.000129
-01113	Alabama	Russell	pcnt_dentist	0.000149
-01115	Alabama	St. Clair	pcnt_dentist	0.000233
-01117	Alabama	Shelby	pcnt_dentist	0.000479
-01119	Alabama	Sumter	pcnt_dentist	0.000138
-01121	Alabama	Talladega	pcnt_dentist	0.000188
-01123	Alabama	Tallapoosa	pcnt_dentist	0.000309
-01125	Alabama	Tuscaloosa	pcnt_dentist	0.000443
-01127	Alabama	Walker	pcnt_dentist	0.000354
-01129	Alabama	Washington	pcnt_dentist	0.000113
-01131	Alabama	Wilcox	pcnt_dentist	0.000171
-01133	Alabama	Winston	pcnt_dentist	0.000162
-02013	Alaska	Aleutians East	pcnt_dentist	0.004917
-02016	Alaska	Aleutians West	pcnt_dentist	0.000495
-02020	Alaska	Anchorage	pcnt_dentist	0.000971
-02050	Alaska	Bethel	pcnt_dentist	0.001205
-02060	Alaska	Bristol Bay	pcnt_dentist	0.000981
-02068	Alaska	Denali	pcnt_dentist	0.012827
-02070	Alaska	Dillingham	pcnt_dentist	0.001218
-02090	Alaska	Fairbanks North Star	pcnt_dentist	0.000936
-02100	Alaska	Haines	pcnt_dentist	0.000399
-02110	Alaska	Juneau	pcnt_dentist	0.000929
-02122	Alaska	Kenai Peninsula	pcnt_dentist	0.000576
-02130	Alaska	Ketchikan Gateway	pcnt_dentist	0.000581
-02150	Alaska	Kodiak Island	pcnt_dentist	0.000787
-02164	Alaska	Lake and Peninsula	pcnt_dentist	0.014363
-02170	Alaska	Matanuska-Susitna	pcnt_dentist	0.000428
-02180	Alaska	Nome	pcnt_dentist	0.000818
-02185	Alaska	North Slope	pcnt_dentist	0.000495
-02188	Alaska	Northwest Arctic	pcnt_dentist	0.000252
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_dentist	0.000177
-02220	Alaska	Sitka	pcnt_dentist	0.001092
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_dentist	0.007619
-02240	Alaska	Southeast Fairbanks	pcnt_dentist	0.000404
-02261	Alaska	Valdez-Cordova	pcnt_dentist	0.000303
-02270	Alaska	Wade Hampton	pcnt_dentist	#VALUE!
-02280	Alaska	Wrangell-Petersburg	pcnt_dentist	0.000798
-02282	Alaska	Yakutat	pcnt_dentist	0.035451
-02290	Alaska	Yukon-Koyukuk	pcnt_dentist	0.000354
-04001	Arizona	Apache	pcnt_dentist	0.000524
-04003	Arizona	Cochise	pcnt_dentist	0.000370
-04005	Arizona	Coconino	pcnt_dentist	0.000628
-04007	Arizona	Gila	pcnt_dentist	0.000460
-04009	Arizona	Graham	pcnt_dentist	0.000416
-04011	Arizona	Greenlee	pcnt_dentist	0.000238
-04012	Arizona	La Paz	pcnt_dentist	0.000384
-04013	Arizona	Maricopa	pcnt_dentist	0.000604
-04015	Arizona	Mohave	pcnt_dentist	0.000353
-04017	Arizona	Navajo	pcnt_dentist	0.000556
-04019	Arizona	Pima	pcnt_dentist	0.000512
-04021	Arizona	Pinal	pcnt_dentist	0.000219
-04023	Arizona	Santa Cruz	pcnt_dentist	0.000230
-04025	Arizona	Yavapai	pcnt_dentist	0.000550
-04027	Arizona	Yuma	pcnt_dentist	0.000271
-05001	Arkansas	Arkansas	pcnt_dentist	0.000364
-05003	Arkansas	Ashley	pcnt_dentist	0.000363
-05005	Arkansas	Baxter	pcnt_dentist	0.000451
-05007	Arkansas	Benton	pcnt_dentist	0.000431
-05009	Arkansas	Boone	pcnt_dentist	0.000508
-05011	Arkansas	Bradley	pcnt_dentist	0.000341
-05013	Arkansas	Calhoun	pcnt_dentist	#VALUE!
-05015	Arkansas	Carroll	pcnt_dentist	0.000252
-05017	Arkansas	Chicot	pcnt_dentist	0.000240
-05019	Arkansas	Clark	pcnt_dentist	0.000313
-05021	Arkansas	Clay	pcnt_dentist	0.000432
-05023	Arkansas	Cleburne	pcnt_dentist	0.000304
-05025	Arkansas	Cleveland	pcnt_dentist	#VALUE!
-05027	Arkansas	Columbia	pcnt_dentist	0.000349
-05029	Arkansas	Conway	pcnt_dentist	0.000278
-05031	Arkansas	Craighead	pcnt_dentist	0.000608
-05033	Arkansas	Crawford	pcnt_dentist	0.000176
-05035	Arkansas	Crittenden	pcnt_dentist	0.000426
-05037	Arkansas	Cross	pcnt_dentist	0.000499
-05039	Arkansas	Dallas	pcnt_dentist	0.000235
-05041	Arkansas	Desha	pcnt_dentist	0.000153
-05043	Arkansas	Drew	pcnt_dentist	0.000311
-05045	Arkansas	Faulkner	pcnt_dentist	0.000347
-05047	Arkansas	Franklin	pcnt_dentist	0.000215
-05049	Arkansas	Fulton	pcnt_dentist	0.000242
-05051	Arkansas	Garland	pcnt_dentist	0.000549
-05053	Arkansas	Grant	pcnt_dentist	0.000222
-05055	Arkansas	Greene	pcnt_dentist	0.000281
-05057	Arkansas	Hempstead	pcnt_dentist	0.000262
-05059	Arkansas	Hot Spring	pcnt_dentist	0.000145
-05061	Arkansas	Howard	pcnt_dentist	0.000214
-05063	Arkansas	Independence	pcnt_dentist	0.000346
-05065	Arkansas	Izard	pcnt_dentist	0.000346
-05067	Arkansas	Jackson	pcnt_dentist	0.000200
-05069	Arkansas	Jefferson	pcnt_dentist	0.000314
-05071	Arkansas	Johnson	pcnt_dentist	0.000268
-05073	Arkansas	Lafayette	pcnt_dentist	#VALUE!
-05075	Arkansas	Lawrence	pcnt_dentist	0.000222
-05077	Arkansas	Lee	pcnt_dentist	0.000164
-05079	Arkansas	Lincoln	pcnt_dentist	0.000114
-05081	Arkansas	Little River	pcnt_dentist	0.000377
-05083	Arkansas	Logan	pcnt_dentist	0.000306
-05085	Arkansas	Lonoke	pcnt_dentist	0.000260
-05087	Arkansas	Madison	pcnt_dentist	0.000190
-05089	Arkansas	Marion	pcnt_dentist	0.000119
-05091	Arkansas	Miller	pcnt_dentist	0.000267
-05093	Arkansas	Mississippi	pcnt_dentist	0.000255
-05095	Arkansas	Monroe	pcnt_dentist	0.000244
-05097	Arkansas	Montgomery	pcnt_dentist	0.000208
-05099	Arkansas	Nevada	pcnt_dentist	0.000109
-05101	Arkansas	Newton	pcnt_dentist	#VALUE!
-05103	Arkansas	Ouachita	pcnt_dentist	0.000264
-05105	Arkansas	Perry	pcnt_dentist	#VALUE!
-05107	Arkansas	Phillips	pcnt_dentist	0.000365
-05109	Arkansas	Pike	pcnt_dentist	0.000261
-05111	Arkansas	Poinsett	pcnt_dentist	0.000121
-05113	Arkansas	Polk	pcnt_dentist	0.000288
-05115	Arkansas	Pope	pcnt_dentist	0.000337
-05117	Arkansas	Prairie	pcnt_dentist	0.000226
-05119	Arkansas	Pulaski	pcnt_dentist	0.000636
-05121	Arkansas	Randolph	pcnt_dentist	0.000382
-05123	Arkansas	St. Francis	pcnt_dentist	0.000186
-05125	Arkansas	Saline	pcnt_dentist	0.000284
-05127	Arkansas	Scott	pcnt_dentist	0.000176
-05129	Arkansas	Searcy	pcnt_dentist	0.000242
-05131	Arkansas	Sebastian	pcnt_dentist	0.000617
-05133	Arkansas	Sevier	pcnt_dentist	0.000231
-05135	Arkansas	Sharp	pcnt_dentist	0.000115
-05137	Arkansas	Stone	pcnt_dentist	0.000238
-05139	Arkansas	Union	pcnt_dentist	0.000476
-05141	Arkansas	Van Buren	pcnt_dentist	0.000343
-05143	Arkansas	Washington	pcnt_dentist	0.000473
-05145	Arkansas	White	pcnt_dentist	0.000310
-05147	Arkansas	Woodruff	pcnt_dentist	0.000407
-05149	Arkansas	Yell	pcnt_dentist	0.000133
-06001	California	Alameda	pcnt_dentist	0.000820
-06003	California	Alpine	pcnt_dentist	0.020236
-06005	California	Amador	pcnt_dentist	0.000775
-06007	California	Butte	pcnt_dentist	0.000676
-06009	California	Calaveras	pcnt_dentist	0.000435
-06011	California	Colusa	pcnt_dentist	0.000323
-06013	California	Contra Costa	pcnt_dentist	0.000733
-06015	California	Del Norte	pcnt_dentist	0.000617
-06017	California	El Dorado	pcnt_dentist	0.000684
-06019	California	Fresno	pcnt_dentist	0.000511
-06021	California	Glenn	pcnt_dentist	0.000563
-06023	California	Humboldt	pcnt_dentist	0.000608
-06025	California	Imperial	pcnt_dentist	0.000301
-06027	California	Inyo	pcnt_dentist	0.000633
-06029	California	Kern	pcnt_dentist	0.000407
-06031	California	Kings	pcnt_dentist	0.000469
-06033	California	Lake	pcnt_dentist	0.000380
-06035	California	Lassen	pcnt_dentist	0.000673
-06037	California	Los Angeles	pcnt_dentist	0.000713
-06039	California	Madera	pcnt_dentist	0.000369
-06041	California	Marin	pcnt_dentist	0.000959
-06043	California	Mariposa	pcnt_dentist	0.000527
-06045	California	Mendocino	pcnt_dentist	0.000635
-06047	California	Merced	pcnt_dentist	0.000394
-06049	California	Modoc	pcnt_dentist	0.000597
-06051	California	Mono	pcnt_dentist	0.000277
-06053	California	Monterey	pcnt_dentist	0.000554
-06055	California	Napa	pcnt_dentist	0.000670
-06057	California	Nevada	pcnt_dentist	0.000741
-06059	California	Orange	pcnt_dentist	0.000928
-06061	California	Placer	pcnt_dentist	0.000912
-06063	California	Plumas	pcnt_dentist	0.001088
-06065	California	Riverside	pcnt_dentist	0.000447
-06067	California	Sacramento	pcnt_dentist	0.000661
-06069	California	San Benito	pcnt_dentist	0.000376
-06071	California	San Bernardino	pcnt_dentist	0.000582
-06073	California	San Diego	pcnt_dentist	0.000716
-06075	California	San Francisco	pcnt_dentist	0.001242
-06077	California	San Joaquin	pcnt_dentist	0.000514
-06079	California	San Luis Obispo	pcnt_dentist	0.000683
-06081	California	San Mateo	pcnt_dentist	0.000890
-06083	California	Santa Barbara	pcnt_dentist	0.000685
-06085	California	Santa Clara	pcnt_dentist	0.000992
-06087	California	Santa Cruz	pcnt_dentist	0.000646
-06089	California	Shasta	pcnt_dentist	0.000600
-06091	California	Sierra	pcnt_dentist	0.000613
-06093	California	Siskiyou	pcnt_dentist	0.000661
-06095	California	Solano	pcnt_dentist	0.000734
-06097	California	Sonoma	pcnt_dentist	0.000782
-06099	California	Stanislaus	pcnt_dentist	0.000541
-06101	California	Sutter	pcnt_dentist	0.000678
-06103	California	Tehama	pcnt_dentist	0.000419
-06105	California	Trinity	pcnt_dentist	0.000424
-06107	California	Tulare	pcnt_dentist	0.000404
-06109	California	Tuolumne	pcnt_dentist	0.000821
-06111	California	Ventura	pcnt_dentist	0.000722
-06113	California	Yolo	pcnt_dentist	0.000457
-06115	California	Yuba	pcnt_dentist	0.000204
-08001	Colorado	Adams	pcnt_dentist	0.000491
-08003	Colorado	Alamosa	pcnt_dentist	0.000924
-08005	Colorado	Arapahoe	pcnt_dentist	0.000892
-08007	Colorado	Archuleta	pcnt_dentist	0.000492
-08009	Colorado	Baca	pcnt_dentist	0.000515
-08011	Colorado	Bent	pcnt_dentist	#VALUE!
-08013	Colorado	Boulder	pcnt_dentist	0.000869
-08014	Colorado	Broomfield	pcnt_dentist	0.000870
-08015	Colorado	Chaffee	pcnt_dentist	0.000468
-08017	Colorado	Cheyenne	pcnt_dentist	0.012786
-08019	Colorado	Clear Creek	pcnt_dentist	0.000326
-08021	Colorado	Conejos	pcnt_dentist	0.000120
-08023	Colorado	Costilla	pcnt_dentist	0.006787
-08025	Colorado	Crowley	pcnt_dentist	#VALUE!
-08027	Colorado	Custer	pcnt_dentist	#VALUE!
-08029	Colorado	Delta	pcnt_dentist	0.000348
-08031	Colorado	Denver	pcnt_dentist	0.000639
-08033	Colorado	Dolores	pcnt_dentist	0.011634
-08035	Colorado	Douglas	pcnt_dentist	0.000560
-08037	Colorado	Eagle	pcnt_dentist	0.000556
-08039	Colorado	Elbert	pcnt_dentist	0.000172
-08041	Colorado	El Paso	pcnt_dentist	0.000855
-08043	Colorado	Fremont	pcnt_dentist	0.000270
-08045	Colorado	Garfield	pcnt_dentist	0.000667
-08047	Colorado	Gilpin	pcnt_dentist	#VALUE!
-08049	Colorado	Grand	pcnt_dentist	0.000266
-08051	Colorado	Gunnison	pcnt_dentist	0.000309
-08053	Colorado	Hinsdale	pcnt_dentist	0.026726
-08055	Colorado	Huerfano	pcnt_dentist	0.000146
-08057	Colorado	Jackson	pcnt_dentist	0.017241
-08059	Colorado	Jefferson	pcnt_dentist	0.000779
-08061	Colorado	Kiowa	pcnt_dentist	0.016937
-08063	Colorado	Kit Carson	pcnt_dentist	0.000107
-08065	Colorado	Lake	pcnt_dentist	0.000404
-08067	Colorado	La Plata	pcnt_dentist	0.000791
-08069	Colorado	Larimer	pcnt_dentist	0.000680
-08071	Colorado	Las Animas	pcnt_dentist	0.000430
-08073	Colorado	Lincoln	pcnt_dentist	0.000615
-08075	Colorado	Logan	pcnt_dentist	0.000376
-08077	Colorado	Mesa	pcnt_dentist	0.000641
-08079	Colorado	Mineral	pcnt_dentist	0.033994
-08081	Colorado	Moffat	pcnt_dentist	0.000431
-08083	Colorado	Montezuma	pcnt_dentist	0.000621
-08085	Colorado	Montrose	pcnt_dentist	0.000671
-08087	Colorado	Morgan	pcnt_dentist	0.000595
-08089	Colorado	Otero	pcnt_dentist	0.000207
-08091	Colorado	Ouray	pcnt_dentist	0.001350
-08093	Colorado	Park	pcnt_dentist	0.000183
-08095	Colorado	Phillips	pcnt_dentist	0.000221
-08097	Colorado	Pitkin	pcnt_dentist	0.000522
-08099	Colorado	Prowers	pcnt_dentist	0.000623
-08101	Colorado	Pueblo	pcnt_dentist	0.000647
-08103	Colorado	Rio Blanco	pcnt_dentist	0.000583
-08105	Colorado	Rio Grande	pcnt_dentist	0.000409
-08107	Colorado	Routt	pcnt_dentist	0.000799
-08109	Colorado	Saguache	pcnt_dentist	0.000325
-08111	Colorado	San Juan	pcnt_dentist	0.033850
-08113	Colorado	San Miguel	pcnt_dentist	0.000543
-08115	Colorado	Sedgwick	pcnt_dentist	0.000415
-08117	Colorado	Summit	pcnt_dentist	0.000741
-08119	Colorado	Teller	pcnt_dentist	0.000382
-08121	Colorado	Washington	pcnt_dentist	0.000400
-08123	Colorado	Weld	pcnt_dentist	0.000365
-08125	Colorado	Yuma	pcnt_dentist	0.000391
-09001	Connecticut	Fairfield	pcnt_dentist	0.000795
-09003	Connecticut	Hartford	pcnt_dentist	0.000846
-09005	Connecticut	Litchfield	pcnt_dentist	0.000509
-09007	Connecticut	Middlesex	pcnt_dentist	0.000645
-09009	Connecticut	New Haven	pcnt_dentist	0.000615
-09011	Connecticut	New London	pcnt_dentist	0.000579
-09013	Connecticut	Tolland	pcnt_dentist	0.000355
-09015	Connecticut	Windham	pcnt_dentist	0.000325
+1001	Alabama	Autauga	pcnt_dentist	0.000254
+1003	Alabama	Baldwin	pcnt_dentist	0.00042
+1005	Alabama	Barbour	pcnt_dentist	0.000294
+1007	Alabama	Bibb	pcnt_dentist	0.000199
+1009	Alabama	Blount	pcnt_dentist	0.00019
+1011	Alabama	Bullock	pcnt_dentist	0.000159
+1013	Alabama	Butler	pcnt_dentist	0.000282
+1015	Alabama	Calhoun	pcnt_dentist	0.000437
+1017	Alabama	Chambers	pcnt_dentist	0.00026
+1019	Alabama	Cherokee	pcnt_dentist	0.000114
+1021	Alabama	Chilton	pcnt_dentist	0.000227
+1023	Alabama	Choctaw	pcnt_dentist	0.000501
+1025	Alabama	Clarke	pcnt_dentist	0.000269
+1027	Alabama	Clay	pcnt_dentist	0.000141
+1029	Alabama	Cleburne	pcnt_dentist	#VALUE!
+1031	Alabama	Coffee	pcnt_dentist	0.000315
+1033	Alabama	Colbert	pcnt_dentist	0.000328
+1035	Alabama	Conecuh	pcnt_dentist	0.000151
+1037	Alabama	Coosa	pcnt_dentist	#VALUE!
+1039	Alabama	Covington	pcnt_dentist	0.000339
+1041	Alabama	Crenshaw	pcnt_dentist	0.000143
+1043	Alabama	Cullman	pcnt_dentist	0.00038
+1045	Alabama	Dale	pcnt_dentist	0.000293
+1047	Alabama	Dallas	pcnt_dentist	0.000247
+1049	Alabama	DeKalb	pcnt_dentist	0.000209
+1051	Alabama	Elmore	pcnt_dentist	0.000129
+1053	Alabama	Escambia	pcnt_dentist	0.000313
+1055	Alabama	Etowah	pcnt_dentist	0.000404
+1057	Alabama	Fayette	pcnt_dentist	0.000342
+1059	Alabama	Franklin	pcnt_dentist	0.00025
+1061	Alabama	Geneva	pcnt_dentist	0.000037
+1063	Alabama	Greene	pcnt_dentist	0.00011
+1065	Alabama	Hale	pcnt_dentist	0.000124
+1067	Alabama	Henry	pcnt_dentist	0.000229
+1069	Alabama	Houston	pcnt_dentist	0.000552
+1071	Alabama	Jackson	pcnt_dentist	0.000279
+1073	Alabama	Jefferson	pcnt_dentist	0.000683
+1075	Alabama	Lamar	pcnt_dentist	0.000204
+1077	Alabama	Lauderdale	pcnt_dentist	0.000476
+1079	Alabama	Lawrence	pcnt_dentist	0.000058
+1081	Alabama	Lee	pcnt_dentist	0.000289
+1083	Alabama	Limestone	pcnt_dentist	0.000255
+1085	Alabama	Lowndes	pcnt_dentist	0.000088
+1087	Alabama	Macon	pcnt_dentist	0.000215
+1089	Alabama	Madison	pcnt_dentist	0.00052
+1091	Alabama	Marengo	pcnt_dentist	0.000236
+1093	Alabama	Marion	pcnt_dentist	0.00019
+1095	Alabama	Marshall	pcnt_dentist	0.000287
+1097	Alabama	Mobile	pcnt_dentist	0.000445
+1099	Alabama	Monroe	pcnt_dentist	0.000215
+1101	Alabama	Montgomery	pcnt_dentist	0.000561
+1103	Alabama	Morgan	pcnt_dentist	0.000452
+1105	Alabama	Perry	pcnt_dentist	0.000266
+1107	Alabama	Pickens	pcnt_dentist	0.00005
+1109	Alabama	Pike	pcnt_dentist	0.000229
+1111	Alabama	Randolph	pcnt_dentist	0.000129
+1113	Alabama	Russell	pcnt_dentist	0.000149
+1115	Alabama	St. Clair	pcnt_dentist	0.000233
+1117	Alabama	Shelby	pcnt_dentist	0.000479
+1119	Alabama	Sumter	pcnt_dentist	0.000138
+1121	Alabama	Talladega	pcnt_dentist	0.000188
+1123	Alabama	Tallapoosa	pcnt_dentist	0.000309
+1125	Alabama	Tuscaloosa	pcnt_dentist	0.000443
+1127	Alabama	Walker	pcnt_dentist	0.000354
+1129	Alabama	Washington	pcnt_dentist	0.000113
+1131	Alabama	Wilcox	pcnt_dentist	0.000171
+1133	Alabama	Winston	pcnt_dentist	0.000162
+2013	Alaska	Aleutians East	pcnt_dentist	0.004917
+2016	Alaska	Aleutians West	pcnt_dentist	0.000495
+2020	Alaska	Anchorage	pcnt_dentist	0.000971
+2050	Alaska	Bethel	pcnt_dentist	0.001205
+2060	Alaska	Bristol Bay	pcnt_dentist	0.000981
+2068	Alaska	Denali	pcnt_dentist	0.012827
+2070	Alaska	Dillingham	pcnt_dentist	0.001218
+2090	Alaska	Fairbanks North Star	pcnt_dentist	0.000936
+2100	Alaska	Haines	pcnt_dentist	0.000399
+2110	Alaska	Juneau	pcnt_dentist	0.000929
+2122	Alaska	Kenai Peninsula	pcnt_dentist	0.000576
+2130	Alaska	Ketchikan Gateway	pcnt_dentist	0.000581
+2150	Alaska	Kodiak Island	pcnt_dentist	0.000787
+2164	Alaska	Lake and Peninsula	pcnt_dentist	0.014363
+2170	Alaska	Matanuska-Susitna	pcnt_dentist	0.000428
+2180	Alaska	Nome	pcnt_dentist	0.000818
+2185	Alaska	North Slope	pcnt_dentist	0.000495
+2188	Alaska	Northwest Arctic	pcnt_dentist	0.000252
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_dentist	0.000177
+2220	Alaska	Sitka	pcnt_dentist	0.001092
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_dentist	0.007619
+2240	Alaska	Southeast Fairbanks	pcnt_dentist	0.000404
+2261	Alaska	Valdez-Cordova	pcnt_dentist	0.000303
+2270	Alaska	Wade Hampton	pcnt_dentist	#VALUE!
+2280	Alaska	Wrangell-Petersburg	pcnt_dentist	0.000798
+2282	Alaska	Yakutat	pcnt_dentist	0.035451
+2290	Alaska	Yukon-Koyukuk	pcnt_dentist	0.000354
+4001	Arizona	Apache	pcnt_dentist	0.000524
+4003	Arizona	Cochise	pcnt_dentist	0.00037
+4005	Arizona	Coconino	pcnt_dentist	0.000628
+4007	Arizona	Gila	pcnt_dentist	0.00046
+4009	Arizona	Graham	pcnt_dentist	0.000416
+4011	Arizona	Greenlee	pcnt_dentist	0.000238
+4012	Arizona	La Paz	pcnt_dentist	0.000384
+4013	Arizona	Maricopa	pcnt_dentist	0.000604
+4015	Arizona	Mohave	pcnt_dentist	0.000353
+4017	Arizona	Navajo	pcnt_dentist	0.000556
+4019	Arizona	Pima	pcnt_dentist	0.000512
+4021	Arizona	Pinal	pcnt_dentist	0.000219
+4023	Arizona	Santa Cruz	pcnt_dentist	0.00023
+4025	Arizona	Yavapai	pcnt_dentist	0.00055
+4027	Arizona	Yuma	pcnt_dentist	0.000271
+5001	Arkansas	Arkansas	pcnt_dentist	0.000364
+5003	Arkansas	Ashley	pcnt_dentist	0.000363
+5005	Arkansas	Baxter	pcnt_dentist	0.000451
+5007	Arkansas	Benton	pcnt_dentist	0.000431
+5009	Arkansas	Boone	pcnt_dentist	0.000508
+5011	Arkansas	Bradley	pcnt_dentist	0.000341
+5013	Arkansas	Calhoun	pcnt_dentist	#VALUE!
+5015	Arkansas	Carroll	pcnt_dentist	0.000252
+5017	Arkansas	Chicot	pcnt_dentist	0.00024
+5019	Arkansas	Clark	pcnt_dentist	0.000313
+5021	Arkansas	Clay	pcnt_dentist	0.000432
+5023	Arkansas	Cleburne	pcnt_dentist	0.000304
+5025	Arkansas	Cleveland	pcnt_dentist	#VALUE!
+5027	Arkansas	Columbia	pcnt_dentist	0.000349
+5029	Arkansas	Conway	pcnt_dentist	0.000278
+5031	Arkansas	Craighead	pcnt_dentist	0.000608
+5033	Arkansas	Crawford	pcnt_dentist	0.000176
+5035	Arkansas	Crittenden	pcnt_dentist	0.000426
+5037	Arkansas	Cross	pcnt_dentist	0.000499
+5039	Arkansas	Dallas	pcnt_dentist	0.000235
+5041	Arkansas	Desha	pcnt_dentist	0.000153
+5043	Arkansas	Drew	pcnt_dentist	0.000311
+5045	Arkansas	Faulkner	pcnt_dentist	0.000347
+5047	Arkansas	Franklin	pcnt_dentist	0.000215
+5049	Arkansas	Fulton	pcnt_dentist	0.000242
+5051	Arkansas	Garland	pcnt_dentist	0.000549
+5053	Arkansas	Grant	pcnt_dentist	0.000222
+5055	Arkansas	Greene	pcnt_dentist	0.000281
+5057	Arkansas	Hempstead	pcnt_dentist	0.000262
+5059	Arkansas	Hot Spring	pcnt_dentist	0.000145
+5061	Arkansas	Howard	pcnt_dentist	0.000214
+5063	Arkansas	Independence	pcnt_dentist	0.000346
+5065	Arkansas	Izard	pcnt_dentist	0.000346
+5067	Arkansas	Jackson	pcnt_dentist	0.0002
+5069	Arkansas	Jefferson	pcnt_dentist	0.000314
+5071	Arkansas	Johnson	pcnt_dentist	0.000268
+5073	Arkansas	Lafayette	pcnt_dentist	#VALUE!
+5075	Arkansas	Lawrence	pcnt_dentist	0.000222
+5077	Arkansas	Lee	pcnt_dentist	0.000164
+5079	Arkansas	Lincoln	pcnt_dentist	0.000114
+5081	Arkansas	Little River	pcnt_dentist	0.000377
+5083	Arkansas	Logan	pcnt_dentist	0.000306
+5085	Arkansas	Lonoke	pcnt_dentist	0.00026
+5087	Arkansas	Madison	pcnt_dentist	0.00019
+5089	Arkansas	Marion	pcnt_dentist	0.000119
+5091	Arkansas	Miller	pcnt_dentist	0.000267
+5093	Arkansas	Mississippi	pcnt_dentist	0.000255
+5095	Arkansas	Monroe	pcnt_dentist	0.000244
+5097	Arkansas	Montgomery	pcnt_dentist	0.000208
+5099	Arkansas	Nevada	pcnt_dentist	0.000109
+5101	Arkansas	Newton	pcnt_dentist	#VALUE!
+5103	Arkansas	Ouachita	pcnt_dentist	0.000264
+5105	Arkansas	Perry	pcnt_dentist	#VALUE!
+5107	Arkansas	Phillips	pcnt_dentist	0.000365
+5109	Arkansas	Pike	pcnt_dentist	0.000261
+5111	Arkansas	Poinsett	pcnt_dentist	0.000121
+5113	Arkansas	Polk	pcnt_dentist	0.000288
+5115	Arkansas	Pope	pcnt_dentist	0.000337
+5117	Arkansas	Prairie	pcnt_dentist	0.000226
+5119	Arkansas	Pulaski	pcnt_dentist	0.000636
+5121	Arkansas	Randolph	pcnt_dentist	0.000382
+5123	Arkansas	St. Francis	pcnt_dentist	0.000186
+5125	Arkansas	Saline	pcnt_dentist	0.000284
+5127	Arkansas	Scott	pcnt_dentist	0.000176
+5129	Arkansas	Searcy	pcnt_dentist	0.000242
+5131	Arkansas	Sebastian	pcnt_dentist	0.000617
+5133	Arkansas	Sevier	pcnt_dentist	0.000231
+5135	Arkansas	Sharp	pcnt_dentist	0.000115
+5137	Arkansas	Stone	pcnt_dentist	0.000238
+5139	Arkansas	Union	pcnt_dentist	0.000476
+5141	Arkansas	Van Buren	pcnt_dentist	0.000343
+5143	Arkansas	Washington	pcnt_dentist	0.000473
+5145	Arkansas	White	pcnt_dentist	0.00031
+5147	Arkansas	Woodruff	pcnt_dentist	0.000407
+5149	Arkansas	Yell	pcnt_dentist	0.000133
+6001	California	Alameda	pcnt_dentist	0.00082
+6003	California	Alpine	pcnt_dentist	0.020236
+6005	California	Amador	pcnt_dentist	0.000775
+6007	California	Butte	pcnt_dentist	0.000676
+6009	California	Calaveras	pcnt_dentist	0.000435
+6011	California	Colusa	pcnt_dentist	0.000323
+6013	California	Contra Costa	pcnt_dentist	0.000733
+6015	California	Del Norte	pcnt_dentist	0.000617
+6017	California	El Dorado	pcnt_dentist	0.000684
+6019	California	Fresno	pcnt_dentist	0.000511
+6021	California	Glenn	pcnt_dentist	0.000563
+6023	California	Humboldt	pcnt_dentist	0.000608
+6025	California	Imperial	pcnt_dentist	0.000301
+6027	California	Inyo	pcnt_dentist	0.000633
+6029	California	Kern	pcnt_dentist	0.000407
+6031	California	Kings	pcnt_dentist	0.000469
+6033	California	Lake	pcnt_dentist	0.00038
+6035	California	Lassen	pcnt_dentist	0.000673
+6037	California	Los Angeles	pcnt_dentist	0.000713
+6039	California	Madera	pcnt_dentist	0.000369
+6041	California	Marin	pcnt_dentist	0.000959
+6043	California	Mariposa	pcnt_dentist	0.000527
+6045	California	Mendocino	pcnt_dentist	0.000635
+6047	California	Merced	pcnt_dentist	0.000394
+6049	California	Modoc	pcnt_dentist	0.000597
+6051	California	Mono	pcnt_dentist	0.000277
+6053	California	Monterey	pcnt_dentist	0.000554
+6055	California	Napa	pcnt_dentist	0.00067
+6057	California	Nevada	pcnt_dentist	0.000741
+6059	California	Orange	pcnt_dentist	0.000928
+6061	California	Placer	pcnt_dentist	0.000912
+6063	California	Plumas	pcnt_dentist	0.001088
+6065	California	Riverside	pcnt_dentist	0.000447
+6067	California	Sacramento	pcnt_dentist	0.000661
+6069	California	San Benito	pcnt_dentist	0.000376
+6071	California	San Bernardino	pcnt_dentist	0.000582
+6073	California	San Diego	pcnt_dentist	0.000716
+6075	California	San Francisco	pcnt_dentist	0.001242
+6077	California	San Joaquin	pcnt_dentist	0.000514
+6079	California	San Luis Obispo	pcnt_dentist	0.000683
+6081	California	San Mateo	pcnt_dentist	0.00089
+6083	California	Santa Barbara	pcnt_dentist	0.000685
+6085	California	Santa Clara	pcnt_dentist	0.000992
+6087	California	Santa Cruz	pcnt_dentist	0.000646
+6089	California	Shasta	pcnt_dentist	0.0006
+6091	California	Sierra	pcnt_dentist	0.000613
+6093	California	Siskiyou	pcnt_dentist	0.000661
+6095	California	Solano	pcnt_dentist	0.000734
+6097	California	Sonoma	pcnt_dentist	0.000782
+6099	California	Stanislaus	pcnt_dentist	0.000541
+6101	California	Sutter	pcnt_dentist	0.000678
+6103	California	Tehama	pcnt_dentist	0.000419
+6105	California	Trinity	pcnt_dentist	0.000424
+6107	California	Tulare	pcnt_dentist	0.000404
+6109	California	Tuolumne	pcnt_dentist	0.000821
+6111	California	Ventura	pcnt_dentist	0.000722
+6113	California	Yolo	pcnt_dentist	0.000457
+6115	California	Yuba	pcnt_dentist	0.000204
+8001	Colorado	Adams	pcnt_dentist	0.000491
+8003	Colorado	Alamosa	pcnt_dentist	0.000924
+8005	Colorado	Arapahoe	pcnt_dentist	0.000892
+8007	Colorado	Archuleta	pcnt_dentist	0.000492
+8009	Colorado	Baca	pcnt_dentist	0.000515
+8011	Colorado	Bent	pcnt_dentist	#VALUE!
+8013	Colorado	Boulder	pcnt_dentist	0.000869
+8014	Colorado	Broomfield	pcnt_dentist	0.00087
+8015	Colorado	Chaffee	pcnt_dentist	0.000468
+8017	Colorado	Cheyenne	pcnt_dentist	0.012786
+8019	Colorado	Clear Creek	pcnt_dentist	0.000326
+8021	Colorado	Conejos	pcnt_dentist	0.00012
+8023	Colorado	Costilla	pcnt_dentist	0.006787
+8025	Colorado	Crowley	pcnt_dentist	#VALUE!
+8027	Colorado	Custer	pcnt_dentist	#VALUE!
+8029	Colorado	Delta	pcnt_dentist	0.000348
+8031	Colorado	Denver	pcnt_dentist	0.000639
+8033	Colorado	Dolores	pcnt_dentist	0.011634
+8035	Colorado	Douglas	pcnt_dentist	0.00056
+8037	Colorado	Eagle	pcnt_dentist	0.000556
+8039	Colorado	Elbert	pcnt_dentist	0.000172
+8041	Colorado	El Paso	pcnt_dentist	0.000855
+8043	Colorado	Fremont	pcnt_dentist	0.00027
+8045	Colorado	Garfield	pcnt_dentist	0.000667
+8047	Colorado	Gilpin	pcnt_dentist	#VALUE!
+8049	Colorado	Grand	pcnt_dentist	0.000266
+8051	Colorado	Gunnison	pcnt_dentist	0.000309
+8053	Colorado	Hinsdale	pcnt_dentist	0.026726
+8055	Colorado	Huerfano	pcnt_dentist	0.000146
+8057	Colorado	Jackson	pcnt_dentist	0.017241
+8059	Colorado	Jefferson	pcnt_dentist	0.000779
+8061	Colorado	Kiowa	pcnt_dentist	0.016937
+8063	Colorado	Kit Carson	pcnt_dentist	0.000107
+8065	Colorado	Lake	pcnt_dentist	0.000404
+8067	Colorado	La Plata	pcnt_dentist	0.000791
+8069	Colorado	Larimer	pcnt_dentist	0.00068
+8071	Colorado	Las Animas	pcnt_dentist	0.00043
+8073	Colorado	Lincoln	pcnt_dentist	0.000615
+8075	Colorado	Logan	pcnt_dentist	0.000376
+8077	Colorado	Mesa	pcnt_dentist	0.000641
+8079	Colorado	Mineral	pcnt_dentist	0.033994
+8081	Colorado	Moffat	pcnt_dentist	0.000431
+8083	Colorado	Montezuma	pcnt_dentist	0.000621
+8085	Colorado	Montrose	pcnt_dentist	0.000671
+8087	Colorado	Morgan	pcnt_dentist	0.000595
+8089	Colorado	Otero	pcnt_dentist	0.000207
+8091	Colorado	Ouray	pcnt_dentist	0.00135
+8093	Colorado	Park	pcnt_dentist	0.000183
+8095	Colorado	Phillips	pcnt_dentist	0.000221
+8097	Colorado	Pitkin	pcnt_dentist	0.000522
+8099	Colorado	Prowers	pcnt_dentist	0.000623
+8101	Colorado	Pueblo	pcnt_dentist	0.000647
+8103	Colorado	Rio Blanco	pcnt_dentist	0.000583
+8105	Colorado	Rio Grande	pcnt_dentist	0.000409
+8107	Colorado	Routt	pcnt_dentist	0.000799
+8109	Colorado	Saguache	pcnt_dentist	0.000325
+8111	Colorado	San Juan	pcnt_dentist	0.03385
+8113	Colorado	San Miguel	pcnt_dentist	0.000543
+8115	Colorado	Sedgwick	pcnt_dentist	0.000415
+8117	Colorado	Summit	pcnt_dentist	0.000741
+8119	Colorado	Teller	pcnt_dentist	0.000382
+8121	Colorado	Washington	pcnt_dentist	0.0004
+8123	Colorado	Weld	pcnt_dentist	0.000365
+8125	Colorado	Yuma	pcnt_dentist	0.000391
+9001	Connecticut	Fairfield	pcnt_dentist	0.000795
+9003	Connecticut	Hartford	pcnt_dentist	0.000846
+9005	Connecticut	Litchfield	pcnt_dentist	0.000509
+9007	Connecticut	Middlesex	pcnt_dentist	0.000645
+9009	Connecticut	New Haven	pcnt_dentist	0.000615
+9011	Connecticut	New London	pcnt_dentist	0.000579
+9013	Connecticut	Tolland	pcnt_dentist	0.000355
+9015	Connecticut	Windham	pcnt_dentist	0.000325
 10001	Delaware	Kent	pcnt_dentist	0.000317
 10003	Delaware	New Castle	pcnt_dentist	0.000543
 10005	Delaware	Sussex	pcnt_dentist	0.000204
 11001	District of Columbia	District of Columbia	pcnt_dentist	0.001055
-12001	Florida	Alachua	pcnt_dentist	0.001290
+12001	Florida	Alachua	pcnt_dentist	0.00129
 12003	Florida	Baker	pcnt_dentist	0.000238
 12005	Florida	Bay	pcnt_dentist	0.000416
 12007	Florida	Bradford	pcnt_dentist	0.000152
@@ -330,13 +330,13 @@ FIPS	State	County	Variable	pcnt_dentist
 12021	Florida	Collier	pcnt_dentist	0.000538
 12023	Florida	Columbia	pcnt_dentist	0.000332
 12027	Florida	DeSoto	pcnt_dentist	0.000284
-12029	Florida	Dixie	pcnt_dentist	0.000280
+12029	Florida	Dixie	pcnt_dentist	0.00028
 12031	Florida	Duval	pcnt_dentist	0.000565
 12033	Florida	Escambia	pcnt_dentist	0.000504
-12035	Florida	Flagler	pcnt_dentist	0.000310
+12035	Florida	Flagler	pcnt_dentist	0.00031
 12037	Florida	Franklin	pcnt_dentist	0.000075
 12039	Florida	Gadsden	pcnt_dentist	0.000124
-12041	Florida	Gilchrist	pcnt_dentist	0.000110
+12041	Florida	Gilchrist	pcnt_dentist	0.00011
 12043	Florida	Glades	pcnt_dentist	#VALUE!
 12045	Florida	Gulf	pcnt_dentist	0.000414
 12047	Florida	Hamilton	pcnt_dentist	0.000112
@@ -361,7 +361,7 @@ FIPS	State	County	Variable	pcnt_dentist
 12085	Florida	Martin	pcnt_dentist	0.000632
 12086	Florida	Miami-Dade	pcnt_dentist	0.000506
 12087	Florida	Monroe	pcnt_dentist	0.000545
-12089	Florida	Nassau	pcnt_dentist	0.000270
+12089	Florida	Nassau	pcnt_dentist	0.00027
 12091	Florida	Okaloosa	pcnt_dentist	0.000641
 12093	Florida	Okeechobee	pcnt_dentist	0.000282
 12095	Florida	Orange	pcnt_dentist	0.000411
@@ -377,7 +377,7 @@ FIPS	State	County	Variable	pcnt_dentist
 12115	Florida	Sarasota	pcnt_dentist	0.000651
 12117	Florida	Seminole	pcnt_dentist	0.000466
 12119	Florida	Sumter	pcnt_dentist	0.000232
-12121	Florida	Suwannee	pcnt_dentist	0.000210
+12121	Florida	Suwannee	pcnt_dentist	0.00021
 12123	Florida	Taylor	pcnt_dentist	0.000387
 12125	Florida	Union	pcnt_dentist	0.000148
 12127	Florida	Volusia	pcnt_dentist	0.000404
@@ -390,7 +390,7 @@ FIPS	State	County	Variable	pcnt_dentist
 13007	Georgia	Baker	pcnt_dentist	0.007078
 13009	Georgia	Baldwin	pcnt_dentist	0.000363
 13011	Georgia	Banks	pcnt_dentist	0.000054
-13013	Georgia	Barrow	pcnt_dentist	0.000200
+13013	Georgia	Barrow	pcnt_dentist	0.0002
 13015	Georgia	Bartow	pcnt_dentist	0.000316
 13017	Georgia	Ben Hill	pcnt_dentist	0.000334
 13019	Georgia	Berrien	pcnt_dentist	0.000154
@@ -409,7 +409,7 @@ FIPS	State	County	Variable	pcnt_dentist
 13047	Georgia	Catoosa	pcnt_dentist	0.000171
 13049	Georgia	Charlton	pcnt_dentist	#VALUE!
 13051	Georgia	Chatham	pcnt_dentist	0.000528
-13053	Georgia	Chattahoochee	pcnt_dentist	0.002500
+13053	Georgia	Chattahoochee	pcnt_dentist	0.0025
 13055	Georgia	Chattooga	pcnt_dentist	0.000322
 13057	Georgia	Cherokee	pcnt_dentist	0.000499
 13059	Georgia	Clarke	pcnt_dentist	0.000493
@@ -420,7 +420,7 @@ FIPS	State	County	Variable	pcnt_dentist
 13069	Georgia	Coffee	pcnt_dentist	0.000243
 13071	Georgia	Colquitt	pcnt_dentist	0.000215
 13073	Georgia	Columbia	pcnt_dentist	0.000573
-13075	Georgia	Cook	pcnt_dentist	0.000230
+13075	Georgia	Cook	pcnt_dentist	0.00023
 13077	Georgia	Coweta	pcnt_dentist	0.000366
 13079	Georgia	Crawford	pcnt_dentist	#VALUE!
 13081	Georgia	Crisp	pcnt_dentist	0.000334
@@ -438,9 +438,9 @@ FIPS	State	County	Variable	pcnt_dentist
 13105	Georgia	Elbert	pcnt_dentist	0.000295
 13107	Georgia	Emanuel	pcnt_dentist	0.000127
 13109	Georgia	Evans	pcnt_dentist	0.000263
-13111	Georgia	Fannin	pcnt_dentist	0.000210
+13111	Georgia	Fannin	pcnt_dentist	0.00021
 13113	Georgia	Fayette	pcnt_dentist	0.000903
-13115	Georgia	Floyd	pcnt_dentist	0.000360
+13115	Georgia	Floyd	pcnt_dentist	0.00036
 13117	Georgia	Forsyth	pcnt_dentist	0.000361
 13119	Georgia	Franklin	pcnt_dentist	0.000221
 13121	Georgia	Fulton	pcnt_dentist	0.000618
@@ -451,7 +451,7 @@ FIPS	State	County	Variable	pcnt_dentist
 13131	Georgia	Grady	pcnt_dentist	0.000198
 13133	Georgia	Greene	pcnt_dentist	0.000618
 13135	Georgia	Gwinnett	pcnt_dentist	0.000548
-13137	Georgia	Habersham	pcnt_dentist	0.000440
+13137	Georgia	Habersham	pcnt_dentist	0.00044
 13139	Georgia	Hall	pcnt_dentist	0.000436
 13141	Georgia	Hancock	pcnt_dentist	0.000091
 13143	Georgia	Haralson	pcnt_dentist	0.000172
@@ -472,14 +472,14 @@ FIPS	State	County	Variable	pcnt_dentist
 13173	Georgia	Lanier	pcnt_dentist	0.000096
 13175	Georgia	Laurens	pcnt_dentist	0.000404
 13177	Georgia	Lee	pcnt_dentist	0.000137
-13179	Georgia	Liberty	pcnt_dentist	0.000750
+13179	Georgia	Liberty	pcnt_dentist	0.00075
 13181	Georgia	Lincoln	pcnt_dentist	0.000124
 13183	Georgia	Long	pcnt_dentist	#VALUE!
 13185	Georgia	Lowndes	pcnt_dentist	0.000508
 13187	Georgia	Lumpkin	pcnt_dentist	0.000252
-13189	Georgia	McDuffie	pcnt_dentist	0.000270
-13191	Georgia	McIntosh	pcnt_dentist	0.000070
-13193	Georgia	Macon	pcnt_dentist	0.000120
+13189	Georgia	McDuffie	pcnt_dentist	0.00027
+13191	Georgia	McIntosh	pcnt_dentist	0.00007
+13193	Georgia	Macon	pcnt_dentist	0.00012
 13195	Georgia	Madison	pcnt_dentist	0.000035
 13197	Georgia	Marion	pcnt_dentist	0.000113
 13199	Georgia	Meriwether	pcnt_dentist	0.000136
@@ -500,12 +500,12 @@ FIPS	State	County	Variable	pcnt_dentist
 13231	Georgia	Pike	pcnt_dentist	0.000165
 13233	Georgia	Polk	pcnt_dentist	0.000216
 13235	Georgia	Pulaski	pcnt_dentist	0.000076
-13237	Georgia	Putnam	pcnt_dentist	0.000140
+13237	Georgia	Putnam	pcnt_dentist	0.00014
 13239	Georgia	Quitman	pcnt_dentist	0.000397
-13241	Georgia	Rabun	pcnt_dentist	0.000300
-13243	Georgia	Randolph	pcnt_dentist	0.000250
+13241	Georgia	Rabun	pcnt_dentist	0.0003
+13243	Georgia	Randolph	pcnt_dentist	0.00025
 13245	Georgia	Richmond	pcnt_dentist	0.001639
-13247	Georgia	Rockdale	pcnt_dentist	0.000730
+13247	Georgia	Rockdale	pcnt_dentist	0.00073
 13249	Georgia	Schley	pcnt_dentist	#VALUE!
 13251	Georgia	Screven	pcnt_dentist	0.000201
 13253	Georgia	Seminole	pcnt_dentist	0.000339
@@ -516,7 +516,7 @@ FIPS	State	County	Variable	pcnt_dentist
 13263	Georgia	Talbot	pcnt_dentist	0.000146
 13265	Georgia	Taliaferro	pcnt_dentist	0.014068
 13267	Georgia	Tattnall	pcnt_dentist	0.000066
-13269	Georgia	Taylor	pcnt_dentist	0.000110
+13269	Georgia	Taylor	pcnt_dentist	0.00011
 13271	Georgia	Telfair	pcnt_dentist	0.000102
 13273	Georgia	Terrell	pcnt_dentist	0.000104
 13275	Georgia	Thomas	pcnt_dentist	0.000417
@@ -529,7 +529,7 @@ FIPS	State	County	Variable	pcnt_dentist
 13289	Georgia	Twiggs	pcnt_dentist	#VALUE!
 13291	Georgia	Union	pcnt_dentist	0.000414
 13293	Georgia	Upson	pcnt_dentist	0.000218
-13295	Georgia	Walker	pcnt_dentist	0.000100
+13295	Georgia	Walker	pcnt_dentist	0.0001
 13297	Georgia	Walton	pcnt_dentist	0.000248
 13299	Georgia	Ware	pcnt_dentist	0.000439
 13301	Georgia	Warren	pcnt_dentist	0.000339
@@ -547,27 +547,27 @@ FIPS	State	County	Variable	pcnt_dentist
 15003	Hawaii	Honolulu	pcnt_dentist	0.000865
 15005	Hawaii	Kalawao	pcnt_dentist	0.258065
 15007	Hawaii	Kauai	pcnt_dentist	0.000644
-15009	Hawaii	Maui	pcnt_dentist	0.000590
+15009	Hawaii	Maui	pcnt_dentist	0.00059
 16001	Idaho	Ada	pcnt_dentist	0.000754
 16003	Idaho	Adams	pcnt_dentist	0.000252
 16005	Idaho	Bannock	pcnt_dentist	0.000826
-16007	Idaho	Bear Lake	pcnt_dentist	0.000500
+16007	Idaho	Bear Lake	pcnt_dentist	0.0005
 16009	Idaho	Benewah	pcnt_dentist	0.000962
 16011	Idaho	Bingham	pcnt_dentist	0.000456
-16013	Idaho	Blaine	pcnt_dentist	0.000510
+16013	Idaho	Blaine	pcnt_dentist	0.00051
 16015	Idaho	Boise	pcnt_dentist	#VALUE!
 16017	Idaho	Bonner	pcnt_dentist	0.000509
 16019	Idaho	Bonneville	pcnt_dentist	0.000898
 16021	Idaho	Boundary	pcnt_dentist	0.000541
 16023	Idaho	Butte	pcnt_dentist	0.008228
 16025	Idaho	Camas	pcnt_dentist	0.021661
-16027	Idaho	Canyon	pcnt_dentist	0.000420
+16027	Idaho	Canyon	pcnt_dentist	0.00042
 16029	Idaho	Caribou	pcnt_dentist	0.000708
 16031	Idaho	Cassia	pcnt_dentist	0.000599
-16033	Idaho	Clark	pcnt_dentist	0.024440
+16033	Idaho	Clark	pcnt_dentist	0.02444
 16035	Idaho	Clearwater	pcnt_dentist	0.000428
 16037	Idaho	Custer	pcnt_dentist	0.000228
-16039	Idaho	Elmore	pcnt_dentist	0.000650
+16039	Idaho	Elmore	pcnt_dentist	0.00065
 16041	Idaho	Franklin	pcnt_dentist	0.000543
 16043	Idaho	Fremont	pcnt_dentist	0.000292
 16045	Idaho	Gem	pcnt_dentist	0.000535
@@ -579,11 +579,11 @@ FIPS	State	County	Variable	pcnt_dentist
 16057	Idaho	Latah	pcnt_dentist	0.000322
 16059	Idaho	Lemhi	pcnt_dentist	0.000498
 16061	Idaho	Lewis	pcnt_dentist	0.000513
-16063	Idaho	Lincoln	pcnt_dentist	0.000190
+16063	Idaho	Lincoln	pcnt_dentist	0.00019
 16065	Idaho	Madison	pcnt_dentist	0.000492
 16067	Idaho	Minidoka	pcnt_dentist	0.000347
 16069	Idaho	Nez Perce	pcnt_dentist	0.000621
-16071	Idaho	Oneida	pcnt_dentist	0.000230
+16071	Idaho	Oneida	pcnt_dentist	0.00023
 16073	Idaho	Owyhee	pcnt_dentist	0.000172
 16075	Idaho	Payette	pcnt_dentist	0.000484
 16077	Idaho	Power	pcnt_dentist	0.000126
@@ -591,7 +591,7 @@ FIPS	State	County	Variable	pcnt_dentist
 16081	Idaho	Teton	pcnt_dentist	0.000393
 16083	Idaho	Twin Falls	pcnt_dentist	0.000624
 16085	Idaho	Valley	pcnt_dentist	0.000711
-16087	Idaho	Washington	pcnt_dentist	0.000290
+16087	Idaho	Washington	pcnt_dentist	0.00029
 17001	Illinois	Adams	pcnt_dentist	0.000605
 17003	Illinois	Alexander	pcnt_dentist	0.000228
 17005	Illinois	Bond	pcnt_dentist	0.000151
@@ -600,7 +600,7 @@ FIPS	State	County	Variable	pcnt_dentist
 17011	Illinois	Bureau	pcnt_dentist	0.000339
 17013	Illinois	Calhoun	pcnt_dentist	0.000193
 17015	Illinois	Carroll	pcnt_dentist	0.000193
-17017	Illinois	Cass	pcnt_dentist	0.000290
+17017	Illinois	Cass	pcnt_dentist	0.00029
 17019	Illinois	Champaign	pcnt_dentist	0.000464
 17021	Illinois	Christian	pcnt_dentist	0.000247
 17023	Illinois	Clark	pcnt_dentist	0.000061
@@ -609,7 +609,7 @@ FIPS	State	County	Variable	pcnt_dentist
 17029	Illinois	Coles	pcnt_dentist	0.000394
 17031	Illinois	Cook	pcnt_dentist	0.000722
 17033	Illinois	Crawford	pcnt_dentist	0.000328
-17035	Illinois	Cumberland	pcnt_dentist	0.000090
+17035	Illinois	Cumberland	pcnt_dentist	0.00009
 17037	Illinois	DeKalb	pcnt_dentist	0.000411
 17039	Illinois	De Witt	pcnt_dentist	0.000178
 17041	Illinois	Douglas	pcnt_dentist	0.000397
@@ -644,7 +644,7 @@ FIPS	State	County	Variable	pcnt_dentist
 17099	Illinois	LaSalle	pcnt_dentist	0.000411
 17101	Illinois	Lawrence	pcnt_dentist	0.000104
 17103	Illinois	Lee	pcnt_dentist	0.000309
-17105	Illinois	Livingston	pcnt_dentist	0.000260
+17105	Illinois	Livingston	pcnt_dentist	0.00026
 17107	Illinois	Logan	pcnt_dentist	0.000318
 17109	Illinois	McDonough	pcnt_dentist	0.000327
 17111	Illinois	McHenry	pcnt_dentist	0.000531
@@ -654,11 +654,11 @@ FIPS	State	County	Variable	pcnt_dentist
 17119	Illinois	Madison	pcnt_dentist	0.000637
 17121	Illinois	Marion	pcnt_dentist	0.000373
 17123	Illinois	Marshall	pcnt_dentist	#VALUE!
-17125	Illinois	Mason	pcnt_dentist	0.000270
+17125	Illinois	Mason	pcnt_dentist	0.00027
 17127	Illinois	Massac	pcnt_dentist	0.000382
 17129	Illinois	Menard	pcnt_dentist	0.000155
-17131	Illinois	Mercer	pcnt_dentist	0.000120
-17133	Illinois	Monroe	pcnt_dentist	0.000630
+17131	Illinois	Mercer	pcnt_dentist	0.00012
+17133	Illinois	Monroe	pcnt_dentist	0.00063
 17135	Illinois	Montgomery	pcnt_dentist	0.000585
 17137	Illinois	Morgan	pcnt_dentist	0.000467
 17139	Illinois	Moultrie	pcnt_dentist	0.000131
@@ -683,13 +683,13 @@ FIPS	State	County	Variable	pcnt_dentist
 17177	Illinois	Stephenson	pcnt_dentist	0.000515
 17179	Illinois	Tazewell	pcnt_dentist	0.000383
 17181	Illinois	Union	pcnt_dentist	0.000382
-17183	Illinois	Vermilion	pcnt_dentist	0.000260
-17185	Illinois	Wabash	pcnt_dentist	0.000250
+17183	Illinois	Vermilion	pcnt_dentist	0.00026
+17185	Illinois	Wabash	pcnt_dentist	0.00025
 17187	Illinois	Warren	pcnt_dentist	0.000266
 17189	Illinois	Washington	pcnt_dentist	0.000268
 17191	Illinois	Wayne	pcnt_dentist	0.000238
 17193	Illinois	White	pcnt_dentist	0.000266
-17195	Illinois	Whiteside	pcnt_dentist	0.000370
+17195	Illinois	Whiteside	pcnt_dentist	0.00037
 17197	Illinois	Will	pcnt_dentist	0.000455
 17199	Illinois	Williamson	pcnt_dentist	0.000381
 17201	Illinois	Winnebago	pcnt_dentist	0.000604
@@ -700,11 +700,11 @@ FIPS	State	County	Variable	pcnt_dentist
 18007	Indiana	Benton	pcnt_dentist	0.000223
 18009	Indiana	Blackford	pcnt_dentist	0.000232
 18011	Indiana	Boone	pcnt_dentist	0.000418
-18013	Indiana	Brown	pcnt_dentist	0.000130
+18013	Indiana	Brown	pcnt_dentist	0.00013
 18015	Indiana	Carroll	pcnt_dentist	0.000395
 18017	Indiana	Cass	pcnt_dentist	0.000225
 18019	Indiana	Clark	pcnt_dentist	0.000312
-18021	Indiana	Clay	pcnt_dentist	0.000220
+18021	Indiana	Clay	pcnt_dentist	0.00022
 18023	Indiana	Clinton	pcnt_dentist	0.000323
 18025	Indiana	Crawford	pcnt_dentist	0.000093
 18027	Indiana	Daviess	pcnt_dentist	0.000248
@@ -715,7 +715,7 @@ FIPS	State	County	Variable	pcnt_dentist
 18037	Indiana	Dubois	pcnt_dentist	0.000561
 18039	Indiana	Elkhart	pcnt_dentist	0.000313
 18041	Indiana	Fayette	pcnt_dentist	0.000324
-18043	Indiana	Floyd	pcnt_dentist	0.000540
+18043	Indiana	Floyd	pcnt_dentist	0.00054
 18045	Indiana	Fountain	pcnt_dentist	0.000172
 18047	Indiana	Franklin	pcnt_dentist	0.000559
 18049	Indiana	Fulton	pcnt_dentist	0.000427
@@ -731,7 +731,7 @@ FIPS	State	County	Variable	pcnt_dentist
 18069	Indiana	Huntington	pcnt_dentist	0.000286
 18071	Indiana	Jackson	pcnt_dentist	0.000556
 18073	Indiana	Jasper	pcnt_dentist	0.000261
-18075	Indiana	Jay	pcnt_dentist	0.000280
+18075	Indiana	Jay	pcnt_dentist	0.00028
 18077	Indiana	Jefferson	pcnt_dentist	0.000525
 18079	Indiana	Jennings	pcnt_dentist	0.000139
 18081	Indiana	Johnson	pcnt_dentist	0.000541
@@ -754,7 +754,7 @@ FIPS	State	County	Variable	pcnt_dentist
 18115	Indiana	Ohio	pcnt_dentist	0.000325
 18117	Indiana	Orange	pcnt_dentist	0.000249
 18119	Indiana	Owen	pcnt_dentist	0.000138
-18121	Indiana	Parke	pcnt_dentist	0.000210
+18121	Indiana	Parke	pcnt_dentist	0.00021
 18123	Indiana	Perry	pcnt_dentist	0.000335
 18125	Indiana	Pike	pcnt_dentist	0.000077
 18127	Indiana	Porter	pcnt_dentist	0.000488
@@ -770,9 +770,9 @@ FIPS	State	County	Variable	pcnt_dentist
 18147	Indiana	Spencer	pcnt_dentist	0.000329
 18149	Indiana	Starke	pcnt_dentist	0.000085
 18151	Indiana	Steuben	pcnt_dentist	0.000282
-18153	Indiana	Sullivan	pcnt_dentist	0.000210
+18153	Indiana	Sullivan	pcnt_dentist	0.00021
 18155	Indiana	Switzerland	pcnt_dentist	0.000093
-18157	Indiana	Tippecanoe	pcnt_dentist	0.000400
+18157	Indiana	Tippecanoe	pcnt_dentist	0.0004
 18159	Indiana	Tipton	pcnt_dentist	0.000497
 18161	Indiana	Union	pcnt_dentist	0.000132
 18163	Indiana	Vanderburgh	pcnt_dentist	0.000598
@@ -781,38 +781,38 @@ FIPS	State	County	Variable	pcnt_dentist
 18169	Indiana	Wabash	pcnt_dentist	0.000375
 18171	Indiana	Warren	pcnt_dentist	0.000116
 18173	Indiana	Warrick	pcnt_dentist	0.000396
-18175	Indiana	Washington	pcnt_dentist	0.000210
+18175	Indiana	Washington	pcnt_dentist	0.00021
 18177	Indiana	Wayne	pcnt_dentist	0.000476
-18179	Indiana	Wells	pcnt_dentist	0.000320
-18181	Indiana	White	pcnt_dentist	0.000280
+18179	Indiana	Wells	pcnt_dentist	0.00032
+18181	Indiana	White	pcnt_dentist	0.00028
 18183	Indiana	Whitley	pcnt_dentist	0.000385
 19001	Iowa	Adair	pcnt_dentist	0.000256
 19003	Iowa	Adams	pcnt_dentist	0.000483
 19005	Iowa	Allamakee	pcnt_dentist	0.000273
 19007	Iowa	Appanoose	pcnt_dentist	0.000308
-19009	Iowa	Audubon	pcnt_dentist	0.000160
+19009	Iowa	Audubon	pcnt_dentist	0.00016
 19011	Iowa	Benton	pcnt_dentist	0.000227
 19013	Iowa	Black Hawk	pcnt_dentist	0.000598
-19015	Iowa	Boone	pcnt_dentist	0.000370
+19015	Iowa	Boone	pcnt_dentist	0.00037
 19017	Iowa	Bremer	pcnt_dentist	0.000461
 19019	Iowa	Buchanan	pcnt_dentist	0.000329
 19021	Iowa	Buena Vista	pcnt_dentist	0.000515
 19023	Iowa	Butler	pcnt_dentist	0.000198
 19025	Iowa	Calhoun	pcnt_dentist	0.000404
-19027	Iowa	Carroll	pcnt_dentist	0.000470
+19027	Iowa	Carroll	pcnt_dentist	0.00047
 19029	Iowa	Cass	pcnt_dentist	0.000491
 19031	Iowa	Cedar	pcnt_dentist	0.000478
 19033	Iowa	Cerro Gordo	pcnt_dentist	0.000597
 19035	Iowa	Cherokee	pcnt_dentist	0.000321
 19037	Iowa	Chickasaw	pcnt_dentist	0.000238
 19039	Iowa	Clarke	pcnt_dentist	0.000212
-19041	Iowa	Clay	pcnt_dentist	0.000770
+19041	Iowa	Clay	pcnt_dentist	0.00077
 19043	Iowa	Clayton	pcnt_dentist	0.000436
-19045	Iowa	Clinton	pcnt_dentist	0.000460
+19045	Iowa	Clinton	pcnt_dentist	0.00046
 19047	Iowa	Crawford	pcnt_dentist	0.000282
 19049	Iowa	Dallas	pcnt_dentist	0.000253
 19051	Iowa	Davis	pcnt_dentist	0.000112
-19053	Iowa	Decatur	pcnt_dentist	0.000440
+19053	Iowa	Decatur	pcnt_dentist	0.00044
 19055	Iowa	Delaware	pcnt_dentist	0.000444
 19057	Iowa	Des Moines	pcnt_dentist	0.000659
 19059	Iowa	Dickinson	pcnt_dentist	0.000533
@@ -824,7 +824,7 @@ FIPS	State	County	Variable	pcnt_dentist
 19071	Iowa	Fremont	pcnt_dentist	0.000132
 19073	Iowa	Greene	pcnt_dentist	0.000317
 19075	Iowa	Grundy	pcnt_dentist	0.000238
-19077	Iowa	Guthrie	pcnt_dentist	0.000180
+19077	Iowa	Guthrie	pcnt_dentist	0.00018
 19079	Iowa	Hamilton	pcnt_dentist	0.000442
 19081	Iowa	Hancock	pcnt_dentist	0.000435
 19083	Iowa	Hardin	pcnt_dentist	0.000435
@@ -837,7 +837,7 @@ FIPS	State	County	Variable	pcnt_dentist
 19097	Iowa	Jackson	pcnt_dentist	0.000449
 19099	Iowa	Jasper	pcnt_dentist	0.000442
 19101	Iowa	Jefferson	pcnt_dentist	0.000378
-19103	Iowa	Johnson	pcnt_dentist	0.001880
+19103	Iowa	Johnson	pcnt_dentist	0.00188
 19105	Iowa	Jones	pcnt_dentist	0.000319
 19107	Iowa	Keokuk	pcnt_dentist	0.000188
 19109	Iowa	Kossuth	pcnt_dentist	0.000507
@@ -847,13 +847,13 @@ FIPS	State	County	Variable	pcnt_dentist
 19117	Iowa	Lucas	pcnt_dentist	0.000334
 19119	Iowa	Lyon	pcnt_dentist	0.000426
 19121	Iowa	Madison	pcnt_dentist	0.000251
-19123	Iowa	Mahaska	pcnt_dentist	0.000260
+19123	Iowa	Mahaska	pcnt_dentist	0.00026
 19125	Iowa	Marion	pcnt_dentist	0.000572
 19127	Iowa	Marshall	pcnt_dentist	0.000428
 19129	Iowa	Mills	pcnt_dentist	0.000447
 19131	Iowa	Mitchell	pcnt_dentist	0.000453
 19133	Iowa	Monona	pcnt_dentist	0.000318
-19135	Iowa	Monroe	pcnt_dentist	0.000370
+19135	Iowa	Monroe	pcnt_dentist	0.00037
 19137	Iowa	Montgomery	pcnt_dentist	0.000458
 19139	Iowa	Muscatine	pcnt_dentist	0.000393
 19141	Iowa	O'Brien	pcnt_dentist	0.000542
@@ -864,12 +864,12 @@ FIPS	State	County	Variable	pcnt_dentist
 19151	Iowa	Pocahontas	pcnt_dentist	0.000539
 19153	Iowa	Polk	pcnt_dentist	0.000618
 19155	Iowa	Pottawattamie	pcnt_dentist	0.000419
-19157	Iowa	Poweshiek	pcnt_dentist	0.000390
+19157	Iowa	Poweshiek	pcnt_dentist	0.00039
 19159	Iowa	Ringgold	pcnt_dentist	0.000188
 19161	Iowa	Sac	pcnt_dentist	0.000284
 19163	Iowa	Scott	pcnt_dentist	0.000663
 19165	Iowa	Shelby	pcnt_dentist	0.000484
-19167	Iowa	Sioux	pcnt_dentist	0.000360
+19167	Iowa	Sioux	pcnt_dentist	0.00036
 19169	Iowa	Story	pcnt_dentist	0.000409
 19171	Iowa	Tama	pcnt_dentist	0.000221
 19173	Iowa	Taylor	pcnt_dentist	0.000468
@@ -899,12 +899,12 @@ FIPS	State	County	Variable	pcnt_dentist
 20023	Kansas	Cheyenne	pcnt_dentist	0.000722
 20025	Kansas	Clark	pcnt_dentist	0.010619
 20027	Kansas	Clay	pcnt_dentist	0.000345
-20029	Kansas	Cloud	pcnt_dentist	0.000200
+20029	Kansas	Cloud	pcnt_dentist	0.0002
 20031	Kansas	Coffey	pcnt_dentist	0.000229
-20033	Kansas	Comanche	pcnt_dentist	0.012270
-20035	Kansas	Cowley	pcnt_dentist	0.000340
+20033	Kansas	Comanche	pcnt_dentist	0.01227
+20035	Kansas	Cowley	pcnt_dentist	0.00034
 20037	Kansas	Crawford	pcnt_dentist	0.000489
-20039	Kansas	Decatur	pcnt_dentist	0.000330
+20039	Kansas	Decatur	pcnt_dentist	0.00033
 20041	Kansas	Dickinson	pcnt_dentist	0.000398
 20043	Kansas	Doniphan	pcnt_dentist	0.000119
 20045	Kansas	Douglas	pcnt_dentist	0.000517
@@ -922,7 +922,7 @@ FIPS	State	County	Variable	pcnt_dentist
 20069	Kansas	Gray	pcnt_dentist	#VALUE!
 20071	Kansas	Greeley	pcnt_dentist	0.018706
 20073	Kansas	Greenwood	pcnt_dentist	0.000295
-20075	Kansas	Hamilton	pcnt_dentist	0.000370
+20075	Kansas	Hamilton	pcnt_dentist	0.00037
 20077	Kansas	Harper	pcnt_dentist	0.000649
 20079	Kansas	Harvey	pcnt_dentist	0.000444
 20081	Kansas	Haskell	pcnt_dentist	#VALUE!
@@ -940,7 +940,7 @@ FIPS	State	County	Variable	pcnt_dentist
 20105	Kansas	Lincoln	pcnt_dentist	0.000305
 20107	Kansas	Linn	pcnt_dentist	0.000206
 20109	Kansas	Logan	pcnt_dentist	0.000711
-20111	Kansas	Lyon	pcnt_dentist	0.000570
+20111	Kansas	Lyon	pcnt_dentist	0.00057
 20113	Kansas	McPherson	pcnt_dentist	0.000499
 20115	Kansas	Marion	pcnt_dentist	0.000224
 20117	Kansas	Marshall	pcnt_dentist	0.000487
@@ -957,7 +957,7 @@ FIPS	State	County	Variable	pcnt_dentist
 20139	Kansas	Osage	pcnt_dentist	0.000182
 20141	Kansas	Osborne	pcnt_dentist	0.000507
 20143	Kansas	Ottawa	pcnt_dentist	0.000323
-20145	Kansas	Pawnee	pcnt_dentist	0.000250
+20145	Kansas	Pawnee	pcnt_dentist	0.00025
 20147	Kansas	Phillips	pcnt_dentist	0.000526
 20149	Kansas	Pottawatomie	pcnt_dentist	0.000182
 20151	Kansas	Pratt	pcnt_dentist	0.000598
@@ -965,7 +965,7 @@ FIPS	State	County	Variable	pcnt_dentist
 20155	Kansas	Reno	pcnt_dentist	0.000443
 20157	Kansas	Republic	pcnt_dentist	0.000198
 20159	Kansas	Rice	pcnt_dentist	0.000372
-20161	Kansas	Riley	pcnt_dentist	0.000410
+20161	Kansas	Riley	pcnt_dentist	0.00041
 20163	Kansas	Rooks	pcnt_dentist	0.000191
 20165	Kansas	Rush	pcnt_dentist	0.000295
 20167	Kansas	Russell	pcnt_dentist	0.000283
@@ -976,7 +976,7 @@ FIPS	State	County	Variable	pcnt_dentist
 20177	Kansas	Shawnee	pcnt_dentist	0.000564
 20179	Kansas	Sheridan	pcnt_dentist	0.000387
 20181	Kansas	Sherman	pcnt_dentist	0.000491
-20183	Kansas	Smith	pcnt_dentist	0.000510
+20183	Kansas	Smith	pcnt_dentist	0.00051
 20185	Kansas	Stafford	pcnt_dentist	0.000223
 20187	Kansas	Stanton	pcnt_dentist	0.010439
 20189	Kansas	Stevens	pcnt_dentist	0.000344
@@ -987,7 +987,7 @@ FIPS	State	County	Variable	pcnt_dentist
 20199	Kansas	Wallace	pcnt_dentist	0.015947
 20201	Kansas	Washington	pcnt_dentist	0.000169
 20203	Kansas	Wichita	pcnt_dentist	0.000441
-20205	Kansas	Wilson	pcnt_dentist	0.000210
+20205	Kansas	Wilson	pcnt_dentist	0.00021
 20207	Kansas	Woodson	pcnt_dentist	0.000299
 20209	Kansas	Wyandotte	pcnt_dentist	0.000358
 21001	Kentucky	Adair	pcnt_dentist	0.000153
@@ -1000,7 +1000,7 @@ FIPS	State	County	Variable	pcnt_dentist
 21015	Kentucky	Boone	pcnt_dentist	0.000633
 21017	Kentucky	Bourbon	pcnt_dentist	0.000594
 21019	Kentucky	Boyd	pcnt_dentist	0.000578
-21021	Kentucky	Boyle	pcnt_dentist	0.000650
+21021	Kentucky	Boyle	pcnt_dentist	0.00065
 21023	Kentucky	Bracken	pcnt_dentist	0.000234
 21025	Kentucky	Breathitt	pcnt_dentist	0.000282
 21027	Kentucky	Breckinridge	pcnt_dentist	0.000147
@@ -1010,7 +1010,7 @@ FIPS	State	County	Variable	pcnt_dentist
 21035	Kentucky	Calloway	pcnt_dentist	0.000398
 21037	Kentucky	Campbell	pcnt_dentist	0.000374
 21039	Kentucky	Carlisle	pcnt_dentist	0.000194
-21041	Kentucky	Carroll	pcnt_dentist	0.000360
+21041	Kentucky	Carroll	pcnt_dentist	0.00036
 21043	Kentucky	Carter	pcnt_dentist	0.000282
 21045	Kentucky	Casey	pcnt_dentist	0.000061
 21047	Kentucky	Christian	pcnt_dentist	0.001157
@@ -1020,7 +1020,7 @@ FIPS	State	County	Variable	pcnt_dentist
 21055	Kentucky	Crittenden	pcnt_dentist	0.000105
 21057	Kentucky	Cumberland	pcnt_dentist	0.000144
 21059	Kentucky	Daviess	pcnt_dentist	0.000534
-21061	Kentucky	Edmonson	pcnt_dentist	0.000160
+21061	Kentucky	Edmonson	pcnt_dentist	0.00016
 21063	Kentucky	Elliott	pcnt_dentist	0.000337
 21065	Kentucky	Estill	pcnt_dentist	0.000338
 21067	Kentucky	Fayette	pcnt_dentist	0.001099
@@ -1040,7 +1040,7 @@ FIPS	State	County	Variable	pcnt_dentist
 21095	Kentucky	Harlan	pcnt_dentist	0.000234
 21097	Kentucky	Harrison	pcnt_dentist	0.000419
 21099	Kentucky	Hart	pcnt_dentist	0.000271
-21101	Kentucky	Henderson	pcnt_dentist	0.000400
+21101	Kentucky	Henderson	pcnt_dentist	0.0004
 21103	Kentucky	Henry	pcnt_dentist	0.000194
 21105	Kentucky	Hickman	pcnt_dentist	#VALUE!
 21107	Kentucky	Hopkins	pcnt_dentist	0.000417
@@ -1058,7 +1058,7 @@ FIPS	State	County	Variable	pcnt_dentist
 21131	Kentucky	Leslie	pcnt_dentist	0.000434
 21133	Kentucky	Letcher	pcnt_dentist	0.000282
 21135	Kentucky	Lewis	pcnt_dentist	0.000286
-21137	Kentucky	Lincoln	pcnt_dentist	0.000080
+21137	Kentucky	Lincoln	pcnt_dentist	0.00008
 21139	Kentucky	Livingston	pcnt_dentist	0.000104
 21141	Kentucky	Logan	pcnt_dentist	0.000295
 21143	Kentucky	Lyon	pcnt_dentist	0.000212
@@ -1075,22 +1075,22 @@ FIPS	State	County	Variable	pcnt_dentist
 21165	Kentucky	Menifee	pcnt_dentist	0.000306
 21167	Kentucky	Mercer	pcnt_dentist	0.000233
 21169	Kentucky	Metcalfe	pcnt_dentist	0.000195
-21171	Kentucky	Monroe	pcnt_dentist	0.000540
+21171	Kentucky	Monroe	pcnt_dentist	0.00054
 21173	Kentucky	Montgomery	pcnt_dentist	0.000484
 21175	Kentucky	Morgan	pcnt_dentist	0.000251
 21177	Kentucky	Muhlenberg	pcnt_dentist	0.000209
 21179	Kentucky	Nelson	pcnt_dentist	0.000477
 21181	Kentucky	Nicholas	pcnt_dentist	0.000415
-21183	Kentucky	Ohio	pcnt_dentist	0.000290
+21183	Kentucky	Ohio	pcnt_dentist	0.00029
 21185	Kentucky	Oldham	pcnt_dentist	0.000323
 21187	Kentucky	Owen	pcnt_dentist	0.000369
 21189	Kentucky	Owsley	pcnt_dentist	#VALUE!
 21191	Kentucky	Pendleton	pcnt_dentist	0.000132
 21193	Kentucky	Perry	pcnt_dentist	0.000614
-21195	Kentucky	Pike	pcnt_dentist	0.000530
+21195	Kentucky	Pike	pcnt_dentist	0.00053
 21197	Kentucky	Powell	pcnt_dentist	0.000234
 21199	Kentucky	Pulaski	pcnt_dentist	0.000624
-21201	Kentucky	Robertson	pcnt_dentist	0.010300
+21201	Kentucky	Robertson	pcnt_dentist	0.0103
 21203	Kentucky	Rockcastle	pcnt_dentist	#VALUE!
 21205	Kentucky	Rowan	pcnt_dentist	0.000427
 21207	Kentucky	Russell	pcnt_dentist	0.000282
@@ -1111,7 +1111,7 @@ FIPS	State	County	Variable	pcnt_dentist
 21237	Kentucky	Wolfe	pcnt_dentist	0.000134
 21239	Kentucky	Woodford	pcnt_dentist	0.000474
 22001	Louisiana	Acadia	pcnt_dentist	0.000254
-22003	Louisiana	Allen	pcnt_dentist	0.000200
+22003	Louisiana	Allen	pcnt_dentist	0.0002
 22005	Louisiana	Ascension	pcnt_dentist	0.000221
 22007	Louisiana	Assumption	pcnt_dentist	0.000085
 22009	Louisiana	Avoyelles	pcnt_dentist	0.000198
@@ -1131,16 +1131,16 @@ FIPS	State	County	Variable	pcnt_dentist
 22037	Louisiana	East Feliciana	pcnt_dentist	0.000221
 22039	Louisiana	Evangeline	pcnt_dentist	0.000339
 22041	Louisiana	Franklin	pcnt_dentist	0.000186
-22043	Louisiana	Grant	pcnt_dentist	0.000040
+22043	Louisiana	Grant	pcnt_dentist	0.00004
 22045	Louisiana	Iberia	pcnt_dentist	0.000391
 22047	Louisiana	Iberville	pcnt_dentist	0.000214
 22049	Louisiana	Jackson	pcnt_dentist	0.000115
-22051	Louisiana	Jefferson	pcnt_dentist	0.000730
+22051	Louisiana	Jefferson	pcnt_dentist	0.00073
 22053	Louisiana	Jefferson Davis	pcnt_dentist	0.000249
 22055	Louisiana	Lafayette	pcnt_dentist	0.000572
 22057	Louisiana	Lafourche	pcnt_dentist	0.000418
 22059	Louisiana	La Salle	pcnt_dentist	0.000124
-22061	Louisiana	Lincoln	pcnt_dentist	0.000310
+22061	Louisiana	Lincoln	pcnt_dentist	0.00031
 22063	Louisiana	Livingston	pcnt_dentist	0.000216
 22065	Louisiana	Madison	pcnt_dentist	0.000292
 22067	Louisiana	Morehouse	pcnt_dentist	0.000383
@@ -1149,17 +1149,17 @@ FIPS	State	County	Variable	pcnt_dentist
 22073	Louisiana	Ouachita	pcnt_dentist	0.000489
 22075	Louisiana	Plaquemines	pcnt_dentist	0.000256
 22077	Louisiana	Pointe Coupee	pcnt_dentist	0.000262
-22079	Louisiana	Rapides	pcnt_dentist	0.000440
+22079	Louisiana	Rapides	pcnt_dentist	0.00044
 22081	Louisiana	Red River	pcnt_dentist	0.000217
 22083	Louisiana	Richland	pcnt_dentist	0.000413
 22085	Louisiana	Sabine	pcnt_dentist	0.000162
-22087	Louisiana	St. Bernard	pcnt_dentist	0.000270
+22087	Louisiana	St. Bernard	pcnt_dentist	0.00027
 22089	Louisiana	St. Charles	pcnt_dentist	0.000262
 22091	Louisiana	St. Helena	pcnt_dentist	0.000088
-22093	Louisiana	St. James	pcnt_dentist	0.000270
+22093	Louisiana	St. James	pcnt_dentist	0.00027
 22095	Louisiana	St. John the Baptist	pcnt_dentist	0.000216
 22097	Louisiana	St. Landry	pcnt_dentist	0.000307
-22099	Louisiana	St. Martin	pcnt_dentist	0.000170
+22099	Louisiana	St. Martin	pcnt_dentist	0.00017
 22101	Louisiana	St. Mary	pcnt_dentist	0.000325
 22103	Louisiana	St. Tammany	pcnt_dentist	0.000717
 22105	Louisiana	Tangipahoa	pcnt_dentist	0.000448
@@ -1182,14 +1182,14 @@ FIPS	State	County	Variable	pcnt_dentist
 23011	Maine	Kennebec	pcnt_dentist	0.000581
 23013	Maine	Knox	pcnt_dentist	0.000584
 23015	Maine	Lincoln	pcnt_dentist	0.000401
-23017	Maine	Oxford	pcnt_dentist	0.000290
+23017	Maine	Oxford	pcnt_dentist	0.00029
 23019	Maine	Penobscot	pcnt_dentist	0.000534
 23021	Maine	Piscataquis	pcnt_dentist	0.000281
-23023	Maine	Sagadahoc	pcnt_dentist	0.000620
-23025	Maine	Somerset	pcnt_dentist	0.000170
+23023	Maine	Sagadahoc	pcnt_dentist	0.00062
+23025	Maine	Somerset	pcnt_dentist	0.00017
 23027	Maine	Waldo	pcnt_dentist	0.000254
 23029	Maine	Washington	pcnt_dentist	0.000357
-23031	Maine	York	pcnt_dentist	0.000370
+23031	Maine	York	pcnt_dentist	0.00037
 24001	Maryland	Allegany	pcnt_dentist	0.000567
 24003	Maryland	Anne Arundel	pcnt_dentist	0.000593
 24005	Maryland	Baltimore	pcnt_dentist	0.000656
@@ -1200,7 +1200,7 @@ FIPS	State	County	Variable	pcnt_dentist
 24017	Maryland	Charles	pcnt_dentist	0.000593
 24019	Maryland	Dorchester	pcnt_dentist	0.000332
 24021	Maryland	Frederick	pcnt_dentist	0.000604
-24023	Maryland	Garrett	pcnt_dentist	0.000360
+24023	Maryland	Garrett	pcnt_dentist	0.00036
 24025	Maryland	Harford	pcnt_dentist	0.000557
 24027	Maryland	Howard	pcnt_dentist	0.000692
 24029	Maryland	Kent	pcnt_dentist	0.000276
@@ -1210,12 +1210,12 @@ FIPS	State	County	Variable	pcnt_dentist
 24037	Maryland	St. Mary's	pcnt_dentist	0.000442
 24039	Maryland	Somerset	pcnt_dentist	0.000436
 24041	Maryland	Talbot	pcnt_dentist	0.000732
-24043	Maryland	Washington	pcnt_dentist	0.000500
+24043	Maryland	Washington	pcnt_dentist	0.0005
 24045	Maryland	Wicomico	pcnt_dentist	0.000678
 24047	Maryland	Worcester	pcnt_dentist	0.000498
 24510	Maryland	Baltimore City	pcnt_dentist	0.000438
 25001	Massachusetts	Barnstable	pcnt_dentist	0.000837
-25003	Massachusetts	Berkshire	pcnt_dentist	0.000670
+25003	Massachusetts	Berkshire	pcnt_dentist	0.00067
 25005	Massachusetts	Bristol	pcnt_dentist	0.000537
 25007	Massachusetts	Dukes	pcnt_dentist	0.000539
 25009	Massachusetts	Essex	pcnt_dentist	0.000753
@@ -1224,7 +1224,7 @@ FIPS	State	County	Variable	pcnt_dentist
 25015	Massachusetts	Hampshire	pcnt_dentist	0.000481
 25017	Massachusetts	Middlesex	pcnt_dentist	0.000842
 25019	Massachusetts	Nantucket	pcnt_dentist	0.000784
-25021	Massachusetts	Norfolk	pcnt_dentist	0.001050
+25021	Massachusetts	Norfolk	pcnt_dentist	0.00105
 25023	Massachusetts	Plymouth	pcnt_dentist	0.000631
 25025	Massachusetts	Suffolk	pcnt_dentist	0.001433
 25027	Massachusetts	Worcester	pcnt_dentist	0.000592
@@ -1238,7 +1238,7 @@ FIPS	State	County	Variable	pcnt_dentist
 26015	Michigan	Barry	pcnt_dentist	0.000251
 26017	Michigan	Bay	pcnt_dentist	0.000587
 26019	Michigan	Benzie	pcnt_dentist	0.000281
-26021	Michigan	Berrien	pcnt_dentist	0.000480
+26021	Michigan	Berrien	pcnt_dentist	0.00048
 26023	Michigan	Branch	pcnt_dentist	0.000456
 26025	Michigan	Calhoun	pcnt_dentist	0.000549
 26027	Michigan	Cass	pcnt_dentist	0.000152
@@ -1249,8 +1249,8 @@ FIPS	State	County	Variable	pcnt_dentist
 26037	Michigan	Clinton	pcnt_dentist	0.000263
 26039	Michigan	Crawford	pcnt_dentist	0.000351
 26041	Michigan	Delta	pcnt_dentist	0.000531
-26043	Michigan	Dickinson	pcnt_dentist	0.000790
-26045	Michigan	Eaton	pcnt_dentist	0.000640
+26043	Michigan	Dickinson	pcnt_dentist	0.00079
+26045	Michigan	Eaton	pcnt_dentist	0.00064
 26047	Michigan	Emmet	pcnt_dentist	0.000903
 26049	Michigan	Genesee	pcnt_dentist	0.000569
 26051	Michigan	Gladwin	pcnt_dentist	0.000231
@@ -1268,10 +1268,10 @@ FIPS	State	County	Variable	pcnt_dentist
 26075	Michigan	Jackson	pcnt_dentist	0.000489
 26077	Michigan	Kalamazoo	pcnt_dentist	0.000614
 26079	Michigan	Kalkaska	pcnt_dentist	0.000289
-26081	Michigan	Kent	pcnt_dentist	0.000630
+26081	Michigan	Kent	pcnt_dentist	0.00063
 26083	Michigan	Keweenaw	pcnt_dentist	0.011024
 26085	Michigan	Lake	pcnt_dentist	0.000504
-26087	Michigan	Lapeer	pcnt_dentist	0.000400
+26087	Michigan	Lapeer	pcnt_dentist	0.0004
 26089	Michigan	Leelanau	pcnt_dentist	0.000318
 26091	Michigan	Lenawee	pcnt_dentist	0.000361
 26093	Michigan	Livingston	pcnt_dentist	0.000566
@@ -1280,7 +1280,7 @@ FIPS	State	County	Variable	pcnt_dentist
 26099	Michigan	Macomb	pcnt_dentist	0.000772
 26101	Michigan	Manistee	pcnt_dentist	0.000499
 26103	Michigan	Marquette	pcnt_dentist	0.000682
-26105	Michigan	Mason	pcnt_dentist	0.000480
+26105	Michigan	Mason	pcnt_dentist	0.00048
 26107	Michigan	Mecosta	pcnt_dentist	0.000476
 26109	Michigan	Menominee	pcnt_dentist	0.000657
 26111	Michigan	Midland	pcnt_dentist	0.000624
@@ -1292,12 +1292,12 @@ FIPS	State	County	Variable	pcnt_dentist
 26123	Michigan	Newaygo	pcnt_dentist	0.000347
 26125	Michigan	Oakland	pcnt_dentist	0.000971
 26127	Michigan	Oceana	pcnt_dentist	0.000298
-26129	Michigan	Ogemaw	pcnt_dentist	0.000320
+26129	Michigan	Ogemaw	pcnt_dentist	0.00032
 26131	Michigan	Ontonagon	pcnt_dentist	0.000438
 26133	Michigan	Osceola	pcnt_dentist	0.000125
-26135	Michigan	Oscoda	pcnt_dentist	0.000230
+26135	Michigan	Oscoda	pcnt_dentist	0.00023
 26137	Michigan	Otsego	pcnt_dentist	0.000653
-26139	Michigan	Ottawa	pcnt_dentist	0.000470
+26139	Michigan	Ottawa	pcnt_dentist	0.00047
 26141	Michigan	Presque Isle	pcnt_dentist	0.000221
 26143	Michigan	Roscommon	pcnt_dentist	0.000404
 26145	Michigan	Saginaw	pcnt_dentist	0.000565
@@ -1320,12 +1320,12 @@ FIPS	State	County	Variable	pcnt_dentist
 27013	Minnesota	Blue Earth	pcnt_dentist	0.000685
 27015	Minnesota	Brown	pcnt_dentist	0.000445
 27017	Minnesota	Carlton	pcnt_dentist	0.000535
-27019	Minnesota	Carver	pcnt_dentist	0.000380
+27019	Minnesota	Carver	pcnt_dentist	0.00038
 27021	Minnesota	Cass	pcnt_dentist	0.000555
 27023	Minnesota	Chippewa	pcnt_dentist	0.000315
 27025	Minnesota	Chisago	pcnt_dentist	0.000378
 27027	Minnesota	Clay	pcnt_dentist	0.000429
-27029	Minnesota	Clearwater	pcnt_dentist	0.000340
+27029	Minnesota	Clearwater	pcnt_dentist	0.00034
 27031	Minnesota	Cook	pcnt_dentist	0.000383
 27033	Minnesota	Cottonwood	pcnt_dentist	0.000418
 27035	Minnesota	Crow Wing	pcnt_dentist	0.000726
@@ -1348,7 +1348,7 @@ FIPS	State	County	Variable	pcnt_dentist
 27069	Minnesota	Kittson	pcnt_dentist	0.000644
 27071	Minnesota	Koochiching	pcnt_dentist	0.000369
 27073	Minnesota	Lac qui Parle	pcnt_dentist	0.000542
-27075	Minnesota	Lake	pcnt_dentist	0.000270
+27075	Minnesota	Lake	pcnt_dentist	0.00027
 27077	Minnesota	Lake of the Woods	pcnt_dentist	0.000244
 27079	Minnesota	Le Sueur	pcnt_dentist	0.000286
 27081	Minnesota	Lincoln	pcnt_dentist	0.000332
@@ -1367,7 +1367,7 @@ FIPS	State	County	Variable	pcnt_dentist
 27107	Minnesota	Norman	pcnt_dentist	0.000428
 27109	Minnesota	Olmsted	pcnt_dentist	0.000727
 27111	Minnesota	Otter Tail	pcnt_dentist	0.000513
-27113	Minnesota	Pennington	pcnt_dentist	0.000420
+27113	Minnesota	Pennington	pcnt_dentist	0.00042
 27115	Minnesota	Pine	pcnt_dentist	0.000159
 27117	Minnesota	Pipestone	pcnt_dentist	0.000306
 27119	Minnesota	Polk	pcnt_dentist	0.000425
@@ -1422,7 +1422,7 @@ FIPS	State	County	Variable	pcnt_dentist
 28043	Mississippi	Grenada	pcnt_dentist	0.000407
 28045	Mississippi	Hancock	pcnt_dentist	0.000247
 28047	Mississippi	Harrison	pcnt_dentist	0.000673
-28049	Mississippi	Hinds	pcnt_dentist	0.000770
+28049	Mississippi	Hinds	pcnt_dentist	0.00077
 28051	Mississippi	Holmes	pcnt_dentist	0.000203
 28053	Mississippi	Humphreys	pcnt_dentist	#VALUE!
 28055	Mississippi	Issaquena	pcnt_dentist	0.014537
@@ -1432,18 +1432,18 @@ FIPS	State	County	Variable	pcnt_dentist
 28063	Mississippi	Jefferson	pcnt_dentist	#VALUE!
 28065	Mississippi	Jefferson Davis	pcnt_dentist	0.000318
 28067	Mississippi	Jones	pcnt_dentist	0.000373
-28069	Mississippi	Kemper	pcnt_dentist	0.000180
+28069	Mississippi	Kemper	pcnt_dentist	0.00018
 28071	Mississippi	Lafayette	pcnt_dentist	0.000324
 28073	Mississippi	Lamar	pcnt_dentist	0.000869
 28075	Mississippi	Lauderdale	pcnt_dentist	0.000464
 28077	Mississippi	Lawrence	pcnt_dentist	0.000155
 28079	Mississippi	Leake	pcnt_dentist	0.000156
 28081	Mississippi	Lee	pcnt_dentist	0.000523
-28083	Mississippi	Leflore	pcnt_dentist	0.000260
+28083	Mississippi	Leflore	pcnt_dentist	0.00026
 28085	Mississippi	Lincoln	pcnt_dentist	0.000337
 28087	Mississippi	Lowndes	pcnt_dentist	0.000589
 28089	Mississippi	Madison	pcnt_dentist	0.000565
-28091	Mississippi	Marion	pcnt_dentist	0.000180
+28091	Mississippi	Marion	pcnt_dentist	0.00018
 28093	Mississippi	Marshall	pcnt_dentist	0.000154
 28095	Mississippi	Monroe	pcnt_dentist	0.000349
 28097	Mississippi	Montgomery	pcnt_dentist	0.000363
@@ -1457,7 +1457,7 @@ FIPS	State	County	Variable	pcnt_dentist
 28113	Mississippi	Pike	pcnt_dentist	0.000436
 28115	Mississippi	Pontotoc	pcnt_dentist	0.000132
 28117	Mississippi	Prentiss	pcnt_dentist	0.000384
-28119	Mississippi	Quitman	pcnt_dentist	0.000120
+28119	Mississippi	Quitman	pcnt_dentist	0.00012
 28121	Mississippi	Rankin	pcnt_dentist	0.000542
 28123	Mississippi	Scott	pcnt_dentist	0.000245
 28125	Mississippi	Sharkey	pcnt_dentist	#VALUE!
@@ -1485,10 +1485,10 @@ FIPS	State	County	Variable	pcnt_dentist
 29005	Missouri	Atchison	pcnt_dentist	0.000522
 29007	Missouri	Audrain	pcnt_dentist	0.000218
 29009	Missouri	Barry	pcnt_dentist	0.000195
-29011	Missouri	Barton	pcnt_dentist	0.000080
+29011	Missouri	Barton	pcnt_dentist	0.00008
 29013	Missouri	Bates	pcnt_dentist	0.000115
 29015	Missouri	Benton	pcnt_dentist	0.000155
-29017	Missouri	Bollinger	pcnt_dentist	0.000240
+29017	Missouri	Bollinger	pcnt_dentist	0.00024
 29019	Missouri	Boone	pcnt_dentist	0.000546
 29021	Missouri	Buchanan	pcnt_dentist	0.000492
 29023	Missouri	Butler	pcnt_dentist	0.000458
@@ -1496,7 +1496,7 @@ FIPS	State	County	Variable	pcnt_dentist
 29027	Missouri	Callaway	pcnt_dentist	0.000186
 29029	Missouri	Camden	pcnt_dentist	0.000424
 29031	Missouri	Cape Girardeau	pcnt_dentist	0.000565
-29033	Missouri	Carroll	pcnt_dentist	0.000320
+29033	Missouri	Carroll	pcnt_dentist	0.00032
 29035	Missouri	Carter	pcnt_dentist	0.000158
 29037	Missouri	Cass	pcnt_dentist	0.000278
 29039	Missouri	Cedar	pcnt_dentist	0.000283
@@ -1507,7 +1507,7 @@ FIPS	State	County	Variable	pcnt_dentist
 29049	Missouri	Clinton	pcnt_dentist	0.000425
 29051	Missouri	Cole	pcnt_dentist	0.000481
 29053	Missouri	Cooper	pcnt_dentist	0.000261
-29055	Missouri	Crawford	pcnt_dentist	0.000120
+29055	Missouri	Crawford	pcnt_dentist	0.00012
 29057	Missouri	Dade	pcnt_dentist	0.000125
 29059	Missouri	Dallas	pcnt_dentist	0.000236
 29061	Missouri	Daviess	pcnt_dentist	0.000116
@@ -1520,23 +1520,23 @@ FIPS	State	County	Variable	pcnt_dentist
 29075	Missouri	Gentry	pcnt_dentist	0.000434
 29077	Missouri	Greene	pcnt_dentist	0.000628
 29079	Missouri	Grundy	pcnt_dentist	0.000377
-29081	Missouri	Harrison	pcnt_dentist	0.000330
-29083	Missouri	Henry	pcnt_dentist	0.000400
+29081	Missouri	Harrison	pcnt_dentist	0.00033
+29083	Missouri	Henry	pcnt_dentist	0.0004
 29085	Missouri	Hickory	pcnt_dentist	0.000103
-29087	Missouri	Holt	pcnt_dentist	0.000200
+29087	Missouri	Holt	pcnt_dentist	0.0002
 29089	Missouri	Howard	pcnt_dentist	0.000369
-29091	Missouri	Howell	pcnt_dentist	0.000340
+29091	Missouri	Howell	pcnt_dentist	0.00034
 29093	Missouri	Iron	pcnt_dentist	0.000092
 29095	Missouri	Jackson	pcnt_dentist	0.000663
 29097	Missouri	Jasper	pcnt_dentist	0.000499
 29099	Missouri	Jefferson	pcnt_dentist	0.000244
 29101	Missouri	Johnson	pcnt_dentist	0.000302
 29103	Missouri	Knox	pcnt_dentist	0.000237
-29105	Missouri	Laclede	pcnt_dentist	0.000250
+29105	Missouri	Laclede	pcnt_dentist	0.00025
 29107	Missouri	Lafayette	pcnt_dentist	0.000293
 29109	Missouri	Lawrence	pcnt_dentist	0.000358
 29111	Missouri	Lewis	pcnt_dentist	0.000091
-29113	Missouri	Lincoln	pcnt_dentist	0.000150
+29113	Missouri	Lincoln	pcnt_dentist	0.00015
 29115	Missouri	Linn	pcnt_dentist	0.000155
 29117	Missouri	Livingston	pcnt_dentist	0.000484
 29119	Missouri	McDonald	pcnt_dentist	0.000258
@@ -1545,7 +1545,7 @@ FIPS	State	County	Variable	pcnt_dentist
 29125	Missouri	Maries	pcnt_dentist	0.000216
 29127	Missouri	Marion	pcnt_dentist	0.000465
 29129	Missouri	Mercer	pcnt_dentist	0.006266
-29131	Missouri	Miller	pcnt_dentist	0.000200
+29131	Missouri	Miller	pcnt_dentist	0.0002
 29133	Missouri	Mississippi	pcnt_dentist	0.000123
 29135	Missouri	Moniteau	pcnt_dentist	0.000236
 29137	Missouri	Monroe	pcnt_dentist	0.000224
@@ -1555,7 +1555,7 @@ FIPS	State	County	Variable	pcnt_dentist
 29145	Missouri	Newton	pcnt_dentist	0.000136
 29147	Missouri	Nodaway	pcnt_dentist	0.000185
 29149	Missouri	Oregon	pcnt_dentist	0.000091
-29151	Missouri	Osage	pcnt_dentist	0.000210
+29151	Missouri	Osage	pcnt_dentist	0.00021
 29153	Missouri	Ozark	pcnt_dentist	0.000203
 29155	Missouri	Pemiscot	pcnt_dentist	0.000054
 29157	Missouri	Perry	pcnt_dentist	0.000364
@@ -1570,7 +1570,7 @@ FIPS	State	County	Variable	pcnt_dentist
 29175	Missouri	Randolph	pcnt_dentist	0.000323
 29177	Missouri	Ray	pcnt_dentist	0.000126
 29179	Missouri	Reynolds	pcnt_dentist	0.000441
-29181	Missouri	Ripley	pcnt_dentist	0.000070
+29181	Missouri	Ripley	pcnt_dentist	0.00007
 29183	Missouri	St. Charles	pcnt_dentist	0.000479
 29185	Missouri	St. Clair	pcnt_dentist	0.000199
 29186	Missouri	Ste. Genevieve	pcnt_dentist	0.000217
@@ -1589,7 +1589,7 @@ FIPS	State	County	Variable	pcnt_dentist
 29215	Missouri	Texas	pcnt_dentist	0.000179
 29217	Missouri	Vernon	pcnt_dentist	0.000227
 29219	Missouri	Warren	pcnt_dentist	0.000152
-29221	Missouri	Washington	pcnt_dentist	0.000190
+29221	Missouri	Washington	pcnt_dentist	0.00019
 29223	Missouri	Wayne	pcnt_dentist	0.000073
 29225	Missouri	Webster	pcnt_dentist	0.000215
 29227	Missouri	Worth	pcnt_dentist	0.000452
@@ -1600,7 +1600,7 @@ FIPS	State	County	Variable	pcnt_dentist
 30005	Montana	Blaine	pcnt_dentist	0.000596
 30007	Montana	Broadwater	pcnt_dentist	0.000176
 30009	Montana	Carbon	pcnt_dentist	0.000395
-30011	Montana	Carter	pcnt_dentist	0.020530
+30011	Montana	Carter	pcnt_dentist	0.02053
 30013	Montana	Cascade	pcnt_dentist	0.000726
 30015	Montana	Chouteau	pcnt_dentist	0.000168
 30017	Montana	Custer	pcnt_dentist	0.000495
@@ -1622,7 +1622,7 @@ FIPS	State	County	Variable	pcnt_dentist
 30049	Montana	Lewis and Clark	pcnt_dentist	0.000748
 30051	Montana	Liberty	pcnt_dentist	0.000363
 30053	Montana	Lincoln	pcnt_dentist	0.000453
-30055	Montana	McCone	pcnt_dentist	0.013660
+30055	Montana	McCone	pcnt_dentist	0.01366
 30057	Montana	Madison	pcnt_dentist	0.000127
 30059	Montana	Meagher	pcnt_dentist	0.011617
 30061	Montana	Mineral	pcnt_dentist	0.000236
@@ -1637,11 +1637,11 @@ FIPS	State	County	Variable	pcnt_dentist
 30079	Montana	Prairie	pcnt_dentist	0.019818
 30081	Montana	Ravalli	pcnt_dentist	0.000466
 30083	Montana	Richland	pcnt_dentist	0.000409
-30085	Montana	Roosevelt	pcnt_dentist	0.000470
+30085	Montana	Roosevelt	pcnt_dentist	0.00047
 30087	Montana	Rosebud	pcnt_dentist	0.000536
 30089	Montana	Sanders	pcnt_dentist	0.000259
 30091	Montana	Sheridan	pcnt_dentist	0.000288
-30093	Montana	Silver Bow	pcnt_dentist	0.000710
+30093	Montana	Silver Bow	pcnt_dentist	0.00071
 30095	Montana	Stillwater	pcnt_dentist	0.000325
 30097	Montana	Sweet Grass	pcnt_dentist	0.000273
 30099	Montana	Teton	pcnt_dentist	0.000305
@@ -1660,7 +1660,7 @@ FIPS	State	County	Variable	pcnt_dentist
 31013	Nebraska	Box Butte	pcnt_dentist	0.000349
 31015	Nebraska	Boyd	pcnt_dentist	0.000469
 31017	Nebraska	Brown	pcnt_dentist	0.000313
-31019	Nebraska	Buffalo	pcnt_dentist	0.000600
+31019	Nebraska	Buffalo	pcnt_dentist	0.0006
 31021	Nebraska	Burt	pcnt_dentist	0.000287
 31023	Nebraska	Butler	pcnt_dentist	0.000233
 31025	Nebraska	Cass	pcnt_dentist	0.000313
@@ -1676,7 +1676,7 @@ FIPS	State	County	Variable	pcnt_dentist
 31045	Nebraska	Dawes	pcnt_dentist	0.000485
 31047	Nebraska	Dawson	pcnt_dentist	0.000446
 31049	Nebraska	Deuel	pcnt_dentist	0.001019
-31051	Nebraska	Dixon	pcnt_dentist	0.000330
+31051	Nebraska	Dixon	pcnt_dentist	0.00033
 31053	Nebraska	Dodge	pcnt_dentist	0.000584
 31055	Nebraska	Douglas	pcnt_dentist	0.000762
 31057	Nebraska	Dundy	pcnt_dentist	0.000977
@@ -1693,9 +1693,9 @@ FIPS	State	County	Variable	pcnt_dentist
 31079	Nebraska	Hall	pcnt_dentist	0.000668
 31081	Nebraska	Hamilton	pcnt_dentist	0.000432
 31083	Nebraska	Harlan	pcnt_dentist	0.000288
-31085	Nebraska	Hayes	pcnt_dentist	0.025000
+31085	Nebraska	Hayes	pcnt_dentist	0.025
 31087	Nebraska	Hitchcock	pcnt_dentist	0.008194
-31089	Nebraska	Holt	pcnt_dentist	0.000850
+31089	Nebraska	Holt	pcnt_dentist	0.00085
 31091	Nebraska	Hooker	pcnt_dentist	0.001316
 31093	Nebraska	Howard	pcnt_dentist	0.000317
 31095	Nebraska	Jefferson	pcnt_dentist	0.000262
@@ -1705,7 +1705,7 @@ FIPS	State	County	Variable	pcnt_dentist
 31103	Nebraska	Keya Paha	pcnt_dentist	0.029126
 31105	Nebraska	Kimball	pcnt_dentist	0.006198
 31107	Nebraska	Knox	pcnt_dentist	0.000672
-31109	Nebraska	Lancaster	pcnt_dentist	0.000710
+31109	Nebraska	Lancaster	pcnt_dentist	0.00071
 31111	Nebraska	Lincoln	pcnt_dentist	0.000488
 31113	Nebraska	Logan	pcnt_dentist	0.031291
 31115	Nebraska	Loup	pcnt_dentist	0.037975
@@ -1728,7 +1728,7 @@ FIPS	State	County	Variable	pcnt_dentist
 31149	Nebraska	Rock	pcnt_dentist	0.015494
 31151	Nebraska	Saline	pcnt_dentist	0.000393
 31153	Nebraska	Sarpy	pcnt_dentist	0.000603
-31155	Nebraska	Saunders	pcnt_dentist	0.000330
+31155	Nebraska	Saunders	pcnt_dentist	0.00033
 31157	Nebraska	Scotts Bluff	pcnt_dentist	0.000528
 31159	Nebraska	Seward	pcnt_dentist	0.000331
 31161	Nebraska	Sheridan	pcnt_dentist	0.000359
@@ -1739,7 +1739,7 @@ FIPS	State	County	Variable	pcnt_dentist
 31171	Nebraska	Thomas	pcnt_dentist	0.036866
 31173	Nebraska	Thurston	pcnt_dentist	0.000853
 31175	Nebraska	Valley	pcnt_dentist	0.000695
-31177	Nebraska	Washington	pcnt_dentist	0.000240
+31177	Nebraska	Washington	pcnt_dentist	0.00024
 31179	Nebraska	Wayne	pcnt_dentist	0.000368
 31181	Nebraska	Webster	pcnt_dentist	0.006039
 31183	Nebraska	Wheeler	pcnt_dentist	0.029197
@@ -1769,16 +1769,16 @@ FIPS	State	County	Variable	pcnt_dentist
 33011	New Hampshire	Hillsborough	pcnt_dentist	0.000697
 33013	New Hampshire	Merrimack	pcnt_dentist	0.000661
 33015	New Hampshire	Rockingham	pcnt_dentist	0.000645
-33017	New Hampshire	Strafford	pcnt_dentist	0.000570
-33019	New Hampshire	Sullivan	pcnt_dentist	0.000270
+33017	New Hampshire	Strafford	pcnt_dentist	0.00057
+33019	New Hampshire	Sullivan	pcnt_dentist	0.00027
 34001	New Jersey	Atlantic	pcnt_dentist	0.000509
 34003	New Jersey	Bergen	pcnt_dentist	0.001174
 34005	New Jersey	Burlington	pcnt_dentist	0.000664
 34007	New Jersey	Camden	pcnt_dentist	0.000655
 34009	New Jersey	Cape May	pcnt_dentist	0.000481
 34011	New Jersey	Cumberland	pcnt_dentist	0.000521
-34013	New Jersey	Essex	pcnt_dentist	0.000850
-34015	New Jersey	Gloucester	pcnt_dentist	0.000420
+34013	New Jersey	Essex	pcnt_dentist	0.00085
+34015	New Jersey	Gloucester	pcnt_dentist	0.00042
 34017	New Jersey	Hudson	pcnt_dentist	0.000557
 34019	New Jersey	Hunterdon	pcnt_dentist	0.000723
 34021	New Jersey	Mercer	pcnt_dentist	0.000682
@@ -1793,33 +1793,33 @@ FIPS	State	County	Variable	pcnt_dentist
 34039	New Jersey	Union	pcnt_dentist	0.000791
 34041	New Jersey	Warren	pcnt_dentist	0.000651
 35001	New Mexico	Bernalillo	pcnt_dentist	0.000658
-35003	New Mexico	Catron	pcnt_dentist	0.000260
+35003	New Mexico	Catron	pcnt_dentist	0.00026
 35005	New Mexico	Chaves	pcnt_dentist	0.000326
 35006	New Mexico	Cibola	pcnt_dentist	0.000436
 35007	New Mexico	Colfax	pcnt_dentist	0.000283
-35009	New Mexico	Curry	pcnt_dentist	0.000680
+35009	New Mexico	Curry	pcnt_dentist	0.00068
 35011	New Mexico	De Baca	pcnt_dentist	0.000988
 35013	New Mexico	Dona Ana	pcnt_dentist	0.000414
-35015	New Mexico	Eddy	pcnt_dentist	0.000310
-35017	New Mexico	Grant	pcnt_dentist	0.000400
+35015	New Mexico	Eddy	pcnt_dentist	0.00031
+35017	New Mexico	Grant	pcnt_dentist	0.0004
 35019	New Mexico	Guadalupe	pcnt_dentist	0.000379
 35021	New Mexico	Harding	pcnt_dentist	0.034783
-35023	New Mexico	Hidalgo	pcnt_dentist	0.001220
-35025	New Mexico	Lea	pcnt_dentist	0.000180
-35027	New Mexico	Lincoln	pcnt_dentist	0.000340
+35023	New Mexico	Hidalgo	pcnt_dentist	0.00122
+35025	New Mexico	Lea	pcnt_dentist	0.00018
+35027	New Mexico	Lincoln	pcnt_dentist	0.00034
 35028	New Mexico	Los Alamos	pcnt_dentist	0.000938
 35029	New Mexico	Luna	pcnt_dentist	0.000272
 35031	New Mexico	McKinley	pcnt_dentist	0.000565
 35033	New Mexico	Mora	pcnt_dentist	0.000204
-35035	New Mexico	Otero	pcnt_dentist	0.000330
-35037	New Mexico	Quay	pcnt_dentist	0.000220
+35035	New Mexico	Otero	pcnt_dentist	0.00033
+35037	New Mexico	Quay	pcnt_dentist	0.00022
 35039	New Mexico	Rio Arriba	pcnt_dentist	0.000344
 35041	New Mexico	Roosevelt	pcnt_dentist	0.000237
 35043	New Mexico	Sandoval	pcnt_dentist	0.000315
 35045	New Mexico	San Juan	pcnt_dentist	0.000629
 35047	New Mexico	San Miguel	pcnt_dentist	0.000424
 35049	New Mexico	Santa Fe	pcnt_dentist	0.000734
-35051	New Mexico	Sierra	pcnt_dentist	0.000570
+35051	New Mexico	Sierra	pcnt_dentist	0.00057
 35053	New Mexico	Socorro	pcnt_dentist	0.000325
 35055	New Mexico	Taos	pcnt_dentist	0.000539
 35057	New Mexico	Torrance	pcnt_dentist	0.000177
@@ -1841,13 +1841,13 @@ FIPS	State	County	Variable	pcnt_dentist
 36027	New York	Dutchess	pcnt_dentist	0.000598
 36029	New York	Erie	pcnt_dentist	0.000707
 36031	New York	Essex	pcnt_dentist	0.000262
-36033	New York	Franklin	pcnt_dentist	0.000310
+36033	New York	Franklin	pcnt_dentist	0.00031
 36035	New York	Fulton	pcnt_dentist	0.000263
 36037	New York	Genesee	pcnt_dentist	0.000355
 36039	New York	Greene	pcnt_dentist	0.000362
 36041	New York	Hamilton	pcnt_dentist	#VALUE!
 36043	New York	Herkimer	pcnt_dentist	0.000319
-36045	New York	Jefferson	pcnt_dentist	0.000700
+36045	New York	Jefferson	pcnt_dentist	0.0007
 36047	New York	Kings	pcnt_dentist	0.000576
 36049	New York	Lewis	pcnt_dentist	0.000182
 36051	New York	Livingston	pcnt_dentist	0.000436
@@ -1855,7 +1855,7 @@ FIPS	State	County	Variable	pcnt_dentist
 36055	New York	Monroe	pcnt_dentist	0.000698
 36057	New York	Montgomery	pcnt_dentist	0.000567
 36059	New York	Nassau	pcnt_dentist	0.001038
-36061	New York	New York	pcnt_dentist	0.001460
+36061	New York	New York	pcnt_dentist	0.00146
 36063	New York	Niagara	pcnt_dentist	0.000503
 36065	New York	Oneida	pcnt_dentist	0.000504
 36067	New York	Onondaga	pcnt_dentist	0.000669
@@ -1883,33 +1883,33 @@ FIPS	State	County	Variable	pcnt_dentist
 36111	New York	Ulster	pcnt_dentist	0.000541
 36113	New York	Warren	pcnt_dentist	0.000828
 36115	New York	Washington	pcnt_dentist	0.000241
-36117	New York	Wayne	pcnt_dentist	0.000410
+36117	New York	Wayne	pcnt_dentist	0.00041
 36119	New York	Westchester	pcnt_dentist	0.000954
-36121	New York	Wyoming	pcnt_dentist	0.000260
-36123	New York	Yates	pcnt_dentist	0.000300
+36121	New York	Wyoming	pcnt_dentist	0.00026
+36123	New York	Yates	pcnt_dentist	0.0003
 37001	North Carolina	Alamance	pcnt_dentist	0.000417
 37003	North Carolina	Alexander	pcnt_dentist	0.000182
 37005	North Carolina	Alleghany	pcnt_dentist	0.000177
-37007	North Carolina	Anson	pcnt_dentist	0.000170
+37007	North Carolina	Anson	pcnt_dentist	0.00017
 37009	North Carolina	Ashe	pcnt_dentist	0.000217
 37011	North Carolina	Avery	pcnt_dentist	0.000099
 37013	North Carolina	Beaufort	pcnt_dentist	0.000331
 37015	North Carolina	Bertie	pcnt_dentist	0.000089
-37017	North Carolina	Bladen	pcnt_dentist	0.000280
+37017	North Carolina	Bladen	pcnt_dentist	0.00028
 37019	North Carolina	Brunswick	pcnt_dentist	0.000285
 37021	North Carolina	Buncombe	pcnt_dentist	0.000645
 37023	North Carolina	Burke	pcnt_dentist	0.000393
 37025	North Carolina	Cabarrus	pcnt_dentist	0.000344
 37027	North Carolina	Caldwell	pcnt_dentist	0.000262
 37029	North Carolina	Camden	pcnt_dentist	#VALUE!
-37031	North Carolina	Carteret	pcnt_dentist	0.000680
-37033	North Carolina	Caswell	pcnt_dentist	0.000080
+37031	North Carolina	Carteret	pcnt_dentist	0.00068
+37033	North Carolina	Caswell	pcnt_dentist	0.00008
 37035	North Carolina	Catawba	pcnt_dentist	0.000434
 37037	North Carolina	Chatham	pcnt_dentist	0.000217
 37039	North Carolina	Cherokee	pcnt_dentist	0.000359
 37041	North Carolina	Chowan	pcnt_dentist	0.000333
 37043	North Carolina	Clay	pcnt_dentist	0.000469
-37045	North Carolina	Cleveland	pcnt_dentist	0.000340
+37045	North Carolina	Cleveland	pcnt_dentist	0.00034
 37047	North Carolina	Columbus	pcnt_dentist	0.000197
 37049	North Carolina	Craven	pcnt_dentist	0.000478
 37051	North Carolina	Cumberland	pcnt_dentist	0.000715
@@ -1921,7 +1921,7 @@ FIPS	State	County	Variable	pcnt_dentist
 37063	North Carolina	Durham	pcnt_dentist	0.000639
 37065	North Carolina	Edgecombe	pcnt_dentist	0.000172
 37067	North Carolina	Forsyth	pcnt_dentist	0.000559
-37069	North Carolina	Franklin	pcnt_dentist	0.000160
+37069	North Carolina	Franklin	pcnt_dentist	0.00016
 37071	North Carolina	Gaston	pcnt_dentist	0.000439
 37073	North Carolina	Gates	pcnt_dentist	#VALUE!
 37075	North Carolina	Graham	pcnt_dentist	0.000111
@@ -1956,7 +1956,7 @@ FIPS	State	County	Variable	pcnt_dentist
 37133	North Carolina	Onslow	pcnt_dentist	0.000776
 37135	North Carolina	Orange	pcnt_dentist	0.001642
 37137	North Carolina	Pamlico	pcnt_dentist	0.000289
-37139	North Carolina	Pasquotank	pcnt_dentist	0.000320
+37139	North Carolina	Pasquotank	pcnt_dentist	0.00032
 37141	North Carolina	Pender	pcnt_dentist	0.000299
 37143	North Carolina	Perquimans	pcnt_dentist	0.000074
 37145	North Carolina	Person	pcnt_dentist	0.000301
@@ -1964,7 +1964,7 @@ FIPS	State	County	Variable	pcnt_dentist
 37149	North Carolina	Polk	pcnt_dentist	0.000337
 37151	North Carolina	Randolph	pcnt_dentist	0.000272
 37153	North Carolina	Richmond	pcnt_dentist	0.000272
-37155	North Carolina	Robeson	pcnt_dentist	0.000180
+37155	North Carolina	Robeson	pcnt_dentist	0.00018
 37157	North Carolina	Rockingham	pcnt_dentist	0.000264
 37159	North Carolina	Rowan	pcnt_dentist	0.000351
 37161	North Carolina	Rutherford	pcnt_dentist	0.000217
@@ -1980,7 +1980,7 @@ FIPS	State	County	Variable	pcnt_dentist
 37181	North Carolina	Vance	pcnt_dentist	0.000368
 37183	North Carolina	Wake	pcnt_dentist	0.000627
 37185	North Carolina	Warren	pcnt_dentist	0.000181
-37187	North Carolina	Washington	pcnt_dentist	0.000300
+37187	North Carolina	Washington	pcnt_dentist	0.0003
 37189	North Carolina	Watauga	pcnt_dentist	0.000515
 37191	North Carolina	Wayne	pcnt_dentist	0.000405
 37193	North Carolina	Wilkes	pcnt_dentist	0.000256
@@ -1992,7 +1992,7 @@ FIPS	State	County	Variable	pcnt_dentist
 38005	North Dakota	Benson	pcnt_dentist	0.000149
 38007	North Dakota	Billings	pcnt_dentist	0.030691
 38009	North Dakota	Bottineau	pcnt_dentist	0.000299
-38011	North Dakota	Bowman	pcnt_dentist	0.000620
+38011	North Dakota	Bowman	pcnt_dentist	0.00062
 38013	North Dakota	Burke	pcnt_dentist	0.012208
 38015	North Dakota	Burleigh	pcnt_dentist	0.000711
 38017	North Dakota	Cass	pcnt_dentist	0.000631
@@ -2000,7 +2000,7 @@ FIPS	State	County	Variable	pcnt_dentist
 38021	North Dakota	Dickey	pcnt_dentist	0.000358
 38023	North Dakota	Divide	pcnt_dentist	0.011178
 38025	North Dakota	Dunn	pcnt_dentist	0.006541
-38027	North Dakota	Eddy	pcnt_dentist	0.000810
+38027	North Dakota	Eddy	pcnt_dentist	0.00081
 38029	North Dakota	Emmons	pcnt_dentist	0.000278
 38031	North Dakota	Foster	pcnt_dentist	0.000587
 38033	North Dakota	Golden Valley	pcnt_dentist	0.013817
@@ -2018,7 +2018,7 @@ FIPS	State	County	Variable	pcnt_dentist
 38057	North Dakota	Mercer	pcnt_dentist	0.000468
 38059	North Dakota	Morton	pcnt_dentist	0.000248
 38061	North Dakota	Mountrail	pcnt_dentist	0.000241
-38063	North Dakota	Nelson	pcnt_dentist	0.007500
+38063	North Dakota	Nelson	pcnt_dentist	0.0075
 38065	North Dakota	Oliver	pcnt_dentist	0.000544
 38067	North Dakota	Pembina	pcnt_dentist	0.000264
 38069	North Dakota	Pierce	pcnt_dentist	0.000433
@@ -2027,7 +2027,7 @@ FIPS	State	County	Variable	pcnt_dentist
 38075	North Dakota	Renville	pcnt_dentist	0.000395
 38077	North Dakota	Richland	pcnt_dentist	0.000635
 38079	North Dakota	Rolette	pcnt_dentist	0.000567
-38081	North Dakota	Sargent	pcnt_dentist	0.006240
+38081	North Dakota	Sargent	pcnt_dentist	0.00624
 38083	North Dakota	Sheridan	pcnt_dentist	0.018279
 38085	North Dakota	Sioux	pcnt_dentist	0.000238
 38087	North Dakota	Slope	pcnt_dentist	0.032967
@@ -2048,10 +2048,10 @@ FIPS	State	County	Variable	pcnt_dentist
 39011	Ohio	Auglaize	pcnt_dentist	0.000344
 39013	Ohio	Belmont	pcnt_dentist	0.000364
 39015	Ohio	Brown	pcnt_dentist	0.000176
-39017	Ohio	Butler	pcnt_dentist	0.000400
+39017	Ohio	Butler	pcnt_dentist	0.0004
 39019	Ohio	Carroll	pcnt_dentist	0.000274
 39021	Ohio	Champaign	pcnt_dentist	0.000221
-39023	Ohio	Clark	pcnt_dentist	0.000390
+39023	Ohio	Clark	pcnt_dentist	0.00039
 39025	Ohio	Clermont	pcnt_dentist	0.000361
 39027	Ohio	Clinton	pcnt_dentist	0.000325
 39029	Ohio	Columbiana	pcnt_dentist	0.000224
@@ -2103,7 +2103,7 @@ FIPS	State	County	Variable	pcnt_dentist
 39121	Ohio	Noble	pcnt_dentist	0.000115
 39123	Ohio	Ottawa	pcnt_dentist	0.000358
 39125	Ohio	Paulding	pcnt_dentist	0.000152
-39127	Ohio	Perry	pcnt_dentist	0.000220
+39127	Ohio	Perry	pcnt_dentist	0.00022
 39129	Ohio	Pickaway	pcnt_dentist	0.000299
 39131	Ohio	Pike	pcnt_dentist	0.000377
 39133	Ohio	Portage	pcnt_dentist	0.000307
@@ -2114,12 +2114,12 @@ FIPS	State	County	Variable	pcnt_dentist
 39143	Ohio	Sandusky	pcnt_dentist	0.000437
 39145	Ohio	Scioto	pcnt_dentist	0.000289
 39147	Ohio	Seneca	pcnt_dentist	0.000355
-39149	Ohio	Shelby	pcnt_dentist	0.000220
+39149	Ohio	Shelby	pcnt_dentist	0.00022
 39151	Ohio	Stark	pcnt_dentist	0.000515
 39153	Ohio	Summit	pcnt_dentist	0.000557
 39155	Ohio	Trumbull	pcnt_dentist	0.000459
-39157	Ohio	Tuscarawas	pcnt_dentist	0.000320
-39159	Ohio	Union	pcnt_dentist	0.000380
+39157	Ohio	Tuscarawas	pcnt_dentist	0.00032
+39159	Ohio	Union	pcnt_dentist	0.00038
 39161	Ohio	Van Wert	pcnt_dentist	0.000275
 39163	Ohio	Vinton	pcnt_dentist	0.000148
 39165	Ohio	Warren	pcnt_dentist	0.000315
@@ -2132,37 +2132,37 @@ FIPS	State	County	Variable	pcnt_dentist
 40003	Oklahoma	Alfalfa	pcnt_dentist	0.000149
 40005	Oklahoma	Atoka	pcnt_dentist	0.000267
 40007	Oklahoma	Beaver	pcnt_dentist	0.000176
-40009	Oklahoma	Beckham	pcnt_dentist	0.000460
+40009	Oklahoma	Beckham	pcnt_dentist	0.00046
 40011	Oklahoma	Blaine	pcnt_dentist	0.000496
 40013	Oklahoma	Bryan	pcnt_dentist	0.000297
-40015	Oklahoma	Caddo	pcnt_dentist	0.000190
-40017	Oklahoma	Canadian	pcnt_dentist	0.000370
+40015	Oklahoma	Caddo	pcnt_dentist	0.00019
+40017	Oklahoma	Canadian	pcnt_dentist	0.00037
 40019	Oklahoma	Carter	pcnt_dentist	0.000558
 40021	Oklahoma	Cherokee	pcnt_dentist	0.000529
-40023	Oklahoma	Choctaw	pcnt_dentist	0.000260
+40023	Oklahoma	Choctaw	pcnt_dentist	0.00026
 40025	Oklahoma	Cimarron	pcnt_dentist	0.000404
-40027	Oklahoma	Cleveland	pcnt_dentist	0.000370
+40027	Oklahoma	Cleveland	pcnt_dentist	0.00037
 40029	Oklahoma	Coal	pcnt_dentist	0.000167
-40031	Oklahoma	Comanche	pcnt_dentist	0.000700
+40031	Oklahoma	Comanche	pcnt_dentist	0.0007
 40033	Oklahoma	Cotton	pcnt_dentist	#VALUE!
-40035	Oklahoma	Craig	pcnt_dentist	0.000310
+40035	Oklahoma	Craig	pcnt_dentist	0.00031
 40037	Oklahoma	Creek	pcnt_dentist	0.000267
 40039	Oklahoma	Custer	pcnt_dentist	0.000413
-40041	Oklahoma	Delaware	pcnt_dentist	0.000430
+40041	Oklahoma	Delaware	pcnt_dentist	0.00043
 40043	Oklahoma	Dewey	pcnt_dentist	0.000203
 40045	Oklahoma	Ellis	pcnt_dentist	0.000476
 40047	Oklahoma	Garfield	pcnt_dentist	0.000543
 40049	Oklahoma	Garvin	pcnt_dentist	0.000287
 40051	Oklahoma	Grady	pcnt_dentist	0.000243
 40053	Oklahoma	Grant	pcnt_dentist	#VALUE!
-40055	Oklahoma	Greer	pcnt_dentist	0.000680
+40055	Oklahoma	Greer	pcnt_dentist	0.00068
 40057	Oklahoma	Harmon	pcnt_dentist	0.007926
 40059	Oklahoma	Harper	pcnt_dentist	0.000268
 40061	Oklahoma	Haskell	pcnt_dentist	0.000311
 40063	Oklahoma	Hughes	pcnt_dentist	0.000257
 40065	Oklahoma	Jackson	pcnt_dentist	0.000479
 40067	Oklahoma	Jefferson	pcnt_dentist	0.000152
-40069	Oklahoma	Johnston	pcnt_dentist	0.000620
+40069	Oklahoma	Johnston	pcnt_dentist	0.00062
 40071	Oklahoma	Kay	pcnt_dentist	0.000419
 40073	Oklahoma	Kingfisher	pcnt_dentist	0.000328
 40075	Oklahoma	Kiowa	pcnt_dentist	0.000313
@@ -2183,7 +2183,7 @@ FIPS	State	County	Variable	pcnt_dentist
 40105	Oklahoma	Nowata	pcnt_dentist	0.000187
 40107	Oklahoma	Okfuskee	pcnt_dentist	0.000149
 40109	Oklahoma	Oklahoma	pcnt_dentist	0.000884
-40111	Oklahoma	Okmulgee	pcnt_dentist	0.000410
+40111	Oklahoma	Okmulgee	pcnt_dentist	0.00041
 40113	Oklahoma	Osage	pcnt_dentist	0.000204
 40115	Oklahoma	Ottawa	pcnt_dentist	0.000183
 40117	Oklahoma	Pawnee	pcnt_dentist	0.000537
@@ -2223,8 +2223,8 @@ FIPS	State	County	Variable	pcnt_dentist
 41031	Oregon	Jefferson	pcnt_dentist	0.000355
 41033	Oregon	Josephine	pcnt_dentist	0.000664
 41035	Oregon	Klamath	pcnt_dentist	0.000684
-41037	Oregon	Lake	pcnt_dentist	0.000240
-41039	Oregon	Lane	pcnt_dentist	0.000600
+41037	Oregon	Lake	pcnt_dentist	0.00024
+41039	Oregon	Lane	pcnt_dentist	0.0006
 41041	Oregon	Lincoln	pcnt_dentist	0.000513
 41043	Oregon	Linn	pcnt_dentist	0.000491
 41045	Oregon	Malheur	pcnt_dentist	0.000606
@@ -2234,11 +2234,11 @@ FIPS	State	County	Variable	pcnt_dentist
 41053	Oregon	Polk	pcnt_dentist	0.000336
 41055	Oregon	Sherman	pcnt_dentist	0.013552
 41057	Oregon	Tillamook	pcnt_dentist	0.000427
-41059	Oregon	Umatilla	pcnt_dentist	0.000450
+41059	Oregon	Umatilla	pcnt_dentist	0.00045
 41061	Oregon	Union	pcnt_dentist	0.000566
 41063	Oregon	Wallowa	pcnt_dentist	0.000281
 41065	Oregon	Wasco	pcnt_dentist	0.000577
-41067	Oregon	Washington	pcnt_dentist	0.000810
+41067	Oregon	Washington	pcnt_dentist	0.00081
 41069	Oregon	Wheeler	pcnt_dentist	0.001357
 41071	Oregon	Yamhill	pcnt_dentist	0.000458
 42001	Pennsylvania	Adams	pcnt_dentist	0.000266
@@ -2260,7 +2260,7 @@ FIPS	State	County	Variable	pcnt_dentist
 42033	Pennsylvania	Clearfield	pcnt_dentist	0.000392
 42035	Pennsylvania	Clinton	pcnt_dentist	0.000409
 42037	Pennsylvania	Columbia	pcnt_dentist	0.000403
-42039	Pennsylvania	Crawford	pcnt_dentist	0.000410
+42039	Pennsylvania	Crawford	pcnt_dentist	0.00041
 42041	Pennsylvania	Cumberland	pcnt_dentist	0.000561
 42043	Pennsylvania	Dauphin	pcnt_dentist	0.000658
 42045	Pennsylvania	Delaware	pcnt_dentist	0.000756
@@ -2274,7 +2274,7 @@ FIPS	State	County	Variable	pcnt_dentist
 42061	Pennsylvania	Huntingdon	pcnt_dentist	0.000296
 42063	Pennsylvania	Indiana	pcnt_dentist	0.000327
 42065	Pennsylvania	Jefferson	pcnt_dentist	0.000391
-42067	Pennsylvania	Juniata	pcnt_dentist	0.000080
+42067	Pennsylvania	Juniata	pcnt_dentist	0.00008
 42069	Pennsylvania	Lackawanna	pcnt_dentist	0.000634
 42071	Pennsylvania	Lancaster	pcnt_dentist	0.000432
 42073	Pennsylvania	Lawrence	pcnt_dentist	0.000472
@@ -2290,12 +2290,12 @@ FIPS	State	County	Variable	pcnt_dentist
 42093	Pennsylvania	Montour	pcnt_dentist	0.000784
 42095	Pennsylvania	Northampton	pcnt_dentist	0.000441
 42097	Pennsylvania	Northumberland	pcnt_dentist	0.000307
-42099	Pennsylvania	Perry	pcnt_dentist	0.000150
+42099	Pennsylvania	Perry	pcnt_dentist	0.00015
 42101	Pennsylvania	Philadelphia	pcnt_dentist	0.000534
-42103	Pennsylvania	Pike	pcnt_dentist	0.000190
+42103	Pennsylvania	Pike	pcnt_dentist	0.00019
 42105	Pennsylvania	Potter	pcnt_dentist	0.000283
 42107	Pennsylvania	Schuylkill	pcnt_dentist	0.000355
-42109	Pennsylvania	Snyder	pcnt_dentist	0.000380
+42109	Pennsylvania	Snyder	pcnt_dentist	0.00038
 42111	Pennsylvania	Somerset	pcnt_dentist	0.000401
 42113	Pennsylvania	Sullivan	pcnt_dentist	0.000146
 42115	Pennsylvania	Susquehanna	pcnt_dentist	0.000229
@@ -2308,10 +2308,10 @@ FIPS	State	County	Variable	pcnt_dentist
 42129	Pennsylvania	Westmoreland	pcnt_dentist	0.000563
 42131	Pennsylvania	Wyoming	pcnt_dentist	0.000379
 42133	Pennsylvania	York	pcnt_dentist	0.000428
-44001	Rhode Island	Bristol	pcnt_dentist	0.000320
+44001	Rhode Island	Bristol	pcnt_dentist	0.00032
 44003	Rhode Island	Kent	pcnt_dentist	0.000668
 44005	Rhode Island	Newport	pcnt_dentist	0.000833
-44007	Rhode Island	Providence	pcnt_dentist	0.000530
+44007	Rhode Island	Providence	pcnt_dentist	0.00053
 44009	Rhode Island	Washington	pcnt_dentist	0.000465
 45001	South Carolina	Abbeville	pcnt_dentist	0.000076
 45003	South Carolina	Aiken	pcnt_dentist	0.000369
@@ -2320,18 +2320,18 @@ FIPS	State	County	Variable	pcnt_dentist
 45009	South Carolina	Bamberg	pcnt_dentist	0.000348
 45011	South Carolina	Barnwell	pcnt_dentist	0.000218
 45013	South Carolina	Beaufort	pcnt_dentist	0.000886
-45015	South Carolina	Berkeley	pcnt_dentist	0.000230
+45015	South Carolina	Berkeley	pcnt_dentist	0.00023
 45017	South Carolina	Calhoun	pcnt_dentist	0.000262
 45019	South Carolina	Charleston	pcnt_dentist	0.000929
 45021	South Carolina	Cherokee	pcnt_dentist	0.000196
-45023	South Carolina	Chester	pcnt_dentist	0.000210
+45023	South Carolina	Chester	pcnt_dentist	0.00021
 45025	South Carolina	Chesterfield	pcnt_dentist	0.000189
 45027	South Carolina	Clarendon	pcnt_dentist	0.000273
 45029	South Carolina	Colleton	pcnt_dentist	0.000254
 45031	South Carolina	Darlington	pcnt_dentist	0.000214
 45033	South Carolina	Dillon	pcnt_dentist	0.000246
-45035	South Carolina	Dorchester	pcnt_dentist	0.000480
-45037	South Carolina	Edgefield	pcnt_dentist	0.000200
+45035	South Carolina	Dorchester	pcnt_dentist	0.00048
+45037	South Carolina	Edgefield	pcnt_dentist	0.0002
 45039	South Carolina	Fairfield	pcnt_dentist	0.000082
 45041	South Carolina	Florence	pcnt_dentist	0.000585
 45043	South Carolina	Georgetown	pcnt_dentist	0.000461
@@ -2340,7 +2340,7 @@ FIPS	State	County	Variable	pcnt_dentist
 45049	South Carolina	Hampton	pcnt_dentist	0.000221
 45051	South Carolina	Horry	pcnt_dentist	0.000362
 45053	South Carolina	Jasper	pcnt_dentist	0.000265
-45055	South Carolina	Kershaw	pcnt_dentist	0.000240
+45055	South Carolina	Kershaw	pcnt_dentist	0.00024
 45057	South Carolina	Lancaster	pcnt_dentist	0.000316
 45059	South Carolina	Laurens	pcnt_dentist	0.000247
 45061	South Carolina	Lee	pcnt_dentist	0.000094
@@ -2352,13 +2352,13 @@ FIPS	State	County	Variable	pcnt_dentist
 45073	South Carolina	Oconee	pcnt_dentist	0.000399
 45075	South Carolina	Orangeburg	pcnt_dentist	0.000251
 45077	South Carolina	Pickens	pcnt_dentist	0.000404
-45079	South Carolina	Richland	pcnt_dentist	0.000680
+45079	South Carolina	Richland	pcnt_dentist	0.00068
 45081	South Carolina	Saluda	pcnt_dentist	0.000198
 45083	South Carolina	Spartanburg	pcnt_dentist	0.000396
 45085	South Carolina	Sumter	pcnt_dentist	0.000363
-45087	South Carolina	Union	pcnt_dentist	0.000170
+45087	South Carolina	Union	pcnt_dentist	0.00017
 45089	South Carolina	Williamsburg	pcnt_dentist	0.000112
-45091	South Carolina	York	pcnt_dentist	0.000420
+45091	South Carolina	York	pcnt_dentist	0.00042
 46003	South Dakota	Aurora	pcnt_dentist	0.008559
 46005	South Dakota	Beadle	pcnt_dentist	0.000499
 46007	South Dakota	Bennett	pcnt_dentist	0.000287
@@ -2385,7 +2385,7 @@ FIPS	State	County	Variable	pcnt_dentist
 46049	South Dakota	Faulk	pcnt_dentist	0.008374
 46051	South Dakota	Grant	pcnt_dentist	0.000402
 46053	South Dakota	Gregory	pcnt_dentist	0.000464
-46055	South Dakota	Haakon	pcnt_dentist	0.000510
+46055	South Dakota	Haakon	pcnt_dentist	0.00051
 46057	South Dakota	Hamlin	pcnt_dentist	#VALUE!
 46059	South Dakota	Hand	pcnt_dentist	0.000286
 46061	South Dakota	Hanson	pcnt_dentist	0.006222
@@ -2408,7 +2408,7 @@ FIPS	State	County	Variable	pcnt_dentist
 46095	South Dakota	Mellette	pcnt_dentist	0.011456
 46097	South Dakota	Miner	pcnt_dentist	0.001218
 46099	South Dakota	Minnehaha	pcnt_dentist	0.000482
-46101	South Dakota	Moody	pcnt_dentist	0.000300
+46101	South Dakota	Moody	pcnt_dentist	0.0003
 46103	South Dakota	Pennington	pcnt_dentist	0.000703
 46105	South Dakota	Perkins	pcnt_dentist	0.000328
 46107	South Dakota	Potter	pcnt_dentist	0.000416
@@ -2427,7 +2427,7 @@ FIPS	State	County	Variable	pcnt_dentist
 46137	South Dakota	Ziebach	pcnt_dentist	0.008499
 47001	Tennessee	Anderson	pcnt_dentist	0.000616
 47003	Tennessee	Bedford	pcnt_dentist	0.000263
-47005	Tennessee	Benton	pcnt_dentist	0.000180
+47005	Tennessee	Benton	pcnt_dentist	0.00018
 47007	Tennessee	Bledsoe	pcnt_dentist	0.000143
 47009	Tennessee	Blount	pcnt_dentist	0.000519
 47011	Tennessee	Bradley	pcnt_dentist	0.000393
@@ -2443,9 +2443,9 @@ FIPS	State	County	Variable	pcnt_dentist
 47031	Tennessee	Coffee	pcnt_dentist	0.000787
 47033	Tennessee	Crockett	pcnt_dentist	0.000338
 47035	Tennessee	Cumberland	pcnt_dentist	0.000281
-47037	Tennessee	Davidson	pcnt_dentist	0.000670
+47037	Tennessee	Davidson	pcnt_dentist	0.00067
 47039	Tennessee	Decatur	pcnt_dentist	0.000502
-47041	Tennessee	DeKalb	pcnt_dentist	0.000210
+47041	Tennessee	DeKalb	pcnt_dentist	0.00021
 47043	Tennessee	Dickson	pcnt_dentist	0.000536
 47045	Tennessee	Dyer	pcnt_dentist	0.000438
 47047	Tennessee	Fayette	pcnt_dentist	0.000283
@@ -2457,7 +2457,7 @@ FIPS	State	County	Variable	pcnt_dentist
 47059	Tennessee	Greene	pcnt_dentist	0.000368
 47061	Tennessee	Grundy	pcnt_dentist	#VALUE!
 47063	Tennessee	Hamblen	pcnt_dentist	0.000519
-47065	Tennessee	Hamilton	pcnt_dentist	0.000640
+47065	Tennessee	Hamilton	pcnt_dentist	0.00064
 47067	Tennessee	Hancock	pcnt_dentist	0.000143
 47069	Tennessee	Hardeman	pcnt_dentist	0.000258
 47071	Tennessee	Hardin	pcnt_dentist	0.000227
@@ -2471,7 +2471,7 @@ FIPS	State	County	Variable	pcnt_dentist
 47087	Tennessee	Jackson	pcnt_dentist	0.000169
 47089	Tennessee	Jefferson	pcnt_dentist	0.000207
 47091	Tennessee	Johnson	pcnt_dentist	0.000299
-47093	Tennessee	Knox	pcnt_dentist	0.000530
+47093	Tennessee	Knox	pcnt_dentist	0.00053
 47095	Tennessee	Lake	pcnt_dentist	0.000194
 47097	Tennessee	Lauderdale	pcnt_dentist	0.000131
 47099	Tennessee	Lawrence	pcnt_dentist	0.000236
@@ -2482,8 +2482,8 @@ FIPS	State	County	Variable	pcnt_dentist
 47109	Tennessee	McNairy	pcnt_dentist	0.000341
 47111	Tennessee	Macon	pcnt_dentist	0.000177
 47113	Tennessee	Madison	pcnt_dentist	0.000604
-47115	Tennessee	Marion	pcnt_dentist	0.000140
-47117	Tennessee	Marshall	pcnt_dentist	0.000290
+47115	Tennessee	Marion	pcnt_dentist	0.00014
+47117	Tennessee	Marshall	pcnt_dentist	0.00029
 47119	Tennessee	Maury	pcnt_dentist	0.000523
 47121	Tennessee	Meigs	pcnt_dentist	0.000084
 47123	Tennessee	Monroe	pcnt_dentist	0.000311
@@ -2501,7 +2501,7 @@ FIPS	State	County	Variable	pcnt_dentist
 47147	Tennessee	Robertson	pcnt_dentist	0.000268
 47149	Tennessee	Rutherford	pcnt_dentist	0.000402
 47151	Tennessee	Scott	pcnt_dentist	0.000267
-47153	Tennessee	Sequatchie	pcnt_dentist	0.000210
+47153	Tennessee	Sequatchie	pcnt_dentist	0.00021
 47155	Tennessee	Sevier	pcnt_dentist	0.000274
 47157	Tennessee	Shelby	pcnt_dentist	0.000586
 47159	Tennessee	Smith	pcnt_dentist	0.000207
@@ -2527,7 +2527,7 @@ FIPS	State	County	Variable	pcnt_dentist
 48009	Texas	Archer	pcnt_dentist	#VALUE!
 48011	Texas	Armstrong	pcnt_dentist	0.012276
 48013	Texas	Atascosa	pcnt_dentist	0.000308
-48015	Texas	Austin	pcnt_dentist	0.000140
+48015	Texas	Austin	pcnt_dentist	0.00014
 48017	Texas	Bailey	pcnt_dentist	0.000274
 48019	Texas	Bandera	pcnt_dentist	0.000144
 48021	Texas	Bastrop	pcnt_dentist	0.000196
@@ -2539,7 +2539,7 @@ FIPS	State	County	Variable	pcnt_dentist
 48033	Texas	Borden	pcnt_dentist	0.037152
 48035	Texas	Bosque	pcnt_dentist	0.000377
 48037	Texas	Bowie	pcnt_dentist	0.000475
-48039	Texas	Brazoria	pcnt_dentist	0.000360
+48039	Texas	Brazoria	pcnt_dentist	0.00036
 48041	Texas	Brazos	pcnt_dentist	0.000392
 48043	Texas	Brewster	pcnt_dentist	0.000214
 48045	Texas	Briscoe	pcnt_dentist	0.014724
@@ -2552,8 +2552,8 @@ FIPS	State	County	Variable	pcnt_dentist
 48059	Texas	Callahan	pcnt_dentist	0.000147
 48061	Texas	Cameron	pcnt_dentist	0.000228
 48063	Texas	Camp	pcnt_dentist	0.000401
-48065	Texas	Carson	pcnt_dentist	0.000160
-48067	Texas	Cass	pcnt_dentist	0.000260
+48065	Texas	Carson	pcnt_dentist	0.00016
+48067	Texas	Cass	pcnt_dentist	0.00026
 48069	Texas	Castro	pcnt_dentist	0.000122
 48071	Texas	Chambers	pcnt_dentist	0.000028
 48073	Texas	Cherokee	pcnt_dentist	0.000242
@@ -2563,7 +2563,7 @@ FIPS	State	County	Variable	pcnt_dentist
 48081	Texas	Coke	pcnt_dentist	0.007143
 48083	Texas	Coleman	pcnt_dentist	0.000224
 48085	Texas	Collin	pcnt_dentist	0.000564
-48087	Texas	Collingsworth	pcnt_dentist	0.007720
+48087	Texas	Collingsworth	pcnt_dentist	0.00772
 48089	Texas	Colorado	pcnt_dentist	0.000283
 48091	Texas	Comal	pcnt_dentist	0.000589
 48093	Texas	Comanche	pcnt_dentist	0.000212
@@ -2577,24 +2577,24 @@ FIPS	State	County	Variable	pcnt_dentist
 48109	Texas	Culberson	pcnt_dentist	0.009954
 48111	Texas	Dallam	pcnt_dentist	0.000295
 48113	Texas	Dallas	pcnt_dentist	0.000655
-48115	Texas	Dawson	pcnt_dentist	0.000250
+48115	Texas	Dawson	pcnt_dentist	0.00025
 48117	Texas	Deaf Smith	pcnt_dentist	0.000252
 48119	Texas	Delta	pcnt_dentist	#VALUE!
-48121	Texas	Denton	pcnt_dentist	0.000450
+48121	Texas	Denton	pcnt_dentist	0.00045
 48123	Texas	DeWitt	pcnt_dentist	0.000137
-48125	Texas	Dickens	pcnt_dentist	0.008680
+48125	Texas	Dickens	pcnt_dentist	0.00868
 48127	Texas	Dimmit	pcnt_dentist	0.000197
 48129	Texas	Donley	pcnt_dentist	0.000255
 48131	Texas	Duval	pcnt_dentist	#VALUE!
 48133	Texas	Eastland	pcnt_dentist	0.000205
 48135	Texas	Ector	pcnt_dentist	0.000301
 48137	Texas	Edwards	pcnt_dentist	0.012018
-48139	Texas	Ellis	pcnt_dentist	0.000230
+48139	Texas	Ellis	pcnt_dentist	0.00023
 48141	Texas	El Paso	pcnt_dentist	0.000274
 48143	Texas	Erath	pcnt_dentist	0.000326
 48145	Texas	Falls	pcnt_dentist	0.000201
-48147	Texas	Fannin	pcnt_dentist	0.000270
-48149	Texas	Fayette	pcnt_dentist	0.000360
+48147	Texas	Fannin	pcnt_dentist	0.00027
+48149	Texas	Fayette	pcnt_dentist	0.00036
 48151	Texas	Fisher	pcnt_dentist	0.000252
 48153	Texas	Floyd	pcnt_dentist	0.000155
 48155	Texas	Foard	pcnt_dentist	0.017531
@@ -2603,11 +2603,11 @@ FIPS	State	County	Variable	pcnt_dentist
 48161	Texas	Freestone	pcnt_dentist	0.000187
 48163	Texas	Frio	pcnt_dentist	0.000146
 48165	Texas	Gaines	pcnt_dentist	0.000056
-48167	Texas	Galveston	pcnt_dentist	0.000360
+48167	Texas	Galveston	pcnt_dentist	0.00036
 48169	Texas	Garza	pcnt_dentist	0.000117
 48171	Texas	Gillespie	pcnt_dentist	0.000593
 48173	Texas	Glasscock	pcnt_dentist	0.019528
-48175	Texas	Goliad	pcnt_dentist	0.000410
+48175	Texas	Goliad	pcnt_dentist	0.00041
 48177	Texas	Gonzales	pcnt_dentist	0.000347
 48179	Texas	Gray	pcnt_dentist	0.000291
 48181	Texas	Grayson	pcnt_dentist	0.000487
@@ -2639,15 +2639,15 @@ FIPS	State	County	Variable	pcnt_dentist
 48233	Texas	Hutchinson	pcnt_dentist	0.000224
 48235	Texas	Irion	pcnt_dentist	0.014916
 48237	Texas	Jack	pcnt_dentist	0.000098
-48239	Texas	Jackson	pcnt_dentist	0.000210
+48239	Texas	Jackson	pcnt_dentist	0.00021
 48241	Texas	Jasper	pcnt_dentist	0.000299
-48243	Texas	Jeff Davis	pcnt_dentist	0.009860
+48243	Texas	Jeff Davis	pcnt_dentist	0.00986
 48245	Texas	Jefferson	pcnt_dentist	0.000455
 48247	Texas	Jim Hogg	pcnt_dentist	0.000188
 48249	Texas	Jim Wells	pcnt_dentist	0.000242
 48251	Texas	Johnson	pcnt_dentist	0.000299
-48253	Texas	Jones	pcnt_dentist	0.000040
-48255	Texas	Karnes	pcnt_dentist	0.000220
+48253	Texas	Jones	pcnt_dentist	0.00004
+48255	Texas	Karnes	pcnt_dentist	0.00022
 48257	Texas	Kaufman	pcnt_dentist	0.000218
 48259	Texas	Kendall	pcnt_dentist	0.000789
 48261	Texas	Kenedy	pcnt_dentist	0.057279
@@ -2660,16 +2660,16 @@ FIPS	State	County	Variable	pcnt_dentist
 48275	Texas	Knox	pcnt_dentist	0.006248
 48277	Texas	Lamar	pcnt_dentist	0.000455
 48279	Texas	Lamb	pcnt_dentist	0.000141
-48281	Texas	Lampasas	pcnt_dentist	0.000150
+48281	Texas	Lampasas	pcnt_dentist	0.00015
 48283	Texas	La Salle	pcnt_dentist	0.000354
 48285	Texas	Lavaca	pcnt_dentist	0.000254
 48287	Texas	Lee	pcnt_dentist	0.000292
 48289	Texas	Leon	pcnt_dentist	0.000178
 48291	Texas	Liberty	pcnt_dentist	0.000197
-48293	Texas	Limestone	pcnt_dentist	0.000200
+48293	Texas	Limestone	pcnt_dentist	0.0002
 48295	Texas	Lipscomb	pcnt_dentist	0.007225
 48297	Texas	Live Oak	pcnt_dentist	0.000157
-48299	Texas	Llano	pcnt_dentist	0.000410
+48299	Texas	Llano	pcnt_dentist	0.00041
 48301	Texas	Loving	pcnt_dentist	0.289157
 48303	Texas	Lubbock	pcnt_dentist	0.000457
 48305	Texas	Lynn	pcnt_dentist	0.000168
@@ -2707,18 +2707,18 @@ FIPS	State	County	Variable	pcnt_dentist
 48369	Texas	Parmer	pcnt_dentist	0.000096
 48371	Texas	Pecos	pcnt_dentist	0.000114
 48373	Texas	Polk	pcnt_dentist	0.000141
-48375	Texas	Potter	pcnt_dentist	0.000460
+48375	Texas	Potter	pcnt_dentist	0.00046
 48377	Texas	Presidio	pcnt_dentist	0.000127
 48379	Texas	Rains	pcnt_dentist	0.000091
 48381	Texas	Randall	pcnt_dentist	0.000495
 48383	Texas	Reagan	pcnt_dentist	0.007111
-48385	Texas	Real	pcnt_dentist	0.000590
-48387	Texas	Red River	pcnt_dentist	0.000230
+48385	Texas	Real	pcnt_dentist	0.00059
+48387	Texas	Red River	pcnt_dentist	0.00023
 48389	Texas	Reeves	pcnt_dentist	0.000059
 48391	Texas	Refugio	pcnt_dentist	0.000267
 48393	Texas	Roberts	pcnt_dentist	0.025974
 48395	Texas	Robertson	pcnt_dentist	0.000119
-48397	Texas	Rockwall	pcnt_dentist	0.000590
+48397	Texas	Rockwall	pcnt_dentist	0.00059
 48399	Texas	Runnels	pcnt_dentist	0.000187
 48401	Texas	Rusk	pcnt_dentist	0.000171
 48403	Texas	Sabine	pcnt_dentist	0.000366
@@ -2728,7 +2728,7 @@ FIPS	State	County	Variable	pcnt_dentist
 48411	Texas	San Saba	pcnt_dentist	0.000147
 48413	Texas	Schleicher	pcnt_dentist	0.006847
 48415	Texas	Scurry	pcnt_dentist	0.000214
-48417	Texas	Shackelford	pcnt_dentist	0.007040
+48417	Texas	Shackelford	pcnt_dentist	0.00704
 48419	Texas	Shelby	pcnt_dentist	0.000195
 48421	Texas	Sherman	pcnt_dentist	0.007833
 48423	Texas	Smith	pcnt_dentist	0.000499
@@ -2743,40 +2743,40 @@ FIPS	State	County	Variable	pcnt_dentist
 48441	Texas	Taylor	pcnt_dentist	0.000576
 48443	Texas	Terrell	pcnt_dentist	0.023881
 48445	Texas	Terry	pcnt_dentist	0.000145
-48447	Texas	Throckmorton	pcnt_dentist	0.014590
+48447	Texas	Throckmorton	pcnt_dentist	0.01459
 48449	Texas	Titus	pcnt_dentist	0.000396
 48451	Texas	Tom Green	pcnt_dentist	0.000501
 48453	Texas	Travis	pcnt_dentist	0.000587
 48455	Texas	Trinity	pcnt_dentist	0.000068
 48457	Texas	Tyler	pcnt_dentist	0.000124
-48459	Texas	Upshur	pcnt_dentist	0.000100
+48459	Texas	Upshur	pcnt_dentist	0.0001
 48461	Texas	Upton	pcnt_dentist	0.007007
-48463	Texas	Uvalde	pcnt_dentist	0.000370
+48463	Texas	Uvalde	pcnt_dentist	0.00037
 48465	Texas	Val Verde	pcnt_dentist	0.000255
 48467	Texas	Van Zandt	pcnt_dentist	0.000244
-48469	Texas	Victoria	pcnt_dentist	0.000430
+48469	Texas	Victoria	pcnt_dentist	0.00043
 48471	Texas	Walker	pcnt_dentist	0.000224
 48473	Texas	Waller	pcnt_dentist	0.000127
 48475	Texas	Ward	pcnt_dentist	#VALUE!
 48477	Texas	Washington	pcnt_dentist	0.000309
-48479	Texas	Webb	pcnt_dentist	0.000200
+48479	Texas	Webb	pcnt_dentist	0.0002
 48481	Texas	Wharton	pcnt_dentist	0.000311
 48483	Texas	Wheeler	pcnt_dentist	0.000367
 48485	Texas	Wichita	pcnt_dentist	0.000675
 48487	Texas	Wilbarger	pcnt_dentist	0.000142
 48489	Texas	Willacy	pcnt_dentist	0.000039
 48491	Texas	Williamson	pcnt_dentist	0.000477
-48493	Texas	Wilson	pcnt_dentist	0.000160
+48493	Texas	Wilson	pcnt_dentist	0.00016
 48495	Texas	Winkler	pcnt_dentist	0.000278
-48497	Texas	Wise	pcnt_dentist	0.000250
+48497	Texas	Wise	pcnt_dentist	0.00025
 48499	Texas	Wood	pcnt_dentist	0.000255
 48501	Texas	Yoakum	pcnt_dentist	0.000126
 48503	Texas	Young	pcnt_dentist	0.000478
 48505	Texas	Zapata	pcnt_dentist	0.000142
 48507	Texas	Zavala	pcnt_dentist	0.000082
-49001	Utah	Beaver	pcnt_dentist	0.000450
+49001	Utah	Beaver	pcnt_dentist	0.00045
 49003	Utah	Box Elder	pcnt_dentist	0.000594
-49005	Utah	Cache	pcnt_dentist	0.000590
+49005	Utah	Cache	pcnt_dentist	0.00059
 49007	Utah	Carbon	pcnt_dentist	0.000637
 49009	Utah	Daggett	pcnt_dentist	0.021258
 49011	Utah	Davis	pcnt_dentist	0.000598
@@ -2794,7 +2794,7 @@ FIPS	State	County	Variable	pcnt_dentist
 49035	Utah	Salt Lake	pcnt_dentist	0.000701
 49037	Utah	San Juan	pcnt_dentist	0.000662
 49039	Utah	Sanpete	pcnt_dentist	0.000396
-49041	Utah	Sevier	pcnt_dentist	0.000710
+49041	Utah	Sevier	pcnt_dentist	0.00071
 49043	Utah	Summit	pcnt_dentist	0.000464
 49045	Utah	Tooele	pcnt_dentist	0.000323
 49047	Utah	Uintah	pcnt_dentist	0.000429
@@ -2831,7 +2831,7 @@ FIPS	State	County	Variable	pcnt_dentist
 51023	Virginia	Botetourt	pcnt_dentist	0.000149
 51025	Virginia	Brunswick	pcnt_dentist	0.000153
 51027	Virginia	Buchanan	pcnt_dentist	0.000159
-51029	Virginia	Buckingham	pcnt_dentist	0.000360
+51029	Virginia	Buckingham	pcnt_dentist	0.00036
 51031	Virginia	Campbell	pcnt_dentist	0.000126
 51033	Virginia	Caroline	pcnt_dentist	0.000069
 51035	Virginia	Carroll	pcnt_dentist	0.000264
@@ -2847,7 +2847,7 @@ FIPS	State	County	Variable	pcnt_dentist
 51057	Virginia	Essex	pcnt_dentist	0.000704
 51059	Virginia	Fairfax	pcnt_dentist	0.000832
 51061	Virginia	Fauquier	pcnt_dentist	0.000547
-51063	Virginia	Floyd	pcnt_dentist	0.000130
+51063	Virginia	Floyd	pcnt_dentist	0.00013
 51065	Virginia	Fluvanna	pcnt_dentist	0.000148
 51067	Virginia	Franklin	pcnt_dentist	0.000208
 51069	Virginia	Frederick	pcnt_dentist	0.000138
@@ -2873,21 +2873,21 @@ FIPS	State	County	Variable	pcnt_dentist
 51109	Virginia	Louisa	pcnt_dentist	0.000209
 51111	Virginia	Lunenburg	pcnt_dentist	0.000142
 51113	Virginia	Madison	pcnt_dentist	0.000222
-51115	Virginia	Mathews	pcnt_dentist	0.000110
+51115	Virginia	Mathews	pcnt_dentist	0.00011
 51117	Virginia	Mecklenburg	pcnt_dentist	0.000261
 51119	Virginia	Middlesex	pcnt_dentist	0.000352
 51121	Virginia	Montgomery	pcnt_dentist	0.000366
 51125	Virginia	Nelson	pcnt_dentist	0.000463
 51127	Virginia	New Kent	pcnt_dentist	0.000157
 51131	Virginia	Northampton	pcnt_dentist	0.000708
-51133	Virginia	Northumberland	pcnt_dentist	0.000810
+51133	Virginia	Northumberland	pcnt_dentist	0.00081
 51135	Virginia	Nottoway	pcnt_dentist	0.000339
 51137	Virginia	Orange	pcnt_dentist	0.000176
 51139	Virginia	Page	pcnt_dentist	0.000165
-51141	Virginia	Patrick	pcnt_dentist	0.000160
+51141	Virginia	Patrick	pcnt_dentist	0.00016
 51143	Virginia	Pittsylvania	pcnt_dentist	0.000124
 51145	Virginia	Powhatan	pcnt_dentist	0.000394
-51147	Virginia	Prince Edward	pcnt_dentist	0.000180
+51147	Virginia	Prince Edward	pcnt_dentist	0.00018
 51149	Virginia	Prince George	pcnt_dentist	0.000099
 51153	Virginia	Prince William	pcnt_dentist	0.000426
 51155	Virginia	Pulaski	pcnt_dentist	0.000252
@@ -2900,14 +2900,14 @@ FIPS	State	County	Variable	pcnt_dentist
 51169	Virginia	Scott	pcnt_dentist	0.000168
 51171	Virginia	Shenandoah	pcnt_dentist	0.000259
 51173	Virginia	Smyth	pcnt_dentist	0.000455
-51175	Virginia	Southampton	pcnt_dentist	0.000050
+51175	Virginia	Southampton	pcnt_dentist	0.00005
 51177	Virginia	Spotsylvania	pcnt_dentist	0.000389
 51179	Virginia	Stafford	pcnt_dentist	0.000292
 51181	Virginia	Surry	pcnt_dentist	#VALUE!
 51183	Virginia	Sussex	pcnt_dentist	0.000136
-51185	Virginia	Tazewell	pcnt_dentist	0.000300
+51185	Virginia	Tazewell	pcnt_dentist	0.0003
 51187	Virginia	Warren	pcnt_dentist	0.000235
-51191	Virginia	Washington	pcnt_dentist	0.000460
+51191	Virginia	Washington	pcnt_dentist	0.00046
 51193	Virginia	Westmoreland	pcnt_dentist	0.000057
 51195	Virginia	Wise	pcnt_dentist	0.000179
 51197	Virginia	Wythe	pcnt_dentist	0.000339
@@ -2919,7 +2919,7 @@ FIPS	State	County	Variable	pcnt_dentist
 51540	Virginia	Charlottesville City	pcnt_dentist	0.000718
 51550	Virginia	Chesapeake City	pcnt_dentist	0.000392
 51570	Virginia	Colonial Heights City	pcnt_dentist	0.001996
-51580	Virginia	Covington City	pcnt_dentist	0.000660
+51580	Virginia	Covington City	pcnt_dentist	0.00066
 51590	Virginia	Danville City	pcnt_dentist	0.000766
 51595	Virginia	Emporia City	pcnt_dentist	0.000647
 51600	Virginia	Fairfax City	pcnt_dentist	#VALUE!
@@ -2928,7 +2928,7 @@ FIPS	State	County	Variable	pcnt_dentist
 51630	Virginia	Fredericksburg City	pcnt_dentist	0.001517
 51640	Virginia	Galax City	pcnt_dentist	0.000805
 51650	Virginia	Hampton City	pcnt_dentist	0.000776
-51660	Virginia	Harrisonburg City	pcnt_dentist	0.000760
+51660	Virginia	Harrisonburg City	pcnt_dentist	0.00076
 51670	Virginia	Hopewell City	pcnt_dentist	0.000481
 51678	Virginia	Lexington City	pcnt_dentist	0.000623
 51680	Virginia	Lynchburg City	pcnt_dentist	0.000815
@@ -2947,7 +2947,7 @@ FIPS	State	County	Variable	pcnt_dentist
 51775	Virginia	Salem City	pcnt_dentist	0.000941
 51790	Virginia	Staunton City	pcnt_dentist	0.000762
 51800	Virginia	Suffolk City	pcnt_dentist	0.000314
-51810	Virginia	Virginia Beach City	pcnt_dentist	0.000640
+51810	Virginia	Virginia Beach City	pcnt_dentist	0.00064
 51820	Virginia	Waynesboro City	pcnt_dentist	0.001176
 51830	Virginia	Williamsburg City	pcnt_dentist	#VALUE!
 51840	Virginia	Winchester City	pcnt_dentist	0.001323
@@ -2959,7 +2959,7 @@ FIPS	State	County	Variable	pcnt_dentist
 53011	Washington	Clark	pcnt_dentist	0.000618
 53013	Washington	Columbia	pcnt_dentist	0.000716
 53015	Washington	Cowlitz	pcnt_dentist	0.000511
-53017	Washington	Douglas	pcnt_dentist	0.000490
+53017	Washington	Douglas	pcnt_dentist	0.00049
 53019	Washington	Ferry	pcnt_dentist	0.000641
 53021	Washington	Franklin	pcnt_dentist	0.000358
 53023	Washington	Garfield	pcnt_dentist	0.000433
@@ -2980,11 +2980,11 @@ FIPS	State	County	Variable	pcnt_dentist
 53053	Washington	Pierce	pcnt_dentist	0.000668
 53055	Washington	San Juan	pcnt_dentist	0.000627
 53057	Washington	Skagit	pcnt_dentist	0.000691
-53059	Washington	Skamania	pcnt_dentist	0.000090
+53059	Washington	Skamania	pcnt_dentist	0.00009
 53061	Washington	Snohomish	pcnt_dentist	0.000616
 53063	Washington	Spokane	pcnt_dentist	0.000662
 53065	Washington	Stevens	pcnt_dentist	0.000411
-53067	Washington	Thurston	pcnt_dentist	0.000630
+53067	Washington	Thurston	pcnt_dentist	0.00063
 53069	Washington	Wahkiakum	pcnt_dentist	0.000497
 53071	Washington	Walla Walla	pcnt_dentist	0.000584
 53073	Washington	Whatcom	pcnt_dentist	0.000613
@@ -2996,7 +2996,7 @@ FIPS	State	County	Variable	pcnt_dentist
 54007	West Virginia	Braxton	pcnt_dentist	0.000269
 54009	West Virginia	Brooke	pcnt_dentist	0.000201
 54011	West Virginia	Cabell	pcnt_dentist	0.000489
-54013	West Virginia	Calhoun	pcnt_dentist	0.000130
+54013	West Virginia	Calhoun	pcnt_dentist	0.00013
 54015	West Virginia	Clay	pcnt_dentist	0.000423
 54017	West Virginia	Doddridge	pcnt_dentist	#VALUE!
 54019	West Virginia	Fayette	pcnt_dentist	0.000418
@@ -3011,29 +3011,29 @@ FIPS	State	County	Variable	pcnt_dentist
 54037	West Virginia	Jefferson	pcnt_dentist	0.000236
 54039	West Virginia	Kanawha	pcnt_dentist	0.000689
 54041	West Virginia	Lewis	pcnt_dentist	0.000241
-54043	West Virginia	Lincoln	pcnt_dentist	0.000230
+54043	West Virginia	Lincoln	pcnt_dentist	0.00023
 54045	West Virginia	Logan	pcnt_dentist	0.000108
 54047	West Virginia	McDowell	pcnt_dentist	0.000266
 54049	West Virginia	Marion	pcnt_dentist	0.000467
 54051	West Virginia	Marshall	pcnt_dentist	0.000358
-54053	West Virginia	Mason	pcnt_dentist	0.000250
-54055	West Virginia	Mercer	pcnt_dentist	0.000410
+54053	West Virginia	Mason	pcnt_dentist	0.00025
+54055	West Virginia	Mercer	pcnt_dentist	0.00041
 54057	West Virginia	Mineral	pcnt_dentist	0.000277
 54059	West Virginia	Mingo	pcnt_dentist	0.000112
 54061	West Virginia	Monongalia	pcnt_dentist	0.000923
 54063	West Virginia	Monroe	pcnt_dentist	0.000148
-54065	West Virginia	Morgan	pcnt_dentist	0.000170
+54065	West Virginia	Morgan	pcnt_dentist	0.00017
 54067	West Virginia	Nicholas	pcnt_dentist	0.000341
 54069	West Virginia	Ohio	pcnt_dentist	0.000701
 54071	West Virginia	Pendleton	pcnt_dentist	0.000887
 54073	West Virginia	Pleasants	pcnt_dentist	0.000366
 54075	West Virginia	Pocahontas	pcnt_dentist	0.000111
 54077	West Virginia	Preston	pcnt_dentist	0.000195
-54079	West Virginia	Putnam	pcnt_dentist	0.000430
+54079	West Virginia	Putnam	pcnt_dentist	0.00043
 54081	West Virginia	Raleigh	pcnt_dentist	0.000508
 54083	West Virginia	Randolph	pcnt_dentist	0.000284
 54085	West Virginia	Ritchie	pcnt_dentist	0.000095
-54087	West Virginia	Roane	pcnt_dentist	0.000200
+54087	West Virginia	Roane	pcnt_dentist	0.0002
 54089	West Virginia	Summers	pcnt_dentist	0.000131
 54091	West Virginia	Taylor	pcnt_dentist	0.000172
 54093	West Virginia	Tucker	pcnt_dentist	0.000688
@@ -3041,11 +3041,11 @@ FIPS	State	County	Variable	pcnt_dentist
 54097	West Virginia	Upshur	pcnt_dentist	0.000353
 54099	West Virginia	Wayne	pcnt_dentist	0.000328
 54101	West Virginia	Webster	pcnt_dentist	0.000217
-54103	West Virginia	Wetzel	pcnt_dentist	0.000480
+54103	West Virginia	Wetzel	pcnt_dentist	0.00048
 54105	West Virginia	Wirt	pcnt_dentist	0.000174
 54107	West Virginia	Wood	pcnt_dentist	0.000466
-54109	West Virginia	Wyoming	pcnt_dentist	0.000210
-55001	Wisconsin	Adams	pcnt_dentist	0.000090
+54109	West Virginia	Wyoming	pcnt_dentist	0.00021
+55001	Wisconsin	Adams	pcnt_dentist	0.00009
 55003	Wisconsin	Ashland	pcnt_dentist	0.000476
 55005	Wisconsin	Barron	pcnt_dentist	0.000559
 55007	Wisconsin	Bayfield	pcnt_dentist	0.000198
@@ -3059,7 +3059,7 @@ FIPS	State	County	Variable	pcnt_dentist
 55023	Wisconsin	Crawford	pcnt_dentist	0.000459
 55025	Wisconsin	Dane	pcnt_dentist	0.000606
 55027	Wisconsin	Dodge	pcnt_dentist	0.000263
-55029	Wisconsin	Door	pcnt_dentist	0.000570
+55029	Wisconsin	Door	pcnt_dentist	0.00057
 55031	Wisconsin	Douglas	pcnt_dentist	0.000373
 55033	Wisconsin	Dunn	pcnt_dentist	0.000275
 55035	Wisconsin	Eau Claire	pcnt_dentist	0.000801
@@ -3090,7 +3090,7 @@ FIPS	State	County	Variable	pcnt_dentist
 55083	Wisconsin	Oconto	pcnt_dentist	0.000316
 55085	Wisconsin	Oneida	pcnt_dentist	0.000547
 55087	Wisconsin	Outagamie	pcnt_dentist	0.000756
-55089	Wisconsin	Ozaukee	pcnt_dentist	0.000840
+55089	Wisconsin	Ozaukee	pcnt_dentist	0.00084
 55091	Wisconsin	Pepin	pcnt_dentist	0.000395
 55093	Wisconsin	Pierce	pcnt_dentist	0.000388
 55095	Wisconsin	Polk	pcnt_dentist	0.000448
@@ -3102,15 +3102,15 @@ FIPS	State	County	Variable	pcnt_dentist
 55107	Wisconsin	Rusk	pcnt_dentist	0.000403
 55109	Wisconsin	St. Croix	pcnt_dentist	0.000399
 55111	Wisconsin	Sauk	pcnt_dentist	0.000509
-55113	Wisconsin	Sawyer	pcnt_dentist	0.000710
+55113	Wisconsin	Sawyer	pcnt_dentist	0.00071
 55115	Wisconsin	Shawano	pcnt_dentist	0.000421
 55117	Wisconsin	Sheboygan	pcnt_dentist	0.000515
 55119	Wisconsin	Taylor	pcnt_dentist	0.000526
 55121	Wisconsin	Trempealeau	pcnt_dentist	0.000238
 55123	Wisconsin	Vernon	pcnt_dentist	0.000298
 55125	Wisconsin	Vilas	pcnt_dentist	0.000832
-55127	Wisconsin	Walworth	pcnt_dentist	0.000400
-55129	Wisconsin	Washburn	pcnt_dentist	0.000310
+55127	Wisconsin	Walworth	pcnt_dentist	0.0004
+55129	Wisconsin	Washburn	pcnt_dentist	0.00031
 55131	Wisconsin	Washington	pcnt_dentist	0.000458
 55133	Wisconsin	Waukesha	pcnt_dentist	0.000801
 55135	Wisconsin	Waupaca	pcnt_dentist	0.000333
@@ -3119,21 +3119,21 @@ FIPS	State	County	Variable	pcnt_dentist
 55141	Wisconsin	Wood	pcnt_dentist	0.000714
 56001	Wyoming	Albany	pcnt_dentist	0.000388
 56003	Wyoming	Big Horn	pcnt_dentist	0.000337
-56005	Wyoming	Campbell	pcnt_dentist	0.000300
+56005	Wyoming	Campbell	pcnt_dentist	0.0003
 56007	Wyoming	Carbon	pcnt_dentist	0.000301
 56009	Wyoming	Converse	pcnt_dentist	0.000287
-56011	Wyoming	Crook	pcnt_dentist	0.000140
+56011	Wyoming	Crook	pcnt_dentist	0.00014
 56013	Wyoming	Fremont	pcnt_dentist	0.000535
 56015	Wyoming	Goshen	pcnt_dentist	0.000276
 56017	Wyoming	Hot Springs	pcnt_dentist	0.000409
 56019	Wyoming	Johnson	pcnt_dentist	0.000578
 56021	Wyoming	Laramie	pcnt_dentist	0.000619
-56023	Wyoming	Lincoln	pcnt_dentist	0.000550
+56023	Wyoming	Lincoln	pcnt_dentist	0.00055
 56025	Wyoming	Natrona	pcnt_dentist	0.000597
 56027	Wyoming	Niobrara	pcnt_dentist	0.008876
 56029	Wyoming	Park	pcnt_dentist	0.000514
 56031	Wyoming	Platte	pcnt_dentist	0.000227
-56033	Wyoming	Sheridan	pcnt_dentist	0.000730
+56033	Wyoming	Sheridan	pcnt_dentist	0.00073
 56035	Wyoming	Sublette	pcnt_dentist	0.000371
 56037	Wyoming	Sweetwater	pcnt_dentist	0.000384
 56039	Wyoming	Teton	pcnt_dentist	0.000741

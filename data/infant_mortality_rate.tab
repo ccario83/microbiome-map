@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	infant_mortality_rate
+1001	Alabama	Autauga	infant_mortality_rate	807.4
+1003	Alabama	Baldwin	infant_mortality_rate	589.1
+1005	Alabama	Barbour	infant_mortality_rate	1539.3
+1007	Alabama	Bibb	infant_mortality_rate	1192.1
+1009	Alabama	Blount	infant_mortality_rate	605.7
+1011	Alabama	Bullock	infant_mortality_rate	1191.9
+1013	Alabama	Butler	infant_mortality_rate	1020.4
+1015	Alabama	Calhoun	infant_mortality_rate	908.1
+1017	Alabama	Chambers	infant_mortality_rate	761
+1019	Alabama	Cherokee	infant_mortality_rate	746.3
+1021	Alabama	Chilton	infant_mortality_rate	1039.4
+1023	Alabama	Choctaw	infant_mortality_rate	
+1025	Alabama	Clarke	infant_mortality_rate	1093.2
+1027	Alabama	Clay	infant_mortality_rate	
+1029	Alabama	Cleburne	infant_mortality_rate	
+1031	Alabama	Coffee	infant_mortality_rate	966.2
+1033	Alabama	Colbert	infant_mortality_rate	909.7
+1035	Alabama	Conecuh	infant_mortality_rate	
+1037	Alabama	Coosa	infant_mortality_rate	
+1039	Alabama	Covington	infant_mortality_rate	853.9
+1041	Alabama	Crenshaw	infant_mortality_rate	
+1043	Alabama	Cullman	infant_mortality_rate	628.6
+1045	Alabama	Dale	infant_mortality_rate	710.8
+1047	Alabama	Dallas	infant_mortality_rate	709.2
+1049	Alabama	DeKalb	infant_mortality_rate	501.4
+1051	Alabama	Elmore	infant_mortality_rate	682.6
+1053	Alabama	Escambia	infant_mortality_rate	936.5
+1055	Alabama	Etowah	infant_mortality_rate	994.7
+1057	Alabama	Fayette	infant_mortality_rate	
+1059	Alabama	Franklin	infant_mortality_rate	818.4
+1061	Alabama	Geneva	infant_mortality_rate	688.8
+1063	Alabama	Greene	infant_mortality_rate	
+1065	Alabama	Hale	infant_mortality_rate	
+1067	Alabama	Henry	infant_mortality_rate	
+1069	Alabama	Houston	infant_mortality_rate	828.5
+1071	Alabama	Jackson	infant_mortality_rate	892.6
+1073	Alabama	Jefferson	infant_mortality_rate	1200.4
+1075	Alabama	Lamar	infant_mortality_rate	
+1077	Alabama	Lauderdale	infant_mortality_rate	774.4
+1079	Alabama	Lawrence	infant_mortality_rate	672
+1081	Alabama	Lee	infant_mortality_rate	668.3
+1083	Alabama	Limestone	infant_mortality_rate	666.5
+1085	Alabama	Lowndes	infant_mortality_rate	
+1087	Alabama	Macon	infant_mortality_rate	1424.8
+1089	Alabama	Madison	infant_mortality_rate	892.9
+1091	Alabama	Marengo	infant_mortality_rate	
+1093	Alabama	Marion	infant_mortality_rate	1114.2
+1095	Alabama	Marshall	infant_mortality_rate	1061.9
+1097	Alabama	Mobile	infant_mortality_rate	839.2
+1099	Alabama	Monroe	infant_mortality_rate	
+1101	Alabama	Montgomery	infant_mortality_rate	1116.4
+1103	Alabama	Morgan	infant_mortality_rate	817.4
+1105	Alabama	Perry	infant_mortality_rate	1404.5
+1107	Alabama	Pickens	infant_mortality_rate	1726.7
+1109	Alabama	Pike	infant_mortality_rate	776.8
+1111	Alabama	Randolph	infant_mortality_rate	890.9
+1113	Alabama	Russell	infant_mortality_rate	1101.7
+1115	Alabama	St. Clair	infant_mortality_rate	760.5
+1117	Alabama	Shelby	infant_mortality_rate	616.6
+1119	Alabama	Sumter	infant_mortality_rate	
+1121	Alabama	Talladega	infant_mortality_rate	1299.7
+1123	Alabama	Tallapoosa	infant_mortality_rate	1183
+1125	Alabama	Tuscaloosa	infant_mortality_rate	1337.5
+1127	Alabama	Walker	infant_mortality_rate	1110
+1129	Alabama	Washington	infant_mortality_rate	
+1131	Alabama	Wilcox	infant_mortality_rate	
+1133	Alabama	Winston	infant_mortality_rate	1125.4
+2013	Alaska	Aleutians East	infant_mortality_rate	
+2016	Alaska	Aleutians West	infant_mortality_rate	
+2020	Alaska	Anchorage	infant_mortality_rate	584.2
+2050	Alaska	Bethel	infant_mortality_rate	1577.5
+2060	Alaska	Bristol Bay	infant_mortality_rate	
+2068	Alaska	Denali	infant_mortality_rate	
+2070	Alaska	Dillingham	infant_mortality_rate	
+2090	Alaska	Fairbanks North Star	infant_mortality_rate	349.4
+2100	Alaska	Haines	infant_mortality_rate	
+2110	Alaska	Juneau	infant_mortality_rate	526.9
+2122	Alaska	Kenai Peninsula	infant_mortality_rate	418.4
+2130	Alaska	Ketchikan Gateway	infant_mortality_rate	
+2150	Alaska	Kodiak Island	infant_mortality_rate	
+2164	Alaska	Lake and Peninsula	infant_mortality_rate	
+2170	Alaska	Matanuska-Susitna	infant_mortality_rate	477.4
+2180	Alaska	Nome	infant_mortality_rate	1147.2
+2185	Alaska	North Slope	infant_mortality_rate	1227
+2188	Alaska	Northwest Arctic	infant_mortality_rate	
+2201	Alaska	Prince of Wales-Outer Ketchikan	infant_mortality_rate	
+2220	Alaska	Sitka	infant_mortality_rate	
+2232	Alaska	Skagway-Hoonah-Angoon	infant_mortality_rate	
+2240	Alaska	Southeast Fairbanks	infant_mortality_rate	
+2261	Alaska	Valdez-Cordova	infant_mortality_rate	
+2270	Alaska	Wade Hampton	infant_mortality_rate	2173.9
+2280	Alaska	Wrangell-Petersburg	infant_mortality_rate	
+2282	Alaska	Yakutat	infant_mortality_rate	
+2290	Alaska	Yukon-Koyukuk	infant_mortality_rate	
+4001	Arizona	Apache	infant_mortality_rate	822.2
+4003	Arizona	Cochise	infant_mortality_rate	795.2
+4005	Arizona	Coconino	infant_mortality_rate	600.6
+4007	Arizona	Gila	infant_mortality_rate	861.8
+4009	Arizona	Graham	infant_mortality_rate	697.9
+4011	Arizona	Greenlee	infant_mortality_rate	
+4012	Arizona	La Paz	infant_mortality_rate	
+4013	Arizona	Maricopa	infant_mortality_rate	648.6
+4015	Arizona	Mohave	infant_mortality_rate	685.1
+4017	Arizona	Navajo	infant_mortality_rate	747.9
+4019	Arizona	Pima	infant_mortality_rate	727.3
+4021	Arizona	Pinal	infant_mortality_rate	597.2
+4023	Arizona	Santa Cruz	infant_mortality_rate	711.7
+4025	Arizona	Yavapai	infant_mortality_rate	655.3
+4027	Arizona	Yuma	infant_mortality_rate	731.3
+5001	Arkansas	Arkansas	infant_mortality_rate	
+5003	Arkansas	Ashley	infant_mortality_rate	769.2
+5005	Arkansas	Baxter	infant_mortality_rate	718.4
+5007	Arkansas	Benton	infant_mortality_rate	645.5
+5009	Arkansas	Boone	infant_mortality_rate	720
+5011	Arkansas	Bradley	infant_mortality_rate	
+5013	Arkansas	Calhoun	infant_mortality_rate	
+5015	Arkansas	Carroll	infant_mortality_rate	809.2
+5017	Arkansas	Chicot	infant_mortality_rate	
+5019	Arkansas	Clark	infant_mortality_rate	
+5021	Arkansas	Clay	infant_mortality_rate	
+5023	Arkansas	Cleburne	infant_mortality_rate	
+5025	Arkansas	Cleveland	infant_mortality_rate	
+5027	Arkansas	Columbia	infant_mortality_rate	
+5029	Arkansas	Conway	infant_mortality_rate	738.6
+5031	Arkansas	Craighead	infant_mortality_rate	894.1
+5033	Arkansas	Crawford	infant_mortality_rate	564.2
+5035	Arkansas	Crittenden	infant_mortality_rate	1622.3
+5037	Arkansas	Cross	infant_mortality_rate	
+5039	Arkansas	Dallas	infant_mortality_rate	
+5041	Arkansas	Desha	infant_mortality_rate	
+5043	Arkansas	Drew	infant_mortality_rate	1080.2
+5045	Arkansas	Faulkner	infant_mortality_rate	685.7
+5047	Arkansas	Franklin	infant_mortality_rate	
+5049	Arkansas	Fulton	infant_mortality_rate	
+5051	Arkansas	Garland	infant_mortality_rate	768.1
+5053	Arkansas	Grant	infant_mortality_rate	
+5055	Arkansas	Greene	infant_mortality_rate	814.4
+5057	Arkansas	Hempstead	infant_mortality_rate	
+5059	Arkansas	Hot Spring	infant_mortality_rate	500.9
+5061	Arkansas	Howard	infant_mortality_rate	
+5063	Arkansas	Independence	infant_mortality_rate	944.6
+5065	Arkansas	Izard	infant_mortality_rate	
+5067	Arkansas	Jackson	infant_mortality_rate	
+5069	Arkansas	Jefferson	infant_mortality_rate	823.4
+5071	Arkansas	Johnson	infant_mortality_rate	646.9
+5073	Arkansas	Lafayette	infant_mortality_rate	
+5075	Arkansas	Lawrence	infant_mortality_rate	
+5077	Arkansas	Lee	infant_mortality_rate	
+5079	Arkansas	Lincoln	infant_mortality_rate	
+5081	Arkansas	Little River	infant_mortality_rate	
+5083	Arkansas	Logan	infant_mortality_rate	
+5085	Arkansas	Lonoke	infant_mortality_rate	731.2
+5087	Arkansas	Madison	infant_mortality_rate	
+5089	Arkansas	Marion	infant_mortality_rate	
+5091	Arkansas	Miller	infant_mortality_rate	938.4
+5093	Arkansas	Mississippi	infant_mortality_rate	960.5
+5095	Arkansas	Monroe	infant_mortality_rate	
+5097	Arkansas	Montgomery	infant_mortality_rate	
+5099	Arkansas	Nevada	infant_mortality_rate	
+5101	Arkansas	Newton	infant_mortality_rate	
+5103	Arkansas	Ouachita	infant_mortality_rate	1051.5
+5105	Arkansas	Perry	infant_mortality_rate	
+5107	Arkansas	Phillips	infant_mortality_rate	853.2
+5109	Arkansas	Pike	infant_mortality_rate	
+5111	Arkansas	Poinsett	infant_mortality_rate	1112.4
+5113	Arkansas	Polk	infant_mortality_rate	
+5115	Arkansas	Pope	infant_mortality_rate	664.6
+5117	Arkansas	Prairie	infant_mortality_rate	
+5119	Arkansas	Pulaski	infant_mortality_rate	972.7
+5121	Arkansas	Randolph	infant_mortality_rate	
+5123	Arkansas	St. Francis	infant_mortality_rate	978.4
+5125	Arkansas	Saline	infant_mortality_rate	835.1
+5127	Arkansas	Scott	infant_mortality_rate	
+5129	Arkansas	Searcy	infant_mortality_rate	
+5131	Arkansas	Sebastian	infant_mortality_rate	556.7
+5133	Arkansas	Sevier	infant_mortality_rate	936.3
+5135	Arkansas	Sharp	infant_mortality_rate	
+5137	Arkansas	Stone	infant_mortality_rate	
+5139	Arkansas	Union	infant_mortality_rate	1029.8
+5141	Arkansas	Van Buren	infant_mortality_rate	
+5143	Arkansas	Washington	infant_mortality_rate	717.9
+5145	Arkansas	White	infant_mortality_rate	810.7
+5147	Arkansas	Woodruff	infant_mortality_rate	
+5149	Arkansas	Yell	infant_mortality_rate	1037.2
+6001	California	Alameda	infant_mortality_rate	469.8
+6003	California	Alpine	infant_mortality_rate	
+6005	California	Amador	infant_mortality_rate	
+6007	California	Butte	infant_mortality_rate	597.3
+6009	California	Calaveras	infant_mortality_rate	
+6011	California	Colusa	infant_mortality_rate	
+6013	California	Contra Costa	infant_mortality_rate	432
+6015	California	Del Norte	infant_mortality_rate	843.6
+6017	California	El Dorado	infant_mortality_rate	447.3
+6019	California	Fresno	infant_mortality_rate	656.4
+6021	California	Glenn	infant_mortality_rate	450.2
+6023	California	Humboldt	infant_mortality_rate	572.1
+6025	California	Imperial	infant_mortality_rate	549
+6027	California	Inyo	infant_mortality_rate	
+6029	California	Kern	infant_mortality_rate	646.6
+6031	California	Kings	infant_mortality_rate	572.1
+6033	California	Lake	infant_mortality_rate	455.8
+6035	California	Lassen	infant_mortality_rate	895.5
+6037	California	Los Angeles	infant_mortality_rate	535.2
+6039	California	Madera	infant_mortality_rate	534
+6041	California	Marin	infant_mortality_rate	319.2
+6043	California	Mariposa	infant_mortality_rate	
+6045	California	Mendocino	infant_mortality_rate	814.1
+6047	California	Merced	infant_mortality_rate	585.8
+6049	California	Modoc	infant_mortality_rate	
+6051	California	Mono	infant_mortality_rate	1181.5
+6053	California	Monterey	infant_mortality_rate	494.8
+6055	California	Napa	infant_mortality_rate	558.3
+6057	California	Nevada	infant_mortality_rate	471.5
+6059	California	Orange	infant_mortality_rate	474.7
+6061	California	Placer	infant_mortality_rate	399.2
+6063	California	Plumas	infant_mortality_rate	
+6065	California	Riverside	infant_mortality_rate	541.1
+6067	California	Sacramento	infant_mortality_rate	572.5
+6069	California	San Benito	infant_mortality_rate	552.2
+6071	California	San Bernardino	infant_mortality_rate	660.1
+6073	California	San Diego	infant_mortality_rate	520.8
+6075	California	San Francisco	infant_mortality_rate	446.6
+6077	California	San Joaquin	infant_mortality_rate	583.8
+6079	California	San Luis Obispo	infant_mortality_rate	383
+6081	California	San Mateo	infant_mortality_rate	385.3
+6083	California	Santa Barbara	infant_mortality_rate	534.3
+6085	California	Santa Clara	infant_mortality_rate	376.3
+6087	California	Santa Cruz	infant_mortality_rate	404.5
+6089	California	Shasta	infant_mortality_rate	564.6
+6091	California	Sierra	infant_mortality_rate	
+6093	California	Siskiyou	infant_mortality_rate	483.9
+6095	California	Solano	infant_mortality_rate	637.5
+6097	California	Sonoma	infant_mortality_rate	435.8
+6099	California	Stanislaus	infant_mortality_rate	637.4
+6101	California	Sutter	infant_mortality_rate	533.7
+6103	California	Tehama	infant_mortality_rate	514.1
+6105	California	Trinity	infant_mortality_rate	
+6107	California	Tulare	infant_mortality_rate	570.3
+6109	California	Tuolumne	infant_mortality_rate	
+6111	California	Ventura	infant_mortality_rate	564.7
+6113	California	Yolo	infant_mortality_rate	393.2
+6115	California	Yuba	infant_mortality_rate	534.4
+8001	Colorado	Adams	infant_mortality_rate	608.4
+8003	Colorado	Alamosa	infant_mortality_rate	
+8005	Colorado	Arapahoe	infant_mortality_rate	680.6
+8007	Colorado	Archuleta	infant_mortality_rate	
+8009	Colorado	Baca	infant_mortality_rate	
+8011	Colorado	Bent	infant_mortality_rate	
+8013	Colorado	Boulder	infant_mortality_rate	571
+8014	Colorado	Broomfield	infant_mortality_rate	611.1
+8015	Colorado	Chaffee	infant_mortality_rate	
+8017	Colorado	Cheyenne	infant_mortality_rate	
+8019	Colorado	Clear Creek	infant_mortality_rate	
+8021	Colorado	Conejos	infant_mortality_rate	
+8023	Colorado	Costilla	infant_mortality_rate	
+8025	Colorado	Crowley	infant_mortality_rate	
+8027	Colorado	Custer	infant_mortality_rate	
+8029	Colorado	Delta	infant_mortality_rate	
+8031	Colorado	Denver	infant_mortality_rate	799.5
+8033	Colorado	Dolores	infant_mortality_rate	
+8035	Colorado	Douglas	infant_mortality_rate	401.7
+8037	Colorado	Eagle	infant_mortality_rate	423
+8039	Colorado	Elbert	infant_mortality_rate	
+8041	Colorado	El Paso	infant_mortality_rate	756.9
+8043	Colorado	Fremont	infant_mortality_rate	677.6
+8045	Colorado	Garfield	infant_mortality_rate	436.4
+8047	Colorado	Gilpin	infant_mortality_rate	
+8049	Colorado	Grand	infant_mortality_rate	
+8051	Colorado	Gunnison	infant_mortality_rate	
+8053	Colorado	Hinsdale	infant_mortality_rate	
+8055	Colorado	Huerfano	infant_mortality_rate	
+8057	Colorado	Jackson	infant_mortality_rate	
+8059	Colorado	Jefferson	infant_mortality_rate	548.8
+8061	Colorado	Kiowa	infant_mortality_rate	
+8063	Colorado	Kit Carson	infant_mortality_rate	
+8065	Colorado	Lake	infant_mortality_rate	
+8067	Colorado	La Plata	infant_mortality_rate	
+8069	Colorado	Larimer	infant_mortality_rate	475.7
+8071	Colorado	Las Animas	infant_mortality_rate	
+8073	Colorado	Lincoln	infant_mortality_rate	
+8075	Colorado	Logan	infant_mortality_rate	
+8077	Colorado	Mesa	infant_mortality_rate	433.1
+8079	Colorado	Mineral	infant_mortality_rate	
+8081	Colorado	Moffat	infant_mortality_rate	
+8083	Colorado	Montezuma	infant_mortality_rate	985.8
+8085	Colorado	Montrose	infant_mortality_rate	836.2
+8087	Colorado	Morgan	infant_mortality_rate	680.3
+8089	Colorado	Otero	infant_mortality_rate	
+8091	Colorado	Ouray	infant_mortality_rate	
+8093	Colorado	Park	infant_mortality_rate	
+8095	Colorado	Phillips	infant_mortality_rate	
+8097	Colorado	Pitkin	infant_mortality_rate	
+8099	Colorado	Prowers	infant_mortality_rate	
+8101	Colorado	Pueblo	infant_mortality_rate	610.5
+8103	Colorado	Rio Blanco	infant_mortality_rate	
+8105	Colorado	Rio Grande	infant_mortality_rate	
+8107	Colorado	Routt	infant_mortality_rate	
+8109	Colorado	Saguache	infant_mortality_rate	
+8111	Colorado	San Juan	infant_mortality_rate	
+8113	Colorado	San Miguel	infant_mortality_rate	
+8115	Colorado	Sedgwick	infant_mortality_rate	
+8117	Colorado	Summit	infant_mortality_rate	
+8119	Colorado	Teller	infant_mortality_rate	
+8121	Colorado	Washington	infant_mortality_rate	
+8123	Colorado	Weld	infant_mortality_rate	579.9
+8125	Colorado	Yuma	infant_mortality_rate	
+9001	Connecticut	Fairfield	infant_mortality_rate	504.2
+9003	Connecticut	Hartford	infant_mortality_rate	692.8
+9005	Connecticut	Litchfield	infant_mortality_rate	405.2
+9007	Connecticut	Middlesex	infant_mortality_rate	397.6
+9009	Connecticut	New Haven	infant_mortality_rate	731.8
+9011	Connecticut	New London	infant_mortality_rate	557.3
+9013	Connecticut	Tolland	infant_mortality_rate	545.9
+9015	Connecticut	Windham	infant_mortality_rate	562.5
+10001	Delaware	Kent	infant_mortality_rate	653.2
+10003	Delaware	New Castle	infant_mortality_rate	933.7
+10005	Delaware	Sussex	infant_mortality_rate	712
+11001	District of Columbia	District of Columbia	infant_mortality_rate	1254.8
+12001	Florida	Alachua	infant_mortality_rate	952.5
+12003	Florida	Baker	infant_mortality_rate	1130.9
+12005	Florida	Bay	infant_mortality_rate	735.3
+12007	Florida	Bradford	infant_mortality_rate	747.9
+12009	Florida	Brevard	infant_mortality_rate	686.6
+12011	Florida	Broward	infant_mortality_rate	639.5
+12013	Florida	Calhoun	infant_mortality_rate	
+12015	Florida	Charlotte	infant_mortality_rate	447.7
+12017	Florida	Citrus	infant_mortality_rate	521.6
+12019	Florida	Clay	infant_mortality_rate	530.9
+12021	Florida	Collier	infant_mortality_rate	661.1
+12023	Florida	Columbia	infant_mortality_rate	1078.5
+12027	Florida	DeSoto	infant_mortality_rate	540.1
+12029	Florida	Dixie	infant_mortality_rate	
+12031	Florida	Duval	infant_mortality_rate	994.5
+12033	Florida	Escambia	infant_mortality_rate	994.1
+12035	Florida	Flagler	infant_mortality_rate	530.9
+12037	Florida	Franklin	infant_mortality_rate	
+12039	Florida	Gadsden	infant_mortality_rate	1214.1
+12041	Florida	Gilchrist	infant_mortality_rate	
+12043	Florida	Glades	infant_mortality_rate	
+12045	Florida	Gulf	infant_mortality_rate	
+12047	Florida	Hamilton	infant_mortality_rate	1839.7
+12049	Florida	Hardee	infant_mortality_rate	1147.3
+12051	Florida	Hendry	infant_mortality_rate	684.9
+12053	Florida	Hernando	infant_mortality_rate	583.6
+12055	Florida	Highlands	infant_mortality_rate	762.9
+12057	Florida	Hillsborough	infant_mortality_rate	874.3
+12059	Florida	Holmes	infant_mortality_rate	903.1
+12061	Florida	Indian River	infant_mortality_rate	732.1
+12063	Florida	Jackson	infant_mortality_rate	862.4
+12065	Florida	Jefferson	infant_mortality_rate	
+12067	Florida	Lafayette	infant_mortality_rate	
+12069	Florida	Lake	infant_mortality_rate	705.7
+12071	Florida	Lee	infant_mortality_rate	606.7
+12073	Florida	Leon	infant_mortality_rate	914.8
+12075	Florida	Levy	infant_mortality_rate	641.3
+12077	Florida	Liberty	infant_mortality_rate	
+12079	Florida	Madison	infant_mortality_rate	850.1
+12081	Florida	Manatee	infant_mortality_rate	791
+12083	Florida	Marion	infant_mortality_rate	898.9
+12085	Florida	Martin	infant_mortality_rate	469.5
+12086	Florida	Miami-Dade	infant_mortality_rate	601.2
+12087	Florida	Monroe	infant_mortality_rate	556.6
+12089	Florida	Nassau	infant_mortality_rate	708.2
+12091	Florida	Okaloosa	infant_mortality_rate	816.1
+12093	Florida	Okeechobee	infant_mortality_rate	692.4
+12095	Florida	Orange	infant_mortality_rate	847.2
+12097	Florida	Osceola	infant_mortality_rate	879.7
+12099	Florida	Palm Beach	infant_mortality_rate	618.4
+12101	Florida	Pasco	infant_mortality_rate	623.6
+12103	Florida	Pinellas	infant_mortality_rate	880.9
+12105	Florida	Polk	infant_mortality_rate	772.9
+12107	Florida	Putnam	infant_mortality_rate	787.9
+12109	Florida	St. Johns	infant_mortality_rate	486.1
+12111	Florida	St. Lucie	infant_mortality_rate	712.3
+12113	Florida	Santa Rosa	infant_mortality_rate	616.8
+12115	Florida	Sarasota	infant_mortality_rate	445.6
+12117	Florida	Seminole	infant_mortality_rate	725
+12119	Florida	Sumter	infant_mortality_rate	633.4
+12121	Florida	Suwannee	infant_mortality_rate	1104.8
+12123	Florida	Taylor	infant_mortality_rate	972.1
+12125	Florida	Union	infant_mortality_rate	
+12127	Florida	Volusia	infant_mortality_rate	750.3
+12129	Florida	Wakulla	infant_mortality_rate	763.8
+12131	Florida	Walton	infant_mortality_rate	729.9
+12133	Florida	Washington	infant_mortality_rate	
+13001	Georgia	Appling	infant_mortality_rate	1037.8
+13003	Georgia	Atkinson	infant_mortality_rate	
+13005	Georgia	Bacon	infant_mortality_rate	
+13007	Georgia	Baker	infant_mortality_rate	
+13009	Georgia	Baldwin	infant_mortality_rate	524.7
+13011	Georgia	Banks	infant_mortality_rate	939.4
+13013	Georgia	Barrow	infant_mortality_rate	490.3
+13015	Georgia	Bartow	infant_mortality_rate	718.9
+13017	Georgia	Ben Hill	infant_mortality_rate	753.9
+13019	Georgia	Berrien	infant_mortality_rate	921.7
+13021	Georgia	Bibb	infant_mortality_rate	1465.6
+13023	Georgia	Bleckley	infant_mortality_rate	
+13025	Georgia	Brantley	infant_mortality_rate	
+13027	Georgia	Brooks	infant_mortality_rate	906.8
+13029	Georgia	Bryan	infant_mortality_rate	676.4
+13031	Georgia	Bulloch	infant_mortality_rate	710.4
+13033	Georgia	Burke	infant_mortality_rate	1077.7
+13035	Georgia	Butts	infant_mortality_rate	1135.6
+13037	Georgia	Calhoun	infant_mortality_rate	
+13039	Georgia	Camden	infant_mortality_rate	575
+13043	Georgia	Candler	infant_mortality_rate	
+13045	Georgia	Carroll	infant_mortality_rate	669.6
+13047	Georgia	Catoosa	infant_mortality_rate	638.7
+13049	Georgia	Charlton	infant_mortality_rate	1897.8
+13051	Georgia	Chatham	infant_mortality_rate	1029.4
+13053	Georgia	Chattahoochee	infant_mortality_rate	
+13055	Georgia	Chattooga	infant_mortality_rate	623.1
+13057	Georgia	Cherokee	infant_mortality_rate	498
+13059	Georgia	Clarke	infant_mortality_rate	556.2
+13061	Georgia	Clay	infant_mortality_rate	
+13063	Georgia	Clayton	infant_mortality_rate	835.7
+13065	Georgia	Clinch	infant_mortality_rate	
+13067	Georgia	Cobb	infant_mortality_rate	704.4
+13069	Georgia	Coffee	infant_mortality_rate	950.9
+13071	Georgia	Colquitt	infant_mortality_rate	721.8
+13073	Georgia	Columbia	infant_mortality_rate	722.4
+13075	Georgia	Cook	infant_mortality_rate	1056.3
+13077	Georgia	Coweta	infant_mortality_rate	359.1
+13079	Georgia	Crawford	infant_mortality_rate	
+13081	Georgia	Crisp	infant_mortality_rate	1109.8
+13083	Georgia	Dade	infant_mortality_rate	
+13085	Georgia	Dawson	infant_mortality_rate	
+13087	Georgia	Decatur	infant_mortality_rate	751.5
+13089	Georgia	DeKalb	infant_mortality_rate	756.6
+13091	Georgia	Dodge	infant_mortality_rate	980.4
+13093	Georgia	Dooly	infant_mortality_rate	
+13095	Georgia	Dougherty	infant_mortality_rate	1170
+13097	Georgia	Douglas	infant_mortality_rate	730.8
+13099	Georgia	Early	infant_mortality_rate	1418.4
+13101	Georgia	Echols	infant_mortality_rate	
+13103	Georgia	Effingham	infant_mortality_rate	795.5
+13105	Georgia	Elbert	infant_mortality_rate	
+13107	Georgia	Emanuel	infant_mortality_rate	1042.9
+13109	Georgia	Evans	infant_mortality_rate	
+13111	Georgia	Fannin	infant_mortality_rate	
+13113	Georgia	Fayette	infant_mortality_rate	481.8
+13115	Georgia	Floyd	infant_mortality_rate	1247.9
+13117	Georgia	Forsyth	infant_mortality_rate	295
+13119	Georgia	Franklin	infant_mortality_rate	789.7
+13121	Georgia	Fulton	infant_mortality_rate	839
+13123	Georgia	Gilmer	infant_mortality_rate	626.4
+13125	Georgia	Glascock	infant_mortality_rate	
+13127	Georgia	Glynn	infant_mortality_rate	1013.5
+13129	Georgia	Gordon	infant_mortality_rate	578.7
+13131	Georgia	Grady	infant_mortality_rate	657.6
+13133	Georgia	Greene	infant_mortality_rate	
+13135	Georgia	Gwinnett	infant_mortality_rate	584
+13137	Georgia	Habersham	infant_mortality_rate	487.1
+13139	Georgia	Hall	infant_mortality_rate	710.3
+13141	Georgia	Hancock	infant_mortality_rate	
+13143	Georgia	Haralson	infant_mortality_rate	761.4
+13145	Georgia	Harris	infant_mortality_rate	941.7
+13147	Georgia	Hart	infant_mortality_rate	
+13149	Georgia	Heard	infant_mortality_rate	
+13151	Georgia	Henry	infant_mortality_rate	780.7
+13153	Georgia	Houston	infant_mortality_rate	935
+13155	Georgia	Irwin	infant_mortality_rate	
+13157	Georgia	Jackson	infant_mortality_rate	785.2
+13159	Georgia	Jasper	infant_mortality_rate	1226.3
+13161	Georgia	Jeff Davis	infant_mortality_rate	
+13163	Georgia	Jefferson	infant_mortality_rate	970.9
+13165	Georgia	Jenkins	infant_mortality_rate	
+13167	Georgia	Johnson	infant_mortality_rate	
+13169	Georgia	Jones	infant_mortality_rate	571.4
+13171	Georgia	Lamar	infant_mortality_rate	1074.3
+13173	Georgia	Lanier	infant_mortality_rate	1128.7
+13175	Georgia	Laurens	infant_mortality_rate	710
+13177	Georgia	Lee	infant_mortality_rate	1126.9
+13179	Georgia	Liberty	infant_mortality_rate	831.8
+13181	Georgia	Lincoln	infant_mortality_rate	
+13183	Georgia	Long	infant_mortality_rate	1034.7
+13185	Georgia	Lowndes	infant_mortality_rate	1267.7
+13187	Georgia	Lumpkin	infant_mortality_rate	
+13189	Georgia	McDuffie	infant_mortality_rate	1051.2
+13191	Georgia	McIntosh	infant_mortality_rate	
+13193	Georgia	Macon	infant_mortality_rate	
+13195	Georgia	Madison	infant_mortality_rate	583.8
+13197	Georgia	Marion	infant_mortality_rate	
+13199	Georgia	Meriwether	infant_mortality_rate	620.7
+13201	Georgia	Miller	infant_mortality_rate	
+13205	Georgia	Mitchell	infant_mortality_rate	723.1
+13207	Georgia	Monroe	infant_mortality_rate	673.6
+13209	Georgia	Montgomery	infant_mortality_rate	
+13211	Georgia	Morgan	infant_mortality_rate	
+13213	Georgia	Murray	infant_mortality_rate	441
+13215	Georgia	Muscogee	infant_mortality_rate	1464.9
+13217	Georgia	Newton	infant_mortality_rate	777.4
+13219	Georgia	Oconee	infant_mortality_rate	
+13221	Georgia	Oglethorpe	infant_mortality_rate	
+13223	Georgia	Paulding	infant_mortality_rate	620.9
+13225	Georgia	Peach	infant_mortality_rate	1381.2
+13227	Georgia	Pickens	infant_mortality_rate	
+13229	Georgia	Pierce	infant_mortality_rate	817.7
+13231	Georgia	Pike	infant_mortality_rate	1371.3
+13233	Georgia	Polk	infant_mortality_rate	625.8
+13235	Georgia	Pulaski	infant_mortality_rate	
+13237	Georgia	Putnam	infant_mortality_rate	781.8
+13239	Georgia	Quitman	infant_mortality_rate	
+13241	Georgia	Rabun	infant_mortality_rate	
+13243	Georgia	Randolph	infant_mortality_rate	
+13245	Georgia	Richmond	infant_mortality_rate	1234.2
+13247	Georgia	Rockdale	infant_mortality_rate	682.2
+13249	Georgia	Schley	infant_mortality_rate	
+13251	Georgia	Screven	infant_mortality_rate	1482.2
+13253	Georgia	Seminole	infant_mortality_rate	
+13255	Georgia	Spalding	infant_mortality_rate	1057
+13257	Georgia	Stephens	infant_mortality_rate	613.1
+13259	Georgia	Stewart	infant_mortality_rate	
+13261	Georgia	Sumter	infant_mortality_rate	462.8
+13263	Georgia	Talbot	infant_mortality_rate	
+13265	Georgia	Taliaferro	infant_mortality_rate	
+13267	Georgia	Tattnall	infant_mortality_rate	1213.3
+13269	Georgia	Taylor	infant_mortality_rate	
+13271	Georgia	Telfair	infant_mortality_rate	
+13273	Georgia	Terrell	infant_mortality_rate	2052
+13275	Georgia	Thomas	infant_mortality_rate	911.5
+13277	Georgia	Tift	infant_mortality_rate	1014.9
+13279	Georgia	Toombs	infant_mortality_rate	674.8
+13281	Georgia	Towns	infant_mortality_rate	
+13283	Georgia	Treutlen	infant_mortality_rate	
+13285	Georgia	Troup	infant_mortality_rate	931.9
+13287	Georgia	Turner	infant_mortality_rate	
+13289	Georgia	Twiggs	infant_mortality_rate	
+13291	Georgia	Union	infant_mortality_rate	
+13293	Georgia	Upson	infant_mortality_rate	979.3
+13295	Georgia	Walker	infant_mortality_rate	701.9
+13297	Georgia	Walton	infant_mortality_rate	669.1
+13299	Georgia	Ware	infant_mortality_rate	949.7
+13301	Georgia	Warren	infant_mortality_rate	
+13303	Georgia	Washington	infant_mortality_rate	1064.6
+13305	Georgia	Wayne	infant_mortality_rate	1399.3
+13307	Georgia	Webster	infant_mortality_rate	
+13309	Georgia	Wheeler	infant_mortality_rate	
+13311	Georgia	White	infant_mortality_rate	
+13313	Georgia	Whitfield	infant_mortality_rate	596.5
+13315	Georgia	Wilcox	infant_mortality_rate	
+13317	Georgia	Wilkes	infant_mortality_rate	
+13319	Georgia	Wilkinson	infant_mortality_rate	1617.6
+13321	Georgia	Worth	infant_mortality_rate	895.9
+15001	Hawaii	Hawaii	infant_mortality_rate	647.5
+15003	Hawaii	Honolulu	infant_mortality_rate	660.7
+15005	Hawaii	Kalawao	infant_mortality_rate	
+15007	Hawaii	Kauai	infant_mortality_rate	586.4
+15009	Hawaii	Maui	infant_mortality_rate	395.6
+16001	Idaho	Ada	infant_mortality_rate	589.5
+16003	Idaho	Adams	infant_mortality_rate	
+16005	Idaho	Bannock	infant_mortality_rate	625.9
+16007	Idaho	Bear Lake	infant_mortality_rate	
+16009	Idaho	Benewah	infant_mortality_rate	
+16011	Idaho	Bingham	infant_mortality_rate	566.8
+16013	Idaho	Blaine	infant_mortality_rate	
+16015	Idaho	Boise	infant_mortality_rate	
+16017	Idaho	Bonner	infant_mortality_rate	600.7
+16019	Idaho	Bonneville	infant_mortality_rate	583.6
+16021	Idaho	Boundary	infant_mortality_rate	
+16023	Idaho	Butte	infant_mortality_rate	
+16025	Idaho	Camas	infant_mortality_rate	
+16027	Idaho	Canyon	infant_mortality_rate	712.9
+16029	Idaho	Caribou	infant_mortality_rate	
+16031	Idaho	Cassia	infant_mortality_rate	632
+16033	Idaho	Clark	infant_mortality_rate	
+16035	Idaho	Clearwater	infant_mortality_rate	
+16037	Idaho	Custer	infant_mortality_rate	
+16039	Idaho	Elmore	infant_mortality_rate	763.4
+16041	Idaho	Franklin	infant_mortality_rate	
+16043	Idaho	Fremont	infant_mortality_rate	
+16045	Idaho	Gem	infant_mortality_rate	
+16047	Idaho	Gooding	infant_mortality_rate	747.9
+16049	Idaho	Idaho	infant_mortality_rate	
+16051	Idaho	Jefferson	infant_mortality_rate	561.6
+16053	Idaho	Jerome	infant_mortality_rate	953.7
+16055	Idaho	Kootenai	infant_mortality_rate	429.1
+16057	Idaho	Latah	infant_mortality_rate	542.5
+16059	Idaho	Lemhi	infant_mortality_rate	
+16061	Idaho	Lewis	infant_mortality_rate	
+16063	Idaho	Lincoln	infant_mortality_rate	
+16065	Idaho	Madison	infant_mortality_rate	626.3
+16067	Idaho	Minidoka	infant_mortality_rate	
+16069	Idaho	Nez Perce	infant_mortality_rate	857.1
+16071	Idaho	Oneida	infant_mortality_rate	
+16073	Idaho	Owyhee	infant_mortality_rate	
+16075	Idaho	Payette	infant_mortality_rate	733.2
+16077	Idaho	Power	infant_mortality_rate	
+16079	Idaho	Shoshone	infant_mortality_rate	
+16081	Idaho	Teton	infant_mortality_rate	
+16083	Idaho	Twin Falls	infant_mortality_rate	803.9
+16085	Idaho	Valley	infant_mortality_rate	
+16087	Idaho	Washington	infant_mortality_rate	
+17001	Illinois	Adams	infant_mortality_rate	557.4
+17003	Illinois	Alexander	infant_mortality_rate	
+17005	Illinois	Bond	infant_mortality_rate	
+17007	Illinois	Boone	infant_mortality_rate	501
+17009	Illinois	Brown	infant_mortality_rate	
+17011	Illinois	Bureau	infant_mortality_rate	609.1
+17013	Illinois	Calhoun	infant_mortality_rate	
+17015	Illinois	Carroll	infant_mortality_rate	
+17017	Illinois	Cass	infant_mortality_rate	
+17019	Illinois	Champaign	infant_mortality_rate	753.3
+17021	Illinois	Christian	infant_mortality_rate	707.2
+17023	Illinois	Clark	infant_mortality_rate	
+17025	Illinois	Clay	infant_mortality_rate	
+17027	Illinois	Clinton	infant_mortality_rate	482.6
+17029	Illinois	Coles	infant_mortality_rate	661.3
+17031	Illinois	Cook	infant_mortality_rate	811.8
+17033	Illinois	Crawford	infant_mortality_rate	1288.4
+17035	Illinois	Cumberland	infant_mortality_rate	1796.4
+17037	Illinois	DeKalb	infant_mortality_rate	692.1
+17039	Illinois	De Witt	infant_mortality_rate	
+17041	Illinois	Douglas	infant_mortality_rate	
+17043	Illinois	DuPage	infant_mortality_rate	612.6
+17045	Illinois	Edgar	infant_mortality_rate	
+17047	Illinois	Edwards	infant_mortality_rate	
+17049	Illinois	Effingham	infant_mortality_rate	804.4
+17051	Illinois	Fayette	infant_mortality_rate	
+17053	Illinois	Ford	infant_mortality_rate	
+17055	Illinois	Franklin	infant_mortality_rate	795.3
+17057	Illinois	Fulton	infant_mortality_rate	754.5
+17059	Illinois	Gallatin	infant_mortality_rate	
+17061	Illinois	Greene	infant_mortality_rate	
+17063	Illinois	Grundy	infant_mortality_rate	581.7
+17065	Illinois	Hamilton	infant_mortality_rate	
+17067	Illinois	Hancock	infant_mortality_rate	
+17069	Illinois	Hardin	infant_mortality_rate	
+17071	Illinois	Henderson	infant_mortality_rate	
+17073	Illinois	Henry	infant_mortality_rate	407.1
+17075	Illinois	Iroquois	infant_mortality_rate	625.8
+17077	Illinois	Jackson	infant_mortality_rate	762.5
+17079	Illinois	Jasper	infant_mortality_rate	
+17081	Illinois	Jefferson	infant_mortality_rate	531.7
+17083	Illinois	Jersey	infant_mortality_rate	753
+17085	Illinois	Jo Daviess	infant_mortality_rate	
+17087	Illinois	Johnson	infant_mortality_rate	
+17089	Illinois	Kane	infant_mortality_rate	584.7
+17091	Illinois	Kankakee	infant_mortality_rate	811.3
+17093	Illinois	Kendall	infant_mortality_rate	462.3
+17095	Illinois	Knox	infant_mortality_rate	802.8
+17097	Illinois	Lake	infant_mortality_rate	566.6
+17099	Illinois	LaSalle	infant_mortality_rate	779.8
+17101	Illinois	Lawrence	infant_mortality_rate	1180.3
+17103	Illinois	Lee	infant_mortality_rate	
+17105	Illinois	Livingston	infant_mortality_rate	946.8
+17107	Illinois	Logan	infant_mortality_rate	890
+17109	Illinois	McDonough	infant_mortality_rate	723.1
+17111	Illinois	McHenry	infant_mortality_rate	481.2
+17113	Illinois	McLean	infant_mortality_rate	645
+17115	Illinois	Macon	infant_mortality_rate	1101.8
+17117	Illinois	Macoupin	infant_mortality_rate	620.9
+17119	Illinois	Madison	infant_mortality_rate	676.7
+17121	Illinois	Marion	infant_mortality_rate	367.9
+17123	Illinois	Marshall	infant_mortality_rate	
+17125	Illinois	Mason	infant_mortality_rate	
+17127	Illinois	Massac	infant_mortality_rate	
+17129	Illinois	Menard	infant_mortality_rate	
+17131	Illinois	Mercer	infant_mortality_rate	
+17133	Illinois	Monroe	infant_mortality_rate	
+17135	Illinois	Montgomery	infant_mortality_rate	812.5
+17137	Illinois	Morgan	infant_mortality_rate	
+17139	Illinois	Moultrie	infant_mortality_rate	
+17141	Illinois	Ogle	infant_mortality_rate	531.9
+17143	Illinois	Peoria	infant_mortality_rate	896.3
+17145	Illinois	Perry	infant_mortality_rate	
+17147	Illinois	Piatt	infant_mortality_rate	
+17149	Illinois	Pike	infant_mortality_rate	
+17151	Illinois	Pope	infant_mortality_rate	
+17153	Illinois	Pulaski	infant_mortality_rate	
+17155	Illinois	Putnam	infant_mortality_rate	
+17157	Illinois	Randolph	infant_mortality_rate	559.9
+17159	Illinois	Richland	infant_mortality_rate	
+17161	Illinois	Rock Island	infant_mortality_rate	723.3
+17163	Illinois	St. Clair	infant_mortality_rate	821.6
+17165	Illinois	Saline	infant_mortality_rate	1051.2
+17167	Illinois	Sangamon	infant_mortality_rate	869.3
+17169	Illinois	Schuyler	infant_mortality_rate	
+17171	Illinois	Scott	infant_mortality_rate	
+17173	Illinois	Shelby	infant_mortality_rate	1027.4
+17175	Illinois	Stark	infant_mortality_rate	
+17177	Illinois	Stephenson	infant_mortality_rate	662
+17179	Illinois	Tazewell	infant_mortality_rate	605.3
+17181	Illinois	Union	infant_mortality_rate	
+17183	Illinois	Vermilion	infant_mortality_rate	690.1
+17185	Illinois	Wabash	infant_mortality_rate	
+17187	Illinois	Warren	infant_mortality_rate	
+17189	Illinois	Washington	infant_mortality_rate	
+17191	Illinois	Wayne	infant_mortality_rate	
+17193	Illinois	White	infant_mortality_rate	
+17195	Illinois	Whiteside	infant_mortality_rate	816.3
+17197	Illinois	Will	infant_mortality_rate	680.8
+17199	Illinois	Williamson	infant_mortality_rate	889.3
+17201	Illinois	Winnebago	infant_mortality_rate	786.2
+17203	Illinois	Woodford	infant_mortality_rate	528.7
+18001	Indiana	Adams	infant_mortality_rate	1208.6
+18003	Indiana	Allen	infant_mortality_rate	887.6
+18005	Indiana	Bartholomew	infant_mortality_rate	738.1
+18007	Indiana	Benton	infant_mortality_rate	
+18009	Indiana	Blackford	infant_mortality_rate	
+18011	Indiana	Boone	infant_mortality_rate	560.5
+18013	Indiana	Brown	infant_mortality_rate	
+18015	Indiana	Carroll	infant_mortality_rate	
+18017	Indiana	Cass	infant_mortality_rate	1048.3
+18019	Indiana	Clark	infant_mortality_rate	444.4
+18021	Indiana	Clay	infant_mortality_rate	700.2
+18023	Indiana	Clinton	infant_mortality_rate	705.3
+18025	Indiana	Crawford	infant_mortality_rate	
+18027	Indiana	Daviess	infant_mortality_rate	635.3
+18029	Indiana	Dearborn	infant_mortality_rate	773.2
+18031	Indiana	Decatur	infant_mortality_rate	
+18033	Indiana	DeKalb	infant_mortality_rate	590.9
+18035	Indiana	Delaware	infant_mortality_rate	784.1
+18037	Indiana	Dubois	infant_mortality_rate	654.3
+18039	Indiana	Elkhart	infant_mortality_rate	737.6
+18041	Indiana	Fayette	infant_mortality_rate	
+18043	Indiana	Floyd	infant_mortality_rate	519.8
+18045	Indiana	Fountain	infant_mortality_rate	
+18047	Indiana	Franklin	infant_mortality_rate	
+18049	Indiana	Fulton	infant_mortality_rate	865.2
+18051	Indiana	Gibson	infant_mortality_rate	
+18053	Indiana	Grant	infant_mortality_rate	948.4
+18055	Indiana	Greene	infant_mortality_rate	917.9
+18057	Indiana	Hamilton	infant_mortality_rate	495.8
+18059	Indiana	Hancock	infant_mortality_rate	863.6
+18061	Indiana	Harrison	infant_mortality_rate	471.3
+18063	Indiana	Hendricks	infant_mortality_rate	534
+18065	Indiana	Henry	infant_mortality_rate	1092.2
+18067	Indiana	Howard	infant_mortality_rate	573.8
+18069	Indiana	Huntington	infant_mortality_rate	
+18071	Indiana	Jackson	infant_mortality_rate	925.9
+18073	Indiana	Jasper	infant_mortality_rate	711.9
+18075	Indiana	Jay	infant_mortality_rate	861.5
+18077	Indiana	Jefferson	infant_mortality_rate	668
+18079	Indiana	Jennings	infant_mortality_rate	830.7
+18081	Indiana	Johnson	infant_mortality_rate	695.4
+18083	Indiana	Knox	infant_mortality_rate	768.6
+18085	Indiana	Kosciusko	infant_mortality_rate	596.3
+18087	Indiana	LaGrange	infant_mortality_rate	633.7
+18089	Indiana	Lake	infant_mortality_rate	927.9
+18091	Indiana	LaPorte	infant_mortality_rate	988.4
+18093	Indiana	Lawrence	infant_mortality_rate	764.5
+18095	Indiana	Madison	infant_mortality_rate	647.4
+18097	Indiana	Marion	infant_mortality_rate	1051.9
+18099	Indiana	Marshall	infant_mortality_rate	605.7
+18101	Indiana	Martin	infant_mortality_rate	
+18103	Indiana	Miami	infant_mortality_rate	943.9
+18105	Indiana	Monroe	infant_mortality_rate	518.7
+18107	Indiana	Montgomery	infant_mortality_rate	806.1
+18109	Indiana	Morgan	infant_mortality_rate	660.8
+18111	Indiana	Newton	infant_mortality_rate	
+18113	Indiana	Noble	infant_mortality_rate	635.1
+18115	Indiana	Ohio	infant_mortality_rate	
+18117	Indiana	Orange	infant_mortality_rate	
+18119	Indiana	Owen	infant_mortality_rate	
+18121	Indiana	Parke	infant_mortality_rate	
+18123	Indiana	Perry	infant_mortality_rate	
+18125	Indiana	Pike	infant_mortality_rate	
+18127	Indiana	Porter	infant_mortality_rate	506.3
+18129	Indiana	Posey	infant_mortality_rate	
+18131	Indiana	Pulaski	infant_mortality_rate	
+18133	Indiana	Putnam	infant_mortality_rate	505.8
+18135	Indiana	Randolph	infant_mortality_rate	
+18137	Indiana	Ripley	infant_mortality_rate	638.6
+18139	Indiana	Rush	infant_mortality_rate	
+18141	Indiana	St. Joseph	infant_mortality_rate	974.6
+18143	Indiana	Scott	infant_mortality_rate	
+18145	Indiana	Shelby	infant_mortality_rate	617.3
+18147	Indiana	Spencer	infant_mortality_rate	878.6
+18149	Indiana	Starke	infant_mortality_rate	758.1
+18151	Indiana	Steuben	infant_mortality_rate	
+18153	Indiana	Sullivan	infant_mortality_rate	1024.8
+18155	Indiana	Switzerland	infant_mortality_rate	
+18157	Indiana	Tippecanoe	infant_mortality_rate	591.6
+18159	Indiana	Tipton	infant_mortality_rate	
+18161	Indiana	Union	infant_mortality_rate	
+18163	Indiana	Vanderburgh	infant_mortality_rate	831.7
+18165	Indiana	Vermillion	infant_mortality_rate	
+18167	Indiana	Vigo	infant_mortality_rate	613.7
+18169	Indiana	Wabash	infant_mortality_rate	
+18171	Indiana	Warren	infant_mortality_rate	
+18173	Indiana	Warrick	infant_mortality_rate	623.2
+18175	Indiana	Washington	infant_mortality_rate	598.1
+18177	Indiana	Wayne	infant_mortality_rate	686.8
+18179	Indiana	Wells	infant_mortality_rate	
+18181	Indiana	White	infant_mortality_rate	825.9
+18183	Indiana	Whitley	infant_mortality_rate	
+19001	Iowa	Adair	infant_mortality_rate	
+19003	Iowa	Adams	infant_mortality_rate	
+19005	Iowa	Allamakee	infant_mortality_rate	
+19007	Iowa	Appanoose	infant_mortality_rate	
+19009	Iowa	Audubon	infant_mortality_rate	
+19011	Iowa	Benton	infant_mortality_rate	
+19013	Iowa	Black Hawk	infant_mortality_rate	546.6
+19015	Iowa	Boone	infant_mortality_rate	
+19017	Iowa	Bremer	infant_mortality_rate	
+19019	Iowa	Buchanan	infant_mortality_rate	
+19021	Iowa	Buena Vista	infant_mortality_rate	
+19023	Iowa	Butler	infant_mortality_rate	
+19025	Iowa	Calhoun	infant_mortality_rate	
+19027	Iowa	Carroll	infant_mortality_rate	
+19029	Iowa	Cass	infant_mortality_rate	
+19031	Iowa	Cedar	infant_mortality_rate	
+19033	Iowa	Cerro Gordo	infant_mortality_rate	660.1
+19035	Iowa	Cherokee	infant_mortality_rate	
+19037	Iowa	Chickasaw	infant_mortality_rate	
+19039	Iowa	Clarke	infant_mortality_rate	
+19041	Iowa	Clay	infant_mortality_rate	
+19043	Iowa	Clayton	infant_mortality_rate	
+19045	Iowa	Clinton	infant_mortality_rate	953
+19047	Iowa	Crawford	infant_mortality_rate	
+19049	Iowa	Dallas	infant_mortality_rate	217.9
+19051	Iowa	Davis	infant_mortality_rate	
+19053	Iowa	Decatur	infant_mortality_rate	
+19055	Iowa	Delaware	infant_mortality_rate	
+19057	Iowa	Des Moines	infant_mortality_rate	582.8
+19059	Iowa	Dickinson	infant_mortality_rate	
+19061	Iowa	Dubuque	infant_mortality_rate	522.9
+19063	Iowa	Emmet	infant_mortality_rate	
+19065	Iowa	Fayette	infant_mortality_rate	
+19067	Iowa	Floyd	infant_mortality_rate	
+19069	Iowa	Franklin	infant_mortality_rate	
+19071	Iowa	Fremont	infant_mortality_rate	
+19073	Iowa	Greene	infant_mortality_rate	
+19075	Iowa	Grundy	infant_mortality_rate	
+19077	Iowa	Guthrie	infant_mortality_rate	
+19079	Iowa	Hamilton	infant_mortality_rate	
+19081	Iowa	Hancock	infant_mortality_rate	
+19083	Iowa	Hardin	infant_mortality_rate	
+19085	Iowa	Harrison	infant_mortality_rate	
+19087	Iowa	Henry	infant_mortality_rate	
+19089	Iowa	Howard	infant_mortality_rate	
+19091	Iowa	Humboldt	infant_mortality_rate	
+19093	Iowa	Ida	infant_mortality_rate	
+19095	Iowa	Iowa	infant_mortality_rate	
+19097	Iowa	Jackson	infant_mortality_rate	
+19099	Iowa	Jasper	infant_mortality_rate	473.5
+19101	Iowa	Jefferson	infant_mortality_rate	
+19103	Iowa	Johnson	infant_mortality_rate	554.2
+19105	Iowa	Jones	infant_mortality_rate	
+19107	Iowa	Keokuk	infant_mortality_rate	
+19109	Iowa	Kossuth	infant_mortality_rate	
+19111	Iowa	Lee	infant_mortality_rate	
+19113	Iowa	Linn	infant_mortality_rate	498.1
+19115	Iowa	Louisa	infant_mortality_rate	
+19117	Iowa	Lucas	infant_mortality_rate	
+19119	Iowa	Lyon	infant_mortality_rate	
+19121	Iowa	Madison	infant_mortality_rate	
+19123	Iowa	Mahaska	infant_mortality_rate	
+19125	Iowa	Marion	infant_mortality_rate	536.7
+19127	Iowa	Marshall	infant_mortality_rate	
+19129	Iowa	Mills	infant_mortality_rate	
+19131	Iowa	Mitchell	infant_mortality_rate	
+19133	Iowa	Monona	infant_mortality_rate	
+19135	Iowa	Monroe	infant_mortality_rate	
+19137	Iowa	Montgomery	infant_mortality_rate	
+19139	Iowa	Muscatine	infant_mortality_rate	
+19141	Iowa	O'Brien	infant_mortality_rate	
+19143	Iowa	Osceola	infant_mortality_rate	
+19145	Iowa	Page	infant_mortality_rate	
+19147	Iowa	Palo Alto	infant_mortality_rate	
+19149	Iowa	Plymouth	infant_mortality_rate	
+19151	Iowa	Pocahontas	infant_mortality_rate	
+19153	Iowa	Polk	infant_mortality_rate	609.5
+19155	Iowa	Pottawattamie	infant_mortality_rate	548
+19157	Iowa	Poweshiek	infant_mortality_rate	
+19159	Iowa	Ringgold	infant_mortality_rate	
+19161	Iowa	Sac	infant_mortality_rate	
+19163	Iowa	Scott	infant_mortality_rate	537.5
+19165	Iowa	Shelby	infant_mortality_rate	
+19167	Iowa	Sioux	infant_mortality_rate	789.2
+19169	Iowa	Story	infant_mortality_rate	394.1
+19171	Iowa	Tama	infant_mortality_rate	
+19173	Iowa	Taylor	infant_mortality_rate	
+19175	Iowa	Union	infant_mortality_rate	
+19177	Iowa	Van Buren	infant_mortality_rate	
+19179	Iowa	Wapello	infant_mortality_rate	468.5
+19181	Iowa	Warren	infant_mortality_rate	663.2
+19183	Iowa	Washington	infant_mortality_rate	
+19185	Iowa	Wayne	infant_mortality_rate	
+19187	Iowa	Webster	infant_mortality_rate	
+19189	Iowa	Winnebago	infant_mortality_rate	
+19191	Iowa	Winneshiek	infant_mortality_rate	
+19193	Iowa	Woodbury	infant_mortality_rate	598.7
+19195	Iowa	Worth	infant_mortality_rate	
+19197	Iowa	Wright	infant_mortality_rate	
+20001	Kansas	Allen	infant_mortality_rate	
+20003	Kansas	Anderson	infant_mortality_rate	
+20005	Kansas	Atchison	infant_mortality_rate	
+20007	Kansas	Barber	infant_mortality_rate	
+20009	Kansas	Barton	infant_mortality_rate	789.9
+20011	Kansas	Bourbon	infant_mortality_rate	
+20013	Kansas	Brown	infant_mortality_rate	
+20015	Kansas	Butler	infant_mortality_rate	576.5
+20017	Kansas	Chase	infant_mortality_rate	
+20019	Kansas	Chautauqua	infant_mortality_rate	
+20021	Kansas	Cherokee	infant_mortality_rate	698.8
+20023	Kansas	Cheyenne	infant_mortality_rate	
+20025	Kansas	Clark	infant_mortality_rate	
+20027	Kansas	Clay	infant_mortality_rate	
+20029	Kansas	Cloud	infant_mortality_rate	
+20031	Kansas	Coffey	infant_mortality_rate	
+20033	Kansas	Comanche	infant_mortality_rate	
+20035	Kansas	Cowley	infant_mortality_rate	1022.8
+20037	Kansas	Crawford	infant_mortality_rate	785.3
+20039	Kansas	Decatur	infant_mortality_rate	
+20041	Kansas	Dickinson	infant_mortality_rate	
+20043	Kansas	Doniphan	infant_mortality_rate	
+20045	Kansas	Douglas	infant_mortality_rate	508.3
+20047	Kansas	Edwards	infant_mortality_rate	
+20049	Kansas	Elk	infant_mortality_rate	
+20051	Kansas	Ellis	infant_mortality_rate	
+20053	Kansas	Ellsworth	infant_mortality_rate	
+20055	Kansas	Finney	infant_mortality_rate	614.3
+20057	Kansas	Ford	infant_mortality_rate	771.6
+20059	Kansas	Franklin	infant_mortality_rate	596.5
+20061	Kansas	Geary	infant_mortality_rate	1182.4
+20063	Kansas	Gove	infant_mortality_rate	
+20065	Kansas	Graham	infant_mortality_rate	
+20067	Kansas	Grant	infant_mortality_rate	
+20069	Kansas	Gray	infant_mortality_rate	
+20071	Kansas	Greeley	infant_mortality_rate	
+20073	Kansas	Greenwood	infant_mortality_rate	
+20075	Kansas	Hamilton	infant_mortality_rate	
+20077	Kansas	Harper	infant_mortality_rate	
+20079	Kansas	Harvey	infant_mortality_rate	590.8
+20081	Kansas	Haskell	infant_mortality_rate	
+20083	Kansas	Hodgeman	infant_mortality_rate	
+20085	Kansas	Jackson	infant_mortality_rate	
+20087	Kansas	Jefferson	infant_mortality_rate	
+20089	Kansas	Jewell	infant_mortality_rate	
+20091	Kansas	Johnson	infant_mortality_rate	621.5
+20093	Kansas	Kearny	infant_mortality_rate	
+20095	Kansas	Kingman	infant_mortality_rate	
+20097	Kansas	Kiowa	infant_mortality_rate	
+20099	Kansas	Labette	infant_mortality_rate	791.6
+20101	Kansas	Lane	infant_mortality_rate	
+20103	Kansas	Leavenworth	infant_mortality_rate	527.9
+20105	Kansas	Lincoln	infant_mortality_rate	
+20107	Kansas	Linn	infant_mortality_rate	
+20109	Kansas	Logan	infant_mortality_rate	
+20111	Kansas	Lyon	infant_mortality_rate	792
+20113	Kansas	McPherson	infant_mortality_rate	818.8
+20115	Kansas	Marion	infant_mortality_rate	2047.2
+20117	Kansas	Marshall	infant_mortality_rate	
+20119	Kansas	Meade	infant_mortality_rate	
+20121	Kansas	Miami	infant_mortality_rate	614.4
+20123	Kansas	Mitchell	infant_mortality_rate	
+20125	Kansas	Montgomery	infant_mortality_rate	403.2
+20127	Kansas	Morris	infant_mortality_rate	
+20129	Kansas	Morton	infant_mortality_rate	
+20131	Kansas	Nemaha	infant_mortality_rate	
+20133	Kansas	Neosho	infant_mortality_rate	1591.8
+20135	Kansas	Ness	infant_mortality_rate	
+20137	Kansas	Norton	infant_mortality_rate	
+20139	Kansas	Osage	infant_mortality_rate	
+20141	Kansas	Osborne	infant_mortality_rate	
+20143	Kansas	Ottawa	infant_mortality_rate	
+20145	Kansas	Pawnee	infant_mortality_rate	
+20147	Kansas	Phillips	infant_mortality_rate	
+20149	Kansas	Pottawatomie	infant_mortality_rate	569.5
+20151	Kansas	Pratt	infant_mortality_rate	
+20153	Kansas	Rawlins	infant_mortality_rate	
+20155	Kansas	Reno	infant_mortality_rate	866.1
+20157	Kansas	Republic	infant_mortality_rate	
+20159	Kansas	Rice	infant_mortality_rate	
+20161	Kansas	Riley	infant_mortality_rate	588.8
+20163	Kansas	Rooks	infant_mortality_rate	
+20165	Kansas	Rush	infant_mortality_rate	
+20167	Kansas	Russell	infant_mortality_rate	
+20169	Kansas	Saline	infant_mortality_rate	842.8
+20171	Kansas	Scott	infant_mortality_rate	
+20173	Kansas	Sedgwick	infant_mortality_rate	817.5
+20175	Kansas	Seward	infant_mortality_rate	706.6
+20177	Kansas	Shawnee	infant_mortality_rate	877.2
+20179	Kansas	Sheridan	infant_mortality_rate	
+20181	Kansas	Sherman	infant_mortality_rate	
+20183	Kansas	Smith	infant_mortality_rate	
+20185	Kansas	Stafford	infant_mortality_rate	
+20187	Kansas	Stanton	infant_mortality_rate	
+20189	Kansas	Stevens	infant_mortality_rate	
+20191	Kansas	Sumner	infant_mortality_rate	
+20193	Kansas	Thomas	infant_mortality_rate	
+20195	Kansas	Trego	infant_mortality_rate	
+20197	Kansas	Wabaunsee	infant_mortality_rate	
+20199	Kansas	Wallace	infant_mortality_rate	
+20201	Kansas	Washington	infant_mortality_rate	
+20203	Kansas	Wichita	infant_mortality_rate	
+20205	Kansas	Wilson	infant_mortality_rate	
+20207	Kansas	Woodson	infant_mortality_rate	
+20209	Kansas	Wyandotte	infant_mortality_rate	843.3
+21001	Kentucky	Adair	infant_mortality_rate	
+21003	Kentucky	Allen	infant_mortality_rate	719.4
+21005	Kentucky	Anderson	infant_mortality_rate	917.4
+21007	Kentucky	Ballard	infant_mortality_rate	
+21009	Kentucky	Barren	infant_mortality_rate	760.3
+21011	Kentucky	Bath	infant_mortality_rate	
+21013	Kentucky	Bell	infant_mortality_rate	1007.7
+21015	Kentucky	Boone	infant_mortality_rate	676.1
+21017	Kentucky	Bourbon	infant_mortality_rate	1097.2
+21019	Kentucky	Boyd	infant_mortality_rate	653
+21021	Kentucky	Boyle	infant_mortality_rate	
+21023	Kentucky	Bracken	infant_mortality_rate	
+21025	Kentucky	Breathitt	infant_mortality_rate	
+21027	Kentucky	Breckinridge	infant_mortality_rate	
+21029	Kentucky	Bullitt	infant_mortality_rate	437.1
+21031	Kentucky	Butler	infant_mortality_rate	
+21033	Kentucky	Caldwell	infant_mortality_rate	
+21035	Kentucky	Calloway	infant_mortality_rate	
+21037	Kentucky	Campbell	infant_mortality_rate	705.7
+21039	Kentucky	Carlisle	infant_mortality_rate	
+21041	Kentucky	Carroll	infant_mortality_rate	
+21043	Kentucky	Carter	infant_mortality_rate	
+21045	Kentucky	Casey	infant_mortality_rate	865.1
+21047	Kentucky	Christian	infant_mortality_rate	875.4
+21049	Kentucky	Clark	infant_mortality_rate	583.5
+21051	Kentucky	Clay	infant_mortality_rate	
+21053	Kentucky	Clinton	infant_mortality_rate	
+21055	Kentucky	Crittenden	infant_mortality_rate	
+21057	Kentucky	Cumberland	infant_mortality_rate	
+21059	Kentucky	Daviess	infant_mortality_rate	891.1
+21061	Kentucky	Edmonson	infant_mortality_rate	
+21063	Kentucky	Elliott	infant_mortality_rate	
+21065	Kentucky	Estill	infant_mortality_rate	1321.6
+21067	Kentucky	Fayette	infant_mortality_rate	781.8
+21069	Kentucky	Fleming	infant_mortality_rate	
+21071	Kentucky	Floyd	infant_mortality_rate	954.2
+21073	Kentucky	Franklin	infant_mortality_rate	648.9
+21075	Kentucky	Fulton	infant_mortality_rate	
+21077	Kentucky	Gallatin	infant_mortality_rate	
+21079	Kentucky	Garrard	infant_mortality_rate	
+21081	Kentucky	Grant	infant_mortality_rate	582.6
+21083	Kentucky	Graves	infant_mortality_rate	581.8
+21085	Kentucky	Grayson	infant_mortality_rate	
+21087	Kentucky	Green	infant_mortality_rate	
+21089	Kentucky	Greenup	infant_mortality_rate	612.6
+21091	Kentucky	Hancock	infant_mortality_rate	
+21093	Kentucky	Hardin	infant_mortality_rate	634.1
+21095	Kentucky	Harlan	infant_mortality_rate	910
+21097	Kentucky	Harrison	infant_mortality_rate	
+21099	Kentucky	Hart	infant_mortality_rate	
+21101	Kentucky	Henderson	infant_mortality_rate	851.2
+21103	Kentucky	Henry	infant_mortality_rate	
+21105	Kentucky	Hickman	infant_mortality_rate	
+21107	Kentucky	Hopkins	infant_mortality_rate	873.8
+21109	Kentucky	Jackson	infant_mortality_rate	
+21111	Kentucky	Jefferson	infant_mortality_rate	703.2
+21113	Kentucky	Jessamine	infant_mortality_rate	635.5
+21115	Kentucky	Johnson	infant_mortality_rate	1326.8
+21117	Kentucky	Kenton	infant_mortality_rate	1121.5
+21119	Kentucky	Knott	infant_mortality_rate	
+21121	Kentucky	Knox	infant_mortality_rate	871.6
+21123	Kentucky	Larue	infant_mortality_rate	
+21125	Kentucky	Laurel	infant_mortality_rate	565.9
+21127	Kentucky	Lawrence	infant_mortality_rate	936.2
+21129	Kentucky	Lee	infant_mortality_rate	
+21131	Kentucky	Leslie	infant_mortality_rate	
+21133	Kentucky	Letcher	infant_mortality_rate	
+21135	Kentucky	Lewis	infant_mortality_rate	
+21137	Kentucky	Lincoln	infant_mortality_rate	902.9
+21139	Kentucky	Livingston	infant_mortality_rate	
+21141	Kentucky	Logan	infant_mortality_rate	654.7
+21143	Kentucky	Lyon	infant_mortality_rate	
+21145	Kentucky	McCracken	infant_mortality_rate	759.6
+21147	Kentucky	McCreary	infant_mortality_rate	854.7
+21149	Kentucky	McLean	infant_mortality_rate	
+21151	Kentucky	Madison	infant_mortality_rate	516.3
+21153	Kentucky	Magoffin	infant_mortality_rate	
+21155	Kentucky	Marion	infant_mortality_rate	
+21157	Kentucky	Marshall	infant_mortality_rate	
+21159	Kentucky	Martin	infant_mortality_rate	
+21161	Kentucky	Mason	infant_mortality_rate	1327.4
+21163	Kentucky	Meade	infant_mortality_rate	
+21165	Kentucky	Menifee	infant_mortality_rate	
+21167	Kentucky	Mercer	infant_mortality_rate	
+21169	Kentucky	Metcalfe	infant_mortality_rate	
+21171	Kentucky	Monroe	infant_mortality_rate	
+21173	Kentucky	Montgomery	infant_mortality_rate	814.3
+21175	Kentucky	Morgan	infant_mortality_rate	
+21177	Kentucky	Muhlenberg	infant_mortality_rate	1129.6
+21179	Kentucky	Nelson	infant_mortality_rate	456.5
+21181	Kentucky	Nicholas	infant_mortality_rate	
+21183	Kentucky	Ohio	infant_mortality_rate	571.1
+21185	Kentucky	Oldham	infant_mortality_rate	470.8
+21187	Kentucky	Owen	infant_mortality_rate	
+21189	Kentucky	Owsley	infant_mortality_rate	
+21191	Kentucky	Pendleton	infant_mortality_rate	1369.9
+21193	Kentucky	Perry	infant_mortality_rate	836.1
+21195	Kentucky	Pike	infant_mortality_rate	859.1
+21197	Kentucky	Powell	infant_mortality_rate	
+21199	Kentucky	Pulaski	infant_mortality_rate	722.7
+21201	Kentucky	Robertson	infant_mortality_rate	
+21203	Kentucky	Rockcastle	infant_mortality_rate	
+21205	Kentucky	Rowan	infant_mortality_rate	
+21207	Kentucky	Russell	infant_mortality_rate	
+21209	Kentucky	Scott	infant_mortality_rate	348.7
+21211	Kentucky	Shelby	infant_mortality_rate	567.8
+21213	Kentucky	Simpson	infant_mortality_rate	
+21215	Kentucky	Spencer	infant_mortality_rate	
+21217	Kentucky	Taylor	infant_mortality_rate	673.2
+21219	Kentucky	Todd	infant_mortality_rate	
+21221	Kentucky	Trigg	infant_mortality_rate	
+21223	Kentucky	Trimble	infant_mortality_rate	
+21225	Kentucky	Union	infant_mortality_rate	
+21227	Kentucky	Warren	infant_mortality_rate	670.1
+21229	Kentucky	Washington	infant_mortality_rate	
+21231	Kentucky	Wayne	infant_mortality_rate	
+21233	Kentucky	Webster	infant_mortality_rate	
+21235	Kentucky	Whitley	infant_mortality_rate	1054.9
+21237	Kentucky	Wolfe	infant_mortality_rate	
+21239	Kentucky	Woodford	infant_mortality_rate	
+22001	Louisiana	Acadia	infant_mortality_rate	1062.7
+22003	Louisiana	Allen	infant_mortality_rate	
+22005	Louisiana	Ascension	infant_mortality_rate	894.9
+22007	Louisiana	Assumption	infant_mortality_rate	974.9
+22009	Louisiana	Avoyelles	infant_mortality_rate	870.5
+22011	Louisiana	Beauregard	infant_mortality_rate	663.8
+22013	Louisiana	Bienville	infant_mortality_rate	1643.8
+22015	Louisiana	Bossier	infant_mortality_rate	714.3
+22017	Louisiana	Caddo	infant_mortality_rate	1495.2
+22019	Louisiana	Calcasieu	infant_mortality_rate	1010.2
+22021	Louisiana	Caldwell	infant_mortality_rate	
+22023	Louisiana	Cameron	infant_mortality_rate	
+22025	Louisiana	Catahoula	infant_mortality_rate	
+22027	Louisiana	Claiborne	infant_mortality_rate	1277
+22029	Louisiana	Concordia	infant_mortality_rate	1314.8
+22031	Louisiana	De Soto	infant_mortality_rate	1039
+22033	Louisiana	East Baton Rouge	infant_mortality_rate	1182.1
+22035	Louisiana	East Carroll	infant_mortality_rate	3041.8
+22037	Louisiana	East Feliciana	infant_mortality_rate	905
+22039	Louisiana	Evangeline	infant_mortality_rate	952.7
+22041	Louisiana	Franklin	infant_mortality_rate	887.6
+22043	Louisiana	Grant	infant_mortality_rate	770.8
+22045	Louisiana	Iberia	infant_mortality_rate	857.4
+22047	Louisiana	Iberville	infant_mortality_rate	947.2
+22049	Louisiana	Jackson	infant_mortality_rate	
+22051	Louisiana	Jefferson	infant_mortality_rate	792.1
+22053	Louisiana	Jefferson Davis	infant_mortality_rate	1055.7
+22055	Louisiana	Lafayette	infant_mortality_rate	832.6
+22057	Louisiana	Lafourche	infant_mortality_rate	659.5
+22059	Louisiana	La Salle	infant_mortality_rate	
+22061	Louisiana	Lincoln	infant_mortality_rate	892.5
+22063	Louisiana	Livingston	infant_mortality_rate	503.9
+22065	Louisiana	Madison	infant_mortality_rate	1283.7
+22067	Louisiana	Morehouse	infant_mortality_rate	602.7
+22069	Louisiana	Natchitoches	infant_mortality_rate	851.2
+22071	Louisiana	Orleans	infant_mortality_rate	947.9
+22073	Louisiana	Ouachita	infant_mortality_rate	1260.7
+22075	Louisiana	Plaquemines	infant_mortality_rate	618.4
+22077	Louisiana	Pointe Coupee	infant_mortality_rate	1187.3
+22079	Louisiana	Rapides	infant_mortality_rate	867.6
+22081	Louisiana	Red River	infant_mortality_rate	
+22083	Louisiana	Richland	infant_mortality_rate	1054.1
+22085	Louisiana	Sabine	infant_mortality_rate	616.5
+22087	Louisiana	St. Bernard	infant_mortality_rate	504.8
+22089	Louisiana	St. Charles	infant_mortality_rate	728.1
+22091	Louisiana	St. Helena	infant_mortality_rate	
+22093	Louisiana	St. James	infant_mortality_rate	694.4
+22095	Louisiana	St. John the Baptist	infant_mortality_rate	1081.1
+22097	Louisiana	St. Landry	infant_mortality_rate	857.1
+22099	Louisiana	St. Martin	infant_mortality_rate	1069.1
+22101	Louisiana	St. Mary	infant_mortality_rate	630.8
+22103	Louisiana	St. Tammany	infant_mortality_rate	661.9
+22105	Louisiana	Tangipahoa	infant_mortality_rate	1032.7
+22107	Louisiana	Tensas	infant_mortality_rate	
+22109	Louisiana	Terrebonne	infant_mortality_rate	853.9
+22111	Louisiana	Union	infant_mortality_rate	734.3
+22113	Louisiana	Vermilion	infant_mortality_rate	648
+22115	Louisiana	Vernon	infant_mortality_rate	686
+22117	Louisiana	Washington	infant_mortality_rate	970
+22119	Louisiana	Webster	infant_mortality_rate	1114.3
+22121	Louisiana	West Baton Rouge	infant_mortality_rate	1324.9
+22123	Louisiana	West Carroll	infant_mortality_rate	
+22125	Louisiana	West Feliciana	infant_mortality_rate	
+22127	Louisiana	Winn	infant_mortality_rate	
+23001	Maine	Androscoggin	infant_mortality_rate	741.1
+23003	Maine	Aroostook	infant_mortality_rate	697.1
+23005	Maine	Cumberland	infant_mortality_rate	618.9
+23007	Maine	Franklin	infant_mortality_rate	
+23009	Maine	Hancock	infant_mortality_rate	
+23011	Maine	Kennebec	infant_mortality_rate	464.7
+23013	Maine	Knox	infant_mortality_rate	686
+23015	Maine	Lincoln	infant_mortality_rate	
+23017	Maine	Oxford	infant_mortality_rate	483.6
+23019	Maine	Penobscot	infant_mortality_rate	603.5
+23021	Maine	Piscataquis	infant_mortality_rate	
+23023	Maine	Sagadahoc	infant_mortality_rate	
+23025	Maine	Somerset	infant_mortality_rate	729.4
+23027	Maine	Waldo	infant_mortality_rate	612.9
+23029	Maine	Washington	infant_mortality_rate	
+23031	Maine	York	infant_mortality_rate	553.3
+24001	Maryland	Allegany	infant_mortality_rate	658.8
+24003	Maryland	Anne Arundel	infant_mortality_rate	733
+24005	Maryland	Baltimore	infant_mortality_rate	709.7
+24009	Maryland	Calvert	infant_mortality_rate	565.9
+24011	Maryland	Caroline	infant_mortality_rate	809.4
+24013	Maryland	Carroll	infant_mortality_rate	486.4
+24015	Maryland	Cecil	infant_mortality_rate	487.8
+24017	Maryland	Charles	infant_mortality_rate	801.6
+24019	Maryland	Dorchester	infant_mortality_rate	1729.8
+24021	Maryland	Frederick	infant_mortality_rate	440.9
+24023	Maryland	Garrett	infant_mortality_rate	
+24025	Maryland	Harford	infant_mortality_rate	564.1
+24027	Maryland	Howard	infant_mortality_rate	517.3
+24029	Maryland	Kent	infant_mortality_rate	
+24031	Maryland	Montgomery	infant_mortality_rate	563.8
+24033	Maryland	Prince George's	infant_mortality_rate	1018.1
+24035	Maryland	Queen Anne's	infant_mortality_rate	510.6
+24037	Maryland	St. Mary's	infant_mortality_rate	714.8
+24039	Maryland	Somerset	infant_mortality_rate	807.6
+24041	Maryland	Talbot	infant_mortality_rate	
+24043	Maryland	Washington	infant_mortality_rate	669.6
+24045	Maryland	Wicomico	infant_mortality_rate	832.1
+24047	Maryland	Worcester	infant_mortality_rate	687.3
+24510	Maryland	Baltimore City	infant_mortality_rate	1354.8
+25001	Massachusetts	Barnstable	infant_mortality_rate	432.3
+25003	Massachusetts	Berkshire	infant_mortality_rate	367.1
+25005	Massachusetts	Bristol	infant_mortality_rate	584.6
+25007	Massachusetts	Dukes	infant_mortality_rate	
+25009	Massachusetts	Essex	infant_mortality_rate	451.2
+25011	Massachusetts	Franklin	infant_mortality_rate	489.1
+25013	Massachusetts	Hampden	infant_mortality_rate	657.5
+25015	Massachusetts	Hampshire	infant_mortality_rate	425.2
+25017	Massachusetts	Middlesex	infant_mortality_rate	426.8
+25019	Massachusetts	Nantucket	infant_mortality_rate	
+25021	Massachusetts	Norfolk	infant_mortality_rate	354.4
+25023	Massachusetts	Plymouth	infant_mortality_rate	537.1
+25025	Massachusetts	Suffolk	infant_mortality_rate	634.2
+25027	Massachusetts	Worcester	infant_mortality_rate	560.4
+26001	Michigan	Alcona	infant_mortality_rate	
+26003	Michigan	Alger	infant_mortality_rate	
+26005	Michigan	Allegan	infant_mortality_rate	559.9
+26007	Michigan	Alpena	infant_mortality_rate	740.2
+26009	Michigan	Antrim	infant_mortality_rate	882.8
+26011	Michigan	Arenac	infant_mortality_rate	
+26013	Michigan	Baraga	infant_mortality_rate	
+26015	Michigan	Barry	infant_mortality_rate	887
+26017	Michigan	Bay	infant_mortality_rate	789.6
+26019	Michigan	Benzie	infant_mortality_rate	
+26021	Michigan	Berrien	infant_mortality_rate	912.5
+26023	Michigan	Branch	infant_mortality_rate	441.3
+26025	Michigan	Calhoun	infant_mortality_rate	1128.8
+26027	Michigan	Cass	infant_mortality_rate	545
+26029	Michigan	Charlevoix	infant_mortality_rate	
+26031	Michigan	Cheboygan	infant_mortality_rate	
+26033	Michigan	Chippewa	infant_mortality_rate	
+26035	Michigan	Clare	infant_mortality_rate	541.7
+26037	Michigan	Clinton	infant_mortality_rate	378.7
+26039	Michigan	Crawford	infant_mortality_rate	
+26041	Michigan	Delta	infant_mortality_rate	
+26043	Michigan	Dickinson	infant_mortality_rate	854
+26045	Michigan	Eaton	infant_mortality_rate	516.7
+26047	Michigan	Emmet	infant_mortality_rate	
+26049	Michigan	Genesee	infant_mortality_rate	873.8
+26051	Michigan	Gladwin	infant_mortality_rate	
+26053	Michigan	Gogebic	infant_mortality_rate	
+26055	Michigan	Grand Traverse	infant_mortality_rate	679.3
+26057	Michigan	Gratiot	infant_mortality_rate	851.1
+26059	Michigan	Hillsdale	infant_mortality_rate	639.4
+26061	Michigan	Houghton	infant_mortality_rate	627.7
+26063	Michigan	Huron	infant_mortality_rate	
+26065	Michigan	Ingham	infant_mortality_rate	663.2
+26067	Michigan	Ionia	infant_mortality_rate	391.1
+26069	Michigan	Iosco	infant_mortality_rate	
+26071	Michigan	Iron	infant_mortality_rate	
+26073	Michigan	Isabella	infant_mortality_rate	542.4
+26075	Michigan	Jackson	infant_mortality_rate	725.9
+26077	Michigan	Kalamazoo	infant_mortality_rate	808.4
+26079	Michigan	Kalkaska	infant_mortality_rate	
+26081	Michigan	Kent	infant_mortality_rate	744.9
+26083	Michigan	Keweenaw	infant_mortality_rate	
+26085	Michigan	Lake	infant_mortality_rate	
+26087	Michigan	Lapeer	infant_mortality_rate	805.7
+26089	Michigan	Leelanau	infant_mortality_rate	
+26091	Michigan	Lenawee	infant_mortality_rate	923.2
+26093	Michigan	Livingston	infant_mortality_rate	568.4
+26095	Michigan	Luce	infant_mortality_rate	
+26097	Michigan	Mackinac	infant_mortality_rate	
+26099	Michigan	Macomb	infant_mortality_rate	621.9
+26101	Michigan	Manistee	infant_mortality_rate	
+26103	Michigan	Marquette	infant_mortality_rate	431.5
+26105	Michigan	Mason	infant_mortality_rate	710.1
+26107	Michigan	Mecosta	infant_mortality_rate	718.5
+26109	Michigan	Menominee	infant_mortality_rate	
+26111	Michigan	Midland	infant_mortality_rate	479.2
+26113	Michigan	Missaukee	infant_mortality_rate	
+26115	Michigan	Monroe	infant_mortality_rate	618.2
+26117	Michigan	Montcalm	infant_mortality_rate	504.9
+26119	Michigan	Montmorency	infant_mortality_rate	
+26121	Michigan	Muskegon	infant_mortality_rate	750.7
+26123	Michigan	Newaygo	infant_mortality_rate	717.5
+26125	Michigan	Oakland	infant_mortality_rate	646.6
+26127	Michigan	Oceana	infant_mortality_rate	675
+26129	Michigan	Ogemaw	infant_mortality_rate	
+26131	Michigan	Ontonagon	infant_mortality_rate	
+26133	Michigan	Osceola	infant_mortality_rate	
+26135	Michigan	Oscoda	infant_mortality_rate	
+26137	Michigan	Otsego	infant_mortality_rate	795.4
+26139	Michigan	Ottawa	infant_mortality_rate	576.9
+26141	Michigan	Presque Isle	infant_mortality_rate	
+26143	Michigan	Roscommon	infant_mortality_rate	
+26145	Michigan	Saginaw	infant_mortality_rate	896.9
+26147	Michigan	St. Clair	infant_mortality_rate	561.9
+26149	Michigan	St. Joseph	infant_mortality_rate	1055.8
+26151	Michigan	Sanilac	infant_mortality_rate	576
+26153	Michigan	Schoolcraft	infant_mortality_rate	
+26155	Michigan	Shiawassee	infant_mortality_rate	459.2
+26157	Michigan	Tuscola	infant_mortality_rate	540.9
+26159	Michigan	Van Buren	infant_mortality_rate	507.8
+26161	Michigan	Washtenaw	infant_mortality_rate	532.8
+26163	Michigan	Wayne	infant_mortality_rate	1064.9
+26165	Michigan	Wexford	infant_mortality_rate	623.1
+27001	Minnesota	Aitkin	infant_mortality_rate	
+27003	Minnesota	Anoka	infant_mortality_rate	450.1
+27005	Minnesota	Becker	infant_mortality_rate	932.3
+27007	Minnesota	Beltrami	infant_mortality_rate	802.3
+27009	Minnesota	Benton	infant_mortality_rate	395
+27011	Minnesota	Big Stone	infant_mortality_rate	
+27013	Minnesota	Blue Earth	infant_mortality_rate	487.8
+27015	Minnesota	Brown	infant_mortality_rate	
+27017	Minnesota	Carlton	infant_mortality_rate	506.4
+27019	Minnesota	Carver	infant_mortality_rate	443.9
+27021	Minnesota	Cass	infant_mortality_rate	686.5
+27023	Minnesota	Chippewa	infant_mortality_rate	
+27025	Minnesota	Chisago	infant_mortality_rate	567.7
+27027	Minnesota	Clay	infant_mortality_rate	911.8
+27029	Minnesota	Clearwater	infant_mortality_rate	
+27031	Minnesota	Cook	infant_mortality_rate	
+27033	Minnesota	Cottonwood	infant_mortality_rate	
+27035	Minnesota	Crow Wing	infant_mortality_rate	349.5
+27037	Minnesota	Dakota	infant_mortality_rate	350.2
+27039	Minnesota	Dodge	infant_mortality_rate	
+27041	Minnesota	Douglas	infant_mortality_rate	434.8
+27043	Minnesota	Faribault	infant_mortality_rate	
+27045	Minnesota	Fillmore	infant_mortality_rate	
+27047	Minnesota	Freeborn	infant_mortality_rate	653.6
+27049	Minnesota	Goodhue	infant_mortality_rate	416.2
+27051	Minnesota	Grant	infant_mortality_rate	
+27053	Minnesota	Hennepin	infant_mortality_rate	591.1
+27055	Minnesota	Houston	infant_mortality_rate	
+27057	Minnesota	Hubbard	infant_mortality_rate	
+27059	Minnesota	Isanti	infant_mortality_rate	511.5
+27061	Minnesota	Itasca	infant_mortality_rate	521.1
+27063	Minnesota	Jackson	infant_mortality_rate	
+27065	Minnesota	Kanabec	infant_mortality_rate	
+27067	Minnesota	Kandiyohi	infant_mortality_rate	567.2
+27069	Minnesota	Kittson	infant_mortality_rate	
+27071	Minnesota	Koochiching	infant_mortality_rate	
+27073	Minnesota	Lac qui Parle	infant_mortality_rate	
+27075	Minnesota	Lake	infant_mortality_rate	
+27077	Minnesota	Lake of the Woods	infant_mortality_rate	
+27079	Minnesota	Le Sueur	infant_mortality_rate	
+27081	Minnesota	Lincoln	infant_mortality_rate	
+27083	Minnesota	Lyon	infant_mortality_rate	701.6
+27085	Minnesota	McLeod	infant_mortality_rate	
+27087	Minnesota	Mahnomen	infant_mortality_rate	
+27089	Minnesota	Marshall	infant_mortality_rate	
+27091	Minnesota	Martin	infant_mortality_rate	
+27093	Minnesota	Meeker	infant_mortality_rate	626.2
+27095	Minnesota	Mille Lacs	infant_mortality_rate	873.6
+27097	Minnesota	Morrison	infant_mortality_rate	670.5
+27099	Minnesota	Mower	infant_mortality_rate	608.7
+27101	Minnesota	Murray	infant_mortality_rate	
+27103	Minnesota	Nicollet	infant_mortality_rate	665
+27105	Minnesota	Nobles	infant_mortality_rate	554.3
+27107	Minnesota	Norman	infant_mortality_rate	
+27109	Minnesota	Olmsted	infant_mortality_rate	663.9
+27111	Minnesota	Otter Tail	infant_mortality_rate	
+27113	Minnesota	Pennington	infant_mortality_rate	
+27115	Minnesota	Pine	infant_mortality_rate	622.5
+27117	Minnesota	Pipestone	infant_mortality_rate	
+27119	Minnesota	Polk	infant_mortality_rate	651.3
+27121	Minnesota	Pope	infant_mortality_rate	
+27123	Minnesota	Ramsey	infant_mortality_rate	680.2
+27125	Minnesota	Red Lake	infant_mortality_rate	
+27127	Minnesota	Redwood	infant_mortality_rate	
+27129	Minnesota	Renville	infant_mortality_rate	
+27131	Minnesota	Rice	infant_mortality_rate	320.7
+27133	Minnesota	Rock	infant_mortality_rate	
+27135	Minnesota	Roseau	infant_mortality_rate	
+27137	Minnesota	St. Louis	infant_mortality_rate	481.2
+27139	Minnesota	Scott	infant_mortality_rate	483
+27141	Minnesota	Sherburne	infant_mortality_rate	466.5
+27143	Minnesota	Sibley	infant_mortality_rate	
+27145	Minnesota	Stearns	infant_mortality_rate	476.2
+27147	Minnesota	Steele	infant_mortality_rate	
+27149	Minnesota	Stevens	infant_mortality_rate	
+27151	Minnesota	Swift	infant_mortality_rate	
+27153	Minnesota	Todd	infant_mortality_rate	
+27155	Minnesota	Traverse	infant_mortality_rate	
+27157	Minnesota	Wabasha	infant_mortality_rate	
+27159	Minnesota	Wadena	infant_mortality_rate	
+27161	Minnesota	Waseca	infant_mortality_rate	
+27163	Minnesota	Washington	infant_mortality_rate	505.6
+27165	Minnesota	Watonwan	infant_mortality_rate	
+27167	Minnesota	Wilkin	infant_mortality_rate	
+27169	Minnesota	Winona	infant_mortality_rate	640.8
+27171	Minnesota	Wright	infant_mortality_rate	401.2
+27173	Minnesota	Yellow Medicine	infant_mortality_rate	
+28001	Mississippi	Adams	infant_mortality_rate	1290.9
+28003	Mississippi	Alcorn	infant_mortality_rate	722.7
+28005	Mississippi	Amite	infant_mortality_rate	
+28007	Mississippi	Attala	infant_mortality_rate	1123.6
+28009	Mississippi	Benton	infant_mortality_rate	
+28011	Mississippi	Bolivar	infant_mortality_rate	1573.7
+28013	Mississippi	Calhoun	infant_mortality_rate	1181.5
+28015	Mississippi	Carroll	infant_mortality_rate	
+28017	Mississippi	Chickasaw	infant_mortality_rate	1161.8
+28019	Mississippi	Choctaw	infant_mortality_rate	1597.4
+28021	Mississippi	Claiborne	infant_mortality_rate	
+28023	Mississippi	Clarke	infant_mortality_rate	1113.4
+28025	Mississippi	Clay	infant_mortality_rate	1051.2
+28027	Mississippi	Coahoma	infant_mortality_rate	1226.5
+28029	Mississippi	Copiah	infant_mortality_rate	1018.7
+28031	Mississippi	Covington	infant_mortality_rate	1107.3
+28033	Mississippi	DeSoto	infant_mortality_rate	799.1
+28035	Mississippi	Forrest	infant_mortality_rate	1340.3
+28037	Mississippi	Franklin	infant_mortality_rate	
+28039	Mississippi	George	infant_mortality_rate	654.7
+28041	Mississippi	Greene	infant_mortality_rate	
+28043	Mississippi	Grenada	infant_mortality_rate	1285.7
+28045	Mississippi	Hancock	infant_mortality_rate	564.1
+28047	Mississippi	Harrison	infant_mortality_rate	867
+28049	Mississippi	Hinds	infant_mortality_rate	1189.4
+28051	Mississippi	Holmes	infant_mortality_rate	1477.8
+28053	Mississippi	Humphreys	infant_mortality_rate	1210.1
+28055	Mississippi	Issaquena	infant_mortality_rate	
+28057	Mississippi	Itawamba	infant_mortality_rate	1049.5
+28059	Mississippi	Jackson	infant_mortality_rate	946.7
+28061	Mississippi	Jasper	infant_mortality_rate	1361.2
+28063	Mississippi	Jefferson	infant_mortality_rate	
+28065	Mississippi	Jefferson Davis	infant_mortality_rate	1109.9
+28067	Mississippi	Jones	infant_mortality_rate	855.3
+28069	Mississippi	Kemper	infant_mortality_rate	
+28071	Mississippi	Lafayette	infant_mortality_rate	819.7
+28073	Mississippi	Lamar	infant_mortality_rate	575.3
+28075	Mississippi	Lauderdale	infant_mortality_rate	1144.5
+28077	Mississippi	Lawrence	infant_mortality_rate	1717.2
+28079	Mississippi	Leake	infant_mortality_rate	1202.8
+28081	Mississippi	Lee	infant_mortality_rate	1097.2
+28083	Mississippi	Leflore	infant_mortality_rate	1182.1
+28085	Mississippi	Lincoln	infant_mortality_rate	1204.8
+28087	Mississippi	Lowndes	infant_mortality_rate	1052.9
+28089	Mississippi	Madison	infant_mortality_rate	773.6
+28091	Mississippi	Marion	infant_mortality_rate	1202.6
+28093	Mississippi	Marshall	infant_mortality_rate	899.1
+28095	Mississippi	Monroe	infant_mortality_rate	1293.3
+28097	Mississippi	Montgomery	infant_mortality_rate	1765.4
+28099	Mississippi	Neshoba	infant_mortality_rate	1115.9
+28101	Mississippi	Newton	infant_mortality_rate	1134.8
+28103	Mississippi	Noxubee	infant_mortality_rate	1362.7
+28105	Mississippi	Oktibbeha	infant_mortality_rate	981.1
+28107	Mississippi	Panola	infant_mortality_rate	1013.1
+28109	Mississippi	Pearl River	infant_mortality_rate	962.5
+28111	Mississippi	Perry	infant_mortality_rate	1242.2
+28113	Mississippi	Pike	infant_mortality_rate	1539.4
+28115	Mississippi	Pontotoc	infant_mortality_rate	1069.5
+28117	Mississippi	Prentiss	infant_mortality_rate	743.5
+28119	Mississippi	Quitman	infant_mortality_rate	
+28121	Mississippi	Rankin	infant_mortality_rate	749.9
+28123	Mississippi	Scott	infant_mortality_rate	1045
+28125	Mississippi	Sharkey	infant_mortality_rate	
+28127	Mississippi	Simpson	infant_mortality_rate	1262.1
+28129	Mississippi	Smith	infant_mortality_rate	1493.9
+28131	Mississippi	Stone	infant_mortality_rate	1419.7
+28133	Mississippi	Sunflower	infant_mortality_rate	1353.1
+28135	Mississippi	Tallahatchie	infant_mortality_rate	1333.3
+28137	Mississippi	Tate	infant_mortality_rate	892.9
+28139	Mississippi	Tippah	infant_mortality_rate	650.6
+28141	Mississippi	Tishomingo	infant_mortality_rate	
+28143	Mississippi	Tunica	infant_mortality_rate	2093.2
+28145	Mississippi	Union	infant_mortality_rate	781.3
+28147	Mississippi	Walthall	infant_mortality_rate	1350.2
+28149	Mississippi	Warren	infant_mortality_rate	995.9
+28151	Mississippi	Washington	infant_mortality_rate	1422
+28153	Mississippi	Wayne	infant_mortality_rate	1079.8
+28155	Mississippi	Webster	infant_mortality_rate	1644.7
+28157	Mississippi	Wilkinson	infant_mortality_rate	
+28159	Mississippi	Winston	infant_mortality_rate	1143.7
+28161	Mississippi	Yalobusha	infant_mortality_rate	
+28163	Mississippi	Yazoo	infant_mortality_rate	830.1
+29001	Missouri	Adair	infant_mortality_rate	664.9
+29003	Missouri	Andrew	infant_mortality_rate	
+29005	Missouri	Atchison	infant_mortality_rate	
+29007	Missouri	Audrain	infant_mortality_rate	
+29009	Missouri	Barry	infant_mortality_rate	589.4
+29011	Missouri	Barton	infant_mortality_rate	
+29013	Missouri	Bates	infant_mortality_rate	
+29015	Missouri	Benton	infant_mortality_rate	
+29017	Missouri	Bollinger	infant_mortality_rate	
+29019	Missouri	Boone	infant_mortality_rate	568.2
+29021	Missouri	Buchanan	infant_mortality_rate	860
+29023	Missouri	Butler	infant_mortality_rate	1122.8
+29025	Missouri	Caldwell	infant_mortality_rate	
+29027	Missouri	Callaway	infant_mortality_rate	880.2
+29029	Missouri	Camden	infant_mortality_rate	498.4
+29031	Missouri	Cape Girardeau	infant_mortality_rate	782.1
+29033	Missouri	Carroll	infant_mortality_rate	
+29035	Missouri	Carter	infant_mortality_rate	
+29037	Missouri	Cass	infant_mortality_rate	439.3
+29039	Missouri	Cedar	infant_mortality_rate	
+29041	Missouri	Chariton	infant_mortality_rate	
+29043	Missouri	Christian	infant_mortality_rate	413.6
+29045	Missouri	Clark	infant_mortality_rate	
+29047	Missouri	Clay	infant_mortality_rate	616.4
+29049	Missouri	Clinton	infant_mortality_rate	
+29051	Missouri	Cole	infant_mortality_rate	917.8
+29053	Missouri	Cooper	infant_mortality_rate	
+29055	Missouri	Crawford	infant_mortality_rate	
+29057	Missouri	Dade	infant_mortality_rate	
+29059	Missouri	Dallas	infant_mortality_rate	
+29061	Missouri	Daviess	infant_mortality_rate	
+29063	Missouri	DeKalb	infant_mortality_rate	
+29065	Missouri	Dent	infant_mortality_rate	
+29067	Missouri	Douglas	infant_mortality_rate	
+29069	Missouri	Dunklin	infant_mortality_rate	865.6
+29071	Missouri	Franklin	infant_mortality_rate	702
+29073	Missouri	Gasconade	infant_mortality_rate	1312.3
+29075	Missouri	Gentry	infant_mortality_rate	
+29077	Missouri	Greene	infant_mortality_rate	697.4
+29079	Missouri	Grundy	infant_mortality_rate	
+29081	Missouri	Harrison	infant_mortality_rate	
+29083	Missouri	Henry	infant_mortality_rate	940.7
+29085	Missouri	Hickory	infant_mortality_rate	
+29087	Missouri	Holt	infant_mortality_rate	
+29089	Missouri	Howard	infant_mortality_rate	
+29091	Missouri	Howell	infant_mortality_rate	561.8
+29093	Missouri	Iron	infant_mortality_rate	
+29095	Missouri	Jackson	infant_mortality_rate	873.1
+29097	Missouri	Jasper	infant_mortality_rate	425
+29099	Missouri	Jefferson	infant_mortality_rate	567.7
+29101	Missouri	Johnson	infant_mortality_rate	712.7
+29103	Missouri	Knox	infant_mortality_rate	
+29105	Missouri	Laclede	infant_mortality_rate	754.6
+29107	Missouri	Lafayette	infant_mortality_rate	601
+29109	Missouri	Lawrence	infant_mortality_rate	513.6
+29111	Missouri	Lewis	infant_mortality_rate	
+29113	Missouri	Lincoln	infant_mortality_rate	726.6
+29115	Missouri	Linn	infant_mortality_rate	
+29117	Missouri	Livingston	infant_mortality_rate	
+29119	Missouri	McDonald	infant_mortality_rate	605.1
+29121	Missouri	Macon	infant_mortality_rate	
+29123	Missouri	Madison	infant_mortality_rate	
+29125	Missouri	Maries	infant_mortality_rate	
+29127	Missouri	Marion	infant_mortality_rate	943.9
+29129	Missouri	Mercer	infant_mortality_rate	
+29131	Missouri	Miller	infant_mortality_rate	869
+29133	Missouri	Mississippi	infant_mortality_rate	
+29135	Missouri	Moniteau	infant_mortality_rate	
+29137	Missouri	Monroe	infant_mortality_rate	
+29139	Missouri	Montgomery	infant_mortality_rate	
+29141	Missouri	Morgan	infant_mortality_rate	1020.4
+29143	Missouri	New Madrid	infant_mortality_rate	1108.3
+29145	Missouri	Newton	infant_mortality_rate	790
+29147	Missouri	Nodaway	infant_mortality_rate	
+29149	Missouri	Oregon	infant_mortality_rate	
+29151	Missouri	Osage	infant_mortality_rate	
+29153	Missouri	Ozark	infant_mortality_rate	
+29155	Missouri	Pemiscot	infant_mortality_rate	1171.9
+29157	Missouri	Perry	infant_mortality_rate	
+29159	Missouri	Pettis	infant_mortality_rate	424
+29161	Missouri	Phelps	infant_mortality_rate	714.5
+29163	Missouri	Pike	infant_mortality_rate	1101.7
+29165	Missouri	Platte	infant_mortality_rate	360.1
+29167	Missouri	Polk	infant_mortality_rate	
+29169	Missouri	Pulaski	infant_mortality_rate	781.9
+29171	Missouri	Putnam	infant_mortality_rate	
+29173	Missouri	Ralls	infant_mortality_rate	
+29175	Missouri	Randolph	infant_mortality_rate	628.9
+29177	Missouri	Ray	infant_mortality_rate	
+29179	Missouri	Reynolds	infant_mortality_rate	
+29181	Missouri	Ripley	infant_mortality_rate	1628.7
+29183	Missouri	St. Charles	infant_mortality_rate	577.7
+29185	Missouri	St. Clair	infant_mortality_rate	
+29186	Missouri	Ste. Genevieve	infant_mortality_rate	
+29187	Missouri	St. Francois	infant_mortality_rate	781.1
+29189	Missouri	St. Louis	infant_mortality_rate	797.7
+29195	Missouri	Saline	infant_mortality_rate	1147.1
+29197	Missouri	Schuyler	infant_mortality_rate	
+29199	Missouri	Scotland	infant_mortality_rate	
+29201	Missouri	Scott	infant_mortality_rate	837.6
+29203	Missouri	Shannon	infant_mortality_rate	
+29205	Missouri	Shelby	infant_mortality_rate	
+29207	Missouri	Stoddard	infant_mortality_rate	
+29209	Missouri	Stone	infant_mortality_rate	
+29211	Missouri	Sullivan	infant_mortality_rate	
+29213	Missouri	Taney	infant_mortality_rate	678.3
+29215	Missouri	Texas	infant_mortality_rate	975.6
+29217	Missouri	Vernon	infant_mortality_rate	716.3
+29219	Missouri	Warren	infant_mortality_rate	478.9
+29221	Missouri	Washington	infant_mortality_rate	
+29223	Missouri	Wayne	infant_mortality_rate	
+29225	Missouri	Webster	infant_mortality_rate	904
+29227	Missouri	Worth	infant_mortality_rate	
+29229	Missouri	Wright	infant_mortality_rate	
+29510	Missouri	St. Louis City	infant_mortality_rate	1154.6
+30001	Montana	Beaverhead	infant_mortality_rate	
+30003	Montana	Big Horn	infant_mortality_rate	821.9
+30005	Montana	Blaine	infant_mortality_rate	
+30007	Montana	Broadwater	infant_mortality_rate	
+30009	Montana	Carbon	infant_mortality_rate	
+30011	Montana	Carter	infant_mortality_rate	
+30013	Montana	Cascade	infant_mortality_rate	581.2
+30015	Montana	Chouteau	infant_mortality_rate	
+30017	Montana	Custer	infant_mortality_rate	
+30019	Montana	Daniels	infant_mortality_rate	
+30021	Montana	Dawson	infant_mortality_rate	
+30023	Montana	Deer Lodge	infant_mortality_rate	
+30025	Montana	Fallon	infant_mortality_rate	
+30027	Montana	Fergus	infant_mortality_rate	
+30029	Montana	Flathead	infant_mortality_rate	397.1
+30031	Montana	Gallatin	infant_mortality_rate	629.1
+30033	Montana	Garfield	infant_mortality_rate	
+30035	Montana	Glacier	infant_mortality_rate	
+30037	Montana	Golden Valley	infant_mortality_rate	
+30039	Montana	Granite	infant_mortality_rate	
+30041	Montana	Hill	infant_mortality_rate	792.4
+30043	Montana	Jefferson	infant_mortality_rate	
+30045	Montana	Judith Basin	infant_mortality_rate	
+30047	Montana	Lake	infant_mortality_rate	860.8
+30049	Montana	Lewis and Clark	infant_mortality_rate	515.1
+30051	Montana	Liberty	infant_mortality_rate	
+30053	Montana	Lincoln	infant_mortality_rate	
+30055	Montana	McCone	infant_mortality_rate	
+30057	Montana	Madison	infant_mortality_rate	
+30059	Montana	Meagher	infant_mortality_rate	
+30061	Montana	Mineral	infant_mortality_rate	
+30063	Montana	Missoula	infant_mortality_rate	463.8
+30065	Montana	Musselshell	infant_mortality_rate	
+30067	Montana	Park	infant_mortality_rate	
+30069	Montana	Petroleum	infant_mortality_rate	
+30071	Montana	Phillips	infant_mortality_rate	
+30073	Montana	Pondera	infant_mortality_rate	
+30075	Montana	Powder River	infant_mortality_rate	
+30077	Montana	Powell	infant_mortality_rate	
+30079	Montana	Prairie	infant_mortality_rate	
+30081	Montana	Ravalli	infant_mortality_rate	789.2
+30083	Montana	Richland	infant_mortality_rate	
+30085	Montana	Roosevelt	infant_mortality_rate	1427.1
+30087	Montana	Rosebud	infant_mortality_rate	
+30089	Montana	Sanders	infant_mortality_rate	
+30091	Montana	Sheridan	infant_mortality_rate	
+30093	Montana	Silver Bow	infant_mortality_rate	
+30095	Montana	Stillwater	infant_mortality_rate	
+30097	Montana	Sweet Grass	infant_mortality_rate	
+30099	Montana	Teton	infant_mortality_rate	
+30101	Montana	Toole	infant_mortality_rate	
+30103	Montana	Treasure	infant_mortality_rate	
+30105	Montana	Valley	infant_mortality_rate	
+30107	Montana	Wheatland	infant_mortality_rate	
+30109	Montana	Wibaux	infant_mortality_rate	
+30111	Montana	Yellowstone	infant_mortality_rate	733.5
+31001	Nebraska	Adams	infant_mortality_rate	633.8
+31003	Nebraska	Antelope	infant_mortality_rate	
+31005	Nebraska	Arthur	infant_mortality_rate	
+31007	Nebraska	Banner	infant_mortality_rate	
+31009	Nebraska	Blaine	infant_mortality_rate	
+31011	Nebraska	Boone	infant_mortality_rate	
+31013	Nebraska	Box Butte	infant_mortality_rate	
+31015	Nebraska	Boyd	infant_mortality_rate	
+31017	Nebraska	Brown	infant_mortality_rate	
+31019	Nebraska	Buffalo	infant_mortality_rate	453.4
+31021	Nebraska	Burt	infant_mortality_rate	
+31023	Nebraska	Butler	infant_mortality_rate	
+31025	Nebraska	Cass	infant_mortality_rate	
+31027	Nebraska	Cedar	infant_mortality_rate	
+31029	Nebraska	Chase	infant_mortality_rate	
+31031	Nebraska	Cherry	infant_mortality_rate	
+31033	Nebraska	Cheyenne	infant_mortality_rate	
+31035	Nebraska	Clay	infant_mortality_rate	
+31037	Nebraska	Colfax	infant_mortality_rate	
+31039	Nebraska	Cuming	infant_mortality_rate	
+31041	Nebraska	Custer	infant_mortality_rate	
+31043	Nebraska	Dakota	infant_mortality_rate	659.2
+31045	Nebraska	Dawes	infant_mortality_rate	
+31047	Nebraska	Dawson	infant_mortality_rate	783.7
+31049	Nebraska	Deuel	infant_mortality_rate	
+31051	Nebraska	Dixon	infant_mortality_rate	
+31053	Nebraska	Dodge	infant_mortality_rate	524.8
+31055	Nebraska	Douglas	infant_mortality_rate	656.3
+31057	Nebraska	Dundy	infant_mortality_rate	
+31059	Nebraska	Fillmore	infant_mortality_rate	
+31061	Nebraska	Franklin	infant_mortality_rate	
+31063	Nebraska	Frontier	infant_mortality_rate	
+31065	Nebraska	Furnas	infant_mortality_rate	
+31067	Nebraska	Gage	infant_mortality_rate	729.9
+31069	Nebraska	Garden	infant_mortality_rate	
+31071	Nebraska	Garfield	infant_mortality_rate	
+31073	Nebraska	Gosper	infant_mortality_rate	
+31075	Nebraska	Grant	infant_mortality_rate	
+31077	Nebraska	Greeley	infant_mortality_rate	
+31079	Nebraska	Hall	infant_mortality_rate	503.3
+31081	Nebraska	Hamilton	infant_mortality_rate	
+31083	Nebraska	Harlan	infant_mortality_rate	
+31085	Nebraska	Hayes	infant_mortality_rate	
+31087	Nebraska	Hitchcock	infant_mortality_rate	
+31089	Nebraska	Holt	infant_mortality_rate	
+31091	Nebraska	Hooker	infant_mortality_rate	
+31093	Nebraska	Howard	infant_mortality_rate	
+31095	Nebraska	Jefferson	infant_mortality_rate	
+31097	Nebraska	Johnson	infant_mortality_rate	
+31099	Nebraska	Kearney	infant_mortality_rate	
+31101	Nebraska	Keith	infant_mortality_rate	2594.3
+31103	Nebraska	Keya Paha	infant_mortality_rate	
+31105	Nebraska	Kimball	infant_mortality_rate	
+31107	Nebraska	Knox	infant_mortality_rate	
+31109	Nebraska	Lancaster	infant_mortality_rate	566.8
+31111	Nebraska	Lincoln	infant_mortality_rate	582.8
+31113	Nebraska	Logan	infant_mortality_rate	
+31115	Nebraska	Loup	infant_mortality_rate	
+31117	Nebraska	McPherson	infant_mortality_rate	
+31119	Nebraska	Madison	infant_mortality_rate	667.2
+31121	Nebraska	Merrick	infant_mortality_rate	
+31123	Nebraska	Morrill	infant_mortality_rate	
+31125	Nebraska	Nance	infant_mortality_rate	
+31127	Nebraska	Nemaha	infant_mortality_rate	
+31129	Nebraska	Nuckolls	infant_mortality_rate	
+31131	Nebraska	Otoe	infant_mortality_rate	
+31133	Nebraska	Pawnee	infant_mortality_rate	
+31135	Nebraska	Perkins	infant_mortality_rate	
+31137	Nebraska	Phelps	infant_mortality_rate	
+31139	Nebraska	Pierce	infant_mortality_rate	
+31141	Nebraska	Platte	infant_mortality_rate	625.5
+31143	Nebraska	Polk	infant_mortality_rate	
+31145	Nebraska	Red Willow	infant_mortality_rate	
+31147	Nebraska	Richardson	infant_mortality_rate	
+31149	Nebraska	Rock	infant_mortality_rate	
+31151	Nebraska	Saline	infant_mortality_rate	
+31153	Nebraska	Sarpy	infant_mortality_rate	423.7
+31155	Nebraska	Saunders	infant_mortality_rate	
+31157	Nebraska	Scotts Bluff	infant_mortality_rate	707.1
+31159	Nebraska	Seward	infant_mortality_rate	
+31161	Nebraska	Sheridan	infant_mortality_rate	
+31163	Nebraska	Sherman	infant_mortality_rate	
+31165	Nebraska	Sioux	infant_mortality_rate	
+31167	Nebraska	Stanton	infant_mortality_rate	
+31169	Nebraska	Thayer	infant_mortality_rate	
+31171	Nebraska	Thomas	infant_mortality_rate	
+31173	Nebraska	Thurston	infant_mortality_rate	
+31175	Nebraska	Valley	infant_mortality_rate	
+31177	Nebraska	Washington	infant_mortality_rate	
+31179	Nebraska	Wayne	infant_mortality_rate	
+31181	Nebraska	Webster	infant_mortality_rate	
+31183	Nebraska	Wheeler	infant_mortality_rate	
+31185	Nebraska	York	infant_mortality_rate	
+32001	Nevada	Churchill	infant_mortality_rate	
+32003	Nevada	Clark	infant_mortality_rate	607.3
+32005	Nevada	Douglas	infant_mortality_rate	
+32007	Nevada	Elko	infant_mortality_rate	599.3
+32009	Nevada	Esmeralda	infant_mortality_rate	
+32011	Nevada	Eureka	infant_mortality_rate	
+32013	Nevada	Humboldt	infant_mortality_rate	
+32015	Nevada	Lander	infant_mortality_rate	
+32017	Nevada	Lincoln	infant_mortality_rate	
+32019	Nevada	Lyon	infant_mortality_rate	344.3
+32021	Nevada	Mineral	infant_mortality_rate	
+32023	Nevada	Nye	infant_mortality_rate	786.4
+32027	Nevada	Pershing	infant_mortality_rate	
+32029	Nevada	Storey	infant_mortality_rate	
+32031	Nevada	Washoe	infant_mortality_rate	694.7
+32033	Nevada	White Pine	infant_mortality_rate	
+32510	Nevada	Carson City	infant_mortality_rate	442.2
+33001	New Hampshire	Belknap	infant_mortality_rate	
+33003	New Hampshire	Carroll	infant_mortality_rate	695.6
+33005	New Hampshire	Cheshire	infant_mortality_rate	344.5
+33007	New Hampshire	Coos	infant_mortality_rate	686.3
+33009	New Hampshire	Grafton	infant_mortality_rate	530.6
+33011	New Hampshire	Hillsborough	infant_mortality_rate	435.2
+33013	New Hampshire	Merrimack	infant_mortality_rate	561
+33015	New Hampshire	Rockingham	infant_mortality_rate	476.6
+33017	New Hampshire	Strafford	infant_mortality_rate	591.9
+33019	New Hampshire	Sullivan	infant_mortality_rate	614.9
+34001	New Jersey	Atlantic	infant_mortality_rate	878.8
+34003	New Jersey	Bergen	infant_mortality_rate	337
+34005	New Jersey	Burlington	infant_mortality_rate	614.3
+34007	New Jersey	Camden	infant_mortality_rate	846.6
+34009	New Jersey	Cape May	infant_mortality_rate	656.3
+34011	New Jersey	Cumberland	infant_mortality_rate	1025.9
+34013	New Jersey	Essex	infant_mortality_rate	799.2
+34015	New Jersey	Gloucester	infant_mortality_rate	472.9
+34017	New Jersey	Hudson	infant_mortality_rate	467.1
+34019	New Jersey	Hunterdon	infant_mortality_rate	267
+34021	New Jersey	Mercer	infant_mortality_rate	929.1
+34023	New Jersey	Middlesex	infant_mortality_rate	429.9
+34025	New Jersey	Monmouth	infant_mortality_rate	417.9
+34027	New Jersey	Morris	infant_mortality_rate	367.8
+34029	New Jersey	Ocean	infant_mortality_rate	356.9
+34031	New Jersey	Passaic	infant_mortality_rate	493.5
+34033	New Jersey	Salem	infant_mortality_rate	1003.3
+34035	New Jersey	Somerset	infant_mortality_rate	281.7
+34037	New Jersey	Sussex	infant_mortality_rate	524.1
+34039	New Jersey	Union	infant_mortality_rate	552.6
+34041	New Jersey	Warren	infant_mortality_rate	509.3
+35001	New Mexico	Bernalillo	infant_mortality_rate	551.1
+35003	New Mexico	Catron	infant_mortality_rate	
+35005	New Mexico	Chaves	infant_mortality_rate	846.5
+35006	New Mexico	Cibola	infant_mortality_rate	701.3
+35007	New Mexico	Colfax	infant_mortality_rate	1642
+35009	New Mexico	Curry	infant_mortality_rate	598.5
+35011	New Mexico	De Baca	infant_mortality_rate	
+35013	New Mexico	Dona Ana	infant_mortality_rate	541.5
+35015	New Mexico	Eddy	infant_mortality_rate	817.7
+35017	New Mexico	Grant	infant_mortality_rate	
+35019	New Mexico	Guadalupe	infant_mortality_rate	
+35021	New Mexico	Harding	infant_mortality_rate	
+35023	New Mexico	Hidalgo	infant_mortality_rate	
+35025	New Mexico	Lea	infant_mortality_rate	683.6
+35027	New Mexico	Lincoln	infant_mortality_rate	
+35028	New Mexico	Los Alamos	infant_mortality_rate	
+35029	New Mexico	Luna	infant_mortality_rate	
+35031	New Mexico	McKinley	infant_mortality_rate	699.6
+35033	New Mexico	Mora	infant_mortality_rate	
+35035	New Mexico	Otero	infant_mortality_rate	537.7
+35037	New Mexico	Quay	infant_mortality_rate	
+35039	New Mexico	Rio Arriba	infant_mortality_rate	639.9
+35041	New Mexico	Roosevelt	infant_mortality_rate	885.5
+35043	New Mexico	Sandoval	infant_mortality_rate	411.8
+35045	New Mexico	San Juan	infant_mortality_rate	561.3
+35047	New Mexico	San Miguel	infant_mortality_rate	585.1
+35049	New Mexico	Santa Fe	infant_mortality_rate	530
+35051	New Mexico	Sierra	infant_mortality_rate	
+35053	New Mexico	Socorro	infant_mortality_rate	798.1
+35055	New Mexico	Taos	infant_mortality_rate	570.1
+35057	New Mexico	Torrance	infant_mortality_rate	
+35059	New Mexico	Union	infant_mortality_rate	
+35061	New Mexico	Valencia	infant_mortality_rate	436.4
+36001	New York	Albany	infant_mortality_rate	852.9
+36003	New York	Allegany	infant_mortality_rate	377.4
+36005	New York	Bronx	infant_mortality_rate	672.2
+36007	New York	Broome	infant_mortality_rate	900.6
+36009	New York	Cattaraugus	infant_mortality_rate	595.9
+36011	New York	Cayuga	infant_mortality_rate	628.6
+36013	New York	Chautauqua	infant_mortality_rate	671.7
+36015	New York	Chemung	infant_mortality_rate	653.8
+36017	New York	Chenango	infant_mortality_rate	515.1
+36019	New York	Clinton	infant_mortality_rate	611.6
+36021	New York	Columbia	infant_mortality_rate	803.9
+36023	New York	Cortland	infant_mortality_rate	710
+36025	New York	Delaware	infant_mortality_rate	
+36027	New York	Dutchess	infant_mortality_rate	489.3
+36029	New York	Erie	infant_mortality_rate	816.7
+36031	New York	Essex	infant_mortality_rate	
+36033	New York	Franklin	infant_mortality_rate	389.4
+36035	New York	Fulton	infant_mortality_rate	462.8
+36037	New York	Genesee	infant_mortality_rate	560.5
+36039	New York	Greene	infant_mortality_rate	
+36041	New York	Hamilton	infant_mortality_rate	
+36043	New York	Herkimer	infant_mortality_rate	748.3
+36045	New York	Jefferson	infant_mortality_rate	638.4
+36047	New York	Kings	infant_mortality_rate	584.3
+36049	New York	Lewis	infant_mortality_rate	
+36051	New York	Livingston	infant_mortality_rate	423
+36053	New York	Madison	infant_mortality_rate	373.8
+36055	New York	Monroe	infant_mortality_rate	780.7
+36057	New York	Montgomery	infant_mortality_rate	565.1
+36059	New York	Nassau	infant_mortality_rate	504.6
+36061	New York	New York	infant_mortality_rate	458.2
+36063	New York	Niagara	infant_mortality_rate	596.8
+36065	New York	Oneida	infant_mortality_rate	660.1
+36067	New York	Onondaga	infant_mortality_rate	698
+36069	New York	Ontario	infant_mortality_rate	700.7
+36071	New York	Orange	infant_mortality_rate	551.1
+36073	New York	Orleans	infant_mortality_rate	478.3
+36075	New York	Oswego	infant_mortality_rate	498.9
+36077	New York	Otsego	infant_mortality_rate	438.4
+36079	New York	Putnam	infant_mortality_rate	375.9
+36081	New York	Queens	infant_mortality_rate	520.3
+36083	New York	Rensselaer	infant_mortality_rate	513.7
+36085	New York	Richmond	infant_mortality_rate	449.1
+36087	New York	Rockland	infant_mortality_rate	387.5
+36089	New York	St. Lawrence	infant_mortality_rate	619.9
+36091	New York	Saratoga	infant_mortality_rate	357.1
+36093	New York	Schenectady	infant_mortality_rate	623
+36095	New York	Schoharie	infant_mortality_rate	
+36097	New York	Schuyler	infant_mortality_rate	
+36099	New York	Seneca	infant_mortality_rate	608.3
+36101	New York	Steuben	infant_mortality_rate	515.9
+36103	New York	Suffolk	infant_mortality_rate	451.6
+36105	New York	Sullivan	infant_mortality_rate	682.6
+36107	New York	Tioga	infant_mortality_rate	579.9
+36109	New York	Tompkins	infant_mortality_rate	297.1
+36111	New York	Ulster	infant_mortality_rate	552.9
+36113	New York	Warren	infant_mortality_rate	574.4
+36115	New York	Washington	infant_mortality_rate	693.6
+36117	New York	Wayne	infant_mortality_rate	487.3
+36119	New York	Westchester	infant_mortality_rate	524.9
+36121	New York	Wyoming	infant_mortality_rate	469
+36123	New York	Yates	infant_mortality_rate	
+37001	North Carolina	Alamance	infant_mortality_rate	708.2
+37003	North Carolina	Alexander	infant_mortality_rate	543.5
+37005	North Carolina	Alleghany	infant_mortality_rate	
+37007	North Carolina	Anson	infant_mortality_rate	583.8
+37009	North Carolina	Ashe	infant_mortality_rate	
+37011	North Carolina	Avery	infant_mortality_rate	
+37013	North Carolina	Beaufort	infant_mortality_rate	646.7
+37015	North Carolina	Bertie	infant_mortality_rate	1631.3
+37017	North Carolina	Bladen	infant_mortality_rate	851.1
+37019	North Carolina	Brunswick	infant_mortality_rate	675.8
+37021	North Carolina	Buncombe	infant_mortality_rate	543.9
+37023	North Carolina	Burke	infant_mortality_rate	890.3
+37025	North Carolina	Cabarrus	infant_mortality_rate	497.8
+37027	North Carolina	Caldwell	infant_mortality_rate	840.9
+37029	North Carolina	Camden	infant_mortality_rate	
+37031	North Carolina	Carteret	infant_mortality_rate	598.1
+37033	North Carolina	Caswell	infant_mortality_rate	1262.4
+37035	North Carolina	Catawba	infant_mortality_rate	778.3
+37037	North Carolina	Chatham	infant_mortality_rate	551.6
+37039	North Carolina	Cherokee	infant_mortality_rate	1073.7
+37041	North Carolina	Chowan	infant_mortality_rate	
+37043	North Carolina	Clay	infant_mortality_rate	
+37045	North Carolina	Cleveland	infant_mortality_rate	866.6
+37047	North Carolina	Columbus	infant_mortality_rate	1405.2
+37049	North Carolina	Craven	infant_mortality_rate	943.6
+37051	North Carolina	Cumberland	infant_mortality_rate	1045.8
+37053	North Carolina	Currituck	infant_mortality_rate	1249.1
+37055	North Carolina	Dare	infant_mortality_rate	
+37057	North Carolina	Davidson	infant_mortality_rate	852.8
+37059	North Carolina	Davie	infant_mortality_rate	452.1
+37061	North Carolina	Duplin	infant_mortality_rate	849.4
+37063	North Carolina	Durham	infant_mortality_rate	723.1
+37065	North Carolina	Edgecombe	infant_mortality_rate	1111.4
+37067	North Carolina	Forsyth	infant_mortality_rate	1091
+37069	North Carolina	Franklin	infant_mortality_rate	621
+37071	North Carolina	Gaston	infant_mortality_rate	1046
+37073	North Carolina	Gates	infant_mortality_rate	
+37075	North Carolina	Graham	infant_mortality_rate	
+37077	North Carolina	Granville	infant_mortality_rate	451.4
+37079	North Carolina	Greene	infant_mortality_rate	1053.4
+37081	North Carolina	Guilford	infant_mortality_rate	1023.9
+37083	North Carolina	Halifax	infant_mortality_rate	1391.5
+37085	North Carolina	Harnett	infant_mortality_rate	833.8
+37087	North Carolina	Haywood	infant_mortality_rate	678.7
+37089	North Carolina	Henderson	infant_mortality_rate	558.9
+37091	North Carolina	Hertford	infant_mortality_rate	1858.7
+37093	North Carolina	Hoke	infant_mortality_rate	587.6
+37095	North Carolina	Hyde	infant_mortality_rate	
+37097	North Carolina	Iredell	infant_mortality_rate	707.4
+37099	North Carolina	Jackson	infant_mortality_rate	817.2
+37101	North Carolina	Johnston	infant_mortality_rate	683.6
+37103	North Carolina	Jones	infant_mortality_rate	
+37105	North Carolina	Lee	infant_mortality_rate	724
+37107	North Carolina	Lenoir	infant_mortality_rate	974.2
+37109	North Carolina	Lincoln	infant_mortality_rate	640
+37111	North Carolina	McDowell	infant_mortality_rate	457.1
+37113	North Carolina	Macon	infant_mortality_rate	
+37115	North Carolina	Madison	infant_mortality_rate	
+37117	North Carolina	Martin	infant_mortality_rate	1150.3
+37119	North Carolina	Mecklenburg	infant_mortality_rate	664.3
+37121	North Carolina	Mitchell	infant_mortality_rate	
+37123	North Carolina	Montgomery	infant_mortality_rate	908.1
+37125	North Carolina	Moore	infant_mortality_rate	652.5
+37127	North Carolina	Nash	infant_mortality_rate	1176.5
+37129	North Carolina	New Hanover	infant_mortality_rate	475.2
+37131	North Carolina	Northampton	infant_mortality_rate	913.2
+37133	North Carolina	Onslow	infant_mortality_rate	744
+37135	North Carolina	Orange	infant_mortality_rate	632.6
+37137	North Carolina	Pamlico	infant_mortality_rate	
+37139	North Carolina	Pasquotank	infant_mortality_rate	1118.2
+37141	North Carolina	Pender	infant_mortality_rate	601.6
+37143	North Carolina	Perquimans	infant_mortality_rate	1574.8
+37145	North Carolina	Person	infant_mortality_rate	636.9
+37147	North Carolina	Pitt	infant_mortality_rate	1069.9
+37149	North Carolina	Polk	infant_mortality_rate	
+37151	North Carolina	Randolph	infant_mortality_rate	754.5
+37153	North Carolina	Richmond	infant_mortality_rate	695.8
+37155	North Carolina	Robeson	infant_mortality_rate	1508.4
+37157	North Carolina	Rockingham	infant_mortality_rate	1022.4
+37159	North Carolina	Rowan	infant_mortality_rate	676.2
+37161	North Carolina	Rutherford	infant_mortality_rate	615.5
+37163	North Carolina	Sampson	infant_mortality_rate	1098.9
+37165	North Carolina	Scotland	infant_mortality_rate	904.4
+37167	North Carolina	Stanly	infant_mortality_rate	785.6
+37169	North Carolina	Stokes	infant_mortality_rate	913.6
+37171	North Carolina	Surry	infant_mortality_rate	1039.8
+37173	North Carolina	Swain	infant_mortality_rate	
+37175	North Carolina	Transylvania	infant_mortality_rate	635.3
+37177	North Carolina	Tyrrell	infant_mortality_rate	
+37179	North Carolina	Union	infant_mortality_rate	653.9
+37181	North Carolina	Vance	infant_mortality_rate	1178.3
+37183	North Carolina	Wake	infant_mortality_rate	697.1
+37185	North Carolina	Warren	infant_mortality_rate	1095.2
+37187	North Carolina	Washington	infant_mortality_rate	1051.5
+37189	North Carolina	Watauga	infant_mortality_rate	783.7
+37191	North Carolina	Wayne	infant_mortality_rate	879.8
+37193	North Carolina	Wilkes	infant_mortality_rate	684.6
+37195	North Carolina	Wilson	infant_mortality_rate	959
+37197	North Carolina	Yadkin	infant_mortality_rate	1022.3
+37199	North Carolina	Yancey	infant_mortality_rate	
+38001	North Dakota	Adams	infant_mortality_rate	
+38003	North Dakota	Barnes	infant_mortality_rate	
+38005	North Dakota	Benson	infant_mortality_rate	1848.7
+38007	North Dakota	Billings	infant_mortality_rate	
+38009	North Dakota	Bottineau	infant_mortality_rate	
+38011	North Dakota	Bowman	infant_mortality_rate	
+38013	North Dakota	Burke	infant_mortality_rate	
+38015	North Dakota	Burleigh	infant_mortality_rate	745.4
+38017	North Dakota	Cass	infant_mortality_rate	589.3
+38019	North Dakota	Cavalier	infant_mortality_rate	
+38021	North Dakota	Dickey	infant_mortality_rate	
+38023	North Dakota	Divide	infant_mortality_rate	
+38025	North Dakota	Dunn	infant_mortality_rate	
+38027	North Dakota	Eddy	infant_mortality_rate	
+38029	North Dakota	Emmons	infant_mortality_rate	
+38031	North Dakota	Foster	infant_mortality_rate	
+38033	North Dakota	Golden Valley	infant_mortality_rate	
+38035	North Dakota	Grand Forks	infant_mortality_rate	418.6
+38037	North Dakota	Grant	infant_mortality_rate	
+38039	North Dakota	Griggs	infant_mortality_rate	
+38041	North Dakota	Hettinger	infant_mortality_rate	
+38043	North Dakota	Kidder	infant_mortality_rate	
+38045	North Dakota	LaMoure	infant_mortality_rate	
+38047	North Dakota	Logan	infant_mortality_rate	
+38049	North Dakota	McHenry	infant_mortality_rate	
+38051	North Dakota	McIntosh	infant_mortality_rate	
+38053	North Dakota	McKenzie	infant_mortality_rate	
+38055	North Dakota	McLean	infant_mortality_rate	
+38057	North Dakota	Mercer	infant_mortality_rate	
+38059	North Dakota	Morton	infant_mortality_rate	982.7
+38061	North Dakota	Mountrail	infant_mortality_rate	
+38063	North Dakota	Nelson	infant_mortality_rate	
+38065	North Dakota	Oliver	infant_mortality_rate	
+38067	North Dakota	Pembina	infant_mortality_rate	
+38069	North Dakota	Pierce	infant_mortality_rate	
+38071	North Dakota	Ramsey	infant_mortality_rate	
+38073	North Dakota	Ransom	infant_mortality_rate	
+38075	North Dakota	Renville	infant_mortality_rate	
+38077	North Dakota	Richland	infant_mortality_rate	
+38079	North Dakota	Rolette	infant_mortality_rate	1738
+38081	North Dakota	Sargent	infant_mortality_rate	
+38083	North Dakota	Sheridan	infant_mortality_rate	
+38085	North Dakota	Sioux	infant_mortality_rate	
+38087	North Dakota	Slope	infant_mortality_rate	
+38089	North Dakota	Stark	infant_mortality_rate	
+38091	North Dakota	Steele	infant_mortality_rate	
+38093	North Dakota	Stutsman	infant_mortality_rate	
+38095	North Dakota	Towner	infant_mortality_rate	
+38097	North Dakota	Traill	infant_mortality_rate	
+38099	North Dakota	Walsh	infant_mortality_rate	
+38101	North Dakota	Ward	infant_mortality_rate	604.4
+38103	North Dakota	Wells	infant_mortality_rate	
+38105	North Dakota	Williams	infant_mortality_rate	
+39001	Ohio	Adams	infant_mortality_rate	954.3
+39003	Ohio	Allen	infant_mortality_rate	748.1
+39005	Ohio	Ashland	infant_mortality_rate	583.8
+39007	Ohio	Ashtabula	infant_mortality_rate	816.6
+39009	Ohio	Athens	infant_mortality_rate	579.1
+39011	Ohio	Auglaize	infant_mortality_rate	495.5
+39013	Ohio	Belmont	infant_mortality_rate	543.8
+39015	Ohio	Brown	infant_mortality_rate	900.6
+39017	Ohio	Butler	infant_mortality_rate	671.4
+39019	Ohio	Carroll	infant_mortality_rate	
+39021	Ohio	Champaign	infant_mortality_rate	597.1
+39023	Ohio	Clark	infant_mortality_rate	742.7
+39025	Ohio	Clermont	infant_mortality_rate	579.3
+39027	Ohio	Clinton	infant_mortality_rate	940.2
+39029	Ohio	Columbiana	infant_mortality_rate	637.8
+39031	Ohio	Coshocton	infant_mortality_rate	853.5
+39033	Ohio	Crawford	infant_mortality_rate	752.5
+39035	Ohio	Cuyahoga	infant_mortality_rate	1028.2
+39037	Ohio	Darke	infant_mortality_rate	526.5
+39039	Ohio	Defiance	infant_mortality_rate	628.2
+39041	Ohio	Delaware	infant_mortality_rate	383.8
+39043	Ohio	Erie	infant_mortality_rate	835
+39045	Ohio	Fairfield	infant_mortality_rate	504.2
+39047	Ohio	Fayette	infant_mortality_rate	654.9
+39049	Ohio	Franklin	infant_mortality_rate	918.7
+39051	Ohio	Fulton	infant_mortality_rate	473.2
+39053	Ohio	Gallia	infant_mortality_rate	827.7
+39055	Ohio	Geauga	infant_mortality_rate	481.7
+39057	Ohio	Greene	infant_mortality_rate	667.2
+39059	Ohio	Guernsey	infant_mortality_rate	535.2
+39061	Ohio	Hamilton	infant_mortality_rate	1149.3
+39063	Ohio	Hancock	infant_mortality_rate	678.4
+39065	Ohio	Hardin	infant_mortality_rate	472.8
+39067	Ohio	Harrison	infant_mortality_rate	1000
+39069	Ohio	Henry	infant_mortality_rate	561.8
+39071	Ohio	Highland	infant_mortality_rate	663.3
+39073	Ohio	Hocking	infant_mortality_rate	571.4
+39075	Ohio	Holmes	infant_mortality_rate	686.2
+39077	Ohio	Huron	infant_mortality_rate	636
+39079	Ohio	Jackson	infant_mortality_rate	830.3
+39081	Ohio	Jefferson	infant_mortality_rate	771.3
+39083	Ohio	Knox	infant_mortality_rate	577.1
+39085	Ohio	Lake	infant_mortality_rate	537.1
+39087	Ohio	Lawrence	infant_mortality_rate	911
+39089	Ohio	Licking	infant_mortality_rate	637.6
+39091	Ohio	Logan	infant_mortality_rate	678.4
+39093	Ohio	Lorain	infant_mortality_rate	760.3
+39095	Ohio	Lucas	infant_mortality_rate	826.2
+39097	Ohio	Madison	infant_mortality_rate	820.6
+39099	Ohio	Mahoning	infant_mortality_rate	864.1
+39101	Ohio	Marion	infant_mortality_rate	607.5
+39103	Ohio	Medina	infant_mortality_rate	345.7
+39105	Ohio	Meigs	infant_mortality_rate	939
+39107	Ohio	Mercer	infant_mortality_rate	346.4
+39109	Ohio	Miami	infant_mortality_rate	613.2
+39111	Ohio	Monroe	infant_mortality_rate	
+39113	Ohio	Montgomery	infant_mortality_rate	777.4
+39115	Ohio	Morgan	infant_mortality_rate	
+39117	Ohio	Morrow	infant_mortality_rate	544.4
+39119	Ohio	Muskingum	infant_mortality_rate	776.9
+39121	Ohio	Noble	infant_mortality_rate	
+39123	Ohio	Ottawa	infant_mortality_rate	634.1
+39125	Ohio	Paulding	infant_mortality_rate	
+39127	Ohio	Perry	infant_mortality_rate	581.2
+39129	Ohio	Pickaway	infant_mortality_rate	614.7
+39131	Ohio	Pike	infant_mortality_rate	861.2
+39133	Ohio	Portage	infant_mortality_rate	767.3
+39135	Ohio	Preble	infant_mortality_rate	532.7
+39137	Ohio	Putnam	infant_mortality_rate	375.1
+39139	Ohio	Richland	infant_mortality_rate	790.9
+39141	Ohio	Ross	infant_mortality_rate	616
+39143	Ohio	Sandusky	infant_mortality_rate	592.5
+39145	Ohio	Scioto	infant_mortality_rate	919.6
+39147	Ohio	Seneca	infant_mortality_rate	685.7
+39149	Ohio	Shelby	infant_mortality_rate	620.2
+39151	Ohio	Stark	infant_mortality_rate	819
+39153	Ohio	Summit	infant_mortality_rate	721.5
+39155	Ohio	Trumbull	infant_mortality_rate	838.5
+39157	Ohio	Tuscarawas	infant_mortality_rate	585.7
+39159	Ohio	Union	infant_mortality_rate	871.7
+39161	Ohio	Van Wert	infant_mortality_rate	547.6
+39163	Ohio	Vinton	infant_mortality_rate	
+39165	Ohio	Warren	infant_mortality_rate	617.3
+39167	Ohio	Washington	infant_mortality_rate	952.7
+39169	Ohio	Wayne	infant_mortality_rate	623.6
+39171	Ohio	Williams	infant_mortality_rate	712.9
+39173	Ohio	Wood	infant_mortality_rate	624.6
+39175	Ohio	Wyandot	infant_mortality_rate	
+40001	Oklahoma	Adair	infant_mortality_rate	958.2
+40003	Oklahoma	Alfalfa	infant_mortality_rate	
+40005	Oklahoma	Atoka	infant_mortality_rate	
+40007	Oklahoma	Beaver	infant_mortality_rate	
+40009	Oklahoma	Beckham	infant_mortality_rate	927
+40011	Oklahoma	Blaine	infant_mortality_rate	1156.1
+40013	Oklahoma	Bryan	infant_mortality_rate	397.7
+40015	Oklahoma	Caddo	infant_mortality_rate	748.2
+40017	Oklahoma	Canadian	infant_mortality_rate	574.9
+40019	Oklahoma	Carter	infant_mortality_rate	774.4
+40021	Oklahoma	Cherokee	infant_mortality_rate	564.8
+40023	Oklahoma	Choctaw	infant_mortality_rate	1083.3
+40025	Oklahoma	Cimarron	infant_mortality_rate	
+40027	Oklahoma	Cleveland	infant_mortality_rate	495.9
+40029	Oklahoma	Coal	infant_mortality_rate	
+40031	Oklahoma	Comanche	infant_mortality_rate	1141.5
+40033	Oklahoma	Cotton	infant_mortality_rate	
+40035	Oklahoma	Craig	infant_mortality_rate	1547.6
+40037	Oklahoma	Creek	infant_mortality_rate	932.3
+40039	Oklahoma	Custer	infant_mortality_rate	741.1
+40041	Oklahoma	Delaware	infant_mortality_rate	749.2
+40043	Oklahoma	Dewey	infant_mortality_rate	
+40045	Oklahoma	Ellis	infant_mortality_rate	
+40047	Oklahoma	Garfield	infant_mortality_rate	1140.8
+40049	Oklahoma	Garvin	infant_mortality_rate	601.2
+40051	Oklahoma	Grady	infant_mortality_rate	662.8
+40053	Oklahoma	Grant	infant_mortality_rate	
+40055	Oklahoma	Greer	infant_mortality_rate	
+40057	Oklahoma	Harmon	infant_mortality_rate	
+40059	Oklahoma	Harper	infant_mortality_rate	
+40061	Oklahoma	Haskell	infant_mortality_rate	
+40063	Oklahoma	Hughes	infant_mortality_rate	
+40065	Oklahoma	Jackson	infant_mortality_rate	825.6
+40067	Oklahoma	Jefferson	infant_mortality_rate	
+40069	Oklahoma	Johnston	infant_mortality_rate	
+40071	Oklahoma	Kay	infant_mortality_rate	580.6
+40073	Oklahoma	Kingfisher	infant_mortality_rate	
+40075	Oklahoma	Kiowa	infant_mortality_rate	
+40077	Oklahoma	Latimer	infant_mortality_rate	
+40079	Oklahoma	Le Flore	infant_mortality_rate	739.9
+40081	Oklahoma	Lincoln	infant_mortality_rate	841.5
+40083	Oklahoma	Logan	infant_mortality_rate	654.3
+40085	Oklahoma	Love	infant_mortality_rate	
+40087	Oklahoma	McClain	infant_mortality_rate	1068.3
+40089	Oklahoma	McCurtain	infant_mortality_rate	880.1
+40091	Oklahoma	McIntosh	infant_mortality_rate	1609.7
+40093	Oklahoma	Major	infant_mortality_rate	
+40095	Oklahoma	Marshall	infant_mortality_rate	
+40097	Oklahoma	Mayes	infant_mortality_rate	710.4
+40099	Oklahoma	Murray	infant_mortality_rate	
+40101	Oklahoma	Muskogee	infant_mortality_rate	857.5
+40103	Oklahoma	Noble	infant_mortality_rate	1519
+40105	Oklahoma	Nowata	infant_mortality_rate	
+40107	Oklahoma	Okfuskee	infant_mortality_rate	
+40109	Oklahoma	Oklahoma	infant_mortality_rate	864.8
+40111	Oklahoma	Okmulgee	infant_mortality_rate	831
+40113	Oklahoma	Osage	infant_mortality_rate	554.2
+40115	Oklahoma	Ottawa	infant_mortality_rate	796.2
+40117	Oklahoma	Pawnee	infant_mortality_rate	
+40119	Oklahoma	Payne	infant_mortality_rate	491.2
+40121	Oklahoma	Pittsburg	infant_mortality_rate	857.1
+40123	Oklahoma	Pontotoc	infant_mortality_rate	1094.3
+40125	Oklahoma	Pottawatomie	infant_mortality_rate	925
+40127	Oklahoma	Pushmataha	infant_mortality_rate	
+40129	Oklahoma	Roger Mills	infant_mortality_rate	
+40131	Oklahoma	Rogers	infant_mortality_rate	751.7
+40133	Oklahoma	Seminole	infant_mortality_rate	1000
+40135	Oklahoma	Sequoyah	infant_mortality_rate	862.7
+40137	Oklahoma	Stephens	infant_mortality_rate	955.4
+40139	Oklahoma	Texas	infant_mortality_rate	788.6
+40141	Oklahoma	Tillman	infant_mortality_rate	
+40143	Oklahoma	Tulsa	infant_mortality_rate	863.5
+40145	Oklahoma	Wagoner	infant_mortality_rate	413.8
+40147	Oklahoma	Washington	infant_mortality_rate	811.5
+40149	Oklahoma	Washita	infant_mortality_rate	
+40151	Oklahoma	Woods	infant_mortality_rate	
+40153	Oklahoma	Woodward	infant_mortality_rate	815.8
+41001	Oregon	Baker	infant_mortality_rate	1501.9
+41003	Oregon	Benton	infant_mortality_rate	
+41005	Oregon	Clackamas	infant_mortality_rate	414.3
+41007	Oregon	Clatsop	infant_mortality_rate	561
+41009	Oregon	Columbia	infant_mortality_rate	506.5
+41011	Oregon	Coos	infant_mortality_rate	375
+41013	Oregon	Crook	infant_mortality_rate	
+41015	Oregon	Curry	infant_mortality_rate	
+41017	Oregon	Deschutes	infant_mortality_rate	431.9
+41019	Oregon	Douglas	infant_mortality_rate	617.2
+41021	Oregon	Gilliam	infant_mortality_rate	
+41023	Oregon	Grant	infant_mortality_rate	
+41025	Oregon	Harney	infant_mortality_rate	
+41027	Oregon	Hood River	infant_mortality_rate	
+41029	Oregon	Jackson	infant_mortality_rate	469.9
+41031	Oregon	Jefferson	infant_mortality_rate	843.9
+41033	Oregon	Josephine	infant_mortality_rate	678.4
+41035	Oregon	Klamath	infant_mortality_rate	768.6
+41037	Oregon	Lake	infant_mortality_rate	
+41039	Oregon	Lane	infant_mortality_rate	601.1
+41041	Oregon	Lincoln	infant_mortality_rate	
+41043	Oregon	Linn	infant_mortality_rate	659.4
+41045	Oregon	Malheur	infant_mortality_rate	
+41047	Oregon	Marion	infant_mortality_rate	633
+41049	Oregon	Morrow	infant_mortality_rate	
+41051	Oregon	Multnomah	infant_mortality_rate	592.2
+41053	Oregon	Polk	infant_mortality_rate	373.8
+41055	Oregon	Sherman	infant_mortality_rate	
+41057	Oregon	Tillamook	infant_mortality_rate	849.9
+41059	Oregon	Umatilla	infant_mortality_rate	626.8
+41061	Oregon	Union	infant_mortality_rate	648.1
+41063	Oregon	Wallowa	infant_mortality_rate	
+41065	Oregon	Wasco	infant_mortality_rate	598.1
+41067	Oregon	Washington	infant_mortality_rate	427.3
+41069	Oregon	Wheeler	infant_mortality_rate	
+41071	Oregon	Yamhill	infant_mortality_rate	565.3
+42001	Pennsylvania	Adams	infant_mortality_rate	676.8
+42003	Pennsylvania	Allegheny	infant_mortality_rate	801.9
+42005	Pennsylvania	Armstrong	infant_mortality_rate	557.3
+42007	Pennsylvania	Beaver	infant_mortality_rate	544.2
+42009	Pennsylvania	Bedford	infant_mortality_rate	438.9
+42011	Pennsylvania	Berks	infant_mortality_rate	778.2
+42013	Pennsylvania	Blair	infant_mortality_rate	586.6
+42015	Pennsylvania	Bradford	infant_mortality_rate	802.8
+42017	Pennsylvania	Bucks	infant_mortality_rate	476.7
+42019	Pennsylvania	Butler	infant_mortality_rate	489.7
+42021	Pennsylvania	Cambria	infant_mortality_rate	690.1
+42023	Pennsylvania	Cameron	infant_mortality_rate	
+42025	Pennsylvania	Carbon	infant_mortality_rate	605.9
+42027	Pennsylvania	Centre	infant_mortality_rate	643.4
+42029	Pennsylvania	Chester	infant_mortality_rate	546.6
+42031	Pennsylvania	Clarion	infant_mortality_rate	647.8
+42033	Pennsylvania	Clearfield	infant_mortality_rate	577
+42035	Pennsylvania	Clinton	infant_mortality_rate	443.9
+42037	Pennsylvania	Columbia	infant_mortality_rate	650.2
+42039	Pennsylvania	Crawford	infant_mortality_rate	663.3
+42041	Pennsylvania	Cumberland	infant_mortality_rate	529.6
+42043	Pennsylvania	Dauphin	infant_mortality_rate	802
+42045	Pennsylvania	Delaware	infant_mortality_rate	789.8
+42047	Pennsylvania	Elk	infant_mortality_rate	705.1
+42049	Pennsylvania	Erie	infant_mortality_rate	923.4
+42051	Pennsylvania	Fayette	infant_mortality_rate	863.3
+42053	Pennsylvania	Forest	infant_mortality_rate	
+42055	Pennsylvania	Franklin	infant_mortality_rate	640.5
+42057	Pennsylvania	Fulton	infant_mortality_rate	
+42059	Pennsylvania	Greene	infant_mortality_rate	763.7
+42061	Pennsylvania	Huntingdon	infant_mortality_rate	556.2
+42063	Pennsylvania	Indiana	infant_mortality_rate	624.7
+42065	Pennsylvania	Jefferson	infant_mortality_rate	732.3
+42067	Pennsylvania	Juniata	infant_mortality_rate	
+42069	Pennsylvania	Lackawanna	infant_mortality_rate	733.8
+42071	Pennsylvania	Lancaster	infant_mortality_rate	740.3
+42073	Pennsylvania	Lawrence	infant_mortality_rate	767.7
+42075	Pennsylvania	Lebanon	infant_mortality_rate	681.2
+42077	Pennsylvania	Lehigh	infant_mortality_rate	800.9
+42079	Pennsylvania	Luzerne	infant_mortality_rate	676.3
+42081	Pennsylvania	Lycoming	infant_mortality_rate	750.1
+42083	Pennsylvania	McKean	infant_mortality_rate	682.3
+42085	Pennsylvania	Mercer	infant_mortality_rate	606.7
+42087	Pennsylvania	Mifflin	infant_mortality_rate	958.6
+42089	Pennsylvania	Monroe	infant_mortality_rate	555.1
+42091	Pennsylvania	Montgomery	infant_mortality_rate	526.8
+42093	Pennsylvania	Montour	infant_mortality_rate	2007.6
+42095	Pennsylvania	Northampton	infant_mortality_rate	685
+42097	Pennsylvania	Northumberland	infant_mortality_rate	446
+42099	Pennsylvania	Perry	infant_mortality_rate	456
+42101	Pennsylvania	Philadelphia	infant_mortality_rate	1254.7
+42103	Pennsylvania	Pike	infant_mortality_rate	
+42105	Pennsylvania	Potter	infant_mortality_rate	
+42107	Pennsylvania	Schuylkill	infant_mortality_rate	527.8
+42109	Pennsylvania	Snyder	infant_mortality_rate	456.4
+42111	Pennsylvania	Somerset	infant_mortality_rate	541.3
+42113	Pennsylvania	Sullivan	infant_mortality_rate	
+42115	Pennsylvania	Susquehanna	infant_mortality_rate	630.5
+42117	Pennsylvania	Tioga	infant_mortality_rate	427
+42119	Pennsylvania	Union	infant_mortality_rate	682.1
+42121	Pennsylvania	Venango	infant_mortality_rate	552.3
+42123	Pennsylvania	Warren	infant_mortality_rate	828.1
+42125	Pennsylvania	Washington	infant_mortality_rate	670.6
+42127	Pennsylvania	Wayne	infant_mortality_rate	
+42129	Pennsylvania	Westmoreland	infant_mortality_rate	643.6
+42131	Pennsylvania	Wyoming	infant_mortality_rate	766.6
+42133	Pennsylvania	York	infant_mortality_rate	625.9
+44001	Rhode Island	Bristol	infant_mortality_rate	
+44003	Rhode Island	Kent	infant_mortality_rate	592.7
+44005	Rhode Island	Newport	infant_mortality_rate	363.1
+44007	Rhode Island	Providence	infant_mortality_rate	757.4
+44009	Rhode Island	Washington	infant_mortality_rate	603.3
+45001	South Carolina	Abbeville	infant_mortality_rate	1239.9
+45003	South Carolina	Aiken	infant_mortality_rate	652.9
+45005	South Carolina	Allendale	infant_mortality_rate	2264.8
+45007	South Carolina	Anderson	infant_mortality_rate	690.8
+45009	South Carolina	Bamberg	infant_mortality_rate	
+45011	South Carolina	Barnwell	infant_mortality_rate	699.3
+45013	South Carolina	Beaufort	infant_mortality_rate	545
+45015	South Carolina	Berkeley	infant_mortality_rate	710
+45017	South Carolina	Calhoun	infant_mortality_rate	
+45019	South Carolina	Charleston	infant_mortality_rate	931.7
+45021	South Carolina	Cherokee	infant_mortality_rate	902.3
+45023	South Carolina	Chester	infant_mortality_rate	618.1
+45025	South Carolina	Chesterfield	infant_mortality_rate	1313.3
+45027	South Carolina	Clarendon	infant_mortality_rate	481.5
+45029	South Carolina	Colleton	infant_mortality_rate	861.1
+45031	South Carolina	Darlington	infant_mortality_rate	1057.3
+45033	South Carolina	Dillon	infant_mortality_rate	468.5
+45035	South Carolina	Dorchester	infant_mortality_rate	475.8
+45037	South Carolina	Edgefield	infant_mortality_rate	
+45039	South Carolina	Fairfield	infant_mortality_rate	
+45041	South Carolina	Florence	infant_mortality_rate	1237.2
+45043	South Carolina	Georgetown	infant_mortality_rate	1037.6
+45045	South Carolina	Greenville	infant_mortality_rate	722
+45047	South Carolina	Greenwood	infant_mortality_rate	1022.3
+45049	South Carolina	Hampton	infant_mortality_rate	802.3
+45051	South Carolina	Horry	infant_mortality_rate	906.5
+45053	South Carolina	Jasper	infant_mortality_rate	620.5
+45055	South Carolina	Kershaw	infant_mortality_rate	667.2
+45057	South Carolina	Lancaster	infant_mortality_rate	722.2
+45059	South Carolina	Laurens	infant_mortality_rate	990.7
+45061	South Carolina	Lee	infant_mortality_rate	
+45063	South Carolina	Lexington	infant_mortality_rate	610
+45065	South Carolina	McCormick	infant_mortality_rate	
+45067	South Carolina	Marion	infant_mortality_rate	1744.6
+45069	South Carolina	Marlboro	infant_mortality_rate	924.4
+45071	South Carolina	Newberry	infant_mortality_rate	551.8
+45073	South Carolina	Oconee	infant_mortality_rate	611.5
+45075	South Carolina	Orangeburg	infant_mortality_rate	1524.2
+45077	South Carolina	Pickens	infant_mortality_rate	537.9
+45079	South Carolina	Richland	infant_mortality_rate	647.5
+45081	South Carolina	Saluda	infant_mortality_rate	915
+45083	South Carolina	Spartanburg	infant_mortality_rate	781.4
+45085	South Carolina	Sumter	infant_mortality_rate	808.8
+45087	South Carolina	Union	infant_mortality_rate	852.9
+45089	South Carolina	Williamsburg	infant_mortality_rate	1634.5
+45091	South Carolina	York	infant_mortality_rate	783.4
+46003	South Dakota	Aurora	infant_mortality_rate	
+46005	South Dakota	Beadle	infant_mortality_rate	835.4
+46007	South Dakota	Bennett	infant_mortality_rate	
+46009	South Dakota	Bon Homme	infant_mortality_rate	
+46011	South Dakota	Brookings	infant_mortality_rate	659.3
+46013	South Dakota	Brown	infant_mortality_rate	528.9
+46015	South Dakota	Brule	infant_mortality_rate	
+46017	South Dakota	Buffalo	infant_mortality_rate	
+46019	South Dakota	Butte	infant_mortality_rate	
+46021	South Dakota	Campbell	infant_mortality_rate	
+46023	South Dakota	Charles Mix	infant_mortality_rate	
+46025	South Dakota	Clark	infant_mortality_rate	
+46027	South Dakota	Clay	infant_mortality_rate	
+46029	South Dakota	Codington	infant_mortality_rate	
+46031	South Dakota	Corson	infant_mortality_rate	
+46033	South Dakota	Custer	infant_mortality_rate	
+46035	South Dakota	Davison	infant_mortality_rate	
+46037	South Dakota	Day	infant_mortality_rate	
+46039	South Dakota	Deuel	infant_mortality_rate	
+46041	South Dakota	Dewey	infant_mortality_rate	
+46043	South Dakota	Douglas	infant_mortality_rate	
+46045	South Dakota	Edmunds	infant_mortality_rate	
+46047	South Dakota	Fall River	infant_mortality_rate	
+46049	South Dakota	Faulk	infant_mortality_rate	
+46051	South Dakota	Grant	infant_mortality_rate	
+46053	South Dakota	Gregory	infant_mortality_rate	
+46055	South Dakota	Haakon	infant_mortality_rate	
+46057	South Dakota	Hamlin	infant_mortality_rate	
+46059	South Dakota	Hand	infant_mortality_rate	
+46061	South Dakota	Hanson	infant_mortality_rate	
+46063	South Dakota	Harding	infant_mortality_rate	
+46065	South Dakota	Hughes	infant_mortality_rate	
+46067	South Dakota	Hutchinson	infant_mortality_rate	
+46069	South Dakota	Hyde	infant_mortality_rate	
+46071	South Dakota	Jackson	infant_mortality_rate	
+46073	South Dakota	Jerauld	infant_mortality_rate	
+46075	South Dakota	Jones	infant_mortality_rate	
+46077	South Dakota	Kingsbury	infant_mortality_rate	
+46079	South Dakota	Lake	infant_mortality_rate	
+46081	South Dakota	Lawrence	infant_mortality_rate	
+46083	South Dakota	Lincoln	infant_mortality_rate	443.2
+46085	South Dakota	Lyman	infant_mortality_rate	
+46087	South Dakota	McCook	infant_mortality_rate	
+46089	South Dakota	McPherson	infant_mortality_rate	
+46091	South Dakota	Marshall	infant_mortality_rate	
+46093	South Dakota	Meade	infant_mortality_rate	759.5
+46095	South Dakota	Mellette	infant_mortality_rate	
+46097	South Dakota	Miner	infant_mortality_rate	
+46099	South Dakota	Minnehaha	infant_mortality_rate	763.5
+46101	South Dakota	Moody	infant_mortality_rate	
+46103	South Dakota	Pennington	infant_mortality_rate	733.2
+46105	South Dakota	Perkins	infant_mortality_rate	
+46107	South Dakota	Potter	infant_mortality_rate	
+46109	South Dakota	Roberts	infant_mortality_rate	1585.2
+46111	South Dakota	Sanborn	infant_mortality_rate	
+46113	South Dakota	Shannon	infant_mortality_rate	1660.9
+46115	South Dakota	Spink	infant_mortality_rate	
+46117	South Dakota	Stanley	infant_mortality_rate	
+46119	South Dakota	Sully	infant_mortality_rate	
+46121	South Dakota	Todd	infant_mortality_rate	1517.5
+46123	South Dakota	Tripp	infant_mortality_rate	
+46125	South Dakota	Turner	infant_mortality_rate	
+46127	South Dakota	Union	infant_mortality_rate	
+46129	South Dakota	Walworth	infant_mortality_rate	
+46135	South Dakota	Yankton	infant_mortality_rate	
+46137	South Dakota	Ziebach	infant_mortality_rate	
+47001	Tennessee	Anderson	infant_mortality_rate	674.7
+47003	Tennessee	Bedford	infant_mortality_rate	834.3
+47005	Tennessee	Benton	infant_mortality_rate	
+47007	Tennessee	Bledsoe	infant_mortality_rate	
+47009	Tennessee	Blount	infant_mortality_rate	617.9
+47011	Tennessee	Bradley	infant_mortality_rate	533.2
+47013	Tennessee	Campbell	infant_mortality_rate	473.5
+47015	Tennessee	Cannon	infant_mortality_rate	
+47017	Tennessee	Carroll	infant_mortality_rate	851.8
+47019	Tennessee	Carter	infant_mortality_rate	958
+47021	Tennessee	Cheatham	infant_mortality_rate	607.9
+47023	Tennessee	Chester	infant_mortality_rate	
+47025	Tennessee	Claiborne	infant_mortality_rate	924.2
+47027	Tennessee	Clay	infant_mortality_rate	
+47029	Tennessee	Cocke	infant_mortality_rate	770
+47031	Tennessee	Coffee	infant_mortality_rate	691.9
+47033	Tennessee	Crockett	infant_mortality_rate	1158.7
+47035	Tennessee	Cumberland	infant_mortality_rate	712.8
+47037	Tennessee	Davidson	infant_mortality_rate	846.2
+47039	Tennessee	Decatur	infant_mortality_rate	
+47041	Tennessee	DeKalb	infant_mortality_rate	915.1
+47043	Tennessee	Dickson	infant_mortality_rate	924.8
+47045	Tennessee	Dyer	infant_mortality_rate	1296.2
+47047	Tennessee	Fayette	infant_mortality_rate	574.5
+47049	Tennessee	Fentress	infant_mortality_rate	
+47051	Tennessee	Franklin	infant_mortality_rate	606.9
+47053	Tennessee	Gibson	infant_mortality_rate	789.2
+47055	Tennessee	Giles	infant_mortality_rate	
+47057	Tennessee	Grainger	infant_mortality_rate	
+47059	Tennessee	Greene	infant_mortality_rate	438.1
+47061	Tennessee	Grundy	infant_mortality_rate	
+47063	Tennessee	Hamblen	infant_mortality_rate	621.1
+47065	Tennessee	Hamilton	infant_mortality_rate	1041.1
+47067	Tennessee	Hancock	infant_mortality_rate	
+47069	Tennessee	Hardeman	infant_mortality_rate	
+47071	Tennessee	Hardin	infant_mortality_rate	864.6
+47073	Tennessee	Hawkins	infant_mortality_rate	628.1
+47075	Tennessee	Haywood	infant_mortality_rate	1612.9
+47077	Tennessee	Henderson	infant_mortality_rate	680.3
+47079	Tennessee	Henry	infant_mortality_rate	935.1
+47081	Tennessee	Hickman	infant_mortality_rate	1297.8
+47083	Tennessee	Houston	infant_mortality_rate	
+47085	Tennessee	Humphreys	infant_mortality_rate	
+47087	Tennessee	Jackson	infant_mortality_rate	
+47089	Tennessee	Jefferson	infant_mortality_rate	866.7
+47091	Tennessee	Johnson	infant_mortality_rate	
+47093	Tennessee	Knox	infant_mortality_rate	620.5
+47095	Tennessee	Lake	infant_mortality_rate	
+47097	Tennessee	Lauderdale	infant_mortality_rate	1396.3
+47099	Tennessee	Lawrence	infant_mortality_rate	619.3
+47101	Tennessee	Lewis	infant_mortality_rate	
+47103	Tennessee	Lincoln	infant_mortality_rate	905.6
+47105	Tennessee	Loudon	infant_mortality_rate	
+47107	Tennessee	McMinn	infant_mortality_rate	555
+47109	Tennessee	McNairy	infant_mortality_rate	741.2
+47111	Tennessee	Macon	infant_mortality_rate	
+47113	Tennessee	Madison	infant_mortality_rate	930.2
+47115	Tennessee	Marion	infant_mortality_rate	955.2
+47117	Tennessee	Marshall	infant_mortality_rate	1446.2
+47119	Tennessee	Maury	infant_mortality_rate	851.6
+47121	Tennessee	Meigs	infant_mortality_rate	
+47123	Tennessee	Monroe	infant_mortality_rate	679.5
+47125	Tennessee	Montgomery	infant_mortality_rate	788.3
+47127	Tennessee	Moore	infant_mortality_rate	
+47129	Tennessee	Morgan	infant_mortality_rate	
+47131	Tennessee	Obion	infant_mortality_rate	1193.5
+47133	Tennessee	Overton	infant_mortality_rate	
+47135	Tennessee	Perry	infant_mortality_rate	
+47137	Tennessee	Pickett	infant_mortality_rate	
+47139	Tennessee	Polk	infant_mortality_rate	1169.6
+47141	Tennessee	Putnam	infant_mortality_rate	601.7
+47143	Tennessee	Rhea	infant_mortality_rate	926.9
+47145	Tennessee	Roane	infant_mortality_rate	834
+47147	Tennessee	Robertson	infant_mortality_rate	621
+47149	Tennessee	Rutherford	infant_mortality_rate	617.6
+47151	Tennessee	Scott	infant_mortality_rate	723.2
+47153	Tennessee	Sequatchie	infant_mortality_rate	
+47155	Tennessee	Sevier	infant_mortality_rate	770.1
+47157	Tennessee	Shelby	infant_mortality_rate	1340.8
+47159	Tennessee	Smith	infant_mortality_rate	
+47161	Tennessee	Stewart	infant_mortality_rate	
+47163	Tennessee	Sullivan	infant_mortality_rate	853.6
+47165	Tennessee	Sumner	infant_mortality_rate	659.3
+47167	Tennessee	Tipton	infant_mortality_rate	673
+47169	Tennessee	Trousdale	infant_mortality_rate	
+47171	Tennessee	Unicoi	infant_mortality_rate	
+47173	Tennessee	Union	infant_mortality_rate	
+47175	Tennessee	Van Buren	infant_mortality_rate	
+47177	Tennessee	Warren	infant_mortality_rate	694.7
+47179	Tennessee	Washington	infant_mortality_rate	910.6
+47181	Tennessee	Wayne	infant_mortality_rate	
+47183	Tennessee	Weakley	infant_mortality_rate	697.9
+47185	Tennessee	White	infant_mortality_rate	
+47187	Tennessee	Williamson	infant_mortality_rate	263.9
+47189	Tennessee	Wilson	infant_mortality_rate	552.7
+48001	Texas	Anderson	infant_mortality_rate	588
+48003	Texas	Andrews	infant_mortality_rate	995
+48005	Texas	Angelina	infant_mortality_rate	560.7
+48007	Texas	Aransas	infant_mortality_rate	
+48009	Texas	Archer	infant_mortality_rate	
+48011	Texas	Armstrong	infant_mortality_rate	
+48013	Texas	Atascosa	infant_mortality_rate	430.5
+48015	Texas	Austin	infant_mortality_rate	761
+48017	Texas	Bailey	infant_mortality_rate	
+48019	Texas	Bandera	infant_mortality_rate	
+48021	Texas	Bastrop	infant_mortality_rate	631.1
+48023	Texas	Baylor	infant_mortality_rate	
+48025	Texas	Bee	infant_mortality_rate	574.7
+48027	Texas	Bell	infant_mortality_rate	821.3
+48029	Texas	Bexar	infant_mortality_rate	648.1
+48031	Texas	Blanco	infant_mortality_rate	
+48033	Texas	Borden	infant_mortality_rate	
+48035	Texas	Bosque	infant_mortality_rate	
+48037	Texas	Bowie	infant_mortality_rate	532.1
+48039	Texas	Brazoria	infant_mortality_rate	556.1
+48041	Texas	Brazos	infant_mortality_rate	532.6
+48043	Texas	Brewster	infant_mortality_rate	
+48045	Texas	Briscoe	infant_mortality_rate	
+48047	Texas	Brooks	infant_mortality_rate	
+48049	Texas	Brown	infant_mortality_rate	987.5
+48051	Texas	Burleson	infant_mortality_rate	
+48053	Texas	Burnet	infant_mortality_rate	433.4
+48055	Texas	Caldwell	infant_mortality_rate	400.3
+48057	Texas	Calhoun	infant_mortality_rate	737.6
+48059	Texas	Callahan	infant_mortality_rate	
+48061	Texas	Cameron	infant_mortality_rate	614.4
+48063	Texas	Camp	infant_mortality_rate	
+48065	Texas	Carson	infant_mortality_rate	
+48067	Texas	Cass	infant_mortality_rate	
+48069	Texas	Castro	infant_mortality_rate	
+48071	Texas	Chambers	infant_mortality_rate	463.9
+48073	Texas	Cherokee	infant_mortality_rate	647.8
+48075	Texas	Childress	infant_mortality_rate	
+48077	Texas	Clay	infant_mortality_rate	
+48079	Texas	Cochran	infant_mortality_rate	
+48081	Texas	Coke	infant_mortality_rate	
+48083	Texas	Coleman	infant_mortality_rate	
+48085	Texas	Collin	infant_mortality_rate	456.4
+48087	Texas	Collingsworth	infant_mortality_rate	
+48089	Texas	Colorado	infant_mortality_rate	
+48091	Texas	Comal	infant_mortality_rate	641.7
+48093	Texas	Comanche	infant_mortality_rate	
+48095	Texas	Concho	infant_mortality_rate	
+48097	Texas	Cooke	infant_mortality_rate	603.1
+48099	Texas	Coryell	infant_mortality_rate	523.7
+48101	Texas	Cottle	infant_mortality_rate	
+48103	Texas	Crane	infant_mortality_rate	
+48105	Texas	Crockett	infant_mortality_rate	
+48107	Texas	Crosby	infant_mortality_rate	
+48109	Texas	Culberson	infant_mortality_rate	
+48111	Texas	Dallam	infant_mortality_rate	
+48113	Texas	Dallas	infant_mortality_rate	804.9
+48115	Texas	Dawson	infant_mortality_rate	
+48117	Texas	Deaf Smith	infant_mortality_rate	979.3
+48119	Texas	Delta	infant_mortality_rate	
+48121	Texas	Denton	infant_mortality_rate	467.4
+48123	Texas	DeWitt	infant_mortality_rate	
+48125	Texas	Dickens	infant_mortality_rate	
+48127	Texas	Dimmit	infant_mortality_rate	
+48129	Texas	Donley	infant_mortality_rate	
+48131	Texas	Duval	infant_mortality_rate	
+48133	Texas	Eastland	infant_mortality_rate	868.1
+48135	Texas	Ector	infant_mortality_rate	673.9
+48137	Texas	Edwards	infant_mortality_rate	
+48139	Texas	Ellis	infant_mortality_rate	635.5
+48141	Texas	El Paso	infant_mortality_rate	491.5
+48143	Texas	Erath	infant_mortality_rate	539.6
+48145	Texas	Falls	infant_mortality_rate	982.1
+48147	Texas	Fannin	infant_mortality_rate	591.4
+48149	Texas	Fayette	infant_mortality_rate	872.1
+48151	Texas	Fisher	infant_mortality_rate	
+48153	Texas	Floyd	infant_mortality_rate	
+48155	Texas	Foard	infant_mortality_rate	
+48157	Texas	Fort Bend	infant_mortality_rate	459
+48159	Texas	Franklin	infant_mortality_rate	
+48161	Texas	Freestone	infant_mortality_rate	
+48163	Texas	Frio	infant_mortality_rate	
+48165	Texas	Gaines	infant_mortality_rate	579.3
+48167	Texas	Galveston	infant_mortality_rate	569.1
+48169	Texas	Garza	infant_mortality_rate	
+48171	Texas	Gillespie	infant_mortality_rate	
+48173	Texas	Glasscock	infant_mortality_rate	
+48175	Texas	Goliad	infant_mortality_rate	
+48177	Texas	Gonzales	infant_mortality_rate	872.5
+48179	Texas	Gray	infant_mortality_rate	1235.3
+48181	Texas	Grayson	infant_mortality_rate	496.2
+48183	Texas	Gregg	infant_mortality_rate	808.2
+48185	Texas	Grimes	infant_mortality_rate	
+48187	Texas	Guadalupe	infant_mortality_rate	468.4
+48189	Texas	Hale	infant_mortality_rate	539.1
+48191	Texas	Hall	infant_mortality_rate	
+48193	Texas	Hamilton	infant_mortality_rate	
+48195	Texas	Hansford	infant_mortality_rate	
+48197	Texas	Hardeman	infant_mortality_rate	
+48199	Texas	Hardin	infant_mortality_rate	512
+48201	Texas	Harris	infant_mortality_rate	643
+48203	Texas	Harrison	infant_mortality_rate	683.7
+48205	Texas	Hartley	infant_mortality_rate	
+48207	Texas	Haskell	infant_mortality_rate	
+48209	Texas	Hays	infant_mortality_rate	487.8
+48211	Texas	Hemphill	infant_mortality_rate	
+48213	Texas	Henderson	infant_mortality_rate	728.7
+48215	Texas	Hidalgo	infant_mortality_rate	573.3
+48217	Texas	Hill	infant_mortality_rate	1210.9
+48219	Texas	Hockley	infant_mortality_rate	
+48221	Texas	Hood	infant_mortality_rate	727.5
+48223	Texas	Hopkins	infant_mortality_rate	
+48225	Texas	Houston	infant_mortality_rate	
+48227	Texas	Howard	infant_mortality_rate	930.9
+48229	Texas	Hudspeth	infant_mortality_rate	
+48231	Texas	Hunt	infant_mortality_rate	871.2
+48233	Texas	Hutchinson	infant_mortality_rate	1017.2
+48235	Texas	Irion	infant_mortality_rate	
+48237	Texas	Jack	infant_mortality_rate	
+48239	Texas	Jackson	infant_mortality_rate	
+48241	Texas	Jasper	infant_mortality_rate	748.6
+48243	Texas	Jeff Davis	infant_mortality_rate	
+48245	Texas	Jefferson	infant_mortality_rate	731.3
+48247	Texas	Jim Hogg	infant_mortality_rate	
+48249	Texas	Jim Wells	infant_mortality_rate	664.5
+48251	Texas	Johnson	infant_mortality_rate	775.8
+48253	Texas	Jones	infant_mortality_rate	
+48255	Texas	Karnes	infant_mortality_rate	
+48257	Texas	Kaufman	infant_mortality_rate	565.4
+48259	Texas	Kendall	infant_mortality_rate	
+48261	Texas	Kenedy	infant_mortality_rate	
+48263	Texas	Kent	infant_mortality_rate	
+48265	Texas	Kerr	infant_mortality_rate	520.4
+48267	Texas	Kimble	infant_mortality_rate	
+48269	Texas	King	infant_mortality_rate	
+48271	Texas	Kinney	infant_mortality_rate	
+48273	Texas	Kleberg	infant_mortality_rate	
+48275	Texas	Knox	infant_mortality_rate	
+48277	Texas	Lamar	infant_mortality_rate	419.8
+48279	Texas	Lamb	infant_mortality_rate	
+48281	Texas	Lampasas	infant_mortality_rate	
+48283	Texas	La Salle	infant_mortality_rate	
+48285	Texas	Lavaca	infant_mortality_rate	
+48287	Texas	Lee	infant_mortality_rate	
+48289	Texas	Leon	infant_mortality_rate	
+48291	Texas	Liberty	infant_mortality_rate	641.4
+48293	Texas	Limestone	infant_mortality_rate	
+48295	Texas	Lipscomb	infant_mortality_rate	
+48297	Texas	Live Oak	infant_mortality_rate	
+48299	Texas	Llano	infant_mortality_rate	
+48301	Texas	Loving	infant_mortality_rate	
+48303	Texas	Lubbock	infant_mortality_rate	599.5
+48305	Texas	Lynn	infant_mortality_rate	
+48307	Texas	McCulloch	infant_mortality_rate	
+48309	Texas	McLennan	infant_mortality_rate	816.5
+48311	Texas	McMullen	infant_mortality_rate	
+48313	Texas	Madison	infant_mortality_rate	
+48315	Texas	Marion	infant_mortality_rate	
+48317	Texas	Martin	infant_mortality_rate	
+48319	Texas	Mason	infant_mortality_rate	
+48321	Texas	Matagorda	infant_mortality_rate	487.3
+48323	Texas	Maverick	infant_mortality_rate	393.7
+48325	Texas	Medina	infant_mortality_rate	484.4
+48327	Texas	Menard	infant_mortality_rate	
+48329	Texas	Midland	infant_mortality_rate	564.9
+48331	Texas	Milam	infant_mortality_rate	
+48333	Texas	Mills	infant_mortality_rate	
+48335	Texas	Mitchell	infant_mortality_rate	
+48337	Texas	Montague	infant_mortality_rate	
+48339	Texas	Montgomery	infant_mortality_rate	543.9
+48341	Texas	Moore	infant_mortality_rate	
+48343	Texas	Morris	infant_mortality_rate	1030.9
+48345	Texas	Motley	infant_mortality_rate	
+48347	Texas	Nacogdoches	infant_mortality_rate	716.3
+48349	Texas	Navarro	infant_mortality_rate	679.3
+48351	Texas	Newton	infant_mortality_rate	
+48353	Texas	Nolan	infant_mortality_rate	1575.5
+48355	Texas	Nueces	infant_mortality_rate	619.2
+48357	Texas	Ochiltree	infant_mortality_rate	
+48359	Texas	Oldham	infant_mortality_rate	
+48361	Texas	Orange	infant_mortality_rate	797.7
+48363	Texas	Palo Pinto	infant_mortality_rate	839.6
+48365	Texas	Panola	infant_mortality_rate	766
+48367	Texas	Parker	infant_mortality_rate	700.4
+48369	Texas	Parmer	infant_mortality_rate	
+48371	Texas	Pecos	infant_mortality_rate	
+48373	Texas	Polk	infant_mortality_rate	1092.9
+48375	Texas	Potter	infant_mortality_rate	1074.5
+48377	Texas	Presidio	infant_mortality_rate	
+48379	Texas	Rains	infant_mortality_rate	
+48381	Texas	Randall	infant_mortality_rate	765.1
+48383	Texas	Reagan	infant_mortality_rate	
+48385	Texas	Real	infant_mortality_rate	
+48387	Texas	Red River	infant_mortality_rate	1319.3
+48389	Texas	Reeves	infant_mortality_rate	
+48391	Texas	Refugio	infant_mortality_rate	
+48393	Texas	Roberts	infant_mortality_rate	
+48395	Texas	Robertson	infant_mortality_rate	
+48397	Texas	Rockwall	infant_mortality_rate	488.9
+48399	Texas	Runnels	infant_mortality_rate	
+48401	Texas	Rusk	infant_mortality_rate	573.2
+48403	Texas	Sabine	infant_mortality_rate	
+48405	Texas	San Augustine	infant_mortality_rate	
+48407	Texas	San Jacinto	infant_mortality_rate	
+48409	Texas	San Patricio	infant_mortality_rate	688.7
+48411	Texas	San Saba	infant_mortality_rate	
+48413	Texas	Schleicher	infant_mortality_rate	
+48415	Texas	Scurry	infant_mortality_rate	
+48417	Texas	Shackelford	infant_mortality_rate	
+48419	Texas	Shelby	infant_mortality_rate	709.9
+48421	Texas	Sherman	infant_mortality_rate	
+48423	Texas	Smith	infant_mortality_rate	689.2
+48425	Texas	Somervell	infant_mortality_rate	
+48427	Texas	Starr	infant_mortality_rate	618.1
+48429	Texas	Stephens	infant_mortality_rate	
+48431	Texas	Sterling	infant_mortality_rate	
+48433	Texas	Stonewall	infant_mortality_rate	
+48435	Texas	Sutton	infant_mortality_rate	
+48437	Texas	Swisher	infant_mortality_rate	
+48439	Texas	Tarrant	infant_mortality_rate	776.6
+48441	Texas	Taylor	infant_mortality_rate	851.2
+48443	Texas	Terrell	infant_mortality_rate	
+48445	Texas	Terry	infant_mortality_rate	
+48447	Texas	Throckmorton	infant_mortality_rate	
+48449	Texas	Titus	infant_mortality_rate	451.3
+48451	Texas	Tom Green	infant_mortality_rate	592.9
+48453	Texas	Travis	infant_mortality_rate	588.4
+48455	Texas	Trinity	infant_mortality_rate	
+48457	Texas	Tyler	infant_mortality_rate	
+48459	Texas	Upshur	infant_mortality_rate	422.1
+48461	Texas	Upton	infant_mortality_rate	
+48463	Texas	Uvalde	infant_mortality_rate	
+48465	Texas	Val Verde	infant_mortality_rate	419.8
+48467	Texas	Van Zandt	infant_mortality_rate	726.8
+48469	Texas	Victoria	infant_mortality_rate	626.8
+48471	Texas	Walker	infant_mortality_rate	581.6
+48473	Texas	Waller	infant_mortality_rate	664.5
+48475	Texas	Ward	infant_mortality_rate	
+48477	Texas	Washington	infant_mortality_rate	513.1
+48479	Texas	Webb	infant_mortality_rate	610.1
+48481	Texas	Wharton	infant_mortality_rate	668.3
+48483	Texas	Wheeler	infant_mortality_rate	
+48485	Texas	Wichita	infant_mortality_rate	848.2
+48487	Texas	Wilbarger	infant_mortality_rate	
+48489	Texas	Willacy	infant_mortality_rate	
+48491	Texas	Williamson	infant_mortality_rate	434.9
+48493	Texas	Wilson	infant_mortality_rate	486.6
+48495	Texas	Winkler	infant_mortality_rate	
+48497	Texas	Wise	infant_mortality_rate	435.4
+48499	Texas	Wood	infant_mortality_rate	
+48501	Texas	Yoakum	infant_mortality_rate	
+48503	Texas	Young	infant_mortality_rate	
+48505	Texas	Zapata	infant_mortality_rate	861
+48507	Texas	Zavala	infant_mortality_rate	
+49001	Utah	Beaver	infant_mortality_rate	
+49003	Utah	Box Elder	infant_mortality_rate	677.3
+49005	Utah	Cache	infant_mortality_rate	392.9
+49007	Utah	Carbon	infant_mortality_rate	
+49009	Utah	Daggett	infant_mortality_rate	
+49011	Utah	Davis	infant_mortality_rate	534.5
+49013	Utah	Duchesne	infant_mortality_rate	603.3
+49015	Utah	Emery	infant_mortality_rate	
+49017	Utah	Garfield	infant_mortality_rate	
+49019	Utah	Grand	infant_mortality_rate	
+49021	Utah	Iron	infant_mortality_rate	528.8
+49023	Utah	Juab	infant_mortality_rate	
+49025	Utah	Kane	infant_mortality_rate	
+49027	Utah	Millard	infant_mortality_rate	
+49029	Utah	Morgan	infant_mortality_rate	
+49031	Utah	Piute	infant_mortality_rate	
+49033	Utah	Rich	infant_mortality_rate	
+49035	Utah	Salt Lake	infant_mortality_rate	576.8
+49037	Utah	San Juan	infant_mortality_rate	
+49039	Utah	Sanpete	infant_mortality_rate	709.6
+49041	Utah	Sevier	infant_mortality_rate	818.3
+49043	Utah	Summit	infant_mortality_rate	437.7
+49045	Utah	Tooele	infant_mortality_rate	489.5
+49047	Utah	Uintah	infant_mortality_rate	449
+49049	Utah	Utah	infant_mortality_rate	447
+49051	Utah	Wasatch	infant_mortality_rate	641.3
+49053	Utah	Washington	infant_mortality_rate	501.9
+49055	Utah	Wayne	infant_mortality_rate	
+49057	Utah	Weber	infant_mortality_rate	553.6
+50001	Vermont	Addison	infant_mortality_rate	
+50003	Vermont	Bennington	infant_mortality_rate	942.3
+50005	Vermont	Caledonia	infant_mortality_rate	
+50007	Vermont	Chittenden	infant_mortality_rate	337.6
+50009	Vermont	Essex	infant_mortality_rate	
+50011	Vermont	Franklin	infant_mortality_rate	600.4
+50013	Vermont	Grand Isle	infant_mortality_rate	
+50015	Vermont	Lamoille	infant_mortality_rate	
+50017	Vermont	Orange	infant_mortality_rate	769.8
+50019	Vermont	Orleans	infant_mortality_rate	
+50021	Vermont	Rutland	infant_mortality_rate	682
+50023	Vermont	Washington	infant_mortality_rate	733.1
+50025	Vermont	Windham	infant_mortality_rate	529.1
+50027	Vermont	Windsor	infant_mortality_rate	604.7
+51001	Virginia	Accomack	infant_mortality_rate	993.4
+51003	Virginia	Albemarle	infant_mortality_rate	592.8
+51005	Virginia	Alleghany	infant_mortality_rate	
+51007	Virginia	Amelia	infant_mortality_rate	
+51009	Virginia	Amherst	infant_mortality_rate	873.1
+51011	Virginia	Appomattox	infant_mortality_rate	
+51013	Virginia	Arlington	infant_mortality_rate	496.9
+51015	Virginia	Augusta	infant_mortality_rate	492.1
+51017	Virginia	Bath	infant_mortality_rate	
+51019	Virginia	Bedford	infant_mortality_rate	475.4
+51021	Virginia	Bland	infant_mortality_rate	
+51023	Virginia	Botetourt	infant_mortality_rate	1081.4
+51025	Virginia	Brunswick	infant_mortality_rate	1190.5
+51027	Virginia	Buchanan	infant_mortality_rate	983.9
+51029	Virginia	Buckingham	infant_mortality_rate	
+51031	Virginia	Campbell	infant_mortality_rate	446
+51033	Virginia	Caroline	infant_mortality_rate	694.8
+51035	Virginia	Carroll	infant_mortality_rate	608.6
+51036	Virginia	Charles City	infant_mortality_rate	
+51037	Virginia	Charlotte	infant_mortality_rate	
+51041	Virginia	Chesterfield	infant_mortality_rate	594.8
+51043	Virginia	Clarke	infant_mortality_rate	
+51045	Virginia	Craig	infant_mortality_rate	
+51047	Virginia	Culpeper	infant_mortality_rate	750.5
+51049	Virginia	Cumberland	infant_mortality_rate	
+51051	Virginia	Dickenson	infant_mortality_rate	
+51053	Virginia	Dinwiddie	infant_mortality_rate	889.2
+51057	Virginia	Essex	infant_mortality_rate	
+51059	Virginia	Fairfax	infant_mortality_rate	515.4
+51061	Virginia	Fauquier	infant_mortality_rate	663.6
+51063	Virginia	Floyd	infant_mortality_rate	
+51065	Virginia	Fluvanna	infant_mortality_rate	
+51067	Virginia	Franklin	infant_mortality_rate	615.2
+51069	Virginia	Frederick	infant_mortality_rate	550.3
+51071	Virginia	Giles	infant_mortality_rate	
+51073	Virginia	Gloucester	infant_mortality_rate	590.4
+51075	Virginia	Goochland	infant_mortality_rate	
+51077	Virginia	Grayson	infant_mortality_rate	
+51079	Virginia	Greene	infant_mortality_rate	
+51081	Virginia	Greensville	infant_mortality_rate	
+51083	Virginia	Halifax	infant_mortality_rate	1008
+51085	Virginia	Hanover	infant_mortality_rate	495
+51087	Virginia	Henrico	infant_mortality_rate	650
+51089	Virginia	Henry	infant_mortality_rate	779.2
+51091	Virginia	Highland	infant_mortality_rate	
+51093	Virginia	Isle of Wight	infant_mortality_rate	739.5
+51095	Virginia	James City	infant_mortality_rate	371.6
+51097	Virginia	King and Queen	infant_mortality_rate	
+51099	Virginia	King George	infant_mortality_rate	857.1
+51101	Virginia	King William	infant_mortality_rate	
+51103	Virginia	Lancaster	infant_mortality_rate	
+51105	Virginia	Lee	infant_mortality_rate	
+51107	Virginia	Loudoun	infant_mortality_rate	423.8
+51109	Virginia	Louisa	infant_mortality_rate	663.6
+51111	Virginia	Lunenburg	infant_mortality_rate	
+51113	Virginia	Madison	infant_mortality_rate	
+51115	Virginia	Mathews	infant_mortality_rate	
+51117	Virginia	Mecklenburg	infant_mortality_rate	739.4
+51119	Virginia	Middlesex	infant_mortality_rate	
+51121	Virginia	Montgomery	infant_mortality_rate	539.2
+51125	Virginia	Nelson	infant_mortality_rate	
+51127	Virginia	New Kent	infant_mortality_rate	
+51131	Virginia	Northampton	infant_mortality_rate	
+51133	Virginia	Northumberland	infant_mortality_rate	
+51135	Virginia	Nottoway	infant_mortality_rate	
+51137	Virginia	Orange	infant_mortality_rate	532.8
+51139	Virginia	Page	infant_mortality_rate	751.9
+51141	Virginia	Patrick	infant_mortality_rate	1141.1
+51143	Virginia	Pittsylvania	infant_mortality_rate	776.4
+51145	Virginia	Powhatan	infant_mortality_rate	
+51147	Virginia	Prince Edward	infant_mortality_rate	
+51149	Virginia	Prince George	infant_mortality_rate	547.3
+51153	Virginia	Prince William	infant_mortality_rate	613.6
+51155	Virginia	Pulaski	infant_mortality_rate	882.4
+51157	Virginia	Rappahannock	infant_mortality_rate	
+51159	Virginia	Richmond	infant_mortality_rate	
+51161	Virginia	Roanoke	infant_mortality_rate	578.6
+51163	Virginia	Rockbridge	infant_mortality_rate	
+51165	Virginia	Rockingham	infant_mortality_rate	548.1
+51167	Virginia	Russell	infant_mortality_rate	1036.9
+51169	Virginia	Scott	infant_mortality_rate	912.9
+51171	Virginia	Shenandoah	infant_mortality_rate	396.8
+51173	Virginia	Smyth	infant_mortality_rate	878.2
+51175	Virginia	Southampton	infant_mortality_rate	1121.1
+51177	Virginia	Spotsylvania	infant_mortality_rate	823.6
+51179	Virginia	Stafford	infant_mortality_rate	803
+51181	Virginia	Surry	infant_mortality_rate	
+51183	Virginia	Sussex	infant_mortality_rate	
+51185	Virginia	Tazewell	infant_mortality_rate	748.8
+51187	Virginia	Warren	infant_mortality_rate	454.5
+51191	Virginia	Washington	infant_mortality_rate	960.4
+51193	Virginia	Westmoreland	infant_mortality_rate	1320.5
+51195	Virginia	Wise	infant_mortality_rate	749.9
+51197	Virginia	Wythe	infant_mortality_rate	643.9
+51199	Virginia	York	infant_mortality_rate	362.5
+51510	Virginia	Alexandria City	infant_mortality_rate	575.5
+51515	Virginia	Bedford City	infant_mortality_rate	
+51520	Virginia	Bristol City	infant_mortality_rate	
+51530	Virginia	Buena Vista City	infant_mortality_rate	
+51540	Virginia	Charlottesville City	infant_mortality_rate	1157.7
+51550	Virginia	Chesapeake City	infant_mortality_rate	839.2
+51570	Virginia	Colonial Heights City	infant_mortality_rate	
+51580	Virginia	Covington City	infant_mortality_rate	
+51590	Virginia	Danville City	infant_mortality_rate	1567.8
+51595	Virginia	Emporia City	infant_mortality_rate	
+51600	Virginia	Fairfax City	infant_mortality_rate	1079.1
+51610	Virginia	Falls Church City	infant_mortality_rate	
+51620	Virginia	Franklin City	infant_mortality_rate	1788.4
+51630	Virginia	Fredericksburg City	infant_mortality_rate	1581.7
+51640	Virginia	Galax City	infant_mortality_rate	
+51650	Virginia	Hampton City	infant_mortality_rate	932.6
+51660	Virginia	Harrisonburg City	infant_mortality_rate	1153.2
+51670	Virginia	Hopewell City	infant_mortality_rate	1010.1
+51678	Virginia	Lexington City	infant_mortality_rate	
+51680	Virginia	Lynchburg City	infant_mortality_rate	1059.1
+51683	Virginia	Manassas City	infant_mortality_rate	623.3
+51685	Virginia	Manassas Park City	infant_mortality_rate	
+51690	Virginia	Martinsville City	infant_mortality_rate	
+51700	Virginia	Newport News City	infant_mortality_rate	1017.5
+51710	Virginia	Norfolk City	infant_mortality_rate	1371.6
+51720	Virginia	Norton City	infant_mortality_rate	
+51730	Virginia	Petersburg City	infant_mortality_rate	1680.3
+51735	Virginia	Poquoson City	infant_mortality_rate	
+51740	Virginia	Portsmouth City	infant_mortality_rate	1221.7
+51750	Virginia	Radford City	infant_mortality_rate	
+51760	Virginia	Richmond City	infant_mortality_rate	1388
+51770	Virginia	Roanoke City	infant_mortality_rate	1085.3
+51775	Virginia	Salem City	infant_mortality_rate	
+51790	Virginia	Staunton City	infant_mortality_rate	
+51800	Virginia	Suffolk City	infant_mortality_rate	746.6
+51810	Virginia	Virginia Beach City	infant_mortality_rate	761.4
+51820	Virginia	Waynesboro City	infant_mortality_rate	830.7
+51830	Virginia	Williamsburg City	infant_mortality_rate	1897.5
+51840	Virginia	Winchester City	infant_mortality_rate	886.3
+53001	Washington	Adams	infant_mortality_rate	821.8
+53003	Washington	Asotin	infant_mortality_rate	
+53005	Washington	Benton	infant_mortality_rate	529.5
+53007	Washington	Chelan	infant_mortality_rate	464.1
+53009	Washington	Clallam	infant_mortality_rate	530.4
+53011	Washington	Clark	infant_mortality_rate	431.5
+53013	Washington	Columbia	infant_mortality_rate	
+53015	Washington	Cowlitz	infant_mortality_rate	628.4
+53017	Washington	Douglas	infant_mortality_rate	598.4
+53019	Washington	Ferry	infant_mortality_rate	
+53021	Washington	Franklin	infant_mortality_rate	496.5
+53023	Washington	Garfield	infant_mortality_rate	
+53025	Washington	Grant	infant_mortality_rate	654.5
+53027	Washington	Grays Harbor	infant_mortality_rate	483.8
+53029	Washington	Island	infant_mortality_rate	408.7
+53031	Washington	Jefferson	infant_mortality_rate	
+53033	Washington	King	infant_mortality_rate	420.3
+53035	Washington	Kitsap	infant_mortality_rate	497.6
+53037	Washington	Kittitas	infant_mortality_rate	
+53039	Washington	Klickitat	infant_mortality_rate	
+53041	Washington	Lewis	infant_mortality_rate	
+53043	Washington	Lincoln	infant_mortality_rate	
+53045	Washington	Mason	infant_mortality_rate	489.5
+53047	Washington	Okanogan	infant_mortality_rate	498
+53049	Washington	Pacific	infant_mortality_rate	1085.9
+53051	Washington	Pend Oreille	infant_mortality_rate	
+53053	Washington	Pierce	infant_mortality_rate	580.5
+53055	Washington	San Juan	infant_mortality_rate	
+53057	Washington	Skagit	infant_mortality_rate	388.6
+53059	Washington	Skamania	infant_mortality_rate	
+53061	Washington	Snohomish	infant_mortality_rate	422.5
+53063	Washington	Spokane	infant_mortality_rate	534.4
+53065	Washington	Stevens	infant_mortality_rate	814.8
+53067	Washington	Thurston	infant_mortality_rate	511.2
+53069	Washington	Wahkiakum	infant_mortality_rate	
+53071	Washington	Walla Walla	infant_mortality_rate	598.2
+53073	Washington	Whatcom	infant_mortality_rate	492.7
+53075	Washington	Whitman	infant_mortality_rate	
+53077	Washington	Yakima	infant_mortality_rate	685.9
+54001	West Virginia	Barbour	infant_mortality_rate	
+54003	West Virginia	Berkeley	infant_mortality_rate	840.8
+54005	West Virginia	Boone	infant_mortality_rate	887.4
+54007	West Virginia	Braxton	infant_mortality_rate	
+54009	West Virginia	Brooke	infant_mortality_rate	
+54011	West Virginia	Cabell	infant_mortality_rate	960.4
+54013	West Virginia	Calhoun	infant_mortality_rate	
+54015	West Virginia	Clay	infant_mortality_rate	
+54017	West Virginia	Doddridge	infant_mortality_rate	
+54019	West Virginia	Fayette	infant_mortality_rate	800.6
+54021	West Virginia	Gilmer	infant_mortality_rate	
+54023	West Virginia	Grant	infant_mortality_rate	
+54025	West Virginia	Greenbrier	infant_mortality_rate	635.3
+54027	West Virginia	Hampshire	infant_mortality_rate	
+54029	West Virginia	Hancock	infant_mortality_rate	699.8
+54031	West Virginia	Hardy	infant_mortality_rate	
+54033	West Virginia	Harrison	infant_mortality_rate	672
+54035	West Virginia	Jackson	infant_mortality_rate	
+54037	West Virginia	Jefferson	infant_mortality_rate	535.3
+54039	West Virginia	Kanawha	infant_mortality_rate	768.4
+54041	West Virginia	Lewis	infant_mortality_rate	
+54043	West Virginia	Lincoln	infant_mortality_rate	
+54045	West Virginia	Logan	infant_mortality_rate	571.2
+54047	West Virginia	McDowell	infant_mortality_rate	1877.9
+54049	West Virginia	Marion	infant_mortality_rate	626
+54051	West Virginia	Marshall	infant_mortality_rate	683.4
+54053	West Virginia	Mason	infant_mortality_rate	1165.8
+54055	West Virginia	Mercer	infant_mortality_rate	877.4
+54057	West Virginia	Mineral	infant_mortality_rate	601.3
+54059	West Virginia	Mingo	infant_mortality_rate	1197.3
+54061	West Virginia	Monongalia	infant_mortality_rate	600.2
+54063	West Virginia	Monroe	infant_mortality_rate	
+54065	West Virginia	Morgan	infant_mortality_rate	
+54067	West Virginia	Nicholas	infant_mortality_rate	899.3
+54069	West Virginia	Ohio	infant_mortality_rate	831.1
+54071	West Virginia	Pendleton	infant_mortality_rate	
+54073	West Virginia	Pleasants	infant_mortality_rate	
+54075	West Virginia	Pocahontas	infant_mortality_rate	
+54077	West Virginia	Preston	infant_mortality_rate	1015.2
+54079	West Virginia	Putnam	infant_mortality_rate	456.8
+54081	West Virginia	Raleigh	infant_mortality_rate	706.9
+54083	West Virginia	Randolph	infant_mortality_rate	925.4
+54085	West Virginia	Ritchie	infant_mortality_rate	
+54087	West Virginia	Roane	infant_mortality_rate	
+54089	West Virginia	Summers	infant_mortality_rate	
+54091	West Virginia	Taylor	infant_mortality_rate	
+54093	West Virginia	Tucker	infant_mortality_rate	
+54095	West Virginia	Tyler	infant_mortality_rate	
+54097	West Virginia	Upshur	infant_mortality_rate	697.4
+54099	West Virginia	Wayne	infant_mortality_rate	646
+54101	West Virginia	Webster	infant_mortality_rate	
+54103	West Virginia	Wetzel	infant_mortality_rate	
+54105	West Virginia	Wirt	infant_mortality_rate	
+54107	West Virginia	Wood	infant_mortality_rate	897.3
+54109	West Virginia	Wyoming	infant_mortality_rate	867.7
+55001	Wisconsin	Adams	infant_mortality_rate	
+55003	Wisconsin	Ashland	infant_mortality_rate	
+55005	Wisconsin	Barron	infant_mortality_rate	362.6
+55007	Wisconsin	Bayfield	infant_mortality_rate	
+55009	Wisconsin	Brown	infant_mortality_rate	551.3
+55011	Wisconsin	Buffalo	infant_mortality_rate	
+55013	Wisconsin	Burnett	infant_mortality_rate	
+55015	Wisconsin	Calumet	infant_mortality_rate	548
+55017	Wisconsin	Chippewa	infant_mortality_rate	747.4
+55019	Wisconsin	Clark	infant_mortality_rate	608
+55021	Wisconsin	Columbia	infant_mortality_rate	604.6
+55023	Wisconsin	Crawford	infant_mortality_rate	
+55025	Wisconsin	Dane	infant_mortality_rate	507.3
+55027	Wisconsin	Dodge	infant_mortality_rate	490.3
+55029	Wisconsin	Door	infant_mortality_rate	
+55031	Wisconsin	Douglas	infant_mortality_rate	562.6
+55033	Wisconsin	Dunn	infant_mortality_rate	
+55035	Wisconsin	Eau Claire	infant_mortality_rate	467.5
+55037	Wisconsin	Florence	infant_mortality_rate	
+55039	Wisconsin	Fond du Lac	infant_mortality_rate	487.7
+55041	Wisconsin	Forest	infant_mortality_rate	
+55043	Wisconsin	Grant	infant_mortality_rate	428.6
+55045	Wisconsin	Green	infant_mortality_rate	557.9
+55047	Wisconsin	Green Lake	infant_mortality_rate	1173
+55049	Wisconsin	Iowa	infant_mortality_rate	
+55051	Wisconsin	Iron	infant_mortality_rate	
+55053	Wisconsin	Jackson	infant_mortality_rate	
+55055	Wisconsin	Jefferson	infant_mortality_rate	536
+55057	Wisconsin	Juneau	infant_mortality_rate	
+55059	Wisconsin	Kenosha	infant_mortality_rate	554.5
+55061	Wisconsin	Kewaunee	infant_mortality_rate	
+55063	Wisconsin	La Crosse	infant_mortality_rate	461.1
+55065	Wisconsin	Lafayette	infant_mortality_rate	
+55067	Wisconsin	Langlade	infant_mortality_rate	
+55069	Wisconsin	Lincoln	infant_mortality_rate	664.3
+55071	Wisconsin	Manitowoc	infant_mortality_rate	751
+55073	Wisconsin	Marathon	infant_mortality_rate	501.9
+55075	Wisconsin	Marinette	infant_mortality_rate	
+55077	Wisconsin	Marquette	infant_mortality_rate	
+55078	Wisconsin	Menominee	infant_mortality_rate	
+55079	Wisconsin	Milwaukee	infant_mortality_rate	982.2
+55081	Wisconsin	Monroe	infant_mortality_rate	597.3
+55083	Wisconsin	Oconto	infant_mortality_rate	
+55085	Wisconsin	Oneida	infant_mortality_rate	574.7
+55087	Wisconsin	Outagamie	infant_mortality_rate	595.4
+55089	Wisconsin	Ozaukee	infant_mortality_rate	372.3
+55091	Wisconsin	Pepin	infant_mortality_rate	
+55093	Wisconsin	Pierce	infant_mortality_rate	
+55095	Wisconsin	Polk	infant_mortality_rate	489.6
+55097	Wisconsin	Portage	infant_mortality_rate	360
+55099	Wisconsin	Price	infant_mortality_rate	
+55101	Wisconsin	Racine	infant_mortality_rate	898.2
+55103	Wisconsin	Richland	infant_mortality_rate	
+55105	Wisconsin	Rock	infant_mortality_rate	724.6
+55107	Wisconsin	Rusk	infant_mortality_rate	
+55109	Wisconsin	St. Croix	infant_mortality_rate	468.1
+55111	Wisconsin	Sauk	infant_mortality_rate	658.9
+55113	Wisconsin	Sawyer	infant_mortality_rate	
+55115	Wisconsin	Shawano	infant_mortality_rate	733.8
+55117	Wisconsin	Sheboygan	infant_mortality_rate	438.3
+55119	Wisconsin	Taylor	infant_mortality_rate	
+55121	Wisconsin	Trempealeau	infant_mortality_rate	
+55123	Wisconsin	Vernon	infant_mortality_rate	679.3
+55125	Wisconsin	Vilas	infant_mortality_rate	
+55127	Wisconsin	Walworth	infant_mortality_rate	456.7
+55129	Wisconsin	Washburn	infant_mortality_rate	
+55131	Wisconsin	Washington	infant_mortality_rate	448.9
+55133	Wisconsin	Waukesha	infant_mortality_rate	546
+55135	Wisconsin	Waupaca	infant_mortality_rate	467.8
+55137	Wisconsin	Waushara	infant_mortality_rate	
+55139	Wisconsin	Winnebago	infant_mortality_rate	682.4
+55141	Wisconsin	Wood	infant_mortality_rate	444.7
+56001	Wyoming	Albany	infant_mortality_rate	
+56003	Wyoming	Big Horn	infant_mortality_rate	
+56005	Wyoming	Campbell	infant_mortality_rate	713.9
+56007	Wyoming	Carbon	infant_mortality_rate	1325.1
+56009	Wyoming	Converse	infant_mortality_rate	
+56011	Wyoming	Crook	infant_mortality_rate	
+56013	Wyoming	Fremont	infant_mortality_rate	888
+56015	Wyoming	Goshen	infant_mortality_rate	
+56017	Wyoming	Hot Springs	infant_mortality_rate	
+56019	Wyoming	Johnson	infant_mortality_rate	
+56021	Wyoming	Laramie	infant_mortality_rate	786.8
+56023	Wyoming	Lincoln	infant_mortality_rate	709.2
+56025	Wyoming	Natrona	infant_mortality_rate	630.4
+56027	Wyoming	Niobrara	infant_mortality_rate	
+56029	Wyoming	Park	infant_mortality_rate	
+56031	Wyoming	Platte	infant_mortality_rate	
+56033	Wyoming	Sheridan	infant_mortality_rate	
+56035	Wyoming	Sublette	infant_mortality_rate	
+56037	Wyoming	Sweetwater	infant_mortality_rate	818.1
+56039	Wyoming	Teton	infant_mortality_rate	
+56041	Wyoming	Uinta	infant_mortality_rate	
+56043	Wyoming	Washakie	infant_mortality_rate	
+56045	Wyoming	Weston	infant_mortality_rate	

@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_obese
-01001	Alabama	Autauga	pcnt_obese	34
-01003	Alabama	Baldwin	pcnt_obese	26
-01005	Alabama	Barbour	pcnt_obese	37
-01007	Alabama	Bibb	pcnt_obese	34
-01009	Alabama	Blount	pcnt_obese	32
-01011	Alabama	Bullock	pcnt_obese	39
-01013	Alabama	Butler	pcnt_obese	41
-01015	Alabama	Calhoun	pcnt_obese	34
-01017	Alabama	Chambers	pcnt_obese	35
-01019	Alabama	Cherokee	pcnt_obese	31
-01021	Alabama	Chilton	pcnt_obese	35
-01023	Alabama	Choctaw	pcnt_obese	38
-01025	Alabama	Clarke	pcnt_obese	35
-01027	Alabama	Clay	pcnt_obese	34
-01029	Alabama	Cleburne	pcnt_obese	30
-01031	Alabama	Coffee	pcnt_obese	32
-01033	Alabama	Colbert	pcnt_obese	33
-01035	Alabama	Conecuh	pcnt_obese	33
-01037	Alabama	Coosa	pcnt_obese	34
-01039	Alabama	Covington	pcnt_obese	36
-01041	Alabama	Crenshaw	pcnt_obese	37
-01043	Alabama	Cullman	pcnt_obese	32
-01045	Alabama	Dale	pcnt_obese	36
-01047	Alabama	Dallas	pcnt_obese	41
-01049	Alabama	DeKalb	pcnt_obese	34
-01051	Alabama	Elmore	pcnt_obese	32
-01053	Alabama	Escambia	pcnt_obese	36
-01055	Alabama	Etowah	pcnt_obese	32
-01057	Alabama	Fayette	pcnt_obese	37
-01059	Alabama	Franklin	pcnt_obese	31
-01061	Alabama	Geneva	pcnt_obese	36
-01063	Alabama	Greene	pcnt_obese	48
-01065	Alabama	Hale	pcnt_obese	44
-01067	Alabama	Henry	pcnt_obese	34
-01069	Alabama	Houston	pcnt_obese	33
-01071	Alabama	Jackson	pcnt_obese	31
-01073	Alabama	Jefferson	pcnt_obese	32
-01075	Alabama	Lamar	pcnt_obese	32
-01077	Alabama	Lauderdale	pcnt_obese	32
-01079	Alabama	Lawrence	pcnt_obese	38
-01081	Alabama	Lee	pcnt_obese	30
-01083	Alabama	Limestone	pcnt_obese	31
-01085	Alabama	Lowndes	pcnt_obese	45
-01087	Alabama	Macon	pcnt_obese	41
-01089	Alabama	Madison	pcnt_obese	31
-01091	Alabama	Marengo	pcnt_obese	40
-01093	Alabama	Marion	pcnt_obese	33
-01095	Alabama	Marshall	pcnt_obese	29
-01097	Alabama	Mobile	pcnt_obese	32
-01099	Alabama	Monroe	pcnt_obese	36
-01101	Alabama	Montgomery	pcnt_obese	34
-01103	Alabama	Morgan	pcnt_obese	33
-01105	Alabama	Perry	pcnt_obese	40
-01107	Alabama	Pickens	pcnt_obese	36
-01109	Alabama	Pike	pcnt_obese	37
-01111	Alabama	Randolph	pcnt_obese	32
-01113	Alabama	Russell	pcnt_obese	39
-01115	Alabama	St. Clair	pcnt_obese	36
-01117	Alabama	Shelby	pcnt_obese	28
-01119	Alabama	Sumter	pcnt_obese	42
-01121	Alabama	Talladega	pcnt_obese	37
-01123	Alabama	Tallapoosa	pcnt_obese	37
-01125	Alabama	Tuscaloosa	pcnt_obese	35
-01127	Alabama	Walker	pcnt_obese	35
-01129	Alabama	Washington	pcnt_obese	36
-01131	Alabama	Wilcox	pcnt_obese	43
-01133	Alabama	Winston	pcnt_obese	36
-02013	Alaska	Aleutians East	pcnt_obese	31
-02016	Alaska	Aleutians West	pcnt_obese	28
-02020	Alaska	Anchorage	pcnt_obese	26
-02050	Alaska	Bethel	pcnt_obese	30
-02060	Alaska	Bristol Bay	pcnt_obese	35
-02068	Alaska	Denali	pcnt_obese	28
-02070	Alaska	Dillingham	pcnt_obese	34
-02090	Alaska	Fairbanks North Star	pcnt_obese	28
-02100	Alaska	Haines	pcnt_obese	32
-02110	Alaska	Juneau	pcnt_obese	26
-02122	Alaska	Kenai Peninsula	pcnt_obese	29
-02130	Alaska	Ketchikan Gateway	pcnt_obese	32
-02150	Alaska	Kodiak Island	pcnt_obese	30
-02164	Alaska	Lake and Peninsula	pcnt_obese	34
-02170	Alaska	Matanuska-Susitna	pcnt_obese	30
-02180	Alaska	Nome	pcnt_obese	36
-02185	Alaska	North Slope	pcnt_obese	39
-02188	Alaska	Northwest Arctic	pcnt_obese	30
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_obese	36
-02220	Alaska	Sitka	pcnt_obese	30
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_obese	32
-02240	Alaska	Southeast Fairbanks	pcnt_obese	31
-02261	Alaska	Valdez-Cordova	pcnt_obese	29
-02270	Alaska	Wade Hampton	pcnt_obese	30
-02280	Alaska	Wrangell-Petersburg	pcnt_obese	31
-02282	Alaska	Yakutat	pcnt_obese	31
-02290	Alaska	Yukon-Koyukuk	pcnt_obese	33
-04001	Arizona	Apache	pcnt_obese	33
-04003	Arizona	Cochise	pcnt_obese	24
-04005	Arizona	Coconino	pcnt_obese	25
-04007	Arizona	Gila	pcnt_obese	26
-04009	Arizona	Graham	pcnt_obese	33
-04011	Arizona	Greenlee	pcnt_obese	36
-04012	Arizona	La Paz	pcnt_obese	30
-04013	Arizona	Maricopa	pcnt_obese	24
-04015	Arizona	Mohave	pcnt_obese	27
-04017	Arizona	Navajo	pcnt_obese	32
-04019	Arizona	Pima	pcnt_obese	26
-04021	Arizona	Pinal	pcnt_obese	30
-04023	Arizona	Santa Cruz	pcnt_obese	22
-04025	Arizona	Yavapai	pcnt_obese	22
-04027	Arizona	Yuma	pcnt_obese	29
-05001	Arkansas	Arkansas	pcnt_obese	36
-05003	Arkansas	Ashley	pcnt_obese	39
-05005	Arkansas	Baxter	pcnt_obese	28
-05007	Arkansas	Benton	pcnt_obese	28
-05009	Arkansas	Boone	pcnt_obese	29
-05011	Arkansas	Bradley	pcnt_obese	32
-05013	Arkansas	Calhoun	pcnt_obese	34
-05015	Arkansas	Carroll	pcnt_obese	26
-05017	Arkansas	Chicot	pcnt_obese	38
-05019	Arkansas	Clark	pcnt_obese	34
-05021	Arkansas	Clay	pcnt_obese	32
-05023	Arkansas	Cleburne	pcnt_obese	27
-05025	Arkansas	Cleveland	pcnt_obese	33
-05027	Arkansas	Columbia	pcnt_obese	32
-05029	Arkansas	Conway	pcnt_obese	33
-05031	Arkansas	Craighead	pcnt_obese	33
-05033	Arkansas	Crawford	pcnt_obese	33
-05035	Arkansas	Crittenden	pcnt_obese	38
-05037	Arkansas	Cross	pcnt_obese	34
-05039	Arkansas	Dallas	pcnt_obese	34
-05041	Arkansas	Desha	pcnt_obese	38
-05043	Arkansas	Drew	pcnt_obese	36
-05045	Arkansas	Faulkner	pcnt_obese	33
-05047	Arkansas	Franklin	pcnt_obese	34
-05049	Arkansas	Fulton	pcnt_obese	31
-05051	Arkansas	Garland	pcnt_obese	28
-05053	Arkansas	Grant	pcnt_obese	36
-05055	Arkansas	Greene	pcnt_obese	34
-05057	Arkansas	Hempstead	pcnt_obese	36
-05059	Arkansas	Hot Spring	pcnt_obese	35
-05061	Arkansas	Howard	pcnt_obese	35
-05063	Arkansas	Independence	pcnt_obese	30
-05065	Arkansas	Izard	pcnt_obese	29
-05067	Arkansas	Jackson	pcnt_obese	32
-05069	Arkansas	Jefferson	pcnt_obese	38
-05071	Arkansas	Johnson	pcnt_obese	35
-05073	Arkansas	Lafayette	pcnt_obese	31
-05075	Arkansas	Lawrence	pcnt_obese	34
-05077	Arkansas	Lee	pcnt_obese	37
-05079	Arkansas	Lincoln	pcnt_obese	36
-05081	Arkansas	Little River	pcnt_obese	33
-05083	Arkansas	Logan	pcnt_obese	29
-05085	Arkansas	Lonoke	pcnt_obese	34
-05087	Arkansas	Madison	pcnt_obese	30
-05089	Arkansas	Marion	pcnt_obese	32
-05091	Arkansas	Miller	pcnt_obese	38
-05093	Arkansas	Mississippi	pcnt_obese	39
-05095	Arkansas	Monroe	pcnt_obese	36
-05097	Arkansas	Montgomery	pcnt_obese	28
-05099	Arkansas	Nevada	pcnt_obese	35
-05101	Arkansas	Newton	pcnt_obese	35
-05103	Arkansas	Ouachita	pcnt_obese	37
-05105	Arkansas	Perry	pcnt_obese	32
-05107	Arkansas	Phillips	pcnt_obese	39
-05109	Arkansas	Pike	pcnt_obese	31
-05111	Arkansas	Poinsett	pcnt_obese	37
-05113	Arkansas	Polk	pcnt_obese	38
-05115	Arkansas	Pope	pcnt_obese	32
-05117	Arkansas	Prairie	pcnt_obese	32
-05119	Arkansas	Pulaski	pcnt_obese	32
-05121	Arkansas	Randolph	pcnt_obese	35
-05123	Arkansas	St. Francis	pcnt_obese	38
-05125	Arkansas	Saline	pcnt_obese	31
-05127	Arkansas	Scott	pcnt_obese	32
-05129	Arkansas	Searcy	pcnt_obese	31
-05131	Arkansas	Sebastian	pcnt_obese	30
-05133	Arkansas	Sevier	pcnt_obese	32
-05135	Arkansas	Sharp	pcnt_obese	28
-05137	Arkansas	Stone	pcnt_obese	32
-05139	Arkansas	Union	pcnt_obese	31
-05141	Arkansas	Van Buren	pcnt_obese	31
-05143	Arkansas	Washington	pcnt_obese	30
-05145	Arkansas	White	pcnt_obese	31
-05147	Arkansas	Woodruff	pcnt_obese	34
-05149	Arkansas	Yell	pcnt_obese	36
-06001	California	Alameda	pcnt_obese	20
-06003	California	Alpine	pcnt_obese	25
-06005	California	Amador	pcnt_obese	25
-06007	California	Butte	pcnt_obese	25
-06009	California	Calaveras	pcnt_obese	26
-06011	California	Colusa	pcnt_obese	25
-06013	California	Contra Costa	pcnt_obese	24
-06015	California	Del Norte	pcnt_obese	27
-06017	California	El Dorado	pcnt_obese	21
-06019	California	Fresno	pcnt_obese	29
-06021	California	Glenn	pcnt_obese	27
-06023	California	Humboldt	pcnt_obese	26
-06025	California	Imperial	pcnt_obese	25
-06027	California	Inyo	pcnt_obese	23
-06029	California	Kern	pcnt_obese	29
-06031	California	Kings	pcnt_obese	28
-06033	California	Lake	pcnt_obese	27
-06035	California	Lassen	pcnt_obese	27
-06037	California	Los Angeles	pcnt_obese	22
-06039	California	Madera	pcnt_obese	30
-06041	California	Marin	pcnt_obese	15
-06043	California	Mariposa	pcnt_obese	24
-06045	California	Mendocino	pcnt_obese	23
-06047	California	Merced	pcnt_obese	32
-06049	California	Modoc	pcnt_obese	25
-06051	California	Mono	pcnt_obese	21
-06053	California	Monterey	pcnt_obese	22
-06055	California	Napa	pcnt_obese	22
-06057	California	Nevada	pcnt_obese	21
-06059	California	Orange	pcnt_obese	21
-06061	California	Placer	pcnt_obese	20
-06063	California	Plumas	pcnt_obese	24
-06065	California	Riverside	pcnt_obese	28
-06067	California	Sacramento	pcnt_obese	28
-06069	California	San Benito	pcnt_obese	24
-06071	California	San Bernardino	pcnt_obese	28
-06073	California	San Diego	pcnt_obese	23
-06075	California	San Francisco	pcnt_obese	17
-06077	California	San Joaquin	pcnt_obese	30
-06079	California	San Luis Obispo	pcnt_obese	22
-06081	California	San Mateo	pcnt_obese	20
-06083	California	Santa Barbara	pcnt_obese	20
-06085	California	Santa Clara	pcnt_obese	21
-06087	California	Santa Cruz	pcnt_obese	20
-06089	California	Shasta	pcnt_obese	28
-06091	California	Sierra	pcnt_obese	24
-06093	California	Siskiyou	pcnt_obese	25
-06095	California	Solano	pcnt_obese	27
-06097	California	Sonoma	pcnt_obese	23
-06099	California	Stanislaus	pcnt_obese	31
-06101	California	Sutter	pcnt_obese	27
-06103	California	Tehama	pcnt_obese	25
-06105	California	Trinity	pcnt_obese	24
-06107	California	Tulare	pcnt_obese	31
-06109	California	Tuolumne	pcnt_obese	23
-06111	California	Ventura	pcnt_obese	23
-06113	California	Yolo	pcnt_obese	26
-06115	California	Yuba	pcnt_obese	31
-08001	Colorado	Adams	pcnt_obese	25
-08003	Colorado	Alamosa	pcnt_obese	21
-08005	Colorado	Arapahoe	pcnt_obese	20
-08007	Colorado	Archuleta	pcnt_obese	17
-08009	Colorado	Baca	pcnt_obese	23
-08011	Colorado	Bent	pcnt_obese	25
-08013	Colorado	Boulder	pcnt_obese	15
-08014	Colorado	Broomfield	pcnt_obese	22
-08015	Colorado	Chaffee	pcnt_obese	16
-08017	Colorado	Cheyenne	pcnt_obese	21
-08019	Colorado	Clear Creek	pcnt_obese	19
-08021	Colorado	Conejos	pcnt_obese	18
-08023	Colorado	Costilla	pcnt_obese	21
-08025	Colorado	Crowley	pcnt_obese	23
-08027	Colorado	Custer	pcnt_obese	21
-08029	Colorado	Delta	pcnt_obese	20
-08031	Colorado	Denver	pcnt_obese	18
-08033	Colorado	Dolores	pcnt_obese	21
-08035	Colorado	Douglas	pcnt_obese	16
-08037	Colorado	Eagle	pcnt_obese	14
-08039	Colorado	Elbert	pcnt_obese	22
-08041	Colorado	El Paso	pcnt_obese	21
-08043	Colorado	Fremont	pcnt_obese	22
-08045	Colorado	Garfield	pcnt_obese	18
-08047	Colorado	Gilpin	pcnt_obese	20
-08049	Colorado	Grand	pcnt_obese	19
-08051	Colorado	Gunnison	pcnt_obese	16
-08053	Colorado	Hinsdale	pcnt_obese	20
-08055	Colorado	Huerfano	pcnt_obese	20
-08057	Colorado	Jackson	pcnt_obese	21
-08059	Colorado	Jefferson	pcnt_obese	19
-08061	Colorado	Kiowa	pcnt_obese	24
-08063	Colorado	Kit Carson	pcnt_obese	27
-08065	Colorado	Lake	pcnt_obese	18
-08067	Colorado	La Plata	pcnt_obese	16
-08069	Colorado	Larimer	pcnt_obese	19
-08071	Colorado	Las Animas	pcnt_obese	22
-08073	Colorado	Lincoln	pcnt_obese	22
-08075	Colorado	Logan	pcnt_obese	23
-08077	Colorado	Mesa	pcnt_obese	22
-08079	Colorado	Mineral	pcnt_obese	19
-08081	Colorado	Moffat	pcnt_obese	24
-08083	Colorado	Montezuma	pcnt_obese	19
-08085	Colorado	Montrose	pcnt_obese	19
-08087	Colorado	Morgan	pcnt_obese	26
-08089	Colorado	Otero	pcnt_obese	26
-08091	Colorado	Ouray	pcnt_obese	18
-08093	Colorado	Park	pcnt_obese	19
-08095	Colorado	Phillips	pcnt_obese	22
-08097	Colorado	Pitkin	pcnt_obese	14
-08099	Colorado	Prowers	pcnt_obese	22
-08101	Colorado	Pueblo	pcnt_obese	24
-08103	Colorado	Rio Blanco	pcnt_obese	20
-08105	Colorado	Rio Grande	pcnt_obese	21
-08107	Colorado	Routt	pcnt_obese	14
-08109	Colorado	Saguache	pcnt_obese	21
-08111	Colorado	San Juan	pcnt_obese	19
-08113	Colorado	San Miguel	pcnt_obese	17
-08115	Colorado	Sedgwick	pcnt_obese	24
-08117	Colorado	Summit	pcnt_obese	15
-08119	Colorado	Teller	pcnt_obese	19
-08121	Colorado	Washington	pcnt_obese	21
-08123	Colorado	Weld	pcnt_obese	25
-08125	Colorado	Yuma	pcnt_obese	24
-09001	Connecticut	Fairfield	pcnt_obese	18
-09003	Connecticut	Hartford	pcnt_obese	24
-09005	Connecticut	Litchfield	pcnt_obese	20
-09007	Connecticut	Middlesex	pcnt_obese	23
-09009	Connecticut	New Haven	pcnt_obese	27
-09011	Connecticut	New London	pcnt_obese	24
-09013	Connecticut	Tolland	pcnt_obese	23
-09015	Connecticut	Windham	pcnt_obese	30
+1001	Alabama	Autauga	pcnt_obese	34
+1003	Alabama	Baldwin	pcnt_obese	26
+1005	Alabama	Barbour	pcnt_obese	37
+1007	Alabama	Bibb	pcnt_obese	34
+1009	Alabama	Blount	pcnt_obese	32
+1011	Alabama	Bullock	pcnt_obese	39
+1013	Alabama	Butler	pcnt_obese	41
+1015	Alabama	Calhoun	pcnt_obese	34
+1017	Alabama	Chambers	pcnt_obese	35
+1019	Alabama	Cherokee	pcnt_obese	31
+1021	Alabama	Chilton	pcnt_obese	35
+1023	Alabama	Choctaw	pcnt_obese	38
+1025	Alabama	Clarke	pcnt_obese	35
+1027	Alabama	Clay	pcnt_obese	34
+1029	Alabama	Cleburne	pcnt_obese	30
+1031	Alabama	Coffee	pcnt_obese	32
+1033	Alabama	Colbert	pcnt_obese	33
+1035	Alabama	Conecuh	pcnt_obese	33
+1037	Alabama	Coosa	pcnt_obese	34
+1039	Alabama	Covington	pcnt_obese	36
+1041	Alabama	Crenshaw	pcnt_obese	37
+1043	Alabama	Cullman	pcnt_obese	32
+1045	Alabama	Dale	pcnt_obese	36
+1047	Alabama	Dallas	pcnt_obese	41
+1049	Alabama	DeKalb	pcnt_obese	34
+1051	Alabama	Elmore	pcnt_obese	32
+1053	Alabama	Escambia	pcnt_obese	36
+1055	Alabama	Etowah	pcnt_obese	32
+1057	Alabama	Fayette	pcnt_obese	37
+1059	Alabama	Franklin	pcnt_obese	31
+1061	Alabama	Geneva	pcnt_obese	36
+1063	Alabama	Greene	pcnt_obese	48
+1065	Alabama	Hale	pcnt_obese	44
+1067	Alabama	Henry	pcnt_obese	34
+1069	Alabama	Houston	pcnt_obese	33
+1071	Alabama	Jackson	pcnt_obese	31
+1073	Alabama	Jefferson	pcnt_obese	32
+1075	Alabama	Lamar	pcnt_obese	32
+1077	Alabama	Lauderdale	pcnt_obese	32
+1079	Alabama	Lawrence	pcnt_obese	38
+1081	Alabama	Lee	pcnt_obese	30
+1083	Alabama	Limestone	pcnt_obese	31
+1085	Alabama	Lowndes	pcnt_obese	45
+1087	Alabama	Macon	pcnt_obese	41
+1089	Alabama	Madison	pcnt_obese	31
+1091	Alabama	Marengo	pcnt_obese	40
+1093	Alabama	Marion	pcnt_obese	33
+1095	Alabama	Marshall	pcnt_obese	29
+1097	Alabama	Mobile	pcnt_obese	32
+1099	Alabama	Monroe	pcnt_obese	36
+1101	Alabama	Montgomery	pcnt_obese	34
+1103	Alabama	Morgan	pcnt_obese	33
+1105	Alabama	Perry	pcnt_obese	40
+1107	Alabama	Pickens	pcnt_obese	36
+1109	Alabama	Pike	pcnt_obese	37
+1111	Alabama	Randolph	pcnt_obese	32
+1113	Alabama	Russell	pcnt_obese	39
+1115	Alabama	St. Clair	pcnt_obese	36
+1117	Alabama	Shelby	pcnt_obese	28
+1119	Alabama	Sumter	pcnt_obese	42
+1121	Alabama	Talladega	pcnt_obese	37
+1123	Alabama	Tallapoosa	pcnt_obese	37
+1125	Alabama	Tuscaloosa	pcnt_obese	35
+1127	Alabama	Walker	pcnt_obese	35
+1129	Alabama	Washington	pcnt_obese	36
+1131	Alabama	Wilcox	pcnt_obese	43
+1133	Alabama	Winston	pcnt_obese	36
+2013	Alaska	Aleutians East	pcnt_obese	31
+2016	Alaska	Aleutians West	pcnt_obese	28
+2020	Alaska	Anchorage	pcnt_obese	26
+2050	Alaska	Bethel	pcnt_obese	30
+2060	Alaska	Bristol Bay	pcnt_obese	35
+2068	Alaska	Denali	pcnt_obese	28
+2070	Alaska	Dillingham	pcnt_obese	34
+2090	Alaska	Fairbanks North Star	pcnt_obese	28
+2100	Alaska	Haines	pcnt_obese	32
+2110	Alaska	Juneau	pcnt_obese	26
+2122	Alaska	Kenai Peninsula	pcnt_obese	29
+2130	Alaska	Ketchikan Gateway	pcnt_obese	32
+2150	Alaska	Kodiak Island	pcnt_obese	30
+2164	Alaska	Lake and Peninsula	pcnt_obese	34
+2170	Alaska	Matanuska-Susitna	pcnt_obese	30
+2180	Alaska	Nome	pcnt_obese	36
+2185	Alaska	North Slope	pcnt_obese	39
+2188	Alaska	Northwest Arctic	pcnt_obese	30
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_obese	36
+2220	Alaska	Sitka	pcnt_obese	30
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_obese	32
+2240	Alaska	Southeast Fairbanks	pcnt_obese	31
+2261	Alaska	Valdez-Cordova	pcnt_obese	29
+2270	Alaska	Wade Hampton	pcnt_obese	30
+2280	Alaska	Wrangell-Petersburg	pcnt_obese	31
+2282	Alaska	Yakutat	pcnt_obese	31
+2290	Alaska	Yukon-Koyukuk	pcnt_obese	33
+4001	Arizona	Apache	pcnt_obese	33
+4003	Arizona	Cochise	pcnt_obese	24
+4005	Arizona	Coconino	pcnt_obese	25
+4007	Arizona	Gila	pcnt_obese	26
+4009	Arizona	Graham	pcnt_obese	33
+4011	Arizona	Greenlee	pcnt_obese	36
+4012	Arizona	La Paz	pcnt_obese	30
+4013	Arizona	Maricopa	pcnt_obese	24
+4015	Arizona	Mohave	pcnt_obese	27
+4017	Arizona	Navajo	pcnt_obese	32
+4019	Arizona	Pima	pcnt_obese	26
+4021	Arizona	Pinal	pcnt_obese	30
+4023	Arizona	Santa Cruz	pcnt_obese	22
+4025	Arizona	Yavapai	pcnt_obese	22
+4027	Arizona	Yuma	pcnt_obese	29
+5001	Arkansas	Arkansas	pcnt_obese	36
+5003	Arkansas	Ashley	pcnt_obese	39
+5005	Arkansas	Baxter	pcnt_obese	28
+5007	Arkansas	Benton	pcnt_obese	28
+5009	Arkansas	Boone	pcnt_obese	29
+5011	Arkansas	Bradley	pcnt_obese	32
+5013	Arkansas	Calhoun	pcnt_obese	34
+5015	Arkansas	Carroll	pcnt_obese	26
+5017	Arkansas	Chicot	pcnt_obese	38
+5019	Arkansas	Clark	pcnt_obese	34
+5021	Arkansas	Clay	pcnt_obese	32
+5023	Arkansas	Cleburne	pcnt_obese	27
+5025	Arkansas	Cleveland	pcnt_obese	33
+5027	Arkansas	Columbia	pcnt_obese	32
+5029	Arkansas	Conway	pcnt_obese	33
+5031	Arkansas	Craighead	pcnt_obese	33
+5033	Arkansas	Crawford	pcnt_obese	33
+5035	Arkansas	Crittenden	pcnt_obese	38
+5037	Arkansas	Cross	pcnt_obese	34
+5039	Arkansas	Dallas	pcnt_obese	34
+5041	Arkansas	Desha	pcnt_obese	38
+5043	Arkansas	Drew	pcnt_obese	36
+5045	Arkansas	Faulkner	pcnt_obese	33
+5047	Arkansas	Franklin	pcnt_obese	34
+5049	Arkansas	Fulton	pcnt_obese	31
+5051	Arkansas	Garland	pcnt_obese	28
+5053	Arkansas	Grant	pcnt_obese	36
+5055	Arkansas	Greene	pcnt_obese	34
+5057	Arkansas	Hempstead	pcnt_obese	36
+5059	Arkansas	Hot Spring	pcnt_obese	35
+5061	Arkansas	Howard	pcnt_obese	35
+5063	Arkansas	Independence	pcnt_obese	30
+5065	Arkansas	Izard	pcnt_obese	29
+5067	Arkansas	Jackson	pcnt_obese	32
+5069	Arkansas	Jefferson	pcnt_obese	38
+5071	Arkansas	Johnson	pcnt_obese	35
+5073	Arkansas	Lafayette	pcnt_obese	31
+5075	Arkansas	Lawrence	pcnt_obese	34
+5077	Arkansas	Lee	pcnt_obese	37
+5079	Arkansas	Lincoln	pcnt_obese	36
+5081	Arkansas	Little River	pcnt_obese	33
+5083	Arkansas	Logan	pcnt_obese	29
+5085	Arkansas	Lonoke	pcnt_obese	34
+5087	Arkansas	Madison	pcnt_obese	30
+5089	Arkansas	Marion	pcnt_obese	32
+5091	Arkansas	Miller	pcnt_obese	38
+5093	Arkansas	Mississippi	pcnt_obese	39
+5095	Arkansas	Monroe	pcnt_obese	36
+5097	Arkansas	Montgomery	pcnt_obese	28
+5099	Arkansas	Nevada	pcnt_obese	35
+5101	Arkansas	Newton	pcnt_obese	35
+5103	Arkansas	Ouachita	pcnt_obese	37
+5105	Arkansas	Perry	pcnt_obese	32
+5107	Arkansas	Phillips	pcnt_obese	39
+5109	Arkansas	Pike	pcnt_obese	31
+5111	Arkansas	Poinsett	pcnt_obese	37
+5113	Arkansas	Polk	pcnt_obese	38
+5115	Arkansas	Pope	pcnt_obese	32
+5117	Arkansas	Prairie	pcnt_obese	32
+5119	Arkansas	Pulaski	pcnt_obese	32
+5121	Arkansas	Randolph	pcnt_obese	35
+5123	Arkansas	St. Francis	pcnt_obese	38
+5125	Arkansas	Saline	pcnt_obese	31
+5127	Arkansas	Scott	pcnt_obese	32
+5129	Arkansas	Searcy	pcnt_obese	31
+5131	Arkansas	Sebastian	pcnt_obese	30
+5133	Arkansas	Sevier	pcnt_obese	32
+5135	Arkansas	Sharp	pcnt_obese	28
+5137	Arkansas	Stone	pcnt_obese	32
+5139	Arkansas	Union	pcnt_obese	31
+5141	Arkansas	Van Buren	pcnt_obese	31
+5143	Arkansas	Washington	pcnt_obese	30
+5145	Arkansas	White	pcnt_obese	31
+5147	Arkansas	Woodruff	pcnt_obese	34
+5149	Arkansas	Yell	pcnt_obese	36
+6001	California	Alameda	pcnt_obese	20
+6003	California	Alpine	pcnt_obese	25
+6005	California	Amador	pcnt_obese	25
+6007	California	Butte	pcnt_obese	25
+6009	California	Calaveras	pcnt_obese	26
+6011	California	Colusa	pcnt_obese	25
+6013	California	Contra Costa	pcnt_obese	24
+6015	California	Del Norte	pcnt_obese	27
+6017	California	El Dorado	pcnt_obese	21
+6019	California	Fresno	pcnt_obese	29
+6021	California	Glenn	pcnt_obese	27
+6023	California	Humboldt	pcnt_obese	26
+6025	California	Imperial	pcnt_obese	25
+6027	California	Inyo	pcnt_obese	23
+6029	California	Kern	pcnt_obese	29
+6031	California	Kings	pcnt_obese	28
+6033	California	Lake	pcnt_obese	27
+6035	California	Lassen	pcnt_obese	27
+6037	California	Los Angeles	pcnt_obese	22
+6039	California	Madera	pcnt_obese	30
+6041	California	Marin	pcnt_obese	15
+6043	California	Mariposa	pcnt_obese	24
+6045	California	Mendocino	pcnt_obese	23
+6047	California	Merced	pcnt_obese	32
+6049	California	Modoc	pcnt_obese	25
+6051	California	Mono	pcnt_obese	21
+6053	California	Monterey	pcnt_obese	22
+6055	California	Napa	pcnt_obese	22
+6057	California	Nevada	pcnt_obese	21
+6059	California	Orange	pcnt_obese	21
+6061	California	Placer	pcnt_obese	20
+6063	California	Plumas	pcnt_obese	24
+6065	California	Riverside	pcnt_obese	28
+6067	California	Sacramento	pcnt_obese	28
+6069	California	San Benito	pcnt_obese	24
+6071	California	San Bernardino	pcnt_obese	28
+6073	California	San Diego	pcnt_obese	23
+6075	California	San Francisco	pcnt_obese	17
+6077	California	San Joaquin	pcnt_obese	30
+6079	California	San Luis Obispo	pcnt_obese	22
+6081	California	San Mateo	pcnt_obese	20
+6083	California	Santa Barbara	pcnt_obese	20
+6085	California	Santa Clara	pcnt_obese	21
+6087	California	Santa Cruz	pcnt_obese	20
+6089	California	Shasta	pcnt_obese	28
+6091	California	Sierra	pcnt_obese	24
+6093	California	Siskiyou	pcnt_obese	25
+6095	California	Solano	pcnt_obese	27
+6097	California	Sonoma	pcnt_obese	23
+6099	California	Stanislaus	pcnt_obese	31
+6101	California	Sutter	pcnt_obese	27
+6103	California	Tehama	pcnt_obese	25
+6105	California	Trinity	pcnt_obese	24
+6107	California	Tulare	pcnt_obese	31
+6109	California	Tuolumne	pcnt_obese	23
+6111	California	Ventura	pcnt_obese	23
+6113	California	Yolo	pcnt_obese	26
+6115	California	Yuba	pcnt_obese	31
+8001	Colorado	Adams	pcnt_obese	25
+8003	Colorado	Alamosa	pcnt_obese	21
+8005	Colorado	Arapahoe	pcnt_obese	20
+8007	Colorado	Archuleta	pcnt_obese	17
+8009	Colorado	Baca	pcnt_obese	23
+8011	Colorado	Bent	pcnt_obese	25
+8013	Colorado	Boulder	pcnt_obese	15
+8014	Colorado	Broomfield	pcnt_obese	22
+8015	Colorado	Chaffee	pcnt_obese	16
+8017	Colorado	Cheyenne	pcnt_obese	21
+8019	Colorado	Clear Creek	pcnt_obese	19
+8021	Colorado	Conejos	pcnt_obese	18
+8023	Colorado	Costilla	pcnt_obese	21
+8025	Colorado	Crowley	pcnt_obese	23
+8027	Colorado	Custer	pcnt_obese	21
+8029	Colorado	Delta	pcnt_obese	20
+8031	Colorado	Denver	pcnt_obese	18
+8033	Colorado	Dolores	pcnt_obese	21
+8035	Colorado	Douglas	pcnt_obese	16
+8037	Colorado	Eagle	pcnt_obese	14
+8039	Colorado	Elbert	pcnt_obese	22
+8041	Colorado	El Paso	pcnt_obese	21
+8043	Colorado	Fremont	pcnt_obese	22
+8045	Colorado	Garfield	pcnt_obese	18
+8047	Colorado	Gilpin	pcnt_obese	20
+8049	Colorado	Grand	pcnt_obese	19
+8051	Colorado	Gunnison	pcnt_obese	16
+8053	Colorado	Hinsdale	pcnt_obese	20
+8055	Colorado	Huerfano	pcnt_obese	20
+8057	Colorado	Jackson	pcnt_obese	21
+8059	Colorado	Jefferson	pcnt_obese	19
+8061	Colorado	Kiowa	pcnt_obese	24
+8063	Colorado	Kit Carson	pcnt_obese	27
+8065	Colorado	Lake	pcnt_obese	18
+8067	Colorado	La Plata	pcnt_obese	16
+8069	Colorado	Larimer	pcnt_obese	19
+8071	Colorado	Las Animas	pcnt_obese	22
+8073	Colorado	Lincoln	pcnt_obese	22
+8075	Colorado	Logan	pcnt_obese	23
+8077	Colorado	Mesa	pcnt_obese	22
+8079	Colorado	Mineral	pcnt_obese	19
+8081	Colorado	Moffat	pcnt_obese	24
+8083	Colorado	Montezuma	pcnt_obese	19
+8085	Colorado	Montrose	pcnt_obese	19
+8087	Colorado	Morgan	pcnt_obese	26
+8089	Colorado	Otero	pcnt_obese	26
+8091	Colorado	Ouray	pcnt_obese	18
+8093	Colorado	Park	pcnt_obese	19
+8095	Colorado	Phillips	pcnt_obese	22
+8097	Colorado	Pitkin	pcnt_obese	14
+8099	Colorado	Prowers	pcnt_obese	22
+8101	Colorado	Pueblo	pcnt_obese	24
+8103	Colorado	Rio Blanco	pcnt_obese	20
+8105	Colorado	Rio Grande	pcnt_obese	21
+8107	Colorado	Routt	pcnt_obese	14
+8109	Colorado	Saguache	pcnt_obese	21
+8111	Colorado	San Juan	pcnt_obese	19
+8113	Colorado	San Miguel	pcnt_obese	17
+8115	Colorado	Sedgwick	pcnt_obese	24
+8117	Colorado	Summit	pcnt_obese	15
+8119	Colorado	Teller	pcnt_obese	19
+8121	Colorado	Washington	pcnt_obese	21
+8123	Colorado	Weld	pcnt_obese	25
+8125	Colorado	Yuma	pcnt_obese	24
+9001	Connecticut	Fairfield	pcnt_obese	18
+9003	Connecticut	Hartford	pcnt_obese	24
+9005	Connecticut	Litchfield	pcnt_obese	20
+9007	Connecticut	Middlesex	pcnt_obese	23
+9009	Connecticut	New Haven	pcnt_obese	27
+9011	Connecticut	New London	pcnt_obese	24
+9013	Connecticut	Tolland	pcnt_obese	23
+9015	Connecticut	Windham	pcnt_obese	30
 10001	Delaware	Kent	pcnt_obese	33
 10003	Delaware	New Castle	pcnt_obese	27
 10005	Delaware	Sussex	pcnt_obese	29

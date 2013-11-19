@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_limited_access
-01001	Alabama	Autauga	pcnt_limited_access	10
-01003	Alabama	Baldwin	pcnt_limited_access	5
-01005	Alabama	Barbour	pcnt_limited_access	11
-01007	Alabama	Bibb	pcnt_limited_access	2
-01009	Alabama	Blount	pcnt_limited_access	1
-01011	Alabama	Bullock	pcnt_limited_access	20
-01013	Alabama	Butler	pcnt_limited_access	3
-01015	Alabama	Calhoun	pcnt_limited_access	10
-01017	Alabama	Chambers	pcnt_limited_access	9
-01019	Alabama	Cherokee	pcnt_limited_access	0
-01021	Alabama	Chilton	pcnt_limited_access	2
-01023	Alabama	Choctaw	pcnt_limited_access	12
-01025	Alabama	Clarke	pcnt_limited_access	11
-01027	Alabama	Clay	pcnt_limited_access	2
-01029	Alabama	Cleburne	pcnt_limited_access	1
-01031	Alabama	Coffee	pcnt_limited_access	7
-01033	Alabama	Colbert	pcnt_limited_access	5
-01035	Alabama	Conecuh	pcnt_limited_access	15
-01037	Alabama	Coosa	pcnt_limited_access	7
-01039	Alabama	Covington	pcnt_limited_access	3
-01041	Alabama	Crenshaw	pcnt_limited_access	16
-01043	Alabama	Cullman	pcnt_limited_access	3
-01045	Alabama	Dale	pcnt_limited_access	10
-01047	Alabama	Dallas	pcnt_limited_access	12
-01049	Alabama	DeKalb	pcnt_limited_access	2
-01051	Alabama	Elmore	pcnt_limited_access	7
-01053	Alabama	Escambia	pcnt_limited_access	8
-01055	Alabama	Etowah	pcnt_limited_access	9
-01057	Alabama	Fayette	pcnt_limited_access	1
-01059	Alabama	Franklin	pcnt_limited_access	4
-01061	Alabama	Geneva	pcnt_limited_access	1
-01063	Alabama	Greene	pcnt_limited_access	21
-01065	Alabama	Hale	pcnt_limited_access	0
-01067	Alabama	Henry	pcnt_limited_access	1
-01069	Alabama	Houston	pcnt_limited_access	7
-01071	Alabama	Jackson	pcnt_limited_access	4
-01073	Alabama	Jefferson	pcnt_limited_access	11
-01075	Alabama	Lamar	pcnt_limited_access	0
-01077	Alabama	Lauderdale	pcnt_limited_access	6
-01079	Alabama	Lawrence	pcnt_limited_access	2
-01081	Alabama	Lee	pcnt_limited_access	11
-01083	Alabama	Limestone	pcnt_limited_access	4
-01085	Alabama	Lowndes	pcnt_limited_access	26
-01087	Alabama	Macon	pcnt_limited_access	19
-01089	Alabama	Madison	pcnt_limited_access	8
-01091	Alabama	Marengo	pcnt_limited_access	15
-01093	Alabama	Marion	pcnt_limited_access	1
-01095	Alabama	Marshall	pcnt_limited_access	7
-01097	Alabama	Mobile	pcnt_limited_access	11
-01099	Alabama	Monroe	pcnt_limited_access	17
-01101	Alabama	Montgomery	pcnt_limited_access	11
-01103	Alabama	Morgan	pcnt_limited_access	4
-01105	Alabama	Perry	pcnt_limited_access	6
-01107	Alabama	Pickens	pcnt_limited_access	2
-01109	Alabama	Pike	pcnt_limited_access	6
-01111	Alabama	Randolph	pcnt_limited_access	2
-01113	Alabama	Russell	pcnt_limited_access	8
-01115	Alabama	St. Clair	pcnt_limited_access	1
-01117	Alabama	Shelby	pcnt_limited_access	4
-01119	Alabama	Sumter	pcnt_limited_access	11
-01121	Alabama	Talladega	pcnt_limited_access	6
-01123	Alabama	Tallapoosa	pcnt_limited_access	5
-01125	Alabama	Tuscaloosa	pcnt_limited_access	7
-01127	Alabama	Walker	pcnt_limited_access	4
-01129	Alabama	Washington	pcnt_limited_access	3
-01131	Alabama	Wilcox	pcnt_limited_access	28
-01133	Alabama	Winston	pcnt_limited_access	1
-02013	Alaska	Aleutians East	pcnt_limited_access	22
-02016	Alaska	Aleutians West	pcnt_limited_access	8
-02020	Alaska	Anchorage	pcnt_limited_access	5
-02050	Alaska	Bethel	pcnt_limited_access	39
-02060	Alaska	Bristol Bay	pcnt_limited_access	7
-02068	Alaska	Denali	pcnt_limited_access	19
-02070	Alaska	Dillingham	pcnt_limited_access	17
-02090	Alaska	Fairbanks North Star	pcnt_limited_access	10
-02100	Alaska	Haines	pcnt_limited_access	5
-02110	Alaska	Juneau	pcnt_limited_access	6
-02122	Alaska	Kenai Peninsula	pcnt_limited_access	6
-02130	Alaska	Ketchikan Gateway	pcnt_limited_access	1
-02150	Alaska	Kodiak Island	pcnt_limited_access	4
-02164	Alaska	Lake and Peninsula	pcnt_limited_access	46
-02170	Alaska	Matanuska-Susitna	pcnt_limited_access	6
-02180	Alaska	Nome	pcnt_limited_access	36
-02185	Alaska	North Slope	pcnt_limited_access	4
-02188	Alaska	Northwest Arctic	pcnt_limited_access	32
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_limited_access	8
-02220	Alaska	Sitka	pcnt_limited_access	6
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_limited_access	22
-02240	Alaska	Southeast Fairbanks	pcnt_limited_access	9
-02261	Alaska	Valdez-Cordova	pcnt_limited_access	11
-02270	Alaska	Wade Hampton	pcnt_limited_access	44
-02280	Alaska	Wrangell-Petersburg	pcnt_limited_access	2
-02282	Alaska	Yakutat	pcnt_limited_access	0
-02290	Alaska	Yukon-Koyukuk	pcnt_limited_access	50
-04001	Arizona	Apache	pcnt_limited_access	44
-04003	Arizona	Cochise	pcnt_limited_access	12
-04005	Arizona	Coconino	pcnt_limited_access	13
-04007	Arizona	Gila	pcnt_limited_access	12
-04009	Arizona	Graham	pcnt_limited_access	14
-04011	Arizona	Greenlee	pcnt_limited_access	26
-04012	Arizona	La Paz	pcnt_limited_access	19
-04013	Arizona	Maricopa	pcnt_limited_access	4
-04015	Arizona	Mohave	pcnt_limited_access	17
-04017	Arizona	Navajo	pcnt_limited_access	18
-04019	Arizona	Pima	pcnt_limited_access	7
-04021	Arizona	Pinal	pcnt_limited_access	5
-04023	Arizona	Santa Cruz	pcnt_limited_access	11
-04025	Arizona	Yavapai	pcnt_limited_access	12
-04027	Arizona	Yuma	pcnt_limited_access	11
-05001	Arkansas	Arkansas	pcnt_limited_access	8
-05003	Arkansas	Ashley	pcnt_limited_access	11
-05005	Arkansas	Baxter	pcnt_limited_access	5
-05007	Arkansas	Benton	pcnt_limited_access	6
-05009	Arkansas	Boone	pcnt_limited_access	11
-05011	Arkansas	Bradley	pcnt_limited_access	5
-05013	Arkansas	Calhoun	pcnt_limited_access	32
-05015	Arkansas	Carroll	pcnt_limited_access	4
-05017	Arkansas	Chicot	pcnt_limited_access	3
-05019	Arkansas	Clark	pcnt_limited_access	4
-05021	Arkansas	Clay	pcnt_limited_access	5
-05023	Arkansas	Cleburne	pcnt_limited_access	5
-05025	Arkansas	Cleveland	pcnt_limited_access	9
-05027	Arkansas	Columbia	pcnt_limited_access	7
-05029	Arkansas	Conway	pcnt_limited_access	9
-05031	Arkansas	Craighead	pcnt_limited_access	10
-05033	Arkansas	Crawford	pcnt_limited_access	10
-05035	Arkansas	Crittenden	pcnt_limited_access	4
-05037	Arkansas	Cross	pcnt_limited_access	8
-05039	Arkansas	Dallas	pcnt_limited_access	10
-05041	Arkansas	Desha	pcnt_limited_access	16
-05043	Arkansas	Drew	pcnt_limited_access	7
-05045	Arkansas	Faulkner	pcnt_limited_access	9
-05047	Arkansas	Franklin	pcnt_limited_access	6
-05049	Arkansas	Fulton	pcnt_limited_access	9
-05051	Arkansas	Garland	pcnt_limited_access	12
-05053	Arkansas	Grant	pcnt_limited_access	4
-05055	Arkansas	Greene	pcnt_limited_access	8
-05057	Arkansas	Hempstead	pcnt_limited_access	11
-05059	Arkansas	Hot Spring	pcnt_limited_access	9
-05061	Arkansas	Howard	pcnt_limited_access	7
-05063	Arkansas	Independence	pcnt_limited_access	8
-05065	Arkansas	Izard	pcnt_limited_access	3
-05067	Arkansas	Jackson	pcnt_limited_access	9
-05069	Arkansas	Jefferson	pcnt_limited_access	7
-05071	Arkansas	Johnson	pcnt_limited_access	4
-05073	Arkansas	Lafayette	pcnt_limited_access	9
-05075	Arkansas	Lawrence	pcnt_limited_access	13
-05077	Arkansas	Lee	pcnt_limited_access	16
-05079	Arkansas	Lincoln	pcnt_limited_access	21
-05081	Arkansas	Little River	pcnt_limited_access	4
-05083	Arkansas	Logan	pcnt_limited_access	7
-05085	Arkansas	Lonoke	pcnt_limited_access	6
-05087	Arkansas	Madison	pcnt_limited_access	12
-05089	Arkansas	Marion	pcnt_limited_access	6
-05091	Arkansas	Miller	pcnt_limited_access	10
-05093	Arkansas	Mississippi	pcnt_limited_access	7
-05095	Arkansas	Monroe	pcnt_limited_access	6
-05097	Arkansas	Montgomery	pcnt_limited_access	10
-05099	Arkansas	Nevada	pcnt_limited_access	11
-05101	Arkansas	Newton	pcnt_limited_access	15
-05103	Arkansas	Ouachita	pcnt_limited_access	15
-05105	Arkansas	Perry	pcnt_limited_access	5
-05107	Arkansas	Phillips	pcnt_limited_access	24
-05109	Arkansas	Pike	pcnt_limited_access	9
-05111	Arkansas	Poinsett	pcnt_limited_access	5
-05113	Arkansas	Polk	pcnt_limited_access	19
-05115	Arkansas	Pope	pcnt_limited_access	6
-05117	Arkansas	Prairie	pcnt_limited_access	2
-05119	Arkansas	Pulaski	pcnt_limited_access	10
-05121	Arkansas	Randolph	pcnt_limited_access	14
-05123	Arkansas	St. Francis	pcnt_limited_access	15
-05125	Arkansas	Saline	pcnt_limited_access	6
-05127	Arkansas	Scott	pcnt_limited_access	7
-05129	Arkansas	Searcy	pcnt_limited_access	19
-05131	Arkansas	Sebastian	pcnt_limited_access	5
-05133	Arkansas	Sevier	pcnt_limited_access	20
-05135	Arkansas	Sharp	pcnt_limited_access	9
-05137	Arkansas	Stone	pcnt_limited_access	12
-05139	Arkansas	Union	pcnt_limited_access	11
-05141	Arkansas	Van Buren	pcnt_limited_access	6
-05143	Arkansas	Washington	pcnt_limited_access	7
-05145	Arkansas	White	pcnt_limited_access	6
-05147	Arkansas	Woodruff	pcnt_limited_access	2
-05149	Arkansas	Yell	pcnt_limited_access	3
-06001	California	Alameda	pcnt_limited_access	2
-06003	California	Alpine	pcnt_limited_access	13
-06005	California	Amador	pcnt_limited_access	3
-06007	California	Butte	pcnt_limited_access	7
-06009	California	Calaveras	pcnt_limited_access	2
-06011	California	Colusa	pcnt_limited_access	3
-06013	California	Contra Costa	pcnt_limited_access	3
-06015	California	Del Norte	pcnt_limited_access	10
-06017	California	El Dorado	pcnt_limited_access	5
-06019	California	Fresno	pcnt_limited_access	5
-06021	California	Glenn	pcnt_limited_access	5
-06023	California	Humboldt	pcnt_limited_access	7
-06025	California	Imperial	pcnt_limited_access	8
-06027	California	Inyo	pcnt_limited_access	11
-06029	California	Kern	pcnt_limited_access	5
-06031	California	Kings	pcnt_limited_access	6
-06033	California	Lake	pcnt_limited_access	8
-06035	California	Lassen	pcnt_limited_access	30
-06037	California	Los Angeles	pcnt_limited_access	1
-06039	California	Madera	pcnt_limited_access	8
-06041	California	Marin	pcnt_limited_access	2
-06043	California	Mariposa	pcnt_limited_access	6
-06045	California	Mendocino	pcnt_limited_access	7
-06047	California	Merced	pcnt_limited_access	6
-06049	California	Modoc	pcnt_limited_access	15
-06051	California	Mono	pcnt_limited_access	8
-06053	California	Monterey	pcnt_limited_access	3
-06055	California	Napa	pcnt_limited_access	3
-06057	California	Nevada	pcnt_limited_access	5
-06059	California	Orange	pcnt_limited_access	1
-06061	California	Placer	pcnt_limited_access	2
-06063	California	Plumas	pcnt_limited_access	2
-06065	California	Riverside	pcnt_limited_access	6
-06067	California	Sacramento	pcnt_limited_access	4
-06069	California	San Benito	pcnt_limited_access	3
-06071	California	San Bernardino	pcnt_limited_access	7
-06073	California	San Diego	pcnt_limited_access	3
-06075	California	San Francisco	pcnt_limited_access	1
-06077	California	San Joaquin	pcnt_limited_access	4
-06079	California	San Luis Obispo	pcnt_limited_access	4
-06081	California	San Mateo	pcnt_limited_access	2
-06083	California	Santa Barbara	pcnt_limited_access	3
-06085	California	Santa Clara	pcnt_limited_access	1
-06087	California	Santa Cruz	pcnt_limited_access	4
-06089	California	Shasta	pcnt_limited_access	7
-06091	California	Sierra	pcnt_limited_access	21
-06093	California	Siskiyou	pcnt_limited_access	8
-06095	California	Solano	pcnt_limited_access	4
-06097	California	Sonoma	pcnt_limited_access	4
-06099	California	Stanislaus	pcnt_limited_access	5
-06101	California	Sutter	pcnt_limited_access	10
-06103	California	Tehama	pcnt_limited_access	8
-06105	California	Trinity	pcnt_limited_access	7
-06107	California	Tulare	pcnt_limited_access	8
-06109	California	Tuolumne	pcnt_limited_access	9
-06111	California	Ventura	pcnt_limited_access	2
-06113	California	Yolo	pcnt_limited_access	2
-06115	California	Yuba	pcnt_limited_access	12
-08001	Colorado	Adams	pcnt_limited_access	5
-08003	Colorado	Alamosa	pcnt_limited_access	3
-08005	Colorado	Arapahoe	pcnt_limited_access	4
-08007	Colorado	Archuleta	pcnt_limited_access	8
-08009	Colorado	Baca	pcnt_limited_access	8
-08011	Colorado	Bent	pcnt_limited_access	13
-08013	Colorado	Boulder	pcnt_limited_access	3
-08014	Colorado	Broomfield	pcnt_limited_access	1
-08015	Colorado	Chaffee	pcnt_limited_access	2
-08017	Colorado	Cheyenne	pcnt_limited_access	12
-08019	Colorado	Clear Creek	pcnt_limited_access	2
-08021	Colorado	Conejos	pcnt_limited_access	2
-08023	Colorado	Costilla	pcnt_limited_access	55
-08025	Colorado	Crowley	pcnt_limited_access	30
-08027	Colorado	Custer	pcnt_limited_access	8
-08029	Colorado	Delta	pcnt_limited_access	2
-08031	Colorado	Denver	pcnt_limited_access	6
-08033	Colorado	Dolores	pcnt_limited_access	9
-08035	Colorado	Douglas	pcnt_limited_access	2
-08037	Colorado	Eagle	pcnt_limited_access	4
-08039	Colorado	Elbert	pcnt_limited_access	7
-08041	Colorado	El Paso	pcnt_limited_access	9
-08043	Colorado	Fremont	pcnt_limited_access	10
-08045	Colorado	Garfield	pcnt_limited_access	5
-08047	Colorado	Gilpin	pcnt_limited_access	0
-08049	Colorado	Grand	pcnt_limited_access	4
-08051	Colorado	Gunnison	pcnt_limited_access	2
-08053	Colorado	Hinsdale	pcnt_limited_access	27
-08055	Colorado	Huerfano	pcnt_limited_access	11
-08057	Colorado	Jackson	pcnt_limited_access	8
-08059	Colorado	Jefferson	pcnt_limited_access	4
-08061	Colorado	Kiowa	pcnt_limited_access	36
-08063	Colorado	Kit Carson	pcnt_limited_access	8
-08065	Colorado	Lake	pcnt_limited_access	27
-08067	Colorado	La Plata	pcnt_limited_access	4
-08069	Colorado	Larimer	pcnt_limited_access	5
-08071	Colorado	Las Animas	pcnt_limited_access	15
-08073	Colorado	Lincoln	pcnt_limited_access	7
-08075	Colorado	Logan	pcnt_limited_access	6
-08077	Colorado	Mesa	pcnt_limited_access	9
-08079	Colorado	Mineral	pcnt_limited_access	23
-08081	Colorado	Moffat	pcnt_limited_access	7
-08083	Colorado	Montezuma	pcnt_limited_access	8
-08085	Colorado	Montrose	pcnt_limited_access	8
-08087	Colorado	Morgan	pcnt_limited_access	5
-08089	Colorado	Otero	pcnt_limited_access	16
-08091	Colorado	Ouray	pcnt_limited_access	2
-08093	Colorado	Park	pcnt_limited_access	12
-08095	Colorado	Phillips	pcnt_limited_access	9
-08097	Colorado	Pitkin	pcnt_limited_access	2
-08099	Colorado	Prowers	pcnt_limited_access	15
-08101	Colorado	Pueblo	pcnt_limited_access	16
-08103	Colorado	Rio Blanco	pcnt_limited_access	2
-08105	Colorado	Rio Grande	pcnt_limited_access	2
-08107	Colorado	Routt	pcnt_limited_access	5
-08109	Colorado	Saguache	pcnt_limited_access	51
-08111	Colorado	San Juan	pcnt_limited_access	19
-08113	Colorado	San Miguel	pcnt_limited_access	1
-08115	Colorado	Sedgwick	pcnt_limited_access	5
-08117	Colorado	Summit	pcnt_limited_access	6
-08119	Colorado	Teller	pcnt_limited_access	5
-08121	Colorado	Washington	pcnt_limited_access	19
-08123	Colorado	Weld	pcnt_limited_access	5
-08125	Colorado	Yuma	pcnt_limited_access	7
-09001	Connecticut	Fairfield	pcnt_limited_access	3
-09003	Connecticut	Hartford	pcnt_limited_access	4
-09005	Connecticut	Litchfield	pcnt_limited_access	2
-09007	Connecticut	Middlesex	pcnt_limited_access	5
-09009	Connecticut	New Haven	pcnt_limited_access	4
-09011	Connecticut	New London	pcnt_limited_access	4
-09013	Connecticut	Tolland	pcnt_limited_access	9
-09015	Connecticut	Windham	pcnt_limited_access	6
+1001	Alabama	Autauga	pcnt_limited_access	10
+1003	Alabama	Baldwin	pcnt_limited_access	5
+1005	Alabama	Barbour	pcnt_limited_access	11
+1007	Alabama	Bibb	pcnt_limited_access	2
+1009	Alabama	Blount	pcnt_limited_access	1
+1011	Alabama	Bullock	pcnt_limited_access	20
+1013	Alabama	Butler	pcnt_limited_access	3
+1015	Alabama	Calhoun	pcnt_limited_access	10
+1017	Alabama	Chambers	pcnt_limited_access	9
+1019	Alabama	Cherokee	pcnt_limited_access	0
+1021	Alabama	Chilton	pcnt_limited_access	2
+1023	Alabama	Choctaw	pcnt_limited_access	12
+1025	Alabama	Clarke	pcnt_limited_access	11
+1027	Alabama	Clay	pcnt_limited_access	2
+1029	Alabama	Cleburne	pcnt_limited_access	1
+1031	Alabama	Coffee	pcnt_limited_access	7
+1033	Alabama	Colbert	pcnt_limited_access	5
+1035	Alabama	Conecuh	pcnt_limited_access	15
+1037	Alabama	Coosa	pcnt_limited_access	7
+1039	Alabama	Covington	pcnt_limited_access	3
+1041	Alabama	Crenshaw	pcnt_limited_access	16
+1043	Alabama	Cullman	pcnt_limited_access	3
+1045	Alabama	Dale	pcnt_limited_access	10
+1047	Alabama	Dallas	pcnt_limited_access	12
+1049	Alabama	DeKalb	pcnt_limited_access	2
+1051	Alabama	Elmore	pcnt_limited_access	7
+1053	Alabama	Escambia	pcnt_limited_access	8
+1055	Alabama	Etowah	pcnt_limited_access	9
+1057	Alabama	Fayette	pcnt_limited_access	1
+1059	Alabama	Franklin	pcnt_limited_access	4
+1061	Alabama	Geneva	pcnt_limited_access	1
+1063	Alabama	Greene	pcnt_limited_access	21
+1065	Alabama	Hale	pcnt_limited_access	0
+1067	Alabama	Henry	pcnt_limited_access	1
+1069	Alabama	Houston	pcnt_limited_access	7
+1071	Alabama	Jackson	pcnt_limited_access	4
+1073	Alabama	Jefferson	pcnt_limited_access	11
+1075	Alabama	Lamar	pcnt_limited_access	0
+1077	Alabama	Lauderdale	pcnt_limited_access	6
+1079	Alabama	Lawrence	pcnt_limited_access	2
+1081	Alabama	Lee	pcnt_limited_access	11
+1083	Alabama	Limestone	pcnt_limited_access	4
+1085	Alabama	Lowndes	pcnt_limited_access	26
+1087	Alabama	Macon	pcnt_limited_access	19
+1089	Alabama	Madison	pcnt_limited_access	8
+1091	Alabama	Marengo	pcnt_limited_access	15
+1093	Alabama	Marion	pcnt_limited_access	1
+1095	Alabama	Marshall	pcnt_limited_access	7
+1097	Alabama	Mobile	pcnt_limited_access	11
+1099	Alabama	Monroe	pcnt_limited_access	17
+1101	Alabama	Montgomery	pcnt_limited_access	11
+1103	Alabama	Morgan	pcnt_limited_access	4
+1105	Alabama	Perry	pcnt_limited_access	6
+1107	Alabama	Pickens	pcnt_limited_access	2
+1109	Alabama	Pike	pcnt_limited_access	6
+1111	Alabama	Randolph	pcnt_limited_access	2
+1113	Alabama	Russell	pcnt_limited_access	8
+1115	Alabama	St. Clair	pcnt_limited_access	1
+1117	Alabama	Shelby	pcnt_limited_access	4
+1119	Alabama	Sumter	pcnt_limited_access	11
+1121	Alabama	Talladega	pcnt_limited_access	6
+1123	Alabama	Tallapoosa	pcnt_limited_access	5
+1125	Alabama	Tuscaloosa	pcnt_limited_access	7
+1127	Alabama	Walker	pcnt_limited_access	4
+1129	Alabama	Washington	pcnt_limited_access	3
+1131	Alabama	Wilcox	pcnt_limited_access	28
+1133	Alabama	Winston	pcnt_limited_access	1
+2013	Alaska	Aleutians East	pcnt_limited_access	22
+2016	Alaska	Aleutians West	pcnt_limited_access	8
+2020	Alaska	Anchorage	pcnt_limited_access	5
+2050	Alaska	Bethel	pcnt_limited_access	39
+2060	Alaska	Bristol Bay	pcnt_limited_access	7
+2068	Alaska	Denali	pcnt_limited_access	19
+2070	Alaska	Dillingham	pcnt_limited_access	17
+2090	Alaska	Fairbanks North Star	pcnt_limited_access	10
+2100	Alaska	Haines	pcnt_limited_access	5
+2110	Alaska	Juneau	pcnt_limited_access	6
+2122	Alaska	Kenai Peninsula	pcnt_limited_access	6
+2130	Alaska	Ketchikan Gateway	pcnt_limited_access	1
+2150	Alaska	Kodiak Island	pcnt_limited_access	4
+2164	Alaska	Lake and Peninsula	pcnt_limited_access	46
+2170	Alaska	Matanuska-Susitna	pcnt_limited_access	6
+2180	Alaska	Nome	pcnt_limited_access	36
+2185	Alaska	North Slope	pcnt_limited_access	4
+2188	Alaska	Northwest Arctic	pcnt_limited_access	32
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_limited_access	8
+2220	Alaska	Sitka	pcnt_limited_access	6
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_limited_access	22
+2240	Alaska	Southeast Fairbanks	pcnt_limited_access	9
+2261	Alaska	Valdez-Cordova	pcnt_limited_access	11
+2270	Alaska	Wade Hampton	pcnt_limited_access	44
+2280	Alaska	Wrangell-Petersburg	pcnt_limited_access	2
+2282	Alaska	Yakutat	pcnt_limited_access	0
+2290	Alaska	Yukon-Koyukuk	pcnt_limited_access	50
+4001	Arizona	Apache	pcnt_limited_access	44
+4003	Arizona	Cochise	pcnt_limited_access	12
+4005	Arizona	Coconino	pcnt_limited_access	13
+4007	Arizona	Gila	pcnt_limited_access	12
+4009	Arizona	Graham	pcnt_limited_access	14
+4011	Arizona	Greenlee	pcnt_limited_access	26
+4012	Arizona	La Paz	pcnt_limited_access	19
+4013	Arizona	Maricopa	pcnt_limited_access	4
+4015	Arizona	Mohave	pcnt_limited_access	17
+4017	Arizona	Navajo	pcnt_limited_access	18
+4019	Arizona	Pima	pcnt_limited_access	7
+4021	Arizona	Pinal	pcnt_limited_access	5
+4023	Arizona	Santa Cruz	pcnt_limited_access	11
+4025	Arizona	Yavapai	pcnt_limited_access	12
+4027	Arizona	Yuma	pcnt_limited_access	11
+5001	Arkansas	Arkansas	pcnt_limited_access	8
+5003	Arkansas	Ashley	pcnt_limited_access	11
+5005	Arkansas	Baxter	pcnt_limited_access	5
+5007	Arkansas	Benton	pcnt_limited_access	6
+5009	Arkansas	Boone	pcnt_limited_access	11
+5011	Arkansas	Bradley	pcnt_limited_access	5
+5013	Arkansas	Calhoun	pcnt_limited_access	32
+5015	Arkansas	Carroll	pcnt_limited_access	4
+5017	Arkansas	Chicot	pcnt_limited_access	3
+5019	Arkansas	Clark	pcnt_limited_access	4
+5021	Arkansas	Clay	pcnt_limited_access	5
+5023	Arkansas	Cleburne	pcnt_limited_access	5
+5025	Arkansas	Cleveland	pcnt_limited_access	9
+5027	Arkansas	Columbia	pcnt_limited_access	7
+5029	Arkansas	Conway	pcnt_limited_access	9
+5031	Arkansas	Craighead	pcnt_limited_access	10
+5033	Arkansas	Crawford	pcnt_limited_access	10
+5035	Arkansas	Crittenden	pcnt_limited_access	4
+5037	Arkansas	Cross	pcnt_limited_access	8
+5039	Arkansas	Dallas	pcnt_limited_access	10
+5041	Arkansas	Desha	pcnt_limited_access	16
+5043	Arkansas	Drew	pcnt_limited_access	7
+5045	Arkansas	Faulkner	pcnt_limited_access	9
+5047	Arkansas	Franklin	pcnt_limited_access	6
+5049	Arkansas	Fulton	pcnt_limited_access	9
+5051	Arkansas	Garland	pcnt_limited_access	12
+5053	Arkansas	Grant	pcnt_limited_access	4
+5055	Arkansas	Greene	pcnt_limited_access	8
+5057	Arkansas	Hempstead	pcnt_limited_access	11
+5059	Arkansas	Hot Spring	pcnt_limited_access	9
+5061	Arkansas	Howard	pcnt_limited_access	7
+5063	Arkansas	Independence	pcnt_limited_access	8
+5065	Arkansas	Izard	pcnt_limited_access	3
+5067	Arkansas	Jackson	pcnt_limited_access	9
+5069	Arkansas	Jefferson	pcnt_limited_access	7
+5071	Arkansas	Johnson	pcnt_limited_access	4
+5073	Arkansas	Lafayette	pcnt_limited_access	9
+5075	Arkansas	Lawrence	pcnt_limited_access	13
+5077	Arkansas	Lee	pcnt_limited_access	16
+5079	Arkansas	Lincoln	pcnt_limited_access	21
+5081	Arkansas	Little River	pcnt_limited_access	4
+5083	Arkansas	Logan	pcnt_limited_access	7
+5085	Arkansas	Lonoke	pcnt_limited_access	6
+5087	Arkansas	Madison	pcnt_limited_access	12
+5089	Arkansas	Marion	pcnt_limited_access	6
+5091	Arkansas	Miller	pcnt_limited_access	10
+5093	Arkansas	Mississippi	pcnt_limited_access	7
+5095	Arkansas	Monroe	pcnt_limited_access	6
+5097	Arkansas	Montgomery	pcnt_limited_access	10
+5099	Arkansas	Nevada	pcnt_limited_access	11
+5101	Arkansas	Newton	pcnt_limited_access	15
+5103	Arkansas	Ouachita	pcnt_limited_access	15
+5105	Arkansas	Perry	pcnt_limited_access	5
+5107	Arkansas	Phillips	pcnt_limited_access	24
+5109	Arkansas	Pike	pcnt_limited_access	9
+5111	Arkansas	Poinsett	pcnt_limited_access	5
+5113	Arkansas	Polk	pcnt_limited_access	19
+5115	Arkansas	Pope	pcnt_limited_access	6
+5117	Arkansas	Prairie	pcnt_limited_access	2
+5119	Arkansas	Pulaski	pcnt_limited_access	10
+5121	Arkansas	Randolph	pcnt_limited_access	14
+5123	Arkansas	St. Francis	pcnt_limited_access	15
+5125	Arkansas	Saline	pcnt_limited_access	6
+5127	Arkansas	Scott	pcnt_limited_access	7
+5129	Arkansas	Searcy	pcnt_limited_access	19
+5131	Arkansas	Sebastian	pcnt_limited_access	5
+5133	Arkansas	Sevier	pcnt_limited_access	20
+5135	Arkansas	Sharp	pcnt_limited_access	9
+5137	Arkansas	Stone	pcnt_limited_access	12
+5139	Arkansas	Union	pcnt_limited_access	11
+5141	Arkansas	Van Buren	pcnt_limited_access	6
+5143	Arkansas	Washington	pcnt_limited_access	7
+5145	Arkansas	White	pcnt_limited_access	6
+5147	Arkansas	Woodruff	pcnt_limited_access	2
+5149	Arkansas	Yell	pcnt_limited_access	3
+6001	California	Alameda	pcnt_limited_access	2
+6003	California	Alpine	pcnt_limited_access	13
+6005	California	Amador	pcnt_limited_access	3
+6007	California	Butte	pcnt_limited_access	7
+6009	California	Calaveras	pcnt_limited_access	2
+6011	California	Colusa	pcnt_limited_access	3
+6013	California	Contra Costa	pcnt_limited_access	3
+6015	California	Del Norte	pcnt_limited_access	10
+6017	California	El Dorado	pcnt_limited_access	5
+6019	California	Fresno	pcnt_limited_access	5
+6021	California	Glenn	pcnt_limited_access	5
+6023	California	Humboldt	pcnt_limited_access	7
+6025	California	Imperial	pcnt_limited_access	8
+6027	California	Inyo	pcnt_limited_access	11
+6029	California	Kern	pcnt_limited_access	5
+6031	California	Kings	pcnt_limited_access	6
+6033	California	Lake	pcnt_limited_access	8
+6035	California	Lassen	pcnt_limited_access	30
+6037	California	Los Angeles	pcnt_limited_access	1
+6039	California	Madera	pcnt_limited_access	8
+6041	California	Marin	pcnt_limited_access	2
+6043	California	Mariposa	pcnt_limited_access	6
+6045	California	Mendocino	pcnt_limited_access	7
+6047	California	Merced	pcnt_limited_access	6
+6049	California	Modoc	pcnt_limited_access	15
+6051	California	Mono	pcnt_limited_access	8
+6053	California	Monterey	pcnt_limited_access	3
+6055	California	Napa	pcnt_limited_access	3
+6057	California	Nevada	pcnt_limited_access	5
+6059	California	Orange	pcnt_limited_access	1
+6061	California	Placer	pcnt_limited_access	2
+6063	California	Plumas	pcnt_limited_access	2
+6065	California	Riverside	pcnt_limited_access	6
+6067	California	Sacramento	pcnt_limited_access	4
+6069	California	San Benito	pcnt_limited_access	3
+6071	California	San Bernardino	pcnt_limited_access	7
+6073	California	San Diego	pcnt_limited_access	3
+6075	California	San Francisco	pcnt_limited_access	1
+6077	California	San Joaquin	pcnt_limited_access	4
+6079	California	San Luis Obispo	pcnt_limited_access	4
+6081	California	San Mateo	pcnt_limited_access	2
+6083	California	Santa Barbara	pcnt_limited_access	3
+6085	California	Santa Clara	pcnt_limited_access	1
+6087	California	Santa Cruz	pcnt_limited_access	4
+6089	California	Shasta	pcnt_limited_access	7
+6091	California	Sierra	pcnt_limited_access	21
+6093	California	Siskiyou	pcnt_limited_access	8
+6095	California	Solano	pcnt_limited_access	4
+6097	California	Sonoma	pcnt_limited_access	4
+6099	California	Stanislaus	pcnt_limited_access	5
+6101	California	Sutter	pcnt_limited_access	10
+6103	California	Tehama	pcnt_limited_access	8
+6105	California	Trinity	pcnt_limited_access	7
+6107	California	Tulare	pcnt_limited_access	8
+6109	California	Tuolumne	pcnt_limited_access	9
+6111	California	Ventura	pcnt_limited_access	2
+6113	California	Yolo	pcnt_limited_access	2
+6115	California	Yuba	pcnt_limited_access	12
+8001	Colorado	Adams	pcnt_limited_access	5
+8003	Colorado	Alamosa	pcnt_limited_access	3
+8005	Colorado	Arapahoe	pcnt_limited_access	4
+8007	Colorado	Archuleta	pcnt_limited_access	8
+8009	Colorado	Baca	pcnt_limited_access	8
+8011	Colorado	Bent	pcnt_limited_access	13
+8013	Colorado	Boulder	pcnt_limited_access	3
+8014	Colorado	Broomfield	pcnt_limited_access	1
+8015	Colorado	Chaffee	pcnt_limited_access	2
+8017	Colorado	Cheyenne	pcnt_limited_access	12
+8019	Colorado	Clear Creek	pcnt_limited_access	2
+8021	Colorado	Conejos	pcnt_limited_access	2
+8023	Colorado	Costilla	pcnt_limited_access	55
+8025	Colorado	Crowley	pcnt_limited_access	30
+8027	Colorado	Custer	pcnt_limited_access	8
+8029	Colorado	Delta	pcnt_limited_access	2
+8031	Colorado	Denver	pcnt_limited_access	6
+8033	Colorado	Dolores	pcnt_limited_access	9
+8035	Colorado	Douglas	pcnt_limited_access	2
+8037	Colorado	Eagle	pcnt_limited_access	4
+8039	Colorado	Elbert	pcnt_limited_access	7
+8041	Colorado	El Paso	pcnt_limited_access	9
+8043	Colorado	Fremont	pcnt_limited_access	10
+8045	Colorado	Garfield	pcnt_limited_access	5
+8047	Colorado	Gilpin	pcnt_limited_access	0
+8049	Colorado	Grand	pcnt_limited_access	4
+8051	Colorado	Gunnison	pcnt_limited_access	2
+8053	Colorado	Hinsdale	pcnt_limited_access	27
+8055	Colorado	Huerfano	pcnt_limited_access	11
+8057	Colorado	Jackson	pcnt_limited_access	8
+8059	Colorado	Jefferson	pcnt_limited_access	4
+8061	Colorado	Kiowa	pcnt_limited_access	36
+8063	Colorado	Kit Carson	pcnt_limited_access	8
+8065	Colorado	Lake	pcnt_limited_access	27
+8067	Colorado	La Plata	pcnt_limited_access	4
+8069	Colorado	Larimer	pcnt_limited_access	5
+8071	Colorado	Las Animas	pcnt_limited_access	15
+8073	Colorado	Lincoln	pcnt_limited_access	7
+8075	Colorado	Logan	pcnt_limited_access	6
+8077	Colorado	Mesa	pcnt_limited_access	9
+8079	Colorado	Mineral	pcnt_limited_access	23
+8081	Colorado	Moffat	pcnt_limited_access	7
+8083	Colorado	Montezuma	pcnt_limited_access	8
+8085	Colorado	Montrose	pcnt_limited_access	8
+8087	Colorado	Morgan	pcnt_limited_access	5
+8089	Colorado	Otero	pcnt_limited_access	16
+8091	Colorado	Ouray	pcnt_limited_access	2
+8093	Colorado	Park	pcnt_limited_access	12
+8095	Colorado	Phillips	pcnt_limited_access	9
+8097	Colorado	Pitkin	pcnt_limited_access	2
+8099	Colorado	Prowers	pcnt_limited_access	15
+8101	Colorado	Pueblo	pcnt_limited_access	16
+8103	Colorado	Rio Blanco	pcnt_limited_access	2
+8105	Colorado	Rio Grande	pcnt_limited_access	2
+8107	Colorado	Routt	pcnt_limited_access	5
+8109	Colorado	Saguache	pcnt_limited_access	51
+8111	Colorado	San Juan	pcnt_limited_access	19
+8113	Colorado	San Miguel	pcnt_limited_access	1
+8115	Colorado	Sedgwick	pcnt_limited_access	5
+8117	Colorado	Summit	pcnt_limited_access	6
+8119	Colorado	Teller	pcnt_limited_access	5
+8121	Colorado	Washington	pcnt_limited_access	19
+8123	Colorado	Weld	pcnt_limited_access	5
+8125	Colorado	Yuma	pcnt_limited_access	7
+9001	Connecticut	Fairfield	pcnt_limited_access	3
+9003	Connecticut	Hartford	pcnt_limited_access	4
+9005	Connecticut	Litchfield	pcnt_limited_access	2
+9007	Connecticut	Middlesex	pcnt_limited_access	5
+9009	Connecticut	New Haven	pcnt_limited_access	4
+9011	Connecticut	New London	pcnt_limited_access	4
+9013	Connecticut	Tolland	pcnt_limited_access	9
+9015	Connecticut	Windham	pcnt_limited_access	6
 10001	Delaware	Kent	pcnt_limited_access	5
 10003	Delaware	New Castle	pcnt_limited_access	6
 10005	Delaware	Sussex	pcnt_limited_access	5

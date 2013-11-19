@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_afgr
-01001	Alabama	Autauga	pcnt_afgr	80
-01003	Alabama	Baldwin	pcnt_afgr	74
-01005	Alabama	Barbour	pcnt_afgr	61
-01007	Alabama	Bibb	pcnt_afgr	73
-01009	Alabama	Blount	pcnt_afgr	81
-01011	Alabama	Bullock	pcnt_afgr	71
-01013	Alabama	Butler	pcnt_afgr	72
-01015	Alabama	Calhoun	pcnt_afgr	79
-01017	Alabama	Chambers	pcnt_afgr	79
-01019	Alabama	Cherokee	pcnt_afgr	72
-01021	Alabama	Chilton	pcnt_afgr	73
-01023	Alabama	Choctaw	pcnt_afgr	78
-01025	Alabama	Clarke	pcnt_afgr	77
-01027	Alabama	Clay	pcnt_afgr	80
-01029	Alabama	Cleburne	pcnt_afgr	92
-01031	Alabama	Coffee	pcnt_afgr	84
-01033	Alabama	Colbert	pcnt_afgr	75
-01035	Alabama	Conecuh	pcnt_afgr	79
-01037	Alabama	Coosa	pcnt_afgr	47
-01039	Alabama	Covington	pcnt_afgr	76
-01041	Alabama	Crenshaw	pcnt_afgr	87
-01043	Alabama	Cullman	pcnt_afgr	77
-01045	Alabama	Dale	pcnt_afgr	76
-01047	Alabama	Dallas	pcnt_afgr	71
-01049	Alabama	DeKalb	pcnt_afgr	86
-01051	Alabama	Elmore	pcnt_afgr	74
-01053	Alabama	Escambia	pcnt_afgr	76
-01055	Alabama	Etowah	pcnt_afgr	75
-01057	Alabama	Fayette	pcnt_afgr	83
-01059	Alabama	Franklin	pcnt_afgr	85
-01061	Alabama	Geneva	pcnt_afgr	76
-01063	Alabama	Greene	pcnt_afgr	66
-01065	Alabama	Hale	pcnt_afgr	67
-01067	Alabama	Henry	pcnt_afgr	72
-01069	Alabama	Houston	pcnt_afgr	71
-01071	Alabama	Jackson	pcnt_afgr	80
-01073	Alabama	Jefferson	pcnt_afgr	73
-01075	Alabama	Lamar	pcnt_afgr	72
-01077	Alabama	Lauderdale	pcnt_afgr	81
-01079	Alabama	Lawrence	pcnt_afgr	79
-01081	Alabama	Lee	pcnt_afgr	87
-01083	Alabama	Limestone	pcnt_afgr	82
-01085	Alabama	Lowndes	pcnt_afgr	60
-01087	Alabama	Macon	pcnt_afgr	86
-01089	Alabama	Madison	pcnt_afgr	74
-01091	Alabama	Marengo	pcnt_afgr	87
-01093	Alabama	Marion	pcnt_afgr	73
-01095	Alabama	Marshall	pcnt_afgr	82
-01097	Alabama	Mobile	pcnt_afgr	64
-01099	Alabama	Monroe	pcnt_afgr	79
-01101	Alabama	Montgomery	pcnt_afgr	66
-01103	Alabama	Morgan	pcnt_afgr	71
-01105	Alabama	Perry	pcnt_afgr	87
-01107	Alabama	Pickens	pcnt_afgr	75
-01109	Alabama	Pike	pcnt_afgr	69
-01111	Alabama	Randolph	pcnt_afgr	81
-01113	Alabama	Russell	pcnt_afgr	65
-01115	Alabama	St. Clair	pcnt_afgr	76
-01117	Alabama	Shelby	pcnt_afgr	86
-01119	Alabama	Sumter	pcnt_afgr	80
-01121	Alabama	Talladega	pcnt_afgr	74
-01123	Alabama	Tallapoosa	pcnt_afgr	77
-01125	Alabama	Tuscaloosa	pcnt_afgr	67
-01127	Alabama	Walker	pcnt_afgr	77
-01129	Alabama	Washington	pcnt_afgr	85
-01131	Alabama	Wilcox	pcnt_afgr	72
-01133	Alabama	Winston	pcnt_afgr	87
-02013	Alaska	Aleutians East	pcnt_afgr	61
-02016	Alaska	Aleutians West	pcnt_afgr	85
-02020	Alaska	Anchorage	pcnt_afgr	72
-02050	Alaska	Bethel	pcnt_afgr	42
-02060	Alaska	Bristol Bay	pcnt_afgr	73
-02068	Alaska	Denali	pcnt_afgr	50
-02070	Alaska	Dillingham	pcnt_afgr	44
-02090	Alaska	Fairbanks North Star	pcnt_afgr	67
-02100	Alaska	Haines	pcnt_afgr	81
-02110	Alaska	Juneau	pcnt_afgr	72
-02122	Alaska	Kenai Peninsula	pcnt_afgr	73
-02130	Alaska	Ketchikan Gateway	pcnt_afgr	65
-02150	Alaska	Kodiak Island	pcnt_afgr	78
-02164	Alaska	Lake and Peninsula	pcnt_afgr	50
-02170	Alaska	Matanuska-Susitna	pcnt_afgr	70
-02180	Alaska	Nome	pcnt_afgr	56
-02185	Alaska	North Slope	pcnt_afgr	59
-02188	Alaska	Northwest Arctic	pcnt_afgr	49
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_afgr	59
-02220	Alaska	Sitka	pcnt_afgr	83
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_afgr	79
-02240	Alaska	Southeast Fairbanks	pcnt_afgr	64
-02261	Alaska	Valdez-Cordova	pcnt_afgr	86
-02270	Alaska	Wade Hampton	pcnt_afgr	47
-02280	Alaska	Wrangell-Petersburg	pcnt_afgr	80
-02282	Alaska	Yakutat	pcnt_afgr	100
-02290	Alaska	Yukon-Koyukuk	pcnt_afgr	46
-04001	Arizona	Apache	pcnt_afgr	70
-04003	Arizona	Cochise	pcnt_afgr	79
-04005	Arizona	Coconino	pcnt_afgr	76
-04007	Arizona	Gila	pcnt_afgr	72
-04009	Arizona	Graham	pcnt_afgr	82
-04011	Arizona	Greenlee	pcnt_afgr	83
-04012	Arizona	La Paz	pcnt_afgr	75
-04013	Arizona	Maricopa	pcnt_afgr	80
-04015	Arizona	Mohave	pcnt_afgr	73
-04017	Arizona	Navajo	pcnt_afgr	72
-04019	Arizona	Pima	pcnt_afgr	74
-04021	Arizona	Pinal	pcnt_afgr	71
-04023	Arizona	Santa Cruz	pcnt_afgr	81
-04025	Arizona	Yavapai	pcnt_afgr	78
-04027	Arizona	Yuma	pcnt_afgr	78
-05001	Arkansas	Arkansas	pcnt_afgr	83
-05003	Arkansas	Ashley	pcnt_afgr	83
-05005	Arkansas	Baxter	pcnt_afgr	80
-05007	Arkansas	Benton	pcnt_afgr	87
-05009	Arkansas	Boone	pcnt_afgr	82
-05011	Arkansas	Bradley	pcnt_afgr	86
-05013	Arkansas	Calhoun	pcnt_afgr	83
-05015	Arkansas	Carroll	pcnt_afgr	76
-05017	Arkansas	Chicot	pcnt_afgr	78
-05019	Arkansas	Clark	pcnt_afgr	81
-05021	Arkansas	Clay	pcnt_afgr	84
-05023	Arkansas	Cleburne	pcnt_afgr	84
-05025	Arkansas	Cleveland	pcnt_afgr	90
-05027	Arkansas	Columbia	pcnt_afgr	86
-05029	Arkansas	Conway	pcnt_afgr	82
-05031	Arkansas	Craighead	pcnt_afgr	85
-05033	Arkansas	Crawford	pcnt_afgr	88
-05035	Arkansas	Crittenden	pcnt_afgr	74
-05037	Arkansas	Cross	pcnt_afgr	82
-05039	Arkansas	Dallas	pcnt_afgr	88
-05041	Arkansas	Desha	pcnt_afgr	86
-05043	Arkansas	Drew	pcnt_afgr	85
-05045	Arkansas	Faulkner	pcnt_afgr	87
-05047	Arkansas	Franklin	pcnt_afgr	86
-05049	Arkansas	Fulton	pcnt_afgr	99
-05051	Arkansas	Garland	pcnt_afgr	82
-05053	Arkansas	Grant	pcnt_afgr	80
-05055	Arkansas	Greene	pcnt_afgr	83
-05057	Arkansas	Hempstead	pcnt_afgr	84
-05059	Arkansas	Hot Spring	pcnt_afgr	83
-05061	Arkansas	Howard	pcnt_afgr	91
-05063	Arkansas	Independence	pcnt_afgr	90
-05065	Arkansas	Izard	pcnt_afgr	90
-05067	Arkansas	Jackson	pcnt_afgr	86
-05069	Arkansas	Jefferson	pcnt_afgr	76
-05071	Arkansas	Johnson	pcnt_afgr	85
-05073	Arkansas	Lafayette	pcnt_afgr	90
-05075	Arkansas	Lawrence	pcnt_afgr	90
-05077	Arkansas	Lee	pcnt_afgr	83
-05079	Arkansas	Lincoln	pcnt_afgr	82
-05081	Arkansas	Little River	pcnt_afgr	80
-05083	Arkansas	Logan	pcnt_afgr	85
-05085	Arkansas	Lonoke	pcnt_afgr	79
-05087	Arkansas	Madison	pcnt_afgr	86
-05089	Arkansas	Marion	pcnt_afgr	87
-05091	Arkansas	Miller	pcnt_afgr	80
-05093	Arkansas	Mississippi	pcnt_afgr	75
-05095	Arkansas	Monroe	pcnt_afgr	75
-05097	Arkansas	Montgomery	pcnt_afgr	86
-05099	Arkansas	Nevada	pcnt_afgr	91
-05101	Arkansas	Newton	pcnt_afgr	88
-05103	Arkansas	Ouachita	pcnt_afgr	85
-05105	Arkansas	Perry	pcnt_afgr	88
-05107	Arkansas	Phillips	pcnt_afgr	76
-05109	Arkansas	Pike	pcnt_afgr	87
-05111	Arkansas	Poinsett	pcnt_afgr	77
-05113	Arkansas	Polk	pcnt_afgr	92
-05115	Arkansas	Pope	pcnt_afgr	85
-05117	Arkansas	Prairie	pcnt_afgr	91
-05119	Arkansas	Pulaski	pcnt_afgr	68
-05121	Arkansas	Randolph	pcnt_afgr	95
-05123	Arkansas	St. Francis	pcnt_afgr	75
-05125	Arkansas	Saline	pcnt_afgr	85
-05127	Arkansas	Scott	pcnt_afgr	82
-05129	Arkansas	Searcy	pcnt_afgr	85
-05131	Arkansas	Sebastian	pcnt_afgr	78
-05133	Arkansas	Sevier	pcnt_afgr	89
-05135	Arkansas	Sharp	pcnt_afgr	90
-05137	Arkansas	Stone	pcnt_afgr	91
-05139	Arkansas	Union	pcnt_afgr	83
-05141	Arkansas	Van Buren	pcnt_afgr	88
-05143	Arkansas	Washington	pcnt_afgr	84
-05145	Arkansas	White	pcnt_afgr	86
-05147	Arkansas	Woodruff	pcnt_afgr	81
-05149	Arkansas	Yell	pcnt_afgr	84
-06001	California	Alameda	pcnt_afgr	81
-06003	California	Alpine	pcnt_afgr	50
-06005	California	Amador	pcnt_afgr	85
-06007	California	Butte	pcnt_afgr	85
-06009	California	Calaveras	pcnt_afgr	92
-06011	California	Colusa	pcnt_afgr	83
-06013	California	Contra Costa	pcnt_afgr	83
-06015	California	Del Norte	pcnt_afgr	85
-06017	California	El Dorado	pcnt_afgr	92
-06019	California	Fresno	pcnt_afgr	80
-06021	California	Glenn	pcnt_afgr	87
-06023	California	Humboldt	pcnt_afgr	86
-06025	California	Imperial	pcnt_afgr	85
-06027	California	Inyo	pcnt_afgr	81
-06029	California	Kern	pcnt_afgr	79
-06031	California	Kings	pcnt_afgr	77
-06033	California	Lake	pcnt_afgr	82
-06035	California	Lassen	pcnt_afgr	79
-06037	California	Los Angeles	pcnt_afgr	75
-06039	California	Madera	pcnt_afgr	83
-06041	California	Marin	pcnt_afgr	94
-06043	California	Mariposa	pcnt_afgr	92
-06045	California	Mendocino	pcnt_afgr	81
-06047	California	Merced	pcnt_afgr	87
-06049	California	Modoc	pcnt_afgr	88
-06051	California	Mono	pcnt_afgr	76
-06053	California	Monterey	pcnt_afgr	75
-06055	California	Napa	pcnt_afgr	86
-06057	California	Nevada	pcnt_afgr	90
-06059	California	Orange	pcnt_afgr	90
-06061	California	Placer	pcnt_afgr	91
-06063	California	Plumas	pcnt_afgr	63
-06065	California	Riverside	pcnt_afgr	82
-06067	California	Sacramento	pcnt_afgr	78
-06069	California	San Benito	pcnt_afgr	87
-06071	California	San Bernardino	pcnt_afgr	80
-06073	California	San Diego	pcnt_afgr	84
-06075	California	San Francisco	pcnt_afgr	82
-06077	California	San Joaquin	pcnt_afgr	79
-06079	California	San Luis Obispo	pcnt_afgr	92
-06081	California	San Mateo	pcnt_afgr	87
-06083	California	Santa Barbara	pcnt_afgr	86
-06085	California	Santa Clara	pcnt_afgr	83
-06087	California	Santa Cruz	pcnt_afgr	86
-06089	California	Shasta	pcnt_afgr	88
-06091	California	Sierra	pcnt_afgr	93
-06093	California	Siskiyou	pcnt_afgr	88
-06095	California	Solano	pcnt_afgr	77
-06097	California	Sonoma	pcnt_afgr	83
-06099	California	Stanislaus	pcnt_afgr	79
-06101	California	Sutter	pcnt_afgr	85
-06103	California	Tehama	pcnt_afgr	81
-06105	California	Trinity	pcnt_afgr	90
-06107	California	Tulare	pcnt_afgr	81
-06109	California	Tuolumne	pcnt_afgr	89
-06111	California	Ventura	pcnt_afgr	86
-06113	California	Yolo	pcnt_afgr	86
-06115	California	Yuba	pcnt_afgr	81
-08001	Colorado	Adams	pcnt_afgr	65
-08003	Colorado	Alamosa	pcnt_afgr	78
-08005	Colorado	Arapahoe	pcnt_afgr	71
-08007	Colorado	Archuleta	pcnt_afgr	82
-08009	Colorado	Baca	pcnt_afgr	46
-08011	Colorado	Bent	pcnt_afgr	87
-08013	Colorado	Boulder	pcnt_afgr	84
-08014	Colorado	Broomfield	pcnt_afgr	
-08015	Colorado	Chaffee	pcnt_afgr	88
-08017	Colorado	Cheyenne	pcnt_afgr	96
-08019	Colorado	Clear Creek	pcnt_afgr	90
-08021	Colorado	Conejos	pcnt_afgr	91
-08023	Colorado	Costilla	pcnt_afgr	86
-08025	Colorado	Crowley	pcnt_afgr	74
-08027	Colorado	Custer	pcnt_afgr	92
-08029	Colorado	Delta	pcnt_afgr	83
-08031	Colorado	Denver	pcnt_afgr	56
-08033	Colorado	Dolores	pcnt_afgr	67
-08035	Colorado	Douglas	pcnt_afgr	84
-08037	Colorado	Eagle	pcnt_afgr	77
-08039	Colorado	Elbert	pcnt_afgr	86
-08041	Colorado	El Paso	pcnt_afgr	80
-08043	Colorado	Fremont	pcnt_afgr	76
-08045	Colorado	Garfield	pcnt_afgr	69
-08047	Colorado	Gilpin	pcnt_afgr	75
-08049	Colorado	Grand	pcnt_afgr	83
-08051	Colorado	Gunnison	pcnt_afgr	88
-08053	Colorado	Hinsdale	pcnt_afgr	100
-08055	Colorado	Huerfano	pcnt_afgr	85
-08057	Colorado	Jackson	pcnt_afgr	90
-08059	Colorado	Jefferson	pcnt_afgr	79
-08061	Colorado	Kiowa	pcnt_afgr	88
-08063	Colorado	Kit Carson	pcnt_afgr	94
-08065	Colorado	Lake	pcnt_afgr	89
-08067	Colorado	La Plata	pcnt_afgr	72
-08069	Colorado	Larimer	pcnt_afgr	83
-08071	Colorado	Las Animas	pcnt_afgr	67
-08073	Colorado	Lincoln	pcnt_afgr	68
-08075	Colorado	Logan	pcnt_afgr	78
-08077	Colorado	Mesa	pcnt_afgr	72
-08079	Colorado	Mineral	pcnt_afgr	100
-08081	Colorado	Moffat	pcnt_afgr	90
-08083	Colorado	Montezuma	pcnt_afgr	64
-08085	Colorado	Montrose	pcnt_afgr	75
-08087	Colorado	Morgan	pcnt_afgr	72
-08089	Colorado	Otero	pcnt_afgr	82
-08091	Colorado	Ouray	pcnt_afgr	98
-08093	Colorado	Park	pcnt_afgr	89
-08095	Colorado	Phillips	pcnt_afgr	92
-08097	Colorado	Pitkin	pcnt_afgr	91
-08099	Colorado	Prowers	pcnt_afgr	72
-08101	Colorado	Pueblo	pcnt_afgr	68
-08103	Colorado	Rio Blanco	pcnt_afgr	89
-08105	Colorado	Rio Grande	pcnt_afgr	71
-08107	Colorado	Routt	pcnt_afgr	93
-08109	Colorado	Saguache	pcnt_afgr	81
-08111	Colorado	San Juan	pcnt_afgr	0
-08113	Colorado	San Miguel	pcnt_afgr	91
-08115	Colorado	Sedgwick	pcnt_afgr	17
-08117	Colorado	Summit	pcnt_afgr	86
-08119	Colorado	Teller	pcnt_afgr	86
-08121	Colorado	Washington	pcnt_afgr	89
-08123	Colorado	Weld	pcnt_afgr	77
-08125	Colorado	Yuma	pcnt_afgr	88
-09001	Connecticut	Fairfield	pcnt_afgr	84
-09003	Connecticut	Hartford	pcnt_afgr	80
-09005	Connecticut	Litchfield	pcnt_afgr	86
-09007	Connecticut	Middlesex	pcnt_afgr	91
-09009	Connecticut	New Haven	pcnt_afgr	81
-09011	Connecticut	New London	pcnt_afgr	83
-09013	Connecticut	Tolland	pcnt_afgr	86
-09015	Connecticut	Windham	pcnt_afgr	75
+1001	Alabama	Autauga	pcnt_afgr	80
+1003	Alabama	Baldwin	pcnt_afgr	74
+1005	Alabama	Barbour	pcnt_afgr	61
+1007	Alabama	Bibb	pcnt_afgr	73
+1009	Alabama	Blount	pcnt_afgr	81
+1011	Alabama	Bullock	pcnt_afgr	71
+1013	Alabama	Butler	pcnt_afgr	72
+1015	Alabama	Calhoun	pcnt_afgr	79
+1017	Alabama	Chambers	pcnt_afgr	79
+1019	Alabama	Cherokee	pcnt_afgr	72
+1021	Alabama	Chilton	pcnt_afgr	73
+1023	Alabama	Choctaw	pcnt_afgr	78
+1025	Alabama	Clarke	pcnt_afgr	77
+1027	Alabama	Clay	pcnt_afgr	80
+1029	Alabama	Cleburne	pcnt_afgr	92
+1031	Alabama	Coffee	pcnt_afgr	84
+1033	Alabama	Colbert	pcnt_afgr	75
+1035	Alabama	Conecuh	pcnt_afgr	79
+1037	Alabama	Coosa	pcnt_afgr	47
+1039	Alabama	Covington	pcnt_afgr	76
+1041	Alabama	Crenshaw	pcnt_afgr	87
+1043	Alabama	Cullman	pcnt_afgr	77
+1045	Alabama	Dale	pcnt_afgr	76
+1047	Alabama	Dallas	pcnt_afgr	71
+1049	Alabama	DeKalb	pcnt_afgr	86
+1051	Alabama	Elmore	pcnt_afgr	74
+1053	Alabama	Escambia	pcnt_afgr	76
+1055	Alabama	Etowah	pcnt_afgr	75
+1057	Alabama	Fayette	pcnt_afgr	83
+1059	Alabama	Franklin	pcnt_afgr	85
+1061	Alabama	Geneva	pcnt_afgr	76
+1063	Alabama	Greene	pcnt_afgr	66
+1065	Alabama	Hale	pcnt_afgr	67
+1067	Alabama	Henry	pcnt_afgr	72
+1069	Alabama	Houston	pcnt_afgr	71
+1071	Alabama	Jackson	pcnt_afgr	80
+1073	Alabama	Jefferson	pcnt_afgr	73
+1075	Alabama	Lamar	pcnt_afgr	72
+1077	Alabama	Lauderdale	pcnt_afgr	81
+1079	Alabama	Lawrence	pcnt_afgr	79
+1081	Alabama	Lee	pcnt_afgr	87
+1083	Alabama	Limestone	pcnt_afgr	82
+1085	Alabama	Lowndes	pcnt_afgr	60
+1087	Alabama	Macon	pcnt_afgr	86
+1089	Alabama	Madison	pcnt_afgr	74
+1091	Alabama	Marengo	pcnt_afgr	87
+1093	Alabama	Marion	pcnt_afgr	73
+1095	Alabama	Marshall	pcnt_afgr	82
+1097	Alabama	Mobile	pcnt_afgr	64
+1099	Alabama	Monroe	pcnt_afgr	79
+1101	Alabama	Montgomery	pcnt_afgr	66
+1103	Alabama	Morgan	pcnt_afgr	71
+1105	Alabama	Perry	pcnt_afgr	87
+1107	Alabama	Pickens	pcnt_afgr	75
+1109	Alabama	Pike	pcnt_afgr	69
+1111	Alabama	Randolph	pcnt_afgr	81
+1113	Alabama	Russell	pcnt_afgr	65
+1115	Alabama	St. Clair	pcnt_afgr	76
+1117	Alabama	Shelby	pcnt_afgr	86
+1119	Alabama	Sumter	pcnt_afgr	80
+1121	Alabama	Talladega	pcnt_afgr	74
+1123	Alabama	Tallapoosa	pcnt_afgr	77
+1125	Alabama	Tuscaloosa	pcnt_afgr	67
+1127	Alabama	Walker	pcnt_afgr	77
+1129	Alabama	Washington	pcnt_afgr	85
+1131	Alabama	Wilcox	pcnt_afgr	72
+1133	Alabama	Winston	pcnt_afgr	87
+2013	Alaska	Aleutians East	pcnt_afgr	61
+2016	Alaska	Aleutians West	pcnt_afgr	85
+2020	Alaska	Anchorage	pcnt_afgr	72
+2050	Alaska	Bethel	pcnt_afgr	42
+2060	Alaska	Bristol Bay	pcnt_afgr	73
+2068	Alaska	Denali	pcnt_afgr	50
+2070	Alaska	Dillingham	pcnt_afgr	44
+2090	Alaska	Fairbanks North Star	pcnt_afgr	67
+2100	Alaska	Haines	pcnt_afgr	81
+2110	Alaska	Juneau	pcnt_afgr	72
+2122	Alaska	Kenai Peninsula	pcnt_afgr	73
+2130	Alaska	Ketchikan Gateway	pcnt_afgr	65
+2150	Alaska	Kodiak Island	pcnt_afgr	78
+2164	Alaska	Lake and Peninsula	pcnt_afgr	50
+2170	Alaska	Matanuska-Susitna	pcnt_afgr	70
+2180	Alaska	Nome	pcnt_afgr	56
+2185	Alaska	North Slope	pcnt_afgr	59
+2188	Alaska	Northwest Arctic	pcnt_afgr	49
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_afgr	59
+2220	Alaska	Sitka	pcnt_afgr	83
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_afgr	79
+2240	Alaska	Southeast Fairbanks	pcnt_afgr	64
+2261	Alaska	Valdez-Cordova	pcnt_afgr	86
+2270	Alaska	Wade Hampton	pcnt_afgr	47
+2280	Alaska	Wrangell-Petersburg	pcnt_afgr	80
+2282	Alaska	Yakutat	pcnt_afgr	100
+2290	Alaska	Yukon-Koyukuk	pcnt_afgr	46
+4001	Arizona	Apache	pcnt_afgr	70
+4003	Arizona	Cochise	pcnt_afgr	79
+4005	Arizona	Coconino	pcnt_afgr	76
+4007	Arizona	Gila	pcnt_afgr	72
+4009	Arizona	Graham	pcnt_afgr	82
+4011	Arizona	Greenlee	pcnt_afgr	83
+4012	Arizona	La Paz	pcnt_afgr	75
+4013	Arizona	Maricopa	pcnt_afgr	80
+4015	Arizona	Mohave	pcnt_afgr	73
+4017	Arizona	Navajo	pcnt_afgr	72
+4019	Arizona	Pima	pcnt_afgr	74
+4021	Arizona	Pinal	pcnt_afgr	71
+4023	Arizona	Santa Cruz	pcnt_afgr	81
+4025	Arizona	Yavapai	pcnt_afgr	78
+4027	Arizona	Yuma	pcnt_afgr	78
+5001	Arkansas	Arkansas	pcnt_afgr	83
+5003	Arkansas	Ashley	pcnt_afgr	83
+5005	Arkansas	Baxter	pcnt_afgr	80
+5007	Arkansas	Benton	pcnt_afgr	87
+5009	Arkansas	Boone	pcnt_afgr	82
+5011	Arkansas	Bradley	pcnt_afgr	86
+5013	Arkansas	Calhoun	pcnt_afgr	83
+5015	Arkansas	Carroll	pcnt_afgr	76
+5017	Arkansas	Chicot	pcnt_afgr	78
+5019	Arkansas	Clark	pcnt_afgr	81
+5021	Arkansas	Clay	pcnt_afgr	84
+5023	Arkansas	Cleburne	pcnt_afgr	84
+5025	Arkansas	Cleveland	pcnt_afgr	90
+5027	Arkansas	Columbia	pcnt_afgr	86
+5029	Arkansas	Conway	pcnt_afgr	82
+5031	Arkansas	Craighead	pcnt_afgr	85
+5033	Arkansas	Crawford	pcnt_afgr	88
+5035	Arkansas	Crittenden	pcnt_afgr	74
+5037	Arkansas	Cross	pcnt_afgr	82
+5039	Arkansas	Dallas	pcnt_afgr	88
+5041	Arkansas	Desha	pcnt_afgr	86
+5043	Arkansas	Drew	pcnt_afgr	85
+5045	Arkansas	Faulkner	pcnt_afgr	87
+5047	Arkansas	Franklin	pcnt_afgr	86
+5049	Arkansas	Fulton	pcnt_afgr	99
+5051	Arkansas	Garland	pcnt_afgr	82
+5053	Arkansas	Grant	pcnt_afgr	80
+5055	Arkansas	Greene	pcnt_afgr	83
+5057	Arkansas	Hempstead	pcnt_afgr	84
+5059	Arkansas	Hot Spring	pcnt_afgr	83
+5061	Arkansas	Howard	pcnt_afgr	91
+5063	Arkansas	Independence	pcnt_afgr	90
+5065	Arkansas	Izard	pcnt_afgr	90
+5067	Arkansas	Jackson	pcnt_afgr	86
+5069	Arkansas	Jefferson	pcnt_afgr	76
+5071	Arkansas	Johnson	pcnt_afgr	85
+5073	Arkansas	Lafayette	pcnt_afgr	90
+5075	Arkansas	Lawrence	pcnt_afgr	90
+5077	Arkansas	Lee	pcnt_afgr	83
+5079	Arkansas	Lincoln	pcnt_afgr	82
+5081	Arkansas	Little River	pcnt_afgr	80
+5083	Arkansas	Logan	pcnt_afgr	85
+5085	Arkansas	Lonoke	pcnt_afgr	79
+5087	Arkansas	Madison	pcnt_afgr	86
+5089	Arkansas	Marion	pcnt_afgr	87
+5091	Arkansas	Miller	pcnt_afgr	80
+5093	Arkansas	Mississippi	pcnt_afgr	75
+5095	Arkansas	Monroe	pcnt_afgr	75
+5097	Arkansas	Montgomery	pcnt_afgr	86
+5099	Arkansas	Nevada	pcnt_afgr	91
+5101	Arkansas	Newton	pcnt_afgr	88
+5103	Arkansas	Ouachita	pcnt_afgr	85
+5105	Arkansas	Perry	pcnt_afgr	88
+5107	Arkansas	Phillips	pcnt_afgr	76
+5109	Arkansas	Pike	pcnt_afgr	87
+5111	Arkansas	Poinsett	pcnt_afgr	77
+5113	Arkansas	Polk	pcnt_afgr	92
+5115	Arkansas	Pope	pcnt_afgr	85
+5117	Arkansas	Prairie	pcnt_afgr	91
+5119	Arkansas	Pulaski	pcnt_afgr	68
+5121	Arkansas	Randolph	pcnt_afgr	95
+5123	Arkansas	St. Francis	pcnt_afgr	75
+5125	Arkansas	Saline	pcnt_afgr	85
+5127	Arkansas	Scott	pcnt_afgr	82
+5129	Arkansas	Searcy	pcnt_afgr	85
+5131	Arkansas	Sebastian	pcnt_afgr	78
+5133	Arkansas	Sevier	pcnt_afgr	89
+5135	Arkansas	Sharp	pcnt_afgr	90
+5137	Arkansas	Stone	pcnt_afgr	91
+5139	Arkansas	Union	pcnt_afgr	83
+5141	Arkansas	Van Buren	pcnt_afgr	88
+5143	Arkansas	Washington	pcnt_afgr	84
+5145	Arkansas	White	pcnt_afgr	86
+5147	Arkansas	Woodruff	pcnt_afgr	81
+5149	Arkansas	Yell	pcnt_afgr	84
+6001	California	Alameda	pcnt_afgr	81
+6003	California	Alpine	pcnt_afgr	50
+6005	California	Amador	pcnt_afgr	85
+6007	California	Butte	pcnt_afgr	85
+6009	California	Calaveras	pcnt_afgr	92
+6011	California	Colusa	pcnt_afgr	83
+6013	California	Contra Costa	pcnt_afgr	83
+6015	California	Del Norte	pcnt_afgr	85
+6017	California	El Dorado	pcnt_afgr	92
+6019	California	Fresno	pcnt_afgr	80
+6021	California	Glenn	pcnt_afgr	87
+6023	California	Humboldt	pcnt_afgr	86
+6025	California	Imperial	pcnt_afgr	85
+6027	California	Inyo	pcnt_afgr	81
+6029	California	Kern	pcnt_afgr	79
+6031	California	Kings	pcnt_afgr	77
+6033	California	Lake	pcnt_afgr	82
+6035	California	Lassen	pcnt_afgr	79
+6037	California	Los Angeles	pcnt_afgr	75
+6039	California	Madera	pcnt_afgr	83
+6041	California	Marin	pcnt_afgr	94
+6043	California	Mariposa	pcnt_afgr	92
+6045	California	Mendocino	pcnt_afgr	81
+6047	California	Merced	pcnt_afgr	87
+6049	California	Modoc	pcnt_afgr	88
+6051	California	Mono	pcnt_afgr	76
+6053	California	Monterey	pcnt_afgr	75
+6055	California	Napa	pcnt_afgr	86
+6057	California	Nevada	pcnt_afgr	90
+6059	California	Orange	pcnt_afgr	90
+6061	California	Placer	pcnt_afgr	91
+6063	California	Plumas	pcnt_afgr	63
+6065	California	Riverside	pcnt_afgr	82
+6067	California	Sacramento	pcnt_afgr	78
+6069	California	San Benito	pcnt_afgr	87
+6071	California	San Bernardino	pcnt_afgr	80
+6073	California	San Diego	pcnt_afgr	84
+6075	California	San Francisco	pcnt_afgr	82
+6077	California	San Joaquin	pcnt_afgr	79
+6079	California	San Luis Obispo	pcnt_afgr	92
+6081	California	San Mateo	pcnt_afgr	87
+6083	California	Santa Barbara	pcnt_afgr	86
+6085	California	Santa Clara	pcnt_afgr	83
+6087	California	Santa Cruz	pcnt_afgr	86
+6089	California	Shasta	pcnt_afgr	88
+6091	California	Sierra	pcnt_afgr	93
+6093	California	Siskiyou	pcnt_afgr	88
+6095	California	Solano	pcnt_afgr	77
+6097	California	Sonoma	pcnt_afgr	83
+6099	California	Stanislaus	pcnt_afgr	79
+6101	California	Sutter	pcnt_afgr	85
+6103	California	Tehama	pcnt_afgr	81
+6105	California	Trinity	pcnt_afgr	90
+6107	California	Tulare	pcnt_afgr	81
+6109	California	Tuolumne	pcnt_afgr	89
+6111	California	Ventura	pcnt_afgr	86
+6113	California	Yolo	pcnt_afgr	86
+6115	California	Yuba	pcnt_afgr	81
+8001	Colorado	Adams	pcnt_afgr	65
+8003	Colorado	Alamosa	pcnt_afgr	78
+8005	Colorado	Arapahoe	pcnt_afgr	71
+8007	Colorado	Archuleta	pcnt_afgr	82
+8009	Colorado	Baca	pcnt_afgr	46
+8011	Colorado	Bent	pcnt_afgr	87
+8013	Colorado	Boulder	pcnt_afgr	84
+8014	Colorado	Broomfield	pcnt_afgr	
+8015	Colorado	Chaffee	pcnt_afgr	88
+8017	Colorado	Cheyenne	pcnt_afgr	96
+8019	Colorado	Clear Creek	pcnt_afgr	90
+8021	Colorado	Conejos	pcnt_afgr	91
+8023	Colorado	Costilla	pcnt_afgr	86
+8025	Colorado	Crowley	pcnt_afgr	74
+8027	Colorado	Custer	pcnt_afgr	92
+8029	Colorado	Delta	pcnt_afgr	83
+8031	Colorado	Denver	pcnt_afgr	56
+8033	Colorado	Dolores	pcnt_afgr	67
+8035	Colorado	Douglas	pcnt_afgr	84
+8037	Colorado	Eagle	pcnt_afgr	77
+8039	Colorado	Elbert	pcnt_afgr	86
+8041	Colorado	El Paso	pcnt_afgr	80
+8043	Colorado	Fremont	pcnt_afgr	76
+8045	Colorado	Garfield	pcnt_afgr	69
+8047	Colorado	Gilpin	pcnt_afgr	75
+8049	Colorado	Grand	pcnt_afgr	83
+8051	Colorado	Gunnison	pcnt_afgr	88
+8053	Colorado	Hinsdale	pcnt_afgr	100
+8055	Colorado	Huerfano	pcnt_afgr	85
+8057	Colorado	Jackson	pcnt_afgr	90
+8059	Colorado	Jefferson	pcnt_afgr	79
+8061	Colorado	Kiowa	pcnt_afgr	88
+8063	Colorado	Kit Carson	pcnt_afgr	94
+8065	Colorado	Lake	pcnt_afgr	89
+8067	Colorado	La Plata	pcnt_afgr	72
+8069	Colorado	Larimer	pcnt_afgr	83
+8071	Colorado	Las Animas	pcnt_afgr	67
+8073	Colorado	Lincoln	pcnt_afgr	68
+8075	Colorado	Logan	pcnt_afgr	78
+8077	Colorado	Mesa	pcnt_afgr	72
+8079	Colorado	Mineral	pcnt_afgr	100
+8081	Colorado	Moffat	pcnt_afgr	90
+8083	Colorado	Montezuma	pcnt_afgr	64
+8085	Colorado	Montrose	pcnt_afgr	75
+8087	Colorado	Morgan	pcnt_afgr	72
+8089	Colorado	Otero	pcnt_afgr	82
+8091	Colorado	Ouray	pcnt_afgr	98
+8093	Colorado	Park	pcnt_afgr	89
+8095	Colorado	Phillips	pcnt_afgr	92
+8097	Colorado	Pitkin	pcnt_afgr	91
+8099	Colorado	Prowers	pcnt_afgr	72
+8101	Colorado	Pueblo	pcnt_afgr	68
+8103	Colorado	Rio Blanco	pcnt_afgr	89
+8105	Colorado	Rio Grande	pcnt_afgr	71
+8107	Colorado	Routt	pcnt_afgr	93
+8109	Colorado	Saguache	pcnt_afgr	81
+8111	Colorado	San Juan	pcnt_afgr	0
+8113	Colorado	San Miguel	pcnt_afgr	91
+8115	Colorado	Sedgwick	pcnt_afgr	17
+8117	Colorado	Summit	pcnt_afgr	86
+8119	Colorado	Teller	pcnt_afgr	86
+8121	Colorado	Washington	pcnt_afgr	89
+8123	Colorado	Weld	pcnt_afgr	77
+8125	Colorado	Yuma	pcnt_afgr	88
+9001	Connecticut	Fairfield	pcnt_afgr	84
+9003	Connecticut	Hartford	pcnt_afgr	80
+9005	Connecticut	Litchfield	pcnt_afgr	86
+9007	Connecticut	Middlesex	pcnt_afgr	91
+9009	Connecticut	New Haven	pcnt_afgr	81
+9011	Connecticut	New London	pcnt_afgr	83
+9013	Connecticut	Tolland	pcnt_afgr	86
+9015	Connecticut	Windham	pcnt_afgr	75
 10001	Delaware	Kent	pcnt_afgr	77
 10003	Delaware	New Castle	pcnt_afgr	77
 10005	Delaware	Sussex	pcnt_afgr	81

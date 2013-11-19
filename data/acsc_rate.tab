@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	acsc_rate
+1001	Alabama	Autauga	acsc_rate	71
+1003	Alabama	Baldwin	acsc_rate	56
+1005	Alabama	Barbour	acsc_rate	109
+1007	Alabama	Bibb	acsc_rate	87
+1009	Alabama	Blount	acsc_rate	95
+1011	Alabama	Bullock	acsc_rate	117
+1013	Alabama	Butler	acsc_rate	143
+1015	Alabama	Calhoun	acsc_rate	99
+1017	Alabama	Chambers	acsc_rate	89
+1019	Alabama	Cherokee	acsc_rate	116
+1021	Alabama	Chilton	acsc_rate	68
+1023	Alabama	Choctaw	acsc_rate	64
+1025	Alabama	Clarke	acsc_rate	108
+1027	Alabama	Clay	acsc_rate	144
+1029	Alabama	Cleburne	acsc_rate	92
+1031	Alabama	Coffee	acsc_rate	95
+1033	Alabama	Colbert	acsc_rate	70
+1035	Alabama	Conecuh	acsc_rate	179
+1037	Alabama	Coosa	acsc_rate	100
+1039	Alabama	Covington	acsc_rate	153
+1041	Alabama	Crenshaw	acsc_rate	88
+1043	Alabama	Cullman	acsc_rate	65
+1045	Alabama	Dale	acsc_rate	79
+1047	Alabama	Dallas	acsc_rate	85
+1049	Alabama	DeKalb	acsc_rate	95
+1051	Alabama	Elmore	acsc_rate	84
+1053	Alabama	Escambia	acsc_rate	130
+1055	Alabama	Etowah	acsc_rate	92
+1057	Alabama	Fayette	acsc_rate	79
+1059	Alabama	Franklin	acsc_rate	113
+1061	Alabama	Geneva	acsc_rate	108
+1063	Alabama	Greene	acsc_rate	133
+1065	Alabama	Hale	acsc_rate	99
+1067	Alabama	Henry	acsc_rate	55
+1069	Alabama	Houston	acsc_rate	63
+1071	Alabama	Jackson	acsc_rate	126
+1073	Alabama	Jefferson	acsc_rate	56
+1075	Alabama	Lamar	acsc_rate	113
+1077	Alabama	Lauderdale	acsc_rate	66
+1079	Alabama	Lawrence	acsc_rate	103
+1081	Alabama	Lee	acsc_rate	58
+1083	Alabama	Limestone	acsc_rate	76
+1085	Alabama	Lowndes	acsc_rate	66
+1087	Alabama	Macon	acsc_rate	51
+1089	Alabama	Madison	acsc_rate	56
+1091	Alabama	Marengo	acsc_rate	104
+1093	Alabama	Marion	acsc_rate	137
+1095	Alabama	Marshall	acsc_rate	96
+1097	Alabama	Mobile	acsc_rate	72
+1099	Alabama	Monroe	acsc_rate	97
+1101	Alabama	Montgomery	acsc_rate	59
+1103	Alabama	Morgan	acsc_rate	95
+1105	Alabama	Perry	acsc_rate	82
+1107	Alabama	Pickens	acsc_rate	88
+1109	Alabama	Pike	acsc_rate	96
+1111	Alabama	Randolph	acsc_rate	115
+1113	Alabama	Russell	acsc_rate	62
+1115	Alabama	St. Clair	acsc_rate	85
+1117	Alabama	Shelby	acsc_rate	57
+1119	Alabama	Sumter	acsc_rate	64
+1121	Alabama	Talladega	acsc_rate	101
+1123	Alabama	Tallapoosa	acsc_rate	80
+1125	Alabama	Tuscaloosa	acsc_rate	88
+1127	Alabama	Walker	acsc_rate	83
+1129	Alabama	Washington	acsc_rate	78
+1131	Alabama	Wilcox	acsc_rate	71
+1133	Alabama	Winston	acsc_rate	180
+2013	Alaska	Aleutians East	acsc_rate	
+2016	Alaska	Aleutians West	acsc_rate	
+2020	Alaska	Anchorage	acsc_rate	44
+2050	Alaska	Bethel	acsc_rate	132
+2060	Alaska	Bristol Bay	acsc_rate	
+2068	Alaska	Denali	acsc_rate	
+2070	Alaska	Dillingham	acsc_rate	
+2090	Alaska	Fairbanks North Star	acsc_rate	41
+2100	Alaska	Haines	acsc_rate	
+2110	Alaska	Juneau	acsc_rate	44
+2122	Alaska	Kenai Peninsula	acsc_rate	57
+2130	Alaska	Ketchikan Gateway	acsc_rate	69
+2150	Alaska	Kodiak Island	acsc_rate	74
+2164	Alaska	Lake and Peninsula	acsc_rate	
+2170	Alaska	Matanuska-Susitna	acsc_rate	58
+2180	Alaska	Nome	acsc_rate	106
+2185	Alaska	North Slope	acsc_rate	
+2188	Alaska	Northwest Arctic	acsc_rate	
+2201	Alaska	Prince of Wales-Outer Ketchikan	acsc_rate	60
+2220	Alaska	Sitka	acsc_rate	72
+2232	Alaska	Skagway-Hoonah-Angoon	acsc_rate	
+2240	Alaska	Southeast Fairbanks	acsc_rate	31
+2261	Alaska	Valdez-Cordova	acsc_rate	40
+2270	Alaska	Wade Hampton	acsc_rate	
+2280	Alaska	Wrangell-Petersburg	acsc_rate	
+2282	Alaska	Yakutat	acsc_rate	
+2290	Alaska	Yukon-Koyukuk	acsc_rate	25
+4001	Arizona	Apache	acsc_rate	96
+4003	Arizona	Cochise	acsc_rate	64
+4005	Arizona	Coconino	acsc_rate	61
+4007	Arizona	Gila	acsc_rate	66
+4009	Arizona	Graham	acsc_rate	82
+4011	Arizona	Greenlee	acsc_rate	72
+4012	Arizona	La Paz	acsc_rate	76
+4013	Arizona	Maricopa	acsc_rate	52
+4015	Arizona	Mohave	acsc_rate	69
+4017	Arizona	Navajo	acsc_rate	66
+4019	Arizona	Pima	acsc_rate	42
+4021	Arizona	Pinal	acsc_rate	65
+4023	Arizona	Santa Cruz	acsc_rate	37
+4025	Arizona	Yavapai	acsc_rate	33
+4027	Arizona	Yuma	acsc_rate	64
+5001	Arkansas	Arkansas	acsc_rate	107
+5003	Arkansas	Ashley	acsc_rate	87
+5005	Arkansas	Baxter	acsc_rate	84
+5007	Arkansas	Benton	acsc_rate	60
+5009	Arkansas	Boone	acsc_rate	93
+5011	Arkansas	Bradley	acsc_rate	126
+5013	Arkansas	Calhoun	acsc_rate	78
+5015	Arkansas	Carroll	acsc_rate	64
+5017	Arkansas	Chicot	acsc_rate	100
+5019	Arkansas	Clark	acsc_rate	54
+5021	Arkansas	Clay	acsc_rate	110
+5023	Arkansas	Cleburne	acsc_rate	63
+5025	Arkansas	Cleveland	acsc_rate	91
+5027	Arkansas	Columbia	acsc_rate	89
+5029	Arkansas	Conway	acsc_rate	62
+5031	Arkansas	Craighead	acsc_rate	74
+5033	Arkansas	Crawford	acsc_rate	86
+5035	Arkansas	Crittenden	acsc_rate	84
+5037	Arkansas	Cross	acsc_rate	95
+5039	Arkansas	Dallas	acsc_rate	91
+5041	Arkansas	Desha	acsc_rate	124
+5043	Arkansas	Drew	acsc_rate	112
+5045	Arkansas	Faulkner	acsc_rate	54
+5047	Arkansas	Franklin	acsc_rate	72
+5049	Arkansas	Fulton	acsc_rate	84
+5051	Arkansas	Garland	acsc_rate	59
+5053	Arkansas	Grant	acsc_rate	103
+5055	Arkansas	Greene	acsc_rate	112
+5057	Arkansas	Hempstead	acsc_rate	114
+5059	Arkansas	Hot Spring	acsc_rate	114
+5061	Arkansas	Howard	acsc_rate	90
+5063	Arkansas	Independence	acsc_rate	96
+5065	Arkansas	Izard	acsc_rate	91
+5067	Arkansas	Jackson	acsc_rate	142
+5069	Arkansas	Jefferson	acsc_rate	67
+5071	Arkansas	Johnson	acsc_rate	75
+5073	Arkansas	Lafayette	acsc_rate	83
+5075	Arkansas	Lawrence	acsc_rate	136
+5077	Arkansas	Lee	acsc_rate	116
+5079	Arkansas	Lincoln	acsc_rate	75
+5081	Arkansas	Little River	acsc_rate	124
+5083	Arkansas	Logan	acsc_rate	95
+5085	Arkansas	Lonoke	acsc_rate	79
+5087	Arkansas	Madison	acsc_rate	46
+5089	Arkansas	Marion	acsc_rate	65
+5091	Arkansas	Miller	acsc_rate	90
+5093	Arkansas	Mississippi	acsc_rate	106
+5095	Arkansas	Monroe	acsc_rate	70
+5097	Arkansas	Montgomery	acsc_rate	66
+5099	Arkansas	Nevada	acsc_rate	102
+5101	Arkansas	Newton	acsc_rate	79
+5103	Arkansas	Ouachita	acsc_rate	71
+5105	Arkansas	Perry	acsc_rate	72
+5107	Arkansas	Phillips	acsc_rate	127
+5109	Arkansas	Pike	acsc_rate	59
+5111	Arkansas	Poinsett	acsc_rate	106
+5113	Arkansas	Polk	acsc_rate	73
+5115	Arkansas	Pope	acsc_rate	88
+5117	Arkansas	Prairie	acsc_rate	104
+5119	Arkansas	Pulaski	acsc_rate	64
+5121	Arkansas	Randolph	acsc_rate	94
+5123	Arkansas	St. Francis	acsc_rate	81
+5125	Arkansas	Saline	acsc_rate	60
+5127	Arkansas	Scott	acsc_rate	152
+5129	Arkansas	Searcy	acsc_rate	69
+5131	Arkansas	Sebastian	acsc_rate	63
+5133	Arkansas	Sevier	acsc_rate	123
+5135	Arkansas	Sharp	acsc_rate	88
+5137	Arkansas	Stone	acsc_rate	142
+5139	Arkansas	Union	acsc_rate	66
+5141	Arkansas	Van Buren	acsc_rate	73
+5143	Arkansas	Washington	acsc_rate	62
+5145	Arkansas	White	acsc_rate	90
+5147	Arkansas	Woodruff	acsc_rate	115
+5149	Arkansas	Yell	acsc_rate	187
+6001	California	Alameda	acsc_rate	52
+6003	California	Alpine	acsc_rate	
+6005	California	Amador	acsc_rate	47
+6007	California	Butte	acsc_rate	67
+6009	California	Calaveras	acsc_rate	43
+6011	California	Colusa	acsc_rate	69
+6013	California	Contra Costa	acsc_rate	51
+6015	California	Del Norte	acsc_rate	51
+6017	California	El Dorado	acsc_rate	40
+6019	California	Fresno	acsc_rate	61
+6021	California	Glenn	acsc_rate	52
+6023	California	Humboldt	acsc_rate	40
+6025	California	Imperial	acsc_rate	64
+6027	California	Inyo	acsc_rate	35
+6029	California	Kern	acsc_rate	78
+6031	California	Kings	acsc_rate	79
+6033	California	Lake	acsc_rate	67
+6035	California	Lassen	acsc_rate	70
+6037	California	Los Angeles	acsc_rate	60
+6039	California	Madera	acsc_rate	64
+6041	California	Marin	acsc_rate	35
+6043	California	Mariposa	acsc_rate	41
+6045	California	Mendocino	acsc_rate	41
+6047	California	Merced	acsc_rate	62
+6049	California	Modoc	acsc_rate	55
+6051	California	Mono	acsc_rate	43
+6053	California	Monterey	acsc_rate	44
+6055	California	Napa	acsc_rate	49
+6057	California	Nevada	acsc_rate	41
+6059	California	Orange	acsc_rate	45
+6061	California	Placer	acsc_rate	35
+6063	California	Plumas	acsc_rate	69
+6065	California	Riverside	acsc_rate	55
+6067	California	Sacramento	acsc_rate	45
+6069	California	San Benito	acsc_rate	58
+6071	California	San Bernardino	acsc_rate	63
+6073	California	San Diego	acsc_rate	44
+6075	California	San Francisco	acsc_rate	48
+6077	California	San Joaquin	acsc_rate	63
+6079	California	San Luis Obispo	acsc_rate	37
+6081	California	San Mateo	acsc_rate	38
+6083	California	Santa Barbara	acsc_rate	35
+6085	California	Santa Clara	acsc_rate	38
+6087	California	Santa Cruz	acsc_rate	41
+6089	California	Shasta	acsc_rate	49
+6091	California	Sierra	acsc_rate	42
+6093	California	Siskiyou	acsc_rate	44
+6095	California	Solano	acsc_rate	45
+6097	California	Sonoma	acsc_rate	39
+6099	California	Stanislaus	acsc_rate	65
+6101	California	Sutter	acsc_rate	64
+6103	California	Tehama	acsc_rate	48
+6105	California	Trinity	acsc_rate	67
+6107	California	Tulare	acsc_rate	73
+6109	California	Tuolumne	acsc_rate	37
+6111	California	Ventura	acsc_rate	45
+6113	California	Yolo	acsc_rate	33
+6115	California	Yuba	acsc_rate	75
+8001	Colorado	Adams	acsc_rate	56
+8003	Colorado	Alamosa	acsc_rate	53
+8005	Colorado	Arapahoe	acsc_rate	43
+8007	Colorado	Archuleta	acsc_rate	29
+8009	Colorado	Baca	acsc_rate	95
+8011	Colorado	Bent	acsc_rate	87
+8013	Colorado	Boulder	acsc_rate	43
+8014	Colorado	Broomfield	acsc_rate	47
+8015	Colorado	Chaffee	acsc_rate	37
+8017	Colorado	Cheyenne	acsc_rate	
+8019	Colorado	Clear Creek	acsc_rate	52
+8021	Colorado	Conejos	acsc_rate	51
+8023	Colorado	Costilla	acsc_rate	65
+8025	Colorado	Crowley	acsc_rate	78
+8027	Colorado	Custer	acsc_rate	39
+8029	Colorado	Delta	acsc_rate	48
+8031	Colorado	Denver	acsc_rate	41
+8033	Colorado	Dolores	acsc_rate	
+8035	Colorado	Douglas	acsc_rate	39
+8037	Colorado	Eagle	acsc_rate	27
+8039	Colorado	Elbert	acsc_rate	53
+8041	Colorado	El Paso	acsc_rate	46
+8043	Colorado	Fremont	acsc_rate	43
+8045	Colorado	Garfield	acsc_rate	43
+8047	Colorado	Gilpin	acsc_rate	
+8049	Colorado	Grand	acsc_rate	30
+8051	Colorado	Gunnison	acsc_rate	45
+8053	Colorado	Hinsdale	acsc_rate	
+8055	Colorado	Huerfano	acsc_rate	72
+8057	Colorado	Jackson	acsc_rate	
+8059	Colorado	Jefferson	acsc_rate	38
+8061	Colorado	Kiowa	acsc_rate	
+8063	Colorado	Kit Carson	acsc_rate	80
+8065	Colorado	Lake	acsc_rate	97
+8067	Colorado	La Plata	acsc_rate	33
+8069	Colorado	Larimer	acsc_rate	47
+8071	Colorado	Las Animas	acsc_rate	70
+8073	Colorado	Lincoln	acsc_rate	57
+8075	Colorado	Logan	acsc_rate	57
+8077	Colorado	Mesa	acsc_rate	33
+8079	Colorado	Mineral	acsc_rate	
+8081	Colorado	Moffat	acsc_rate	87
+8083	Colorado	Montezuma	acsc_rate	42
+8085	Colorado	Montrose	acsc_rate	37
+8087	Colorado	Morgan	acsc_rate	65
+8089	Colorado	Otero	acsc_rate	83
+8091	Colorado	Ouray	acsc_rate	
+8093	Colorado	Park	acsc_rate	41
+8095	Colorado	Phillips	acsc_rate	78
+8097	Colorado	Pitkin	acsc_rate	31
+8099	Colorado	Prowers	acsc_rate	116
+8101	Colorado	Pueblo	acsc_rate	56
+8103	Colorado	Rio Blanco	acsc_rate	67
+8105	Colorado	Rio Grande	acsc_rate	66
+8107	Colorado	Routt	acsc_rate	29
+8109	Colorado	Saguache	acsc_rate	56
+8111	Colorado	San Juan	acsc_rate	
+8113	Colorado	San Miguel	acsc_rate	
+8115	Colorado	Sedgwick	acsc_rate	74
+8117	Colorado	Summit	acsc_rate	20
+8119	Colorado	Teller	acsc_rate	44
+8121	Colorado	Washington	acsc_rate	53
+8123	Colorado	Weld	acsc_rate	60
+8125	Colorado	Yuma	acsc_rate	69
+9001	Connecticut	Fairfield	acsc_rate	54
+9003	Connecticut	Hartford	acsc_rate	61
+9005	Connecticut	Litchfield	acsc_rate	49
+9007	Connecticut	Middlesex	acsc_rate	58
+9009	Connecticut	New Haven	acsc_rate	70
+9011	Connecticut	New London	acsc_rate	63
+9013	Connecticut	Tolland	acsc_rate	60
+9015	Connecticut	Windham	acsc_rate	68
+10001	Delaware	Kent	acsc_rate	56
+10003	Delaware	New Castle	acsc_rate	61
+10005	Delaware	Sussex	acsc_rate	56
+11001	District of Columbia	District of Columbia	acsc_rate	53
+12001	Florida	Alachua	acsc_rate	62
+12003	Florida	Baker	acsc_rate	101
+12005	Florida	Bay	acsc_rate	76
+12007	Florida	Bradford	acsc_rate	109
+12009	Florida	Brevard	acsc_rate	63
+12011	Florida	Broward	acsc_rate	68
+12013	Florida	Calhoun	acsc_rate	92
+12015	Florida	Charlotte	acsc_rate	65
+12017	Florida	Citrus	acsc_rate	55
+12019	Florida	Clay	acsc_rate	75
+12021	Florida	Collier	acsc_rate	44
+12023	Florida	Columbia	acsc_rate	96
+12027	Florida	DeSoto	acsc_rate	117
+12029	Florida	Dixie	acsc_rate	109
+12031	Florida	Duval	acsc_rate	82
+12033	Florida	Escambia	acsc_rate	58
+12035	Florida	Flagler	acsc_rate	41
+12037	Florida	Franklin	acsc_rate	82
+12039	Florida	Gadsden	acsc_rate	62
+12041	Florida	Gilchrist	acsc_rate	79
+12043	Florida	Glades	acsc_rate	108
+12045	Florida	Gulf	acsc_rate	61
+12047	Florida	Hamilton	acsc_rate	88
+12049	Florida	Hardee	acsc_rate	85
+12051	Florida	Hendry	acsc_rate	93
+12053	Florida	Hernando	acsc_rate	68
+12055	Florida	Highlands	acsc_rate	76
+12057	Florida	Hillsborough	acsc_rate	67
+12059	Florida	Holmes	acsc_rate	157
+12061	Florida	Indian River	acsc_rate	42
+12063	Florida	Jackson	acsc_rate	89
+12065	Florida	Jefferson	acsc_rate	52
+12067	Florida	Lafayette	acsc_rate	84
+12069	Florida	Lake	acsc_rate	62
+12071	Florida	Lee	acsc_rate	62
+12073	Florida	Leon	acsc_rate	53
+12075	Florida	Levy	acsc_rate	83
+12077	Florida	Liberty	acsc_rate	93
+12079	Florida	Madison	acsc_rate	80
+12081	Florida	Manatee	acsc_rate	49
+12083	Florida	Marion	acsc_rate	53
+12085	Florida	Martin	acsc_rate	41
+12086	Florida	Miami-Dade	acsc_rate	93
+12087	Florida	Monroe	acsc_rate	66
+12089	Florida	Nassau	acsc_rate	59
+12091	Florida	Okaloosa	acsc_rate	71
+12093	Florida	Okeechobee	acsc_rate	123
+12095	Florida	Orange	acsc_rate	80
+12097	Florida	Osceola	acsc_rate	96
+12099	Florida	Palm Beach	acsc_rate	52
+12101	Florida	Pasco	acsc_rate	71
+12103	Florida	Pinellas	acsc_rate	62
+12105	Florida	Polk	acsc_rate	82
+12107	Florida	Putnam	acsc_rate	90
+12109	Florida	St. Johns	acsc_rate	68
+12111	Florida	St. Lucie	acsc_rate	58
+12113	Florida	Santa Rosa	acsc_rate	78
+12115	Florida	Sarasota	acsc_rate	36
+12117	Florida	Seminole	acsc_rate	69
+12119	Florida	Sumter	acsc_rate	55
+12121	Florida	Suwannee	acsc_rate	80
+12123	Florida	Taylor	acsc_rate	80
+12125	Florida	Union	acsc_rate	110
+12127	Florida	Volusia	acsc_rate	57
+12129	Florida	Wakulla	acsc_rate	48
+12131	Florida	Walton	acsc_rate	91
+12133	Florida	Washington	acsc_rate	92
+13001	Georgia	Appling	acsc_rate	117
+13003	Georgia	Atkinson	acsc_rate	155
+13005	Georgia	Bacon	acsc_rate	189
+13007	Georgia	Baker	acsc_rate	
+13009	Georgia	Baldwin	acsc_rate	80
+13011	Georgia	Banks	acsc_rate	81
+13013	Georgia	Barrow	acsc_rate	93
+13015	Georgia	Bartow	acsc_rate	81
+13017	Georgia	Ben Hill	acsc_rate	119
+13019	Georgia	Berrien	acsc_rate	112
+13021	Georgia	Bibb	acsc_rate	78
+13023	Georgia	Bleckley	acsc_rate	96
+13025	Georgia	Brantley	acsc_rate	113
+13027	Georgia	Brooks	acsc_rate	76
+13029	Georgia	Bryan	acsc_rate	81
+13031	Georgia	Bulloch	acsc_rate	93
+13033	Georgia	Burke	acsc_rate	112
+13035	Georgia	Butts	acsc_rate	87
+13037	Georgia	Calhoun	acsc_rate	98
+13039	Georgia	Camden	acsc_rate	67
+13043	Georgia	Candler	acsc_rate	103
+13045	Georgia	Carroll	acsc_rate	48
+13047	Georgia	Catoosa	acsc_rate	58
+13049	Georgia	Charlton	acsc_rate	94
+13051	Georgia	Chatham	acsc_rate	56
+13053	Georgia	Chattahoochee	acsc_rate	44
+13055	Georgia	Chattooga	acsc_rate	65
+13057	Georgia	Cherokee	acsc_rate	65
+13059	Georgia	Clarke	acsc_rate	50
+13061	Georgia	Clay	acsc_rate	
+13063	Georgia	Clayton	acsc_rate	60
+13065	Georgia	Clinch	acsc_rate	177
+13067	Georgia	Cobb	acsc_rate	59
+13069	Georgia	Coffee	acsc_rate	162
+13071	Georgia	Colquitt	acsc_rate	78
+13073	Georgia	Columbia	acsc_rate	51
+13075	Georgia	Cook	acsc_rate	117
+13077	Georgia	Coweta	acsc_rate	64
+13079	Georgia	Crawford	acsc_rate	65
+13081	Georgia	Crisp	acsc_rate	97
+13083	Georgia	Dade	acsc_rate	64
+13085	Georgia	Dawson	acsc_rate	81
+13087	Georgia	Decatur	acsc_rate	84
+13089	Georgia	DeKalb	acsc_rate	50
+13091	Georgia	Dodge	acsc_rate	122
+13093	Georgia	Dooly	acsc_rate	87
+13095	Georgia	Dougherty	acsc_rate	61
+13097	Georgia	Douglas	acsc_rate	85
+13099	Georgia	Early	acsc_rate	90
+13101	Georgia	Echols	acsc_rate	
+13103	Georgia	Effingham	acsc_rate	63
+13105	Georgia	Elbert	acsc_rate	87
+13107	Georgia	Emanuel	acsc_rate	106
+13109	Georgia	Evans	acsc_rate	109
+13111	Georgia	Fannin	acsc_rate	89
+13113	Georgia	Fayette	acsc_rate	40
+13115	Georgia	Floyd	acsc_rate	66
+13117	Georgia	Forsyth	acsc_rate	68
+13119	Georgia	Franklin	acsc_rate	87
+13121	Georgia	Fulton	acsc_rate	51
+13123	Georgia	Gilmer	acsc_rate	82
+13125	Georgia	Glascock	acsc_rate	
+13127	Georgia	Glynn	acsc_rate	59
+13129	Georgia	Gordon	acsc_rate	86
+13131	Georgia	Grady	acsc_rate	71
+13133	Georgia	Greene	acsc_rate	61
+13135	Georgia	Gwinnett	acsc_rate	56
+13137	Georgia	Habersham	acsc_rate	58
+13139	Georgia	Hall	acsc_rate	53
+13141	Georgia	Hancock	acsc_rate	66
+13143	Georgia	Haralson	acsc_rate	59
+13145	Georgia	Harris	acsc_rate	53
+13147	Georgia	Hart	acsc_rate	90
+13149	Georgia	Heard	acsc_rate	73
+13151	Georgia	Henry	acsc_rate	59
+13153	Georgia	Houston	acsc_rate	98
+13155	Georgia	Irwin	acsc_rate	88
+13157	Georgia	Jackson	acsc_rate	66
+13159	Georgia	Jasper	acsc_rate	82
+13161	Georgia	Jeff Davis	acsc_rate	174
+13163	Georgia	Jefferson	acsc_rate	97
+13165	Georgia	Jenkins	acsc_rate	98
+13167	Georgia	Johnson	acsc_rate	71
+13169	Georgia	Jones	acsc_rate	62
+13171	Georgia	Lamar	acsc_rate	65
+13173	Georgia	Lanier	acsc_rate	128
+13175	Georgia	Laurens	acsc_rate	61
+13177	Georgia	Lee	acsc_rate	65
+13179	Georgia	Liberty	acsc_rate	64
+13181	Georgia	Lincoln	acsc_rate	90
+13183	Georgia	Long	acsc_rate	97
+13185	Georgia	Lowndes	acsc_rate	81
+13187	Georgia	Lumpkin	acsc_rate	87
+13189	Georgia	McDuffie	acsc_rate	69
+13191	Georgia	McIntosh	acsc_rate	62
+13193	Georgia	Macon	acsc_rate	81
+13195	Georgia	Madison	acsc_rate	72
+13197	Georgia	Marion	acsc_rate	49
+13199	Georgia	Meriwether	acsc_rate	100
+13201	Georgia	Miller	acsc_rate	146
+13205	Georgia	Mitchell	acsc_rate	62
+13207	Georgia	Monroe	acsc_rate	66
+13209	Georgia	Montgomery	acsc_rate	92
+13211	Georgia	Morgan	acsc_rate	73
+13213	Georgia	Murray	acsc_rate	83
+13215	Georgia	Muscogee	acsc_rate	52
+13217	Georgia	Newton	acsc_rate	79
+13219	Georgia	Oconee	acsc_rate	50
+13221	Georgia	Oglethorpe	acsc_rate	55
+13223	Georgia	Paulding	acsc_rate	93
+13225	Georgia	Peach	acsc_rate	89
+13227	Georgia	Pickens	acsc_rate	81
+13229	Georgia	Pierce	acsc_rate	106
+13231	Georgia	Pike	acsc_rate	55
+13233	Georgia	Polk	acsc_rate	95
+13235	Georgia	Pulaski	acsc_rate	86
+13237	Georgia	Putnam	acsc_rate	85
+13239	Georgia	Quitman	acsc_rate	68
+13241	Georgia	Rabun	acsc_rate	70
+13243	Georgia	Randolph	acsc_rate	62
+13245	Georgia	Richmond	acsc_rate	57
+13247	Georgia	Rockdale	acsc_rate	64
+13249	Georgia	Schley	acsc_rate	
+13251	Georgia	Screven	acsc_rate	102
+13253	Georgia	Seminole	acsc_rate	170
+13255	Georgia	Spalding	acsc_rate	71
+13257	Georgia	Stephens	acsc_rate	100
+13259	Georgia	Stewart	acsc_rate	142
+13261	Georgia	Sumter	acsc_rate	50
+13263	Georgia	Talbot	acsc_rate	90
+13265	Georgia	Taliaferro	acsc_rate	
+13267	Georgia	Tattnall	acsc_rate	104
+13269	Georgia	Taylor	acsc_rate	85
+13271	Georgia	Telfair	acsc_rate	150
+13273	Georgia	Terrell	acsc_rate	50
+13275	Georgia	Thomas	acsc_rate	56
+13277	Georgia	Tift	acsc_rate	82
+13279	Georgia	Toombs	acsc_rate	88
+13281	Georgia	Towns	acsc_rate	44
+13283	Georgia	Treutlen	acsc_rate	67
+13285	Georgia	Troup	acsc_rate	85
+13287	Georgia	Turner	acsc_rate	71
+13289	Georgia	Twiggs	acsc_rate	80
+13291	Georgia	Union	acsc_rate	44
+13293	Georgia	Upson	acsc_rate	68
+13295	Georgia	Walker	acsc_rate	64
+13297	Georgia	Walton	acsc_rate	77
+13299	Georgia	Ware	acsc_rate	90
+13301	Georgia	Warren	acsc_rate	52
+13303	Georgia	Washington	acsc_rate	79
+13305	Georgia	Wayne	acsc_rate	133
+13307	Georgia	Webster	acsc_rate	
+13309	Georgia	Wheeler	acsc_rate	134
+13311	Georgia	White	acsc_rate	52
+13313	Georgia	Whitfield	acsc_rate	72
+13315	Georgia	Wilcox	acsc_rate	106
+13317	Georgia	Wilkes	acsc_rate	103
+13319	Georgia	Wilkinson	acsc_rate	78
+13321	Georgia	Worth	acsc_rate	93
+15001	Hawaii	Hawaii	acsc_rate	24
+15003	Hawaii	Honolulu	acsc_rate	25
+15005	Hawaii	Kalawao	acsc_rate	
+15007	Hawaii	Kauai	acsc_rate	28
+15009	Hawaii	Maui	acsc_rate	31
+16001	Idaho	Ada	acsc_rate	35
+16003	Idaho	Adams	acsc_rate	31
+16005	Idaho	Bannock	acsc_rate	38
+16007	Idaho	Bear Lake	acsc_rate	81
+16009	Idaho	Benewah	acsc_rate	70
+16011	Idaho	Bingham	acsc_rate	38
+16013	Idaho	Blaine	acsc_rate	21
+16015	Idaho	Boise	acsc_rate	
+16017	Idaho	Bonner	acsc_rate	36
+16019	Idaho	Bonneville	acsc_rate	34
+16021	Idaho	Boundary	acsc_rate	50
+16023	Idaho	Butte	acsc_rate	
+16025	Idaho	Camas	acsc_rate	
+16027	Idaho	Canyon	acsc_rate	46
+16029	Idaho	Caribou	acsc_rate	57
+16031	Idaho	Cassia	acsc_rate	42
+16033	Idaho	Clark	acsc_rate	
+16035	Idaho	Clearwater	acsc_rate	95
+16037	Idaho	Custer	acsc_rate	46
+16039	Idaho	Elmore	acsc_rate	47
+16041	Idaho	Franklin	acsc_rate	33
+16043	Idaho	Fremont	acsc_rate	41
+16045	Idaho	Gem	acsc_rate	41
+16047	Idaho	Gooding	acsc_rate	110
+16049	Idaho	Idaho	acsc_rate	64
+16051	Idaho	Jefferson	acsc_rate	34
+16053	Idaho	Jerome	acsc_rate	81
+16055	Idaho	Kootenai	acsc_rate	33
+16057	Idaho	Latah	acsc_rate	49
+16059	Idaho	Lemhi	acsc_rate	54
+16061	Idaho	Lewis	acsc_rate	58
+16063	Idaho	Lincoln	acsc_rate	45
+16065	Idaho	Madison	acsc_rate	32
+16067	Idaho	Minidoka	acsc_rate	47
+16069	Idaho	Nez Perce	acsc_rate	55
+16071	Idaho	Oneida	acsc_rate	43
+16073	Idaho	Owyhee	acsc_rate	26
+16075	Idaho	Payette	acsc_rate	53
+16077	Idaho	Power	acsc_rate	31
+16079	Idaho	Shoshone	acsc_rate	57
+16081	Idaho	Teton	acsc_rate	62
+16083	Idaho	Twin Falls	acsc_rate	55
+16085	Idaho	Valley	acsc_rate	32
+16087	Idaho	Washington	acsc_rate	54
+17001	Illinois	Adams	acsc_rate	92
+17003	Illinois	Alexander	acsc_rate	84
+17005	Illinois	Bond	acsc_rate	59
+17007	Illinois	Boone	acsc_rate	66
+17009	Illinois	Brown	acsc_rate	77
+17011	Illinois	Bureau	acsc_rate	81
+17013	Illinois	Calhoun	acsc_rate	74
+17015	Illinois	Carroll	acsc_rate	68
+17017	Illinois	Cass	acsc_rate	79
+17019	Illinois	Champaign	acsc_rate	61
+17021	Illinois	Christian	acsc_rate	109
+17023	Illinois	Clark	acsc_rate	76
+17025	Illinois	Clay	acsc_rate	124
+17027	Illinois	Clinton	acsc_rate	58
+17029	Illinois	Coles	acsc_rate	93
+17031	Illinois	Cook	acsc_rate	73
+17033	Illinois	Crawford	acsc_rate	90
+17035	Illinois	Cumberland	acsc_rate	79
+17037	Illinois	DeKalb	acsc_rate	81
+17039	Illinois	De Witt	acsc_rate	84
+17041	Illinois	Douglas	acsc_rate	77
+17043	Illinois	DuPage	acsc_rate	61
+17045	Illinois	Edgar	acsc_rate	98
+17047	Illinois	Edwards	acsc_rate	71
+17049	Illinois	Effingham	acsc_rate	77
+17051	Illinois	Fayette	acsc_rate	125
+17053	Illinois	Ford	acsc_rate	84
+17055	Illinois	Franklin	acsc_rate	95
+17057	Illinois	Fulton	acsc_rate	80
+17059	Illinois	Gallatin	acsc_rate	101
+17061	Illinois	Greene	acsc_rate	109
+17063	Illinois	Grundy	acsc_rate	85
+17065	Illinois	Hamilton	acsc_rate	145
+17067	Illinois	Hancock	acsc_rate	63
+17069	Illinois	Hardin	acsc_rate	204
+17071	Illinois	Henderson	acsc_rate	66
+17073	Illinois	Henry	acsc_rate	75
+17075	Illinois	Iroquois	acsc_rate	93
+17077	Illinois	Jackson	acsc_rate	67
+17079	Illinois	Jasper	acsc_rate	86
+17081	Illinois	Jefferson	acsc_rate	92
+17083	Illinois	Jersey	acsc_rate	93
+17085	Illinois	Jo Daviess	acsc_rate	57
+17087	Illinois	Johnson	acsc_rate	86
+17089	Illinois	Kane	acsc_rate	67
+17091	Illinois	Kankakee	acsc_rate	78
+17093	Illinois	Kendall	acsc_rate	64
+17095	Illinois	Knox	acsc_rate	98
+17097	Illinois	Lake	acsc_rate	67
+17099	Illinois	LaSalle	acsc_rate	87
+17101	Illinois	Lawrence	acsc_rate	110
+17103	Illinois	Lee	acsc_rate	83
+17105	Illinois	Livingston	acsc_rate	65
+17107	Illinois	Logan	acsc_rate	57
+17109	Illinois	McDonough	acsc_rate	69
+17111	Illinois	McHenry	acsc_rate	75
+17113	Illinois	McLean	acsc_rate	62
+17115	Illinois	Macon	acsc_rate	76
+17117	Illinois	Macoupin	acsc_rate	75
+17119	Illinois	Madison	acsc_rate	68
+17121	Illinois	Marion	acsc_rate	152
+17123	Illinois	Marshall	acsc_rate	68
+17125	Illinois	Mason	acsc_rate	67
+17127	Illinois	Massac	acsc_rate	137
+17129	Illinois	Menard	acsc_rate	74
+17131	Illinois	Mercer	acsc_rate	60
+17133	Illinois	Monroe	acsc_rate	81
+17135	Illinois	Montgomery	acsc_rate	70
+17137	Illinois	Morgan	acsc_rate	86
+17139	Illinois	Moultrie	acsc_rate	86
+17141	Illinois	Ogle	acsc_rate	72
+17143	Illinois	Peoria	acsc_rate	65
+17145	Illinois	Perry	acsc_rate	88
+17147	Illinois	Piatt	acsc_rate	92
+17149	Illinois	Pike	acsc_rate	82
+17151	Illinois	Pope	acsc_rate	141
+17153	Illinois	Pulaski	acsc_rate	93
+17155	Illinois	Putnam	acsc_rate	106
+17157	Illinois	Randolph	acsc_rate	109
+17159	Illinois	Richland	acsc_rate	107
+17161	Illinois	Rock Island	acsc_rate	64
+17163	Illinois	St. Clair	acsc_rate	73
+17165	Illinois	Saline	acsc_rate	127
+17167	Illinois	Sangamon	acsc_rate	61
+17169	Illinois	Schuyler	acsc_rate	49
+17171	Illinois	Scott	acsc_rate	94
+17173	Illinois	Shelby	acsc_rate	125
+17175	Illinois	Stark	acsc_rate	80
+17177	Illinois	Stephenson	acsc_rate	67
+17179	Illinois	Tazewell	acsc_rate	74
+17181	Illinois	Union	acsc_rate	92
+17183	Illinois	Vermilion	acsc_rate	100
+17185	Illinois	Wabash	acsc_rate	91
+17187	Illinois	Warren	acsc_rate	73
+17189	Illinois	Washington	acsc_rate	87
+17191	Illinois	Wayne	acsc_rate	88
+17193	Illinois	White	acsc_rate	106
+17195	Illinois	Whiteside	acsc_rate	87
+17197	Illinois	Will	acsc_rate	92
+17199	Illinois	Williamson	acsc_rate	94
+17201	Illinois	Winnebago	acsc_rate	71
+17203	Illinois	Woodford	acsc_rate	60
+18001	Indiana	Adams	acsc_rate	99
+18003	Indiana	Allen	acsc_rate	58
+18005	Indiana	Bartholomew	acsc_rate	57
+18007	Indiana	Benton	acsc_rate	70
+18009	Indiana	Blackford	acsc_rate	115
+18011	Indiana	Boone	acsc_rate	70
+18013	Indiana	Brown	acsc_rate	36
+18015	Indiana	Carroll	acsc_rate	66
+18017	Indiana	Cass	acsc_rate	72
+18019	Indiana	Clark	acsc_rate	98
+18021	Indiana	Clay	acsc_rate	83
+18023	Indiana	Clinton	acsc_rate	72
+18025	Indiana	Crawford	acsc_rate	86
+18027	Indiana	Daviess	acsc_rate	77
+18029	Indiana	Dearborn	acsc_rate	89
+18031	Indiana	Decatur	acsc_rate	73
+18033	Indiana	DeKalb	acsc_rate	72
+18035	Indiana	Delaware	acsc_rate	72
+18037	Indiana	Dubois	acsc_rate	45
+18039	Indiana	Elkhart	acsc_rate	68
+18041	Indiana	Fayette	acsc_rate	87
+18043	Indiana	Floyd	acsc_rate	76
+18045	Indiana	Fountain	acsc_rate	101
+18047	Indiana	Franklin	acsc_rate	90
+18049	Indiana	Fulton	acsc_rate	72
+18051	Indiana	Gibson	acsc_rate	70
+18053	Indiana	Grant	acsc_rate	74
+18055	Indiana	Greene	acsc_rate	104
+18057	Indiana	Hamilton	acsc_rate	55
+18059	Indiana	Hancock	acsc_rate	59
+18061	Indiana	Harrison	acsc_rate	76
+18063	Indiana	Hendricks	acsc_rate	66
+18065	Indiana	Henry	acsc_rate	88
+18067	Indiana	Howard	acsc_rate	63
+18069	Indiana	Huntington	acsc_rate	80
+18071	Indiana	Jackson	acsc_rate	65
+18073	Indiana	Jasper	acsc_rate	90
+18075	Indiana	Jay	acsc_rate	89
+18077	Indiana	Jefferson	acsc_rate	97
+18079	Indiana	Jennings	acsc_rate	83
+18081	Indiana	Johnson	acsc_rate	63
+18083	Indiana	Knox	acsc_rate	80
+18085	Indiana	Kosciusko	acsc_rate	77
+18087	Indiana	LaGrange	acsc_rate	56
+18089	Indiana	Lake	acsc_rate	96
+18091	Indiana	LaPorte	acsc_rate	78
+18093	Indiana	Lawrence	acsc_rate	86
+18095	Indiana	Madison	acsc_rate	86
+18097	Indiana	Marion	acsc_rate	68
+18099	Indiana	Marshall	acsc_rate	46
+18101	Indiana	Martin	acsc_rate	77
+18103	Indiana	Miami	acsc_rate	67
+18105	Indiana	Monroe	acsc_rate	49
+18107	Indiana	Montgomery	acsc_rate	88
+18109	Indiana	Morgan	acsc_rate	85
+18111	Indiana	Newton	acsc_rate	107
+18113	Indiana	Noble	acsc_rate	73
+18115	Indiana	Ohio	acsc_rate	88
+18117	Indiana	Orange	acsc_rate	62
+18119	Indiana	Owen	acsc_rate	65
+18121	Indiana	Parke	acsc_rate	86
+18123	Indiana	Perry	acsc_rate	122
+18125	Indiana	Pike	acsc_rate	66
+18127	Indiana	Porter	acsc_rate	88
+18129	Indiana	Posey	acsc_rate	95
+18131	Indiana	Pulaski	acsc_rate	69
+18133	Indiana	Putnam	acsc_rate	83
+18135	Indiana	Randolph	acsc_rate	77
+18137	Indiana	Ripley	acsc_rate	80
+18139	Indiana	Rush	acsc_rate	103
+18141	Indiana	St. Joseph	acsc_rate	54
+18143	Indiana	Scott	acsc_rate	132
+18145	Indiana	Shelby	acsc_rate	79
+18147	Indiana	Spencer	acsc_rate	58
+18149	Indiana	Starke	acsc_rate	99
+18151	Indiana	Steuben	acsc_rate	71
+18153	Indiana	Sullivan	acsc_rate	108
+18155	Indiana	Switzerland	acsc_rate	141
+18157	Indiana	Tippecanoe	acsc_rate	71
+18159	Indiana	Tipton	acsc_rate	101
+18161	Indiana	Union	acsc_rate	113
+18163	Indiana	Vanderburgh	acsc_rate	73
+18165	Indiana	Vermillion	acsc_rate	124
+18167	Indiana	Vigo	acsc_rate	92
+18169	Indiana	Wabash	acsc_rate	51
+18171	Indiana	Warren	acsc_rate	98
+18173	Indiana	Warrick	acsc_rate	84
+18175	Indiana	Washington	acsc_rate	89
+18177	Indiana	Wayne	acsc_rate	91
+18179	Indiana	Wells	acsc_rate	98
+18181	Indiana	White	acsc_rate	86
+18183	Indiana	Whitley	acsc_rate	73
+19001	Iowa	Adair	acsc_rate	45
+19003	Iowa	Adams	acsc_rate	66
+19005	Iowa	Allamakee	acsc_rate	64
+19007	Iowa	Appanoose	acsc_rate	91
+19009	Iowa	Audubon	acsc_rate	52
+19011	Iowa	Benton	acsc_rate	61
+19013	Iowa	Black Hawk	acsc_rate	59
+19015	Iowa	Boone	acsc_rate	64
+19017	Iowa	Bremer	acsc_rate	57
+19019	Iowa	Buchanan	acsc_rate	53
+19021	Iowa	Buena Vista	acsc_rate	56
+19023	Iowa	Butler	acsc_rate	54
+19025	Iowa	Calhoun	acsc_rate	80
+19027	Iowa	Carroll	acsc_rate	55
+19029	Iowa	Cass	acsc_rate	40
+19031	Iowa	Cedar	acsc_rate	50
+19033	Iowa	Cerro Gordo	acsc_rate	64
+19035	Iowa	Cherokee	acsc_rate	84
+19037	Iowa	Chickasaw	acsc_rate	65
+19039	Iowa	Clarke	acsc_rate	51
+19041	Iowa	Clay	acsc_rate	61
+19043	Iowa	Clayton	acsc_rate	60
+19045	Iowa	Clinton	acsc_rate	76
+19047	Iowa	Crawford	acsc_rate	68
+19049	Iowa	Dallas	acsc_rate	47
+19051	Iowa	Davis	acsc_rate	64
+19053	Iowa	Decatur	acsc_rate	59
+19055	Iowa	Delaware	acsc_rate	63
+19057	Iowa	Des Moines	acsc_rate	62
+19059	Iowa	Dickinson	acsc_rate	56
+19061	Iowa	Dubuque	acsc_rate	55
+19063	Iowa	Emmet	acsc_rate	62
+19065	Iowa	Fayette	acsc_rate	58
+19067	Iowa	Floyd	acsc_rate	69
+19069	Iowa	Franklin	acsc_rate	53
+19071	Iowa	Fremont	acsc_rate	72
+19073	Iowa	Greene	acsc_rate	51
+19075	Iowa	Grundy	acsc_rate	54
+19077	Iowa	Guthrie	acsc_rate	71
+19079	Iowa	Hamilton	acsc_rate	101
+19081	Iowa	Hancock	acsc_rate	66
+19083	Iowa	Hardin	acsc_rate	74
+19085	Iowa	Harrison	acsc_rate	81
+19087	Iowa	Henry	acsc_rate	56
+19089	Iowa	Howard	acsc_rate	50
+19091	Iowa	Humboldt	acsc_rate	59
+19093	Iowa	Ida	acsc_rate	99
+19095	Iowa	Iowa	acsc_rate	42
+19097	Iowa	Jackson	acsc_rate	53
+19099	Iowa	Jasper	acsc_rate	58
+19101	Iowa	Jefferson	acsc_rate	50
+19103	Iowa	Johnson	acsc_rate	45
+19105	Iowa	Jones	acsc_rate	67
+19107	Iowa	Keokuk	acsc_rate	59
+19109	Iowa	Kossuth	acsc_rate	48
+19111	Iowa	Lee	acsc_rate	82
+19113	Iowa	Linn	acsc_rate	58
+19115	Iowa	Louisa	acsc_rate	58
+19117	Iowa	Lucas	acsc_rate	64
+19119	Iowa	Lyon	acsc_rate	61
+19121	Iowa	Madison	acsc_rate	69
+19123	Iowa	Mahaska	acsc_rate	56
+19125	Iowa	Marion	acsc_rate	60
+19127	Iowa	Marshall	acsc_rate	46
+19129	Iowa	Mills	acsc_rate	79
+19131	Iowa	Mitchell	acsc_rate	42
+19133	Iowa	Monona	acsc_rate	65
+19135	Iowa	Monroe	acsc_rate	73
+19137	Iowa	Montgomery	acsc_rate	80
+19139	Iowa	Muscatine	acsc_rate	56
+19141	Iowa	O'Brien	acsc_rate	65
+19143	Iowa	Osceola	acsc_rate	50
+19145	Iowa	Page	acsc_rate	66
+19147	Iowa	Palo Alto	acsc_rate	64
+19149	Iowa	Plymouth	acsc_rate	69
+19151	Iowa	Pocahontas	acsc_rate	87
+19153	Iowa	Polk	acsc_rate	50
+19155	Iowa	Pottawattamie	acsc_rate	75
+19157	Iowa	Poweshiek	acsc_rate	44
+19159	Iowa	Ringgold	acsc_rate	67
+19161	Iowa	Sac	acsc_rate	110
+19163	Iowa	Scott	acsc_rate	72
+19165	Iowa	Shelby	acsc_rate	73
+19167	Iowa	Sioux	acsc_rate	52
+19169	Iowa	Story	acsc_rate	46
+19171	Iowa	Tama	acsc_rate	52
+19173	Iowa	Taylor	acsc_rate	58
+19175	Iowa	Union	acsc_rate	43
+19177	Iowa	Van Buren	acsc_rate	88
+19179	Iowa	Wapello	acsc_rate	71
+19181	Iowa	Warren	acsc_rate	46
+19183	Iowa	Washington	acsc_rate	53
+19185	Iowa	Wayne	acsc_rate	82
+19187	Iowa	Webster	acsc_rate	74
+19189	Iowa	Winnebago	acsc_rate	53
+19191	Iowa	Winneshiek	acsc_rate	47
+19193	Iowa	Woodbury	acsc_rate	62
+19195	Iowa	Worth	acsc_rate	52
+19197	Iowa	Wright	acsc_rate	74
+20001	Kansas	Allen	acsc_rate	95
+20003	Kansas	Anderson	acsc_rate	71
+20005	Kansas	Atchison	acsc_rate	64
+20007	Kansas	Barber	acsc_rate	144
+20009	Kansas	Barton	acsc_rate	84
+20011	Kansas	Bourbon	acsc_rate	86
+20013	Kansas	Brown	acsc_rate	111
+20015	Kansas	Butler	acsc_rate	59
+20017	Kansas	Chase	acsc_rate	89
+20019	Kansas	Chautauqua	acsc_rate	85
+20021	Kansas	Cherokee	acsc_rate	80
+20023	Kansas	Cheyenne	acsc_rate	109
+20025	Kansas	Clark	acsc_rate	156
+20027	Kansas	Clay	acsc_rate	71
+20029	Kansas	Cloud	acsc_rate	102
+20031	Kansas	Coffey	acsc_rate	117
+20033	Kansas	Comanche	acsc_rate	58
+20035	Kansas	Cowley	acsc_rate	54
+20037	Kansas	Crawford	acsc_rate	99
+20039	Kansas	Decatur	acsc_rate	156
+20041	Kansas	Dickinson	acsc_rate	89
+20043	Kansas	Doniphan	acsc_rate	82
+20045	Kansas	Douglas	acsc_rate	34
+20047	Kansas	Edwards	acsc_rate	67
+20049	Kansas	Elk	acsc_rate	66
+20051	Kansas	Ellis	acsc_rate	77
+20053	Kansas	Ellsworth	acsc_rate	121
+20055	Kansas	Finney	acsc_rate	57
+20057	Kansas	Ford	acsc_rate	82
+20059	Kansas	Franklin	acsc_rate	83
+20061	Kansas	Geary	acsc_rate	72
+20063	Kansas	Gove	acsc_rate	190
+20065	Kansas	Graham	acsc_rate	124
+20067	Kansas	Grant	acsc_rate	114
+20069	Kansas	Gray	acsc_rate	55
+20071	Kansas	Greeley	acsc_rate	
+20073	Kansas	Greenwood	acsc_rate	127
+20075	Kansas	Hamilton	acsc_rate	80
+20077	Kansas	Harper	acsc_rate	127
+20079	Kansas	Harvey	acsc_rate	49
+20081	Kansas	Haskell	acsc_rate	58
+20083	Kansas	Hodgeman	acsc_rate	
+20085	Kansas	Jackson	acsc_rate	81
+20087	Kansas	Jefferson	acsc_rate	48
+20089	Kansas	Jewell	acsc_rate	93
+20091	Kansas	Johnson	acsc_rate	56
+20093	Kansas	Kearny	acsc_rate	68
+20095	Kansas	Kingman	acsc_rate	66
+20097	Kansas	Kiowa	acsc_rate	59
+20099	Kansas	Labette	acsc_rate	52
+20101	Kansas	Lane	acsc_rate	105
+20103	Kansas	Leavenworth	acsc_rate	73
+20105	Kansas	Lincoln	acsc_rate	135
+20107	Kansas	Linn	acsc_rate	77
+20109	Kansas	Logan	acsc_rate	97
+20111	Kansas	Lyon	acsc_rate	82
+20113	Kansas	McPherson	acsc_rate	60
+20115	Kansas	Marion	acsc_rate	49
+20117	Kansas	Marshall	acsc_rate	75
+20119	Kansas	Meade	acsc_rate	126
+20121	Kansas	Miami	acsc_rate	60
+20123	Kansas	Mitchell	acsc_rate	92
+20125	Kansas	Montgomery	acsc_rate	88
+20127	Kansas	Morris	acsc_rate	101
+20129	Kansas	Morton	acsc_rate	141
+20131	Kansas	Nemaha	acsc_rate	67
+20133	Kansas	Neosho	acsc_rate	106
+20135	Kansas	Ness	acsc_rate	78
+20137	Kansas	Norton	acsc_rate	98
+20139	Kansas	Osage	acsc_rate	44
+20141	Kansas	Osborne	acsc_rate	75
+20143	Kansas	Ottawa	acsc_rate	59
+20145	Kansas	Pawnee	acsc_rate	76
+20147	Kansas	Phillips	acsc_rate	98
+20149	Kansas	Pottawatomie	acsc_rate	67
+20151	Kansas	Pratt	acsc_rate	57
+20153	Kansas	Rawlins	acsc_rate	120
+20155	Kansas	Reno	acsc_rate	59
+20157	Kansas	Republic	acsc_rate	122
+20159	Kansas	Rice	acsc_rate	66
+20161	Kansas	Riley	acsc_rate	38
+20163	Kansas	Rooks	acsc_rate	51
+20165	Kansas	Rush	acsc_rate	76
+20167	Kansas	Russell	acsc_rate	83
+20169	Kansas	Saline	acsc_rate	42
+20171	Kansas	Scott	acsc_rate	129
+20173	Kansas	Sedgwick	acsc_rate	48
+20175	Kansas	Seward	acsc_rate	78
+20177	Kansas	Shawnee	acsc_rate	59
+20179	Kansas	Sheridan	acsc_rate	143
+20181	Kansas	Sherman	acsc_rate	70
+20183	Kansas	Smith	acsc_rate	60
+20185	Kansas	Stafford	acsc_rate	62
+20187	Kansas	Stanton	acsc_rate	
+20189	Kansas	Stevens	acsc_rate	163
+20191	Kansas	Sumner	acsc_rate	45
+20193	Kansas	Thomas	acsc_rate	97
+20195	Kansas	Trego	acsc_rate	248
+20197	Kansas	Wabaunsee	acsc_rate	57
+20199	Kansas	Wallace	acsc_rate	
+20201	Kansas	Washington	acsc_rate	82
+20203	Kansas	Wichita	acsc_rate	92
+20205	Kansas	Wilson	acsc_rate	95
+20207	Kansas	Woodson	acsc_rate	130
+20209	Kansas	Wyandotte	acsc_rate	69
+21001	Kentucky	Adair	acsc_rate	218
+21003	Kentucky	Allen	acsc_rate	102
+21005	Kentucky	Anderson	acsc_rate	76
+21007	Kentucky	Ballard	acsc_rate	106
+21009	Kentucky	Barren	acsc_rate	75
+21011	Kentucky	Bath	acsc_rate	94
+21013	Kentucky	Bell	acsc_rate	252
+21015	Kentucky	Boone	acsc_rate	90
+21017	Kentucky	Bourbon	acsc_rate	90
+21019	Kentucky	Boyd	acsc_rate	99
+21021	Kentucky	Boyle	acsc_rate	90
+21023	Kentucky	Bracken	acsc_rate	100
+21025	Kentucky	Breathitt	acsc_rate	210
+21027	Kentucky	Breckinridge	acsc_rate	153
+21029	Kentucky	Bullitt	acsc_rate	86
+21031	Kentucky	Butler	acsc_rate	157
+21033	Kentucky	Caldwell	acsc_rate	106
+21035	Kentucky	Calloway	acsc_rate	106
+21037	Kentucky	Campbell	acsc_rate	85
+21039	Kentucky	Carlisle	acsc_rate	106
+21041	Kentucky	Carroll	acsc_rate	138
+21043	Kentucky	Carter	acsc_rate	85
+21045	Kentucky	Casey	acsc_rate	181
+21047	Kentucky	Christian	acsc_rate	105
+21049	Kentucky	Clark	acsc_rate	69
+21051	Kentucky	Clay	acsc_rate	249
+21053	Kentucky	Clinton	acsc_rate	244
+21055	Kentucky	Crittenden	acsc_rate	173
+21057	Kentucky	Cumberland	acsc_rate	236
+21059	Kentucky	Daviess	acsc_rate	67
+21061	Kentucky	Edmonson	acsc_rate	125
+21063	Kentucky	Elliott	acsc_rate	149
+21065	Kentucky	Estill	acsc_rate	115
+21067	Kentucky	Fayette	acsc_rate	57
+21069	Kentucky	Fleming	acsc_rate	163
+21071	Kentucky	Floyd	acsc_rate	203
+21073	Kentucky	Franklin	acsc_rate	95
+21075	Kentucky	Fulton	acsc_rate	141
+21077	Kentucky	Gallatin	acsc_rate	143
+21079	Kentucky	Garrard	acsc_rate	72
+21081	Kentucky	Grant	acsc_rate	111
+21083	Kentucky	Graves	acsc_rate	124
+21085	Kentucky	Grayson	acsc_rate	100
+21087	Kentucky	Green	acsc_rate	106
+21089	Kentucky	Greenup	acsc_rate	127
+21091	Kentucky	Hancock	acsc_rate	71
+21093	Kentucky	Hardin	acsc_rate	89
+21095	Kentucky	Harlan	acsc_rate	207
+21097	Kentucky	Harrison	acsc_rate	103
+21099	Kentucky	Hart	acsc_rate	119
+21101	Kentucky	Henderson	acsc_rate	138
+21103	Kentucky	Henry	acsc_rate	94
+21105	Kentucky	Hickman	acsc_rate	129
+21107	Kentucky	Hopkins	acsc_rate	74
+21109	Kentucky	Jackson	acsc_rate	106
+21111	Kentucky	Jefferson	acsc_rate	72
+21113	Kentucky	Jessamine	acsc_rate	55
+21115	Kentucky	Johnson	acsc_rate	206
+21117	Kentucky	Kenton	acsc_rate	82
+21119	Kentucky	Knott	acsc_rate	231
+21121	Kentucky	Knox	acsc_rate	176
+21123	Kentucky	Larue	acsc_rate	80
+21125	Kentucky	Laurel	acsc_rate	109
+21127	Kentucky	Lawrence	acsc_rate	213
+21129	Kentucky	Lee	acsc_rate	130
+21131	Kentucky	Leslie	acsc_rate	250
+21133	Kentucky	Letcher	acsc_rate	221
+21135	Kentucky	Lewis	acsc_rate	117
+21137	Kentucky	Lincoln	acsc_rate	107
+21139	Kentucky	Livingston	acsc_rate	135
+21141	Kentucky	Logan	acsc_rate	152
+21143	Kentucky	Lyon	acsc_rate	115
+21145	Kentucky	McCracken	acsc_rate	102
+21147	Kentucky	McCreary	acsc_rate	116
+21149	Kentucky	McLean	acsc_rate	80
+21151	Kentucky	Madison	acsc_rate	68
+21153	Kentucky	Magoffin	acsc_rate	191
+21155	Kentucky	Marion	acsc_rate	93
+21157	Kentucky	Marshall	acsc_rate	109
+21159	Kentucky	Martin	acsc_rate	197
+21161	Kentucky	Mason	acsc_rate	95
+21163	Kentucky	Meade	acsc_rate	88
+21165	Kentucky	Menifee	acsc_rate	101
+21167	Kentucky	Mercer	acsc_rate	101
+21169	Kentucky	Metcalfe	acsc_rate	129
+21171	Kentucky	Monroe	acsc_rate	232
+21173	Kentucky	Montgomery	acsc_rate	79
+21175	Kentucky	Morgan	acsc_rate	161
+21177	Kentucky	Muhlenberg	acsc_rate	107
+21179	Kentucky	Nelson	acsc_rate	67
+21181	Kentucky	Nicholas	acsc_rate	103
+21183	Kentucky	Ohio	acsc_rate	112
+21185	Kentucky	Oldham	acsc_rate	83
+21187	Kentucky	Owen	acsc_rate	163
+21189	Kentucky	Owsley	acsc_rate	183
+21191	Kentucky	Pendleton	acsc_rate	91
+21193	Kentucky	Perry	acsc_rate	203
+21195	Kentucky	Pike	acsc_rate	147
+21197	Kentucky	Powell	acsc_rate	105
+21199	Kentucky	Pulaski	acsc_rate	98
+21201	Kentucky	Robertson	acsc_rate	
+21203	Kentucky	Rockcastle	acsc_rate	144
+21205	Kentucky	Rowan	acsc_rate	105
+21207	Kentucky	Russell	acsc_rate	110
+21209	Kentucky	Scott	acsc_rate	66
+21211	Kentucky	Shelby	acsc_rate	72
+21213	Kentucky	Simpson	acsc_rate	131
+21215	Kentucky	Spencer	acsc_rate	68
+21217	Kentucky	Taylor	acsc_rate	87
+21219	Kentucky	Todd	acsc_rate	158
+21221	Kentucky	Trigg	acsc_rate	106
+21223	Kentucky	Trimble	acsc_rate	145
+21225	Kentucky	Union	acsc_rate	125
+21227	Kentucky	Warren	acsc_rate	94
+21229	Kentucky	Washington	acsc_rate	85
+21231	Kentucky	Wayne	acsc_rate	114
+21233	Kentucky	Webster	acsc_rate	102
+21235	Kentucky	Whitley	acsc_rate	117
+21237	Kentucky	Wolfe	acsc_rate	218
+21239	Kentucky	Woodford	acsc_rate	55
+22001	Louisiana	Acadia	acsc_rate	96
+22003	Louisiana	Allen	acsc_rate	146
+22005	Louisiana	Ascension	acsc_rate	61
+22007	Louisiana	Assumption	acsc_rate	80
+22009	Louisiana	Avoyelles	acsc_rate	135
+22011	Louisiana	Beauregard	acsc_rate	126
+22013	Louisiana	Bienville	acsc_rate	128
+22015	Louisiana	Bossier	acsc_rate	94
+22017	Louisiana	Caddo	acsc_rate	84
+22019	Louisiana	Calcasieu	acsc_rate	84
+22021	Louisiana	Caldwell	acsc_rate	233
+22023	Louisiana	Cameron	acsc_rate	123
+22025	Louisiana	Catahoula	acsc_rate	155
+22027	Louisiana	Claiborne	acsc_rate	116
+22029	Louisiana	Concordia	acsc_rate	132
+22031	Louisiana	De Soto	acsc_rate	109
+22033	Louisiana	East Baton Rouge	acsc_rate	54
+22035	Louisiana	East Carroll	acsc_rate	205
+22037	Louisiana	East Feliciana	acsc_rate	97
+22039	Louisiana	Evangeline	acsc_rate	193
+22041	Louisiana	Franklin	acsc_rate	159
+22043	Louisiana	Grant	acsc_rate	96
+22045	Louisiana	Iberia	acsc_rate	67
+22047	Louisiana	Iberville	acsc_rate	58
+22049	Louisiana	Jackson	acsc_rate	159
+22051	Louisiana	Jefferson	acsc_rate	77
+22053	Louisiana	Jefferson Davis	acsc_rate	132
+22055	Louisiana	Lafayette	acsc_rate	72
+22057	Louisiana	Lafourche	acsc_rate	99
+22059	Louisiana	La Salle	acsc_rate	218
+22061	Louisiana	Lincoln	acsc_rate	92
+22063	Louisiana	Livingston	acsc_rate	87
+22065	Louisiana	Madison	acsc_rate	131
+22067	Louisiana	Morehouse	acsc_rate	80
+22069	Louisiana	Natchitoches	acsc_rate	106
+22071	Louisiana	Orleans	acsc_rate	57
+22073	Louisiana	Ouachita	acsc_rate	92
+22075	Louisiana	Plaquemines	acsc_rate	108
+22077	Louisiana	Pointe Coupee	acsc_rate	106
+22079	Louisiana	Rapides	acsc_rate	74
+22081	Louisiana	Red River	acsc_rate	148
+22083	Louisiana	Richland	acsc_rate	130
+22085	Louisiana	Sabine	acsc_rate	138
+22087	Louisiana	St. Bernard	acsc_rate	91
+22089	Louisiana	St. Charles	acsc_rate	96
+22091	Louisiana	St. Helena	acsc_rate	118
+22093	Louisiana	St. James	acsc_rate	89
+22095	Louisiana	St. John the Baptist	acsc_rate	87
+22097	Louisiana	St. Landry	acsc_rate	88
+22099	Louisiana	St. Martin	acsc_rate	75
+22101	Louisiana	St. Mary	acsc_rate	91
+22103	Louisiana	St. Tammany	acsc_rate	92
+22105	Louisiana	Tangipahoa	acsc_rate	116
+22107	Louisiana	Tensas	acsc_rate	91
+22109	Louisiana	Terrebonne	acsc_rate	83
+22111	Louisiana	Union	acsc_rate	113
+22113	Louisiana	Vermilion	acsc_rate	116
+22115	Louisiana	Vernon	acsc_rate	178
+22117	Louisiana	Washington	acsc_rate	121
+22119	Louisiana	Webster	acsc_rate	104
+22121	Louisiana	West Baton Rouge	acsc_rate	57
+22123	Louisiana	West Carroll	acsc_rate	250
+22125	Louisiana	West Feliciana	acsc_rate	82
+22127	Louisiana	Winn	acsc_rate	168
+23001	Maine	Androscoggin	acsc_rate	58
+23003	Maine	Aroostook	acsc_rate	73
+23005	Maine	Cumberland	acsc_rate	46
+23007	Maine	Franklin	acsc_rate	68
+23009	Maine	Hancock	acsc_rate	65
+23011	Maine	Kennebec	acsc_rate	54
+23013	Maine	Knox	acsc_rate	49
+23015	Maine	Lincoln	acsc_rate	55
+23017	Maine	Oxford	acsc_rate	64
+23019	Maine	Penobscot	acsc_rate	78
+23021	Maine	Piscataquis	acsc_rate	60
+23023	Maine	Sagadahoc	acsc_rate	54
+23025	Maine	Somerset	acsc_rate	72
+23027	Maine	Waldo	acsc_rate	56
+23029	Maine	Washington	acsc_rate	87
+23031	Maine	York	acsc_rate	55
+24001	Maryland	Allegany	acsc_rate	99
+24003	Maryland	Anne Arundel	acsc_rate	70
+24005	Maryland	Baltimore	acsc_rate	65
+24009	Maryland	Calvert	acsc_rate	72
+24011	Maryland	Caroline	acsc_rate	89
+24013	Maryland	Carroll	acsc_rate	69
+24015	Maryland	Cecil	acsc_rate	98
+24017	Maryland	Charles	acsc_rate	76
+24019	Maryland	Dorchester	acsc_rate	78
+24021	Maryland	Frederick	acsc_rate	68
+24023	Maryland	Garrett	acsc_rate	60
+24025	Maryland	Harford	acsc_rate	62
+24027	Maryland	Howard	acsc_rate	50
+24029	Maryland	Kent	acsc_rate	74
+24031	Maryland	Montgomery	acsc_rate	42
+24033	Maryland	Prince George's	acsc_rate	54
+24035	Maryland	Queen Anne's	acsc_rate	55
+24037	Maryland	St. Mary's	acsc_rate	79
+24039	Maryland	Somerset	acsc_rate	89
+24041	Maryland	Talbot	acsc_rate	54
+24043	Maryland	Washington	acsc_rate	63
+24045	Maryland	Wicomico	acsc_rate	70
+24047	Maryland	Worcester	acsc_rate	55
+24510	Maryland	Baltimore City	acsc_rate	76
+25001	Massachusetts	Barnstable	acsc_rate	47
+25003	Massachusetts	Berkshire	acsc_rate	54
+25005	Massachusetts	Bristol	acsc_rate	83
+25007	Massachusetts	Dukes	acsc_rate	63
+25009	Massachusetts	Essex	acsc_rate	75
+25011	Massachusetts	Franklin	acsc_rate	59
+25013	Massachusetts	Hampden	acsc_rate	72
+25015	Massachusetts	Hampshire	acsc_rate	58
+25017	Massachusetts	Middlesex	acsc_rate	71
+25019	Massachusetts	Nantucket	acsc_rate	42
+25021	Massachusetts	Norfolk	acsc_rate	73
+25023	Massachusetts	Plymouth	acsc_rate	85
+25025	Massachusetts	Suffolk	acsc_rate	78
+25027	Massachusetts	Worcester	acsc_rate	78
+26001	Michigan	Alcona	acsc_rate	54
+26003	Michigan	Alger	acsc_rate	71
+26005	Michigan	Allegan	acsc_rate	64
+26007	Michigan	Alpena	acsc_rate	54
+26009	Michigan	Antrim	acsc_rate	50
+26011	Michigan	Arenac	acsc_rate	91
+26013	Michigan	Baraga	acsc_rate	108
+26015	Michigan	Barry	acsc_rate	74
+26017	Michigan	Bay	acsc_rate	80
+26019	Michigan	Benzie	acsc_rate	53
+26021	Michigan	Berrien	acsc_rate	51
+26023	Michigan	Branch	acsc_rate	87
+26025	Michigan	Calhoun	acsc_rate	72
+26027	Michigan	Cass	acsc_rate	84
+26029	Michigan	Charlevoix	acsc_rate	56
+26031	Michigan	Cheboygan	acsc_rate	52
+26033	Michigan	Chippewa	acsc_rate	64
+26035	Michigan	Clare	acsc_rate	90
+26037	Michigan	Clinton	acsc_rate	63
+26039	Michigan	Crawford	acsc_rate	56
+26041	Michigan	Delta	acsc_rate	65
+26043	Michigan	Dickinson	acsc_rate	41
+26045	Michigan	Eaton	acsc_rate	64
+26047	Michigan	Emmet	acsc_rate	44
+26049	Michigan	Genesee	acsc_rate	65
+26051	Michigan	Gladwin	acsc_rate	96
+26053	Michigan	Gogebic	acsc_rate	48
+26055	Michigan	Grand Traverse	acsc_rate	54
+26057	Michigan	Gratiot	acsc_rate	82
+26059	Michigan	Hillsdale	acsc_rate	79
+26061	Michigan	Houghton	acsc_rate	76
+26063	Michigan	Huron	acsc_rate	60
+26065	Michigan	Ingham	acsc_rate	65
+26067	Michigan	Ionia	acsc_rate	71
+26069	Michigan	Iosco	acsc_rate	47
+26071	Michigan	Iron	acsc_rate	63
+26073	Michigan	Isabella	acsc_rate	80
+26075	Michigan	Jackson	acsc_rate	69
+26077	Michigan	Kalamazoo	acsc_rate	56
+26079	Michigan	Kalkaska	acsc_rate	63
+26081	Michigan	Kent	acsc_rate	51
+26083	Michigan	Keweenaw	acsc_rate	74
+26085	Michigan	Lake	acsc_rate	62
+26087	Michigan	Lapeer	acsc_rate	84
+26089	Michigan	Leelanau	acsc_rate	42
+26091	Michigan	Lenawee	acsc_rate	63
+26093	Michigan	Livingston	acsc_rate	71
+26095	Michigan	Luce	acsc_rate	90
+26097	Michigan	Mackinac	acsc_rate	59
+26099	Michigan	Macomb	acsc_rate	80
+26101	Michigan	Manistee	acsc_rate	53
+26103	Michigan	Marquette	acsc_rate	39
+26105	Michigan	Mason	acsc_rate	55
+26107	Michigan	Mecosta	acsc_rate	59
+26109	Michigan	Menominee	acsc_rate	72
+26111	Michigan	Midland	acsc_rate	63
+26113	Michigan	Missaukee	acsc_rate	41
+26115	Michigan	Monroe	acsc_rate	88
+26117	Michigan	Montcalm	acsc_rate	77
+26119	Michigan	Montmorency	acsc_rate	47
+26121	Michigan	Muskegon	acsc_rate	37
+26123	Michigan	Newaygo	acsc_rate	63
+26125	Michigan	Oakland	acsc_rate	67
+26127	Michigan	Oceana	acsc_rate	58
+26129	Michigan	Ogemaw	acsc_rate	79
+26131	Michigan	Ontonagon	acsc_rate	108
+26133	Michigan	Osceola	acsc_rate	63
+26135	Michigan	Oscoda	acsc_rate	62
+26137	Michigan	Otsego	acsc_rate	58
+26139	Michigan	Ottawa	acsc_rate	37
+26141	Michigan	Presque Isle	acsc_rate	49
+26143	Michigan	Roscommon	acsc_rate	73
+26145	Michigan	Saginaw	acsc_rate	82
+26147	Michigan	St. Clair	acsc_rate	80
+26149	Michigan	St. Joseph	acsc_rate	81
+26151	Michigan	Sanilac	acsc_rate	95
+26153	Michigan	Schoolcraft	acsc_rate	56
+26155	Michigan	Shiawassee	acsc_rate	57
+26157	Michigan	Tuscola	acsc_rate	76
+26159	Michigan	Van Buren	acsc_rate	61
+26161	Michigan	Washtenaw	acsc_rate	59
+26163	Michigan	Wayne	acsc_rate	85
+26165	Michigan	Wexford	acsc_rate	55
+27001	Minnesota	Aitkin	acsc_rate	61
+27003	Minnesota	Anoka	acsc_rate	60
+27005	Minnesota	Becker	acsc_rate	55
+27007	Minnesota	Beltrami	acsc_rate	47
+27009	Minnesota	Benton	acsc_rate	67
+27011	Minnesota	Big Stone	acsc_rate	60
+27013	Minnesota	Blue Earth	acsc_rate	56
+27015	Minnesota	Brown	acsc_rate	58
+27017	Minnesota	Carlton	acsc_rate	47
+27019	Minnesota	Carver	acsc_rate	47
+27021	Minnesota	Cass	acsc_rate	55
+27023	Minnesota	Chippewa	acsc_rate	38
+27025	Minnesota	Chisago	acsc_rate	56
+27027	Minnesota	Clay	acsc_rate	44
+27029	Minnesota	Clearwater	acsc_rate	90
+27031	Minnesota	Cook	acsc_rate	33
+27033	Minnesota	Cottonwood	acsc_rate	37
+27035	Minnesota	Crow Wing	acsc_rate	62
+27037	Minnesota	Dakota	acsc_rate	48
+27039	Minnesota	Dodge	acsc_rate	55
+27041	Minnesota	Douglas	acsc_rate	39
+27043	Minnesota	Faribault	acsc_rate	44
+27045	Minnesota	Fillmore	acsc_rate	49
+27047	Minnesota	Freeborn	acsc_rate	41
+27049	Minnesota	Goodhue	acsc_rate	51
+27051	Minnesota	Grant	acsc_rate	67
+27053	Minnesota	Hennepin	acsc_rate	43
+27055	Minnesota	Houston	acsc_rate	32
+27057	Minnesota	Hubbard	acsc_rate	45
+27059	Minnesota	Isanti	acsc_rate	68
+27061	Minnesota	Itasca	acsc_rate	47
+27063	Minnesota	Jackson	acsc_rate	57
+27065	Minnesota	Kanabec	acsc_rate	60
+27067	Minnesota	Kandiyohi	acsc_rate	47
+27069	Minnesota	Kittson	acsc_rate	68
+27071	Minnesota	Koochiching	acsc_rate	47
+27073	Minnesota	Lac qui Parle	acsc_rate	82
+27075	Minnesota	Lake	acsc_rate	38
+27077	Minnesota	Lake of the Woods	acsc_rate	73
+27079	Minnesota	Le Sueur	acsc_rate	41
+27081	Minnesota	Lincoln	acsc_rate	46
+27083	Minnesota	Lyon	acsc_rate	51
+27085	Minnesota	McLeod	acsc_rate	50
+27087	Minnesota	Mahnomen	acsc_rate	67
+27089	Minnesota	Marshall	acsc_rate	77
+27091	Minnesota	Martin	acsc_rate	59
+27093	Minnesota	Meeker	acsc_rate	54
+27095	Minnesota	Mille Lacs	acsc_rate	62
+27097	Minnesota	Morrison	acsc_rate	53
+27099	Minnesota	Mower	acsc_rate	69
+27101	Minnesota	Murray	acsc_rate	60
+27103	Minnesota	Nicollet	acsc_rate	45
+27105	Minnesota	Nobles	acsc_rate	43
+27107	Minnesota	Norman	acsc_rate	63
+27109	Minnesota	Olmsted	acsc_rate	48
+27111	Minnesota	Otter Tail	acsc_rate	47
+27113	Minnesota	Pennington	acsc_rate	50
+27115	Minnesota	Pine	acsc_rate	64
+27117	Minnesota	Pipestone	acsc_rate	38
+27119	Minnesota	Polk	acsc_rate	56
+27121	Minnesota	Pope	acsc_rate	83
+27123	Minnesota	Ramsey	acsc_rate	44
+27125	Minnesota	Red Lake	acsc_rate	42
+27127	Minnesota	Redwood	acsc_rate	63
+27129	Minnesota	Renville	acsc_rate	59
+27131	Minnesota	Rice	acsc_rate	53
+27133	Minnesota	Rock	acsc_rate	58
+27135	Minnesota	Roseau	acsc_rate	54
+27137	Minnesota	St. Louis	acsc_rate	47
+27139	Minnesota	Scott	acsc_rate	67
+27141	Minnesota	Sherburne	acsc_rate	55
+27143	Minnesota	Sibley	acsc_rate	65
+27145	Minnesota	Stearns	acsc_rate	64
+27147	Minnesota	Steele	acsc_rate	61
+27149	Minnesota	Stevens	acsc_rate	105
+27151	Minnesota	Swift	acsc_rate	56
+27153	Minnesota	Todd	acsc_rate	56
+27155	Minnesota	Traverse	acsc_rate	26
+27157	Minnesota	Wabasha	acsc_rate	44
+27159	Minnesota	Wadena	acsc_rate	74
+27161	Minnesota	Waseca	acsc_rate	60
+27163	Minnesota	Washington	acsc_rate	43
+27165	Minnesota	Watonwan	acsc_rate	58
+27167	Minnesota	Wilkin	acsc_rate	59
+27169	Minnesota	Winona	acsc_rate	62
+27171	Minnesota	Wright	acsc_rate	57
+27173	Minnesota	Yellow Medicine	acsc_rate	74
+28001	Mississippi	Adams	acsc_rate	98
+28003	Mississippi	Alcorn	acsc_rate	133
+28005	Mississippi	Amite	acsc_rate	81
+28007	Mississippi	Attala	acsc_rate	100
+28009	Mississippi	Benton	acsc_rate	104
+28011	Mississippi	Bolivar	acsc_rate	109
+28013	Mississippi	Calhoun	acsc_rate	113
+28015	Mississippi	Carroll	acsc_rate	96
+28017	Mississippi	Chickasaw	acsc_rate	107
+28019	Mississippi	Choctaw	acsc_rate	88
+28021	Mississippi	Claiborne	acsc_rate	114
+28023	Mississippi	Clarke	acsc_rate	107
+28025	Mississippi	Clay	acsc_rate	107
+28027	Mississippi	Coahoma	acsc_rate	128
+28029	Mississippi	Copiah	acsc_rate	75
+28031	Mississippi	Covington	acsc_rate	99
+28033	Mississippi	DeSoto	acsc_rate	78
+28035	Mississippi	Forrest	acsc_rate	92
+28037	Mississippi	Franklin	acsc_rate	141
+28039	Mississippi	George	acsc_rate	139
+28041	Mississippi	Greene	acsc_rate	148
+28043	Mississippi	Grenada	acsc_rate	72
+28045	Mississippi	Hancock	acsc_rate	83
+28047	Mississippi	Harrison	acsc_rate	89
+28049	Mississippi	Hinds	acsc_rate	70
+28051	Mississippi	Holmes	acsc_rate	71
+28053	Mississippi	Humphreys	acsc_rate	82
+28055	Mississippi	Issaquena	acsc_rate	
+28057	Mississippi	Itawamba	acsc_rate	75
+28059	Mississippi	Jackson	acsc_rate	82
+28061	Mississippi	Jasper	acsc_rate	67
+28063	Mississippi	Jefferson	acsc_rate	118
+28065	Mississippi	Jefferson Davis	acsc_rate	115
+28067	Mississippi	Jones	acsc_rate	78
+28069	Mississippi	Kemper	acsc_rate	70
+28071	Mississippi	Lafayette	acsc_rate	58
+28073	Mississippi	Lamar	acsc_rate	81
+28075	Mississippi	Lauderdale	acsc_rate	84
+28077	Mississippi	Lawrence	acsc_rate	103
+28079	Mississippi	Leake	acsc_rate	136
+28081	Mississippi	Lee	acsc_rate	62
+28083	Mississippi	Leflore	acsc_rate	74
+28085	Mississippi	Lincoln	acsc_rate	81
+28087	Mississippi	Lowndes	acsc_rate	56
+28089	Mississippi	Madison	acsc_rate	67
+28091	Mississippi	Marion	acsc_rate	99
+28093	Mississippi	Marshall	acsc_rate	95
+28095	Mississippi	Monroe	acsc_rate	105
+28097	Mississippi	Montgomery	acsc_rate	119
+28099	Mississippi	Neshoba	acsc_rate	113
+28101	Mississippi	Newton	acsc_rate	104
+28103	Mississippi	Noxubee	acsc_rate	102
+28105	Mississippi	Oktibbeha	acsc_rate	58
+28107	Mississippi	Panola	acsc_rate	107
+28109	Mississippi	Pearl River	acsc_rate	111
+28111	Mississippi	Perry	acsc_rate	126
+28113	Mississippi	Pike	acsc_rate	117
+28115	Mississippi	Pontotoc	acsc_rate	88
+28117	Mississippi	Prentiss	acsc_rate	108
+28119	Mississippi	Quitman	acsc_rate	140
+28121	Mississippi	Rankin	acsc_rate	89
+28123	Mississippi	Scott	acsc_rate	131
+28125	Mississippi	Sharkey	acsc_rate	116
+28127	Mississippi	Simpson	acsc_rate	154
+28129	Mississippi	Smith	acsc_rate	103
+28131	Mississippi	Stone	acsc_rate	109
+28133	Mississippi	Sunflower	acsc_rate	105
+28135	Mississippi	Tallahatchie	acsc_rate	79
+28137	Mississippi	Tate	acsc_rate	119
+28139	Mississippi	Tippah	acsc_rate	100
+28141	Mississippi	Tishomingo	acsc_rate	118
+28143	Mississippi	Tunica	acsc_rate	110
+28145	Mississippi	Union	acsc_rate	85
+28147	Mississippi	Walthall	acsc_rate	126
+28149	Mississippi	Warren	acsc_rate	95
+28151	Mississippi	Washington	acsc_rate	74
+28153	Mississippi	Wayne	acsc_rate	124
+28155	Mississippi	Webster	acsc_rate	159
+28157	Mississippi	Wilkinson	acsc_rate	89
+28159	Mississippi	Winston	acsc_rate	59
+28161	Mississippi	Yalobusha	acsc_rate	119
+28163	Mississippi	Yazoo	acsc_rate	85
+29001	Missouri	Adair	acsc_rate	74
+29003	Missouri	Andrew	acsc_rate	83
+29005	Missouri	Atchison	acsc_rate	119
+29007	Missouri	Audrain	acsc_rate	87
+29009	Missouri	Barry	acsc_rate	51
+29011	Missouri	Barton	acsc_rate	100
+29013	Missouri	Bates	acsc_rate	132
+29015	Missouri	Benton	acsc_rate	85
+29017	Missouri	Bollinger	acsc_rate	73
+29019	Missouri	Boone	acsc_rate	55
+29021	Missouri	Buchanan	acsc_rate	89
+29023	Missouri	Butler	acsc_rate	85
+29025	Missouri	Caldwell	acsc_rate	99
+29027	Missouri	Callaway	acsc_rate	74
+29029	Missouri	Camden	acsc_rate	61
+29031	Missouri	Cape Girardeau	acsc_rate	57
+29033	Missouri	Carroll	acsc_rate	156
+29035	Missouri	Carter	acsc_rate	133
+29037	Missouri	Cass	acsc_rate	70
+29039	Missouri	Cedar	acsc_rate	73
+29041	Missouri	Chariton	acsc_rate	65
+29043	Missouri	Christian	acsc_rate	46
+29045	Missouri	Clark	acsc_rate	137
+29047	Missouri	Clay	acsc_rate	83
+29049	Missouri	Clinton	acsc_rate	89
+29051	Missouri	Cole	acsc_rate	73
+29053	Missouri	Cooper	acsc_rate	75
+29055	Missouri	Crawford	acsc_rate	90
+29057	Missouri	Dade	acsc_rate	51
+29059	Missouri	Dallas	acsc_rate	48
+29061	Missouri	Daviess	acsc_rate	108
+29063	Missouri	DeKalb	acsc_rate	99
+29065	Missouri	Dent	acsc_rate	106
+29067	Missouri	Douglas	acsc_rate	54
+29069	Missouri	Dunklin	acsc_rate	106
+29071	Missouri	Franklin	acsc_rate	74
+29073	Missouri	Gasconade	acsc_rate	64
+29075	Missouri	Gentry	acsc_rate	158
+29077	Missouri	Greene	acsc_rate	52
+29079	Missouri	Grundy	acsc_rate	115
+29081	Missouri	Harrison	acsc_rate	109
+29083	Missouri	Henry	acsc_rate	88
+29085	Missouri	Hickory	acsc_rate	67
+29087	Missouri	Holt	acsc_rate	75
+29089	Missouri	Howard	acsc_rate	52
+29091	Missouri	Howell	acsc_rate	66
+29093	Missouri	Iron	acsc_rate	93
+29095	Missouri	Jackson	acsc_rate	64
+29097	Missouri	Jasper	acsc_rate	73
+29099	Missouri	Jefferson	acsc_rate	98
+29101	Missouri	Johnson	acsc_rate	76
+29103	Missouri	Knox	acsc_rate	52
+29105	Missouri	Laclede	acsc_rate	80
+29107	Missouri	Lafayette	acsc_rate	98
+29109	Missouri	Lawrence	acsc_rate	57
+29111	Missouri	Lewis	acsc_rate	75
+29113	Missouri	Lincoln	acsc_rate	75
+29115	Missouri	Linn	acsc_rate	77
+29117	Missouri	Livingston	acsc_rate	86
+29119	Missouri	McDonald	acsc_rate	89
+29121	Missouri	Macon	acsc_rate	73
+29123	Missouri	Madison	acsc_rate	83
+29125	Missouri	Maries	acsc_rate	95
+29127	Missouri	Marion	acsc_rate	76
+29129	Missouri	Mercer	acsc_rate	99
+29131	Missouri	Miller	acsc_rate	79
+29133	Missouri	Mississippi	acsc_rate	88
+29135	Missouri	Moniteau	acsc_rate	53
+29137	Missouri	Monroe	acsc_rate	70
+29139	Missouri	Montgomery	acsc_rate	78
+29141	Missouri	Morgan	acsc_rate	59
+29143	Missouri	New Madrid	acsc_rate	94
+29145	Missouri	Newton	acsc_rate	72
+29147	Missouri	Nodaway	acsc_rate	61
+29149	Missouri	Oregon	acsc_rate	57
+29151	Missouri	Osage	acsc_rate	81
+29153	Missouri	Ozark	acsc_rate	58
+29155	Missouri	Pemiscot	acsc_rate	149
+29157	Missouri	Perry	acsc_rate	68
+29159	Missouri	Pettis	acsc_rate	90
+29161	Missouri	Phelps	acsc_rate	86
+29163	Missouri	Pike	acsc_rate	79
+29165	Missouri	Platte	acsc_rate	61
+29167	Missouri	Polk	acsc_rate	52
+29169	Missouri	Pulaski	acsc_rate	72
+29171	Missouri	Putnam	acsc_rate	109
+29173	Missouri	Ralls	acsc_rate	70
+29175	Missouri	Randolph	acsc_rate	63
+29177	Missouri	Ray	acsc_rate	126
+29179	Missouri	Reynolds	acsc_rate	99
+29181	Missouri	Ripley	acsc_rate	114
+29183	Missouri	St. Charles	acsc_rate	63
+29185	Missouri	St. Clair	acsc_rate	108
+29186	Missouri	Ste. Genevieve	acsc_rate	102
+29187	Missouri	St. Francois	acsc_rate	99
+29189	Missouri	St. Louis	acsc_rate	59
+29195	Missouri	Saline	acsc_rate	74
+29197	Missouri	Schuyler	acsc_rate	98
+29199	Missouri	Scotland	acsc_rate	123
+29201	Missouri	Scott	acsc_rate	94
+29203	Missouri	Shannon	acsc_rate	97
+29205	Missouri	Shelby	acsc_rate	48
+29207	Missouri	Stoddard	acsc_rate	113
+29209	Missouri	Stone	acsc_rate	44
+29211	Missouri	Sullivan	acsc_rate	143
+29213	Missouri	Taney	acsc_rate	67
+29215	Missouri	Texas	acsc_rate	76
+29217	Missouri	Vernon	acsc_rate	92
+29219	Missouri	Warren	acsc_rate	68
+29221	Missouri	Washington	acsc_rate	142
+29223	Missouri	Wayne	acsc_rate	97
+29225	Missouri	Webster	acsc_rate	66
+29227	Missouri	Worth	acsc_rate	97
+29229	Missouri	Wright	acsc_rate	50
+29510	Missouri	St. Louis City	acsc_rate	76
+30001	Montana	Beaverhead	acsc_rate	67
+30003	Montana	Big Horn	acsc_rate	117
+30005	Montana	Blaine	acsc_rate	82
+30007	Montana	Broadwater	acsc_rate	51
+30009	Montana	Carbon	acsc_rate	70
+30011	Montana	Carter	acsc_rate	
+30013	Montana	Cascade	acsc_rate	52
+30015	Montana	Chouteau	acsc_rate	69
+30017	Montana	Custer	acsc_rate	83
+30019	Montana	Daniels	acsc_rate	46
+30021	Montana	Dawson	acsc_rate	73
+30023	Montana	Deer Lodge	acsc_rate	89
+30025	Montana	Fallon	acsc_rate	84
+30027	Montana	Fergus	acsc_rate	46
+30029	Montana	Flathead	acsc_rate	47
+30031	Montana	Gallatin	acsc_rate	34
+30033	Montana	Garfield	acsc_rate	
+30035	Montana	Glacier	acsc_rate	158
+30037	Montana	Golden Valley	acsc_rate	
+30039	Montana	Granite	acsc_rate	56
+30041	Montana	Hill	acsc_rate	66
+30043	Montana	Jefferson	acsc_rate	30
+30045	Montana	Judith Basin	acsc_rate	
+30047	Montana	Lake	acsc_rate	53
+30049	Montana	Lewis and Clark	acsc_rate	42
+30051	Montana	Liberty	acsc_rate	
+30053	Montana	Lincoln	acsc_rate	56
+30055	Montana	McCone	acsc_rate	
+30057	Montana	Madison	acsc_rate	85
+30059	Montana	Meagher	acsc_rate	
+30061	Montana	Mineral	acsc_rate	56
+30063	Montana	Missoula	acsc_rate	41
+30065	Montana	Musselshell	acsc_rate	40
+30067	Montana	Park	acsc_rate	58
+30069	Montana	Petroleum	acsc_rate	
+30071	Montana	Phillips	acsc_rate	70
+30073	Montana	Pondera	acsc_rate	87
+30075	Montana	Powder River	acsc_rate	
+30077	Montana	Powell	acsc_rate	84
+30079	Montana	Prairie	acsc_rate	
+30081	Montana	Ravalli	acsc_rate	50
+30083	Montana	Richland	acsc_rate	67
+30085	Montana	Roosevelt	acsc_rate	89
+30087	Montana	Rosebud	acsc_rate	98
+30089	Montana	Sanders	acsc_rate	46
+30091	Montana	Sheridan	acsc_rate	59
+30093	Montana	Silver Bow	acsc_rate	51
+30095	Montana	Stillwater	acsc_rate	53
+30097	Montana	Sweet Grass	acsc_rate	46
+30099	Montana	Teton	acsc_rate	55
+30101	Montana	Toole	acsc_rate	73
+30103	Montana	Treasure	acsc_rate	
+30105	Montana	Valley	acsc_rate	59
+30107	Montana	Wheatland	acsc_rate	
+30109	Montana	Wibaux	acsc_rate	
+30111	Montana	Yellowstone	acsc_rate	60
+31001	Nebraska	Adams	acsc_rate	75
+31003	Nebraska	Antelope	acsc_rate	86
+31005	Nebraska	Arthur	acsc_rate	
+31007	Nebraska	Banner	acsc_rate	
+31009	Nebraska	Blaine	acsc_rate	
+31011	Nebraska	Boone	acsc_rate	77
+31013	Nebraska	Box Butte	acsc_rate	107
+31015	Nebraska	Boyd	acsc_rate	87
+31017	Nebraska	Brown	acsc_rate	68
+31019	Nebraska	Buffalo	acsc_rate	60
+31021	Nebraska	Burt	acsc_rate	61
+31023	Nebraska	Butler	acsc_rate	54
+31025	Nebraska	Cass	acsc_rate	55
+31027	Nebraska	Cedar	acsc_rate	75
+31029	Nebraska	Chase	acsc_rate	60
+31031	Nebraska	Cherry	acsc_rate	76
+31033	Nebraska	Cheyenne	acsc_rate	82
+31035	Nebraska	Clay	acsc_rate	74
+31037	Nebraska	Colfax	acsc_rate	63
+31039	Nebraska	Cuming	acsc_rate	57
+31041	Nebraska	Custer	acsc_rate	119
+31043	Nebraska	Dakota	acsc_rate	66
+31045	Nebraska	Dawes	acsc_rate	57
+31047	Nebraska	Dawson	acsc_rate	79
+31049	Nebraska	Deuel	acsc_rate	55
+31051	Nebraska	Dixon	acsc_rate	47
+31053	Nebraska	Dodge	acsc_rate	56
+31055	Nebraska	Douglas	acsc_rate	60
+31057	Nebraska	Dundy	acsc_rate	50
+31059	Nebraska	Fillmore	acsc_rate	67
+31061	Nebraska	Franklin	acsc_rate	74
+31063	Nebraska	Frontier	acsc_rate	72
+31065	Nebraska	Furnas	acsc_rate	101
+31067	Nebraska	Gage	acsc_rate	52
+31069	Nebraska	Garden	acsc_rate	56
+31071	Nebraska	Garfield	acsc_rate	78
+31073	Nebraska	Gosper	acsc_rate	
+31075	Nebraska	Grant	acsc_rate	
+31077	Nebraska	Greeley	acsc_rate	55
+31079	Nebraska	Hall	acsc_rate	73
+31081	Nebraska	Hamilton	acsc_rate	66
+31083	Nebraska	Harlan	acsc_rate	74
+31085	Nebraska	Hayes	acsc_rate	
+31087	Nebraska	Hitchcock	acsc_rate	102
+31089	Nebraska	Holt	acsc_rate	81
+31091	Nebraska	Hooker	acsc_rate	
+31093	Nebraska	Howard	acsc_rate	61
+31095	Nebraska	Jefferson	acsc_rate	59
+31097	Nebraska	Johnson	acsc_rate	90
+31099	Nebraska	Kearney	acsc_rate	37
+31101	Nebraska	Keith	acsc_rate	71
+31103	Nebraska	Keya Paha	acsc_rate	
+31105	Nebraska	Kimball	acsc_rate	84
+31107	Nebraska	Knox	acsc_rate	73
+31109	Nebraska	Lancaster	acsc_rate	62
+31111	Nebraska	Lincoln	acsc_rate	78
+31113	Nebraska	Logan	acsc_rate	
+31115	Nebraska	Loup	acsc_rate	
+31117	Nebraska	McPherson	acsc_rate	
+31119	Nebraska	Madison	acsc_rate	57
+31121	Nebraska	Merrick	acsc_rate	102
+31123	Nebraska	Morrill	acsc_rate	75
+31125	Nebraska	Nance	acsc_rate	74
+31127	Nebraska	Nemaha	acsc_rate	57
+31129	Nebraska	Nuckolls	acsc_rate	60
+31131	Nebraska	Otoe	acsc_rate	62
+31133	Nebraska	Pawnee	acsc_rate	34
+31135	Nebraska	Perkins	acsc_rate	90
+31137	Nebraska	Phelps	acsc_rate	65
+31139	Nebraska	Pierce	acsc_rate	74
+31141	Nebraska	Platte	acsc_rate	68
+31143	Nebraska	Polk	acsc_rate	74
+31145	Nebraska	Red Willow	acsc_rate	79
+31147	Nebraska	Richardson	acsc_rate	90
+31149	Nebraska	Rock	acsc_rate	
+31151	Nebraska	Saline	acsc_rate	62
+31153	Nebraska	Sarpy	acsc_rate	59
+31155	Nebraska	Saunders	acsc_rate	71
+31157	Nebraska	Scotts Bluff	acsc_rate	53
+31159	Nebraska	Seward	acsc_rate	62
+31161	Nebraska	Sheridan	acsc_rate	52
+31163	Nebraska	Sherman	acsc_rate	73
+31165	Nebraska	Sioux	acsc_rate	
+31167	Nebraska	Stanton	acsc_rate	41
+31169	Nebraska	Thayer	acsc_rate	60
+31171	Nebraska	Thomas	acsc_rate	
+31173	Nebraska	Thurston	acsc_rate	104
+31175	Nebraska	Valley	acsc_rate	75
+31177	Nebraska	Washington	acsc_rate	52
+31179	Nebraska	Wayne	acsc_rate	50
+31181	Nebraska	Webster	acsc_rate	89
+31183	Nebraska	Wheeler	acsc_rate	
+31185	Nebraska	York	acsc_rate	72
+32001	Nevada	Churchill	acsc_rate	91
+32003	Nevada	Clark	acsc_rate	60
+32005	Nevada	Douglas	acsc_rate	40
+32007	Nevada	Elko	acsc_rate	68
+32009	Nevada	Esmeralda	acsc_rate	
+32011	Nevada	Eureka	acsc_rate	
+32013	Nevada	Humboldt	acsc_rate	53
+32015	Nevada	Lander	acsc_rate	35
+32017	Nevada	Lincoln	acsc_rate	44
+32019	Nevada	Lyon	acsc_rate	68
+32021	Nevada	Mineral	acsc_rate	139
+32023	Nevada	Nye	acsc_rate	73
+32027	Nevada	Pershing	acsc_rate	65
+32029	Nevada	Storey	acsc_rate	
+32031	Nevada	Washoe	acsc_rate	50
+32033	Nevada	White Pine	acsc_rate	82
+32510	Nevada	Carson City	acsc_rate	49
+33001	New Hampshire	Belknap	acsc_rate	47
+33003	New Hampshire	Carroll	acsc_rate	52
+33005	New Hampshire	Cheshire	acsc_rate	47
+33007	New Hampshire	Coos	acsc_rate	69
+33009	New Hampshire	Grafton	acsc_rate	51
+33011	New Hampshire	Hillsborough	acsc_rate	59
+33013	New Hampshire	Merrimack	acsc_rate	64
+33015	New Hampshire	Rockingham	acsc_rate	59
+33017	New Hampshire	Strafford	acsc_rate	64
+33019	New Hampshire	Sullivan	acsc_rate	51
+34001	New Jersey	Atlantic	acsc_rate	73
+34003	New Jersey	Bergen	acsc_rate	61
+34005	New Jersey	Burlington	acsc_rate	68
+34007	New Jersey	Camden	acsc_rate	83
+34009	New Jersey	Cape May	acsc_rate	74
+34011	New Jersey	Cumberland	acsc_rate	82
+34013	New Jersey	Essex	acsc_rate	66
+34015	New Jersey	Gloucester	acsc_rate	90
+34017	New Jersey	Hudson	acsc_rate	90
+34019	New Jersey	Hunterdon	acsc_rate	54
+34021	New Jersey	Mercer	acsc_rate	75
+34023	New Jersey	Middlesex	acsc_rate	65
+34025	New Jersey	Monmouth	acsc_rate	67
+34027	New Jersey	Morris	acsc_rate	53
+34029	New Jersey	Ocean	acsc_rate	73
+34031	New Jersey	Passaic	acsc_rate	72
+34033	New Jersey	Salem	acsc_rate	98
+34035	New Jersey	Somerset	acsc_rate	58
+34037	New Jersey	Sussex	acsc_rate	80
+34039	New Jersey	Union	acsc_rate	55
+34041	New Jersey	Warren	acsc_rate	71
+35001	New Mexico	Bernalillo	acsc_rate	32
+35003	New Mexico	Catron	acsc_rate	30
+35005	New Mexico	Chaves	acsc_rate	62
+35006	New Mexico	Cibola	acsc_rate	75
+35007	New Mexico	Colfax	acsc_rate	55
+35009	New Mexico	Curry	acsc_rate	81
+35011	New Mexico	De Baca	acsc_rate	55
+35013	New Mexico	Dona Ana	acsc_rate	57
+35015	New Mexico	Eddy	acsc_rate	75
+35017	New Mexico	Grant	acsc_rate	54
+35019	New Mexico	Guadalupe	acsc_rate	75
+35021	New Mexico	Harding	acsc_rate	
+35023	New Mexico	Hidalgo	acsc_rate	46
+35025	New Mexico	Lea	acsc_rate	83
+35027	New Mexico	Lincoln	acsc_rate	55
+35028	New Mexico	Los Alamos	acsc_rate	31
+35029	New Mexico	Luna	acsc_rate	72
+35031	New Mexico	McKinley	acsc_rate	115
+35033	New Mexico	Mora	acsc_rate	57
+35035	New Mexico	Otero	acsc_rate	75
+35037	New Mexico	Quay	acsc_rate	63
+35039	New Mexico	Rio Arriba	acsc_rate	49
+35041	New Mexico	Roosevelt	acsc_rate	112
+35043	New Mexico	Sandoval	acsc_rate	45
+35045	New Mexico	San Juan	acsc_rate	68
+35047	New Mexico	San Miguel	acsc_rate	57
+35049	New Mexico	Santa Fe	acsc_rate	34
+35051	New Mexico	Sierra	acsc_rate	46
+35053	New Mexico	Socorro	acsc_rate	64
+35055	New Mexico	Taos	acsc_rate	62
+35057	New Mexico	Torrance	acsc_rate	35
+35059	New Mexico	Union	acsc_rate	76
+35061	New Mexico	Valencia	acsc_rate	33
+36001	New York	Albany	acsc_rate	62
+36003	New York	Allegany	acsc_rate	75
+36005	New York	Bronx	acsc_rate	81
+36007	New York	Broome	acsc_rate	62
+36009	New York	Cattaraugus	acsc_rate	90
+36011	New York	Cayuga	acsc_rate	87
+36013	New York	Chautauqua	acsc_rate	57
+36015	New York	Chemung	acsc_rate	101
+36017	New York	Chenango	acsc_rate	64
+36019	New York	Clinton	acsc_rate	91
+36021	New York	Columbia	acsc_rate	59
+36023	New York	Cortland	acsc_rate	105
+36025	New York	Delaware	acsc_rate	95
+36027	New York	Dutchess	acsc_rate	64
+36029	New York	Erie	acsc_rate	53
+36031	New York	Essex	acsc_rate	67
+36033	New York	Franklin	acsc_rate	78
+36035	New York	Fulton	acsc_rate	87
+36037	New York	Genesee	acsc_rate	83
+36039	New York	Greene	acsc_rate	56
+36041	New York	Hamilton	acsc_rate	50
+36043	New York	Herkimer	acsc_rate	98
+36045	New York	Jefferson	acsc_rate	72
+36047	New York	Kings	acsc_rate	75
+36049	New York	Lewis	acsc_rate	66
+36051	New York	Livingston	acsc_rate	63
+36053	New York	Madison	acsc_rate	72
+36055	New York	Monroe	acsc_rate	57
+36057	New York	Montgomery	acsc_rate	72
+36059	New York	Nassau	acsc_rate	60
+36061	New York	New York	acsc_rate	54
+36063	New York	Niagara	acsc_rate	86
+36065	New York	Oneida	acsc_rate	78
+36067	New York	Onondaga	acsc_rate	63
+36069	New York	Ontario	acsc_rate	72
+36071	New York	Orange	acsc_rate	73
+36073	New York	Orleans	acsc_rate	104
+36075	New York	Oswego	acsc_rate	87
+36077	New York	Otsego	acsc_rate	77
+36079	New York	Putnam	acsc_rate	62
+36081	New York	Queens	acsc_rate	62
+36083	New York	Rensselaer	acsc_rate	71
+36085	New York	Richmond	acsc_rate	60
+36087	New York	Rockland	acsc_rate	54
+36089	New York	St. Lawrence	acsc_rate	93
+36091	New York	Saratoga	acsc_rate	61
+36093	New York	Schenectady	acsc_rate	53
+36095	New York	Schoharie	acsc_rate	77
+36097	New York	Schuyler	acsc_rate	103
+36099	New York	Seneca	acsc_rate	67
+36101	New York	Steuben	acsc_rate	81
+36103	New York	Suffolk	acsc_rate	70
+36105	New York	Sullivan	acsc_rate	61
+36107	New York	Tioga	acsc_rate	71
+36109	New York	Tompkins	acsc_rate	49
+36111	New York	Ulster	acsc_rate	72
+36113	New York	Warren	acsc_rate	63
+36115	New York	Washington	acsc_rate	67
+36117	New York	Wayne	acsc_rate	83
+36119	New York	Westchester	acsc_rate	58
+36121	New York	Wyoming	acsc_rate	77
+36123	New York	Yates	acsc_rate	51
+37001	North Carolina	Alamance	acsc_rate	56
+37003	North Carolina	Alexander	acsc_rate	55
+37005	North Carolina	Alleghany	acsc_rate	79
+37007	North Carolina	Anson	acsc_rate	78
+37009	North Carolina	Ashe	acsc_rate	85
+37011	North Carolina	Avery	acsc_rate	113
+37013	North Carolina	Beaufort	acsc_rate	59
+37015	North Carolina	Bertie	acsc_rate	78
+37017	North Carolina	Bladen	acsc_rate	77
+37019	North Carolina	Brunswick	acsc_rate	54
+37021	North Carolina	Buncombe	acsc_rate	47
+37023	North Carolina	Burke	acsc_rate	58
+37025	North Carolina	Cabarrus	acsc_rate	74
+37027	North Carolina	Caldwell	acsc_rate	65
+37029	North Carolina	Camden	acsc_rate	71
+37031	North Carolina	Carteret	acsc_rate	70
+37033	North Carolina	Caswell	acsc_rate	56
+37035	North Carolina	Catawba	acsc_rate	43
+37037	North Carolina	Chatham	acsc_rate	54
+37039	North Carolina	Cherokee	acsc_rate	51
+37041	North Carolina	Chowan	acsc_rate	63
+37043	North Carolina	Clay	acsc_rate	59
+37045	North Carolina	Cleveland	acsc_rate	65
+37047	North Carolina	Columbus	acsc_rate	80
+37049	North Carolina	Craven	acsc_rate	56
+37051	North Carolina	Cumberland	acsc_rate	58
+37053	North Carolina	Currituck	acsc_rate	68
+37055	North Carolina	Dare	acsc_rate	53
+37057	North Carolina	Davidson	acsc_rate	78
+37059	North Carolina	Davie	acsc_rate	72
+37061	North Carolina	Duplin	acsc_rate	74
+37063	North Carolina	Durham	acsc_rate	49
+37065	North Carolina	Edgecombe	acsc_rate	83
+37067	North Carolina	Forsyth	acsc_rate	60
+37069	North Carolina	Franklin	acsc_rate	79
+37071	North Carolina	Gaston	acsc_rate	71
+37073	North Carolina	Gates	acsc_rate	84
+37075	North Carolina	Graham	acsc_rate	53
+37077	North Carolina	Granville	acsc_rate	67
+37079	North Carolina	Greene	acsc_rate	64
+37081	North Carolina	Guilford	acsc_rate	53
+37083	North Carolina	Halifax	acsc_rate	85
+37085	North Carolina	Harnett	acsc_rate	96
+37087	North Carolina	Haywood	acsc_rate	59
+37089	North Carolina	Henderson	acsc_rate	50
+37091	North Carolina	Hertford	acsc_rate	72
+37093	North Carolina	Hoke	acsc_rate	92
+37095	North Carolina	Hyde	acsc_rate	76
+37097	North Carolina	Iredell	acsc_rate	67
+37099	North Carolina	Jackson	acsc_rate	58
+37101	North Carolina	Johnston	acsc_rate	93
+37103	North Carolina	Jones	acsc_rate	72
+37105	North Carolina	Lee	acsc_rate	84
+37107	North Carolina	Lenoir	acsc_rate	86
+37109	North Carolina	Lincoln	acsc_rate	57
+37111	North Carolina	McDowell	acsc_rate	48
+37113	North Carolina	Macon	acsc_rate	40
+37115	North Carolina	Madison	acsc_rate	55
+37117	North Carolina	Martin	acsc_rate	113
+37119	North Carolina	Mecklenburg	acsc_rate	47
+37121	North Carolina	Mitchell	acsc_rate	100
+37123	North Carolina	Montgomery	acsc_rate	71
+37125	North Carolina	Moore	acsc_rate	48
+37127	North Carolina	Nash	acsc_rate	64
+37129	North Carolina	New Hanover	acsc_rate	42
+37131	North Carolina	Northampton	acsc_rate	94
+37133	North Carolina	Onslow	acsc_rate	81
+37135	North Carolina	Orange	acsc_rate	39
+37137	North Carolina	Pamlico	acsc_rate	46
+37139	North Carolina	Pasquotank	acsc_rate	53
+37141	North Carolina	Pender	acsc_rate	58
+37143	North Carolina	Perquimans	acsc_rate	59
+37145	North Carolina	Person	acsc_rate	84
+37147	North Carolina	Pitt	acsc_rate	60
+37149	North Carolina	Polk	acsc_rate	59
+37151	North Carolina	Randolph	acsc_rate	66
+37153	North Carolina	Richmond	acsc_rate	108
+37155	North Carolina	Robeson	acsc_rate	99
+37157	North Carolina	Rockingham	acsc_rate	95
+37159	North Carolina	Rowan	acsc_rate	60
+37161	North Carolina	Rutherford	acsc_rate	72
+37163	North Carolina	Sampson	acsc_rate	85
+37165	North Carolina	Scotland	acsc_rate	84
+37167	North Carolina	Stanly	acsc_rate	58
+37169	North Carolina	Stokes	acsc_rate	83
+37171	North Carolina	Surry	acsc_rate	78
+37173	North Carolina	Swain	acsc_rate	96
+37175	North Carolina	Transylvania	acsc_rate	49
+37177	North Carolina	Tyrrell	acsc_rate	90
+37179	North Carolina	Union	acsc_rate	60
+37181	North Carolina	Vance	acsc_rate	57
+37183	North Carolina	Wake	acsc_rate	50
+37185	North Carolina	Warren	acsc_rate	53
+37187	North Carolina	Washington	acsc_rate	92
+37189	North Carolina	Watauga	acsc_rate	76
+37191	North Carolina	Wayne	acsc_rate	57
+37193	North Carolina	Wilkes	acsc_rate	93
+37195	North Carolina	Wilson	acsc_rate	70
+37197	North Carolina	Yadkin	acsc_rate	87
+37199	North Carolina	Yancey	acsc_rate	61
+38001	North Dakota	Adams	acsc_rate	82
+38003	North Dakota	Barnes	acsc_rate	40
+38005	North Dakota	Benson	acsc_rate	95
+38007	North Dakota	Billings	acsc_rate	
+38009	North Dakota	Bottineau	acsc_rate	73
+38011	North Dakota	Bowman	acsc_rate	86
+38013	North Dakota	Burke	acsc_rate	54
+38015	North Dakota	Burleigh	acsc_rate	39
+38017	North Dakota	Cass	acsc_rate	51
+38019	North Dakota	Cavalier	acsc_rate	88
+38021	North Dakota	Dickey	acsc_rate	42
+38023	North Dakota	Divide	acsc_rate	60
+38025	North Dakota	Dunn	acsc_rate	70
+38027	North Dakota	Eddy	acsc_rate	54
+38029	North Dakota	Emmons	acsc_rate	71
+38031	North Dakota	Foster	acsc_rate	54
+38033	North Dakota	Golden Valley	acsc_rate	47
+38035	North Dakota	Grand Forks	acsc_rate	51
+38037	North Dakota	Grant	acsc_rate	83
+38039	North Dakota	Griggs	acsc_rate	62
+38041	North Dakota	Hettinger	acsc_rate	84
+38043	North Dakota	Kidder	acsc_rate	44
+38045	North Dakota	LaMoure	acsc_rate	59
+38047	North Dakota	Logan	acsc_rate	75
+38049	North Dakota	McHenry	acsc_rate	76
+38051	North Dakota	McIntosh	acsc_rate	70
+38053	North Dakota	McKenzie	acsc_rate	96
+38055	North Dakota	McLean	acsc_rate	59
+38057	North Dakota	Mercer	acsc_rate	52
+38059	North Dakota	Morton	acsc_rate	40
+38061	North Dakota	Mountrail	acsc_rate	73
+38063	North Dakota	Nelson	acsc_rate	61
+38065	North Dakota	Oliver	acsc_rate	
+38067	North Dakota	Pembina	acsc_rate	81
+38069	North Dakota	Pierce	acsc_rate	62
+38071	North Dakota	Ramsey	acsc_rate	63
+38073	North Dakota	Ransom	acsc_rate	112
+38075	North Dakota	Renville	acsc_rate	50
+38077	North Dakota	Richland	acsc_rate	55
+38079	North Dakota	Rolette	acsc_rate	177
+38081	North Dakota	Sargent	acsc_rate	82
+38083	North Dakota	Sheridan	acsc_rate	
+38085	North Dakota	Sioux	acsc_rate	
+38087	North Dakota	Slope	acsc_rate	
+38089	North Dakota	Stark	acsc_rate	54
+38091	North Dakota	Steele	acsc_rate	
+38093	North Dakota	Stutsman	acsc_rate	54
+38095	North Dakota	Towner	acsc_rate	47
+38097	North Dakota	Traill	acsc_rate	66
+38099	North Dakota	Walsh	acsc_rate	65
+38101	North Dakota	Ward	acsc_rate	64
+38103	North Dakota	Wells	acsc_rate	117
+38105	North Dakota	Williams	acsc_rate	57
+39001	Ohio	Adams	acsc_rate	127
+39003	Ohio	Allen	acsc_rate	89
+39005	Ohio	Ashland	acsc_rate	58
+39007	Ohio	Ashtabula	acsc_rate	87
+39009	Ohio	Athens	acsc_rate	96
+39011	Ohio	Auglaize	acsc_rate	61
+39013	Ohio	Belmont	acsc_rate	131
+39015	Ohio	Brown	acsc_rate	106
+39017	Ohio	Butler	acsc_rate	83
+39019	Ohio	Carroll	acsc_rate	69
+39021	Ohio	Champaign	acsc_rate	75
+39023	Ohio	Clark	acsc_rate	73
+39025	Ohio	Clermont	acsc_rate	80
+39027	Ohio	Clinton	acsc_rate	94
+39029	Ohio	Columbiana	acsc_rate	100
+39031	Ohio	Coshocton	acsc_rate	90
+39033	Ohio	Crawford	acsc_rate	69
+39035	Ohio	Cuyahoga	acsc_rate	76
+39037	Ohio	Darke	acsc_rate	75
+39039	Ohio	Defiance	acsc_rate	94
+39041	Ohio	Delaware	acsc_rate	58
+39043	Ohio	Erie	acsc_rate	90
+39045	Ohio	Fairfield	acsc_rate	90
+39047	Ohio	Fayette	acsc_rate	69
+39049	Ohio	Franklin	acsc_rate	70
+39051	Ohio	Fulton	acsc_rate	57
+39053	Ohio	Gallia	acsc_rate	127
+39055	Ohio	Geauga	acsc_rate	64
+39057	Ohio	Greene	acsc_rate	51
+39059	Ohio	Guernsey	acsc_rate	100
+39061	Ohio	Hamilton	acsc_rate	68
+39063	Ohio	Hancock	acsc_rate	41
+39065	Ohio	Hardin	acsc_rate	92
+39067	Ohio	Harrison	acsc_rate	107
+39069	Ohio	Henry	acsc_rate	66
+39071	Ohio	Highland	acsc_rate	106
+39073	Ohio	Hocking	acsc_rate	101
+39075	Ohio	Holmes	acsc_rate	82
+39077	Ohio	Huron	acsc_rate	97
+39079	Ohio	Jackson	acsc_rate	122
+39081	Ohio	Jefferson	acsc_rate	122
+39083	Ohio	Knox	acsc_rate	74
+39085	Ohio	Lake	acsc_rate	77
+39087	Ohio	Lawrence	acsc_rate	105
+39089	Ohio	Licking	acsc_rate	72
+39091	Ohio	Logan	acsc_rate	65
+39093	Ohio	Lorain	acsc_rate	89
+39095	Ohio	Lucas	acsc_rate	86
+39097	Ohio	Madison	acsc_rate	93
+39099	Ohio	Mahoning	acsc_rate	71
+39101	Ohio	Marion	acsc_rate	107
+39103	Ohio	Medina	acsc_rate	76
+39105	Ohio	Meigs	acsc_rate	113
+39107	Ohio	Mercer	acsc_rate	65
+39109	Ohio	Miami	acsc_rate	72
+39111	Ohio	Monroe	acsc_rate	100
+39113	Ohio	Montgomery	acsc_rate	58
+39115	Ohio	Morgan	acsc_rate	100
+39117	Ohio	Morrow	acsc_rate	106
+39119	Ohio	Muskingum	acsc_rate	93
+39121	Ohio	Noble	acsc_rate	93
+39123	Ohio	Ottawa	acsc_rate	73
+39125	Ohio	Paulding	acsc_rate	87
+39127	Ohio	Perry	acsc_rate	94
+39129	Ohio	Pickaway	acsc_rate	98
+39131	Ohio	Pike	acsc_rate	105
+39133	Ohio	Portage	acsc_rate	86
+39135	Ohio	Preble	acsc_rate	90
+39137	Ohio	Putnam	acsc_rate	60
+39139	Ohio	Richland	acsc_rate	94
+39141	Ohio	Ross	acsc_rate	97
+39143	Ohio	Sandusky	acsc_rate	63
+39145	Ohio	Scioto	acsc_rate	120
+39147	Ohio	Seneca	acsc_rate	80
+39149	Ohio	Shelby	acsc_rate	69
+39151	Ohio	Stark	acsc_rate	64
+39153	Ohio	Summit	acsc_rate	77
+39155	Ohio	Trumbull	acsc_rate	88
+39157	Ohio	Tuscarawas	acsc_rate	100
+39159	Ohio	Union	acsc_rate	59
+39161	Ohio	Van Wert	acsc_rate	63
+39163	Ohio	Vinton	acsc_rate	132
+39165	Ohio	Warren	acsc_rate	62
+39167	Ohio	Washington	acsc_rate	100
+39169	Ohio	Wayne	acsc_rate	67
+39171	Ohio	Williams	acsc_rate	73
+39173	Ohio	Wood	acsc_rate	73
+39175	Ohio	Wyandot	acsc_rate	63
+40001	Oklahoma	Adair	acsc_rate	180
+40003	Oklahoma	Alfalfa	acsc_rate	70
+40005	Oklahoma	Atoka	acsc_rate	125
+40007	Oklahoma	Beaver	acsc_rate	92
+40009	Oklahoma	Beckham	acsc_rate	117
+40011	Oklahoma	Blaine	acsc_rate	90
+40013	Oklahoma	Bryan	acsc_rate	141
+40015	Oklahoma	Caddo	acsc_rate	93
+40017	Oklahoma	Canadian	acsc_rate	70
+40019	Oklahoma	Carter	acsc_rate	85
+40021	Oklahoma	Cherokee	acsc_rate	63
+40023	Oklahoma	Choctaw	acsc_rate	196
+40025	Oklahoma	Cimarron	acsc_rate	114
+40027	Oklahoma	Cleveland	acsc_rate	73
+40029	Oklahoma	Coal	acsc_rate	178
+40031	Oklahoma	Comanche	acsc_rate	67
+40033	Oklahoma	Cotton	acsc_rate	59
+40035	Oklahoma	Craig	acsc_rate	94
+40037	Oklahoma	Creek	acsc_rate	109
+40039	Oklahoma	Custer	acsc_rate	90
+40041	Oklahoma	Delaware	acsc_rate	87
+40043	Oklahoma	Dewey	acsc_rate	88
+40045	Oklahoma	Ellis	acsc_rate	80
+40047	Oklahoma	Garfield	acsc_rate	82
+40049	Oklahoma	Garvin	acsc_rate	99
+40051	Oklahoma	Grady	acsc_rate	65
+40053	Oklahoma	Grant	acsc_rate	92
+40055	Oklahoma	Greer	acsc_rate	129
+40057	Oklahoma	Harmon	acsc_rate	342
+40059	Oklahoma	Harper	acsc_rate	103
+40061	Oklahoma	Haskell	acsc_rate	111
+40063	Oklahoma	Hughes	acsc_rate	112
+40065	Oklahoma	Jackson	acsc_rate	125
+40067	Oklahoma	Jefferson	acsc_rate	145
+40069	Oklahoma	Johnston	acsc_rate	140
+40071	Oklahoma	Kay	acsc_rate	81
+40073	Oklahoma	Kingfisher	acsc_rate	98
+40075	Oklahoma	Kiowa	acsc_rate	157
+40077	Oklahoma	Latimer	acsc_rate	123
+40079	Oklahoma	Le Flore	acsc_rate	114
+40081	Oklahoma	Lincoln	acsc_rate	90
+40083	Oklahoma	Logan	acsc_rate	61
+40085	Oklahoma	Love	acsc_rate	110
+40087	Oklahoma	McClain	acsc_rate	93
+40089	Oklahoma	McCurtain	acsc_rate	114
+40091	Oklahoma	McIntosh	acsc_rate	72
+40093	Oklahoma	Major	acsc_rate	80
+40095	Oklahoma	Marshall	acsc_rate	110
+40097	Oklahoma	Mayes	acsc_rate	77
+40099	Oklahoma	Murray	acsc_rate	112
+40101	Oklahoma	Muskogee	acsc_rate	84
+40103	Oklahoma	Noble	acsc_rate	108
+40105	Oklahoma	Nowata	acsc_rate	78
+40107	Oklahoma	Okfuskee	acsc_rate	81
+40109	Oklahoma	Oklahoma	acsc_rate	61
+40111	Oklahoma	Okmulgee	acsc_rate	80
+40113	Oklahoma	Osage	acsc_rate	73
+40115	Oklahoma	Ottawa	acsc_rate	103
+40117	Oklahoma	Pawnee	acsc_rate	77
+40119	Oklahoma	Payne	acsc_rate	70
+40121	Oklahoma	Pittsburg	acsc_rate	82
+40123	Oklahoma	Pontotoc	acsc_rate	61
+40125	Oklahoma	Pottawatomie	acsc_rate	77
+40127	Oklahoma	Pushmataha	acsc_rate	169
+40129	Oklahoma	Roger Mills	acsc_rate	105
+40131	Oklahoma	Rogers	acsc_rate	87
+40133	Oklahoma	Seminole	acsc_rate	83
+40135	Oklahoma	Sequoyah	acsc_rate	88
+40137	Oklahoma	Stephens	acsc_rate	75
+40139	Oklahoma	Texas	acsc_rate	91
+40141	Oklahoma	Tillman	acsc_rate	140
+40143	Oklahoma	Tulsa	acsc_rate	65
+40145	Oklahoma	Wagoner	acsc_rate	83
+40147	Oklahoma	Washington	acsc_rate	35
+40149	Oklahoma	Washita	acsc_rate	117
+40151	Oklahoma	Woods	acsc_rate	95
+40153	Oklahoma	Woodward	acsc_rate	94
+41001	Oregon	Baker	acsc_rate	50
+41003	Oregon	Benton	acsc_rate	34
+41005	Oregon	Clackamas	acsc_rate	36
+41007	Oregon	Clatsop	acsc_rate	66
+41009	Oregon	Columbia	acsc_rate	47
+41011	Oregon	Coos	acsc_rate	63
+41013	Oregon	Crook	acsc_rate	41
+41015	Oregon	Curry	acsc_rate	45
+41017	Oregon	Deschutes	acsc_rate	32
+41019	Oregon	Douglas	acsc_rate	48
+41021	Oregon	Gilliam	acsc_rate	
+41023	Oregon	Grant	acsc_rate	56
+41025	Oregon	Harney	acsc_rate	63
+41027	Oregon	Hood River	acsc_rate	29
+41029	Oregon	Jackson	acsc_rate	44
+41031	Oregon	Jefferson	acsc_rate	43
+41033	Oregon	Josephine	acsc_rate	43
+41035	Oregon	Klamath	acsc_rate	36
+41037	Oregon	Lake	acsc_rate	82
+41039	Oregon	Lane	acsc_rate	39
+41041	Oregon	Lincoln	acsc_rate	46
+41043	Oregon	Linn	acsc_rate	53
+41045	Oregon	Malheur	acsc_rate	43
+41047	Oregon	Marion	acsc_rate	43
+41049	Oregon	Morrow	acsc_rate	50
+41051	Oregon	Multnomah	acsc_rate	42
+41053	Oregon	Polk	acsc_rate	35
+41055	Oregon	Sherman	acsc_rate	
+41057	Oregon	Tillamook	acsc_rate	41
+41059	Oregon	Umatilla	acsc_rate	43
+41061	Oregon	Union	acsc_rate	63
+41063	Oregon	Wallowa	acsc_rate	67
+41065	Oregon	Wasco	acsc_rate	55
+41067	Oregon	Washington	acsc_rate	35
+41069	Oregon	Wheeler	acsc_rate	
+41071	Oregon	Yamhill	acsc_rate	37
+42001	Pennsylvania	Adams	acsc_rate	54
+42003	Pennsylvania	Allegheny	acsc_rate	71
+42005	Pennsylvania	Armstrong	acsc_rate	89
+42007	Pennsylvania	Beaver	acsc_rate	78
+42009	Pennsylvania	Bedford	acsc_rate	58
+42011	Pennsylvania	Berks	acsc_rate	59
+42013	Pennsylvania	Blair	acsc_rate	68
+42015	Pennsylvania	Bradford	acsc_rate	80
+42017	Pennsylvania	Bucks	acsc_rate	73
+42019	Pennsylvania	Butler	acsc_rate	70
+42021	Pennsylvania	Cambria	acsc_rate	78
+42023	Pennsylvania	Cameron	acsc_rate	115
+42025	Pennsylvania	Carbon	acsc_rate	91
+42027	Pennsylvania	Centre	acsc_rate	64
+42029	Pennsylvania	Chester	acsc_rate	67
+42031	Pennsylvania	Clarion	acsc_rate	93
+42033	Pennsylvania	Clearfield	acsc_rate	79
+42035	Pennsylvania	Clinton	acsc_rate	95
+42037	Pennsylvania	Columbia	acsc_rate	91
+42039	Pennsylvania	Crawford	acsc_rate	74
+42041	Pennsylvania	Cumberland	acsc_rate	53
+42043	Pennsylvania	Dauphin	acsc_rate	53
+42045	Pennsylvania	Delaware	acsc_rate	76
+42047	Pennsylvania	Elk	acsc_rate	88
+42049	Pennsylvania	Erie	acsc_rate	55
+42051	Pennsylvania	Fayette	acsc_rate	94
+42053	Pennsylvania	Forest	acsc_rate	95
+42055	Pennsylvania	Franklin	acsc_rate	57
+42057	Pennsylvania	Fulton	acsc_rate	89
+42059	Pennsylvania	Greene	acsc_rate	122
+42061	Pennsylvania	Huntingdon	acsc_rate	62
+42063	Pennsylvania	Indiana	acsc_rate	81
+42065	Pennsylvania	Jefferson	acsc_rate	89
+42067	Pennsylvania	Juniata	acsc_rate	91
+42069	Pennsylvania	Lackawanna	acsc_rate	80
+42071	Pennsylvania	Lancaster	acsc_rate	48
+42073	Pennsylvania	Lawrence	acsc_rate	95
+42075	Pennsylvania	Lebanon	acsc_rate	51
+42077	Pennsylvania	Lehigh	acsc_rate	67
+42079	Pennsylvania	Luzerne	acsc_rate	65
+42081	Pennsylvania	Lycoming	acsc_rate	51
+42083	Pennsylvania	McKean	acsc_rate	89
+42085	Pennsylvania	Mercer	acsc_rate	64
+42087	Pennsylvania	Mifflin	acsc_rate	97
+42089	Pennsylvania	Monroe	acsc_rate	77
+42091	Pennsylvania	Montgomery	acsc_rate	60
+42093	Pennsylvania	Montour	acsc_rate	45
+42095	Pennsylvania	Northampton	acsc_rate	75
+42097	Pennsylvania	Northumberland	acsc_rate	76
+42099	Pennsylvania	Perry	acsc_rate	70
+42101	Pennsylvania	Philadelphia	acsc_rate	77
+42103	Pennsylvania	Pike	acsc_rate	64
+42105	Pennsylvania	Potter	acsc_rate	81
+42107	Pennsylvania	Schuylkill	acsc_rate	92
+42109	Pennsylvania	Snyder	acsc_rate	52
+42111	Pennsylvania	Somerset	acsc_rate	79
+42113	Pennsylvania	Sullivan	acsc_rate	73
+42115	Pennsylvania	Susquehanna	acsc_rate	102
+42117	Pennsylvania	Tioga	acsc_rate	87
+42119	Pennsylvania	Union	acsc_rate	29
+42121	Pennsylvania	Venango	acsc_rate	97
+42123	Pennsylvania	Warren	acsc_rate	69
+42125	Pennsylvania	Washington	acsc_rate	93
+42127	Pennsylvania	Wayne	acsc_rate	63
+42129	Pennsylvania	Westmoreland	acsc_rate	85
+42131	Pennsylvania	Wyoming	acsc_rate	76
+42133	Pennsylvania	York	acsc_rate	53
+44001	Rhode Island	Bristol	acsc_rate	58
+44003	Rhode Island	Kent	acsc_rate	68
+44005	Rhode Island	Newport	acsc_rate	58
+44007	Rhode Island	Providence	acsc_rate	73
+44009	Rhode Island	Washington	acsc_rate	54
+45001	South Carolina	Abbeville	acsc_rate	76
+45003	South Carolina	Aiken	acsc_rate	55
+45005	South Carolina	Allendale	acsc_rate	84
+45007	South Carolina	Anderson	acsc_rate	69
+45009	South Carolina	Bamberg	acsc_rate	69
+45011	South Carolina	Barnwell	acsc_rate	111
+45013	South Carolina	Beaufort	acsc_rate	46
+45015	South Carolina	Berkeley	acsc_rate	67
+45017	South Carolina	Calhoun	acsc_rate	54
+45019	South Carolina	Charleston	acsc_rate	46
+45021	South Carolina	Cherokee	acsc_rate	99
+45023	South Carolina	Chester	acsc_rate	81
+45025	South Carolina	Chesterfield	acsc_rate	104
+45027	South Carolina	Clarendon	acsc_rate	64
+45029	South Carolina	Colleton	acsc_rate	86
+45031	South Carolina	Darlington	acsc_rate	97
+45033	South Carolina	Dillon	acsc_rate	90
+45035	South Carolina	Dorchester	acsc_rate	65
+45037	South Carolina	Edgefield	acsc_rate	57
+45039	South Carolina	Fairfield	acsc_rate	61
+45041	South Carolina	Florence	acsc_rate	86
+45043	South Carolina	Georgetown	acsc_rate	67
+45045	South Carolina	Greenville	acsc_rate	43
+45047	South Carolina	Greenwood	acsc_rate	51
+45049	South Carolina	Hampton	acsc_rate	101
+45051	South Carolina	Horry	acsc_rate	66
+45053	South Carolina	Jasper	acsc_rate	83
+45055	South Carolina	Kershaw	acsc_rate	74
+45057	South Carolina	Lancaster	acsc_rate	68
+45059	South Carolina	Laurens	acsc_rate	60
+45061	South Carolina	Lee	acsc_rate	92
+45063	South Carolina	Lexington	acsc_rate	50
+45065	South Carolina	McCormick	acsc_rate	42
+45067	South Carolina	Marion	acsc_rate	89
+45069	South Carolina	Marlboro	acsc_rate	92
+45071	South Carolina	Newberry	acsc_rate	52
+45073	South Carolina	Oconee	acsc_rate	67
+45075	South Carolina	Orangeburg	acsc_rate	51
+45077	South Carolina	Pickens	acsc_rate	62
+45079	South Carolina	Richland	acsc_rate	44
+45081	South Carolina	Saluda	acsc_rate	57
+45083	South Carolina	Spartanburg	acsc_rate	67
+45085	South Carolina	Sumter	acsc_rate	71
+45087	South Carolina	Union	acsc_rate	98
+45089	South Carolina	Williamsburg	acsc_rate	77
+45091	South Carolina	York	acsc_rate	50
+46003	South Dakota	Aurora	acsc_rate	77
+46005	South Dakota	Beadle	acsc_rate	48
+46007	South Dakota	Bennett	acsc_rate	
+46009	South Dakota	Bon Homme	acsc_rate	72
+46011	South Dakota	Brookings	acsc_rate	55
+46013	South Dakota	Brown	acsc_rate	57
+46015	South Dakota	Brule	acsc_rate	64
+46017	South Dakota	Buffalo	acsc_rate	
+46019	South Dakota	Butte	acsc_rate	41
+46021	South Dakota	Campbell	acsc_rate	
+46023	South Dakota	Charles Mix	acsc_rate	99
+46025	South Dakota	Clark	acsc_rate	69
+46027	South Dakota	Clay	acsc_rate	70
+46029	South Dakota	Codington	acsc_rate	81
+46031	South Dakota	Corson	acsc_rate	
+46033	South Dakota	Custer	acsc_rate	53
+46035	South Dakota	Davison	acsc_rate	71
+46037	South Dakota	Day	acsc_rate	72
+46039	South Dakota	Deuel	acsc_rate	77
+46041	South Dakota	Dewey	acsc_rate	106
+46043	South Dakota	Douglas	acsc_rate	94
+46045	South Dakota	Edmunds	acsc_rate	74
+46047	South Dakota	Fall River	acsc_rate	60
+46049	South Dakota	Faulk	acsc_rate	165
+46051	South Dakota	Grant	acsc_rate	43
+46053	South Dakota	Gregory	acsc_rate	122
+46055	South Dakota	Haakon	acsc_rate	87
+46057	South Dakota	Hamlin	acsc_rate	84
+46059	South Dakota	Hand	acsc_rate	103
+46061	South Dakota	Hanson	acsc_rate	53
+46063	South Dakota	Harding	acsc_rate	
+46065	South Dakota	Hughes	acsc_rate	35
+46067	South Dakota	Hutchinson	acsc_rate	67
+46069	South Dakota	Hyde	acsc_rate	
+46071	South Dakota	Jackson	acsc_rate	
+46073	South Dakota	Jerauld	acsc_rate	82
+46075	South Dakota	Jones	acsc_rate	
+46077	South Dakota	Kingsbury	acsc_rate	65
+46079	South Dakota	Lake	acsc_rate	36
+46081	South Dakota	Lawrence	acsc_rate	41
+46083	South Dakota	Lincoln	acsc_rate	55
+46085	South Dakota	Lyman	acsc_rate	43
+46087	South Dakota	McCook	acsc_rate	44
+46089	South Dakota	McPherson	acsc_rate	63
+46091	South Dakota	Marshall	acsc_rate	67
+46093	South Dakota	Meade	acsc_rate	61
+46095	South Dakota	Mellette	acsc_rate	
+46097	South Dakota	Miner	acsc_rate	59
+46099	South Dakota	Minnehaha	acsc_rate	58
+46101	South Dakota	Moody	acsc_rate	88
+46103	South Dakota	Pennington	acsc_rate	46
+46105	South Dakota	Perkins	acsc_rate	77
+46107	South Dakota	Potter	acsc_rate	105
+46109	South Dakota	Roberts	acsc_rate	62
+46111	South Dakota	Sanborn	acsc_rate	57
+46113	South Dakota	Shannon	acsc_rate	196
+46115	South Dakota	Spink	acsc_rate	108
+46117	South Dakota	Stanley	acsc_rate	
+46119	South Dakota	Sully	acsc_rate	
+46121	South Dakota	Todd	acsc_rate	169
+46123	South Dakota	Tripp	acsc_rate	86
+46125	South Dakota	Turner	acsc_rate	66
+46127	South Dakota	Union	acsc_rate	64
+46129	South Dakota	Walworth	acsc_rate	75
+46135	South Dakota	Yankton	acsc_rate	67
+46137	South Dakota	Ziebach	acsc_rate	
+47001	Tennessee	Anderson	acsc_rate	55
+47003	Tennessee	Bedford	acsc_rate	125
+47005	Tennessee	Benton	acsc_rate	91
+47007	Tennessee	Bledsoe	acsc_rate	92
+47009	Tennessee	Blount	acsc_rate	85
+47011	Tennessee	Bradley	acsc_rate	100
+47013	Tennessee	Campbell	acsc_rate	152
+47015	Tennessee	Cannon	acsc_rate	109
+47017	Tennessee	Carroll	acsc_rate	100
+47019	Tennessee	Carter	acsc_rate	95
+47021	Tennessee	Cheatham	acsc_rate	89
+47023	Tennessee	Chester	acsc_rate	84
+47025	Tennessee	Claiborne	acsc_rate	148
+47027	Tennessee	Clay	acsc_rate	157
+47029	Tennessee	Cocke	acsc_rate	95
+47031	Tennessee	Coffee	acsc_rate	113
+47033	Tennessee	Crockett	acsc_rate	83
+47035	Tennessee	Cumberland	acsc_rate	69
+47037	Tennessee	Davidson	acsc_rate	65
+47039	Tennessee	Decatur	acsc_rate	159
+47041	Tennessee	DeKalb	acsc_rate	108
+47043	Tennessee	Dickson	acsc_rate	98
+47045	Tennessee	Dyer	acsc_rate	139
+47047	Tennessee	Fayette	acsc_rate	77
+47049	Tennessee	Fentress	acsc_rate	190
+47051	Tennessee	Franklin	acsc_rate	126
+47053	Tennessee	Gibson	acsc_rate	79
+47055	Tennessee	Giles	acsc_rate	86
+47057	Tennessee	Grainger	acsc_rate	110
+47059	Tennessee	Greene	acsc_rate	97
+47061	Tennessee	Grundy	acsc_rate	115
+47063	Tennessee	Hamblen	acsc_rate	112
+47065	Tennessee	Hamilton	acsc_rate	49
+47067	Tennessee	Hancock	acsc_rate	172
+47069	Tennessee	Hardeman	acsc_rate	100
+47071	Tennessee	Hardin	acsc_rate	94
+47073	Tennessee	Hawkins	acsc_rate	99
+47075	Tennessee	Haywood	acsc_rate	100
+47077	Tennessee	Henderson	acsc_rate	128
+47079	Tennessee	Henry	acsc_rate	77
+47081	Tennessee	Hickman	acsc_rate	101
+47083	Tennessee	Houston	acsc_rate	185
+47085	Tennessee	Humphreys	acsc_rate	108
+47087	Tennessee	Jackson	acsc_rate	102
+47089	Tennessee	Jefferson	acsc_rate	91
+47091	Tennessee	Johnson	acsc_rate	84
+47093	Tennessee	Knox	acsc_rate	61
+47095	Tennessee	Lake	acsc_rate	145
+47097	Tennessee	Lauderdale	acsc_rate	122
+47099	Tennessee	Lawrence	acsc_rate	117
+47101	Tennessee	Lewis	acsc_rate	114
+47103	Tennessee	Lincoln	acsc_rate	87
+47105	Tennessee	Loudon	acsc_rate	61
+47107	Tennessee	McMinn	acsc_rate	89
+47109	Tennessee	McNairy	acsc_rate	128
+47111	Tennessee	Macon	acsc_rate	160
+47113	Tennessee	Madison	acsc_rate	69
+47115	Tennessee	Marion	acsc_rate	109
+47117	Tennessee	Marshall	acsc_rate	72
+47119	Tennessee	Maury	acsc_rate	75
+47121	Tennessee	Meigs	acsc_rate	105
+47123	Tennessee	Monroe	acsc_rate	95
+47125	Tennessee	Montgomery	acsc_rate	95
+47127	Tennessee	Moore	acsc_rate	94
+47129	Tennessee	Morgan	acsc_rate	89
+47131	Tennessee	Obion	acsc_rate	83
+47133	Tennessee	Overton	acsc_rate	141
+47135	Tennessee	Perry	acsc_rate	206
+47137	Tennessee	Pickett	acsc_rate	182
+47139	Tennessee	Polk	acsc_rate	136
+47141	Tennessee	Putnam	acsc_rate	82
+47143	Tennessee	Rhea	acsc_rate	82
+47145	Tennessee	Roane	acsc_rate	70
+47147	Tennessee	Robertson	acsc_rate	98
+47149	Tennessee	Rutherford	acsc_rate	95
+47151	Tennessee	Scott	acsc_rate	133
+47153	Tennessee	Sequatchie	acsc_rate	84
+47155	Tennessee	Sevier	acsc_rate	66
+47157	Tennessee	Shelby	acsc_rate	62
+47159	Tennessee	Smith	acsc_rate	111
+47161	Tennessee	Stewart	acsc_rate	103
+47163	Tennessee	Sullivan	acsc_rate	86
+47165	Tennessee	Sumner	acsc_rate	88
+47167	Tennessee	Tipton	acsc_rate	98
+47169	Tennessee	Trousdale	acsc_rate	136
+47171	Tennessee	Unicoi	acsc_rate	103
+47173	Tennessee	Union	acsc_rate	65
+47175	Tennessee	Van Buren	acsc_rate	153
+47177	Tennessee	Warren	acsc_rate	106
+47179	Tennessee	Washington	acsc_rate	90
+47181	Tennessee	Wayne	acsc_rate	151
+47183	Tennessee	Weakley	acsc_rate	113
+47185	Tennessee	White	acsc_rate	92
+47187	Tennessee	Williamson	acsc_rate	59
+47189	Tennessee	Wilson	acsc_rate	84
+48001	Texas	Anderson	acsc_rate	75
+48003	Texas	Andrews	acsc_rate	88
+48005	Texas	Angelina	acsc_rate	93
+48007	Texas	Aransas	acsc_rate	61
+48009	Texas	Archer	acsc_rate	90
+48011	Texas	Armstrong	acsc_rate	
+48013	Texas	Atascosa	acsc_rate	92
+48015	Texas	Austin	acsc_rate	65
+48017	Texas	Bailey	acsc_rate	125
+48019	Texas	Bandera	acsc_rate	67
+48021	Texas	Bastrop	acsc_rate	81
+48023	Texas	Baylor	acsc_rate	160
+48025	Texas	Bee	acsc_rate	109
+48027	Texas	Bell	acsc_rate	59
+48029	Texas	Bexar	acsc_rate	57
+48031	Texas	Blanco	acsc_rate	51
+48033	Texas	Borden	acsc_rate	
+48035	Texas	Bosque	acsc_rate	87
+48037	Texas	Bowie	acsc_rate	65
+48039	Texas	Brazoria	acsc_rate	74
+48041	Texas	Brazos	acsc_rate	66
+48043	Texas	Brewster	acsc_rate	89
+48045	Texas	Briscoe	acsc_rate	
+48047	Texas	Brooks	acsc_rate	141
+48049	Texas	Brown	acsc_rate	104
+48051	Texas	Burleson	acsc_rate	87
+48053	Texas	Burnet	acsc_rate	80
+48055	Texas	Caldwell	acsc_rate	131
+48057	Texas	Calhoun	acsc_rate	100
+48059	Texas	Callahan	acsc_rate	60
+48061	Texas	Cameron	acsc_rate	81
+48063	Texas	Camp	acsc_rate	93
+48065	Texas	Carson	acsc_rate	48
+48067	Texas	Cass	acsc_rate	106
+48069	Texas	Castro	acsc_rate	101
+48071	Texas	Chambers	acsc_rate	142
+48073	Texas	Cherokee	acsc_rate	94
+48075	Texas	Childress	acsc_rate	103
+48077	Texas	Clay	acsc_rate	122
+48079	Texas	Cochran	acsc_rate	59
+48081	Texas	Coke	acsc_rate	60
+48083	Texas	Coleman	acsc_rate	68
+48085	Texas	Collin	acsc_rate	63
+48087	Texas	Collingsworth	acsc_rate	144
+48089	Texas	Colorado	acsc_rate	95
+48091	Texas	Comal	acsc_rate	55
+48093	Texas	Comanche	acsc_rate	96
+48095	Texas	Concho	acsc_rate	77
+48097	Texas	Cooke	acsc_rate	85
+48099	Texas	Coryell	acsc_rate	88
+48101	Texas	Cottle	acsc_rate	
+48103	Texas	Crane	acsc_rate	138
+48105	Texas	Crockett	acsc_rate	68
+48107	Texas	Crosby	acsc_rate	94
+48109	Texas	Culberson	acsc_rate	
+48111	Texas	Dallam	acsc_rate	
+48113	Texas	Dallas	acsc_rate	59
+48115	Texas	Dawson	acsc_rate	80
+48117	Texas	Deaf Smith	acsc_rate	49
+48119	Texas	Delta	acsc_rate	95
+48121	Texas	Denton	acsc_rate	78
+48123	Texas	DeWitt	acsc_rate	121
+48125	Texas	Dickens	acsc_rate	118
+48127	Texas	Dimmit	acsc_rate	153
+48129	Texas	Donley	acsc_rate	45
+48131	Texas	Duval	acsc_rate	132
+48133	Texas	Eastland	acsc_rate	134
+48135	Texas	Ector	acsc_rate	91
+48137	Texas	Edwards	acsc_rate	
+48139	Texas	Ellis	acsc_rate	75
+48141	Texas	El Paso	acsc_rate	56
+48143	Texas	Erath	acsc_rate	79
+48145	Texas	Falls	acsc_rate	87
+48147	Texas	Fannin	acsc_rate	87
+48149	Texas	Fayette	acsc_rate	75
+48151	Texas	Fisher	acsc_rate	67
+48153	Texas	Floyd	acsc_rate	125
+48155	Texas	Foard	acsc_rate	
+48157	Texas	Fort Bend	acsc_rate	61
+48159	Texas	Franklin	acsc_rate	155
+48161	Texas	Freestone	acsc_rate	103
+48163	Texas	Frio	acsc_rate	122
+48165	Texas	Gaines	acsc_rate	99
+48167	Texas	Galveston	acsc_rate	73
+48169	Texas	Garza	acsc_rate	107
+48171	Texas	Gillespie	acsc_rate	37
+48173	Texas	Glasscock	acsc_rate	
+48175	Texas	Goliad	acsc_rate	85
+48177	Texas	Gonzales	acsc_rate	93
+48179	Texas	Gray	acsc_rate	78
+48181	Texas	Grayson	acsc_rate	72
+48183	Texas	Gregg	acsc_rate	69
+48185	Texas	Grimes	acsc_rate	78
+48187	Texas	Guadalupe	acsc_rate	68
+48189	Texas	Hale	acsc_rate	86
+48191	Texas	Hall	acsc_rate	104
+48193	Texas	Hamilton	acsc_rate	190
+48195	Texas	Hansford	acsc_rate	102
+48197	Texas	Hardeman	acsc_rate	124
+48199	Texas	Hardin	acsc_rate	83
+48201	Texas	Harris	acsc_rate	62
+48203	Texas	Harrison	acsc_rate	72
+48205	Texas	Hartley	acsc_rate	85
+48207	Texas	Haskell	acsc_rate	85
+48209	Texas	Hays	acsc_rate	59
+48211	Texas	Hemphill	acsc_rate	68
+48213	Texas	Henderson	acsc_rate	101
+48215	Texas	Hidalgo	acsc_rate	82
+48217	Texas	Hill	acsc_rate	90
+48219	Texas	Hockley	acsc_rate	73
+48221	Texas	Hood	acsc_rate	56
+48223	Texas	Hopkins	acsc_rate	70
+48225	Texas	Houston	acsc_rate	109
+48227	Texas	Howard	acsc_rate	102
+48229	Texas	Hudspeth	acsc_rate	
+48231	Texas	Hunt	acsc_rate	85
+48233	Texas	Hutchinson	acsc_rate	67
+48235	Texas	Irion	acsc_rate	
+48237	Texas	Jack	acsc_rate	152
+48239	Texas	Jackson	acsc_rate	117
+48241	Texas	Jasper	acsc_rate	77
+48243	Texas	Jeff Davis	acsc_rate	
+48245	Texas	Jefferson	acsc_rate	77
+48247	Texas	Jim Hogg	acsc_rate	99
+48249	Texas	Jim Wells	acsc_rate	113
+48251	Texas	Johnson	acsc_rate	93
+48253	Texas	Jones	acsc_rate	139
+48255	Texas	Karnes	acsc_rate	101
+48257	Texas	Kaufman	acsc_rate	84
+48259	Texas	Kendall	acsc_rate	39
+48261	Texas	Kenedy	acsc_rate	
+48263	Texas	Kent	acsc_rate	
+48265	Texas	Kerr	acsc_rate	55
+48267	Texas	Kimble	acsc_rate	88
+48269	Texas	King	acsc_rate	
+48271	Texas	Kinney	acsc_rate	76
+48273	Texas	Kleberg	acsc_rate	139
+48275	Texas	Knox	acsc_rate	92
+48277	Texas	Lamar	acsc_rate	93
+48279	Texas	Lamb	acsc_rate	96
+48281	Texas	Lampasas	acsc_rate	109
+48283	Texas	La Salle	acsc_rate	132
+48285	Texas	Lavaca	acsc_rate	102
+48287	Texas	Lee	acsc_rate	72
+48289	Texas	Leon	acsc_rate	79
+48291	Texas	Liberty	acsc_rate	115
+48293	Texas	Limestone	acsc_rate	125
+48295	Texas	Lipscomb	acsc_rate	65
+48297	Texas	Live Oak	acsc_rate	70
+48299	Texas	Llano	acsc_rate	65
+48301	Texas	Loving	acsc_rate	
+48303	Texas	Lubbock	acsc_rate	75
+48305	Texas	Lynn	acsc_rate	89
+48307	Texas	McCulloch	acsc_rate	96
+48309	Texas	McLennan	acsc_rate	53
+48311	Texas	McMullen	acsc_rate	
+48313	Texas	Madison	acsc_rate	87
+48315	Texas	Marion	acsc_rate	87
+48317	Texas	Martin	acsc_rate	49
+48319	Texas	Mason	acsc_rate	56
+48321	Texas	Matagorda	acsc_rate	83
+48323	Texas	Maverick	acsc_rate	123
+48325	Texas	Medina	acsc_rate	78
+48327	Texas	Menard	acsc_rate	60
+48329	Texas	Midland	acsc_rate	47
+48331	Texas	Milam	acsc_rate	79
+48333	Texas	Mills	acsc_rate	101
+48335	Texas	Mitchell	acsc_rate	154
+48337	Texas	Montague	acsc_rate	129
+48339	Texas	Montgomery	acsc_rate	78
+48341	Texas	Moore	acsc_rate	93
+48343	Texas	Morris	acsc_rate	72
+48345	Texas	Motley	acsc_rate	
+48347	Texas	Nacogdoches	acsc_rate	102
+48349	Texas	Navarro	acsc_rate	93
+48351	Texas	Newton	acsc_rate	82
+48353	Texas	Nolan	acsc_rate	116
+48355	Texas	Nueces	acsc_rate	75
+48357	Texas	Ochiltree	acsc_rate	106
+48359	Texas	Oldham	acsc_rate	
+48361	Texas	Orange	acsc_rate	94
+48363	Texas	Palo Pinto	acsc_rate	98
+48365	Texas	Panola	acsc_rate	98
+48367	Texas	Parker	acsc_rate	77
+48369	Texas	Parmer	acsc_rate	119
+48371	Texas	Pecos	acsc_rate	129
+48373	Texas	Polk	acsc_rate	77
+48375	Texas	Potter	acsc_rate	54
+48377	Texas	Presidio	acsc_rate	57
+48379	Texas	Rains	acsc_rate	66
+48381	Texas	Randall	acsc_rate	47
+48383	Texas	Reagan	acsc_rate	
+48385	Texas	Real	acsc_rate	93
+48387	Texas	Red River	acsc_rate	170
+48389	Texas	Reeves	acsc_rate	109
+48391	Texas	Refugio	acsc_rate	78
+48393	Texas	Roberts	acsc_rate	
+48395	Texas	Robertson	acsc_rate	96
+48397	Texas	Rockwall	acsc_rate	68
+48399	Texas	Runnels	acsc_rate	104
+48401	Texas	Rusk	acsc_rate	100
+48403	Texas	Sabine	acsc_rate	89
+48405	Texas	San Augustine	acsc_rate	102
+48407	Texas	San Jacinto	acsc_rate	131
+48409	Texas	San Patricio	acsc_rate	90
+48411	Texas	San Saba	acsc_rate	71
+48413	Texas	Schleicher	acsc_rate	
+48415	Texas	Scurry	acsc_rate	95
+48417	Texas	Shackelford	acsc_rate	75
+48419	Texas	Shelby	acsc_rate	105
+48421	Texas	Sherman	acsc_rate	57
+48423	Texas	Smith	acsc_rate	61
+48425	Texas	Somervell	acsc_rate	82
+48427	Texas	Starr	acsc_rate	139
+48429	Texas	Stephens	acsc_rate	146
+48431	Texas	Sterling	acsc_rate	
+48433	Texas	Stonewall	acsc_rate	
+48435	Texas	Sutton	acsc_rate	123
+48437	Texas	Swisher	acsc_rate	74
+48439	Texas	Tarrant	acsc_rate	67
+48441	Texas	Taylor	acsc_rate	57
+48443	Texas	Terrell	acsc_rate	
+48445	Texas	Terry	acsc_rate	122
+48447	Texas	Throckmorton	acsc_rate	
+48449	Texas	Titus	acsc_rate	98
+48451	Texas	Tom Green	acsc_rate	68
+48453	Texas	Travis	acsc_rate	57
+48455	Texas	Trinity	acsc_rate	116
+48457	Texas	Tyler	acsc_rate	103
+48459	Texas	Upshur	acsc_rate	89
+48461	Texas	Upton	acsc_rate	79
+48463	Texas	Uvalde	acsc_rate	90
+48465	Texas	Val Verde	acsc_rate	67
+48467	Texas	Van Zandt	acsc_rate	86
+48469	Texas	Victoria	acsc_rate	101
+48471	Texas	Walker	acsc_rate	87
+48473	Texas	Waller	acsc_rate	90
+48475	Texas	Ward	acsc_rate	68
+48477	Texas	Washington	acsc_rate	51
+48479	Texas	Webb	acsc_rate	89
+48481	Texas	Wharton	acsc_rate	73
+48483	Texas	Wheeler	acsc_rate	121
+48485	Texas	Wichita	acsc_rate	69
+48487	Texas	Wilbarger	acsc_rate	57
+48489	Texas	Willacy	acsc_rate	86
+48491	Texas	Williamson	acsc_rate	53
+48493	Texas	Wilson	acsc_rate	74
+48495	Texas	Winkler	acsc_rate	94
+48497	Texas	Wise	acsc_rate	84
+48499	Texas	Wood	acsc_rate	83
+48501	Texas	Yoakum	acsc_rate	80
+48503	Texas	Young	acsc_rate	111
+48505	Texas	Zapata	acsc_rate	109
+48507	Texas	Zavala	acsc_rate	111
+49001	Utah	Beaver	acsc_rate	103
+49003	Utah	Box Elder	acsc_rate	29
+49005	Utah	Cache	acsc_rate	26
+49007	Utah	Carbon	acsc_rate	50
+49009	Utah	Daggett	acsc_rate	
+49011	Utah	Davis	acsc_rate	34
+49013	Utah	Duchesne	acsc_rate	63
+49015	Utah	Emery	acsc_rate	36
+49017	Utah	Garfield	acsc_rate	74
+49019	Utah	Grand	acsc_rate	48
+49021	Utah	Iron	acsc_rate	48
+49023	Utah	Juab	acsc_rate	93
+49025	Utah	Kane	acsc_rate	45
+49027	Utah	Millard	acsc_rate	39
+49029	Utah	Morgan	acsc_rate	
+49031	Utah	Piute	acsc_rate	
+49033	Utah	Rich	acsc_rate	
+49035	Utah	Salt Lake	acsc_rate	36
+49037	Utah	San Juan	acsc_rate	89
+49039	Utah	Sanpete	acsc_rate	57
+49041	Utah	Sevier	acsc_rate	52
+49043	Utah	Summit	acsc_rate	31
+49045	Utah	Tooele	acsc_rate	56
+49047	Utah	Uintah	acsc_rate	48
+49049	Utah	Utah	acsc_rate	35
+49051	Utah	Wasatch	acsc_rate	33
+49053	Utah	Washington	acsc_rate	31
+49055	Utah	Wayne	acsc_rate	
+49057	Utah	Weber	acsc_rate	31
+50001	Vermont	Addison	acsc_rate	55
+50003	Vermont	Bennington	acsc_rate	77
+50005	Vermont	Caledonia	acsc_rate	50
+50007	Vermont	Chittenden	acsc_rate	42
+50009	Vermont	Essex	acsc_rate	63
+50011	Vermont	Franklin	acsc_rate	57
+50013	Vermont	Grand Isle	acsc_rate	35
+50015	Vermont	Lamoille	acsc_rate	62
+50017	Vermont	Orange	acsc_rate	56
+50019	Vermont	Orleans	acsc_rate	50
+50021	Vermont	Rutland	acsc_rate	60
+50023	Vermont	Washington	acsc_rate	50
+50025	Vermont	Windham	acsc_rate	53
+50027	Vermont	Windsor	acsc_rate	56
+51001	Virginia	Accomack	acsc_rate	63
+51003	Virginia	Albemarle	acsc_rate	50
+51005	Virginia	Alleghany	acsc_rate	108
+51007	Virginia	Amelia	acsc_rate	56
+51009	Virginia	Amherst	acsc_rate	65
+51011	Virginia	Appomattox	acsc_rate	78
+51013	Virginia	Arlington	acsc_rate	36
+51015	Virginia	Augusta	acsc_rate	57
+51017	Virginia	Bath	acsc_rate	109
+51019	Virginia	Bedford	acsc_rate	42
+51021	Virginia	Bland	acsc_rate	66
+51023	Virginia	Botetourt	acsc_rate	53
+51025	Virginia	Brunswick	acsc_rate	80
+51027	Virginia	Buchanan	acsc_rate	136
+51029	Virginia	Buckingham	acsc_rate	69
+51031	Virginia	Campbell	acsc_rate	68
+51033	Virginia	Caroline	acsc_rate	62
+51035	Virginia	Carroll	acsc_rate	70
+51036	Virginia	Charles City	acsc_rate	35
+51037	Virginia	Charlotte	acsc_rate	38
+51041	Virginia	Chesterfield	acsc_rate	48
+51043	Virginia	Clarke	acsc_rate	81
+51045	Virginia	Craig	acsc_rate	77
+51047	Virginia	Culpeper	acsc_rate	71
+51049	Virginia	Cumberland	acsc_rate	63
+51051	Virginia	Dickenson	acsc_rate	114
+51053	Virginia	Dinwiddie	acsc_rate	72
+51057	Virginia	Essex	acsc_rate	62
+51059	Virginia	Fairfax	acsc_rate	39
+51061	Virginia	Fauquier	acsc_rate	75
+51063	Virginia	Floyd	acsc_rate	56
+51065	Virginia	Fluvanna	acsc_rate	49
+51067	Virginia	Franklin	acsc_rate	60
+51069	Virginia	Frederick	acsc_rate	82
+51071	Virginia	Giles	acsc_rate	75
+51073	Virginia	Gloucester	acsc_rate	57
+51075	Virginia	Goochland	acsc_rate	42
+51077	Virginia	Grayson	acsc_rate	91
+51079	Virginia	Greene	acsc_rate	75
+51081	Virginia	Greensville	acsc_rate	116
+51083	Virginia	Halifax	acsc_rate	55
+51085	Virginia	Hanover	acsc_rate	41
+51087	Virginia	Henrico	acsc_rate	47
+51089	Virginia	Henry	acsc_rate	83
+51091	Virginia	Highland	acsc_rate	63
+51093	Virginia	Isle of Wight	acsc_rate	52
+51095	Virginia	James City	acsc_rate	48
+51097	Virginia	King and Queen	acsc_rate	64
+51099	Virginia	King George	acsc_rate	55
+51101	Virginia	King William	acsc_rate	68
+51103	Virginia	Lancaster	acsc_rate	25
+51105	Virginia	Lee	acsc_rate	160
+51107	Virginia	Loudoun	acsc_rate	53
+51109	Virginia	Louisa	acsc_rate	58
+51111	Virginia	Lunenburg	acsc_rate	68
+51113	Virginia	Madison	acsc_rate	54
+51115	Virginia	Mathews	acsc_rate	43
+51117	Virginia	Mecklenburg	acsc_rate	59
+51119	Virginia	Middlesex	acsc_rate	45
+51121	Virginia	Montgomery	acsc_rate	60
+51125	Virginia	Nelson	acsc_rate	53
+51127	Virginia	New Kent	acsc_rate	54
+51131	Virginia	Northampton	acsc_rate	58
+51133	Virginia	Northumberland	acsc_rate	36
+51135	Virginia	Nottoway	acsc_rate	59
+51137	Virginia	Orange	acsc_rate	49
+51139	Virginia	Page	acsc_rate	85
+51141	Virginia	Patrick	acsc_rate	67
+51143	Virginia	Pittsylvania	acsc_rate	63
+51145	Virginia	Powhatan	acsc_rate	46
+51147	Virginia	Prince Edward	acsc_rate	59
+51149	Virginia	Prince George	acsc_rate	73
+51153	Virginia	Prince William	acsc_rate	56
+51155	Virginia	Pulaski	acsc_rate	104
+51157	Virginia	Rappahannock	acsc_rate	76
+51159	Virginia	Richmond	acsc_rate	61
+51161	Virginia	Roanoke	acsc_rate	49
+51163	Virginia	Rockbridge	acsc_rate	44
+51165	Virginia	Rockingham	acsc_rate	71
+51167	Virginia	Russell	acsc_rate	182
+51169	Virginia	Scott	acsc_rate	98
+51171	Virginia	Shenandoah	acsc_rate	73
+51173	Virginia	Smyth	acsc_rate	94
+51175	Virginia	Southampton	acsc_rate	73
+51177	Virginia	Spotsylvania	acsc_rate	78
+51179	Virginia	Stafford	acsc_rate	77
+51181	Virginia	Surry	acsc_rate	61
+51183	Virginia	Sussex	acsc_rate	84
+51185	Virginia	Tazewell	acsc_rate	125
+51187	Virginia	Warren	acsc_rate	69
+51191	Virginia	Washington	acsc_rate	86
+51193	Virginia	Westmoreland	acsc_rate	56
+51195	Virginia	Wise	acsc_rate	145
+51197	Virginia	Wythe	acsc_rate	67
+51199	Virginia	York	acsc_rate	42
+51510	Virginia	Alexandria City	acsc_rate	49
+51515	Virginia	Bedford City	acsc_rate	64
+51520	Virginia	Bristol City	acsc_rate	118
+51530	Virginia	Buena Vista City	acsc_rate	68
+51540	Virginia	Charlottesville City	acsc_rate	
+51550	Virginia	Chesapeake City	acsc_rate	64
+51570	Virginia	Colonial Heights City	acsc_rate	72
+51580	Virginia	Covington City	acsc_rate	108
+51590	Virginia	Danville City	acsc_rate	63
+51595	Virginia	Emporia City	acsc_rate	117
+51600	Virginia	Fairfax City	acsc_rate	
+51610	Virginia	Falls Church City	acsc_rate	40
+51620	Virginia	Franklin City	acsc_rate	93
+51630	Virginia	Fredericksburg City	acsc_rate	63
+51640	Virginia	Galax City	acsc_rate	84
+51650	Virginia	Hampton City	acsc_rate	46
+51660	Virginia	Harrisonburg City	acsc_rate	62
+51670	Virginia	Hopewell City	acsc_rate	86
+51678	Virginia	Lexington City	acsc_rate	44
+51680	Virginia	Lynchburg City	acsc_rate	58
+51683	Virginia	Manassas City	acsc_rate	
+51685	Virginia	Manassas Park City	acsc_rate	63
+51690	Virginia	Martinsville City	acsc_rate	71
+51700	Virginia	Newport News City	acsc_rate	42
+51710	Virginia	Norfolk City	acsc_rate	62
+51720	Virginia	Norton City	acsc_rate	152
+51730	Virginia	Petersburg City	acsc_rate	78
+51735	Virginia	Poquoson City	acsc_rate	35
+51740	Virginia	Portsmouth City	acsc_rate	42
+51750	Virginia	Radford City	acsc_rate	50
+51760	Virginia	Richmond City	acsc_rate	52
+51770	Virginia	Roanoke City	acsc_rate	57
+51775	Virginia	Salem City	acsc_rate	60
+51790	Virginia	Staunton City	acsc_rate	43
+51800	Virginia	Suffolk City	acsc_rate	58
+51810	Virginia	Virginia Beach City	acsc_rate	54
+51820	Virginia	Waynesboro City	acsc_rate	41
+51830	Virginia	Williamsburg City	acsc_rate	41
+51840	Virginia	Winchester City	acsc_rate	79
+53001	Washington	Adams	acsc_rate	56
+53003	Washington	Asotin	acsc_rate	50
+53005	Washington	Benton	acsc_rate	63
+53007	Washington	Chelan	acsc_rate	44
+53009	Washington	Clallam	acsc_rate	39
+53011	Washington	Clark	acsc_rate	56
+53013	Washington	Columbia	acsc_rate	48
+53015	Washington	Cowlitz	acsc_rate	60
+53017	Washington	Douglas	acsc_rate	42
+53019	Washington	Ferry	acsc_rate	50
+53021	Washington	Franklin	acsc_rate	48
+53023	Washington	Garfield	acsc_rate	51
+53025	Washington	Grant	acsc_rate	46
+53027	Washington	Grays Harbor	acsc_rate	74
+53029	Washington	Island	acsc_rate	39
+53031	Washington	Jefferson	acsc_rate	38
+53033	Washington	King	acsc_rate	40
+53035	Washington	Kitsap	acsc_rate	42
+53037	Washington	Kittitas	acsc_rate	53
+53039	Washington	Klickitat	acsc_rate	47
+53041	Washington	Lewis	acsc_rate	48
+53043	Washington	Lincoln	acsc_rate	80
+53045	Washington	Mason	acsc_rate	50
+53047	Washington	Okanogan	acsc_rate	45
+53049	Washington	Pacific	acsc_rate	75
+53051	Washington	Pend Oreille	acsc_rate	56
+53053	Washington	Pierce	acsc_rate	53
+53055	Washington	San Juan	acsc_rate	23
+53057	Washington	Skagit	acsc_rate	55
+53059	Washington	Skamania	acsc_rate	63
+53061	Washington	Snohomish	acsc_rate	36
+53063	Washington	Spokane	acsc_rate	42
+53065	Washington	Stevens	acsc_rate	63
+53067	Washington	Thurston	acsc_rate	38
+53069	Washington	Wahkiakum	acsc_rate	45
+53071	Washington	Walla Walla	acsc_rate	31
+53073	Washington	Whatcom	acsc_rate	46
+53075	Washington	Whitman	acsc_rate	63
+53077	Washington	Yakima	acsc_rate	62
+54001	West Virginia	Barbour	acsc_rate	110
+54003	West Virginia	Berkeley	acsc_rate	66
+54005	West Virginia	Boone	acsc_rate	144
+54007	West Virginia	Braxton	acsc_rate	76
+54009	West Virginia	Brooke	acsc_rate	120
+54011	West Virginia	Cabell	acsc_rate	78
+54013	West Virginia	Calhoun	acsc_rate	97
+54015	West Virginia	Clay	acsc_rate	97
+54017	West Virginia	Doddridge	acsc_rate	74
+54019	West Virginia	Fayette	acsc_rate	122
+54021	West Virginia	Gilmer	acsc_rate	109
+54023	West Virginia	Grant	acsc_rate	90
+54025	West Virginia	Greenbrier	acsc_rate	77
+54027	West Virginia	Hampshire	acsc_rate	95
+54029	West Virginia	Hancock	acsc_rate	123
+54031	West Virginia	Hardy	acsc_rate	84
+54033	West Virginia	Harrison	acsc_rate	80
+54035	West Virginia	Jackson	acsc_rate	105
+54037	West Virginia	Jefferson	acsc_rate	57
+54039	West Virginia	Kanawha	acsc_rate	81
+54041	West Virginia	Lewis	acsc_rate	174
+54043	West Virginia	Lincoln	acsc_rate	129
+54045	West Virginia	Logan	acsc_rate	168
+54047	West Virginia	McDowell	acsc_rate	124
+54049	West Virginia	Marion	acsc_rate	101
+54051	West Virginia	Marshall	acsc_rate	101
+54053	West Virginia	Mason	acsc_rate	126
+54055	West Virginia	Mercer	acsc_rate	100
+54057	West Virginia	Mineral	acsc_rate	101
+54059	West Virginia	Mingo	acsc_rate	266
+54061	West Virginia	Monongalia	acsc_rate	83
+54063	West Virginia	Monroe	acsc_rate	90
+54065	West Virginia	Morgan	acsc_rate	87
+54067	West Virginia	Nicholas	acsc_rate	93
+54069	West Virginia	Ohio	acsc_rate	68
+54071	West Virginia	Pendleton	acsc_rate	96
+54073	West Virginia	Pleasants	acsc_rate	113
+54075	West Virginia	Pocahontas	acsc_rate	107
+54077	West Virginia	Preston	acsc_rate	94
+54079	West Virginia	Putnam	acsc_rate	77
+54081	West Virginia	Raleigh	acsc_rate	124
+54083	West Virginia	Randolph	acsc_rate	105
+54085	West Virginia	Ritchie	acsc_rate	90
+54087	West Virginia	Roane	acsc_rate	99
+54089	West Virginia	Summers	acsc_rate	109
+54091	West Virginia	Taylor	acsc_rate	92
+54093	West Virginia	Tucker	acsc_rate	76
+54095	West Virginia	Tyler	acsc_rate	81
+54097	West Virginia	Upshur	acsc_rate	84
+54099	West Virginia	Wayne	acsc_rate	102
+54101	West Virginia	Webster	acsc_rate	107
+54103	West Virginia	Wetzel	acsc_rate	93
+54105	West Virginia	Wirt	acsc_rate	112
+54107	West Virginia	Wood	acsc_rate	101
+54109	West Virginia	Wyoming	acsc_rate	140
+55001	Wisconsin	Adams	acsc_rate	75
+55003	Wisconsin	Ashland	acsc_rate	51
+55005	Wisconsin	Barron	acsc_rate	65
+55007	Wisconsin	Bayfield	acsc_rate	68
+55009	Wisconsin	Brown	acsc_rate	41
+55011	Wisconsin	Buffalo	acsc_rate	53
+55013	Wisconsin	Burnett	acsc_rate	70
+55015	Wisconsin	Calumet	acsc_rate	46
+55017	Wisconsin	Chippewa	acsc_rate	68
+55019	Wisconsin	Clark	acsc_rate	87
+55021	Wisconsin	Columbia	acsc_rate	59
+55023	Wisconsin	Crawford	acsc_rate	68
+55025	Wisconsin	Dane	acsc_rate	49
+55027	Wisconsin	Dodge	acsc_rate	56
+55029	Wisconsin	Door	acsc_rate	51
+55031	Wisconsin	Douglas	acsc_rate	67
+55033	Wisconsin	Dunn	acsc_rate	58
+55035	Wisconsin	Eau Claire	acsc_rate	48
+55037	Wisconsin	Florence	acsc_rate	42
+55039	Wisconsin	Fond du Lac	acsc_rate	48
+55041	Wisconsin	Forest	acsc_rate	62
+55043	Wisconsin	Grant	acsc_rate	53
+55045	Wisconsin	Green	acsc_rate	61
+55047	Wisconsin	Green Lake	acsc_rate	49
+55049	Wisconsin	Iowa	acsc_rate	61
+55051	Wisconsin	Iron	acsc_rate	46
+55053	Wisconsin	Jackson	acsc_rate	56
+55055	Wisconsin	Jefferson	acsc_rate	44
+55057	Wisconsin	Juneau	acsc_rate	77
+55059	Wisconsin	Kenosha	acsc_rate	76
+55061	Wisconsin	Kewaunee	acsc_rate	35
+55063	Wisconsin	La Crosse	acsc_rate	40
+55065	Wisconsin	Lafayette	acsc_rate	86
+55067	Wisconsin	Langlade	acsc_rate	72
+55069	Wisconsin	Lincoln	acsc_rate	68
+55071	Wisconsin	Manitowoc	acsc_rate	51
+55073	Wisconsin	Marathon	acsc_rate	71
+55075	Wisconsin	Marinette	acsc_rate	62
+55077	Wisconsin	Marquette	acsc_rate	44
+55078	Wisconsin	Menominee	acsc_rate	
+55079	Wisconsin	Milwaukee	acsc_rate	61
+55081	Wisconsin	Monroe	acsc_rate	61
+55083	Wisconsin	Oconto	acsc_rate	64
+55085	Wisconsin	Oneida	acsc_rate	53
+55087	Wisconsin	Outagamie	acsc_rate	43
+55089	Wisconsin	Ozaukee	acsc_rate	41
+55091	Wisconsin	Pepin	acsc_rate	81
+55093	Wisconsin	Pierce	acsc_rate	64
+55095	Wisconsin	Polk	acsc_rate	77
+55097	Wisconsin	Portage	acsc_rate	52
+55099	Wisconsin	Price	acsc_rate	70
+55101	Wisconsin	Racine	acsc_rate	55
+55103	Wisconsin	Richland	acsc_rate	69
+55105	Wisconsin	Rock	acsc_rate	54
+55107	Wisconsin	Rusk	acsc_rate	68
+55109	Wisconsin	St. Croix	acsc_rate	58
+55111	Wisconsin	Sauk	acsc_rate	55
+55113	Wisconsin	Sawyer	acsc_rate	58
+55115	Wisconsin	Shawano	acsc_rate	52
+55117	Wisconsin	Sheboygan	acsc_rate	31
+55119	Wisconsin	Taylor	acsc_rate	73
+55121	Wisconsin	Trempealeau	acsc_rate	57
+55123	Wisconsin	Vernon	acsc_rate	44
+55125	Wisconsin	Vilas	acsc_rate	51
+55127	Wisconsin	Walworth	acsc_rate	52
+55129	Wisconsin	Washburn	acsc_rate	65
+55131	Wisconsin	Washington	acsc_rate	51
+55133	Wisconsin	Waukesha	acsc_rate	51
+55135	Wisconsin	Waupaca	acsc_rate	55
+55137	Wisconsin	Waushara	acsc_rate	59
+55139	Wisconsin	Winnebago	acsc_rate	45
+55141	Wisconsin	Wood	acsc_rate	61
+56001	Wyoming	Albany	acsc_rate	62
+56003	Wyoming	Big Horn	acsc_rate	74
+56005	Wyoming	Campbell	acsc_rate	91
+56007	Wyoming	Carbon	acsc_rate	88
+56009	Wyoming	Converse	acsc_rate	65
+56011	Wyoming	Crook	acsc_rate	44
+56013	Wyoming	Fremont	acsc_rate	71
+56015	Wyoming	Goshen	acsc_rate	75
+56017	Wyoming	Hot Springs	acsc_rate	56
+56019	Wyoming	Johnson	acsc_rate	44
+56021	Wyoming	Laramie	acsc_rate	53
+56023	Wyoming	Lincoln	acsc_rate	42
+56025	Wyoming	Natrona	acsc_rate	53
+56027	Wyoming	Niobrara	acsc_rate	61
+56029	Wyoming	Park	acsc_rate	47
+56031	Wyoming	Platte	acsc_rate	85
+56033	Wyoming	Sheridan	acsc_rate	46
+56035	Wyoming	Sublette	acsc_rate	47
+56037	Wyoming	Sweetwater	acsc_rate	53
+56039	Wyoming	Teton	acsc_rate	31
+56041	Wyoming	Uinta	acsc_rate	49
+56043	Wyoming	Washakie	acsc_rate	95
+56045	Wyoming	Weston	acsc_rate	50

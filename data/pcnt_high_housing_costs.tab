@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_high_housing_costs
+1001	Alabama	Autauga	pcnt_high_housing_costs	27
+1003	Alabama	Baldwin	pcnt_high_housing_costs	30
+1005	Alabama	Barbour	pcnt_high_housing_costs	32
+1007	Alabama	Bibb	pcnt_high_housing_costs	22
+1009	Alabama	Blount	pcnt_high_housing_costs	24
+1011	Alabama	Bullock	pcnt_high_housing_costs	30
+1013	Alabama	Butler	pcnt_high_housing_costs	33
+1015	Alabama	Calhoun	pcnt_high_housing_costs	30
+1017	Alabama	Chambers	pcnt_high_housing_costs	31
+1019	Alabama	Cherokee	pcnt_high_housing_costs	27
+1021	Alabama	Chilton	pcnt_high_housing_costs	27
+1023	Alabama	Choctaw	pcnt_high_housing_costs	23
+1025	Alabama	Clarke	pcnt_high_housing_costs	27
+1027	Alabama	Clay	pcnt_high_housing_costs	23
+1029	Alabama	Cleburne	pcnt_high_housing_costs	25
+1031	Alabama	Coffee	pcnt_high_housing_costs	26
+1033	Alabama	Colbert	pcnt_high_housing_costs	27
+1035	Alabama	Conecuh	pcnt_high_housing_costs	29
+1037	Alabama	Coosa	pcnt_high_housing_costs	30
+1039	Alabama	Covington	pcnt_high_housing_costs	28
+1041	Alabama	Crenshaw	pcnt_high_housing_costs	23
+1043	Alabama	Cullman	pcnt_high_housing_costs	27
+1045	Alabama	Dale	pcnt_high_housing_costs	21
+1047	Alabama	Dallas	pcnt_high_housing_costs	36
+1049	Alabama	DeKalb	pcnt_high_housing_costs	25
+1051	Alabama	Elmore	pcnt_high_housing_costs	26
+1053	Alabama	Escambia	pcnt_high_housing_costs	27
+1055	Alabama	Etowah	pcnt_high_housing_costs	28
+1057	Alabama	Fayette	pcnt_high_housing_costs	25
+1059	Alabama	Franklin	pcnt_high_housing_costs	23
+1061	Alabama	Geneva	pcnt_high_housing_costs	24
+1063	Alabama	Greene	pcnt_high_housing_costs	35
+1065	Alabama	Hale	pcnt_high_housing_costs	30
+1067	Alabama	Henry	pcnt_high_housing_costs	26
+1069	Alabama	Houston	pcnt_high_housing_costs	27
+1071	Alabama	Jackson	pcnt_high_housing_costs	25
+1073	Alabama	Jefferson	pcnt_high_housing_costs	35
+1075	Alabama	Lamar	pcnt_high_housing_costs	22
+1077	Alabama	Lauderdale	pcnt_high_housing_costs	28
+1079	Alabama	Lawrence	pcnt_high_housing_costs	25
+1081	Alabama	Lee	pcnt_high_housing_costs	36
+1083	Alabama	Limestone	pcnt_high_housing_costs	24
+1085	Alabama	Lowndes	pcnt_high_housing_costs	38
+1087	Alabama	Macon	pcnt_high_housing_costs	36
+1089	Alabama	Madison	pcnt_high_housing_costs	25
+1091	Alabama	Marengo	pcnt_high_housing_costs	27
+1093	Alabama	Marion	pcnt_high_housing_costs	26
+1095	Alabama	Marshall	pcnt_high_housing_costs	27
+1097	Alabama	Mobile	pcnt_high_housing_costs	33
+1099	Alabama	Monroe	pcnt_high_housing_costs	30
+1101	Alabama	Montgomery	pcnt_high_housing_costs	36
+1103	Alabama	Morgan	pcnt_high_housing_costs	24
+1105	Alabama	Perry	pcnt_high_housing_costs	32
+1107	Alabama	Pickens	pcnt_high_housing_costs	28
+1109	Alabama	Pike	pcnt_high_housing_costs	33
+1111	Alabama	Randolph	pcnt_high_housing_costs	28
+1113	Alabama	Russell	pcnt_high_housing_costs	36
+1115	Alabama	St. Clair	pcnt_high_housing_costs	26
+1117	Alabama	Shelby	pcnt_high_housing_costs	26
+1119	Alabama	Sumter	pcnt_high_housing_costs	36
+1121	Alabama	Talladega	pcnt_high_housing_costs	29
+1123	Alabama	Tallapoosa	pcnt_high_housing_costs	27
+1125	Alabama	Tuscaloosa	pcnt_high_housing_costs	34
+1127	Alabama	Walker	pcnt_high_housing_costs	24
+1129	Alabama	Washington	pcnt_high_housing_costs	23
+1131	Alabama	Wilcox	pcnt_high_housing_costs	35
+1133	Alabama	Winston	pcnt_high_housing_costs	27
+2013	Alaska	Aleutians East	pcnt_high_housing_costs	18
+2016	Alaska	Aleutians West	pcnt_high_housing_costs	20
+2020	Alaska	Anchorage	pcnt_high_housing_costs	34
+2050	Alaska	Bethel	pcnt_high_housing_costs	17
+2060	Alaska	Bristol Bay	pcnt_high_housing_costs	15
+2068	Alaska	Denali	pcnt_high_housing_costs	17
+2070	Alaska	Dillingham	pcnt_high_housing_costs	17
+2090	Alaska	Fairbanks North Star	pcnt_high_housing_costs	33
+2100	Alaska	Haines	pcnt_high_housing_costs	30
+2110	Alaska	Juneau	pcnt_high_housing_costs	32
+2122	Alaska	Kenai Peninsula	pcnt_high_housing_costs	28
+2130	Alaska	Ketchikan Gateway	pcnt_high_housing_costs	31
+2150	Alaska	Kodiak Island	pcnt_high_housing_costs	30
+2164	Alaska	Lake and Peninsula	pcnt_high_housing_costs	21
+2170	Alaska	Matanuska-Susitna	pcnt_high_housing_costs	33
+2180	Alaska	Nome	pcnt_high_housing_costs	21
+2185	Alaska	North Slope	pcnt_high_housing_costs	11
+2188	Alaska	Northwest Arctic	pcnt_high_housing_costs	21
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_high_housing_costs	19
+2220	Alaska	Sitka	pcnt_high_housing_costs	32
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_high_housing_costs	23
+2240	Alaska	Southeast Fairbanks	pcnt_high_housing_costs	18
+2261	Alaska	Valdez-Cordova	pcnt_high_housing_costs	19
+2270	Alaska	Wade Hampton	pcnt_high_housing_costs	14
+2280	Alaska	Wrangell-Petersburg	pcnt_high_housing_costs	23
+2282	Alaska	Yakutat	pcnt_high_housing_costs	18
+2290	Alaska	Yukon-Koyukuk	pcnt_high_housing_costs	22
+4001	Arizona	Apache	pcnt_high_housing_costs	19
+4003	Arizona	Cochise	pcnt_high_housing_costs	29
+4005	Arizona	Coconino	pcnt_high_housing_costs	36
+4007	Arizona	Gila	pcnt_high_housing_costs	32
+4009	Arizona	Graham	pcnt_high_housing_costs	26
+4011	Arizona	Greenlee	pcnt_high_housing_costs	14
+4012	Arizona	La Paz	pcnt_high_housing_costs	21
+4013	Arizona	Maricopa	pcnt_high_housing_costs	39
+4015	Arizona	Mohave	pcnt_high_housing_costs	35
+4017	Arizona	Navajo	pcnt_high_housing_costs	27
+4019	Arizona	Pima	pcnt_high_housing_costs	37
+4021	Arizona	Pinal	pcnt_high_housing_costs	36
+4023	Arizona	Santa Cruz	pcnt_high_housing_costs	37
+4025	Arizona	Yavapai	pcnt_high_housing_costs	38
+4027	Arizona	Yuma	pcnt_high_housing_costs	35
+5001	Arkansas	Arkansas	pcnt_high_housing_costs	24
+5003	Arkansas	Ashley	pcnt_high_housing_costs	23
+5005	Arkansas	Baxter	pcnt_high_housing_costs	28
+5007	Arkansas	Benton	pcnt_high_housing_costs	26
+5009	Arkansas	Boone	pcnt_high_housing_costs	25
+5011	Arkansas	Bradley	pcnt_high_housing_costs	26
+5013	Arkansas	Calhoun	pcnt_high_housing_costs	24
+5015	Arkansas	Carroll	pcnt_high_housing_costs	31
+5017	Arkansas	Chicot	pcnt_high_housing_costs	35
+5019	Arkansas	Clark	pcnt_high_housing_costs	32
+5021	Arkansas	Clay	pcnt_high_housing_costs	24
+5023	Arkansas	Cleburne	pcnt_high_housing_costs	23
+5025	Arkansas	Cleveland	pcnt_high_housing_costs	23
+5027	Arkansas	Columbia	pcnt_high_housing_costs	28
+5029	Arkansas	Conway	pcnt_high_housing_costs	27
+5031	Arkansas	Craighead	pcnt_high_housing_costs	29
+5033	Arkansas	Crawford	pcnt_high_housing_costs	25
+5035	Arkansas	Crittenden	pcnt_high_housing_costs	36
+5037	Arkansas	Cross	pcnt_high_housing_costs	28
+5039	Arkansas	Dallas	pcnt_high_housing_costs	28
+5041	Arkansas	Desha	pcnt_high_housing_costs	28
+5043	Arkansas	Drew	pcnt_high_housing_costs	29
+5045	Arkansas	Faulkner	pcnt_high_housing_costs	29
+5047	Arkansas	Franklin	pcnt_high_housing_costs	24
+5049	Arkansas	Fulton	pcnt_high_housing_costs	21
+5051	Arkansas	Garland	pcnt_high_housing_costs	30
+5053	Arkansas	Grant	pcnt_high_housing_costs	17
+5055	Arkansas	Greene	pcnt_high_housing_costs	26
+5057	Arkansas	Hempstead	pcnt_high_housing_costs	26
+5059	Arkansas	Hot Spring	pcnt_high_housing_costs	24
+5061	Arkansas	Howard	pcnt_high_housing_costs	25
+5063	Arkansas	Independence	pcnt_high_housing_costs	27
+5065	Arkansas	Izard	pcnt_high_housing_costs	23
+5067	Arkansas	Jackson	pcnt_high_housing_costs	25
+5069	Arkansas	Jefferson	pcnt_high_housing_costs	30
+5071	Arkansas	Johnson	pcnt_high_housing_costs	30
+5073	Arkansas	Lafayette	pcnt_high_housing_costs	23
+5075	Arkansas	Lawrence	pcnt_high_housing_costs	26
+5077	Arkansas	Lee	pcnt_high_housing_costs	34
+5079	Arkansas	Lincoln	pcnt_high_housing_costs	27
+5081	Arkansas	Little River	pcnt_high_housing_costs	19
+5083	Arkansas	Logan	pcnt_high_housing_costs	23
+5085	Arkansas	Lonoke	pcnt_high_housing_costs	24
+5087	Arkansas	Madison	pcnt_high_housing_costs	22
+5089	Arkansas	Marion	pcnt_high_housing_costs	22
+5091	Arkansas	Miller	pcnt_high_housing_costs	27
+5093	Arkansas	Mississippi	pcnt_high_housing_costs	28
+5095	Arkansas	Monroe	pcnt_high_housing_costs	29
+5097	Arkansas	Montgomery	pcnt_high_housing_costs	22
+5099	Arkansas	Nevada	pcnt_high_housing_costs	25
+5101	Arkansas	Newton	pcnt_high_housing_costs	19
+5103	Arkansas	Ouachita	pcnt_high_housing_costs	26
+5105	Arkansas	Perry	pcnt_high_housing_costs	15
+5107	Arkansas	Phillips	pcnt_high_housing_costs	32
+5109	Arkansas	Pike	pcnt_high_housing_costs	20
+5111	Arkansas	Poinsett	pcnt_high_housing_costs	28
+5113	Arkansas	Polk	pcnt_high_housing_costs	26
+5115	Arkansas	Pope	pcnt_high_housing_costs	26
+5117	Arkansas	Prairie	pcnt_high_housing_costs	20
+5119	Arkansas	Pulaski	pcnt_high_housing_costs	32
+5121	Arkansas	Randolph	pcnt_high_housing_costs	26
+5123	Arkansas	St. Francis	pcnt_high_housing_costs	36
+5125	Arkansas	Saline	pcnt_high_housing_costs	22
+5127	Arkansas	Scott	pcnt_high_housing_costs	25
+5129	Arkansas	Searcy	pcnt_high_housing_costs	24
+5131	Arkansas	Sebastian	pcnt_high_housing_costs	28
+5133	Arkansas	Sevier	pcnt_high_housing_costs	26
+5135	Arkansas	Sharp	pcnt_high_housing_costs	26
+5137	Arkansas	Stone	pcnt_high_housing_costs	28
+5139	Arkansas	Union	pcnt_high_housing_costs	25
+5141	Arkansas	Van Buren	pcnt_high_housing_costs	23
+5143	Arkansas	Washington	pcnt_high_housing_costs	33
+5145	Arkansas	White	pcnt_high_housing_costs	25
+5147	Arkansas	Woodruff	pcnt_high_housing_costs	26
+5149	Arkansas	Yell	pcnt_high_housing_costs	22
+6001	California	Alameda	pcnt_high_housing_costs	45
+6003	California	Alpine	pcnt_high_housing_costs	33
+6005	California	Amador	pcnt_high_housing_costs	41
+6007	California	Butte	pcnt_high_housing_costs	45
+6009	California	Calaveras	pcnt_high_housing_costs	41
+6011	California	Colusa	pcnt_high_housing_costs	37
+6013	California	Contra Costa	pcnt_high_housing_costs	47
+6015	California	Del Norte	pcnt_high_housing_costs	42
+6017	California	El Dorado	pcnt_high_housing_costs	44
+6019	California	Fresno	pcnt_high_housing_costs	44
+6021	California	Glenn	pcnt_high_housing_costs	39
+6023	California	Humboldt	pcnt_high_housing_costs	44
+6025	California	Imperial	pcnt_high_housing_costs	44
+6027	California	Inyo	pcnt_high_housing_costs	35
+6029	California	Kern	pcnt_high_housing_costs	43
+6031	California	Kings	pcnt_high_housing_costs	38
+6033	California	Lake	pcnt_high_housing_costs	48
+6035	California	Lassen	pcnt_high_housing_costs	38
+6037	California	Los Angeles	pcnt_high_housing_costs	51
+6039	California	Madera	pcnt_high_housing_costs	44
+6041	California	Marin	pcnt_high_housing_costs	45
+6043	California	Mariposa	pcnt_high_housing_costs	37
+6045	California	Mendocino	pcnt_high_housing_costs	45
+6047	California	Merced	pcnt_high_housing_costs	45
+6049	California	Modoc	pcnt_high_housing_costs	34
+6051	California	Mono	pcnt_high_housing_costs	49
+6053	California	Monterey	pcnt_high_housing_costs	47
+6055	California	Napa	pcnt_high_housing_costs	45
+6057	California	Nevada	pcnt_high_housing_costs	48
+6059	California	Orange	pcnt_high_housing_costs	47
+6061	California	Placer	pcnt_high_housing_costs	44
+6063	California	Plumas	pcnt_high_housing_costs	37
+6065	California	Riverside	pcnt_high_housing_costs	50
+6067	California	Sacramento	pcnt_high_housing_costs	46
+6069	California	San Benito	pcnt_high_housing_costs	51
+6071	California	San Bernardino	pcnt_high_housing_costs	48
+6073	California	San Diego	pcnt_high_housing_costs	48
+6075	California	San Francisco	pcnt_high_housing_costs	42
+6077	California	San Joaquin	pcnt_high_housing_costs	48
+6079	California	San Luis Obispo	pcnt_high_housing_costs	47
+6081	California	San Mateo	pcnt_high_housing_costs	43
+6083	California	Santa Barbara	pcnt_high_housing_costs	47
+6085	California	Santa Clara	pcnt_high_housing_costs	42
+6087	California	Santa Cruz	pcnt_high_housing_costs	49
+6089	California	Shasta	pcnt_high_housing_costs	44
+6091	California	Sierra	pcnt_high_housing_costs	29
+6093	California	Siskiyou	pcnt_high_housing_costs	42
+6095	California	Solano	pcnt_high_housing_costs	46
+6097	California	Sonoma	pcnt_high_housing_costs	47
+6099	California	Stanislaus	pcnt_high_housing_costs	47
+6101	California	Sutter	pcnt_high_housing_costs	41
+6103	California	Tehama	pcnt_high_housing_costs	40
+6105	California	Trinity	pcnt_high_housing_costs	33
+6107	California	Tulare	pcnt_high_housing_costs	42
+6109	California	Tuolumne	pcnt_high_housing_costs	44
+6111	California	Ventura	pcnt_high_housing_costs	46
+6113	California	Yolo	pcnt_high_housing_costs	45
+6115	California	Yuba	pcnt_high_housing_costs	43
+8001	Colorado	Adams	pcnt_high_housing_costs	40
+8003	Colorado	Alamosa	pcnt_high_housing_costs	32
+8005	Colorado	Arapahoe	pcnt_high_housing_costs	38
+8007	Colorado	Archuleta	pcnt_high_housing_costs	32
+8009	Colorado	Baca	pcnt_high_housing_costs	22
+8011	Colorado	Bent	pcnt_high_housing_costs	29
+8013	Colorado	Boulder	pcnt_high_housing_costs	38
+8014	Colorado	Broomfield	pcnt_high_housing_costs	32
+8015	Colorado	Chaffee	pcnt_high_housing_costs	35
+8017	Colorado	Cheyenne	pcnt_high_housing_costs	12
+8019	Colorado	Clear Creek	pcnt_high_housing_costs	35
+8021	Colorado	Conejos	pcnt_high_housing_costs	30
+8023	Colorado	Costilla	pcnt_high_housing_costs	32
+8025	Colorado	Crowley	pcnt_high_housing_costs	21
+8027	Colorado	Custer	pcnt_high_housing_costs	35
+8029	Colorado	Delta	pcnt_high_housing_costs	31
+8031	Colorado	Denver	pcnt_high_housing_costs	40
+8033	Colorado	Dolores	pcnt_high_housing_costs	24
+8035	Colorado	Douglas	pcnt_high_housing_costs	31
+8037	Colorado	Eagle	pcnt_high_housing_costs	41
+8039	Colorado	Elbert	pcnt_high_housing_costs	39
+8041	Colorado	El Paso	pcnt_high_housing_costs	35
+8043	Colorado	Fremont	pcnt_high_housing_costs	36
+8045	Colorado	Garfield	pcnt_high_housing_costs	40
+8047	Colorado	Gilpin	pcnt_high_housing_costs	42
+8049	Colorado	Grand	pcnt_high_housing_costs	30
+8051	Colorado	Gunnison	pcnt_high_housing_costs	40
+8053	Colorado	Hinsdale	pcnt_high_housing_costs	15
+8055	Colorado	Huerfano	pcnt_high_housing_costs	34
+8057	Colorado	Jackson	pcnt_high_housing_costs	25
+8059	Colorado	Jefferson	pcnt_high_housing_costs	34
+8061	Colorado	Kiowa	pcnt_high_housing_costs	22
+8063	Colorado	Kit Carson	pcnt_high_housing_costs	26
+8065	Colorado	Lake	pcnt_high_housing_costs	39
+8067	Colorado	La Plata	pcnt_high_housing_costs	34
+8069	Colorado	Larimer	pcnt_high_housing_costs	38
+8071	Colorado	Las Animas	pcnt_high_housing_costs	34
+8073	Colorado	Lincoln	pcnt_high_housing_costs	26
+8075	Colorado	Logan	pcnt_high_housing_costs	24
+8077	Colorado	Mesa	pcnt_high_housing_costs	34
+8079	Colorado	Mineral	pcnt_high_housing_costs	22
+8081	Colorado	Moffat	pcnt_high_housing_costs	34
+8083	Colorado	Montezuma	pcnt_high_housing_costs	31
+8085	Colorado	Montrose	pcnt_high_housing_costs	33
+8087	Colorado	Morgan	pcnt_high_housing_costs	32
+8089	Colorado	Otero	pcnt_high_housing_costs	34
+8091	Colorado	Ouray	pcnt_high_housing_costs	44
+8093	Colorado	Park	pcnt_high_housing_costs	37
+8095	Colorado	Phillips	pcnt_high_housing_costs	26
+8097	Colorado	Pitkin	pcnt_high_housing_costs	39
+8099	Colorado	Prowers	pcnt_high_housing_costs	25
+8101	Colorado	Pueblo	pcnt_high_housing_costs	36
+8103	Colorado	Rio Blanco	pcnt_high_housing_costs	19
+8105	Colorado	Rio Grande	pcnt_high_housing_costs	34
+8107	Colorado	Routt	pcnt_high_housing_costs	39
+8109	Colorado	Saguache	pcnt_high_housing_costs	32
+8111	Colorado	San Juan	pcnt_high_housing_costs	51
+8113	Colorado	San Miguel	pcnt_high_housing_costs	46
+8115	Colorado	Sedgwick	pcnt_high_housing_costs	20
+8117	Colorado	Summit	pcnt_high_housing_costs	38
+8119	Colorado	Teller	pcnt_high_housing_costs	35
+8121	Colorado	Washington	pcnt_high_housing_costs	23
+8123	Colorado	Weld	pcnt_high_housing_costs	37
+8125	Colorado	Yuma	pcnt_high_housing_costs	19
+9001	Connecticut	Fairfield	pcnt_high_housing_costs	44
+9003	Connecticut	Hartford	pcnt_high_housing_costs	38
+9005	Connecticut	Litchfield	pcnt_high_housing_costs	37
+9007	Connecticut	Middlesex	pcnt_high_housing_costs	36
+9009	Connecticut	New Haven	pcnt_high_housing_costs	43
+9011	Connecticut	New London	pcnt_high_housing_costs	36
+9013	Connecticut	Tolland	pcnt_high_housing_costs	32
+9015	Connecticut	Windham	pcnt_high_housing_costs	37
+10001	Delaware	Kent	pcnt_high_housing_costs	36
+10003	Delaware	New Castle	pcnt_high_housing_costs	35
+10005	Delaware	Sussex	pcnt_high_housing_costs	34
+11001	District of Columbia	District of Columbia	pcnt_high_housing_costs	40
+12001	Florida	Alachua	pcnt_high_housing_costs	41
+12003	Florida	Baker	pcnt_high_housing_costs	31
+12005	Florida	Bay	pcnt_high_housing_costs	35
+12007	Florida	Bradford	pcnt_high_housing_costs	30
+12009	Florida	Brevard	pcnt_high_housing_costs	38
+12011	Florida	Broward	pcnt_high_housing_costs	51
+12013	Florida	Calhoun	pcnt_high_housing_costs	32
+12015	Florida	Charlotte	pcnt_high_housing_costs	38
+12017	Florida	Citrus	pcnt_high_housing_costs	32
+12019	Florida	Clay	pcnt_high_housing_costs	33
+12021	Florida	Collier	pcnt_high_housing_costs	43
+12023	Florida	Columbia	pcnt_high_housing_costs	33
+12027	Florida	DeSoto	pcnt_high_housing_costs	34
+12029	Florida	Dixie	pcnt_high_housing_costs	27
+12031	Florida	Duval	pcnt_high_housing_costs	40
+12033	Florida	Escambia	pcnt_high_housing_costs	38
+12035	Florida	Flagler	pcnt_high_housing_costs	42
+12037	Florida	Franklin	pcnt_high_housing_costs	35
+12039	Florida	Gadsden	pcnt_high_housing_costs	33
+12041	Florida	Gilchrist	pcnt_high_housing_costs	34
+12043	Florida	Glades	pcnt_high_housing_costs	22
+12045	Florida	Gulf	pcnt_high_housing_costs	32
+12047	Florida	Hamilton	pcnt_high_housing_costs	32
+12049	Florida	Hardee	pcnt_high_housing_costs	31
+12051	Florida	Hendry	pcnt_high_housing_costs	35
+12053	Florida	Hernando	pcnt_high_housing_costs	36
+12055	Florida	Highlands	pcnt_high_housing_costs	32
+12057	Florida	Hillsborough	pcnt_high_housing_costs	42
+12059	Florida	Holmes	pcnt_high_housing_costs	29
+12061	Florida	Indian River	pcnt_high_housing_costs	40
+12063	Florida	Jackson	pcnt_high_housing_costs	27
+12065	Florida	Jefferson	pcnt_high_housing_costs	28
+12067	Florida	Lafayette	pcnt_high_housing_costs	23
+12069	Florida	Lake	pcnt_high_housing_costs	36
+12071	Florida	Lee	pcnt_high_housing_costs	42
+12073	Florida	Leon	pcnt_high_housing_costs	42
+12075	Florida	Levy	pcnt_high_housing_costs	30
+12077	Florida	Liberty	pcnt_high_housing_costs	26
+12079	Florida	Madison	pcnt_high_housing_costs	29
+12081	Florida	Manatee	pcnt_high_housing_costs	41
+12083	Florida	Marion	pcnt_high_housing_costs	36
+12085	Florida	Martin	pcnt_high_housing_costs	38
+12086	Florida	Miami-Dade	pcnt_high_housing_costs	55
+12087	Florida	Monroe	pcnt_high_housing_costs	51
+12089	Florida	Nassau	pcnt_high_housing_costs	29
+12091	Florida	Okaloosa	pcnt_high_housing_costs	36
+12093	Florida	Okeechobee	pcnt_high_housing_costs	40
+12095	Florida	Orange	pcnt_high_housing_costs	48
+12097	Florida	Osceola	pcnt_high_housing_costs	53
+12099	Florida	Palm Beach	pcnt_high_housing_costs	46
+12101	Florida	Pasco	pcnt_high_housing_costs	38
+12103	Florida	Pinellas	pcnt_high_housing_costs	42
+12105	Florida	Polk	pcnt_high_housing_costs	36
+12107	Florida	Putnam	pcnt_high_housing_costs	33
+12109	Florida	St. Johns	pcnt_high_housing_costs	38
+12111	Florida	St. Lucie	pcnt_high_housing_costs	47
+12113	Florida	Santa Rosa	pcnt_high_housing_costs	35
+12115	Florida	Sarasota	pcnt_high_housing_costs	41
+12117	Florida	Seminole	pcnt_high_housing_costs	41
+12119	Florida	Sumter	pcnt_high_housing_costs	25
+12121	Florida	Suwannee	pcnt_high_housing_costs	28
+12123	Florida	Taylor	pcnt_high_housing_costs	26
+12125	Florida	Union	pcnt_high_housing_costs	27
+12127	Florida	Volusia	pcnt_high_housing_costs	40
+12129	Florida	Wakulla	pcnt_high_housing_costs	31
+12131	Florida	Walton	pcnt_high_housing_costs	38
+12133	Florida	Washington	pcnt_high_housing_costs	30
+13001	Georgia	Appling	pcnt_high_housing_costs	25
+13003	Georgia	Atkinson	pcnt_high_housing_costs	28
+13005	Georgia	Bacon	pcnt_high_housing_costs	21
+13007	Georgia	Baker	pcnt_high_housing_costs	30
+13009	Georgia	Baldwin	pcnt_high_housing_costs	36
+13011	Georgia	Banks	pcnt_high_housing_costs	32
+13013	Georgia	Barrow	pcnt_high_housing_costs	36
+13015	Georgia	Bartow	pcnt_high_housing_costs	36
+13017	Georgia	Ben Hill	pcnt_high_housing_costs	36
+13019	Georgia	Berrien	pcnt_high_housing_costs	33
+13021	Georgia	Bibb	pcnt_high_housing_costs	39
+13023	Georgia	Bleckley	pcnt_high_housing_costs	27
+13025	Georgia	Brantley	pcnt_high_housing_costs	26
+13027	Georgia	Brooks	pcnt_high_housing_costs	30
+13029	Georgia	Bryan	pcnt_high_housing_costs	32
+13031	Georgia	Bulloch	pcnt_high_housing_costs	39
+13033	Georgia	Burke	pcnt_high_housing_costs	33
+13035	Georgia	Butts	pcnt_high_housing_costs	31
+13037	Georgia	Calhoun	pcnt_high_housing_costs	33
+13039	Georgia	Camden	pcnt_high_housing_costs	34
+13043	Georgia	Candler	pcnt_high_housing_costs	31
+13045	Georgia	Carroll	pcnt_high_housing_costs	35
+13047	Georgia	Catoosa	pcnt_high_housing_costs	27
+13049	Georgia	Charlton	pcnt_high_housing_costs	22
+13051	Georgia	Chatham	pcnt_high_housing_costs	39
+13053	Georgia	Chattahoochee	pcnt_high_housing_costs	35
+13055	Georgia	Chattooga	pcnt_high_housing_costs	27
+13057	Georgia	Cherokee	pcnt_high_housing_costs	35
+13059	Georgia	Clarke	pcnt_high_housing_costs	41
+13061	Georgia	Clay	pcnt_high_housing_costs	30
+13063	Georgia	Clayton	pcnt_high_housing_costs	45
+13065	Georgia	Clinch	pcnt_high_housing_costs	29
+13067	Georgia	Cobb	pcnt_high_housing_costs	35
+13069	Georgia	Coffee	pcnt_high_housing_costs	29
+13071	Georgia	Colquitt	pcnt_high_housing_costs	34
+13073	Georgia	Columbia	pcnt_high_housing_costs	27
+13075	Georgia	Cook	pcnt_high_housing_costs	35
+13077	Georgia	Coweta	pcnt_high_housing_costs	31
+13079	Georgia	Crawford	pcnt_high_housing_costs	33
+13081	Georgia	Crisp	pcnt_high_housing_costs	36
+13083	Georgia	Dade	pcnt_high_housing_costs	28
+13085	Georgia	Dawson	pcnt_high_housing_costs	35
+13087	Georgia	Decatur	pcnt_high_housing_costs	36
+13089	Georgia	DeKalb	pcnt_high_housing_costs	42
+13091	Georgia	Dodge	pcnt_high_housing_costs	23
+13093	Georgia	Dooly	pcnt_high_housing_costs	30
+13095	Georgia	Dougherty	pcnt_high_housing_costs	40
+13097	Georgia	Douglas	pcnt_high_housing_costs	38
+13099	Georgia	Early	pcnt_high_housing_costs	29
+13101	Georgia	Echols	pcnt_high_housing_costs	24
+13103	Georgia	Effingham	pcnt_high_housing_costs	30
+13105	Georgia	Elbert	pcnt_high_housing_costs	30
+13107	Georgia	Emanuel	pcnt_high_housing_costs	33
+13109	Georgia	Evans	pcnt_high_housing_costs	23
+13111	Georgia	Fannin	pcnt_high_housing_costs	34
+13113	Georgia	Fayette	pcnt_high_housing_costs	32
+13115	Georgia	Floyd	pcnt_high_housing_costs	34
+13117	Georgia	Forsyth	pcnt_high_housing_costs	31
+13119	Georgia	Franklin	pcnt_high_housing_costs	31
+13121	Georgia	Fulton	pcnt_high_housing_costs	40
+13123	Georgia	Gilmer	pcnt_high_housing_costs	32
+13125	Georgia	Glascock	pcnt_high_housing_costs	27
+13127	Georgia	Glynn	pcnt_high_housing_costs	33
+13129	Georgia	Gordon	pcnt_high_housing_costs	33
+13131	Georgia	Grady	pcnt_high_housing_costs	31
+13133	Georgia	Greene	pcnt_high_housing_costs	35
+13135	Georgia	Gwinnett	pcnt_high_housing_costs	39
+13137	Georgia	Habersham	pcnt_high_housing_costs	30
+13139	Georgia	Hall	pcnt_high_housing_costs	35
+13141	Georgia	Hancock	pcnt_high_housing_costs	42
+13143	Georgia	Haralson	pcnt_high_housing_costs	31
+13145	Georgia	Harris	pcnt_high_housing_costs	28
+13147	Georgia	Hart	pcnt_high_housing_costs	29
+13149	Georgia	Heard	pcnt_high_housing_costs	29
+13151	Georgia	Henry	pcnt_high_housing_costs	36
+13153	Georgia	Houston	pcnt_high_housing_costs	27
+13155	Georgia	Irwin	pcnt_high_housing_costs	21
+13157	Georgia	Jackson	pcnt_high_housing_costs	33
+13159	Georgia	Jasper	pcnt_high_housing_costs	37
+13161	Georgia	Jeff Davis	pcnt_high_housing_costs	25
+13163	Georgia	Jefferson	pcnt_high_housing_costs	34
+13165	Georgia	Jenkins	pcnt_high_housing_costs	33
+13167	Georgia	Johnson	pcnt_high_housing_costs	27
+13169	Georgia	Jones	pcnt_high_housing_costs	30
+13171	Georgia	Lamar	pcnt_high_housing_costs	34
+13173	Georgia	Lanier	pcnt_high_housing_costs	34
+13175	Georgia	Laurens	pcnt_high_housing_costs	26
+13177	Georgia	Lee	pcnt_high_housing_costs	27
+13179	Georgia	Liberty	pcnt_high_housing_costs	35
+13181	Georgia	Lincoln	pcnt_high_housing_costs	38
+13183	Georgia	Long	pcnt_high_housing_costs	33
+13185	Georgia	Lowndes	pcnt_high_housing_costs	35
+13187	Georgia	Lumpkin	pcnt_high_housing_costs	38
+13189	Georgia	McDuffie	pcnt_high_housing_costs	33
+13191	Georgia	McIntosh	pcnt_high_housing_costs	29
+13193	Georgia	Macon	pcnt_high_housing_costs	28
+13195	Georgia	Madison	pcnt_high_housing_costs	31
+13197	Georgia	Marion	pcnt_high_housing_costs	34
+13199	Georgia	Meriwether	pcnt_high_housing_costs	33
+13201	Georgia	Miller	pcnt_high_housing_costs	23
+13205	Georgia	Mitchell	pcnt_high_housing_costs	29
+13207	Georgia	Monroe	pcnt_high_housing_costs	32
+13209	Georgia	Montgomery	pcnt_high_housing_costs	29
+13211	Georgia	Morgan	pcnt_high_housing_costs	35
+13213	Georgia	Murray	pcnt_high_housing_costs	28
+13215	Georgia	Muscogee	pcnt_high_housing_costs	37
+13217	Georgia	Newton	pcnt_high_housing_costs	40
+13219	Georgia	Oconee	pcnt_high_housing_costs	26
+13221	Georgia	Oglethorpe	pcnt_high_housing_costs	26
+13223	Georgia	Paulding	pcnt_high_housing_costs	32
+13225	Georgia	Peach	pcnt_high_housing_costs	35
+13227	Georgia	Pickens	pcnt_high_housing_costs	35
+13229	Georgia	Pierce	pcnt_high_housing_costs	26
+13231	Georgia	Pike	pcnt_high_housing_costs	33
+13233	Georgia	Polk	pcnt_high_housing_costs	32
+13235	Georgia	Pulaski	pcnt_high_housing_costs	22
+13237	Georgia	Putnam	pcnt_high_housing_costs	32
+13239	Georgia	Quitman	pcnt_high_housing_costs	33
+13241	Georgia	Rabun	pcnt_high_housing_costs	35
+13243	Georgia	Randolph	pcnt_high_housing_costs	28
+13245	Georgia	Richmond	pcnt_high_housing_costs	36
+13247	Georgia	Rockdale	pcnt_high_housing_costs	39
+13249	Georgia	Schley	pcnt_high_housing_costs	28
+13251	Georgia	Screven	pcnt_high_housing_costs	29
+13253	Georgia	Seminole	pcnt_high_housing_costs	28
+13255	Georgia	Spalding	pcnt_high_housing_costs	38
+13257	Georgia	Stephens	pcnt_high_housing_costs	31
+13259	Georgia	Stewart	pcnt_high_housing_costs	25
+13261	Georgia	Sumter	pcnt_high_housing_costs	31
+13263	Georgia	Talbot	pcnt_high_housing_costs	30
+13265	Georgia	Taliaferro	pcnt_high_housing_costs	25
+13267	Georgia	Tattnall	pcnt_high_housing_costs	27
+13269	Georgia	Taylor	pcnt_high_housing_costs	28
+13271	Georgia	Telfair	pcnt_high_housing_costs	28
+13273	Georgia	Terrell	pcnt_high_housing_costs	32
+13275	Georgia	Thomas	pcnt_high_housing_costs	32
+13277	Georgia	Tift	pcnt_high_housing_costs	30
+13279	Georgia	Toombs	pcnt_high_housing_costs	27
+13281	Georgia	Towns	pcnt_high_housing_costs	31
+13283	Georgia	Treutlen	pcnt_high_housing_costs	21
+13285	Georgia	Troup	pcnt_high_housing_costs	35
+13287	Georgia	Turner	pcnt_high_housing_costs	35
+13289	Georgia	Twiggs	pcnt_high_housing_costs	23
+13291	Georgia	Union	pcnt_high_housing_costs	31
+13293	Georgia	Upson	pcnt_high_housing_costs	33
+13295	Georgia	Walker	pcnt_high_housing_costs	28
+13297	Georgia	Walton	pcnt_high_housing_costs	36
+13299	Georgia	Ware	pcnt_high_housing_costs	29
+13301	Georgia	Warren	pcnt_high_housing_costs	30
+13303	Georgia	Washington	pcnt_high_housing_costs	32
+13305	Georgia	Wayne	pcnt_high_housing_costs	27
+13307	Georgia	Webster	pcnt_high_housing_costs	18
+13309	Georgia	Wheeler	pcnt_high_housing_costs	20
+13311	Georgia	White	pcnt_high_housing_costs	36
+13313	Georgia	Whitfield	pcnt_high_housing_costs	31
+13315	Georgia	Wilcox	pcnt_high_housing_costs	32
+13317	Georgia	Wilkes	pcnt_high_housing_costs	42
+13319	Georgia	Wilkinson	pcnt_high_housing_costs	19
+13321	Georgia	Worth	pcnt_high_housing_costs	27
+15001	Hawaii	Hawaii	pcnt_high_housing_costs	39
+15003	Hawaii	Honolulu	pcnt_high_housing_costs	43
+15005	Hawaii	Kalawao	pcnt_high_housing_costs	7
+15007	Hawaii	Kauai	pcnt_high_housing_costs	41
+15009	Hawaii	Maui	pcnt_high_housing_costs	45
+16001	Idaho	Ada	pcnt_high_housing_costs	34
+16003	Idaho	Adams	pcnt_high_housing_costs	26
+16005	Idaho	Bannock	pcnt_high_housing_costs	30
+16007	Idaho	Bear Lake	pcnt_high_housing_costs	19
+16009	Idaho	Benewah	pcnt_high_housing_costs	25
+16011	Idaho	Bingham	pcnt_high_housing_costs	25
+16013	Idaho	Blaine	pcnt_high_housing_costs	40
+16015	Idaho	Boise	pcnt_high_housing_costs	29
+16017	Idaho	Bonner	pcnt_high_housing_costs	37
+16019	Idaho	Bonneville	pcnt_high_housing_costs	29
+16021	Idaho	Boundary	pcnt_high_housing_costs	30
+16023	Idaho	Butte	pcnt_high_housing_costs	28
+16025	Idaho	Camas	pcnt_high_housing_costs	33
+16027	Idaho	Canyon	pcnt_high_housing_costs	37
+16029	Idaho	Caribou	pcnt_high_housing_costs	19
+16031	Idaho	Cassia	pcnt_high_housing_costs	26
+16033	Idaho	Clark	pcnt_high_housing_costs	21
+16035	Idaho	Clearwater	pcnt_high_housing_costs	24
+16037	Idaho	Custer	pcnt_high_housing_costs	22
+16039	Idaho	Elmore	pcnt_high_housing_costs	25
+16041	Idaho	Franklin	pcnt_high_housing_costs	26
+16043	Idaho	Fremont	pcnt_high_housing_costs	27
+16045	Idaho	Gem	pcnt_high_housing_costs	32
+16047	Idaho	Gooding	pcnt_high_housing_costs	30
+16049	Idaho	Idaho	pcnt_high_housing_costs	29
+16051	Idaho	Jefferson	pcnt_high_housing_costs	28
+16053	Idaho	Jerome	pcnt_high_housing_costs	30
+16055	Idaho	Kootenai	pcnt_high_housing_costs	37
+16057	Idaho	Latah	pcnt_high_housing_costs	37
+16059	Idaho	Lemhi	pcnt_high_housing_costs	26
+16061	Idaho	Lewis	pcnt_high_housing_costs	26
+16063	Idaho	Lincoln	pcnt_high_housing_costs	21
+16065	Idaho	Madison	pcnt_high_housing_costs	44
+16067	Idaho	Minidoka	pcnt_high_housing_costs	20
+16069	Idaho	Nez Perce	pcnt_high_housing_costs	27
+16071	Idaho	Oneida	pcnt_high_housing_costs	30
+16073	Idaho	Owyhee	pcnt_high_housing_costs	26
+16075	Idaho	Payette	pcnt_high_housing_costs	29
+16077	Idaho	Power	pcnt_high_housing_costs	23
+16079	Idaho	Shoshone	pcnt_high_housing_costs	29
+16081	Idaho	Teton	pcnt_high_housing_costs	39
+16083	Idaho	Twin Falls	pcnt_high_housing_costs	30
+16085	Idaho	Valley	pcnt_high_housing_costs	30
+16087	Idaho	Washington	pcnt_high_housing_costs	34
+17001	Illinois	Adams	pcnt_high_housing_costs	24
+17003	Illinois	Alexander	pcnt_high_housing_costs	24
+17005	Illinois	Bond	pcnt_high_housing_costs	24
+17007	Illinois	Boone	pcnt_high_housing_costs	35
+17009	Illinois	Brown	pcnt_high_housing_costs	20
+17011	Illinois	Bureau	pcnt_high_housing_costs	25
+17013	Illinois	Calhoun	pcnt_high_housing_costs	23
+17015	Illinois	Carroll	pcnt_high_housing_costs	26
+17017	Illinois	Cass	pcnt_high_housing_costs	25
+17019	Illinois	Champaign	pcnt_high_housing_costs	36
+17021	Illinois	Christian	pcnt_high_housing_costs	25
+17023	Illinois	Clark	pcnt_high_housing_costs	21
+17025	Illinois	Clay	pcnt_high_housing_costs	24
+17027	Illinois	Clinton	pcnt_high_housing_costs	23
+17029	Illinois	Coles	pcnt_high_housing_costs	34
+17031	Illinois	Cook	pcnt_high_housing_costs	44
+17033	Illinois	Crawford	pcnt_high_housing_costs	20
+17035	Illinois	Cumberland	pcnt_high_housing_costs	21
+17037	Illinois	DeKalb	pcnt_high_housing_costs	41
+17039	Illinois	De Witt	pcnt_high_housing_costs	18
+17041	Illinois	Douglas	pcnt_high_housing_costs	24
+17043	Illinois	DuPage	pcnt_high_housing_costs	37
+17045	Illinois	Edgar	pcnt_high_housing_costs	21
+17047	Illinois	Edwards	pcnt_high_housing_costs	21
+17049	Illinois	Effingham	pcnt_high_housing_costs	21
+17051	Illinois	Fayette	pcnt_high_housing_costs	22
+17053	Illinois	Ford	pcnt_high_housing_costs	22
+17055	Illinois	Franklin	pcnt_high_housing_costs	24
+17057	Illinois	Fulton	pcnt_high_housing_costs	26
+17059	Illinois	Gallatin	pcnt_high_housing_costs	19
+17061	Illinois	Greene	pcnt_high_housing_costs	21
+17063	Illinois	Grundy	pcnt_high_housing_costs	33
+17065	Illinois	Hamilton	pcnt_high_housing_costs	18
+17067	Illinois	Hancock	pcnt_high_housing_costs	22
+17069	Illinois	Hardin	pcnt_high_housing_costs	21
+17071	Illinois	Henderson	pcnt_high_housing_costs	20
+17073	Illinois	Henry	pcnt_high_housing_costs	22
+17075	Illinois	Iroquois	pcnt_high_housing_costs	25
+17077	Illinois	Jackson	pcnt_high_housing_costs	37
+17079	Illinois	Jasper	pcnt_high_housing_costs	22
+17081	Illinois	Jefferson	pcnt_high_housing_costs	26
+17083	Illinois	Jersey	pcnt_high_housing_costs	23
+17085	Illinois	Jo Daviess	pcnt_high_housing_costs	28
+17087	Illinois	Johnson	pcnt_high_housing_costs	20
+17089	Illinois	Kane	pcnt_high_housing_costs	42
+17091	Illinois	Kankakee	pcnt_high_housing_costs	35
+17093	Illinois	Kendall	pcnt_high_housing_costs	39
+17095	Illinois	Knox	pcnt_high_housing_costs	28
+17097	Illinois	Lake	pcnt_high_housing_costs	39
+17099	Illinois	LaSalle	pcnt_high_housing_costs	28
+17101	Illinois	Lawrence	pcnt_high_housing_costs	22
+17103	Illinois	Lee	pcnt_high_housing_costs	27
+17105	Illinois	Livingston	pcnt_high_housing_costs	23
+17107	Illinois	Logan	pcnt_high_housing_costs	21
+17109	Illinois	McDonough	pcnt_high_housing_costs	34
+17111	Illinois	McHenry	pcnt_high_housing_costs	40
+17113	Illinois	McLean	pcnt_high_housing_costs	26
+17115	Illinois	Macon	pcnt_high_housing_costs	25
+17117	Illinois	Macoupin	pcnt_high_housing_costs	24
+17119	Illinois	Madison	pcnt_high_housing_costs	29
+17121	Illinois	Marion	pcnt_high_housing_costs	27
+17123	Illinois	Marshall	pcnt_high_housing_costs	24
+17125	Illinois	Mason	pcnt_high_housing_costs	23
+17127	Illinois	Massac	pcnt_high_housing_costs	26
+17129	Illinois	Menard	pcnt_high_housing_costs	19
+17131	Illinois	Mercer	pcnt_high_housing_costs	21
+17133	Illinois	Monroe	pcnt_high_housing_costs	25
+17135	Illinois	Montgomery	pcnt_high_housing_costs	23
+17137	Illinois	Morgan	pcnt_high_housing_costs	24
+17139	Illinois	Moultrie	pcnt_high_housing_costs	19
+17141	Illinois	Ogle	pcnt_high_housing_costs	27
+17143	Illinois	Peoria	pcnt_high_housing_costs	28
+17145	Illinois	Perry	pcnt_high_housing_costs	23
+17147	Illinois	Piatt	pcnt_high_housing_costs	19
+17149	Illinois	Pike	pcnt_high_housing_costs	21
+17151	Illinois	Pope	pcnt_high_housing_costs	21
+17153	Illinois	Pulaski	pcnt_high_housing_costs	29
+17155	Illinois	Putnam	pcnt_high_housing_costs	23
+17157	Illinois	Randolph	pcnt_high_housing_costs	23
+17159	Illinois	Richland	pcnt_high_housing_costs	20
+17161	Illinois	Rock Island	pcnt_high_housing_costs	27
+17163	Illinois	St. Clair	pcnt_high_housing_costs	32
+17165	Illinois	Saline	pcnt_high_housing_costs	26
+17167	Illinois	Sangamon	pcnt_high_housing_costs	28
+17169	Illinois	Schuyler	pcnt_high_housing_costs	17
+17171	Illinois	Scott	pcnt_high_housing_costs	13
+17173	Illinois	Shelby	pcnt_high_housing_costs	23
+17175	Illinois	Stark	pcnt_high_housing_costs	18
+17177	Illinois	Stephenson	pcnt_high_housing_costs	31
+17179	Illinois	Tazewell	pcnt_high_housing_costs	22
+17181	Illinois	Union	pcnt_high_housing_costs	22
+17183	Illinois	Vermilion	pcnt_high_housing_costs	25
+17185	Illinois	Wabash	pcnt_high_housing_costs	19
+17187	Illinois	Warren	pcnt_high_housing_costs	27
+17189	Illinois	Washington	pcnt_high_housing_costs	22
+17191	Illinois	Wayne	pcnt_high_housing_costs	22
+17193	Illinois	White	pcnt_high_housing_costs	17
+17195	Illinois	Whiteside	pcnt_high_housing_costs	25
+17197	Illinois	Will	pcnt_high_housing_costs	39
+17199	Illinois	Williamson	pcnt_high_housing_costs	26
+17201	Illinois	Winnebago	pcnt_high_housing_costs	34
+17203	Illinois	Woodford	pcnt_high_housing_costs	21
+18001	Indiana	Adams	pcnt_high_housing_costs	24
+18003	Indiana	Allen	pcnt_high_housing_costs	24
+18005	Indiana	Bartholomew	pcnt_high_housing_costs	24
+18007	Indiana	Benton	pcnt_high_housing_costs	23
+18009	Indiana	Blackford	pcnt_high_housing_costs	26
+18011	Indiana	Boone	pcnt_high_housing_costs	27
+18013	Indiana	Brown	pcnt_high_housing_costs	32
+18015	Indiana	Carroll	pcnt_high_housing_costs	24
+18017	Indiana	Cass	pcnt_high_housing_costs	23
+18019	Indiana	Clark	pcnt_high_housing_costs	29
+18021	Indiana	Clay	pcnt_high_housing_costs	22
+18023	Indiana	Clinton	pcnt_high_housing_costs	27
+18025	Indiana	Crawford	pcnt_high_housing_costs	26
+18027	Indiana	Daviess	pcnt_high_housing_costs	18
+18029	Indiana	Dearborn	pcnt_high_housing_costs	28
+18031	Indiana	Decatur	pcnt_high_housing_costs	27
+18033	Indiana	DeKalb	pcnt_high_housing_costs	27
+18035	Indiana	Delaware	pcnt_high_housing_costs	32
+18037	Indiana	Dubois	pcnt_high_housing_costs	20
+18039	Indiana	Elkhart	pcnt_high_housing_costs	31
+18041	Indiana	Fayette	pcnt_high_housing_costs	35
+18043	Indiana	Floyd	pcnt_high_housing_costs	26
+18045	Indiana	Fountain	pcnt_high_housing_costs	22
+18047	Indiana	Franklin	pcnt_high_housing_costs	24
+18049	Indiana	Fulton	pcnt_high_housing_costs	27
+18051	Indiana	Gibson	pcnt_high_housing_costs	21
+18053	Indiana	Grant	pcnt_high_housing_costs	27
+18055	Indiana	Greene	pcnt_high_housing_costs	22
+18057	Indiana	Hamilton	pcnt_high_housing_costs	23
+18059	Indiana	Hancock	pcnt_high_housing_costs	27
+18061	Indiana	Harrison	pcnt_high_housing_costs	24
+18063	Indiana	Hendricks	pcnt_high_housing_costs	26
+18065	Indiana	Henry	pcnt_high_housing_costs	29
+18067	Indiana	Howard	pcnt_high_housing_costs	27
+18069	Indiana	Huntington	pcnt_high_housing_costs	23
+18071	Indiana	Jackson	pcnt_high_housing_costs	27
+18073	Indiana	Jasper	pcnt_high_housing_costs	23
+18075	Indiana	Jay	pcnt_high_housing_costs	24
+18077	Indiana	Jefferson	pcnt_high_housing_costs	28
+18079	Indiana	Jennings	pcnt_high_housing_costs	26
+18081	Indiana	Johnson	pcnt_high_housing_costs	24
+18083	Indiana	Knox	pcnt_high_housing_costs	27
+18085	Indiana	Kosciusko	pcnt_high_housing_costs	26
+18087	Indiana	LaGrange	pcnt_high_housing_costs	32
+18089	Indiana	Lake	pcnt_high_housing_costs	34
+18091	Indiana	LaPorte	pcnt_high_housing_costs	29
+18093	Indiana	Lawrence	pcnt_high_housing_costs	27
+18095	Indiana	Madison	pcnt_high_housing_costs	29
+18097	Indiana	Marion	pcnt_high_housing_costs	36
+18099	Indiana	Marshall	pcnt_high_housing_costs	25
+18101	Indiana	Martin	pcnt_high_housing_costs	20
+18103	Indiana	Miami	pcnt_high_housing_costs	28
+18105	Indiana	Monroe	pcnt_high_housing_costs	40
+18107	Indiana	Montgomery	pcnt_high_housing_costs	24
+18109	Indiana	Morgan	pcnt_high_housing_costs	27
+18111	Indiana	Newton	pcnt_high_housing_costs	28
+18113	Indiana	Noble	pcnt_high_housing_costs	28
+18115	Indiana	Ohio	pcnt_high_housing_costs	25
+18117	Indiana	Orange	pcnt_high_housing_costs	26
+18119	Indiana	Owen	pcnt_high_housing_costs	28
+18121	Indiana	Parke	pcnt_high_housing_costs	22
+18123	Indiana	Perry	pcnt_high_housing_costs	21
+18125	Indiana	Pike	pcnt_high_housing_costs	23
+18127	Indiana	Porter	pcnt_high_housing_costs	28
+18129	Indiana	Posey	pcnt_high_housing_costs	21
+18131	Indiana	Pulaski	pcnt_high_housing_costs	25
+18133	Indiana	Putnam	pcnt_high_housing_costs	26
+18135	Indiana	Randolph	pcnt_high_housing_costs	24
+18137	Indiana	Ripley	pcnt_high_housing_costs	25
+18139	Indiana	Rush	pcnt_high_housing_costs	26
+18141	Indiana	St. Joseph	pcnt_high_housing_costs	29
+18143	Indiana	Scott	pcnt_high_housing_costs	29
+18145	Indiana	Shelby	pcnt_high_housing_costs	28
+18147	Indiana	Spencer	pcnt_high_housing_costs	20
+18149	Indiana	Starke	pcnt_high_housing_costs	32
+18151	Indiana	Steuben	pcnt_high_housing_costs	26
+18153	Indiana	Sullivan	pcnt_high_housing_costs	20
+18155	Indiana	Switzerland	pcnt_high_housing_costs	29
+18157	Indiana	Tippecanoe	pcnt_high_housing_costs	36
+18159	Indiana	Tipton	pcnt_high_housing_costs	21
+18161	Indiana	Union	pcnt_high_housing_costs	31
+18163	Indiana	Vanderburgh	pcnt_high_housing_costs	31
+18165	Indiana	Vermillion	pcnt_high_housing_costs	24
+18167	Indiana	Vigo	pcnt_high_housing_costs	29
+18169	Indiana	Wabash	pcnt_high_housing_costs	25
+18171	Indiana	Warren	pcnt_high_housing_costs	24
+18173	Indiana	Warrick	pcnt_high_housing_costs	22
+18175	Indiana	Washington	pcnt_high_housing_costs	31
+18177	Indiana	Wayne	pcnt_high_housing_costs	29
+18179	Indiana	Wells	pcnt_high_housing_costs	23
+18181	Indiana	White	pcnt_high_housing_costs	26
+18183	Indiana	Whitley	pcnt_high_housing_costs	25
+19001	Iowa	Adair	pcnt_high_housing_costs	22
+19003	Iowa	Adams	pcnt_high_housing_costs	22
+19005	Iowa	Allamakee	pcnt_high_housing_costs	23
+19007	Iowa	Appanoose	pcnt_high_housing_costs	29
+19009	Iowa	Audubon	pcnt_high_housing_costs	16
+19011	Iowa	Benton	pcnt_high_housing_costs	20
+19013	Iowa	Black Hawk	pcnt_high_housing_costs	29
+19015	Iowa	Boone	pcnt_high_housing_costs	25
+19017	Iowa	Bremer	pcnt_high_housing_costs	19
+19019	Iowa	Buchanan	pcnt_high_housing_costs	19
+19021	Iowa	Buena Vista	pcnt_high_housing_costs	20
+19023	Iowa	Butler	pcnt_high_housing_costs	18
+19025	Iowa	Calhoun	pcnt_high_housing_costs	18
+19027	Iowa	Carroll	pcnt_high_housing_costs	23
+19029	Iowa	Cass	pcnt_high_housing_costs	23
+19031	Iowa	Cedar	pcnt_high_housing_costs	20
+19033	Iowa	Cerro Gordo	pcnt_high_housing_costs	27
+19035	Iowa	Cherokee	pcnt_high_housing_costs	20
+19037	Iowa	Chickasaw	pcnt_high_housing_costs	20
+19039	Iowa	Clarke	pcnt_high_housing_costs	23
+19041	Iowa	Clay	pcnt_high_housing_costs	23
+19043	Iowa	Clayton	pcnt_high_housing_costs	21
+19045	Iowa	Clinton	pcnt_high_housing_costs	25
+19047	Iowa	Crawford	pcnt_high_housing_costs	20
+19049	Iowa	Dallas	pcnt_high_housing_costs	22
+19051	Iowa	Davis	pcnt_high_housing_costs	23
+19053	Iowa	Decatur	pcnt_high_housing_costs	31
+19055	Iowa	Delaware	pcnt_high_housing_costs	22
+19057	Iowa	Des Moines	pcnt_high_housing_costs	27
+19059	Iowa	Dickinson	pcnt_high_housing_costs	26
+19061	Iowa	Dubuque	pcnt_high_housing_costs	26
+19063	Iowa	Emmet	pcnt_high_housing_costs	20
+19065	Iowa	Fayette	pcnt_high_housing_costs	22
+19067	Iowa	Floyd	pcnt_high_housing_costs	22
+19069	Iowa	Franklin	pcnt_high_housing_costs	22
+19071	Iowa	Fremont	pcnt_high_housing_costs	19
+19073	Iowa	Greene	pcnt_high_housing_costs	22
+19075	Iowa	Grundy	pcnt_high_housing_costs	20
+19077	Iowa	Guthrie	pcnt_high_housing_costs	19
+19079	Iowa	Hamilton	pcnt_high_housing_costs	24
+19081	Iowa	Hancock	pcnt_high_housing_costs	19
+19083	Iowa	Hardin	pcnt_high_housing_costs	19
+19085	Iowa	Harrison	pcnt_high_housing_costs	24
+19087	Iowa	Henry	pcnt_high_housing_costs	27
+19089	Iowa	Howard	pcnt_high_housing_costs	23
+19091	Iowa	Humboldt	pcnt_high_housing_costs	16
+19093	Iowa	Ida	pcnt_high_housing_costs	12
+19095	Iowa	Iowa	pcnt_high_housing_costs	23
+19097	Iowa	Jackson	pcnt_high_housing_costs	24
+19099	Iowa	Jasper	pcnt_high_housing_costs	28
+19101	Iowa	Jefferson	pcnt_high_housing_costs	28
+19103	Iowa	Johnson	pcnt_high_housing_costs	34
+19105	Iowa	Jones	pcnt_high_housing_costs	21
+19107	Iowa	Keokuk	pcnt_high_housing_costs	22
+19109	Iowa	Kossuth	pcnt_high_housing_costs	16
+19111	Iowa	Lee	pcnt_high_housing_costs	22
+19113	Iowa	Linn	pcnt_high_housing_costs	24
+19115	Iowa	Louisa	pcnt_high_housing_costs	19
+19117	Iowa	Lucas	pcnt_high_housing_costs	24
+19119	Iowa	Lyon	pcnt_high_housing_costs	19
+19121	Iowa	Madison	pcnt_high_housing_costs	26
+19123	Iowa	Mahaska	pcnt_high_housing_costs	24
+19125	Iowa	Marion	pcnt_high_housing_costs	22
+19127	Iowa	Marshall	pcnt_high_housing_costs	26
+19129	Iowa	Mills	pcnt_high_housing_costs	23
+19131	Iowa	Mitchell	pcnt_high_housing_costs	17
+19133	Iowa	Monona	pcnt_high_housing_costs	21
+19135	Iowa	Monroe	pcnt_high_housing_costs	23
+19137	Iowa	Montgomery	pcnt_high_housing_costs	26
+19139	Iowa	Muscatine	pcnt_high_housing_costs	26
+19141	Iowa	O'Brien	pcnt_high_housing_costs	19
+19143	Iowa	Osceola	pcnt_high_housing_costs	16
+19145	Iowa	Page	pcnt_high_housing_costs	22
+19147	Iowa	Palo Alto	pcnt_high_housing_costs	20
+19149	Iowa	Plymouth	pcnt_high_housing_costs	18
+19151	Iowa	Pocahontas	pcnt_high_housing_costs	17
+19153	Iowa	Polk	pcnt_high_housing_costs	29
+19155	Iowa	Pottawattamie	pcnt_high_housing_costs	29
+19157	Iowa	Poweshiek	pcnt_high_housing_costs	25
+19159	Iowa	Ringgold	pcnt_high_housing_costs	22
+19161	Iowa	Sac	pcnt_high_housing_costs	19
+19163	Iowa	Scott	pcnt_high_housing_costs	27
+19165	Iowa	Shelby	pcnt_high_housing_costs	23
+19167	Iowa	Sioux	pcnt_high_housing_costs	19
+19169	Iowa	Story	pcnt_high_housing_costs	33
+19171	Iowa	Tama	pcnt_high_housing_costs	22
+19173	Iowa	Taylor	pcnt_high_housing_costs	23
+19175	Iowa	Union	pcnt_high_housing_costs	30
+19177	Iowa	Van Buren	pcnt_high_housing_costs	22
+19179	Iowa	Wapello	pcnt_high_housing_costs	26
+19181	Iowa	Warren	pcnt_high_housing_costs	23
+19183	Iowa	Washington	pcnt_high_housing_costs	24
+19185	Iowa	Wayne	pcnt_high_housing_costs	25
+19187	Iowa	Webster	pcnt_high_housing_costs	23
+19189	Iowa	Winnebago	pcnt_high_housing_costs	20
+19191	Iowa	Winneshiek	pcnt_high_housing_costs	22
+19193	Iowa	Woodbury	pcnt_high_housing_costs	28
+19195	Iowa	Worth	pcnt_high_housing_costs	21
+19197	Iowa	Wright	pcnt_high_housing_costs	20
+20001	Kansas	Allen	pcnt_high_housing_costs	21
+20003	Kansas	Anderson	pcnt_high_housing_costs	26
+20005	Kansas	Atchison	pcnt_high_housing_costs	23
+20007	Kansas	Barber	pcnt_high_housing_costs	16
+20009	Kansas	Barton	pcnt_high_housing_costs	19
+20011	Kansas	Bourbon	pcnt_high_housing_costs	25
+20013	Kansas	Brown	pcnt_high_housing_costs	24
+20015	Kansas	Butler	pcnt_high_housing_costs	25
+20017	Kansas	Chase	pcnt_high_housing_costs	22
+20019	Kansas	Chautauqua	pcnt_high_housing_costs	20
+20021	Kansas	Cherokee	pcnt_high_housing_costs	24
+20023	Kansas	Cheyenne	pcnt_high_housing_costs	26
+20025	Kansas	Clark	pcnt_high_housing_costs	16
+20027	Kansas	Clay	pcnt_high_housing_costs	23
+20029	Kansas	Cloud	pcnt_high_housing_costs	23
+20031	Kansas	Coffey	pcnt_high_housing_costs	19
+20033	Kansas	Comanche	pcnt_high_housing_costs	21
+20035	Kansas	Cowley	pcnt_high_housing_costs	25
+20037	Kansas	Crawford	pcnt_high_housing_costs	32
+20039	Kansas	Decatur	pcnt_high_housing_costs	19
+20041	Kansas	Dickinson	pcnt_high_housing_costs	23
+20043	Kansas	Doniphan	pcnt_high_housing_costs	21
+20045	Kansas	Douglas	pcnt_high_housing_costs	39
+20047	Kansas	Edwards	pcnt_high_housing_costs	18
+20049	Kansas	Elk	pcnt_high_housing_costs	24
+20051	Kansas	Ellis	pcnt_high_housing_costs	29
+20053	Kansas	Ellsworth	pcnt_high_housing_costs	16
+20055	Kansas	Finney	pcnt_high_housing_costs	26
+20057	Kansas	Ford	pcnt_high_housing_costs	24
+20059	Kansas	Franklin	pcnt_high_housing_costs	27
+20061	Kansas	Geary	pcnt_high_housing_costs	29
+20063	Kansas	Gove	pcnt_high_housing_costs	14
+20065	Kansas	Graham	pcnt_high_housing_costs	22
+20067	Kansas	Grant	pcnt_high_housing_costs	17
+20069	Kansas	Gray	pcnt_high_housing_costs	18
+20071	Kansas	Greeley	pcnt_high_housing_costs	12
+20073	Kansas	Greenwood	pcnt_high_housing_costs	20
+20075	Kansas	Hamilton	pcnt_high_housing_costs	22
+20077	Kansas	Harper	pcnt_high_housing_costs	20
+20079	Kansas	Harvey	pcnt_high_housing_costs	25
+20081	Kansas	Haskell	pcnt_high_housing_costs	15
+20083	Kansas	Hodgeman	pcnt_high_housing_costs	15
+20085	Kansas	Jackson	pcnt_high_housing_costs	23
+20087	Kansas	Jefferson	pcnt_high_housing_costs	24
+20089	Kansas	Jewell	pcnt_high_housing_costs	16
+20091	Kansas	Johnson	pcnt_high_housing_costs	27
+20093	Kansas	Kearny	pcnt_high_housing_costs	15
+20095	Kansas	Kingman	pcnt_high_housing_costs	17
+20097	Kansas	Kiowa	pcnt_high_housing_costs	21
+20099	Kansas	Labette	pcnt_high_housing_costs	24
+20101	Kansas	Lane	pcnt_high_housing_costs	18
+20103	Kansas	Leavenworth	pcnt_high_housing_costs	26
+20105	Kansas	Lincoln	pcnt_high_housing_costs	22
+20107	Kansas	Linn	pcnt_high_housing_costs	29
+20109	Kansas	Logan	pcnt_high_housing_costs	21
+20111	Kansas	Lyon	pcnt_high_housing_costs	28
+20113	Kansas	McPherson	pcnt_high_housing_costs	19
+20115	Kansas	Marion	pcnt_high_housing_costs	20
+20117	Kansas	Marshall	pcnt_high_housing_costs	18
+20119	Kansas	Meade	pcnt_high_housing_costs	17
+20121	Kansas	Miami	pcnt_high_housing_costs	29
+20123	Kansas	Mitchell	pcnt_high_housing_costs	19
+20125	Kansas	Montgomery	pcnt_high_housing_costs	24
+20127	Kansas	Morris	pcnt_high_housing_costs	21
+20129	Kansas	Morton	pcnt_high_housing_costs	21
+20131	Kansas	Nemaha	pcnt_high_housing_costs	18
+20133	Kansas	Neosho	pcnt_high_housing_costs	24
+20135	Kansas	Ness	pcnt_high_housing_costs	14
+20137	Kansas	Norton	pcnt_high_housing_costs	26
+20139	Kansas	Osage	pcnt_high_housing_costs	24
+20141	Kansas	Osborne	pcnt_high_housing_costs	22
+20143	Kansas	Ottawa	pcnt_high_housing_costs	22
+20145	Kansas	Pawnee	pcnt_high_housing_costs	20
+20147	Kansas	Phillips	pcnt_high_housing_costs	19
+20149	Kansas	Pottawatomie	pcnt_high_housing_costs	24
+20151	Kansas	Pratt	pcnt_high_housing_costs	25
+20153	Kansas	Rawlins	pcnt_high_housing_costs	18
+20155	Kansas	Reno	pcnt_high_housing_costs	24
+20157	Kansas	Republic	pcnt_high_housing_costs	19
+20159	Kansas	Rice	pcnt_high_housing_costs	20
+20161	Kansas	Riley	pcnt_high_housing_costs	36
+20163	Kansas	Rooks	pcnt_high_housing_costs	23
+20165	Kansas	Rush	pcnt_high_housing_costs	21
+20167	Kansas	Russell	pcnt_high_housing_costs	20
+20169	Kansas	Saline	pcnt_high_housing_costs	30
+20171	Kansas	Scott	pcnt_high_housing_costs	21
+20173	Kansas	Sedgwick	pcnt_high_housing_costs	29
+20175	Kansas	Seward	pcnt_high_housing_costs	26
+20177	Kansas	Shawnee	pcnt_high_housing_costs	29
+20179	Kansas	Sheridan	pcnt_high_housing_costs	17
+20181	Kansas	Sherman	pcnt_high_housing_costs	28
+20183	Kansas	Smith	pcnt_high_housing_costs	13
+20185	Kansas	Stafford	pcnt_high_housing_costs	14
+20187	Kansas	Stanton	pcnt_high_housing_costs	15
+20189	Kansas	Stevens	pcnt_high_housing_costs	16
+20191	Kansas	Sumner	pcnt_high_housing_costs	26
+20193	Kansas	Thomas	pcnt_high_housing_costs	24
+20195	Kansas	Trego	pcnt_high_housing_costs	21
+20197	Kansas	Wabaunsee	pcnt_high_housing_costs	18
+20199	Kansas	Wallace	pcnt_high_housing_costs	11
+20201	Kansas	Washington	pcnt_high_housing_costs	14
+20203	Kansas	Wichita	pcnt_high_housing_costs	15
+20205	Kansas	Wilson	pcnt_high_housing_costs	20
+20207	Kansas	Woodson	pcnt_high_housing_costs	24
+20209	Kansas	Wyandotte	pcnt_high_housing_costs	38
+21001	Kentucky	Adair	pcnt_high_housing_costs	25
+21003	Kentucky	Allen	pcnt_high_housing_costs	25
+21005	Kentucky	Anderson	pcnt_high_housing_costs	23
+21007	Kentucky	Ballard	pcnt_high_housing_costs	20
+21009	Kentucky	Barren	pcnt_high_housing_costs	29
+21011	Kentucky	Bath	pcnt_high_housing_costs	38
+21013	Kentucky	Bell	pcnt_high_housing_costs	25
+21015	Kentucky	Boone	pcnt_high_housing_costs	26
+21017	Kentucky	Bourbon	pcnt_high_housing_costs	30
+21019	Kentucky	Boyd	pcnt_high_housing_costs	24
+21021	Kentucky	Boyle	pcnt_high_housing_costs	28
+21023	Kentucky	Bracken	pcnt_high_housing_costs	24
+21025	Kentucky	Breathitt	pcnt_high_housing_costs	25
+21027	Kentucky	Breckinridge	pcnt_high_housing_costs	25
+21029	Kentucky	Bullitt	pcnt_high_housing_costs	27
+21031	Kentucky	Butler	pcnt_high_housing_costs	25
+21033	Kentucky	Caldwell	pcnt_high_housing_costs	23
+21035	Kentucky	Calloway	pcnt_high_housing_costs	29
+21037	Kentucky	Campbell	pcnt_high_housing_costs	29
+21039	Kentucky	Carlisle	pcnt_high_housing_costs	23
+21041	Kentucky	Carroll	pcnt_high_housing_costs	27
+21043	Kentucky	Carter	pcnt_high_housing_costs	21
+21045	Kentucky	Casey	pcnt_high_housing_costs	27
+21047	Kentucky	Christian	pcnt_high_housing_costs	31
+21049	Kentucky	Clark	pcnt_high_housing_costs	27
+21051	Kentucky	Clay	pcnt_high_housing_costs	30
+21053	Kentucky	Clinton	pcnt_high_housing_costs	27
+21055	Kentucky	Crittenden	pcnt_high_housing_costs	21
+21057	Kentucky	Cumberland	pcnt_high_housing_costs	23
+21059	Kentucky	Daviess	pcnt_high_housing_costs	25
+21061	Kentucky	Edmonson	pcnt_high_housing_costs	27
+21063	Kentucky	Elliott	pcnt_high_housing_costs	30
+21065	Kentucky	Estill	pcnt_high_housing_costs	28
+21067	Kentucky	Fayette	pcnt_high_housing_costs	32
+21069	Kentucky	Fleming	pcnt_high_housing_costs	30
+21071	Kentucky	Floyd	pcnt_high_housing_costs	27
+21073	Kentucky	Franklin	pcnt_high_housing_costs	29
+21075	Kentucky	Fulton	pcnt_high_housing_costs	23
+21077	Kentucky	Gallatin	pcnt_high_housing_costs	33
+21079	Kentucky	Garrard	pcnt_high_housing_costs	31
+21081	Kentucky	Grant	pcnt_high_housing_costs	32
+21083	Kentucky	Graves	pcnt_high_housing_costs	28
+21085	Kentucky	Grayson	pcnt_high_housing_costs	28
+21087	Kentucky	Green	pcnt_high_housing_costs	23
+21089	Kentucky	Greenup	pcnt_high_housing_costs	23
+21091	Kentucky	Hancock	pcnt_high_housing_costs	14
+21093	Kentucky	Hardin	pcnt_high_housing_costs	26
+21095	Kentucky	Harlan	pcnt_high_housing_costs	21
+21097	Kentucky	Harrison	pcnt_high_housing_costs	27
+21099	Kentucky	Hart	pcnt_high_housing_costs	27
+21101	Kentucky	Henderson	pcnt_high_housing_costs	29
+21103	Kentucky	Henry	pcnt_high_housing_costs	33
+21105	Kentucky	Hickman	pcnt_high_housing_costs	20
+21107	Kentucky	Hopkins	pcnt_high_housing_costs	25
+21109	Kentucky	Jackson	pcnt_high_housing_costs	32
+21111	Kentucky	Jefferson	pcnt_high_housing_costs	31
+21113	Kentucky	Jessamine	pcnt_high_housing_costs	34
+21115	Kentucky	Johnson	pcnt_high_housing_costs	23
+21117	Kentucky	Kenton	pcnt_high_housing_costs	30
+21119	Kentucky	Knott	pcnt_high_housing_costs	17
+21121	Kentucky	Knox	pcnt_high_housing_costs	30
+21123	Kentucky	Larue	pcnt_high_housing_costs	28
+21125	Kentucky	Laurel	pcnt_high_housing_costs	26
+21127	Kentucky	Lawrence	pcnt_high_housing_costs	24
+21129	Kentucky	Lee	pcnt_high_housing_costs	25
+21131	Kentucky	Leslie	pcnt_high_housing_costs	19
+21133	Kentucky	Letcher	pcnt_high_housing_costs	17
+21135	Kentucky	Lewis	pcnt_high_housing_costs	26
+21137	Kentucky	Lincoln	pcnt_high_housing_costs	28
+21139	Kentucky	Livingston	pcnt_high_housing_costs	18
+21141	Kentucky	Logan	pcnt_high_housing_costs	30
+21143	Kentucky	Lyon	pcnt_high_housing_costs	22
+21145	Kentucky	McCracken	pcnt_high_housing_costs	25
+21147	Kentucky	McCreary	pcnt_high_housing_costs	36
+21149	Kentucky	McLean	pcnt_high_housing_costs	21
+21151	Kentucky	Madison	pcnt_high_housing_costs	29
+21153	Kentucky	Magoffin	pcnt_high_housing_costs	25
+21155	Kentucky	Marion	pcnt_high_housing_costs	28
+21157	Kentucky	Marshall	pcnt_high_housing_costs	23
+21159	Kentucky	Martin	pcnt_high_housing_costs	24
+21161	Kentucky	Mason	pcnt_high_housing_costs	27
+21163	Kentucky	Meade	pcnt_high_housing_costs	25
+21165	Kentucky	Menifee	pcnt_high_housing_costs	27
+21167	Kentucky	Mercer	pcnt_high_housing_costs	28
+21169	Kentucky	Metcalfe	pcnt_high_housing_costs	22
+21171	Kentucky	Monroe	pcnt_high_housing_costs	26
+21173	Kentucky	Montgomery	pcnt_high_housing_costs	28
+21175	Kentucky	Morgan	pcnt_high_housing_costs	21
+21177	Kentucky	Muhlenberg	pcnt_high_housing_costs	26
+21179	Kentucky	Nelson	pcnt_high_housing_costs	27
+21181	Kentucky	Nicholas	pcnt_high_housing_costs	23
+21183	Kentucky	Ohio	pcnt_high_housing_costs	21
+21185	Kentucky	Oldham	pcnt_high_housing_costs	26
+21187	Kentucky	Owen	pcnt_high_housing_costs	21
+21189	Kentucky	Owsley	pcnt_high_housing_costs	27
+21191	Kentucky	Pendleton	pcnt_high_housing_costs	25
+21193	Kentucky	Perry	pcnt_high_housing_costs	25
+21195	Kentucky	Pike	pcnt_high_housing_costs	23
+21197	Kentucky	Powell	pcnt_high_housing_costs	35
+21199	Kentucky	Pulaski	pcnt_high_housing_costs	30
+21201	Kentucky	Robertson	pcnt_high_housing_costs	25
+21203	Kentucky	Rockcastle	pcnt_high_housing_costs	31
+21205	Kentucky	Rowan	pcnt_high_housing_costs	29
+21207	Kentucky	Russell	pcnt_high_housing_costs	27
+21209	Kentucky	Scott	pcnt_high_housing_costs	24
+21211	Kentucky	Shelby	pcnt_high_housing_costs	27
+21213	Kentucky	Simpson	pcnt_high_housing_costs	25
+21215	Kentucky	Spencer	pcnt_high_housing_costs	22
+21217	Kentucky	Taylor	pcnt_high_housing_costs	29
+21219	Kentucky	Todd	pcnt_high_housing_costs	27
+21221	Kentucky	Trigg	pcnt_high_housing_costs	27
+21223	Kentucky	Trimble	pcnt_high_housing_costs	21
+21225	Kentucky	Union	pcnt_high_housing_costs	24
+21227	Kentucky	Warren	pcnt_high_housing_costs	32
+21229	Kentucky	Washington	pcnt_high_housing_costs	20
+21231	Kentucky	Wayne	pcnt_high_housing_costs	28
+21233	Kentucky	Webster	pcnt_high_housing_costs	19
+21235	Kentucky	Whitley	pcnt_high_housing_costs	27
+21237	Kentucky	Wolfe	pcnt_high_housing_costs	32
+21239	Kentucky	Woodford	pcnt_high_housing_costs	26
+22001	Louisiana	Acadia	pcnt_high_housing_costs	23
+22003	Louisiana	Allen	pcnt_high_housing_costs	20
+22005	Louisiana	Ascension	pcnt_high_housing_costs	22
+22007	Louisiana	Assumption	pcnt_high_housing_costs	19
+22009	Louisiana	Avoyelles	pcnt_high_housing_costs	26
+22011	Louisiana	Beauregard	pcnt_high_housing_costs	17
+22013	Louisiana	Bienville	pcnt_high_housing_costs	24
+22015	Louisiana	Bossier	pcnt_high_housing_costs	26
+22017	Louisiana	Caddo	pcnt_high_housing_costs	32
+22019	Louisiana	Calcasieu	pcnt_high_housing_costs	26
+22021	Louisiana	Caldwell	pcnt_high_housing_costs	23
+22023	Louisiana	Cameron	pcnt_high_housing_costs	15
+22025	Louisiana	Catahoula	pcnt_high_housing_costs	16
+22027	Louisiana	Claiborne	pcnt_high_housing_costs	21
+22029	Louisiana	Concordia	pcnt_high_housing_costs	27
+22031	Louisiana	De Soto	pcnt_high_housing_costs	25
+22033	Louisiana	East Baton Rouge	pcnt_high_housing_costs	34
+22035	Louisiana	East Carroll	pcnt_high_housing_costs	36
+22037	Louisiana	East Feliciana	pcnt_high_housing_costs	24
+22039	Louisiana	Evangeline	pcnt_high_housing_costs	25
+22041	Louisiana	Franklin	pcnt_high_housing_costs	25
+22043	Louisiana	Grant	pcnt_high_housing_costs	23
+22045	Louisiana	Iberia	pcnt_high_housing_costs	25
+22047	Louisiana	Iberville	pcnt_high_housing_costs	22
+22049	Louisiana	Jackson	pcnt_high_housing_costs	18
+22051	Louisiana	Jefferson	pcnt_high_housing_costs	34
+22053	Louisiana	Jefferson Davis	pcnt_high_housing_costs	20
+22055	Louisiana	Lafayette	pcnt_high_housing_costs	28
+22057	Louisiana	Lafourche	pcnt_high_housing_costs	20
+22059	Louisiana	La Salle	pcnt_high_housing_costs	16
+22061	Louisiana	Lincoln	pcnt_high_housing_costs	31
+22063	Louisiana	Livingston	pcnt_high_housing_costs	21
+22065	Louisiana	Madison	pcnt_high_housing_costs	25
+22067	Louisiana	Morehouse	pcnt_high_housing_costs	27
+22069	Louisiana	Natchitoches	pcnt_high_housing_costs	33
+22071	Louisiana	Orleans	pcnt_high_housing_costs	46
+22073	Louisiana	Ouachita	pcnt_high_housing_costs	31
+22075	Louisiana	Plaquemines	pcnt_high_housing_costs	29
+22077	Louisiana	Pointe Coupee	pcnt_high_housing_costs	19
+22079	Louisiana	Rapides	pcnt_high_housing_costs	29
+22081	Louisiana	Red River	pcnt_high_housing_costs	21
+22083	Louisiana	Richland	pcnt_high_housing_costs	22
+22085	Louisiana	Sabine	pcnt_high_housing_costs	19
+22087	Louisiana	St. Bernard	pcnt_high_housing_costs	29
+22089	Louisiana	St. Charles	pcnt_high_housing_costs	29
+22091	Louisiana	St. Helena	pcnt_high_housing_costs	22
+22093	Louisiana	St. James	pcnt_high_housing_costs	18
+22095	Louisiana	St. John the Baptist	pcnt_high_housing_costs	30
+22097	Louisiana	St. Landry	pcnt_high_housing_costs	27
+22099	Louisiana	St. Martin	pcnt_high_housing_costs	22
+22101	Louisiana	St. Mary	pcnt_high_housing_costs	24
+22103	Louisiana	St. Tammany	pcnt_high_housing_costs	30
+22105	Louisiana	Tangipahoa	pcnt_high_housing_costs	29
+22107	Louisiana	Tensas	pcnt_high_housing_costs	22
+22109	Louisiana	Terrebonne	pcnt_high_housing_costs	24
+22111	Louisiana	Union	pcnt_high_housing_costs	17
+22113	Louisiana	Vermilion	pcnt_high_housing_costs	21
+22115	Louisiana	Vernon	pcnt_high_housing_costs	20
+22117	Louisiana	Washington	pcnt_high_housing_costs	27
+22119	Louisiana	Webster	pcnt_high_housing_costs	26
+22121	Louisiana	West Baton Rouge	pcnt_high_housing_costs	26
+22123	Louisiana	West Carroll	pcnt_high_housing_costs	23
+22125	Louisiana	West Feliciana	pcnt_high_housing_costs	23
+22127	Louisiana	Winn	pcnt_high_housing_costs	21
+23001	Maine	Androscoggin	pcnt_high_housing_costs	36
+23003	Maine	Aroostook	pcnt_high_housing_costs	26
+23005	Maine	Cumberland	pcnt_high_housing_costs	37
+23007	Maine	Franklin	pcnt_high_housing_costs	28
+23009	Maine	Hancock	pcnt_high_housing_costs	32
+23011	Maine	Kennebec	pcnt_high_housing_costs	31
+23013	Maine	Knox	pcnt_high_housing_costs	37
+23015	Maine	Lincoln	pcnt_high_housing_costs	34
+23017	Maine	Oxford	pcnt_high_housing_costs	32
+23019	Maine	Penobscot	pcnt_high_housing_costs	33
+23021	Maine	Piscataquis	pcnt_high_housing_costs	30
+23023	Maine	Sagadahoc	pcnt_high_housing_costs	32
+23025	Maine	Somerset	pcnt_high_housing_costs	32
+23027	Maine	Waldo	pcnt_high_housing_costs	34
+23029	Maine	Washington	pcnt_high_housing_costs	29
+23031	Maine	York	pcnt_high_housing_costs	37
+24001	Maryland	Allegany	pcnt_high_housing_costs	28
+24003	Maryland	Anne Arundel	pcnt_high_housing_costs	35
+24005	Maryland	Baltimore	pcnt_high_housing_costs	36
+24009	Maryland	Calvert	pcnt_high_housing_costs	36
+24011	Maryland	Caroline	pcnt_high_housing_costs	37
+24013	Maryland	Carroll	pcnt_high_housing_costs	33
+24015	Maryland	Cecil	pcnt_high_housing_costs	35
+24017	Maryland	Charles	pcnt_high_housing_costs	38
+24019	Maryland	Dorchester	pcnt_high_housing_costs	38
+24021	Maryland	Frederick	pcnt_high_housing_costs	34
+24023	Maryland	Garrett	pcnt_high_housing_costs	27
+24025	Maryland	Harford	pcnt_high_housing_costs	33
+24027	Maryland	Howard	pcnt_high_housing_costs	32
+24029	Maryland	Kent	pcnt_high_housing_costs	37
+24031	Maryland	Montgomery	pcnt_high_housing_costs	38
+24033	Maryland	Prince George's	pcnt_high_housing_costs	45
+24035	Maryland	Queen Anne's	pcnt_high_housing_costs	35
+24037	Maryland	St. Mary's	pcnt_high_housing_costs	32
+24039	Maryland	Somerset	pcnt_high_housing_costs	40
+24041	Maryland	Talbot	pcnt_high_housing_costs	36
+24043	Maryland	Washington	pcnt_high_housing_costs	34
+24045	Maryland	Wicomico	pcnt_high_housing_costs	38
+24047	Maryland	Worcester	pcnt_high_housing_costs	36
+24510	Maryland	Baltimore City	pcnt_high_housing_costs	45
+25001	Massachusetts	Barnstable	pcnt_high_housing_costs	43
+25003	Massachusetts	Berkshire	pcnt_high_housing_costs	36
+25005	Massachusetts	Bristol	pcnt_high_housing_costs	40
+25007	Massachusetts	Dukes	pcnt_high_housing_costs	50
+25009	Massachusetts	Essex	pcnt_high_housing_costs	42
+25011	Massachusetts	Franklin	pcnt_high_housing_costs	37
+25013	Massachusetts	Hampden	pcnt_high_housing_costs	40
+25015	Massachusetts	Hampshire	pcnt_high_housing_costs	36
+25017	Massachusetts	Middlesex	pcnt_high_housing_costs	38
+25019	Massachusetts	Nantucket	pcnt_high_housing_costs	50
+25021	Massachusetts	Norfolk	pcnt_high_housing_costs	37
+25023	Massachusetts	Plymouth	pcnt_high_housing_costs	41
+25025	Massachusetts	Suffolk	pcnt_high_housing_costs	47
+25027	Massachusetts	Worcester	pcnt_high_housing_costs	36
+26001	Michigan	Alcona	pcnt_high_housing_costs	31
+26003	Michigan	Alger	pcnt_high_housing_costs	30
+26005	Michigan	Allegan	pcnt_high_housing_costs	31
+26007	Michigan	Alpena	pcnt_high_housing_costs	30
+26009	Michigan	Antrim	pcnt_high_housing_costs	36
+26011	Michigan	Arenac	pcnt_high_housing_costs	31
+26013	Michigan	Baraga	pcnt_high_housing_costs	28
+26015	Michigan	Barry	pcnt_high_housing_costs	30
+26017	Michigan	Bay	pcnt_high_housing_costs	28
+26019	Michigan	Benzie	pcnt_high_housing_costs	34
+26021	Michigan	Berrien	pcnt_high_housing_costs	32
+26023	Michigan	Branch	pcnt_high_housing_costs	29
+26025	Michigan	Calhoun	pcnt_high_housing_costs	35
+26027	Michigan	Cass	pcnt_high_housing_costs	30
+26029	Michigan	Charlevoix	pcnt_high_housing_costs	33
+26031	Michigan	Cheboygan	pcnt_high_housing_costs	32
+26033	Michigan	Chippewa	pcnt_high_housing_costs	29
+26035	Michigan	Clare	pcnt_high_housing_costs	34
+26037	Michigan	Clinton	pcnt_high_housing_costs	28
+26039	Michigan	Crawford	pcnt_high_housing_costs	34
+26041	Michigan	Delta	pcnt_high_housing_costs	30
+26043	Michigan	Dickinson	pcnt_high_housing_costs	25
+26045	Michigan	Eaton	pcnt_high_housing_costs	30
+26047	Michigan	Emmet	pcnt_high_housing_costs	35
+26049	Michigan	Genesee	pcnt_high_housing_costs	36
+26051	Michigan	Gladwin	pcnt_high_housing_costs	34
+26053	Michigan	Gogebic	pcnt_high_housing_costs	28
+26055	Michigan	Grand Traverse	pcnt_high_housing_costs	35
+26057	Michigan	Gratiot	pcnt_high_housing_costs	30
+26059	Michigan	Hillsdale	pcnt_high_housing_costs	31
+26061	Michigan	Houghton	pcnt_high_housing_costs	32
+26063	Michigan	Huron	pcnt_high_housing_costs	28
+26065	Michigan	Ingham	pcnt_high_housing_costs	38
+26067	Michigan	Ionia	pcnt_high_housing_costs	35
+26069	Michigan	Iosco	pcnt_high_housing_costs	32
+26071	Michigan	Iron	pcnt_high_housing_costs	28
+26073	Michigan	Isabella	pcnt_high_housing_costs	41
+26075	Michigan	Jackson	pcnt_high_housing_costs	32
+26077	Michigan	Kalamazoo	pcnt_high_housing_costs	36
+26079	Michigan	Kalkaska	pcnt_high_housing_costs	34
+26081	Michigan	Kent	pcnt_high_housing_costs	34
+26083	Michigan	Keweenaw	pcnt_high_housing_costs	24
+26085	Michigan	Lake	pcnt_high_housing_costs	34
+26087	Michigan	Lapeer	pcnt_high_housing_costs	32
+26089	Michigan	Leelanau	pcnt_high_housing_costs	33
+26091	Michigan	Lenawee	pcnt_high_housing_costs	33
+26093	Michigan	Livingston	pcnt_high_housing_costs	33
+26095	Michigan	Luce	pcnt_high_housing_costs	27
+26097	Michigan	Mackinac	pcnt_high_housing_costs	30
+26099	Michigan	Macomb	pcnt_high_housing_costs	35
+26101	Michigan	Manistee	pcnt_high_housing_costs	31
+26103	Michigan	Marquette	pcnt_high_housing_costs	27
+26105	Michigan	Mason	pcnt_high_housing_costs	31
+26107	Michigan	Mecosta	pcnt_high_housing_costs	36
+26109	Michigan	Menominee	pcnt_high_housing_costs	26
+26111	Michigan	Midland	pcnt_high_housing_costs	28
+26113	Michigan	Missaukee	pcnt_high_housing_costs	31
+26115	Michigan	Monroe	pcnt_high_housing_costs	32
+26117	Michigan	Montcalm	pcnt_high_housing_costs	35
+26119	Michigan	Montmorency	pcnt_high_housing_costs	33
+26121	Michigan	Muskegon	pcnt_high_housing_costs	35
+26123	Michigan	Newaygo	pcnt_high_housing_costs	31
+26125	Michigan	Oakland	pcnt_high_housing_costs	35
+26127	Michigan	Oceana	pcnt_high_housing_costs	31
+26129	Michigan	Ogemaw	pcnt_high_housing_costs	37
+26131	Michigan	Ontonagon	pcnt_high_housing_costs	26
+26133	Michigan	Osceola	pcnt_high_housing_costs	31
+26135	Michigan	Oscoda	pcnt_high_housing_costs	34
+26137	Michigan	Otsego	pcnt_high_housing_costs	30
+26139	Michigan	Ottawa	pcnt_high_housing_costs	30
+26141	Michigan	Presque Isle	pcnt_high_housing_costs	28
+26143	Michigan	Roscommon	pcnt_high_housing_costs	39
+26145	Michigan	Saginaw	pcnt_high_housing_costs	33
+26147	Michigan	St. Clair	pcnt_high_housing_costs	36
+26149	Michigan	St. Joseph	pcnt_high_housing_costs	29
+26151	Michigan	Sanilac	pcnt_high_housing_costs	33
+26153	Michigan	Schoolcraft	pcnt_high_housing_costs	27
+26155	Michigan	Shiawassee	pcnt_high_housing_costs	32
+26157	Michigan	Tuscola	pcnt_high_housing_costs	30
+26159	Michigan	Van Buren	pcnt_high_housing_costs	34
+26161	Michigan	Washtenaw	pcnt_high_housing_costs	38
+26163	Michigan	Wayne	pcnt_high_housing_costs	41
+26165	Michigan	Wexford	pcnt_high_housing_costs	33
+27001	Minnesota	Aitkin	pcnt_high_housing_costs	31
+27003	Minnesota	Anoka	pcnt_high_housing_costs	34
+27005	Minnesota	Becker	pcnt_high_housing_costs	30
+27007	Minnesota	Beltrami	pcnt_high_housing_costs	31
+27009	Minnesota	Benton	pcnt_high_housing_costs	35
+27011	Minnesota	Big Stone	pcnt_high_housing_costs	24
+27013	Minnesota	Blue Earth	pcnt_high_housing_costs	33
+27015	Minnesota	Brown	pcnt_high_housing_costs	24
+27017	Minnesota	Carlton	pcnt_high_housing_costs	31
+27019	Minnesota	Carver	pcnt_high_housing_costs	32
+27021	Minnesota	Cass	pcnt_high_housing_costs	30
+27023	Minnesota	Chippewa	pcnt_high_housing_costs	24
+27025	Minnesota	Chisago	pcnt_high_housing_costs	38
+27027	Minnesota	Clay	pcnt_high_housing_costs	31
+27029	Minnesota	Clearwater	pcnt_high_housing_costs	31
+27031	Minnesota	Cook	pcnt_high_housing_costs	22
+27033	Minnesota	Cottonwood	pcnt_high_housing_costs	25
+27035	Minnesota	Crow Wing	pcnt_high_housing_costs	33
+27037	Minnesota	Dakota	pcnt_high_housing_costs	31
+27039	Minnesota	Dodge	pcnt_high_housing_costs	25
+27041	Minnesota	Douglas	pcnt_high_housing_costs	33
+27043	Minnesota	Faribault	pcnt_high_housing_costs	25
+27045	Minnesota	Fillmore	pcnt_high_housing_costs	29
+27047	Minnesota	Freeborn	pcnt_high_housing_costs	28
+27049	Minnesota	Goodhue	pcnt_high_housing_costs	32
+27051	Minnesota	Grant	pcnt_high_housing_costs	29
+27053	Minnesota	Hennepin	pcnt_high_housing_costs	37
+27055	Minnesota	Houston	pcnt_high_housing_costs	24
+27057	Minnesota	Hubbard	pcnt_high_housing_costs	30
+27059	Minnesota	Isanti	pcnt_high_housing_costs	36
+27061	Minnesota	Itasca	pcnt_high_housing_costs	29
+27063	Minnesota	Jackson	pcnt_high_housing_costs	21
+27065	Minnesota	Kanabec	pcnt_high_housing_costs	39
+27067	Minnesota	Kandiyohi	pcnt_high_housing_costs	31
+27069	Minnesota	Kittson	pcnt_high_housing_costs	19
+27071	Minnesota	Koochiching	pcnt_high_housing_costs	27
+27073	Minnesota	Lac qui Parle	pcnt_high_housing_costs	18
+27075	Minnesota	Lake	pcnt_high_housing_costs	27
+27077	Minnesota	Lake of the Woods	pcnt_high_housing_costs	30
+27079	Minnesota	Le Sueur	pcnt_high_housing_costs	33
+27081	Minnesota	Lincoln	pcnt_high_housing_costs	23
+27083	Minnesota	Lyon	pcnt_high_housing_costs	26
+27085	Minnesota	McLeod	pcnt_high_housing_costs	29
+27087	Minnesota	Mahnomen	pcnt_high_housing_costs	29
+27089	Minnesota	Marshall	pcnt_high_housing_costs	18
+27091	Minnesota	Martin	pcnt_high_housing_costs	24
+27093	Minnesota	Meeker	pcnt_high_housing_costs	32
+27095	Minnesota	Mille Lacs	pcnt_high_housing_costs	37
+27097	Minnesota	Morrison	pcnt_high_housing_costs	32
+27099	Minnesota	Mower	pcnt_high_housing_costs	29
+27101	Minnesota	Murray	pcnt_high_housing_costs	23
+27103	Minnesota	Nicollet	pcnt_high_housing_costs	27
+27105	Minnesota	Nobles	pcnt_high_housing_costs	26
+27107	Minnesota	Norman	pcnt_high_housing_costs	23
+27109	Minnesota	Olmsted	pcnt_high_housing_costs	27
+27111	Minnesota	Otter Tail	pcnt_high_housing_costs	29
+27113	Minnesota	Pennington	pcnt_high_housing_costs	24
+27115	Minnesota	Pine	pcnt_high_housing_costs	34
+27117	Minnesota	Pipestone	pcnt_high_housing_costs	22
+27119	Minnesota	Polk	pcnt_high_housing_costs	26
+27121	Minnesota	Pope	pcnt_high_housing_costs	23
+27123	Minnesota	Ramsey	pcnt_high_housing_costs	37
+27125	Minnesota	Red Lake	pcnt_high_housing_costs	19
+27127	Minnesota	Redwood	pcnt_high_housing_costs	24
+27129	Minnesota	Renville	pcnt_high_housing_costs	24
+27131	Minnesota	Rice	pcnt_high_housing_costs	34
+27133	Minnesota	Rock	pcnt_high_housing_costs	25
+27135	Minnesota	Roseau	pcnt_high_housing_costs	22
+27137	Minnesota	St. Louis	pcnt_high_housing_costs	31
+27139	Minnesota	Scott	pcnt_high_housing_costs	32
+27141	Minnesota	Sherburne	pcnt_high_housing_costs	35
+27143	Minnesota	Sibley	pcnt_high_housing_costs	30
+27145	Minnesota	Stearns	pcnt_high_housing_costs	31
+27147	Minnesota	Steele	pcnt_high_housing_costs	30
+27149	Minnesota	Stevens	pcnt_high_housing_costs	24
+27151	Minnesota	Swift	pcnt_high_housing_costs	19
+27153	Minnesota	Todd	pcnt_high_housing_costs	32
+27155	Minnesota	Traverse	pcnt_high_housing_costs	21
+27157	Minnesota	Wabasha	pcnt_high_housing_costs	30
+27159	Minnesota	Wadena	pcnt_high_housing_costs	38
+27161	Minnesota	Waseca	pcnt_high_housing_costs	27
+27163	Minnesota	Washington	pcnt_high_housing_costs	31
+27165	Minnesota	Watonwan	pcnt_high_housing_costs	20
+27167	Minnesota	Wilkin	pcnt_high_housing_costs	20
+27169	Minnesota	Winona	pcnt_high_housing_costs	32
+27171	Minnesota	Wright	pcnt_high_housing_costs	33
+27173	Minnesota	Yellow Medicine	pcnt_high_housing_costs	21
+28001	Mississippi	Adams	pcnt_high_housing_costs	36
+28003	Mississippi	Alcorn	pcnt_high_housing_costs	28
+28005	Mississippi	Amite	pcnt_high_housing_costs	27
+28007	Mississippi	Attala	pcnt_high_housing_costs	27
+28009	Mississippi	Benton	pcnt_high_housing_costs	33
+28011	Mississippi	Bolivar	pcnt_high_housing_costs	36
+28013	Mississippi	Calhoun	pcnt_high_housing_costs	25
+28015	Mississippi	Carroll	pcnt_high_housing_costs	27
+28017	Mississippi	Chickasaw	pcnt_high_housing_costs	29
+28019	Mississippi	Choctaw	pcnt_high_housing_costs	27
+28021	Mississippi	Claiborne	pcnt_high_housing_costs	33
+28023	Mississippi	Clarke	pcnt_high_housing_costs	27
+28025	Mississippi	Clay	pcnt_high_housing_costs	35
+28027	Mississippi	Coahoma	pcnt_high_housing_costs	39
+28029	Mississippi	Copiah	pcnt_high_housing_costs	25
+28031	Mississippi	Covington	pcnt_high_housing_costs	29
+28033	Mississippi	DeSoto	pcnt_high_housing_costs	29
+28035	Mississippi	Forrest	pcnt_high_housing_costs	37
+28037	Mississippi	Franklin	pcnt_high_housing_costs	21
+28039	Mississippi	George	pcnt_high_housing_costs	18
+28041	Mississippi	Greene	pcnt_high_housing_costs	23
+28043	Mississippi	Grenada	pcnt_high_housing_costs	32
+28045	Mississippi	Hancock	pcnt_high_housing_costs	29
+28047	Mississippi	Harrison	pcnt_high_housing_costs	36
+28049	Mississippi	Hinds	pcnt_high_housing_costs	36
+28051	Mississippi	Holmes	pcnt_high_housing_costs	40
+28053	Mississippi	Humphreys	pcnt_high_housing_costs	31
+28055	Mississippi	Issaquena	pcnt_high_housing_costs	42
+28057	Mississippi	Itawamba	pcnt_high_housing_costs	19
+28059	Mississippi	Jackson	pcnt_high_housing_costs	31
+28061	Mississippi	Jasper	pcnt_high_housing_costs	30
+28063	Mississippi	Jefferson	pcnt_high_housing_costs	27
+28065	Mississippi	Jefferson Davis	pcnt_high_housing_costs	34
+28067	Mississippi	Jones	pcnt_high_housing_costs	26
+28069	Mississippi	Kemper	pcnt_high_housing_costs	33
+28071	Mississippi	Lafayette	pcnt_high_housing_costs	33
+28073	Mississippi	Lamar	pcnt_high_housing_costs	28
+28075	Mississippi	Lauderdale	pcnt_high_housing_costs	31
+28077	Mississippi	Lawrence	pcnt_high_housing_costs	23
+28079	Mississippi	Leake	pcnt_high_housing_costs	27
+28081	Mississippi	Lee	pcnt_high_housing_costs	30
+28083	Mississippi	Leflore	pcnt_high_housing_costs	37
+28085	Mississippi	Lincoln	pcnt_high_housing_costs	22
+28087	Mississippi	Lowndes	pcnt_high_housing_costs	36
+28089	Mississippi	Madison	pcnt_high_housing_costs	28
+28091	Mississippi	Marion	pcnt_high_housing_costs	28
+28093	Mississippi	Marshall	pcnt_high_housing_costs	33
+28095	Mississippi	Monroe	pcnt_high_housing_costs	25
+28097	Mississippi	Montgomery	pcnt_high_housing_costs	29
+28099	Mississippi	Neshoba	pcnt_high_housing_costs	24
+28101	Mississippi	Newton	pcnt_high_housing_costs	22
+28103	Mississippi	Noxubee	pcnt_high_housing_costs	41
+28105	Mississippi	Oktibbeha	pcnt_high_housing_costs	40
+28107	Mississippi	Panola	pcnt_high_housing_costs	30
+28109	Mississippi	Pearl River	pcnt_high_housing_costs	32
+28111	Mississippi	Perry	pcnt_high_housing_costs	19
+28113	Mississippi	Pike	pcnt_high_housing_costs	31
+28115	Mississippi	Pontotoc	pcnt_high_housing_costs	23
+28117	Mississippi	Prentiss	pcnt_high_housing_costs	25
+28119	Mississippi	Quitman	pcnt_high_housing_costs	33
+28121	Mississippi	Rankin	pcnt_high_housing_costs	25
+28123	Mississippi	Scott	pcnt_high_housing_costs	26
+28125	Mississippi	Sharkey	pcnt_high_housing_costs	33
+28127	Mississippi	Simpson	pcnt_high_housing_costs	25
+28129	Mississippi	Smith	pcnt_high_housing_costs	22
+28131	Mississippi	Stone	pcnt_high_housing_costs	25
+28133	Mississippi	Sunflower	pcnt_high_housing_costs	34
+28135	Mississippi	Tallahatchie	pcnt_high_housing_costs	33
+28137	Mississippi	Tate	pcnt_high_housing_costs	31
+28139	Mississippi	Tippah	pcnt_high_housing_costs	25
+28141	Mississippi	Tishomingo	pcnt_high_housing_costs	25
+28143	Mississippi	Tunica	pcnt_high_housing_costs	36
+28145	Mississippi	Union	pcnt_high_housing_costs	28
+28147	Mississippi	Walthall	pcnt_high_housing_costs	26
+28149	Mississippi	Warren	pcnt_high_housing_costs	30
+28151	Mississippi	Washington	pcnt_high_housing_costs	37
+28153	Mississippi	Wayne	pcnt_high_housing_costs	30
+28155	Mississippi	Webster	pcnt_high_housing_costs	27
+28157	Mississippi	Wilkinson	pcnt_high_housing_costs	30
+28159	Mississippi	Winston	pcnt_high_housing_costs	28
+28161	Mississippi	Yalobusha	pcnt_high_housing_costs	26
+28163	Mississippi	Yazoo	pcnt_high_housing_costs	36
+29001	Missouri	Adair	pcnt_high_housing_costs	33
+29003	Missouri	Andrew	pcnt_high_housing_costs	21
+29005	Missouri	Atchison	pcnt_high_housing_costs	16
+29007	Missouri	Audrain	pcnt_high_housing_costs	20
+29009	Missouri	Barry	pcnt_high_housing_costs	24
+29011	Missouri	Barton	pcnt_high_housing_costs	28
+29013	Missouri	Bates	pcnt_high_housing_costs	32
+29015	Missouri	Benton	pcnt_high_housing_costs	24
+29017	Missouri	Bollinger	pcnt_high_housing_costs	26
+29019	Missouri	Boone	pcnt_high_housing_costs	32
+29021	Missouri	Buchanan	pcnt_high_housing_costs	27
+29023	Missouri	Butler	pcnt_high_housing_costs	28
+29025	Missouri	Caldwell	pcnt_high_housing_costs	25
+29027	Missouri	Callaway	pcnt_high_housing_costs	22
+29029	Missouri	Camden	pcnt_high_housing_costs	29
+29031	Missouri	Cape Girardeau	pcnt_high_housing_costs	28
+29033	Missouri	Carroll	pcnt_high_housing_costs	19
+29035	Missouri	Carter	pcnt_high_housing_costs	27
+29037	Missouri	Cass	pcnt_high_housing_costs	27
+29039	Missouri	Cedar	pcnt_high_housing_costs	30
+29041	Missouri	Chariton	pcnt_high_housing_costs	18
+29043	Missouri	Christian	pcnt_high_housing_costs	28
+29045	Missouri	Clark	pcnt_high_housing_costs	17
+29047	Missouri	Clay	pcnt_high_housing_costs	27
+29049	Missouri	Clinton	pcnt_high_housing_costs	27
+29051	Missouri	Cole	pcnt_high_housing_costs	21
+29053	Missouri	Cooper	pcnt_high_housing_costs	21
+29055	Missouri	Crawford	pcnt_high_housing_costs	31
+29057	Missouri	Dade	pcnt_high_housing_costs	23
+29059	Missouri	Dallas	pcnt_high_housing_costs	24
+29061	Missouri	Daviess	pcnt_high_housing_costs	26
+29063	Missouri	DeKalb	pcnt_high_housing_costs	27
+29065	Missouri	Dent	pcnt_high_housing_costs	26
+29067	Missouri	Douglas	pcnt_high_housing_costs	27
+29069	Missouri	Dunklin	pcnt_high_housing_costs	28
+29071	Missouri	Franklin	pcnt_high_housing_costs	27
+29073	Missouri	Gasconade	pcnt_high_housing_costs	24
+29075	Missouri	Gentry	pcnt_high_housing_costs	22
+29077	Missouri	Greene	pcnt_high_housing_costs	32
+29079	Missouri	Grundy	pcnt_high_housing_costs	25
+29081	Missouri	Harrison	pcnt_high_housing_costs	25
+29083	Missouri	Henry	pcnt_high_housing_costs	28
+29085	Missouri	Hickory	pcnt_high_housing_costs	30
+29087	Missouri	Holt	pcnt_high_housing_costs	19
+29089	Missouri	Howard	pcnt_high_housing_costs	25
+29091	Missouri	Howell	pcnt_high_housing_costs	27
+29093	Missouri	Iron	pcnt_high_housing_costs	26
+29095	Missouri	Jackson	pcnt_high_housing_costs	35
+29097	Missouri	Jasper	pcnt_high_housing_costs	30
+29099	Missouri	Jefferson	pcnt_high_housing_costs	26
+29101	Missouri	Johnson	pcnt_high_housing_costs	31
+29103	Missouri	Knox	pcnt_high_housing_costs	20
+29105	Missouri	Laclede	pcnt_high_housing_costs	27
+29107	Missouri	Lafayette	pcnt_high_housing_costs	23
+29109	Missouri	Lawrence	pcnt_high_housing_costs	27
+29111	Missouri	Lewis	pcnt_high_housing_costs	22
+29113	Missouri	Lincoln	pcnt_high_housing_costs	29
+29115	Missouri	Linn	pcnt_high_housing_costs	25
+29117	Missouri	Livingston	pcnt_high_housing_costs	25
+29119	Missouri	McDonald	pcnt_high_housing_costs	24
+29121	Missouri	Macon	pcnt_high_housing_costs	24
+29123	Missouri	Madison	pcnt_high_housing_costs	30
+29125	Missouri	Maries	pcnt_high_housing_costs	20
+29127	Missouri	Marion	pcnt_high_housing_costs	23
+29129	Missouri	Mercer	pcnt_high_housing_costs	21
+29131	Missouri	Miller	pcnt_high_housing_costs	28
+29133	Missouri	Mississippi	pcnt_high_housing_costs	30
+29135	Missouri	Moniteau	pcnt_high_housing_costs	22
+29137	Missouri	Monroe	pcnt_high_housing_costs	22
+29139	Missouri	Montgomery	pcnt_high_housing_costs	25
+29141	Missouri	Morgan	pcnt_high_housing_costs	26
+29143	Missouri	New Madrid	pcnt_high_housing_costs	25
+29145	Missouri	Newton	pcnt_high_housing_costs	25
+29147	Missouri	Nodaway	pcnt_high_housing_costs	29
+29149	Missouri	Oregon	pcnt_high_housing_costs	30
+29151	Missouri	Osage	pcnt_high_housing_costs	18
+29153	Missouri	Ozark	pcnt_high_housing_costs	26
+29155	Missouri	Pemiscot	pcnt_high_housing_costs	34
+29157	Missouri	Perry	pcnt_high_housing_costs	25
+29159	Missouri	Pettis	pcnt_high_housing_costs	30
+29161	Missouri	Phelps	pcnt_high_housing_costs	28
+29163	Missouri	Pike	pcnt_high_housing_costs	23
+29165	Missouri	Platte	pcnt_high_housing_costs	27
+29167	Missouri	Polk	pcnt_high_housing_costs	28
+29169	Missouri	Pulaski	pcnt_high_housing_costs	26
+29171	Missouri	Putnam	pcnt_high_housing_costs	35
+29173	Missouri	Ralls	pcnt_high_housing_costs	19
+29175	Missouri	Randolph	pcnt_high_housing_costs	24
+29177	Missouri	Ray	pcnt_high_housing_costs	26
+29179	Missouri	Reynolds	pcnt_high_housing_costs	19
+29181	Missouri	Ripley	pcnt_high_housing_costs	28
+29183	Missouri	St. Charles	pcnt_high_housing_costs	26
+29185	Missouri	St. Clair	pcnt_high_housing_costs	27
+29186	Missouri	Ste. Genevieve	pcnt_high_housing_costs	28
+29187	Missouri	St. Francois	pcnt_high_housing_costs	28
+29189	Missouri	St. Louis	pcnt_high_housing_costs	31
+29195	Missouri	Saline	pcnt_high_housing_costs	28
+29197	Missouri	Schuyler	pcnt_high_housing_costs	24
+29199	Missouri	Scotland	pcnt_high_housing_costs	20
+29201	Missouri	Scott	pcnt_high_housing_costs	23
+29203	Missouri	Shannon	pcnt_high_housing_costs	25
+29205	Missouri	Shelby	pcnt_high_housing_costs	24
+29207	Missouri	Stoddard	pcnt_high_housing_costs	26
+29209	Missouri	Stone	pcnt_high_housing_costs	27
+29211	Missouri	Sullivan	pcnt_high_housing_costs	27
+29213	Missouri	Taney	pcnt_high_housing_costs	31
+29215	Missouri	Texas	pcnt_high_housing_costs	26
+29217	Missouri	Vernon	pcnt_high_housing_costs	30
+29219	Missouri	Warren	pcnt_high_housing_costs	30
+29221	Missouri	Washington	pcnt_high_housing_costs	24
+29223	Missouri	Wayne	pcnt_high_housing_costs	24
+29225	Missouri	Webster	pcnt_high_housing_costs	27
+29227	Missouri	Worth	pcnt_high_housing_costs	19
+29229	Missouri	Wright	pcnt_high_housing_costs	29
+29510	Missouri	St. Louis City	pcnt_high_housing_costs	42
+30001	Montana	Beaverhead	pcnt_high_housing_costs	26
+30003	Montana	Big Horn	pcnt_high_housing_costs	25
+30005	Montana	Blaine	pcnt_high_housing_costs	19
+30007	Montana	Broadwater	pcnt_high_housing_costs	24
+30009	Montana	Carbon	pcnt_high_housing_costs	25
+30011	Montana	Carter	pcnt_high_housing_costs	20
+30013	Montana	Cascade	pcnt_high_housing_costs	27
+30015	Montana	Chouteau	pcnt_high_housing_costs	19
+30017	Montana	Custer	pcnt_high_housing_costs	22
+30019	Montana	Daniels	pcnt_high_housing_costs	23
+30021	Montana	Dawson	pcnt_high_housing_costs	14
+30023	Montana	Deer Lodge	pcnt_high_housing_costs	28
+30025	Montana	Fallon	pcnt_high_housing_costs	11
+30027	Montana	Fergus	pcnt_high_housing_costs	27
+30029	Montana	Flathead	pcnt_high_housing_costs	36
+30031	Montana	Gallatin	pcnt_high_housing_costs	36
+30033	Montana	Garfield	pcnt_high_housing_costs	19
+30035	Montana	Glacier	pcnt_high_housing_costs	16
+30037	Montana	Golden Valley	pcnt_high_housing_costs	23
+30039	Montana	Granite	pcnt_high_housing_costs	33
+30041	Montana	Hill	pcnt_high_housing_costs	26
+30043	Montana	Jefferson	pcnt_high_housing_costs	21
+30045	Montana	Judith Basin	pcnt_high_housing_costs	15
+30047	Montana	Lake	pcnt_high_housing_costs	33
+30049	Montana	Lewis and Clark	pcnt_high_housing_costs	30
+30051	Montana	Liberty	pcnt_high_housing_costs	12
+30053	Montana	Lincoln	pcnt_high_housing_costs	28
+30055	Montana	McCone	pcnt_high_housing_costs	20
+30057	Montana	Madison	pcnt_high_housing_costs	28
+30059	Montana	Meagher	pcnt_high_housing_costs	25
+30061	Montana	Mineral	pcnt_high_housing_costs	29
+30063	Montana	Missoula	pcnt_high_housing_costs	39
+30065	Montana	Musselshell	pcnt_high_housing_costs	26
+30067	Montana	Park	pcnt_high_housing_costs	34
+30069	Montana	Petroleum	pcnt_high_housing_costs	26
+30071	Montana	Phillips	pcnt_high_housing_costs	16
+30073	Montana	Pondera	pcnt_high_housing_costs	21
+30075	Montana	Powder River	pcnt_high_housing_costs	15
+30077	Montana	Powell	pcnt_high_housing_costs	25
+30079	Montana	Prairie	pcnt_high_housing_costs	20
+30081	Montana	Ravalli	pcnt_high_housing_costs	36
+30083	Montana	Richland	pcnt_high_housing_costs	18
+30085	Montana	Roosevelt	pcnt_high_housing_costs	18
+30087	Montana	Rosebud	pcnt_high_housing_costs	18
+30089	Montana	Sanders	pcnt_high_housing_costs	33
+30091	Montana	Sheridan	pcnt_high_housing_costs	21
+30093	Montana	Silver Bow	pcnt_high_housing_costs	27
+30095	Montana	Stillwater	pcnt_high_housing_costs	23
+30097	Montana	Sweet Grass	pcnt_high_housing_costs	27
+30099	Montana	Teton	pcnt_high_housing_costs	31
+30101	Montana	Toole	pcnt_high_housing_costs	16
+30103	Montana	Treasure	pcnt_high_housing_costs	15
+30105	Montana	Valley	pcnt_high_housing_costs	17
+30107	Montana	Wheatland	pcnt_high_housing_costs	21
+30109	Montana	Wibaux	pcnt_high_housing_costs	9
+30111	Montana	Yellowstone	pcnt_high_housing_costs	29
+31001	Nebraska	Adams	pcnt_high_housing_costs	22
+31003	Nebraska	Antelope	pcnt_high_housing_costs	20
+31005	Nebraska	Arthur	pcnt_high_housing_costs	20
+31007	Nebraska	Banner	pcnt_high_housing_costs	28
+31009	Nebraska	Blaine	pcnt_high_housing_costs	13
+31011	Nebraska	Boone	pcnt_high_housing_costs	18
+31013	Nebraska	Box Butte	pcnt_high_housing_costs	22
+31015	Nebraska	Boyd	pcnt_high_housing_costs	16
+31017	Nebraska	Brown	pcnt_high_housing_costs	28
+31019	Nebraska	Buffalo	pcnt_high_housing_costs	26
+31021	Nebraska	Burt	pcnt_high_housing_costs	23
+31023	Nebraska	Butler	pcnt_high_housing_costs	18
+31025	Nebraska	Cass	pcnt_high_housing_costs	25
+31027	Nebraska	Cedar	pcnt_high_housing_costs	22
+31029	Nebraska	Chase	pcnt_high_housing_costs	20
+31031	Nebraska	Cherry	pcnt_high_housing_costs	23
+31033	Nebraska	Cheyenne	pcnt_high_housing_costs	24
+31035	Nebraska	Clay	pcnt_high_housing_costs	20
+31037	Nebraska	Colfax	pcnt_high_housing_costs	24
+31039	Nebraska	Cuming	pcnt_high_housing_costs	21
+31041	Nebraska	Custer	pcnt_high_housing_costs	22
+31043	Nebraska	Dakota	pcnt_high_housing_costs	29
+31045	Nebraska	Dawes	pcnt_high_housing_costs	30
+31047	Nebraska	Dawson	pcnt_high_housing_costs	25
+31049	Nebraska	Deuel	pcnt_high_housing_costs	27
+31051	Nebraska	Dixon	pcnt_high_housing_costs	22
+31053	Nebraska	Dodge	pcnt_high_housing_costs	27
+31055	Nebraska	Douglas	pcnt_high_housing_costs	32
+31057	Nebraska	Dundy	pcnt_high_housing_costs	14
+31059	Nebraska	Fillmore	pcnt_high_housing_costs	18
+31061	Nebraska	Franklin	pcnt_high_housing_costs	16
+31063	Nebraska	Frontier	pcnt_high_housing_costs	17
+31065	Nebraska	Furnas	pcnt_high_housing_costs	26
+31067	Nebraska	Gage	pcnt_high_housing_costs	24
+31069	Nebraska	Garden	pcnt_high_housing_costs	17
+31071	Nebraska	Garfield	pcnt_high_housing_costs	19
+31073	Nebraska	Gosper	pcnt_high_housing_costs	22
+31075	Nebraska	Grant	pcnt_high_housing_costs	12
+31077	Nebraska	Greeley	pcnt_high_housing_costs	19
+31079	Nebraska	Hall	pcnt_high_housing_costs	24
+31081	Nebraska	Hamilton	pcnt_high_housing_costs	17
+31083	Nebraska	Harlan	pcnt_high_housing_costs	15
+31085	Nebraska	Hayes	pcnt_high_housing_costs	17
+31087	Nebraska	Hitchcock	pcnt_high_housing_costs	17
+31089	Nebraska	Holt	pcnt_high_housing_costs	19
+31091	Nebraska	Hooker	pcnt_high_housing_costs	20
+31093	Nebraska	Howard	pcnt_high_housing_costs	24
+31095	Nebraska	Jefferson	pcnt_high_housing_costs	22
+31097	Nebraska	Johnson	pcnt_high_housing_costs	21
+31099	Nebraska	Kearney	pcnt_high_housing_costs	18
+31101	Nebraska	Keith	pcnt_high_housing_costs	21
+31103	Nebraska	Keya Paha	pcnt_high_housing_costs	23
+31105	Nebraska	Kimball	pcnt_high_housing_costs	26
+31107	Nebraska	Knox	pcnt_high_housing_costs	21
+31109	Nebraska	Lancaster	pcnt_high_housing_costs	30
+31111	Nebraska	Lincoln	pcnt_high_housing_costs	22
+31113	Nebraska	Logan	pcnt_high_housing_costs	19
+31115	Nebraska	Loup	pcnt_high_housing_costs	26
+31117	Nebraska	McPherson	pcnt_high_housing_costs	13
+31119	Nebraska	Madison	pcnt_high_housing_costs	24
+31121	Nebraska	Merrick	pcnt_high_housing_costs	20
+31123	Nebraska	Morrill	pcnt_high_housing_costs	21
+31125	Nebraska	Nance	pcnt_high_housing_costs	17
+31127	Nebraska	Nemaha	pcnt_high_housing_costs	22
+31129	Nebraska	Nuckolls	pcnt_high_housing_costs	20
+31131	Nebraska	Otoe	pcnt_high_housing_costs	26
+31133	Nebraska	Pawnee	pcnt_high_housing_costs	16
+31135	Nebraska	Perkins	pcnt_high_housing_costs	12
+31137	Nebraska	Phelps	pcnt_high_housing_costs	21
+31139	Nebraska	Pierce	pcnt_high_housing_costs	23
+31141	Nebraska	Platte	pcnt_high_housing_costs	19
+31143	Nebraska	Polk	pcnt_high_housing_costs	20
+31145	Nebraska	Red Willow	pcnt_high_housing_costs	22
+31147	Nebraska	Richardson	pcnt_high_housing_costs	20
+31149	Nebraska	Rock	pcnt_high_housing_costs	14
+31151	Nebraska	Saline	pcnt_high_housing_costs	25
+31153	Nebraska	Sarpy	pcnt_high_housing_costs	27
+31155	Nebraska	Saunders	pcnt_high_housing_costs	23
+31157	Nebraska	Scotts Bluff	pcnt_high_housing_costs	32
+31159	Nebraska	Seward	pcnt_high_housing_costs	20
+31161	Nebraska	Sheridan	pcnt_high_housing_costs	26
+31163	Nebraska	Sherman	pcnt_high_housing_costs	21
+31165	Nebraska	Sioux	pcnt_high_housing_costs	27
+31167	Nebraska	Stanton	pcnt_high_housing_costs	21
+31169	Nebraska	Thayer	pcnt_high_housing_costs	19
+31171	Nebraska	Thomas	pcnt_high_housing_costs	21
+31173	Nebraska	Thurston	pcnt_high_housing_costs	24
+31175	Nebraska	Valley	pcnt_high_housing_costs	18
+31177	Nebraska	Washington	pcnt_high_housing_costs	28
+31179	Nebraska	Wayne	pcnt_high_housing_costs	21
+31181	Nebraska	Webster	pcnt_high_housing_costs	22
+31183	Nebraska	Wheeler	pcnt_high_housing_costs	22
+31185	Nebraska	York	pcnt_high_housing_costs	18
+32001	Nevada	Churchill	pcnt_high_housing_costs	28
+32003	Nevada	Clark	pcnt_high_housing_costs	45
+32005	Nevada	Douglas	pcnt_high_housing_costs	41
+32007	Nevada	Elko	pcnt_high_housing_costs	24
+32009	Nevada	Esmeralda	pcnt_high_housing_costs	27
+32011	Nevada	Eureka	pcnt_high_housing_costs	8
+32013	Nevada	Humboldt	pcnt_high_housing_costs	22
+32015	Nevada	Lander	pcnt_high_housing_costs	18
+32017	Nevada	Lincoln	pcnt_high_housing_costs	20
+32019	Nevada	Lyon	pcnt_high_housing_costs	38
+32021	Nevada	Mineral	pcnt_high_housing_costs	35
+32023	Nevada	Nye	pcnt_high_housing_costs	39
+32027	Nevada	Pershing	pcnt_high_housing_costs	22
+32029	Nevada	Storey	pcnt_high_housing_costs	36
+32031	Nevada	Washoe	pcnt_high_housing_costs	43
+32033	Nevada	White Pine	pcnt_high_housing_costs	23
+32510	Nevada	Carson City	pcnt_high_housing_costs	36
+33001	New Hampshire	Belknap	pcnt_high_housing_costs	38
+33003	New Hampshire	Carroll	pcnt_high_housing_costs	36
+33005	New Hampshire	Cheshire	pcnt_high_housing_costs	39
+33007	New Hampshire	Coos	pcnt_high_housing_costs	34
+33009	New Hampshire	Grafton	pcnt_high_housing_costs	34
+33011	New Hampshire	Hillsborough	pcnt_high_housing_costs	39
+33013	New Hampshire	Merrimack	pcnt_high_housing_costs	39
+33015	New Hampshire	Rockingham	pcnt_high_housing_costs	38
+33017	New Hampshire	Strafford	pcnt_high_housing_costs	40
+33019	New Hampshire	Sullivan	pcnt_high_housing_costs	35
+34001	New Jersey	Atlantic	pcnt_high_housing_costs	48
+34003	New Jersey	Bergen	pcnt_high_housing_costs	45
+34005	New Jersey	Burlington	pcnt_high_housing_costs	39
+34007	New Jersey	Camden	pcnt_high_housing_costs	44
+34009	New Jersey	Cape May	pcnt_high_housing_costs	42
+34011	New Jersey	Cumberland	pcnt_high_housing_costs	43
+34013	New Jersey	Essex	pcnt_high_housing_costs	49
+34015	New Jersey	Gloucester	pcnt_high_housing_costs	41
+34017	New Jersey	Hudson	pcnt_high_housing_costs	46
+34019	New Jersey	Hunterdon	pcnt_high_housing_costs	40
+34021	New Jersey	Mercer	pcnt_high_housing_costs	40
+34023	New Jersey	Middlesex	pcnt_high_housing_costs	41
+34025	New Jersey	Monmouth	pcnt_high_housing_costs	44
+34027	New Jersey	Morris	pcnt_high_housing_costs	39
+34029	New Jersey	Ocean	pcnt_high_housing_costs	45
+34031	New Jersey	Passaic	pcnt_high_housing_costs	53
+34033	New Jersey	Salem	pcnt_high_housing_costs	39
+34035	New Jersey	Somerset	pcnt_high_housing_costs	40
+34037	New Jersey	Sussex	pcnt_high_housing_costs	45
+34039	New Jersey	Union	pcnt_high_housing_costs	47
+34041	New Jersey	Warren	pcnt_high_housing_costs	43
+35001	New Mexico	Bernalillo	pcnt_high_housing_costs	35
+35003	New Mexico	Catron	pcnt_high_housing_costs	16
+35005	New Mexico	Chaves	pcnt_high_housing_costs	26
+35006	New Mexico	Cibola	pcnt_high_housing_costs	18
+35007	New Mexico	Colfax	pcnt_high_housing_costs	26
+35009	New Mexico	Curry	pcnt_high_housing_costs	26
+35011	New Mexico	De Baca	pcnt_high_housing_costs	19
+35013	New Mexico	Dona Ana	pcnt_high_housing_costs	36
+35015	New Mexico	Eddy	pcnt_high_housing_costs	20
+35017	New Mexico	Grant	pcnt_high_housing_costs	23
+35019	New Mexico	Guadalupe	pcnt_high_housing_costs	31
+35021	New Mexico	Harding	pcnt_high_housing_costs	33
+35023	New Mexico	Hidalgo	pcnt_high_housing_costs	19
+35025	New Mexico	Lea	pcnt_high_housing_costs	21
+35027	New Mexico	Lincoln	pcnt_high_housing_costs	25
+35028	New Mexico	Los Alamos	pcnt_high_housing_costs	18
+35029	New Mexico	Luna	pcnt_high_housing_costs	29
+35031	New Mexico	McKinley	pcnt_high_housing_costs	20
+35033	New Mexico	Mora	pcnt_high_housing_costs	20
+35035	New Mexico	Otero	pcnt_high_housing_costs	27
+35037	New Mexico	Quay	pcnt_high_housing_costs	25
+35039	New Mexico	Rio Arriba	pcnt_high_housing_costs	23
+35041	New Mexico	Roosevelt	pcnt_high_housing_costs	30
+35043	New Mexico	Sandoval	pcnt_high_housing_costs	32
+35045	New Mexico	San Juan	pcnt_high_housing_costs	23
+35047	New Mexico	San Miguel	pcnt_high_housing_costs	31
+35049	New Mexico	Santa Fe	pcnt_high_housing_costs	37
+35051	New Mexico	Sierra	pcnt_high_housing_costs	28
+35053	New Mexico	Socorro	pcnt_high_housing_costs	26
+35055	New Mexico	Taos	pcnt_high_housing_costs	30
+35057	New Mexico	Torrance	pcnt_high_housing_costs	36
+35059	New Mexico	Union	pcnt_high_housing_costs	23
+35061	New Mexico	Valencia	pcnt_high_housing_costs	35
+36001	New York	Albany	pcnt_high_housing_costs	33
+36003	New York	Allegany	pcnt_high_housing_costs	27
+36005	New York	Bronx	pcnt_high_housing_costs	52
+36007	New York	Broome	pcnt_high_housing_costs	30
+36009	New York	Cattaraugus	pcnt_high_housing_costs	29
+36011	New York	Cayuga	pcnt_high_housing_costs	27
+36013	New York	Chautauqua	pcnt_high_housing_costs	30
+36015	New York	Chemung	pcnt_high_housing_costs	28
+36017	New York	Chenango	pcnt_high_housing_costs	27
+36019	New York	Clinton	pcnt_high_housing_costs	29
+36021	New York	Columbia	pcnt_high_housing_costs	34
+36023	New York	Cortland	pcnt_high_housing_costs	30
+36025	New York	Delaware	pcnt_high_housing_costs	29
+36027	New York	Dutchess	pcnt_high_housing_costs	41
+36029	New York	Erie	pcnt_high_housing_costs	32
+36031	New York	Essex	pcnt_high_housing_costs	31
+36033	New York	Franklin	pcnt_high_housing_costs	30
+36035	New York	Fulton	pcnt_high_housing_costs	33
+36037	New York	Genesee	pcnt_high_housing_costs	30
+36039	New York	Greene	pcnt_high_housing_costs	36
+36041	New York	Hamilton	pcnt_high_housing_costs	24
+36043	New York	Herkimer	pcnt_high_housing_costs	30
+36045	New York	Jefferson	pcnt_high_housing_costs	31
+36047	New York	Kings	pcnt_high_housing_costs	50
+36049	New York	Lewis	pcnt_high_housing_costs	26
+36051	New York	Livingston	pcnt_high_housing_costs	30
+36053	New York	Madison	pcnt_high_housing_costs	27
+36055	New York	Monroe	pcnt_high_housing_costs	35
+36057	New York	Montgomery	pcnt_high_housing_costs	32
+36059	New York	Nassau	pcnt_high_housing_costs	45
+36061	New York	New York	pcnt_high_housing_costs	39
+36063	New York	Niagara	pcnt_high_housing_costs	32
+36065	New York	Oneida	pcnt_high_housing_costs	29
+36067	New York	Onondaga	pcnt_high_housing_costs	32
+36069	New York	Ontario	pcnt_high_housing_costs	30
+36071	New York	Orange	pcnt_high_housing_costs	44
+36073	New York	Orleans	pcnt_high_housing_costs	32
+36075	New York	Oswego	pcnt_high_housing_costs	32
+36077	New York	Otsego	pcnt_high_housing_costs	33
+36079	New York	Putnam	pcnt_high_housing_costs	43
+36081	New York	Queens	pcnt_high_housing_costs	48
+36083	New York	Rensselaer	pcnt_high_housing_costs	33
+36085	New York	Richmond	pcnt_high_housing_costs	44
+36087	New York	Rockland	pcnt_high_housing_costs	46
+36089	New York	St. Lawrence	pcnt_high_housing_costs	30
+36091	New York	Saratoga	pcnt_high_housing_costs	30
+36093	New York	Schenectady	pcnt_high_housing_costs	34
+36095	New York	Schoharie	pcnt_high_housing_costs	31
+36097	New York	Schuyler	pcnt_high_housing_costs	25
+36099	New York	Seneca	pcnt_high_housing_costs	31
+36101	New York	Steuben	pcnt_high_housing_costs	27
+36103	New York	Suffolk	pcnt_high_housing_costs	47
+36105	New York	Sullivan	pcnt_high_housing_costs	40
+36107	New York	Tioga	pcnt_high_housing_costs	25
+36109	New York	Tompkins	pcnt_high_housing_costs	36
+36111	New York	Ulster	pcnt_high_housing_costs	41
+36113	New York	Warren	pcnt_high_housing_costs	34
+36115	New York	Washington	pcnt_high_housing_costs	33
+36117	New York	Wayne	pcnt_high_housing_costs	28
+36119	New York	Westchester	pcnt_high_housing_costs	44
+36121	New York	Wyoming	pcnt_high_housing_costs	27
+36123	New York	Yates	pcnt_high_housing_costs	32
+37001	North Carolina	Alamance	pcnt_high_housing_costs	31
+37003	North Carolina	Alexander	pcnt_high_housing_costs	26
+37005	North Carolina	Alleghany	pcnt_high_housing_costs	34
+37007	North Carolina	Anson	pcnt_high_housing_costs	31
+37009	North Carolina	Ashe	pcnt_high_housing_costs	30
+37011	North Carolina	Avery	pcnt_high_housing_costs	34
+37013	North Carolina	Beaufort	pcnt_high_housing_costs	35
+37015	North Carolina	Bertie	pcnt_high_housing_costs	34
+37017	North Carolina	Bladen	pcnt_high_housing_costs	32
+37019	North Carolina	Brunswick	pcnt_high_housing_costs	34
+37021	North Carolina	Buncombe	pcnt_high_housing_costs	32
+37023	North Carolina	Burke	pcnt_high_housing_costs	28
+37025	North Carolina	Cabarrus	pcnt_high_housing_costs	31
+37027	North Carolina	Caldwell	pcnt_high_housing_costs	27
+37029	North Carolina	Camden	pcnt_high_housing_costs	32
+37031	North Carolina	Carteret	pcnt_high_housing_costs	31
+37033	North Carolina	Caswell	pcnt_high_housing_costs	32
+37035	North Carolina	Catawba	pcnt_high_housing_costs	27
+37037	North Carolina	Chatham	pcnt_high_housing_costs	29
+37039	North Carolina	Cherokee	pcnt_high_housing_costs	25
+37041	North Carolina	Chowan	pcnt_high_housing_costs	39
+37043	North Carolina	Clay	pcnt_high_housing_costs	28
+37045	North Carolina	Cleveland	pcnt_high_housing_costs	31
+37047	North Carolina	Columbus	pcnt_high_housing_costs	33
+37049	North Carolina	Craven	pcnt_high_housing_costs	35
+37051	North Carolina	Cumberland	pcnt_high_housing_costs	35
+37053	North Carolina	Currituck	pcnt_high_housing_costs	39
+37055	North Carolina	Dare	pcnt_high_housing_costs	45
+37057	North Carolina	Davidson	pcnt_high_housing_costs	29
+37059	North Carolina	Davie	pcnt_high_housing_costs	25
+37061	North Carolina	Duplin	pcnt_high_housing_costs	29
+37063	North Carolina	Durham	pcnt_high_housing_costs	36
+37065	North Carolina	Edgecombe	pcnt_high_housing_costs	37
+37067	North Carolina	Forsyth	pcnt_high_housing_costs	32
+37069	North Carolina	Franklin	pcnt_high_housing_costs	33
+37071	North Carolina	Gaston	pcnt_high_housing_costs	33
+37073	North Carolina	Gates	pcnt_high_housing_costs	28
+37075	North Carolina	Graham	pcnt_high_housing_costs	22
+37077	North Carolina	Granville	pcnt_high_housing_costs	31
+37079	North Carolina	Greene	pcnt_high_housing_costs	27
+37081	North Carolina	Guilford	pcnt_high_housing_costs	34
+37083	North Carolina	Halifax	pcnt_high_housing_costs	38
+37085	North Carolina	Harnett	pcnt_high_housing_costs	34
+37087	North Carolina	Haywood	pcnt_high_housing_costs	29
+37089	North Carolina	Henderson	pcnt_high_housing_costs	28
+37091	North Carolina	Hertford	pcnt_high_housing_costs	35
+37093	North Carolina	Hoke	pcnt_high_housing_costs	36
+37095	North Carolina	Hyde	pcnt_high_housing_costs	34
+37097	North Carolina	Iredell	pcnt_high_housing_costs	31
+37099	North Carolina	Jackson	pcnt_high_housing_costs	32
+37101	North Carolina	Johnston	pcnt_high_housing_costs	31
+37103	North Carolina	Jones	pcnt_high_housing_costs	22
+37105	North Carolina	Lee	pcnt_high_housing_costs	29
+37107	North Carolina	Lenoir	pcnt_high_housing_costs	37
+37109	North Carolina	Lincoln	pcnt_high_housing_costs	27
+37111	North Carolina	McDowell	pcnt_high_housing_costs	21
+37113	North Carolina	Macon	pcnt_high_housing_costs	31
+37115	North Carolina	Madison	pcnt_high_housing_costs	25
+37117	North Carolina	Martin	pcnt_high_housing_costs	32
+37119	North Carolina	Mecklenburg	pcnt_high_housing_costs	35
+37121	North Carolina	Mitchell	pcnt_high_housing_costs	24
+37123	North Carolina	Montgomery	pcnt_high_housing_costs	32
+37125	North Carolina	Moore	pcnt_high_housing_costs	27
+37127	North Carolina	Nash	pcnt_high_housing_costs	31
+37129	North Carolina	New Hanover	pcnt_high_housing_costs	39
+37131	North Carolina	Northampton	pcnt_high_housing_costs	32
+37133	North Carolina	Onslow	pcnt_high_housing_costs	36
+37135	North Carolina	Orange	pcnt_high_housing_costs	34
+37137	North Carolina	Pamlico	pcnt_high_housing_costs	31
+37139	North Carolina	Pasquotank	pcnt_high_housing_costs	40
+37141	North Carolina	Pender	pcnt_high_housing_costs	33
+37143	North Carolina	Perquimans	pcnt_high_housing_costs	39
+37145	North Carolina	Person	pcnt_high_housing_costs	28
+37147	North Carolina	Pitt	pcnt_high_housing_costs	40
+37149	North Carolina	Polk	pcnt_high_housing_costs	27
+37151	North Carolina	Randolph	pcnt_high_housing_costs	31
+37153	North Carolina	Richmond	pcnt_high_housing_costs	31
+37155	North Carolina	Robeson	pcnt_high_housing_costs	32
+37157	North Carolina	Rockingham	pcnt_high_housing_costs	29
+37159	North Carolina	Rowan	pcnt_high_housing_costs	28
+37161	North Carolina	Rutherford	pcnt_high_housing_costs	29
+37163	North Carolina	Sampson	pcnt_high_housing_costs	30
+37165	North Carolina	Scotland	pcnt_high_housing_costs	36
+37167	North Carolina	Stanly	pcnt_high_housing_costs	27
+37169	North Carolina	Stokes	pcnt_high_housing_costs	25
+37171	North Carolina	Surry	pcnt_high_housing_costs	27
+37173	North Carolina	Swain	pcnt_high_housing_costs	22
+37175	North Carolina	Transylvania	pcnt_high_housing_costs	26
+37177	North Carolina	Tyrrell	pcnt_high_housing_costs	34
+37179	North Carolina	Union	pcnt_high_housing_costs	31
+37181	North Carolina	Vance	pcnt_high_housing_costs	40
+37183	North Carolina	Wake	pcnt_high_housing_costs	31
+37185	North Carolina	Warren	pcnt_high_housing_costs	34
+37187	North Carolina	Washington	pcnt_high_housing_costs	33
+37189	North Carolina	Watauga	pcnt_high_housing_costs	44
+37191	North Carolina	Wayne	pcnt_high_housing_costs	31
+37193	North Carolina	Wilkes	pcnt_high_housing_costs	30
+37195	North Carolina	Wilson	pcnt_high_housing_costs	38
+37197	North Carolina	Yadkin	pcnt_high_housing_costs	25
+37199	North Carolina	Yancey	pcnt_high_housing_costs	25
+38001	North Dakota	Adams	pcnt_high_housing_costs	18
+38003	North Dakota	Barnes	pcnt_high_housing_costs	18
+38005	North Dakota	Benson	pcnt_high_housing_costs	23
+38007	North Dakota	Billings	pcnt_high_housing_costs	12
+38009	North Dakota	Bottineau	pcnt_high_housing_costs	18
+38011	North Dakota	Bowman	pcnt_high_housing_costs	13
+38013	North Dakota	Burke	pcnt_high_housing_costs	13
+38015	North Dakota	Burleigh	pcnt_high_housing_costs	24
+38017	North Dakota	Cass	pcnt_high_housing_costs	31
+38019	North Dakota	Cavalier	pcnt_high_housing_costs	13
+38021	North Dakota	Dickey	pcnt_high_housing_costs	19
+38023	North Dakota	Divide	pcnt_high_housing_costs	11
+38025	North Dakota	Dunn	pcnt_high_housing_costs	13
+38027	North Dakota	Eddy	pcnt_high_housing_costs	18
+38029	North Dakota	Emmons	pcnt_high_housing_costs	18
+38031	North Dakota	Foster	pcnt_high_housing_costs	19
+38033	North Dakota	Golden Valley	pcnt_high_housing_costs	19
+38035	North Dakota	Grand Forks	pcnt_high_housing_costs	33
+38037	North Dakota	Grant	pcnt_high_housing_costs	19
+38039	North Dakota	Griggs	pcnt_high_housing_costs	15
+38041	North Dakota	Hettinger	pcnt_high_housing_costs	14
+38043	North Dakota	Kidder	pcnt_high_housing_costs	19
+38045	North Dakota	LaMoure	pcnt_high_housing_costs	15
+38047	North Dakota	Logan	pcnt_high_housing_costs	23
+38049	North Dakota	McHenry	pcnt_high_housing_costs	20
+38051	North Dakota	McIntosh	pcnt_high_housing_costs	21
+38053	North Dakota	McKenzie	pcnt_high_housing_costs	14
+38055	North Dakota	McLean	pcnt_high_housing_costs	15
+38057	North Dakota	Mercer	pcnt_high_housing_costs	14
+38059	North Dakota	Morton	pcnt_high_housing_costs	20
+38061	North Dakota	Mountrail	pcnt_high_housing_costs	14
+38063	North Dakota	Nelson	pcnt_high_housing_costs	18
+38065	North Dakota	Oliver	pcnt_high_housing_costs	14
+38067	North Dakota	Pembina	pcnt_high_housing_costs	15
+38069	North Dakota	Pierce	pcnt_high_housing_costs	23
+38071	North Dakota	Ramsey	pcnt_high_housing_costs	16
+38073	North Dakota	Ransom	pcnt_high_housing_costs	22
+38075	North Dakota	Renville	pcnt_high_housing_costs	10
+38077	North Dakota	Richland	pcnt_high_housing_costs	20
+38079	North Dakota	Rolette	pcnt_high_housing_costs	29
+38081	North Dakota	Sargent	pcnt_high_housing_costs	14
+38083	North Dakota	Sheridan	pcnt_high_housing_costs	26
+38085	North Dakota	Sioux	pcnt_high_housing_costs	19
+38087	North Dakota	Slope	pcnt_high_housing_costs	15
+38089	North Dakota	Stark	pcnt_high_housing_costs	21
+38091	North Dakota	Steele	pcnt_high_housing_costs	11
+38093	North Dakota	Stutsman	pcnt_high_housing_costs	23
+38095	North Dakota	Towner	pcnt_high_housing_costs	14
+38097	North Dakota	Traill	pcnt_high_housing_costs	19
+38099	North Dakota	Walsh	pcnt_high_housing_costs	17
+38101	North Dakota	Ward	pcnt_high_housing_costs	22
+38103	North Dakota	Wells	pcnt_high_housing_costs	17
+38105	North Dakota	Williams	pcnt_high_housing_costs	13
+39001	Ohio	Adams	pcnt_high_housing_costs	32
+39003	Ohio	Allen	pcnt_high_housing_costs	29
+39005	Ohio	Ashland	pcnt_high_housing_costs	30
+39007	Ohio	Ashtabula	pcnt_high_housing_costs	33
+39009	Ohio	Athens	pcnt_high_housing_costs	38
+39011	Ohio	Auglaize	pcnt_high_housing_costs	22
+39013	Ohio	Belmont	pcnt_high_housing_costs	22
+39015	Ohio	Brown	pcnt_high_housing_costs	31
+39017	Ohio	Butler	pcnt_high_housing_costs	33
+39019	Ohio	Carroll	pcnt_high_housing_costs	27
+39021	Ohio	Champaign	pcnt_high_housing_costs	27
+39023	Ohio	Clark	pcnt_high_housing_costs	31
+39025	Ohio	Clermont	pcnt_high_housing_costs	29
+39027	Ohio	Clinton	pcnt_high_housing_costs	32
+39029	Ohio	Columbiana	pcnt_high_housing_costs	27
+39031	Ohio	Coshocton	pcnt_high_housing_costs	26
+39033	Ohio	Crawford	pcnt_high_housing_costs	28
+39035	Ohio	Cuyahoga	pcnt_high_housing_costs	38
+39037	Ohio	Darke	pcnt_high_housing_costs	27
+39039	Ohio	Defiance	pcnt_high_housing_costs	25
+39041	Ohio	Delaware	pcnt_high_housing_costs	28
+39043	Ohio	Erie	pcnt_high_housing_costs	32
+39045	Ohio	Fairfield	pcnt_high_housing_costs	30
+39047	Ohio	Fayette	pcnt_high_housing_costs	35
+39049	Ohio	Franklin	pcnt_high_housing_costs	36
+39051	Ohio	Fulton	pcnt_high_housing_costs	28
+39053	Ohio	Gallia	pcnt_high_housing_costs	28
+39055	Ohio	Geauga	pcnt_high_housing_costs	32
+39057	Ohio	Greene	pcnt_high_housing_costs	30
+39059	Ohio	Guernsey	pcnt_high_housing_costs	26
+39061	Ohio	Hamilton	pcnt_high_housing_costs	36
+39063	Ohio	Hancock	pcnt_high_housing_costs	27
+39065	Ohio	Hardin	pcnt_high_housing_costs	31
+39067	Ohio	Harrison	pcnt_high_housing_costs	29
+39069	Ohio	Henry	pcnt_high_housing_costs	26
+39071	Ohio	Highland	pcnt_high_housing_costs	30
+39073	Ohio	Hocking	pcnt_high_housing_costs	29
+39075	Ohio	Holmes	pcnt_high_housing_costs	23
+39077	Ohio	Huron	pcnt_high_housing_costs	27
+39079	Ohio	Jackson	pcnt_high_housing_costs	32
+39081	Ohio	Jefferson	pcnt_high_housing_costs	25
+39083	Ohio	Knox	pcnt_high_housing_costs	28
+39085	Ohio	Lake	pcnt_high_housing_costs	31
+39087	Ohio	Lawrence	pcnt_high_housing_costs	26
+39089	Ohio	Licking	pcnt_high_housing_costs	30
+39091	Ohio	Logan	pcnt_high_housing_costs	29
+39093	Ohio	Lorain	pcnt_high_housing_costs	32
+39095	Ohio	Lucas	pcnt_high_housing_costs	35
+39097	Ohio	Madison	pcnt_high_housing_costs	30
+39099	Ohio	Mahoning	pcnt_high_housing_costs	32
+39101	Ohio	Marion	pcnt_high_housing_costs	31
+39103	Ohio	Medina	pcnt_high_housing_costs	31
+39105	Ohio	Meigs	pcnt_high_housing_costs	26
+39107	Ohio	Mercer	pcnt_high_housing_costs	23
+39109	Ohio	Miami	pcnt_high_housing_costs	28
+39111	Ohio	Monroe	pcnt_high_housing_costs	19
+39113	Ohio	Montgomery	pcnt_high_housing_costs	35
+39115	Ohio	Morgan	pcnt_high_housing_costs	23
+39117	Ohio	Morrow	pcnt_high_housing_costs	33
+39119	Ohio	Muskingum	pcnt_high_housing_costs	31
+39121	Ohio	Noble	pcnt_high_housing_costs	22
+39123	Ohio	Ottawa	pcnt_high_housing_costs	29
+39125	Ohio	Paulding	pcnt_high_housing_costs	25
+39127	Ohio	Perry	pcnt_high_housing_costs	25
+39129	Ohio	Pickaway	pcnt_high_housing_costs	31
+39131	Ohio	Pike	pcnt_high_housing_costs	31
+39133	Ohio	Portage	pcnt_high_housing_costs	34
+39135	Ohio	Preble	pcnt_high_housing_costs	30
+39137	Ohio	Putnam	pcnt_high_housing_costs	17
+39139	Ohio	Richland	pcnt_high_housing_costs	27
+39141	Ohio	Ross	pcnt_high_housing_costs	28
+39143	Ohio	Sandusky	pcnt_high_housing_costs	26
+39145	Ohio	Scioto	pcnt_high_housing_costs	29
+39147	Ohio	Seneca	pcnt_high_housing_costs	25
+39149	Ohio	Shelby	pcnt_high_housing_costs	28
+39151	Ohio	Stark	pcnt_high_housing_costs	30
+39153	Ohio	Summit	pcnt_high_housing_costs	33
+39155	Ohio	Trumbull	pcnt_high_housing_costs	29
+39157	Ohio	Tuscarawas	pcnt_high_housing_costs	27
+39159	Ohio	Union	pcnt_high_housing_costs	29
+39161	Ohio	Van Wert	pcnt_high_housing_costs	24
+39163	Ohio	Vinton	pcnt_high_housing_costs	34
+39165	Ohio	Warren	pcnt_high_housing_costs	29
+39167	Ohio	Washington	pcnt_high_housing_costs	25
+39169	Ohio	Wayne	pcnt_high_housing_costs	27
+39171	Ohio	Williams	pcnt_high_housing_costs	27
+39173	Ohio	Wood	pcnt_high_housing_costs	31
+39175	Ohio	Wyandot	pcnt_high_housing_costs	23
+40001	Oklahoma	Adair	pcnt_high_housing_costs	25
+40003	Oklahoma	Alfalfa	pcnt_high_housing_costs	11
+40005	Oklahoma	Atoka	pcnt_high_housing_costs	22
+40007	Oklahoma	Beaver	pcnt_high_housing_costs	17
+40009	Oklahoma	Beckham	pcnt_high_housing_costs	21
+40011	Oklahoma	Blaine	pcnt_high_housing_costs	20
+40013	Oklahoma	Bryan	pcnt_high_housing_costs	27
+40015	Oklahoma	Caddo	pcnt_high_housing_costs	20
+40017	Oklahoma	Canadian	pcnt_high_housing_costs	25
+40019	Oklahoma	Carter	pcnt_high_housing_costs	22
+40021	Oklahoma	Cherokee	pcnt_high_housing_costs	28
+40023	Oklahoma	Choctaw	pcnt_high_housing_costs	26
+40025	Oklahoma	Cimarron	pcnt_high_housing_costs	13
+40027	Oklahoma	Cleveland	pcnt_high_housing_costs	28
+40029	Oklahoma	Coal	pcnt_high_housing_costs	22
+40031	Oklahoma	Comanche	pcnt_high_housing_costs	29
+40033	Oklahoma	Cotton	pcnt_high_housing_costs	17
+40035	Oklahoma	Craig	pcnt_high_housing_costs	20
+40037	Oklahoma	Creek	pcnt_high_housing_costs	24
+40039	Oklahoma	Custer	pcnt_high_housing_costs	25
+40041	Oklahoma	Delaware	pcnt_high_housing_costs	25
+40043	Oklahoma	Dewey	pcnt_high_housing_costs	17
+40045	Oklahoma	Ellis	pcnt_high_housing_costs	16
+40047	Oklahoma	Garfield	pcnt_high_housing_costs	24
+40049	Oklahoma	Garvin	pcnt_high_housing_costs	22
+40051	Oklahoma	Grady	pcnt_high_housing_costs	22
+40053	Oklahoma	Grant	pcnt_high_housing_costs	18
+40055	Oklahoma	Greer	pcnt_high_housing_costs	16
+40057	Oklahoma	Harmon	pcnt_high_housing_costs	28
+40059	Oklahoma	Harper	pcnt_high_housing_costs	12
+40061	Oklahoma	Haskell	pcnt_high_housing_costs	22
+40063	Oklahoma	Hughes	pcnt_high_housing_costs	23
+40065	Oklahoma	Jackson	pcnt_high_housing_costs	26
+40067	Oklahoma	Jefferson	pcnt_high_housing_costs	22
+40069	Oklahoma	Johnston	pcnt_high_housing_costs	19
+40071	Oklahoma	Kay	pcnt_high_housing_costs	24
+40073	Oklahoma	Kingfisher	pcnt_high_housing_costs	22
+40075	Oklahoma	Kiowa	pcnt_high_housing_costs	21
+40077	Oklahoma	Latimer	pcnt_high_housing_costs	17
+40079	Oklahoma	Le Flore	pcnt_high_housing_costs	25
+40081	Oklahoma	Lincoln	pcnt_high_housing_costs	22
+40083	Oklahoma	Logan	pcnt_high_housing_costs	25
+40085	Oklahoma	Love	pcnt_high_housing_costs	14
+40087	Oklahoma	McClain	pcnt_high_housing_costs	22
+40089	Oklahoma	McCurtain	pcnt_high_housing_costs	27
+40091	Oklahoma	McIntosh	pcnt_high_housing_costs	25
+40093	Oklahoma	Major	pcnt_high_housing_costs	18
+40095	Oklahoma	Marshall	pcnt_high_housing_costs	20
+40097	Oklahoma	Mayes	pcnt_high_housing_costs	23
+40099	Oklahoma	Murray	pcnt_high_housing_costs	18
+40101	Oklahoma	Muskogee	pcnt_high_housing_costs	30
+40103	Oklahoma	Noble	pcnt_high_housing_costs	24
+40105	Oklahoma	Nowata	pcnt_high_housing_costs	20
+40107	Oklahoma	Okfuskee	pcnt_high_housing_costs	25
+40109	Oklahoma	Oklahoma	pcnt_high_housing_costs	32
+40111	Oklahoma	Okmulgee	pcnt_high_housing_costs	25
+40113	Oklahoma	Osage	pcnt_high_housing_costs	22
+40115	Oklahoma	Ottawa	pcnt_high_housing_costs	24
+40117	Oklahoma	Pawnee	pcnt_high_housing_costs	20
+40119	Oklahoma	Payne	pcnt_high_housing_costs	38
+40121	Oklahoma	Pittsburg	pcnt_high_housing_costs	23
+40123	Oklahoma	Pontotoc	pcnt_high_housing_costs	26
+40125	Oklahoma	Pottawatomie	pcnt_high_housing_costs	25
+40127	Oklahoma	Pushmataha	pcnt_high_housing_costs	24
+40129	Oklahoma	Roger Mills	pcnt_high_housing_costs	15
+40131	Oklahoma	Rogers	pcnt_high_housing_costs	23
+40133	Oklahoma	Seminole	pcnt_high_housing_costs	24
+40135	Oklahoma	Sequoyah	pcnt_high_housing_costs	23
+40137	Oklahoma	Stephens	pcnt_high_housing_costs	22
+40139	Oklahoma	Texas	pcnt_high_housing_costs	21
+40141	Oklahoma	Tillman	pcnt_high_housing_costs	21
+40143	Oklahoma	Tulsa	pcnt_high_housing_costs	31
+40145	Oklahoma	Wagoner	pcnt_high_housing_costs	26
+40147	Oklahoma	Washington	pcnt_high_housing_costs	24
+40149	Oklahoma	Washita	pcnt_high_housing_costs	19
+40151	Oklahoma	Woods	pcnt_high_housing_costs	18
+40153	Oklahoma	Woodward	pcnt_high_housing_costs	21
+41001	Oregon	Baker	pcnt_high_housing_costs	31
+41003	Oregon	Benton	pcnt_high_housing_costs	39
+41005	Oregon	Clackamas	pcnt_high_housing_costs	39
+41007	Oregon	Clatsop	pcnt_high_housing_costs	40
+41009	Oregon	Columbia	pcnt_high_housing_costs	34
+41011	Oregon	Coos	pcnt_high_housing_costs	33
+41013	Oregon	Crook	pcnt_high_housing_costs	37
+41015	Oregon	Curry	pcnt_high_housing_costs	38
+41017	Oregon	Deschutes	pcnt_high_housing_costs	42
+41019	Oregon	Douglas	pcnt_high_housing_costs	34
+41021	Oregon	Gilliam	pcnt_high_housing_costs	23
+41023	Oregon	Grant	pcnt_high_housing_costs	26
+41025	Oregon	Harney	pcnt_high_housing_costs	24
+41027	Oregon	Hood River	pcnt_high_housing_costs	35
+41029	Oregon	Jackson	pcnt_high_housing_costs	45
+41031	Oregon	Jefferson	pcnt_high_housing_costs	36
+41033	Oregon	Josephine	pcnt_high_housing_costs	41
+41035	Oregon	Klamath	pcnt_high_housing_costs	35
+41037	Oregon	Lake	pcnt_high_housing_costs	26
+41039	Oregon	Lane	pcnt_high_housing_costs	41
+41041	Oregon	Lincoln	pcnt_high_housing_costs	38
+41043	Oregon	Linn	pcnt_high_housing_costs	34
+41045	Oregon	Malheur	pcnt_high_housing_costs	29
+41047	Oregon	Marion	pcnt_high_housing_costs	41
+41049	Oregon	Morrow	pcnt_high_housing_costs	31
+41051	Oregon	Multnomah	pcnt_high_housing_costs	43
+41053	Oregon	Polk	pcnt_high_housing_costs	36
+41055	Oregon	Sherman	pcnt_high_housing_costs	21
+41057	Oregon	Tillamook	pcnt_high_housing_costs	36
+41059	Oregon	Umatilla	pcnt_high_housing_costs	28
+41061	Oregon	Union	pcnt_high_housing_costs	33
+41063	Oregon	Wallowa	pcnt_high_housing_costs	32
+41065	Oregon	Wasco	pcnt_high_housing_costs	33
+41067	Oregon	Washington	pcnt_high_housing_costs	38
+41069	Oregon	Wheeler	pcnt_high_housing_costs	24
+41071	Oregon	Yamhill	pcnt_high_housing_costs	38
+42001	Pennsylvania	Adams	pcnt_high_housing_costs	33
+42003	Pennsylvania	Allegheny	pcnt_high_housing_costs	30
+42005	Pennsylvania	Armstrong	pcnt_high_housing_costs	23
+42007	Pennsylvania	Beaver	pcnt_high_housing_costs	28
+42009	Pennsylvania	Bedford	pcnt_high_housing_costs	25
+42011	Pennsylvania	Berks	pcnt_high_housing_costs	34
+42013	Pennsylvania	Blair	pcnt_high_housing_costs	27
+42015	Pennsylvania	Bradford	pcnt_high_housing_costs	26
+42017	Pennsylvania	Bucks	pcnt_high_housing_costs	37
+42019	Pennsylvania	Butler	pcnt_high_housing_costs	27
+42021	Pennsylvania	Cambria	pcnt_high_housing_costs	24
+42023	Pennsylvania	Cameron	pcnt_high_housing_costs	20
+42025	Pennsylvania	Carbon	pcnt_high_housing_costs	31
+42027	Pennsylvania	Centre	pcnt_high_housing_costs	35
+42029	Pennsylvania	Chester	pcnt_high_housing_costs	33
+42031	Pennsylvania	Clarion	pcnt_high_housing_costs	24
+42033	Pennsylvania	Clearfield	pcnt_high_housing_costs	29
+42035	Pennsylvania	Clinton	pcnt_high_housing_costs	31
+42037	Pennsylvania	Columbia	pcnt_high_housing_costs	28
+42039	Pennsylvania	Crawford	pcnt_high_housing_costs	29
+42041	Pennsylvania	Cumberland	pcnt_high_housing_costs	27
+42043	Pennsylvania	Dauphin	pcnt_high_housing_costs	30
+42045	Pennsylvania	Delaware	pcnt_high_housing_costs	37
+42047	Pennsylvania	Elk	pcnt_high_housing_costs	26
+42049	Pennsylvania	Erie	pcnt_high_housing_costs	30
+42051	Pennsylvania	Fayette	pcnt_high_housing_costs	27
+42053	Pennsylvania	Forest	pcnt_high_housing_costs	20
+42055	Pennsylvania	Franklin	pcnt_high_housing_costs	29
+42057	Pennsylvania	Fulton	pcnt_high_housing_costs	26
+42059	Pennsylvania	Greene	pcnt_high_housing_costs	23
+42061	Pennsylvania	Huntingdon	pcnt_high_housing_costs	24
+42063	Pennsylvania	Indiana	pcnt_high_housing_costs	27
+42065	Pennsylvania	Jefferson	pcnt_high_housing_costs	23
+42067	Pennsylvania	Juniata	pcnt_high_housing_costs	26
+42069	Pennsylvania	Lackawanna	pcnt_high_housing_costs	32
+42071	Pennsylvania	Lancaster	pcnt_high_housing_costs	32
+42073	Pennsylvania	Lawrence	pcnt_high_housing_costs	29
+42075	Pennsylvania	Lebanon	pcnt_high_housing_costs	28
+42077	Pennsylvania	Lehigh	pcnt_high_housing_costs	36
+42079	Pennsylvania	Luzerne	pcnt_high_housing_costs	31
+42081	Pennsylvania	Lycoming	pcnt_high_housing_costs	32
+42083	Pennsylvania	McKean	pcnt_high_housing_costs	27
+42085	Pennsylvania	Mercer	pcnt_high_housing_costs	27
+42087	Pennsylvania	Mifflin	pcnt_high_housing_costs	26
+42089	Pennsylvania	Monroe	pcnt_high_housing_costs	41
+42091	Pennsylvania	Montgomery	pcnt_high_housing_costs	34
+42093	Pennsylvania	Montour	pcnt_high_housing_costs	24
+42095	Pennsylvania	Northampton	pcnt_high_housing_costs	34
+42097	Pennsylvania	Northumberland	pcnt_high_housing_costs	26
+42099	Pennsylvania	Perry	pcnt_high_housing_costs	25
+42101	Pennsylvania	Philadelphia	pcnt_high_housing_costs	42
+42103	Pennsylvania	Pike	pcnt_high_housing_costs	40
+42105	Pennsylvania	Potter	pcnt_high_housing_costs	29
+42107	Pennsylvania	Schuylkill	pcnt_high_housing_costs	27
+42109	Pennsylvania	Snyder	pcnt_high_housing_costs	25
+42111	Pennsylvania	Somerset	pcnt_high_housing_costs	25
+42113	Pennsylvania	Sullivan	pcnt_high_housing_costs	25
+42115	Pennsylvania	Susquehanna	pcnt_high_housing_costs	27
+42117	Pennsylvania	Tioga	pcnt_high_housing_costs	30
+42119	Pennsylvania	Union	pcnt_high_housing_costs	31
+42121	Pennsylvania	Venango	pcnt_high_housing_costs	25
+42123	Pennsylvania	Warren	pcnt_high_housing_costs	24
+42125	Pennsylvania	Washington	pcnt_high_housing_costs	25
+42127	Pennsylvania	Wayne	pcnt_high_housing_costs	33
+42129	Pennsylvania	Westmoreland	pcnt_high_housing_costs	25
+42131	Pennsylvania	Wyoming	pcnt_high_housing_costs	27
+42133	Pennsylvania	York	pcnt_high_housing_costs	32
+44001	Rhode Island	Bristol	pcnt_high_housing_costs	40
+44003	Rhode Island	Kent	pcnt_high_housing_costs	39
+44005	Rhode Island	Newport	pcnt_high_housing_costs	38
+44007	Rhode Island	Providence	pcnt_high_housing_costs	43
+44009	Rhode Island	Washington	pcnt_high_housing_costs	35
+45001	South Carolina	Abbeville	pcnt_high_housing_costs	30
+45003	South Carolina	Aiken	pcnt_high_housing_costs	27
+45005	South Carolina	Allendale	pcnt_high_housing_costs	32
+45007	South Carolina	Anderson	pcnt_high_housing_costs	28
+45009	South Carolina	Bamberg	pcnt_high_housing_costs	31
+45011	South Carolina	Barnwell	pcnt_high_housing_costs	30
+45013	South Carolina	Beaufort	pcnt_high_housing_costs	39
+45015	South Carolina	Berkeley	pcnt_high_housing_costs	31
+45017	South Carolina	Calhoun	pcnt_high_housing_costs	29
+45019	South Carolina	Charleston	pcnt_high_housing_costs	41
+45021	South Carolina	Cherokee	pcnt_high_housing_costs	27
+45023	South Carolina	Chester	pcnt_high_housing_costs	30
+45025	South Carolina	Chesterfield	pcnt_high_housing_costs	26
+45027	South Carolina	Clarendon	pcnt_high_housing_costs	27
+45029	South Carolina	Colleton	pcnt_high_housing_costs	34
+45031	South Carolina	Darlington	pcnt_high_housing_costs	25
+45033	South Carolina	Dillon	pcnt_high_housing_costs	32
+45035	South Carolina	Dorchester	pcnt_high_housing_costs	33
+45037	South Carolina	Edgefield	pcnt_high_housing_costs	24
+45039	South Carolina	Fairfield	pcnt_high_housing_costs	33
+45041	South Carolina	Florence	pcnt_high_housing_costs	29
+45043	South Carolina	Georgetown	pcnt_high_housing_costs	35
+45045	South Carolina	Greenville	pcnt_high_housing_costs	30
+45047	South Carolina	Greenwood	pcnt_high_housing_costs	31
+45049	South Carolina	Hampton	pcnt_high_housing_costs	26
+45051	South Carolina	Horry	pcnt_high_housing_costs	37
+45053	South Carolina	Jasper	pcnt_high_housing_costs	35
+45055	South Carolina	Kershaw	pcnt_high_housing_costs	27
+45057	South Carolina	Lancaster	pcnt_high_housing_costs	29
+45059	South Carolina	Laurens	pcnt_high_housing_costs	27
+45061	South Carolina	Lee	pcnt_high_housing_costs	29
+45063	South Carolina	Lexington	pcnt_high_housing_costs	27
+45065	South Carolina	McCormick	pcnt_high_housing_costs	35
+45067	South Carolina	Marion	pcnt_high_housing_costs	27
+45069	South Carolina	Marlboro	pcnt_high_housing_costs	27
+45071	South Carolina	Newberry	pcnt_high_housing_costs	26
+45073	South Carolina	Oconee	pcnt_high_housing_costs	25
+45075	South Carolina	Orangeburg	pcnt_high_housing_costs	30
+45077	South Carolina	Pickens	pcnt_high_housing_costs	29
+45079	South Carolina	Richland	pcnt_high_housing_costs	35
+45081	South Carolina	Saluda	pcnt_high_housing_costs	22
+45083	South Carolina	Spartanburg	pcnt_high_housing_costs	28
+45085	South Carolina	Sumter	pcnt_high_housing_costs	26
+45087	South Carolina	Union	pcnt_high_housing_costs	27
+45089	South Carolina	Williamsburg	pcnt_high_housing_costs	28
+45091	South Carolina	York	pcnt_high_housing_costs	29
+46003	South Dakota	Aurora	pcnt_high_housing_costs	18
+46005	South Dakota	Beadle	pcnt_high_housing_costs	18
+46007	South Dakota	Bennett	pcnt_high_housing_costs	27
+46009	South Dakota	Bon Homme	pcnt_high_housing_costs	19
+46011	South Dakota	Brookings	pcnt_high_housing_costs	26
+46013	South Dakota	Brown	pcnt_high_housing_costs	22
+46015	South Dakota	Brule	pcnt_high_housing_costs	23
+46017	South Dakota	Buffalo	pcnt_high_housing_costs	25
+46019	South Dakota	Butte	pcnt_high_housing_costs	29
+46021	South Dakota	Campbell	pcnt_high_housing_costs	22
+46023	South Dakota	Charles Mix	pcnt_high_housing_costs	20
+46025	South Dakota	Clark	pcnt_high_housing_costs	18
+46027	South Dakota	Clay	pcnt_high_housing_costs	30
+46029	South Dakota	Codington	pcnt_high_housing_costs	25
+46031	South Dakota	Corson	pcnt_high_housing_costs	22
+46033	South Dakota	Custer	pcnt_high_housing_costs	26
+46035	South Dakota	Davison	pcnt_high_housing_costs	28
+46037	South Dakota	Day	pcnt_high_housing_costs	21
+46039	South Dakota	Deuel	pcnt_high_housing_costs	18
+46041	South Dakota	Dewey	pcnt_high_housing_costs	23
+46043	South Dakota	Douglas	pcnt_high_housing_costs	20
+46045	South Dakota	Edmunds	pcnt_high_housing_costs	17
+46047	South Dakota	Fall River	pcnt_high_housing_costs	24
+46049	South Dakota	Faulk	pcnt_high_housing_costs	22
+46051	South Dakota	Grant	pcnt_high_housing_costs	22
+46053	South Dakota	Gregory	pcnt_high_housing_costs	22
+46055	South Dakota	Haakon	pcnt_high_housing_costs	15
+46057	South Dakota	Hamlin	pcnt_high_housing_costs	18
+46059	South Dakota	Hand	pcnt_high_housing_costs	20
+46061	South Dakota	Hanson	pcnt_high_housing_costs	23
+46063	South Dakota	Harding	pcnt_high_housing_costs	18
+46065	South Dakota	Hughes	pcnt_high_housing_costs	22
+46067	South Dakota	Hutchinson	pcnt_high_housing_costs	18
+46069	South Dakota	Hyde	pcnt_high_housing_costs	16
+46071	South Dakota	Jackson	pcnt_high_housing_costs	17
+46073	South Dakota	Jerauld	pcnt_high_housing_costs	18
+46075	South Dakota	Jones	pcnt_high_housing_costs	12
+46077	South Dakota	Kingsbury	pcnt_high_housing_costs	12
+46079	South Dakota	Lake	pcnt_high_housing_costs	23
+46081	South Dakota	Lawrence	pcnt_high_housing_costs	31
+46083	South Dakota	Lincoln	pcnt_high_housing_costs	24
+46085	South Dakota	Lyman	pcnt_high_housing_costs	10
+46087	South Dakota	McCook	pcnt_high_housing_costs	20
+46089	South Dakota	McPherson	pcnt_high_housing_costs	21
+46091	South Dakota	Marshall	pcnt_high_housing_costs	19
+46093	South Dakota	Meade	pcnt_high_housing_costs	31
+46095	South Dakota	Mellette	pcnt_high_housing_costs	25
+46097	South Dakota	Miner	pcnt_high_housing_costs	14
+46099	South Dakota	Minnehaha	pcnt_high_housing_costs	27
+46101	South Dakota	Moody	pcnt_high_housing_costs	24
+46103	South Dakota	Pennington	pcnt_high_housing_costs	32
+46105	South Dakota	Perkins	pcnt_high_housing_costs	18
+46107	South Dakota	Potter	pcnt_high_housing_costs	15
+46109	South Dakota	Roberts	pcnt_high_housing_costs	22
+46111	South Dakota	Sanborn	pcnt_high_housing_costs	14
+46113	South Dakota	Shannon	pcnt_high_housing_costs	22
+46115	South Dakota	Spink	pcnt_high_housing_costs	16
+46117	South Dakota	Stanley	pcnt_high_housing_costs	18
+46119	South Dakota	Sully	pcnt_high_housing_costs	14
+46121	South Dakota	Todd	pcnt_high_housing_costs	24
+46123	South Dakota	Tripp	pcnt_high_housing_costs	26
+46125	South Dakota	Turner	pcnt_high_housing_costs	21
+46127	South Dakota	Union	pcnt_high_housing_costs	19
+46129	South Dakota	Walworth	pcnt_high_housing_costs	18
+46135	South Dakota	Yankton	pcnt_high_housing_costs	22
+46137	South Dakota	Ziebach	pcnt_high_housing_costs	29
+47001	Tennessee	Anderson	pcnt_high_housing_costs	25
+47003	Tennessee	Bedford	pcnt_high_housing_costs	32
+47005	Tennessee	Benton	pcnt_high_housing_costs	24
+47007	Tennessee	Bledsoe	pcnt_high_housing_costs	28
+47009	Tennessee	Blount	pcnt_high_housing_costs	27
+47011	Tennessee	Bradley	pcnt_high_housing_costs	30
+47013	Tennessee	Campbell	pcnt_high_housing_costs	26
+47015	Tennessee	Cannon	pcnt_high_housing_costs	30
+47017	Tennessee	Carroll	pcnt_high_housing_costs	25
+47019	Tennessee	Carter	pcnt_high_housing_costs	26
+47021	Tennessee	Cheatham	pcnt_high_housing_costs	30
+47023	Tennessee	Chester	pcnt_high_housing_costs	24
+47025	Tennessee	Claiborne	pcnt_high_housing_costs	27
+47027	Tennessee	Clay	pcnt_high_housing_costs	21
+47029	Tennessee	Cocke	pcnt_high_housing_costs	28
+47031	Tennessee	Coffee	pcnt_high_housing_costs	30
+47033	Tennessee	Crockett	pcnt_high_housing_costs	27
+47035	Tennessee	Cumberland	pcnt_high_housing_costs	27
+47037	Tennessee	Davidson	pcnt_high_housing_costs	38
+47039	Tennessee	Decatur	pcnt_high_housing_costs	28
+47041	Tennessee	DeKalb	pcnt_high_housing_costs	24
+47043	Tennessee	Dickson	pcnt_high_housing_costs	30
+47045	Tennessee	Dyer	pcnt_high_housing_costs	30
+47047	Tennessee	Fayette	pcnt_high_housing_costs	27
+47049	Tennessee	Fentress	pcnt_high_housing_costs	29
+47051	Tennessee	Franklin	pcnt_high_housing_costs	24
+47053	Tennessee	Gibson	pcnt_high_housing_costs	28
+47055	Tennessee	Giles	pcnt_high_housing_costs	28
+47057	Tennessee	Grainger	pcnt_high_housing_costs	22
+47059	Tennessee	Greene	pcnt_high_housing_costs	26
+47061	Tennessee	Grundy	pcnt_high_housing_costs	28
+47063	Tennessee	Hamblen	pcnt_high_housing_costs	28
+47065	Tennessee	Hamilton	pcnt_high_housing_costs	31
+47067	Tennessee	Hancock	pcnt_high_housing_costs	27
+47069	Tennessee	Hardeman	pcnt_high_housing_costs	34
+47071	Tennessee	Hardin	pcnt_high_housing_costs	26
+47073	Tennessee	Hawkins	pcnt_high_housing_costs	25
+47075	Tennessee	Haywood	pcnt_high_housing_costs	38
+47077	Tennessee	Henderson	pcnt_high_housing_costs	28
+47079	Tennessee	Henry	pcnt_high_housing_costs	24
+47081	Tennessee	Hickman	pcnt_high_housing_costs	24
+47083	Tennessee	Houston	pcnt_high_housing_costs	24
+47085	Tennessee	Humphreys	pcnt_high_housing_costs	22
+47087	Tennessee	Jackson	pcnt_high_housing_costs	28
+47089	Tennessee	Jefferson	pcnt_high_housing_costs	28
+47091	Tennessee	Johnson	pcnt_high_housing_costs	26
+47093	Tennessee	Knox	pcnt_high_housing_costs	30
+47095	Tennessee	Lake	pcnt_high_housing_costs	30
+47097	Tennessee	Lauderdale	pcnt_high_housing_costs	31
+47099	Tennessee	Lawrence	pcnt_high_housing_costs	28
+47101	Tennessee	Lewis	pcnt_high_housing_costs	26
+47103	Tennessee	Lincoln	pcnt_high_housing_costs	25
+47105	Tennessee	Loudon	pcnt_high_housing_costs	24
+47107	Tennessee	McMinn	pcnt_high_housing_costs	27
+47109	Tennessee	McNairy	pcnt_high_housing_costs	28
+47111	Tennessee	Macon	pcnt_high_housing_costs	29
+47113	Tennessee	Madison	pcnt_high_housing_costs	35
+47115	Tennessee	Marion	pcnt_high_housing_costs	26
+47117	Tennessee	Marshall	pcnt_high_housing_costs	29
+47119	Tennessee	Maury	pcnt_high_housing_costs	30
+47121	Tennessee	Meigs	pcnt_high_housing_costs	27
+47123	Tennessee	Monroe	pcnt_high_housing_costs	28
+47125	Tennessee	Montgomery	pcnt_high_housing_costs	30
+47127	Tennessee	Moore	pcnt_high_housing_costs	20
+47129	Tennessee	Morgan	pcnt_high_housing_costs	26
+47131	Tennessee	Obion	pcnt_high_housing_costs	26
+47133	Tennessee	Overton	pcnt_high_housing_costs	24
+47135	Tennessee	Perry	pcnt_high_housing_costs	28
+47137	Tennessee	Pickett	pcnt_high_housing_costs	27
+47139	Tennessee	Polk	pcnt_high_housing_costs	25
+47141	Tennessee	Putnam	pcnt_high_housing_costs	32
+47143	Tennessee	Rhea	pcnt_high_housing_costs	30
+47145	Tennessee	Roane	pcnt_high_housing_costs	25
+47147	Tennessee	Robertson	pcnt_high_housing_costs	30
+47149	Tennessee	Rutherford	pcnt_high_housing_costs	31
+47151	Tennessee	Scott	pcnt_high_housing_costs	29
+47153	Tennessee	Sequatchie	pcnt_high_housing_costs	29
+47155	Tennessee	Sevier	pcnt_high_housing_costs	28
+47157	Tennessee	Shelby	pcnt_high_housing_costs	40
+47159	Tennessee	Smith	pcnt_high_housing_costs	24
+47161	Tennessee	Stewart	pcnt_high_housing_costs	26
+47163	Tennessee	Sullivan	pcnt_high_housing_costs	24
+47165	Tennessee	Sumner	pcnt_high_housing_costs	30
+47167	Tennessee	Tipton	pcnt_high_housing_costs	30
+47169	Tennessee	Trousdale	pcnt_high_housing_costs	28
+47171	Tennessee	Unicoi	pcnt_high_housing_costs	22
+47173	Tennessee	Union	pcnt_high_housing_costs	29
+47175	Tennessee	Van Buren	pcnt_high_housing_costs	26
+47177	Tennessee	Warren	pcnt_high_housing_costs	26
+47179	Tennessee	Washington	pcnt_high_housing_costs	29
+47181	Tennessee	Wayne	pcnt_high_housing_costs	21
+47183	Tennessee	Weakley	pcnt_high_housing_costs	27
+47185	Tennessee	White	pcnt_high_housing_costs	25
+47187	Tennessee	Williamson	pcnt_high_housing_costs	27
+47189	Tennessee	Wilson	pcnt_high_housing_costs	28
+48001	Texas	Anderson	pcnt_high_housing_costs	27
+48003	Texas	Andrews	pcnt_high_housing_costs	17
+48005	Texas	Angelina	pcnt_high_housing_costs	27
+48007	Texas	Aransas	pcnt_high_housing_costs	32
+48009	Texas	Archer	pcnt_high_housing_costs	22
+48011	Texas	Armstrong	pcnt_high_housing_costs	14
+48013	Texas	Atascosa	pcnt_high_housing_costs	26
+48015	Texas	Austin	pcnt_high_housing_costs	26
+48017	Texas	Bailey	pcnt_high_housing_costs	19
+48019	Texas	Bandera	pcnt_high_housing_costs	27
+48021	Texas	Bastrop	pcnt_high_housing_costs	29
+48023	Texas	Baylor	pcnt_high_housing_costs	23
+48025	Texas	Bee	pcnt_high_housing_costs	23
+48027	Texas	Bell	pcnt_high_housing_costs	32
+48029	Texas	Bexar	pcnt_high_housing_costs	33
+48031	Texas	Blanco	pcnt_high_housing_costs	24
+48033	Texas	Borden	pcnt_high_housing_costs	1
+48035	Texas	Bosque	pcnt_high_housing_costs	22
+48037	Texas	Bowie	pcnt_high_housing_costs	26
+48039	Texas	Brazoria	pcnt_high_housing_costs	27
+48041	Texas	Brazos	pcnt_high_housing_costs	41
+48043	Texas	Brewster	pcnt_high_housing_costs	18
+48045	Texas	Briscoe	pcnt_high_housing_costs	21
+48047	Texas	Brooks	pcnt_high_housing_costs	30
+48049	Texas	Brown	pcnt_high_housing_costs	26
+48051	Texas	Burleson	pcnt_high_housing_costs	20
+48053	Texas	Burnet	pcnt_high_housing_costs	31
+48055	Texas	Caldwell	pcnt_high_housing_costs	31
+48057	Texas	Calhoun	pcnt_high_housing_costs	23
+48059	Texas	Callahan	pcnt_high_housing_costs	20
+48061	Texas	Cameron	pcnt_high_housing_costs	34
+48063	Texas	Camp	pcnt_high_housing_costs	26
+48065	Texas	Carson	pcnt_high_housing_costs	14
+48067	Texas	Cass	pcnt_high_housing_costs	20
+48069	Texas	Castro	pcnt_high_housing_costs	25
+48071	Texas	Chambers	pcnt_high_housing_costs	21
+48073	Texas	Cherokee	pcnt_high_housing_costs	26
+48075	Texas	Childress	pcnt_high_housing_costs	21
+48077	Texas	Clay	pcnt_high_housing_costs	17
+48079	Texas	Cochran	pcnt_high_housing_costs	18
+48081	Texas	Coke	pcnt_high_housing_costs	17
+48083	Texas	Coleman	pcnt_high_housing_costs	27
+48085	Texas	Collin	pcnt_high_housing_costs	30
+48087	Texas	Collingsworth	pcnt_high_housing_costs	23
+48089	Texas	Colorado	pcnt_high_housing_costs	19
+48091	Texas	Comal	pcnt_high_housing_costs	28
+48093	Texas	Comanche	pcnt_high_housing_costs	24
+48095	Texas	Concho	pcnt_high_housing_costs	14
+48097	Texas	Cooke	pcnt_high_housing_costs	27
+48099	Texas	Coryell	pcnt_high_housing_costs	24
+48101	Texas	Cottle	pcnt_high_housing_costs	17
+48103	Texas	Crane	pcnt_high_housing_costs	26
+48105	Texas	Crockett	pcnt_high_housing_costs	15
+48107	Texas	Crosby	pcnt_high_housing_costs	22
+48109	Texas	Culberson	pcnt_high_housing_costs	33
+48111	Texas	Dallam	pcnt_high_housing_costs	19
+48113	Texas	Dallas	pcnt_high_housing_costs	38
+48115	Texas	Dawson	pcnt_high_housing_costs	19
+48117	Texas	Deaf Smith	pcnt_high_housing_costs	20
+48119	Texas	Delta	pcnt_high_housing_costs	31
+48121	Texas	Denton	pcnt_high_housing_costs	32
+48123	Texas	DeWitt	pcnt_high_housing_costs	16
+48125	Texas	Dickens	pcnt_high_housing_costs	17
+48127	Texas	Dimmit	pcnt_high_housing_costs	21
+48129	Texas	Donley	pcnt_high_housing_costs	19
+48131	Texas	Duval	pcnt_high_housing_costs	19
+48133	Texas	Eastland	pcnt_high_housing_costs	20
+48135	Texas	Ector	pcnt_high_housing_costs	23
+48137	Texas	Edwards	pcnt_high_housing_costs	19
+48139	Texas	Ellis	pcnt_high_housing_costs	29
+48141	Texas	El Paso	pcnt_high_housing_costs	34
+48143	Texas	Erath	pcnt_high_housing_costs	30
+48145	Texas	Falls	pcnt_high_housing_costs	29
+48147	Texas	Fannin	pcnt_high_housing_costs	26
+48149	Texas	Fayette	pcnt_high_housing_costs	23
+48151	Texas	Fisher	pcnt_high_housing_costs	16
+48153	Texas	Floyd	pcnt_high_housing_costs	26
+48155	Texas	Foard	pcnt_high_housing_costs	28
+48157	Texas	Fort Bend	pcnt_high_housing_costs	31
+48159	Texas	Franklin	pcnt_high_housing_costs	23
+48161	Texas	Freestone	pcnt_high_housing_costs	26
+48163	Texas	Frio	pcnt_high_housing_costs	21
+48165	Texas	Gaines	pcnt_high_housing_costs	13
+48167	Texas	Galveston	pcnt_high_housing_costs	32
+48169	Texas	Garza	pcnt_high_housing_costs	20
+48171	Texas	Gillespie	pcnt_high_housing_costs	27
+48173	Texas	Glasscock	pcnt_high_housing_costs	9
+48175	Texas	Goliad	pcnt_high_housing_costs	17
+48177	Texas	Gonzales	pcnt_high_housing_costs	21
+48179	Texas	Gray	pcnt_high_housing_costs	21
+48181	Texas	Grayson	pcnt_high_housing_costs	29
+48183	Texas	Gregg	pcnt_high_housing_costs	28
+48185	Texas	Grimes	pcnt_high_housing_costs	25
+48187	Texas	Guadalupe	pcnt_high_housing_costs	25
+48189	Texas	Hale	pcnt_high_housing_costs	22
+48191	Texas	Hall	pcnt_high_housing_costs	24
+48193	Texas	Hamilton	pcnt_high_housing_costs	23
+48195	Texas	Hansford	pcnt_high_housing_costs	16
+48197	Texas	Hardeman	pcnt_high_housing_costs	27
+48199	Texas	Hardin	pcnt_high_housing_costs	19
+48201	Texas	Harris	pcnt_high_housing_costs	36
+48203	Texas	Harrison	pcnt_high_housing_costs	22
+48205	Texas	Hartley	pcnt_high_housing_costs	20
+48207	Texas	Haskell	pcnt_high_housing_costs	15
+48209	Texas	Hays	pcnt_high_housing_costs	39
+48211	Texas	Hemphill	pcnt_high_housing_costs	19
+48213	Texas	Henderson	pcnt_high_housing_costs	28
+48215	Texas	Hidalgo	pcnt_high_housing_costs	34
+48217	Texas	Hill	pcnt_high_housing_costs	29
+48219	Texas	Hockley	pcnt_high_housing_costs	19
+48221	Texas	Hood	pcnt_high_housing_costs	28
+48223	Texas	Hopkins	pcnt_high_housing_costs	26
+48225	Texas	Houston	pcnt_high_housing_costs	28
+48227	Texas	Howard	pcnt_high_housing_costs	23
+48229	Texas	Hudspeth	pcnt_high_housing_costs	29
+48231	Texas	Hunt	pcnt_high_housing_costs	31
+48233	Texas	Hutchinson	pcnt_high_housing_costs	17
+48235	Texas	Irion	pcnt_high_housing_costs	14
+48237	Texas	Jack	pcnt_high_housing_costs	16
+48239	Texas	Jackson	pcnt_high_housing_costs	18
+48241	Texas	Jasper	pcnt_high_housing_costs	23
+48243	Texas	Jeff Davis	pcnt_high_housing_costs	18
+48245	Texas	Jefferson	pcnt_high_housing_costs	28
+48247	Texas	Jim Hogg	pcnt_high_housing_costs	26
+48249	Texas	Jim Wells	pcnt_high_housing_costs	24
+48251	Texas	Johnson	pcnt_high_housing_costs	26
+48253	Texas	Jones	pcnt_high_housing_costs	20
+48255	Texas	Karnes	pcnt_high_housing_costs	22
+48257	Texas	Kaufman	pcnt_high_housing_costs	30
+48259	Texas	Kendall	pcnt_high_housing_costs	32
+48261	Texas	Kenedy	pcnt_high_housing_costs	12
+48263	Texas	Kent	pcnt_high_housing_costs	18
+48265	Texas	Kerr	pcnt_high_housing_costs	28
+48267	Texas	Kimble	pcnt_high_housing_costs	16
+48269	Texas	King	pcnt_high_housing_costs	9
+48271	Texas	Kinney	pcnt_high_housing_costs	17
+48273	Texas	Kleberg	pcnt_high_housing_costs	30
+48275	Texas	Knox	pcnt_high_housing_costs	20
+48277	Texas	Lamar	pcnt_high_housing_costs	27
+48279	Texas	Lamb	pcnt_high_housing_costs	17
+48281	Texas	Lampasas	pcnt_high_housing_costs	25
+48283	Texas	La Salle	pcnt_high_housing_costs	25
+48285	Texas	Lavaca	pcnt_high_housing_costs	17
+48287	Texas	Lee	pcnt_high_housing_costs	21
+48289	Texas	Leon	pcnt_high_housing_costs	21
+48291	Texas	Liberty	pcnt_high_housing_costs	24
+48293	Texas	Limestone	pcnt_high_housing_costs	24
+48295	Texas	Lipscomb	pcnt_high_housing_costs	13
+48297	Texas	Live Oak	pcnt_high_housing_costs	17
+48299	Texas	Llano	pcnt_high_housing_costs	30
+48301	Texas	Loving	pcnt_high_housing_costs	0
+48303	Texas	Lubbock	pcnt_high_housing_costs	32
+48305	Texas	Lynn	pcnt_high_housing_costs	22
+48307	Texas	McCulloch	pcnt_high_housing_costs	22
+48309	Texas	McLennan	pcnt_high_housing_costs	34
+48311	Texas	McMullen	pcnt_high_housing_costs	11
+48313	Texas	Madison	pcnt_high_housing_costs	23
+48315	Texas	Marion	pcnt_high_housing_costs	24
+48317	Texas	Martin	pcnt_high_housing_costs	12
+48319	Texas	Mason	pcnt_high_housing_costs	19
+48321	Texas	Matagorda	pcnt_high_housing_costs	26
+48323	Texas	Maverick	pcnt_high_housing_costs	34
+48325	Texas	Medina	pcnt_high_housing_costs	23
+48327	Texas	Menard	pcnt_high_housing_costs	21
+48329	Texas	Midland	pcnt_high_housing_costs	25
+48331	Texas	Milam	pcnt_high_housing_costs	26
+48333	Texas	Mills	pcnt_high_housing_costs	21
+48335	Texas	Mitchell	pcnt_high_housing_costs	19
+48337	Texas	Montague	pcnt_high_housing_costs	26
+48339	Texas	Montgomery	pcnt_high_housing_costs	29
+48341	Texas	Moore	pcnt_high_housing_costs	18
+48343	Texas	Morris	pcnt_high_housing_costs	22
+48345	Texas	Motley	pcnt_high_housing_costs	30
+48347	Texas	Nacogdoches	pcnt_high_housing_costs	31
+48349	Texas	Navarro	pcnt_high_housing_costs	28
+48351	Texas	Newton	pcnt_high_housing_costs	18
+48353	Texas	Nolan	pcnt_high_housing_costs	19
+48355	Texas	Nueces	pcnt_high_housing_costs	35
+48357	Texas	Ochiltree	pcnt_high_housing_costs	22
+48359	Texas	Oldham	pcnt_high_housing_costs	19
+48361	Texas	Orange	pcnt_high_housing_costs	22
+48363	Texas	Palo Pinto	pcnt_high_housing_costs	25
+48365	Texas	Panola	pcnt_high_housing_costs	18
+48367	Texas	Parker	pcnt_high_housing_costs	27
+48369	Texas	Parmer	pcnt_high_housing_costs	28
+48371	Texas	Pecos	pcnt_high_housing_costs	19
+48373	Texas	Polk	pcnt_high_housing_costs	25
+48375	Texas	Potter	pcnt_high_housing_costs	33
+48377	Texas	Presidio	pcnt_high_housing_costs	21
+48379	Texas	Rains	pcnt_high_housing_costs	22
+48381	Texas	Randall	pcnt_high_housing_costs	27
+48383	Texas	Reagan	pcnt_high_housing_costs	10
+48385	Texas	Real	pcnt_high_housing_costs	27
+48387	Texas	Red River	pcnt_high_housing_costs	19
+48389	Texas	Reeves	pcnt_high_housing_costs	22
+48391	Texas	Refugio	pcnt_high_housing_costs	18
+48393	Texas	Roberts	pcnt_high_housing_costs	18
+48395	Texas	Robertson	pcnt_high_housing_costs	29
+48397	Texas	Rockwall	pcnt_high_housing_costs	29
+48399	Texas	Runnels	pcnt_high_housing_costs	16
+48401	Texas	Rusk	pcnt_high_housing_costs	19
+48403	Texas	Sabine	pcnt_high_housing_costs	19
+48405	Texas	San Augustine	pcnt_high_housing_costs	28
+48407	Texas	San Jacinto	pcnt_high_housing_costs	19
+48409	Texas	San Patricio	pcnt_high_housing_costs	28
+48411	Texas	San Saba	pcnt_high_housing_costs	24
+48413	Texas	Schleicher	pcnt_high_housing_costs	16
+48415	Texas	Scurry	pcnt_high_housing_costs	23
+48417	Texas	Shackelford	pcnt_high_housing_costs	20
+48419	Texas	Shelby	pcnt_high_housing_costs	23
+48421	Texas	Sherman	pcnt_high_housing_costs	15
+48423	Texas	Smith	pcnt_high_housing_costs	31
+48425	Texas	Somervell	pcnt_high_housing_costs	25
+48427	Texas	Starr	pcnt_high_housing_costs	26
+48429	Texas	Stephens	pcnt_high_housing_costs	24
+48431	Texas	Sterling	pcnt_high_housing_costs	24
+48433	Texas	Stonewall	pcnt_high_housing_costs	13
+48435	Texas	Sutton	pcnt_high_housing_costs	12
+48437	Texas	Swisher	pcnt_high_housing_costs	22
+48439	Texas	Tarrant	pcnt_high_housing_costs	34
+48441	Texas	Taylor	pcnt_high_housing_costs	29
+48443	Texas	Terrell	pcnt_high_housing_costs	16
+48445	Texas	Terry	pcnt_high_housing_costs	25
+48447	Texas	Throckmorton	pcnt_high_housing_costs	14
+48449	Texas	Titus	pcnt_high_housing_costs	26
+48451	Texas	Tom Green	pcnt_high_housing_costs	28
+48453	Texas	Travis	pcnt_high_housing_costs	38
+48455	Texas	Trinity	pcnt_high_housing_costs	25
+48457	Texas	Tyler	pcnt_high_housing_costs	20
+48459	Texas	Upshur	pcnt_high_housing_costs	19
+48461	Texas	Upton	pcnt_high_housing_costs	12
+48463	Texas	Uvalde	pcnt_high_housing_costs	28
+48465	Texas	Val Verde	pcnt_high_housing_costs	29
+48467	Texas	Van Zandt	pcnt_high_housing_costs	27
+48469	Texas	Victoria	pcnt_high_housing_costs	28
+48471	Texas	Walker	pcnt_high_housing_costs	35
+48473	Texas	Waller	pcnt_high_housing_costs	33
+48475	Texas	Ward	pcnt_high_housing_costs	15
+48477	Texas	Washington	pcnt_high_housing_costs	28
+48479	Texas	Webb	pcnt_high_housing_costs	40
+48481	Texas	Wharton	pcnt_high_housing_costs	25
+48483	Texas	Wheeler	pcnt_high_housing_costs	19
+48485	Texas	Wichita	pcnt_high_housing_costs	28
+48487	Texas	Wilbarger	pcnt_high_housing_costs	25
+48489	Texas	Willacy	pcnt_high_housing_costs	29
+48491	Texas	Williamson	pcnt_high_housing_costs	31
+48493	Texas	Wilson	pcnt_high_housing_costs	23
+48495	Texas	Winkler	pcnt_high_housing_costs	14
+48497	Texas	Wise	pcnt_high_housing_costs	24
+48499	Texas	Wood	pcnt_high_housing_costs	25
+48501	Texas	Yoakum	pcnt_high_housing_costs	9
+48503	Texas	Young	pcnt_high_housing_costs	24
+48505	Texas	Zapata	pcnt_high_housing_costs	28
+48507	Texas	Zavala	pcnt_high_housing_costs	31
+49001	Utah	Beaver	pcnt_high_housing_costs	33
+49003	Utah	Box Elder	pcnt_high_housing_costs	24
+49005	Utah	Cache	pcnt_high_housing_costs	32
+49007	Utah	Carbon	pcnt_high_housing_costs	23
+49009	Utah	Daggett	pcnt_high_housing_costs	25
+49011	Utah	Davis	pcnt_high_housing_costs	29
+49013	Utah	Duchesne	pcnt_high_housing_costs	23
+49015	Utah	Emery	pcnt_high_housing_costs	17
+49017	Utah	Garfield	pcnt_high_housing_costs	24
+49019	Utah	Grand	pcnt_high_housing_costs	29
+49021	Utah	Iron	pcnt_high_housing_costs	38
+49023	Utah	Juab	pcnt_high_housing_costs	25
+49025	Utah	Kane	pcnt_high_housing_costs	25
+49027	Utah	Millard	pcnt_high_housing_costs	19
+49029	Utah	Morgan	pcnt_high_housing_costs	23
+49031	Utah	Piute	pcnt_high_housing_costs	22
+49033	Utah	Rich	pcnt_high_housing_costs	15
+49035	Utah	Salt Lake	pcnt_high_housing_costs	35
+49037	Utah	San Juan	pcnt_high_housing_costs	21
+49039	Utah	Sanpete	pcnt_high_housing_costs	25
+49041	Utah	Sevier	pcnt_high_housing_costs	22
+49043	Utah	Summit	pcnt_high_housing_costs	34
+49045	Utah	Tooele	pcnt_high_housing_costs	27
+49047	Utah	Uintah	pcnt_high_housing_costs	25
+49049	Utah	Utah	pcnt_high_housing_costs	35
+49051	Utah	Wasatch	pcnt_high_housing_costs	35
+49053	Utah	Washington	pcnt_high_housing_costs	36
+49055	Utah	Wayne	pcnt_high_housing_costs	17
+49057	Utah	Weber	pcnt_high_housing_costs	29
+50001	Vermont	Addison	pcnt_high_housing_costs	36
+50003	Vermont	Bennington	pcnt_high_housing_costs	38
+50005	Vermont	Caledonia	pcnt_high_housing_costs	33
+50007	Vermont	Chittenden	pcnt_high_housing_costs	40
+50009	Vermont	Essex	pcnt_high_housing_costs	35
+50011	Vermont	Franklin	pcnt_high_housing_costs	36
+50013	Vermont	Grand Isle	pcnt_high_housing_costs	37
+50015	Vermont	Lamoille	pcnt_high_housing_costs	39
+50017	Vermont	Orange	pcnt_high_housing_costs	33
+50019	Vermont	Orleans	pcnt_high_housing_costs	38
+50021	Vermont	Rutland	pcnt_high_housing_costs	37
+50023	Vermont	Washington	pcnt_high_housing_costs	35
+50025	Vermont	Windham	pcnt_high_housing_costs	37
+50027	Vermont	Windsor	pcnt_high_housing_costs	37
+51001	Virginia	Accomack	pcnt_high_housing_costs	27
+51003	Virginia	Albemarle	pcnt_high_housing_costs	32
+51005	Virginia	Alleghany	pcnt_high_housing_costs	23
+51007	Virginia	Amelia	pcnt_high_housing_costs	31
+51009	Virginia	Amherst	pcnt_high_housing_costs	25
+51011	Virginia	Appomattox	pcnt_high_housing_costs	23
+51013	Virginia	Arlington	pcnt_high_housing_costs	32
+51015	Virginia	Augusta	pcnt_high_housing_costs	24
+51017	Virginia	Bath	pcnt_high_housing_costs	20
+51019	Virginia	Bedford	pcnt_high_housing_costs	25
+51021	Virginia	Bland	pcnt_high_housing_costs	19
+51023	Virginia	Botetourt	pcnt_high_housing_costs	22
+51025	Virginia	Brunswick	pcnt_high_housing_costs	33
+51027	Virginia	Buchanan	pcnt_high_housing_costs	22
+51029	Virginia	Buckingham	pcnt_high_housing_costs	26
+51031	Virginia	Campbell	pcnt_high_housing_costs	25
+51033	Virginia	Caroline	pcnt_high_housing_costs	35
+51035	Virginia	Carroll	pcnt_high_housing_costs	24
+51036	Virginia	Charles City	pcnt_high_housing_costs	30
+51037	Virginia	Charlotte	pcnt_high_housing_costs	27
+51041	Virginia	Chesterfield	pcnt_high_housing_costs	31
+51043	Virginia	Clarke	pcnt_high_housing_costs	28
+51045	Virginia	Craig	pcnt_high_housing_costs	12
+51047	Virginia	Culpeper	pcnt_high_housing_costs	39
+51049	Virginia	Cumberland	pcnt_high_housing_costs	30
+51051	Virginia	Dickenson	pcnt_high_housing_costs	21
+51053	Virginia	Dinwiddie	pcnt_high_housing_costs	29
+51057	Virginia	Essex	pcnt_high_housing_costs	31
+51059	Virginia	Fairfax	pcnt_high_housing_costs	33
+51061	Virginia	Fauquier	pcnt_high_housing_costs	31
+51063	Virginia	Floyd	pcnt_high_housing_costs	22
+51065	Virginia	Fluvanna	pcnt_high_housing_costs	28
+51067	Virginia	Franklin	pcnt_high_housing_costs	26
+51069	Virginia	Frederick	pcnt_high_housing_costs	33
+51071	Virginia	Giles	pcnt_high_housing_costs	21
+51073	Virginia	Gloucester	pcnt_high_housing_costs	31
+51075	Virginia	Goochland	pcnt_high_housing_costs	26
+51077	Virginia	Grayson	pcnt_high_housing_costs	18
+51079	Virginia	Greene	pcnt_high_housing_costs	30
+51081	Virginia	Greensville	pcnt_high_housing_costs	27
+51083	Virginia	Halifax	pcnt_high_housing_costs	30
+51085	Virginia	Hanover	pcnt_high_housing_costs	28
+51087	Virginia	Henrico	pcnt_high_housing_costs	35
+51089	Virginia	Henry	pcnt_high_housing_costs	25
+51091	Virginia	Highland	pcnt_high_housing_costs	23
+51093	Virginia	Isle of Wight	pcnt_high_housing_costs	29
+51095	Virginia	James City	pcnt_high_housing_costs	31
+51097	Virginia	King and Queen	pcnt_high_housing_costs	25
+51099	Virginia	King George	pcnt_high_housing_costs	27
+51101	Virginia	King William	pcnt_high_housing_costs	30
+51103	Virginia	Lancaster	pcnt_high_housing_costs	29
+51105	Virginia	Lee	pcnt_high_housing_costs	25
+51107	Virginia	Loudoun	pcnt_high_housing_costs	37
+51109	Virginia	Louisa	pcnt_high_housing_costs	29
+51111	Virginia	Lunenburg	pcnt_high_housing_costs	32
+51113	Virginia	Madison	pcnt_high_housing_costs	25
+51115	Virginia	Mathews	pcnt_high_housing_costs	20
+51117	Virginia	Mecklenburg	pcnt_high_housing_costs	31
+51119	Virginia	Middlesex	pcnt_high_housing_costs	26
+51121	Virginia	Montgomery	pcnt_high_housing_costs	36
+51125	Virginia	Nelson	pcnt_high_housing_costs	28
+51127	Virginia	New Kent	pcnt_high_housing_costs	27
+51131	Virginia	Northampton	pcnt_high_housing_costs	34
+51133	Virginia	Northumberland	pcnt_high_housing_costs	31
+51135	Virginia	Nottoway	pcnt_high_housing_costs	39
+51137	Virginia	Orange	pcnt_high_housing_costs	32
+51139	Virginia	Page	pcnt_high_housing_costs	29
+51141	Virginia	Patrick	pcnt_high_housing_costs	20
+51143	Virginia	Pittsylvania	pcnt_high_housing_costs	27
+51145	Virginia	Powhatan	pcnt_high_housing_costs	27
+51147	Virginia	Prince Edward	pcnt_high_housing_costs	32
+51149	Virginia	Prince George	pcnt_high_housing_costs	25
+51153	Virginia	Prince William	pcnt_high_housing_costs	38
+51155	Virginia	Pulaski	pcnt_high_housing_costs	28
+51157	Virginia	Rappahannock	pcnt_high_housing_costs	29
+51159	Virginia	Richmond	pcnt_high_housing_costs	23
+51161	Virginia	Roanoke	pcnt_high_housing_costs	25
+51163	Virginia	Rockbridge	pcnt_high_housing_costs	30
+51165	Virginia	Rockingham	pcnt_high_housing_costs	27
+51167	Virginia	Russell	pcnt_high_housing_costs	23
+51169	Virginia	Scott	pcnt_high_housing_costs	20
+51171	Virginia	Shenandoah	pcnt_high_housing_costs	32
+51173	Virginia	Smyth	pcnt_high_housing_costs	23
+51175	Virginia	Southampton	pcnt_high_housing_costs	32
+51177	Virginia	Spotsylvania	pcnt_high_housing_costs	34
+51179	Virginia	Stafford	pcnt_high_housing_costs	34
+51181	Virginia	Surry	pcnt_high_housing_costs	25
+51183	Virginia	Sussex	pcnt_high_housing_costs	26
+51185	Virginia	Tazewell	pcnt_high_housing_costs	23
+51187	Virginia	Warren	pcnt_high_housing_costs	32
+51191	Virginia	Washington	pcnt_high_housing_costs	24
+51193	Virginia	Westmoreland	pcnt_high_housing_costs	28
+51195	Virginia	Wise	pcnt_high_housing_costs	23
+51197	Virginia	Wythe	pcnt_high_housing_costs	20
+51199	Virginia	York	pcnt_high_housing_costs	30
+51510	Virginia	Alexandria City	pcnt_high_housing_costs	35
+51515	Virginia	Bedford City	pcnt_high_housing_costs	36
+51520	Virginia	Bristol City	pcnt_high_housing_costs	30
+51530	Virginia	Buena Vista City	pcnt_high_housing_costs	34
+51540	Virginia	Charlottesville City	pcnt_high_housing_costs	43
+51550	Virginia	Chesapeake City	pcnt_high_housing_costs	40
+51570	Virginia	Colonial Heights City	pcnt_high_housing_costs	27
+51580	Virginia	Covington City	pcnt_high_housing_costs	26
+51590	Virginia	Danville City	pcnt_high_housing_costs	38
+51595	Virginia	Emporia City	pcnt_high_housing_costs	39
+51600	Virginia	Fairfax City	pcnt_high_housing_costs	37
+51610	Virginia	Falls Church City	pcnt_high_housing_costs	33
+51620	Virginia	Franklin City	pcnt_high_housing_costs	50
+51630	Virginia	Fredericksburg City	pcnt_high_housing_costs	45
+51640	Virginia	Galax City	pcnt_high_housing_costs	30
+51650	Virginia	Hampton City	pcnt_high_housing_costs	40
+51660	Virginia	Harrisonburg City	pcnt_high_housing_costs	42
+51670	Virginia	Hopewell City	pcnt_high_housing_costs	35
+51678	Virginia	Lexington City	pcnt_high_housing_costs	28
+51680	Virginia	Lynchburg City	pcnt_high_housing_costs	37
+51683	Virginia	Manassas City	pcnt_high_housing_costs	40
+51685	Virginia	Manassas Park City	pcnt_high_housing_costs	51
+51690	Virginia	Martinsville City	pcnt_high_housing_costs	37
+51700	Virginia	Newport News City	pcnt_high_housing_costs	40
+51710	Virginia	Norfolk City	pcnt_high_housing_costs	45
+51720	Virginia	Norton City	pcnt_high_housing_costs	25
+51730	Virginia	Petersburg City	pcnt_high_housing_costs	38
+51735	Virginia	Poquoson City	pcnt_high_housing_costs	27
+51740	Virginia	Portsmouth City	pcnt_high_housing_costs	45
+51750	Virginia	Radford City	pcnt_high_housing_costs	43
+51760	Virginia	Richmond City	pcnt_high_housing_costs	47
+51770	Virginia	Roanoke City	pcnt_high_housing_costs	39
+51775	Virginia	Salem City	pcnt_high_housing_costs	32
+51790	Virginia	Staunton City	pcnt_high_housing_costs	36
+51800	Virginia	Suffolk City	pcnt_high_housing_costs	39
+51810	Virginia	Virginia Beach City	pcnt_high_housing_costs	41
+51820	Virginia	Waynesboro City	pcnt_high_housing_costs	37
+51830	Virginia	Williamsburg City	pcnt_high_housing_costs	38
+51840	Virginia	Winchester City	pcnt_high_housing_costs	38
+53001	Washington	Adams	pcnt_high_housing_costs	31
+53003	Washington	Asotin	pcnt_high_housing_costs	28
+53005	Washington	Benton	pcnt_high_housing_costs	27
+53007	Washington	Chelan	pcnt_high_housing_costs	32
+53009	Washington	Clallam	pcnt_high_housing_costs	35
+53011	Washington	Clark	pcnt_high_housing_costs	39
+53013	Washington	Columbia	pcnt_high_housing_costs	32
+53015	Washington	Cowlitz	pcnt_high_housing_costs	37
+53017	Washington	Douglas	pcnt_high_housing_costs	30
+53019	Washington	Ferry	pcnt_high_housing_costs	30
+53021	Washington	Franklin	pcnt_high_housing_costs	31
+53023	Washington	Garfield	pcnt_high_housing_costs	22
+53025	Washington	Grant	pcnt_high_housing_costs	27
+53027	Washington	Grays Harbor	pcnt_high_housing_costs	32
+53029	Washington	Island	pcnt_high_housing_costs	37
+53031	Washington	Jefferson	pcnt_high_housing_costs	37
+53033	Washington	King	pcnt_high_housing_costs	39
+53035	Washington	Kitsap	pcnt_high_housing_costs	37
+53037	Washington	Kittitas	pcnt_high_housing_costs	44
+53039	Washington	Klickitat	pcnt_high_housing_costs	34
+53041	Washington	Lewis	pcnt_high_housing_costs	34
+53043	Washington	Lincoln	pcnt_high_housing_costs	23
+53045	Washington	Mason	pcnt_high_housing_costs	37
+53047	Washington	Okanogan	pcnt_high_housing_costs	27
+53049	Washington	Pacific	pcnt_high_housing_costs	31
+53051	Washington	Pend Oreille	pcnt_high_housing_costs	29
+53053	Washington	Pierce	pcnt_high_housing_costs	41
+53055	Washington	San Juan	pcnt_high_housing_costs	40
+53057	Washington	Skagit	pcnt_high_housing_costs	40
+53059	Washington	Skamania	pcnt_high_housing_costs	31
+53061	Washington	Snohomish	pcnt_high_housing_costs	42
+53063	Washington	Spokane	pcnt_high_housing_costs	36
+53065	Washington	Stevens	pcnt_high_housing_costs	31
+53067	Washington	Thurston	pcnt_high_housing_costs	36
+53069	Washington	Wahkiakum	pcnt_high_housing_costs	27
+53071	Washington	Walla Walla	pcnt_high_housing_costs	32
+53073	Washington	Whatcom	pcnt_high_housing_costs	41
+53075	Washington	Whitman	pcnt_high_housing_costs	40
+53077	Washington	Yakima	pcnt_high_housing_costs	35
+54001	West Virginia	Barbour	pcnt_high_housing_costs	25
+54003	West Virginia	Berkeley	pcnt_high_housing_costs	32
+54005	West Virginia	Boone	pcnt_high_housing_costs	18
+54007	West Virginia	Braxton	pcnt_high_housing_costs	19
+54009	West Virginia	Brooke	pcnt_high_housing_costs	18
+54011	West Virginia	Cabell	pcnt_high_housing_costs	28
+54013	West Virginia	Calhoun	pcnt_high_housing_costs	18
+54015	West Virginia	Clay	pcnt_high_housing_costs	17
+54017	West Virginia	Doddridge	pcnt_high_housing_costs	19
+54019	West Virginia	Fayette	pcnt_high_housing_costs	21
+54021	West Virginia	Gilmer	pcnt_high_housing_costs	23
+54023	West Virginia	Grant	pcnt_high_housing_costs	18
+54025	West Virginia	Greenbrier	pcnt_high_housing_costs	23
+54027	West Virginia	Hampshire	pcnt_high_housing_costs	25
+54029	West Virginia	Hancock	pcnt_high_housing_costs	26
+54031	West Virginia	Hardy	pcnt_high_housing_costs	19
+54033	West Virginia	Harrison	pcnt_high_housing_costs	23
+54035	West Virginia	Jackson	pcnt_high_housing_costs	17
+54037	West Virginia	Jefferson	pcnt_high_housing_costs	33
+54039	West Virginia	Kanawha	pcnt_high_housing_costs	21
+54041	West Virginia	Lewis	pcnt_high_housing_costs	18
+54043	West Virginia	Lincoln	pcnt_high_housing_costs	21
+54045	West Virginia	Logan	pcnt_high_housing_costs	19
+54047	West Virginia	McDowell	pcnt_high_housing_costs	19
+54049	West Virginia	Marion	pcnt_high_housing_costs	21
+54051	West Virginia	Marshall	pcnt_high_housing_costs	20
+54053	West Virginia	Mason	pcnt_high_housing_costs	19
+54055	West Virginia	Mercer	pcnt_high_housing_costs	23
+54057	West Virginia	Mineral	pcnt_high_housing_costs	25
+54059	West Virginia	Mingo	pcnt_high_housing_costs	17
+54061	West Virginia	Monongalia	pcnt_high_housing_costs	28
+54063	West Virginia	Monroe	pcnt_high_housing_costs	17
+54065	West Virginia	Morgan	pcnt_high_housing_costs	27
+54067	West Virginia	Nicholas	pcnt_high_housing_costs	18
+54069	West Virginia	Ohio	pcnt_high_housing_costs	23
+54071	West Virginia	Pendleton	pcnt_high_housing_costs	22
+54073	West Virginia	Pleasants	pcnt_high_housing_costs	20
+54075	West Virginia	Pocahontas	pcnt_high_housing_costs	25
+54077	West Virginia	Preston	pcnt_high_housing_costs	16
+54079	West Virginia	Putnam	pcnt_high_housing_costs	18
+54081	West Virginia	Raleigh	pcnt_high_housing_costs	22
+54083	West Virginia	Randolph	pcnt_high_housing_costs	27
+54085	West Virginia	Ritchie	pcnt_high_housing_costs	20
+54087	West Virginia	Roane	pcnt_high_housing_costs	22
+54089	West Virginia	Summers	pcnt_high_housing_costs	20
+54091	West Virginia	Taylor	pcnt_high_housing_costs	18
+54093	West Virginia	Tucker	pcnt_high_housing_costs	25
+54095	West Virginia	Tyler	pcnt_high_housing_costs	18
+54097	West Virginia	Upshur	pcnt_high_housing_costs	20
+54099	West Virginia	Wayne	pcnt_high_housing_costs	23
+54101	West Virginia	Webster	pcnt_high_housing_costs	21
+54103	West Virginia	Wetzel	pcnt_high_housing_costs	20
+54105	West Virginia	Wirt	pcnt_high_housing_costs	13
+54107	West Virginia	Wood	pcnt_high_housing_costs	26
+54109	West Virginia	Wyoming	pcnt_high_housing_costs	14
+55001	Wisconsin	Adams	pcnt_high_housing_costs	32
+55003	Wisconsin	Ashland	pcnt_high_housing_costs	30
+55005	Wisconsin	Barron	pcnt_high_housing_costs	34
+55007	Wisconsin	Bayfield	pcnt_high_housing_costs	29
+55009	Wisconsin	Brown	pcnt_high_housing_costs	31
+55011	Wisconsin	Buffalo	pcnt_high_housing_costs	30
+55013	Wisconsin	Burnett	pcnt_high_housing_costs	38
+55015	Wisconsin	Calumet	pcnt_high_housing_costs	25
+55017	Wisconsin	Chippewa	pcnt_high_housing_costs	29
+55019	Wisconsin	Clark	pcnt_high_housing_costs	28
+55021	Wisconsin	Columbia	pcnt_high_housing_costs	32
+55023	Wisconsin	Crawford	pcnt_high_housing_costs	29
+55025	Wisconsin	Dane	pcnt_high_housing_costs	36
+55027	Wisconsin	Dodge	pcnt_high_housing_costs	31
+55029	Wisconsin	Door	pcnt_high_housing_costs	34
+55031	Wisconsin	Douglas	pcnt_high_housing_costs	32
+55033	Wisconsin	Dunn	pcnt_high_housing_costs	33
+55035	Wisconsin	Eau Claire	pcnt_high_housing_costs	32
+55037	Wisconsin	Florence	pcnt_high_housing_costs	29
+55039	Wisconsin	Fond du Lac	pcnt_high_housing_costs	30
+55041	Wisconsin	Forest	pcnt_high_housing_costs	25
+55043	Wisconsin	Grant	pcnt_high_housing_costs	28
+55045	Wisconsin	Green	pcnt_high_housing_costs	32
+55047	Wisconsin	Green Lake	pcnt_high_housing_costs	27
+55049	Wisconsin	Iowa	pcnt_high_housing_costs	30
+55051	Wisconsin	Iron	pcnt_high_housing_costs	28
+55053	Wisconsin	Jackson	pcnt_high_housing_costs	31
+55055	Wisconsin	Jefferson	pcnt_high_housing_costs	34
+55057	Wisconsin	Juneau	pcnt_high_housing_costs	31
+55059	Wisconsin	Kenosha	pcnt_high_housing_costs	39
+55061	Wisconsin	Kewaunee	pcnt_high_housing_costs	27
+55063	Wisconsin	La Crosse	pcnt_high_housing_costs	32
+55065	Wisconsin	Lafayette	pcnt_high_housing_costs	30
+55067	Wisconsin	Langlade	pcnt_high_housing_costs	30
+55069	Wisconsin	Lincoln	pcnt_high_housing_costs	27
+55071	Wisconsin	Manitowoc	pcnt_high_housing_costs	27
+55073	Wisconsin	Marathon	pcnt_high_housing_costs	26
+55075	Wisconsin	Marinette	pcnt_high_housing_costs	29
+55077	Wisconsin	Marquette	pcnt_high_housing_costs	33
+55078	Wisconsin	Menominee	pcnt_high_housing_costs	23
+55079	Wisconsin	Milwaukee	pcnt_high_housing_costs	42
+55081	Wisconsin	Monroe	pcnt_high_housing_costs	29
+55083	Wisconsin	Oconto	pcnt_high_housing_costs	30
+55085	Wisconsin	Oneida	pcnt_high_housing_costs	33
+55087	Wisconsin	Outagamie	pcnt_high_housing_costs	28
+55089	Wisconsin	Ozaukee	pcnt_high_housing_costs	29
+55091	Wisconsin	Pepin	pcnt_high_housing_costs	28
+55093	Wisconsin	Pierce	pcnt_high_housing_costs	35
+55095	Wisconsin	Polk	pcnt_high_housing_costs	37
+55097	Wisconsin	Portage	pcnt_high_housing_costs	28
+55099	Wisconsin	Price	pcnt_high_housing_costs	28
+55101	Wisconsin	Racine	pcnt_high_housing_costs	35
+55103	Wisconsin	Richland	pcnt_high_housing_costs	30
+55105	Wisconsin	Rock	pcnt_high_housing_costs	34
+55107	Wisconsin	Rusk	pcnt_high_housing_costs	31
+55109	Wisconsin	St. Croix	pcnt_high_housing_costs	33
+55111	Wisconsin	Sauk	pcnt_high_housing_costs	34
+55113	Wisconsin	Sawyer	pcnt_high_housing_costs	34
+55115	Wisconsin	Shawano	pcnt_high_housing_costs	29
+55117	Wisconsin	Sheboygan	pcnt_high_housing_costs	28
+55119	Wisconsin	Taylor	pcnt_high_housing_costs	29
+55121	Wisconsin	Trempealeau	pcnt_high_housing_costs	29
+55123	Wisconsin	Vernon	pcnt_high_housing_costs	30
+55125	Wisconsin	Vilas	pcnt_high_housing_costs	35
+55127	Wisconsin	Walworth	pcnt_high_housing_costs	37
+55129	Wisconsin	Washburn	pcnt_high_housing_costs	37
+55131	Wisconsin	Washington	pcnt_high_housing_costs	31
+55133	Wisconsin	Waukesha	pcnt_high_housing_costs	30
+55135	Wisconsin	Waupaca	pcnt_high_housing_costs	31
+55137	Wisconsin	Waushara	pcnt_high_housing_costs	33
+55139	Wisconsin	Winnebago	pcnt_high_housing_costs	29
+55141	Wisconsin	Wood	pcnt_high_housing_costs	27
+56001	Wyoming	Albany	pcnt_high_housing_costs	35
+56003	Wyoming	Big Horn	pcnt_high_housing_costs	17
+56005	Wyoming	Campbell	pcnt_high_housing_costs	18
+56007	Wyoming	Carbon	pcnt_high_housing_costs	18
+56009	Wyoming	Converse	pcnt_high_housing_costs	23
+56011	Wyoming	Crook	pcnt_high_housing_costs	17
+56013	Wyoming	Fremont	pcnt_high_housing_costs	23
+56015	Wyoming	Goshen	pcnt_high_housing_costs	25
+56017	Wyoming	Hot Springs	pcnt_high_housing_costs	19
+56019	Wyoming	Johnson	pcnt_high_housing_costs	28
+56021	Wyoming	Laramie	pcnt_high_housing_costs	25
+56023	Wyoming	Lincoln	pcnt_high_housing_costs	24
+56025	Wyoming	Natrona	pcnt_high_housing_costs	24
+56027	Wyoming	Niobrara	pcnt_high_housing_costs	20
+56029	Wyoming	Park	pcnt_high_housing_costs	26
+56031	Wyoming	Platte	pcnt_high_housing_costs	24
+56033	Wyoming	Sheridan	pcnt_high_housing_costs	25
+56035	Wyoming	Sublette	pcnt_high_housing_costs	20
+56037	Wyoming	Sweetwater	pcnt_high_housing_costs	16
+56039	Wyoming	Teton	pcnt_high_housing_costs	31
+56041	Wyoming	Uinta	pcnt_high_housing_costs	19
+56043	Wyoming	Washakie	pcnt_high_housing_costs	23
+56045	Wyoming	Weston	pcnt_high_housing_costs	16

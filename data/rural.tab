@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	rural
+1001	Alabama	Autauga	rural	42
+1003	Alabama	Baldwin	rural	42.3
+1005	Alabama	Barbour	rural	67.8
+1007	Alabama	Bibb	rural	68.4
+1009	Alabama	Blount	rural	90
+1011	Alabama	Bullock	rural	51.4
+1013	Alabama	Butler	rural	71.2
+1015	Alabama	Calhoun	rural	33.7
+1017	Alabama	Chambers	rural	49.1
+1019	Alabama	Cherokee	rural	85.7
+1021	Alabama	Chilton	rural	86.7
+1023	Alabama	Choctaw	rural	100
+1025	Alabama	Clarke	rural	76
+1027	Alabama	Clay	rural	100
+1029	Alabama	Cleburne	rural	100
+1031	Alabama	Coffee	rural	47.2
+1033	Alabama	Colbert	rural	43.9
+1035	Alabama	Conecuh	rural	80.9
+1037	Alabama	Coosa	rural	100
+1039	Alabama	Covington	rural	69.7
+1041	Alabama	Crenshaw	rural	100
+1043	Alabama	Cullman	rural	73.2
+1045	Alabama	Dale	rural	50.9
+1047	Alabama	Dallas	rural	45.6
+1049	Alabama	DeKalb	rural	90.1
+1051	Alabama	Elmore	rural	54.2
+1053	Alabama	Escambia	rural	63.5
+1055	Alabama	Etowah	rural	37.5
+1057	Alabama	Fayette	rural	80.2
+1059	Alabama	Franklin	rural	70.4
+1061	Alabama	Geneva	rural	89.6
+1063	Alabama	Greene	rural	100
+1065	Alabama	Hale	rural	89.2
+1067	Alabama	Henry	rural	87.8
+1069	Alabama	Houston	rural	33.8
+1071	Alabama	Jackson	rural	77
+1073	Alabama	Jefferson	rural	9.8
+1075	Alabama	Lamar	rural	100
+1077	Alabama	Lauderdale	rural	49.3
+1079	Alabama	Lawrence	rural	91.3
+1081	Alabama	Lee	rural	27.4
+1083	Alabama	Limestone	rural	57.6
+1085	Alabama	Lowndes	rural	100
+1087	Alabama	Macon	rural	55.5
+1089	Alabama	Madison	rural	16.4
+1091	Alabama	Marengo	rural	69.3
+1093	Alabama	Marion	rural	88.9
+1095	Alabama	Marshall	rural	53.3
+1097	Alabama	Mobile	rural	20
+1099	Alabama	Monroe	rural	79
+1101	Alabama	Montgomery	rural	10.5
+1103	Alabama	Morgan	rural	38.6
+1105	Alabama	Perry	rural	100
+1107	Alabama	Pickens	rural	100
+1109	Alabama	Pike	rural	51.7
+1111	Alabama	Randolph	rural	81.3
+1113	Alabama	Russell	rural	35.4
+1115	Alabama	St. Clair	rural	72.8
+1117	Alabama	Shelby	rural	22.9
+1119	Alabama	Sumter	rural	100
+1121	Alabama	Talladega	rural	55.8
+1123	Alabama	Tallapoosa	rural	74.2
+1125	Alabama	Tuscaloosa	rural	25.5
+1127	Alabama	Walker	rural	74.1
+1129	Alabama	Washington	rural	100
+1131	Alabama	Wilcox	rural	100
+1133	Alabama	Winston	rural	84.9
+2013	Alaska	Aleutians East	rural	100
+2016	Alaska	Aleutians West	rural	100
+2020	Alaska	Anchorage	rural	4.1
+2050	Alaska	Bethel	rural	73.9
+2060	Alaska	Bristol Bay	rural	100
+2068	Alaska	Denali	rural	100
+2070	Alaska	Dillingham	rural	100
+2090	Alaska	Fairbanks North Star	rural	30.9
+2100	Alaska	Haines	rural	100
+2110	Alaska	Juneau	rural	21.5
+2122	Alaska	Kenai Peninsula	rural	79.3
+2130	Alaska	Ketchikan Gateway	rural	23.2
+2150	Alaska	Kodiak Island	rural	31.3
+2164	Alaska	Lake and Peninsula	rural	100
+2170	Alaska	Matanuska-Susitna	rural	50.3
+2180	Alaska	Nome	rural	66.1
+2185	Alaska	North Slope	rural	59.3
+2188	Alaska	Northwest Arctic	rural	57.5
+2201	Alaska	Prince of Wales-Outer Ketchikan	rural	100
+2220	Alaska	Sitka	rural	20.9
+2232	Alaska	Skagway-Hoonah-Angoon	rural	100
+2240	Alaska	Southeast Fairbanks	rural	100
+2261	Alaska	Valdez-Cordova	rural	100
+2270	Alaska	Wade Hampton	rural	100
+2280	Alaska	Wrangell-Petersburg	rural	100
+2282	Alaska	Yakutat	rural	100
+2290	Alaska	Yukon-Koyukuk	rural	100
+4001	Arizona	Apache	rural	74.1
+4003	Arizona	Cochise	rural	36.3
+4005	Arizona	Coconino	rural	31.5
+4007	Arizona	Gila	rural	41.1
+4009	Arizona	Graham	rural	46.4
+4011	Arizona	Greenlee	rural	46.6
+4012	Arizona	La Paz	rural	56.3
+4013	Arizona	Maricopa	rural	2.4
+4015	Arizona	Mohave	rural	23
+4017	Arizona	Navajo	rural	54.1
+4019	Arizona	Pima	rural	7.5
+4021	Arizona	Pinal	rural	21.9
+4023	Arizona	Santa Cruz	rural	26.9
+4025	Arizona	Yavapai	rural	33.2
+4027	Arizona	Yuma	rural	10.4
+5001	Arkansas	Arkansas	rural	34.7
+5003	Arkansas	Ashley	rural	51.7
+5005	Arkansas	Baxter	rural	65.8
+5007	Arkansas	Benton	rural	25.2
+5009	Arkansas	Boone	rural	62.2
+5011	Arkansas	Bradley	rural	49.6
+5013	Arkansas	Calhoun	rural	100
+5015	Arkansas	Carroll	rural	72.8
+5017	Arkansas	Chicot	rural	54.3
+5019	Arkansas	Clark	rural	54.4
+5021	Arkansas	Clay	rural	58.9
+5023	Arkansas	Cleburne	rural	75.5
+5025	Arkansas	Cleveland	rural	100
+5027	Arkansas	Columbia	rural	57.5
+5029	Arkansas	Conway	rural	70.5
+5031	Arkansas	Craighead	rural	32.2
+5033	Arkansas	Crawford	rural	52
+5035	Arkansas	Crittenden	rural	20.9
+5037	Arkansas	Cross	rural	56.8
+5039	Arkansas	Dallas	rural	52.6
+5041	Arkansas	Desha	rural	31.4
+5043	Arkansas	Drew	rural	48.6
+5045	Arkansas	Faulkner	rural	38.8
+5047	Arkansas	Franklin	rural	82.6
+5049	Arkansas	Fulton	rural	92.9
+5051	Arkansas	Garland	rural	36.9
+5053	Arkansas	Grant	rural	75
+5055	Arkansas	Greene	rural	41.5
+5057	Arkansas	Hempstead	rural	55.8
+5059	Arkansas	Hot Spring	rural	66
+5061	Arkansas	Howard	rural	67.5
+5063	Arkansas	Independence	rural	68.6
+5065	Arkansas	Izard	rural	100
+5067	Arkansas	Jackson	rural	65.1
+5069	Arkansas	Jefferson	rural	30.9
+5071	Arkansas	Johnson	rural	71.4
+5073	Arkansas	Lafayette	rural	100
+5075	Arkansas	Lawrence	rural	63.6
+5077	Arkansas	Lee	rural	63.5
+5079	Arkansas	Lincoln	rural	100
+5081	Arkansas	Little River	rural	68.5
+5083	Arkansas	Logan	rural	71
+5085	Arkansas	Lonoke	rural	44.8
+5087	Arkansas	Madison	rural	100
+5089	Arkansas	Marion	rural	100
+5091	Arkansas	Miller	rural	40
+5093	Arkansas	Mississippi	rural	36.3
+5095	Arkansas	Monroe	rural	69
+5097	Arkansas	Montgomery	rural	100
+5099	Arkansas	Nevada	rural	69.2
+5101	Arkansas	Newton	rural	100
+5103	Arkansas	Ouachita	rural	56.4
+5105	Arkansas	Perry	rural	100
+5107	Arkansas	Phillips	rural	48
+5109	Arkansas	Pike	rural	100
+5111	Arkansas	Poinsett	rural	71.1
+5113	Arkansas	Polk	rural	73.4
+5115	Arkansas	Pope	rural	54.5
+5117	Arkansas	Prairie	rural	100
+5119	Arkansas	Pulaski	rural	12.3
+5121	Arkansas	Randolph	rural	67.4
+5123	Arkansas	St. Francis	rural	51.6
+5125	Arkansas	Saline	rural	36.2
+5127	Arkansas	Scott	rural	70.4
+5129	Arkansas	Searcy	rural	100
+5131	Arkansas	Sebastian	rural	20.8
+5133	Arkansas	Sevier	rural	63.6
+5135	Arkansas	Sharp	rural	80.1
+5137	Arkansas	Stone	rural	100
+5139	Arkansas	Union	rural	54.5
+5141	Arkansas	Van Buren	rural	100
+5143	Arkansas	Washington	rural	25.5
+5145	Arkansas	White	rural	54.3
+5147	Arkansas	Woodruff	rural	100
+5149	Arkansas	Yell	rural	79.1
+6001	California	Alameda	rural	0.4
+6003	California	Alpine	rural	100
+6005	California	Amador	rural	60.4
+6007	California	Butte	rural	18.9
+6009	California	Calaveras	rural	75.4
+6011	California	Colusa	rural	31.7
+6013	California	Contra Costa	rural	0.8
+6015	California	Del Norte	rural	33.7
+6017	California	El Dorado	rural	34.7
+6019	California	Fresno	rural	10.8
+6021	California	Glenn	rural	40.9
+6023	California	Humboldt	rural	29.8
+6025	California	Imperial	rural	17.4
+6027	California	Inyo	rural	46.4
+6029	California	Kern	rural	10.2
+6031	California	Kings	rural	10.9
+6033	California	Lake	rural	33.1
+6035	California	Lassen	rural	70.5
+6037	California	Los Angeles	rural	0.6
+6039	California	Madera	rural	32.9
+6041	California	Marin	rural	6.5
+6043	California	Mariposa	rural	100
+6045	California	Mendocino	rural	45.2
+6047	California	Merced	rural	14.3
+6049	California	Modoc	rural	70
+6051	California	Mono	rural	45.8
+6053	California	Monterey	rural	9.8
+6055	California	Napa	rural	13.4
+6057	California	Nevada	rural	42.1
+6059	California	Orange	rural	0.1
+6061	California	Placer	rural	13.8
+6063	California	Plumas	rural	74
+6065	California	Riverside	rural	4.6
+6067	California	Sacramento	rural	2.1
+6069	California	San Benito	rural	24
+6071	California	San Bernardino	rural	4.7
+6073	California	San Diego	rural	3.3
+6075	California	San Francisco	rural	0
+6077	California	San Joaquin	rural	8.5
+6079	California	San Luis Obispo	rural	16.6
+6081	California	San Mateo	rural	1.9
+6083	California	Santa Barbara	rural	5
+6085	California	Santa Clara	rural	1.1
+6087	California	Santa Cruz	rural	12
+6089	California	Shasta	rural	29.3
+6091	California	Sierra	rural	99.7
+6093	California	Siskiyou	rural	65.8
+6095	California	Solano	rural	3.7
+6097	California	Sonoma	rural	12.4
+6099	California	Stanislaus	rural	8
+6101	California	Sutter	rural	14.8
+6103	California	Tehama	rural	51.5
+6105	California	Trinity	rural	100
+6107	California	Tulare	rural	15.5
+6109	California	Tuolumne	rural	49
+6111	California	Ventura	rural	3.1
+6113	California	Yolo	rural	6.9
+6115	California	Yuba	rural	26.2
+8001	Colorado	Adams	rural	3.6
+8003	Colorado	Alamosa	rural	36.9
+8005	Colorado	Arapahoe	rural	1.6
+8007	Colorado	Archuleta	rural	59.4
+8009	Colorado	Baca	rural	100
+8011	Colorado	Bent	rural	38
+8013	Colorado	Boulder	rural	8.9
+8014	Colorado	Broomfield	rural	0.6
+8015	Colorado	Chaffee	rural	37.4
+8017	Colorado	Cheyenne	rural	100
+8019	Colorado	Clear Creek	rural	100
+8021	Colorado	Conejos	rural	100
+8023	Colorado	Costilla	rural	100
+8025	Colorado	Crowley	rural	100
+8027	Colorado	Custer	rural	100
+8029	Colorado	Delta	rural	63.2
+8031	Colorado	Denver	rural	0
+8033	Colorado	Dolores	rural	100
+8035	Colorado	Douglas	rural	10.3
+8037	Colorado	Eagle	rural	20
+8039	Colorado	Elbert	rural	100
+8041	Colorado	El Paso	rural	8.9
+8043	Colorado	Fremont	rural	26.4
+8045	Colorado	Garfield	rural	24.1
+8047	Colorado	Gilpin	rural	100
+8049	Colorado	Grand	rural	82.6
+8051	Colorado	Gunnison	rural	58.6
+8053	Colorado	Hinsdale	rural	100
+8055	Colorado	Huerfano	rural	56.1
+8057	Colorado	Jackson	rural	100
+8059	Colorado	Jefferson	rural	6.9
+8061	Colorado	Kiowa	rural	100
+8063	Colorado	Kit Carson	rural	48.7
+8065	Colorado	Lake	rural	31.1
+8067	Colorado	La Plata	rural	59.9
+8069	Colorado	Larimer	rural	11.7
+8071	Colorado	Las Animas	rural	40.8
+8073	Colorado	Lincoln	rural	100
+8075	Colorado	Logan	rural	29.2
+8077	Colorado	Mesa	rural	12.7
+8079	Colorado	Mineral	rural	100
+8081	Colorado	Moffat	rural	27.4
+8083	Colorado	Montezuma	rural	67.2
+8085	Colorado	Montrose	rural	45
+8087	Colorado	Morgan	rural	32.5
+8089	Colorado	Otero	rural	34.4
+8091	Colorado	Ouray	rural	100
+8093	Colorado	Park	rural	100
+8095	Colorado	Phillips	rural	100
+8097	Colorado	Pitkin	rural	44.2
+8099	Colorado	Prowers	rural	37.9
+8101	Colorado	Pueblo	rural	14.2
+8103	Colorado	Rio Blanco	rural	100
+8105	Colorado	Rio Grande	rural	62.5
+8107	Colorado	Routt	rural	45.2
+8109	Colorado	Saguache	rural	100
+8111	Colorado	San Juan	rural	100
+8113	Colorado	San Miguel	rural	100
+8115	Colorado	Sedgwick	rural	100
+8117	Colorado	Summit	rural	19.5
+8119	Colorado	Teller	rural	62.6
+8121	Colorado	Washington	rural	100
+8123	Colorado	Weld	rural	20.5
+8125	Colorado	Yuma	rural	64.9
+9001	Connecticut	Fairfield	rural	4.6
+9003	Connecticut	Hartford	rural	5.4
+9005	Connecticut	Litchfield	rural	41.4
+9007	Connecticut	Middlesex	rural	24.5
+9009	Connecticut	New Haven	rural	3.6
+9011	Connecticut	New London	rural	25.8
+9013	Connecticut	Tolland	rural	38.2
+9015	Connecticut	Windham	rural	49.8
+10001	Delaware	Kent	rural	27
+10003	Delaware	New Castle	rural	4.6
+10005	Delaware	Sussex	rural	41.3
+11001	District of Columbia	District of Columbia	rural	0
+12001	Florida	Alachua	rural	21.2
+12003	Florida	Baker	rural	59.5
+12005	Florida	Bay	rural	12
+12007	Florida	Bradford	rural	75.5
+12009	Florida	Brevard	rural	5.1
+12011	Florida	Broward	rural	0
+12013	Florida	Calhoun	rural	67.5
+12015	Florida	Charlotte	rural	8.9
+12017	Florida	Citrus	rural	34.5
+12019	Florida	Clay	rural	15
+12021	Florida	Collier	rural	8.5
+12023	Florida	Columbia	rural	62.1
+12027	Florida	DeSoto	rural	46.2
+12029	Florida	Dixie	rural	77
+12031	Florida	Duval	rural	2.9
+12033	Florida	Escambia	rural	8.3
+12035	Florida	Flagler	rural	10.3
+12037	Florida	Franklin	rural	68
+12039	Florida	Gadsden	rural	65.4
+12041	Florida	Gilchrist	rural	83.9
+12043	Florida	Glades	rural	70.6
+12045	Florida	Gulf	rural	77.1
+12047	Florida	Hamilton	rural	63.5
+12049	Florida	Hardee	rural	47.8
+12051	Florida	Hendry	rural	37.9
+12053	Florida	Hernando	rural	19.4
+12055	Florida	Highlands	rural	21.1
+12057	Florida	Hillsborough	rural	3.5
+12059	Florida	Holmes	rural	78.8
+12061	Florida	Indian River	rural	5
+12063	Florida	Jackson	rural	75.4
+12065	Florida	Jefferson	rural	100
+12067	Florida	Lafayette	rural	100
+12069	Florida	Lake	rural	19.3
+12071	Florida	Lee	rural	5.8
+12073	Florida	Leon	rural	12.3
+12075	Florida	Levy	rural	92
+12077	Florida	Liberty	rural	100
+12079	Florida	Madison	rural	80
+12081	Florida	Manatee	rural	5.8
+12083	Florida	Marion	rural	31
+12085	Florida	Martin	rural	8.5
+12086	Florida	Miami-Dade	rural	0.4
+12087	Florida	Monroe	rural	8.7
+12089	Florida	Nassau	rural	48.1
+12091	Florida	Okaloosa	rural	12.1
+12093	Florida	Okeechobee	rural	36.5
+12095	Florida	Orange	rural	2
+12097	Florida	Osceola	rural	7.8
+12099	Florida	Palm Beach	rural	1
+12101	Florida	Pasco	rural	9.5
+12103	Florida	Pinellas	rural	0.3
+12105	Florida	Polk	rural	13.5
+12107	Florida	Putnam	rural	56.2
+12109	Florida	St. Johns	rural	23.8
+12111	Florida	St. Lucie	rural	3.4
+12113	Florida	Santa Rosa	rural	21
+12115	Florida	Sarasota	rural	4.3
+12117	Florida	Seminole	rural	3.2
+12119	Florida	Sumter	rural	35
+12121	Florida	Suwannee	rural	83.2
+12123	Florida	Taylor	rural	69.3
+12125	Florida	Union	rural	67.4
+12127	Florida	Volusia	rural	9.9
+12129	Florida	Wakulla	rural	61.7
+12131	Florida	Walton	rural	63.1
+12133	Florida	Washington	rural	84.6
+13001	Georgia	Appling	rural	71.4
+13003	Georgia	Atkinson	rural	100
+13005	Georgia	Bacon	rural	69.3
+13007	Georgia	Baker	rural	100
+13009	Georgia	Baldwin	rural	35.1
+13011	Georgia	Banks	rural	93.8
+13013	Georgia	Barrow	rural	30.1
+13015	Georgia	Bartow	rural	35.2
+13017	Georgia	Ben Hill	rural	34
+13019	Georgia	Berrien	rural	76.1
+13021	Georgia	Bibb	rural	14.4
+13023	Georgia	Bleckley	rural	51.6
+13025	Georgia	Brantley	rural	99.4
+13027	Georgia	Brooks	rural	71
+13029	Georgia	Bryan	rural	52.3
+13031	Georgia	Bulloch	rural	48.3
+13033	Georgia	Burke	rural	75
+13035	Georgia	Butts	rural	77.9
+13037	Georgia	Calhoun	rural	100
+13039	Georgia	Camden	rural	31.4
+13043	Georgia	Candler	rural	67
+13045	Georgia	Carroll	rural	41.8
+13047	Georgia	Catoosa	rural	28.1
+13049	Georgia	Charlton	rural	51
+13051	Georgia	Chatham	rural	4.5
+13053	Georgia	Chattahoochee	rural	29.5
+13055	Georgia	Chattooga	rural	57.6
+13057	Georgia	Cherokee	rural	17.1
+13059	Georgia	Clarke	rural	5.9
+13061	Georgia	Clay	rural	100
+13063	Georgia	Clayton	rural	0.9
+13065	Georgia	Clinch	rural	60.4
+13067	Georgia	Cobb	rural	0.2
+13069	Georgia	Coffee	rural	66.6
+13071	Georgia	Colquitt	rural	58.9
+13073	Georgia	Columbia	rural	16.2
+13075	Georgia	Cook	rural	59.4
+13077	Georgia	Coweta	rural	32.9
+13079	Georgia	Crawford	rural	100
+13081	Georgia	Crisp	rural	47
+13083	Georgia	Dade	rural	72.1
+13085	Georgia	Dawson	rural	80.3
+13087	Georgia	Decatur	rural	56.5
+13089	Georgia	DeKalb	rural	0.3
+13091	Georgia	Dodge	rural	72.2
+13093	Georgia	Dooly	rural	53.7
+13095	Georgia	Dougherty	rural	14
+13097	Georgia	Douglas	rural	15.8
+13099	Georgia	Early	rural	66
+13101	Georgia	Echols	rural	100
+13103	Georgia	Effingham	rural	67.1
+13105	Georgia	Elbert	rural	70.6
+13107	Georgia	Emanuel	rural	66.9
+13109	Georgia	Evans	rural	61.3
+13111	Georgia	Fannin	rural	100
+13113	Georgia	Fayette	rural	18.2
+13115	Georgia	Floyd	rural	36.8
+13117	Georgia	Forsyth	rural	9.9
+13119	Georgia	Franklin	rural	88.9
+13121	Georgia	Fulton	rural	1.1
+13123	Georgia	Gilmer	rural	87.6
+13125	Georgia	Glascock	rural	100
+13127	Georgia	Glynn	rural	20.6
+13129	Georgia	Gordon	rural	51.6
+13131	Georgia	Grady	rural	62.4
+13133	Georgia	Greene	rural	82.7
+13135	Georgia	Gwinnett	rural	0.5
+13137	Georgia	Habersham	rural	58.8
+13139	Georgia	Hall	rural	20.6
+13141	Georgia	Hancock	rural	61.6
+13143	Georgia	Haralson	rural	77.4
+13145	Georgia	Harris	rural	96.7
+13147	Georgia	Hart	rural	74.5
+13149	Georgia	Heard	rural	100
+13151	Georgia	Henry	rural	13.9
+13153	Georgia	Houston	rural	10
+13155	Georgia	Irwin	rural	64.7
+13157	Georgia	Jackson	rural	60
+13159	Georgia	Jasper	rural	81.8
+13161	Georgia	Jeff Davis	rural	69.5
+13163	Georgia	Jefferson	rural	80.7
+13165	Georgia	Jenkins	rural	66.1
+13167	Georgia	Johnson	rural	65.4
+13169	Georgia	Jones	rural	67.7
+13171	Georgia	Lamar	rural	60.9
+13173	Georgia	Lanier	rural	71.1
+13175	Georgia	Laurens	rural	56.6
+13177	Georgia	Lee	rural	36.2
+13179	Georgia	Liberty	rural	23.2
+13181	Georgia	Lincoln	rural	100
+13183	Georgia	Long	rural	81.3
+13185	Georgia	Lowndes	rural	27.2
+13187	Georgia	Lumpkin	rural	83.9
+13189	Georgia	McDuffie	rural	61
+13191	Georgia	McIntosh	rural	74.3
+13193	Georgia	Macon	rural	53.2
+13195	Georgia	Madison	rural	91.9
+13197	Georgia	Marion	rural	100
+13199	Georgia	Meriwether	rural	83.3
+13201	Georgia	Miller	rural	100
+13205	Georgia	Mitchell	rural	54.5
+13207	Georgia	Monroe	rural	80.2
+13209	Georgia	Montgomery	rural	98.7
+13211	Georgia	Morgan	rural	75.4
+13213	Georgia	Murray	rural	70.1
+13215	Georgia	Muscogee	rural	3
+13217	Georgia	Newton	rural	31.2
+13219	Georgia	Oconee	rural	50.3
+13221	Georgia	Oglethorpe	rural	99.3
+13223	Georgia	Paulding	rural	20.1
+13225	Georgia	Peach	rural	38.2
+13227	Georgia	Pickens	rural	73.1
+13229	Georgia	Pierce	rural	79.4
+13231	Georgia	Pike	rural	99
+13233	Georgia	Polk	rural	51.4
+13235	Georgia	Pulaski	rural	66.7
+13237	Georgia	Putnam	rural	80.9
+13239	Georgia	Quitman	rural	73.1
+13241	Georgia	Rabun	rural	79.3
+13243	Georgia	Randolph	rural	50.6
+13245	Georgia	Richmond	rural	9.2
+13247	Georgia	Rockdale	rural	14.9
+13249	Georgia	Schley	rural	100
+13251	Georgia	Screven	rural	78.9
+13253	Georgia	Seminole	rural	68.6
+13255	Georgia	Spalding	rural	41.6
+13257	Georgia	Stephens	rural	58.6
+13259	Georgia	Stewart	rural	100
+13261	Georgia	Sumter	rural	41.8
+13263	Georgia	Talbot	rural	93.9
+13265	Georgia	Taliaferro	rural	100
+13267	Georgia	Tattnall	rural	68.2
+13269	Georgia	Taylor	rural	100
+13271	Georgia	Telfair	rural	47
+13273	Georgia	Terrell	rural	52.1
+13275	Georgia	Thomas	rural	46
+13277	Georgia	Tift	rural	40.8
+13279	Georgia	Toombs	rural	51.1
+13281	Georgia	Towns	rural	100
+13283	Georgia	Treutlen	rural	58.9
+13285	Georgia	Troup	rural	44.3
+13287	Georgia	Turner	rural	49.7
+13289	Georgia	Twiggs	rural	100
+13291	Georgia	Union	rural	100
+13293	Georgia	Upson	rural	46.9
+13295	Georgia	Walker	rural	43.9
+13297	Georgia	Walton	rural	42.7
+13299	Georgia	Ware	rural	29.4
+13301	Georgia	Warren	rural	100
+13303	Georgia	Washington	rural	65.6
+13305	Georgia	Wayne	rural	57.9
+13307	Georgia	Webster	rural	100
+13309	Georgia	Wheeler	rural	100
+13311	Georgia	White	rural	83.8
+13313	Georgia	Whitfield	rural	29.1
+13315	Georgia	Wilcox	rural	100
+13317	Georgia	Wilkes	rural	67.4
+13319	Georgia	Wilkinson	rural	100
+13321	Georgia	Worth	rural	69.2
+15001	Hawaii	Hawaii	rural	38
+15003	Hawaii	Honolulu	rural	0.9
+15005	Hawaii	Kalawao	rural	100
+15007	Hawaii	Kauai	rural	12.9
+15009	Hawaii	Maui	rural	14.6
+16001	Idaho	Ada	rural	5.5
+16003	Idaho	Adams	rural	100
+16005	Idaho	Bannock	rural	15.7
+16007	Idaho	Bear Lake	rural	100
+16009	Idaho	Benewah	rural	71.9
+16011	Idaho	Bingham	rural	56
+16013	Idaho	Blaine	rural	32.8
+16015	Idaho	Boise	rural	100
+16017	Idaho	Bonner	rural	72.4
+16019	Idaho	Bonneville	rural	13
+16021	Idaho	Boundary	rural	76.2
+16023	Idaho	Butte	rural	100
+16025	Idaho	Camas	rural	100
+16027	Idaho	Canyon	rural	19.9
+16029	Idaho	Caribou	rural	59.9
+16031	Idaho	Cassia	rural	51.5
+16033	Idaho	Clark	rural	100
+16035	Idaho	Clearwater	rural	58.6
+16037	Idaho	Custer	rural	100
+16039	Idaho	Elmore	rural	26.9
+16041	Idaho	Franklin	rural	66.2
+16043	Idaho	Fremont	rural	72
+16045	Idaho	Gem	rural	45
+16047	Idaho	Gooding	rural	58.1
+16049	Idaho	Idaho	rural	80.6
+16051	Idaho	Jefferson	rural	66.6
+16053	Idaho	Jerome	rural	51.3
+16055	Idaho	Kootenai	rural	24.2
+16057	Idaho	Latah	rural	35
+16059	Idaho	Lemhi	rural	61.1
+16061	Idaho	Lewis	rural	100
+16063	Idaho	Lincoln	rural	100
+16065	Idaho	Madison	rural	28.5
+16067	Idaho	Minidoka	rural	44.2
+16069	Idaho	Nez Perce	rural	19.2
+16071	Idaho	Oneida	rural	100
+16073	Idaho	Owyhee	rural	77.3
+16075	Idaho	Payette	rural	42.7
+16077	Idaho	Power	rural	42.6
+16079	Idaho	Shoshone	rural	56
+16081	Idaho	Teton	rural	100
+16083	Idaho	Twin Falls	rural	28
+16085	Idaho	Valley	rural	100
+16087	Idaho	Washington	rural	45.6
+17001	Illinois	Adams	rural	32.6
+17003	Illinois	Alexander	rural	61.9
+17005	Illinois	Bond	rural	60.7
+17007	Illinois	Boone	rural	19.4
+17009	Illinois	Brown	rural	41.1
+17011	Illinois	Bureau	rural	57.4
+17013	Illinois	Calhoun	rural	100
+17015	Illinois	Carroll	rural	81.9
+17017	Illinois	Cass	rural	52.1
+17019	Illinois	Champaign	rural	12.7
+17021	Illinois	Christian	rural	43.5
+17023	Illinois	Clark	rural	59.5
+17025	Illinois	Clay	rural	64.7
+17027	Illinois	Clinton	rural	48.8
+17029	Illinois	Coles	rural	24.3
+17031	Illinois	Cook	rural	0
+17033	Illinois	Crawford	rural	60.2
+17035	Illinois	Cumberland	rural	100
+17037	Illinois	DeKalb	rural	20.3
+17039	Illinois	De Witt	rural	48.8
+17041	Illinois	Douglas	rural	61.6
+17043	Illinois	DuPage	rural	0
+17045	Illinois	Edgar	rural	51.8
+17047	Illinois	Edwards	rural	100
+17049	Illinois	Effingham	rural	59.7
+17051	Illinois	Fayette	rural	67
+17053	Illinois	Ford	rural	41.8
+17055	Illinois	Franklin	rural	48.6
+17057	Illinois	Fulton	rural	60
+17059	Illinois	Gallatin	rural	100
+17061	Illinois	Greene	rural	70.8
+17063	Illinois	Grundy	rural	24.4
+17065	Illinois	Hamilton	rural	68.1
+17067	Illinois	Hancock	rural	71
+17069	Illinois	Hardin	rural	100
+17071	Illinois	Henderson	rural	99.7
+17073	Illinois	Henry	rural	50.3
+17075	Illinois	Iroquois	rural	71.7
+17077	Illinois	Jackson	rural	37.2
+17079	Illinois	Jasper	rural	69.9
+17081	Illinois	Jefferson	rural	58.8
+17083	Illinois	Jersey	rural	60.6
+17085	Illinois	Jo Daviess	rural	72.6
+17087	Illinois	Johnson	rural	100
+17089	Illinois	Kane	rural	3.6
+17091	Illinois	Kankakee	rural	24.5
+17093	Illinois	Kendall	rural	10.4
+17095	Illinois	Knox	rural	24.3
+17097	Illinois	Lake	rural	1.3
+17099	Illinois	LaSalle	rural	30.2
+17101	Illinois	Lawrence	rural	58
+17103	Illinois	Lee	rural	53.2
+17105	Illinois	Livingston	rural	40.8
+17107	Illinois	Logan	rural	39.9
+17109	Illinois	McDonough	rural	29.5
+17111	Illinois	McHenry	rural	9.9
+17113	Illinois	McLean	rural	16.5
+17115	Illinois	Macon	rural	15.3
+17117	Illinois	Macoupin	rural	58.5
+17119	Illinois	Madison	rural	13.3
+17121	Illinois	Marion	rural	45.1
+17123	Illinois	Marshall	rural	100
+17125	Illinois	Mason	rural	77.5
+17127	Illinois	Massac	rural	50.5
+17129	Illinois	Menard	rural	75.7
+17131	Illinois	Mercer	rural	77.8
+17133	Illinois	Monroe	rural	41.4
+17135	Illinois	Montgomery	rural	41.6
+17137	Illinois	Morgan	rural	36.2
+17139	Illinois	Moultrie	rural	69.2
+17141	Illinois	Ogle	rural	47.1
+17143	Illinois	Peoria	rural	14.6
+17145	Illinois	Perry	rural	43.6
+17147	Illinois	Piatt	rural	67.7
+17149	Illinois	Pike	rural	72.3
+17151	Illinois	Pope	rural	100
+17153	Illinois	Pulaski	rural	100
+17155	Illinois	Putnam	rural	100
+17157	Illinois	Randolph	rural	42.6
+17159	Illinois	Richland	rural	43.5
+17161	Illinois	Rock Island	rural	10.9
+17163	Illinois	St. Clair	rural	9.8
+17165	Illinois	Saline	rural	43.7
+17167	Illinois	Sangamon	rural	14.1
+17169	Illinois	Schuyler	rural	57.6
+17171	Illinois	Scott	rural	100
+17173	Illinois	Shelby	rural	77.7
+17175	Illinois	Stark	rural	100
+17177	Illinois	Stephenson	rural	40.1
+17179	Illinois	Tazewell	rural	20.4
+17181	Illinois	Union	rural	65.9
+17183	Illinois	Vermilion	rural	31.3
+17185	Illinois	Wabash	rural	38.9
+17187	Illinois	Warren	rural	45.5
+17189	Illinois	Washington	rural	73.6
+17191	Illinois	Wayne	rural	69.9
+17193	Illinois	White	rural	62
+17195	Illinois	Whiteside	rural	37.3
+17197	Illinois	Will	rural	3.9
+17199	Illinois	Williamson	rural	34.8
+17201	Illinois	Winnebago	rural	7.9
+17203	Illinois	Woodford	rural	54.9
+18001	Indiana	Adams	rural	53.7
+18003	Indiana	Allen	rural	11.9
+18005	Indiana	Bartholomew	rural	33.7
+18007	Indiana	Benton	rural	100
+18009	Indiana	Blackford	rural	50.6
+18011	Indiana	Boone	rural	34.4
+18013	Indiana	Brown	rural	100
+18015	Indiana	Carroll	rural	81.4
+18017	Indiana	Cass	rural	44.7
+18019	Indiana	Clark	rural	20.5
+18021	Indiana	Clay	rural	60.9
+18023	Indiana	Clinton	rural	49.8
+18025	Indiana	Crawford	rural	100
+18027	Indiana	Daviess	rural	60.3
+18029	Indiana	Dearborn	rural	53.1
+18031	Indiana	Decatur	rural	53.8
+18033	Indiana	DeKalb	rural	42.3
+18035	Indiana	Delaware	rural	22.8
+18037	Indiana	Dubois	rural	49.2
+18039	Indiana	Elkhart	rural	20.6
+18041	Indiana	Fayette	rural	36.8
+18043	Indiana	Floyd	rural	20.3
+18045	Indiana	Fountain	rural	66
+18047	Indiana	Franklin	rural	88.9
+18049	Indiana	Fulton	rural	64.9
+18051	Indiana	Gibson	rural	53.6
+18053	Indiana	Grant	rural	28.9
+18055	Indiana	Greene	rural	74.8
+18057	Indiana	Hamilton	rural	5.6
+18059	Indiana	Hancock	rural	30.4
+18061	Indiana	Harrison	rural	85.8
+18063	Indiana	Hendricks	rural	17.8
+18065	Indiana	Henry	rural	42.9
+18067	Indiana	Howard	rural	21.5
+18069	Indiana	Huntington	rural	51
+18071	Indiana	Jackson	rural	43.7
+18073	Indiana	Jasper	rural	68
+18075	Indiana	Jay	rural	55.7
+18077	Indiana	Jefferson	rural	45.1
+18079	Indiana	Jennings	rural	60.2
+18081	Indiana	Johnson	rural	13.9
+18083	Indiana	Knox	rural	36.2
+18085	Indiana	Kosciusko	rural	46.6
+18087	Indiana	LaGrange	rural	91.6
+18089	Indiana	Lake	rural	4
+18091	Indiana	LaPorte	rural	35.6
+18093	Indiana	Lawrence	rural	58.4
+18095	Indiana	Madison	rural	23.1
+18097	Indiana	Marion	rural	0.6
+18099	Indiana	Marshall	rural	63.3
+18101	Indiana	Martin	rural	72.3
+18103	Indiana	Miami	rural	46.5
+18105	Indiana	Monroe	rural	21.2
+18107	Indiana	Montgomery	rural	52.8
+18109	Indiana	Morgan	rural	49.1
+18111	Indiana	Newton	rural	100
+18113	Indiana	Noble	rural	68
+18115	Indiana	Ohio	rural	100
+18117	Indiana	Orange	rural	83.5
+18119	Indiana	Owen	rural	100
+18121	Indiana	Parke	rural	75
+18123	Indiana	Perry	rural	55
+18125	Indiana	Pike	rural	100
+18127	Indiana	Porter	rural	20.8
+18129	Indiana	Posey	rural	66.8
+18131	Indiana	Pulaski	rural	80.9
+18133	Indiana	Putnam	rural	64.8
+18135	Indiana	Randolph	rural	61.9
+18137	Indiana	Ripley	rural	83.2
+18139	Indiana	Rush	rural	61.2
+18141	Indiana	St. Joseph	rural	9
+18143	Indiana	Scott	rural	52.7
+18145	Indiana	Shelby	rural	52
+18147	Indiana	Spencer	rural	100
+18149	Indiana	Starke	rural	82.4
+18151	Indiana	Steuben	rural	67.2
+18153	Indiana	Sullivan	rural	79
+18155	Indiana	Switzerland	rural	100
+18157	Indiana	Tippecanoe	rural	14.5
+18159	Indiana	Tipton	rural	61.6
+18161	Indiana	Union	rural	100
+18163	Indiana	Vanderburgh	rural	9.2
+18165	Indiana	Vermillion	rural	60.4
+18167	Indiana	Vigo	rural	23.8
+18169	Indiana	Wabash	rural	50
+18171	Indiana	Warren	rural	77.1
+18173	Indiana	Warrick	rural	29.3
+18175	Indiana	Washington	rural	76.8
+18177	Indiana	Wayne	rural	33
+18179	Indiana	Wells	rural	50.6
+18181	Indiana	White	rural	68
+18183	Indiana	Whitley	rural	71.2
+19001	Iowa	Adair	rural	100
+19003	Iowa	Adams	rural	100
+19005	Iowa	Allamakee	rural	74
+19007	Iowa	Appanoose	rural	58.3
+19009	Iowa	Audubon	rural	100
+19011	Iowa	Benton	rural	80.7
+19013	Iowa	Black Hawk	rural	13.5
+19015	Iowa	Boone	rural	50.6
+19017	Iowa	Bremer	rural	64.5
+19019	Iowa	Buchanan	rural	68.5
+19021	Iowa	Buena Vista	rural	43.9
+19023	Iowa	Butler	rural	100
+19025	Iowa	Calhoun	rural	100
+19027	Iowa	Carroll	rural	52
+19029	Iowa	Cass	rural	53.6
+19031	Iowa	Cedar	rural	83.4
+19033	Iowa	Cerro Gordo	rural	20.6
+19035	Iowa	Cherokee	rural	61.4
+19037	Iowa	Chickasaw	rural	73.5
+19039	Iowa	Clarke	rural	48.1
+19041	Iowa	Clay	rural	34.3
+19043	Iowa	Clayton	rural	96.6
+19045	Iowa	Clinton	rural	32.2
+19047	Iowa	Crawford	rural	51.8
+19049	Iowa	Dallas	rural	30.6
+19051	Iowa	Davis	rural	100
+19053	Iowa	Decatur	rural	100
+19055	Iowa	Delaware	rural	71.5
+19057	Iowa	Des Moines	rural	26.7
+19059	Iowa	Dickinson	rural	35
+19061	Iowa	Dubuque	rural	27
+19063	Iowa	Emmet	rural	39.9
+19065	Iowa	Fayette	rural	70.6
+19067	Iowa	Floyd	rural	52.7
+19069	Iowa	Franklin	rural	60.2
+19071	Iowa	Fremont	rural	100
+19073	Iowa	Greene	rural	58.2
+19075	Iowa	Grundy	rural	100
+19077	Iowa	Guthrie	rural	100
+19079	Iowa	Hamilton	rural	50.5
+19081	Iowa	Hancock	rural	70
+19083	Iowa	Hardin	rural	71.1
+19085	Iowa	Harrison	rural	81.1
+19087	Iowa	Henry	rural	57.1
+19089	Iowa	Howard	rural	63
+19091	Iowa	Humboldt	rural	46.6
+19093	Iowa	Ida	rural	100
+19095	Iowa	Iowa	rural	82.2
+19097	Iowa	Jackson	rural	53.3
+19099	Iowa	Jasper	rural	57.5
+19101	Iowa	Jefferson	rural	38.7
+19103	Iowa	Johnson	rural	18.5
+19105	Iowa	Jones	rural	58
+19107	Iowa	Keokuk	rural	100
+19109	Iowa	Kossuth	rural	65.6
+19111	Iowa	Lee	rural	40.6
+19113	Iowa	Linn	rural	12.7
+19115	Iowa	Louisa	rural	100
+19117	Iowa	Lucas	rural	56.2
+19119	Iowa	Lyon	rural	100
+19121	Iowa	Madison	rural	67.8
+19123	Iowa	Mahaska	rural	43.9
+19125	Iowa	Marion	rural	48.7
+19127	Iowa	Marshall	rural	33.9
+19129	Iowa	Mills	rural	59.6
+19131	Iowa	Mitchell	rural	67.2
+19133	Iowa	Monona	rural	71.2
+19135	Iowa	Monroe	rural	55.2
+19137	Iowa	Montgomery	rural	47.9
+19139	Iowa	Muscatine	rural	25.6
+19141	Iowa	O'Brien	rural	66.3
+19143	Iowa	Osceola	rural	58.4
+19145	Iowa	Page	rural	33.4
+19147	Iowa	Palo Alto	rural	61.5
+19149	Iowa	Plymouth	rural	62.9
+19151	Iowa	Pocahontas	rural	100
+19153	Iowa	Polk	rural	4.9
+19155	Iowa	Pottawattamie	rural	26.4
+19157	Iowa	Poweshiek	rural	52
+19159	Iowa	Ringgold	rural	100
+19161	Iowa	Sac	rural	100
+19163	Iowa	Scott	rural	13.5
+19165	Iowa	Shelby	rural	59.4
+19167	Iowa	Sioux	rural	50.8
+19169	Iowa	Story	rural	16.9
+19171	Iowa	Tama	rural	72.4
+19173	Iowa	Taylor	rural	100
+19175	Iowa	Union	rural	39.2
+19177	Iowa	Van Buren	rural	100
+19179	Iowa	Wapello	rural	30.5
+19181	Iowa	Warren	rural	42
+19183	Iowa	Washington	rural	69.5
+19185	Iowa	Wayne	rural	100
+19187	Iowa	Webster	rural	33.9
+19189	Iowa	Winnebago	rural	66.1
+19191	Iowa	Winneshiek	rural	59
+19193	Iowa	Woodbury	rural	17.5
+19195	Iowa	Worth	rural	100
+19197	Iowa	Wright	rural	56.8
+20001	Kansas	Allen	rural	57.2
+20003	Kansas	Anderson	rural	58.8
+20005	Kansas	Atchison	rural	34.2
+20007	Kansas	Barber	rural	100
+20009	Kansas	Barton	rural	31.8
+20011	Kansas	Bourbon	rural	48
+20013	Kansas	Brown	rural	68.4
+20015	Kansas	Butler	rural	40.5
+20017	Kansas	Chase	rural	100
+20019	Kansas	Chautauqua	rural	100
+20021	Kansas	Cherokee	rural	49.1
+20023	Kansas	Cheyenne	rural	100
+20025	Kansas	Clark	rural	100
+20027	Kansas	Clay	rural	49.5
+20029	Kansas	Cloud	rural	44
+20031	Kansas	Coffey	rural	70.9
+20033	Kansas	Comanche	rural	100
+20035	Kansas	Cowley	rural	31
+20037	Kansas	Crawford	rural	34.9
+20039	Kansas	Decatur	rural	100
+20041	Kansas	Dickinson	rural	64.3
+20043	Kansas	Doniphan	rural	70.2
+20045	Kansas	Douglas	rural	11
+20047	Kansas	Edwards	rural	100
+20049	Kansas	Elk	rural	100
+20051	Kansas	Ellis	rural	25.6
+20053	Kansas	Ellsworth	rural	54.1
+20055	Kansas	Finney	rural	18.6
+20057	Kansas	Ford	rural	19.3
+20059	Kansas	Franklin	rural	52.1
+20061	Kansas	Geary	rural	11.7
+20063	Kansas	Gove	rural	100
+20065	Kansas	Graham	rural	100
+20067	Kansas	Grant	rural	19.8
+20069	Kansas	Gray	rural	100
+20071	Kansas	Greeley	rural	100
+20073	Kansas	Greenwood	rural	61.3
+20075	Kansas	Hamilton	rural	100
+20077	Kansas	Harper	rural	100
+20079	Kansas	Harvey	rural	30.9
+20081	Kansas	Haskell	rural	100
+20083	Kansas	Hodgeman	rural	100
+20085	Kansas	Jackson	rural	75.9
+20087	Kansas	Jefferson	rural	98.8
+20089	Kansas	Jewell	rural	100
+20091	Kansas	Johnson	rural	3.8
+20093	Kansas	Kearny	rural	100
+20095	Kansas	Kingman	rural	62.1
+20097	Kansas	Kiowa	rural	100
+20099	Kansas	Labette	rural	52.3
+20101	Kansas	Lane	rural	100
+20103	Kansas	Leavenworth	rural	29.1
+20105	Kansas	Lincoln	rural	100
+20107	Kansas	Linn	rural	100
+20109	Kansas	Logan	rural	100
+20111	Kansas	Lyon	rural	26.3
+20113	Kansas	McPherson	rural	43.5
+20115	Kansas	Marion	rural	77.8
+20117	Kansas	Marshall	rural	71
+20119	Kansas	Meade	rural	100
+20121	Kansas	Miami	rural	51
+20123	Kansas	Mitchell	rural	48.3
+20125	Kansas	Montgomery	rural	43.4
+20127	Kansas	Morris	rural	100
+20129	Kansas	Morton	rural	100
+20131	Kansas	Nemaha	rural	75.2
+20133	Kansas	Neosho	rural	45.1
+20135	Kansas	Ness	rural	100
+20137	Kansas	Norton	rural	49
+20139	Kansas	Osage	rural	83.5
+20141	Kansas	Osborne	rural	100
+20143	Kansas	Ottawa	rural	100
+20145	Kansas	Pawnee	rural	31.7
+20147	Kansas	Phillips	rural	53.8
+20149	Kansas	Pottawatomie	rural	58.9
+20151	Kansas	Pratt	rural	32.2
+20153	Kansas	Rawlins	rural	100
+20155	Kansas	Reno	rural	31.3
+20157	Kansas	Republic	rural	100
+20159	Kansas	Rice	rural	63.8
+20161	Kansas	Riley	rural	13.8
+20163	Kansas	Rooks	rural	100
+20165	Kansas	Rush	rural	100
+20167	Kansas	Russell	rural	41.1
+20169	Kansas	Saline	rural	14.6
+20171	Kansas	Scott	rural	26.1
+20173	Kansas	Sedgwick	rural	7.7
+20175	Kansas	Seward	rural	11.4
+20177	Kansas	Shawnee	rural	15.8
+20179	Kansas	Sheridan	rural	100
+20181	Kansas	Sherman	rural	24.2
+20183	Kansas	Smith	rural	100
+20185	Kansas	Stafford	rural	100
+20187	Kansas	Stanton	rural	100
+20189	Kansas	Stevens	rural	31.2
+20191	Kansas	Sumner	rural	62.9
+20193	Kansas	Thomas	rural	30.8
+20195	Kansas	Trego	rural	100
+20197	Kansas	Wabaunsee	rural	100
+20199	Kansas	Wallace	rural	100
+20201	Kansas	Washington	rural	100
+20203	Kansas	Wichita	rural	100
+20205	Kansas	Wilson	rural	72.7
+20207	Kansas	Woodson	rural	100
+20209	Kansas	Wyandotte	rural	6.1
+21001	Kentucky	Adair	rural	75.5
+21003	Kentucky	Allen	rural	78.7
+21005	Kentucky	Anderson	rural	41.7
+21007	Kentucky	Ballard	rural	100
+21009	Kentucky	Barren	rural	63.3
+21011	Kentucky	Bath	rural	100
+21013	Kentucky	Bell	rural	62.5
+21015	Kentucky	Boone	rural	13.3
+21017	Kentucky	Bourbon	rural	44.7
+21019	Kentucky	Boyd	rural	25.3
+21021	Kentucky	Boyle	rural	34.8
+21023	Kentucky	Bracken	rural	100
+21025	Kentucky	Breathitt	rural	81.5
+21027	Kentucky	Breckinridge	rural	100
+21029	Kentucky	Bullitt	rural	30.4
+21031	Kentucky	Butler	rural	100
+21033	Kentucky	Caldwell	rural	54.6
+21035	Kentucky	Calloway	rural	48.7
+21037	Kentucky	Campbell	rural	15.3
+21039	Kentucky	Carlisle	rural	100
+21041	Kentucky	Carroll	rural	52.2
+21043	Kentucky	Carter	rural	79.4
+21045	Kentucky	Casey	rural	100
+21047	Kentucky	Christian	rural	28.6
+21049	Kentucky	Clark	rural	27.5
+21051	Kentucky	Clay	rural	78.6
+21053	Kentucky	Clinton	rural	100
+21055	Kentucky	Crittenden	rural	70.8
+21057	Kentucky	Cumberland	rural	100
+21059	Kentucky	Daviess	rural	27
+21061	Kentucky	Edmonson	rural	100
+21063	Kentucky	Elliott	rural	100
+21065	Kentucky	Estill	rural	76.1
+21067	Kentucky	Fayette	rural	3.1
+21069	Kentucky	Fleming	rural	80.5
+21071	Kentucky	Floyd	rural	83.9
+21073	Kentucky	Franklin	rural	27.6
+21075	Kentucky	Fulton	rural	64.4
+21077	Kentucky	Gallatin	rural	100
+21079	Kentucky	Garrard	rural	77.9
+21081	Kentucky	Grant	rural	65
+21083	Kentucky	Graves	rural	69.4
+21085	Kentucky	Grayson	rural	73.6
+21087	Kentucky	Green	rural	100
+21089	Kentucky	Greenup	rural	39.3
+21091	Kentucky	Hancock	rural	89.3
+21093	Kentucky	Hardin	rural	34.2
+21095	Kentucky	Harlan	rural	54.2
+21097	Kentucky	Harrison	rural	65.9
+21099	Kentucky	Hart	rural	87.2
+21101	Kentucky	Henderson	rural	38.2
+21103	Kentucky	Henry	rural	100
+21105	Kentucky	Hickman	rural	100
+21107	Kentucky	Hopkins	rural	47.1
+21109	Kentucky	Jackson	rural	100
+21111	Kentucky	Jefferson	rural	1.4
+21113	Kentucky	Jessamine	rural	25.9
+21115	Kentucky	Johnson	rural	73
+21117	Kentucky	Kenton	rural	7
+21119	Kentucky	Knott	rural	100
+21121	Kentucky	Knox	rural	62.9
+21123	Kentucky	Larue	rural	76
+21125	Kentucky	Laurel	rural	56.8
+21127	Kentucky	Lawrence	rural	77.1
+21129	Kentucky	Lee	rural	100
+21131	Kentucky	Leslie	rural	100
+21133	Kentucky	Letcher	rural	100
+21135	Kentucky	Lewis	rural	100
+21137	Kentucky	Lincoln	rural	81.7
+21139	Kentucky	Livingston	rural	95.4
+21141	Kentucky	Logan	rural	75
+21143	Kentucky	Lyon	rural	100
+21145	Kentucky	McCracken	rural	27.8
+21147	Kentucky	McCreary	rural	100
+21149	Kentucky	McLean	rural	100
+21151	Kentucky	Madison	rural	38.5
+21153	Kentucky	Magoffin	rural	100
+21155	Kentucky	Marion	rural	71.5
+21157	Kentucky	Marshall	rural	85.9
+21159	Kentucky	Martin	rural	100
+21161	Kentucky	Mason	rural	55.4
+21163	Kentucky	Meade	rural	85.9
+21165	Kentucky	Menifee	rural	100
+21167	Kentucky	Mercer	rural	59.1
+21169	Kentucky	Metcalfe	rural	100
+21171	Kentucky	Monroe	rural	100
+21173	Kentucky	Montgomery	rural	59.1
+21175	Kentucky	Morgan	rural	100
+21177	Kentucky	Muhlenberg	rural	68.4
+21179	Kentucky	Nelson	rural	56.9
+21181	Kentucky	Nicholas	rural	100
+21183	Kentucky	Ohio	rural	73.5
+21185	Kentucky	Oldham	rural	20.3
+21187	Kentucky	Owen	rural	100
+21189	Kentucky	Owsley	rural	100
+21191	Kentucky	Pendleton	rural	100
+21193	Kentucky	Perry	rural	74.1
+21195	Kentucky	Pike	rural	87.8
+21197	Kentucky	Powell	rural	67.1
+21199	Kentucky	Pulaski	rural	53.9
+21201	Kentucky	Robertson	rural	100
+21203	Kentucky	Rockcastle	rural	83.7
+21205	Kentucky	Rowan	rural	68.8
+21207	Kentucky	Russell	rural	100
+21209	Kentucky	Scott	rural	32.5
+21211	Kentucky	Shelby	rural	47
+21213	Kentucky	Simpson	rural	45.2
+21215	Kentucky	Spencer	rural	100
+21217	Kentucky	Taylor	rural	52.2
+21219	Kentucky	Todd	rural	100
+21221	Kentucky	Trigg	rural	79.4
+21223	Kentucky	Trimble	rural	94.7
+21225	Kentucky	Union	rural	65.3
+21227	Kentucky	Warren	rural	31.2
+21229	Kentucky	Washington	rural	100
+21231	Kentucky	Wayne	rural	67.7
+21233	Kentucky	Webster	rural	100
+21235	Kentucky	Whitley	rural	65.2
+21237	Kentucky	Wolfe	rural	100
+21239	Kentucky	Woodford	rural	36.2
+22001	Louisiana	Acadia	rural	51.7
+22003	Louisiana	Allen	rural	69.4
+22005	Louisiana	Ascension	rural	13.2
+22007	Louisiana	Assumption	rural	45
+22009	Louisiana	Avoyelles	rural	63.8
+22011	Louisiana	Beauregard	rural	66.5
+22013	Louisiana	Bienville	rural	79.8
+22015	Louisiana	Bossier	rural	24.3
+22017	Louisiana	Caddo	rural	14.4
+22019	Louisiana	Calcasieu	rural	20.5
+22021	Louisiana	Caldwell	rural	100
+22023	Louisiana	Cameron	rural	100
+22025	Louisiana	Catahoula	rural	100
+22027	Louisiana	Claiborne	rural	82.4
+22029	Louisiana	Concordia	rural	33.5
+22031	Louisiana	De Soto	rural	77.3
+22033	Louisiana	East Baton Rouge	rural	6.9
+22035	Louisiana	East Carroll	rural	34.6
+22037	Louisiana	East Feliciana	rural	100
+22039	Louisiana	Evangeline	rural	61.1
+22041	Louisiana	Franklin	rural	74.2
+22043	Louisiana	Grant	rural	85.6
+22045	Louisiana	Iberia	rural	28.1
+22047	Louisiana	Iberville	rural	59.2
+22049	Louisiana	Jackson	rural	65.5
+22051	Louisiana	Jefferson	rural	1.1
+22053	Louisiana	Jefferson Davis	rural	50.7
+22055	Louisiana	Lafayette	rural	8.3
+22057	Louisiana	Lafourche	rural	24.2
+22059	Louisiana	La Salle	rural	73.2
+22061	Louisiana	Lincoln	rural	40.7
+22063	Louisiana	Livingston	rural	41.1
+22065	Louisiana	Madison	rural	22.4
+22067	Louisiana	Morehouse	rural	50
+22069	Louisiana	Natchitoches	rural	50.1
+22071	Louisiana	Orleans	rural	0.6
+22073	Louisiana	Ouachita	rural	24.2
+22075	Louisiana	Plaquemines	rural	19.5
+22077	Louisiana	Pointe Coupee	rural	57.8
+22079	Louisiana	Rapides	rural	39.5
+22081	Louisiana	Red River	rural	100
+22083	Louisiana	Richland	rural	66
+22085	Louisiana	Sabine	rural	88.2
+22087	Louisiana	St. Bernard	rural	4.3
+22089	Louisiana	St. Charles	rural	11.5
+22091	Louisiana	St. Helena	rural	100
+22093	Louisiana	St. James	rural	27.7
+22095	Louisiana	St. John the Baptist	rural	13.4
+22097	Louisiana	St. Landry	rural	48.2
+22099	Louisiana	St. Martin	rural	49.6
+22101	Louisiana	St. Mary	rural	13
+22103	Louisiana	St. Tammany	rural	23.2
+22105	Louisiana	Tangipahoa	rural	40.9
+22107	Louisiana	Tensas	rural	100
+22109	Louisiana	Terrebonne	rural	20.6
+22111	Louisiana	Union	rural	82.9
+22113	Louisiana	Vermilion	rural	54.6
+22115	Louisiana	Vernon	rural	49.9
+22117	Louisiana	Washington	rural	66.7
+22119	Louisiana	Webster	rural	53
+22121	Louisiana	West Baton Rouge	rural	30.5
+22123	Louisiana	West Carroll	rural	100
+22125	Louisiana	West Feliciana	rural	100
+22127	Louisiana	Winn	rural	64.9
+23001	Maine	Androscoggin	rural	43.4
+23003	Maine	Aroostook	rural	80.3
+23005	Maine	Cumberland	rural	36.1
+23007	Maine	Franklin	rural	83
+23009	Maine	Hancock	rural	90.1
+23011	Maine	Kennebec	rural	62.8
+23013	Maine	Knox	rural	67.9
+23015	Maine	Lincoln	rural	100
+23017	Maine	Oxford	rural	83.1
+23019	Maine	Penobscot	rural	57.7
+23021	Maine	Piscataquis	rural	100
+23023	Maine	Sagadahoc	rural	61.7
+23025	Maine	Somerset	rural	80.5
+23027	Maine	Waldo	rural	91.3
+23029	Maine	Washington	rural	92.4
+23031	Maine	York	rural	56.8
+24001	Maryland	Allegany	rural	27.3
+24003	Maryland	Anne Arundel	rural	5.3
+24005	Maryland	Baltimore	rural	6.5
+24009	Maryland	Calvert	rural	38.7
+24011	Maryland	Caroline	rural	76
+24013	Maryland	Carroll	rural	39.5
+24015	Maryland	Cecil	rural	42.1
+24017	Maryland	Charles	rural	29.5
+24019	Maryland	Dorchester	rural	56.2
+24021	Maryland	Frederick	rural	25.2
+24023	Maryland	Garrett	rural	83.9
+24025	Maryland	Harford	rural	17.8
+24027	Maryland	Howard	rural	9.3
+24029	Maryland	Kent	rural	72.6
+24031	Maryland	Montgomery	rural	2.4
+24033	Maryland	Prince George's	rural	2
+24035	Maryland	Queen Anne's	rural	54.5
+24037	Maryland	St. Mary's	rural	50.4
+24039	Maryland	Somerset	rural	45.8
+24041	Maryland	Talbot	rural	54.7
+24043	Maryland	Washington	rural	29.5
+24045	Maryland	Wicomico	rural	25.8
+24047	Maryland	Worcester	rural	35.5
+24510	Maryland	Baltimore City	rural	0
+25001	Massachusetts	Barnstable	rural	7.5
+25003	Massachusetts	Berkshire	rural	31.6
+25005	Massachusetts	Bristol	rural	9.8
+25007	Massachusetts	Dukes	rural	39
+25009	Massachusetts	Essex	rural	4.2
+25011	Massachusetts	Franklin	rural	54.4
+25013	Massachusetts	Hampden	rural	8.6
+25015	Massachusetts	Hampshire	rural	27.4
+25017	Massachusetts	Middlesex	rural	3
+25019	Massachusetts	Nantucket	rural	18.9
+25021	Massachusetts	Norfolk	rural	1.2
+25023	Massachusetts	Plymouth	rural	10.3
+25025	Massachusetts	Suffolk	rural	0.1
+25027	Massachusetts	Worcester	rural	18.4
+26001	Michigan	Alcona	rural	98.9
+26003	Michigan	Alger	rural	69
+26005	Michigan	Allegan	rural	64.5
+26007	Michigan	Alpena	rural	51.8
+26009	Michigan	Antrim	rural	100
+26011	Michigan	Arenac	rural	100
+26013	Michigan	Baraga	rural	100
+26015	Michigan	Barry	rural	77.1
+26017	Michigan	Bay	rural	30.3
+26019	Michigan	Benzie	rural	100
+26021	Michigan	Berrien	rural	32.9
+26023	Michigan	Branch	rural	62.7
+26025	Michigan	Calhoun	rural	31
+26027	Michigan	Cass	rural	71.2
+26029	Michigan	Charlevoix	rural	70.4
+26031	Michigan	Cheboygan	rural	82.7
+26033	Michigan	Chippewa	rural	48.9
+26035	Michigan	Clare	rural	70.6
+26037	Michigan	Clinton	rural	52.9
+26039	Michigan	Crawford	rural	72.6
+26041	Michigan	Delta	rural	43.8
+26043	Michigan	Dickinson	rural	32.8
+26045	Michigan	Eaton	rural	38
+26047	Michigan	Emmet	rural	74.9
+26049	Michigan	Genesee	rural	16.8
+26051	Michigan	Gladwin	rural	88.6
+26053	Michigan	Gogebic	rural	68.2
+26055	Michigan	Grand Traverse	rural	48
+26057	Michigan	Gratiot	rural	60.2
+26059	Michigan	Hillsdale	rural	69.1
+26061	Michigan	Houghton	rural	37.8
+26063	Michigan	Huron	rural	89.5
+26065	Michigan	Ingham	rural	13.2
+26067	Michigan	Ionia	rural	60.5
+26069	Michigan	Iosco	rural	58.9
+26071	Michigan	Iron	rural	72.9
+26073	Michigan	Isabella	rural	46.6
+26075	Michigan	Jackson	rural	41.8
+26077	Michigan	Kalamazoo	rural	17.5
+26079	Michigan	Kalkaska	rural	84.4
+26081	Michigan	Kent	rural	15.7
+26083	Michigan	Keweenaw	rural	100
+26085	Michigan	Lake	rural	100
+26087	Michigan	Lapeer	rural	77.3
+26089	Michigan	Leelanau	rural	91.3
+26091	Michigan	Lenawee	rural	51.8
+26093	Michigan	Livingston	rural	36.9
+26095	Michigan	Luce	rural	51.4
+26097	Michigan	Mackinac	rural	77.2
+26099	Michigan	Macomb	rural	2.8
+26101	Michigan	Manistee	rural	61.2
+26103	Michigan	Marquette	rural	41.5
+26105	Michigan	Mason	rural	62.7
+26107	Michigan	Mecosta	rural	66.7
+26109	Michigan	Menominee	rural	64.3
+26111	Michigan	Midland	rural	42.8
+26113	Michigan	Missaukee	rural	100
+26115	Michigan	Monroe	rural	37.6
+26117	Michigan	Montcalm	rural	84.6
+26119	Michigan	Montmorency	rural	100
+26121	Michigan	Muskegon	rural	23.3
+26123	Michigan	Newaygo	rural	83.8
+26125	Michigan	Oakland	rural	4.8
+26127	Michigan	Oceana	rural	89.9
+26129	Michigan	Ogemaw	rural	100
+26131	Michigan	Ontonagon	rural	100
+26133	Michigan	Osceola	rural	100
+26135	Michigan	Oscoda	rural	100
+26137	Michigan	Otsego	rural	65.7
+26139	Michigan	Ottawa	rural	20.3
+26141	Michigan	Presque Isle	rural	80.9
+26143	Michigan	Roscommon	rural	66.1
+26145	Michigan	Saginaw	rural	31.1
+26147	Michigan	St. Clair	rural	38.6
+26149	Michigan	St. Joseph	rural	54.4
+26151	Michigan	Sanilac	rural	90.2
+26153	Michigan	Schoolcraft	rural	59
+26155	Michigan	Shiawassee	rural	55
+26157	Michigan	Tuscola	rural	84.2
+26159	Michigan	Van Buren	rural	70.9
+26161	Michigan	Washtenaw	rural	16.4
+26163	Michigan	Wayne	rural	0.7
+26165	Michigan	Wexford	rural	64.3
+27001	Minnesota	Aitkin	rural	100
+27003	Minnesota	Anoka	rural	13.5
+27005	Minnesota	Becker	rural	75.5
+27007	Minnesota	Beltrami	rural	67.1
+27009	Minnesota	Benton	rural	40
+27011	Minnesota	Big Stone	rural	100
+27013	Minnesota	Blue Earth	rural	26.9
+27015	Minnesota	Brown	rural	34.9
+27017	Minnesota	Carlton	rural	55.2
+27019	Minnesota	Carver	rural	18.8
+27021	Minnesota	Cass	rural	100
+27023	Minnesota	Chippewa	rural	50.3
+27025	Minnesota	Chisago	rural	55.6
+27027	Minnesota	Clay	rural	27.9
+27029	Minnesota	Clearwater	rural	100
+27031	Minnesota	Cook	rural	100
+27033	Minnesota	Cottonwood	rural	62.3
+27035	Minnesota	Crow Wing	rural	62.7
+27037	Minnesota	Dakota	rural	4.9
+27039	Minnesota	Dodge	rural	51.8
+27041	Minnesota	Douglas	rural	52.8
+27043	Minnesota	Faribault	rural	77.6
+27045	Minnesota	Fillmore	rural	93.3
+27047	Minnesota	Freeborn	rural	42.8
+27049	Minnesota	Goodhue	rural	47
+27051	Minnesota	Grant	rural	100
+27053	Minnesota	Hennepin	rural	2.2
+27055	Minnesota	Houston	rural	57.4
+27057	Minnesota	Hubbard	rural	83.4
+27059	Minnesota	Isanti	rural	62.3
+27061	Minnesota	Itasca	rural	79.4
+27063	Minnesota	Jackson	rural	69.1
+27065	Minnesota	Kanabec	rural	77.4
+27067	Minnesota	Kandiyohi	rural	44.5
+27069	Minnesota	Kittson	rural	100
+27071	Minnesota	Koochiching	rural	47
+27073	Minnesota	Lac qui Parle	rural	100
+27075	Minnesota	Lake	rural	67
+27077	Minnesota	Lake of the Woods	rural	100
+27079	Minnesota	Le Sueur	rural	62.2
+27081	Minnesota	Lincoln	rural	100
+27083	Minnesota	Lyon	rural	47.9
+27085	Minnesota	McLeod	rural	46.6
+27087	Minnesota	Mahnomen	rural	100
+27089	Minnesota	Marshall	rural	100
+27091	Minnesota	Martin	rural	54
+27093	Minnesota	Meeker	rural	65.5
+27095	Minnesota	Mille Lacs	rural	70.8
+27097	Minnesota	Morrison	rural	72.8
+27099	Minnesota	Mower	rural	35.9
+27101	Minnesota	Murray	rural	100
+27103	Minnesota	Nicollet	rural	25.6
+27105	Minnesota	Nobles	rural	41
+27107	Minnesota	Norman	rural	100
+27109	Minnesota	Olmsted	rural	16.6
+27111	Minnesota	Otter Tail	rural	73.6
+27113	Minnesota	Pennington	rural	36.2
+27115	Minnesota	Pine	rural	89.3
+27117	Minnesota	Pipestone	rural	57.3
+27119	Minnesota	Polk	rural	48.5
+27121	Minnesota	Pope	rural	100
+27123	Minnesota	Ramsey	rural	0.2
+27125	Minnesota	Red Lake	rural	100
+27127	Minnesota	Redwood	rural	69.1
+27129	Minnesota	Renville	rural	100
+27131	Minnesota	Rice	rural	25.9
+27133	Minnesota	Rock	rural	52.3
+27135	Minnesota	Roseau	rural	82.3
+27137	Minnesota	St. Louis	rural	37.1
+27139	Minnesota	Scott	rural	17.2
+27141	Minnesota	Sherburne	rural	44.2
+27143	Minnesota	Sibley	rural	100
+27145	Minnesota	Stearns	rural	36.9
+27147	Minnesota	Steele	rural	30.6
+27149	Minnesota	Stevens	rural	47.3
+27151	Minnesota	Swift	rural	67.4
+27153	Minnesota	Todd	rural	78.4
+27155	Minnesota	Traverse	rural	100
+27157	Minnesota	Wabasha	rural	64.5
+27159	Minnesota	Wadena	rural	67
+27161	Minnesota	Waseca	rural	50.2
+27163	Minnesota	Washington	rural	14.5
+27165	Minnesota	Watonwan	rural	59.1
+27167	Minnesota	Wilkin	rural	50.1
+27169	Minnesota	Winona	rural	34.5
+27171	Minnesota	Wright	rural	32.5
+27173	Minnesota	Yellow Medicine	rural	80.8
+28001	Mississippi	Adams	rural	37.2
+28003	Mississippi	Alcorn	rural	66.4
+28005	Mississippi	Amite	rural	100
+28007	Mississippi	Attala	rural	64.3
+28009	Mississippi	Benton	rural	100
+28011	Mississippi	Bolivar	rural	54
+28013	Mississippi	Calhoun	rural	100
+28015	Mississippi	Carroll	rural	100
+28017	Mississippi	Chickasaw	rural	85.3
+28019	Mississippi	Choctaw	rural	100
+28021	Mississippi	Claiborne	rural	100
+28023	Mississippi	Clarke	rural	100
+28025	Mississippi	Clay	rural	55.5
+28027	Mississippi	Coahoma	rural	32
+28029	Mississippi	Copiah	rural	65.6
+28031	Mississippi	Covington	rural	100
+28033	Mississippi	DeSoto	rural	20.4
+28035	Mississippi	Forrest	rural	29.6
+28037	Mississippi	Franklin	rural	100
+28039	Mississippi	George	rural	88.3
+28041	Mississippi	Greene	rural	100
+28043	Mississippi	Grenada	rural	52.2
+28045	Mississippi	Hancock	rural	42.6
+28047	Mississippi	Harrison	rural	22.8
+28049	Mississippi	Hinds	rural	15.3
+28051	Mississippi	Holmes	rural	86.8
+28053	Mississippi	Humphreys	rural	49.8
+28055	Mississippi	Issaquena	rural	100
+28057	Mississippi	Itawamba	rural	86.3
+28059	Mississippi	Jackson	rural	27.3
+28061	Mississippi	Jasper	rural	100
+28063	Mississippi	Jefferson	rural	100
+28065	Mississippi	Jefferson Davis	rural	100
+28067	Mississippi	Jones	rural	61.4
+28069	Mississippi	Kemper	rural	100
+28071	Mississippi	Lafayette	rural	45.6
+28073	Mississippi	Lamar	rural	50.4
+28075	Mississippi	Lauderdale	rural	48.3
+28077	Mississippi	Lawrence	rural	100
+28079	Mississippi	Leake	rural	81.2
+28081	Mississippi	Lee	rural	45.4
+28083	Mississippi	Leflore	rural	17.7
+28085	Mississippi	Lincoln	rural	69.5
+28087	Mississippi	Lowndes	rural	42.6
+28089	Mississippi	Madison	rural	28
+28091	Mississippi	Marion	rural	73.1
+28093	Mississippi	Marshall	rural	83.4
+28095	Mississippi	Monroe	rural	69.6
+28097	Mississippi	Montgomery	rural	59.8
+28099	Mississippi	Neshoba	rural	73.9
+28101	Mississippi	Newton	rural	87.1
+28103	Mississippi	Noxubee	rural	74
+28105	Mississippi	Oktibbeha	rural	36.4
+28107	Mississippi	Panola	rural	78.9
+28109	Mississippi	Pearl River	rural	69.9
+28111	Mississippi	Perry	rural	100
+28113	Mississippi	Pike	rural	59.4
+28115	Mississippi	Pontotoc	rural	84
+28117	Mississippi	Prentiss	rural	76.1
+28119	Mississippi	Quitman	rural	57
+28121	Mississippi	Rankin	rural	33.9
+28123	Mississippi	Scott	rural	72.2
+28125	Mississippi	Sharkey	rural	100
+28127	Mississippi	Simpson	rural	84.8
+28129	Mississippi	Smith	rural	100
+28131	Mississippi	Stone	rural	78.8
+28133	Mississippi	Sunflower	rural	45.8
+28135	Mississippi	Tallahatchie	rural	80.9
+28137	Mississippi	Tate	rural	77.4
+28139	Mississippi	Tippah	rural	83.8
+28141	Mississippi	Tishomingo	rural	100
+28143	Mississippi	Tunica	rural	66
+28145	Mississippi	Union	rural	75.6
+28147	Mississippi	Walthall	rural	100
+28149	Mississippi	Warren	rural	40.9
+28151	Mississippi	Washington	rural	17.5
+28153	Mississippi	Wayne	rural	79.6
+28155	Mississippi	Webster	rural	100
+28157	Mississippi	Wilkinson	rural	100
+28159	Mississippi	Winston	rural	75.9
+28161	Mississippi	Yalobusha	rural	79.3
+28163	Mississippi	Yazoo	rural	44.6
+29001	Missouri	Adair	rural	37.9
+29003	Missouri	Andrew	rural	61.3
+29005	Missouri	Atchison	rural	100
+29007	Missouri	Audrain	rural	41.2
+29009	Missouri	Barry	rural	73.3
+29011	Missouri	Barton	rural	64
+29013	Missouri	Bates	rural	77.3
+29015	Missouri	Benton	rural	86.5
+29017	Missouri	Bollinger	rural	100
+29019	Missouri	Boone	rural	18.8
+29021	Missouri	Buchanan	rural	13.4
+29023	Missouri	Butler	rural	52.2
+29025	Missouri	Caldwell	rural	100
+29027	Missouri	Callaway	rural	62
+29029	Missouri	Camden	rural	74.2
+29031	Missouri	Cape Girardeau	rural	30.5
+29033	Missouri	Carroll	rural	64.5
+29035	Missouri	Carter	rural	100
+29037	Missouri	Cass	rural	32.4
+29039	Missouri	Cedar	rural	75.3
+29041	Missouri	Chariton	rural	100
+29043	Missouri	Christian	rural	44.8
+29045	Missouri	Clark	rural	100
+29047	Missouri	Clay	rural	9.8
+29049	Missouri	Clinton	rural	76.2
+29051	Missouri	Cole	rural	29.1
+29053	Missouri	Cooper	rural	53.2
+29055	Missouri	Crawford	rural	73.3
+29057	Missouri	Dade	rural	100
+29059	Missouri	Dallas	rural	81.9
+29061	Missouri	Daviess	rural	100
+29063	Missouri	DeKalb	rural	62.4
+29065	Missouri	Dent	rural	68.6
+29067	Missouri	Douglas	rural	79.1
+29069	Missouri	Dunklin	rural	50.5
+29071	Missouri	Franklin	rural	55.6
+29073	Missouri	Gasconade	rural	80.9
+29075	Missouri	Gentry	rural	100
+29077	Missouri	Greene	rural	14
+29079	Missouri	Grundy	rural	45.5
+29081	Missouri	Harrison	rural	70.4
+29083	Missouri	Henry	rural	49.5
+29085	Missouri	Hickory	rural	100
+29087	Missouri	Holt	rural	100
+29089	Missouri	Howard	rural	64.1
+29091	Missouri	Howell	rural	72.2
+29093	Missouri	Iron	rural	74.9
+29095	Missouri	Jackson	rural	3.8
+29097	Missouri	Jasper	rural	23.7
+29099	Missouri	Jefferson	rural	30.2
+29101	Missouri	Johnson	rural	50.4
+29103	Missouri	Knox	rural	100
+29105	Missouri	Laclede	rural	60.5
+29107	Missouri	Lafayette	rural	56.9
+29109	Missouri	Lawrence	rural	58.7
+29111	Missouri	Lewis	rural	100
+29113	Missouri	Lincoln	rural	74.8
+29115	Missouri	Linn	rural	66.5
+29117	Missouri	Livingston	rural	36.6
+29119	Missouri	McDonald	rural	100
+29121	Missouri	Macon	rural	67.8
+29123	Missouri	Madison	rural	65.5
+29125	Missouri	Maries	rural	100
+29127	Missouri	Marion	rural	24.8
+29129	Missouri	Mercer	rural	100
+29131	Missouri	Miller	rural	79.8
+29133	Missouri	Mississippi	rural	32.7
+29135	Missouri	Moniteau	rural	52.7
+29137	Missouri	Monroe	rural	100
+29139	Missouri	Montgomery	rural	78.5
+29141	Missouri	Morgan	rural	100
+29143	Missouri	New Madrid	rural	56.9
+29145	Missouri	Newton	rural	64.4
+29147	Missouri	Nodaway	rural	43.4
+29149	Missouri	Oregon	rural	80.5
+29151	Missouri	Osage	rural	100
+29153	Missouri	Ozark	rural	100
+29155	Missouri	Pemiscot	rural	49.3
+29157	Missouri	Perry	rural	55.6
+29159	Missouri	Pettis	rural	37.8
+29161	Missouri	Phelps	rural	46.2
+29163	Missouri	Pike	rural	54.4
+29165	Missouri	Platte	rural	15.8
+29167	Missouri	Polk	rural	68.9
+29169	Missouri	Pulaski	rural	44
+29171	Missouri	Putnam	rural	100
+29173	Missouri	Ralls	rural	96.1
+29175	Missouri	Randolph	rural	45.2
+29177	Missouri	Ray	rural	75.2
+29179	Missouri	Reynolds	rural	100
+29181	Missouri	Ripley	rural	100
+29183	Missouri	St. Charles	rural	5.8
+29185	Missouri	St. Clair	rural	100
+29186	Missouri	Ste. Genevieve	rural	76.1
+29187	Missouri	St. Francois	rural	39.8
+29189	Missouri	St. Louis	rural	1.1
+29195	Missouri	Saline	rural	45.8
+29197	Missouri	Schuyler	rural	100
+29199	Missouri	Scotland	rural	100
+29201	Missouri	Scott	rural	41.6
+29203	Missouri	Shannon	rural	100
+29205	Missouri	Shelby	rural	100
+29207	Missouri	Stoddard	rural	69.8
+29209	Missouri	Stone	rural	88.7
+29211	Missouri	Sullivan	rural	100
+29213	Missouri	Taney	rural	43.9
+29215	Missouri	Texas	rural	99.2
+29217	Missouri	Vernon	rural	58.3
+29219	Missouri	Warren	rural	63
+29221	Missouri	Washington	rural	80.5
+29223	Missouri	Wayne	rural	100
+29225	Missouri	Webster	rural	73.9
+29227	Missouri	Worth	rural	100
+29229	Missouri	Wright	rural	76.6
+29510	Missouri	St. Louis City	rural	0
+30001	Montana	Beaverhead	rural	50.2
+30003	Montana	Big Horn	rural	71.9
+30005	Montana	Blaine	rural	100
+30007	Montana	Broadwater	rural	100
+30009	Montana	Carbon	rural	100
+30011	Montana	Carter	rural	100
+30013	Montana	Cascade	rural	19.8
+30015	Montana	Chouteau	rural	100
+30017	Montana	Custer	rural	17.9
+30019	Montana	Daniels	rural	100
+30021	Montana	Dawson	rural	27.6
+30023	Montana	Deer Lodge	rural	33.6
+30025	Montana	Fallon	rural	100
+30027	Montana	Fergus	rural	47.4
+30029	Montana	Flathead	rural	51.5
+30031	Montana	Gallatin	rural	33.5
+30033	Montana	Garfield	rural	100
+30035	Montana	Glacier	rural	44
+30037	Montana	Golden Valley	rural	100
+30039	Montana	Granite	rural	100
+30041	Montana	Hill	rural	40
+30043	Montana	Jefferson	rural	100
+30045	Montana	Judith Basin	rural	100
+30047	Montana	Lake	rural	83.4
+30049	Montana	Lewis and Clark	rural	28.9
+30051	Montana	Liberty	rural	100
+30053	Montana	Lincoln	rural	79.8
+30055	Montana	McCone	rural	100
+30057	Montana	Madison	rural	100
+30059	Montana	Meagher	rural	100
+30061	Montana	Mineral	rural	100
+30063	Montana	Missoula	rural	22.3
+30065	Montana	Musselshell	rural	100
+30067	Montana	Park	rural	47.7
+30069	Montana	Petroleum	rural	100
+30071	Montana	Phillips	rural	100
+30073	Montana	Pondera	rural	58.1
+30075	Montana	Powder River	rural	100
+30077	Montana	Powell	rural	54.2
+30079	Montana	Prairie	rural	100
+30081	Montana	Ravalli	rural	84.6
+30083	Montana	Richland	rural	44.2
+30085	Montana	Roosevelt	rural	39.7
+30087	Montana	Rosebud	rural	100
+30089	Montana	Sanders	rural	100
+30091	Montana	Sheridan	rural	100
+30093	Montana	Silver Bow	rural	11.4
+30095	Montana	Stillwater	rural	100
+30097	Montana	Sweet Grass	rural	100
+30099	Montana	Teton	rural	100
+30101	Montana	Toole	rural	43
+30103	Montana	Treasure	rural	100
+30105	Montana	Valley	rural	55.2
+30107	Montana	Wheatland	rural	100
+30109	Montana	Wibaux	rural	100
+30111	Montana	Yellowstone	rural	16.7
+31001	Nebraska	Adams	rural	22.5
+31003	Nebraska	Antelope	rural	100
+31005	Nebraska	Arthur	rural	100
+31007	Nebraska	Banner	rural	100
+31009	Nebraska	Blaine	rural	100
+31011	Nebraska	Boone	rural	100
+31013	Nebraska	Box Butte	rural	25
+31015	Nebraska	Boyd	rural	100
+31017	Nebraska	Brown	rural	100
+31019	Nebraska	Buffalo	rural	32.3
+31021	Nebraska	Burt	rural	100
+31023	Nebraska	Butler	rural	65.7
+31025	Nebraska	Cass	rural	73
+31027	Nebraska	Cedar	rural	100
+31029	Nebraska	Chase	rural	100
+31031	Nebraska	Cherry	rural	52.5
+31033	Nebraska	Cheyenne	rural	36.3
+31035	Nebraska	Clay	rural	100
+31037	Nebraska	Colfax	rural	40.5
+31039	Nebraska	Cuming	rural	65.2
+31041	Nebraska	Custer	rural	67.7
+31043	Nebraska	Dakota	rural	21.1
+31045	Nebraska	Dawes	rural	39.9
+31047	Nebraska	Dawson	rural	26.7
+31049	Nebraska	Deuel	rural	100
+31051	Nebraska	Dixon	rural	100
+31053	Nebraska	Dodge	rural	25.1
+31055	Nebraska	Douglas	rural	2.2
+31057	Nebraska	Dundy	rural	100
+31059	Nebraska	Fillmore	rural	100
+31061	Nebraska	Franklin	rural	100
+31063	Nebraska	Frontier	rural	100
+31065	Nebraska	Furnas	rural	100
+31067	Nebraska	Gage	rural	44.4
+31069	Nebraska	Garden	rural	100
+31071	Nebraska	Garfield	rural	100
+31073	Nebraska	Gosper	rural	100
+31075	Nebraska	Grant	rural	100
+31077	Nebraska	Greeley	rural	100
+31079	Nebraska	Hall	rural	14.6
+31081	Nebraska	Hamilton	rural	51.1
+31083	Nebraska	Harlan	rural	100
+31085	Nebraska	Hayes	rural	100
+31087	Nebraska	Hitchcock	rural	100
+31089	Nebraska	Holt	rural	64.7
+31091	Nebraska	Hooker	rural	100
+31093	Nebraska	Howard	rural	100
+31095	Nebraska	Jefferson	rural	48.2
+31097	Nebraska	Johnson	rural	100
+31099	Nebraska	Kearney	rural	54.6
+31101	Nebraska	Keith	rural	47.1
+31103	Nebraska	Keya Paha	rural	100
+31105	Nebraska	Kimball	rural	100
+31107	Nebraska	Knox	rural	100
+31109	Nebraska	Lancaster	rural	8.3
+31111	Nebraska	Lincoln	rural	30.5
+31113	Nebraska	Logan	rural	100
+31115	Nebraska	Loup	rural	100
+31117	Nebraska	McPherson	rural	100
+31119	Nebraska	Madison	rural	27.9
+31121	Nebraska	Merrick	rural	58.9
+31123	Nebraska	Morrill	rural	100
+31125	Nebraska	Nance	rural	100
+31127	Nebraska	Nemaha	rural	52.1
+31129	Nebraska	Nuckolls	rural	100
+31131	Nebraska	Otoe	rural	55.1
+31133	Nebraska	Pawnee	rural	100
+31135	Nebraska	Perkins	rural	100
+31137	Nebraska	Phelps	rural	41.9
+31139	Nebraska	Pierce	rural	100
+31141	Nebraska	Platte	rural	31.4
+31143	Nebraska	Polk	rural	100
+31145	Nebraska	Red Willow	rural	31.6
+31147	Nebraska	Richardson	rural	50.6
+31149	Nebraska	Rock	rural	100
+31151	Nebraska	Saline	rural	51.1
+31153	Nebraska	Sarpy	rural	5.3
+31155	Nebraska	Saunders	rural	66.5
+31157	Nebraska	Scotts Bluff	rural	29.8
+31159	Nebraska	Seward	rural	60.4
+31161	Nebraska	Sheridan	rural	100
+31163	Nebraska	Sherman	rural	100
+31165	Nebraska	Sioux	rural	100
+31167	Nebraska	Stanton	rural	73.5
+31169	Nebraska	Thayer	rural	100
+31171	Nebraska	Thomas	rural	100
+31173	Nebraska	Thurston	rural	100
+31175	Nebraska	Valley	rural	100
+31177	Nebraska	Washington	rural	61.2
+31179	Nebraska	Wayne	rural	42.1
+31181	Nebraska	Webster	rural	100
+31183	Nebraska	Wheeler	rural	100
+31185	Nebraska	York	rural	44.1
+32001	Nevada	Churchill	rural	34.7
+32003	Nevada	Clark	rural	1.3
+32005	Nevada	Douglas	rural	31.6
+32007	Nevada	Elko	rural	37.9
+32009	Nevada	Esmeralda	rural	100
+32011	Nevada	Eureka	rural	100
+32013	Nevada	Humboldt	rural	37.9
+32015	Nevada	Lander	rural	39
+32017	Nevada	Lincoln	rural	100
+32019	Nevada	Lyon	rural	36.9
+32021	Nevada	Mineral	rural	31.9
+32023	Nevada	Nye	rural	35.3
+32027	Nevada	Pershing	rural	100
+32029	Nevada	Storey	rural	92.6
+32031	Nevada	Washoe	rural	4.3
+32033	Nevada	White Pine	rural	53.3
+32510	Nevada	Carson City	rural	4.8
+33001	New Hampshire	Belknap	rural	66.3
+33003	New Hampshire	Carroll	rural	90.2
+33005	New Hampshire	Cheshire	rural	65
+33007	New Hampshire	Coos	rural	66.2
+33009	New Hampshire	Grafton	rural	68.7
+33011	New Hampshire	Hillsborough	rural	21.2
+33013	New Hampshire	Merrimack	rural	54.6
+33015	New Hampshire	Rockingham	rural	24.9
+33017	New Hampshire	Strafford	rural	32.4
+33019	New Hampshire	Sullivan	rural	64.2
+34001	New Jersey	Atlantic	rural	12.7
+34003	New Jersey	Bergen	rural	0.1
+34005	New Jersey	Burlington	rural	6.7
+34007	New Jersey	Camden	rural	1.6
+34009	New Jersey	Cape May	rural	17.5
+34011	New Jersey	Cumberland	rural	23
+34013	New Jersey	Essex	rural	0
+34015	New Jersey	Gloucester	rural	8.3
+34017	New Jersey	Hudson	rural	0
+34019	New Jersey	Hunterdon	rural	49.6
+34021	New Jersey	Mercer	rural	3.5
+34023	New Jersey	Middlesex	rural	0.7
+34025	New Jersey	Monmouth	rural	3.7
+34027	New Jersey	Morris	rural	6.8
+34029	New Jersey	Ocean	rural	2.9
+34031	New Jersey	Passaic	rural	2.4
+34033	New Jersey	Salem	rural	45.3
+34035	New Jersey	Somerset	rural	5.8
+34037	New Jersey	Sussex	rural	39.8
+34039	New Jersey	Union	rural	0
+34041	New Jersey	Warren	rural	37.6
+35001	New Mexico	Bernalillo	rural	4.2
+35003	New Mexico	Catron	rural	100
+35005	New Mexico	Chaves	rural	24.2
+35006	New Mexico	Cibola	rural	55.3
+35007	New Mexico	Colfax	rural	52.4
+35009	New Mexico	Curry	rural	14.1
+35011	New Mexico	De Baca	rural	100
+35013	New Mexico	Dona Ana	rural	19.3
+35015	New Mexico	Eddy	rural	20.9
+35017	New Mexico	Grant	rural	42.4
+35019	New Mexico	Guadalupe	rural	44.1
+35021	New Mexico	Harding	rural	100
+35023	New Mexico	Hidalgo	rural	100
+35025	New Mexico	Lea	rural	21
+35027	New Mexico	Lincoln	rural	53.2
+35028	New Mexico	Los Alamos	rural	11.2
+35029	New Mexico	Luna	rural	40.6
+35031	New Mexico	McKinley	rural	57.4
+35033	New Mexico	Mora	rural	100
+35035	New Mexico	Otero	rural	29.6
+35037	New Mexico	Quay	rural	41.6
+35039	New Mexico	Rio Arriba	rural	49.8
+35041	New Mexico	Roosevelt	rural	36.5
+35043	New Mexico	Sandoval	rural	17.1
+35045	New Mexico	San Juan	rural	33.7
+35047	New Mexico	San Miguel	rural	46.9
+35049	New Mexico	Santa Fe	rural	25.2
+35051	New Mexico	Sierra	rural	34
+35053	New Mexico	Socorro	rural	49.7
+35055	New Mexico	Taos	rural	58.4
+35057	New Mexico	Torrance	rural	98.8
+35059	New Mexico	Union	rural	100
+35061	New Mexico	Valencia	rural	16.7
+36001	New York	Albany	rural	9.7
+36003	New York	Allegany	rural	78.7
+36005	New York	Bronx	rural	0
+36007	New York	Broome	rural	26.1
+36009	New York	Cattaraugus	rural	61.8
+36011	New York	Cayuga	rural	55.8
+36013	New York	Chautauqua	rural	43.9
+36015	New York	Chemung	rural	24.2
+36017	New York	Chenango	rural	83.4
+36019	New York	Clinton	rural	64.2
+36021	New York	Columbia	rural	73.3
+36023	New York	Cortland	rural	44.3
+36025	New York	Delaware	rural	78.4
+36027	New York	Dutchess	rural	25.4
+36029	New York	Erie	rural	9.4
+36031	New York	Essex	rural	74.9
+36033	New York	Franklin	rural	62.7
+36035	New York	Fulton	rural	50.4
+36037	New York	Genesee	rural	59.9
+36039	New York	Greene	rural	73.1
+36041	New York	Hamilton	rural	100
+36043	New York	Herkimer	rural	51.8
+36045	New York	Jefferson	rural	48
+36047	New York	Kings	rural	0
+36049	New York	Lewis	rural	86.8
+36051	New York	Livingston	rural	54.7
+36053	New York	Madison	rural	58.9
+36055	New York	Monroe	rural	6.4
+36057	New York	Montgomery	rural	40.9
+36059	New York	Nassau	rural	0.2
+36061	New York	New York	rural	0
+36063	New York	Niagara	rural	22.4
+36065	New York	Oneida	rural	33
+36067	New York	Onondaga	rural	12.6
+36069	New York	Ontario	rural	47.5
+36071	New York	Orange	rural	22.3
+36073	New York	Orleans	rural	60.9
+36075	New York	Oswego	rural	61.8
+36077	New York	Otsego	rural	70.6
+36079	New York	Putnam	rural	20.5
+36081	New York	Queens	rural	0
+36083	New York	Rensselaer	rural	30.5
+36085	New York	Richmond	rural	0
+36087	New York	Rockland	rural	0.7
+36089	New York	St. Lawrence	rural	62
+36091	New York	Saratoga	rural	30
+36093	New York	Schenectady	rural	8.2
+36095	New York	Schoharie	rural	82.8
+36097	New York	Schuyler	rural	81.2
+36099	New York	Seneca	rural	58.7
+36101	New York	Steuben	rural	60.4
+36103	New York	Suffolk	rural	2.6
+36105	New York	Sullivan	rural	74.2
+36107	New York	Tioga	rural	65.7
+36109	New York	Tompkins	rural	43.3
+36111	New York	Ulster	rural	46
+36113	New York	Warren	rural	33.9
+36115	New York	Washington	rural	67.9
+36117	New York	Wayne	rural	60.7
+36119	New York	Westchester	rural	3.3
+36121	New York	Wyoming	rural	64.1
+36123	New York	Yates	rural	71.2
+37001	North Carolina	Alamance	rural	28.6
+37003	North Carolina	Alexander	rural	72.8
+37005	North Carolina	Alleghany	rural	100
+37007	North Carolina	Anson	rural	78.5
+37009	North Carolina	Ashe	rural	84.9
+37011	North Carolina	Avery	rural	88.8
+37013	North Carolina	Beaufort	rural	65.6
+37015	North Carolina	Bertie	rural	83.2
+37017	North Carolina	Bladen	rural	91.2
+37019	North Carolina	Brunswick	rural	43
+37021	North Carolina	Buncombe	rural	24.1
+37023	North Carolina	Burke	rural	42.7
+37025	North Carolina	Cabarrus	rural	19.3
+37027	North Carolina	Caldwell	rural	34.4
+37029	North Carolina	Camden	rural	99.5
+37031	North Carolina	Carteret	rural	32.6
+37033	North Carolina	Caswell	rural	99.2
+37035	North Carolina	Catawba	rural	30.3
+37037	North Carolina	Chatham	rural	65.9
+37039	North Carolina	Cherokee	rural	100
+37041	North Carolina	Chowan	rural	67.6
+37043	North Carolina	Clay	rural	100
+37045	North Carolina	Cleveland	rural	55.8
+37047	North Carolina	Columbus	rural	80.6
+37049	North Carolina	Craven	rural	27.7
+37051	North Carolina	Cumberland	rural	13.4
+37053	North Carolina	Currituck	rural	98.3
+37055	North Carolina	Dare	rural	29
+37057	North Carolina	Davidson	rural	47.4
+37059	North Carolina	Davie	rural	70.3
+37061	North Carolina	Duplin	rural	86.5
+37063	North Carolina	Durham	rural	5.6
+37065	North Carolina	Edgecombe	rural	45.3
+37067	North Carolina	Forsyth	rural	7.3
+37069	North Carolina	Franklin	rural	85.3
+37071	North Carolina	Gaston	rural	19.6
+37073	North Carolina	Gates	rural	100
+37075	North Carolina	Graham	rural	100
+37077	North Carolina	Granville	rural	54.7
+37079	North Carolina	Greene	rural	100
+37081	North Carolina	Guilford	rural	12.7
+37083	North Carolina	Halifax	rural	54.7
+37085	North Carolina	Harnett	rural	55.9
+37087	North Carolina	Haywood	rural	55.4
+37089	North Carolina	Henderson	rural	33.3
+37091	North Carolina	Hertford	rural	68.6
+37093	North Carolina	Hoke	rural	43.2
+37095	North Carolina	Hyde	rural	100
+37097	North Carolina	Iredell	rural	37.9
+37099	North Carolina	Jackson	rural	73.1
+37101	North Carolina	Johnston	rural	52
+37103	North Carolina	Jones	rural	100
+37105	North Carolina	Lee	rural	42.8
+37107	North Carolina	Lenoir	rural	45
+37109	North Carolina	Lincoln	rural	54.6
+37111	North Carolina	McDowell	rural	70.3
+37113	North Carolina	Macon	rural	80
+37115	North Carolina	Madison	rural	90.6
+37117	North Carolina	Martin	rural	78.1
+37119	North Carolina	Mecklenburg	rural	1.1
+37121	North Carolina	Mitchell	rural	82.6
+37123	North Carolina	Montgomery	rural	76.8
+37125	North Carolina	Moore	rural	50.7
+37127	North Carolina	Nash	rural	47.6
+37129	North Carolina	New Hanover	rural	2.2
+37131	North Carolina	Northampton	rural	89.4
+37133	North Carolina	Onslow	rural	26.3
+37135	North Carolina	Orange	rural	28.5
+37137	North Carolina	Pamlico	rural	100
+37139	North Carolina	Pasquotank	rural	41.3
+37141	North Carolina	Pender	rural	68.8
+37143	North Carolina	Perquimans	rural	100
+37145	North Carolina	Person	rural	75.5
+37147	North Carolina	Pitt	rural	25.4
+37149	North Carolina	Polk	rural	92.3
+37151	North Carolina	Randolph	rural	56.2
+37153	North Carolina	Richmond	rural	45.5
+37155	North Carolina	Robeson	rural	62.6
+37157	North Carolina	Rockingham	rural	61.9
+37159	North Carolina	Rowan	rural	38.8
+37161	North Carolina	Rutherford	rural	61
+37163	North Carolina	Sampson	rural	85
+37165	North Carolina	Scotland	rural	48.4
+37167	North Carolina	Stanly	rural	67.7
+37169	North Carolina	Stokes	rural	75.7
+37171	North Carolina	Surry	rural	68.8
+37173	North Carolina	Swain	rural	100
+37175	North Carolina	Transylvania	rural	59.6
+37177	North Carolina	Tyrrell	rural	100
+37179	North Carolina	Union	rural	27.3
+37181	North Carolina	Vance	rural	54.1
+37183	North Carolina	Wake	rural	6.1
+37185	North Carolina	Warren	rural	100
+37187	North Carolina	Washington	rural	67.8
+37189	North Carolina	Watauga	rural	55.4
+37191	North Carolina	Wayne	rural	46.4
+37193	North Carolina	Wilkes	rural	72.8
+37195	North Carolina	Wilson	rural	38.7
+37197	North Carolina	Yadkin	rural	84.7
+37199	North Carolina	Yancey	rural	100
+38001	North Dakota	Adams	rural	100
+38003	North Dakota	Barnes	rural	39.6
+38005	North Dakota	Benson	rural	100
+38007	North Dakota	Billings	rural	100
+38009	North Dakota	Bottineau	rural	100
+38011	North Dakota	Bowman	rural	100
+38013	North Dakota	Burke	rural	100
+38015	North Dakota	Burleigh	rural	18.5
+38017	North Dakota	Cass	rural	10.4
+38019	North Dakota	Cavalier	rural	100
+38021	North Dakota	Dickey	rural	100
+38023	North Dakota	Divide	rural	100
+38025	North Dakota	Dunn	rural	100
+38027	North Dakota	Eddy	rural	100
+38029	North Dakota	Emmons	rural	100
+38031	North Dakota	Foster	rural	100
+38033	North Dakota	Golden Valley	rural	100
+38035	North Dakota	Grand Forks	rural	16.8
+38037	North Dakota	Grant	rural	100
+38039	North Dakota	Griggs	rural	100
+38041	North Dakota	Hettinger	rural	100
+38043	North Dakota	Kidder	rural	100
+38045	North Dakota	LaMoure	rural	100
+38047	North Dakota	Logan	rural	100
+38049	North Dakota	McHenry	rural	100
+38051	North Dakota	McIntosh	rural	100
+38053	North Dakota	McKenzie	rural	100
+38055	North Dakota	McLean	rural	100
+38057	North Dakota	Mercer	rural	65
+38059	North Dakota	Morton	rural	31.9
+38061	North Dakota	Mountrail	rural	100
+38063	North Dakota	Nelson	rural	100
+38065	North Dakota	Oliver	rural	100
+38067	North Dakota	Pembina	rural	100
+38069	North Dakota	Pierce	rural	35.2
+38071	North Dakota	Ramsey	rural	35
+38073	North Dakota	Ransom	rural	100
+38075	North Dakota	Renville	rural	100
+38077	North Dakota	Richland	rural	52
+38079	North Dakota	Rolette	rural	100
+38081	North Dakota	Sargent	rural	100
+38083	North Dakota	Sheridan	rural	100
+38085	North Dakota	Sioux	rural	100
+38087	North Dakota	Slope	rural	100
+38089	North Dakota	Stark	rural	27.3
+38091	North Dakota	Steele	rural	100
+38093	North Dakota	Stutsman	rural	27.6
+38095	North Dakota	Towner	rural	100
+38097	North Dakota	Traill	rural	100
+38099	North Dakota	Walsh	rural	62.1
+38101	North Dakota	Ward	rural	21.9
+38103	North Dakota	Wells	rural	100
+38105	North Dakota	Williams	rural	32.5
+39001	Ohio	Adams	rural	89
+39003	Ohio	Allen	rural	25.9
+39005	Ohio	Ashland	rural	61.9
+39007	Ohio	Ashtabula	rural	46.4
+39009	Ohio	Athens	rural	43.2
+39011	Ohio	Auglaize	rural	39.1
+39013	Ohio	Belmont	rural	54.7
+39015	Ohio	Brown	rural	76.6
+39017	Ohio	Butler	rural	9.3
+39019	Ohio	Carroll	rural	71
+39021	Ohio	Champaign	rural	70.8
+39023	Ohio	Clark	rural	23.6
+39025	Ohio	Clermont	rural	22.7
+39027	Ohio	Clinton	rural	54.6
+39029	Ohio	Columbiana	rural	43.9
+39031	Ohio	Coshocton	rural	61.5
+39033	Ohio	Crawford	rural	35.3
+39035	Ohio	Cuyahoga	rural	0.6
+39037	Ohio	Darke	rural	66.3
+39039	Ohio	Defiance	rural	43.9
+39041	Ohio	Delaware	rural	19.3
+39043	Ohio	Erie	rural	26.5
+39045	Ohio	Fairfield	rural	34.7
+39047	Ohio	Fayette	rural	47.8
+39049	Ohio	Franklin	rural	1.4
+39051	Ohio	Fulton	rural	56.2
+39053	Ohio	Gallia	rural	81.4
+39055	Ohio	Geauga	rural	64
+39057	Ohio	Greene	rural	14.9
+39059	Ohio	Guernsey	rural	61.4
+39061	Ohio	Hamilton	rural	2.2
+39063	Ohio	Hancock	rural	31.1
+39065	Ohio	Hardin	rural	55.4
+39067	Ohio	Harrison	rural	84.1
+39069	Ohio	Henry	rural	69.1
+39071	Ohio	Highland	rural	73
+39073	Ohio	Hocking	rural	70.8
+39075	Ohio	Holmes	rural	93
+39077	Ohio	Huron	rural	50.3
+39079	Ohio	Jackson	rural	64.6
+39081	Ohio	Jefferson	rural	39
+39083	Ohio	Knox	rural	55.7
+39085	Ohio	Lake	rural	6.5
+39087	Ohio	Lawrence	rural	45.9
+39089	Ohio	Licking	rural	35.5
+39091	Ohio	Logan	rural	56.9
+39093	Ohio	Lorain	rural	11.7
+39095	Ohio	Lucas	rural	4.7
+39097	Ohio	Madison	rural	48.5
+39099	Ohio	Mahoning	rural	15.2
+39101	Ohio	Marion	rural	30.3
+39103	Ohio	Medina	rural	29.8
+39105	Ohio	Meigs	rural	81.3
+39107	Ohio	Mercer	rural	61.4
+39109	Ohio	Miami	rural	30.8
+39111	Ohio	Monroe	rural	97.7
+39113	Ohio	Montgomery	rural	4.3
+39115	Ohio	Morgan	rural	81.5
+39117	Ohio	Morrow	rural	88.8
+39119	Ohio	Muskingum	rural	47
+39121	Ohio	Noble	rural	62.5
+39123	Ohio	Ottawa	rural	49.4
+39125	Ohio	Paulding	rural	81.9
+39127	Ohio	Perry	rural	75.2
+39129	Ohio	Pickaway	rural	49.9
+39131	Ohio	Pike	rural	74.2
+39133	Ohio	Portage	rural	32.8
+39135	Ohio	Preble	rural	69.2
+39137	Ohio	Putnam	rural	84.7
+39139	Ohio	Richland	rural	32.1
+39141	Ohio	Ross	rural	58.7
+39143	Ohio	Sandusky	rural	44.1
+39145	Ohio	Scioto	rural	54.3
+39147	Ohio	Seneca	rural	47.5
+39149	Ohio	Shelby	rural	51.1
+39151	Ohio	Stark	rural	13.5
+39153	Ohio	Summit	rural	3.9
+39155	Ohio	Trumbull	rural	27.3
+39157	Ohio	Tuscarawas	rural	41.6
+39159	Ohio	Union	rural	50
+39161	Ohio	Van Wert	rural	50.7
+39163	Ohio	Vinton	rural	100
+39165	Ohio	Warren	rural	17.3
+39167	Ohio	Washington	rural	56.6
+39169	Ohio	Wayne	rural	51
+39171	Ohio	Williams	rural	63.6
+39173	Ohio	Wood	rural	29.5
+39175	Ohio	Wyandot	rural	57.4
+40001	Oklahoma	Adair	rural	83.3
+40003	Oklahoma	Alfalfa	rural	100
+40005	Oklahoma	Atoka	rural	100
+40007	Oklahoma	Beaver	rural	100
+40009	Oklahoma	Beckham	rural	32.7
+40011	Oklahoma	Blaine	rural	57.4
+40013	Oklahoma	Bryan	rural	61.3
+40015	Oklahoma	Caddo	rural	80
+40017	Oklahoma	Canadian	rural	22.5
+40019	Oklahoma	Carter	rural	56.1
+40021	Oklahoma	Cherokee	rural	60
+40023	Oklahoma	Choctaw	rural	66.9
+40025	Oklahoma	Cimarron	rural	100
+40027	Oklahoma	Cleveland	rural	16.9
+40029	Oklahoma	Coal	rural	100
+40031	Oklahoma	Comanche	rural	21.8
+40033	Oklahoma	Cotton	rural	59.5
+40035	Oklahoma	Craig	rural	60.1
+40037	Oklahoma	Creek	rural	53.9
+40039	Oklahoma	Custer	rural	30.3
+40041	Oklahoma	Delaware	rural	81.1
+40043	Oklahoma	Dewey	rural	100
+40045	Oklahoma	Ellis	rural	100
+40047	Oklahoma	Garfield	rural	21.4
+40049	Oklahoma	Garvin	rural	68.7
+40051	Oklahoma	Grady	rural	63.9
+40053	Oklahoma	Grant	rural	100
+40055	Oklahoma	Greer	rural	52.7
+40057	Oklahoma	Harmon	rural	100
+40059	Oklahoma	Harper	rural	100
+40061	Oklahoma	Haskell	rural	77.7
+40063	Oklahoma	Hughes	rural	58.8
+40065	Oklahoma	Jackson	rural	24.8
+40067	Oklahoma	Jefferson	rural	100
+40069	Oklahoma	Johnston	rural	100
+40071	Oklahoma	Kay	rural	24.5
+40073	Oklahoma	Kingfisher	rural	72.4
+40075	Oklahoma	Kiowa	rural	61.7
+40077	Oklahoma	Latimer	rural	73.3
+40079	Oklahoma	Le Flore	rural	72.9
+40081	Oklahoma	Lincoln	rural	92.1
+40083	Oklahoma	Logan	rural	55.4
+40085	Oklahoma	Love	rural	100
+40087	Oklahoma	McClain	rural	77.2
+40089	Oklahoma	McCurtain	rural	69.3
+40091	Oklahoma	McIntosh	rural	87.3
+40093	Oklahoma	Major	rural	100
+40095	Oklahoma	Marshall	rural	72.1
+40097	Oklahoma	Mayes	rural	77.4
+40099	Oklahoma	Murray	rural	45.7
+40101	Oklahoma	Muskogee	rural	41.1
+40103	Oklahoma	Noble	rural	56.3
+40105	Oklahoma	Nowata	rural	57.9
+40107	Oklahoma	Okfuskee	rural	74.1
+40109	Oklahoma	Oklahoma	rural	6.3
+40111	Oklahoma	Okmulgee	rural	48.6
+40113	Oklahoma	Osage	rural	59.5
+40115	Oklahoma	Ottawa	rural	49.3
+40117	Oklahoma	Pawnee	rural	81.1
+40119	Oklahoma	Payne	rural	33.7
+40121	Oklahoma	Pittsburg	rural	51.9
+40123	Oklahoma	Pontotoc	rural	53.6
+40125	Oklahoma	Pottawatomie	rural	50.7
+40127	Oklahoma	Pushmataha	rural	100
+40129	Oklahoma	Roger Mills	rural	100
+40131	Oklahoma	Rogers	rural	50.3
+40133	Oklahoma	Seminole	rural	64.7
+40135	Oklahoma	Sequoyah	rural	66.6
+40137	Oklahoma	Stephens	rural	43.3
+40139	Oklahoma	Texas	rural	45.1
+40141	Oklahoma	Tillman	rural	51.2
+40143	Oklahoma	Tulsa	rural	4.8
+40145	Oklahoma	Wagoner	rural	37.5
+40147	Oklahoma	Washington	rural	23.9
+40149	Oklahoma	Washita	rural	75.3
+40151	Oklahoma	Woods	rural	36.7
+40153	Oklahoma	Woodward	rural	43.5
+41001	Oregon	Baker	rural	41
+41003	Oregon	Benton	rural	18.8
+41005	Oregon	Clackamas	rural	18.1
+41007	Oregon	Clatsop	rural	39
+41009	Oregon	Columbia	rural	43.6
+41011	Oregon	Coos	rural	38.4
+41013	Oregon	Crook	rural	48
+41015	Oregon	Curry	rural	38.7
+41017	Oregon	Deschutes	rural	27.6
+41019	Oregon	Douglas	rural	41.2
+41021	Oregon	Gilliam	rural	100
+41023	Oregon	Grant	rural	100
+41025	Oregon	Harney	rural	44.3
+41027	Oregon	Hood River	rural	52.2
+41029	Oregon	Jackson	rural	20.1
+41031	Oregon	Jefferson	rural	63.1
+41033	Oregon	Josephine	rural	45
+41035	Oregon	Klamath	rural	37.6
+41037	Oregon	Lake	rural	63.3
+41039	Oregon	Lane	rural	17.5
+41041	Oregon	Lincoln	rural	37.6
+41043	Oregon	Linn	rural	31.6
+41045	Oregon	Malheur	rural	48.4
+41047	Oregon	Marion	rural	13.1
+41049	Oregon	Morrow	rural	45.9
+41051	Oregon	Multnomah	rural	1.3
+41053	Oregon	Polk	rural	19.9
+41055	Oregon	Sherman	rural	100
+41057	Oregon	Tillamook	rural	69.6
+41059	Oregon	Umatilla	rural	29.1
+41061	Oregon	Union	rural	42.1
+41063	Oregon	Wallowa	rural	100
+41065	Oregon	Wasco	rural	33.1
+41067	Oregon	Washington	rural	5.6
+41069	Oregon	Wheeler	rural	100
+41071	Oregon	Yamhill	rural	22.6
+42001	Pennsylvania	Adams	rural	53.7
+42003	Pennsylvania	Allegheny	rural	2.5
+42005	Pennsylvania	Armstrong	rural	67.5
+42007	Pennsylvania	Beaver	rural	25.8
+42009	Pennsylvania	Bedford	rural	83.8
+42011	Pennsylvania	Berks	rural	23.7
+42013	Pennsylvania	Blair	rural	23.4
+42015	Pennsylvania	Bradford	rural	72.2
+42017	Pennsylvania	Bucks	rural	8.8
+42019	Pennsylvania	Butler	rural	42
+42021	Pennsylvania	Cambria	rural	32
+42023	Pennsylvania	Cameron	rural	47.4
+42025	Pennsylvania	Carbon	rural	47.2
+42027	Pennsylvania	Centre	rural	32.2
+42029	Pennsylvania	Chester	rural	13.3
+42031	Pennsylvania	Clarion	rural	76.6
+42033	Pennsylvania	Clearfield	rural	53.8
+42035	Pennsylvania	Clinton	rural	45.7
+42037	Pennsylvania	Columbia	rural	40.9
+42039	Pennsylvania	Crawford	rural	63.7
+42041	Pennsylvania	Cumberland	rural	22.2
+42043	Pennsylvania	Dauphin	rural	13.3
+42045	Pennsylvania	Delaware	rural	0.5
+42047	Pennsylvania	Elk	rural	55.7
+42049	Pennsylvania	Erie	rural	20
+42051	Pennsylvania	Fayette	rural	47.9
+42053	Pennsylvania	Forest	rural	100
+42055	Pennsylvania	Franklin	rural	40.4
+42057	Pennsylvania	Fulton	rural	100
+42059	Pennsylvania	Greene	rural	66.8
+42061	Pennsylvania	Huntingdon	rural	68.7
+42063	Pennsylvania	Indiana	rural	60.1
+42065	Pennsylvania	Jefferson	rural	61.5
+42067	Pennsylvania	Juniata	rural	82.3
+42069	Pennsylvania	Lackawanna	rural	16.3
+42071	Pennsylvania	Lancaster	rural	21.3
+42073	Pennsylvania	Lawrence	rural	40.3
+42075	Pennsylvania	Lebanon	rural	26.6
+42077	Pennsylvania	Lehigh	rural	7.9
+42079	Pennsylvania	Luzerne	rural	20
+42081	Pennsylvania	Lycoming	rural	36.3
+42083	Pennsylvania	McKean	rural	63.5
+42085	Pennsylvania	Mercer	rural	44.5
+42087	Pennsylvania	Mifflin	rural	50.5
+42089	Pennsylvania	Monroe	rural	38.4
+42091	Pennsylvania	Montgomery	rural	2.9
+42093	Pennsylvania	Montour	rural	53.8
+42095	Pennsylvania	Northampton	rural	12.8
+42097	Pennsylvania	Northumberland	rural	34.9
+42099	Pennsylvania	Perry	rural	88.5
+42101	Pennsylvania	Philadelphia	rural	0
+42103	Pennsylvania	Pike	rural	70.8
+42105	Pennsylvania	Potter	rural	100
+42107	Pennsylvania	Schuylkill	rural	36.5
+42109	Pennsylvania	Snyder	rural	66.8
+42111	Pennsylvania	Somerset	rural	70.8
+42113	Pennsylvania	Sullivan	rural	100
+42115	Pennsylvania	Susquehanna	rural	84
+42117	Pennsylvania	Tioga	rural	90.1
+42119	Pennsylvania	Union	rural	42.8
+42121	Pennsylvania	Venango	rural	54.8
+42123	Pennsylvania	Warren	rural	55
+42125	Pennsylvania	Washington	rural	30.8
+42127	Pennsylvania	Wayne	rural	88.1
+42129	Pennsylvania	Westmoreland	rural	25.4
+42131	Pennsylvania	Wyoming	rural	83.5
+42133	Pennsylvania	York	rural	24.7
+44001	Rhode Island	Bristol	rural	1.1
+44003	Rhode Island	Kent	rural	8
+44005	Rhode Island	Newport	rural	12.1
+44007	Rhode Island	Providence	rural	5.5
+44009	Rhode Island	Washington	rural	30.8
+45001	South Carolina	Abbeville	rural	78.6
+45003	South Carolina	Aiken	rural	37
+45005	South Carolina	Allendale	rural	68.3
+45007	South Carolina	Anderson	rural	37.9
+45009	South Carolina	Bamberg	rural	54.5
+45011	South Carolina	Barnwell	rural	82.5
+45013	South Carolina	Beaufort	rural	19.6
+45015	South Carolina	Berkeley	rural	29
+45017	South Carolina	Calhoun	rural	100
+45019	South Carolina	Charleston	rural	10.9
+45021	South Carolina	Cherokee	rural	61
+45023	South Carolina	Chester	rural	71.8
+45025	South Carolina	Chesterfield	rural	73.8
+45027	South Carolina	Clarendon	rural	85.7
+45029	South Carolina	Colleton	rural	75.6
+45031	South Carolina	Darlington	rural	57.8
+45033	South Carolina	Dillon	rural	69.5
+45035	South Carolina	Dorchester	rural	19.5
+45037	South Carolina	Edgefield	rural	73.3
+45039	South Carolina	Fairfield	rural	78.3
+45041	South Carolina	Florence	rural	38.5
+45043	South Carolina	Georgetown	rural	41.5
+45045	South Carolina	Greenville	rural	12.6
+45047	South Carolina	Greenwood	rural	39.8
+45049	South Carolina	Hampton	rural	78.5
+45051	South Carolina	Horry	rural	30.4
+45053	South Carolina	Jasper	rural	66.7
+45055	South Carolina	Kershaw	rural	57.7
+45057	South Carolina	Lancaster	rural	50
+45059	South Carolina	Laurens	rural	64.2
+45061	South Carolina	Lee	rural	72
+45063	South Carolina	Lexington	rural	25.3
+45065	South Carolina	McCormick	rural	100
+45067	South Carolina	Marion	rural	60.8
+45069	South Carolina	Marlboro	rural	55
+45071	South Carolina	Newberry	rural	67.8
+45073	South Carolina	Oconee	rural	64.9
+45075	South Carolina	Orangeburg	rural	63.8
+45077	South Carolina	Pickens	rural	35.8
+45079	South Carolina	Richland	rural	9.1
+45081	South Carolina	Saluda	rural	80.5
+45083	South Carolina	Spartanburg	rural	27.4
+45085	South Carolina	Sumter	rural	32
+45087	South Carolina	Union	rural	65.4
+45089	South Carolina	Williamsburg	rural	81.9
+45091	South Carolina	York	rural	23
+46003	South Dakota	Aurora	rural	100
+46005	South Dakota	Beadle	rural	27.4
+46007	South Dakota	Bennett	rural	100
+46009	South Dakota	Bon Homme	rural	100
+46011	South Dakota	Brookings	rural	29.7
+46013	South Dakota	Brown	rural	28.9
+46015	South Dakota	Brule	rural	100
+46017	South Dakota	Buffalo	rural	100
+46019	South Dakota	Butte	rural	48.2
+46021	South Dakota	Campbell	rural	100
+46023	South Dakota	Charles Mix	rural	100
+46025	South Dakota	Clark	rural	100
+46027	South Dakota	Clay	rural	24.3
+46029	South Dakota	Codington	rural	22.5
+46031	South Dakota	Corson	rural	100
+46033	South Dakota	Custer	rural	100
+46035	South Dakota	Davison	rural	23.3
+46037	South Dakota	Day	rural	100
+46039	South Dakota	Deuel	rural	100
+46041	South Dakota	Dewey	rural	64.1
+46043	South Dakota	Douglas	rural	100
+46045	South Dakota	Edmunds	rural	100
+46047	South Dakota	Fall River	rural	50
+46049	South Dakota	Faulk	rural	100
+46051	South Dakota	Grant	rural	55.4
+46053	South Dakota	Gregory	rural	100
+46055	South Dakota	Haakon	rural	100
+46057	South Dakota	Hamlin	rural	100
+46059	South Dakota	Hand	rural	100
+46061	South Dakota	Hanson	rural	100
+46063	South Dakota	Harding	rural	100
+46065	South Dakota	Hughes	rural	25.3
+46067	South Dakota	Hutchinson	rural	100
+46069	South Dakota	Hyde	rural	100
+46071	South Dakota	Jackson	rural	100
+46073	South Dakota	Jerauld	rural	100
+46075	South Dakota	Jones	rural	100
+46077	South Dakota	Kingsbury	rural	100
+46079	South Dakota	Lake	rural	44.9
+46081	South Dakota	Lawrence	rural	36.9
+46083	South Dakota	Lincoln	rural	29.3
+46085	South Dakota	Lyman	rural	100
+46087	South Dakota	McCook	rural	100
+46089	South Dakota	McPherson	rural	100
+46091	South Dakota	Marshall	rural	100
+46093	South Dakota	Meade	rural	38
+46095	South Dakota	Mellette	rural	100
+46097	South Dakota	Miner	rural	100
+46099	South Dakota	Minnehaha	rural	13.6
+46101	South Dakota	Moody	rural	100
+46103	South Dakota	Pennington	rural	20.8
+46105	South Dakota	Perkins	rural	100
+46107	South Dakota	Potter	rural	100
+46109	South Dakota	Roberts	rural	100
+46111	South Dakota	Sanborn	rural	100
+46113	South Dakota	Shannon	rural	80
+46115	South Dakota	Spink	rural	100
+46117	South Dakota	Stanley	rural	42.5
+46119	South Dakota	Sully	rural	100
+46121	South Dakota	Todd	rural	100
+46123	South Dakota	Tripp	rural	48.5
+46125	South Dakota	Turner	rural	100
+46127	South Dakota	Union	rural	61.4
+46129	South Dakota	Walworth	rural	36.4
+46135	South Dakota	Yankton	rural	34.8
+46137	South Dakota	Ziebach	rural	73.5
+47001	Tennessee	Anderson	rural	34.7
+47003	Tennessee	Bedford	rural	55.6
+47005	Tennessee	Benton	rural	78.5
+47007	Tennessee	Bledsoe	rural	100
+47009	Tennessee	Blount	rural	32.6
+47011	Tennessee	Bradley	rural	33
+47013	Tennessee	Campbell	rural	55
+47015	Tennessee	Cannon	rural	81.1
+47017	Tennessee	Carroll	rural	83.1
+47019	Tennessee	Carter	rural	41
+47021	Tennessee	Cheatham	rural	83
+47023	Tennessee	Chester	rural	65.2
+47025	Tennessee	Claiborne	rural	71.6
+47027	Tennessee	Clay	rural	100
+47029	Tennessee	Cocke	rural	67.5
+47031	Tennessee	Coffee	rural	47.3
+47033	Tennessee	Crockett	rural	67.4
+47035	Tennessee	Cumberland	rural	60.9
+47037	Tennessee	Davidson	rural	3.4
+47039	Tennessee	Decatur	rural	100
+47041	Tennessee	DeKalb	rural	78.4
+47043	Tennessee	Dickson	rural	67.8
+47045	Tennessee	Dyer	rural	42.9
+47047	Tennessee	Fayette	rural	79
+47049	Tennessee	Fentress	rural	100
+47051	Tennessee	Franklin	rural	69.6
+47053	Tennessee	Gibson	rural	47.7
+47055	Tennessee	Giles	rural	73.7
+47057	Tennessee	Grainger	rural	100
+47059	Tennessee	Greene	rural	65.2
+47061	Tennessee	Grundy	rural	100
+47063	Tennessee	Hamblen	rural	21.9
+47065	Tennessee	Hamilton	rural	10
+47067	Tennessee	Hancock	rural	100
+47069	Tennessee	Hardeman	rural	80.2
+47071	Tennessee	Hardin	rural	67.9
+47073	Tennessee	Hawkins	rural	57.9
+47075	Tennessee	Haywood	rural	47.4
+47077	Tennessee	Henderson	rural	76.4
+47079	Tennessee	Henry	rural	66.8
+47081	Tennessee	Hickman	rural	100
+47083	Tennessee	Houston	rural	100
+47085	Tennessee	Humphreys	rural	82.5
+47087	Tennessee	Jackson	rural	100
+47089	Tennessee	Jefferson	rural	59.5
+47091	Tennessee	Johnson	rural	85.2
+47093	Tennessee	Knox	rural	10.9
+47095	Tennessee	Lake	rural	100
+47097	Tennessee	Lauderdale	rural	58.7
+47099	Tennessee	Lawrence	rural	75.9
+47101	Tennessee	Lewis	rural	70.2
+47103	Tennessee	Lincoln	rural	72.5
+47105	Tennessee	Loudon	rural	40.6
+47107	Tennessee	McMinn	rural	60.3
+47109	Tennessee	McNairy	rural	85.3
+47111	Tennessee	Macon	rural	79.6
+47113	Tennessee	Madison	rural	25.8
+47115	Tennessee	Marion	rural	77
+47117	Tennessee	Marshall	rural	65.8
+47119	Tennessee	Maury	rural	41.6
+47121	Tennessee	Meigs	rural	100
+47123	Tennessee	Monroe	rural	76.1
+47125	Tennessee	Montgomery	rural	19.7
+47127	Tennessee	Moore	rural	99.9
+47129	Tennessee	Morgan	rural	99.9
+47131	Tennessee	Obion	rural	61.6
+47133	Tennessee	Overton	rural	84.2
+47135	Tennessee	Perry	rural	100
+47137	Tennessee	Pickett	rural	100
+47139	Tennessee	Polk	rural	100
+47141	Tennessee	Putnam	rural	35
+47143	Tennessee	Rhea	rural	68
+47145	Tennessee	Roane	rural	51
+47147	Tennessee	Robertson	rural	53.2
+47149	Tennessee	Rutherford	rural	17
+47151	Tennessee	Scott	rural	80.6
+47153	Tennessee	Sequatchie	rural	73.8
+47155	Tennessee	Sevier	rural	56.6
+47157	Tennessee	Shelby	rural	2.8
+47159	Tennessee	Smith	rural	82.9
+47161	Tennessee	Stewart	rural	100
+47163	Tennessee	Sullivan	rural	25.6
+47165	Tennessee	Sumner	rural	27.9
+47167	Tennessee	Tipton	rural	55.1
+47169	Tennessee	Trousdale	rural	100
+47171	Tennessee	Unicoi	rural	44.7
+47173	Tennessee	Union	rural	100
+47175	Tennessee	Van Buren	rural	100
+47177	Tennessee	Warren	rural	61.4
+47179	Tennessee	Washington	rural	26.4
+47181	Tennessee	Wayne	rural	100
+47183	Tennessee	Weakley	rural	67
+47185	Tennessee	White	rural	78.2
+47187	Tennessee	Williamson	rural	19.4
+47189	Tennessee	Wilson	rural	38.5
+48001	Texas	Anderson	rural	67.1
+48003	Texas	Andrews	rural	16.5
+48005	Texas	Angelina	rural	43.1
+48007	Texas	Aransas	rural	27.3
+48009	Texas	Archer	rural	89
+48011	Texas	Armstrong	rural	100
+48013	Texas	Atascosa	rural	60.7
+48015	Texas	Austin	rural	66.3
+48017	Texas	Bailey	rural	28.8
+48019	Texas	Bandera	rural	100
+48021	Texas	Bastrop	rural	63.9
+48023	Texas	Baylor	rural	100
+48025	Texas	Bee	rural	43
+48027	Texas	Bell	rural	15.2
+48029	Texas	Bexar	rural	4.5
+48031	Texas	Blanco	rural	100
+48033	Texas	Borden	rural	100
+48035	Texas	Bosque	rural	81.2
+48037	Texas	Bowie	rural	35.4
+48039	Texas	Brazoria	rural	22.5
+48041	Texas	Brazos	rural	12.1
+48043	Texas	Brewster	rural	34.9
+48045	Texas	Briscoe	rural	100
+48047	Texas	Brooks	rural	31.8
+48049	Texas	Brown	rural	40.4
+48051	Texas	Burleson	rural	76.7
+48053	Texas	Burnet	rural	55.7
+48055	Texas	Caldwell	rural	42.3
+48057	Texas	Calhoun	rural	44.7
+48059	Texas	Callahan	rural	72.2
+48061	Texas	Cameron	rural	8.4
+48063	Texas	Camp	rural	61.5
+48065	Texas	Carson	rural	95.2
+48067	Texas	Cass	rural	74
+48069	Texas	Castro	rural	45.8
+48071	Texas	Chambers	rural	45.7
+48073	Texas	Cherokee	rural	63
+48075	Texas	Childress	rural	33.1
+48077	Texas	Clay	rural	74.6
+48079	Texas	Cochran	rural	100
+48081	Texas	Coke	rural	100
+48083	Texas	Coleman	rural	51.5
+48085	Texas	Collin	rural	5.2
+48087	Texas	Collingsworth	rural	100
+48089	Texas	Colorado	rural	62.6
+48091	Texas	Comal	rural	46.1
+48093	Texas	Comanche	rural	71.5
+48095	Texas	Concho	rural	100
+48097	Texas	Cooke	rural	59
+48099	Texas	Coryell	rural	19.4
+48101	Texas	Cottle	rural	100
+48103	Texas	Crane	rural	10.7
+48105	Texas	Crockett	rural	22.7
+48107	Texas	Crosby	rural	100
+48109	Texas	Culberson	rural	100
+48111	Texas	Dallam	rural	23.5
+48113	Texas	Dallas	rural	0.7
+48115	Texas	Dawson	rural	16.3
+48117	Texas	Deaf Smith	rural	17.7
+48119	Texas	Delta	rural	100
+48121	Texas	Denton	rural	6.9
+48123	Texas	DeWitt	rural	49.6
+48125	Texas	Dickens	rural	100
+48127	Texas	Dimmit	rural	39.5
+48129	Texas	Donley	rural	100
+48131	Texas	Duval	rural	67
+48133	Texas	Eastland	rural	60.3
+48135	Texas	Ector	rural	9.5
+48137	Texas	Edwards	rural	100
+48139	Texas	Ellis	rural	32
+48141	Texas	El Paso	rural	2.2
+48143	Texas	Erath	rural	46.3
+48145	Texas	Falls	rural	67.4
+48147	Texas	Fannin	rural	70.5
+48149	Texas	Fayette	rural	67.1
+48151	Texas	Fisher	rural	100
+48153	Texas	Floyd	rural	53.3
+48155	Texas	Foard	rural	100
+48157	Texas	Fort Bend	rural	5.5
+48159	Texas	Franklin	rural	69.1
+48161	Texas	Freestone	rural	66.5
+48163	Texas	Frio	rural	22.2
+48165	Texas	Gaines	rural	63
+48167	Texas	Galveston	rural	6.1
+48169	Texas	Garza	rural	22.3
+48171	Texas	Gillespie	rural	53.7
+48173	Texas	Glasscock	rural	100
+48175	Texas	Goliad	rural	100
+48177	Texas	Gonzales	rural	65.3
+48179	Texas	Gray	rural	19.4
+48181	Texas	Grayson	rural	43.2
+48183	Texas	Gregg	rural	13.4
+48185	Texas	Grimes	rural	68.9
+48187	Texas	Guadalupe	rural	26.2
+48189	Texas	Hale	rural	23.1
+48191	Texas	Hall	rural	100
+48193	Texas	Hamilton	rural	64.4
+48195	Texas	Hansford	rural	40.3
+48197	Texas	Hardeman	rural	100
+48199	Texas	Hardin	rural	51.5
+48201	Texas	Harris	rural	1.2
+48203	Texas	Harrison	rural	56.1
+48205	Texas	Hartley	rural	57.3
+48207	Texas	Haskell	rural	47.6
+48209	Texas	Hays	rural	31.7
+48211	Texas	Hemphill	rural	27
+48213	Texas	Henderson	rural	60.1
+48215	Texas	Hidalgo	rural	5.1
+48217	Texas	Hill	rural	76.3
+48219	Texas	Hockley	rural	39.8
+48221	Texas	Hood	rural	32.8
+48223	Texas	Hopkins	rural	59.6
+48225	Texas	Houston	rural	73.5
+48227	Texas	Howard	rural	20.1
+48229	Texas	Hudspeth	rural	100
+48231	Texas	Hunt	rural	56.6
+48233	Texas	Hutchinson	rural	22.6
+48235	Texas	Irion	rural	100
+48237	Texas	Jack	rural	53.2
+48239	Texas	Jackson	rural	61.8
+48241	Texas	Jasper	rural	78.2
+48243	Texas	Jeff Davis	rural	100
+48245	Texas	Jefferson	rural	8.4
+48247	Texas	Jim Hogg	rural	17.4
+48249	Texas	Jim Wells	rural	40.1
+48251	Texas	Johnson	rural	37.9
+48253	Texas	Jones	rural	85.1
+48255	Texas	Karnes	rural	38.4
+48257	Texas	Kaufman	rural	48.8
+48259	Texas	Kendall	rural	58.2
+48261	Texas	Kenedy	rural	100
+48263	Texas	Kent	rural	100
+48265	Texas	Kerr	rural	41.1
+48267	Texas	Kimble	rural	44.3
+48269	Texas	King	rural	100
+48271	Texas	Kinney	rural	20.5
+48273	Texas	Kleberg	rural	18.9
+48275	Texas	Knox	rural	100
+48277	Texas	Lamar	rural	47.1
+48279	Texas	Lamb	rural	57.7
+48281	Texas	Lampasas	rural	68.3
+48283	Texas	La Salle	rural	46.4
+48285	Texas	Lavaca	rural	81.3
+48287	Texas	Lee	rural	69.7
+48289	Texas	Leon	rural	100
+48291	Texas	Liberty	rural	63.2
+48293	Texas	Limestone	rural	53.6
+48295	Texas	Lipscomb	rural	100
+48297	Texas	Live Oak	rural	100
+48299	Texas	Llano	rural	45.2
+48301	Texas	Loving	rural	100
+48303	Texas	Lubbock	rural	11.3
+48305	Texas	Lynn	rural	56.7
+48307	Texas	McCulloch	rural	35.3
+48309	Texas	McLennan	rural	23.4
+48311	Texas	McMullen	rural	100
+48313	Texas	Madison	rural	67.4
+48315	Texas	Marion	rural	100
+48317	Texas	Martin	rural	100
+48319	Texas	Mason	rural	100
+48321	Texas	Matagorda	rural	36.4
+48323	Texas	Maverick	rural	9.3
+48325	Texas	Medina	rural	61.6
+48327	Texas	Menard	rural	100
+48329	Texas	Midland	rural	12.3
+48331	Texas	Milam	rural	56.2
+48333	Texas	Mills	rural	100
+48335	Texas	Mitchell	rural	36.7
+48337	Texas	Montague	rural	58.9
+48339	Texas	Montgomery	rural	22.7
+48341	Texas	Moore	rural	16.8
+48343	Texas	Morris	rural	78.4
+48345	Texas	Motley	rural	100
+48347	Texas	Nacogdoches	rural	46.5
+48349	Texas	Navarro	rural	52.7
+48351	Texas	Newton	rural	100
+48353	Texas	Nolan	rural	32.7
+48355	Texas	Nueces	rural	6.4
+48357	Texas	Ochiltree	rural	13.9
+48359	Texas	Oldham	rural	100
+48361	Texas	Orange	rural	35.2
+48363	Texas	Palo Pinto	rural	50.2
+48365	Texas	Panola	rural	72.7
+48367	Texas	Parker	rural	56.1
+48369	Texas	Parmer	rural	60
+48371	Texas	Pecos	rural	39.8
+48373	Texas	Polk	rural	77.6
+48375	Texas	Potter	rural	9
+48377	Texas	Presidio	rural	40.5
+48379	Texas	Rains	rural	93.2
+48381	Texas	Randall	rural	14.4
+48383	Texas	Reagan	rural	13.3
+48385	Texas	Real	rural	100
+48387	Texas	Red River	rural	75.7
+48389	Texas	Reeves	rural	14.5
+48391	Texas	Refugio	rural	60.7
+48393	Texas	Roberts	rural	100
+48395	Texas	Robertson	rural	73.9
+48397	Texas	Rockwall	rural	16
+48399	Texas	Runnels	rural	40.8
+48401	Texas	Rusk	rural	65.9
+48403	Texas	Sabine	rural	100
+48405	Texas	San Augustine	rural	100
+48407	Texas	San Jacinto	rural	100
+48409	Texas	San Patricio	rural	19.7
+48411	Texas	San Saba	rural	49.4
+48413	Texas	Schleicher	rural	100
+48415	Texas	Scurry	rural	31.7
+48417	Texas	Shackelford	rural	100
+48419	Texas	Shelby	rural	79.4
+48421	Texas	Sherman	rural	100
+48423	Texas	Smith	rural	31.6
+48425	Texas	Somervell	rural	100
+48427	Texas	Starr	rural	23.7
+48429	Texas	Stephens	rural	39.4
+48431	Texas	Sterling	rural	100
+48433	Texas	Stonewall	rural	100
+48435	Texas	Sutton	rural	18.8
+48437	Texas	Swisher	rural	37.6
+48439	Texas	Tarrant	rural	1.3
+48441	Texas	Taylor	rural	16
+48443	Texas	Terrell	rural	100
+48445	Texas	Terry	rural	24.7
+48447	Texas	Throckmorton	rural	100
+48449	Texas	Titus	rural	50.6
+48451	Texas	Tom Green	rural	15.6
+48453	Texas	Travis	rural	5.5
+48455	Texas	Trinity	rural	77.2
+48457	Texas	Tyler	rural	78.1
+48459	Texas	Upshur	rural	79.3
+48461	Texas	Upton	rural	100
+48463	Texas	Uvalde	rural	31.4
+48465	Texas	Val Verde	rural	10.2
+48467	Texas	Van Zandt	rural	75
+48469	Texas	Victoria	rural	26.6
+48471	Texas	Walker	rural	45.6
+48473	Texas	Waller	rural	61.6
+48475	Texas	Ward	rural	27.9
+48477	Texas	Washington	rural	53.5
+48479	Texas	Webb	rural	2.6
+48481	Texas	Wharton	rural	49.9
+48483	Texas	Wheeler	rural	100
+48485	Texas	Wichita	rural	10.7
+48487	Texas	Wilbarger	rural	21.9
+48489	Texas	Willacy	rural	34.6
+48491	Texas	Williamson	rural	12
+48493	Texas	Wilson	rural	85.9
+48495	Texas	Winkler	rural	18.1
+48497	Texas	Wise	rural	72.1
+48499	Texas	Wood	rural	74.2
+48501	Texas	Yoakum	rural	37.3
+48503	Texas	Young	rural	33.6
+48505	Texas	Zapata	rural	23.5
+48507	Texas	Zavala	rural	38
+49001	Utah	Beaver	rural	56.5
+49003	Utah	Box Elder	rural	31.1
+49005	Utah	Cache	rural	15.7
+49007	Utah	Carbon	rural	33.7
+49009	Utah	Daggett	rural	100
+49011	Utah	Davis	rural	0.9
+49013	Utah	Duchesne	rural	68.2
+49015	Utah	Emery	rural	73.6
+49017	Utah	Garfield	rural	100
+49019	Utah	Grand	rural	25.4
+49021	Utah	Iron	rural	22.6
+49023	Utah	Juab	rural	43.5
+49025	Utah	Kane	rural	54.9
+49027	Utah	Millard	rural	73.9
+49029	Utah	Morgan	rural	62.8
+49031	Utah	Piute	rural	100
+49033	Utah	Rich	rural	100
+49035	Utah	Salt Lake	rural	0.9
+49037	Utah	San Juan	rural	77.9
+49039	Utah	Sanpete	rural	40.9
+49041	Utah	Sevier	rural	64.7
+49043	Utah	Summit	rural	39.2
+49045	Utah	Tooele	rural	17.7
+49047	Utah	Uintah	rural	46.8
+49049	Utah	Utah	rural	3.3
+49051	Utah	Wasatch	rural	26.9
+49053	Utah	Washington	rural	15.2
+49055	Utah	Wayne	rural	100
+49057	Utah	Weber	rural	5.8
+50001	Vermont	Addison	rural	78.4
+50003	Vermont	Bennington	rural	64.5
+50005	Vermont	Caledonia	rural	74.4
+50007	Vermont	Chittenden	rural	26
+50009	Vermont	Essex	rural	100
+50011	Vermont	Franklin	rural	71.7
+50013	Vermont	Grand Isle	rural	100
+50015	Vermont	Lamoille	rural	100
+50017	Vermont	Orange	rural	97.2
+50019	Vermont	Orleans	rural	85.3
+50021	Vermont	Rutland	rural	61
+50023	Vermont	Washington	rural	52.8
+50025	Vermont	Windham	rural	68.2
+50027	Vermont	Windsor	rural	75.6
+51001	Virginia	Accomack	rural	100
+51003	Virginia	Albemarle	rural	45
+51005	Virginia	Alleghany	rural	52.4
+51007	Virginia	Amelia	rural	100
+51009	Virginia	Amherst	rural	63.7
+51011	Virginia	Appomattox	rural	100
+51013	Virginia	Arlington	rural	0
+51015	Virginia	Augusta	rural	66.4
+51017	Virginia	Bath	rural	100
+51019	Virginia	Bedford	rural	78.4
+51021	Virginia	Bland	rural	100
+51023	Virginia	Botetourt	rural	64.1
+51025	Virginia	Brunswick	rural	75.5
+51027	Virginia	Buchanan	rural	100
+51029	Virginia	Buckingham	rural	100
+51031	Virginia	Campbell	rural	61.1
+51033	Virginia	Caroline	rural	78.4
+51035	Virginia	Carroll	rural	97.1
+51036	Virginia	Charles City	rural	100
+51037	Virginia	Charlotte	rural	100
+51041	Virginia	Chesterfield	rural	5.9
+51043	Virginia	Clarke	rural	69.5
+51045	Virginia	Craig	rural	100
+51047	Virginia	Culpeper	rural	61.9
+51049	Virginia	Cumberland	rural	96
+51051	Virginia	Dickenson	rural	100
+51053	Virginia	Dinwiddie	rural	71.2
+51057	Virginia	Essex	rural	77.3
+51059	Virginia	Fairfax	rural	1.4
+51061	Virginia	Fauquier	rural	57.5
+51063	Virginia	Floyd	rural	100
+51065	Virginia	Fluvanna	rural	62.9
+51067	Virginia	Franklin	rural	89.2
+51069	Virginia	Frederick	rural	44.8
+51071	Virginia	Giles	rural	66.3
+51073	Virginia	Gloucester	rural	64.6
+51075	Virginia	Goochland	rural	97
+51077	Virginia	Grayson	rural	99.9
+51079	Virginia	Greene	rural	51.2
+51081	Virginia	Greensville	rural	87
+51083	Virginia	Halifax	rural	77.1
+51085	Virginia	Hanover	rural	39.1
+51087	Virginia	Henrico	rural	4.3
+51089	Virginia	Henry	rural	60.7
+51091	Virginia	Highland	rural	100
+51093	Virginia	Isle of Wight	rural	57.4
+51095	Virginia	James City	rural	15.9
+51097	Virginia	King and Queen	rural	100
+51099	Virginia	King George	rural	73.2
+51101	Virginia	King William	rural	83.2
+51103	Virginia	Lancaster	rural	100
+51105	Virginia	Lee	rural	99.6
+51107	Virginia	Loudoun	rural	12.6
+51109	Virginia	Louisa	rural	100
+51111	Virginia	Lunenburg	rural	100
+51113	Virginia	Madison	rural	100
+51115	Virginia	Mathews	rural	100
+51117	Virginia	Mecklenburg	rural	77.8
+51119	Virginia	Middlesex	rural	100
+51121	Virginia	Montgomery	rural	24.9
+51125	Virginia	Nelson	rural	100
+51127	Virginia	New Kent	rural	100
+51131	Virginia	Northampton	rural	100
+51133	Virginia	Northumberland	rural	100
+51135	Virginia	Nottoway	rural	52.3
+51137	Virginia	Orange	rural	57.8
+51139	Virginia	Page	rural	80.2
+51141	Virginia	Patrick	rural	100
+51143	Virginia	Pittsylvania	rural	85.6
+51145	Virginia	Powhatan	rural	99.7
+51147	Virginia	Prince Edward	rural	63.2
+51149	Virginia	Prince George	rural	53.4
+51153	Virginia	Prince William	rural	4.2
+51155	Virginia	Pulaski	rural	46.9
+51157	Virginia	Rappahannock	rural	100
+51159	Virginia	Richmond	rural	100
+51161	Virginia	Roanoke	rural	18.5
+51163	Virginia	Rockbridge	rural	91.6
+51165	Virginia	Rockingham	rural	59.3
+51167	Virginia	Russell	rural	88.2
+51169	Virginia	Scott	rural	82.1
+51171	Virginia	Shenandoah	rural	66.6
+51173	Virginia	Smyth	rural	75.3
+51175	Virginia	Southampton	rural	98
+51177	Virginia	Spotsylvania	rural	32.3
+51179	Virginia	Stafford	rural	19.8
+51181	Virginia	Surry	rural	100
+51183	Virginia	Sussex	rural	100
+51185	Virginia	Tazewell	rural	51.9
+51187	Virginia	Warren	rural	50.4
+51191	Virginia	Washington	rural	71.7
+51193	Virginia	Westmoreland	rural	78.8
+51195	Virginia	Wise	rural	56.7
+51197	Virginia	Wythe	rural	75.3
+51199	Virginia	York	rural	6.1
+51510	Virginia	Alexandria City	rural	0
+51515	Virginia	Bedford City	rural	2.1
+51520	Virginia	Bristol City	rural	0
+51530	Virginia	Buena Vista City	rural	3.9
+51540	Virginia	Charlottesville City	rural	0
+51550	Virginia	Chesapeake City	rural	7.6
+51570	Virginia	Colonial Heights City	rural	0
+51580	Virginia	Covington City	rural	0
+51590	Virginia	Danville City	rural	4.5
+51595	Virginia	Emporia City	rural	6.3
+51600	Virginia	Fairfax City	rural	0
+51610	Virginia	Falls Church City	rural	0
+51620	Virginia	Franklin City	rural	3.3
+51630	Virginia	Fredericksburg City	rural	1.2
+51640	Virginia	Galax City	rural	13.7
+51650	Virginia	Hampton City	rural	0.2
+51660	Virginia	Harrisonburg City	rural	0
+51670	Virginia	Hopewell City	rural	0
+51678	Virginia	Lexington City	rural	0
+51680	Virginia	Lynchburg City	rural	2.7
+51683	Virginia	Manassas City	rural	0
+51685	Virginia	Manassas Park City	rural	0
+51690	Virginia	Martinsville City	rural	0
+51700	Virginia	Newport News City	rural	0
+51710	Virginia	Norfolk City	rural	0
+51720	Virginia	Norton City	rural	2.6
+51730	Virginia	Petersburg City	rural	2.1
+51735	Virginia	Poquoson City	rural	6.5
+51740	Virginia	Portsmouth City	rural	0
+51750	Virginia	Radford City	rural	2.9
+51760	Virginia	Richmond City	rural	0
+51770	Virginia	Roanoke City	rural	0
+51775	Virginia	Salem City	rural	0
+51790	Virginia	Staunton City	rural	3.7
+51800	Virginia	Suffolk City	rural	21.6
+51810	Virginia	Virginia Beach City	rural	1.5
+51820	Virginia	Waynesboro City	rural	2.5
+51830	Virginia	Williamsburg City	rural	0
+51840	Virginia	Winchester City	rural	0
+53001	Washington	Adams	rural	40.2
+53003	Washington	Asotin	rural	6.7
+53005	Washington	Benton	rural	10.6
+53007	Washington	Chelan	rural	27.2
+53009	Washington	Clallam	rural	35.5
+53011	Washington	Clark	rural	13.8
+53013	Washington	Columbia	rural	34.3
+53015	Washington	Cowlitz	rural	28.7
+53017	Washington	Douglas	rural	26.6
+53019	Washington	Ferry	rural	100
+53021	Washington	Franklin	rural	13.3
+53023	Washington	Garfield	rural	100
+53025	Washington	Grant	rural	38.7
+53027	Washington	Grays Harbor	rural	40.1
+53029	Washington	Island	rural	46.9
+53031	Washington	Jefferson	rural	57.5
+53033	Washington	King	rural	3.2
+53035	Washington	Kitsap	rural	16.7
+53037	Washington	Kittitas	rural	40.1
+53039	Washington	Klickitat	rural	60.2
+53041	Washington	Lewis	rural	60.7
+53043	Washington	Lincoln	rural	100
+53045	Washington	Mason	rural	63.7
+53047	Washington	Okanogan	rural	80
+53049	Washington	Pacific	rural	64.8
+53051	Washington	Pend Oreille	rural	83.1
+53053	Washington	Pierce	rural	6.6
+53055	Washington	San Juan	rural	100
+53057	Washington	Skagit	rural	29
+53059	Washington	Skamania	rural	100
+53061	Washington	Snohomish	rural	10.8
+53063	Washington	Spokane	rural	13.7
+53065	Washington	Stevens	rural	79.2
+53067	Washington	Thurston	rural	21
+53069	Washington	Wahkiakum	rural	100
+53071	Washington	Walla Walla	rural	17.1
+53073	Washington	Whatcom	rural	25.9
+53075	Washington	Whitman	rural	27.5
+53077	Washington	Yakima	rural	23.5
+54001	West Virginia	Barbour	rural	83.7
+54003	West Virginia	Berkeley	rural	31.6
+54005	West Virginia	Boone	rural	81.4
+54007	West Virginia	Braxton	rural	100
+54009	West Virginia	Brooke	rural	42.1
+54011	West Virginia	Cabell	rural	21.6
+54013	West Virginia	Calhoun	rural	100
+54015	West Virginia	Clay	rural	100
+54017	West Virginia	Doddridge	rural	100
+54019	West Virginia	Fayette	rural	57.9
+54021	West Virginia	Gilmer	rural	60.7
+54023	West Virginia	Grant	rural	78.7
+54025	West Virginia	Greenbrier	rural	69.7
+54027	West Virginia	Hampshire	rural	100
+54029	West Virginia	Hancock	rural	30.3
+54031	West Virginia	Hardy	rural	80.5
+54033	West Virginia	Harrison	rural	37
+54035	West Virginia	Jackson	rural	71.4
+54037	West Virginia	Jefferson	rural	48.4
+54039	West Virginia	Kanawha	rural	25.2
+54041	West Virginia	Lewis	rural	69
+54043	West Virginia	Lincoln	rural	100
+54045	West Virginia	Logan	rural	70.8
+54047	West Virginia	McDowell	rural	86
+54049	West Virginia	Marion	rural	41.5
+54051	West Virginia	Marshall	rural	49
+54053	West Virginia	Mason	rural	65
+54055	West Virginia	Mercer	rural	40.7
+54057	West Virginia	Mineral	rural	64.6
+54059	West Virginia	Mingo	rural	89.7
+54061	West Virginia	Monongalia	rural	26.9
+54063	West Virginia	Monroe	rural	88.5
+54065	West Virginia	Morgan	rural	100
+54067	West Virginia	Nicholas	rural	87.2
+54069	West Virginia	Ohio	rural	23.1
+54071	West Virginia	Pendleton	rural	100
+54073	West Virginia	Pleasants	rural	54.5
+54075	West Virginia	Pocahontas	rural	100
+54077	West Virginia	Preston	rural	90.5
+54079	West Virginia	Putnam	rural	35.8
+54081	West Virginia	Raleigh	rural	39.3
+54083	West Virginia	Randolph	rural	62.4
+54085	West Virginia	Ritchie	rural	100
+54087	West Virginia	Roane	rural	80
+54089	West Virginia	Summers	rural	72.1
+54091	West Virginia	Taylor	rural	59.7
+54093	West Virginia	Tucker	rural	100
+54095	West Virginia	Tyler	rural	91.1
+54097	West Virginia	Upshur	rural	64
+54099	West Virginia	Wayne	rural	65.2
+54101	West Virginia	Webster	rural	100
+54103	West Virginia	Wetzel	rural	53.9
+54105	West Virginia	Wirt	rural	100
+54107	West Virginia	Wood	rural	26.8
+54109	West Virginia	Wyoming	rural	88.9
+55001	Wisconsin	Adams	rural	100
+55003	Wisconsin	Ashland	rural	54.9
+55005	Wisconsin	Barron	rural	65.9
+55007	Wisconsin	Bayfield	rural	100
+55009	Wisconsin	Brown	rural	14.5
+55011	Wisconsin	Buffalo	rural	100
+55013	Wisconsin	Burnett	rural	100
+55015	Wisconsin	Calumet	rural	27.5
+55017	Wisconsin	Chippewa	rural	46.1
+55019	Wisconsin	Clark	rural	91.7
+55021	Wisconsin	Columbia	rural	60.7
+55023	Wisconsin	Crawford	rural	62.4
+55025	Wisconsin	Dane	rural	12.3
+55027	Wisconsin	Dodge	rural	48.6
+55029	Wisconsin	Door	rural	69
+55031	Wisconsin	Douglas	rural	38.8
+55033	Wisconsin	Dunn	rural	59.3
+55035	Wisconsin	Eau Claire	rural	23
+55037	Wisconsin	Florence	rural	100
+55039	Wisconsin	Fond du Lac	rural	35.1
+55041	Wisconsin	Forest	rural	100
+55043	Wisconsin	Grant	rural	64.5
+55045	Wisconsin	Green	rural	60.2
+55047	Wisconsin	Green Lake	rural	74.3
+55049	Wisconsin	Iowa	rural	79.9
+55051	Wisconsin	Iron	rural	67.8
+55053	Wisconsin	Jackson	rural	72.2
+55055	Wisconsin	Jefferson	rural	34.1
+55057	Wisconsin	Juneau	rural	83.5
+55059	Wisconsin	Kenosha	rural	10.7
+55061	Wisconsin	Kewaunee	rural	72.3
+55063	Wisconsin	La Crosse	rural	16.8
+55065	Wisconsin	Lafayette	rural	100
+55067	Wisconsin	Langlade	rural	59.2
+55069	Wisconsin	Lincoln	rural	54
+55071	Wisconsin	Manitowoc	rural	38.9
+55073	Wisconsin	Marathon	rural	43
+55075	Wisconsin	Marinette	rural	61.8
+55077	Wisconsin	Marquette	rural	100
+55078	Wisconsin	Menominee	rural	100
+55079	Wisconsin	Milwaukee	rural	0.2
+55081	Wisconsin	Monroe	rural	57.7
+55083	Wisconsin	Oconto	rural	81.3
+55085	Wisconsin	Oneida	rural	75
+55087	Wisconsin	Outagamie	rural	24.7
+55089	Wisconsin	Ozaukee	rural	24.9
+55091	Wisconsin	Pepin	rural	100
+55093	Wisconsin	Pierce	rural	53.6
+55095	Wisconsin	Polk	rural	85.5
+55097	Wisconsin	Portage	rural	36
+55099	Wisconsin	Price	rural	100
+55101	Wisconsin	Racine	rural	12.3
+55103	Wisconsin	Richland	rural	72.1
+55105	Wisconsin	Rock	rural	20.4
+55107	Wisconsin	Rusk	rural	76.6
+55109	Wisconsin	St. Croix	rural	53.2
+55111	Wisconsin	Sauk	rural	46.1
+55113	Wisconsin	Sawyer	rural	84.2
+55115	Wisconsin	Shawano	rural	74.4
+55117	Wisconsin	Sheboygan	rural	28.3
+55119	Wisconsin	Taylor	rural	80.4
+55121	Wisconsin	Trempealeau	rural	89.6
+55123	Wisconsin	Vernon	rural	85.7
+55125	Wisconsin	Vilas	rural	100
+55127	Wisconsin	Walworth	rural	34.2
+55129	Wisconsin	Washburn	rural	83.2
+55131	Wisconsin	Washington	rural	30.8
+55133	Wisconsin	Waukesha	rural	9.9
+55135	Wisconsin	Waupaca	rural	64.9
+55137	Wisconsin	Waushara	rural	89.5
+55139	Wisconsin	Winnebago	rural	13.4
+55141	Wisconsin	Wood	rural	36.7
+56001	Wyoming	Albany	rural	11.9
+56003	Wyoming	Big Horn	rural	100
+56005	Wyoming	Campbell	rural	29.1
+56007	Wyoming	Carbon	rural	41.6
+56009	Wyoming	Converse	rural	55.4
+56011	Wyoming	Crook	rural	100
+56013	Wyoming	Fremont	rural	51.4
+56015	Wyoming	Goshen	rural	46
+56017	Wyoming	Hot Springs	rural	31.5
+56019	Wyoming	Johnson	rural	49
+56021	Wyoming	Laramie	rural	19.8
+56023	Wyoming	Lincoln	rural	82.7
+56025	Wyoming	Natrona	rural	14.4
+56027	Wyoming	Niobrara	rural	100
+56029	Wyoming	Park	rural	44.2
+56031	Wyoming	Platte	rural	58.6
+56033	Wyoming	Sheridan	rural	35.5
+56035	Wyoming	Sublette	rural	100
+56037	Wyoming	Sweetwater	rural	10.9
+56039	Wyoming	Teton	rural	46.4
+56041	Wyoming	Uinta	rural	43.1
+56043	Wyoming	Washakie	rural	36
+56045	Wyoming	Weston	rural	54.5

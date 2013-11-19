@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	lt_18
+1001	Alabama	Autauga	lt_18	26
+1003	Alabama	Baldwin	lt_18	22.8
+1005	Alabama	Barbour	lt_18	21.8
+1007	Alabama	Bibb	lt_18	22.1
+1009	Alabama	Blount	lt_18	24.4
+1011	Alabama	Bullock	lt_18	21.9
+1013	Alabama	Butler	lt_18	23.6
+1015	Alabama	Calhoun	lt_18	22.8
+1017	Alabama	Chambers	lt_18	22.3
+1019	Alabama	Cherokee	lt_18	21.1
+1021	Alabama	Chilton	lt_18	24.8
+1023	Alabama	Choctaw	lt_18	22.1
+1025	Alabama	Clarke	lt_18	24.2
+1027	Alabama	Clay	lt_18	22.3
+1029	Alabama	Cleburne	lt_18	23.4
+1031	Alabama	Coffee	lt_18	24.1
+1033	Alabama	Colbert	lt_18	21.9
+1035	Alabama	Conecuh	lt_18	22.4
+1037	Alabama	Coosa	lt_18	21
+1039	Alabama	Covington	lt_18	22.4
+1041	Alabama	Crenshaw	lt_18	23.6
+1043	Alabama	Cullman	lt_18	22.9
+1045	Alabama	Dale	lt_18	24.5
+1047	Alabama	Dallas	lt_18	26.3
+1049	Alabama	DeKalb	lt_18	25.6
+1051	Alabama	Elmore	lt_18	23
+1053	Alabama	Escambia	lt_18	22.7
+1055	Alabama	Etowah	lt_18	22.9
+1057	Alabama	Fayette	lt_18	21.7
+1059	Alabama	Franklin	lt_18	24.6
+1061	Alabama	Geneva	lt_18	22
+1063	Alabama	Greene	lt_18	24
+1065	Alabama	Hale	lt_18	24.1
+1067	Alabama	Henry	lt_18	22.6
+1069	Alabama	Houston	lt_18	24.3
+1071	Alabama	Jackson	lt_18	22.1
+1073	Alabama	Jefferson	lt_18	23.5
+1075	Alabama	Lamar	lt_18	22.1
+1077	Alabama	Lauderdale	lt_18	21.3
+1079	Alabama	Lawrence	lt_18	22.8
+1081	Alabama	Lee	lt_18	21.8
+1083	Alabama	Limestone	lt_18	23.6
+1085	Alabama	Lowndes	lt_18	24.2
+1087	Alabama	Macon	lt_18	19.5
+1089	Alabama	Madison	lt_18	23.3
+1091	Alabama	Marengo	lt_18	24
+1093	Alabama	Marion	lt_18	21.5
+1095	Alabama	Marshall	lt_18	25
+1097	Alabama	Mobile	lt_18	24.9
+1099	Alabama	Monroe	lt_18	24.9
+1101	Alabama	Montgomery	lt_18	24.8
+1103	Alabama	Morgan	lt_18	23.8
+1105	Alabama	Perry	lt_18	24.2
+1107	Alabama	Pickens	lt_18	23
+1109	Alabama	Pike	lt_18	20
+1111	Alabama	Randolph	lt_18	23.5
+1113	Alabama	Russell	lt_18	24.8
+1115	Alabama	St. Clair	lt_18	23.6
+1117	Alabama	Shelby	lt_18	25.3
+1119	Alabama	Sumter	lt_18	21.3
+1121	Alabama	Talladega	lt_18	23.1
+1123	Alabama	Tallapoosa	lt_18	22
+1125	Alabama	Tuscaloosa	lt_18	21.2
+1127	Alabama	Walker	lt_18	22.3
+1129	Alabama	Washington	lt_18	24.8
+1131	Alabama	Wilcox	lt_18	26.3
+1133	Alabama	Winston	lt_18	21.6
+2013	Alaska	Aleutians East	lt_18	11.5
+2016	Alaska	Aleutians West	lt_18	13.9
+2020	Alaska	Anchorage	lt_18	25.7
+2050	Alaska	Bethel	lt_18	36.2
+2060	Alaska	Bristol Bay	lt_18	22.9
+2068	Alaska	Denali	lt_18	21.9
+2070	Alaska	Dillingham	lt_18	32.7
+2090	Alaska	Fairbanks North Star	lt_18	25.3
+2100	Alaska	Haines	lt_18	19.9
+2110	Alaska	Juneau	lt_18	23.2
+2122	Alaska	Kenai Peninsula	lt_18	23.4
+2130	Alaska	Ketchikan Gateway	lt_18	23.8
+2150	Alaska	Kodiak Island	lt_18	28.3
+2164	Alaska	Lake and Peninsula	lt_18	29.2
+2170	Alaska	Matanuska-Susitna	lt_18	28.4
+2180	Alaska	Nome	lt_18	34.1
+2185	Alaska	North Slope	lt_18	24.2
+2188	Alaska	Northwest Arctic	lt_18	35.1
+2201	Alaska	Prince of Wales-Outer Ketchikan	lt_18	25.2
+2220	Alaska	Sitka	lt_18	23
+2232	Alaska	Skagway-Hoonah-Angoon	lt_18	18.4
+2240	Alaska	Southeast Fairbanks	lt_18	26.2
+2261	Alaska	Valdez-Cordova	lt_18	24.3
+2270	Alaska	Wade Hampton	lt_18	40.9
+2280	Alaska	Wrangell-Petersburg	lt_18	22.4
+2282	Alaska	Yakutat	lt_18	23.5
+2290	Alaska	Yukon-Koyukuk	lt_18	27.7
+4001	Arizona	Apache	lt_18	31.5
+4003	Arizona	Cochise	lt_18	22.7
+4005	Arizona	Coconino	lt_18	23.1
+4007	Arizona	Gila	lt_18	21.4
+4009	Arizona	Graham	lt_18	28
+4011	Arizona	Greenlee	lt_18	28.8
+4012	Arizona	La Paz	lt_18	18.2
+4013	Arizona	Maricopa	lt_18	26
+4015	Arizona	Mohave	lt_18	20.2
+4017	Arizona	Navajo	lt_18	29.2
+4019	Arizona	Pima	lt_18	22.7
+4021	Arizona	Pinal	lt_18	26.1
+4023	Arizona	Santa Cruz	lt_18	30
+4025	Arizona	Yavapai	lt_18	18.5
+4027	Arizona	Yuma	lt_18	27.6
+5001	Arkansas	Arkansas	lt_18	23.4
+5003	Arkansas	Ashley	lt_18	24.3
+5005	Arkansas	Baxter	lt_18	17.9
+5007	Arkansas	Benton	lt_18	27.6
+5009	Arkansas	Boone	lt_18	22.7
+5011	Arkansas	Bradley	lt_18	23.6
+5013	Arkansas	Calhoun	lt_18	19.5
+5015	Arkansas	Carroll	lt_18	22.3
+5017	Arkansas	Chicot	lt_18	22.9
+5019	Arkansas	Clark	lt_18	19.1
+5021	Arkansas	Clay	lt_18	21.8
+5023	Arkansas	Cleburne	lt_18	19.9
+5025	Arkansas	Cleveland	lt_18	24.5
+5027	Arkansas	Columbia	lt_18	22.6
+5029	Arkansas	Conway	lt_18	23.7
+5031	Arkansas	Craighead	lt_18	24.9
+5033	Arkansas	Crawford	lt_18	25.8
+5035	Arkansas	Crittenden	lt_18	28.5
+5037	Arkansas	Cross	lt_18	24.6
+5039	Arkansas	Dallas	lt_18	23.3
+5041	Arkansas	Desha	lt_18	25.9
+5043	Arkansas	Drew	lt_18	23.4
+5045	Arkansas	Faulkner	lt_18	24.1
+5047	Arkansas	Franklin	lt_18	24.1
+5049	Arkansas	Fulton	lt_18	20.8
+5051	Arkansas	Garland	lt_18	20.8
+5053	Arkansas	Grant	lt_18	24
+5055	Arkansas	Greene	lt_18	25.1
+5057	Arkansas	Hempstead	lt_18	26.1
+5059	Arkansas	Hot Spring	lt_18	23.1
+5061	Arkansas	Howard	lt_18	26.5
+5063	Arkansas	Independence	lt_18	24
+5065	Arkansas	Izard	lt_18	18.8
+5067	Arkansas	Jackson	lt_18	20.7
+5069	Arkansas	Jefferson	lt_18	23.6
+5071	Arkansas	Johnson	lt_18	24.8
+5073	Arkansas	Lafayette	lt_18	22.7
+5075	Arkansas	Lawrence	lt_18	22.6
+5077	Arkansas	Lee	lt_18	20.3
+5079	Arkansas	Lincoln	lt_18	19
+5081	Arkansas	Little River	lt_18	23.6
+5083	Arkansas	Logan	lt_18	24.3
+5085	Arkansas	Lonoke	lt_18	27.1
+5087	Arkansas	Madison	lt_18	23.8
+5089	Arkansas	Marion	lt_18	17.6
+5091	Arkansas	Miller	lt_18	24.2
+5093	Arkansas	Mississippi	lt_18	27.9
+5095	Arkansas	Monroe	lt_18	22.5
+5097	Arkansas	Montgomery	lt_18	20.2
+5099	Arkansas	Nevada	lt_18	23.6
+5101	Arkansas	Newton	lt_18	20.4
+5103	Arkansas	Ouachita	lt_18	23.2
+5105	Arkansas	Perry	lt_18	22.5
+5107	Arkansas	Phillips	lt_18	27.8
+5109	Arkansas	Pike	lt_18	24.5
+5111	Arkansas	Poinsett	lt_18	24.2
+5113	Arkansas	Polk	lt_18	23.3
+5115	Arkansas	Pope	lt_18	22.9
+5117	Arkansas	Prairie	lt_18	21
+5119	Arkansas	Pulaski	lt_18	24
+5121	Arkansas	Randolph	lt_18	23
+5123	Arkansas	St. Francis	lt_18	23.5
+5125	Arkansas	Saline	lt_18	24.2
+5127	Arkansas	Scott	lt_18	25.2
+5129	Arkansas	Searcy	lt_18	20.1
+5131	Arkansas	Sebastian	lt_18	25.1
+5133	Arkansas	Sevier	lt_18	29.4
+5135	Arkansas	Sharp	lt_18	21.3
+5137	Arkansas	Stone	lt_18	20.6
+5139	Arkansas	Union	lt_18	23.8
+5141	Arkansas	Van Buren	lt_18	19.9
+5143	Arkansas	Washington	lt_18	25.3
+5145	Arkansas	White	lt_18	23.9
+5147	Arkansas	Woodruff	lt_18	22.5
+5149	Arkansas	Yell	lt_18	26
+6001	California	Alameda	lt_18	22.3
+6003	California	Alpine	lt_18	19.2
+6005	California	Amador	lt_18	16.4
+6007	California	Butte	lt_18	20.5
+6009	California	Calaveras	lt_18	19.1
+6011	California	Colusa	lt_18	29.7
+6013	California	Contra Costa	lt_18	24.4
+6015	California	Del Norte	lt_18	21.2
+6017	California	El Dorado	lt_18	22.2
+6019	California	Fresno	lt_18	29.5
+6021	California	Glenn	lt_18	27.7
+6023	California	Humboldt	lt_18	19.6
+6025	California	Imperial	lt_18	28.8
+6027	California	Inyo	lt_18	21.1
+6029	California	Kern	lt_18	29.9
+6031	California	Kings	lt_18	27.6
+6033	California	Lake	lt_18	20.7
+6035	California	Lassen	lt_18	17.5
+6037	California	Los Angeles	lt_18	24.1
+6039	California	Madera	lt_18	28.2
+6041	California	Marin	lt_18	20.5
+6043	California	Mariposa	lt_18	17.6
+6045	California	Mendocino	lt_18	22.1
+6047	California	Merced	lt_18	31.2
+6049	California	Modoc	lt_18	21.6
+6051	California	Mono	lt_18	21.2
+6053	California	Monterey	lt_18	26.8
+6055	California	Napa	lt_18	22.9
+6057	California	Nevada	lt_18	18.8
+6059	California	Orange	lt_18	24.1
+6061	California	Placer	lt_18	24
+6063	California	Plumas	lt_18	17.7
+6065	California	Riverside	lt_18	27.8
+6067	California	Sacramento	lt_18	25.2
+6069	California	San Benito	lt_18	28.4
+6071	California	San Bernardino	lt_18	28.7
+6073	California	San Diego	lt_18	23.1
+6075	California	San Francisco	lt_18	13.5
+6077	California	San Joaquin	lt_18	28.9
+6079	California	San Luis Obispo	lt_18	18.4
+6081	California	San Mateo	lt_18	22.1
+6083	California	Santa Barbara	lt_18	22.7
+6085	California	Santa Clara	lt_18	23.9
+6087	California	Santa Cruz	lt_18	20.8
+6089	California	Shasta	lt_18	22
+6091	California	Sierra	lt_18	16.4
+6093	California	Siskiyou	lt_18	20.5
+6095	California	Solano	lt_18	24
+6097	California	Sonoma	lt_18	21.7
+6099	California	Stanislaus	lt_18	28.3
+6101	California	Sutter	lt_18	27.1
+6103	California	Tehama	lt_18	24.9
+6105	California	Trinity	lt_18	18
+6107	California	Tulare	lt_18	32.3
+6109	California	Tuolumne	lt_18	17.1
+6111	California	Ventura	lt_18	25.3
+6113	California	Yolo	lt_18	21.9
+6115	California	Yuba	lt_18	28.8
+8001	Colorado	Adams	lt_18	28.4
+8003	Colorado	Alamosa	lt_18	24.2
+8005	Colorado	Arapahoe	lt_18	25.3
+8007	Colorado	Archuleta	lt_18	19.4
+8009	Colorado	Baca	lt_18	21.2
+8011	Colorado	Bent	lt_18	16.4
+8013	Colorado	Boulder	lt_18	20.8
+8014	Colorado	Broomfield	lt_18	24.8
+8015	Colorado	Chaffee	lt_18	16.3
+8017	Colorado	Cheyenne	lt_18	24.5
+8019	Colorado	Clear Creek	lt_18	16.5
+8021	Colorado	Conejos	lt_18	27.9
+8023	Colorado	Costilla	lt_18	19.9
+8025	Colorado	Crowley	lt_18	13.3
+8027	Colorado	Custer	lt_18	15.8
+8029	Colorado	Delta	lt_18	21.6
+8031	Colorado	Denver	lt_18	21.7
+8033	Colorado	Dolores	lt_18	21.9
+8035	Colorado	Douglas	lt_18	29.8
+8037	Colorado	Eagle	lt_18	24.4
+8039	Colorado	Elbert	lt_18	24.3
+8041	Colorado	El Paso	lt_18	25.7
+8043	Colorado	Fremont	lt_18	17.1
+8045	Colorado	Garfield	lt_18	26.9
+8047	Colorado	Gilpin	lt_18	17.4
+8049	Colorado	Grand	lt_18	19.9
+8051	Colorado	Gunnison	lt_18	17.9
+8053	Colorado	Hinsdale	lt_18	20
+8055	Colorado	Huerfano	lt_18	16.9
+8057	Colorado	Jackson	lt_18	17.7
+8059	Colorado	Jefferson	lt_18	21.8
+8061	Colorado	Kiowa	lt_18	22.6
+8063	Colorado	Kit Carson	lt_18	23.2
+8065	Colorado	Lake	lt_18	25.4
+8067	Colorado	La Plata	lt_18	20
+8069	Colorado	Larimer	lt_18	20.9
+8071	Colorado	Las Animas	lt_18	20.2
+8073	Colorado	Lincoln	lt_18	19.7
+8075	Colorado	Logan	lt_18	19.5
+8077	Colorado	Mesa	lt_18	23.4
+8079	Colorado	Mineral	lt_18	14
+8081	Colorado	Moffat	lt_18	26.5
+8083	Colorado	Montezuma	lt_18	22.9
+8085	Colorado	Montrose	lt_18	24.3
+8087	Colorado	Morgan	lt_18	28.1
+8089	Colorado	Otero	lt_18	24.5
+8091	Colorado	Ouray	lt_18	17.8
+8093	Colorado	Park	lt_18	18.1
+8095	Colorado	Phillips	lt_18	24.1
+8097	Colorado	Pitkin	lt_18	17.2
+8099	Colorado	Prowers	lt_18	27.3
+8101	Colorado	Pueblo	lt_18	24.2
+8103	Colorado	Rio Blanco	lt_18	24.9
+8105	Colorado	Rio Grande	lt_18	24.8
+8107	Colorado	Routt	lt_18	20.3
+8109	Colorado	Saguache	lt_18	22.2
+8111	Colorado	San Juan	lt_18	17.3
+8113	Colorado	San Miguel	lt_18	19.2
+8115	Colorado	Sedgwick	lt_18	18.9
+8117	Colorado	Summit	lt_18	17.2
+8119	Colorado	Teller	lt_18	20
+8121	Colorado	Washington	lt_18	22.3
+8123	Colorado	Weld	lt_18	27.5
+8125	Colorado	Yuma	lt_18	26.4
+9001	Connecticut	Fairfield	lt_18	24.4
+9003	Connecticut	Hartford	lt_18	22.4
+9005	Connecticut	Litchfield	lt_18	21
+9007	Connecticut	Middlesex	lt_18	20.7
+9009	Connecticut	New Haven	lt_18	21.9
+9011	Connecticut	New London	lt_18	21.2
+9013	Connecticut	Tolland	lt_18	19.7
+9015	Connecticut	Windham	lt_18	21.8
+10001	Delaware	Kent	lt_18	24.5
+10003	Delaware	New Castle	lt_18	22.8
+10005	Delaware	Sussex	lt_18	20.2
+11001	District of Columbia	District of Columbia	lt_18	17
+12001	Florida	Alachua	lt_18	17.4
+12003	Florida	Baker	lt_18	25.7
+12005	Florida	Bay	lt_18	21.7
+12007	Florida	Bradford	lt_18	19.6
+12009	Florida	Brevard	lt_18	19.4
+12011	Florida	Broward	lt_18	22
+12013	Florida	Calhoun	lt_18	21.5
+12015	Florida	Charlotte	lt_18	13.8
+12017	Florida	Citrus	lt_18	15.5
+12019	Florida	Clay	lt_18	25.6
+12021	Florida	Collier	lt_18	19.2
+12023	Florida	Columbia	lt_18	22.2
+12027	Florida	DeSoto	lt_18	22.4
+12029	Florida	Dixie	lt_18	19.2
+12031	Florida	Duval	lt_18	23.3
+12033	Florida	Escambia	lt_18	21.4
+12035	Florida	Flagler	lt_18	19.4
+12037	Florida	Franklin	lt_18	16.6
+12039	Florida	Gadsden	lt_18	23.9
+12041	Florida	Gilchrist	lt_18	21.2
+12043	Florida	Glades	lt_18	18.9
+12045	Florida	Gulf	lt_18	15.9
+12047	Florida	Hamilton	lt_18	19.5
+12049	Florida	Hardee	lt_18	27.6
+12051	Florida	Hendry	lt_18	27.6
+12053	Florida	Hernando	lt_18	19.5
+12055	Florida	Highlands	lt_18	18.1
+12057	Florida	Hillsborough	lt_18	23.3
+12059	Florida	Holmes	lt_18	21.4
+12061	Florida	Indian River	lt_18	18.6
+12063	Florida	Jackson	lt_18	19.6
+12065	Florida	Jefferson	lt_18	18.5
+12067	Florida	Lafayette	lt_18	19.9
+12069	Florida	Lake	lt_18	20.6
+12071	Florida	Lee	lt_18	19.4
+12073	Florida	Leon	lt_18	18.9
+12075	Florida	Levy	lt_18	20.7
+12077	Florida	Liberty	lt_18	21.2
+12079	Florida	Madison	lt_18	21.5
+12081	Florida	Manatee	lt_18	20.4
+12083	Florida	Marion	lt_18	19
+12085	Florida	Martin	lt_18	17.4
+12086	Florida	Miami-Dade	lt_18	21.4
+12087	Florida	Monroe	lt_18	15.1
+12089	Florida	Nassau	lt_18	21.3
+12091	Florida	Okaloosa	lt_18	22.1
+12093	Florida	Okeechobee	lt_18	24
+12095	Florida	Orange	lt_18	23.4
+12097	Florida	Osceola	lt_18	25.9
+12099	Florida	Palm Beach	lt_18	20.3
+12101	Florida	Pasco	lt_18	20.9
+12103	Florida	Pinellas	lt_18	17.5
+12105	Florida	Polk	lt_18	23.2
+12107	Florida	Putnam	lt_18	22.5
+12109	Florida	St. Johns	lt_18	22.7
+12111	Florida	St. Lucie	lt_18	21.9
+12113	Florida	Santa Rosa	lt_18	23.4
+12115	Florida	Sarasota	lt_18	15.5
+12117	Florida	Seminole	lt_18	22.4
+12119	Florida	Sumter	lt_18	8.7
+12121	Florida	Suwannee	lt_18	22.8
+12123	Florida	Taylor	lt_18	19.5
+12125	Florida	Union	lt_18	19.2
+12127	Florida	Volusia	lt_18	18.6
+12129	Florida	Wakulla	lt_18	21.9
+12131	Florida	Walton	lt_18	20.2
+12133	Florida	Washington	lt_18	20.9
+13001	Georgia	Appling	lt_18	25.2
+13003	Georgia	Atkinson	lt_18	29.5
+13005	Georgia	Bacon	lt_18	25.7
+13007	Georgia	Baker	lt_18	25
+13009	Georgia	Baldwin	lt_18	20.4
+13011	Georgia	Banks	lt_18	24.8
+13013	Georgia	Barrow	lt_18	27.9
+13015	Georgia	Bartow	lt_18	26.2
+13017	Georgia	Ben Hill	lt_18	26.1
+13019	Georgia	Berrien	lt_18	24.9
+13021	Georgia	Bibb	lt_18	25.6
+13023	Georgia	Bleckley	lt_18	22.3
+13025	Georgia	Brantley	lt_18	26.3
+13027	Georgia	Brooks	lt_18	23.5
+13029	Georgia	Bryan	lt_18	29
+13031	Georgia	Bulloch	lt_18	19.7
+13033	Georgia	Burke	lt_18	27.4
+13035	Georgia	Butts	lt_18	22.2
+13037	Georgia	Calhoun	lt_18	19.5
+13039	Georgia	Camden	lt_18	26.2
+13043	Georgia	Candler	lt_18	25.6
+13045	Georgia	Carroll	lt_18	25.1
+13047	Georgia	Catoosa	lt_18	24.5
+13049	Georgia	Charlton	lt_18	19.4
+13051	Georgia	Chatham	lt_18	22.5
+13053	Georgia	Chattahoochee	lt_18	26.1
+13055	Georgia	Chattooga	lt_18	22.3
+13057	Georgia	Cherokee	lt_18	27
+13059	Georgia	Clarke	lt_18	17.3
+13061	Georgia	Clay	lt_18	22.5
+13063	Georgia	Clayton	lt_18	29
+13065	Georgia	Clinch	lt_18	26.3
+13067	Georgia	Cobb	lt_18	25.3
+13069	Georgia	Coffee	lt_18	25.3
+13071	Georgia	Colquitt	lt_18	28
+13073	Georgia	Columbia	lt_18	26.6
+13075	Georgia	Cook	lt_18	26.7
+13077	Georgia	Coweta	lt_18	26.7
+13079	Georgia	Crawford	lt_18	22.6
+13081	Georgia	Crisp	lt_18	25.4
+13083	Georgia	Dade	lt_18	20.9
+13085	Georgia	Dawson	lt_18	21.9
+13087	Georgia	Decatur	lt_18	25.5
+13089	Georgia	DeKalb	lt_18	23.9
+13091	Georgia	Dodge	lt_18	22.8
+13093	Georgia	Dooly	lt_18	20.8
+13095	Georgia	Dougherty	lt_18	25.8
+13097	Georgia	Douglas	lt_18	27.8
+13099	Georgia	Early	lt_18	26.1
+13101	Georgia	Echols	lt_18	28.4
+13103	Georgia	Effingham	lt_18	27.8
+13105	Georgia	Elbert	lt_18	22.8
+13107	Georgia	Emanuel	lt_18	25.6
+13109	Georgia	Evans	lt_18	25.5
+13111	Georgia	Fannin	lt_18	18.5
+13113	Georgia	Fayette	lt_18	25
+13115	Georgia	Floyd	lt_18	24
+13117	Georgia	Forsyth	lt_18	29.9
+13119	Georgia	Franklin	lt_18	22.4
+13121	Georgia	Fulton	lt_18	23.7
+13123	Georgia	Gilmer	lt_18	21.7
+13125	Georgia	Glascock	lt_18	25.8
+13127	Georgia	Glynn	lt_18	23.9
+13129	Georgia	Gordon	lt_18	26.7
+13131	Georgia	Grady	lt_18	25.4
+13133	Georgia	Greene	lt_18	20.3
+13135	Georgia	Gwinnett	lt_18	28.7
+13137	Georgia	Habersham	lt_18	23.7
+13139	Georgia	Hall	lt_18	27.8
+13141	Georgia	Hancock	lt_18	17.6
+13143	Georgia	Haralson	lt_18	24.7
+13145	Georgia	Harris	lt_18	22.9
+13147	Georgia	Hart	lt_18	22.1
+13149	Georgia	Heard	lt_18	24.8
+13151	Georgia	Henry	lt_18	28.3
+13153	Georgia	Houston	lt_18	26.3
+13155	Georgia	Irwin	lt_18	23.4
+13157	Georgia	Jackson	lt_18	26
+13159	Georgia	Jasper	lt_18	24.6
+13161	Georgia	Jeff Davis	lt_18	28
+13163	Georgia	Jefferson	lt_18	25.1
+13165	Georgia	Jenkins	lt_18	26.6
+13167	Georgia	Johnson	lt_18	20.7
+13169	Georgia	Jones	lt_18	25.4
+13171	Georgia	Lamar	lt_18	21.3
+13173	Georgia	Lanier	lt_18	26.4
+13175	Georgia	Laurens	lt_18	25.4
+13177	Georgia	Lee	lt_18	27.2
+13179	Georgia	Liberty	lt_18	30.2
+13181	Georgia	Lincoln	lt_18	19.8
+13183	Georgia	Long	lt_18	30.2
+13185	Georgia	Lowndes	lt_18	24.3
+13187	Georgia	Lumpkin	lt_18	20.2
+13189	Georgia	McDuffie	lt_18	25.9
+13191	Georgia	McIntosh	lt_18	20.4
+13193	Georgia	Macon	lt_18	21.6
+13195	Georgia	Madison	lt_18	24
+13197	Georgia	Marion	lt_18	23.6
+13199	Georgia	Meriwether	lt_18	23.2
+13201	Georgia	Miller	lt_18	23.2
+13205	Georgia	Mitchell	lt_18	24.4
+13207	Georgia	Monroe	lt_18	22.1
+13209	Georgia	Montgomery	lt_18	22.3
+13211	Georgia	Morgan	lt_18	24.3
+13213	Georgia	Murray	lt_18	26.5
+13215	Georgia	Muscogee	lt_18	25.3
+13217	Georgia	Newton	lt_18	28.2
+13219	Georgia	Oconee	lt_18	27.3
+13221	Georgia	Oglethorpe	lt_18	23.2
+13223	Georgia	Paulding	lt_18	29.4
+13225	Georgia	Peach	lt_18	22.7
+13227	Georgia	Pickens	lt_18	21.8
+13229	Georgia	Pierce	lt_18	25.8
+13231	Georgia	Pike	lt_18	26.3
+13233	Georgia	Polk	lt_18	26.5
+13235	Georgia	Pulaski	lt_18	21
+13237	Georgia	Putnam	lt_18	21.5
+13239	Georgia	Quitman	lt_18	19.7
+13241	Georgia	Rabun	lt_18	20.7
+13243	Georgia	Randolph	lt_18	22
+13245	Georgia	Richmond	lt_18	24.7
+13247	Georgia	Rockdale	lt_18	26.3
+13249	Georgia	Schley	lt_18	28.5
+13251	Georgia	Screven	lt_18	24.9
+13253	Georgia	Seminole	lt_18	23
+13255	Georgia	Spalding	lt_18	24.9
+13257	Georgia	Stephens	lt_18	22.2
+13259	Georgia	Stewart	lt_18	15.3
+13261	Georgia	Sumter	lt_18	25
+13263	Georgia	Talbot	lt_18	19.8
+13265	Georgia	Taliaferro	lt_18	19.4
+13267	Georgia	Tattnall	lt_18	21.1
+13269	Georgia	Taylor	lt_18	24.2
+13271	Georgia	Telfair	lt_18	19.5
+13273	Georgia	Terrell	lt_18	24.2
+13275	Georgia	Thomas	lt_18	24.8
+13277	Georgia	Tift	lt_18	25.1
+13279	Georgia	Toombs	lt_18	27.7
+13281	Georgia	Towns	lt_18	15.1
+13283	Georgia	Treutlen	lt_18	24.8
+13285	Georgia	Troup	lt_18	26.1
+13287	Georgia	Turner	lt_18	23.8
+13289	Georgia	Twiggs	lt_18	20.6
+13291	Georgia	Union	lt_18	17.5
+13293	Georgia	Upson	lt_18	23.2
+13295	Georgia	Walker	lt_18	23
+13297	Georgia	Walton	lt_18	26.3
+13299	Georgia	Ware	lt_18	23.2
+13301	Georgia	Warren	lt_18	22.6
+13303	Georgia	Washington	lt_18	23.2
+13305	Georgia	Wayne	lt_18	24.7
+13307	Georgia	Webster	lt_18	24.5
+13309	Georgia	Wheeler	lt_18	17.3
+13311	Georgia	White	lt_18	22.3
+13313	Georgia	Whitfield	lt_18	28.2
+13315	Georgia	Wilcox	lt_18	19.1
+13317	Georgia	Wilkes	lt_18	22.1
+13319	Georgia	Wilkinson	lt_18	24.2
+13321	Georgia	Worth	lt_18	23.7
+15001	Hawaii	Hawaii	lt_18	22.6
+15003	Hawaii	Honolulu	lt_18	22
+15005	Hawaii	Kalawao	lt_18	0
+15007	Hawaii	Kauai	lt_18	22.4
+15009	Hawaii	Maui	lt_18	22.8
+16001	Idaho	Ada	lt_18	26
+16003	Idaho	Adams	lt_18	18.8
+16005	Idaho	Bannock	lt_18	27.1
+16007	Idaho	Bear Lake	lt_18	27.7
+16009	Idaho	Benewah	lt_18	23.3
+16011	Idaho	Bingham	lt_18	32.6
+16013	Idaho	Blaine	lt_18	23.9
+16015	Idaho	Boise	lt_18	20.9
+16017	Idaho	Bonner	lt_18	21.2
+16019	Idaho	Bonneville	lt_18	31.2
+16021	Idaho	Boundary	lt_18	24.5
+16023	Idaho	Butte	lt_18	27.2
+16025	Idaho	Camas	lt_18	22.6
+16027	Idaho	Canyon	lt_18	31.2
+16029	Idaho	Caribou	lt_18	28.6
+16031	Idaho	Cassia	lt_18	32.7
+16033	Idaho	Clark	lt_18	30.3
+16035	Idaho	Clearwater	lt_18	17.1
+16037	Idaho	Custer	lt_18	18.8
+16039	Idaho	Elmore	lt_18	27.9
+16041	Idaho	Franklin	lt_18	34.9
+16043	Idaho	Fremont	lt_18	30.9
+16045	Idaho	Gem	lt_18	24
+16047	Idaho	Gooding	lt_18	29.2
+16049	Idaho	Idaho	lt_18	20.5
+16051	Idaho	Jefferson	lt_18	35.1
+16053	Idaho	Jerome	lt_18	31.2
+16055	Idaho	Kootenai	lt_18	24.4
+16057	Idaho	Latah	lt_18	18.5
+16059	Idaho	Lemhi	lt_18	19.4
+16061	Idaho	Lewis	lt_18	21.7
+16063	Idaho	Lincoln	lt_18	31.7
+16065	Idaho	Madison	lt_18	24.7
+16067	Idaho	Minidoka	lt_18	28.9
+16069	Idaho	Nez Perce	lt_18	21.7
+16071	Idaho	Oneida	lt_18	29
+16073	Idaho	Owyhee	lt_18	28.8
+16075	Idaho	Payette	lt_18	28
+16077	Idaho	Power	lt_18	30.9
+16079	Idaho	Shoshone	lt_18	20.7
+16081	Idaho	Teton	lt_18	29.3
+16083	Idaho	Twin Falls	lt_18	27.4
+16085	Idaho	Valley	lt_18	19.1
+16087	Idaho	Washington	lt_18	24.1
+17001	Illinois	Adams	lt_18	22.8
+17003	Illinois	Alexander	lt_18	22.6
+17005	Illinois	Bond	lt_18	20.3
+17007	Illinois	Boone	lt_18	28.2
+17009	Illinois	Brown	lt_18	15.5
+17011	Illinois	Bureau	lt_18	22.8
+17013	Illinois	Calhoun	lt_18	21.4
+17015	Illinois	Carroll	lt_18	20.1
+17017	Illinois	Cass	lt_18	24.8
+17019	Illinois	Champaign	lt_18	19
+17021	Illinois	Christian	lt_18	22.2
+17023	Illinois	Clark	lt_18	22.5
+17025	Illinois	Clay	lt_18	22.8
+17027	Illinois	Clinton	lt_18	22.5
+17029	Illinois	Coles	lt_18	18
+17031	Illinois	Cook	lt_18	23.5
+17033	Illinois	Crawford	lt_18	20.4
+17035	Illinois	Cumberland	lt_18	23.4
+17037	Illinois	DeKalb	lt_18	21.9
+17039	Illinois	De Witt	lt_18	22.4
+17041	Illinois	Douglas	lt_18	25.6
+17043	Illinois	DuPage	lt_18	24.4
+17045	Illinois	Edgar	lt_18	22
+17047	Illinois	Edwards	lt_18	22.6
+17049	Illinois	Effingham	lt_18	24.3
+17051	Illinois	Fayette	lt_18	22
+17053	Illinois	Ford	lt_18	23.3
+17055	Illinois	Franklin	lt_18	22.7
+17057	Illinois	Fulton	lt_18	20.6
+17059	Illinois	Gallatin	lt_18	20.5
+17061	Illinois	Greene	lt_18	22.7
+17063	Illinois	Grundy	lt_18	26.8
+17065	Illinois	Hamilton	lt_18	22.5
+17067	Illinois	Hancock	lt_18	21.6
+17069	Illinois	Hardin	lt_18	20.6
+17071	Illinois	Henderson	lt_18	19.6
+17073	Illinois	Henry	lt_18	23.5
+17075	Illinois	Iroquois	lt_18	23.3
+17077	Illinois	Jackson	lt_18	17.3
+17079	Illinois	Jasper	lt_18	22.5
+17081	Illinois	Jefferson	lt_18	22.1
+17083	Illinois	Jersey	lt_18	22.3
+17085	Illinois	Jo Daviess	lt_18	20.4
+17087	Illinois	Johnson	lt_18	18.8
+17089	Illinois	Kane	lt_18	28.7
+17091	Illinois	Kankakee	lt_18	25
+17093	Illinois	Kendall	lt_18	30.9
+17095	Illinois	Knox	lt_18	20.3
+17097	Illinois	Lake	lt_18	26.8
+17099	Illinois	LaSalle	lt_18	22.8
+17101	Illinois	Lawrence	lt_18	19.2
+17103	Illinois	Lee	lt_18	21
+17105	Illinois	Livingston	lt_18	22.2
+17107	Illinois	Logan	lt_18	19.7
+17109	Illinois	McDonough	lt_18	15.7
+17111	Illinois	McHenry	lt_18	26.7
+17113	Illinois	McLean	lt_18	22.3
+17115	Illinois	Macon	lt_18	22.7
+17117	Illinois	Macoupin	lt_18	22.3
+17119	Illinois	Madison	lt_18	22.5
+17121	Illinois	Marion	lt_18	23
+17123	Illinois	Marshall	lt_18	21.5
+17125	Illinois	Mason	lt_18	21.8
+17127	Illinois	Massac	lt_18	22.9
+17129	Illinois	Menard	lt_18	22.8
+17131	Illinois	Mercer	lt_18	22.4
+17133	Illinois	Monroe	lt_18	24.1
+17135	Illinois	Montgomery	lt_18	20.9
+17137	Illinois	Morgan	lt_18	21
+17139	Illinois	Moultrie	lt_18	24.8
+17141	Illinois	Ogle	lt_18	24.3
+17143	Illinois	Peoria	lt_18	24.1
+17145	Illinois	Perry	lt_18	20.5
+17147	Illinois	Piatt	lt_18	23.5
+17149	Illinois	Pike	lt_18	22.5
+17151	Illinois	Pope	lt_18	18.6
+17153	Illinois	Pulaski	lt_18	22.9
+17155	Illinois	Putnam	lt_18	20.7
+17157	Illinois	Randolph	lt_18	19.6
+17159	Illinois	Richland	lt_18	22
+17161	Illinois	Rock Island	lt_18	22.4
+17163	Illinois	St. Clair	lt_18	25
+17165	Illinois	Saline	lt_18	22.8
+17167	Illinois	Sangamon	lt_18	23.5
+17169	Illinois	Schuyler	lt_18	20.8
+17171	Illinois	Scott	lt_18	22.9
+17173	Illinois	Shelby	lt_18	22.1
+17175	Illinois	Stark	lt_18	23.3
+17177	Illinois	Stephenson	lt_18	22.3
+17179	Illinois	Tazewell	lt_18	23.2
+17181	Illinois	Union	lt_18	21.3
+17183	Illinois	Vermilion	lt_18	24.4
+17185	Illinois	Wabash	lt_18	22.1
+17187	Illinois	Warren	lt_18	22
+17189	Illinois	Washington	lt_18	21.3
+17191	Illinois	Wayne	lt_18	22.6
+17193	Illinois	White	lt_18	21.1
+17195	Illinois	Whiteside	lt_18	23.1
+17197	Illinois	Will	lt_18	28.4
+17199	Illinois	Williamson	lt_18	22
+17201	Illinois	Winnebago	lt_18	24.6
+17203	Illinois	Woodford	lt_18	25.4
+18001	Indiana	Adams	lt_18	30.8
+18003	Indiana	Allen	lt_18	26.7
+18005	Indiana	Bartholomew	lt_18	24.8
+18007	Indiana	Benton	lt_18	25.2
+18009	Indiana	Blackford	lt_18	22.8
+18011	Indiana	Boone	lt_18	27.7
+18013	Indiana	Brown	lt_18	20.3
+18015	Indiana	Carroll	lt_18	24
+18017	Indiana	Cass	lt_18	25.7
+18019	Indiana	Clark	lt_18	23.6
+18021	Indiana	Clay	lt_18	23.5
+18023	Indiana	Clinton	lt_18	26.6
+18025	Indiana	Crawford	lt_18	22.9
+18027	Indiana	Daviess	lt_18	28.7
+18029	Indiana	Dearborn	lt_18	24.5
+18031	Indiana	Decatur	lt_18	24.9
+18033	Indiana	DeKalb	lt_18	26
+18035	Indiana	Delaware	lt_18	19.7
+18037	Indiana	Dubois	lt_18	25.1
+18039	Indiana	Elkhart	lt_18	28.3
+18041	Indiana	Fayette	lt_18	23.5
+18043	Indiana	Floyd	lt_18	23.5
+18045	Indiana	Fountain	lt_18	23.7
+18047	Indiana	Franklin	lt_18	25.5
+18049	Indiana	Fulton	lt_18	24.4
+18051	Indiana	Gibson	lt_18	23.8
+18053	Indiana	Grant	lt_18	21.4
+18055	Indiana	Greene	lt_18	23.5
+18057	Indiana	Hamilton	lt_18	29.6
+18059	Indiana	Hancock	lt_18	25.6
+18061	Indiana	Harrison	lt_18	23.2
+18063	Indiana	Hendricks	lt_18	26.9
+18065	Indiana	Henry	lt_18	22.2
+18067	Indiana	Howard	lt_18	23.3
+18069	Indiana	Huntington	lt_18	23.3
+18071	Indiana	Jackson	lt_18	24.5
+18073	Indiana	Jasper	lt_18	25.2
+18075	Indiana	Jay	lt_18	26.6
+18077	Indiana	Jefferson	lt_18	22.2
+18079	Indiana	Jennings	lt_18	25.7
+18081	Indiana	Johnson	lt_18	26
+18083	Indiana	Knox	lt_18	21.2
+18085	Indiana	Kosciusko	lt_18	25.2
+18087	Indiana	LaGrange	lt_18	34.3
+18089	Indiana	Lake	lt_18	25.3
+18091	Indiana	LaPorte	lt_18	22.4
+18093	Indiana	Lawrence	lt_18	23.1
+18095	Indiana	Madison	lt_18	22.7
+18097	Indiana	Marion	lt_18	25.1
+18099	Indiana	Marshall	lt_18	26.5
+18101	Indiana	Martin	lt_18	23.7
+18103	Indiana	Miami	lt_18	22.4
+18105	Indiana	Monroe	lt_18	16
+18107	Indiana	Montgomery	lt_18	23.7
+18109	Indiana	Morgan	lt_18	24.6
+18111	Indiana	Newton	lt_18	22.3
+18113	Indiana	Noble	lt_18	26.6
+18115	Indiana	Ohio	lt_18	21.2
+18117	Indiana	Orange	lt_18	24.3
+18119	Indiana	Owen	lt_18	22.8
+18121	Indiana	Parke	lt_18	20.8
+18123	Indiana	Perry	lt_18	21
+18125	Indiana	Pike	lt_18	21.9
+18127	Indiana	Porter	lt_18	23.8
+18129	Indiana	Posey	lt_18	23.2
+18131	Indiana	Pulaski	lt_18	23.6
+18133	Indiana	Putnam	lt_18	20.6
+18135	Indiana	Randolph	lt_18	24
+18137	Indiana	Ripley	lt_18	25.9
+18139	Indiana	Rush	lt_18	24.2
+18141	Indiana	St. Joseph	lt_18	24.4
+18143	Indiana	Scott	lt_18	23.6
+18145	Indiana	Shelby	lt_18	24
+18147	Indiana	Spencer	lt_18	23.8
+18149	Indiana	Starke	lt_18	23.8
+18151	Indiana	Steuben	lt_18	22.2
+18153	Indiana	Sullivan	lt_18	20.8
+18155	Indiana	Switzerland	lt_18	24.9
+18157	Indiana	Tippecanoe	lt_18	20.4
+18159	Indiana	Tipton	lt_18	22.4
+18161	Indiana	Union	lt_18	24.7
+18163	Indiana	Vanderburgh	lt_18	22.1
+18165	Indiana	Vermillion	lt_18	22.9
+18167	Indiana	Vigo	lt_18	21.1
+18169	Indiana	Wabash	lt_18	22.4
+18171	Indiana	Warren	lt_18	22.9
+18173	Indiana	Warrick	lt_18	25.4
+18175	Indiana	Washington	lt_18	24.7
+18177	Indiana	Wayne	lt_18	22.9
+18179	Indiana	Wells	lt_18	24.4
+18181	Indiana	White	lt_18	23.9
+18183	Indiana	Whitley	lt_18	24.2
+19001	Iowa	Adair	lt_18	22.2
+19003	Iowa	Adams	lt_18	21
+19005	Iowa	Allamakee	lt_18	22.5
+19007	Iowa	Appanoose	lt_18	22.1
+19009	Iowa	Audubon	lt_18	21.1
+19011	Iowa	Benton	lt_18	24.9
+19013	Iowa	Black Hawk	lt_18	21.3
+19015	Iowa	Boone	lt_18	23.8
+19017	Iowa	Bremer	lt_18	22.2
+19019	Iowa	Buchanan	lt_18	26.7
+19021	Iowa	Buena Vista	lt_18	25
+19023	Iowa	Butler	lt_18	23.7
+19025	Iowa	Calhoun	lt_18	21.2
+19027	Iowa	Carroll	lt_18	24.3
+19029	Iowa	Cass	lt_18	22.5
+19031	Iowa	Cedar	lt_18	24.2
+19033	Iowa	Cerro Gordo	lt_18	21.4
+19035	Iowa	Cherokee	lt_18	21
+19037	Iowa	Chickasaw	lt_18	24
+19039	Iowa	Clarke	lt_18	24.8
+19041	Iowa	Clay	lt_18	22.9
+19043	Iowa	Clayton	lt_18	22.7
+19045	Iowa	Clinton	lt_18	23.3
+19047	Iowa	Crawford	lt_18	26.7
+19049	Iowa	Dallas	lt_18	28.9
+19051	Iowa	Davis	lt_18	29
+19053	Iowa	Decatur	lt_18	22.5
+19055	Iowa	Delaware	lt_18	24.8
+19057	Iowa	Des Moines	lt_18	23.1
+19059	Iowa	Dickinson	lt_18	19.2
+19061	Iowa	Dubuque	lt_18	23.5
+19063	Iowa	Emmet	lt_18	22.9
+19065	Iowa	Fayette	lt_18	22.2
+19067	Iowa	Floyd	lt_18	23.5
+19069	Iowa	Franklin	lt_18	23.4
+19071	Iowa	Fremont	lt_18	22.6
+19073	Iowa	Greene	lt_18	22.9
+19075	Iowa	Grundy	lt_18	23.9
+19077	Iowa	Guthrie	lt_18	23.2
+19079	Iowa	Hamilton	lt_18	23.7
+19081	Iowa	Hancock	lt_18	23.2
+19083	Iowa	Hardin	lt_18	22.8
+19085	Iowa	Harrison	lt_18	23.5
+19087	Iowa	Henry	lt_18	22.6
+19089	Iowa	Howard	lt_18	25
+19091	Iowa	Humboldt	lt_18	22.8
+19093	Iowa	Ida	lt_18	24.3
+19095	Iowa	Iowa	lt_18	23.9
+19097	Iowa	Jackson	lt_18	22.8
+19099	Iowa	Jasper	lt_18	22.3
+19101	Iowa	Jefferson	lt_18	17.9
+19103	Iowa	Johnson	lt_18	19.4
+19105	Iowa	Jones	lt_18	22
+19107	Iowa	Keokuk	lt_18	22.9
+19109	Iowa	Kossuth	lt_18	22.4
+19111	Iowa	Lee	lt_18	21.8
+19113	Iowa	Linn	lt_18	24.3
+19115	Iowa	Louisa	lt_18	25.3
+19117	Iowa	Lucas	lt_18	24
+19119	Iowa	Lyon	lt_18	27.6
+19121	Iowa	Madison	lt_18	26.9
+19123	Iowa	Mahaska	lt_18	24.1
+19125	Iowa	Marion	lt_18	24.6
+19127	Iowa	Marshall	lt_18	25.4
+19129	Iowa	Mills	lt_18	25.1
+19131	Iowa	Mitchell	lt_18	24.1
+19133	Iowa	Monona	lt_18	21.9
+19135	Iowa	Monroe	lt_18	23.9
+19137	Iowa	Montgomery	lt_18	23.1
+19139	Iowa	Muscatine	lt_18	26
+19141	Iowa	O'Brien	lt_18	23.3
+19143	Iowa	Osceola	lt_18	22.4
+19145	Iowa	Page	lt_18	22
+19147	Iowa	Palo Alto	lt_18	21.9
+19149	Iowa	Plymouth	lt_18	25.3
+19151	Iowa	Pocahontas	lt_18	21.3
+19153	Iowa	Polk	lt_18	25.4
+19155	Iowa	Pottawattamie	lt_18	24
+19157	Iowa	Poweshiek	lt_18	20.7
+19159	Iowa	Ringgold	lt_18	24
+19161	Iowa	Sac	lt_18	22.1
+19163	Iowa	Scott	lt_18	24.3
+19165	Iowa	Shelby	lt_18	23
+19167	Iowa	Sioux	lt_18	27
+19169	Iowa	Story	lt_18	17.4
+19171	Iowa	Tama	lt_18	25.3
+19173	Iowa	Taylor	lt_18	23.4
+19175	Iowa	Union	lt_18	23.6
+19177	Iowa	Van Buren	lt_18	23.6
+19179	Iowa	Wapello	lt_18	22.8
+19181	Iowa	Warren	lt_18	25.5
+19183	Iowa	Washington	lt_18	24.8
+19185	Iowa	Wayne	lt_18	23.3
+19187	Iowa	Webster	lt_18	22
+19189	Iowa	Winnebago	lt_18	21.3
+19191	Iowa	Winneshiek	lt_18	19.9
+19193	Iowa	Woodbury	lt_18	26.4
+19195	Iowa	Worth	lt_18	22.8
+19197	Iowa	Wright	lt_18	23.1
+20001	Kansas	Allen	lt_18	23.5
+20003	Kansas	Anderson	lt_18	25.3
+20005	Kansas	Atchison	lt_18	24.1
+20007	Kansas	Barber	lt_18	22.5
+20009	Kansas	Barton	lt_18	24.6
+20011	Kansas	Bourbon	lt_18	25
+20013	Kansas	Brown	lt_18	25.1
+20015	Kansas	Butler	lt_18	26.5
+20017	Kansas	Chase	lt_18	21.9
+20019	Kansas	Chautauqua	lt_18	20.6
+20021	Kansas	Cherokee	lt_18	24.6
+20023	Kansas	Cheyenne	lt_18	20.3
+20025	Kansas	Clark	lt_18	24.8
+20027	Kansas	Clay	lt_18	23.4
+20029	Kansas	Cloud	lt_18	22
+20031	Kansas	Coffey	lt_18	23.6
+20033	Kansas	Comanche	lt_18	23.5
+20035	Kansas	Cowley	lt_18	24.2
+20037	Kansas	Crawford	lt_18	22
+20039	Kansas	Decatur	lt_18	18.5
+20041	Kansas	Dickinson	lt_18	24.3
+20043	Kansas	Doniphan	lt_18	21.9
+20045	Kansas	Douglas	lt_18	18.4
+20047	Kansas	Edwards	lt_18	23.2
+20049	Kansas	Elk	lt_18	20.6
+20051	Kansas	Ellis	lt_18	20.8
+20053	Kansas	Ellsworth	lt_18	18.4
+20055	Kansas	Finney	lt_18	32.2
+20057	Kansas	Ford	lt_18	31.3
+20059	Kansas	Franklin	lt_18	25.3
+20061	Kansas	Geary	lt_18	30.9
+20063	Kansas	Gove	lt_18	22.9
+20065	Kansas	Graham	lt_18	19.7
+20067	Kansas	Grant	lt_18	31.8
+20069	Kansas	Gray	lt_18	30.3
+20071	Kansas	Greeley	lt_18	20.8
+20073	Kansas	Greenwood	lt_18	22
+20075	Kansas	Hamilton	lt_18	28.4
+20077	Kansas	Harper	lt_18	23.4
+20079	Kansas	Harvey	lt_18	25
+20081	Kansas	Haskell	lt_18	31
+20083	Kansas	Hodgeman	lt_18	23.1
+20085	Kansas	Jackson	lt_18	26.2
+20087	Kansas	Jefferson	lt_18	23.9
+20089	Kansas	Jewell	lt_18	18.2
+20091	Kansas	Johnson	lt_18	26
+20093	Kansas	Kearny	lt_18	30.5
+20095	Kansas	Kingman	lt_18	24
+20097	Kansas	Kiowa	lt_18	20.9
+20099	Kansas	Labette	lt_18	23.9
+20101	Kansas	Lane	lt_18	22.8
+20103	Kansas	Leavenworth	lt_18	24.5
+20105	Kansas	Lincoln	lt_18	23.8
+20107	Kansas	Linn	lt_18	23
+20109	Kansas	Logan	lt_18	22.4
+20111	Kansas	Lyon	lt_18	23.2
+20113	Kansas	McPherson	lt_18	23.2
+20115	Kansas	Marion	lt_18	21.9
+20117	Kansas	Marshall	lt_18	22.5
+20119	Kansas	Meade	lt_18	27.1
+20121	Kansas	Miami	lt_18	26.4
+20123	Kansas	Mitchell	lt_18	21.9
+20125	Kansas	Montgomery	lt_18	23.5
+20127	Kansas	Morris	lt_18	21.1
+20129	Kansas	Morton	lt_18	26.4
+20131	Kansas	Nemaha	lt_18	26
+20133	Kansas	Neosho	lt_18	24.5
+20135	Kansas	Ness	lt_18	22.4
+20137	Kansas	Norton	lt_18	19.9
+20139	Kansas	Osage	lt_18	24.6
+20141	Kansas	Osborne	lt_18	20.6
+20143	Kansas	Ottawa	lt_18	25
+20145	Kansas	Pawnee	lt_18	21.8
+20147	Kansas	Phillips	lt_18	23.7
+20149	Kansas	Pottawatomie	lt_18	29.2
+20151	Kansas	Pratt	lt_18	22.6
+20153	Kansas	Rawlins	lt_18	18.6
+20155	Kansas	Reno	lt_18	23.4
+20157	Kansas	Republic	lt_18	19.3
+20159	Kansas	Rice	lt_18	23.6
+20161	Kansas	Riley	lt_18	18.1
+20163	Kansas	Rooks	lt_18	23.5
+20165	Kansas	Rush	lt_18	18.7
+20167	Kansas	Russell	lt_18	21.2
+20169	Kansas	Saline	lt_18	24.9
+20171	Kansas	Scott	lt_18	25.1
+20173	Kansas	Sedgwick	lt_18	27
+20175	Kansas	Seward	lt_18	32.4
+20177	Kansas	Shawnee	lt_18	24.6
+20179	Kansas	Sheridan	lt_18	23.2
+20181	Kansas	Sherman	lt_18	22
+20183	Kansas	Smith	lt_18	19
+20185	Kansas	Stafford	lt_18	23.8
+20187	Kansas	Stanton	lt_18	28.9
+20189	Kansas	Stevens	lt_18	30
+20191	Kansas	Sumner	lt_18	25.8
+20193	Kansas	Thomas	lt_18	22.4
+20195	Kansas	Trego	lt_18	19.1
+20197	Kansas	Wabaunsee	lt_18	25.4
+20199	Kansas	Wallace	lt_18	26.1
+20201	Kansas	Washington	lt_18	22.8
+20203	Kansas	Wichita	lt_18	26.4
+20205	Kansas	Wilson	lt_18	23.7
+20207	Kansas	Woodson	lt_18	21
+20209	Kansas	Wyandotte	lt_18	28.3
+21001	Kentucky	Adair	lt_18	22.2
+21003	Kentucky	Allen	lt_18	24.1
+21005	Kentucky	Anderson	lt_18	25.1
+21007	Kentucky	Ballard	lt_18	21.9
+21009	Kentucky	Barren	lt_18	23.9
+21011	Kentucky	Bath	lt_18	24.7
+21013	Kentucky	Bell	lt_18	21.9
+21015	Kentucky	Boone	lt_18	27.9
+21017	Kentucky	Bourbon	lt_18	24
+21019	Kentucky	Boyd	lt_18	21.4
+21021	Kentucky	Boyle	lt_18	21.3
+21023	Kentucky	Bracken	lt_18	25.2
+21025	Kentucky	Breathitt	lt_18	23
+21027	Kentucky	Breckinridge	lt_18	23.9
+21029	Kentucky	Bullitt	lt_18	24.6
+21031	Kentucky	Butler	lt_18	23.2
+21033	Kentucky	Caldwell	lt_18	22.4
+21035	Kentucky	Calloway	lt_18	17.8
+21037	Kentucky	Campbell	lt_18	22.6
+21039	Kentucky	Carlisle	lt_18	22.4
+21041	Kentucky	Carroll	lt_18	25.3
+21043	Kentucky	Carter	lt_18	23
+21045	Kentucky	Casey	lt_18	23.5
+21047	Kentucky	Christian	lt_18	28.2
+21049	Kentucky	Clark	lt_18	23.1
+21051	Kentucky	Clay	lt_18	21.8
+21053	Kentucky	Clinton	lt_18	23.6
+21055	Kentucky	Crittenden	lt_18	22.5
+21057	Kentucky	Cumberland	lt_18	22.4
+21059	Kentucky	Daviess	lt_18	24.3
+21061	Kentucky	Edmonson	lt_18	21.8
+21063	Kentucky	Elliott	lt_18	20.1
+21065	Kentucky	Estill	lt_18	22.3
+21067	Kentucky	Fayette	lt_18	21
+21069	Kentucky	Fleming	lt_18	24.3
+21071	Kentucky	Floyd	lt_18	22.4
+21073	Kentucky	Franklin	lt_18	21.3
+21075	Kentucky	Fulton	lt_18	20.7
+21077	Kentucky	Gallatin	lt_18	26.9
+21079	Kentucky	Garrard	lt_18	22.7
+21081	Kentucky	Grant	lt_18	27.6
+21083	Kentucky	Graves	lt_18	24.5
+21085	Kentucky	Grayson	lt_18	23.6
+21087	Kentucky	Green	lt_18	22.4
+21089	Kentucky	Greenup	lt_18	22.1
+21091	Kentucky	Hancock	lt_18	25.6
+21093	Kentucky	Hardin	lt_18	25.6
+21095	Kentucky	Harlan	lt_18	22.8
+21097	Kentucky	Harrison	lt_18	23.7
+21099	Kentucky	Hart	lt_18	24.5
+21101	Kentucky	Henderson	lt_18	23.4
+21103	Kentucky	Henry	lt_18	24.5
+21105	Kentucky	Hickman	lt_18	21
+21107	Kentucky	Hopkins	lt_18	23
+21109	Kentucky	Jackson	lt_18	23.1
+21111	Kentucky	Jefferson	lt_18	23
+21113	Kentucky	Jessamine	lt_18	25.5
+21115	Kentucky	Johnson	lt_18	22.5
+21117	Kentucky	Kenton	lt_18	24.8
+21119	Kentucky	Knott	lt_18	21.2
+21121	Kentucky	Knox	lt_18	24.6
+21123	Kentucky	Larue	lt_18	23.5
+21125	Kentucky	Laurel	lt_18	24.1
+21127	Kentucky	Lawrence	lt_18	23
+21129	Kentucky	Lee	lt_18	19.7
+21131	Kentucky	Leslie	lt_18	21.5
+21133	Kentucky	Letcher	lt_18	22.1
+21135	Kentucky	Lewis	lt_18	23.3
+21137	Kentucky	Lincoln	lt_18	24.5
+21139	Kentucky	Livingston	lt_18	20.5
+21141	Kentucky	Logan	lt_18	23.9
+21143	Kentucky	Lyon	lt_18	15.4
+21145	Kentucky	McCracken	lt_18	22.2
+21147	Kentucky	McCreary	lt_18	22.3
+21149	Kentucky	McLean	lt_18	23.2
+21151	Kentucky	Madison	lt_18	21.3
+21153	Kentucky	Magoffin	lt_18	23.5
+21155	Kentucky	Marion	lt_18	24.4
+21157	Kentucky	Marshall	lt_18	20.6
+21159	Kentucky	Martin	lt_18	21
+21161	Kentucky	Mason	lt_18	24.1
+21163	Kentucky	Meade	lt_18	26.9
+21165	Kentucky	Menifee	lt_18	23
+21167	Kentucky	Mercer	lt_18	23.1
+21169	Kentucky	Metcalfe	lt_18	24.1
+21171	Kentucky	Monroe	lt_18	22.9
+21173	Kentucky	Montgomery	lt_18	24.3
+21175	Kentucky	Morgan	lt_18	20.1
+21177	Kentucky	Muhlenberg	lt_18	21.6
+21179	Kentucky	Nelson	lt_18	25.6
+21181	Kentucky	Nicholas	lt_18	24.1
+21183	Kentucky	Ohio	lt_18	25
+21185	Kentucky	Oldham	lt_18	27
+21187	Kentucky	Owen	lt_18	24.7
+21189	Kentucky	Owsley	lt_18	22.7
+21191	Kentucky	Pendleton	lt_18	24
+21193	Kentucky	Perry	lt_18	21.8
+21195	Kentucky	Pike	lt_18	21.8
+21197	Kentucky	Powell	lt_18	24.6
+21199	Kentucky	Pulaski	lt_18	22.6
+21201	Kentucky	Robertson	lt_18	20.4
+21203	Kentucky	Rockcastle	lt_18	23.2
+21205	Kentucky	Rowan	lt_18	19.4
+21207	Kentucky	Russell	lt_18	22.1
+21209	Kentucky	Scott	lt_18	26.5
+21211	Kentucky	Shelby	lt_18	24.8
+21213	Kentucky	Simpson	lt_18	24.2
+21215	Kentucky	Spencer	lt_18	25.3
+21217	Kentucky	Taylor	lt_18	22.2
+21219	Kentucky	Todd	lt_18	27.2
+21221	Kentucky	Trigg	lt_18	21.9
+21223	Kentucky	Trimble	lt_18	24.5
+21225	Kentucky	Union	lt_18	22.7
+21227	Kentucky	Warren	lt_18	22.6
+21229	Kentucky	Washington	lt_18	23.1
+21231	Kentucky	Wayne	lt_18	22.3
+21233	Kentucky	Webster	lt_18	23.3
+21235	Kentucky	Whitley	lt_18	23.6
+21237	Kentucky	Wolfe	lt_18	24.2
+21239	Kentucky	Woodford	lt_18	23.4
+22001	Louisiana	Acadia	lt_18	27.1
+22003	Louisiana	Allen	lt_18	22.7
+22005	Louisiana	Ascension	lt_18	28.3
+22007	Louisiana	Assumption	lt_18	23.9
+22009	Louisiana	Avoyelles	lt_18	24
+22011	Louisiana	Beauregard	lt_18	25.8
+22013	Louisiana	Bienville	lt_18	22.9
+22015	Louisiana	Bossier	lt_18	25.5
+22017	Louisiana	Caddo	lt_18	24.6
+22019	Louisiana	Calcasieu	lt_18	25.1
+22021	Louisiana	Caldwell	lt_18	23.1
+22023	Louisiana	Cameron	lt_18	24.6
+22025	Louisiana	Catahoula	lt_18	22.7
+22027	Louisiana	Claiborne	lt_18	19.1
+22029	Louisiana	Concordia	lt_18	25
+22031	Louisiana	De Soto	lt_18	24.6
+22033	Louisiana	East Baton Rouge	lt_18	23
+22035	Louisiana	East Carroll	lt_18	25.6
+22037	Louisiana	East Feliciana	lt_18	20.6
+22039	Louisiana	Evangeline	lt_18	26.8
+22041	Louisiana	Franklin	lt_18	25.4
+22043	Louisiana	Grant	lt_18	22.8
+22045	Louisiana	Iberia	lt_18	27
+22047	Louisiana	Iberville	lt_18	22.2
+22049	Louisiana	Jackson	lt_18	22.8
+22051	Louisiana	Jefferson	lt_18	22.3
+22053	Louisiana	Jefferson Davis	lt_18	26.5
+22055	Louisiana	Lafayette	lt_18	24.3
+22057	Louisiana	Lafourche	lt_18	24.2
+22059	Louisiana	La Salle	lt_18	23.5
+22061	Louisiana	Lincoln	lt_18	20.2
+22063	Louisiana	Livingston	lt_18	27.1
+22065	Louisiana	Madison	lt_18	24.8
+22067	Louisiana	Morehouse	lt_18	24.7
+22069	Louisiana	Natchitoches	lt_18	23.8
+22071	Louisiana	Orleans	lt_18	21.4
+22073	Louisiana	Ouachita	lt_18	26.1
+22075	Louisiana	Plaquemines	lt_18	27.3
+22077	Louisiana	Pointe Coupee	lt_18	24.1
+22079	Louisiana	Rapides	lt_18	25.7
+22081	Louisiana	Red River	lt_18	25.8
+22083	Louisiana	Richland	lt_18	25.5
+22085	Louisiana	Sabine	lt_18	24.2
+22087	Louisiana	St. Bernard	lt_18	25.7
+22089	Louisiana	St. Charles	lt_18	26.5
+22091	Louisiana	St. Helena	lt_18	25
+22093	Louisiana	St. James	lt_18	25.3
+22095	Louisiana	St. John the Baptist	lt_18	26.6
+22097	Louisiana	St. Landry	lt_18	27.2
+22099	Louisiana	St. Martin	lt_18	26.1
+22101	Louisiana	St. Mary	lt_18	25.2
+22103	Louisiana	St. Tammany	lt_18	25.3
+22105	Louisiana	Tangipahoa	lt_18	25
+22107	Louisiana	Tensas	lt_18	24.4
+22109	Louisiana	Terrebonne	lt_18	25.8
+22111	Louisiana	Union	lt_18	22.7
+22113	Louisiana	Vermilion	lt_18	26.6
+22115	Louisiana	Vernon	lt_18	27.5
+22117	Louisiana	Washington	lt_18	25
+22119	Louisiana	Webster	lt_18	23.5
+22121	Louisiana	West Baton Rouge	lt_18	24.8
+22123	Louisiana	West Carroll	lt_18	24.5
+22125	Louisiana	West Feliciana	lt_18	16.9
+22127	Louisiana	Winn	lt_18	22.4
+23001	Maine	Androscoggin	lt_18	22.3
+23003	Maine	Aroostook	lt_18	19.7
+23005	Maine	Cumberland	lt_18	20.4
+23007	Maine	Franklin	lt_18	19.3
+23009	Maine	Hancock	lt_18	17.9
+23011	Maine	Kennebec	lt_18	20.3
+23013	Maine	Knox	lt_18	19
+23015	Maine	Lincoln	lt_18	18.2
+23017	Maine	Oxford	lt_18	20.9
+23019	Maine	Penobscot	lt_18	19.5
+23021	Maine	Piscataquis	lt_18	18.8
+23023	Maine	Sagadahoc	lt_18	20.3
+23025	Maine	Somerset	lt_18	21
+23027	Maine	Waldo	lt_18	20.7
+23029	Maine	Washington	lt_18	19.6
+23031	Maine	York	lt_18	20.9
+24001	Maryland	Allegany	lt_18	17.6
+24003	Maryland	Anne Arundel	lt_18	23
+24005	Maryland	Baltimore	lt_18	21.8
+24009	Maryland	Calvert	lt_18	25.4
+24011	Maryland	Caroline	lt_18	24.6
+24013	Maryland	Carroll	lt_18	23.8
+24015	Maryland	Cecil	lt_18	24.5
+24017	Maryland	Charles	lt_18	25.8
+24019	Maryland	Dorchester	lt_18	21.7
+24021	Maryland	Frederick	lt_18	24.7
+24023	Maryland	Garrett	lt_18	21.6
+24025	Maryland	Harford	lt_18	24
+24027	Maryland	Howard	lt_18	25.4
+24029	Maryland	Kent	lt_18	17.4
+24031	Maryland	Montgomery	lt_18	23.7
+24033	Maryland	Prince George's	lt_18	23.5
+24035	Maryland	Queen Anne's	lt_18	23.2
+24037	Maryland	St. Mary's	lt_18	25.7
+24039	Maryland	Somerset	lt_18	16.9
+24041	Maryland	Talbot	lt_18	19
+24043	Maryland	Washington	lt_18	22.6
+24045	Maryland	Wicomico	lt_18	22.2
+24047	Maryland	Worcester	lt_18	17.9
+24510	Maryland	Baltimore City	lt_18	21.6
+25001	Massachusetts	Barnstable	lt_18	16.9
+25003	Massachusetts	Berkshire	lt_18	19.1
+25005	Massachusetts	Bristol	lt_18	21.9
+25007	Massachusetts	Dukes	lt_18	19
+25009	Massachusetts	Essex	lt_18	22.7
+25011	Massachusetts	Franklin	lt_18	19.3
+25013	Massachusetts	Hampden	lt_18	23.4
+25015	Massachusetts	Hampshire	lt_18	16.2
+25017	Massachusetts	Middlesex	lt_18	21
+25019	Massachusetts	Nantucket	lt_18	21.1
+25021	Massachusetts	Norfolk	lt_18	22.3
+25023	Massachusetts	Plymouth	lt_18	23.6
+25025	Massachusetts	Suffolk	lt_18	17.6
+25027	Massachusetts	Worcester	lt_18	23
+26001	Michigan	Alcona	lt_18	14.4
+26003	Michigan	Alger	lt_18	16.6
+26005	Michigan	Allegan	lt_18	25.8
+26007	Michigan	Alpena	lt_18	20.4
+26009	Michigan	Antrim	lt_18	20.1
+26011	Michigan	Arenac	lt_18	19.5
+26013	Michigan	Baraga	lt_18	19.6
+26015	Michigan	Barry	lt_18	23.9
+26017	Michigan	Bay	lt_18	21.8
+26019	Michigan	Benzie	lt_18	20.3
+26021	Michigan	Berrien	lt_18	23.1
+26023	Michigan	Branch	lt_18	23.5
+26025	Michigan	Calhoun	lt_18	23.9
+26027	Michigan	Cass	lt_18	23.1
+26029	Michigan	Charlevoix	lt_18	21.4
+26031	Michigan	Cheboygan	lt_18	19.8
+26033	Michigan	Chippewa	lt_18	19.9
+26035	Michigan	Clare	lt_18	20.7
+26037	Michigan	Clinton	lt_18	24.2
+26039	Michigan	Crawford	lt_18	19.7
+26041	Michigan	Delta	lt_18	20.6
+26043	Michigan	Dickinson	lt_18	20.7
+26045	Michigan	Eaton	lt_18	22.8
+26047	Michigan	Emmet	lt_18	22
+26049	Michigan	Genesee	lt_18	24.6
+26051	Michigan	Gladwin	lt_18	19.8
+26053	Michigan	Gogebic	lt_18	16.4
+26055	Michigan	Grand Traverse	lt_18	21.7
+26057	Michigan	Gratiot	lt_18	21.2
+26059	Michigan	Hillsdale	lt_18	23.3
+26061	Michigan	Houghton	lt_18	20.3
+26063	Michigan	Huron	lt_18	20.2
+26065	Michigan	Ingham	lt_18	20.2
+26067	Michigan	Ionia	lt_18	24.1
+26069	Michigan	Iosco	lt_18	17.2
+26071	Michigan	Iron	lt_18	17.2
+26073	Michigan	Isabella	lt_18	17.5
+26075	Michigan	Jackson	lt_18	22.8
+26077	Michigan	Kalamazoo	lt_18	22.2
+26079	Michigan	Kalkaska	lt_18	22.4
+26081	Michigan	Kent	lt_18	25.9
+26083	Michigan	Keweenaw	lt_18	18.6
+26085	Michigan	Lake	lt_18	17.6
+26087	Michigan	Lapeer	lt_18	23.6
+26089	Michigan	Leelanau	lt_18	18.5
+26091	Michigan	Lenawee	lt_18	22.7
+26093	Michigan	Livingston	lt_18	24.8
+26095	Michigan	Luce	lt_18	17.4
+26097	Michigan	Mackinac	lt_18	18.3
+26099	Michigan	Macomb	lt_18	22.6
+26101	Michigan	Manistee	lt_18	18.7
+26103	Michigan	Marquette	lt_18	18.3
+26105	Michigan	Mason	lt_18	21.1
+26107	Michigan	Mecosta	lt_18	19.5
+26109	Michigan	Menominee	lt_18	20.5
+26111	Michigan	Midland	lt_18	23.1
+26113	Michigan	Missaukee	lt_18	23.8
+26115	Michigan	Monroe	lt_18	23.7
+26117	Michigan	Montcalm	lt_18	23.6
+26119	Michigan	Montmorency	lt_18	16.4
+26121	Michigan	Muskegon	lt_18	24.4
+26123	Michigan	Newaygo	lt_18	24.3
+26125	Michigan	Oakland	lt_18	23
+26127	Michigan	Oceana	lt_18	24.7
+26129	Michigan	Ogemaw	lt_18	19.7
+26131	Michigan	Ontonagon	lt_18	15.1
+26133	Michigan	Osceola	lt_18	24.4
+26135	Michigan	Oscoda	lt_18	19.8
+26137	Michigan	Otsego	lt_18	22.4
+26139	Michigan	Ottawa	lt_18	25.6
+26141	Michigan	Presque Isle	lt_18	17
+26143	Michigan	Roscommon	lt_18	15.5
+26145	Michigan	Saginaw	lt_18	23
+26147	Michigan	St. Clair	lt_18	23.1
+26149	Michigan	St. Joseph	lt_18	25.5
+26151	Michigan	Sanilac	lt_18	23.2
+26153	Michigan	Schoolcraft	lt_18	19.8
+26155	Michigan	Shiawassee	lt_18	23.5
+26157	Michigan	Tuscola	lt_18	22.9
+26159	Michigan	Van Buren	lt_18	25.1
+26161	Michigan	Washtenaw	lt_18	20.1
+26163	Michigan	Wayne	lt_18	24.9
+26165	Michigan	Wexford	lt_18	23.6
+27001	Minnesota	Aitkin	lt_18	17.6
+27003	Minnesota	Anoka	lt_18	25.5
+27005	Minnesota	Becker	lt_18	24.3
+27007	Minnesota	Beltrami	lt_18	25.2
+27009	Minnesota	Benton	lt_18	24.7
+27011	Minnesota	Big Stone	lt_18	20.9
+27013	Minnesota	Blue Earth	lt_18	19.2
+27015	Minnesota	Brown	lt_18	21.7
+27017	Minnesota	Carlton	lt_18	23.1
+27019	Minnesota	Carver	lt_18	29.5
+27021	Minnesota	Cass	lt_18	21.1
+27023	Minnesota	Chippewa	lt_18	23.2
+27025	Minnesota	Chisago	lt_18	25
+27027	Minnesota	Clay	lt_18	22.9
+27029	Minnesota	Clearwater	lt_18	24.5
+27031	Minnesota	Cook	lt_18	16.9
+27033	Minnesota	Cottonwood	lt_18	23.7
+27035	Minnesota	Crow Wing	lt_18	22.6
+27037	Minnesota	Dakota	lt_18	25.9
+27039	Minnesota	Dodge	lt_18	28.4
+27041	Minnesota	Douglas	lt_18	21.5
+27043	Minnesota	Faribault	lt_18	22
+27045	Minnesota	Fillmore	lt_18	23.7
+27047	Minnesota	Freeborn	lt_18	21.8
+27049	Minnesota	Goodhue	lt_18	23.3
+27051	Minnesota	Grant	lt_18	21.3
+27053	Minnesota	Hennepin	lt_18	22.6
+27055	Minnesota	Houston	lt_18	22.4
+27057	Minnesota	Hubbard	lt_18	21.4
+27059	Minnesota	Isanti	lt_18	25.5
+27061	Minnesota	Itasca	lt_18	21.6
+27063	Minnesota	Jackson	lt_18	22.3
+27065	Minnesota	Kanabec	lt_18	23.3
+27067	Minnesota	Kandiyohi	lt_18	23.7
+27069	Minnesota	Kittson	lt_18	21.6
+27071	Minnesota	Koochiching	lt_18	20.7
+27073	Minnesota	Lac qui Parle	lt_18	20.8
+27075	Minnesota	Lake	lt_18	18.8
+27077	Minnesota	Lake of the Woods	lt_18	19.7
+27079	Minnesota	Le Sueur	lt_18	25
+27081	Minnesota	Lincoln	lt_18	22.1
+27083	Minnesota	Lyon	lt_18	24.1
+27085	Minnesota	McLeod	lt_18	24.9
+27087	Minnesota	Mahnomen	lt_18	29.8
+27089	Minnesota	Marshall	lt_18	22.9
+27091	Minnesota	Martin	lt_18	21.8
+27093	Minnesota	Meeker	lt_18	25
+27095	Minnesota	Mille Lacs	lt_18	25.1
+27097	Minnesota	Morrison	lt_18	24.3
+27099	Minnesota	Mower	lt_18	25.4
+27101	Minnesota	Murray	lt_18	21.9
+27103	Minnesota	Nicollet	lt_18	22.1
+27105	Minnesota	Nobles	lt_18	26
+27107	Minnesota	Norman	lt_18	23.8
+27109	Minnesota	Olmsted	lt_18	25
+27111	Minnesota	Otter Tail	lt_18	21.4
+27113	Minnesota	Pennington	lt_18	23.5
+27115	Minnesota	Pine	lt_18	21.5
+27117	Minnesota	Pipestone	lt_18	24.7
+27119	Minnesota	Polk	lt_18	23.4
+27121	Minnesota	Pope	lt_18	20.7
+27123	Minnesota	Ramsey	lt_18	23.2
+27125	Minnesota	Red Lake	lt_18	24.2
+27127	Minnesota	Redwood	lt_18	24.5
+27129	Minnesota	Renville	lt_18	22.6
+27131	Minnesota	Rice	lt_18	23.1
+27133	Minnesota	Rock	lt_18	25.8
+27135	Minnesota	Roseau	lt_18	25.9
+27137	Minnesota	St. Louis	lt_18	19.4
+27139	Minnesota	Scott	lt_18	29.7
+27141	Minnesota	Sherburne	lt_18	28.5
+27143	Minnesota	Sibley	lt_18	25.1
+27145	Minnesota	Stearns	lt_18	22.7
+27147	Minnesota	Steele	lt_18	26.1
+27149	Minnesota	Stevens	lt_18	20.2
+27151	Minnesota	Swift	lt_18	22
+27153	Minnesota	Todd	lt_18	24.5
+27155	Minnesota	Traverse	lt_18	21.1
+27157	Minnesota	Wabasha	lt_18	22.9
+27159	Minnesota	Wadena	lt_18	23.7
+27161	Minnesota	Waseca	lt_18	23.5
+27163	Minnesota	Washington	lt_18	26.1
+27165	Minnesota	Watonwan	lt_18	24.8
+27167	Minnesota	Wilkin	lt_18	23.8
+27169	Minnesota	Winona	lt_18	18.8
+27171	Minnesota	Wright	lt_18	29.6
+27173	Minnesota	Yellow Medicine	lt_18	23.5
+28001	Mississippi	Adams	lt_18	22
+28003	Mississippi	Alcorn	lt_18	24.2
+28005	Mississippi	Amite	lt_18	22
+28007	Mississippi	Attala	lt_18	26
+28009	Mississippi	Benton	lt_18	24.1
+28011	Mississippi	Bolivar	lt_18	25.5
+28013	Mississippi	Calhoun	lt_18	24.9
+28015	Mississippi	Carroll	lt_18	21.1
+28017	Mississippi	Chickasaw	lt_18	26.2
+28019	Mississippi	Choctaw	lt_18	23.7
+28021	Mississippi	Claiborne	lt_18	23.7
+28023	Mississippi	Clarke	lt_18	24.6
+28025	Mississippi	Clay	lt_18	25.4
+28027	Mississippi	Coahoma	lt_18	29.2
+28029	Mississippi	Copiah	lt_18	24.7
+28031	Mississippi	Covington	lt_18	25.9
+28033	Mississippi	DeSoto	lt_18	27.7
+28035	Mississippi	Forrest	lt_18	23.5
+28037	Mississippi	Franklin	lt_18	24.9
+28039	Mississippi	George	lt_18	26.5
+28041	Mississippi	Greene	lt_18	21.4
+28043	Mississippi	Grenada	lt_18	24.6
+28045	Mississippi	Hancock	lt_18	23.7
+28047	Mississippi	Harrison	lt_18	24.5
+28049	Mississippi	Hinds	lt_18	26
+28051	Mississippi	Holmes	lt_18	28.8
+28053	Mississippi	Humphreys	lt_18	28.7
+28055	Mississippi	Issaquena	lt_18	20
+28057	Mississippi	Itawamba	lt_18	22.8
+28059	Mississippi	Jackson	lt_18	25.2
+28061	Mississippi	Jasper	lt_18	24.3
+28063	Mississippi	Jefferson	lt_18	23.4
+28065	Mississippi	Jefferson Davis	lt_18	23.1
+28067	Mississippi	Jones	lt_18	25.6
+28069	Mississippi	Kemper	lt_18	22.6
+28071	Mississippi	Lafayette	lt_18	18.4
+28073	Mississippi	Lamar	lt_18	26
+28075	Mississippi	Lauderdale	lt_18	24.8
+28077	Mississippi	Lawrence	lt_18	24.9
+28079	Mississippi	Leake	lt_18	30.8
+28081	Mississippi	Lee	lt_18	26.5
+28083	Mississippi	Leflore	lt_18	27.1
+28085	Mississippi	Lincoln	lt_18	25.9
+28087	Mississippi	Lowndes	lt_18	24.9
+28089	Mississippi	Madison	lt_18	26.5
+28091	Mississippi	Marion	lt_18	25.4
+28093	Mississippi	Marshall	lt_18	23
+28095	Mississippi	Monroe	lt_18	23.9
+28097	Mississippi	Montgomery	lt_18	23.8
+28099	Mississippi	Neshoba	lt_18	28.6
+28101	Mississippi	Newton	lt_18	25.8
+28103	Mississippi	Noxubee	lt_18	26.8
+28105	Mississippi	Oktibbeha	lt_18	17.8
+28107	Mississippi	Panola	lt_18	26.9
+28109	Mississippi	Pearl River	lt_18	24.3
+28111	Mississippi	Perry	lt_18	25
+28113	Mississippi	Pike	lt_18	26.7
+28115	Mississippi	Pontotoc	lt_18	26.7
+28117	Mississippi	Prentiss	lt_18	23.2
+28119	Mississippi	Quitman	lt_18	26.4
+28121	Mississippi	Rankin	lt_18	24.9
+28123	Mississippi	Scott	lt_18	27.1
+28125	Mississippi	Sharkey	lt_18	25.2
+28127	Mississippi	Simpson	lt_18	26
+28129	Mississippi	Smith	lt_18	25.3
+28131	Mississippi	Stone	lt_18	23.7
+28133	Mississippi	Sunflower	lt_18	24
+28135	Mississippi	Tallahatchie	lt_18	22.3
+28137	Mississippi	Tate	lt_18	25.6
+28139	Mississippi	Tippah	lt_18	25
+28141	Mississippi	Tishomingo	lt_18	22.6
+28143	Mississippi	Tunica	lt_18	30.1
+28145	Mississippi	Union	lt_18	25.7
+28147	Mississippi	Walthall	lt_18	25.7
+28149	Mississippi	Warren	lt_18	25.5
+28151	Mississippi	Washington	lt_18	27.8
+28153	Mississippi	Wayne	lt_18	25.7
+28155	Mississippi	Webster	lt_18	24.5
+28157	Mississippi	Wilkinson	lt_18	22.5
+28159	Mississippi	Winston	lt_18	24.7
+28161	Mississippi	Yalobusha	lt_18	23.7
+28163	Mississippi	Yazoo	lt_18	25.2
+29001	Missouri	Adair	lt_18	18.4
+29003	Missouri	Andrew	lt_18	23.4
+29005	Missouri	Atchison	lt_18	20.7
+29007	Missouri	Audrain	lt_18	24.8
+29009	Missouri	Barry	lt_18	23.9
+29011	Missouri	Barton	lt_18	25.6
+29013	Missouri	Bates	lt_18	24.7
+29015	Missouri	Benton	lt_18	17.4
+29017	Missouri	Bollinger	lt_18	23.2
+29019	Missouri	Boone	lt_18	20.7
+29021	Missouri	Buchanan	lt_18	23.5
+29023	Missouri	Butler	lt_18	23.2
+29025	Missouri	Caldwell	lt_18	24.7
+29027	Missouri	Callaway	lt_18	22.1
+29029	Missouri	Camden	lt_18	18.8
+29031	Missouri	Cape Girardeau	lt_18	21.7
+29033	Missouri	Carroll	lt_18	23.6
+29035	Missouri	Carter	lt_18	24.1
+29037	Missouri	Cass	lt_18	26.1
+29039	Missouri	Cedar	lt_18	23
+29041	Missouri	Chariton	lt_18	22.3
+29043	Missouri	Christian	lt_18	26.9
+29045	Missouri	Clark	lt_18	23.4
+29047	Missouri	Clay	lt_18	25.5
+29049	Missouri	Clinton	lt_18	24.3
+29051	Missouri	Cole	lt_18	23.3
+29053	Missouri	Cooper	lt_18	22.1
+29055	Missouri	Crawford	lt_18	24.3
+29057	Missouri	Dade	lt_18	22.1
+29059	Missouri	Dallas	lt_18	24.4
+29061	Missouri	Daviess	lt_18	26
+29063	Missouri	DeKalb	lt_18	17.5
+29065	Missouri	Dent	lt_18	23
+29067	Missouri	Douglas	lt_18	22.1
+29069	Missouri	Dunklin	lt_18	25.4
+29071	Missouri	Franklin	lt_18	24.3
+29073	Missouri	Gasconade	lt_18	21.1
+29075	Missouri	Gentry	lt_18	24.6
+29077	Missouri	Greene	lt_18	21
+29079	Missouri	Grundy	lt_18	24.2
+29081	Missouri	Harrison	lt_18	24.5
+29083	Missouri	Henry	lt_18	22.1
+29085	Missouri	Hickory	lt_18	17.3
+29087	Missouri	Holt	lt_18	20
+29089	Missouri	Howard	lt_18	21.7
+29091	Missouri	Howell	lt_18	24.6
+29093	Missouri	Iron	lt_18	22.2
+29095	Missouri	Jackson	lt_18	24.4
+29097	Missouri	Jasper	lt_18	25.6
+29099	Missouri	Jefferson	lt_18	24.8
+29101	Missouri	Johnson	lt_18	22.3
+29103	Missouri	Knox	lt_18	24.5
+29105	Missouri	Laclede	lt_18	24.8
+29107	Missouri	Lafayette	lt_18	24
+29109	Missouri	Lawrence	lt_18	26
+29111	Missouri	Lewis	lt_18	23
+29113	Missouri	Lincoln	lt_18	27.6
+29115	Missouri	Linn	lt_18	24.1
+29117	Missouri	Livingston	lt_18	21.7
+29119	Missouri	McDonald	lt_18	27.6
+29121	Missouri	Macon	lt_18	23.7
+29123	Missouri	Madison	lt_18	23.8
+29125	Missouri	Maries	lt_18	22.9
+29127	Missouri	Marion	lt_18	23.7
+29129	Missouri	Mercer	lt_18	24.9
+29131	Missouri	Miller	lt_18	24.5
+29133	Missouri	Mississippi	lt_18	22.1
+29135	Missouri	Moniteau	lt_18	24.8
+29137	Missouri	Monroe	lt_18	22.6
+29139	Missouri	Montgomery	lt_18	23.3
+29141	Missouri	Morgan	lt_18	21.6
+29143	Missouri	New Madrid	lt_18	23.6
+29145	Missouri	Newton	lt_18	25.2
+29147	Missouri	Nodaway	lt_18	18.1
+29149	Missouri	Oregon	lt_18	22.3
+29151	Missouri	Osage	lt_18	24.3
+29153	Missouri	Ozark	lt_18	19.6
+29155	Missouri	Pemiscot	lt_18	27.5
+29157	Missouri	Perry	lt_18	24.7
+29159	Missouri	Pettis	lt_18	25.3
+29161	Missouri	Phelps	lt_18	21.5
+29163	Missouri	Pike	lt_18	22.1
+29165	Missouri	Platte	lt_18	24.2
+29167	Missouri	Polk	lt_18	24.3
+29169	Missouri	Pulaski	lt_18	23.9
+29171	Missouri	Putnam	lt_18	22.7
+29173	Missouri	Ralls	lt_18	22.9
+29175	Missouri	Randolph	lt_18	22.9
+29177	Missouri	Ray	lt_18	24.6
+29179	Missouri	Reynolds	lt_18	22.5
+29181	Missouri	Ripley	lt_18	23.6
+29183	Missouri	St. Charles	lt_18	25.2
+29185	Missouri	St. Clair	lt_18	19.5
+29186	Missouri	Ste. Genevieve	lt_18	22.8
+29187	Missouri	St. Francois	lt_18	21.9
+29189	Missouri	St. Louis	lt_18	23
+29195	Missouri	Saline	lt_18	22.6
+29197	Missouri	Schuyler	lt_18	24.8
+29199	Missouri	Scotland	lt_18	28.2
+29201	Missouri	Scott	lt_18	24.7
+29203	Missouri	Shannon	lt_18	22.9
+29205	Missouri	Shelby	lt_18	24.9
+29207	Missouri	Stoddard	lt_18	22.4
+29209	Missouri	Stone	lt_18	18.1
+29211	Missouri	Sullivan	lt_18	24
+29213	Missouri	Taney	lt_18	22.1
+29215	Missouri	Texas	lt_18	21.8
+29217	Missouri	Vernon	lt_18	24.7
+29219	Missouri	Warren	lt_18	24.5
+29221	Missouri	Washington	lt_18	23.7
+29223	Missouri	Wayne	lt_18	20.9
+29225	Missouri	Webster	lt_18	27.2
+29227	Missouri	Worth	lt_18	20.6
+29229	Missouri	Wright	lt_18	25.5
+29510	Missouri	St. Louis City	lt_18	21.2
+30001	Montana	Beaverhead	lt_18	19.2
+30003	Montana	Big Horn	lt_18	32.8
+30005	Montana	Blaine	lt_18	30.8
+30007	Montana	Broadwater	lt_18	21.7
+30009	Montana	Carbon	lt_18	19.4
+30011	Montana	Carter	lt_18	16.8
+30013	Montana	Cascade	lt_18	22.7
+30015	Montana	Chouteau	lt_18	25.7
+30017	Montana	Custer	lt_18	22.8
+30019	Montana	Daniels	lt_18	20.5
+30021	Montana	Dawson	lt_18	21
+30023	Montana	Deer Lodge	lt_18	18.7
+30025	Montana	Fallon	lt_18	23.7
+30027	Montana	Fergus	lt_18	19.6
+30029	Montana	Flathead	lt_18	22.9
+30031	Montana	Gallatin	lt_18	20.6
+30033	Montana	Garfield	lt_18	24.2
+30035	Montana	Glacier	lt_18	31.5
+30037	Montana	Golden Valley	lt_18	22
+30039	Montana	Granite	lt_18	16.8
+30041	Montana	Hill	lt_18	26.9
+30043	Montana	Jefferson	lt_18	22
+30045	Montana	Judith Basin	lt_18	19.2
+30047	Montana	Lake	lt_18	25.4
+30049	Montana	Lewis and Clark	lt_18	22.4
+30051	Montana	Liberty	lt_18	21.5
+30053	Montana	Lincoln	lt_18	19.5
+30055	Montana	McCone	lt_18	20.3
+30057	Montana	Madison	lt_18	16.9
+30059	Montana	Meagher	lt_18	19.4
+30061	Montana	Mineral	lt_18	17.6
+30063	Montana	Missoula	lt_18	19.5
+30065	Montana	Musselshell	lt_18	20.8
+30067	Montana	Park	lt_18	19.2
+30069	Montana	Petroleum	lt_18	21.4
+30071	Montana	Phillips	lt_18	22.2
+30073	Montana	Pondera	lt_18	24.6
+30075	Montana	Powder River	lt_18	18.4
+30077	Montana	Powell	lt_18	16.8
+30079	Montana	Prairie	lt_18	17.1
+30081	Montana	Ravalli	lt_18	21.3
+30083	Montana	Richland	lt_18	23.2
+30085	Montana	Roosevelt	lt_18	31.5
+30087	Montana	Rosebud	lt_18	29.4
+30089	Montana	Sanders	lt_18	19.9
+30091	Montana	Sheridan	lt_18	19.6
+30093	Montana	Silver Bow	lt_18	20.8
+30095	Montana	Stillwater	lt_18	22.3
+30097	Montana	Sweet Grass	lt_18	22.6
+30099	Montana	Teton	lt_18	22.7
+30101	Montana	Toole	lt_18	20
+30103	Montana	Treasure	lt_18	18.8
+30105	Montana	Valley	lt_18	22.9
+30107	Montana	Wheatland	lt_18	23.7
+30109	Montana	Wibaux	lt_18	20.6
+30111	Montana	Yellowstone	lt_18	23.5
+31001	Nebraska	Adams	lt_18	23.7
+31003	Nebraska	Antelope	lt_18	23.6
+31005	Nebraska	Arthur	lt_18	27.9
+31007	Nebraska	Banner	lt_18	20.8
+31009	Nebraska	Blaine	lt_18	23.5
+31011	Nebraska	Boone	lt_18	22.8
+31013	Nebraska	Box Butte	lt_18	25.1
+31015	Nebraska	Boyd	lt_18	20.8
+31017	Nebraska	Brown	lt_18	21.6
+31019	Nebraska	Buffalo	lt_18	23.6
+31021	Nebraska	Burt	lt_18	22.2
+31023	Nebraska	Butler	lt_18	24
+31025	Nebraska	Cass	lt_18	24.9
+31027	Nebraska	Cedar	lt_18	25.1
+31029	Nebraska	Chase	lt_18	23.8
+31031	Nebraska	Cherry	lt_18	21.8
+31033	Nebraska	Cheyenne	lt_18	23.7
+31035	Nebraska	Clay	lt_18	24.6
+31037	Nebraska	Colfax	lt_18	29.5
+31039	Nebraska	Cuming	lt_18	24.6
+31041	Nebraska	Custer	lt_18	23.2
+31043	Nebraska	Dakota	lt_18	30
+31045	Nebraska	Dawes	lt_18	18.6
+31047	Nebraska	Dawson	lt_18	28.6
+31049	Nebraska	Deuel	lt_18	20.7
+31051	Nebraska	Dixon	lt_18	25.5
+31053	Nebraska	Dodge	lt_18	23.8
+31055	Nebraska	Douglas	lt_18	26.1
+31057	Nebraska	Dundy	lt_18	22.4
+31059	Nebraska	Fillmore	lt_18	23
+31061	Nebraska	Franklin	lt_18	20.7
+31063	Nebraska	Frontier	lt_18	20.6
+31065	Nebraska	Furnas	lt_18	22.9
+31067	Nebraska	Gage	lt_18	22.6
+31069	Nebraska	Garden	lt_18	17.9
+31071	Nebraska	Garfield	lt_18	20.4
+31073	Nebraska	Gosper	lt_18	21.1
+31075	Nebraska	Grant	lt_18	19.5
+31077	Nebraska	Greeley	lt_18	23
+31079	Nebraska	Hall	lt_18	27.3
+31081	Nebraska	Hamilton	lt_18	24.8
+31083	Nebraska	Harlan	lt_18	21
+31085	Nebraska	Hayes	lt_18	21.7
+31087	Nebraska	Hitchcock	lt_18	21.2
+31089	Nebraska	Holt	lt_18	23.2
+31091	Nebraska	Hooker	lt_18	21.5
+31093	Nebraska	Howard	lt_18	24.3
+31095	Nebraska	Jefferson	lt_18	21.5
+31097	Nebraska	Johnson	lt_18	19.4
+31099	Nebraska	Kearney	lt_18	24.2
+31101	Nebraska	Keith	lt_18	20.7
+31103	Nebraska	Keya Paha	lt_18	21.2
+31105	Nebraska	Kimball	lt_18	22
+31107	Nebraska	Knox	lt_18	23.8
+31109	Nebraska	Lancaster	lt_18	22.9
+31111	Nebraska	Lincoln	lt_18	24.7
+31113	Nebraska	Logan	lt_18	24.9
+31115	Nebraska	Loup	lt_18	22.5
+31117	Nebraska	McPherson	lt_18	29.2
+31119	Nebraska	Madison	lt_18	25
+31121	Nebraska	Merrick	lt_18	24.3
+31123	Nebraska	Morrill	lt_18	24.3
+31125	Nebraska	Nance	lt_18	23.4
+31127	Nebraska	Nemaha	lt_18	21.1
+31129	Nebraska	Nuckolls	lt_18	20.3
+31131	Nebraska	Otoe	lt_18	23.7
+31133	Nebraska	Pawnee	lt_18	21.2
+31135	Nebraska	Perkins	lt_18	24.1
+31137	Nebraska	Phelps	lt_18	24.1
+31139	Nebraska	Pierce	lt_18	25.3
+31141	Nebraska	Platte	lt_18	26.5
+31143	Nebraska	Polk	lt_18	23.9
+31145	Nebraska	Red Willow	lt_18	22.9
+31147	Nebraska	Richardson	lt_18	21.5
+31149	Nebraska	Rock	lt_18	19.9
+31151	Nebraska	Saline	lt_18	24.5
+31153	Nebraska	Sarpy	lt_18	28.5
+31155	Nebraska	Saunders	lt_18	25.3
+31157	Nebraska	Scotts Bluff	lt_18	24.5
+31159	Nebraska	Seward	lt_18	23.1
+31161	Nebraska	Sheridan	lt_18	22.8
+31163	Nebraska	Sherman	lt_18	21.9
+31165	Nebraska	Sioux	lt_18	21.9
+31167	Nebraska	Stanton	lt_18	27
+31169	Nebraska	Thayer	lt_18	20.7
+31171	Nebraska	Thomas	lt_18	22.1
+31173	Nebraska	Thurston	lt_18	35.7
+31175	Nebraska	Valley	lt_18	21.9
+31177	Nebraska	Washington	lt_18	24.5
+31179	Nebraska	Wayne	lt_18	18.3
+31181	Nebraska	Webster	lt_18	22
+31183	Nebraska	Wheeler	lt_18	23.8
+31185	Nebraska	York	lt_18	22.5
+32001	Nevada	Churchill	lt_18	24.9
+32003	Nevada	Clark	lt_18	24.8
+32005	Nevada	Douglas	lt_18	19.5
+32007	Nevada	Elko	lt_18	28.9
+32009	Nevada	Esmeralda	lt_18	18.6
+32011	Nevada	Eureka	lt_18	24
+32013	Nevada	Humboldt	lt_18	27
+32015	Nevada	Lander	lt_18	26.9
+32017	Nevada	Lincoln	lt_18	25.2
+32019	Nevada	Lyon	lt_18	24.1
+32021	Nevada	Mineral	lt_18	18.3
+32023	Nevada	Nye	lt_18	19.9
+32027	Nevada	Pershing	lt_18	18.5
+32029	Nevada	Storey	lt_18	16.2
+32031	Nevada	Washoe	lt_18	23.3
+32033	Nevada	White Pine	lt_18	21.5
+32510	Nevada	Carson City	lt_18	21.2
+33001	New Hampshire	Belknap	lt_18	20.3
+33003	New Hampshire	Carroll	lt_18	18
+33005	New Hampshire	Cheshire	lt_18	19.2
+33007	New Hampshire	Coos	lt_18	18.2
+33009	New Hampshire	Grafton	lt_18	17.9
+33011	New Hampshire	Hillsborough	lt_18	22.9
+33013	New Hampshire	Merrimack	lt_18	21.2
+33015	New Hampshire	Rockingham	lt_18	22.1
+33017	New Hampshire	Strafford	lt_18	20.1
+33019	New Hampshire	Sullivan	lt_18	20.6
+34001	New Jersey	Atlantic	lt_18	23
+34003	New Jersey	Bergen	lt_18	22.2
+34005	New Jersey	Burlington	lt_18	22.8
+34007	New Jersey	Camden	lt_18	24
+34009	New Jersey	Cape May	lt_18	18.5
+34011	New Jersey	Cumberland	lt_18	24
+34013	New Jersey	Essex	lt_18	24.6
+34015	New Jersey	Gloucester	lt_18	23.9
+34017	New Jersey	Hudson	lt_18	20.6
+34019	New Jersey	Hunterdon	lt_18	22.7
+34021	New Jersey	Mercer	lt_18	22.4
+34023	New Jersey	Middlesex	lt_18	22.6
+34025	New Jersey	Monmouth	lt_18	23.3
+34027	New Jersey	Morris	lt_18	23.3
+34029	New Jersey	Ocean	lt_18	23.3
+34031	New Jersey	Passaic	lt_18	24.6
+34033	New Jersey	Salem	lt_18	23.1
+34035	New Jersey	Somerset	lt_18	24.5
+34037	New Jersey	Sussex	lt_18	23.2
+34039	New Jersey	Union	lt_18	24.2
+34041	New Jersey	Warren	lt_18	22.9
+35001	New Mexico	Bernalillo	lt_18	23.8
+35003	New Mexico	Catron	lt_18	15.2
+35005	New Mexico	Chaves	lt_18	28
+35006	New Mexico	Cibola	lt_18	24.8
+35007	New Mexico	Colfax	lt_18	20.4
+35009	New Mexico	Curry	lt_18	28.2
+35011	New Mexico	De Baca	lt_18	21.5
+35013	New Mexico	Dona Ana	lt_18	26.5
+35015	New Mexico	Eddy	lt_18	25.7
+35017	New Mexico	Grant	lt_18	21.5
+35019	New Mexico	Guadalupe	lt_18	21
+35021	New Mexico	Harding	lt_18	15.5
+35023	New Mexico	Hidalgo	lt_18	25.4
+35025	New Mexico	Lea	lt_18	29.5
+35027	New Mexico	Lincoln	lt_18	19
+35028	New Mexico	Los Alamos	lt_18	23.5
+35029	New Mexico	Luna	lt_18	26.5
+35031	New Mexico	McKinley	lt_18	31.9
+35033	New Mexico	Mora	lt_18	20.2
+35035	New Mexico	Otero	lt_18	24.7
+35037	New Mexico	Quay	lt_18	21.6
+35039	New Mexico	Rio Arriba	lt_18	24.4
+35041	New Mexico	Roosevelt	lt_18	26.5
+35043	New Mexico	Sandoval	lt_18	26
+35045	New Mexico	San Juan	lt_18	28.7
+35047	New Mexico	San Miguel	lt_18	21.4
+35049	New Mexico	Santa Fe	lt_18	20.6
+35051	New Mexico	Sierra	lt_18	16.1
+35053	New Mexico	Socorro	lt_18	23.8
+35055	New Mexico	Taos	lt_18	20.2
+35057	New Mexico	Torrance	lt_18	23.4
+35059	New Mexico	Union	lt_18	18.8
+35061	New Mexico	Valencia	lt_18	25.9
+36001	New York	Albany	lt_18	19.5
+36003	New York	Allegany	lt_18	21.2
+36005	New York	Bronx	lt_18	26.5
+36007	New York	Broome	lt_18	19.9
+36009	New York	Cattaraugus	lt_18	23.1
+36011	New York	Cayuga	lt_18	21.2
+36013	New York	Chautauqua	lt_18	21.5
+36015	New York	Chemung	lt_18	22.1
+36017	New York	Chenango	lt_18	22.3
+36019	New York	Clinton	lt_18	18.8
+36021	New York	Columbia	lt_18	19.7
+36023	New York	Cortland	lt_18	20.6
+36025	New York	Delaware	lt_18	19.3
+36027	New York	Dutchess	lt_18	21.6
+36029	New York	Erie	lt_18	21.3
+36031	New York	Essex	lt_18	18.8
+36033	New York	Franklin	lt_18	20.4
+36035	New York	Fulton	lt_18	21.8
+36037	New York	Genesee	lt_18	21.7
+36039	New York	Greene	lt_18	19
+36041	New York	Hamilton	lt_18	16.3
+36043	New York	Herkimer	lt_18	21.9
+36045	New York	Jefferson	lt_18	25.2
+36047	New York	Kings	lt_18	23.6
+36049	New York	Lewis	lt_18	24.2
+36051	New York	Livingston	lt_18	19.6
+36053	New York	Madison	lt_18	21.2
+36055	New York	Monroe	lt_18	22.2
+36057	New York	Montgomery	lt_18	23.1
+36059	New York	Nassau	lt_18	22.8
+36061	New York	New York	lt_18	14.8
+36063	New York	Niagara	lt_18	21.1
+36065	New York	Oneida	lt_18	21.5
+36067	New York	Onondaga	lt_18	22.5
+36069	New York	Ontario	lt_18	22
+36071	New York	Orange	lt_18	26.7
+36073	New York	Orleans	lt_18	21.7
+36075	New York	Oswego	lt_18	22.5
+36077	New York	Otsego	lt_18	17.9
+36079	New York	Putnam	lt_18	23
+36081	New York	Queens	lt_18	20.6
+36083	New York	Rensselaer	lt_18	21
+36085	New York	Richmond	lt_18	22.9
+36087	New York	Rockland	lt_18	27.8
+36089	New York	St. Lawrence	lt_18	20.9
+36091	New York	Saratoga	lt_18	22.1
+36093	New York	Schenectady	lt_18	22.5
+36095	New York	Schoharie	lt_18	19.6
+36097	New York	Schuyler	lt_18	20.4
+36099	New York	Seneca	lt_18	20.8
+36101	New York	Steuben	lt_18	23
+36103	New York	Suffolk	lt_18	23.5
+36105	New York	Sullivan	lt_18	22.3
+36107	New York	Tioga	lt_18	22.9
+36109	New York	Tompkins	lt_18	15.5
+36111	New York	Ulster	lt_18	19.6
+36113	New York	Warren	lt_18	20.1
+36115	New York	Washington	lt_18	20.6
+36117	New York	Wayne	lt_18	23.2
+36119	New York	Westchester	lt_18	23.6
+36121	New York	Wyoming	lt_18	20
+36123	New York	Yates	lt_18	24
+37001	North Carolina	Alamance	lt_18	23.3
+37003	North Carolina	Alexander	lt_18	22.4
+37005	North Carolina	Alleghany	lt_18	19.7
+37007	North Carolina	Anson	lt_18	21.5
+37009	North Carolina	Ashe	lt_18	19
+37011	North Carolina	Avery	lt_18	17
+37013	North Carolina	Beaufort	lt_18	21.8
+37015	North Carolina	Bertie	lt_18	20.3
+37017	North Carolina	Bladen	lt_18	22.7
+37019	North Carolina	Brunswick	lt_18	18.4
+37021	North Carolina	Buncombe	lt_18	20.3
+37023	North Carolina	Burke	lt_18	22.1
+37025	North Carolina	Cabarrus	lt_18	27.1
+37027	North Carolina	Caldwell	lt_18	22.2
+37029	North Carolina	Camden	lt_18	25
+37031	North Carolina	Carteret	lt_18	18.7
+37033	North Carolina	Caswell	lt_18	19.8
+37035	North Carolina	Catawba	lt_18	23.5
+37037	North Carolina	Chatham	lt_18	21.6
+37039	North Carolina	Cherokee	lt_18	18.6
+37041	North Carolina	Chowan	lt_18	22.1
+37043	North Carolina	Clay	lt_18	18.4
+37045	North Carolina	Cleveland	lt_18	23
+37047	North Carolina	Columbus	lt_18	23.1
+37049	North Carolina	Craven	lt_18	23
+37051	North Carolina	Cumberland	lt_18	26.5
+37053	North Carolina	Currituck	lt_18	23.2
+37055	North Carolina	Dare	lt_18	19.9
+37057	North Carolina	Davidson	lt_18	23.5
+37059	North Carolina	Davie	lt_18	23.1
+37061	North Carolina	Duplin	lt_18	25.3
+37063	North Carolina	Durham	lt_18	22.7
+37065	North Carolina	Edgecombe	lt_18	24
+37067	North Carolina	Forsyth	lt_18	24.2
+37069	North Carolina	Franklin	lt_18	24.1
+37071	North Carolina	Gaston	lt_18	23.7
+37073	North Carolina	Gates	lt_18	23.2
+37075	North Carolina	Graham	lt_18	21.6
+37077	North Carolina	Granville	lt_18	21.6
+37079	North Carolina	Greene	lt_18	22.9
+37081	North Carolina	Guilford	lt_18	23.2
+37083	North Carolina	Halifax	lt_18	22.7
+37085	North Carolina	Harnett	lt_18	27.7
+37087	North Carolina	Haywood	lt_18	19
+37089	North Carolina	Henderson	lt_18	20.3
+37091	North Carolina	Hertford	lt_18	21.1
+37093	North Carolina	Hoke	lt_18	30
+37095	North Carolina	Hyde	lt_18	18.4
+37097	North Carolina	Iredell	lt_18	25
+37099	North Carolina	Jackson	lt_18	17.5
+37101	North Carolina	Johnston	lt_18	27.6
+37103	North Carolina	Jones	lt_18	20.6
+37105	North Carolina	Lee	lt_18	25.8
+37107	North Carolina	Lenoir	lt_18	23.9
+37109	North Carolina	Lincoln	lt_18	23.2
+37111	North Carolina	McDowell	lt_18	21.4
+37113	North Carolina	Macon	lt_18	19.1
+37115	North Carolina	Madison	lt_18	19.5
+37117	North Carolina	Martin	lt_18	21.7
+37119	North Carolina	Mecklenburg	lt_18	25.3
+37121	North Carolina	Mitchell	lt_18	19
+37123	North Carolina	Montgomery	lt_18	24.1
+37125	North Carolina	Moore	lt_18	21.5
+37127	North Carolina	Nash	lt_18	23.5
+37129	North Carolina	New Hanover	lt_18	19.7
+37131	North Carolina	Northampton	lt_18	20.5
+37133	North Carolina	Onslow	lt_18	25.1
+37135	North Carolina	Orange	lt_18	20.5
+37137	North Carolina	Pamlico	lt_18	18
+37139	North Carolina	Pasquotank	lt_18	22.2
+37141	North Carolina	Pender	lt_18	22.6
+37143	North Carolina	Perquimans	lt_18	20.1
+37145	North Carolina	Person	lt_18	23
+37147	North Carolina	Pitt	lt_18	22.2
+37149	North Carolina	Polk	lt_18	18.6
+37151	North Carolina	Randolph	lt_18	24.3
+37153	North Carolina	Richmond	lt_18	24.4
+37155	North Carolina	Robeson	lt_18	26.9
+37157	North Carolina	Rockingham	lt_18	21.8
+37159	North Carolina	Rowan	lt_18	23.4
+37161	North Carolina	Rutherford	lt_18	22
+37163	North Carolina	Sampson	lt_18	25.3
+37165	North Carolina	Scotland	lt_18	24.8
+37167	North Carolina	Stanly	lt_18	22.4
+37169	North Carolina	Stokes	lt_18	21.6
+37171	North Carolina	Surry	lt_18	23
+37173	North Carolina	Swain	lt_18	23.3
+37175	North Carolina	Transylvania	lt_18	17.5
+37177	North Carolina	Tyrrell	lt_18	18.1
+37179	North Carolina	Union	lt_18	29.9
+37181	North Carolina	Vance	lt_18	25.1
+37183	North Carolina	Wake	lt_18	25.8
+37185	North Carolina	Warren	lt_18	20.1
+37187	North Carolina	Washington	lt_18	22.5
+37189	North Carolina	Watauga	lt_18	13.8
+37191	North Carolina	Wayne	lt_18	24.7
+37193	North Carolina	Wilkes	lt_18	22
+37195	North Carolina	Wilson	lt_18	24.4
+37197	North Carolina	Yadkin	lt_18	22.9
+37199	North Carolina	Yancey	lt_18	19.9
+38001	North Dakota	Adams	lt_18	18.7
+38003	North Dakota	Barnes	lt_18	20.6
+38005	North Dakota	Benson	lt_18	33.4
+38007	North Dakota	Billings	lt_18	17.5
+38009	North Dakota	Bottineau	lt_18	19.6
+38011	North Dakota	Bowman	lt_18	21.9
+38013	North Dakota	Burke	lt_18	21.6
+38015	North Dakota	Burleigh	lt_18	22.4
+38017	North Dakota	Cass	lt_18	21.5
+38019	North Dakota	Cavalier	lt_18	19.5
+38021	North Dakota	Dickey	lt_18	23.2
+38023	North Dakota	Divide	lt_18	16.7
+38025	North Dakota	Dunn	lt_18	21.6
+38027	North Dakota	Eddy	lt_18	20.3
+38029	North Dakota	Emmons	lt_18	20.9
+38031	North Dakota	Foster	lt_18	21
+38033	North Dakota	Golden Valley	lt_18	24.7
+38035	North Dakota	Grand Forks	lt_18	19.5
+38037	North Dakota	Grant	lt_18	18.1
+38039	North Dakota	Griggs	lt_18	18.3
+38041	North Dakota	Hettinger	lt_18	19.3
+38043	North Dakota	Kidder	lt_18	21
+38045	North Dakota	LaMoure	lt_18	21.1
+38047	North Dakota	Logan	lt_18	21.1
+38049	North Dakota	McHenry	lt_18	21.4
+38051	North Dakota	McIntosh	lt_18	18.5
+38053	North Dakota	McKenzie	lt_18	26.8
+38055	North Dakota	McLean	lt_18	19.2
+38057	North Dakota	Mercer	lt_18	21.4
+38059	North Dakota	Morton	lt_18	23.6
+38061	North Dakota	Mountrail	lt_18	23.6
+38063	North Dakota	Nelson	lt_18	17.5
+38065	North Dakota	Oliver	lt_18	21.8
+38067	North Dakota	Pembina	lt_18	21.3
+38069	North Dakota	Pierce	lt_18	21
+38071	North Dakota	Ramsey	lt_18	21.6
+38073	North Dakota	Ransom	lt_18	23.2
+38075	North Dakota	Renville	lt_18	22
+38077	North Dakota	Richland	lt_18	21.7
+38079	North Dakota	Rolette	lt_18	33
+38081	North Dakota	Sargent	lt_18	21.9
+38083	North Dakota	Sheridan	lt_18	15.7
+38085	North Dakota	Sioux	lt_18	37
+38087	North Dakota	Slope	lt_18	21.6
+38089	North Dakota	Stark	lt_18	21.7
+38091	North Dakota	Steele	lt_18	20.9
+38093	North Dakota	Stutsman	lt_18	20.3
+38095	North Dakota	Towner	lt_18	20
+38097	North Dakota	Traill	lt_18	21.9
+38099	North Dakota	Walsh	lt_18	22.2
+38101	North Dakota	Ward	lt_18	23.6
+38103	North Dakota	Wells	lt_18	18.8
+38105	North Dakota	Williams	lt_18	23.1
+39001	Ohio	Adams	lt_18	24.7
+39003	Ohio	Allen	lt_18	23.7
+39005	Ohio	Ashland	lt_18	23.4
+39007	Ohio	Ashtabula	lt_18	23.2
+39009	Ohio	Athens	lt_18	15.2
+39011	Ohio	Auglaize	lt_18	24.9
+39013	Ohio	Belmont	lt_18	19.5
+39015	Ohio	Brown	lt_18	24.2
+39017	Ohio	Butler	lt_18	24.9
+39019	Ohio	Carroll	lt_18	22.5
+39021	Ohio	Champaign	lt_18	24.5
+39023	Ohio	Clark	lt_18	23.4
+39025	Ohio	Clermont	lt_18	25.1
+39027	Ohio	Clinton	lt_18	24.3
+39029	Ohio	Columbiana	lt_18	21.5
+39031	Ohio	Coshocton	lt_18	23.7
+39033	Ohio	Crawford	lt_18	22.7
+39035	Ohio	Cuyahoga	lt_18	22.3
+39037	Ohio	Darke	lt_18	24.7
+39039	Ohio	Defiance	lt_18	24.2
+39041	Ohio	Delaware	lt_18	28.5
+39043	Ohio	Erie	lt_18	21.8
+39045	Ohio	Fairfield	lt_18	25.7
+39047	Ohio	Fayette	lt_18	24.4
+39049	Ohio	Franklin	lt_18	23.8
+39051	Ohio	Fulton	lt_18	25.2
+39053	Ohio	Gallia	lt_18	23.5
+39055	Ohio	Geauga	lt_18	25.2
+39057	Ohio	Greene	lt_18	21.2
+39059	Ohio	Guernsey	lt_18	23.5
+39061	Ohio	Hamilton	lt_18	23.5
+39063	Ohio	Hancock	lt_18	23.2
+39065	Ohio	Hardin	lt_18	23.3
+39067	Ohio	Harrison	lt_18	21.8
+39069	Ohio	Henry	lt_18	24.6
+39071	Ohio	Highland	lt_18	24.9
+39073	Ohio	Hocking	lt_18	23.4
+39075	Ohio	Holmes	lt_18	33.9
+39077	Ohio	Huron	lt_18	25.8
+39079	Ohio	Jackson	lt_18	24.4
+39081	Ohio	Jefferson	lt_18	19.9
+39083	Ohio	Knox	lt_18	23.8
+39085	Ohio	Lake	lt_18	21.8
+39087	Ohio	Lawrence	lt_18	23.1
+39089	Ohio	Licking	lt_18	24.4
+39091	Ohio	Logan	lt_18	24.9
+39093	Ohio	Lorain	lt_18	23.5
+39095	Ohio	Lucas	lt_18	23.7
+39097	Ohio	Madison	lt_18	22.3
+39099	Ohio	Mahoning	lt_18	21.2
+39101	Ohio	Marion	lt_18	21.8
+39103	Ohio	Medina	lt_18	24.7
+39105	Ohio	Meigs	lt_18	22.3
+39107	Ohio	Mercer	lt_18	25.9
+39109	Ohio	Miami	lt_18	23.8
+39111	Ohio	Monroe	lt_18	20.9
+39113	Ohio	Montgomery	lt_18	22.7
+39115	Ohio	Morgan	lt_18	23
+39117	Ohio	Morrow	lt_18	25.2
+39119	Ohio	Muskingum	lt_18	23.7
+39121	Ohio	Noble	lt_18	19
+39123	Ohio	Ottawa	lt_18	20.3
+39125	Ohio	Paulding	lt_18	24.6
+39127	Ohio	Perry	lt_18	25.5
+39129	Ohio	Pickaway	lt_18	23.1
+39131	Ohio	Pike	lt_18	24.6
+39133	Ohio	Portage	lt_18	20.2
+39135	Ohio	Preble	lt_18	24
+39137	Ohio	Putnam	lt_18	26.2
+39139	Ohio	Richland	lt_18	22.1
+39141	Ohio	Ross	lt_18	22.3
+39143	Ohio	Sandusky	lt_18	24
+39145	Ohio	Scioto	lt_18	22.5
+39147	Ohio	Seneca	lt_18	23.3
+39149	Ohio	Shelby	lt_18	26.9
+39151	Ohio	Stark	lt_18	22.5
+39153	Ohio	Summit	lt_18	22.5
+39155	Ohio	Trumbull	lt_18	21.8
+39157	Ohio	Tuscarawas	lt_18	23.4
+39159	Ohio	Union	lt_18	26.9
+39161	Ohio	Van Wert	lt_18	24.6
+39163	Ohio	Vinton	lt_18	24.2
+39165	Ohio	Warren	lt_18	27
+39167	Ohio	Washington	lt_18	20.6
+39169	Ohio	Wayne	lt_18	25.1
+39171	Ohio	Williams	lt_18	23.3
+39173	Ohio	Wood	lt_18	21.3
+39175	Ohio	Wyandot	lt_18	24.1
+40001	Oklahoma	Adair	lt_18	27.7
+40003	Oklahoma	Alfalfa	lt_18	17.7
+40005	Oklahoma	Atoka	lt_18	23.8
+40007	Oklahoma	Beaver	lt_18	25.4
+40009	Oklahoma	Beckham	lt_18	24.3
+40011	Oklahoma	Blaine	lt_18	25.4
+40013	Oklahoma	Bryan	lt_18	23.3
+40015	Oklahoma	Caddo	lt_18	25.1
+40017	Oklahoma	Canadian	lt_18	26.7
+40019	Oklahoma	Carter	lt_18	25.7
+40021	Oklahoma	Cherokee	lt_18	23.8
+40023	Oklahoma	Choctaw	lt_18	24.4
+40025	Oklahoma	Cimarron	lt_18	25.1
+40027	Oklahoma	Cleveland	lt_18	22.5
+40029	Oklahoma	Coal	lt_18	25.8
+40031	Oklahoma	Comanche	lt_18	25.1
+40033	Oklahoma	Cotton	lt_18	24.2
+40035	Oklahoma	Craig	lt_18	22.1
+40037	Oklahoma	Creek	lt_18	24.6
+40039	Oklahoma	Custer	lt_18	22.9
+40041	Oklahoma	Delaware	lt_18	22.2
+40043	Oklahoma	Dewey	lt_18	24.6
+40045	Oklahoma	Ellis	lt_18	23.9
+40047	Oklahoma	Garfield	lt_18	24.8
+40049	Oklahoma	Garvin	lt_18	24.6
+40051	Oklahoma	Grady	lt_18	24.7
+40053	Oklahoma	Grant	lt_18	22.3
+40055	Oklahoma	Greer	lt_18	19.5
+40057	Oklahoma	Harmon	lt_18	26
+40059	Oklahoma	Harper	lt_18	25
+40061	Oklahoma	Haskell	lt_18	25.5
+40063	Oklahoma	Hughes	lt_18	21.8
+40065	Oklahoma	Jackson	lt_18	26.2
+40067	Oklahoma	Jefferson	lt_18	23.7
+40069	Oklahoma	Johnston	lt_18	24.5
+40071	Oklahoma	Kay	lt_18	25.2
+40073	Oklahoma	Kingfisher	lt_18	26.2
+40075	Oklahoma	Kiowa	lt_18	23.1
+40077	Oklahoma	Latimer	lt_18	23.9
+40079	Oklahoma	Le Flore	lt_18	24.6
+40081	Oklahoma	Lincoln	lt_18	25.3
+40083	Oklahoma	Logan	lt_18	24.6
+40085	Oklahoma	Love	lt_18	24.3
+40087	Oklahoma	McClain	lt_18	26.7
+40089	Oklahoma	McCurtain	lt_18	26
+40091	Oklahoma	McIntosh	lt_18	20.6
+40093	Oklahoma	Major	lt_18	24.1
+40095	Oklahoma	Marshall	lt_18	24.2
+40097	Oklahoma	Mayes	lt_18	25.5
+40099	Oklahoma	Murray	lt_18	24.2
+40101	Oklahoma	Muskogee	lt_18	24.8
+40103	Oklahoma	Noble	lt_18	24.4
+40105	Oklahoma	Nowata	lt_18	24.1
+40107	Oklahoma	Okfuskee	lt_18	23.3
+40109	Oklahoma	Oklahoma	lt_18	25.4
+40111	Oklahoma	Okmulgee	lt_18	24.4
+40113	Oklahoma	Osage	lt_18	23.9
+40115	Oklahoma	Ottawa	lt_18	24.7
+40117	Oklahoma	Pawnee	lt_18	24.6
+40119	Oklahoma	Payne	lt_18	18.5
+40121	Oklahoma	Pittsburg	lt_18	22.1
+40123	Oklahoma	Pontotoc	lt_18	23.6
+40125	Oklahoma	Pottawatomie	lt_18	24.8
+40127	Oklahoma	Pushmataha	lt_18	22.5
+40129	Oklahoma	Roger Mills	lt_18	26.5
+40131	Oklahoma	Rogers	lt_18	25.6
+40133	Oklahoma	Seminole	lt_18	25.9
+40135	Oklahoma	Sequoyah	lt_18	25.7
+40137	Oklahoma	Stephens	lt_18	23.8
+40139	Oklahoma	Texas	lt_18	28.8
+40141	Oklahoma	Tillman	lt_18	24.5
+40143	Oklahoma	Tulsa	lt_18	25.5
+40145	Oklahoma	Wagoner	lt_18	26.1
+40147	Oklahoma	Washington	lt_18	23.4
+40149	Oklahoma	Washita	lt_18	25.6
+40151	Oklahoma	Woods	lt_18	18.6
+40153	Oklahoma	Woodward	lt_18	24.3
+41001	Oregon	Baker	lt_18	19.8
+41003	Oregon	Benton	lt_18	17.1
+41005	Oregon	Clackamas	lt_18	23.2
+41007	Oregon	Clatsop	lt_18	20.2
+41009	Oregon	Columbia	lt_18	23.2
+41011	Oregon	Coos	lt_18	18.8
+41013	Oregon	Crook	lt_18	21
+41015	Oregon	Curry	lt_18	15.7
+41017	Oregon	Deschutes	lt_18	22.7
+41019	Oregon	Douglas	lt_18	20
+41021	Oregon	Gilliam	lt_18	18.7
+41023	Oregon	Grant	lt_18	18.8
+41025	Oregon	Harney	lt_18	22.2
+41027	Oregon	Hood River	lt_18	25.5
+41029	Oregon	Jackson	lt_18	21.6
+41031	Oregon	Jefferson	lt_18	24.8
+41033	Oregon	Josephine	lt_18	20.1
+41035	Oregon	Klamath	lt_18	22
+41037	Oregon	Lake	lt_18	18.3
+41039	Oregon	Lane	lt_18	19.4
+41041	Oregon	Lincoln	lt_18	17.5
+41043	Oregon	Linn	lt_18	23.8
+41045	Oregon	Malheur	lt_18	25.2
+41047	Oregon	Marion	lt_18	26.3
+41049	Oregon	Morrow	lt_18	28.3
+41051	Oregon	Multnomah	lt_18	20.4
+41053	Oregon	Polk	lt_18	23.7
+41055	Oregon	Sherman	lt_18	19.2
+41057	Oregon	Tillamook	lt_18	19.7
+41059	Oregon	Umatilla	lt_18	26.5
+41061	Oregon	Union	lt_18	22.2
+41063	Oregon	Wallowa	lt_18	18.7
+41065	Oregon	Wasco	lt_18	23
+41067	Oregon	Washington	lt_18	25.3
+41069	Oregon	Wheeler	lt_18	17.7
+41071	Oregon	Yamhill	lt_18	24.7
+42001	Pennsylvania	Adams	lt_18	21.8
+42003	Pennsylvania	Allegheny	lt_18	19.5
+42005	Pennsylvania	Armstrong	lt_18	20.2
+42007	Pennsylvania	Beaver	lt_18	20.2
+42009	Pennsylvania	Bedford	lt_18	21.2
+42011	Pennsylvania	Berks	lt_18	23.5
+42013	Pennsylvania	Blair	lt_18	21
+42015	Pennsylvania	Bradford	lt_18	22.3
+42017	Pennsylvania	Bucks	lt_18	22.5
+42019	Pennsylvania	Butler	lt_18	21.9
+42021	Pennsylvania	Cambria	lt_18	19.3
+42023	Pennsylvania	Cameron	lt_18	18.6
+42025	Pennsylvania	Carbon	lt_18	20.4
+42027	Pennsylvania	Centre	lt_18	15.3
+42029	Pennsylvania	Chester	lt_18	24.4
+42031	Pennsylvania	Clarion	lt_18	18.9
+42033	Pennsylvania	Clearfield	lt_18	19.6
+42035	Pennsylvania	Clinton	lt_18	20.8
+42037	Pennsylvania	Columbia	lt_18	18.1
+42039	Pennsylvania	Crawford	lt_18	22
+42041	Pennsylvania	Cumberland	lt_18	20.3
+42043	Pennsylvania	Dauphin	lt_18	22.9
+42045	Pennsylvania	Delaware	lt_18	23
+42047	Pennsylvania	Elk	lt_18	20.4
+42049	Pennsylvania	Erie	lt_18	22.4
+42051	Pennsylvania	Fayette	lt_18	20
+42053	Pennsylvania	Forest	lt_18	12
+42055	Pennsylvania	Franklin	lt_18	23.6
+42057	Pennsylvania	Fulton	lt_18	22.6
+42059	Pennsylvania	Greene	lt_18	19.6
+42061	Pennsylvania	Huntingdon	lt_18	19.7
+42063	Pennsylvania	Indiana	lt_18	18.4
+42065	Pennsylvania	Jefferson	lt_18	21.2
+42067	Pennsylvania	Juniata	lt_18	23.7
+42069	Pennsylvania	Lackawanna	lt_18	20.3
+42071	Pennsylvania	Lancaster	lt_18	24.6
+42073	Pennsylvania	Lawrence	lt_18	20.9
+42075	Pennsylvania	Lebanon	lt_18	22.8
+42077	Pennsylvania	Lehigh	lt_18	23.3
+42079	Pennsylvania	Luzerne	lt_18	20
+42081	Pennsylvania	Lycoming	lt_18	20.6
+42083	Pennsylvania	McKean	lt_18	20.9
+42085	Pennsylvania	Mercer	lt_18	21.3
+42087	Pennsylvania	Mifflin	lt_18	22.8
+42089	Pennsylvania	Monroe	lt_18	23.1
+42091	Pennsylvania	Montgomery	lt_18	22.6
+42093	Pennsylvania	Montour	lt_18	20.8
+42095	Pennsylvania	Northampton	lt_18	21.4
+42097	Pennsylvania	Northumberland	lt_18	20.3
+42099	Pennsylvania	Perry	lt_18	22.8
+42101	Pennsylvania	Philadelphia	lt_18	22.5
+42103	Pennsylvania	Pike	lt_18	22.4
+42105	Pennsylvania	Potter	lt_18	21.6
+42107	Pennsylvania	Schuylkill	lt_18	19.8
+42109	Pennsylvania	Snyder	lt_18	22
+42111	Pennsylvania	Somerset	lt_18	19
+42113	Pennsylvania	Sullivan	lt_18	16.2
+42115	Pennsylvania	Susquehanna	lt_18	20.6
+42117	Pennsylvania	Tioga	lt_18	20.3
+42119	Pennsylvania	Union	lt_18	18.2
+42121	Pennsylvania	Venango	lt_18	21.2
+42123	Pennsylvania	Warren	lt_18	20.2
+42125	Pennsylvania	Washington	lt_18	20.3
+42127	Pennsylvania	Wayne	lt_18	18.4
+42129	Pennsylvania	Westmoreland	lt_18	19.5
+42131	Pennsylvania	Wyoming	lt_18	20.9
+42133	Pennsylvania	York	lt_18	23.1
+44001	Rhode Island	Bristol	lt_18	20.1
+44003	Rhode Island	Kent	lt_18	20.2
+44005	Rhode Island	Newport	lt_18	19.1
+44007	Rhode Island	Providence	lt_18	21.7
+44009	Rhode Island	Washington	lt_18	19.4
+45001	South Carolina	Abbeville	lt_18	22.3
+45003	South Carolina	Aiken	lt_18	22.2
+45005	South Carolina	Allendale	lt_18	21.6
+45007	South Carolina	Anderson	lt_18	23.7
+45009	South Carolina	Bamberg	lt_18	21.9
+45011	South Carolina	Barnwell	lt_18	25.3
+45013	South Carolina	Beaufort	lt_18	20.8
+45015	South Carolina	Berkeley	lt_18	25
+45017	South Carolina	Calhoun	lt_18	21.6
+45019	South Carolina	Charleston	lt_18	20.7
+45021	South Carolina	Cherokee	lt_18	24.4
+45023	South Carolina	Chester	lt_18	23.6
+45025	South Carolina	Chesterfield	lt_18	24.2
+45027	South Carolina	Clarendon	lt_18	21.8
+45029	South Carolina	Colleton	lt_18	23.9
+45031	South Carolina	Darlington	lt_18	23.8
+45033	South Carolina	Dillon	lt_18	26.3
+45035	South Carolina	Dorchester	lt_18	26.6
+45037	South Carolina	Edgefield	lt_18	20.8
+45039	South Carolina	Fairfield	lt_18	22
+45041	South Carolina	Florence	lt_18	24.5
+45043	South Carolina	Georgetown	lt_18	21.2
+45045	South Carolina	Greenville	lt_18	24.2
+45047	South Carolina	Greenwood	lt_18	23.6
+45049	South Carolina	Hampton	lt_18	23.6
+45051	South Carolina	Horry	lt_18	20
+45053	South Carolina	Jasper	lt_18	24.6
+45055	South Carolina	Kershaw	lt_18	24.3
+45057	South Carolina	Lancaster	lt_18	22.8
+45059	South Carolina	Laurens	lt_18	23
+45061	South Carolina	Lee	lt_18	22.2
+45063	South Carolina	Lexington	lt_18	24.2
+45065	South Carolina	McCormick	lt_18	14.2
+45067	South Carolina	Marion	lt_18	24.1
+45069	South Carolina	Marlboro	lt_18	21.2
+45071	South Carolina	Newberry	lt_18	22.6
+45073	South Carolina	Oconee	lt_18	20.7
+45075	South Carolina	Orangeburg	lt_18	23
+45077	South Carolina	Pickens	lt_18	20
+45079	South Carolina	Richland	lt_18	22.6
+45081	South Carolina	Saluda	lt_18	23
+45083	South Carolina	Spartanburg	lt_18	24.2
+45085	South Carolina	Sumter	lt_18	25.2
+45087	South Carolina	Union	lt_18	22.6
+45089	South Carolina	Williamsburg	lt_18	23
+45091	South Carolina	York	lt_18	25.3
+46003	South Dakota	Aurora	lt_18	26.5
+46005	South Dakota	Beadle	lt_18	24.5
+46007	South Dakota	Bennett	lt_18	34.3
+46009	South Dakota	Bon Homme	lt_18	19.4
+46011	South Dakota	Brookings	lt_18	18.7
+46013	South Dakota	Brown	lt_18	23.1
+46015	South Dakota	Brule	lt_18	25.3
+46017	South Dakota	Buffalo	lt_18	40.5
+46019	South Dakota	Butte	lt_18	24.8
+46021	South Dakota	Campbell	lt_18	17.3
+46023	South Dakota	Charles Mix	lt_18	29.7
+46025	South Dakota	Clark	lt_18	23.6
+46027	South Dakota	Clay	lt_18	17.3
+46029	South Dakota	Codington	lt_18	24.6
+46031	South Dakota	Corson	lt_18	34.6
+46033	South Dakota	Custer	lt_18	19.2
+46035	South Dakota	Davison	lt_18	23.1
+46037	South Dakota	Day	lt_18	21.7
+46039	South Dakota	Deuel	lt_18	23.2
+46041	South Dakota	Dewey	lt_18	33.9
+46043	South Dakota	Douglas	lt_18	22.5
+46045	South Dakota	Edmunds	lt_18	23.8
+46047	South Dakota	Fall River	lt_18	17.2
+46049	South Dakota	Faulk	lt_18	23.3
+46051	South Dakota	Grant	lt_18	22.6
+46053	South Dakota	Gregory	lt_18	22.4
+46055	South Dakota	Haakon	lt_18	23.1
+46057	South Dakota	Hamlin	lt_18	30
+46059	South Dakota	Hand	lt_18	20.6
+46061	South Dakota	Hanson	lt_18	32
+46063	South Dakota	Harding	lt_18	22.9
+46065	South Dakota	Hughes	lt_18	23.8
+46067	South Dakota	Hutchinson	lt_18	23.7
+46069	South Dakota	Hyde	lt_18	22.2
+46071	South Dakota	Jackson	lt_18	32.6
+46073	South Dakota	Jerauld	lt_18	21.6
+46075	South Dakota	Jones	lt_18	22.5
+46077	South Dakota	Kingsbury	lt_18	22.1
+46079	South Dakota	Lake	lt_18	20.7
+46081	South Dakota	Lawrence	lt_18	19.1
+46083	South Dakota	Lincoln	lt_18	29.2
+46085	South Dakota	Lyman	lt_18	28.5
+46087	South Dakota	McCook	lt_18	25.6
+46089	South Dakota	McPherson	lt_18	21.8
+46091	South Dakota	Marshall	lt_18	22
+46093	South Dakota	Meade	lt_18	24.3
+46095	South Dakota	Mellette	lt_18	32.2
+46097	South Dakota	Miner	lt_18	23.4
+46099	South Dakota	Minnehaha	lt_18	24.9
+46101	South Dakota	Moody	lt_18	25.8
+46103	South Dakota	Pennington	lt_18	24.3
+46105	South Dakota	Perkins	lt_18	21.2
+46107	South Dakota	Potter	lt_18	20.2
+46109	South Dakota	Roberts	lt_18	28.6
+46111	South Dakota	Sanborn	lt_18	20.9
+46113	South Dakota	Shannon	lt_18	39.1
+46115	South Dakota	Spink	lt_18	24.7
+46117	South Dakota	Stanley	lt_18	23.1
+46119	South Dakota	Sully	lt_18	21.7
+46121	South Dakota	Todd	lt_18	41
+46123	South Dakota	Tripp	lt_18	23.1
+46125	South Dakota	Turner	lt_18	23.6
+46127	South Dakota	Union	lt_18	25.5
+46129	South Dakota	Walworth	lt_18	22.1
+46135	South Dakota	Yankton	lt_18	21.5
+46137	South Dakota	Ziebach	lt_18	38.7
+47001	Tennessee	Anderson	lt_18	21.4
+47003	Tennessee	Bedford	lt_18	26.6
+47005	Tennessee	Benton	lt_18	20.2
+47007	Tennessee	Bledsoe	lt_18	21.1
+47009	Tennessee	Blount	lt_18	21.8
+47011	Tennessee	Bradley	lt_18	22.8
+47013	Tennessee	Campbell	lt_18	21.7
+47015	Tennessee	Cannon	lt_18	21.6
+47017	Tennessee	Carroll	lt_18	21.9
+47019	Tennessee	Carter	lt_18	19.9
+47021	Tennessee	Cheatham	lt_18	24.6
+47023	Tennessee	Chester	lt_18	22.7
+47025	Tennessee	Claiborne	lt_18	20.6
+47027	Tennessee	Clay	lt_18	20.7
+47029	Tennessee	Cocke	lt_18	21.1
+47031	Tennessee	Coffee	lt_18	24
+47033	Tennessee	Crockett	lt_18	24.4
+47035	Tennessee	Cumberland	lt_18	18.7
+47037	Tennessee	Davidson	lt_18	21.8
+47039	Tennessee	Decatur	lt_18	21.4
+47041	Tennessee	DeKalb	lt_18	22.7
+47043	Tennessee	Dickson	lt_18	24.6
+47045	Tennessee	Dyer	lt_18	24.7
+47047	Tennessee	Fayette	lt_18	22.6
+47049	Tennessee	Fentress	lt_18	22.8
+47051	Tennessee	Franklin	lt_18	21.5
+47053	Tennessee	Gibson	lt_18	24.7
+47055	Tennessee	Giles	lt_18	21.9
+47057	Tennessee	Grainger	lt_18	22
+47059	Tennessee	Greene	lt_18	21
+47061	Tennessee	Grundy	lt_18	22.8
+47063	Tennessee	Hamblen	lt_18	23.5
+47065	Tennessee	Hamilton	lt_18	21.5
+47067	Tennessee	Hancock	lt_18	21.2
+47069	Tennessee	Hardeman	lt_18	20.7
+47071	Tennessee	Hardin	lt_18	21.1
+47073	Tennessee	Hawkins	lt_18	21.9
+47075	Tennessee	Haywood	lt_18	25
+47077	Tennessee	Henderson	lt_18	24
+47079	Tennessee	Henry	lt_18	21.5
+47081	Tennessee	Hickman	lt_18	21.9
+47083	Tennessee	Houston	lt_18	23.3
+47085	Tennessee	Humphreys	lt_18	23
+47087	Tennessee	Jackson	lt_18	19.8
+47089	Tennessee	Jefferson	lt_18	21.7
+47091	Tennessee	Johnson	lt_18	18.1
+47093	Tennessee	Knox	lt_18	21.5
+47095	Tennessee	Lake	lt_18	16.9
+47097	Tennessee	Lauderdale	lt_18	23.8
+47099	Tennessee	Lawrence	lt_18	24.9
+47101	Tennessee	Lewis	lt_18	23.7
+47103	Tennessee	Lincoln	lt_18	23.1
+47105	Tennessee	Loudon	lt_18	20
+47107	Tennessee	McMinn	lt_18	22.1
+47109	Tennessee	McNairy	lt_18	23
+47111	Tennessee	Macon	lt_18	24.9
+47113	Tennessee	Madison	lt_18	23.7
+47115	Tennessee	Marion	lt_18	21.5
+47117	Tennessee	Marshall	lt_18	24.1
+47119	Tennessee	Maury	lt_18	24
+47121	Tennessee	Meigs	lt_18	21
+47123	Tennessee	Monroe	lt_18	22.6
+47125	Tennessee	Montgomery	lt_18	27.7
+47127	Tennessee	Moore	lt_18	21.8
+47129	Tennessee	Morgan	lt_18	20.6
+47131	Tennessee	Obion	lt_18	22.5
+47133	Tennessee	Overton	lt_18	23.1
+47135	Tennessee	Perry	lt_18	22.2
+47137	Tennessee	Pickett	lt_18	18.9
+47139	Tennessee	Polk	lt_18	22
+47141	Tennessee	Putnam	lt_18	21.3
+47143	Tennessee	Rhea	lt_18	23.1
+47145	Tennessee	Roane	lt_18	20.5
+47147	Tennessee	Robertson	lt_18	25.7
+47149	Tennessee	Rutherford	lt_18	25.8
+47151	Tennessee	Scott	lt_18	25.1
+47153	Tennessee	Sequatchie	lt_18	22.8
+47155	Tennessee	Sevier	lt_18	21.9
+47157	Tennessee	Shelby	lt_18	26.1
+47159	Tennessee	Smith	lt_18	23.9
+47161	Tennessee	Stewart	lt_18	22.3
+47163	Tennessee	Sullivan	lt_18	20.3
+47165	Tennessee	Sumner	lt_18	24.9
+47167	Tennessee	Tipton	lt_18	26.9
+47169	Tennessee	Trousdale	lt_18	24
+47171	Tennessee	Unicoi	lt_18	20
+47173	Tennessee	Union	lt_18	23.6
+47175	Tennessee	Van Buren	lt_18	20.1
+47177	Tennessee	Warren	lt_18	24.2
+47179	Tennessee	Washington	lt_18	19.9
+47181	Tennessee	Wayne	lt_18	19.2
+47183	Tennessee	Weakley	lt_18	19.7
+47185	Tennessee	White	lt_18	22.4
+47187	Tennessee	Williamson	lt_18	28.8
+47189	Tennessee	Wilson	lt_18	24.6
+48001	Texas	Anderson	lt_18	19.6
+48003	Texas	Andrews	lt_18	29.7
+48005	Texas	Angelina	lt_18	26.6
+48007	Texas	Aransas	lt_18	19.3
+48009	Texas	Archer	lt_18	23.4
+48011	Texas	Armstrong	lt_18	22.1
+48013	Texas	Atascosa	lt_18	28.5
+48015	Texas	Austin	lt_18	24.8
+48017	Texas	Bailey	lt_18	31.4
+48019	Texas	Bandera	lt_18	18.8
+48021	Texas	Bastrop	lt_18	25.9
+48023	Texas	Baylor	lt_18	20.7
+48025	Texas	Bee	lt_18	21.8
+48027	Texas	Bell	lt_18	28.3
+48029	Texas	Bexar	lt_18	26.9
+48031	Texas	Blanco	lt_18	21.3
+48033	Texas	Borden	lt_18	20.4
+48035	Texas	Bosque	lt_18	22.3
+48037	Texas	Bowie	lt_18	24.1
+48039	Texas	Brazoria	lt_18	27.5
+48041	Texas	Brazos	lt_18	20.1
+48043	Texas	Brewster	lt_18	19.3
+48045	Texas	Briscoe	lt_18	23.5
+48047	Texas	Brooks	lt_18	28.1
+48049	Texas	Brown	lt_18	23.8
+48051	Texas	Burleson	lt_18	23.5
+48053	Texas	Burnet	lt_18	22.9
+48055	Texas	Caldwell	lt_18	26.3
+48057	Texas	Calhoun	lt_18	26.1
+48059	Texas	Callahan	lt_18	23.4
+48061	Texas	Cameron	lt_18	32.7
+48063	Texas	Camp	lt_18	26.4
+48065	Texas	Carson	lt_18	25.3
+48067	Texas	Cass	lt_18	23
+48069	Texas	Castro	lt_18	31.7
+48071	Texas	Chambers	lt_18	28.2
+48073	Texas	Cherokee	lt_18	26
+48075	Texas	Childress	lt_18	20.9
+48077	Texas	Clay	lt_18	22.9
+48079	Texas	Cochran	lt_18	29.5
+48081	Texas	Coke	lt_18	20.2
+48083	Texas	Coleman	lt_18	21.8
+48085	Texas	Collin	lt_18	28.3
+48087	Texas	Collingsworth	lt_18	27.6
+48089	Texas	Colorado	lt_18	23.6
+48091	Texas	Comal	lt_18	23.2
+48093	Texas	Comanche	lt_18	23.7
+48095	Texas	Concho	lt_18	14.4
+48097	Texas	Cooke	lt_18	25.6
+48099	Texas	Coryell	lt_18	27.5
+48101	Texas	Cottle	lt_18	22.4
+48103	Texas	Crane	lt_18	28.8
+48105	Texas	Crockett	lt_18	26.3
+48107	Texas	Crosby	lt_18	28.5
+48109	Texas	Culberson	lt_18	27.6
+48111	Texas	Dallam	lt_18	30.1
+48113	Texas	Dallas	lt_18	27.6
+48115	Texas	Dawson	lt_18	24.4
+48117	Texas	Deaf Smith	lt_18	32.3
+48119	Texas	Delta	lt_18	22.4
+48121	Texas	Denton	lt_18	27.3
+48123	Texas	DeWitt	lt_18	22.3
+48125	Texas	Dickens	lt_18	20
+48127	Texas	Dimmit	lt_18	29.3
+48129	Texas	Donley	lt_18	20.4
+48131	Texas	Duval	lt_18	26.1
+48133	Texas	Eastland	lt_18	22.6
+48135	Texas	Ector	lt_18	29.1
+48137	Texas	Edwards	lt_18	20.4
+48139	Texas	Ellis	lt_18	28.5
+48141	Texas	El Paso	lt_18	29.7
+48143	Texas	Erath	lt_18	22
+48145	Texas	Falls	lt_18	21.7
+48147	Texas	Fannin	lt_18	22.1
+48149	Texas	Fayette	lt_18	21.7
+48151	Texas	Fisher	lt_18	21.5
+48153	Texas	Floyd	lt_18	28.9
+48155	Texas	Foard	lt_18	20.5
+48157	Texas	Fort Bend	lt_18	29
+48159	Texas	Franklin	lt_18	24.4
+48161	Texas	Freestone	lt_18	23.2
+48163	Texas	Frio	lt_18	24.3
+48165	Texas	Gaines	lt_18	34.9
+48167	Texas	Galveston	lt_18	25.3
+48169	Texas	Garza	lt_18	20.1
+48171	Texas	Gillespie	lt_18	19.9
+48173	Texas	Glasscock	lt_18	27.3
+48175	Texas	Goliad	lt_18	22.5
+48177	Texas	Gonzales	lt_18	27.4
+48179	Texas	Gray	lt_18	25
+48181	Texas	Grayson	lt_18	23.8
+48183	Texas	Gregg	lt_18	25.5
+48185	Texas	Grimes	lt_18	22.3
+48187	Texas	Guadalupe	lt_18	27.2
+48189	Texas	Hale	lt_18	29
+48191	Texas	Hall	lt_18	25.9
+48193	Texas	Hamilton	lt_18	21.2
+48195	Texas	Hansford	lt_18	29.9
+48197	Texas	Hardeman	lt_18	24.4
+48199	Texas	Hardin	lt_18	25.7
+48201	Texas	Harris	lt_18	27.9
+48203	Texas	Harrison	lt_18	26
+48205	Texas	Hartley	lt_18	22
+48207	Texas	Haskell	lt_18	20.9
+48209	Texas	Hays	lt_18	24.3
+48211	Texas	Hemphill	lt_18	29.1
+48213	Texas	Henderson	lt_18	22.6
+48215	Texas	Hidalgo	lt_18	34.4
+48217	Texas	Hill	lt_18	24.2
+48219	Texas	Hockley	lt_18	26.9
+48221	Texas	Hood	lt_18	20.9
+48223	Texas	Hopkins	lt_18	25.3
+48225	Texas	Houston	lt_18	20.4
+48227	Texas	Howard	lt_18	22.4
+48229	Texas	Hudspeth	lt_18	28.8
+48231	Texas	Hunt	lt_18	24.8
+48233	Texas	Hutchinson	lt_18	26.3
+48235	Texas	Irion	lt_18	22.4
+48237	Texas	Jack	lt_18	22
+48239	Texas	Jackson	lt_18	25.4
+48241	Texas	Jasper	lt_18	25
+48243	Texas	Jeff Davis	lt_18	18.7
+48245	Texas	Jefferson	lt_18	24
+48247	Texas	Jim Hogg	lt_18	28.7
+48249	Texas	Jim Wells	lt_18	28.6
+48251	Texas	Johnson	lt_18	26.9
+48253	Texas	Jones	lt_18	18.2
+48255	Texas	Karnes	lt_18	20
+48257	Texas	Kaufman	lt_18	28.6
+48259	Texas	Kendall	lt_18	23.8
+48261	Texas	Kenedy	lt_18	26.1
+48263	Texas	Kent	lt_18	23.4
+48265	Texas	Kerr	lt_18	20
+48267	Texas	Kimble	lt_18	20.1
+48269	Texas	King	lt_18	22.7
+48271	Texas	Kinney	lt_18	20.2
+48273	Texas	Kleberg	lt_18	24.6
+48275	Texas	Knox	lt_18	24.9
+48277	Texas	Lamar	lt_18	24.1
+48279	Texas	Lamb	lt_18	29.8
+48281	Texas	Lampasas	lt_18	24.4
+48283	Texas	La Salle	lt_18	21.9
+48285	Texas	Lavaca	lt_18	23
+48287	Texas	Lee	lt_18	25.7
+48289	Texas	Leon	lt_18	22.5
+48291	Texas	Liberty	lt_18	25.5
+48293	Texas	Limestone	lt_18	23.9
+48295	Texas	Lipscomb	lt_18	27.6
+48297	Texas	Live Oak	lt_18	19.8
+48299	Texas	Llano	lt_18	15.6
+48301	Texas	Loving	lt_18	12.8
+48303	Texas	Lubbock	lt_18	24.2
+48305	Texas	Lynn	lt_18	27.2
+48307	Texas	McCulloch	lt_18	24.6
+48309	Texas	McLennan	lt_18	25.1
+48311	Texas	McMullen	lt_18	17
+48313	Texas	Madison	lt_18	21.6
+48315	Texas	Marion	lt_18	18.9
+48317	Texas	Martin	lt_18	30.1
+48319	Texas	Mason	lt_18	20.4
+48321	Texas	Matagorda	lt_18	26
+48323	Texas	Maverick	lt_18	33.1
+48325	Texas	Medina	lt_18	25.2
+48327	Texas	Menard	lt_18	18.8
+48329	Texas	Midland	lt_18	27.4
+48331	Texas	Milam	lt_18	26.5
+48333	Texas	Mills	lt_18	23.4
+48335	Texas	Mitchell	lt_18	19.4
+48337	Texas	Montague	lt_18	23.1
+48339	Texas	Montgomery	lt_18	27.3
+48341	Texas	Moore	lt_18	32.1
+48343	Texas	Morris	lt_18	23
+48345	Texas	Motley	lt_18	20.7
+48347	Texas	Nacogdoches	lt_18	23.2
+48349	Texas	Navarro	lt_18	27.1
+48351	Texas	Newton	lt_18	22.9
+48353	Texas	Nolan	lt_18	25.9
+48355	Texas	Nueces	lt_18	25.7
+48357	Texas	Ochiltree	lt_18	31.9
+48359	Texas	Oldham	lt_18	34.7
+48361	Texas	Orange	lt_18	24.9
+48363	Texas	Palo Pinto	lt_18	24.7
+48365	Texas	Panola	lt_18	24.4
+48367	Texas	Parker	lt_18	24.9
+48369	Texas	Parmer	lt_18	30.5
+48371	Texas	Pecos	lt_18	24.9
+48373	Texas	Polk	lt_18	21.1
+48375	Texas	Potter	lt_18	28
+48377	Texas	Presidio	lt_18	28.4
+48379	Texas	Rains	lt_18	21.4
+48381	Texas	Randall	lt_18	24.6
+48383	Texas	Reagan	lt_18	30.4
+48385	Texas	Real	lt_18	19.8
+48387	Texas	Red River	lt_18	21
+48389	Texas	Reeves	lt_18	22.4
+48391	Texas	Refugio	lt_18	23.4
+48393	Texas	Roberts	lt_18	25.7
+48395	Texas	Robertson	lt_18	25.5
+48397	Texas	Rockwall	lt_18	29.1
+48399	Texas	Runnels	lt_18	24.9
+48401	Texas	Rusk	lt_18	23.3
+48403	Texas	Sabine	lt_18	19.3
+48405	Texas	San Augustine	lt_18	21.1
+48407	Texas	San Jacinto	lt_18	23.9
+48409	Texas	San Patricio	lt_18	27.9
+48411	Texas	San Saba	lt_18	20.9
+48413	Texas	Schleicher	lt_18	29.2
+48415	Texas	Scurry	lt_18	24.8
+48417	Texas	Shackelford	lt_18	24.2
+48419	Texas	Shelby	lt_18	26.9
+48421	Texas	Sherman	lt_18	28.9
+48423	Texas	Smith	lt_18	25.5
+48425	Texas	Somervell	lt_18	25.3
+48427	Texas	Starr	lt_18	33.8
+48429	Texas	Stephens	lt_18	23.4
+48431	Texas	Sterling	lt_18	23.9
+48433	Texas	Stonewall	lt_18	22
+48435	Texas	Sutton	lt_18	26
+48437	Texas	Swisher	lt_18	25.8
+48439	Texas	Tarrant	lt_18	27.8
+48441	Texas	Taylor	lt_18	24.4
+48443	Texas	Terrell	lt_18	20.1
+48445	Texas	Terry	lt_18	26.1
+48447	Texas	Throckmorton	lt_18	22.2
+48449	Texas	Titus	lt_18	30.6
+48451	Texas	Tom Green	lt_18	23.5
+48453	Texas	Travis	lt_18	23.9
+48455	Texas	Trinity	lt_18	21.2
+48457	Texas	Tyler	lt_18	20.1
+48459	Texas	Upshur	lt_18	24.8
+48461	Texas	Upton	lt_18	26.8
+48463	Texas	Uvalde	lt_18	28.5
+48465	Texas	Val Verde	lt_18	29.5
+48467	Texas	Van Zandt	lt_18	23.9
+48469	Texas	Victoria	lt_18	26.5
+48471	Texas	Walker	lt_18	16.3
+48473	Texas	Waller	lt_18	24.9
+48475	Texas	Ward	lt_18	27.4
+48477	Texas	Washington	lt_18	21.9
+48479	Texas	Webb	lt_18	34.8
+48481	Texas	Wharton	lt_18	26.5
+48483	Texas	Wheeler	lt_18	25.1
+48485	Texas	Wichita	lt_18	22.9
+48487	Texas	Wilbarger	lt_18	25.6
+48489	Texas	Willacy	lt_18	26.4
+48491	Texas	Williamson	lt_18	28.3
+48493	Texas	Wilson	lt_18	25.8
+48495	Texas	Winkler	lt_18	29.3
+48497	Texas	Wise	lt_18	25.9
+48499	Texas	Wood	lt_18	20
+48501	Texas	Yoakum	lt_18	31.8
+48503	Texas	Young	lt_18	24
+48505	Texas	Zapata	lt_18	34.2
+48507	Texas	Zavala	lt_18	31.4
+49001	Utah	Beaver	lt_18	33.3
+49003	Utah	Box Elder	lt_18	33.6
+49005	Utah	Cache	lt_18	30.9
+49007	Utah	Carbon	lt_18	26.7
+49009	Utah	Daggett	lt_18	24.1
+49011	Utah	Davis	lt_18	34.1
+49013	Utah	Duchesne	lt_18	33.7
+49015	Utah	Emery	lt_18	31.5
+49017	Utah	Garfield	lt_18	26.7
+49019	Utah	Grand	lt_18	23
+49021	Utah	Iron	lt_18	29.4
+49023	Utah	Juab	lt_18	36.7
+49025	Utah	Kane	lt_18	23.3
+49027	Utah	Millard	lt_18	32.1
+49029	Utah	Morgan	lt_18	34.8
+49031	Utah	Piute	lt_18	29
+49033	Utah	Rich	lt_18	31.4
+49035	Utah	Salt Lake	lt_18	29
+49037	Utah	San Juan	lt_18	33.2
+49039	Utah	Sanpete	lt_18	29.7
+49041	Utah	Sevier	lt_18	31.6
+49043	Utah	Summit	lt_18	27.5
+49045	Utah	Tooele	lt_18	35.8
+49047	Utah	Uintah	lt_18	33.2
+49049	Utah	Utah	lt_18	34.8
+49051	Utah	Wasatch	lt_18	33.5
+49053	Utah	Washington	lt_18	30.1
+49055	Utah	Wayne	lt_18	29.1
+49057	Utah	Weber	lt_18	29.9
+50001	Vermont	Addison	lt_18	19.7
+50003	Vermont	Bennington	lt_18	20
+50005	Vermont	Caledonia	lt_18	21.5
+50007	Vermont	Chittenden	lt_18	19.4
+50009	Vermont	Essex	lt_18	18.4
+50011	Vermont	Franklin	lt_18	24.1
+50013	Vermont	Grand Isle	lt_18	19.5
+50015	Vermont	Lamoille	lt_18	21.9
+50017	Vermont	Orange	lt_18	20.4
+50019	Vermont	Orleans	lt_18	20.7
+50021	Vermont	Rutland	lt_18	18.8
+50023	Vermont	Washington	lt_18	20.2
+50025	Vermont	Windham	lt_18	19.3
+50027	Vermont	Windsor	lt_18	19.3
+51001	Virginia	Accomack	lt_18	21.1
+51003	Virginia	Albemarle	lt_18	21.3
+51005	Virginia	Alleghany	lt_18	20.9
+51007	Virginia	Amelia	lt_18	21.7
+51009	Virginia	Amherst	lt_18	20.8
+51011	Virginia	Appomattox	lt_18	21.9
+51013	Virginia	Arlington	lt_18	16
+51015	Virginia	Augusta	lt_18	20.9
+51017	Virginia	Bath	lt_18	16.8
+51019	Virginia	Bedford	lt_18	21.7
+51021	Virginia	Bland	lt_18	17.7
+51023	Virginia	Botetourt	lt_18	21.8
+51025	Virginia	Brunswick	lt_18	18.6
+51027	Virginia	Buchanan	lt_18	18.3
+51029	Virginia	Buckingham	lt_18	18.9
+51031	Virginia	Campbell	lt_18	21.3
+51033	Virginia	Caroline	lt_18	23.5
+51035	Virginia	Carroll	lt_18	20.2
+51036	Virginia	Charles City	lt_18	17.2
+51037	Virginia	Charlotte	lt_18	22.1
+51041	Virginia	Chesterfield	lt_18	25.5
+51043	Virginia	Clarke	lt_18	22.2
+51045	Virginia	Craig	lt_18	21.5
+51047	Virginia	Culpeper	lt_18	25.4
+51049	Virginia	Cumberland	lt_18	22.3
+51051	Virginia	Dickenson	lt_18	20.5
+51053	Virginia	Dinwiddie	lt_18	21.9
+51057	Virginia	Essex	lt_18	21.6
+51059	Virginia	Fairfax	lt_18	24.1
+51061	Virginia	Fauquier	lt_18	24.7
+51063	Virginia	Floyd	lt_18	21.5
+51065	Virginia	Fluvanna	lt_18	22.5
+51067	Virginia	Franklin	lt_18	20.4
+51069	Virginia	Frederick	lt_18	24.7
+51071	Virginia	Giles	lt_18	21
+51073	Virginia	Gloucester	lt_18	21.4
+51075	Virginia	Goochland	lt_18	19.4
+51077	Virginia	Grayson	lt_18	18.6
+51079	Virginia	Greene	lt_18	24.8
+51081	Virginia	Greensville	lt_18	16.3
+51083	Virginia	Halifax	lt_18	21.7
+51085	Virginia	Hanover	lt_18	24.3
+51087	Virginia	Henrico	lt_18	23.8
+51089	Virginia	Henry	lt_18	20.3
+51091	Virginia	Highland	lt_18	14.2
+51093	Virginia	Isle of Wight	lt_18	22.1
+51095	Virginia	James City	lt_18	21
+51097	Virginia	King and Queen	lt_18	19.8
+51099	Virginia	King George	lt_18	27
+51101	Virginia	King William	lt_18	24.3
+51103	Virginia	Lancaster	lt_18	15.8
+51105	Virginia	Lee	lt_18	20.2
+51107	Virginia	Loudoun	lt_18	30.2
+51109	Virginia	Louisa	lt_18	21.7
+51111	Virginia	Lunenburg	lt_18	19.2
+51113	Virginia	Madison	lt_18	21.6
+51115	Virginia	Mathews	lt_18	17.9
+51117	Virginia	Mecklenburg	lt_18	19.2
+51119	Virginia	Middlesex	lt_18	15.6
+51121	Virginia	Montgomery	lt_18	15.3
+51125	Virginia	Nelson	lt_18	19.1
+51127	Virginia	New Kent	lt_18	21.8
+51131	Virginia	Northampton	lt_18	19.6
+51133	Virginia	Northumberland	lt_18	16.1
+51135	Virginia	Nottoway	lt_18	20.6
+51137	Virginia	Orange	lt_18	22.5
+51139	Virginia	Page	lt_18	21.1
+51141	Virginia	Patrick	lt_18	18.8
+51143	Virginia	Pittsylvania	lt_18	20.8
+51145	Virginia	Powhatan	lt_18	21.9
+51147	Virginia	Prince Edward	lt_18	17.1
+51149	Virginia	Prince George	lt_18	22.5
+51153	Virginia	Prince William	lt_18	28.5
+51155	Virginia	Pulaski	lt_18	19.2
+51157	Virginia	Rappahannock	lt_18	19.4
+51159	Virginia	Richmond	lt_18	16.9
+51161	Virginia	Roanoke	lt_18	21.3
+51163	Virginia	Rockbridge	lt_18	18.8
+51165	Virginia	Rockingham	lt_18	23.3
+51167	Virginia	Russell	lt_18	20
+51169	Virginia	Scott	lt_18	19
+51171	Virginia	Shenandoah	lt_18	21.8
+51173	Virginia	Smyth	lt_18	20.3
+51175	Virginia	Southampton	lt_18	20.6
+51177	Virginia	Spotsylvania	lt_18	26.9
+51179	Virginia	Stafford	lt_18	28.2
+51181	Virginia	Surry	lt_18	20.1
+51183	Virginia	Sussex	lt_18	16.8
+51185	Virginia	Tazewell	lt_18	19.9
+51187	Virginia	Warren	lt_18	23.6
+51191	Virginia	Washington	lt_18	19.3
+51193	Virginia	Westmoreland	lt_18	19.8
+51195	Virginia	Wise	lt_18	20.7
+51197	Virginia	Wythe	lt_18	20.5
+51199	Virginia	York	lt_18	25.3
+51510	Virginia	Alexandria City	lt_18	17.5
+51515	Virginia	Bedford City	lt_18	19.8
+51520	Virginia	Bristol City	lt_18	20.2
+51530	Virginia	Buena Vista City	lt_18	21
+51540	Virginia	Charlottesville City	lt_18	14.6
+51550	Virginia	Chesapeake City	lt_18	25.4
+51570	Virginia	Colonial Heights City	lt_18	22.3
+51580	Virginia	Covington City	lt_18	20.7
+51590	Virginia	Danville City	lt_18	21.7
+51595	Virginia	Emporia City	lt_18	24.9
+51600	Virginia	Fairfax City	lt_18	20.3
+51610	Virginia	Falls Church City	lt_18	24.9
+51620	Virginia	Franklin City	lt_18	23.9
+51630	Virginia	Fredericksburg City	lt_18	20.7
+51640	Virginia	Galax City	lt_18	22
+51650	Virginia	Hampton City	lt_18	22.5
+51660	Virginia	Harrisonburg City	lt_18	15
+51670	Virginia	Hopewell City	lt_18	24.8
+51678	Virginia	Lexington City	lt_18	8.8
+51680	Virginia	Lynchburg City	lt_18	19.5
+51683	Virginia	Manassas City	lt_18	28.1
+51685	Virginia	Manassas Park City	lt_18	28.9
+51690	Virginia	Martinsville City	lt_18	21.7
+51700	Virginia	Newport News City	lt_18	24.2
+51710	Virginia	Norfolk City	lt_18	20.9
+51720	Virginia	Norton City	lt_18	22
+51730	Virginia	Petersburg City	lt_18	21.5
+51735	Virginia	Poquoson City	lt_18	22.9
+51740	Virginia	Portsmouth City	lt_18	23.8
+51750	Virginia	Radford City	lt_18	12.5
+51760	Virginia	Richmond City	lt_18	19.2
+51770	Virginia	Roanoke City	lt_18	21.8
+51775	Virginia	Salem City	lt_18	19.7
+51790	Virginia	Staunton City	lt_18	19.2
+51800	Virginia	Suffolk City	lt_18	25.7
+51810	Virginia	Virginia Beach City	lt_18	23.6
+51820	Virginia	Waynesboro City	lt_18	23.5
+51830	Virginia	Williamsburg City	lt_18	10.5
+51840	Virginia	Winchester City	lt_18	22.6
+53001	Washington	Adams	lt_18	35.2
+53003	Washington	Asotin	lt_18	21.3
+53005	Washington	Benton	lt_18	26.7
+53007	Washington	Chelan	lt_18	24.9
+53009	Washington	Clallam	lt_18	17.8
+53011	Washington	Clark	lt_18	26
+53013	Washington	Columbia	lt_18	19
+53015	Washington	Cowlitz	lt_18	23.9
+53017	Washington	Douglas	lt_18	26.7
+53019	Washington	Ferry	lt_18	19.6
+53021	Washington	Franklin	lt_18	34.1
+53023	Washington	Garfield	lt_18	19.7
+53025	Washington	Grant	lt_18	30.7
+53027	Washington	Grays Harbor	lt_18	21.3
+53029	Washington	Island	lt_18	20.1
+53031	Washington	Jefferson	lt_18	14.3
+53033	Washington	King	lt_18	21.2
+53035	Washington	Kitsap	lt_18	21.8
+53037	Washington	Kittitas	lt_18	17.7
+53039	Washington	Klickitat	lt_18	21.7
+53041	Washington	Lewis	lt_18	22.7
+53043	Washington	Lincoln	lt_18	22.1
+53045	Washington	Mason	lt_18	20.1
+53047	Washington	Okanogan	lt_18	23.4
+53049	Washington	Pacific	lt_18	18
+53051	Washington	Pend Oreille	lt_18	21.1
+53053	Washington	Pierce	lt_18	24.3
+53055	Washington	San Juan	lt_18	15.1
+53057	Washington	Skagit	lt_18	23.4
+53059	Washington	Skamania	lt_18	21.5
+53061	Washington	Snohomish	lt_18	24
+53063	Washington	Spokane	lt_18	22.9
+53065	Washington	Stevens	lt_18	23.2
+53067	Washington	Thurston	lt_18	22.7
+53069	Washington	Wahkiakum	lt_18	18.3
+53071	Washington	Walla Walla	lt_18	22.3
+53073	Washington	Whatcom	lt_18	20.4
+53075	Washington	Whitman	lt_18	14.4
+53077	Washington	Yakima	lt_18	30.4
+54001	West Virginia	Barbour	lt_18	21.3
+54003	West Virginia	Berkeley	lt_18	24.7
+54005	West Virginia	Boone	lt_18	22.7
+54007	West Virginia	Braxton	lt_18	20.6
+54009	West Virginia	Brooke	lt_18	18.8
+54011	West Virginia	Cabell	lt_18	19.6
+54013	West Virginia	Calhoun	lt_18	19.8
+54015	West Virginia	Clay	lt_18	24
+54017	West Virginia	Doddridge	lt_18	19.8
+54019	West Virginia	Fayette	lt_18	20.6
+54021	West Virginia	Gilmer	lt_18	14.5
+54023	West Virginia	Grant	lt_18	21
+54025	West Virginia	Greenbrier	lt_18	19.9
+54027	West Virginia	Hampshire	lt_18	22
+54029	West Virginia	Hancock	lt_18	19.9
+54031	West Virginia	Hardy	lt_18	21
+54033	West Virginia	Harrison	lt_18	21.9
+54035	West Virginia	Jackson	lt_18	22.3
+54037	West Virginia	Jefferson	lt_18	23.4
+54039	West Virginia	Kanawha	lt_18	20.5
+54041	West Virginia	Lewis	lt_18	20.4
+54043	West Virginia	Lincoln	lt_18	22.5
+54045	West Virginia	Logan	lt_18	20.4
+54047	West Virginia	McDowell	lt_18	20
+54049	West Virginia	Marion	lt_18	19.6
+54051	West Virginia	Marshall	lt_18	20.6
+54053	West Virginia	Mason	lt_18	21.5
+54055	West Virginia	Mercer	lt_18	20.9
+54057	West Virginia	Mineral	lt_18	20.4
+54059	West Virginia	Mingo	lt_18	21.9
+54061	West Virginia	Monongalia	lt_18	15.8
+54063	West Virginia	Monroe	lt_18	20.7
+54065	West Virginia	Morgan	lt_18	20.1
+54067	West Virginia	Nicholas	lt_18	20.9
+54069	West Virginia	Ohio	lt_18	19
+54071	West Virginia	Pendleton	lt_18	18.7
+54073	West Virginia	Pleasants	lt_18	20.3
+54075	West Virginia	Pocahontas	lt_18	17.8
+54077	West Virginia	Preston	lt_18	19.3
+54079	West Virginia	Putnam	lt_18	23.3
+54081	West Virginia	Raleigh	lt_18	20.9
+54083	West Virginia	Randolph	lt_18	19.1
+54085	West Virginia	Ritchie	lt_18	20.8
+54087	West Virginia	Roane	lt_18	21.4
+54089	West Virginia	Summers	lt_18	17.9
+54091	West Virginia	Taylor	lt_18	20.7
+54093	West Virginia	Tucker	lt_18	19.1
+54095	West Virginia	Tyler	lt_18	20.5
+54097	West Virginia	Upshur	lt_18	20.5
+54099	West Virginia	Wayne	lt_18	22
+54101	West Virginia	Webster	lt_18	21.3
+54103	West Virginia	Wetzel	lt_18	20.4
+54105	West Virginia	Wirt	lt_18	20.7
+54107	West Virginia	Wood	lt_18	21.7
+54109	West Virginia	Wyoming	lt_18	21.5
+55001	Wisconsin	Adams	lt_18	16.2
+55003	Wisconsin	Ashland	lt_18	23
+55005	Wisconsin	Barron	lt_18	21.9
+55007	Wisconsin	Bayfield	lt_18	18.8
+55009	Wisconsin	Brown	lt_18	24.7
+55011	Wisconsin	Buffalo	lt_18	21.7
+55013	Wisconsin	Burnett	lt_18	19.3
+55015	Wisconsin	Calumet	lt_18	26.6
+55017	Wisconsin	Chippewa	lt_18	23.2
+55019	Wisconsin	Clark	lt_18	29
+55021	Wisconsin	Columbia	lt_18	22.9
+55023	Wisconsin	Crawford	lt_18	22
+55025	Wisconsin	Dane	lt_18	21.3
+55027	Wisconsin	Dodge	lt_18	21.7
+55029	Wisconsin	Door	lt_18	17.9
+55031	Wisconsin	Douglas	lt_18	21.3
+55033	Wisconsin	Dunn	lt_18	20.1
+55035	Wisconsin	Eau Claire	lt_18	20.6
+55037	Wisconsin	Florence	lt_18	17
+55039	Wisconsin	Fond du Lac	lt_18	22.5
+55041	Wisconsin	Forest	lt_18	21.7
+55043	Wisconsin	Grant	lt_18	20.9
+55045	Wisconsin	Green	lt_18	23.9
+55047	Wisconsin	Green Lake	lt_18	22.6
+55049	Wisconsin	Iowa	lt_18	24.3
+55051	Wisconsin	Iron	lt_18	16.5
+55053	Wisconsin	Jackson	lt_18	22.5
+55055	Wisconsin	Jefferson	lt_18	23.5
+55057	Wisconsin	Juneau	lt_18	21
+55059	Wisconsin	Kenosha	lt_18	25.3
+55061	Wisconsin	Kewaunee	lt_18	23
+55063	Wisconsin	La Crosse	lt_18	21
+55065	Wisconsin	Lafayette	lt_18	25.3
+55067	Wisconsin	Langlade	lt_18	20.5
+55069	Wisconsin	Lincoln	lt_18	21.6
+55071	Wisconsin	Manitowoc	lt_18	21.9
+55073	Wisconsin	Marathon	lt_18	24.2
+55075	Wisconsin	Marinette	lt_18	19.8
+55077	Wisconsin	Marquette	lt_18	19.9
+55078	Wisconsin	Menominee	lt_18	33.3
+55079	Wisconsin	Milwaukee	lt_18	24.9
+55081	Wisconsin	Monroe	lt_18	25.8
+55083	Wisconsin	Oconto	lt_18	22
+55085	Wisconsin	Oneida	lt_18	18
+55087	Wisconsin	Outagamie	lt_18	24.7
+55089	Wisconsin	Ozaukee	lt_18	22.9
+55091	Wisconsin	Pepin	lt_18	22.9
+55093	Wisconsin	Pierce	lt_18	21.8
+55095	Wisconsin	Polk	lt_18	23.2
+55097	Wisconsin	Portage	lt_18	20.4
+55099	Wisconsin	Price	lt_18	18.6
+55101	Wisconsin	Racine	lt_18	24.5
+55103	Wisconsin	Richland	lt_18	23.1
+55105	Wisconsin	Rock	lt_18	24.5
+55107	Wisconsin	Rusk	lt_18	22
+55109	Wisconsin	St. Croix	lt_18	26.8
+55111	Wisconsin	Sauk	lt_18	23.6
+55113	Wisconsin	Sawyer	lt_18	20.6
+55115	Wisconsin	Shawano	lt_18	22.2
+55117	Wisconsin	Sheboygan	lt_18	23.5
+55119	Wisconsin	Taylor	lt_18	24.2
+55121	Wisconsin	Trempealeau	lt_18	24
+55123	Wisconsin	Vernon	lt_18	26.1
+55125	Wisconsin	Vilas	lt_18	17.4
+55127	Wisconsin	Walworth	lt_18	22.9
+55129	Wisconsin	Washburn	lt_18	19.8
+55131	Wisconsin	Washington	lt_18	24
+55133	Wisconsin	Waukesha	lt_18	23.5
+55135	Wisconsin	Waupaca	lt_18	22.1
+55137	Wisconsin	Waushara	lt_18	19.5
+55139	Wisconsin	Winnebago	lt_18	21.4
+55141	Wisconsin	Wood	lt_18	22.4
+56001	Wyoming	Albany	lt_18	16.1
+56003	Wyoming	Big Horn	lt_18	25.5
+56005	Wyoming	Campbell	lt_18	28.1
+56007	Wyoming	Carbon	lt_18	23.4
+56009	Wyoming	Converse	lt_18	24.8
+56011	Wyoming	Crook	lt_18	23.2
+56013	Wyoming	Fremont	lt_18	25.3
+56015	Wyoming	Goshen	lt_18	20.3
+56017	Wyoming	Hot Springs	lt_18	19.5
+56019	Wyoming	Johnson	lt_18	22
+56021	Wyoming	Laramie	lt_18	24
+56023	Wyoming	Lincoln	lt_18	27.4
+56025	Wyoming	Natrona	lt_18	23.8
+56027	Wyoming	Niobrara	lt_18	17.6
+56029	Wyoming	Park	lt_18	20.6
+56031	Wyoming	Platte	lt_18	19.6
+56033	Wyoming	Sheridan	lt_18	21.9
+56035	Wyoming	Sublette	lt_18	23.6
+56037	Wyoming	Sweetwater	lt_18	27.1
+56039	Wyoming	Teton	lt_18	19.3
+56041	Wyoming	Uinta	lt_18	30
+56043	Wyoming	Washakie	lt_18	25.1
+56045	Wyoming	Weston	lt_18	22.2

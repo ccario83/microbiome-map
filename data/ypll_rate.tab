@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	ypll_rate
+1001	Alabama	Autauga	ypll_rate	8376
+1003	Alabama	Baldwin	ypll_rate	7770
+1005	Alabama	Barbour	ypll_rate	9458
+1007	Alabama	Bibb	ypll_rate	11544
+1009	Alabama	Blount	ypll_rate	8506
+1011	Alabama	Bullock	ypll_rate	9884
+1013	Alabama	Butler	ypll_rate	11006
+1015	Alabama	Calhoun	ypll_rate	11097
+1017	Alabama	Chambers	ypll_rate	10368
+1019	Alabama	Cherokee	ypll_rate	9409
+1021	Alabama	Chilton	ypll_rate	10330
+1023	Alabama	Choctaw	ypll_rate	11985
+1025	Alabama	Clarke	ypll_rate	9309
+1027	Alabama	Clay	ypll_rate	9915
+1029	Alabama	Cleburne	ypll_rate	10738
+1031	Alabama	Coffee	ypll_rate	8403
+1033	Alabama	Colbert	ypll_rate	10591
+1035	Alabama	Conecuh	ypll_rate	12942
+1037	Alabama	Coosa	ypll_rate	11435
+1039	Alabama	Covington	ypll_rate	9830
+1041	Alabama	Crenshaw	ypll_rate	9645
+1043	Alabama	Cullman	ypll_rate	9060
+1045	Alabama	Dale	ypll_rate	8912
+1047	Alabama	Dallas	ypll_rate	12899
+1049	Alabama	DeKalb	ypll_rate	9153
+1051	Alabama	Elmore	ypll_rate	8604
+1053	Alabama	Escambia	ypll_rate	10538
+1055	Alabama	Etowah	ypll_rate	11524
+1057	Alabama	Fayette	ypll_rate	11965
+1059	Alabama	Franklin	ypll_rate	10556
+1061	Alabama	Geneva	ypll_rate	9114
+1063	Alabama	Greene	ypll_rate	10935
+1065	Alabama	Hale	ypll_rate	13943
+1067	Alabama	Henry	ypll_rate	9577
+1069	Alabama	Houston	ypll_rate	8370
+1071	Alabama	Jackson	ypll_rate	11018
+1073	Alabama	Jefferson	ypll_rate	10485
+1075	Alabama	Lamar	ypll_rate	10051
+1077	Alabama	Lauderdale	ypll_rate	8601
+1079	Alabama	Lawrence	ypll_rate	10855
+1081	Alabama	Lee	ypll_rate	7014
+1083	Alabama	Limestone	ypll_rate	7448
+1085	Alabama	Lowndes	ypll_rate	15671
+1087	Alabama	Macon	ypll_rate	13906
+1089	Alabama	Madison	ypll_rate	7760
+1091	Alabama	Marengo	ypll_rate	9873
+1093	Alabama	Marion	ypll_rate	10664
+1095	Alabama	Marshall	ypll_rate	10232
+1097	Alabama	Mobile	ypll_rate	10188
+1099	Alabama	Monroe	ypll_rate	10722
+1101	Alabama	Montgomery	ypll_rate	9321
+1103	Alabama	Morgan	ypll_rate	8920
+1105	Alabama	Perry	ypll_rate	13473
+1107	Alabama	Pickens	ypll_rate	11568
+1109	Alabama	Pike	ypll_rate	10834
+1111	Alabama	Randolph	ypll_rate	11073
+1113	Alabama	Russell	ypll_rate	12305
+1115	Alabama	St. Clair	ypll_rate	9241
+1117	Alabama	Shelby	ypll_rate	6212
+1119	Alabama	Sumter	ypll_rate	10937
+1121	Alabama	Talladega	ypll_rate	11323
+1123	Alabama	Tallapoosa	ypll_rate	9864
+1125	Alabama	Tuscaloosa	ypll_rate	9446
+1127	Alabama	Walker	ypll_rate	14300
+1129	Alabama	Washington	ypll_rate	11045
+1131	Alabama	Wilcox	ypll_rate	12975
+1133	Alabama	Winston	ypll_rate	12621
+2013	Alaska	Aleutians East	ypll_rate	
+2016	Alaska	Aleutians West	ypll_rate	
+2020	Alaska	Anchorage	ypll_rate	6827
+2050	Alaska	Bethel	ypll_rate	13345
+2060	Alaska	Bristol Bay	ypll_rate	
+2068	Alaska	Denali	ypll_rate	
+2070	Alaska	Dillingham	ypll_rate	9699
+2090	Alaska	Fairbanks North Star	ypll_rate	5740
+2100	Alaska	Haines	ypll_rate	
+2110	Alaska	Juneau	ypll_rate	5867
+2122	Alaska	Kenai Peninsula	ypll_rate	8656
+2130	Alaska	Ketchikan Gateway	ypll_rate	8422
+2150	Alaska	Kodiak Island	ypll_rate	6891
+2164	Alaska	Lake and Peninsula	ypll_rate	
+2170	Alaska	Matanuska-Susitna	ypll_rate	6519
+2180	Alaska	Nome	ypll_rate	17794
+2185	Alaska	North Slope	ypll_rate	10564
+2188	Alaska	Northwest Arctic	ypll_rate	13604
+2201	Alaska	Prince of Wales-Outer Ketchikan	ypll_rate	8689
+2220	Alaska	Sitka	ypll_rate	7377
+2232	Alaska	Skagway-Hoonah-Angoon	ypll_rate	10398
+2240	Alaska	Southeast Fairbanks	ypll_rate	5734
+2261	Alaska	Valdez-Cordova	ypll_rate	7734
+2270	Alaska	Wade Hampton	ypll_rate	18391
+2280	Alaska	Wrangell-Petersburg	ypll_rate	9208
+2282	Alaska	Yakutat	ypll_rate	
+2290	Alaska	Yukon-Koyukuk	ypll_rate	16527
+4001	Arizona	Apache	ypll_rate	14039
+4003	Arizona	Cochise	ypll_rate	7828
+4005	Arizona	Coconino	ypll_rate	7342
+4007	Arizona	Gila	ypll_rate	10843
+4009	Arizona	Graham	ypll_rate	8077
+4011	Arizona	Greenlee	ypll_rate	6685
+4012	Arizona	La Paz	ypll_rate	12621
+4013	Arizona	Maricopa	ypll_rate	6247
+4015	Arizona	Mohave	ypll_rate	9828
+4017	Arizona	Navajo	ypll_rate	11848
+4019	Arizona	Pima	ypll_rate	7390
+4021	Arizona	Pinal	ypll_rate	6588
+4023	Arizona	Santa Cruz	ypll_rate	5135
+4025	Arizona	Yavapai	ypll_rate	7372
+4027	Arizona	Yuma	ypll_rate	5843
+5001	Arkansas	Arkansas	ypll_rate	11046
+5003	Arkansas	Ashley	ypll_rate	10381
+5005	Arkansas	Baxter	ypll_rate	9680
+5007	Arkansas	Benton	ypll_rate	6504
+5009	Arkansas	Boone	ypll_rate	8359
+5011	Arkansas	Bradley	ypll_rate	9604
+5013	Arkansas	Calhoun	ypll_rate	9615
+5015	Arkansas	Carroll	ypll_rate	9288
+5017	Arkansas	Chicot	ypll_rate	11700
+5019	Arkansas	Clark	ypll_rate	8242
+5021	Arkansas	Clay	ypll_rate	8680
+5023	Arkansas	Cleburne	ypll_rate	9823
+5025	Arkansas	Cleveland	ypll_rate	7916
+5027	Arkansas	Columbia	ypll_rate	10652
+5029	Arkansas	Conway	ypll_rate	11272
+5031	Arkansas	Craighead	ypll_rate	8849
+5033	Arkansas	Crawford	ypll_rate	9795
+5035	Arkansas	Crittenden	ypll_rate	13082
+5037	Arkansas	Cross	ypll_rate	10713
+5039	Arkansas	Dallas	ypll_rate	10974
+5041	Arkansas	Desha	ypll_rate	12344
+5043	Arkansas	Drew	ypll_rate	9634
+5045	Arkansas	Faulkner	ypll_rate	7296
+5047	Arkansas	Franklin	ypll_rate	8643
+5049	Arkansas	Fulton	ypll_rate	11688
+5051	Arkansas	Garland	ypll_rate	9962
+5053	Arkansas	Grant	ypll_rate	9069
+5055	Arkansas	Greene	ypll_rate	10162
+5057	Arkansas	Hempstead	ypll_rate	9490
+5059	Arkansas	Hot Spring	ypll_rate	9973
+5061	Arkansas	Howard	ypll_rate	10035
+5063	Arkansas	Independence	ypll_rate	10758
+5065	Arkansas	Izard	ypll_rate	10890
+5067	Arkansas	Jackson	ypll_rate	9817
+5069	Arkansas	Jefferson	ypll_rate	10829
+5071	Arkansas	Johnson	ypll_rate	8814
+5073	Arkansas	Lafayette	ypll_rate	13601
+5075	Arkansas	Lawrence	ypll_rate	10428
+5077	Arkansas	Lee	ypll_rate	11695
+5079	Arkansas	Lincoln	ypll_rate	8897
+5081	Arkansas	Little River	ypll_rate	11542
+5083	Arkansas	Logan	ypll_rate	10381
+5085	Arkansas	Lonoke	ypll_rate	9021
+5087	Arkansas	Madison	ypll_rate	7858
+5089	Arkansas	Marion	ypll_rate	10385
+5091	Arkansas	Miller	ypll_rate	9612
+5093	Arkansas	Mississippi	ypll_rate	13682
+5095	Arkansas	Monroe	ypll_rate	10840
+5097	Arkansas	Montgomery	ypll_rate	9635
+5099	Arkansas	Nevada	ypll_rate	9517
+5101	Arkansas	Newton	ypll_rate	12184
+5103	Arkansas	Ouachita	ypll_rate	14039
+5105	Arkansas	Perry	ypll_rate	9295
+5107	Arkansas	Phillips	ypll_rate	14286
+5109	Arkansas	Pike	ypll_rate	7886
+5111	Arkansas	Poinsett	ypll_rate	13684
+5113	Arkansas	Polk	ypll_rate	11004
+5115	Arkansas	Pope	ypll_rate	8523
+5117	Arkansas	Prairie	ypll_rate	11406
+5119	Arkansas	Pulaski	ypll_rate	9374
+5121	Arkansas	Randolph	ypll_rate	10455
+5123	Arkansas	St. Francis	ypll_rate	10895
+5125	Arkansas	Saline	ypll_rate	7307
+5127	Arkansas	Scott	ypll_rate	9091
+5129	Arkansas	Searcy	ypll_rate	8152
+5131	Arkansas	Sebastian	ypll_rate	8897
+5133	Arkansas	Sevier	ypll_rate	8916
+5135	Arkansas	Sharp	ypll_rate	11104
+5137	Arkansas	Stone	ypll_rate	10806
+5139	Arkansas	Union	ypll_rate	11763
+5141	Arkansas	Van Buren	ypll_rate	9260
+5143	Arkansas	Washington	ypll_rate	7119
+5145	Arkansas	White	ypll_rate	8633
+5147	Arkansas	Woodruff	ypll_rate	12482
+5149	Arkansas	Yell	ypll_rate	10026
+6001	California	Alameda	ypll_rate	5141
+6003	California	Alpine	ypll_rate	
+6005	California	Amador	ypll_rate	7504
+6007	California	Butte	ypll_rate	7944
+6009	California	Calaveras	ypll_rate	6938
+6011	California	Colusa	ypll_rate	5945
+6013	California	Contra Costa	ypll_rate	5257
+6015	California	Del Norte	ypll_rate	9671
+6017	California	El Dorado	ypll_rate	5170
+6019	California	Fresno	ypll_rate	7010
+6021	California	Glenn	ypll_rate	6819
+6023	California	Humboldt	ypll_rate	8293
+6025	California	Imperial	ypll_rate	5672
+6027	California	Inyo	ypll_rate	7070
+6029	California	Kern	ypll_rate	7631
+6031	California	Kings	ypll_rate	6372
+6033	California	Lake	ypll_rate	9804
+6035	California	Lassen	ypll_rate	6849
+6037	California	Los Angeles	ypll_rate	5464
+6039	California	Madera	ypll_rate	6694
+6041	California	Marin	ypll_rate	3782
+6043	California	Mariposa	ypll_rate	7309
+6045	California	Mendocino	ypll_rate	7975
+6047	California	Merced	ypll_rate	6726
+6049	California	Modoc	ypll_rate	9030
+6051	California	Mono	ypll_rate	3891
+6053	California	Monterey	ypll_rate	5216
+6055	California	Napa	ypll_rate	5309
+6057	California	Nevada	ypll_rate	5604
+6059	California	Orange	ypll_rate	4396
+6061	California	Placer	ypll_rate	4802
+6063	California	Plumas	ypll_rate	7082
+6065	California	Riverside	ypll_rate	5960
+6067	California	Sacramento	ypll_rate	6447
+6069	California	San Benito	ypll_rate	4955
+6071	California	San Bernardino	ypll_rate	6760
+6073	California	San Diego	ypll_rate	5143
+6075	California	San Francisco	ypll_rate	5244
+6077	California	San Joaquin	ypll_rate	7088
+6079	California	San Luis Obispo	ypll_rate	5229
+6081	California	San Mateo	ypll_rate	4135
+6083	California	Santa Barbara	ypll_rate	5245
+6085	California	Santa Clara	ypll_rate	3988
+6087	California	Santa Cruz	ypll_rate	5109
+6089	California	Shasta	ypll_rate	8358
+6091	California	Sierra	ypll_rate	7607
+6093	California	Siskiyou	ypll_rate	8516
+6095	California	Solano	ypll_rate	6389
+6097	California	Sonoma	ypll_rate	5233
+6099	California	Stanislaus	ypll_rate	6810
+6101	California	Sutter	ypll_rate	6862
+6103	California	Tehama	ypll_rate	7902
+6105	California	Trinity	ypll_rate	8555
+6107	California	Tulare	ypll_rate	7367
+6109	California	Tuolumne	ypll_rate	6682
+6111	California	Ventura	ypll_rate	5058
+6113	California	Yolo	ypll_rate	4891
+6115	California	Yuba	ypll_rate	7940
+8001	Colorado	Adams	ypll_rate	6371
+8003	Colorado	Alamosa	ypll_rate	8017
+8005	Colorado	Arapahoe	ypll_rate	5592
+8007	Colorado	Archuleta	ypll_rate	6442
+8009	Colorado	Baca	ypll_rate	12359
+8011	Colorado	Bent	ypll_rate	8560
+8013	Colorado	Boulder	ypll_rate	4574
+8014	Colorado	Broomfield	ypll_rate	4966
+8015	Colorado	Chaffee	ypll_rate	5504
+8017	Colorado	Cheyenne	ypll_rate	
+8019	Colorado	Clear Creek	ypll_rate	8399
+8021	Colorado	Conejos	ypll_rate	8839
+8023	Colorado	Costilla	ypll_rate	9422
+8025	Colorado	Crowley	ypll_rate	4887
+8027	Colorado	Custer	ypll_rate	6402
+8029	Colorado	Delta	ypll_rate	7297
+8031	Colorado	Denver	ypll_rate	7880
+8033	Colorado	Dolores	ypll_rate	
+8035	Colorado	Douglas	ypll_rate	3622
+8037	Colorado	Eagle	ypll_rate	3517
+8039	Colorado	Elbert	ypll_rate	5071
+8041	Colorado	El Paso	ypll_rate	6314
+8043	Colorado	Fremont	ypll_rate	8136
+8045	Colorado	Garfield	ypll_rate	5462
+8047	Colorado	Gilpin	ypll_rate	5465
+8049	Colorado	Grand	ypll_rate	5346
+8051	Colorado	Gunnison	ypll_rate	4806
+8053	Colorado	Hinsdale	ypll_rate	
+8055	Colorado	Huerfano	ypll_rate	11888
+8057	Colorado	Jackson	ypll_rate	
+8059	Colorado	Jefferson	ypll_rate	5534
+8061	Colorado	Kiowa	ypll_rate	
+8063	Colorado	Kit Carson	ypll_rate	6991
+8065	Colorado	Lake	ypll_rate	6269
+8067	Colorado	La Plata	ypll_rate	5037
+8069	Colorado	Larimer	ypll_rate	4960
+8071	Colorado	Las Animas	ypll_rate	10184
+8073	Colorado	Lincoln	ypll_rate	5278
+8075	Colorado	Logan	ypll_rate	6105
+8077	Colorado	Mesa	ypll_rate	6800
+8079	Colorado	Mineral	ypll_rate	
+8081	Colorado	Moffat	ypll_rate	8449
+8083	Colorado	Montezuma	ypll_rate	9079
+8085	Colorado	Montrose	ypll_rate	6967
+8087	Colorado	Morgan	ypll_rate	7018
+8089	Colorado	Otero	ypll_rate	8989
+8091	Colorado	Ouray	ypll_rate	
+8093	Colorado	Park	ypll_rate	5369
+8095	Colorado	Phillips	ypll_rate	8211
+8097	Colorado	Pitkin	ypll_rate	3696
+8099	Colorado	Prowers	ypll_rate	9547
+8101	Colorado	Pueblo	ypll_rate	8767
+8103	Colorado	Rio Blanco	ypll_rate	6178
+8105	Colorado	Rio Grande	ypll_rate	7762
+8107	Colorado	Routt	ypll_rate	5600
+8109	Colorado	Saguache	ypll_rate	8383
+8111	Colorado	San Juan	ypll_rate	
+8113	Colorado	San Miguel	ypll_rate	
+8115	Colorado	Sedgwick	ypll_rate	8054
+8117	Colorado	Summit	ypll_rate	3877
+8119	Colorado	Teller	ypll_rate	6765
+8121	Colorado	Washington	ypll_rate	5026
+8123	Colorado	Weld	ypll_rate	5730
+8125	Colorado	Yuma	ypll_rate	5728
+9001	Connecticut	Fairfield	ypll_rate	4541
+9003	Connecticut	Hartford	ypll_rate	5808
+9005	Connecticut	Litchfield	ypll_rate	5191
+9007	Connecticut	Middlesex	ypll_rate	4899
+9009	Connecticut	New Haven	ypll_rate	6030
+9011	Connecticut	New London	ypll_rate	5534
+9013	Connecticut	Tolland	ypll_rate	4371
+9015	Connecticut	Windham	ypll_rate	6289
+10001	Delaware	Kent	ypll_rate	8338
+10003	Delaware	New Castle	ypll_rate	7270
+10005	Delaware	Sussex	ypll_rate	7689
+11001	District of Columbia	District of Columbia	ypll_rate	9870
+12001	Florida	Alachua	ypll_rate	7187
+12003	Florida	Baker	ypll_rate	10435
+12005	Florida	Bay	ypll_rate	8802
+12007	Florida	Bradford	ypll_rate	10110
+12009	Florida	Brevard	ypll_rate	7701
+12011	Florida	Broward	ypll_rate	6599
+12013	Florida	Calhoun	ypll_rate	8143
+12015	Florida	Charlotte	ypll_rate	7877
+12017	Florida	Citrus	ypll_rate	9905
+12019	Florida	Clay	ypll_rate	6980
+12021	Florida	Collier	ypll_rate	5876
+12023	Florida	Columbia	ypll_rate	10275
+12027	Florida	DeSoto	ypll_rate	7540
+12029	Florida	Dixie	ypll_rate	10744
+12031	Florida	Duval	ypll_rate	9151
+12033	Florida	Escambia	ypll_rate	9310
+12035	Florida	Flagler	ypll_rate	6976
+12037	Florida	Franklin	ypll_rate	8315
+12039	Florida	Gadsden	ypll_rate	10008
+12041	Florida	Gilchrist	ypll_rate	9223
+12043	Florida	Glades	ypll_rate	8411
+12045	Florida	Gulf	ypll_rate	7831
+12047	Florida	Hamilton	ypll_rate	9614
+12049	Florida	Hardee	ypll_rate	8156
+12051	Florida	Hendry	ypll_rate	8747
+12053	Florida	Hernando	ypll_rate	9063
+12055	Florida	Highlands	ypll_rate	8610
+12057	Florida	Hillsborough	ypll_rate	7601
+12059	Florida	Holmes	ypll_rate	10322
+12061	Florida	Indian River	ypll_rate	7242
+12063	Florida	Jackson	ypll_rate	8766
+12065	Florida	Jefferson	ypll_rate	9287
+12067	Florida	Lafayette	ypll_rate	8379
+12069	Florida	Lake	ypll_rate	7563
+12071	Florida	Lee	ypll_rate	6665
+12073	Florida	Leon	ypll_rate	6405
+12075	Florida	Levy	ypll_rate	9697
+12077	Florida	Liberty	ypll_rate	7537
+12079	Florida	Madison	ypll_rate	9613
+12081	Florida	Manatee	ypll_rate	7681
+12083	Florida	Marion	ypll_rate	8848
+12085	Florida	Martin	ypll_rate	6380
+12086	Florida	Miami-Dade	ypll_rate	5916
+12087	Florida	Monroe	ypll_rate	8353
+12089	Florida	Nassau	ypll_rate	8278
+12091	Florida	Okaloosa	ypll_rate	7345
+12093	Florida	Okeechobee	ypll_rate	9881
+12095	Florida	Orange	ypll_rate	6647
+12097	Florida	Osceola	ypll_rate	6565
+12099	Florida	Palm Beach	ypll_rate	6874
+12101	Florida	Pasco	ypll_rate	8716
+12103	Florida	Pinellas	ypll_rate	8617
+12105	Florida	Polk	ypll_rate	7926
+12107	Florida	Putnam	ypll_rate	11114
+12109	Florida	St. Johns	ypll_rate	5975
+12111	Florida	St. Lucie	ypll_rate	7407
+12113	Florida	Santa Rosa	ypll_rate	6943
+12115	Florida	Sarasota	ypll_rate	7158
+12117	Florida	Seminole	ypll_rate	6058
+12119	Florida	Sumter	ypll_rate	7955
+12121	Florida	Suwannee	ypll_rate	9818
+12123	Florida	Taylor	ypll_rate	9369
+12125	Florida	Union	ypll_rate	16608
+12127	Florida	Volusia	ypll_rate	8975
+12129	Florida	Wakulla	ypll_rate	7445
+12131	Florida	Walton	ypll_rate	9002
+12133	Florida	Washington	ypll_rate	10553
+13001	Georgia	Appling	ypll_rate	11116
+13003	Georgia	Atkinson	ypll_rate	10394
+13005	Georgia	Bacon	ypll_rate	10792
+13007	Georgia	Baker	ypll_rate	9015
+13009	Georgia	Baldwin	ypll_rate	7889
+13011	Georgia	Banks	ypll_rate	8052
+13013	Georgia	Barrow	ypll_rate	7971
+13015	Georgia	Bartow	ypll_rate	8225
+13017	Georgia	Ben Hill	ypll_rate	9595
+13019	Georgia	Berrien	ypll_rate	8485
+13021	Georgia	Bibb	ypll_rate	11183
+13023	Georgia	Bleckley	ypll_rate	10304
+13025	Georgia	Brantley	ypll_rate	11052
+13027	Georgia	Brooks	ypll_rate	7935
+13029	Georgia	Bryan	ypll_rate	7642
+13031	Georgia	Bulloch	ypll_rate	8036
+13033	Georgia	Burke	ypll_rate	11117
+13035	Georgia	Butts	ypll_rate	11581
+13037	Georgia	Calhoun	ypll_rate	6519
+13039	Georgia	Camden	ypll_rate	6698
+13043	Georgia	Candler	ypll_rate	10898
+13045	Georgia	Carroll	ypll_rate	8668
+13047	Georgia	Catoosa	ypll_rate	7058
+13049	Georgia	Charlton	ypll_rate	9240
+13051	Georgia	Chatham	ypll_rate	8461
+13053	Georgia	Chattahoochee	ypll_rate	8957
+13055	Georgia	Chattooga	ypll_rate	9897
+13057	Georgia	Cherokee	ypll_rate	5603
+13059	Georgia	Clarke	ypll_rate	6610
+13061	Georgia	Clay	ypll_rate	19240
+13063	Georgia	Clayton	ypll_rate	7780
+13065	Georgia	Clinch	ypll_rate	12215
+13067	Georgia	Cobb	ypll_rate	5589
+13069	Georgia	Coffee	ypll_rate	8798
+13071	Georgia	Colquitt	ypll_rate	8542
+13073	Georgia	Columbia	ypll_rate	6028
+13075	Georgia	Cook	ypll_rate	10262
+13077	Georgia	Coweta	ypll_rate	6018
+13079	Georgia	Crawford	ypll_rate	7146
+13081	Georgia	Crisp	ypll_rate	10864
+13083	Georgia	Dade	ypll_rate	10753
+13085	Georgia	Dawson	ypll_rate	7626
+13087	Georgia	Decatur	ypll_rate	10832
+13089	Georgia	DeKalb	ypll_rate	7047
+13091	Georgia	Dodge	ypll_rate	9601
+13093	Georgia	Dooly	ypll_rate	5441
+13095	Georgia	Dougherty	ypll_rate	9770
+13097	Georgia	Douglas	ypll_rate	7170
+13099	Georgia	Early	ypll_rate	12402
+13101	Georgia	Echols	ypll_rate	8112
+13103	Georgia	Effingham	ypll_rate	7600
+13105	Georgia	Elbert	ypll_rate	9408
+13107	Georgia	Emanuel	ypll_rate	10945
+13109	Georgia	Evans	ypll_rate	8781
+13111	Georgia	Fannin	ypll_rate	9786
+13113	Georgia	Fayette	ypll_rate	5093
+13115	Georgia	Floyd	ypll_rate	9307
+13117	Georgia	Forsyth	ypll_rate	4052
+13119	Georgia	Franklin	ypll_rate	10592
+13121	Georgia	Fulton	ypll_rate	7874
+13123	Georgia	Gilmer	ypll_rate	7332
+13125	Georgia	Glascock	ypll_rate	10609
+13127	Georgia	Glynn	ypll_rate	9166
+13129	Georgia	Gordon	ypll_rate	8620
+13131	Georgia	Grady	ypll_rate	9286
+13133	Georgia	Greene	ypll_rate	8868
+13135	Georgia	Gwinnett	ypll_rate	5231
+13137	Georgia	Habersham	ypll_rate	6993
+13139	Georgia	Hall	ypll_rate	6705
+13141	Georgia	Hancock	ypll_rate	8192
+13143	Georgia	Haralson	ypll_rate	11288
+13145	Georgia	Harris	ypll_rate	8440
+13147	Georgia	Hart	ypll_rate	8301
+13149	Georgia	Heard	ypll_rate	10269
+13151	Georgia	Henry	ypll_rate	7111
+13153	Georgia	Houston	ypll_rate	7710
+13155	Georgia	Irwin	ypll_rate	10284
+13157	Georgia	Jackson	ypll_rate	8056
+13159	Georgia	Jasper	ypll_rate	8682
+13161	Georgia	Jeff Davis	ypll_rate	11168
+13163	Georgia	Jefferson	ypll_rate	10070
+13165	Georgia	Jenkins	ypll_rate	11626
+13167	Georgia	Johnson	ypll_rate	9054
+13169	Georgia	Jones	ypll_rate	6843
+13171	Georgia	Lamar	ypll_rate	10485
+13173	Georgia	Lanier	ypll_rate	9834
+13175	Georgia	Laurens	ypll_rate	9404
+13177	Georgia	Lee	ypll_rate	7407
+13179	Georgia	Liberty	ypll_rate	7779
+13181	Georgia	Lincoln	ypll_rate	9532
+13183	Georgia	Long	ypll_rate	7646
+13185	Georgia	Lowndes	ypll_rate	9260
+13187	Georgia	Lumpkin	ypll_rate	7748
+13189	Georgia	McDuffie	ypll_rate	13093
+13191	Georgia	McIntosh	ypll_rate	7872
+13193	Georgia	Macon	ypll_rate	9710
+13195	Georgia	Madison	ypll_rate	10198
+13197	Georgia	Marion	ypll_rate	8784
+13199	Georgia	Meriwether	ypll_rate	9727
+13201	Georgia	Miller	ypll_rate	11530
+13205	Georgia	Mitchell	ypll_rate	10352
+13207	Georgia	Monroe	ypll_rate	7334
+13209	Georgia	Montgomery	ypll_rate	8864
+13211	Georgia	Morgan	ypll_rate	7352
+13213	Georgia	Murray	ypll_rate	8856
+13215	Georgia	Muscogee	ypll_rate	10456
+13217	Georgia	Newton	ypll_rate	7784
+13219	Georgia	Oconee	ypll_rate	4639
+13221	Georgia	Oglethorpe	ypll_rate	6677
+13223	Georgia	Paulding	ypll_rate	6424
+13225	Georgia	Peach	ypll_rate	9959
+13227	Georgia	Pickens	ypll_rate	8302
+13229	Georgia	Pierce	ypll_rate	10962
+13231	Georgia	Pike	ypll_rate	8315
+13233	Georgia	Polk	ypll_rate	10396
+13235	Georgia	Pulaski	ypll_rate	8190
+13237	Georgia	Putnam	ypll_rate	8039
+13239	Georgia	Quitman	ypll_rate	7124
+13241	Georgia	Rabun	ypll_rate	10956
+13243	Georgia	Randolph	ypll_rate	10294
+13245	Georgia	Richmond	ypll_rate	11379
+13247	Georgia	Rockdale	ypll_rate	6569
+13249	Georgia	Schley	ypll_rate	8793
+13251	Georgia	Screven	ypll_rate	10691
+13253	Georgia	Seminole	ypll_rate	10643
+13255	Georgia	Spalding	ypll_rate	10424
+13257	Georgia	Stephens	ypll_rate	9339
+13259	Georgia	Stewart	ypll_rate	13978
+13261	Georgia	Sumter	ypll_rate	8326
+13263	Georgia	Talbot	ypll_rate	10631
+13265	Georgia	Taliaferro	ypll_rate	13295
+13267	Georgia	Tattnall	ypll_rate	10223
+13269	Georgia	Taylor	ypll_rate	8644
+13271	Georgia	Telfair	ypll_rate	8198
+13273	Georgia	Terrell	ypll_rate	12029
+13275	Georgia	Thomas	ypll_rate	9713
+13277	Georgia	Tift	ypll_rate	9190
+13279	Georgia	Toombs	ypll_rate	9274
+13281	Georgia	Towns	ypll_rate	8636
+13283	Georgia	Treutlen	ypll_rate	10520
+13285	Georgia	Troup	ypll_rate	9799
+13287	Georgia	Turner	ypll_rate	11779
+13289	Georgia	Twiggs	ypll_rate	9172
+13291	Georgia	Union	ypll_rate	7702
+13293	Georgia	Upson	ypll_rate	10466
+13295	Georgia	Walker	ypll_rate	9556
+13297	Georgia	Walton	ypll_rate	8366
+13299	Georgia	Ware	ypll_rate	9993
+13301	Georgia	Warren	ypll_rate	11699
+13303	Georgia	Washington	ypll_rate	10367
+13305	Georgia	Wayne	ypll_rate	10334
+13307	Georgia	Webster	ypll_rate	6441
+13309	Georgia	Wheeler	ypll_rate	8350
+13311	Georgia	White	ypll_rate	8033
+13313	Georgia	Whitfield	ypll_rate	7513
+13315	Georgia	Wilcox	ypll_rate	13609
+13317	Georgia	Wilkes	ypll_rate	9933
+13319	Georgia	Wilkinson	ypll_rate	10247
+13321	Georgia	Worth	ypll_rate	7936
+15001	Hawaii	Hawaii	ypll_rate	6853
+15003	Hawaii	Honolulu	ypll_rate	5490
+15005	Hawaii	Kalawao	ypll_rate	
+15007	Hawaii	Kauai	ypll_rate	6181
+15009	Hawaii	Maui	ypll_rate	5781
+16001	Idaho	Ada	ypll_rate	5007
+16003	Idaho	Adams	ypll_rate	5103
+16005	Idaho	Bannock	ypll_rate	7460
+16007	Idaho	Bear Lake	ypll_rate	9687
+16009	Idaho	Benewah	ypll_rate	8666
+16011	Idaho	Bingham	ypll_rate	7784
+16013	Idaho	Blaine	ypll_rate	5329
+16015	Idaho	Boise	ypll_rate	7621
+16017	Idaho	Bonner	ypll_rate	6942
+16019	Idaho	Bonneville	ypll_rate	6455
+16021	Idaho	Boundary	ypll_rate	7224
+16023	Idaho	Butte	ypll_rate	
+16025	Idaho	Camas	ypll_rate	
+16027	Idaho	Canyon	ypll_rate	6136
+16029	Idaho	Caribou	ypll_rate	8712
+16031	Idaho	Cassia	ypll_rate	6614
+16033	Idaho	Clark	ypll_rate	
+16035	Idaho	Clearwater	ypll_rate	7115
+16037	Idaho	Custer	ypll_rate	6329
+16039	Idaho	Elmore	ypll_rate	7479
+16041	Idaho	Franklin	ypll_rate	4262
+16043	Idaho	Fremont	ypll_rate	6068
+16045	Idaho	Gem	ypll_rate	6043
+16047	Idaho	Gooding	ypll_rate	6535
+16049	Idaho	Idaho	ypll_rate	7637
+16051	Idaho	Jefferson	ypll_rate	5142
+16053	Idaho	Jerome	ypll_rate	8059
+16055	Idaho	Kootenai	ypll_rate	5798
+16057	Idaho	Latah	ypll_rate	4934
+16059	Idaho	Lemhi	ypll_rate	9360
+16061	Idaho	Lewis	ypll_rate	6697
+16063	Idaho	Lincoln	ypll_rate	8642
+16065	Idaho	Madison	ypll_rate	4491
+16067	Idaho	Minidoka	ypll_rate	6991
+16069	Idaho	Nez Perce	ypll_rate	7368
+16071	Idaho	Oneida	ypll_rate	5703
+16073	Idaho	Owyhee	ypll_rate	7302
+16075	Idaho	Payette	ypll_rate	7045
+16077	Idaho	Power	ypll_rate	4922
+16079	Idaho	Shoshone	ypll_rate	9582
+16081	Idaho	Teton	ypll_rate	5616
+16083	Idaho	Twin Falls	ypll_rate	7559
+16085	Idaho	Valley	ypll_rate	4566
+16087	Idaho	Washington	ypll_rate	6747
+17001	Illinois	Adams	ypll_rate	6328
+17003	Illinois	Alexander	ypll_rate	11063
+17005	Illinois	Bond	ypll_rate	6538
+17007	Illinois	Boone	ypll_rate	5321
+17009	Illinois	Brown	ypll_rate	4530
+17011	Illinois	Bureau	ypll_rate	7070
+17013	Illinois	Calhoun	ypll_rate	5110
+17015	Illinois	Carroll	ypll_rate	8295
+17017	Illinois	Cass	ypll_rate	7062
+17019	Illinois	Champaign	ypll_rate	5480
+17021	Illinois	Christian	ypll_rate	7628
+17023	Illinois	Clark	ypll_rate	7707
+17025	Illinois	Clay	ypll_rate	7718
+17027	Illinois	Clinton	ypll_rate	5912
+17029	Illinois	Coles	ypll_rate	7802
+17031	Illinois	Cook	ypll_rate	7267
+17033	Illinois	Crawford	ypll_rate	7205
+17035	Illinois	Cumberland	ypll_rate	6916
+17037	Illinois	DeKalb	ypll_rate	5006
+17039	Illinois	De Witt	ypll_rate	6808
+17041	Illinois	Douglas	ypll_rate	5372
+17043	Illinois	DuPage	ypll_rate	4378
+17045	Illinois	Edgar	ypll_rate	7751
+17047	Illinois	Edwards	ypll_rate	11484
+17049	Illinois	Effingham	ypll_rate	6158
+17051	Illinois	Fayette	ypll_rate	5906
+17053	Illinois	Ford	ypll_rate	7351
+17055	Illinois	Franklin	ypll_rate	10665
+17057	Illinois	Fulton	ypll_rate	7570
+17059	Illinois	Gallatin	ypll_rate	12294
+17061	Illinois	Greene	ypll_rate	7114
+17063	Illinois	Grundy	ypll_rate	6342
+17065	Illinois	Hamilton	ypll_rate	9087
+17067	Illinois	Hancock	ypll_rate	6305
+17069	Illinois	Hardin	ypll_rate	9597
+17071	Illinois	Henderson	ypll_rate	6596
+17073	Illinois	Henry	ypll_rate	5554
+17075	Illinois	Iroquois	ypll_rate	8296
+17077	Illinois	Jackson	ypll_rate	7745
+17079	Illinois	Jasper	ypll_rate	6953
+17081	Illinois	Jefferson	ypll_rate	8082
+17083	Illinois	Jersey	ypll_rate	7047
+17085	Illinois	Jo Daviess	ypll_rate	4621
+17087	Illinois	Johnson	ypll_rate	7895
+17089	Illinois	Kane	ypll_rate	4869
+17091	Illinois	Kankakee	ypll_rate	7285
+17093	Illinois	Kendall	ypll_rate	4463
+17095	Illinois	Knox	ypll_rate	8179
+17097	Illinois	Lake	ypll_rate	4789
+17099	Illinois	LaSalle	ypll_rate	7817
+17101	Illinois	Lawrence	ypll_rate	10296
+17103	Illinois	Lee	ypll_rate	7243
+17105	Illinois	Livingston	ypll_rate	8330
+17107	Illinois	Logan	ypll_rate	7664
+17109	Illinois	McDonough	ypll_rate	5842
+17111	Illinois	McHenry	ypll_rate	5069
+17113	Illinois	McLean	ypll_rate	5937
+17115	Illinois	Macon	ypll_rate	7943
+17117	Illinois	Macoupin	ypll_rate	7023
+17119	Illinois	Madison	ypll_rate	7674
+17121	Illinois	Marion	ypll_rate	9211
+17123	Illinois	Marshall	ypll_rate	7370
+17125	Illinois	Mason	ypll_rate	9131
+17127	Illinois	Massac	ypll_rate	8693
+17129	Illinois	Menard	ypll_rate	6400
+17131	Illinois	Mercer	ypll_rate	6030
+17133	Illinois	Monroe	ypll_rate	5271
+17135	Illinois	Montgomery	ypll_rate	8455
+17137	Illinois	Morgan	ypll_rate	6026
+17139	Illinois	Moultrie	ypll_rate	6412
+17141	Illinois	Ogle	ypll_rate	5574
+17143	Illinois	Peoria	ypll_rate	7612
+17145	Illinois	Perry	ypll_rate	7232
+17147	Illinois	Piatt	ypll_rate	5473
+17149	Illinois	Pike	ypll_rate	5403
+17151	Illinois	Pope	ypll_rate	7561
+17153	Illinois	Pulaski	ypll_rate	9754
+17155	Illinois	Putnam	ypll_rate	7481
+17157	Illinois	Randolph	ypll_rate	6887
+17159	Illinois	Richland	ypll_rate	7517
+17161	Illinois	Rock Island	ypll_rate	6926
+17163	Illinois	St. Clair	ypll_rate	8345
+17165	Illinois	Saline	ypll_rate	10496
+17167	Illinois	Sangamon	ypll_rate	7309
+17169	Illinois	Schuyler	ypll_rate	4552
+17171	Illinois	Scott	ypll_rate	7174
+17173	Illinois	Shelby	ypll_rate	6520
+17175	Illinois	Stark	ypll_rate	5887
+17177	Illinois	Stephenson	ypll_rate	7325
+17179	Illinois	Tazewell	ypll_rate	6035
+17181	Illinois	Union	ypll_rate	7904
+17183	Illinois	Vermilion	ypll_rate	9249
+17185	Illinois	Wabash	ypll_rate	7684
+17187	Illinois	Warren	ypll_rate	6656
+17189	Illinois	Washington	ypll_rate	6537
+17191	Illinois	Wayne	ypll_rate	7785
+17193	Illinois	White	ypll_rate	7908
+17195	Illinois	Whiteside	ypll_rate	6666
+17197	Illinois	Will	ypll_rate	5513
+17199	Illinois	Williamson	ypll_rate	8475
+17201	Illinois	Winnebago	ypll_rate	7691
+17203	Illinois	Woodford	ypll_rate	5057
+18001	Indiana	Adams	ypll_rate	6806
+18003	Indiana	Allen	ypll_rate	7044
+18005	Indiana	Bartholomew	ypll_rate	7136
+18007	Indiana	Benton	ypll_rate	8519
+18009	Indiana	Blackford	ypll_rate	9959
+18011	Indiana	Boone	ypll_rate	5695
+18013	Indiana	Brown	ypll_rate	6792
+18015	Indiana	Carroll	ypll_rate	7093
+18017	Indiana	Cass	ypll_rate	8398
+18019	Indiana	Clark	ypll_rate	7636
+18021	Indiana	Clay	ypll_rate	7719
+18023	Indiana	Clinton	ypll_rate	6717
+18025	Indiana	Crawford	ypll_rate	10583
+18027	Indiana	Daviess	ypll_rate	7471
+18029	Indiana	Dearborn	ypll_rate	6980
+18031	Indiana	Decatur	ypll_rate	6737
+18033	Indiana	DeKalb	ypll_rate	6947
+18035	Indiana	Delaware	ypll_rate	8465
+18037	Indiana	Dubois	ypll_rate	6210
+18039	Indiana	Elkhart	ypll_rate	6278
+18041	Indiana	Fayette	ypll_rate	10848
+18043	Indiana	Floyd	ypll_rate	7953
+18045	Indiana	Fountain	ypll_rate	8169
+18047	Indiana	Franklin	ypll_rate	6012
+18049	Indiana	Fulton	ypll_rate	8261
+18051	Indiana	Gibson	ypll_rate	6942
+18053	Indiana	Grant	ypll_rate	8769
+18055	Indiana	Greene	ypll_rate	9378
+18057	Indiana	Hamilton	ypll_rate	4047
+18059	Indiana	Hancock	ypll_rate	6189
+18061	Indiana	Harrison	ypll_rate	6896
+18063	Indiana	Hendricks	ypll_rate	5072
+18065	Indiana	Henry	ypll_rate	9298
+18067	Indiana	Howard	ypll_rate	8019
+18069	Indiana	Huntington	ypll_rate	6452
+18071	Indiana	Jackson	ypll_rate	8404
+18073	Indiana	Jasper	ypll_rate	8011
+18075	Indiana	Jay	ypll_rate	7666
+18077	Indiana	Jefferson	ypll_rate	7388
+18079	Indiana	Jennings	ypll_rate	10175
+18081	Indiana	Johnson	ypll_rate	6432
+18083	Indiana	Knox	ypll_rate	8769
+18085	Indiana	Kosciusko	ypll_rate	6992
+18087	Indiana	LaGrange	ypll_rate	5865
+18089	Indiana	Lake	ypll_rate	8810
+18091	Indiana	LaPorte	ypll_rate	8541
+18093	Indiana	Lawrence	ypll_rate	9210
+18095	Indiana	Madison	ypll_rate	8964
+18097	Indiana	Marion	ypll_rate	9042
+18099	Indiana	Marshall	ypll_rate	7122
+18101	Indiana	Martin	ypll_rate	8799
+18103	Indiana	Miami	ypll_rate	7487
+18105	Indiana	Monroe	ypll_rate	5586
+18107	Indiana	Montgomery	ypll_rate	7156
+18109	Indiana	Morgan	ypll_rate	7391
+18111	Indiana	Newton	ypll_rate	7533
+18113	Indiana	Noble	ypll_rate	6950
+18115	Indiana	Ohio	ypll_rate	6980
+18117	Indiana	Orange	ypll_rate	8928
+18119	Indiana	Owen	ypll_rate	7917
+18121	Indiana	Parke	ypll_rate	7977
+18123	Indiana	Perry	ypll_rate	7404
+18125	Indiana	Pike	ypll_rate	7361
+18127	Indiana	Porter	ypll_rate	6617
+18129	Indiana	Posey	ypll_rate	6287
+18131	Indiana	Pulaski	ypll_rate	9045
+18133	Indiana	Putnam	ypll_rate	6491
+18135	Indiana	Randolph	ypll_rate	6926
+18137	Indiana	Ripley	ypll_rate	7050
+18139	Indiana	Rush	ypll_rate	9158
+18141	Indiana	St. Joseph	ypll_rate	7377
+18143	Indiana	Scott	ypll_rate	11137
+18145	Indiana	Shelby	ypll_rate	7529
+18147	Indiana	Spencer	ypll_rate	5970
+18149	Indiana	Starke	ypll_rate	11001
+18151	Indiana	Steuben	ypll_rate	6540
+18153	Indiana	Sullivan	ypll_rate	9946
+18155	Indiana	Switzerland	ypll_rate	9165
+18157	Indiana	Tippecanoe	ypll_rate	5826
+18159	Indiana	Tipton	ypll_rate	7539
+18161	Indiana	Union	ypll_rate	9000
+18163	Indiana	Vanderburgh	ypll_rate	8010
+18165	Indiana	Vermillion	ypll_rate	9682
+18167	Indiana	Vigo	ypll_rate	8524
+18169	Indiana	Wabash	ypll_rate	8580
+18171	Indiana	Warren	ypll_rate	6419
+18173	Indiana	Warrick	ypll_rate	5705
+18175	Indiana	Washington	ypll_rate	8954
+18177	Indiana	Wayne	ypll_rate	8063
+18179	Indiana	Wells	ypll_rate	5041
+18181	Indiana	White	ypll_rate	7798
+18183	Indiana	Whitley	ypll_rate	5968
+19001	Iowa	Adair	ypll_rate	6621
+19003	Iowa	Adams	ypll_rate	9804
+19005	Iowa	Allamakee	ypll_rate	5902
+19007	Iowa	Appanoose	ypll_rate	9268
+19009	Iowa	Audubon	ypll_rate	6462
+19011	Iowa	Benton	ypll_rate	5507
+19013	Iowa	Black Hawk	ypll_rate	6171
+19015	Iowa	Boone	ypll_rate	7085
+19017	Iowa	Bremer	ypll_rate	4094
+19019	Iowa	Buchanan	ypll_rate	5604
+19021	Iowa	Buena Vista	ypll_rate	5710
+19023	Iowa	Butler	ypll_rate	5981
+19025	Iowa	Calhoun	ypll_rate	6481
+19027	Iowa	Carroll	ypll_rate	6606
+19029	Iowa	Cass	ypll_rate	8503
+19031	Iowa	Cedar	ypll_rate	5428
+19033	Iowa	Cerro Gordo	ypll_rate	6099
+19035	Iowa	Cherokee	ypll_rate	6610
+19037	Iowa	Chickasaw	ypll_rate	4458
+19039	Iowa	Clarke	ypll_rate	6162
+19041	Iowa	Clay	ypll_rate	5370
+19043	Iowa	Clayton	ypll_rate	6600
+19045	Iowa	Clinton	ypll_rate	6623
+19047	Iowa	Crawford	ypll_rate	5181
+19049	Iowa	Dallas	ypll_rate	3866
+19051	Iowa	Davis	ypll_rate	4768
+19053	Iowa	Decatur	ypll_rate	6193
+19055	Iowa	Delaware	ypll_rate	6216
+19057	Iowa	Des Moines	ypll_rate	6596
+19059	Iowa	Dickinson	ypll_rate	4792
+19061	Iowa	Dubuque	ypll_rate	5675
+19063	Iowa	Emmet	ypll_rate	5345
+19065	Iowa	Fayette	ypll_rate	6371
+19067	Iowa	Floyd	ypll_rate	7017
+19069	Iowa	Franklin	ypll_rate	5562
+19071	Iowa	Fremont	ypll_rate	7964
+19073	Iowa	Greene	ypll_rate	7088
+19075	Iowa	Grundy	ypll_rate	4493
+19077	Iowa	Guthrie	ypll_rate	5843
+19079	Iowa	Hamilton	ypll_rate	5848
+19081	Iowa	Hancock	ypll_rate	5603
+19083	Iowa	Hardin	ypll_rate	6021
+19085	Iowa	Harrison	ypll_rate	6916
+19087	Iowa	Henry	ypll_rate	5359
+19089	Iowa	Howard	ypll_rate	5620
+19091	Iowa	Humboldt	ypll_rate	7307
+19093	Iowa	Ida	ypll_rate	6627
+19095	Iowa	Iowa	ypll_rate	5056
+19097	Iowa	Jackson	ypll_rate	5979
+19099	Iowa	Jasper	ypll_rate	6875
+19101	Iowa	Jefferson	ypll_rate	5866
+19103	Iowa	Johnson	ypll_rate	4931
+19105	Iowa	Jones	ypll_rate	6369
+19107	Iowa	Keokuk	ypll_rate	5893
+19109	Iowa	Kossuth	ypll_rate	4391
+19111	Iowa	Lee	ypll_rate	7652
+19113	Iowa	Linn	ypll_rate	4861
+19115	Iowa	Louisa	ypll_rate	8053
+19117	Iowa	Lucas	ypll_rate	7332
+19119	Iowa	Lyon	ypll_rate	3945
+19121	Iowa	Madison	ypll_rate	5595
+19123	Iowa	Mahaska	ypll_rate	4732
+19125	Iowa	Marion	ypll_rate	6488
+19127	Iowa	Marshall	ypll_rate	6752
+19129	Iowa	Mills	ypll_rate	9666
+19131	Iowa	Mitchell	ypll_rate	4856
+19133	Iowa	Monona	ypll_rate	7392
+19135	Iowa	Monroe	ypll_rate	7336
+19137	Iowa	Montgomery	ypll_rate	8225
+19139	Iowa	Muscatine	ypll_rate	6125
+19141	Iowa	O'Brien	ypll_rate	6102
+19143	Iowa	Osceola	ypll_rate	6470
+19145	Iowa	Page	ypll_rate	7387
+19147	Iowa	Palo Alto	ypll_rate	5187
+19149	Iowa	Plymouth	ypll_rate	4533
+19151	Iowa	Pocahontas	ypll_rate	6507
+19153	Iowa	Polk	ypll_rate	6303
+19155	Iowa	Pottawattamie	ypll_rate	7496
+19157	Iowa	Poweshiek	ypll_rate	5299
+19159	Iowa	Ringgold	ypll_rate	5829
+19161	Iowa	Sac	ypll_rate	5584
+19163	Iowa	Scott	ypll_rate	6442
+19165	Iowa	Shelby	ypll_rate	5630
+19167	Iowa	Sioux	ypll_rate	3877
+19169	Iowa	Story	ypll_rate	4653
+19171	Iowa	Tama	ypll_rate	5567
+19173	Iowa	Taylor	ypll_rate	5583
+19175	Iowa	Union	ypll_rate	8378
+19177	Iowa	Van Buren	ypll_rate	5941
+19179	Iowa	Wapello	ypll_rate	7466
+19181	Iowa	Warren	ypll_rate	6084
+19183	Iowa	Washington	ypll_rate	5627
+19185	Iowa	Wayne	ypll_rate	8578
+19187	Iowa	Webster	ypll_rate	8404
+19189	Iowa	Winnebago	ypll_rate	5671
+19191	Iowa	Winneshiek	ypll_rate	3896
+19193	Iowa	Woodbury	ypll_rate	6680
+19195	Iowa	Worth	ypll_rate	6291
+19197	Iowa	Wright	ypll_rate	6462
+20001	Kansas	Allen	ypll_rate	8766
+20003	Kansas	Anderson	ypll_rate	7147
+20005	Kansas	Atchison	ypll_rate	7115
+20007	Kansas	Barber	ypll_rate	5522
+20009	Kansas	Barton	ypll_rate	7511
+20011	Kansas	Bourbon	ypll_rate	7899
+20013	Kansas	Brown	ypll_rate	10354
+20015	Kansas	Butler	ypll_rate	6996
+20017	Kansas	Chase	ypll_rate	8286
+20019	Kansas	Chautauqua	ypll_rate	12789
+20021	Kansas	Cherokee	ypll_rate	10147
+20023	Kansas	Cheyenne	ypll_rate	
+20025	Kansas	Clark	ypll_rate	
+20027	Kansas	Clay	ypll_rate	8271
+20029	Kansas	Cloud	ypll_rate	8754
+20031	Kansas	Coffey	ypll_rate	8118
+20033	Kansas	Comanche	ypll_rate	
+20035	Kansas	Cowley	ypll_rate	8438
+20037	Kansas	Crawford	ypll_rate	8059
+20039	Kansas	Decatur	ypll_rate	12351
+20041	Kansas	Dickinson	ypll_rate	6536
+20043	Kansas	Doniphan	ypll_rate	5780
+20045	Kansas	Douglas	ypll_rate	4984
+20047	Kansas	Edwards	ypll_rate	10791
+20049	Kansas	Elk	ypll_rate	10326
+20051	Kansas	Ellis	ypll_rate	5569
+20053	Kansas	Ellsworth	ypll_rate	6519
+20055	Kansas	Finney	ypll_rate	6376
+20057	Kansas	Ford	ypll_rate	6769
+20059	Kansas	Franklin	ypll_rate	7275
+20061	Kansas	Geary	ypll_rate	9347
+20063	Kansas	Gove	ypll_rate	
+20065	Kansas	Graham	ypll_rate	
+20067	Kansas	Grant	ypll_rate	6877
+20069	Kansas	Gray	ypll_rate	6259
+20071	Kansas	Greeley	ypll_rate	
+20073	Kansas	Greenwood	ypll_rate	9268
+20075	Kansas	Hamilton	ypll_rate	
+20077	Kansas	Harper	ypll_rate	7950
+20079	Kansas	Harvey	ypll_rate	6836
+20081	Kansas	Haskell	ypll_rate	8342
+20083	Kansas	Hodgeman	ypll_rate	
+20085	Kansas	Jackson	ypll_rate	7919
+20087	Kansas	Jefferson	ypll_rate	6428
+20089	Kansas	Jewell	ypll_rate	6820
+20091	Kansas	Johnson	ypll_rate	4586
+20093	Kansas	Kearny	ypll_rate	
+20095	Kansas	Kingman	ypll_rate	5624
+20097	Kansas	Kiowa	ypll_rate	
+20099	Kansas	Labette	ypll_rate	9409
+20101	Kansas	Lane	ypll_rate	
+20103	Kansas	Leavenworth	ypll_rate	6388
+20105	Kansas	Lincoln	ypll_rate	6028
+20107	Kansas	Linn	ypll_rate	8596
+20109	Kansas	Logan	ypll_rate	11813
+20111	Kansas	Lyon	ypll_rate	6018
+20113	Kansas	McPherson	ypll_rate	6300
+20115	Kansas	Marion	ypll_rate	6626
+20117	Kansas	Marshall	ypll_rate	6523
+20119	Kansas	Meade	ypll_rate	6147
+20121	Kansas	Miami	ypll_rate	6537
+20123	Kansas	Mitchell	ypll_rate	7818
+20125	Kansas	Montgomery	ypll_rate	9138
+20127	Kansas	Morris	ypll_rate	7362
+20129	Kansas	Morton	ypll_rate	
+20131	Kansas	Nemaha	ypll_rate	6787
+20133	Kansas	Neosho	ypll_rate	10358
+20135	Kansas	Ness	ypll_rate	7688
+20137	Kansas	Norton	ypll_rate	7874
+20139	Kansas	Osage	ypll_rate	8403
+20141	Kansas	Osborne	ypll_rate	4779
+20143	Kansas	Ottawa	ypll_rate	5692
+20145	Kansas	Pawnee	ypll_rate	8553
+20147	Kansas	Phillips	ypll_rate	6774
+20149	Kansas	Pottawatomie	ypll_rate	5346
+20151	Kansas	Pratt	ypll_rate	7429
+20153	Kansas	Rawlins	ypll_rate	9155
+20155	Kansas	Reno	ypll_rate	7495
+20157	Kansas	Republic	ypll_rate	6497
+20159	Kansas	Rice	ypll_rate	7374
+20161	Kansas	Riley	ypll_rate	4974
+20163	Kansas	Rooks	ypll_rate	6544
+20165	Kansas	Rush	ypll_rate	7018
+20167	Kansas	Russell	ypll_rate	7724
+20169	Kansas	Saline	ypll_rate	7059
+20171	Kansas	Scott	ypll_rate	8103
+20173	Kansas	Sedgwick	ypll_rate	7590
+20175	Kansas	Seward	ypll_rate	7900
+20177	Kansas	Shawnee	ypll_rate	7769
+20179	Kansas	Sheridan	ypll_rate	
+20181	Kansas	Sherman	ypll_rate	6109
+20183	Kansas	Smith	ypll_rate	6473
+20185	Kansas	Stafford	ypll_rate	7506
+20187	Kansas	Stanton	ypll_rate	
+20189	Kansas	Stevens	ypll_rate	6840
+20191	Kansas	Sumner	ypll_rate	8028
+20193	Kansas	Thomas	ypll_rate	9364
+20195	Kansas	Trego	ypll_rate	5764
+20197	Kansas	Wabaunsee	ypll_rate	5650
+20199	Kansas	Wallace	ypll_rate	
+20201	Kansas	Washington	ypll_rate	5685
+20203	Kansas	Wichita	ypll_rate	
+20205	Kansas	Wilson	ypll_rate	7737
+20207	Kansas	Woodson	ypll_rate	17214
+20209	Kansas	Wyandotte	ypll_rate	10125
+21001	Kentucky	Adair	ypll_rate	7968
+21003	Kentucky	Allen	ypll_rate	9981
+21005	Kentucky	Anderson	ypll_rate	7354
+21007	Kentucky	Ballard	ypll_rate	9387
+21009	Kentucky	Barren	ypll_rate	8499
+21011	Kentucky	Bath	ypll_rate	13081
+21013	Kentucky	Bell	ypll_rate	13418
+21015	Kentucky	Boone	ypll_rate	6413
+21017	Kentucky	Bourbon	ypll_rate	10287
+21019	Kentucky	Boyd	ypll_rate	10006
+21021	Kentucky	Boyle	ypll_rate	7542
+21023	Kentucky	Bracken	ypll_rate	9454
+21025	Kentucky	Breathitt	ypll_rate	16736
+21027	Kentucky	Breckinridge	ypll_rate	9688
+21029	Kentucky	Bullitt	ypll_rate	6615
+21031	Kentucky	Butler	ypll_rate	10737
+21033	Kentucky	Caldwell	ypll_rate	11049
+21035	Kentucky	Calloway	ypll_rate	7277
+21037	Kentucky	Campbell	ypll_rate	7306
+21039	Kentucky	Carlisle	ypll_rate	9815
+21041	Kentucky	Carroll	ypll_rate	10121
+21043	Kentucky	Carter	ypll_rate	10825
+21045	Kentucky	Casey	ypll_rate	10495
+21047	Kentucky	Christian	ypll_rate	9335
+21049	Kentucky	Clark	ypll_rate	9510
+21051	Kentucky	Clay	ypll_rate	12976
+21053	Kentucky	Clinton	ypll_rate	9670
+21055	Kentucky	Crittenden	ypll_rate	9349
+21057	Kentucky	Cumberland	ypll_rate	13257
+21059	Kentucky	Daviess	ypll_rate	8092
+21061	Kentucky	Edmonson	ypll_rate	8216
+21063	Kentucky	Elliott	ypll_rate	7482
+21065	Kentucky	Estill	ypll_rate	12382
+21067	Kentucky	Fayette	ypll_rate	6677
+21069	Kentucky	Fleming	ypll_rate	11072
+21071	Kentucky	Floyd	ypll_rate	14472
+21073	Kentucky	Franklin	ypll_rate	8095
+21075	Kentucky	Fulton	ypll_rate	9236
+21077	Kentucky	Gallatin	ypll_rate	12585
+21079	Kentucky	Garrard	ypll_rate	7430
+21081	Kentucky	Grant	ypll_rate	8627
+21083	Kentucky	Graves	ypll_rate	9430
+21085	Kentucky	Grayson	ypll_rate	9573
+21087	Kentucky	Green	ypll_rate	8097
+21089	Kentucky	Greenup	ypll_rate	9047
+21091	Kentucky	Hancock	ypll_rate	7241
+21093	Kentucky	Hardin	ypll_rate	7672
+21095	Kentucky	Harlan	ypll_rate	13055
+21097	Kentucky	Harrison	ypll_rate	10602
+21099	Kentucky	Hart	ypll_rate	7807
+21101	Kentucky	Henderson	ypll_rate	8338
+21103	Kentucky	Henry	ypll_rate	9512
+21105	Kentucky	Hickman	ypll_rate	10484
+21107	Kentucky	Hopkins	ypll_rate	9240
+21109	Kentucky	Jackson	ypll_rate	12398
+21111	Kentucky	Jefferson	ypll_rate	8250
+21113	Kentucky	Jessamine	ypll_rate	7245
+21115	Kentucky	Johnson	ypll_rate	13396
+21117	Kentucky	Kenton	ypll_rate	8076
+21119	Kentucky	Knott	ypll_rate	12255
+21121	Kentucky	Knox	ypll_rate	12369
+21123	Kentucky	Larue	ypll_rate	7971
+21125	Kentucky	Laurel	ypll_rate	9313
+21127	Kentucky	Lawrence	ypll_rate	11211
+21129	Kentucky	Lee	ypll_rate	14205
+21131	Kentucky	Leslie	ypll_rate	13472
+21133	Kentucky	Letcher	ypll_rate	12028
+21135	Kentucky	Lewis	ypll_rate	10418
+21137	Kentucky	Lincoln	ypll_rate	10464
+21139	Kentucky	Livingston	ypll_rate	9525
+21141	Kentucky	Logan	ypll_rate	8777
+21143	Kentucky	Lyon	ypll_rate	6797
+21145	Kentucky	McCracken	ypll_rate	9191
+21147	Kentucky	McCreary	ypll_rate	9612
+21149	Kentucky	McLean	ypll_rate	8812
+21151	Kentucky	Madison	ypll_rate	7373
+21153	Kentucky	Magoffin	ypll_rate	10950
+21155	Kentucky	Marion	ypll_rate	8473
+21157	Kentucky	Marshall	ypll_rate	9165
+21159	Kentucky	Martin	ypll_rate	12229
+21161	Kentucky	Mason	ypll_rate	8733
+21163	Kentucky	Meade	ypll_rate	7534
+21165	Kentucky	Menifee	ypll_rate	14213
+21167	Kentucky	Mercer	ypll_rate	9383
+21169	Kentucky	Metcalfe	ypll_rate	11072
+21171	Kentucky	Monroe	ypll_rate	10230
+21173	Kentucky	Montgomery	ypll_rate	9808
+21175	Kentucky	Morgan	ypll_rate	9265
+21177	Kentucky	Muhlenberg	ypll_rate	11171
+21179	Kentucky	Nelson	ypll_rate	7485
+21181	Kentucky	Nicholas	ypll_rate	12466
+21183	Kentucky	Ohio	ypll_rate	7674
+21185	Kentucky	Oldham	ypll_rate	5430
+21187	Kentucky	Owen	ypll_rate	7268
+21189	Kentucky	Owsley	ypll_rate	13121
+21191	Kentucky	Pendleton	ypll_rate	10770
+21193	Kentucky	Perry	ypll_rate	15233
+21195	Kentucky	Pike	ypll_rate	13257
+21197	Kentucky	Powell	ypll_rate	15104
+21199	Kentucky	Pulaski	ypll_rate	9194
+21201	Kentucky	Robertson	ypll_rate	11372
+21203	Kentucky	Rockcastle	ypll_rate	11193
+21205	Kentucky	Rowan	ypll_rate	9005
+21207	Kentucky	Russell	ypll_rate	9453
+21209	Kentucky	Scott	ypll_rate	5894
+21211	Kentucky	Shelby	ypll_rate	6097
+21213	Kentucky	Simpson	ypll_rate	8678
+21215	Kentucky	Spencer	ypll_rate	6820
+21217	Kentucky	Taylor	ypll_rate	9198
+21219	Kentucky	Todd	ypll_rate	9473
+21221	Kentucky	Trigg	ypll_rate	9570
+21223	Kentucky	Trimble	ypll_rate	10408
+21225	Kentucky	Union	ypll_rate	10191
+21227	Kentucky	Warren	ypll_rate	7066
+21229	Kentucky	Washington	ypll_rate	7320
+21231	Kentucky	Wayne	ypll_rate	8228
+21233	Kentucky	Webster	ypll_rate	9486
+21235	Kentucky	Whitley	ypll_rate	11488
+21237	Kentucky	Wolfe	ypll_rate	16009
+21239	Kentucky	Woodford	ypll_rate	6911
+22001	Louisiana	Acadia	ypll_rate	11697
+22003	Louisiana	Allen	ypll_rate	6908
+22005	Louisiana	Ascension	ypll_rate	8051
+22007	Louisiana	Assumption	ypll_rate	9693
+22009	Louisiana	Avoyelles	ypll_rate	10346
+22011	Louisiana	Beauregard	ypll_rate	9529
+22013	Louisiana	Bienville	ypll_rate	13119
+22015	Louisiana	Bossier	ypll_rate	7538
+22017	Louisiana	Caddo	ypll_rate	11115
+22019	Louisiana	Calcasieu	ypll_rate	10031
+22021	Louisiana	Caldwell	ypll_rate	10754
+22023	Louisiana	Cameron	ypll_rate	6601
+22025	Louisiana	Catahoula	ypll_rate	12437
+22027	Louisiana	Claiborne	ypll_rate	10141
+22029	Louisiana	Concordia	ypll_rate	11812
+22031	Louisiana	De Soto	ypll_rate	11669
+22033	Louisiana	East Baton Rouge	ypll_rate	9403
+22035	Louisiana	East Carroll	ypll_rate	15615
+22037	Louisiana	East Feliciana	ypll_rate	9884
+22039	Louisiana	Evangeline	ypll_rate	11670
+22041	Louisiana	Franklin	ypll_rate	10126
+22043	Louisiana	Grant	ypll_rate	9460
+22045	Louisiana	Iberia	ypll_rate	9841
+22047	Louisiana	Iberville	ypll_rate	9060
+22049	Louisiana	Jackson	ypll_rate	9688
+22051	Louisiana	Jefferson	ypll_rate	8632
+22053	Louisiana	Jefferson Davis	ypll_rate	12023
+22055	Louisiana	Lafayette	ypll_rate	7909
+22057	Louisiana	Lafourche	ypll_rate	8391
+22059	Louisiana	La Salle	ypll_rate	9264
+22061	Louisiana	Lincoln	ypll_rate	8233
+22063	Louisiana	Livingston	ypll_rate	9400
+22065	Louisiana	Madison	ypll_rate	13509
+22067	Louisiana	Morehouse	ypll_rate	11346
+22069	Louisiana	Natchitoches	ypll_rate	9781
+22071	Louisiana	Orleans	ypll_rate	11091
+22073	Louisiana	Ouachita	ypll_rate	9585
+22075	Louisiana	Plaquemines	ypll_rate	8048
+22077	Louisiana	Pointe Coupee	ypll_rate	9634
+22079	Louisiana	Rapides	ypll_rate	10284
+22081	Louisiana	Red River	ypll_rate	11293
+22083	Louisiana	Richland	ypll_rate	11987
+22085	Louisiana	Sabine	ypll_rate	9154
+22087	Louisiana	St. Bernard	ypll_rate	11059
+22089	Louisiana	St. Charles	ypll_rate	7529
+22091	Louisiana	St. Helena	ypll_rate	12209
+22093	Louisiana	St. James	ypll_rate	7637
+22095	Louisiana	St. John the Baptist	ypll_rate	10072
+22097	Louisiana	St. Landry	ypll_rate	12106
+22099	Louisiana	St. Martin	ypll_rate	8880
+22101	Louisiana	St. Mary	ypll_rate	9950
+22103	Louisiana	St. Tammany	ypll_rate	7253
+22105	Louisiana	Tangipahoa	ypll_rate	11093
+22107	Louisiana	Tensas	ypll_rate	15780
+22109	Louisiana	Terrebonne	ypll_rate	9604
+22111	Louisiana	Union	ypll_rate	10570
+22113	Louisiana	Vermilion	ypll_rate	7948
+22115	Louisiana	Vernon	ypll_rate	8453
+22117	Louisiana	Washington	ypll_rate	11895
+22119	Louisiana	Webster	ypll_rate	11170
+22121	Louisiana	West Baton Rouge	ypll_rate	8242
+22123	Louisiana	West Carroll	ypll_rate	10665
+22125	Louisiana	West Feliciana	ypll_rate	7429
+22127	Louisiana	Winn	ypll_rate	8864
+23001	Maine	Androscoggin	ypll_rate	6148
+23003	Maine	Aroostook	ypll_rate	6810
+23005	Maine	Cumberland	ypll_rate	5355
+23007	Maine	Franklin	ypll_rate	6096
+23009	Maine	Hancock	ypll_rate	5312
+23011	Maine	Kennebec	ypll_rate	6265
+23013	Maine	Knox	ypll_rate	7138
+23015	Maine	Lincoln	ypll_rate	6992
+23017	Maine	Oxford	ypll_rate	6075
+23019	Maine	Penobscot	ypll_rate	6500
+23021	Maine	Piscataquis	ypll_rate	9706
+23023	Maine	Sagadahoc	ypll_rate	4887
+23025	Maine	Somerset	ypll_rate	6977
+23027	Maine	Waldo	ypll_rate	6181
+23029	Maine	Washington	ypll_rate	7971
+23031	Maine	York	ypll_rate	5975
+24001	Maryland	Allegany	ypll_rate	7375
+24003	Maryland	Anne Arundel	ypll_rate	6285
+24005	Maryland	Baltimore	ypll_rate	6968
+24009	Maryland	Calvert	ypll_rate	6226
+24011	Maryland	Caroline	ypll_rate	9223
+24013	Maryland	Carroll	ypll_rate	5765
+24015	Maryland	Cecil	ypll_rate	8292
+24017	Maryland	Charles	ypll_rate	6588
+24019	Maryland	Dorchester	ypll_rate	8497
+24021	Maryland	Frederick	ypll_rate	5126
+24023	Maryland	Garrett	ypll_rate	7388
+24025	Maryland	Harford	ypll_rate	5949
+24027	Maryland	Howard	ypll_rate	4105
+24029	Maryland	Kent	ypll_rate	7493
+24031	Maryland	Montgomery	ypll_rate	3816
+24033	Maryland	Prince George's	ypll_rate	7720
+24035	Maryland	Queen Anne's	ypll_rate	5587
+24037	Maryland	St. Mary's	ypll_rate	6651
+24039	Maryland	Somerset	ypll_rate	7794
+24041	Maryland	Talbot	ypll_rate	6336
+24043	Maryland	Washington	ypll_rate	6720
+24045	Maryland	Wicomico	ypll_rate	7926
+24047	Maryland	Worcester	ypll_rate	6795
+24510	Maryland	Baltimore City	ypll_rate	13272
+25001	Massachusetts	Barnstable	ypll_rate	5861
+25003	Massachusetts	Berkshire	ypll_rate	5915
+25005	Massachusetts	Bristol	ypll_rate	6180
+25007	Massachusetts	Dukes	ypll_rate	4328
+25009	Massachusetts	Essex	ypll_rate	5062
+25011	Massachusetts	Franklin	ypll_rate	5299
+25013	Massachusetts	Hampden	ypll_rate	6848
+25015	Massachusetts	Hampshire	ypll_rate	4924
+25017	Massachusetts	Middlesex	ypll_rate	4331
+25019	Massachusetts	Nantucket	ypll_rate	5451
+25021	Massachusetts	Norfolk	ypll_rate	4536
+25023	Massachusetts	Plymouth	ypll_rate	5721
+25025	Massachusetts	Suffolk	ypll_rate	6377
+25027	Massachusetts	Worcester	ypll_rate	5573
+26001	Michigan	Alcona	ypll_rate	10875
+26003	Michigan	Alger	ypll_rate	6409
+26005	Michigan	Allegan	ypll_rate	5595
+26007	Michigan	Alpena	ypll_rate	8249
+26009	Michigan	Antrim	ypll_rate	6827
+26011	Michigan	Arenac	ypll_rate	8810
+26013	Michigan	Baraga	ypll_rate	6705
+26015	Michigan	Barry	ypll_rate	6020
+26017	Michigan	Bay	ypll_rate	7483
+26019	Michigan	Benzie	ypll_rate	5697
+26021	Michigan	Berrien	ypll_rate	7489
+26023	Michigan	Branch	ypll_rate	6737
+26025	Michigan	Calhoun	ypll_rate	8927
+26027	Michigan	Cass	ypll_rate	6818
+26029	Michigan	Charlevoix	ypll_rate	6350
+26031	Michigan	Cheboygan	ypll_rate	6060
+26033	Michigan	Chippewa	ypll_rate	6898
+26035	Michigan	Clare	ypll_rate	7817
+26037	Michigan	Clinton	ypll_rate	4290
+26039	Michigan	Crawford	ypll_rate	7191
+26041	Michigan	Delta	ypll_rate	5620
+26043	Michigan	Dickinson	ypll_rate	6793
+26045	Michigan	Eaton	ypll_rate	5561
+26047	Michigan	Emmet	ypll_rate	5546
+26049	Michigan	Genesee	ypll_rate	9009
+26051	Michigan	Gladwin	ypll_rate	8222
+26053	Michigan	Gogebic	ypll_rate	7632
+26055	Michigan	Grand Traverse	ypll_rate	5708
+26057	Michigan	Gratiot	ypll_rate	6811
+26059	Michigan	Hillsdale	ypll_rate	6973
+26061	Michigan	Houghton	ypll_rate	6388
+26063	Michigan	Huron	ypll_rate	7427
+26065	Michigan	Ingham	ypll_rate	6274
+26067	Michigan	Ionia	ypll_rate	6081
+26069	Michigan	Iosco	ypll_rate	8267
+26071	Michigan	Iron	ypll_rate	8400
+26073	Michigan	Isabella	ypll_rate	5842
+26075	Michigan	Jackson	ypll_rate	7102
+26077	Michigan	Kalamazoo	ypll_rate	6934
+26079	Michigan	Kalkaska	ypll_rate	8163
+26081	Michigan	Kent	ypll_rate	5749
+26083	Michigan	Keweenaw	ypll_rate	
+26085	Michigan	Lake	ypll_rate	7950
+26087	Michigan	Lapeer	ypll_rate	6775
+26089	Michigan	Leelanau	ypll_rate	3941
+26091	Michigan	Lenawee	ypll_rate	6393
+26093	Michigan	Livingston	ypll_rate	5202
+26095	Michigan	Luce	ypll_rate	8395
+26097	Michigan	Mackinac	ypll_rate	7799
+26099	Michigan	Macomb	ypll_rate	6899
+26101	Michigan	Manistee	ypll_rate	6607
+26103	Michigan	Marquette	ypll_rate	6245
+26105	Michigan	Mason	ypll_rate	6850
+26107	Michigan	Mecosta	ypll_rate	6320
+26109	Michigan	Menominee	ypll_rate	6427
+26111	Michigan	Midland	ypll_rate	5596
+26113	Michigan	Missaukee	ypll_rate	6854
+26115	Michigan	Monroe	ypll_rate	6696
+26117	Michigan	Montcalm	ypll_rate	6944
+26119	Michigan	Montmorency	ypll_rate	8233
+26121	Michigan	Muskegon	ypll_rate	7520
+26123	Michigan	Newaygo	ypll_rate	7885
+26125	Michigan	Oakland	ypll_rate	5827
+26127	Michigan	Oceana	ypll_rate	7754
+26129	Michigan	Ogemaw	ypll_rate	7881
+26131	Michigan	Ontonagon	ypll_rate	8805
+26133	Michigan	Osceola	ypll_rate	7164
+26135	Michigan	Oscoda	ypll_rate	10183
+26137	Michigan	Otsego	ypll_rate	6933
+26139	Michigan	Ottawa	ypll_rate	4734
+26141	Michigan	Presque Isle	ypll_rate	8969
+26143	Michigan	Roscommon	ypll_rate	8525
+26145	Michigan	Saginaw	ypll_rate	8225
+26147	Michigan	St. Clair	ypll_rate	7687
+26149	Michigan	St. Joseph	ypll_rate	8121
+26151	Michigan	Sanilac	ypll_rate	7002
+26153	Michigan	Schoolcraft	ypll_rate	7568
+26155	Michigan	Shiawassee	ypll_rate	6919
+26157	Michigan	Tuscola	ypll_rate	7031
+26159	Michigan	Van Buren	ypll_rate	7803
+26161	Michigan	Washtenaw	ypll_rate	5096
+26163	Michigan	Wayne	ypll_rate	10263
+26165	Michigan	Wexford	ypll_rate	7294
+27001	Minnesota	Aitkin	ypll_rate	6611
+27003	Minnesota	Anoka	ypll_rate	4779
+27005	Minnesota	Becker	ypll_rate	7756
+27007	Minnesota	Beltrami	ypll_rate	7172
+27009	Minnesota	Benton	ypll_rate	5197
+27011	Minnesota	Big Stone	ypll_rate	6377
+27013	Minnesota	Blue Earth	ypll_rate	5067
+27015	Minnesota	Brown	ypll_rate	5351
+27017	Minnesota	Carlton	ypll_rate	7049
+27019	Minnesota	Carver	ypll_rate	3775
+27021	Minnesota	Cass	ypll_rate	8068
+27023	Minnesota	Chippewa	ypll_rate	4806
+27025	Minnesota	Chisago	ypll_rate	4691
+27027	Minnesota	Clay	ypll_rate	5097
+27029	Minnesota	Clearwater	ypll_rate	7019
+27031	Minnesota	Cook	ypll_rate	4912
+27033	Minnesota	Cottonwood	ypll_rate	6138
+27035	Minnesota	Crow Wing	ypll_rate	4829
+27037	Minnesota	Dakota	ypll_rate	4221
+27039	Minnesota	Dodge	ypll_rate	4678
+27041	Minnesota	Douglas	ypll_rate	5046
+27043	Minnesota	Faribault	ypll_rate	4920
+27045	Minnesota	Fillmore	ypll_rate	5097
+27047	Minnesota	Freeborn	ypll_rate	5059
+27049	Minnesota	Goodhue	ypll_rate	6043
+27051	Minnesota	Grant	ypll_rate	7161
+27053	Minnesota	Hennepin	ypll_rate	5241
+27055	Minnesota	Houston	ypll_rate	5655
+27057	Minnesota	Hubbard	ypll_rate	5908
+27059	Minnesota	Isanti	ypll_rate	4677
+27061	Minnesota	Itasca	ypll_rate	6371
+27063	Minnesota	Jackson	ypll_rate	5091
+27065	Minnesota	Kanabec	ypll_rate	5806
+27067	Minnesota	Kandiyohi	ypll_rate	4780
+27069	Minnesota	Kittson	ypll_rate	4998
+27071	Minnesota	Koochiching	ypll_rate	5455
+27073	Minnesota	Lac qui Parle	ypll_rate	6039
+27075	Minnesota	Lake	ypll_rate	5661
+27077	Minnesota	Lake of the Woods	ypll_rate	4759
+27079	Minnesota	Le Sueur	ypll_rate	4688
+27081	Minnesota	Lincoln	ypll_rate	5254
+27083	Minnesota	Lyon	ypll_rate	5650
+27085	Minnesota	McLeod	ypll_rate	4668
+27087	Minnesota	Mahnomen	ypll_rate	11979
+27089	Minnesota	Marshall	ypll_rate	5825
+27091	Minnesota	Martin	ypll_rate	5938
+27093	Minnesota	Meeker	ypll_rate	5630
+27095	Minnesota	Mille Lacs	ypll_rate	8375
+27097	Minnesota	Morrison	ypll_rate	5929
+27099	Minnesota	Mower	ypll_rate	4714
+27101	Minnesota	Murray	ypll_rate	5352
+27103	Minnesota	Nicollet	ypll_rate	4481
+27105	Minnesota	Nobles	ypll_rate	4297
+27107	Minnesota	Norman	ypll_rate	5699
+27109	Minnesota	Olmsted	ypll_rate	4822
+27111	Minnesota	Otter Tail	ypll_rate	5130
+27113	Minnesota	Pennington	ypll_rate	6258
+27115	Minnesota	Pine	ypll_rate	6618
+27117	Minnesota	Pipestone	ypll_rate	6766
+27119	Minnesota	Polk	ypll_rate	6253
+27121	Minnesota	Pope	ypll_rate	6448
+27123	Minnesota	Ramsey	ypll_rate	5735
+27125	Minnesota	Red Lake	ypll_rate	5420
+27127	Minnesota	Redwood	ypll_rate	5472
+27129	Minnesota	Renville	ypll_rate	7509
+27131	Minnesota	Rice	ypll_rate	4270
+27133	Minnesota	Rock	ypll_rate	6697
+27135	Minnesota	Roseau	ypll_rate	5157
+27137	Minnesota	St. Louis	ypll_rate	6479
+27139	Minnesota	Scott	ypll_rate	4033
+27141	Minnesota	Sherburne	ypll_rate	4482
+27143	Minnesota	Sibley	ypll_rate	4899
+27145	Minnesota	Stearns	ypll_rate	4332
+27147	Minnesota	Steele	ypll_rate	4622
+27149	Minnesota	Stevens	ypll_rate	6672
+27151	Minnesota	Swift	ypll_rate	5308
+27153	Minnesota	Todd	ypll_rate	5609
+27155	Minnesota	Traverse	ypll_rate	8403
+27157	Minnesota	Wabasha	ypll_rate	5298
+27159	Minnesota	Wadena	ypll_rate	6529
+27161	Minnesota	Waseca	ypll_rate	4134
+27163	Minnesota	Washington	ypll_rate	4332
+27165	Minnesota	Watonwan	ypll_rate	6744
+27167	Minnesota	Wilkin	ypll_rate	5748
+27169	Minnesota	Winona	ypll_rate	4812
+27171	Minnesota	Wright	ypll_rate	4542
+27173	Minnesota	Yellow Medicine	ypll_rate	3536
+28001	Mississippi	Adams	ypll_rate	11907
+28003	Mississippi	Alcorn	ypll_rate	10853
+28005	Mississippi	Amite	ypll_rate	9366
+28007	Mississippi	Attala	ypll_rate	11949
+28009	Mississippi	Benton	ypll_rate	11103
+28011	Mississippi	Bolivar	ypll_rate	14456
+28013	Mississippi	Calhoun	ypll_rate	11385
+28015	Mississippi	Carroll	ypll_rate	8240
+28017	Mississippi	Chickasaw	ypll_rate	9027
+28019	Mississippi	Choctaw	ypll_rate	12864
+28021	Mississippi	Claiborne	ypll_rate	12415
+28023	Mississippi	Clarke	ypll_rate	11370
+28025	Mississippi	Clay	ypll_rate	9307
+28027	Mississippi	Coahoma	ypll_rate	14788
+28029	Mississippi	Copiah	ypll_rate	11385
+28031	Mississippi	Covington	ypll_rate	10946
+28033	Mississippi	DeSoto	ypll_rate	7607
+28035	Mississippi	Forrest	ypll_rate	10499
+28037	Mississippi	Franklin	ypll_rate	10995
+28039	Mississippi	George	ypll_rate	10468
+28041	Mississippi	Greene	ypll_rate	8655
+28043	Mississippi	Grenada	ypll_rate	11771
+28045	Mississippi	Hancock	ypll_rate	9135
+28047	Mississippi	Harrison	ypll_rate	9156
+28049	Mississippi	Hinds	ypll_rate	10090
+28051	Mississippi	Holmes	ypll_rate	14554
+28053	Mississippi	Humphreys	ypll_rate	14638
+28055	Mississippi	Issaquena	ypll_rate	
+28057	Mississippi	Itawamba	ypll_rate	10936
+28059	Mississippi	Jackson	ypll_rate	9252
+28061	Mississippi	Jasper	ypll_rate	10206
+28063	Mississippi	Jefferson	ypll_rate	12831
+28065	Mississippi	Jefferson Davis	ypll_rate	11820
+28067	Mississippi	Jones	ypll_rate	10232
+28069	Mississippi	Kemper	ypll_rate	9016
+28071	Mississippi	Lafayette	ypll_rate	7708
+28073	Mississippi	Lamar	ypll_rate	6825
+28075	Mississippi	Lauderdale	ypll_rate	9803
+28077	Mississippi	Lawrence	ypll_rate	13881
+28079	Mississippi	Leake	ypll_rate	11747
+28081	Mississippi	Lee	ypll_rate	9655
+28083	Mississippi	Leflore	ypll_rate	13033
+28085	Mississippi	Lincoln	ypll_rate	10897
+28087	Mississippi	Lowndes	ypll_rate	9291
+28089	Mississippi	Madison	ypll_rate	8633
+28091	Mississippi	Marion	ypll_rate	13953
+28093	Mississippi	Marshall	ypll_rate	10768
+28095	Mississippi	Monroe	ypll_rate	8765
+28097	Mississippi	Montgomery	ypll_rate	14786
+28099	Mississippi	Neshoba	ypll_rate	12271
+28101	Mississippi	Newton	ypll_rate	10181
+28103	Mississippi	Noxubee	ypll_rate	9124
+28105	Mississippi	Oktibbeha	ypll_rate	8274
+28107	Mississippi	Panola	ypll_rate	11941
+28109	Mississippi	Pearl River	ypll_rate	10870
+28111	Mississippi	Perry	ypll_rate	13298
+28113	Mississippi	Pike	ypll_rate	13090
+28115	Mississippi	Pontotoc	ypll_rate	7623
+28117	Mississippi	Prentiss	ypll_rate	9867
+28119	Mississippi	Quitman	ypll_rate	17823
+28121	Mississippi	Rankin	ypll_rate	8004
+28123	Mississippi	Scott	ypll_rate	12764
+28125	Mississippi	Sharkey	ypll_rate	14489
+28127	Mississippi	Simpson	ypll_rate	12558
+28129	Mississippi	Smith	ypll_rate	10057
+28131	Mississippi	Stone	ypll_rate	9783
+28133	Mississippi	Sunflower	ypll_rate	14382
+28135	Mississippi	Tallahatchie	ypll_rate	10638
+28137	Mississippi	Tate	ypll_rate	11029
+28139	Mississippi	Tippah	ypll_rate	10317
+28141	Mississippi	Tishomingo	ypll_rate	10643
+28143	Mississippi	Tunica	ypll_rate	14327
+28145	Mississippi	Union	ypll_rate	8366
+28147	Mississippi	Walthall	ypll_rate	14068
+28149	Mississippi	Warren	ypll_rate	11196
+28151	Mississippi	Washington	ypll_rate	14162
+28153	Mississippi	Wayne	ypll_rate	10656
+28155	Mississippi	Webster	ypll_rate	12737
+28157	Mississippi	Wilkinson	ypll_rate	13801
+28159	Mississippi	Winston	ypll_rate	12168
+28161	Mississippi	Yalobusha	ypll_rate	12550
+28163	Mississippi	Yazoo	ypll_rate	9824
+29001	Missouri	Adair	ypll_rate	6630
+29003	Missouri	Andrew	ypll_rate	6225
+29005	Missouri	Atchison	ypll_rate	6918
+29007	Missouri	Audrain	ypll_rate	7939
+29009	Missouri	Barry	ypll_rate	8904
+29011	Missouri	Barton	ypll_rate	7622
+29013	Missouri	Bates	ypll_rate	7661
+29015	Missouri	Benton	ypll_rate	9680
+29017	Missouri	Bollinger	ypll_rate	7394
+29019	Missouri	Boone	ypll_rate	5661
+29021	Missouri	Buchanan	ypll_rate	7935
+29023	Missouri	Butler	ypll_rate	10537
+29025	Missouri	Caldwell	ypll_rate	10216
+29027	Missouri	Callaway	ypll_rate	8247
+29029	Missouri	Camden	ypll_rate	8204
+29031	Missouri	Cape Girardeau	ypll_rate	6632
+29033	Missouri	Carroll	ypll_rate	9505
+29035	Missouri	Carter	ypll_rate	14630
+29037	Missouri	Cass	ypll_rate	6935
+29039	Missouri	Cedar	ypll_rate	10440
+29041	Missouri	Chariton	ypll_rate	7173
+29043	Missouri	Christian	ypll_rate	6089
+29045	Missouri	Clark	ypll_rate	11099
+29047	Missouri	Clay	ypll_rate	6278
+29049	Missouri	Clinton	ypll_rate	8268
+29051	Missouri	Cole	ypll_rate	7066
+29053	Missouri	Cooper	ypll_rate	7886
+29055	Missouri	Crawford	ypll_rate	8722
+29057	Missouri	Dade	ypll_rate	9104
+29059	Missouri	Dallas	ypll_rate	8619
+29061	Missouri	Daviess	ypll_rate	7582
+29063	Missouri	DeKalb	ypll_rate	6379
+29065	Missouri	Dent	ypll_rate	12647
+29067	Missouri	Douglas	ypll_rate	7404
+29069	Missouri	Dunklin	ypll_rate	13702
+29071	Missouri	Franklin	ypll_rate	8591
+29073	Missouri	Gasconade	ypll_rate	7905
+29075	Missouri	Gentry	ypll_rate	7527
+29077	Missouri	Greene	ypll_rate	7902
+29079	Missouri	Grundy	ypll_rate	7955
+29081	Missouri	Harrison	ypll_rate	7846
+29083	Missouri	Henry	ypll_rate	9933
+29085	Missouri	Hickory	ypll_rate	9354
+29087	Missouri	Holt	ypll_rate	9593
+29089	Missouri	Howard	ypll_rate	5714
+29091	Missouri	Howell	ypll_rate	9403
+29093	Missouri	Iron	ypll_rate	10505
+29095	Missouri	Jackson	ypll_rate	8902
+29097	Missouri	Jasper	ypll_rate	8080
+29099	Missouri	Jefferson	ypll_rate	7594
+29101	Missouri	Johnson	ypll_rate	6375
+29103	Missouri	Knox	ypll_rate	8886
+29105	Missouri	Laclede	ypll_rate	8002
+29107	Missouri	Lafayette	ypll_rate	7081
+29109	Missouri	Lawrence	ypll_rate	7971
+29111	Missouri	Lewis	ypll_rate	8069
+29113	Missouri	Lincoln	ypll_rate	7799
+29115	Missouri	Linn	ypll_rate	8350
+29117	Missouri	Livingston	ypll_rate	8149
+29119	Missouri	McDonald	ypll_rate	10276
+29121	Missouri	Macon	ypll_rate	7620
+29123	Missouri	Madison	ypll_rate	11555
+29125	Missouri	Maries	ypll_rate	6413
+29127	Missouri	Marion	ypll_rate	7972
+29129	Missouri	Mercer	ypll_rate	6158
+29131	Missouri	Miller	ypll_rate	8087
+29133	Missouri	Mississippi	ypll_rate	11186
+29135	Missouri	Moniteau	ypll_rate	7421
+29137	Missouri	Monroe	ypll_rate	5797
+29139	Missouri	Montgomery	ypll_rate	9634
+29141	Missouri	Morgan	ypll_rate	9262
+29143	Missouri	New Madrid	ypll_rate	11861
+29145	Missouri	Newton	ypll_rate	8921
+29147	Missouri	Nodaway	ypll_rate	5091
+29149	Missouri	Oregon	ypll_rate	8838
+29151	Missouri	Osage	ypll_rate	7002
+29153	Missouri	Ozark	ypll_rate	12976
+29155	Missouri	Pemiscot	ypll_rate	13569
+29157	Missouri	Perry	ypll_rate	7141
+29159	Missouri	Pettis	ypll_rate	7338
+29161	Missouri	Phelps	ypll_rate	8089
+29163	Missouri	Pike	ypll_rate	6564
+29165	Missouri	Platte	ypll_rate	5251
+29167	Missouri	Polk	ypll_rate	8914
+29169	Missouri	Pulaski	ypll_rate	7292
+29171	Missouri	Putnam	ypll_rate	7303
+29173	Missouri	Ralls	ypll_rate	8037
+29175	Missouri	Randolph	ypll_rate	8120
+29177	Missouri	Ray	ypll_rate	9150
+29179	Missouri	Reynolds	ypll_rate	10510
+29181	Missouri	Ripley	ypll_rate	12632
+29183	Missouri	St. Charles	ypll_rate	5171
+29185	Missouri	St. Clair	ypll_rate	11650
+29186	Missouri	Ste. Genevieve	ypll_rate	6372
+29187	Missouri	St. Francois	ypll_rate	9639
+29189	Missouri	St. Louis	ypll_rate	6710
+29195	Missouri	Saline	ypll_rate	7699
+29197	Missouri	Schuyler	ypll_rate	9487
+29199	Missouri	Scotland	ypll_rate	7973
+29201	Missouri	Scott	ypll_rate	9199
+29203	Missouri	Shannon	ypll_rate	9689
+29205	Missouri	Shelby	ypll_rate	8762
+29207	Missouri	Stoddard	ypll_rate	8753
+29209	Missouri	Stone	ypll_rate	7980
+29211	Missouri	Sullivan	ypll_rate	9265
+29213	Missouri	Taney	ypll_rate	7582
+29215	Missouri	Texas	ypll_rate	9647
+29217	Missouri	Vernon	ypll_rate	9363
+29219	Missouri	Warren	ypll_rate	8123
+29221	Missouri	Washington	ypll_rate	10337
+29223	Missouri	Wayne	ypll_rate	10339
+29225	Missouri	Webster	ypll_rate	8478
+29227	Missouri	Worth	ypll_rate	9064
+29229	Missouri	Wright	ypll_rate	9259
+29510	Missouri	St. Louis City	ypll_rate	11845
+30001	Montana	Beaverhead	ypll_rate	6265
+30003	Montana	Big Horn	ypll_rate	14362
+30005	Montana	Blaine	ypll_rate	14253
+30007	Montana	Broadwater	ypll_rate	5359
+30009	Montana	Carbon	ypll_rate	9348
+30011	Montana	Carter	ypll_rate	
+30013	Montana	Cascade	ypll_rate	7301
+30015	Montana	Chouteau	ypll_rate	8553
+30017	Montana	Custer	ypll_rate	10136
+30019	Montana	Daniels	ypll_rate	
+30021	Montana	Dawson	ypll_rate	9367
+30023	Montana	Deer Lodge	ypll_rate	9092
+30025	Montana	Fallon	ypll_rate	
+30027	Montana	Fergus	ypll_rate	7645
+30029	Montana	Flathead	ypll_rate	6378
+30031	Montana	Gallatin	ypll_rate	4743
+30033	Montana	Garfield	ypll_rate	
+30035	Montana	Glacier	ypll_rate	13394
+30037	Montana	Golden Valley	ypll_rate	
+30039	Montana	Granite	ypll_rate	4912
+30041	Montana	Hill	ypll_rate	9406
+30043	Montana	Jefferson	ypll_rate	7833
+30045	Montana	Judith Basin	ypll_rate	
+30047	Montana	Lake	ypll_rate	8685
+30049	Montana	Lewis and Clark	ypll_rate	6955
+30051	Montana	Liberty	ypll_rate	
+30053	Montana	Lincoln	ypll_rate	8462
+30055	Montana	McCone	ypll_rate	
+30057	Montana	Madison	ypll_rate	5313
+30059	Montana	Meagher	ypll_rate	
+30061	Montana	Mineral	ypll_rate	11949
+30063	Montana	Missoula	ypll_rate	6089
+30065	Montana	Musselshell	ypll_rate	6926
+30067	Montana	Park	ypll_rate	6237
+30069	Montana	Petroleum	ypll_rate	
+30071	Montana	Phillips	ypll_rate	6614
+30073	Montana	Pondera	ypll_rate	6882
+30075	Montana	Powder River	ypll_rate	
+30077	Montana	Powell	ypll_rate	8099
+30079	Montana	Prairie	ypll_rate	
+30081	Montana	Ravalli	ypll_rate	7085
+30083	Montana	Richland	ypll_rate	8584
+30085	Montana	Roosevelt	ypll_rate	19937
+30087	Montana	Rosebud	ypll_rate	13472
+30089	Montana	Sanders	ypll_rate	9468
+30091	Montana	Sheridan	ypll_rate	9378
+30093	Montana	Silver Bow	ypll_rate	9063
+30095	Montana	Stillwater	ypll_rate	6742
+30097	Montana	Sweet Grass	ypll_rate	
+30099	Montana	Teton	ypll_rate	9156
+30101	Montana	Toole	ypll_rate	4776
+30103	Montana	Treasure	ypll_rate	
+30105	Montana	Valley	ypll_rate	7639
+30107	Montana	Wheatland	ypll_rate	
+30109	Montana	Wibaux	ypll_rate	
+30111	Montana	Yellowstone	ypll_rate	7032
+31001	Nebraska	Adams	ypll_rate	6706
+31003	Nebraska	Antelope	ypll_rate	4853
+31005	Nebraska	Arthur	ypll_rate	
+31007	Nebraska	Banner	ypll_rate	
+31009	Nebraska	Blaine	ypll_rate	
+31011	Nebraska	Boone	ypll_rate	4662
+31013	Nebraska	Box Butte	ypll_rate	6725
+31015	Nebraska	Boyd	ypll_rate	
+31017	Nebraska	Brown	ypll_rate	6389
+31019	Nebraska	Buffalo	ypll_rate	5446
+31021	Nebraska	Burt	ypll_rate	6365
+31023	Nebraska	Butler	ypll_rate	5708
+31025	Nebraska	Cass	ypll_rate	7595
+31027	Nebraska	Cedar	ypll_rate	5320
+31029	Nebraska	Chase	ypll_rate	10617
+31031	Nebraska	Cherry	ypll_rate	4717
+31033	Nebraska	Cheyenne	ypll_rate	6180
+31035	Nebraska	Clay	ypll_rate	7130
+31037	Nebraska	Colfax	ypll_rate	5614
+31039	Nebraska	Cuming	ypll_rate	5009
+31041	Nebraska	Custer	ypll_rate	6071
+31043	Nebraska	Dakota	ypll_rate	5459
+31045	Nebraska	Dawes	ypll_rate	5594
+31047	Nebraska	Dawson	ypll_rate	7333
+31049	Nebraska	Deuel	ypll_rate	
+31051	Nebraska	Dixon	ypll_rate	6442
+31053	Nebraska	Dodge	ypll_rate	6317
+31055	Nebraska	Douglas	ypll_rate	6380
+31057	Nebraska	Dundy	ypll_rate	
+31059	Nebraska	Fillmore	ypll_rate	3963
+31061	Nebraska	Franklin	ypll_rate	
+31063	Nebraska	Frontier	ypll_rate	
+31065	Nebraska	Furnas	ypll_rate	5183
+31067	Nebraska	Gage	ypll_rate	7923
+31069	Nebraska	Garden	ypll_rate	11072
+31071	Nebraska	Garfield	ypll_rate	
+31073	Nebraska	Gosper	ypll_rate	
+31075	Nebraska	Grant	ypll_rate	
+31077	Nebraska	Greeley	ypll_rate	
+31079	Nebraska	Hall	ypll_rate	5590
+31081	Nebraska	Hamilton	ypll_rate	6545
+31083	Nebraska	Harlan	ypll_rate	8299
+31085	Nebraska	Hayes	ypll_rate	
+31087	Nebraska	Hitchcock	ypll_rate	10408
+31089	Nebraska	Holt	ypll_rate	6781
+31091	Nebraska	Hooker	ypll_rate	
+31093	Nebraska	Howard	ypll_rate	5489
+31095	Nebraska	Jefferson	ypll_rate	5831
+31097	Nebraska	Johnson	ypll_rate	6896
+31099	Nebraska	Kearney	ypll_rate	6430
+31101	Nebraska	Keith	ypll_rate	12254
+31103	Nebraska	Keya Paha	ypll_rate	
+31105	Nebraska	Kimball	ypll_rate	13037
+31107	Nebraska	Knox	ypll_rate	8116
+31109	Nebraska	Lancaster	ypll_rate	4880
+31111	Nebraska	Lincoln	ypll_rate	6627
+31113	Nebraska	Logan	ypll_rate	
+31115	Nebraska	Loup	ypll_rate	
+31117	Nebraska	McPherson	ypll_rate	
+31119	Nebraska	Madison	ypll_rate	6292
+31121	Nebraska	Merrick	ypll_rate	7304
+31123	Nebraska	Morrill	ypll_rate	7524
+31125	Nebraska	Nance	ypll_rate	7958
+31127	Nebraska	Nemaha	ypll_rate	6885
+31129	Nebraska	Nuckolls	ypll_rate	5659
+31131	Nebraska	Otoe	ypll_rate	5908
+31133	Nebraska	Pawnee	ypll_rate	8135
+31135	Nebraska	Perkins	ypll_rate	
+31137	Nebraska	Phelps	ypll_rate	5776
+31139	Nebraska	Pierce	ypll_rate	5315
+31141	Nebraska	Platte	ypll_rate	5060
+31143	Nebraska	Polk	ypll_rate	2950
+31145	Nebraska	Red Willow	ypll_rate	7048
+31147	Nebraska	Richardson	ypll_rate	7579
+31149	Nebraska	Rock	ypll_rate	
+31151	Nebraska	Saline	ypll_rate	4804
+31153	Nebraska	Sarpy	ypll_rate	4520
+31155	Nebraska	Saunders	ypll_rate	6236
+31157	Nebraska	Scotts Bluff	ypll_rate	7281
+31159	Nebraska	Seward	ypll_rate	5456
+31161	Nebraska	Sheridan	ypll_rate	5448
+31163	Nebraska	Sherman	ypll_rate	11204
+31165	Nebraska	Sioux	ypll_rate	
+31167	Nebraska	Stanton	ypll_rate	5746
+31169	Nebraska	Thayer	ypll_rate	9119
+31171	Nebraska	Thomas	ypll_rate	
+31173	Nebraska	Thurston	ypll_rate	14286
+31175	Nebraska	Valley	ypll_rate	7135
+31177	Nebraska	Washington	ypll_rate	4819
+31179	Nebraska	Wayne	ypll_rate	3763
+31181	Nebraska	Webster	ypll_rate	7703
+31183	Nebraska	Wheeler	ypll_rate	
+31185	Nebraska	York	ypll_rate	5539
+32001	Nevada	Churchill	ypll_rate	8757
+32003	Nevada	Clark	ypll_rate	7168
+32005	Nevada	Douglas	ypll_rate	6125
+32007	Nevada	Elko	ypll_rate	7291
+32009	Nevada	Esmeralda	ypll_rate	
+32011	Nevada	Eureka	ypll_rate	
+32013	Nevada	Humboldt	ypll_rate	8758
+32015	Nevada	Lander	ypll_rate	9695
+32017	Nevada	Lincoln	ypll_rate	5317
+32019	Nevada	Lyon	ypll_rate	7103
+32021	Nevada	Mineral	ypll_rate	10373
+32023	Nevada	Nye	ypll_rate	12332
+32027	Nevada	Pershing	ypll_rate	7720
+32029	Nevada	Storey	ypll_rate	4299
+32031	Nevada	Washoe	ypll_rate	7100
+32033	Nevada	White Pine	ypll_rate	9773
+32510	Nevada	Carson City	ypll_rate	7390
+33001	New Hampshire	Belknap	ypll_rate	6086
+33003	New Hampshire	Carroll	ypll_rate	6264
+33005	New Hampshire	Cheshire	ypll_rate	5683
+33007	New Hampshire	Coos	ypll_rate	7612
+33009	New Hampshire	Grafton	ypll_rate	4956
+33011	New Hampshire	Hillsborough	ypll_rate	4991
+33013	New Hampshire	Merrimack	ypll_rate	5392
+33015	New Hampshire	Rockingham	ypll_rate	4865
+33017	New Hampshire	Strafford	ypll_rate	5652
+33019	New Hampshire	Sullivan	ypll_rate	6288
+34001	New Jersey	Atlantic	ypll_rate	7755
+34003	New Jersey	Bergen	ypll_rate	3916
+34005	New Jersey	Burlington	ypll_rate	5895
+34007	New Jersey	Camden	ypll_rate	7491
+34009	New Jersey	Cape May	ypll_rate	7338
+34011	New Jersey	Cumberland	ypll_rate	8144
+34013	New Jersey	Essex	ypll_rate	7668
+34015	New Jersey	Gloucester	ypll_rate	6288
+34017	New Jersey	Hudson	ypll_rate	5624
+34019	New Jersey	Hunterdon	ypll_rate	3900
+34021	New Jersey	Mercer	ypll_rate	6156
+34023	New Jersey	Middlesex	ypll_rate	4623
+34025	New Jersey	Monmouth	ypll_rate	5223
+34027	New Jersey	Morris	ypll_rate	3861
+34029	New Jersey	Ocean	ypll_rate	6053
+34031	New Jersey	Passaic	ypll_rate	5680
+34033	New Jersey	Salem	ypll_rate	8042
+34035	New Jersey	Somerset	ypll_rate	3680
+34037	New Jersey	Sussex	ypll_rate	5918
+34039	New Jersey	Union	ypll_rate	5609
+34041	New Jersey	Warren	ypll_rate	5143
+35001	New Mexico	Bernalillo	ypll_rate	7466
+35003	New Mexico	Catron	ypll_rate	6798
+35005	New Mexico	Chaves	ypll_rate	9779
+35006	New Mexico	Cibola	ypll_rate	10293
+35007	New Mexico	Colfax	ypll_rate	10290
+35009	New Mexico	Curry	ypll_rate	7052
+35011	New Mexico	De Baca	ypll_rate	
+35013	New Mexico	Dona Ana	ypll_rate	7111
+35015	New Mexico	Eddy	ypll_rate	10124
+35017	New Mexico	Grant	ypll_rate	8938
+35019	New Mexico	Guadalupe	ypll_rate	6826
+35021	New Mexico	Harding	ypll_rate	
+35023	New Mexico	Hidalgo	ypll_rate	8395
+35025	New Mexico	Lea	ypll_rate	8458
+35027	New Mexico	Lincoln	ypll_rate	6725
+35028	New Mexico	Los Alamos	ypll_rate	4863
+35029	New Mexico	Luna	ypll_rate	8973
+35031	New Mexico	McKinley	ypll_rate	11971
+35033	New Mexico	Mora	ypll_rate	7620
+35035	New Mexico	Otero	ypll_rate	8118
+35037	New Mexico	Quay	ypll_rate	14171
+35039	New Mexico	Rio Arriba	ypll_rate	12971
+35041	New Mexico	Roosevelt	ypll_rate	8001
+35043	New Mexico	Sandoval	ypll_rate	6270
+35045	New Mexico	San Juan	ypll_rate	9296
+35047	New Mexico	San Miguel	ypll_rate	10067
+35049	New Mexico	Santa Fe	ypll_rate	6963
+35051	New Mexico	Sierra	ypll_rate	12744
+35053	New Mexico	Socorro	ypll_rate	10697
+35055	New Mexico	Taos	ypll_rate	8213
+35057	New Mexico	Torrance	ypll_rate	9793
+35059	New Mexico	Union	ypll_rate	7975
+35061	New Mexico	Valencia	ypll_rate	8343
+36001	New York	Albany	ypll_rate	6004
+36003	New York	Allegany	ypll_rate	5486
+36005	New York	Bronx	ypll_rate	7481
+36007	New York	Broome	ypll_rate	6606
+36009	New York	Cattaraugus	ypll_rate	6982
+36011	New York	Cayuga	ypll_rate	5968
+36013	New York	Chautauqua	ypll_rate	6713
+36015	New York	Chemung	ypll_rate	6651
+36017	New York	Chenango	ypll_rate	6483
+36019	New York	Clinton	ypll_rate	5988
+36021	New York	Columbia	ypll_rate	6493
+36023	New York	Cortland	ypll_rate	5957
+36025	New York	Delaware	ypll_rate	6335
+36027	New York	Dutchess	ypll_rate	5266
+36029	New York	Erie	ypll_rate	7006
+36031	New York	Essex	ypll_rate	5401
+36033	New York	Franklin	ypll_rate	6243
+36035	New York	Fulton	ypll_rate	6107
+36037	New York	Genesee	ypll_rate	6198
+36039	New York	Greene	ypll_rate	6914
+36041	New York	Hamilton	ypll_rate	7590
+36043	New York	Herkimer	ypll_rate	6411
+36045	New York	Jefferson	ypll_rate	6167
+36047	New York	Kings	ypll_rate	6284
+36049	New York	Lewis	ypll_rate	5709
+36051	New York	Livingston	ypll_rate	4701
+36053	New York	Madison	ypll_rate	5250
+36055	New York	Monroe	ypll_rate	5787
+36057	New York	Montgomery	ypll_rate	6936
+36059	New York	Nassau	ypll_rate	4607
+36061	New York	New York	ypll_rate	4896
+36063	New York	Niagara	ypll_rate	7228
+36065	New York	Oneida	ypll_rate	6542
+36067	New York	Onondaga	ypll_rate	5945
+36069	New York	Ontario	ypll_rate	5719
+36071	New York	Orange	ypll_rate	5774
+36073	New York	Orleans	ypll_rate	6394
+36075	New York	Oswego	ypll_rate	6209
+36077	New York	Otsego	ypll_rate	5703
+36079	New York	Putnam	ypll_rate	4491
+36081	New York	Queens	ypll_rate	4822
+36083	New York	Rensselaer	ypll_rate	5984
+36085	New York	Richmond	ypll_rate	5746
+36087	New York	Rockland	ypll_rate	4329
+36089	New York	St. Lawrence	ypll_rate	6678
+36091	New York	Saratoga	ypll_rate	4858
+36093	New York	Schenectady	ypll_rate	5907
+36095	New York	Schoharie	ypll_rate	5430
+36097	New York	Schuyler	ypll_rate	6025
+36099	New York	Seneca	ypll_rate	5681
+36101	New York	Steuben	ypll_rate	6255
+36103	New York	Suffolk	ypll_rate	5301
+36105	New York	Sullivan	ypll_rate	7799
+36107	New York	Tioga	ypll_rate	4922
+36109	New York	Tompkins	ypll_rate	4130
+36111	New York	Ulster	ypll_rate	6159
+36113	New York	Warren	ypll_rate	5477
+36115	New York	Washington	ypll_rate	6003
+36117	New York	Wayne	ypll_rate	6047
+36119	New York	Westchester	ypll_rate	4441
+36121	New York	Wyoming	ypll_rate	5532
+36123	New York	Yates	ypll_rate	5485
+37001	North Carolina	Alamance	ypll_rate	7123
+37003	North Carolina	Alexander	ypll_rate	7974
+37005	North Carolina	Alleghany	ypll_rate	8817
+37007	North Carolina	Anson	ypll_rate	10220
+37009	North Carolina	Ashe	ypll_rate	7521
+37011	North Carolina	Avery	ypll_rate	6812
+37013	North Carolina	Beaufort	ypll_rate	9400
+37015	North Carolina	Bertie	ypll_rate	11207
+37017	North Carolina	Bladen	ypll_rate	11030
+37019	North Carolina	Brunswick	ypll_rate	8349
+37021	North Carolina	Buncombe	ypll_rate	7026
+37023	North Carolina	Burke	ypll_rate	9240
+37025	North Carolina	Cabarrus	ypll_rate	6556
+37027	North Carolina	Caldwell	ypll_rate	8966
+37029	North Carolina	Camden	ypll_rate	5064
+37031	North Carolina	Carteret	ypll_rate	8072
+37033	North Carolina	Caswell	ypll_rate	7738
+37035	North Carolina	Catawba	ypll_rate	8388
+37037	North Carolina	Chatham	ypll_rate	5967
+37039	North Carolina	Cherokee	ypll_rate	8521
+37041	North Carolina	Chowan	ypll_rate	7213
+37043	North Carolina	Clay	ypll_rate	9463
+37045	North Carolina	Cleveland	ypll_rate	9594
+37047	North Carolina	Columbus	ypll_rate	12108
+37049	North Carolina	Craven	ypll_rate	7777
+37051	North Carolina	Cumberland	ypll_rate	8956
+37053	North Carolina	Currituck	ypll_rate	7275
+37055	North Carolina	Dare	ypll_rate	5869
+37057	North Carolina	Davidson	ypll_rate	7932
+37059	North Carolina	Davie	ypll_rate	6014
+37061	North Carolina	Duplin	ypll_rate	8311
+37063	North Carolina	Durham	ypll_rate	6979
+37065	North Carolina	Edgecombe	ypll_rate	10009
+37067	North Carolina	Forsyth	ypll_rate	7332
+37069	North Carolina	Franklin	ypll_rate	7673
+37071	North Carolina	Gaston	ypll_rate	9282
+37073	North Carolina	Gates	ypll_rate	9113
+37075	North Carolina	Graham	ypll_rate	9226
+37077	North Carolina	Granville	ypll_rate	7765
+37079	North Carolina	Greene	ypll_rate	7531
+37081	North Carolina	Guilford	ypll_rate	6974
+37083	North Carolina	Halifax	ypll_rate	10941
+37085	North Carolina	Harnett	ypll_rate	8643
+37087	North Carolina	Haywood	ypll_rate	7745
+37089	North Carolina	Henderson	ypll_rate	6873
+37091	North Carolina	Hertford	ypll_rate	8977
+37093	North Carolina	Hoke	ypll_rate	7797
+37095	North Carolina	Hyde	ypll_rate	7202
+37097	North Carolina	Iredell	ypll_rate	7198
+37099	North Carolina	Jackson	ypll_rate	7283
+37101	North Carolina	Johnston	ypll_rate	7341
+37103	North Carolina	Jones	ypll_rate	8375
+37105	North Carolina	Lee	ypll_rate	8413
+37107	North Carolina	Lenoir	ypll_rate	10935
+37109	North Carolina	Lincoln	ypll_rate	7758
+37111	North Carolina	McDowell	ypll_rate	7946
+37113	North Carolina	Macon	ypll_rate	7125
+37115	North Carolina	Madison	ypll_rate	7660
+37117	North Carolina	Martin	ypll_rate	10798
+37119	North Carolina	Mecklenburg	ypll_rate	6039
+37121	North Carolina	Mitchell	ypll_rate	8311
+37123	North Carolina	Montgomery	ypll_rate	8828
+37125	North Carolina	Moore	ypll_rate	6997
+37127	North Carolina	Nash	ypll_rate	9178
+37129	North Carolina	New Hanover	ypll_rate	6525
+37131	North Carolina	Northampton	ypll_rate	10148
+37133	North Carolina	Onslow	ypll_rate	7303
+37135	North Carolina	Orange	ypll_rate	5063
+37137	North Carolina	Pamlico	ypll_rate	9428
+37139	North Carolina	Pasquotank	ypll_rate	8052
+37141	North Carolina	Pender	ypll_rate	8143
+37143	North Carolina	Perquimans	ypll_rate	8837
+37145	North Carolina	Person	ypll_rate	8370
+37147	North Carolina	Pitt	ypll_rate	7946
+37149	North Carolina	Polk	ypll_rate	7460
+37151	North Carolina	Randolph	ypll_rate	7925
+37153	North Carolina	Richmond	ypll_rate	10344
+37155	North Carolina	Robeson	ypll_rate	11614
+37157	North Carolina	Rockingham	ypll_rate	9229
+37159	North Carolina	Rowan	ypll_rate	8483
+37161	North Carolina	Rutherford	ypll_rate	8593
+37163	North Carolina	Sampson	ypll_rate	10349
+37165	North Carolina	Scotland	ypll_rate	11100
+37167	North Carolina	Stanly	ypll_rate	7933
+37169	North Carolina	Stokes	ypll_rate	8566
+37171	North Carolina	Surry	ypll_rate	8779
+37173	North Carolina	Swain	ypll_rate	13578
+37175	North Carolina	Transylvania	ypll_rate	7252
+37177	North Carolina	Tyrrell	ypll_rate	9791
+37179	North Carolina	Union	ypll_rate	5752
+37181	North Carolina	Vance	ypll_rate	10953
+37183	North Carolina	Wake	ypll_rate	4954
+37185	North Carolina	Warren	ypll_rate	8576
+37187	North Carolina	Washington	ypll_rate	7919
+37189	North Carolina	Watauga	ypll_rate	5173
+37191	North Carolina	Wayne	ypll_rate	9197
+37193	North Carolina	Wilkes	ypll_rate	9057
+37195	North Carolina	Wilson	ypll_rate	8490
+37197	North Carolina	Yadkin	ypll_rate	7893
+37199	North Carolina	Yancey	ypll_rate	6872
+38001	North Dakota	Adams	ypll_rate	
+38003	North Dakota	Barnes	ypll_rate	6499
+38005	North Dakota	Benson	ypll_rate	20202
+38007	North Dakota	Billings	ypll_rate	
+38009	North Dakota	Bottineau	ypll_rate	6795
+38011	North Dakota	Bowman	ypll_rate	6381
+38013	North Dakota	Burke	ypll_rate	
+38015	North Dakota	Burleigh	ypll_rate	5473
+38017	North Dakota	Cass	ypll_rate	5251
+38019	North Dakota	Cavalier	ypll_rate	
+38021	North Dakota	Dickey	ypll_rate	3592
+38023	North Dakota	Divide	ypll_rate	
+38025	North Dakota	Dunn	ypll_rate	
+38027	North Dakota	Eddy	ypll_rate	8539
+38029	North Dakota	Emmons	ypll_rate	7473
+38031	North Dakota	Foster	ypll_rate	4001
+38033	North Dakota	Golden Valley	ypll_rate	
+38035	North Dakota	Grand Forks	ypll_rate	5055
+38037	North Dakota	Grant	ypll_rate	
+38039	North Dakota	Griggs	ypll_rate	
+38041	North Dakota	Hettinger	ypll_rate	
+38043	North Dakota	Kidder	ypll_rate	
+38045	North Dakota	LaMoure	ypll_rate	7220
+38047	North Dakota	Logan	ypll_rate	
+38049	North Dakota	McHenry	ypll_rate	8994
+38051	North Dakota	McIntosh	ypll_rate	6839
+38053	North Dakota	McKenzie	ypll_rate	10985
+38055	North Dakota	McLean	ypll_rate	7781
+38057	North Dakota	Mercer	ypll_rate	4299
+38059	North Dakota	Morton	ypll_rate	6512
+38061	North Dakota	Mountrail	ypll_rate	11288
+38063	North Dakota	Nelson	ypll_rate	6282
+38065	North Dakota	Oliver	ypll_rate	
+38067	North Dakota	Pembina	ypll_rate	6179
+38069	North Dakota	Pierce	ypll_rate	7221
+38071	North Dakota	Ramsey	ypll_rate	8425
+38073	North Dakota	Ransom	ypll_rate	5293
+38075	North Dakota	Renville	ypll_rate	
+38077	North Dakota	Richland	ypll_rate	6340
+38079	North Dakota	Rolette	ypll_rate	14257
+38081	North Dakota	Sargent	ypll_rate	6168
+38083	North Dakota	Sheridan	ypll_rate	
+38085	North Dakota	Sioux	ypll_rate	24668
+38087	North Dakota	Slope	ypll_rate	
+38089	North Dakota	Stark	ypll_rate	6088
+38091	North Dakota	Steele	ypll_rate	
+38093	North Dakota	Stutsman	ypll_rate	6470
+38095	North Dakota	Towner	ypll_rate	
+38097	North Dakota	Traill	ypll_rate	5420
+38099	North Dakota	Walsh	ypll_rate	6884
+38101	North Dakota	Ward	ypll_rate	5909
+38103	North Dakota	Wells	ypll_rate	5396
+38105	North Dakota	Williams	ypll_rate	6340
+39001	Ohio	Adams	ypll_rate	10788
+39003	Ohio	Allen	ypll_rate	7003
+39005	Ohio	Ashland	ypll_rate	6952
+39007	Ohio	Ashtabula	ypll_rate	8316
+39009	Ohio	Athens	ypll_rate	8234
+39011	Ohio	Auglaize	ypll_rate	6431
+39013	Ohio	Belmont	ypll_rate	7383
+39015	Ohio	Brown	ypll_rate	9513
+39017	Ohio	Butler	ypll_rate	7065
+39019	Ohio	Carroll	ypll_rate	6912
+39021	Ohio	Champaign	ypll_rate	7785
+39023	Ohio	Clark	ypll_rate	9022
+39025	Ohio	Clermont	ypll_rate	6985
+39027	Ohio	Clinton	ypll_rate	8770
+39029	Ohio	Columbiana	ypll_rate	7623
+39031	Ohio	Coshocton	ypll_rate	7955
+39033	Ohio	Crawford	ypll_rate	8654
+39035	Ohio	Cuyahoga	ypll_rate	7975
+39037	Ohio	Darke	ypll_rate	6578
+39039	Ohio	Defiance	ypll_rate	6812
+39041	Ohio	Delaware	ypll_rate	4442
+39043	Ohio	Erie	ypll_rate	7196
+39045	Ohio	Fairfield	ypll_rate	6024
+39047	Ohio	Fayette	ypll_rate	9084
+39049	Ohio	Franklin	ypll_rate	7870
+39051	Ohio	Fulton	ypll_rate	6178
+39053	Ohio	Gallia	ypll_rate	8473
+39055	Ohio	Geauga	ypll_rate	4306
+39057	Ohio	Greene	ypll_rate	6319
+39059	Ohio	Guernsey	ypll_rate	8116
+39061	Ohio	Hamilton	ypll_rate	8201
+39063	Ohio	Hancock	ypll_rate	6010
+39065	Ohio	Hardin	ypll_rate	8197
+39067	Ohio	Harrison	ypll_rate	8048
+39069	Ohio	Henry	ypll_rate	6143
+39071	Ohio	Highland	ypll_rate	9456
+39073	Ohio	Hocking	ypll_rate	7178
+39075	Ohio	Holmes	ypll_rate	5756
+39077	Ohio	Huron	ypll_rate	6957
+39079	Ohio	Jackson	ypll_rate	10234
+39081	Ohio	Jefferson	ypll_rate	9574
+39083	Ohio	Knox	ypll_rate	7363
+39085	Ohio	Lake	ypll_rate	6043
+39087	Ohio	Lawrence	ypll_rate	8994
+39089	Ohio	Licking	ypll_rate	6983
+39091	Ohio	Logan	ypll_rate	7787
+39093	Ohio	Lorain	ypll_rate	6552
+39095	Ohio	Lucas	ypll_rate	8024
+39097	Ohio	Madison	ypll_rate	7707
+39099	Ohio	Mahoning	ypll_rate	8730
+39101	Ohio	Marion	ypll_rate	7590
+39103	Ohio	Medina	ypll_rate	4789
+39105	Ohio	Meigs	ypll_rate	10165
+39107	Ohio	Mercer	ypll_rate	5953
+39109	Ohio	Miami	ypll_rate	6682
+39111	Ohio	Monroe	ypll_rate	7233
+39113	Ohio	Montgomery	ypll_rate	8804
+39115	Ohio	Morgan	ypll_rate	8026
+39117	Ohio	Morrow	ypll_rate	7172
+39119	Ohio	Muskingum	ypll_rate	8761
+39121	Ohio	Noble	ypll_rate	6413
+39123	Ohio	Ottawa	ypll_rate	6133
+39125	Ohio	Paulding	ypll_rate	8579
+39127	Ohio	Perry	ypll_rate	8657
+39129	Ohio	Pickaway	ypll_rate	7279
+39131	Ohio	Pike	ypll_rate	9587
+39133	Ohio	Portage	ypll_rate	6258
+39135	Ohio	Preble	ypll_rate	7547
+39137	Ohio	Putnam	ypll_rate	5291
+39139	Ohio	Richland	ypll_rate	7472
+39141	Ohio	Ross	ypll_rate	8843
+39143	Ohio	Sandusky	ypll_rate	7070
+39145	Ohio	Scioto	ypll_rate	11798
+39147	Ohio	Seneca	ypll_rate	6319
+39149	Ohio	Shelby	ypll_rate	6737
+39151	Ohio	Stark	ypll_rate	6985
+39153	Ohio	Summit	ypll_rate	7310
+39155	Ohio	Trumbull	ypll_rate	8470
+39157	Ohio	Tuscarawas	ypll_rate	6112
+39159	Ohio	Union	ypll_rate	5742
+39161	Ohio	Van Wert	ypll_rate	6072
+39163	Ohio	Vinton	ypll_rate	8895
+39165	Ohio	Warren	ypll_rate	5600
+39167	Ohio	Washington	ypll_rate	7737
+39169	Ohio	Wayne	ypll_rate	6572
+39171	Ohio	Williams	ypll_rate	6305
+39173	Ohio	Wood	ypll_rate	5471
+39175	Ohio	Wyandot	ypll_rate	7526
+40001	Oklahoma	Adair	ypll_rate	11129
+40003	Oklahoma	Alfalfa	ypll_rate	9528
+40005	Oklahoma	Atoka	ypll_rate	8907
+40007	Oklahoma	Beaver	ypll_rate	10021
+40009	Oklahoma	Beckham	ypll_rate	11276
+40011	Oklahoma	Blaine	ypll_rate	9805
+40013	Oklahoma	Bryan	ypll_rate	9220
+40015	Oklahoma	Caddo	ypll_rate	11274
+40017	Oklahoma	Canadian	ypll_rate	6565
+40019	Oklahoma	Carter	ypll_rate	11429
+40021	Oklahoma	Cherokee	ypll_rate	9282
+40023	Oklahoma	Choctaw	ypll_rate	13270
+40025	Oklahoma	Cimarron	ypll_rate	7284
+40027	Oklahoma	Cleveland	ypll_rate	6412
+40029	Oklahoma	Coal	ypll_rate	15144
+40031	Oklahoma	Comanche	ypll_rate	8822
+40033	Oklahoma	Cotton	ypll_rate	8996
+40035	Oklahoma	Craig	ypll_rate	11752
+40037	Oklahoma	Creek	ypll_rate	10863
+40039	Oklahoma	Custer	ypll_rate	8938
+40041	Oklahoma	Delaware	ypll_rate	9506
+40043	Oklahoma	Dewey	ypll_rate	12002
+40045	Oklahoma	Ellis	ypll_rate	9778
+40047	Oklahoma	Garfield	ypll_rate	9675
+40049	Oklahoma	Garvin	ypll_rate	12382
+40051	Oklahoma	Grady	ypll_rate	8696
+40053	Oklahoma	Grant	ypll_rate	8586
+40055	Oklahoma	Greer	ypll_rate	10572
+40057	Oklahoma	Harmon	ypll_rate	11142
+40059	Oklahoma	Harper	ypll_rate	10298
+40061	Oklahoma	Haskell	ypll_rate	12910
+40063	Oklahoma	Hughes	ypll_rate	12385
+40065	Oklahoma	Jackson	ypll_rate	7917
+40067	Oklahoma	Jefferson	ypll_rate	11441
+40069	Oklahoma	Johnston	ypll_rate	13779
+40071	Oklahoma	Kay	ypll_rate	10445
+40073	Oklahoma	Kingfisher	ypll_rate	7190
+40075	Oklahoma	Kiowa	ypll_rate	14649
+40077	Oklahoma	Latimer	ypll_rate	9056
+40079	Oklahoma	Le Flore	ypll_rate	11578
+40081	Oklahoma	Lincoln	ypll_rate	9517
+40083	Oklahoma	Logan	ypll_rate	7070
+40085	Oklahoma	Love	ypll_rate	10813
+40087	Oklahoma	McClain	ypll_rate	8903
+40089	Oklahoma	McCurtain	ypll_rate	13097
+40091	Oklahoma	McIntosh	ypll_rate	13083
+40093	Oklahoma	Major	ypll_rate	10391
+40095	Oklahoma	Marshall	ypll_rate	9211
+40097	Oklahoma	Mayes	ypll_rate	10403
+40099	Oklahoma	Murray	ypll_rate	10859
+40101	Oklahoma	Muskogee	ypll_rate	11346
+40103	Oklahoma	Noble	ypll_rate	8415
+40105	Oklahoma	Nowata	ypll_rate	8747
+40107	Oklahoma	Okfuskee	ypll_rate	13077
+40109	Oklahoma	Oklahoma	ypll_rate	9150
+40111	Oklahoma	Okmulgee	ypll_rate	12179
+40113	Oklahoma	Osage	ypll_rate	9241
+40115	Oklahoma	Ottawa	ypll_rate	11461
+40117	Oklahoma	Pawnee	ypll_rate	11101
+40119	Oklahoma	Payne	ypll_rate	6942
+40121	Oklahoma	Pittsburg	ypll_rate	11332
+40123	Oklahoma	Pontotoc	ypll_rate	12732
+40125	Oklahoma	Pottawatomie	ypll_rate	10236
+40127	Oklahoma	Pushmataha	ypll_rate	14457
+40129	Oklahoma	Roger Mills	ypll_rate	9401
+40131	Oklahoma	Rogers	ypll_rate	7239
+40133	Oklahoma	Seminole	ypll_rate	13337
+40135	Oklahoma	Sequoyah	ypll_rate	11066
+40137	Oklahoma	Stephens	ypll_rate	10708
+40139	Oklahoma	Texas	ypll_rate	8393
+40141	Oklahoma	Tillman	ypll_rate	9629
+40143	Oklahoma	Tulsa	ypll_rate	8961
+40145	Oklahoma	Wagoner	ypll_rate	8175
+40147	Oklahoma	Washington	ypll_rate	8262
+40149	Oklahoma	Washita	ypll_rate	11029
+40151	Oklahoma	Woods	ypll_rate	8139
+40153	Oklahoma	Woodward	ypll_rate	10176
+41001	Oregon	Baker	ypll_rate	10322
+41003	Oregon	Benton	ypll_rate	3713
+41005	Oregon	Clackamas	ypll_rate	5100
+41007	Oregon	Clatsop	ypll_rate	6585
+41009	Oregon	Columbia	ypll_rate	6342
+41011	Oregon	Coos	ypll_rate	8176
+41013	Oregon	Crook	ypll_rate	5711
+41015	Oregon	Curry	ypll_rate	8931
+41017	Oregon	Deschutes	ypll_rate	5410
+41019	Oregon	Douglas	ypll_rate	7410
+41021	Oregon	Gilliam	ypll_rate	
+41023	Oregon	Grant	ypll_rate	4605
+41025	Oregon	Harney	ypll_rate	7727
+41027	Oregon	Hood River	ypll_rate	5399
+41029	Oregon	Jackson	ypll_rate	6141
+41031	Oregon	Jefferson	ypll_rate	10819
+41033	Oregon	Josephine	ypll_rate	8311
+41035	Oregon	Klamath	ypll_rate	8451
+41037	Oregon	Lake	ypll_rate	8044
+41039	Oregon	Lane	ypll_rate	6301
+41041	Oregon	Lincoln	ypll_rate	7489
+41043	Oregon	Linn	ypll_rate	6829
+41045	Oregon	Malheur	ypll_rate	6197
+41047	Oregon	Marion	ypll_rate	6704
+41049	Oregon	Morrow	ypll_rate	6710
+41051	Oregon	Multnomah	ypll_rate	6315
+41053	Oregon	Polk	ypll_rate	5729
+41055	Oregon	Sherman	ypll_rate	
+41057	Oregon	Tillamook	ypll_rate	7177
+41059	Oregon	Umatilla	ypll_rate	7836
+41061	Oregon	Union	ypll_rate	6877
+41063	Oregon	Wallowa	ypll_rate	6160
+41065	Oregon	Wasco	ypll_rate	7869
+41067	Oregon	Washington	ypll_rate	4513
+41069	Oregon	Wheeler	ypll_rate	
+41071	Oregon	Yamhill	ypll_rate	5401
+42001	Pennsylvania	Adams	ypll_rate	5837
+42003	Pennsylvania	Allegheny	ypll_rate	7253
+42005	Pennsylvania	Armstrong	ypll_rate	7191
+42007	Pennsylvania	Beaver	ypll_rate	7388
+42009	Pennsylvania	Bedford	ypll_rate	7119
+42011	Pennsylvania	Berks	ypll_rate	6262
+42013	Pennsylvania	Blair	ypll_rate	7387
+42015	Pennsylvania	Bradford	ypll_rate	7515
+42017	Pennsylvania	Bucks	ypll_rate	5595
+42019	Pennsylvania	Butler	ypll_rate	5556
+42021	Pennsylvania	Cambria	ypll_rate	7767
+42023	Pennsylvania	Cameron	ypll_rate	6813
+42025	Pennsylvania	Carbon	ypll_rate	7339
+42027	Pennsylvania	Centre	ypll_rate	4774
+42029	Pennsylvania	Chester	ypll_rate	4801
+42031	Pennsylvania	Clarion	ypll_rate	6929
+42033	Pennsylvania	Clearfield	ypll_rate	7020
+42035	Pennsylvania	Clinton	ypll_rate	6176
+42037	Pennsylvania	Columbia	ypll_rate	7197
+42039	Pennsylvania	Crawford	ypll_rate	6759
+42041	Pennsylvania	Cumberland	ypll_rate	5104
+42043	Pennsylvania	Dauphin	ypll_rate	7235
+42045	Pennsylvania	Delaware	ypll_rate	7225
+42047	Pennsylvania	Elk	ypll_rate	6647
+42049	Pennsylvania	Erie	ypll_rate	7044
+42051	Pennsylvania	Fayette	ypll_rate	9266
+42053	Pennsylvania	Forest	ypll_rate	9347
+42055	Pennsylvania	Franklin	ypll_rate	6199
+42057	Pennsylvania	Fulton	ypll_rate	7296
+42059	Pennsylvania	Greene	ypll_rate	8673
+42061	Pennsylvania	Huntingdon	ypll_rate	6638
+42063	Pennsylvania	Indiana	ypll_rate	6670
+42065	Pennsylvania	Jefferson	ypll_rate	8358
+42067	Pennsylvania	Juniata	ypll_rate	6836
+42069	Pennsylvania	Lackawanna	ypll_rate	7919
+42071	Pennsylvania	Lancaster	ypll_rate	5871
+42073	Pennsylvania	Lawrence	ypll_rate	7600
+42075	Pennsylvania	Lebanon	ypll_rate	6115
+42077	Pennsylvania	Lehigh	ypll_rate	5931
+42079	Pennsylvania	Luzerne	ypll_rate	7693
+42081	Pennsylvania	Lycoming	ypll_rate	6563
+42083	Pennsylvania	McKean	ypll_rate	6816
+42085	Pennsylvania	Mercer	ypll_rate	7549
+42087	Pennsylvania	Mifflin	ypll_rate	7464
+42089	Pennsylvania	Monroe	ypll_rate	6684
+42091	Pennsylvania	Montgomery	ypll_rate	5172
+42093	Pennsylvania	Montour	ypll_rate	8420
+42095	Pennsylvania	Northampton	ypll_rate	5696
+42097	Pennsylvania	Northumberland	ypll_rate	6582
+42099	Pennsylvania	Perry	ypll_rate	7630
+42101	Pennsylvania	Philadelphia	ypll_rate	10492
+42103	Pennsylvania	Pike	ypll_rate	5761
+42105	Pennsylvania	Potter	ypll_rate	8001
+42107	Pennsylvania	Schuylkill	ypll_rate	7852
+42109	Pennsylvania	Snyder	ypll_rate	5873
+42111	Pennsylvania	Somerset	ypll_rate	6879
+42113	Pennsylvania	Sullivan	ypll_rate	10473
+42115	Pennsylvania	Susquehanna	ypll_rate	7299
+42117	Pennsylvania	Tioga	ypll_rate	6466
+42119	Pennsylvania	Union	ypll_rate	5036
+42121	Pennsylvania	Venango	ypll_rate	7099
+42123	Pennsylvania	Warren	ypll_rate	7660
+42125	Pennsylvania	Washington	ypll_rate	7133
+42127	Pennsylvania	Wayne	ypll_rate	6647
+42129	Pennsylvania	Westmoreland	ypll_rate	6607
+42131	Pennsylvania	Wyoming	ypll_rate	8349
+42133	Pennsylvania	York	ypll_rate	6118
+44001	Rhode Island	Bristol	ypll_rate	4543
+44003	Rhode Island	Kent	ypll_rate	6313
+44005	Rhode Island	Newport	ypll_rate	4457
+44007	Rhode Island	Providence	ypll_rate	6468
+44009	Rhode Island	Washington	ypll_rate	4961
+45001	South Carolina	Abbeville	ypll_rate	7632
+45003	South Carolina	Aiken	ypll_rate	8191
+45005	South Carolina	Allendale	ypll_rate	10984
+45007	South Carolina	Anderson	ypll_rate	8616
+45009	South Carolina	Bamberg	ypll_rate	13267
+45011	South Carolina	Barnwell	ypll_rate	10887
+45013	South Carolina	Beaufort	ypll_rate	5597
+45015	South Carolina	Berkeley	ypll_rate	7448
+45017	South Carolina	Calhoun	ypll_rate	10164
+45019	South Carolina	Charleston	ypll_rate	7819
+45021	South Carolina	Cherokee	ypll_rate	10172
+45023	South Carolina	Chester	ypll_rate	11319
+45025	South Carolina	Chesterfield	ypll_rate	10678
+45027	South Carolina	Clarendon	ypll_rate	10453
+45029	South Carolina	Colleton	ypll_rate	12164
+45031	South Carolina	Darlington	ypll_rate	11560
+45033	South Carolina	Dillon	ypll_rate	11204
+45035	South Carolina	Dorchester	ypll_rate	6834
+45037	South Carolina	Edgefield	ypll_rate	6365
+45039	South Carolina	Fairfield	ypll_rate	10871
+45041	South Carolina	Florence	ypll_rate	10509
+45043	South Carolina	Georgetown	ypll_rate	10092
+45045	South Carolina	Greenville	ypll_rate	7300
+45047	South Carolina	Greenwood	ypll_rate	8901
+45049	South Carolina	Hampton	ypll_rate	10687
+45051	South Carolina	Horry	ypll_rate	8485
+45053	South Carolina	Jasper	ypll_rate	9962
+45055	South Carolina	Kershaw	ypll_rate	8692
+45057	South Carolina	Lancaster	ypll_rate	9194
+45059	South Carolina	Laurens	ypll_rate	10626
+45061	South Carolina	Lee	ypll_rate	11776
+45063	South Carolina	Lexington	ypll_rate	7176
+45065	South Carolina	McCormick	ypll_rate	6662
+45067	South Carolina	Marion	ypll_rate	14130
+45069	South Carolina	Marlboro	ypll_rate	11359
+45071	South Carolina	Newberry	ypll_rate	8819
+45073	South Carolina	Oconee	ypll_rate	8837
+45075	South Carolina	Orangeburg	ypll_rate	12120
+45077	South Carolina	Pickens	ypll_rate	8244
+45079	South Carolina	Richland	ypll_rate	7501
+45081	South Carolina	Saluda	ypll_rate	8762
+45083	South Carolina	Spartanburg	ypll_rate	9019
+45085	South Carolina	Sumter	ypll_rate	9220
+45087	South Carolina	Union	ypll_rate	10966
+45089	South Carolina	Williamsburg	ypll_rate	11517
+45091	South Carolina	York	ypll_rate	6905
+46003	South Dakota	Aurora	ypll_rate	
+46005	South Dakota	Beadle	ypll_rate	7168
+46007	South Dakota	Bennett	ypll_rate	16752
+46009	South Dakota	Bon Homme	ypll_rate	3843
+46011	South Dakota	Brookings	ypll_rate	4515
+46013	South Dakota	Brown	ypll_rate	5521
+46015	South Dakota	Brule	ypll_rate	6938
+46017	South Dakota	Buffalo	ypll_rate	23312
+46019	South Dakota	Butte	ypll_rate	6593
+46021	South Dakota	Campbell	ypll_rate	
+46023	South Dakota	Charles Mix	ypll_rate	10480
+46025	South Dakota	Clark	ypll_rate	5765
+46027	South Dakota	Clay	ypll_rate	5110
+46029	South Dakota	Codington	ypll_rate	5485
+46031	South Dakota	Corson	ypll_rate	21217
+46033	South Dakota	Custer	ypll_rate	6278
+46035	South Dakota	Davison	ypll_rate	5925
+46037	South Dakota	Day	ypll_rate	6379
+46039	South Dakota	Deuel	ypll_rate	7340
+46041	South Dakota	Dewey	ypll_rate	17152
+46043	South Dakota	Douglas	ypll_rate	
+46045	South Dakota	Edmunds	ypll_rate	5187
+46047	South Dakota	Fall River	ypll_rate	7706
+46049	South Dakota	Faulk	ypll_rate	
+46051	South Dakota	Grant	ypll_rate	6207
+46053	South Dakota	Gregory	ypll_rate	6215
+46055	South Dakota	Haakon	ypll_rate	
+46057	South Dakota	Hamlin	ypll_rate	5017
+46059	South Dakota	Hand	ypll_rate	
+46061	South Dakota	Hanson	ypll_rate	
+46063	South Dakota	Harding	ypll_rate	
+46065	South Dakota	Hughes	ypll_rate	6564
+46067	South Dakota	Hutchinson	ypll_rate	5188
+46069	South Dakota	Hyde	ypll_rate	
+46071	South Dakota	Jackson	ypll_rate	15701
+46073	South Dakota	Jerauld	ypll_rate	
+46075	South Dakota	Jones	ypll_rate	
+46077	South Dakota	Kingsbury	ypll_rate	7312
+46079	South Dakota	Lake	ypll_rate	5729
+46081	South Dakota	Lawrence	ypll_rate	5220
+46083	South Dakota	Lincoln	ypll_rate	3588
+46085	South Dakota	Lyman	ypll_rate	9157
+46087	South Dakota	McCook	ypll_rate	5661
+46089	South Dakota	McPherson	ypll_rate	
+46091	South Dakota	Marshall	ypll_rate	7167
+46093	South Dakota	Meade	ypll_rate	6605
+46095	South Dakota	Mellette	ypll_rate	16502
+46097	South Dakota	Miner	ypll_rate	
+46099	South Dakota	Minnehaha	ypll_rate	6034
+46101	South Dakota	Moody	ypll_rate	4822
+46103	South Dakota	Pennington	ypll_rate	6729
+46105	South Dakota	Perkins	ypll_rate	8076
+46107	South Dakota	Potter	ypll_rate	
+46109	South Dakota	Roberts	ypll_rate	10890
+46111	South Dakota	Sanborn	ypll_rate	
+46113	South Dakota	Shannon	ypll_rate	23851
+46115	South Dakota	Spink	ypll_rate	7383
+46117	South Dakota	Stanley	ypll_rate	5868
+46119	South Dakota	Sully	ypll_rate	
+46121	South Dakota	Todd	ypll_rate	20965
+46123	South Dakota	Tripp	ypll_rate	5786
+46125	South Dakota	Turner	ypll_rate	5984
+46127	South Dakota	Union	ypll_rate	4499
+46129	South Dakota	Walworth	ypll_rate	6978
+46135	South Dakota	Yankton	ypll_rate	6061
+46137	South Dakota	Ziebach	ypll_rate	
+47001	Tennessee	Anderson	ypll_rate	8831
+47003	Tennessee	Bedford	ypll_rate	8756
+47005	Tennessee	Benton	ypll_rate	12849
+47007	Tennessee	Bledsoe	ypll_rate	8402
+47009	Tennessee	Blount	ypll_rate	7576
+47011	Tennessee	Bradley	ypll_rate	7836
+47013	Tennessee	Campbell	ypll_rate	11456
+47015	Tennessee	Cannon	ypll_rate	8604
+47017	Tennessee	Carroll	ypll_rate	10655
+47019	Tennessee	Carter	ypll_rate	9292
+47021	Tennessee	Cheatham	ypll_rate	8866
+47023	Tennessee	Chester	ypll_rate	8791
+47025	Tennessee	Claiborne	ypll_rate	11863
+47027	Tennessee	Clay	ypll_rate	11710
+47029	Tennessee	Cocke	ypll_rate	11297
+47031	Tennessee	Coffee	ypll_rate	9543
+47033	Tennessee	Crockett	ypll_rate	10499
+47035	Tennessee	Cumberland	ypll_rate	9769
+47037	Tennessee	Davidson	ypll_rate	8401
+47039	Tennessee	Decatur	ypll_rate	12419
+47041	Tennessee	DeKalb	ypll_rate	12583
+47043	Tennessee	Dickson	ypll_rate	9637
+47045	Tennessee	Dyer	ypll_rate	8484
+47047	Tennessee	Fayette	ypll_rate	8312
+47049	Tennessee	Fentress	ypll_rate	12764
+47051	Tennessee	Franklin	ypll_rate	9300
+47053	Tennessee	Gibson	ypll_rate	10967
+47055	Tennessee	Giles	ypll_rate	9447
+47057	Tennessee	Grainger	ypll_rate	9881
+47059	Tennessee	Greene	ypll_rate	10052
+47061	Tennessee	Grundy	ypll_rate	16601
+47063	Tennessee	Hamblen	ypll_rate	9486
+47065	Tennessee	Hamilton	ypll_rate	8358
+47067	Tennessee	Hancock	ypll_rate	13756
+47069	Tennessee	Hardeman	ypll_rate	9662
+47071	Tennessee	Hardin	ypll_rate	11322
+47073	Tennessee	Hawkins	ypll_rate	9723
+47075	Tennessee	Haywood	ypll_rate	10103
+47077	Tennessee	Henderson	ypll_rate	9185
+47079	Tennessee	Henry	ypll_rate	11804
+47081	Tennessee	Hickman	ypll_rate	10127
+47083	Tennessee	Houston	ypll_rate	8965
+47085	Tennessee	Humphreys	ypll_rate	9346
+47087	Tennessee	Jackson	ypll_rate	10742
+47089	Tennessee	Jefferson	ypll_rate	9453
+47091	Tennessee	Johnson	ypll_rate	9480
+47093	Tennessee	Knox	ypll_rate	7995
+47095	Tennessee	Lake	ypll_rate	10030
+47097	Tennessee	Lauderdale	ypll_rate	10265
+47099	Tennessee	Lawrence	ypll_rate	9683
+47101	Tennessee	Lewis	ypll_rate	9198
+47103	Tennessee	Lincoln	ypll_rate	9404
+47105	Tennessee	Loudon	ypll_rate	7770
+47107	Tennessee	McMinn	ypll_rate	9985
+47109	Tennessee	McNairy	ypll_rate	11280
+47111	Tennessee	Macon	ypll_rate	12526
+47113	Tennessee	Madison	ypll_rate	8294
+47115	Tennessee	Marion	ypll_rate	10449
+47117	Tennessee	Marshall	ypll_rate	8654
+47119	Tennessee	Maury	ypll_rate	8865
+47121	Tennessee	Meigs	ypll_rate	13451
+47123	Tennessee	Monroe	ypll_rate	9017
+47125	Tennessee	Montgomery	ypll_rate	7727
+47127	Tennessee	Moore	ypll_rate	6942
+47129	Tennessee	Morgan	ypll_rate	9974
+47131	Tennessee	Obion	ypll_rate	9858
+47133	Tennessee	Overton	ypll_rate	10338
+47135	Tennessee	Perry	ypll_rate	10282
+47137	Tennessee	Pickett	ypll_rate	8402
+47139	Tennessee	Polk	ypll_rate	9994
+47141	Tennessee	Putnam	ypll_rate	8283
+47143	Tennessee	Rhea	ypll_rate	9834
+47145	Tennessee	Roane	ypll_rate	10180
+47147	Tennessee	Robertson	ypll_rate	8378
+47149	Tennessee	Rutherford	ypll_rate	6788
+47151	Tennessee	Scott	ypll_rate	10666
+47153	Tennessee	Sequatchie	ypll_rate	10280
+47155	Tennessee	Sevier	ypll_rate	8773
+47157	Tennessee	Shelby	ypll_rate	9835
+47159	Tennessee	Smith	ypll_rate	8151
+47161	Tennessee	Stewart	ypll_rate	11334
+47163	Tennessee	Sullivan	ypll_rate	9005
+47165	Tennessee	Sumner	ypll_rate	7282
+47167	Tennessee	Tipton	ypll_rate	9168
+47169	Tennessee	Trousdale	ypll_rate	9444
+47171	Tennessee	Unicoi	ypll_rate	9655
+47173	Tennessee	Union	ypll_rate	10181
+47175	Tennessee	Van Buren	ypll_rate	8426
+47177	Tennessee	Warren	ypll_rate	9675
+47179	Tennessee	Washington	ypll_rate	8155
+47181	Tennessee	Wayne	ypll_rate	10013
+47183	Tennessee	Weakley	ypll_rate	8379
+47185	Tennessee	White	ypll_rate	10088
+47187	Tennessee	Williamson	ypll_rate	3839
+47189	Tennessee	Wilson	ypll_rate	7006
+48001	Texas	Anderson	ypll_rate	10526
+48003	Texas	Andrews	ypll_rate	7970
+48005	Texas	Angelina	ypll_rate	8965
+48007	Texas	Aransas	ypll_rate	11924
+48009	Texas	Archer	ypll_rate	6693
+48011	Texas	Armstrong	ypll_rate	
+48013	Texas	Atascosa	ypll_rate	8194
+48015	Texas	Austin	ypll_rate	7334
+48017	Texas	Bailey	ypll_rate	7314
+48019	Texas	Bandera	ypll_rate	6661
+48021	Texas	Bastrop	ypll_rate	7097
+48023	Texas	Baylor	ypll_rate	10550
+48025	Texas	Bee	ypll_rate	6942
+48027	Texas	Bell	ypll_rate	7326
+48029	Texas	Bexar	ypll_rate	6964
+48031	Texas	Blanco	ypll_rate	7960
+48033	Texas	Borden	ypll_rate	
+48035	Texas	Bosque	ypll_rate	7973
+48037	Texas	Bowie	ypll_rate	8997
+48039	Texas	Brazoria	ypll_rate	6795
+48041	Texas	Brazos	ypll_rate	5753
+48043	Texas	Brewster	ypll_rate	4839
+48045	Texas	Briscoe	ypll_rate	
+48047	Texas	Brooks	ypll_rate	11384
+48049	Texas	Brown	ypll_rate	9956
+48051	Texas	Burleson	ypll_rate	8409
+48053	Texas	Burnet	ypll_rate	7160
+48055	Texas	Caldwell	ypll_rate	6473
+48057	Texas	Calhoun	ypll_rate	7598
+48059	Texas	Callahan	ypll_rate	9349
+48061	Texas	Cameron	ypll_rate	5908
+48063	Texas	Camp	ypll_rate	10848
+48065	Texas	Carson	ypll_rate	6407
+48067	Texas	Cass	ypll_rate	10641
+48069	Texas	Castro	ypll_rate	6002
+48071	Texas	Chambers	ypll_rate	7620
+48073	Texas	Cherokee	ypll_rate	9433
+48075	Texas	Childress	ypll_rate	7017
+48077	Texas	Clay	ypll_rate	8585
+48079	Texas	Cochran	ypll_rate	12777
+48081	Texas	Coke	ypll_rate	11760
+48083	Texas	Coleman	ypll_rate	11181
+48085	Texas	Collin	ypll_rate	4134
+48087	Texas	Collingsworth	ypll_rate	9097
+48089	Texas	Colorado	ypll_rate	7094
+48091	Texas	Comal	ypll_rate	6074
+48093	Texas	Comanche	ypll_rate	8645
+48095	Texas	Concho	ypll_rate	7960
+48097	Texas	Cooke	ypll_rate	9303
+48099	Texas	Coryell	ypll_rate	6648
+48101	Texas	Cottle	ypll_rate	
+48103	Texas	Crane	ypll_rate	6423
+48105	Texas	Crockett	ypll_rate	7401
+48107	Texas	Crosby	ypll_rate	8003
+48109	Texas	Culberson	ypll_rate	
+48111	Texas	Dallam	ypll_rate	9329
+48113	Texas	Dallas	ypll_rate	7187
+48115	Texas	Dawson	ypll_rate	6904
+48117	Texas	Deaf Smith	ypll_rate	8053
+48119	Texas	Delta	ypll_rate	9248
+48121	Texas	Denton	ypll_rate	4776
+48123	Texas	DeWitt	ypll_rate	8701
+48125	Texas	Dickens	ypll_rate	
+48127	Texas	Dimmit	ypll_rate	7316
+48129	Texas	Donley	ypll_rate	9323
+48131	Texas	Duval	ypll_rate	8741
+48133	Texas	Eastland	ypll_rate	10217
+48135	Texas	Ector	ypll_rate	9159
+48137	Texas	Edwards	ypll_rate	
+48139	Texas	Ellis	ypll_rate	6420
+48141	Texas	El Paso	ypll_rate	5821
+48143	Texas	Erath	ypll_rate	5910
+48145	Texas	Falls	ypll_rate	9262
+48147	Texas	Fannin	ypll_rate	8668
+48149	Texas	Fayette	ypll_rate	7973
+48151	Texas	Fisher	ypll_rate	10784
+48153	Texas	Floyd	ypll_rate	9343
+48155	Texas	Foard	ypll_rate	
+48157	Texas	Fort Bend	ypll_rate	4584
+48159	Texas	Franklin	ypll_rate	8368
+48161	Texas	Freestone	ypll_rate	8284
+48163	Texas	Frio	ypll_rate	7257
+48165	Texas	Gaines	ypll_rate	8088
+48167	Texas	Galveston	ypll_rate	7839
+48169	Texas	Garza	ypll_rate	7895
+48171	Texas	Gillespie	ypll_rate	5581
+48173	Texas	Glasscock	ypll_rate	
+48175	Texas	Goliad	ypll_rate	3723
+48177	Texas	Gonzales	ypll_rate	8830
+48179	Texas	Gray	ypll_rate	11515
+48181	Texas	Grayson	ypll_rate	8750
+48183	Texas	Gregg	ypll_rate	9599
+48185	Texas	Grimes	ypll_rate	9073
+48187	Texas	Guadalupe	ypll_rate	5844
+48189	Texas	Hale	ypll_rate	7207
+48191	Texas	Hall	ypll_rate	9457
+48193	Texas	Hamilton	ypll_rate	8778
+48195	Texas	Hansford	ypll_rate	7515
+48197	Texas	Hardeman	ypll_rate	4121
+48199	Texas	Hardin	ypll_rate	8478
+48201	Texas	Harris	ypll_rate	6995
+48203	Texas	Harrison	ypll_rate	8716
+48205	Texas	Hartley	ypll_rate	
+48207	Texas	Haskell	ypll_rate	8218
+48209	Texas	Hays	ypll_rate	5208
+48211	Texas	Hemphill	ypll_rate	
+48213	Texas	Henderson	ypll_rate	10232
+48215	Texas	Hidalgo	ypll_rate	5745
+48217	Texas	Hill	ypll_rate	9409
+48219	Texas	Hockley	ypll_rate	7338
+48221	Texas	Hood	ypll_rate	6623
+48223	Texas	Hopkins	ypll_rate	9226
+48225	Texas	Houston	ypll_rate	9348
+48227	Texas	Howard	ypll_rate	9516
+48229	Texas	Hudspeth	ypll_rate	
+48231	Texas	Hunt	ypll_rate	9045
+48233	Texas	Hutchinson	ypll_rate	11253
+48235	Texas	Irion	ypll_rate	
+48237	Texas	Jack	ypll_rate	10963
+48239	Texas	Jackson	ypll_rate	8981
+48241	Texas	Jasper	ypll_rate	9998
+48243	Texas	Jeff Davis	ypll_rate	
+48245	Texas	Jefferson	ypll_rate	9440
+48247	Texas	Jim Hogg	ypll_rate	7908
+48249	Texas	Jim Wells	ypll_rate	8743
+48251	Texas	Johnson	ypll_rate	7907
+48253	Texas	Jones	ypll_rate	8442
+48255	Texas	Karnes	ypll_rate	7224
+48257	Texas	Kaufman	ypll_rate	7605
+48259	Texas	Kendall	ypll_rate	5325
+48261	Texas	Kenedy	ypll_rate	
+48263	Texas	Kent	ypll_rate	
+48265	Texas	Kerr	ypll_rate	7880
+48267	Texas	Kimble	ypll_rate	12280
+48269	Texas	King	ypll_rate	
+48271	Texas	Kinney	ypll_rate	6039
+48273	Texas	Kleberg	ypll_rate	6664
+48275	Texas	Knox	ypll_rate	5193
+48277	Texas	Lamar	ypll_rate	9175
+48279	Texas	Lamb	ypll_rate	9632
+48281	Texas	Lampasas	ypll_rate	7270
+48283	Texas	La Salle	ypll_rate	7369
+48285	Texas	Lavaca	ypll_rate	6018
+48287	Texas	Lee	ypll_rate	6684
+48289	Texas	Leon	ypll_rate	9930
+48291	Texas	Liberty	ypll_rate	9967
+48293	Texas	Limestone	ypll_rate	10786
+48295	Texas	Lipscomb	ypll_rate	8372
+48297	Texas	Live Oak	ypll_rate	7727
+48299	Texas	Llano	ypll_rate	8867
+48301	Texas	Loving	ypll_rate	
+48303	Texas	Lubbock	ypll_rate	8190
+48305	Texas	Lynn	ypll_rate	9616
+48307	Texas	McCulloch	ypll_rate	9758
+48309	Texas	McLennan	ypll_rate	7883
+48311	Texas	McMullen	ypll_rate	
+48313	Texas	Madison	ypll_rate	7723
+48315	Texas	Marion	ypll_rate	10585
+48317	Texas	Martin	ypll_rate	10987
+48319	Texas	Mason	ypll_rate	7345
+48321	Texas	Matagorda	ypll_rate	7544
+48323	Texas	Maverick	ypll_rate	5762
+48325	Texas	Medina	ypll_rate	7272
+48327	Texas	Menard	ypll_rate	11232
+48329	Texas	Midland	ypll_rate	7115
+48331	Texas	Milam	ypll_rate	8199
+48333	Texas	Mills	ypll_rate	9542
+48335	Texas	Mitchell	ypll_rate	8524
+48337	Texas	Montague	ypll_rate	11031
+48339	Texas	Montgomery	ypll_rate	6483
+48341	Texas	Moore	ypll_rate	6926
+48343	Texas	Morris	ypll_rate	10962
+48345	Texas	Motley	ypll_rate	
+48347	Texas	Nacogdoches	ypll_rate	8860
+48349	Texas	Navarro	ypll_rate	8354
+48351	Texas	Newton	ypll_rate	11444
+48353	Texas	Nolan	ypll_rate	10132
+48355	Texas	Nueces	ypll_rate	7504
+48357	Texas	Ochiltree	ypll_rate	7154
+48359	Texas	Oldham	ypll_rate	
+48361	Texas	Orange	ypll_rate	10820
+48363	Texas	Palo Pinto	ypll_rate	9941
+48365	Texas	Panola	ypll_rate	8956
+48367	Texas	Parker	ypll_rate	7163
+48369	Texas	Parmer	ypll_rate	5162
+48371	Texas	Pecos	ypll_rate	6559
+48373	Texas	Polk	ypll_rate	13503
+48375	Texas	Potter	ypll_rate	10050
+48377	Texas	Presidio	ypll_rate	3136
+48379	Texas	Rains	ypll_rate	7715
+48381	Texas	Randall	ypll_rate	6700
+48383	Texas	Reagan	ypll_rate	10534
+48385	Texas	Real	ypll_rate	8574
+48387	Texas	Red River	ypll_rate	11560
+48389	Texas	Reeves	ypll_rate	8560
+48391	Texas	Refugio	ypll_rate	8698
+48393	Texas	Roberts	ypll_rate	
+48395	Texas	Robertson	ypll_rate	10389
+48397	Texas	Rockwall	ypll_rate	4659
+48399	Texas	Runnels	ypll_rate	8134
+48401	Texas	Rusk	ypll_rate	9205
+48403	Texas	Sabine	ypll_rate	11789
+48405	Texas	San Augustine	ypll_rate	15445
+48407	Texas	San Jacinto	ypll_rate	9893
+48409	Texas	San Patricio	ypll_rate	7760
+48411	Texas	San Saba	ypll_rate	6914
+48413	Texas	Schleicher	ypll_rate	
+48415	Texas	Scurry	ypll_rate	7865
+48417	Texas	Shackelford	ypll_rate	5427
+48419	Texas	Shelby	ypll_rate	12643
+48421	Texas	Sherman	ypll_rate	
+48423	Texas	Smith	ypll_rate	7664
+48425	Texas	Somervell	ypll_rate	9476
+48427	Texas	Starr	ypll_rate	6592
+48429	Texas	Stephens	ypll_rate	9797
+48431	Texas	Sterling	ypll_rate	
+48433	Texas	Stonewall	ypll_rate	
+48435	Texas	Sutton	ypll_rate	5517
+48437	Texas	Swisher	ypll_rate	6540
+48439	Texas	Tarrant	ypll_rate	6735
+48441	Texas	Taylor	ypll_rate	8870
+48443	Texas	Terrell	ypll_rate	
+48445	Texas	Terry	ypll_rate	8488
+48447	Texas	Throckmorton	ypll_rate	
+48449	Texas	Titus	ypll_rate	7758
+48451	Texas	Tom Green	ypll_rate	8003
+48453	Texas	Travis	ypll_rate	5392
+48455	Texas	Trinity	ypll_rate	8977
+48457	Texas	Tyler	ypll_rate	9380
+48459	Texas	Upshur	ypll_rate	10284
+48461	Texas	Upton	ypll_rate	7746
+48463	Texas	Uvalde	ypll_rate	6386
+48465	Texas	Val Verde	ypll_rate	6327
+48467	Texas	Van Zandt	ypll_rate	9806
+48469	Texas	Victoria	ypll_rate	7379
+48471	Texas	Walker	ypll_rate	7663
+48473	Texas	Waller	ypll_rate	7561
+48475	Texas	Ward	ypll_rate	9549
+48477	Texas	Washington	ypll_rate	6496
+48479	Texas	Webb	ypll_rate	6322
+48481	Texas	Wharton	ypll_rate	7969
+48483	Texas	Wheeler	ypll_rate	8344
+48485	Texas	Wichita	ypll_rate	9438
+48487	Texas	Wilbarger	ypll_rate	9553
+48489	Texas	Willacy	ypll_rate	5817
+48491	Texas	Williamson	ypll_rate	4462
+48493	Texas	Wilson	ypll_rate	7134
+48495	Texas	Winkler	ypll_rate	9946
+48497	Texas	Wise	ypll_rate	7486
+48499	Texas	Wood	ypll_rate	9651
+48501	Texas	Yoakum	ypll_rate	7356
+48503	Texas	Young	ypll_rate	10723
+48505	Texas	Zapata	ypll_rate	7267
+48507	Texas	Zavala	ypll_rate	7854
+49001	Utah	Beaver	ypll_rate	7991
+49003	Utah	Box Elder	ypll_rate	5931
+49005	Utah	Cache	ypll_rate	4114
+49007	Utah	Carbon	ypll_rate	8924
+49009	Utah	Daggett	ypll_rate	
+49011	Utah	Davis	ypll_rate	5264
+49013	Utah	Duchesne	ypll_rate	8969
+49015	Utah	Emery	ypll_rate	7346
+49017	Utah	Garfield	ypll_rate	5137
+49019	Utah	Grand	ypll_rate	8796
+49021	Utah	Iron	ypll_rate	6809
+49023	Utah	Juab	ypll_rate	9359
+49025	Utah	Kane	ypll_rate	6502
+49027	Utah	Millard	ypll_rate	5780
+49029	Utah	Morgan	ypll_rate	3682
+49031	Utah	Piute	ypll_rate	
+49033	Utah	Rich	ypll_rate	
+49035	Utah	Salt Lake	ypll_rate	6179
+49037	Utah	San Juan	ypll_rate	7193
+49039	Utah	Sanpete	ypll_rate	6697
+49041	Utah	Sevier	ypll_rate	8059
+49043	Utah	Summit	ypll_rate	4641
+49045	Utah	Tooele	ypll_rate	6616
+49047	Utah	Uintah	ypll_rate	8412
+49049	Utah	Utah	ypll_rate	4855
+49051	Utah	Wasatch	ypll_rate	4759
+49053	Utah	Washington	ypll_rate	6121
+49055	Utah	Wayne	ypll_rate	
+49057	Utah	Weber	ypll_rate	6490
+50001	Vermont	Addison	ypll_rate	5113
+50003	Vermont	Bennington	ypll_rate	6380
+50005	Vermont	Caledonia	ypll_rate	5450
+50007	Vermont	Chittenden	ypll_rate	4118
+50009	Vermont	Essex	ypll_rate	8589
+50011	Vermont	Franklin	ypll_rate	5302
+50013	Vermont	Grand Isle	ypll_rate	5660
+50015	Vermont	Lamoille	ypll_rate	6119
+50017	Vermont	Orange	ypll_rate	5828
+50019	Vermont	Orleans	ypll_rate	6849
+50021	Vermont	Rutland	ypll_rate	5931
+50023	Vermont	Washington	ypll_rate	5531
+50025	Vermont	Windham	ypll_rate	6177
+50027	Vermont	Windsor	ypll_rate	5594
+51001	Virginia	Accomack	ypll_rate	9240
+51003	Virginia	Albemarle	ypll_rate	4206
+51005	Virginia	Alleghany	ypll_rate	8481
+51007	Virginia	Amelia	ypll_rate	7026
+51009	Virginia	Amherst	ypll_rate	8407
+51011	Virginia	Appomattox	ypll_rate	7756
+51013	Virginia	Arlington	ypll_rate	3842
+51015	Virginia	Augusta	ypll_rate	6151
+51017	Virginia	Bath	ypll_rate	5758
+51019	Virginia	Bedford	ypll_rate	6760
+51021	Virginia	Bland	ypll_rate	8874
+51023	Virginia	Botetourt	ypll_rate	6060
+51025	Virginia	Brunswick	ypll_rate	9641
+51027	Virginia	Buchanan	ypll_rate	13001
+51029	Virginia	Buckingham	ypll_rate	7037
+51031	Virginia	Campbell	ypll_rate	6972
+51033	Virginia	Caroline	ypll_rate	7221
+51035	Virginia	Carroll	ypll_rate	8152
+51036	Virginia	Charles City	ypll_rate	10364
+51037	Virginia	Charlotte	ypll_rate	9073
+51041	Virginia	Chesterfield	ypll_rate	5478
+51043	Virginia	Clarke	ypll_rate	5862
+51045	Virginia	Craig	ypll_rate	7546
+51047	Virginia	Culpeper	ypll_rate	6480
+51049	Virginia	Cumberland	ypll_rate	7801
+51051	Virginia	Dickenson	ypll_rate	11685
+51053	Virginia	Dinwiddie	ypll_rate	8594
+51057	Virginia	Essex	ypll_rate	8368
+51059	Virginia	Fairfax	ypll_rate	3617
+51061	Virginia	Fauquier	ypll_rate	6577
+51063	Virginia	Floyd	ypll_rate	7640
+51065	Virginia	Fluvanna	ypll_rate	5619
+51067	Virginia	Franklin	ypll_rate	7817
+51069	Virginia	Frederick	ypll_rate	6047
+51071	Virginia	Giles	ypll_rate	8529
+51073	Virginia	Gloucester	ypll_rate	7485
+51075	Virginia	Goochland	ypll_rate	6013
+51077	Virginia	Grayson	ypll_rate	8387
+51079	Virginia	Greene	ypll_rate	5689
+51081	Virginia	Greensville	ypll_rate	8227
+51083	Virginia	Halifax	ypll_rate	9577
+51085	Virginia	Hanover	ypll_rate	5208
+51087	Virginia	Henrico	ypll_rate	6129
+51089	Virginia	Henry	ypll_rate	10581
+51091	Virginia	Highland	ypll_rate	
+51093	Virginia	Isle of Wight	ypll_rate	6296
+51095	Virginia	James City	ypll_rate	4819
+51097	Virginia	King and Queen	ypll_rate	7484
+51099	Virginia	King George	ypll_rate	6260
+51101	Virginia	King William	ypll_rate	7441
+51103	Virginia	Lancaster	ypll_rate	6649
+51105	Virginia	Lee	ypll_rate	9429
+51107	Virginia	Loudoun	ypll_rate	3290
+51109	Virginia	Louisa	ypll_rate	7560
+51111	Virginia	Lunenburg	ypll_rate	8754
+51113	Virginia	Madison	ypll_rate	6523
+51115	Virginia	Mathews	ypll_rate	5957
+51117	Virginia	Mecklenburg	ypll_rate	9415
+51119	Virginia	Middlesex	ypll_rate	7012
+51121	Virginia	Montgomery	ypll_rate	5589
+51125	Virginia	Nelson	ypll_rate	7907
+51127	Virginia	New Kent	ypll_rate	6840
+51131	Virginia	Northampton	ypll_rate	8292
+51133	Virginia	Northumberland	ypll_rate	7352
+51135	Virginia	Nottoway	ypll_rate	7758
+51137	Virginia	Orange	ypll_rate	7230
+51139	Virginia	Page	ypll_rate	7597
+51141	Virginia	Patrick	ypll_rate	8303
+51143	Virginia	Pittsylvania	ypll_rate	8434
+51145	Virginia	Powhatan	ypll_rate	5708
+51147	Virginia	Prince Edward	ypll_rate	7670
+51149	Virginia	Prince George	ypll_rate	5672
+51153	Virginia	Prince William	ypll_rate	4881
+51155	Virginia	Pulaski	ypll_rate	9635
+51157	Virginia	Rappahannock	ypll_rate	6741
+51159	Virginia	Richmond	ypll_rate	7603
+51161	Virginia	Roanoke	ypll_rate	5930
+51163	Virginia	Rockbridge	ypll_rate	6475
+51165	Virginia	Rockingham	ypll_rate	5354
+51167	Virginia	Russell	ypll_rate	10501
+51169	Virginia	Scott	ypll_rate	10984
+51171	Virginia	Shenandoah	ypll_rate	6218
+51173	Virginia	Smyth	ypll_rate	9523
+51175	Virginia	Southampton	ypll_rate	10266
+51177	Virginia	Spotsylvania	ypll_rate	6385
+51179	Virginia	Stafford	ypll_rate	5315
+51181	Virginia	Surry	ypll_rate	7071
+51183	Virginia	Sussex	ypll_rate	10691
+51185	Virginia	Tazewell	ypll_rate	13169
+51187	Virginia	Warren	ypll_rate	7634
+51191	Virginia	Washington	ypll_rate	8424
+51193	Virginia	Westmoreland	ypll_rate	9224
+51195	Virginia	Wise	ypll_rate	9440
+51197	Virginia	Wythe	ypll_rate	8616
+51199	Virginia	York	ypll_rate	4399
+51510	Virginia	Alexandria City	ypll_rate	5139
+51515	Virginia	Bedford City	ypll_rate	8890
+51520	Virginia	Bristol City	ypll_rate	8353
+51530	Virginia	Buena Vista City	ypll_rate	8893
+51540	Virginia	Charlottesville City	ypll_rate	7560
+51550	Virginia	Chesapeake City	ypll_rate	6534
+51570	Virginia	Colonial Heights City	ypll_rate	7288
+51580	Virginia	Covington City	ypll_rate	9111
+51590	Virginia	Danville City	ypll_rate	11189
+51595	Virginia	Emporia City	ypll_rate	11749
+51600	Virginia	Fairfax City	ypll_rate	8652
+51610	Virginia	Falls Church City	ypll_rate	5628
+51620	Virginia	Franklin City	ypll_rate	11253
+51630	Virginia	Fredericksburg City	ypll_rate	8500
+51640	Virginia	Galax City	ypll_rate	9128
+51650	Virginia	Hampton City	ypll_rate	8068
+51660	Virginia	Harrisonburg City	ypll_rate	6339
+51670	Virginia	Hopewell City	ypll_rate	10558
+51678	Virginia	Lexington City	ypll_rate	6362
+51680	Virginia	Lynchburg City	ypll_rate	6875
+51683	Virginia	Manassas City	ypll_rate	5509
+51685	Virginia	Manassas Park City	ypll_rate	4760
+51690	Virginia	Martinsville City	ypll_rate	12154
+51700	Virginia	Newport News City	ypll_rate	8005
+51710	Virginia	Norfolk City	ypll_rate	9491
+51720	Virginia	Norton City	ypll_rate	9181
+51730	Virginia	Petersburg City	ypll_rate	14478
+51735	Virginia	Poquoson City	ypll_rate	5196
+51740	Virginia	Portsmouth City	ypll_rate	10102
+51750	Virginia	Radford City	ypll_rate	7554
+51760	Virginia	Richmond City	ypll_rate	10902
+51770	Virginia	Roanoke City	ypll_rate	10179
+51775	Virginia	Salem City	ypll_rate	7975
+51790	Virginia	Staunton City	ypll_rate	7624
+51800	Virginia	Suffolk City	ypll_rate	7269
+51810	Virginia	Virginia Beach City	ypll_rate	5718
+51820	Virginia	Waynesboro City	ypll_rate	8185
+51830	Virginia	Williamsburg City	ypll_rate	8306
+51840	Virginia	Winchester City	ypll_rate	8474
+53001	Washington	Adams	ypll_rate	7210
+53003	Washington	Asotin	ypll_rate	6214
+53005	Washington	Benton	ypll_rate	5500
+53007	Washington	Chelan	ypll_rate	5029
+53009	Washington	Clallam	ypll_rate	7934
+53011	Washington	Clark	ypll_rate	5520
+53013	Washington	Columbia	ypll_rate	6880
+53015	Washington	Cowlitz	ypll_rate	7426
+53017	Washington	Douglas	ypll_rate	5628
+53019	Washington	Ferry	ypll_rate	10148
+53021	Washington	Franklin	ypll_rate	5680
+53023	Washington	Garfield	ypll_rate	
+53025	Washington	Grant	ypll_rate	6637
+53027	Washington	Grays Harbor	ypll_rate	8327
+53029	Washington	Island	ypll_rate	4549
+53031	Washington	Jefferson	ypll_rate	5583
+53033	Washington	King	ypll_rate	4736
+53035	Washington	Kitsap	ypll_rate	5786
+53037	Washington	Kittitas	ypll_rate	4135
+53039	Washington	Klickitat	ypll_rate	6888
+53041	Washington	Lewis	ypll_rate	6713
+53043	Washington	Lincoln	ypll_rate	8000
+53045	Washington	Mason	ypll_rate	7114
+53047	Washington	Okanogan	ypll_rate	8255
+53049	Washington	Pacific	ypll_rate	9609
+53051	Washington	Pend Oreille	ypll_rate	7850
+53053	Washington	Pierce	ypll_rate	6718
+53055	Washington	San Juan	ypll_rate	5088
+53057	Washington	Skagit	ypll_rate	6097
+53059	Washington	Skamania	ypll_rate	6963
+53061	Washington	Snohomish	ypll_rate	5235
+53063	Washington	Spokane	ypll_rate	6601
+53065	Washington	Stevens	ypll_rate	7968
+53067	Washington	Thurston	ypll_rate	5495
+53069	Washington	Wahkiakum	ypll_rate	5645
+53071	Washington	Walla Walla	ypll_rate	6148
+53073	Washington	Whatcom	ypll_rate	5118
+53075	Washington	Whitman	ypll_rate	4342
+53077	Washington	Yakima	ypll_rate	7679
+54001	West Virginia	Barbour	ypll_rate	8475
+54003	West Virginia	Berkeley	ypll_rate	8260
+54005	West Virginia	Boone	ypll_rate	12529
+54007	West Virginia	Braxton	ypll_rate	8850
+54009	West Virginia	Brooke	ypll_rate	8257
+54011	West Virginia	Cabell	ypll_rate	9970
+54013	West Virginia	Calhoun	ypll_rate	7732
+54015	West Virginia	Clay	ypll_rate	10118
+54017	West Virginia	Doddridge	ypll_rate	5856
+54019	West Virginia	Fayette	ypll_rate	12349
+54021	West Virginia	Gilmer	ypll_rate	7246
+54023	West Virginia	Grant	ypll_rate	8599
+54025	West Virginia	Greenbrier	ypll_rate	9267
+54027	West Virginia	Hampshire	ypll_rate	7692
+54029	West Virginia	Hancock	ypll_rate	8551
+54031	West Virginia	Hardy	ypll_rate	9051
+54033	West Virginia	Harrison	ypll_rate	9256
+54035	West Virginia	Jackson	ypll_rate	8673
+54037	West Virginia	Jefferson	ypll_rate	7397
+54039	West Virginia	Kanawha	ypll_rate	10125
+54041	West Virginia	Lewis	ypll_rate	10247
+54043	West Virginia	Lincoln	ypll_rate	11882
+54045	West Virginia	Logan	ypll_rate	12822
+54047	West Virginia	McDowell	ypll_rate	17644
+54049	West Virginia	Marion	ypll_rate	7934
+54051	West Virginia	Marshall	ypll_rate	7837
+54053	West Virginia	Mason	ypll_rate	10091
+54055	West Virginia	Mercer	ypll_rate	12084
+54057	West Virginia	Mineral	ypll_rate	8106
+54059	West Virginia	Mingo	ypll_rate	14657
+54061	West Virginia	Monongalia	ypll_rate	5761
+54063	West Virginia	Monroe	ypll_rate	9531
+54065	West Virginia	Morgan	ypll_rate	9287
+54067	West Virginia	Nicholas	ypll_rate	10313
+54069	West Virginia	Ohio	ypll_rate	8095
+54071	West Virginia	Pendleton	ypll_rate	6832
+54073	West Virginia	Pleasants	ypll_rate	6385
+54075	West Virginia	Pocahontas	ypll_rate	10145
+54077	West Virginia	Preston	ypll_rate	7926
+54079	West Virginia	Putnam	ypll_rate	7626
+54081	West Virginia	Raleigh	ypll_rate	10893
+54083	West Virginia	Randolph	ypll_rate	8259
+54085	West Virginia	Ritchie	ypll_rate	8070
+54087	West Virginia	Roane	ypll_rate	8443
+54089	West Virginia	Summers	ypll_rate	11496
+54091	West Virginia	Taylor	ypll_rate	8896
+54093	West Virginia	Tucker	ypll_rate	7714
+54095	West Virginia	Tyler	ypll_rate	8701
+54097	West Virginia	Upshur	ypll_rate	8086
+54099	West Virginia	Wayne	ypll_rate	10094
+54101	West Virginia	Webster	ypll_rate	10477
+54103	West Virginia	Wetzel	ypll_rate	8568
+54105	West Virginia	Wirt	ypll_rate	9844
+54107	West Virginia	Wood	ypll_rate	7944
+54109	West Virginia	Wyoming	ypll_rate	14864
+55001	Wisconsin	Adams	ypll_rate	7413
+55003	Wisconsin	Ashland	ypll_rate	6485
+55005	Wisconsin	Barron	ypll_rate	5553
+55007	Wisconsin	Bayfield	ypll_rate	6666
+55009	Wisconsin	Brown	ypll_rate	4922
+55011	Wisconsin	Buffalo	ypll_rate	5738
+55013	Wisconsin	Burnett	ypll_rate	6821
+55015	Wisconsin	Calumet	ypll_rate	4744
+55017	Wisconsin	Chippewa	ypll_rate	5900
+55019	Wisconsin	Clark	ypll_rate	6353
+55021	Wisconsin	Columbia	ypll_rate	5853
+55023	Wisconsin	Crawford	ypll_rate	6448
+55025	Wisconsin	Dane	ypll_rate	4627
+55027	Wisconsin	Dodge	ypll_rate	5941
+55029	Wisconsin	Door	ypll_rate	4995
+55031	Wisconsin	Douglas	ypll_rate	6423
+55033	Wisconsin	Dunn	ypll_rate	5138
+55035	Wisconsin	Eau Claire	ypll_rate	4773
+55037	Wisconsin	Florence	ypll_rate	4678
+55039	Wisconsin	Fond du Lac	ypll_rate	5359
+55041	Wisconsin	Forest	ypll_rate	7717
+55043	Wisconsin	Grant	ypll_rate	5450
+55045	Wisconsin	Green	ypll_rate	5101
+55047	Wisconsin	Green Lake	ypll_rate	7422
+55049	Wisconsin	Iowa	ypll_rate	5760
+55051	Wisconsin	Iron	ypll_rate	7257
+55053	Wisconsin	Jackson	ypll_rate	6074
+55055	Wisconsin	Jefferson	ypll_rate	5725
+55057	Wisconsin	Juneau	ypll_rate	6722
+55059	Wisconsin	Kenosha	ypll_rate	6676
+55061	Wisconsin	Kewaunee	ypll_rate	3692
+55063	Wisconsin	La Crosse	ypll_rate	5363
+55065	Wisconsin	Lafayette	ypll_rate	6664
+55067	Wisconsin	Langlade	ypll_rate	5795
+55069	Wisconsin	Lincoln	ypll_rate	6590
+55071	Wisconsin	Manitowoc	ypll_rate	5538
+55073	Wisconsin	Marathon	ypll_rate	5310
+55075	Wisconsin	Marinette	ypll_rate	6701
+55077	Wisconsin	Marquette	ypll_rate	8009
+55078	Wisconsin	Menominee	ypll_rate	15929
+55079	Wisconsin	Milwaukee	ypll_rate	8107
+55081	Wisconsin	Monroe	ypll_rate	6603
+55083	Wisconsin	Oconto	ypll_rate	6238
+55085	Wisconsin	Oneida	ypll_rate	6164
+55087	Wisconsin	Outagamie	ypll_rate	5016
+55089	Wisconsin	Ozaukee	ypll_rate	4182
+55091	Wisconsin	Pepin	ypll_rate	5081
+55093	Wisconsin	Pierce	ypll_rate	4194
+55095	Wisconsin	Polk	ypll_rate	6226
+55097	Wisconsin	Portage	ypll_rate	4715
+55099	Wisconsin	Price	ypll_rate	6324
+55101	Wisconsin	Racine	ypll_rate	6391
+55103	Wisconsin	Richland	ypll_rate	7252
+55105	Wisconsin	Rock	ypll_rate	6593
+55107	Wisconsin	Rusk	ypll_rate	7212
+55109	Wisconsin	St. Croix	ypll_rate	4836
+55111	Wisconsin	Sauk	ypll_rate	6588
+55113	Wisconsin	Sawyer	ypll_rate	6722
+55115	Wisconsin	Shawano	ypll_rate	6692
+55117	Wisconsin	Sheboygan	ypll_rate	5247
+55119	Wisconsin	Taylor	ypll_rate	4996
+55121	Wisconsin	Trempealeau	ypll_rate	5509
+55123	Wisconsin	Vernon	ypll_rate	5520
+55125	Wisconsin	Vilas	ypll_rate	7383
+55127	Wisconsin	Walworth	ypll_rate	5240
+55129	Wisconsin	Washburn	ypll_rate	6461
+55131	Wisconsin	Washington	ypll_rate	4912
+55133	Wisconsin	Waukesha	ypll_rate	4479
+55135	Wisconsin	Waupaca	ypll_rate	6132
+55137	Wisconsin	Waushara	ypll_rate	6879
+55139	Wisconsin	Winnebago	ypll_rate	5558
+55141	Wisconsin	Wood	ypll_rate	5233
+56001	Wyoming	Albany	ypll_rate	5279
+56003	Wyoming	Big Horn	ypll_rate	9568
+56005	Wyoming	Campbell	ypll_rate	7963
+56007	Wyoming	Carbon	ypll_rate	9341
+56009	Wyoming	Converse	ypll_rate	7054
+56011	Wyoming	Crook	ypll_rate	5385
+56013	Wyoming	Fremont	ypll_rate	11598
+56015	Wyoming	Goshen	ypll_rate	8160
+56017	Wyoming	Hot Springs	ypll_rate	9184
+56019	Wyoming	Johnson	ypll_rate	7163
+56021	Wyoming	Laramie	ypll_rate	7724
+56023	Wyoming	Lincoln	ypll_rate	7953
+56025	Wyoming	Natrona	ypll_rate	7851
+56027	Wyoming	Niobrara	ypll_rate	10720
+56029	Wyoming	Park	ypll_rate	6597
+56031	Wyoming	Platte	ypll_rate	7597
+56033	Wyoming	Sheridan	ypll_rate	7391
+56035	Wyoming	Sublette	ypll_rate	4482
+56037	Wyoming	Sweetwater	ypll_rate	7433
+56039	Wyoming	Teton	ypll_rate	4054
+56041	Wyoming	Uinta	ypll_rate	8171
+56043	Wyoming	Washakie	ypll_rate	6580
+56045	Wyoming	Weston	ypll_rate	5633

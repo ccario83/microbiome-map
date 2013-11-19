@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_diabetic
+1001	Alabama	Autauga	pcnt_diabetic	12
+1003	Alabama	Baldwin	pcnt_diabetic	11
+1005	Alabama	Barbour	pcnt_diabetic	14
+1007	Alabama	Bibb	pcnt_diabetic	12
+1009	Alabama	Blount	pcnt_diabetic	13
+1011	Alabama	Bullock	pcnt_diabetic	16
+1013	Alabama	Butler	pcnt_diabetic	17
+1015	Alabama	Calhoun	pcnt_diabetic	14
+1017	Alabama	Chambers	pcnt_diabetic	16
+1019	Alabama	Cherokee	pcnt_diabetic	13
+1021	Alabama	Chilton	pcnt_diabetic	12
+1023	Alabama	Choctaw	pcnt_diabetic	17
+1025	Alabama	Clarke	pcnt_diabetic	15
+1027	Alabama	Clay	pcnt_diabetic	15
+1029	Alabama	Cleburne	pcnt_diabetic	12
+1031	Alabama	Coffee	pcnt_diabetic	13
+1033	Alabama	Colbert	pcnt_diabetic	13
+1035	Alabama	Conecuh	pcnt_diabetic	17
+1037	Alabama	Coosa	pcnt_diabetic	15
+1039	Alabama	Covington	pcnt_diabetic	13
+1041	Alabama	Crenshaw	pcnt_diabetic	14
+1043	Alabama	Cullman	pcnt_diabetic	13
+1045	Alabama	Dale	pcnt_diabetic	13
+1047	Alabama	Dallas	pcnt_diabetic	16
+1049	Alabama	DeKalb	pcnt_diabetic	11
+1051	Alabama	Elmore	pcnt_diabetic	12
+1053	Alabama	Escambia	pcnt_diabetic	13
+1055	Alabama	Etowah	pcnt_diabetic	13
+1057	Alabama	Fayette	pcnt_diabetic	14
+1059	Alabama	Franklin	pcnt_diabetic	15
+1061	Alabama	Geneva	pcnt_diabetic	14
+1063	Alabama	Greene	pcnt_diabetic	19
+1065	Alabama	Hale	pcnt_diabetic	15
+1067	Alabama	Henry	pcnt_diabetic	15
+1069	Alabama	Houston	pcnt_diabetic	12
+1071	Alabama	Jackson	pcnt_diabetic	14
+1073	Alabama	Jefferson	pcnt_diabetic	12
+1075	Alabama	Lamar	pcnt_diabetic	13
+1077	Alabama	Lauderdale	pcnt_diabetic	14
+1079	Alabama	Lawrence	pcnt_diabetic	14
+1081	Alabama	Lee	pcnt_diabetic	10
+1083	Alabama	Limestone	pcnt_diabetic	10
+1085	Alabama	Lowndes	pcnt_diabetic	19
+1087	Alabama	Macon	pcnt_diabetic	16
+1089	Alabama	Madison	pcnt_diabetic	12
+1091	Alabama	Marengo	pcnt_diabetic	17
+1093	Alabama	Marion	pcnt_diabetic	12
+1095	Alabama	Marshall	pcnt_diabetic	12
+1097	Alabama	Mobile	pcnt_diabetic	12
+1099	Alabama	Monroe	pcnt_diabetic	14
+1101	Alabama	Montgomery	pcnt_diabetic	14
+1103	Alabama	Morgan	pcnt_diabetic	11
+1105	Alabama	Perry	pcnt_diabetic	20
+1107	Alabama	Pickens	pcnt_diabetic	16
+1109	Alabama	Pike	pcnt_diabetic	15
+1111	Alabama	Randolph	pcnt_diabetic	15
+1113	Alabama	Russell	pcnt_diabetic	13
+1115	Alabama	St. Clair	pcnt_diabetic	13
+1117	Alabama	Shelby	pcnt_diabetic	8
+1119	Alabama	Sumter	pcnt_diabetic	19
+1121	Alabama	Talladega	pcnt_diabetic	15
+1123	Alabama	Tallapoosa	pcnt_diabetic	14
+1125	Alabama	Tuscaloosa	pcnt_diabetic	12
+1127	Alabama	Walker	pcnt_diabetic	15
+1129	Alabama	Washington	pcnt_diabetic	13
+1131	Alabama	Wilcox	pcnt_diabetic	18
+1133	Alabama	Winston	pcnt_diabetic	12
+2013	Alaska	Aleutians East	pcnt_diabetic	6
+2016	Alaska	Aleutians West	pcnt_diabetic	6
+2020	Alaska	Anchorage	pcnt_diabetic	7
+2050	Alaska	Bethel	pcnt_diabetic	6
+2060	Alaska	Bristol Bay	pcnt_diabetic	7
+2068	Alaska	Denali	pcnt_diabetic	6
+2070	Alaska	Dillingham	pcnt_diabetic	8
+2090	Alaska	Fairbanks North Star	pcnt_diabetic	6
+2100	Alaska	Haines	pcnt_diabetic	8
+2110	Alaska	Juneau	pcnt_diabetic	6
+2122	Alaska	Kenai Peninsula	pcnt_diabetic	7
+2130	Alaska	Ketchikan Gateway	pcnt_diabetic	7
+2150	Alaska	Kodiak Island	pcnt_diabetic	6
+2164	Alaska	Lake and Peninsula	pcnt_diabetic	8
+2170	Alaska	Matanuska-Susitna	pcnt_diabetic	5
+2180	Alaska	Nome	pcnt_diabetic	7
+2185	Alaska	North Slope	pcnt_diabetic	7
+2188	Alaska	Northwest Arctic	pcnt_diabetic	6
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_diabetic	7
+2220	Alaska	Sitka	pcnt_diabetic	7
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_diabetic	8
+2240	Alaska	Southeast Fairbanks	pcnt_diabetic	6
+2261	Alaska	Valdez-Cordova	pcnt_diabetic	7
+2270	Alaska	Wade Hampton	pcnt_diabetic	6
+2280	Alaska	Wrangell-Petersburg	pcnt_diabetic	8
+2282	Alaska	Yakutat	pcnt_diabetic	8
+2290	Alaska	Yukon-Koyukuk	pcnt_diabetic	8
+4001	Arizona	Apache	pcnt_diabetic	14
+4003	Arizona	Cochise	pcnt_diabetic	9
+4005	Arizona	Coconino	pcnt_diabetic	7
+4007	Arizona	Gila	pcnt_diabetic	12
+4009	Arizona	Graham	pcnt_diabetic	10
+4011	Arizona	Greenlee	pcnt_diabetic	9
+4012	Arizona	La Paz	pcnt_diabetic	13
+4013	Arizona	Maricopa	pcnt_diabetic	8
+4015	Arizona	Mohave	pcnt_diabetic	12
+4017	Arizona	Navajo	pcnt_diabetic	14
+4019	Arizona	Pima	pcnt_diabetic	8
+4021	Arizona	Pinal	pcnt_diabetic	10
+4023	Arizona	Santa Cruz	pcnt_diabetic	7
+4025	Arizona	Yavapai	pcnt_diabetic	9
+4027	Arizona	Yuma	pcnt_diabetic	10
+5001	Arkansas	Arkansas	pcnt_diabetic	13
+5003	Arkansas	Ashley	pcnt_diabetic	12
+5005	Arkansas	Baxter	pcnt_diabetic	11
+5007	Arkansas	Benton	pcnt_diabetic	7
+5009	Arkansas	Boone	pcnt_diabetic	12
+5011	Arkansas	Bradley	pcnt_diabetic	14
+5013	Arkansas	Calhoun	pcnt_diabetic	13
+5015	Arkansas	Carroll	pcnt_diabetic	11
+5017	Arkansas	Chicot	pcnt_diabetic	15
+5019	Arkansas	Clark	pcnt_diabetic	11
+5021	Arkansas	Clay	pcnt_diabetic	13
+5023	Arkansas	Cleburne	pcnt_diabetic	13
+5025	Arkansas	Cleveland	pcnt_diabetic	12
+5027	Arkansas	Columbia	pcnt_diabetic	13
+5029	Arkansas	Conway	pcnt_diabetic	12
+5031	Arkansas	Craighead	pcnt_diabetic	11
+5033	Arkansas	Crawford	pcnt_diabetic	9
+5035	Arkansas	Crittenden	pcnt_diabetic	14
+5037	Arkansas	Cross	pcnt_diabetic	12
+5039	Arkansas	Dallas	pcnt_diabetic	13
+5041	Arkansas	Desha	pcnt_diabetic	14
+5043	Arkansas	Drew	pcnt_diabetic	12
+5045	Arkansas	Faulkner	pcnt_diabetic	10
+5047	Arkansas	Franklin	pcnt_diabetic	12
+5049	Arkansas	Fulton	pcnt_diabetic	12
+5051	Arkansas	Garland	pcnt_diabetic	11
+5053	Arkansas	Grant	pcnt_diabetic	10
+5055	Arkansas	Greene	pcnt_diabetic	11
+5057	Arkansas	Hempstead	pcnt_diabetic	13
+5059	Arkansas	Hot Spring	pcnt_diabetic	11
+5061	Arkansas	Howard	pcnt_diabetic	13
+5063	Arkansas	Independence	pcnt_diabetic	12
+5065	Arkansas	Izard	pcnt_diabetic	10
+5067	Arkansas	Jackson	pcnt_diabetic	12
+5069	Arkansas	Jefferson	pcnt_diabetic	14
+5071	Arkansas	Johnson	pcnt_diabetic	11
+5073	Arkansas	Lafayette	pcnt_diabetic	13
+5075	Arkansas	Lawrence	pcnt_diabetic	13
+5077	Arkansas	Lee	pcnt_diabetic	13
+5079	Arkansas	Lincoln	pcnt_diabetic	11
+5081	Arkansas	Little River	pcnt_diabetic	12
+5083	Arkansas	Logan	pcnt_diabetic	12
+5085	Arkansas	Lonoke	pcnt_diabetic	11
+5087	Arkansas	Madison	pcnt_diabetic	12
+5089	Arkansas	Marion	pcnt_diabetic	14
+5091	Arkansas	Miller	pcnt_diabetic	13
+5093	Arkansas	Mississippi	pcnt_diabetic	13
+5095	Arkansas	Monroe	pcnt_diabetic	14
+5097	Arkansas	Montgomery	pcnt_diabetic	12
+5099	Arkansas	Nevada	pcnt_diabetic	14
+5101	Arkansas	Newton	pcnt_diabetic	13
+5103	Arkansas	Ouachita	pcnt_diabetic	14
+5105	Arkansas	Perry	pcnt_diabetic	12
+5107	Arkansas	Phillips	pcnt_diabetic	15
+5109	Arkansas	Pike	pcnt_diabetic	12
+5111	Arkansas	Poinsett	pcnt_diabetic	12
+5113	Arkansas	Polk	pcnt_diabetic	11
+5115	Arkansas	Pope	pcnt_diabetic	10
+5117	Arkansas	Prairie	pcnt_diabetic	11
+5119	Arkansas	Pulaski	pcnt_diabetic	11
+5121	Arkansas	Randolph	pcnt_diabetic	13
+5123	Arkansas	St. Francis	pcnt_diabetic	13
+5125	Arkansas	Saline	pcnt_diabetic	11
+5127	Arkansas	Scott	pcnt_diabetic	11
+5129	Arkansas	Searcy	pcnt_diabetic	13
+5131	Arkansas	Sebastian	pcnt_diabetic	10
+5133	Arkansas	Sevier	pcnt_diabetic	12
+5135	Arkansas	Sharp	pcnt_diabetic	12
+5137	Arkansas	Stone	pcnt_diabetic	12
+5139	Arkansas	Union	pcnt_diabetic	12
+5141	Arkansas	Van Buren	pcnt_diabetic	12
+5143	Arkansas	Washington	pcnt_diabetic	9
+5145	Arkansas	White	pcnt_diabetic	10
+5147	Arkansas	Woodruff	pcnt_diabetic	13
+5149	Arkansas	Yell	pcnt_diabetic	13
+6001	California	Alameda	pcnt_diabetic	7
+6003	California	Alpine	pcnt_diabetic	9
+6005	California	Amador	pcnt_diabetic	10
+6007	California	Butte	pcnt_diabetic	9
+6009	California	Calaveras	pcnt_diabetic	9
+6011	California	Colusa	pcnt_diabetic	8
+6013	California	Contra Costa	pcnt_diabetic	7
+6015	California	Del Norte	pcnt_diabetic	8
+6017	California	El Dorado	pcnt_diabetic	8
+6019	California	Fresno	pcnt_diabetic	9
+6021	California	Glenn	pcnt_diabetic	8
+6023	California	Humboldt	pcnt_diabetic	9
+6025	California	Imperial	pcnt_diabetic	7
+6027	California	Inyo	pcnt_diabetic	9
+6029	California	Kern	pcnt_diabetic	8
+6031	California	Kings	pcnt_diabetic	7
+6033	California	Lake	pcnt_diabetic	10
+6035	California	Lassen	pcnt_diabetic	7
+6037	California	Los Angeles	pcnt_diabetic	8
+6039	California	Madera	pcnt_diabetic	9
+6041	California	Marin	pcnt_diabetic	6
+6043	California	Mariposa	pcnt_diabetic	9
+6045	California	Mendocino	pcnt_diabetic	7
+6047	California	Merced	pcnt_diabetic	7
+6049	California	Modoc	pcnt_diabetic	9
+6051	California	Mono	pcnt_diabetic	7
+6053	California	Monterey	pcnt_diabetic	7
+6055	California	Napa	pcnt_diabetic	7
+6057	California	Nevada	pcnt_diabetic	7
+6059	California	Orange	pcnt_diabetic	7
+6061	California	Placer	pcnt_diabetic	8
+6063	California	Plumas	pcnt_diabetic	9
+6065	California	Riverside	pcnt_diabetic	9
+6067	California	Sacramento	pcnt_diabetic	8
+6069	California	San Benito	pcnt_diabetic	7
+6071	California	San Bernardino	pcnt_diabetic	8
+6073	California	San Diego	pcnt_diabetic	7
+6075	California	San Francisco	pcnt_diabetic	7
+6077	California	San Joaquin	pcnt_diabetic	9
+6079	California	San Luis Obispo	pcnt_diabetic	7
+6081	California	San Mateo	pcnt_diabetic	7
+6083	California	Santa Barbara	pcnt_diabetic	7
+6085	California	Santa Clara	pcnt_diabetic	7
+6087	California	Santa Cruz	pcnt_diabetic	6
+6089	California	Shasta	pcnt_diabetic	8
+6091	California	Sierra	pcnt_diabetic	9
+6093	California	Siskiyou	pcnt_diabetic	9
+6095	California	Solano	pcnt_diabetic	10
+6097	California	Sonoma	pcnt_diabetic	7
+6099	California	Stanislaus	pcnt_diabetic	8
+6101	California	Sutter	pcnt_diabetic	8
+6103	California	Tehama	pcnt_diabetic	10
+6105	California	Trinity	pcnt_diabetic	10
+6107	California	Tulare	pcnt_diabetic	8
+6109	California	Tuolumne	pcnt_diabetic	8
+6111	California	Ventura	pcnt_diabetic	7
+6113	California	Yolo	pcnt_diabetic	7
+6115	California	Yuba	pcnt_diabetic	7
+8001	Colorado	Adams	pcnt_diabetic	6
+8003	Colorado	Alamosa	pcnt_diabetic	7
+8005	Colorado	Arapahoe	pcnt_diabetic	6
+8007	Colorado	Archuleta	pcnt_diabetic	6
+8009	Colorado	Baca	pcnt_diabetic	8
+8011	Colorado	Bent	pcnt_diabetic	6
+8013	Colorado	Boulder	pcnt_diabetic	4
+8014	Colorado	Broomfield	pcnt_diabetic	5
+8015	Colorado	Chaffee	pcnt_diabetic	6
+8017	Colorado	Cheyenne	pcnt_diabetic	7
+8019	Colorado	Clear Creek	pcnt_diabetic	5
+8021	Colorado	Conejos	pcnt_diabetic	6
+8023	Colorado	Costilla	pcnt_diabetic	8
+8025	Colorado	Crowley	pcnt_diabetic	5
+8027	Colorado	Custer	pcnt_diabetic	7
+8029	Colorado	Delta	pcnt_diabetic	7
+8031	Colorado	Denver	pcnt_diabetic	6
+8033	Colorado	Dolores	pcnt_diabetic	6
+8035	Colorado	Douglas	pcnt_diabetic	4
+8037	Colorado	Eagle	pcnt_diabetic	3
+8039	Colorado	Elbert	pcnt_diabetic	5
+8041	Colorado	El Paso	pcnt_diabetic	6
+8043	Colorado	Fremont	pcnt_diabetic	8
+8045	Colorado	Garfield	pcnt_diabetic	5
+8047	Colorado	Gilpin	pcnt_diabetic	6
+8049	Colorado	Grand	pcnt_diabetic	5
+8051	Colorado	Gunnison	pcnt_diabetic	4
+8053	Colorado	Hinsdale	pcnt_diabetic	7
+8055	Colorado	Huerfano	pcnt_diabetic	7
+8057	Colorado	Jackson	pcnt_diabetic	7
+8059	Colorado	Jefferson	pcnt_diabetic	6
+8061	Colorado	Kiowa	pcnt_diabetic	7
+8063	Colorado	Kit Carson	pcnt_diabetic	6
+8065	Colorado	Lake	pcnt_diabetic	4
+8067	Colorado	La Plata	pcnt_diabetic	5
+8069	Colorado	Larimer	pcnt_diabetic	5
+8071	Colorado	Las Animas	pcnt_diabetic	8
+8073	Colorado	Lincoln	pcnt_diabetic	7
+8075	Colorado	Logan	pcnt_diabetic	6
+8077	Colorado	Mesa	pcnt_diabetic	6
+8079	Colorado	Mineral	pcnt_diabetic	7
+8081	Colorado	Moffat	pcnt_diabetic	6
+8083	Colorado	Montezuma	pcnt_diabetic	7
+8085	Colorado	Montrose	pcnt_diabetic	6
+8087	Colorado	Morgan	pcnt_diabetic	7
+8089	Colorado	Otero	pcnt_diabetic	8
+8091	Colorado	Ouray	pcnt_diabetic	7
+8093	Colorado	Park	pcnt_diabetic	6
+8095	Colorado	Phillips	pcnt_diabetic	7
+8097	Colorado	Pitkin	pcnt_diabetic	5
+8099	Colorado	Prowers	pcnt_diabetic	7
+8101	Colorado	Pueblo	pcnt_diabetic	8
+8103	Colorado	Rio Blanco	pcnt_diabetic	6
+8105	Colorado	Rio Grande	pcnt_diabetic	7
+8107	Colorado	Routt	pcnt_diabetic	3
+8109	Colorado	Saguache	pcnt_diabetic	5
+8111	Colorado	San Juan	pcnt_diabetic	6
+8113	Colorado	San Miguel	pcnt_diabetic	4
+8115	Colorado	Sedgwick	pcnt_diabetic	7
+8117	Colorado	Summit	pcnt_diabetic	4
+8119	Colorado	Teller	pcnt_diabetic	7
+8121	Colorado	Washington	pcnt_diabetic	8
+8123	Colorado	Weld	pcnt_diabetic	6
+8125	Colorado	Yuma	pcnt_diabetic	6
+9001	Connecticut	Fairfield	pcnt_diabetic	6
+9003	Connecticut	Hartford	pcnt_diabetic	8
+9005	Connecticut	Litchfield	pcnt_diabetic	7
+9007	Connecticut	Middlesex	pcnt_diabetic	7
+9009	Connecticut	New Haven	pcnt_diabetic	9
+9011	Connecticut	New London	pcnt_diabetic	8
+9013	Connecticut	Tolland	pcnt_diabetic	7
+9015	Connecticut	Windham	pcnt_diabetic	9
+10001	Delaware	Kent	pcnt_diabetic	12
+10003	Delaware	New Castle	pcnt_diabetic	8
+10005	Delaware	Sussex	pcnt_diabetic	12
+11001	District of Columbia	District of Columbia	pcnt_diabetic	8
+12001	Florida	Alachua	pcnt_diabetic	8
+12003	Florida	Baker	pcnt_diabetic	13
+12005	Florida	Bay	pcnt_diabetic	10
+12007	Florida	Bradford	pcnt_diabetic	12
+12009	Florida	Brevard	pcnt_diabetic	12
+12011	Florida	Broward	pcnt_diabetic	9
+12013	Florida	Calhoun	pcnt_diabetic	12
+12015	Florida	Charlotte	pcnt_diabetic	13
+12017	Florida	Citrus	pcnt_diabetic	14
+12019	Florida	Clay	pcnt_diabetic	11
+12021	Florida	Collier	pcnt_diabetic	10
+12023	Florida	Columbia	pcnt_diabetic	12
+12027	Florida	DeSoto	pcnt_diabetic	12
+12029	Florida	Dixie	pcnt_diabetic	13
+12031	Florida	Duval	pcnt_diabetic	11
+12033	Florida	Escambia	pcnt_diabetic	12
+12035	Florida	Flagler	pcnt_diabetic	12
+12037	Florida	Franklin	pcnt_diabetic	10
+12039	Florida	Gadsden	pcnt_diabetic	13
+12041	Florida	Gilchrist	pcnt_diabetic	11
+12043	Florida	Glades	pcnt_diabetic	12
+12045	Florida	Gulf	pcnt_diabetic	11
+12047	Florida	Hamilton	pcnt_diabetic	14
+12049	Florida	Hardee	pcnt_diabetic	12
+12051	Florida	Hendry	pcnt_diabetic	10
+12053	Florida	Hernando	pcnt_diabetic	11
+12055	Florida	Highlands	pcnt_diabetic	13
+12057	Florida	Hillsborough	pcnt_diabetic	10
+12059	Florida	Holmes	pcnt_diabetic	14
+12061	Florida	Indian River	pcnt_diabetic	11
+12063	Florida	Jackson	pcnt_diabetic	13
+12065	Florida	Jefferson	pcnt_diabetic	13
+12067	Florida	Lafayette	pcnt_diabetic	11
+12069	Florida	Lake	pcnt_diabetic	12
+12071	Florida	Lee	pcnt_diabetic	11
+12073	Florida	Leon	pcnt_diabetic	9
+12075	Florida	Levy	pcnt_diabetic	13
+12077	Florida	Liberty	pcnt_diabetic	11
+12079	Florida	Madison	pcnt_diabetic	14
+12081	Florida	Manatee	pcnt_diabetic	11
+12083	Florida	Marion	pcnt_diabetic	13
+12085	Florida	Martin	pcnt_diabetic	8
+12086	Florida	Miami-Dade	pcnt_diabetic	9
+12087	Florida	Monroe	pcnt_diabetic	7
+12089	Florida	Nassau	pcnt_diabetic	10
+12091	Florida	Okaloosa	pcnt_diabetic	10
+12093	Florida	Okeechobee	pcnt_diabetic	10
+12095	Florida	Orange	pcnt_diabetic	9
+12097	Florida	Osceola	pcnt_diabetic	10
+12099	Florida	Palm Beach	pcnt_diabetic	10
+12101	Florida	Pasco	pcnt_diabetic	11
+12103	Florida	Pinellas	pcnt_diabetic	10
+12105	Florida	Polk	pcnt_diabetic	12
+12107	Florida	Putnam	pcnt_diabetic	14
+12109	Florida	St. Johns	pcnt_diabetic	9
+12111	Florida	St. Lucie	pcnt_diabetic	13
+12113	Florida	Santa Rosa	pcnt_diabetic	11
+12115	Florida	Sarasota	pcnt_diabetic	10
+12117	Florida	Seminole	pcnt_diabetic	11
+12119	Florida	Sumter	pcnt_diabetic	12
+12121	Florida	Suwannee	pcnt_diabetic	12
+12123	Florida	Taylor	pcnt_diabetic	12
+12125	Florida	Union	pcnt_diabetic	12
+12127	Florida	Volusia	pcnt_diabetic	12
+12129	Florida	Wakulla	pcnt_diabetic	11
+12131	Florida	Walton	pcnt_diabetic	11
+12133	Florida	Washington	pcnt_diabetic	13
+13001	Georgia	Appling	pcnt_diabetic	12
+13003	Georgia	Atkinson	pcnt_diabetic	10
+13005	Georgia	Bacon	pcnt_diabetic	11
+13007	Georgia	Baker	pcnt_diabetic	13
+13009	Georgia	Baldwin	pcnt_diabetic	12
+13011	Georgia	Banks	pcnt_diabetic	10
+13013	Georgia	Barrow	pcnt_diabetic	10
+13015	Georgia	Bartow	pcnt_diabetic	9
+13017	Georgia	Ben Hill	pcnt_diabetic	13
+13019	Georgia	Berrien	pcnt_diabetic	11
+13021	Georgia	Bibb	pcnt_diabetic	13
+13023	Georgia	Bleckley	pcnt_diabetic	12
+13025	Georgia	Brantley	pcnt_diabetic	10
+13027	Georgia	Brooks	pcnt_diabetic	14
+13029	Georgia	Bryan	pcnt_diabetic	9
+13031	Georgia	Bulloch	pcnt_diabetic	11
+13033	Georgia	Burke	pcnt_diabetic	12
+13035	Georgia	Butts	pcnt_diabetic	12
+13037	Georgia	Calhoun	pcnt_diabetic	13
+13039	Georgia	Camden	pcnt_diabetic	11
+13043	Georgia	Candler	pcnt_diabetic	11
+13045	Georgia	Carroll	pcnt_diabetic	13
+13047	Georgia	Catoosa	pcnt_diabetic	11
+13049	Georgia	Charlton	pcnt_diabetic	11
+13051	Georgia	Chatham	pcnt_diabetic	11
+13053	Georgia	Chattahoochee	pcnt_diabetic	7
+13055	Georgia	Chattooga	pcnt_diabetic	11
+13057	Georgia	Cherokee	pcnt_diabetic	7
+13059	Georgia	Clarke	pcnt_diabetic	9
+13061	Georgia	Clay	pcnt_diabetic	17
+13063	Georgia	Clayton	pcnt_diabetic	11
+13065	Georgia	Clinch	pcnt_diabetic	12
+13067	Georgia	Cobb	pcnt_diabetic	9
+13069	Georgia	Coffee	pcnt_diabetic	11
+13071	Georgia	Colquitt	pcnt_diabetic	12
+13073	Georgia	Columbia	pcnt_diabetic	10
+13075	Georgia	Cook	pcnt_diabetic	13
+13077	Georgia	Coweta	pcnt_diabetic	10
+13079	Georgia	Crawford	pcnt_diabetic	11
+13081	Georgia	Crisp	pcnt_diabetic	13
+13083	Georgia	Dade	pcnt_diabetic	11
+13085	Georgia	Dawson	pcnt_diabetic	10
+13087	Georgia	Decatur	pcnt_diabetic	13
+13089	Georgia	DeKalb	pcnt_diabetic	9
+13091	Georgia	Dodge	pcnt_diabetic	13
+13093	Georgia	Dooly	pcnt_diabetic	12
+13095	Georgia	Dougherty	pcnt_diabetic	14
+13097	Georgia	Douglas	pcnt_diabetic	10
+13099	Georgia	Early	pcnt_diabetic	14
+13101	Georgia	Echols	pcnt_diabetic	9
+13103	Georgia	Effingham	pcnt_diabetic	10
+13105	Georgia	Elbert	pcnt_diabetic	14
+13107	Georgia	Emanuel	pcnt_diabetic	12
+13109	Georgia	Evans	pcnt_diabetic	13
+13111	Georgia	Fannin	pcnt_diabetic	13
+13113	Georgia	Fayette	pcnt_diabetic	11
+13115	Georgia	Floyd	pcnt_diabetic	10
+13117	Georgia	Forsyth	pcnt_diabetic	9
+13119	Georgia	Franklin	pcnt_diabetic	11
+13121	Georgia	Fulton	pcnt_diabetic	8
+13123	Georgia	Gilmer	pcnt_diabetic	12
+13125	Georgia	Glascock	pcnt_diabetic	12
+13127	Georgia	Glynn	pcnt_diabetic	11
+13129	Georgia	Gordon	pcnt_diabetic	10
+13131	Georgia	Grady	pcnt_diabetic	13
+13133	Georgia	Greene	pcnt_diabetic	15
+13135	Georgia	Gwinnett	pcnt_diabetic	8
+13137	Georgia	Habersham	pcnt_diabetic	10
+13139	Georgia	Hall	pcnt_diabetic	10
+13141	Georgia	Hancock	pcnt_diabetic	16
+13143	Georgia	Haralson	pcnt_diabetic	11
+13145	Georgia	Harris	pcnt_diabetic	12
+13147	Georgia	Hart	pcnt_diabetic	11
+13149	Georgia	Heard	pcnt_diabetic	11
+13151	Georgia	Henry	pcnt_diabetic	10
+13153	Georgia	Houston	pcnt_diabetic	11
+13155	Georgia	Irwin	pcnt_diabetic	12
+13157	Georgia	Jackson	pcnt_diabetic	11
+13159	Georgia	Jasper	pcnt_diabetic	12
+13161	Georgia	Jeff Davis	pcnt_diabetic	11
+13163	Georgia	Jefferson	pcnt_diabetic	14
+13165	Georgia	Jenkins	pcnt_diabetic	13
+13167	Georgia	Johnson	pcnt_diabetic	13
+13169	Georgia	Jones	pcnt_diabetic	11
+13171	Georgia	Lamar	pcnt_diabetic	12
+13173	Georgia	Lanier	pcnt_diabetic	12
+13175	Georgia	Laurens	pcnt_diabetic	13
+13177	Georgia	Lee	pcnt_diabetic	9
+13179	Georgia	Liberty	pcnt_diabetic	11
+13181	Georgia	Lincoln	pcnt_diabetic	14
+13183	Georgia	Long	pcnt_diabetic	10
+13185	Georgia	Lowndes	pcnt_diabetic	11
+13187	Georgia	Lumpkin	pcnt_diabetic	9
+13189	Georgia	McDuffie	pcnt_diabetic	13
+13191	Georgia	McIntosh	pcnt_diabetic	13
+13193	Georgia	Macon	pcnt_diabetic	15
+13195	Georgia	Madison	pcnt_diabetic	11
+13197	Georgia	Marion	pcnt_diabetic	12
+13199	Georgia	Meriwether	pcnt_diabetic	14
+13201	Georgia	Miller	pcnt_diabetic	15
+13205	Georgia	Mitchell	pcnt_diabetic	12
+13207	Georgia	Monroe	pcnt_diabetic	11
+13209	Georgia	Montgomery	pcnt_diabetic	11
+13211	Georgia	Morgan	pcnt_diabetic	13
+13213	Georgia	Murray	pcnt_diabetic	11
+13215	Georgia	Muscogee	pcnt_diabetic	13
+13217	Georgia	Newton	pcnt_diabetic	11
+13219	Georgia	Oconee	pcnt_diabetic	9
+13221	Georgia	Oglethorpe	pcnt_diabetic	11
+13223	Georgia	Paulding	pcnt_diabetic	10
+13225	Georgia	Peach	pcnt_diabetic	13
+13227	Georgia	Pickens	pcnt_diabetic	12
+13229	Georgia	Pierce	pcnt_diabetic	12
+13231	Georgia	Pike	pcnt_diabetic	11
+13233	Georgia	Polk	pcnt_diabetic	12
+13235	Georgia	Pulaski	pcnt_diabetic	11
+13237	Georgia	Putnam	pcnt_diabetic	14
+13239	Georgia	Quitman	pcnt_diabetic	15
+13241	Georgia	Rabun	pcnt_diabetic	12
+13243	Georgia	Randolph	pcnt_diabetic	16
+13245	Georgia	Richmond	pcnt_diabetic	12
+13247	Georgia	Rockdale	pcnt_diabetic	11
+13249	Georgia	Schley	pcnt_diabetic	12
+13251	Georgia	Screven	pcnt_diabetic	13
+13253	Georgia	Seminole	pcnt_diabetic	14
+13255	Georgia	Spalding	pcnt_diabetic	12
+13257	Georgia	Stephens	pcnt_diabetic	12
+13259	Georgia	Stewart	pcnt_diabetic	17
+13261	Georgia	Sumter	pcnt_diabetic	14
+13263	Georgia	Talbot	pcnt_diabetic	16
+13265	Georgia	Taliaferro	pcnt_diabetic	16
+13267	Georgia	Tattnall	pcnt_diabetic	10
+13269	Georgia	Taylor	pcnt_diabetic	14
+13271	Georgia	Telfair	pcnt_diabetic	12
+13273	Georgia	Terrell	pcnt_diabetic	14
+13275	Georgia	Thomas	pcnt_diabetic	14
+13277	Georgia	Tift	pcnt_diabetic	13
+13279	Georgia	Toombs	pcnt_diabetic	13
+13281	Georgia	Towns	pcnt_diabetic	13
+13283	Georgia	Treutlen	pcnt_diabetic	12
+13285	Georgia	Troup	pcnt_diabetic	13
+13287	Georgia	Turner	pcnt_diabetic	14
+13289	Georgia	Twiggs	pcnt_diabetic	14
+13291	Georgia	Union	pcnt_diabetic	13
+13293	Georgia	Upson	pcnt_diabetic	13
+13295	Georgia	Walker	pcnt_diabetic	11
+13297	Georgia	Walton	pcnt_diabetic	11
+13299	Georgia	Ware	pcnt_diabetic	14
+13301	Georgia	Warren	pcnt_diabetic	15
+13303	Georgia	Washington	pcnt_diabetic	14
+13305	Georgia	Wayne	pcnt_diabetic	10
+13307	Georgia	Webster	pcnt_diabetic	14
+13309	Georgia	Wheeler	pcnt_diabetic	10
+13311	Georgia	White	pcnt_diabetic	11
+13313	Georgia	Whitfield	pcnt_diabetic	11
+13315	Georgia	Wilcox	pcnt_diabetic	11
+13317	Georgia	Wilkes	pcnt_diabetic	15
+13319	Georgia	Wilkinson	pcnt_diabetic	14
+13321	Georgia	Worth	pcnt_diabetic	12
+15001	Hawaii	Hawaii	pcnt_diabetic	8
+15003	Hawaii	Honolulu	pcnt_diabetic	9
+15005	Hawaii	Kalawao	pcnt_diabetic	9
+15007	Hawaii	Kauai	pcnt_diabetic	9
+15009	Hawaii	Maui	pcnt_diabetic	8
+16001	Idaho	Ada	pcnt_diabetic	7
+16003	Idaho	Adams	pcnt_diabetic	10
+16005	Idaho	Bannock	pcnt_diabetic	9
+16007	Idaho	Bear Lake	pcnt_diabetic	9
+16009	Idaho	Benewah	pcnt_diabetic	11
+16011	Idaho	Bingham	pcnt_diabetic	12
+16013	Idaho	Blaine	pcnt_diabetic	6
+16015	Idaho	Boise	pcnt_diabetic	9
+16017	Idaho	Bonner	pcnt_diabetic	8
+16019	Idaho	Bonneville	pcnt_diabetic	9
+16021	Idaho	Boundary	pcnt_diabetic	9
+16023	Idaho	Butte	pcnt_diabetic	10
+16025	Idaho	Camas	pcnt_diabetic	8
+16027	Idaho	Canyon	pcnt_diabetic	8
+16029	Idaho	Caribou	pcnt_diabetic	8
+16031	Idaho	Cassia	pcnt_diabetic	10
+16033	Idaho	Clark	pcnt_diabetic	8
+16035	Idaho	Clearwater	pcnt_diabetic	10
+16037	Idaho	Custer	pcnt_diabetic	9
+16039	Idaho	Elmore	pcnt_diabetic	7
+16041	Idaho	Franklin	pcnt_diabetic	9
+16043	Idaho	Fremont	pcnt_diabetic	9
+16045	Idaho	Gem	pcnt_diabetic	9
+16047	Idaho	Gooding	pcnt_diabetic	9
+16049	Idaho	Idaho	pcnt_diabetic	10
+16051	Idaho	Jefferson	pcnt_diabetic	8
+16053	Idaho	Jerome	pcnt_diabetic	9
+16055	Idaho	Kootenai	pcnt_diabetic	8
+16057	Idaho	Latah	pcnt_diabetic	7
+16059	Idaho	Lemhi	pcnt_diabetic	10
+16061	Idaho	Lewis	pcnt_diabetic	11
+16063	Idaho	Lincoln	pcnt_diabetic	8
+16065	Idaho	Madison	pcnt_diabetic	6
+16067	Idaho	Minidoka	pcnt_diabetic	11
+16069	Idaho	Nez Perce	pcnt_diabetic	11
+16071	Idaho	Oneida	pcnt_diabetic	9
+16073	Idaho	Owyhee	pcnt_diabetic	10
+16075	Idaho	Payette	pcnt_diabetic	9
+16077	Idaho	Power	pcnt_diabetic	8
+16079	Idaho	Shoshone	pcnt_diabetic	10
+16081	Idaho	Teton	pcnt_diabetic	7
+16083	Idaho	Twin Falls	pcnt_diabetic	9
+16085	Idaho	Valley	pcnt_diabetic	8
+16087	Idaho	Washington	pcnt_diabetic	11
+17001	Illinois	Adams	pcnt_diabetic	10
+17003	Illinois	Alexander	pcnt_diabetic	11
+17005	Illinois	Bond	pcnt_diabetic	9
+17007	Illinois	Boone	pcnt_diabetic	8
+17009	Illinois	Brown	pcnt_diabetic	8
+17011	Illinois	Bureau	pcnt_diabetic	9
+17013	Illinois	Calhoun	pcnt_diabetic	10
+17015	Illinois	Carroll	pcnt_diabetic	11
+17017	Illinois	Cass	pcnt_diabetic	9
+17019	Illinois	Champaign	pcnt_diabetic	7
+17021	Illinois	Christian	pcnt_diabetic	10
+17023	Illinois	Clark	pcnt_diabetic	10
+17025	Illinois	Clay	pcnt_diabetic	9
+17027	Illinois	Clinton	pcnt_diabetic	9
+17029	Illinois	Coles	pcnt_diabetic	7
+17031	Illinois	Cook	pcnt_diabetic	9
+17033	Illinois	Crawford	pcnt_diabetic	9
+17035	Illinois	Cumberland	pcnt_diabetic	9
+17037	Illinois	DeKalb	pcnt_diabetic	7
+17039	Illinois	De Witt	pcnt_diabetic	9
+17041	Illinois	Douglas	pcnt_diabetic	8
+17043	Illinois	DuPage	pcnt_diabetic	7
+17045	Illinois	Edgar	pcnt_diabetic	10
+17047	Illinois	Edwards	pcnt_diabetic	9
+17049	Illinois	Effingham	pcnt_diabetic	9
+17051	Illinois	Fayette	pcnt_diabetic	9
+17053	Illinois	Ford	pcnt_diabetic	9
+17055	Illinois	Franklin	pcnt_diabetic	10
+17057	Illinois	Fulton	pcnt_diabetic	8
+17059	Illinois	Gallatin	pcnt_diabetic	9
+17061	Illinois	Greene	pcnt_diabetic	10
+17063	Illinois	Grundy	pcnt_diabetic	8
+17065	Illinois	Hamilton	pcnt_diabetic	10
+17067	Illinois	Hancock	pcnt_diabetic	10
+17069	Illinois	Hardin	pcnt_diabetic	10
+17071	Illinois	Henderson	pcnt_diabetic	10
+17073	Illinois	Henry	pcnt_diabetic	9
+17075	Illinois	Iroquois	pcnt_diabetic	10
+17077	Illinois	Jackson	pcnt_diabetic	8
+17079	Illinois	Jasper	pcnt_diabetic	9
+17081	Illinois	Jefferson	pcnt_diabetic	10
+17083	Illinois	Jersey	pcnt_diabetic	9
+17085	Illinois	Jo Daviess	pcnt_diabetic	10
+17087	Illinois	Johnson	pcnt_diabetic	8
+17089	Illinois	Kane	pcnt_diabetic	8
+17091	Illinois	Kankakee	pcnt_diabetic	9
+17093	Illinois	Kendall	pcnt_diabetic	6
+17095	Illinois	Knox	pcnt_diabetic	10
+17097	Illinois	Lake	pcnt_diabetic	7
+17099	Illinois	LaSalle	pcnt_diabetic	9
+17101	Illinois	Lawrence	pcnt_diabetic	9
+17103	Illinois	Lee	pcnt_diabetic	10
+17105	Illinois	Livingston	pcnt_diabetic	9
+17107	Illinois	Logan	pcnt_diabetic	9
+17109	Illinois	McDonough	pcnt_diabetic	7
+17111	Illinois	McHenry	pcnt_diabetic	7
+17113	Illinois	McLean	pcnt_diabetic	7
+17115	Illinois	Macon	pcnt_diabetic	9
+17117	Illinois	Macoupin	pcnt_diabetic	10
+17119	Illinois	Madison	pcnt_diabetic	10
+17121	Illinois	Marion	pcnt_diabetic	8
+17123	Illinois	Marshall	pcnt_diabetic	10
+17125	Illinois	Mason	pcnt_diabetic	9
+17127	Illinois	Massac	pcnt_diabetic	10
+17129	Illinois	Menard	pcnt_diabetic	9
+17131	Illinois	Mercer	pcnt_diabetic	9
+17133	Illinois	Monroe	pcnt_diabetic	9
+17135	Illinois	Montgomery	pcnt_diabetic	10
+17137	Illinois	Morgan	pcnt_diabetic	8
+17139	Illinois	Moultrie	pcnt_diabetic	10
+17141	Illinois	Ogle	pcnt_diabetic	9
+17143	Illinois	Peoria	pcnt_diabetic	10
+17145	Illinois	Perry	pcnt_diabetic	9
+17147	Illinois	Piatt	pcnt_diabetic	10
+17149	Illinois	Pike	pcnt_diabetic	9
+17151	Illinois	Pope	pcnt_diabetic	10
+17153	Illinois	Pulaski	pcnt_diabetic	12
+17155	Illinois	Putnam	pcnt_diabetic	10
+17157	Illinois	Randolph	pcnt_diabetic	8
+17159	Illinois	Richland	pcnt_diabetic	10
+17161	Illinois	Rock Island	pcnt_diabetic	9
+17163	Illinois	St. Clair	pcnt_diabetic	9
+17165	Illinois	Saline	pcnt_diabetic	10
+17167	Illinois	Sangamon	pcnt_diabetic	10
+17169	Illinois	Schuyler	pcnt_diabetic	9
+17171	Illinois	Scott	pcnt_diabetic	10
+17173	Illinois	Shelby	pcnt_diabetic	9
+17175	Illinois	Stark	pcnt_diabetic	10
+17177	Illinois	Stephenson	pcnt_diabetic	10
+17179	Illinois	Tazewell	pcnt_diabetic	7
+17181	Illinois	Union	pcnt_diabetic	9
+17183	Illinois	Vermilion	pcnt_diabetic	10
+17185	Illinois	Wabash	pcnt_diabetic	9
+17187	Illinois	Warren	pcnt_diabetic	10
+17189	Illinois	Washington	pcnt_diabetic	9
+17191	Illinois	Wayne	pcnt_diabetic	9
+17193	Illinois	White	pcnt_diabetic	10
+17195	Illinois	Whiteside	pcnt_diabetic	9
+17197	Illinois	Will	pcnt_diabetic	8
+17199	Illinois	Williamson	pcnt_diabetic	8
+17201	Illinois	Winnebago	pcnt_diabetic	10
+17203	Illinois	Woodford	pcnt_diabetic	8
+18001	Indiana	Adams	pcnt_diabetic	9
+18003	Indiana	Allen	pcnt_diabetic	10
+18005	Indiana	Bartholomew	pcnt_diabetic	11
+18007	Indiana	Benton	pcnt_diabetic	12
+18009	Indiana	Blackford	pcnt_diabetic	12
+18011	Indiana	Boone	pcnt_diabetic	9
+18013	Indiana	Brown	pcnt_diabetic	12
+18015	Indiana	Carroll	pcnt_diabetic	11
+18017	Indiana	Cass	pcnt_diabetic	11
+18019	Indiana	Clark	pcnt_diabetic	9
+18021	Indiana	Clay	pcnt_diabetic	11
+18023	Indiana	Clinton	pcnt_diabetic	13
+18025	Indiana	Crawford	pcnt_diabetic	11
+18027	Indiana	Daviess	pcnt_diabetic	11
+18029	Indiana	Dearborn	pcnt_diabetic	11
+18031	Indiana	Decatur	pcnt_diabetic	10
+18033	Indiana	DeKalb	pcnt_diabetic	10
+18035	Indiana	Delaware	pcnt_diabetic	10
+18037	Indiana	Dubois	pcnt_diabetic	10
+18039	Indiana	Elkhart	pcnt_diabetic	9
+18041	Indiana	Fayette	pcnt_diabetic	11
+18043	Indiana	Floyd	pcnt_diabetic	10
+18045	Indiana	Fountain	pcnt_diabetic	12
+18047	Indiana	Franklin	pcnt_diabetic	12
+18049	Indiana	Fulton	pcnt_diabetic	11
+18051	Indiana	Gibson	pcnt_diabetic	10
+18053	Indiana	Grant	pcnt_diabetic	12
+18055	Indiana	Greene	pcnt_diabetic	13
+18057	Indiana	Hamilton	pcnt_diabetic	8
+18059	Indiana	Hancock	pcnt_diabetic	10
+18061	Indiana	Harrison	pcnt_diabetic	11
+18063	Indiana	Hendricks	pcnt_diabetic	9
+18065	Indiana	Henry	pcnt_diabetic	10
+18067	Indiana	Howard	pcnt_diabetic	11
+18069	Indiana	Huntington	pcnt_diabetic	12
+18071	Indiana	Jackson	pcnt_diabetic	10
+18073	Indiana	Jasper	pcnt_diabetic	11
+18075	Indiana	Jay	pcnt_diabetic	11
+18077	Indiana	Jefferson	pcnt_diabetic	10
+18079	Indiana	Jennings	pcnt_diabetic	10
+18081	Indiana	Johnson	pcnt_diabetic	10
+18083	Indiana	Knox	pcnt_diabetic	10
+18085	Indiana	Kosciusko	pcnt_diabetic	10
+18087	Indiana	LaGrange	pcnt_diabetic	9
+18089	Indiana	Lake	pcnt_diabetic	12
+18091	Indiana	LaPorte	pcnt_diabetic	11
+18093	Indiana	Lawrence	pcnt_diabetic	13
+18095	Indiana	Madison	pcnt_diabetic	12
+18097	Indiana	Marion	pcnt_diabetic	10
+18099	Indiana	Marshall	pcnt_diabetic	9
+18101	Indiana	Martin	pcnt_diabetic	10
+18103	Indiana	Miami	pcnt_diabetic	11
+18105	Indiana	Monroe	pcnt_diabetic	9
+18107	Indiana	Montgomery	pcnt_diabetic	11
+18109	Indiana	Morgan	pcnt_diabetic	10
+18111	Indiana	Newton	pcnt_diabetic	11
+18113	Indiana	Noble	pcnt_diabetic	10
+18115	Indiana	Ohio	pcnt_diabetic	11
+18117	Indiana	Orange	pcnt_diabetic	12
+18119	Indiana	Owen	pcnt_diabetic	11
+18121	Indiana	Parke	pcnt_diabetic	11
+18123	Indiana	Perry	pcnt_diabetic	9
+18125	Indiana	Pike	pcnt_diabetic	11
+18127	Indiana	Porter	pcnt_diabetic	10
+18129	Indiana	Posey	pcnt_diabetic	11
+18131	Indiana	Pulaski	pcnt_diabetic	11
+18133	Indiana	Putnam	pcnt_diabetic	11
+18135	Indiana	Randolph	pcnt_diabetic	12
+18137	Indiana	Ripley	pcnt_diabetic	9
+18139	Indiana	Rush	pcnt_diabetic	12
+18141	Indiana	St. Joseph	pcnt_diabetic	10
+18143	Indiana	Scott	pcnt_diabetic	12
+18145	Indiana	Shelby	pcnt_diabetic	11
+18147	Indiana	Spencer	pcnt_diabetic	11
+18149	Indiana	Starke	pcnt_diabetic	12
+18151	Indiana	Steuben	pcnt_diabetic	12
+18153	Indiana	Sullivan	pcnt_diabetic	9
+18155	Indiana	Switzerland	pcnt_diabetic	11
+18157	Indiana	Tippecanoe	pcnt_diabetic	8
+18159	Indiana	Tipton	pcnt_diabetic	11
+18161	Indiana	Union	pcnt_diabetic	11
+18163	Indiana	Vanderburgh	pcnt_diabetic	10
+18165	Indiana	Vermillion	pcnt_diabetic	13
+18167	Indiana	Vigo	pcnt_diabetic	9
+18169	Indiana	Wabash	pcnt_diabetic	11
+18171	Indiana	Warren	pcnt_diabetic	12
+18173	Indiana	Warrick	pcnt_diabetic	11
+18175	Indiana	Washington	pcnt_diabetic	10
+18177	Indiana	Wayne	pcnt_diabetic	9
+18179	Indiana	Wells	pcnt_diabetic	10
+18181	Indiana	White	pcnt_diabetic	10
+18183	Indiana	Whitley	pcnt_diabetic	9
+19001	Iowa	Adair	pcnt_diabetic	11
+19003	Iowa	Adams	pcnt_diabetic	9
+19005	Iowa	Allamakee	pcnt_diabetic	10
+19007	Iowa	Appanoose	pcnt_diabetic	9
+19009	Iowa	Audubon	pcnt_diabetic	10
+19011	Iowa	Benton	pcnt_diabetic	8
+19013	Iowa	Black Hawk	pcnt_diabetic	9
+19015	Iowa	Boone	pcnt_diabetic	8
+19017	Iowa	Bremer	pcnt_diabetic	8
+19019	Iowa	Buchanan	pcnt_diabetic	9
+19021	Iowa	Buena Vista	pcnt_diabetic	8
+19023	Iowa	Butler	pcnt_diabetic	8
+19025	Iowa	Calhoun	pcnt_diabetic	10
+19027	Iowa	Carroll	pcnt_diabetic	8
+19029	Iowa	Cass	pcnt_diabetic	8
+19031	Iowa	Cedar	pcnt_diabetic	9
+19033	Iowa	Cerro Gordo	pcnt_diabetic	10
+19035	Iowa	Cherokee	pcnt_diabetic	9
+19037	Iowa	Chickasaw	pcnt_diabetic	9
+19039	Iowa	Clarke	pcnt_diabetic	8
+19041	Iowa	Clay	pcnt_diabetic	8
+19043	Iowa	Clayton	pcnt_diabetic	8
+19045	Iowa	Clinton	pcnt_diabetic	9
+19047	Iowa	Crawford	pcnt_diabetic	9
+19049	Iowa	Dallas	pcnt_diabetic	8
+19051	Iowa	Davis	pcnt_diabetic	9
+19053	Iowa	Decatur	pcnt_diabetic	8
+19055	Iowa	Delaware	pcnt_diabetic	8
+19057	Iowa	Des Moines	pcnt_diabetic	10
+19059	Iowa	Dickinson	pcnt_diabetic	9
+19061	Iowa	Dubuque	pcnt_diabetic	8
+19063	Iowa	Emmet	pcnt_diabetic	9
+19065	Iowa	Fayette	pcnt_diabetic	8
+19067	Iowa	Floyd	pcnt_diabetic	9
+19069	Iowa	Franklin	pcnt_diabetic	10
+19071	Iowa	Fremont	pcnt_diabetic	9
+19073	Iowa	Greene	pcnt_diabetic	9
+19075	Iowa	Grundy	pcnt_diabetic	9
+19077	Iowa	Guthrie	pcnt_diabetic	9
+19079	Iowa	Hamilton	pcnt_diabetic	9
+19081	Iowa	Hancock	pcnt_diabetic	9
+19083	Iowa	Hardin	pcnt_diabetic	9
+19085	Iowa	Harrison	pcnt_diabetic	9
+19087	Iowa	Henry	pcnt_diabetic	9
+19089	Iowa	Howard	pcnt_diabetic	9
+19091	Iowa	Humboldt	pcnt_diabetic	10
+19093	Iowa	Ida	pcnt_diabetic	9
+19095	Iowa	Iowa	pcnt_diabetic	8
+19097	Iowa	Jackson	pcnt_diabetic	8
+19099	Iowa	Jasper	pcnt_diabetic	10
+19101	Iowa	Jefferson	pcnt_diabetic	9
+19103	Iowa	Johnson	pcnt_diabetic	6
+19105	Iowa	Jones	pcnt_diabetic	9
+19107	Iowa	Keokuk	pcnt_diabetic	8
+19109	Iowa	Kossuth	pcnt_diabetic	9
+19111	Iowa	Lee	pcnt_diabetic	9
+19113	Iowa	Linn	pcnt_diabetic	8
+19115	Iowa	Louisa	pcnt_diabetic	8
+19117	Iowa	Lucas	pcnt_diabetic	8
+19119	Iowa	Lyon	pcnt_diabetic	8
+19121	Iowa	Madison	pcnt_diabetic	9
+19123	Iowa	Mahaska	pcnt_diabetic	8
+19125	Iowa	Marion	pcnt_diabetic	8
+19127	Iowa	Marshall	pcnt_diabetic	9
+19129	Iowa	Mills	pcnt_diabetic	8
+19131	Iowa	Mitchell	pcnt_diabetic	8
+19133	Iowa	Monona	pcnt_diabetic	10
+19135	Iowa	Monroe	pcnt_diabetic	9
+19137	Iowa	Montgomery	pcnt_diabetic	10
+19139	Iowa	Muscatine	pcnt_diabetic	7
+19141	Iowa	O'Brien	pcnt_diabetic	10
+19143	Iowa	Osceola	pcnt_diabetic	8
+19145	Iowa	Page	pcnt_diabetic	11
+19147	Iowa	Palo Alto	pcnt_diabetic	9
+19149	Iowa	Plymouth	pcnt_diabetic	9
+19151	Iowa	Pocahontas	pcnt_diabetic	11
+19153	Iowa	Polk	pcnt_diabetic	8
+19155	Iowa	Pottawattamie	pcnt_diabetic	8
+19157	Iowa	Poweshiek	pcnt_diabetic	9
+19159	Iowa	Ringgold	pcnt_diabetic	9
+19161	Iowa	Sac	pcnt_diabetic	10
+19163	Iowa	Scott	pcnt_diabetic	8
+19165	Iowa	Shelby	pcnt_diabetic	10
+19167	Iowa	Sioux	pcnt_diabetic	7
+19169	Iowa	Story	pcnt_diabetic	6
+19171	Iowa	Tama	pcnt_diabetic	10
+19173	Iowa	Taylor	pcnt_diabetic	9
+19175	Iowa	Union	pcnt_diabetic	9
+19177	Iowa	Van Buren	pcnt_diabetic	9
+19179	Iowa	Wapello	pcnt_diabetic	10
+19181	Iowa	Warren	pcnt_diabetic	8
+19183	Iowa	Washington	pcnt_diabetic	9
+19185	Iowa	Wayne	pcnt_diabetic	9
+19187	Iowa	Webster	pcnt_diabetic	10
+19189	Iowa	Winnebago	pcnt_diabetic	9
+19191	Iowa	Winneshiek	pcnt_diabetic	8
+19193	Iowa	Woodbury	pcnt_diabetic	9
+19195	Iowa	Worth	pcnt_diabetic	9
+19197	Iowa	Wright	pcnt_diabetic	9
+20001	Kansas	Allen	pcnt_diabetic	11
+20003	Kansas	Anderson	pcnt_diabetic	9
+20005	Kansas	Atchison	pcnt_diabetic	9
+20007	Kansas	Barber	pcnt_diabetic	11
+20009	Kansas	Barton	pcnt_diabetic	11
+20011	Kansas	Bourbon	pcnt_diabetic	9
+20013	Kansas	Brown	pcnt_diabetic	11
+20015	Kansas	Butler	pcnt_diabetic	9
+20017	Kansas	Chase	pcnt_diabetic	10
+20019	Kansas	Chautauqua	pcnt_diabetic	10
+20021	Kansas	Cherokee	pcnt_diabetic	10
+20023	Kansas	Cheyenne	pcnt_diabetic	11
+20025	Kansas	Clark	pcnt_diabetic	10
+20027	Kansas	Clay	pcnt_diabetic	10
+20029	Kansas	Cloud	pcnt_diabetic	12
+20031	Kansas	Coffey	pcnt_diabetic	11
+20033	Kansas	Comanche	pcnt_diabetic	10
+20035	Kansas	Cowley	pcnt_diabetic	10
+20037	Kansas	Crawford	pcnt_diabetic	10
+20039	Kansas	Decatur	pcnt_diabetic	13
+20041	Kansas	Dickinson	pcnt_diabetic	10
+20043	Kansas	Doniphan	pcnt_diabetic	10
+20045	Kansas	Douglas	pcnt_diabetic	6
+20047	Kansas	Edwards	pcnt_diabetic	11
+20049	Kansas	Elk	pcnt_diabetic	13
+20051	Kansas	Ellis	pcnt_diabetic	8
+20053	Kansas	Ellsworth	pcnt_diabetic	11
+20055	Kansas	Finney	pcnt_diabetic	9
+20057	Kansas	Ford	pcnt_diabetic	9
+20059	Kansas	Franklin	pcnt_diabetic	10
+20061	Kansas	Geary	pcnt_diabetic	8
+20063	Kansas	Gove	pcnt_diabetic	13
+20065	Kansas	Graham	pcnt_diabetic	12
+20067	Kansas	Grant	pcnt_diabetic	9
+20069	Kansas	Gray	pcnt_diabetic	10
+20071	Kansas	Greeley	pcnt_diabetic	11
+20073	Kansas	Greenwood	pcnt_diabetic	10
+20075	Kansas	Hamilton	pcnt_diabetic	9
+20077	Kansas	Harper	pcnt_diabetic	11
+20079	Kansas	Harvey	pcnt_diabetic	9
+20081	Kansas	Haskell	pcnt_diabetic	10
+20083	Kansas	Hodgeman	pcnt_diabetic	11
+20085	Kansas	Jackson	pcnt_diabetic	10
+20087	Kansas	Jefferson	pcnt_diabetic	11
+20089	Kansas	Jewell	pcnt_diabetic	12
+20091	Kansas	Johnson	pcnt_diabetic	7
+20093	Kansas	Kearny	pcnt_diabetic	9
+20095	Kansas	Kingman	pcnt_diabetic	11
+20097	Kansas	Kiowa	pcnt_diabetic	10
+20099	Kansas	Labette	pcnt_diabetic	11
+20101	Kansas	Lane	pcnt_diabetic	11
+20103	Kansas	Leavenworth	pcnt_diabetic	9
+20105	Kansas	Lincoln	pcnt_diabetic	10
+20107	Kansas	Linn	pcnt_diabetic	11
+20109	Kansas	Logan	pcnt_diabetic	12
+20111	Kansas	Lyon	pcnt_diabetic	9
+20113	Kansas	McPherson	pcnt_diabetic	10
+20115	Kansas	Marion	pcnt_diabetic	10
+20117	Kansas	Marshall	pcnt_diabetic	11
+20119	Kansas	Meade	pcnt_diabetic	10
+20121	Kansas	Miami	pcnt_diabetic	9
+20123	Kansas	Mitchell	pcnt_diabetic	11
+20125	Kansas	Montgomery	pcnt_diabetic	11
+20127	Kansas	Morris	pcnt_diabetic	12
+20129	Kansas	Morton	pcnt_diabetic	10
+20131	Kansas	Nemaha	pcnt_diabetic	11
+20133	Kansas	Neosho	pcnt_diabetic	12
+20135	Kansas	Ness	pcnt_diabetic	12
+20137	Kansas	Norton	pcnt_diabetic	10
+20139	Kansas	Osage	pcnt_diabetic	11
+20141	Kansas	Osborne	pcnt_diabetic	12
+20143	Kansas	Ottawa	pcnt_diabetic	10
+20145	Kansas	Pawnee	pcnt_diabetic	10
+20147	Kansas	Phillips	pcnt_diabetic	11
+20149	Kansas	Pottawatomie	pcnt_diabetic	10
+20151	Kansas	Pratt	pcnt_diabetic	9
+20153	Kansas	Rawlins	pcnt_diabetic	11
+20155	Kansas	Reno	pcnt_diabetic	11
+20157	Kansas	Republic	pcnt_diabetic	12
+20159	Kansas	Rice	pcnt_diabetic	11
+20161	Kansas	Riley	pcnt_diabetic	6
+20163	Kansas	Rooks	pcnt_diabetic	11
+20165	Kansas	Rush	pcnt_diabetic	10
+20167	Kansas	Russell	pcnt_diabetic	11
+20169	Kansas	Saline	pcnt_diabetic	9
+20171	Kansas	Scott	pcnt_diabetic	9
+20173	Kansas	Sedgwick	pcnt_diabetic	9
+20175	Kansas	Seward	pcnt_diabetic	7
+20177	Kansas	Shawnee	pcnt_diabetic	10
+20179	Kansas	Sheridan	pcnt_diabetic	10
+20181	Kansas	Sherman	pcnt_diabetic	12
+20183	Kansas	Smith	pcnt_diabetic	10
+20185	Kansas	Stafford	pcnt_diabetic	12
+20187	Kansas	Stanton	pcnt_diabetic	10
+20189	Kansas	Stevens	pcnt_diabetic	11
+20191	Kansas	Sumner	pcnt_diabetic	11
+20193	Kansas	Thomas	pcnt_diabetic	9
+20195	Kansas	Trego	pcnt_diabetic	10
+20197	Kansas	Wabaunsee	pcnt_diabetic	9
+20199	Kansas	Wallace	pcnt_diabetic	11
+20201	Kansas	Washington	pcnt_diabetic	11
+20203	Kansas	Wichita	pcnt_diabetic	11
+20205	Kansas	Wilson	pcnt_diabetic	11
+20207	Kansas	Woodson	pcnt_diabetic	12
+20209	Kansas	Wyandotte	pcnt_diabetic	12
+21001	Kentucky	Adair	pcnt_diabetic	13
+21003	Kentucky	Allen	pcnt_diabetic	12
+21005	Kentucky	Anderson	pcnt_diabetic	12
+21007	Kentucky	Ballard	pcnt_diabetic	12
+21009	Kentucky	Barren	pcnt_diabetic	13
+21011	Kentucky	Bath	pcnt_diabetic	13
+21013	Kentucky	Bell	pcnt_diabetic	15
+21015	Kentucky	Boone	pcnt_diabetic	9
+21017	Kentucky	Bourbon	pcnt_diabetic	13
+21019	Kentucky	Boyd	pcnt_diabetic	15
+21021	Kentucky	Boyle	pcnt_diabetic	12
+21023	Kentucky	Bracken	pcnt_diabetic	12
+21025	Kentucky	Breathitt	pcnt_diabetic	16
+21027	Kentucky	Breckinridge	pcnt_diabetic	13
+21029	Kentucky	Bullitt	pcnt_diabetic	11
+21031	Kentucky	Butler	pcnt_diabetic	12
+21033	Kentucky	Caldwell	pcnt_diabetic	12
+21035	Kentucky	Calloway	pcnt_diabetic	11
+21037	Kentucky	Campbell	pcnt_diabetic	10
+21039	Kentucky	Carlisle	pcnt_diabetic	13
+21041	Kentucky	Carroll	pcnt_diabetic	11
+21043	Kentucky	Carter	pcnt_diabetic	12
+21045	Kentucky	Casey	pcnt_diabetic	14
+21047	Kentucky	Christian	pcnt_diabetic	11
+21049	Kentucky	Clark	pcnt_diabetic	11
+21051	Kentucky	Clay	pcnt_diabetic	14
+21053	Kentucky	Clinton	pcnt_diabetic	12
+21055	Kentucky	Crittenden	pcnt_diabetic	12
+21057	Kentucky	Cumberland	pcnt_diabetic	13
+21059	Kentucky	Daviess	pcnt_diabetic	11
+21061	Kentucky	Edmonson	pcnt_diabetic	14
+21063	Kentucky	Elliott	pcnt_diabetic	13
+21065	Kentucky	Estill	pcnt_diabetic	13
+21067	Kentucky	Fayette	pcnt_diabetic	9
+21069	Kentucky	Fleming	pcnt_diabetic	12
+21071	Kentucky	Floyd	pcnt_diabetic	16
+21073	Kentucky	Franklin	pcnt_diabetic	11
+21075	Kentucky	Fulton	pcnt_diabetic	13
+21077	Kentucky	Gallatin	pcnt_diabetic	12
+21079	Kentucky	Garrard	pcnt_diabetic	12
+21081	Kentucky	Grant	pcnt_diabetic	11
+21083	Kentucky	Graves	pcnt_diabetic	12
+21085	Kentucky	Grayson	pcnt_diabetic	13
+21087	Kentucky	Green	pcnt_diabetic	13
+21089	Kentucky	Greenup	pcnt_diabetic	16
+21091	Kentucky	Hancock	pcnt_diabetic	11
+21093	Kentucky	Hardin	pcnt_diabetic	12
+21095	Kentucky	Harlan	pcnt_diabetic	15
+21097	Kentucky	Harrison	pcnt_diabetic	13
+21099	Kentucky	Hart	pcnt_diabetic	11
+21101	Kentucky	Henderson	pcnt_diabetic	12
+21103	Kentucky	Henry	pcnt_diabetic	13
+21105	Kentucky	Hickman	pcnt_diabetic	14
+21107	Kentucky	Hopkins	pcnt_diabetic	12
+21109	Kentucky	Jackson	pcnt_diabetic	12
+21111	Kentucky	Jefferson	pcnt_diabetic	11
+21113	Kentucky	Jessamine	pcnt_diabetic	12
+21115	Kentucky	Johnson	pcnt_diabetic	13
+21117	Kentucky	Kenton	pcnt_diabetic	10
+21119	Kentucky	Knott	pcnt_diabetic	14
+21121	Kentucky	Knox	pcnt_diabetic	14
+21123	Kentucky	Larue	pcnt_diabetic	13
+21125	Kentucky	Laurel	pcnt_diabetic	14
+21127	Kentucky	Lawrence	pcnt_diabetic	13
+21129	Kentucky	Lee	pcnt_diabetic	12
+21131	Kentucky	Leslie	pcnt_diabetic	15
+21133	Kentucky	Letcher	pcnt_diabetic	17
+21135	Kentucky	Lewis	pcnt_diabetic	13
+21137	Kentucky	Lincoln	pcnt_diabetic	13
+21139	Kentucky	Livingston	pcnt_diabetic	15
+21141	Kentucky	Logan	pcnt_diabetic	12
+21143	Kentucky	Lyon	pcnt_diabetic	12
+21145	Kentucky	McCracken	pcnt_diabetic	11
+21147	Kentucky	McCreary	pcnt_diabetic	13
+21149	Kentucky	McLean	pcnt_diabetic	13
+21151	Kentucky	Madison	pcnt_diabetic	9
+21153	Kentucky	Magoffin	pcnt_diabetic	13
+21155	Kentucky	Marion	pcnt_diabetic	11
+21157	Kentucky	Marshall	pcnt_diabetic	11
+21159	Kentucky	Martin	pcnt_diabetic	13
+21161	Kentucky	Mason	pcnt_diabetic	12
+21163	Kentucky	Meade	pcnt_diabetic	12
+21165	Kentucky	Menifee	pcnt_diabetic	14
+21167	Kentucky	Mercer	pcnt_diabetic	12
+21169	Kentucky	Metcalfe	pcnt_diabetic	13
+21171	Kentucky	Monroe	pcnt_diabetic	12
+21173	Kentucky	Montgomery	pcnt_diabetic	11
+21175	Kentucky	Morgan	pcnt_diabetic	13
+21177	Kentucky	Muhlenberg	pcnt_diabetic	11
+21179	Kentucky	Nelson	pcnt_diabetic	11
+21181	Kentucky	Nicholas	pcnt_diabetic	13
+21183	Kentucky	Ohio	pcnt_diabetic	14
+21185	Kentucky	Oldham	pcnt_diabetic	10
+21187	Kentucky	Owen	pcnt_diabetic	13
+21189	Kentucky	Owsley	pcnt_diabetic	13
+21191	Kentucky	Pendleton	pcnt_diabetic	11
+21193	Kentucky	Perry	pcnt_diabetic	14
+21195	Kentucky	Pike	pcnt_diabetic	15
+21197	Kentucky	Powell	pcnt_diabetic	14
+21199	Kentucky	Pulaski	pcnt_diabetic	12
+21201	Kentucky	Robertson	pcnt_diabetic	13
+21203	Kentucky	Rockcastle	pcnt_diabetic	12
+21205	Kentucky	Rowan	pcnt_diabetic	10
+21207	Kentucky	Russell	pcnt_diabetic	13
+21209	Kentucky	Scott	pcnt_diabetic	10
+21211	Kentucky	Shelby	pcnt_diabetic	11
+21213	Kentucky	Simpson	pcnt_diabetic	13
+21215	Kentucky	Spencer	pcnt_diabetic	11
+21217	Kentucky	Taylor	pcnt_diabetic	12
+21219	Kentucky	Todd	pcnt_diabetic	11
+21221	Kentucky	Trigg	pcnt_diabetic	12
+21223	Kentucky	Trimble	pcnt_diabetic	12
+21225	Kentucky	Union	pcnt_diabetic	11
+21227	Kentucky	Warren	pcnt_diabetic	9
+21229	Kentucky	Washington	pcnt_diabetic	12
+21231	Kentucky	Wayne	pcnt_diabetic	13
+21233	Kentucky	Webster	pcnt_diabetic	13
+21235	Kentucky	Whitley	pcnt_diabetic	14
+21237	Kentucky	Wolfe	pcnt_diabetic	12
+21239	Kentucky	Woodford	pcnt_diabetic	11
+22001	Louisiana	Acadia	pcnt_diabetic	10
+22003	Louisiana	Allen	pcnt_diabetic	12
+22005	Louisiana	Ascension	pcnt_diabetic	9
+22007	Louisiana	Assumption	pcnt_diabetic	12
+22009	Louisiana	Avoyelles	pcnt_diabetic	12
+22011	Louisiana	Beauregard	pcnt_diabetic	12
+22013	Louisiana	Bienville	pcnt_diabetic	13
+22015	Louisiana	Bossier	pcnt_diabetic	12
+22017	Louisiana	Caddo	pcnt_diabetic	12
+22019	Louisiana	Calcasieu	pcnt_diabetic	12
+22021	Louisiana	Caldwell	pcnt_diabetic	12
+22023	Louisiana	Cameron	pcnt_diabetic	11
+22025	Louisiana	Catahoula	pcnt_diabetic	13
+22027	Louisiana	Claiborne	pcnt_diabetic	14
+22029	Louisiana	Concordia	pcnt_diabetic	12
+22031	Louisiana	De Soto	pcnt_diabetic	13
+22033	Louisiana	East Baton Rouge	pcnt_diabetic	11
+22035	Louisiana	East Carroll	pcnt_diabetic	14
+22037	Louisiana	East Feliciana	pcnt_diabetic	13
+22039	Louisiana	Evangeline	pcnt_diabetic	11
+22041	Louisiana	Franklin	pcnt_diabetic	12
+22043	Louisiana	Grant	pcnt_diabetic	12
+22045	Louisiana	Iberia	pcnt_diabetic	12
+22047	Louisiana	Iberville	pcnt_diabetic	13
+22049	Louisiana	Jackson	pcnt_diabetic	11
+22051	Louisiana	Jefferson	pcnt_diabetic	12
+22053	Louisiana	Jefferson Davis	pcnt_diabetic	13
+22055	Louisiana	Lafayette	pcnt_diabetic	8
+22057	Louisiana	Lafourche	pcnt_diabetic	13
+22059	Louisiana	La Salle	pcnt_diabetic	12
+22061	Louisiana	Lincoln	pcnt_diabetic	11
+22063	Louisiana	Livingston	pcnt_diabetic	10
+22065	Louisiana	Madison	pcnt_diabetic	13
+22067	Louisiana	Morehouse	pcnt_diabetic	13
+22069	Louisiana	Natchitoches	pcnt_diabetic	12
+22071	Louisiana	Orleans	pcnt_diabetic	12
+22073	Louisiana	Ouachita	pcnt_diabetic	13
+22075	Louisiana	Plaquemines	pcnt_diabetic	13
+22077	Louisiana	Pointe Coupee	pcnt_diabetic	13
+22079	Louisiana	Rapides	pcnt_diabetic	14
+22081	Louisiana	Red River	pcnt_diabetic	13
+22083	Louisiana	Richland	pcnt_diabetic	12
+22085	Louisiana	Sabine	pcnt_diabetic	15
+22087	Louisiana	St. Bernard	pcnt_diabetic	11
+22089	Louisiana	St. Charles	pcnt_diabetic	11
+22091	Louisiana	St. Helena	pcnt_diabetic	14
+22093	Louisiana	St. James	pcnt_diabetic	13
+22095	Louisiana	St. John the Baptist	pcnt_diabetic	12
+22097	Louisiana	St. Landry	pcnt_diabetic	14
+22099	Louisiana	St. Martin	pcnt_diabetic	12
+22101	Louisiana	St. Mary	pcnt_diabetic	13
+22103	Louisiana	St. Tammany	pcnt_diabetic	10
+22105	Louisiana	Tangipahoa	pcnt_diabetic	11
+22107	Louisiana	Tensas	pcnt_diabetic	14
+22109	Louisiana	Terrebonne	pcnt_diabetic	13
+22111	Louisiana	Union	pcnt_diabetic	14
+22113	Louisiana	Vermilion	pcnt_diabetic	11
+22115	Louisiana	Vernon	pcnt_diabetic	11
+22117	Louisiana	Washington	pcnt_diabetic	15
+22119	Louisiana	Webster	pcnt_diabetic	14
+22121	Louisiana	West Baton Rouge	pcnt_diabetic	12
+22123	Louisiana	West Carroll	pcnt_diabetic	13
+22125	Louisiana	West Feliciana	pcnt_diabetic	12
+22127	Louisiana	Winn	pcnt_diabetic	11
+23001	Maine	Androscoggin	pcnt_diabetic	10
+23003	Maine	Aroostook	pcnt_diabetic	13
+23005	Maine	Cumberland	pcnt_diabetic	8
+23007	Maine	Franklin	pcnt_diabetic	8
+23009	Maine	Hancock	pcnt_diabetic	9
+23011	Maine	Kennebec	pcnt_diabetic	9
+23013	Maine	Knox	pcnt_diabetic	9
+23015	Maine	Lincoln	pcnt_diabetic	9
+23017	Maine	Oxford	pcnt_diabetic	10
+23019	Maine	Penobscot	pcnt_diabetic	11
+23021	Maine	Piscataquis	pcnt_diabetic	11
+23023	Maine	Sagadahoc	pcnt_diabetic	9
+23025	Maine	Somerset	pcnt_diabetic	12
+23027	Maine	Waldo	pcnt_diabetic	10
+23029	Maine	Washington	pcnt_diabetic	12
+23031	Maine	York	pcnt_diabetic	8
+24001	Maryland	Allegany	pcnt_diabetic	14
+24003	Maryland	Anne Arundel	pcnt_diabetic	9
+24005	Maryland	Baltimore	pcnt_diabetic	9
+24009	Maryland	Calvert	pcnt_diabetic	9
+24011	Maryland	Caroline	pcnt_diabetic	12
+24013	Maryland	Carroll	pcnt_diabetic	9
+24015	Maryland	Cecil	pcnt_diabetic	9
+24017	Maryland	Charles	pcnt_diabetic	10
+24019	Maryland	Dorchester	pcnt_diabetic	13
+24021	Maryland	Frederick	pcnt_diabetic	9
+24023	Maryland	Garrett	pcnt_diabetic	12
+24025	Maryland	Harford	pcnt_diabetic	9
+24027	Maryland	Howard	pcnt_diabetic	8
+24029	Maryland	Kent	pcnt_diabetic	11
+24031	Maryland	Montgomery	pcnt_diabetic	7
+24033	Maryland	Prince George's	pcnt_diabetic	11
+24035	Maryland	Queen Anne's	pcnt_diabetic	9
+24037	Maryland	St. Mary's	pcnt_diabetic	10
+24039	Maryland	Somerset	pcnt_diabetic	12
+24041	Maryland	Talbot	pcnt_diabetic	10
+24043	Maryland	Washington	pcnt_diabetic	11
+24045	Maryland	Wicomico	pcnt_diabetic	11
+24047	Maryland	Worcester	pcnt_diabetic	11
+24510	Maryland	Baltimore City	pcnt_diabetic	12
+25001	Massachusetts	Barnstable	pcnt_diabetic	8
+25003	Massachusetts	Berkshire	pcnt_diabetic	9
+25005	Massachusetts	Bristol	pcnt_diabetic	11
+25007	Massachusetts	Dukes	pcnt_diabetic	9
+25009	Massachusetts	Essex	pcnt_diabetic	9
+25011	Massachusetts	Franklin	pcnt_diabetic	8
+25013	Massachusetts	Hampden	pcnt_diabetic	10
+25015	Massachusetts	Hampshire	pcnt_diabetic	7
+25017	Massachusetts	Middlesex	pcnt_diabetic	8
+25019	Massachusetts	Nantucket	pcnt_diabetic	7
+25021	Massachusetts	Norfolk	pcnt_diabetic	7
+25023	Massachusetts	Plymouth	pcnt_diabetic	8
+25025	Massachusetts	Suffolk	pcnt_diabetic	8
+25027	Massachusetts	Worcester	pcnt_diabetic	9
+26001	Michigan	Alcona	pcnt_diabetic	14
+26003	Michigan	Alger	pcnt_diabetic	11
+26005	Michigan	Allegan	pcnt_diabetic	9
+26007	Michigan	Alpena	pcnt_diabetic	10
+26009	Michigan	Antrim	pcnt_diabetic	11
+26011	Michigan	Arenac	pcnt_diabetic	11
+26013	Michigan	Baraga	pcnt_diabetic	12
+26015	Michigan	Barry	pcnt_diabetic	10
+26017	Michigan	Bay	pcnt_diabetic	11
+26019	Michigan	Benzie	pcnt_diabetic	11
+26021	Michigan	Berrien	pcnt_diabetic	11
+26023	Michigan	Branch	pcnt_diabetic	10
+26025	Michigan	Calhoun	pcnt_diabetic	12
+26027	Michigan	Cass	pcnt_diabetic	10
+26029	Michigan	Charlevoix	pcnt_diabetic	11
+26031	Michigan	Cheboygan	pcnt_diabetic	12
+26033	Michigan	Chippewa	pcnt_diabetic	10
+26035	Michigan	Clare	pcnt_diabetic	11
+26037	Michigan	Clinton	pcnt_diabetic	10
+26039	Michigan	Crawford	pcnt_diabetic	10
+26041	Michigan	Delta	pcnt_diabetic	11
+26043	Michigan	Dickinson	pcnt_diabetic	11
+26045	Michigan	Eaton	pcnt_diabetic	9
+26047	Michigan	Emmet	pcnt_diabetic	10
+26049	Michigan	Genesee	pcnt_diabetic	12
+26051	Michigan	Gladwin	pcnt_diabetic	12
+26053	Michigan	Gogebic	pcnt_diabetic	10
+26055	Michigan	Grand Traverse	pcnt_diabetic	9
+26057	Michigan	Gratiot	pcnt_diabetic	10
+26059	Michigan	Hillsdale	pcnt_diabetic	11
+26061	Michigan	Houghton	pcnt_diabetic	10
+26063	Michigan	Huron	pcnt_diabetic	10
+26065	Michigan	Ingham	pcnt_diabetic	8
+26067	Michigan	Ionia	pcnt_diabetic	10
+26069	Michigan	Iosco	pcnt_diabetic	11
+26071	Michigan	Iron	pcnt_diabetic	12
+26073	Michigan	Isabella	pcnt_diabetic	8
+26075	Michigan	Jackson	pcnt_diabetic	10
+26077	Michigan	Kalamazoo	pcnt_diabetic	9
+26079	Michigan	Kalkaska	pcnt_diabetic	12
+26081	Michigan	Kent	pcnt_diabetic	9
+26083	Michigan	Keweenaw	pcnt_diabetic	13
+26085	Michigan	Lake	pcnt_diabetic	13
+26087	Michigan	Lapeer	pcnt_diabetic	9
+26089	Michigan	Leelanau	pcnt_diabetic	11
+26091	Michigan	Lenawee	pcnt_diabetic	10
+26093	Michigan	Livingston	pcnt_diabetic	8
+26095	Michigan	Luce	pcnt_diabetic	10
+26097	Michigan	Mackinac	pcnt_diabetic	12
+26099	Michigan	Macomb	pcnt_diabetic	10
+26101	Michigan	Manistee	pcnt_diabetic	11
+26103	Michigan	Marquette	pcnt_diabetic	9
+26105	Michigan	Mason	pcnt_diabetic	11
+26107	Michigan	Mecosta	pcnt_diabetic	11
+26109	Michigan	Menominee	pcnt_diabetic	10
+26111	Michigan	Midland	pcnt_diabetic	9
+26113	Michigan	Missaukee	pcnt_diabetic	12
+26115	Michigan	Monroe	pcnt_diabetic	11
+26117	Michigan	Montcalm	pcnt_diabetic	10
+26119	Michigan	Montmorency	pcnt_diabetic	12
+26121	Michigan	Muskegon	pcnt_diabetic	11
+26123	Michigan	Newaygo	pcnt_diabetic	13
+26125	Michigan	Oakland	pcnt_diabetic	10
+26127	Michigan	Oceana	pcnt_diabetic	11
+26129	Michigan	Ogemaw	pcnt_diabetic	12
+26131	Michigan	Ontonagon	pcnt_diabetic	13
+26133	Michigan	Osceola	pcnt_diabetic	11
+26135	Michigan	Oscoda	pcnt_diabetic	13
+26137	Michigan	Otsego	pcnt_diabetic	10
+26139	Michigan	Ottawa	pcnt_diabetic	9
+26141	Michigan	Presque Isle	pcnt_diabetic	13
+26143	Michigan	Roscommon	pcnt_diabetic	14
+26145	Michigan	Saginaw	pcnt_diabetic	11
+26147	Michigan	St. Clair	pcnt_diabetic	10
+26149	Michigan	St. Joseph	pcnt_diabetic	11
+26151	Michigan	Sanilac	pcnt_diabetic	11
+26153	Michigan	Schoolcraft	pcnt_diabetic	12
+26155	Michigan	Shiawassee	pcnt_diabetic	11
+26157	Michigan	Tuscola	pcnt_diabetic	11
+26159	Michigan	Van Buren	pcnt_diabetic	10
+26161	Michigan	Washtenaw	pcnt_diabetic	8
+26163	Michigan	Wayne	pcnt_diabetic	12
+26165	Michigan	Wexford	pcnt_diabetic	10
+27001	Minnesota	Aitkin	pcnt_diabetic	11
+27003	Minnesota	Anoka	pcnt_diabetic	8
+27005	Minnesota	Becker	pcnt_diabetic	9
+27007	Minnesota	Beltrami	pcnt_diabetic	8
+27009	Minnesota	Benton	pcnt_diabetic	8
+27011	Minnesota	Big Stone	pcnt_diabetic	9
+27013	Minnesota	Blue Earth	pcnt_diabetic	7
+27015	Minnesota	Brown	pcnt_diabetic	9
+27017	Minnesota	Carlton	pcnt_diabetic	9
+27019	Minnesota	Carver	pcnt_diabetic	6
+27021	Minnesota	Cass	pcnt_diabetic	9
+27023	Minnesota	Chippewa	pcnt_diabetic	9
+27025	Minnesota	Chisago	pcnt_diabetic	8
+27027	Minnesota	Clay	pcnt_diabetic	8
+27029	Minnesota	Clearwater	pcnt_diabetic	9
+27031	Minnesota	Cook	pcnt_diabetic	9
+27033	Minnesota	Cottonwood	pcnt_diabetic	10
+27035	Minnesota	Crow Wing	pcnt_diabetic	8
+27037	Minnesota	Dakota	pcnt_diabetic	6
+27039	Minnesota	Dodge	pcnt_diabetic	8
+27041	Minnesota	Douglas	pcnt_diabetic	8
+27043	Minnesota	Faribault	pcnt_diabetic	10
+27045	Minnesota	Fillmore	pcnt_diabetic	8
+27047	Minnesota	Freeborn	pcnt_diabetic	9
+27049	Minnesota	Goodhue	pcnt_diabetic	9
+27051	Minnesota	Grant	pcnt_diabetic	9
+27053	Minnesota	Hennepin	pcnt_diabetic	6
+27055	Minnesota	Houston	pcnt_diabetic	9
+27057	Minnesota	Hubbard	pcnt_diabetic	9
+27059	Minnesota	Isanti	pcnt_diabetic	8
+27061	Minnesota	Itasca	pcnt_diabetic	9
+27063	Minnesota	Jackson	pcnt_diabetic	9
+27065	Minnesota	Kanabec	pcnt_diabetic	9
+27067	Minnesota	Kandiyohi	pcnt_diabetic	8
+27069	Minnesota	Kittson	pcnt_diabetic	10
+27071	Minnesota	Koochiching	pcnt_diabetic	10
+27073	Minnesota	Lac qui Parle	pcnt_diabetic	11
+27075	Minnesota	Lake	pcnt_diabetic	10
+27077	Minnesota	Lake of the Woods	pcnt_diabetic	10
+27079	Minnesota	Le Sueur	pcnt_diabetic	8
+27081	Minnesota	Lincoln	pcnt_diabetic	9
+27083	Minnesota	Lyon	pcnt_diabetic	8
+27085	Minnesota	McLeod	pcnt_diabetic	8
+27087	Minnesota	Mahnomen	pcnt_diabetic	11
+27089	Minnesota	Marshall	pcnt_diabetic	9
+27091	Minnesota	Martin	pcnt_diabetic	9
+27093	Minnesota	Meeker	pcnt_diabetic	10
+27095	Minnesota	Mille Lacs	pcnt_diabetic	8
+27097	Minnesota	Morrison	pcnt_diabetic	8
+27099	Minnesota	Mower	pcnt_diabetic	9
+27101	Minnesota	Murray	pcnt_diabetic	9
+27103	Minnesota	Nicollet	pcnt_diabetic	8
+27105	Minnesota	Nobles	pcnt_diabetic	10
+27107	Minnesota	Norman	pcnt_diabetic	11
+27109	Minnesota	Olmsted	pcnt_diabetic	7
+27111	Minnesota	Otter Tail	pcnt_diabetic	9
+27113	Minnesota	Pennington	pcnt_diabetic	10
+27115	Minnesota	Pine	pcnt_diabetic	8
+27117	Minnesota	Pipestone	pcnt_diabetic	10
+27119	Minnesota	Polk	pcnt_diabetic	9
+27121	Minnesota	Pope	pcnt_diabetic	9
+27123	Minnesota	Ramsey	pcnt_diabetic	7
+27125	Minnesota	Red Lake	pcnt_diabetic	9
+27127	Minnesota	Redwood	pcnt_diabetic	9
+27129	Minnesota	Renville	pcnt_diabetic	9
+27131	Minnesota	Rice	pcnt_diabetic	8
+27133	Minnesota	Rock	pcnt_diabetic	8
+27135	Minnesota	Roseau	pcnt_diabetic	8
+27137	Minnesota	St. Louis	pcnt_diabetic	8
+27139	Minnesota	Scott	pcnt_diabetic	6
+27141	Minnesota	Sherburne	pcnt_diabetic	7
+27143	Minnesota	Sibley	pcnt_diabetic	8
+27145	Minnesota	Stearns	pcnt_diabetic	8
+27147	Minnesota	Steele	pcnt_diabetic	7
+27149	Minnesota	Stevens	pcnt_diabetic	8
+27151	Minnesota	Swift	pcnt_diabetic	9
+27153	Minnesota	Todd	pcnt_diabetic	9
+27155	Minnesota	Traverse	pcnt_diabetic	10
+27157	Minnesota	Wabasha	pcnt_diabetic	8
+27159	Minnesota	Wadena	pcnt_diabetic	10
+27161	Minnesota	Waseca	pcnt_diabetic	9
+27163	Minnesota	Washington	pcnt_diabetic	7
+27165	Minnesota	Watonwan	pcnt_diabetic	9
+27167	Minnesota	Wilkin	pcnt_diabetic	9
+27169	Minnesota	Winona	pcnt_diabetic	8
+27171	Minnesota	Wright	pcnt_diabetic	6
+27173	Minnesota	Yellow Medicine	pcnt_diabetic	9
+28001	Mississippi	Adams	pcnt_diabetic	15
+28003	Mississippi	Alcorn	pcnt_diabetic	12
+28005	Mississippi	Amite	pcnt_diabetic	14
+28007	Mississippi	Attala	pcnt_diabetic	15
+28009	Mississippi	Benton	pcnt_diabetic	14
+28011	Mississippi	Bolivar	pcnt_diabetic	14
+28013	Mississippi	Calhoun	pcnt_diabetic	14
+28015	Mississippi	Carroll	pcnt_diabetic	13
+28017	Mississippi	Chickasaw	pcnt_diabetic	13
+28019	Mississippi	Choctaw	pcnt_diabetic	14
+28021	Mississippi	Claiborne	pcnt_diabetic	15
+28023	Mississippi	Clarke	pcnt_diabetic	13
+28025	Mississippi	Clay	pcnt_diabetic	15
+28027	Mississippi	Coahoma	pcnt_diabetic	16
+28029	Mississippi	Copiah	pcnt_diabetic	13
+28031	Mississippi	Covington	pcnt_diabetic	13
+28033	Mississippi	DeSoto	pcnt_diabetic	10
+28035	Mississippi	Forrest	pcnt_diabetic	12
+28037	Mississippi	Franklin	pcnt_diabetic	14
+28039	Mississippi	George	pcnt_diabetic	11
+28041	Mississippi	Greene	pcnt_diabetic	11
+28043	Mississippi	Grenada	pcnt_diabetic	14
+28045	Mississippi	Hancock	pcnt_diabetic	13
+28047	Mississippi	Harrison	pcnt_diabetic	12
+28049	Mississippi	Hinds	pcnt_diabetic	13
+28051	Mississippi	Holmes	pcnt_diabetic	15
+28053	Mississippi	Humphreys	pcnt_diabetic	15
+28055	Mississippi	Issaquena	pcnt_diabetic	14
+28057	Mississippi	Itawamba	pcnt_diabetic	14
+28059	Mississippi	Jackson	pcnt_diabetic	12
+28061	Mississippi	Jasper	pcnt_diabetic	16
+28063	Mississippi	Jefferson	pcnt_diabetic	16
+28065	Mississippi	Jefferson Davis	pcnt_diabetic	13
+28067	Mississippi	Jones	pcnt_diabetic	13
+28069	Mississippi	Kemper	pcnt_diabetic	16
+28071	Mississippi	Lafayette	pcnt_diabetic	9
+28073	Mississippi	Lamar	pcnt_diabetic	9
+28075	Mississippi	Lauderdale	pcnt_diabetic	14
+28077	Mississippi	Lawrence	pcnt_diabetic	16
+28079	Mississippi	Leake	pcnt_diabetic	14
+28081	Mississippi	Lee	pcnt_diabetic	13
+28083	Mississippi	Leflore	pcnt_diabetic	14
+28085	Mississippi	Lincoln	pcnt_diabetic	13
+28087	Mississippi	Lowndes	pcnt_diabetic	14
+28089	Mississippi	Madison	pcnt_diabetic	11
+28091	Mississippi	Marion	pcnt_diabetic	13
+28093	Mississippi	Marshall	pcnt_diabetic	16
+28095	Mississippi	Monroe	pcnt_diabetic	14
+28097	Mississippi	Montgomery	pcnt_diabetic	16
+28099	Mississippi	Neshoba	pcnt_diabetic	15
+28101	Mississippi	Newton	pcnt_diabetic	13
+28103	Mississippi	Noxubee	pcnt_diabetic	15
+28105	Mississippi	Oktibbeha	pcnt_diabetic	10
+28107	Mississippi	Panola	pcnt_diabetic	14
+28109	Mississippi	Pearl River	pcnt_diabetic	13
+28111	Mississippi	Perry	pcnt_diabetic	14
+28113	Mississippi	Pike	pcnt_diabetic	15
+28115	Mississippi	Pontotoc	pcnt_diabetic	11
+28117	Mississippi	Prentiss	pcnt_diabetic	13
+28119	Mississippi	Quitman	pcnt_diabetic	16
+28121	Mississippi	Rankin	pcnt_diabetic	11
+28123	Mississippi	Scott	pcnt_diabetic	14
+28125	Mississippi	Sharkey	pcnt_diabetic	15
+28127	Mississippi	Simpson	pcnt_diabetic	13
+28129	Mississippi	Smith	pcnt_diabetic	13
+28131	Mississippi	Stone	pcnt_diabetic	12
+28133	Mississippi	Sunflower	pcnt_diabetic	14
+28135	Mississippi	Tallahatchie	pcnt_diabetic	14
+28137	Mississippi	Tate	pcnt_diabetic	13
+28139	Mississippi	Tippah	pcnt_diabetic	13
+28141	Mississippi	Tishomingo	pcnt_diabetic	12
+28143	Mississippi	Tunica	pcnt_diabetic	15
+28145	Mississippi	Union	pcnt_diabetic	12
+28147	Mississippi	Walthall	pcnt_diabetic	14
+28149	Mississippi	Warren	pcnt_diabetic	13
+28151	Mississippi	Washington	pcnt_diabetic	13
+28153	Mississippi	Wayne	pcnt_diabetic	11
+28155	Mississippi	Webster	pcnt_diabetic	13
+28157	Mississippi	Wilkinson	pcnt_diabetic	16
+28159	Mississippi	Winston	pcnt_diabetic	16
+28161	Mississippi	Yalobusha	pcnt_diabetic	15
+28163	Mississippi	Yazoo	pcnt_diabetic	13
+29001	Missouri	Adair	pcnt_diabetic	9
+29003	Missouri	Andrew	pcnt_diabetic	10
+29005	Missouri	Atchison	pcnt_diabetic	11
+29007	Missouri	Audrain	pcnt_diabetic	10
+29009	Missouri	Barry	pcnt_diabetic	10
+29011	Missouri	Barton	pcnt_diabetic	11
+29013	Missouri	Bates	pcnt_diabetic	10
+29015	Missouri	Benton	pcnt_diabetic	13
+29017	Missouri	Bollinger	pcnt_diabetic	10
+29019	Missouri	Boone	pcnt_diabetic	7
+29021	Missouri	Buchanan	pcnt_diabetic	11
+29023	Missouri	Butler	pcnt_diabetic	10
+29025	Missouri	Caldwell	pcnt_diabetic	11
+29027	Missouri	Callaway	pcnt_diabetic	11
+29029	Missouri	Camden	pcnt_diabetic	11
+29031	Missouri	Cape Girardeau	pcnt_diabetic	10
+29033	Missouri	Carroll	pcnt_diabetic	10
+29035	Missouri	Carter	pcnt_diabetic	11
+29037	Missouri	Cass	pcnt_diabetic	10
+29039	Missouri	Cedar	pcnt_diabetic	12
+29041	Missouri	Chariton	pcnt_diabetic	12
+29043	Missouri	Christian	pcnt_diabetic	8
+29045	Missouri	Clark	pcnt_diabetic	10
+29047	Missouri	Clay	pcnt_diabetic	9
+29049	Missouri	Clinton	pcnt_diabetic	11
+29051	Missouri	Cole	pcnt_diabetic	9
+29053	Missouri	Cooper	pcnt_diabetic	10
+29055	Missouri	Crawford	pcnt_diabetic	9
+29057	Missouri	Dade	pcnt_diabetic	11
+29059	Missouri	Dallas	pcnt_diabetic	9
+29061	Missouri	Daviess	pcnt_diabetic	11
+29063	Missouri	DeKalb	pcnt_diabetic	8
+29065	Missouri	Dent	pcnt_diabetic	10
+29067	Missouri	Douglas	pcnt_diabetic	11
+29069	Missouri	Dunklin	pcnt_diabetic	12
+29071	Missouri	Franklin	pcnt_diabetic	9
+29073	Missouri	Gasconade	pcnt_diabetic	10
+29075	Missouri	Gentry	pcnt_diabetic	12
+29077	Missouri	Greene	pcnt_diabetic	9
+29079	Missouri	Grundy	pcnt_diabetic	10
+29081	Missouri	Harrison	pcnt_diabetic	11
+29083	Missouri	Henry	pcnt_diabetic	11
+29085	Missouri	Hickory	pcnt_diabetic	12
+29087	Missouri	Holt	pcnt_diabetic	11
+29089	Missouri	Howard	pcnt_diabetic	10
+29091	Missouri	Howell	pcnt_diabetic	12
+29093	Missouri	Iron	pcnt_diabetic	11
+29095	Missouri	Jackson	pcnt_diabetic	9
+29097	Missouri	Jasper	pcnt_diabetic	9
+29099	Missouri	Jefferson	pcnt_diabetic	11
+29101	Missouri	Johnson	pcnt_diabetic	10
+29103	Missouri	Knox	pcnt_diabetic	11
+29105	Missouri	Laclede	pcnt_diabetic	10
+29107	Missouri	Lafayette	pcnt_diabetic	10
+29109	Missouri	Lawrence	pcnt_diabetic	10
+29111	Missouri	Lewis	pcnt_diabetic	10
+29113	Missouri	Lincoln	pcnt_diabetic	10
+29115	Missouri	Linn	pcnt_diabetic	11
+29117	Missouri	Livingston	pcnt_diabetic	11
+29119	Missouri	McDonald	pcnt_diabetic	9
+29121	Missouri	Macon	pcnt_diabetic	11
+29123	Missouri	Madison	pcnt_diabetic	11
+29125	Missouri	Maries	pcnt_diabetic	11
+29127	Missouri	Marion	pcnt_diabetic	9
+29129	Missouri	Mercer	pcnt_diabetic	11
+29131	Missouri	Miller	pcnt_diabetic	10
+29133	Missouri	Mississippi	pcnt_diabetic	11
+29135	Missouri	Moniteau	pcnt_diabetic	10
+29137	Missouri	Monroe	pcnt_diabetic	12
+29139	Missouri	Montgomery	pcnt_diabetic	11
+29141	Missouri	Morgan	pcnt_diabetic	11
+29143	Missouri	New Madrid	pcnt_diabetic	12
+29145	Missouri	Newton	pcnt_diabetic	12
+29147	Missouri	Nodaway	pcnt_diabetic	8
+29149	Missouri	Oregon	pcnt_diabetic	12
+29151	Missouri	Osage	pcnt_diabetic	10
+29153	Missouri	Ozark	pcnt_diabetic	11
+29155	Missouri	Pemiscot	pcnt_diabetic	11
+29157	Missouri	Perry	pcnt_diabetic	11
+29159	Missouri	Pettis	pcnt_diabetic	9
+29161	Missouri	Phelps	pcnt_diabetic	9
+29163	Missouri	Pike	pcnt_diabetic	11
+29165	Missouri	Platte	pcnt_diabetic	9
+29167	Missouri	Polk	pcnt_diabetic	11
+29169	Missouri	Pulaski	pcnt_diabetic	8
+29171	Missouri	Putnam	pcnt_diabetic	10
+29173	Missouri	Ralls	pcnt_diabetic	10
+29175	Missouri	Randolph	pcnt_diabetic	11
+29177	Missouri	Ray	pcnt_diabetic	11
+29179	Missouri	Reynolds	pcnt_diabetic	11
+29181	Missouri	Ripley	pcnt_diabetic	11
+29183	Missouri	St. Charles	pcnt_diabetic	8
+29185	Missouri	St. Clair	pcnt_diabetic	12
+29186	Missouri	Ste. Genevieve	pcnt_diabetic	11
+29187	Missouri	St. Francois	pcnt_diabetic	10
+29189	Missouri	St. Louis	pcnt_diabetic	9
+29195	Missouri	Saline	pcnt_diabetic	11
+29197	Missouri	Schuyler	pcnt_diabetic	11
+29199	Missouri	Scotland	pcnt_diabetic	9
+29201	Missouri	Scott	pcnt_diabetic	11
+29203	Missouri	Shannon	pcnt_diabetic	12
+29205	Missouri	Shelby	pcnt_diabetic	12
+29207	Missouri	Stoddard	pcnt_diabetic	10
+29209	Missouri	Stone	pcnt_diabetic	12
+29211	Missouri	Sullivan	pcnt_diabetic	11
+29213	Missouri	Taney	pcnt_diabetic	10
+29215	Missouri	Texas	pcnt_diabetic	10
+29217	Missouri	Vernon	pcnt_diabetic	11
+29219	Missouri	Warren	pcnt_diabetic	10
+29221	Missouri	Washington	pcnt_diabetic	10
+29223	Missouri	Wayne	pcnt_diabetic	12
+29225	Missouri	Webster	pcnt_diabetic	9
+29227	Missouri	Worth	pcnt_diabetic	11
+29229	Missouri	Wright	pcnt_diabetic	10
+29510	Missouri	St. Louis City	pcnt_diabetic	12
+30001	Montana	Beaverhead	pcnt_diabetic	9
+30003	Montana	Big Horn	pcnt_diabetic	12
+30005	Montana	Blaine	pcnt_diabetic	12
+30007	Montana	Broadwater	pcnt_diabetic	8
+30009	Montana	Carbon	pcnt_diabetic	8
+30011	Montana	Carter	pcnt_diabetic	8
+30013	Montana	Cascade	pcnt_diabetic	9
+30015	Montana	Chouteau	pcnt_diabetic	10
+30017	Montana	Custer	pcnt_diabetic	9
+30019	Montana	Daniels	pcnt_diabetic	9
+30021	Montana	Dawson	pcnt_diabetic	8
+30023	Montana	Deer Lodge	pcnt_diabetic	8
+30025	Montana	Fallon	pcnt_diabetic	8
+30027	Montana	Fergus	pcnt_diabetic	8
+30029	Montana	Flathead	pcnt_diabetic	6
+30031	Montana	Gallatin	pcnt_diabetic	4
+30033	Montana	Garfield	pcnt_diabetic	8
+30035	Montana	Glacier	pcnt_diabetic	12
+30037	Montana	Golden Valley	pcnt_diabetic	8
+30039	Montana	Granite	pcnt_diabetic	8
+30041	Montana	Hill	pcnt_diabetic	8
+30043	Montana	Jefferson	pcnt_diabetic	8
+30045	Montana	Judith Basin	pcnt_diabetic	8
+30047	Montana	Lake	pcnt_diabetic	8
+30049	Montana	Lewis and Clark	pcnt_diabetic	7
+30051	Montana	Liberty	pcnt_diabetic	8
+30053	Montana	Lincoln	pcnt_diabetic	9
+30055	Montana	McCone	pcnt_diabetic	8
+30057	Montana	Madison	pcnt_diabetic	8
+30059	Montana	Meagher	pcnt_diabetic	9
+30061	Montana	Mineral	pcnt_diabetic	9
+30063	Montana	Missoula	pcnt_diabetic	5
+30065	Montana	Musselshell	pcnt_diabetic	9
+30067	Montana	Park	pcnt_diabetic	6
+30069	Montana	Petroleum	pcnt_diabetic	8
+30071	Montana	Phillips	pcnt_diabetic	9
+30073	Montana	Pondera	pcnt_diabetic	9
+30075	Montana	Powder River	pcnt_diabetic	9
+30077	Montana	Powell	pcnt_diabetic	8
+30079	Montana	Prairie	pcnt_diabetic	9
+30081	Montana	Ravalli	pcnt_diabetic	7
+30083	Montana	Richland	pcnt_diabetic	7
+30085	Montana	Roosevelt	pcnt_diabetic	13
+30087	Montana	Rosebud	pcnt_diabetic	10
+30089	Montana	Sanders	pcnt_diabetic	10
+30091	Montana	Sheridan	pcnt_diabetic	9
+30093	Montana	Silver Bow	pcnt_diabetic	8
+30095	Montana	Stillwater	pcnt_diabetic	8
+30097	Montana	Sweet Grass	pcnt_diabetic	8
+30099	Montana	Teton	pcnt_diabetic	8
+30101	Montana	Toole	pcnt_diabetic	9
+30103	Montana	Treasure	pcnt_diabetic	8
+30105	Montana	Valley	pcnt_diabetic	10
+30107	Montana	Wheatland	pcnt_diabetic	9
+30109	Montana	Wibaux	pcnt_diabetic	9
+30111	Montana	Yellowstone	pcnt_diabetic	8
+31001	Nebraska	Adams	pcnt_diabetic	8
+31003	Nebraska	Antelope	pcnt_diabetic	11
+31005	Nebraska	Arthur	pcnt_diabetic	9
+31007	Nebraska	Banner	pcnt_diabetic	9
+31009	Nebraska	Blaine	pcnt_diabetic	9
+31011	Nebraska	Boone	pcnt_diabetic	9
+31013	Nebraska	Box Butte	pcnt_diabetic	10
+31015	Nebraska	Boyd	pcnt_diabetic	9
+31017	Nebraska	Brown	pcnt_diabetic	11
+31019	Nebraska	Buffalo	pcnt_diabetic	7
+31021	Nebraska	Burt	pcnt_diabetic	11
+31023	Nebraska	Butler	pcnt_diabetic	8
+31025	Nebraska	Cass	pcnt_diabetic	9
+31027	Nebraska	Cedar	pcnt_diabetic	9
+31029	Nebraska	Chase	pcnt_diabetic	9
+31031	Nebraska	Cherry	pcnt_diabetic	8
+31033	Nebraska	Cheyenne	pcnt_diabetic	8
+31035	Nebraska	Clay	pcnt_diabetic	11
+31037	Nebraska	Colfax	pcnt_diabetic	9
+31039	Nebraska	Cuming	pcnt_diabetic	9
+31041	Nebraska	Custer	pcnt_diabetic	9
+31043	Nebraska	Dakota	pcnt_diabetic	9
+31045	Nebraska	Dawes	pcnt_diabetic	8
+31047	Nebraska	Dawson	pcnt_diabetic	9
+31049	Nebraska	Deuel	pcnt_diabetic	9
+31051	Nebraska	Dixon	pcnt_diabetic	9
+31053	Nebraska	Dodge	pcnt_diabetic	9
+31055	Nebraska	Douglas	pcnt_diabetic	8
+31057	Nebraska	Dundy	pcnt_diabetic	11
+31059	Nebraska	Fillmore	pcnt_diabetic	9
+31061	Nebraska	Franklin	pcnt_diabetic	11
+31063	Nebraska	Frontier	pcnt_diabetic	9
+31065	Nebraska	Furnas	pcnt_diabetic	11
+31067	Nebraska	Gage	pcnt_diabetic	10
+31069	Nebraska	Garden	pcnt_diabetic	12
+31071	Nebraska	Garfield	pcnt_diabetic	10
+31073	Nebraska	Gosper	pcnt_diabetic	10
+31075	Nebraska	Grant	pcnt_diabetic	9
+31077	Nebraska	Greeley	pcnt_diabetic	11
+31079	Nebraska	Hall	pcnt_diabetic	9
+31081	Nebraska	Hamilton	pcnt_diabetic	8
+31083	Nebraska	Harlan	pcnt_diabetic	9
+31085	Nebraska	Hayes	pcnt_diabetic	8
+31087	Nebraska	Hitchcock	pcnt_diabetic	10
+31089	Nebraska	Holt	pcnt_diabetic	10
+31091	Nebraska	Hooker	pcnt_diabetic	10
+31093	Nebraska	Howard	pcnt_diabetic	8
+31095	Nebraska	Jefferson	pcnt_diabetic	11
+31097	Nebraska	Johnson	pcnt_diabetic	9
+31099	Nebraska	Kearney	pcnt_diabetic	7
+31101	Nebraska	Keith	pcnt_diabetic	9
+31103	Nebraska	Keya Paha	pcnt_diabetic	10
+31105	Nebraska	Kimball	pcnt_diabetic	10
+31107	Nebraska	Knox	pcnt_diabetic	10
+31109	Nebraska	Lancaster	pcnt_diabetic	7
+31111	Nebraska	Lincoln	pcnt_diabetic	9
+31113	Nebraska	Logan	pcnt_diabetic	9
+31115	Nebraska	Loup	pcnt_diabetic	10
+31117	Nebraska	McPherson	pcnt_diabetic	9
+31119	Nebraska	Madison	pcnt_diabetic	9
+31121	Nebraska	Merrick	pcnt_diabetic	10
+31123	Nebraska	Morrill	pcnt_diabetic	12
+31125	Nebraska	Nance	pcnt_diabetic	10
+31127	Nebraska	Nemaha	pcnt_diabetic	9
+31129	Nebraska	Nuckolls	pcnt_diabetic	9
+31131	Nebraska	Otoe	pcnt_diabetic	9
+31133	Nebraska	Pawnee	pcnt_diabetic	11
+31135	Nebraska	Perkins	pcnt_diabetic	9
+31137	Nebraska	Phelps	pcnt_diabetic	9
+31139	Nebraska	Pierce	pcnt_diabetic	9
+31141	Nebraska	Platte	pcnt_diabetic	8
+31143	Nebraska	Polk	pcnt_diabetic	11
+31145	Nebraska	Red Willow	pcnt_diabetic	9
+31147	Nebraska	Richardson	pcnt_diabetic	11
+31149	Nebraska	Rock	pcnt_diabetic	10
+31151	Nebraska	Saline	pcnt_diabetic	8
+31153	Nebraska	Sarpy	pcnt_diabetic	7
+31155	Nebraska	Saunders	pcnt_diabetic	8
+31157	Nebraska	Scotts Bluff	pcnt_diabetic	10
+31159	Nebraska	Seward	pcnt_diabetic	9
+31161	Nebraska	Sheridan	pcnt_diabetic	10
+31163	Nebraska	Sherman	pcnt_diabetic	9
+31165	Nebraska	Sioux	pcnt_diabetic	8
+31167	Nebraska	Stanton	pcnt_diabetic	7
+31169	Nebraska	Thayer	pcnt_diabetic	11
+31171	Nebraska	Thomas	pcnt_diabetic	9
+31173	Nebraska	Thurston	pcnt_diabetic	14
+31175	Nebraska	Valley	pcnt_diabetic	11
+31177	Nebraska	Washington	pcnt_diabetic	8
+31179	Nebraska	Wayne	pcnt_diabetic	7
+31181	Nebraska	Webster	pcnt_diabetic	12
+31183	Nebraska	Wheeler	pcnt_diabetic	9
+31185	Nebraska	York	pcnt_diabetic	9
+32001	Nevada	Churchill	pcnt_diabetic	9
+32003	Nevada	Clark	pcnt_diabetic	9
+32005	Nevada	Douglas	pcnt_diabetic	8
+32007	Nevada	Elko	pcnt_diabetic	7
+32009	Nevada	Esmeralda	pcnt_diabetic	10
+32011	Nevada	Eureka	pcnt_diabetic	8
+32013	Nevada	Humboldt	pcnt_diabetic	8
+32015	Nevada	Lander	pcnt_diabetic	8
+32017	Nevada	Lincoln	pcnt_diabetic	12
+32019	Nevada	Lyon	pcnt_diabetic	9
+32021	Nevada	Mineral	pcnt_diabetic	13
+32023	Nevada	Nye	pcnt_diabetic	11
+32027	Nevada	Pershing	pcnt_diabetic	7
+32029	Nevada	Storey	pcnt_diabetic	8
+32031	Nevada	Washoe	pcnt_diabetic	7
+32033	Nevada	White Pine	pcnt_diabetic	8
+32510	Nevada	Carson City	pcnt_diabetic	8
+33001	New Hampshire	Belknap	pcnt_diabetic	9
+33003	New Hampshire	Carroll	pcnt_diabetic	9
+33005	New Hampshire	Cheshire	pcnt_diabetic	9
+33007	New Hampshire	Coos	pcnt_diabetic	10
+33009	New Hampshire	Grafton	pcnt_diabetic	8
+33011	New Hampshire	Hillsborough	pcnt_diabetic	8
+33013	New Hampshire	Merrimack	pcnt_diabetic	8
+33015	New Hampshire	Rockingham	pcnt_diabetic	8
+33017	New Hampshire	Strafford	pcnt_diabetic	9
+33019	New Hampshire	Sullivan	pcnt_diabetic	9
+34001	New Jersey	Atlantic	pcnt_diabetic	10
+34003	New Jersey	Bergen	pcnt_diabetic	8
+34005	New Jersey	Burlington	pcnt_diabetic	9
+34007	New Jersey	Camden	pcnt_diabetic	10
+34009	New Jersey	Cape May	pcnt_diabetic	11
+34011	New Jersey	Cumberland	pcnt_diabetic	11
+34013	New Jersey	Essex	pcnt_diabetic	10
+34015	New Jersey	Gloucester	pcnt_diabetic	10
+34017	New Jersey	Hudson	pcnt_diabetic	8
+34019	New Jersey	Hunterdon	pcnt_diabetic	7
+34021	New Jersey	Mercer	pcnt_diabetic	9
+34023	New Jersey	Middlesex	pcnt_diabetic	8
+34025	New Jersey	Monmouth	pcnt_diabetic	8
+34027	New Jersey	Morris	pcnt_diabetic	7
+34029	New Jersey	Ocean	pcnt_diabetic	11
+34031	New Jersey	Passaic	pcnt_diabetic	9
+34033	New Jersey	Salem	pcnt_diabetic	10
+34035	New Jersey	Somerset	pcnt_diabetic	7
+34037	New Jersey	Sussex	pcnt_diabetic	8
+34039	New Jersey	Union	pcnt_diabetic	9
+34041	New Jersey	Warren	pcnt_diabetic	8
+35001	New Mexico	Bernalillo	pcnt_diabetic	6
+35003	New Mexico	Catron	pcnt_diabetic	9
+35005	New Mexico	Chaves	pcnt_diabetic	8
+35006	New Mexico	Cibola	pcnt_diabetic	12
+35007	New Mexico	Colfax	pcnt_diabetic	8
+35009	New Mexico	Curry	pcnt_diabetic	9
+35011	New Mexico	De Baca	pcnt_diabetic	9
+35013	New Mexico	Dona Ana	pcnt_diabetic	7
+35015	New Mexico	Eddy	pcnt_diabetic	11
+35017	New Mexico	Grant	pcnt_diabetic	8
+35019	New Mexico	Guadalupe	pcnt_diabetic	7
+35021	New Mexico	Harding	pcnt_diabetic	8
+35023	New Mexico	Hidalgo	pcnt_diabetic	7
+35025	New Mexico	Lea	pcnt_diabetic	8
+35027	New Mexico	Lincoln	pcnt_diabetic	7
+35028	New Mexico	Los Alamos	pcnt_diabetic	6
+35029	New Mexico	Luna	pcnt_diabetic	9
+35031	New Mexico	McKinley	pcnt_diabetic	13
+35033	New Mexico	Mora	pcnt_diabetic	8
+35035	New Mexico	Otero	pcnt_diabetic	8
+35037	New Mexico	Quay	pcnt_diabetic	8
+35039	New Mexico	Rio Arriba	pcnt_diabetic	7
+35041	New Mexico	Roosevelt	pcnt_diabetic	6
+35043	New Mexico	Sandoval	pcnt_diabetic	7
+35045	New Mexico	San Juan	pcnt_diabetic	9
+35047	New Mexico	San Miguel	pcnt_diabetic	7
+35049	New Mexico	Santa Fe	pcnt_diabetic	4
+35051	New Mexico	Sierra	pcnt_diabetic	9
+35053	New Mexico	Socorro	pcnt_diabetic	8
+35055	New Mexico	Taos	pcnt_diabetic	7
+35057	New Mexico	Torrance	pcnt_diabetic	7
+35059	New Mexico	Union	pcnt_diabetic	7
+35061	New Mexico	Valencia	pcnt_diabetic	7
+36001	New York	Albany	pcnt_diabetic	8
+36003	New York	Allegany	pcnt_diabetic	10
+36005	New York	Bronx	pcnt_diabetic	10
+36007	New York	Broome	pcnt_diabetic	10
+36009	New York	Cattaraugus	pcnt_diabetic	11
+36011	New York	Cayuga	pcnt_diabetic	9
+36013	New York	Chautauqua	pcnt_diabetic	9
+36015	New York	Chemung	pcnt_diabetic	10
+36017	New York	Chenango	pcnt_diabetic	9
+36019	New York	Clinton	pcnt_diabetic	8
+36021	New York	Columbia	pcnt_diabetic	8
+36023	New York	Cortland	pcnt_diabetic	8
+36025	New York	Delaware	pcnt_diabetic	10
+36027	New York	Dutchess	pcnt_diabetic	10
+36029	New York	Erie	pcnt_diabetic	10
+36031	New York	Essex	pcnt_diabetic	9
+36033	New York	Franklin	pcnt_diabetic	9
+36035	New York	Fulton	pcnt_diabetic	9
+36037	New York	Genesee	pcnt_diabetic	10
+36039	New York	Greene	pcnt_diabetic	9
+36041	New York	Hamilton	pcnt_diabetic	11
+36043	New York	Herkimer	pcnt_diabetic	9
+36045	New York	Jefferson	pcnt_diabetic	9
+36047	New York	Kings	pcnt_diabetic	10
+36049	New York	Lewis	pcnt_diabetic	10
+36051	New York	Livingston	pcnt_diabetic	9
+36053	New York	Madison	pcnt_diabetic	8
+36055	New York	Monroe	pcnt_diabetic	9
+36057	New York	Montgomery	pcnt_diabetic	9
+36059	New York	Nassau	pcnt_diabetic	9
+36061	New York	New York	pcnt_diabetic	7
+36063	New York	Niagara	pcnt_diabetic	9
+36065	New York	Oneida	pcnt_diabetic	9
+36067	New York	Onondaga	pcnt_diabetic	9
+36069	New York	Ontario	pcnt_diabetic	9
+36071	New York	Orange	pcnt_diabetic	8
+36073	New York	Orleans	pcnt_diabetic	9
+36075	New York	Oswego	pcnt_diabetic	10
+36077	New York	Otsego	pcnt_diabetic	9
+36079	New York	Putnam	pcnt_diabetic	8
+36081	New York	Queens	pcnt_diabetic	9
+36083	New York	Rensselaer	pcnt_diabetic	9
+36085	New York	Richmond	pcnt_diabetic	9
+36087	New York	Rockland	pcnt_diabetic	10
+36089	New York	St. Lawrence	pcnt_diabetic	10
+36091	New York	Saratoga	pcnt_diabetic	8
+36093	New York	Schenectady	pcnt_diabetic	10
+36095	New York	Schoharie	pcnt_diabetic	9
+36097	New York	Schuyler	pcnt_diabetic	9
+36099	New York	Seneca	pcnt_diabetic	9
+36101	New York	Steuben	pcnt_diabetic	11
+36103	New York	Suffolk	pcnt_diabetic	8
+36105	New York	Sullivan	pcnt_diabetic	10
+36107	New York	Tioga	pcnt_diabetic	9
+36109	New York	Tompkins	pcnt_diabetic	7
+36111	New York	Ulster	pcnt_diabetic	8
+36113	New York	Warren	pcnt_diabetic	10
+36115	New York	Washington	pcnt_diabetic	10
+36117	New York	Wayne	pcnt_diabetic	10
+36119	New York	Westchester	pcnt_diabetic	8
+36121	New York	Wyoming	pcnt_diabetic	8
+36123	New York	Yates	pcnt_diabetic	9
+37001	North Carolina	Alamance	pcnt_diabetic	11
+37003	North Carolina	Alexander	pcnt_diabetic	10
+37005	North Carolina	Alleghany	pcnt_diabetic	11
+37007	North Carolina	Anson	pcnt_diabetic	14
+37009	North Carolina	Ashe	pcnt_diabetic	9
+37011	North Carolina	Avery	pcnt_diabetic	10
+37013	North Carolina	Beaufort	pcnt_diabetic	13
+37015	North Carolina	Bertie	pcnt_diabetic	15
+37017	North Carolina	Bladen	pcnt_diabetic	14
+37019	North Carolina	Brunswick	pcnt_diabetic	11
+37021	North Carolina	Buncombe	pcnt_diabetic	9
+37023	North Carolina	Burke	pcnt_diabetic	12
+37025	North Carolina	Cabarrus	pcnt_diabetic	10
+37027	North Carolina	Caldwell	pcnt_diabetic	11
+37029	North Carolina	Camden	pcnt_diabetic	11
+37031	North Carolina	Carteret	pcnt_diabetic	10
+37033	North Carolina	Caswell	pcnt_diabetic	14
+37035	North Carolina	Catawba	pcnt_diabetic	9
+37037	North Carolina	Chatham	pcnt_diabetic	9
+37039	North Carolina	Cherokee	pcnt_diabetic	13
+37041	North Carolina	Chowan	pcnt_diabetic	13
+37043	North Carolina	Clay	pcnt_diabetic	11
+37045	North Carolina	Cleveland	pcnt_diabetic	13
+37047	North Carolina	Columbus	pcnt_diabetic	13
+37049	North Carolina	Craven	pcnt_diabetic	12
+37051	North Carolina	Cumberland	pcnt_diabetic	12
+37053	North Carolina	Currituck	pcnt_diabetic	10
+37055	North Carolina	Dare	pcnt_diabetic	10
+37057	North Carolina	Davidson	pcnt_diabetic	10
+37059	North Carolina	Davie	pcnt_diabetic	10
+37061	North Carolina	Duplin	pcnt_diabetic	12
+37063	North Carolina	Durham	pcnt_diabetic	9
+37065	North Carolina	Edgecombe	pcnt_diabetic	13
+37067	North Carolina	Forsyth	pcnt_diabetic	10
+37069	North Carolina	Franklin	pcnt_diabetic	10
+37071	North Carolina	Gaston	pcnt_diabetic	10
+37073	North Carolina	Gates	pcnt_diabetic	13
+37075	North Carolina	Graham	pcnt_diabetic	13
+37077	North Carolina	Granville	pcnt_diabetic	11
+37079	North Carolina	Greene	pcnt_diabetic	12
+37081	North Carolina	Guilford	pcnt_diabetic	10
+37083	North Carolina	Halifax	pcnt_diabetic	15
+37085	North Carolina	Harnett	pcnt_diabetic	9
+37087	North Carolina	Haywood	pcnt_diabetic	11
+37089	North Carolina	Henderson	pcnt_diabetic	10
+37091	North Carolina	Hertford	pcnt_diabetic	14
+37093	North Carolina	Hoke	pcnt_diabetic	11
+37095	North Carolina	Hyde	pcnt_diabetic	13
+37097	North Carolina	Iredell	pcnt_diabetic	9
+37099	North Carolina	Jackson	pcnt_diabetic	12
+37101	North Carolina	Johnston	pcnt_diabetic	10
+37103	North Carolina	Jones	pcnt_diabetic	15
+37105	North Carolina	Lee	pcnt_diabetic	12
+37107	North Carolina	Lenoir	pcnt_diabetic	14
+37109	North Carolina	Lincoln	pcnt_diabetic	11
+37111	North Carolina	McDowell	pcnt_diabetic	12
+37113	North Carolina	Macon	pcnt_diabetic	11
+37115	North Carolina	Madison	pcnt_diabetic	10
+37117	North Carolina	Martin	pcnt_diabetic	15
+37119	North Carolina	Mecklenburg	pcnt_diabetic	8
+37121	North Carolina	Mitchell	pcnt_diabetic	11
+37123	North Carolina	Montgomery	pcnt_diabetic	12
+37125	North Carolina	Moore	pcnt_diabetic	10
+37127	North Carolina	Nash	pcnt_diabetic	12
+37129	North Carolina	New Hanover	pcnt_diabetic	11
+37131	North Carolina	Northampton	pcnt_diabetic	15
+37133	North Carolina	Onslow	pcnt_diabetic	8
+37135	North Carolina	Orange	pcnt_diabetic	6
+37137	North Carolina	Pamlico	pcnt_diabetic	13
+37139	North Carolina	Pasquotank	pcnt_diabetic	12
+37141	North Carolina	Pender	pcnt_diabetic	12
+37143	North Carolina	Perquimans	pcnt_diabetic	12
+37145	North Carolina	Person	pcnt_diabetic	13
+37147	North Carolina	Pitt	pcnt_diabetic	9
+37149	North Carolina	Polk	pcnt_diabetic	10
+37151	North Carolina	Randolph	pcnt_diabetic	11
+37153	North Carolina	Richmond	pcnt_diabetic	12
+37155	North Carolina	Robeson	pcnt_diabetic	14
+37157	North Carolina	Rockingham	pcnt_diabetic	12
+37159	North Carolina	Rowan	pcnt_diabetic	12
+37161	North Carolina	Rutherford	pcnt_diabetic	12
+37163	North Carolina	Sampson	pcnt_diabetic	12
+37165	North Carolina	Scotland	pcnt_diabetic	15
+37167	North Carolina	Stanly	pcnt_diabetic	11
+37169	North Carolina	Stokes	pcnt_diabetic	10
+37171	North Carolina	Surry	pcnt_diabetic	13
+37173	North Carolina	Swain	pcnt_diabetic	14
+37175	North Carolina	Transylvania	pcnt_diabetic	10
+37177	North Carolina	Tyrrell	pcnt_diabetic	12
+37179	North Carolina	Union	pcnt_diabetic	8
+37181	North Carolina	Vance	pcnt_diabetic	14
+37183	North Carolina	Wake	pcnt_diabetic	7
+37185	North Carolina	Warren	pcnt_diabetic	15
+37187	North Carolina	Washington	pcnt_diabetic	15
+37189	North Carolina	Watauga	pcnt_diabetic	9
+37191	North Carolina	Wayne	pcnt_diabetic	12
+37193	North Carolina	Wilkes	pcnt_diabetic	12
+37195	North Carolina	Wilson	pcnt_diabetic	13
+37197	North Carolina	Yadkin	pcnt_diabetic	11
+37199	North Carolina	Yancey	pcnt_diabetic	10
+38001	North Dakota	Adams	pcnt_diabetic	11
+38003	North Dakota	Barnes	pcnt_diabetic	7
+38005	North Dakota	Benson	pcnt_diabetic	11
+38007	North Dakota	Billings	pcnt_diabetic	8
+38009	North Dakota	Bottineau	pcnt_diabetic	11
+38011	North Dakota	Bowman	pcnt_diabetic	10
+38013	North Dakota	Burke	pcnt_diabetic	11
+38015	North Dakota	Burleigh	pcnt_diabetic	7
+38017	North Dakota	Cass	pcnt_diabetic	6
+38019	North Dakota	Cavalier	pcnt_diabetic	10
+38021	North Dakota	Dickey	pcnt_diabetic	10
+38023	North Dakota	Divide	pcnt_diabetic	9
+38025	North Dakota	Dunn	pcnt_diabetic	11
+38027	North Dakota	Eddy	pcnt_diabetic	10
+38029	North Dakota	Emmons	pcnt_diabetic	11
+38031	North Dakota	Foster	pcnt_diabetic	10
+38033	North Dakota	Golden Valley	pcnt_diabetic	9
+38035	North Dakota	Grand Forks	pcnt_diabetic	7
+38037	North Dakota	Grant	pcnt_diabetic	10
+38039	North Dakota	Griggs	pcnt_diabetic	9
+38041	North Dakota	Hettinger	pcnt_diabetic	10
+38043	North Dakota	Kidder	pcnt_diabetic	10
+38045	North Dakota	LaMoure	pcnt_diabetic	9
+38047	North Dakota	Logan	pcnt_diabetic	11
+38049	North Dakota	McHenry	pcnt_diabetic	10
+38051	North Dakota	McIntosh	pcnt_diabetic	11
+38053	North Dakota	McKenzie	pcnt_diabetic	10
+38055	North Dakota	McLean	pcnt_diabetic	10
+38057	North Dakota	Mercer	pcnt_diabetic	10
+38059	North Dakota	Morton	pcnt_diabetic	8
+38061	North Dakota	Mountrail	pcnt_diabetic	10
+38063	North Dakota	Nelson	pcnt_diabetic	11
+38065	North Dakota	Oliver	pcnt_diabetic	9
+38067	North Dakota	Pembina	pcnt_diabetic	10
+38069	North Dakota	Pierce	pcnt_diabetic	10
+38071	North Dakota	Ramsey	pcnt_diabetic	8
+38073	North Dakota	Ransom	pcnt_diabetic	10
+38075	North Dakota	Renville	pcnt_diabetic	9
+38077	North Dakota	Richland	pcnt_diabetic	8
+38079	North Dakota	Rolette	pcnt_diabetic	14
+38081	North Dakota	Sargent	pcnt_diabetic	10
+38083	North Dakota	Sheridan	pcnt_diabetic	11
+38085	North Dakota	Sioux	pcnt_diabetic	12
+38087	North Dakota	Slope	pcnt_diabetic	9
+38089	North Dakota	Stark	pcnt_diabetic	9
+38091	North Dakota	Steele	pcnt_diabetic	9
+38093	North Dakota	Stutsman	pcnt_diabetic	9
+38095	North Dakota	Towner	pcnt_diabetic	10
+38097	North Dakota	Traill	pcnt_diabetic	8
+38099	North Dakota	Walsh	pcnt_diabetic	9
+38101	North Dakota	Ward	pcnt_diabetic	8
+38103	North Dakota	Wells	pcnt_diabetic	10
+38105	North Dakota	Williams	pcnt_diabetic	8
+39001	Ohio	Adams	pcnt_diabetic	10
+39003	Ohio	Allen	pcnt_diabetic	11
+39005	Ohio	Ashland	pcnt_diabetic	11
+39007	Ohio	Ashtabula	pcnt_diabetic	10
+39009	Ohio	Athens	pcnt_diabetic	10
+39011	Ohio	Auglaize	pcnt_diabetic	10
+39013	Ohio	Belmont	pcnt_diabetic	12
+39015	Ohio	Brown	pcnt_diabetic	11
+39017	Ohio	Butler	pcnt_diabetic	12
+39019	Ohio	Carroll	pcnt_diabetic	11
+39021	Ohio	Champaign	pcnt_diabetic	10
+39023	Ohio	Clark	pcnt_diabetic	12
+39025	Ohio	Clermont	pcnt_diabetic	10
+39027	Ohio	Clinton	pcnt_diabetic	11
+39029	Ohio	Columbiana	pcnt_diabetic	13
+39031	Ohio	Coshocton	pcnt_diabetic	11
+39033	Ohio	Crawford	pcnt_diabetic	11
+39035	Ohio	Cuyahoga	pcnt_diabetic	11
+39037	Ohio	Darke	pcnt_diabetic	11
+39039	Ohio	Defiance	pcnt_diabetic	11
+39041	Ohio	Delaware	pcnt_diabetic	9
+39043	Ohio	Erie	pcnt_diabetic	12
+39045	Ohio	Fairfield	pcnt_diabetic	10
+39047	Ohio	Fayette	pcnt_diabetic	11
+39049	Ohio	Franklin	pcnt_diabetic	10
+39051	Ohio	Fulton	pcnt_diabetic	13
+39053	Ohio	Gallia	pcnt_diabetic	12
+39055	Ohio	Geauga	pcnt_diabetic	10
+39057	Ohio	Greene	pcnt_diabetic	10
+39059	Ohio	Guernsey	pcnt_diabetic	11
+39061	Ohio	Hamilton	pcnt_diabetic	10
+39063	Ohio	Hancock	pcnt_diabetic	9
+39065	Ohio	Hardin	pcnt_diabetic	11
+39067	Ohio	Harrison	pcnt_diabetic	14
+39069	Ohio	Henry	pcnt_diabetic	11
+39071	Ohio	Highland	pcnt_diabetic	10
+39073	Ohio	Hocking	pcnt_diabetic	12
+39075	Ohio	Holmes	pcnt_diabetic	9
+39077	Ohio	Huron	pcnt_diabetic	11
+39079	Ohio	Jackson	pcnt_diabetic	12
+39081	Ohio	Jefferson	pcnt_diabetic	14
+39083	Ohio	Knox	pcnt_diabetic	11
+39085	Ohio	Lake	pcnt_diabetic	12
+39087	Ohio	Lawrence	pcnt_diabetic	13
+39089	Ohio	Licking	pcnt_diabetic	12
+39091	Ohio	Logan	pcnt_diabetic	12
+39093	Ohio	Lorain	pcnt_diabetic	12
+39095	Ohio	Lucas	pcnt_diabetic	11
+39097	Ohio	Madison	pcnt_diabetic	12
+39099	Ohio	Mahoning	pcnt_diabetic	11
+39101	Ohio	Marion	pcnt_diabetic	11
+39103	Ohio	Medina	pcnt_diabetic	9
+39105	Ohio	Meigs	pcnt_diabetic	11
+39107	Ohio	Mercer	pcnt_diabetic	11
+39109	Ohio	Miami	pcnt_diabetic	12
+39111	Ohio	Monroe	pcnt_diabetic	12
+39113	Ohio	Montgomery	pcnt_diabetic	12
+39115	Ohio	Morgan	pcnt_diabetic	13
+39117	Ohio	Morrow	pcnt_diabetic	10
+39119	Ohio	Muskingum	pcnt_diabetic	12
+39121	Ohio	Noble	pcnt_diabetic	9
+39123	Ohio	Ottawa	pcnt_diabetic	12
+39125	Ohio	Paulding	pcnt_diabetic	10
+39127	Ohio	Perry	pcnt_diabetic	11
+39129	Ohio	Pickaway	pcnt_diabetic	11
+39131	Ohio	Pike	pcnt_diabetic	11
+39133	Ohio	Portage	pcnt_diabetic	9
+39135	Ohio	Preble	pcnt_diabetic	11
+39137	Ohio	Putnam	pcnt_diabetic	10
+39139	Ohio	Richland	pcnt_diabetic	11
+39141	Ohio	Ross	pcnt_diabetic	11
+39143	Ohio	Sandusky	pcnt_diabetic	12
+39145	Ohio	Scioto	pcnt_diabetic	11
+39147	Ohio	Seneca	pcnt_diabetic	10
+39149	Ohio	Shelby	pcnt_diabetic	11
+39151	Ohio	Stark	pcnt_diabetic	11
+39153	Ohio	Summit	pcnt_diabetic	11
+39155	Ohio	Trumbull	pcnt_diabetic	11
+39157	Ohio	Tuscarawas	pcnt_diabetic	11
+39159	Ohio	Union	pcnt_diabetic	9
+39161	Ohio	Van Wert	pcnt_diabetic	11
+39163	Ohio	Vinton	pcnt_diabetic	11
+39165	Ohio	Warren	pcnt_diabetic	9
+39167	Ohio	Washington	pcnt_diabetic	12
+39169	Ohio	Wayne	pcnt_diabetic	10
+39171	Ohio	Williams	pcnt_diabetic	11
+39173	Ohio	Wood	pcnt_diabetic	9
+39175	Ohio	Wyandot	pcnt_diabetic	12
+40001	Oklahoma	Adair	pcnt_diabetic	14
+40003	Oklahoma	Alfalfa	pcnt_diabetic	11
+40005	Oklahoma	Atoka	pcnt_diabetic	12
+40007	Oklahoma	Beaver	pcnt_diabetic	11
+40009	Oklahoma	Beckham	pcnt_diabetic	10
+40011	Oklahoma	Blaine	pcnt_diabetic	10
+40013	Oklahoma	Bryan	pcnt_diabetic	11
+40015	Oklahoma	Caddo	pcnt_diabetic	11
+40017	Oklahoma	Canadian	pcnt_diabetic	11
+40019	Oklahoma	Carter	pcnt_diabetic	10
+40021	Oklahoma	Cherokee	pcnt_diabetic	11
+40023	Oklahoma	Choctaw	pcnt_diabetic	13
+40025	Oklahoma	Cimarron	pcnt_diabetic	11
+40027	Oklahoma	Cleveland	pcnt_diabetic	9
+40029	Oklahoma	Coal	pcnt_diabetic	12
+40031	Oklahoma	Comanche	pcnt_diabetic	10
+40033	Oklahoma	Cotton	pcnt_diabetic	11
+40035	Oklahoma	Craig	pcnt_diabetic	13
+40037	Oklahoma	Creek	pcnt_diabetic	12
+40039	Oklahoma	Custer	pcnt_diabetic	10
+40041	Oklahoma	Delaware	pcnt_diabetic	14
+40043	Oklahoma	Dewey	pcnt_diabetic	13
+40045	Oklahoma	Ellis	pcnt_diabetic	12
+40047	Oklahoma	Garfield	pcnt_diabetic	10
+40049	Oklahoma	Garvin	pcnt_diabetic	12
+40051	Oklahoma	Grady	pcnt_diabetic	9
+40053	Oklahoma	Grant	pcnt_diabetic	12
+40055	Oklahoma	Greer	pcnt_diabetic	11
+40057	Oklahoma	Harmon	pcnt_diabetic	11
+40059	Oklahoma	Harper	pcnt_diabetic	13
+40061	Oklahoma	Haskell	pcnt_diabetic	12
+40063	Oklahoma	Hughes	pcnt_diabetic	13
+40065	Oklahoma	Jackson	pcnt_diabetic	12
+40067	Oklahoma	Jefferson	pcnt_diabetic	12
+40069	Oklahoma	Johnston	pcnt_diabetic	12
+40071	Oklahoma	Kay	pcnt_diabetic	13
+40073	Oklahoma	Kingfisher	pcnt_diabetic	12
+40075	Oklahoma	Kiowa	pcnt_diabetic	13
+40077	Oklahoma	Latimer	pcnt_diabetic	12
+40079	Oklahoma	Le Flore	pcnt_diabetic	12
+40081	Oklahoma	Lincoln	pcnt_diabetic	12
+40083	Oklahoma	Logan	pcnt_diabetic	11
+40085	Oklahoma	Love	pcnt_diabetic	13
+40087	Oklahoma	McClain	pcnt_diabetic	11
+40089	Oklahoma	McCurtain	pcnt_diabetic	11
+40091	Oklahoma	McIntosh	pcnt_diabetic	12
+40093	Oklahoma	Major	pcnt_diabetic	11
+40095	Oklahoma	Marshall	pcnt_diabetic	12
+40097	Oklahoma	Mayes	pcnt_diabetic	12
+40099	Oklahoma	Murray	pcnt_diabetic	12
+40101	Oklahoma	Muskogee	pcnt_diabetic	12
+40103	Oklahoma	Noble	pcnt_diabetic	12
+40105	Oklahoma	Nowata	pcnt_diabetic	12
+40107	Oklahoma	Okfuskee	pcnt_diabetic	13
+40109	Oklahoma	Oklahoma	pcnt_diabetic	10
+40111	Oklahoma	Okmulgee	pcnt_diabetic	11
+40113	Oklahoma	Osage	pcnt_diabetic	11
+40115	Oklahoma	Ottawa	pcnt_diabetic	13
+40117	Oklahoma	Pawnee	pcnt_diabetic	15
+40119	Oklahoma	Payne	pcnt_diabetic	9
+40121	Oklahoma	Pittsburg	pcnt_diabetic	13
+40123	Oklahoma	Pontotoc	pcnt_diabetic	11
+40125	Oklahoma	Pottawatomie	pcnt_diabetic	11
+40127	Oklahoma	Pushmataha	pcnt_diabetic	13
+40129	Oklahoma	Roger Mills	pcnt_diabetic	12
+40131	Oklahoma	Rogers	pcnt_diabetic	11
+40133	Oklahoma	Seminole	pcnt_diabetic	12
+40135	Oklahoma	Sequoyah	pcnt_diabetic	14
+40137	Oklahoma	Stephens	pcnt_diabetic	10
+40139	Oklahoma	Texas	pcnt_diabetic	8
+40141	Oklahoma	Tillman	pcnt_diabetic	13
+40143	Oklahoma	Tulsa	pcnt_diabetic	10
+40145	Oklahoma	Wagoner	pcnt_diabetic	12
+40147	Oklahoma	Washington	pcnt_diabetic	11
+40149	Oklahoma	Washita	pcnt_diabetic	11
+40151	Oklahoma	Woods	pcnt_diabetic	9
+40153	Oklahoma	Woodward	pcnt_diabetic	10
+41001	Oregon	Baker	pcnt_diabetic	10
+41003	Oregon	Benton	pcnt_diabetic	7
+41005	Oregon	Clackamas	pcnt_diabetic	9
+41007	Oregon	Clatsop	pcnt_diabetic	9
+41009	Oregon	Columbia	pcnt_diabetic	9
+41011	Oregon	Coos	pcnt_diabetic	10
+41013	Oregon	Crook	pcnt_diabetic	9
+41015	Oregon	Curry	pcnt_diabetic	11
+41017	Oregon	Deschutes	pcnt_diabetic	7
+41019	Oregon	Douglas	pcnt_diabetic	12
+41021	Oregon	Gilliam	pcnt_diabetic	10
+41023	Oregon	Grant	pcnt_diabetic	10
+41025	Oregon	Harney	pcnt_diabetic	10
+41027	Oregon	Hood River	pcnt_diabetic	8
+41029	Oregon	Jackson	pcnt_diabetic	8
+41031	Oregon	Jefferson	pcnt_diabetic	9
+41033	Oregon	Josephine	pcnt_diabetic	10
+41035	Oregon	Klamath	pcnt_diabetic	9
+41037	Oregon	Lake	pcnt_diabetic	10
+41039	Oregon	Lane	pcnt_diabetic	8
+41041	Oregon	Lincoln	pcnt_diabetic	9
+41043	Oregon	Linn	pcnt_diabetic	9
+41045	Oregon	Malheur	pcnt_diabetic	9
+41047	Oregon	Marion	pcnt_diabetic	9
+41049	Oregon	Morrow	pcnt_diabetic	9
+41051	Oregon	Multnomah	pcnt_diabetic	7
+41053	Oregon	Polk	pcnt_diabetic	9
+41055	Oregon	Sherman	pcnt_diabetic	10
+41057	Oregon	Tillamook	pcnt_diabetic	9
+41059	Oregon	Umatilla	pcnt_diabetic	9
+41061	Oregon	Union	pcnt_diabetic	9
+41063	Oregon	Wallowa	pcnt_diabetic	10
+41065	Oregon	Wasco	pcnt_diabetic	9
+41067	Oregon	Washington	pcnt_diabetic	6
+41069	Oregon	Wheeler	pcnt_diabetic	10
+41071	Oregon	Yamhill	pcnt_diabetic	7
+42001	Pennsylvania	Adams	pcnt_diabetic	10
+42003	Pennsylvania	Allegheny	pcnt_diabetic	10
+42005	Pennsylvania	Armstrong	pcnt_diabetic	11
+42007	Pennsylvania	Beaver	pcnt_diabetic	11
+42009	Pennsylvania	Bedford	pcnt_diabetic	11
+42011	Pennsylvania	Berks	pcnt_diabetic	9
+42013	Pennsylvania	Blair	pcnt_diabetic	11
+42015	Pennsylvania	Bradford	pcnt_diabetic	10
+42017	Pennsylvania	Bucks	pcnt_diabetic	9
+42019	Pennsylvania	Butler	pcnt_diabetic	10
+42021	Pennsylvania	Cambria	pcnt_diabetic	14
+42023	Pennsylvania	Cameron	pcnt_diabetic	11
+42025	Pennsylvania	Carbon	pcnt_diabetic	11
+42027	Pennsylvania	Centre	pcnt_diabetic	8
+42029	Pennsylvania	Chester	pcnt_diabetic	8
+42031	Pennsylvania	Clarion	pcnt_diabetic	11
+42033	Pennsylvania	Clearfield	pcnt_diabetic	11
+42035	Pennsylvania	Clinton	pcnt_diabetic	9
+42037	Pennsylvania	Columbia	pcnt_diabetic	10
+42039	Pennsylvania	Crawford	pcnt_diabetic	12
+42041	Pennsylvania	Cumberland	pcnt_diabetic	10
+42043	Pennsylvania	Dauphin	pcnt_diabetic	10
+42045	Pennsylvania	Delaware	pcnt_diabetic	10
+42047	Pennsylvania	Elk	pcnt_diabetic	11
+42049	Pennsylvania	Erie	pcnt_diabetic	10
+42051	Pennsylvania	Fayette	pcnt_diabetic	13
+42053	Pennsylvania	Forest	pcnt_diabetic	11
+42055	Pennsylvania	Franklin	pcnt_diabetic	10
+42057	Pennsylvania	Fulton	pcnt_diabetic	10
+42059	Pennsylvania	Greene	pcnt_diabetic	10
+42061	Pennsylvania	Huntingdon	pcnt_diabetic	10
+42063	Pennsylvania	Indiana	pcnt_diabetic	10
+42065	Pennsylvania	Jefferson	pcnt_diabetic	13
+42067	Pennsylvania	Juniata	pcnt_diabetic	11
+42069	Pennsylvania	Lackawanna	pcnt_diabetic	10
+42071	Pennsylvania	Lancaster	pcnt_diabetic	9
+42073	Pennsylvania	Lawrence	pcnt_diabetic	11
+42075	Pennsylvania	Lebanon	pcnt_diabetic	10
+42077	Pennsylvania	Lehigh	pcnt_diabetic	10
+42079	Pennsylvania	Luzerne	pcnt_diabetic	10
+42081	Pennsylvania	Lycoming	pcnt_diabetic	10
+42083	Pennsylvania	McKean	pcnt_diabetic	11
+42085	Pennsylvania	Mercer	pcnt_diabetic	12
+42087	Pennsylvania	Mifflin	pcnt_diabetic	11
+42089	Pennsylvania	Monroe	pcnt_diabetic	10
+42091	Pennsylvania	Montgomery	pcnt_diabetic	8
+42093	Pennsylvania	Montour	pcnt_diabetic	11
+42095	Pennsylvania	Northampton	pcnt_diabetic	8
+42097	Pennsylvania	Northumberland	pcnt_diabetic	10
+42099	Pennsylvania	Perry	pcnt_diabetic	11
+42101	Pennsylvania	Philadelphia	pcnt_diabetic	11
+42103	Pennsylvania	Pike	pcnt_diabetic	11
+42105	Pennsylvania	Potter	pcnt_diabetic	11
+42107	Pennsylvania	Schuylkill	pcnt_diabetic	10
+42109	Pennsylvania	Snyder	pcnt_diabetic	11
+42111	Pennsylvania	Somerset	pcnt_diabetic	11
+42113	Pennsylvania	Sullivan	pcnt_diabetic	13
+42115	Pennsylvania	Susquehanna	pcnt_diabetic	12
+42117	Pennsylvania	Tioga	pcnt_diabetic	10
+42119	Pennsylvania	Union	pcnt_diabetic	9
+42121	Pennsylvania	Venango	pcnt_diabetic	10
+42123	Pennsylvania	Warren	pcnt_diabetic	12
+42125	Pennsylvania	Washington	pcnt_diabetic	11
+42127	Pennsylvania	Wayne	pcnt_diabetic	11
+42129	Pennsylvania	Westmoreland	pcnt_diabetic	11
+42131	Pennsylvania	Wyoming	pcnt_diabetic	10
+42133	Pennsylvania	York	pcnt_diabetic	10
+44001	Rhode Island	Bristol	pcnt_diabetic	6
+44003	Rhode Island	Kent	pcnt_diabetic	9
+44005	Rhode Island	Newport	pcnt_diabetic	7
+44007	Rhode Island	Providence	pcnt_diabetic	9
+44009	Rhode Island	Washington	pcnt_diabetic	7
+45001	South Carolina	Abbeville	pcnt_diabetic	13
+45003	South Carolina	Aiken	pcnt_diabetic	11
+45005	South Carolina	Allendale	pcnt_diabetic	15
+45007	South Carolina	Anderson	pcnt_diabetic	12
+45009	South Carolina	Bamberg	pcnt_diabetic	14
+45011	South Carolina	Barnwell	pcnt_diabetic	13
+45013	South Carolina	Beaufort	pcnt_diabetic	9
+45015	South Carolina	Berkeley	pcnt_diabetic	12
+45017	South Carolina	Calhoun	pcnt_diabetic	15
+45019	South Carolina	Charleston	pcnt_diabetic	10
+45021	South Carolina	Cherokee	pcnt_diabetic	12
+45023	South Carolina	Chester	pcnt_diabetic	13
+45025	South Carolina	Chesterfield	pcnt_diabetic	13
+45027	South Carolina	Clarendon	pcnt_diabetic	15
+45029	South Carolina	Colleton	pcnt_diabetic	14
+45031	South Carolina	Darlington	pcnt_diabetic	14
+45033	South Carolina	Dillon	pcnt_diabetic	13
+45035	South Carolina	Dorchester	pcnt_diabetic	10
+45037	South Carolina	Edgefield	pcnt_diabetic	10
+45039	South Carolina	Fairfield	pcnt_diabetic	16
+45041	South Carolina	Florence	pcnt_diabetic	13
+45043	South Carolina	Georgetown	pcnt_diabetic	13
+45045	South Carolina	Greenville	pcnt_diabetic	10
+45047	South Carolina	Greenwood	pcnt_diabetic	11
+45049	South Carolina	Hampton	pcnt_diabetic	15
+45051	South Carolina	Horry	pcnt_diabetic	12
+45053	South Carolina	Jasper	pcnt_diabetic	13
+45055	South Carolina	Kershaw	pcnt_diabetic	11
+45057	South Carolina	Lancaster	pcnt_diabetic	12
+45059	South Carolina	Laurens	pcnt_diabetic	12
+45061	South Carolina	Lee	pcnt_diabetic	14
+45063	South Carolina	Lexington	pcnt_diabetic	10
+45065	South Carolina	McCormick	pcnt_diabetic	15
+45067	South Carolina	Marion	pcnt_diabetic	15
+45069	South Carolina	Marlboro	pcnt_diabetic	13
+45071	South Carolina	Newberry	pcnt_diabetic	12
+45073	South Carolina	Oconee	pcnt_diabetic	12
+45075	South Carolina	Orangeburg	pcnt_diabetic	15
+45077	South Carolina	Pickens	pcnt_diabetic	10
+45079	South Carolina	Richland	pcnt_diabetic	11
+45081	South Carolina	Saluda	pcnt_diabetic	12
+45083	South Carolina	Spartanburg	pcnt_diabetic	11
+45085	South Carolina	Sumter	pcnt_diabetic	14
+45087	South Carolina	Union	pcnt_diabetic	14
+45089	South Carolina	Williamsburg	pcnt_diabetic	15
+45091	South Carolina	York	pcnt_diabetic	9
+46003	South Dakota	Aurora	pcnt_diabetic	9
+46005	South Dakota	Beadle	pcnt_diabetic	8
+46007	South Dakota	Bennett	pcnt_diabetic	12
+46009	South Dakota	Bon Homme	pcnt_diabetic	9
+46011	South Dakota	Brookings	pcnt_diabetic	5
+46013	South Dakota	Brown	pcnt_diabetic	8
+46015	South Dakota	Brule	pcnt_diabetic	8
+46017	South Dakota	Buffalo	pcnt_diabetic	16
+46019	South Dakota	Butte	pcnt_diabetic	8
+46021	South Dakota	Campbell	pcnt_diabetic	10
+46023	South Dakota	Charles Mix	pcnt_diabetic	12
+46025	South Dakota	Clark	pcnt_diabetic	10
+46027	South Dakota	Clay	pcnt_diabetic	6
+46029	South Dakota	Codington	pcnt_diabetic	7
+46031	South Dakota	Corson	pcnt_diabetic	14
+46033	South Dakota	Custer	pcnt_diabetic	9
+46035	South Dakota	Davison	pcnt_diabetic	8
+46037	South Dakota	Day	pcnt_diabetic	9
+46039	South Dakota	Deuel	pcnt_diabetic	8
+46041	South Dakota	Dewey	pcnt_diabetic	16
+46043	South Dakota	Douglas	pcnt_diabetic	9
+46045	South Dakota	Edmunds	pcnt_diabetic	9
+46047	South Dakota	Fall River	pcnt_diabetic	12
+46049	South Dakota	Faulk	pcnt_diabetic	10
+46051	South Dakota	Grant	pcnt_diabetic	12
+46053	South Dakota	Gregory	pcnt_diabetic	11
+46055	South Dakota	Haakon	pcnt_diabetic	10
+46057	South Dakota	Hamlin	pcnt_diabetic	9
+46059	South Dakota	Hand	pcnt_diabetic	10
+46061	South Dakota	Hanson	pcnt_diabetic	8
+46063	South Dakota	Harding	pcnt_diabetic	8
+46065	South Dakota	Hughes	pcnt_diabetic	10
+46067	South Dakota	Hutchinson	pcnt_diabetic	9
+46069	South Dakota	Hyde	pcnt_diabetic	11
+46071	South Dakota	Jackson	pcnt_diabetic	12
+46073	South Dakota	Jerauld	pcnt_diabetic	8
+46075	South Dakota	Jones	pcnt_diabetic	9
+46077	South Dakota	Kingsbury	pcnt_diabetic	8
+46079	South Dakota	Lake	pcnt_diabetic	9
+46081	South Dakota	Lawrence	pcnt_diabetic	7
+46083	South Dakota	Lincoln	pcnt_diabetic	5
+46085	South Dakota	Lyman	pcnt_diabetic	11
+46087	South Dakota	McCook	pcnt_diabetic	9
+46089	South Dakota	McPherson	pcnt_diabetic	10
+46091	South Dakota	Marshall	pcnt_diabetic	11
+46093	South Dakota	Meade	pcnt_diabetic	8
+46095	South Dakota	Mellette	pcnt_diabetic	15
+46097	South Dakota	Miner	pcnt_diabetic	8
+46099	South Dakota	Minnehaha	pcnt_diabetic	7
+46101	South Dakota	Moody	pcnt_diabetic	8
+46103	South Dakota	Pennington	pcnt_diabetic	8
+46105	South Dakota	Perkins	pcnt_diabetic	10
+46107	South Dakota	Potter	pcnt_diabetic	10
+46109	South Dakota	Roberts	pcnt_diabetic	11
+46111	South Dakota	Sanborn	pcnt_diabetic	9
+46113	South Dakota	Shannon	pcnt_diabetic	14
+46115	South Dakota	Spink	pcnt_diabetic	9
+46117	South Dakota	Stanley	pcnt_diabetic	9
+46119	South Dakota	Sully	pcnt_diabetic	8
+46121	South Dakota	Todd	pcnt_diabetic	13
+46123	South Dakota	Tripp	pcnt_diabetic	12
+46125	South Dakota	Turner	pcnt_diabetic	8
+46127	South Dakota	Union	pcnt_diabetic	7
+46129	South Dakota	Walworth	pcnt_diabetic	12
+46135	South Dakota	Yankton	pcnt_diabetic	8
+46137	South Dakota	Ziebach	pcnt_diabetic	13
+47001	Tennessee	Anderson	pcnt_diabetic	12
+47003	Tennessee	Bedford	pcnt_diabetic	12
+47005	Tennessee	Benton	pcnt_diabetic	14
+47007	Tennessee	Bledsoe	pcnt_diabetic	12
+47009	Tennessee	Blount	pcnt_diabetic	11
+47011	Tennessee	Bradley	pcnt_diabetic	12
+47013	Tennessee	Campbell	pcnt_diabetic	13
+47015	Tennessee	Cannon	pcnt_diabetic	11
+47017	Tennessee	Carroll	pcnt_diabetic	13
+47019	Tennessee	Carter	pcnt_diabetic	12
+47021	Tennessee	Cheatham	pcnt_diabetic	10
+47023	Tennessee	Chester	pcnt_diabetic	12
+47025	Tennessee	Claiborne	pcnt_diabetic	12
+47027	Tennessee	Clay	pcnt_diabetic	12
+47029	Tennessee	Cocke	pcnt_diabetic	13
+47031	Tennessee	Coffee	pcnt_diabetic	13
+47033	Tennessee	Crockett	pcnt_diabetic	13
+47035	Tennessee	Cumberland	pcnt_diabetic	12
+47037	Tennessee	Davidson	pcnt_diabetic	9
+47039	Tennessee	Decatur	pcnt_diabetic	12
+47041	Tennessee	DeKalb	pcnt_diabetic	11
+47043	Tennessee	Dickson	pcnt_diabetic	11
+47045	Tennessee	Dyer	pcnt_diabetic	12
+47047	Tennessee	Fayette	pcnt_diabetic	13
+47049	Tennessee	Fentress	pcnt_diabetic	13
+47051	Tennessee	Franklin	pcnt_diabetic	11
+47053	Tennessee	Gibson	pcnt_diabetic	12
+47055	Tennessee	Giles	pcnt_diabetic	11
+47057	Tennessee	Grainger	pcnt_diabetic	12
+47059	Tennessee	Greene	pcnt_diabetic	12
+47061	Tennessee	Grundy	pcnt_diabetic	11
+47063	Tennessee	Hamblen	pcnt_diabetic	13
+47065	Tennessee	Hamilton	pcnt_diabetic	10
+47067	Tennessee	Hancock	pcnt_diabetic	12
+47069	Tennessee	Hardeman	pcnt_diabetic	12
+47071	Tennessee	Hardin	pcnt_diabetic	11
+47073	Tennessee	Hawkins	pcnt_diabetic	13
+47075	Tennessee	Haywood	pcnt_diabetic	14
+47077	Tennessee	Henderson	pcnt_diabetic	10
+47079	Tennessee	Henry	pcnt_diabetic	13
+47081	Tennessee	Hickman	pcnt_diabetic	11
+47083	Tennessee	Houston	pcnt_diabetic	12
+47085	Tennessee	Humphreys	pcnt_diabetic	13
+47087	Tennessee	Jackson	pcnt_diabetic	13
+47089	Tennessee	Jefferson	pcnt_diabetic	12
+47091	Tennessee	Johnson	pcnt_diabetic	12
+47093	Tennessee	Knox	pcnt_diabetic	11
+47095	Tennessee	Lake	pcnt_diabetic	12
+47097	Tennessee	Lauderdale	pcnt_diabetic	11
+47099	Tennessee	Lawrence	pcnt_diabetic	12
+47101	Tennessee	Lewis	pcnt_diabetic	12
+47103	Tennessee	Lincoln	pcnt_diabetic	11
+47105	Tennessee	Loudon	pcnt_diabetic	13
+47107	Tennessee	McMinn	pcnt_diabetic	12
+47109	Tennessee	McNairy	pcnt_diabetic	13
+47111	Tennessee	Macon	pcnt_diabetic	12
+47113	Tennessee	Madison	pcnt_diabetic	12
+47115	Tennessee	Marion	pcnt_diabetic	11
+47117	Tennessee	Marshall	pcnt_diabetic	10
+47119	Tennessee	Maury	pcnt_diabetic	11
+47121	Tennessee	Meigs	pcnt_diabetic	13
+47123	Tennessee	Monroe	pcnt_diabetic	12
+47125	Tennessee	Montgomery	pcnt_diabetic	12
+47127	Tennessee	Moore	pcnt_diabetic	11
+47129	Tennessee	Morgan	pcnt_diabetic	11
+47131	Tennessee	Obion	pcnt_diabetic	13
+47133	Tennessee	Overton	pcnt_diabetic	11
+47135	Tennessee	Perry	pcnt_diabetic	11
+47137	Tennessee	Pickett	pcnt_diabetic	13
+47139	Tennessee	Polk	pcnt_diabetic	13
+47141	Tennessee	Putnam	pcnt_diabetic	10
+47143	Tennessee	Rhea	pcnt_diabetic	11
+47145	Tennessee	Roane	pcnt_diabetic	13
+47147	Tennessee	Robertson	pcnt_diabetic	12
+47149	Tennessee	Rutherford	pcnt_diabetic	10
+47151	Tennessee	Scott	pcnt_diabetic	11
+47153	Tennessee	Sequatchie	pcnt_diabetic	11
+47155	Tennessee	Sevier	pcnt_diabetic	12
+47157	Tennessee	Shelby	pcnt_diabetic	12
+47159	Tennessee	Smith	pcnt_diabetic	12
+47161	Tennessee	Stewart	pcnt_diabetic	12
+47163	Tennessee	Sullivan	pcnt_diabetic	14
+47165	Tennessee	Sumner	pcnt_diabetic	11
+47167	Tennessee	Tipton	pcnt_diabetic	12
+47169	Tennessee	Trousdale	pcnt_diabetic	11
+47171	Tennessee	Unicoi	pcnt_diabetic	12
+47173	Tennessee	Union	pcnt_diabetic	11
+47175	Tennessee	Van Buren	pcnt_diabetic	12
+47177	Tennessee	Warren	pcnt_diabetic	11
+47179	Tennessee	Washington	pcnt_diabetic	11
+47181	Tennessee	Wayne	pcnt_diabetic	10
+47183	Tennessee	Weakley	pcnt_diabetic	11
+47185	Tennessee	White	pcnt_diabetic	11
+47187	Tennessee	Williamson	pcnt_diabetic	9
+47189	Tennessee	Wilson	pcnt_diabetic	10
+48001	Texas	Anderson	pcnt_diabetic	11
+48003	Texas	Andrews	pcnt_diabetic	9
+48005	Texas	Angelina	pcnt_diabetic	10
+48007	Texas	Aransas	pcnt_diabetic	11
+48009	Texas	Archer	pcnt_diabetic	12
+48011	Texas	Armstrong	pcnt_diabetic	11
+48013	Texas	Atascosa	pcnt_diabetic	9
+48015	Texas	Austin	pcnt_diabetic	11
+48017	Texas	Bailey	pcnt_diabetic	10
+48019	Texas	Bandera	pcnt_diabetic	12
+48021	Texas	Bastrop	pcnt_diabetic	10
+48023	Texas	Baylor	pcnt_diabetic	12
+48025	Texas	Bee	pcnt_diabetic	9
+48027	Texas	Bell	pcnt_diabetic	10
+48029	Texas	Bexar	pcnt_diabetic	9
+48031	Texas	Blanco	pcnt_diabetic	10
+48033	Texas	Borden	pcnt_diabetic	10
+48035	Texas	Bosque	pcnt_diabetic	10
+48037	Texas	Bowie	pcnt_diabetic	10
+48039	Texas	Brazoria	pcnt_diabetic	10
+48041	Texas	Brazos	pcnt_diabetic	7
+48043	Texas	Brewster	pcnt_diabetic	9
+48045	Texas	Briscoe	pcnt_diabetic	12
+48047	Texas	Brooks	pcnt_diabetic	10
+48049	Texas	Brown	pcnt_diabetic	10
+48051	Texas	Burleson	pcnt_diabetic	12
+48053	Texas	Burnet	pcnt_diabetic	11
+48055	Texas	Caldwell	pcnt_diabetic	9
+48057	Texas	Calhoun	pcnt_diabetic	10
+48059	Texas	Callahan	pcnt_diabetic	10
+48061	Texas	Cameron	pcnt_diabetic	9
+48063	Texas	Camp	pcnt_diabetic	12
+48065	Texas	Carson	pcnt_diabetic	11
+48067	Texas	Cass	pcnt_diabetic	12
+48069	Texas	Castro	pcnt_diabetic	10
+48071	Texas	Chambers	pcnt_diabetic	9
+48073	Texas	Cherokee	pcnt_diabetic	11
+48075	Texas	Childress	pcnt_diabetic	10
+48077	Texas	Clay	pcnt_diabetic	10
+48079	Texas	Cochran	pcnt_diabetic	11
+48081	Texas	Coke	pcnt_diabetic	12
+48083	Texas	Coleman	pcnt_diabetic	11
+48085	Texas	Collin	pcnt_diabetic	7
+48087	Texas	Collingsworth	pcnt_diabetic	11
+48089	Texas	Colorado	pcnt_diabetic	11
+48091	Texas	Comal	pcnt_diabetic	10
+48093	Texas	Comanche	pcnt_diabetic	11
+48095	Texas	Concho	pcnt_diabetic	9
+48097	Texas	Cooke	pcnt_diabetic	11
+48099	Texas	Coryell	pcnt_diabetic	9
+48101	Texas	Cottle	pcnt_diabetic	12
+48103	Texas	Crane	pcnt_diabetic	10
+48105	Texas	Crockett	pcnt_diabetic	10
+48107	Texas	Crosby	pcnt_diabetic	11
+48109	Texas	Culberson	pcnt_diabetic	11
+48111	Texas	Dallam	pcnt_diabetic	9
+48113	Texas	Dallas	pcnt_diabetic	9
+48115	Texas	Dawson	pcnt_diabetic	10
+48117	Texas	Deaf Smith	pcnt_diabetic	9
+48119	Texas	Delta	pcnt_diabetic	11
+48121	Texas	Denton	pcnt_diabetic	8
+48123	Texas	DeWitt	pcnt_diabetic	11
+48125	Texas	Dickens	pcnt_diabetic	10
+48127	Texas	Dimmit	pcnt_diabetic	10
+48129	Texas	Donley	pcnt_diabetic	12
+48131	Texas	Duval	pcnt_diabetic	10
+48133	Texas	Eastland	pcnt_diabetic	11
+48135	Texas	Ector	pcnt_diabetic	9
+48137	Texas	Edwards	pcnt_diabetic	10
+48139	Texas	Ellis	pcnt_diabetic	9
+48141	Texas	El Paso	pcnt_diabetic	8
+48143	Texas	Erath	pcnt_diabetic	9
+48145	Texas	Falls	pcnt_diabetic	12
+48147	Texas	Fannin	pcnt_diabetic	10
+48149	Texas	Fayette	pcnt_diabetic	11
+48151	Texas	Fisher	pcnt_diabetic	11
+48153	Texas	Floyd	pcnt_diabetic	12
+48155	Texas	Foard	pcnt_diabetic	12
+48157	Texas	Fort Bend	pcnt_diabetic	8
+48159	Texas	Franklin	pcnt_diabetic	11
+48161	Texas	Freestone	pcnt_diabetic	11
+48163	Texas	Frio	pcnt_diabetic	8
+48165	Texas	Gaines	pcnt_diabetic	9
+48167	Texas	Galveston	pcnt_diabetic	10
+48169	Texas	Garza	pcnt_diabetic	10
+48171	Texas	Gillespie	pcnt_diabetic	11
+48173	Texas	Glasscock	pcnt_diabetic	10
+48175	Texas	Goliad	pcnt_diabetic	11
+48177	Texas	Gonzales	pcnt_diabetic	11
+48179	Texas	Gray	pcnt_diabetic	12
+48181	Texas	Grayson	pcnt_diabetic	10
+48183	Texas	Gregg	pcnt_diabetic	11
+48185	Texas	Grimes	pcnt_diabetic	11
+48187	Texas	Guadalupe	pcnt_diabetic	9
+48189	Texas	Hale	pcnt_diabetic	9
+48191	Texas	Hall	pcnt_diabetic	12
+48193	Texas	Hamilton	pcnt_diabetic	11
+48195	Texas	Hansford	pcnt_diabetic	10
+48197	Texas	Hardeman	pcnt_diabetic	11
+48199	Texas	Hardin	pcnt_diabetic	12
+48201	Texas	Harris	pcnt_diabetic	8
+48203	Texas	Harrison	pcnt_diabetic	11
+48205	Texas	Hartley	pcnt_diabetic	10
+48207	Texas	Haskell	pcnt_diabetic	12
+48209	Texas	Hays	pcnt_diabetic	8
+48211	Texas	Hemphill	pcnt_diabetic	10
+48213	Texas	Henderson	pcnt_diabetic	11
+48215	Texas	Hidalgo	pcnt_diabetic	10
+48217	Texas	Hill	pcnt_diabetic	11
+48219	Texas	Hockley	pcnt_diabetic	9
+48221	Texas	Hood	pcnt_diabetic	11
+48223	Texas	Hopkins	pcnt_diabetic	11
+48225	Texas	Houston	pcnt_diabetic	12
+48227	Texas	Howard	pcnt_diabetic	10
+48229	Texas	Hudspeth	pcnt_diabetic	10
+48231	Texas	Hunt	pcnt_diabetic	11
+48233	Texas	Hutchinson	pcnt_diabetic	10
+48235	Texas	Irion	pcnt_diabetic	10
+48237	Texas	Jack	pcnt_diabetic	10
+48239	Texas	Jackson	pcnt_diabetic	10
+48241	Texas	Jasper	pcnt_diabetic	12
+48243	Texas	Jeff Davis	pcnt_diabetic	12
+48245	Texas	Jefferson	pcnt_diabetic	11
+48247	Texas	Jim Hogg	pcnt_diabetic	10
+48249	Texas	Jim Wells	pcnt_diabetic	9
+48251	Texas	Johnson	pcnt_diabetic	11
+48253	Texas	Jones	pcnt_diabetic	10
+48255	Texas	Karnes	pcnt_diabetic	9
+48257	Texas	Kaufman	pcnt_diabetic	9
+48259	Texas	Kendall	pcnt_diabetic	10
+48261	Texas	Kenedy	pcnt_diabetic	10
+48263	Texas	Kent	pcnt_diabetic	11
+48265	Texas	Kerr	pcnt_diabetic	12
+48267	Texas	Kimble	pcnt_diabetic	11
+48269	Texas	King	pcnt_diabetic	8
+48271	Texas	Kinney	pcnt_diabetic	12
+48273	Texas	Kleberg	pcnt_diabetic	9
+48275	Texas	Knox	pcnt_diabetic	12
+48277	Texas	Lamar	pcnt_diabetic	11
+48279	Texas	Lamb	pcnt_diabetic	10
+48281	Texas	Lampasas	pcnt_diabetic	10
+48283	Texas	La Salle	pcnt_diabetic	9
+48285	Texas	Lavaca	pcnt_diabetic	11
+48287	Texas	Lee	pcnt_diabetic	11
+48289	Texas	Leon	pcnt_diabetic	12
+48291	Texas	Liberty	pcnt_diabetic	9
+48293	Texas	Limestone	pcnt_diabetic	11
+48295	Texas	Lipscomb	pcnt_diabetic	10
+48297	Texas	Live Oak	pcnt_diabetic	10
+48299	Texas	Llano	pcnt_diabetic	13
+48301	Texas	Loving	pcnt_diabetic	10
+48303	Texas	Lubbock	pcnt_diabetic	8
+48305	Texas	Lynn	pcnt_diabetic	11
+48307	Texas	McCulloch	pcnt_diabetic	11
+48309	Texas	McLennan	pcnt_diabetic	10
+48311	Texas	McMullen	pcnt_diabetic	12
+48313	Texas	Madison	pcnt_diabetic	10
+48315	Texas	Marion	pcnt_diabetic	13
+48317	Texas	Martin	pcnt_diabetic	9
+48319	Texas	Mason	pcnt_diabetic	11
+48321	Texas	Matagorda	pcnt_diabetic	11
+48323	Texas	Maverick	pcnt_diabetic	9
+48325	Texas	Medina	pcnt_diabetic	10
+48327	Texas	Menard	pcnt_diabetic	12
+48329	Texas	Midland	pcnt_diabetic	8
+48331	Texas	Milam	pcnt_diabetic	12
+48333	Texas	Mills	pcnt_diabetic	11
+48335	Texas	Mitchell	pcnt_diabetic	10
+48337	Texas	Montague	pcnt_diabetic	11
+48339	Texas	Montgomery	pcnt_diabetic	9
+48341	Texas	Moore	pcnt_diabetic	9
+48343	Texas	Morris	pcnt_diabetic	13
+48345	Texas	Motley	pcnt_diabetic	12
+48347	Texas	Nacogdoches	pcnt_diabetic	9
+48349	Texas	Navarro	pcnt_diabetic	10
+48351	Texas	Newton	pcnt_diabetic	11
+48353	Texas	Nolan	pcnt_diabetic	11
+48355	Texas	Nueces	pcnt_diabetic	10
+48357	Texas	Ochiltree	pcnt_diabetic	9
+48359	Texas	Oldham	pcnt_diabetic	10
+48361	Texas	Orange	pcnt_diabetic	11
+48363	Texas	Palo Pinto	pcnt_diabetic	11
+48365	Texas	Panola	pcnt_diabetic	11
+48367	Texas	Parker	pcnt_diabetic	11
+48369	Texas	Parmer	pcnt_diabetic	10
+48371	Texas	Pecos	pcnt_diabetic	9
+48373	Texas	Polk	pcnt_diabetic	12
+48375	Texas	Potter	pcnt_diabetic	10
+48377	Texas	Presidio	pcnt_diabetic	10
+48379	Texas	Rains	pcnt_diabetic	11
+48381	Texas	Randall	pcnt_diabetic	9
+48383	Texas	Reagan	pcnt_diabetic	9
+48385	Texas	Real	pcnt_diabetic	13
+48387	Texas	Red River	pcnt_diabetic	12
+48389	Texas	Reeves	pcnt_diabetic	11
+48391	Texas	Refugio	pcnt_diabetic	11
+48393	Texas	Roberts	pcnt_diabetic	10
+48395	Texas	Robertson	pcnt_diabetic	12
+48397	Texas	Rockwall	pcnt_diabetic	9
+48399	Texas	Runnels	pcnt_diabetic	11
+48401	Texas	Rusk	pcnt_diabetic	11
+48403	Texas	Sabine	pcnt_diabetic	12
+48405	Texas	San Augustine	pcnt_diabetic	13
+48407	Texas	San Jacinto	pcnt_diabetic	11
+48409	Texas	San Patricio	pcnt_diabetic	11
+48411	Texas	San Saba	pcnt_diabetic	11
+48413	Texas	Schleicher	pcnt_diabetic	10
+48415	Texas	Scurry	pcnt_diabetic	9
+48417	Texas	Shackelford	pcnt_diabetic	10
+48419	Texas	Shelby	pcnt_diabetic	11
+48421	Texas	Sherman	pcnt_diabetic	9
+48423	Texas	Smith	pcnt_diabetic	10
+48425	Texas	Somervell	pcnt_diabetic	10
+48427	Texas	Starr	pcnt_diabetic	9
+48429	Texas	Stephens	pcnt_diabetic	10
+48431	Texas	Sterling	pcnt_diabetic	10
+48433	Texas	Stonewall	pcnt_diabetic	12
+48435	Texas	Sutton	pcnt_diabetic	10
+48437	Texas	Swisher	pcnt_diabetic	11
+48439	Texas	Tarrant	pcnt_diabetic	8
+48441	Texas	Taylor	pcnt_diabetic	9
+48443	Texas	Terrell	pcnt_diabetic	10
+48445	Texas	Terry	pcnt_diabetic	10
+48447	Texas	Throckmorton	pcnt_diabetic	11
+48449	Texas	Titus	pcnt_diabetic	9
+48451	Texas	Tom Green	pcnt_diabetic	10
+48453	Texas	Travis	pcnt_diabetic	7
+48455	Texas	Trinity	pcnt_diabetic	13
+48457	Texas	Tyler	pcnt_diabetic	11
+48459	Texas	Upshur	pcnt_diabetic	12
+48461	Texas	Upton	pcnt_diabetic	10
+48463	Texas	Uvalde	pcnt_diabetic	10
+48465	Texas	Val Verde	pcnt_diabetic	10
+48467	Texas	Van Zandt	pcnt_diabetic	11
+48469	Texas	Victoria	pcnt_diabetic	10
+48471	Texas	Walker	pcnt_diabetic	9
+48473	Texas	Waller	pcnt_diabetic	10
+48475	Texas	Ward	pcnt_diabetic	10
+48477	Texas	Washington	pcnt_diabetic	11
+48479	Texas	Webb	pcnt_diabetic	9
+48481	Texas	Wharton	pcnt_diabetic	11
+48483	Texas	Wheeler	pcnt_diabetic	11
+48485	Texas	Wichita	pcnt_diabetic	11
+48487	Texas	Wilbarger	pcnt_diabetic	10
+48489	Texas	Willacy	pcnt_diabetic	9
+48491	Texas	Williamson	pcnt_diabetic	7
+48493	Texas	Wilson	pcnt_diabetic	11
+48495	Texas	Winkler	pcnt_diabetic	10
+48497	Texas	Wise	pcnt_diabetic	9
+48499	Texas	Wood	pcnt_diabetic	12
+48501	Texas	Yoakum	pcnt_diabetic	9
+48503	Texas	Young	pcnt_diabetic	12
+48505	Texas	Zapata	pcnt_diabetic	9
+48507	Texas	Zavala	pcnt_diabetic	9
+49001	Utah	Beaver	pcnt_diabetic	8
+49003	Utah	Box Elder	pcnt_diabetic	8
+49005	Utah	Cache	pcnt_diabetic	5
+49007	Utah	Carbon	pcnt_diabetic	9
+49009	Utah	Daggett	pcnt_diabetic	9
+49011	Utah	Davis	pcnt_diabetic	6
+49013	Utah	Duchesne	pcnt_diabetic	9
+49015	Utah	Emery	pcnt_diabetic	8
+49017	Utah	Garfield	pcnt_diabetic	9
+49019	Utah	Grand	pcnt_diabetic	6
+49021	Utah	Iron	pcnt_diabetic	7
+49023	Utah	Juab	pcnt_diabetic	7
+49025	Utah	Kane	pcnt_diabetic	10
+49027	Utah	Millard	pcnt_diabetic	8
+49029	Utah	Morgan	pcnt_diabetic	7
+49031	Utah	Piute	pcnt_diabetic	10
+49033	Utah	Rich	pcnt_diabetic	8
+49035	Utah	Salt Lake	pcnt_diabetic	7
+49037	Utah	San Juan	pcnt_diabetic	9
+49039	Utah	Sanpete	pcnt_diabetic	8
+49041	Utah	Sevier	pcnt_diabetic	9
+49043	Utah	Summit	pcnt_diabetic	4
+49045	Utah	Tooele	pcnt_diabetic	9
+49047	Utah	Uintah	pcnt_diabetic	8
+49049	Utah	Utah	pcnt_diabetic	6
+49051	Utah	Wasatch	pcnt_diabetic	7
+49053	Utah	Washington	pcnt_diabetic	8
+49055	Utah	Wayne	pcnt_diabetic	8
+49057	Utah	Weber	pcnt_diabetic	8
+50001	Vermont	Addison	pcnt_diabetic	6
+50003	Vermont	Bennington	pcnt_diabetic	7
+50005	Vermont	Caledonia	pcnt_diabetic	8
+50007	Vermont	Chittenden	pcnt_diabetic	5
+50009	Vermont	Essex	pcnt_diabetic	8
+50011	Vermont	Franklin	pcnt_diabetic	8
+50013	Vermont	Grand Isle	pcnt_diabetic	7
+50015	Vermont	Lamoille	pcnt_diabetic	8
+50017	Vermont	Orange	pcnt_diabetic	8
+50019	Vermont	Orleans	pcnt_diabetic	8
+50021	Vermont	Rutland	pcnt_diabetic	8
+50023	Vermont	Washington	pcnt_diabetic	7
+50025	Vermont	Windham	pcnt_diabetic	7
+50027	Vermont	Windsor	pcnt_diabetic	8
+51001	Virginia	Accomack	pcnt_diabetic	12
+51003	Virginia	Albemarle	pcnt_diabetic	9
+51005	Virginia	Alleghany	pcnt_diabetic	10
+51007	Virginia	Amelia	pcnt_diabetic	11
+51009	Virginia	Amherst	pcnt_diabetic	12
+51011	Virginia	Appomattox	pcnt_diabetic	13
+51013	Virginia	Arlington	pcnt_diabetic	6
+51015	Virginia	Augusta	pcnt_diabetic	10
+51017	Virginia	Bath	pcnt_diabetic	12
+51019	Virginia	Bedford	pcnt_diabetic	9
+51021	Virginia	Bland	pcnt_diabetic	11
+51023	Virginia	Botetourt	pcnt_diabetic	11
+51025	Virginia	Brunswick	pcnt_diabetic	13
+51027	Virginia	Buchanan	pcnt_diabetic	14
+51029	Virginia	Buckingham	pcnt_diabetic	12
+51031	Virginia	Campbell	pcnt_diabetic	11
+51033	Virginia	Caroline	pcnt_diabetic	11
+51035	Virginia	Carroll	pcnt_diabetic	12
+51036	Virginia	Charles City	pcnt_diabetic	14
+51037	Virginia	Charlotte	pcnt_diabetic	12
+51041	Virginia	Chesterfield	pcnt_diabetic	9
+51043	Virginia	Clarke	pcnt_diabetic	11
+51045	Virginia	Craig	pcnt_diabetic	10
+51047	Virginia	Culpeper	pcnt_diabetic	10
+51049	Virginia	Cumberland	pcnt_diabetic	13
+51051	Virginia	Dickenson	pcnt_diabetic	11
+51053	Virginia	Dinwiddie	pcnt_diabetic	11
+51057	Virginia	Essex	pcnt_diabetic	13
+51059	Virginia	Fairfax	pcnt_diabetic	8
+51061	Virginia	Fauquier	pcnt_diabetic	10
+51063	Virginia	Floyd	pcnt_diabetic	11
+51065	Virginia	Fluvanna	pcnt_diabetic	11
+51067	Virginia	Franklin	pcnt_diabetic	11
+51069	Virginia	Frederick	pcnt_diabetic	9
+51071	Virginia	Giles	pcnt_diabetic	11
+51073	Virginia	Gloucester	pcnt_diabetic	10
+51075	Virginia	Goochland	pcnt_diabetic	10
+51077	Virginia	Grayson	pcnt_diabetic	12
+51079	Virginia	Greene	pcnt_diabetic	9
+51081	Virginia	Greensville	pcnt_diabetic	12
+51083	Virginia	Halifax	pcnt_diabetic	15
+51085	Virginia	Hanover	pcnt_diabetic	9
+51087	Virginia	Henrico	pcnt_diabetic	9
+51089	Virginia	Henry	pcnt_diabetic	12
+51091	Virginia	Highland	pcnt_diabetic	12
+51093	Virginia	Isle of Wight	pcnt_diabetic	13
+51095	Virginia	James City	pcnt_diabetic	10
+51097	Virginia	King and Queen	pcnt_diabetic	13
+51099	Virginia	King George	pcnt_diabetic	9
+51101	Virginia	King William	pcnt_diabetic	10
+51103	Virginia	Lancaster	pcnt_diabetic	14
+51105	Virginia	Lee	pcnt_diabetic	12
+51107	Virginia	Loudoun	pcnt_diabetic	7
+51109	Virginia	Louisa	pcnt_diabetic	11
+51111	Virginia	Lunenburg	pcnt_diabetic	13
+51113	Virginia	Madison	pcnt_diabetic	10
+51115	Virginia	Mathews	pcnt_diabetic	12
+51117	Virginia	Mecklenburg	pcnt_diabetic	13
+51119	Virginia	Middlesex	pcnt_diabetic	12
+51121	Virginia	Montgomery	pcnt_diabetic	7
+51125	Virginia	Nelson	pcnt_diabetic	12
+51127	Virginia	New Kent	pcnt_diabetic	11
+51131	Virginia	Northampton	pcnt_diabetic	14
+51133	Virginia	Northumberland	pcnt_diabetic	14
+51135	Virginia	Nottoway	pcnt_diabetic	12
+51137	Virginia	Orange	pcnt_diabetic	11
+51139	Virginia	Page	pcnt_diabetic	10
+51141	Virginia	Patrick	pcnt_diabetic	12
+51143	Virginia	Pittsylvania	pcnt_diabetic	12
+51145	Virginia	Powhatan	pcnt_diabetic	9
+51147	Virginia	Prince Edward	pcnt_diabetic	10
+51149	Virginia	Prince George	pcnt_diabetic	11
+51153	Virginia	Prince William	pcnt_diabetic	9
+51155	Virginia	Pulaski	pcnt_diabetic	11
+51157	Virginia	Rappahannock	pcnt_diabetic	11
+51159	Virginia	Richmond	pcnt_diabetic	11
+51161	Virginia	Roanoke	pcnt_diabetic	11
+51163	Virginia	Rockbridge	pcnt_diabetic	11
+51165	Virginia	Rockingham	pcnt_diabetic	9
+51167	Virginia	Russell	pcnt_diabetic	12
+51169	Virginia	Scott	pcnt_diabetic	10
+51171	Virginia	Shenandoah	pcnt_diabetic	10
+51173	Virginia	Smyth	pcnt_diabetic	10
+51175	Virginia	Southampton	pcnt_diabetic	13
+51177	Virginia	Spotsylvania	pcnt_diabetic	10
+51179	Virginia	Stafford	pcnt_diabetic	8
+51181	Virginia	Surry	pcnt_diabetic	14
+51183	Virginia	Sussex	pcnt_diabetic	12
+51185	Virginia	Tazewell	pcnt_diabetic	12
+51187	Virginia	Warren	pcnt_diabetic	10
+51191	Virginia	Washington	pcnt_diabetic	12
+51193	Virginia	Westmoreland	pcnt_diabetic	13
+51195	Virginia	Wise	pcnt_diabetic	11
+51197	Virginia	Wythe	pcnt_diabetic	11
+51199	Virginia	York	pcnt_diabetic	10
+51510	Virginia	Alexandria City	pcnt_diabetic	7
+51515	Virginia	Bedford City	pcnt_diabetic	13
+51520	Virginia	Bristol City	pcnt_diabetic	11
+51530	Virginia	Buena Vista City	pcnt_diabetic	10
+51540	Virginia	Charlottesville City	pcnt_diabetic	9
+51550	Virginia	Chesapeake City	pcnt_diabetic	9
+51570	Virginia	Colonial Heights City	pcnt_diabetic	11
+51580	Virginia	Covington City	pcnt_diabetic	11
+51590	Virginia	Danville City	pcnt_diabetic	12
+51595	Virginia	Emporia City	pcnt_diabetic	13
+51600	Virginia	Fairfax City	pcnt_diabetic	10
+51610	Virginia	Falls Church City	pcnt_diabetic	10
+51620	Virginia	Franklin City	pcnt_diabetic	12
+51630	Virginia	Fredericksburg City	pcnt_diabetic	10
+51640	Virginia	Galax City	pcnt_diabetic	11
+51650	Virginia	Hampton City	pcnt_diabetic	12
+51660	Virginia	Harrisonburg City	pcnt_diabetic	7
+51670	Virginia	Hopewell City	pcnt_diabetic	12
+51678	Virginia	Lexington City	pcnt_diabetic	10
+51680	Virginia	Lynchburg City	pcnt_diabetic	11
+51683	Virginia	Manassas City	pcnt_diabetic	10
+51685	Virginia	Manassas Park City	pcnt_diabetic	8
+51690	Virginia	Martinsville City	pcnt_diabetic	14
+51700	Virginia	Newport News City	pcnt_diabetic	11
+51710	Virginia	Norfolk City	pcnt_diabetic	10
+51720	Virginia	Norton City	pcnt_diabetic	10
+51730	Virginia	Petersburg City	pcnt_diabetic	15
+51735	Virginia	Poquoson City	pcnt_diabetic	10
+51740	Virginia	Portsmouth City	pcnt_diabetic	12
+51750	Virginia	Radford City	pcnt_diabetic	8
+51760	Virginia	Richmond City	pcnt_diabetic	12
+51770	Virginia	Roanoke City	pcnt_diabetic	12
+51775	Virginia	Salem City	pcnt_diabetic	10
+51790	Virginia	Staunton City	pcnt_diabetic	11
+51800	Virginia	Suffolk City	pcnt_diabetic	12
+51810	Virginia	Virginia Beach City	pcnt_diabetic	9
+51820	Virginia	Waynesboro City	pcnt_diabetic	11
+51830	Virginia	Williamsburg City	pcnt_diabetic	10
+51840	Virginia	Winchester City	pcnt_diabetic	10
+53001	Washington	Adams	pcnt_diabetic	11
+53003	Washington	Asotin	pcnt_diabetic	11
+53005	Washington	Benton	pcnt_diabetic	9
+53007	Washington	Chelan	pcnt_diabetic	8
+53009	Washington	Clallam	pcnt_diabetic	11
+53011	Washington	Clark	pcnt_diabetic	9
+53013	Washington	Columbia	pcnt_diabetic	12
+53015	Washington	Cowlitz	pcnt_diabetic	10
+53017	Washington	Douglas	pcnt_diabetic	9
+53019	Washington	Ferry	pcnt_diabetic	8
+53021	Washington	Franklin	pcnt_diabetic	9
+53023	Washington	Garfield	pcnt_diabetic	14
+53025	Washington	Grant	pcnt_diabetic	9
+53027	Washington	Grays Harbor	pcnt_diabetic	12
+53029	Washington	Island	pcnt_diabetic	10
+53031	Washington	Jefferson	pcnt_diabetic	9
+53033	Washington	King	pcnt_diabetic	6
+53035	Washington	Kitsap	pcnt_diabetic	8
+53037	Washington	Kittitas	pcnt_diabetic	7
+53039	Washington	Klickitat	pcnt_diabetic	9
+53041	Washington	Lewis	pcnt_diabetic	11
+53043	Washington	Lincoln	pcnt_diabetic	10
+53045	Washington	Mason	pcnt_diabetic	9
+53047	Washington	Okanogan	pcnt_diabetic	10
+53049	Washington	Pacific	pcnt_diabetic	14
+53051	Washington	Pend Oreille	pcnt_diabetic	10
+53053	Washington	Pierce	pcnt_diabetic	9
+53055	Washington	San Juan	pcnt_diabetic	7
+53057	Washington	Skagit	pcnt_diabetic	8
+53059	Washington	Skamania	pcnt_diabetic	9
+53061	Washington	Snohomish	pcnt_diabetic	8
+53063	Washington	Spokane	pcnt_diabetic	8
+53065	Washington	Stevens	pcnt_diabetic	10
+53067	Washington	Thurston	pcnt_diabetic	9
+53069	Washington	Wahkiakum	pcnt_diabetic	12
+53071	Washington	Walla Walla	pcnt_diabetic	9
+53073	Washington	Whatcom	pcnt_diabetic	7
+53075	Washington	Whitman	pcnt_diabetic	7
+53077	Washington	Yakima	pcnt_diabetic	9
+54001	West Virginia	Barbour	pcnt_diabetic	12
+54003	West Virginia	Berkeley	pcnt_diabetic	11
+54005	West Virginia	Boone	pcnt_diabetic	15
+54007	West Virginia	Braxton	pcnt_diabetic	14
+54009	West Virginia	Brooke	pcnt_diabetic	16
+54011	West Virginia	Cabell	pcnt_diabetic	14
+54013	West Virginia	Calhoun	pcnt_diabetic	12
+54015	West Virginia	Clay	pcnt_diabetic	15
+54017	West Virginia	Doddridge	pcnt_diabetic	13
+54019	West Virginia	Fayette	pcnt_diabetic	14
+54021	West Virginia	Gilmer	pcnt_diabetic	13
+54023	West Virginia	Grant	pcnt_diabetic	15
+54025	West Virginia	Greenbrier	pcnt_diabetic	12
+54027	West Virginia	Hampshire	pcnt_diabetic	11
+54029	West Virginia	Hancock	pcnt_diabetic	14
+54031	West Virginia	Hardy	pcnt_diabetic	13
+54033	West Virginia	Harrison	pcnt_diabetic	13
+54035	West Virginia	Jackson	pcnt_diabetic	14
+54037	West Virginia	Jefferson	pcnt_diabetic	11
+54039	West Virginia	Kanawha	pcnt_diabetic	13
+54041	West Virginia	Lewis	pcnt_diabetic	13
+54043	West Virginia	Lincoln	pcnt_diabetic	12
+54045	West Virginia	Logan	pcnt_diabetic	15
+54047	West Virginia	McDowell	pcnt_diabetic	17
+54049	West Virginia	Marion	pcnt_diabetic	12
+54051	West Virginia	Marshall	pcnt_diabetic	12
+54053	West Virginia	Mason	pcnt_diabetic	12
+54055	West Virginia	Mercer	pcnt_diabetic	13
+54057	West Virginia	Mineral	pcnt_diabetic	12
+54059	West Virginia	Mingo	pcnt_diabetic	13
+54061	West Virginia	Monongalia	pcnt_diabetic	9
+54063	West Virginia	Monroe	pcnt_diabetic	14
+54065	West Virginia	Morgan	pcnt_diabetic	13
+54067	West Virginia	Nicholas	pcnt_diabetic	13
+54069	West Virginia	Ohio	pcnt_diabetic	13
+54071	West Virginia	Pendleton	pcnt_diabetic	14
+54073	West Virginia	Pleasants	pcnt_diabetic	12
+54075	West Virginia	Pocahontas	pcnt_diabetic	13
+54077	West Virginia	Preston	pcnt_diabetic	11
+54079	West Virginia	Putnam	pcnt_diabetic	11
+54081	West Virginia	Raleigh	pcnt_diabetic	13
+54083	West Virginia	Randolph	pcnt_diabetic	13
+54085	West Virginia	Ritchie	pcnt_diabetic	13
+54087	West Virginia	Roane	pcnt_diabetic	15
+54089	West Virginia	Summers	pcnt_diabetic	13
+54091	West Virginia	Taylor	pcnt_diabetic	13
+54093	West Virginia	Tucker	pcnt_diabetic	13
+54095	West Virginia	Tyler	pcnt_diabetic	13
+54097	West Virginia	Upshur	pcnt_diabetic	14
+54099	West Virginia	Wayne	pcnt_diabetic	13
+54101	West Virginia	Webster	pcnt_diabetic	13
+54103	West Virginia	Wetzel	pcnt_diabetic	13
+54105	West Virginia	Wirt	pcnt_diabetic	15
+54107	West Virginia	Wood	pcnt_diabetic	14
+54109	West Virginia	Wyoming	pcnt_diabetic	16
+55001	Wisconsin	Adams	pcnt_diabetic	10
+55003	Wisconsin	Ashland	pcnt_diabetic	9
+55005	Wisconsin	Barron	pcnt_diabetic	8
+55007	Wisconsin	Bayfield	pcnt_diabetic	9
+55009	Wisconsin	Brown	pcnt_diabetic	8
+55011	Wisconsin	Buffalo	pcnt_diabetic	10
+55013	Wisconsin	Burnett	pcnt_diabetic	10
+55015	Wisconsin	Calumet	pcnt_diabetic	7
+55017	Wisconsin	Chippewa	pcnt_diabetic	9
+55019	Wisconsin	Clark	pcnt_diabetic	8
+55021	Wisconsin	Columbia	pcnt_diabetic	8
+55023	Wisconsin	Crawford	pcnt_diabetic	10
+55025	Wisconsin	Dane	pcnt_diabetic	6
+55027	Wisconsin	Dodge	pcnt_diabetic	8
+55029	Wisconsin	Door	pcnt_diabetic	9
+55031	Wisconsin	Douglas	pcnt_diabetic	8
+55033	Wisconsin	Dunn	pcnt_diabetic	7
+55035	Wisconsin	Eau Claire	pcnt_diabetic	7
+55037	Wisconsin	Florence	pcnt_diabetic	9
+55039	Wisconsin	Fond du Lac	pcnt_diabetic	8
+55041	Wisconsin	Forest	pcnt_diabetic	11
+55043	Wisconsin	Grant	pcnt_diabetic	9
+55045	Wisconsin	Green	pcnt_diabetic	8
+55047	Wisconsin	Green Lake	pcnt_diabetic	10
+55049	Wisconsin	Iowa	pcnt_diabetic	9
+55051	Wisconsin	Iron	pcnt_diabetic	11
+55053	Wisconsin	Jackson	pcnt_diabetic	9
+55055	Wisconsin	Jefferson	pcnt_diabetic	9
+55057	Wisconsin	Juneau	pcnt_diabetic	9
+55059	Wisconsin	Kenosha	pcnt_diabetic	8
+55061	Wisconsin	Kewaunee	pcnt_diabetic	9
+55063	Wisconsin	La Crosse	pcnt_diabetic	7
+55065	Wisconsin	Lafayette	pcnt_diabetic	9
+55067	Wisconsin	Langlade	pcnt_diabetic	10
+55069	Wisconsin	Lincoln	pcnt_diabetic	10
+55071	Wisconsin	Manitowoc	pcnt_diabetic	8
+55073	Wisconsin	Marathon	pcnt_diabetic	9
+55075	Wisconsin	Marinette	pcnt_diabetic	9
+55077	Wisconsin	Marquette	pcnt_diabetic	9
+55078	Wisconsin	Menominee	pcnt_diabetic	13
+55079	Wisconsin	Milwaukee	pcnt_diabetic	10
+55081	Wisconsin	Monroe	pcnt_diabetic	9
+55083	Wisconsin	Oconto	pcnt_diabetic	8
+55085	Wisconsin	Oneida	pcnt_diabetic	9
+55087	Wisconsin	Outagamie	pcnt_diabetic	9
+55089	Wisconsin	Ozaukee	pcnt_diabetic	8
+55091	Wisconsin	Pepin	pcnt_diabetic	9
+55093	Wisconsin	Pierce	pcnt_diabetic	7
+55095	Wisconsin	Polk	pcnt_diabetic	8
+55097	Wisconsin	Portage	pcnt_diabetic	7
+55099	Wisconsin	Price	pcnt_diabetic	10
+55101	Wisconsin	Racine	pcnt_diabetic	9
+55103	Wisconsin	Richland	pcnt_diabetic	9
+55105	Wisconsin	Rock	pcnt_diabetic	9
+55107	Wisconsin	Rusk	pcnt_diabetic	10
+55109	Wisconsin	St. Croix	pcnt_diabetic	7
+55111	Wisconsin	Sauk	pcnt_diabetic	9
+55113	Wisconsin	Sawyer	pcnt_diabetic	10
+55115	Wisconsin	Shawano	pcnt_diabetic	10
+55117	Wisconsin	Sheboygan	pcnt_diabetic	9
+55119	Wisconsin	Taylor	pcnt_diabetic	9
+55121	Wisconsin	Trempealeau	pcnt_diabetic	9
+55123	Wisconsin	Vernon	pcnt_diabetic	9
+55125	Wisconsin	Vilas	pcnt_diabetic	9
+55127	Wisconsin	Walworth	pcnt_diabetic	7
+55129	Wisconsin	Washburn	pcnt_diabetic	11
+55131	Wisconsin	Washington	pcnt_diabetic	7
+55133	Wisconsin	Waukesha	pcnt_diabetic	7
+55135	Wisconsin	Waupaca	pcnt_diabetic	9
+55137	Wisconsin	Waushara	pcnt_diabetic	10
+55139	Wisconsin	Winnebago	pcnt_diabetic	8
+55141	Wisconsin	Wood	pcnt_diabetic	9
+56001	Wyoming	Albany	pcnt_diabetic	5
+56003	Wyoming	Big Horn	pcnt_diabetic	9
+56005	Wyoming	Campbell	pcnt_diabetic	7
+56007	Wyoming	Carbon	pcnt_diabetic	8
+56009	Wyoming	Converse	pcnt_diabetic	7
+56011	Wyoming	Crook	pcnt_diabetic	8
+56013	Wyoming	Fremont	pcnt_diabetic	8
+56015	Wyoming	Goshen	pcnt_diabetic	8
+56017	Wyoming	Hot Springs	pcnt_diabetic	10
+56019	Wyoming	Johnson	pcnt_diabetic	9
+56021	Wyoming	Laramie	pcnt_diabetic	8
+56023	Wyoming	Lincoln	pcnt_diabetic	9
+56025	Wyoming	Natrona	pcnt_diabetic	7
+56027	Wyoming	Niobrara	pcnt_diabetic	8
+56029	Wyoming	Park	pcnt_diabetic	7
+56031	Wyoming	Platte	pcnt_diabetic	11
+56033	Wyoming	Sheridan	pcnt_diabetic	9
+56035	Wyoming	Sublette	pcnt_diabetic	6
+56037	Wyoming	Sweetwater	pcnt_diabetic	7
+56039	Wyoming	Teton	pcnt_diabetic	4
+56041	Wyoming	Uinta	pcnt_diabetic	7
+56043	Wyoming	Washakie	pcnt_diabetic	9
+56045	Wyoming	Weston	pcnt_diabetic	7

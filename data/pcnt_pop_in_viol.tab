@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_pop_in_viol
-01001	Alabama	Autauga	pcnt_pop_in_viol	0
-01003	Alabama	Baldwin	pcnt_pop_in_viol	8
-01005	Alabama	Barbour	pcnt_pop_in_viol	8
-01007	Alabama	Bibb	pcnt_pop_in_viol	0
-01009	Alabama	Blount	pcnt_pop_in_viol	7
-01011	Alabama	Bullock	pcnt_pop_in_viol	0
-01013	Alabama	Butler	pcnt_pop_in_viol	0
-01015	Alabama	Calhoun	pcnt_pop_in_viol	0
-01017	Alabama	Chambers	pcnt_pop_in_viol	0
-01019	Alabama	Cherokee	pcnt_pop_in_viol	0
-01021	Alabama	Chilton	pcnt_pop_in_viol	0
-01023	Alabama	Choctaw	pcnt_pop_in_viol	0
-01025	Alabama	Clarke	pcnt_pop_in_viol	12
-01027	Alabama	Clay	pcnt_pop_in_viol	0
-01029	Alabama	Cleburne	pcnt_pop_in_viol	0
-01031	Alabama	Coffee	pcnt_pop_in_viol	0
-01033	Alabama	Colbert	pcnt_pop_in_viol	5
-01035	Alabama	Conecuh	pcnt_pop_in_viol	0
-01037	Alabama	Coosa	pcnt_pop_in_viol	0
-01039	Alabama	Covington	pcnt_pop_in_viol	0
-01041	Alabama	Crenshaw	pcnt_pop_in_viol	0
-01043	Alabama	Cullman	pcnt_pop_in_viol	0
-01045	Alabama	Dale	pcnt_pop_in_viol	0
-01047	Alabama	Dallas	pcnt_pop_in_viol	0
-01049	Alabama	DeKalb	pcnt_pop_in_viol	0
-01051	Alabama	Elmore	pcnt_pop_in_viol	0
-01053	Alabama	Escambia	pcnt_pop_in_viol	0
-01055	Alabama	Etowah	pcnt_pop_in_viol	0
-01057	Alabama	Fayette	pcnt_pop_in_viol	0
-01059	Alabama	Franklin	pcnt_pop_in_viol	0
-01061	Alabama	Geneva	pcnt_pop_in_viol	0
-01063	Alabama	Greene	pcnt_pop_in_viol	0
-01065	Alabama	Hale	pcnt_pop_in_viol	49
-01067	Alabama	Henry	pcnt_pop_in_viol	46
-01069	Alabama	Houston	pcnt_pop_in_viol	0
-01071	Alabama	Jackson	pcnt_pop_in_viol	0
-01073	Alabama	Jefferson	pcnt_pop_in_viol	0
-01075	Alabama	Lamar	pcnt_pop_in_viol	0
-01077	Alabama	Lauderdale	pcnt_pop_in_viol	0
-01079	Alabama	Lawrence	pcnt_pop_in_viol	7
-01081	Alabama	Lee	pcnt_pop_in_viol	0
-01083	Alabama	Limestone	pcnt_pop_in_viol	0
-01085	Alabama	Lowndes	pcnt_pop_in_viol	0
-01087	Alabama	Macon	pcnt_pop_in_viol	0
-01089	Alabama	Madison	pcnt_pop_in_viol	0
-01091	Alabama	Marengo	pcnt_pop_in_viol	45
-01093	Alabama	Marion	pcnt_pop_in_viol	0
-01095	Alabama	Marshall	pcnt_pop_in_viol	0
-01097	Alabama	Mobile	pcnt_pop_in_viol	0
-01099	Alabama	Monroe	pcnt_pop_in_viol	8
-01101	Alabama	Montgomery	pcnt_pop_in_viol	0
-01103	Alabama	Morgan	pcnt_pop_in_viol	0
-01105	Alabama	Perry	pcnt_pop_in_viol	0
-01107	Alabama	Pickens	pcnt_pop_in_viol	0
-01109	Alabama	Pike	pcnt_pop_in_viol	0
-01111	Alabama	Randolph	pcnt_pop_in_viol	7
-01113	Alabama	Russell	pcnt_pop_in_viol	0
-01115	Alabama	St. Clair	pcnt_pop_in_viol	0
-01117	Alabama	Shelby	pcnt_pop_in_viol	0
-01119	Alabama	Sumter	pcnt_pop_in_viol	0
-01121	Alabama	Talladega	pcnt_pop_in_viol	0
-01123	Alabama	Tallapoosa	pcnt_pop_in_viol	4
-01125	Alabama	Tuscaloosa	pcnt_pop_in_viol	0
-01127	Alabama	Walker	pcnt_pop_in_viol	0
-01129	Alabama	Washington	pcnt_pop_in_viol	0
-01131	Alabama	Wilcox	pcnt_pop_in_viol	0
-01133	Alabama	Winston	pcnt_pop_in_viol	0
-02013	Alaska	Aleutians East	pcnt_pop_in_viol	45
-02016	Alaska	Aleutians West	pcnt_pop_in_viol	3
-02020	Alaska	Anchorage	pcnt_pop_in_viol	34
-02050	Alaska	Bethel	pcnt_pop_in_viol	18
-02060	Alaska	Bristol Bay	pcnt_pop_in_viol	0
-02068	Alaska	Denali	pcnt_pop_in_viol	
-02070	Alaska	Dillingham	pcnt_pop_in_viol	57
-02090	Alaska	Fairbanks North Star	pcnt_pop_in_viol	2
-02100	Alaska	Haines	pcnt_pop_in_viol	73
-02110	Alaska	Juneau	pcnt_pop_in_viol	0
-02122	Alaska	Kenai Peninsula	pcnt_pop_in_viol	5
-02130	Alaska	Ketchikan Gateway	pcnt_pop_in_viol	99
-02150	Alaska	Kodiak Island	pcnt_pop_in_viol	3
-02164	Alaska	Lake and Peninsula	pcnt_pop_in_viol	31
-02170	Alaska	Matanuska-Susitna	pcnt_pop_in_viol	1
-02180	Alaska	Nome	pcnt_pop_in_viol	66
-02185	Alaska	North Slope	pcnt_pop_in_viol	0
-02188	Alaska	Northwest Arctic	pcnt_pop_in_viol	73
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_pop_in_viol	63
-02220	Alaska	Sitka	pcnt_pop_in_viol	1
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_pop_in_viol	8
-02240	Alaska	Southeast Fairbanks	pcnt_pop_in_viol	10
-02261	Alaska	Valdez-Cordova	pcnt_pop_in_viol	1
-02270	Alaska	Wade Hampton	pcnt_pop_in_viol	71
-02280	Alaska	Wrangell-Petersburg	pcnt_pop_in_viol	7
-02282	Alaska	Yakutat	pcnt_pop_in_viol	0
-02290	Alaska	Yukon-Koyukuk	pcnt_pop_in_viol	23
-04001	Arizona	Apache	pcnt_pop_in_viol	45
-04003	Arizona	Cochise	pcnt_pop_in_viol	15
-04005	Arizona	Coconino	pcnt_pop_in_viol	8
-04007	Arizona	Gila	pcnt_pop_in_viol	19
-04009	Arizona	Graham	pcnt_pop_in_viol	0
-04011	Arizona	Greenlee	pcnt_pop_in_viol	0
-04012	Arizona	La Paz	pcnt_pop_in_viol	2
-04013	Arizona	Maricopa	pcnt_pop_in_viol	0
-04015	Arizona	Mohave	pcnt_pop_in_viol	28
-04017	Arizona	Navajo	pcnt_pop_in_viol	15
-04019	Arizona	Pima	pcnt_pop_in_viol	3
-04021	Arizona	Pinal	pcnt_pop_in_viol	7
-04023	Arizona	Santa Cruz	pcnt_pop_in_viol	5
-04025	Arizona	Yavapai	pcnt_pop_in_viol	6
-04027	Arizona	Yuma	pcnt_pop_in_viol	1
-05001	Arkansas	Arkansas	pcnt_pop_in_viol	12
-05003	Arkansas	Ashley	pcnt_pop_in_viol	4
-05005	Arkansas	Baxter	pcnt_pop_in_viol	0
-05007	Arkansas	Benton	pcnt_pop_in_viol	10
-05009	Arkansas	Boone	pcnt_pop_in_viol	12
-05011	Arkansas	Bradley	pcnt_pop_in_viol	0
-05013	Arkansas	Calhoun	pcnt_pop_in_viol	8
-05015	Arkansas	Carroll	pcnt_pop_in_viol	1
-05017	Arkansas	Chicot	pcnt_pop_in_viol	0
-05019	Arkansas	Clark	pcnt_pop_in_viol	4
-05021	Arkansas	Clay	pcnt_pop_in_viol	21
-05023	Arkansas	Cleburne	pcnt_pop_in_viol	25
-05025	Arkansas	Cleveland	pcnt_pop_in_viol	0
-05027	Arkansas	Columbia	pcnt_pop_in_viol	2
-05029	Arkansas	Conway	pcnt_pop_in_viol	0
-05031	Arkansas	Craighead	pcnt_pop_in_viol	0
-05033	Arkansas	Crawford	pcnt_pop_in_viol	14
-05035	Arkansas	Crittenden	pcnt_pop_in_viol	5
-05037	Arkansas	Cross	pcnt_pop_in_viol	2
-05039	Arkansas	Dallas	pcnt_pop_in_viol	0
-05041	Arkansas	Desha	pcnt_pop_in_viol	2
-05043	Arkansas	Drew	pcnt_pop_in_viol	4
-05045	Arkansas	Faulkner	pcnt_pop_in_viol	23
-05047	Arkansas	Franklin	pcnt_pop_in_viol	21
-05049	Arkansas	Fulton	pcnt_pop_in_viol	1
-05051	Arkansas	Garland	pcnt_pop_in_viol	0
-05053	Arkansas	Grant	pcnt_pop_in_viol	0
-05055	Arkansas	Greene	pcnt_pop_in_viol	0
-05057	Arkansas	Hempstead	pcnt_pop_in_viol	7
-05059	Arkansas	Hot Spring	pcnt_pop_in_viol	0
-05061	Arkansas	Howard	pcnt_pop_in_viol	4
-05063	Arkansas	Independence	pcnt_pop_in_viol	0
-05065	Arkansas	Izard	pcnt_pop_in_viol	41
-05067	Arkansas	Jackson	pcnt_pop_in_viol	0
-05069	Arkansas	Jefferson	pcnt_pop_in_viol	11
-05071	Arkansas	Johnson	pcnt_pop_in_viol	0
-05073	Arkansas	Lafayette	pcnt_pop_in_viol	0
-05075	Arkansas	Lawrence	pcnt_pop_in_viol	7
-05077	Arkansas	Lee	pcnt_pop_in_viol	0
-05079	Arkansas	Lincoln	pcnt_pop_in_viol	43
-05081	Arkansas	Little River	pcnt_pop_in_viol	10
-05083	Arkansas	Logan	pcnt_pop_in_viol	35
-05085	Arkansas	Lonoke	pcnt_pop_in_viol	11
-05087	Arkansas	Madison	pcnt_pop_in_viol	6
-05089	Arkansas	Marion	pcnt_pop_in_viol	18
-05091	Arkansas	Miller	pcnt_pop_in_viol	0
-05093	Arkansas	Mississippi	pcnt_pop_in_viol	9
-05095	Arkansas	Monroe	pcnt_pop_in_viol	19
-05097	Arkansas	Montgomery	pcnt_pop_in_viol	0
-05099	Arkansas	Nevada	pcnt_pop_in_viol	0
-05101	Arkansas	Newton	pcnt_pop_in_viol	30
-05103	Arkansas	Ouachita	pcnt_pop_in_viol	53
-05105	Arkansas	Perry	pcnt_pop_in_viol	15
-05107	Arkansas	Phillips	pcnt_pop_in_viol	17
-05109	Arkansas	Pike	pcnt_pop_in_viol	35
-05111	Arkansas	Poinsett	pcnt_pop_in_viol	1
-05113	Arkansas	Polk	pcnt_pop_in_viol	24
-05115	Arkansas	Pope	pcnt_pop_in_viol	0
-05117	Arkansas	Prairie	pcnt_pop_in_viol	67
-05119	Arkansas	Pulaski	pcnt_pop_in_viol	9
-05121	Arkansas	Randolph	pcnt_pop_in_viol	3
-05123	Arkansas	St. Francis	pcnt_pop_in_viol	3
-05125	Arkansas	Saline	pcnt_pop_in_viol	5
-05127	Arkansas	Scott	pcnt_pop_in_viol	100
-05129	Arkansas	Searcy	pcnt_pop_in_viol	52
-05131	Arkansas	Sebastian	pcnt_pop_in_viol	20
-05133	Arkansas	Sevier	pcnt_pop_in_viol	0
-05135	Arkansas	Sharp	pcnt_pop_in_viol	9
-05137	Arkansas	Stone	pcnt_pop_in_viol	0
-05139	Arkansas	Union	pcnt_pop_in_viol	10
-05141	Arkansas	Van Buren	pcnt_pop_in_viol	47
-05143	Arkansas	Washington	pcnt_pop_in_viol	2
-05145	Arkansas	White	pcnt_pop_in_viol	0
-05147	Arkansas	Woodruff	pcnt_pop_in_viol	18
-05149	Arkansas	Yell	pcnt_pop_in_viol	20
-06001	California	Alameda	pcnt_pop_in_viol	0
-06003	California	Alpine	pcnt_pop_in_viol	0
-06005	California	Amador	pcnt_pop_in_viol	7
-06007	California	Butte	pcnt_pop_in_viol	0
-06009	California	Calaveras	pcnt_pop_in_viol	1
-06011	California	Colusa	pcnt_pop_in_viol	13
-06013	California	Contra Costa	pcnt_pop_in_viol	0
-06015	California	Del Norte	pcnt_pop_in_viol	0
-06017	California	El Dorado	pcnt_pop_in_viol	0
-06019	California	Fresno	pcnt_pop_in_viol	22
-06021	California	Glenn	pcnt_pop_in_viol	0
-06023	California	Humboldt	pcnt_pop_in_viol	1
-06025	California	Imperial	pcnt_pop_in_viol	29
-06027	California	Inyo	pcnt_pop_in_viol	7
-06029	California	Kern	pcnt_pop_in_viol	10
-06031	California	Kings	pcnt_pop_in_viol	22
-06033	California	Lake	pcnt_pop_in_viol	0
-06035	California	Lassen	pcnt_pop_in_viol	10
-06037	California	Los Angeles	pcnt_pop_in_viol	7
-06039	California	Madera	pcnt_pop_in_viol	16
-06041	California	Marin	pcnt_pop_in_viol	1
-06043	California	Mariposa	pcnt_pop_in_viol	45
-06045	California	Mendocino	pcnt_pop_in_viol	1
-06047	California	Merced	pcnt_pop_in_viol	5
-06049	California	Modoc	pcnt_pop_in_viol	0
-06051	California	Mono	pcnt_pop_in_viol	7
-06053	California	Monterey	pcnt_pop_in_viol	1
-06055	California	Napa	pcnt_pop_in_viol	1
-06057	California	Nevada	pcnt_pop_in_viol	2
-06059	California	Orange	pcnt_pop_in_viol	0
-06061	California	Placer	pcnt_pop_in_viol	1
-06063	California	Plumas	pcnt_pop_in_viol	32
-06065	California	Riverside	pcnt_pop_in_viol	0
-06067	California	Sacramento	pcnt_pop_in_viol	0
-06069	California	San Benito	pcnt_pop_in_viol	0
-06071	California	San Bernardino	pcnt_pop_in_viol	2
-06073	California	San Diego	pcnt_pop_in_viol	0
-06075	California	San Francisco	pcnt_pop_in_viol	0
-06077	California	San Joaquin	pcnt_pop_in_viol	1
-06079	California	San Luis Obispo	pcnt_pop_in_viol	1
-06081	California	San Mateo	pcnt_pop_in_viol	0
-06083	California	Santa Barbara	pcnt_pop_in_viol	3
-06085	California	Santa Clara	pcnt_pop_in_viol	0
-06087	California	Santa Cruz	pcnt_pop_in_viol	2
-06089	California	Shasta	pcnt_pop_in_viol	1
-06091	California	Sierra	pcnt_pop_in_viol	18
-06093	California	Siskiyou	pcnt_pop_in_viol	0
-06095	California	Solano	pcnt_pop_in_viol	0
-06097	California	Sonoma	pcnt_pop_in_viol	1
-06099	California	Stanislaus	pcnt_pop_in_viol	28
-06101	California	Sutter	pcnt_pop_in_viol	21
-06103	California	Tehama	pcnt_pop_in_viol	16
-06105	California	Trinity	pcnt_pop_in_viol	3
-06107	California	Tulare	pcnt_pop_in_viol	11
-06109	California	Tuolumne	pcnt_pop_in_viol	0
-06111	California	Ventura	pcnt_pop_in_viol	0
-06113	California	Yolo	pcnt_pop_in_viol	0
-06115	California	Yuba	pcnt_pop_in_viol	0
-08001	Colorado	Adams	pcnt_pop_in_viol	0
-08003	Colorado	Alamosa	pcnt_pop_in_viol	0
-08005	Colorado	Arapahoe	pcnt_pop_in_viol	7
-08007	Colorado	Archuleta	pcnt_pop_in_viol	0
-08009	Colorado	Baca	pcnt_pop_in_viol	2
-08011	Colorado	Bent	pcnt_pop_in_viol	0
-08013	Colorado	Boulder	pcnt_pop_in_viol	0
-08014	Colorado	Broomfield	pcnt_pop_in_viol	0
-08015	Colorado	Chaffee	pcnt_pop_in_viol	0
-08017	Colorado	Cheyenne	pcnt_pop_in_viol	0
-08019	Colorado	Clear Creek	pcnt_pop_in_viol	0
-08021	Colorado	Conejos	pcnt_pop_in_viol	21
-08023	Colorado	Costilla	pcnt_pop_in_viol	32
-08025	Colorado	Crowley	pcnt_pop_in_viol	0
-08027	Colorado	Custer	pcnt_pop_in_viol	0
-08029	Colorado	Delta	pcnt_pop_in_viol	5
-08031	Colorado	Denver	pcnt_pop_in_viol	0
-08033	Colorado	Dolores	pcnt_pop_in_viol	0
-08035	Colorado	Douglas	pcnt_pop_in_viol	0
-08037	Colorado	Eagle	pcnt_pop_in_viol	9
-08039	Colorado	Elbert	pcnt_pop_in_viol	1
-08041	Colorado	El Paso	pcnt_pop_in_viol	0
-08043	Colorado	Fremont	pcnt_pop_in_viol	0
-08045	Colorado	Garfield	pcnt_pop_in_viol	0
-08047	Colorado	Gilpin	pcnt_pop_in_viol	0
-08049	Colorado	Grand	pcnt_pop_in_viol	0
-08051	Colorado	Gunnison	pcnt_pop_in_viol	15
-08053	Colorado	Hinsdale	pcnt_pop_in_viol	0
-08055	Colorado	Huerfano	pcnt_pop_in_viol	2
-08057	Colorado	Jackson	pcnt_pop_in_viol	0
-08059	Colorado	Jefferson	pcnt_pop_in_viol	0
-08061	Colorado	Kiowa	pcnt_pop_in_viol	8
-08063	Colorado	Kit Carson	pcnt_pop_in_viol	3
-08065	Colorado	Lake	pcnt_pop_in_viol	0
-08067	Colorado	La Plata	pcnt_pop_in_viol	2
-08069	Colorado	Larimer	pcnt_pop_in_viol	0
-08071	Colorado	Las Animas	pcnt_pop_in_viol	0
-08073	Colorado	Lincoln	pcnt_pop_in_viol	0
-08075	Colorado	Logan	pcnt_pop_in_viol	78
-08077	Colorado	Mesa	pcnt_pop_in_viol	0
-08079	Colorado	Mineral	pcnt_pop_in_viol	0
-08081	Colorado	Moffat	pcnt_pop_in_viol	0
-08083	Colorado	Montezuma	pcnt_pop_in_viol	0
-08085	Colorado	Montrose	pcnt_pop_in_viol	0
-08087	Colorado	Morgan	pcnt_pop_in_viol	5
-08089	Colorado	Otero	pcnt_pop_in_viol	15
-08091	Colorado	Ouray	pcnt_pop_in_viol	0
-08093	Colorado	Park	pcnt_pop_in_viol	0
-08095	Colorado	Phillips	pcnt_pop_in_viol	0
-08097	Colorado	Pitkin	pcnt_pop_in_viol	0
-08099	Colorado	Prowers	pcnt_pop_in_viol	11
-08101	Colorado	Pueblo	pcnt_pop_in_viol	1
-08103	Colorado	Rio Blanco	pcnt_pop_in_viol	0
-08105	Colorado	Rio Grande	pcnt_pop_in_viol	0
-08107	Colorado	Routt	pcnt_pop_in_viol	1
-08109	Colorado	Saguache	pcnt_pop_in_viol	0
-08111	Colorado	San Juan	pcnt_pop_in_viol	0
-08113	Colorado	San Miguel	pcnt_pop_in_viol	0
-08115	Colorado	Sedgwick	pcnt_pop_in_viol	0
-08117	Colorado	Summit	pcnt_pop_in_viol	0
-08119	Colorado	Teller	pcnt_pop_in_viol	2
-08121	Colorado	Washington	pcnt_pop_in_viol	0
-08123	Colorado	Weld	pcnt_pop_in_viol	4
-08125	Colorado	Yuma	pcnt_pop_in_viol	0
-09001	Connecticut	Fairfield	pcnt_pop_in_viol	0
-09003	Connecticut	Hartford	pcnt_pop_in_viol	0
-09005	Connecticut	Litchfield	pcnt_pop_in_viol	1
-09007	Connecticut	Middlesex	pcnt_pop_in_viol	1
-09009	Connecticut	New Haven	pcnt_pop_in_viol	0
-09011	Connecticut	New London	pcnt_pop_in_viol	7
-09013	Connecticut	Tolland	pcnt_pop_in_viol	15
-09015	Connecticut	Windham	pcnt_pop_in_viol	2
+1001	Alabama	Autauga	pcnt_pop_in_viol	0
+1003	Alabama	Baldwin	pcnt_pop_in_viol	8
+1005	Alabama	Barbour	pcnt_pop_in_viol	8
+1007	Alabama	Bibb	pcnt_pop_in_viol	0
+1009	Alabama	Blount	pcnt_pop_in_viol	7
+1011	Alabama	Bullock	pcnt_pop_in_viol	0
+1013	Alabama	Butler	pcnt_pop_in_viol	0
+1015	Alabama	Calhoun	pcnt_pop_in_viol	0
+1017	Alabama	Chambers	pcnt_pop_in_viol	0
+1019	Alabama	Cherokee	pcnt_pop_in_viol	0
+1021	Alabama	Chilton	pcnt_pop_in_viol	0
+1023	Alabama	Choctaw	pcnt_pop_in_viol	0
+1025	Alabama	Clarke	pcnt_pop_in_viol	12
+1027	Alabama	Clay	pcnt_pop_in_viol	0
+1029	Alabama	Cleburne	pcnt_pop_in_viol	0
+1031	Alabama	Coffee	pcnt_pop_in_viol	0
+1033	Alabama	Colbert	pcnt_pop_in_viol	5
+1035	Alabama	Conecuh	pcnt_pop_in_viol	0
+1037	Alabama	Coosa	pcnt_pop_in_viol	0
+1039	Alabama	Covington	pcnt_pop_in_viol	0
+1041	Alabama	Crenshaw	pcnt_pop_in_viol	0
+1043	Alabama	Cullman	pcnt_pop_in_viol	0
+1045	Alabama	Dale	pcnt_pop_in_viol	0
+1047	Alabama	Dallas	pcnt_pop_in_viol	0
+1049	Alabama	DeKalb	pcnt_pop_in_viol	0
+1051	Alabama	Elmore	pcnt_pop_in_viol	0
+1053	Alabama	Escambia	pcnt_pop_in_viol	0
+1055	Alabama	Etowah	pcnt_pop_in_viol	0
+1057	Alabama	Fayette	pcnt_pop_in_viol	0
+1059	Alabama	Franklin	pcnt_pop_in_viol	0
+1061	Alabama	Geneva	pcnt_pop_in_viol	0
+1063	Alabama	Greene	pcnt_pop_in_viol	0
+1065	Alabama	Hale	pcnt_pop_in_viol	49
+1067	Alabama	Henry	pcnt_pop_in_viol	46
+1069	Alabama	Houston	pcnt_pop_in_viol	0
+1071	Alabama	Jackson	pcnt_pop_in_viol	0
+1073	Alabama	Jefferson	pcnt_pop_in_viol	0
+1075	Alabama	Lamar	pcnt_pop_in_viol	0
+1077	Alabama	Lauderdale	pcnt_pop_in_viol	0
+1079	Alabama	Lawrence	pcnt_pop_in_viol	7
+1081	Alabama	Lee	pcnt_pop_in_viol	0
+1083	Alabama	Limestone	pcnt_pop_in_viol	0
+1085	Alabama	Lowndes	pcnt_pop_in_viol	0
+1087	Alabama	Macon	pcnt_pop_in_viol	0
+1089	Alabama	Madison	pcnt_pop_in_viol	0
+1091	Alabama	Marengo	pcnt_pop_in_viol	45
+1093	Alabama	Marion	pcnt_pop_in_viol	0
+1095	Alabama	Marshall	pcnt_pop_in_viol	0
+1097	Alabama	Mobile	pcnt_pop_in_viol	0
+1099	Alabama	Monroe	pcnt_pop_in_viol	8
+1101	Alabama	Montgomery	pcnt_pop_in_viol	0
+1103	Alabama	Morgan	pcnt_pop_in_viol	0
+1105	Alabama	Perry	pcnt_pop_in_viol	0
+1107	Alabama	Pickens	pcnt_pop_in_viol	0
+1109	Alabama	Pike	pcnt_pop_in_viol	0
+1111	Alabama	Randolph	pcnt_pop_in_viol	7
+1113	Alabama	Russell	pcnt_pop_in_viol	0
+1115	Alabama	St. Clair	pcnt_pop_in_viol	0
+1117	Alabama	Shelby	pcnt_pop_in_viol	0
+1119	Alabama	Sumter	pcnt_pop_in_viol	0
+1121	Alabama	Talladega	pcnt_pop_in_viol	0
+1123	Alabama	Tallapoosa	pcnt_pop_in_viol	4
+1125	Alabama	Tuscaloosa	pcnt_pop_in_viol	0
+1127	Alabama	Walker	pcnt_pop_in_viol	0
+1129	Alabama	Washington	pcnt_pop_in_viol	0
+1131	Alabama	Wilcox	pcnt_pop_in_viol	0
+1133	Alabama	Winston	pcnt_pop_in_viol	0
+2013	Alaska	Aleutians East	pcnt_pop_in_viol	45
+2016	Alaska	Aleutians West	pcnt_pop_in_viol	3
+2020	Alaska	Anchorage	pcnt_pop_in_viol	34
+2050	Alaska	Bethel	pcnt_pop_in_viol	18
+2060	Alaska	Bristol Bay	pcnt_pop_in_viol	0
+2068	Alaska	Denali	pcnt_pop_in_viol	
+2070	Alaska	Dillingham	pcnt_pop_in_viol	57
+2090	Alaska	Fairbanks North Star	pcnt_pop_in_viol	2
+2100	Alaska	Haines	pcnt_pop_in_viol	73
+2110	Alaska	Juneau	pcnt_pop_in_viol	0
+2122	Alaska	Kenai Peninsula	pcnt_pop_in_viol	5
+2130	Alaska	Ketchikan Gateway	pcnt_pop_in_viol	99
+2150	Alaska	Kodiak Island	pcnt_pop_in_viol	3
+2164	Alaska	Lake and Peninsula	pcnt_pop_in_viol	31
+2170	Alaska	Matanuska-Susitna	pcnt_pop_in_viol	1
+2180	Alaska	Nome	pcnt_pop_in_viol	66
+2185	Alaska	North Slope	pcnt_pop_in_viol	0
+2188	Alaska	Northwest Arctic	pcnt_pop_in_viol	73
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_pop_in_viol	63
+2220	Alaska	Sitka	pcnt_pop_in_viol	1
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_pop_in_viol	8
+2240	Alaska	Southeast Fairbanks	pcnt_pop_in_viol	10
+2261	Alaska	Valdez-Cordova	pcnt_pop_in_viol	1
+2270	Alaska	Wade Hampton	pcnt_pop_in_viol	71
+2280	Alaska	Wrangell-Petersburg	pcnt_pop_in_viol	7
+2282	Alaska	Yakutat	pcnt_pop_in_viol	0
+2290	Alaska	Yukon-Koyukuk	pcnt_pop_in_viol	23
+4001	Arizona	Apache	pcnt_pop_in_viol	45
+4003	Arizona	Cochise	pcnt_pop_in_viol	15
+4005	Arizona	Coconino	pcnt_pop_in_viol	8
+4007	Arizona	Gila	pcnt_pop_in_viol	19
+4009	Arizona	Graham	pcnt_pop_in_viol	0
+4011	Arizona	Greenlee	pcnt_pop_in_viol	0
+4012	Arizona	La Paz	pcnt_pop_in_viol	2
+4013	Arizona	Maricopa	pcnt_pop_in_viol	0
+4015	Arizona	Mohave	pcnt_pop_in_viol	28
+4017	Arizona	Navajo	pcnt_pop_in_viol	15
+4019	Arizona	Pima	pcnt_pop_in_viol	3
+4021	Arizona	Pinal	pcnt_pop_in_viol	7
+4023	Arizona	Santa Cruz	pcnt_pop_in_viol	5
+4025	Arizona	Yavapai	pcnt_pop_in_viol	6
+4027	Arizona	Yuma	pcnt_pop_in_viol	1
+5001	Arkansas	Arkansas	pcnt_pop_in_viol	12
+5003	Arkansas	Ashley	pcnt_pop_in_viol	4
+5005	Arkansas	Baxter	pcnt_pop_in_viol	0
+5007	Arkansas	Benton	pcnt_pop_in_viol	10
+5009	Arkansas	Boone	pcnt_pop_in_viol	12
+5011	Arkansas	Bradley	pcnt_pop_in_viol	0
+5013	Arkansas	Calhoun	pcnt_pop_in_viol	8
+5015	Arkansas	Carroll	pcnt_pop_in_viol	1
+5017	Arkansas	Chicot	pcnt_pop_in_viol	0
+5019	Arkansas	Clark	pcnt_pop_in_viol	4
+5021	Arkansas	Clay	pcnt_pop_in_viol	21
+5023	Arkansas	Cleburne	pcnt_pop_in_viol	25
+5025	Arkansas	Cleveland	pcnt_pop_in_viol	0
+5027	Arkansas	Columbia	pcnt_pop_in_viol	2
+5029	Arkansas	Conway	pcnt_pop_in_viol	0
+5031	Arkansas	Craighead	pcnt_pop_in_viol	0
+5033	Arkansas	Crawford	pcnt_pop_in_viol	14
+5035	Arkansas	Crittenden	pcnt_pop_in_viol	5
+5037	Arkansas	Cross	pcnt_pop_in_viol	2
+5039	Arkansas	Dallas	pcnt_pop_in_viol	0
+5041	Arkansas	Desha	pcnt_pop_in_viol	2
+5043	Arkansas	Drew	pcnt_pop_in_viol	4
+5045	Arkansas	Faulkner	pcnt_pop_in_viol	23
+5047	Arkansas	Franklin	pcnt_pop_in_viol	21
+5049	Arkansas	Fulton	pcnt_pop_in_viol	1
+5051	Arkansas	Garland	pcnt_pop_in_viol	0
+5053	Arkansas	Grant	pcnt_pop_in_viol	0
+5055	Arkansas	Greene	pcnt_pop_in_viol	0
+5057	Arkansas	Hempstead	pcnt_pop_in_viol	7
+5059	Arkansas	Hot Spring	pcnt_pop_in_viol	0
+5061	Arkansas	Howard	pcnt_pop_in_viol	4
+5063	Arkansas	Independence	pcnt_pop_in_viol	0
+5065	Arkansas	Izard	pcnt_pop_in_viol	41
+5067	Arkansas	Jackson	pcnt_pop_in_viol	0
+5069	Arkansas	Jefferson	pcnt_pop_in_viol	11
+5071	Arkansas	Johnson	pcnt_pop_in_viol	0
+5073	Arkansas	Lafayette	pcnt_pop_in_viol	0
+5075	Arkansas	Lawrence	pcnt_pop_in_viol	7
+5077	Arkansas	Lee	pcnt_pop_in_viol	0
+5079	Arkansas	Lincoln	pcnt_pop_in_viol	43
+5081	Arkansas	Little River	pcnt_pop_in_viol	10
+5083	Arkansas	Logan	pcnt_pop_in_viol	35
+5085	Arkansas	Lonoke	pcnt_pop_in_viol	11
+5087	Arkansas	Madison	pcnt_pop_in_viol	6
+5089	Arkansas	Marion	pcnt_pop_in_viol	18
+5091	Arkansas	Miller	pcnt_pop_in_viol	0
+5093	Arkansas	Mississippi	pcnt_pop_in_viol	9
+5095	Arkansas	Monroe	pcnt_pop_in_viol	19
+5097	Arkansas	Montgomery	pcnt_pop_in_viol	0
+5099	Arkansas	Nevada	pcnt_pop_in_viol	0
+5101	Arkansas	Newton	pcnt_pop_in_viol	30
+5103	Arkansas	Ouachita	pcnt_pop_in_viol	53
+5105	Arkansas	Perry	pcnt_pop_in_viol	15
+5107	Arkansas	Phillips	pcnt_pop_in_viol	17
+5109	Arkansas	Pike	pcnt_pop_in_viol	35
+5111	Arkansas	Poinsett	pcnt_pop_in_viol	1
+5113	Arkansas	Polk	pcnt_pop_in_viol	24
+5115	Arkansas	Pope	pcnt_pop_in_viol	0
+5117	Arkansas	Prairie	pcnt_pop_in_viol	67
+5119	Arkansas	Pulaski	pcnt_pop_in_viol	9
+5121	Arkansas	Randolph	pcnt_pop_in_viol	3
+5123	Arkansas	St. Francis	pcnt_pop_in_viol	3
+5125	Arkansas	Saline	pcnt_pop_in_viol	5
+5127	Arkansas	Scott	pcnt_pop_in_viol	100
+5129	Arkansas	Searcy	pcnt_pop_in_viol	52
+5131	Arkansas	Sebastian	pcnt_pop_in_viol	20
+5133	Arkansas	Sevier	pcnt_pop_in_viol	0
+5135	Arkansas	Sharp	pcnt_pop_in_viol	9
+5137	Arkansas	Stone	pcnt_pop_in_viol	0
+5139	Arkansas	Union	pcnt_pop_in_viol	10
+5141	Arkansas	Van Buren	pcnt_pop_in_viol	47
+5143	Arkansas	Washington	pcnt_pop_in_viol	2
+5145	Arkansas	White	pcnt_pop_in_viol	0
+5147	Arkansas	Woodruff	pcnt_pop_in_viol	18
+5149	Arkansas	Yell	pcnt_pop_in_viol	20
+6001	California	Alameda	pcnt_pop_in_viol	0
+6003	California	Alpine	pcnt_pop_in_viol	0
+6005	California	Amador	pcnt_pop_in_viol	7
+6007	California	Butte	pcnt_pop_in_viol	0
+6009	California	Calaveras	pcnt_pop_in_viol	1
+6011	California	Colusa	pcnt_pop_in_viol	13
+6013	California	Contra Costa	pcnt_pop_in_viol	0
+6015	California	Del Norte	pcnt_pop_in_viol	0
+6017	California	El Dorado	pcnt_pop_in_viol	0
+6019	California	Fresno	pcnt_pop_in_viol	22
+6021	California	Glenn	pcnt_pop_in_viol	0
+6023	California	Humboldt	pcnt_pop_in_viol	1
+6025	California	Imperial	pcnt_pop_in_viol	29
+6027	California	Inyo	pcnt_pop_in_viol	7
+6029	California	Kern	pcnt_pop_in_viol	10
+6031	California	Kings	pcnt_pop_in_viol	22
+6033	California	Lake	pcnt_pop_in_viol	0
+6035	California	Lassen	pcnt_pop_in_viol	10
+6037	California	Los Angeles	pcnt_pop_in_viol	7
+6039	California	Madera	pcnt_pop_in_viol	16
+6041	California	Marin	pcnt_pop_in_viol	1
+6043	California	Mariposa	pcnt_pop_in_viol	45
+6045	California	Mendocino	pcnt_pop_in_viol	1
+6047	California	Merced	pcnt_pop_in_viol	5
+6049	California	Modoc	pcnt_pop_in_viol	0
+6051	California	Mono	pcnt_pop_in_viol	7
+6053	California	Monterey	pcnt_pop_in_viol	1
+6055	California	Napa	pcnt_pop_in_viol	1
+6057	California	Nevada	pcnt_pop_in_viol	2
+6059	California	Orange	pcnt_pop_in_viol	0
+6061	California	Placer	pcnt_pop_in_viol	1
+6063	California	Plumas	pcnt_pop_in_viol	32
+6065	California	Riverside	pcnt_pop_in_viol	0
+6067	California	Sacramento	pcnt_pop_in_viol	0
+6069	California	San Benito	pcnt_pop_in_viol	0
+6071	California	San Bernardino	pcnt_pop_in_viol	2
+6073	California	San Diego	pcnt_pop_in_viol	0
+6075	California	San Francisco	pcnt_pop_in_viol	0
+6077	California	San Joaquin	pcnt_pop_in_viol	1
+6079	California	San Luis Obispo	pcnt_pop_in_viol	1
+6081	California	San Mateo	pcnt_pop_in_viol	0
+6083	California	Santa Barbara	pcnt_pop_in_viol	3
+6085	California	Santa Clara	pcnt_pop_in_viol	0
+6087	California	Santa Cruz	pcnt_pop_in_viol	2
+6089	California	Shasta	pcnt_pop_in_viol	1
+6091	California	Sierra	pcnt_pop_in_viol	18
+6093	California	Siskiyou	pcnt_pop_in_viol	0
+6095	California	Solano	pcnt_pop_in_viol	0
+6097	California	Sonoma	pcnt_pop_in_viol	1
+6099	California	Stanislaus	pcnt_pop_in_viol	28
+6101	California	Sutter	pcnt_pop_in_viol	21
+6103	California	Tehama	pcnt_pop_in_viol	16
+6105	California	Trinity	pcnt_pop_in_viol	3
+6107	California	Tulare	pcnt_pop_in_viol	11
+6109	California	Tuolumne	pcnt_pop_in_viol	0
+6111	California	Ventura	pcnt_pop_in_viol	0
+6113	California	Yolo	pcnt_pop_in_viol	0
+6115	California	Yuba	pcnt_pop_in_viol	0
+8001	Colorado	Adams	pcnt_pop_in_viol	0
+8003	Colorado	Alamosa	pcnt_pop_in_viol	0
+8005	Colorado	Arapahoe	pcnt_pop_in_viol	7
+8007	Colorado	Archuleta	pcnt_pop_in_viol	0
+8009	Colorado	Baca	pcnt_pop_in_viol	2
+8011	Colorado	Bent	pcnt_pop_in_viol	0
+8013	Colorado	Boulder	pcnt_pop_in_viol	0
+8014	Colorado	Broomfield	pcnt_pop_in_viol	0
+8015	Colorado	Chaffee	pcnt_pop_in_viol	0
+8017	Colorado	Cheyenne	pcnt_pop_in_viol	0
+8019	Colorado	Clear Creek	pcnt_pop_in_viol	0
+8021	Colorado	Conejos	pcnt_pop_in_viol	21
+8023	Colorado	Costilla	pcnt_pop_in_viol	32
+8025	Colorado	Crowley	pcnt_pop_in_viol	0
+8027	Colorado	Custer	pcnt_pop_in_viol	0
+8029	Colorado	Delta	pcnt_pop_in_viol	5
+8031	Colorado	Denver	pcnt_pop_in_viol	0
+8033	Colorado	Dolores	pcnt_pop_in_viol	0
+8035	Colorado	Douglas	pcnt_pop_in_viol	0
+8037	Colorado	Eagle	pcnt_pop_in_viol	9
+8039	Colorado	Elbert	pcnt_pop_in_viol	1
+8041	Colorado	El Paso	pcnt_pop_in_viol	0
+8043	Colorado	Fremont	pcnt_pop_in_viol	0
+8045	Colorado	Garfield	pcnt_pop_in_viol	0
+8047	Colorado	Gilpin	pcnt_pop_in_viol	0
+8049	Colorado	Grand	pcnt_pop_in_viol	0
+8051	Colorado	Gunnison	pcnt_pop_in_viol	15
+8053	Colorado	Hinsdale	pcnt_pop_in_viol	0
+8055	Colorado	Huerfano	pcnt_pop_in_viol	2
+8057	Colorado	Jackson	pcnt_pop_in_viol	0
+8059	Colorado	Jefferson	pcnt_pop_in_viol	0
+8061	Colorado	Kiowa	pcnt_pop_in_viol	8
+8063	Colorado	Kit Carson	pcnt_pop_in_viol	3
+8065	Colorado	Lake	pcnt_pop_in_viol	0
+8067	Colorado	La Plata	pcnt_pop_in_viol	2
+8069	Colorado	Larimer	pcnt_pop_in_viol	0
+8071	Colorado	Las Animas	pcnt_pop_in_viol	0
+8073	Colorado	Lincoln	pcnt_pop_in_viol	0
+8075	Colorado	Logan	pcnt_pop_in_viol	78
+8077	Colorado	Mesa	pcnt_pop_in_viol	0
+8079	Colorado	Mineral	pcnt_pop_in_viol	0
+8081	Colorado	Moffat	pcnt_pop_in_viol	0
+8083	Colorado	Montezuma	pcnt_pop_in_viol	0
+8085	Colorado	Montrose	pcnt_pop_in_viol	0
+8087	Colorado	Morgan	pcnt_pop_in_viol	5
+8089	Colorado	Otero	pcnt_pop_in_viol	15
+8091	Colorado	Ouray	pcnt_pop_in_viol	0
+8093	Colorado	Park	pcnt_pop_in_viol	0
+8095	Colorado	Phillips	pcnt_pop_in_viol	0
+8097	Colorado	Pitkin	pcnt_pop_in_viol	0
+8099	Colorado	Prowers	pcnt_pop_in_viol	11
+8101	Colorado	Pueblo	pcnt_pop_in_viol	1
+8103	Colorado	Rio Blanco	pcnt_pop_in_viol	0
+8105	Colorado	Rio Grande	pcnt_pop_in_viol	0
+8107	Colorado	Routt	pcnt_pop_in_viol	1
+8109	Colorado	Saguache	pcnt_pop_in_viol	0
+8111	Colorado	San Juan	pcnt_pop_in_viol	0
+8113	Colorado	San Miguel	pcnt_pop_in_viol	0
+8115	Colorado	Sedgwick	pcnt_pop_in_viol	0
+8117	Colorado	Summit	pcnt_pop_in_viol	0
+8119	Colorado	Teller	pcnt_pop_in_viol	2
+8121	Colorado	Washington	pcnt_pop_in_viol	0
+8123	Colorado	Weld	pcnt_pop_in_viol	4
+8125	Colorado	Yuma	pcnt_pop_in_viol	0
+9001	Connecticut	Fairfield	pcnt_pop_in_viol	0
+9003	Connecticut	Hartford	pcnt_pop_in_viol	0
+9005	Connecticut	Litchfield	pcnt_pop_in_viol	1
+9007	Connecticut	Middlesex	pcnt_pop_in_viol	1
+9009	Connecticut	New Haven	pcnt_pop_in_viol	0
+9011	Connecticut	New London	pcnt_pop_in_viol	7
+9013	Connecticut	Tolland	pcnt_pop_in_viol	15
+9015	Connecticut	Windham	pcnt_pop_in_viol	2
 10001	Delaware	Kent	pcnt_pop_in_viol	1
 10003	Delaware	New Castle	pcnt_pop_in_viol	0
 10005	Delaware	Sussex	pcnt_pop_in_viol	3

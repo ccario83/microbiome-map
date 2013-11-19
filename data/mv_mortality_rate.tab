@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	mv_mortality_rate
+1001	Alabama	Autauga	mv_mortality_rate	24
+1003	Alabama	Baldwin	mv_mortality_rate	20
+1005	Alabama	Barbour	mv_mortality_rate	26
+1007	Alabama	Bibb	mv_mortality_rate	34
+1009	Alabama	Blount	mv_mortality_rate	28
+1011	Alabama	Bullock	mv_mortality_rate	59
+1013	Alabama	Butler	mv_mortality_rate	29
+1015	Alabama	Calhoun	mv_mortality_rate	23
+1017	Alabama	Chambers	mv_mortality_rate	27
+1019	Alabama	Cherokee	mv_mortality_rate	26
+1021	Alabama	Chilton	mv_mortality_rate	36
+1023	Alabama	Choctaw	mv_mortality_rate	45
+1025	Alabama	Clarke	mv_mortality_rate	31
+1027	Alabama	Clay	mv_mortality_rate	20
+1029	Alabama	Cleburne	mv_mortality_rate	24
+1031	Alabama	Coffee	mv_mortality_rate	24
+1033	Alabama	Colbert	mv_mortality_rate	21
+1035	Alabama	Conecuh	mv_mortality_rate	48
+1037	Alabama	Coosa	mv_mortality_rate	34
+1039	Alabama	Covington	mv_mortality_rate	31
+1041	Alabama	Crenshaw	mv_mortality_rate	35
+1043	Alabama	Cullman	mv_mortality_rate	33
+1045	Alabama	Dale	mv_mortality_rate	21
+1047	Alabama	Dallas	mv_mortality_rate	27
+1049	Alabama	DeKalb	mv_mortality_rate	25
+1051	Alabama	Elmore	mv_mortality_rate	26
+1053	Alabama	Escambia	mv_mortality_rate	37
+1055	Alabama	Etowah	mv_mortality_rate	21
+1057	Alabama	Fayette	mv_mortality_rate	42
+1059	Alabama	Franklin	mv_mortality_rate	30
+1061	Alabama	Geneva	mv_mortality_rate	33
+1063	Alabama	Greene	mv_mortality_rate	33
+1065	Alabama	Hale	mv_mortality_rate	43
+1067	Alabama	Henry	mv_mortality_rate	32
+1069	Alabama	Houston	mv_mortality_rate	17
+1071	Alabama	Jackson	mv_mortality_rate	35
+1073	Alabama	Jefferson	mv_mortality_rate	18
+1075	Alabama	Lamar	mv_mortality_rate	29
+1077	Alabama	Lauderdale	mv_mortality_rate	18
+1079	Alabama	Lawrence	mv_mortality_rate	33
+1081	Alabama	Lee	mv_mortality_rate	15
+1083	Alabama	Limestone	mv_mortality_rate	24
+1085	Alabama	Lowndes	mv_mortality_rate	45
+1087	Alabama	Macon	mv_mortality_rate	33
+1089	Alabama	Madison	mv_mortality_rate	17
+1091	Alabama	Marengo	mv_mortality_rate	27
+1093	Alabama	Marion	mv_mortality_rate	32
+1095	Alabama	Marshall	mv_mortality_rate	27
+1097	Alabama	Mobile	mv_mortality_rate	23
+1099	Alabama	Monroe	mv_mortality_rate	40
+1101	Alabama	Montgomery	mv_mortality_rate	15
+1103	Alabama	Morgan	mv_mortality_rate	23
+1105	Alabama	Perry	mv_mortality_rate	38
+1107	Alabama	Pickens	mv_mortality_rate	31
+1109	Alabama	Pike	mv_mortality_rate	28
+1111	Alabama	Randolph	mv_mortality_rate	35
+1113	Alabama	Russell	mv_mortality_rate	28
+1115	Alabama	St. Clair	mv_mortality_rate	24
+1117	Alabama	Shelby	mv_mortality_rate	16
+1119	Alabama	Sumter	mv_mortality_rate	32
+1121	Alabama	Talladega	mv_mortality_rate	24
+1123	Alabama	Tallapoosa	mv_mortality_rate	23
+1125	Alabama	Tuscaloosa	mv_mortality_rate	19
+1127	Alabama	Walker	mv_mortality_rate	37
+1129	Alabama	Washington	mv_mortality_rate	28
+1131	Alabama	Wilcox	mv_mortality_rate	47
+1133	Alabama	Winston	mv_mortality_rate	39
+2013	Alaska	Aleutians East	mv_mortality_rate	
+2016	Alaska	Aleutians West	mv_mortality_rate	
+2020	Alaska	Anchorage	mv_mortality_rate	9
+2050	Alaska	Bethel	mv_mortality_rate	
+2060	Alaska	Bristol Bay	mv_mortality_rate	
+2068	Alaska	Denali	mv_mortality_rate	
+2070	Alaska	Dillingham	mv_mortality_rate	
+2090	Alaska	Fairbanks North Star	mv_mortality_rate	12
+2100	Alaska	Haines	mv_mortality_rate	
+2110	Alaska	Juneau	mv_mortality_rate	7
+2122	Alaska	Kenai Peninsula	mv_mortality_rate	19
+2130	Alaska	Ketchikan Gateway	mv_mortality_rate	
+2150	Alaska	Kodiak Island	mv_mortality_rate	
+2164	Alaska	Lake and Peninsula	mv_mortality_rate	
+2170	Alaska	Matanuska-Susitna	mv_mortality_rate	15
+2180	Alaska	Nome	mv_mortality_rate	15
+2185	Alaska	North Slope	mv_mortality_rate	18
+2188	Alaska	Northwest Arctic	mv_mortality_rate	
+2201	Alaska	Prince of Wales-Outer Ketchikan	mv_mortality_rate	
+2220	Alaska	Sitka	mv_mortality_rate	
+2232	Alaska	Skagway-Hoonah-Angoon	mv_mortality_rate	
+2240	Alaska	Southeast Fairbanks	mv_mortality_rate	25
+2261	Alaska	Valdez-Cordova	mv_mortality_rate	18
+2270	Alaska	Wade Hampton	mv_mortality_rate	
+2280	Alaska	Wrangell-Petersburg	mv_mortality_rate	
+2282	Alaska	Yakutat	mv_mortality_rate	
+2290	Alaska	Yukon-Koyukuk	mv_mortality_rate	
+4001	Arizona	Apache	mv_mortality_rate	59
+4003	Arizona	Cochise	mv_mortality_rate	22
+4005	Arizona	Coconino	mv_mortality_rate	29
+4007	Arizona	Gila	mv_mortality_rate	31
+4009	Arizona	Graham	mv_mortality_rate	22
+4011	Arizona	Greenlee	mv_mortality_rate	25
+4012	Arizona	La Paz	mv_mortality_rate	41
+4013	Arizona	Maricopa	mv_mortality_rate	13
+4015	Arizona	Mohave	mv_mortality_rate	21
+4017	Arizona	Navajo	mv_mortality_rate	44
+4019	Arizona	Pima	mv_mortality_rate	14
+4021	Arizona	Pinal	mv_mortality_rate	20
+4023	Arizona	Santa Cruz	mv_mortality_rate	16
+4025	Arizona	Yavapai	mv_mortality_rate	20
+4027	Arizona	Yuma	mv_mortality_rate	14
+5001	Arkansas	Arkansas	mv_mortality_rate	25
+5003	Arkansas	Ashley	mv_mortality_rate	33
+5005	Arkansas	Baxter	mv_mortality_rate	27
+5007	Arkansas	Benton	mv_mortality_rate	16
+5009	Arkansas	Boone	mv_mortality_rate	24
+5011	Arkansas	Bradley	mv_mortality_rate	34
+5013	Arkansas	Calhoun	mv_mortality_rate	
+5015	Arkansas	Carroll	mv_mortality_rate	28
+5017	Arkansas	Chicot	mv_mortality_rate	33
+5019	Arkansas	Clark	mv_mortality_rate	18
+5021	Arkansas	Clay	mv_mortality_rate	32
+5023	Arkansas	Cleburne	mv_mortality_rate	35
+5025	Arkansas	Cleveland	mv_mortality_rate	26
+5027	Arkansas	Columbia	mv_mortality_rate	21
+5029	Arkansas	Conway	mv_mortality_rate	26
+5031	Arkansas	Craighead	mv_mortality_rate	24
+5033	Arkansas	Crawford	mv_mortality_rate	18
+5035	Arkansas	Crittenden	mv_mortality_rate	20
+5037	Arkansas	Cross	mv_mortality_rate	30
+5039	Arkansas	Dallas	mv_mortality_rate	37
+5041	Arkansas	Desha	mv_mortality_rate	24
+5043	Arkansas	Drew	mv_mortality_rate	31
+5045	Arkansas	Faulkner	mv_mortality_rate	19
+5047	Arkansas	Franklin	mv_mortality_rate	16
+5049	Arkansas	Fulton	mv_mortality_rate	26
+5051	Arkansas	Garland	mv_mortality_rate	25
+5053	Arkansas	Grant	mv_mortality_rate	26
+5055	Arkansas	Greene	mv_mortality_rate	27
+5057	Arkansas	Hempstead	mv_mortality_rate	28
+5059	Arkansas	Hot Spring	mv_mortality_rate	30
+5061	Arkansas	Howard	mv_mortality_rate	32
+5063	Arkansas	Independence	mv_mortality_rate	37
+5065	Arkansas	Izard	mv_mortality_rate	19
+5067	Arkansas	Jackson	mv_mortality_rate	35
+5069	Arkansas	Jefferson	mv_mortality_rate	20
+5071	Arkansas	Johnson	mv_mortality_rate	23
+5073	Arkansas	Lafayette	mv_mortality_rate	42
+5075	Arkansas	Lawrence	mv_mortality_rate	39
+5077	Arkansas	Lee	mv_mortality_rate	27
+5079	Arkansas	Lincoln	mv_mortality_rate	32
+5081	Arkansas	Little River	mv_mortality_rate	27
+5083	Arkansas	Logan	mv_mortality_rate	27
+5085	Arkansas	Lonoke	mv_mortality_rate	25
+5087	Arkansas	Madison	mv_mortality_rate	44
+5089	Arkansas	Marion	mv_mortality_rate	29
+5091	Arkansas	Miller	mv_mortality_rate	25
+5093	Arkansas	Mississippi	mv_mortality_rate	26
+5095	Arkansas	Monroe	mv_mortality_rate	49
+5097	Arkansas	Montgomery	mv_mortality_rate	36
+5099	Arkansas	Nevada	mv_mortality_rate	32
+5101	Arkansas	Newton	mv_mortality_rate	25
+5103	Arkansas	Ouachita	mv_mortality_rate	31
+5105	Arkansas	Perry	mv_mortality_rate	38
+5107	Arkansas	Phillips	mv_mortality_rate	34
+5109	Arkansas	Pike	mv_mortality_rate	20
+5111	Arkansas	Poinsett	mv_mortality_rate	33
+5113	Arkansas	Polk	mv_mortality_rate	32
+5115	Arkansas	Pope	mv_mortality_rate	18
+5117	Arkansas	Prairie	mv_mortality_rate	18
+5119	Arkansas	Pulaski	mv_mortality_rate	18
+5121	Arkansas	Randolph	mv_mortality_rate	33
+5123	Arkansas	St. Francis	mv_mortality_rate	22
+5125	Arkansas	Saline	mv_mortality_rate	17
+5127	Arkansas	Scott	mv_mortality_rate	33
+5129	Arkansas	Searcy	mv_mortality_rate	35
+5131	Arkansas	Sebastian	mv_mortality_rate	16
+5133	Arkansas	Sevier	mv_mortality_rate	36
+5135	Arkansas	Sharp	mv_mortality_rate	37
+5137	Arkansas	Stone	mv_mortality_rate	26
+5139	Arkansas	Union	mv_mortality_rate	27
+5141	Arkansas	Van Buren	mv_mortality_rate	43
+5143	Arkansas	Washington	mv_mortality_rate	13
+5145	Arkansas	White	mv_mortality_rate	26
+5147	Arkansas	Woodruff	mv_mortality_rate	24
+5149	Arkansas	Yell	mv_mortality_rate	38
+6001	California	Alameda	mv_mortality_rate	7
+6003	California	Alpine	mv_mortality_rate	
+6005	California	Amador	mv_mortality_rate	23
+6007	California	Butte	mv_mortality_rate	18
+6009	California	Calaveras	mv_mortality_rate	27
+6011	California	Colusa	mv_mortality_rate	18
+6013	California	Contra Costa	mv_mortality_rate	8
+6015	California	Del Norte	mv_mortality_rate	24
+6017	California	El Dorado	mv_mortality_rate	12
+6019	California	Fresno	mv_mortality_rate	17
+6021	California	Glenn	mv_mortality_rate	22
+6023	California	Humboldt	mv_mortality_rate	17
+6025	California	Imperial	mv_mortality_rate	16
+6027	California	Inyo	mv_mortality_rate	17
+6029	California	Kern	mv_mortality_rate	17
+6031	California	Kings	mv_mortality_rate	18
+6033	California	Lake	mv_mortality_rate	26
+6035	California	Lassen	mv_mortality_rate	19
+6037	California	Los Angeles	mv_mortality_rate	8
+6039	California	Madera	mv_mortality_rate	23
+6041	California	Marin	mv_mortality_rate	5
+6043	California	Mariposa	mv_mortality_rate	25
+6045	California	Mendocino	mv_mortality_rate	18
+6047	California	Merced	mv_mortality_rate	18
+6049	California	Modoc	mv_mortality_rate	27
+6051	California	Mono	mv_mortality_rate	
+6053	California	Monterey	mv_mortality_rate	11
+6055	California	Napa	mv_mortality_rate	12
+6057	California	Nevada	mv_mortality_rate	15
+6059	California	Orange	mv_mortality_rate	7
+6061	California	Placer	mv_mortality_rate	9
+6063	California	Plumas	mv_mortality_rate	17
+6065	California	Riverside	mv_mortality_rate	14
+6067	California	Sacramento	mv_mortality_rate	10
+6069	California	San Benito	mv_mortality_rate	12
+6071	California	San Bernardino	mv_mortality_rate	14
+6073	California	San Diego	mv_mortality_rate	10
+6075	California	San Francisco	mv_mortality_rate	5
+6077	California	San Joaquin	mv_mortality_rate	14
+6079	California	San Luis Obispo	mv_mortality_rate	14
+6081	California	San Mateo	mv_mortality_rate	5
+6083	California	Santa Barbara	mv_mortality_rate	10
+6085	California	Santa Clara	mv_mortality_rate	7
+6087	California	Santa Cruz	mv_mortality_rate	9
+6089	California	Shasta	mv_mortality_rate	15
+6091	California	Sierra	mv_mortality_rate	43
+6093	California	Siskiyou	mv_mortality_rate	22
+6095	California	Solano	mv_mortality_rate	12
+6097	California	Sonoma	mv_mortality_rate	10
+6099	California	Stanislaus	mv_mortality_rate	14
+6101	California	Sutter	mv_mortality_rate	19
+6103	California	Tehama	mv_mortality_rate	20
+6105	California	Trinity	mv_mortality_rate	35
+6107	California	Tulare	mv_mortality_rate	21
+6109	California	Tuolumne	mv_mortality_rate	21
+6111	California	Ventura	mv_mortality_rate	9
+6113	California	Yolo	mv_mortality_rate	10
+6115	California	Yuba	mv_mortality_rate	19
+8001	Colorado	Adams	mv_mortality_rate	12
+8003	Colorado	Alamosa	mv_mortality_rate	21
+8005	Colorado	Arapahoe	mv_mortality_rate	9
+8007	Colorado	Archuleta	mv_mortality_rate	23
+8009	Colorado	Baca	mv_mortality_rate	55
+8011	Colorado	Bent	mv_mortality_rate	
+8013	Colorado	Boulder	mv_mortality_rate	8
+8014	Colorado	Broomfield	mv_mortality_rate	7
+8015	Colorado	Chaffee	mv_mortality_rate	21
+8017	Colorado	Cheyenne	mv_mortality_rate	
+8019	Colorado	Clear Creek	mv_mortality_rate	20
+8021	Colorado	Conejos	mv_mortality_rate	23
+8023	Colorado	Costilla	mv_mortality_rate	52
+8025	Colorado	Crowley	mv_mortality_rate	34
+8027	Colorado	Custer	mv_mortality_rate	
+8029	Colorado	Delta	mv_mortality_rate	24
+8031	Colorado	Denver	mv_mortality_rate	11
+8033	Colorado	Dolores	mv_mortality_rate	
+8035	Colorado	Douglas	mv_mortality_rate	7
+8037	Colorado	Eagle	mv_mortality_rate	12
+8039	Colorado	Elbert	mv_mortality_rate	16
+8041	Colorado	El Paso	mv_mortality_rate	10
+8043	Colorado	Fremont	mv_mortality_rate	14
+8045	Colorado	Garfield	mv_mortality_rate	21
+8047	Colorado	Gilpin	mv_mortality_rate	
+8049	Colorado	Grand	mv_mortality_rate	13
+8051	Colorado	Gunnison	mv_mortality_rate	15
+8053	Colorado	Hinsdale	mv_mortality_rate	
+8055	Colorado	Huerfano	mv_mortality_rate	39
+8057	Colorado	Jackson	mv_mortality_rate	
+8059	Colorado	Jefferson	mv_mortality_rate	10
+8061	Colorado	Kiowa	mv_mortality_rate	
+8063	Colorado	Kit Carson	mv_mortality_rate	28
+8065	Colorado	Lake	mv_mortality_rate	23
+8067	Colorado	La Plata	mv_mortality_rate	20
+8069	Colorado	Larimer	mv_mortality_rate	9
+8071	Colorado	Las Animas	mv_mortality_rate	32
+8073	Colorado	Lincoln	mv_mortality_rate	26
+8075	Colorado	Logan	mv_mortality_rate	18
+8077	Colorado	Mesa	mv_mortality_rate	16
+8079	Colorado	Mineral	mv_mortality_rate	
+8081	Colorado	Moffat	mv_mortality_rate	21
+8083	Colorado	Montezuma	mv_mortality_rate	32
+8085	Colorado	Montrose	mv_mortality_rate	16
+8087	Colorado	Morgan	mv_mortality_rate	15
+8089	Colorado	Otero	mv_mortality_rate	23
+8091	Colorado	Ouray	mv_mortality_rate	
+8093	Colorado	Park	mv_mortality_rate	21
+8095	Colorado	Phillips	mv_mortality_rate	
+8097	Colorado	Pitkin	mv_mortality_rate	11
+8099	Colorado	Prowers	mv_mortality_rate	24
+8101	Colorado	Pueblo	mv_mortality_rate	15
+8103	Colorado	Rio Blanco	mv_mortality_rate	31
+8105	Colorado	Rio Grande	mv_mortality_rate	26
+8107	Colorado	Routt	mv_mortality_rate	17
+8109	Colorado	Saguache	mv_mortality_rate	
+8111	Colorado	San Juan	mv_mortality_rate	
+8113	Colorado	San Miguel	mv_mortality_rate	22
+8115	Colorado	Sedgwick	mv_mortality_rate	
+8117	Colorado	Summit	mv_mortality_rate	11
+8119	Colorado	Teller	mv_mortality_rate	15
+8121	Colorado	Washington	mv_mortality_rate	35
+8123	Colorado	Weld	mv_mortality_rate	17
+8125	Colorado	Yuma	mv_mortality_rate	17
+9001	Connecticut	Fairfield	mv_mortality_rate	7
+9003	Connecticut	Hartford	mv_mortality_rate	8
+9005	Connecticut	Litchfield	mv_mortality_rate	11
+9007	Connecticut	Middlesex	mv_mortality_rate	9
+9009	Connecticut	New Haven	mv_mortality_rate	9
+9011	Connecticut	New London	mv_mortality_rate	10
+9013	Connecticut	Tolland	mv_mortality_rate	9
+9015	Connecticut	Windham	mv_mortality_rate	16
+10001	Delaware	Kent	mv_mortality_rate	19
+10003	Delaware	New Castle	mv_mortality_rate	10
+10005	Delaware	Sussex	mv_mortality_rate	21
+11001	District of Columbia	District of Columbia	mv_mortality_rate	7
+12001	Florida	Alachua	mv_mortality_rate	14
+12003	Florida	Baker	mv_mortality_rate	28
+12005	Florida	Bay	mv_mortality_rate	21
+12007	Florida	Bradford	mv_mortality_rate	32
+12009	Florida	Brevard	mv_mortality_rate	15
+12011	Florida	Broward	mv_mortality_rate	13
+12013	Florida	Calhoun	mv_mortality_rate	20
+12015	Florida	Charlotte	mv_mortality_rate	16
+12017	Florida	Citrus	mv_mortality_rate	25
+12019	Florida	Clay	mv_mortality_rate	18
+12021	Florida	Collier	mv_mortality_rate	14
+12023	Florida	Columbia	mv_mortality_rate	35
+12027	Florida	DeSoto	mv_mortality_rate	32
+12029	Florida	Dixie	mv_mortality_rate	40
+12031	Florida	Duval	mv_mortality_rate	16
+12033	Florida	Escambia	mv_mortality_rate	17
+12035	Florida	Flagler	mv_mortality_rate	22
+12037	Florida	Franklin	mv_mortality_rate	24
+12039	Florida	Gadsden	mv_mortality_rate	29
+12041	Florida	Gilchrist	mv_mortality_rate	32
+12043	Florida	Glades	mv_mortality_rate	44
+12045	Florida	Gulf	mv_mortality_rate	23
+12047	Florida	Hamilton	mv_mortality_rate	31
+12049	Florida	Hardee	mv_mortality_rate	36
+12051	Florida	Hendry	mv_mortality_rate	41
+12053	Florida	Hernando	mv_mortality_rate	19
+12055	Florida	Highlands	mv_mortality_rate	21
+12057	Florida	Hillsborough	mv_mortality_rate	15
+12059	Florida	Holmes	mv_mortality_rate	28
+12061	Florida	Indian River	mv_mortality_rate	16
+12063	Florida	Jackson	mv_mortality_rate	26
+12065	Florida	Jefferson	mv_mortality_rate	41
+12067	Florida	Lafayette	mv_mortality_rate	24
+12069	Florida	Lake	mv_mortality_rate	22
+12071	Florida	Lee	mv_mortality_rate	18
+12073	Florida	Leon	mv_mortality_rate	11
+12075	Florida	Levy	mv_mortality_rate	38
+12077	Florida	Liberty	mv_mortality_rate	25
+12079	Florida	Madison	mv_mortality_rate	39
+12081	Florida	Manatee	mv_mortality_rate	16
+12083	Florida	Marion	mv_mortality_rate	23
+12085	Florida	Martin	mv_mortality_rate	16
+12086	Florida	Miami-Dade	mv_mortality_rate	13
+12087	Florida	Monroe	mv_mortality_rate	21
+12089	Florida	Nassau	mv_mortality_rate	28
+12091	Florida	Okaloosa	mv_mortality_rate	14
+12093	Florida	Okeechobee	mv_mortality_rate	34
+12095	Florida	Orange	mv_mortality_rate	14
+12097	Florida	Osceola	mv_mortality_rate	18
+12099	Florida	Palm Beach	mv_mortality_rate	15
+12101	Florida	Pasco	mv_mortality_rate	20
+12103	Florida	Pinellas	mv_mortality_rate	14
+12105	Florida	Polk	mv_mortality_rate	22
+12107	Florida	Putnam	mv_mortality_rate	30
+12109	Florida	St. Johns	mv_mortality_rate	15
+12111	Florida	St. Lucie	mv_mortality_rate	16
+12113	Florida	Santa Rosa	mv_mortality_rate	17
+12115	Florida	Sarasota	mv_mortality_rate	14
+12117	Florida	Seminole	mv_mortality_rate	11
+12119	Florida	Sumter	mv_mortality_rate	18
+12121	Florida	Suwannee	mv_mortality_rate	31
+12123	Florida	Taylor	mv_mortality_rate	25
+12125	Florida	Union	mv_mortality_rate	30
+12127	Florida	Volusia	mv_mortality_rate	22
+12129	Florida	Wakulla	mv_mortality_rate	21
+12131	Florida	Walton	mv_mortality_rate	31
+12133	Florida	Washington	mv_mortality_rate	32
+13001	Georgia	Appling	mv_mortality_rate	41
+13003	Georgia	Atkinson	mv_mortality_rate	38
+13005	Georgia	Bacon	mv_mortality_rate	44
+13007	Georgia	Baker	mv_mortality_rate	
+13009	Georgia	Baldwin	mv_mortality_rate	13
+13011	Georgia	Banks	mv_mortality_rate	26
+13013	Georgia	Barrow	mv_mortality_rate	25
+13015	Georgia	Bartow	mv_mortality_rate	19
+13017	Georgia	Ben Hill	mv_mortality_rate	18
+13019	Georgia	Berrien	mv_mortality_rate	27
+13021	Georgia	Bibb	mv_mortality_rate	18
+13023	Georgia	Bleckley	mv_mortality_rate	23
+13025	Georgia	Brantley	mv_mortality_rate	34
+13027	Georgia	Brooks	mv_mortality_rate	29
+13029	Georgia	Bryan	mv_mortality_rate	24
+13031	Georgia	Bulloch	mv_mortality_rate	18
+13033	Georgia	Burke	mv_mortality_rate	33
+13035	Georgia	Butts	mv_mortality_rate	27
+13037	Georgia	Calhoun	mv_mortality_rate	
+13039	Georgia	Camden	mv_mortality_rate	19
+13043	Georgia	Candler	mv_mortality_rate	28
+13045	Georgia	Carroll	mv_mortality_rate	24
+13047	Georgia	Catoosa	mv_mortality_rate	13
+13049	Georgia	Charlton	mv_mortality_rate	20
+13051	Georgia	Chatham	mv_mortality_rate	15
+13053	Georgia	Chattahoochee	mv_mortality_rate	
+13055	Georgia	Chattooga	mv_mortality_rate	29
+13057	Georgia	Cherokee	mv_mortality_rate	10
+13059	Georgia	Clarke	mv_mortality_rate	11
+13061	Georgia	Clay	mv_mortality_rate	
+13063	Georgia	Clayton	mv_mortality_rate	11
+13065	Georgia	Clinch	mv_mortality_rate	37
+13067	Georgia	Cobb	mv_mortality_rate	9
+13069	Georgia	Coffee	mv_mortality_rate	24
+13071	Georgia	Colquitt	mv_mortality_rate	25
+13073	Georgia	Columbia	mv_mortality_rate	12
+13075	Georgia	Cook	mv_mortality_rate	25
+13077	Georgia	Coweta	mv_mortality_rate	14
+13079	Georgia	Crawford	mv_mortality_rate	22
+13081	Georgia	Crisp	mv_mortality_rate	15
+13083	Georgia	Dade	mv_mortality_rate	18
+13085	Georgia	Dawson	mv_mortality_rate	26
+13087	Georgia	Decatur	mv_mortality_rate	28
+13089	Georgia	DeKalb	mv_mortality_rate	11
+13091	Georgia	Dodge	mv_mortality_rate	21
+13093	Georgia	Dooly	mv_mortality_rate	19
+13095	Georgia	Dougherty	mv_mortality_rate	15
+13097	Georgia	Douglas	mv_mortality_rate	17
+13099	Georgia	Early	mv_mortality_rate	39
+13101	Georgia	Echols	mv_mortality_rate	36
+13103	Georgia	Effingham	mv_mortality_rate	19
+13105	Georgia	Elbert	mv_mortality_rate	29
+13107	Georgia	Emanuel	mv_mortality_rate	32
+13109	Georgia	Evans	mv_mortality_rate	31
+13111	Georgia	Fannin	mv_mortality_rate	23
+13113	Georgia	Fayette	mv_mortality_rate	10
+13115	Georgia	Floyd	mv_mortality_rate	17
+13117	Georgia	Forsyth	mv_mortality_rate	9
+13119	Georgia	Franklin	mv_mortality_rate	31
+13121	Georgia	Fulton	mv_mortality_rate	12
+13123	Georgia	Gilmer	mv_mortality_rate	29
+13125	Georgia	Glascock	mv_mortality_rate	
+13127	Georgia	Glynn	mv_mortality_rate	18
+13129	Georgia	Gordon	mv_mortality_rate	19
+13131	Georgia	Grady	mv_mortality_rate	23
+13133	Georgia	Greene	mv_mortality_rate	22
+13135	Georgia	Gwinnett	mv_mortality_rate	11
+13137	Georgia	Habersham	mv_mortality_rate	24
+13139	Georgia	Hall	mv_mortality_rate	15
+13141	Georgia	Hancock	mv_mortality_rate	21
+13143	Georgia	Haralson	mv_mortality_rate	36
+13145	Georgia	Harris	mv_mortality_rate	19
+13147	Georgia	Hart	mv_mortality_rate	25
+13149	Georgia	Heard	mv_mortality_rate	30
+13151	Georgia	Henry	mv_mortality_rate	15
+13153	Georgia	Houston	mv_mortality_rate	14
+13155	Georgia	Irwin	mv_mortality_rate	19
+13157	Georgia	Jackson	mv_mortality_rate	26
+13159	Georgia	Jasper	mv_mortality_rate	23
+13161	Georgia	Jeff Davis	mv_mortality_rate	30
+13163	Georgia	Jefferson	mv_mortality_rate	24
+13165	Georgia	Jenkins	mv_mortality_rate	22
+13167	Georgia	Johnson	mv_mortality_rate	19
+13169	Georgia	Jones	mv_mortality_rate	25
+13171	Georgia	Lamar	mv_mortality_rate	15
+13173	Georgia	Lanier	mv_mortality_rate	
+13175	Georgia	Laurens	mv_mortality_rate	18
+13177	Georgia	Lee	mv_mortality_rate	22
+13179	Georgia	Liberty	mv_mortality_rate	19
+13181	Georgia	Lincoln	mv_mortality_rate	33
+13183	Georgia	Long	mv_mortality_rate	27
+13185	Georgia	Lowndes	mv_mortality_rate	12
+13187	Georgia	Lumpkin	mv_mortality_rate	24
+13189	Georgia	McDuffie	mv_mortality_rate	29
+13191	Georgia	McIntosh	mv_mortality_rate	20
+13193	Georgia	Macon	mv_mortality_rate	23
+13195	Georgia	Madison	mv_mortality_rate	35
+13197	Georgia	Marion	mv_mortality_rate	37
+13199	Georgia	Meriwether	mv_mortality_rate	28
+13201	Georgia	Miller	mv_mortality_rate	37
+13205	Georgia	Mitchell	mv_mortality_rate	24
+13207	Georgia	Monroe	mv_mortality_rate	19
+13209	Georgia	Montgomery	mv_mortality_rate	28
+13211	Georgia	Morgan	mv_mortality_rate	19
+13213	Georgia	Murray	mv_mortality_rate	27
+13215	Georgia	Muscogee	mv_mortality_rate	14
+13217	Georgia	Newton	mv_mortality_rate	18
+13219	Georgia	Oconee	mv_mortality_rate	11
+13221	Georgia	Oglethorpe	mv_mortality_rate	24
+13223	Georgia	Paulding	mv_mortality_rate	15
+13225	Georgia	Peach	mv_mortality_rate	20
+13227	Georgia	Pickens	mv_mortality_rate	28
+13229	Georgia	Pierce	mv_mortality_rate	36
+13231	Georgia	Pike	mv_mortality_rate	24
+13233	Georgia	Polk	mv_mortality_rate	23
+13235	Georgia	Pulaski	mv_mortality_rate	18
+13237	Georgia	Putnam	mv_mortality_rate	22
+13239	Georgia	Quitman	mv_mortality_rate	
+13241	Georgia	Rabun	mv_mortality_rate	19
+13243	Georgia	Randolph	mv_mortality_rate	22
+13245	Georgia	Richmond	mv_mortality_rate	16
+13247	Georgia	Rockdale	mv_mortality_rate	16
+13249	Georgia	Schley	mv_mortality_rate	34
+13251	Georgia	Screven	mv_mortality_rate	27
+13253	Georgia	Seminole	mv_mortality_rate	31
+13255	Georgia	Spalding	mv_mortality_rate	20
+13257	Georgia	Stephens	mv_mortality_rate	29
+13259	Georgia	Stewart	mv_mortality_rate	
+13261	Georgia	Sumter	mv_mortality_rate	17
+13263	Georgia	Talbot	mv_mortality_rate	35
+13265	Georgia	Taliaferro	mv_mortality_rate	
+13267	Georgia	Tattnall	mv_mortality_rate	24
+13269	Georgia	Taylor	mv_mortality_rate	27
+13271	Georgia	Telfair	mv_mortality_rate	18
+13273	Georgia	Terrell	mv_mortality_rate	20
+13275	Georgia	Thomas	mv_mortality_rate	18
+13277	Georgia	Tift	mv_mortality_rate	24
+13279	Georgia	Toombs	mv_mortality_rate	31
+13281	Georgia	Towns	mv_mortality_rate	24
+13283	Georgia	Treutlen	mv_mortality_rate	48
+13285	Georgia	Troup	mv_mortality_rate	18
+13287	Georgia	Turner	mv_mortality_rate	31
+13289	Georgia	Twiggs	mv_mortality_rate	40
+13291	Georgia	Union	mv_mortality_rate	26
+13293	Georgia	Upson	mv_mortality_rate	24
+13295	Georgia	Walker	mv_mortality_rate	23
+13297	Georgia	Walton	mv_mortality_rate	21
+13299	Georgia	Ware	mv_mortality_rate	20
+13301	Georgia	Warren	mv_mortality_rate	24
+13303	Georgia	Washington	mv_mortality_rate	25
+13305	Georgia	Wayne	mv_mortality_rate	28
+13307	Georgia	Webster	mv_mortality_rate	
+13309	Georgia	Wheeler	mv_mortality_rate	31
+13311	Georgia	White	mv_mortality_rate	26
+13313	Georgia	Whitfield	mv_mortality_rate	17
+13315	Georgia	Wilcox	mv_mortality_rate	30
+13317	Georgia	Wilkes	mv_mortality_rate	30
+13319	Georgia	Wilkinson	mv_mortality_rate	32
+13321	Georgia	Worth	mv_mortality_rate	18
+15001	Hawaii	Hawaii	mv_mortality_rate	19
+15003	Hawaii	Honolulu	mv_mortality_rate	7
+15005	Hawaii	Kalawao	mv_mortality_rate	
+15007	Hawaii	Kauai	mv_mortality_rate	14
+15009	Hawaii	Maui	mv_mortality_rate	12
+16001	Idaho	Ada	mv_mortality_rate	9
+16003	Idaho	Adams	mv_mortality_rate	
+16005	Idaho	Bannock	mv_mortality_rate	13
+16007	Idaho	Bear Lake	mv_mortality_rate	26
+16009	Idaho	Benewah	mv_mortality_rate	26
+16011	Idaho	Bingham	mv_mortality_rate	21
+16013	Idaho	Blaine	mv_mortality_rate	27
+16015	Idaho	Boise	mv_mortality_rate	24
+16017	Idaho	Bonner	mv_mortality_rate	17
+16019	Idaho	Bonneville	mv_mortality_rate	15
+16021	Idaho	Boundary	mv_mortality_rate	38
+16023	Idaho	Butte	mv_mortality_rate	
+16025	Idaho	Camas	mv_mortality_rate	
+16027	Idaho	Canyon	mv_mortality_rate	17
+16029	Idaho	Caribou	mv_mortality_rate	
+16031	Idaho	Cassia	mv_mortality_rate	29
+16033	Idaho	Clark	mv_mortality_rate	
+16035	Idaho	Clearwater	mv_mortality_rate	21
+16037	Idaho	Custer	mv_mortality_rate	
+16039	Idaho	Elmore	mv_mortality_rate	19
+16041	Idaho	Franklin	mv_mortality_rate	18
+16043	Idaho	Fremont	mv_mortality_rate	28
+16045	Idaho	Gem	mv_mortality_rate	22
+16047	Idaho	Gooding	mv_mortality_rate	27
+16049	Idaho	Idaho	mv_mortality_rate	31
+16051	Idaho	Jefferson	mv_mortality_rate	21
+16053	Idaho	Jerome	mv_mortality_rate	23
+16055	Idaho	Kootenai	mv_mortality_rate	11
+16057	Idaho	Latah	mv_mortality_rate	11
+16059	Idaho	Lemhi	mv_mortality_rate	37
+16061	Idaho	Lewis	mv_mortality_rate	42
+16063	Idaho	Lincoln	mv_mortality_rate	38
+16065	Idaho	Madison	mv_mortality_rate	9
+16067	Idaho	Minidoka	mv_mortality_rate	32
+16069	Idaho	Nez Perce	mv_mortality_rate	20
+16071	Idaho	Oneida	mv_mortality_rate	
+16073	Idaho	Owyhee	mv_mortality_rate	22
+16075	Idaho	Payette	mv_mortality_rate	15
+16077	Idaho	Power	mv_mortality_rate	26
+16079	Idaho	Shoshone	mv_mortality_rate	19
+16081	Idaho	Teton	mv_mortality_rate	19
+16083	Idaho	Twin Falls	mv_mortality_rate	21
+16085	Idaho	Valley	mv_mortality_rate	17
+16087	Idaho	Washington	mv_mortality_rate	
+17001	Illinois	Adams	mv_mortality_rate	9
+17003	Illinois	Alexander	mv_mortality_rate	28
+17005	Illinois	Bond	mv_mortality_rate	21
+17007	Illinois	Boone	mv_mortality_rate	14
+17009	Illinois	Brown	mv_mortality_rate	
+17011	Illinois	Bureau	mv_mortality_rate	18
+17013	Illinois	Calhoun	mv_mortality_rate	
+17015	Illinois	Carroll	mv_mortality_rate	27
+17017	Illinois	Cass	mv_mortality_rate	16
+17019	Illinois	Champaign	mv_mortality_rate	8
+17021	Illinois	Christian	mv_mortality_rate	18
+17023	Illinois	Clark	mv_mortality_rate	28
+17025	Illinois	Clay	mv_mortality_rate	23
+17027	Illinois	Clinton	mv_mortality_rate	19
+17029	Illinois	Coles	mv_mortality_rate	18
+17031	Illinois	Cook	mv_mortality_rate	7
+17033	Illinois	Crawford	mv_mortality_rate	19
+17035	Illinois	Cumberland	mv_mortality_rate	17
+17037	Illinois	DeKalb	mv_mortality_rate	14
+17039	Illinois	De Witt	mv_mortality_rate	15
+17041	Illinois	Douglas	mv_mortality_rate	14
+17043	Illinois	DuPage	mv_mortality_rate	5
+17045	Illinois	Edgar	mv_mortality_rate	13
+17047	Illinois	Edwards	mv_mortality_rate	34
+17049	Illinois	Effingham	mv_mortality_rate	23
+17051	Illinois	Fayette	mv_mortality_rate	20
+17053	Illinois	Ford	mv_mortality_rate	22
+17055	Illinois	Franklin	mv_mortality_rate	20
+17057	Illinois	Fulton	mv_mortality_rate	18
+17059	Illinois	Gallatin	mv_mortality_rate	
+17061	Illinois	Greene	mv_mortality_rate	23
+17063	Illinois	Grundy	mv_mortality_rate	15
+17065	Illinois	Hamilton	mv_mortality_rate	17
+17067	Illinois	Hancock	mv_mortality_rate	21
+17069	Illinois	Hardin	mv_mortality_rate	45
+17071	Illinois	Henderson	mv_mortality_rate	34
+17073	Illinois	Henry	mv_mortality_rate	14
+17075	Illinois	Iroquois	mv_mortality_rate	21
+17077	Illinois	Jackson	mv_mortality_rate	13
+17079	Illinois	Jasper	mv_mortality_rate	28
+17081	Illinois	Jefferson	mv_mortality_rate	17
+17083	Illinois	Jersey	mv_mortality_rate	19
+17085	Illinois	Jo Daviess	mv_mortality_rate	15
+17087	Illinois	Johnson	mv_mortality_rate	16
+17089	Illinois	Kane	mv_mortality_rate	8
+17091	Illinois	Kankakee	mv_mortality_rate	14
+17093	Illinois	Kendall	mv_mortality_rate	10
+17095	Illinois	Knox	mv_mortality_rate	12
+17097	Illinois	Lake	mv_mortality_rate	6
+17099	Illinois	LaSalle	mv_mortality_rate	17
+17101	Illinois	Lawrence	mv_mortality_rate	19
+17103	Illinois	Lee	mv_mortality_rate	12
+17105	Illinois	Livingston	mv_mortality_rate	21
+17107	Illinois	Logan	mv_mortality_rate	16
+17109	Illinois	McDonough	mv_mortality_rate	9
+17111	Illinois	McHenry	mv_mortality_rate	10
+17113	Illinois	McLean	mv_mortality_rate	9
+17115	Illinois	Macon	mv_mortality_rate	11
+17117	Illinois	Macoupin	mv_mortality_rate	16
+17119	Illinois	Madison	mv_mortality_rate	13
+17121	Illinois	Marion	mv_mortality_rate	21
+17123	Illinois	Marshall	mv_mortality_rate	21
+17125	Illinois	Mason	mv_mortality_rate	19
+17127	Illinois	Massac	mv_mortality_rate	22
+17129	Illinois	Menard	mv_mortality_rate	20
+17131	Illinois	Mercer	mv_mortality_rate	16
+17133	Illinois	Monroe	mv_mortality_rate	18
+17135	Illinois	Montgomery	mv_mortality_rate	19
+17137	Illinois	Morgan	mv_mortality_rate	14
+17139	Illinois	Moultrie	mv_mortality_rate	20
+17141	Illinois	Ogle	mv_mortality_rate	21
+17143	Illinois	Peoria	mv_mortality_rate	10
+17145	Illinois	Perry	mv_mortality_rate	18
+17147	Illinois	Piatt	mv_mortality_rate	15
+17149	Illinois	Pike	mv_mortality_rate	18
+17151	Illinois	Pope	mv_mortality_rate	32
+17153	Illinois	Pulaski	mv_mortality_rate	36
+17155	Illinois	Putnam	mv_mortality_rate	24
+17157	Illinois	Randolph	mv_mortality_rate	26
+17159	Illinois	Richland	mv_mortality_rate	25
+17161	Illinois	Rock Island	mv_mortality_rate	8
+17163	Illinois	St. Clair	mv_mortality_rate	12
+17165	Illinois	Saline	mv_mortality_rate	15
+17167	Illinois	Sangamon	mv_mortality_rate	11
+17169	Illinois	Schuyler	mv_mortality_rate	
+17171	Illinois	Scott	mv_mortality_rate	
+17173	Illinois	Shelby	mv_mortality_rate	26
+17175	Illinois	Stark	mv_mortality_rate	23
+17177	Illinois	Stephenson	mv_mortality_rate	14
+17179	Illinois	Tazewell	mv_mortality_rate	9
+17181	Illinois	Union	mv_mortality_rate	17
+17183	Illinois	Vermilion	mv_mortality_rate	15
+17185	Illinois	Wabash	mv_mortality_rate	18
+17187	Illinois	Warren	mv_mortality_rate	16
+17189	Illinois	Washington	mv_mortality_rate	23
+17191	Illinois	Wayne	mv_mortality_rate	18
+17193	Illinois	White	mv_mortality_rate	14
+17195	Illinois	Whiteside	mv_mortality_rate	13
+17197	Illinois	Will	mv_mortality_rate	8
+17199	Illinois	Williamson	mv_mortality_rate	20
+17201	Illinois	Winnebago	mv_mortality_rate	11
+17203	Illinois	Woodford	mv_mortality_rate	13
+18001	Indiana	Adams	mv_mortality_rate	15
+18003	Indiana	Allen	mv_mortality_rate	9
+18005	Indiana	Bartholomew	mv_mortality_rate	17
+18007	Indiana	Benton	mv_mortality_rate	37
+18009	Indiana	Blackford	mv_mortality_rate	21
+18011	Indiana	Boone	mv_mortality_rate	12
+18013	Indiana	Brown	mv_mortality_rate	23
+18015	Indiana	Carroll	mv_mortality_rate	18
+18017	Indiana	Cass	mv_mortality_rate	14
+18019	Indiana	Clark	mv_mortality_rate	11
+18021	Indiana	Clay	mv_mortality_rate	25
+18023	Indiana	Clinton	mv_mortality_rate	16
+18025	Indiana	Crawford	mv_mortality_rate	35
+18027	Indiana	Daviess	mv_mortality_rate	17
+18029	Indiana	Dearborn	mv_mortality_rate	17
+18031	Indiana	Decatur	mv_mortality_rate	25
+18033	Indiana	DeKalb	mv_mortality_rate	10
+18035	Indiana	Delaware	mv_mortality_rate	11
+18037	Indiana	Dubois	mv_mortality_rate	14
+18039	Indiana	Elkhart	mv_mortality_rate	14
+18041	Indiana	Fayette	mv_mortality_rate	13
+18043	Indiana	Floyd	mv_mortality_rate	9
+18045	Indiana	Fountain	mv_mortality_rate	30
+18047	Indiana	Franklin	mv_mortality_rate	22
+18049	Indiana	Fulton	mv_mortality_rate	27
+18051	Indiana	Gibson	mv_mortality_rate	18
+18053	Indiana	Grant	mv_mortality_rate	13
+18055	Indiana	Greene	mv_mortality_rate	22
+18057	Indiana	Hamilton	mv_mortality_rate	6
+18059	Indiana	Hancock	mv_mortality_rate	13
+18061	Indiana	Harrison	mv_mortality_rate	16
+18063	Indiana	Hendricks	mv_mortality_rate	10
+18065	Indiana	Henry	mv_mortality_rate	16
+18067	Indiana	Howard	mv_mortality_rate	14
+18069	Indiana	Huntington	mv_mortality_rate	15
+18071	Indiana	Jackson	mv_mortality_rate	16
+18073	Indiana	Jasper	mv_mortality_rate	23
+18075	Indiana	Jay	mv_mortality_rate	19
+18077	Indiana	Jefferson	mv_mortality_rate	14
+18079	Indiana	Jennings	mv_mortality_rate	30
+18081	Indiana	Johnson	mv_mortality_rate	10
+18083	Indiana	Knox	mv_mortality_rate	17
+18085	Indiana	Kosciusko	mv_mortality_rate	15
+18087	Indiana	LaGrange	mv_mortality_rate	20
+18089	Indiana	Lake	mv_mortality_rate	11
+18091	Indiana	LaPorte	mv_mortality_rate	19
+18093	Indiana	Lawrence	mv_mortality_rate	19
+18095	Indiana	Madison	mv_mortality_rate	14
+18097	Indiana	Marion	mv_mortality_rate	11
+18099	Indiana	Marshall	mv_mortality_rate	21
+18101	Indiana	Martin	mv_mortality_rate	25
+18103	Indiana	Miami	mv_mortality_rate	26
+18105	Indiana	Monroe	mv_mortality_rate	9
+18107	Indiana	Montgomery	mv_mortality_rate	24
+18109	Indiana	Morgan	mv_mortality_rate	15
+18111	Indiana	Newton	mv_mortality_rate	40
+18113	Indiana	Noble	mv_mortality_rate	19
+18115	Indiana	Ohio	mv_mortality_rate	
+18117	Indiana	Orange	mv_mortality_rate	19
+18119	Indiana	Owen	mv_mortality_rate	24
+18121	Indiana	Parke	mv_mortality_rate	28
+18123	Indiana	Perry	mv_mortality_rate	21
+18125	Indiana	Pike	mv_mortality_rate	25
+18127	Indiana	Porter	mv_mortality_rate	14
+18129	Indiana	Posey	mv_mortality_rate	18
+18131	Indiana	Pulaski	mv_mortality_rate	26
+18133	Indiana	Putnam	mv_mortality_rate	14
+18135	Indiana	Randolph	mv_mortality_rate	16
+18137	Indiana	Ripley	mv_mortality_rate	10
+18139	Indiana	Rush	mv_mortality_rate	18
+18141	Indiana	St. Joseph	mv_mortality_rate	9
+18143	Indiana	Scott	mv_mortality_rate	22
+18145	Indiana	Shelby	mv_mortality_rate	22
+18147	Indiana	Spencer	mv_mortality_rate	20
+18149	Indiana	Starke	mv_mortality_rate	34
+18151	Indiana	Steuben	mv_mortality_rate	18
+18153	Indiana	Sullivan	mv_mortality_rate	19
+18155	Indiana	Switzerland	mv_mortality_rate	22
+18157	Indiana	Tippecanoe	mv_mortality_rate	8
+18159	Indiana	Tipton	mv_mortality_rate	12
+18161	Indiana	Union	mv_mortality_rate	29
+18163	Indiana	Vanderburgh	mv_mortality_rate	10
+18165	Indiana	Vermillion	mv_mortality_rate	26
+18167	Indiana	Vigo	mv_mortality_rate	15
+18169	Indiana	Wabash	mv_mortality_rate	17
+18171	Indiana	Warren	mv_mortality_rate	22
+18173	Indiana	Warrick	mv_mortality_rate	11
+18175	Indiana	Washington	mv_mortality_rate	19
+18177	Indiana	Wayne	mv_mortality_rate	10
+18179	Indiana	Wells	mv_mortality_rate	13
+18181	Indiana	White	mv_mortality_rate	24
+18183	Indiana	Whitley	mv_mortality_rate	19
+19001	Iowa	Adair	mv_mortality_rate	27
+19003	Iowa	Adams	mv_mortality_rate	
+19005	Iowa	Allamakee	mv_mortality_rate	24
+19007	Iowa	Appanoose	mv_mortality_rate	25
+19009	Iowa	Audubon	mv_mortality_rate	
+19011	Iowa	Benton	mv_mortality_rate	18
+19013	Iowa	Black Hawk	mv_mortality_rate	11
+19015	Iowa	Boone	mv_mortality_rate	22
+19017	Iowa	Bremer	mv_mortality_rate	10
+19019	Iowa	Buchanan	mv_mortality_rate	16
+19021	Iowa	Buena Vista	mv_mortality_rate	14
+19023	Iowa	Butler	mv_mortality_rate	28
+19025	Iowa	Calhoun	mv_mortality_rate	27
+19027	Iowa	Carroll	mv_mortality_rate	18
+19029	Iowa	Cass	mv_mortality_rate	19
+19031	Iowa	Cedar	mv_mortality_rate	11
+19033	Iowa	Cerro Gordo	mv_mortality_rate	13
+19035	Iowa	Cherokee	mv_mortality_rate	22
+19037	Iowa	Chickasaw	mv_mortality_rate	28
+19039	Iowa	Clarke	mv_mortality_rate	17
+19041	Iowa	Clay	mv_mortality_rate	20
+19043	Iowa	Clayton	mv_mortality_rate	23
+19045	Iowa	Clinton	mv_mortality_rate	15
+19047	Iowa	Crawford	mv_mortality_rate	14
+19049	Iowa	Dallas	mv_mortality_rate	10
+19051	Iowa	Davis	mv_mortality_rate	18
+19053	Iowa	Decatur	mv_mortality_rate	
+19055	Iowa	Delaware	mv_mortality_rate	14
+19057	Iowa	Des Moines	mv_mortality_rate	13
+19059	Iowa	Dickinson	mv_mortality_rate	17
+19061	Iowa	Dubuque	mv_mortality_rate	11
+19063	Iowa	Emmet	mv_mortality_rate	
+19065	Iowa	Fayette	mv_mortality_rate	17
+19067	Iowa	Floyd	mv_mortality_rate	
+19069	Iowa	Franklin	mv_mortality_rate	17
+19071	Iowa	Fremont	mv_mortality_rate	23
+19073	Iowa	Greene	mv_mortality_rate	16
+19075	Iowa	Grundy	mv_mortality_rate	13
+19077	Iowa	Guthrie	mv_mortality_rate	22
+19079	Iowa	Hamilton	mv_mortality_rate	15
+19081	Iowa	Hancock	mv_mortality_rate	12
+19083	Iowa	Hardin	mv_mortality_rate	20
+19085	Iowa	Harrison	mv_mortality_rate	30
+19087	Iowa	Henry	mv_mortality_rate	23
+19089	Iowa	Howard	mv_mortality_rate	21
+19091	Iowa	Humboldt	mv_mortality_rate	26
+19093	Iowa	Ida	mv_mortality_rate	28
+19095	Iowa	Iowa	mv_mortality_rate	13
+19097	Iowa	Jackson	mv_mortality_rate	14
+19099	Iowa	Jasper	mv_mortality_rate	15
+19101	Iowa	Jefferson	mv_mortality_rate	19
+19103	Iowa	Johnson	mv_mortality_rate	7
+19105	Iowa	Jones	mv_mortality_rate	17
+19107	Iowa	Keokuk	mv_mortality_rate	20
+19109	Iowa	Kossuth	mv_mortality_rate	13
+19111	Iowa	Lee	mv_mortality_rate	16
+19113	Iowa	Linn	mv_mortality_rate	9
+19115	Iowa	Louisa	mv_mortality_rate	24
+19117	Iowa	Lucas	mv_mortality_rate	23
+19119	Iowa	Lyon	mv_mortality_rate	15
+19121	Iowa	Madison	mv_mortality_rate	11
+19123	Iowa	Mahaska	mv_mortality_rate	13
+19125	Iowa	Marion	mv_mortality_rate	12
+19127	Iowa	Marshall	mv_mortality_rate	12
+19129	Iowa	Mills	mv_mortality_rate	16
+19131	Iowa	Mitchell	mv_mortality_rate	18
+19133	Iowa	Monona	mv_mortality_rate	18
+19135	Iowa	Monroe	mv_mortality_rate	18
+19137	Iowa	Montgomery	mv_mortality_rate	21
+19139	Iowa	Muscatine	mv_mortality_rate	14
+19141	Iowa	O'Brien	mv_mortality_rate	17
+19143	Iowa	Osceola	mv_mortality_rate	26
+19145	Iowa	Page	mv_mortality_rate	19
+19147	Iowa	Palo Alto	mv_mortality_rate	21
+19149	Iowa	Plymouth	mv_mortality_rate	26
+19151	Iowa	Pocahontas	mv_mortality_rate	
+19153	Iowa	Polk	mv_mortality_rate	9
+19155	Iowa	Pottawattamie	mv_mortality_rate	14
+19157	Iowa	Poweshiek	mv_mortality_rate	18
+19159	Iowa	Ringgold	mv_mortality_rate	
+19161	Iowa	Sac	mv_mortality_rate	32
+19163	Iowa	Scott	mv_mortality_rate	9
+19165	Iowa	Shelby	mv_mortality_rate	22
+19167	Iowa	Sioux	mv_mortality_rate	15
+19169	Iowa	Story	mv_mortality_rate	9
+19171	Iowa	Tama	mv_mortality_rate	23
+19173	Iowa	Taylor	mv_mortality_rate	
+19175	Iowa	Union	mv_mortality_rate	20
+19177	Iowa	Van Buren	mv_mortality_rate	32
+19179	Iowa	Wapello	mv_mortality_rate	19
+19181	Iowa	Warren	mv_mortality_rate	16
+19183	Iowa	Washington	mv_mortality_rate	16
+19185	Iowa	Wayne	mv_mortality_rate	
+19187	Iowa	Webster	mv_mortality_rate	17
+19189	Iowa	Winnebago	mv_mortality_rate	15
+19191	Iowa	Winneshiek	mv_mortality_rate	11
+19193	Iowa	Woodbury	mv_mortality_rate	11
+19195	Iowa	Worth	mv_mortality_rate	19
+19197	Iowa	Wright	mv_mortality_rate	20
+20001	Kansas	Allen	mv_mortality_rate	42
+20003	Kansas	Anderson	mv_mortality_rate	32
+20005	Kansas	Atchison	mv_mortality_rate	17
+20007	Kansas	Barber	mv_mortality_rate	52
+20009	Kansas	Barton	mv_mortality_rate	13
+20011	Kansas	Bourbon	mv_mortality_rate	27
+20013	Kansas	Brown	mv_mortality_rate	27
+20015	Kansas	Butler	mv_mortality_rate	18
+20017	Kansas	Chase	mv_mortality_rate	
+20019	Kansas	Chautauqua	mv_mortality_rate	
+20021	Kansas	Cherokee	mv_mortality_rate	25
+20023	Kansas	Cheyenne	mv_mortality_rate	
+20025	Kansas	Clark	mv_mortality_rate	
+20027	Kansas	Clay	mv_mortality_rate	27
+20029	Kansas	Cloud	mv_mortality_rate	25
+20031	Kansas	Coffey	mv_mortality_rate	27
+20033	Kansas	Comanche	mv_mortality_rate	
+20035	Kansas	Cowley	mv_mortality_rate	22
+20037	Kansas	Crawford	mv_mortality_rate	22
+20039	Kansas	Decatur	mv_mortality_rate	
+20041	Kansas	Dickinson	mv_mortality_rate	18
+20043	Kansas	Doniphan	mv_mortality_rate	27
+20045	Kansas	Douglas	mv_mortality_rate	8
+20047	Kansas	Edwards	mv_mortality_rate	
+20049	Kansas	Elk	mv_mortality_rate	
+20051	Kansas	Ellis	mv_mortality_rate	15
+20053	Kansas	Ellsworth	mv_mortality_rate	
+20055	Kansas	Finney	mv_mortality_rate	20
+20057	Kansas	Ford	mv_mortality_rate	24
+20059	Kansas	Franklin	mv_mortality_rate	19
+20061	Kansas	Geary	mv_mortality_rate	15
+20063	Kansas	Gove	mv_mortality_rate	
+20065	Kansas	Graham	mv_mortality_rate	
+20067	Kansas	Grant	mv_mortality_rate	35
+20069	Kansas	Gray	mv_mortality_rate	39
+20071	Kansas	Greeley	mv_mortality_rate	
+20073	Kansas	Greenwood	mv_mortality_rate	23
+20075	Kansas	Hamilton	mv_mortality_rate	
+20077	Kansas	Harper	mv_mortality_rate	49
+20079	Kansas	Harvey	mv_mortality_rate	19
+20081	Kansas	Haskell	mv_mortality_rate	51
+20083	Kansas	Hodgeman	mv_mortality_rate	
+20085	Kansas	Jackson	mv_mortality_rate	33
+20087	Kansas	Jefferson	mv_mortality_rate	26
+20089	Kansas	Jewell	mv_mortality_rate	
+20091	Kansas	Johnson	mv_mortality_rate	7
+20093	Kansas	Kearny	mv_mortality_rate	43
+20095	Kansas	Kingman	mv_mortality_rate	28
+20097	Kansas	Kiowa	mv_mortality_rate	
+20099	Kansas	Labette	mv_mortality_rate	23
+20101	Kansas	Lane	mv_mortality_rate	
+20103	Kansas	Leavenworth	mv_mortality_rate	15
+20105	Kansas	Lincoln	mv_mortality_rate	
+20107	Kansas	Linn	mv_mortality_rate	25
+20109	Kansas	Logan	mv_mortality_rate	
+20111	Kansas	Lyon	mv_mortality_rate	17
+20113	Kansas	McPherson	mv_mortality_rate	18
+20115	Kansas	Marion	mv_mortality_rate	37
+20117	Kansas	Marshall	mv_mortality_rate	21
+20119	Kansas	Meade	mv_mortality_rate	
+20121	Kansas	Miami	mv_mortality_rate	18
+20123	Kansas	Mitchell	mv_mortality_rate	22
+20125	Kansas	Montgomery	mv_mortality_rate	27
+20127	Kansas	Morris	mv_mortality_rate	29
+20129	Kansas	Morton	mv_mortality_rate	
+20131	Kansas	Nemaha	mv_mortality_rate	28
+20133	Kansas	Neosho	mv_mortality_rate	29
+20135	Kansas	Ness	mv_mortality_rate	55
+20137	Kansas	Norton	mv_mortality_rate	
+20139	Kansas	Osage	mv_mortality_rate	39
+20141	Kansas	Osborne	mv_mortality_rate	
+20143	Kansas	Ottawa	mv_mortality_rate	
+20145	Kansas	Pawnee	mv_mortality_rate	
+20147	Kansas	Phillips	mv_mortality_rate	33
+20149	Kansas	Pottawatomie	mv_mortality_rate	20
+20151	Kansas	Pratt	mv_mortality_rate	
+20153	Kansas	Rawlins	mv_mortality_rate	
+20155	Kansas	Reno	mv_mortality_rate	19
+20157	Kansas	Republic	mv_mortality_rate	
+20159	Kansas	Rice	mv_mortality_rate	20
+20161	Kansas	Riley	mv_mortality_rate	7
+20163	Kansas	Rooks	mv_mortality_rate	41
+20165	Kansas	Rush	mv_mortality_rate	43
+20167	Kansas	Russell	mv_mortality_rate	
+20169	Kansas	Saline	mv_mortality_rate	9
+20171	Kansas	Scott	mv_mortality_rate	51
+20173	Kansas	Sedgwick	mv_mortality_rate	13
+20175	Kansas	Seward	mv_mortality_rate	30
+20177	Kansas	Shawnee	mv_mortality_rate	10
+20179	Kansas	Sheridan	mv_mortality_rate	
+20181	Kansas	Sherman	mv_mortality_rate	42
+20183	Kansas	Smith	mv_mortality_rate	
+20185	Kansas	Stafford	mv_mortality_rate	42
+20187	Kansas	Stanton	mv_mortality_rate	
+20189	Kansas	Stevens	mv_mortality_rate	62
+20191	Kansas	Sumner	mv_mortality_rate	20
+20193	Kansas	Thomas	mv_mortality_rate	28
+20195	Kansas	Trego	mv_mortality_rate	
+20197	Kansas	Wabaunsee	mv_mortality_rate	23
+20199	Kansas	Wallace	mv_mortality_rate	
+20201	Kansas	Washington	mv_mortality_rate	27
+20203	Kansas	Wichita	mv_mortality_rate	
+20205	Kansas	Wilson	mv_mortality_rate	30
+20207	Kansas	Woodson	mv_mortality_rate	67
+20209	Kansas	Wyandotte	mv_mortality_rate	15
+21001	Kentucky	Adair	mv_mortality_rate	29
+21003	Kentucky	Allen	mv_mortality_rate	27
+21005	Kentucky	Anderson	mv_mortality_rate	17
+21007	Kentucky	Ballard	mv_mortality_rate	40
+21009	Kentucky	Barren	mv_mortality_rate	26
+21011	Kentucky	Bath	mv_mortality_rate	30
+21013	Kentucky	Bell	mv_mortality_rate	31
+21015	Kentucky	Boone	mv_mortality_rate	10
+21017	Kentucky	Bourbon	mv_mortality_rate	26
+21019	Kentucky	Boyd	mv_mortality_rate	17
+21021	Kentucky	Boyle	mv_mortality_rate	17
+21023	Kentucky	Bracken	mv_mortality_rate	29
+21025	Kentucky	Breathitt	mv_mortality_rate	49
+21027	Kentucky	Breckinridge	mv_mortality_rate	28
+21029	Kentucky	Bullitt	mv_mortality_rate	15
+21031	Kentucky	Butler	mv_mortality_rate	40
+21033	Kentucky	Caldwell	mv_mortality_rate	23
+21035	Kentucky	Calloway	mv_mortality_rate	22
+21037	Kentucky	Campbell	mv_mortality_rate	11
+21039	Kentucky	Carlisle	mv_mortality_rate	36
+21041	Kentucky	Carroll	mv_mortality_rate	35
+21043	Kentucky	Carter	mv_mortality_rate	36
+21045	Kentucky	Casey	mv_mortality_rate	35
+21047	Kentucky	Christian	mv_mortality_rate	20
+21049	Kentucky	Clark	mv_mortality_rate	19
+21051	Kentucky	Clay	mv_mortality_rate	42
+21053	Kentucky	Clinton	mv_mortality_rate	47
+21055	Kentucky	Crittenden	mv_mortality_rate	26
+21057	Kentucky	Cumberland	mv_mortality_rate	43
+21059	Kentucky	Daviess	mv_mortality_rate	12
+21061	Kentucky	Edmonson	mv_mortality_rate	21
+21063	Kentucky	Elliott	mv_mortality_rate	41
+21065	Kentucky	Estill	mv_mortality_rate	36
+21067	Kentucky	Fayette	mv_mortality_rate	10
+21069	Kentucky	Fleming	mv_mortality_rate	39
+21071	Kentucky	Floyd	mv_mortality_rate	32
+21073	Kentucky	Franklin	mv_mortality_rate	9
+21075	Kentucky	Fulton	mv_mortality_rate	31
+21077	Kentucky	Gallatin	mv_mortality_rate	41
+21079	Kentucky	Garrard	mv_mortality_rate	16
+21081	Kentucky	Grant	mv_mortality_rate	24
+21083	Kentucky	Graves	mv_mortality_rate	26
+21085	Kentucky	Grayson	mv_mortality_rate	24
+21087	Kentucky	Green	mv_mortality_rate	29
+21089	Kentucky	Greenup	mv_mortality_rate	16
+21091	Kentucky	Hancock	mv_mortality_rate	37
+21093	Kentucky	Hardin	mv_mortality_rate	18
+21095	Kentucky	Harlan	mv_mortality_rate	29
+21097	Kentucky	Harrison	mv_mortality_rate	21
+21099	Kentucky	Hart	mv_mortality_rate	22
+21101	Kentucky	Henderson	mv_mortality_rate	15
+21103	Kentucky	Henry	mv_mortality_rate	26
+21105	Kentucky	Hickman	mv_mortality_rate	46
+21107	Kentucky	Hopkins	mv_mortality_rate	20
+21109	Kentucky	Jackson	mv_mortality_rate	38
+21111	Kentucky	Jefferson	mv_mortality_rate	12
+21113	Kentucky	Jessamine	mv_mortality_rate	19
+21115	Kentucky	Johnson	mv_mortality_rate	23
+21117	Kentucky	Kenton	mv_mortality_rate	10
+21119	Kentucky	Knott	mv_mortality_rate	40
+21121	Kentucky	Knox	mv_mortality_rate	33
+21123	Kentucky	Larue	mv_mortality_rate	31
+21125	Kentucky	Laurel	mv_mortality_rate	26
+21127	Kentucky	Lawrence	mv_mortality_rate	37
+21129	Kentucky	Lee	mv_mortality_rate	38
+21131	Kentucky	Leslie	mv_mortality_rate	38
+21133	Kentucky	Letcher	mv_mortality_rate	41
+21135	Kentucky	Lewis	mv_mortality_rate	29
+21137	Kentucky	Lincoln	mv_mortality_rate	27
+21139	Kentucky	Livingston	mv_mortality_rate	40
+21141	Kentucky	Logan	mv_mortality_rate	25
+21143	Kentucky	Lyon	mv_mortality_rate	17
+21145	Kentucky	McCracken	mv_mortality_rate	16
+21147	Kentucky	McCreary	mv_mortality_rate	27
+21149	Kentucky	McLean	mv_mortality_rate	31
+21151	Kentucky	Madison	mv_mortality_rate	17
+21153	Kentucky	Magoffin	mv_mortality_rate	37
+21155	Kentucky	Marion	mv_mortality_rate	21
+21157	Kentucky	Marshall	mv_mortality_rate	25
+21159	Kentucky	Martin	mv_mortality_rate	26
+21161	Kentucky	Mason	mv_mortality_rate	22
+21163	Kentucky	Meade	mv_mortality_rate	31
+21165	Kentucky	Menifee	mv_mortality_rate	22
+21167	Kentucky	Mercer	mv_mortality_rate	23
+21169	Kentucky	Metcalfe	mv_mortality_rate	28
+21171	Kentucky	Monroe	mv_mortality_rate	33
+21173	Kentucky	Montgomery	mv_mortality_rate	24
+21175	Kentucky	Morgan	mv_mortality_rate	31
+21177	Kentucky	Muhlenberg	mv_mortality_rate	26
+21179	Kentucky	Nelson	mv_mortality_rate	24
+21181	Kentucky	Nicholas	mv_mortality_rate	28
+21183	Kentucky	Ohio	mv_mortality_rate	18
+21185	Kentucky	Oldham	mv_mortality_rate	10
+21187	Kentucky	Owen	mv_mortality_rate	17
+21189	Kentucky	Owsley	mv_mortality_rate	42
+21191	Kentucky	Pendleton	mv_mortality_rate	36
+21193	Kentucky	Perry	mv_mortality_rate	37
+21195	Kentucky	Pike	mv_mortality_rate	34
+21197	Kentucky	Powell	mv_mortality_rate	40
+21199	Kentucky	Pulaski	mv_mortality_rate	27
+21201	Kentucky	Robertson	mv_mortality_rate	
+21203	Kentucky	Rockcastle	mv_mortality_rate	23
+21205	Kentucky	Rowan	mv_mortality_rate	20
+21207	Kentucky	Russell	mv_mortality_rate	26
+21209	Kentucky	Scott	mv_mortality_rate	14
+21211	Kentucky	Shelby	mv_mortality_rate	17
+21213	Kentucky	Simpson	mv_mortality_rate	31
+21215	Kentucky	Spencer	mv_mortality_rate	18
+21217	Kentucky	Taylor	mv_mortality_rate	23
+21219	Kentucky	Todd	mv_mortality_rate	32
+21221	Kentucky	Trigg	mv_mortality_rate	27
+21223	Kentucky	Trimble	mv_mortality_rate	19
+21225	Kentucky	Union	mv_mortality_rate	27
+21227	Kentucky	Warren	mv_mortality_rate	15
+21229	Kentucky	Washington	mv_mortality_rate	37
+21231	Kentucky	Wayne	mv_mortality_rate	21
+21233	Kentucky	Webster	mv_mortality_rate	36
+21235	Kentucky	Whitley	mv_mortality_rate	28
+21237	Kentucky	Wolfe	mv_mortality_rate	51
+21239	Kentucky	Woodford	mv_mortality_rate	31
+22001	Louisiana	Acadia	mv_mortality_rate	29
+22003	Louisiana	Allen	mv_mortality_rate	22
+22005	Louisiana	Ascension	mv_mortality_rate	23
+22007	Louisiana	Assumption	mv_mortality_rate	28
+22009	Louisiana	Avoyelles	mv_mortality_rate	29
+22011	Louisiana	Beauregard	mv_mortality_rate	37
+22013	Louisiana	Bienville	mv_mortality_rate	33
+22015	Louisiana	Bossier	mv_mortality_rate	15
+22017	Louisiana	Caddo	mv_mortality_rate	19
+22019	Louisiana	Calcasieu	mv_mortality_rate	23
+22021	Louisiana	Caldwell	mv_mortality_rate	32
+22023	Louisiana	Cameron	mv_mortality_rate	20
+22025	Louisiana	Catahoula	mv_mortality_rate	42
+22027	Louisiana	Claiborne	mv_mortality_rate	19
+22029	Louisiana	Concordia	mv_mortality_rate	29
+22031	Louisiana	De Soto	mv_mortality_rate	26
+22033	Louisiana	East Baton Rouge	mv_mortality_rate	16
+22035	Louisiana	East Carroll	mv_mortality_rate	26
+22037	Louisiana	East Feliciana	mv_mortality_rate	32
+22039	Louisiana	Evangeline	mv_mortality_rate	28
+22041	Louisiana	Franklin	mv_mortality_rate	31
+22043	Louisiana	Grant	mv_mortality_rate	28
+22045	Louisiana	Iberia	mv_mortality_rate	26
+22047	Louisiana	Iberville	mv_mortality_rate	21
+22049	Louisiana	Jackson	mv_mortality_rate	31
+22051	Louisiana	Jefferson	mv_mortality_rate	12
+22053	Louisiana	Jefferson Davis	mv_mortality_rate	24
+22055	Louisiana	Lafayette	mv_mortality_rate	16
+22057	Louisiana	Lafourche	mv_mortality_rate	23
+22059	Louisiana	La Salle	mv_mortality_rate	29
+22061	Louisiana	Lincoln	mv_mortality_rate	20
+22063	Louisiana	Livingston	mv_mortality_rate	27
+22065	Louisiana	Madison	mv_mortality_rate	31
+22067	Louisiana	Morehouse	mv_mortality_rate	27
+22069	Louisiana	Natchitoches	mv_mortality_rate	26
+22071	Louisiana	Orleans	mv_mortality_rate	13
+22073	Louisiana	Ouachita	mv_mortality_rate	17
+22075	Louisiana	Plaquemines	mv_mortality_rate	15
+22077	Louisiana	Pointe Coupee	mv_mortality_rate	29
+22079	Louisiana	Rapides	mv_mortality_rate	18
+22081	Louisiana	Red River	mv_mortality_rate	34
+22083	Louisiana	Richland	mv_mortality_rate	26
+22085	Louisiana	Sabine	mv_mortality_rate	41
+22087	Louisiana	St. Bernard	mv_mortality_rate	20
+22089	Louisiana	St. Charles	mv_mortality_rate	16
+22091	Louisiana	St. Helena	mv_mortality_rate	30
+22093	Louisiana	St. James	mv_mortality_rate	30
+22095	Louisiana	St. John the Baptist	mv_mortality_rate	24
+22097	Louisiana	St. Landry	mv_mortality_rate	28
+22099	Louisiana	St. Martin	mv_mortality_rate	25
+22101	Louisiana	St. Mary	mv_mortality_rate	23
+22103	Louisiana	St. Tammany	mv_mortality_rate	18
+22105	Louisiana	Tangipahoa	mv_mortality_rate	31
+22107	Louisiana	Tensas	mv_mortality_rate	
+22109	Louisiana	Terrebonne	mv_mortality_rate	25
+22111	Louisiana	Union	mv_mortality_rate	30
+22113	Louisiana	Vermilion	mv_mortality_rate	21
+22115	Louisiana	Vernon	mv_mortality_rate	23
+22117	Louisiana	Washington	mv_mortality_rate	35
+22119	Louisiana	Webster	mv_mortality_rate	19
+22121	Louisiana	West Baton Rouge	mv_mortality_rate	24
+22123	Louisiana	West Carroll	mv_mortality_rate	28
+22125	Louisiana	West Feliciana	mv_mortality_rate	24
+22127	Louisiana	Winn	mv_mortality_rate	24
+23001	Maine	Androscoggin	mv_mortality_rate	11
+23003	Maine	Aroostook	mv_mortality_rate	14
+23005	Maine	Cumberland	mv_mortality_rate	9
+23007	Maine	Franklin	mv_mortality_rate	18
+23009	Maine	Hancock	mv_mortality_rate	15
+23011	Maine	Kennebec	mv_mortality_rate	14
+23013	Maine	Knox	mv_mortality_rate	14
+23015	Maine	Lincoln	mv_mortality_rate	18
+23017	Maine	Oxford	mv_mortality_rate	21
+23019	Maine	Penobscot	mv_mortality_rate	10
+23021	Maine	Piscataquis	mv_mortality_rate	16
+23023	Maine	Sagadahoc	mv_mortality_rate	12
+23025	Maine	Somerset	mv_mortality_rate	18
+23027	Maine	Waldo	mv_mortality_rate	13
+23029	Maine	Washington	mv_mortality_rate	25
+23031	Maine	York	mv_mortality_rate	11
+24001	Maryland	Allegany	mv_mortality_rate	14
+24003	Maryland	Anne Arundel	mv_mortality_rate	10
+24005	Maryland	Baltimore	mv_mortality_rate	9
+24009	Maryland	Calvert	mv_mortality_rate	19
+24011	Maryland	Caroline	mv_mortality_rate	35
+24013	Maryland	Carroll	mv_mortality_rate	15
+24015	Maryland	Cecil	mv_mortality_rate	18
+24017	Maryland	Charles	mv_mortality_rate	17
+24019	Maryland	Dorchester	mv_mortality_rate	17
+24021	Maryland	Frederick	mv_mortality_rate	11
+24023	Maryland	Garrett	mv_mortality_rate	21
+24025	Maryland	Harford	mv_mortality_rate	11
+24027	Maryland	Howard	mv_mortality_rate	7
+24029	Maryland	Kent	mv_mortality_rate	19
+24031	Maryland	Montgomery	mv_mortality_rate	6
+24033	Maryland	Prince George's	mv_mortality_rate	13
+24035	Maryland	Queen Anne's	mv_mortality_rate	14
+24037	Maryland	St. Mary's	mv_mortality_rate	14
+24039	Maryland	Somerset	mv_mortality_rate	8
+24041	Maryland	Talbot	mv_mortality_rate	15
+24043	Maryland	Washington	mv_mortality_rate	14
+24045	Maryland	Wicomico	mv_mortality_rate	16
+24047	Maryland	Worcester	mv_mortality_rate	15
+24510	Maryland	Baltimore City	mv_mortality_rate	9
+25001	Massachusetts	Barnstable	mv_mortality_rate	9
+25003	Massachusetts	Berkshire	mv_mortality_rate	11
+25005	Massachusetts	Bristol	mv_mortality_rate	9
+25007	Massachusetts	Dukes	mv_mortality_rate	
+25009	Massachusetts	Essex	mv_mortality_rate	6
+25011	Massachusetts	Franklin	mv_mortality_rate	8
+25013	Massachusetts	Hampden	mv_mortality_rate	8
+25015	Massachusetts	Hampshire	mv_mortality_rate	6
+25017	Massachusetts	Middlesex	mv_mortality_rate	5
+25019	Massachusetts	Nantucket	mv_mortality_rate	
+25021	Massachusetts	Norfolk	mv_mortality_rate	5
+25023	Massachusetts	Plymouth	mv_mortality_rate	9
+25025	Massachusetts	Suffolk	mv_mortality_rate	4
+25027	Massachusetts	Worcester	mv_mortality_rate	7
+26001	Michigan	Alcona	mv_mortality_rate	23
+26003	Michigan	Alger	mv_mortality_rate	
+26005	Michigan	Allegan	mv_mortality_rate	14
+26007	Michigan	Alpena	mv_mortality_rate	16
+26009	Michigan	Antrim	mv_mortality_rate	21
+26011	Michigan	Arenac	mv_mortality_rate	16
+26013	Michigan	Baraga	mv_mortality_rate	
+26015	Michigan	Barry	mv_mortality_rate	18
+26017	Michigan	Bay	mv_mortality_rate	11
+26019	Michigan	Benzie	mv_mortality_rate	15
+26021	Michigan	Berrien	mv_mortality_rate	14
+26023	Michigan	Branch	mv_mortality_rate	16
+26025	Michigan	Calhoun	mv_mortality_rate	12
+26027	Michigan	Cass	mv_mortality_rate	17
+26029	Michigan	Charlevoix	mv_mortality_rate	9
+26031	Michigan	Cheboygan	mv_mortality_rate	11
+26033	Michigan	Chippewa	mv_mortality_rate	10
+26035	Michigan	Clare	mv_mortality_rate	21
+26037	Michigan	Clinton	mv_mortality_rate	8
+26039	Michigan	Crawford	mv_mortality_rate	
+26041	Michigan	Delta	mv_mortality_rate	9
+26043	Michigan	Dickinson	mv_mortality_rate	13
+26045	Michigan	Eaton	mv_mortality_rate	12
+26047	Michigan	Emmet	mv_mortality_rate	12
+26049	Michigan	Genesee	mv_mortality_rate	13
+26051	Michigan	Gladwin	mv_mortality_rate	17
+26053	Michigan	Gogebic	mv_mortality_rate	14
+26055	Michigan	Grand Traverse	mv_mortality_rate	11
+26057	Michigan	Gratiot	mv_mortality_rate	12
+26059	Michigan	Hillsdale	mv_mortality_rate	21
+26061	Michigan	Houghton	mv_mortality_rate	14
+26063	Michigan	Huron	mv_mortality_rate	13
+26065	Michigan	Ingham	mv_mortality_rate	8
+26067	Michigan	Ionia	mv_mortality_rate	16
+26069	Michigan	Iosco	mv_mortality_rate	12
+26071	Michigan	Iron	mv_mortality_rate	16
+26073	Michigan	Isabella	mv_mortality_rate	10
+26075	Michigan	Jackson	mv_mortality_rate	12
+26077	Michigan	Kalamazoo	mv_mortality_rate	11
+26079	Michigan	Kalkaska	mv_mortality_rate	25
+26081	Michigan	Kent	mv_mortality_rate	11
+26083	Michigan	Keweenaw	mv_mortality_rate	
+26085	Michigan	Lake	mv_mortality_rate	24
+26087	Michigan	Lapeer	mv_mortality_rate	14
+26089	Michigan	Leelanau	mv_mortality_rate	12
+26091	Michigan	Lenawee	mv_mortality_rate	15
+26093	Michigan	Livingston	mv_mortality_rate	10
+26095	Michigan	Luce	mv_mortality_rate	25
+26097	Michigan	Mackinac	mv_mortality_rate	20
+26099	Michigan	Macomb	mv_mortality_rate	7
+26101	Michigan	Manistee	mv_mortality_rate	14
+26103	Michigan	Marquette	mv_mortality_rate	9
+26105	Michigan	Mason	mv_mortality_rate	13
+26107	Michigan	Mecosta	mv_mortality_rate	13
+26109	Michigan	Menominee	mv_mortality_rate	16
+26111	Michigan	Midland	mv_mortality_rate	12
+26113	Michigan	Missaukee	mv_mortality_rate	17
+26115	Michigan	Monroe	mv_mortality_rate	12
+26117	Michigan	Montcalm	mv_mortality_rate	18
+26119	Michigan	Montmorency	mv_mortality_rate	17
+26121	Michigan	Muskegon	mv_mortality_rate	11
+26123	Michigan	Newaygo	mv_mortality_rate	20
+26125	Michigan	Oakland	mv_mortality_rate	7
+26127	Michigan	Oceana	mv_mortality_rate	21
+26129	Michigan	Ogemaw	mv_mortality_rate	14
+26131	Michigan	Ontonagon	mv_mortality_rate	24
+26133	Michigan	Osceola	mv_mortality_rate	11
+26135	Michigan	Oscoda	mv_mortality_rate	25
+26137	Michigan	Otsego	mv_mortality_rate	15
+26139	Michigan	Ottawa	mv_mortality_rate	10
+26141	Michigan	Presque Isle	mv_mortality_rate	13
+26143	Michigan	Roscommon	mv_mortality_rate	14
+26145	Michigan	Saginaw	mv_mortality_rate	12
+26147	Michigan	St. Clair	mv_mortality_rate	11
+26149	Michigan	St. Joseph	mv_mortality_rate	27
+26151	Michigan	Sanilac	mv_mortality_rate	18
+26153	Michigan	Schoolcraft	mv_mortality_rate	20
+26155	Michigan	Shiawassee	mv_mortality_rate	14
+26157	Michigan	Tuscola	mv_mortality_rate	19
+26159	Michigan	Van Buren	mv_mortality_rate	17
+26161	Michigan	Washtenaw	mv_mortality_rate	7
+26163	Michigan	Wayne	mv_mortality_rate	10
+26165	Michigan	Wexford	mv_mortality_rate	13
+27001	Minnesota	Aitkin	mv_mortality_rate	18
+27003	Minnesota	Anoka	mv_mortality_rate	8
+27005	Minnesota	Becker	mv_mortality_rate	20
+27007	Minnesota	Beltrami	mv_mortality_rate	19
+27009	Minnesota	Benton	mv_mortality_rate	10
+27011	Minnesota	Big Stone	mv_mortality_rate	27
+27013	Minnesota	Blue Earth	mv_mortality_rate	12
+27015	Minnesota	Brown	mv_mortality_rate	14
+27017	Minnesota	Carlton	mv_mortality_rate	12
+27019	Minnesota	Carver	mv_mortality_rate	8
+27021	Minnesota	Cass	mv_mortality_rate	22
+27023	Minnesota	Chippewa	mv_mortality_rate	15
+27025	Minnesota	Chisago	mv_mortality_rate	12
+27027	Minnesota	Clay	mv_mortality_rate	8
+27029	Minnesota	Clearwater	mv_mortality_rate	
+27031	Minnesota	Cook	mv_mortality_rate	
+27033	Minnesota	Cottonwood	mv_mortality_rate	16
+27035	Minnesota	Crow Wing	mv_mortality_rate	12
+27037	Minnesota	Dakota	mv_mortality_rate	7
+27039	Minnesota	Dodge	mv_mortality_rate	20
+27041	Minnesota	Douglas	mv_mortality_rate	15
+27043	Minnesota	Faribault	mv_mortality_rate	14
+27045	Minnesota	Fillmore	mv_mortality_rate	16
+27047	Minnesota	Freeborn	mv_mortality_rate	14
+27049	Minnesota	Goodhue	mv_mortality_rate	18
+27051	Minnesota	Grant	mv_mortality_rate	
+27053	Minnesota	Hennepin	mv_mortality_rate	6
+27055	Minnesota	Houston	mv_mortality_rate	18
+27057	Minnesota	Hubbard	mv_mortality_rate	15
+27059	Minnesota	Isanti	mv_mortality_rate	17
+27061	Minnesota	Itasca	mv_mortality_rate	15
+27063	Minnesota	Jackson	mv_mortality_rate	15
+27065	Minnesota	Kanabec	mv_mortality_rate	26
+27067	Minnesota	Kandiyohi	mv_mortality_rate	15
+27069	Minnesota	Kittson	mv_mortality_rate	30
+27071	Minnesota	Koochiching	mv_mortality_rate	15
+27073	Minnesota	Lac qui Parle	mv_mortality_rate	29
+27075	Minnesota	Lake	mv_mortality_rate	18
+27077	Minnesota	Lake of the Woods	mv_mortality_rate	
+27079	Minnesota	Le Sueur	mv_mortality_rate	14
+27081	Minnesota	Lincoln	mv_mortality_rate	
+27083	Minnesota	Lyon	mv_mortality_rate	21
+27085	Minnesota	McLeod	mv_mortality_rate	11
+27087	Minnesota	Mahnomen	mv_mortality_rate	46
+27089	Minnesota	Marshall	mv_mortality_rate	
+27091	Minnesota	Martin	mv_mortality_rate	17
+27093	Minnesota	Meeker	mv_mortality_rate	17
+27095	Minnesota	Mille Lacs	mv_mortality_rate	27
+27097	Minnesota	Morrison	mv_mortality_rate	17
+27099	Minnesota	Mower	mv_mortality_rate	11
+27101	Minnesota	Murray	mv_mortality_rate	29
+27103	Minnesota	Nicollet	mv_mortality_rate	8
+27105	Minnesota	Nobles	mv_mortality_rate	23
+27107	Minnesota	Norman	mv_mortality_rate	25
+27109	Minnesota	Olmsted	mv_mortality_rate	9
+27111	Minnesota	Otter Tail	mv_mortality_rate	15
+27113	Minnesota	Pennington	mv_mortality_rate	20
+27115	Minnesota	Pine	mv_mortality_rate	16
+27117	Minnesota	Pipestone	mv_mortality_rate	24
+27119	Minnesota	Polk	mv_mortality_rate	19
+27121	Minnesota	Pope	mv_mortality_rate	19
+27123	Minnesota	Ramsey	mv_mortality_rate	7
+27125	Minnesota	Red Lake	mv_mortality_rate	
+27127	Minnesota	Redwood	mv_mortality_rate	25
+27129	Minnesota	Renville	mv_mortality_rate	23
+27131	Minnesota	Rice	mv_mortality_rate	12
+27133	Minnesota	Rock	mv_mortality_rate	24
+27135	Minnesota	Roseau	mv_mortality_rate	10
+27137	Minnesota	St. Louis	mv_mortality_rate	11
+27139	Minnesota	Scott	mv_mortality_rate	9
+27141	Minnesota	Sherburne	mv_mortality_rate	13
+27143	Minnesota	Sibley	mv_mortality_rate	9
+27145	Minnesota	Stearns	mv_mortality_rate	11
+27147	Minnesota	Steele	mv_mortality_rate	13
+27149	Minnesota	Stevens	mv_mortality_rate	
+27151	Minnesota	Swift	mv_mortality_rate	21
+27153	Minnesota	Todd	mv_mortality_rate	24
+27155	Minnesota	Traverse	mv_mortality_rate	
+27157	Minnesota	Wabasha	mv_mortality_rate	16
+27159	Minnesota	Wadena	mv_mortality_rate	10
+27161	Minnesota	Waseca	mv_mortality_rate	16
+27163	Minnesota	Washington	mv_mortality_rate	7
+27165	Minnesota	Watonwan	mv_mortality_rate	24
+27167	Minnesota	Wilkin	mv_mortality_rate	
+27169	Minnesota	Winona	mv_mortality_rate	11
+27171	Minnesota	Wright	mv_mortality_rate	13
+27173	Minnesota	Yellow Medicine	mv_mortality_rate	24
+28001	Mississippi	Adams	mv_mortality_rate	25
+28003	Mississippi	Alcorn	mv_mortality_rate	25
+28005	Mississippi	Amite	mv_mortality_rate	32
+28007	Mississippi	Attala	mv_mortality_rate	38
+28009	Mississippi	Benton	mv_mortality_rate	45
+28011	Mississippi	Bolivar	mv_mortality_rate	25
+28013	Mississippi	Calhoun	mv_mortality_rate	49
+28015	Mississippi	Carroll	mv_mortality_rate	51
+28017	Mississippi	Chickasaw	mv_mortality_rate	35
+28019	Mississippi	Choctaw	mv_mortality_rate	29
+28021	Mississippi	Claiborne	mv_mortality_rate	42
+28023	Mississippi	Clarke	mv_mortality_rate	49
+28025	Mississippi	Clay	mv_mortality_rate	24
+28027	Mississippi	Coahoma	mv_mortality_rate	31
+28029	Mississippi	Copiah	mv_mortality_rate	34
+28031	Mississippi	Covington	mv_mortality_rate	46
+28033	Mississippi	DeSoto	mv_mortality_rate	22
+28035	Mississippi	Forrest	mv_mortality_rate	26
+28037	Mississippi	Franklin	mv_mortality_rate	33
+28039	Mississippi	George	mv_mortality_rate	48
+28041	Mississippi	Greene	mv_mortality_rate	30
+28043	Mississippi	Grenada	mv_mortality_rate	26
+28045	Mississippi	Hancock	mv_mortality_rate	21
+28047	Mississippi	Harrison	mv_mortality_rate	20
+28049	Mississippi	Hinds	mv_mortality_rate	21
+28051	Mississippi	Holmes	mv_mortality_rate	43
+28053	Mississippi	Humphreys	mv_mortality_rate	51
+28055	Mississippi	Issaquena	mv_mortality_rate	
+28057	Mississippi	Itawamba	mv_mortality_rate	37
+28059	Mississippi	Jackson	mv_mortality_rate	24
+28061	Mississippi	Jasper	mv_mortality_rate	43
+28063	Mississippi	Jefferson	mv_mortality_rate	28
+28065	Mississippi	Jefferson Davis	mv_mortality_rate	62
+28067	Mississippi	Jones	mv_mortality_rate	33
+28069	Mississippi	Kemper	mv_mortality_rate	18
+28071	Mississippi	Lafayette	mv_mortality_rate	19
+28073	Mississippi	Lamar	mv_mortality_rate	23
+28075	Mississippi	Lauderdale	mv_mortality_rate	23
+28077	Mississippi	Lawrence	mv_mortality_rate	53
+28079	Mississippi	Leake	mv_mortality_rate	32
+28081	Mississippi	Lee	mv_mortality_rate	24
+28083	Mississippi	Leflore	mv_mortality_rate	26
+28085	Mississippi	Lincoln	mv_mortality_rate	34
+28087	Mississippi	Lowndes	mv_mortality_rate	15
+28089	Mississippi	Madison	mv_mortality_rate	15
+28091	Mississippi	Marion	mv_mortality_rate	41
+28093	Mississippi	Marshall	mv_mortality_rate	44
+28095	Mississippi	Monroe	mv_mortality_rate	27
+28097	Mississippi	Montgomery	mv_mortality_rate	48
+28099	Mississippi	Neshoba	mv_mortality_rate	38
+28101	Mississippi	Newton	mv_mortality_rate	28
+28103	Mississippi	Noxubee	mv_mortality_rate	39
+28105	Mississippi	Oktibbeha	mv_mortality_rate	17
+28107	Mississippi	Panola	mv_mortality_rate	51
+28109	Mississippi	Pearl River	mv_mortality_rate	36
+28111	Mississippi	Perry	mv_mortality_rate	47
+28113	Mississippi	Pike	mv_mortality_rate	30
+28115	Mississippi	Pontotoc	mv_mortality_rate	17
+28117	Mississippi	Prentiss	mv_mortality_rate	38
+28119	Mississippi	Quitman	mv_mortality_rate	44
+28121	Mississippi	Rankin	mv_mortality_rate	21
+28123	Mississippi	Scott	mv_mortality_rate	51
+28125	Mississippi	Sharkey	mv_mortality_rate	29
+28127	Mississippi	Simpson	mv_mortality_rate	40
+28129	Mississippi	Smith	mv_mortality_rate	34
+28131	Mississippi	Stone	mv_mortality_rate	27
+28133	Mississippi	Sunflower	mv_mortality_rate	25
+28135	Mississippi	Tallahatchie	mv_mortality_rate	43
+28137	Mississippi	Tate	mv_mortality_rate	36
+28139	Mississippi	Tippah	mv_mortality_rate	35
+28141	Mississippi	Tishomingo	mv_mortality_rate	33
+28143	Mississippi	Tunica	mv_mortality_rate	28
+28145	Mississippi	Union	mv_mortality_rate	32
+28147	Mississippi	Walthall	mv_mortality_rate	45
+28149	Mississippi	Warren	mv_mortality_rate	21
+28151	Mississippi	Washington	mv_mortality_rate	28
+28153	Mississippi	Wayne	mv_mortality_rate	31
+28155	Mississippi	Webster	mv_mortality_rate	37
+28157	Mississippi	Wilkinson	mv_mortality_rate	35
+28159	Mississippi	Winston	mv_mortality_rate	40
+28161	Mississippi	Yalobusha	mv_mortality_rate	32
+28163	Mississippi	Yazoo	mv_mortality_rate	26
+29001	Missouri	Adair	mv_mortality_rate	15
+29003	Missouri	Andrew	mv_mortality_rate	25
+29005	Missouri	Atchison	mv_mortality_rate	27
+29007	Missouri	Audrain	mv_mortality_rate	14
+29009	Missouri	Barry	mv_mortality_rate	30
+29011	Missouri	Barton	mv_mortality_rate	31
+29013	Missouri	Bates	mv_mortality_rate	25
+29015	Missouri	Benton	mv_mortality_rate	27
+29017	Missouri	Bollinger	mv_mortality_rate	30
+29019	Missouri	Boone	mv_mortality_rate	13
+29021	Missouri	Buchanan	mv_mortality_rate	15
+29023	Missouri	Butler	mv_mortality_rate	32
+29025	Missouri	Caldwell	mv_mortality_rate	28
+29027	Missouri	Callaway	mv_mortality_rate	25
+29029	Missouri	Camden	mv_mortality_rate	23
+29031	Missouri	Cape Girardeau	mv_mortality_rate	10
+29033	Missouri	Carroll	mv_mortality_rate	33
+29035	Missouri	Carter	mv_mortality_rate	52
+29037	Missouri	Cass	mv_mortality_rate	15
+29039	Missouri	Cedar	mv_mortality_rate	25
+29041	Missouri	Chariton	mv_mortality_rate	23
+29043	Missouri	Christian	mv_mortality_rate	15
+29045	Missouri	Clark	mv_mortality_rate	36
+29047	Missouri	Clay	mv_mortality_rate	13
+29049	Missouri	Clinton	mv_mortality_rate	27
+29051	Missouri	Cole	mv_mortality_rate	18
+29053	Missouri	Cooper	mv_mortality_rate	16
+29055	Missouri	Crawford	mv_mortality_rate	22
+29057	Missouri	Dade	mv_mortality_rate	49
+29059	Missouri	Dallas	mv_mortality_rate	27
+29061	Missouri	Daviess	mv_mortality_rate	34
+29063	Missouri	DeKalb	mv_mortality_rate	12
+29065	Missouri	Dent	mv_mortality_rate	32
+29067	Missouri	Douglas	mv_mortality_rate	28
+29069	Missouri	Dunklin	mv_mortality_rate	32
+29071	Missouri	Franklin	mv_mortality_rate	24
+29073	Missouri	Gasconade	mv_mortality_rate	23
+29075	Missouri	Gentry	mv_mortality_rate	27
+29077	Missouri	Greene	mv_mortality_rate	13
+29079	Missouri	Grundy	mv_mortality_rate	32
+29081	Missouri	Harrison	mv_mortality_rate	29
+29083	Missouri	Henry	mv_mortality_rate	27
+29085	Missouri	Hickory	mv_mortality_rate	24
+29087	Missouri	Holt	mv_mortality_rate	29
+29089	Missouri	Howard	mv_mortality_rate	27
+29091	Missouri	Howell	mv_mortality_rate	28
+29093	Missouri	Iron	mv_mortality_rate	28
+29095	Missouri	Jackson	mv_mortality_rate	13
+29097	Missouri	Jasper	mv_mortality_rate	20
+29099	Missouri	Jefferson	mv_mortality_rate	18
+29101	Missouri	Johnson	mv_mortality_rate	15
+29103	Missouri	Knox	mv_mortality_rate	
+29105	Missouri	Laclede	mv_mortality_rate	22
+29107	Missouri	Lafayette	mv_mortality_rate	24
+29109	Missouri	Lawrence	mv_mortality_rate	27
+29111	Missouri	Lewis	mv_mortality_rate	17
+29113	Missouri	Lincoln	mv_mortality_rate	21
+29115	Missouri	Linn	mv_mortality_rate	17
+29117	Missouri	Livingston	mv_mortality_rate	17
+29119	Missouri	McDonald	mv_mortality_rate	32
+29121	Missouri	Macon	mv_mortality_rate	30
+29123	Missouri	Madison	mv_mortality_rate	35
+29125	Missouri	Maries	mv_mortality_rate	28
+29127	Missouri	Marion	mv_mortality_rate	18
+29129	Missouri	Mercer	mv_mortality_rate	
+29131	Missouri	Miller	mv_mortality_rate	35
+29133	Missouri	Mississippi	mv_mortality_rate	34
+29135	Missouri	Moniteau	mv_mortality_rate	27
+29137	Missouri	Monroe	mv_mortality_rate	34
+29139	Missouri	Montgomery	mv_mortality_rate	38
+29141	Missouri	Morgan	mv_mortality_rate	34
+29143	Missouri	New Madrid	mv_mortality_rate	31
+29145	Missouri	Newton	mv_mortality_rate	24
+29147	Missouri	Nodaway	mv_mortality_rate	15
+29149	Missouri	Oregon	mv_mortality_rate	44
+29151	Missouri	Osage	mv_mortality_rate	19
+29153	Missouri	Ozark	mv_mortality_rate	27
+29155	Missouri	Pemiscot	mv_mortality_rate	23
+29157	Missouri	Perry	mv_mortality_rate	18
+29159	Missouri	Pettis	mv_mortality_rate	20
+29161	Missouri	Phelps	mv_mortality_rate	20
+29163	Missouri	Pike	mv_mortality_rate	27
+29165	Missouri	Platte	mv_mortality_rate	12
+29167	Missouri	Polk	mv_mortality_rate	31
+29169	Missouri	Pulaski	mv_mortality_rate	21
+29171	Missouri	Putnam	mv_mortality_rate	
+29173	Missouri	Ralls	mv_mortality_rate	24
+29175	Missouri	Randolph	mv_mortality_rate	15
+29177	Missouri	Ray	mv_mortality_rate	31
+29179	Missouri	Reynolds	mv_mortality_rate	49
+29181	Missouri	Ripley	mv_mortality_rate	35
+29183	Missouri	St. Charles	mv_mortality_rate	9
+29185	Missouri	St. Clair	mv_mortality_rate	35
+29186	Missouri	Ste. Genevieve	mv_mortality_rate	20
+29187	Missouri	St. Francois	mv_mortality_rate	25
+29189	Missouri	St. Louis	mv_mortality_rate	9
+29195	Missouri	Saline	mv_mortality_rate	19
+29197	Missouri	Schuyler	mv_mortality_rate	
+29199	Missouri	Scotland	mv_mortality_rate	
+29201	Missouri	Scott	mv_mortality_rate	21
+29203	Missouri	Shannon	mv_mortality_rate	46
+29205	Missouri	Shelby	mv_mortality_rate	37
+29207	Missouri	Stoddard	mv_mortality_rate	26
+29209	Missouri	Stone	mv_mortality_rate	28
+29211	Missouri	Sullivan	mv_mortality_rate	34
+29213	Missouri	Taney	mv_mortality_rate	23
+29215	Missouri	Texas	mv_mortality_rate	36
+29217	Missouri	Vernon	mv_mortality_rate	32
+29219	Missouri	Warren	mv_mortality_rate	25
+29221	Missouri	Washington	mv_mortality_rate	47
+29223	Missouri	Wayne	mv_mortality_rate	39
+29225	Missouri	Webster	mv_mortality_rate	20
+29227	Missouri	Worth	mv_mortality_rate	
+29229	Missouri	Wright	mv_mortality_rate	31
+29510	Missouri	St. Louis City	mv_mortality_rate	13
+30001	Montana	Beaverhead	mv_mortality_rate	25
+30003	Montana	Big Horn	mv_mortality_rate	76
+30005	Montana	Blaine	mv_mortality_rate	44
+30007	Montana	Broadwater	mv_mortality_rate	31
+30009	Montana	Carbon	mv_mortality_rate	40
+30011	Montana	Carter	mv_mortality_rate	
+30013	Montana	Cascade	mv_mortality_rate	17
+30015	Montana	Chouteau	mv_mortality_rate	
+30017	Montana	Custer	mv_mortality_rate	26
+30019	Montana	Daniels	mv_mortality_rate	
+30021	Montana	Dawson	mv_mortality_rate	22
+30023	Montana	Deer Lodge	mv_mortality_rate	23
+30025	Montana	Fallon	mv_mortality_rate	51
+30027	Montana	Fergus	mv_mortality_rate	25
+30029	Montana	Flathead	mv_mortality_rate	26
+30031	Montana	Gallatin	mv_mortality_rate	17
+30033	Montana	Garfield	mv_mortality_rate	
+30035	Montana	Glacier	mv_mortality_rate	46
+30037	Montana	Golden Valley	mv_mortality_rate	
+30039	Montana	Granite	mv_mortality_rate	
+30041	Montana	Hill	mv_mortality_rate	27
+30043	Montana	Jefferson	mv_mortality_rate	30
+30045	Montana	Judith Basin	mv_mortality_rate	
+30047	Montana	Lake	mv_mortality_rate	37
+30049	Montana	Lewis and Clark	mv_mortality_rate	17
+30051	Montana	Liberty	mv_mortality_rate	
+30053	Montana	Lincoln	mv_mortality_rate	27
+30055	Montana	McCone	mv_mortality_rate	
+30057	Montana	Madison	mv_mortality_rate	38
+30059	Montana	Meagher	mv_mortality_rate	
+30061	Montana	Mineral	mv_mortality_rate	38
+30063	Montana	Missoula	mv_mortality_rate	14
+30065	Montana	Musselshell	mv_mortality_rate	
+30067	Montana	Park	mv_mortality_rate	25
+30069	Montana	Petroleum	mv_mortality_rate	
+30071	Montana	Phillips	mv_mortality_rate	41
+30073	Montana	Pondera	mv_mortality_rate	53
+30075	Montana	Powder River	mv_mortality_rate	
+30077	Montana	Powell	mv_mortality_rate	
+30079	Montana	Prairie	mv_mortality_rate	
+30081	Montana	Ravalli	mv_mortality_rate	21
+30083	Montana	Richland	mv_mortality_rate	32
+30085	Montana	Roosevelt	mv_mortality_rate	30
+30087	Montana	Rosebud	mv_mortality_rate	56
+30089	Montana	Sanders	mv_mortality_rate	39
+30091	Montana	Sheridan	mv_mortality_rate	
+30093	Montana	Silver Bow	mv_mortality_rate	22
+30095	Montana	Stillwater	mv_mortality_rate	28
+30097	Montana	Sweet Grass	mv_mortality_rate	
+30099	Montana	Teton	mv_mortality_rate	
+30101	Montana	Toole	mv_mortality_rate	
+30103	Montana	Treasure	mv_mortality_rate	
+30105	Montana	Valley	mv_mortality_rate	23
+30107	Montana	Wheatland	mv_mortality_rate	
+30109	Montana	Wibaux	mv_mortality_rate	
+30111	Montana	Yellowstone	mv_mortality_rate	16
+31001	Nebraska	Adams	mv_mortality_rate	18
+31003	Nebraska	Antelope	mv_mortality_rate	25
+31005	Nebraska	Arthur	mv_mortality_rate	
+31007	Nebraska	Banner	mv_mortality_rate	
+31009	Nebraska	Blaine	mv_mortality_rate	
+31011	Nebraska	Boone	mv_mortality_rate	31
+31013	Nebraska	Box Butte	mv_mortality_rate	20
+31015	Nebraska	Boyd	mv_mortality_rate	
+31017	Nebraska	Brown	mv_mortality_rate	
+31019	Nebraska	Buffalo	mv_mortality_rate	17
+31021	Nebraska	Burt	mv_mortality_rate	26
+31023	Nebraska	Butler	mv_mortality_rate	20
+31025	Nebraska	Cass	mv_mortality_rate	22
+31027	Nebraska	Cedar	mv_mortality_rate	
+31029	Nebraska	Chase	mv_mortality_rate	
+31031	Nebraska	Cherry	mv_mortality_rate	24
+31033	Nebraska	Cheyenne	mv_mortality_rate	34
+31035	Nebraska	Clay	mv_mortality_rate	39
+31037	Nebraska	Colfax	mv_mortality_rate	29
+31039	Nebraska	Cuming	mv_mortality_rate	21
+31041	Nebraska	Custer	mv_mortality_rate	24
+31043	Nebraska	Dakota	mv_mortality_rate	11
+31045	Nebraska	Dawes	mv_mortality_rate	
+31047	Nebraska	Dawson	mv_mortality_rate	22
+31049	Nebraska	Deuel	mv_mortality_rate	
+31051	Nebraska	Dixon	mv_mortality_rate	33
+31053	Nebraska	Dodge	mv_mortality_rate	16
+31055	Nebraska	Douglas	mv_mortality_rate	8
+31057	Nebraska	Dundy	mv_mortality_rate	
+31059	Nebraska	Fillmore	mv_mortality_rate	24
+31061	Nebraska	Franklin	mv_mortality_rate	
+31063	Nebraska	Frontier	mv_mortality_rate	
+31065	Nebraska	Furnas	mv_mortality_rate	43
+31067	Nebraska	Gage	mv_mortality_rate	23
+31069	Nebraska	Garden	mv_mortality_rate	
+31071	Nebraska	Garfield	mv_mortality_rate	
+31073	Nebraska	Gosper	mv_mortality_rate	
+31075	Nebraska	Grant	mv_mortality_rate	
+31077	Nebraska	Greeley	mv_mortality_rate	
+31079	Nebraska	Hall	mv_mortality_rate	13
+31081	Nebraska	Hamilton	mv_mortality_rate	25
+31083	Nebraska	Harlan	mv_mortality_rate	
+31085	Nebraska	Hayes	mv_mortality_rate	
+31087	Nebraska	Hitchcock	mv_mortality_rate	
+31089	Nebraska	Holt	mv_mortality_rate	31
+31091	Nebraska	Hooker	mv_mortality_rate	
+31093	Nebraska	Howard	mv_mortality_rate	27
+31095	Nebraska	Jefferson	mv_mortality_rate	26
+31097	Nebraska	Johnson	mv_mortality_rate	27
+31099	Nebraska	Kearney	mv_mortality_rate	
+31101	Nebraska	Keith	mv_mortality_rate	26
+31103	Nebraska	Keya Paha	mv_mortality_rate	
+31105	Nebraska	Kimball	mv_mortality_rate	
+31107	Nebraska	Knox	mv_mortality_rate	39
+31109	Nebraska	Lancaster	mv_mortality_rate	8
+31111	Nebraska	Lincoln	mv_mortality_rate	12
+31113	Nebraska	Logan	mv_mortality_rate	
+31115	Nebraska	Loup	mv_mortality_rate	
+31117	Nebraska	McPherson	mv_mortality_rate	
+31119	Nebraska	Madison	mv_mortality_rate	12
+31121	Nebraska	Merrick	mv_mortality_rate	27
+31123	Nebraska	Morrill	mv_mortality_rate	51
+31125	Nebraska	Nance	mv_mortality_rate	
+31127	Nebraska	Nemaha	mv_mortality_rate	
+31129	Nebraska	Nuckolls	mv_mortality_rate	
+31131	Nebraska	Otoe	mv_mortality_rate	23
+31133	Nebraska	Pawnee	mv_mortality_rate	
+31135	Nebraska	Perkins	mv_mortality_rate	
+31137	Nebraska	Phelps	mv_mortality_rate	18
+31139	Nebraska	Pierce	mv_mortality_rate	
+31141	Nebraska	Platte	mv_mortality_rate	18
+31143	Nebraska	Polk	mv_mortality_rate	
+31145	Nebraska	Red Willow	mv_mortality_rate	19
+31147	Nebraska	Richardson	mv_mortality_rate	22
+31149	Nebraska	Rock	mv_mortality_rate	
+31151	Nebraska	Saline	mv_mortality_rate	
+31153	Nebraska	Sarpy	mv_mortality_rate	8
+31155	Nebraska	Saunders	mv_mortality_rate	24
+31157	Nebraska	Scotts Bluff	mv_mortality_rate	24
+31159	Nebraska	Seward	mv_mortality_rate	10
+31161	Nebraska	Sheridan	mv_mortality_rate	33
+31163	Nebraska	Sherman	mv_mortality_rate	
+31165	Nebraska	Sioux	mv_mortality_rate	
+31167	Nebraska	Stanton	mv_mortality_rate	
+31169	Nebraska	Thayer	mv_mortality_rate	
+31171	Nebraska	Thomas	mv_mortality_rate	
+31173	Nebraska	Thurston	mv_mortality_rate	29
+31175	Nebraska	Valley	mv_mortality_rate	
+31177	Nebraska	Washington	mv_mortality_rate	24
+31179	Nebraska	Wayne	mv_mortality_rate	
+31181	Nebraska	Webster	mv_mortality_rate	
+31183	Nebraska	Wheeler	mv_mortality_rate	
+31185	Nebraska	York	mv_mortality_rate	10
+32001	Nevada	Churchill	mv_mortality_rate	27
+32003	Nevada	Clark	mv_mortality_rate	13
+32005	Nevada	Douglas	mv_mortality_rate	16
+32007	Nevada	Elko	mv_mortality_rate	20
+32009	Nevada	Esmeralda	mv_mortality_rate	
+32011	Nevada	Eureka	mv_mortality_rate	
+32013	Nevada	Humboldt	mv_mortality_rate	37
+32015	Nevada	Lander	mv_mortality_rate	45
+32017	Nevada	Lincoln	mv_mortality_rate	47
+32019	Nevada	Lyon	mv_mortality_rate	21
+32021	Nevada	Mineral	mv_mortality_rate	53
+32023	Nevada	Nye	mv_mortality_rate	45
+32027	Nevada	Pershing	mv_mortality_rate	
+32029	Nevada	Storey	mv_mortality_rate	
+32031	Nevada	Washoe	mv_mortality_rate	11
+32033	Nevada	White Pine	mv_mortality_rate	33
+32510	Nevada	Carson City	mv_mortality_rate	12
+33001	New Hampshire	Belknap	mv_mortality_rate	10
+33003	New Hampshire	Carroll	mv_mortality_rate	20
+33005	New Hampshire	Cheshire	mv_mortality_rate	13
+33007	New Hampshire	Coos	mv_mortality_rate	16
+33009	New Hampshire	Grafton	mv_mortality_rate	11
+33011	New Hampshire	Hillsborough	mv_mortality_rate	8
+33013	New Hampshire	Merrimack	mv_mortality_rate	10
+33015	New Hampshire	Rockingham	mv_mortality_rate	9
+33017	New Hampshire	Strafford	mv_mortality_rate	10
+33019	New Hampshire	Sullivan	mv_mortality_rate	16
+34001	New Jersey	Atlantic	mv_mortality_rate	13
+34003	New Jersey	Bergen	mv_mortality_rate	5
+34005	New Jersey	Burlington	mv_mortality_rate	9
+34007	New Jersey	Camden	mv_mortality_rate	9
+34009	New Jersey	Cape May	mv_mortality_rate	12
+34011	New Jersey	Cumberland	mv_mortality_rate	19
+34013	New Jersey	Essex	mv_mortality_rate	7
+34015	New Jersey	Gloucester	mv_mortality_rate	11
+34017	New Jersey	Hudson	mv_mortality_rate	5
+34019	New Jersey	Hunterdon	mv_mortality_rate	6
+34021	New Jersey	Mercer	mv_mortality_rate	7
+34023	New Jersey	Middlesex	mv_mortality_rate	6
+34025	New Jersey	Monmouth	mv_mortality_rate	8
+34027	New Jersey	Morris	mv_mortality_rate	5
+34029	New Jersey	Ocean	mv_mortality_rate	10
+34031	New Jersey	Passaic	mv_mortality_rate	6
+34033	New Jersey	Salem	mv_mortality_rate	19
+34035	New Jersey	Somerset	mv_mortality_rate	5
+34037	New Jersey	Sussex	mv_mortality_rate	10
+34039	New Jersey	Union	mv_mortality_rate	8
+34041	New Jersey	Warren	mv_mortality_rate	11
+35001	New Mexico	Bernalillo	mv_mortality_rate	14
+35003	New Mexico	Catron	mv_mortality_rate	
+35005	New Mexico	Chaves	mv_mortality_rate	22
+35006	New Mexico	Cibola	mv_mortality_rate	30
+35007	New Mexico	Colfax	mv_mortality_rate	16
+35009	New Mexico	Curry	mv_mortality_rate	19
+35011	New Mexico	De Baca	mv_mortality_rate	
+35013	New Mexico	Dona Ana	mv_mortality_rate	12
+35015	New Mexico	Eddy	mv_mortality_rate	24
+35017	New Mexico	Grant	mv_mortality_rate	19
+35019	New Mexico	Guadalupe	mv_mortality_rate	46
+35021	New Mexico	Harding	mv_mortality_rate	
+35023	New Mexico	Hidalgo	mv_mortality_rate	
+35025	New Mexico	Lea	mv_mortality_rate	31
+35027	New Mexico	Lincoln	mv_mortality_rate	19
+35028	New Mexico	Los Alamos	mv_mortality_rate	
+35029	New Mexico	Luna	mv_mortality_rate	28
+35031	New Mexico	McKinley	mv_mortality_rate	40
+35033	New Mexico	Mora	mv_mortality_rate	
+35035	New Mexico	Otero	mv_mortality_rate	10
+35037	New Mexico	Quay	mv_mortality_rate	28
+35039	New Mexico	Rio Arriba	mv_mortality_rate	41
+35041	New Mexico	Roosevelt	mv_mortality_rate	19
+35043	New Mexico	Sandoval	mv_mortality_rate	15
+35045	New Mexico	San Juan	mv_mortality_rate	32
+35047	New Mexico	San Miguel	mv_mortality_rate	31
+35049	New Mexico	Santa Fe	mv_mortality_rate	17
+35051	New Mexico	Sierra	mv_mortality_rate	23
+35053	New Mexico	Socorro	mv_mortality_rate	33
+35055	New Mexico	Taos	mv_mortality_rate	33
+35057	New Mexico	Torrance	mv_mortality_rate	36
+35059	New Mexico	Union	mv_mortality_rate	33
+35061	New Mexico	Valencia	mv_mortality_rate	22
+36001	New York	Albany	mv_mortality_rate	7
+36003	New York	Allegany	mv_mortality_rate	16
+36005	New York	Bronx	mv_mortality_rate	4
+36007	New York	Broome	mv_mortality_rate	8
+36009	New York	Cattaraugus	mv_mortality_rate	15
+36011	New York	Cayuga	mv_mortality_rate	12
+36013	New York	Chautauqua	mv_mortality_rate	12
+36015	New York	Chemung	mv_mortality_rate	8
+36017	New York	Chenango	mv_mortality_rate	14
+36019	New York	Clinton	mv_mortality_rate	12
+36021	New York	Columbia	mv_mortality_rate	13
+36023	New York	Cortland	mv_mortality_rate	9
+36025	New York	Delaware	mv_mortality_rate	18
+36027	New York	Dutchess	mv_mortality_rate	9
+36029	New York	Erie	mv_mortality_rate	7
+36031	New York	Essex	mv_mortality_rate	13
+36033	New York	Franklin	mv_mortality_rate	15
+36035	New York	Fulton	mv_mortality_rate	14
+36037	New York	Genesee	mv_mortality_rate	14
+36039	New York	Greene	mv_mortality_rate	15
+36041	New York	Hamilton	mv_mortality_rate	
+36043	New York	Herkimer	mv_mortality_rate	13
+36045	New York	Jefferson	mv_mortality_rate	11
+36047	New York	Kings	mv_mortality_rate	5
+36049	New York	Lewis	mv_mortality_rate	19
+36051	New York	Livingston	mv_mortality_rate	12
+36053	New York	Madison	mv_mortality_rate	13
+36055	New York	Monroe	mv_mortality_rate	7
+36057	New York	Montgomery	mv_mortality_rate	11
+36059	New York	Nassau	mv_mortality_rate	8
+36061	New York	New York	mv_mortality_rate	4
+36063	New York	Niagara	mv_mortality_rate	10
+36065	New York	Oneida	mv_mortality_rate	9
+36067	New York	Onondaga	mv_mortality_rate	8
+36069	New York	Ontario	mv_mortality_rate	9
+36071	New York	Orange	mv_mortality_rate	11
+36073	New York	Orleans	mv_mortality_rate	12
+36075	New York	Oswego	mv_mortality_rate	13
+36077	New York	Otsego	mv_mortality_rate	12
+36079	New York	Putnam	mv_mortality_rate	8
+36081	New York	Queens	mv_mortality_rate	5
+36083	New York	Rensselaer	mv_mortality_rate	9
+36085	New York	Richmond	mv_mortality_rate	6
+36087	New York	Rockland	mv_mortality_rate	7
+36089	New York	St. Lawrence	mv_mortality_rate	11
+36091	New York	Saratoga	mv_mortality_rate	9
+36093	New York	Schenectady	mv_mortality_rate	6
+36095	New York	Schoharie	mv_mortality_rate	10
+36097	New York	Schuyler	mv_mortality_rate	
+36099	New York	Seneca	mv_mortality_rate	14
+36101	New York	Steuben	mv_mortality_rate	14
+36103	New York	Suffolk	mv_mortality_rate	11
+36105	New York	Sullivan	mv_mortality_rate	16
+36107	New York	Tioga	mv_mortality_rate	11
+36109	New York	Tompkins	mv_mortality_rate	7
+36111	New York	Ulster	mv_mortality_rate	12
+36113	New York	Warren	mv_mortality_rate	11
+36115	New York	Washington	mv_mortality_rate	15
+36117	New York	Wayne	mv_mortality_rate	12
+36119	New York	Westchester	mv_mortality_rate	5
+36121	New York	Wyoming	mv_mortality_rate	14
+36123	New York	Yates	mv_mortality_rate	11
+37001	North Carolina	Alamance	mv_mortality_rate	13
+37003	North Carolina	Alexander	mv_mortality_rate	21
+37005	North Carolina	Alleghany	mv_mortality_rate	19
+37007	North Carolina	Anson	mv_mortality_rate	27
+37009	North Carolina	Ashe	mv_mortality_rate	22
+37011	North Carolina	Avery	mv_mortality_rate	11
+37013	North Carolina	Beaufort	mv_mortality_rate	23
+37015	North Carolina	Bertie	mv_mortality_rate	46
+37017	North Carolina	Bladen	mv_mortality_rate	36
+37019	North Carolina	Brunswick	mv_mortality_rate	27
+37021	North Carolina	Buncombe	mv_mortality_rate	13
+37023	North Carolina	Burke	mv_mortality_rate	18
+37025	North Carolina	Cabarrus	mv_mortality_rate	14
+37027	North Carolina	Caldwell	mv_mortality_rate	18
+37029	North Carolina	Camden	mv_mortality_rate	17
+37031	North Carolina	Carteret	mv_mortality_rate	19
+37033	North Carolina	Caswell	mv_mortality_rate	22
+37035	North Carolina	Catawba	mv_mortality_rate	19
+37037	North Carolina	Chatham	mv_mortality_rate	24
+37039	North Carolina	Cherokee	mv_mortality_rate	18
+37041	North Carolina	Chowan	mv_mortality_rate	18
+37043	North Carolina	Clay	mv_mortality_rate	22
+37045	North Carolina	Cleveland	mv_mortality_rate	20
+37047	North Carolina	Columbus	mv_mortality_rate	41
+37049	North Carolina	Craven	mv_mortality_rate	15
+37051	North Carolina	Cumberland	mv_mortality_rate	19
+37053	North Carolina	Currituck	mv_mortality_rate	24
+37055	North Carolina	Dare	mv_mortality_rate	17
+37057	North Carolina	Davidson	mv_mortality_rate	20
+37059	North Carolina	Davie	mv_mortality_rate	20
+37061	North Carolina	Duplin	mv_mortality_rate	28
+37063	North Carolina	Durham	mv_mortality_rate	12
+37065	North Carolina	Edgecombe	mv_mortality_rate	20
+37067	North Carolina	Forsyth	mv_mortality_rate	11
+37069	North Carolina	Franklin	mv_mortality_rate	24
+37071	North Carolina	Gaston	mv_mortality_rate	16
+37073	North Carolina	Gates	mv_mortality_rate	28
+37075	North Carolina	Graham	mv_mortality_rate	
+37077	North Carolina	Granville	mv_mortality_rate	20
+37079	North Carolina	Greene	mv_mortality_rate	23
+37081	North Carolina	Guilford	mv_mortality_rate	13
+37083	North Carolina	Halifax	mv_mortality_rate	24
+37085	North Carolina	Harnett	mv_mortality_rate	24
+37087	North Carolina	Haywood	mv_mortality_rate	21
+37089	North Carolina	Henderson	mv_mortality_rate	14
+37091	North Carolina	Hertford	mv_mortality_rate	29
+37093	North Carolina	Hoke	mv_mortality_rate	30
+37095	North Carolina	Hyde	mv_mortality_rate	
+37097	North Carolina	Iredell	mv_mortality_rate	17
+37099	North Carolina	Jackson	mv_mortality_rate	15
+37101	North Carolina	Johnston	mv_mortality_rate	21
+37103	North Carolina	Jones	mv_mortality_rate	28
+37105	North Carolina	Lee	mv_mortality_rate	30
+37107	North Carolina	Lenoir	mv_mortality_rate	20
+37109	North Carolina	Lincoln	mv_mortality_rate	22
+37111	North Carolina	McDowell	mv_mortality_rate	14
+37113	North Carolina	Macon	mv_mortality_rate	13
+37115	North Carolina	Madison	mv_mortality_rate	22
+37117	North Carolina	Martin	mv_mortality_rate	23
+37119	North Carolina	Mecklenburg	mv_mortality_rate	10
+37121	North Carolina	Mitchell	mv_mortality_rate	24
+37123	North Carolina	Montgomery	mv_mortality_rate	29
+37125	North Carolina	Moore	mv_mortality_rate	21
+37127	North Carolina	Nash	mv_mortality_rate	22
+37129	North Carolina	New Hanover	mv_mortality_rate	11
+37131	North Carolina	Northampton	mv_mortality_rate	28
+37133	North Carolina	Onslow	mv_mortality_rate	19
+37135	North Carolina	Orange	mv_mortality_rate	11
+37137	North Carolina	Pamlico	mv_mortality_rate	32
+37139	North Carolina	Pasquotank	mv_mortality_rate	12
+37141	North Carolina	Pender	mv_mortality_rate	26
+37143	North Carolina	Perquimans	mv_mortality_rate	19
+37145	North Carolina	Person	mv_mortality_rate	22
+37147	North Carolina	Pitt	mv_mortality_rate	17
+37149	North Carolina	Polk	mv_mortality_rate	19
+37151	North Carolina	Randolph	mv_mortality_rate	19
+37153	North Carolina	Richmond	mv_mortality_rate	21
+37155	North Carolina	Robeson	mv_mortality_rate	38
+37157	North Carolina	Rockingham	mv_mortality_rate	23
+37159	North Carolina	Rowan	mv_mortality_rate	18
+37161	North Carolina	Rutherford	mv_mortality_rate	20
+37163	North Carolina	Sampson	mv_mortality_rate	32
+37165	North Carolina	Scotland	mv_mortality_rate	24
+37167	North Carolina	Stanly	mv_mortality_rate	20
+37169	North Carolina	Stokes	mv_mortality_rate	20
+37171	North Carolina	Surry	mv_mortality_rate	19
+37173	North Carolina	Swain	mv_mortality_rate	27
+37175	North Carolina	Transylvania	mv_mortality_rate	16
+37177	North Carolina	Tyrrell	mv_mortality_rate	
+37179	North Carolina	Union	mv_mortality_rate	15
+37181	North Carolina	Vance	mv_mortality_rate	18
+37183	North Carolina	Wake	mv_mortality_rate	10
+37185	North Carolina	Warren	mv_mortality_rate	34
+37187	North Carolina	Washington	mv_mortality_rate	17
+37189	North Carolina	Watauga	mv_mortality_rate	11
+37191	North Carolina	Wayne	mv_mortality_rate	19
+37193	North Carolina	Wilkes	mv_mortality_rate	22
+37195	North Carolina	Wilson	mv_mortality_rate	23
+37197	North Carolina	Yadkin	mv_mortality_rate	22
+37199	North Carolina	Yancey	mv_mortality_rate	17
+38001	North Dakota	Adams	mv_mortality_rate	
+38003	North Dakota	Barnes	mv_mortality_rate	18
+38005	North Dakota	Benson	mv_mortality_rate	64
+38007	North Dakota	Billings	mv_mortality_rate	
+38009	North Dakota	Bottineau	mv_mortality_rate	
+38011	North Dakota	Bowman	mv_mortality_rate	
+38013	North Dakota	Burke	mv_mortality_rate	
+38015	North Dakota	Burleigh	mv_mortality_rate	10
+38017	North Dakota	Cass	mv_mortality_rate	8
+38019	North Dakota	Cavalier	mv_mortality_rate	
+38021	North Dakota	Dickey	mv_mortality_rate	
+38023	North Dakota	Divide	mv_mortality_rate	
+38025	North Dakota	Dunn	mv_mortality_rate	45
+38027	North Dakota	Eddy	mv_mortality_rate	
+38029	North Dakota	Emmons	mv_mortality_rate	
+38031	North Dakota	Foster	mv_mortality_rate	
+38033	North Dakota	Golden Valley	mv_mortality_rate	
+38035	North Dakota	Grand Forks	mv_mortality_rate	12
+38037	North Dakota	Grant	mv_mortality_rate	
+38039	North Dakota	Griggs	mv_mortality_rate	
+38041	North Dakota	Hettinger	mv_mortality_rate	
+38043	North Dakota	Kidder	mv_mortality_rate	
+38045	North Dakota	LaMoure	mv_mortality_rate	
+38047	North Dakota	Logan	mv_mortality_rate	
+38049	North Dakota	McHenry	mv_mortality_rate	31
+38051	North Dakota	McIntosh	mv_mortality_rate	
+38053	North Dakota	McKenzie	mv_mortality_rate	48
+38055	North Dakota	McLean	mv_mortality_rate	31
+38057	North Dakota	Mercer	mv_mortality_rate	22
+38059	North Dakota	Morton	mv_mortality_rate	18
+38061	North Dakota	Mountrail	mv_mortality_rate	58
+38063	North Dakota	Nelson	mv_mortality_rate	
+38065	North Dakota	Oliver	mv_mortality_rate	
+38067	North Dakota	Pembina	mv_mortality_rate	22
+38069	North Dakota	Pierce	mv_mortality_rate	
+38071	North Dakota	Ramsey	mv_mortality_rate	15
+38073	North Dakota	Ransom	mv_mortality_rate	
+38075	North Dakota	Renville	mv_mortality_rate	
+38077	North Dakota	Richland	mv_mortality_rate	21
+38079	North Dakota	Rolette	mv_mortality_rate	44
+38081	North Dakota	Sargent	mv_mortality_rate	
+38083	North Dakota	Sheridan	mv_mortality_rate	
+38085	North Dakota	Sioux	mv_mortality_rate	80
+38087	North Dakota	Slope	mv_mortality_rate	
+38089	North Dakota	Stark	mv_mortality_rate	13
+38091	North Dakota	Steele	mv_mortality_rate	
+38093	North Dakota	Stutsman	mv_mortality_rate	10
+38095	North Dakota	Towner	mv_mortality_rate	
+38097	North Dakota	Traill	mv_mortality_rate	
+38099	North Dakota	Walsh	mv_mortality_rate	19
+38101	North Dakota	Ward	mv_mortality_rate	11
+38103	North Dakota	Wells	mv_mortality_rate	46
+38105	North Dakota	Williams	mv_mortality_rate	23
+39001	Ohio	Adams	mv_mortality_rate	25
+39003	Ohio	Allen	mv_mortality_rate	11
+39005	Ohio	Ashland	mv_mortality_rate	13
+39007	Ohio	Ashtabula	mv_mortality_rate	16
+39009	Ohio	Athens	mv_mortality_rate	11
+39011	Ohio	Auglaize	mv_mortality_rate	17
+39013	Ohio	Belmont	mv_mortality_rate	13
+39015	Ohio	Brown	mv_mortality_rate	18
+39017	Ohio	Butler	mv_mortality_rate	10
+39019	Ohio	Carroll	mv_mortality_rate	18
+39021	Ohio	Champaign	mv_mortality_rate	23
+39023	Ohio	Clark	mv_mortality_rate	14
+39025	Ohio	Clermont	mv_mortality_rate	11
+39027	Ohio	Clinton	mv_mortality_rate	17
+39029	Ohio	Columbiana	mv_mortality_rate	14
+39031	Ohio	Coshocton	mv_mortality_rate	18
+39033	Ohio	Crawford	mv_mortality_rate	18
+39035	Ohio	Cuyahoga	mv_mortality_rate	6
+39037	Ohio	Darke	mv_mortality_rate	20
+39039	Ohio	Defiance	mv_mortality_rate	18
+39041	Ohio	Delaware	mv_mortality_rate	7
+39043	Ohio	Erie	mv_mortality_rate	10
+39045	Ohio	Fairfield	mv_mortality_rate	11
+39047	Ohio	Fayette	mv_mortality_rate	13
+39049	Ohio	Franklin	mv_mortality_rate	9
+39051	Ohio	Fulton	mv_mortality_rate	26
+39053	Ohio	Gallia	mv_mortality_rate	16
+39055	Ohio	Geauga	mv_mortality_rate	10
+39057	Ohio	Greene	mv_mortality_rate	9
+39059	Ohio	Guernsey	mv_mortality_rate	11
+39061	Ohio	Hamilton	mv_mortality_rate	8
+39063	Ohio	Hancock	mv_mortality_rate	11
+39065	Ohio	Hardin	mv_mortality_rate	17
+39067	Ohio	Harrison	mv_mortality_rate	19
+39069	Ohio	Henry	mv_mortality_rate	26
+39071	Ohio	Highland	mv_mortality_rate	21
+39073	Ohio	Hocking	mv_mortality_rate	19
+39075	Ohio	Holmes	mv_mortality_rate	13
+39077	Ohio	Huron	mv_mortality_rate	18
+39079	Ohio	Jackson	mv_mortality_rate	18
+39081	Ohio	Jefferson	mv_mortality_rate	12
+39083	Ohio	Knox	mv_mortality_rate	17
+39085	Ohio	Lake	mv_mortality_rate	6
+39087	Ohio	Lawrence	mv_mortality_rate	15
+39089	Ohio	Licking	mv_mortality_rate	13
+39091	Ohio	Logan	mv_mortality_rate	25
+39093	Ohio	Lorain	mv_mortality_rate	8
+39095	Ohio	Lucas	mv_mortality_rate	10
+39097	Ohio	Madison	mv_mortality_rate	16
+39099	Ohio	Mahoning	mv_mortality_rate	10
+39101	Ohio	Marion	mv_mortality_rate	13
+39103	Ohio	Medina	mv_mortality_rate	9
+39105	Ohio	Meigs	mv_mortality_rate	19
+39107	Ohio	Mercer	mv_mortality_rate	18
+39109	Ohio	Miami	mv_mortality_rate	13
+39111	Ohio	Monroe	mv_mortality_rate	24
+39113	Ohio	Montgomery	mv_mortality_rate	10
+39115	Ohio	Morgan	mv_mortality_rate	14
+39117	Ohio	Morrow	mv_mortality_rate	20
+39119	Ohio	Muskingum	mv_mortality_rate	14
+39121	Ohio	Noble	mv_mortality_rate	22
+39123	Ohio	Ottawa	mv_mortality_rate	14
+39125	Ohio	Paulding	mv_mortality_rate	31
+39127	Ohio	Perry	mv_mortality_rate	22
+39129	Ohio	Pickaway	mv_mortality_rate	15
+39131	Ohio	Pike	mv_mortality_rate	22
+39133	Ohio	Portage	mv_mortality_rate	10
+39135	Ohio	Preble	mv_mortality_rate	19
+39137	Ohio	Putnam	mv_mortality_rate	19
+39139	Ohio	Richland	mv_mortality_rate	10
+39141	Ohio	Ross	mv_mortality_rate	19
+39143	Ohio	Sandusky	mv_mortality_rate	15
+39145	Ohio	Scioto	mv_mortality_rate	16
+39147	Ohio	Seneca	mv_mortality_rate	20
+39149	Ohio	Shelby	mv_mortality_rate	12
+39151	Ohio	Stark	mv_mortality_rate	10
+39153	Ohio	Summit	mv_mortality_rate	8
+39155	Ohio	Trumbull	mv_mortality_rate	12
+39157	Ohio	Tuscarawas	mv_mortality_rate	12
+39159	Ohio	Union	mv_mortality_rate	13
+39161	Ohio	Van Wert	mv_mortality_rate	12
+39163	Ohio	Vinton	mv_mortality_rate	22
+39165	Ohio	Warren	mv_mortality_rate	7
+39167	Ohio	Washington	mv_mortality_rate	15
+39169	Ohio	Wayne	mv_mortality_rate	14
+39171	Ohio	Williams	mv_mortality_rate	19
+39173	Ohio	Wood	mv_mortality_rate	12
+39175	Ohio	Wyandot	mv_mortality_rate	23
+40001	Oklahoma	Adair	mv_mortality_rate	28
+40003	Oklahoma	Alfalfa	mv_mortality_rate	35
+40005	Oklahoma	Atoka	mv_mortality_rate	40
+40007	Oklahoma	Beaver	mv_mortality_rate	41
+40009	Oklahoma	Beckham	mv_mortality_rate	42
+40011	Oklahoma	Blaine	mv_mortality_rate	34
+40013	Oklahoma	Bryan	mv_mortality_rate	26
+40015	Oklahoma	Caddo	mv_mortality_rate	40
+40017	Oklahoma	Canadian	mv_mortality_rate	17
+40019	Oklahoma	Carter	mv_mortality_rate	30
+40021	Oklahoma	Cherokee	mv_mortality_rate	23
+40023	Oklahoma	Choctaw	mv_mortality_rate	33
+40025	Oklahoma	Cimarron	mv_mortality_rate	56
+40027	Oklahoma	Cleveland	mv_mortality_rate	10
+40029	Oklahoma	Coal	mv_mortality_rate	
+40031	Oklahoma	Comanche	mv_mortality_rate	15
+40033	Oklahoma	Cotton	mv_mortality_rate	36
+40035	Oklahoma	Craig	mv_mortality_rate	28
+40037	Oklahoma	Creek	mv_mortality_rate	26
+40039	Oklahoma	Custer	mv_mortality_rate	19
+40041	Oklahoma	Delaware	mv_mortality_rate	28
+40043	Oklahoma	Dewey	mv_mortality_rate	61
+40045	Oklahoma	Ellis	mv_mortality_rate	35
+40047	Oklahoma	Garfield	mv_mortality_rate	21
+40049	Oklahoma	Garvin	mv_mortality_rate	37
+40051	Oklahoma	Grady	mv_mortality_rate	21
+40053	Oklahoma	Grant	mv_mortality_rate	43
+40055	Oklahoma	Greer	mv_mortality_rate	23
+40057	Oklahoma	Harmon	mv_mortality_rate	
+40059	Oklahoma	Harper	mv_mortality_rate	60
+40061	Oklahoma	Haskell	mv_mortality_rate	41
+40063	Oklahoma	Hughes	mv_mortality_rate	40
+40065	Oklahoma	Jackson	mv_mortality_rate	23
+40067	Oklahoma	Jefferson	mv_mortality_rate	46
+40069	Oklahoma	Johnston	mv_mortality_rate	25
+40071	Oklahoma	Kay	mv_mortality_rate	28
+40073	Oklahoma	Kingfisher	mv_mortality_rate	23
+40075	Oklahoma	Kiowa	mv_mortality_rate	33
+40077	Oklahoma	Latimer	mv_mortality_rate	42
+40079	Oklahoma	Le Flore	mv_mortality_rate	35
+40081	Oklahoma	Lincoln	mv_mortality_rate	31
+40083	Oklahoma	Logan	mv_mortality_rate	17
+40085	Oklahoma	Love	mv_mortality_rate	28
+40087	Oklahoma	McClain	mv_mortality_rate	20
+40089	Oklahoma	McCurtain	mv_mortality_rate	43
+40091	Oklahoma	McIntosh	mv_mortality_rate	27
+40093	Oklahoma	Major	mv_mortality_rate	34
+40095	Oklahoma	Marshall	mv_mortality_rate	30
+40097	Oklahoma	Mayes	mv_mortality_rate	27
+40099	Oklahoma	Murray	mv_mortality_rate	34
+40101	Oklahoma	Muskogee	mv_mortality_rate	18
+40103	Oklahoma	Noble	mv_mortality_rate	19
+40105	Oklahoma	Nowata	mv_mortality_rate	16
+40107	Oklahoma	Okfuskee	mv_mortality_rate	29
+40109	Oklahoma	Oklahoma	mv_mortality_rate	13
+40111	Oklahoma	Okmulgee	mv_mortality_rate	27
+40113	Oklahoma	Osage	mv_mortality_rate	24
+40115	Oklahoma	Ottawa	mv_mortality_rate	32
+40117	Oklahoma	Pawnee	mv_mortality_rate	35
+40119	Oklahoma	Payne	mv_mortality_rate	15
+40121	Oklahoma	Pittsburg	mv_mortality_rate	33
+40123	Oklahoma	Pontotoc	mv_mortality_rate	33
+40125	Oklahoma	Pottawatomie	mv_mortality_rate	27
+40127	Oklahoma	Pushmataha	mv_mortality_rate	44
+40129	Oklahoma	Roger Mills	mv_mortality_rate	
+40131	Oklahoma	Rogers	mv_mortality_rate	19
+40133	Oklahoma	Seminole	mv_mortality_rate	32
+40135	Oklahoma	Sequoyah	mv_mortality_rate	22
+40137	Oklahoma	Stephens	mv_mortality_rate	27
+40139	Oklahoma	Texas	mv_mortality_rate	30
+40141	Oklahoma	Tillman	mv_mortality_rate	33
+40143	Oklahoma	Tulsa	mv_mortality_rate	14
+40145	Oklahoma	Wagoner	mv_mortality_rate	15
+40147	Oklahoma	Washington	mv_mortality_rate	16
+40149	Oklahoma	Washita	mv_mortality_rate	25
+40151	Oklahoma	Woods	mv_mortality_rate	21
+40153	Oklahoma	Woodward	mv_mortality_rate	30
+41001	Oregon	Baker	mv_mortality_rate	21
+41003	Oregon	Benton	mv_mortality_rate	8
+41005	Oregon	Clackamas	mv_mortality_rate	10
+41007	Oregon	Clatsop	mv_mortality_rate	11
+41009	Oregon	Columbia	mv_mortality_rate	19
+41011	Oregon	Coos	mv_mortality_rate	16
+41013	Oregon	Crook	mv_mortality_rate	13
+41015	Oregon	Curry	mv_mortality_rate	22
+41017	Oregon	Deschutes	mv_mortality_rate	14
+41019	Oregon	Douglas	mv_mortality_rate	21
+41021	Oregon	Gilliam	mv_mortality_rate	
+41023	Oregon	Grant	mv_mortality_rate	25
+41025	Oregon	Harney	mv_mortality_rate	31
+41027	Oregon	Hood River	mv_mortality_rate	13
+41029	Oregon	Jackson	mv_mortality_rate	14
+41031	Oregon	Jefferson	mv_mortality_rate	36
+41033	Oregon	Josephine	mv_mortality_rate	23
+41035	Oregon	Klamath	mv_mortality_rate	19
+41037	Oregon	Lake	mv_mortality_rate	35
+41039	Oregon	Lane	mv_mortality_rate	12
+41041	Oregon	Lincoln	mv_mortality_rate	13
+41043	Oregon	Linn	mv_mortality_rate	17
+41045	Oregon	Malheur	mv_mortality_rate	15
+41047	Oregon	Marion	mv_mortality_rate	11
+41049	Oregon	Morrow	mv_mortality_rate	
+41051	Oregon	Multnomah	mv_mortality_rate	7
+41053	Oregon	Polk	mv_mortality_rate	12
+41055	Oregon	Sherman	mv_mortality_rate	
+41057	Oregon	Tillamook	mv_mortality_rate	15
+41059	Oregon	Umatilla	mv_mortality_rate	15
+41061	Oregon	Union	mv_mortality_rate	11
+41063	Oregon	Wallowa	mv_mortality_rate	23
+41065	Oregon	Wasco	mv_mortality_rate	9
+41067	Oregon	Washington	mv_mortality_rate	7
+41069	Oregon	Wheeler	mv_mortality_rate	
+41071	Oregon	Yamhill	mv_mortality_rate	14
+42001	Pennsylvania	Adams	mv_mortality_rate	19
+42003	Pennsylvania	Allegheny	mv_mortality_rate	7
+42005	Pennsylvania	Armstrong	mv_mortality_rate	18
+42007	Pennsylvania	Beaver	mv_mortality_rate	12
+42009	Pennsylvania	Bedford	mv_mortality_rate	23
+42011	Pennsylvania	Berks	mv_mortality_rate	13
+42013	Pennsylvania	Blair	mv_mortality_rate	15
+42015	Pennsylvania	Bradford	mv_mortality_rate	16
+42017	Pennsylvania	Bucks	mv_mortality_rate	9
+42019	Pennsylvania	Butler	mv_mortality_rate	15
+42021	Pennsylvania	Cambria	mv_mortality_rate	14
+42023	Pennsylvania	Cameron	mv_mortality_rate	35
+42025	Pennsylvania	Carbon	mv_mortality_rate	19
+42027	Pennsylvania	Centre	mv_mortality_rate	11
+42029	Pennsylvania	Chester	mv_mortality_rate	9
+42031	Pennsylvania	Clarion	mv_mortality_rate	22
+42033	Pennsylvania	Clearfield	mv_mortality_rate	21
+42035	Pennsylvania	Clinton	mv_mortality_rate	21
+42037	Pennsylvania	Columbia	mv_mortality_rate	17
+42039	Pennsylvania	Crawford	mv_mortality_rate	19
+42041	Pennsylvania	Cumberland	mv_mortality_rate	11
+42043	Pennsylvania	Dauphin	mv_mortality_rate	12
+42045	Pennsylvania	Delaware	mv_mortality_rate	7
+42047	Pennsylvania	Elk	mv_mortality_rate	22
+42049	Pennsylvania	Erie	mv_mortality_rate	10
+42051	Pennsylvania	Fayette	mv_mortality_rate	22
+42053	Pennsylvania	Forest	mv_mortality_rate	29
+42055	Pennsylvania	Franklin	mv_mortality_rate	17
+42057	Pennsylvania	Fulton	mv_mortality_rate	32
+42059	Pennsylvania	Greene	mv_mortality_rate	21
+42061	Pennsylvania	Huntingdon	mv_mortality_rate	23
+42063	Pennsylvania	Indiana	mv_mortality_rate	17
+42065	Pennsylvania	Jefferson	mv_mortality_rate	17
+42067	Pennsylvania	Juniata	mv_mortality_rate	32
+42069	Pennsylvania	Lackawanna	mv_mortality_rate	12
+42071	Pennsylvania	Lancaster	mv_mortality_rate	13
+42073	Pennsylvania	Lawrence	mv_mortality_rate	13
+42075	Pennsylvania	Lebanon	mv_mortality_rate	14
+42077	Pennsylvania	Lehigh	mv_mortality_rate	11
+42079	Pennsylvania	Luzerne	mv_mortality_rate	13
+42081	Pennsylvania	Lycoming	mv_mortality_rate	16
+42083	Pennsylvania	McKean	mv_mortality_rate	15
+42085	Pennsylvania	Mercer	mv_mortality_rate	17
+42087	Pennsylvania	Mifflin	mv_mortality_rate	17
+42089	Pennsylvania	Monroe	mv_mortality_rate	21
+42091	Pennsylvania	Montgomery	mv_mortality_rate	7
+42093	Pennsylvania	Montour	mv_mortality_rate	15
+42095	Pennsylvania	Northampton	mv_mortality_rate	12
+42097	Pennsylvania	Northumberland	mv_mortality_rate	17
+42099	Pennsylvania	Perry	mv_mortality_rate	25
+42101	Pennsylvania	Philadelphia	mv_mortality_rate	9
+42103	Pennsylvania	Pike	mv_mortality_rate	17
+42105	Pennsylvania	Potter	mv_mortality_rate	16
+42107	Pennsylvania	Schuylkill	mv_mortality_rate	22
+42109	Pennsylvania	Snyder	mv_mortality_rate	18
+42111	Pennsylvania	Somerset	mv_mortality_rate	20
+42113	Pennsylvania	Sullivan	mv_mortality_rate	24
+42115	Pennsylvania	Susquehanna	mv_mortality_rate	23
+42117	Pennsylvania	Tioga	mv_mortality_rate	23
+42119	Pennsylvania	Union	mv_mortality_rate	15
+42121	Pennsylvania	Venango	mv_mortality_rate	20
+42123	Pennsylvania	Warren	mv_mortality_rate	22
+42125	Pennsylvania	Washington	mv_mortality_rate	12
+42127	Pennsylvania	Wayne	mv_mortality_rate	21
+42129	Pennsylvania	Westmoreland	mv_mortality_rate	14
+42131	Pennsylvania	Wyoming	mv_mortality_rate	24
+42133	Pennsylvania	York	mv_mortality_rate	14
+44001	Rhode Island	Bristol	mv_mortality_rate	7
+44003	Rhode Island	Kent	mv_mortality_rate	8
+44005	Rhode Island	Newport	mv_mortality_rate	8
+44007	Rhode Island	Providence	mv_mortality_rate	8
+44009	Rhode Island	Washington	mv_mortality_rate	9
+45001	South Carolina	Abbeville	mv_mortality_rate	17
+45003	South Carolina	Aiken	mv_mortality_rate	21
+45005	South Carolina	Allendale	mv_mortality_rate	20
+45007	South Carolina	Anderson	mv_mortality_rate	22
+45009	South Carolina	Bamberg	mv_mortality_rate	40
+45011	South Carolina	Barnwell	mv_mortality_rate	41
+45013	South Carolina	Beaufort	mv_mortality_rate	15
+45015	South Carolina	Berkeley	mv_mortality_rate	23
+45017	South Carolina	Calhoun	mv_mortality_rate	40
+45019	South Carolina	Charleston	mv_mortality_rate	17
+45021	South Carolina	Cherokee	mv_mortality_rate	23
+45023	South Carolina	Chester	mv_mortality_rate	38
+45025	South Carolina	Chesterfield	mv_mortality_rate	33
+45027	South Carolina	Clarendon	mv_mortality_rate	32
+45029	South Carolina	Colleton	mv_mortality_rate	40
+45031	South Carolina	Darlington	mv_mortality_rate	31
+45033	South Carolina	Dillon	mv_mortality_rate	28
+45035	South Carolina	Dorchester	mv_mortality_rate	18
+45037	South Carolina	Edgefield	mv_mortality_rate	17
+45039	South Carolina	Fairfield	mv_mortality_rate	39
+45041	South Carolina	Florence	mv_mortality_rate	23
+45043	South Carolina	Georgetown	mv_mortality_rate	30
+45045	South Carolina	Greenville	mv_mortality_rate	17
+45047	South Carolina	Greenwood	mv_mortality_rate	18
+45049	South Carolina	Hampton	mv_mortality_rate	32
+45051	South Carolina	Horry	mv_mortality_rate	23
+45053	South Carolina	Jasper	mv_mortality_rate	44
+45055	South Carolina	Kershaw	mv_mortality_rate	28
+45057	South Carolina	Lancaster	mv_mortality_rate	25
+45059	South Carolina	Laurens	mv_mortality_rate	20
+45061	South Carolina	Lee	mv_mortality_rate	38
+45063	South Carolina	Lexington	mv_mortality_rate	20
+45065	South Carolina	McCormick	mv_mortality_rate	23
+45067	South Carolina	Marion	mv_mortality_rate	34
+45069	South Carolina	Marlboro	mv_mortality_rate	30
+45071	South Carolina	Newberry	mv_mortality_rate	21
+45073	South Carolina	Oconee	mv_mortality_rate	20
+45075	South Carolina	Orangeburg	mv_mortality_rate	41
+45077	South Carolina	Pickens	mv_mortality_rate	20
+45079	South Carolina	Richland	mv_mortality_rate	15
+45081	South Carolina	Saluda	mv_mortality_rate	24
+45083	South Carolina	Spartanburg	mv_mortality_rate	19
+45085	South Carolina	Sumter	mv_mortality_rate	23
+45087	South Carolina	Union	mv_mortality_rate	22
+45089	South Carolina	Williamsburg	mv_mortality_rate	35
+45091	South Carolina	York	mv_mortality_rate	17
+46003	South Dakota	Aurora	mv_mortality_rate	
+46005	South Dakota	Beadle	mv_mortality_rate	12
+46007	South Dakota	Bennett	mv_mortality_rate	54
+46009	South Dakota	Bon Homme	mv_mortality_rate	26
+46011	South Dakota	Brookings	mv_mortality_rate	11
+46013	South Dakota	Brown	mv_mortality_rate	11
+46015	South Dakota	Brule	mv_mortality_rate	
+46017	South Dakota	Buffalo	mv_mortality_rate	
+46019	South Dakota	Butte	mv_mortality_rate	21
+46021	South Dakota	Campbell	mv_mortality_rate	
+46023	South Dakota	Charles Mix	mv_mortality_rate	27
+46025	South Dakota	Clark	mv_mortality_rate	
+46027	South Dakota	Clay	mv_mortality_rate	10
+46029	South Dakota	Codington	mv_mortality_rate	13
+46031	South Dakota	Corson	mv_mortality_rate	111
+46033	South Dakota	Custer	mv_mortality_rate	20
+46035	South Dakota	Davison	mv_mortality_rate	13
+46037	South Dakota	Day	mv_mortality_rate	25
+46039	South Dakota	Deuel	mv_mortality_rate	
+46041	South Dakota	Dewey	mv_mortality_rate	55
+46043	South Dakota	Douglas	mv_mortality_rate	
+46045	South Dakota	Edmunds	mv_mortality_rate	
+46047	South Dakota	Fall River	mv_mortality_rate	22
+46049	South Dakota	Faulk	mv_mortality_rate	
+46051	South Dakota	Grant	mv_mortality_rate	
+46053	South Dakota	Gregory	mv_mortality_rate	
+46055	South Dakota	Haakon	mv_mortality_rate	
+46057	South Dakota	Hamlin	mv_mortality_rate	
+46059	South Dakota	Hand	mv_mortality_rate	
+46061	South Dakota	Hanson	mv_mortality_rate	
+46063	South Dakota	Harding	mv_mortality_rate	
+46065	South Dakota	Hughes	mv_mortality_rate	14
+46067	South Dakota	Hutchinson	mv_mortality_rate	
+46069	South Dakota	Hyde	mv_mortality_rate	
+46071	South Dakota	Jackson	mv_mortality_rate	77
+46073	South Dakota	Jerauld	mv_mortality_rate	
+46075	South Dakota	Jones	mv_mortality_rate	
+46077	South Dakota	Kingsbury	mv_mortality_rate	36
+46079	South Dakota	Lake	mv_mortality_rate	13
+46081	South Dakota	Lawrence	mv_mortality_rate	15
+46083	South Dakota	Lincoln	mv_mortality_rate	11
+46085	South Dakota	Lyman	mv_mortality_rate	38
+46087	South Dakota	McCook	mv_mortality_rate	35
+46089	South Dakota	McPherson	mv_mortality_rate	
+46091	South Dakota	Marshall	mv_mortality_rate	
+46093	South Dakota	Meade	mv_mortality_rate	24
+46095	South Dakota	Mellette	mv_mortality_rate	85
+46097	South Dakota	Miner	mv_mortality_rate	
+46099	South Dakota	Minnehaha	mv_mortality_rate	11
+46101	South Dakota	Moody	mv_mortality_rate	26
+46103	South Dakota	Pennington	mv_mortality_rate	11
+46105	South Dakota	Perkins	mv_mortality_rate	
+46107	South Dakota	Potter	mv_mortality_rate	
+46109	South Dakota	Roberts	mv_mortality_rate	26
+46111	South Dakota	Sanborn	mv_mortality_rate	
+46113	South Dakota	Shannon	mv_mortality_rate	94
+46115	South Dakota	Spink	mv_mortality_rate	
+46117	South Dakota	Stanley	mv_mortality_rate	
+46119	South Dakota	Sully	mv_mortality_rate	
+46121	South Dakota	Todd	mv_mortality_rate	96
+46123	South Dakota	Tripp	mv_mortality_rate	
+46125	South Dakota	Turner	mv_mortality_rate	22
+46127	South Dakota	Union	mv_mortality_rate	
+46129	South Dakota	Walworth	mv_mortality_rate	42
+46135	South Dakota	Yankton	mv_mortality_rate	15
+46137	South Dakota	Ziebach	mv_mortality_rate	
+47001	Tennessee	Anderson	mv_mortality_rate	24
+47003	Tennessee	Bedford	mv_mortality_rate	24
+47005	Tennessee	Benton	mv_mortality_rate	31
+47007	Tennessee	Bledsoe	mv_mortality_rate	29
+47009	Tennessee	Blount	mv_mortality_rate	17
+47011	Tennessee	Bradley	mv_mortality_rate	16
+47013	Tennessee	Campbell	mv_mortality_rate	30
+47015	Tennessee	Cannon	mv_mortality_rate	29
+47017	Tennessee	Carroll	mv_mortality_rate	37
+47019	Tennessee	Carter	mv_mortality_rate	18
+47021	Tennessee	Cheatham	mv_mortality_rate	30
+47023	Tennessee	Chester	mv_mortality_rate	24
+47025	Tennessee	Claiborne	mv_mortality_rate	29
+47027	Tennessee	Clay	mv_mortality_rate	43
+47029	Tennessee	Cocke	mv_mortality_rate	29
+47031	Tennessee	Coffee	mv_mortality_rate	25
+47033	Tennessee	Crockett	mv_mortality_rate	16
+47035	Tennessee	Cumberland	mv_mortality_rate	21
+47037	Tennessee	Davidson	mv_mortality_rate	14
+47039	Tennessee	Decatur	mv_mortality_rate	42
+47041	Tennessee	DeKalb	mv_mortality_rate	33
+47043	Tennessee	Dickson	mv_mortality_rate	32
+47045	Tennessee	Dyer	mv_mortality_rate	21
+47047	Tennessee	Fayette	mv_mortality_rate	20
+47049	Tennessee	Fentress	mv_mortality_rate	36
+47051	Tennessee	Franklin	mv_mortality_rate	22
+47053	Tennessee	Gibson	mv_mortality_rate	26
+47055	Tennessee	Giles	mv_mortality_rate	27
+47057	Tennessee	Grainger	mv_mortality_rate	35
+47059	Tennessee	Greene	mv_mortality_rate	24
+47061	Tennessee	Grundy	mv_mortality_rate	56
+47063	Tennessee	Hamblen	mv_mortality_rate	18
+47065	Tennessee	Hamilton	mv_mortality_rate	14
+47067	Tennessee	Hancock	mv_mortality_rate	46
+47069	Tennessee	Hardeman	mv_mortality_rate	29
+47071	Tennessee	Hardin	mv_mortality_rate	31
+47073	Tennessee	Hawkins	mv_mortality_rate	29
+47075	Tennessee	Haywood	mv_mortality_rate	22
+47077	Tennessee	Henderson	mv_mortality_rate	30
+47079	Tennessee	Henry	mv_mortality_rate	32
+47081	Tennessee	Hickman	mv_mortality_rate	22
+47083	Tennessee	Houston	mv_mortality_rate	31
+47085	Tennessee	Humphreys	mv_mortality_rate	39
+47087	Tennessee	Jackson	mv_mortality_rate	17
+47089	Tennessee	Jefferson	mv_mortality_rate	20
+47091	Tennessee	Johnson	mv_mortality_rate	24
+47093	Tennessee	Knox	mv_mortality_rate	16
+47095	Tennessee	Lake	mv_mortality_rate	22
+47097	Tennessee	Lauderdale	mv_mortality_rate	26
+47099	Tennessee	Lawrence	mv_mortality_rate	28
+47101	Tennessee	Lewis	mv_mortality_rate	29
+47103	Tennessee	Lincoln	mv_mortality_rate	32
+47105	Tennessee	Loudon	mv_mortality_rate	20
+47107	Tennessee	McMinn	mv_mortality_rate	25
+47109	Tennessee	McNairy	mv_mortality_rate	44
+47111	Tennessee	Macon	mv_mortality_rate	32
+47113	Tennessee	Madison	mv_mortality_rate	19
+47115	Tennessee	Marion	mv_mortality_rate	27
+47117	Tennessee	Marshall	mv_mortality_rate	27
+47119	Tennessee	Maury	mv_mortality_rate	20
+47121	Tennessee	Meigs	mv_mortality_rate	34
+47123	Tennessee	Monroe	mv_mortality_rate	28
+47125	Tennessee	Montgomery	mv_mortality_rate	17
+47127	Tennessee	Moore	mv_mortality_rate	
+47129	Tennessee	Morgan	mv_mortality_rate	31
+47131	Tennessee	Obion	mv_mortality_rate	27
+47133	Tennessee	Overton	mv_mortality_rate	29
+47135	Tennessee	Perry	mv_mortality_rate	50
+47137	Tennessee	Pickett	mv_mortality_rate	
+47139	Tennessee	Polk	mv_mortality_rate	30
+47141	Tennessee	Putnam	mv_mortality_rate	21
+47143	Tennessee	Rhea	mv_mortality_rate	26
+47145	Tennessee	Roane	mv_mortality_rate	22
+47147	Tennessee	Robertson	mv_mortality_rate	23
+47149	Tennessee	Rutherford	mv_mortality_rate	13
+47151	Tennessee	Scott	mv_mortality_rate	34
+47153	Tennessee	Sequatchie	mv_mortality_rate	37
+47155	Tennessee	Sevier	mv_mortality_rate	20
+47157	Tennessee	Shelby	mv_mortality_rate	15
+47159	Tennessee	Smith	mv_mortality_rate	28
+47161	Tennessee	Stewart	mv_mortality_rate	35
+47163	Tennessee	Sullivan	mv_mortality_rate	16
+47165	Tennessee	Sumner	mv_mortality_rate	16
+47167	Tennessee	Tipton	mv_mortality_rate	19
+47169	Tennessee	Trousdale	mv_mortality_rate	43
+47171	Tennessee	Unicoi	mv_mortality_rate	21
+47173	Tennessee	Union	mv_mortality_rate	36
+47175	Tennessee	Van Buren	mv_mortality_rate	31
+47177	Tennessee	Warren	mv_mortality_rate	30
+47179	Tennessee	Washington	mv_mortality_rate	18
+47181	Tennessee	Wayne	mv_mortality_rate	25
+47183	Tennessee	Weakley	mv_mortality_rate	19
+47185	Tennessee	White	mv_mortality_rate	32
+47187	Tennessee	Williamson	mv_mortality_rate	8
+47189	Tennessee	Wilson	mv_mortality_rate	16
+48001	Texas	Anderson	mv_mortality_rate	29
+48003	Texas	Andrews	mv_mortality_rate	25
+48005	Texas	Angelina	mv_mortality_rate	23
+48007	Texas	Aransas	mv_mortality_rate	20
+48009	Texas	Archer	mv_mortality_rate	16
+48011	Texas	Armstrong	mv_mortality_rate	
+48013	Texas	Atascosa	mv_mortality_rate	16
+48015	Texas	Austin	mv_mortality_rate	26
+48017	Texas	Bailey	mv_mortality_rate	26
+48019	Texas	Bandera	mv_mortality_rate	29
+48021	Texas	Bastrop	mv_mortality_rate	27
+48023	Texas	Baylor	mv_mortality_rate	37
+48025	Texas	Bee	mv_mortality_rate	18
+48027	Texas	Bell	mv_mortality_rate	15
+48029	Texas	Bexar	mv_mortality_rate	12
+48031	Texas	Blanco	mv_mortality_rate	35
+48033	Texas	Borden	mv_mortality_rate	
+48035	Texas	Bosque	mv_mortality_rate	25
+48037	Texas	Bowie	mv_mortality_rate	21
+48039	Texas	Brazoria	mv_mortality_rate	18
+48041	Texas	Brazos	mv_mortality_rate	12
+48043	Texas	Brewster	mv_mortality_rate	
+48045	Texas	Briscoe	mv_mortality_rate	
+48047	Texas	Brooks	mv_mortality_rate	29
+48049	Texas	Brown	mv_mortality_rate	21
+48051	Texas	Burleson	mv_mortality_rate	36
+48053	Texas	Burnet	mv_mortality_rate	34
+48055	Texas	Caldwell	mv_mortality_rate	26
+48057	Texas	Calhoun	mv_mortality_rate	24
+48059	Texas	Callahan	mv_mortality_rate	26
+48061	Texas	Cameron	mv_mortality_rate	9
+48063	Texas	Camp	mv_mortality_rate	41
+48065	Texas	Carson	mv_mortality_rate	32
+48067	Texas	Cass	mv_mortality_rate	26
+48069	Texas	Castro	mv_mortality_rate	36
+48071	Texas	Chambers	mv_mortality_rate	28
+48073	Texas	Cherokee	mv_mortality_rate	37
+48075	Texas	Childress	mv_mortality_rate	
+48077	Texas	Clay	mv_mortality_rate	28
+48079	Texas	Cochran	mv_mortality_rate	
+48081	Texas	Coke	mv_mortality_rate	
+48083	Texas	Coleman	mv_mortality_rate	40
+48085	Texas	Collin	mv_mortality_rate	8
+48087	Texas	Collingsworth	mv_mortality_rate	
+48089	Texas	Colorado	mv_mortality_rate	31
+48091	Texas	Comal	mv_mortality_rate	16
+48093	Texas	Comanche	mv_mortality_rate	28
+48095	Texas	Concho	mv_mortality_rate	
+48097	Texas	Cooke	mv_mortality_rate	24
+48099	Texas	Coryell	mv_mortality_rate	14
+48101	Texas	Cottle	mv_mortality_rate	
+48103	Texas	Crane	mv_mortality_rate	
+48105	Texas	Crockett	mv_mortality_rate	
+48107	Texas	Crosby	mv_mortality_rate	27
+48109	Texas	Culberson	mv_mortality_rate	
+48111	Texas	Dallam	mv_mortality_rate	29
+48113	Texas	Dallas	mv_mortality_rate	11
+48115	Texas	Dawson	mv_mortality_rate	21
+48117	Texas	Deaf Smith	mv_mortality_rate	15
+48119	Texas	Delta	mv_mortality_rate	32
+48121	Texas	Denton	mv_mortality_rate	8
+48123	Texas	DeWitt	mv_mortality_rate	20
+48125	Texas	Dickens	mv_mortality_rate	
+48127	Texas	Dimmit	mv_mortality_rate	35
+48129	Texas	Donley	mv_mortality_rate	
+48131	Texas	Duval	mv_mortality_rate	25
+48133	Texas	Eastland	mv_mortality_rate	26
+48135	Texas	Ector	mv_mortality_rate	25
+48137	Texas	Edwards	mv_mortality_rate	
+48139	Texas	Ellis	mv_mortality_rate	16
+48141	Texas	El Paso	mv_mortality_rate	12
+48143	Texas	Erath	mv_mortality_rate	26
+48145	Texas	Falls	mv_mortality_rate	31
+48147	Texas	Fannin	mv_mortality_rate	30
+48149	Texas	Fayette	mv_mortality_rate	29
+48151	Texas	Fisher	mv_mortality_rate	
+48153	Texas	Floyd	mv_mortality_rate	23
+48155	Texas	Foard	mv_mortality_rate	
+48157	Texas	Fort Bend	mv_mortality_rate	10
+48159	Texas	Franklin	mv_mortality_rate	24
+48161	Texas	Freestone	mv_mortality_rate	36
+48163	Texas	Frio	mv_mortality_rate	15
+48165	Texas	Gaines	mv_mortality_rate	34
+48167	Texas	Galveston	mv_mortality_rate	15
+48169	Texas	Garza	mv_mortality_rate	
+48171	Texas	Gillespie	mv_mortality_rate	19
+48173	Texas	Glasscock	mv_mortality_rate	
+48175	Texas	Goliad	mv_mortality_rate	20
+48177	Texas	Gonzales	mv_mortality_rate	35
+48179	Texas	Gray	mv_mortality_rate	35
+48181	Texas	Grayson	mv_mortality_rate	24
+48183	Texas	Gregg	mv_mortality_rate	26
+48185	Texas	Grimes	mv_mortality_rate	35
+48187	Texas	Guadalupe	mv_mortality_rate	12
+48189	Texas	Hale	mv_mortality_rate	20
+48191	Texas	Hall	mv_mortality_rate	
+48193	Texas	Hamilton	mv_mortality_rate	32
+48195	Texas	Hansford	mv_mortality_rate	32
+48197	Texas	Hardeman	mv_mortality_rate	
+48199	Texas	Hardin	mv_mortality_rate	29
+48201	Texas	Harris	mv_mortality_rate	12
+48203	Texas	Harrison	mv_mortality_rate	32
+48205	Texas	Hartley	mv_mortality_rate	
+48207	Texas	Haskell	mv_mortality_rate	
+48209	Texas	Hays	mv_mortality_rate	16
+48211	Texas	Hemphill	mv_mortality_rate	
+48213	Texas	Henderson	mv_mortality_rate	26
+48215	Texas	Hidalgo	mv_mortality_rate	13
+48217	Texas	Hill	mv_mortality_rate	28
+48219	Texas	Hockley	mv_mortality_rate	17
+48221	Texas	Hood	mv_mortality_rate	25
+48223	Texas	Hopkins	mv_mortality_rate	36
+48225	Texas	Houston	mv_mortality_rate	31
+48227	Texas	Howard	mv_mortality_rate	20
+48229	Texas	Hudspeth	mv_mortality_rate	
+48231	Texas	Hunt	mv_mortality_rate	26
+48233	Texas	Hutchinson	mv_mortality_rate	28
+48235	Texas	Irion	mv_mortality_rate	
+48237	Texas	Jack	mv_mortality_rate	38
+48239	Texas	Jackson	mv_mortality_rate	22
+48241	Texas	Jasper	mv_mortality_rate	22
+48243	Texas	Jeff Davis	mv_mortality_rate	
+48245	Texas	Jefferson	mv_mortality_rate	19
+48247	Texas	Jim Hogg	mv_mortality_rate	
+48249	Texas	Jim Wells	mv_mortality_rate	23
+48251	Texas	Johnson	mv_mortality_rate	21
+48253	Texas	Jones	mv_mortality_rate	15
+48255	Texas	Karnes	mv_mortality_rate	21
+48257	Texas	Kaufman	mv_mortality_rate	19
+48259	Texas	Kendall	mv_mortality_rate	17
+48261	Texas	Kenedy	mv_mortality_rate	
+48263	Texas	Kent	mv_mortality_rate	
+48265	Texas	Kerr	mv_mortality_rate	23
+48267	Texas	Kimble	mv_mortality_rate	
+48269	Texas	King	mv_mortality_rate	
+48271	Texas	Kinney	mv_mortality_rate	
+48273	Texas	Kleberg	mv_mortality_rate	11
+48275	Texas	Knox	mv_mortality_rate	
+48277	Texas	Lamar	mv_mortality_rate	22
+48279	Texas	Lamb	mv_mortality_rate	36
+48281	Texas	Lampasas	mv_mortality_rate	23
+48283	Texas	La Salle	mv_mortality_rate	26
+48285	Texas	Lavaca	mv_mortality_rate	15
+48287	Texas	Lee	mv_mortality_rate	26
+48289	Texas	Leon	mv_mortality_rate	54
+48291	Texas	Liberty	mv_mortality_rate	34
+48293	Texas	Limestone	mv_mortality_rate	38
+48295	Texas	Lipscomb	mv_mortality_rate	50
+48297	Texas	Live Oak	mv_mortality_rate	28
+48299	Texas	Llano	mv_mortality_rate	17
+48301	Texas	Loving	mv_mortality_rate	
+48303	Texas	Lubbock	mv_mortality_rate	16
+48305	Texas	Lynn	mv_mortality_rate	45
+48307	Texas	McCulloch	mv_mortality_rate	
+48309	Texas	McLennan	mv_mortality_rate	18
+48311	Texas	McMullen	mv_mortality_rate	
+48313	Texas	Madison	mv_mortality_rate	32
+48315	Texas	Marion	mv_mortality_rate	38
+48317	Texas	Martin	mv_mortality_rate	57
+48319	Texas	Mason	mv_mortality_rate	
+48321	Texas	Matagorda	mv_mortality_rate	20
+48323	Texas	Maverick	mv_mortality_rate	9
+48325	Texas	Medina	mv_mortality_rate	18
+48327	Texas	Menard	mv_mortality_rate	
+48329	Texas	Midland	mv_mortality_rate	19
+48331	Texas	Milam	mv_mortality_rate	31
+48333	Texas	Mills	mv_mortality_rate	
+48335	Texas	Mitchell	mv_mortality_rate	31
+48337	Texas	Montague	mv_mortality_rate	38
+48339	Texas	Montgomery	mv_mortality_rate	18
+48341	Texas	Moore	mv_mortality_rate	27
+48343	Texas	Morris	mv_mortality_rate	37
+48345	Texas	Motley	mv_mortality_rate	
+48347	Texas	Nacogdoches	mv_mortality_rate	26
+48349	Texas	Navarro	mv_mortality_rate	20
+48351	Texas	Newton	mv_mortality_rate	39
+48353	Texas	Nolan	mv_mortality_rate	21
+48355	Texas	Nueces	mv_mortality_rate	12
+48357	Texas	Ochiltree	mv_mortality_rate	23
+48359	Texas	Oldham	mv_mortality_rate	
+48361	Texas	Orange	mv_mortality_rate	31
+48363	Texas	Palo Pinto	mv_mortality_rate	29
+48365	Texas	Panola	mv_mortality_rate	42
+48367	Texas	Parker	mv_mortality_rate	20
+48369	Texas	Parmer	mv_mortality_rate	31
+48371	Texas	Pecos	mv_mortality_rate	27
+48373	Texas	Polk	mv_mortality_rate	42
+48375	Texas	Potter	mv_mortality_rate	21
+48377	Texas	Presidio	mv_mortality_rate	
+48379	Texas	Rains	mv_mortality_rate	22
+48381	Texas	Randall	mv_mortality_rate	15
+48383	Texas	Reagan	mv_mortality_rate	
+48385	Texas	Real	mv_mortality_rate	
+48387	Texas	Red River	mv_mortality_rate	38
+48389	Texas	Reeves	mv_mortality_rate	16
+48391	Texas	Refugio	mv_mortality_rate	25
+48393	Texas	Roberts	mv_mortality_rate	
+48395	Texas	Robertson	mv_mortality_rate	52
+48397	Texas	Rockwall	mv_mortality_rate	10
+48399	Texas	Runnels	mv_mortality_rate	26
+48401	Texas	Rusk	mv_mortality_rate	33
+48403	Texas	Sabine	mv_mortality_rate	55
+48405	Texas	San Augustine	mv_mortality_rate	43
+48407	Texas	San Jacinto	mv_mortality_rate	36
+48409	Texas	San Patricio	mv_mortality_rate	15
+48411	Texas	San Saba	mv_mortality_rate	40
+48413	Texas	Schleicher	mv_mortality_rate	
+48415	Texas	Scurry	mv_mortality_rate	16
+48417	Texas	Shackelford	mv_mortality_rate	
+48419	Texas	Shelby	mv_mortality_rate	50
+48421	Texas	Sherman	mv_mortality_rate	
+48423	Texas	Smith	mv_mortality_rate	21
+48425	Texas	Somervell	mv_mortality_rate	30
+48427	Texas	Starr	mv_mortality_rate	19
+48429	Texas	Stephens	mv_mortality_rate	18
+48431	Texas	Sterling	mv_mortality_rate	
+48433	Texas	Stonewall	mv_mortality_rate	
+48435	Texas	Sutton	mv_mortality_rate	
+48437	Texas	Swisher	mv_mortality_rate	20
+48439	Texas	Tarrant	mv_mortality_rate	11
+48441	Texas	Taylor	mv_mortality_rate	18
+48443	Texas	Terrell	mv_mortality_rate	
+48445	Texas	Terry	mv_mortality_rate	22
+48447	Texas	Throckmorton	mv_mortality_rate	
+48449	Texas	Titus	mv_mortality_rate	24
+48451	Texas	Tom Green	mv_mortality_rate	13
+48453	Texas	Travis	mv_mortality_rate	10
+48455	Texas	Trinity	mv_mortality_rate	39
+48457	Texas	Tyler	mv_mortality_rate	38
+48459	Texas	Upshur	mv_mortality_rate	35
+48461	Texas	Upton	mv_mortality_rate	
+48463	Texas	Uvalde	mv_mortality_rate	16
+48465	Texas	Val Verde	mv_mortality_rate	11
+48467	Texas	Van Zandt	mv_mortality_rate	36
+48469	Texas	Victoria	mv_mortality_rate	16
+48471	Texas	Walker	mv_mortality_rate	16
+48473	Texas	Waller	mv_mortality_rate	24
+48475	Texas	Ward	mv_mortality_rate	32
+48477	Texas	Washington	mv_mortality_rate	20
+48479	Texas	Webb	mv_mortality_rate	11
+48481	Texas	Wharton	mv_mortality_rate	26
+48483	Texas	Wheeler	mv_mortality_rate	39
+48485	Texas	Wichita	mv_mortality_rate	15
+48487	Texas	Wilbarger	mv_mortality_rate	21
+48489	Texas	Willacy	mv_mortality_rate	19
+48491	Texas	Williamson	mv_mortality_rate	10
+48493	Texas	Wilson	mv_mortality_rate	25
+48495	Texas	Winkler	mv_mortality_rate	38
+48497	Texas	Wise	mv_mortality_rate	34
+48499	Texas	Wood	mv_mortality_rate	29
+48501	Texas	Yoakum	mv_mortality_rate	41
+48503	Texas	Young	mv_mortality_rate	30
+48505	Texas	Zapata	mv_mortality_rate	17
+48507	Texas	Zavala	mv_mortality_rate	21
+49001	Utah	Beaver	mv_mortality_rate	36
+49003	Utah	Box Elder	mv_mortality_rate	18
+49005	Utah	Cache	mv_mortality_rate	10
+49007	Utah	Carbon	mv_mortality_rate	22
+49009	Utah	Daggett	mv_mortality_rate	
+49011	Utah	Davis	mv_mortality_rate	7
+49013	Utah	Duchesne	mv_mortality_rate	36
+49015	Utah	Emery	mv_mortality_rate	13
+49017	Utah	Garfield	mv_mortality_rate	
+49019	Utah	Grand	mv_mortality_rate	31
+49021	Utah	Iron	mv_mortality_rate	13
+49023	Utah	Juab	mv_mortality_rate	24
+49025	Utah	Kane	mv_mortality_rate	21
+49027	Utah	Millard	mv_mortality_rate	21
+49029	Utah	Morgan	mv_mortality_rate	
+49031	Utah	Piute	mv_mortality_rate	
+49033	Utah	Rich	mv_mortality_rate	
+49035	Utah	Salt Lake	mv_mortality_rate	10
+49037	Utah	San Juan	mv_mortality_rate	40
+49039	Utah	Sanpete	mv_mortality_rate	18
+49041	Utah	Sevier	mv_mortality_rate	18
+49043	Utah	Summit	mv_mortality_rate	13
+49045	Utah	Tooele	mv_mortality_rate	18
+49047	Utah	Uintah	mv_mortality_rate	23
+49049	Utah	Utah	mv_mortality_rate	8
+49051	Utah	Wasatch	mv_mortality_rate	16
+49053	Utah	Washington	mv_mortality_rate	16
+49055	Utah	Wayne	mv_mortality_rate	
+49057	Utah	Weber	mv_mortality_rate	10
+50001	Vermont	Addison	mv_mortality_rate	12
+50003	Vermont	Bennington	mv_mortality_rate	15
+50005	Vermont	Caledonia	mv_mortality_rate	14
+50007	Vermont	Chittenden	mv_mortality_rate	6
+50009	Vermont	Essex	mv_mortality_rate	
+50011	Vermont	Franklin	mv_mortality_rate	16
+50013	Vermont	Grand Isle	mv_mortality_rate	
+50015	Vermont	Lamoille	mv_mortality_rate	18
+50017	Vermont	Orange	mv_mortality_rate	13
+50019	Vermont	Orleans	mv_mortality_rate	20
+50021	Vermont	Rutland	mv_mortality_rate	12
+50023	Vermont	Washington	mv_mortality_rate	11
+50025	Vermont	Windham	mv_mortality_rate	16
+50027	Vermont	Windsor	mv_mortality_rate	13
+51001	Virginia	Accomack	mv_mortality_rate	31
+51003	Virginia	Albemarle	mv_mortality_rate	10
+51005	Virginia	Alleghany	mv_mortality_rate	17
+51007	Virginia	Amelia	mv_mortality_rate	31
+51009	Virginia	Amherst	mv_mortality_rate	10
+51011	Virginia	Appomattox	mv_mortality_rate	29
+51013	Virginia	Arlington	mv_mortality_rate	3
+51015	Virginia	Augusta	mv_mortality_rate	17
+51017	Virginia	Bath	mv_mortality_rate	
+51019	Virginia	Bedford	mv_mortality_rate	15
+51021	Virginia	Bland	mv_mortality_rate	35
+51023	Virginia	Botetourt	mv_mortality_rate	13
+51025	Virginia	Brunswick	mv_mortality_rate	20
+51027	Virginia	Buchanan	mv_mortality_rate	39
+51029	Virginia	Buckingham	mv_mortality_rate	25
+51031	Virginia	Campbell	mv_mortality_rate	17
+51033	Virginia	Caroline	mv_mortality_rate	23
+51035	Virginia	Carroll	mv_mortality_rate	22
+51036	Virginia	Charles City	mv_mortality_rate	28
+51037	Virginia	Charlotte	mv_mortality_rate	31
+51041	Virginia	Chesterfield	mv_mortality_rate	10
+51043	Virginia	Clarke	mv_mortality_rate	19
+51045	Virginia	Craig	mv_mortality_rate	33
+51047	Virginia	Culpeper	mv_mortality_rate	17
+51049	Virginia	Cumberland	mv_mortality_rate	16
+51051	Virginia	Dickenson	mv_mortality_rate	20
+51053	Virginia	Dinwiddie	mv_mortality_rate	21
+51057	Virginia	Essex	mv_mortality_rate	23
+51059	Virginia	Fairfax	mv_mortality_rate	5
+51061	Virginia	Fauquier	mv_mortality_rate	16
+51063	Virginia	Floyd	mv_mortality_rate	25
+51065	Virginia	Fluvanna	mv_mortality_rate	22
+51067	Virginia	Franklin	mv_mortality_rate	21
+51069	Virginia	Frederick	mv_mortality_rate	15
+51071	Virginia	Giles	mv_mortality_rate	16
+51073	Virginia	Gloucester	mv_mortality_rate	21
+51075	Virginia	Goochland	mv_mortality_rate	22
+51077	Virginia	Grayson	mv_mortality_rate	28
+51079	Virginia	Greene	mv_mortality_rate	29
+51081	Virginia	Greensville	mv_mortality_rate	23
+51083	Virginia	Halifax	mv_mortality_rate	31
+51085	Virginia	Hanover	mv_mortality_rate	11
+51087	Virginia	Henrico	mv_mortality_rate	9
+51089	Virginia	Henry	mv_mortality_rate	20
+51091	Virginia	Highland	mv_mortality_rate	
+51093	Virginia	Isle of Wight	mv_mortality_rate	19
+51095	Virginia	James City	mv_mortality_rate	8
+51097	Virginia	King and Queen	mv_mortality_rate	25
+51099	Virginia	King George	mv_mortality_rate	17
+51101	Virginia	King William	mv_mortality_rate	18
+51103	Virginia	Lancaster	mv_mortality_rate	25
+51105	Virginia	Lee	mv_mortality_rate	25
+51107	Virginia	Loudoun	mv_mortality_rate	6
+51109	Virginia	Louisa	mv_mortality_rate	25
+51111	Virginia	Lunenburg	mv_mortality_rate	39
+51113	Virginia	Madison	mv_mortality_rate	26
+51115	Virginia	Mathews	mv_mortality_rate	24
+51117	Virginia	Mecklenburg	mv_mortality_rate	25
+51119	Virginia	Middlesex	mv_mortality_rate	23
+51121	Virginia	Montgomery	mv_mortality_rate	9
+51125	Virginia	Nelson	mv_mortality_rate	23
+51127	Virginia	New Kent	mv_mortality_rate	23
+51131	Virginia	Northampton	mv_mortality_rate	28
+51133	Virginia	Northumberland	mv_mortality_rate	24
+51135	Virginia	Nottoway	mv_mortality_rate	20
+51137	Virginia	Orange	mv_mortality_rate	22
+51139	Virginia	Page	mv_mortality_rate	18
+51141	Virginia	Patrick	mv_mortality_rate	24
+51143	Virginia	Pittsylvania	mv_mortality_rate	21
+51145	Virginia	Powhatan	mv_mortality_rate	14
+51147	Virginia	Prince Edward	mv_mortality_rate	28
+51149	Virginia	Prince George	mv_mortality_rate	11
+51153	Virginia	Prince William	mv_mortality_rate	8
+51155	Virginia	Pulaski	mv_mortality_rate	16
+51157	Virginia	Rappahannock	mv_mortality_rate	
+51159	Virginia	Richmond	mv_mortality_rate	22
+51161	Virginia	Roanoke	mv_mortality_rate	11
+51163	Virginia	Rockbridge	mv_mortality_rate	19
+51165	Virginia	Rockingham	mv_mortality_rate	18
+51167	Virginia	Russell	mv_mortality_rate	24
+51169	Virginia	Scott	mv_mortality_rate	27
+51171	Virginia	Shenandoah	mv_mortality_rate	14
+51173	Virginia	Smyth	mv_mortality_rate	16
+51175	Virginia	Southampton	mv_mortality_rate	29
+51177	Virginia	Spotsylvania	mv_mortality_rate	12
+51179	Virginia	Stafford	mv_mortality_rate	10
+51181	Virginia	Surry	mv_mortality_rate	25
+51183	Virginia	Sussex	mv_mortality_rate	26
+51185	Virginia	Tazewell	mv_mortality_rate	25
+51187	Virginia	Warren	mv_mortality_rate	14
+51191	Virginia	Washington	mv_mortality_rate	16
+51193	Virginia	Westmoreland	mv_mortality_rate	20
+51195	Virginia	Wise	mv_mortality_rate	14
+51197	Virginia	Wythe	mv_mortality_rate	19
+51199	Virginia	York	mv_mortality_rate	6
+51510	Virginia	Alexandria City	mv_mortality_rate	6
+51515	Virginia	Bedford City	mv_mortality_rate	23
+51520	Virginia	Bristol City	mv_mortality_rate	10
+51530	Virginia	Buena Vista City	mv_mortality_rate	
+51540	Virginia	Charlottesville City	mv_mortality_rate	10
+51550	Virginia	Chesapeake City	mv_mortality_rate	8
+51570	Virginia	Colonial Heights City	mv_mortality_rate	13
+51580	Virginia	Covington City	mv_mortality_rate	31
+51590	Virginia	Danville City	mv_mortality_rate	15
+51595	Virginia	Emporia City	mv_mortality_rate	
+51600	Virginia	Fairfax City	mv_mortality_rate	11
+51610	Virginia	Falls Church City	mv_mortality_rate	18
+51620	Virginia	Franklin City	mv_mortality_rate	
+51630	Virginia	Fredericksburg City	mv_mortality_rate	6
+51640	Virginia	Galax City	mv_mortality_rate	
+51650	Virginia	Hampton City	mv_mortality_rate	8
+51660	Virginia	Harrisonburg City	mv_mortality_rate	6
+51670	Virginia	Hopewell City	mv_mortality_rate	12
+51678	Virginia	Lexington City	mv_mortality_rate	
+51680	Virginia	Lynchburg City	mv_mortality_rate	8
+51683	Virginia	Manassas City	mv_mortality_rate	8
+51685	Virginia	Manassas Park City	mv_mortality_rate	
+51690	Virginia	Martinsville City	mv_mortality_rate	20
+51700	Virginia	Newport News City	mv_mortality_rate	8
+51710	Virginia	Norfolk City	mv_mortality_rate	7
+51720	Virginia	Norton City	mv_mortality_rate	
+51730	Virginia	Petersburg City	mv_mortality_rate	16
+51735	Virginia	Poquoson City	mv_mortality_rate	
+51740	Virginia	Portsmouth City	mv_mortality_rate	9
+51750	Virginia	Radford City	mv_mortality_rate	
+51760	Virginia	Richmond City	mv_mortality_rate	11
+51770	Virginia	Roanoke City	mv_mortality_rate	10
+51775	Virginia	Salem City	mv_mortality_rate	12
+51790	Virginia	Staunton City	mv_mortality_rate	10
+51800	Virginia	Suffolk City	mv_mortality_rate	14
+51810	Virginia	Virginia Beach City	mv_mortality_rate	8
+51820	Virginia	Waynesboro City	mv_mortality_rate	10
+51830	Virginia	Williamsburg City	mv_mortality_rate	
+51840	Virginia	Winchester City	mv_mortality_rate	9
+53001	Washington	Adams	mv_mortality_rate	17
+53003	Washington	Asotin	mv_mortality_rate	15
+53005	Washington	Benton	mv_mortality_rate	8
+53007	Washington	Chelan	mv_mortality_rate	11
+53009	Washington	Clallam	mv_mortality_rate	16
+53011	Washington	Clark	mv_mortality_rate	8
+53013	Washington	Columbia	mv_mortality_rate	
+53015	Washington	Cowlitz	mv_mortality_rate	12
+53017	Washington	Douglas	mv_mortality_rate	12
+53019	Washington	Ferry	mv_mortality_rate	38
+53021	Washington	Franklin	mv_mortality_rate	11
+53023	Washington	Garfield	mv_mortality_rate	
+53025	Washington	Grant	mv_mortality_rate	22
+53027	Washington	Grays Harbor	mv_mortality_rate	17
+53029	Washington	Island	mv_mortality_rate	10
+53031	Washington	Jefferson	mv_mortality_rate	17
+53033	Washington	King	mv_mortality_rate	7
+53035	Washington	Kitsap	mv_mortality_rate	8
+53037	Washington	Kittitas	mv_mortality_rate	9
+53039	Washington	Klickitat	mv_mortality_rate	19
+53041	Washington	Lewis	mv_mortality_rate	15
+53043	Washington	Lincoln	mv_mortality_rate	26
+53045	Washington	Mason	mv_mortality_rate	18
+53047	Washington	Okanogan	mv_mortality_rate	23
+53049	Washington	Pacific	mv_mortality_rate	17
+53051	Washington	Pend Oreille	mv_mortality_rate	16
+53053	Washington	Pierce	mv_mortality_rate	9
+53055	Washington	San Juan	mv_mortality_rate	9
+53057	Washington	Skagit	mv_mortality_rate	13
+53059	Washington	Skamania	mv_mortality_rate	15
+53061	Washington	Snohomish	mv_mortality_rate	8
+53063	Washington	Spokane	mv_mortality_rate	8
+53065	Washington	Stevens	mv_mortality_rate	20
+53067	Washington	Thurston	mv_mortality_rate	11
+53069	Washington	Wahkiakum	mv_mortality_rate	
+53071	Washington	Walla Walla	mv_mortality_rate	10
+53073	Washington	Whatcom	mv_mortality_rate	9
+53075	Washington	Whitman	mv_mortality_rate	9
+53077	Washington	Yakima	mv_mortality_rate	17
+54001	West Virginia	Barbour	mv_mortality_rate	23
+54003	West Virginia	Berkeley	mv_mortality_rate	16
+54005	West Virginia	Boone	mv_mortality_rate	35
+54007	West Virginia	Braxton	mv_mortality_rate	31
+54009	West Virginia	Brooke	mv_mortality_rate	11
+54011	West Virginia	Cabell	mv_mortality_rate	14
+54013	West Virginia	Calhoun	mv_mortality_rate	30
+54015	West Virginia	Clay	mv_mortality_rate	32
+54017	West Virginia	Doddridge	mv_mortality_rate	
+54019	West Virginia	Fayette	mv_mortality_rate	28
+54021	West Virginia	Gilmer	mv_mortality_rate	28
+54023	West Virginia	Grant	mv_mortality_rate	23
+54025	West Virginia	Greenbrier	mv_mortality_rate	29
+54027	West Virginia	Hampshire	mv_mortality_rate	30
+54029	West Virginia	Hancock	mv_mortality_rate	13
+54031	West Virginia	Hardy	mv_mortality_rate	33
+54033	West Virginia	Harrison	mv_mortality_rate	18
+54035	West Virginia	Jackson	mv_mortality_rate	22
+54037	West Virginia	Jefferson	mv_mortality_rate	19
+54039	West Virginia	Kanawha	mv_mortality_rate	17
+54041	West Virginia	Lewis	mv_mortality_rate	25
+54043	West Virginia	Lincoln	mv_mortality_rate	36
+54045	West Virginia	Logan	mv_mortality_rate	34
+54047	West Virginia	McDowell	mv_mortality_rate	29
+54049	West Virginia	Marion	mv_mortality_rate	14
+54051	West Virginia	Marshall	mv_mortality_rate	10
+54053	West Virginia	Mason	mv_mortality_rate	29
+54055	West Virginia	Mercer	mv_mortality_rate	20
+54057	West Virginia	Mineral	mv_mortality_rate	21
+54059	West Virginia	Mingo	mv_mortality_rate	39
+54061	West Virginia	Monongalia	mv_mortality_rate	10
+54063	West Virginia	Monroe	mv_mortality_rate	15
+54065	West Virginia	Morgan	mv_mortality_rate	28
+54067	West Virginia	Nicholas	mv_mortality_rate	26
+54069	West Virginia	Ohio	mv_mortality_rate	6
+54071	West Virginia	Pendleton	mv_mortality_rate	31
+54073	West Virginia	Pleasants	mv_mortality_rate	20
+54075	West Virginia	Pocahontas	mv_mortality_rate	16
+54077	West Virginia	Preston	mv_mortality_rate	23
+54079	West Virginia	Putnam	mv_mortality_rate	15
+54081	West Virginia	Raleigh	mv_mortality_rate	19
+54083	West Virginia	Randolph	mv_mortality_rate	18
+54085	West Virginia	Ritchie	mv_mortality_rate	24
+54087	West Virginia	Roane	mv_mortality_rate	25
+54089	West Virginia	Summers	mv_mortality_rate	21
+54091	West Virginia	Taylor	mv_mortality_rate	16
+54093	West Virginia	Tucker	mv_mortality_rate	22
+54095	West Virginia	Tyler	mv_mortality_rate	18
+54097	West Virginia	Upshur	mv_mortality_rate	20
+54099	West Virginia	Wayne	mv_mortality_rate	25
+54101	West Virginia	Webster	mv_mortality_rate	23
+54103	West Virginia	Wetzel	mv_mortality_rate	19
+54105	West Virginia	Wirt	mv_mortality_rate	
+54107	West Virginia	Wood	mv_mortality_rate	10
+54109	West Virginia	Wyoming	mv_mortality_rate	32
+55001	Wisconsin	Adams	mv_mortality_rate	20
+55003	Wisconsin	Ashland	mv_mortality_rate	12
+55005	Wisconsin	Barron	mv_mortality_rate	15
+55007	Wisconsin	Bayfield	mv_mortality_rate	19
+55009	Wisconsin	Brown	mv_mortality_rate	10
+55011	Wisconsin	Buffalo	mv_mortality_rate	17
+55013	Wisconsin	Burnett	mv_mortality_rate	17
+55015	Wisconsin	Calumet	mv_mortality_rate	12
+55017	Wisconsin	Chippewa	mv_mortality_rate	13
+55019	Wisconsin	Clark	mv_mortality_rate	23
+55021	Wisconsin	Columbia	mv_mortality_rate	18
+55023	Wisconsin	Crawford	mv_mortality_rate	31
+55025	Wisconsin	Dane	mv_mortality_rate	9
+55027	Wisconsin	Dodge	mv_mortality_rate	15
+55029	Wisconsin	Door	mv_mortality_rate	13
+55031	Wisconsin	Douglas	mv_mortality_rate	14
+55033	Wisconsin	Dunn	mv_mortality_rate	17
+55035	Wisconsin	Eau Claire	mv_mortality_rate	10
+55037	Wisconsin	Florence	mv_mortality_rate	
+55039	Wisconsin	Fond du Lac	mv_mortality_rate	13
+55041	Wisconsin	Forest	mv_mortality_rate	33
+55043	Wisconsin	Grant	mv_mortality_rate	19
+55045	Wisconsin	Green	mv_mortality_rate	18
+55047	Wisconsin	Green Lake	mv_mortality_rate	17
+55049	Wisconsin	Iowa	mv_mortality_rate	21
+55051	Wisconsin	Iron	mv_mortality_rate	
+55053	Wisconsin	Jackson	mv_mortality_rate	20
+55055	Wisconsin	Jefferson	mv_mortality_rate	15
+55057	Wisconsin	Juneau	mv_mortality_rate	17
+55059	Wisconsin	Kenosha	mv_mortality_rate	11
+55061	Wisconsin	Kewaunee	mv_mortality_rate	16
+55063	Wisconsin	La Crosse	mv_mortality_rate	7
+55065	Wisconsin	Lafayette	mv_mortality_rate	30
+55067	Wisconsin	Langlade	mv_mortality_rate	22
+55069	Wisconsin	Lincoln	mv_mortality_rate	15
+55071	Wisconsin	Manitowoc	mv_mortality_rate	13
+55073	Wisconsin	Marathon	mv_mortality_rate	12
+55075	Wisconsin	Marinette	mv_mortality_rate	22
+55077	Wisconsin	Marquette	mv_mortality_rate	29
+55078	Wisconsin	Menominee	mv_mortality_rate	47
+55079	Wisconsin	Milwaukee	mv_mortality_rate	8
+55081	Wisconsin	Monroe	mv_mortality_rate	13
+55083	Wisconsin	Oconto	mv_mortality_rate	22
+55085	Wisconsin	Oneida	mv_mortality_rate	15
+55087	Wisconsin	Outagamie	mv_mortality_rate	11
+55089	Wisconsin	Ozaukee	mv_mortality_rate	8
+55091	Wisconsin	Pepin	mv_mortality_rate	
+55093	Wisconsin	Pierce	mv_mortality_rate	20
+55095	Wisconsin	Polk	mv_mortality_rate	22
+55097	Wisconsin	Portage	mv_mortality_rate	12
+55099	Wisconsin	Price	mv_mortality_rate	20
+55101	Wisconsin	Racine	mv_mortality_rate	10
+55103	Wisconsin	Richland	mv_mortality_rate	19
+55105	Wisconsin	Rock	mv_mortality_rate	15
+55107	Wisconsin	Rusk	mv_mortality_rate	17
+55109	Wisconsin	St. Croix	mv_mortality_rate	10
+55111	Wisconsin	Sauk	mv_mortality_rate	18
+55113	Wisconsin	Sawyer	mv_mortality_rate	34
+55115	Wisconsin	Shawano	mv_mortality_rate	20
+55117	Wisconsin	Sheboygan	mv_mortality_rate	10
+55119	Wisconsin	Taylor	mv_mortality_rate	14
+55121	Wisconsin	Trempealeau	mv_mortality_rate	24
+55123	Wisconsin	Vernon	mv_mortality_rate	18
+55125	Wisconsin	Vilas	mv_mortality_rate	16
+55127	Wisconsin	Walworth	mv_mortality_rate	16
+55129	Wisconsin	Washburn	mv_mortality_rate	26
+55131	Wisconsin	Washington	mv_mortality_rate	10
+55133	Wisconsin	Waukesha	mv_mortality_rate	8
+55135	Wisconsin	Waupaca	mv_mortality_rate	20
+55137	Wisconsin	Waushara	mv_mortality_rate	23
+55139	Wisconsin	Winnebago	mv_mortality_rate	10
+55141	Wisconsin	Wood	mv_mortality_rate	12
+56001	Wyoming	Albany	mv_mortality_rate	16
+56003	Wyoming	Big Horn	mv_mortality_rate	25
+56005	Wyoming	Campbell	mv_mortality_rate	28
+56007	Wyoming	Carbon	mv_mortality_rate	35
+56009	Wyoming	Converse	mv_mortality_rate	17
+56011	Wyoming	Crook	mv_mortality_rate	37
+56013	Wyoming	Fremont	mv_mortality_rate	44
+56015	Wyoming	Goshen	mv_mortality_rate	19
+56017	Wyoming	Hot Springs	mv_mortality_rate	33
+56019	Wyoming	Johnson	mv_mortality_rate	25
+56021	Wyoming	Laramie	mv_mortality_rate	15
+56023	Wyoming	Lincoln	mv_mortality_rate	25
+56025	Wyoming	Natrona	mv_mortality_rate	22
+56027	Wyoming	Niobrara	mv_mortality_rate	
+56029	Wyoming	Park	mv_mortality_rate	24
+56031	Wyoming	Platte	mv_mortality_rate	31
+56033	Wyoming	Sheridan	mv_mortality_rate	16
+56035	Wyoming	Sublette	mv_mortality_rate	36
+56037	Wyoming	Sweetwater	mv_mortality_rate	29
+56039	Wyoming	Teton	mv_mortality_rate	14
+56041	Wyoming	Uinta	mv_mortality_rate	24
+56043	Wyoming	Washakie	mv_mortality_rate	26
+56045	Wyoming	Weston	mv_mortality_rate	21

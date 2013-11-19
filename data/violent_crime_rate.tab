@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	violent_crime_rate
+1001	Alabama	Autauga	violent_crime_rate	300
+1003	Alabama	Baldwin	violent_crime_rate	215
+1005	Alabama	Barbour	violent_crime_rate	150
+1007	Alabama	Bibb	violent_crime_rate	246
+1009	Alabama	Blount	violent_crime_rate	102
+1011	Alabama	Bullock	violent_crime_rate	386
+1013	Alabama	Butler	violent_crime_rate	370
+1015	Alabama	Calhoun	violent_crime_rate	725
+1017	Alabama	Chambers	violent_crime_rate	583
+1019	Alabama	Cherokee	violent_crime_rate	241
+1021	Alabama	Chilton	violent_crime_rate	876
+1023	Alabama	Choctaw	violent_crime_rate	117
+1025	Alabama	Clarke	violent_crime_rate	491
+1027	Alabama	Clay	violent_crime_rate	225
+1029	Alabama	Cleburne	violent_crime_rate	293
+1031	Alabama	Coffee	violent_crime_rate	341
+1033	Alabama	Colbert	violent_crime_rate	439
+1035	Alabama	Conecuh	violent_crime_rate	377
+1037	Alabama	Coosa	violent_crime_rate	230
+1039	Alabama	Covington	violent_crime_rate	293
+1041	Alabama	Crenshaw	violent_crime_rate	257
+1043	Alabama	Cullman	violent_crime_rate	187
+1045	Alabama	Dale	violent_crime_rate	391
+1047	Alabama	Dallas	violent_crime_rate	750
+1049	Alabama	DeKalb	violent_crime_rate	126
+1051	Alabama	Elmore	violent_crime_rate	143
+1053	Alabama	Escambia	violent_crime_rate	516
+1055	Alabama	Etowah	violent_crime_rate	401
+1057	Alabama	Fayette	violent_crime_rate	134
+1059	Alabama	Franklin	violent_crime_rate	241
+1061	Alabama	Geneva	violent_crime_rate	323
+1063	Alabama	Greene	violent_crime_rate	1143
+1065	Alabama	Hale	violent_crime_rate	438
+1067	Alabama	Henry	violent_crime_rate	333
+1069	Alabama	Houston	violent_crime_rate	538
+1071	Alabama	Jackson	violent_crime_rate	243
+1073	Alabama	Jefferson	violent_crime_rate	727
+1075	Alabama	Lamar	violent_crime_rate	56
+1077	Alabama	Lauderdale	violent_crime_rate	204
+1079	Alabama	Lawrence	violent_crime_rate	198
+1081	Alabama	Lee	violent_crime_rate	320
+1083	Alabama	Limestone	violent_crime_rate	118
+1085	Alabama	Lowndes	violent_crime_rate	527
+1087	Alabama	Macon	violent_crime_rate	813
+1089	Alabama	Madison	violent_crime_rate	478
+1091	Alabama	Marengo	violent_crime_rate	513
+1093	Alabama	Marion	violent_crime_rate	178
+1095	Alabama	Marshall	violent_crime_rate	285
+1097	Alabama	Mobile	violent_crime_rate	612
+1099	Alabama	Monroe	violent_crime_rate	534
+1101	Alabama	Montgomery	violent_crime_rate	406
+1103	Alabama	Morgan	violent_crime_rate	250
+1105	Alabama	Perry	violent_crime_rate	622
+1107	Alabama	Pickens	violent_crime_rate	268
+1109	Alabama	Pike	violent_crime_rate	357
+1111	Alabama	Randolph	violent_crime_rate	248
+1113	Alabama	Russell	violent_crime_rate	451
+1115	Alabama	St. Clair	violent_crime_rate	182
+1117	Alabama	Shelby	violent_crime_rate	156
+1119	Alabama	Sumter	violent_crime_rate	
+1121	Alabama	Talladega	violent_crime_rate	370
+1123	Alabama	Tallapoosa	violent_crime_rate	539
+1125	Alabama	Tuscaloosa	violent_crime_rate	447
+1127	Alabama	Walker	violent_crime_rate	212
+1129	Alabama	Washington	violent_crime_rate	354
+1131	Alabama	Wilcox	violent_crime_rate	193
+1133	Alabama	Winston	violent_crime_rate	186
+2013	Alaska	Aleutians East	violent_crime_rate	
+2016	Alaska	Aleutians West	violent_crime_rate	332
+2020	Alaska	Anchorage	violent_crime_rate	887
+2050	Alaska	Bethel	violent_crime_rate	
+2060	Alaska	Bristol Bay	violent_crime_rate	277
+2068	Alaska	Denali	violent_crime_rate	
+2070	Alaska	Dillingham	violent_crime_rate	1875
+2090	Alaska	Fairbanks North Star	violent_crime_rate	
+2100	Alaska	Haines	violent_crime_rate	401
+2110	Alaska	Juneau	violent_crime_rate	426
+2122	Alaska	Kenai Peninsula	violent_crime_rate	
+2130	Alaska	Ketchikan Gateway	violent_crime_rate	385
+2150	Alaska	Kodiak Island	violent_crime_rate	
+2164	Alaska	Lake and Peninsula	violent_crime_rate	
+2170	Alaska	Matanuska-Susitna	violent_crime_rate	
+2180	Alaska	Nome	violent_crime_rate	
+2185	Alaska	North Slope	violent_crime_rate	901
+2188	Alaska	Northwest Arctic	violent_crime_rate	
+2201	Alaska	Prince of Wales-Outer Ketchikan	violent_crime_rate	
+2220	Alaska	Sitka	violent_crime_rate	240
+2232	Alaska	Skagway-Hoonah-Angoon	violent_crime_rate	
+2240	Alaska	Southeast Fairbanks	violent_crime_rate	
+2261	Alaska	Valdez-Cordova	violent_crime_rate	570
+2270	Alaska	Wade Hampton	violent_crime_rate	
+2280	Alaska	Wrangell-Petersburg	violent_crime_rate	226
+2282	Alaska	Yakutat	violent_crime_rate	
+2290	Alaska	Yukon-Koyukuk	violent_crime_rate	
+4001	Arizona	Apache	violent_crime_rate	75
+4003	Arizona	Cochise	violent_crime_rate	564
+4005	Arizona	Coconino	violent_crime_rate	372
+4007	Arizona	Gila	violent_crime_rate	488
+4009	Arizona	Graham	violent_crime_rate	1627
+4011	Arizona	Greenlee	violent_crime_rate	276
+4012	Arizona	La Paz	violent_crime_rate	402
+4013	Arizona	Maricopa	violent_crime_rate	422
+4015	Arizona	Mohave	violent_crime_rate	218
+4017	Arizona	Navajo	violent_crime_rate	372
+4019	Arizona	Pima	violent_crime_rate	463
+4021	Arizona	Pinal	violent_crime_rate	238
+4023	Arizona	Santa Cruz	violent_crime_rate	167
+4025	Arizona	Yavapai	violent_crime_rate	330
+4027	Arizona	Yuma	violent_crime_rate	388
+5001	Arkansas	Arkansas	violent_crime_rate	366
+5003	Arkansas	Ashley	violent_crime_rate	306
+5005	Arkansas	Baxter	violent_crime_rate	111
+5007	Arkansas	Benton	violent_crime_rate	241
+5009	Arkansas	Boone	violent_crime_rate	317
+5011	Arkansas	Bradley	violent_crime_rate	297
+5013	Arkansas	Calhoun	violent_crime_rate	80
+5015	Arkansas	Carroll	violent_crime_rate	261
+5017	Arkansas	Chicot	violent_crime_rate	811
+5019	Arkansas	Clark	violent_crime_rate	361
+5021	Arkansas	Clay	violent_crime_rate	126
+5023	Arkansas	Cleburne	violent_crime_rate	257
+5025	Arkansas	Cleveland	violent_crime_rate	69
+5027	Arkansas	Columbia	violent_crime_rate	445
+5029	Arkansas	Conway	violent_crime_rate	292
+5031	Arkansas	Craighead	violent_crime_rate	368
+5033	Arkansas	Crawford	violent_crime_rate	249
+5035	Arkansas	Crittenden	violent_crime_rate	1626
+5037	Arkansas	Cross	violent_crime_rate	499
+5039	Arkansas	Dallas	violent_crime_rate	358
+5041	Arkansas	Desha	violent_crime_rate	819
+5043	Arkansas	Drew	violent_crime_rate	429
+5045	Arkansas	Faulkner	violent_crime_rate	301
+5047	Arkansas	Franklin	violent_crime_rate	240
+5049	Arkansas	Fulton	violent_crime_rate	245
+5051	Arkansas	Garland	violent_crime_rate	629
+5053	Arkansas	Grant	violent_crime_rate	206
+5055	Arkansas	Greene	violent_crime_rate	272
+5057	Arkansas	Hempstead	violent_crime_rate	495
+5059	Arkansas	Hot Spring	violent_crime_rate	121
+5061	Arkansas	Howard	violent_crime_rate	287
+5063	Arkansas	Independence	violent_crime_rate	586
+5065	Arkansas	Izard	violent_crime_rate	50
+5067	Arkansas	Jackson	violent_crime_rate	583
+5069	Arkansas	Jefferson	violent_crime_rate	1087
+5071	Arkansas	Johnson	violent_crime_rate	197
+5073	Arkansas	Lafayette	violent_crime_rate	257
+5075	Arkansas	Lawrence	violent_crime_rate	190
+5077	Arkansas	Lee	violent_crime_rate	350
+5079	Arkansas	Lincoln	violent_crime_rate	132
+5081	Arkansas	Little River	violent_crime_rate	145
+5083	Arkansas	Logan	violent_crime_rate	254
+5085	Arkansas	Lonoke	violent_crime_rate	410
+5087	Arkansas	Madison	violent_crime_rate	270
+5089	Arkansas	Marion	violent_crime_rate	245
+5091	Arkansas	Miller	violent_crime_rate	989
+5093	Arkansas	Mississippi	violent_crime_rate	890
+5095	Arkansas	Monroe	violent_crime_rate	124
+5097	Arkansas	Montgomery	violent_crime_rate	44
+5099	Arkansas	Nevada	violent_crime_rate	164
+5101	Arkansas	Newton	violent_crime_rate	221
+5103	Arkansas	Ouachita	violent_crime_rate	371
+5105	Arkansas	Perry	violent_crime_rate	250
+5107	Arkansas	Phillips	violent_crime_rate	1584
+5109	Arkansas	Pike	violent_crime_rate	126
+5111	Arkansas	Poinsett	violent_crime_rate	497
+5113	Arkansas	Polk	violent_crime_rate	260
+5115	Arkansas	Pope	violent_crime_rate	266
+5117	Arkansas	Prairie	violent_crime_rate	113
+5119	Arkansas	Pulaski	violent_crime_rate	1104
+5121	Arkansas	Randolph	violent_crime_rate	35
+5123	Arkansas	St. Francis	violent_crime_rate	509
+5125	Arkansas	Saline	violent_crime_rate	272
+5127	Arkansas	Scott	violent_crime_rate	230
+5129	Arkansas	Searcy	violent_crime_rate	119
+5131	Arkansas	Sebastian	violent_crime_rate	632
+5133	Arkansas	Sevier	violent_crime_rate	259
+5135	Arkansas	Sharp	violent_crime_rate	177
+5137	Arkansas	Stone	violent_crime_rate	228
+5139	Arkansas	Union	violent_crime_rate	572
+5141	Arkansas	Van Buren	violent_crime_rate	259
+5143	Arkansas	Washington	violent_crime_rate	397
+5145	Arkansas	White	violent_crime_rate	255
+5147	Arkansas	Woodruff	violent_crime_rate	174
+5149	Arkansas	Yell	violent_crime_rate	296
+6001	California	Alameda	violent_crime_rate	775
+6003	California	Alpine	violent_crime_rate	1104
+6005	California	Amador	violent_crime_rate	298
+6007	California	Butte	violent_crime_rate	383
+6009	California	Calaveras	violent_crime_rate	192
+6011	California	Colusa	violent_crime_rate	232
+6013	California	Contra Costa	violent_crime_rate	424
+6015	California	Del Norte	violent_crime_rate	383
+6017	California	El Dorado	violent_crime_rate	272
+6019	California	Fresno	violent_crime_rate	509
+6021	California	Glenn	violent_crime_rate	223
+6023	California	Humboldt	violent_crime_rate	390
+6025	California	Imperial	violent_crime_rate	334
+6027	California	Inyo	violent_crime_rate	443
+6029	California	Kern	violent_crime_rate	586
+6031	California	Kings	violent_crime_rate	405
+6033	California	Lake	violent_crime_rate	444
+6035	California	Lassen	violent_crime_rate	321
+6037	California	Los Angeles	violent_crime_rate	558
+6039	California	Madera	violent_crime_rate	462
+6041	California	Marin	violent_crime_rate	213
+6043	California	Mariposa	violent_crime_rate	236
+6045	California	Mendocino	violent_crime_rate	604
+6047	California	Merced	violent_crime_rate	616
+6049	California	Modoc	violent_crime_rate	251
+6051	California	Mono	violent_crime_rate	396
+6053	California	Monterey	violent_crime_rate	499
+6055	California	Napa	violent_crime_rate	511
+6057	California	Nevada	violent_crime_rate	294
+6059	California	Orange	violent_crime_rate	243
+6061	California	Placer	violent_crime_rate	230
+6063	California	Plumas	violent_crime_rate	607
+6065	California	Riverside	violent_crime_rate	341
+6067	California	Sacramento	violent_crime_rate	634
+6069	California	San Benito	violent_crime_rate	427
+6071	California	San Bernardino	violent_crime_rate	485
+6073	California	San Diego	violent_crime_rate	410
+6075	California	San Francisco	violent_crime_rate	773
+6077	California	San Joaquin	violent_crime_rate	840
+6079	California	San Luis Obispo	violent_crime_rate	274
+6081	California	San Mateo	violent_crime_rate	283
+6083	California	Santa Barbara	violent_crime_rate	438
+6085	California	Santa Clara	violent_crime_rate	286
+6087	California	Santa Cruz	violent_crime_rate	494
+6089	California	Shasta	violent_crime_rate	725
+6091	California	Sierra	violent_crime_rate	411
+6093	California	Siskiyou	violent_crime_rate	355
+6095	California	Solano	violent_crime_rate	517
+6097	California	Sonoma	violent_crime_rate	412
+6099	California	Stanislaus	violent_crime_rate	531
+6101	California	Sutter	violent_crime_rate	361
+6103	California	Tehama	violent_crime_rate	615
+6105	California	Trinity	violent_crime_rate	184
+6107	California	Tulare	violent_crime_rate	505
+6109	California	Tuolumne	violent_crime_rate	248
+6111	California	Ventura	violent_crime_rate	244
+6113	California	Yolo	violent_crime_rate	270
+6115	California	Yuba	violent_crime_rate	402
+8001	Colorado	Adams	violent_crime_rate	402
+8003	Colorado	Alamosa	violent_crime_rate	402
+8005	Colorado	Arapahoe	violent_crime_rate	354
+8007	Colorado	Archuleta	violent_crime_rate	181
+8009	Colorado	Baca	violent_crime_rate	370
+8011	Colorado	Bent	violent_crime_rate	145
+8013	Colorado	Boulder	violent_crime_rate	217
+8014	Colorado	Broomfield	violent_crime_rate	74
+8015	Colorado	Chaffee	violent_crime_rate	106
+8017	Colorado	Cheyenne	violent_crime_rate	0
+8019	Colorado	Clear Creek	violent_crime_rate	445
+8021	Colorado	Conejos	violent_crime_rate	
+8023	Colorado	Costilla	violent_crime_rate	
+8025	Colorado	Crowley	violent_crime_rate	58
+8027	Colorado	Custer	violent_crime_rate	266
+8029	Colorado	Delta	violent_crime_rate	259
+8031	Colorado	Denver	violent_crime_rate	569
+8033	Colorado	Dolores	violent_crime_rate	0
+8035	Colorado	Douglas	violent_crime_rate	121
+8037	Colorado	Eagle	violent_crime_rate	149
+8039	Colorado	Elbert	violent_crime_rate	49
+8041	Colorado	El Paso	violent_crime_rate	481
+8043	Colorado	Fremont	violent_crime_rate	300
+8045	Colorado	Garfield	violent_crime_rate	
+8047	Colorado	Gilpin	violent_crime_rate	342
+8049	Colorado	Grand	violent_crime_rate	284
+8051	Colorado	Gunnison	violent_crime_rate	291
+8053	Colorado	Hinsdale	violent_crime_rate	79
+8055	Colorado	Huerfano	violent_crime_rate	198
+8057	Colorado	Jackson	violent_crime_rate	123
+8059	Colorado	Jefferson	violent_crime_rate	260
+8061	Colorado	Kiowa	violent_crime_rate	0
+8063	Colorado	Kit Carson	violent_crime_rate	185
+8065	Colorado	Lake	violent_crime_rate	266
+8067	Colorado	La Plata	violent_crime_rate	362
+8069	Colorado	Larimer	violent_crime_rate	261
+8071	Colorado	Las Animas	violent_crime_rate	218
+8073	Colorado	Lincoln	violent_crime_rate	153
+8075	Colorado	Logan	violent_crime_rate	259
+8077	Colorado	Mesa	violent_crime_rate	303
+8079	Colorado	Mineral	violent_crime_rate	0
+8081	Colorado	Moffat	violent_crime_rate	232
+8083	Colorado	Montezuma	violent_crime_rate	327
+8085	Colorado	Montrose	violent_crime_rate	197
+8087	Colorado	Morgan	violent_crime_rate	118
+8089	Colorado	Otero	violent_crime_rate	329
+8091	Colorado	Ouray	violent_crime_rate	370
+8093	Colorado	Park	violent_crime_rate	98
+8095	Colorado	Phillips	violent_crime_rate	101
+8097	Colorado	Pitkin	violent_crime_rate	228
+8099	Colorado	Prowers	violent_crime_rate	203
+8101	Colorado	Pueblo	violent_crime_rate	582
+8103	Colorado	Rio Blanco	violent_crime_rate	378
+8105	Colorado	Rio Grande	violent_crime_rate	285
+8107	Colorado	Routt	violent_crime_rate	289
+8109	Colorado	Saguache	violent_crime_rate	241
+8111	Colorado	San Juan	violent_crime_rate	276
+8113	Colorado	San Miguel	violent_crime_rate	137
+8115	Colorado	Sedgwick	violent_crime_rate	238
+8117	Colorado	Summit	violent_crime_rate	189
+8119	Colorado	Teller	violent_crime_rate	141
+8121	Colorado	Washington	violent_crime_rate	180
+8123	Colorado	Weld	violent_crime_rate	288
+8125	Colorado	Yuma	violent_crime_rate	85
+9001	Connecticut	Fairfield	violent_crime_rate	309
+9003	Connecticut	Hartford	violent_crime_rate	331
+9005	Connecticut	Litchfield	violent_crime_rate	124
+9007	Connecticut	Middlesex	violent_crime_rate	112
+9009	Connecticut	New Haven	violent_crime_rate	442
+9011	Connecticut	New London	violent_crime_rate	374
+9013	Connecticut	Tolland	violent_crime_rate	
+9015	Connecticut	Windham	violent_crime_rate	
+10001	Delaware	Kent	violent_crime_rate	619
+10003	Delaware	New Castle	violent_crime_rate	705
+10005	Delaware	Sussex	violent_crime_rate	565
+11001	District of Columbia	District of Columbia	violent_crime_rate	1373
+12001	Florida	Alachua	violent_crime_rate	773
+12003	Florida	Baker	violent_crime_rate	247
+12005	Florida	Bay	violent_crime_rate	590
+12007	Florida	Bradford	violent_crime_rate	446
+12009	Florida	Brevard	violent_crime_rate	649
+12011	Florida	Broward	violent_crime_rate	544
+12013	Florida	Calhoun	violent_crime_rate	156
+12015	Florida	Charlotte	violent_crime_rate	299
+12017	Florida	Citrus	violent_crime_rate	359
+12019	Florida	Clay	violent_crime_rate	473
+12021	Florida	Collier	violent_crime_rate	337
+12023	Florida	Columbia	violent_crime_rate	564
+12027	Florida	DeSoto	violent_crime_rate	805
+12029	Florida	Dixie	violent_crime_rate	553
+12031	Florida	Duval	violent_crime_rate	836
+12033	Florida	Escambia	violent_crime_rate	866
+12035	Florida	Flagler	violent_crime_rate	279
+12037	Florida	Franklin	violent_crime_rate	632
+12039	Florida	Gadsden	violent_crime_rate	1083
+12041	Florida	Gilchrist	violent_crime_rate	216
+12043	Florida	Glades	violent_crime_rate	365
+12045	Florida	Gulf	violent_crime_rate	443
+12047	Florida	Hamilton	violent_crime_rate	602
+12049	Florida	Hardee	violent_crime_rate	328
+12051	Florida	Hendry	violent_crime_rate	717
+12053	Florida	Hernando	violent_crime_rate	369
+12055	Florida	Highlands	violent_crime_rate	300
+12057	Florida	Hillsborough	violent_crime_rate	580
+12059	Florida	Holmes	violent_crime_rate	269
+12061	Florida	Indian River	violent_crime_rate	339
+12063	Florida	Jackson	violent_crime_rate	545
+12065	Florida	Jefferson	violent_crime_rate	1117
+12067	Florida	Lafayette	violent_crime_rate	252
+12069	Florida	Lake	violent_crime_rate	464
+12071	Florida	Lee	violent_crime_rate	422
+12073	Florida	Leon	violent_crime_rate	805
+12075	Florida	Levy	violent_crime_rate	603
+12077	Florida	Liberty	violent_crime_rate	191
+12079	Florida	Madison	violent_crime_rate	906
+12081	Florida	Manatee	violent_crime_rate	789
+12083	Florida	Marion	violent_crime_rate	580
+12085	Florida	Martin	violent_crime_rate	324
+12086	Florida	Miami-Dade	violent_crime_rate	820
+12087	Florida	Monroe	violent_crime_rate	532
+12089	Florida	Nassau	violent_crime_rate	597
+12091	Florida	Okaloosa	violent_crime_rate	348
+12093	Florida	Okeechobee	violent_crime_rate	638
+12095	Florida	Orange	violent_crime_rate	912
+12097	Florida	Osceola	violent_crime_rate	602
+12099	Florida	Palm Beach	violent_crime_rate	614
+12101	Florida	Pasco	violent_crime_rate	368
+12103	Florida	Pinellas	violent_crime_rate	740
+12105	Florida	Polk	violent_crime_rate	451
+12107	Florida	Putnam	violent_crime_rate	1059
+12109	Florida	St. Johns	violent_crime_rate	340
+12111	Florida	St. Lucie	violent_crime_rate	473
+12113	Florida	Santa Rosa	violent_crime_rate	172
+12115	Florida	Sarasota	violent_crime_rate	395
+12117	Florida	Seminole	violent_crime_rate	396
+12119	Florida	Sumter	violent_crime_rate	262
+12121	Florida	Suwannee	violent_crime_rate	550
+12123	Florida	Taylor	violent_crime_rate	1049
+12125	Florida	Union	violent_crime_rate	328
+12127	Florida	Volusia	violent_crime_rate	565
+12129	Florida	Wakulla	violent_crime_rate	323
+12131	Florida	Walton	violent_crime_rate	436
+12133	Florida	Washington	violent_crime_rate	157
+13001	Georgia	Appling	violent_crime_rate	
+13003	Georgia	Atkinson	violent_crime_rate	
+13005	Georgia	Bacon	violent_crime_rate	333
+13007	Georgia	Baker	violent_crime_rate	27
+13009	Georgia	Baldwin	violent_crime_rate	854
+13011	Georgia	Banks	violent_crime_rate	580
+13013	Georgia	Barrow	violent_crime_rate	460
+13015	Georgia	Bartow	violent_crime_rate	365
+13017	Georgia	Ben Hill	violent_crime_rate	
+13019	Georgia	Berrien	violent_crime_rate	303
+13021	Georgia	Bibb	violent_crime_rate	627
+13023	Georgia	Bleckley	violent_crime_rate	291
+13025	Georgia	Brantley	violent_crime_rate	291
+13027	Georgia	Brooks	violent_crime_rate	950
+13029	Georgia	Bryan	violent_crime_rate	175
+13031	Georgia	Bulloch	violent_crime_rate	527
+13033	Georgia	Burke	violent_crime_rate	761
+13035	Georgia	Butts	violent_crime_rate	258
+13037	Georgia	Calhoun	violent_crime_rate	137
+13039	Georgia	Camden	violent_crime_rate	492
+13043	Georgia	Candler	violent_crime_rate	121
+13045	Georgia	Carroll	violent_crime_rate	747
+13047	Georgia	Catoosa	violent_crime_rate	171
+13049	Georgia	Charlton	violent_crime_rate	205
+13051	Georgia	Chatham	violent_crime_rate	513
+13053	Georgia	Chattahoochee	violent_crime_rate	
+13055	Georgia	Chattooga	violent_crime_rate	203
+13057	Georgia	Cherokee	violent_crime_rate	88
+13059	Georgia	Clarke	violent_crime_rate	404
+13061	Georgia	Clay	violent_crime_rate	105
+13063	Georgia	Clayton	violent_crime_rate	596
+13065	Georgia	Clinch	violent_crime_rate	336
+13067	Georgia	Cobb	violent_crime_rate	304
+13069	Georgia	Coffee	violent_crime_rate	525
+13071	Georgia	Colquitt	violent_crime_rate	
+13073	Georgia	Columbia	violent_crime_rate	131
+13075	Georgia	Cook	violent_crime_rate	375
+13077	Georgia	Coweta	violent_crime_rate	211
+13079	Georgia	Crawford	violent_crime_rate	306
+13081	Georgia	Crisp	violent_crime_rate	635
+13083	Georgia	Dade	violent_crime_rate	284
+13085	Georgia	Dawson	violent_crime_rate	89
+13087	Georgia	Decatur	violent_crime_rate	477
+13089	Georgia	DeKalb	violent_crime_rate	695
+13091	Georgia	Dodge	violent_crime_rate	518
+13093	Georgia	Dooly	violent_crime_rate	697
+13095	Georgia	Dougherty	violent_crime_rate	930
+13097	Georgia	Douglas	violent_crime_rate	285
+13099	Georgia	Early	violent_crime_rate	522
+13101	Georgia	Echols	violent_crime_rate	221
+13103	Georgia	Effingham	violent_crime_rate	103
+13105	Georgia	Elbert	violent_crime_rate	402
+13107	Georgia	Emanuel	violent_crime_rate	97
+13109	Georgia	Evans	violent_crime_rate	260
+13111	Georgia	Fannin	violent_crime_rate	367
+13113	Georgia	Fayette	violent_crime_rate	79
+13115	Georgia	Floyd	violent_crime_rate	405
+13117	Georgia	Forsyth	violent_crime_rate	89
+13119	Georgia	Franklin	violent_crime_rate	153
+13121	Georgia	Fulton	violent_crime_rate	879
+13123	Georgia	Gilmer	violent_crime_rate	154
+13125	Georgia	Glascock	violent_crime_rate	31
+13127	Georgia	Glynn	violent_crime_rate	801
+13129	Georgia	Gordon	violent_crime_rate	291
+13131	Georgia	Grady	violent_crime_rate	183
+13133	Georgia	Greene	violent_crime_rate	337
+13135	Georgia	Gwinnett	violent_crime_rate	290
+13137	Georgia	Habersham	violent_crime_rate	214
+13139	Georgia	Hall	violent_crime_rate	196
+13141	Georgia	Hancock	violent_crime_rate	132
+13143	Georgia	Haralson	violent_crime_rate	467
+13145	Georgia	Harris	violent_crime_rate	80
+13147	Georgia	Hart	violent_crime_rate	356
+13149	Georgia	Heard	violent_crime_rate	216
+13151	Georgia	Henry	violent_crime_rate	242
+13153	Georgia	Houston	violent_crime_rate	356
+13155	Georgia	Irwin	violent_crime_rate	301
+13157	Georgia	Jackson	violent_crime_rate	178
+13159	Georgia	Jasper	violent_crime_rate	204
+13161	Georgia	Jeff Davis	violent_crime_rate	332
+13163	Georgia	Jefferson	violent_crime_rate	356
+13165	Georgia	Jenkins	violent_crime_rate	
+13167	Georgia	Johnson	violent_crime_rate	506
+13169	Georgia	Jones	violent_crime_rate	146
+13171	Georgia	Lamar	violent_crime_rate	655
+13173	Georgia	Lanier	violent_crime_rate	185
+13175	Georgia	Laurens	violent_crime_rate	483
+13177	Georgia	Lee	violent_crime_rate	105
+13179	Georgia	Liberty	violent_crime_rate	434
+13181	Georgia	Lincoln	violent_crime_rate	224
+13183	Georgia	Long	violent_crime_rate	299
+13185	Georgia	Lowndes	violent_crime_rate	332
+13187	Georgia	Lumpkin	violent_crime_rate	233
+13189	Georgia	McDuffie	violent_crime_rate	366
+13191	Georgia	McIntosh	violent_crime_rate	505
+13193	Georgia	Macon	violent_crime_rate	337
+13195	Georgia	Madison	violent_crime_rate	442
+13197	Georgia	Marion	violent_crime_rate	502
+13199	Georgia	Meriwether	violent_crime_rate	273
+13201	Georgia	Miller	violent_crime_rate	188
+13205	Georgia	Mitchell	violent_crime_rate	654
+13207	Georgia	Monroe	violent_crime_rate	183
+13209	Georgia	Montgomery	violent_crime_rate	
+13211	Georgia	Morgan	violent_crime_rate	154
+13213	Georgia	Murray	violent_crime_rate	141
+13215	Georgia	Muscogee	violent_crime_rate	611
+13217	Georgia	Newton	violent_crime_rate	383
+13219	Georgia	Oconee	violent_crime_rate	283
+13221	Georgia	Oglethorpe	violent_crime_rate	343
+13223	Georgia	Paulding	violent_crime_rate	229
+13225	Georgia	Peach	violent_crime_rate	663
+13227	Georgia	Pickens	violent_crime_rate	190
+13229	Georgia	Pierce	violent_crime_rate	121
+13231	Georgia	Pike	violent_crime_rate	75
+13233	Georgia	Polk	violent_crime_rate	359
+13235	Georgia	Pulaski	violent_crime_rate	125
+13237	Georgia	Putnam	violent_crime_rate	432
+13239	Georgia	Quitman	violent_crime_rate	560
+13241	Georgia	Rabun	violent_crime_rate	95
+13243	Georgia	Randolph	violent_crime_rate	135
+13245	Georgia	Richmond	violent_crime_rate	561
+13247	Georgia	Rockdale	violent_crime_rate	471
+13249	Georgia	Schley	violent_crime_rate	178
+13251	Georgia	Screven	violent_crime_rate	294
+13253	Georgia	Seminole	violent_crime_rate	247
+13255	Georgia	Spalding	violent_crime_rate	451
+13257	Georgia	Stephens	violent_crime_rate	248
+13259	Georgia	Stewart	violent_crime_rate	500
+13261	Georgia	Sumter	violent_crime_rate	809
+13263	Georgia	Talbot	violent_crime_rate	218
+13265	Georgia	Taliaferro	violent_crime_rate	442
+13267	Georgia	Tattnall	violent_crime_rate	184
+13269	Georgia	Taylor	violent_crime_rate	182
+13271	Georgia	Telfair	violent_crime_rate	355
+13273	Georgia	Terrell	violent_crime_rate	473
+13275	Georgia	Thomas	violent_crime_rate	278
+13277	Georgia	Tift	violent_crime_rate	746
+13279	Georgia	Toombs	violent_crime_rate	598
+13281	Georgia	Towns	violent_crime_rate	141
+13283	Georgia	Treutlen	violent_crime_rate	254
+13285	Georgia	Troup	violent_crime_rate	366
+13287	Georgia	Turner	violent_crime_rate	172
+13289	Georgia	Twiggs	violent_crime_rate	173
+13291	Georgia	Union	violent_crime_rate	52
+13293	Georgia	Upson	violent_crime_rate	293
+13295	Georgia	Walker	violent_crime_rate	500
+13297	Georgia	Walton	violent_crime_rate	234
+13299	Georgia	Ware	violent_crime_rate	424
+13301	Georgia	Warren	violent_crime_rate	
+13303	Georgia	Washington	violent_crime_rate	383
+13305	Georgia	Wayne	violent_crime_rate	
+13307	Georgia	Webster	violent_crime_rate	
+13309	Georgia	Wheeler	violent_crime_rate	66
+13311	Georgia	White	violent_crime_rate	247
+13313	Georgia	Whitfield	violent_crime_rate	342
+13315	Georgia	Wilcox	violent_crime_rate	140
+13317	Georgia	Wilkes	violent_crime_rate	540
+13319	Georgia	Wilkinson	violent_crime_rate	142
+13321	Georgia	Worth	violent_crime_rate	117
+15001	Hawaii	Hawaii	violent_crime_rate	264
+15003	Hawaii	Honolulu	violent_crime_rate	277
+15005	Hawaii	Kalawao	violent_crime_rate	
+15007	Hawaii	Kauai	violent_crime_rate	343
+15009	Hawaii	Maui	violent_crime_rate	206
+16001	Idaho	Ada	violent_crime_rate	226
+16003	Idaho	Adams	violent_crime_rate	173
+16005	Idaho	Bannock	violent_crime_rate	261
+16007	Idaho	Bear Lake	violent_crime_rate	137
+16009	Idaho	Benewah	violent_crime_rate	291
+16011	Idaho	Bingham	violent_crime_rate	146
+16013	Idaho	Blaine	violent_crime_rate	265
+16015	Idaho	Boise	violent_crime_rate	95
+16017	Idaho	Bonner	violent_crime_rate	120
+16019	Idaho	Bonneville	violent_crime_rate	302
+16021	Idaho	Boundary	violent_crime_rate	112
+16023	Idaho	Butte	violent_crime_rate	418
+16025	Idaho	Camas	violent_crime_rate	119
+16027	Idaho	Canyon	violent_crime_rate	276
+16029	Idaho	Caribou	violent_crime_rate	54
+16031	Idaho	Cassia	violent_crime_rate	181
+16033	Idaho	Clark	violent_crime_rate	217
+16035	Idaho	Clearwater	violent_crime_rate	345
+16037	Idaho	Custer	violent_crime_rate	191
+16039	Idaho	Elmore	violent_crime_rate	230
+16041	Idaho	Franklin	violent_crime_rate	53
+16043	Idaho	Fremont	violent_crime_rate	70
+16045	Idaho	Gem	violent_crime_rate	186
+16047	Idaho	Gooding	violent_crime_rate	164
+16049	Idaho	Idaho	violent_crime_rate	111
+16051	Idaho	Jefferson	violent_crime_rate	122
+16053	Idaho	Jerome	violent_crime_rate	176
+16055	Idaho	Kootenai	violent_crime_rate	329
+16057	Idaho	Latah	violent_crime_rate	111
+16059	Idaho	Lemhi	violent_crime_rate	132
+16061	Idaho	Lewis	violent_crime_rate	274
+16063	Idaho	Lincoln	violent_crime_rate	114
+16065	Idaho	Madison	violent_crime_rate	56
+16067	Idaho	Minidoka	violent_crime_rate	169
+16069	Idaho	Nez Perce	violent_crime_rate	137
+16071	Idaho	Oneida	violent_crime_rate	168
+16073	Idaho	Owyhee	violent_crime_rate	193
+16075	Idaho	Payette	violent_crime_rate	224
+16077	Idaho	Power	violent_crime_rate	151
+16079	Idaho	Shoshone	violent_crime_rate	230
+16081	Idaho	Teton	violent_crime_rate	79
+16083	Idaho	Twin Falls	violent_crime_rate	273
+16085	Idaho	Valley	violent_crime_rate	286
+16087	Idaho	Washington	violent_crime_rate	102
+17001	Illinois	Adams	violent_crime_rate	396
+17003	Illinois	Alexander	violent_crime_rate	1262
+17005	Illinois	Bond	violent_crime_rate	42
+17007	Illinois	Boone	violent_crime_rate	145
+17009	Illinois	Brown	violent_crime_rate	317
+17011	Illinois	Bureau	violent_crime_rate	69
+17013	Illinois	Calhoun	violent_crime_rate	373
+17015	Illinois	Carroll	violent_crime_rate	74
+17017	Illinois	Cass	violent_crime_rate	27
+17019	Illinois	Champaign	violent_crime_rate	643
+17021	Illinois	Christian	violent_crime_rate	
+17023	Illinois	Clark	violent_crime_rate	282
+17025	Illinois	Clay	violent_crime_rate	58
+17027	Illinois	Clinton	violent_crime_rate	118
+17029	Illinois	Coles	violent_crime_rate	297
+17031	Illinois	Cook	violent_crime_rate	801
+17033	Illinois	Crawford	violent_crime_rate	132
+17035	Illinois	Cumberland	violent_crime_rate	63
+17037	Illinois	DeKalb	violent_crime_rate	216
+17039	Illinois	De Witt	violent_crime_rate	
+17041	Illinois	Douglas	violent_crime_rate	115
+17043	Illinois	DuPage	violent_crime_rate	108
+17045	Illinois	Edgar	violent_crime_rate	382
+17047	Illinois	Edwards	violent_crime_rate	
+17049	Illinois	Effingham	violent_crime_rate	105
+17051	Illinois	Fayette	violent_crime_rate	212
+17053	Illinois	Ford	violent_crime_rate	433
+17055	Illinois	Franklin	violent_crime_rate	434
+17057	Illinois	Fulton	violent_crime_rate	178
+17059	Illinois	Gallatin	violent_crime_rate	107
+17061	Illinois	Greene	violent_crime_rate	133
+17063	Illinois	Grundy	violent_crime_rate	131
+17065	Illinois	Hamilton	violent_crime_rate	
+17067	Illinois	Hancock	violent_crime_rate	
+17069	Illinois	Hardin	violent_crime_rate	278
+17071	Illinois	Henderson	violent_crime_rate	196
+17073	Illinois	Henry	violent_crime_rate	156
+17075	Illinois	Iroquois	violent_crime_rate	65
+17077	Illinois	Jackson	violent_crime_rate	488
+17079	Illinois	Jasper	violent_crime_rate	206
+17081	Illinois	Jefferson	violent_crime_rate	538
+17083	Illinois	Jersey	violent_crime_rate	287
+17085	Illinois	Jo Daviess	violent_crime_rate	235
+17087	Illinois	Johnson	violent_crime_rate	206
+17089	Illinois	Kane	violent_crime_rate	241
+17091	Illinois	Kankakee	violent_crime_rate	405
+17093	Illinois	Kendall	violent_crime_rate	158
+17095	Illinois	Knox	violent_crime_rate	428
+17097	Illinois	Lake	violent_crime_rate	137
+17099	Illinois	LaSalle	violent_crime_rate	120
+17101	Illinois	Lawrence	violent_crime_rate	225
+17103	Illinois	Lee	violent_crime_rate	247
+17105	Illinois	Livingston	violent_crime_rate	202
+17107	Illinois	Logan	violent_crime_rate	400
+17109	Illinois	McDonough	violent_crime_rate	126
+17111	Illinois	McHenry	violent_crime_rate	112
+17113	Illinois	McLean	violent_crime_rate	353
+17115	Illinois	Macon	violent_crime_rate	601
+17117	Illinois	Macoupin	violent_crime_rate	166
+17119	Illinois	Madison	violent_crime_rate	229
+17121	Illinois	Marion	violent_crime_rate	274
+17123	Illinois	Marshall	violent_crime_rate	89
+17125	Illinois	Mason	violent_crime_rate	468
+17127	Illinois	Massac	violent_crime_rate	350
+17129	Illinois	Menard	violent_crime_rate	390
+17131	Illinois	Mercer	violent_crime_rate	270
+17133	Illinois	Monroe	violent_crime_rate	55
+17135	Illinois	Montgomery	violent_crime_rate	554
+17137	Illinois	Morgan	violent_crime_rate	291
+17139	Illinois	Moultrie	violent_crime_rate	73
+17141	Illinois	Ogle	violent_crime_rate	60
+17143	Illinois	Peoria	violent_crime_rate	664
+17145	Illinois	Perry	violent_crime_rate	144
+17147	Illinois	Piatt	violent_crime_rate	224
+17149	Illinois	Pike	violent_crime_rate	33
+17151	Illinois	Pope	violent_crime_rate	291
+17153	Illinois	Pulaski	violent_crime_rate	1418
+17155	Illinois	Putnam	violent_crime_rate	67
+17157	Illinois	Randolph	violent_crime_rate	218
+17159	Illinois	Richland	violent_crime_rate	193
+17161	Illinois	Rock Island	violent_crime_rate	514
+17163	Illinois	St. Clair	violent_crime_rate	978
+17165	Illinois	Saline	violent_crime_rate	293
+17167	Illinois	Sangamon	violent_crime_rate	1066
+17169	Illinois	Schuyler	violent_crime_rate	93
+17171	Illinois	Scott	violent_crime_rate	106
+17173	Illinois	Shelby	violent_crime_rate	121
+17175	Illinois	Stark	violent_crime_rate	131
+17177	Illinois	Stephenson	violent_crime_rate	191
+17179	Illinois	Tazewell	violent_crime_rate	266
+17181	Illinois	Union	violent_crime_rate	84
+17183	Illinois	Vermilion	violent_crime_rate	542
+17185	Illinois	Wabash	violent_crime_rate	130
+17187	Illinois	Warren	violent_crime_rate	389
+17189	Illinois	Washington	violent_crime_rate	516
+17191	Illinois	Wayne	violent_crime_rate	263
+17193	Illinois	White	violent_crime_rate	
+17195	Illinois	Whiteside	violent_crime_rate	178
+17197	Illinois	Will	violent_crime_rate	188
+17199	Illinois	Williamson	violent_crime_rate	541
+17201	Illinois	Winnebago	violent_crime_rate	926
+17203	Illinois	Woodford	violent_crime_rate	37
+18001	Indiana	Adams	violent_crime_rate	
+18003	Indiana	Allen	violent_crime_rate	257
+18005	Indiana	Bartholomew	violent_crime_rate	114
+18007	Indiana	Benton	violent_crime_rate	
+18009	Indiana	Blackford	violent_crime_rate	94
+18011	Indiana	Boone	violent_crime_rate	22
+18013	Indiana	Brown	violent_crime_rate	61
+18015	Indiana	Carroll	violent_crime_rate	72
+18017	Indiana	Cass	violent_crime_rate	105
+18019	Indiana	Clark	violent_crime_rate	376
+18021	Indiana	Clay	violent_crime_rate	439
+18023	Indiana	Clinton	violent_crime_rate	121
+18025	Indiana	Crawford	violent_crime_rate	262
+18027	Indiana	Daviess	violent_crime_rate	117
+18029	Indiana	Dearborn	violent_crime_rate	108
+18031	Indiana	Decatur	violent_crime_rate	
+18033	Indiana	DeKalb	violent_crime_rate	
+18035	Indiana	Delaware	violent_crime_rate	321
+18037	Indiana	Dubois	violent_crime_rate	104
+18039	Indiana	Elkhart	violent_crime_rate	135
+18041	Indiana	Fayette	violent_crime_rate	
+18043	Indiana	Floyd	violent_crime_rate	179
+18045	Indiana	Fountain	violent_crime_rate	
+18047	Indiana	Franklin	violent_crime_rate	44
+18049	Indiana	Fulton	violent_crime_rate	259
+18051	Indiana	Gibson	violent_crime_rate	87
+18053	Indiana	Grant	violent_crime_rate	176
+18055	Indiana	Greene	violent_crime_rate	43
+18057	Indiana	Hamilton	violent_crime_rate	60
+18059	Indiana	Hancock	violent_crime_rate	51
+18061	Indiana	Harrison	violent_crime_rate	54
+18063	Indiana	Hendricks	violent_crime_rate	156
+18065	Indiana	Henry	violent_crime_rate	45
+18067	Indiana	Howard	violent_crime_rate	257
+18069	Indiana	Huntington	violent_crime_rate	115
+18071	Indiana	Jackson	violent_crime_rate	280
+18073	Indiana	Jasper	violent_crime_rate	
+18075	Indiana	Jay	violent_crime_rate	81
+18077	Indiana	Jefferson	violent_crime_rate	
+18079	Indiana	Jennings	violent_crime_rate	195
+18081	Indiana	Johnson	violent_crime_rate	226
+18083	Indiana	Knox	violent_crime_rate	77
+18085	Indiana	Kosciusko	violent_crime_rate	70
+18087	Indiana	LaGrange	violent_crime_rate	43
+18089	Indiana	Lake	violent_crime_rate	421
+18091	Indiana	LaPorte	violent_crime_rate	197
+18093	Indiana	Lawrence	violent_crime_rate	115
+18095	Indiana	Madison	violent_crime_rate	205
+18097	Indiana	Marion	violent_crime_rate	1146
+18099	Indiana	Marshall	violent_crime_rate	67
+18101	Indiana	Martin	violent_crime_rate	137
+18103	Indiana	Miami	violent_crime_rate	84
+18105	Indiana	Monroe	violent_crime_rate	307
+18107	Indiana	Montgomery	violent_crime_rate	183
+18109	Indiana	Morgan	violent_crime_rate	
+18111	Indiana	Newton	violent_crime_rate	78
+18113	Indiana	Noble	violent_crime_rate	52
+18115	Indiana	Ohio	violent_crime_rate	
+18117	Indiana	Orange	violent_crime_rate	
+18119	Indiana	Owen	violent_crime_rate	
+18121	Indiana	Parke	violent_crime_rate	52
+18123	Indiana	Perry	violent_crime_rate	120
+18125	Indiana	Pike	violent_crime_rate	
+18127	Indiana	Porter	violent_crime_rate	190
+18129	Indiana	Posey	violent_crime_rate	
+18131	Indiana	Pulaski	violent_crime_rate	254
+18133	Indiana	Putnam	violent_crime_rate	81
+18135	Indiana	Randolph	violent_crime_rate	76
+18137	Indiana	Ripley	violent_crime_rate	111
+18139	Indiana	Rush	violent_crime_rate	86
+18141	Indiana	St. Joseph	violent_crime_rate	408
+18143	Indiana	Scott	violent_crime_rate	372
+18145	Indiana	Shelby	violent_crime_rate	110
+18147	Indiana	Spencer	violent_crime_rate	
+18149	Indiana	Starke	violent_crime_rate	201
+18151	Indiana	Steuben	violent_crime_rate	84
+18153	Indiana	Sullivan	violent_crime_rate	73
+18155	Indiana	Switzerland	violent_crime_rate	
+18157	Indiana	Tippecanoe	violent_crime_rate	248
+18159	Indiana	Tipton	violent_crime_rate	86
+18161	Indiana	Union	violent_crime_rate	
+18163	Indiana	Vanderburgh	violent_crime_rate	300
+18165	Indiana	Vermillion	violent_crime_rate	126
+18167	Indiana	Vigo	violent_crime_rate	308
+18169	Indiana	Wabash	violent_crime_rate	101
+18171	Indiana	Warren	violent_crime_rate	
+18173	Indiana	Warrick	violent_crime_rate	232
+18175	Indiana	Washington	violent_crime_rate	
+18177	Indiana	Wayne	violent_crime_rate	243
+18179	Indiana	Wells	violent_crime_rate	31
+18181	Indiana	White	violent_crime_rate	27
+18183	Indiana	Whitley	violent_crime_rate	46
+19001	Iowa	Adair	violent_crime_rate	53
+19003	Iowa	Adams	violent_crime_rate	422
+19005	Iowa	Allamakee	violent_crime_rate	19
+19007	Iowa	Appanoose	violent_crime_rate	301
+19009	Iowa	Audubon	violent_crime_rate	75
+19011	Iowa	Benton	violent_crime_rate	55
+19013	Iowa	Black Hawk	violent_crime_rate	528
+19015	Iowa	Boone	violent_crime_rate	255
+19017	Iowa	Bremer	violent_crime_rate	372
+19019	Iowa	Buchanan	violent_crime_rate	72
+19021	Iowa	Buena Vista	violent_crime_rate	237
+19023	Iowa	Butler	violent_crime_rate	36
+19025	Iowa	Calhoun	violent_crime_rate	65
+19027	Iowa	Carroll	violent_crime_rate	50
+19029	Iowa	Cass	violent_crime_rate	145
+19031	Iowa	Cedar	violent_crime_rate	101
+19033	Iowa	Cerro Gordo	violent_crime_rate	100
+19035	Iowa	Cherokee	violent_crime_rate	246
+19037	Iowa	Chickasaw	violent_crime_rate	
+19039	Iowa	Clarke	violent_crime_rate	139
+19041	Iowa	Clay	violent_crime_rate	46
+19043	Iowa	Clayton	violent_crime_rate	49
+19045	Iowa	Clinton	violent_crime_rate	408
+19047	Iowa	Crawford	violent_crime_rate	70
+19049	Iowa	Dallas	violent_crime_rate	154
+19051	Iowa	Davis	violent_crime_rate	174
+19053	Iowa	Decatur	violent_crime_rate	
+19055	Iowa	Delaware	violent_crime_rate	228
+19057	Iowa	Des Moines	violent_crime_rate	519
+19059	Iowa	Dickinson	violent_crime_rate	46
+19061	Iowa	Dubuque	violent_crime_rate	346
+19063	Iowa	Emmet	violent_crime_rate	187
+19065	Iowa	Fayette	violent_crime_rate	162
+19067	Iowa	Floyd	violent_crime_rate	68
+19069	Iowa	Franklin	violent_crime_rate	
+19071	Iowa	Fremont	violent_crime_rate	154
+19073	Iowa	Greene	violent_crime_rate	
+19075	Iowa	Grundy	violent_crime_rate	30
+19077	Iowa	Guthrie	violent_crime_rate	9
+19079	Iowa	Hamilton	violent_crime_rate	330
+19081	Iowa	Hancock	violent_crime_rate	71
+19083	Iowa	Hardin	violent_crime_rate	115
+19085	Iowa	Harrison	violent_crime_rate	84
+19087	Iowa	Henry	violent_crime_rate	307
+19089	Iowa	Howard	violent_crime_rate	74
+19091	Iowa	Humboldt	violent_crime_rate	17
+19093	Iowa	Ida	violent_crime_rate	92
+19095	Iowa	Iowa	violent_crime_rate	100
+19097	Iowa	Jackson	violent_crime_rate	
+19099	Iowa	Jasper	violent_crime_rate	118
+19101	Iowa	Jefferson	violent_crime_rate	123
+19103	Iowa	Johnson	violent_crime_rate	282
+19105	Iowa	Jones	violent_crime_rate	47
+19107	Iowa	Keokuk	violent_crime_rate	5
+19109	Iowa	Kossuth	violent_crime_rate	121
+19111	Iowa	Lee	violent_crime_rate	631
+19113	Iowa	Linn	violent_crime_rate	240
+19115	Iowa	Louisa	violent_crime_rate	60
+19117	Iowa	Lucas	violent_crime_rate	239
+19119	Iowa	Lyon	violent_crime_rate	189
+19121	Iowa	Madison	violent_crime_rate	51
+19123	Iowa	Mahaska	violent_crime_rate	216
+19125	Iowa	Marion	violent_crime_rate	
+19127	Iowa	Marshall	violent_crime_rate	381
+19129	Iowa	Mills	violent_crime_rate	242
+19131	Iowa	Mitchell	violent_crime_rate	62
+19133	Iowa	Monona	violent_crime_rate	0
+19135	Iowa	Monroe	violent_crime_rate	152
+19137	Iowa	Montgomery	violent_crime_rate	226
+19139	Iowa	Muscatine	violent_crime_rate	364
+19141	Iowa	O'Brien	violent_crime_rate	95
+19143	Iowa	Osceola	violent_crime_rate	31
+19145	Iowa	Page	violent_crime_rate	140
+19147	Iowa	Palo Alto	violent_crime_rate	114
+19149	Iowa	Plymouth	violent_crime_rate	105
+19151	Iowa	Pocahontas	violent_crime_rate	40
+19153	Iowa	Polk	violent_crime_rate	358
+19155	Iowa	Pottawattamie	violent_crime_rate	636
+19157	Iowa	Poweshiek	violent_crime_rate	132
+19159	Iowa	Ringgold	violent_crime_rate	39
+19161	Iowa	Sac	violent_crime_rate	52
+19163	Iowa	Scott	violent_crime_rate	522
+19165	Iowa	Shelby	violent_crime_rate	14
+19167	Iowa	Sioux	violent_crime_rate	120
+19169	Iowa	Story	violent_crime_rate	282
+19171	Iowa	Tama	violent_crime_rate	210
+19173	Iowa	Taylor	violent_crime_rate	5
+19175	Iowa	Union	violent_crime_rate	179
+19177	Iowa	Van Buren	violent_crime_rate	118
+19179	Iowa	Wapello	violent_crime_rate	429
+19181	Iowa	Warren	violent_crime_rate	163
+19183	Iowa	Washington	violent_crime_rate	304
+19185	Iowa	Wayne	violent_crime_rate	74
+19187	Iowa	Webster	violent_crime_rate	467
+19189	Iowa	Winnebago	violent_crime_rate	104
+19191	Iowa	Winneshiek	violent_crime_rate	46
+19193	Iowa	Woodbury	violent_crime_rate	342
+19195	Iowa	Worth	violent_crime_rate	31
+19197	Iowa	Wright	violent_crime_rate	114
+20001	Kansas	Allen	violent_crime_rate	359
+20003	Kansas	Anderson	violent_crime_rate	374
+20005	Kansas	Atchison	violent_crime_rate	270
+20007	Kansas	Barber	violent_crime_rate	143
+20009	Kansas	Barton	violent_crime_rate	382
+20011	Kansas	Bourbon	violent_crime_rate	331
+20013	Kansas	Brown	violent_crime_rate	265
+20015	Kansas	Butler	violent_crime_rate	242
+20017	Kansas	Chase	violent_crime_rate	83
+20019	Kansas	Chautauqua	violent_crime_rate	556
+20021	Kansas	Cherokee	violent_crime_rate	234
+20023	Kansas	Cheyenne	violent_crime_rate	85
+20025	Kansas	Clark	violent_crime_rate	79
+20027	Kansas	Clay	violent_crime_rate	276
+20029	Kansas	Cloud	violent_crime_rate	284
+20031	Kansas	Coffey	violent_crime_rate	194
+20033	Kansas	Comanche	violent_crime_rate	
+20035	Kansas	Cowley	violent_crime_rate	398
+20037	Kansas	Crawford	violent_crime_rate	403
+20039	Kansas	Decatur	violent_crime_rate	178
+20041	Kansas	Dickinson	violent_crime_rate	217
+20043	Kansas	Doniphan	violent_crime_rate	281
+20045	Kansas	Douglas	violent_crime_rate	416
+20047	Kansas	Edwards	violent_crime_rate	228
+20049	Kansas	Elk	violent_crime_rate	78
+20051	Kansas	Ellis	violent_crime_rate	269
+20053	Kansas	Ellsworth	violent_crime_rate	216
+20055	Kansas	Finney	violent_crime_rate	456
+20057	Kansas	Ford	violent_crime_rate	499
+20059	Kansas	Franklin	violent_crime_rate	298
+20061	Kansas	Geary	violent_crime_rate	545
+20063	Kansas	Gove	violent_crime_rate	207
+20065	Kansas	Graham	violent_crime_rate	155
+20067	Kansas	Grant	violent_crime_rate	199
+20069	Kansas	Gray	violent_crime_rate	29
+20071	Kansas	Greeley	violent_crime_rate	317
+20073	Kansas	Greenwood	violent_crime_rate	206
+20075	Kansas	Hamilton	violent_crime_rate	
+20077	Kansas	Harper	violent_crime_rate	174
+20079	Kansas	Harvey	violent_crime_rate	345
+20081	Kansas	Haskell	violent_crime_rate	
+20083	Kansas	Hodgeman	violent_crime_rate	189
+20085	Kansas	Jackson	violent_crime_rate	285
+20087	Kansas	Jefferson	violent_crime_rate	175
+20089	Kansas	Jewell	violent_crime_rate	
+20091	Kansas	Johnson	violent_crime_rate	208
+20093	Kansas	Kearny	violent_crime_rate	316
+20095	Kansas	Kingman	violent_crime_rate	154
+20097	Kansas	Kiowa	violent_crime_rate	126
+20099	Kansas	Labette	violent_crime_rate	605
+20101	Kansas	Lane	violent_crime_rate	213
+20103	Kansas	Leavenworth	violent_crime_rate	530
+20105	Kansas	Lincoln	violent_crime_rate	113
+20107	Kansas	Linn	violent_crime_rate	324
+20109	Kansas	Logan	violent_crime_rate	203
+20111	Kansas	Lyon	violent_crime_rate	298
+20113	Kansas	McPherson	violent_crime_rate	176
+20115	Kansas	Marion	violent_crime_rate	154
+20117	Kansas	Marshall	violent_crime_rate	96
+20119	Kansas	Meade	violent_crime_rate	393
+20121	Kansas	Miami	violent_crime_rate	172
+20123	Kansas	Mitchell	violent_crime_rate	272
+20125	Kansas	Montgomery	violent_crime_rate	429
+20127	Kansas	Morris	violent_crime_rate	140
+20129	Kansas	Morton	violent_crime_rate	502
+20131	Kansas	Nemaha	violent_crime_rate	197
+20133	Kansas	Neosho	violent_crime_rate	242
+20135	Kansas	Ness	violent_crime_rate	168
+20137	Kansas	Norton	violent_crime_rate	55
+20139	Kansas	Osage	violent_crime_rate	206
+20141	Kansas	Osborne	violent_crime_rate	192
+20143	Kansas	Ottawa	violent_crime_rate	209
+20145	Kansas	Pawnee	violent_crime_rate	359
+20147	Kansas	Phillips	violent_crime_rate	80
+20149	Kansas	Pottawatomie	violent_crime_rate	203
+20151	Kansas	Pratt	violent_crime_rate	295
+20153	Kansas	Rawlins	violent_crime_rate	80
+20155	Kansas	Reno	violent_crime_rate	485
+20157	Kansas	Republic	violent_crime_rate	110
+20159	Kansas	Rice	violent_crime_rate	186
+20161	Kansas	Riley	violent_crime_rate	305
+20163	Kansas	Rooks	violent_crime_rate	78
+20165	Kansas	Rush	violent_crime_rate	165
+20167	Kansas	Russell	violent_crime_rate	410
+20169	Kansas	Saline	violent_crime_rate	370
+20171	Kansas	Scott	violent_crime_rate	265
+20173	Kansas	Sedgwick	violent_crime_rate	696
+20175	Kansas	Seward	violent_crime_rate	465
+20177	Kansas	Shawnee	violent_crime_rate	451
+20179	Kansas	Sheridan	violent_crime_rate	0
+20181	Kansas	Sherman	violent_crime_rate	254
+20183	Kansas	Smith	violent_crime_rate	111
+20185	Kansas	Stafford	violent_crime_rate	250
+20187	Kansas	Stanton	violent_crime_rate	62
+20189	Kansas	Stevens	violent_crime_rate	14
+20191	Kansas	Sumner	violent_crime_rate	280
+20193	Kansas	Thomas	violent_crime_rate	300
+20195	Kansas	Trego	violent_crime_rate	114
+20197	Kansas	Wabaunsee	violent_crime_rate	254
+20199	Kansas	Wallace	violent_crime_rate	0
+20201	Kansas	Washington	violent_crime_rate	58
+20203	Kansas	Wichita	violent_crime_rate	399
+20205	Kansas	Wilson	violent_crime_rate	229
+20207	Kansas	Woodson	violent_crime_rate	285
+20209	Kansas	Wyandotte	violent_crime_rate	601
+21001	Kentucky	Adair	violent_crime_rate	57
+21003	Kentucky	Allen	violent_crime_rate	89
+21005	Kentucky	Anderson	violent_crime_rate	113
+21007	Kentucky	Ballard	violent_crime_rate	149
+21009	Kentucky	Barren	violent_crime_rate	122
+21011	Kentucky	Bath	violent_crime_rate	
+21013	Kentucky	Bell	violent_crime_rate	129
+21015	Kentucky	Boone	violent_crime_rate	214
+21017	Kentucky	Bourbon	violent_crime_rate	167
+21019	Kentucky	Boyd	violent_crime_rate	268
+21021	Kentucky	Boyle	violent_crime_rate	201
+21023	Kentucky	Bracken	violent_crime_rate	53
+21025	Kentucky	Breathitt	violent_crime_rate	
+21027	Kentucky	Breckinridge	violent_crime_rate	56
+21029	Kentucky	Bullitt	violent_crime_rate	130
+21031	Kentucky	Butler	violent_crime_rate	43
+21033	Kentucky	Caldwell	violent_crime_rate	225
+21035	Kentucky	Calloway	violent_crime_rate	142
+21037	Kentucky	Campbell	violent_crime_rate	229
+21039	Kentucky	Carlisle	violent_crime_rate	29
+21041	Kentucky	Carroll	violent_crime_rate	84
+21043	Kentucky	Carter	violent_crime_rate	69
+21045	Kentucky	Casey	violent_crime_rate	72
+21047	Kentucky	Christian	violent_crime_rate	278
+21049	Kentucky	Clark	violent_crime_rate	187
+21051	Kentucky	Clay	violent_crime_rate	61
+21053	Kentucky	Clinton	violent_crime_rate	63
+21055	Kentucky	Crittenden	violent_crime_rate	47
+21057	Kentucky	Cumberland	violent_crime_rate	33
+21059	Kentucky	Daviess	violent_crime_rate	169
+21061	Kentucky	Edmonson	violent_crime_rate	62
+21063	Kentucky	Elliott	violent_crime_rate	
+21065	Kentucky	Estill	violent_crime_rate	86
+21067	Kentucky	Fayette	violent_crime_rate	636
+21069	Kentucky	Fleming	violent_crime_rate	55
+21071	Kentucky	Floyd	violent_crime_rate	54
+21073	Kentucky	Franklin	violent_crime_rate	242
+21075	Kentucky	Fulton	violent_crime_rate	268
+21077	Kentucky	Gallatin	violent_crime_rate	55
+21079	Kentucky	Garrard	violent_crime_rate	54
+21081	Kentucky	Grant	violent_crime_rate	46
+21083	Kentucky	Graves	violent_crime_rate	160
+21085	Kentucky	Grayson	violent_crime_rate	81
+21087	Kentucky	Green	violent_crime_rate	39
+21089	Kentucky	Greenup	violent_crime_rate	91
+21091	Kentucky	Hancock	violent_crime_rate	46
+21093	Kentucky	Hardin	violent_crime_rate	329
+21095	Kentucky	Harlan	violent_crime_rate	120
+21097	Kentucky	Harrison	violent_crime_rate	171
+21099	Kentucky	Hart	violent_crime_rate	63
+21101	Kentucky	Henderson	violent_crime_rate	152
+21103	Kentucky	Henry	violent_crime_rate	59
+21105	Kentucky	Hickman	violent_crime_rate	
+21107	Kentucky	Hopkins	violent_crime_rate	149
+21109	Kentucky	Jackson	violent_crime_rate	31
+21111	Kentucky	Jefferson	violent_crime_rate	607
+21113	Kentucky	Jessamine	violent_crime_rate	193
+21115	Kentucky	Johnson	violent_crime_rate	59
+21117	Kentucky	Kenton	violent_crime_rate	348
+21119	Kentucky	Knott	violent_crime_rate	23
+21121	Kentucky	Knox	violent_crime_rate	90
+21123	Kentucky	Larue	violent_crime_rate	62
+21125	Kentucky	Laurel	violent_crime_rate	79
+21127	Kentucky	Lawrence	violent_crime_rate	70
+21129	Kentucky	Lee	violent_crime_rate	41
+21131	Kentucky	Leslie	violent_crime_rate	
+21133	Kentucky	Letcher	violent_crime_rate	56
+21135	Kentucky	Lewis	violent_crime_rate	75
+21137	Kentucky	Lincoln	violent_crime_rate	68
+21139	Kentucky	Livingston	violent_crime_rate	63
+21141	Kentucky	Logan	violent_crime_rate	182
+21143	Kentucky	Lyon	violent_crime_rate	52
+21145	Kentucky	McCracken	violent_crime_rate	263
+21147	Kentucky	McCreary	violent_crime_rate	60
+21149	Kentucky	McLean	violent_crime_rate	42
+21151	Kentucky	Madison	violent_crime_rate	204
+21153	Kentucky	Magoffin	violent_crime_rate	42
+21155	Kentucky	Marion	violent_crime_rate	133
+21157	Kentucky	Marshall	violent_crime_rate	106
+21159	Kentucky	Martin	violent_crime_rate	53
+21161	Kentucky	Mason	violent_crime_rate	205
+21163	Kentucky	Meade	violent_crime_rate	55
+21165	Kentucky	Menifee	violent_crime_rate	38
+21167	Kentucky	Mercer	violent_crime_rate	125
+21169	Kentucky	Metcalfe	violent_crime_rate	42
+21171	Kentucky	Monroe	violent_crime_rate	
+21173	Kentucky	Montgomery	violent_crime_rate	206
+21175	Kentucky	Morgan	violent_crime_rate	
+21177	Kentucky	Muhlenberg	violent_crime_rate	62
+21179	Kentucky	Nelson	violent_crime_rate	132
+21181	Kentucky	Nicholas	violent_crime_rate	34
+21183	Kentucky	Ohio	violent_crime_rate	74
+21185	Kentucky	Oldham	violent_crime_rate	96
+21187	Kentucky	Owen	violent_crime_rate	38
+21189	Kentucky	Owsley	violent_crime_rate	23
+21191	Kentucky	Pendleton	violent_crime_rate	56
+21193	Kentucky	Perry	violent_crime_rate	102
+21195	Kentucky	Pike	violent_crime_rate	51
+21197	Kentucky	Powell	violent_crime_rate	79
+21199	Kentucky	Pulaski	violent_crime_rate	134
+21201	Kentucky	Robertson	violent_crime_rate	
+21203	Kentucky	Rockcastle	violent_crime_rate	104
+21205	Kentucky	Rowan	violent_crime_rate	121
+21207	Kentucky	Russell	violent_crime_rate	96
+21209	Kentucky	Scott	violent_crime_rate	249
+21211	Kentucky	Shelby	violent_crime_rate	162
+21213	Kentucky	Simpson	violent_crime_rate	207
+21215	Kentucky	Spencer	violent_crime_rate	44
+21217	Kentucky	Taylor	violent_crime_rate	180
+21219	Kentucky	Todd	violent_crime_rate	61
+21221	Kentucky	Trigg	violent_crime_rate	109
+21223	Kentucky	Trimble	violent_crime_rate	22
+21225	Kentucky	Union	violent_crime_rate	89
+21227	Kentucky	Warren	violent_crime_rate	268
+21229	Kentucky	Washington	violent_crime_rate	74
+21231	Kentucky	Wayne	violent_crime_rate	112
+21233	Kentucky	Webster	violent_crime_rate	52
+21235	Kentucky	Whitley	violent_crime_rate	129
+21237	Kentucky	Wolfe	violent_crime_rate	37
+21239	Kentucky	Woodford	violent_crime_rate	155
+22001	Louisiana	Acadia	violent_crime_rate	523
+22003	Louisiana	Allen	violent_crime_rate	182
+22005	Louisiana	Ascension	violent_crime_rate	393
+22007	Louisiana	Assumption	violent_crime_rate	561
+22009	Louisiana	Avoyelles	violent_crime_rate	474
+22011	Louisiana	Beauregard	violent_crime_rate	305
+22013	Louisiana	Bienville	violent_crime_rate	221
+22015	Louisiana	Bossier	violent_crime_rate	827
+22017	Louisiana	Caddo	violent_crime_rate	748
+22019	Louisiana	Calcasieu	violent_crime_rate	682
+22021	Louisiana	Caldwell	violent_crime_rate	431
+22023	Louisiana	Cameron	violent_crime_rate	365
+22025	Louisiana	Catahoula	violent_crime_rate	1987
+22027	Louisiana	Claiborne	violent_crime_rate	860
+22029	Louisiana	Concordia	violent_crime_rate	730
+22031	Louisiana	De Soto	violent_crime_rate	1498
+22033	Louisiana	East Baton Rouge	violent_crime_rate	794
+22035	Louisiana	East Carroll	violent_crime_rate	760
+22037	Louisiana	East Feliciana	violent_crime_rate	226
+22039	Louisiana	Evangeline	violent_crime_rate	328
+22041	Louisiana	Franklin	violent_crime_rate	87
+22043	Louisiana	Grant	violent_crime_rate	100
+22045	Louisiana	Iberia	violent_crime_rate	596
+22047	Louisiana	Iberville	violent_crime_rate	914
+22049	Louisiana	Jackson	violent_crime_rate	66
+22051	Louisiana	Jefferson	violent_crime_rate	598
+22053	Louisiana	Jefferson Davis	violent_crime_rate	470
+22055	Louisiana	Lafayette	violent_crime_rate	794
+22057	Louisiana	Lafourche	violent_crime_rate	226
+22059	Louisiana	La Salle	violent_crime_rate	299
+22061	Louisiana	Lincoln	violent_crime_rate	500
+22063	Louisiana	Livingston	violent_crime_rate	377
+22065	Louisiana	Madison	violent_crime_rate	922
+22067	Louisiana	Morehouse	violent_crime_rate	541
+22069	Louisiana	Natchitoches	violent_crime_rate	746
+22071	Louisiana	Orleans	violent_crime_rate	844
+22073	Louisiana	Ouachita	violent_crime_rate	471
+22075	Louisiana	Plaquemines	violent_crime_rate	215
+22077	Louisiana	Pointe Coupee	violent_crime_rate	316
+22079	Louisiana	Rapides	violent_crime_rate	795
+22081	Louisiana	Red River	violent_crime_rate	584
+22083	Louisiana	Richland	violent_crime_rate	263
+22085	Louisiana	Sabine	violent_crime_rate	236
+22087	Louisiana	St. Bernard	violent_crime_rate	267
+22089	Louisiana	St. Charles	violent_crime_rate	285
+22091	Louisiana	St. Helena	violent_crime_rate	772
+22093	Louisiana	St. James	violent_crime_rate	959
+22095	Louisiana	St. John the Baptist	violent_crime_rate	259
+22097	Louisiana	St. Landry	violent_crime_rate	433
+22099	Louisiana	St. Martin	violent_crime_rate	558
+22101	Louisiana	St. Mary	violent_crime_rate	802
+22103	Louisiana	St. Tammany	violent_crime_rate	242
+22105	Louisiana	Tangipahoa	violent_crime_rate	1285
+22107	Louisiana	Tensas	violent_crime_rate	
+22109	Louisiana	Terrebonne	violent_crime_rate	594
+22111	Louisiana	Union	violent_crime_rate	385
+22113	Louisiana	Vermilion	violent_crime_rate	650
+22115	Louisiana	Vernon	violent_crime_rate	430
+22117	Louisiana	Washington	violent_crime_rate	710
+22119	Louisiana	Webster	violent_crime_rate	264
+22121	Louisiana	West Baton Rouge	violent_crime_rate	455
+22123	Louisiana	West Carroll	violent_crime_rate	549
+22125	Louisiana	West Feliciana	violent_crime_rate	309
+22127	Louisiana	Winn	violent_crime_rate	540
+23001	Maine	Androscoggin	violent_crime_rate	153
+23003	Maine	Aroostook	violent_crime_rate	64
+23005	Maine	Cumberland	violent_crime_rate	165
+23007	Maine	Franklin	violent_crime_rate	130
+23009	Maine	Hancock	violent_crime_rate	74
+23011	Maine	Kennebec	violent_crime_rate	118
+23013	Maine	Knox	violent_crime_rate	49
+23015	Maine	Lincoln	violent_crime_rate	85
+23017	Maine	Oxford	violent_crime_rate	130
+23019	Maine	Penobscot	violent_crime_rate	75
+23021	Maine	Piscataquis	violent_crime_rate	130
+23023	Maine	Sagadahoc	violent_crime_rate	42
+23025	Maine	Somerset	violent_crime_rate	100
+23027	Maine	Waldo	violent_crime_rate	84
+23029	Maine	Washington	violent_crime_rate	279
+23031	Maine	York	violent_crime_rate	110
+24001	Maryland	Allegany	violent_crime_rate	403
+24003	Maryland	Anne Arundel	violent_crime_rate	587
+24005	Maryland	Baltimore	violent_crime_rate	580
+24009	Maryland	Calvert	violent_crime_rate	310
+24011	Maryland	Caroline	violent_crime_rate	378
+24013	Maryland	Carroll	violent_crime_rate	216
+24015	Maryland	Cecil	violent_crime_rate	644
+24017	Maryland	Charles	violent_crime_rate	511
+24019	Maryland	Dorchester	violent_crime_rate	577
+24021	Maryland	Frederick	violent_crime_rate	335
+24023	Maryland	Garrett	violent_crime_rate	210
+24025	Maryland	Harford	violent_crime_rate	358
+24027	Maryland	Howard	violent_crime_rate	240
+24029	Maryland	Kent	violent_crime_rate	420
+24031	Maryland	Montgomery	violent_crime_rate	215
+24033	Maryland	Prince George's	violent_crime_rate	804
+24035	Maryland	Queen Anne's	violent_crime_rate	279
+24037	Maryland	St. Mary's	violent_crime_rate	301
+24039	Maryland	Somerset	violent_crime_rate	356
+24041	Maryland	Talbot	violent_crime_rate	294
+24043	Maryland	Washington	violent_crime_rate	291
+24045	Maryland	Wicomico	violent_crime_rate	924
+24047	Maryland	Worcester	violent_crime_rate	509
+24510	Maryland	Baltimore City	violent_crime_rate	1542
+25001	Massachusetts	Barnstable	violent_crime_rate	466
+25003	Massachusetts	Berkshire	violent_crime_rate	426
+25005	Massachusetts	Bristol	violent_crime_rate	603
+25007	Massachusetts	Dukes	violent_crime_rate	217
+25009	Massachusetts	Essex	violent_crime_rate	353
+25011	Massachusetts	Franklin	violent_crime_rate	358
+25013	Massachusetts	Hampden	violent_crime_rate	697
+25015	Massachusetts	Hampshire	violent_crime_rate	251
+25017	Massachusetts	Middlesex	violent_crime_rate	284
+25019	Massachusetts	Nantucket	violent_crime_rate	471
+25021	Massachusetts	Norfolk	violent_crime_rate	211
+25023	Massachusetts	Plymouth	violent_crime_rate	443
+25025	Massachusetts	Suffolk	violent_crime_rate	1034
+25027	Massachusetts	Worcester	violent_crime_rate	451
+26001	Michigan	Alcona	violent_crime_rate	142
+26003	Michigan	Alger	violent_crime_rate	162
+26005	Michigan	Allegan	violent_crime_rate	262
+26007	Michigan	Alpena	violent_crime_rate	249
+26009	Michigan	Antrim	violent_crime_rate	147
+26011	Michigan	Arenac	violent_crime_rate	208
+26013	Michigan	Baraga	violent_crime_rate	181
+26015	Michigan	Barry	violent_crime_rate	178
+26017	Michigan	Bay	violent_crime_rate	325
+26019	Michigan	Benzie	violent_crime_rate	152
+26021	Michigan	Berrien	violent_crime_rate	389
+26023	Michigan	Branch	violent_crime_rate	202
+26025	Michigan	Calhoun	violent_crime_rate	701
+26027	Michigan	Cass	violent_crime_rate	191
+26029	Michigan	Charlevoix	violent_crime_rate	162
+26031	Michigan	Cheboygan	violent_crime_rate	137
+26033	Michigan	Chippewa	violent_crime_rate	227
+26035	Michigan	Clare	violent_crime_rate	106
+26037	Michigan	Clinton	violent_crime_rate	102
+26039	Michigan	Crawford	violent_crime_rate	312
+26041	Michigan	Delta	violent_crime_rate	142
+26043	Michigan	Dickinson	violent_crime_rate	68
+26045	Michigan	Eaton	violent_crime_rate	195
+26047	Michigan	Emmet	violent_crime_rate	132
+26049	Michigan	Genesee	violent_crime_rate	783
+26051	Michigan	Gladwin	violent_crime_rate	177
+26053	Michigan	Gogebic	violent_crime_rate	
+26055	Michigan	Grand Traverse	violent_crime_rate	176
+26057	Michigan	Gratiot	violent_crime_rate	131
+26059	Michigan	Hillsdale	violent_crime_rate	187
+26061	Michigan	Houghton	violent_crime_rate	89
+26063	Michigan	Huron	violent_crime_rate	113
+26065	Michigan	Ingham	violent_crime_rate	585
+26067	Michigan	Ionia	violent_crime_rate	208
+26069	Michigan	Iosco	violent_crime_rate	236
+26071	Michigan	Iron	violent_crime_rate	208
+26073	Michigan	Isabella	violent_crime_rate	193
+26075	Michigan	Jackson	violent_crime_rate	397
+26077	Michigan	Kalamazoo	violent_crime_rate	466
+26079	Michigan	Kalkaska	violent_crime_rate	345
+26081	Michigan	Kent	violent_crime_rate	456
+26083	Michigan	Keweenaw	violent_crime_rate	93
+26085	Michigan	Lake	violent_crime_rate	349
+26087	Michigan	Lapeer	violent_crime_rate	165
+26089	Michigan	Leelanau	violent_crime_rate	57
+26091	Michigan	Lenawee	violent_crime_rate	235
+26093	Michigan	Livingston	violent_crime_rate	104
+26095	Michigan	Luce	violent_crime_rate	554
+26097	Michigan	Mackinac	violent_crime_rate	211
+26099	Michigan	Macomb	violent_crime_rate	332
+26101	Michigan	Manistee	violent_crime_rate	134
+26103	Michigan	Marquette	violent_crime_rate	137
+26105	Michigan	Mason	violent_crime_rate	292
+26107	Michigan	Mecosta	violent_crime_rate	402
+26109	Michigan	Menominee	violent_crime_rate	157
+26111	Michigan	Midland	violent_crime_rate	157
+26113	Michigan	Missaukee	violent_crime_rate	47
+26115	Michigan	Monroe	violent_crime_rate	248
+26117	Michigan	Montcalm	violent_crime_rate	236
+26119	Michigan	Montmorency	violent_crime_rate	135
+26121	Michigan	Muskegon	violent_crime_rate	449
+26123	Michigan	Newaygo	violent_crime_rate	238
+26125	Michigan	Oakland	violent_crime_rate	289
+26127	Michigan	Oceana	violent_crime_rate	186
+26129	Michigan	Ogemaw	violent_crime_rate	244
+26131	Michigan	Ontonagon	violent_crime_rate	69
+26133	Michigan	Osceola	violent_crime_rate	267
+26135	Michigan	Oscoda	violent_crime_rate	279
+26137	Michigan	Otsego	violent_crime_rate	203
+26139	Michigan	Ottawa	violent_crime_rate	176
+26141	Michigan	Presque Isle	violent_crime_rate	150
+26143	Michigan	Roscommon	violent_crime_rate	200
+26145	Michigan	Saginaw	violent_crime_rate	990
+26147	Michigan	St. Clair	violent_crime_rate	287
+26149	Michigan	St. Joseph	violent_crime_rate	307
+26151	Michigan	Sanilac	violent_crime_rate	231
+26153	Michigan	Schoolcraft	violent_crime_rate	264
+26155	Michigan	Shiawassee	violent_crime_rate	252
+26157	Michigan	Tuscola	violent_crime_rate	161
+26159	Michigan	Van Buren	violent_crime_rate	331
+26161	Michigan	Washtenaw	violent_crime_rate	351
+26163	Michigan	Wayne	violent_crime_rate	1146
+26165	Michigan	Wexford	violent_crime_rate	354
+27001	Minnesota	Aitkin	violent_crime_rate	131
+27003	Minnesota	Anoka	violent_crime_rate	166
+27005	Minnesota	Becker	violent_crime_rate	104
+27007	Minnesota	Beltrami	violent_crime_rate	286
+27009	Minnesota	Benton	violent_crime_rate	143
+27011	Minnesota	Big Stone	violent_crime_rate	46
+27013	Minnesota	Blue Earth	violent_crime_rate	156
+27015	Minnesota	Brown	violent_crime_rate	47
+27017	Minnesota	Carlton	violent_crime_rate	124
+27019	Minnesota	Carver	violent_crime_rate	50
+27021	Minnesota	Cass	violent_crime_rate	171
+27023	Minnesota	Chippewa	violent_crime_rate	156
+27025	Minnesota	Chisago	violent_crime_rate	70
+27027	Minnesota	Clay	violent_crime_rate	98
+27029	Minnesota	Clearwater	violent_crime_rate	350
+27031	Minnesota	Cook	violent_crime_rate	181
+27033	Minnesota	Cottonwood	violent_crime_rate	141
+27035	Minnesota	Crow Wing	violent_crime_rate	162
+27037	Minnesota	Dakota	violent_crime_rate	90
+27039	Minnesota	Dodge	violent_crime_rate	191
+27041	Minnesota	Douglas	violent_crime_rate	85
+27043	Minnesota	Faribault	violent_crime_rate	112
+27045	Minnesota	Fillmore	violent_crime_rate	26
+27047	Minnesota	Freeborn	violent_crime_rate	126
+27049	Minnesota	Goodhue	violent_crime_rate	102
+27051	Minnesota	Grant	violent_crime_rate	106
+27053	Minnesota	Hennepin	violent_crime_rate	490
+27055	Minnesota	Houston	violent_crime_rate	76
+27057	Minnesota	Hubbard	violent_crime_rate	102
+27059	Minnesota	Isanti	violent_crime_rate	65
+27061	Minnesota	Itasca	violent_crime_rate	149
+27063	Minnesota	Jackson	violent_crime_rate	110
+27065	Minnesota	Kanabec	violent_crime_rate	286
+27067	Minnesota	Kandiyohi	violent_crime_rate	179
+27069	Minnesota	Kittson	violent_crime_rate	30
+27071	Minnesota	Koochiching	violent_crime_rate	156
+27073	Minnesota	Lac qui Parle	violent_crime_rate	47
+27075	Minnesota	Lake	violent_crime_rate	119
+27077	Minnesota	Lake of the Woods	violent_crime_rate	92
+27079	Minnesota	Le Sueur	violent_crime_rate	94
+27081	Minnesota	Lincoln	violent_crime_rate	11
+27083	Minnesota	Lyon	violent_crime_rate	181
+27085	Minnesota	McLeod	violent_crime_rate	128
+27087	Minnesota	Mahnomen	violent_crime_rate	331
+27089	Minnesota	Marshall	violent_crime_rate	99
+27091	Minnesota	Martin	violent_crime_rate	78
+27093	Minnesota	Meeker	violent_crime_rate	125
+27095	Minnesota	Mille Lacs	violent_crime_rate	123
+27097	Minnesota	Morrison	violent_crime_rate	79
+27099	Minnesota	Mower	violent_crime_rate	177
+27101	Minnesota	Murray	violent_crime_rate	27
+27103	Minnesota	Nicollet	violent_crime_rate	101
+27105	Minnesota	Nobles	violent_crime_rate	175
+27107	Minnesota	Norman	violent_crime_rate	60
+27109	Minnesota	Olmsted	violent_crime_rate	183
+27111	Minnesota	Otter Tail	violent_crime_rate	71
+27113	Minnesota	Pennington	violent_crime_rate	77
+27115	Minnesota	Pine	violent_crime_rate	134
+27117	Minnesota	Pipestone	violent_crime_rate	21
+27119	Minnesota	Polk	violent_crime_rate	178
+27121	Minnesota	Pope	violent_crime_rate	45
+27123	Minnesota	Ramsey	violent_crime_rate	489
+27125	Minnesota	Red Lake	violent_crime_rate	65
+27127	Minnesota	Redwood	violent_crime_rate	165
+27129	Minnesota	Renville	violent_crime_rate	112
+27131	Minnesota	Rice	violent_crime_rate	143
+27133	Minnesota	Rock	violent_crime_rate	724
+27135	Minnesota	Roseau	violent_crime_rate	85
+27137	Minnesota	St. Louis	violent_crime_rate	240
+27139	Minnesota	Scott	violent_crime_rate	134
+27141	Minnesota	Sherburne	violent_crime_rate	104
+27143	Minnesota	Sibley	violent_crime_rate	
+27145	Minnesota	Stearns	violent_crime_rate	184
+27147	Minnesota	Steele	violent_crime_rate	106
+27149	Minnesota	Stevens	violent_crime_rate	121
+27151	Minnesota	Swift	violent_crime_rate	97
+27153	Minnesota	Todd	violent_crime_rate	76
+27155	Minnesota	Traverse	violent_crime_rate	268
+27157	Minnesota	Wabasha	violent_crime_rate	43
+27159	Minnesota	Wadena	violent_crime_rate	183
+27161	Minnesota	Waseca	violent_crime_rate	108
+27163	Minnesota	Washington	violent_crime_rate	86
+27165	Minnesota	Watonwan	violent_crime_rate	113
+27167	Minnesota	Wilkin	violent_crime_rate	42
+27169	Minnesota	Winona	violent_crime_rate	103
+27171	Minnesota	Wright	violent_crime_rate	74
+27173	Minnesota	Yellow Medicine	violent_crime_rate	113
+28001	Mississippi	Adams	violent_crime_rate	328
+28003	Mississippi	Alcorn	violent_crime_rate	
+28005	Mississippi	Amite	violent_crime_rate	
+28007	Mississippi	Attala	violent_crime_rate	
+28009	Mississippi	Benton	violent_crime_rate	
+28011	Mississippi	Bolivar	violent_crime_rate	260
+28013	Mississippi	Calhoun	violent_crime_rate	
+28015	Mississippi	Carroll	violent_crime_rate	113
+28017	Mississippi	Chickasaw	violent_crime_rate	266
+28019	Mississippi	Choctaw	violent_crime_rate	184
+28021	Mississippi	Claiborne	violent_crime_rate	770
+28023	Mississippi	Clarke	violent_crime_rate	
+28025	Mississippi	Clay	violent_crime_rate	355
+28027	Mississippi	Coahoma	violent_crime_rate	615
+28029	Mississippi	Copiah	violent_crime_rate	
+28031	Mississippi	Covington	violent_crime_rate	
+28033	Mississippi	DeSoto	violent_crime_rate	168
+28035	Mississippi	Forrest	violent_crime_rate	220
+28037	Mississippi	Franklin	violent_crime_rate	238
+28039	Mississippi	George	violent_crime_rate	99
+28041	Mississippi	Greene	violent_crime_rate	68
+28043	Mississippi	Grenada	violent_crime_rate	379
+28045	Mississippi	Hancock	violent_crime_rate	
+28047	Mississippi	Harrison	violent_crime_rate	238
+28049	Mississippi	Hinds	violent_crime_rate	712
+28051	Mississippi	Holmes	violent_crime_rate	
+28053	Mississippi	Humphreys	violent_crime_rate	1400
+28055	Mississippi	Issaquena	violent_crime_rate	
+28057	Mississippi	Itawamba	violent_crime_rate	
+28059	Mississippi	Jackson	violent_crime_rate	316
+28061	Mississippi	Jasper	violent_crime_rate	
+28063	Mississippi	Jefferson	violent_crime_rate	433
+28065	Mississippi	Jefferson Davis	violent_crime_rate	
+28067	Mississippi	Jones	violent_crime_rate	308
+28069	Mississippi	Kemper	violent_crime_rate	83
+28071	Mississippi	Lafayette	violent_crime_rate	
+28073	Mississippi	Lamar	violent_crime_rate	142
+28075	Mississippi	Lauderdale	violent_crime_rate	331
+28077	Mississippi	Lawrence	violent_crime_rate	
+28079	Mississippi	Leake	violent_crime_rate	14
+28081	Mississippi	Lee	violent_crime_rate	193
+28083	Mississippi	Leflore	violent_crime_rate	659
+28085	Mississippi	Lincoln	violent_crime_rate	123
+28087	Mississippi	Lowndes	violent_crime_rate	247
+28089	Mississippi	Madison	violent_crime_rate	164
+28091	Mississippi	Marion	violent_crime_rate	210
+28093	Mississippi	Marshall	violent_crime_rate	459
+28095	Mississippi	Monroe	violent_crime_rate	
+28097	Mississippi	Montgomery	violent_crime_rate	
+28099	Mississippi	Neshoba	violent_crime_rate	
+28101	Mississippi	Newton	violent_crime_rate	
+28103	Mississippi	Noxubee	violent_crime_rate	
+28105	Mississippi	Oktibbeha	violent_crime_rate	220
+28107	Mississippi	Panola	violent_crime_rate	297
+28109	Mississippi	Pearl River	violent_crime_rate	162
+28111	Mississippi	Perry	violent_crime_rate	
+28113	Mississippi	Pike	violent_crime_rate	278
+28115	Mississippi	Pontotoc	violent_crime_rate	12
+28117	Mississippi	Prentiss	violent_crime_rate	
+28119	Mississippi	Quitman	violent_crime_rate	
+28121	Mississippi	Rankin	violent_crime_rate	117
+28123	Mississippi	Scott	violent_crime_rate	233
+28125	Mississippi	Sharkey	violent_crime_rate	72
+28127	Mississippi	Simpson	violent_crime_rate	223
+28129	Mississippi	Smith	violent_crime_rate	
+28131	Mississippi	Stone	violent_crime_rate	
+28133	Mississippi	Sunflower	violent_crime_rate	503
+28135	Mississippi	Tallahatchie	violent_crime_rate	
+28137	Mississippi	Tate	violent_crime_rate	76
+28139	Mississippi	Tippah	violent_crime_rate	110
+28141	Mississippi	Tishomingo	violent_crime_rate	
+28143	Mississippi	Tunica	violent_crime_rate	744
+28145	Mississippi	Union	violent_crime_rate	38
+28147	Mississippi	Walthall	violent_crime_rate	71
+28149	Mississippi	Warren	violent_crime_rate	476
+28151	Mississippi	Washington	violent_crime_rate	287
+28153	Mississippi	Wayne	violent_crime_rate	
+28155	Mississippi	Webster	violent_crime_rate	
+28157	Mississippi	Wilkinson	violent_crime_rate	
+28159	Mississippi	Winston	violent_crime_rate	116
+28161	Mississippi	Yalobusha	violent_crime_rate	
+28163	Mississippi	Yazoo	violent_crime_rate	
+29001	Missouri	Adair	violent_crime_rate	345
+29003	Missouri	Andrew	violent_crime_rate	86
+29005	Missouri	Atchison	violent_crime_rate	79
+29007	Missouri	Audrain	violent_crime_rate	167
+29009	Missouri	Barry	violent_crime_rate	312
+29011	Missouri	Barton	violent_crime_rate	220
+29013	Missouri	Bates	violent_crime_rate	288
+29015	Missouri	Benton	violent_crime_rate	349
+29017	Missouri	Bollinger	violent_crime_rate	107
+29019	Missouri	Boone	violent_crime_rate	393
+29021	Missouri	Buchanan	violent_crime_rate	438
+29023	Missouri	Butler	violent_crime_rate	444
+29025	Missouri	Caldwell	violent_crime_rate	254
+29027	Missouri	Callaway	violent_crime_rate	249
+29029	Missouri	Camden	violent_crime_rate	178
+29031	Missouri	Cape Girardeau	violent_crime_rate	471
+29033	Missouri	Carroll	violent_crime_rate	89
+29035	Missouri	Carter	violent_crime_rate	83
+29037	Missouri	Cass	violent_crime_rate	151
+29039	Missouri	Cedar	violent_crime_rate	213
+29041	Missouri	Chariton	violent_crime_rate	334
+29043	Missouri	Christian	violent_crime_rate	254
+29045	Missouri	Clark	violent_crime_rate	177
+29047	Missouri	Clay	violent_crime_rate	758
+29049	Missouri	Clinton	violent_crime_rate	204
+29051	Missouri	Cole	violent_crime_rate	382
+29053	Missouri	Cooper	violent_crime_rate	151
+29055	Missouri	Crawford	violent_crime_rate	168
+29057	Missouri	Dade	violent_crime_rate	101
+29059	Missouri	Dallas	violent_crime_rate	256
+29061	Missouri	Daviess	violent_crime_rate	95
+29063	Missouri	DeKalb	violent_crime_rate	130
+29065	Missouri	Dent	violent_crime_rate	192
+29067	Missouri	Douglas	violent_crime_rate	340
+29069	Missouri	Dunklin	violent_crime_rate	331
+29071	Missouri	Franklin	violent_crime_rate	210
+29073	Missouri	Gasconade	violent_crime_rate	190
+29075	Missouri	Gentry	violent_crime_rate	32
+29077	Missouri	Greene	violent_crime_rate	517
+29079	Missouri	Grundy	violent_crime_rate	171
+29081	Missouri	Harrison	violent_crime_rate	124
+29083	Missouri	Henry	violent_crime_rate	320
+29085	Missouri	Hickory	violent_crime_rate	29
+29087	Missouri	Holt	violent_crime_rate	143
+29089	Missouri	Howard	violent_crime_rate	97
+29091	Missouri	Howell	violent_crime_rate	308
+29093	Missouri	Iron	violent_crime_rate	204
+29095	Missouri	Jackson	violent_crime_rate	828
+29097	Missouri	Jasper	violent_crime_rate	422
+29099	Missouri	Jefferson	violent_crime_rate	275
+29101	Missouri	Johnson	violent_crime_rate	158
+29103	Missouri	Knox	violent_crime_rate	148
+29105	Missouri	Laclede	violent_crime_rate	513
+29107	Missouri	Lafayette	violent_crime_rate	136
+29109	Missouri	Lawrence	violent_crime_rate	341
+29111	Missouri	Lewis	violent_crime_rate	130
+29113	Missouri	Lincoln	violent_crime_rate	205
+29115	Missouri	Linn	violent_crime_rate	201
+29117	Missouri	Livingston	violent_crime_rate	208
+29119	Missouri	McDonald	violent_crime_rate	379
+29121	Missouri	Macon	violent_crime_rate	201
+29123	Missouri	Madison	violent_crime_rate	209
+29125	Missouri	Maries	violent_crime_rate	112
+29127	Missouri	Marion	violent_crime_rate	407
+29129	Missouri	Mercer	violent_crime_rate	158
+29131	Missouri	Miller	violent_crime_rate	379
+29133	Missouri	Mississippi	violent_crime_rate	469
+29135	Missouri	Moniteau	violent_crime_rate	150
+29137	Missouri	Monroe	violent_crime_rate	337
+29139	Missouri	Montgomery	violent_crime_rate	139
+29141	Missouri	Morgan	violent_crime_rate	288
+29143	Missouri	New Madrid	violent_crime_rate	291
+29145	Missouri	Newton	violent_crime_rate	268
+29147	Missouri	Nodaway	violent_crime_rate	179
+29149	Missouri	Oregon	violent_crime_rate	236
+29151	Missouri	Osage	violent_crime_rate	106
+29153	Missouri	Ozark	violent_crime_rate	288
+29155	Missouri	Pemiscot	violent_crime_rate	668
+29157	Missouri	Perry	violent_crime_rate	147
+29159	Missouri	Pettis	violent_crime_rate	475
+29161	Missouri	Phelps	violent_crime_rate	317
+29163	Missouri	Pike	violent_crime_rate	189
+29165	Missouri	Platte	violent_crime_rate	615
+29167	Missouri	Polk	violent_crime_rate	427
+29169	Missouri	Pulaski	violent_crime_rate	362
+29171	Missouri	Putnam	violent_crime_rate	41
+29173	Missouri	Ralls	violent_crime_rate	204
+29175	Missouri	Randolph	violent_crime_rate	143
+29177	Missouri	Ray	violent_crime_rate	184
+29179	Missouri	Reynolds	violent_crime_rate	216
+29181	Missouri	Ripley	violent_crime_rate	182
+29183	Missouri	St. Charles	violent_crime_rate	167
+29185	Missouri	St. Clair	violent_crime_rate	179
+29186	Missouri	Ste. Genevieve	violent_crime_rate	242
+29187	Missouri	St. Francois	violent_crime_rate	249
+29189	Missouri	St. Louis	violent_crime_rate	336
+29195	Missouri	Saline	violent_crime_rate	178
+29197	Missouri	Schuyler	violent_crime_rate	79
+29199	Missouri	Scotland	violent_crime_rate	160
+29201	Missouri	Scott	violent_crime_rate	735
+29203	Missouri	Shannon	violent_crime_rate	202
+29205	Missouri	Shelby	violent_crime_rate	68
+29207	Missouri	Stoddard	violent_crime_rate	196
+29209	Missouri	Stone	violent_crime_rate	362
+29211	Missouri	Sullivan	violent_crime_rate	236
+29213	Missouri	Taney	violent_crime_rate	575
+29215	Missouri	Texas	violent_crime_rate	104
+29217	Missouri	Vernon	violent_crime_rate	405
+29219	Missouri	Warren	violent_crime_rate	295
+29221	Missouri	Washington	violent_crime_rate	167
+29223	Missouri	Wayne	violent_crime_rate	140
+29225	Missouri	Webster	violent_crime_rate	131
+29227	Missouri	Worth	violent_crime_rate	256
+29229	Missouri	Wright	violent_crime_rate	256
+29510	Missouri	St. Louis City	violent_crime_rate	2062
+30001	Montana	Beaverhead	violent_crime_rate	227
+30003	Montana	Big Horn	violent_crime_rate	329
+30005	Montana	Blaine	violent_crime_rate	106
+30007	Montana	Broadwater	violent_crime_rate	227
+30009	Montana	Carbon	violent_crime_rate	234
+30011	Montana	Carter	violent_crime_rate	55
+30013	Montana	Cascade	violent_crime_rate	246
+30015	Montana	Chouteau	violent_crime_rate	136
+30017	Montana	Custer	violent_crime_rate	150
+30019	Montana	Daniels	violent_crime_rate	209
+30021	Montana	Dawson	violent_crime_rate	139
+30023	Montana	Deer Lodge	violent_crime_rate	379
+30025	Montana	Fallon	violent_crime_rate	85
+30027	Montana	Fergus	violent_crime_rate	175
+30029	Montana	Flathead	violent_crime_rate	332
+30031	Montana	Gallatin	violent_crime_rate	184
+30033	Montana	Garfield	violent_crime_rate	28
+30035	Montana	Glacier	violent_crime_rate	259
+30037	Montana	Golden Valley	violent_crime_rate	
+30039	Montana	Granite	violent_crime_rate	80
+30041	Montana	Hill	violent_crime_rate	556
+30043	Montana	Jefferson	violent_crime_rate	164
+30045	Montana	Judith Basin	violent_crime_rate	49
+30047	Montana	Lake	violent_crime_rate	411
+30049	Montana	Lewis and Clark	violent_crime_rate	257
+30051	Montana	Liberty	violent_crime_rate	
+30053	Montana	Lincoln	violent_crime_rate	217
+30055	Montana	McCone	violent_crime_rate	59
+30057	Montana	Madison	violent_crime_rate	101
+30059	Montana	Meagher	violent_crime_rate	124
+30061	Montana	Mineral	violent_crime_rate	225
+30063	Montana	Missoula	violent_crime_rate	281
+30065	Montana	Musselshell	violent_crime_rate	332
+30067	Montana	Park	violent_crime_rate	256
+30069	Montana	Petroleum	violent_crime_rate	
+30071	Montana	Phillips	violent_crime_rate	250
+30073	Montana	Pondera	violent_crime_rate	151
+30075	Montana	Powder River	violent_crime_rate	
+30077	Montana	Powell	violent_crime_rate	283
+30079	Montana	Prairie	violent_crime_rate	31
+30081	Montana	Ravalli	violent_crime_rate	218
+30083	Montana	Richland	violent_crime_rate	90
+30085	Montana	Roosevelt	violent_crime_rate	308
+30087	Montana	Rosebud	violent_crime_rate	243
+30089	Montana	Sanders	violent_crime_rate	332
+30091	Montana	Sheridan	violent_crime_rate	233
+30093	Montana	Silver Bow	violent_crime_rate	401
+30095	Montana	Stillwater	violent_crime_rate	143
+30097	Montana	Sweet Grass	violent_crime_rate	301
+30099	Montana	Teton	violent_crime_rate	78
+30101	Montana	Toole	violent_crime_rate	366
+30103	Montana	Treasure	violent_crime_rate	
+30105	Montana	Valley	violent_crime_rate	124
+30107	Montana	Wheatland	violent_crime_rate	
+30109	Montana	Wibaux	violent_crime_rate	0
+30111	Montana	Yellowstone	violent_crime_rate	231
+31001	Nebraska	Adams	violent_crime_rate	147
+31003	Nebraska	Antelope	violent_crime_rate	19
+31005	Nebraska	Arthur	violent_crime_rate	0
+31007	Nebraska	Banner	violent_crime_rate	
+31009	Nebraska	Blaine	violent_crime_rate	
+31011	Nebraska	Boone	violent_crime_rate	
+31013	Nebraska	Box Butte	violent_crime_rate	226
+31015	Nebraska	Boyd	violent_crime_rate	48
+31017	Nebraska	Brown	violent_crime_rate	53
+31019	Nebraska	Buffalo	violent_crime_rate	171
+31021	Nebraska	Burt	violent_crime_rate	115
+31023	Nebraska	Butler	violent_crime_rate	102
+31025	Nebraska	Cass	violent_crime_rate	55
+31027	Nebraska	Cedar	violent_crime_rate	23
+31029	Nebraska	Chase	violent_crime_rate	143
+31031	Nebraska	Cherry	violent_crime_rate	224
+31033	Nebraska	Cheyenne	violent_crime_rate	53
+31035	Nebraska	Clay	violent_crime_rate	
+31037	Nebraska	Colfax	violent_crime_rate	
+31039	Nebraska	Cuming	violent_crime_rate	14
+31041	Nebraska	Custer	violent_crime_rate	111
+31043	Nebraska	Dakota	violent_crime_rate	109
+31045	Nebraska	Dawes	violent_crime_rate	199
+31047	Nebraska	Dawson	violent_crime_rate	177
+31049	Nebraska	Deuel	violent_crime_rate	0
+31051	Nebraska	Dixon	violent_crime_rate	86
+31053	Nebraska	Dodge	violent_crime_rate	153
+31055	Nebraska	Douglas	violent_crime_rate	514
+31057	Nebraska	Dundy	violent_crime_rate	
+31059	Nebraska	Fillmore	violent_crime_rate	
+31061	Nebraska	Franklin	violent_crime_rate	11
+31063	Nebraska	Frontier	violent_crime_rate	0
+31065	Nebraska	Furnas	violent_crime_rate	43
+31067	Nebraska	Gage	violent_crime_rate	239
+31069	Nebraska	Garden	violent_crime_rate	
+31071	Nebraska	Garfield	violent_crime_rate	
+31073	Nebraska	Gosper	violent_crime_rate	26
+31075	Nebraska	Grant	violent_crime_rate	
+31077	Nebraska	Greeley	violent_crime_rate	
+31079	Nebraska	Hall	violent_crime_rate	362
+31081	Nebraska	Hamilton	violent_crime_rate	61
+31083	Nebraska	Harlan	violent_crime_rate	60
+31085	Nebraska	Hayes	violent_crime_rate	
+31087	Nebraska	Hitchcock	violent_crime_rate	82
+31089	Nebraska	Holt	violent_crime_rate	
+31091	Nebraska	Hooker	violent_crime_rate	0
+31093	Nebraska	Howard	violent_crime_rate	
+31095	Nebraska	Jefferson	violent_crime_rate	28
+31097	Nebraska	Johnson	violent_crime_rate	19
+31099	Nebraska	Kearney	violent_crime_rate	82
+31101	Nebraska	Keith	violent_crime_rate	83
+31103	Nebraska	Keya Paha	violent_crime_rate	40
+31105	Nebraska	Kimball	violent_crime_rate	
+31107	Nebraska	Knox	violent_crime_rate	8
+31109	Nebraska	Lancaster	violent_crime_rate	448
+31111	Nebraska	Lincoln	violent_crime_rate	171
+31113	Nebraska	Logan	violent_crime_rate	
+31115	Nebraska	Loup	violent_crime_rate	
+31117	Nebraska	McPherson	violent_crime_rate	
+31119	Nebraska	Madison	violent_crime_rate	136
+31121	Nebraska	Merrick	violent_crime_rate	143
+31123	Nebraska	Morrill	violent_crime_rate	67
+31125	Nebraska	Nance	violent_crime_rate	65
+31127	Nebraska	Nemaha	violent_crime_rate	80
+31129	Nebraska	Nuckolls	violent_crime_rate	44
+31131	Nebraska	Otoe	violent_crime_rate	70
+31133	Nebraska	Pawnee	violent_crime_rate	63
+31135	Nebraska	Perkins	violent_crime_rate	23
+31137	Nebraska	Phelps	violent_crime_rate	69
+31139	Nebraska	Pierce	violent_crime_rate	63
+31141	Nebraska	Platte	violent_crime_rate	104
+31143	Nebraska	Polk	violent_crime_rate	19
+31145	Nebraska	Red Willow	violent_crime_rate	80
+31147	Nebraska	Richardson	violent_crime_rate	69
+31149	Nebraska	Rock	violent_crime_rate	0
+31151	Nebraska	Saline	violent_crime_rate	158
+31153	Nebraska	Sarpy	violent_crime_rate	80
+31155	Nebraska	Saunders	violent_crime_rate	69
+31157	Nebraska	Scotts Bluff	violent_crime_rate	178
+31159	Nebraska	Seward	violent_crime_rate	35
+31161	Nebraska	Sheridan	violent_crime_rate	286
+31163	Nebraska	Sherman	violent_crime_rate	55
+31165	Nebraska	Sioux	violent_crime_rate	75
+31167	Nebraska	Stanton	violent_crime_rate	32
+31169	Nebraska	Thayer	violent_crime_rate	46
+31171	Nebraska	Thomas	violent_crime_rate	
+31173	Nebraska	Thurston	violent_crime_rate	1712
+31175	Nebraska	Valley	violent_crime_rate	
+31177	Nebraska	Washington	violent_crime_rate	37
+31179	Nebraska	Wayne	violent_crime_rate	78
+31181	Nebraska	Webster	violent_crime_rate	111
+31183	Nebraska	Wheeler	violent_crime_rate	83
+31185	Nebraska	York	violent_crime_rate	36
+32001	Nevada	Churchill	violent_crime_rate	233
+32003	Nevada	Clark	violent_crime_rate	812
+32005	Nevada	Douglas	violent_crime_rate	168
+32007	Nevada	Elko	violent_crime_rate	277
+32009	Nevada	Esmeralda	violent_crime_rate	432
+32011	Nevada	Eureka	violent_crime_rate	449
+32013	Nevada	Humboldt	violent_crime_rate	429
+32015	Nevada	Lander	violent_crime_rate	733
+32017	Nevada	Lincoln	violent_crime_rate	100
+32019	Nevada	Lyon	violent_crime_rate	202
+32021	Nevada	Mineral	violent_crime_rate	492
+32023	Nevada	Nye	violent_crime_rate	472
+32027	Nevada	Pershing	violent_crime_rate	626
+32029	Nevada	Storey	violent_crime_rate	190
+32031	Nevada	Washoe	violent_crime_rate	493
+32033	Nevada	White Pine	violent_crime_rate	238
+32510	Nevada	Carson City	violent_crime_rate	349
+33001	New Hampshire	Belknap	violent_crime_rate	202
+33003	New Hampshire	Carroll	violent_crime_rate	143
+33005	New Hampshire	Cheshire	violent_crime_rate	164
+33007	New Hampshire	Coos	violent_crime_rate	128
+33009	New Hampshire	Grafton	violent_crime_rate	156
+33011	New Hampshire	Hillsborough	violent_crime_rate	226
+33013	New Hampshire	Merrimack	violent_crime_rate	129
+33015	New Hampshire	Rockingham	violent_crime_rate	119
+33017	New Hampshire	Strafford	violent_crime_rate	168
+33019	New Hampshire	Sullivan	violent_crime_rate	147
+34001	New Jersey	Atlantic	violent_crime_rate	519
+34003	New Jersey	Bergen	violent_crime_rate	106
+34005	New Jersey	Burlington	violent_crime_rate	154
+34007	New Jersey	Camden	violent_crime_rate	607
+34009	New Jersey	Cape May	violent_crime_rate	286
+34011	New Jersey	Cumberland	violent_crime_rate	564
+34013	New Jersey	Essex	violent_crime_rate	678
+34015	New Jersey	Gloucester	violent_crime_rate	208
+34017	New Jersey	Hudson	violent_crime_rate	513
+34019	New Jersey	Hunterdon	violent_crime_rate	54
+34021	New Jersey	Mercer	violent_crime_rate	439
+34023	New Jersey	Middlesex	violent_crime_rate	189
+34025	New Jersey	Monmouth	violent_crime_rate	207
+34027	New Jersey	Morris	violent_crime_rate	79
+34029	New Jersey	Ocean	violent_crime_rate	129
+34031	New Jersey	Passaic	violent_crime_rate	498
+34033	New Jersey	Salem	violent_crime_rate	263
+34035	New Jersey	Somerset	violent_crime_rate	83
+34037	New Jersey	Sussex	violent_crime_rate	62
+34039	New Jersey	Union	violent_crime_rate	455
+34041	New Jersey	Warren	violent_crime_rate	115
+35001	New Mexico	Bernalillo	violent_crime_rate	813
+35003	New Mexico	Catron	violent_crime_rate	42
+35005	New Mexico	Chaves	violent_crime_rate	675
+35006	New Mexico	Cibola	violent_crime_rate	475
+35007	New Mexico	Colfax	violent_crime_rate	516
+35009	New Mexico	Curry	violent_crime_rate	607
+35011	New Mexico	De Baca	violent_crime_rate	
+35013	New Mexico	Dona Ana	violent_crime_rate	403
+35015	New Mexico	Eddy	violent_crime_rate	582
+35017	New Mexico	Grant	violent_crime_rate	382
+35019	New Mexico	Guadalupe	violent_crime_rate	1042
+35021	New Mexico	Harding	violent_crime_rate	
+35023	New Mexico	Hidalgo	violent_crime_rate	164
+35025	New Mexico	Lea	violent_crime_rate	560
+35027	New Mexico	Lincoln	violent_crime_rate	475
+35028	New Mexico	Los Alamos	violent_crime_rate	307
+35029	New Mexico	Luna	violent_crime_rate	471
+35031	New Mexico	McKinley	violent_crime_rate	626
+35033	New Mexico	Mora	violent_crime_rate	49
+35035	New Mexico	Otero	violent_crime_rate	415
+35037	New Mexico	Quay	violent_crime_rate	738
+35039	New Mexico	Rio Arriba	violent_crime_rate	432
+35041	New Mexico	Roosevelt	violent_crime_rate	523
+35043	New Mexico	Sandoval	violent_crime_rate	313
+35045	New Mexico	San Juan	violent_crime_rate	708
+35047	New Mexico	San Miguel	violent_crime_rate	
+35049	New Mexico	Santa Fe	violent_crime_rate	398
+35051	New Mexico	Sierra	violent_crime_rate	438
+35053	New Mexico	Socorro	violent_crime_rate	531
+35055	New Mexico	Taos	violent_crime_rate	526
+35057	New Mexico	Torrance	violent_crime_rate	136
+35059	New Mexico	Union	violent_crime_rate	97
+35061	New Mexico	Valencia	violent_crime_rate	558
+36001	New York	Albany	violent_crime_rate	422
+36003	New York	Allegany	violent_crime_rate	214
+36005	New York	Bronx	violent_crime_rate	576
+36007	New York	Broome	violent_crime_rate	254
+36009	New York	Cattaraugus	violent_crime_rate	245
+36011	New York	Cayuga	violent_crime_rate	205
+36013	New York	Chautauqua	violent_crime_rate	221
+36015	New York	Chemung	violent_crime_rate	215
+36017	New York	Chenango	violent_crime_rate	100
+36019	New York	Clinton	violent_crime_rate	148
+36021	New York	Columbia	violent_crime_rate	175
+36023	New York	Cortland	violent_crime_rate	194
+36025	New York	Delaware	violent_crime_rate	149
+36027	New York	Dutchess	violent_crime_rate	295
+36029	New York	Erie	violent_crime_rate	519
+36031	New York	Essex	violent_crime_rate	139
+36033	New York	Franklin	violent_crime_rate	137
+36035	New York	Fulton	violent_crime_rate	202
+36037	New York	Genesee	violent_crime_rate	178
+36039	New York	Greene	violent_crime_rate	205
+36041	New York	Hamilton	violent_crime_rate	88
+36043	New York	Herkimer	violent_crime_rate	302
+36045	New York	Jefferson	violent_crime_rate	187
+36047	New York	Kings	violent_crime_rate	567
+36049	New York	Lewis	violent_crime_rate	103
+36051	New York	Livingston	violent_crime_rate	100
+36053	New York	Madison	violent_crime_rate	81
+36055	New York	Monroe	violent_crime_rate	379
+36057	New York	Montgomery	violent_crime_rate	239
+36059	New York	Nassau	violent_crime_rate	175
+36061	New York	New York	violent_crime_rate	577
+36063	New York	Niagara	violent_crime_rate	378
+36065	New York	Oneida	violent_crime_rate	269
+36067	New York	Onondaga	violent_crime_rate	364
+36069	New York	Ontario	violent_crime_rate	118
+36071	New York	Orange	violent_crime_rate	266
+36073	New York	Orleans	violent_crime_rate	176
+36075	New York	Oswego	violent_crime_rate	151
+36077	New York	Otsego	violent_crime_rate	189
+36079	New York	Putnam	violent_crime_rate	79
+36081	New York	Queens	violent_crime_rate	568
+36083	New York	Rensselaer	violent_crime_rate	343
+36085	New York	Richmond	violent_crime_rate	553
+36087	New York	Rockland	violent_crime_rate	161
+36089	New York	St. Lawrence	violent_crime_rate	172
+36091	New York	Saratoga	violent_crime_rate	72
+36093	New York	Schenectady	violent_crime_rate	467
+36095	New York	Schoharie	violent_crime_rate	68
+36097	New York	Schuyler	violent_crime_rate	77
+36099	New York	Seneca	violent_crime_rate	142
+36101	New York	Steuben	violent_crime_rate	159
+36103	New York	Suffolk	violent_crime_rate	169
+36105	New York	Sullivan	violent_crime_rate	260
+36107	New York	Tioga	violent_crime_rate	67
+36109	New York	Tompkins	violent_crime_rate	150
+36111	New York	Ulster	violent_crime_rate	240
+36113	New York	Warren	violent_crime_rate	143
+36115	New York	Washington	violent_crime_rate	141
+36117	New York	Wayne	violent_crime_rate	178
+36119	New York	Westchester	violent_crime_rate	256
+36121	New York	Wyoming	violent_crime_rate	105
+36123	New York	Yates	violent_crime_rate	59
+37001	North Carolina	Alamance	violent_crime_rate	443
+37003	North Carolina	Alexander	violent_crime_rate	186
+37005	North Carolina	Alleghany	violent_crime_rate	36
+37007	North Carolina	Anson	violent_crime_rate	527
+37009	North Carolina	Ashe	violent_crime_rate	136
+37011	North Carolina	Avery	violent_crime_rate	108
+37013	North Carolina	Beaufort	violent_crime_rate	477
+37015	North Carolina	Bertie	violent_crime_rate	173
+37017	North Carolina	Bladen	violent_crime_rate	496
+37019	North Carolina	Brunswick	violent_crime_rate	232
+37021	North Carolina	Buncombe	violent_crime_rate	293
+37023	North Carolina	Burke	violent_crime_rate	168
+37025	North Carolina	Cabarrus	violent_crime_rate	189
+37027	North Carolina	Caldwell	violent_crime_rate	177
+37029	North Carolina	Camden	violent_crime_rate	70
+37031	North Carolina	Carteret	violent_crime_rate	322
+37033	North Carolina	Caswell	violent_crime_rate	211
+37035	North Carolina	Catawba	violent_crime_rate	362
+37037	North Carolina	Chatham	violent_crime_rate	186
+37039	North Carolina	Cherokee	violent_crime_rate	188
+37041	North Carolina	Chowan	violent_crime_rate	349
+37043	North Carolina	Clay	violent_crime_rate	142
+37045	North Carolina	Cleveland	violent_crime_rate	221
+37047	North Carolina	Columbus	violent_crime_rate	523
+37049	North Carolina	Craven	violent_crime_rate	303
+37051	North Carolina	Cumberland	violent_crime_rate	647
+37053	North Carolina	Currituck	violent_crime_rate	192
+37055	North Carolina	Dare	violent_crime_rate	318
+37057	North Carolina	Davidson	violent_crime_rate	260
+37059	North Carolina	Davie	violent_crime_rate	193
+37061	North Carolina	Duplin	violent_crime_rate	306
+37063	North Carolina	Durham	violent_crime_rate	664
+37065	North Carolina	Edgecombe	violent_crime_rate	674
+37067	North Carolina	Forsyth	violent_crime_rate	625
+37069	North Carolina	Franklin	violent_crime_rate	143
+37071	North Carolina	Gaston	violent_crime_rate	516
+37073	North Carolina	Gates	violent_crime_rate	75
+37075	North Carolina	Graham	violent_crime_rate	
+37077	North Carolina	Granville	violent_crime_rate	385
+37079	North Carolina	Greene	violent_crime_rate	264
+37081	North Carolina	Guilford	violent_crime_rate	566
+37083	North Carolina	Halifax	violent_crime_rate	609
+37085	North Carolina	Harnett	violent_crime_rate	344
+37087	North Carolina	Haywood	violent_crime_rate	272
+37089	North Carolina	Henderson	violent_crime_rate	161
+37091	North Carolina	Hertford	violent_crime_rate	338
+37093	North Carolina	Hoke	violent_crime_rate	151
+37095	North Carolina	Hyde	violent_crime_rate	
+37097	North Carolina	Iredell	violent_crime_rate	304
+37099	North Carolina	Jackson	violent_crime_rate	399
+37101	North Carolina	Johnston	violent_crime_rate	249
+37103	North Carolina	Jones	violent_crime_rate	
+37105	North Carolina	Lee	violent_crime_rate	247
+37107	North Carolina	Lenoir	violent_crime_rate	732
+37109	North Carolina	Lincoln	violent_crime_rate	158
+37111	North Carolina	McDowell	violent_crime_rate	165
+37113	North Carolina	Macon	violent_crime_rate	119
+37115	North Carolina	Madison	violent_crime_rate	49
+37117	North Carolina	Martin	violent_crime_rate	572
+37119	North Carolina	Mecklenburg	violent_crime_rate	679
+37121	North Carolina	Mitchell	violent_crime_rate	
+37123	North Carolina	Montgomery	violent_crime_rate	264
+37125	North Carolina	Moore	violent_crime_rate	255
+37127	North Carolina	Nash	violent_crime_rate	619
+37129	North Carolina	New Hanover	violent_crime_rate	501
+37131	North Carolina	Northampton	violent_crime_rate	363
+37133	North Carolina	Onslow	violent_crime_rate	325
+37135	North Carolina	Orange	violent_crime_rate	211
+37137	North Carolina	Pamlico	violent_crime_rate	196
+37139	North Carolina	Pasquotank	violent_crime_rate	487
+37141	North Carolina	Pender	violent_crime_rate	287
+37143	North Carolina	Perquimans	violent_crime_rate	123
+37145	North Carolina	Person	violent_crime_rate	370
+37147	North Carolina	Pitt	violent_crime_rate	637
+37149	North Carolina	Polk	violent_crime_rate	156
+37151	North Carolina	Randolph	violent_crime_rate	166
+37153	North Carolina	Richmond	violent_crime_rate	544
+37155	North Carolina	Robeson	violent_crime_rate	924
+37157	North Carolina	Rockingham	violent_crime_rate	352
+37159	North Carolina	Rowan	violent_crime_rate	376
+37161	North Carolina	Rutherford	violent_crime_rate	280
+37163	North Carolina	Sampson	violent_crime_rate	292
+37165	North Carolina	Scotland	violent_crime_rate	530
+37167	North Carolina	Stanly	violent_crime_rate	251
+37169	North Carolina	Stokes	violent_crime_rate	305
+37171	North Carolina	Surry	violent_crime_rate	259
+37173	North Carolina	Swain	violent_crime_rate	610
+37175	North Carolina	Transylvania	violent_crime_rate	190
+37177	North Carolina	Tyrrell	violent_crime_rate	150
+37179	North Carolina	Union	violent_crime_rate	212
+37181	North Carolina	Vance	violent_crime_rate	621
+37183	North Carolina	Wake	violent_crime_rate	301
+37185	North Carolina	Warren	violent_crime_rate	251
+37187	North Carolina	Washington	violent_crime_rate	923
+37189	North Carolina	Watauga	violent_crime_rate	114
+37191	North Carolina	Wayne	violent_crime_rate	477
+37193	North Carolina	Wilkes	violent_crime_rate	261
+37195	North Carolina	Wilson	violent_crime_rate	466
+37197	North Carolina	Yadkin	violent_crime_rate	269
+37199	North Carolina	Yancey	violent_crime_rate	107
+38001	North Dakota	Adams	violent_crime_rate	103
+38003	North Dakota	Barnes	violent_crime_rate	59
+38005	North Dakota	Benson	violent_crime_rate	60
+38007	North Dakota	Billings	violent_crime_rate	128
+38009	North Dakota	Bottineau	violent_crime_rate	0
+38011	North Dakota	Bowman	violent_crime_rate	
+38013	North Dakota	Burke	violent_crime_rate	79
+38015	North Dakota	Burleigh	violent_crime_rate	234
+38017	North Dakota	Cass	violent_crime_rate	246
+38019	North Dakota	Cavalier	violent_crime_rate	43
+38021	North Dakota	Dickey	violent_crime_rate	57
+38023	North Dakota	Divide	violent_crime_rate	
+38025	North Dakota	Dunn	violent_crime_rate	
+38027	North Dakota	Eddy	violent_crime_rate	56
+38029	North Dakota	Emmons	violent_crime_rate	14
+38031	North Dakota	Foster	violent_crime_rate	0
+38033	North Dakota	Golden Valley	violent_crime_rate	0
+38035	North Dakota	Grand Forks	violent_crime_rate	224
+38037	North Dakota	Grant	violent_crime_rate	0
+38039	North Dakota	Griggs	violent_crime_rate	42
+38041	North Dakota	Hettinger	violent_crime_rate	0
+38043	North Dakota	Kidder	violent_crime_rate	43
+38045	North Dakota	LaMoure	violent_crime_rate	52
+38047	North Dakota	Logan	violent_crime_rate	0
+38049	North Dakota	McHenry	violent_crime_rate	19
+38051	North Dakota	McIntosh	violent_crime_rate	75
+38053	North Dakota	McKenzie	violent_crime_rate	17
+38055	North Dakota	McLean	violent_crime_rate	102
+38057	North Dakota	Mercer	violent_crime_rate	115
+38059	North Dakota	Morton	violent_crime_rate	174
+38061	North Dakota	Mountrail	violent_crime_rate	43
+38063	North Dakota	Nelson	violent_crime_rate	106
+38065	North Dakota	Oliver	violent_crime_rate	19
+38067	North Dakota	Pembina	violent_crime_rate	63
+38069	North Dakota	Pierce	violent_crime_rate	64
+38071	North Dakota	Ramsey	violent_crime_rate	222
+38073	North Dakota	Ransom	violent_crime_rate	119
+38075	North Dakota	Renville	violent_crime_rate	14
+38077	North Dakota	Richland	violent_crime_rate	118
+38079	North Dakota	Rolette	violent_crime_rate	37
+38081	North Dakota	Sargent	violent_crime_rate	33
+38083	North Dakota	Sheridan	violent_crime_rate	52
+38085	North Dakota	Sioux	violent_crime_rate	0
+38087	North Dakota	Slope	violent_crime_rate	0
+38089	North Dakota	Stark	violent_crime_rate	170
+38091	North Dakota	Steele	violent_crime_rate	
+38093	North Dakota	Stutsman	violent_crime_rate	196
+38095	North Dakota	Towner	violent_crime_rate	0
+38097	North Dakota	Traill	violent_crime_rate	25
+38099	North Dakota	Walsh	violent_crime_rate	88
+38101	North Dakota	Ward	violent_crime_rate	200
+38103	North Dakota	Wells	violent_crime_rate	152
+38105	North Dakota	Williams	violent_crime_rate	219
+39001	Ohio	Adams	violent_crime_rate	51
+39003	Ohio	Allen	violent_crime_rate	517
+39005	Ohio	Ashland	violent_crime_rate	56
+39007	Ohio	Ashtabula	violent_crime_rate	
+39009	Ohio	Athens	violent_crime_rate	97
+39011	Ohio	Auglaize	violent_crime_rate	40
+39013	Ohio	Belmont	violent_crime_rate	91
+39015	Ohio	Brown	violent_crime_rate	48
+39017	Ohio	Butler	violent_crime_rate	358
+39019	Ohio	Carroll	violent_crime_rate	85
+39021	Ohio	Champaign	violent_crime_rate	126
+39023	Ohio	Clark	violent_crime_rate	326
+39025	Ohio	Clermont	violent_crime_rate	104
+39027	Ohio	Clinton	violent_crime_rate	91
+39029	Ohio	Columbiana	violent_crime_rate	52
+39031	Ohio	Coshocton	violent_crime_rate	61
+39033	Ohio	Crawford	violent_crime_rate	127
+39035	Ohio	Cuyahoga	violent_crime_rate	616
+39037	Ohio	Darke	violent_crime_rate	167
+39039	Ohio	Defiance	violent_crime_rate	98
+39041	Ohio	Delaware	violent_crime_rate	94
+39043	Ohio	Erie	violent_crime_rate	290
+39045	Ohio	Fairfield	violent_crime_rate	158
+39047	Ohio	Fayette	violent_crime_rate	152
+39049	Ohio	Franklin	violent_crime_rate	537
+39051	Ohio	Fulton	violent_crime_rate	88
+39053	Ohio	Gallia	violent_crime_rate	110
+39055	Ohio	Geauga	violent_crime_rate	37
+39057	Ohio	Greene	violent_crime_rate	116
+39059	Ohio	Guernsey	violent_crime_rate	164
+39061	Ohio	Hamilton	violent_crime_rate	582
+39063	Ohio	Hancock	violent_crime_rate	129
+39065	Ohio	Hardin	violent_crime_rate	55
+39067	Ohio	Harrison	violent_crime_rate	93
+39069	Ohio	Henry	violent_crime_rate	105
+39071	Ohio	Highland	violent_crime_rate	128
+39073	Ohio	Hocking	violent_crime_rate	47
+39075	Ohio	Holmes	violent_crime_rate	37
+39077	Ohio	Huron	violent_crime_rate	52
+39079	Ohio	Jackson	violent_crime_rate	84
+39081	Ohio	Jefferson	violent_crime_rate	240
+39083	Ohio	Knox	violent_crime_rate	
+39085	Ohio	Lake	violent_crime_rate	155
+39087	Ohio	Lawrence	violent_crime_rate	121
+39089	Ohio	Licking	violent_crime_rate	152
+39091	Ohio	Logan	violent_crime_rate	128
+39093	Ohio	Lorain	violent_crime_rate	268
+39095	Ohio	Lucas	violent_crime_rate	824
+39097	Ohio	Madison	violent_crime_rate	70
+39099	Ohio	Mahoning	violent_crime_rate	392
+39101	Ohio	Marion	violent_crime_rate	143
+39103	Ohio	Medina	violent_crime_rate	28
+39105	Ohio	Meigs	violent_crime_rate	84
+39107	Ohio	Mercer	violent_crime_rate	91
+39109	Ohio	Miami	violent_crime_rate	59
+39111	Ohio	Monroe	violent_crime_rate	80
+39113	Ohio	Montgomery	violent_crime_rate	474
+39115	Ohio	Morgan	violent_crime_rate	63
+39117	Ohio	Morrow	violent_crime_rate	36
+39119	Ohio	Muskingum	violent_crime_rate	182
+39121	Ohio	Noble	violent_crime_rate	
+39123	Ohio	Ottawa	violent_crime_rate	58
+39125	Ohio	Paulding	violent_crime_rate	72
+39127	Ohio	Perry	violent_crime_rate	25
+39129	Ohio	Pickaway	violent_crime_rate	157
+39131	Ohio	Pike	violent_crime_rate	35
+39133	Ohio	Portage	violent_crime_rate	101
+39135	Ohio	Preble	violent_crime_rate	99
+39137	Ohio	Putnam	violent_crime_rate	30
+39139	Ohio	Richland	violent_crime_rate	193
+39141	Ohio	Ross	violent_crime_rate	318
+39143	Ohio	Sandusky	violent_crime_rate	185
+39145	Ohio	Scioto	violent_crime_rate	224
+39147	Ohio	Seneca	violent_crime_rate	50
+39149	Ohio	Shelby	violent_crime_rate	125
+39151	Ohio	Stark	violent_crime_rate	297
+39153	Ohio	Summit	violent_crime_rate	427
+39155	Ohio	Trumbull	violent_crime_rate	286
+39157	Ohio	Tuscarawas	violent_crime_rate	72
+39159	Ohio	Union	violent_crime_rate	47
+39161	Ohio	Van Wert	violent_crime_rate	122
+39163	Ohio	Vinton	violent_crime_rate	108
+39165	Ohio	Warren	violent_crime_rate	68
+39167	Ohio	Washington	violent_crime_rate	108
+39169	Ohio	Wayne	violent_crime_rate	95
+39171	Ohio	Williams	violent_crime_rate	91
+39173	Ohio	Wood	violent_crime_rate	71
+39175	Ohio	Wyandot	violent_crime_rate	31
+40001	Oklahoma	Adair	violent_crime_rate	381
+40003	Oklahoma	Alfalfa	violent_crime_rate	42
+40005	Oklahoma	Atoka	violent_crime_rate	163
+40007	Oklahoma	Beaver	violent_crime_rate	102
+40009	Oklahoma	Beckham	violent_crime_rate	209
+40011	Oklahoma	Blaine	violent_crime_rate	153
+40013	Oklahoma	Bryan	violent_crime_rate	382
+40015	Oklahoma	Caddo	violent_crime_rate	271
+40017	Oklahoma	Canadian	violent_crime_rate	504
+40019	Oklahoma	Carter	violent_crime_rate	816
+40021	Oklahoma	Cherokee	violent_crime_rate	245
+40023	Oklahoma	Choctaw	violent_crime_rate	229
+40025	Oklahoma	Cimarron	violent_crime_rate	118
+40027	Oklahoma	Cleveland	violent_crime_rate	347
+40029	Oklahoma	Coal	violent_crime_rate	173
+40031	Oklahoma	Comanche	violent_crime_rate	868
+40033	Oklahoma	Cotton	violent_crime_rate	96
+40035	Oklahoma	Craig	violent_crime_rate	187
+40037	Oklahoma	Creek	violent_crime_rate	188
+40039	Oklahoma	Custer	violent_crime_rate	441
+40041	Oklahoma	Delaware	violent_crime_rate	256
+40043	Oklahoma	Dewey	violent_crime_rate	44
+40045	Oklahoma	Ellis	violent_crime_rate	125
+40047	Oklahoma	Garfield	violent_crime_rate	401
+40049	Oklahoma	Garvin	violent_crime_rate	240
+40051	Oklahoma	Grady	violent_crime_rate	303
+40053	Oklahoma	Grant	violent_crime_rate	82
+40055	Oklahoma	Greer	violent_crime_rate	167
+40057	Oklahoma	Harmon	violent_crime_rate	141
+40059	Oklahoma	Harper	violent_crime_rate	98
+40061	Oklahoma	Haskell	violent_crime_rate	288
+40063	Oklahoma	Hughes	violent_crime_rate	179
+40065	Oklahoma	Jackson	violent_crime_rate	214
+40067	Oklahoma	Jefferson	violent_crime_rate	246
+40069	Oklahoma	Johnston	violent_crime_rate	287
+40071	Oklahoma	Kay	violent_crime_rate	423
+40073	Oklahoma	Kingfisher	violent_crime_rate	68
+40075	Oklahoma	Kiowa	violent_crime_rate	266
+40077	Oklahoma	Latimer	violent_crime_rate	254
+40079	Oklahoma	Le Flore	violent_crime_rate	276
+40081	Oklahoma	Lincoln	violent_crime_rate	185
+40083	Oklahoma	Logan	violent_crime_rate	182
+40085	Oklahoma	Love	violent_crime_rate	169
+40087	Oklahoma	McClain	violent_crime_rate	147
+40089	Oklahoma	McCurtain	violent_crime_rate	402
+40091	Oklahoma	McIntosh	violent_crime_rate	231
+40093	Oklahoma	Major	violent_crime_rate	87
+40095	Oklahoma	Marshall	violent_crime_rate	332
+40097	Oklahoma	Mayes	violent_crime_rate	320
+40099	Oklahoma	Murray	violent_crime_rate	187
+40101	Oklahoma	Muskogee	violent_crime_rate	689
+40103	Oklahoma	Noble	violent_crime_rate	153
+40105	Oklahoma	Nowata	violent_crime_rate	477
+40107	Oklahoma	Okfuskee	violent_crime_rate	266
+40109	Oklahoma	Oklahoma	violent_crime_rate	715
+40111	Oklahoma	Okmulgee	violent_crime_rate	334
+40113	Oklahoma	Osage	violent_crime_rate	510
+40115	Oklahoma	Ottawa	violent_crime_rate	225
+40117	Oklahoma	Pawnee	violent_crime_rate	223
+40119	Oklahoma	Payne	violent_crime_rate	220
+40121	Oklahoma	Pittsburg	violent_crime_rate	236
+40123	Oklahoma	Pontotoc	violent_crime_rate	593
+40125	Oklahoma	Pottawatomie	violent_crime_rate	469
+40127	Oklahoma	Pushmataha	violent_crime_rate	240
+40129	Oklahoma	Roger Mills	violent_crime_rate	58
+40131	Oklahoma	Rogers	violent_crime_rate	143
+40133	Oklahoma	Seminole	violent_crime_rate	311
+40135	Oklahoma	Sequoyah	violent_crime_rate	351
+40137	Oklahoma	Stephens	violent_crime_rate	255
+40139	Oklahoma	Texas	violent_crime_rate	174
+40141	Oklahoma	Tillman	violent_crime_rate	348
+40143	Oklahoma	Tulsa	violent_crime_rate	846
+40145	Oklahoma	Wagoner	violent_crime_rate	268
+40147	Oklahoma	Washington	violent_crime_rate	315
+40149	Oklahoma	Washita	violent_crime_rate	287
+40151	Oklahoma	Woods	violent_crime_rate	180
+40153	Oklahoma	Woodward	violent_crime_rate	231
+41001	Oregon	Baker	violent_crime_rate	52
+41003	Oregon	Benton	violent_crime_rate	134
+41005	Oregon	Clackamas	violent_crime_rate	123
+41007	Oregon	Clatsop	violent_crime_rate	159
+41009	Oregon	Columbia	violent_crime_rate	92
+41011	Oregon	Coos	violent_crime_rate	188
+41013	Oregon	Crook	violent_crime_rate	220
+41015	Oregon	Curry	violent_crime_rate	171
+41017	Oregon	Deschutes	violent_crime_rate	248
+41019	Oregon	Douglas	violent_crime_rate	110
+41021	Oregon	Gilliam	violent_crime_rate	19
+41023	Oregon	Grant	violent_crime_rate	19
+41025	Oregon	Harney	violent_crime_rate	58
+41027	Oregon	Hood River	violent_crime_rate	88
+41029	Oregon	Jackson	violent_crime_rate	253
+41031	Oregon	Jefferson	violent_crime_rate	113
+41033	Oregon	Josephine	violent_crime_rate	144
+41035	Oregon	Klamath	violent_crime_rate	251
+41037	Oregon	Lake	violent_crime_rate	317
+41039	Oregon	Lane	violent_crime_rate	305
+41041	Oregon	Lincoln	violent_crime_rate	287
+41043	Oregon	Linn	violent_crime_rate	121
+41045	Oregon	Malheur	violent_crime_rate	281
+41047	Oregon	Marion	violent_crime_rate	251
+41049	Oregon	Morrow	violent_crime_rate	251
+41051	Oregon	Multnomah	violent_crime_rate	526
+41053	Oregon	Polk	violent_crime_rate	238
+41055	Oregon	Sherman	violent_crime_rate	20
+41057	Oregon	Tillamook	violent_crime_rate	78
+41059	Oregon	Umatilla	violent_crime_rate	299
+41061	Oregon	Union	violent_crime_rate	110
+41063	Oregon	Wallowa	violent_crime_rate	20
+41065	Oregon	Wasco	violent_crime_rate	102
+41067	Oregon	Washington	violent_crime_rate	164
+41069	Oregon	Wheeler	violent_crime_rate	
+41071	Oregon	Yamhill	violent_crime_rate	137
+42001	Pennsylvania	Adams	violent_crime_rate	145
+42003	Pennsylvania	Allegheny	violent_crime_rate	475
+42005	Pennsylvania	Armstrong	violent_crime_rate	136
+42007	Pennsylvania	Beaver	violent_crime_rate	307
+42009	Pennsylvania	Bedford	violent_crime_rate	103
+42011	Pennsylvania	Berks	violent_crime_rate	329
+42013	Pennsylvania	Blair	violent_crime_rate	274
+42015	Pennsylvania	Bradford	violent_crime_rate	158
+42017	Pennsylvania	Bucks	violent_crime_rate	132
+42019	Pennsylvania	Butler	violent_crime_rate	170
+42021	Pennsylvania	Cambria	violent_crime_rate	200
+42023	Pennsylvania	Cameron	violent_crime_rate	135
+42025	Pennsylvania	Carbon	violent_crime_rate	305
+42027	Pennsylvania	Centre	violent_crime_rate	106
+42029	Pennsylvania	Chester	violent_crime_rate	172
+42031	Pennsylvania	Clarion	violent_crime_rate	200
+42033	Pennsylvania	Clearfield	violent_crime_rate	219
+42035	Pennsylvania	Clinton	violent_crime_rate	219
+42037	Pennsylvania	Columbia	violent_crime_rate	141
+42039	Pennsylvania	Crawford	violent_crime_rate	85
+42041	Pennsylvania	Cumberland	violent_crime_rate	114
+42043	Pennsylvania	Dauphin	violent_crime_rate	520
+42045	Pennsylvania	Delaware	violent_crime_rate	547
+42047	Pennsylvania	Elk	violent_crime_rate	104
+42049	Pennsylvania	Erie	violent_crime_rate	276
+42051	Pennsylvania	Fayette	violent_crime_rate	238
+42053	Pennsylvania	Forest	violent_crime_rate	344
+42055	Pennsylvania	Franklin	violent_crime_rate	139
+42057	Pennsylvania	Fulton	violent_crime_rate	185
+42059	Pennsylvania	Greene	violent_crime_rate	151
+42061	Pennsylvania	Huntingdon	violent_crime_rate	190
+42063	Pennsylvania	Indiana	violent_crime_rate	262
+42065	Pennsylvania	Jefferson	violent_crime_rate	229
+42067	Pennsylvania	Juniata	violent_crime_rate	107
+42069	Pennsylvania	Lackawanna	violent_crime_rate	232
+42071	Pennsylvania	Lancaster	violent_crime_rate	180
+42073	Pennsylvania	Lawrence	violent_crime_rate	403
+42075	Pennsylvania	Lebanon	violent_crime_rate	197
+42077	Pennsylvania	Lehigh	violent_crime_rate	301
+42079	Pennsylvania	Luzerne	violent_crime_rate	283
+42081	Pennsylvania	Lycoming	violent_crime_rate	169
+42083	Pennsylvania	McKean	violent_crime_rate	200
+42085	Pennsylvania	Mercer	violent_crime_rate	225
+42087	Pennsylvania	Mifflin	violent_crime_rate	160
+42089	Pennsylvania	Monroe	violent_crime_rate	302
+42091	Pennsylvania	Montgomery	violent_crime_rate	200
+42093	Pennsylvania	Montour	violent_crime_rate	337
+42095	Pennsylvania	Northampton	violent_crime_rate	200
+42097	Pennsylvania	Northumberland	violent_crime_rate	348
+42099	Pennsylvania	Perry	violent_crime_rate	179
+42101	Pennsylvania	Philadelphia	violent_crime_rate	1296
+42103	Pennsylvania	Pike	violent_crime_rate	150
+42105	Pennsylvania	Potter	violent_crime_rate	185
+42107	Pennsylvania	Schuylkill	violent_crime_rate	205
+42109	Pennsylvania	Snyder	violent_crime_rate	380
+42111	Pennsylvania	Somerset	violent_crime_rate	140
+42113	Pennsylvania	Sullivan	violent_crime_rate	129
+42115	Pennsylvania	Susquehanna	violent_crime_rate	134
+42117	Pennsylvania	Tioga	violent_crime_rate	110
+42119	Pennsylvania	Union	violent_crime_rate	95
+42121	Pennsylvania	Venango	violent_crime_rate	142
+42123	Pennsylvania	Warren	violent_crime_rate	400
+42125	Pennsylvania	Washington	violent_crime_rate	246
+42127	Pennsylvania	Wayne	violent_crime_rate	159
+42129	Pennsylvania	Westmoreland	violent_crime_rate	161
+42131	Pennsylvania	Wyoming	violent_crime_rate	100
+42133	Pennsylvania	York	violent_crime_rate	233
+44001	Rhode Island	Bristol	violent_crime_rate	77
+44003	Rhode Island	Kent	violent_crime_rate	121
+44005	Rhode Island	Newport	violent_crime_rate	208
+44007	Rhode Island	Providence	violent_crime_rate	343
+44009	Rhode Island	Washington	violent_crime_rate	84
+45001	South Carolina	Abbeville	violent_crime_rate	572
+45003	South Carolina	Aiken	violent_crime_rate	429
+45005	South Carolina	Allendale	violent_crime_rate	1010
+45007	South Carolina	Anderson	violent_crime_rate	636
+45009	South Carolina	Bamberg	violent_crime_rate	729
+45011	South Carolina	Barnwell	violent_crime_rate	878
+45013	South Carolina	Beaufort	violent_crime_rate	596
+45015	South Carolina	Berkeley	violent_crime_rate	527
+45017	South Carolina	Calhoun	violent_crime_rate	574
+45019	South Carolina	Charleston	violent_crime_rate	694
+45021	South Carolina	Cherokee	violent_crime_rate	440
+45023	South Carolina	Chester	violent_crime_rate	1112
+45025	South Carolina	Chesterfield	violent_crime_rate	567
+45027	South Carolina	Clarendon	violent_crime_rate	740
+45029	South Carolina	Colleton	violent_crime_rate	904
+45031	South Carolina	Darlington	violent_crime_rate	929
+45033	South Carolina	Dillon	violent_crime_rate	1539
+45035	South Carolina	Dorchester	violent_crime_rate	529
+45037	South Carolina	Edgefield	violent_crime_rate	233
+45039	South Carolina	Fairfield	violent_crime_rate	987
+45041	South Carolina	Florence	violent_crime_rate	744
+45043	South Carolina	Georgetown	violent_crime_rate	682
+45045	South Carolina	Greenville	violent_crime_rate	642
+45047	South Carolina	Greenwood	violent_crime_rate	969
+45049	South Carolina	Hampton	violent_crime_rate	747
+45051	South Carolina	Horry	violent_crime_rate	710
+45053	South Carolina	Jasper	violent_crime_rate	740
+45055	South Carolina	Kershaw	violent_crime_rate	508
+45057	South Carolina	Lancaster	violent_crime_rate	554
+45059	South Carolina	Laurens	violent_crime_rate	782
+45061	South Carolina	Lee	violent_crime_rate	596
+45063	South Carolina	Lexington	violent_crime_rate	385
+45065	South Carolina	McCormick	violent_crime_rate	583
+45067	South Carolina	Marion	violent_crime_rate	932
+45069	South Carolina	Marlboro	violent_crime_rate	1171
+45071	South Carolina	Newberry	violent_crime_rate	358
+45073	South Carolina	Oconee	violent_crime_rate	546
+45075	South Carolina	Orangeburg	violent_crime_rate	677
+45077	South Carolina	Pickens	violent_crime_rate	344
+45079	South Carolina	Richland	violent_crime_rate	1016
+45081	South Carolina	Saluda	violent_crime_rate	555
+45083	South Carolina	Spartanburg	violent_crime_rate	603
+45085	South Carolina	Sumter	violent_crime_rate	769
+45087	South Carolina	Union	violent_crime_rate	820
+45089	South Carolina	Williamsburg	violent_crime_rate	598
+45091	South Carolina	York	violent_crime_rate	656
+46003	South Dakota	Aurora	violent_crime_rate	36
+46005	South Dakota	Beadle	violent_crime_rate	
+46007	South Dakota	Bennett	violent_crime_rate	215
+46009	South Dakota	Bon Homme	violent_crime_rate	5
+46011	South Dakota	Brookings	violent_crime_rate	37
+46013	South Dakota	Brown	violent_crime_rate	165
+46015	South Dakota	Brule	violent_crime_rate	212
+46017	South Dakota	Buffalo	violent_crime_rate	
+46019	South Dakota	Butte	violent_crime_rate	102
+46021	South Dakota	Campbell	violent_crime_rate	0
+46023	South Dakota	Charles Mix	violent_crime_rate	186
+46025	South Dakota	Clark	violent_crime_rate	0
+46027	South Dakota	Clay	violent_crime_rate	37
+46029	South Dakota	Codington	violent_crime_rate	208
+46031	South Dakota	Corson	violent_crime_rate	0
+46033	South Dakota	Custer	violent_crime_rate	83
+46035	South Dakota	Davison	violent_crime_rate	158
+46037	South Dakota	Day	violent_crime_rate	
+46039	South Dakota	Deuel	violent_crime_rate	47
+46041	South Dakota	Dewey	violent_crime_rate	41
+46043	South Dakota	Douglas	violent_crime_rate	19
+46045	South Dakota	Edmunds	violent_crime_rate	0
+46047	South Dakota	Fall River	violent_crime_rate	47
+46049	South Dakota	Faulk	violent_crime_rate	73
+46051	South Dakota	Grant	violent_crime_rate	
+46053	South Dakota	Gregory	violent_crime_rate	
+46055	South Dakota	Haakon	violent_crime_rate	
+46057	South Dakota	Hamlin	violent_crime_rate	122
+46059	South Dakota	Hand	violent_crime_rate	20
+46061	South Dakota	Hanson	violent_crime_rate	19
+46063	South Dakota	Harding	violent_crime_rate	28
+46065	South Dakota	Hughes	violent_crime_rate	419
+46067	South Dakota	Hutchinson	violent_crime_rate	0
+46069	South Dakota	Hyde	violent_crime_rate	
+46071	South Dakota	Jackson	violent_crime_rate	
+46073	South Dakota	Jerauld	violent_crime_rate	0
+46075	South Dakota	Jones	violent_crime_rate	
+46077	South Dakota	Kingsbury	violent_crime_rate	
+46079	South Dakota	Lake	violent_crime_rate	73
+46081	South Dakota	Lawrence	violent_crime_rate	95
+46083	South Dakota	Lincoln	violent_crime_rate	161
+46085	South Dakota	Lyman	violent_crime_rate	
+46087	South Dakota	McCook	violent_crime_rate	27
+46089	South Dakota	McPherson	violent_crime_rate	27
+46091	South Dakota	Marshall	violent_crime_rate	158
+46093	South Dakota	Meade	violent_crime_rate	42
+46095	South Dakota	Mellette	violent_crime_rate	391
+46097	South Dakota	Miner	violent_crime_rate	55
+46099	South Dakota	Minnehaha	violent_crime_rate	271
+46101	South Dakota	Moody	violent_crime_rate	85
+46103	South Dakota	Pennington	violent_crime_rate	454
+46105	South Dakota	Perkins	violent_crime_rate	23
+46107	South Dakota	Potter	violent_crime_rate	31
+46109	South Dakota	Roberts	violent_crime_rate	181
+46111	South Dakota	Sanborn	violent_crime_rate	82
+46113	South Dakota	Shannon	violent_crime_rate	0
+46115	South Dakota	Spink	violent_crime_rate	163
+46117	South Dakota	Stanley	violent_crime_rate	47
+46119	South Dakota	Sully	violent_crime_rate	73
+46121	South Dakota	Todd	violent_crime_rate	
+46123	South Dakota	Tripp	violent_crime_rate	88
+46125	South Dakota	Turner	violent_crime_rate	92
+46127	South Dakota	Union	violent_crime_rate	37
+46129	South Dakota	Walworth	violent_crime_rate	181
+46135	South Dakota	Yankton	violent_crime_rate	115
+46137	South Dakota	Ziebach	violent_crime_rate	12
+47001	Tennessee	Anderson	violent_crime_rate	391
+47003	Tennessee	Bedford	violent_crime_rate	374
+47005	Tennessee	Benton	violent_crime_rate	225
+47007	Tennessee	Bledsoe	violent_crime_rate	107
+47009	Tennessee	Blount	violent_crime_rate	330
+47011	Tennessee	Bradley	violent_crime_rate	694
+47013	Tennessee	Campbell	violent_crime_rate	562
+47015	Tennessee	Cannon	violent_crime_rate	189
+47017	Tennessee	Carroll	violent_crime_rate	253
+47019	Tennessee	Carter	violent_crime_rate	219
+47021	Tennessee	Cheatham	violent_crime_rate	298
+47023	Tennessee	Chester	violent_crime_rate	380
+47025	Tennessee	Claiborne	violent_crime_rate	421
+47027	Tennessee	Clay	violent_crime_rate	251
+47029	Tennessee	Cocke	violent_crime_rate	662
+47031	Tennessee	Coffee	violent_crime_rate	540
+47033	Tennessee	Crockett	violent_crime_rate	340
+47035	Tennessee	Cumberland	violent_crime_rate	345
+47037	Tennessee	Davidson	violent_crime_rate	1202
+47039	Tennessee	Decatur	violent_crime_rate	230
+47041	Tennessee	DeKalb	violent_crime_rate	333
+47043	Tennessee	Dickson	violent_crime_rate	411
+47045	Tennessee	Dyer	violent_crime_rate	636
+47047	Tennessee	Fayette	violent_crime_rate	504
+47049	Tennessee	Fentress	violent_crime_rate	310
+47051	Tennessee	Franklin	violent_crime_rate	314
+47053	Tennessee	Gibson	violent_crime_rate	556
+47055	Tennessee	Giles	violent_crime_rate	333
+47057	Tennessee	Grainger	violent_crime_rate	159
+47059	Tennessee	Greene	violent_crime_rate	373
+47061	Tennessee	Grundy	violent_crime_rate	388
+47063	Tennessee	Hamblen	violent_crime_rate	533
+47065	Tennessee	Hamilton	violent_crime_rate	698
+47067	Tennessee	Hancock	violent_crime_rate	178
+47069	Tennessee	Hardeman	violent_crime_rate	578
+47071	Tennessee	Hardin	violent_crime_rate	657
+47073	Tennessee	Hawkins	violent_crime_rate	280
+47075	Tennessee	Haywood	violent_crime_rate	1237
+47077	Tennessee	Henderson	violent_crime_rate	648
+47079	Tennessee	Henry	violent_crime_rate	332
+47081	Tennessee	Hickman	violent_crime_rate	221
+47083	Tennessee	Houston	violent_crime_rate	389
+47085	Tennessee	Humphreys	violent_crime_rate	166
+47087	Tennessee	Jackson	violent_crime_rate	211
+47089	Tennessee	Jefferson	violent_crime_rate	273
+47091	Tennessee	Johnson	violent_crime_rate	454
+47093	Tennessee	Knox	violent_crime_rate	582
+47095	Tennessee	Lake	violent_crime_rate	289
+47097	Tennessee	Lauderdale	violent_crime_rate	716
+47099	Tennessee	Lawrence	violent_crime_rate	545
+47101	Tennessee	Lewis	violent_crime_rate	449
+47103	Tennessee	Lincoln	violent_crime_rate	466
+47105	Tennessee	Loudon	violent_crime_rate	393
+47107	Tennessee	McMinn	violent_crime_rate	655
+47109	Tennessee	McNairy	violent_crime_rate	277
+47111	Tennessee	Macon	violent_crime_rate	236
+47113	Tennessee	Madison	violent_crime_rate	786
+47115	Tennessee	Marion	violent_crime_rate	407
+47117	Tennessee	Marshall	violent_crime_rate	349
+47119	Tennessee	Maury	violent_crime_rate	661
+47121	Tennessee	Meigs	violent_crime_rate	379
+47123	Tennessee	Monroe	violent_crime_rate	446
+47125	Tennessee	Montgomery	violent_crime_rate	610
+47127	Tennessee	Moore	violent_crime_rate	165
+47129	Tennessee	Morgan	violent_crime_rate	119
+47131	Tennessee	Obion	violent_crime_rate	340
+47133	Tennessee	Overton	violent_crime_rate	258
+47135	Tennessee	Perry	violent_crime_rate	278
+47137	Tennessee	Pickett	violent_crime_rate	21
+47139	Tennessee	Polk	violent_crime_rate	254
+47141	Tennessee	Putnam	violent_crime_rate	338
+47143	Tennessee	Rhea	violent_crime_rate	342
+47145	Tennessee	Roane	violent_crime_rate	266
+47147	Tennessee	Robertson	violent_crime_rate	541
+47149	Tennessee	Rutherford	violent_crime_rate	447
+47151	Tennessee	Scott	violent_crime_rate	507
+47153	Tennessee	Sequatchie	violent_crime_rate	432
+47155	Tennessee	Sevier	violent_crime_rate	359
+47157	Tennessee	Shelby	violent_crime_rate	1377
+47159	Tennessee	Smith	violent_crime_rate	235
+47161	Tennessee	Stewart	violent_crime_rate	336
+47163	Tennessee	Sullivan	violent_crime_rate	512
+47165	Tennessee	Sumner	violent_crime_rate	326
+47167	Tennessee	Tipton	violent_crime_rate	690
+47169	Tennessee	Trousdale	violent_crime_rate	442
+47171	Tennessee	Unicoi	violent_crime_rate	139
+47173	Tennessee	Union	violent_crime_rate	195
+47175	Tennessee	Van Buren	violent_crime_rate	206
+47177	Tennessee	Warren	violent_crime_rate	289
+47179	Tennessee	Washington	violent_crime_rate	451
+47181	Tennessee	Wayne	violent_crime_rate	189
+47183	Tennessee	Weakley	violent_crime_rate	337
+47185	Tennessee	White	violent_crime_rate	369
+47187	Tennessee	Williamson	violent_crime_rate	137
+47189	Tennessee	Wilson	violent_crime_rate	463
+48001	Texas	Anderson	violent_crime_rate	330
+48003	Texas	Andrews	violent_crime_rate	489
+48005	Texas	Angelina	violent_crime_rate	362
+48007	Texas	Aransas	violent_crime_rate	194
+48009	Texas	Archer	violent_crime_rate	118
+48011	Texas	Armstrong	violent_crime_rate	0
+48013	Texas	Atascosa	violent_crime_rate	215
+48015	Texas	Austin	violent_crime_rate	221
+48017	Texas	Bailey	violent_crime_rate	273
+48019	Texas	Bandera	violent_crime_rate	71
+48021	Texas	Bastrop	violent_crime_rate	455
+48023	Texas	Baylor	violent_crime_rate	552
+48025	Texas	Bee	violent_crime_rate	297
+48027	Texas	Bell	violent_crime_rate	435
+48029	Texas	Bexar	violent_crime_rate	576
+48031	Texas	Blanco	violent_crime_rate	215
+48033	Texas	Borden	violent_crime_rate	0
+48035	Texas	Bosque	violent_crime_rate	91
+48037	Texas	Bowie	violent_crime_rate	725
+48039	Texas	Brazoria	violent_crime_rate	202
+48041	Texas	Brazos	violent_crime_rate	434
+48043	Texas	Brewster	violent_crime_rate	233
+48045	Texas	Briscoe	violent_crime_rate	44
+48047	Texas	Brooks	violent_crime_rate	435
+48049	Texas	Brown	violent_crime_rate	354
+48051	Texas	Burleson	violent_crime_rate	248
+48053	Texas	Burnet	violent_crime_rate	192
+48055	Texas	Caldwell	violent_crime_rate	413
+48057	Texas	Calhoun	violent_crime_rate	472
+48059	Texas	Callahan	violent_crime_rate	96
+48061	Texas	Cameron	violent_crime_rate	362
+48063	Texas	Camp	violent_crime_rate	251
+48065	Texas	Carson	violent_crime_rate	203
+48067	Texas	Cass	violent_crime_rate	303
+48069	Texas	Castro	violent_crime_rate	185
+48071	Texas	Chambers	violent_crime_rate	296
+48073	Texas	Cherokee	violent_crime_rate	429
+48075	Texas	Childress	violent_crime_rate	357
+48077	Texas	Clay	violent_crime_rate	110
+48079	Texas	Cochran	violent_crime_rate	110
+48081	Texas	Coke	violent_crime_rate	68
+48083	Texas	Coleman	violent_crime_rate	112
+48085	Texas	Collin	violent_crime_rate	203
+48087	Texas	Collingsworth	violent_crime_rate	45
+48089	Texas	Colorado	violent_crime_rate	337
+48091	Texas	Comal	violent_crime_rate	283
+48093	Texas	Comanche	violent_crime_rate	222
+48095	Texas	Concho	violent_crime_rate	112
+48097	Texas	Cooke	violent_crime_rate	263
+48099	Texas	Coryell	violent_crime_rate	220
+48101	Texas	Cottle	violent_crime_rate	128
+48103	Texas	Crane	violent_crime_rate	163
+48105	Texas	Crockett	violent_crime_rate	292
+48107	Texas	Crosby	violent_crime_rate	141
+48109	Texas	Culberson	violent_crime_rate	83
+48111	Texas	Dallam	violent_crime_rate	210
+48113	Texas	Dallas	violent_crime_rate	549
+48115	Texas	Dawson	violent_crime_rate	231
+48117	Texas	Deaf Smith	violent_crime_rate	410
+48119	Texas	Delta	violent_crime_rate	155
+48121	Texas	Denton	violent_crime_rate	198
+48123	Texas	DeWitt	violent_crime_rate	185
+48125	Texas	Dickens	violent_crime_rate	109
+48127	Texas	Dimmit	violent_crime_rate	620
+48129	Texas	Donley	violent_crime_rate	201
+48131	Texas	Duval	violent_crime_rate	506
+48133	Texas	Eastland	violent_crime_rate	187
+48135	Texas	Ector	violent_crime_rate	638
+48137	Texas	Edwards	violent_crime_rate	205
+48139	Texas	Ellis	violent_crime_rate	247
+48141	Texas	El Paso	violent_crime_rate	431
+48143	Texas	Erath	violent_crime_rate	219
+48145	Texas	Falls	violent_crime_rate	215
+48147	Texas	Fannin	violent_crime_rate	157
+48149	Texas	Fayette	violent_crime_rate	93
+48151	Texas	Fisher	violent_crime_rate	264
+48153	Texas	Floyd	violent_crime_rate	362
+48155	Texas	Foard	violent_crime_rate	74
+48157	Texas	Fort Bend	violent_crime_rate	347
+48159	Texas	Franklin	violent_crime_rate	181
+48161	Texas	Freestone	violent_crime_rate	227
+48163	Texas	Frio	violent_crime_rate	222
+48165	Texas	Gaines	violent_crime_rate	90
+48167	Texas	Galveston	violent_crime_rate	394
+48169	Texas	Garza	violent_crime_rate	70
+48171	Texas	Gillespie	violent_crime_rate	55
+48173	Texas	Glasscock	violent_crime_rate	84
+48175	Texas	Goliad	violent_crime_rate	162
+48177	Texas	Gonzales	violent_crime_rate	621
+48179	Texas	Gray	violent_crime_rate	602
+48181	Texas	Grayson	violent_crime_rate	282
+48183	Texas	Gregg	violent_crime_rate	715
+48185	Texas	Grimes	violent_crime_rate	286
+48187	Texas	Guadalupe	violent_crime_rate	238
+48189	Texas	Hale	violent_crime_rate	257
+48191	Texas	Hall	violent_crime_rate	246
+48193	Texas	Hamilton	violent_crime_rate	281
+48195	Texas	Hansford	violent_crime_rate	168
+48197	Texas	Hardeman	violent_crime_rate	297
+48199	Texas	Hardin	violent_crime_rate	156
+48201	Texas	Harris	violent_crime_rate	834
+48203	Texas	Harrison	violent_crime_rate	432
+48205	Texas	Hartley	violent_crime_rate	190
+48207	Texas	Haskell	violent_crime_rate	105
+48209	Texas	Hays	violent_crime_rate	227
+48211	Texas	Hemphill	violent_crime_rate	403
+48213	Texas	Henderson	violent_crime_rate	420
+48215	Texas	Hidalgo	violent_crime_rate	360
+48217	Texas	Hill	violent_crime_rate	110
+48219	Texas	Hockley	violent_crime_rate	432
+48221	Texas	Hood	violent_crime_rate	163
+48223	Texas	Hopkins	violent_crime_rate	208
+48225	Texas	Houston	violent_crime_rate	223
+48227	Texas	Howard	violent_crime_rate	578
+48229	Texas	Hudspeth	violent_crime_rate	152
+48231	Texas	Hunt	violent_crime_rate	449
+48233	Texas	Hutchinson	violent_crime_rate	1059
+48235	Texas	Irion	violent_crime_rate	199
+48237	Texas	Jack	violent_crime_rate	105
+48239	Texas	Jackson	violent_crime_rate	277
+48241	Texas	Jasper	violent_crime_rate	287
+48243	Texas	Jeff Davis	violent_crime_rate	276
+48245	Texas	Jefferson	violent_crime_rate	633
+48247	Texas	Jim Hogg	violent_crime_rate	158
+48249	Texas	Jim Wells	violent_crime_rate	675
+48251	Texas	Johnson	violent_crime_rate	270
+48253	Texas	Jones	violent_crime_rate	351
+48255	Texas	Karnes	violent_crime_rate	230
+48257	Texas	Kaufman	violent_crime_rate	398
+48259	Texas	Kendall	violent_crime_rate	115
+48261	Texas	Kenedy	violent_crime_rate	503
+48263	Texas	Kent	violent_crime_rate	629
+48265	Texas	Kerr	violent_crime_rate	212
+48267	Texas	Kimble	violent_crime_rate	363
+48269	Texas	King	violent_crime_rate	118
+48271	Texas	Kinney	violent_crime_rate	118
+48273	Texas	Kleberg	violent_crime_rate	789
+48275	Texas	Knox	violent_crime_rate	181
+48277	Texas	Lamar	violent_crime_rate	414
+48279	Texas	Lamb	violent_crime_rate	356
+48281	Texas	Lampasas	violent_crime_rate	134
+48283	Texas	La Salle	violent_crime_rate	107
+48285	Texas	Lavaca	violent_crime_rate	118
+48287	Texas	Lee	violent_crime_rate	351
+48289	Texas	Leon	violent_crime_rate	151
+48291	Texas	Liberty	violent_crime_rate	400
+48293	Texas	Limestone	violent_crime_rate	467
+48295	Texas	Lipscomb	violent_crime_rate	54
+48297	Texas	Live Oak	violent_crime_rate	68
+48299	Texas	Llano	violent_crime_rate	120
+48301	Texas	Loving	violent_crime_rate	0
+48303	Texas	Lubbock	violent_crime_rate	841
+48305	Texas	Lynn	violent_crime_rate	69
+48307	Texas	McCulloch	violent_crime_rate	241
+48309	Texas	McLennan	violent_crime_rate	567
+48311	Texas	McMullen	violent_crime_rate	124
+48313	Texas	Madison	violent_crime_rate	387
+48315	Texas	Marion	violent_crime_rate	400
+48317	Texas	Martin	violent_crime_rate	131
+48319	Texas	Mason	violent_crime_rate	101
+48321	Texas	Matagorda	violent_crime_rate	379
+48323	Texas	Maverick	violent_crime_rate	321
+48325	Texas	Medina	violent_crime_rate	228
+48327	Texas	Menard	violent_crime_rate	155
+48329	Texas	Midland	violent_crime_rate	363
+48331	Texas	Milam	violent_crime_rate	165
+48333	Texas	Mills	violent_crime_rate	107
+48335	Texas	Mitchell	violent_crime_rate	172
+48337	Texas	Montague	violent_crime_rate	169
+48339	Texas	Montgomery	violent_crime_rate	273
+48341	Texas	Moore	violent_crime_rate	326
+48343	Texas	Morris	violent_crime_rate	427
+48345	Texas	Motley	violent_crime_rate	161
+48347	Texas	Nacogdoches	violent_crime_rate	469
+48349	Texas	Navarro	violent_crime_rate	301
+48351	Texas	Newton	violent_crime_rate	91
+48353	Texas	Nolan	violent_crime_rate	1088
+48355	Texas	Nueces	violent_crime_rate	732
+48357	Texas	Ochiltree	violent_crime_rate	186
+48359	Texas	Oldham	violent_crime_rate	97
+48361	Texas	Orange	violent_crime_rate	415
+48363	Texas	Palo Pinto	violent_crime_rate	360
+48365	Texas	Panola	violent_crime_rate	224
+48367	Texas	Parker	violent_crime_rate	149
+48369	Texas	Parmer	violent_crime_rate	212
+48371	Texas	Pecos	violent_crime_rate	334
+48373	Texas	Polk	violent_crime_rate	235
+48375	Texas	Potter	violent_crime_rate	677
+48377	Texas	Presidio	violent_crime_rate	105
+48379	Texas	Rains	violent_crime_rate	145
+48381	Texas	Randall	violent_crime_rate	569
+48383	Texas	Reagan	violent_crime_rate	42
+48385	Texas	Real	violent_crime_rate	88
+48387	Texas	Red River	violent_crime_rate	215
+48389	Texas	Reeves	violent_crime_rate	255
+48391	Texas	Refugio	violent_crime_rate	191
+48393	Texas	Roberts	violent_crime_rate	271
+48395	Texas	Robertson	violent_crime_rate	381
+48397	Texas	Rockwall	violent_crime_rate	165
+48399	Texas	Runnels	violent_crime_rate	136
+48401	Texas	Rusk	violent_crime_rate	378
+48403	Texas	Sabine	violent_crime_rate	271
+48405	Texas	San Augustine	violent_crime_rate	327
+48407	Texas	San Jacinto	violent_crime_rate	257
+48409	Texas	San Patricio	violent_crime_rate	263
+48411	Texas	San Saba	violent_crime_rate	179
+48413	Texas	Schleicher	violent_crime_rate	33
+48415	Texas	Scurry	violent_crime_rate	827
+48417	Texas	Shackelford	violent_crime_rate	52
+48419	Texas	Shelby	violent_crime_rate	349
+48421	Texas	Sherman	violent_crime_rate	68
+48423	Texas	Smith	violent_crime_rate	444
+48425	Texas	Somervell	violent_crime_rate	90
+48427	Texas	Starr	violent_crime_rate	287
+48429	Texas	Stephens	violent_crime_rate	146
+48431	Texas	Sterling	violent_crime_rate	138
+48433	Texas	Stonewall	violent_crime_rate	257
+48435	Texas	Sutton	violent_crime_rate	290
+48437	Texas	Swisher	violent_crime_rate	295
+48439	Texas	Tarrant	violent_crime_rate	474
+48441	Texas	Taylor	violent_crime_rate	490
+48443	Texas	Terrell	violent_crime_rate	249
+48445	Texas	Terry	violent_crime_rate	198
+48447	Texas	Throckmorton	violent_crime_rate	41
+48449	Texas	Titus	violent_crime_rate	376
+48451	Texas	Tom Green	violent_crime_rate	338
+48453	Texas	Travis	violent_crime_rate	434
+48455	Texas	Trinity	violent_crime_rate	263
+48457	Texas	Tyler	violent_crime_rate	372
+48459	Texas	Upshur	violent_crime_rate	270
+48461	Texas	Upton	violent_crime_rate	105
+48463	Texas	Uvalde	violent_crime_rate	349
+48465	Texas	Val Verde	violent_crime_rate	189
+48467	Texas	Van Zandt	violent_crime_rate	221
+48469	Texas	Victoria	violent_crime_rate	597
+48471	Texas	Walker	violent_crime_rate	373
+48473	Texas	Waller	violent_crime_rate	313
+48475	Texas	Ward	violent_crime_rate	631
+48477	Texas	Washington	violent_crime_rate	361
+48479	Texas	Webb	violent_crime_rate	561
+48481	Texas	Wharton	violent_crime_rate	438
+48483	Texas	Wheeler	violent_crime_rate	228
+48485	Texas	Wichita	violent_crime_rate	437
+48487	Texas	Wilbarger	violent_crime_rate	369
+48489	Texas	Willacy	violent_crime_rate	1295
+48491	Texas	Williamson	violent_crime_rate	144
+48493	Texas	Wilson	violent_crime_rate	142
+48495	Texas	Winkler	violent_crime_rate	208
+48497	Texas	Wise	violent_crime_rate	268
+48499	Texas	Wood	violent_crime_rate	210
+48501	Texas	Yoakum	violent_crime_rate	187
+48503	Texas	Young	violent_crime_rate	206
+48505	Texas	Zapata	violent_crime_rate	291
+48507	Texas	Zavala	violent_crime_rate	468
+49001	Utah	Beaver	violent_crime_rate	110
+49003	Utah	Box Elder	violent_crime_rate	137
+49005	Utah	Cache	violent_crime_rate	72
+49007	Utah	Carbon	violent_crime_rate	168
+49009	Utah	Daggett	violent_crime_rate	34
+49011	Utah	Davis	violent_crime_rate	108
+49013	Utah	Duchesne	violent_crime_rate	141
+49015	Utah	Emery	violent_crime_rate	41
+49017	Utah	Garfield	violent_crime_rate	
+49019	Utah	Grand	violent_crime_rate	234
+49021	Utah	Iron	violent_crime_rate	147
+49023	Utah	Juab	violent_crime_rate	92
+49025	Utah	Kane	violent_crime_rate	302
+49027	Utah	Millard	violent_crime_rate	142
+49029	Utah	Morgan	violent_crime_rate	41
+49031	Utah	Piute	violent_crime_rate	
+49033	Utah	Rich	violent_crime_rate	60
+49035	Utah	Salt Lake	violent_crime_rate	371
+49037	Utah	San Juan	violent_crime_rate	124
+49039	Utah	Sanpete	violent_crime_rate	
+49041	Utah	Sevier	violent_crime_rate	125
+49043	Utah	Summit	violent_crime_rate	90
+49045	Utah	Tooele	violent_crime_rate	198
+49047	Utah	Uintah	violent_crime_rate	173
+49049	Utah	Utah	violent_crime_rate	85
+49051	Utah	Wasatch	violent_crime_rate	54
+49053	Utah	Washington	violent_crime_rate	144
+49055	Utah	Wayne	violent_crime_rate	152
+49057	Utah	Weber	violent_crime_rate	230
+50001	Vermont	Addison	violent_crime_rate	69
+50003	Vermont	Bennington	violent_crime_rate	167
+50005	Vermont	Caledonia	violent_crime_rate	120
+50007	Vermont	Chittenden	violent_crime_rate	171
+50009	Vermont	Essex	violent_crime_rate	
+50011	Vermont	Franklin	violent_crime_rate	176
+50013	Vermont	Grand Isle	violent_crime_rate	9
+50015	Vermont	Lamoille	violent_crime_rate	69
+50017	Vermont	Orange	violent_crime_rate	71
+50019	Vermont	Orleans	violent_crime_rate	104
+50021	Vermont	Rutland	violent_crime_rate	138
+50023	Vermont	Washington	violent_crime_rate	108
+50025	Vermont	Windham	violent_crime_rate	179
+50027	Vermont	Windsor	violent_crime_rate	120
+51001	Virginia	Accomack	violent_crime_rate	199
+51003	Virginia	Albemarle	violent_crime_rate	135
+51005	Virginia	Alleghany	violent_crime_rate	105
+51007	Virginia	Amelia	violent_crime_rate	130
+51009	Virginia	Amherst	violent_crime_rate	103
+51011	Virginia	Appomattox	violent_crime_rate	107
+51013	Virginia	Arlington	violent_crime_rate	155
+51015	Virginia	Augusta	violent_crime_rate	113
+51017	Virginia	Bath	violent_crime_rate	36
+51019	Virginia	Bedford	violent_crime_rate	230
+51021	Virginia	Bland	violent_crime_rate	39
+51023	Virginia	Botetourt	violent_crime_rate	71
+51025	Virginia	Brunswick	violent_crime_rate	120
+51027	Virginia	Buchanan	violent_crime_rate	175
+51029	Virginia	Buckingham	violent_crime_rate	181
+51031	Virginia	Campbell	violent_crime_rate	172
+51033	Virginia	Caroline	violent_crime_rate	196
+51035	Virginia	Carroll	violent_crime_rate	135
+51036	Virginia	Charles City	violent_crime_rate	78
+51037	Virginia	Charlotte	violent_crime_rate	207
+51041	Virginia	Chesterfield	violent_crime_rate	177
+51043	Virginia	Clarke	violent_crime_rate	129
+51045	Virginia	Craig	violent_crime_rate	84
+51047	Virginia	Culpeper	violent_crime_rate	206
+51049	Virginia	Cumberland	violent_crime_rate	149
+51051	Virginia	Dickenson	violent_crime_rate	144
+51053	Virginia	Dinwiddie	violent_crime_rate	192
+51057	Virginia	Essex	violent_crime_rate	135
+51059	Virginia	Fairfax	violent_crime_rate	85
+51061	Virginia	Fauquier	violent_crime_rate	109
+51063	Virginia	Floyd	violent_crime_rate	62
+51065	Virginia	Fluvanna	violent_crime_rate	72
+51067	Virginia	Franklin	violent_crime_rate	101
+51069	Virginia	Frederick	violent_crime_rate	147
+51071	Virginia	Giles	violent_crime_rate	100
+51073	Virginia	Gloucester	violent_crime_rate	66
+51075	Virginia	Goochland	violent_crime_rate	188
+51077	Virginia	Grayson	violent_crime_rate	152
+51079	Virginia	Greene	violent_crime_rate	206
+51081	Virginia	Greensville	violent_crime_rate	138
+51083	Virginia	Halifax	violent_crime_rate	131
+51085	Virginia	Hanover	violent_crime_rate	80
+51087	Virginia	Henrico	violent_crime_rate	178
+51089	Virginia	Henry	violent_crime_rate	276
+51091	Virginia	Highland	violent_crime_rate	70
+51093	Virginia	Isle of Wight	violent_crime_rate	144
+51095	Virginia	James City	violent_crime_rate	104
+51097	Virginia	King and Queen	violent_crime_rate	164
+51099	Virginia	King George	violent_crime_rate	117
+51101	Virginia	King William	violent_crime_rate	50
+51103	Virginia	Lancaster	violent_crime_rate	108
+51105	Virginia	Lee	violent_crime_rate	108
+51107	Virginia	Loudoun	violent_crime_rate	100
+51109	Virginia	Louisa	violent_crime_rate	127
+51111	Virginia	Lunenburg	violent_crime_rate	209
+51113	Virginia	Madison	violent_crime_rate	103
+51115	Virginia	Mathews	violent_crime_rate	63
+51117	Virginia	Mecklenburg	violent_crime_rate	222
+51119	Virginia	Middlesex	violent_crime_rate	139
+51121	Virginia	Montgomery	violent_crime_rate	148
+51125	Virginia	Nelson	violent_crime_rate	85
+51127	Virginia	New Kent	violent_crime_rate	134
+51131	Virginia	Northampton	violent_crime_rate	165
+51133	Virginia	Northumberland	violent_crime_rate	117
+51135	Virginia	Nottoway	violent_crime_rate	227
+51137	Virginia	Orange	violent_crime_rate	66
+51139	Virginia	Page	violent_crime_rate	121
+51141	Virginia	Patrick	violent_crime_rate	132
+51143	Virginia	Pittsylvania	violent_crime_rate	101
+51145	Virginia	Powhatan	violent_crime_rate	75
+51147	Virginia	Prince Edward	violent_crime_rate	155
+51149	Virginia	Prince George	violent_crime_rate	101
+51153	Virginia	Prince William	violent_crime_rate	167
+51155	Virginia	Pulaski	violent_crime_rate	251
+51157	Virginia	Rappahannock	violent_crime_rate	55
+51159	Virginia	Richmond	violent_crime_rate	116
+51161	Virginia	Roanoke	violent_crime_rate	148
+51163	Virginia	Rockbridge	violent_crime_rate	85
+51165	Virginia	Rockingham	violent_crime_rate	58
+51167	Virginia	Russell	violent_crime_rate	104
+51169	Virginia	Scott	violent_crime_rate	163
+51171	Virginia	Shenandoah	violent_crime_rate	116
+51173	Virginia	Smyth	violent_crime_rate	199
+51175	Virginia	Southampton	violent_crime_rate	162
+51177	Virginia	Spotsylvania	violent_crime_rate	220
+51179	Virginia	Stafford	violent_crime_rate	150
+51181	Virginia	Surry	violent_crime_rate	267
+51183	Virginia	Sussex	violent_crime_rate	258
+51185	Virginia	Tazewell	violent_crime_rate	161
+51187	Virginia	Warren	violent_crime_rate	139
+51191	Virginia	Washington	violent_crime_rate	118
+51193	Virginia	Westmoreland	violent_crime_rate	80
+51195	Virginia	Wise	violent_crime_rate	160
+51197	Virginia	Wythe	violent_crime_rate	119
+51199	Virginia	York	violent_crime_rate	125
+51510	Virginia	Alexandria City	violent_crime_rate	208
+51515	Virginia	Bedford City	violent_crime_rate	282
+51520	Virginia	Bristol City	violent_crime_rate	352
+51530	Virginia	Buena Vista City	violent_crime_rate	100
+51540	Virginia	Charlottesville City	violent_crime_rate	524
+51550	Virginia	Chesapeake City	violent_crime_rate	416
+51570	Virginia	Colonial Heights City	violent_crime_rate	259
+51580	Virginia	Covington City	violent_crime_rate	242
+51590	Virginia	Danville City	violent_crime_rate	462
+51595	Virginia	Emporia City	violent_crime_rate	693
+51600	Virginia	Fairfax City	violent_crime_rate	124
+51610	Virginia	Falls Church City	violent_crime_rate	139
+51620	Virginia	Franklin City	violent_crime_rate	415
+51630	Virginia	Fredericksburg City	violent_crime_rate	496
+51640	Virginia	Galax City	violent_crime_rate	421
+51650	Virginia	Hampton City	violent_crime_rate	311
+51660	Virginia	Harrisonburg City	violent_crime_rate	268
+51670	Virginia	Hopewell City	violent_crime_rate	1002
+51678	Virginia	Lexington City	violent_crime_rate	33
+51680	Virginia	Lynchburg City	violent_crime_rate	456
+51683	Virginia	Manassas City	violent_crime_rate	424
+51685	Virginia	Manassas Park City	violent_crime_rate	139
+51690	Virginia	Martinsville City	violent_crime_rate	325
+51700	Virginia	Newport News City	violent_crime_rate	604
+51710	Virginia	Norfolk City	violent_crime_rate	716
+51720	Virginia	Norton City	violent_crime_rate	212
+51730	Virginia	Petersburg City	violent_crime_rate	1180
+51735	Virginia	Poquoson City	violent_crime_rate	142
+51740	Virginia	Portsmouth City	violent_crime_rate	687
+51750	Virginia	Radford City	violent_crime_rate	490
+51760	Virginia	Richmond City	violent_crime_rate	796
+51770	Virginia	Roanoke City	violent_crime_rate	732
+51775	Virginia	Salem City	violent_crime_rate	135
+51790	Virginia	Staunton City	violent_crime_rate	173
+51800	Virginia	Suffolk City	violent_crime_rate	346
+51810	Virginia	Virginia Beach City	violent_crime_rate	212
+51820	Virginia	Waynesboro City	violent_crime_rate	353
+51830	Virginia	Williamsburg City	violent_crime_rate	210
+51840	Virginia	Winchester City	violent_crime_rate	292
+53001	Washington	Adams	violent_crime_rate	330
+53003	Washington	Asotin	violent_crime_rate	203
+53005	Washington	Benton	violent_crime_rate	243
+53007	Washington	Chelan	violent_crime_rate	184
+53009	Washington	Clallam	violent_crime_rate	273
+53011	Washington	Clark	violent_crime_rate	233
+53013	Washington	Columbia	violent_crime_rate	66
+53015	Washington	Cowlitz	violent_crime_rate	275
+53017	Washington	Douglas	violent_crime_rate	188
+53019	Washington	Ferry	violent_crime_rate	107
+53021	Washington	Franklin	violent_crime_rate	275
+53023	Washington	Garfield	violent_crime_rate	127
+53025	Washington	Grant	violent_crime_rate	319
+53027	Washington	Grays Harbor	violent_crime_rate	190
+53029	Washington	Island	violent_crime_rate	125
+53031	Washington	Jefferson	violent_crime_rate	188
+53033	Washington	King	violent_crime_rate	359
+53035	Washington	Kitsap	violent_crime_rate	433
+53037	Washington	Kittitas	violent_crime_rate	172
+53039	Washington	Klickitat	violent_crime_rate	88
+53041	Washington	Lewis	violent_crime_rate	248
+53043	Washington	Lincoln	violent_crime_rate	122
+53045	Washington	Mason	violent_crime_rate	336
+53047	Washington	Okanogan	violent_crime_rate	149
+53049	Washington	Pacific	violent_crime_rate	221
+53051	Washington	Pend Oreille	violent_crime_rate	72
+53053	Washington	Pierce	violent_crime_rate	515
+53055	Washington	San Juan	violent_crime_rate	62
+53057	Washington	Skagit	violent_crime_rate	202
+53059	Washington	Skamania	violent_crime_rate	138
+53061	Washington	Snohomish	violent_crime_rate	245
+53063	Washington	Spokane	violent_crime_rate	380
+53065	Washington	Stevens	violent_crime_rate	126
+53067	Washington	Thurston	violent_crime_rate	251
+53069	Washington	Wahkiakum	violent_crime_rate	131
+53071	Washington	Walla Walla	violent_crime_rate	253
+53073	Washington	Whatcom	violent_crime_rate	205
+53075	Washington	Whitman	violent_crime_rate	128
+53077	Washington	Yakima	violent_crime_rate	335
+54001	West Virginia	Barbour	violent_crime_rate	176
+54003	West Virginia	Berkeley	violent_crime_rate	219
+54005	West Virginia	Boone	violent_crime_rate	262
+54007	West Virginia	Braxton	violent_crime_rate	266
+54009	West Virginia	Brooke	violent_crime_rate	104
+54011	West Virginia	Cabell	violent_crime_rate	381
+54013	West Virginia	Calhoun	violent_crime_rate	
+54015	West Virginia	Clay	violent_crime_rate	
+54017	West Virginia	Doddridge	violent_crime_rate	69
+54019	West Virginia	Fayette	violent_crime_rate	231
+54021	West Virginia	Gilmer	violent_crime_rate	277
+54023	West Virginia	Grant	violent_crime_rate	213
+54025	West Virginia	Greenbrier	violent_crime_rate	79
+54027	West Virginia	Hampshire	violent_crime_rate	193
+54029	West Virginia	Hancock	violent_crime_rate	90
+54031	West Virginia	Hardy	violent_crime_rate	226
+54033	West Virginia	Harrison	violent_crime_rate	298
+54035	West Virginia	Jackson	violent_crime_rate	76
+54037	West Virginia	Jefferson	violent_crime_rate	151
+54039	West Virginia	Kanawha	violent_crime_rate	509
+54041	West Virginia	Lewis	violent_crime_rate	145
+54043	West Virginia	Lincoln	violent_crime_rate	
+54045	West Virginia	Logan	violent_crime_rate	398
+54047	West Virginia	McDowell	violent_crime_rate	288
+54049	West Virginia	Marion	violent_crime_rate	211
+54051	West Virginia	Marshall	violent_crime_rate	138
+54053	West Virginia	Mason	violent_crime_rate	132
+54055	West Virginia	Mercer	violent_crime_rate	383
+54057	West Virginia	Mineral	violent_crime_rate	548
+54059	West Virginia	Mingo	violent_crime_rate	268
+54061	West Virginia	Monongalia	violent_crime_rate	315
+54063	West Virginia	Monroe	violent_crime_rate	128
+54065	West Virginia	Morgan	violent_crime_rate	129
+54067	West Virginia	Nicholas	violent_crime_rate	404
+54069	West Virginia	Ohio	violent_crime_rate	451
+54071	West Virginia	Pendleton	violent_crime_rate	
+54073	West Virginia	Pleasants	violent_crime_rate	58
+54075	West Virginia	Pocahontas	violent_crime_rate	277
+54077	West Virginia	Preston	violent_crime_rate	234
+54079	West Virginia	Putnam	violent_crime_rate	169
+54081	West Virginia	Raleigh	violent_crime_rate	424
+54083	West Virginia	Randolph	violent_crime_rate	331
+54085	West Virginia	Ritchie	violent_crime_rate	205
+54087	West Virginia	Roane	violent_crime_rate	169
+54089	West Virginia	Summers	violent_crime_rate	195
+54091	West Virginia	Taylor	violent_crime_rate	12
+54093	West Virginia	Tucker	violent_crime_rate	354
+54095	West Virginia	Tyler	violent_crime_rate	54
+54097	West Virginia	Upshur	violent_crime_rate	71
+54099	West Virginia	Wayne	violent_crime_rate	179
+54101	West Virginia	Webster	violent_crime_rate	
+54103	West Virginia	Wetzel	violent_crime_rate	73
+54105	West Virginia	Wirt	violent_crime_rate	203
+54107	West Virginia	Wood	violent_crime_rate	266
+54109	West Virginia	Wyoming	violent_crime_rate	204
+55001	Wisconsin	Adams	violent_crime_rate	173
+55003	Wisconsin	Ashland	violent_crime_rate	245
+55005	Wisconsin	Barron	violent_crime_rate	74
+55007	Wisconsin	Bayfield	violent_crime_rate	205
+55009	Wisconsin	Brown	violent_crime_rate	215
+55011	Wisconsin	Buffalo	violent_crime_rate	34
+55013	Wisconsin	Burnett	violent_crime_rate	137
+55015	Wisconsin	Calumet	violent_crime_rate	107
+55017	Wisconsin	Chippewa	violent_crime_rate	103
+55019	Wisconsin	Clark	violent_crime_rate	169
+55021	Wisconsin	Columbia	violent_crime_rate	187
+55023	Wisconsin	Crawford	violent_crime_rate	
+55025	Wisconsin	Dane	violent_crime_rate	252
+55027	Wisconsin	Dodge	violent_crime_rate	111
+55029	Wisconsin	Door	violent_crime_rate	42
+55031	Wisconsin	Douglas	violent_crime_rate	194
+55033	Wisconsin	Dunn	violent_crime_rate	120
+55035	Wisconsin	Eau Claire	violent_crime_rate	138
+55037	Wisconsin	Florence	violent_crime_rate	167
+55039	Wisconsin	Fond du Lac	violent_crime_rate	184
+55041	Wisconsin	Forest	violent_crime_rate	69
+55043	Wisconsin	Grant	violent_crime_rate	156
+55045	Wisconsin	Green	violent_crime_rate	112
+55047	Wisconsin	Green Lake	violent_crime_rate	39
+55049	Wisconsin	Iowa	violent_crime_rate	82
+55051	Wisconsin	Iron	violent_crime_rate	257
+55053	Wisconsin	Jackson	violent_crime_rate	51
+55055	Wisconsin	Jefferson	violent_crime_rate	188
+55057	Wisconsin	Juneau	violent_crime_rate	216
+55059	Wisconsin	Kenosha	violent_crime_rate	213
+55061	Wisconsin	Kewaunee	violent_crime_rate	49
+55063	Wisconsin	La Crosse	violent_crime_rate	208
+55065	Wisconsin	Lafayette	violent_crime_rate	40
+55067	Wisconsin	Langlade	violent_crime_rate	144
+55069	Wisconsin	Lincoln	violent_crime_rate	182
+55071	Wisconsin	Manitowoc	violent_crime_rate	125
+55073	Wisconsin	Marathon	violent_crime_rate	183
+55075	Wisconsin	Marinette	violent_crime_rate	61
+55077	Wisconsin	Marquette	violent_crime_rate	94
+55078	Wisconsin	Menominee	violent_crime_rate	373
+55079	Wisconsin	Milwaukee	violent_crime_rate	783
+55081	Wisconsin	Monroe	violent_crime_rate	127
+55083	Wisconsin	Oconto	violent_crime_rate	38
+55085	Wisconsin	Oneida	violent_crime_rate	81
+55087	Wisconsin	Outagamie	violent_crime_rate	136
+55089	Wisconsin	Ozaukee	violent_crime_rate	44
+55091	Wisconsin	Pepin	violent_crime_rate	72
+55093	Wisconsin	Pierce	violent_crime_rate	110
+55095	Wisconsin	Polk	violent_crime_rate	251
+55097	Wisconsin	Portage	violent_crime_rate	105
+55099	Wisconsin	Price	violent_crime_rate	169
+55101	Wisconsin	Racine	violent_crime_rate	295
+55103	Wisconsin	Richland	violent_crime_rate	59
+55105	Wisconsin	Rock	violent_crime_rate	248
+55107	Wisconsin	Rusk	violent_crime_rate	87
+55109	Wisconsin	St. Croix	violent_crime_rate	59
+55111	Wisconsin	Sauk	violent_crime_rate	172
+55113	Wisconsin	Sawyer	violent_crime_rate	175
+55115	Wisconsin	Shawano	violent_crime_rate	84
+55117	Wisconsin	Sheboygan	violent_crime_rate	132
+55119	Wisconsin	Taylor	violent_crime_rate	79
+55121	Wisconsin	Trempealeau	violent_crime_rate	53
+55123	Wisconsin	Vernon	violent_crime_rate	55
+55125	Wisconsin	Vilas	violent_crime_rate	67
+55127	Wisconsin	Walworth	violent_crime_rate	107
+55129	Wisconsin	Washburn	violent_crime_rate	71
+55131	Wisconsin	Washington	violent_crime_rate	83
+55133	Wisconsin	Waukesha	violent_crime_rate	70
+55135	Wisconsin	Waupaca	violent_crime_rate	118
+55137	Wisconsin	Waushara	violent_crime_rate	71
+55139	Wisconsin	Winnebago	violent_crime_rate	213
+55141	Wisconsin	Wood	violent_crime_rate	32
+56001	Wyoming	Albany	violent_crime_rate	112
+56003	Wyoming	Big Horn	violent_crime_rate	258
+56005	Wyoming	Campbell	violent_crime_rate	145
+56007	Wyoming	Carbon	violent_crime_rate	217
+56009	Wyoming	Converse	violent_crime_rate	205
+56011	Wyoming	Crook	violent_crime_rate	68
+56013	Wyoming	Fremont	violent_crime_rate	167
+56015	Wyoming	Goshen	violent_crime_rate	240
+56017	Wyoming	Hot Springs	violent_crime_rate	214
+56019	Wyoming	Johnson	violent_crime_rate	230
+56021	Wyoming	Laramie	violent_crime_rate	204
+56023	Wyoming	Lincoln	violent_crime_rate	121
+56025	Wyoming	Natrona	violent_crime_rate	225
+56027	Wyoming	Niobrara	violent_crime_rate	249
+56029	Wyoming	Park	violent_crime_rate	267
+56031	Wyoming	Platte	violent_crime_rate	86
+56033	Wyoming	Sheridan	violent_crime_rate	144
+56035	Wyoming	Sublette	violent_crime_rate	208
+56037	Wyoming	Sweetwater	violent_crime_rate	507
+56039	Wyoming	Teton	violent_crime_rate	233
+56041	Wyoming	Uinta	violent_crime_rate	66
+56043	Wyoming	Washakie	violent_crime_rate	153
+56045	Wyoming	Weston	violent_crime_rate	136

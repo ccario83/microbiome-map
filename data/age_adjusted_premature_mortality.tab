@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	age_adjusted_premature_mortality
+1001	Alabama	Autauga	age_adjusted_premature_mortality	439.5
+1003	Alabama	Baldwin	age_adjusted_premature_mortality	365
+1005	Alabama	Barbour	age_adjusted_premature_mortality	459.3
+1007	Alabama	Bibb	age_adjusted_premature_mortality	541.8
+1009	Alabama	Blount	age_adjusted_premature_mortality	426.2
+1011	Alabama	Bullock	age_adjusted_premature_mortality	514.8
+1013	Alabama	Butler	age_adjusted_premature_mortality	553
+1015	Alabama	Calhoun	age_adjusted_premature_mortality	532.3
+1017	Alabama	Chambers	age_adjusted_premature_mortality	531.1
+1019	Alabama	Cherokee	age_adjusted_premature_mortality	466.5
+1021	Alabama	Chilton	age_adjusted_premature_mortality	521.7
+1023	Alabama	Choctaw	age_adjusted_premature_mortality	515.6
+1025	Alabama	Clarke	age_adjusted_premature_mortality	452.2
+1027	Alabama	Clay	age_adjusted_premature_mortality	500.7
+1029	Alabama	Cleburne	age_adjusted_premature_mortality	531.6
+1031	Alabama	Coffee	age_adjusted_premature_mortality	398.2
+1033	Alabama	Colbert	age_adjusted_premature_mortality	493.2
+1035	Alabama	Conecuh	age_adjusted_premature_mortality	572.9
+1037	Alabama	Coosa	age_adjusted_premature_mortality	525.8
+1039	Alabama	Covington	age_adjusted_premature_mortality	473.9
+1041	Alabama	Crenshaw	age_adjusted_premature_mortality	499
+1043	Alabama	Cullman	age_adjusted_premature_mortality	467
+1045	Alabama	Dale	age_adjusted_premature_mortality	453.1
+1047	Alabama	Dallas	age_adjusted_premature_mortality	585.4
+1049	Alabama	DeKalb	age_adjusted_premature_mortality	475.2
+1051	Alabama	Elmore	age_adjusted_premature_mortality	432.5
+1053	Alabama	Escambia	age_adjusted_premature_mortality	497.3
+1055	Alabama	Etowah	age_adjusted_premature_mortality	553.8
+1057	Alabama	Fayette	age_adjusted_premature_mortality	542.8
+1059	Alabama	Franklin	age_adjusted_premature_mortality	546.5
+1061	Alabama	Geneva	age_adjusted_premature_mortality	459.2
+1063	Alabama	Greene	age_adjusted_premature_mortality	487.3
+1065	Alabama	Hale	age_adjusted_premature_mortality	594.7
+1067	Alabama	Henry	age_adjusted_premature_mortality	456
+1069	Alabama	Houston	age_adjusted_premature_mortality	414.9
+1071	Alabama	Jackson	age_adjusted_premature_mortality	524.6
+1073	Alabama	Jefferson	age_adjusted_premature_mortality	495.7
+1075	Alabama	Lamar	age_adjusted_premature_mortality	521.4
+1077	Alabama	Lauderdale	age_adjusted_premature_mortality	421.9
+1079	Alabama	Lawrence	age_adjusted_premature_mortality	520.3
+1081	Alabama	Lee	age_adjusted_premature_mortality	381
+1083	Alabama	Limestone	age_adjusted_premature_mortality	374
+1085	Alabama	Lowndes	age_adjusted_premature_mortality	632.8
+1087	Alabama	Macon	age_adjusted_premature_mortality	613.5
+1089	Alabama	Madison	age_adjusted_premature_mortality	372
+1091	Alabama	Marengo	age_adjusted_premature_mortality	505.2
+1093	Alabama	Marion	age_adjusted_premature_mortality	502.9
+1095	Alabama	Marshall	age_adjusted_premature_mortality	509.4
+1097	Alabama	Mobile	age_adjusted_premature_mortality	490
+1099	Alabama	Monroe	age_adjusted_premature_mortality	502.8
+1101	Alabama	Montgomery	age_adjusted_premature_mortality	437.8
+1103	Alabama	Morgan	age_adjusted_premature_mortality	440.1
+1105	Alabama	Perry	age_adjusted_premature_mortality	589.7
+1107	Alabama	Pickens	age_adjusted_premature_mortality	502
+1109	Alabama	Pike	age_adjusted_premature_mortality	504.6
+1111	Alabama	Randolph	age_adjusted_premature_mortality	511.2
+1113	Alabama	Russell	age_adjusted_premature_mortality	597.3
+1115	Alabama	St. Clair	age_adjusted_premature_mortality	460.2
+1117	Alabama	Shelby	age_adjusted_premature_mortality	308.2
+1119	Alabama	Sumter	age_adjusted_premature_mortality	520.4
+1121	Alabama	Talladega	age_adjusted_premature_mortality	533.5
+1123	Alabama	Tallapoosa	age_adjusted_premature_mortality	459.1
+1125	Alabama	Tuscaloosa	age_adjusted_premature_mortality	457.3
+1127	Alabama	Walker	age_adjusted_premature_mortality	634.5
+1129	Alabama	Washington	age_adjusted_premature_mortality	501.2
+1131	Alabama	Wilcox	age_adjusted_premature_mortality	574.4
+1133	Alabama	Winston	age_adjusted_premature_mortality	544.5
+2013	Alaska	Aleutians East	age_adjusted_premature_mortality	
+2016	Alaska	Aleutians West	age_adjusted_premature_mortality	181
+2020	Alaska	Anchorage	age_adjusted_premature_mortality	339.6
+2050	Alaska	Bethel	age_adjusted_premature_mortality	443.8
+2060	Alaska	Bristol Bay	age_adjusted_premature_mortality	
+2068	Alaska	Denali	age_adjusted_premature_mortality	
+2070	Alaska	Dillingham	age_adjusted_premature_mortality	387.2
+2090	Alaska	Fairbanks North Star	age_adjusted_premature_mortality	298
+2100	Alaska	Haines	age_adjusted_premature_mortality	346.2
+2110	Alaska	Juneau	age_adjusted_premature_mortality	286
+2122	Alaska	Kenai Peninsula	age_adjusted_premature_mortality	385.4
+2130	Alaska	Ketchikan Gateway	age_adjusted_premature_mortality	442.6
+2150	Alaska	Kodiak Island	age_adjusted_premature_mortality	314.6
+2164	Alaska	Lake and Peninsula	age_adjusted_premature_mortality	615.6
+2170	Alaska	Matanuska-Susitna	age_adjusted_premature_mortality	338.5
+2180	Alaska	Nome	age_adjusted_premature_mortality	671.4
+2185	Alaska	North Slope	age_adjusted_premature_mortality	435.7
+2188	Alaska	Northwest Arctic	age_adjusted_premature_mortality	560.9
+2201	Alaska	Prince of Wales-Outer Ketchikan	age_adjusted_premature_mortality	389.8
+2220	Alaska	Sitka	age_adjusted_premature_mortality	336.9
+2232	Alaska	Skagway-Hoonah-Angoon	age_adjusted_premature_mortality	354.8
+2240	Alaska	Southeast Fairbanks	age_adjusted_premature_mortality	327.4
+2261	Alaska	Valdez-Cordova	age_adjusted_premature_mortality	376.6
+2270	Alaska	Wade Hampton	age_adjusted_premature_mortality	678.8
+2280	Alaska	Wrangell-Petersburg	age_adjusted_premature_mortality	385.9
+2282	Alaska	Yakutat	age_adjusted_premature_mortality	
+2290	Alaska	Yukon-Koyukuk	age_adjusted_premature_mortality	651.9
+4001	Arizona	Apache	age_adjusted_premature_mortality	532.8
+4003	Arizona	Cochise	age_adjusted_premature_mortality	353.5
+4005	Arizona	Coconino	age_adjusted_premature_mortality	325.4
+4007	Arizona	Gila	age_adjusted_premature_mortality	453
+4009	Arizona	Graham	age_adjusted_premature_mortality	391.3
+4011	Arizona	Greenlee	age_adjusted_premature_mortality	302.8
+4012	Arizona	La Paz	age_adjusted_premature_mortality	487.6
+4013	Arizona	Maricopa	age_adjusted_premature_mortality	303.5
+4015	Arizona	Mohave	age_adjusted_premature_mortality	471.8
+4017	Arizona	Navajo	age_adjusted_premature_mortality	465.4
+4019	Arizona	Pima	age_adjusted_premature_mortality	342.7
+4021	Arizona	Pinal	age_adjusted_premature_mortality	306.3
+4023	Arizona	Santa Cruz	age_adjusted_premature_mortality	246.1
+4025	Arizona	Yavapai	age_adjusted_premature_mortality	336.4
+4027	Arizona	Yuma	age_adjusted_premature_mortality	287.3
+5001	Arkansas	Arkansas	age_adjusted_premature_mortality	544.7
+5003	Arkansas	Ashley	age_adjusted_premature_mortality	500.3
+5005	Arkansas	Baxter	age_adjusted_premature_mortality	440.9
+5007	Arkansas	Benton	age_adjusted_premature_mortality	326.6
+5009	Arkansas	Boone	age_adjusted_premature_mortality	421.6
+5011	Arkansas	Bradley	age_adjusted_premature_mortality	481.3
+5013	Arkansas	Calhoun	age_adjusted_premature_mortality	457.4
+5015	Arkansas	Carroll	age_adjusted_premature_mortality	392.4
+5017	Arkansas	Chicot	age_adjusted_premature_mortality	566.4
+5019	Arkansas	Clark	age_adjusted_premature_mortality	447.9
+5021	Arkansas	Clay	age_adjusted_premature_mortality	457.7
+5023	Arkansas	Cleburne	age_adjusted_premature_mortality	435.7
+5025	Arkansas	Cleveland	age_adjusted_premature_mortality	436.2
+5027	Arkansas	Columbia	age_adjusted_premature_mortality	507.7
+5029	Arkansas	Conway	age_adjusted_premature_mortality	494.4
+5031	Arkansas	Craighead	age_adjusted_premature_mortality	436
+5033	Arkansas	Crawford	age_adjusted_premature_mortality	463.4
+5035	Arkansas	Crittenden	age_adjusted_premature_mortality	615
+5037	Arkansas	Cross	age_adjusted_premature_mortality	498.8
+5039	Arkansas	Dallas	age_adjusted_premature_mortality	516
+5041	Arkansas	Desha	age_adjusted_premature_mortality	571.2
+5043	Arkansas	Drew	age_adjusted_premature_mortality	460.1
+5045	Arkansas	Faulkner	age_adjusted_premature_mortality	364.2
+5047	Arkansas	Franklin	age_adjusted_premature_mortality	464.8
+5049	Arkansas	Fulton	age_adjusted_premature_mortality	515.1
+5051	Arkansas	Garland	age_adjusted_premature_mortality	475.8
+5053	Arkansas	Grant	age_adjusted_premature_mortality	444.8
+5055	Arkansas	Greene	age_adjusted_premature_mortality	499.6
+5057	Arkansas	Hempstead	age_adjusted_premature_mortality	487.3
+5059	Arkansas	Hot Spring	age_adjusted_premature_mortality	451.8
+5061	Arkansas	Howard	age_adjusted_premature_mortality	489.7
+5063	Arkansas	Independence	age_adjusted_premature_mortality	487.9
+5065	Arkansas	Izard	age_adjusted_premature_mortality	469.1
+5067	Arkansas	Jackson	age_adjusted_premature_mortality	537
+5069	Arkansas	Jefferson	age_adjusted_premature_mortality	509.1
+5071	Arkansas	Johnson	age_adjusted_premature_mortality	444.1
+5073	Arkansas	Lafayette	age_adjusted_premature_mortality	612.7
+5075	Arkansas	Lawrence	age_adjusted_premature_mortality	531.3
+5077	Arkansas	Lee	age_adjusted_premature_mortality	633.5
+5079	Arkansas	Lincoln	age_adjusted_premature_mortality	483.5
+5081	Arkansas	Little River	age_adjusted_premature_mortality	547.8
+5083	Arkansas	Logan	age_adjusted_premature_mortality	511.7
+5085	Arkansas	Lonoke	age_adjusted_premature_mortality	437.3
+5087	Arkansas	Madison	age_adjusted_premature_mortality	398
+5089	Arkansas	Marion	age_adjusted_premature_mortality	461.9
+5091	Arkansas	Miller	age_adjusted_premature_mortality	455.5
+5093	Arkansas	Mississippi	age_adjusted_premature_mortality	658.6
+5095	Arkansas	Monroe	age_adjusted_premature_mortality	570.4
+5097	Arkansas	Montgomery	age_adjusted_premature_mortality	439.1
+5099	Arkansas	Nevada	age_adjusted_premature_mortality	489.9
+5101	Arkansas	Newton	age_adjusted_premature_mortality	463.3
+5103	Arkansas	Ouachita	age_adjusted_premature_mortality	614.8
+5105	Arkansas	Perry	age_adjusted_premature_mortality	433.9
+5107	Arkansas	Phillips	age_adjusted_premature_mortality	673.8
+5109	Arkansas	Pike	age_adjusted_premature_mortality	433.1
+5111	Arkansas	Poinsett	age_adjusted_premature_mortality	641.5
+5113	Arkansas	Polk	age_adjusted_premature_mortality	479.4
+5115	Arkansas	Pope	age_adjusted_premature_mortality	415.5
+5117	Arkansas	Prairie	age_adjusted_premature_mortality	497
+5119	Arkansas	Pulaski	age_adjusted_premature_mortality	435.3
+5121	Arkansas	Randolph	age_adjusted_premature_mortality	506.7
+5123	Arkansas	St. Francis	age_adjusted_premature_mortality	506.8
+5125	Arkansas	Saline	age_adjusted_premature_mortality	349.1
+5127	Arkansas	Scott	age_adjusted_premature_mortality	482.5
+5129	Arkansas	Searcy	age_adjusted_premature_mortality	365.5
+5131	Arkansas	Sebastian	age_adjusted_premature_mortality	441.8
+5133	Arkansas	Sevier	age_adjusted_premature_mortality	459.6
+5135	Arkansas	Sharp	age_adjusted_premature_mortality	499.6
+5137	Arkansas	Stone	age_adjusted_premature_mortality	438.7
+5139	Arkansas	Union	age_adjusted_premature_mortality	578.6
+5141	Arkansas	Van Buren	age_adjusted_premature_mortality	412.3
+5143	Arkansas	Washington	age_adjusted_premature_mortality	363.3
+5145	Arkansas	White	age_adjusted_premature_mortality	440.3
+5147	Arkansas	Woodruff	age_adjusted_premature_mortality	643.8
+5149	Arkansas	Yell	age_adjusted_premature_mortality	452.6
+6001	California	Alameda	age_adjusted_premature_mortality	267.1
+6003	California	Alpine	age_adjusted_premature_mortality	
+6005	California	Amador	age_adjusted_premature_mortality	350.3
+6007	California	Butte	age_adjusted_premature_mortality	403.8
+6009	California	Calaveras	age_adjusted_premature_mortality	323.2
+6011	California	Colusa	age_adjusted_premature_mortality	299.8
+6013	California	Contra Costa	age_adjusted_premature_mortality	263
+6015	California	Del Norte	age_adjusted_premature_mortality	455.4
+6017	California	El Dorado	age_adjusted_premature_mortality	259.9
+6019	California	Fresno	age_adjusted_premature_mortality	351.9
+6021	California	Glenn	age_adjusted_premature_mortality	353
+6023	California	Humboldt	age_adjusted_premature_mortality	407.3
+6025	California	Imperial	age_adjusted_premature_mortality	291.7
+6027	California	Inyo	age_adjusted_premature_mortality	339.1
+6029	California	Kern	age_adjusted_premature_mortality	394.4
+6031	California	Kings	age_adjusted_premature_mortality	349.1
+6033	California	Lake	age_adjusted_premature_mortality	479.7
+6035	California	Lassen	age_adjusted_premature_mortality	383.3
+6037	California	Los Angeles	age_adjusted_premature_mortality	281.4
+6039	California	Madera	age_adjusted_premature_mortality	333.4
+6041	California	Marin	age_adjusted_premature_mortality	189.2
+6043	California	Mariposa	age_adjusted_premature_mortality	349.6
+6045	California	Mendocino	age_adjusted_premature_mortality	380.1
+6047	California	Merced	age_adjusted_premature_mortality	342.7
+6049	California	Modoc	age_adjusted_premature_mortality	402.7
+6051	California	Mono	age_adjusted_premature_mortality	166.8
+6053	California	Monterey	age_adjusted_premature_mortality	253
+6055	California	Napa	age_adjusted_premature_mortality	266.6
+6057	California	Nevada	age_adjusted_premature_mortality	260
+6059	California	Orange	age_adjusted_premature_mortality	230
+6061	California	Placer	age_adjusted_premature_mortality	252.7
+6063	California	Plumas	age_adjusted_premature_mortality	335.4
+6065	California	Riverside	age_adjusted_premature_mortality	309.9
+6067	California	Sacramento	age_adjusted_premature_mortality	337.3
+6069	California	San Benito	age_adjusted_premature_mortality	267.7
+6071	California	San Bernardino	age_adjusted_premature_mortality	356.9
+6073	California	San Diego	age_adjusted_premature_mortality	270.9
+6075	California	San Francisco	age_adjusted_premature_mortality	270.6
+6077	California	San Joaquin	age_adjusted_premature_mortality	362.7
+6079	California	San Luis Obispo	age_adjusted_premature_mortality	265.7
+6081	California	San Mateo	age_adjusted_premature_mortality	218.3
+6083	California	Santa Barbara	age_adjusted_premature_mortality	263.5
+6085	California	Santa Clara	age_adjusted_premature_mortality	215.6
+6087	California	Santa Cruz	age_adjusted_premature_mortality	257.6
+6089	California	Shasta	age_adjusted_premature_mortality	419.6
+6091	California	Sierra	age_adjusted_premature_mortality	374
+6093	California	Siskiyou	age_adjusted_premature_mortality	389.3
+6095	California	Solano	age_adjusted_premature_mortality	326.1
+6097	California	Sonoma	age_adjusted_premature_mortality	273
+6099	California	Stanislaus	age_adjusted_premature_mortality	359.3
+6101	California	Sutter	age_adjusted_premature_mortality	348.5
+6103	California	Tehama	age_adjusted_premature_mortality	378.2
+6105	California	Trinity	age_adjusted_premature_mortality	410
+6107	California	Tulare	age_adjusted_premature_mortality	372.1
+6109	California	Tuolumne	age_adjusted_premature_mortality	321.8
+6111	California	Ventura	age_adjusted_premature_mortality	253.4
+6113	California	Yolo	age_adjusted_premature_mortality	275
+6115	California	Yuba	age_adjusted_premature_mortality	433.5
+8001	Colorado	Adams	age_adjusted_premature_mortality	339.1
+8003	Colorado	Alamosa	age_adjusted_premature_mortality	365.9
+8005	Colorado	Arapahoe	age_adjusted_premature_mortality	273.6
+8007	Colorado	Archuleta	age_adjusted_premature_mortality	257.8
+8009	Colorado	Baca	age_adjusted_premature_mortality	516
+8011	Colorado	Bent	age_adjusted_premature_mortality	478.7
+8013	Colorado	Boulder	age_adjusted_premature_mortality	221.1
+8014	Colorado	Broomfield	age_adjusted_premature_mortality	252.4
+8015	Colorado	Chaffee	age_adjusted_premature_mortality	289.2
+8017	Colorado	Cheyenne	age_adjusted_premature_mortality	376.8
+8019	Colorado	Clear Creek	age_adjusted_premature_mortality	331.7
+8021	Colorado	Conejos	age_adjusted_premature_mortality	382.6
+8023	Colorado	Costilla	age_adjusted_premature_mortality	356
+8025	Colorado	Crowley	age_adjusted_premature_mortality	288
+8027	Colorado	Custer	age_adjusted_premature_mortality	234
+8029	Colorado	Delta	age_adjusted_premature_mortality	338.5
+8031	Colorado	Denver	age_adjusted_premature_mortality	386.2
+8033	Colorado	Dolores	age_adjusted_premature_mortality	329.4
+8035	Colorado	Douglas	age_adjusted_premature_mortality	178.3
+8037	Colorado	Eagle	age_adjusted_premature_mortality	147.4
+8039	Colorado	Elbert	age_adjusted_premature_mortality	255.3
+8041	Colorado	El Paso	age_adjusted_premature_mortality	296.2
+8043	Colorado	Fremont	age_adjusted_premature_mortality	387.7
+8045	Colorado	Garfield	age_adjusted_premature_mortality	257.7
+8047	Colorado	Gilpin	age_adjusted_premature_mortality	276.4
+8049	Colorado	Grand	age_adjusted_premature_mortality	205.2
+8051	Colorado	Gunnison	age_adjusted_premature_mortality	211.4
+8053	Colorado	Hinsdale	age_adjusted_premature_mortality	
+8055	Colorado	Huerfano	age_adjusted_premature_mortality	466.7
+8057	Colorado	Jackson	age_adjusted_premature_mortality	
+8059	Colorado	Jefferson	age_adjusted_premature_mortality	270.4
+8061	Colorado	Kiowa	age_adjusted_premature_mortality	458.3
+8063	Colorado	Kit Carson	age_adjusted_premature_mortality	352.8
+8065	Colorado	Lake	age_adjusted_premature_mortality	305.6
+8067	Colorado	La Plata	age_adjusted_premature_mortality	231.8
+8069	Colorado	Larimer	age_adjusted_premature_mortality	236.8
+8071	Colorado	Las Animas	age_adjusted_premature_mortality	436.7
+8073	Colorado	Lincoln	age_adjusted_premature_mortality	318.9
+8075	Colorado	Logan	age_adjusted_premature_mortality	304.1
+8077	Colorado	Mesa	age_adjusted_premature_mortality	337
+8079	Colorado	Mineral	age_adjusted_premature_mortality	
+8081	Colorado	Moffat	age_adjusted_premature_mortality	357.6
+8083	Colorado	Montezuma	age_adjusted_premature_mortality	393.9
+8085	Colorado	Montrose	age_adjusted_premature_mortality	314.1
+8087	Colorado	Morgan	age_adjusted_premature_mortality	362.5
+8089	Colorado	Otero	age_adjusted_premature_mortality	449.7
+8091	Colorado	Ouray	age_adjusted_premature_mortality	183
+8093	Colorado	Park	age_adjusted_premature_mortality	239.1
+8095	Colorado	Phillips	age_adjusted_premature_mortality	348.4
+8097	Colorado	Pitkin	age_adjusted_premature_mortality	163.2
+8099	Colorado	Prowers	age_adjusted_premature_mortality	457.8
+8101	Colorado	Pueblo	age_adjusted_premature_mortality	418.6
+8103	Colorado	Rio Blanco	age_adjusted_premature_mortality	289.1
+8105	Colorado	Rio Grande	age_adjusted_premature_mortality	383.7
+8107	Colorado	Routt	age_adjusted_premature_mortality	234.5
+8109	Colorado	Saguache	age_adjusted_premature_mortality	345.9
+8111	Colorado	San Juan	age_adjusted_premature_mortality	
+8113	Colorado	San Miguel	age_adjusted_premature_mortality	149
+8115	Colorado	Sedgwick	age_adjusted_premature_mortality	422.1
+8117	Colorado	Summit	age_adjusted_premature_mortality	133.5
+8119	Colorado	Teller	age_adjusted_premature_mortality	281.5
+8121	Colorado	Washington	age_adjusted_premature_mortality	281.3
+8123	Colorado	Weld	age_adjusted_premature_mortality	292.3
+8125	Colorado	Yuma	age_adjusted_premature_mortality	292.6
+9001	Connecticut	Fairfield	age_adjusted_premature_mortality	232.5
+9003	Connecticut	Hartford	age_adjusted_premature_mortality	291.9
+9005	Connecticut	Litchfield	age_adjusted_premature_mortality	262.6
+9007	Connecticut	Middlesex	age_adjusted_premature_mortality	259.2
+9009	Connecticut	New Haven	age_adjusted_premature_mortality	302.5
+9011	Connecticut	New London	age_adjusted_premature_mortality	287.4
+9013	Connecticut	Tolland	age_adjusted_premature_mortality	240
+9015	Connecticut	Windham	age_adjusted_premature_mortality	327.6
+10001	Delaware	Kent	age_adjusted_premature_mortality	405.2
+10003	Delaware	New Castle	age_adjusted_premature_mortality	351.7
+10005	Delaware	Sussex	age_adjusted_premature_mortality	350
+11001	District of Columbia	District of Columbia	age_adjusted_premature_mortality	462.4
+12001	Florida	Alachua	age_adjusted_premature_mortality	354.6
+12003	Florida	Baker	age_adjusted_premature_mortality	494.8
+12005	Florida	Bay	age_adjusted_premature_mortality	434.4
+12007	Florida	Bradford	age_adjusted_premature_mortality	491
+12009	Florida	Brevard	age_adjusted_premature_mortality	358.7
+12011	Florida	Broward	age_adjusted_premature_mortality	317.4
+12013	Florida	Calhoun	age_adjusted_premature_mortality	422.8
+12015	Florida	Charlotte	age_adjusted_premature_mortality	332.2
+12017	Florida	Citrus	age_adjusted_premature_mortality	433.6
+12019	Florida	Clay	age_adjusted_premature_mortality	361.1
+12021	Florida	Collier	age_adjusted_premature_mortality	238.4
+12023	Florida	Columbia	age_adjusted_premature_mortality	483.4
+12027	Florida	DeSoto	age_adjusted_premature_mortality	365.3
+12029	Florida	Dixie	age_adjusted_premature_mortality	499.3
+12031	Florida	Duval	age_adjusted_premature_mortality	440.8
+12033	Florida	Escambia	age_adjusted_premature_mortality	451.4
+12035	Florida	Flagler	age_adjusted_premature_mortality	316
+12037	Florida	Franklin	age_adjusted_premature_mortality	400.2
+12039	Florida	Gadsden	age_adjusted_premature_mortality	475.9
+12041	Florida	Gilchrist	age_adjusted_premature_mortality	449.9
+12043	Florida	Glades	age_adjusted_premature_mortality	345.8
+12045	Florida	Gulf	age_adjusted_premature_mortality	402.8
+12047	Florida	Hamilton	age_adjusted_premature_mortality	444.9
+12049	Florida	Hardee	age_adjusted_premature_mortality	386
+12051	Florida	Hendry	age_adjusted_premature_mortality	437.4
+12053	Florida	Hernando	age_adjusted_premature_mortality	419.9
+12055	Florida	Highlands	age_adjusted_premature_mortality	365.9
+12057	Florida	Hillsborough	age_adjusted_premature_mortality	368.4
+12059	Florida	Holmes	age_adjusted_premature_mortality	519
+12061	Florida	Indian River	age_adjusted_premature_mortality	315.1
+12063	Florida	Jackson	age_adjusted_premature_mortality	437.1
+12065	Florida	Jefferson	age_adjusted_premature_mortality	414.3
+12067	Florida	Lafayette	age_adjusted_premature_mortality	464.2
+12069	Florida	Lake	age_adjusted_premature_mortality	348.5
+12071	Florida	Lee	age_adjusted_premature_mortality	295.1
+12073	Florida	Leon	age_adjusted_premature_mortality	317.7
+12075	Florida	Levy	age_adjusted_premature_mortality	453.9
+12077	Florida	Liberty	age_adjusted_premature_mortality	438
+12079	Florida	Madison	age_adjusted_premature_mortality	469.5
+12081	Florida	Manatee	age_adjusted_premature_mortality	332.5
+12083	Florida	Marion	age_adjusted_premature_mortality	394.4
+12085	Florida	Martin	age_adjusted_premature_mortality	289.3
+12086	Florida	Miami-Dade	age_adjusted_premature_mortality	292.3
+12087	Florida	Monroe	age_adjusted_premature_mortality	374.6
+12089	Florida	Nassau	age_adjusted_premature_mortality	379.9
+12091	Florida	Okaloosa	age_adjusted_premature_mortality	365.3
+12093	Florida	Okeechobee	age_adjusted_premature_mortality	471.7
+12095	Florida	Orange	age_adjusted_premature_mortality	322.3
+12097	Florida	Osceola	age_adjusted_premature_mortality	315.5
+12099	Florida	Palm Beach	age_adjusted_premature_mortality	298.2
+12101	Florida	Pasco	age_adjusted_premature_mortality	402.8
+12103	Florida	Pinellas	age_adjusted_premature_mortality	386.4
+12105	Florida	Polk	age_adjusted_premature_mortality	376.7
+12107	Florida	Putnam	age_adjusted_premature_mortality	506
+12109	Florida	St. Johns	age_adjusted_premature_mortality	285.7
+12111	Florida	St. Lucie	age_adjusted_premature_mortality	345.5
+12113	Florida	Santa Rosa	age_adjusted_premature_mortality	357.7
+12115	Florida	Sarasota	age_adjusted_premature_mortality	300.9
+12117	Florida	Seminole	age_adjusted_premature_mortality	295.2
+12119	Florida	Sumter	age_adjusted_premature_mortality	311.1
+12121	Florida	Suwannee	age_adjusted_premature_mortality	473.3
+12123	Florida	Taylor	age_adjusted_premature_mortality	452.7
+12125	Florida	Union	age_adjusted_premature_mortality	883.5
+12127	Florida	Volusia	age_adjusted_premature_mortality	404.9
+12129	Florida	Wakulla	age_adjusted_premature_mortality	374.2
+12131	Florida	Walton	age_adjusted_premature_mortality	425.9
+12133	Florida	Washington	age_adjusted_premature_mortality	519.1
+13001	Georgia	Appling	age_adjusted_premature_mortality	549.1
+13003	Georgia	Atkinson	age_adjusted_premature_mortality	523.5
+13005	Georgia	Bacon	age_adjusted_premature_mortality	528.7
+13007	Georgia	Baker	age_adjusted_premature_mortality	394.4
+13009	Georgia	Baldwin	age_adjusted_premature_mortality	431.4
+13011	Georgia	Banks	age_adjusted_premature_mortality	402.2
+13013	Georgia	Barrow	age_adjusted_premature_mortality	410.8
+13015	Georgia	Bartow	age_adjusted_premature_mortality	430.8
+13017	Georgia	Ben Hill	age_adjusted_premature_mortality	519.6
+13019	Georgia	Berrien	age_adjusted_premature_mortality	442.6
+13021	Georgia	Bibb	age_adjusted_premature_mortality	538.5
+13023	Georgia	Bleckley	age_adjusted_premature_mortality	508.2
+13025	Georgia	Brantley	age_adjusted_premature_mortality	561.6
+13027	Georgia	Brooks	age_adjusted_premature_mortality	402.6
+13029	Georgia	Bryan	age_adjusted_premature_mortality	420.2
+13031	Georgia	Bulloch	age_adjusted_premature_mortality	422.2
+13033	Georgia	Burke	age_adjusted_premature_mortality	513.1
+13035	Georgia	Butts	age_adjusted_premature_mortality	557
+13037	Georgia	Calhoun	age_adjusted_premature_mortality	402.4
+13039	Georgia	Camden	age_adjusted_premature_mortality	366.7
+13043	Georgia	Candler	age_adjusted_premature_mortality	519.6
+13045	Georgia	Carroll	age_adjusted_premature_mortality	445.1
+13047	Georgia	Catoosa	age_adjusted_premature_mortality	359.3
+13049	Georgia	Charlton	age_adjusted_premature_mortality	413.6
+13051	Georgia	Chatham	age_adjusted_premature_mortality	410.7
+13053	Georgia	Chattahoochee	age_adjusted_premature_mortality	575.5
+13055	Georgia	Chattooga	age_adjusted_premature_mortality	515.9
+13057	Georgia	Cherokee	age_adjusted_premature_mortality	290
+13059	Georgia	Clarke	age_adjusted_premature_mortality	356.4
+13061	Georgia	Clay	age_adjusted_premature_mortality	704
+13063	Georgia	Clayton	age_adjusted_premature_mortality	422.2
+13065	Georgia	Clinch	age_adjusted_premature_mortality	561.6
+13067	Georgia	Cobb	age_adjusted_premature_mortality	282.8
+13069	Georgia	Coffee	age_adjusted_premature_mortality	477.6
+13071	Georgia	Colquitt	age_adjusted_premature_mortality	449.1
+13073	Georgia	Columbia	age_adjusted_premature_mortality	310.6
+13075	Georgia	Cook	age_adjusted_premature_mortality	500.6
+13077	Georgia	Coweta	age_adjusted_premature_mortality	329.4
+13079	Georgia	Crawford	age_adjusted_premature_mortality	391.1
+13081	Georgia	Crisp	age_adjusted_premature_mortality	477.6
+13083	Georgia	Dade	age_adjusted_premature_mortality	514.4
+13085	Georgia	Dawson	age_adjusted_premature_mortality	330.3
+13087	Georgia	Decatur	age_adjusted_premature_mortality	550.9
+13089	Georgia	DeKalb	age_adjusted_premature_mortality	341.8
+13091	Georgia	Dodge	age_adjusted_premature_mortality	492.8
+13093	Georgia	Dooly	age_adjusted_premature_mortality	320.2
+13095	Georgia	Dougherty	age_adjusted_premature_mortality	465.4
+13097	Georgia	Douglas	age_adjusted_premature_mortality	380.6
+13099	Georgia	Early	age_adjusted_premature_mortality	557.1
+13101	Georgia	Echols	age_adjusted_premature_mortality	399.6
+13103	Georgia	Effingham	age_adjusted_premature_mortality	397
+13105	Georgia	Elbert	age_adjusted_premature_mortality	488.9
+13107	Georgia	Emanuel	age_adjusted_premature_mortality	559.6
+13109	Georgia	Evans	age_adjusted_premature_mortality	501.4
+13111	Georgia	Fannin	age_adjusted_premature_mortality	410.5
+13113	Georgia	Fayette	age_adjusted_premature_mortality	253.9
+13115	Georgia	Floyd	age_adjusted_premature_mortality	446.2
+13117	Georgia	Forsyth	age_adjusted_premature_mortality	234.1
+13119	Georgia	Franklin	age_adjusted_premature_mortality	509.8
+13121	Georgia	Fulton	age_adjusted_premature_mortality	398.6
+13123	Georgia	Gilmer	age_adjusted_premature_mortality	348.6
+13125	Georgia	Glascock	age_adjusted_premature_mortality	545.2
+13127	Georgia	Glynn	age_adjusted_premature_mortality	412.7
+13129	Georgia	Gordon	age_adjusted_premature_mortality	453.3
+13131	Georgia	Grady	age_adjusted_premature_mortality	414.3
+13133	Georgia	Greene	age_adjusted_premature_mortality	403.4
+13135	Georgia	Gwinnett	age_adjusted_premature_mortality	265.3
+13137	Georgia	Habersham	age_adjusted_premature_mortality	361
+13139	Georgia	Hall	age_adjusted_premature_mortality	328.1
+13141	Georgia	Hancock	age_adjusted_premature_mortality	453.9
+13143	Georgia	Haralson	age_adjusted_premature_mortality	540.9
+13145	Georgia	Harris	age_adjusted_premature_mortality	381.8
+13147	Georgia	Hart	age_adjusted_premature_mortality	409.8
+13149	Georgia	Heard	age_adjusted_premature_mortality	543.5
+13151	Georgia	Henry	age_adjusted_premature_mortality	359.3
+13153	Georgia	Houston	age_adjusted_premature_mortality	380
+13155	Georgia	Irwin	age_adjusted_premature_mortality	491
+13157	Georgia	Jackson	age_adjusted_premature_mortality	408.7
+13159	Georgia	Jasper	age_adjusted_premature_mortality	434.6
+13161	Georgia	Jeff Davis	age_adjusted_premature_mortality	543
+13163	Georgia	Jefferson	age_adjusted_premature_mortality	534.9
+13165	Georgia	Jenkins	age_adjusted_premature_mortality	541.5
+13167	Georgia	Johnson	age_adjusted_premature_mortality	421.5
+13169	Georgia	Jones	age_adjusted_premature_mortality	388.2
+13171	Georgia	Lamar	age_adjusted_premature_mortality	508.4
+13173	Georgia	Lanier	age_adjusted_premature_mortality	538.8
+13175	Georgia	Laurens	age_adjusted_premature_mortality	485.6
+13177	Georgia	Lee	age_adjusted_premature_mortality	379
+13179	Georgia	Liberty	age_adjusted_premature_mortality	407.5
+13181	Georgia	Lincoln	age_adjusted_premature_mortality	445.4
+13183	Georgia	Long	age_adjusted_premature_mortality	408.8
+13185	Georgia	Lowndes	age_adjusted_premature_mortality	462.4
+13187	Georgia	Lumpkin	age_adjusted_premature_mortality	361.1
+13189	Georgia	McDuffie	age_adjusted_premature_mortality	585.7
+13191	Georgia	McIntosh	age_adjusted_premature_mortality	361.5
+13193	Georgia	Macon	age_adjusted_premature_mortality	468.5
+13195	Georgia	Madison	age_adjusted_premature_mortality	468.3
+13197	Georgia	Marion	age_adjusted_premature_mortality	440.8
+13199	Georgia	Meriwether	age_adjusted_premature_mortality	484.2
+13201	Georgia	Miller	age_adjusted_premature_mortality	570.7
+13205	Georgia	Mitchell	age_adjusted_premature_mortality	512
+13207	Georgia	Monroe	age_adjusted_premature_mortality	390.8
+13209	Georgia	Montgomery	age_adjusted_premature_mortality	458.7
+13211	Georgia	Morgan	age_adjusted_premature_mortality	389.4
+13213	Georgia	Murray	age_adjusted_premature_mortality	474.8
+13215	Georgia	Muscogee	age_adjusted_premature_mortality	504.7
+13217	Georgia	Newton	age_adjusted_premature_mortality	410.8
+13219	Georgia	Oconee	age_adjusted_premature_mortality	250.3
+13221	Georgia	Oglethorpe	age_adjusted_premature_mortality	358.4
+13223	Georgia	Paulding	age_adjusted_premature_mortality	336
+13225	Georgia	Peach	age_adjusted_premature_mortality	505.9
+13227	Georgia	Pickens	age_adjusted_premature_mortality	402.5
+13229	Georgia	Pierce	age_adjusted_premature_mortality	527.9
+13231	Georgia	Pike	age_adjusted_premature_mortality	412.6
+13233	Georgia	Polk	age_adjusted_premature_mortality	533.1
+13235	Georgia	Pulaski	age_adjusted_premature_mortality	391.5
+13237	Georgia	Putnam	age_adjusted_premature_mortality	393.8
+13239	Georgia	Quitman	age_adjusted_premature_mortality	390
+13241	Georgia	Rabun	age_adjusted_premature_mortality	432.7
+13243	Georgia	Randolph	age_adjusted_premature_mortality	449.1
+13245	Georgia	Richmond	age_adjusted_premature_mortality	545.5
+13247	Georgia	Rockdale	age_adjusted_premature_mortality	333
+13249	Georgia	Schley	age_adjusted_premature_mortality	421.9
+13251	Georgia	Screven	age_adjusted_premature_mortality	526.7
+13253	Georgia	Seminole	age_adjusted_premature_mortality	474.6
+13255	Georgia	Spalding	age_adjusted_premature_mortality	495.4
+13257	Georgia	Stephens	age_adjusted_premature_mortality	485.1
+13259	Georgia	Stewart	age_adjusted_premature_mortality	628.9
+13261	Georgia	Sumter	age_adjusted_premature_mortality	452.2
+13263	Georgia	Talbot	age_adjusted_premature_mortality	496.4
+13265	Georgia	Taliaferro	age_adjusted_premature_mortality	649.1
+13267	Georgia	Tattnall	age_adjusted_premature_mortality	491.5
+13269	Georgia	Taylor	age_adjusted_premature_mortality	470.4
+13271	Georgia	Telfair	age_adjusted_premature_mortality	414.2
+13273	Georgia	Terrell	age_adjusted_premature_mortality	514.4
+13275	Georgia	Thomas	age_adjusted_premature_mortality	481.2
+13277	Georgia	Tift	age_adjusted_premature_mortality	456.6
+13279	Georgia	Toombs	age_adjusted_premature_mortality	486.3
+13281	Georgia	Towns	age_adjusted_premature_mortality	371.6
+13283	Georgia	Treutlen	age_adjusted_premature_mortality	530.9
+13285	Georgia	Troup	age_adjusted_premature_mortality	478.8
+13287	Georgia	Turner	age_adjusted_premature_mortality	539.9
+13289	Georgia	Twiggs	age_adjusted_premature_mortality	522.2
+13291	Georgia	Union	age_adjusted_premature_mortality	343.3
+13293	Georgia	Upson	age_adjusted_premature_mortality	525.4
+13295	Georgia	Walker	age_adjusted_premature_mortality	479.2
+13297	Georgia	Walton	age_adjusted_premature_mortality	435.6
+13299	Georgia	Ware	age_adjusted_premature_mortality	514.4
+13301	Georgia	Warren	age_adjusted_premature_mortality	570.5
+13303	Georgia	Washington	age_adjusted_premature_mortality	509.6
+13305	Georgia	Wayne	age_adjusted_premature_mortality	478
+13307	Georgia	Webster	age_adjusted_premature_mortality	371.5
+13309	Georgia	Wheeler	age_adjusted_premature_mortality	431.3
+13311	Georgia	White	age_adjusted_premature_mortality	381.9
+13313	Georgia	Whitfield	age_adjusted_premature_mortality	395.4
+13315	Georgia	Wilcox	age_adjusted_premature_mortality	639.8
+13317	Georgia	Wilkes	age_adjusted_premature_mortality	486.4
+13319	Georgia	Wilkinson	age_adjusted_premature_mortality	475.8
+13321	Georgia	Worth	age_adjusted_premature_mortality	407.6
+15001	Hawaii	Hawaii	age_adjusted_premature_mortality	312.4
+15003	Hawaii	Honolulu	age_adjusted_premature_mortality	272.1
+15005	Hawaii	Kalawao	age_adjusted_premature_mortality	
+15007	Hawaii	Kauai	age_adjusted_premature_mortality	293
+15009	Hawaii	Maui	age_adjusted_premature_mortality	280.4
+16001	Idaho	Ada	age_adjusted_premature_mortality	256.2
+16003	Idaho	Adams	age_adjusted_premature_mortality	265.9
+16005	Idaho	Bannock	age_adjusted_premature_mortality	370.3
+16007	Idaho	Bear Lake	age_adjusted_premature_mortality	397.2
+16009	Idaho	Benewah	age_adjusted_premature_mortality	406.5
+16011	Idaho	Bingham	age_adjusted_premature_mortality	351.2
+16013	Idaho	Blaine	age_adjusted_premature_mortality	221.3
+16015	Idaho	Boise	age_adjusted_premature_mortality	299.9
+16017	Idaho	Bonner	age_adjusted_premature_mortality	319.2
+16019	Idaho	Bonneville	age_adjusted_premature_mortality	319.4
+16021	Idaho	Boundary	age_adjusted_premature_mortality	338.2
+16023	Idaho	Butte	age_adjusted_premature_mortality	302.2
+16025	Idaho	Camas	age_adjusted_premature_mortality	
+16027	Idaho	Canyon	age_adjusted_premature_mortality	319.3
+16029	Idaho	Caribou	age_adjusted_premature_mortality	377.7
+16031	Idaho	Cassia	age_adjusted_premature_mortality	315.7
+16033	Idaho	Clark	age_adjusted_premature_mortality	
+16035	Idaho	Clearwater	age_adjusted_premature_mortality	368.3
+16037	Idaho	Custer	age_adjusted_premature_mortality	280.2
+16039	Idaho	Elmore	age_adjusted_premature_mortality	366
+16041	Idaho	Franklin	age_adjusted_premature_mortality	237
+16043	Idaho	Fremont	age_adjusted_premature_mortality	306
+16045	Idaho	Gem	age_adjusted_premature_mortality	341.8
+16047	Idaho	Gooding	age_adjusted_premature_mortality	343
+16049	Idaho	Idaho	age_adjusted_premature_mortality	357.8
+16051	Idaho	Jefferson	age_adjusted_premature_mortality	247.6
+16053	Idaho	Jerome	age_adjusted_premature_mortality	356.8
+16055	Idaho	Kootenai	age_adjusted_premature_mortality	301.4
+16057	Idaho	Latah	age_adjusted_premature_mortality	255.7
+16059	Idaho	Lemhi	age_adjusted_premature_mortality	386.6
+16061	Idaho	Lewis	age_adjusted_premature_mortality	352.8
+16063	Idaho	Lincoln	age_adjusted_premature_mortality	439.3
+16065	Idaho	Madison	age_adjusted_premature_mortality	230.2
+16067	Idaho	Minidoka	age_adjusted_premature_mortality	374.3
+16069	Idaho	Nez Perce	age_adjusted_premature_mortality	382.3
+16071	Idaho	Oneida	age_adjusted_premature_mortality	334.7
+16073	Idaho	Owyhee	age_adjusted_premature_mortality	324.4
+16075	Idaho	Payette	age_adjusted_premature_mortality	350.1
+16077	Idaho	Power	age_adjusted_premature_mortality	305.9
+16079	Idaho	Shoshone	age_adjusted_premature_mortality	468.1
+16081	Idaho	Teton	age_adjusted_premature_mortality	252
+16083	Idaho	Twin Falls	age_adjusted_premature_mortality	366.7
+16085	Idaho	Valley	age_adjusted_premature_mortality	206.3
+16087	Idaho	Washington	age_adjusted_premature_mortality	335.3
+17001	Illinois	Adams	age_adjusted_premature_mortality	345.4
+17003	Illinois	Alexander	age_adjusted_premature_mortality	543.7
+17005	Illinois	Bond	age_adjusted_premature_mortality	350.2
+17007	Illinois	Boone	age_adjusted_premature_mortality	284.7
+17009	Illinois	Brown	age_adjusted_premature_mortality	336.8
+17011	Illinois	Bureau	age_adjusted_premature_mortality	348.7
+17013	Illinois	Calhoun	age_adjusted_premature_mortality	317.5
+17015	Illinois	Carroll	age_adjusted_premature_mortality	386.6
+17017	Illinois	Cass	age_adjusted_premature_mortality	387
+17019	Illinois	Champaign	age_adjusted_premature_mortality	290.1
+17021	Illinois	Christian	age_adjusted_premature_mortality	375
+17023	Illinois	Clark	age_adjusted_premature_mortality	389.4
+17025	Illinois	Clay	age_adjusted_premature_mortality	432
+17027	Illinois	Clinton	age_adjusted_premature_mortality	293.4
+17029	Illinois	Coles	age_adjusted_premature_mortality	410.2
+17031	Illinois	Cook	age_adjusted_premature_mortality	361.7
+17033	Illinois	Crawford	age_adjusted_premature_mortality	396.7
+17035	Illinois	Cumberland	age_adjusted_premature_mortality	325.7
+17037	Illinois	DeKalb	age_adjusted_premature_mortality	278.9
+17039	Illinois	De Witt	age_adjusted_premature_mortality	354.6
+17041	Illinois	Douglas	age_adjusted_premature_mortality	307.8
+17043	Illinois	DuPage	age_adjusted_premature_mortality	231.2
+17045	Illinois	Edgar	age_adjusted_premature_mortality	399.2
+17047	Illinois	Edwards	age_adjusted_premature_mortality	459.6
+17049	Illinois	Effingham	age_adjusted_premature_mortality	326.7
+17051	Illinois	Fayette	age_adjusted_premature_mortality	327.3
+17053	Illinois	Ford	age_adjusted_premature_mortality	397.8
+17055	Illinois	Franklin	age_adjusted_premature_mortality	496.6
+17057	Illinois	Fulton	age_adjusted_premature_mortality	380.1
+17059	Illinois	Gallatin	age_adjusted_premature_mortality	570.6
+17061	Illinois	Greene	age_adjusted_premature_mortality	403
+17063	Illinois	Grundy	age_adjusted_premature_mortality	332.6
+17065	Illinois	Hamilton	age_adjusted_premature_mortality	412.1
+17067	Illinois	Hancock	age_adjusted_premature_mortality	303.5
+17069	Illinois	Hardin	age_adjusted_premature_mortality	512.4
+17071	Illinois	Henderson	age_adjusted_premature_mortality	332.7
+17073	Illinois	Henry	age_adjusted_premature_mortality	310.7
+17075	Illinois	Iroquois	age_adjusted_premature_mortality	407.9
+17077	Illinois	Jackson	age_adjusted_premature_mortality	384
+17079	Illinois	Jasper	age_adjusted_premature_mortality	347.4
+17081	Illinois	Jefferson	age_adjusted_premature_mortality	399.4
+17083	Illinois	Jersey	age_adjusted_premature_mortality	345.4
+17085	Illinois	Jo Daviess	age_adjusted_premature_mortality	261.1
+17087	Illinois	Johnson	age_adjusted_premature_mortality	352.1
+17089	Illinois	Kane	age_adjusted_premature_mortality	254.6
+17091	Illinois	Kankakee	age_adjusted_premature_mortality	387.2
+17093	Illinois	Kendall	age_adjusted_premature_mortality	237.6
+17095	Illinois	Knox	age_adjusted_premature_mortality	409.4
+17097	Illinois	Lake	age_adjusted_premature_mortality	253.9
+17099	Illinois	LaSalle	age_adjusted_premature_mortality	385.2
+17101	Illinois	Lawrence	age_adjusted_premature_mortality	479.4
+17103	Illinois	Lee	age_adjusted_premature_mortality	361.4
+17105	Illinois	Livingston	age_adjusted_premature_mortality	383.1
+17107	Illinois	Logan	age_adjusted_premature_mortality	364.1
+17109	Illinois	McDonough	age_adjusted_premature_mortality	323.2
+17111	Illinois	McHenry	age_adjusted_premature_mortality	268.9
+17113	Illinois	McLean	age_adjusted_premature_mortality	316.1
+17115	Illinois	Macon	age_adjusted_premature_mortality	385.6
+17117	Illinois	Macoupin	age_adjusted_premature_mortality	360
+17119	Illinois	Madison	age_adjusted_premature_mortality	390.5
+17121	Illinois	Marion	age_adjusted_premature_mortality	467.8
+17123	Illinois	Marshall	age_adjusted_premature_mortality	405.3
+17125	Illinois	Mason	age_adjusted_premature_mortality	446.3
+17127	Illinois	Massac	age_adjusted_premature_mortality	474.1
+17129	Illinois	Menard	age_adjusted_premature_mortality	328.6
+17131	Illinois	Mercer	age_adjusted_premature_mortality	291.9
+17133	Illinois	Monroe	age_adjusted_premature_mortality	262.2
+17135	Illinois	Montgomery	age_adjusted_premature_mortality	420.3
+17137	Illinois	Morgan	age_adjusted_premature_mortality	351.4
+17139	Illinois	Moultrie	age_adjusted_premature_mortality	336.5
+17141	Illinois	Ogle	age_adjusted_premature_mortality	281.8
+17143	Illinois	Peoria	age_adjusted_premature_mortality	377.9
+17145	Illinois	Perry	age_adjusted_premature_mortality	382.2
+17147	Illinois	Piatt	age_adjusted_premature_mortality	282
+17149	Illinois	Pike	age_adjusted_premature_mortality	295.6
+17151	Illinois	Pope	age_adjusted_premature_mortality	360.4
+17153	Illinois	Pulaski	age_adjusted_premature_mortality	470.1
+17155	Illinois	Putnam	age_adjusted_premature_mortality	356.8
+17157	Illinois	Randolph	age_adjusted_premature_mortality	356.1
+17159	Illinois	Richland	age_adjusted_premature_mortality	395.7
+17161	Illinois	Rock Island	age_adjusted_premature_mortality	353.8
+17163	Illinois	St. Clair	age_adjusted_premature_mortality	422.1
+17165	Illinois	Saline	age_adjusted_premature_mortality	533.3
+17167	Illinois	Sangamon	age_adjusted_premature_mortality	371.4
+17169	Illinois	Schuyler	age_adjusted_premature_mortality	256.6
+17171	Illinois	Scott	age_adjusted_premature_mortality	365.8
+17173	Illinois	Shelby	age_adjusted_premature_mortality	313.8
+17175	Illinois	Stark	age_adjusted_premature_mortality	307.6
+17177	Illinois	Stephenson	age_adjusted_premature_mortality	359.2
+17179	Illinois	Tazewell	age_adjusted_premature_mortality	336.1
+17181	Illinois	Union	age_adjusted_premature_mortality	394
+17183	Illinois	Vermilion	age_adjusted_premature_mortality	458.4
+17185	Illinois	Wabash	age_adjusted_premature_mortality	359.4
+17187	Illinois	Warren	age_adjusted_premature_mortality	358.2
+17189	Illinois	Washington	age_adjusted_premature_mortality	329.3
+17191	Illinois	Wayne	age_adjusted_premature_mortality	404.6
+17193	Illinois	White	age_adjusted_premature_mortality	412.6
+17195	Illinois	Whiteside	age_adjusted_premature_mortality	341.4
+17197	Illinois	Will	age_adjusted_premature_mortality	291.4
+17199	Illinois	Williamson	age_adjusted_premature_mortality	420.5
+17201	Illinois	Winnebago	age_adjusted_premature_mortality	376.1
+17203	Illinois	Woodford	age_adjusted_premature_mortality	253.3
+18001	Indiana	Adams	age_adjusted_premature_mortality	318.8
+18003	Indiana	Allen	age_adjusted_premature_mortality	348.4
+18005	Indiana	Bartholomew	age_adjusted_premature_mortality	372.5
+18007	Indiana	Benton	age_adjusted_premature_mortality	396.1
+18009	Indiana	Blackford	age_adjusted_premature_mortality	492.7
+18011	Indiana	Boone	age_adjusted_premature_mortality	299
+18013	Indiana	Brown	age_adjusted_premature_mortality	322.5
+18015	Indiana	Carroll	age_adjusted_premature_mortality	350.7
+18017	Indiana	Cass	age_adjusted_premature_mortality	400.4
+18019	Indiana	Clark	age_adjusted_premature_mortality	419.6
+18021	Indiana	Clay	age_adjusted_premature_mortality	381.6
+18023	Indiana	Clinton	age_adjusted_premature_mortality	353.2
+18025	Indiana	Crawford	age_adjusted_premature_mortality	470.2
+18027	Indiana	Daviess	age_adjusted_premature_mortality	387.5
+18029	Indiana	Dearborn	age_adjusted_premature_mortality	334.9
+18031	Indiana	Decatur	age_adjusted_premature_mortality	354.5
+18033	Indiana	DeKalb	age_adjusted_premature_mortality	377.5
+18035	Indiana	Delaware	age_adjusted_premature_mortality	416.5
+18037	Indiana	Dubois	age_adjusted_premature_mortality	318.4
+18039	Indiana	Elkhart	age_adjusted_premature_mortality	325.6
+18041	Indiana	Fayette	age_adjusted_premature_mortality	526.1
+18043	Indiana	Floyd	age_adjusted_premature_mortality	410.8
+18045	Indiana	Fountain	age_adjusted_premature_mortality	424
+18047	Indiana	Franklin	age_adjusted_premature_mortality	337.6
+18049	Indiana	Fulton	age_adjusted_premature_mortality	402.7
+18051	Indiana	Gibson	age_adjusted_premature_mortality	376.7
+18053	Indiana	Grant	age_adjusted_premature_mortality	445.9
+18055	Indiana	Greene	age_adjusted_premature_mortality	439.1
+18057	Indiana	Hamilton	age_adjusted_premature_mortality	222.7
+18059	Indiana	Hancock	age_adjusted_premature_mortality	333.8
+18061	Indiana	Harrison	age_adjusted_premature_mortality	351.1
+18063	Indiana	Hendricks	age_adjusted_premature_mortality	275.2
+18065	Indiana	Henry	age_adjusted_premature_mortality	428.1
+18067	Indiana	Howard	age_adjusted_premature_mortality	395.1
+18069	Indiana	Huntington	age_adjusted_premature_mortality	338.3
+18071	Indiana	Jackson	age_adjusted_premature_mortality	430.4
+18073	Indiana	Jasper	age_adjusted_premature_mortality	401.7
+18075	Indiana	Jay	age_adjusted_premature_mortality	410.4
+18077	Indiana	Jefferson	age_adjusted_premature_mortality	408.7
+18079	Indiana	Jennings	age_adjusted_premature_mortality	498.5
+18081	Indiana	Johnson	age_adjusted_premature_mortality	328.8
+18083	Indiana	Knox	age_adjusted_premature_mortality	430.4
+18085	Indiana	Kosciusko	age_adjusted_premature_mortality	359
+18087	Indiana	LaGrange	age_adjusted_premature_mortality	291.7
+18089	Indiana	Lake	age_adjusted_premature_mortality	427.6
+18091	Indiana	LaPorte	age_adjusted_premature_mortality	411
+18093	Indiana	Lawrence	age_adjusted_premature_mortality	442.7
+18095	Indiana	Madison	age_adjusted_premature_mortality	442.8
+18097	Indiana	Marion	age_adjusted_premature_mortality	447.6
+18099	Indiana	Marshall	age_adjusted_premature_mortality	348.5
+18101	Indiana	Martin	age_adjusted_premature_mortality	425.9
+18103	Indiana	Miami	age_adjusted_premature_mortality	401.2
+18105	Indiana	Monroe	age_adjusted_premature_mortality	301.6
+18107	Indiana	Montgomery	age_adjusted_premature_mortality	367.2
+18109	Indiana	Morgan	age_adjusted_premature_mortality	380.6
+18111	Indiana	Newton	age_adjusted_premature_mortality	382.2
+18113	Indiana	Noble	age_adjusted_premature_mortality	372.9
+18115	Indiana	Ohio	age_adjusted_premature_mortality	354.7
+18117	Indiana	Orange	age_adjusted_premature_mortality	437
+18119	Indiana	Owen	age_adjusted_premature_mortality	419.4
+18121	Indiana	Parke	age_adjusted_premature_mortality	395.4
+18123	Indiana	Perry	age_adjusted_premature_mortality	372
+18125	Indiana	Pike	age_adjusted_premature_mortality	390
+18127	Indiana	Porter	age_adjusted_premature_mortality	347.1
+18129	Indiana	Posey	age_adjusted_premature_mortality	340.2
+18131	Indiana	Pulaski	age_adjusted_premature_mortality	446.8
+18133	Indiana	Putnam	age_adjusted_premature_mortality	353.4
+18135	Indiana	Randolph	age_adjusted_premature_mortality	372.7
+18137	Indiana	Ripley	age_adjusted_premature_mortality	362.3
+18139	Indiana	Rush	age_adjusted_premature_mortality	455.3
+18141	Indiana	St. Joseph	age_adjusted_premature_mortality	369.3
+18143	Indiana	Scott	age_adjusted_premature_mortality	546.9
+18145	Indiana	Shelby	age_adjusted_premature_mortality	401.5
+18147	Indiana	Spencer	age_adjusted_premature_mortality	310.2
+18149	Indiana	Starke	age_adjusted_premature_mortality	496.6
+18151	Indiana	Steuben	age_adjusted_premature_mortality	313.1
+18153	Indiana	Sullivan	age_adjusted_premature_mortality	501.1
+18155	Indiana	Switzerland	age_adjusted_premature_mortality	454.9
+18157	Indiana	Tippecanoe	age_adjusted_premature_mortality	320.6
+18159	Indiana	Tipton	age_adjusted_premature_mortality	345.9
+18161	Indiana	Union	age_adjusted_premature_mortality	424
+18163	Indiana	Vanderburgh	age_adjusted_premature_mortality	412
+18165	Indiana	Vermillion	age_adjusted_premature_mortality	501
+18167	Indiana	Vigo	age_adjusted_premature_mortality	442.3
+18169	Indiana	Wabash	age_adjusted_premature_mortality	405.3
+18171	Indiana	Warren	age_adjusted_premature_mortality	338
+18173	Indiana	Warrick	age_adjusted_premature_mortality	295
+18175	Indiana	Washington	age_adjusted_premature_mortality	442.3
+18177	Indiana	Wayne	age_adjusted_premature_mortality	421.4
+18179	Indiana	Wells	age_adjusted_premature_mortality	272.1
+18181	Indiana	White	age_adjusted_premature_mortality	370.9
+18183	Indiana	Whitley	age_adjusted_premature_mortality	319.2
+19001	Iowa	Adair	age_adjusted_premature_mortality	323.3
+19003	Iowa	Adams	age_adjusted_premature_mortality	449.5
+19005	Iowa	Allamakee	age_adjusted_premature_mortality	294.2
+19007	Iowa	Appanoose	age_adjusted_premature_mortality	452.2
+19009	Iowa	Audubon	age_adjusted_premature_mortality	284.7
+19011	Iowa	Benton	age_adjusted_premature_mortality	300.1
+19013	Iowa	Black Hawk	age_adjusted_premature_mortality	332.3
+19015	Iowa	Boone	age_adjusted_premature_mortality	357.3
+19017	Iowa	Bremer	age_adjusted_premature_mortality	223.8
+19019	Iowa	Buchanan	age_adjusted_premature_mortality	321.9
+19021	Iowa	Buena Vista	age_adjusted_premature_mortality	282.4
+19023	Iowa	Butler	age_adjusted_premature_mortality	315.8
+19025	Iowa	Calhoun	age_adjusted_premature_mortality	321.2
+19027	Iowa	Carroll	age_adjusted_premature_mortality	318.4
+19029	Iowa	Cass	age_adjusted_premature_mortality	388.4
+19031	Iowa	Cedar	age_adjusted_premature_mortality	279.3
+19033	Iowa	Cerro Gordo	age_adjusted_premature_mortality	327.3
+19035	Iowa	Cherokee	age_adjusted_premature_mortality	312.5
+19037	Iowa	Chickasaw	age_adjusted_premature_mortality	267.9
+19039	Iowa	Clarke	age_adjusted_premature_mortality	312.7
+19041	Iowa	Clay	age_adjusted_premature_mortality	305.2
+19043	Iowa	Clayton	age_adjusted_premature_mortality	317.6
+19045	Iowa	Clinton	age_adjusted_premature_mortality	341.9
+19047	Iowa	Crawford	age_adjusted_premature_mortality	268.9
+19049	Iowa	Dallas	age_adjusted_premature_mortality	234.8
+19051	Iowa	Davis	age_adjusted_premature_mortality	249.6
+19053	Iowa	Decatur	age_adjusted_premature_mortality	340.2
+19055	Iowa	Delaware	age_adjusted_premature_mortality	279
+19057	Iowa	Des Moines	age_adjusted_premature_mortality	324.1
+19059	Iowa	Dickinson	age_adjusted_premature_mortality	256.8
+19061	Iowa	Dubuque	age_adjusted_premature_mortality	289.4
+19063	Iowa	Emmet	age_adjusted_premature_mortality	337.8
+19065	Iowa	Fayette	age_adjusted_premature_mortality	318.4
+19067	Iowa	Floyd	age_adjusted_premature_mortality	327.1
+19069	Iowa	Franklin	age_adjusted_premature_mortality	325
+19071	Iowa	Fremont	age_adjusted_premature_mortality	371.7
+19073	Iowa	Greene	age_adjusted_premature_mortality	350.3
+19075	Iowa	Grundy	age_adjusted_premature_mortality	257
+19077	Iowa	Guthrie	age_adjusted_premature_mortality	291.9
+19079	Iowa	Hamilton	age_adjusted_premature_mortality	290.9
+19081	Iowa	Hancock	age_adjusted_premature_mortality	277.9
+19083	Iowa	Hardin	age_adjusted_premature_mortality	321.7
+19085	Iowa	Harrison	age_adjusted_premature_mortality	372.4
+19087	Iowa	Henry	age_adjusted_premature_mortality	315.9
+19089	Iowa	Howard	age_adjusted_premature_mortality	282
+19091	Iowa	Humboldt	age_adjusted_premature_mortality	324.4
+19093	Iowa	Ida	age_adjusted_premature_mortality	332.3
+19095	Iowa	Iowa	age_adjusted_premature_mortality	267.7
+19097	Iowa	Jackson	age_adjusted_premature_mortality	314.9
+19099	Iowa	Jasper	age_adjusted_premature_mortality	349.3
+19101	Iowa	Jefferson	age_adjusted_premature_mortality	303.2
+19103	Iowa	Johnson	age_adjusted_premature_mortality	253
+19105	Iowa	Jones	age_adjusted_premature_mortality	297.1
+19107	Iowa	Keokuk	age_adjusted_premature_mortality	287.1
+19109	Iowa	Kossuth	age_adjusted_premature_mortality	259.2
+19111	Iowa	Lee	age_adjusted_premature_mortality	382
+19113	Iowa	Linn	age_adjusted_premature_mortality	275.6
+19115	Iowa	Louisa	age_adjusted_premature_mortality	359.4
+19117	Iowa	Lucas	age_adjusted_premature_mortality	329.1
+19119	Iowa	Lyon	age_adjusted_premature_mortality	262.7
+19121	Iowa	Madison	age_adjusted_premature_mortality	317
+19123	Iowa	Mahaska	age_adjusted_premature_mortality	282
+19125	Iowa	Marion	age_adjusted_premature_mortality	336.1
+19127	Iowa	Marshall	age_adjusted_premature_mortality	377.5
+19129	Iowa	Mills	age_adjusted_premature_mortality	438.3
+19131	Iowa	Mitchell	age_adjusted_premature_mortality	227.6
+19133	Iowa	Monona	age_adjusted_premature_mortality	388.7
+19135	Iowa	Monroe	age_adjusted_premature_mortality	382.9
+19137	Iowa	Montgomery	age_adjusted_premature_mortality	414.1
+19139	Iowa	Muscatine	age_adjusted_premature_mortality	330.5
+19141	Iowa	O'Brien	age_adjusted_premature_mortality	352.6
+19143	Iowa	Osceola	age_adjusted_premature_mortality	309
+19145	Iowa	Page	age_adjusted_premature_mortality	392.3
+19147	Iowa	Palo Alto	age_adjusted_premature_mortality	296.1
+19149	Iowa	Plymouth	age_adjusted_premature_mortality	238.2
+19151	Iowa	Pocahontas	age_adjusted_premature_mortality	291.3
+19153	Iowa	Polk	age_adjusted_premature_mortality	334
+19155	Iowa	Pottawattamie	age_adjusted_premature_mortality	394.2
+19157	Iowa	Poweshiek	age_adjusted_premature_mortality	280.7
+19159	Iowa	Ringgold	age_adjusted_premature_mortality	282.6
+19161	Iowa	Sac	age_adjusted_premature_mortality	310.9
+19163	Iowa	Scott	age_adjusted_premature_mortality	341.6
+19165	Iowa	Shelby	age_adjusted_premature_mortality	287.9
+19167	Iowa	Sioux	age_adjusted_premature_mortality	201.4
+19169	Iowa	Story	age_adjusted_premature_mortality	249
+19171	Iowa	Tama	age_adjusted_premature_mortality	309.1
+19173	Iowa	Taylor	age_adjusted_premature_mortality	339.5
+19175	Iowa	Union	age_adjusted_premature_mortality	374.9
+19177	Iowa	Van Buren	age_adjusted_premature_mortality	329.6
+19179	Iowa	Wapello	age_adjusted_premature_mortality	400.4
+19181	Iowa	Warren	age_adjusted_premature_mortality	326.6
+19183	Iowa	Washington	age_adjusted_premature_mortality	291.4
+19185	Iowa	Wayne	age_adjusted_premature_mortality	416.4
+19187	Iowa	Webster	age_adjusted_premature_mortality	405.6
+19189	Iowa	Winnebago	age_adjusted_premature_mortality	284.7
+19191	Iowa	Winneshiek	age_adjusted_premature_mortality	210.9
+19193	Iowa	Woodbury	age_adjusted_premature_mortality	346.4
+19195	Iowa	Worth	age_adjusted_premature_mortality	302.6
+19197	Iowa	Wright	age_adjusted_premature_mortality	326.3
+20001	Kansas	Allen	age_adjusted_premature_mortality	439.6
+20003	Kansas	Anderson	age_adjusted_premature_mortality	339.7
+20005	Kansas	Atchison	age_adjusted_premature_mortality	407.2
+20007	Kansas	Barber	age_adjusted_premature_mortality	331.4
+20009	Kansas	Barton	age_adjusted_premature_mortality	374.5
+20011	Kansas	Bourbon	age_adjusted_premature_mortality	418.3
+20013	Kansas	Brown	age_adjusted_premature_mortality	438.7
+20015	Kansas	Butler	age_adjusted_premature_mortality	371
+20017	Kansas	Chase	age_adjusted_premature_mortality	376.8
+20019	Kansas	Chautauqua	age_adjusted_premature_mortality	518.9
+20021	Kansas	Cherokee	age_adjusted_premature_mortality	526.8
+20023	Kansas	Cheyenne	age_adjusted_premature_mortality	345.9
+20025	Kansas	Clark	age_adjusted_premature_mortality	309.6
+20027	Kansas	Clay	age_adjusted_premature_mortality	367.9
+20029	Kansas	Cloud	age_adjusted_premature_mortality	407.6
+20031	Kansas	Coffey	age_adjusted_premature_mortality	391.7
+20033	Kansas	Comanche	age_adjusted_premature_mortality	377.8
+20035	Kansas	Cowley	age_adjusted_premature_mortality	427.2
+20037	Kansas	Crawford	age_adjusted_premature_mortality	436.7
+20039	Kansas	Decatur	age_adjusted_premature_mortality	458.7
+20041	Kansas	Dickinson	age_adjusted_premature_mortality	328.1
+20043	Kansas	Doniphan	age_adjusted_premature_mortality	319.9
+20045	Kansas	Douglas	age_adjusted_premature_mortality	252.9
+20047	Kansas	Edwards	age_adjusted_premature_mortality	459.1
+20049	Kansas	Elk	age_adjusted_premature_mortality	427
+20051	Kansas	Ellis	age_adjusted_premature_mortality	330.3
+20053	Kansas	Ellsworth	age_adjusted_premature_mortality	357.2
+20055	Kansas	Finney	age_adjusted_premature_mortality	316.1
+20057	Kansas	Ford	age_adjusted_premature_mortality	327.2
+20059	Kansas	Franklin	age_adjusted_premature_mortality	369
+20061	Kansas	Geary	age_adjusted_premature_mortality	443
+20063	Kansas	Gove	age_adjusted_premature_mortality	351.4
+20065	Kansas	Graham	age_adjusted_premature_mortality	333.6
+20067	Kansas	Grant	age_adjusted_premature_mortality	307.1
+20069	Kansas	Gray	age_adjusted_premature_mortality	283.6
+20071	Kansas	Greeley	age_adjusted_premature_mortality	
+20073	Kansas	Greenwood	age_adjusted_premature_mortality	430.8
+20075	Kansas	Hamilton	age_adjusted_premature_mortality	393.2
+20077	Kansas	Harper	age_adjusted_premature_mortality	394.6
+20079	Kansas	Harvey	age_adjusted_premature_mortality	318.2
+20081	Kansas	Haskell	age_adjusted_premature_mortality	369.5
+20083	Kansas	Hodgeman	age_adjusted_premature_mortality	268.5
+20085	Kansas	Jackson	age_adjusted_premature_mortality	401.4
+20087	Kansas	Jefferson	age_adjusted_premature_mortality	303.7
+20089	Kansas	Jewell	age_adjusted_premature_mortality	302.8
+20091	Kansas	Johnson	age_adjusted_premature_mortality	236.6
+20093	Kansas	Kearny	age_adjusted_premature_mortality	285.4
+20095	Kansas	Kingman	age_adjusted_premature_mortality	294.3
+20097	Kansas	Kiowa	age_adjusted_premature_mortality	295.8
+20099	Kansas	Labette	age_adjusted_premature_mortality	430
+20101	Kansas	Lane	age_adjusted_premature_mortality	461.4
+20103	Kansas	Leavenworth	age_adjusted_premature_mortality	346.1
+20105	Kansas	Lincoln	age_adjusted_premature_mortality	389.9
+20107	Kansas	Linn	age_adjusted_premature_mortality	452.7
+20109	Kansas	Logan	age_adjusted_premature_mortality	424.2
+20111	Kansas	Lyon	age_adjusted_premature_mortality	303.2
+20113	Kansas	McPherson	age_adjusted_premature_mortality	315.7
+20115	Kansas	Marion	age_adjusted_premature_mortality	274.3
+20117	Kansas	Marshall	age_adjusted_premature_mortality	309.3
+20119	Kansas	Meade	age_adjusted_premature_mortality	329.1
+20121	Kansas	Miami	age_adjusted_premature_mortality	335.1
+20123	Kansas	Mitchell	age_adjusted_premature_mortality	390.9
+20125	Kansas	Montgomery	age_adjusted_premature_mortality	466.3
+20127	Kansas	Morris	age_adjusted_premature_mortality	312
+20129	Kansas	Morton	age_adjusted_premature_mortality	340.3
+20131	Kansas	Nemaha	age_adjusted_premature_mortality	293
+20133	Kansas	Neosho	age_adjusted_premature_mortality	419.4
+20135	Kansas	Ness	age_adjusted_premature_mortality	322.7
+20137	Kansas	Norton	age_adjusted_premature_mortality	399.9
+20139	Kansas	Osage	age_adjusted_premature_mortality	364.8
+20141	Kansas	Osborne	age_adjusted_premature_mortality	254.5
+20143	Kansas	Ottawa	age_adjusted_premature_mortality	335
+20145	Kansas	Pawnee	age_adjusted_premature_mortality	389.6
+20147	Kansas	Phillips	age_adjusted_premature_mortality	345.3
+20149	Kansas	Pottawatomie	age_adjusted_premature_mortality	277.6
+20151	Kansas	Pratt	age_adjusted_premature_mortality	357
+20153	Kansas	Rawlins	age_adjusted_premature_mortality	405.4
+20155	Kansas	Reno	age_adjusted_premature_mortality	369.5
+20157	Kansas	Republic	age_adjusted_premature_mortality	293
+20159	Kansas	Rice	age_adjusted_premature_mortality	378.5
+20161	Kansas	Riley	age_adjusted_premature_mortality	251.5
+20163	Kansas	Rooks	age_adjusted_premature_mortality	318.5
+20165	Kansas	Rush	age_adjusted_premature_mortality	361.1
+20167	Kansas	Russell	age_adjusted_premature_mortality	363.6
+20169	Kansas	Saline	age_adjusted_premature_mortality	351.9
+20171	Kansas	Scott	age_adjusted_premature_mortality	353.9
+20173	Kansas	Sedgwick	age_adjusted_premature_mortality	378.8
+20175	Kansas	Seward	age_adjusted_premature_mortality	368.1
+20177	Kansas	Shawnee	age_adjusted_premature_mortality	375
+20179	Kansas	Sheridan	age_adjusted_premature_mortality	296
+20181	Kansas	Sherman	age_adjusted_premature_mortality	366.8
+20183	Kansas	Smith	age_adjusted_premature_mortality	360.7
+20185	Kansas	Stafford	age_adjusted_premature_mortality	344.1
+20187	Kansas	Stanton	age_adjusted_premature_mortality	
+20189	Kansas	Stevens	age_adjusted_premature_mortality	348.7
+20191	Kansas	Sumner	age_adjusted_premature_mortality	397.2
+20193	Kansas	Thomas	age_adjusted_premature_mortality	385.9
+20195	Kansas	Trego	age_adjusted_premature_mortality	323.6
+20197	Kansas	Wabaunsee	age_adjusted_premature_mortality	317.4
+20199	Kansas	Wallace	age_adjusted_premature_mortality	
+20201	Kansas	Washington	age_adjusted_premature_mortality	308.5
+20203	Kansas	Wichita	age_adjusted_premature_mortality	325.4
+20205	Kansas	Wilson	age_adjusted_premature_mortality	383.2
+20207	Kansas	Woodson	age_adjusted_premature_mortality	626.4
+20209	Kansas	Wyandotte	age_adjusted_premature_mortality	504.9
+21001	Kentucky	Adair	age_adjusted_premature_mortality	437.1
+21003	Kentucky	Allen	age_adjusted_premature_mortality	486
+21005	Kentucky	Anderson	age_adjusted_premature_mortality	379.4
+21007	Kentucky	Ballard	age_adjusted_premature_mortality	485.9
+21009	Kentucky	Barren	age_adjusted_premature_mortality	419.3
+21011	Kentucky	Bath	age_adjusted_premature_mortality	577.2
+21013	Kentucky	Bell	age_adjusted_premature_mortality	626.7
+21015	Kentucky	Boone	age_adjusted_premature_mortality	348.4
+21017	Kentucky	Bourbon	age_adjusted_premature_mortality	464.3
+21019	Kentucky	Boyd	age_adjusted_premature_mortality	490.1
+21021	Kentucky	Boyle	age_adjusted_premature_mortality	401.7
+21023	Kentucky	Bracken	age_adjusted_premature_mortality	461.1
+21025	Kentucky	Breathitt	age_adjusted_premature_mortality	775.3
+21027	Kentucky	Breckinridge	age_adjusted_premature_mortality	475.5
+21029	Kentucky	Bullitt	age_adjusted_premature_mortality	358.2
+21031	Kentucky	Butler	age_adjusted_premature_mortality	486
+21033	Kentucky	Caldwell	age_adjusted_premature_mortality	535.8
+21035	Kentucky	Calloway	age_adjusted_premature_mortality	385.2
+21037	Kentucky	Campbell	age_adjusted_premature_mortality	395
+21039	Kentucky	Carlisle	age_adjusted_premature_mortality	472.8
+21041	Kentucky	Carroll	age_adjusted_premature_mortality	523.6
+21043	Kentucky	Carter	age_adjusted_premature_mortality	518.2
+21045	Kentucky	Casey	age_adjusted_premature_mortality	529.6
+21047	Kentucky	Christian	age_adjusted_premature_mortality	465.8
+21049	Kentucky	Clark	age_adjusted_premature_mortality	460.2
+21051	Kentucky	Clay	age_adjusted_premature_mortality	649
+21053	Kentucky	Clinton	age_adjusted_premature_mortality	483.8
+21055	Kentucky	Crittenden	age_adjusted_premature_mortality	465.9
+21057	Kentucky	Cumberland	age_adjusted_premature_mortality	636.9
+21059	Kentucky	Daviess	age_adjusted_premature_mortality	403.6
+21061	Kentucky	Edmonson	age_adjusted_premature_mortality	418.4
+21063	Kentucky	Elliott	age_adjusted_premature_mortality	390.7
+21065	Kentucky	Estill	age_adjusted_premature_mortality	558
+21067	Kentucky	Fayette	age_adjusted_premature_mortality	346
+21069	Kentucky	Fleming	age_adjusted_premature_mortality	504.7
+21071	Kentucky	Floyd	age_adjusted_premature_mortality	662.3
+21073	Kentucky	Franklin	age_adjusted_premature_mortality	410.6
+21075	Kentucky	Fulton	age_adjusted_premature_mortality	531.4
+21077	Kentucky	Gallatin	age_adjusted_premature_mortality	618.1
+21079	Kentucky	Garrard	age_adjusted_premature_mortality	389.9
+21081	Kentucky	Grant	age_adjusted_premature_mortality	448.5
+21083	Kentucky	Graves	age_adjusted_premature_mortality	459
+21085	Kentucky	Grayson	age_adjusted_premature_mortality	478.9
+21087	Kentucky	Green	age_adjusted_premature_mortality	392.1
+21089	Kentucky	Greenup	age_adjusted_premature_mortality	458
+21091	Kentucky	Hancock	age_adjusted_premature_mortality	412.1
+21093	Kentucky	Hardin	age_adjusted_premature_mortality	403.8
+21095	Kentucky	Harlan	age_adjusted_premature_mortality	662.6
+21097	Kentucky	Harrison	age_adjusted_premature_mortality	463.4
+21099	Kentucky	Hart	age_adjusted_premature_mortality	414.6
+21101	Kentucky	Henderson	age_adjusted_premature_mortality	456.7
+21103	Kentucky	Henry	age_adjusted_premature_mortality	465.8
+21105	Kentucky	Hickman	age_adjusted_premature_mortality	559.6
+21107	Kentucky	Hopkins	age_adjusted_premature_mortality	479.8
+21109	Kentucky	Jackson	age_adjusted_premature_mortality	573.2
+21111	Kentucky	Jefferson	age_adjusted_premature_mortality	414.2
+21113	Kentucky	Jessamine	age_adjusted_premature_mortality	363.9
+21115	Kentucky	Johnson	age_adjusted_premature_mortality	589.9
+21117	Kentucky	Kenton	age_adjusted_premature_mortality	406.4
+21119	Kentucky	Knott	age_adjusted_premature_mortality	543.4
+21121	Kentucky	Knox	age_adjusted_premature_mortality	589
+21123	Kentucky	Larue	age_adjusted_premature_mortality	417.6
+21125	Kentucky	Laurel	age_adjusted_premature_mortality	478.7
+21127	Kentucky	Lawrence	age_adjusted_premature_mortality	579.3
+21129	Kentucky	Lee	age_adjusted_premature_mortality	687.1
+21131	Kentucky	Leslie	age_adjusted_premature_mortality	637.6
+21133	Kentucky	Letcher	age_adjusted_premature_mortality	597.6
+21135	Kentucky	Lewis	age_adjusted_premature_mortality	505.8
+21137	Kentucky	Lincoln	age_adjusted_premature_mortality	503.8
+21139	Kentucky	Livingston	age_adjusted_premature_mortality	496.5
+21141	Kentucky	Logan	age_adjusted_premature_mortality	438.7
+21143	Kentucky	Lyon	age_adjusted_premature_mortality	395.8
+21145	Kentucky	McCracken	age_adjusted_premature_mortality	459.8
+21147	Kentucky	McCreary	age_adjusted_premature_mortality	528.7
+21149	Kentucky	McLean	age_adjusted_premature_mortality	444.4
+21151	Kentucky	Madison	age_adjusted_premature_mortality	396.9
+21153	Kentucky	Magoffin	age_adjusted_premature_mortality	539.4
+21155	Kentucky	Marion	age_adjusted_premature_mortality	460.7
+21157	Kentucky	Marshall	age_adjusted_premature_mortality	454.7
+21159	Kentucky	Martin	age_adjusted_premature_mortality	648.8
+21161	Kentucky	Mason	age_adjusted_premature_mortality	426.9
+21163	Kentucky	Meade	age_adjusted_premature_mortality	402.6
+21165	Kentucky	Menifee	age_adjusted_premature_mortality	596.6
+21167	Kentucky	Mercer	age_adjusted_premature_mortality	482
+21169	Kentucky	Metcalfe	age_adjusted_premature_mortality	566.6
+21171	Kentucky	Monroe	age_adjusted_premature_mortality	550.3
+21173	Kentucky	Montgomery	age_adjusted_premature_mortality	453.7
+21175	Kentucky	Morgan	age_adjusted_premature_mortality	479.7
+21177	Kentucky	Muhlenberg	age_adjusted_premature_mortality	523.4
+21179	Kentucky	Nelson	age_adjusted_premature_mortality	399.9
+21181	Kentucky	Nicholas	age_adjusted_premature_mortality	580.4
+21183	Kentucky	Ohio	age_adjusted_premature_mortality	409.4
+21185	Kentucky	Oldham	age_adjusted_premature_mortality	287.5
+21187	Kentucky	Owen	age_adjusted_premature_mortality	406.6
+21189	Kentucky	Owsley	age_adjusted_premature_mortality	692.5
+21191	Kentucky	Pendleton	age_adjusted_premature_mortality	504.2
+21193	Kentucky	Perry	age_adjusted_premature_mortality	739.3
+21195	Kentucky	Pike	age_adjusted_premature_mortality	631.5
+21197	Kentucky	Powell	age_adjusted_premature_mortality	691
+21199	Kentucky	Pulaski	age_adjusted_premature_mortality	457.3
+21201	Kentucky	Robertson	age_adjusted_premature_mortality	585.3
+21203	Kentucky	Rockcastle	age_adjusted_premature_mortality	539.9
+21205	Kentucky	Rowan	age_adjusted_premature_mortality	491
+21207	Kentucky	Russell	age_adjusted_premature_mortality	462.2
+21209	Kentucky	Scott	age_adjusted_premature_mortality	320.7
+21211	Kentucky	Shelby	age_adjusted_premature_mortality	295.4
+21213	Kentucky	Simpson	age_adjusted_premature_mortality	461.7
+21215	Kentucky	Spencer	age_adjusted_premature_mortality	378
+21217	Kentucky	Taylor	age_adjusted_premature_mortality	451.9
+21219	Kentucky	Todd	age_adjusted_premature_mortality	468.1
+21221	Kentucky	Trigg	age_adjusted_premature_mortality	455.5
+21223	Kentucky	Trimble	age_adjusted_premature_mortality	485.1
+21225	Kentucky	Union	age_adjusted_premature_mortality	497.1
+21227	Kentucky	Warren	age_adjusted_premature_mortality	383.9
+21229	Kentucky	Washington	age_adjusted_premature_mortality	356.3
+21231	Kentucky	Wayne	age_adjusted_premature_mortality	386.7
+21233	Kentucky	Webster	age_adjusted_premature_mortality	518.9
+21235	Kentucky	Whitley	age_adjusted_premature_mortality	583.4
+21237	Kentucky	Wolfe	age_adjusted_premature_mortality	691.6
+21239	Kentucky	Woodford	age_adjusted_premature_mortality	324.7
+22001	Louisiana	Acadia	age_adjusted_premature_mortality	543.7
+22003	Louisiana	Allen	age_adjusted_premature_mortality	376.1
+22005	Louisiana	Ascension	age_adjusted_premature_mortality	370.8
+22007	Louisiana	Assumption	age_adjusted_premature_mortality	476.2
+22009	Louisiana	Avoyelles	age_adjusted_premature_mortality	520.8
+22011	Louisiana	Beauregard	age_adjusted_premature_mortality	462.5
+22013	Louisiana	Bienville	age_adjusted_premature_mortality	564.6
+22015	Louisiana	Bossier	age_adjusted_premature_mortality	393.1
+22017	Louisiana	Caddo	age_adjusted_premature_mortality	503.2
+22019	Louisiana	Calcasieu	age_adjusted_premature_mortality	489.3
+22021	Louisiana	Caldwell	age_adjusted_premature_mortality	602.7
+22023	Louisiana	Cameron	age_adjusted_premature_mortality	334.8
+22025	Louisiana	Catahoula	age_adjusted_premature_mortality	561
+22027	Louisiana	Claiborne	age_adjusted_premature_mortality	466.6
+22029	Louisiana	Concordia	age_adjusted_premature_mortality	562.2
+22031	Louisiana	De Soto	age_adjusted_premature_mortality	510.5
+22033	Louisiana	East Baton Rouge	age_adjusted_premature_mortality	430.5
+22035	Louisiana	East Carroll	age_adjusted_premature_mortality	661.1
+22037	Louisiana	East Feliciana	age_adjusted_premature_mortality	491.6
+22039	Louisiana	Evangeline	age_adjusted_premature_mortality	551.3
+22041	Louisiana	Franklin	age_adjusted_premature_mortality	504.3
+22043	Louisiana	Grant	age_adjusted_premature_mortality	447.5
+22045	Louisiana	Iberia	age_adjusted_premature_mortality	478.9
+22047	Louisiana	Iberville	age_adjusted_premature_mortality	426.1
+22049	Louisiana	Jackson	age_adjusted_premature_mortality	515.7
+22051	Louisiana	Jefferson	age_adjusted_premature_mortality	415.5
+22053	Louisiana	Jefferson Davis	age_adjusted_premature_mortality	543.1
+22055	Louisiana	Lafayette	age_adjusted_premature_mortality	403.1
+22057	Louisiana	Lafourche	age_adjusted_premature_mortality	411.4
+22059	Louisiana	La Salle	age_adjusted_premature_mortality	452.4
+22061	Louisiana	Lincoln	age_adjusted_premature_mortality	416.3
+22063	Louisiana	Livingston	age_adjusted_premature_mortality	447.8
+22065	Louisiana	Madison	age_adjusted_premature_mortality	604.7
+22067	Louisiana	Morehouse	age_adjusted_premature_mortality	541.5
+22069	Louisiana	Natchitoches	age_adjusted_premature_mortality	469
+22071	Louisiana	Orleans	age_adjusted_premature_mortality	486.1
+22073	Louisiana	Ouachita	age_adjusted_premature_mortality	476.8
+22075	Louisiana	Plaquemines	age_adjusted_premature_mortality	394
+22077	Louisiana	Pointe Coupee	age_adjusted_premature_mortality	428.3
+22079	Louisiana	Rapides	age_adjusted_premature_mortality	485.4
+22081	Louisiana	Red River	age_adjusted_premature_mortality	509.9
+22083	Louisiana	Richland	age_adjusted_premature_mortality	552.1
+22085	Louisiana	Sabine	age_adjusted_premature_mortality	440.7
+22087	Louisiana	St. Bernard	age_adjusted_premature_mortality	549.9
+22089	Louisiana	St. Charles	age_adjusted_premature_mortality	383.6
+22091	Louisiana	St. Helena	age_adjusted_premature_mortality	570
+22093	Louisiana	St. James	age_adjusted_premature_mortality	393
+22095	Louisiana	St. John the Baptist	age_adjusted_premature_mortality	492.8
+22097	Louisiana	St. Landry	age_adjusted_premature_mortality	564.3
+22099	Louisiana	St. Martin	age_adjusted_premature_mortality	445.3
+22101	Louisiana	St. Mary	age_adjusted_premature_mortality	484.5
+22103	Louisiana	St. Tammany	age_adjusted_premature_mortality	363.2
+22105	Louisiana	Tangipahoa	age_adjusted_premature_mortality	522.4
+22107	Louisiana	Tensas	age_adjusted_premature_mortality	601.7
+22109	Louisiana	Terrebonne	age_adjusted_premature_mortality	465.4
+22111	Louisiana	Union	age_adjusted_premature_mortality	491.2
+22113	Louisiana	Vermilion	age_adjusted_premature_mortality	409.9
+22115	Louisiana	Vernon	age_adjusted_premature_mortality	453.2
+22117	Louisiana	Washington	age_adjusted_premature_mortality	556.1
+22119	Louisiana	Webster	age_adjusted_premature_mortality	553.3
+22121	Louisiana	West Baton Rouge	age_adjusted_premature_mortality	409.1
+22123	Louisiana	West Carroll	age_adjusted_premature_mortality	523.3
+22125	Louisiana	West Feliciana	age_adjusted_premature_mortality	382.9
+22127	Louisiana	Winn	age_adjusted_premature_mortality	504.3
+23001	Maine	Androscoggin	age_adjusted_premature_mortality	335.4
+23003	Maine	Aroostook	age_adjusted_premature_mortality	353.1
+23005	Maine	Cumberland	age_adjusted_premature_mortality	280.1
+23007	Maine	Franklin	age_adjusted_premature_mortality	323.2
+23009	Maine	Hancock	age_adjusted_premature_mortality	300.5
+23011	Maine	Kennebec	age_adjusted_premature_mortality	343.6
+23013	Maine	Knox	age_adjusted_premature_mortality	323.1
+23015	Maine	Lincoln	age_adjusted_premature_mortality	303
+23017	Maine	Oxford	age_adjusted_premature_mortality	339.2
+23019	Maine	Penobscot	age_adjusted_premature_mortality	355.6
+23021	Maine	Piscataquis	age_adjusted_premature_mortality	423.6
+23023	Maine	Sagadahoc	age_adjusted_premature_mortality	269.7
+23025	Maine	Somerset	age_adjusted_premature_mortality	366.1
+23027	Maine	Waldo	age_adjusted_premature_mortality	306.1
+23029	Maine	Washington	age_adjusted_premature_mortality	374.5
+23031	Maine	York	age_adjusted_premature_mortality	292.3
+24001	Maryland	Allegany	age_adjusted_premature_mortality	381
+24003	Maryland	Anne Arundel	age_adjusted_premature_mortality	320.4
+24005	Maryland	Baltimore	age_adjusted_premature_mortality	351.5
+24009	Maryland	Calvert	age_adjusted_premature_mortality	301.2
+24011	Maryland	Caroline	age_adjusted_premature_mortality	415.8
+24013	Maryland	Carroll	age_adjusted_premature_mortality	305.1
+24015	Maryland	Cecil	age_adjusted_premature_mortality	407.6
+24017	Maryland	Charles	age_adjusted_premature_mortality	342.8
+24019	Maryland	Dorchester	age_adjusted_premature_mortality	388.9
+24021	Maryland	Frederick	age_adjusted_premature_mortality	270
+24023	Maryland	Garrett	age_adjusted_premature_mortality	345
+24025	Maryland	Harford	age_adjusted_premature_mortality	305.5
+24027	Maryland	Howard	age_adjusted_premature_mortality	207.8
+24029	Maryland	Kent	age_adjusted_premature_mortality	359.8
+24031	Maryland	Montgomery	age_adjusted_premature_mortality	188
+24033	Maryland	Prince George's	age_adjusted_premature_mortality	380.7
+24035	Maryland	Queen Anne's	age_adjusted_premature_mortality	274.8
+24037	Maryland	St. Mary's	age_adjusted_premature_mortality	337.8
+24039	Maryland	Somerset	age_adjusted_premature_mortality	418.8
+24041	Maryland	Talbot	age_adjusted_premature_mortality	295.5
+24043	Maryland	Washington	age_adjusted_premature_mortality	356.9
+24045	Maryland	Wicomico	age_adjusted_premature_mortality	408.5
+24047	Maryland	Worcester	age_adjusted_premature_mortality	318.1
+24510	Maryland	Baltimore City	age_adjusted_premature_mortality	619.2
+25001	Massachusetts	Barnstable	age_adjusted_premature_mortality	274.6
+25003	Massachusetts	Berkshire	age_adjusted_premature_mortality	300
+25005	Massachusetts	Bristol	age_adjusted_premature_mortality	319.4
+25007	Massachusetts	Dukes	age_adjusted_premature_mortality	224
+25009	Massachusetts	Essex	age_adjusted_premature_mortality	267.6
+25011	Massachusetts	Franklin	age_adjusted_premature_mortality	277.7
+25013	Massachusetts	Hampden	age_adjusted_premature_mortality	345.5
+25015	Massachusetts	Hampshire	age_adjusted_premature_mortality	270.4
+25017	Massachusetts	Middlesex	age_adjusted_premature_mortality	239.8
+25019	Massachusetts	Nantucket	age_adjusted_premature_mortality	257.4
+25021	Massachusetts	Norfolk	age_adjusted_premature_mortality	247
+25023	Massachusetts	Plymouth	age_adjusted_premature_mortality	300.9
+25025	Massachusetts	Suffolk	age_adjusted_premature_mortality	333.3
+25027	Massachusetts	Worcester	age_adjusted_premature_mortality	301.1
+26001	Michigan	Alcona	age_adjusted_premature_mortality	421.2
+26003	Michigan	Alger	age_adjusted_premature_mortality	305.9
+26005	Michigan	Allegan	age_adjusted_premature_mortality	303.9
+26007	Michigan	Alpena	age_adjusted_premature_mortality	383.7
+26009	Michigan	Antrim	age_adjusted_premature_mortality	290.5
+26011	Michigan	Arenac	age_adjusted_premature_mortality	438.3
+26013	Michigan	Baraga	age_adjusted_premature_mortality	337.8
+26015	Michigan	Barry	age_adjusted_premature_mortality	303.3
+26017	Michigan	Bay	age_adjusted_premature_mortality	363.8
+26019	Michigan	Benzie	age_adjusted_premature_mortality	290.1
+26021	Michigan	Berrien	age_adjusted_premature_mortality	378.2
+26023	Michigan	Branch	age_adjusted_premature_mortality	361.8
+26025	Michigan	Calhoun	age_adjusted_premature_mortality	441.1
+26027	Michigan	Cass	age_adjusted_premature_mortality	358.6
+26029	Michigan	Charlevoix	age_adjusted_premature_mortality	312.9
+26031	Michigan	Cheboygan	age_adjusted_premature_mortality	335.5
+26033	Michigan	Chippewa	age_adjusted_premature_mortality	335.1
+26035	Michigan	Clare	age_adjusted_premature_mortality	412.7
+26037	Michigan	Clinton	age_adjusted_premature_mortality	234.6
+26039	Michigan	Crawford	age_adjusted_premature_mortality	369
+26041	Michigan	Delta	age_adjusted_premature_mortality	322.6
+26043	Michigan	Dickinson	age_adjusted_premature_mortality	315
+26045	Michigan	Eaton	age_adjusted_premature_mortality	297.7
+26047	Michigan	Emmet	age_adjusted_premature_mortality	277.9
+26049	Michigan	Genesee	age_adjusted_premature_mortality	436.5
+26051	Michigan	Gladwin	age_adjusted_premature_mortality	409.5
+26053	Michigan	Gogebic	age_adjusted_premature_mortality	399.5
+26055	Michigan	Grand Traverse	age_adjusted_premature_mortality	285.8
+26057	Michigan	Gratiot	age_adjusted_premature_mortality	366.9
+26059	Michigan	Hillsdale	age_adjusted_premature_mortality	364.2
+26061	Michigan	Houghton	age_adjusted_premature_mortality	336.2
+26063	Michigan	Huron	age_adjusted_premature_mortality	371.2
+26065	Michigan	Ingham	age_adjusted_premature_mortality	336.7
+26067	Michigan	Ionia	age_adjusted_premature_mortality	355.9
+26069	Michigan	Iosco	age_adjusted_premature_mortality	405
+26071	Michigan	Iron	age_adjusted_premature_mortality	358.3
+26073	Michigan	Isabella	age_adjusted_premature_mortality	328.9
+26075	Michigan	Jackson	age_adjusted_premature_mortality	367.8
+26077	Michigan	Kalamazoo	age_adjusted_premature_mortality	349.4
+26079	Michigan	Kalkaska	age_adjusted_premature_mortality	381.1
+26081	Michigan	Kent	age_adjusted_premature_mortality	293.7
+26083	Michigan	Keweenaw	age_adjusted_premature_mortality	272.7
+26085	Michigan	Lake	age_adjusted_premature_mortality	384.5
+26087	Michigan	Lapeer	age_adjusted_premature_mortality	321.7
+26089	Michigan	Leelanau	age_adjusted_premature_mortality	200.3
+26091	Michigan	Lenawee	age_adjusted_premature_mortality	329.7
+26093	Michigan	Livingston	age_adjusted_premature_mortality	262.1
+26095	Michigan	Luce	age_adjusted_premature_mortality	391.2
+26097	Michigan	Mackinac	age_adjusted_premature_mortality	368
+26099	Michigan	Macomb	age_adjusted_premature_mortality	350.2
+26101	Michigan	Manistee	age_adjusted_premature_mortality	344.7
+26103	Michigan	Marquette	age_adjusted_premature_mortality	324.7
+26105	Michigan	Mason	age_adjusted_premature_mortality	324.1
+26107	Michigan	Mecosta	age_adjusted_premature_mortality	312.6
+26109	Michigan	Menominee	age_adjusted_premature_mortality	310.5
+26111	Michigan	Midland	age_adjusted_premature_mortality	293.8
+26113	Michigan	Missaukee	age_adjusted_premature_mortality	360.2
+26115	Michigan	Monroe	age_adjusted_premature_mortality	340.7
+26117	Michigan	Montcalm	age_adjusted_premature_mortality	363.6
+26119	Michigan	Montmorency	age_adjusted_premature_mortality	426
+26121	Michigan	Muskegon	age_adjusted_premature_mortality	383.7
+26123	Michigan	Newaygo	age_adjusted_premature_mortality	397.3
+26125	Michigan	Oakland	age_adjusted_premature_mortality	293.8
+26127	Michigan	Oceana	age_adjusted_premature_mortality	363.2
+26129	Michigan	Ogemaw	age_adjusted_premature_mortality	381.8
+26131	Michigan	Ontonagon	age_adjusted_premature_mortality	405.1
+26133	Michigan	Osceola	age_adjusted_premature_mortality	358.6
+26135	Michigan	Oscoda	age_adjusted_premature_mortality	474
+26137	Michigan	Otsego	age_adjusted_premature_mortality	339.1
+26139	Michigan	Ottawa	age_adjusted_premature_mortality	238
+26141	Michigan	Presque Isle	age_adjusted_premature_mortality	366.6
+26143	Michigan	Roscommon	age_adjusted_premature_mortality	400
+26145	Michigan	Saginaw	age_adjusted_premature_mortality	401.8
+26147	Michigan	St. Clair	age_adjusted_premature_mortality	395.6
+26149	Michigan	St. Joseph	age_adjusted_premature_mortality	394.3
+26151	Michigan	Sanilac	age_adjusted_premature_mortality	360.3
+26153	Michigan	Schoolcraft	age_adjusted_premature_mortality	381.1
+26155	Michigan	Shiawassee	age_adjusted_premature_mortality	375.2
+26157	Michigan	Tuscola	age_adjusted_premature_mortality	365.4
+26159	Michigan	Van Buren	age_adjusted_premature_mortality	404.8
+26161	Michigan	Washtenaw	age_adjusted_premature_mortality	268.4
+26163	Michigan	Wayne	age_adjusted_premature_mortality	486.9
+26165	Michigan	Wexford	age_adjusted_premature_mortality	361.1
+27001	Minnesota	Aitkin	age_adjusted_premature_mortality	311.6
+27003	Minnesota	Anoka	age_adjusted_premature_mortality	259.3
+27005	Minnesota	Becker	age_adjusted_premature_mortality	350.8
+27007	Minnesota	Beltrami	age_adjusted_premature_mortality	345
+27009	Minnesota	Benton	age_adjusted_premature_mortality	273.3
+27011	Minnesota	Big Stone	age_adjusted_premature_mortality	344.7
+27013	Minnesota	Blue Earth	age_adjusted_premature_mortality	274.9
+27015	Minnesota	Brown	age_adjusted_premature_mortality	271.3
+27017	Minnesota	Carlton	age_adjusted_premature_mortality	333.9
+27019	Minnesota	Carver	age_adjusted_premature_mortality	206.3
+27021	Minnesota	Cass	age_adjusted_premature_mortality	365
+27023	Minnesota	Chippewa	age_adjusted_premature_mortality	227.7
+27025	Minnesota	Chisago	age_adjusted_premature_mortality	260
+27027	Minnesota	Clay	age_adjusted_premature_mortality	257.5
+27029	Minnesota	Clearwater	age_adjusted_premature_mortality	338.4
+27031	Minnesota	Cook	age_adjusted_premature_mortality	210.8
+27033	Minnesota	Cottonwood	age_adjusted_premature_mortality	278.6
+27035	Minnesota	Crow Wing	age_adjusted_premature_mortality	277.6
+27037	Minnesota	Dakota	age_adjusted_premature_mortality	228.5
+27039	Minnesota	Dodge	age_adjusted_premature_mortality	246
+27041	Minnesota	Douglas	age_adjusted_premature_mortality	248.8
+27043	Minnesota	Faribault	age_adjusted_premature_mortality	268.7
+27045	Minnesota	Fillmore	age_adjusted_premature_mortality	251.6
+27047	Minnesota	Freeborn	age_adjusted_premature_mortality	279.1
+27049	Minnesota	Goodhue	age_adjusted_premature_mortality	293.9
+27051	Minnesota	Grant	age_adjusted_premature_mortality	313.9
+27053	Minnesota	Hennepin	age_adjusted_premature_mortality	272.4
+27055	Minnesota	Houston	age_adjusted_premature_mortality	247.9
+27057	Minnesota	Hubbard	age_adjusted_premature_mortality	282.4
+27059	Minnesota	Isanti	age_adjusted_premature_mortality	253
+27061	Minnesota	Itasca	age_adjusted_premature_mortality	310.4
+27063	Minnesota	Jackson	age_adjusted_premature_mortality	275.7
+27065	Minnesota	Kanabec	age_adjusted_premature_mortality	316.6
+27067	Minnesota	Kandiyohi	age_adjusted_premature_mortality	233.5
+27069	Minnesota	Kittson	age_adjusted_premature_mortality	314.4
+27071	Minnesota	Koochiching	age_adjusted_premature_mortality	283.7
+27073	Minnesota	Lac qui Parle	age_adjusted_premature_mortality	298.6
+27075	Minnesota	Lake	age_adjusted_premature_mortality	301.8
+27077	Minnesota	Lake of the Woods	age_adjusted_premature_mortality	236.8
+27079	Minnesota	Le Sueur	age_adjusted_premature_mortality	262.3
+27081	Minnesota	Lincoln	age_adjusted_premature_mortality	275.7
+27083	Minnesota	Lyon	age_adjusted_premature_mortality	296.6
+27085	Minnesota	McLeod	age_adjusted_premature_mortality	275.5
+27087	Minnesota	Mahnomen	age_adjusted_premature_mortality	512.5
+27089	Minnesota	Marshall	age_adjusted_premature_mortality	248.5
+27091	Minnesota	Martin	age_adjusted_premature_mortality	287.6
+27093	Minnesota	Meeker	age_adjusted_premature_mortality	268.3
+27095	Minnesota	Mille Lacs	age_adjusted_premature_mortality	404
+27097	Minnesota	Morrison	age_adjusted_premature_mortality	276.9
+27099	Minnesota	Mower	age_adjusted_premature_mortality	263.6
+27101	Minnesota	Murray	age_adjusted_premature_mortality	237.1
+27103	Minnesota	Nicollet	age_adjusted_premature_mortality	216.4
+27105	Minnesota	Nobles	age_adjusted_premature_mortality	229.2
+27107	Minnesota	Norman	age_adjusted_premature_mortality	321.5
+27109	Minnesota	Olmsted	age_adjusted_premature_mortality	233.4
+27111	Minnesota	Otter Tail	age_adjusted_premature_mortality	260.5
+27113	Minnesota	Pennington	age_adjusted_premature_mortality	284.6
+27115	Minnesota	Pine	age_adjusted_premature_mortality	331.8
+27117	Minnesota	Pipestone	age_adjusted_premature_mortality	339.1
+27119	Minnesota	Polk	age_adjusted_premature_mortality	351.6
+27121	Minnesota	Pope	age_adjusted_premature_mortality	283.9
+27123	Minnesota	Ramsey	age_adjusted_premature_mortality	297.5
+27125	Minnesota	Red Lake	age_adjusted_premature_mortality	298.4
+27127	Minnesota	Redwood	age_adjusted_premature_mortality	276.8
+27129	Minnesota	Renville	age_adjusted_premature_mortality	364.2
+27131	Minnesota	Rice	age_adjusted_premature_mortality	234
+27133	Minnesota	Rock	age_adjusted_premature_mortality	331.6
+27135	Minnesota	Roseau	age_adjusted_premature_mortality	257.3
+27137	Minnesota	St. Louis	age_adjusted_premature_mortality	337.4
+27139	Minnesota	Scott	age_adjusted_premature_mortality	218.1
+27141	Minnesota	Sherburne	age_adjusted_premature_mortality	239.8
+27143	Minnesota	Sibley	age_adjusted_premature_mortality	256.8
+27145	Minnesota	Stearns	age_adjusted_premature_mortality	225.8
+27147	Minnesota	Steele	age_adjusted_premature_mortality	242
+27149	Minnesota	Stevens	age_adjusted_premature_mortality	304.8
+27151	Minnesota	Swift	age_adjusted_premature_mortality	287.9
+27153	Minnesota	Todd	age_adjusted_premature_mortality	274.7
+27155	Minnesota	Traverse	age_adjusted_premature_mortality	324.5
+27157	Minnesota	Wabasha	age_adjusted_premature_mortality	249.1
+27159	Minnesota	Wadena	age_adjusted_premature_mortality	365.1
+27161	Minnesota	Waseca	age_adjusted_premature_mortality	219.8
+27163	Minnesota	Washington	age_adjusted_premature_mortality	230
+27165	Minnesota	Watonwan	age_adjusted_premature_mortality	313.2
+27167	Minnesota	Wilkin	age_adjusted_premature_mortality	309.5
+27169	Minnesota	Winona	age_adjusted_premature_mortality	270.3
+27171	Minnesota	Wright	age_adjusted_premature_mortality	247.3
+27173	Minnesota	Yellow Medicine	age_adjusted_premature_mortality	223.7
+28001	Mississippi	Adams	age_adjusted_premature_mortality	541.7
+28003	Mississippi	Alcorn	age_adjusted_premature_mortality	529.9
+28005	Mississippi	Amite	age_adjusted_premature_mortality	455.6
+28007	Mississippi	Attala	age_adjusted_premature_mortality	534.8
+28009	Mississippi	Benton	age_adjusted_premature_mortality	532.1
+28011	Mississippi	Bolivar	age_adjusted_premature_mortality	694.6
+28013	Mississippi	Calhoun	age_adjusted_premature_mortality	504.5
+28015	Mississippi	Carroll	age_adjusted_premature_mortality	391.1
+28017	Mississippi	Chickasaw	age_adjusted_premature_mortality	476.3
+28019	Mississippi	Choctaw	age_adjusted_premature_mortality	503.5
+28021	Mississippi	Claiborne	age_adjusted_premature_mortality	598.6
+28023	Mississippi	Clarke	age_adjusted_premature_mortality	509.7
+28025	Mississippi	Clay	age_adjusted_premature_mortality	454.5
+28027	Mississippi	Coahoma	age_adjusted_premature_mortality	671.2
+28029	Mississippi	Copiah	age_adjusted_premature_mortality	510.8
+28031	Mississippi	Covington	age_adjusted_premature_mortality	497.2
+28033	Mississippi	DeSoto	age_adjusted_premature_mortality	388.9
+28035	Mississippi	Forrest	age_adjusted_premature_mortality	523.7
+28037	Mississippi	Franklin	age_adjusted_premature_mortality	506.1
+28039	Mississippi	George	age_adjusted_premature_mortality	531.6
+28041	Mississippi	Greene	age_adjusted_premature_mortality	469.2
+28043	Mississippi	Grenada	age_adjusted_premature_mortality	532.8
+28045	Mississippi	Hancock	age_adjusted_premature_mortality	417
+28047	Mississippi	Harrison	age_adjusted_premature_mortality	470.7
+28049	Mississippi	Hinds	age_adjusted_premature_mortality	469
+28051	Mississippi	Holmes	age_adjusted_premature_mortality	657.7
+28053	Mississippi	Humphreys	age_adjusted_premature_mortality	645.1
+28055	Mississippi	Issaquena	age_adjusted_premature_mortality	567.3
+28057	Mississippi	Itawamba	age_adjusted_premature_mortality	531
+28059	Mississippi	Jackson	age_adjusted_premature_mortality	452.9
+28061	Mississippi	Jasper	age_adjusted_premature_mortality	440.2
+28063	Mississippi	Jefferson	age_adjusted_premature_mortality	585.9
+28065	Mississippi	Jefferson Davis	age_adjusted_premature_mortality	542.7
+28067	Mississippi	Jones	age_adjusted_premature_mortality	476.9
+28069	Mississippi	Kemper	age_adjusted_premature_mortality	466.8
+28071	Mississippi	Lafayette	age_adjusted_premature_mortality	413.4
+28073	Mississippi	Lamar	age_adjusted_premature_mortality	356.5
+28075	Mississippi	Lauderdale	age_adjusted_premature_mortality	484.6
+28077	Mississippi	Lawrence	age_adjusted_premature_mortality	575.6
+28079	Mississippi	Leake	age_adjusted_premature_mortality	568
+28081	Mississippi	Lee	age_adjusted_premature_mortality	499
+28083	Mississippi	Leflore	age_adjusted_premature_mortality	627.5
+28085	Mississippi	Lincoln	age_adjusted_premature_mortality	509.3
+28087	Mississippi	Lowndes	age_adjusted_premature_mortality	428
+28089	Mississippi	Madison	age_adjusted_premature_mortality	487.5
+28091	Mississippi	Marion	age_adjusted_premature_mortality	617.9
+28093	Mississippi	Marshall	age_adjusted_premature_mortality	516.1
+28095	Mississippi	Monroe	age_adjusted_premature_mortality	419.9
+28097	Mississippi	Montgomery	age_adjusted_premature_mortality	602.5
+28099	Mississippi	Neshoba	age_adjusted_premature_mortality	567.8
+28101	Mississippi	Newton	age_adjusted_premature_mortality	506.2
+28103	Mississippi	Noxubee	age_adjusted_premature_mortality	445
+28105	Mississippi	Oktibbeha	age_adjusted_premature_mortality	382.8
+28107	Mississippi	Panola	age_adjusted_premature_mortality	579.5
+28109	Mississippi	Pearl River	age_adjusted_premature_mortality	509.7
+28111	Mississippi	Perry	age_adjusted_premature_mortality	553.7
+28113	Mississippi	Pike	age_adjusted_premature_mortality	578.7
+28115	Mississippi	Pontotoc	age_adjusted_premature_mortality	379.1
+28117	Mississippi	Prentiss	age_adjusted_premature_mortality	485.4
+28119	Mississippi	Quitman	age_adjusted_premature_mortality	762.1
+28121	Mississippi	Rankin	age_adjusted_premature_mortality	380.4
+28123	Mississippi	Scott	age_adjusted_premature_mortality	589.7
+28125	Mississippi	Sharkey	age_adjusted_premature_mortality	583.8
+28127	Mississippi	Simpson	age_adjusted_premature_mortality	551.5
+28129	Mississippi	Smith	age_adjusted_premature_mortality	428.6
+28131	Mississippi	Stone	age_adjusted_premature_mortality	497
+28133	Mississippi	Sunflower	age_adjusted_premature_mortality	682.7
+28135	Mississippi	Tallahatchie	age_adjusted_premature_mortality	513.3
+28137	Mississippi	Tate	age_adjusted_premature_mortality	504.4
+28139	Mississippi	Tippah	age_adjusted_premature_mortality	492.1
+28141	Mississippi	Tishomingo	age_adjusted_premature_mortality	497.8
+28143	Mississippi	Tunica	age_adjusted_premature_mortality	693.6
+28145	Mississippi	Union	age_adjusted_premature_mortality	389
+28147	Mississippi	Walthall	age_adjusted_premature_mortality	614.1
+28149	Mississippi	Warren	age_adjusted_premature_mortality	496.5
+28151	Mississippi	Washington	age_adjusted_premature_mortality	656.9
+28153	Mississippi	Wayne	age_adjusted_premature_mortality	530.1
+28155	Mississippi	Webster	age_adjusted_premature_mortality	578.5
+28157	Mississippi	Wilkinson	age_adjusted_premature_mortality	669.2
+28159	Mississippi	Winston	age_adjusted_premature_mortality	522
+28161	Mississippi	Yalobusha	age_adjusted_premature_mortality	615
+28163	Mississippi	Yazoo	age_adjusted_premature_mortality	509.1
+29001	Missouri	Adair	age_adjusted_premature_mortality	344.4
+29003	Missouri	Andrew	age_adjusted_premature_mortality	311.1
+29005	Missouri	Atchison	age_adjusted_premature_mortality	354.6
+29007	Missouri	Audrain	age_adjusted_premature_mortality	402.6
+29009	Missouri	Barry	age_adjusted_premature_mortality	443.3
+29011	Missouri	Barton	age_adjusted_premature_mortality	370
+29013	Missouri	Bates	age_adjusted_premature_mortality	367.3
+29015	Missouri	Benton	age_adjusted_premature_mortality	457.4
+29017	Missouri	Bollinger	age_adjusted_premature_mortality	414.8
+29019	Missouri	Boone	age_adjusted_premature_mortality	302.6
+29021	Missouri	Buchanan	age_adjusted_premature_mortality	413.4
+29023	Missouri	Butler	age_adjusted_premature_mortality	501.7
+29025	Missouri	Caldwell	age_adjusted_premature_mortality	455
+29027	Missouri	Callaway	age_adjusted_premature_mortality	373.6
+29029	Missouri	Camden	age_adjusted_premature_mortality	350.5
+29031	Missouri	Cape Girardeau	age_adjusted_premature_mortality	335.7
+29033	Missouri	Carroll	age_adjusted_premature_mortality	441.6
+29035	Missouri	Carter	age_adjusted_premature_mortality	626.4
+29037	Missouri	Cass	age_adjusted_premature_mortality	356.6
+29039	Missouri	Cedar	age_adjusted_premature_mortality	466.5
+29041	Missouri	Chariton	age_adjusted_premature_mortality	386.3
+29043	Missouri	Christian	age_adjusted_premature_mortality	314.1
+29045	Missouri	Clark	age_adjusted_premature_mortality	458.7
+29047	Missouri	Clay	age_adjusted_premature_mortality	326.2
+29049	Missouri	Clinton	age_adjusted_premature_mortality	414.5
+29051	Missouri	Cole	age_adjusted_premature_mortality	329.3
+29053	Missouri	Cooper	age_adjusted_premature_mortality	414.5
+29055	Missouri	Crawford	age_adjusted_premature_mortality	448
+29057	Missouri	Dade	age_adjusted_premature_mortality	444.5
+29059	Missouri	Dallas	age_adjusted_premature_mortality	419.7
+29061	Missouri	Daviess	age_adjusted_premature_mortality	374
+29063	Missouri	DeKalb	age_adjusted_premature_mortality	353.9
+29065	Missouri	Dent	age_adjusted_premature_mortality	523.4
+29067	Missouri	Douglas	age_adjusted_premature_mortality	351.9
+29069	Missouri	Dunklin	age_adjusted_premature_mortality	619.6
+29071	Missouri	Franklin	age_adjusted_premature_mortality	402.9
+29073	Missouri	Gasconade	age_adjusted_premature_mortality	374.8
+29075	Missouri	Gentry	age_adjusted_premature_mortality	323.9
+29077	Missouri	Greene	age_adjusted_premature_mortality	389.1
+29079	Missouri	Grundy	age_adjusted_premature_mortality	386.4
+29081	Missouri	Harrison	age_adjusted_premature_mortality	365
+29083	Missouri	Henry	age_adjusted_premature_mortality	474.7
+29085	Missouri	Hickory	age_adjusted_premature_mortality	418
+29087	Missouri	Holt	age_adjusted_premature_mortality	445.4
+29089	Missouri	Howard	age_adjusted_premature_mortality	324.9
+29091	Missouri	Howell	age_adjusted_premature_mortality	459.5
+29093	Missouri	Iron	age_adjusted_premature_mortality	539.4
+29095	Missouri	Jackson	age_adjusted_premature_mortality	425.1
+29097	Missouri	Jasper	age_adjusted_premature_mortality	430.9
+29099	Missouri	Jefferson	age_adjusted_premature_mortality	407.5
+29101	Missouri	Johnson	age_adjusted_premature_mortality	337.3
+29103	Missouri	Knox	age_adjusted_premature_mortality	477.7
+29105	Missouri	Laclede	age_adjusted_premature_mortality	411.9
+29107	Missouri	Lafayette	age_adjusted_premature_mortality	374.6
+29109	Missouri	Lawrence	age_adjusted_premature_mortality	407.6
+29111	Missouri	Lewis	age_adjusted_premature_mortality	397.6
+29113	Missouri	Lincoln	age_adjusted_premature_mortality	398.1
+29115	Missouri	Linn	age_adjusted_premature_mortality	442.5
+29117	Missouri	Livingston	age_adjusted_premature_mortality	404.1
+29119	Missouri	McDonald	age_adjusted_premature_mortality	501.9
+29121	Missouri	Macon	age_adjusted_premature_mortality	385
+29123	Missouri	Madison	age_adjusted_premature_mortality	570.1
+29125	Missouri	Maries	age_adjusted_premature_mortality	372.1
+29127	Missouri	Marion	age_adjusted_premature_mortality	399.2
+29129	Missouri	Mercer	age_adjusted_premature_mortality	294.3
+29131	Missouri	Miller	age_adjusted_premature_mortality	413.2
+29133	Missouri	Mississippi	age_adjusted_premature_mortality	602.9
+29135	Missouri	Moniteau	age_adjusted_premature_mortality	349.7
+29137	Missouri	Monroe	age_adjusted_premature_mortality	308.8
+29139	Missouri	Montgomery	age_adjusted_premature_mortality	438.4
+29141	Missouri	Morgan	age_adjusted_premature_mortality	426.2
+29143	Missouri	New Madrid	age_adjusted_premature_mortality	585.6
+29145	Missouri	Newton	age_adjusted_premature_mortality	417.1
+29147	Missouri	Nodaway	age_adjusted_premature_mortality	288.2
+29149	Missouri	Oregon	age_adjusted_premature_mortality	423.9
+29151	Missouri	Osage	age_adjusted_premature_mortality	356.2
+29153	Missouri	Ozark	age_adjusted_premature_mortality	498.1
+29155	Missouri	Pemiscot	age_adjusted_premature_mortality	629.6
+29157	Missouri	Perry	age_adjusted_premature_mortality	392.1
+29159	Missouri	Pettis	age_adjusted_premature_mortality	371
+29161	Missouri	Phelps	age_adjusted_premature_mortality	420.7
+29163	Missouri	Pike	age_adjusted_premature_mortality	382.1
+29165	Missouri	Platte	age_adjusted_premature_mortality	264.2
+29167	Missouri	Polk	age_adjusted_premature_mortality	439.2
+29169	Missouri	Pulaski	age_adjusted_premature_mortality	406
+29171	Missouri	Putnam	age_adjusted_premature_mortality	317.3
+29173	Missouri	Ralls	age_adjusted_premature_mortality	318.5
+29175	Missouri	Randolph	age_adjusted_premature_mortality	416.1
+29177	Missouri	Ray	age_adjusted_premature_mortality	466.4
+29179	Missouri	Reynolds	age_adjusted_premature_mortality	467.5
+29181	Missouri	Ripley	age_adjusted_premature_mortality	580.8
+29183	Missouri	St. Charles	age_adjusted_premature_mortality	271.3
+29185	Missouri	St. Clair	age_adjusted_premature_mortality	491.7
+29186	Missouri	Ste. Genevieve	age_adjusted_premature_mortality	349.5
+29187	Missouri	St. Francois	age_adjusted_premature_mortality	489.9
+29189	Missouri	St. Louis	age_adjusted_premature_mortality	324.7
+29195	Missouri	Saline	age_adjusted_premature_mortality	395.2
+29197	Missouri	Schuyler	age_adjusted_premature_mortality	415
+29199	Missouri	Scotland	age_adjusted_premature_mortality	351
+29201	Missouri	Scott	age_adjusted_premature_mortality	478.9
+29203	Missouri	Shannon	age_adjusted_premature_mortality	448.7
+29205	Missouri	Shelby	age_adjusted_premature_mortality	404.6
+29207	Missouri	Stoddard	age_adjusted_premature_mortality	455.6
+29209	Missouri	Stone	age_adjusted_premature_mortality	333.8
+29211	Missouri	Sullivan	age_adjusted_premature_mortality	413.7
+29213	Missouri	Taney	age_adjusted_premature_mortality	369.7
+29215	Missouri	Texas	age_adjusted_premature_mortality	436.9
+29217	Missouri	Vernon	age_adjusted_premature_mortality	448.2
+29219	Missouri	Warren	age_adjusted_premature_mortality	366.2
+29221	Missouri	Washington	age_adjusted_premature_mortality	506.4
+29223	Missouri	Wayne	age_adjusted_premature_mortality	495
+29225	Missouri	Webster	age_adjusted_premature_mortality	403
+29227	Missouri	Worth	age_adjusted_premature_mortality	407.4
+29229	Missouri	Wright	age_adjusted_premature_mortality	428.9
+29510	Missouri	St. Louis City	age_adjusted_premature_mortality	573.4
+30001	Montana	Beaverhead	age_adjusted_premature_mortality	309.4
+30003	Montana	Big Horn	age_adjusted_premature_mortality	576.9
+30005	Montana	Blaine	age_adjusted_premature_mortality	582.3
+30007	Montana	Broadwater	age_adjusted_premature_mortality	273.6
+30009	Montana	Carbon	age_adjusted_premature_mortality	328.4
+30011	Montana	Carter	age_adjusted_premature_mortality	
+30013	Montana	Cascade	age_adjusted_premature_mortality	355.4
+30015	Montana	Chouteau	age_adjusted_premature_mortality	365
+30017	Montana	Custer	age_adjusted_premature_mortality	446.3
+30019	Montana	Daniels	age_adjusted_premature_mortality	258.8
+30021	Montana	Dawson	age_adjusted_premature_mortality	362.6
+30023	Montana	Deer Lodge	age_adjusted_premature_mortality	431
+30025	Montana	Fallon	age_adjusted_premature_mortality	302.7
+30027	Montana	Fergus	age_adjusted_premature_mortality	349.3
+30029	Montana	Flathead	age_adjusted_premature_mortality	306.8
+30031	Montana	Gallatin	age_adjusted_premature_mortality	234.8
+30033	Montana	Garfield	age_adjusted_premature_mortality	
+30035	Montana	Glacier	age_adjusted_premature_mortality	589.1
+30037	Montana	Golden Valley	age_adjusted_premature_mortality	
+30039	Montana	Granite	age_adjusted_premature_mortality	242.2
+30041	Montana	Hill	age_adjusted_premature_mortality	400.5
+30043	Montana	Jefferson	age_adjusted_premature_mortality	345.9
+30045	Montana	Judith Basin	age_adjusted_premature_mortality	273.4
+30047	Montana	Lake	age_adjusted_premature_mortality	365.1
+30049	Montana	Lewis and Clark	age_adjusted_premature_mortality	341.7
+30051	Montana	Liberty	age_adjusted_premature_mortality	
+30053	Montana	Lincoln	age_adjusted_premature_mortality	391.3
+30055	Montana	McCone	age_adjusted_premature_mortality	
+30057	Montana	Madison	age_adjusted_premature_mortality	270.4
+30059	Montana	Meagher	age_adjusted_premature_mortality	453.1
+30061	Montana	Mineral	age_adjusted_premature_mortality	451.9
+30063	Montana	Missoula	age_adjusted_premature_mortality	309.4
+30065	Montana	Musselshell	age_adjusted_premature_mortality	412.7
+30067	Montana	Park	age_adjusted_premature_mortality	301.2
+30069	Montana	Petroleum	age_adjusted_premature_mortality	
+30071	Montana	Phillips	age_adjusted_premature_mortality	347.7
+30073	Montana	Pondera	age_adjusted_premature_mortality	330.5
+30075	Montana	Powder River	age_adjusted_premature_mortality	
+30077	Montana	Powell	age_adjusted_premature_mortality	397.4
+30079	Montana	Prairie	age_adjusted_premature_mortality	
+30081	Montana	Ravalli	age_adjusted_premature_mortality	318.6
+30083	Montana	Richland	age_adjusted_premature_mortality	370
+30085	Montana	Roosevelt	age_adjusted_premature_mortality	762.2
+30087	Montana	Rosebud	age_adjusted_premature_mortality	471.1
+30089	Montana	Sanders	age_adjusted_premature_mortality	396.5
+30091	Montana	Sheridan	age_adjusted_premature_mortality	409.5
+30093	Montana	Silver Bow	age_adjusted_premature_mortality	467
+30095	Montana	Stillwater	age_adjusted_premature_mortality	336.1
+30097	Montana	Sweet Grass	age_adjusted_premature_mortality	242.3
+30099	Montana	Teton	age_adjusted_premature_mortality	357.5
+30101	Montana	Toole	age_adjusted_premature_mortality	302.4
+30103	Montana	Treasure	age_adjusted_premature_mortality	
+30105	Montana	Valley	age_adjusted_premature_mortality	306.7
+30107	Montana	Wheatland	age_adjusted_premature_mortality	270.5
+30109	Montana	Wibaux	age_adjusted_premature_mortality	
+30111	Montana	Yellowstone	age_adjusted_premature_mortality	341
+31001	Nebraska	Adams	age_adjusted_premature_mortality	330
+31003	Nebraska	Antelope	age_adjusted_premature_mortality	240.2
+31005	Nebraska	Arthur	age_adjusted_premature_mortality	
+31007	Nebraska	Banner	age_adjusted_premature_mortality	
+31009	Nebraska	Blaine	age_adjusted_premature_mortality	
+31011	Nebraska	Boone	age_adjusted_premature_mortality	278.7
+31013	Nebraska	Box Butte	age_adjusted_premature_mortality	340.2
+31015	Nebraska	Boyd	age_adjusted_premature_mortality	245.8
+31017	Nebraska	Brown	age_adjusted_premature_mortality	324
+31019	Nebraska	Buffalo	age_adjusted_premature_mortality	308.9
+31021	Nebraska	Burt	age_adjusted_premature_mortality	355.2
+31023	Nebraska	Butler	age_adjusted_premature_mortality	269
+31025	Nebraska	Cass	age_adjusted_premature_mortality	377.6
+31027	Nebraska	Cedar	age_adjusted_premature_mortality	234.8
+31029	Nebraska	Chase	age_adjusted_premature_mortality	402.8
+31031	Nebraska	Cherry	age_adjusted_premature_mortality	274.2
+31033	Nebraska	Cheyenne	age_adjusted_premature_mortality	326.4
+31035	Nebraska	Clay	age_adjusted_premature_mortality	369.5
+31037	Nebraska	Colfax	age_adjusted_premature_mortality	299.8
+31039	Nebraska	Cuming	age_adjusted_premature_mortality	269.6
+31041	Nebraska	Custer	age_adjusted_premature_mortality	324.5
+31043	Nebraska	Dakota	age_adjusted_premature_mortality	299.5
+31045	Nebraska	Dawes	age_adjusted_premature_mortality	312.9
+31047	Nebraska	Dawson	age_adjusted_premature_mortality	340.4
+31049	Nebraska	Deuel	age_adjusted_premature_mortality	408
+31051	Nebraska	Dixon	age_adjusted_premature_mortality	301.3
+31053	Nebraska	Dodge	age_adjusted_premature_mortality	334.3
+31055	Nebraska	Douglas	age_adjusted_premature_mortality	332.9
+31057	Nebraska	Dundy	age_adjusted_premature_mortality	320.3
+31059	Nebraska	Fillmore	age_adjusted_premature_mortality	257.9
+31061	Nebraska	Franklin	age_adjusted_premature_mortality	262.6
+31063	Nebraska	Frontier	age_adjusted_premature_mortality	297.3
+31065	Nebraska	Furnas	age_adjusted_premature_mortality	266.8
+31067	Nebraska	Gage	age_adjusted_premature_mortality	345.7
+31069	Nebraska	Garden	age_adjusted_premature_mortality	486
+31071	Nebraska	Garfield	age_adjusted_premature_mortality	349.3
+31073	Nebraska	Gosper	age_adjusted_premature_mortality	324.2
+31075	Nebraska	Grant	age_adjusted_premature_mortality	
+31077	Nebraska	Greeley	age_adjusted_premature_mortality	250.8
+31079	Nebraska	Hall	age_adjusted_premature_mortality	310.1
+31081	Nebraska	Hamilton	age_adjusted_premature_mortality	293.8
+31083	Nebraska	Harlan	age_adjusted_premature_mortality	329.4
+31085	Nebraska	Hayes	age_adjusted_premature_mortality	
+31087	Nebraska	Hitchcock	age_adjusted_premature_mortality	434
+31089	Nebraska	Holt	age_adjusted_premature_mortality	295.9
+31091	Nebraska	Hooker	age_adjusted_premature_mortality	
+31093	Nebraska	Howard	age_adjusted_premature_mortality	273.9
+31095	Nebraska	Jefferson	age_adjusted_premature_mortality	277
+31097	Nebraska	Johnson	age_adjusted_premature_mortality	289.5
+31099	Nebraska	Kearney	age_adjusted_premature_mortality	275.9
+31101	Nebraska	Keith	age_adjusted_premature_mortality	419.5
+31103	Nebraska	Keya Paha	age_adjusted_premature_mortality	
+31105	Nebraska	Kimball	age_adjusted_premature_mortality	551.2
+31107	Nebraska	Knox	age_adjusted_premature_mortality	315.2
+31109	Nebraska	Lancaster	age_adjusted_premature_mortality	260.5
+31111	Nebraska	Lincoln	age_adjusted_premature_mortality	331.9
+31113	Nebraska	Logan	age_adjusted_premature_mortality	
+31115	Nebraska	Loup	age_adjusted_premature_mortality	
+31117	Nebraska	McPherson	age_adjusted_premature_mortality	
+31119	Nebraska	Madison	age_adjusted_premature_mortality	332.1
+31121	Nebraska	Merrick	age_adjusted_premature_mortality	356.7
+31123	Nebraska	Morrill	age_adjusted_premature_mortality	323
+31125	Nebraska	Nance	age_adjusted_premature_mortality	455.7
+31127	Nebraska	Nemaha	age_adjusted_premature_mortality	374.4
+31129	Nebraska	Nuckolls	age_adjusted_premature_mortality	292.1
+31131	Nebraska	Otoe	age_adjusted_premature_mortality	340
+31133	Nebraska	Pawnee	age_adjusted_premature_mortality	422.3
+31135	Nebraska	Perkins	age_adjusted_premature_mortality	221.3
+31137	Nebraska	Phelps	age_adjusted_premature_mortality	293.6
+31139	Nebraska	Pierce	age_adjusted_premature_mortality	295.8
+31141	Nebraska	Platte	age_adjusted_premature_mortality	260.6
+31143	Nebraska	Polk	age_adjusted_premature_mortality	195.9
+31145	Nebraska	Red Willow	age_adjusted_premature_mortality	322.8
+31147	Nebraska	Richardson	age_adjusted_premature_mortality	404.7
+31149	Nebraska	Rock	age_adjusted_premature_mortality	
+31151	Nebraska	Saline	age_adjusted_premature_mortality	303.4
+31153	Nebraska	Sarpy	age_adjusted_premature_mortality	261.3
+31155	Nebraska	Saunders	age_adjusted_premature_mortality	325
+31157	Nebraska	Scotts Bluff	age_adjusted_premature_mortality	377.7
+31159	Nebraska	Seward	age_adjusted_premature_mortality	275.1
+31161	Nebraska	Sheridan	age_adjusted_premature_mortality	273.2
+31163	Nebraska	Sherman	age_adjusted_premature_mortality	527
+31165	Nebraska	Sioux	age_adjusted_premature_mortality	
+31167	Nebraska	Stanton	age_adjusted_premature_mortality	282.6
+31169	Nebraska	Thayer	age_adjusted_premature_mortality	376.2
+31171	Nebraska	Thomas	age_adjusted_premature_mortality	
+31173	Nebraska	Thurston	age_adjusted_premature_mortality	666.1
+31175	Nebraska	Valley	age_adjusted_premature_mortality	326.3
+31177	Nebraska	Washington	age_adjusted_premature_mortality	258.3
+31179	Nebraska	Wayne	age_adjusted_premature_mortality	223.6
+31181	Nebraska	Webster	age_adjusted_premature_mortality	366.8
+31183	Nebraska	Wheeler	age_adjusted_premature_mortality	
+31185	Nebraska	York	age_adjusted_premature_mortality	256.5
+32001	Nevada	Churchill	age_adjusted_premature_mortality	442.8
+32003	Nevada	Clark	age_adjusted_premature_mortality	366.5
+32005	Nevada	Douglas	age_adjusted_premature_mortality	289.4
+32007	Nevada	Elko	age_adjusted_premature_mortality	377
+32009	Nevada	Esmeralda	age_adjusted_premature_mortality	590.2
+32011	Nevada	Eureka	age_adjusted_premature_mortality	497.4
+32013	Nevada	Humboldt	age_adjusted_premature_mortality	406.7
+32015	Nevada	Lander	age_adjusted_premature_mortality	420.3
+32017	Nevada	Lincoln	age_adjusted_premature_mortality	300.4
+32019	Nevada	Lyon	age_adjusted_premature_mortality	387.6
+32021	Nevada	Mineral	age_adjusted_premature_mortality	538.2
+32023	Nevada	Nye	age_adjusted_premature_mortality	539.9
+32027	Nevada	Pershing	age_adjusted_premature_mortality	436.6
+32029	Nevada	Storey	age_adjusted_premature_mortality	230.2
+32031	Nevada	Washoe	age_adjusted_premature_mortality	359.9
+32033	Nevada	White Pine	age_adjusted_premature_mortality	449.6
+32510	Nevada	Carson City	age_adjusted_premature_mortality	392.2
+33001	New Hampshire	Belknap	age_adjusted_premature_mortality	320.5
+33003	New Hampshire	Carroll	age_adjusted_premature_mortality	288
+33005	New Hampshire	Cheshire	age_adjusted_premature_mortality	294.8
+33007	New Hampshire	Coos	age_adjusted_premature_mortality	376.1
+33009	New Hampshire	Grafton	age_adjusted_premature_mortality	265.4
+33011	New Hampshire	Hillsborough	age_adjusted_premature_mortality	274
+33013	New Hampshire	Merrimack	age_adjusted_premature_mortality	285.9
+33015	New Hampshire	Rockingham	age_adjusted_premature_mortality	262.2
+33017	New Hampshire	Strafford	age_adjusted_premature_mortality	306
+33019	New Hampshire	Sullivan	age_adjusted_premature_mortality	313
+34001	New Jersey	Atlantic	age_adjusted_premature_mortality	376.9
+34003	New Jersey	Bergen	age_adjusted_premature_mortality	215.6
+34005	New Jersey	Burlington	age_adjusted_premature_mortality	302.2
+34007	New Jersey	Camden	age_adjusted_premature_mortality	368.3
+34009	New Jersey	Cape May	age_adjusted_premature_mortality	362.6
+34011	New Jersey	Cumberland	age_adjusted_premature_mortality	412.3
+34013	New Jersey	Essex	age_adjusted_premature_mortality	372.7
+34015	New Jersey	Gloucester	age_adjusted_premature_mortality	340.7
+34017	New Jersey	Hudson	age_adjusted_premature_mortality	309.5
+34019	New Jersey	Hunterdon	age_adjusted_premature_mortality	217.2
+34021	New Jersey	Mercer	age_adjusted_premature_mortality	307.2
+34023	New Jersey	Middlesex	age_adjusted_premature_mortality	258.2
+34025	New Jersey	Monmouth	age_adjusted_premature_mortality	281.1
+34027	New Jersey	Morris	age_adjusted_premature_mortality	213
+34029	New Jersey	Ocean	age_adjusted_premature_mortality	325.3
+34031	New Jersey	Passaic	age_adjusted_premature_mortality	299.9
+34033	New Jersey	Salem	age_adjusted_premature_mortality	408.2
+34035	New Jersey	Somerset	age_adjusted_premature_mortality	209.9
+34037	New Jersey	Sussex	age_adjusted_premature_mortality	305.1
+34039	New Jersey	Union	age_adjusted_premature_mortality	289
+34041	New Jersey	Warren	age_adjusted_premature_mortality	280.5
+35001	New Mexico	Bernalillo	age_adjusted_premature_mortality	344.9
+35003	New Mexico	Catron	age_adjusted_premature_mortality	282.5
+35005	New Mexico	Chaves	age_adjusted_premature_mortality	437.1
+35006	New Mexico	Cibola	age_adjusted_premature_mortality	451.3
+35007	New Mexico	Colfax	age_adjusted_premature_mortality	388.2
+35009	New Mexico	Curry	age_adjusted_premature_mortality	377.5
+35011	New Mexico	De Baca	age_adjusted_premature_mortality	382.9
+35013	New Mexico	Dona Ana	age_adjusted_premature_mortality	334.8
+35015	New Mexico	Eddy	age_adjusted_premature_mortality	449.9
+35017	New Mexico	Grant	age_adjusted_premature_mortality	403.8
+35019	New Mexico	Guadalupe	age_adjusted_premature_mortality	362.7
+35021	New Mexico	Harding	age_adjusted_premature_mortality	
+35023	New Mexico	Hidalgo	age_adjusted_premature_mortality	411.4
+35025	New Mexico	Lea	age_adjusted_premature_mortality	418.5
+35027	New Mexico	Lincoln	age_adjusted_premature_mortality	298.1
+35028	New Mexico	Los Alamos	age_adjusted_premature_mortality	186.3
+35029	New Mexico	Luna	age_adjusted_premature_mortality	430.9
+35031	New Mexico	McKinley	age_adjusted_premature_mortality	492.3
+35033	New Mexico	Mora	age_adjusted_premature_mortality	343.9
+35035	New Mexico	Otero	age_adjusted_premature_mortality	401.4
+35037	New Mexico	Quay	age_adjusted_premature_mortality	556.7
+35039	New Mexico	Rio Arriba	age_adjusted_premature_mortality	489.6
+35041	New Mexico	Roosevelt	age_adjusted_premature_mortality	416
+35043	New Mexico	Sandoval	age_adjusted_premature_mortality	295.9
+35045	New Mexico	San Juan	age_adjusted_premature_mortality	401.2
+35047	New Mexico	San Miguel	age_adjusted_premature_mortality	429.2
+35049	New Mexico	Santa Fe	age_adjusted_premature_mortality	278.7
+35051	New Mexico	Sierra	age_adjusted_premature_mortality	553.1
+35053	New Mexico	Socorro	age_adjusted_premature_mortality	469.7
+35055	New Mexico	Taos	age_adjusted_premature_mortality	331.9
+35057	New Mexico	Torrance	age_adjusted_premature_mortality	392.1
+35059	New Mexico	Union	age_adjusted_premature_mortality	353.9
+35061	New Mexico	Valencia	age_adjusted_premature_mortality	396.3
+36001	New York	Albany	age_adjusted_premature_mortality	308.5
+36003	New York	Allegany	age_adjusted_premature_mortality	312.3
+36005	New York	Bronx	age_adjusted_premature_mortality	382.7
+36007	New York	Broome	age_adjusted_premature_mortality	330
+36009	New York	Cattaraugus	age_adjusted_premature_mortality	376.1
+36011	New York	Cayuga	age_adjusted_premature_mortality	295.5
+36013	New York	Chautauqua	age_adjusted_premature_mortality	337
+36015	New York	Chemung	age_adjusted_premature_mortality	354.8
+36017	New York	Chenango	age_adjusted_premature_mortality	339.8
+36019	New York	Clinton	age_adjusted_premature_mortality	316.2
+36021	New York	Columbia	age_adjusted_premature_mortality	326.2
+36023	New York	Cortland	age_adjusted_premature_mortality	331.8
+36025	New York	Delaware	age_adjusted_premature_mortality	330.9
+36027	New York	Dutchess	age_adjusted_premature_mortality	282.6
+36029	New York	Erie	age_adjusted_premature_mortality	356.5
+36031	New York	Essex	age_adjusted_premature_mortality	291.4
+36033	New York	Franklin	age_adjusted_premature_mortality	348.2
+36035	New York	Fulton	age_adjusted_premature_mortality	342.5
+36037	New York	Genesee	age_adjusted_premature_mortality	328.9
+36039	New York	Greene	age_adjusted_premature_mortality	366.7
+36041	New York	Hamilton	age_adjusted_premature_mortality	369
+36043	New York	Herkimer	age_adjusted_premature_mortality	321.9
+36045	New York	Jefferson	age_adjusted_premature_mortality	328.5
+36047	New York	Kings	age_adjusted_premature_mortality	320.6
+36049	New York	Lewis	age_adjusted_premature_mortality	301
+36051	New York	Livingston	age_adjusted_premature_mortality	283.1
+36053	New York	Madison	age_adjusted_premature_mortality	280.1
+36055	New York	Monroe	age_adjusted_premature_mortality	290.7
+36057	New York	Montgomery	age_adjusted_premature_mortality	363.9
+36059	New York	Nassau	age_adjusted_premature_mortality	238.2
+36061	New York	New York	age_adjusted_premature_mortality	262.4
+36063	New York	Niagara	age_adjusted_premature_mortality	368
+36065	New York	Oneida	age_adjusted_premature_mortality	346.8
+36067	New York	Onondaga	age_adjusted_premature_mortality	311.8
+36069	New York	Ontario	age_adjusted_premature_mortality	305.4
+36071	New York	Orange	age_adjusted_premature_mortality	308.5
+36073	New York	Orleans	age_adjusted_premature_mortality	334.8
+36075	New York	Oswego	age_adjusted_premature_mortality	346.5
+36077	New York	Otsego	age_adjusted_premature_mortality	301.5
+36079	New York	Putnam	age_adjusted_premature_mortality	241
+36081	New York	Queens	age_adjusted_premature_mortality	254.9
+36083	New York	Rensselaer	age_adjusted_premature_mortality	329.5
+36085	New York	Richmond	age_adjusted_premature_mortality	307.5
+36087	New York	Rockland	age_adjusted_premature_mortality	238.2
+36089	New York	St. Lawrence	age_adjusted_premature_mortality	366.3
+36091	New York	Saratoga	age_adjusted_premature_mortality	266.4
+36093	New York	Schenectady	age_adjusted_premature_mortality	317.2
+36095	New York	Schoharie	age_adjusted_premature_mortality	281.1
+36097	New York	Schuyler	age_adjusted_premature_mortality	330
+36099	New York	Seneca	age_adjusted_premature_mortality	302.2
+36101	New York	Steuben	age_adjusted_premature_mortality	335.3
+36103	New York	Suffolk	age_adjusted_premature_mortality	280.4
+36105	New York	Sullivan	age_adjusted_premature_mortality	385.9
+36107	New York	Tioga	age_adjusted_premature_mortality	272.7
+36109	New York	Tompkins	age_adjusted_premature_mortality	243.5
+36111	New York	Ulster	age_adjusted_premature_mortality	312.4
+36113	New York	Warren	age_adjusted_premature_mortality	283.9
+36115	New York	Washington	age_adjusted_premature_mortality	322.5
+36117	New York	Wayne	age_adjusted_premature_mortality	319.5
+36119	New York	Westchester	age_adjusted_premature_mortality	231.4
+36121	New York	Wyoming	age_adjusted_premature_mortality	303.2
+36123	New York	Yates	age_adjusted_premature_mortality	311
+37001	North Carolina	Alamance	age_adjusted_premature_mortality	372.7
+37003	North Carolina	Alexander	age_adjusted_premature_mortality	399.7
+37005	North Carolina	Alleghany	age_adjusted_premature_mortality	398.6
+37007	North Carolina	Anson	age_adjusted_premature_mortality	491.9
+37009	North Carolina	Ashe	age_adjusted_premature_mortality	376.3
+37011	North Carolina	Avery	age_adjusted_premature_mortality	379.9
+37013	North Carolina	Beaufort	age_adjusted_premature_mortality	432.3
+37015	North Carolina	Bertie	age_adjusted_premature_mortality	498.9
+37017	North Carolina	Bladen	age_adjusted_premature_mortality	503.9
+37019	North Carolina	Brunswick	age_adjusted_premature_mortality	364.9
+37021	North Carolina	Buncombe	age_adjusted_premature_mortality	351.2
+37023	North Carolina	Burke	age_adjusted_premature_mortality	443.6
+37025	North Carolina	Cabarrus	age_adjusted_premature_mortality	359.9
+37027	North Carolina	Caldwell	age_adjusted_premature_mortality	434.6
+37029	North Carolina	Camden	age_adjusted_premature_mortality	270.3
+37031	North Carolina	Carteret	age_adjusted_premature_mortality	392.4
+37033	North Carolina	Caswell	age_adjusted_premature_mortality	404.5
+37035	North Carolina	Catawba	age_adjusted_premature_mortality	415.8
+37037	North Carolina	Chatham	age_adjusted_premature_mortality	290.6
+37039	North Carolina	Cherokee	age_adjusted_premature_mortality	372
+37041	North Carolina	Chowan	age_adjusted_premature_mortality	386.2
+37043	North Carolina	Clay	age_adjusted_premature_mortality	397.2
+37045	North Carolina	Cleveland	age_adjusted_premature_mortality	458.9
+37047	North Carolina	Columbus	age_adjusted_premature_mortality	542.5
+37049	North Carolina	Craven	age_adjusted_premature_mortality	377.4
+37051	North Carolina	Cumberland	age_adjusted_premature_mortality	443.4
+37053	North Carolina	Currituck	age_adjusted_premature_mortality	378.2
+37055	North Carolina	Dare	age_adjusted_premature_mortality	307
+37057	North Carolina	Davidson	age_adjusted_premature_mortality	397.6
+37059	North Carolina	Davie	age_adjusted_premature_mortality	310.7
+37061	North Carolina	Duplin	age_adjusted_premature_mortality	389.3
+37063	North Carolina	Durham	age_adjusted_premature_mortality	355.8
+37065	North Carolina	Edgecombe	age_adjusted_premature_mortality	482.1
+37067	North Carolina	Forsyth	age_adjusted_premature_mortality	362.2
+37069	North Carolina	Franklin	age_adjusted_premature_mortality	392
+37071	North Carolina	Gaston	age_adjusted_premature_mortality	462.6
+37073	North Carolina	Gates	age_adjusted_premature_mortality	444.9
+37075	North Carolina	Graham	age_adjusted_premature_mortality	433.4
+37077	North Carolina	Granville	age_adjusted_premature_mortality	398.9
+37079	North Carolina	Greene	age_adjusted_premature_mortality	368.9
+37081	North Carolina	Guilford	age_adjusted_premature_mortality	339.2
+37083	North Carolina	Halifax	age_adjusted_premature_mortality	505.9
+37085	North Carolina	Harnett	age_adjusted_premature_mortality	429.3
+37087	North Carolina	Haywood	age_adjusted_premature_mortality	361.7
+37089	North Carolina	Henderson	age_adjusted_premature_mortality	330.5
+37091	North Carolina	Hertford	age_adjusted_premature_mortality	425.4
+37093	North Carolina	Hoke	age_adjusted_premature_mortality	395.7
+37095	North Carolina	Hyde	age_adjusted_premature_mortality	361.8
+37097	North Carolina	Iredell	age_adjusted_premature_mortality	369.7
+37099	North Carolina	Jackson	age_adjusted_premature_mortality	340.8
+37101	North Carolina	Johnston	age_adjusted_premature_mortality	379.2
+37103	North Carolina	Jones	age_adjusted_premature_mortality	444.2
+37105	North Carolina	Lee	age_adjusted_premature_mortality	408.1
+37107	North Carolina	Lenoir	age_adjusted_premature_mortality	510.1
+37109	North Carolina	Lincoln	age_adjusted_premature_mortality	393.3
+37111	North Carolina	McDowell	age_adjusted_premature_mortality	398.2
+37113	North Carolina	Macon	age_adjusted_premature_mortality	338.9
+37115	North Carolina	Madison	age_adjusted_premature_mortality	345.6
+37117	North Carolina	Martin	age_adjusted_premature_mortality	491.6
+37119	North Carolina	Mecklenburg	age_adjusted_premature_mortality	313.7
+37121	North Carolina	Mitchell	age_adjusted_premature_mortality	410.7
+37123	North Carolina	Montgomery	age_adjusted_premature_mortality	384
+37125	North Carolina	Moore	age_adjusted_premature_mortality	329.8
+37127	North Carolina	Nash	age_adjusted_premature_mortality	431.7
+37129	North Carolina	New Hanover	age_adjusted_premature_mortality	324.5
+37131	North Carolina	Northampton	age_adjusted_premature_mortality	462.5
+37133	North Carolina	Onslow	age_adjusted_premature_mortality	381.6
+37135	North Carolina	Orange	age_adjusted_premature_mortality	269.9
+37137	North Carolina	Pamlico	age_adjusted_premature_mortality	400.6
+37139	North Carolina	Pasquotank	age_adjusted_premature_mortality	407.3
+37141	North Carolina	Pender	age_adjusted_premature_mortality	375.9
+37143	North Carolina	Perquimans	age_adjusted_premature_mortality	359.6
+37145	North Carolina	Person	age_adjusted_premature_mortality	424.7
+37147	North Carolina	Pitt	age_adjusted_premature_mortality	401.4
+37149	North Carolina	Polk	age_adjusted_premature_mortality	340.7
+37151	North Carolina	Randolph	age_adjusted_premature_mortality	407
+37153	North Carolina	Richmond	age_adjusted_premature_mortality	531
+37155	North Carolina	Robeson	age_adjusted_premature_mortality	522.2
+37157	North Carolina	Rockingham	age_adjusted_premature_mortality	444.3
+37159	North Carolina	Rowan	age_adjusted_premature_mortality	422.3
+37161	North Carolina	Rutherford	age_adjusted_premature_mortality	438.4
+37163	North Carolina	Sampson	age_adjusted_premature_mortality	470
+37165	North Carolina	Scotland	age_adjusted_premature_mortality	526.3
+37167	North Carolina	Stanly	age_adjusted_premature_mortality	394
+37169	North Carolina	Stokes	age_adjusted_premature_mortality	411.8
+37171	North Carolina	Surry	age_adjusted_premature_mortality	428.3
+37173	North Carolina	Swain	age_adjusted_premature_mortality	581.3
+37175	North Carolina	Transylvania	age_adjusted_premature_mortality	308.3
+37177	North Carolina	Tyrrell	age_adjusted_premature_mortality	472.2
+37179	North Carolina	Union	age_adjusted_premature_mortality	302.4
+37181	North Carolina	Vance	age_adjusted_premature_mortality	506
+37183	North Carolina	Wake	age_adjusted_premature_mortality	257.9
+37185	North Carolina	Warren	age_adjusted_premature_mortality	408.9
+37187	North Carolina	Washington	age_adjusted_premature_mortality	402.6
+37189	North Carolina	Watauga	age_adjusted_premature_mortality	261.4
+37191	North Carolina	Wayne	age_adjusted_premature_mortality	447.9
+37193	North Carolina	Wilkes	age_adjusted_premature_mortality	424.2
+37195	North Carolina	Wilson	age_adjusted_premature_mortality	440.8
+37197	North Carolina	Yadkin	age_adjusted_premature_mortality	394.5
+37199	North Carolina	Yancey	age_adjusted_premature_mortality	345.6
+38001	North Dakota	Adams	age_adjusted_premature_mortality	319.4
+38003	North Dakota	Barnes	age_adjusted_premature_mortality	298.5
+38005	North Dakota	Benson	age_adjusted_premature_mortality	668.5
+38007	North Dakota	Billings	age_adjusted_premature_mortality	
+38009	North Dakota	Bottineau	age_adjusted_premature_mortality	335.3
+38011	North Dakota	Bowman	age_adjusted_premature_mortality	329.9
+38013	North Dakota	Burke	age_adjusted_premature_mortality	428.9
+38015	North Dakota	Burleigh	age_adjusted_premature_mortality	266.5
+38017	North Dakota	Cass	age_adjusted_premature_mortality	286.8
+38019	North Dakota	Cavalier	age_adjusted_premature_mortality	240.2
+38021	North Dakota	Dickey	age_adjusted_premature_mortality	219.5
+38023	North Dakota	Divide	age_adjusted_premature_mortality	275.3
+38025	North Dakota	Dunn	age_adjusted_premature_mortality	293.5
+38027	North Dakota	Eddy	age_adjusted_premature_mortality	396.5
+38029	North Dakota	Emmons	age_adjusted_premature_mortality	327.5
+38031	North Dakota	Foster	age_adjusted_premature_mortality	299.6
+38033	North Dakota	Golden Valley	age_adjusted_premature_mortality	
+38035	North Dakota	Grand Forks	age_adjusted_premature_mortality	298.6
+38037	North Dakota	Grant	age_adjusted_premature_mortality	259.5
+38039	North Dakota	Griggs	age_adjusted_premature_mortality	273.4
+38041	North Dakota	Hettinger	age_adjusted_premature_mortality	210.1
+38043	North Dakota	Kidder	age_adjusted_premature_mortality	303.6
+38045	North Dakota	LaMoure	age_adjusted_premature_mortality	319.2
+38047	North Dakota	Logan	age_adjusted_premature_mortality	
+38049	North Dakota	McHenry	age_adjusted_premature_mortality	340.9
+38051	North Dakota	McIntosh	age_adjusted_premature_mortality	324.1
+38053	North Dakota	McKenzie	age_adjusted_premature_mortality	419.4
+38055	North Dakota	McLean	age_adjusted_premature_mortality	322
+38057	North Dakota	Mercer	age_adjusted_premature_mortality	264.9
+38059	North Dakota	Morton	age_adjusted_premature_mortality	320.4
+38061	North Dakota	Mountrail	age_adjusted_premature_mortality	452.5
+38063	North Dakota	Nelson	age_adjusted_premature_mortality	326.5
+38065	North Dakota	Oliver	age_adjusted_premature_mortality	
+38067	North Dakota	Pembina	age_adjusted_premature_mortality	297.5
+38069	North Dakota	Pierce	age_adjusted_premature_mortality	318.4
+38071	North Dakota	Ramsey	age_adjusted_premature_mortality	369.7
+38073	North Dakota	Ransom	age_adjusted_premature_mortality	333
+38075	North Dakota	Renville	age_adjusted_premature_mortality	376.2
+38077	North Dakota	Richland	age_adjusted_premature_mortality	323.7
+38079	North Dakota	Rolette	age_adjusted_premature_mortality	663.5
+38081	North Dakota	Sargent	age_adjusted_premature_mortality	295
+38083	North Dakota	Sheridan	age_adjusted_premature_mortality	
+38085	North Dakota	Sioux	age_adjusted_premature_mortality	1010.1
+38087	North Dakota	Slope	age_adjusted_premature_mortality	
+38089	North Dakota	Stark	age_adjusted_premature_mortality	294.3
+38091	North Dakota	Steele	age_adjusted_premature_mortality	
+38093	North Dakota	Stutsman	age_adjusted_premature_mortality	348
+38095	North Dakota	Towner	age_adjusted_premature_mortality	261.2
+38097	North Dakota	Traill	age_adjusted_premature_mortality	279.1
+38099	North Dakota	Walsh	age_adjusted_premature_mortality	297
+38101	North Dakota	Ward	age_adjusted_premature_mortality	316.2
+38103	North Dakota	Wells	age_adjusted_premature_mortality	278.8
+38105	North Dakota	Williams	age_adjusted_premature_mortality	339.1
+39001	Ohio	Adams	age_adjusted_premature_mortality	527.3
+39003	Ohio	Allen	age_adjusted_premature_mortality	373.6
+39005	Ohio	Ashland	age_adjusted_premature_mortality	362.6
+39007	Ohio	Ashtabula	age_adjusted_premature_mortality	422.9
+39009	Ohio	Athens	age_adjusted_premature_mortality	438.9
+39011	Ohio	Auglaize	age_adjusted_premature_mortality	331.7
+39013	Ohio	Belmont	age_adjusted_premature_mortality	396.6
+39015	Ohio	Brown	age_adjusted_premature_mortality	454.7
+39017	Ohio	Butler	age_adjusted_premature_mortality	368.9
+39019	Ohio	Carroll	age_adjusted_premature_mortality	348.3
+39021	Ohio	Champaign	age_adjusted_premature_mortality	388.2
+39023	Ohio	Clark	age_adjusted_premature_mortality	446.7
+39025	Ohio	Clermont	age_adjusted_premature_mortality	361.7
+39027	Ohio	Clinton	age_adjusted_premature_mortality	439.9
+39029	Ohio	Columbiana	age_adjusted_premature_mortality	386.3
+39031	Ohio	Coshocton	age_adjusted_premature_mortality	371.7
+39033	Ohio	Crawford	age_adjusted_premature_mortality	394.2
+39035	Ohio	Cuyahoga	age_adjusted_premature_mortality	393.2
+39037	Ohio	Darke	age_adjusted_premature_mortality	338.2
+39039	Ohio	Defiance	age_adjusted_premature_mortality	347.3
+39041	Ohio	Delaware	age_adjusted_premature_mortality	246.7
+39043	Ohio	Erie	age_adjusted_premature_mortality	361.6
+39045	Ohio	Fairfield	age_adjusted_premature_mortality	329.5
+39047	Ohio	Fayette	age_adjusted_premature_mortality	476
+39049	Ohio	Franklin	age_adjusted_premature_mortality	400.2
+39051	Ohio	Fulton	age_adjusted_premature_mortality	318.3
+39053	Ohio	Gallia	age_adjusted_premature_mortality	423.3
+39055	Ohio	Geauga	age_adjusted_premature_mortality	237.1
+39057	Ohio	Greene	age_adjusted_premature_mortality	316.7
+39059	Ohio	Guernsey	age_adjusted_premature_mortality	425.3
+39061	Ohio	Hamilton	age_adjusted_premature_mortality	401
+39063	Ohio	Hancock	age_adjusted_premature_mortality	310.8
+39065	Ohio	Hardin	age_adjusted_premature_mortality	420.2
+39067	Ohio	Harrison	age_adjusted_premature_mortality	430.4
+39069	Ohio	Henry	age_adjusted_premature_mortality	319.5
+39071	Ohio	Highland	age_adjusted_premature_mortality	464.3
+39073	Ohio	Hocking	age_adjusted_premature_mortality	383
+39075	Ohio	Holmes	age_adjusted_premature_mortality	313.7
+39077	Ohio	Huron	age_adjusted_premature_mortality	361.5
+39079	Ohio	Jackson	age_adjusted_premature_mortality	536.4
+39081	Ohio	Jefferson	age_adjusted_premature_mortality	481.3
+39083	Ohio	Knox	age_adjusted_premature_mortality	388.4
+39085	Ohio	Lake	age_adjusted_premature_mortality	323.3
+39087	Ohio	Lawrence	age_adjusted_premature_mortality	460.7
+39089	Ohio	Licking	age_adjusted_premature_mortality	360.8
+39091	Ohio	Logan	age_adjusted_premature_mortality	411
+39093	Ohio	Lorain	age_adjusted_premature_mortality	334.5
+39095	Ohio	Lucas	age_adjusted_premature_mortality	417
+39097	Ohio	Madison	age_adjusted_premature_mortality	395.6
+39099	Ohio	Mahoning	age_adjusted_premature_mortality	412.1
+39101	Ohio	Marion	age_adjusted_premature_mortality	406.8
+39103	Ohio	Medina	age_adjusted_premature_mortality	269.7
+39105	Ohio	Meigs	age_adjusted_premature_mortality	477.5
+39107	Ohio	Mercer	age_adjusted_premature_mortality	299.8
+39109	Ohio	Miami	age_adjusted_premature_mortality	341.9
+39111	Ohio	Monroe	age_adjusted_premature_mortality	374.7
+39113	Ohio	Montgomery	age_adjusted_premature_mortality	429.6
+39115	Ohio	Morgan	age_adjusted_premature_mortality	395.2
+39117	Ohio	Morrow	age_adjusted_premature_mortality	368.5
+39119	Ohio	Muskingum	age_adjusted_premature_mortality	432
+39121	Ohio	Noble	age_adjusted_premature_mortality	275
+39123	Ohio	Ottawa	age_adjusted_premature_mortality	315.2
+39125	Ohio	Paulding	age_adjusted_premature_mortality	395.7
+39127	Ohio	Perry	age_adjusted_premature_mortality	419.4
+39129	Ohio	Pickaway	age_adjusted_premature_mortality	405.7
+39131	Ohio	Pike	age_adjusted_premature_mortality	509
+39133	Ohio	Portage	age_adjusted_premature_mortality	323.9
+39135	Ohio	Preble	age_adjusted_premature_mortality	386.1
+39137	Ohio	Putnam	age_adjusted_premature_mortality	286.3
+39139	Ohio	Richland	age_adjusted_premature_mortality	379.2
+39141	Ohio	Ross	age_adjusted_premature_mortality	453.2
+39143	Ohio	Sandusky	age_adjusted_premature_mortality	375
+39145	Ohio	Scioto	age_adjusted_premature_mortality	544.6
+39147	Ohio	Seneca	age_adjusted_premature_mortality	337.2
+39149	Ohio	Shelby	age_adjusted_premature_mortality	340.8
+39151	Ohio	Stark	age_adjusted_premature_mortality	351.9
+39153	Ohio	Summit	age_adjusted_premature_mortality	370.7
+39155	Ohio	Trumbull	age_adjusted_premature_mortality	397.8
+39157	Ohio	Tuscarawas	age_adjusted_premature_mortality	330.9
+39159	Ohio	Union	age_adjusted_premature_mortality	324.4
+39161	Ohio	Van Wert	age_adjusted_premature_mortality	317.2
+39163	Ohio	Vinton	age_adjusted_premature_mortality	465.9
+39165	Ohio	Warren	age_adjusted_premature_mortality	299
+39167	Ohio	Washington	age_adjusted_premature_mortality	382
+39169	Ohio	Wayne	age_adjusted_premature_mortality	329.4
+39171	Ohio	Williams	age_adjusted_premature_mortality	327
+39173	Ohio	Wood	age_adjusted_premature_mortality	302.6
+39175	Ohio	Wyandot	age_adjusted_premature_mortality	366.6
+40001	Oklahoma	Adair	age_adjusted_premature_mortality	529
+40003	Oklahoma	Alfalfa	age_adjusted_premature_mortality	376.6
+40005	Oklahoma	Atoka	age_adjusted_premature_mortality	395.7
+40007	Oklahoma	Beaver	age_adjusted_premature_mortality	419.9
+40009	Oklahoma	Beckham	age_adjusted_premature_mortality	565
+40011	Oklahoma	Blaine	age_adjusted_premature_mortality	465.8
+40013	Oklahoma	Bryan	age_adjusted_premature_mortality	456.3
+40015	Oklahoma	Caddo	age_adjusted_premature_mortality	527.3
+40017	Oklahoma	Canadian	age_adjusted_premature_mortality	338.2
+40019	Oklahoma	Carter	age_adjusted_premature_mortality	578.4
+40021	Oklahoma	Cherokee	age_adjusted_premature_mortality	458.6
+40023	Oklahoma	Choctaw	age_adjusted_premature_mortality	584.3
+40025	Oklahoma	Cimarron	age_adjusted_premature_mortality	405.3
+40027	Oklahoma	Cleveland	age_adjusted_premature_mortality	346.5
+40029	Oklahoma	Coal	age_adjusted_premature_mortality	691.2
+40031	Oklahoma	Comanche	age_adjusted_premature_mortality	442.4
+40033	Oklahoma	Cotton	age_adjusted_premature_mortality	527.1
+40035	Oklahoma	Craig	age_adjusted_premature_mortality	558
+40037	Oklahoma	Creek	age_adjusted_premature_mortality	520.4
+40039	Oklahoma	Custer	age_adjusted_premature_mortality	476
+40041	Oklahoma	Delaware	age_adjusted_premature_mortality	431.5
+40043	Oklahoma	Dewey	age_adjusted_premature_mortality	488.2
+40045	Oklahoma	Ellis	age_adjusted_premature_mortality	440.7
+40047	Oklahoma	Garfield	age_adjusted_premature_mortality	465.6
+40049	Oklahoma	Garvin	age_adjusted_premature_mortality	586.5
+40051	Oklahoma	Grady	age_adjusted_premature_mortality	425.7
+40053	Oklahoma	Grant	age_adjusted_premature_mortality	399.9
+40055	Oklahoma	Greer	age_adjusted_premature_mortality	441.6
+40057	Oklahoma	Harmon	age_adjusted_premature_mortality	502.9
+40059	Oklahoma	Harper	age_adjusted_premature_mortality	532.9
+40061	Oklahoma	Haskell	age_adjusted_premature_mortality	542.5
+40063	Oklahoma	Hughes	age_adjusted_premature_mortality	592.8
+40065	Oklahoma	Jackson	age_adjusted_premature_mortality	436
+40067	Oklahoma	Jefferson	age_adjusted_premature_mortality	562.4
+40069	Oklahoma	Johnston	age_adjusted_premature_mortality	643.5
+40071	Oklahoma	Kay	age_adjusted_premature_mortality	514.8
+40073	Oklahoma	Kingfisher	age_adjusted_premature_mortality	363.3
+40075	Oklahoma	Kiowa	age_adjusted_premature_mortality	629.2
+40077	Oklahoma	Latimer	age_adjusted_premature_mortality	418.2
+40079	Oklahoma	Le Flore	age_adjusted_premature_mortality	565.9
+40081	Oklahoma	Lincoln	age_adjusted_premature_mortality	452.7
+40083	Oklahoma	Logan	age_adjusted_premature_mortality	360
+40085	Oklahoma	Love	age_adjusted_premature_mortality	516.9
+40087	Oklahoma	McClain	age_adjusted_premature_mortality	393.9
+40089	Oklahoma	McCurtain	age_adjusted_premature_mortality	604.5
+40091	Oklahoma	McIntosh	age_adjusted_premature_mortality	587.4
+40093	Oklahoma	Major	age_adjusted_premature_mortality	404.8
+40095	Oklahoma	Marshall	age_adjusted_premature_mortality	429.9
+40097	Oklahoma	Mayes	age_adjusted_premature_mortality	496.5
+40099	Oklahoma	Murray	age_adjusted_premature_mortality	546.8
+40101	Oklahoma	Muskogee	age_adjusted_premature_mortality	565.1
+40103	Oklahoma	Noble	age_adjusted_premature_mortality	375.2
+40105	Oklahoma	Nowata	age_adjusted_premature_mortality	436.6
+40107	Oklahoma	Okfuskee	age_adjusted_premature_mortality	584.5
+40109	Oklahoma	Oklahoma	age_adjusted_premature_mortality	449.7
+40111	Oklahoma	Okmulgee	age_adjusted_premature_mortality	555.7
+40113	Oklahoma	Osage	age_adjusted_premature_mortality	441.4
+40115	Oklahoma	Ottawa	age_adjusted_premature_mortality	569.7
+40117	Oklahoma	Pawnee	age_adjusted_premature_mortality	563.9
+40119	Oklahoma	Payne	age_adjusted_premature_mortality	374
+40121	Oklahoma	Pittsburg	age_adjusted_premature_mortality	512.2
+40123	Oklahoma	Pontotoc	age_adjusted_premature_mortality	568.8
+40125	Oklahoma	Pottawatomie	age_adjusted_premature_mortality	489.7
+40127	Oklahoma	Pushmataha	age_adjusted_premature_mortality	608.2
+40129	Oklahoma	Roger Mills	age_adjusted_premature_mortality	446.7
+40131	Oklahoma	Rogers	age_adjusted_premature_mortality	361.1
+40133	Oklahoma	Seminole	age_adjusted_premature_mortality	629.8
+40135	Oklahoma	Sequoyah	age_adjusted_premature_mortality	547.7
+40137	Oklahoma	Stephens	age_adjusted_premature_mortality	496.5
+40139	Oklahoma	Texas	age_adjusted_premature_mortality	390.4
+40141	Oklahoma	Tillman	age_adjusted_premature_mortality	466.5
+40143	Oklahoma	Tulsa	age_adjusted_premature_mortality	435.4
+40145	Oklahoma	Wagoner	age_adjusted_premature_mortality	383.2
+40147	Oklahoma	Washington	age_adjusted_premature_mortality	399.6
+40149	Oklahoma	Washita	age_adjusted_premature_mortality	503
+40151	Oklahoma	Woods	age_adjusted_premature_mortality	420
+40153	Oklahoma	Woodward	age_adjusted_premature_mortality	504.7
+41001	Oregon	Baker	age_adjusted_premature_mortality	420.2
+41003	Oregon	Benton	age_adjusted_premature_mortality	213.7
+41005	Oregon	Clackamas	age_adjusted_premature_mortality	268.5
+41007	Oregon	Clatsop	age_adjusted_premature_mortality	338.2
+41009	Oregon	Columbia	age_adjusted_premature_mortality	328.8
+41011	Oregon	Coos	age_adjusted_premature_mortality	420.1
+41013	Oregon	Crook	age_adjusted_premature_mortality	321.3
+41015	Oregon	Curry	age_adjusted_premature_mortality	419.7
+41017	Oregon	Deschutes	age_adjusted_premature_mortality	274
+41019	Oregon	Douglas	age_adjusted_premature_mortality	372.3
+41021	Oregon	Gilliam	age_adjusted_premature_mortality	
+41023	Oregon	Grant	age_adjusted_premature_mortality	265.8
+41025	Oregon	Harney	age_adjusted_premature_mortality	354.2
+41027	Oregon	Hood River	age_adjusted_premature_mortality	262.7
+41029	Oregon	Jackson	age_adjusted_premature_mortality	317.8
+41031	Oregon	Jefferson	age_adjusted_premature_mortality	419.4
+41033	Oregon	Josephine	age_adjusted_premature_mortality	390.6
+41035	Oregon	Klamath	age_adjusted_premature_mortality	410.2
+41037	Oregon	Lake	age_adjusted_premature_mortality	379.9
+41039	Oregon	Lane	age_adjusted_premature_mortality	324.6
+41041	Oregon	Lincoln	age_adjusted_premature_mortality	387.5
+41043	Oregon	Linn	age_adjusted_premature_mortality	353.1
+41045	Oregon	Malheur	age_adjusted_premature_mortality	343.4
+41047	Oregon	Marion	age_adjusted_premature_mortality	343.7
+41049	Oregon	Morrow	age_adjusted_premature_mortality	362
+41051	Oregon	Multnomah	age_adjusted_premature_mortality	339.9
+41053	Oregon	Polk	age_adjusted_premature_mortality	302.4
+41055	Oregon	Sherman	age_adjusted_premature_mortality	396.6
+41057	Oregon	Tillamook	age_adjusted_premature_mortality	339.2
+41059	Oregon	Umatilla	age_adjusted_premature_mortality	397.4
+41061	Oregon	Union	age_adjusted_premature_mortality	345.3
+41063	Oregon	Wallowa	age_adjusted_premature_mortality	281.7
+41065	Oregon	Wasco	age_adjusted_premature_mortality	369.7
+41067	Oregon	Washington	age_adjusted_premature_mortality	241
+41069	Oregon	Wheeler	age_adjusted_premature_mortality	366
+41071	Oregon	Yamhill	age_adjusted_premature_mortality	289.9
+42001	Pennsylvania	Adams	age_adjusted_premature_mortality	304.6
+42003	Pennsylvania	Allegheny	age_adjusted_premature_mortality	363.8
+42005	Pennsylvania	Armstrong	age_adjusted_premature_mortality	363.1
+42007	Pennsylvania	Beaver	age_adjusted_premature_mortality	368.1
+42009	Pennsylvania	Bedford	age_adjusted_premature_mortality	332.8
+42011	Pennsylvania	Berks	age_adjusted_premature_mortality	308.7
+42013	Pennsylvania	Blair	age_adjusted_premature_mortality	383.5
+42015	Pennsylvania	Bradford	age_adjusted_premature_mortality	377
+42017	Pennsylvania	Bucks	age_adjusted_premature_mortality	284.8
+42019	Pennsylvania	Butler	age_adjusted_premature_mortality	302.5
+42021	Pennsylvania	Cambria	age_adjusted_premature_mortality	383.9
+42023	Pennsylvania	Cameron	age_adjusted_premature_mortality	366.9
+42025	Pennsylvania	Carbon	age_adjusted_premature_mortality	375.7
+42027	Pennsylvania	Centre	age_adjusted_premature_mortality	257.3
+42029	Pennsylvania	Chester	age_adjusted_premature_mortality	255.7
+42031	Pennsylvania	Clarion	age_adjusted_premature_mortality	359.5
+42033	Pennsylvania	Clearfield	age_adjusted_premature_mortality	369.9
+42035	Pennsylvania	Clinton	age_adjusted_premature_mortality	347.4
+42037	Pennsylvania	Columbia	age_adjusted_premature_mortality	371.2
+42039	Pennsylvania	Crawford	age_adjusted_premature_mortality	366.1
+42041	Pennsylvania	Cumberland	age_adjusted_premature_mortality	273.9
+42043	Pennsylvania	Dauphin	age_adjusted_premature_mortality	363.9
+42045	Pennsylvania	Delaware	age_adjusted_premature_mortality	365.3
+42047	Pennsylvania	Elk	age_adjusted_premature_mortality	326
+42049	Pennsylvania	Erie	age_adjusted_premature_mortality	351.7
+42051	Pennsylvania	Fayette	age_adjusted_premature_mortality	450.3
+42053	Pennsylvania	Forest	age_adjusted_premature_mortality	434.9
+42055	Pennsylvania	Franklin	age_adjusted_premature_mortality	312.6
+42057	Pennsylvania	Fulton	age_adjusted_premature_mortality	347.9
+42059	Pennsylvania	Greene	age_adjusted_premature_mortality	439.9
+42061	Pennsylvania	Huntingdon	age_adjusted_premature_mortality	331.4
+42063	Pennsylvania	Indiana	age_adjusted_premature_mortality	340.8
+42065	Pennsylvania	Jefferson	age_adjusted_premature_mortality	398.4
+42067	Pennsylvania	Juniata	age_adjusted_premature_mortality	337.5
+42069	Pennsylvania	Lackawanna	age_adjusted_premature_mortality	388.4
+42071	Pennsylvania	Lancaster	age_adjusted_premature_mortality	290.6
+42073	Pennsylvania	Lawrence	age_adjusted_premature_mortality	380.3
+42075	Pennsylvania	Lebanon	age_adjusted_premature_mortality	307.3
+42077	Pennsylvania	Lehigh	age_adjusted_premature_mortality	300.9
+42079	Pennsylvania	Luzerne	age_adjusted_premature_mortality	397.2
+42081	Pennsylvania	Lycoming	age_adjusted_premature_mortality	341.8
+42083	Pennsylvania	McKean	age_adjusted_premature_mortality	369.7
+42085	Pennsylvania	Mercer	age_adjusted_premature_mortality	385
+42087	Pennsylvania	Mifflin	age_adjusted_premature_mortality	341.9
+42089	Pennsylvania	Monroe	age_adjusted_premature_mortality	329.8
+42091	Pennsylvania	Montgomery	age_adjusted_premature_mortality	269.9
+42093	Pennsylvania	Montour	age_adjusted_premature_mortality	360.6
+42095	Pennsylvania	Northampton	age_adjusted_premature_mortality	294.4
+42097	Pennsylvania	Northumberland	age_adjusted_premature_mortality	363.4
+42099	Pennsylvania	Perry	age_adjusted_premature_mortality	371
+42101	Pennsylvania	Philadelphia	age_adjusted_premature_mortality	503
+42103	Pennsylvania	Pike	age_adjusted_premature_mortality	281.5
+42105	Pennsylvania	Potter	age_adjusted_premature_mortality	368.6
+42107	Pennsylvania	Schuylkill	age_adjusted_premature_mortality	403.3
+42109	Pennsylvania	Snyder	age_adjusted_premature_mortality	315
+42111	Pennsylvania	Somerset	age_adjusted_premature_mortality	335.8
+42113	Pennsylvania	Sullivan	age_adjusted_premature_mortality	477.9
+42115	Pennsylvania	Susquehanna	age_adjusted_premature_mortality	344.7
+42117	Pennsylvania	Tioga	age_adjusted_premature_mortality	326.2
+42119	Pennsylvania	Union	age_adjusted_premature_mortality	246.2
+42121	Pennsylvania	Venango	age_adjusted_premature_mortality	384.6
+42123	Pennsylvania	Warren	age_adjusted_premature_mortality	390.6
+42125	Pennsylvania	Washington	age_adjusted_premature_mortality	366.7
+42127	Pennsylvania	Wayne	age_adjusted_premature_mortality	333.1
+42129	Pennsylvania	Westmoreland	age_adjusted_premature_mortality	329.7
+42131	Pennsylvania	Wyoming	age_adjusted_premature_mortality	404.1
+42133	Pennsylvania	York	age_adjusted_premature_mortality	313.3
+44001	Rhode Island	Bristol	age_adjusted_premature_mortality	243.4
+44003	Rhode Island	Kent	age_adjusted_premature_mortality	326.8
+44005	Rhode Island	Newport	age_adjusted_premature_mortality	244.8
+44007	Rhode Island	Providence	age_adjusted_premature_mortality	333.9
+44009	Rhode Island	Washington	age_adjusted_premature_mortality	265.3
+45001	South Carolina	Abbeville	age_adjusted_premature_mortality	372
+45003	South Carolina	Aiken	age_adjusted_premature_mortality	394.1
+45005	South Carolina	Allendale	age_adjusted_premature_mortality	537.6
+45007	South Carolina	Anderson	age_adjusted_premature_mortality	424.4
+45009	South Carolina	Bamberg	age_adjusted_premature_mortality	587
+45011	South Carolina	Barnwell	age_adjusted_premature_mortality	545.6
+45013	South Carolina	Beaufort	age_adjusted_premature_mortality	251.2
+45015	South Carolina	Berkeley	age_adjusted_premature_mortality	367.6
+45017	South Carolina	Calhoun	age_adjusted_premature_mortality	471.2
+45019	South Carolina	Charleston	age_adjusted_premature_mortality	376.8
+45021	South Carolina	Cherokee	age_adjusted_premature_mortality	508.7
+45023	South Carolina	Chester	age_adjusted_premature_mortality	544.9
+45025	South Carolina	Chesterfield	age_adjusted_premature_mortality	513
+45027	South Carolina	Clarendon	age_adjusted_premature_mortality	483.5
+45029	South Carolina	Colleton	age_adjusted_premature_mortality	562.4
+45031	South Carolina	Darlington	age_adjusted_premature_mortality	534.8
+45033	South Carolina	Dillon	age_adjusted_premature_mortality	563.3
+45035	South Carolina	Dorchester	age_adjusted_premature_mortality	352.8
+45037	South Carolina	Edgefield	age_adjusted_premature_mortality	331
+45039	South Carolina	Fairfield	age_adjusted_premature_mortality	499.7
+45041	South Carolina	Florence	age_adjusted_premature_mortality	506.9
+45043	South Carolina	Georgetown	age_adjusted_premature_mortality	424.8
+45045	South Carolina	Greenville	age_adjusted_premature_mortality	367.3
+45047	South Carolina	Greenwood	age_adjusted_premature_mortality	425.9
+45049	South Carolina	Hampton	age_adjusted_premature_mortality	549.6
+45051	South Carolina	Horry	age_adjusted_premature_mortality	394.9
+45053	South Carolina	Jasper	age_adjusted_premature_mortality	511.3
+45055	South Carolina	Kershaw	age_adjusted_premature_mortality	435.4
+45057	South Carolina	Lancaster	age_adjusted_premature_mortality	422.9
+45059	South Carolina	Laurens	age_adjusted_premature_mortality	527.7
+45061	South Carolina	Lee	age_adjusted_premature_mortality	591.8
+45063	South Carolina	Lexington	age_adjusted_premature_mortality	358
+45065	South Carolina	McCormick	age_adjusted_premature_mortality	344.8
+45067	South Carolina	Marion	age_adjusted_premature_mortality	619.2
+45069	South Carolina	Marlboro	age_adjusted_premature_mortality	537.8
+45071	South Carolina	Newberry	age_adjusted_premature_mortality	448.7
+45073	South Carolina	Oconee	age_adjusted_premature_mortality	399.6
+45075	South Carolina	Orangeburg	age_adjusted_premature_mortality	556.2
+45077	South Carolina	Pickens	age_adjusted_premature_mortality	406.9
+45079	South Carolina	Richland	age_adjusted_premature_mortality	389.4
+45081	South Carolina	Saluda	age_adjusted_premature_mortality	384.1
+45083	South Carolina	Spartanburg	age_adjusted_premature_mortality	446.1
+45085	South Carolina	Sumter	age_adjusted_premature_mortality	450.2
+45087	South Carolina	Union	age_adjusted_premature_mortality	536.1
+45089	South Carolina	Williamsburg	age_adjusted_premature_mortality	542.8
+45091	South Carolina	York	age_adjusted_premature_mortality	360.9
+46003	South Dakota	Aurora	age_adjusted_premature_mortality	
+46005	South Dakota	Beadle	age_adjusted_premature_mortality	346.5
+46007	South Dakota	Bennett	age_adjusted_premature_mortality	565.9
+46009	South Dakota	Bon Homme	age_adjusted_premature_mortality	258.2
+46011	South Dakota	Brookings	age_adjusted_premature_mortality	244.3
+46013	South Dakota	Brown	age_adjusted_premature_mortality	282.7
+46015	South Dakota	Brule	age_adjusted_premature_mortality	299.2
+46017	South Dakota	Buffalo	age_adjusted_premature_mortality	1032.1
+46019	South Dakota	Butte	age_adjusted_premature_mortality	351.5
+46021	South Dakota	Campbell	age_adjusted_premature_mortality	
+46023	South Dakota	Charles Mix	age_adjusted_premature_mortality	433.5
+46025	South Dakota	Clark	age_adjusted_premature_mortality	282.9
+46027	South Dakota	Clay	age_adjusted_premature_mortality	300.6
+46029	South Dakota	Codington	age_adjusted_premature_mortality	294
+46031	South Dakota	Corson	age_adjusted_premature_mortality	724
+46033	South Dakota	Custer	age_adjusted_premature_mortality	257.8
+46035	South Dakota	Davison	age_adjusted_premature_mortality	302.5
+46037	South Dakota	Day	age_adjusted_premature_mortality	319.6
+46039	South Dakota	Deuel	age_adjusted_premature_mortality	349
+46041	South Dakota	Dewey	age_adjusted_premature_mortality	752
+46043	South Dakota	Douglas	age_adjusted_premature_mortality	247
+46045	South Dakota	Edmunds	age_adjusted_premature_mortality	305
+46047	South Dakota	Fall River	age_adjusted_premature_mortality	394.8
+46049	South Dakota	Faulk	age_adjusted_premature_mortality	225.3
+46051	South Dakota	Grant	age_adjusted_premature_mortality	303.4
+46053	South Dakota	Gregory	age_adjusted_premature_mortality	319.7
+46055	South Dakota	Haakon	age_adjusted_premature_mortality	
+46057	South Dakota	Hamlin	age_adjusted_premature_mortality	268.3
+46059	South Dakota	Hand	age_adjusted_premature_mortality	285.9
+46061	South Dakota	Hanson	age_adjusted_premature_mortality	284.6
+46063	South Dakota	Harding	age_adjusted_premature_mortality	
+46065	South Dakota	Hughes	age_adjusted_premature_mortality	309
+46067	South Dakota	Hutchinson	age_adjusted_premature_mortality	289.7
+46069	South Dakota	Hyde	age_adjusted_premature_mortality	
+46071	South Dakota	Jackson	age_adjusted_premature_mortality	565.5
+46073	South Dakota	Jerauld	age_adjusted_premature_mortality	
+46075	South Dakota	Jones	age_adjusted_premature_mortality	
+46077	South Dakota	Kingsbury	age_adjusted_premature_mortality	345.8
+46079	South Dakota	Lake	age_adjusted_premature_mortality	269.6
+46081	South Dakota	Lawrence	age_adjusted_premature_mortality	259.7
+46083	South Dakota	Lincoln	age_adjusted_premature_mortality	192.8
+46085	South Dakota	Lyman	age_adjusted_premature_mortality	345.7
+46087	South Dakota	McCook	age_adjusted_premature_mortality	325.8
+46089	South Dakota	McPherson	age_adjusted_premature_mortality	
+46091	South Dakota	Marshall	age_adjusted_premature_mortality	297.5
+46093	South Dakota	Meade	age_adjusted_premature_mortality	323
+46095	South Dakota	Mellette	age_adjusted_premature_mortality	731.5
+46097	South Dakota	Miner	age_adjusted_premature_mortality	312.6
+46099	South Dakota	Minnehaha	age_adjusted_premature_mortality	312.8
+46101	South Dakota	Moody	age_adjusted_premature_mortality	264.8
+46103	South Dakota	Pennington	age_adjusted_premature_mortality	305.4
+46105	South Dakota	Perkins	age_adjusted_premature_mortality	354.2
+46107	South Dakota	Potter	age_adjusted_premature_mortality	268.6
+46109	South Dakota	Roberts	age_adjusted_premature_mortality	444.8
+46111	South Dakota	Sanborn	age_adjusted_premature_mortality	289
+46113	South Dakota	Shannon	age_adjusted_premature_mortality	964.9
+46115	South Dakota	Spink	age_adjusted_premature_mortality	301.3
+46117	South Dakota	Stanley	age_adjusted_premature_mortality	337.8
+46119	South Dakota	Sully	age_adjusted_premature_mortality	
+46121	South Dakota	Todd	age_adjusted_premature_mortality	872
+46123	South Dakota	Tripp	age_adjusted_premature_mortality	322.6
+46125	South Dakota	Turner	age_adjusted_premature_mortality	278.7
+46127	South Dakota	Union	age_adjusted_premature_mortality	256.6
+46129	South Dakota	Walworth	age_adjusted_premature_mortality	309.7
+46135	South Dakota	Yankton	age_adjusted_premature_mortality	287.6
+46137	South Dakota	Ziebach	age_adjusted_premature_mortality	518.2
+47001	Tennessee	Anderson	age_adjusted_premature_mortality	435.4
+47003	Tennessee	Bedford	age_adjusted_premature_mortality	421.1
+47005	Tennessee	Benton	age_adjusted_premature_mortality	609.1
+47007	Tennessee	Bledsoe	age_adjusted_premature_mortality	423.2
+47009	Tennessee	Blount	age_adjusted_premature_mortality	382.2
+47011	Tennessee	Bradley	age_adjusted_premature_mortality	400.9
+47013	Tennessee	Campbell	age_adjusted_premature_mortality	548.4
+47015	Tennessee	Cannon	age_adjusted_premature_mortality	432.5
+47017	Tennessee	Carroll	age_adjusted_premature_mortality	529.9
+47019	Tennessee	Carter	age_adjusted_premature_mortality	450.6
+47021	Tennessee	Cheatham	age_adjusted_premature_mortality	438.5
+47023	Tennessee	Chester	age_adjusted_premature_mortality	401.8
+47025	Tennessee	Claiborne	age_adjusted_premature_mortality	550.3
+47027	Tennessee	Clay	age_adjusted_premature_mortality	506.5
+47029	Tennessee	Cocke	age_adjusted_premature_mortality	526.1
+47031	Tennessee	Coffee	age_adjusted_premature_mortality	477.3
+47033	Tennessee	Crockett	age_adjusted_premature_mortality	483.9
+47035	Tennessee	Cumberland	age_adjusted_premature_mortality	411.8
+47037	Tennessee	Davidson	age_adjusted_premature_mortality	430.4
+47039	Tennessee	Decatur	age_adjusted_premature_mortality	585.9
+47041	Tennessee	DeKalb	age_adjusted_premature_mortality	535.1
+47043	Tennessee	Dickson	age_adjusted_premature_mortality	449.5
+47045	Tennessee	Dyer	age_adjusted_premature_mortality	451.9
+47047	Tennessee	Fayette	age_adjusted_premature_mortality	396.4
+47049	Tennessee	Fentress	age_adjusted_premature_mortality	609.1
+47051	Tennessee	Franklin	age_adjusted_premature_mortality	419.6
+47053	Tennessee	Gibson	age_adjusted_premature_mortality	571.7
+47055	Tennessee	Giles	age_adjusted_premature_mortality	460.2
+47057	Tennessee	Grainger	age_adjusted_premature_mortality	466
+47059	Tennessee	Greene	age_adjusted_premature_mortality	480
+47061	Tennessee	Grundy	age_adjusted_premature_mortality	662.9
+47063	Tennessee	Hamblen	age_adjusted_premature_mortality	488.5
+47065	Tennessee	Hamilton	age_adjusted_premature_mortality	398.2
+47067	Tennessee	Hancock	age_adjusted_premature_mortality	587.4
+47069	Tennessee	Hardeman	age_adjusted_premature_mortality	486.7
+47071	Tennessee	Hardin	age_adjusted_premature_mortality	525.2
+47073	Tennessee	Hawkins	age_adjusted_premature_mortality	470.7
+47075	Tennessee	Haywood	age_adjusted_premature_mortality	472.3
+47077	Tennessee	Henderson	age_adjusted_premature_mortality	480.4
+47079	Tennessee	Henry	age_adjusted_premature_mortality	527.6
+47081	Tennessee	Hickman	age_adjusted_premature_mortality	491.9
+47083	Tennessee	Houston	age_adjusted_premature_mortality	478
+47085	Tennessee	Humphreys	age_adjusted_premature_mortality	478.2
+47087	Tennessee	Jackson	age_adjusted_premature_mortality	536.4
+47089	Tennessee	Jefferson	age_adjusted_premature_mortality	446.7
+47091	Tennessee	Johnson	age_adjusted_premature_mortality	458.8
+47093	Tennessee	Knox	age_adjusted_premature_mortality	406
+47095	Tennessee	Lake	age_adjusted_premature_mortality	620.4
+47097	Tennessee	Lauderdale	age_adjusted_premature_mortality	492.2
+47099	Tennessee	Lawrence	age_adjusted_premature_mortality	458
+47101	Tennessee	Lewis	age_adjusted_premature_mortality	443
+47103	Tennessee	Lincoln	age_adjusted_premature_mortality	456.2
+47105	Tennessee	Loudon	age_adjusted_premature_mortality	360.5
+47107	Tennessee	McMinn	age_adjusted_premature_mortality	487.3
+47109	Tennessee	McNairy	age_adjusted_premature_mortality	537.2
+47111	Tennessee	Macon	age_adjusted_premature_mortality	604
+47113	Tennessee	Madison	age_adjusted_premature_mortality	401.9
+47115	Tennessee	Marion	age_adjusted_premature_mortality	488.8
+47117	Tennessee	Marshall	age_adjusted_premature_mortality	435.9
+47119	Tennessee	Maury	age_adjusted_premature_mortality	445.5
+47121	Tennessee	Meigs	age_adjusted_premature_mortality	594
+47123	Tennessee	Monroe	age_adjusted_premature_mortality	460.7
+47125	Tennessee	Montgomery	age_adjusted_premature_mortality	404.2
+47127	Tennessee	Moore	age_adjusted_premature_mortality	361.3
+47129	Tennessee	Morgan	age_adjusted_premature_mortality	493.1
+47131	Tennessee	Obion	age_adjusted_premature_mortality	486.1
+47133	Tennessee	Overton	age_adjusted_premature_mortality	525.6
+47135	Tennessee	Perry	age_adjusted_premature_mortality	451.2
+47137	Tennessee	Pickett	age_adjusted_premature_mortality	387.3
+47139	Tennessee	Polk	age_adjusted_premature_mortality	466.6
+47141	Tennessee	Putnam	age_adjusted_premature_mortality	418.5
+47143	Tennessee	Rhea	age_adjusted_premature_mortality	503.3
+47145	Tennessee	Roane	age_adjusted_premature_mortality	476.7
+47147	Tennessee	Robertson	age_adjusted_premature_mortality	424.1
+47149	Tennessee	Rutherford	age_adjusted_premature_mortality	365.3
+47151	Tennessee	Scott	age_adjusted_premature_mortality	539.7
+47153	Tennessee	Sequatchie	age_adjusted_premature_mortality	462.3
+47155	Tennessee	Sevier	age_adjusted_premature_mortality	414.8
+47157	Tennessee	Shelby	age_adjusted_premature_mortality	462.6
+47159	Tennessee	Smith	age_adjusted_premature_mortality	447.2
+47161	Tennessee	Stewart	age_adjusted_premature_mortality	524.6
+47163	Tennessee	Sullivan	age_adjusted_premature_mortality	421.2
+47165	Tennessee	Sumner	age_adjusted_premature_mortality	365.7
+47167	Tennessee	Tipton	age_adjusted_premature_mortality	457.6
+47169	Tennessee	Trousdale	age_adjusted_premature_mortality	481.7
+47171	Tennessee	Unicoi	age_adjusted_premature_mortality	469.2
+47173	Tennessee	Union	age_adjusted_premature_mortality	487.2
+47175	Tennessee	Van Buren	age_adjusted_premature_mortality	423.2
+47177	Tennessee	Warren	age_adjusted_premature_mortality	490.6
+47179	Tennessee	Washington	age_adjusted_premature_mortality	401.1
+47181	Tennessee	Wayne	age_adjusted_premature_mortality	492.8
+47183	Tennessee	Weakley	age_adjusted_premature_mortality	438.3
+47185	Tennessee	White	age_adjusted_premature_mortality	498.9
+47187	Tennessee	Williamson	age_adjusted_premature_mortality	213.7
+47189	Tennessee	Wilson	age_adjusted_premature_mortality	353
+48001	Texas	Anderson	age_adjusted_premature_mortality	523.1
+48003	Texas	Andrews	age_adjusted_premature_mortality	396.2
+48005	Texas	Angelina	age_adjusted_premature_mortality	459.5
+48007	Texas	Aransas	age_adjusted_premature_mortality	526.8
+48009	Texas	Archer	age_adjusted_premature_mortality	326.6
+48011	Texas	Armstrong	age_adjusted_premature_mortality	346.3
+48013	Texas	Atascosa	age_adjusted_premature_mortality	400
+48015	Texas	Austin	age_adjusted_premature_mortality	356
+48017	Texas	Bailey	age_adjusted_premature_mortality	322.6
+48019	Texas	Bandera	age_adjusted_premature_mortality	299.2
+48021	Texas	Bastrop	age_adjusted_premature_mortality	359.1
+48023	Texas	Baylor	age_adjusted_premature_mortality	487.9
+48025	Texas	Bee	age_adjusted_premature_mortality	392.4
+48027	Texas	Bell	age_adjusted_premature_mortality	378.4
+48029	Texas	Bexar	age_adjusted_premature_mortality	345.3
+48031	Texas	Blanco	age_adjusted_premature_mortality	322
+48033	Texas	Borden	age_adjusted_premature_mortality	
+48035	Texas	Bosque	age_adjusted_premature_mortality	385.7
+48037	Texas	Bowie	age_adjusted_premature_mortality	458.7
+48039	Texas	Brazoria	age_adjusted_premature_mortality	344.8
+48041	Texas	Brazos	age_adjusted_premature_mortality	308.2
+48043	Texas	Brewster	age_adjusted_premature_mortality	263.3
+48045	Texas	Briscoe	age_adjusted_premature_mortality	435.7
+48047	Texas	Brooks	age_adjusted_premature_mortality	500.9
+48049	Texas	Brown	age_adjusted_premature_mortality	487.7
+48051	Texas	Burleson	age_adjusted_premature_mortality	412.3
+48053	Texas	Burnet	age_adjusted_premature_mortality	350.2
+48055	Texas	Caldwell	age_adjusted_premature_mortality	327.1
+48057	Texas	Calhoun	age_adjusted_premature_mortality	386.2
+48059	Texas	Callahan	age_adjusted_premature_mortality	499.6
+48061	Texas	Cameron	age_adjusted_premature_mortality	301.4
+48063	Texas	Camp	age_adjusted_premature_mortality	505.7
+48065	Texas	Carson	age_adjusted_premature_mortality	324.7
+48067	Texas	Cass	age_adjusted_premature_mortality	501.3
+48069	Texas	Castro	age_adjusted_premature_mortality	336.3
+48071	Texas	Chambers	age_adjusted_premature_mortality	393.9
+48073	Texas	Cherokee	age_adjusted_premature_mortality	445.2
+48075	Texas	Childress	age_adjusted_premature_mortality	402.5
+48077	Texas	Clay	age_adjusted_premature_mortality	392.6
+48079	Texas	Cochran	age_adjusted_premature_mortality	546.7
+48081	Texas	Coke	age_adjusted_premature_mortality	459.5
+48083	Texas	Coleman	age_adjusted_premature_mortality	495
+48085	Texas	Collin	age_adjusted_premature_mortality	218.3
+48087	Texas	Collingsworth	age_adjusted_premature_mortality	446.7
+48089	Texas	Colorado	age_adjusted_premature_mortality	347.6
+48091	Texas	Comal	age_adjusted_premature_mortality	289.7
+48093	Texas	Comanche	age_adjusted_premature_mortality	430.4
+48095	Texas	Concho	age_adjusted_premature_mortality	366.3
+48097	Texas	Cooke	age_adjusted_premature_mortality	417.2
+48099	Texas	Coryell	age_adjusted_premature_mortality	350.7
+48101	Texas	Cottle	age_adjusted_premature_mortality	363
+48103	Texas	Crane	age_adjusted_premature_mortality	375.7
+48105	Texas	Crockett	age_adjusted_premature_mortality	378.7
+48107	Texas	Crosby	age_adjusted_premature_mortality	399.9
+48109	Texas	Culberson	age_adjusted_premature_mortality	383.1
+48111	Texas	Dallam	age_adjusted_premature_mortality	428.9
+48113	Texas	Dallas	age_adjusted_premature_mortality	360.6
+48115	Texas	Dawson	age_adjusted_premature_mortality	431.2
+48117	Texas	Deaf Smith	age_adjusted_premature_mortality	413.9
+48119	Texas	Delta	age_adjusted_premature_mortality	436.4
+48121	Texas	Denton	age_adjusted_premature_mortality	259.4
+48123	Texas	DeWitt	age_adjusted_premature_mortality	386.8
+48125	Texas	Dickens	age_adjusted_premature_mortality	259.8
+48127	Texas	Dimmit	age_adjusted_premature_mortality	361
+48129	Texas	Donley	age_adjusted_premature_mortality	480.6
+48131	Texas	Duval	age_adjusted_premature_mortality	417.6
+48133	Texas	Eastland	age_adjusted_premature_mortality	491.1
+48135	Texas	Ector	age_adjusted_premature_mortality	479.4
+48137	Texas	Edwards	age_adjusted_premature_mortality	288.8
+48139	Texas	Ellis	age_adjusted_premature_mortality	341.8
+48141	Texas	El Paso	age_adjusted_premature_mortality	304.8
+48143	Texas	Erath	age_adjusted_premature_mortality	311.3
+48145	Texas	Falls	age_adjusted_premature_mortality	425.6
+48147	Texas	Fannin	age_adjusted_premature_mortality	436.6
+48149	Texas	Fayette	age_adjusted_premature_mortality	354.3
+48151	Texas	Fisher	age_adjusted_premature_mortality	454.7
+48153	Texas	Floyd	age_adjusted_premature_mortality	438.1
+48155	Texas	Foard	age_adjusted_premature_mortality	396.1
+48157	Texas	Fort Bend	age_adjusted_premature_mortality	240.2
+48159	Texas	Franklin	age_adjusted_premature_mortality	398
+48161	Texas	Freestone	age_adjusted_premature_mortality	387.2
+48163	Texas	Frio	age_adjusted_premature_mortality	377.6
+48165	Texas	Gaines	age_adjusted_premature_mortality	412.8
+48167	Texas	Galveston	age_adjusted_premature_mortality	400.3
+48169	Texas	Garza	age_adjusted_premature_mortality	401.4
+48171	Texas	Gillespie	age_adjusted_premature_mortality	267.5
+48173	Texas	Glasscock	age_adjusted_premature_mortality	
+48175	Texas	Goliad	age_adjusted_premature_mortality	238.3
+48177	Texas	Gonzales	age_adjusted_premature_mortality	408.4
+48179	Texas	Gray	age_adjusted_premature_mortality	540.2
+48181	Texas	Grayson	age_adjusted_premature_mortality	440.5
+48183	Texas	Gregg	age_adjusted_premature_mortality	471.5
+48185	Texas	Grimes	age_adjusted_premature_mortality	433.2
+48187	Texas	Guadalupe	age_adjusted_premature_mortality	309.1
+48189	Texas	Hale	age_adjusted_premature_mortality	417.7
+48191	Texas	Hall	age_adjusted_premature_mortality	387.6
+48193	Texas	Hamilton	age_adjusted_premature_mortality	391.9
+48195	Texas	Hansford	age_adjusted_premature_mortality	383.9
+48197	Texas	Hardeman	age_adjusted_premature_mortality	244
+48199	Texas	Hardin	age_adjusted_premature_mortality	412.9
+48201	Texas	Harris	age_adjusted_premature_mortality	350.8
+48203	Texas	Harrison	age_adjusted_premature_mortality	439.4
+48205	Texas	Hartley	age_adjusted_premature_mortality	175.3
+48207	Texas	Haskell	age_adjusted_premature_mortality	442.7
+48209	Texas	Hays	age_adjusted_premature_mortality	277.5
+48211	Texas	Hemphill	age_adjusted_premature_mortality	277.2
+48213	Texas	Henderson	age_adjusted_premature_mortality	484.1
+48215	Texas	Hidalgo	age_adjusted_premature_mortality	283.9
+48217	Texas	Hill	age_adjusted_premature_mortality	438.1
+48219	Texas	Hockley	age_adjusted_premature_mortality	389
+48221	Texas	Hood	age_adjusted_premature_mortality	330.9
+48223	Texas	Hopkins	age_adjusted_premature_mortality	446.8
+48225	Texas	Houston	age_adjusted_premature_mortality	465.6
+48227	Texas	Howard	age_adjusted_premature_mortality	466.6
+48229	Texas	Hudspeth	age_adjusted_premature_mortality	311.3
+48231	Texas	Hunt	age_adjusted_premature_mortality	459.5
+48233	Texas	Hutchinson	age_adjusted_premature_mortality	518.5
+48235	Texas	Irion	age_adjusted_premature_mortality	345.9
+48237	Texas	Jack	age_adjusted_premature_mortality	423.2
+48239	Texas	Jackson	age_adjusted_premature_mortality	437.8
+48241	Texas	Jasper	age_adjusted_premature_mortality	473.7
+48243	Texas	Jeff Davis	age_adjusted_premature_mortality	240.1
+48245	Texas	Jefferson	age_adjusted_premature_mortality	468.6
+48247	Texas	Jim Hogg	age_adjusted_premature_mortality	403.1
+48249	Texas	Jim Wells	age_adjusted_premature_mortality	436.8
+48251	Texas	Johnson	age_adjusted_premature_mortality	402.5
+48253	Texas	Jones	age_adjusted_premature_mortality	447.1
+48255	Texas	Karnes	age_adjusted_premature_mortality	406.5
+48257	Texas	Kaufman	age_adjusted_premature_mortality	403.8
+48259	Texas	Kendall	age_adjusted_premature_mortality	253.8
+48261	Texas	Kenedy	age_adjusted_premature_mortality	
+48263	Texas	Kent	age_adjusted_premature_mortality	
+48265	Texas	Kerr	age_adjusted_premature_mortality	370.5
+48267	Texas	Kimble	age_adjusted_premature_mortality	480.2
+48269	Texas	King	age_adjusted_premature_mortality	
+48271	Texas	Kinney	age_adjusted_premature_mortality	336.9
+48273	Texas	Kleberg	age_adjusted_premature_mortality	365.8
+48275	Texas	Knox	age_adjusted_premature_mortality	321
+48277	Texas	Lamar	age_adjusted_premature_mortality	474.9
+48279	Texas	Lamb	age_adjusted_premature_mortality	442.4
+48281	Texas	Lampasas	age_adjusted_premature_mortality	381.9
+48283	Texas	La Salle	age_adjusted_premature_mortality	346.1
+48285	Texas	Lavaca	age_adjusted_premature_mortality	309.1
+48287	Texas	Lee	age_adjusted_premature_mortality	323.3
+48289	Texas	Leon	age_adjusted_premature_mortality	458.8
+48291	Texas	Liberty	age_adjusted_premature_mortality	508.6
+48293	Texas	Limestone	age_adjusted_premature_mortality	517.9
+48295	Texas	Lipscomb	age_adjusted_premature_mortality	395.9
+48297	Texas	Live Oak	age_adjusted_premature_mortality	362.8
+48299	Texas	Llano	age_adjusted_premature_mortality	390.8
+48301	Texas	Loving	age_adjusted_premature_mortality	
+48303	Texas	Lubbock	age_adjusted_premature_mortality	420.3
+48305	Texas	Lynn	age_adjusted_premature_mortality	425.5
+48307	Texas	McCulloch	age_adjusted_premature_mortality	443.9
+48309	Texas	McLennan	age_adjusted_premature_mortality	399.7
+48311	Texas	McMullen	age_adjusted_premature_mortality	
+48313	Texas	Madison	age_adjusted_premature_mortality	382.3
+48315	Texas	Marion	age_adjusted_premature_mortality	513.2
+48317	Texas	Martin	age_adjusted_premature_mortality	481.1
+48319	Texas	Mason	age_adjusted_premature_mortality	317.1
+48321	Texas	Matagorda	age_adjusted_premature_mortality	380
+48323	Texas	Maverick	age_adjusted_premature_mortality	295.4
+48325	Texas	Medina	age_adjusted_premature_mortality	365
+48327	Texas	Menard	age_adjusted_premature_mortality	493.9
+48329	Texas	Midland	age_adjusted_premature_mortality	359.2
+48331	Texas	Milam	age_adjusted_premature_mortality	410.3
+48333	Texas	Mills	age_adjusted_premature_mortality	364
+48335	Texas	Mitchell	age_adjusted_premature_mortality	464.1
+48337	Texas	Montague	age_adjusted_premature_mortality	530.9
+48339	Texas	Montgomery	age_adjusted_premature_mortality	327.2
+48341	Texas	Moore	age_adjusted_premature_mortality	361.1
+48343	Texas	Morris	age_adjusted_premature_mortality	482.3
+48345	Texas	Motley	age_adjusted_premature_mortality	400.5
+48347	Texas	Nacogdoches	age_adjusted_premature_mortality	437
+48349	Texas	Navarro	age_adjusted_premature_mortality	431.3
+48351	Texas	Newton	age_adjusted_premature_mortality	553.6
+48353	Texas	Nolan	age_adjusted_premature_mortality	491.6
+48355	Texas	Nueces	age_adjusted_premature_mortality	379
+48357	Texas	Ochiltree	age_adjusted_premature_mortality	375.8
+48359	Texas	Oldham	age_adjusted_premature_mortality	
+48361	Texas	Orange	age_adjusted_premature_mortality	517.4
+48363	Texas	Palo Pinto	age_adjusted_premature_mortality	464.1
+48365	Texas	Panola	age_adjusted_premature_mortality	418.3
+48367	Texas	Parker	age_adjusted_premature_mortality	361.5
+48369	Texas	Parmer	age_adjusted_premature_mortality	297.7
+48371	Texas	Pecos	age_adjusted_premature_mortality	327.5
+48373	Texas	Polk	age_adjusted_premature_mortality	578.1
+48375	Texas	Potter	age_adjusted_premature_mortality	492.6
+48377	Texas	Presidio	age_adjusted_premature_mortality	183.8
+48379	Texas	Rains	age_adjusted_premature_mortality	385.5
+48381	Texas	Randall	age_adjusted_premature_mortality	328.6
+48383	Texas	Reagan	age_adjusted_premature_mortality	448.9
+48385	Texas	Real	age_adjusted_premature_mortality	398.8
+48387	Texas	Red River	age_adjusted_premature_mortality	572.2
+48389	Texas	Reeves	age_adjusted_premature_mortality	423.3
+48391	Texas	Refugio	age_adjusted_premature_mortality	455
+48393	Texas	Roberts	age_adjusted_premature_mortality	
+48395	Texas	Robertson	age_adjusted_premature_mortality	488.1
+48397	Texas	Rockwall	age_adjusted_premature_mortality	246.2
+48399	Texas	Runnels	age_adjusted_premature_mortality	458
+48401	Texas	Rusk	age_adjusted_premature_mortality	439.9
+48403	Texas	Sabine	age_adjusted_premature_mortality	500.1
+48405	Texas	San Augustine	age_adjusted_premature_mortality	666.3
+48407	Texas	San Jacinto	age_adjusted_premature_mortality	487
+48409	Texas	San Patricio	age_adjusted_premature_mortality	398
+48411	Texas	San Saba	age_adjusted_premature_mortality	385.7
+48413	Texas	Schleicher	age_adjusted_premature_mortality	256.4
+48415	Texas	Scurry	age_adjusted_premature_mortality	435.9
+48417	Texas	Shackelford	age_adjusted_premature_mortality	329.8
+48419	Texas	Shelby	age_adjusted_premature_mortality	562.8
+48421	Texas	Sherman	age_adjusted_premature_mortality	312.1
+48423	Texas	Smith	age_adjusted_premature_mortality	374.3
+48425	Texas	Somervell	age_adjusted_premature_mortality	416.5
+48427	Texas	Starr	age_adjusted_premature_mortality	338.9
+48429	Texas	Stephens	age_adjusted_premature_mortality	490.5
+48431	Texas	Sterling	age_adjusted_premature_mortality	656.6
+48433	Texas	Stonewall	age_adjusted_premature_mortality	372.4
+48435	Texas	Sutton	age_adjusted_premature_mortality	288.9
+48437	Texas	Swisher	age_adjusted_premature_mortality	328.8
+48439	Texas	Tarrant	age_adjusted_premature_mortality	348.6
+48441	Texas	Taylor	age_adjusted_premature_mortality	441.1
+48443	Texas	Terrell	age_adjusted_premature_mortality	
+48445	Texas	Terry	age_adjusted_premature_mortality	419
+48447	Texas	Throckmorton	age_adjusted_premature_mortality	430.8
+48449	Texas	Titus	age_adjusted_premature_mortality	388.9
+48451	Texas	Tom Green	age_adjusted_premature_mortality	404.7
+48453	Texas	Travis	age_adjusted_premature_mortality	276.2
+48455	Texas	Trinity	age_adjusted_premature_mortality	503.5
+48457	Texas	Tyler	age_adjusted_premature_mortality	445
+48459	Texas	Upshur	age_adjusted_premature_mortality	459.2
+48461	Texas	Upton	age_adjusted_premature_mortality	390.7
+48463	Texas	Uvalde	age_adjusted_premature_mortality	343.4
+48465	Texas	Val Verde	age_adjusted_premature_mortality	326.1
+48467	Texas	Van Zandt	age_adjusted_premature_mortality	466.5
+48469	Texas	Victoria	age_adjusted_premature_mortality	370.6
+48471	Texas	Walker	age_adjusted_premature_mortality	398.2
+48473	Texas	Waller	age_adjusted_premature_mortality	372.2
+48475	Texas	Ward	age_adjusted_premature_mortality	477.9
+48477	Texas	Washington	age_adjusted_premature_mortality	322.1
+48479	Texas	Webb	age_adjusted_premature_mortality	313
+48481	Texas	Wharton	age_adjusted_premature_mortality	397.8
+48483	Texas	Wheeler	age_adjusted_premature_mortality	390.4
+48485	Texas	Wichita	age_adjusted_premature_mortality	478.6
+48487	Texas	Wilbarger	age_adjusted_premature_mortality	434.5
+48489	Texas	Willacy	age_adjusted_premature_mortality	311.4
+48491	Texas	Williamson	age_adjusted_premature_mortality	232.4
+48493	Texas	Wilson	age_adjusted_premature_mortality	343.1
+48495	Texas	Winkler	age_adjusted_premature_mortality	467
+48497	Texas	Wise	age_adjusted_premature_mortality	379.1
+48499	Texas	Wood	age_adjusted_premature_mortality	448.8
+48501	Texas	Yoakum	age_adjusted_premature_mortality	381.2
+48503	Texas	Young	age_adjusted_premature_mortality	515
+48505	Texas	Zapata	age_adjusted_premature_mortality	329.6
+48507	Texas	Zavala	age_adjusted_premature_mortality	380.2
+49001	Utah	Beaver	age_adjusted_premature_mortality	392.9
+49003	Utah	Box Elder	age_adjusted_premature_mortality	281.3
+49005	Utah	Cache	age_adjusted_premature_mortality	206.3
+49007	Utah	Carbon	age_adjusted_premature_mortality	423.5
+49009	Utah	Daggett	age_adjusted_premature_mortality	
+49011	Utah	Davis	age_adjusted_premature_mortality	251.9
+49013	Utah	Duchesne	age_adjusted_premature_mortality	410.3
+49015	Utah	Emery	age_adjusted_premature_mortality	358.8
+49017	Utah	Garfield	age_adjusted_premature_mortality	235
+49019	Utah	Grand	age_adjusted_premature_mortality	406.7
+49021	Utah	Iron	age_adjusted_premature_mortality	320.9
+49023	Utah	Juab	age_adjusted_premature_mortality	434.5
+49025	Utah	Kane	age_adjusted_premature_mortality	293.6
+49027	Utah	Millard	age_adjusted_premature_mortality	284.4
+49029	Utah	Morgan	age_adjusted_premature_mortality	210.5
+49031	Utah	Piute	age_adjusted_premature_mortality	445.8
+49033	Utah	Rich	age_adjusted_premature_mortality	
+49035	Utah	Salt Lake	age_adjusted_premature_mortality	301.5
+49037	Utah	San Juan	age_adjusted_premature_mortality	314.5
+49039	Utah	Sanpete	age_adjusted_premature_mortality	314.3
+49041	Utah	Sevier	age_adjusted_premature_mortality	382.2
+49043	Utah	Summit	age_adjusted_premature_mortality	190
+49045	Utah	Tooele	age_adjusted_premature_mortality	347.6
+49047	Utah	Uintah	age_adjusted_premature_mortality	396.2
+49049	Utah	Utah	age_adjusted_premature_mortality	247.8
+49051	Utah	Wasatch	age_adjusted_premature_mortality	227.2
+49053	Utah	Washington	age_adjusted_premature_mortality	270.3
+49055	Utah	Wayne	age_adjusted_premature_mortality	277.9
+49057	Utah	Weber	age_adjusted_premature_mortality	328.1
+50001	Vermont	Addison	age_adjusted_premature_mortality	256.5
+50003	Vermont	Bennington	age_adjusted_premature_mortality	331.4
+50005	Vermont	Caledonia	age_adjusted_premature_mortality	295.4
+50007	Vermont	Chittenden	age_adjusted_premature_mortality	239.8
+50009	Vermont	Essex	age_adjusted_premature_mortality	379.6
+50011	Vermont	Franklin	age_adjusted_premature_mortality	294.8
+50013	Vermont	Grand Isle	age_adjusted_premature_mortality	311.5
+50015	Vermont	Lamoille	age_adjusted_premature_mortality	301
+50017	Vermont	Orange	age_adjusted_premature_mortality	284.8
+50019	Vermont	Orleans	age_adjusted_premature_mortality	343.4
+50021	Vermont	Rutland	age_adjusted_premature_mortality	303.4
+50023	Vermont	Washington	age_adjusted_premature_mortality	281.8
+50025	Vermont	Windham	age_adjusted_premature_mortality	320.8
+50027	Vermont	Windsor	age_adjusted_premature_mortality	276.9
+51001	Virginia	Accomack	age_adjusted_premature_mortality	446.9
+51003	Virginia	Albemarle	age_adjusted_premature_mortality	234.6
+51005	Virginia	Alleghany	age_adjusted_premature_mortality	459.9
+51007	Virginia	Amelia	age_adjusted_premature_mortality	340.9
+51009	Virginia	Amherst	age_adjusted_premature_mortality	426
+51011	Virginia	Appomattox	age_adjusted_premature_mortality	405.7
+51013	Virginia	Arlington	age_adjusted_premature_mortality	213.2
+51015	Virginia	Augusta	age_adjusted_premature_mortality	313
+51017	Virginia	Bath	age_adjusted_premature_mortality	331.4
+51019	Virginia	Bedford	age_adjusted_premature_mortality	333.7
+51021	Virginia	Bland	age_adjusted_premature_mortality	407.8
+51023	Virginia	Botetourt	age_adjusted_premature_mortality	293.8
+51025	Virginia	Brunswick	age_adjusted_premature_mortality	456.3
+51027	Virginia	Buchanan	age_adjusted_premature_mortality	576.7
+51029	Virginia	Buckingham	age_adjusted_premature_mortality	372.5
+51031	Virginia	Campbell	age_adjusted_premature_mortality	362.2
+51033	Virginia	Caroline	age_adjusted_premature_mortality	389.3
+51035	Virginia	Carroll	age_adjusted_premature_mortality	395.2
+51036	Virginia	Charles City	age_adjusted_premature_mortality	479.4
+51037	Virginia	Charlotte	age_adjusted_premature_mortality	449.7
+51041	Virginia	Chesterfield	age_adjusted_premature_mortality	283.8
+51043	Virginia	Clarke	age_adjusted_premature_mortality	306.7
+51045	Virginia	Craig	age_adjusted_premature_mortality	386.8
+51047	Virginia	Culpeper	age_adjusted_premature_mortality	341.5
+51049	Virginia	Cumberland	age_adjusted_premature_mortality	382.8
+51051	Virginia	Dickenson	age_adjusted_premature_mortality	544.1
+51053	Virginia	Dinwiddie	age_adjusted_premature_mortality	423.7
+51057	Virginia	Essex	age_adjusted_premature_mortality	401.5
+51059	Virginia	Fairfax	age_adjusted_premature_mortality	182.1
+51061	Virginia	Fauquier	age_adjusted_premature_mortality	332.3
+51063	Virginia	Floyd	age_adjusted_premature_mortality	324.4
+51065	Virginia	Fluvanna	age_adjusted_premature_mortality	270
+51067	Virginia	Franklin	age_adjusted_premature_mortality	357.9
+51069	Virginia	Frederick	age_adjusted_premature_mortality	306.6
+51071	Virginia	Giles	age_adjusted_premature_mortality	427.2
+51073	Virginia	Gloucester	age_adjusted_premature_mortality	388.3
+51075	Virginia	Goochland	age_adjusted_premature_mortality	269
+51077	Virginia	Grayson	age_adjusted_premature_mortality	407.5
+51079	Virginia	Greene	age_adjusted_premature_mortality	294.3
+51081	Virginia	Greensville	age_adjusted_premature_mortality	453.2
+51083	Virginia	Halifax	age_adjusted_premature_mortality	456.9
+51085	Virginia	Hanover	age_adjusted_premature_mortality	282.3
+51087	Virginia	Henrico	age_adjusted_premature_mortality	315.3
+51089	Virginia	Henry	age_adjusted_premature_mortality	487.2
+51091	Virginia	Highland	age_adjusted_premature_mortality	335.7
+51093	Virginia	Isle of Wight	age_adjusted_premature_mortality	319.6
+51095	Virginia	James City	age_adjusted_premature_mortality	232.4
+51097	Virginia	King and Queen	age_adjusted_premature_mortality	390.7
+51099	Virginia	King George	age_adjusted_premature_mortality	315.1
+51101	Virginia	King William	age_adjusted_premature_mortality	364.6
+51103	Virginia	Lancaster	age_adjusted_premature_mortality	366.1
+51105	Virginia	Lee	age_adjusted_premature_mortality	497.3
+51107	Virginia	Loudoun	age_adjusted_premature_mortality	186
+51109	Virginia	Louisa	age_adjusted_premature_mortality	354.4
+51111	Virginia	Lunenburg	age_adjusted_premature_mortality	441.2
+51113	Virginia	Madison	age_adjusted_premature_mortality	299.2
+51115	Virginia	Mathews	age_adjusted_premature_mortality	296
+51117	Virginia	Mecklenburg	age_adjusted_premature_mortality	431.8
+51119	Virginia	Middlesex	age_adjusted_premature_mortality	371.2
+51121	Virginia	Montgomery	age_adjusted_premature_mortality	320.5
+51125	Virginia	Nelson	age_adjusted_premature_mortality	372.1
+51127	Virginia	New Kent	age_adjusted_premature_mortality	320.1
+51131	Virginia	Northampton	age_adjusted_premature_mortality	436.3
+51133	Virginia	Northumberland	age_adjusted_premature_mortality	326.4
+51135	Virginia	Nottoway	age_adjusted_premature_mortality	402.4
+51137	Virginia	Orange	age_adjusted_premature_mortality	339.8
+51139	Virginia	Page	age_adjusted_premature_mortality	389.1
+51141	Virginia	Patrick	age_adjusted_premature_mortality	392.9
+51143	Virginia	Pittsylvania	age_adjusted_premature_mortality	404.4
+51145	Virginia	Powhatan	age_adjusted_premature_mortality	269.5
+51147	Virginia	Prince Edward	age_adjusted_premature_mortality	389.1
+51149	Virginia	Prince George	age_adjusted_premature_mortality	304.4
+51153	Virginia	Prince William	age_adjusted_premature_mortality	255.1
+51155	Virginia	Pulaski	age_adjusted_premature_mortality	452.9
+51157	Virginia	Rappahannock	age_adjusted_premature_mortality	354.2
+51159	Virginia	Richmond	age_adjusted_premature_mortality	383.3
+51161	Virginia	Roanoke	age_adjusted_premature_mortality	311.3
+51163	Virginia	Rockbridge	age_adjusted_premature_mortality	298.9
+51165	Virginia	Rockingham	age_adjusted_premature_mortality	275.2
+51167	Virginia	Russell	age_adjusted_premature_mortality	516.2
+51169	Virginia	Scott	age_adjusted_premature_mortality	492.2
+51171	Virginia	Shenandoah	age_adjusted_premature_mortality	336.3
+51173	Virginia	Smyth	age_adjusted_premature_mortality	486.5
+51175	Virginia	Southampton	age_adjusted_premature_mortality	444
+51177	Virginia	Spotsylvania	age_adjusted_premature_mortality	319.1
+51179	Virginia	Stafford	age_adjusted_premature_mortality	281.7
+51181	Virginia	Surry	age_adjusted_premature_mortality	391.5
+51183	Virginia	Sussex	age_adjusted_premature_mortality	509.2
+51185	Virginia	Tazewell	age_adjusted_premature_mortality	610.7
+51187	Virginia	Warren	age_adjusted_premature_mortality	405.1
+51191	Virginia	Washington	age_adjusted_premature_mortality	391.5
+51193	Virginia	Westmoreland	age_adjusted_premature_mortality	398.1
+51195	Virginia	Wise	age_adjusted_premature_mortality	503.1
+51197	Virginia	Wythe	age_adjusted_premature_mortality	439.9
+51199	Virginia	York	age_adjusted_premature_mortality	238.9
+51510	Virginia	Alexandria City	age_adjusted_premature_mortality	258.4
+51515	Virginia	Bedford City	age_adjusted_premature_mortality	468.3
+51520	Virginia	Bristol City	age_adjusted_premature_mortality	427
+51530	Virginia	Buena Vista City	age_adjusted_premature_mortality	445.3
+51540	Virginia	Charlottesville City	age_adjusted_premature_mortality	367.6
+51550	Virginia	Chesapeake City	age_adjusted_premature_mortality	352.6
+51570	Virginia	Colonial Heights City	age_adjusted_premature_mortality	348.9
+51580	Virginia	Covington City	age_adjusted_premature_mortality	425.4
+51590	Virginia	Danville City	age_adjusted_premature_mortality	522.9
+51595	Virginia	Emporia City	age_adjusted_premature_mortality	596.4
+51600	Virginia	Fairfax City	age_adjusted_premature_mortality	363.9
+51610	Virginia	Falls Church City	age_adjusted_premature_mortality	282.7
+51620	Virginia	Franklin City	age_adjusted_premature_mortality	529.5
+51630	Virginia	Fredericksburg City	age_adjusted_premature_mortality	459.7
+51640	Virginia	Galax City	age_adjusted_premature_mortality	464
+51650	Virginia	Hampton City	age_adjusted_premature_mortality	408.7
+51660	Virginia	Harrisonburg City	age_adjusted_premature_mortality	323.5
+51670	Virginia	Hopewell City	age_adjusted_premature_mortality	530.6
+51678	Virginia	Lexington City	age_adjusted_premature_mortality	332.6
+51680	Virginia	Lynchburg City	age_adjusted_premature_mortality	371.2
+51683	Virginia	Manassas City	age_adjusted_premature_mortality	306.9
+51685	Virginia	Manassas Park City	age_adjusted_premature_mortality	265.1
+51690	Virginia	Martinsville City	age_adjusted_premature_mortality	579.3
+51700	Virginia	Newport News City	age_adjusted_premature_mortality	395.1
+51710	Virginia	Norfolk City	age_adjusted_premature_mortality	486.4
+51720	Virginia	Norton City	age_adjusted_premature_mortality	412
+51730	Virginia	Petersburg City	age_adjusted_premature_mortality	636.2
+51735	Virginia	Poquoson City	age_adjusted_premature_mortality	259.6
+51740	Virginia	Portsmouth City	age_adjusted_premature_mortality	501
+51750	Virginia	Radford City	age_adjusted_premature_mortality	379.7
+51760	Virginia	Richmond City	age_adjusted_premature_mortality	543.3
+51770	Virginia	Roanoke City	age_adjusted_premature_mortality	509.6
+51775	Virginia	Salem City	age_adjusted_premature_mortality	422.2
+51790	Virginia	Staunton City	age_adjusted_premature_mortality	373.7
+51800	Virginia	Suffolk City	age_adjusted_premature_mortality	401.9
+51810	Virginia	Virginia Beach City	age_adjusted_premature_mortality	299.6
+51820	Virginia	Waynesboro City	age_adjusted_premature_mortality	421
+51830	Virginia	Williamsburg City	age_adjusted_premature_mortality	359.8
+51840	Virginia	Winchester City	age_adjusted_premature_mortality	445
+53001	Washington	Adams	age_adjusted_premature_mortality	344.4
+53003	Washington	Asotin	age_adjusted_premature_mortality	327.2
+53005	Washington	Benton	age_adjusted_premature_mortality	296.3
+53007	Washington	Chelan	age_adjusted_premature_mortality	280
+53009	Washington	Clallam	age_adjusted_premature_mortality	356.9
+53011	Washington	Clark	age_adjusted_premature_mortality	289.8
+53013	Washington	Columbia	age_adjusted_premature_mortality	367.2
+53015	Washington	Cowlitz	age_adjusted_premature_mortality	384.7
+53017	Washington	Douglas	age_adjusted_premature_mortality	294.6
+53019	Washington	Ferry	age_adjusted_premature_mortality	417.7
+53021	Washington	Franklin	age_adjusted_premature_mortality	302.5
+53023	Washington	Garfield	age_adjusted_premature_mortality	294.8
+53025	Washington	Grant	age_adjusted_premature_mortality	331.3
+53027	Washington	Grays Harbor	age_adjusted_premature_mortality	430.9
+53029	Washington	Island	age_adjusted_premature_mortality	233.3
+53031	Washington	Jefferson	age_adjusted_premature_mortality	269.6
+53033	Washington	King	age_adjusted_premature_mortality	254.6
+53035	Washington	Kitsap	age_adjusted_premature_mortality	294.2
+53037	Washington	Kittitas	age_adjusted_premature_mortality	245.2
+53039	Washington	Klickitat	age_adjusted_premature_mortality	316
+53041	Washington	Lewis	age_adjusted_premature_mortality	348.8
+53043	Washington	Lincoln	age_adjusted_premature_mortality	355.3
+53045	Washington	Mason	age_adjusted_premature_mortality	341.3
+53047	Washington	Okanogan	age_adjusted_premature_mortality	389.7
+53049	Washington	Pacific	age_adjusted_premature_mortality	432.5
+53051	Washington	Pend Oreille	age_adjusted_premature_mortality	383.7
+53053	Washington	Pierce	age_adjusted_premature_mortality	354.7
+53055	Washington	San Juan	age_adjusted_premature_mortality	219.3
+53057	Washington	Skagit	age_adjusted_premature_mortality	318.1
+53059	Washington	Skamania	age_adjusted_premature_mortality	335.8
+53061	Washington	Snohomish	age_adjusted_premature_mortality	288.6
+53063	Washington	Spokane	age_adjusted_premature_mortality	340.3
+53065	Washington	Stevens	age_adjusted_premature_mortality	350.1
+53067	Washington	Thurston	age_adjusted_premature_mortality	286.5
+53069	Washington	Wahkiakum	age_adjusted_premature_mortality	304.9
+53071	Washington	Walla Walla	age_adjusted_premature_mortality	326
+53073	Washington	Whatcom	age_adjusted_premature_mortality	253.7
+53075	Washington	Whitman	age_adjusted_premature_mortality	252.2
+53077	Washington	Yakima	age_adjusted_premature_mortality	371.7
+54001	West Virginia	Barbour	age_adjusted_premature_mortality	432.1
+54003	West Virginia	Berkeley	age_adjusted_premature_mortality	411.7
+54005	West Virginia	Boone	age_adjusted_premature_mortality	620.1
+54007	West Virginia	Braxton	age_adjusted_premature_mortality	435
+54009	West Virginia	Brooke	age_adjusted_premature_mortality	433.1
+54011	West Virginia	Cabell	age_adjusted_premature_mortality	492.5
+54013	West Virginia	Calhoun	age_adjusted_premature_mortality	442.3
+54015	West Virginia	Clay	age_adjusted_premature_mortality	496.3
+54017	West Virginia	Doddridge	age_adjusted_premature_mortality	335.9
+54019	West Virginia	Fayette	age_adjusted_premature_mortality	584.5
+54021	West Virginia	Gilmer	age_adjusted_premature_mortality	364.1
+54023	West Virginia	Grant	age_adjusted_premature_mortality	353.6
+54025	West Virginia	Greenbrier	age_adjusted_premature_mortality	436.1
+54027	West Virginia	Hampshire	age_adjusted_premature_mortality	387.8
+54029	West Virginia	Hancock	age_adjusted_premature_mortality	416.2
+54031	West Virginia	Hardy	age_adjusted_premature_mortality	402.4
+54033	West Virginia	Harrison	age_adjusted_premature_mortality	446.6
+54035	West Virginia	Jackson	age_adjusted_premature_mortality	409
+54037	West Virginia	Jefferson	age_adjusted_premature_mortality	394
+54039	West Virginia	Kanawha	age_adjusted_premature_mortality	484.2
+54041	West Virginia	Lewis	age_adjusted_premature_mortality	492.2
+54043	West Virginia	Lincoln	age_adjusted_premature_mortality	593.1
+54045	West Virginia	Logan	age_adjusted_premature_mortality	636.4
+54047	West Virginia	McDowell	age_adjusted_premature_mortality	780.3
+54049	West Virginia	Marion	age_adjusted_premature_mortality	414.2
+54051	West Virginia	Marshall	age_adjusted_premature_mortality	396
+54053	West Virginia	Mason	age_adjusted_premature_mortality	486.7
+54055	West Virginia	Mercer	age_adjusted_premature_mortality	547.3
+54057	West Virginia	Mineral	age_adjusted_premature_mortality	408.2
+54059	West Virginia	Mingo	age_adjusted_premature_mortality	710.9
+54061	West Virginia	Monongalia	age_adjusted_premature_mortality	326.4
+54063	West Virginia	Monroe	age_adjusted_premature_mortality	434.8
+54065	West Virginia	Morgan	age_adjusted_premature_mortality	418.8
+54067	West Virginia	Nicholas	age_adjusted_premature_mortality	483.4
+54069	West Virginia	Ohio	age_adjusted_premature_mortality	406.1
+54071	West Virginia	Pendleton	age_adjusted_premature_mortality	329.8
+54073	West Virginia	Pleasants	age_adjusted_premature_mortality	371.1
+54075	West Virginia	Pocahontas	age_adjusted_premature_mortality	427.3
+54077	West Virginia	Preston	age_adjusted_premature_mortality	373.9
+54079	West Virginia	Putnam	age_adjusted_premature_mortality	367.6
+54081	West Virginia	Raleigh	age_adjusted_premature_mortality	533.6
+54083	West Virginia	Randolph	age_adjusted_premature_mortality	383.6
+54085	West Virginia	Ritchie	age_adjusted_premature_mortality	425.1
+54087	West Virginia	Roane	age_adjusted_premature_mortality	432.9
+54089	West Virginia	Summers	age_adjusted_premature_mortality	481
+54091	West Virginia	Taylor	age_adjusted_premature_mortality	446.8
+54093	West Virginia	Tucker	age_adjusted_premature_mortality	376.4
+54095	West Virginia	Tyler	age_adjusted_premature_mortality	453.4
+54097	West Virginia	Upshur	age_adjusted_premature_mortality	381.4
+54099	West Virginia	Wayne	age_adjusted_premature_mortality	481.6
+54101	West Virginia	Webster	age_adjusted_premature_mortality	497.7
+54103	West Virginia	Wetzel	age_adjusted_premature_mortality	414.5
+54105	West Virginia	Wirt	age_adjusted_premature_mortality	426.4
+54107	West Virginia	Wood	age_adjusted_premature_mortality	416.2
+54109	West Virginia	Wyoming	age_adjusted_premature_mortality	692.6
+55001	Wisconsin	Adams	age_adjusted_premature_mortality	365.1
+55003	Wisconsin	Ashland	age_adjusted_premature_mortality	346.7
+55005	Wisconsin	Barron	age_adjusted_premature_mortality	281
+55007	Wisconsin	Bayfield	age_adjusted_premature_mortality	305
+55009	Wisconsin	Brown	age_adjusted_premature_mortality	260.2
+55011	Wisconsin	Buffalo	age_adjusted_premature_mortality	271.4
+55013	Wisconsin	Burnett	age_adjusted_premature_mortality	320.7
+55015	Wisconsin	Calumet	age_adjusted_premature_mortality	253.1
+55017	Wisconsin	Chippewa	age_adjusted_premature_mortality	283.6
+55019	Wisconsin	Clark	age_adjusted_premature_mortality	306.5
+55021	Wisconsin	Columbia	age_adjusted_premature_mortality	306.7
+55023	Wisconsin	Crawford	age_adjusted_premature_mortality	321.8
+55025	Wisconsin	Dane	age_adjusted_premature_mortality	243.3
+55027	Wisconsin	Dodge	age_adjusted_premature_mortality	322.4
+55029	Wisconsin	Door	age_adjusted_premature_mortality	251.5
+55031	Wisconsin	Douglas	age_adjusted_premature_mortality	345.8
+55033	Wisconsin	Dunn	age_adjusted_premature_mortality	258
+55035	Wisconsin	Eau Claire	age_adjusted_premature_mortality	253.8
+55037	Wisconsin	Florence	age_adjusted_premature_mortality	288.4
+55039	Wisconsin	Fond du Lac	age_adjusted_premature_mortality	282.7
+55041	Wisconsin	Forest	age_adjusted_premature_mortality	355.4
+55043	Wisconsin	Grant	age_adjusted_premature_mortality	308.3
+55045	Wisconsin	Green	age_adjusted_premature_mortality	263.8
+55047	Wisconsin	Green Lake	age_adjusted_premature_mortality	345.4
+55049	Wisconsin	Iowa	age_adjusted_premature_mortality	285.4
+55051	Wisconsin	Iron	age_adjusted_premature_mortality	353.2
+55053	Wisconsin	Jackson	age_adjusted_premature_mortality	289.6
+55055	Wisconsin	Jefferson	age_adjusted_premature_mortality	302.9
+55057	Wisconsin	Juneau	age_adjusted_premature_mortality	342.4
+55059	Wisconsin	Kenosha	age_adjusted_premature_mortality	350.6
+55061	Wisconsin	Kewaunee	age_adjusted_premature_mortality	209.9
+55063	Wisconsin	La Crosse	age_adjusted_premature_mortality	279
+55065	Wisconsin	Lafayette	age_adjusted_premature_mortality	308.3
+55067	Wisconsin	Langlade	age_adjusted_premature_mortality	305
+55069	Wisconsin	Lincoln	age_adjusted_premature_mortality	317.4
+55071	Wisconsin	Manitowoc	age_adjusted_premature_mortality	279.6
+55073	Wisconsin	Marathon	age_adjusted_premature_mortality	272.6
+55075	Wisconsin	Marinette	age_adjusted_premature_mortality	316.2
+55077	Wisconsin	Marquette	age_adjusted_premature_mortality	361.6
+55078	Wisconsin	Menominee	age_adjusted_premature_mortality	717.3
+55079	Wisconsin	Milwaukee	age_adjusted_premature_mortality	405.8
+55081	Wisconsin	Monroe	age_adjusted_premature_mortality	344.1
+55083	Wisconsin	Oconto	age_adjusted_premature_mortality	319.8
+55085	Wisconsin	Oneida	age_adjusted_premature_mortality	315
+55087	Wisconsin	Outagamie	age_adjusted_premature_mortality	264.7
+55089	Wisconsin	Ozaukee	age_adjusted_premature_mortality	223.2
+55091	Wisconsin	Pepin	age_adjusted_premature_mortality	252.2
+55093	Wisconsin	Pierce	age_adjusted_premature_mortality	243.9
+55095	Wisconsin	Polk	age_adjusted_premature_mortality	311.6
+55097	Wisconsin	Portage	age_adjusted_premature_mortality	246.6
+55099	Wisconsin	Price	age_adjusted_premature_mortality	307.7
+55101	Wisconsin	Racine	age_adjusted_premature_mortality	323.3
+55103	Wisconsin	Richland	age_adjusted_premature_mortality	324.7
+55105	Wisconsin	Rock	age_adjusted_premature_mortality	337.5
+55107	Wisconsin	Rusk	age_adjusted_premature_mortality	351.4
+55109	Wisconsin	St. Croix	age_adjusted_premature_mortality	248.3
+55111	Wisconsin	Sauk	age_adjusted_premature_mortality	314.5
+55113	Wisconsin	Sawyer	age_adjusted_premature_mortality	364
+55115	Wisconsin	Shawano	age_adjusted_premature_mortality	304.4
+55117	Wisconsin	Sheboygan	age_adjusted_premature_mortality	283.5
+55119	Wisconsin	Taylor	age_adjusted_premature_mortality	267.8
+55121	Wisconsin	Trempealeau	age_adjusted_premature_mortality	273.6
+55123	Wisconsin	Vernon	age_adjusted_premature_mortality	280.4
+55125	Wisconsin	Vilas	age_adjusted_premature_mortality	331.7
+55127	Wisconsin	Walworth	age_adjusted_premature_mortality	278.7
+55129	Wisconsin	Washburn	age_adjusted_premature_mortality	350.9
+55131	Wisconsin	Washington	age_adjusted_premature_mortality	260.4
+55133	Wisconsin	Waukesha	age_adjusted_premature_mortality	238.9
+55135	Wisconsin	Waupaca	age_adjusted_premature_mortality	356.8
+55137	Wisconsin	Waushara	age_adjusted_premature_mortality	359.4
+55139	Wisconsin	Winnebago	age_adjusted_premature_mortality	298.4
+55141	Wisconsin	Wood	age_adjusted_premature_mortality	267.5
+56001	Wyoming	Albany	age_adjusted_premature_mortality	276.5
+56003	Wyoming	Big Horn	age_adjusted_premature_mortality	429.8
+56005	Wyoming	Campbell	age_adjusted_premature_mortality	422.9
+56007	Wyoming	Carbon	age_adjusted_premature_mortality	431.8
+56009	Wyoming	Converse	age_adjusted_premature_mortality	333.3
+56011	Wyoming	Crook	age_adjusted_premature_mortality	308.4
+56013	Wyoming	Fremont	age_adjusted_premature_mortality	469.1
+56015	Wyoming	Goshen	age_adjusted_premature_mortality	340.8
+56017	Wyoming	Hot Springs	age_adjusted_premature_mortality	391.9
+56019	Wyoming	Johnson	age_adjusted_premature_mortality	326.9
+56021	Wyoming	Laramie	age_adjusted_premature_mortality	362.9
+56023	Wyoming	Lincoln	age_adjusted_premature_mortality	311.5
+56025	Wyoming	Natrona	age_adjusted_premature_mortality	389
+56027	Wyoming	Niobrara	age_adjusted_premature_mortality	423.5
+56029	Wyoming	Park	age_adjusted_premature_mortality	278.6
+56031	Wyoming	Platte	age_adjusted_premature_mortality	343.6
+56033	Wyoming	Sheridan	age_adjusted_premature_mortality	367.8
+56035	Wyoming	Sublette	age_adjusted_premature_mortality	232
+56037	Wyoming	Sweetwater	age_adjusted_premature_mortality	344.7
+56039	Wyoming	Teton	age_adjusted_premature_mortality	171
+56041	Wyoming	Uinta	age_adjusted_premature_mortality	371.1
+56043	Wyoming	Washakie	age_adjusted_premature_mortality	335.8
+56045	Wyoming	Weston	age_adjusted_premature_mortality	315.8

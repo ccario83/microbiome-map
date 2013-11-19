@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	median_household_income
+1001	Alabama	Autauga	median_household_income	48863
+1003	Alabama	Baldwin	median_household_income	50144
+1005	Alabama	Barbour	median_household_income	30117
+1007	Alabama	Bibb	median_household_income	37347
+1009	Alabama	Blount	median_household_income	41940
+1011	Alabama	Bullock	median_household_income	26038
+1013	Alabama	Butler	median_household_income	30489
+1015	Alabama	Calhoun	median_household_income	39060
+1017	Alabama	Chambers	median_household_income	33500
+1019	Alabama	Cherokee	median_household_income	34738
+1021	Alabama	Chilton	median_household_income	38833
+1023	Alabama	Choctaw	median_household_income	32940
+1025	Alabama	Clarke	median_household_income	32642
+1027	Alabama	Clay	median_household_income	32454
+1029	Alabama	Cleburne	median_household_income	39153
+1031	Alabama	Coffee	median_household_income	42173
+1033	Alabama	Colbert	median_household_income	37269
+1035	Alabama	Conecuh	median_household_income	26914
+1037	Alabama	Coosa	median_household_income	34391
+1039	Alabama	Covington	median_household_income	32138
+1041	Alabama	Crenshaw	median_household_income	34534
+1043	Alabama	Cullman	median_household_income	39395
+1045	Alabama	Dale	median_household_income	41568
+1047	Alabama	Dallas	median_household_income	25859
+1049	Alabama	DeKalb	median_household_income	35487
+1051	Alabama	Elmore	median_household_income	54866
+1053	Alabama	Escambia	median_household_income	32838
+1055	Alabama	Etowah	median_household_income	34927
+1057	Alabama	Fayette	median_household_income	32648
+1059	Alabama	Franklin	median_household_income	33705
+1061	Alabama	Geneva	median_household_income	33835
+1063	Alabama	Greene	median_household_income	24738
+1065	Alabama	Hale	median_household_income	31044
+1067	Alabama	Henry	median_household_income	39788
+1069	Alabama	Houston	median_household_income	40428
+1071	Alabama	Jackson	median_household_income	36746
+1073	Alabama	Jefferson	median_household_income	42053
+1075	Alabama	Lamar	median_household_income	34731
+1077	Alabama	Lauderdale	median_household_income	40195
+1079	Alabama	Lawrence	median_household_income	38132
+1081	Alabama	Lee	median_household_income	42539
+1083	Alabama	Limestone	median_household_income	46760
+1085	Alabama	Lowndes	median_household_income	28043
+1087	Alabama	Macon	median_household_income	27591
+1089	Alabama	Madison	median_household_income	55298
+1091	Alabama	Marengo	median_household_income	31995
+1093	Alabama	Marion	median_household_income	30926
+1095	Alabama	Marshall	median_household_income	38876
+1097	Alabama	Mobile	median_household_income	41867
+1099	Alabama	Monroe	median_household_income	31072
+1101	Alabama	Montgomery	median_household_income	42962
+1103	Alabama	Morgan	median_household_income	43615
+1105	Alabama	Perry	median_household_income	22175
+1107	Alabama	Pickens	median_household_income	31079
+1109	Alabama	Pike	median_household_income	32345
+1111	Alabama	Randolph	median_household_income	34517
+1113	Alabama	Russell	median_household_income	32632
+1115	Alabama	St. Clair	median_household_income	48040
+1117	Alabama	Shelby	median_household_income	66362
+1119	Alabama	Sumter	median_household_income	23531
+1121	Alabama	Talladega	median_household_income	33856
+1123	Alabama	Tallapoosa	median_household_income	37686
+1125	Alabama	Tuscaloosa	median_household_income	42086
+1127	Alabama	Walker	median_household_income	35423
+1129	Alabama	Washington	median_household_income	39203
+1131	Alabama	Wilcox	median_household_income	20990
+1133	Alabama	Winston	median_household_income	31018
+2013	Alaska	Aleutians East	median_household_income	51289
+2016	Alaska	Aleutians West	median_household_income	59362
+2020	Alaska	Anchorage	median_household_income	71237
+2050	Alaska	Bethel	median_household_income	43314
+2060	Alaska	Bristol Bay	median_household_income	61905
+2068	Alaska	Denali	median_household_income	68899
+2070	Alaska	Dillingham	median_household_income	46427
+2090	Alaska	Fairbanks North Star	median_household_income	64396
+2100	Alaska	Haines	median_household_income	51350
+2110	Alaska	Juneau	median_household_income	74219
+2122	Alaska	Kenai Peninsula	median_household_income	60360
+2130	Alaska	Ketchikan Gateway	median_household_income	59092
+2150	Alaska	Kodiak Island	median_household_income	66935
+2164	Alaska	Lake and Peninsula	median_household_income	47612
+2170	Alaska	Matanuska-Susitna	median_household_income	68999
+2180	Alaska	Nome	median_household_income	44766
+2185	Alaska	North Slope	median_household_income	73744
+2188	Alaska	Northwest Arctic	median_household_income	54680
+2201	Alaska	Prince of Wales-Outer Ketchikan	median_household_income	42649
+2220	Alaska	Sitka	median_household_income	61956
+2232	Alaska	Skagway-Hoonah-Angoon	median_household_income	45858
+2240	Alaska	Southeast Fairbanks	median_household_income	55617
+2261	Alaska	Valdez-Cordova	median_household_income	63887
+2270	Alaska	Wade Hampton	median_household_income	33206
+2280	Alaska	Wrangell-Petersburg	median_household_income	50244
+2282	Alaska	Yakutat	median_household_income	47575
+2290	Alaska	Yukon-Koyukuk	median_household_income	33578
+4001	Arizona	Apache	median_household_income	30837
+4003	Arizona	Cochise	median_household_income	41237
+4005	Arizona	Coconino	median_household_income	45051
+4007	Arizona	Gila	median_household_income	35898
+4009	Arizona	Graham	median_household_income	40548
+4011	Arizona	Greenlee	median_household_income	51145
+4012	Arizona	La Paz	median_household_income	30679
+4013	Arizona	Maricopa	median_household_income	50785
+4015	Arizona	Mohave	median_household_income	35998
+4017	Arizona	Navajo	median_household_income	32425
+4019	Arizona	Pima	median_household_income	44102
+4021	Arizona	Pinal	median_household_income	45170
+4023	Arizona	Santa Cruz	median_household_income	35500
+4025	Arizona	Yavapai	median_household_income	41437
+4027	Arizona	Yuma	median_household_income	37894
+5001	Arkansas	Arkansas	median_household_income	37922
+5003	Arkansas	Ashley	median_household_income	37170
+5005	Arkansas	Baxter	median_household_income	33312
+5007	Arkansas	Benton	median_household_income	52644
+5009	Arkansas	Boone	median_household_income	38411
+5011	Arkansas	Bradley	median_household_income	31118
+5013	Arkansas	Calhoun	median_household_income	35464
+5015	Arkansas	Carroll	median_household_income	33579
+5017	Arkansas	Chicot	median_household_income	27966
+5019	Arkansas	Clark	median_household_income	34478
+5021	Arkansas	Clay	median_household_income	32564
+5023	Arkansas	Cleburne	median_household_income	42265
+5025	Arkansas	Cleveland	median_household_income	41864
+5027	Arkansas	Columbia	median_household_income	33533
+5029	Arkansas	Conway	median_household_income	37830
+5031	Arkansas	Craighead	median_household_income	39410
+5033	Arkansas	Crawford	median_household_income	37552
+5035	Arkansas	Crittenden	median_household_income	34905
+5037	Arkansas	Cross	median_household_income	35268
+5039	Arkansas	Dallas	median_household_income	30728
+5041	Arkansas	Desha	median_household_income	30186
+5043	Arkansas	Drew	median_household_income	35627
+5045	Arkansas	Faulkner	median_household_income	49314
+5047	Arkansas	Franklin	median_household_income	38245
+5049	Arkansas	Fulton	median_household_income	33696
+5051	Arkansas	Garland	median_household_income	35651
+5053	Arkansas	Grant	median_household_income	46538
+5055	Arkansas	Greene	median_household_income	37893
+5057	Arkansas	Hempstead	median_household_income	30922
+5059	Arkansas	Hot Spring	median_household_income	38082
+5061	Arkansas	Howard	median_household_income	33079
+5063	Arkansas	Independence	median_household_income	34690
+5065	Arkansas	Izard	median_household_income	31245
+5067	Arkansas	Jackson	median_household_income	32750
+5069	Arkansas	Jefferson	median_household_income	37704
+5071	Arkansas	Johnson	median_household_income	34182
+5073	Arkansas	Lafayette	median_household_income	30057
+5075	Arkansas	Lawrence	median_household_income	32678
+5077	Arkansas	Lee	median_household_income	27894
+5079	Arkansas	Lincoln	median_household_income	35854
+5081	Arkansas	Little River	median_household_income	38937
+5083	Arkansas	Logan	median_household_income	34000
+5085	Arkansas	Lonoke	median_household_income	49579
+5087	Arkansas	Madison	median_household_income	34292
+5089	Arkansas	Marion	median_household_income	32685
+5091	Arkansas	Miller	median_household_income	37728
+5093	Arkansas	Mississippi	median_household_income	33426
+5095	Arkansas	Monroe	median_household_income	27758
+5097	Arkansas	Montgomery	median_household_income	31603
+5099	Arkansas	Nevada	median_household_income	31590
+5101	Arkansas	Newton	median_household_income	31224
+5103	Arkansas	Ouachita	median_household_income	35095
+5105	Arkansas	Perry	median_household_income	38858
+5107	Arkansas	Phillips	median_household_income	26892
+5109	Arkansas	Pike	median_household_income	30054
+5111	Arkansas	Poinsett	median_household_income	30761
+5113	Arkansas	Polk	median_household_income	31030
+5115	Arkansas	Pope	median_household_income	38095
+5117	Arkansas	Prairie	median_household_income	36088
+5119	Arkansas	Pulaski	median_household_income	43898
+5121	Arkansas	Randolph	median_household_income	33210
+5123	Arkansas	St. Francis	median_household_income	28467
+5125	Arkansas	Saline	median_household_income	54372
+5127	Arkansas	Scott	median_household_income	31163
+5129	Arkansas	Searcy	median_household_income	26990
+5131	Arkansas	Sebastian	median_household_income	38404
+5133	Arkansas	Sevier	median_household_income	30899
+5135	Arkansas	Sharp	median_household_income	28760
+5137	Arkansas	Stone	median_household_income	29182
+5139	Arkansas	Union	median_household_income	37193
+5141	Arkansas	Van Buren	median_household_income	34513
+5143	Arkansas	Washington	median_household_income	39230
+5145	Arkansas	White	median_household_income	42958
+5147	Arkansas	Woodruff	median_household_income	27357
+5149	Arkansas	Yell	median_household_income	33747
+6001	California	Alameda	median_household_income	67295
+6003	California	Alpine	median_household_income	46706
+6005	California	Amador	median_household_income	51553
+6007	California	Butte	median_household_income	39208
+6009	California	Calaveras	median_household_income	50599
+6011	California	Colusa	median_household_income	47469
+6013	California	Contra Costa	median_household_income	74241
+6015	California	Del Norte	median_household_income	35598
+6017	California	El Dorado	median_household_income	61970
+6019	California	Fresno	median_household_income	42572
+6021	California	Glenn	median_household_income	40221
+6023	California	Humboldt	median_household_income	39526
+6025	California	Imperial	median_household_income	36898
+6027	California	Inyo	median_household_income	44928
+6029	California	Kern	median_household_income	44903
+6031	California	Kings	median_household_income	48319
+6033	California	Lake	median_household_income	35882
+6035	California	Lassen	median_household_income	47938
+6037	California	Los Angeles	median_household_income	52239
+6039	California	Madera	median_household_income	44795
+6041	California	Marin	median_household_income	78470
+6043	California	Mariposa	median_household_income	42175
+6045	California	Mendocino	median_household_income	41236
+6047	California	Merced	median_household_income	40016
+6049	California	Modoc	median_household_income	34654
+6051	California	Mono	median_household_income	48758
+6053	California	Monterey	median_household_income	52746
+6055	California	Napa	median_household_income	61179
+6057	California	Nevada	median_household_income	53833
+6059	California	Orange	median_household_income	72046
+6061	California	Placer	median_household_income	69581
+6063	California	Plumas	median_household_income	44923
+6065	California	Riverside	median_household_income	52491
+6067	California	Sacramento	median_household_income	52236
+6069	California	San Benito	median_household_income	62618
+6071	California	San Bernardino	median_household_income	51017
+6073	California	San Diego	median_household_income	59290
+6075	California	San Francisco	median_household_income	69354
+6077	California	San Joaquin	median_household_income	50376
+6079	California	San Luis Obispo	median_household_income	53877
+6081	California	San Mateo	median_household_income	81378
+6083	California	Santa Barbara	median_household_income	59494
+6085	California	Santa Clara	median_household_income	84741
+6087	California	Santa Cruz	median_household_income	61228
+6089	California	Shasta	median_household_income	41796
+6091	California	Sierra	median_household_income	45060
+6093	California	Siskiyou	median_household_income	35175
+6095	California	Solano	median_household_income	63090
+6097	California	Sonoma	median_household_income	60792
+6099	California	Stanislaus	median_household_income	44287
+6101	California	Sutter	median_household_income	48749
+6103	California	Tehama	median_household_income	37297
+6105	California	Trinity	median_household_income	33163
+6107	California	Tulare	median_household_income	40599
+6109	California	Tuolumne	median_household_income	43530
+6111	California	Ventura	median_household_income	74019
+6113	California	Yolo	median_household_income	50174
+6115	California	Yuba	median_household_income	43299
+8001	Colorado	Adams	median_household_income	52429
+8003	Colorado	Alamosa	median_household_income	36870
+8005	Colorado	Arapahoe	median_household_income	57042
+8007	Colorado	Archuleta	median_household_income	48043
+8009	Colorado	Baca	median_household_income	34168
+8011	Colorado	Bent	median_household_income	35522
+8013	Colorado	Boulder	median_household_income	68101
+8014	Colorado	Broomfield	median_household_income	79051
+8015	Colorado	Chaffee	median_household_income	44156
+8017	Colorado	Cheyenne	median_household_income	46965
+8019	Colorado	Clear Creek	median_household_income	65420
+8021	Colorado	Conejos	median_household_income	32588
+8023	Colorado	Costilla	median_household_income	26125
+8025	Colorado	Crowley	median_household_income	30279
+8027	Colorado	Custer	median_household_income	45791
+8029	Colorado	Delta	median_household_income	41442
+8031	Colorado	Denver	median_household_income	47584
+8033	Colorado	Dolores	median_household_income	39650
+8035	Colorado	Douglas	median_household_income	95973
+8037	Colorado	Eagle	median_household_income	67190
+8039	Colorado	Elbert	median_household_income	78029
+8041	Colorado	El Paso	median_household_income	54857
+8043	Colorado	Fremont	median_household_income	41493
+8045	Colorado	Garfield	median_household_income	57617
+8047	Colorado	Gilpin	median_household_income	60537
+8049	Colorado	Grand	median_household_income	56980
+8051	Colorado	Gunnison	median_household_income	43069
+8053	Colorado	Hinsdale	median_household_income	49024
+8055	Colorado	Huerfano	median_household_income	30655
+8057	Colorado	Jackson	median_household_income	43206
+8059	Colorado	Jefferson	median_household_income	64412
+8061	Colorado	Kiowa	median_household_income	41427
+8063	Colorado	Kit Carson	median_household_income	43078
+8065	Colorado	Lake	median_household_income	42768
+8067	Colorado	La Plata	median_household_income	52276
+8069	Colorado	Larimer	median_household_income	55501
+8071	Colorado	Las Animas	median_household_income	40191
+8073	Colorado	Lincoln	median_household_income	42734
+8075	Colorado	Logan	median_household_income	43823
+8077	Colorado	Mesa	median_household_income	47778
+8079	Colorado	Mineral	median_household_income	46956
+8081	Colorado	Moffat	median_household_income	52257
+8083	Colorado	Montezuma	median_household_income	41817
+8085	Colorado	Montrose	median_household_income	43035
+8087	Colorado	Morgan	median_household_income	41246
+8089	Colorado	Otero	median_household_income	30420
+8091	Colorado	Ouray	median_household_income	57922
+8093	Colorado	Park	median_household_income	58565
+8095	Colorado	Phillips	median_household_income	43826
+8097	Colorado	Pitkin	median_household_income	69229
+8099	Colorado	Prowers	median_household_income	36563
+8101	Colorado	Pueblo	median_household_income	40764
+8103	Colorado	Rio Blanco	median_household_income	60022
+8105	Colorado	Rio Grande	median_household_income	37472
+8107	Colorado	Routt	median_household_income	64998
+8109	Colorado	Saguache	median_household_income	30746
+8111	Colorado	San Juan	median_household_income	36547
+8113	Colorado	San Miguel	median_household_income	57578
+8115	Colorado	Sedgwick	median_household_income	37511
+8117	Colorado	Summit	median_household_income	60397
+8119	Colorado	Teller	median_household_income	60313
+8121	Colorado	Washington	median_household_income	43433
+8123	Colorado	Weld	median_household_income	51773
+8125	Colorado	Yuma	median_household_income	46246
+9001	Connecticut	Fairfield	median_household_income	77065
+9003	Connecticut	Hartford	median_household_income	60947
+9005	Connecticut	Litchfield	median_household_income	68658
+9007	Connecticut	Middlesex	median_household_income	75714
+9009	Connecticut	New Haven	median_household_income	58985
+9011	Connecticut	New London	median_household_income	63561
+9013	Connecticut	Tolland	median_household_income	77124
+9015	Connecticut	Windham	median_household_income	54911
+10001	Delaware	Kent	median_household_income	51045
+10003	Delaware	New Castle	median_household_income	63087
+10005	Delaware	Sussex	median_household_income	51060
+11001	District of Columbia	District of Columbia	median_household_income	62087
+12001	Florida	Alachua	median_household_income	39825
+12003	Florida	Baker	median_household_income	42564
+12005	Florida	Bay	median_household_income	44204
+12007	Florida	Bradford	median_household_income	39271
+12009	Florida	Brevard	median_household_income	46494
+12011	Florida	Broward	median_household_income	48478
+12013	Florida	Calhoun	median_household_income	32395
+12015	Florida	Charlotte	median_household_income	41346
+12017	Florida	Citrus	median_household_income	35041
+12019	Florida	Clay	median_household_income	54867
+12021	Florida	Collier	median_household_income	51039
+12023	Florida	Columbia	median_household_income	36452
+12027	Florida	DeSoto	median_household_income	32753
+12029	Florida	Dixie	median_household_income	30801
+12031	Florida	Duval	median_household_income	45995
+12033	Florida	Escambia	median_household_income	41072
+12035	Florida	Flagler	median_household_income	47095
+12037	Florida	Franklin	median_household_income	35288
+12039	Florida	Gadsden	median_household_income	34154
+12041	Florida	Gilchrist	median_household_income	38046
+12043	Florida	Glades	median_household_income	38825
+12045	Florida	Gulf	median_household_income	37373
+12047	Florida	Hamilton	median_household_income	29482
+12049	Florida	Hardee	median_household_income	33058
+12051	Florida	Hendry	median_household_income	35247
+12053	Florida	Hernando	median_household_income	40411
+12055	Florida	Highlands	median_household_income	33692
+12057	Florida	Hillsborough	median_household_income	46592
+12059	Florida	Holmes	median_household_income	33211
+12061	Florida	Indian River	median_household_income	42053
+12063	Florida	Jackson	median_household_income	35193
+12065	Florida	Jefferson	median_household_income	40252
+12067	Florida	Lafayette	median_household_income	40407
+12069	Florida	Lake	median_household_income	44965
+12071	Florida	Lee	median_household_income	45515
+12073	Florida	Leon	median_household_income	44857
+12075	Florida	Levy	median_household_income	33544
+12077	Florida	Liberty	median_household_income	37446
+12079	Florida	Madison	median_household_income	31578
+12081	Florida	Manatee	median_household_income	43494
+12083	Florida	Marion	median_household_income	36425
+12085	Florida	Martin	median_household_income	50417
+12086	Florida	Miami-Dade	median_household_income	40476
+12087	Florida	Monroe	median_household_income	51152
+12089	Florida	Nassau	median_household_income	54706
+12091	Florida	Okaloosa	median_household_income	49643
+12093	Florida	Okeechobee	median_household_income	33806
+12095	Florida	Orange	median_household_income	44635
+12097	Florida	Osceola	median_household_income	40933
+12099	Florida	Palm Beach	median_household_income	48973
+12101	Florida	Pasco	median_household_income	40859
+12103	Florida	Pinellas	median_household_income	42761
+12105	Florida	Polk	median_household_income	40258
+12107	Florida	Putnam	median_household_income	31150
+12109	Florida	St. Johns	median_household_income	63299
+12111	Florida	St. Lucie	median_household_income	41384
+12113	Florida	Santa Rosa	median_household_income	53155
+12115	Florida	Sarasota	median_household_income	47457
+12117	Florida	Seminole	median_household_income	54449
+12119	Florida	Sumter	median_household_income	44595
+12121	Florida	Suwannee	median_household_income	34947
+12123	Florida	Taylor	median_household_income	33863
+12125	Florida	Union	median_household_income	40743
+12127	Florida	Volusia	median_household_income	38477
+12129	Florida	Wakulla	median_household_income	50716
+12131	Florida	Walton	median_household_income	44763
+12133	Florida	Washington	median_household_income	35004
+13001	Georgia	Appling	median_household_income	35164
+13003	Georgia	Atkinson	median_household_income	28693
+13005	Georgia	Bacon	median_household_income	31301
+13007	Georgia	Baker	median_household_income	33347
+13009	Georgia	Baldwin	median_household_income	34304
+13011	Georgia	Banks	median_household_income	42673
+13013	Georgia	Barrow	median_household_income	50996
+13015	Georgia	Bartow	median_household_income	45072
+13017	Georgia	Ben Hill	median_household_income	29425
+13019	Georgia	Berrien	median_household_income	33417
+13021	Georgia	Bibb	median_household_income	35125
+13023	Georgia	Bleckley	median_household_income	39461
+13025	Georgia	Brantley	median_household_income	36300
+13027	Georgia	Brooks	median_household_income	29282
+13029	Georgia	Bryan	median_household_income	63092
+13031	Georgia	Bulloch	median_household_income	33192
+13033	Georgia	Burke	median_household_income	31188
+13035	Georgia	Butts	median_household_income	40330
+13037	Georgia	Calhoun	median_household_income	27860
+13039	Georgia	Camden	median_household_income	50207
+13043	Georgia	Candler	median_household_income	28263
+13045	Georgia	Carroll	median_household_income	43237
+13047	Georgia	Catoosa	median_household_income	47111
+13049	Georgia	Charlton	median_household_income	31582
+13051	Georgia	Chatham	median_household_income	42383
+13053	Georgia	Chattahoochee	median_household_income	41476
+13055	Georgia	Chattooga	median_household_income	33350
+13057	Georgia	Cherokee	median_household_income	65769
+13059	Georgia	Clarke	median_household_income	30880
+13061	Georgia	Clay	median_household_income	26420
+13063	Georgia	Clayton	median_household_income	37706
+13065	Georgia	Clinch	median_household_income	30237
+13067	Georgia	Cobb	median_household_income	57995
+13069	Georgia	Coffee	median_household_income	32351
+13071	Georgia	Colquitt	median_household_income	30669
+13073	Georgia	Columbia	median_household_income	62717
+13075	Georgia	Cook	median_household_income	32812
+13077	Georgia	Coweta	median_household_income	56878
+13079	Georgia	Crawford	median_household_income	41855
+13081	Georgia	Crisp	median_household_income	29134
+13083	Georgia	Dade	median_household_income	41233
+13085	Georgia	Dawson	median_household_income	53339
+13087	Georgia	Decatur	median_household_income	31054
+13089	Georgia	DeKalb	median_household_income	48293
+13091	Georgia	Dodge	median_household_income	31696
+13093	Georgia	Dooly	median_household_income	29970
+13095	Georgia	Dougherty	median_household_income	30186
+13097	Georgia	Douglas	median_household_income	50501
+13099	Georgia	Early	median_household_income	31345
+13101	Georgia	Echols	median_household_income	32543
+13103	Georgia	Effingham	median_household_income	59502
+13105	Georgia	Elbert	median_household_income	33068
+13107	Georgia	Emanuel	median_household_income	30459
+13109	Georgia	Evans	median_household_income	30858
+13111	Georgia	Fannin	median_household_income	34775
+13113	Georgia	Fayette	median_household_income	74476
+13115	Georgia	Floyd	median_household_income	40159
+13117	Georgia	Forsyth	median_household_income	85137
+13119	Georgia	Franklin	median_household_income	31042
+13121	Georgia	Fulton	median_household_income	54893
+13123	Georgia	Gilmer	median_household_income	36359
+13125	Georgia	Glascock	median_household_income	35247
+13127	Georgia	Glynn	median_household_income	44238
+13129	Georgia	Gordon	median_household_income	42253
+13131	Georgia	Grady	median_household_income	33368
+13133	Georgia	Greene	median_household_income	39209
+13135	Georgia	Gwinnett	median_household_income	56944
+13137	Georgia	Habersham	median_household_income	39879
+13139	Georgia	Hall	median_household_income	49324
+13141	Georgia	Hancock	median_household_income	26107
+13143	Georgia	Haralson	median_household_income	37495
+13145	Georgia	Harris	median_household_income	64048
+13147	Georgia	Hart	median_household_income	36327
+13149	Georgia	Heard	median_household_income	35765
+13151	Georgia	Henry	median_household_income	58130
+13153	Georgia	Houston	median_household_income	51851
+13155	Georgia	Irwin	median_household_income	33602
+13157	Georgia	Jackson	median_household_income	49400
+13159	Georgia	Jasper	median_household_income	43618
+13161	Georgia	Jeff Davis	median_household_income	32248
+13163	Georgia	Jefferson	median_household_income	27703
+13165	Georgia	Jenkins	median_household_income	25807
+13167	Georgia	Johnson	median_household_income	28585
+13169	Georgia	Jones	median_household_income	48792
+13171	Georgia	Lamar	median_household_income	40769
+13173	Georgia	Lanier	median_household_income	33929
+13175	Georgia	Laurens	median_household_income	34865
+13177	Georgia	Lee	median_household_income	60652
+13179	Georgia	Liberty	median_household_income	40659
+13181	Georgia	Lincoln	median_household_income	35183
+13183	Georgia	Long	median_household_income	35244
+13185	Georgia	Lowndes	median_household_income	34252
+13187	Georgia	Lumpkin	median_household_income	44422
+13189	Georgia	McDuffie	median_household_income	36907
+13191	Georgia	McIntosh	median_household_income	34787
+13193	Georgia	Macon	median_household_income	27934
+13195	Georgia	Madison	median_household_income	40123
+13197	Georgia	Marion	median_household_income	34189
+13199	Georgia	Meriwether	median_household_income	34589
+13201	Georgia	Miller	median_household_income	33063
+13205	Georgia	Mitchell	median_household_income	31088
+13207	Georgia	Monroe	median_household_income	51747
+13209	Georgia	Montgomery	median_household_income	34379
+13211	Georgia	Morgan	median_household_income	46176
+13213	Georgia	Murray	median_household_income	36230
+13215	Georgia	Muscogee	median_household_income	37564
+13217	Georgia	Newton	median_household_income	44089
+13219	Georgia	Oconee	median_household_income	71707
+13221	Georgia	Oglethorpe	median_household_income	44066
+13223	Georgia	Paulding	median_household_income	59185
+13225	Georgia	Peach	median_household_income	39838
+13227	Georgia	Pickens	median_household_income	50282
+13229	Georgia	Pierce	median_household_income	38290
+13231	Georgia	Pike	median_household_income	54457
+13233	Georgia	Polk	median_household_income	36326
+13235	Georgia	Pulaski	median_household_income	34820
+13237	Georgia	Putnam	median_household_income	40168
+13239	Georgia	Quitman	median_household_income	28621
+13241	Georgia	Rabun	median_household_income	34394
+13243	Georgia	Randolph	median_household_income	27950
+13245	Georgia	Richmond	median_household_income	37352
+13247	Georgia	Rockdale	median_household_income	51106
+13249	Georgia	Schley	median_household_income	37669
+13251	Georgia	Screven	median_household_income	32990
+13253	Georgia	Seminole	median_household_income	30489
+13255	Georgia	Spalding	median_household_income	38914
+13257	Georgia	Stephens	median_household_income	37536
+13259	Georgia	Stewart	median_household_income	26010
+13261	Georgia	Sumter	median_household_income	31937
+13263	Georgia	Talbot	median_household_income	31290
+13265	Georgia	Taliaferro	median_household_income	25807
+13267	Georgia	Tattnall	median_household_income	31531
+13269	Georgia	Taylor	median_household_income	30308
+13271	Georgia	Telfair	median_household_income	27831
+13273	Georgia	Terrell	median_household_income	30552
+13275	Georgia	Thomas	median_household_income	34611
+13277	Georgia	Tift	median_household_income	33669
+13279	Georgia	Toombs	median_household_income	32915
+13281	Georgia	Towns	median_household_income	36858
+13283	Georgia	Treutlen	median_household_income	30131
+13285	Georgia	Troup	median_household_income	39370
+13287	Georgia	Turner	median_household_income	25480
+13289	Georgia	Twiggs	median_household_income	34528
+13291	Georgia	Union	median_household_income	39206
+13293	Georgia	Upson	median_household_income	33483
+13295	Georgia	Walker	median_household_income	37813
+13297	Georgia	Walton	median_household_income	52747
+13299	Georgia	Ware	median_household_income	31529
+13301	Georgia	Warren	median_household_income	30946
+13303	Georgia	Washington	median_household_income	34117
+13305	Georgia	Wayne	median_household_income	37082
+13307	Georgia	Webster	median_household_income	32842
+13309	Georgia	Wheeler	median_household_income	29780
+13311	Georgia	White	median_household_income	39753
+13313	Georgia	Whitfield	median_household_income	38452
+13315	Georgia	Wilcox	median_household_income	30500
+13317	Georgia	Wilkes	median_household_income	30720
+13319	Georgia	Wilkinson	median_household_income	38570
+13321	Georgia	Worth	median_household_income	35308
+15001	Hawaii	Hawaii	median_household_income	46186
+15003	Hawaii	Honolulu	median_household_income	65489
+15005	Hawaii	Kalawao	median_household_income	
+15007	Hawaii	Kauai	median_household_income	56937
+15009	Hawaii	Maui	median_household_income	57789
+16001	Idaho	Ada	median_household_income	50701
+16003	Idaho	Adams	median_household_income	32752
+16005	Idaho	Bannock	median_household_income	41749
+16007	Idaho	Bear Lake	median_household_income	42327
+16009	Idaho	Benewah	median_household_income	39327
+16011	Idaho	Bingham	median_household_income	45354
+16013	Idaho	Blaine	median_household_income	60448
+16015	Idaho	Boise	median_household_income	48657
+16017	Idaho	Bonner	median_household_income	41255
+16019	Idaho	Bonneville	median_household_income	49748
+16021	Idaho	Boundary	median_household_income	33655
+16023	Idaho	Butte	median_household_income	41026
+16025	Idaho	Camas	median_household_income	45439
+16027	Idaho	Canyon	median_household_income	39132
+16029	Idaho	Caribou	median_household_income	49665
+16031	Idaho	Cassia	median_household_income	41393
+16033	Idaho	Clark	median_household_income	40581
+16035	Idaho	Clearwater	median_household_income	38086
+16037	Idaho	Custer	median_household_income	44234
+16039	Idaho	Elmore	median_household_income	43120
+16041	Idaho	Franklin	median_household_income	46348
+16043	Idaho	Fremont	median_household_income	41411
+16045	Idaho	Gem	median_household_income	40541
+16047	Idaho	Gooding	median_household_income	39670
+16049	Idaho	Idaho	median_household_income	39184
+16051	Idaho	Jefferson	median_household_income	47827
+16053	Idaho	Jerome	median_household_income	39454
+16055	Idaho	Kootenai	median_household_income	47026
+16057	Idaho	Latah	median_household_income	42350
+16059	Idaho	Lemhi	median_household_income	36319
+16061	Idaho	Lewis	median_household_income	40149
+16063	Idaho	Lincoln	median_household_income	40460
+16065	Idaho	Madison	median_household_income	33343
+16067	Idaho	Minidoka	median_household_income	40779
+16069	Idaho	Nez Perce	median_household_income	43662
+16071	Idaho	Oneida	median_household_income	43519
+16073	Idaho	Owyhee	median_household_income	33518
+16075	Idaho	Payette	median_household_income	39031
+16077	Idaho	Power	median_household_income	39288
+16079	Idaho	Shoshone	median_household_income	36811
+16081	Idaho	Teton	median_household_income	51561
+16083	Idaho	Twin Falls	median_household_income	41942
+16085	Idaho	Valley	median_household_income	46210
+16087	Idaho	Washington	median_household_income	35232
+17001	Illinois	Adams	median_household_income	43293
+17003	Illinois	Alexander	median_household_income	28499
+17005	Illinois	Bond	median_household_income	44945
+17007	Illinois	Boone	median_household_income	57708
+17009	Illinois	Brown	median_household_income	46160
+17011	Illinois	Bureau	median_household_income	48474
+17013	Illinois	Calhoun	median_household_income	47218
+17015	Illinois	Carroll	median_household_income	42996
+17017	Illinois	Cass	median_household_income	40065
+17019	Illinois	Champaign	median_household_income	42847
+17021	Illinois	Christian	median_household_income	46401
+17023	Illinois	Clark	median_household_income	48940
+17025	Illinois	Clay	median_household_income	38445
+17027	Illinois	Clinton	median_household_income	59711
+17029	Illinois	Coles	median_household_income	40623
+17031	Illinois	Cook	median_household_income	50806
+17033	Illinois	Crawford	median_household_income	46307
+17035	Illinois	Cumberland	median_household_income	47145
+17037	Illinois	DeKalb	median_household_income	52091
+17039	Illinois	De Witt	median_household_income	56147
+17041	Illinois	Douglas	median_household_income	48671
+17043	Illinois	DuPage	median_household_income	74122
+17045	Illinois	Edgar	median_household_income	43596
+17047	Illinois	Edwards	median_household_income	41239
+17049	Illinois	Effingham	median_household_income	48632
+17051	Illinois	Fayette	median_household_income	40247
+17053	Illinois	Ford	median_household_income	49206
+17055	Illinois	Franklin	median_household_income	36610
+17057	Illinois	Fulton	median_household_income	46539
+17059	Illinois	Gallatin	median_household_income	36722
+17061	Illinois	Greene	median_household_income	42534
+17063	Illinois	Grundy	median_household_income	63685
+17065	Illinois	Hamilton	median_household_income	41446
+17067	Illinois	Hancock	median_household_income	43850
+17069	Illinois	Hardin	median_household_income	35596
+17071	Illinois	Henderson	median_household_income	45217
+17073	Illinois	Henry	median_household_income	50445
+17075	Illinois	Iroquois	median_household_income	48577
+17077	Illinois	Jackson	median_household_income	32868
+17079	Illinois	Jasper	median_household_income	46257
+17081	Illinois	Jefferson	median_household_income	42601
+17083	Illinois	Jersey	median_household_income	55416
+17085	Illinois	Jo Daviess	median_household_income	51293
+17087	Illinois	Johnson	median_household_income	42357
+17089	Illinois	Kane	median_household_income	66133
+17091	Illinois	Kankakee	median_household_income	46046
+17093	Illinois	Kendall	median_household_income	82934
+17095	Illinois	Knox	median_household_income	39803
+17097	Illinois	Lake	median_household_income	74306
+17099	Illinois	LaSalle	median_household_income	48945
+17101	Illinois	Lawrence	median_household_income	38934
+17103	Illinois	Lee	median_household_income	48388
+17105	Illinois	Livingston	median_household_income	53249
+17107	Illinois	Logan	median_household_income	46863
+17109	Illinois	McDonough	median_household_income	38916
+17111	Illinois	McHenry	median_household_income	70682
+17113	Illinois	McLean	median_household_income	58791
+17115	Illinois	Macon	median_household_income	44725
+17117	Illinois	Macoupin	median_household_income	46525
+17119	Illinois	Madison	median_household_income	50462
+17121	Illinois	Marion	median_household_income	40056
+17123	Illinois	Marshall	median_household_income	50571
+17125	Illinois	Mason	median_household_income	43515
+17127	Illinois	Massac	median_household_income	39308
+17129	Illinois	Menard	median_household_income	58900
+17131	Illinois	Mercer	median_household_income	52351
+17133	Illinois	Monroe	median_household_income	71766
+17135	Illinois	Montgomery	median_household_income	49430
+17137	Illinois	Morgan	median_household_income	43210
+17139	Illinois	Moultrie	median_household_income	49994
+17141	Illinois	Ogle	median_household_income	55009
+17143	Illinois	Peoria	median_household_income	49022
+17145	Illinois	Perry	median_household_income	40167
+17147	Illinois	Piatt	median_household_income	61339
+17149	Illinois	Pike	median_household_income	38743
+17151	Illinois	Pope	median_household_income	37757
+17153	Illinois	Pulaski	median_household_income	31742
+17155	Illinois	Putnam	median_household_income	51518
+17157	Illinois	Randolph	median_household_income	44708
+17159	Illinois	Richland	median_household_income	42369
+17161	Illinois	Rock Island	median_household_income	44487
+17163	Illinois	St. Clair	median_household_income	49634
+17165	Illinois	Saline	median_household_income	35999
+17167	Illinois	Sangamon	median_household_income	51537
+17169	Illinois	Schuyler	median_household_income	43744
+17171	Illinois	Scott	median_household_income	48361
+17173	Illinois	Shelby	median_household_income	45964
+17175	Illinois	Stark	median_household_income	46913
+17177	Illinois	Stephenson	median_household_income	42661
+17179	Illinois	Tazewell	median_household_income	50106
+17181	Illinois	Union	median_household_income	39099
+17183	Illinois	Vermilion	median_household_income	40742
+17185	Illinois	Wabash	median_household_income	48154
+17187	Illinois	Warren	median_household_income	44818
+17189	Illinois	Washington	median_household_income	50465
+17191	Illinois	Wayne	median_household_income	40178
+17193	Illinois	White	median_household_income	41706
+17195	Illinois	Whiteside	median_household_income	45930
+17197	Illinois	Will	median_household_income	72053
+17199	Illinois	Williamson	median_household_income	41079
+17201	Illinois	Winnebago	median_household_income	44353
+17203	Illinois	Woodford	median_household_income	65998
+18001	Indiana	Adams	median_household_income	47265
+18003	Indiana	Allen	median_household_income	47411
+18005	Indiana	Bartholomew	median_household_income	52669
+18007	Indiana	Benton	median_household_income	45644
+18009	Indiana	Blackford	median_household_income	38346
+18011	Indiana	Boone	median_household_income	63717
+18013	Indiana	Brown	median_household_income	53376
+18015	Indiana	Carroll	median_household_income	49216
+18017	Indiana	Cass	median_household_income	41271
+18019	Indiana	Clark	median_household_income	49778
+18021	Indiana	Clay	median_household_income	44574
+18023	Indiana	Clinton	median_household_income	45712
+18025	Indiana	Crawford	median_household_income	37674
+18027	Indiana	Daviess	median_household_income	43800
+18029	Indiana	Dearborn	median_household_income	56344
+18031	Indiana	Decatur	median_household_income	44574
+18033	Indiana	DeKalb	median_household_income	46262
+18035	Indiana	Delaware	median_household_income	37208
+18037	Indiana	Dubois	median_household_income	51936
+18039	Indiana	Elkhart	median_household_income	44354
+18041	Indiana	Fayette	median_household_income	37292
+18043	Indiana	Floyd	median_household_income	51210
+18045	Indiana	Fountain	median_household_income	44508
+18047	Indiana	Franklin	median_household_income	51106
+18049	Indiana	Fulton	median_household_income	42417
+18051	Indiana	Gibson	median_household_income	46570
+18053	Indiana	Grant	median_household_income	38745
+18055	Indiana	Greene	median_household_income	42877
+18057	Indiana	Hamilton	median_household_income	84939
+18059	Indiana	Hancock	median_household_income	61540
+18061	Indiana	Harrison	median_household_income	49551
+18063	Indiana	Hendricks	median_household_income	64239
+18065	Indiana	Henry	median_household_income	36572
+18067	Indiana	Howard	median_household_income	40997
+18069	Indiana	Huntington	median_household_income	47326
+18071	Indiana	Jackson	median_household_income	44921
+18073	Indiana	Jasper	median_household_income	52559
+18075	Indiana	Jay	median_household_income	38572
+18077	Indiana	Jefferson	median_household_income	40386
+18079	Indiana	Jennings	median_household_income	42577
+18081	Indiana	Johnson	median_household_income	61477
+18083	Indiana	Knox	median_household_income	38653
+18085	Indiana	Kosciusko	median_household_income	50823
+18087	Indiana	LaGrange	median_household_income	42119
+18089	Indiana	Lake	median_household_income	48143
+18091	Indiana	LaPorte	median_household_income	47201
+18093	Indiana	Lawrence	median_household_income	43471
+18095	Indiana	Madison	median_household_income	41766
+18097	Indiana	Marion	median_household_income	39957
+18099	Indiana	Marshall	median_household_income	46301
+18101	Indiana	Martin	median_household_income	44715
+18103	Indiana	Miami	median_household_income	43287
+18105	Indiana	Monroe	median_household_income	40262
+18107	Indiana	Montgomery	median_household_income	43176
+18109	Indiana	Morgan	median_household_income	53690
+18111	Indiana	Newton	median_household_income	44418
+18113	Indiana	Noble	median_household_income	46690
+18115	Indiana	Ohio	median_household_income	48788
+18117	Indiana	Orange	median_household_income	37910
+18119	Indiana	Owen	median_household_income	41004
+18121	Indiana	Parke	median_household_income	40790
+18123	Indiana	Perry	median_household_income	45234
+18125	Indiana	Pike	median_household_income	42482
+18127	Indiana	Porter	median_household_income	62178
+18129	Indiana	Posey	median_household_income	55488
+18131	Indiana	Pulaski	median_household_income	43971
+18133	Indiana	Putnam	median_household_income	46961
+18135	Indiana	Randolph	median_household_income	39611
+18137	Indiana	Ripley	median_household_income	47900
+18139	Indiana	Rush	median_household_income	44416
+18141	Indiana	St. Joseph	median_household_income	43813
+18143	Indiana	Scott	median_household_income	38826
+18145	Indiana	Shelby	median_household_income	49437
+18147	Indiana	Spencer	median_household_income	53464
+18149	Indiana	Starke	median_household_income	42088
+18151	Indiana	Steuben	median_household_income	45957
+18153	Indiana	Sullivan	median_household_income	42608
+18155	Indiana	Switzerland	median_household_income	42285
+18157	Indiana	Tippecanoe	median_household_income	43339
+18159	Indiana	Tipton	median_household_income	53300
+18161	Indiana	Union	median_household_income	43540
+18163	Indiana	Vanderburgh	median_household_income	43570
+18165	Indiana	Vermillion	median_household_income	45089
+18167	Indiana	Vigo	median_household_income	39173
+18169	Indiana	Wabash	median_household_income	42032
+18171	Indiana	Warren	median_household_income	49095
+18173	Indiana	Warrick	median_household_income	63543
+18175	Indiana	Washington	median_household_income	39085
+18177	Indiana	Wayne	median_household_income	36559
+18179	Indiana	Wells	median_household_income	49234
+18181	Indiana	White	median_household_income	45748
+18183	Indiana	Whitley	median_household_income	48192
+19001	Iowa	Adair	median_household_income	44701
+19003	Iowa	Adams	median_household_income	42062
+19005	Iowa	Allamakee	median_household_income	39670
+19007	Iowa	Appanoose	median_household_income	36693
+19009	Iowa	Audubon	median_household_income	45310
+19011	Iowa	Benton	median_household_income	54222
+19013	Iowa	Black Hawk	median_household_income	43037
+19015	Iowa	Boone	median_household_income	50758
+19017	Iowa	Bremer	median_household_income	57646
+19019	Iowa	Buchanan	median_household_income	52930
+19021	Iowa	Buena Vista	median_household_income	46356
+19023	Iowa	Butler	median_household_income	51560
+19025	Iowa	Calhoun	median_household_income	46171
+19027	Iowa	Carroll	median_household_income	49251
+19029	Iowa	Cass	median_household_income	41329
+19031	Iowa	Cedar	median_household_income	57890
+19033	Iowa	Cerro Gordo	median_household_income	43120
+19035	Iowa	Cherokee	median_household_income	47570
+19037	Iowa	Chickasaw	median_household_income	47311
+19039	Iowa	Clarke	median_household_income	42670
+19041	Iowa	Clay	median_household_income	50289
+19043	Iowa	Clayton	median_household_income	44370
+19045	Iowa	Clinton	median_household_income	45600
+19047	Iowa	Crawford	median_household_income	44197
+19049	Iowa	Dallas	median_household_income	72146
+19051	Iowa	Davis	median_household_income	40673
+19053	Iowa	Decatur	median_household_income	33803
+19055	Iowa	Delaware	median_household_income	50231
+19057	Iowa	Des Moines	median_household_income	43721
+19059	Iowa	Dickinson	median_household_income	52821
+19061	Iowa	Dubuque	median_household_income	52084
+19063	Iowa	Emmet	median_household_income	44556
+19065	Iowa	Fayette	median_household_income	41547
+19067	Iowa	Floyd	median_household_income	44478
+19069	Iowa	Franklin	median_household_income	47396
+19071	Iowa	Fremont	median_household_income	51410
+19073	Iowa	Greene	median_household_income	44271
+19075	Iowa	Grundy	median_household_income	54645
+19077	Iowa	Guthrie	median_household_income	47762
+19079	Iowa	Hamilton	median_household_income	45331
+19081	Iowa	Hancock	median_household_income	50935
+19083	Iowa	Hardin	median_household_income	46708
+19085	Iowa	Harrison	median_household_income	49921
+19087	Iowa	Henry	median_household_income	45330
+19089	Iowa	Howard	median_household_income	45450
+19091	Iowa	Humboldt	median_household_income	48954
+19093	Iowa	Ida	median_household_income	48480
+19095	Iowa	Iowa	median_household_income	53984
+19097	Iowa	Jackson	median_household_income	44840
+19099	Iowa	Jasper	median_household_income	50469
+19101	Iowa	Jefferson	median_household_income	39743
+19103	Iowa	Johnson	median_household_income	53570
+19105	Iowa	Jones	median_household_income	50929
+19107	Iowa	Keokuk	median_household_income	42766
+19109	Iowa	Kossuth	median_household_income	46294
+19111	Iowa	Lee	median_household_income	43110
+19113	Iowa	Linn	median_household_income	55772
+19115	Iowa	Louisa	median_household_income	48372
+19117	Iowa	Lucas	median_household_income	38422
+19119	Iowa	Lyon	median_household_income	53398
+19121	Iowa	Madison	median_household_income	56258
+19123	Iowa	Mahaska	median_household_income	47598
+19125	Iowa	Marion	median_household_income	51996
+19127	Iowa	Marshall	median_household_income	47535
+19129	Iowa	Mills	median_household_income	57331
+19131	Iowa	Mitchell	median_household_income	45430
+19133	Iowa	Monona	median_household_income	41458
+19135	Iowa	Monroe	median_household_income	42961
+19137	Iowa	Montgomery	median_household_income	41437
+19139	Iowa	Muscatine	median_household_income	47966
+19141	Iowa	O'Brien	median_household_income	46233
+19143	Iowa	Osceola	median_household_income	47890
+19145	Iowa	Page	median_household_income	42449
+19147	Iowa	Palo Alto	median_household_income	43557
+19149	Iowa	Plymouth	median_household_income	55047
+19151	Iowa	Pocahontas	median_household_income	43766
+19153	Iowa	Polk	median_household_income	56091
+19155	Iowa	Pottawattamie	median_household_income	48589
+19157	Iowa	Poweshiek	median_household_income	49853
+19159	Iowa	Ringgold	median_household_income	38547
+19161	Iowa	Sac	median_household_income	49480
+19163	Iowa	Scott	median_household_income	50007
+19165	Iowa	Shelby	median_household_income	48572
+19167	Iowa	Sioux	median_household_income	57027
+19169	Iowa	Story	median_household_income	48121
+19171	Iowa	Tama	median_household_income	50034
+19173	Iowa	Taylor	median_household_income	43155
+19175	Iowa	Union	median_household_income	39922
+19177	Iowa	Van Buren	median_household_income	39719
+19179	Iowa	Wapello	median_household_income	39999
+19181	Iowa	Warren	median_household_income	62688
+19183	Iowa	Washington	median_household_income	50559
+19185	Iowa	Wayne	median_household_income	37662
+19187	Iowa	Webster	median_household_income	42178
+19189	Iowa	Winnebago	median_household_income	47692
+19191	Iowa	Winneshiek	median_household_income	49148
+19193	Iowa	Woodbury	median_household_income	43362
+19195	Iowa	Worth	median_household_income	48718
+19197	Iowa	Wright	median_household_income	43647
+20001	Kansas	Allen	median_household_income	37353
+20003	Kansas	Anderson	median_household_income	42185
+20005	Kansas	Atchison	median_household_income	42131
+20007	Kansas	Barber	median_household_income	44118
+20009	Kansas	Barton	median_household_income	42183
+20011	Kansas	Bourbon	median_household_income	35805
+20013	Kansas	Brown	median_household_income	40424
+20015	Kansas	Butler	median_household_income	53217
+20017	Kansas	Chase	median_household_income	41217
+20019	Kansas	Chautauqua	median_household_income	35952
+20021	Kansas	Cherokee	median_household_income	39696
+20023	Kansas	Cheyenne	median_household_income	36835
+20025	Kansas	Clark	median_household_income	42171
+20027	Kansas	Clay	median_household_income	47692
+20029	Kansas	Cloud	median_household_income	39763
+20031	Kansas	Coffey	median_household_income	54644
+20033	Kansas	Comanche	median_household_income	39975
+20035	Kansas	Cowley	median_household_income	40248
+20037	Kansas	Crawford	median_household_income	34080
+20039	Kansas	Decatur	median_household_income	37986
+20041	Kansas	Dickinson	median_household_income	46894
+20043	Kansas	Doniphan	median_household_income	43092
+20045	Kansas	Douglas	median_household_income	47930
+20047	Kansas	Edwards	median_household_income	43874
+20049	Kansas	Elk	median_household_income	34174
+20051	Kansas	Ellis	median_household_income	41774
+20053	Kansas	Ellsworth	median_household_income	46927
+20055	Kansas	Finney	median_household_income	44888
+20057	Kansas	Ford	median_household_income	47542
+20059	Kansas	Franklin	median_household_income	46553
+20061	Kansas	Geary	median_household_income	40224
+20063	Kansas	Gove	median_household_income	44351
+20065	Kansas	Graham	median_household_income	40903
+20067	Kansas	Grant	median_household_income	54230
+20069	Kansas	Gray	median_household_income	59278
+20071	Kansas	Greeley	median_household_income	48606
+20073	Kansas	Greenwood	median_household_income	35765
+20075	Kansas	Hamilton	median_household_income	43679
+20077	Kansas	Harper	median_household_income	39104
+20079	Kansas	Harvey	median_household_income	50958
+20081	Kansas	Haskell	median_household_income	54340
+20083	Kansas	Hodgeman	median_household_income	45992
+20085	Kansas	Jackson	median_household_income	50342
+20087	Kansas	Jefferson	median_household_income	57046
+20089	Kansas	Jewell	median_household_income	38865
+20091	Kansas	Johnson	median_household_income	70665
+20093	Kansas	Kearny	median_household_income	51413
+20095	Kansas	Kingman	median_household_income	47684
+20097	Kansas	Kiowa	median_household_income	39796
+20099	Kansas	Labette	median_household_income	37879
+20101	Kansas	Lane	median_household_income	47900
+20103	Kansas	Leavenworth	median_household_income	61567
+20105	Kansas	Lincoln	median_household_income	39317
+20107	Kansas	Linn	median_household_income	44615
+20109	Kansas	Logan	median_household_income	43315
+20111	Kansas	Lyon	median_household_income	39346
+20113	Kansas	McPherson	median_household_income	48130
+20115	Kansas	Marion	median_household_income	43749
+20117	Kansas	Marshall	median_household_income	42619
+20119	Kansas	Meade	median_household_income	49141
+20121	Kansas	Miami	median_household_income	57580
+20123	Kansas	Mitchell	median_household_income	43511
+20125	Kansas	Montgomery	median_household_income	36670
+20127	Kansas	Morris	median_household_income	44227
+20129	Kansas	Morton	median_household_income	47006
+20131	Kansas	Nemaha	median_household_income	47971
+20133	Kansas	Neosho	median_household_income	40651
+20135	Kansas	Ness	median_household_income	44774
+20137	Kansas	Norton	median_household_income	41396
+20139	Kansas	Osage	median_household_income	47318
+20141	Kansas	Osborne	median_household_income	37949
+20143	Kansas	Ottawa	median_household_income	48998
+20145	Kansas	Pawnee	median_household_income	41623
+20147	Kansas	Phillips	median_household_income	40746
+20149	Kansas	Pottawatomie	median_household_income	53339
+20151	Kansas	Pratt	median_household_income	44964
+20153	Kansas	Rawlins	median_household_income	40908
+20155	Kansas	Reno	median_household_income	41892
+20157	Kansas	Republic	median_household_income	38132
+20159	Kansas	Rice	median_household_income	45420
+20161	Kansas	Riley	median_household_income	45558
+20163	Kansas	Rooks	median_household_income	39326
+20165	Kansas	Rush	median_household_income	37693
+20167	Kansas	Russell	median_household_income	37140
+20169	Kansas	Saline	median_household_income	45359
+20171	Kansas	Scott	median_household_income	49066
+20173	Kansas	Sedgwick	median_household_income	49526
+20175	Kansas	Seward	median_household_income	47855
+20177	Kansas	Shawnee	median_household_income	44816
+20179	Kansas	Sheridan	median_household_income	48498
+20181	Kansas	Sherman	median_household_income	39660
+20183	Kansas	Smith	median_household_income	38090
+20185	Kansas	Stafford	median_household_income	44133
+20187	Kansas	Stanton	median_household_income	49115
+20189	Kansas	Stevens	median_household_income	58901
+20191	Kansas	Sumner	median_household_income	47460
+20193	Kansas	Thomas	median_household_income	47892
+20195	Kansas	Trego	median_household_income	45683
+20197	Kansas	Wabaunsee	median_household_income	51666
+20199	Kansas	Wallace	median_household_income	47573
+20201	Kansas	Washington	median_household_income	39962
+20203	Kansas	Wichita	median_household_income	46929
+20205	Kansas	Wilson	median_household_income	37002
+20207	Kansas	Woodson	median_household_income	33221
+20209	Kansas	Wyandotte	median_household_income	38016
+21001	Kentucky	Adair	median_household_income	30147
+21003	Kentucky	Allen	median_household_income	35614
+21005	Kentucky	Anderson	median_household_income	51817
+21007	Kentucky	Ballard	median_household_income	40790
+21009	Kentucky	Barren	median_household_income	36298
+21011	Kentucky	Bath	median_household_income	29857
+21013	Kentucky	Bell	median_household_income	24940
+21015	Kentucky	Boone	median_household_income	64055
+21017	Kentucky	Bourbon	median_household_income	40350
+21019	Kentucky	Boyd	median_household_income	38783
+21021	Kentucky	Boyle	median_household_income	39663
+21023	Kentucky	Bracken	median_household_income	41974
+21025	Kentucky	Breathitt	median_household_income	26829
+21027	Kentucky	Breckinridge	median_household_income	38028
+21029	Kentucky	Bullitt	median_household_income	52033
+21031	Kentucky	Butler	median_household_income	32483
+21033	Kentucky	Caldwell	median_household_income	36650
+21035	Kentucky	Calloway	median_household_income	39599
+21037	Kentucky	Campbell	median_household_income	53501
+21039	Kentucky	Carlisle	median_household_income	38075
+21041	Kentucky	Carroll	median_household_income	40685
+21043	Kentucky	Carter	median_household_income	35471
+21045	Kentucky	Casey	median_household_income	28034
+21047	Kentucky	Christian	median_household_income	35779
+21049	Kentucky	Clark	median_household_income	44494
+21051	Kentucky	Clay	median_household_income	22289
+21053	Kentucky	Clinton	median_household_income	27095
+21055	Kentucky	Crittenden	median_household_income	33570
+21057	Kentucky	Cumberland	median_household_income	27570
+21059	Kentucky	Daviess	median_household_income	44379
+21061	Kentucky	Edmonson	median_household_income	36321
+21063	Kentucky	Elliott	median_household_income	29339
+21065	Kentucky	Estill	median_household_income	28961
+21067	Kentucky	Fayette	median_household_income	47211
+21069	Kentucky	Fleming	median_household_income	34736
+21071	Kentucky	Floyd	median_household_income	28459
+21073	Kentucky	Franklin	median_household_income	44241
+21075	Kentucky	Fulton	median_household_income	28340
+21077	Kentucky	Gallatin	median_household_income	41084
+21079	Kentucky	Garrard	median_household_income	40292
+21081	Kentucky	Grant	median_household_income	44158
+21083	Kentucky	Graves	median_household_income	35690
+21085	Kentucky	Grayson	median_household_income	32793
+21087	Kentucky	Green	median_household_income	31189
+21089	Kentucky	Greenup	median_household_income	41676
+21091	Kentucky	Hancock	median_household_income	52049
+21093	Kentucky	Hardin	median_household_income	47423
+21095	Kentucky	Harlan	median_household_income	28721
+21097	Kentucky	Harrison	median_household_income	39160
+21099	Kentucky	Hart	median_household_income	31677
+21101	Kentucky	Henderson	median_household_income	41244
+21103	Kentucky	Henry	median_household_income	42614
+21105	Kentucky	Hickman	median_household_income	38446
+21107	Kentucky	Hopkins	median_household_income	39733
+21109	Kentucky	Jackson	median_household_income	26344
+21111	Kentucky	Jefferson	median_household_income	45407
+21113	Kentucky	Jessamine	median_household_income	47280
+21115	Kentucky	Johnson	median_household_income	35068
+21117	Kentucky	Kenton	median_household_income	50150
+21119	Kentucky	Knott	median_household_income	29791
+21121	Kentucky	Knox	median_household_income	25536
+21123	Kentucky	Larue	median_household_income	39174
+21125	Kentucky	Laurel	median_household_income	35147
+21127	Kentucky	Lawrence	median_household_income	32275
+21129	Kentucky	Lee	median_household_income	24770
+21131	Kentucky	Leslie	median_household_income	29645
+21133	Kentucky	Letcher	median_household_income	31146
+21135	Kentucky	Lewis	median_household_income	28740
+21137	Kentucky	Lincoln	median_household_income	35530
+21139	Kentucky	Livingston	median_household_income	38724
+21141	Kentucky	Logan	median_household_income	39304
+21143	Kentucky	Lyon	median_household_income	40006
+21145	Kentucky	McCracken	median_household_income	44115
+21147	Kentucky	McCreary	median_household_income	24640
+21149	Kentucky	McLean	median_household_income	38984
+21151	Kentucky	Madison	median_household_income	40034
+21153	Kentucky	Magoffin	median_household_income	28004
+21155	Kentucky	Marion	median_household_income	36168
+21157	Kentucky	Marshall	median_household_income	45163
+21159	Kentucky	Martin	median_household_income	28880
+21161	Kentucky	Mason	median_household_income	39837
+21163	Kentucky	Meade	median_household_income	48485
+21165	Kentucky	Menifee	median_household_income	28773
+21167	Kentucky	Mercer	median_household_income	40502
+21169	Kentucky	Metcalfe	median_household_income	29852
+21171	Kentucky	Monroe	median_household_income	27480
+21173	Kentucky	Montgomery	median_household_income	40267
+21175	Kentucky	Morgan	median_household_income	29078
+21177	Kentucky	Muhlenberg	median_household_income	35316
+21179	Kentucky	Nelson	median_household_income	42271
+21181	Kentucky	Nicholas	median_household_income	34886
+21183	Kentucky	Ohio	median_household_income	37545
+21185	Kentucky	Oldham	median_household_income	80872
+21187	Kentucky	Owen	median_household_income	40909
+21189	Kentucky	Owsley	median_household_income	21865
+21191	Kentucky	Pendleton	median_household_income	44853
+21193	Kentucky	Perry	median_household_income	31623
+21195	Kentucky	Pike	median_household_income	33881
+21197	Kentucky	Powell	median_household_income	31129
+21199	Kentucky	Pulaski	median_household_income	34695
+21201	Kentucky	Robertson	median_household_income	35504
+21203	Kentucky	Rockcastle	median_household_income	30323
+21205	Kentucky	Rowan	median_household_income	34920
+21207	Kentucky	Russell	median_household_income	30691
+21209	Kentucky	Scott	median_household_income	58164
+21211	Kentucky	Shelby	median_household_income	51021
+21213	Kentucky	Simpson	median_household_income	40583
+21215	Kentucky	Spencer	median_household_income	62347
+21217	Kentucky	Taylor	median_household_income	33348
+21219	Kentucky	Todd	median_household_income	37325
+21221	Kentucky	Trigg	median_household_income	41699
+21223	Kentucky	Trimble	median_household_income	43677
+21225	Kentucky	Union	median_household_income	42059
+21227	Kentucky	Warren	median_household_income	40026
+21229	Kentucky	Washington	median_household_income	39023
+21231	Kentucky	Wayne	median_household_income	27637
+21233	Kentucky	Webster	median_household_income	40454
+21235	Kentucky	Whitley	median_household_income	29870
+21237	Kentucky	Wolfe	median_household_income	25950
+21239	Kentucky	Woodford	median_household_income	54930
+22001	Louisiana	Acadia	median_household_income	34960
+22003	Louisiana	Allen	median_household_income	34586
+22005	Louisiana	Ascension	median_household_income	63305
+22007	Louisiana	Assumption	median_household_income	44770
+22009	Louisiana	Avoyelles	median_household_income	31733
+22011	Louisiana	Beauregard	median_household_income	43673
+22013	Louisiana	Bienville	median_household_income	30750
+22015	Louisiana	Bossier	median_household_income	50577
+22017	Louisiana	Caddo	median_household_income	39948
+22019	Louisiana	Calcasieu	median_household_income	41065
+22021	Louisiana	Caldwell	median_household_income	36415
+22023	Louisiana	Cameron	median_household_income	54318
+22025	Louisiana	Catahoula	median_household_income	31678
+22027	Louisiana	Claiborne	median_household_income	34084
+22029	Louisiana	Concordia	median_household_income	29373
+22031	Louisiana	De Soto	median_household_income	40507
+22033	Louisiana	East Baton Rouge	median_household_income	45924
+22035	Louisiana	East Carroll	median_household_income	25163
+22037	Louisiana	East Feliciana	median_household_income	38478
+22039	Louisiana	Evangeline	median_household_income	32099
+22041	Louisiana	Franklin	median_household_income	29025
+22043	Louisiana	Grant	median_household_income	39539
+22045	Louisiana	Iberia	median_household_income	40626
+22047	Louisiana	Iberville	median_household_income	37832
+22049	Louisiana	Jackson	median_household_income	36032
+22051	Louisiana	Jefferson	median_household_income	43700
+22053	Louisiana	Jefferson Davis	median_household_income	38723
+22055	Louisiana	Lafayette	median_household_income	47138
+22057	Louisiana	Lafourche	median_household_income	48180
+22059	Louisiana	La Salle	median_household_income	42576
+22061	Louisiana	Lincoln	median_household_income	34497
+22063	Louisiana	Livingston	median_household_income	53700
+22065	Louisiana	Madison	median_household_income	23240
+22067	Louisiana	Morehouse	median_household_income	26778
+22069	Louisiana	Natchitoches	median_household_income	32203
+22071	Louisiana	Orleans	median_household_income	34851
+22073	Louisiana	Ouachita	median_household_income	35770
+22075	Louisiana	Plaquemines	median_household_income	52259
+22077	Louisiana	Pointe Coupee	median_household_income	40052
+22079	Louisiana	Rapides	median_household_income	36624
+22081	Louisiana	Red River	median_household_income	32650
+22083	Louisiana	Richland	median_household_income	32148
+22085	Louisiana	Sabine	median_household_income	37875
+22087	Louisiana	St. Bernard	median_household_income	38068
+22089	Louisiana	St. Charles	median_household_income	54860
+22091	Louisiana	St. Helena	median_household_income	33721
+22093	Louisiana	St. James	median_household_income	43701
+22095	Louisiana	St. John the Baptist	median_household_income	50483
+22097	Louisiana	St. Landry	median_household_income	33750
+22099	Louisiana	St. Martin	median_household_income	38826
+22101	Louisiana	St. Mary	median_household_income	38813
+22103	Louisiana	St. Tammany	median_household_income	57694
+22105	Louisiana	Tangipahoa	median_household_income	38420
+22107	Louisiana	Tensas	median_household_income	26903
+22109	Louisiana	Terrebonne	median_household_income	45054
+22111	Louisiana	Union	median_household_income	34958
+22113	Louisiana	Vermilion	median_household_income	39091
+22115	Louisiana	Vernon	median_household_income	45726
+22117	Louisiana	Washington	median_household_income	29443
+22119	Louisiana	Webster	median_household_income	35908
+22121	Louisiana	West Baton Rouge	median_household_income	46155
+22123	Louisiana	West Carroll	median_household_income	27781
+22125	Louisiana	West Feliciana	median_household_income	49479
+22127	Louisiana	Winn	median_household_income	33875
+23001	Maine	Androscoggin	median_household_income	43899
+23003	Maine	Aroostook	median_household_income	35572
+23005	Maine	Cumberland	median_household_income	55459
+23007	Maine	Franklin	median_household_income	39405
+23009	Maine	Hancock	median_household_income	44599
+23011	Maine	Kennebec	median_household_income	44441
+23013	Maine	Knox	median_household_income	46366
+23015	Maine	Lincoln	median_household_income	45674
+23017	Maine	Oxford	median_household_income	37915
+23019	Maine	Penobscot	median_household_income	41199
+23021	Maine	Piscataquis	median_household_income	36017
+23023	Maine	Sagadahoc	median_household_income	52187
+23025	Maine	Somerset	median_household_income	37339
+23027	Maine	Waldo	median_household_income	41888
+23029	Maine	Washington	median_household_income	33637
+23031	Maine	York	median_household_income	55725
+24001	Maryland	Allegany	median_household_income	38504
+24003	Maryland	Anne Arundel	median_household_income	82980
+24005	Maryland	Baltimore	median_household_income	62309
+24009	Maryland	Calvert	median_household_income	88406
+24011	Maryland	Caroline	median_household_income	50809
+24013	Maryland	Carroll	median_household_income	82553
+24015	Maryland	Cecil	median_household_income	61191
+24017	Maryland	Charles	median_household_income	88575
+24019	Maryland	Dorchester	median_household_income	41936
+24021	Maryland	Frederick	median_household_income	77872
+24023	Maryland	Garrett	median_household_income	41829
+24025	Maryland	Harford	median_household_income	77095
+24027	Maryland	Howard	median_household_income	99040
+24029	Maryland	Kent	median_household_income	49795
+24031	Maryland	Montgomery	median_household_income	92288
+24033	Maryland	Prince George's	median_household_income	70114
+24035	Maryland	Queen Anne's	median_household_income	75158
+24037	Maryland	St. Mary's	median_household_income	80943
+24039	Maryland	Somerset	median_household_income	35426
+24041	Maryland	Talbot	median_household_income	55145
+24043	Maryland	Washington	median_household_income	52028
+24045	Maryland	Wicomico	median_household_income	45788
+24047	Maryland	Worcester	median_household_income	48472
+24510	Maryland	Baltimore City	median_household_income	38478
+25001	Massachusetts	Barnstable	median_household_income	56167
+25003	Massachusetts	Berkshire	median_household_income	43813
+25005	Massachusetts	Bristol	median_household_income	53307
+25007	Massachusetts	Dukes	median_household_income	58133
+25009	Massachusetts	Essex	median_household_income	64303
+25011	Massachusetts	Franklin	median_household_income	49940
+25013	Massachusetts	Hampden	median_household_income	47313
+25015	Massachusetts	Hampshire	median_household_income	54548
+25017	Massachusetts	Middlesex	median_household_income	76803
+25019	Massachusetts	Nantucket	median_household_income	68431
+25021	Massachusetts	Norfolk	median_household_income	81590
+25023	Massachusetts	Plymouth	median_household_income	67989
+25025	Massachusetts	Suffolk	median_household_income	49033
+25027	Massachusetts	Worcester	median_household_income	60396
+26001	Michigan	Alcona	median_household_income	35407
+26003	Michigan	Alger	median_household_income	39486
+26005	Michigan	Allegan	median_household_income	50559
+26007	Michigan	Alpena	median_household_income	37270
+26009	Michigan	Antrim	median_household_income	41679
+26011	Michigan	Arenac	median_household_income	38008
+26013	Michigan	Baraga	median_household_income	38119
+26015	Michigan	Barry	median_household_income	50051
+26017	Michigan	Bay	median_household_income	43068
+26019	Michigan	Benzie	median_household_income	45998
+26021	Michigan	Berrien	median_household_income	40946
+26023	Michigan	Branch	median_household_income	40462
+26025	Michigan	Calhoun	median_household_income	39694
+26027	Michigan	Cass	median_household_income	44626
+26029	Michigan	Charlevoix	median_household_income	44061
+26031	Michigan	Cheboygan	median_household_income	37133
+26033	Michigan	Chippewa	median_household_income	39520
+26035	Michigan	Clare	median_household_income	31443
+26037	Michigan	Clinton	median_household_income	58286
+26039	Michigan	Crawford	median_household_income	37874
+26041	Michigan	Delta	median_household_income	40982
+26043	Michigan	Dickinson	median_household_income	44262
+26045	Michigan	Eaton	median_household_income	51428
+26047	Michigan	Emmet	median_household_income	48285
+26049	Michigan	Genesee	median_household_income	40854
+26051	Michigan	Gladwin	median_household_income	34747
+26053	Michigan	Gogebic	median_household_income	33382
+26055	Michigan	Grand Traverse	median_household_income	46786
+26057	Michigan	Gratiot	median_household_income	40359
+26059	Michigan	Hillsdale	median_household_income	41030
+26061	Michigan	Houghton	median_household_income	35425
+26063	Michigan	Huron	median_household_income	39726
+26065	Michigan	Ingham	median_household_income	42371
+26067	Michigan	Ionia	median_household_income	46072
+26069	Michigan	Iosco	median_household_income	33487
+26071	Michigan	Iron	median_household_income	34384
+26073	Michigan	Isabella	median_household_income	38154
+26075	Michigan	Jackson	median_household_income	42379
+26077	Michigan	Kalamazoo	median_household_income	45798
+26079	Michigan	Kalkaska	median_household_income	38053
+26081	Michigan	Kent	median_household_income	50651
+26083	Michigan	Keweenaw	median_household_income	38207
+26085	Michigan	Lake	median_household_income	28971
+26087	Michigan	Lapeer	median_household_income	50232
+26089	Michigan	Leelanau	median_household_income	51267
+26091	Michigan	Lenawee	median_household_income	45512
+26093	Michigan	Livingston	median_household_income	68895
+26095	Michigan	Luce	median_household_income	36515
+26097	Michigan	Mackinac	median_household_income	36393
+26099	Michigan	Macomb	median_household_income	50958
+26101	Michigan	Manistee	median_household_income	39347
+26103	Michigan	Marquette	median_household_income	41663
+26105	Michigan	Mason	median_household_income	39101
+26107	Michigan	Mecosta	median_household_income	38634
+26109	Michigan	Menominee	median_household_income	39292
+26111	Michigan	Midland	median_household_income	53764
+26113	Michigan	Missaukee	median_household_income	37616
+26115	Michigan	Monroe	median_household_income	54174
+26117	Michigan	Montcalm	median_household_income	41023
+26119	Michigan	Montmorency	median_household_income	32241
+26121	Michigan	Muskegon	median_household_income	38482
+26123	Michigan	Newaygo	median_household_income	41674
+26125	Michigan	Oakland	median_household_income	61961
+26127	Michigan	Oceana	median_household_income	39670
+26129	Michigan	Ogemaw	median_household_income	33222
+26131	Michigan	Ontonagon	median_household_income	34352
+26133	Michigan	Osceola	median_household_income	38404
+26135	Michigan	Oscoda	median_household_income	31579
+26137	Michigan	Otsego	median_household_income	44129
+26139	Michigan	Ottawa	median_household_income	54461
+26141	Michigan	Presque Isle	median_household_income	39483
+26143	Michigan	Roscommon	median_household_income	32742
+26145	Michigan	Saginaw	median_household_income	40411
+26147	Michigan	St. Clair	median_household_income	45858
+26149	Michigan	St. Joseph	median_household_income	40796
+26151	Michigan	Sanilac	median_household_income	37465
+26153	Michigan	Schoolcraft	median_household_income	38366
+26155	Michigan	Shiawassee	median_household_income	46811
+26157	Michigan	Tuscola	median_household_income	42808
+26159	Michigan	Van Buren	median_household_income	41600
+26161	Michigan	Washtenaw	median_household_income	56789
+26163	Michigan	Wayne	median_household_income	38479
+26165	Michigan	Wexford	median_household_income	43873
+27001	Minnesota	Aitkin	median_household_income	39958
+27003	Minnesota	Anoka	median_household_income	63799
+27005	Minnesota	Becker	median_household_income	47819
+27007	Minnesota	Beltrami	median_household_income	40657
+27009	Minnesota	Benton	median_household_income	49482
+27011	Minnesota	Big Stone	median_household_income	43190
+27013	Minnesota	Blue Earth	median_household_income	46280
+27015	Minnesota	Brown	median_household_income	50339
+27017	Minnesota	Carlton	median_household_income	49357
+27019	Minnesota	Carver	median_household_income	85314
+27021	Minnesota	Cass	median_household_income	42297
+27023	Minnesota	Chippewa	median_household_income	46545
+27025	Minnesota	Chisago	median_household_income	62776
+27027	Minnesota	Clay	median_household_income	52731
+27029	Minnesota	Clearwater	median_household_income	36697
+27031	Minnesota	Cook	median_household_income	44278
+27033	Minnesota	Cottonwood	median_household_income	44504
+27035	Minnesota	Crow Wing	median_household_income	45514
+27037	Minnesota	Dakota	median_household_income	70064
+27039	Minnesota	Dodge	median_household_income	65423
+27041	Minnesota	Douglas	median_household_income	49161
+27043	Minnesota	Faribault	median_household_income	43567
+27045	Minnesota	Fillmore	median_household_income	47241
+27047	Minnesota	Freeborn	median_household_income	44352
+27049	Minnesota	Goodhue	median_household_income	54724
+27051	Minnesota	Grant	median_household_income	43715
+27053	Minnesota	Hennepin	median_household_income	60811
+27055	Minnesota	Houston	median_household_income	52325
+27057	Minnesota	Hubbard	median_household_income	41196
+27059	Minnesota	Isanti	median_household_income	57860
+27061	Minnesota	Itasca	median_household_income	44957
+27063	Minnesota	Jackson	median_household_income	47337
+27065	Minnesota	Kanabec	median_household_income	44691
+27067	Minnesota	Kandiyohi	median_household_income	49543
+27069	Minnesota	Kittson	median_household_income	45740
+27071	Minnesota	Koochiching	median_household_income	42771
+27073	Minnesota	Lac qui Parle	median_household_income	49670
+27075	Minnesota	Lake	median_household_income	48683
+27077	Minnesota	Lake of the Woods	median_household_income	39777
+27079	Minnesota	Le Sueur	median_household_income	54468
+27081	Minnesota	Lincoln	median_household_income	43996
+27083	Minnesota	Lyon	median_household_income	50031
+27085	Minnesota	McLeod	median_household_income	52120
+27087	Minnesota	Mahnomen	median_household_income	37593
+27089	Minnesota	Marshall	median_household_income	47760
+27091	Minnesota	Martin	median_household_income	44597
+27093	Minnesota	Meeker	median_household_income	51299
+27095	Minnesota	Mille Lacs	median_household_income	43155
+27097	Minnesota	Morrison	median_household_income	44928
+27099	Minnesota	Mower	median_household_income	46860
+27101	Minnesota	Murray	median_household_income	52281
+27103	Minnesota	Nicollet	median_household_income	55360
+27105	Minnesota	Nobles	median_household_income	44945
+27107	Minnesota	Norman	median_household_income	44576
+27109	Minnesota	Olmsted	median_household_income	66997
+27111	Minnesota	Otter Tail	median_household_income	47879
+27113	Minnesota	Pennington	median_household_income	41986
+27115	Minnesota	Pine	median_household_income	42447
+27117	Minnesota	Pipestone	median_household_income	43726
+27119	Minnesota	Polk	median_household_income	49978
+27121	Minnesota	Pope	median_household_income	47165
+27123	Minnesota	Ramsey	median_household_income	51719
+27125	Minnesota	Red Lake	median_household_income	44658
+27127	Minnesota	Redwood	median_household_income	47858
+27129	Minnesota	Renville	median_household_income	49153
+27131	Minnesota	Rice	median_household_income	56781
+27133	Minnesota	Rock	median_household_income	49920
+27135	Minnesota	Roseau	median_household_income	48344
+27137	Minnesota	St. Louis	median_household_income	44475
+27139	Minnesota	Scott	median_household_income	81586
+27141	Minnesota	Sherburne	median_household_income	68646
+27143	Minnesota	Sibley	median_household_income	53047
+27145	Minnesota	Stearns	median_household_income	52053
+27147	Minnesota	Steele	median_household_income	54971
+27149	Minnesota	Stevens	median_household_income	46892
+27151	Minnesota	Swift	median_household_income	46209
+27153	Minnesota	Todd	median_household_income	41290
+27155	Minnesota	Traverse	median_household_income	45815
+27157	Minnesota	Wabasha	median_household_income	53899
+27159	Minnesota	Wadena	median_household_income	36097
+27161	Minnesota	Waseca	median_household_income	52660
+27163	Minnesota	Washington	median_household_income	77069
+27165	Minnesota	Watonwan	median_household_income	46565
+27167	Minnesota	Wilkin	median_household_income	50004
+27169	Minnesota	Winona	median_household_income	46028
+27171	Minnesota	Wright	median_household_income	68387
+27173	Minnesota	Yellow Medicine	median_household_income	46586
+28001	Mississippi	Adams	median_household_income	26722
+28003	Mississippi	Alcorn	median_household_income	31496
+28005	Mississippi	Amite	median_household_income	32824
+28007	Mississippi	Attala	median_household_income	30108
+28009	Mississippi	Benton	median_household_income	27834
+28011	Mississippi	Bolivar	median_household_income	28802
+28013	Mississippi	Calhoun	median_household_income	32453
+28015	Mississippi	Carroll	median_household_income	34876
+28017	Mississippi	Chickasaw	median_household_income	30524
+28019	Mississippi	Choctaw	median_household_income	31177
+28021	Mississippi	Claiborne	median_household_income	22802
+28023	Mississippi	Clarke	median_household_income	32875
+28025	Mississippi	Clay	median_household_income	30243
+28027	Mississippi	Coahoma	median_household_income	27349
+28029	Mississippi	Copiah	median_household_income	31971
+28031	Mississippi	Covington	median_household_income	31655
+28033	Mississippi	DeSoto	median_household_income	54495
+28035	Mississippi	Forrest	median_household_income	33203
+28037	Mississippi	Franklin	median_household_income	33979
+28039	Mississippi	George	median_household_income	42596
+28041	Mississippi	Greene	median_household_income	37362
+28043	Mississippi	Grenada	median_household_income	32543
+28045	Mississippi	Hancock	median_household_income	39996
+28047	Mississippi	Harrison	median_household_income	39046
+28049	Mississippi	Hinds	median_household_income	35014
+28051	Mississippi	Holmes	median_household_income	22623
+28053	Mississippi	Humphreys	median_household_income	23169
+28055	Mississippi	Issaquena	median_household_income	27683
+28057	Mississippi	Itawamba	median_household_income	37848
+28059	Mississippi	Jackson	median_household_income	47672
+28061	Mississippi	Jasper	median_household_income	30574
+28063	Mississippi	Jefferson	median_household_income	23420
+28065	Mississippi	Jefferson Davis	median_household_income	27808
+28067	Mississippi	Jones	median_household_income	37030
+28069	Mississippi	Kemper	median_household_income	27601
+28071	Mississippi	Lafayette	median_household_income	39853
+28073	Mississippi	Lamar	median_household_income	49250
+28075	Mississippi	Lauderdale	median_household_income	36420
+28077	Mississippi	Lawrence	median_household_income	35396
+28079	Mississippi	Leake	median_household_income	33007
+28081	Mississippi	Lee	median_household_income	40983
+28083	Mississippi	Leflore	median_household_income	24839
+28085	Mississippi	Lincoln	median_household_income	36112
+28087	Mississippi	Lowndes	median_household_income	38605
+28089	Mississippi	Madison	median_household_income	55692
+28091	Mississippi	Marion	median_household_income	31368
+28093	Mississippi	Marshall	median_household_income	32943
+28095	Mississippi	Monroe	median_household_income	34735
+28097	Mississippi	Montgomery	median_household_income	31249
+28099	Mississippi	Neshoba	median_household_income	34658
+28101	Mississippi	Newton	median_household_income	34269
+28103	Mississippi	Noxubee	median_household_income	21929
+28105	Mississippi	Oktibbeha	median_household_income	31937
+28107	Mississippi	Panola	median_household_income	32764
+28109	Mississippi	Pearl River	median_household_income	38276
+28111	Mississippi	Perry	median_household_income	34766
+28113	Mississippi	Pike	median_household_income	31142
+28115	Mississippi	Pontotoc	median_household_income	38348
+28117	Mississippi	Prentiss	median_household_income	32927
+28119	Mississippi	Quitman	median_household_income	24786
+28121	Mississippi	Rankin	median_household_income	59890
+28123	Mississippi	Scott	median_household_income	32004
+28125	Mississippi	Sharkey	median_household_income	26439
+28127	Mississippi	Simpson	median_household_income	32348
+28129	Mississippi	Smith	median_household_income	36311
+28131	Mississippi	Stone	median_household_income	39113
+28133	Mississippi	Sunflower	median_household_income	26788
+28135	Mississippi	Tallahatchie	median_household_income	27789
+28137	Mississippi	Tate	median_household_income	42201
+28139	Mississippi	Tippah	median_household_income	33701
+28141	Mississippi	Tishomingo	median_household_income	33494
+28143	Mississippi	Tunica	median_household_income	29631
+28145	Mississippi	Union	median_household_income	36925
+28147	Mississippi	Walthall	median_household_income	28707
+28149	Mississippi	Warren	median_household_income	38874
+28151	Mississippi	Washington	median_household_income	29287
+28153	Mississippi	Wayne	median_household_income	32817
+28155	Mississippi	Webster	median_household_income	32935
+28157	Mississippi	Wilkinson	median_household_income	26738
+28159	Mississippi	Winston	median_household_income	31826
+28161	Mississippi	Yalobusha	median_household_income	32022
+28163	Mississippi	Yazoo	median_household_income	28449
+29001	Missouri	Adair	median_household_income	33639
+29003	Missouri	Andrew	median_household_income	54994
+29005	Missouri	Atchison	median_household_income	43322
+29007	Missouri	Audrain	median_household_income	39554
+29009	Missouri	Barry	median_household_income	36546
+29011	Missouri	Barton	median_household_income	36076
+29013	Missouri	Bates	median_household_income	40376
+29015	Missouri	Benton	median_household_income	36255
+29017	Missouri	Bollinger	median_household_income	38565
+29019	Missouri	Boone	median_household_income	46769
+29021	Missouri	Buchanan	median_household_income	42031
+29023	Missouri	Butler	median_household_income	33480
+29025	Missouri	Caldwell	median_household_income	44206
+29027	Missouri	Callaway	median_household_income	45968
+29029	Missouri	Camden	median_household_income	40370
+29031	Missouri	Cape Girardeau	median_household_income	41755
+29033	Missouri	Carroll	median_household_income	40035
+29035	Missouri	Carter	median_household_income	27878
+29037	Missouri	Cass	median_household_income	54969
+29039	Missouri	Cedar	median_household_income	30536
+29041	Missouri	Chariton	median_household_income	41409
+29043	Missouri	Christian	median_household_income	50426
+29045	Missouri	Clark	median_household_income	38597
+29047	Missouri	Clay	median_household_income	59039
+29049	Missouri	Clinton	median_household_income	49202
+29051	Missouri	Cole	median_household_income	54396
+29053	Missouri	Cooper	median_household_income	42482
+29055	Missouri	Crawford	median_household_income	38215
+29057	Missouri	Dade	median_household_income	33754
+29059	Missouri	Dallas	median_household_income	33535
+29061	Missouri	Daviess	median_household_income	38820
+29063	Missouri	DeKalb	median_household_income	41264
+29065	Missouri	Dent	median_household_income	34288
+29067	Missouri	Douglas	median_household_income	30071
+29069	Missouri	Dunklin	median_household_income	32018
+29071	Missouri	Franklin	median_household_income	47663
+29073	Missouri	Gasconade	median_household_income	39751
+29075	Missouri	Gentry	median_household_income	37314
+29077	Missouri	Greene	median_household_income	40423
+29079	Missouri	Grundy	median_household_income	35002
+29081	Missouri	Harrison	median_household_income	35626
+29083	Missouri	Henry	median_household_income	38410
+29085	Missouri	Hickory	median_household_income	30049
+29087	Missouri	Holt	median_household_income	41054
+29089	Missouri	Howard	median_household_income	42733
+29091	Missouri	Howell	median_household_income	31645
+29093	Missouri	Iron	median_household_income	32173
+29095	Missouri	Jackson	median_household_income	44508
+29097	Missouri	Jasper	median_household_income	39359
+29099	Missouri	Jefferson	median_household_income	51008
+29101	Missouri	Johnson	median_household_income	48483
+29103	Missouri	Knox	median_household_income	33381
+29105	Missouri	Laclede	median_household_income	37442
+29107	Missouri	Lafayette	median_household_income	47604
+29109	Missouri	Lawrence	median_household_income	41128
+29111	Missouri	Lewis	median_household_income	40795
+29113	Missouri	Lincoln	median_household_income	50523
+29115	Missouri	Linn	median_household_income	35697
+29117	Missouri	Livingston	median_household_income	37956
+29119	Missouri	McDonald	median_household_income	34497
+29121	Missouri	Macon	median_household_income	36969
+29123	Missouri	Madison	median_household_income	32734
+29125	Missouri	Maries	median_household_income	38568
+29127	Missouri	Marion	median_household_income	36120
+29129	Missouri	Mercer	median_household_income	35483
+29131	Missouri	Miller	median_household_income	35573
+29133	Missouri	Mississippi	median_household_income	29533
+29135	Missouri	Moniteau	median_household_income	43931
+29137	Missouri	Monroe	median_household_income	40176
+29139	Missouri	Montgomery	median_household_income	38722
+29141	Missouri	Morgan	median_household_income	34885
+29143	Missouri	New Madrid	median_household_income	35522
+29145	Missouri	Newton	median_household_income	41722
+29147	Missouri	Nodaway	median_household_income	38478
+29149	Missouri	Oregon	median_household_income	27616
+29151	Missouri	Osage	median_household_income	49977
+29153	Missouri	Ozark	median_household_income	30284
+29155	Missouri	Pemiscot	median_household_income	26647
+29157	Missouri	Perry	median_household_income	43899
+29159	Missouri	Pettis	median_household_income	38026
+29161	Missouri	Phelps	median_household_income	39880
+29163	Missouri	Pike	median_household_income	38595
+29165	Missouri	Platte	median_household_income	63676
+29167	Missouri	Polk	median_household_income	38112
+29169	Missouri	Pulaski	median_household_income	49600
+29171	Missouri	Putnam	median_household_income	34146
+29173	Missouri	Ralls	median_household_income	46640
+29175	Missouri	Randolph	median_household_income	36590
+29177	Missouri	Ray	median_household_income	52222
+29179	Missouri	Reynolds	median_household_income	29475
+29181	Missouri	Ripley	median_household_income	27794
+29183	Missouri	St. Charles	median_household_income	67074
+29185	Missouri	St. Clair	median_household_income	30098
+29186	Missouri	Ste. Genevieve	median_household_income	48217
+29187	Missouri	St. Francois	median_household_income	35252
+29189	Missouri	St. Louis	median_household_income	55131
+29195	Missouri	Saline	median_household_income	38379
+29197	Missouri	Schuyler	median_household_income	33322
+29199	Missouri	Scotland	median_household_income	36804
+29201	Missouri	Scott	median_household_income	37793
+29203	Missouri	Shannon	median_household_income	25684
+29205	Missouri	Shelby	median_household_income	35321
+29207	Missouri	Stoddard	median_household_income	35916
+29209	Missouri	Stone	median_household_income	37302
+29211	Missouri	Sullivan	median_household_income	36039
+29213	Missouri	Taney	median_household_income	36176
+29215	Missouri	Texas	median_household_income	32193
+29217	Missouri	Vernon	median_household_income	37342
+29219	Missouri	Warren	median_household_income	50773
+29221	Missouri	Washington	median_household_income	30896
+29223	Missouri	Wayne	median_household_income	28066
+29225	Missouri	Webster	median_household_income	39261
+29227	Missouri	Worth	median_household_income	38105
+29229	Missouri	Wright	median_household_income	27007
+29510	Missouri	St. Louis City	median_household_income	32576
+30001	Montana	Beaverhead	median_household_income	38632
+30003	Montana	Big Horn	median_household_income	34778
+30005	Montana	Blaine	median_household_income	36562
+30007	Montana	Broadwater	median_household_income	44183
+30009	Montana	Carbon	median_household_income	43223
+30011	Montana	Carter	median_household_income	35540
+30013	Montana	Cascade	median_household_income	42525
+30015	Montana	Chouteau	median_household_income	38106
+30017	Montana	Custer	median_household_income	42308
+30019	Montana	Daniels	median_household_income	43585
+30021	Montana	Dawson	median_household_income	44925
+30023	Montana	Deer Lodge	median_household_income	34375
+30025	Montana	Fallon	median_household_income	50823
+30027	Montana	Fergus	median_household_income	38912
+30029	Montana	Flathead	median_household_income	44006
+30031	Montana	Gallatin	median_household_income	50042
+30033	Montana	Garfield	median_household_income	34607
+30035	Montana	Glacier	median_household_income	33766
+30037	Montana	Golden Valley	median_household_income	32236
+30039	Montana	Granite	median_household_income	38140
+30041	Montana	Hill	median_household_income	42014
+30043	Montana	Jefferson	median_household_income	56280
+30045	Montana	Judith Basin	median_household_income	37657
+30047	Montana	Lake	median_household_income	37135
+30049	Montana	Lewis and Clark	median_household_income	52510
+30051	Montana	Liberty	median_household_income	35769
+30053	Montana	Lincoln	median_household_income	33656
+30055	Montana	McCone	median_household_income	39993
+30057	Montana	Madison	median_household_income	42799
+30059	Montana	Meagher	median_household_income	35591
+30061	Montana	Mineral	median_household_income	33416
+30063	Montana	Missoula	median_household_income	42082
+30065	Montana	Musselshell	median_household_income	37495
+30067	Montana	Park	median_household_income	42332
+30069	Montana	Petroleum	median_household_income	31891
+30071	Montana	Phillips	median_household_income	37217
+30073	Montana	Pondera	median_household_income	37218
+30075	Montana	Powder River	median_household_income	38756
+30077	Montana	Powell	median_household_income	37850
+30079	Montana	Prairie	median_household_income	35144
+30081	Montana	Ravalli	median_household_income	39421
+30083	Montana	Richland	median_household_income	55593
+30085	Montana	Roosevelt	median_household_income	33152
+30087	Montana	Rosebud	median_household_income	45838
+30089	Montana	Sanders	median_household_income	30703
+30091	Montana	Sheridan	median_household_income	44992
+30093	Montana	Silver Bow	median_household_income	39586
+30095	Montana	Stillwater	median_household_income	49185
+30097	Montana	Sweet Grass	median_household_income	40859
+30099	Montana	Teton	median_household_income	39479
+30101	Montana	Toole	median_household_income	38983
+30103	Montana	Treasure	median_household_income	42837
+30105	Montana	Valley	median_household_income	46566
+30107	Montana	Wheatland	median_household_income	28086
+30109	Montana	Wibaux	median_household_income	38722
+30111	Montana	Yellowstone	median_household_income	47346
+31001	Nebraska	Adams	median_household_income	46321
+31003	Nebraska	Antelope	median_household_income	44394
+31005	Nebraska	Arthur	median_household_income	37578
+31007	Nebraska	Banner	median_household_income	29383
+31009	Nebraska	Blaine	median_household_income	35133
+31011	Nebraska	Boone	median_household_income	46354
+31013	Nebraska	Box Butte	median_household_income	50430
+31015	Nebraska	Boyd	median_household_income	36181
+31017	Nebraska	Brown	median_household_income	38011
+31019	Nebraska	Buffalo	median_household_income	50346
+31021	Nebraska	Burt	median_household_income	46434
+31023	Nebraska	Butler	median_household_income	53928
+31025	Nebraska	Cass	median_household_income	60091
+31027	Nebraska	Cedar	median_household_income	48085
+31029	Nebraska	Chase	median_household_income	45885
+31031	Nebraska	Cherry	median_household_income	39638
+31033	Nebraska	Cheyenne	median_household_income	49065
+31035	Nebraska	Clay	median_household_income	47339
+31037	Nebraska	Colfax	median_household_income	45936
+31039	Nebraska	Cuming	median_household_income	47273
+31041	Nebraska	Custer	median_household_income	40928
+31043	Nebraska	Dakota	median_household_income	47067
+31045	Nebraska	Dawes	median_household_income	38824
+31047	Nebraska	Dawson	median_household_income	43224
+31049	Nebraska	Deuel	median_household_income	40417
+31051	Nebraska	Dixon	median_household_income	46524
+31053	Nebraska	Dodge	median_household_income	46246
+31055	Nebraska	Douglas	median_household_income	51741
+31057	Nebraska	Dundy	median_household_income	40556
+31059	Nebraska	Fillmore	median_household_income	48192
+31061	Nebraska	Franklin	median_household_income	41551
+31063	Nebraska	Frontier	median_household_income	50811
+31065	Nebraska	Furnas	median_household_income	39868
+31067	Nebraska	Gage	median_household_income	45221
+31069	Nebraska	Garden	median_household_income	36486
+31071	Nebraska	Garfield	median_household_income	36318
+31073	Nebraska	Gosper	median_household_income	48409
+31075	Nebraska	Grant	median_household_income	40482
+31077	Nebraska	Greeley	median_household_income	37241
+31079	Nebraska	Hall	median_household_income	45043
+31081	Nebraska	Hamilton	median_household_income	58591
+31083	Nebraska	Harlan	median_household_income	44467
+31085	Nebraska	Hayes	median_household_income	43321
+31087	Nebraska	Hitchcock	median_household_income	39411
+31089	Nebraska	Holt	median_household_income	42844
+31091	Nebraska	Hooker	median_household_income	38397
+31093	Nebraska	Howard	median_household_income	45336
+31095	Nebraska	Jefferson	median_household_income	42418
+31097	Nebraska	Johnson	median_household_income	43526
+31099	Nebraska	Kearney	median_household_income	53129
+31101	Nebraska	Keith	median_household_income	40154
+31103	Nebraska	Keya Paha	median_household_income	35436
+31105	Nebraska	Kimball	median_household_income	40240
+31107	Nebraska	Knox	median_household_income	39178
+31109	Nebraska	Lancaster	median_household_income	49046
+31111	Nebraska	Lincoln	median_household_income	49139
+31113	Nebraska	Logan	median_household_income	46820
+31115	Nebraska	Loup	median_household_income	37885
+31117	Nebraska	McPherson	median_household_income	38097
+31119	Nebraska	Madison	median_household_income	46363
+31121	Nebraska	Merrick	median_household_income	50714
+31123	Nebraska	Morrill	median_household_income	42378
+31125	Nebraska	Nance	median_household_income	42629
+31127	Nebraska	Nemaha	median_household_income	44705
+31129	Nebraska	Nuckolls	median_household_income	36861
+31131	Nebraska	Otoe	median_household_income	48509
+31133	Nebraska	Pawnee	median_household_income	37006
+31135	Nebraska	Perkins	median_household_income	50293
+31137	Nebraska	Phelps	median_household_income	51371
+31139	Nebraska	Pierce	median_household_income	51019
+31141	Nebraska	Platte	median_household_income	51209
+31143	Nebraska	Polk	median_household_income	51981
+31145	Nebraska	Red Willow	median_household_income	44250
+31147	Nebraska	Richardson	median_household_income	37197
+31149	Nebraska	Rock	median_household_income	37225
+31151	Nebraska	Saline	median_household_income	47635
+31153	Nebraska	Sarpy	median_household_income	65801
+31155	Nebraska	Saunders	median_household_income	56466
+31157	Nebraska	Scotts Bluff	median_household_income	41905
+31159	Nebraska	Seward	median_household_income	58898
+31161	Nebraska	Sheridan	median_household_income	37695
+31163	Nebraska	Sherman	median_household_income	40734
+31165	Nebraska	Sioux	median_household_income	38646
+31167	Nebraska	Stanton	median_household_income	48448
+31169	Nebraska	Thayer	median_household_income	44818
+31171	Nebraska	Thomas	median_household_income	41783
+31173	Nebraska	Thurston	median_household_income	38786
+31175	Nebraska	Valley	median_household_income	40802
+31177	Nebraska	Washington	median_household_income	68406
+31179	Nebraska	Wayne	median_household_income	46980
+31181	Nebraska	Webster	median_household_income	39018
+31183	Nebraska	Wheeler	median_household_income	38340
+31185	Nebraska	York	median_household_income	47936
+32001	Nevada	Churchill	median_household_income	50620
+32003	Nevada	Clark	median_household_income	48343
+32005	Nevada	Douglas	median_household_income	54640
+32007	Nevada	Elko	median_household_income	62937
+32009	Nevada	Esmeralda	median_household_income	40536
+32011	Nevada	Eureka	median_household_income	58985
+32013	Nevada	Humboldt	median_household_income	61680
+32015	Nevada	Lander	median_household_income	64392
+32017	Nevada	Lincoln	median_household_income	42724
+32019	Nevada	Lyon	median_household_income	44877
+32021	Nevada	Mineral	median_household_income	39705
+32023	Nevada	Nye	median_household_income	41150
+32027	Nevada	Pershing	median_household_income	46683
+32029	Nevada	Storey	median_household_income	54582
+32031	Nevada	Washoe	median_household_income	50910
+32033	Nevada	White Pine	median_household_income	52014
+32510	Nevada	Carson City	median_household_income	50689
+33001	New Hampshire	Belknap	median_household_income	55422
+33003	New Hampshire	Carroll	median_household_income	45582
+33005	New Hampshire	Cheshire	median_household_income	53111
+33007	New Hampshire	Coos	median_household_income	37677
+33009	New Hampshire	Grafton	median_household_income	51289
+33011	New Hampshire	Hillsborough	median_household_income	66275
+33013	New Hampshire	Merrimack	median_household_income	64482
+33015	New Hampshire	Rockingham	median_household_income	75285
+33017	New Hampshire	Strafford	median_household_income	54783
+33019	New Hampshire	Sullivan	median_household_income	47868
+34001	New Jersey	Atlantic	median_household_income	49983
+34003	New Jersey	Bergen	median_household_income	79037
+34005	New Jersey	Burlington	median_household_income	72594
+34007	New Jersey	Camden	median_household_income	57261
+34009	New Jersey	Cape May	median_household_income	52312
+34011	New Jersey	Cumberland	median_household_income	49465
+34013	New Jersey	Essex	median_household_income	51021
+34015	New Jersey	Gloucester	median_household_income	70618
+34017	New Jersey	Hudson	median_household_income	55133
+34019	New Jersey	Hunterdon	median_household_income	99216
+34021	New Jersey	Mercer	median_household_income	71926
+34023	New Jersey	Middlesex	median_household_income	73914
+34025	New Jersey	Monmouth	median_household_income	79062
+34027	New Jersey	Morris	median_household_income	91420
+34029	New Jersey	Ocean	median_household_income	56851
+34031	New Jersey	Passaic	median_household_income	52243
+34033	New Jersey	Salem	median_household_income	53890
+34035	New Jersey	Somerset	median_household_income	95915
+34037	New Jersey	Sussex	median_household_income	82987
+34039	New Jersey	Union	median_household_income	65178
+34041	New Jersey	Warren	median_household_income	66857
+35001	New Mexico	Bernalillo	median_household_income	44224
+35003	New Mexico	Catron	median_household_income	37277
+35005	New Mexico	Chaves	median_household_income	35894
+35006	New Mexico	Cibola	median_household_income	33345
+35007	New Mexico	Colfax	median_household_income	33988
+35009	New Mexico	Curry	median_household_income	38423
+35011	New Mexico	De Baca	median_household_income	30017
+35013	New Mexico	Dona Ana	median_household_income	36136
+35015	New Mexico	Eddy	median_household_income	46212
+35017	New Mexico	Grant	median_household_income	34686
+35019	New Mexico	Guadalupe	median_household_income	29187
+35021	New Mexico	Harding	median_household_income	32983
+35023	New Mexico	Hidalgo	median_household_income	30978
+35025	New Mexico	Lea	median_household_income	46176
+35027	New Mexico	Lincoln	median_household_income	40096
+35028	New Mexico	Los Alamos	median_household_income	110204
+35029	New Mexico	Luna	median_household_income	27566
+35031	New Mexico	McKinley	median_household_income	29320
+35033	New Mexico	Mora	median_household_income	28911
+35035	New Mexico	Otero	median_household_income	35894
+35037	New Mexico	Quay	median_household_income	29895
+35039	New Mexico	Rio Arriba	median_household_income	37101
+35041	New Mexico	Roosevelt	median_household_income	34055
+35043	New Mexico	Sandoval	median_household_income	53948
+35045	New Mexico	San Juan	median_household_income	46370
+35047	New Mexico	San Miguel	median_household_income	31983
+35049	New Mexico	Santa Fe	median_household_income	50234
+35051	New Mexico	Sierra	median_household_income	28544
+35053	New Mexico	Socorro	median_household_income	31371
+35055	New Mexico	Taos	median_household_income	32521
+35057	New Mexico	Torrance	median_household_income	33193
+35059	New Mexico	Union	median_household_income	33206
+35061	New Mexico	Valencia	median_household_income	41983
+36001	New York	Albany	median_household_income	56602
+36003	New York	Allegany	median_household_income	39900
+36005	New York	Bronx	median_household_income	32137
+36007	New York	Broome	median_household_income	43756
+36009	New York	Cattaraugus	median_household_income	39368
+36011	New York	Cayuga	median_household_income	47875
+36013	New York	Chautauqua	median_household_income	40782
+36015	New York	Chemung	median_household_income	47994
+36017	New York	Chenango	median_household_income	40693
+36019	New York	Clinton	median_household_income	49025
+36021	New York	Columbia	median_household_income	53500
+36023	New York	Cortland	median_household_income	44397
+36025	New York	Delaware	median_household_income	38208
+36027	New York	Dutchess	median_household_income	67153
+36029	New York	Erie	median_household_income	47505
+36031	New York	Essex	median_household_income	45668
+36033	New York	Franklin	median_household_income	40092
+36035	New York	Fulton	median_household_income	46976
+36037	New York	Genesee	median_household_income	45955
+36039	New York	Greene	median_household_income	45127
+36041	New York	Hamilton	median_household_income	43104
+36043	New York	Herkimer	median_household_income	40504
+36045	New York	Jefferson	median_household_income	45292
+36047	New York	Kings	median_household_income	42437
+36049	New York	Lewis	median_household_income	44097
+36051	New York	Livingston	median_household_income	50186
+36053	New York	Madison	median_household_income	49326
+36055	New York	Monroe	median_household_income	50247
+36057	New York	Montgomery	median_household_income	40160
+36059	New York	Nassau	median_household_income	91162
+36061	New York	New York	median_household_income	65833
+36063	New York	Niagara	median_household_income	45291
+36065	New York	Oneida	median_household_income	45957
+36067	New York	Onondaga	median_household_income	53394
+36069	New York	Ontario	median_household_income	52367
+36071	New York	Orange	median_household_income	65648
+36073	New York	Orleans	median_household_income	43870
+36075	New York	Oswego	median_household_income	43687
+36077	New York	Otsego	median_household_income	43563
+36079	New York	Putnam	median_household_income	87248
+36081	New York	Queens	median_household_income	53124
+36083	New York	Rensselaer	median_household_income	57059
+36085	New York	Richmond	median_household_income	69436
+36087	New York	Rockland	median_household_income	80765
+36089	New York	St. Lawrence	median_household_income	42609
+36091	New York	Saratoga	median_household_income	64298
+36093	New York	Schenectady	median_household_income	52283
+36095	New York	Schoharie	median_household_income	49610
+36097	New York	Schuyler	median_household_income	45986
+36099	New York	Seneca	median_household_income	45951
+36101	New York	Steuben	median_household_income	43834
+36103	New York	Suffolk	median_household_income	83360
+36105	New York	Sullivan	median_household_income	46161
+36107	New York	Tioga	median_household_income	51675
+36109	New York	Tompkins	median_household_income	49639
+36111	New York	Ulster	median_household_income	54060
+36113	New York	Warren	median_household_income	50807
+36115	New York	Washington	median_household_income	48555
+36117	New York	Wayne	median_household_income	51901
+36119	New York	Westchester	median_household_income	76728
+36121	New York	Wyoming	median_household_income	50192
+36123	New York	Yates	median_household_income	44776
+37001	North Carolina	Alamance	median_household_income	41371
+37003	North Carolina	Alexander	median_household_income	39812
+37005	North Carolina	Alleghany	median_household_income	32673
+37007	North Carolina	Anson	median_household_income	32341
+37009	North Carolina	Ashe	median_household_income	34333
+37011	North Carolina	Avery	median_household_income	36071
+37013	North Carolina	Beaufort	median_household_income	38248
+37015	North Carolina	Bertie	median_household_income	29615
+37017	North Carolina	Bladen	median_household_income	33138
+37019	North Carolina	Brunswick	median_household_income	42685
+37021	North Carolina	Buncombe	median_household_income	41551
+37023	North Carolina	Burke	median_household_income	37719
+37025	North Carolina	Cabarrus	median_household_income	50298
+37027	North Carolina	Caldwell	median_household_income	34876
+37029	North Carolina	Camden	median_household_income	57113
+37031	North Carolina	Carteret	median_household_income	45507
+37033	North Carolina	Caswell	median_household_income	38495
+37035	North Carolina	Catawba	median_household_income	44339
+37037	North Carolina	Chatham	median_household_income	53564
+37039	North Carolina	Cherokee	median_household_income	32913
+37041	North Carolina	Chowan	median_household_income	36231
+37043	North Carolina	Clay	median_household_income	35143
+37045	North Carolina	Cleveland	median_household_income	37390
+37047	North Carolina	Columbus	median_household_income	31282
+37049	North Carolina	Craven	median_household_income	47291
+37051	North Carolina	Cumberland	median_household_income	43863
+37053	North Carolina	Currituck	median_household_income	55665
+37055	North Carolina	Dare	median_household_income	50393
+37057	North Carolina	Davidson	median_household_income	41631
+37059	North Carolina	Davie	median_household_income	50110
+37061	North Carolina	Duplin	median_household_income	35587
+37063	North Carolina	Durham	median_household_income	47007
+37065	North Carolina	Edgecombe	median_household_income	32901
+37067	North Carolina	Forsyth	median_household_income	43804
+37069	North Carolina	Franklin	median_household_income	42269
+37071	North Carolina	Gaston	median_household_income	40969
+37073	North Carolina	Gates	median_household_income	41437
+37075	North Carolina	Graham	median_household_income	33041
+37077	North Carolina	Granville	median_household_income	48596
+37079	North Carolina	Greene	median_household_income	35013
+37081	North Carolina	Guilford	median_household_income	44229
+37083	North Carolina	Halifax	median_household_income	31084
+37085	North Carolina	Harnett	median_household_income	40617
+37087	North Carolina	Haywood	median_household_income	40114
+37089	North Carolina	Henderson	median_household_income	46165
+37091	North Carolina	Hertford	median_household_income	31581
+37093	North Carolina	Hoke	median_household_income	42908
+37095	North Carolina	Hyde	median_household_income	35810
+37097	North Carolina	Iredell	median_household_income	49902
+37099	North Carolina	Jackson	median_household_income	37388
+37101	North Carolina	Johnston	median_household_income	48380
+37103	North Carolina	Jones	median_household_income	38230
+37105	North Carolina	Lee	median_household_income	41506
+37107	North Carolina	Lenoir	median_household_income	32602
+37109	North Carolina	Lincoln	median_household_income	50746
+37111	North Carolina	McDowell	median_household_income	35627
+37113	North Carolina	Macon	median_household_income	36953
+37115	North Carolina	Madison	median_household_income	36724
+37117	North Carolina	Martin	median_household_income	33305
+37119	North Carolina	Mecklenburg	median_household_income	52111
+37121	North Carolina	Mitchell	median_household_income	35322
+37123	North Carolina	Montgomery	median_household_income	30684
+37125	North Carolina	Moore	median_household_income	47301
+37127	North Carolina	Nash	median_household_income	43151
+37129	North Carolina	New Hanover	median_household_income	45890
+37131	North Carolina	Northampton	median_household_income	31668
+37133	North Carolina	Onslow	median_household_income	45434
+37135	North Carolina	Orange	median_household_income	56792
+37137	North Carolina	Pamlico	median_household_income	41325
+37139	North Carolina	Pasquotank	median_household_income	40261
+37141	North Carolina	Pender	median_household_income	44171
+37143	North Carolina	Perquimans	median_household_income	39112
+37145	North Carolina	Person	median_household_income	42303
+37147	North Carolina	Pitt	median_household_income	39713
+37149	North Carolina	Polk	median_household_income	41851
+37151	North Carolina	Randolph	median_household_income	40749
+37153	North Carolina	Richmond	median_household_income	32932
+37155	North Carolina	Robeson	median_household_income	30931
+37157	North Carolina	Rockingham	median_household_income	36746
+37159	North Carolina	Rowan	median_household_income	40267
+37161	North Carolina	Rutherford	median_household_income	35208
+37163	North Carolina	Sampson	median_household_income	36471
+37165	North Carolina	Scotland	median_household_income	32999
+37167	North Carolina	Stanly	median_household_income	38301
+37169	North Carolina	Stokes	median_household_income	42147
+37171	North Carolina	Surry	median_household_income	35269
+37173	North Carolina	Swain	median_household_income	36167
+37175	North Carolina	Transylvania	median_household_income	41578
+37177	North Carolina	Tyrrell	median_household_income	33430
+37179	North Carolina	Union	median_household_income	61515
+37181	North Carolina	Vance	median_household_income	33377
+37183	North Carolina	Wake	median_household_income	62436
+37185	North Carolina	Warren	median_household_income	33218
+37187	North Carolina	Washington	median_household_income	33278
+37189	North Carolina	Watauga	median_household_income	39168
+37191	North Carolina	Wayne	median_household_income	39089
+37193	North Carolina	Wilkes	median_household_income	34954
+37195	North Carolina	Wilson	median_household_income	37166
+37197	North Carolina	Yadkin	median_household_income	40983
+37199	North Carolina	Yancey	median_household_income	36440
+38001	North Dakota	Adams	median_household_income	43836
+38003	North Dakota	Barnes	median_household_income	47839
+38005	North Dakota	Benson	median_household_income	38299
+38007	North Dakota	Billings	median_household_income	60506
+38009	North Dakota	Bottineau	median_household_income	52360
+38011	North Dakota	Bowman	median_household_income	56721
+38013	North Dakota	Burke	median_household_income	49481
+38015	North Dakota	Burleigh	median_household_income	57519
+38017	North Dakota	Cass	median_household_income	52444
+38019	North Dakota	Cavalier	median_household_income	50572
+38021	North Dakota	Dickey	median_household_income	47501
+38023	North Dakota	Divide	median_household_income	51219
+38025	North Dakota	Dunn	median_household_income	55353
+38027	North Dakota	Eddy	median_household_income	43249
+38029	North Dakota	Emmons	median_household_income	40749
+38031	North Dakota	Foster	median_household_income	49333
+38033	North Dakota	Golden Valley	median_household_income	44706
+38035	North Dakota	Grand Forks	median_household_income	45541
+38037	North Dakota	Grant	median_household_income	35744
+38039	North Dakota	Griggs	median_household_income	45283
+38041	North Dakota	Hettinger	median_household_income	46793
+38043	North Dakota	Kidder	median_household_income	39857
+38045	North Dakota	LaMoure	median_household_income	52242
+38047	North Dakota	Logan	median_household_income	40760
+38049	North Dakota	McHenry	median_household_income	44981
+38051	North Dakota	McIntosh	median_household_income	36642
+38053	North Dakota	McKenzie	median_household_income	59000
+38055	North Dakota	McLean	median_household_income	50902
+38057	North Dakota	Mercer	median_household_income	67449
+38059	North Dakota	Morton	median_household_income	58330
+38061	North Dakota	Mountrail	median_household_income	52930
+38063	North Dakota	Nelson	median_household_income	43426
+38065	North Dakota	Oliver	median_household_income	59262
+38067	North Dakota	Pembina	median_household_income	54584
+38069	North Dakota	Pierce	median_household_income	41419
+38071	North Dakota	Ramsey	median_household_income	46624
+38073	North Dakota	Ransom	median_household_income	51812
+38075	North Dakota	Renville	median_household_income	52982
+38077	North Dakota	Richland	median_household_income	51860
+38079	North Dakota	Rolette	median_household_income	33024
+38081	North Dakota	Sargent	median_household_income	58138
+38083	North Dakota	Sheridan	median_household_income	40593
+38085	North Dakota	Sioux	median_household_income	30271
+38087	North Dakota	Slope	median_household_income	52493
+38089	North Dakota	Stark	median_household_income	55492
+38091	North Dakota	Steele	median_household_income	54695
+38093	North Dakota	Stutsman	median_household_income	49519
+38095	North Dakota	Towner	median_household_income	52376
+38097	North Dakota	Traill	median_household_income	53388
+38099	North Dakota	Walsh	median_household_income	46802
+38101	North Dakota	Ward	median_household_income	53157
+38103	North Dakota	Wells	median_household_income	47328
+38105	North Dakota	Williams	median_household_income	67492
+39001	Ohio	Adams	median_household_income	34778
+39003	Ohio	Allen	median_household_income	41453
+39005	Ohio	Ashland	median_household_income	44950
+39007	Ohio	Ashtabula	median_household_income	38683
+39009	Ohio	Athens	median_household_income	33943
+39011	Ohio	Auglaize	median_household_income	51130
+39013	Ohio	Belmont	median_household_income	40300
+39015	Ohio	Brown	median_household_income	43181
+39017	Ohio	Butler	median_household_income	53275
+39019	Ohio	Carroll	median_household_income	40896
+39021	Ohio	Champaign	median_household_income	48063
+39023	Ohio	Clark	median_household_income	41704
+39025	Ohio	Clermont	median_household_income	55963
+39027	Ohio	Clinton	median_household_income	44905
+39029	Ohio	Columbiana	median_household_income	42091
+39031	Ohio	Coshocton	median_household_income	40282
+39033	Ohio	Crawford	median_household_income	39679
+39035	Ohio	Cuyahoga	median_household_income	41609
+39037	Ohio	Darke	median_household_income	42065
+39039	Ohio	Defiance	median_household_income	49360
+39041	Ohio	Delaware	median_household_income	86980
+39043	Ohio	Erie	median_household_income	46613
+39045	Ohio	Fairfield	median_household_income	58829
+39047	Ohio	Fayette	median_household_income	36684
+39049	Ohio	Franklin	median_household_income	47174
+39051	Ohio	Fulton	median_household_income	49038
+39053	Ohio	Gallia	median_household_income	36441
+39055	Ohio	Geauga	median_household_income	66088
+39057	Ohio	Greene	median_household_income	56683
+39059	Ohio	Guernsey	median_household_income	36348
+39061	Ohio	Hamilton	median_household_income	46125
+39063	Ohio	Hancock	median_household_income	48258
+39065	Ohio	Hardin	median_household_income	37914
+39067	Ohio	Harrison	median_household_income	37057
+39069	Ohio	Henry	median_household_income	48859
+39071	Ohio	Highland	median_household_income	36865
+39073	Ohio	Hocking	median_household_income	42491
+39075	Ohio	Holmes	median_household_income	45893
+39077	Ohio	Huron	median_household_income	48196
+39079	Ohio	Jackson	median_household_income	39144
+39081	Ohio	Jefferson	median_household_income	41103
+39083	Ohio	Knox	median_household_income	50929
+39085	Ohio	Lake	median_household_income	53016
+39087	Ohio	Lawrence	median_household_income	37666
+39089	Ohio	Licking	median_household_income	54298
+39091	Ohio	Logan	median_household_income	48011
+39093	Ohio	Lorain	median_household_income	48733
+39095	Ohio	Lucas	median_household_income	38798
+39097	Ohio	Madison	median_household_income	54107
+39099	Ohio	Mahoning	median_household_income	39447
+39101	Ohio	Marion	median_household_income	42141
+39103	Ohio	Medina	median_household_income	60527
+39105	Ohio	Meigs	median_household_income	33520
+39107	Ohio	Mercer	median_household_income	47994
+39109	Ohio	Miami	median_household_income	48103
+39111	Ohio	Monroe	median_household_income	39007
+39113	Ohio	Montgomery	median_household_income	41001
+39115	Ohio	Morgan	median_household_income	35173
+39117	Ohio	Morrow	median_household_income	47431
+39119	Ohio	Muskingum	median_household_income	38652
+39121	Ohio	Noble	median_household_income	41151
+39123	Ohio	Ottawa	median_household_income	51641
+39125	Ohio	Paulding	median_household_income	41946
+39127	Ohio	Perry	median_household_income	39383
+39129	Ohio	Pickaway	median_household_income	52161
+39131	Ohio	Pike	median_household_income	37802
+39133	Ohio	Portage	median_household_income	49712
+39135	Ohio	Preble	median_household_income	45920
+39137	Ohio	Putnam	median_household_income	57039
+39139	Ohio	Richland	median_household_income	40424
+39141	Ohio	Ross	median_household_income	43118
+39143	Ohio	Sandusky	median_household_income	44016
+39145	Ohio	Scioto	median_household_income	31987
+39147	Ohio	Seneca	median_household_income	38349
+39149	Ohio	Shelby	median_household_income	53028
+39151	Ohio	Stark	median_household_income	42190
+39153	Ohio	Summit	median_household_income	46595
+39155	Ohio	Trumbull	median_household_income	40913
+39157	Ohio	Tuscarawas	median_household_income	41857
+39159	Ohio	Union	median_household_income	64403
+39161	Ohio	Van Wert	median_household_income	46717
+39163	Ohio	Vinton	median_household_income	35298
+39165	Ohio	Warren	median_household_income	70245
+39167	Ohio	Washington	median_household_income	42211
+39169	Ohio	Wayne	median_household_income	46842
+39171	Ohio	Williams	median_household_income	40856
+39173	Ohio	Wood	median_household_income	50624
+39175	Ohio	Wyandot	median_household_income	45555
+40001	Oklahoma	Adair	median_household_income	31680
+40003	Oklahoma	Alfalfa	median_household_income	38852
+40005	Oklahoma	Atoka	median_household_income	34673
+40007	Oklahoma	Beaver	median_household_income	49683
+40009	Oklahoma	Beckham	median_household_income	43565
+40011	Oklahoma	Blaine	median_household_income	37882
+40013	Oklahoma	Bryan	median_household_income	34276
+40015	Oklahoma	Caddo	median_household_income	38583
+40017	Oklahoma	Canadian	median_household_income	60225
+40019	Oklahoma	Carter	median_household_income	40122
+40021	Oklahoma	Cherokee	median_household_income	34968
+40023	Oklahoma	Choctaw	median_household_income	28598
+40025	Oklahoma	Cimarron	median_household_income	38572
+40027	Oklahoma	Cleveland	median_household_income	51900
+40029	Oklahoma	Coal	median_household_income	35475
+40031	Oklahoma	Comanche	median_household_income	44286
+40033	Oklahoma	Cotton	median_household_income	38129
+40035	Oklahoma	Craig	median_household_income	36996
+40037	Oklahoma	Creek	median_household_income	41000
+40039	Oklahoma	Custer	median_household_income	41678
+40041	Oklahoma	Delaware	median_household_income	35936
+40043	Oklahoma	Dewey	median_household_income	41124
+40045	Oklahoma	Ellis	median_household_income	42728
+40047	Oklahoma	Garfield	median_household_income	42800
+40049	Oklahoma	Garvin	median_household_income	37878
+40051	Oklahoma	Grady	median_household_income	45688
+40053	Oklahoma	Grant	median_household_income	40691
+40055	Oklahoma	Greer	median_household_income	34350
+40057	Oklahoma	Harmon	median_household_income	30329
+40059	Oklahoma	Harper	median_household_income	43198
+40061	Oklahoma	Haskell	median_household_income	33309
+40063	Oklahoma	Hughes	median_household_income	30888
+40065	Oklahoma	Jackson	median_household_income	40129
+40067	Oklahoma	Jefferson	median_household_income	30755
+40069	Oklahoma	Johnston	median_household_income	35713
+40071	Oklahoma	Kay	median_household_income	39152
+40073	Oklahoma	Kingfisher	median_household_income	53050
+40075	Oklahoma	Kiowa	median_household_income	35977
+40077	Oklahoma	Latimer	median_household_income	35660
+40079	Oklahoma	Le Flore	median_household_income	34131
+40081	Oklahoma	Lincoln	median_household_income	38058
+40083	Oklahoma	Logan	median_household_income	48346
+40085	Oklahoma	Love	median_household_income	40853
+40087	Oklahoma	McClain	median_household_income	54633
+40089	Oklahoma	McCurtain	median_household_income	29614
+40091	Oklahoma	McIntosh	median_household_income	32487
+40093	Oklahoma	Major	median_household_income	45374
+40095	Oklahoma	Marshall	median_household_income	35610
+40097	Oklahoma	Mayes	median_household_income	40229
+40099	Oklahoma	Murray	median_household_income	39914
+40101	Oklahoma	Muskogee	median_household_income	35443
+40103	Oklahoma	Noble	median_household_income	43416
+40105	Oklahoma	Nowata	median_household_income	38453
+40107	Oklahoma	Okfuskee	median_household_income	31150
+40109	Oklahoma	Oklahoma	median_household_income	43101
+40111	Oklahoma	Okmulgee	median_household_income	35226
+40113	Oklahoma	Osage	median_household_income	43170
+40115	Oklahoma	Ottawa	median_household_income	34431
+40117	Oklahoma	Pawnee	median_household_income	41938
+40119	Oklahoma	Payne	median_household_income	37075
+40121	Oklahoma	Pittsburg	median_household_income	41712
+40123	Oklahoma	Pontotoc	median_household_income	40378
+40125	Oklahoma	Pottawatomie	median_household_income	41520
+40127	Oklahoma	Pushmataha	median_household_income	30190
+40129	Oklahoma	Roger Mills	median_household_income	50761
+40131	Oklahoma	Rogers	median_household_income	54974
+40133	Oklahoma	Seminole	median_household_income	32976
+40135	Oklahoma	Sequoyah	median_household_income	36080
+40137	Oklahoma	Stephens	median_household_income	43765
+40139	Oklahoma	Texas	median_household_income	44550
+40141	Oklahoma	Tillman	median_household_income	32122
+40143	Oklahoma	Tulsa	median_household_income	46497
+40145	Oklahoma	Wagoner	median_household_income	52717
+40147	Oklahoma	Washington	median_household_income	47645
+40149	Oklahoma	Washita	median_household_income	45374
+40151	Oklahoma	Woods	median_household_income	38688
+40153	Oklahoma	Woodward	median_household_income	48420
+41001	Oregon	Baker	median_household_income	36877
+41003	Oregon	Benton	median_household_income	46272
+41005	Oregon	Clackamas	median_household_income	58496
+41007	Oregon	Clatsop	median_household_income	43544
+41009	Oregon	Columbia	median_household_income	55646
+41011	Oregon	Coos	median_household_income	36567
+41013	Oregon	Crook	median_household_income	37473
+41015	Oregon	Curry	median_household_income	39958
+41017	Oregon	Deschutes	median_household_income	47924
+41019	Oregon	Douglas	median_household_income	38196
+41021	Oregon	Gilliam	median_household_income	49378
+41023	Oregon	Grant	median_household_income	37191
+41025	Oregon	Harney	median_household_income	35141
+41027	Oregon	Hood River	median_household_income	48516
+41029	Oregon	Jackson	median_household_income	40013
+41031	Oregon	Jefferson	median_household_income	40910
+41033	Oregon	Josephine	median_household_income	36269
+41035	Oregon	Klamath	median_household_income	36765
+41037	Oregon	Lake	median_household_income	35517
+41039	Oregon	Lane	median_household_income	40689
+41041	Oregon	Lincoln	median_household_income	40507
+41043	Oregon	Linn	median_household_income	42836
+41045	Oregon	Malheur	median_household_income	36039
+41047	Oregon	Marion	median_household_income	44275
+41049	Oregon	Morrow	median_household_income	46902
+41051	Oregon	Multnomah	median_household_income	46989
+41053	Oregon	Polk	median_household_income	52277
+41055	Oregon	Sherman	median_household_income	52263
+41057	Oregon	Tillamook	median_household_income	41246
+41059	Oregon	Umatilla	median_household_income	43231
+41061	Oregon	Union	median_household_income	41510
+41063	Oregon	Wallowa	median_household_income	38486
+41065	Oregon	Wasco	median_household_income	41144
+41067	Oregon	Washington	median_household_income	62463
+41069	Oregon	Wheeler	median_household_income	32491
+41071	Oregon	Yamhill	median_household_income	52103
+42001	Pennsylvania	Adams	median_household_income	54460
+42003	Pennsylvania	Allegheny	median_household_income	49682
+42005	Pennsylvania	Armstrong	median_household_income	41934
+42007	Pennsylvania	Beaver	median_household_income	48140
+42009	Pennsylvania	Bedford	median_household_income	40240
+42011	Pennsylvania	Berks	median_household_income	52168
+42013	Pennsylvania	Blair	median_household_income	42488
+42015	Pennsylvania	Bradford	median_household_income	44265
+42017	Pennsylvania	Bucks	median_household_income	70735
+42019	Pennsylvania	Butler	median_household_income	54888
+42021	Pennsylvania	Cambria	median_household_income	39892
+42023	Pennsylvania	Cameron	median_household_income	38451
+42025	Pennsylvania	Carbon	median_household_income	44062
+42027	Pennsylvania	Centre	median_household_income	47222
+42029	Pennsylvania	Chester	median_household_income	79508
+42031	Pennsylvania	Clarion	median_household_income	41423
+42033	Pennsylvania	Clearfield	median_household_income	41408
+42035	Pennsylvania	Clinton	median_household_income	40281
+42037	Pennsylvania	Columbia	median_household_income	40704
+42039	Pennsylvania	Crawford	median_household_income	40775
+42041	Pennsylvania	Cumberland	median_household_income	58722
+42043	Pennsylvania	Dauphin	median_household_income	51668
+42045	Pennsylvania	Delaware	median_household_income	59978
+42047	Pennsylvania	Elk	median_household_income	43181
+42049	Pennsylvania	Erie	median_household_income	41951
+42051	Pennsylvania	Fayette	median_household_income	36300
+42053	Pennsylvania	Forest	median_household_income	32852
+42055	Pennsylvania	Franklin	median_household_income	49545
+42057	Pennsylvania	Fulton	median_household_income	44287
+42059	Pennsylvania	Greene	median_household_income	42049
+42061	Pennsylvania	Huntingdon	median_household_income	41923
+42063	Pennsylvania	Indiana	median_household_income	41707
+42065	Pennsylvania	Jefferson	median_household_income	39051
+42067	Pennsylvania	Juniata	median_household_income	44865
+42069	Pennsylvania	Lackawanna	median_household_income	43886
+42071	Pennsylvania	Lancaster	median_household_income	53408
+42073	Pennsylvania	Lawrence	median_household_income	41447
+42075	Pennsylvania	Lebanon	median_household_income	53625
+42077	Pennsylvania	Lehigh	median_household_income	50737
+42079	Pennsylvania	Luzerne	median_household_income	42584
+42081	Pennsylvania	Lycoming	median_household_income	42163
+42083	Pennsylvania	McKean	median_household_income	40338
+42085	Pennsylvania	Mercer	median_household_income	41535
+42087	Pennsylvania	Mifflin	median_household_income	38544
+42089	Pennsylvania	Monroe	median_household_income	52505
+42091	Pennsylvania	Montgomery	median_household_income	76172
+42093	Pennsylvania	Montour	median_household_income	48800
+42095	Pennsylvania	Northampton	median_household_income	57284
+42097	Pennsylvania	Northumberland	median_household_income	39834
+42099	Pennsylvania	Perry	median_household_income	52788
+42101	Pennsylvania	Philadelphia	median_household_income	34433
+42103	Pennsylvania	Pike	median_household_income	56070
+42105	Pennsylvania	Potter	median_household_income	40599
+42107	Pennsylvania	Schuylkill	median_household_income	45549
+42109	Pennsylvania	Snyder	median_household_income	45460
+42111	Pennsylvania	Somerset	median_household_income	39042
+42113	Pennsylvania	Sullivan	median_household_income	38608
+42115	Pennsylvania	Susquehanna	median_household_income	46814
+42117	Pennsylvania	Tioga	median_household_income	41010
+42119	Pennsylvania	Union	median_household_income	46992
+42121	Pennsylvania	Venango	median_household_income	39608
+42123	Pennsylvania	Warren	median_household_income	40940
+42125	Pennsylvania	Washington	median_household_income	52384
+42127	Pennsylvania	Wayne	median_household_income	47824
+42129	Pennsylvania	Westmoreland	median_household_income	46630
+42131	Pennsylvania	Wyoming	median_household_income	49011
+42133	Pennsylvania	York	median_household_income	55521
+44001	Rhode Island	Bristol	median_household_income	68483
+44003	Rhode Island	Kent	median_household_income	59880
+44005	Rhode Island	Newport	median_household_income	65755
+44007	Rhode Island	Providence	median_household_income	46385
+44009	Rhode Island	Washington	median_household_income	68539
+45001	South Carolina	Abbeville	median_household_income	36787
+45003	South Carolina	Aiken	median_household_income	42826
+45005	South Carolina	Allendale	median_household_income	24820
+45007	South Carolina	Anderson	median_household_income	41000
+45009	South Carolina	Bamberg	median_household_income	28467
+45011	South Carolina	Barnwell	median_household_income	33178
+45013	South Carolina	Beaufort	median_household_income	55018
+45015	South Carolina	Berkeley	median_household_income	49516
+45017	South Carolina	Calhoun	median_household_income	38417
+45019	South Carolina	Charleston	median_household_income	49432
+45021	South Carolina	Cherokee	median_household_income	36400
+45023	South Carolina	Chester	median_household_income	32857
+45025	South Carolina	Chesterfield	median_household_income	30378
+45027	South Carolina	Clarendon	median_household_income	30780
+45029	South Carolina	Colleton	median_household_income	32963
+45031	South Carolina	Darlington	median_household_income	36248
+45033	South Carolina	Dillon	median_household_income	26308
+45035	South Carolina	Dorchester	median_household_income	51332
+45037	South Carolina	Edgefield	median_household_income	42289
+45039	South Carolina	Fairfield	median_household_income	34700
+45041	South Carolina	Florence	median_household_income	39663
+45043	South Carolina	Georgetown	median_household_income	40864
+45045	South Carolina	Greenville	median_household_income	48480
+45047	South Carolina	Greenwood	median_household_income	37038
+45049	South Carolina	Hampton	median_household_income	31915
+45051	South Carolina	Horry	median_household_income	38807
+45053	South Carolina	Jasper	median_household_income	34927
+45055	South Carolina	Kershaw	median_household_income	41055
+45057	South Carolina	Lancaster	median_household_income	40372
+45059	South Carolina	Laurens	median_household_income	35839
+45061	South Carolina	Lee	median_household_income	28733
+45063	South Carolina	Lexington	median_household_income	50738
+45065	South Carolina	McCormick	median_household_income	35209
+45067	South Carolina	Marion	median_household_income	27726
+45069	South Carolina	Marlboro	median_household_income	28662
+45071	South Carolina	Newberry	median_household_income	38024
+45073	South Carolina	Oconee	median_household_income	42142
+45075	South Carolina	Orangeburg	median_household_income	31605
+45077	South Carolina	Pickens	median_household_income	40221
+45079	South Carolina	Richland	median_household_income	45182
+45081	South Carolina	Saluda	median_household_income	39689
+45083	South Carolina	Spartanburg	median_household_income	40687
+45085	South Carolina	Sumter	median_household_income	40858
+45087	South Carolina	Union	median_household_income	33981
+45089	South Carolina	Williamsburg	median_household_income	27750
+45091	South Carolina	York	median_household_income	51017
+46003	South Dakota	Aurora	median_household_income	45615
+46005	South Dakota	Beadle	median_household_income	43803
+46007	South Dakota	Bennett	median_household_income	31712
+46009	South Dakota	Bon Homme	median_household_income	41711
+46011	South Dakota	Brookings	median_household_income	48233
+46013	South Dakota	Brown	median_household_income	50115
+46015	South Dakota	Brule	median_household_income	45265
+46017	South Dakota	Buffalo	median_household_income	21269
+46019	South Dakota	Butte	median_household_income	39615
+46021	South Dakota	Campbell	median_household_income	40855
+46023	South Dakota	Charles Mix	median_household_income	37448
+46025	South Dakota	Clark	median_household_income	43496
+46027	South Dakota	Clay	median_household_income	39870
+46029	South Dakota	Codington	median_household_income	47282
+46031	South Dakota	Corson	median_household_income	28770
+46033	South Dakota	Custer	median_household_income	49649
+46035	South Dakota	Davison	median_household_income	47100
+46037	South Dakota	Day	median_household_income	39223
+46039	South Dakota	Deuel	median_household_income	45700
+46041	South Dakota	Dewey	median_household_income	33902
+46043	South Dakota	Douglas	median_household_income	46224
+46045	South Dakota	Edmunds	median_household_income	49467
+46047	South Dakota	Fall River	median_household_income	39444
+46049	South Dakota	Faulk	median_household_income	43030
+46051	South Dakota	Grant	median_household_income	47131
+46053	South Dakota	Gregory	median_household_income	33991
+46055	South Dakota	Haakon	median_household_income	44653
+46057	South Dakota	Hamlin	median_household_income	50864
+46059	South Dakota	Hand	median_household_income	41975
+46061	South Dakota	Hanson	median_household_income	57519
+46063	South Dakota	Harding	median_household_income	42575
+46065	South Dakota	Hughes	median_household_income	60677
+46067	South Dakota	Hutchinson	median_household_income	46309
+46069	South Dakota	Hyde	median_household_income	44997
+46071	South Dakota	Jackson	median_household_income	31854
+46073	South Dakota	Jerauld	median_household_income	47433
+46075	South Dakota	Jones	median_household_income	40171
+46077	South Dakota	Kingsbury	median_household_income	46244
+46079	South Dakota	Lake	median_household_income	49893
+46081	South Dakota	Lawrence	median_household_income	42495
+46083	South Dakota	Lincoln	median_household_income	76907
+46085	South Dakota	Lyman	median_household_income	37914
+46087	South Dakota	McCook	median_household_income	51365
+46089	South Dakota	McPherson	median_household_income	35473
+46091	South Dakota	Marshall	median_household_income	44849
+46093	South Dakota	Meade	median_household_income	50985
+46095	South Dakota	Mellette	median_household_income	30170
+46097	South Dakota	Miner	median_household_income	44316
+46099	South Dakota	Minnehaha	median_household_income	51431
+46101	South Dakota	Moody	median_household_income	50307
+46103	South Dakota	Pennington	median_household_income	48083
+46105	South Dakota	Perkins	median_household_income	37919
+46107	South Dakota	Potter	median_household_income	45851
+46109	South Dakota	Roberts	median_household_income	41407
+46111	South Dakota	Sanborn	median_household_income	47141
+46113	South Dakota	Shannon	median_household_income	27200
+46115	South Dakota	Spink	median_household_income	44455
+46117	South Dakota	Stanley	median_household_income	53986
+46119	South Dakota	Sully	median_household_income	55194
+46121	South Dakota	Todd	median_household_income	26639
+46123	South Dakota	Tripp	median_household_income	38360
+46125	South Dakota	Turner	median_household_income	50469
+46127	South Dakota	Union	median_household_income	66242
+46129	South Dakota	Walworth	median_household_income	39920
+46135	South Dakota	Yankton	median_household_income	48147
+46137	South Dakota	Ziebach	median_household_income	28350
+47001	Tennessee	Anderson	median_household_income	41694
+47003	Tennessee	Bedford	median_household_income	39552
+47005	Tennessee	Benton	median_household_income	32527
+47007	Tennessee	Bledsoe	median_household_income	33500
+47009	Tennessee	Blount	median_household_income	45539
+47011	Tennessee	Bradley	median_household_income	38667
+47013	Tennessee	Campbell	median_household_income	29044
+47015	Tennessee	Cannon	median_household_income	36959
+47017	Tennessee	Carroll	median_household_income	34979
+47019	Tennessee	Carter	median_household_income	33772
+47021	Tennessee	Cheatham	median_household_income	50225
+47023	Tennessee	Chester	median_household_income	38749
+47025	Tennessee	Claiborne	median_household_income	34454
+47027	Tennessee	Clay	median_household_income	27978
+47029	Tennessee	Cocke	median_household_income	30092
+47031	Tennessee	Coffee	median_household_income	35571
+47033	Tennessee	Crockett	median_household_income	34474
+47035	Tennessee	Cumberland	median_household_income	35873
+47037	Tennessee	Davidson	median_household_income	43893
+47039	Tennessee	Decatur	median_household_income	34400
+47041	Tennessee	DeKalb	median_household_income	37136
+47043	Tennessee	Dickson	median_household_income	43019
+47045	Tennessee	Dyer	median_household_income	37766
+47047	Tennessee	Fayette	median_household_income	49760
+47049	Tennessee	Fentress	median_household_income	28666
+47051	Tennessee	Franklin	median_household_income	39935
+47053	Tennessee	Gibson	median_household_income	36365
+47055	Tennessee	Giles	median_household_income	39916
+47057	Tennessee	Grainger	median_household_income	34077
+47059	Tennessee	Greene	median_household_income	32880
+47061	Tennessee	Grundy	median_household_income	27428
+47063	Tennessee	Hamblen	median_household_income	35630
+47065	Tennessee	Hamilton	median_household_income	42609
+47067	Tennessee	Hancock	median_household_income	25297
+47069	Tennessee	Hardeman	median_household_income	31437
+47071	Tennessee	Hardin	median_household_income	31281
+47073	Tennessee	Hawkins	median_household_income	37095
+47075	Tennessee	Haywood	median_household_income	32422
+47077	Tennessee	Henderson	median_household_income	36392
+47079	Tennessee	Henry	median_household_income	35270
+47081	Tennessee	Hickman	median_household_income	35094
+47083	Tennessee	Houston	median_household_income	36858
+47085	Tennessee	Humphreys	median_household_income	43987
+47087	Tennessee	Jackson	median_household_income	31903
+47089	Tennessee	Jefferson	median_household_income	38174
+47091	Tennessee	Johnson	median_household_income	30897
+47093	Tennessee	Knox	median_household_income	45149
+47095	Tennessee	Lake	median_household_income	26587
+47097	Tennessee	Lauderdale	median_household_income	31770
+47099	Tennessee	Lawrence	median_household_income	33963
+47101	Tennessee	Lewis	median_household_income	31877
+47103	Tennessee	Lincoln	median_household_income	39246
+47105	Tennessee	Loudon	median_household_income	50375
+47107	Tennessee	McMinn	median_household_income	37319
+47109	Tennessee	McNairy	median_household_income	33738
+47111	Tennessee	Macon	median_household_income	34262
+47113	Tennessee	Madison	median_household_income	39510
+47115	Tennessee	Marion	median_household_income	40136
+47117	Tennessee	Marshall	median_household_income	40214
+47119	Tennessee	Maury	median_household_income	42569
+47121	Tennessee	Meigs	median_household_income	37129
+47123	Tennessee	Monroe	median_household_income	32720
+47125	Tennessee	Montgomery	median_household_income	47684
+47127	Tennessee	Moore	median_household_income	48229
+47129	Tennessee	Morgan	median_household_income	35266
+47131	Tennessee	Obion	median_household_income	38429
+47133	Tennessee	Overton	median_household_income	32308
+47135	Tennessee	Perry	median_household_income	31505
+47137	Tennessee	Pickett	median_household_income	31518
+47139	Tennessee	Polk	median_household_income	35628
+47141	Tennessee	Putnam	median_household_income	35053
+47143	Tennessee	Rhea	median_household_income	34920
+47145	Tennessee	Roane	median_household_income	42542
+47147	Tennessee	Robertson	median_household_income	48179
+47149	Tennessee	Rutherford	median_household_income	52586
+47151	Tennessee	Scott	median_household_income	29882
+47153	Tennessee	Sequatchie	median_household_income	38008
+47155	Tennessee	Sevier	median_household_income	40353
+47157	Tennessee	Shelby	median_household_income	44051
+47159	Tennessee	Smith	median_household_income	42182
+47161	Tennessee	Stewart	median_household_income	40508
+47163	Tennessee	Sullivan	median_household_income	39564
+47165	Tennessee	Sumner	median_household_income	52704
+47167	Tennessee	Tipton	median_household_income	50401
+47169	Tennessee	Trousdale	median_household_income	38541
+47171	Tennessee	Unicoi	median_household_income	33522
+47173	Tennessee	Union	median_household_income	35740
+47175	Tennessee	Van Buren	median_household_income	32896
+47177	Tennessee	Warren	median_household_income	32823
+47179	Tennessee	Washington	median_household_income	41358
+47181	Tennessee	Wayne	median_household_income	29883
+47183	Tennessee	Weakley	median_household_income	34457
+47185	Tennessee	White	median_household_income	33094
+47187	Tennessee	Williamson	median_household_income	90207
+47189	Tennessee	Wilson	median_household_income	59769
+48001	Texas	Anderson	median_household_income	38558
+48003	Texas	Andrews	median_household_income	52865
+48005	Texas	Angelina	median_household_income	39169
+48007	Texas	Aransas	median_household_income	38887
+48009	Texas	Archer	median_household_income	52318
+48011	Texas	Armstrong	median_household_income	49501
+48013	Texas	Atascosa	median_household_income	41236
+48015	Texas	Austin	median_household_income	48209
+48017	Texas	Bailey	median_household_income	35816
+48019	Texas	Bandera	median_household_income	46652
+48021	Texas	Bastrop	median_household_income	51947
+48023	Texas	Baylor	median_household_income	32208
+48025	Texas	Bee	median_household_income	36048
+48027	Texas	Bell	median_household_income	45797
+48029	Texas	Bexar	median_household_income	46589
+48031	Texas	Blanco	median_household_income	54000
+48033	Texas	Borden	median_household_income	51426
+48035	Texas	Bosque	median_household_income	41361
+48037	Texas	Bowie	median_household_income	43364
+48039	Texas	Brazoria	median_household_income	62180
+48041	Texas	Brazos	median_household_income	37623
+48043	Texas	Brewster	median_household_income	43896
+48045	Texas	Briscoe	median_household_income	38372
+48047	Texas	Brooks	median_household_income	24567
+48049	Texas	Brown	median_household_income	38466
+48051	Texas	Burleson	median_household_income	42025
+48053	Texas	Burnet	median_household_income	44636
+48055	Texas	Caldwell	median_household_income	40721
+48057	Texas	Calhoun	median_household_income	43339
+48059	Texas	Callahan	median_household_income	43074
+48061	Texas	Cameron	median_household_income	31902
+48063	Texas	Camp	median_household_income	36393
+48065	Texas	Carson	median_household_income	55250
+48067	Texas	Cass	median_household_income	36061
+48069	Texas	Castro	median_household_income	38175
+48071	Texas	Chambers	median_household_income	69378
+48073	Texas	Cherokee	median_household_income	35119
+48075	Texas	Childress	median_household_income	33780
+48077	Texas	Clay	median_household_income	48358
+48079	Texas	Cochran	median_household_income	38276
+48081	Texas	Coke	median_household_income	37441
+48083	Texas	Coleman	median_household_income	31865
+48085	Texas	Collin	median_household_income	82765
+48087	Texas	Collingsworth	median_household_income	34634
+48089	Texas	Colorado	median_household_income	42451
+48091	Texas	Comal	median_household_income	59754
+48093	Texas	Comanche	median_household_income	35296
+48095	Texas	Concho	median_household_income	35514
+48097	Texas	Cooke	median_household_income	49127
+48099	Texas	Coryell	median_household_income	47864
+48101	Texas	Cottle	median_household_income	32656
+48103	Texas	Crane	median_household_income	49831
+48105	Texas	Crockett	median_household_income	44331
+48107	Texas	Crosby	median_household_income	32661
+48109	Texas	Culberson	median_household_income	31186
+48111	Texas	Dallam	median_household_income	43454
+48113	Texas	Dallas	median_household_income	47335
+48115	Texas	Dawson	median_household_income	37492
+48117	Texas	Deaf Smith	median_household_income	36073
+48119	Texas	Delta	median_household_income	34968
+48121	Texas	Denton	median_household_income	70243
+48123	Texas	DeWitt	median_household_income	38620
+48125	Texas	Dickens	median_household_income	32925
+48127	Texas	Dimmit	median_household_income	30503
+48129	Texas	Donley	median_household_income	34606
+48131	Texas	Duval	median_household_income	31294
+48133	Texas	Eastland	median_household_income	36761
+48135	Texas	Ector	median_household_income	47930
+48137	Texas	Edwards	median_household_income	33102
+48139	Texas	Ellis	median_household_income	60931
+48141	Texas	El Paso	median_household_income	39116
+48143	Texas	Erath	median_household_income	38860
+48145	Texas	Falls	median_household_income	33125
+48147	Texas	Fannin	median_household_income	39985
+48149	Texas	Fayette	median_household_income	44862
+48151	Texas	Fisher	median_household_income	38717
+48153	Texas	Floyd	median_household_income	35399
+48155	Texas	Foard	median_household_income	30488
+48157	Texas	Fort Bend	median_household_income	82147
+48159	Texas	Franklin	median_household_income	40936
+48161	Texas	Freestone	median_household_income	44564
+48163	Texas	Frio	median_household_income	31996
+48165	Texas	Gaines	median_household_income	43703
+48167	Texas	Galveston	median_household_income	58106
+48169	Texas	Garza	median_household_income	39004
+48171	Texas	Gillespie	median_household_income	51981
+48173	Texas	Glasscock	median_household_income	59309
+48175	Texas	Goliad	median_household_income	43737
+48177	Texas	Gonzales	median_household_income	36408
+48179	Texas	Gray	median_household_income	41488
+48181	Texas	Grayson	median_household_income	44080
+48183	Texas	Gregg	median_household_income	43356
+48185	Texas	Grimes	median_household_income	41981
+48187	Texas	Guadalupe	median_household_income	57576
+48189	Texas	Hale	median_household_income	36142
+48191	Texas	Hall	median_household_income	30376
+48193	Texas	Hamilton	median_household_income	37936
+48195	Texas	Hansford	median_household_income	50505
+48197	Texas	Hardeman	median_household_income	34294
+48199	Texas	Hardin	median_household_income	52514
+48201	Texas	Harris	median_household_income	50924
+48203	Texas	Harrison	median_household_income	44427
+48205	Texas	Hartley	median_household_income	60548
+48207	Texas	Haskell	median_household_income	32493
+48209	Texas	Hays	median_household_income	56557
+48211	Texas	Hemphill	median_household_income	58502
+48213	Texas	Henderson	median_household_income	38191
+48215	Texas	Hidalgo	median_household_income	31021
+48217	Texas	Hill	median_household_income	39184
+48219	Texas	Hockley	median_household_income	42710
+48221	Texas	Hood	median_household_income	48622
+48223	Texas	Hopkins	median_household_income	40441
+48225	Texas	Houston	median_household_income	31892
+48227	Texas	Howard	median_household_income	41125
+48229	Texas	Hudspeth	median_household_income	28624
+48231	Texas	Hunt	median_household_income	47394
+48233	Texas	Hutchinson	median_household_income	49038
+48235	Texas	Irion	median_household_income	54628
+48237	Texas	Jack	median_household_income	45069
+48239	Texas	Jackson	median_household_income	43740
+48241	Texas	Jasper	median_household_income	38260
+48243	Texas	Jeff Davis	median_household_income	48161
+48245	Texas	Jefferson	median_household_income	41363
+48247	Texas	Jim Hogg	median_household_income	32179
+48249	Texas	Jim Wells	median_household_income	39120
+48251	Texas	Johnson	median_household_income	54412
+48253	Texas	Jones	median_household_income	35709
+48255	Texas	Karnes	median_household_income	35904
+48257	Texas	Kaufman	median_household_income	59986
+48259	Texas	Kendall	median_household_income	71388
+48261	Texas	Kenedy	median_household_income	34851
+48263	Texas	Kent	median_household_income	42829
+48265	Texas	Kerr	median_household_income	45621
+48267	Texas	Kimble	median_household_income	35867
+48269	Texas	King	median_household_income	51237
+48271	Texas	Kinney	median_household_income	37917
+48273	Texas	Kleberg	median_household_income	36198
+48275	Texas	Knox	median_household_income	33395
+48277	Texas	Lamar	median_household_income	38685
+48279	Texas	Lamb	median_household_income	34524
+48281	Texas	Lampasas	median_household_income	47135
+48283	Texas	La Salle	median_household_income	29938
+48285	Texas	Lavaca	median_household_income	44186
+48287	Texas	Lee	median_household_income	44411
+48289	Texas	Leon	median_household_income	43545
+48291	Texas	Liberty	median_household_income	45712
+48293	Texas	Limestone	median_household_income	36887
+48295	Texas	Lipscomb	median_household_income	52256
+48297	Texas	Live Oak	median_household_income	41601
+48299	Texas	Llano	median_household_income	42282
+48301	Texas	Loving	median_household_income	46204
+48303	Texas	Lubbock	median_household_income	42978
+48305	Texas	Lynn	median_household_income	36530
+48307	Texas	McCulloch	median_household_income	35775
+48309	Texas	McLennan	median_household_income	40563
+48311	Texas	McMullen	median_household_income	46528
+48313	Texas	Madison	median_household_income	35218
+48315	Texas	Marion	median_household_income	31922
+48317	Texas	Martin	median_household_income	46680
+48319	Texas	Mason	median_household_income	39080
+48321	Texas	Matagorda	median_household_income	40778
+48323	Texas	Maverick	median_household_income	28502
+48325	Texas	Medina	median_household_income	47191
+48327	Texas	Menard	median_household_income	30349
+48329	Texas	Midland	median_household_income	54996
+48331	Texas	Milam	median_household_income	38244
+48333	Texas	Mills	median_household_income	39185
+48335	Texas	Mitchell	median_household_income	36724
+48337	Texas	Montague	median_household_income	44768
+48339	Texas	Montgomery	median_household_income	61996
+48341	Texas	Moore	median_household_income	45795
+48343	Texas	Morris	median_household_income	35972
+48345	Texas	Motley	median_household_income	34852
+48347	Texas	Nacogdoches	median_household_income	38046
+48349	Texas	Navarro	median_household_income	38057
+48351	Texas	Newton	median_household_income	36492
+48353	Texas	Nolan	median_household_income	34920
+48355	Texas	Nueces	median_household_income	43470
+48357	Texas	Ochiltree	median_household_income	52866
+48359	Texas	Oldham	median_household_income	46597
+48361	Texas	Orange	median_household_income	44758
+48363	Texas	Palo Pinto	median_household_income	34574
+48365	Texas	Panola	median_household_income	45212
+48367	Texas	Parker	median_household_income	63584
+48369	Texas	Parmer	median_household_income	39195
+48371	Texas	Pecos	median_household_income	42984
+48373	Texas	Polk	median_household_income	37665
+48375	Texas	Potter	median_household_income	35690
+48377	Texas	Presidio	median_household_income	31297
+48379	Texas	Rains	median_household_income	40595
+48381	Texas	Randall	median_household_income	57402
+48383	Texas	Reagan	median_household_income	47493
+48385	Texas	Real	median_household_income	30499
+48387	Texas	Red River	median_household_income	32615
+48389	Texas	Reeves	median_household_income	32839
+48391	Texas	Refugio	median_household_income	38470
+48393	Texas	Roberts	median_household_income	59699
+48395	Texas	Robertson	median_household_income	38073
+48397	Texas	Rockwall	median_household_income	84763
+48399	Texas	Runnels	median_household_income	34515
+48401	Texas	Rusk	median_household_income	41840
+48403	Texas	Sabine	median_household_income	34605
+48405	Texas	San Augustine	median_household_income	32543
+48407	Texas	San Jacinto	median_household_income	41650
+48409	Texas	San Patricio	median_household_income	45965
+48411	Texas	San Saba	median_household_income	35978
+48413	Texas	Schleicher	median_household_income	41533
+48415	Texas	Scurry	median_household_income	45907
+48417	Texas	Shackelford	median_household_income	42976
+48419	Texas	Shelby	median_household_income	36677
+48421	Texas	Sherman	median_household_income	44699
+48423	Texas	Smith	median_household_income	44261
+48425	Texas	Somervell	median_household_income	52134
+48427	Texas	Starr	median_household_income	24537
+48429	Texas	Stephens	median_household_income	37167
+48431	Texas	Sterling	median_household_income	50943
+48433	Texas	Stonewall	median_household_income	37513
+48435	Texas	Sutton	median_household_income	53501
+48437	Texas	Swisher	median_household_income	35736
+48439	Texas	Tarrant	median_household_income	52882
+48441	Texas	Taylor	median_household_income	40718
+48443	Texas	Terrell	median_household_income	39260
+48445	Texas	Terry	median_household_income	31984
+48447	Texas	Throckmorton	median_household_income	39860
+48449	Texas	Titus	median_household_income	38221
+48451	Texas	Tom Green	median_household_income	41626
+48453	Texas	Travis	median_household_income	53303
+48455	Texas	Trinity	median_household_income	32745
+48457	Texas	Tyler	median_household_income	36384
+48459	Texas	Upshur	median_household_income	44434
+48461	Texas	Upton	median_household_income	47854
+48463	Texas	Uvalde	median_household_income	32749
+48465	Texas	Val Verde	median_household_income	38574
+48467	Texas	Van Zandt	median_household_income	41452
+48469	Texas	Victoria	median_household_income	45687
+48471	Texas	Walker	median_household_income	38138
+48473	Texas	Waller	median_household_income	47180
+48475	Texas	Ward	median_household_income	43871
+48477	Texas	Washington	median_household_income	44897
+48479	Texas	Webb	median_household_income	35295
+48481	Texas	Wharton	median_household_income	41911
+48483	Texas	Wheeler	median_household_income	45848
+48485	Texas	Wichita	median_household_income	42738
+48487	Texas	Wilbarger	median_household_income	35785
+48489	Texas	Willacy	median_household_income	28487
+48491	Texas	Williamson	median_household_income	70276
+48493	Texas	Wilson	median_household_income	56873
+48495	Texas	Winkler	median_household_income	47674
+48497	Texas	Wise	median_household_income	55118
+48499	Texas	Wood	median_household_income	39514
+48501	Texas	Yoakum	median_household_income	48521
+48503	Texas	Young	median_household_income	40133
+48505	Texas	Zapata	median_household_income	30104
+48507	Texas	Zavala	median_household_income	22982
+49001	Utah	Beaver	median_household_income	44126
+49003	Utah	Box Elder	median_household_income	51558
+49005	Utah	Cache	median_household_income	47589
+49007	Utah	Carbon	median_household_income	47585
+49009	Utah	Daggett	median_household_income	48751
+49011	Utah	Davis	median_household_income	68974
+49013	Utah	Duchesne	median_household_income	54973
+49015	Utah	Emery	median_household_income	48745
+49017	Utah	Garfield	median_household_income	40762
+49019	Utah	Grand	median_household_income	41410
+49021	Utah	Iron	median_household_income	41094
+49023	Utah	Juab	median_household_income	51762
+49025	Utah	Kane	median_household_income	42515
+49027	Utah	Millard	median_household_income	47316
+49029	Utah	Morgan	median_household_income	74509
+49031	Utah	Piute	median_household_income	34079
+49033	Utah	Rich	median_household_income	50980
+49035	Utah	Salt Lake	median_household_income	56166
+49037	Utah	San Juan	median_household_income	37444
+49039	Utah	Sanpete	median_household_income	45231
+49041	Utah	Sevier	median_household_income	43190
+49043	Utah	Summit	median_household_income	85221
+49045	Utah	Tooele	median_household_income	61719
+49047	Utah	Uintah	median_household_income	58936
+49049	Utah	Utah	median_household_income	58077
+49051	Utah	Wasatch	median_household_income	56379
+49053	Utah	Washington	median_household_income	46001
+49055	Utah	Wayne	median_household_income	39593
+49057	Utah	Weber	median_household_income	52183
+50001	Vermont	Addison	median_household_income	54542
+50003	Vermont	Bennington	median_household_income	44701
+50005	Vermont	Caledonia	median_household_income	42452
+50007	Vermont	Chittenden	median_household_income	60865
+50009	Vermont	Essex	median_household_income	34535
+50011	Vermont	Franklin	median_household_income	53412
+50013	Vermont	Grand Isle	median_household_income	56241
+50015	Vermont	Lamoille	median_household_income	46549
+50017	Vermont	Orange	median_household_income	50192
+50019	Vermont	Orleans	median_household_income	39598
+50021	Vermont	Rutland	median_household_income	46542
+50023	Vermont	Washington	median_household_income	54840
+50025	Vermont	Windham	median_household_income	46566
+50027	Vermont	Windsor	median_household_income	49295
+51001	Virginia	Accomack	median_household_income	37714
+51003	Virginia	Albemarle	median_household_income	63972
+51005	Virginia	Alleghany	median_household_income	45108
+51007	Virginia	Amelia	median_household_income	49399
+51009	Virginia	Amherst	median_household_income	44494
+51011	Virginia	Appomattox	median_household_income	44097
+51013	Virginia	Arlington	median_household_income	98060
+51015	Virginia	Augusta	median_household_income	51036
+51017	Virginia	Bath	median_household_income	42423
+51019	Virginia	Bedford	median_household_income	58264
+51021	Virginia	Bland	median_household_income	41654
+51023	Virginia	Botetourt	median_household_income	62204
+51025	Virginia	Brunswick	median_household_income	35207
+51027	Virginia	Buchanan	median_household_income	32722
+51029	Virginia	Buckingham	median_household_income	37440
+51031	Virginia	Campbell	median_household_income	47450
+51033	Virginia	Caroline	median_household_income	52496
+51035	Virginia	Carroll	median_household_income	34891
+51036	Virginia	Charles City	median_household_income	45960
+51037	Virginia	Charlotte	median_household_income	35677
+51041	Virginia	Chesterfield	median_household_income	71074
+51043	Virginia	Clarke	median_household_income	74472
+51045	Virginia	Craig	median_household_income	45789
+51047	Virginia	Culpeper	median_household_income	58596
+51049	Virginia	Cumberland	median_household_income	40080
+51051	Virginia	Dickenson	median_household_income	33494
+51053	Virginia	Dinwiddie	median_household_income	50152
+51057	Virginia	Essex	median_household_income	42550
+51059	Virginia	Fairfax	median_household_income	105409
+51061	Virginia	Fauquier	median_household_income	85096
+51063	Virginia	Floyd	median_household_income	39997
+51065	Virginia	Fluvanna	median_household_income	62086
+51067	Virginia	Franklin	median_household_income	49003
+51069	Virginia	Frederick	median_household_income	64501
+51071	Virginia	Giles	median_household_income	43139
+51073	Virginia	Gloucester	median_household_income	58282
+51075	Virginia	Goochland	median_household_income	76804
+51077	Virginia	Grayson	median_household_income	31286
+51079	Virginia	Greene	median_household_income	60710
+51081	Virginia	Greensville	median_household_income	37861
+51083	Virginia	Halifax	median_household_income	35170
+51085	Virginia	Hanover	median_household_income	71714
+51087	Virginia	Henrico	median_household_income	58110
+51089	Virginia	Henry	median_household_income	32596
+51091	Virginia	Highland	median_household_income	37286
+51093	Virginia	Isle of Wight	median_household_income	60922
+51095	Virginia	James City	median_household_income	73575
+51097	Virginia	King and Queen	median_household_income	45087
+51099	Virginia	King George	median_household_income	75935
+51101	Virginia	King William	median_household_income	57779
+51103	Virginia	Lancaster	median_household_income	43470
+51105	Virginia	Lee	median_household_income	30341
+51107	Virginia	Loudoun	median_household_income	119525
+51109	Virginia	Louisa	median_household_income	53267
+51111	Virginia	Lunenburg	median_household_income	34488
+51113	Virginia	Madison	median_household_income	52116
+51115	Virginia	Mathews	median_household_income	54113
+51117	Virginia	Mecklenburg	median_household_income	36372
+51119	Virginia	Middlesex	median_household_income	46171
+51121	Virginia	Montgomery	median_household_income	44066
+51125	Virginia	Nelson	median_household_income	46055
+51127	Virginia	New Kent	median_household_income	69885
+51131	Virginia	Northampton	median_household_income	35594
+51133	Virginia	Northumberland	median_household_income	45908
+51135	Virginia	Nottoway	median_household_income	36712
+51137	Virginia	Orange	median_household_income	56967
+51139	Virginia	Page	median_household_income	40118
+51141	Virginia	Patrick	median_household_income	34486
+51143	Virginia	Pittsylvania	median_household_income	40664
+51145	Virginia	Powhatan	median_household_income	71507
+51147	Virginia	Prince Edward	median_household_income	36503
+51149	Virginia	Prince George	median_household_income	56374
+51153	Virginia	Prince William	median_household_income	93101
+51155	Virginia	Pulaski	median_household_income	39054
+51157	Virginia	Rappahannock	median_household_income	59277
+51159	Virginia	Richmond	median_household_income	39624
+51161	Virginia	Roanoke	median_household_income	60382
+51163	Virginia	Rockbridge	median_household_income	42567
+51165	Virginia	Rockingham	median_household_income	51826
+51167	Virginia	Russell	median_household_income	30562
+51169	Virginia	Scott	median_household_income	35342
+51171	Virginia	Shenandoah	median_household_income	47669
+51173	Virginia	Smyth	median_household_income	34916
+51175	Virginia	Southampton	median_household_income	43374
+51177	Virginia	Spotsylvania	median_household_income	75627
+51179	Virginia	Stafford	median_household_income	90748
+51181	Virginia	Surry	median_household_income	46486
+51183	Virginia	Sussex	median_household_income	37329
+51185	Virginia	Tazewell	median_household_income	36521
+51187	Virginia	Warren	median_household_income	56450
+51191	Virginia	Washington	median_household_income	40513
+51193	Virginia	Westmoreland	median_household_income	43175
+51195	Virginia	Wise	median_household_income	36286
+51197	Virginia	Wythe	median_household_income	39879
+51199	Virginia	York	median_household_income	80178
+51510	Virginia	Alexandria City	median_household_income	82070
+51515	Virginia	Bedford City	median_household_income	36552
+51520	Virginia	Bristol City	median_household_income	29612
+51530	Virginia	Buena Vista City	median_household_income	32855
+51540	Virginia	Charlottesville City	median_household_income	41826
+51550	Virginia	Chesapeake City	median_household_income	65699
+51570	Virginia	Colonial Heights City	median_household_income	48299
+51580	Virginia	Covington City	median_household_income	35921
+51590	Virginia	Danville City	median_household_income	31545
+51595	Virginia	Emporia City	median_household_income	32801
+51600	Virginia	Fairfax City	median_household_income	87307
+51610	Virginia	Falls Church City	median_household_income	117481
+51620	Virginia	Franklin City	median_household_income	30725
+51630	Virginia	Fredericksburg City	median_household_income	50522
+51640	Virginia	Galax City	median_household_income	31740
+51650	Virginia	Hampton City	median_household_income	48656
+51660	Virginia	Harrisonburg City	median_household_income	36370
+51670	Virginia	Hopewell City	median_household_income	36792
+51678	Virginia	Lexington City	median_household_income	40105
+51680	Virginia	Lynchburg City	median_household_income	36657
+51683	Virginia	Manassas City	median_household_income	65590
+51685	Virginia	Manassas Park City	median_household_income	71976
+51690	Virginia	Martinsville City	median_household_income	30227
+51700	Virginia	Newport News City	median_household_income	47969
+51710	Virginia	Norfolk City	median_household_income	42201
+51720	Virginia	Norton City	median_household_income	32624
+51730	Virginia	Petersburg City	median_household_income	32615
+51735	Virginia	Poquoson City	median_household_income	81040
+51740	Virginia	Portsmouth City	median_household_income	41910
+51750	Virginia	Radford City	median_household_income	33848
+51760	Virginia	Richmond City	median_household_income	38368
+51770	Virginia	Roanoke City	median_household_income	38482
+51775	Virginia	Salem City	median_household_income	44499
+51790	Virginia	Staunton City	median_household_income	41006
+51800	Virginia	Suffolk City	median_household_income	61335
+51810	Virginia	Virginia Beach City	median_household_income	64107
+51820	Virginia	Waynesboro City	median_household_income	40342
+51830	Virginia	Williamsburg City	median_household_income	46358
+51840	Virginia	Winchester City	median_household_income	42539
+53001	Washington	Adams	median_household_income	40675
+53003	Washington	Asotin	median_household_income	41864
+53005	Washington	Benton	median_household_income	61539
+53007	Washington	Chelan	median_household_income	48458
+53009	Washington	Clallam	median_household_income	47903
+53011	Washington	Clark	median_household_income	56750
+53013	Washington	Columbia	median_household_income	42463
+53015	Washington	Cowlitz	median_household_income	43611
+53017	Washington	Douglas	median_household_income	47958
+53019	Washington	Ferry	median_household_income	34543
+53021	Washington	Franklin	median_household_income	48904
+53023	Washington	Garfield	median_household_income	46302
+53025	Washington	Grant	median_household_income	43149
+53027	Washington	Grays Harbor	median_household_income	40886
+53029	Washington	Island	median_household_income	58179
+53031	Washington	Jefferson	median_household_income	47045
+53033	Washington	King	median_household_income	68596
+53035	Washington	Kitsap	median_household_income	60294
+53037	Washington	Kittitas	median_household_income	41823
+53039	Washington	Klickitat	median_household_income	43340
+53041	Washington	Lewis	median_household_income	42072
+53043	Washington	Lincoln	median_household_income	47602
+53045	Washington	Mason	median_household_income	44331
+53047	Washington	Okanogan	median_household_income	38680
+53049	Washington	Pacific	median_household_income	37632
+53051	Washington	Pend Oreille	median_household_income	37457
+53053	Washington	Pierce	median_household_income	55215
+53055	Washington	San Juan	median_household_income	52371
+53057	Washington	Skagit	median_household_income	52013
+53059	Washington	Skamania	median_household_income	51548
+53061	Washington	Snohomish	median_household_income	63766
+53063	Washington	Spokane	median_household_income	48693
+53065	Washington	Stevens	median_household_income	41166
+53067	Washington	Thurston	median_household_income	59694
+53069	Washington	Wahkiakum	median_household_income	41286
+53071	Washington	Walla Walla	median_household_income	47570
+53073	Washington	Whatcom	median_household_income	51315
+53075	Washington	Whitman	median_household_income	35860
+53077	Washington	Yakima	median_household_income	41666
+54001	West Virginia	Barbour	median_household_income	33004
+54003	West Virginia	Berkeley	median_household_income	51029
+54005	West Virginia	Boone	median_household_income	38357
+54007	West Virginia	Braxton	median_household_income	32369
+54009	West Virginia	Brooke	median_household_income	41034
+54011	West Virginia	Cabell	median_household_income	36864
+54013	West Virginia	Calhoun	median_household_income	28581
+54015	West Virginia	Clay	median_household_income	29802
+54017	West Virginia	Doddridge	median_household_income	35261
+54019	West Virginia	Fayette	median_household_income	32316
+54021	West Virginia	Gilmer	median_household_income	33196
+54023	West Virginia	Grant	median_household_income	37953
+54025	West Virginia	Greenbrier	median_household_income	35924
+54027	West Virginia	Hampshire	median_household_income	36588
+54029	West Virginia	Hancock	median_household_income	39110
+54031	West Virginia	Hardy	median_household_income	38013
+54033	West Virginia	Harrison	median_household_income	39899
+54035	West Virginia	Jackson	median_household_income	41066
+54037	West Virginia	Jefferson	median_household_income	59280
+54039	West Virginia	Kanawha	median_household_income	40409
+54041	West Virginia	Lewis	median_household_income	37270
+54043	West Virginia	Lincoln	median_household_income	32517
+54045	West Virginia	Logan	median_household_income	34001
+54047	West Virginia	McDowell	median_household_income	23751
+54049	West Virginia	Marion	median_household_income	39774
+54051	West Virginia	Marshall	median_household_income	41974
+54053	West Virginia	Mason	median_household_income	35132
+54055	West Virginia	Mercer	median_household_income	33500
+54057	West Virginia	Mineral	median_household_income	38073
+54059	West Virginia	Mingo	median_household_income	31681
+54061	West Virginia	Monongalia	median_household_income	43447
+54063	West Virginia	Monroe	median_household_income	37066
+54065	West Virginia	Morgan	median_household_income	40762
+54067	West Virginia	Nicholas	median_household_income	36080
+54069	West Virginia	Ohio	median_household_income	36836
+54071	West Virginia	Pendleton	median_household_income	37042
+54073	West Virginia	Pleasants	median_household_income	41596
+54075	West Virginia	Pocahontas	median_household_income	34928
+54077	West Virginia	Preston	median_household_income	40375
+54079	West Virginia	Putnam	median_household_income	53964
+54081	West Virginia	Raleigh	median_household_income	38156
+54083	West Virginia	Randolph	median_household_income	33529
+54085	West Virginia	Ritchie	median_household_income	35421
+54087	West Virginia	Roane	median_household_income	28131
+54089	West Virginia	Summers	median_household_income	30751
+54091	West Virginia	Taylor	median_household_income	39055
+54093	West Virginia	Tucker	median_household_income	35019
+54095	West Virginia	Tyler	median_household_income	36952
+54097	West Virginia	Upshur	median_household_income	36719
+54099	West Virginia	Wayne	median_household_income	35418
+54101	West Virginia	Webster	median_household_income	28697
+54103	West Virginia	Wetzel	median_household_income	38457
+54105	West Virginia	Wirt	median_household_income	36084
+54107	West Virginia	Wood	median_household_income	38005
+54109	West Virginia	Wyoming	median_household_income	32851
+55001	Wisconsin	Adams	median_household_income	40339
+55003	Wisconsin	Ashland	median_household_income	36683
+55005	Wisconsin	Barron	median_household_income	44666
+55007	Wisconsin	Bayfield	median_household_income	42558
+55009	Wisconsin	Brown	median_household_income	52744
+55011	Wisconsin	Buffalo	median_household_income	44425
+55013	Wisconsin	Burnett	median_household_income	40295
+55015	Wisconsin	Calumet	median_household_income	66543
+55017	Wisconsin	Chippewa	median_household_income	50120
+55019	Wisconsin	Clark	median_household_income	40056
+55021	Wisconsin	Columbia	median_household_income	57457
+55023	Wisconsin	Crawford	median_household_income	41181
+55025	Wisconsin	Dane	median_household_income	60489
+55027	Wisconsin	Dodge	median_household_income	52130
+55029	Wisconsin	Door	median_household_income	46441
+55031	Wisconsin	Douglas	median_household_income	45935
+55033	Wisconsin	Dunn	median_household_income	45878
+55035	Wisconsin	Eau Claire	median_household_income	47660
+55037	Wisconsin	Florence	median_household_income	46041
+55039	Wisconsin	Fond du Lac	median_household_income	53305
+55041	Wisconsin	Forest	median_household_income	39282
+55043	Wisconsin	Grant	median_household_income	45748
+55045	Wisconsin	Green	median_household_income	53051
+55047	Wisconsin	Green Lake	median_household_income	47094
+55049	Wisconsin	Iowa	median_household_income	51740
+55051	Wisconsin	Iron	median_household_income	38355
+55053	Wisconsin	Jackson	median_household_income	41337
+55055	Wisconsin	Jefferson	median_household_income	53710
+55057	Wisconsin	Juneau	median_household_income	41226
+55059	Wisconsin	Kenosha	median_household_income	51966
+55061	Wisconsin	Kewaunee	median_household_income	54727
+55063	Wisconsin	La Crosse	median_household_income	49698
+55065	Wisconsin	Lafayette	median_household_income	48231
+55067	Wisconsin	Langlade	median_household_income	41994
+55069	Wisconsin	Lincoln	median_household_income	45927
+55071	Wisconsin	Manitowoc	median_household_income	48804
+55073	Wisconsin	Marathon	median_household_income	51908
+55075	Wisconsin	Marinette	median_household_income	39705
+55077	Wisconsin	Marquette	median_household_income	41814
+55078	Wisconsin	Menominee	median_household_income	30156
+55079	Wisconsin	Milwaukee	median_household_income	40780
+55081	Wisconsin	Monroe	median_household_income	45841
+55083	Wisconsin	Oconto	median_household_income	53280
+55085	Wisconsin	Oneida	median_household_income	39418
+55087	Wisconsin	Outagamie	median_household_income	56901
+55089	Wisconsin	Ozaukee	median_household_income	74631
+55091	Wisconsin	Pepin	median_household_income	45193
+55093	Wisconsin	Pierce	median_household_income	57866
+55095	Wisconsin	Polk	median_household_income	46872
+55097	Wisconsin	Portage	median_household_income	50712
+55099	Wisconsin	Price	median_household_income	41576
+55101	Wisconsin	Racine	median_household_income	52900
+55103	Wisconsin	Richland	median_household_income	43222
+55105	Wisconsin	Rock	median_household_income	47857
+55107	Wisconsin	Rusk	median_household_income	36810
+55109	Wisconsin	St. Croix	median_household_income	64490
+55111	Wisconsin	Sauk	median_household_income	48874
+55113	Wisconsin	Sawyer	median_household_income	40002
+55115	Wisconsin	Shawano	median_household_income	42795
+55117	Wisconsin	Sheboygan	median_household_income	51541
+55119	Wisconsin	Taylor	median_household_income	42460
+55121	Wisconsin	Trempealeau	median_household_income	46203
+55123	Wisconsin	Vernon	median_household_income	42670
+55125	Wisconsin	Vilas	median_household_income	40901
+55127	Wisconsin	Walworth	median_household_income	52300
+55129	Wisconsin	Washburn	median_household_income	39777
+55131	Wisconsin	Washington	median_household_income	67760
+55133	Wisconsin	Waukesha	median_household_income	73025
+55135	Wisconsin	Waupaca	median_household_income	47601
+55137	Wisconsin	Waushara	median_household_income	39836
+55139	Wisconsin	Winnebago	median_household_income	49279
+55141	Wisconsin	Wood	median_household_income	46558
+56001	Wyoming	Albany	median_household_income	45651
+56003	Wyoming	Big Horn	median_household_income	49929
+56005	Wyoming	Campbell	median_household_income	70438
+56007	Wyoming	Carbon	median_household_income	52855
+56009	Wyoming	Converse	median_household_income	59507
+56011	Wyoming	Crook	median_household_income	55294
+56013	Wyoming	Fremont	median_household_income	45731
+56015	Wyoming	Goshen	median_household_income	41014
+56017	Wyoming	Hot Springs	median_household_income	41845
+56019	Wyoming	Johnson	median_household_income	53577
+56021	Wyoming	Laramie	median_household_income	53839
+56023	Wyoming	Lincoln	median_household_income	60062
+56025	Wyoming	Natrona	median_household_income	52904
+56027	Wyoming	Niobrara	median_household_income	41712
+56029	Wyoming	Park	median_household_income	50141
+56031	Wyoming	Platte	median_household_income	47916
+56033	Wyoming	Sheridan	median_household_income	53217
+56035	Wyoming	Sublette	median_household_income	75242
+56037	Wyoming	Sweetwater	median_household_income	69756
+56039	Wyoming	Teton	median_household_income	69095
+56041	Wyoming	Uinta	median_household_income	61266
+56043	Wyoming	Washakie	median_household_income	49747
+56045	Wyoming	Weston	median_household_income	53313

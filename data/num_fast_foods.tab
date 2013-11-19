@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	num_fast_foods
+1001	Alabama	Autauga	num_fast_foods	36
+1003	Alabama	Baldwin	num_fast_foods	112
+1005	Alabama	Barbour	num_fast_foods	19
+1007	Alabama	Bibb	num_fast_foods	5
+1009	Alabama	Blount	num_fast_foods	22
+1011	Alabama	Bullock	num_fast_foods	2
+1013	Alabama	Butler	num_fast_foods	16
+1015	Alabama	Calhoun	num_fast_foods	94
+1017	Alabama	Chambers	num_fast_foods	22
+1019	Alabama	Cherokee	num_fast_foods	18
+1021	Alabama	Chilton	num_fast_foods	25
+1023	Alabama	Choctaw	num_fast_foods	6
+1025	Alabama	Clarke	num_fast_foods	24
+1027	Alabama	Clay	num_fast_foods	4
+1029	Alabama	Cleburne	num_fast_foods	7
+1031	Alabama	Coffee	num_fast_foods	36
+1033	Alabama	Colbert	num_fast_foods	43
+1035	Alabama	Conecuh	num_fast_foods	5
+1037	Alabama	Coosa	num_fast_foods	
+1039	Alabama	Covington	num_fast_foods	22
+1041	Alabama	Crenshaw	num_fast_foods	4
+1043	Alabama	Cullman	num_fast_foods	54
+1045	Alabama	Dale	num_fast_foods	35
+1047	Alabama	Dallas	num_fast_foods	21
+1049	Alabama	DeKalb	num_fast_foods	40
+1051	Alabama	Elmore	num_fast_foods	28
+1053	Alabama	Escambia	num_fast_foods	22
+1055	Alabama	Etowah	num_fast_foods	76
+1057	Alabama	Fayette	num_fast_foods	12
+1059	Alabama	Franklin	num_fast_foods	17
+1061	Alabama	Geneva	num_fast_foods	12
+1063	Alabama	Greene	num_fast_foods	1
+1065	Alabama	Hale	num_fast_foods	4
+1067	Alabama	Henry	num_fast_foods	10
+1069	Alabama	Houston	num_fast_foods	89
+1071	Alabama	Jackson	num_fast_foods	32
+1073	Alabama	Jefferson	num_fast_foods	588
+1075	Alabama	Lamar	num_fast_foods	5
+1077	Alabama	Lauderdale	num_fast_foods	62
+1079	Alabama	Lawrence	num_fast_foods	18
+1081	Alabama	Lee	num_fast_foods	107
+1083	Alabama	Limestone	num_fast_foods	42
+1085	Alabama	Lowndes	num_fast_foods	2
+1087	Alabama	Macon	num_fast_foods	13
+1089	Alabama	Madison	num_fast_foods	289
+1091	Alabama	Marengo	num_fast_foods	17
+1093	Alabama	Marion	num_fast_foods	23
+1095	Alabama	Marshall	num_fast_foods	64
+1097	Alabama	Mobile	num_fast_foods	254
+1099	Alabama	Monroe	num_fast_foods	12
+1101	Alabama	Montgomery	num_fast_foods	166
+1103	Alabama	Morgan	num_fast_foods	95
+1105	Alabama	Perry	num_fast_foods	2
+1107	Alabama	Pickens	num_fast_foods	7
+1109	Alabama	Pike	num_fast_foods	27
+1111	Alabama	Randolph	num_fast_foods	8
+1113	Alabama	Russell	num_fast_foods	42
+1115	Alabama	St. Clair	num_fast_foods	44
+1117	Alabama	Shelby	num_fast_foods	120
+1119	Alabama	Sumter	num_fast_foods	7
+1121	Alabama	Talladega	num_fast_foods	46
+1123	Alabama	Tallapoosa	num_fast_foods	24
+1125	Alabama	Tuscaloosa	num_fast_foods	161
+1127	Alabama	Walker	num_fast_foods	47
+1129	Alabama	Washington	num_fast_foods	5
+1131	Alabama	Wilcox	num_fast_foods	4
+1133	Alabama	Winston	num_fast_foods	10
+2013	Alaska	Aleutians East	num_fast_foods	1
+2016	Alaska	Aleutians West	num_fast_foods	1
+2020	Alaska	Anchorage	num_fast_foods	207
+2050	Alaska	Bethel	num_fast_foods	6
+2060	Alaska	Bristol Bay	num_fast_foods	1
+2068	Alaska	Denali	num_fast_foods	2
+2070	Alaska	Dillingham	num_fast_foods	
+2090	Alaska	Fairbanks North Star	num_fast_foods	45
+2100	Alaska	Haines	num_fast_foods	1
+2110	Alaska	Juneau	num_fast_foods	22
+2122	Alaska	Kenai Peninsula	num_fast_foods	33
+2130	Alaska	Ketchikan Gateway	num_fast_foods	8
+2150	Alaska	Kodiak Island	num_fast_foods	6
+2164	Alaska	Lake and Peninsula	num_fast_foods	
+2170	Alaska	Matanuska-Susitna	num_fast_foods	42
+2180	Alaska	Nome	num_fast_foods	4
+2185	Alaska	North Slope	num_fast_foods	3
+2188	Alaska	Northwest Arctic	num_fast_foods	1
+2201	Alaska	Prince of Wales-Outer Ketchikan	num_fast_foods	3
+2220	Alaska	Sitka	num_fast_foods	3
+2232	Alaska	Skagway-Hoonah-Angoon	num_fast_foods	4
+2240	Alaska	Southeast Fairbanks	num_fast_foods	6
+2261	Alaska	Valdez-Cordova	num_fast_foods	7
+2270	Alaska	Wade Hampton	num_fast_foods	
+2280	Alaska	Wrangell-Petersburg	num_fast_foods	7
+2282	Alaska	Yakutat	num_fast_foods	1
+2290	Alaska	Yukon-Koyukuk	num_fast_foods	
+4001	Arizona	Apache	num_fast_foods	20
+4003	Arizona	Cochise	num_fast_foods	61
+4005	Arizona	Coconino	num_fast_foods	117
+4007	Arizona	Gila	num_fast_foods	32
+4009	Arizona	Graham	num_fast_foods	17
+4011	Arizona	Greenlee	num_fast_foods	1
+4012	Arizona	La Paz	num_fast_foods	16
+4013	Arizona	Maricopa	num_fast_foods	2619
+4015	Arizona	Mohave	num_fast_foods	110
+4017	Arizona	Navajo	num_fast_foods	66
+4019	Arizona	Pima	num_fast_foods	615
+4021	Arizona	Pinal	num_fast_foods	124
+4023	Arizona	Santa Cruz	num_fast_foods	29
+4025	Arizona	Yavapai	num_fast_foods	140
+4027	Arizona	Yuma	num_fast_foods	106
+5001	Arkansas	Arkansas	num_fast_foods	16
+5003	Arkansas	Ashley	num_fast_foods	13
+5005	Arkansas	Baxter	num_fast_foods	29
+5007	Arkansas	Benton	num_fast_foods	149
+5009	Arkansas	Boone	num_fast_foods	26
+5011	Arkansas	Bradley	num_fast_foods	4
+5013	Arkansas	Calhoun	num_fast_foods	2
+5015	Arkansas	Carroll	num_fast_foods	15
+5017	Arkansas	Chicot	num_fast_foods	5
+5019	Arkansas	Clark	num_fast_foods	20
+5021	Arkansas	Clay	num_fast_foods	11
+5023	Arkansas	Cleburne	num_fast_foods	15
+5025	Arkansas	Cleveland	num_fast_foods	2
+5027	Arkansas	Columbia	num_fast_foods	15
+5029	Arkansas	Conway	num_fast_foods	9
+5031	Arkansas	Craighead	num_fast_foods	81
+5033	Arkansas	Crawford	num_fast_foods	31
+5035	Arkansas	Crittenden	num_fast_foods	34
+5037	Arkansas	Cross	num_fast_foods	9
+5039	Arkansas	Dallas	num_fast_foods	3
+5041	Arkansas	Desha	num_fast_foods	8
+5043	Arkansas	Drew	num_fast_foods	13
+5045	Arkansas	Faulkner	num_fast_foods	69
+5047	Arkansas	Franklin	num_fast_foods	6
+5049	Arkansas	Fulton	num_fast_foods	4
+5051	Arkansas	Garland	num_fast_foods	71
+5053	Arkansas	Grant	num_fast_foods	8
+5055	Arkansas	Greene	num_fast_foods	28
+5057	Arkansas	Hempstead	num_fast_foods	11
+5059	Arkansas	Hot Spring	num_fast_foods	16
+5061	Arkansas	Howard	num_fast_foods	9
+5063	Arkansas	Independence	num_fast_foods	26
+5065	Arkansas	Izard	num_fast_foods	4
+5067	Arkansas	Jackson	num_fast_foods	5
+5069	Arkansas	Jefferson	num_fast_foods	59
+5071	Arkansas	Johnson	num_fast_foods	16
+5073	Arkansas	Lafayette	num_fast_foods	2
+5075	Arkansas	Lawrence	num_fast_foods	4
+5077	Arkansas	Lee	num_fast_foods	3
+5079	Arkansas	Lincoln	num_fast_foods	1
+5081	Arkansas	Little River	num_fast_foods	4
+5083	Arkansas	Logan	num_fast_foods	11
+5085	Arkansas	Lonoke	num_fast_foods	40
+5087	Arkansas	Madison	num_fast_foods	3
+5089	Arkansas	Marion	num_fast_foods	9
+5091	Arkansas	Miller	num_fast_foods	27
+5093	Arkansas	Mississippi	num_fast_foods	32
+5095	Arkansas	Monroe	num_fast_foods	6
+5097	Arkansas	Montgomery	num_fast_foods	3
+5099	Arkansas	Nevada	num_fast_foods	3
+5101	Arkansas	Newton	num_fast_foods	1
+5103	Arkansas	Ouachita	num_fast_foods	13
+5105	Arkansas	Perry	num_fast_foods	3
+5107	Arkansas	Phillips	num_fast_foods	11
+5109	Arkansas	Pike	num_fast_foods	3
+5111	Arkansas	Poinsett	num_fast_foods	20
+5113	Arkansas	Polk	num_fast_foods	12
+5115	Arkansas	Pope	num_fast_foods	54
+5117	Arkansas	Prairie	num_fast_foods	4
+5119	Arkansas	Pulaski	num_fast_foods	334
+5121	Arkansas	Randolph	num_fast_foods	10
+5123	Arkansas	St. Francis	num_fast_foods	11
+5125	Arkansas	Saline	num_fast_foods	51
+5127	Arkansas	Scott	num_fast_foods	2
+5129	Arkansas	Searcy	num_fast_foods	4
+5131	Arkansas	Sebastian	num_fast_foods	97
+5133	Arkansas	Sevier	num_fast_foods	7
+5135	Arkansas	Sharp	num_fast_foods	10
+5137	Arkansas	Stone	num_fast_foods	9
+5139	Arkansas	Union	num_fast_foods	25
+5141	Arkansas	Van Buren	num_fast_foods	5
+5143	Arkansas	Washington	num_fast_foods	161
+5145	Arkansas	White	num_fast_foods	51
+5147	Arkansas	Woodruff	num_fast_foods	3
+5149	Arkansas	Yell	num_fast_foods	11
+6001	California	Alameda	num_fast_foods	1061
+6003	California	Alpine	num_fast_foods	2
+6005	California	Amador	num_fast_foods	16
+6007	California	Butte	num_fast_foods	148
+6009	California	Calaveras	num_fast_foods	24
+6011	California	Colusa	num_fast_foods	12
+6013	California	Contra Costa	num_fast_foods	594
+6015	California	Del Norte	num_fast_foods	16
+6017	California	El Dorado	num_fast_foods	110
+6019	California	Fresno	num_fast_foods	563
+6021	California	Glenn	num_fast_foods	13
+6023	California	Humboldt	num_fast_foods	90
+6025	California	Imperial	num_fast_foods	79
+6027	California	Inyo	num_fast_foods	13
+6029	California	Kern	num_fast_foods	519
+6031	California	Kings	num_fast_foods	85
+6033	California	Lake	num_fast_foods	26
+6035	California	Lassen	num_fast_foods	11
+6037	California	Los Angeles	num_fast_foods	7096
+6039	California	Madera	num_fast_foods	74
+6041	California	Marin	num_fast_foods	152
+6043	California	Mariposa	num_fast_foods	9
+6045	California	Mendocino	num_fast_foods	51
+6047	California	Merced	num_fast_foods	129
+6049	California	Modoc	num_fast_foods	6
+6051	California	Mono	num_fast_foods	17
+6053	California	Monterey	num_fast_foods	239
+6055	California	Napa	num_fast_foods	76
+6057	California	Nevada	num_fast_foods	53
+6059	California	Orange	num_fast_foods	2522
+6061	California	Placer	num_fast_foods	272
+6063	California	Plumas	num_fast_foods	12
+6065	California	Riverside	num_fast_foods	1294
+6067	California	Sacramento	num_fast_foods	937
+6069	California	San Benito	num_fast_foods	31
+6071	California	San Bernardino	num_fast_foods	1323
+6073	California	San Diego	num_fast_foods	2299
+6075	California	San Francisco	num_fast_foods	738
+6077	California	San Joaquin	num_fast_foods	399
+6079	California	San Luis Obispo	num_fast_foods	227
+6081	California	San Mateo	num_fast_foods	481
+6083	California	Santa Barbara	num_fast_foods	310
+6085	California	Santa Clara	num_fast_foods	1244
+6087	California	Santa Cruz	num_fast_foods	171
+6089	California	Shasta	num_fast_foods	123
+6091	California	Sierra	num_fast_foods	1
+6093	California	Siskiyou	num_fast_foods	33
+6095	California	Solano	num_fast_foods	273
+6097	California	Sonoma	num_fast_foods	279
+6099	California	Stanislaus	num_fast_foods	313
+6101	California	Sutter	num_fast_foods	50
+6103	California	Tehama	num_fast_foods	34
+6105	California	Trinity	num_fast_foods	13
+6107	California	Tulare	num_fast_foods	210
+6109	California	Tuolumne	num_fast_foods	29
+6111	California	Ventura	num_fast_foods	548
+6113	California	Yolo	num_fast_foods	139
+6115	California	Yuba	num_fast_foods	30
+8001	Colorado	Adams	num_fast_foods	268
+8003	Colorado	Alamosa	num_fast_foods	14
+8005	Colorado	Arapahoe	num_fast_foods	447
+8007	Colorado	Archuleta	num_fast_foods	11
+8009	Colorado	Baca	num_fast_foods	1
+8011	Colorado	Bent	num_fast_foods	2
+8013	Colorado	Boulder	num_fast_foods	244
+8014	Colorado	Broomfield	num_fast_foods	65
+8015	Colorado	Chaffee	num_fast_foods	23
+8017	Colorado	Cheyenne	num_fast_foods	
+8019	Colorado	Clear Creek	num_fast_foods	9
+8021	Colorado	Conejos	num_fast_foods	1
+8023	Colorado	Costilla	num_fast_foods	
+8025	Colorado	Crowley	num_fast_foods	
+8027	Colorado	Custer	num_fast_foods	1
+8029	Colorado	Delta	num_fast_foods	11
+8031	Colorado	Denver	num_fast_foods	531
+8033	Colorado	Dolores	num_fast_foods	1
+8035	Colorado	Douglas	num_fast_foods	187
+8037	Colorado	Eagle	num_fast_foods	42
+8039	Colorado	Elbert	num_fast_foods	4
+8041	Colorado	El Paso	num_fast_foods	417
+8043	Colorado	Fremont	num_fast_foods	16
+8045	Colorado	Garfield	num_fast_foods	43
+8047	Colorado	Gilpin	num_fast_foods	
+8049	Colorado	Grand	num_fast_foods	13
+8051	Colorado	Gunnison	num_fast_foods	13
+8053	Colorado	Hinsdale	num_fast_foods	2
+8055	Colorado	Huerfano	num_fast_foods	3
+8057	Colorado	Jackson	num_fast_foods	
+8059	Colorado	Jefferson	num_fast_foods	376
+8061	Colorado	Kiowa	num_fast_foods	
+8063	Colorado	Kit Carson	num_fast_foods	6
+8065	Colorado	Lake	num_fast_foods	6
+8067	Colorado	La Plata	num_fast_foods	37
+8069	Colorado	Larimer	num_fast_foods	247
+8071	Colorado	Las Animas	num_fast_foods	10
+8073	Colorado	Lincoln	num_fast_foods	2
+8075	Colorado	Logan	num_fast_foods	12
+8077	Colorado	Mesa	num_fast_foods	103
+8079	Colorado	Mineral	num_fast_foods	
+8081	Colorado	Moffat	num_fast_foods	5
+8083	Colorado	Montezuma	num_fast_foods	13
+8085	Colorado	Montrose	num_fast_foods	19
+8087	Colorado	Morgan	num_fast_foods	11
+8089	Colorado	Otero	num_fast_foods	12
+8091	Colorado	Ouray	num_fast_foods	9
+8093	Colorado	Park	num_fast_foods	6
+8095	Colorado	Phillips	num_fast_foods	2
+8097	Colorado	Pitkin	num_fast_foods	26
+8099	Colorado	Prowers	num_fast_foods	13
+8101	Colorado	Pueblo	num_fast_foods	113
+8103	Colorado	Rio Blanco	num_fast_foods	5
+8105	Colorado	Rio Grande	num_fast_foods	6
+8107	Colorado	Routt	num_fast_foods	23
+8109	Colorado	Saguache	num_fast_foods	
+8111	Colorado	San Juan	num_fast_foods	5
+8113	Colorado	San Miguel	num_fast_foods	16
+8115	Colorado	Sedgwick	num_fast_foods	1
+8117	Colorado	Summit	num_fast_foods	45
+8119	Colorado	Teller	num_fast_foods	15
+8121	Colorado	Washington	num_fast_foods	1
+8123	Colorado	Weld	num_fast_foods	132
+8125	Colorado	Yuma	num_fast_foods	3
+9001	Connecticut	Fairfield	num_fast_foods	534
+9003	Connecticut	Hartford	num_fast_foods	509
+9005	Connecticut	Litchfield	num_fast_foods	76
+9007	Connecticut	Middlesex	num_fast_foods	93
+9009	Connecticut	New Haven	num_fast_foods	558
+9011	Connecticut	New London	num_fast_foods	158
+9013	Connecticut	Tolland	num_fast_foods	57
+9015	Connecticut	Windham	num_fast_foods	56
+10001	Delaware	Kent	num_fast_foods	82
+10003	Delaware	New Castle	num_fast_foods	375
+10005	Delaware	Sussex	num_fast_foods	150
+11001	District of Columbia	District of Columbia	num_fast_foods	752
+12001	Florida	Alachua	num_fast_foods	188
+12003	Florida	Baker	num_fast_foods	11
+12005	Florida	Bay	num_fast_foods	124
+12007	Florida	Bradford	num_fast_foods	14
+12009	Florida	Brevard	num_fast_foods	330
+12011	Florida	Broward	num_fast_foods	1178
+12013	Florida	Calhoun	num_fast_foods	8
+12015	Florida	Charlotte	num_fast_foods	78
+12017	Florida	Citrus	num_fast_foods	49
+12019	Florida	Clay	num_fast_foods	109
+12021	Florida	Collier	num_fast_foods	169
+12023	Florida	Columbia	num_fast_foods	37
+12027	Florida	DeSoto	num_fast_foods	13
+12029	Florida	Dixie	num_fast_foods	4
+12031	Florida	Duval	num_fast_foods	718
+12033	Florida	Escambia	num_fast_foods	173
+12035	Florida	Flagler	num_fast_foods	32
+12037	Florida	Franklin	num_fast_foods	7
+12039	Florida	Gadsden	num_fast_foods	20
+12041	Florida	Gilchrist	num_fast_foods	2
+12043	Florida	Glades	num_fast_foods	2
+12045	Florida	Gulf	num_fast_foods	9
+12047	Florida	Hamilton	num_fast_foods	6
+12049	Florida	Hardee	num_fast_foods	8
+12051	Florida	Hendry	num_fast_foods	17
+12053	Florida	Hernando	num_fast_foods	70
+12055	Florida	Highlands	num_fast_foods	48
+12057	Florida	Hillsborough	num_fast_foods	760
+12059	Florida	Holmes	num_fast_foods	4
+12061	Florida	Indian River	num_fast_foods	81
+12063	Florida	Jackson	num_fast_foods	29
+12065	Florida	Jefferson	num_fast_foods	8
+12067	Florida	Lafayette	num_fast_foods	2
+12069	Florida	Lake	num_fast_foods	137
+12071	Florida	Lee	num_fast_foods	326
+12073	Florida	Leon	num_fast_foods	223
+12075	Florida	Levy	num_fast_foods	19
+12077	Florida	Liberty	num_fast_foods	
+12079	Florida	Madison	num_fast_foods	6
+12081	Florida	Manatee	num_fast_foods	158
+12083	Florida	Marion	num_fast_foods	156
+12085	Florida	Martin	num_fast_foods	97
+12086	Florida	Miami-Dade	num_fast_foods	1537
+12087	Florida	Monroe	num_fast_foods	70
+12089	Florida	Nassau	num_fast_foods	46
+12091	Florida	Okaloosa	num_fast_foods	149
+12093	Florida	Okeechobee	num_fast_foods	18
+12095	Florida	Orange	num_fast_foods	864
+12097	Florida	Osceola	num_fast_foods	150
+12099	Florida	Palm Beach	num_fast_foods	816
+12101	Florida	Pasco	num_fast_foods	157
+12103	Florida	Pinellas	num_fast_foods	572
+12105	Florida	Polk	num_fast_foods	232
+12107	Florida	Putnam	num_fast_foods	32
+12109	Florida	St. Johns	num_fast_foods	111
+12111	Florida	St. Lucie	num_fast_foods	129
+12113	Florida	Santa Rosa	num_fast_foods	74
+12115	Florida	Sarasota	num_fast_foods	208
+12117	Florida	Seminole	num_fast_foods	270
+12119	Florida	Sumter	num_fast_foods	27
+12121	Florida	Suwannee	num_fast_foods	17
+12123	Florida	Taylor	num_fast_foods	8
+12125	Florida	Union	num_fast_foods	4
+12127	Florida	Volusia	num_fast_foods	269
+12129	Florida	Wakulla	num_fast_foods	15
+12131	Florida	Walton	num_fast_foods	33
+12133	Florida	Washington	num_fast_foods	12
+13001	Georgia	Appling	num_fast_foods	14
+13003	Georgia	Atkinson	num_fast_foods	4
+13005	Georgia	Bacon	num_fast_foods	8
+13007	Georgia	Baker	num_fast_foods	
+13009	Georgia	Baldwin	num_fast_foods	32
+13011	Georgia	Banks	num_fast_foods	15
+13013	Georgia	Barrow	num_fast_foods	38
+13015	Georgia	Bartow	num_fast_foods	59
+13017	Georgia	Ben Hill	num_fast_foods	17
+13019	Georgia	Berrien	num_fast_foods	9
+13021	Georgia	Bibb	num_fast_foods	162
+13023	Georgia	Bleckley	num_fast_foods	4
+13025	Georgia	Brantley	num_fast_foods	5
+13027	Georgia	Brooks	num_fast_foods	4
+13029	Georgia	Bryan	num_fast_foods	21
+13031	Georgia	Bulloch	num_fast_foods	46
+13033	Georgia	Burke	num_fast_foods	6
+13035	Georgia	Butts	num_fast_foods	10
+13037	Georgia	Calhoun	num_fast_foods	1
+13039	Georgia	Camden	num_fast_foods	35
+13043	Georgia	Candler	num_fast_foods	10
+13045	Georgia	Carroll	num_fast_foods	87
+13047	Georgia	Catoosa	num_fast_foods	41
+13049	Georgia	Charlton	num_fast_foods	7
+13051	Georgia	Chatham	num_fast_foods	226
+13053	Georgia	Chattahoochee	num_fast_foods	1
+13055	Georgia	Chattooga	num_fast_foods	12
+13057	Georgia	Cherokee	num_fast_foods	111
+13059	Georgia	Clarke	num_fast_foods	109
+13061	Georgia	Clay	num_fast_foods	
+13063	Georgia	Clayton	num_fast_foods	175
+13065	Georgia	Clinch	num_fast_foods	4
+13067	Georgia	Cobb	num_fast_foods	521
+13069	Georgia	Coffee	num_fast_foods	22
+13071	Georgia	Colquitt	num_fast_foods	29
+13073	Georgia	Columbia	num_fast_foods	58
+13075	Georgia	Cook	num_fast_foods	12
+13077	Georgia	Coweta	num_fast_foods	58
+13079	Georgia	Crawford	num_fast_foods	1
+13081	Georgia	Crisp	num_fast_foods	15
+13083	Georgia	Dade	num_fast_foods	8
+13085	Georgia	Dawson	num_fast_foods	16
+13087	Georgia	Decatur	num_fast_foods	20
+13089	Georgia	DeKalb	num_fast_foods	538
+13091	Georgia	Dodge	num_fast_foods	13
+13093	Georgia	Dooly	num_fast_foods	7
+13095	Georgia	Dougherty	num_fast_foods	88
+13097	Georgia	Douglas	num_fast_foods	81
+13099	Georgia	Early	num_fast_foods	9
+13101	Georgia	Echols	num_fast_foods	
+13103	Georgia	Effingham	num_fast_foods	26
+13105	Georgia	Elbert	num_fast_foods	12
+13107	Georgia	Emanuel	num_fast_foods	15
+13109	Georgia	Evans	num_fast_foods	6
+13111	Georgia	Fannin	num_fast_foods	20
+13113	Georgia	Fayette	num_fast_foods	70
+13115	Georgia	Floyd	num_fast_foods	69
+13117	Georgia	Forsyth	num_fast_foods	113
+13119	Georgia	Franklin	num_fast_foods	10
+13121	Georgia	Fulton	num_fast_foods	954
+13123	Georgia	Gilmer	num_fast_foods	22
+13125	Georgia	Glascock	num_fast_foods	
+13127	Georgia	Glynn	num_fast_foods	79
+13129	Georgia	Gordon	num_fast_foods	39
+13131	Georgia	Grady	num_fast_foods	15
+13133	Georgia	Greene	num_fast_foods	12
+13135	Georgia	Gwinnett	num_fast_foods	625
+13137	Georgia	Habersham	num_fast_foods	28
+13139	Georgia	Hall	num_fast_foods	102
+13141	Georgia	Hancock	num_fast_foods	6
+13143	Georgia	Haralson	num_fast_foods	14
+13145	Georgia	Harris	num_fast_foods	6
+13147	Georgia	Hart	num_fast_foods	13
+13149	Georgia	Heard	num_fast_foods	3
+13151	Georgia	Henry	num_fast_foods	147
+13153	Georgia	Houston	num_fast_foods	107
+13155	Georgia	Irwin	num_fast_foods	
+13157	Georgia	Jackson	num_fast_foods	24
+13159	Georgia	Jasper	num_fast_foods	5
+13161	Georgia	Jeff Davis	num_fast_foods	6
+13163	Georgia	Jefferson	num_fast_foods	9
+13165	Georgia	Jenkins	num_fast_foods	5
+13167	Georgia	Johnson	num_fast_foods	6
+13169	Georgia	Jones	num_fast_foods	6
+13171	Georgia	Lamar	num_fast_foods	9
+13173	Georgia	Lanier	num_fast_foods	6
+13175	Georgia	Laurens	num_fast_foods	42
+13177	Georgia	Lee	num_fast_foods	10
+13179	Georgia	Liberty	num_fast_foods	42
+13181	Georgia	Lincoln	num_fast_foods	3
+13183	Georgia	Long	num_fast_foods	3
+13185	Georgia	Lowndes	num_fast_foods	97
+13187	Georgia	Lumpkin	num_fast_foods	15
+13189	Georgia	McDuffie	num_fast_foods	12
+13191	Georgia	McIntosh	num_fast_foods	7
+13193	Georgia	Macon	num_fast_foods	7
+13195	Georgia	Madison	num_fast_foods	13
+13197	Georgia	Marion	num_fast_foods	3
+13199	Georgia	Meriwether	num_fast_foods	8
+13201	Georgia	Miller	num_fast_foods	3
+13205	Georgia	Mitchell	num_fast_foods	13
+13207	Georgia	Monroe	num_fast_foods	11
+13209	Georgia	Montgomery	num_fast_foods	6
+13211	Georgia	Morgan	num_fast_foods	12
+13213	Georgia	Murray	num_fast_foods	28
+13215	Georgia	Muscogee	num_fast_foods	168
+13217	Georgia	Newton	num_fast_foods	47
+13219	Georgia	Oconee	num_fast_foods	24
+13221	Georgia	Oglethorpe	num_fast_foods	3
+13223	Georgia	Paulding	num_fast_foods	58
+13225	Georgia	Peach	num_fast_foods	15
+13227	Georgia	Pickens	num_fast_foods	12
+13229	Georgia	Pierce	num_fast_foods	12
+13231	Georgia	Pike	num_fast_foods	6
+13233	Georgia	Polk	num_fast_foods	31
+13235	Georgia	Pulaski	num_fast_foods	10
+13237	Georgia	Putnam	num_fast_foods	6
+13239	Georgia	Quitman	num_fast_foods	
+13241	Georgia	Rabun	num_fast_foods	15
+13243	Georgia	Randolph	num_fast_foods	4
+13245	Georgia	Richmond	num_fast_foods	144
+13247	Georgia	Rockdale	num_fast_foods	70
+13249	Georgia	Schley	num_fast_foods	3
+13251	Georgia	Screven	num_fast_foods	5
+13253	Georgia	Seminole	num_fast_foods	7
+13255	Georgia	Spalding	num_fast_foods	42
+13257	Georgia	Stephens	num_fast_foods	16
+13259	Georgia	Stewart	num_fast_foods	1
+13261	Georgia	Sumter	num_fast_foods	19
+13263	Georgia	Talbot	num_fast_foods	1
+13265	Georgia	Taliaferro	num_fast_foods	1
+13267	Georgia	Tattnall	num_fast_foods	6
+13269	Georgia	Taylor	num_fast_foods	4
+13271	Georgia	Telfair	num_fast_foods	9
+13273	Georgia	Terrell	num_fast_foods	4
+13275	Georgia	Thomas	num_fast_foods	33
+13277	Georgia	Tift	num_fast_foods	42
+13279	Georgia	Toombs	num_fast_foods	29
+13281	Georgia	Towns	num_fast_foods	6
+13283	Georgia	Treutlen	num_fast_foods	2
+13285	Georgia	Troup	num_fast_foods	59
+13287	Georgia	Turner	num_fast_foods	7
+13289	Georgia	Twiggs	num_fast_foods	1
+13291	Georgia	Union	num_fast_foods	12
+13293	Georgia	Upson	num_fast_foods	20
+13295	Georgia	Walker	num_fast_foods	24
+13297	Georgia	Walton	num_fast_foods	46
+13299	Georgia	Ware	num_fast_foods	28
+13301	Georgia	Warren	num_fast_foods	
+13303	Georgia	Washington	num_fast_foods	11
+13305	Georgia	Wayne	num_fast_foods	22
+13307	Georgia	Webster	num_fast_foods	
+13309	Georgia	Wheeler	num_fast_foods	1
+13311	Georgia	White	num_fast_foods	18
+13313	Georgia	Whitfield	num_fast_foods	82
+13315	Georgia	Wilcox	num_fast_foods	1
+13317	Georgia	Wilkes	num_fast_foods	5
+13319	Georgia	Wilkinson	num_fast_foods	2
+13321	Georgia	Worth	num_fast_foods	8
+15001	Hawaii	Hawaii	num_fast_foods	148
+15003	Hawaii	Honolulu	num_fast_foods	932
+15005	Hawaii	Kalawao	num_fast_foods	
+15007	Hawaii	Kauai	num_fast_foods	72
+15009	Hawaii	Maui	num_fast_foods	127
+16001	Idaho	Ada	num_fast_foods	296
+16003	Idaho	Adams	num_fast_foods	2
+16005	Idaho	Bannock	num_fast_foods	60
+16007	Idaho	Bear Lake	num_fast_foods	4
+16009	Idaho	Benewah	num_fast_foods	7
+16011	Idaho	Bingham	num_fast_foods	20
+16013	Idaho	Blaine	num_fast_foods	19
+16015	Idaho	Boise	num_fast_foods	
+16017	Idaho	Bonner	num_fast_foods	22
+16019	Idaho	Bonneville	num_fast_foods	69
+16021	Idaho	Boundary	num_fast_foods	4
+16023	Idaho	Butte	num_fast_foods	3
+16025	Idaho	Camas	num_fast_foods	3
+16027	Idaho	Canyon	num_fast_foods	89
+16029	Idaho	Caribou	num_fast_foods	3
+16031	Idaho	Cassia	num_fast_foods	22
+16033	Idaho	Clark	num_fast_foods	
+16035	Idaho	Clearwater	num_fast_foods	4
+16037	Idaho	Custer	num_fast_foods	5
+16039	Idaho	Elmore	num_fast_foods	13
+16041	Idaho	Franklin	num_fast_foods	6
+16043	Idaho	Fremont	num_fast_foods	5
+16045	Idaho	Gem	num_fast_foods	12
+16047	Idaho	Gooding	num_fast_foods	5
+16049	Idaho	Idaho	num_fast_foods	5
+16051	Idaho	Jefferson	num_fast_foods	9
+16053	Idaho	Jerome	num_fast_foods	11
+16055	Idaho	Kootenai	num_fast_foods	106
+16057	Idaho	Latah	num_fast_foods	24
+16059	Idaho	Lemhi	num_fast_foods	6
+16061	Idaho	Lewis	num_fast_foods	2
+16063	Idaho	Lincoln	num_fast_foods	1
+16065	Idaho	Madison	num_fast_foods	23
+16067	Idaho	Minidoka	num_fast_foods	6
+16069	Idaho	Nez Perce	num_fast_foods	27
+16071	Idaho	Oneida	num_fast_foods	3
+16073	Idaho	Owyhee	num_fast_foods	8
+16075	Idaho	Payette	num_fast_foods	9
+16077	Idaho	Power	num_fast_foods	1
+16079	Idaho	Shoshone	num_fast_foods	7
+16081	Idaho	Teton	num_fast_foods	7
+16083	Idaho	Twin Falls	num_fast_foods	59
+16085	Idaho	Valley	num_fast_foods	12
+16087	Idaho	Washington	num_fast_foods	3
+17001	Illinois	Adams	num_fast_foods	31
+17003	Illinois	Alexander	num_fast_foods	2
+17005	Illinois	Bond	num_fast_foods	7
+17007	Illinois	Boone	num_fast_foods	28
+17009	Illinois	Brown	num_fast_foods	2
+17011	Illinois	Bureau	num_fast_foods	12
+17013	Illinois	Calhoun	num_fast_foods	1
+17015	Illinois	Carroll	num_fast_foods	9
+17017	Illinois	Cass	num_fast_foods	7
+17019	Illinois	Champaign	num_fast_foods	149
+17021	Illinois	Christian	num_fast_foods	17
+17023	Illinois	Clark	num_fast_foods	10
+17025	Illinois	Clay	num_fast_foods	7
+17027	Illinois	Clinton	num_fast_foods	20
+17029	Illinois	Coles	num_fast_foods	42
+17031	Illinois	Cook	num_fast_foods	4032
+17033	Illinois	Crawford	num_fast_foods	10
+17035	Illinois	Cumberland	num_fast_foods	4
+17037	Illinois	DeKalb	num_fast_foods	71
+17039	Illinois	De Witt	num_fast_foods	9
+17041	Illinois	Douglas	num_fast_foods	13
+17043	Illinois	DuPage	num_fast_foods	811
+17045	Illinois	Edgar	num_fast_foods	10
+17047	Illinois	Edwards	num_fast_foods	7
+17049	Illinois	Effingham	num_fast_foods	33
+17051	Illinois	Fayette	num_fast_foods	9
+17053	Illinois	Ford	num_fast_foods	11
+17055	Illinois	Franklin	num_fast_foods	24
+17057	Illinois	Fulton	num_fast_foods	19
+17059	Illinois	Gallatin	num_fast_foods	
+17061	Illinois	Greene	num_fast_foods	6
+17063	Illinois	Grundy	num_fast_foods	32
+17065	Illinois	Hamilton	num_fast_foods	5
+17067	Illinois	Hancock	num_fast_foods	8
+17069	Illinois	Hardin	num_fast_foods	
+17071	Illinois	Henderson	num_fast_foods	1
+17073	Illinois	Henry	num_fast_foods	24
+17075	Illinois	Iroquois	num_fast_foods	21
+17077	Illinois	Jackson	num_fast_foods	39
+17079	Illinois	Jasper	num_fast_foods	5
+17081	Illinois	Jefferson	num_fast_foods	24
+17083	Illinois	Jersey	num_fast_foods	14
+17085	Illinois	Jo Daviess	num_fast_foods	14
+17087	Illinois	Johnson	num_fast_foods	3
+17089	Illinois	Kane	num_fast_foods	316
+17091	Illinois	Kankakee	num_fast_foods	71
+17093	Illinois	Kendall	num_fast_foods	54
+17095	Illinois	Knox	num_fast_foods	33
+17097	Illinois	Lake	num_fast_foods	531
+17099	Illinois	LaSalle	num_fast_foods	75
+17101	Illinois	Lawrence	num_fast_foods	6
+17103	Illinois	Lee	num_fast_foods	19
+17105	Illinois	Livingston	num_fast_foods	21
+17107	Illinois	Logan	num_fast_foods	17
+17109	Illinois	McDonough	num_fast_foods	29
+17111	Illinois	McHenry	num_fast_foods	185
+17113	Illinois	McLean	num_fast_foods	108
+17115	Illinois	Macon	num_fast_foods	67
+17117	Illinois	Macoupin	num_fast_foods	23
+17119	Illinois	Madison	num_fast_foods	181
+17121	Illinois	Marion	num_fast_foods	26
+17123	Illinois	Marshall	num_fast_foods	5
+17125	Illinois	Mason	num_fast_foods	10
+17127	Illinois	Massac	num_fast_foods	7
+17129	Illinois	Menard	num_fast_foods	3
+17131	Illinois	Mercer	num_fast_foods	5
+17133	Illinois	Monroe	num_fast_foods	17
+17135	Illinois	Montgomery	num_fast_foods	20
+17137	Illinois	Morgan	num_fast_foods	22
+17139	Illinois	Moultrie	num_fast_foods	5
+17141	Illinois	Ogle	num_fast_foods	27
+17143	Illinois	Peoria	num_fast_foods	127
+17145	Illinois	Perry	num_fast_foods	6
+17147	Illinois	Piatt	num_fast_foods	7
+17149	Illinois	Pike	num_fast_foods	7
+17151	Illinois	Pope	num_fast_foods	
+17153	Illinois	Pulaski	num_fast_foods	2
+17155	Illinois	Putnam	num_fast_foods	
+17157	Illinois	Randolph	num_fast_foods	17
+17159	Illinois	Richland	num_fast_foods	14
+17161	Illinois	Rock Island	num_fast_foods	117
+17163	Illinois	St. Clair	num_fast_foods	159
+17165	Illinois	Saline	num_fast_foods	20
+17167	Illinois	Sangamon	num_fast_foods	164
+17169	Illinois	Schuyler	num_fast_foods	4
+17171	Illinois	Scott	num_fast_foods	2
+17173	Illinois	Shelby	num_fast_foods	7
+17175	Illinois	Stark	num_fast_foods	
+17177	Illinois	Stephenson	num_fast_foods	29
+17179	Illinois	Tazewell	num_fast_foods	94
+17181	Illinois	Union	num_fast_foods	9
+17183	Illinois	Vermilion	num_fast_foods	43
+17185	Illinois	Wabash	num_fast_foods	7
+17187	Illinois	Warren	num_fast_foods	8
+17189	Illinois	Washington	num_fast_foods	7
+17191	Illinois	Wayne	num_fast_foods	6
+17193	Illinois	White	num_fast_foods	7
+17195	Illinois	Whiteside	num_fast_foods	30
+17197	Illinois	Will	num_fast_foods	430
+17199	Illinois	Williamson	num_fast_foods	41
+17201	Illinois	Winnebago	num_fast_foods	200
+17203	Illinois	Woodford	num_fast_foods	19
+18001	Indiana	Adams	num_fast_foods	15
+18003	Indiana	Allen	num_fast_foods	209
+18005	Indiana	Bartholomew	num_fast_foods	61
+18007	Indiana	Benton	num_fast_foods	4
+18009	Indiana	Blackford	num_fast_foods	5
+18011	Indiana	Boone	num_fast_foods	33
+18013	Indiana	Brown	num_fast_foods	3
+18015	Indiana	Carroll	num_fast_foods	13
+18017	Indiana	Cass	num_fast_foods	28
+18019	Indiana	Clark	num_fast_foods	76
+18021	Indiana	Clay	num_fast_foods	16
+18023	Indiana	Clinton	num_fast_foods	24
+18025	Indiana	Crawford	num_fast_foods	3
+18027	Indiana	Daviess	num_fast_foods	22
+18029	Indiana	Dearborn	num_fast_foods	19
+18031	Indiana	Decatur	num_fast_foods	17
+18033	Indiana	DeKalb	num_fast_foods	23
+18035	Indiana	Delaware	num_fast_foods	73
+18037	Indiana	Dubois	num_fast_foods	34
+18039	Indiana	Elkhart	num_fast_foods	122
+18041	Indiana	Fayette	num_fast_foods	25
+18043	Indiana	Floyd	num_fast_foods	61
+18045	Indiana	Fountain	num_fast_foods	11
+18047	Indiana	Franklin	num_fast_foods	14
+18049	Indiana	Fulton	num_fast_foods	13
+18051	Indiana	Gibson	num_fast_foods	27
+18053	Indiana	Grant	num_fast_foods	53
+18055	Indiana	Greene	num_fast_foods	20
+18057	Indiana	Hamilton	num_fast_foods	185
+18059	Indiana	Hancock	num_fast_foods	40
+18061	Indiana	Harrison	num_fast_foods	22
+18063	Indiana	Hendricks	num_fast_foods	104
+18065	Indiana	Henry	num_fast_foods	25
+18067	Indiana	Howard	num_fast_foods	71
+18069	Indiana	Huntington	num_fast_foods	23
+18071	Indiana	Jackson	num_fast_foods	34
+18073	Indiana	Jasper	num_fast_foods	24
+18075	Indiana	Jay	num_fast_foods	9
+18077	Indiana	Jefferson	num_fast_foods	18
+18079	Indiana	Jennings	num_fast_foods	11
+18081	Indiana	Johnson	num_fast_foods	124
+18083	Indiana	Knox	num_fast_foods	25
+18085	Indiana	Kosciusko	num_fast_foods	43
+18087	Indiana	LaGrange	num_fast_foods	7
+18089	Indiana	Lake	num_fast_foods	380
+18091	Indiana	LaPorte	num_fast_foods	84
+18093	Indiana	Lawrence	num_fast_foods	26
+18095	Indiana	Madison	num_fast_foods	68
+18097	Indiana	Marion	num_fast_foods	769
+18099	Indiana	Marshall	num_fast_foods	43
+18101	Indiana	Martin	num_fast_foods	9
+18103	Indiana	Miami	num_fast_foods	20
+18105	Indiana	Monroe	num_fast_foods	94
+18107	Indiana	Montgomery	num_fast_foods	25
+18109	Indiana	Morgan	num_fast_foods	34
+18111	Indiana	Newton	num_fast_foods	7
+18113	Indiana	Noble	num_fast_foods	30
+18115	Indiana	Ohio	num_fast_foods	1
+18117	Indiana	Orange	num_fast_foods	11
+18119	Indiana	Owen	num_fast_foods	7
+18121	Indiana	Parke	num_fast_foods	3
+18123	Indiana	Perry	num_fast_foods	14
+18125	Indiana	Pike	num_fast_foods	6
+18127	Indiana	Porter	num_fast_foods	102
+18129	Indiana	Posey	num_fast_foods	9
+18131	Indiana	Pulaski	num_fast_foods	10
+18133	Indiana	Putnam	num_fast_foods	24
+18135	Indiana	Randolph	num_fast_foods	5
+18137	Indiana	Ripley	num_fast_foods	13
+18139	Indiana	Rush	num_fast_foods	8
+18141	Indiana	St. Joseph	num_fast_foods	162
+18143	Indiana	Scott	num_fast_foods	17
+18145	Indiana	Shelby	num_fast_foods	20
+18147	Indiana	Spencer	num_fast_foods	6
+18149	Indiana	Starke	num_fast_foods	9
+18151	Indiana	Steuben	num_fast_foods	25
+18153	Indiana	Sullivan	num_fast_foods	11
+18155	Indiana	Switzerland	num_fast_foods	3
+18157	Indiana	Tippecanoe	num_fast_foods	118
+18159	Indiana	Tipton	num_fast_foods	7
+18161	Indiana	Union	num_fast_foods	5
+18163	Indiana	Vanderburgh	num_fast_foods	148
+18165	Indiana	Vermillion	num_fast_foods	9
+18167	Indiana	Vigo	num_fast_foods	88
+18169	Indiana	Wabash	num_fast_foods	23
+18171	Indiana	Warren	num_fast_foods	
+18173	Indiana	Warrick	num_fast_foods	20
+18175	Indiana	Washington	num_fast_foods	11
+18177	Indiana	Wayne	num_fast_foods	48
+18179	Indiana	Wells	num_fast_foods	17
+18181	Indiana	White	num_fast_foods	18
+18183	Indiana	Whitley	num_fast_foods	19
+19001	Iowa	Adair	num_fast_foods	3
+19003	Iowa	Adams	num_fast_foods	3
+19005	Iowa	Allamakee	num_fast_foods	3
+19007	Iowa	Appanoose	num_fast_foods	8
+19009	Iowa	Audubon	num_fast_foods	
+19011	Iowa	Benton	num_fast_foods	7
+19013	Iowa	Black Hawk	num_fast_foods	78
+19015	Iowa	Boone	num_fast_foods	9
+19017	Iowa	Bremer	num_fast_foods	11
+19019	Iowa	Buchanan	num_fast_foods	7
+19021	Iowa	Buena Vista	num_fast_foods	10
+19023	Iowa	Butler	num_fast_foods	1
+19025	Iowa	Calhoun	num_fast_foods	6
+19027	Iowa	Carroll	num_fast_foods	17
+19029	Iowa	Cass	num_fast_foods	9
+19031	Iowa	Cedar	num_fast_foods	9
+19033	Iowa	Cerro Gordo	num_fast_foods	37
+19035	Iowa	Cherokee	num_fast_foods	7
+19037	Iowa	Chickasaw	num_fast_foods	3
+19039	Iowa	Clarke	num_fast_foods	6
+19041	Iowa	Clay	num_fast_foods	19
+19043	Iowa	Clayton	num_fast_foods	9
+19045	Iowa	Clinton	num_fast_foods	26
+19047	Iowa	Crawford	num_fast_foods	7
+19049	Iowa	Dallas	num_fast_foods	32
+19051	Iowa	Davis	num_fast_foods	3
+19053	Iowa	Decatur	num_fast_foods	4
+19055	Iowa	Delaware	num_fast_foods	7
+19057	Iowa	Des Moines	num_fast_foods	32
+19059	Iowa	Dickinson	num_fast_foods	14
+19061	Iowa	Dubuque	num_fast_foods	68
+19063	Iowa	Emmet	num_fast_foods	5
+19065	Iowa	Fayette	num_fast_foods	8
+19067	Iowa	Floyd	num_fast_foods	8
+19069	Iowa	Franklin	num_fast_foods	3
+19071	Iowa	Fremont	num_fast_foods	4
+19073	Iowa	Greene	num_fast_foods	3
+19075	Iowa	Grundy	num_fast_foods	2
+19077	Iowa	Guthrie	num_fast_foods	7
+19079	Iowa	Hamilton	num_fast_foods	5
+19081	Iowa	Hancock	num_fast_foods	5
+19083	Iowa	Hardin	num_fast_foods	2
+19085	Iowa	Harrison	num_fast_foods	9
+19087	Iowa	Henry	num_fast_foods	10
+19089	Iowa	Howard	num_fast_foods	2
+19091	Iowa	Humboldt	num_fast_foods	7
+19093	Iowa	Ida	num_fast_foods	3
+19095	Iowa	Iowa	num_fast_foods	6
+19097	Iowa	Jackson	num_fast_foods	8
+19099	Iowa	Jasper	num_fast_foods	23
+19101	Iowa	Jefferson	num_fast_foods	10
+19103	Iowa	Johnson	num_fast_foods	83
+19105	Iowa	Jones	num_fast_foods	9
+19107	Iowa	Keokuk	num_fast_foods	4
+19109	Iowa	Kossuth	num_fast_foods	8
+19111	Iowa	Lee	num_fast_foods	21
+19113	Iowa	Linn	num_fast_foods	153
+19115	Iowa	Louisa	num_fast_foods	5
+19117	Iowa	Lucas	num_fast_foods	4
+19119	Iowa	Lyon	num_fast_foods	4
+19121	Iowa	Madison	num_fast_foods	6
+19123	Iowa	Mahaska	num_fast_foods	10
+19125	Iowa	Marion	num_fast_foods	18
+19127	Iowa	Marshall	num_fast_foods	20
+19129	Iowa	Mills	num_fast_foods	3
+19131	Iowa	Mitchell	num_fast_foods	3
+19133	Iowa	Monona	num_fast_foods	6
+19135	Iowa	Monroe	num_fast_foods	4
+19137	Iowa	Montgomery	num_fast_foods	8
+19139	Iowa	Muscatine	num_fast_foods	29
+19141	Iowa	O'Brien	num_fast_foods	11
+19143	Iowa	Osceola	num_fast_foods	2
+19145	Iowa	Page	num_fast_foods	8
+19147	Iowa	Palo Alto	num_fast_foods	7
+19149	Iowa	Plymouth	num_fast_foods	14
+19151	Iowa	Pocahontas	num_fast_foods	2
+19153	Iowa	Polk	num_fast_foods	316
+19155	Iowa	Pottawattamie	num_fast_foods	65
+19157	Iowa	Poweshiek	num_fast_foods	11
+19159	Iowa	Ringgold	num_fast_foods	1
+19161	Iowa	Sac	num_fast_foods	3
+19163	Iowa	Scott	num_fast_foods	124
+19165	Iowa	Shelby	num_fast_foods	7
+19167	Iowa	Sioux	num_fast_foods	25
+19169	Iowa	Story	num_fast_foods	67
+19171	Iowa	Tama	num_fast_foods	7
+19173	Iowa	Taylor	num_fast_foods	3
+19175	Iowa	Union	num_fast_foods	7
+19177	Iowa	Van Buren	num_fast_foods	2
+19179	Iowa	Wapello	num_fast_foods	24
+19181	Iowa	Warren	num_fast_foods	19
+19183	Iowa	Washington	num_fast_foods	7
+19185	Iowa	Wayne	num_fast_foods	2
+19187	Iowa	Webster	num_fast_foods	25
+19189	Iowa	Winnebago	num_fast_foods	5
+19191	Iowa	Winneshiek	num_fast_foods	6
+19193	Iowa	Woodbury	num_fast_foods	92
+19195	Iowa	Worth	num_fast_foods	3
+19197	Iowa	Wright	num_fast_foods	7
+20001	Kansas	Allen	num_fast_foods	7
+20003	Kansas	Anderson	num_fast_foods	3
+20005	Kansas	Atchison	num_fast_foods	10
+20007	Kansas	Barber	num_fast_foods	3
+20009	Kansas	Barton	num_fast_foods	12
+20011	Kansas	Bourbon	num_fast_foods	11
+20013	Kansas	Brown	num_fast_foods	6
+20015	Kansas	Butler	num_fast_foods	41
+20017	Kansas	Chase	num_fast_foods	
+20019	Kansas	Chautauqua	num_fast_foods	
+20021	Kansas	Cherokee	num_fast_foods	11
+20023	Kansas	Cheyenne	num_fast_foods	
+20025	Kansas	Clark	num_fast_foods	1
+20027	Kansas	Clay	num_fast_foods	3
+20029	Kansas	Cloud	num_fast_foods	6
+20031	Kansas	Coffey	num_fast_foods	7
+20033	Kansas	Comanche	num_fast_foods	
+20035	Kansas	Cowley	num_fast_foods	17
+20037	Kansas	Crawford	num_fast_foods	19
+20039	Kansas	Decatur	num_fast_foods	1
+20041	Kansas	Dickinson	num_fast_foods	11
+20043	Kansas	Doniphan	num_fast_foods	2
+20045	Kansas	Douglas	num_fast_foods	90
+20047	Kansas	Edwards	num_fast_foods	
+20049	Kansas	Elk	num_fast_foods	1
+20051	Kansas	Ellis	num_fast_foods	28
+20053	Kansas	Ellsworth	num_fast_foods	2
+20055	Kansas	Finney	num_fast_foods	25
+20057	Kansas	Ford	num_fast_foods	13
+20059	Kansas	Franklin	num_fast_foods	16
+20061	Kansas	Geary	num_fast_foods	19
+20063	Kansas	Gove	num_fast_foods	2
+20065	Kansas	Graham	num_fast_foods	1
+20067	Kansas	Grant	num_fast_foods	3
+20069	Kansas	Gray	num_fast_foods	1
+20071	Kansas	Greeley	num_fast_foods	1
+20073	Kansas	Greenwood	num_fast_foods	1
+20075	Kansas	Hamilton	num_fast_foods	
+20077	Kansas	Harper	num_fast_foods	5
+20079	Kansas	Harvey	num_fast_foods	25
+20081	Kansas	Haskell	num_fast_foods	
+20083	Kansas	Hodgeman	num_fast_foods	1
+20085	Kansas	Jackson	num_fast_foods	5
+20087	Kansas	Jefferson	num_fast_foods	6
+20089	Kansas	Jewell	num_fast_foods	
+20091	Kansas	Johnson	num_fast_foods	391
+20093	Kansas	Kearny	num_fast_foods	2
+20095	Kansas	Kingman	num_fast_foods	4
+20097	Kansas	Kiowa	num_fast_foods	1
+20099	Kansas	Labette	num_fast_foods	7
+20101	Kansas	Lane	num_fast_foods	1
+20103	Kansas	Leavenworth	num_fast_foods	34
+20105	Kansas	Lincoln	num_fast_foods	
+20107	Kansas	Linn	num_fast_foods	3
+20109	Kansas	Logan	num_fast_foods	
+20111	Kansas	Lyon	num_fast_foods	24
+20113	Kansas	McPherson	num_fast_foods	13
+20115	Kansas	Marion	num_fast_foods	5
+20117	Kansas	Marshall	num_fast_foods	5
+20119	Kansas	Meade	num_fast_foods	1
+20121	Kansas	Miami	num_fast_foods	17
+20123	Kansas	Mitchell	num_fast_foods	5
+20125	Kansas	Montgomery	num_fast_foods	21
+20127	Kansas	Morris	num_fast_foods	3
+20129	Kansas	Morton	num_fast_foods	2
+20131	Kansas	Nemaha	num_fast_foods	2
+20133	Kansas	Neosho	num_fast_foods	5
+20135	Kansas	Ness	num_fast_foods	2
+20137	Kansas	Norton	num_fast_foods	4
+20139	Kansas	Osage	num_fast_foods	4
+20141	Kansas	Osborne	num_fast_foods	
+20143	Kansas	Ottawa	num_fast_foods	
+20145	Kansas	Pawnee	num_fast_foods	4
+20147	Kansas	Phillips	num_fast_foods	4
+20149	Kansas	Pottawatomie	num_fast_foods	8
+20151	Kansas	Pratt	num_fast_foods	9
+20153	Kansas	Rawlins	num_fast_foods	
+20155	Kansas	Reno	num_fast_foods	56
+20157	Kansas	Republic	num_fast_foods	2
+20159	Kansas	Rice	num_fast_foods	8
+20161	Kansas	Riley	num_fast_foods	46
+20163	Kansas	Rooks	num_fast_foods	4
+20165	Kansas	Rush	num_fast_foods	2
+20167	Kansas	Russell	num_fast_foods	4
+20169	Kansas	Saline	num_fast_foods	50
+20171	Kansas	Scott	num_fast_foods	4
+20173	Kansas	Sedgwick	num_fast_foods	411
+20175	Kansas	Seward	num_fast_foods	14
+20177	Kansas	Shawnee	num_fast_foods	140
+20179	Kansas	Sheridan	num_fast_foods	1
+20181	Kansas	Sherman	num_fast_foods	7
+20183	Kansas	Smith	num_fast_foods	1
+20185	Kansas	Stafford	num_fast_foods	
+20187	Kansas	Stanton	num_fast_foods	1
+20189	Kansas	Stevens	num_fast_foods	4
+20191	Kansas	Sumner	num_fast_foods	14
+20193	Kansas	Thomas	num_fast_foods	9
+20195	Kansas	Trego	num_fast_foods	3
+20197	Kansas	Wabaunsee	num_fast_foods	1
+20199	Kansas	Wallace	num_fast_foods	
+20201	Kansas	Washington	num_fast_foods	
+20203	Kansas	Wichita	num_fast_foods	1
+20205	Kansas	Wilson	num_fast_foods	5
+20207	Kansas	Woodson	num_fast_foods	1
+20209	Kansas	Wyandotte	num_fast_foods	104
+21001	Kentucky	Adair	num_fast_foods	8
+21003	Kentucky	Allen	num_fast_foods	6
+21005	Kentucky	Anderson	num_fast_foods	13
+21007	Kentucky	Ballard	num_fast_foods	1
+21009	Kentucky	Barren	num_fast_foods	37
+21011	Kentucky	Bath	num_fast_foods	4
+21013	Kentucky	Bell	num_fast_foods	27
+21015	Kentucky	Boone	num_fast_foods	106
+21017	Kentucky	Bourbon	num_fast_foods	17
+21019	Kentucky	Boyd	num_fast_foods	54
+21021	Kentucky	Boyle	num_fast_foods	20
+21023	Kentucky	Bracken	num_fast_foods	2
+21025	Kentucky	Breathitt	num_fast_foods	5
+21027	Kentucky	Breckinridge	num_fast_foods	3
+21029	Kentucky	Bullitt	num_fast_foods	44
+21031	Kentucky	Butler	num_fast_foods	7
+21033	Kentucky	Caldwell	num_fast_foods	8
+21035	Kentucky	Calloway	num_fast_foods	27
+21037	Kentucky	Campbell	num_fast_foods	67
+21039	Kentucky	Carlisle	num_fast_foods	
+21041	Kentucky	Carroll	num_fast_foods	12
+21043	Kentucky	Carter	num_fast_foods	18
+21045	Kentucky	Casey	num_fast_foods	3
+21047	Kentucky	Christian	num_fast_foods	49
+21049	Kentucky	Clark	num_fast_foods	27
+21051	Kentucky	Clay	num_fast_foods	9
+21053	Kentucky	Clinton	num_fast_foods	4
+21055	Kentucky	Crittenden	num_fast_foods	6
+21057	Kentucky	Cumberland	num_fast_foods	3
+21059	Kentucky	Daviess	num_fast_foods	77
+21061	Kentucky	Edmonson	num_fast_foods	2
+21063	Kentucky	Elliott	num_fast_foods	3
+21065	Kentucky	Estill	num_fast_foods	6
+21067	Kentucky	Fayette	num_fast_foods	277
+21069	Kentucky	Fleming	num_fast_foods	3
+21071	Kentucky	Floyd	num_fast_foods	25
+21073	Kentucky	Franklin	num_fast_foods	39
+21075	Kentucky	Fulton	num_fast_foods	6
+21077	Kentucky	Gallatin	num_fast_foods	3
+21079	Kentucky	Garrard	num_fast_foods	6
+21081	Kentucky	Grant	num_fast_foods	17
+21083	Kentucky	Graves	num_fast_foods	19
+21085	Kentucky	Grayson	num_fast_foods	11
+21087	Kentucky	Green	num_fast_foods	4
+21089	Kentucky	Greenup	num_fast_foods	17
+21091	Kentucky	Hancock	num_fast_foods	2
+21093	Kentucky	Hardin	num_fast_foods	75
+21095	Kentucky	Harlan	num_fast_foods	17
+21097	Kentucky	Harrison	num_fast_foods	11
+21099	Kentucky	Hart	num_fast_foods	6
+21101	Kentucky	Henderson	num_fast_foods	36
+21103	Kentucky	Henry	num_fast_foods	4
+21105	Kentucky	Hickman	num_fast_foods	1
+21107	Kentucky	Hopkins	num_fast_foods	25
+21109	Kentucky	Jackson	num_fast_foods	3
+21111	Kentucky	Jefferson	num_fast_foods	620
+21113	Kentucky	Jessamine	num_fast_foods	28
+21115	Kentucky	Johnson	num_fast_foods	16
+21117	Kentucky	Kenton	num_fast_foods	74
+21119	Kentucky	Knott	num_fast_foods	3
+21121	Kentucky	Knox	num_fast_foods	25
+21123	Kentucky	Larue	num_fast_foods	8
+21125	Kentucky	Laurel	num_fast_foods	40
+21127	Kentucky	Lawrence	num_fast_foods	9
+21129	Kentucky	Lee	num_fast_foods	3
+21131	Kentucky	Leslie	num_fast_foods	3
+21133	Kentucky	Letcher	num_fast_foods	16
+21135	Kentucky	Lewis	num_fast_foods	3
+21137	Kentucky	Lincoln	num_fast_foods	11
+21139	Kentucky	Livingston	num_fast_foods	4
+21141	Kentucky	Logan	num_fast_foods	15
+21143	Kentucky	Lyon	num_fast_foods	5
+21145	Kentucky	McCracken	num_fast_foods	74
+21147	Kentucky	McCreary	num_fast_foods	8
+21149	Kentucky	McLean	num_fast_foods	6
+21151	Kentucky	Madison	num_fast_foods	60
+21153	Kentucky	Magoffin	num_fast_foods	5
+21155	Kentucky	Marion	num_fast_foods	11
+21157	Kentucky	Marshall	num_fast_foods	20
+21159	Kentucky	Martin	num_fast_foods	8
+21161	Kentucky	Mason	num_fast_foods	14
+21163	Kentucky	Meade	num_fast_foods	10
+21165	Kentucky	Menifee	num_fast_foods	1
+21167	Kentucky	Mercer	num_fast_foods	12
+21169	Kentucky	Metcalfe	num_fast_foods	4
+21171	Kentucky	Monroe	num_fast_foods	7
+21173	Kentucky	Montgomery	num_fast_foods	17
+21175	Kentucky	Morgan	num_fast_foods	7
+21177	Kentucky	Muhlenberg	num_fast_foods	23
+21179	Kentucky	Nelson	num_fast_foods	26
+21181	Kentucky	Nicholas	num_fast_foods	
+21183	Kentucky	Ohio	num_fast_foods	11
+21185	Kentucky	Oldham	num_fast_foods	25
+21187	Kentucky	Owen	num_fast_foods	6
+21189	Kentucky	Owsley	num_fast_foods	1
+21191	Kentucky	Pendleton	num_fast_foods	5
+21193	Kentucky	Perry	num_fast_foods	23
+21195	Kentucky	Pike	num_fast_foods	47
+21197	Kentucky	Powell	num_fast_foods	9
+21199	Kentucky	Pulaski	num_fast_foods	41
+21201	Kentucky	Robertson	num_fast_foods	1
+21203	Kentucky	Rockcastle	num_fast_foods	7
+21205	Kentucky	Rowan	num_fast_foods	19
+21207	Kentucky	Russell	num_fast_foods	10
+21209	Kentucky	Scott	num_fast_foods	27
+21211	Kentucky	Shelby	num_fast_foods	26
+21213	Kentucky	Simpson	num_fast_foods	22
+21215	Kentucky	Spencer	num_fast_foods	9
+21217	Kentucky	Taylor	num_fast_foods	20
+21219	Kentucky	Todd	num_fast_foods	4
+21221	Kentucky	Trigg	num_fast_foods	9
+21223	Kentucky	Trimble	num_fast_foods	2
+21225	Kentucky	Union	num_fast_foods	10
+21227	Kentucky	Warren	num_fast_foods	79
+21229	Kentucky	Washington	num_fast_foods	7
+21231	Kentucky	Wayne	num_fast_foods	13
+21233	Kentucky	Webster	num_fast_foods	8
+21235	Kentucky	Whitley	num_fast_foods	29
+21237	Kentucky	Wolfe	num_fast_foods	3
+21239	Kentucky	Woodford	num_fast_foods	13
+22001	Louisiana	Acadia	num_fast_foods	29
+22003	Louisiana	Allen	num_fast_foods	10
+22005	Louisiana	Ascension	num_fast_foods	62
+22007	Louisiana	Assumption	num_fast_foods	3
+22009	Louisiana	Avoyelles	num_fast_foods	22
+22011	Louisiana	Beauregard	num_fast_foods	17
+22013	Louisiana	Bienville	num_fast_foods	10
+22015	Louisiana	Bossier	num_fast_foods	93
+22017	Louisiana	Caddo	num_fast_foods	185
+22019	Louisiana	Calcasieu	num_fast_foods	136
+22021	Louisiana	Caldwell	num_fast_foods	4
+22023	Louisiana	Cameron	num_fast_foods	
+22025	Louisiana	Catahoula	num_fast_foods	5
+22027	Louisiana	Claiborne	num_fast_foods	7
+22029	Louisiana	Concordia	num_fast_foods	14
+22031	Louisiana	De Soto	num_fast_foods	9
+22033	Louisiana	East Baton Rouge	num_fast_foods	369
+22035	Louisiana	East Carroll	num_fast_foods	2
+22037	Louisiana	East Feliciana	num_fast_foods	9
+22039	Louisiana	Evangeline	num_fast_foods	11
+22041	Louisiana	Franklin	num_fast_foods	10
+22043	Louisiana	Grant	num_fast_foods	2
+22045	Louisiana	Iberia	num_fast_foods	38
+22047	Louisiana	Iberville	num_fast_foods	14
+22049	Louisiana	Jackson	num_fast_foods	10
+22051	Louisiana	Jefferson	num_fast_foods	354
+22053	Louisiana	Jefferson Davis	num_fast_foods	21
+22055	Louisiana	Lafayette	num_fast_foods	194
+22057	Louisiana	Lafourche	num_fast_foods	49
+22059	Louisiana	La Salle	num_fast_foods	12
+22061	Louisiana	Lincoln	num_fast_foods	29
+22063	Louisiana	Livingston	num_fast_foods	58
+22065	Louisiana	Madison	num_fast_foods	6
+22067	Louisiana	Morehouse	num_fast_foods	15
+22069	Louisiana	Natchitoches	num_fast_foods	18
+22071	Louisiana	Orleans	num_fast_foods	248
+22073	Louisiana	Ouachita	num_fast_foods	118
+22075	Louisiana	Plaquemines	num_fast_foods	15
+22077	Louisiana	Pointe Coupee	num_fast_foods	13
+22079	Louisiana	Rapides	num_fast_foods	86
+22081	Louisiana	Red River	num_fast_foods	5
+22083	Louisiana	Richland	num_fast_foods	8
+22085	Louisiana	Sabine	num_fast_foods	9
+22087	Louisiana	St. Bernard	num_fast_foods	19
+22089	Louisiana	St. Charles	num_fast_foods	28
+22091	Louisiana	St. Helena	num_fast_foods	3
+22093	Louisiana	St. James	num_fast_foods	11
+22095	Louisiana	St. John the Baptist	num_fast_foods	32
+22097	Louisiana	St. Landry	num_fast_foods	40
+22099	Louisiana	St. Martin	num_fast_foods	26
+22101	Louisiana	St. Mary	num_fast_foods	31
+22103	Louisiana	St. Tammany	num_fast_foods	170
+22105	Louisiana	Tangipahoa	num_fast_foods	73
+22107	Louisiana	Tensas	num_fast_foods	1
+22109	Louisiana	Terrebonne	num_fast_foods	73
+22111	Louisiana	Union	num_fast_foods	10
+22113	Louisiana	Vermilion	num_fast_foods	16
+22115	Louisiana	Vernon	num_fast_foods	24
+22117	Louisiana	Washington	num_fast_foods	24
+22119	Louisiana	Webster	num_fast_foods	31
+22121	Louisiana	West Baton Rouge	num_fast_foods	18
+22123	Louisiana	West Carroll	num_fast_foods	6
+22125	Louisiana	West Feliciana	num_fast_foods	3
+22127	Louisiana	Winn	num_fast_foods	7
+23001	Maine	Androscoggin	num_fast_foods	66
+23003	Maine	Aroostook	num_fast_foods	41
+23005	Maine	Cumberland	num_fast_foods	242
+23007	Maine	Franklin	num_fast_foods	18
+23009	Maine	Hancock	num_fast_foods	42
+23011	Maine	Kennebec	num_fast_foods	84
+23013	Maine	Knox	num_fast_foods	32
+23015	Maine	Lincoln	num_fast_foods	24
+23017	Maine	Oxford	num_fast_foods	23
+23019	Maine	Penobscot	num_fast_foods	100
+23021	Maine	Piscataquis	num_fast_foods	6
+23023	Maine	Sagadahoc	num_fast_foods	26
+23025	Maine	Somerset	num_fast_foods	27
+23027	Maine	Waldo	num_fast_foods	17
+23029	Maine	Washington	num_fast_foods	20
+23031	Maine	York	num_fast_foods	147
+24001	Maryland	Allegany	num_fast_foods	57
+24003	Maryland	Anne Arundel	num_fast_foods	467
+24005	Maryland	Baltimore	num_fast_foods	699
+24009	Maryland	Calvert	num_fast_foods	56
+24011	Maryland	Caroline	num_fast_foods	15
+24013	Maryland	Carroll	num_fast_foods	107
+24015	Maryland	Cecil	num_fast_foods	54
+24017	Maryland	Charles	num_fast_foods	95
+24019	Maryland	Dorchester	num_fast_foods	25
+24021	Maryland	Frederick	num_fast_foods	181
+24023	Maryland	Garrett	num_fast_foods	19
+24025	Maryland	Harford	num_fast_foods	157
+24027	Maryland	Howard	num_fast_foods	226
+24029	Maryland	Kent	num_fast_foods	13
+24031	Maryland	Montgomery	num_fast_foods	764
+24033	Maryland	Prince George's	num_fast_foods	681
+24035	Maryland	Queen Anne's	num_fast_foods	30
+24037	Maryland	St. Mary's	num_fast_foods	72
+24039	Maryland	Somerset	num_fast_foods	13
+24041	Maryland	Talbot	num_fast_foods	31
+24043	Maryland	Washington	num_fast_foods	104
+24045	Maryland	Wicomico	num_fast_foods	86
+24047	Maryland	Worcester	num_fast_foods	91
+24510	Maryland	Baltimore City	num_fast_foods	638
+25001	Massachusetts	Barnstable	num_fast_foods	216
+25003	Massachusetts	Berkshire	num_fast_foods	91
+25005	Massachusetts	Bristol	num_fast_foods	371
+25007	Massachusetts	Dukes	num_fast_foods	15
+25009	Massachusetts	Essex	num_fast_foods	548
+25011	Massachusetts	Franklin	num_fast_foods	40
+25013	Massachusetts	Hampden	num_fast_foods	266
+25015	Massachusetts	Hampshire	num_fast_foods	86
+25017	Massachusetts	Middlesex	num_fast_foods	1084
+25019	Massachusetts	Nantucket	num_fast_foods	18
+25021	Massachusetts	Norfolk	num_fast_foods	409
+25023	Massachusetts	Plymouth	num_fast_foods	294
+25025	Massachusetts	Suffolk	num_fast_foods	650
+25027	Massachusetts	Worcester	num_fast_foods	503
+26001	Michigan	Alcona	num_fast_foods	3
+26003	Michigan	Alger	num_fast_foods	5
+26005	Michigan	Allegan	num_fast_foods	42
+26007	Michigan	Alpena	num_fast_foods	18
+26009	Michigan	Antrim	num_fast_foods	8
+26011	Michigan	Arenac	num_fast_foods	11
+26013	Michigan	Baraga	num_fast_foods	6
+26015	Michigan	Barry	num_fast_foods	20
+26017	Michigan	Bay	num_fast_foods	87
+26019	Michigan	Benzie	num_fast_foods	10
+26021	Michigan	Berrien	num_fast_foods	102
+26023	Michigan	Branch	num_fast_foods	22
+26025	Michigan	Calhoun	num_fast_foods	106
+26027	Michigan	Cass	num_fast_foods	16
+26029	Michigan	Charlevoix	num_fast_foods	17
+26031	Michigan	Cheboygan	num_fast_foods	10
+26033	Michigan	Chippewa	num_fast_foods	26
+26035	Michigan	Clare	num_fast_foods	19
+26037	Michigan	Clinton	num_fast_foods	29
+26039	Michigan	Crawford	num_fast_foods	9
+26041	Michigan	Delta	num_fast_foods	30
+26043	Michigan	Dickinson	num_fast_foods	26
+26045	Michigan	Eaton	num_fast_foods	69
+26047	Michigan	Emmet	num_fast_foods	30
+26049	Michigan	Genesee	num_fast_foods	294
+26051	Michigan	Gladwin	num_fast_foods	6
+26053	Michigan	Gogebic	num_fast_foods	11
+26055	Michigan	Grand Traverse	num_fast_foods	59
+26057	Michigan	Gratiot	num_fast_foods	18
+26059	Michigan	Hillsdale	num_fast_foods	20
+26061	Michigan	Houghton	num_fast_foods	22
+26063	Michigan	Huron	num_fast_foods	21
+26065	Michigan	Ingham	num_fast_foods	230
+26067	Michigan	Ionia	num_fast_foods	28
+26069	Michigan	Iosco	num_fast_foods	20
+26071	Michigan	Iron	num_fast_foods	5
+26073	Michigan	Isabella	num_fast_foods	38
+26075	Michigan	Jackson	num_fast_foods	96
+26077	Michigan	Kalamazoo	num_fast_foods	194
+26079	Michigan	Kalkaska	num_fast_foods	6
+26081	Michigan	Kent	num_fast_foods	407
+26083	Michigan	Keweenaw	num_fast_foods	
+26085	Michigan	Lake	num_fast_foods	4
+26087	Michigan	Lapeer	num_fast_foods	38
+26089	Michigan	Leelanau	num_fast_foods	7
+26091	Michigan	Lenawee	num_fast_foods	59
+26093	Michigan	Livingston	num_fast_foods	95
+26095	Michigan	Luce	num_fast_foods	2
+26097	Michigan	Mackinac	num_fast_foods	15
+26099	Michigan	Macomb	num_fast_foods	544
+26101	Michigan	Manistee	num_fast_foods	9
+26103	Michigan	Marquette	num_fast_foods	49
+26105	Michigan	Mason	num_fast_foods	18
+26107	Michigan	Mecosta	num_fast_foods	25
+26109	Michigan	Menominee	num_fast_foods	12
+26111	Michigan	Midland	num_fast_foods	50
+26113	Michigan	Missaukee	num_fast_foods	5
+26115	Michigan	Monroe	num_fast_foods	95
+26117	Michigan	Montcalm	num_fast_foods	23
+26119	Michigan	Montmorency	num_fast_foods	3
+26121	Michigan	Muskegon	num_fast_foods	114
+26123	Michigan	Newaygo	num_fast_foods	24
+26125	Michigan	Oakland	num_fast_foods	935
+26127	Michigan	Oceana	num_fast_foods	10
+26129	Michigan	Ogemaw	num_fast_foods	17
+26131	Michigan	Ontonagon	num_fast_foods	1
+26133	Michigan	Osceola	num_fast_foods	8
+26135	Michigan	Oscoda	num_fast_foods	5
+26137	Michigan	Otsego	num_fast_foods	19
+26139	Michigan	Ottawa	num_fast_foods	142
+26141	Michigan	Presque Isle	num_fast_foods	7
+26143	Michigan	Roscommon	num_fast_foods	13
+26145	Michigan	Saginaw	num_fast_foods	143
+26147	Michigan	St. Clair	num_fast_foods	86
+26149	Michigan	St. Joseph	num_fast_foods	34
+26151	Michigan	Sanilac	num_fast_foods	15
+26153	Michigan	Schoolcraft	num_fast_foods	8
+26155	Michigan	Shiawassee	num_fast_foods	39
+26157	Michigan	Tuscola	num_fast_foods	15
+26159	Michigan	Van Buren	num_fast_foods	46
+26161	Michigan	Washtenaw	num_fast_foods	245
+26163	Michigan	Wayne	num_fast_foods	1225
+26165	Michigan	Wexford	num_fast_foods	25
+27001	Minnesota	Aitkin	num_fast_foods	7
+27003	Minnesota	Anoka	num_fast_foods	211
+27005	Minnesota	Becker	num_fast_foods	20
+27007	Minnesota	Beltrami	num_fast_foods	18
+27009	Minnesota	Benton	num_fast_foods	19
+27011	Minnesota	Big Stone	num_fast_foods	1
+27013	Minnesota	Blue Earth	num_fast_foods	51
+27015	Minnesota	Brown	num_fast_foods	15
+27017	Minnesota	Carlton	num_fast_foods	13
+27019	Minnesota	Carver	num_fast_foods	44
+27021	Minnesota	Cass	num_fast_foods	8
+27023	Minnesota	Chippewa	num_fast_foods	9
+27025	Minnesota	Chisago	num_fast_foods	28
+27027	Minnesota	Clay	num_fast_foods	30
+27029	Minnesota	Clearwater	num_fast_foods	2
+27031	Minnesota	Cook	num_fast_foods	4
+27033	Minnesota	Cottonwood	num_fast_foods	9
+27035	Minnesota	Crow Wing	num_fast_foods	40
+27037	Minnesota	Dakota	num_fast_foods	258
+27039	Minnesota	Dodge	num_fast_foods	6
+27041	Minnesota	Douglas	num_fast_foods	29
+27043	Minnesota	Faribault	num_fast_foods	6
+27045	Minnesota	Fillmore	num_fast_foods	12
+27047	Minnesota	Freeborn	num_fast_foods	25
+27049	Minnesota	Goodhue	num_fast_foods	33
+27051	Minnesota	Grant	num_fast_foods	2
+27053	Minnesota	Hennepin	num_fast_foods	895
+27055	Minnesota	Houston	num_fast_foods	4
+27057	Minnesota	Hubbard	num_fast_foods	8
+27059	Minnesota	Isanti	num_fast_foods	16
+27061	Minnesota	Itasca	num_fast_foods	13
+27063	Minnesota	Jackson	num_fast_foods	4
+27065	Minnesota	Kanabec	num_fast_foods	6
+27067	Minnesota	Kandiyohi	num_fast_foods	26
+27069	Minnesota	Kittson	num_fast_foods	2
+27071	Minnesota	Koochiching	num_fast_foods	8
+27073	Minnesota	Lac qui Parle	num_fast_foods	3
+27075	Minnesota	Lake	num_fast_foods	7
+27077	Minnesota	Lake of the Woods	num_fast_foods	3
+27079	Minnesota	Le Sueur	num_fast_foods	7
+27081	Minnesota	Lincoln	num_fast_foods	3
+27083	Minnesota	Lyon	num_fast_foods	20
+27085	Minnesota	McLeod	num_fast_foods	26
+27087	Minnesota	Mahnomen	num_fast_foods	2
+27089	Minnesota	Marshall	num_fast_foods	3
+27091	Minnesota	Martin	num_fast_foods	16
+27093	Minnesota	Meeker	num_fast_foods	12
+27095	Minnesota	Mille Lacs	num_fast_foods	10
+27097	Minnesota	Morrison	num_fast_foods	16
+27099	Minnesota	Mower	num_fast_foods	20
+27101	Minnesota	Murray	num_fast_foods	2
+27103	Minnesota	Nicollet	num_fast_foods	18
+27105	Minnesota	Nobles	num_fast_foods	13
+27107	Minnesota	Norman	num_fast_foods	3
+27109	Minnesota	Olmsted	num_fast_foods	95
+27111	Minnesota	Otter Tail	num_fast_foods	28
+27113	Minnesota	Pennington	num_fast_foods	6
+27115	Minnesota	Pine	num_fast_foods	10
+27117	Minnesota	Pipestone	num_fast_foods	8
+27119	Minnesota	Polk	num_fast_foods	18
+27121	Minnesota	Pope	num_fast_foods	3
+27123	Minnesota	Ramsey	num_fast_foods	360
+27125	Minnesota	Red Lake	num_fast_foods	2
+27127	Minnesota	Redwood	num_fast_foods	10
+27129	Minnesota	Renville	num_fast_foods	7
+27131	Minnesota	Rice	num_fast_foods	35
+27133	Minnesota	Rock	num_fast_foods	7
+27135	Minnesota	Roseau	num_fast_foods	7
+27137	Minnesota	St. Louis	num_fast_foods	102
+27139	Minnesota	Scott	num_fast_foods	61
+27141	Minnesota	Sherburne	num_fast_foods	46
+27143	Minnesota	Sibley	num_fast_foods	4
+27145	Minnesota	Stearns	num_fast_foods	102
+27147	Minnesota	Steele	num_fast_foods	23
+27149	Minnesota	Stevens	num_fast_foods	7
+27151	Minnesota	Swift	num_fast_foods	6
+27153	Minnesota	Todd	num_fast_foods	8
+27155	Minnesota	Traverse	num_fast_foods	2
+27157	Minnesota	Wabasha	num_fast_foods	9
+27159	Minnesota	Wadena	num_fast_foods	9
+27161	Minnesota	Waseca	num_fast_foods	11
+27163	Minnesota	Washington	num_fast_foods	117
+27165	Minnesota	Watonwan	num_fast_foods	6
+27167	Minnesota	Wilkin	num_fast_foods	2
+27169	Minnesota	Winona	num_fast_foods	33
+27171	Minnesota	Wright	num_fast_foods	57
+27173	Minnesota	Yellow Medicine	num_fast_foods	6
+28001	Mississippi	Adams	num_fast_foods	21
+28003	Mississippi	Alcorn	num_fast_foods	27
+28005	Mississippi	Amite	num_fast_foods	3
+28007	Mississippi	Attala	num_fast_foods	10
+28009	Mississippi	Benton	num_fast_foods	
+28011	Mississippi	Bolivar	num_fast_foods	15
+28013	Mississippi	Calhoun	num_fast_foods	5
+28015	Mississippi	Carroll	num_fast_foods	1
+28017	Mississippi	Chickasaw	num_fast_foods	10
+28019	Mississippi	Choctaw	num_fast_foods	3
+28021	Mississippi	Claiborne	num_fast_foods	4
+28023	Mississippi	Clarke	num_fast_foods	4
+28025	Mississippi	Clay	num_fast_foods	8
+28027	Mississippi	Coahoma	num_fast_foods	13
+28029	Mississippi	Copiah	num_fast_foods	12
+28031	Mississippi	Covington	num_fast_foods	11
+28033	Mississippi	DeSoto	num_fast_foods	104
+28035	Mississippi	Forrest	num_fast_foods	69
+28037	Mississippi	Franklin	num_fast_foods	2
+28039	Mississippi	George	num_fast_foods	9
+28041	Mississippi	Greene	num_fast_foods	3
+28043	Mississippi	Grenada	num_fast_foods	21
+28045	Mississippi	Hancock	num_fast_foods	22
+28047	Mississippi	Harrison	num_fast_foods	136
+28049	Mississippi	Hinds	num_fast_foods	185
+28051	Mississippi	Holmes	num_fast_foods	5
+28053	Mississippi	Humphreys	num_fast_foods	2
+28055	Mississippi	Issaquena	num_fast_foods	
+28057	Mississippi	Itawamba	num_fast_foods	10
+28059	Mississippi	Jackson	num_fast_foods	86
+28061	Mississippi	Jasper	num_fast_foods	5
+28063	Mississippi	Jefferson	num_fast_foods	2
+28065	Mississippi	Jefferson Davis	num_fast_foods	6
+28067	Mississippi	Jones	num_fast_foods	57
+28069	Mississippi	Kemper	num_fast_foods	2
+28071	Mississippi	Lafayette	num_fast_foods	37
+28073	Mississippi	Lamar	num_fast_foods	50
+28075	Mississippi	Lauderdale	num_fast_foods	61
+28077	Mississippi	Lawrence	num_fast_foods	6
+28079	Mississippi	Leake	num_fast_foods	13
+28081	Mississippi	Lee	num_fast_foods	80
+28083	Mississippi	Leflore	num_fast_foods	19
+28085	Mississippi	Lincoln	num_fast_foods	28
+28087	Mississippi	Lowndes	num_fast_foods	33
+28089	Mississippi	Madison	num_fast_foods	91
+28091	Mississippi	Marion	num_fast_foods	19
+28093	Mississippi	Marshall	num_fast_foods	12
+28095	Mississippi	Monroe	num_fast_foods	14
+28097	Mississippi	Montgomery	num_fast_foods	9
+28099	Mississippi	Neshoba	num_fast_foods	20
+28101	Mississippi	Newton	num_fast_foods	14
+28103	Mississippi	Noxubee	num_fast_foods	3
+28105	Mississippi	Oktibbeha	num_fast_foods	31
+28107	Mississippi	Panola	num_fast_foods	21
+28109	Mississippi	Pearl River	num_fast_foods	37
+28111	Mississippi	Perry	num_fast_foods	2
+28113	Mississippi	Pike	num_fast_foods	35
+28115	Mississippi	Pontotoc	num_fast_foods	12
+28117	Mississippi	Prentiss	num_fast_foods	15
+28119	Mississippi	Quitman	num_fast_foods	3
+28121	Mississippi	Rankin	num_fast_foods	114
+28123	Mississippi	Scott	num_fast_foods	19
+28125	Mississippi	Sharkey	num_fast_foods	4
+28127	Mississippi	Simpson	num_fast_foods	15
+28129	Mississippi	Smith	num_fast_foods	6
+28131	Mississippi	Stone	num_fast_foods	10
+28133	Mississippi	Sunflower	num_fast_foods	11
+28135	Mississippi	Tallahatchie	num_fast_foods	6
+28137	Mississippi	Tate	num_fast_foods	12
+28139	Mississippi	Tippah	num_fast_foods	10
+28141	Mississippi	Tishomingo	num_fast_foods	8
+28143	Mississippi	Tunica	num_fast_foods	10
+28145	Mississippi	Union	num_fast_foods	15
+28147	Mississippi	Walthall	num_fast_foods	10
+28149	Mississippi	Warren	num_fast_foods	36
+28151	Mississippi	Washington	num_fast_foods	27
+28153	Mississippi	Wayne	num_fast_foods	11
+28155	Mississippi	Webster	num_fast_foods	2
+28157	Mississippi	Wilkinson	num_fast_foods	3
+28159	Mississippi	Winston	num_fast_foods	11
+28161	Mississippi	Yalobusha	num_fast_foods	6
+28163	Mississippi	Yazoo	num_fast_foods	11
+29001	Missouri	Adair	num_fast_foods	20
+29003	Missouri	Andrew	num_fast_foods	7
+29005	Missouri	Atchison	num_fast_foods	2
+29007	Missouri	Audrain	num_fast_foods	13
+29009	Missouri	Barry	num_fast_foods	12
+29011	Missouri	Barton	num_fast_foods	8
+29013	Missouri	Bates	num_fast_foods	8
+29015	Missouri	Benton	num_fast_foods	4
+29017	Missouri	Bollinger	num_fast_foods	2
+29019	Missouri	Boone	num_fast_foods	126
+29021	Missouri	Buchanan	num_fast_foods	75
+29023	Missouri	Butler	num_fast_foods	28
+29025	Missouri	Caldwell	num_fast_foods	2
+29027	Missouri	Callaway	num_fast_foods	21
+29029	Missouri	Camden	num_fast_foods	29
+29031	Missouri	Cape Girardeau	num_fast_foods	59
+29033	Missouri	Carroll	num_fast_foods	4
+29035	Missouri	Carter	num_fast_foods	3
+29037	Missouri	Cass	num_fast_foods	45
+29039	Missouri	Cedar	num_fast_foods	8
+29041	Missouri	Chariton	num_fast_foods	2
+29043	Missouri	Christian	num_fast_foods	43
+29045	Missouri	Clark	num_fast_foods	3
+29047	Missouri	Clay	num_fast_foods	150
+29049	Missouri	Clinton	num_fast_foods	5
+29051	Missouri	Cole	num_fast_foods	56
+29053	Missouri	Cooper	num_fast_foods	15
+29055	Missouri	Crawford	num_fast_foods	10
+29057	Missouri	Dade	num_fast_foods	3
+29059	Missouri	Dallas	num_fast_foods	9
+29061	Missouri	Daviess	num_fast_foods	4
+29063	Missouri	DeKalb	num_fast_foods	4
+29065	Missouri	Dent	num_fast_foods	6
+29067	Missouri	Douglas	num_fast_foods	4
+29069	Missouri	Dunklin	num_fast_foods	19
+29071	Missouri	Franklin	num_fast_foods	57
+29073	Missouri	Gasconade	num_fast_foods	9
+29075	Missouri	Gentry	num_fast_foods	6
+29077	Missouri	Greene	num_fast_foods	251
+29079	Missouri	Grundy	num_fast_foods	5
+29081	Missouri	Harrison	num_fast_foods	4
+29083	Missouri	Henry	num_fast_foods	16
+29085	Missouri	Hickory	num_fast_foods	1
+29087	Missouri	Holt	num_fast_foods	4
+29089	Missouri	Howard	num_fast_foods	2
+29091	Missouri	Howell	num_fast_foods	27
+29093	Missouri	Iron	num_fast_foods	2
+29095	Missouri	Jackson	num_fast_foods	496
+29097	Missouri	Jasper	num_fast_foods	103
+29099	Missouri	Jefferson	num_fast_foods	117
+29101	Missouri	Johnson	num_fast_foods	29
+29103	Missouri	Knox	num_fast_foods	
+29105	Missouri	Laclede	num_fast_foods	20
+29107	Missouri	Lafayette	num_fast_foods	18
+29109	Missouri	Lawrence	num_fast_foods	17
+29111	Missouri	Lewis	num_fast_foods	
+29113	Missouri	Lincoln	num_fast_foods	17
+29115	Missouri	Linn	num_fast_foods	7
+29117	Missouri	Livingston	num_fast_foods	5
+29119	Missouri	McDonald	num_fast_foods	5
+29121	Missouri	Macon	num_fast_foods	9
+29123	Missouri	Madison	num_fast_foods	5
+29125	Missouri	Maries	num_fast_foods	2
+29127	Missouri	Marion	num_fast_foods	24
+29129	Missouri	Mercer	num_fast_foods	1
+29131	Missouri	Miller	num_fast_foods	16
+29133	Missouri	Mississippi	num_fast_foods	7
+29135	Missouri	Moniteau	num_fast_foods	6
+29137	Missouri	Monroe	num_fast_foods	2
+29139	Missouri	Montgomery	num_fast_foods	5
+29141	Missouri	Morgan	num_fast_foods	8
+29143	Missouri	New Madrid	num_fast_foods	11
+29145	Missouri	Newton	num_fast_foods	32
+29147	Missouri	Nodaway	num_fast_foods	14
+29149	Missouri	Oregon	num_fast_foods	3
+29151	Missouri	Osage	num_fast_foods	4
+29153	Missouri	Ozark	num_fast_foods	3
+29155	Missouri	Pemiscot	num_fast_foods	6
+29157	Missouri	Perry	num_fast_foods	16
+29159	Missouri	Pettis	num_fast_foods	30
+29161	Missouri	Phelps	num_fast_foods	29
+29163	Missouri	Pike	num_fast_foods	7
+29165	Missouri	Platte	num_fast_foods	62
+29167	Missouri	Polk	num_fast_foods	17
+29169	Missouri	Pulaski	num_fast_foods	23
+29171	Missouri	Putnam	num_fast_foods	3
+29173	Missouri	Ralls	num_fast_foods	1
+29175	Missouri	Randolph	num_fast_foods	12
+29177	Missouri	Ray	num_fast_foods	8
+29179	Missouri	Reynolds	num_fast_foods	1
+29181	Missouri	Ripley	num_fast_foods	7
+29183	Missouri	St. Charles	num_fast_foods	250
+29185	Missouri	St. Clair	num_fast_foods	1
+29186	Missouri	Ste. Genevieve	num_fast_foods	7
+29187	Missouri	St. Francois	num_fast_foods	43
+29189	Missouri	St. Louis	num_fast_foods	787
+29195	Missouri	Saline	num_fast_foods	14
+29197	Missouri	Schuyler	num_fast_foods	2
+29199	Missouri	Scotland	num_fast_foods	1
+29201	Missouri	Scott	num_fast_foods	16
+29203	Missouri	Shannon	num_fast_foods	
+29205	Missouri	Shelby	num_fast_foods	1
+29207	Missouri	Stoddard	num_fast_foods	13
+29209	Missouri	Stone	num_fast_foods	13
+29211	Missouri	Sullivan	num_fast_foods	2
+29213	Missouri	Taney	num_fast_foods	54
+29215	Missouri	Texas	num_fast_foods	11
+29217	Missouri	Vernon	num_fast_foods	11
+29219	Missouri	Warren	num_fast_foods	11
+29221	Missouri	Washington	num_fast_foods	7
+29223	Missouri	Wayne	num_fast_foods	5
+29225	Missouri	Webster	num_fast_foods	12
+29227	Missouri	Worth	num_fast_foods	1
+29229	Missouri	Wright	num_fast_foods	8
+29510	Missouri	St. Louis City	num_fast_foods	288
+30001	Montana	Beaverhead	num_fast_foods	6
+30003	Montana	Big Horn	num_fast_foods	5
+30005	Montana	Blaine	num_fast_foods	3
+30007	Montana	Broadwater	num_fast_foods	1
+30009	Montana	Carbon	num_fast_foods	4
+30011	Montana	Carter	num_fast_foods	
+30013	Montana	Cascade	num_fast_foods	68
+30015	Montana	Chouteau	num_fast_foods	1
+30017	Montana	Custer	num_fast_foods	9
+30019	Montana	Daniels	num_fast_foods	2
+30021	Montana	Dawson	num_fast_foods	6
+30023	Montana	Deer Lodge	num_fast_foods	4
+30025	Montana	Fallon	num_fast_foods	2
+30027	Montana	Fergus	num_fast_foods	6
+30029	Montana	Flathead	num_fast_foods	72
+30031	Montana	Gallatin	num_fast_foods	88
+30033	Montana	Garfield	num_fast_foods	
+30035	Montana	Glacier	num_fast_foods	6
+30037	Montana	Golden Valley	num_fast_foods	
+30039	Montana	Granite	num_fast_foods	3
+30041	Montana	Hill	num_fast_foods	16
+30043	Montana	Jefferson	num_fast_foods	5
+30045	Montana	Judith Basin	num_fast_foods	
+30047	Montana	Lake	num_fast_foods	17
+30049	Montana	Lewis and Clark	num_fast_foods	46
+30051	Montana	Liberty	num_fast_foods	
+30053	Montana	Lincoln	num_fast_foods	15
+30055	Montana	McCone	num_fast_foods	2
+30057	Montana	Madison	num_fast_foods	5
+30059	Montana	Meagher	num_fast_foods	2
+30061	Montana	Mineral	num_fast_foods	3
+30063	Montana	Missoula	num_fast_foods	86
+30065	Montana	Musselshell	num_fast_foods	3
+30067	Montana	Park	num_fast_foods	16
+30069	Montana	Petroleum	num_fast_foods	
+30071	Montana	Phillips	num_fast_foods	1
+30073	Montana	Pondera	num_fast_foods	3
+30075	Montana	Powder River	num_fast_foods	3
+30077	Montana	Powell	num_fast_foods	3
+30079	Montana	Prairie	num_fast_foods	
+30081	Montana	Ravalli	num_fast_foods	20
+30083	Montana	Richland	num_fast_foods	9
+30085	Montana	Roosevelt	num_fast_foods	4
+30087	Montana	Rosebud	num_fast_foods	4
+30089	Montana	Sanders	num_fast_foods	7
+30091	Montana	Sheridan	num_fast_foods	2
+30093	Montana	Silver Bow	num_fast_foods	36
+30095	Montana	Stillwater	num_fast_foods	1
+30097	Montana	Sweet Grass	num_fast_foods	1
+30099	Montana	Teton	num_fast_foods	
+30101	Montana	Toole	num_fast_foods	2
+30103	Montana	Treasure	num_fast_foods	
+30105	Montana	Valley	num_fast_foods	7
+30107	Montana	Wheatland	num_fast_foods	1
+30109	Montana	Wibaux	num_fast_foods	1
+30111	Montana	Yellowstone	num_fast_foods	118
+31001	Nebraska	Adams	num_fast_foods	29
+31003	Nebraska	Antelope	num_fast_foods	3
+31005	Nebraska	Arthur	num_fast_foods	
+31007	Nebraska	Banner	num_fast_foods	
+31009	Nebraska	Blaine	num_fast_foods	
+31011	Nebraska	Boone	num_fast_foods	2
+31013	Nebraska	Box Butte	num_fast_foods	5
+31015	Nebraska	Boyd	num_fast_foods	
+31017	Nebraska	Brown	num_fast_foods	
+31019	Nebraska	Buffalo	num_fast_foods	41
+31021	Nebraska	Burt	num_fast_foods	2
+31023	Nebraska	Butler	num_fast_foods	1
+31025	Nebraska	Cass	num_fast_foods	13
+31027	Nebraska	Cedar	num_fast_foods	1
+31029	Nebraska	Chase	num_fast_foods	1
+31031	Nebraska	Cherry	num_fast_foods	4
+31033	Nebraska	Cheyenne	num_fast_foods	8
+31035	Nebraska	Clay	num_fast_foods	2
+31037	Nebraska	Colfax	num_fast_foods	3
+31039	Nebraska	Cuming	num_fast_foods	5
+31041	Nebraska	Custer	num_fast_foods	2
+31043	Nebraska	Dakota	num_fast_foods	13
+31045	Nebraska	Dawes	num_fast_foods	6
+31047	Nebraska	Dawson	num_fast_foods	18
+31049	Nebraska	Deuel	num_fast_foods	
+31051	Nebraska	Dixon	num_fast_foods	
+31053	Nebraska	Dodge	num_fast_foods	30
+31055	Nebraska	Douglas	num_fast_foods	368
+31057	Nebraska	Dundy	num_fast_foods	1
+31059	Nebraska	Fillmore	num_fast_foods	3
+31061	Nebraska	Franklin	num_fast_foods	1
+31063	Nebraska	Frontier	num_fast_foods	
+31065	Nebraska	Furnas	num_fast_foods	2
+31067	Nebraska	Gage	num_fast_foods	10
+31069	Nebraska	Garden	num_fast_foods	1
+31071	Nebraska	Garfield	num_fast_foods	1
+31073	Nebraska	Gosper	num_fast_foods	1
+31075	Nebraska	Grant	num_fast_foods	
+31077	Nebraska	Greeley	num_fast_foods	
+31079	Nebraska	Hall	num_fast_foods	40
+31081	Nebraska	Hamilton	num_fast_foods	2
+31083	Nebraska	Harlan	num_fast_foods	3
+31085	Nebraska	Hayes	num_fast_foods	1
+31087	Nebraska	Hitchcock	num_fast_foods	
+31089	Nebraska	Holt	num_fast_foods	5
+31091	Nebraska	Hooker	num_fast_foods	1
+31093	Nebraska	Howard	num_fast_foods	1
+31095	Nebraska	Jefferson	num_fast_foods	4
+31097	Nebraska	Johnson	num_fast_foods	1
+31099	Nebraska	Kearney	num_fast_foods	3
+31101	Nebraska	Keith	num_fast_foods	9
+31103	Nebraska	Keya Paha	num_fast_foods	
+31105	Nebraska	Kimball	num_fast_foods	2
+31107	Nebraska	Knox	num_fast_foods	
+31109	Nebraska	Lancaster	num_fast_foods	256
+31111	Nebraska	Lincoln	num_fast_foods	24
+31113	Nebraska	Logan	num_fast_foods	
+31115	Nebraska	Loup	num_fast_foods	
+31117	Nebraska	McPherson	num_fast_foods	
+31119	Nebraska	Madison	num_fast_foods	30
+31121	Nebraska	Merrick	num_fast_foods	5
+31123	Nebraska	Morrill	num_fast_foods	6
+31125	Nebraska	Nance	num_fast_foods	1
+31127	Nebraska	Nemaha	num_fast_foods	5
+31129	Nebraska	Nuckolls	num_fast_foods	
+31131	Nebraska	Otoe	num_fast_foods	8
+31133	Nebraska	Pawnee	num_fast_foods	2
+31135	Nebraska	Perkins	num_fast_foods	
+31137	Nebraska	Phelps	num_fast_foods	9
+31139	Nebraska	Pierce	num_fast_foods	2
+31141	Nebraska	Platte	num_fast_foods	21
+31143	Nebraska	Polk	num_fast_foods	1
+31145	Nebraska	Red Willow	num_fast_foods	11
+31147	Nebraska	Richardson	num_fast_foods	5
+31149	Nebraska	Rock	num_fast_foods	
+31151	Nebraska	Saline	num_fast_foods	7
+31153	Nebraska	Sarpy	num_fast_foods	87
+31155	Nebraska	Saunders	num_fast_foods	8
+31157	Nebraska	Scotts Bluff	num_fast_foods	30
+31159	Nebraska	Seward	num_fast_foods	8
+31161	Nebraska	Sheridan	num_fast_foods	4
+31163	Nebraska	Sherman	num_fast_foods	
+31165	Nebraska	Sioux	num_fast_foods	
+31167	Nebraska	Stanton	num_fast_foods	1
+31169	Nebraska	Thayer	num_fast_foods	1
+31171	Nebraska	Thomas	num_fast_foods	
+31173	Nebraska	Thurston	num_fast_foods	3
+31175	Nebraska	Valley	num_fast_foods	3
+31177	Nebraska	Washington	num_fast_foods	9
+31179	Nebraska	Wayne	num_fast_foods	9
+31181	Nebraska	Webster	num_fast_foods	1
+31183	Nebraska	Wheeler	num_fast_foods	
+31185	Nebraska	York	num_fast_foods	11
+32001	Nevada	Churchill	num_fast_foods	14
+32003	Nevada	Clark	num_fast_foods	1585
+32005	Nevada	Douglas	num_fast_foods	29
+32007	Nevada	Elko	num_fast_foods	35
+32009	Nevada	Esmeralda	num_fast_foods	
+32011	Nevada	Eureka	num_fast_foods	2
+32013	Nevada	Humboldt	num_fast_foods	8
+32015	Nevada	Lander	num_fast_foods	1
+32017	Nevada	Lincoln	num_fast_foods	1
+32019	Nevada	Lyon	num_fast_foods	24
+32021	Nevada	Mineral	num_fast_foods	2
+32023	Nevada	Nye	num_fast_foods	21
+32027	Nevada	Pershing	num_fast_foods	4
+32029	Nevada	Storey	num_fast_foods	
+32031	Nevada	Washoe	num_fast_foods	330
+32033	Nevada	White Pine	num_fast_foods	4
+32510	Nevada	Carson City	num_fast_foods	51
+33001	New Hampshire	Belknap	num_fast_foods	48
+33003	New Hampshire	Carroll	num_fast_foods	51
+33005	New Hampshire	Cheshire	num_fast_foods	40
+33007	New Hampshire	Coos	num_fast_foods	23
+33009	New Hampshire	Grafton	num_fast_foods	59
+33011	New Hampshire	Hillsborough	num_fast_foods	280
+33013	New Hampshire	Merrimack	num_fast_foods	110
+33015	New Hampshire	Rockingham	num_fast_foods	311
+33017	New Hampshire	Strafford	num_fast_foods	89
+33019	New Hampshire	Sullivan	num_fast_foods	22
+34001	New Jersey	Atlantic	num_fast_foods	189
+34003	New Jersey	Bergen	num_fast_foods	768
+34005	New Jersey	Burlington	num_fast_foods	312
+34007	New Jersey	Camden	num_fast_foods	377
+34009	New Jersey	Cape May	num_fast_foods	192
+34011	New Jersey	Cumberland	num_fast_foods	105
+34013	New Jersey	Essex	num_fast_foods	508
+34015	New Jersey	Gloucester	num_fast_foods	176
+34017	New Jersey	Hudson	num_fast_foods	474
+34019	New Jersey	Hunterdon	num_fast_foods	91
+34021	New Jersey	Mercer	num_fast_foods	266
+34023	New Jersey	Middlesex	num_fast_foods	620
+34025	New Jersey	Monmouth	num_fast_foods	502
+34027	New Jersey	Morris	num_fast_foods	384
+34029	New Jersey	Ocean	num_fast_foods	420
+34031	New Jersey	Passaic	num_fast_foods	332
+34033	New Jersey	Salem	num_fast_foods	38
+34035	New Jersey	Somerset	num_fast_foods	250
+34037	New Jersey	Sussex	num_fast_foods	85
+34039	New Jersey	Union	num_fast_foods	315
+34041	New Jersey	Warren	num_fast_foods	82
+35001	New Mexico	Bernalillo	num_fast_foods	515
+35003	New Mexico	Catron	num_fast_foods	
+35005	New Mexico	Chaves	num_fast_foods	37
+35006	New Mexico	Cibola	num_fast_foods	15
+35007	New Mexico	Colfax	num_fast_foods	11
+35009	New Mexico	Curry	num_fast_foods	31
+35011	New Mexico	De Baca	num_fast_foods	1
+35013	New Mexico	Dona Ana	num_fast_foods	121
+35015	New Mexico	Eddy	num_fast_foods	32
+35017	New Mexico	Grant	num_fast_foods	18
+35019	New Mexico	Guadalupe	num_fast_foods	3
+35021	New Mexico	Harding	num_fast_foods	
+35023	New Mexico	Hidalgo	num_fast_foods	2
+35025	New Mexico	Lea	num_fast_foods	40
+35027	New Mexico	Lincoln	num_fast_foods	18
+35028	New Mexico	Los Alamos	num_fast_foods	8
+35029	New Mexico	Luna	num_fast_foods	15
+35031	New Mexico	McKinley	num_fast_foods	45
+35033	New Mexico	Mora	num_fast_foods	1
+35035	New Mexico	Otero	num_fast_foods	35
+35037	New Mexico	Quay	num_fast_foods	8
+35039	New Mexico	Rio Arriba	num_fast_foods	25
+35041	New Mexico	Roosevelt	num_fast_foods	12
+35043	New Mexico	Sandoval	num_fast_foods	60
+35045	New Mexico	San Juan	num_fast_foods	85
+35047	New Mexico	San Miguel	num_fast_foods	14
+35049	New Mexico	Santa Fe	num_fast_foods	89
+35051	New Mexico	Sierra	num_fast_foods	10
+35053	New Mexico	Socorro	num_fast_foods	10
+35055	New Mexico	Taos	num_fast_foods	32
+35057	New Mexico	Torrance	num_fast_foods	10
+35059	New Mexico	Union	num_fast_foods	2
+35061	New Mexico	Valencia	num_fast_foods	42
+36001	New York	Albany	num_fast_foods	295
+36003	New York	Allegany	num_fast_foods	22
+36005	New York	Bronx	num_fast_foods	878
+36007	New York	Broome	num_fast_foods	156
+36009	New York	Cattaraugus	num_fast_foods	43
+36011	New York	Cayuga	num_fast_foods	49
+36013	New York	Chautauqua	num_fast_foods	92
+36015	New York	Chemung	num_fast_foods	57
+36017	New York	Chenango	num_fast_foods	17
+36019	New York	Clinton	num_fast_foods	39
+36021	New York	Columbia	num_fast_foods	36
+36023	New York	Cortland	num_fast_foods	31
+36025	New York	Delaware	num_fast_foods	29
+36027	New York	Dutchess	num_fast_foods	201
+36029	New York	Erie	num_fast_foods	729
+36031	New York	Essex	num_fast_foods	23
+36033	New York	Franklin	num_fast_foods	24
+36035	New York	Fulton	num_fast_foods	35
+36037	New York	Genesee	num_fast_foods	31
+36039	New York	Greene	num_fast_foods	30
+36041	New York	Hamilton	num_fast_foods	5
+36043	New York	Herkimer	num_fast_foods	42
+36045	New York	Jefferson	num_fast_foods	91
+36047	New York	Kings	num_fast_foods	1762
+36049	New York	Lewis	num_fast_foods	12
+36051	New York	Livingston	num_fast_foods	37
+36053	New York	Madison	num_fast_foods	39
+36055	New York	Monroe	num_fast_foods	518
+36057	New York	Montgomery	num_fast_foods	38
+36059	New York	Nassau	num_fast_foods	1116
+36061	New York	New York	num_fast_foods	2376
+36063	New York	Niagara	num_fast_foods	137
+36065	New York	Oneida	num_fast_foods	132
+36067	New York	Onondaga	num_fast_foods	362
+36069	New York	Ontario	num_fast_foods	92
+36071	New York	Orange	num_fast_foods	256
+36073	New York	Orleans	num_fast_foods	15
+36075	New York	Oswego	num_fast_foods	65
+36077	New York	Otsego	num_fast_foods	36
+36079	New York	Putnam	num_fast_foods	71
+36081	New York	Queens	num_fast_foods	1668
+36083	New York	Rensselaer	num_fast_foods	106
+36085	New York	Richmond	num_fast_foods	278
+36087	New York	Rockland	num_fast_foods	227
+36089	New York	St. Lawrence	num_fast_foods	55
+36091	New York	Saratoga	num_fast_foods	152
+36093	New York	Schenectady	num_fast_foods	117
+36095	New York	Schoharie	num_fast_foods	11
+36097	New York	Schuyler	num_fast_foods	8
+36099	New York	Seneca	num_fast_foods	21
+36101	New York	Steuben	num_fast_foods	49
+36103	New York	Suffolk	num_fast_foods	1161
+36105	New York	Sullivan	num_fast_foods	61
+36107	New York	Tioga	num_fast_foods	24
+36109	New York	Tompkins	num_fast_foods	75
+36111	New York	Ulster	num_fast_foods	140
+36113	New York	Warren	num_fast_foods	65
+36115	New York	Washington	num_fast_foods	38
+36117	New York	Wayne	num_fast_foods	60
+36119	New York	Westchester	num_fast_foods	713
+36121	New York	Wyoming	num_fast_foods	25
+36123	New York	Yates	num_fast_foods	10
+37001	North Carolina	Alamance	num_fast_foods	122
+37003	North Carolina	Alexander	num_fast_foods	15
+37005	North Carolina	Alleghany	num_fast_foods	5
+37007	North Carolina	Anson	num_fast_foods	13
+37009	North Carolina	Ashe	num_fast_foods	17
+37011	North Carolina	Avery	num_fast_foods	9
+37013	North Carolina	Beaufort	num_fast_foods	29
+37015	North Carolina	Bertie	num_fast_foods	8
+37017	North Carolina	Bladen	num_fast_foods	21
+37019	North Carolina	Brunswick	num_fast_foods	72
+37021	North Carolina	Buncombe	num_fast_foods	204
+37023	North Carolina	Burke	num_fast_foods	53
+37025	North Carolina	Cabarrus	num_fast_foods	137
+37027	North Carolina	Caldwell	num_fast_foods	63
+37029	North Carolina	Camden	num_fast_foods	2
+37031	North Carolina	Carteret	num_fast_foods	54
+37033	North Carolina	Caswell	num_fast_foods	5
+37035	North Carolina	Catawba	num_fast_foods	125
+37037	North Carolina	Chatham	num_fast_foods	24
+37039	North Carolina	Cherokee	num_fast_foods	18
+37041	North Carolina	Chowan	num_fast_foods	13
+37043	North Carolina	Clay	num_fast_foods	2
+37045	North Carolina	Cleveland	num_fast_foods	65
+37047	North Carolina	Columbus	num_fast_foods	51
+37049	North Carolina	Craven	num_fast_foods	74
+37051	North Carolina	Cumberland	num_fast_foods	240
+37053	North Carolina	Currituck	num_fast_foods	25
+37055	North Carolina	Dare	num_fast_foods	70
+37057	North Carolina	Davidson	num_fast_foods	75
+37059	North Carolina	Davie	num_fast_foods	22
+37061	North Carolina	Duplin	num_fast_foods	29
+37063	North Carolina	Durham	num_fast_foods	249
+37065	North Carolina	Edgecombe	num_fast_foods	29
+37067	North Carolina	Forsyth	num_fast_foods	241
+37069	North Carolina	Franklin	num_fast_foods	29
+37071	North Carolina	Gaston	num_fast_foods	146
+37073	North Carolina	Gates	num_fast_foods	1
+37075	North Carolina	Graham	num_fast_foods	4
+37077	North Carolina	Granville	num_fast_foods	36
+37079	North Carolina	Greene	num_fast_foods	5
+37081	North Carolina	Guilford	num_fast_foods	388
+37083	North Carolina	Halifax	num_fast_foods	43
+37085	North Carolina	Harnett	num_fast_foods	58
+37087	North Carolina	Haywood	num_fast_foods	40
+37089	North Carolina	Henderson	num_fast_foods	58
+37091	North Carolina	Hertford	num_fast_foods	18
+37093	North Carolina	Hoke	num_fast_foods	11
+37095	North Carolina	Hyde	num_fast_foods	1
+37097	North Carolina	Iredell	num_fast_foods	129
+37099	North Carolina	Jackson	num_fast_foods	29
+37101	North Carolina	Johnston	num_fast_foods	124
+37103	North Carolina	Jones	num_fast_foods	4
+37105	North Carolina	Lee	num_fast_foods	48
+37107	North Carolina	Lenoir	num_fast_foods	47
+37109	North Carolina	Lincoln	num_fast_foods	51
+37111	North Carolina	McDowell	num_fast_foods	23
+37113	North Carolina	Macon	num_fast_foods	26
+37115	North Carolina	Madison	num_fast_foods	8
+37117	North Carolina	Martin	num_fast_foods	19
+37119	North Carolina	Mecklenburg	num_fast_foods	731
+37121	North Carolina	Mitchell	num_fast_foods	11
+37123	North Carolina	Montgomery	num_fast_foods	15
+37125	North Carolina	Moore	num_fast_foods	50
+37127	North Carolina	Nash	num_fast_foods	81
+37129	North Carolina	New Hanover	num_fast_foods	188
+37131	North Carolina	Northampton	num_fast_foods	7
+37133	North Carolina	Onslow	num_fast_foods	127
+37135	North Carolina	Orange	num_fast_foods	90
+37137	North Carolina	Pamlico	num_fast_foods	12
+37139	North Carolina	Pasquotank	num_fast_foods	31
+37141	North Carolina	Pender	num_fast_foods	32
+37143	North Carolina	Perquimans	num_fast_foods	4
+37145	North Carolina	Person	num_fast_foods	29
+37147	North Carolina	Pitt	num_fast_foods	148
+37149	North Carolina	Polk	num_fast_foods	8
+37151	North Carolina	Randolph	num_fast_foods	69
+37153	North Carolina	Richmond	num_fast_foods	24
+37155	North Carolina	Robeson	num_fast_foods	72
+37157	North Carolina	Rockingham	num_fast_foods	57
+37159	North Carolina	Rowan	num_fast_foods	77
+37161	North Carolina	Rutherford	num_fast_foods	36
+37163	North Carolina	Sampson	num_fast_foods	32
+37165	North Carolina	Scotland	num_fast_foods	20
+37167	North Carolina	Stanly	num_fast_foods	43
+37169	North Carolina	Stokes	num_fast_foods	19
+37171	North Carolina	Surry	num_fast_foods	56
+37173	North Carolina	Swain	num_fast_foods	21
+37175	North Carolina	Transylvania	num_fast_foods	22
+37177	North Carolina	Tyrrell	num_fast_foods	1
+37179	North Carolina	Union	num_fast_foods	113
+37181	North Carolina	Vance	num_fast_foods	31
+37183	North Carolina	Wake	num_fast_foods	761
+37185	North Carolina	Warren	num_fast_foods	6
+37187	North Carolina	Washington	num_fast_foods	8
+37189	North Carolina	Watauga	num_fast_foods	36
+37191	North Carolina	Wayne	num_fast_foods	78
+37193	North Carolina	Wilkes	num_fast_foods	34
+37195	North Carolina	Wilson	num_fast_foods	57
+37197	North Carolina	Yadkin	num_fast_foods	20
+37199	North Carolina	Yancey	num_fast_foods	5
+38001	North Dakota	Adams	num_fast_foods	1
+38003	North Dakota	Barnes	num_fast_foods	7
+38005	North Dakota	Benson	num_fast_foods	
+38007	North Dakota	Billings	num_fast_foods	1
+38009	North Dakota	Bottineau	num_fast_foods	4
+38011	North Dakota	Bowman	num_fast_foods	3
+38013	North Dakota	Burke	num_fast_foods	1
+38015	North Dakota	Burleigh	num_fast_foods	50
+38017	North Dakota	Cass	num_fast_foods	105
+38019	North Dakota	Cavalier	num_fast_foods	4
+38021	North Dakota	Dickey	num_fast_foods	3
+38023	North Dakota	Divide	num_fast_foods	
+38025	North Dakota	Dunn	num_fast_foods	1
+38027	North Dakota	Eddy	num_fast_foods	
+38029	North Dakota	Emmons	num_fast_foods	3
+38031	North Dakota	Foster	num_fast_foods	3
+38033	North Dakota	Golden Valley	num_fast_foods	2
+38035	North Dakota	Grand Forks	num_fast_foods	47
+38037	North Dakota	Grant	num_fast_foods	
+38039	North Dakota	Griggs	num_fast_foods	1
+38041	North Dakota	Hettinger	num_fast_foods	1
+38043	North Dakota	Kidder	num_fast_foods	1
+38045	North Dakota	LaMoure	num_fast_foods	2
+38047	North Dakota	Logan	num_fast_foods	1
+38049	North Dakota	McHenry	num_fast_foods	
+38051	North Dakota	McIntosh	num_fast_foods	1
+38053	North Dakota	McKenzie	num_fast_foods	1
+38055	North Dakota	McLean	num_fast_foods	1
+38057	North Dakota	Mercer	num_fast_foods	4
+38059	North Dakota	Morton	num_fast_foods	10
+38061	North Dakota	Mountrail	num_fast_foods	2
+38063	North Dakota	Nelson	num_fast_foods	1
+38065	North Dakota	Oliver	num_fast_foods	
+38067	North Dakota	Pembina	num_fast_foods	4
+38069	North Dakota	Pierce	num_fast_foods	3
+38071	North Dakota	Ramsey	num_fast_foods	10
+38073	North Dakota	Ransom	num_fast_foods	2
+38075	North Dakota	Renville	num_fast_foods	1
+38077	North Dakota	Richland	num_fast_foods	9
+38079	North Dakota	Rolette	num_fast_foods	6
+38081	North Dakota	Sargent	num_fast_foods	1
+38083	North Dakota	Sheridan	num_fast_foods	
+38085	North Dakota	Sioux	num_fast_foods	2
+38087	North Dakota	Slope	num_fast_foods	
+38089	North Dakota	Stark	num_fast_foods	19
+38091	North Dakota	Steele	num_fast_foods	
+38093	North Dakota	Stutsman	num_fast_foods	15
+38095	North Dakota	Towner	num_fast_foods	1
+38097	North Dakota	Traill	num_fast_foods	6
+38099	North Dakota	Walsh	num_fast_foods	4
+38101	North Dakota	Ward	num_fast_foods	39
+38103	North Dakota	Wells	num_fast_foods	3
+38105	North Dakota	Williams	num_fast_foods	15
+39001	Ohio	Adams	num_fast_foods	14
+39003	Ohio	Allen	num_fast_foods	106
+39005	Ohio	Ashland	num_fast_foods	27
+39007	Ohio	Ashtabula	num_fast_foods	76
+39009	Ohio	Athens	num_fast_foods	66
+39011	Ohio	Auglaize	num_fast_foods	39
+39013	Ohio	Belmont	num_fast_foods	53
+39015	Ohio	Brown	num_fast_foods	26
+39017	Ohio	Butler	num_fast_foods	242
+39019	Ohio	Carroll	num_fast_foods	15
+39021	Ohio	Champaign	num_fast_foods	21
+39023	Ohio	Clark	num_fast_foods	105
+39025	Ohio	Clermont	num_fast_foods	125
+39027	Ohio	Clinton	num_fast_foods	28
+39029	Ohio	Columbiana	num_fast_foods	70
+39031	Ohio	Coshocton	num_fast_foods	21
+39033	Ohio	Crawford	num_fast_foods	34
+39035	Ohio	Cuyahoga	num_fast_foods	1051
+39037	Ohio	Darke	num_fast_foods	30
+39039	Ohio	Defiance	num_fast_foods	25
+39041	Ohio	Delaware	num_fast_foods	156
+39043	Ohio	Erie	num_fast_foods	70
+39045	Ohio	Fairfield	num_fast_foods	83
+39047	Ohio	Fayette	num_fast_foods	33
+39049	Ohio	Franklin	num_fast_foods	1045
+39051	Ohio	Fulton	num_fast_foods	24
+39053	Ohio	Gallia	num_fast_foods	27
+39055	Ohio	Geauga	num_fast_foods	59
+39057	Ohio	Greene	num_fast_foods	127
+39059	Ohio	Guernsey	num_fast_foods	40
+39061	Ohio	Hamilton	num_fast_foods	626
+39063	Ohio	Hancock	num_fast_foods	65
+39065	Ohio	Hardin	num_fast_foods	20
+39067	Ohio	Harrison	num_fast_foods	9
+39069	Ohio	Henry	num_fast_foods	17
+39071	Ohio	Highland	num_fast_foods	25
+39073	Ohio	Hocking	num_fast_foods	12
+39075	Ohio	Holmes	num_fast_foods	12
+39077	Ohio	Huron	num_fast_foods	47
+39079	Ohio	Jackson	num_fast_foods	22
+39081	Ohio	Jefferson	num_fast_foods	50
+39083	Ohio	Knox	num_fast_foods	36
+39085	Ohio	Lake	num_fast_foods	196
+39087	Ohio	Lawrence	num_fast_foods	40
+39089	Ohio	Licking	num_fast_foods	123
+39091	Ohio	Logan	num_fast_foods	36
+39093	Ohio	Lorain	num_fast_foods	210
+39095	Ohio	Lucas	num_fast_foods	368
+39097	Ohio	Madison	num_fast_foods	27
+39099	Ohio	Mahoning	num_fast_foods	166
+39101	Ohio	Marion	num_fast_foods	49
+39103	Ohio	Medina	num_fast_foods	107
+39105	Ohio	Meigs	num_fast_foods	16
+39107	Ohio	Mercer	num_fast_foods	26
+39109	Ohio	Miami	num_fast_foods	80
+39111	Ohio	Monroe	num_fast_foods	6
+39113	Ohio	Montgomery	num_fast_foods	452
+39115	Ohio	Morgan	num_fast_foods	3
+39117	Ohio	Morrow	num_fast_foods	16
+39119	Ohio	Muskingum	num_fast_foods	74
+39121	Ohio	Noble	num_fast_foods	10
+39123	Ohio	Ottawa	num_fast_foods	36
+39125	Ohio	Paulding	num_fast_foods	11
+39127	Ohio	Perry	num_fast_foods	15
+39129	Ohio	Pickaway	num_fast_foods	30
+39131	Ohio	Pike	num_fast_foods	22
+39133	Ohio	Portage	num_fast_foods	114
+39135	Ohio	Preble	num_fast_foods	23
+39137	Ohio	Putnam	num_fast_foods	18
+39139	Ohio	Richland	num_fast_foods	96
+39141	Ohio	Ross	num_fast_foods	55
+39143	Ohio	Sandusky	num_fast_foods	42
+39145	Ohio	Scioto	num_fast_foods	59
+39147	Ohio	Seneca	num_fast_foods	26
+39149	Ohio	Shelby	num_fast_foods	27
+39151	Ohio	Stark	num_fast_foods	288
+39153	Ohio	Summit	num_fast_foods	445
+39155	Ohio	Trumbull	num_fast_foods	150
+39157	Ohio	Tuscarawas	num_fast_foods	77
+39159	Ohio	Union	num_fast_foods	28
+39161	Ohio	Van Wert	num_fast_foods	18
+39163	Ohio	Vinton	num_fast_foods	5
+39165	Ohio	Warren	num_fast_foods	118
+39167	Ohio	Washington	num_fast_foods	48
+39169	Ohio	Wayne	num_fast_foods	53
+39171	Ohio	Williams	num_fast_foods	26
+39173	Ohio	Wood	num_fast_foods	99
+39175	Ohio	Wyandot	num_fast_foods	16
+40001	Oklahoma	Adair	num_fast_foods	8
+40003	Oklahoma	Alfalfa	num_fast_foods	1
+40005	Oklahoma	Atoka	num_fast_foods	6
+40007	Oklahoma	Beaver	num_fast_foods	
+40009	Oklahoma	Beckham	num_fast_foods	15
+40011	Oklahoma	Blaine	num_fast_foods	4
+40013	Oklahoma	Bryan	num_fast_foods	25
+40015	Oklahoma	Caddo	num_fast_foods	12
+40017	Oklahoma	Canadian	num_fast_foods	60
+40019	Oklahoma	Carter	num_fast_foods	30
+40021	Oklahoma	Cherokee	num_fast_foods	24
+40023	Oklahoma	Choctaw	num_fast_foods	9
+40025	Oklahoma	Cimarron	num_fast_foods	3
+40027	Oklahoma	Cleveland	num_fast_foods	189
+40029	Oklahoma	Coal	num_fast_foods	1
+40031	Oklahoma	Comanche	num_fast_foods	73
+40033	Oklahoma	Cotton	num_fast_foods	3
+40035	Oklahoma	Craig	num_fast_foods	5
+40037	Oklahoma	Creek	num_fast_foods	35
+40039	Oklahoma	Custer	num_fast_foods	21
+40041	Oklahoma	Delaware	num_fast_foods	14
+40043	Oklahoma	Dewey	num_fast_foods	
+40045	Oklahoma	Ellis	num_fast_foods	
+40047	Oklahoma	Garfield	num_fast_foods	37
+40049	Oklahoma	Garvin	num_fast_foods	18
+40051	Oklahoma	Grady	num_fast_foods	19
+40053	Oklahoma	Grant	num_fast_foods	
+40055	Oklahoma	Greer	num_fast_foods	1
+40057	Oklahoma	Harmon	num_fast_foods	
+40059	Oklahoma	Harper	num_fast_foods	1
+40061	Oklahoma	Haskell	num_fast_foods	4
+40063	Oklahoma	Hughes	num_fast_foods	10
+40065	Oklahoma	Jackson	num_fast_foods	21
+40067	Oklahoma	Jefferson	num_fast_foods	2
+40069	Oklahoma	Johnston	num_fast_foods	3
+40071	Oklahoma	Kay	num_fast_foods	32
+40073	Oklahoma	Kingfisher	num_fast_foods	10
+40075	Oklahoma	Kiowa	num_fast_foods	4
+40077	Oklahoma	Latimer	num_fast_foods	2
+40079	Oklahoma	Le Flore	num_fast_foods	18
+40081	Oklahoma	Lincoln	num_fast_foods	17
+40083	Oklahoma	Logan	num_fast_foods	14
+40085	Oklahoma	Love	num_fast_foods	4
+40087	Oklahoma	McClain	num_fast_foods	25
+40089	Oklahoma	McCurtain	num_fast_foods	13
+40091	Oklahoma	McIntosh	num_fast_foods	8
+40093	Oklahoma	Major	num_fast_foods	2
+40095	Oklahoma	Marshall	num_fast_foods	9
+40097	Oklahoma	Mayes	num_fast_foods	24
+40099	Oklahoma	Murray	num_fast_foods	11
+40101	Oklahoma	Muskogee	num_fast_foods	57
+40103	Oklahoma	Noble	num_fast_foods	4
+40105	Oklahoma	Nowata	num_fast_foods	2
+40107	Oklahoma	Okfuskee	num_fast_foods	2
+40109	Oklahoma	Oklahoma	num_fast_foods	629
+40111	Oklahoma	Okmulgee	num_fast_foods	21
+40113	Oklahoma	Osage	num_fast_foods	17
+40115	Oklahoma	Ottawa	num_fast_foods	14
+40117	Oklahoma	Pawnee	num_fast_foods	9
+40119	Oklahoma	Payne	num_fast_foods	54
+40121	Oklahoma	Pittsburg	num_fast_foods	28
+40123	Oklahoma	Pontotoc	num_fast_foods	19
+40125	Oklahoma	Pottawatomie	num_fast_foods	78
+40127	Oklahoma	Pushmataha	num_fast_foods	6
+40129	Oklahoma	Roger Mills	num_fast_foods	
+40131	Oklahoma	Rogers	num_fast_foods	43
+40133	Oklahoma	Seminole	num_fast_foods	14
+40135	Oklahoma	Sequoyah	num_fast_foods	18
+40137	Oklahoma	Stephens	num_fast_foods	24
+40139	Oklahoma	Texas	num_fast_foods	7
+40141	Oklahoma	Tillman	num_fast_foods	2
+40143	Oklahoma	Tulsa	num_fast_foods	536
+40145	Oklahoma	Wagoner	num_fast_foods	24
+40147	Oklahoma	Washington	num_fast_foods	40
+40149	Oklahoma	Washita	num_fast_foods	4
+40151	Oklahoma	Woods	num_fast_foods	8
+40153	Oklahoma	Woodward	num_fast_foods	16
+41001	Oregon	Baker	num_fast_foods	7
+41003	Oregon	Benton	num_fast_foods	64
+41005	Oregon	Clackamas	num_fast_foods	241
+41007	Oregon	Clatsop	num_fast_foods	30
+41009	Oregon	Columbia	num_fast_foods	23
+41011	Oregon	Coos	num_fast_foods	36
+41013	Oregon	Crook	num_fast_foods	11
+41015	Oregon	Curry	num_fast_foods	13
+41017	Oregon	Deschutes	num_fast_foods	130
+41019	Oregon	Douglas	num_fast_foods	75
+41021	Oregon	Gilliam	num_fast_foods	1
+41023	Oregon	Grant	num_fast_foods	5
+41025	Oregon	Harney	num_fast_foods	8
+41027	Oregon	Hood River	num_fast_foods	26
+41029	Oregon	Jackson	num_fast_foods	151
+41031	Oregon	Jefferson	num_fast_foods	12
+41033	Oregon	Josephine	num_fast_foods	42
+41035	Oregon	Klamath	num_fast_foods	43
+41037	Oregon	Lake	num_fast_foods	5
+41039	Oregon	Lane	num_fast_foods	286
+41041	Oregon	Lincoln	num_fast_foods	33
+41043	Oregon	Linn	num_fast_foods	62
+41045	Oregon	Malheur	num_fast_foods	22
+41047	Oregon	Marion	num_fast_foods	219
+41049	Oregon	Morrow	num_fast_foods	1
+41051	Oregon	Multnomah	num_fast_foods	678
+41053	Oregon	Polk	num_fast_foods	40
+41055	Oregon	Sherman	num_fast_foods	1
+41057	Oregon	Tillamook	num_fast_foods	12
+41059	Oregon	Umatilla	num_fast_foods	44
+41061	Oregon	Union	num_fast_foods	16
+41063	Oregon	Wallowa	num_fast_foods	4
+41065	Oregon	Wasco	num_fast_foods	21
+41067	Oregon	Washington	num_fast_foods	384
+41069	Oregon	Wheeler	num_fast_foods	
+41071	Oregon	Yamhill	num_fast_foods	51
+42001	Pennsylvania	Adams	num_fast_foods	60
+42003	Pennsylvania	Allegheny	num_fast_foods	940
+42005	Pennsylvania	Armstrong	num_fast_foods	31
+42007	Pennsylvania	Beaver	num_fast_foods	105
+42009	Pennsylvania	Bedford	num_fast_foods	24
+42011	Pennsylvania	Berks	num_fast_foods	243
+42013	Pennsylvania	Blair	num_fast_foods	97
+42015	Pennsylvania	Bradford	num_fast_foods	30
+42017	Pennsylvania	Bucks	num_fast_foods	465
+42019	Pennsylvania	Butler	num_fast_foods	124
+42021	Pennsylvania	Cambria	num_fast_foods	97
+42023	Pennsylvania	Cameron	num_fast_foods	1
+42025	Pennsylvania	Carbon	num_fast_foods	33
+42027	Pennsylvania	Centre	num_fast_foods	95
+42029	Pennsylvania	Chester	num_fast_foods	328
+42031	Pennsylvania	Clarion	num_fast_foods	21
+42033	Pennsylvania	Clearfield	num_fast_foods	47
+42035	Pennsylvania	Clinton	num_fast_foods	17
+42037	Pennsylvania	Columbia	num_fast_foods	48
+42039	Pennsylvania	Crawford	num_fast_foods	48
+42041	Pennsylvania	Cumberland	num_fast_foods	155
+42043	Pennsylvania	Dauphin	num_fast_foods	202
+42045	Pennsylvania	Delaware	num_fast_foods	374
+42047	Pennsylvania	Elk	num_fast_foods	15
+42049	Pennsylvania	Erie	num_fast_foods	175
+42051	Pennsylvania	Fayette	num_fast_foods	88
+42053	Pennsylvania	Forest	num_fast_foods	1
+42055	Pennsylvania	Franklin	num_fast_foods	97
+42057	Pennsylvania	Fulton	num_fast_foods	6
+42059	Pennsylvania	Greene	num_fast_foods	24
+42061	Pennsylvania	Huntingdon	num_fast_foods	20
+42063	Pennsylvania	Indiana	num_fast_foods	49
+42065	Pennsylvania	Jefferson	num_fast_foods	27
+42067	Pennsylvania	Juniata	num_fast_foods	12
+42069	Pennsylvania	Lackawanna	num_fast_foods	144
+42071	Pennsylvania	Lancaster	num_fast_foods	301
+42073	Pennsylvania	Lawrence	num_fast_foods	51
+42075	Pennsylvania	Lebanon	num_fast_foods	75
+42077	Pennsylvania	Lehigh	num_fast_foods	236
+42079	Pennsylvania	Luzerne	num_fast_foods	203
+42081	Pennsylvania	Lycoming	num_fast_foods	71
+42083	Pennsylvania	McKean	num_fast_foods	26
+42085	Pennsylvania	Mercer	num_fast_foods	74
+42087	Pennsylvania	Mifflin	num_fast_foods	20
+42089	Pennsylvania	Monroe	num_fast_foods	108
+42091	Pennsylvania	Montgomery	num_fast_foods	624
+42093	Pennsylvania	Montour	num_fast_foods	12
+42095	Pennsylvania	Northampton	num_fast_foods	190
+42097	Pennsylvania	Northumberland	num_fast_foods	44
+42099	Pennsylvania	Perry	num_fast_foods	18
+42101	Pennsylvania	Philadelphia	num_fast_foods	1281
+42103	Pennsylvania	Pike	num_fast_foods	19
+42105	Pennsylvania	Potter	num_fast_foods	4
+42107	Pennsylvania	Schuylkill	num_fast_foods	73
+42109	Pennsylvania	Snyder	num_fast_foods	23
+42111	Pennsylvania	Somerset	num_fast_foods	31
+42113	Pennsylvania	Sullivan	num_fast_foods	3
+42115	Pennsylvania	Susquehanna	num_fast_foods	15
+42117	Pennsylvania	Tioga	num_fast_foods	14
+42119	Pennsylvania	Union	num_fast_foods	26
+42121	Pennsylvania	Venango	num_fast_foods	22
+42123	Pennsylvania	Warren	num_fast_foods	18
+42125	Pennsylvania	Washington	num_fast_foods	130
+42127	Pennsylvania	Wayne	num_fast_foods	20
+42129	Pennsylvania	Westmoreland	num_fast_foods	241
+42131	Pennsylvania	Wyoming	num_fast_foods	9
+42133	Pennsylvania	York	num_fast_foods	292
+44001	Rhode Island	Bristol	num_fast_foods	29
+44003	Rhode Island	Kent	num_fast_foods	128
+44005	Rhode Island	Newport	num_fast_foods	73
+44007	Rhode Island	Providence	num_fast_foods	458
+44009	Rhode Island	Washington	num_fast_foods	105
+45001	South Carolina	Abbeville	num_fast_foods	11
+45003	South Carolina	Aiken	num_fast_foods	88
+45005	South Carolina	Allendale	num_fast_foods	6
+45007	South Carolina	Anderson	num_fast_foods	150
+45009	South Carolina	Bamberg	num_fast_foods	10
+45011	South Carolina	Barnwell	num_fast_foods	13
+45013	South Carolina	Beaufort	num_fast_foods	101
+45015	South Carolina	Berkeley	num_fast_foods	106
+45017	South Carolina	Calhoun	num_fast_foods	3
+45019	South Carolina	Charleston	num_fast_foods	329
+45021	South Carolina	Cherokee	num_fast_foods	39
+45023	South Carolina	Chester	num_fast_foods	19
+45025	South Carolina	Chesterfield	num_fast_foods	21
+45027	South Carolina	Clarendon	num_fast_foods	23
+45029	South Carolina	Colleton	num_fast_foods	23
+45031	South Carolina	Darlington	num_fast_foods	35
+45033	South Carolina	Dillon	num_fast_foods	19
+45035	South Carolina	Dorchester	num_fast_foods	72
+45037	South Carolina	Edgefield	num_fast_foods	8
+45039	South Carolina	Fairfield	num_fast_foods	8
+45041	South Carolina	Florence	num_fast_foods	114
+45043	South Carolina	Georgetown	num_fast_foods	52
+45045	South Carolina	Greenville	num_fast_foods	410
+45047	South Carolina	Greenwood	num_fast_foods	45
+45049	South Carolina	Hampton	num_fast_foods	16
+45051	South Carolina	Horry	num_fast_foods	310
+45053	South Carolina	Jasper	num_fast_foods	17
+45055	South Carolina	Kershaw	num_fast_foods	38
+45057	South Carolina	Lancaster	num_fast_foods	37
+45059	South Carolina	Laurens	num_fast_foods	30
+45061	South Carolina	Lee	num_fast_foods	8
+45063	South Carolina	Lexington	num_fast_foods	207
+45065	South Carolina	McCormick	num_fast_foods	4
+45067	South Carolina	Marion	num_fast_foods	16
+45069	South Carolina	Marlboro	num_fast_foods	12
+45071	South Carolina	Newberry	num_fast_foods	18
+45073	South Carolina	Oconee	num_fast_foods	47
+45075	South Carolina	Orangeburg	num_fast_foods	69
+45077	South Carolina	Pickens	num_fast_foods	82
+45079	South Carolina	Richland	num_fast_foods	319
+45081	South Carolina	Saluda	num_fast_foods	3
+45083	South Carolina	Spartanburg	num_fast_foods	200
+45085	South Carolina	Sumter	num_fast_foods	63
+45087	South Carolina	Union	num_fast_foods	13
+45089	South Carolina	Williamsburg	num_fast_foods	10
+45091	South Carolina	York	num_fast_foods	164
+46003	South Dakota	Aurora	num_fast_foods	2
+46005	South Dakota	Beadle	num_fast_foods	13
+46007	South Dakota	Bennett	num_fast_foods	1
+46009	South Dakota	Bon Homme	num_fast_foods	1
+46011	South Dakota	Brookings	num_fast_foods	23
+46013	South Dakota	Brown	num_fast_foods	31
+46015	South Dakota	Brule	num_fast_foods	4
+46017	South Dakota	Buffalo	num_fast_foods	
+46019	South Dakota	Butte	num_fast_foods	6
+46021	South Dakota	Campbell	num_fast_foods	
+46023	South Dakota	Charles Mix	num_fast_foods	6
+46025	South Dakota	Clark	num_fast_foods	
+46027	South Dakota	Clay	num_fast_foods	7
+46029	South Dakota	Codington	num_fast_foods	20
+46031	South Dakota	Corson	num_fast_foods	1
+46033	South Dakota	Custer	num_fast_foods	7
+46035	South Dakota	Davison	num_fast_foods	15
+46037	South Dakota	Day	num_fast_foods	3
+46039	South Dakota	Deuel	num_fast_foods	1
+46041	South Dakota	Dewey	num_fast_foods	1
+46043	South Dakota	Douglas	num_fast_foods	
+46045	South Dakota	Edmunds	num_fast_foods	1
+46047	South Dakota	Fall River	num_fast_foods	9
+46049	South Dakota	Faulk	num_fast_foods	
+46051	South Dakota	Grant	num_fast_foods	6
+46053	South Dakota	Gregory	num_fast_foods	
+46055	South Dakota	Haakon	num_fast_foods	1
+46057	South Dakota	Hamlin	num_fast_foods	2
+46059	South Dakota	Hand	num_fast_foods	3
+46061	South Dakota	Hanson	num_fast_foods	
+46063	South Dakota	Harding	num_fast_foods	
+46065	South Dakota	Hughes	num_fast_foods	12
+46067	South Dakota	Hutchinson	num_fast_foods	2
+46069	South Dakota	Hyde	num_fast_foods	
+46071	South Dakota	Jackson	num_fast_foods	1
+46073	South Dakota	Jerauld	num_fast_foods	
+46075	South Dakota	Jones	num_fast_foods	1
+46077	South Dakota	Kingsbury	num_fast_foods	
+46079	South Dakota	Lake	num_fast_foods	6
+46081	South Dakota	Lawrence	num_fast_foods	21
+46083	South Dakota	Lincoln	num_fast_foods	17
+46085	South Dakota	Lyman	num_fast_foods	1
+46087	South Dakota	McCook	num_fast_foods	1
+46089	South Dakota	McPherson	num_fast_foods	
+46091	South Dakota	Marshall	num_fast_foods	1
+46093	South Dakota	Meade	num_fast_foods	10
+46095	South Dakota	Mellette	num_fast_foods	1
+46097	South Dakota	Miner	num_fast_foods	2
+46099	South Dakota	Minnehaha	num_fast_foods	126
+46101	South Dakota	Moody	num_fast_foods	2
+46103	South Dakota	Pennington	num_fast_foods	85
+46105	South Dakota	Perkins	num_fast_foods	1
+46107	South Dakota	Potter	num_fast_foods	1
+46109	South Dakota	Roberts	num_fast_foods	7
+46111	South Dakota	Sanborn	num_fast_foods	2
+46113	South Dakota	Shannon	num_fast_foods	2
+46115	South Dakota	Spink	num_fast_foods	2
+46117	South Dakota	Stanley	num_fast_foods	1
+46119	South Dakota	Sully	num_fast_foods	
+46121	South Dakota	Todd	num_fast_foods	1
+46123	South Dakota	Tripp	num_fast_foods	4
+46125	South Dakota	Turner	num_fast_foods	2
+46127	South Dakota	Union	num_fast_foods	6
+46129	South Dakota	Walworth	num_fast_foods	6
+46135	South Dakota	Yankton	num_fast_foods	16
+46137	South Dakota	Ziebach	num_fast_foods	
+47001	Tennessee	Anderson	num_fast_foods	61
+47003	Tennessee	Bedford	num_fast_foods	23
+47005	Tennessee	Benton	num_fast_foods	6
+47007	Tennessee	Bledsoe	num_fast_foods	1
+47009	Tennessee	Blount	num_fast_foods	71
+47011	Tennessee	Bradley	num_fast_foods	70
+47013	Tennessee	Campbell	num_fast_foods	27
+47015	Tennessee	Cannon	num_fast_foods	5
+47017	Tennessee	Carroll	num_fast_foods	13
+47019	Tennessee	Carter	num_fast_foods	33
+47021	Tennessee	Cheatham	num_fast_foods	20
+47023	Tennessee	Chester	num_fast_foods	10
+47025	Tennessee	Claiborne	num_fast_foods	14
+47027	Tennessee	Clay	num_fast_foods	3
+47029	Tennessee	Cocke	num_fast_foods	18
+47031	Tennessee	Coffee	num_fast_foods	34
+47033	Tennessee	Crockett	num_fast_foods	4
+47035	Tennessee	Cumberland	num_fast_foods	29
+47037	Tennessee	Davidson	num_fast_foods	593
+47039	Tennessee	Decatur	num_fast_foods	5
+47041	Tennessee	DeKalb	num_fast_foods	6
+47043	Tennessee	Dickson	num_fast_foods	33
+47045	Tennessee	Dyer	num_fast_foods	28
+47047	Tennessee	Fayette	num_fast_foods	15
+47049	Tennessee	Fentress	num_fast_foods	7
+47051	Tennessee	Franklin	num_fast_foods	16
+47053	Tennessee	Gibson	num_fast_foods	30
+47055	Tennessee	Giles	num_fast_foods	18
+47057	Tennessee	Grainger	num_fast_foods	5
+47059	Tennessee	Greene	num_fast_foods	45
+47061	Tennessee	Grundy	num_fast_foods	5
+47063	Tennessee	Hamblen	num_fast_foods	56
+47065	Tennessee	Hamilton	num_fast_foods	302
+47067	Tennessee	Hancock	num_fast_foods	2
+47069	Tennessee	Hardeman	num_fast_foods	9
+47071	Tennessee	Hardin	num_fast_foods	11
+47073	Tennessee	Hawkins	num_fast_foods	34
+47075	Tennessee	Haywood	num_fast_foods	14
+47077	Tennessee	Henderson	num_fast_foods	15
+47079	Tennessee	Henry	num_fast_foods	22
+47081	Tennessee	Hickman	num_fast_foods	6
+47083	Tennessee	Houston	num_fast_foods	6
+47085	Tennessee	Humphreys	num_fast_foods	11
+47087	Tennessee	Jackson	num_fast_foods	2
+47089	Tennessee	Jefferson	num_fast_foods	32
+47091	Tennessee	Johnson	num_fast_foods	9
+47093	Tennessee	Knox	num_fast_foods	358
+47095	Tennessee	Lake	num_fast_foods	2
+47097	Tennessee	Lauderdale	num_fast_foods	9
+47099	Tennessee	Lawrence	num_fast_foods	24
+47101	Tennessee	Lewis	num_fast_foods	8
+47103	Tennessee	Lincoln	num_fast_foods	18
+47105	Tennessee	Loudon	num_fast_foods	33
+47107	Tennessee	McMinn	num_fast_foods	36
+47109	Tennessee	McNairy	num_fast_foods	15
+47111	Tennessee	Macon	num_fast_foods	9
+47113	Tennessee	Madison	num_fast_foods	75
+47115	Tennessee	Marion	num_fast_foods	16
+47117	Tennessee	Marshall	num_fast_foods	19
+47119	Tennessee	Maury	num_fast_foods	59
+47121	Tennessee	Meigs	num_fast_foods	1
+47123	Tennessee	Monroe	num_fast_foods	25
+47125	Tennessee	Montgomery	num_fast_foods	115
+47127	Tennessee	Moore	num_fast_foods	2
+47129	Tennessee	Morgan	num_fast_foods	3
+47131	Tennessee	Obion	num_fast_foods	22
+47133	Tennessee	Overton	num_fast_foods	9
+47135	Tennessee	Perry	num_fast_foods	3
+47137	Tennessee	Pickett	num_fast_foods	4
+47139	Tennessee	Polk	num_fast_foods	7
+47141	Tennessee	Putnam	num_fast_foods	50
+47143	Tennessee	Rhea	num_fast_foods	19
+47145	Tennessee	Roane	num_fast_foods	31
+47147	Tennessee	Robertson	num_fast_foods	35
+47149	Tennessee	Rutherford	num_fast_foods	176
+47151	Tennessee	Scott	num_fast_foods	16
+47153	Tennessee	Sequatchie	num_fast_foods	7
+47155	Tennessee	Sevier	num_fast_foods	83
+47157	Tennessee	Shelby	num_fast_foods	668
+47159	Tennessee	Smith	num_fast_foods	8
+47161	Tennessee	Stewart	num_fast_foods	5
+47163	Tennessee	Sullivan	num_fast_foods	140
+47165	Tennessee	Sumner	num_fast_foods	90
+47167	Tennessee	Tipton	num_fast_foods	22
+47169	Tennessee	Trousdale	num_fast_foods	3
+47171	Tennessee	Unicoi	num_fast_foods	11
+47173	Tennessee	Union	num_fast_foods	4
+47175	Tennessee	Van Buren	num_fast_foods	
+47177	Tennessee	Warren	num_fast_foods	22
+47179	Tennessee	Washington	num_fast_foods	110
+47181	Tennessee	Wayne	num_fast_foods	3
+47183	Tennessee	Weakley	num_fast_foods	20
+47185	Tennessee	White	num_fast_foods	14
+47187	Tennessee	Williamson	num_fast_foods	151
+47189	Tennessee	Wilson	num_fast_foods	73
+48001	Texas	Anderson	num_fast_foods	21
+48003	Texas	Andrews	num_fast_foods	7
+48005	Texas	Angelina	num_fast_foods	63
+48007	Texas	Aransas	num_fast_foods	12
+48009	Texas	Archer	num_fast_foods	2
+48011	Texas	Armstrong	num_fast_foods	2
+48013	Texas	Atascosa	num_fast_foods	23
+48015	Texas	Austin	num_fast_foods	14
+48017	Texas	Bailey	num_fast_foods	3
+48019	Texas	Bandera	num_fast_foods	8
+48021	Texas	Bastrop	num_fast_foods	38
+48023	Texas	Baylor	num_fast_foods	4
+48025	Texas	Bee	num_fast_foods	16
+48027	Texas	Bell	num_fast_foods	205
+48029	Texas	Bexar	num_fast_foods	1237
+48031	Texas	Blanco	num_fast_foods	7
+48033	Texas	Borden	num_fast_foods	
+48035	Texas	Bosque	num_fast_foods	6
+48037	Texas	Bowie	num_fast_foods	86
+48039	Texas	Brazoria	num_fast_foods	177
+48041	Texas	Brazos	num_fast_foods	158
+48043	Texas	Brewster	num_fast_foods	8
+48045	Texas	Briscoe	num_fast_foods	
+48047	Texas	Brooks	num_fast_foods	8
+48049	Texas	Brown	num_fast_foods	31
+48051	Texas	Burleson	num_fast_foods	9
+48053	Texas	Burnet	num_fast_foods	30
+48055	Texas	Caldwell	num_fast_foods	21
+48057	Texas	Calhoun	num_fast_foods	11
+48059	Texas	Callahan	num_fast_foods	10
+48061	Texas	Cameron	num_fast_foods	210
+48063	Texas	Camp	num_fast_foods	7
+48065	Texas	Carson	num_fast_foods	3
+48067	Texas	Cass	num_fast_foods	13
+48069	Texas	Castro	num_fast_foods	5
+48071	Texas	Chambers	num_fast_foods	19
+48073	Texas	Cherokee	num_fast_foods	30
+48075	Texas	Childress	num_fast_foods	5
+48077	Texas	Clay	num_fast_foods	2
+48079	Texas	Cochran	num_fast_foods	1
+48081	Texas	Coke	num_fast_foods	1
+48083	Texas	Coleman	num_fast_foods	5
+48085	Texas	Collin	num_fast_foods	577
+48087	Texas	Collingsworth	num_fast_foods	4
+48089	Texas	Colorado	num_fast_foods	15
+48091	Texas	Comal	num_fast_foods	77
+48093	Texas	Comanche	num_fast_foods	6
+48095	Texas	Concho	num_fast_foods	2
+48097	Texas	Cooke	num_fast_foods	18
+48099	Texas	Coryell	num_fast_foods	37
+48101	Texas	Cottle	num_fast_foods	1
+48103	Texas	Crane	num_fast_foods	1
+48105	Texas	Crockett	num_fast_foods	6
+48107	Texas	Crosby	num_fast_foods	1
+48109	Texas	Culberson	num_fast_foods	3
+48111	Texas	Dallam	num_fast_foods	4
+48113	Texas	Dallas	num_fast_foods	1869
+48115	Texas	Dawson	num_fast_foods	13
+48117	Texas	Deaf Smith	num_fast_foods	11
+48119	Texas	Delta	num_fast_foods	1
+48121	Texas	Denton	num_fast_foods	390
+48123	Texas	DeWitt	num_fast_foods	17
+48125	Texas	Dickens	num_fast_foods	2
+48127	Texas	Dimmit	num_fast_foods	7
+48129	Texas	Donley	num_fast_foods	7
+48131	Texas	Duval	num_fast_foods	5
+48133	Texas	Eastland	num_fast_foods	13
+48135	Texas	Ector	num_fast_foods	108
+48137	Texas	Edwards	num_fast_foods	2
+48139	Texas	Ellis	num_fast_foods	77
+48141	Texas	El Paso	num_fast_foods	507
+48143	Texas	Erath	num_fast_foods	30
+48145	Texas	Falls	num_fast_foods	7
+48147	Texas	Fannin	num_fast_foods	16
+48149	Texas	Fayette	num_fast_foods	18
+48151	Texas	Fisher	num_fast_foods	1
+48153	Texas	Floyd	num_fast_foods	4
+48155	Texas	Foard	num_fast_foods	1
+48157	Texas	Fort Bend	num_fast_foods	337
+48159	Texas	Franklin	num_fast_foods	7
+48161	Texas	Freestone	num_fast_foods	13
+48163	Texas	Frio	num_fast_foods	13
+48165	Texas	Gaines	num_fast_foods	8
+48167	Texas	Galveston	num_fast_foods	193
+48169	Texas	Garza	num_fast_foods	6
+48171	Texas	Gillespie	num_fast_foods	12
+48173	Texas	Glasscock	num_fast_foods	
+48175	Texas	Goliad	num_fast_foods	4
+48177	Texas	Gonzales	num_fast_foods	17
+48179	Texas	Gray	num_fast_foods	15
+48181	Texas	Grayson	num_fast_foods	86
+48183	Texas	Gregg	num_fast_foods	132
+48185	Texas	Grimes	num_fast_foods	8
+48187	Texas	Guadalupe	num_fast_foods	67
+48189	Texas	Hale	num_fast_foods	20
+48191	Texas	Hall	num_fast_foods	4
+48193	Texas	Hamilton	num_fast_foods	7
+48195	Texas	Hansford	num_fast_foods	2
+48197	Texas	Hardeman	num_fast_foods	4
+48199	Texas	Hardin	num_fast_foods	37
+48201	Texas	Harris	num_fast_foods	2734
+48203	Texas	Harrison	num_fast_foods	39
+48205	Texas	Hartley	num_fast_foods	
+48207	Texas	Haskell	num_fast_foods	2
+48209	Texas	Hays	num_fast_foods	100
+48211	Texas	Hemphill	num_fast_foods	2
+48213	Texas	Henderson	num_fast_foods	46
+48215	Texas	Hidalgo	num_fast_foods	351
+48217	Texas	Hill	num_fast_foods	21
+48219	Texas	Hockley	num_fast_foods	15
+48221	Texas	Hood	num_fast_foods	32
+48223	Texas	Hopkins	num_fast_foods	19
+48225	Texas	Houston	num_fast_foods	13
+48227	Texas	Howard	num_fast_foods	27
+48229	Texas	Hudspeth	num_fast_foods	
+48231	Texas	Hunt	num_fast_foods	38
+48233	Texas	Hutchinson	num_fast_foods	17
+48235	Texas	Irion	num_fast_foods	
+48237	Texas	Jack	num_fast_foods	7
+48239	Texas	Jackson	num_fast_foods	8
+48241	Texas	Jasper	num_fast_foods	21
+48243	Texas	Jeff Davis	num_fast_foods	
+48245	Texas	Jefferson	num_fast_foods	155
+48247	Texas	Jim Hogg	num_fast_foods	3
+48249	Texas	Jim Wells	num_fast_foods	28
+48251	Texas	Johnson	num_fast_foods	101
+48253	Texas	Jones	num_fast_foods	10
+48255	Texas	Karnes	num_fast_foods	8
+48257	Texas	Kaufman	num_fast_foods	61
+48259	Texas	Kendall	num_fast_foods	27
+48261	Texas	Kenedy	num_fast_foods	
+48263	Texas	Kent	num_fast_foods	
+48265	Texas	Kerr	num_fast_foods	34
+48267	Texas	Kimble	num_fast_foods	2
+48269	Texas	King	num_fast_foods	
+48271	Texas	Kinney	num_fast_foods	1
+48273	Texas	Kleberg	num_fast_foods	26
+48275	Texas	Knox	num_fast_foods	1
+48277	Texas	Lamar	num_fast_foods	31
+48279	Texas	Lamb	num_fast_foods	7
+48281	Texas	Lampasas	num_fast_foods	14
+48283	Texas	La Salle	num_fast_foods	3
+48285	Texas	Lavaca	num_fast_foods	3
+48287	Texas	Lee	num_fast_foods	9
+48289	Texas	Leon	num_fast_foods	10
+48291	Texas	Liberty	num_fast_foods	43
+48293	Texas	Limestone	num_fast_foods	16
+48295	Texas	Lipscomb	num_fast_foods	1
+48297	Texas	Live Oak	num_fast_foods	7
+48299	Texas	Llano	num_fast_foods	16
+48301	Texas	Loving	num_fast_foods	
+48303	Texas	Lubbock	num_fast_foods	256
+48305	Texas	Lynn	num_fast_foods	4
+48307	Texas	McCulloch	num_fast_foods	5
+48309	Texas	McLennan	num_fast_foods	187
+48311	Texas	McMullen	num_fast_foods	
+48313	Texas	Madison	num_fast_foods	11
+48315	Texas	Marion	num_fast_foods	7
+48317	Texas	Martin	num_fast_foods	2
+48319	Texas	Mason	num_fast_foods	5
+48321	Texas	Matagorda	num_fast_foods	24
+48323	Texas	Maverick	num_fast_foods	28
+48325	Texas	Medina	num_fast_foods	24
+48327	Texas	Menard	num_fast_foods	
+48329	Texas	Midland	num_fast_foods	107
+48331	Texas	Milam	num_fast_foods	15
+48333	Texas	Mills	num_fast_foods	2
+48335	Texas	Mitchell	num_fast_foods	4
+48337	Texas	Montague	num_fast_foods	9
+48339	Texas	Montgomery	num_fast_foods	274
+48341	Texas	Moore	num_fast_foods	14
+48343	Texas	Morris	num_fast_foods	11
+48345	Texas	Motley	num_fast_foods	
+48347	Texas	Nacogdoches	num_fast_foods	38
+48349	Texas	Navarro	num_fast_foods	29
+48351	Texas	Newton	num_fast_foods	
+48353	Texas	Nolan	num_fast_foods	9
+48355	Texas	Nueces	num_fast_foods	273
+48357	Texas	Ochiltree	num_fast_foods	4
+48359	Texas	Oldham	num_fast_foods	1
+48361	Texas	Orange	num_fast_foods	57
+48363	Texas	Palo Pinto	num_fast_foods	24
+48365	Texas	Panola	num_fast_foods	7
+48367	Texas	Parker	num_fast_foods	75
+48369	Texas	Parmer	num_fast_foods	3
+48371	Texas	Pecos	num_fast_foods	8
+48373	Texas	Polk	num_fast_foods	22
+48375	Texas	Potter	num_fast_foods	114
+48377	Texas	Presidio	num_fast_foods	6
+48379	Texas	Rains	num_fast_foods	7
+48381	Texas	Randall	num_fast_foods	75
+48383	Texas	Reagan	num_fast_foods	1
+48385	Texas	Real	num_fast_foods	2
+48387	Texas	Red River	num_fast_foods	3
+48389	Texas	Reeves	num_fast_foods	6
+48391	Texas	Refugio	num_fast_foods	10
+48393	Texas	Roberts	num_fast_foods	
+48395	Texas	Robertson	num_fast_foods	8
+48397	Texas	Rockwall	num_fast_foods	60
+48399	Texas	Runnels	num_fast_foods	5
+48401	Texas	Rusk	num_fast_foods	24
+48403	Texas	Sabine	num_fast_foods	3
+48405	Texas	San Augustine	num_fast_foods	1
+48407	Texas	San Jacinto	num_fast_foods	5
+48409	Texas	San Patricio	num_fast_foods	54
+48411	Texas	San Saba	num_fast_foods	5
+48413	Texas	Schleicher	num_fast_foods	
+48415	Texas	Scurry	num_fast_foods	22
+48417	Texas	Shackelford	num_fast_foods	3
+48419	Texas	Shelby	num_fast_foods	5
+48421	Texas	Sherman	num_fast_foods	1
+48423	Texas	Smith	num_fast_foods	154
+48425	Texas	Somervell	num_fast_foods	6
+48427	Texas	Starr	num_fast_foods	30
+48429	Texas	Stephens	num_fast_foods	7
+48431	Texas	Sterling	num_fast_foods	1
+48433	Texas	Stonewall	num_fast_foods	1
+48435	Texas	Sutton	num_fast_foods	4
+48437	Texas	Swisher	num_fast_foods	4
+48439	Texas	Tarrant	num_fast_foods	1278
+48441	Texas	Taylor	num_fast_foods	107
+48443	Texas	Terrell	num_fast_foods	1
+48445	Texas	Terry	num_fast_foods	9
+48447	Texas	Throckmorton	num_fast_foods	
+48449	Texas	Titus	num_fast_foods	20
+48451	Texas	Tom Green	num_fast_foods	75
+48453	Texas	Travis	num_fast_foods	822
+48455	Texas	Trinity	num_fast_foods	5
+48457	Texas	Tyler	num_fast_foods	8
+48459	Texas	Upshur	num_fast_foods	17
+48461	Texas	Upton	num_fast_foods	4
+48463	Texas	Uvalde	num_fast_foods	20
+48465	Texas	Val Verde	num_fast_foods	28
+48467	Texas	Van Zandt	num_fast_foods	20
+48469	Texas	Victoria	num_fast_foods	62
+48471	Texas	Walker	num_fast_foods	32
+48473	Texas	Waller	num_fast_foods	14
+48475	Texas	Ward	num_fast_foods	10
+48477	Texas	Washington	num_fast_foods	29
+48479	Texas	Webb	num_fast_foods	151
+48481	Texas	Wharton	num_fast_foods	28
+48483	Texas	Wheeler	num_fast_foods	5
+48485	Texas	Wichita	num_fast_foods	90
+48487	Texas	Wilbarger	num_fast_foods	12
+48489	Texas	Willacy	num_fast_foods	7
+48491	Texas	Williamson	num_fast_foods	294
+48493	Texas	Wilson	num_fast_foods	17
+48495	Texas	Winkler	num_fast_foods	3
+48497	Texas	Wise	num_fast_foods	33
+48499	Texas	Wood	num_fast_foods	18
+48501	Texas	Yoakum	num_fast_foods	6
+48503	Texas	Young	num_fast_foods	16
+48505	Texas	Zapata	num_fast_foods	6
+48507	Texas	Zavala	num_fast_foods	6
+49001	Utah	Beaver	num_fast_foods	10
+49003	Utah	Box Elder	num_fast_foods	27
+49005	Utah	Cache	num_fast_foods	72
+49007	Utah	Carbon	num_fast_foods	13
+49009	Utah	Daggett	num_fast_foods	
+49011	Utah	Davis	num_fast_foods	191
+49013	Utah	Duchesne	num_fast_foods	12
+49015	Utah	Emery	num_fast_foods	7
+49017	Utah	Garfield	num_fast_foods	9
+49019	Utah	Grand	num_fast_foods	9
+49021	Utah	Iron	num_fast_foods	36
+49023	Utah	Juab	num_fast_foods	9
+49025	Utah	Kane	num_fast_foods	5
+49027	Utah	Millard	num_fast_foods	14
+49029	Utah	Morgan	num_fast_foods	3
+49031	Utah	Piute	num_fast_foods	
+49033	Utah	Rich	num_fast_foods	5
+49035	Utah	Salt Lake	num_fast_foods	828
+49037	Utah	San Juan	num_fast_foods	3
+49039	Utah	Sanpete	num_fast_foods	16
+49041	Utah	Sevier	num_fast_foods	14
+49043	Utah	Summit	num_fast_foods	36
+49045	Utah	Tooele	num_fast_foods	27
+49047	Utah	Uintah	num_fast_foods	19
+49049	Utah	Utah	num_fast_foods	330
+49051	Utah	Wasatch	num_fast_foods	13
+49053	Utah	Washington	num_fast_foods	106
+49055	Utah	Wayne	num_fast_foods	5
+49057	Utah	Weber	num_fast_foods	156
+50001	Vermont	Addison	num_fast_foods	19
+50003	Vermont	Bennington	num_fast_foods	21
+50005	Vermont	Caledonia	num_fast_foods	10
+50007	Vermont	Chittenden	num_fast_foods	104
+50009	Vermont	Essex	num_fast_foods	1
+50011	Vermont	Franklin	num_fast_foods	21
+50013	Vermont	Grand Isle	num_fast_foods	3
+50015	Vermont	Lamoille	num_fast_foods	14
+50017	Vermont	Orange	num_fast_foods	8
+50019	Vermont	Orleans	num_fast_foods	11
+50021	Vermont	Rutland	num_fast_foods	38
+50023	Vermont	Washington	num_fast_foods	26
+50025	Vermont	Windham	num_fast_foods	39
+50027	Vermont	Windsor	num_fast_foods	26
+51001	Virginia	Accomack	num_fast_foods	20
+51003	Virginia	Albemarle	num_fast_foods	58
+51005	Virginia	Alleghany	num_fast_foods	9
+51007	Virginia	Amelia	num_fast_foods	6
+51009	Virginia	Amherst	num_fast_foods	17
+51011	Virginia	Appomattox	num_fast_foods	4
+51013	Virginia	Arlington	num_fast_foods	221
+51015	Virginia	Augusta	num_fast_foods	27
+51017	Virginia	Bath	num_fast_foods	1
+51019	Virginia	Bedford	num_fast_foods	20
+51021	Virginia	Bland	num_fast_foods	2
+51023	Virginia	Botetourt	num_fast_foods	18
+51025	Virginia	Brunswick	num_fast_foods	5
+51027	Virginia	Buchanan	num_fast_foods	9
+51029	Virginia	Buckingham	num_fast_foods	1
+51031	Virginia	Campbell	num_fast_foods	27
+51033	Virginia	Caroline	num_fast_foods	8
+51035	Virginia	Carroll	num_fast_foods	9
+51036	Virginia	Charles City	num_fast_foods	
+51037	Virginia	Charlotte	num_fast_foods	1
+51041	Virginia	Chesterfield	num_fast_foods	206
+51043	Virginia	Clarke	num_fast_foods	11
+51045	Virginia	Craig	num_fast_foods	1
+51047	Virginia	Culpeper	num_fast_foods	27
+51049	Virginia	Cumberland	num_fast_foods	
+51051	Virginia	Dickenson	num_fast_foods	7
+51053	Virginia	Dinwiddie	num_fast_foods	7
+51057	Virginia	Essex	num_fast_foods	10
+51059	Virginia	Fairfax	num_fast_foods	848
+51061	Virginia	Fauquier	num_fast_foods	41
+51063	Virginia	Floyd	num_fast_foods	6
+51065	Virginia	Fluvanna	num_fast_foods	3
+51067	Virginia	Franklin	num_fast_foods	31
+51069	Virginia	Frederick	num_fast_foods	43
+51071	Virginia	Giles	num_fast_foods	13
+51073	Virginia	Gloucester	num_fast_foods	25
+51075	Virginia	Goochland	num_fast_foods	7
+51077	Virginia	Grayson	num_fast_foods	3
+51079	Virginia	Greene	num_fast_foods	6
+51081	Virginia	Greensville	num_fast_foods	2
+51083	Virginia	Halifax	num_fast_foods	26
+51085	Virginia	Hanover	num_fast_foods	71
+51087	Virginia	Henrico	num_fast_foods	250
+51089	Virginia	Henry	num_fast_foods	32
+51091	Virginia	Highland	num_fast_foods	
+51093	Virginia	Isle of Wight	num_fast_foods	23
+51095	Virginia	James City	num_fast_foods	41
+51097	Virginia	King and Queen	num_fast_foods	
+51099	Virginia	King George	num_fast_foods	15
+51101	Virginia	King William	num_fast_foods	9
+51103	Virginia	Lancaster	num_fast_foods	9
+51105	Virginia	Lee	num_fast_foods	6
+51107	Virginia	Loudoun	num_fast_foods	224
+51109	Virginia	Louisa	num_fast_foods	9
+51111	Virginia	Lunenburg	num_fast_foods	2
+51113	Virginia	Madison	num_fast_foods	5
+51115	Virginia	Mathews	num_fast_foods	4
+51117	Virginia	Mecklenburg	num_fast_foods	24
+51119	Virginia	Middlesex	num_fast_foods	6
+51121	Virginia	Montgomery	num_fast_foods	67
+51125	Virginia	Nelson	num_fast_foods	7
+51127	Virginia	New Kent	num_fast_foods	10
+51131	Virginia	Northampton	num_fast_foods	13
+51133	Virginia	Northumberland	num_fast_foods	3
+51135	Virginia	Nottoway	num_fast_foods	10
+51137	Virginia	Orange	num_fast_foods	18
+51139	Virginia	Page	num_fast_foods	14
+51141	Virginia	Patrick	num_fast_foods	9
+51143	Virginia	Pittsylvania	num_fast_foods	15
+51145	Virginia	Powhatan	num_fast_foods	8
+51147	Virginia	Prince Edward	num_fast_foods	15
+51149	Virginia	Prince George	num_fast_foods	8
+51153	Virginia	Prince William	num_fast_foods	264
+51155	Virginia	Pulaski	num_fast_foods	34
+51157	Virginia	Rappahannock	num_fast_foods	2
+51159	Virginia	Richmond	num_fast_foods	3
+51161	Virginia	Roanoke	num_fast_foods	47
+51163	Virginia	Rockbridge	num_fast_foods	12
+51165	Virginia	Rockingham	num_fast_foods	27
+51167	Virginia	Russell	num_fast_foods	19
+51169	Virginia	Scott	num_fast_foods	11
+51171	Virginia	Shenandoah	num_fast_foods	23
+51173	Virginia	Smyth	num_fast_foods	23
+51175	Virginia	Southampton	num_fast_foods	2
+51177	Virginia	Spotsylvania	num_fast_foods	87
+51179	Virginia	Stafford	num_fast_foods	71
+51181	Virginia	Surry	num_fast_foods	1
+51183	Virginia	Sussex	num_fast_foods	5
+51185	Virginia	Tazewell	num_fast_foods	34
+51187	Virginia	Warren	num_fast_foods	25
+51191	Virginia	Washington	num_fast_foods	35
+51193	Virginia	Westmoreland	num_fast_foods	5
+51195	Virginia	Wise	num_fast_foods	32
+51197	Virginia	Wythe	num_fast_foods	25
+51199	Virginia	York	num_fast_foods	61
+51510	Virginia	Alexandria City	num_fast_foods	121
+51515	Virginia	Bedford City	num_fast_foods	14
+51520	Virginia	Bristol City	num_fast_foods	32
+51530	Virginia	Buena Vista City	num_fast_foods	5
+51540	Virginia	Charlottesville City	num_fast_foods	62
+51550	Virginia	Chesapeake City	num_fast_foods	197
+51570	Virginia	Colonial Heights City	num_fast_foods	36
+51580	Virginia	Covington City	num_fast_foods	10
+51590	Virginia	Danville City	num_fast_foods	59
+51595	Virginia	Emporia City	num_fast_foods	9
+51600	Virginia	Fairfax City	num_fast_foods	63
+51610	Virginia	Falls Church City	num_fast_foods	36
+51620	Virginia	Franklin City	num_fast_foods	13
+51630	Virginia	Fredericksburg City	num_fast_foods	37
+51640	Virginia	Galax City	num_fast_foods	12
+51650	Virginia	Hampton City	num_fast_foods	112
+51660	Virginia	Harrisonburg City	num_fast_foods	49
+51670	Virginia	Hopewell City	num_fast_foods	24
+51678	Virginia	Lexington City	num_fast_foods	11
+51680	Virginia	Lynchburg City	num_fast_foods	80
+51683	Virginia	Manassas City	num_fast_foods	45
+51685	Virginia	Manassas Park City	num_fast_foods	5
+51690	Virginia	Martinsville City	num_fast_foods	23
+51700	Virginia	Newport News City	num_fast_foods	146
+51710	Virginia	Norfolk City	num_fast_foods	220
+51720	Virginia	Norton City	num_fast_foods	13
+51730	Virginia	Petersburg City	num_fast_foods	30
+51735	Virginia	Poquoson City	num_fast_foods	9
+51740	Virginia	Portsmouth City	num_fast_foods	76
+51750	Virginia	Radford City	num_fast_foods	11
+51760	Virginia	Richmond City	num_fast_foods	188
+51770	Virginia	Roanoke City	num_fast_foods	96
+51775	Virginia	Salem City	num_fast_foods	31
+51790	Virginia	Staunton City	num_fast_foods	20
+51800	Virginia	Suffolk City	num_fast_foods	53
+51810	Virginia	Virginia Beach City	num_fast_foods	430
+51820	Virginia	Waynesboro City	num_fast_foods	25
+51830	Virginia	Williamsburg City	num_fast_foods	14
+51840	Virginia	Winchester City	num_fast_foods	49
+53001	Washington	Adams	num_fast_foods	9
+53003	Washington	Asotin	num_fast_foods	10
+53005	Washington	Benton	num_fast_foods	109
+53007	Washington	Chelan	num_fast_foods	57
+53009	Washington	Clallam	num_fast_foods	44
+53011	Washington	Clark	num_fast_foods	246
+53013	Washington	Columbia	num_fast_foods	1
+53015	Washington	Cowlitz	num_fast_foods	53
+53017	Washington	Douglas	num_fast_foods	14
+53019	Washington	Ferry	num_fast_foods	1
+53021	Washington	Franklin	num_fast_foods	41
+53023	Washington	Garfield	num_fast_foods	
+53025	Washington	Grant	num_fast_foods	50
+53027	Washington	Grays Harbor	num_fast_foods	45
+53029	Washington	Island	num_fast_foods	36
+53031	Washington	Jefferson	num_fast_foods	21
+53033	Washington	King	num_fast_foods	1677
+53035	Washington	Kitsap	num_fast_foods	158
+53037	Washington	Kittitas	num_fast_foods	45
+53039	Washington	Klickitat	num_fast_foods	6
+53041	Washington	Lewis	num_fast_foods	49
+53043	Washington	Lincoln	num_fast_foods	7
+53045	Washington	Mason	num_fast_foods	29
+53047	Washington	Okanogan	num_fast_foods	20
+53049	Washington	Pacific	num_fast_foods	16
+53051	Washington	Pend Oreille	num_fast_foods	4
+53053	Washington	Pierce	num_fast_foods	513
+53055	Washington	San Juan	num_fast_foods	18
+53057	Washington	Skagit	num_fast_foods	79
+53059	Washington	Skamania	num_fast_foods	3
+53061	Washington	Snohomish	num_fast_foods	533
+53063	Washington	Spokane	num_fast_foods	321
+53065	Washington	Stevens	num_fast_foods	26
+53067	Washington	Thurston	num_fast_foods	167
+53069	Washington	Wahkiakum	num_fast_foods	2
+53071	Washington	Walla Walla	num_fast_foods	33
+53073	Washington	Whatcom	num_fast_foods	124
+53075	Washington	Whitman	num_fast_foods	30
+53077	Washington	Yakima	num_fast_foods	147
+54001	West Virginia	Barbour	num_fast_foods	6
+54003	West Virginia	Berkeley	num_fast_foods	61
+54005	West Virginia	Boone	num_fast_foods	8
+54007	West Virginia	Braxton	num_fast_foods	9
+54009	West Virginia	Brooke	num_fast_foods	18
+54011	West Virginia	Cabell	num_fast_foods	107
+54013	West Virginia	Calhoun	num_fast_foods	1
+54015	West Virginia	Clay	num_fast_foods	2
+54017	West Virginia	Doddridge	num_fast_foods	
+54019	West Virginia	Fayette	num_fast_foods	26
+54021	West Virginia	Gilmer	num_fast_foods	2
+54023	West Virginia	Grant	num_fast_foods	4
+54025	West Virginia	Greenbrier	num_fast_foods	30
+54027	West Virginia	Hampshire	num_fast_foods	7
+54029	West Virginia	Hancock	num_fast_foods	26
+54031	West Virginia	Hardy	num_fast_foods	6
+54033	West Virginia	Harrison	num_fast_foods	51
+54035	West Virginia	Jackson	num_fast_foods	22
+54037	West Virginia	Jefferson	num_fast_foods	26
+54039	West Virginia	Kanawha	num_fast_foods	187
+54041	West Virginia	Lewis	num_fast_foods	16
+54043	West Virginia	Lincoln	num_fast_foods	6
+54045	West Virginia	Logan	num_fast_foods	26
+54047	West Virginia	McDowell	num_fast_foods	7
+54049	West Virginia	Marion	num_fast_foods	46
+54051	West Virginia	Marshall	num_fast_foods	22
+54053	West Virginia	Mason	num_fast_foods	10
+54055	West Virginia	Mercer	num_fast_foods	37
+54057	West Virginia	Mineral	num_fast_foods	11
+54059	West Virginia	Mingo	num_fast_foods	12
+54061	West Virginia	Monongalia	num_fast_foods	88
+54063	West Virginia	Monroe	num_fast_foods	
+54065	West Virginia	Morgan	num_fast_foods	5
+54067	West Virginia	Nicholas	num_fast_foods	18
+54069	West Virginia	Ohio	num_fast_foods	44
+54071	West Virginia	Pendleton	num_fast_foods	2
+54073	West Virginia	Pleasants	num_fast_foods	5
+54075	West Virginia	Pocahontas	num_fast_foods	2
+54077	West Virginia	Preston	num_fast_foods	11
+54079	West Virginia	Putnam	num_fast_foods	55
+54081	West Virginia	Raleigh	num_fast_foods	50
+54083	West Virginia	Randolph	num_fast_foods	15
+54085	West Virginia	Ritchie	num_fast_foods	5
+54087	West Virginia	Roane	num_fast_foods	6
+54089	West Virginia	Summers	num_fast_foods	7
+54091	West Virginia	Taylor	num_fast_foods	10
+54093	West Virginia	Tucker	num_fast_foods	5
+54095	West Virginia	Tyler	num_fast_foods	4
+54097	West Virginia	Upshur	num_fast_foods	14
+54099	West Virginia	Wayne	num_fast_foods	18
+54101	West Virginia	Webster	num_fast_foods	3
+54103	West Virginia	Wetzel	num_fast_foods	19
+54105	West Virginia	Wirt	num_fast_foods	2
+54107	West Virginia	Wood	num_fast_foods	77
+54109	West Virginia	Wyoming	num_fast_foods	8
+55001	Wisconsin	Adams	num_fast_foods	8
+55003	Wisconsin	Ashland	num_fast_foods	12
+55005	Wisconsin	Barron	num_fast_foods	29
+55007	Wisconsin	Bayfield	num_fast_foods	5
+55009	Wisconsin	Brown	num_fast_foods	173
+55011	Wisconsin	Buffalo	num_fast_foods	2
+55013	Wisconsin	Burnett	num_fast_foods	3
+55015	Wisconsin	Calumet	num_fast_foods	21
+55017	Wisconsin	Chippewa	num_fast_foods	28
+55019	Wisconsin	Clark	num_fast_foods	9
+55021	Wisconsin	Columbia	num_fast_foods	32
+55023	Wisconsin	Crawford	num_fast_foods	6
+55025	Wisconsin	Dane	num_fast_foods	393
+55027	Wisconsin	Dodge	num_fast_foods	34
+55029	Wisconsin	Door	num_fast_foods	17
+55031	Wisconsin	Douglas	num_fast_foods	25
+55033	Wisconsin	Dunn	num_fast_foods	22
+55035	Wisconsin	Eau Claire	num_fast_foods	86
+55037	Wisconsin	Florence	num_fast_foods	1
+55039	Wisconsin	Fond du Lac	num_fast_foods	69
+55041	Wisconsin	Forest	num_fast_foods	3
+55043	Wisconsin	Grant	num_fast_foods	22
+55045	Wisconsin	Green	num_fast_foods	13
+55047	Wisconsin	Green Lake	num_fast_foods	4
+55049	Wisconsin	Iowa	num_fast_foods	10
+55051	Wisconsin	Iron	num_fast_foods	3
+55053	Wisconsin	Jackson	num_fast_foods	12
+55055	Wisconsin	Jefferson	num_fast_foods	45
+55057	Wisconsin	Juneau	num_fast_foods	9
+55059	Wisconsin	Kenosha	num_fast_foods	101
+55061	Wisconsin	Kewaunee	num_fast_foods	5
+55063	Wisconsin	La Crosse	num_fast_foods	88
+55065	Wisconsin	Lafayette	num_fast_foods	5
+55067	Wisconsin	Langlade	num_fast_foods	9
+55069	Wisconsin	Lincoln	num_fast_foods	14
+55071	Wisconsin	Manitowoc	num_fast_foods	39
+55073	Wisconsin	Marathon	num_fast_foods	75
+55075	Wisconsin	Marinette	num_fast_foods	23
+55077	Wisconsin	Marquette	num_fast_foods	4
+55078	Wisconsin	Menominee	num_fast_foods	
+55079	Wisconsin	Milwaukee	num_fast_foods	575
+55081	Wisconsin	Monroe	num_fast_foods	21
+55083	Wisconsin	Oconto	num_fast_foods	13
+55085	Wisconsin	Oneida	num_fast_foods	23
+55087	Wisconsin	Outagamie	num_fast_foods	111
+55089	Wisconsin	Ozaukee	num_fast_foods	51
+55091	Wisconsin	Pepin	num_fast_foods	4
+55093	Wisconsin	Pierce	num_fast_foods	18
+55095	Wisconsin	Polk	num_fast_foods	21
+55097	Wisconsin	Portage	num_fast_foods	40
+55099	Wisconsin	Price	num_fast_foods	8
+55101	Wisconsin	Racine	num_fast_foods	100
+55103	Wisconsin	Richland	num_fast_foods	7
+55105	Wisconsin	Rock	num_fast_foods	91
+55107	Wisconsin	Rusk	num_fast_foods	8
+55109	Wisconsin	St. Croix	num_fast_foods	50
+55111	Wisconsin	Sauk	num_fast_foods	45
+55113	Wisconsin	Sawyer	num_fast_foods	9
+55115	Wisconsin	Shawano	num_fast_foods	15
+55117	Wisconsin	Sheboygan	num_fast_foods	68
+55119	Wisconsin	Taylor	num_fast_foods	6
+55121	Wisconsin	Trempealeau	num_fast_foods	16
+55123	Wisconsin	Vernon	num_fast_foods	7
+55125	Wisconsin	Vilas	num_fast_foods	12
+55127	Wisconsin	Walworth	num_fast_foods	69
+55129	Wisconsin	Washburn	num_fast_foods	7
+55131	Wisconsin	Washington	num_fast_foods	70
+55133	Wisconsin	Waukesha	num_fast_foods	248
+55135	Wisconsin	Waupaca	num_fast_foods	29
+55137	Wisconsin	Waushara	num_fast_foods	10
+55139	Wisconsin	Winnebago	num_fast_foods	102
+55141	Wisconsin	Wood	num_fast_foods	36
+56001	Wyoming	Albany	num_fast_foods	29
+56003	Wyoming	Big Horn	num_fast_foods	5
+56005	Wyoming	Campbell	num_fast_foods	27
+56007	Wyoming	Carbon	num_fast_foods	7
+56009	Wyoming	Converse	num_fast_foods	7
+56011	Wyoming	Crook	num_fast_foods	2
+56013	Wyoming	Fremont	num_fast_foods	20
+56015	Wyoming	Goshen	num_fast_foods	8
+56017	Wyoming	Hot Springs	num_fast_foods	3
+56019	Wyoming	Johnson	num_fast_foods	8
+56021	Wyoming	Laramie	num_fast_foods	70
+56023	Wyoming	Lincoln	num_fast_foods	10
+56025	Wyoming	Natrona	num_fast_foods	57
+56027	Wyoming	Niobrara	num_fast_foods	3
+56029	Wyoming	Park	num_fast_foods	21
+56031	Wyoming	Platte	num_fast_foods	7
+56033	Wyoming	Sheridan	num_fast_foods	13
+56035	Wyoming	Sublette	num_fast_foods	1
+56037	Wyoming	Sweetwater	num_fast_foods	26
+56039	Wyoming	Teton	num_fast_foods	28
+56041	Wyoming	Uinta	num_fast_foods	16
+56043	Wyoming	Washakie	num_fast_foods	8
+56045	Wyoming	Weston	num_fast_foods	3

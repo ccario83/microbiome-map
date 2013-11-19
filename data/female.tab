@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	female
+1001	Alabama	Autauga	female	51.2
+1003	Alabama	Baldwin	female	51.2
+1005	Alabama	Barbour	female	46.5
+1007	Alabama	Bibb	female	46.1
+1009	Alabama	Blount	female	50.6
+1011	Alabama	Bullock	female	45.7
+1013	Alabama	Butler	female	53.1
+1015	Alabama	Calhoun	female	51.9
+1017	Alabama	Chambers	female	52.2
+1019	Alabama	Cherokee	female	50.4
+1021	Alabama	Chilton	female	50.7
+1023	Alabama	Choctaw	female	52.3
+1025	Alabama	Clarke	female	52.9
+1027	Alabama	Clay	female	51.1
+1029	Alabama	Cleburne	female	50.4
+1031	Alabama	Coffee	female	50.7
+1033	Alabama	Colbert	female	51.9
+1035	Alabama	Conecuh	female	51.5
+1037	Alabama	Coosa	female	50.1
+1039	Alabama	Covington	female	51.6
+1041	Alabama	Crenshaw	female	51.7
+1043	Alabama	Cullman	female	50.5
+1045	Alabama	Dale	female	50.8
+1047	Alabama	Dallas	female	53.7
+1049	Alabama	DeKalb	female	50.7
+1051	Alabama	Elmore	female	51.2
+1053	Alabama	Escambia	female	48.4
+1055	Alabama	Etowah	female	51.6
+1057	Alabama	Fayette	female	50.6
+1059	Alabama	Franklin	female	50.2
+1061	Alabama	Geneva	female	51.2
+1063	Alabama	Greene	female	53.1
+1065	Alabama	Hale	female	52.7
+1067	Alabama	Henry	female	52.1
+1069	Alabama	Houston	female	52.2
+1071	Alabama	Jackson	female	50.8
+1073	Alabama	Jefferson	female	52.7
+1075	Alabama	Lamar	female	51.4
+1077	Alabama	Lauderdale	female	52.2
+1079	Alabama	Lawrence	female	51.1
+1081	Alabama	Lee	female	50.6
+1083	Alabama	Limestone	female	49.4
+1085	Alabama	Lowndes	female	53.2
+1087	Alabama	Macon	female	54
+1089	Alabama	Madison	female	51
+1091	Alabama	Marengo	female	52.8
+1093	Alabama	Marion	female	50.3
+1095	Alabama	Marshall	female	50.7
+1097	Alabama	Mobile	female	52
+1099	Alabama	Monroe	female	52
+1101	Alabama	Montgomery	female	52.5
+1103	Alabama	Morgan	female	50.8
+1105	Alabama	Perry	female	53
+1107	Alabama	Pickens	female	52.4
+1109	Alabama	Pike	female	52.3
+1111	Alabama	Randolph	female	51.4
+1113	Alabama	Russell	female	51.9
+1115	Alabama	St. Clair	female	50
+1117	Alabama	Shelby	female	51.1
+1119	Alabama	Sumter	female	54.7
+1121	Alabama	Talladega	female	51.4
+1123	Alabama	Tallapoosa	female	51.6
+1125	Alabama	Tuscaloosa	female	51.5
+1127	Alabama	Walker	female	51.3
+1129	Alabama	Washington	female	50.7
+1131	Alabama	Wilcox	female	52.7
+1133	Alabama	Winston	female	51
+2013	Alaska	Aleutians East	female	32.8
+2016	Alaska	Aleutians West	female	32.4
+2020	Alaska	Anchorage	female	49.3
+2050	Alaska	Bethel	female	48
+2060	Alaska	Bristol Bay	female	46.5
+2068	Alaska	Denali	female	45.3
+2070	Alaska	Dillingham	female	48.5
+2090	Alaska	Fairbanks North Star	female	47.3
+2100	Alaska	Haines	female	49.1
+2110	Alaska	Juneau	female	49.3
+2122	Alaska	Kenai Peninsula	female	47.8
+2130	Alaska	Ketchikan Gateway	female	48.6
+2150	Alaska	Kodiak Island	female	47
+2164	Alaska	Lake and Peninsula	female	46.8
+2170	Alaska	Matanuska-Susitna	female	48.4
+2180	Alaska	Nome	female	46.9
+2185	Alaska	North Slope	female	37.4
+2188	Alaska	Northwest Arctic	female	46.4
+2201	Alaska	Prince of Wales-Outer Ketchikan	female	45.2
+2220	Alaska	Sitka	female	49.3
+2232	Alaska	Skagway-Hoonah-Angoon	female	46.9
+2240	Alaska	Southeast Fairbanks	female	45.1
+2261	Alaska	Valdez-Cordova	female	46.6
+2270	Alaska	Wade Hampton	female	47.6
+2280	Alaska	Wrangell-Petersburg	female	48.3
+2282	Alaska	Yakutat	female	45.5
+2290	Alaska	Yukon-Koyukuk	female	45.5
+4001	Arizona	Apache	female	50.2
+4003	Arizona	Cochise	female	49
+4005	Arizona	Coconino	female	50.6
+4007	Arizona	Gila	female	50.4
+4009	Arizona	Graham	female	46.3
+4011	Arizona	Greenlee	female	48
+4012	Arizona	La Paz	female	48.9
+4013	Arizona	Maricopa	female	50.5
+4015	Arizona	Mohave	female	49.9
+4017	Arizona	Navajo	female	49.8
+4019	Arizona	Pima	female	50.8
+4021	Arizona	Pinal	female	47.6
+4023	Arizona	Santa Cruz	female	52.3
+4025	Arizona	Yavapai	female	51
+4027	Arizona	Yuma	female	49.4
+5001	Arkansas	Arkansas	female	51.4
+5003	Arkansas	Ashley	female	51.6
+5005	Arkansas	Baxter	female	51.9
+5007	Arkansas	Benton	female	50.6
+5009	Arkansas	Boone	female	50.9
+5011	Arkansas	Bradley	female	51.5
+5013	Arkansas	Calhoun	female	49.1
+5015	Arkansas	Carroll	female	50.7
+5017	Arkansas	Chicot	female	50.7
+5019	Arkansas	Clark	female	52.3
+5021	Arkansas	Clay	female	51
+5023	Arkansas	Cleburne	female	50.6
+5025	Arkansas	Cleveland	female	51
+5027	Arkansas	Columbia	female	52.2
+5029	Arkansas	Conway	female	50.7
+5031	Arkansas	Craighead	female	51.1
+5033	Arkansas	Crawford	female	50.7
+5035	Arkansas	Crittenden	female	52.5
+5037	Arkansas	Cross	female	51.7
+5039	Arkansas	Dallas	female	51.2
+5041	Arkansas	Desha	female	52.9
+5043	Arkansas	Drew	female	51.2
+5045	Arkansas	Faulkner	female	51.1
+5047	Arkansas	Franklin	female	50.4
+5049	Arkansas	Fulton	female	51.1
+5051	Arkansas	Garland	female	51.5
+5053	Arkansas	Grant	female	50.2
+5055	Arkansas	Greene	female	51
+5057	Arkansas	Hempstead	female	51.7
+5059	Arkansas	Hot Spring	female	48.9
+5061	Arkansas	Howard	female	51.5
+5063	Arkansas	Independence	female	51.1
+5065	Arkansas	Izard	female	48.4
+5067	Arkansas	Jackson	female	50.4
+5069	Arkansas	Jefferson	female	50.8
+5071	Arkansas	Johnson	female	50.5
+5073	Arkansas	Lafayette	female	51.5
+5075	Arkansas	Lawrence	female	51.2
+5077	Arkansas	Lee	female	44.5
+5079	Arkansas	Lincoln	female	39.7
+5081	Arkansas	Little River	female	51.3
+5083	Arkansas	Logan	female	50
+5085	Arkansas	Lonoke	female	50.7
+5087	Arkansas	Madison	female	49.9
+5089	Arkansas	Marion	female	50.2
+5091	Arkansas	Miller	female	50.7
+5093	Arkansas	Mississippi	female	51.4
+5095	Arkansas	Monroe	female	52.1
+5097	Arkansas	Montgomery	female	50.1
+5099	Arkansas	Nevada	female	51.5
+5101	Arkansas	Newton	female	49.7
+5103	Arkansas	Ouachita	female	52.8
+5105	Arkansas	Perry	female	50.6
+5107	Arkansas	Phillips	female	53.1
+5109	Arkansas	Pike	female	50.2
+5111	Arkansas	Poinsett	female	51.5
+5113	Arkansas	Polk	female	50.9
+5115	Arkansas	Pope	female	50.5
+5117	Arkansas	Prairie	female	50.6
+5119	Arkansas	Pulaski	female	51.9
+5121	Arkansas	Randolph	female	51
+5123	Arkansas	St. Francis	female	45.5
+5125	Arkansas	Saline	female	50.7
+5127	Arkansas	Scott	female	49.5
+5129	Arkansas	Searcy	female	50.2
+5131	Arkansas	Sebastian	female	50.9
+5133	Arkansas	Sevier	female	50.2
+5135	Arkansas	Sharp	female	50.5
+5137	Arkansas	Stone	female	50.7
+5139	Arkansas	Union	female	51.3
+5141	Arkansas	Van Buren	female	50.3
+5143	Arkansas	Washington	female	50
+5145	Arkansas	White	female	51.1
+5147	Arkansas	Woodruff	female	51.9
+5149	Arkansas	Yell	female	50.2
+6001	California	Alameda	female	50.9
+6003	California	Alpine	female	47.7
+6005	California	Amador	female	45.6
+6007	California	Butte	female	50.5
+6009	California	Calaveras	female	50
+6011	California	Colusa	female	48.6
+6013	California	Contra Costa	female	51.2
+6015	California	Del Norte	female	44.4
+6017	California	El Dorado	female	50
+6019	California	Fresno	female	50
+6021	California	Glenn	female	49.5
+6023	California	Humboldt	female	49.9
+6025	California	Imperial	female	48.5
+6027	California	Inyo	female	49.7
+6029	California	Kern	female	48.4
+6031	California	Kings	female	43.6
+6033	California	Lake	female	49.8
+6035	California	Lassen	female	35.6
+6037	California	Los Angeles	female	50.7
+6039	California	Madera	female	51.8
+6041	California	Marin	female	50.8
+6043	California	Mariposa	female	49.2
+6045	California	Mendocino	female	50
+6047	California	Merced	female	49.6
+6049	California	Modoc	female	49.7
+6051	California	Mono	female	47
+6053	California	Monterey	female	48.6
+6055	California	Napa	female	50.1
+6057	California	Nevada	female	50.6
+6059	California	Orange	female	50.5
+6061	California	Placer	female	51.2
+6063	California	Plumas	female	49.9
+6065	California	Riverside	female	50.2
+6067	California	Sacramento	female	51
+6069	California	San Benito	female	50.1
+6071	California	San Bernardino	female	50.3
+6073	California	San Diego	female	49.8
+6075	California	San Francisco	female	49.2
+6077	California	San Joaquin	female	50.1
+6079	California	San Luis Obispo	female	48.8
+6081	California	San Mateo	female	50.8
+6083	California	Santa Barbara	female	49.8
+6085	California	Santa Clara	female	49.8
+6087	California	Santa Cruz	female	50.2
+6089	California	Shasta	female	50.9
+6091	California	Sierra	female	49.7
+6093	California	Siskiyou	female	50.3
+6095	California	Solano	female	50
+6097	California	Sonoma	female	50.8
+6099	California	Stanislaus	female	50.5
+6101	California	Sutter	female	50.4
+6103	California	Tehama	female	50.2
+6105	California	Trinity	female	48.2
+6107	California	Tulare	female	49.8
+6109	California	Tuolumne	female	47.2
+6111	California	Ventura	female	50.3
+6113	California	Yolo	female	51.3
+6115	California	Yuba	female	49.6
+8001	Colorado	Adams	female	49.6
+8003	Colorado	Alamosa	female	50
+8005	Colorado	Arapahoe	female	50.9
+8007	Colorado	Archuleta	female	49.4
+8009	Colorado	Baca	female	50.6
+8011	Colorado	Bent	female	35
+8013	Colorado	Boulder	female	49.8
+8014	Colorado	Broomfield	female	50.4
+8015	Colorado	Chaffee	female	46.8
+8017	Colorado	Cheyenne	female	50.3
+8019	Colorado	Clear Creek	female	47.9
+8021	Colorado	Conejos	female	50.4
+8023	Colorado	Costilla	female	48.3
+8025	Colorado	Crowley	female	28.7
+8027	Colorado	Custer	female	48.8
+8029	Colorado	Delta	female	49.8
+8031	Colorado	Denver	female	49.9
+8033	Colorado	Dolores	female	48.5
+8035	Colorado	Douglas	female	50.5
+8037	Colorado	Eagle	female	46.7
+8039	Colorado	Elbert	female	49.9
+8041	Colorado	El Paso	female	50
+8043	Colorado	Fremont	female	42
+8045	Colorado	Garfield	female	48.6
+8047	Colorado	Gilpin	female	47
+8049	Colorado	Grand	female	46.6
+8051	Colorado	Gunnison	female	45.9
+8053	Colorado	Hinsdale	female	47.3
+8055	Colorado	Huerfano	female	50.2
+8057	Colorado	Jackson	female	47.5
+8059	Colorado	Jefferson	female	50.3
+8061	Colorado	Kiowa	female	50.8
+8063	Colorado	Kit Carson	female	44.9
+8065	Colorado	Lake	female	46.8
+8067	Colorado	La Plata	female	49.1
+8069	Colorado	Larimer	female	50.4
+8071	Colorado	Las Animas	female	48.6
+8073	Colorado	Lincoln	female	41.7
+8075	Colorado	Logan	female	43.1
+8077	Colorado	Mesa	female	50.3
+8079	Colorado	Mineral	female	48.9
+8081	Colorado	Moffat	female	48.8
+8083	Colorado	Montezuma	female	50.5
+8085	Colorado	Montrose	female	50.8
+8087	Colorado	Morgan	female	50.5
+8089	Colorado	Otero	female	51.2
+8091	Colorado	Ouray	female	50.6
+8093	Colorado	Park	female	47.3
+8095	Colorado	Phillips	female	50.5
+8097	Colorado	Pitkin	female	47.3
+8099	Colorado	Prowers	female	50.4
+8101	Colorado	Pueblo	female	50.8
+8103	Colorado	Rio Blanco	female	48.1
+8105	Colorado	Rio Grande	female	50.1
+8107	Colorado	Routt	female	47
+8109	Colorado	Saguache	female	48.8
+8111	Colorado	San Juan	female	42.3
+8113	Colorado	San Miguel	female	45.9
+8115	Colorado	Sedgwick	female	49.8
+8117	Colorado	Summit	female	45.2
+8119	Colorado	Teller	female	49.1
+8121	Colorado	Washington	female	48.8
+8123	Colorado	Weld	female	49.8
+8125	Colorado	Yuma	female	50.2
+9001	Connecticut	Fairfield	female	51.3
+9003	Connecticut	Hartford	female	51.6
+9005	Connecticut	Litchfield	female	50.8
+9007	Connecticut	Middlesex	female	51.1
+9009	Connecticut	New Haven	female	51.8
+9011	Connecticut	New London	female	50.1
+9013	Connecticut	Tolland	female	49.5
+9015	Connecticut	Windham	female	50.4
+10001	Delaware	Kent	female	51.8
+10003	Delaware	New Castle	female	51.5
+10005	Delaware	Sussex	female	51.2
+11001	District of Columbia	District of Columbia	female	52.7
+12001	Florida	Alachua	female	51.6
+12003	Florida	Baker	female	47.9
+12005	Florida	Bay	female	50.5
+12007	Florida	Bradford	female	43.8
+12009	Florida	Brevard	female	51.1
+12011	Florida	Broward	female	51.5
+12013	Florida	Calhoun	female	45.8
+12015	Florida	Charlotte	female	51.4
+12017	Florida	Citrus	female	51.6
+12019	Florida	Clay	female	51.1
+12021	Florida	Collier	female	50.6
+12023	Florida	Columbia	female	48.5
+12027	Florida	DeSoto	female	43.3
+12029	Florida	Dixie	female	46.3
+12031	Florida	Duval	female	51.5
+12033	Florida	Escambia	female	50.6
+12035	Florida	Flagler	female	51.9
+12037	Florida	Franklin	female	42.4
+12039	Florida	Gadsden	female	51.2
+12041	Florida	Gilchrist	female	47.7
+12043	Florida	Glades	female	42.2
+12045	Florida	Gulf	female	40.2
+12047	Florida	Hamilton	female	41.1
+12049	Florida	Hardee	female	46.5
+12051	Florida	Hendry	female	45.9
+12053	Florida	Hernando	female	52.3
+12055	Florida	Highlands	female	51.2
+12057	Florida	Hillsborough	female	51.1
+12059	Florida	Holmes	female	47
+12061	Florida	Indian River	female	51.7
+12063	Florida	Jackson	female	45.2
+12065	Florida	Jefferson	female	47.6
+12067	Florida	Lafayette	female	38.3
+12069	Florida	Lake	female	51.6
+12071	Florida	Lee	female	50.9
+12073	Florida	Leon	female	52.5
+12075	Florida	Levy	female	50.8
+12077	Florida	Liberty	female	38.8
+12079	Florida	Madison	female	47.7
+12081	Florida	Manatee	female	51.7
+12083	Florida	Marion	female	52.1
+12085	Florida	Martin	female	50.5
+12086	Florida	Miami-Dade	female	51.4
+12087	Florida	Monroe	female	46.8
+12089	Florida	Nassau	female	50.7
+12091	Florida	Okaloosa	female	49.7
+12093	Florida	Okeechobee	female	46.4
+12095	Florida	Orange	female	50.7
+12097	Florida	Osceola	female	50.8
+12099	Florida	Palm Beach	female	51.6
+12101	Florida	Pasco	female	51.4
+12103	Florida	Pinellas	female	52
+12105	Florida	Polk	female	51
+12107	Florida	Putnam	female	50.5
+12109	Florida	St. Johns	female	51.4
+12111	Florida	St. Lucie	female	51.2
+12113	Florida	Santa Rosa	female	49.6
+12115	Florida	Sarasota	female	52.2
+12117	Florida	Seminole	female	51.6
+12119	Florida	Sumter	female	48.2
+12121	Florida	Suwannee	female	49.6
+12123	Florida	Taylor	female	44.3
+12125	Florida	Union	female	35.4
+12127	Florida	Volusia	female	51.2
+12129	Florida	Wakulla	female	44.9
+12131	Florida	Walton	female	48.7
+12133	Florida	Washington	female	45.4
+13001	Georgia	Appling	female	49.3
+13003	Georgia	Atkinson	female	49.7
+13005	Georgia	Bacon	female	50.4
+13007	Georgia	Baker	female	51.2
+13009	Georgia	Baldwin	female	51.1
+13011	Georgia	Banks	female	49.4
+13013	Georgia	Barrow	female	50.6
+13015	Georgia	Bartow	female	50.6
+13017	Georgia	Ben Hill	female	52.2
+13019	Georgia	Berrien	female	50.4
+13021	Georgia	Bibb	female	52.7
+13023	Georgia	Bleckley	female	52.5
+13025	Georgia	Brantley	female	50.3
+13027	Georgia	Brooks	female	51.2
+13029	Georgia	Bryan	female	50.6
+13031	Georgia	Bulloch	female	50
+13033	Georgia	Burke	female	51.8
+13035	Georgia	Butts	female	47.3
+13037	Georgia	Calhoun	female	41.4
+13039	Georgia	Camden	female	49.3
+13043	Georgia	Candler	female	50.7
+13045	Georgia	Carroll	female	51.2
+13047	Georgia	Catoosa	female	51.4
+13049	Georgia	Charlton	female	39.6
+13051	Georgia	Chatham	female	51.6
+13053	Georgia	Chattahoochee	female	37
+13055	Georgia	Chattooga	female	48.2
+13057	Georgia	Cherokee	female	50.6
+13059	Georgia	Clarke	female	52
+13061	Georgia	Clay	female	54.5
+13063	Georgia	Clayton	female	52
+13065	Georgia	Clinch	female	50.8
+13067	Georgia	Cobb	female	51.4
+13069	Georgia	Coffee	female	48.5
+13071	Georgia	Colquitt	female	50.7
+13073	Georgia	Columbia	female	51.4
+13075	Georgia	Cook	female	51.1
+13077	Georgia	Coweta	female	51
+13079	Georgia	Crawford	female	49.4
+13081	Georgia	Crisp	female	51.8
+13083	Georgia	Dade	female	50.6
+13085	Georgia	Dawson	female	49.9
+13087	Georgia	Decatur	female	51
+13089	Georgia	DeKalb	female	51.9
+13091	Georgia	Dodge	female	47.7
+13093	Georgia	Dooly	female	45.7
+13095	Georgia	Dougherty	female	53.2
+13097	Georgia	Douglas	female	51.8
+13099	Georgia	Early	female	52.8
+13101	Georgia	Echols	female	49.6
+13103	Georgia	Effingham	female	50.2
+13105	Georgia	Elbert	female	52.2
+13107	Georgia	Emanuel	female	50.9
+13109	Georgia	Evans	female	50.5
+13111	Georgia	Fannin	female	51.1
+13113	Georgia	Fayette	female	51.7
+13115	Georgia	Floyd	female	51.5
+13117	Georgia	Forsyth	female	50.3
+13119	Georgia	Franklin	female	50.6
+13121	Georgia	Fulton	female	51.1
+13123	Georgia	Gilmer	female	49.9
+13125	Georgia	Glascock	female	51.5
+13127	Georgia	Glynn	female	52.5
+13129	Georgia	Gordon	female	50.2
+13131	Georgia	Grady	female	51.2
+13133	Georgia	Greene	female	51.1
+13135	Georgia	Gwinnett	female	50.7
+13137	Georgia	Habersham	female	52.8
+13139	Georgia	Hall	female	49.9
+13141	Georgia	Hancock	female	44.6
+13143	Georgia	Haralson	female	51.2
+13145	Georgia	Harris	female	50.1
+13147	Georgia	Hart	female	50.6
+13149	Georgia	Heard	female	50.2
+13151	Georgia	Henry	female	52
+13153	Georgia	Houston	female	51.3
+13155	Georgia	Irwin	female	48.6
+13157	Georgia	Jackson	female	50.4
+13159	Georgia	Jasper	female	50.6
+13161	Georgia	Jeff Davis	female	50.3
+13163	Georgia	Jefferson	female	51.4
+13165	Georgia	Jenkins	female	52.4
+13167	Georgia	Johnson	female	44.1
+13169	Georgia	Jones	female	51.4
+13171	Georgia	Lamar	female	52.2
+13173	Georgia	Lanier	female	49.3
+13175	Georgia	Laurens	female	52.2
+13177	Georgia	Lee	female	49.8
+13179	Georgia	Liberty	female	50.5
+13181	Georgia	Lincoln	female	50.7
+13183	Georgia	Long	female	50.2
+13185	Georgia	Lowndes	female	51
+13187	Georgia	Lumpkin	female	50.3
+13189	Georgia	McDuffie	female	53
+13191	Georgia	McIntosh	female	51.2
+13193	Georgia	Macon	female	45.7
+13195	Georgia	Madison	female	50.4
+13197	Georgia	Marion	female	50.6
+13199	Georgia	Meriwether	female	52.1
+13201	Georgia	Miller	female	52
+13205	Georgia	Mitchell	female	48.1
+13207	Georgia	Monroe	female	49.8
+13209	Georgia	Montgomery	female	48.4
+13211	Georgia	Morgan	female	51.5
+13213	Georgia	Murray	female	50.4
+13215	Georgia	Muscogee	female	51.7
+13217	Georgia	Newton	female	52.4
+13219	Georgia	Oconee	female	51.3
+13221	Georgia	Oglethorpe	female	50.2
+13223	Georgia	Paulding	female	51
+13225	Georgia	Peach	female	51.5
+13227	Georgia	Pickens	female	51
+13229	Georgia	Pierce	female	50.8
+13231	Georgia	Pike	female	51
+13233	Georgia	Polk	female	50.7
+13235	Georgia	Pulaski	female	56.8
+13237	Georgia	Putnam	female	51.6
+13239	Georgia	Quitman	female	52.4
+13241	Georgia	Rabun	female	50.6
+13243	Georgia	Randolph	female	53.7
+13245	Georgia	Richmond	female	51.6
+13247	Georgia	Rockdale	female	52.4
+13249	Georgia	Schley	female	52
+13251	Georgia	Screven	female	51.2
+13253	Georgia	Seminole	female	52.2
+13255	Georgia	Spalding	female	51.5
+13257	Georgia	Stephens	female	52
+13259	Georgia	Stewart	female	39
+13261	Georgia	Sumter	female	52.3
+13263	Georgia	Talbot	female	52.4
+13265	Georgia	Taliaferro	female	51.3
+13267	Georgia	Tattnall	female	41.7
+13269	Georgia	Taylor	female	52.7
+13271	Georgia	Telfair	female	42.4
+13273	Georgia	Terrell	female	51.3
+13275	Georgia	Thomas	female	52.6
+13277	Georgia	Tift	female	51.8
+13279	Georgia	Toombs	female	52.7
+13281	Georgia	Towns	female	52.3
+13283	Georgia	Treutlen	female	50
+13285	Georgia	Troup	female	51.9
+13287	Georgia	Turner	female	50.1
+13289	Georgia	Twiggs	female	51.1
+13291	Georgia	Union	female	51.2
+13293	Georgia	Upson	female	52
+13295	Georgia	Walker	female	50.9
+13297	Georgia	Walton	female	51.2
+13299	Georgia	Ware	female	50.4
+13301	Georgia	Warren	female	53.6
+13303	Georgia	Washington	female	49
+13305	Georgia	Wayne	female	47.7
+13307	Georgia	Webster	female	50.6
+13309	Georgia	Wheeler	female	34.8
+13311	Georgia	White	female	51.3
+13313	Georgia	Whitfield	female	50
+13315	Georgia	Wilcox	female	41.2
+13317	Georgia	Wilkes	female	52.1
+13319	Georgia	Wilkinson	female	52
+13321	Georgia	Worth	female	51.8
+15001	Hawaii	Hawaii	female	49.8
+15003	Hawaii	Honolulu	female	49.8
+15005	Hawaii	Kalawao	female	53.3
+15007	Hawaii	Kauai	female	49.8
+15009	Hawaii	Maui	female	49.9
+16001	Idaho	Ada	female	49.9
+16003	Idaho	Adams	female	48.8
+16005	Idaho	Bannock	female	50.3
+16007	Idaho	Bear Lake	female	50.1
+16009	Idaho	Benewah	female	49.1
+16011	Idaho	Bingham	female	49.7
+16013	Idaho	Blaine	female	49
+16015	Idaho	Boise	female	48.2
+16017	Idaho	Bonner	female	49.7
+16019	Idaho	Bonneville	female	50.1
+16021	Idaho	Boundary	female	49.5
+16023	Idaho	Butte	female	48.7
+16025	Idaho	Camas	female	47.3
+16027	Idaho	Canyon	female	50.5
+16029	Idaho	Caribou	female	50
+16031	Idaho	Cassia	female	49.3
+16033	Idaho	Clark	female	44.6
+16035	Idaho	Clearwater	female	45.7
+16037	Idaho	Custer	female	47.1
+16039	Idaho	Elmore	female	48.5
+16041	Idaho	Franklin	female	49.4
+16043	Idaho	Fremont	female	47.5
+16045	Idaho	Gem	female	50.5
+16047	Idaho	Gooding	female	48.4
+16049	Idaho	Idaho	female	47.6
+16051	Idaho	Jefferson	female	49.7
+16053	Idaho	Jerome	female	48.7
+16055	Idaho	Kootenai	female	50.6
+16057	Idaho	Latah	female	48.7
+16059	Idaho	Lemhi	female	48.8
+16061	Idaho	Lewis	female	50
+16063	Idaho	Lincoln	female	48.1
+16065	Idaho	Madison	female	52.1
+16067	Idaho	Minidoka	female	49.5
+16069	Idaho	Nez Perce	female	50.5
+16071	Idaho	Oneida	female	49
+16073	Idaho	Owyhee	female	48.9
+16075	Idaho	Payette	female	50.6
+16077	Idaho	Power	female	48.4
+16079	Idaho	Shoshone	female	49.8
+16081	Idaho	Teton	female	47.4
+16083	Idaho	Twin Falls	female	50.7
+16085	Idaho	Valley	female	48.5
+16087	Idaho	Washington	female	50.8
+17001	Illinois	Adams	female	51.4
+17003	Illinois	Alexander	female	49.2
+17005	Illinois	Bond	female	47.7
+17007	Illinois	Boone	female	50.1
+17009	Illinois	Brown	female	35.9
+17011	Illinois	Bureau	female	51.1
+17013	Illinois	Calhoun	female	50.3
+17015	Illinois	Carroll	female	50
+17017	Illinois	Cass	female	49.7
+17019	Illinois	Champaign	female	50.1
+17021	Illinois	Christian	female	49.3
+17023	Illinois	Clark	female	51.3
+17025	Illinois	Clay	female	50.8
+17027	Illinois	Clinton	female	48.5
+17029	Illinois	Coles	female	51.9
+17031	Illinois	Cook	female	51.5
+17033	Illinois	Crawford	female	48.2
+17035	Illinois	Cumberland	female	50.1
+17037	Illinois	DeKalb	female	50.2
+17039	Illinois	De Witt	female	50.4
+17041	Illinois	Douglas	female	50.8
+17043	Illinois	DuPage	female	51
+17045	Illinois	Edgar	female	51.5
+17047	Illinois	Edwards	female	50.7
+17049	Illinois	Effingham	female	50.2
+17051	Illinois	Fayette	female	47.4
+17053	Illinois	Ford	female	51
+17055	Illinois	Franklin	female	51.1
+17057	Illinois	Fulton	female	48.2
+17059	Illinois	Gallatin	female	51.1
+17061	Illinois	Greene	female	49.5
+17063	Illinois	Grundy	female	50.2
+17065	Illinois	Hamilton	female	51.2
+17067	Illinois	Hancock	female	50.8
+17069	Illinois	Hardin	female	49.9
+17071	Illinois	Henderson	female	50.7
+17073	Illinois	Henry	female	50.2
+17075	Illinois	Iroquois	female	51.1
+17077	Illinois	Jackson	female	49.4
+17079	Illinois	Jasper	female	50.2
+17081	Illinois	Jefferson	female	48.5
+17083	Illinois	Jersey	female	51
+17085	Illinois	Jo Daviess	female	49.8
+17087	Illinois	Johnson	female	44.2
+17089	Illinois	Kane	female	50.1
+17091	Illinois	Kankakee	female	50.9
+17093	Illinois	Kendall	female	50.6
+17095	Illinois	Knox	female	49.9
+17097	Illinois	Lake	female	50.1
+17099	Illinois	LaSalle	female	50
+17101	Illinois	Lawrence	female	43.9
+17103	Illinois	Lee	female	47.5
+17105	Illinois	Livingston	female	49.9
+17107	Illinois	Logan	female	49.2
+17109	Illinois	McDonough	female	50.5
+17111	Illinois	McHenry	female	50.2
+17113	Illinois	McLean	female	51.4
+17115	Illinois	Macon	female	52.1
+17117	Illinois	Macoupin	female	50.8
+17119	Illinois	Madison	female	51.2
+17121	Illinois	Marion	female	51.2
+17123	Illinois	Marshall	female	50.7
+17125	Illinois	Mason	female	50.9
+17127	Illinois	Massac	female	52.2
+17129	Illinois	Menard	female	51.3
+17131	Illinois	Mercer	female	50.4
+17133	Illinois	Monroe	female	50.5
+17135	Illinois	Montgomery	female	47.7
+17137	Illinois	Morgan	female	49.8
+17139	Illinois	Moultrie	female	51.4
+17141	Illinois	Ogle	female	50.4
+17143	Illinois	Peoria	female	51.5
+17145	Illinois	Perry	female	45.7
+17147	Illinois	Piatt	female	50.4
+17149	Illinois	Pike	female	50
+17151	Illinois	Pope	female	47.4
+17153	Illinois	Pulaski	female	52.5
+17155	Illinois	Putnam	female	49.6
+17157	Illinois	Randolph	female	45.1
+17159	Illinois	Richland	female	51.1
+17161	Illinois	Rock Island	female	50.9
+17163	Illinois	St. Clair	female	51.8
+17165	Illinois	Saline	female	51.1
+17167	Illinois	Sangamon	female	52
+17169	Illinois	Schuyler	female	47.5
+17171	Illinois	Scott	female	51.2
+17173	Illinois	Shelby	female	50.3
+17175	Illinois	Stark	female	51
+17177	Illinois	Stephenson	female	51.5
+17179	Illinois	Tazewell	female	50.8
+17181	Illinois	Union	female	50.1
+17183	Illinois	Vermilion	female	50.4
+17185	Illinois	Wabash	female	51.1
+17187	Illinois	Warren	female	51
+17189	Illinois	Washington	female	49.6
+17191	Illinois	Wayne	female	50.7
+17193	Illinois	White	female	51.6
+17195	Illinois	Whiteside	female	50.8
+17197	Illinois	Will	female	50.3
+17199	Illinois	Williamson	female	50.5
+17201	Illinois	Winnebago	female	51.2
+17203	Illinois	Woodford	female	50.6
+18001	Indiana	Adams	female	50.6
+18003	Indiana	Allen	female	51.2
+18005	Indiana	Bartholomew	female	50.5
+18007	Indiana	Benton	female	50.4
+18009	Indiana	Blackford	female	50.6
+18011	Indiana	Boone	female	50.7
+18013	Indiana	Brown	female	50.5
+18015	Indiana	Carroll	female	50.1
+18017	Indiana	Cass	female	50
+18019	Indiana	Clark	female	51
+18021	Indiana	Clay	female	50.9
+18023	Indiana	Clinton	female	50.6
+18025	Indiana	Crawford	female	49.4
+18027	Indiana	Daviess	female	50.2
+18029	Indiana	Dearborn	female	50.3
+18031	Indiana	Decatur	female	50.6
+18033	Indiana	DeKalb	female	50.5
+18035	Indiana	Delaware	female	52
+18037	Indiana	Dubois	female	50.7
+18039	Indiana	Elkhart	female	50.7
+18041	Indiana	Fayette	female	50.9
+18043	Indiana	Floyd	female	51.6
+18045	Indiana	Fountain	female	50.3
+18047	Indiana	Franklin	female	49.9
+18049	Indiana	Fulton	female	50.1
+18051	Indiana	Gibson	female	50.3
+18053	Indiana	Grant	female	52
+18055	Indiana	Greene	female	49.9
+18057	Indiana	Hamilton	female	51.2
+18059	Indiana	Hancock	female	50.8
+18061	Indiana	Harrison	female	49.9
+18063	Indiana	Hendricks	female	50.1
+18065	Indiana	Henry	female	49.3
+18067	Indiana	Howard	female	51.8
+18069	Indiana	Huntington	female	50.9
+18071	Indiana	Jackson	female	50.3
+18073	Indiana	Jasper	female	50.4
+18075	Indiana	Jay	female	50.7
+18077	Indiana	Jefferson	female	51.7
+18079	Indiana	Jennings	female	49.9
+18081	Indiana	Johnson	female	50.8
+18083	Indiana	Knox	female	49.6
+18085	Indiana	Kosciusko	female	50.3
+18087	Indiana	LaGrange	female	49.8
+18089	Indiana	Lake	female	51.7
+18091	Indiana	LaPorte	female	48.3
+18093	Indiana	Lawrence	female	50.6
+18095	Indiana	Madison	female	50
+18097	Indiana	Marion	female	51.8
+18099	Indiana	Marshall	female	50.6
+18101	Indiana	Martin	female	49.4
+18103	Indiana	Miami	female	46.4
+18105	Indiana	Monroe	female	50.2
+18107	Indiana	Montgomery	female	49.7
+18109	Indiana	Morgan	female	50.5
+18111	Indiana	Newton	female	49.4
+18113	Indiana	Noble	female	49.9
+18115	Indiana	Ohio	female	50.2
+18117	Indiana	Orange	female	50.5
+18119	Indiana	Owen	female	49.8
+18121	Indiana	Parke	female	53.4
+18123	Indiana	Perry	female	46.9
+18125	Indiana	Pike	female	50
+18127	Indiana	Porter	female	50.9
+18129	Indiana	Posey	female	50.3
+18131	Indiana	Pulaski	female	49.3
+18133	Indiana	Putnam	female	47
+18135	Indiana	Randolph	female	50.7
+18137	Indiana	Ripley	female	50.8
+18139	Indiana	Rush	female	50.6
+18141	Indiana	St. Joseph	female	51.5
+18143	Indiana	Scott	female	50.6
+18145	Indiana	Shelby	female	50.4
+18147	Indiana	Spencer	female	49.6
+18149	Indiana	Starke	female	50.5
+18151	Indiana	Steuben	female	49.4
+18153	Indiana	Sullivan	female	45.6
+18155	Indiana	Switzerland	female	49
+18157	Indiana	Tippecanoe	female	48.9
+18159	Indiana	Tipton	female	50.4
+18161	Indiana	Union	female	50.5
+18163	Indiana	Vanderburgh	female	51.7
+18165	Indiana	Vermillion	female	50.5
+18167	Indiana	Vigo	female	49.3
+18169	Indiana	Wabash	female	51.4
+18171	Indiana	Warren	female	49.9
+18173	Indiana	Warrick	female	50.7
+18175	Indiana	Washington	female	50.1
+18177	Indiana	Wayne	female	51.5
+18179	Indiana	Wells	female	50.7
+18181	Indiana	White	female	50.6
+18183	Indiana	Whitley	female	50.2
+19001	Iowa	Adair	female	50.3
+19003	Iowa	Adams	female	50.6
+19005	Iowa	Allamakee	female	48.8
+19007	Iowa	Appanoose	female	51.1
+19009	Iowa	Audubon	female	51.8
+19011	Iowa	Benton	female	50.1
+19013	Iowa	Black Hawk	female	51.3
+19015	Iowa	Boone	female	49.6
+19017	Iowa	Bremer	female	51
+19019	Iowa	Buchanan	female	50.4
+19021	Iowa	Buena Vista	female	49.5
+19023	Iowa	Butler	female	50.6
+19025	Iowa	Calhoun	female	51.4
+19027	Iowa	Carroll	female	51.1
+19029	Iowa	Cass	female	51.1
+19031	Iowa	Cedar	female	50.6
+19033	Iowa	Cerro Gordo	female	51.2
+19035	Iowa	Cherokee	female	50.4
+19037	Iowa	Chickasaw	female	49.6
+19039	Iowa	Clarke	female	50
+19041	Iowa	Clay	female	50.8
+19043	Iowa	Clayton	female	50
+19045	Iowa	Clinton	female	50.7
+19047	Iowa	Crawford	female	49.3
+19049	Iowa	Dallas	female	51
+19051	Iowa	Davis	female	50.5
+19053	Iowa	Decatur	female	50.1
+19055	Iowa	Delaware	female	50.1
+19057	Iowa	Des Moines	female	51.3
+19059	Iowa	Dickinson	female	50.5
+19061	Iowa	Dubuque	female	50.6
+19063	Iowa	Emmet	female	49.8
+19065	Iowa	Fayette	female	50.1
+19067	Iowa	Floyd	female	50.9
+19069	Iowa	Franklin	female	49.7
+19071	Iowa	Fremont	female	50.3
+19073	Iowa	Greene	female	50.6
+19075	Iowa	Grundy	female	50.7
+19077	Iowa	Guthrie	female	50.3
+19079	Iowa	Hamilton	female	50.3
+19081	Iowa	Hancock	female	50.1
+19083	Iowa	Hardin	female	50.5
+19085	Iowa	Harrison	female	50.6
+19087	Iowa	Henry	female	48.8
+19089	Iowa	Howard	female	50.5
+19091	Iowa	Humboldt	female	50.6
+19093	Iowa	Ida	female	50.1
+19095	Iowa	Iowa	female	50.6
+19097	Iowa	Jackson	female	50.3
+19099	Iowa	Jasper	female	49.1
+19101	Iowa	Jefferson	female	46.6
+19103	Iowa	Johnson	female	50
+19105	Iowa	Jones	female	47.9
+19107	Iowa	Keokuk	female	50.3
+19109	Iowa	Kossuth	female	50.3
+19111	Iowa	Lee	female	49.5
+19113	Iowa	Linn	female	50.7
+19115	Iowa	Louisa	female	49.1
+19117	Iowa	Lucas	female	49.7
+19119	Iowa	Lyon	female	50.2
+19121	Iowa	Madison	female	50.3
+19123	Iowa	Mahaska	female	49.6
+19125	Iowa	Marion	female	50.5
+19127	Iowa	Marshall	female	49.7
+19129	Iowa	Mills	female	49.7
+19131	Iowa	Mitchell	female	50.7
+19133	Iowa	Monona	female	50.8
+19135	Iowa	Monroe	female	50.2
+19137	Iowa	Montgomery	female	51.3
+19139	Iowa	Muscatine	female	50.4
+19141	Iowa	O'Brien	female	50.2
+19143	Iowa	Osceola	female	49.6
+19145	Iowa	Page	female	48.2
+19147	Iowa	Palo Alto	female	50.3
+19149	Iowa	Plymouth	female	50.5
+19151	Iowa	Pocahontas	female	50.2
+19153	Iowa	Polk	female	50.9
+19155	Iowa	Pottawattamie	female	50.9
+19157	Iowa	Poweshiek	female	50.9
+19159	Iowa	Ringgold	female	50.9
+19161	Iowa	Sac	female	51
+19163	Iowa	Scott	female	51
+19165	Iowa	Shelby	female	51
+19167	Iowa	Sioux	female	50.1
+19169	Iowa	Story	female	48.2
+19171	Iowa	Tama	female	50.9
+19173	Iowa	Taylor	female	50.2
+19175	Iowa	Union	female	51.5
+19177	Iowa	Van Buren	female	49.5
+19179	Iowa	Wapello	female	51
+19181	Iowa	Warren	female	51.4
+19183	Iowa	Washington	female	51
+19185	Iowa	Wayne	female	51.4
+19187	Iowa	Webster	female	48.6
+19189	Iowa	Winnebago	female	50.6
+19191	Iowa	Winneshiek	female	50.5
+19193	Iowa	Woodbury	female	50.6
+19195	Iowa	Worth	female	50.1
+19197	Iowa	Wright	female	50.2
+20001	Kansas	Allen	female	51.4
+20003	Kansas	Anderson	female	50.4
+20005	Kansas	Atchison	female	51.3
+20007	Kansas	Barber	female	49.5
+20009	Kansas	Barton	female	50.8
+20011	Kansas	Bourbon	female	50.8
+20013	Kansas	Brown	female	51.2
+20015	Kansas	Butler	female	49.7
+20017	Kansas	Chase	female	49.1
+20019	Kansas	Chautauqua	female	48.7
+20021	Kansas	Cherokee	female	50.3
+20023	Kansas	Cheyenne	female	49.6
+20025	Kansas	Clark	female	51.8
+20027	Kansas	Clay	female	50.6
+20029	Kansas	Cloud	female	51.3
+20031	Kansas	Coffey	female	50.4
+20033	Kansas	Comanche	female	52.3
+20035	Kansas	Cowley	female	50
+20037	Kansas	Crawford	female	50.4
+20039	Kansas	Decatur	female	49.7
+20041	Kansas	Dickinson	female	50.8
+20043	Kansas	Doniphan	female	49.6
+20045	Kansas	Douglas	female	49.8
+20047	Kansas	Edwards	female	50.2
+20049	Kansas	Elk	female	50.9
+20051	Kansas	Ellis	female	50.3
+20053	Kansas	Ellsworth	female	43.7
+20055	Kansas	Finney	female	49.8
+20057	Kansas	Ford	female	48.2
+20059	Kansas	Franklin	female	50.3
+20061	Kansas	Geary	female	49.8
+20063	Kansas	Gove	female	50.2
+20065	Kansas	Graham	female	50.9
+20067	Kansas	Grant	female	49
+20069	Kansas	Gray	female	50.8
+20071	Kansas	Greeley	female	52.5
+20073	Kansas	Greenwood	female	50.7
+20075	Kansas	Hamilton	female	49.2
+20077	Kansas	Harper	female	50.2
+20079	Kansas	Harvey	female	51.1
+20081	Kansas	Haskell	female	50.5
+20083	Kansas	Hodgeman	female	49.5
+20085	Kansas	Jackson	female	49.8
+20087	Kansas	Jefferson	female	49.3
+20089	Kansas	Jewell	female	48.4
+20091	Kansas	Johnson	female	51.1
+20093	Kansas	Kearny	female	49.2
+20095	Kansas	Kingman	female	50.5
+20097	Kansas	Kiowa	female	50.5
+20099	Kansas	Labette	female	50.4
+20101	Kansas	Lane	female	51.6
+20103	Kansas	Leavenworth	female	46.9
+20105	Kansas	Lincoln	female	50.6
+20107	Kansas	Linn	female	50.1
+20109	Kansas	Logan	female	50.3
+20111	Kansas	Lyon	female	51.2
+20113	Kansas	McPherson	female	50.9
+20115	Kansas	Marion	female	49.8
+20117	Kansas	Marshall	female	50.5
+20119	Kansas	Meade	female	49.2
+20121	Kansas	Miami	female	50.6
+20123	Kansas	Mitchell	female	49.3
+20125	Kansas	Montgomery	female	51
+20127	Kansas	Morris	female	50.2
+20129	Kansas	Morton	female	50.5
+20131	Kansas	Nemaha	female	49.4
+20133	Kansas	Neosho	female	50.5
+20135	Kansas	Ness	female	49.8
+20137	Kansas	Norton	female	44.1
+20139	Kansas	Osage	female	50.2
+20141	Kansas	Osborne	female	50.3
+20143	Kansas	Ottawa	female	48.3
+20145	Kansas	Pawnee	female	44.5
+20147	Kansas	Phillips	female	50.7
+20149	Kansas	Pottawatomie	female	50.4
+20151	Kansas	Pratt	female	50.4
+20153	Kansas	Rawlins	female	50
+20155	Kansas	Reno	female	49.8
+20157	Kansas	Republic	female	51.2
+20159	Kansas	Rice	female	49.7
+20161	Kansas	Riley	female	47.7
+20163	Kansas	Rooks	female	51.3
+20165	Kansas	Rush	female	50.6
+20167	Kansas	Russell	female	50.4
+20169	Kansas	Saline	female	50.3
+20171	Kansas	Scott	female	49.8
+20173	Kansas	Sedgwick	female	50.6
+20175	Kansas	Seward	female	48.5
+20177	Kansas	Shawnee	female	51.5
+20179	Kansas	Sheridan	female	49.2
+20181	Kansas	Sherman	female	49.3
+20183	Kansas	Smith	female	50.7
+20185	Kansas	Stafford	female	50.2
+20187	Kansas	Stanton	female	48.4
+20189	Kansas	Stevens	female	50.5
+20191	Kansas	Sumner	female	50
+20193	Kansas	Thomas	female	50.9
+20195	Kansas	Trego	female	50.6
+20197	Kansas	Wabaunsee	female	49
+20199	Kansas	Wallace	female	49.8
+20201	Kansas	Washington	female	49.1
+20203	Kansas	Wichita	female	48.7
+20205	Kansas	Wilson	female	50.7
+20207	Kansas	Woodson	female	50.3
+20209	Kansas	Wyandotte	female	50.6
+21001	Kentucky	Adair	female	50.6
+21003	Kentucky	Allen	female	50.7
+21005	Kentucky	Anderson	female	51.2
+21007	Kentucky	Ballard	female	50.4
+21009	Kentucky	Barren	female	51.4
+21011	Kentucky	Bath	female	50.6
+21013	Kentucky	Bell	female	51.4
+21015	Kentucky	Boone	female	50.5
+21017	Kentucky	Bourbon	female	51.2
+21019	Kentucky	Boyd	female	50.3
+21021	Kentucky	Boyle	female	51.2
+21023	Kentucky	Bracken	female	49.9
+21025	Kentucky	Breathitt	female	50
+21027	Kentucky	Breckinridge	female	50
+21029	Kentucky	Bullitt	female	50.5
+21031	Kentucky	Butler	female	50.1
+21033	Kentucky	Caldwell	female	51.6
+21035	Kentucky	Calloway	female	51.8
+21037	Kentucky	Campbell	female	50.9
+21039	Kentucky	Carlisle	female	51.1
+21041	Kentucky	Carroll	female	49.5
+21043	Kentucky	Carter	female	50.4
+21045	Kentucky	Casey	female	51.2
+21047	Kentucky	Christian	female	49.1
+21049	Kentucky	Clark	female	51.3
+21051	Kentucky	Clay	female	46.5
+21053	Kentucky	Clinton	female	50.1
+21055	Kentucky	Crittenden	female	49.9
+21057	Kentucky	Cumberland	female	51
+21059	Kentucky	Daviess	female	51.5
+21061	Kentucky	Edmonson	female	50
+21063	Kentucky	Elliott	female	43.7
+21065	Kentucky	Estill	female	50.6
+21067	Kentucky	Fayette	female	50.8
+21069	Kentucky	Fleming	female	51
+21071	Kentucky	Floyd	female	51.1
+21073	Kentucky	Franklin	female	51.4
+21075	Kentucky	Fulton	female	49.9
+21077	Kentucky	Gallatin	female	49.5
+21079	Kentucky	Garrard	female	50.7
+21081	Kentucky	Grant	female	49.8
+21083	Kentucky	Graves	female	50.8
+21085	Kentucky	Grayson	female	49.3
+21087	Kentucky	Green	female	50.6
+21089	Kentucky	Greenup	female	51.7
+21091	Kentucky	Hancock	female	49.4
+21093	Kentucky	Hardin	female	50.2
+21095	Kentucky	Harlan	female	51.2
+21097	Kentucky	Harrison	female	51.1
+21099	Kentucky	Hart	female	50.6
+21101	Kentucky	Henderson	female	51.7
+21103	Kentucky	Henry	female	50.5
+21105	Kentucky	Hickman	female	52.4
+21107	Kentucky	Hopkins	female	51.2
+21109	Kentucky	Jackson	female	50.2
+21111	Kentucky	Jefferson	female	51.8
+21113	Kentucky	Jessamine	female	51.2
+21115	Kentucky	Johnson	female	50.7
+21117	Kentucky	Kenton	female	50.5
+21119	Kentucky	Knott	female	50.3
+21121	Kentucky	Knox	female	51.5
+21123	Kentucky	Larue	female	50.5
+21125	Kentucky	Laurel	female	51
+21127	Kentucky	Lawrence	female	50.4
+21129	Kentucky	Lee	female	45.2
+21131	Kentucky	Leslie	female	50.4
+21133	Kentucky	Letcher	female	50.6
+21135	Kentucky	Lewis	female	50.1
+21137	Kentucky	Lincoln	female	50.8
+21139	Kentucky	Livingston	female	51.1
+21141	Kentucky	Logan	female	51.3
+21143	Kentucky	Lyon	female	44.7
+21145	Kentucky	McCracken	female	52.1
+21147	Kentucky	McCreary	female	45.6
+21149	Kentucky	McLean	female	50.9
+21151	Kentucky	Madison	female	51.5
+21153	Kentucky	Magoffin	female	50
+21155	Kentucky	Marion	female	48.4
+21157	Kentucky	Marshall	female	51
+21159	Kentucky	Martin	female	44.8
+21161	Kentucky	Mason	female	51.7
+21163	Kentucky	Meade	female	50
+21165	Kentucky	Menifee	female	50.2
+21167	Kentucky	Mercer	female	51.2
+21169	Kentucky	Metcalfe	female	50.7
+21171	Kentucky	Monroe	female	50.4
+21173	Kentucky	Montgomery	female	51.2
+21175	Kentucky	Morgan	female	43.3
+21177	Kentucky	Muhlenberg	female	49.5
+21179	Kentucky	Nelson	female	50.8
+21181	Kentucky	Nicholas	female	50.7
+21183	Kentucky	Ohio	female	50.2
+21185	Kentucky	Oldham	female	47.4
+21187	Kentucky	Owen	female	50.6
+21189	Kentucky	Owsley	female	50.4
+21191	Kentucky	Pendleton	female	50.1
+21193	Kentucky	Perry	female	50.4
+21195	Kentucky	Pike	female	51
+21197	Kentucky	Powell	female	50.3
+21199	Kentucky	Pulaski	female	51.2
+21201	Kentucky	Robertson	female	49.2
+21203	Kentucky	Rockcastle	female	50.9
+21205	Kentucky	Rowan	female	51.2
+21207	Kentucky	Russell	female	51.1
+21209	Kentucky	Scott	female	50.8
+21211	Kentucky	Shelby	female	51.9
+21213	Kentucky	Simpson	female	51
+21215	Kentucky	Spencer	female	49.4
+21217	Kentucky	Taylor	female	51.6
+21219	Kentucky	Todd	female	50.8
+21221	Kentucky	Trigg	female	50.8
+21223	Kentucky	Trimble	female	49.2
+21225	Kentucky	Union	female	48.8
+21227	Kentucky	Warren	female	51.1
+21229	Kentucky	Washington	female	51.3
+21231	Kentucky	Wayne	female	50.4
+21233	Kentucky	Webster	female	50.5
+21235	Kentucky	Whitley	female	51.2
+21237	Kentucky	Wolfe	female	50.7
+21239	Kentucky	Woodford	female	51.9
+22001	Louisiana	Acadia	female	51.3
+22003	Louisiana	Allen	female	43.7
+22005	Louisiana	Ascension	female	50.7
+22007	Louisiana	Assumption	female	51.1
+22009	Louisiana	Avoyelles	female	49.9
+22011	Louisiana	Beauregard	female	49.1
+22013	Louisiana	Bienville	female	51.9
+22015	Louisiana	Bossier	female	50.9
+22017	Louisiana	Caddo	female	52.5
+22019	Louisiana	Calcasieu	female	51.3
+22021	Louisiana	Caldwell	female	48.7
+22023	Louisiana	Cameron	female	50.1
+22025	Louisiana	Catahoula	female	47.1
+22027	Louisiana	Claiborne	female	44.1
+22029	Louisiana	Concordia	female	49.6
+22031	Louisiana	De Soto	female	51.9
+22033	Louisiana	East Baton Rouge	female	51.9
+22035	Louisiana	East Carroll	female	46.1
+22037	Louisiana	East Feliciana	female	46.3
+22039	Louisiana	Evangeline	female	49.6
+22041	Louisiana	Franklin	female	51.5
+22043	Louisiana	Grant	female	44.1
+22045	Louisiana	Iberia	female	51.1
+22047	Louisiana	Iberville	female	49
+22049	Louisiana	Jackson	female	49.2
+22051	Louisiana	Jefferson	female	51.4
+22053	Louisiana	Jefferson Davis	female	51.1
+22055	Louisiana	Lafayette	female	51.3
+22057	Louisiana	Lafourche	female	50.9
+22059	Louisiana	La Salle	female	48.5
+22061	Louisiana	Lincoln	female	51.3
+22063	Louisiana	Livingston	female	50.5
+22065	Louisiana	Madison	female	50.5
+22067	Louisiana	Morehouse	female	52.1
+22069	Louisiana	Natchitoches	female	52.3
+22071	Louisiana	Orleans	female	51.8
+22073	Louisiana	Ouachita	female	52.1
+22075	Louisiana	Plaquemines	female	49.8
+22077	Louisiana	Pointe Coupee	female	51.6
+22079	Louisiana	Rapides	female	51.8
+22081	Louisiana	Red River	female	52
+22083	Louisiana	Richland	female	51.7
+22085	Louisiana	Sabine	female	50.3
+22087	Louisiana	St. Bernard	female	49.7
+22089	Louisiana	St. Charles	female	50.6
+22091	Louisiana	St. Helena	female	50.8
+22093	Louisiana	St. James	female	51.1
+22095	Louisiana	St. John the Baptist	female	51
+22097	Louisiana	St. Landry	female	52.1
+22099	Louisiana	St. Martin	female	50.7
+22101	Louisiana	St. Mary	female	50.6
+22103	Louisiana	St. Tammany	female	51.3
+22105	Louisiana	Tangipahoa	female	51.5
+22107	Louisiana	Tensas	female	52.3
+22109	Louisiana	Terrebonne	female	50.5
+22111	Louisiana	Union	female	50.9
+22113	Louisiana	Vermilion	female	51.4
+22115	Louisiana	Vernon	female	48.8
+22117	Louisiana	Washington	female	50.5
+22119	Louisiana	Webster	female	51.3
+22121	Louisiana	West Baton Rouge	female	50.8
+22123	Louisiana	West Carroll	female	50
+22125	Louisiana	West Feliciana	female	34.5
+22127	Louisiana	Winn	female	47.5
+23001	Maine	Androscoggin	female	51
+23003	Maine	Aroostook	female	50.7
+23005	Maine	Cumberland	female	51.4
+23007	Maine	Franklin	female	50.9
+23009	Maine	Hancock	female	51.1
+23011	Maine	Kennebec	female	51.3
+23013	Maine	Knox	female	50.6
+23015	Maine	Lincoln	female	50.9
+23017	Maine	Oxford	female	50.5
+23019	Maine	Penobscot	female	50.7
+23021	Maine	Piscataquis	female	50.4
+23023	Maine	Sagadahoc	female	51.5
+23025	Maine	Somerset	female	50.5
+23027	Maine	Waldo	female	51.1
+23029	Maine	Washington	female	50.8
+23031	Maine	York	female	51.3
+24001	Maryland	Allegany	female	48.1
+24003	Maryland	Anne Arundel	female	50.6
+24005	Maryland	Baltimore	female	52.7
+24009	Maryland	Calvert	female	50.9
+24011	Maryland	Caroline	female	51.4
+24013	Maryland	Carroll	female	50.6
+24015	Maryland	Cecil	female	50.3
+24017	Maryland	Charles	female	51.7
+24019	Maryland	Dorchester	female	52.1
+24021	Maryland	Frederick	female	50.8
+24023	Maryland	Garrett	female	50.4
+24025	Maryland	Harford	female	51.1
+24027	Maryland	Howard	female	51
+24029	Maryland	Kent	female	52.3
+24031	Maryland	Montgomery	female	51.9
+24033	Maryland	Prince George's	female	52
+24035	Maryland	Queen Anne's	female	50.3
+24037	Maryland	St. Mary's	female	50.1
+24039	Maryland	Somerset	female	46.3
+24041	Maryland	Talbot	female	52.3
+24043	Maryland	Washington	female	49.2
+24045	Maryland	Wicomico	female	52.2
+24047	Maryland	Worcester	female	51.3
+24510	Maryland	Baltimore City	female	52.9
+25001	Massachusetts	Barnstable	female	52.4
+25003	Massachusetts	Berkshire	female	51.8
+25005	Massachusetts	Bristol	female	51.6
+25007	Massachusetts	Dukes	female	50.4
+25009	Massachusetts	Essex	female	51.9
+25011	Massachusetts	Franklin	female	51.3
+25013	Massachusetts	Hampden	female	51.9
+25015	Massachusetts	Hampshire	female	53.1
+25017	Massachusetts	Middlesex	female	51.3
+25019	Massachusetts	Nantucket	female	49
+25021	Massachusetts	Norfolk	female	52.1
+25023	Massachusetts	Plymouth	female	51.3
+25025	Massachusetts	Suffolk	female	51.8
+25027	Massachusetts	Worcester	female	50.7
+26001	Michigan	Alcona	female	49.5
+26003	Michigan	Alger	female	45.5
+26005	Michigan	Allegan	female	50.2
+26007	Michigan	Alpena	female	51
+26009	Michigan	Antrim	female	50.5
+26011	Michigan	Arenac	female	49.2
+26013	Michigan	Baraga	female	45.1
+26015	Michigan	Barry	female	49.7
+26017	Michigan	Bay	female	51
+26019	Michigan	Benzie	female	50.6
+26021	Michigan	Berrien	female	51.3
+26023	Michigan	Branch	female	47.4
+26025	Michigan	Calhoun	female	51.1
+26027	Michigan	Cass	female	50
+26029	Michigan	Charlevoix	female	50.8
+26031	Michigan	Cheboygan	female	50.2
+26033	Michigan	Chippewa	female	44.9
+26035	Michigan	Clare	female	50.2
+26037	Michigan	Clinton	female	50.8
+26039	Michigan	Crawford	female	49.8
+26041	Michigan	Delta	female	50.4
+26043	Michigan	Dickinson	female	50.6
+26045	Michigan	Eaton	female	51.2
+26047	Michigan	Emmet	female	50.8
+26049	Michigan	Genesee	female	51.8
+26051	Michigan	Gladwin	female	49.9
+26053	Michigan	Gogebic	female	46.6
+26055	Michigan	Grand Traverse	female	50.7
+26057	Michigan	Gratiot	female	46.8
+26059	Michigan	Hillsdale	female	50.3
+26061	Michigan	Houghton	female	45.9
+26063	Michigan	Huron	female	50.5
+26065	Michigan	Ingham	female	51.5
+26067	Michigan	Ionia	female	46.3
+26069	Michigan	Iosco	female	50.5
+26071	Michigan	Iron	female	50.7
+26073	Michigan	Isabella	female	51.5
+26075	Michigan	Jackson	female	49
+26077	Michigan	Kalamazoo	female	51
+26079	Michigan	Kalkaska	female	49.3
+26081	Michigan	Kent	female	51
+26083	Michigan	Keweenaw	female	48.9
+26085	Michigan	Lake	female	49
+26087	Michigan	Lapeer	female	49.6
+26089	Michigan	Leelanau	female	50.6
+26091	Michigan	Lenawee	female	49.4
+26093	Michigan	Livingston	female	50
+26095	Michigan	Luce	female	42.3
+26097	Michigan	Mackinac	female	49.4
+26099	Michigan	Macomb	female	51.4
+26101	Michigan	Manistee	female	48.2
+26103	Michigan	Marquette	female	49.5
+26105	Michigan	Mason	female	50.7
+26107	Michigan	Mecosta	female	49.7
+26109	Michigan	Menominee	female	49.6
+26111	Michigan	Midland	female	50.8
+26113	Michigan	Missaukee	female	49.3
+26115	Michigan	Monroe	female	50.7
+26117	Michigan	Montcalm	female	48.3
+26119	Michigan	Montmorency	female	49.4
+26121	Michigan	Muskegon	female	50.3
+26123	Michigan	Newaygo	female	49.8
+26125	Michigan	Oakland	female	51.5
+26127	Michigan	Oceana	female	49.8
+26129	Michigan	Ogemaw	female	50.4
+26131	Michigan	Ontonagon	female	48.6
+26133	Michigan	Osceola	female	50
+26135	Michigan	Oscoda	female	49.7
+26137	Michigan	Otsego	female	50.7
+26139	Michigan	Ottawa	female	51
+26141	Michigan	Presque Isle	female	49.7
+26143	Michigan	Roscommon	female	50.1
+26145	Michigan	Saginaw	female	51.6
+26147	Michigan	St. Clair	female	50.4
+26149	Michigan	St. Joseph	female	50.3
+26151	Michigan	Sanilac	female	50.4
+26153	Michigan	Schoolcraft	female	50.4
+26155	Michigan	Shiawassee	female	50.5
+26157	Michigan	Tuscola	female	49.9
+26159	Michigan	Van Buren	female	50.6
+26161	Michigan	Washtenaw	female	50.7
+26163	Michigan	Wayne	female	51.9
+26165	Michigan	Wexford	female	50.1
+27001	Minnesota	Aitkin	female	49.3
+27003	Minnesota	Anoka	female	50
+27005	Minnesota	Becker	female	49.7
+27007	Minnesota	Beltrami	female	50
+27009	Minnesota	Benton	female	49.9
+27011	Minnesota	Big Stone	female	51.3
+27013	Minnesota	Blue Earth	female	49.7
+27015	Minnesota	Brown	female	50.2
+27017	Minnesota	Carlton	female	47.9
+27019	Minnesota	Carver	female	50.3
+27021	Minnesota	Cass	female	49.1
+27023	Minnesota	Chippewa	female	50.9
+27025	Minnesota	Chisago	female	48.4
+27027	Minnesota	Clay	female	50.6
+27029	Minnesota	Clearwater	female	49.8
+27031	Minnesota	Cook	female	50.5
+27033	Minnesota	Cottonwood	female	50.7
+27035	Minnesota	Crow Wing	female	50.1
+27037	Minnesota	Dakota	female	50.9
+27039	Minnesota	Dodge	female	50
+27041	Minnesota	Douglas	female	49.9
+27043	Minnesota	Faribault	female	50.3
+27045	Minnesota	Fillmore	female	50.3
+27047	Minnesota	Freeborn	female	50.4
+27049	Minnesota	Goodhue	female	50.3
+27051	Minnesota	Grant	female	50.5
+27053	Minnesota	Hennepin	female	50.8
+27055	Minnesota	Houston	female	50.2
+27057	Minnesota	Hubbard	female	49.6
+27059	Minnesota	Isanti	female	49.9
+27061	Minnesota	Itasca	female	49.5
+27063	Minnesota	Jackson	female	49.1
+27065	Minnesota	Kanabec	female	49.4
+27067	Minnesota	Kandiyohi	female	50.1
+27069	Minnesota	Kittson	female	49.9
+27071	Minnesota	Koochiching	female	50
+27073	Minnesota	Lac qui Parle	female	49.6
+27075	Minnesota	Lake	female	49.6
+27077	Minnesota	Lake of the Woods	female	48.9
+27079	Minnesota	Le Sueur	female	49.5
+27081	Minnesota	Lincoln	female	49.8
+27083	Minnesota	Lyon	female	50.3
+27085	Minnesota	McLeod	female	50.2
+27087	Minnesota	Mahnomen	female	49.7
+27089	Minnesota	Marshall	female	49.3
+27091	Minnesota	Martin	female	50.9
+27093	Minnesota	Meeker	female	49.2
+27095	Minnesota	Mille Lacs	female	49.7
+27097	Minnesota	Morrison	female	49.5
+27099	Minnesota	Mower	female	50.1
+27101	Minnesota	Murray	female	50.4
+27103	Minnesota	Nicollet	female	50.2
+27105	Minnesota	Nobles	female	48.6
+27107	Minnesota	Norman	female	49.9
+27109	Minnesota	Olmsted	female	51.1
+27111	Minnesota	Otter Tail	female	49.8
+27113	Minnesota	Pennington	female	50.7
+27115	Minnesota	Pine	female	46.5
+27117	Minnesota	Pipestone	female	51.4
+27119	Minnesota	Polk	female	49.9
+27121	Minnesota	Pope	female	49.5
+27123	Minnesota	Ramsey	female	51.5
+27125	Minnesota	Red Lake	female	49.8
+27127	Minnesota	Redwood	female	50.3
+27129	Minnesota	Renville	female	49.2
+27131	Minnesota	Rice	female	48.9
+27133	Minnesota	Rock	female	50.6
+27135	Minnesota	Roseau	female	48.9
+27137	Minnesota	St. Louis	female	49.9
+27139	Minnesota	Scott	female	50.2
+27141	Minnesota	Sherburne	female	48.9
+27143	Minnesota	Sibley	female	49.9
+27145	Minnesota	Stearns	female	49.5
+27147	Minnesota	Steele	female	50.5
+27149	Minnesota	Stevens	female	50.8
+27151	Minnesota	Swift	female	49.4
+27153	Minnesota	Todd	female	48.7
+27155	Minnesota	Traverse	female	50.3
+27157	Minnesota	Wabasha	female	50
+27159	Minnesota	Wadena	female	50.7
+27161	Minnesota	Waseca	female	52.9
+27163	Minnesota	Washington	female	50.5
+27165	Minnesota	Watonwan	female	49.9
+27167	Minnesota	Wilkin	female	49.2
+27169	Minnesota	Winona	female	50.8
+27171	Minnesota	Wright	female	49.7
+27173	Minnesota	Yellow Medicine	female	48.9
+28001	Mississippi	Adams	female	50
+28003	Mississippi	Alcorn	female	51.2
+28005	Mississippi	Amite	female	51
+28007	Mississippi	Attala	female	52.7
+28009	Mississippi	Benton	female	50.9
+28011	Mississippi	Bolivar	female	53.6
+28013	Mississippi	Calhoun	female	52.1
+28015	Mississippi	Carroll	female	49.7
+28017	Mississippi	Chickasaw	female	52.5
+28019	Mississippi	Choctaw	female	51.7
+28021	Mississippi	Claiborne	female	53.4
+28023	Mississippi	Clarke	female	52.5
+28025	Mississippi	Clay	female	52.9
+28027	Mississippi	Coahoma	female	53.9
+28029	Mississippi	Copiah	female	51.7
+28031	Mississippi	Covington	female	51.5
+28033	Mississippi	DeSoto	female	51.4
+28035	Mississippi	Forrest	female	52.3
+28037	Mississippi	Franklin	female	51.1
+28039	Mississippi	George	female	49.4
+28041	Mississippi	Greene	female	41.1
+28043	Mississippi	Grenada	female	52.9
+28045	Mississippi	Hancock	female	50.4
+28047	Mississippi	Harrison	female	50.2
+28049	Mississippi	Hinds	female	52.9
+28051	Mississippi	Holmes	female	53
+28053	Mississippi	Humphreys	female	52.9
+28055	Mississippi	Issaquena	female	42.7
+28057	Mississippi	Itawamba	female	51.4
+28059	Mississippi	Jackson	female	50.7
+28061	Mississippi	Jasper	female	51.6
+28063	Mississippi	Jefferson	female	50.2
+28065	Mississippi	Jefferson Davis	female	52.3
+28067	Mississippi	Jones	female	51.3
+28069	Mississippi	Kemper	female	50.8
+28071	Mississippi	Lafayette	female	50.9
+28073	Mississippi	Lamar	female	51.7
+28075	Mississippi	Lauderdale	female	51.8
+28077	Mississippi	Lawrence	female	50.8
+28079	Mississippi	Leake	female	48.3
+28081	Mississippi	Lee	female	52.3
+28083	Mississippi	Leflore	female	52.1
+28085	Mississippi	Lincoln	female	52.2
+28087	Mississippi	Lowndes	female	52.6
+28089	Mississippi	Madison	female	52.1
+28091	Mississippi	Marion	female	51.8
+28093	Mississippi	Marshall	female	50.7
+28095	Mississippi	Monroe	female	52.3
+28097	Mississippi	Montgomery	female	52.5
+28099	Mississippi	Neshoba	female	52.2
+28101	Mississippi	Newton	female	52.1
+28103	Mississippi	Noxubee	female	51.8
+28105	Mississippi	Oktibbeha	female	50.2
+28107	Mississippi	Panola	female	52
+28109	Mississippi	Pearl River	female	50.8
+28111	Mississippi	Perry	female	51.3
+28113	Mississippi	Pike	female	52.2
+28115	Mississippi	Pontotoc	female	50.7
+28117	Mississippi	Prentiss	female	51
+28119	Mississippi	Quitman	female	52.3
+28121	Mississippi	Rankin	female	51.6
+28123	Mississippi	Scott	female	51.1
+28125	Mississippi	Sharkey	female	53.9
+28127	Mississippi	Simpson	female	51.5
+28129	Mississippi	Smith	female	51.5
+28131	Mississippi	Stone	female	50.1
+28133	Mississippi	Sunflower	female	46.4
+28135	Mississippi	Tallahatchie	female	44.8
+28137	Mississippi	Tate	female	52.1
+28139	Mississippi	Tippah	female	51.1
+28141	Mississippi	Tishomingo	female	51.6
+28143	Mississippi	Tunica	female	52.6
+28145	Mississippi	Union	female	51.2
+28147	Mississippi	Walthall	female	51.5
+28149	Mississippi	Warren	female	52.4
+28151	Mississippi	Washington	female	53.4
+28153	Mississippi	Wayne	female	51.9
+28155	Mississippi	Webster	female	51.4
+28157	Mississippi	Wilkinson	female	46.9
+28159	Mississippi	Winston	female	51.7
+28161	Mississippi	Yalobusha	female	52
+28163	Mississippi	Yazoo	female	45.4
+29001	Missouri	Adair	female	52.4
+29003	Missouri	Andrew	female	50.8
+29005	Missouri	Atchison	female	50.5
+29007	Missouri	Audrain	female	53.9
+29009	Missouri	Barry	female	50.4
+29011	Missouri	Barton	female	50.9
+29013	Missouri	Bates	female	50.6
+29015	Missouri	Benton	female	49.9
+29017	Missouri	Bollinger	female	50
+29019	Missouri	Boone	female	51.5
+29021	Missouri	Buchanan	female	50
+29023	Missouri	Butler	female	51.8
+29025	Missouri	Caldwell	female	49.8
+29027	Missouri	Callaway	female	48.6
+29029	Missouri	Camden	female	50.3
+29031	Missouri	Cape Girardeau	female	51.7
+29033	Missouri	Carroll	female	51.1
+29035	Missouri	Carter	female	51.5
+29037	Missouri	Cass	female	51.2
+29039	Missouri	Cedar	female	50.6
+29041	Missouri	Chariton	female	50.8
+29043	Missouri	Christian	female	51.2
+29045	Missouri	Clark	female	49.8
+29047	Missouri	Clay	female	51.1
+29049	Missouri	Clinton	female	49.7
+29051	Missouri	Cole	female	49.5
+29053	Missouri	Cooper	female	47.3
+29055	Missouri	Crawford	female	50.2
+29057	Missouri	Dade	female	49.9
+29059	Missouri	Dallas	female	50.1
+29061	Missouri	Daviess	female	50.2
+29063	Missouri	DeKalb	female	37
+29065	Missouri	Dent	female	50.5
+29067	Missouri	Douglas	female	50.5
+29069	Missouri	Dunklin	female	51.9
+29071	Missouri	Franklin	female	50.4
+29073	Missouri	Gasconade	female	51.1
+29075	Missouri	Gentry	female	51.7
+29077	Missouri	Greene	female	51.3
+29079	Missouri	Grundy	female	52.2
+29081	Missouri	Harrison	female	50.2
+29083	Missouri	Henry	female	51.1
+29085	Missouri	Hickory	female	50.9
+29087	Missouri	Holt	female	50.5
+29089	Missouri	Howard	female	50.4
+29091	Missouri	Howell	female	51.5
+29093	Missouri	Iron	female	50.8
+29095	Missouri	Jackson	female	51.6
+29097	Missouri	Jasper	female	51.1
+29099	Missouri	Jefferson	female	50.3
+29101	Missouri	Johnson	female	49.4
+29103	Missouri	Knox	female	50.5
+29105	Missouri	Laclede	female	50.7
+29107	Missouri	Lafayette	female	50.6
+29109	Missouri	Lawrence	female	50.7
+29111	Missouri	Lewis	female	49.8
+29113	Missouri	Lincoln	female	50.1
+29115	Missouri	Linn	female	51.9
+29117	Missouri	Livingston	female	55.3
+29119	Missouri	McDonald	female	49.7
+29121	Missouri	Macon	female	51
+29123	Missouri	Madison	female	50.9
+29125	Missouri	Maries	female	49.7
+29127	Missouri	Marion	female	51.7
+29129	Missouri	Mercer	female	50.1
+29131	Missouri	Miller	female	50.3
+29133	Missouri	Mississippi	female	46.3
+29135	Missouri	Moniteau	female	47.4
+29137	Missouri	Monroe	female	50.1
+29139	Missouri	Montgomery	female	50.1
+29141	Missouri	Morgan	female	50.2
+29143	Missouri	New Madrid	female	52.2
+29145	Missouri	Newton	female	50.5
+29147	Missouri	Nodaway	female	49.6
+29149	Missouri	Oregon	female	50.6
+29151	Missouri	Osage	female	48
+29153	Missouri	Ozark	female	49.6
+29155	Missouri	Pemiscot	female	52.6
+29157	Missouri	Perry	female	50.1
+29159	Missouri	Pettis	female	50.8
+29161	Missouri	Phelps	female	47.9
+29163	Missouri	Pike	female	45.1
+29165	Missouri	Platte	female	50.7
+29167	Missouri	Polk	female	50.8
+29169	Missouri	Pulaski	female	44.2
+29171	Missouri	Putnam	female	49.9
+29173	Missouri	Ralls	female	49.5
+29175	Missouri	Randolph	female	47.6
+29177	Missouri	Ray	female	50.1
+29179	Missouri	Reynolds	female	48.8
+29181	Missouri	Ripley	female	50.6
+29183	Missouri	St. Charles	female	50.9
+29185	Missouri	St. Clair	female	49.7
+29186	Missouri	Ste. Genevieve	female	49.5
+29187	Missouri	St. Francois	female	46.8
+29189	Missouri	St. Louis	female	52.7
+29195	Missouri	Saline	female	50.5
+29197	Missouri	Schuyler	female	51.6
+29199	Missouri	Scotland	female	51
+29201	Missouri	Scott	female	51.8
+29203	Missouri	Shannon	female	50.1
+29205	Missouri	Shelby	female	51
+29207	Missouri	Stoddard	female	51.3
+29209	Missouri	Stone	female	50.9
+29211	Missouri	Sullivan	female	49.5
+29213	Missouri	Taney	female	51.5
+29215	Missouri	Texas	female	48.1
+29217	Missouri	Vernon	female	51.5
+29219	Missouri	Warren	female	50.3
+29221	Missouri	Washington	female	48.5
+29223	Missouri	Wayne	female	49.9
+29225	Missouri	Webster	female	49.5
+29227	Missouri	Worth	female	50.9
+29229	Missouri	Wright	female	51.1
+29510	Missouri	St. Louis City	female	51.6
+30001	Montana	Beaverhead	female	48.9
+30003	Montana	Big Horn	female	50.2
+30005	Montana	Blaine	female	50.2
+30007	Montana	Broadwater	female	49
+30009	Montana	Carbon	female	49.4
+30011	Montana	Carter	female	49.1
+30013	Montana	Cascade	female	50.1
+30015	Montana	Chouteau	female	50.5
+30017	Montana	Custer	female	50.4
+30019	Montana	Daniels	female	49
+30021	Montana	Dawson	female	49.3
+30023	Montana	Deer Lodge	female	47.4
+30025	Montana	Fallon	female	49.8
+30027	Montana	Fergus	female	49.8
+30029	Montana	Flathead	female	50.2
+30031	Montana	Gallatin	female	48.3
+30033	Montana	Garfield	female	49.1
+30035	Montana	Glacier	female	50.8
+30037	Montana	Golden Valley	female	47.9
+30039	Montana	Granite	female	49.2
+30041	Montana	Hill	female	49.3
+30043	Montana	Jefferson	female	49.1
+30045	Montana	Judith Basin	female	47.9
+30047	Montana	Lake	female	50.6
+30049	Montana	Lewis and Clark	female	50.7
+30051	Montana	Liberty	female	52.1
+30053	Montana	Lincoln	female	49.3
+30055	Montana	McCone	female	49.5
+30057	Montana	Madison	female	48.2
+30059	Montana	Meagher	female	49.1
+30061	Montana	Mineral	female	48
+30063	Montana	Missoula	female	49.6
+30065	Montana	Musselshell	female	50.3
+30067	Montana	Park	female	50.2
+30069	Montana	Petroleum	female	46.6
+30071	Montana	Phillips	female	50.6
+30073	Montana	Pondera	female	51.6
+30075	Montana	Powder River	female	48.8
+30077	Montana	Powell	female	38.8
+30079	Montana	Prairie	female	49.4
+30081	Montana	Ravalli	female	50.3
+30083	Montana	Richland	female	48.2
+30085	Montana	Roosevelt	female	50.4
+30087	Montana	Rosebud	female	49.6
+30089	Montana	Sanders	female	48.7
+30091	Montana	Sheridan	female	49.2
+30093	Montana	Silver Bow	female	49.3
+30095	Montana	Stillwater	female	48.6
+30097	Montana	Sweet Grass	female	50
+30099	Montana	Teton	female	50.5
+30101	Montana	Toole	female	44.2
+30103	Montana	Treasure	female	49.5
+30105	Montana	Valley	female	50
+30107	Montana	Wheatland	female	50.6
+30109	Montana	Wibaux	female	49
+30111	Montana	Yellowstone	female	51.1
+31001	Nebraska	Adams	female	50.1
+31003	Nebraska	Antelope	female	50.4
+31005	Nebraska	Arthur	female	50.5
+31007	Nebraska	Banner	female	48.7
+31009	Nebraska	Blaine	female	48.8
+31011	Nebraska	Boone	female	49.8
+31013	Nebraska	Box Butte	female	50.7
+31015	Nebraska	Boyd	female	50.8
+31017	Nebraska	Brown	female	51.6
+31019	Nebraska	Buffalo	female	50.4
+31021	Nebraska	Burt	female	50.9
+31023	Nebraska	Butler	female	49.5
+31025	Nebraska	Cass	female	49.7
+31027	Nebraska	Cedar	female	49.4
+31029	Nebraska	Chase	female	50.3
+31031	Nebraska	Cherry	female	50
+31033	Nebraska	Cheyenne	female	50.3
+31035	Nebraska	Clay	female	49.8
+31037	Nebraska	Colfax	female	48
+31039	Nebraska	Cuming	female	50.4
+31041	Nebraska	Custer	female	50.4
+31043	Nebraska	Dakota	female	49.8
+31045	Nebraska	Dawes	female	50.4
+31047	Nebraska	Dawson	female	49.2
+31049	Nebraska	Deuel	female	50.6
+31051	Nebraska	Dixon	female	50.6
+31053	Nebraska	Dodge	female	50.9
+31055	Nebraska	Douglas	female	50.8
+31057	Nebraska	Dundy	female	49.5
+31059	Nebraska	Fillmore	female	50.8
+31061	Nebraska	Franklin	female	49.8
+31063	Nebraska	Frontier	female	49.5
+31065	Nebraska	Furnas	female	51.3
+31067	Nebraska	Gage	female	50.9
+31069	Nebraska	Garden	female	49.2
+31071	Nebraska	Garfield	female	51.1
+31073	Nebraska	Gosper	female	49.4
+31075	Nebraska	Grant	female	45.4
+31077	Nebraska	Greeley	female	49.3
+31079	Nebraska	Hall	female	49.9
+31081	Nebraska	Hamilton	female	50
+31083	Nebraska	Harlan	female	49
+31085	Nebraska	Hayes	female	46.8
+31087	Nebraska	Hitchcock	female	49.5
+31089	Nebraska	Holt	female	50.4
+31091	Nebraska	Hooker	female	52.1
+31093	Nebraska	Howard	female	49.5
+31095	Nebraska	Jefferson	female	50.6
+31097	Nebraska	Johnson	female	41.9
+31099	Nebraska	Kearney	female	51
+31101	Nebraska	Keith	female	50.3
+31103	Nebraska	Keya Paha	female	49.7
+31105	Nebraska	Kimball	female	50.3
+31107	Nebraska	Knox	female	51
+31109	Nebraska	Lancaster	female	49.9
+31111	Nebraska	Lincoln	female	50.5
+31113	Nebraska	Logan	female	50.9
+31115	Nebraska	Loup	female	48.5
+31117	Nebraska	McPherson	female	49.3
+31119	Nebraska	Madison	female	50.3
+31121	Nebraska	Merrick	female	50.2
+31123	Nebraska	Morrill	female	49.4
+31125	Nebraska	Nance	female	50
+31127	Nebraska	Nemaha	female	50.9
+31129	Nebraska	Nuckolls	female	50.3
+31131	Nebraska	Otoe	female	51.1
+31133	Nebraska	Pawnee	female	49.8
+31135	Nebraska	Perkins	female	49.5
+31137	Nebraska	Phelps	female	50.7
+31139	Nebraska	Pierce	female	49.3
+31141	Nebraska	Platte	female	49.8
+31143	Nebraska	Polk	female	50.2
+31145	Nebraska	Red Willow	female	50.3
+31147	Nebraska	Richardson	female	50.6
+31149	Nebraska	Rock	female	49.7
+31151	Nebraska	Saline	female	49.6
+31153	Nebraska	Sarpy	female	50.3
+31155	Nebraska	Saunders	female	49.3
+31157	Nebraska	Scotts Bluff	female	51.7
+31159	Nebraska	Seward	female	48.9
+31161	Nebraska	Sheridan	female	51.3
+31163	Nebraska	Sherman	female	50.8
+31165	Nebraska	Sioux	female	49.1
+31167	Nebraska	Stanton	female	50.2
+31169	Nebraska	Thayer	female	51.3
+31171	Nebraska	Thomas	female	49.2
+31173	Nebraska	Thurston	female	50.5
+31175	Nebraska	Valley	female	50.5
+31177	Nebraska	Washington	female	50.2
+31179	Nebraska	Wayne	female	49.9
+31181	Nebraska	Webster	female	51.9
+31183	Nebraska	Wheeler	female	48.8
+31185	Nebraska	York	female	51.2
+32001	Nevada	Churchill	female	49.9
+32003	Nevada	Clark	female	49.7
+32005	Nevada	Douglas	female	50
+32007	Nevada	Elko	female	48
+32009	Nevada	Esmeralda	female	43.7
+32011	Nevada	Eureka	female	46.9
+32013	Nevada	Humboldt	female	47.5
+32015	Nevada	Lander	female	49.1
+32017	Nevada	Lincoln	female	45.9
+32019	Nevada	Lyon	female	49.5
+32021	Nevada	Mineral	female	51.4
+32023	Nevada	Nye	female	49.4
+32027	Nevada	Pershing	female	36.5
+32029	Nevada	Storey	female	49.1
+32031	Nevada	Washoe	female	49.6
+32033	Nevada	White Pine	female	43.2
+32510	Nevada	Carson City	female	48.2
+33001	New Hampshire	Belknap	female	50.8
+33003	New Hampshire	Carroll	female	50.4
+33005	New Hampshire	Cheshire	female	51.2
+33007	New Hampshire	Coos	female	48.9
+33009	New Hampshire	Grafton	female	50.5
+33011	New Hampshire	Hillsborough	female	50.5
+33013	New Hampshire	Merrimack	female	50.7
+33015	New Hampshire	Rockingham	female	50.6
+33017	New Hampshire	Strafford	female	51.2
+33019	New Hampshire	Sullivan	female	50.5
+34001	New Jersey	Atlantic	female	51.4
+34003	New Jersey	Bergen	female	51.7
+34005	New Jersey	Burlington	female	50.9
+34007	New Jersey	Camden	female	51.7
+34009	New Jersey	Cape May	female	51.4
+34011	New Jersey	Cumberland	female	48.6
+34013	New Jersey	Essex	female	51.9
+34015	New Jersey	Gloucester	female	51.5
+34017	New Jersey	Hudson	female	50.4
+34019	New Jersey	Hunterdon	female	50.1
+34021	New Jersey	Mercer	female	51.1
+34023	New Jersey	Middlesex	female	50.8
+34025	New Jersey	Monmouth	female	51.3
+34027	New Jersey	Morris	female	51
+34029	New Jersey	Ocean	female	52.1
+34031	New Jersey	Passaic	female	51.4
+34033	New Jersey	Salem	female	51.1
+34035	New Jersey	Somerset	female	51.2
+34037	New Jersey	Sussex	female	50.4
+34039	New Jersey	Union	female	51.4
+34041	New Jersey	Warren	female	51.3
+35001	New Mexico	Bernalillo	female	50.9
+35003	New Mexico	Catron	female	48.3
+35005	New Mexico	Chaves	female	50.4
+35006	New Mexico	Cibola	female	49.2
+35007	New Mexico	Colfax	female	49.1
+35009	New Mexico	Curry	female	49.4
+35011	New Mexico	De Baca	female	50.2
+35013	New Mexico	Dona Ana	female	50.9
+35015	New Mexico	Eddy	female	49.9
+35017	New Mexico	Grant	female	50.7
+35019	New Mexico	Guadalupe	female	43.4
+35021	New Mexico	Harding	female	47.3
+35023	New Mexico	Hidalgo	female	49.8
+35025	New Mexico	Lea	female	48.8
+35027	New Mexico	Lincoln	female	51.1
+35028	New Mexico	Los Alamos	female	49.7
+35029	New Mexico	Luna	female	50.1
+35031	New Mexico	McKinley	female	51.8
+35033	New Mexico	Mora	female	48.9
+35035	New Mexico	Otero	female	49.3
+35037	New Mexico	Quay	female	51.1
+35039	New Mexico	Rio Arriba	female	50.5
+35041	New Mexico	Roosevelt	female	49.6
+35043	New Mexico	Sandoval	female	51.1
+35045	New Mexico	San Juan	female	50.3
+35047	New Mexico	San Miguel	female	50.1
+35049	New Mexico	Santa Fe	female	51.2
+35051	New Mexico	Sierra	female	49.9
+35053	New Mexico	Socorro	female	48.7
+35055	New Mexico	Taos	female	50.9
+35057	New Mexico	Torrance	female	48.2
+35059	New Mexico	Union	female	42.7
+35061	New Mexico	Valencia	female	49.6
+36001	New York	Albany	female	51.6
+36003	New York	Allegany	female	49.5
+36005	New York	Bronx	female	52.9
+36007	New York	Broome	female	51
+36009	New York	Cattaraugus	female	50.6
+36011	New York	Cayuga	female	49
+36013	New York	Chautauqua	female	50.7
+36015	New York	Chemung	female	50.2
+36017	New York	Chenango	female	50.2
+36019	New York	Clinton	female	48.7
+36021	New York	Columbia	female	49.8
+36023	New York	Cortland	female	51.1
+36025	New York	Delaware	female	49.7
+36027	New York	Dutchess	female	50.2
+36029	New York	Erie	female	51.7
+36031	New York	Essex	female	48.1
+36033	New York	Franklin	female	45.1
+36035	New York	Fulton	female	50.6
+36037	New York	Genesee	female	50.3
+36039	New York	Greene	female	47.8
+36041	New York	Hamilton	female	49.6
+36043	New York	Herkimer	female	50.9
+36045	New York	Jefferson	female	48.8
+36047	New York	Kings	female	52.7
+36049	New York	Lewis	female	49.5
+36051	New York	Livingston	female	49.8
+36053	New York	Madison	female	51
+36055	New York	Monroe	female	51.7
+36057	New York	Montgomery	female	51.2
+36059	New York	Nassau	female	51.6
+36061	New York	New York	female	52.9
+36063	New York	Niagara	female	51.4
+36065	New York	Oneida	female	50.2
+36067	New York	Onondaga	female	51.8
+36069	New York	Ontario	female	51.1
+36071	New York	Orange	female	50
+36073	New York	Orleans	female	50.5
+36075	New York	Oswego	female	50.1
+36077	New York	Otsego	female	51.7
+36079	New York	Putnam	female	50.2
+36081	New York	Queens	female	51.5
+36083	New York	Rensselaer	female	50.7
+36085	New York	Richmond	female	51.5
+36087	New York	Rockland	female	50.9
+36089	New York	St. Lawrence	female	49.2
+36091	New York	Saratoga	female	50.8
+36093	New York	Schenectady	female	51.6
+36095	New York	Schoharie	female	49.9
+36097	New York	Schuyler	female	50.1
+36099	New York	Seneca	female	47.6
+36101	New York	Steuben	female	50.4
+36103	New York	Suffolk	female	50.8
+36105	New York	Sullivan	female	48.9
+36107	New York	Tioga	female	50.4
+36109	New York	Tompkins	female	50.7
+36111	New York	Ulster	female	50.3
+36113	New York	Warren	female	51.2
+36115	New York	Washington	female	48.2
+36117	New York	Wayne	female	50.4
+36119	New York	Westchester	female	51.8
+36121	New York	Wyoming	female	45.5
+36123	New York	Yates	female	51.5
+37001	North Carolina	Alamance	female	52.4
+37003	North Carolina	Alexander	female	49.3
+37005	North Carolina	Alleghany	female	50.5
+37007	North Carolina	Anson	female	48
+37009	North Carolina	Ashe	female	50.8
+37011	North Carolina	Avery	female	45.3
+37013	North Carolina	Beaufort	female	51.9
+37015	North Carolina	Bertie	female	50.3
+37017	North Carolina	Bladen	female	52.1
+37019	North Carolina	Brunswick	female	51.1
+37021	North Carolina	Buncombe	female	51.9
+37023	North Carolina	Burke	female	50
+37025	North Carolina	Cabarrus	female	51.2
+37027	North Carolina	Caldwell	female	50.7
+37029	North Carolina	Camden	female	50.3
+37031	North Carolina	Carteret	female	50.6
+37033	North Carolina	Caswell	female	48.9
+37035	North Carolina	Catawba	female	51
+37037	North Carolina	Chatham	female	51.8
+37039	North Carolina	Cherokee	female	51.4
+37041	North Carolina	Chowan	female	52.3
+37043	North Carolina	Clay	female	50.6
+37045	North Carolina	Cleveland	female	51.8
+37047	North Carolina	Columbus	female	50.5
+37049	North Carolina	Craven	female	50.2
+37051	North Carolina	Cumberland	female	51.4
+37053	North Carolina	Currituck	female	50.4
+37055	North Carolina	Dare	female	50.4
+37057	North Carolina	Davidson	female	50.9
+37059	North Carolina	Davie	female	51.4
+37061	North Carolina	Duplin	female	50.7
+37063	North Carolina	Durham	female	52.3
+37065	North Carolina	Edgecombe	female	53.5
+37067	North Carolina	Forsyth	female	52.5
+37069	North Carolina	Franklin	female	50.4
+37071	North Carolina	Gaston	female	51.7
+37073	North Carolina	Gates	female	50.8
+37075	North Carolina	Graham	female	50.6
+37077	North Carolina	Granville	female	46.6
+37079	North Carolina	Greene	female	46.1
+37081	North Carolina	Guilford	female	52.4
+37083	North Carolina	Halifax	female	52.2
+37085	North Carolina	Harnett	female	50.9
+37087	North Carolina	Haywood	female	51.8
+37089	North Carolina	Henderson	female	51.7
+37091	North Carolina	Hertford	female	51.1
+37093	North Carolina	Hoke	female	51.1
+37095	North Carolina	Hyde	female	44.3
+37097	North Carolina	Iredell	female	50.8
+37099	North Carolina	Jackson	female	50.4
+37101	North Carolina	Johnston	female	50.8
+37103	North Carolina	Jones	female	51.7
+37105	North Carolina	Lee	female	51
+37107	North Carolina	Lenoir	female	52.2
+37109	North Carolina	Lincoln	female	50.4
+37111	North Carolina	McDowell	female	50.1
+37113	North Carolina	Macon	female	51.4
+37115	North Carolina	Madison	female	50.6
+37117	North Carolina	Martin	female	53.4
+37119	North Carolina	Mecklenburg	female	51.7
+37121	North Carolina	Mitchell	female	51.2
+37123	North Carolina	Montgomery	female	51.5
+37125	North Carolina	Moore	female	52.2
+37127	North Carolina	Nash	female	51.7
+37129	North Carolina	New Hanover	female	51.7
+37131	North Carolina	Northampton	female	51.6
+37133	North Carolina	Onslow	female	46.2
+37135	North Carolina	Orange	female	52.3
+37137	North Carolina	Pamlico	female	49.1
+37139	North Carolina	Pasquotank	female	51.2
+37141	North Carolina	Pender	female	50
+37143	North Carolina	Perquimans	female	51.9
+37145	North Carolina	Person	female	51.5
+37147	North Carolina	Pitt	female	52.8
+37149	North Carolina	Polk	female	52
+37151	North Carolina	Randolph	female	50.7
+37153	North Carolina	Richmond	female	50.7
+37155	North Carolina	Robeson	female	51.3
+37157	North Carolina	Rockingham	female	51.8
+37159	North Carolina	Rowan	female	50.7
+37161	North Carolina	Rutherford	female	51.7
+37163	North Carolina	Sampson	female	50.9
+37165	North Carolina	Scotland	female	51.6
+37167	North Carolina	Stanly	female	50.2
+37169	North Carolina	Stokes	female	51.2
+37171	North Carolina	Surry	female	51.1
+37173	North Carolina	Swain	female	51.4
+37175	North Carolina	Transylvania	female	51.8
+37177	North Carolina	Tyrrell	female	45.2
+37179	North Carolina	Union	female	50.7
+37181	North Carolina	Vance	female	53.1
+37183	North Carolina	Wake	female	51.3
+37185	North Carolina	Warren	female	49.4
+37187	North Carolina	Washington	female	53
+37189	North Carolina	Watauga	female	49.9
+37191	North Carolina	Wayne	female	51.1
+37193	North Carolina	Wilkes	female	50.7
+37195	North Carolina	Wilson	female	52.2
+37197	North Carolina	Yadkin	female	50.7
+37199	North Carolina	Yancey	female	50.8
+38001	North Dakota	Adams	female	51.9
+38003	North Dakota	Barnes	female	50.3
+38005	North Dakota	Benson	female	49.1
+38007	North Dakota	Billings	female	46.8
+38009	North Dakota	Bottineau	female	48.1
+38011	North Dakota	Bowman	female	49.5
+38013	North Dakota	Burke	female	47.4
+38015	North Dakota	Burleigh	female	50.7
+38017	North Dakota	Cass	female	49.6
+38019	North Dakota	Cavalier	female	49.2
+38021	North Dakota	Dickey	female	50.4
+38023	North Dakota	Divide	female	48.8
+38025	North Dakota	Dunn	female	47
+38027	North Dakota	Eddy	female	51.9
+38029	North Dakota	Emmons	female	48.4
+38031	North Dakota	Foster	female	49.9
+38033	North Dakota	Golden Valley	female	50.6
+38035	North Dakota	Grand Forks	female	48.6
+38037	North Dakota	Grant	female	50.2
+38039	North Dakota	Griggs	female	49.5
+38041	North Dakota	Hettinger	female	52.1
+38043	North Dakota	Kidder	female	49.1
+38045	North Dakota	LaMoure	female	48.9
+38047	North Dakota	Logan	female	49.3
+38049	North Dakota	McHenry	female	48.2
+38051	North Dakota	McIntosh	female	51.3
+38053	North Dakota	McKenzie	female	48.5
+38055	North Dakota	McLean	female	48.8
+38057	North Dakota	Mercer	female	48.5
+38059	North Dakota	Morton	female	50.2
+38061	North Dakota	Mountrail	female	45.2
+38063	North Dakota	Nelson	female	49
+38065	North Dakota	Oliver	female	47.4
+38067	North Dakota	Pembina	female	49.1
+38069	North Dakota	Pierce	female	49.7
+38071	North Dakota	Ramsey	female	49.9
+38073	North Dakota	Ransom	female	49.3
+38075	North Dakota	Renville	female	48.8
+38077	North Dakota	Richland	female	48.3
+38079	North Dakota	Rolette	female	50.8
+38081	North Dakota	Sargent	female	47
+38083	North Dakota	Sheridan	female	49.7
+38085	North Dakota	Sioux	female	49.5
+38087	North Dakota	Slope	female	46.2
+38089	North Dakota	Stark	female	49.4
+38091	North Dakota	Steele	female	48.4
+38093	North Dakota	Stutsman	female	49.1
+38095	North Dakota	Towner	female	49
+38097	North Dakota	Traill	female	50
+38099	North Dakota	Walsh	female	49.4
+38101	North Dakota	Ward	female	48.9
+38103	North Dakota	Wells	female	50.8
+38105	North Dakota	Williams	female	47.8
+39001	Ohio	Adams	female	50.7
+39003	Ohio	Allen	female	49.6
+39005	Ohio	Ashland	female	51
+39007	Ohio	Ashtabula	female	50
+39009	Ohio	Athens	female	50.1
+39011	Ohio	Auglaize	female	50.4
+39013	Ohio	Belmont	female	49.4
+39015	Ohio	Brown	female	50.5
+39017	Ohio	Butler	female	51
+39019	Ohio	Carroll	female	50.1
+39021	Ohio	Champaign	female	50.5
+39023	Ohio	Clark	female	51.5
+39025	Ohio	Clermont	female	50.7
+39027	Ohio	Clinton	female	51
+39029	Ohio	Columbiana	female	49.7
+39031	Ohio	Coshocton	female	50.6
+39033	Ohio	Crawford	female	51.5
+39035	Ohio	Cuyahoga	female	52.5
+39037	Ohio	Darke	female	50.9
+39039	Ohio	Defiance	female	50.7
+39041	Ohio	Delaware	female	50.6
+39043	Ohio	Erie	female	51.1
+39045	Ohio	Fairfield	female	50.4
+39047	Ohio	Fayette	female	50.7
+39049	Ohio	Franklin	female	51.3
+39051	Ohio	Fulton	female	50.8
+39053	Ohio	Gallia	female	50.6
+39055	Ohio	Geauga	female	50.9
+39057	Ohio	Greene	female	51.1
+39059	Ohio	Guernsey	female	50.9
+39061	Ohio	Hamilton	female	52
+39063	Ohio	Hancock	female	51.3
+39065	Ohio	Hardin	female	50.2
+39067	Ohio	Harrison	female	50.5
+39069	Ohio	Henry	female	50.4
+39071	Ohio	Highland	female	51
+39073	Ohio	Hocking	female	50
+39075	Ohio	Holmes	female	50.1
+39077	Ohio	Huron	female	50.9
+39079	Ohio	Jackson	female	50.9
+39081	Ohio	Jefferson	female	51.9
+39083	Ohio	Knox	female	51.1
+39085	Ohio	Lake	female	51.2
+39087	Ohio	Lawrence	female	51.2
+39089	Ohio	Licking	female	51
+39091	Ohio	Logan	female	50.7
+39093	Ohio	Lorain	female	50.8
+39095	Ohio	Lucas	female	51.6
+39097	Ohio	Madison	female	45.4
+39099	Ohio	Mahoning	female	51.6
+39101	Ohio	Marion	female	47.5
+39103	Ohio	Medina	female	50.7
+39105	Ohio	Meigs	female	51
+39107	Ohio	Mercer	female	50
+39109	Ohio	Miami	female	50.8
+39111	Ohio	Monroe	female	50
+39113	Ohio	Montgomery	female	52
+39115	Ohio	Morgan	female	50.1
+39117	Ohio	Morrow	female	50
+39119	Ohio	Muskingum	female	51.6
+39121	Ohio	Noble	female	42.2
+39123	Ohio	Ottawa	female	50.6
+39125	Ohio	Paulding	female	50.5
+39127	Ohio	Perry	female	50.2
+39129	Ohio	Pickaway	female	47.6
+39131	Ohio	Pike	female	50.5
+39133	Ohio	Portage	female	51.1
+39135	Ohio	Preble	female	50.3
+39137	Ohio	Putnam	female	50
+39139	Ohio	Richland	female	49.3
+39141	Ohio	Ross	female	47.3
+39143	Ohio	Sandusky	female	50.7
+39145	Ohio	Scioto	female	50.6
+39147	Ohio	Seneca	female	50
+39149	Ohio	Shelby	female	50
+39151	Ohio	Stark	female	51.6
+39153	Ohio	Summit	female	51.6
+39155	Ohio	Trumbull	female	51.4
+39157	Ohio	Tuscarawas	female	50.8
+39159	Ohio	Union	female	52.7
+39161	Ohio	Van Wert	female	51.2
+39163	Ohio	Vinton	female	50.3
+39165	Ohio	Warren	female	49.7
+39167	Ohio	Washington	female	51.2
+39169	Ohio	Wayne	female	50.5
+39171	Ohio	Williams	female	50.4
+39173	Ohio	Wood	female	51.1
+39175	Ohio	Wyandot	female	50.7
+40001	Oklahoma	Adair	female	49.9
+40003	Oklahoma	Alfalfa	female	40.5
+40005	Oklahoma	Atoka	female	47.7
+40007	Oklahoma	Beaver	female	49.3
+40009	Oklahoma	Beckham	female	46.6
+40011	Oklahoma	Blaine	female	50.3
+40013	Oklahoma	Bryan	female	51
+40015	Oklahoma	Caddo	female	48.1
+40017	Oklahoma	Canadian	female	50.5
+40019	Oklahoma	Carter	female	51.2
+40021	Oklahoma	Cherokee	female	50.6
+40023	Oklahoma	Choctaw	female	51.8
+40025	Oklahoma	Cimarron	female	50.4
+40027	Oklahoma	Cleveland	female	50
+40029	Oklahoma	Coal	female	50.6
+40031	Oklahoma	Comanche	female	48.4
+40033	Oklahoma	Cotton	female	50
+40035	Oklahoma	Craig	female	49.1
+40037	Oklahoma	Creek	female	50.6
+40039	Oklahoma	Custer	female	50.5
+40041	Oklahoma	Delaware	female	50.7
+40043	Oklahoma	Dewey	female	50.5
+40045	Oklahoma	Ellis	female	51.3
+40047	Oklahoma	Garfield	female	50.7
+40049	Oklahoma	Garvin	female	51.1
+40051	Oklahoma	Grady	female	50.4
+40053	Oklahoma	Grant	female	50.4
+40055	Oklahoma	Greer	female	42.8
+40057	Oklahoma	Harmon	female	51.7
+40059	Oklahoma	Harper	female	50.1
+40061	Oklahoma	Haskell	female	50.1
+40063	Oklahoma	Hughes	female	46.4
+40065	Oklahoma	Jackson	female	50.3
+40067	Oklahoma	Jefferson	female	50.1
+40069	Oklahoma	Johnston	female	51
+40071	Oklahoma	Kay	female	50.7
+40073	Oklahoma	Kingfisher	female	50.3
+40075	Oklahoma	Kiowa	female	50.3
+40077	Oklahoma	Latimer	female	49.1
+40079	Oklahoma	Le Flore	female	49.8
+40081	Oklahoma	Lincoln	female	50.2
+40083	Oklahoma	Logan	female	50.5
+40085	Oklahoma	Love	female	50.7
+40087	Oklahoma	McClain	female	50.2
+40089	Oklahoma	McCurtain	female	51
+40091	Oklahoma	McIntosh	female	50.1
+40093	Oklahoma	Major	female	51.1
+40095	Oklahoma	Marshall	female	50.1
+40097	Oklahoma	Mayes	female	50.4
+40099	Oklahoma	Murray	female	50.2
+40101	Oklahoma	Muskogee	female	51.1
+40103	Oklahoma	Noble	female	50.4
+40105	Oklahoma	Nowata	female	50.8
+40107	Oklahoma	Okfuskee	female	46.7
+40109	Oklahoma	Oklahoma	female	51
+40111	Oklahoma	Okmulgee	female	50.5
+40113	Oklahoma	Osage	female	49.6
+40115	Oklahoma	Ottawa	female	51
+40117	Oklahoma	Pawnee	female	50.1
+40119	Oklahoma	Payne	female	49
+40121	Oklahoma	Pittsburg	female	49.2
+40123	Oklahoma	Pontotoc	female	51.4
+40125	Oklahoma	Pottawatomie	female	52.1
+40127	Oklahoma	Pushmataha	female	50.9
+40129	Oklahoma	Roger Mills	female	49.7
+40131	Oklahoma	Rogers	female	50.4
+40133	Oklahoma	Seminole	female	50.8
+40135	Oklahoma	Sequoyah	female	50.5
+40137	Oklahoma	Stephens	female	51.2
+40139	Oklahoma	Texas	female	47.7
+40141	Oklahoma	Tillman	female	49.8
+40143	Oklahoma	Tulsa	female	51.2
+40145	Oklahoma	Wagoner	female	50.7
+40147	Oklahoma	Washington	female	51.6
+40149	Oklahoma	Washita	female	51
+40151	Oklahoma	Woods	female	46.9
+40153	Oklahoma	Woodward	female	47.5
+41001	Oregon	Baker	female	49.7
+41003	Oregon	Benton	female	49.8
+41005	Oregon	Clackamas	female	50.8
+41007	Oregon	Clatsop	female	50.4
+41009	Oregon	Columbia	female	50
+41011	Oregon	Coos	female	50.7
+41013	Oregon	Crook	female	50.3
+41015	Oregon	Curry	female	50.7
+41017	Oregon	Deschutes	female	50.6
+41019	Oregon	Douglas	female	50.6
+41021	Oregon	Gilliam	female	48.6
+41023	Oregon	Grant	female	50.2
+41025	Oregon	Harney	female	49.4
+41027	Oregon	Hood River	female	50
+41029	Oregon	Jackson	female	51.3
+41031	Oregon	Jefferson	female	48.2
+41033	Oregon	Josephine	female	51.3
+41035	Oregon	Klamath	female	50.3
+41037	Oregon	Lake	female	47
+41039	Oregon	Lane	female	50.9
+41041	Oregon	Lincoln	female	51.5
+41043	Oregon	Linn	female	50.6
+41045	Oregon	Malheur	female	45.7
+41047	Oregon	Marion	female	50.1
+41049	Oregon	Morrow	female	48.4
+41051	Oregon	Multnomah	female	50.5
+41053	Oregon	Polk	female	51.4
+41055	Oregon	Sherman	female	49.2
+41057	Oregon	Tillamook	female	49.6
+41059	Oregon	Umatilla	female	47.8
+41061	Oregon	Union	female	50.7
+41063	Oregon	Wallowa	female	50.7
+41065	Oregon	Wasco	female	50.4
+41067	Oregon	Washington	female	50.8
+41069	Oregon	Wheeler	female	50.6
+41071	Oregon	Yamhill	female	49.7
+42001	Pennsylvania	Adams	female	50.8
+42003	Pennsylvania	Allegheny	female	52
+42005	Pennsylvania	Armstrong	female	50.6
+42007	Pennsylvania	Beaver	female	51.7
+42009	Pennsylvania	Bedford	female	50.3
+42011	Pennsylvania	Berks	female	50.9
+42013	Pennsylvania	Blair	female	51.4
+42015	Pennsylvania	Bradford	female	50.7
+42017	Pennsylvania	Bucks	female	51
+42019	Pennsylvania	Butler	female	50.7
+42021	Pennsylvania	Cambria	female	50.4
+42023	Pennsylvania	Cameron	female	50.9
+42025	Pennsylvania	Carbon	female	50.7
+42027	Pennsylvania	Centre	female	48.1
+42029	Pennsylvania	Chester	female	50.9
+42031	Pennsylvania	Clarion	female	51.5
+42033	Pennsylvania	Clearfield	female	48.2
+42035	Pennsylvania	Clinton	female	50.9
+42037	Pennsylvania	Columbia	female	52
+42039	Pennsylvania	Crawford	female	51.2
+42041	Pennsylvania	Cumberland	female	50.9
+42043	Pennsylvania	Dauphin	female	51.6
+42045	Pennsylvania	Delaware	female	52.1
+42047	Pennsylvania	Elk	female	50.2
+42049	Pennsylvania	Erie	female	50.8
+42051	Pennsylvania	Fayette	female	50.9
+42053	Pennsylvania	Forest	female	33
+42055	Pennsylvania	Franklin	female	51.1
+42057	Pennsylvania	Fulton	female	49.7
+42059	Pennsylvania	Greene	female	48.4
+42061	Pennsylvania	Huntingdon	female	46.9
+42063	Pennsylvania	Indiana	female	50.4
+42065	Pennsylvania	Jefferson	female	50.6
+42067	Pennsylvania	Juniata	female	50.2
+42069	Pennsylvania	Lackawanna	female	51.9
+42071	Pennsylvania	Lancaster	female	51.1
+42073	Pennsylvania	Lawrence	female	51.8
+42075	Pennsylvania	Lebanon	female	51.2
+42077	Pennsylvania	Lehigh	female	51.4
+42079	Pennsylvania	Luzerne	female	51
+42081	Pennsylvania	Lycoming	female	51
+42083	Pennsylvania	McKean	female	49
+42085	Pennsylvania	Mercer	female	51
+42087	Pennsylvania	Mifflin	female	51
+42089	Pennsylvania	Monroe	female	50.7
+42091	Pennsylvania	Montgomery	female	51.5
+42093	Pennsylvania	Montour	female	52
+42095	Pennsylvania	Northampton	female	51.1
+42097	Pennsylvania	Northumberland	female	50.1
+42099	Pennsylvania	Perry	female	50
+42101	Pennsylvania	Philadelphia	female	52.8
+42103	Pennsylvania	Pike	female	50.1
+42105	Pennsylvania	Potter	female	49.8
+42107	Pennsylvania	Schuylkill	female	49.2
+42109	Pennsylvania	Snyder	female	50.8
+42111	Pennsylvania	Somerset	female	48.5
+42113	Pennsylvania	Sullivan	female	48.5
+42115	Pennsylvania	Susquehanna	female	49.7
+42117	Pennsylvania	Tioga	female	50.9
+42119	Pennsylvania	Union	female	45.1
+42121	Pennsylvania	Venango	female	50.9
+42123	Pennsylvania	Warren	female	50
+42125	Pennsylvania	Washington	female	51.4
+42127	Pennsylvania	Wayne	female	47.7
+42129	Pennsylvania	Westmoreland	female	51.3
+42131	Pennsylvania	Wyoming	female	49.9
+42133	Pennsylvania	York	female	50.6
+44001	Rhode Island	Bristol	female	52.1
+44003	Rhode Island	Kent	female	51.8
+44005	Rhode Island	Newport	female	51.2
+44007	Rhode Island	Providence	female	51.7
+44009	Rhode Island	Washington	female	51.5
+45001	South Carolina	Abbeville	female	51.4
+45003	South Carolina	Aiken	female	51.6
+45005	South Carolina	Allendale	female	46.5
+45007	South Carolina	Anderson	female	51.7
+45009	South Carolina	Bamberg	female	52.3
+45011	South Carolina	Barnwell	female	52.2
+45013	South Carolina	Beaufort	female	50.7
+45015	South Carolina	Berkeley	female	50
+45017	South Carolina	Calhoun	female	51.3
+45019	South Carolina	Charleston	female	51.5
+45021	South Carolina	Cherokee	female	51.4
+45023	South Carolina	Chester	female	51.6
+45025	South Carolina	Chesterfield	female	51.4
+45027	South Carolina	Clarendon	female	50.7
+45029	South Carolina	Colleton	female	52
+45031	South Carolina	Darlington	female	52.7
+45033	South Carolina	Dillon	female	52.8
+45035	South Carolina	Dorchester	female	51.4
+45037	South Carolina	Edgefield	female	46
+45039	South Carolina	Fairfield	female	52.1
+45041	South Carolina	Florence	female	53.1
+45043	South Carolina	Georgetown	female	52.4
+45045	South Carolina	Greenville	female	51.4
+45047	South Carolina	Greenwood	female	53.1
+45049	South Carolina	Hampton	female	48.6
+45051	South Carolina	Horry	female	51.1
+45053	South Carolina	Jasper	female	48.2
+45055	South Carolina	Kershaw	female	51.4
+45057	South Carolina	Lancaster	female	50.7
+45059	South Carolina	Laurens	female	51.4
+45061	South Carolina	Lee	female	48.1
+45063	South Carolina	Lexington	female	51.1
+45065	South Carolina	McCormick	female	45.5
+45067	South Carolina	Marion	female	54.2
+45069	South Carolina	Marlboro	female	47.1
+45071	South Carolina	Newberry	female	51.3
+45073	South Carolina	Oconee	female	50.7
+45075	South Carolina	Orangeburg	female	53
+45077	South Carolina	Pickens	female	50
+45079	South Carolina	Richland	female	51.4
+45081	South Carolina	Saluda	female	49.8
+45083	South Carolina	Spartanburg	female	51.5
+45085	South Carolina	Sumter	female	51.8
+45087	South Carolina	Union	female	52.4
+45089	South Carolina	Williamsburg	female	51.4
+45091	South Carolina	York	female	51.7
+46003	South Dakota	Aurora	female	48.8
+46005	South Dakota	Beadle	female	49.6
+46007	South Dakota	Bennett	female	50.3
+46009	South Dakota	Bon Homme	female	41.8
+46011	South Dakota	Brookings	female	48.8
+46013	South Dakota	Brown	female	51.2
+46015	South Dakota	Brule	female	51.3
+46017	South Dakota	Buffalo	female	50.9
+46019	South Dakota	Butte	female	49.7
+46021	South Dakota	Campbell	female	49
+46023	South Dakota	Charles Mix	female	50.4
+46025	South Dakota	Clark	female	49.5
+46027	South Dakota	Clay	female	51.3
+46029	South Dakota	Codington	female	49.9
+46031	South Dakota	Corson	female	49.8
+46033	South Dakota	Custer	female	49.8
+46035	South Dakota	Davison	female	50.4
+46037	South Dakota	Day	female	49.6
+46039	South Dakota	Deuel	female	48.6
+46041	South Dakota	Dewey	female	50.6
+46043	South Dakota	Douglas	female	50.3
+46045	South Dakota	Edmunds	female	49.4
+46047	South Dakota	Fall River	female	49.1
+46049	South Dakota	Faulk	female	50.1
+46051	South Dakota	Grant	female	49.2
+46053	South Dakota	Gregory	female	49.6
+46055	South Dakota	Haakon	female	49.4
+46057	South Dakota	Hamlin	female	49.7
+46059	South Dakota	Hand	female	50.2
+46061	South Dakota	Hanson	female	49.6
+46063	South Dakota	Harding	female	47.5
+46065	South Dakota	Hughes	female	51.1
+46067	South Dakota	Hutchinson	female	51.1
+46069	South Dakota	Hyde	female	48.5
+46071	South Dakota	Jackson	female	49.7
+46073	South Dakota	Jerauld	female	50.9
+46075	South Dakota	Jones	female	50.4
+46077	South Dakota	Kingsbury	female	49.1
+46079	South Dakota	Lake	female	48.9
+46081	South Dakota	Lawrence	female	50.3
+46083	South Dakota	Lincoln	female	50.4
+46085	South Dakota	Lyman	female	47.4
+46087	South Dakota	McCook	female	50
+46089	South Dakota	McPherson	female	51.1
+46091	South Dakota	Marshall	female	45.9
+46093	South Dakota	Meade	female	48.7
+46095	South Dakota	Mellette	female	49.4
+46097	South Dakota	Miner	female	49.6
+46099	South Dakota	Minnehaha	female	50.1
+46101	South Dakota	Moody	female	50
+46103	South Dakota	Pennington	female	50
+46105	South Dakota	Perkins	female	49.2
+46107	South Dakota	Potter	female	51
+46109	South Dakota	Roberts	female	49.8
+46111	South Dakota	Sanborn	female	47.7
+46113	South Dakota	Shannon	female	51
+46115	South Dakota	Spink	female	49.8
+46117	South Dakota	Stanley	female	49.6
+46119	South Dakota	Sully	female	46.3
+46121	South Dakota	Todd	female	50.6
+46123	South Dakota	Tripp	female	50.6
+46125	South Dakota	Turner	female	49.5
+46127	South Dakota	Union	female	49.6
+46129	South Dakota	Walworth	female	51
+46135	South Dakota	Yankton	female	48.3
+46137	South Dakota	Ziebach	female	50.9
+47001	Tennessee	Anderson	female	51.6
+47003	Tennessee	Bedford	female	50.5
+47005	Tennessee	Benton	female	50.9
+47007	Tennessee	Bledsoe	female	46
+47009	Tennessee	Blount	female	51.7
+47011	Tennessee	Bradley	female	51.3
+47013	Tennessee	Campbell	female	51.2
+47015	Tennessee	Cannon	female	50.6
+47017	Tennessee	Carroll	female	51.8
+47019	Tennessee	Carter	female	51.1
+47021	Tennessee	Cheatham	female	50.1
+47023	Tennessee	Chester	female	51.9
+47025	Tennessee	Claiborne	female	51.1
+47027	Tennessee	Clay	female	50.6
+47029	Tennessee	Cocke	female	51.5
+47031	Tennessee	Coffee	female	51.4
+47033	Tennessee	Crockett	female	52.1
+47035	Tennessee	Cumberland	female	51.2
+47037	Tennessee	Davidson	female	51.6
+47039	Tennessee	Decatur	female	50.9
+47041	Tennessee	DeKalb	female	50.4
+47043	Tennessee	Dickson	female	51
+47045	Tennessee	Dyer	female	51.8
+47047	Tennessee	Fayette	female	50.3
+47049	Tennessee	Fentress	female	50.8
+47051	Tennessee	Franklin	female	51.2
+47053	Tennessee	Gibson	female	52.4
+47055	Tennessee	Giles	female	51.3
+47057	Tennessee	Grainger	female	50
+47059	Tennessee	Greene	female	51
+47061	Tennessee	Grundy	female	50.6
+47063	Tennessee	Hamblen	female	51.2
+47065	Tennessee	Hamilton	female	51.9
+47067	Tennessee	Hancock	female	50.6
+47069	Tennessee	Hardeman	female	45.5
+47071	Tennessee	Hardin	female	51.4
+47073	Tennessee	Hawkins	female	51
+47075	Tennessee	Haywood	female	53.1
+47077	Tennessee	Henderson	female	51.8
+47079	Tennessee	Henry	female	51.6
+47081	Tennessee	Hickman	female	47.6
+47083	Tennessee	Houston	female	50.6
+47085	Tennessee	Humphreys	female	50.8
+47087	Tennessee	Jackson	female	50.1
+47089	Tennessee	Jefferson	female	50.9
+47091	Tennessee	Johnson	female	46.3
+47093	Tennessee	Knox	female	51.3
+47095	Tennessee	Lake	female	36.4
+47097	Tennessee	Lauderdale	female	47.5
+47099	Tennessee	Lawrence	female	51.1
+47101	Tennessee	Lewis	female	50.9
+47103	Tennessee	Lincoln	female	51.2
+47105	Tennessee	Loudon	female	51
+47107	Tennessee	McMinn	female	51.4
+47109	Tennessee	McNairy	female	50.9
+47111	Tennessee	Macon	female	50.8
+47113	Tennessee	Madison	female	52.5
+47115	Tennessee	Marion	female	50.8
+47117	Tennessee	Marshall	female	50.9
+47119	Tennessee	Maury	female	51.7
+47121	Tennessee	Meigs	female	50.5
+47123	Tennessee	Monroe	female	50.4
+47125	Tennessee	Montgomery	female	50.9
+47127	Tennessee	Moore	female	50.6
+47129	Tennessee	Morgan	female	45
+47131	Tennessee	Obion	female	51.8
+47133	Tennessee	Overton	female	50.8
+47135	Tennessee	Perry	female	49.8
+47137	Tennessee	Pickett	female	50.1
+47139	Tennessee	Polk	female	50.5
+47141	Tennessee	Putnam	female	50.6
+47143	Tennessee	Rhea	female	50.8
+47145	Tennessee	Roane	female	50.9
+47147	Tennessee	Robertson	female	50.8
+47149	Tennessee	Rutherford	female	50.6
+47151	Tennessee	Scott	female	50.8
+47153	Tennessee	Sequatchie	female	50.8
+47155	Tennessee	Sevier	female	50.8
+47157	Tennessee	Shelby	female	52.3
+47159	Tennessee	Smith	female	50.6
+47161	Tennessee	Stewart	female	50.2
+47163	Tennessee	Sullivan	female	51.6
+47165	Tennessee	Sumner	female	51.2
+47167	Tennessee	Tipton	female	51
+47169	Tennessee	Trousdale	female	50.5
+47171	Tennessee	Unicoi	female	51.1
+47173	Tennessee	Union	female	50.1
+47175	Tennessee	Van Buren	female	50.2
+47177	Tennessee	Warren	female	50.6
+47179	Tennessee	Washington	female	51.1
+47181	Tennessee	Wayne	female	44.9
+47183	Tennessee	Weakley	female	51.1
+47185	Tennessee	White	female	51
+47187	Tennessee	Williamson	female	51.2
+47189	Tennessee	Wilson	female	51
+48001	Texas	Anderson	female	39.2
+48003	Texas	Andrews	female	50.1
+48005	Texas	Angelina	female	51
+48007	Texas	Aransas	female	50.5
+48009	Texas	Archer	female	49.7
+48011	Texas	Armstrong	female	51.6
+48013	Texas	Atascosa	female	50.6
+48015	Texas	Austin	female	50.3
+48017	Texas	Bailey	female	48.8
+48019	Texas	Bandera	female	50.3
+48021	Texas	Bastrop	female	48.8
+48023	Texas	Baylor	female	52.2
+48025	Texas	Bee	female	40.3
+48027	Texas	Bell	female	50.5
+48029	Texas	Bexar	female	50.9
+48031	Texas	Blanco	female	49.2
+48033	Texas	Borden	female	47.9
+48035	Texas	Bosque	female	50.6
+48037	Texas	Bowie	female	49.5
+48039	Texas	Brazoria	female	49.3
+48041	Texas	Brazos	female	49.3
+48043	Texas	Brewster	female	49.9
+48045	Texas	Briscoe	female	50.3
+48047	Texas	Brooks	female	50.5
+48049	Texas	Brown	female	50.7
+48051	Texas	Burleson	female	50.4
+48053	Texas	Burnet	female	50.8
+48055	Texas	Caldwell	female	49.7
+48057	Texas	Calhoun	female	49.2
+48059	Texas	Callahan	female	51.1
+48061	Texas	Cameron	female	51.8
+48063	Texas	Camp	female	50.9
+48065	Texas	Carson	female	50.9
+48067	Texas	Cass	female	51.4
+48069	Texas	Castro	female	49.1
+48071	Texas	Chambers	female	49.6
+48073	Texas	Cherokee	female	49.1
+48075	Texas	Childress	female	41.6
+48077	Texas	Clay	female	50.5
+48079	Texas	Cochran	female	51.2
+48081	Texas	Coke	female	51.2
+48083	Texas	Coleman	female	50.3
+48085	Texas	Collin	female	50.8
+48087	Texas	Collingsworth	female	50.6
+48089	Texas	Colorado	female	50.4
+48091	Texas	Comal	female	50.9
+48093	Texas	Comanche	female	50.5
+48095	Texas	Concho	female	31.5
+48097	Texas	Cooke	female	50.6
+48099	Texas	Coryell	female	51
+48101	Texas	Cottle	female	53.4
+48103	Texas	Crane	female	50.8
+48105	Texas	Crockett	female	50.9
+48107	Texas	Crosby	female	51.8
+48109	Texas	Culberson	female	51.3
+48111	Texas	Dallam	female	47.9
+48113	Texas	Dallas	female	50.5
+48115	Texas	Dawson	female	43.3
+48117	Texas	Deaf Smith	female	50.2
+48119	Texas	Delta	female	50.9
+48121	Texas	Denton	female	50.8
+48123	Texas	DeWitt	female	47.8
+48125	Texas	Dickens	female	42.9
+48127	Texas	Dimmit	female	51.6
+48129	Texas	Donley	female	50.6
+48131	Texas	Duval	female	48.4
+48133	Texas	Eastland	female	51
+48135	Texas	Ector	female	50.4
+48137	Texas	Edwards	female	49.5
+48139	Texas	Ellis	female	50.6
+48141	Texas	El Paso	female	51.4
+48143	Texas	Erath	female	50.7
+48145	Texas	Falls	female	52.4
+48147	Texas	Fannin	female	47
+48149	Texas	Fayette	female	50.8
+48151	Texas	Fisher	female	50.5
+48153	Texas	Floyd	female	50.5
+48155	Texas	Foard	female	51.9
+48157	Texas	Fort Bend	female	50.8
+48159	Texas	Franklin	female	51.1
+48161	Texas	Freestone	female	47.6
+48163	Texas	Frio	female	41.7
+48165	Texas	Gaines	female	49.6
+48167	Texas	Galveston	female	50.5
+48169	Texas	Garza	female	37
+48171	Texas	Gillespie	female	51.7
+48173	Texas	Glasscock	female	47.2
+48175	Texas	Goliad	female	50.1
+48177	Texas	Gonzales	female	49.6
+48179	Texas	Gray	female	48.1
+48181	Texas	Grayson	female	51.3
+48183	Texas	Gregg	female	51.1
+48185	Texas	Grimes	female	45.6
+48187	Texas	Guadalupe	female	50.8
+48189	Texas	Hale	female	48.5
+48191	Texas	Hall	female	50.1
+48193	Texas	Hamilton	female	50.6
+48195	Texas	Hansford	female	49.8
+48197	Texas	Hardeman	female	50.3
+48199	Texas	Hardin	female	50.6
+48201	Texas	Harris	female	50.2
+48203	Texas	Harrison	female	50.9
+48205	Texas	Hartley	female	38.7
+48207	Texas	Haskell	female	47.5
+48209	Texas	Hays	female	50.2
+48211	Texas	Hemphill	female	49.4
+48213	Texas	Henderson	female	51.1
+48215	Texas	Hidalgo	female	51.2
+48217	Texas	Hill	female	51.1
+48219	Texas	Hockley	female	50.7
+48221	Texas	Hood	female	50.7
+48223	Texas	Hopkins	female	50.4
+48225	Texas	Houston	female	46.3
+48227	Texas	Howard	female	43.6
+48229	Texas	Hudspeth	female	49.1
+48231	Texas	Hunt	female	50.4
+48233	Texas	Hutchinson	female	50.1
+48235	Texas	Irion	female	50.9
+48237	Texas	Jack	female	44.4
+48239	Texas	Jackson	female	50.5
+48241	Texas	Jasper	female	50.7
+48243	Texas	Jeff Davis	female	49.7
+48245	Texas	Jefferson	female	48.9
+48247	Texas	Jim Hogg	female	50.5
+48249	Texas	Jim Wells	female	50.5
+48251	Texas	Johnson	female	50
+48253	Texas	Jones	female	38.5
+48255	Texas	Karnes	female	40.2
+48257	Texas	Kaufman	female	50.8
+48259	Texas	Kendall	female	51.2
+48261	Texas	Kenedy	female	47.1
+48263	Texas	Kent	female	51.5
+48265	Texas	Kerr	female	51.6
+48267	Texas	Kimble	female	50.4
+48269	Texas	King	female	51.8
+48271	Texas	Kinney	female	45.4
+48273	Texas	Kleberg	female	49.4
+48275	Texas	Knox	female	50.9
+48277	Texas	Lamar	female	51.8
+48279	Texas	Lamb	female	50
+48281	Texas	Lampasas	female	50.7
+48283	Texas	La Salle	female	40.7
+48285	Texas	Lavaca	female	51.1
+48287	Texas	Lee	female	49.4
+48289	Texas	Leon	female	50.3
+48291	Texas	Liberty	female	50.9
+48293	Texas	Limestone	female	48.2
+48295	Texas	Lipscomb	female	49.6
+48297	Texas	Live Oak	female	45.9
+48299	Texas	Llano	female	51.7
+48301	Texas	Loving	female	48.9
+48303	Texas	Lubbock	female	50.6
+48305	Texas	Lynn	female	50.4
+48307	Texas	McCulloch	female	50.7
+48309	Texas	McLennan	female	51.3
+48311	Texas	McMullen	female	49.1
+48313	Texas	Madison	female	42.4
+48315	Texas	Marion	female	51
+48317	Texas	Martin	female	49.5
+48319	Texas	Mason	female	50.6
+48321	Texas	Matagorda	female	50
+48323	Texas	Maverick	female	51
+48325	Texas	Medina	female	48.6
+48327	Texas	Menard	female	50.1
+48329	Texas	Midland	female	50.7
+48331	Texas	Milam	female	50.7
+48333	Texas	Mills	female	50.9
+48335	Texas	Mitchell	female	38.9
+48337	Texas	Montague	female	50.9
+48339	Texas	Montgomery	female	50.5
+48341	Texas	Moore	female	48.5
+48343	Texas	Morris	female	51.9
+48345	Texas	Motley	female	48.6
+48347	Texas	Nacogdoches	female	52.2
+48349	Texas	Navarro	female	50.5
+48351	Texas	Newton	female	48.7
+48353	Texas	Nolan	female	50.2
+48355	Texas	Nueces	female	50.9
+48357	Texas	Ochiltree	female	49
+48359	Texas	Oldham	female	49.5
+48361	Texas	Orange	female	50.4
+48363	Texas	Palo Pinto	female	51
+48365	Texas	Panola	female	50.4
+48367	Texas	Parker	female	49.4
+48369	Texas	Parmer	female	48.7
+48371	Texas	Pecos	female	43.7
+48373	Texas	Polk	female	46.6
+48375	Texas	Potter	female	48.8
+48377	Texas	Presidio	female	50.7
+48379	Texas	Rains	female	49.9
+48381	Texas	Randall	female	51.3
+48383	Texas	Reagan	female	48.2
+48385	Texas	Real	female	50.4
+48387	Texas	Red River	female	51.4
+48389	Texas	Reeves	female	39.9
+48391	Texas	Refugio	female	50.2
+48393	Texas	Roberts	female	51.8
+48395	Texas	Robertson	female	50.6
+48397	Texas	Rockwall	female	50.8
+48399	Texas	Runnels	female	50.5
+48401	Texas	Rusk	female	47.2
+48403	Texas	Sabine	female	51.1
+48405	Texas	San Augustine	female	51.1
+48407	Texas	San Jacinto	female	50
+48409	Texas	San Patricio	female	50.5
+48411	Texas	San Saba	female	45
+48413	Texas	Schleicher	female	49.8
+48415	Texas	Scurry	female	46.6
+48417	Texas	Shackelford	female	51.4
+48419	Texas	Shelby	female	50.4
+48421	Texas	Sherman	female	48.8
+48423	Texas	Smith	female	51.6
+48425	Texas	Somervell	female	51.1
+48427	Texas	Starr	female	51.6
+48429	Texas	Stephens	female	48.3
+48431	Texas	Sterling	female	49.3
+48433	Texas	Stonewall	female	51.9
+48435	Texas	Sutton	female	50.6
+48437	Texas	Swisher	female	46.9
+48439	Texas	Tarrant	female	50.9
+48441	Texas	Taylor	female	51.4
+48443	Texas	Terrell	female	48.2
+48445	Texas	Terry	female	46.9
+48447	Texas	Throckmorton	female	51.2
+48449	Texas	Titus	female	50.6
+48451	Texas	Tom Green	female	50.9
+48453	Texas	Travis	female	49.5
+48455	Texas	Trinity	female	51.3
+48457	Texas	Tyler	female	46.2
+48459	Texas	Upshur	female	50.5
+48461	Texas	Upton	female	49.6
+48463	Texas	Uvalde	female	50.9
+48465	Texas	Val Verde	female	49.7
+48467	Texas	Van Zandt	female	50.9
+48469	Texas	Victoria	female	51.2
+48471	Texas	Walker	female	41.2
+48473	Texas	Waller	female	50.4
+48475	Texas	Ward	female	51.5
+48477	Texas	Washington	female	51
+48479	Texas	Webb	female	51.4
+48481	Texas	Wharton	female	50.9
+48483	Texas	Wheeler	female	50.5
+48485	Texas	Wichita	female	48.7
+48487	Texas	Wilbarger	female	50.1
+48489	Texas	Willacy	female	45.6
+48491	Texas	Williamson	female	50.8
+48493	Texas	Wilson	female	50.3
+48495	Texas	Winkler	female	49.5
+48497	Texas	Wise	female	49.6
+48499	Texas	Wood	female	50.9
+48501	Texas	Yoakum	female	50.3
+48503	Texas	Young	female	50.7
+48505	Texas	Zapata	female	49.7
+48507	Texas	Zavala	female	50.4
+49001	Utah	Beaver	female	48.3
+49003	Utah	Box Elder	female	49.5
+49005	Utah	Cache	female	50.4
+49007	Utah	Carbon	female	50.4
+49009	Utah	Daggett	female	44.5
+49011	Utah	Davis	female	49.8
+49013	Utah	Duchesne	female	49.2
+49015	Utah	Emery	female	49.2
+49017	Utah	Garfield	female	48.1
+49019	Utah	Grand	female	49.9
+49021	Utah	Iron	female	50.3
+49023	Utah	Juab	female	48.9
+49025	Utah	Kane	female	50.7
+49027	Utah	Millard	female	49
+49029	Utah	Morgan	female	49.8
+49031	Utah	Piute	female	49.2
+49033	Utah	Rich	female	48.5
+49035	Utah	Salt Lake	female	49.7
+49037	Utah	San Juan	female	49.6
+49039	Utah	Sanpete	female	47.7
+49041	Utah	Sevier	female	49.4
+49043	Utah	Summit	female	48.5
+49045	Utah	Tooele	female	49.6
+49047	Utah	Uintah	female	49.2
+49049	Utah	Utah	female	49.8
+49051	Utah	Wasatch	female	49.2
+49053	Utah	Washington	female	50.5
+49055	Utah	Wayne	female	49.8
+49057	Utah	Weber	female	49.8
+50001	Vermont	Addison	female	50.1
+50003	Vermont	Bennington	female	51.5
+50005	Vermont	Caledonia	female	50.3
+50007	Vermont	Chittenden	female	51.2
+50009	Vermont	Essex	female	49.3
+50011	Vermont	Franklin	female	50.4
+50013	Vermont	Grand Isle	female	49.9
+50015	Vermont	Lamoille	female	50.1
+50017	Vermont	Orange	female	50.1
+50019	Vermont	Orleans	female	49.8
+50021	Vermont	Rutland	female	50.6
+50023	Vermont	Washington	female	50.6
+50025	Vermont	Windham	female	50.8
+50027	Vermont	Windsor	female	51.1
+51001	Virginia	Accomack	female	51.2
+51003	Virginia	Albemarle	female	52
+51005	Virginia	Alleghany	female	51.1
+51007	Virginia	Amelia	female	51
+51009	Virginia	Amherst	female	52.3
+51011	Virginia	Appomattox	female	51.3
+51013	Virginia	Arlington	female	49.9
+51015	Virginia	Augusta	female	49.3
+51017	Virginia	Bath	female	49.6
+51019	Virginia	Bedford	female	50.4
+51021	Virginia	Bland	female	44.8
+51023	Virginia	Botetourt	female	50.5
+51025	Virginia	Brunswick	female	47.6
+51027	Virginia	Buchanan	female	48.8
+51029	Virginia	Buckingham	female	44.8
+51031	Virginia	Campbell	female	51.3
+51033	Virginia	Caroline	female	50.9
+51035	Virginia	Carroll	female	50.6
+51036	Virginia	Charles City	female	50.6
+51037	Virginia	Charlotte	female	50.9
+51041	Virginia	Chesterfield	female	51.9
+51043	Virginia	Clarke	female	50.1
+51045	Virginia	Craig	female	50.4
+51047	Virginia	Culpeper	female	49.3
+51049	Virginia	Cumberland	female	51.6
+51051	Virginia	Dickenson	female	49.9
+51053	Virginia	Dinwiddie	female	50.8
+51057	Virginia	Essex	female	52.9
+51059	Virginia	Fairfax	female	50.5
+51061	Virginia	Fauquier	female	50.7
+51063	Virginia	Floyd	female	49.9
+51065	Virginia	Fluvanna	female	54.2
+51067	Virginia	Franklin	female	50.7
+51069	Virginia	Frederick	female	50.3
+51071	Virginia	Giles	female	51
+51073	Virginia	Gloucester	female	50.6
+51075	Virginia	Goochland	female	50.4
+51077	Virginia	Grayson	female	51
+51079	Virginia	Greene	female	50.6
+51081	Virginia	Greensville	female	37.4
+51083	Virginia	Halifax	female	52.3
+51085	Virginia	Hanover	female	50.9
+51087	Virginia	Henrico	female	52.9
+51089	Virginia	Henry	female	51.8
+51091	Virginia	Highland	female	50.5
+51093	Virginia	Isle of Wight	female	51.3
+51095	Virginia	James City	female	51.7
+51097	Virginia	King and Queen	female	50.3
+51099	Virginia	King George	female	49.6
+51101	Virginia	King William	female	51.2
+51103	Virginia	Lancaster	female	52.9
+51105	Virginia	Lee	female	47.8
+51107	Virginia	Loudoun	female	50.5
+51109	Virginia	Louisa	female	50.7
+51111	Virginia	Lunenburg	female	46.8
+51113	Virginia	Madison	female	51.3
+51115	Virginia	Mathews	female	51.3
+51117	Virginia	Mecklenburg	female	50.5
+51119	Virginia	Middlesex	female	50.5
+51121	Virginia	Montgomery	female	48.2
+51125	Virginia	Nelson	female	51.2
+51127	Virginia	New Kent	female	49.2
+51131	Virginia	Northampton	female	52.3
+51133	Virginia	Northumberland	female	51.3
+51135	Virginia	Nottoway	female	47.1
+51137	Virginia	Orange	female	51
+51139	Virginia	Page	female	50.8
+51141	Virginia	Patrick	female	51
+51143	Virginia	Pittsylvania	female	51
+51145	Virginia	Powhatan	female	46.1
+51147	Virginia	Prince Edward	female	50.3
+51149	Virginia	Prince George	female	45.3
+51153	Virginia	Prince William	female	50.2
+51155	Virginia	Pulaski	female	50.5
+51157	Virginia	Rappahannock	female	50
+51159	Virginia	Richmond	female	43.6
+51161	Virginia	Roanoke	female	52.2
+51163	Virginia	Rockbridge	female	50.7
+51165	Virginia	Rockingham	female	50.9
+51167	Virginia	Russell	female	51.1
+51169	Virginia	Scott	female	50.2
+51171	Virginia	Shenandoah	female	51.2
+51173	Virginia	Smyth	female	51.2
+51175	Virginia	Southampton	female	48.3
+51177	Virginia	Spotsylvania	female	51.1
+51179	Virginia	Stafford	female	49.8
+51181	Virginia	Surry	female	50.7
+51183	Virginia	Sussex	female	41.1
+51185	Virginia	Tazewell	female	50.5
+51187	Virginia	Warren	female	50.2
+51191	Virginia	Washington	female	50.8
+51193	Virginia	Westmoreland	female	51.1
+51195	Virginia	Wise	female	48.2
+51197	Virginia	Wythe	female	51.2
+51199	Virginia	York	female	51.2
+51510	Virginia	Alexandria City	female	51.7
+51515	Virginia	Bedford City	female	53.9
+51520	Virginia	Bristol City	female	53
+51530	Virginia	Buena Vista City	female	53.2
+51540	Virginia	Charlottesville City	female	52.1
+51550	Virginia	Chesapeake City	female	51.4
+51570	Virginia	Colonial Heights City	female	53.8
+51580	Virginia	Covington City	female	51.1
+51590	Virginia	Danville City	female	54.2
+51595	Virginia	Emporia City	female	53.1
+51600	Virginia	Fairfax City	female	51
+51610	Virginia	Falls Church City	female	50.8
+51620	Virginia	Franklin City	female	55.1
+51630	Virginia	Fredericksburg City	female	54.2
+51640	Virginia	Galax City	female	53.4
+51650	Virginia	Hampton City	female	52.1
+51660	Virginia	Harrisonburg City	female	53
+51670	Virginia	Hopewell City	female	53.4
+51678	Virginia	Lexington City	female	44.6
+51680	Virginia	Lynchburg City	female	53
+51683	Virginia	Manassas City	female	49.6
+51685	Virginia	Manassas Park City	female	49.3
+51690	Virginia	Martinsville City	female	54.6
+51700	Virginia	Newport News City	female	51.7
+51710	Virginia	Norfolk City	female	48.3
+51720	Virginia	Norton City	female	53.6
+51730	Virginia	Petersburg City	female	53.7
+51735	Virginia	Poquoson City	female	50.6
+51740	Virginia	Portsmouth City	female	51.9
+51750	Virginia	Radford City	female	53
+51760	Virginia	Richmond City	female	52.3
+51770	Virginia	Roanoke City	female	52.2
+51775	Virginia	Salem City	female	52.4
+51790	Virginia	Staunton City	female	54.6
+51800	Virginia	Suffolk City	female	51.9
+51810	Virginia	Virginia Beach City	female	51
+51820	Virginia	Waynesboro City	female	52.5
+51830	Virginia	Williamsburg City	female	53.2
+51840	Virginia	Winchester City	female	50.5
+53001	Washington	Adams	female	49
+53003	Washington	Asotin	female	52
+53005	Washington	Benton	female	49.9
+53007	Washington	Chelan	female	50.1
+53009	Washington	Clallam	female	50.3
+53011	Washington	Clark	female	50.6
+53013	Washington	Columbia	female	50.3
+53015	Washington	Cowlitz	female	50.5
+53017	Washington	Douglas	female	49.8
+53019	Washington	Ferry	female	48.2
+53021	Washington	Franklin	female	47.7
+53023	Washington	Garfield	female	51.2
+53025	Washington	Grant	female	49.1
+53027	Washington	Grays Harbor	female	48.5
+53029	Washington	Island	female	50.5
+53031	Washington	Jefferson	female	50.4
+53033	Washington	King	female	50.1
+53035	Washington	Kitsap	female	49.1
+53037	Washington	Kittitas	female	49.5
+53039	Washington	Klickitat	female	49.6
+53041	Washington	Lewis	female	50
+53043	Washington	Lincoln	female	50
+53045	Washington	Mason	female	48.3
+53047	Washington	Okanogan	female	49.5
+53049	Washington	Pacific	female	49.8
+53051	Washington	Pend Oreille	female	49.3
+53053	Washington	Pierce	female	50.3
+53055	Washington	San Juan	female	51.5
+53057	Washington	Skagit	female	50.4
+53059	Washington	Skamania	female	49.7
+53061	Washington	Snohomish	female	49.9
+53063	Washington	Spokane	female	50.5
+53065	Washington	Stevens	female	49.8
+53067	Washington	Thurston	female	51.1
+53069	Washington	Wahkiakum	female	49.6
+53071	Washington	Walla Walla	female	49.2
+53073	Washington	Whatcom	female	50.4
+53075	Washington	Whitman	female	49
+53077	Washington	Yakima	female	49.9
+54001	West Virginia	Barbour	female	50.6
+54003	West Virginia	Berkeley	female	50.5
+54005	West Virginia	Boone	female	50.3
+54007	West Virginia	Braxton	female	49.8
+54009	West Virginia	Brooke	female	51.3
+54011	West Virginia	Cabell	female	51.3
+54013	West Virginia	Calhoun	female	50
+54015	West Virginia	Clay	female	50.4
+54017	West Virginia	Doddridge	female	46.3
+54019	West Virginia	Fayette	female	49.8
+54021	West Virginia	Gilmer	female	39.6
+54023	West Virginia	Grant	female	50.3
+54025	West Virginia	Greenbrier	female	51
+54027	West Virginia	Hampshire	female	49.3
+54029	West Virginia	Hancock	female	51.8
+54031	West Virginia	Hardy	female	49.7
+54033	West Virginia	Harrison	female	51.3
+54035	West Virginia	Jackson	female	50.7
+54037	West Virginia	Jefferson	female	50.4
+54039	West Virginia	Kanawha	female	51.9
+54041	West Virginia	Lewis	female	50.6
+54043	West Virginia	Lincoln	female	50.2
+54045	West Virginia	Logan	female	50.6
+54047	West Virginia	McDowell	female	50.6
+54049	West Virginia	Marion	female	51.1
+54051	West Virginia	Marshall	female	51.3
+54053	West Virginia	Mason	female	51.8
+54055	West Virginia	Mercer	female	52.2
+54057	West Virginia	Mineral	female	50.4
+54059	West Virginia	Mingo	female	51
+54061	West Virginia	Monongalia	female	48.5
+54063	West Virginia	Monroe	female	50.6
+54065	West Virginia	Morgan	female	50.3
+54067	West Virginia	Nicholas	female	50.7
+54069	West Virginia	Ohio	female	52.4
+54071	West Virginia	Pendleton	female	49.3
+54073	West Virginia	Pleasants	female	46.4
+54075	West Virginia	Pocahontas	female	48.5
+54077	West Virginia	Preston	female	48.5
+54079	West Virginia	Putnam	female	50.8
+54081	West Virginia	Raleigh	female	50
+54083	West Virginia	Randolph	female	48.4
+54085	West Virginia	Ritchie	female	49.9
+54087	West Virginia	Roane	female	50.3
+54089	West Virginia	Summers	female	55.2
+54091	West Virginia	Taylor	female	49.4
+54093	West Virginia	Tucker	female	49.9
+54095	West Virginia	Tyler	female	50.8
+54097	West Virginia	Upshur	female	50.8
+54099	West Virginia	Wayne	female	51.2
+54101	West Virginia	Webster	female	50.4
+54103	West Virginia	Wetzel	female	50.9
+54105	West Virginia	Wirt	female	49.9
+54107	West Virginia	Wood	female	51.8
+54109	West Virginia	Wyoming	female	50.2
+55001	Wisconsin	Adams	female	46.1
+55003	Wisconsin	Ashland	female	50.1
+55005	Wisconsin	Barron	female	50.2
+55007	Wisconsin	Bayfield	female	48.8
+55009	Wisconsin	Brown	female	50.5
+55011	Wisconsin	Buffalo	female	49.2
+55013	Wisconsin	Burnett	female	49.3
+55015	Wisconsin	Calumet	female	49.9
+55017	Wisconsin	Chippewa	female	48.1
+55019	Wisconsin	Clark	female	49.3
+55021	Wisconsin	Columbia	female	49.2
+55023	Wisconsin	Crawford	female	48.6
+55025	Wisconsin	Dane	female	50.5
+55027	Wisconsin	Dodge	female	47.3
+55029	Wisconsin	Door	female	50.7
+55031	Wisconsin	Douglas	female	50
+55033	Wisconsin	Dunn	female	49.6
+55035	Wisconsin	Eau Claire	female	51
+55037	Wisconsin	Florence	female	48.6
+55039	Wisconsin	Fond du Lac	female	50.8
+55041	Wisconsin	Forest	female	49.3
+55043	Wisconsin	Grant	female	47.9
+55045	Wisconsin	Green	female	50.5
+55047	Wisconsin	Green Lake	female	50
+55049	Wisconsin	Iowa	female	49.9
+55051	Wisconsin	Iron	female	49.9
+55053	Wisconsin	Jackson	female	46.8
+55055	Wisconsin	Jefferson	female	50.2
+55057	Wisconsin	Juneau	female	47.3
+55059	Wisconsin	Kenosha	female	50.5
+55061	Wisconsin	Kewaunee	female	49.2
+55063	Wisconsin	La Crosse	female	51.1
+55065	Wisconsin	Lafayette	female	49
+55067	Wisconsin	Langlade	female	49.8
+55069	Wisconsin	Lincoln	female	49.8
+55071	Wisconsin	Manitowoc	female	50.2
+55073	Wisconsin	Marathon	female	49.8
+55075	Wisconsin	Marinette	female	50.4
+55077	Wisconsin	Marquette	female	49.1
+55078	Wisconsin	Menominee	female	50
+55079	Wisconsin	Milwaukee	female	51.6
+55081	Wisconsin	Monroe	female	49.2
+55083	Wisconsin	Oconto	female	49.1
+55085	Wisconsin	Oneida	female	50
+55087	Wisconsin	Outagamie	female	50.1
+55089	Wisconsin	Ozaukee	female	51
+55091	Wisconsin	Pepin	female	49.5
+55093	Wisconsin	Pierce	female	50.3
+55095	Wisconsin	Polk	female	49.7
+55097	Wisconsin	Portage	female	50
+55099	Wisconsin	Price	female	49.3
+55101	Wisconsin	Racine	female	50.4
+55103	Wisconsin	Richland	female	49.7
+55105	Wisconsin	Rock	female	50.9
+55107	Wisconsin	Rusk	female	50.1
+55109	Wisconsin	St. Croix	female	50
+55111	Wisconsin	Sauk	female	50.1
+55113	Wisconsin	Sawyer	female	49.1
+55115	Wisconsin	Shawano	female	50
+55117	Wisconsin	Sheboygan	female	49.7
+55119	Wisconsin	Taylor	female	48.9
+55121	Wisconsin	Trempealeau	female	49.3
+55123	Wisconsin	Vernon	female	50
+55125	Wisconsin	Vilas	female	49.4
+55127	Wisconsin	Walworth	female	49.9
+55129	Wisconsin	Washburn	female	50.3
+55131	Wisconsin	Washington	female	50.4
+55133	Wisconsin	Waukesha	female	50.9
+55135	Wisconsin	Waupaca	female	49.6
+55137	Wisconsin	Waushara	female	47.4
+55139	Wisconsin	Winnebago	female	49.7
+55141	Wisconsin	Wood	female	50.8
+56001	Wyoming	Albany	female	48
+56003	Wyoming	Big Horn	female	49.9
+56005	Wyoming	Campbell	female	47.7
+56007	Wyoming	Carbon	female	45.6
+56009	Wyoming	Converse	female	49.3
+56011	Wyoming	Crook	female	48.8
+56013	Wyoming	Fremont	female	50.2
+56015	Wyoming	Goshen	female	47.8
+56017	Wyoming	Hot Springs	female	50.4
+56019	Wyoming	Johnson	female	49.2
+56021	Wyoming	Laramie	female	49.8
+56023	Wyoming	Lincoln	female	48.9
+56025	Wyoming	Natrona	female	49.6
+56027	Wyoming	Niobrara	female	53.3
+56029	Wyoming	Park	female	50.4
+56031	Wyoming	Platte	female	49.8
+56033	Wyoming	Sheridan	female	50
+56035	Wyoming	Sublette	female	45.7
+56037	Wyoming	Sweetwater	female	47.8
+56039	Wyoming	Teton	female	47.5
+56041	Wyoming	Uinta	female	49.5
+56043	Wyoming	Washakie	female	49.6
+56045	Wyoming	Weston	female	47.4

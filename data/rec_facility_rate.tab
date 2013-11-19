@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	rec_facility_rate
+1001	Alabama	Autauga	rec_facility_rate	7.3
+1003	Alabama	Baldwin	rec_facility_rate	8.7
+1005	Alabama	Barbour	rec_facility_rate	3.7
+1007	Alabama	Bibb	rec_facility_rate	4.4
+1009	Alabama	Blount	rec_facility_rate	5.2
+1011	Alabama	Bullock	rec_facility_rate	0
+1013	Alabama	Butler	rec_facility_rate	0
+1015	Alabama	Calhoun	rec_facility_rate	7.6
+1017	Alabama	Chambers	rec_facility_rate	5.9
+1019	Alabama	Cherokee	rec_facility_rate	0
+1021	Alabama	Chilton	rec_facility_rate	6.9
+1023	Alabama	Choctaw	rec_facility_rate	0
+1025	Alabama	Clarke	rec_facility_rate	11.6
+1027	Alabama	Clay	rec_facility_rate	0
+1029	Alabama	Cleburne	rec_facility_rate	0
+1031	Alabama	Coffee	rec_facility_rate	10
+1033	Alabama	Colbert	rec_facility_rate	9.2
+1035	Alabama	Conecuh	rec_facility_rate	0
+1037	Alabama	Coosa	rec_facility_rate	0
+1039	Alabama	Covington	rec_facility_rate	5.3
+1041	Alabama	Crenshaw	rec_facility_rate	0
+1043	Alabama	Cullman	rec_facility_rate	6.2
+1045	Alabama	Dale	rec_facility_rate	4
+1047	Alabama	Dallas	rec_facility_rate	2.3
+1049	Alabama	DeKalb	rec_facility_rate	5.6
+1051	Alabama	Elmore	rec_facility_rate	6.3
+1053	Alabama	Escambia	rec_facility_rate	5.2
+1055	Alabama	Etowah	rec_facility_rate	6.7
+1057	Alabama	Fayette	rec_facility_rate	0
+1059	Alabama	Franklin	rec_facility_rate	15.8
+1061	Alabama	Geneva	rec_facility_rate	0
+1063	Alabama	Greene	rec_facility_rate	0
+1065	Alabama	Hale	rec_facility_rate	0
+1067	Alabama	Henry	rec_facility_rate	0
+1069	Alabama	Houston	rec_facility_rate	4.9
+1071	Alabama	Jackson	rec_facility_rate	1.9
+1073	Alabama	Jefferson	rec_facility_rate	10.5
+1075	Alabama	Lamar	rec_facility_rate	0
+1077	Alabama	Lauderdale	rec_facility_rate	7.5
+1079	Alabama	Lawrence	rec_facility_rate	2.9
+1081	Alabama	Lee	rec_facility_rate	5
+1083	Alabama	Limestone	rec_facility_rate	6
+1085	Alabama	Lowndes	rec_facility_rate	8.9
+1087	Alabama	Macon	rec_facility_rate	0
+1089	Alabama	Madison	rec_facility_rate	17
+1091	Alabama	Marengo	rec_facility_rate	9.5
+1093	Alabama	Marion	rec_facility_rate	0
+1095	Alabama	Marshall	rec_facility_rate	2.1
+1097	Alabama	Mobile	rec_facility_rate	6.8
+1099	Alabama	Monroe	rec_facility_rate	0
+1101	Alabama	Montgomery	rec_facility_rate	7.4
+1103	Alabama	Morgan	rec_facility_rate	5.9
+1105	Alabama	Perry	rec_facility_rate	0
+1107	Alabama	Pickens	rec_facility_rate	10.1
+1109	Alabama	Pike	rec_facility_rate	6.1
+1111	Alabama	Randolph	rec_facility_rate	4.4
+1113	Alabama	Russell	rec_facility_rate	5.6
+1115	Alabama	St. Clair	rec_facility_rate	2.4
+1117	Alabama	Shelby	rec_facility_rate	10.7
+1119	Alabama	Sumter	rec_facility_rate	7.3
+1121	Alabama	Talladega	rec_facility_rate	2.4
+1123	Alabama	Tallapoosa	rec_facility_rate	7.2
+1125	Alabama	Tuscaloosa	rec_facility_rate	6.7
+1127	Alabama	Walker	rec_facility_rate	7.5
+1129	Alabama	Washington	rec_facility_rate	0
+1131	Alabama	Wilcox	rec_facility_rate	0
+1133	Alabama	Winston	rec_facility_rate	0
+2013	Alaska	Aleutians East	rec_facility_rate	0
+2016	Alaska	Aleutians West	rec_facility_rate	0
+2020	Alaska	Anchorage	rec_facility_rate	12.6
+2050	Alaska	Bethel	rec_facility_rate	5.8
+2060	Alaska	Bristol Bay	rec_facility_rate	0
+2068	Alaska	Denali	rec_facility_rate	0
+2070	Alaska	Dillingham	rec_facility_rate	0
+2090	Alaska	Fairbanks North Star	rec_facility_rate	9.2
+2100	Alaska	Haines	rec_facility_rate	0
+2110	Alaska	Juneau	rec_facility_rate	22.3
+2122	Alaska	Kenai Peninsula	rec_facility_rate	19.8
+2130	Alaska	Ketchikan Gateway	rec_facility_rate	44.3
+2150	Alaska	Kodiak Island	rec_facility_rate	0
+2164	Alaska	Lake and Peninsula	rec_facility_rate	0
+2170	Alaska	Matanuska-Susitna	rec_facility_rate	8.9
+2180	Alaska	Nome	rec_facility_rate	0
+2185	Alaska	North Slope	rec_facility_rate	10.6
+2188	Alaska	Northwest Arctic	rec_facility_rate	0
+2201	Alaska	Prince of Wales-Outer Ketchikan	rec_facility_rate	0
+2220	Alaska	Sitka	rec_facility_rate	11.2
+2232	Alaska	Skagway-Hoonah-Angoon	rec_facility_rate	0
+2240	Alaska	Southeast Fairbanks	rec_facility_rate	0
+2261	Alaska	Valdez-Cordova	rec_facility_rate	20.6
+2270	Alaska	Wade Hampton	rec_facility_rate	0
+2280	Alaska	Wrangell-Petersburg	rec_facility_rate	0
+2282	Alaska	Yakutat	rec_facility_rate	0
+2290	Alaska	Yukon-Koyukuk	rec_facility_rate	0
+4001	Arizona	Apache	rec_facility_rate	2.8
+4003	Arizona	Cochise	rec_facility_rate	10.6
+4005	Arizona	Coconino	rec_facility_rate	5.9
+4007	Arizona	Gila	rec_facility_rate	9.3
+4009	Arizona	Graham	rec_facility_rate	8.1
+4011	Arizona	Greenlee	rec_facility_rate	0
+4012	Arizona	La Paz	rec_facility_rate	0
+4013	Arizona	Maricopa	rec_facility_rate	6.7
+4015	Arizona	Mohave	rec_facility_rate	6.4
+4017	Arizona	Navajo	rec_facility_rate	2.8
+4019	Arizona	Pima	rec_facility_rate	10.5
+4021	Arizona	Pinal	rec_facility_rate	2.3
+4023	Arizona	Santa Cruz	rec_facility_rate	2.1
+4025	Arizona	Yavapai	rec_facility_rate	10.9
+4027	Arizona	Yuma	rec_facility_rate	5.1
+5001	Arkansas	Arkansas	rec_facility_rate	5.3
+5003	Arkansas	Ashley	rec_facility_rate	0
+5005	Arkansas	Baxter	rec_facility_rate	9.6
+5007	Arkansas	Benton	rec_facility_rate	10.3
+5009	Arkansas	Boone	rec_facility_rate	2.7
+5011	Arkansas	Bradley	rec_facility_rate	8.7
+5013	Arkansas	Calhoun	rec_facility_rate	0
+5015	Arkansas	Carroll	rec_facility_rate	10.9
+5017	Arkansas	Chicot	rec_facility_rate	0
+5019	Arkansas	Clark	rec_facility_rate	17.4
+5021	Arkansas	Clay	rec_facility_rate	6.2
+5023	Arkansas	Cleburne	rec_facility_rate	3.8
+5025	Arkansas	Cleveland	rec_facility_rate	0
+5027	Arkansas	Columbia	rec_facility_rate	16.3
+5029	Arkansas	Conway	rec_facility_rate	9.4
+5031	Arkansas	Craighead	rec_facility_rate	7.2
+5033	Arkansas	Crawford	rec_facility_rate	6.5
+5035	Arkansas	Crittenden	rec_facility_rate	2
+5037	Arkansas	Cross	rec_facility_rate	16.8
+5039	Arkansas	Dallas	rec_facility_rate	0
+5041	Arkansas	Desha	rec_facility_rate	7.7
+5043	Arkansas	Drew	rec_facility_rate	5.4
+5045	Arkansas	Faulkner	rec_facility_rate	9.6
+5047	Arkansas	Franklin	rec_facility_rate	0
+5049	Arkansas	Fulton	rec_facility_rate	0
+5051	Arkansas	Garland	rec_facility_rate	10.4
+5053	Arkansas	Grant	rec_facility_rate	0
+5055	Arkansas	Greene	rec_facility_rate	9.5
+5057	Arkansas	Hempstead	rec_facility_rate	13.3
+5059	Arkansas	Hot Spring	rec_facility_rate	6.1
+5061	Arkansas	Howard	rec_facility_rate	14.5
+5063	Arkansas	Independence	rec_facility_rate	5.4
+5065	Arkansas	Izard	rec_facility_rate	0
+5067	Arkansas	Jackson	rec_facility_rate	11.1
+5069	Arkansas	Jefferson	rec_facility_rate	2.6
+5071	Arkansas	Johnson	rec_facility_rate	7.8
+5073	Arkansas	Lafayette	rec_facility_rate	0
+5075	Arkansas	Lawrence	rec_facility_rate	0
+5077	Arkansas	Lee	rec_facility_rate	0
+5079	Arkansas	Lincoln	rec_facility_rate	7.1
+5081	Arkansas	Little River	rec_facility_rate	0
+5083	Arkansas	Logan	rec_facility_rate	4.5
+5085	Arkansas	Lonoke	rec_facility_rate	5.8
+5087	Arkansas	Madison	rec_facility_rate	6.4
+5089	Arkansas	Marion	rec_facility_rate	0
+5091	Arkansas	Miller	rec_facility_rate	4.6
+5093	Arkansas	Mississippi	rec_facility_rate	4.3
+5095	Arkansas	Monroe	rec_facility_rate	0
+5097	Arkansas	Montgomery	rec_facility_rate	10.5
+5099	Arkansas	Nevada	rec_facility_rate	0
+5101	Arkansas	Newton	rec_facility_rate	0
+5103	Arkansas	Ouachita	rec_facility_rate	11.5
+5105	Arkansas	Perry	rec_facility_rate	0
+5107	Arkansas	Phillips	rec_facility_rate	4.6
+5109	Arkansas	Pike	rec_facility_rate	0
+5111	Arkansas	Poinsett	rec_facility_rate	0
+5113	Arkansas	Polk	rec_facility_rate	4.8
+5115	Arkansas	Pope	rec_facility_rate	8.1
+5117	Arkansas	Prairie	rec_facility_rate	0
+5119	Arkansas	Pulaski	rec_facility_rate	11.2
+5121	Arkansas	Randolph	rec_facility_rate	11.1
+5123	Arkansas	St. Francis	rec_facility_rate	0
+5125	Arkansas	Saline	rec_facility_rate	8.4
+5127	Arkansas	Scott	rec_facility_rate	0
+5129	Arkansas	Searcy	rec_facility_rate	0
+5131	Arkansas	Sebastian	rec_facility_rate	10.3
+5133	Arkansas	Sevier	rec_facility_rate	5.8
+5135	Arkansas	Sharp	rec_facility_rate	5.8
+5137	Arkansas	Stone	rec_facility_rate	0
+5139	Arkansas	Union	rec_facility_rate	4.8
+5141	Arkansas	Van Buren	rec_facility_rate	5.8
+5143	Arkansas	Washington	rec_facility_rate	11.3
+5145	Arkansas	White	rec_facility_rate	6.5
+5147	Arkansas	Woodruff	rec_facility_rate	0
+5149	Arkansas	Yell	rec_facility_rate	0
+6001	California	Alameda	rec_facility_rate	9.6
+6003	California	Alpine	rec_facility_rate	0
+6005	California	Amador	rec_facility_rate	10.5
+6007	California	Butte	rec_facility_rate	9.1
+6009	California	Calaveras	rec_facility_rate	13.2
+6011	California	Colusa	rec_facility_rate	0
+6013	California	Contra Costa	rec_facility_rate	11.1
+6015	California	Del Norte	rec_facility_rate	3.5
+6017	California	El Dorado	rec_facility_rate	9.9
+6019	California	Fresno	rec_facility_rate	5
+6021	California	Glenn	rec_facility_rate	3.6
+6023	California	Humboldt	rec_facility_rate	7.4
+6025	California	Imperial	rec_facility_rate	4
+6027	California	Inyo	rec_facility_rate	21.6
+6029	California	Kern	rec_facility_rate	4.6
+6031	California	Kings	rec_facility_rate	6.5
+6033	California	Lake	rec_facility_rate	6.2
+6035	California	Lassen	rec_facility_rate	11.5
+6037	California	Los Angeles	rec_facility_rate	7.3
+6039	California	Madera	rec_facility_rate	5.9
+6041	California	Marin	rec_facility_rate	22.9
+6043	California	Mariposa	rec_facility_rate	16.4
+6045	California	Mendocino	rec_facility_rate	17.1
+6047	California	Merced	rec_facility_rate	6.6
+6049	California	Modoc	rec_facility_rate	0
+6051	California	Mono	rec_facility_rate	7
+6053	California	Monterey	rec_facility_rate	5.8
+6055	California	Napa	rec_facility_rate	13.2
+6057	California	Nevada	rec_facility_rate	21.3
+6059	California	Orange	rec_facility_rate	9.6
+6061	California	Placer	rec_facility_rate	14.8
+6063	California	Plumas	rec_facility_rate	20.1
+6065	California	Riverside	rec_facility_rate	6.2
+6067	California	Sacramento	rec_facility_rate	8.6
+6069	California	San Benito	rec_facility_rate	9
+6071	California	San Bernardino	rec_facility_rate	5.4
+6073	California	San Diego	rec_facility_rate	10.2
+6075	California	San Francisco	rec_facility_rate	13.3
+6077	California	San Joaquin	rec_facility_rate	4.8
+6079	California	San Luis Obispo	rec_facility_rate	14.8
+6081	California	San Mateo	rec_facility_rate	14.2
+6083	California	Santa Barbara	rec_facility_rate	12.7
+6085	California	Santa Clara	rec_facility_rate	11
+6087	California	Santa Cruz	rec_facility_rate	16
+6089	California	Shasta	rec_facility_rate	7.9
+6091	California	Sierra	rec_facility_rate	0
+6093	California	Siskiyou	rec_facility_rate	8.9
+6095	California	Solano	rec_facility_rate	8.2
+6097	California	Sonoma	rec_facility_rate	11.8
+6099	California	Stanislaus	rec_facility_rate	7.6
+6101	California	Sutter	rec_facility_rate	9.5
+6103	California	Tehama	rec_facility_rate	1.6
+6105	California	Trinity	rec_facility_rate	21.8
+6107	California	Tulare	rec_facility_rate	3.4
+6109	California	Tuolumne	rec_facility_rate	12.7
+6111	California	Ventura	rec_facility_rate	10.3
+6113	California	Yolo	rec_facility_rate	7
+6115	California	Yuba	rec_facility_rate	1.4
+8001	Colorado	Adams	rec_facility_rate	4.5
+8003	Colorado	Alamosa	rec_facility_rate	19.4
+8005	Colorado	Arapahoe	rec_facility_rate	10.8
+8007	Colorado	Archuleta	rec_facility_rate	16.6
+8009	Colorado	Baca	rec_facility_rate	0
+8011	Colorado	Bent	rec_facility_rate	0
+8013	Colorado	Boulder	rec_facility_rate	18
+8014	Colorado	Broomfield	rec_facility_rate	12.5
+8015	Colorado	Chaffee	rec_facility_rate	22.5
+8017	Colorado	Cheyenne	rec_facility_rate	0
+8019	Colorado	Clear Creek	rec_facility_rate	11
+8021	Colorado	Conejos	rec_facility_rate	0
+8023	Colorado	Costilla	rec_facility_rate	0
+8025	Colorado	Crowley	rec_facility_rate	0
+8027	Colorado	Custer	rec_facility_rate	0
+8029	Colorado	Delta	rec_facility_rate	3.2
+8031	Colorado	Denver	rec_facility_rate	11.3
+8033	Colorado	Dolores	rec_facility_rate	0
+8035	Colorado	Douglas	rec_facility_rate	12.9
+8037	Colorado	Eagle	rec_facility_rate	17.3
+8039	Colorado	Elbert	rec_facility_rate	8.7
+8041	Colorado	El Paso	rec_facility_rate	8.8
+8043	Colorado	Fremont	rec_facility_rate	12.8
+8045	Colorado	Garfield	rec_facility_rate	8.9
+8047	Colorado	Gilpin	rec_facility_rate	0
+8049	Colorado	Grand	rec_facility_rate	13.5
+8051	Colorado	Gunnison	rec_facility_rate	26.1
+8053	Colorado	Hinsdale	rec_facility_rate	0
+8055	Colorado	Huerfano	rec_facility_rate	0
+8057	Colorado	Jackson	rec_facility_rate	0
+8059	Colorado	Jefferson	rec_facility_rate	11
+8061	Colorado	Kiowa	rec_facility_rate	0
+8063	Colorado	Kit Carson	rec_facility_rate	24.3
+8065	Colorado	Lake	rec_facility_rate	0
+8067	Colorado	La Plata	rec_facility_rate	17.5
+8069	Colorado	Larimer	rec_facility_rate	14
+8071	Colorado	Las Animas	rec_facility_rate	19.4
+8073	Colorado	Lincoln	rec_facility_rate	0
+8075	Colorado	Logan	rec_facility_rate	8.8
+8077	Colorado	Mesa	rec_facility_rate	8.9
+8079	Colorado	Mineral	rec_facility_rate	0
+8081	Colorado	Moffat	rec_facility_rate	7.2
+8083	Colorado	Montezuma	rec_facility_rate	7.8
+8085	Colorado	Montrose	rec_facility_rate	14.6
+8087	Colorado	Morgan	rec_facility_rate	14.3
+8089	Colorado	Otero	rec_facility_rate	10.6
+8091	Colorado	Ouray	rec_facility_rate	22.5
+8093	Colorado	Park	rec_facility_rate	0
+8095	Colorado	Phillips	rec_facility_rate	22.4
+8097	Colorado	Pitkin	rec_facility_rate	46.6
+8099	Colorado	Prowers	rec_facility_rate	8
+8101	Colorado	Pueblo	rec_facility_rate	5
+8103	Colorado	Rio Blanco	rec_facility_rate	0
+8105	Colorado	Rio Grande	rec_facility_rate	25
+8107	Colorado	Routt	rec_facility_rate	21.3
+8109	Colorado	Saguache	rec_facility_rate	0
+8111	Colorado	San Juan	rec_facility_rate	0
+8113	Colorado	San Miguel	rec_facility_rate	13.6
+8115	Colorado	Sedgwick	rec_facility_rate	0
+8117	Colorado	Summit	rec_facility_rate	17.8
+8119	Colorado	Teller	rec_facility_rate	8.5
+8121	Colorado	Washington	rec_facility_rate	0
+8123	Colorado	Weld	rec_facility_rate	9.4
+8125	Colorado	Yuma	rec_facility_rate	0
+9001	Connecticut	Fairfield	rec_facility_rate	19.5
+9003	Connecticut	Hartford	rec_facility_rate	13
+9005	Connecticut	Litchfield	rec_facility_rate	12.6
+9007	Connecticut	Middlesex	rec_facility_rate	17.5
+9009	Connecticut	New Haven	rec_facility_rate	9.9
+9011	Connecticut	New London	rec_facility_rate	9.5
+9013	Connecticut	Tolland	rec_facility_rate	10.5
+9015	Connecticut	Windham	rec_facility_rate	11
+10001	Delaware	Kent	rec_facility_rate	8
+10003	Delaware	New Castle	rec_facility_rate	16.3
+10005	Delaware	Sussex	rec_facility_rate	13.1
+11001	District of Columbia	District of Columbia	rec_facility_rate	11.6
+12001	Florida	Alachua	rec_facility_rate	11.7
+12003	Florida	Baker	rec_facility_rate	14.8
+12005	Florida	Bay	rec_facility_rate	7.7
+12007	Florida	Bradford	rec_facility_rate	3.5
+12009	Florida	Brevard	rec_facility_rate	7.2
+12011	Florida	Broward	rec_facility_rate	9.8
+12013	Florida	Calhoun	rec_facility_rate	0
+12015	Florida	Charlotte	rec_facility_rate	8.1
+12017	Florida	Citrus	rec_facility_rate	5.7
+12019	Florida	Clay	rec_facility_rate	7.8
+12021	Florida	Collier	rec_facility_rate	9.6
+12023	Florida	Columbia	rec_facility_rate	13.3
+12027	Florida	DeSoto	rec_facility_rate	2.9
+12029	Florida	Dixie	rec_facility_rate	0
+12031	Florida	Duval	rec_facility_rate	9.5
+12033	Florida	Escambia	rec_facility_rate	7.7
+12035	Florida	Flagler	rec_facility_rate	5.2
+12037	Florida	Franklin	rec_facility_rate	8.6
+12039	Florida	Gadsden	rec_facility_rate	0
+12041	Florida	Gilchrist	rec_facility_rate	0
+12043	Florida	Glades	rec_facility_rate	0
+12045	Florida	Gulf	rec_facility_rate	0
+12047	Florida	Hamilton	rec_facility_rate	0
+12049	Florida	Hardee	rec_facility_rate	3.6
+12051	Florida	Hendry	rec_facility_rate	5.1
+12053	Florida	Hernando	rec_facility_rate	8.1
+12055	Florida	Highlands	rec_facility_rate	8.1
+12057	Florida	Hillsborough	rec_facility_rate	9
+12059	Florida	Holmes	rec_facility_rate	0
+12061	Florida	Indian River	rec_facility_rate	10.1
+12063	Florida	Jackson	rec_facility_rate	2
+12065	Florida	Jefferson	rec_facility_rate	6.8
+12067	Florida	Lafayette	rec_facility_rate	0
+12069	Florida	Lake	rec_facility_rate	6.4
+12071	Florida	Lee	rec_facility_rate	6.9
+12073	Florida	Leon	rec_facility_rate	10.5
+12075	Florida	Levy	rec_facility_rate	7.4
+12077	Florida	Liberty	rec_facility_rate	0
+12079	Florida	Madison	rec_facility_rate	10.4
+12081	Florida	Manatee	rec_facility_rate	8
+12083	Florida	Marion	rec_facility_rate	6
+12085	Florida	Martin	rec_facility_rate	16.4
+12086	Florida	Miami-Dade	rec_facility_rate	8.1
+12087	Florida	Monroe	rec_facility_rate	19.1
+12089	Florida	Nassau	rec_facility_rate	16.3
+12091	Florida	Okaloosa	rec_facility_rate	12.2
+12093	Florida	Okeechobee	rec_facility_rate	5
+12095	Florida	Orange	rec_facility_rate	6.9
+12097	Florida	Osceola	rec_facility_rate	3.3
+12099	Florida	Palm Beach	rec_facility_rate	10.9
+12101	Florida	Pasco	rec_facility_rate	6
+12103	Florida	Pinellas	rec_facility_rate	12.8
+12105	Florida	Polk	rec_facility_rate	5.5
+12107	Florida	Putnam	rec_facility_rate	8.1
+12109	Florida	St. Johns	rec_facility_rate	11.5
+12111	Florida	St. Lucie	rec_facility_rate	6.8
+12113	Florida	Santa Rosa	rec_facility_rate	9.2
+12115	Florida	Sarasota	rec_facility_rate	13.2
+12117	Florida	Seminole	rec_facility_rate	11.3
+12119	Florida	Sumter	rec_facility_rate	2.1
+12121	Florida	Suwannee	rec_facility_rate	4.8
+12123	Florida	Taylor	rec_facility_rate	8.9
+12125	Florida	Union	rec_facility_rate	0
+12127	Florida	Volusia	rec_facility_rate	10.5
+12129	Florida	Wakulla	rec_facility_rate	9.7
+12131	Florida	Walton	rec_facility_rate	10.8
+12133	Florida	Washington	rec_facility_rate	0
+13001	Georgia	Appling	rec_facility_rate	5.5
+13003	Georgia	Atkinson	rec_facility_rate	0
+13005	Georgia	Bacon	rec_facility_rate	9
+13007	Georgia	Baker	rec_facility_rate	0
+13009	Georgia	Baldwin	rec_facility_rate	11.1
+13011	Georgia	Banks	rec_facility_rate	16.3
+13013	Georgia	Barrow	rec_facility_rate	5.7
+13015	Georgia	Bartow	rec_facility_rate	6
+13017	Georgia	Ben Hill	rec_facility_rate	5.7
+13019	Georgia	Berrien	rec_facility_rate	0
+13021	Georgia	Bibb	rec_facility_rate	9
+13023	Georgia	Bleckley	rec_facility_rate	0
+13025	Georgia	Brantley	rec_facility_rate	5.4
+13027	Georgia	Brooks	rec_facility_rate	0
+13029	Georgia	Bryan	rec_facility_rate	19.7
+13031	Georgia	Bulloch	rec_facility_rate	4.2
+13033	Georgia	Burke	rec_facility_rate	0
+13035	Georgia	Butts	rec_facility_rate	8.4
+13037	Georgia	Calhoun	rec_facility_rate	0
+13039	Georgia	Camden	rec_facility_rate	3.9
+13043	Georgia	Candler	rec_facility_rate	0
+13045	Georgia	Carroll	rec_facility_rate	10.8
+13047	Georgia	Catoosa	rec_facility_rate	7.8
+13049	Georgia	Charlton	rec_facility_rate	7.8
+13051	Georgia	Chatham	rec_facility_rate	8.3
+13053	Georgia	Chattahoochee	rec_facility_rate	9
+13055	Georgia	Chattooga	rec_facility_rate	3.8
+13057	Georgia	Cherokee	rec_facility_rate	14.9
+13059	Georgia	Clarke	rec_facility_rate	9.4
+13061	Georgia	Clay	rec_facility_rate	0
+13063	Georgia	Clayton	rec_facility_rate	2.3
+13065	Georgia	Clinch	rec_facility_rate	0
+13067	Georgia	Cobb	rec_facility_rate	11.6
+13069	Georgia	Coffee	rec_facility_rate	4.7
+13071	Georgia	Colquitt	rec_facility_rate	4.4
+13073	Georgia	Columbia	rec_facility_rate	7.2
+13075	Georgia	Cook	rec_facility_rate	0
+13077	Georgia	Coweta	rec_facility_rate	9.4
+13079	Georgia	Crawford	rec_facility_rate	0
+13081	Georgia	Crisp	rec_facility_rate	12.8
+13083	Georgia	Dade	rec_facility_rate	0
+13085	Georgia	Dawson	rec_facility_rate	13.4
+13087	Georgia	Decatur	rec_facility_rate	14.4
+13089	Georgia	DeKalb	rec_facility_rate	8.9
+13091	Georgia	Dodge	rec_facility_rate	4.6
+13093	Georgia	Dooly	rec_facility_rate	0
+13095	Georgia	Dougherty	rec_facility_rate	6.3
+13097	Georgia	Douglas	rec_facility_rate	4.5
+13099	Georgia	Early	rec_facility_rate	9.1
+13101	Georgia	Echols	rec_facility_rate	0
+13103	Georgia	Effingham	rec_facility_rate	0
+13105	Georgia	Elbert	rec_facility_rate	0
+13107	Georgia	Emanuel	rec_facility_rate	0
+13109	Georgia	Evans	rec_facility_rate	0
+13111	Georgia	Fannin	rec_facility_rate	4.2
+13113	Georgia	Fayette	rec_facility_rate	8.4
+13115	Georgia	Floyd	rec_facility_rate	7.3
+13117	Georgia	Forsyth	rec_facility_rate	14.1
+13119	Georgia	Franklin	rec_facility_rate	4.5
+13121	Georgia	Fulton	rec_facility_rate	13.7
+13123	Georgia	Gilmer	rec_facility_rate	3.5
+13125	Georgia	Glascock	rec_facility_rate	0
+13127	Georgia	Glynn	rec_facility_rate	11.3
+13129	Georgia	Gordon	rec_facility_rate	5.4
+13131	Georgia	Grady	rec_facility_rate	12
+13133	Georgia	Greene	rec_facility_rate	0
+13135	Georgia	Gwinnett	rec_facility_rate	9.3
+13137	Georgia	Habersham	rec_facility_rate	2.3
+13139	Georgia	Hall	rec_facility_rate	4.4
+13141	Georgia	Hancock	rec_facility_rate	0
+13143	Georgia	Haralson	rec_facility_rate	6.9
+13145	Georgia	Harris	rec_facility_rate	6.2
+13147	Georgia	Hart	rec_facility_rate	11.9
+13149	Georgia	Heard	rec_facility_rate	0
+13151	Georgia	Henry	rec_facility_rate	5.8
+13153	Georgia	Houston	rec_facility_rate	7.1
+13155	Georgia	Irwin	rec_facility_rate	0
+13157	Georgia	Jackson	rec_facility_rate	9.9
+13159	Georgia	Jasper	rec_facility_rate	7.2
+13161	Georgia	Jeff Davis	rec_facility_rate	0
+13163	Georgia	Jefferson	rec_facility_rate	0
+13165	Georgia	Jenkins	rec_facility_rate	0
+13167	Georgia	Johnson	rec_facility_rate	0
+13169	Georgia	Jones	rec_facility_rate	10.5
+13171	Georgia	Lamar	rec_facility_rate	0
+13173	Georgia	Lanier	rec_facility_rate	0
+13175	Georgia	Laurens	rec_facility_rate	10.3
+13177	Georgia	Lee	rec_facility_rate	10.5
+13179	Georgia	Liberty	rec_facility_rate	3.2
+13181	Georgia	Lincoln	rec_facility_rate	0
+13183	Georgia	Long	rec_facility_rate	0
+13185	Georgia	Lowndes	rec_facility_rate	9.1
+13187	Georgia	Lumpkin	rec_facility_rate	3.3
+13189	Georgia	McDuffie	rec_facility_rate	0
+13191	Georgia	McIntosh	rec_facility_rate	0
+13193	Georgia	Macon	rec_facility_rate	0
+13195	Georgia	Madison	rec_facility_rate	7.1
+13197	Georgia	Marion	rec_facility_rate	0
+13199	Georgia	Meriwether	rec_facility_rate	0
+13201	Georgia	Miller	rec_facility_rate	0
+13205	Georgia	Mitchell	rec_facility_rate	0
+13207	Georgia	Monroe	rec_facility_rate	11.3
+13209	Georgia	Montgomery	rec_facility_rate	0
+13211	Georgia	Morgan	rec_facility_rate	0
+13213	Georgia	Murray	rec_facility_rate	0
+13215	Georgia	Muscogee	rec_facility_rate	8.4
+13217	Georgia	Newton	rec_facility_rate	5
+13219	Georgia	Oconee	rec_facility_rate	12.1
+13221	Georgia	Oglethorpe	rec_facility_rate	6.7
+13223	Georgia	Paulding	rec_facility_rate	11.2
+13225	Georgia	Peach	rec_facility_rate	3.6
+13227	Georgia	Pickens	rec_facility_rate	3.4
+13229	Georgia	Pierce	rec_facility_rate	5.3
+13231	Georgia	Pike	rec_facility_rate	16.7
+13233	Georgia	Polk	rec_facility_rate	9.7
+13235	Georgia	Pulaski	rec_facility_rate	0
+13237	Georgia	Putnam	rec_facility_rate	4.7
+13239	Georgia	Quitman	rec_facility_rate	0
+13241	Georgia	Rabun	rec_facility_rate	6.1
+13243	Georgia	Randolph	rec_facility_rate	0
+13245	Georgia	Richmond	rec_facility_rate	3
+13247	Georgia	Rockdale	rec_facility_rate	8.2
+13249	Georgia	Schley	rec_facility_rate	0
+13251	Georgia	Screven	rec_facility_rate	0
+13253	Georgia	Seminole	rec_facility_rate	0
+13255	Georgia	Spalding	rec_facility_rate	7.8
+13257	Georgia	Stephens	rec_facility_rate	11.5
+13259	Georgia	Stewart	rec_facility_rate	0
+13261	Georgia	Sumter	rec_facility_rate	3
+13263	Georgia	Talbot	rec_facility_rate	14.6
+13265	Georgia	Taliaferro	rec_facility_rate	0
+13267	Georgia	Tattnall	rec_facility_rate	0
+13269	Georgia	Taylor	rec_facility_rate	0
+13271	Georgia	Telfair	rec_facility_rate	0
+13273	Georgia	Terrell	rec_facility_rate	0
+13275	Georgia	Thomas	rec_facility_rate	15.6
+13277	Georgia	Tift	rec_facility_rate	12.4
+13279	Georgia	Toombs	rec_facility_rate	0
+13281	Georgia	Towns	rec_facility_rate	0
+13283	Georgia	Treutlen	rec_facility_rate	0
+13285	Georgia	Troup	rec_facility_rate	7.4
+13287	Georgia	Turner	rec_facility_rate	0
+13289	Georgia	Twiggs	rec_facility_rate	0
+13291	Georgia	Union	rec_facility_rate	4.7
+13293	Georgia	Upson	rec_facility_rate	3.7
+13295	Georgia	Walker	rec_facility_rate	7.3
+13297	Georgia	Walton	rec_facility_rate	3.6
+13299	Georgia	Ware	rec_facility_rate	11
+13301	Georgia	Warren	rec_facility_rate	0
+13303	Georgia	Washington	rec_facility_rate	0
+13305	Georgia	Wayne	rec_facility_rate	10
+13307	Georgia	Webster	rec_facility_rate	0
+13309	Georgia	Wheeler	rec_facility_rate	0
+13311	Georgia	White	rec_facility_rate	7.4
+13313	Georgia	Whitfield	rec_facility_rate	5.8
+13315	Georgia	Wilcox	rec_facility_rate	0
+13317	Georgia	Wilkes	rec_facility_rate	0
+13319	Georgia	Wilkinson	rec_facility_rate	0
+13321	Georgia	Worth	rec_facility_rate	9.2
+15001	Hawaii	Hawaii	rec_facility_rate	7.6
+15003	Hawaii	Honolulu	rec_facility_rate	5
+15005	Hawaii	Kalawao	rec_facility_rate	0
+15007	Hawaii	Kauai	rec_facility_rate	6
+15009	Hawaii	Maui	rec_facility_rate	9
+16001	Idaho	Ada	rec_facility_rate	12.2
+16003	Idaho	Adams	rec_facility_rate	0
+16005	Idaho	Bannock	rec_facility_rate	7.2
+16007	Idaho	Bear Lake	rec_facility_rate	0
+16009	Idaho	Benewah	rec_facility_rate	0
+16011	Idaho	Bingham	rec_facility_rate	4.4
+16013	Idaho	Blaine	rec_facility_rate	51.6
+16015	Idaho	Boise	rec_facility_rate	14.3
+16017	Idaho	Bonner	rec_facility_rate	17.1
+16019	Idaho	Bonneville	rec_facility_rate	5.7
+16021	Idaho	Boundary	rec_facility_rate	18.2
+16023	Idaho	Butte	rec_facility_rate	0
+16025	Idaho	Camas	rec_facility_rate	0
+16027	Idaho	Canyon	rec_facility_rate	3.2
+16029	Idaho	Caribou	rec_facility_rate	0
+16031	Idaho	Cassia	rec_facility_rate	13
+16033	Idaho	Clark	rec_facility_rate	0
+16035	Idaho	Clearwater	rec_facility_rate	0
+16037	Idaho	Custer	rec_facility_rate	0
+16039	Idaho	Elmore	rec_facility_rate	7.4
+16041	Idaho	Franklin	rec_facility_rate	0
+16043	Idaho	Fremont	rec_facility_rate	7.5
+16045	Idaho	Gem	rec_facility_rate	12
+16047	Idaho	Gooding	rec_facility_rate	0
+16049	Idaho	Idaho	rec_facility_rate	12.3
+16051	Idaho	Jefferson	rec_facility_rate	3.8
+16053	Idaho	Jerome	rec_facility_rate	4.5
+16055	Idaho	Kootenai	rec_facility_rate	15.8
+16057	Idaho	Latah	rec_facility_rate	8
+16059	Idaho	Lemhi	rec_facility_rate	12.6
+16061	Idaho	Lewis	rec_facility_rate	0
+16063	Idaho	Lincoln	rec_facility_rate	0
+16065	Idaho	Madison	rec_facility_rate	8
+16067	Idaho	Minidoka	rec_facility_rate	0
+16069	Idaho	Nez Perce	rec_facility_rate	15.3
+16071	Idaho	Oneida	rec_facility_rate	0
+16073	Idaho	Owyhee	rec_facility_rate	0
+16075	Idaho	Payette	rec_facility_rate	0
+16077	Idaho	Power	rec_facility_rate	0
+16079	Idaho	Shoshone	rec_facility_rate	15.7
+16081	Idaho	Teton	rec_facility_rate	29.5
+16083	Idaho	Twin Falls	rec_facility_rate	7.7
+16085	Idaho	Valley	rec_facility_rate	30.7
+16087	Idaho	Washington	rec_facility_rate	9.8
+17001	Illinois	Adams	rec_facility_rate	11.9
+17003	Illinois	Alexander	rec_facility_rate	0
+17005	Illinois	Bond	rec_facility_rate	5.6
+17007	Illinois	Boone	rec_facility_rate	3.7
+17009	Illinois	Brown	rec_facility_rate	14.5
+17011	Illinois	Bureau	rec_facility_rate	5.7
+17013	Illinois	Calhoun	rec_facility_rate	19.6
+17015	Illinois	Carroll	rec_facility_rate	0
+17017	Illinois	Cass	rec_facility_rate	0
+17019	Illinois	Champaign	rec_facility_rate	9.9
+17021	Illinois	Christian	rec_facility_rate	14.4
+17023	Illinois	Clark	rec_facility_rate	12.3
+17025	Illinois	Clay	rec_facility_rate	14.5
+17027	Illinois	Clinton	rec_facility_rate	5.3
+17029	Illinois	Coles	rec_facility_rate	13
+17031	Illinois	Cook	rec_facility_rate	8
+17033	Illinois	Crawford	rec_facility_rate	0
+17035	Illinois	Cumberland	rec_facility_rate	0
+17037	Illinois	DeKalb	rec_facility_rate	8.6
+17039	Illinois	De Witt	rec_facility_rate	18.1
+17041	Illinois	Douglas	rec_facility_rate	10
+17043	Illinois	DuPage	rec_facility_rate	11.4
+17045	Illinois	Edgar	rec_facility_rate	16.2
+17047	Illinois	Edwards	rec_facility_rate	0
+17049	Illinois	Effingham	rec_facility_rate	8.8
+17051	Illinois	Fayette	rec_facility_rate	13.6
+17053	Illinois	Ford	rec_facility_rate	14.2
+17055	Illinois	Franklin	rec_facility_rate	17.7
+17057	Illinois	Fulton	rec_facility_rate	10.8
+17059	Illinois	Gallatin	rec_facility_rate	0
+17061	Illinois	Greene	rec_facility_rate	7.2
+17063	Illinois	Grundy	rec_facility_rate	25.9
+17065	Illinois	Hamilton	rec_facility_rate	0
+17067	Illinois	Hancock	rec_facility_rate	5.2
+17069	Illinois	Hardin	rec_facility_rate	0
+17071	Illinois	Henderson	rec_facility_rate	0
+17073	Illinois	Henry	rec_facility_rate	5.9
+17075	Illinois	Iroquois	rec_facility_rate	6.7
+17077	Illinois	Jackson	rec_facility_rate	6.6
+17079	Illinois	Jasper	rec_facility_rate	10.3
+17081	Illinois	Jefferson	rec_facility_rate	18
+17083	Illinois	Jersey	rec_facility_rate	0
+17085	Illinois	Jo Daviess	rec_facility_rate	0
+17087	Illinois	Johnson	rec_facility_rate	15.9
+17089	Illinois	Kane	rec_facility_rate	7.7
+17091	Illinois	Kankakee	rec_facility_rate	15
+17093	Illinois	Kendall	rec_facility_rate	11.3
+17095	Illinois	Knox	rec_facility_rate	7.6
+17097	Illinois	Lake	rec_facility_rate	15.6
+17099	Illinois	LaSalle	rec_facility_rate	10.5
+17101	Illinois	Lawrence	rec_facility_rate	0
+17103	Illinois	Lee	rec_facility_rate	11.1
+17105	Illinois	Livingston	rec_facility_rate	7.7
+17107	Illinois	Logan	rec_facility_rate	3.3
+17109	Illinois	McDonough	rec_facility_rate	15.3
+17111	Illinois	McHenry	rec_facility_rate	12.9
+17113	Illinois	McLean	rec_facility_rate	10.6
+17115	Illinois	Macon	rec_facility_rate	9
+17117	Illinois	Macoupin	rec_facility_rate	6.3
+17119	Illinois	Madison	rec_facility_rate	13.7
+17121	Illinois	Marion	rec_facility_rate	12.7
+17123	Illinois	Marshall	rec_facility_rate	7.9
+17125	Illinois	Mason	rec_facility_rate	6.8
+17127	Illinois	Massac	rec_facility_rate	13
+17129	Illinois	Menard	rec_facility_rate	23.6
+17131	Illinois	Mercer	rec_facility_rate	18.3
+17133	Illinois	Monroe	rec_facility_rate	12.1
+17135	Illinois	Montgomery	rec_facility_rate	13.3
+17137	Illinois	Morgan	rec_facility_rate	11.3
+17139	Illinois	Moultrie	rec_facility_rate	6.7
+17141	Illinois	Ogle	rec_facility_rate	13.1
+17143	Illinois	Peoria	rec_facility_rate	8.6
+17145	Illinois	Perry	rec_facility_rate	8.9
+17147	Illinois	Piatt	rec_facility_rate	6
+17149	Illinois	Pike	rec_facility_rate	6.1
+17151	Illinois	Pope	rec_facility_rate	0
+17153	Illinois	Pulaski	rec_facility_rate	0
+17155	Illinois	Putnam	rec_facility_rate	33.3
+17157	Illinois	Randolph	rec_facility_rate	12
+17159	Illinois	Richland	rec_facility_rate	24.6
+17161	Illinois	Rock Island	rec_facility_rate	9.5
+17163	Illinois	St. Clair	rec_facility_rate	10.7
+17165	Illinois	Saline	rec_facility_rate	4
+17167	Illinois	Sangamon	rec_facility_rate	10.6
+17169	Illinois	Schuyler	rec_facility_rate	0
+17171	Illinois	Scott	rec_facility_rate	0
+17173	Illinois	Shelby	rec_facility_rate	4.5
+17175	Illinois	Stark	rec_facility_rate	0
+17177	Illinois	Stephenson	rec_facility_rate	16.8
+17179	Illinois	Tazewell	rec_facility_rate	13.3
+17181	Illinois	Union	rec_facility_rate	0
+17183	Illinois	Vermilion	rec_facility_rate	9.8
+17185	Illinois	Wabash	rec_facility_rate	16.8
+17187	Illinois	Warren	rec_facility_rate	5.7
+17189	Illinois	Washington	rec_facility_rate	6.8
+17191	Illinois	Wayne	rec_facility_rate	17.9
+17193	Illinois	White	rec_facility_rate	6.8
+17195	Illinois	Whiteside	rec_facility_rate	12
+17197	Illinois	Will	rec_facility_rate	9.4
+17199	Illinois	Williamson	rec_facility_rate	12
+17201	Illinois	Winnebago	rec_facility_rate	8.1
+17203	Illinois	Woodford	rec_facility_rate	7.8
+18001	Indiana	Adams	rec_facility_rate	14.5
+18003	Indiana	Allen	rec_facility_rate	15.2
+18005	Indiana	Bartholomew	rec_facility_rate	10.4
+18007	Indiana	Benton	rec_facility_rate	0
+18009	Indiana	Blackford	rec_facility_rate	7.8
+18011	Indiana	Boone	rec_facility_rate	12.3
+18013	Indiana	Brown	rec_facility_rate	6.6
+18015	Indiana	Carroll	rec_facility_rate	14.9
+18017	Indiana	Cass	rec_facility_rate	10.3
+18019	Indiana	Clark	rec_facility_rate	7.2
+18021	Indiana	Clay	rec_facility_rate	3.7
+18023	Indiana	Clinton	rec_facility_rate	0
+18025	Indiana	Crawford	rec_facility_rate	0
+18027	Indiana	Daviess	rec_facility_rate	3.2
+18029	Indiana	Dearborn	rec_facility_rate	12
+18031	Indiana	Decatur	rec_facility_rate	11.6
+18033	Indiana	DeKalb	rec_facility_rate	11.8
+18035	Indiana	Delaware	rec_facility_rate	11
+18037	Indiana	Dubois	rec_facility_rate	14.3
+18039	Indiana	Elkhart	rec_facility_rate	6.6
+18041	Indiana	Fayette	rec_facility_rate	8.2
+18043	Indiana	Floyd	rec_facility_rate	9.4
+18045	Indiana	Fountain	rec_facility_rate	0
+18047	Indiana	Franklin	rec_facility_rate	8.7
+18049	Indiana	Fulton	rec_facility_rate	4.8
+18051	Indiana	Gibson	rec_facility_rate	6
+18053	Indiana	Grant	rec_facility_rate	7.1
+18055	Indiana	Greene	rec_facility_rate	3
+18057	Indiana	Hamilton	rec_facility_rate	20.6
+18059	Indiana	Hancock	rec_facility_rate	4.3
+18061	Indiana	Harrison	rec_facility_rate	5.1
+18063	Indiana	Hendricks	rec_facility_rate	11.7
+18065	Indiana	Henry	rec_facility_rate	12.1
+18067	Indiana	Howard	rec_facility_rate	10.9
+18069	Indiana	Huntington	rec_facility_rate	13.5
+18071	Indiana	Jackson	rec_facility_rate	7
+18073	Indiana	Jasper	rec_facility_rate	14.9
+18075	Indiana	Jay	rec_facility_rate	9.4
+18077	Indiana	Jefferson	rec_facility_rate	6.2
+18079	Indiana	Jennings	rec_facility_rate	3.5
+18081	Indiana	Johnson	rec_facility_rate	7.1
+18083	Indiana	Knox	rec_facility_rate	10.4
+18085	Indiana	Kosciusko	rec_facility_rate	9.1
+18087	Indiana	LaGrange	rec_facility_rate	2.7
+18089	Indiana	Lake	rec_facility_rate	7.3
+18091	Indiana	LaPorte	rec_facility_rate	6.3
+18093	Indiana	Lawrence	rec_facility_rate	10.8
+18095	Indiana	Madison	rec_facility_rate	9.9
+18097	Indiana	Marion	rec_facility_rate	9.8
+18099	Indiana	Marshall	rec_facility_rate	8.5
+18101	Indiana	Martin	rec_facility_rate	9.7
+18103	Indiana	Miami	rec_facility_rate	8.2
+18105	Indiana	Monroe	rec_facility_rate	5.8
+18107	Indiana	Montgomery	rec_facility_rate	5.2
+18109	Indiana	Morgan	rec_facility_rate	5.8
+18111	Indiana	Newton	rec_facility_rate	7
+18113	Indiana	Noble	rec_facility_rate	4.2
+18115	Indiana	Ohio	rec_facility_rate	0
+18117	Indiana	Orange	rec_facility_rate	5
+18119	Indiana	Owen	rec_facility_rate	4.6
+18121	Indiana	Parke	rec_facility_rate	5.8
+18123	Indiana	Perry	rec_facility_rate	10.3
+18125	Indiana	Pike	rec_facility_rate	0
+18127	Indiana	Porter	rec_facility_rate	8.5
+18129	Indiana	Posey	rec_facility_rate	3.9
+18131	Indiana	Pulaski	rec_facility_rate	7.5
+18133	Indiana	Putnam	rec_facility_rate	0
+18135	Indiana	Randolph	rec_facility_rate	11.5
+18137	Indiana	Ripley	rec_facility_rate	6.9
+18139	Indiana	Rush	rec_facility_rate	11.5
+18141	Indiana	St. Joseph	rec_facility_rate	9.7
+18143	Indiana	Scott	rec_facility_rate	8.3
+18145	Indiana	Shelby	rec_facility_rate	6.8
+18147	Indiana	Spencer	rec_facility_rate	0
+18149	Indiana	Starke	rec_facility_rate	4.3
+18151	Indiana	Steuben	rec_facility_rate	8.8
+18153	Indiana	Sullivan	rec_facility_rate	0
+18155	Indiana	Switzerland	rec_facility_rate	9.4
+18157	Indiana	Tippecanoe	rec_facility_rate	8.1
+18159	Indiana	Tipton	rec_facility_rate	0
+18161	Indiana	Union	rec_facility_rate	0
+18163	Indiana	Vanderburgh	rec_facility_rate	13.3
+18165	Indiana	Vermillion	rec_facility_rate	6.2
+18167	Indiana	Vigo	rec_facility_rate	11.1
+18169	Indiana	Wabash	rec_facility_rate	6.1
+18171	Indiana	Warren	rec_facility_rate	0
+18173	Indiana	Warrick	rec_facility_rate	5
+18175	Indiana	Washington	rec_facility_rate	3.5
+18177	Indiana	Wayne	rec_facility_rate	7.3
+18179	Indiana	Wells	rec_facility_rate	7.2
+18181	Indiana	White	rec_facility_rate	4.1
+18183	Indiana	Whitley	rec_facility_rate	9
+19001	Iowa	Adair	rec_facility_rate	26.1
+19003	Iowa	Adams	rec_facility_rate	0
+19005	Iowa	Allamakee	rec_facility_rate	0
+19007	Iowa	Appanoose	rec_facility_rate	15.5
+19009	Iowa	Audubon	rec_facility_rate	0
+19011	Iowa	Benton	rec_facility_rate	11.5
+19013	Iowa	Black Hawk	rec_facility_rate	9.9
+19015	Iowa	Boone	rec_facility_rate	11.4
+19017	Iowa	Bremer	rec_facility_rate	4.1
+19019	Iowa	Buchanan	rec_facility_rate	0
+19021	Iowa	Buena Vista	rec_facility_rate	9.8
+19023	Iowa	Butler	rec_facility_rate	0
+19025	Iowa	Calhoun	rec_facility_rate	0
+19027	Iowa	Carroll	rec_facility_rate	9.6
+19029	Iowa	Cass	rec_facility_rate	14.3
+19031	Iowa	Cedar	rec_facility_rate	16.2
+19033	Iowa	Cerro Gordo	rec_facility_rate	22.7
+19035	Iowa	Cherokee	rec_facility_rate	0
+19037	Iowa	Chickasaw	rec_facility_rate	8
+19039	Iowa	Clarke	rec_facility_rate	0
+19041	Iowa	Clay	rec_facility_rate	18
+19043	Iowa	Clayton	rec_facility_rate	0
+19045	Iowa	Clinton	rec_facility_rate	16.3
+19047	Iowa	Crawford	rec_facility_rate	5.8
+19049	Iowa	Dallas	rec_facility_rate	15
+19051	Iowa	Davis	rec_facility_rate	22.8
+19053	Iowa	Decatur	rec_facility_rate	0
+19055	Iowa	Delaware	rec_facility_rate	16.9
+19057	Iowa	Des Moines	rec_facility_rate	9.9
+19059	Iowa	Dickinson	rec_facility_rate	36
+19061	Iowa	Dubuque	rec_facility_rate	12.8
+19063	Iowa	Emmet	rec_facility_rate	29.2
+19065	Iowa	Fayette	rec_facility_rate	4.8
+19067	Iowa	Floyd	rec_facility_rate	12.3
+19069	Iowa	Franklin	rec_facility_rate	9.4
+19071	Iowa	Fremont	rec_facility_rate	0
+19073	Iowa	Greene	rec_facility_rate	10.7
+19075	Iowa	Grundy	rec_facility_rate	0
+19077	Iowa	Guthrie	rec_facility_rate	9.1
+19079	Iowa	Hamilton	rec_facility_rate	12.8
+19081	Iowa	Hancock	rec_facility_rate	17.7
+19083	Iowa	Hardin	rec_facility_rate	5.7
+19085	Iowa	Harrison	rec_facility_rate	0
+19087	Iowa	Henry	rec_facility_rate	14.9
+19089	Iowa	Howard	rec_facility_rate	10.5
+19091	Iowa	Humboldt	rec_facility_rate	10.2
+19093	Iowa	Ida	rec_facility_rate	0
+19095	Iowa	Iowa	rec_facility_rate	6.1
+19097	Iowa	Jackson	rec_facility_rate	10.1
+19099	Iowa	Jasper	rec_facility_rate	10.9
+19101	Iowa	Jefferson	rec_facility_rate	23.8
+19103	Iowa	Johnson	rec_facility_rate	6.1
+19105	Iowa	Jones	rec_facility_rate	4.8
+19107	Iowa	Keokuk	rec_facility_rate	9.5
+19109	Iowa	Kossuth	rec_facility_rate	6.4
+19111	Iowa	Lee	rec_facility_rate	14
+19113	Iowa	Linn	rec_facility_rate	11.8
+19115	Iowa	Louisa	rec_facility_rate	0
+19117	Iowa	Lucas	rec_facility_rate	11.2
+19119	Iowa	Lyon	rec_facility_rate	8.6
+19121	Iowa	Madison	rec_facility_rate	6.4
+19123	Iowa	Mahaska	rec_facility_rate	13.4
+19125	Iowa	Marion	rec_facility_rate	3
+19127	Iowa	Marshall	rec_facility_rate	2.5
+19129	Iowa	Mills	rec_facility_rate	13.3
+19131	Iowa	Mitchell	rec_facility_rate	18.5
+19133	Iowa	Monona	rec_facility_rate	21.6
+19135	Iowa	Monroe	rec_facility_rate	0
+19137	Iowa	Montgomery	rec_facility_rate	9.3
+19139	Iowa	Muscatine	rec_facility_rate	7
+19141	Iowa	O'Brien	rec_facility_rate	20.9
+19143	Iowa	Osceola	rec_facility_rate	0
+19145	Iowa	Page	rec_facility_rate	18.8
+19147	Iowa	Palo Alto	rec_facility_rate	0
+19149	Iowa	Plymouth	rec_facility_rate	16
+19151	Iowa	Pocahontas	rec_facility_rate	0
+19153	Iowa	Polk	rec_facility_rate	14.8
+19155	Iowa	Pottawattamie	rec_facility_rate	8.6
+19157	Iowa	Poweshiek	rec_facility_rate	10.6
+19159	Iowa	Ringgold	rec_facility_rate	0
+19161	Iowa	Sac	rec_facility_rate	9.7
+19163	Iowa	Scott	rec_facility_rate	13.3
+19165	Iowa	Shelby	rec_facility_rate	0
+19167	Iowa	Sioux	rec_facility_rate	5.9
+19169	Iowa	Story	rec_facility_rate	11.2
+19171	Iowa	Tama	rec_facility_rate	11.3
+19173	Iowa	Taylor	rec_facility_rate	15.8
+19175	Iowa	Union	rec_facility_rate	16
+19177	Iowa	Van Buren	rec_facility_rate	0
+19179	Iowa	Wapello	rec_facility_rate	5.6
+19181	Iowa	Warren	rec_facility_rate	8.6
+19183	Iowa	Washington	rec_facility_rate	13.8
+19185	Iowa	Wayne	rec_facility_rate	31.2
+19187	Iowa	Webster	rec_facility_rate	15.8
+19189	Iowa	Winnebago	rec_facility_rate	9.2
+19191	Iowa	Winneshiek	rec_facility_rate	23.7
+19193	Iowa	Woodbury	rec_facility_rate	10.7
+19195	Iowa	Worth	rec_facility_rate	0
+19197	Iowa	Wright	rec_facility_rate	7.6
+20001	Kansas	Allen	rec_facility_rate	0
+20003	Kansas	Anderson	rec_facility_rate	0
+20005	Kansas	Atchison	rec_facility_rate	11.8
+20007	Kansas	Barber	rec_facility_rate	20.6
+20009	Kansas	Barton	rec_facility_rate	10.8
+20011	Kansas	Bourbon	rec_facility_rate	0
+20013	Kansas	Brown	rec_facility_rate	0
+20015	Kansas	Butler	rec_facility_rate	4.5
+20017	Kansas	Chase	rec_facility_rate	0
+20019	Kansas	Chautauqua	rec_facility_rate	27.3
+20021	Kansas	Cherokee	rec_facility_rate	4.6
+20023	Kansas	Cheyenne	rec_facility_rate	0
+20025	Kansas	Clark	rec_facility_rate	0
+20027	Kansas	Clay	rec_facility_rate	0
+20029	Kansas	Cloud	rec_facility_rate	21
+20031	Kansas	Coffey	rec_facility_rate	0
+20033	Kansas	Comanche	rec_facility_rate	0
+20035	Kansas	Cowley	rec_facility_rate	0
+20037	Kansas	Crawford	rec_facility_rate	7.7
+20039	Kansas	Decatur	rec_facility_rate	0
+20041	Kansas	Dickinson	rec_facility_rate	0
+20043	Kansas	Doniphan	rec_facility_rate	0
+20045	Kansas	Douglas	rec_facility_rate	8.1
+20047	Kansas	Edwards	rec_facility_rate	0
+20049	Kansas	Elk	rec_facility_rate	34.7
+20051	Kansas	Ellis	rec_facility_rate	10.5
+20053	Kansas	Ellsworth	rec_facility_rate	0
+20055	Kansas	Finney	rec_facility_rate	13.5
+20057	Kansas	Ford	rec_facility_rate	11.7
+20059	Kansas	Franklin	rec_facility_rate	3.8
+20061	Kansas	Geary	rec_facility_rate	5.7
+20063	Kansas	Gove	rec_facility_rate	0
+20065	Kansas	Graham	rec_facility_rate	0
+20067	Kansas	Grant	rec_facility_rate	0
+20069	Kansas	Gray	rec_facility_rate	0
+20071	Kansas	Greeley	rec_facility_rate	0
+20073	Kansas	Greenwood	rec_facility_rate	0
+20075	Kansas	Hamilton	rec_facility_rate	0
+20077	Kansas	Harper	rec_facility_rate	0
+20079	Kansas	Harvey	rec_facility_rate	2.9
+20081	Kansas	Haskell	rec_facility_rate	0
+20083	Kansas	Hodgeman	rec_facility_rate	0
+20085	Kansas	Jackson	rec_facility_rate	0
+20087	Kansas	Jefferson	rec_facility_rate	0
+20089	Kansas	Jewell	rec_facility_rate	0
+20091	Kansas	Johnson	rec_facility_rate	16.7
+20093	Kansas	Kearny	rec_facility_rate	0
+20095	Kansas	Kingman	rec_facility_rate	25.5
+20097	Kansas	Kiowa	rec_facility_rate	0
+20099	Kansas	Labette	rec_facility_rate	4.6
+20101	Kansas	Lane	rec_facility_rate	0
+20103	Kansas	Leavenworth	rec_facility_rate	3.9
+20105	Kansas	Lincoln	rec_facility_rate	30.9
+20107	Kansas	Linn	rec_facility_rate	0
+20109	Kansas	Logan	rec_facility_rate	36.1
+20111	Kansas	Lyon	rec_facility_rate	8.9
+20113	Kansas	McPherson	rec_facility_rate	6.9
+20115	Kansas	Marion	rec_facility_rate	0
+20117	Kansas	Marshall	rec_facility_rate	9.9
+20119	Kansas	Meade	rec_facility_rate	0
+20121	Kansas	Miami	rec_facility_rate	6.1
+20123	Kansas	Mitchell	rec_facility_rate	15.7
+20125	Kansas	Montgomery	rec_facility_rate	8.5
+20127	Kansas	Morris	rec_facility_rate	16.9
+20129	Kansas	Morton	rec_facility_rate	0
+20131	Kansas	Nemaha	rec_facility_rate	0
+20133	Kansas	Neosho	rec_facility_rate	12.1
+20135	Kansas	Ness	rec_facility_rate	0
+20137	Kansas	Norton	rec_facility_rate	0
+20139	Kansas	Osage	rec_facility_rate	0
+20141	Kansas	Osborne	rec_facility_rate	0
+20143	Kansas	Ottawa	rec_facility_rate	0
+20145	Kansas	Pawnee	rec_facility_rate	0
+20147	Kansas	Phillips	rec_facility_rate	0
+20149	Kansas	Pottawatomie	rec_facility_rate	9.2
+20151	Kansas	Pratt	rec_facility_rate	20.7
+20153	Kansas	Rawlins	rec_facility_rate	0
+20155	Kansas	Reno	rec_facility_rate	6.2
+20157	Kansas	Republic	rec_facility_rate	20.2
+20159	Kansas	Rice	rec_facility_rate	0
+20161	Kansas	Riley	rec_facility_rate	7
+20163	Kansas	Rooks	rec_facility_rate	0
+20165	Kansas	Rush	rec_facility_rate	0
+20167	Kansas	Russell	rec_facility_rate	0
+20169	Kansas	Saline	rec_facility_rate	10.8
+20171	Kansas	Scott	rec_facility_rate	40.4
+20173	Kansas	Sedgwick	rec_facility_rate	7.6
+20175	Kansas	Seward	rec_facility_rate	4.3
+20177	Kansas	Shawnee	rec_facility_rate	7.9
+20179	Kansas	Sheridan	rec_facility_rate	0
+20181	Kansas	Sherman	rec_facility_rate	16.6
+20183	Kansas	Smith	rec_facility_rate	0
+20185	Kansas	Stafford	rec_facility_rate	0
+20187	Kansas	Stanton	rec_facility_rate	0
+20189	Kansas	Stevens	rec_facility_rate	0
+20191	Kansas	Sumner	rec_facility_rate	0
+20193	Kansas	Thomas	rec_facility_rate	12.6
+20195	Kansas	Trego	rec_facility_rate	0
+20197	Kansas	Wabaunsee	rec_facility_rate	14.2
+20199	Kansas	Wallace	rec_facility_rate	0
+20201	Kansas	Washington	rec_facility_rate	0
+20203	Kansas	Wichita	rec_facility_rate	0
+20205	Kansas	Wilson	rec_facility_rate	0
+20207	Kansas	Woodson	rec_facility_rate	0
+20209	Kansas	Wyandotte	rec_facility_rate	3.2
+21001	Kentucky	Adair	rec_facility_rate	5.4
+21003	Kentucky	Allen	rec_facility_rate	5
+21005	Kentucky	Anderson	rec_facility_rate	9.3
+21007	Kentucky	Ballard	rec_facility_rate	0
+21009	Kentucky	Barren	rec_facility_rate	4.7
+21011	Kentucky	Bath	rec_facility_rate	0
+21013	Kentucky	Bell	rec_facility_rate	7
+21015	Kentucky	Boone	rec_facility_rate	10.9
+21017	Kentucky	Bourbon	rec_facility_rate	0
+21019	Kentucky	Boyd	rec_facility_rate	8.1
+21021	Kentucky	Boyle	rec_facility_rate	10.5
+21023	Kentucky	Bracken	rec_facility_rate	0
+21025	Kentucky	Breathitt	rec_facility_rate	0
+21027	Kentucky	Breckinridge	rec_facility_rate	0
+21029	Kentucky	Bullitt	rec_facility_rate	10.7
+21031	Kentucky	Butler	rec_facility_rate	0
+21033	Kentucky	Caldwell	rec_facility_rate	0
+21035	Kentucky	Calloway	rec_facility_rate	8
+21037	Kentucky	Campbell	rec_facility_rate	12.2
+21039	Kentucky	Carlisle	rec_facility_rate	0
+21041	Kentucky	Carroll	rec_facility_rate	9.3
+21043	Kentucky	Carter	rec_facility_rate	7.2
+21045	Kentucky	Casey	rec_facility_rate	6.3
+21047	Kentucky	Christian	rec_facility_rate	4
+21049	Kentucky	Clark	rec_facility_rate	5.6
+21051	Kentucky	Clay	rec_facility_rate	0
+21053	Kentucky	Clinton	rec_facility_rate	9.7
+21055	Kentucky	Crittenden	rec_facility_rate	0
+21057	Kentucky	Cumberland	rec_facility_rate	0
+21059	Kentucky	Daviess	rec_facility_rate	8.3
+21061	Kentucky	Edmonson	rec_facility_rate	0
+21063	Kentucky	Elliott	rec_facility_rate	0
+21065	Kentucky	Estill	rec_facility_rate	0
+21067	Kentucky	Fayette	rec_facility_rate	14.2
+21069	Kentucky	Fleming	rec_facility_rate	13.9
+21071	Kentucky	Floyd	rec_facility_rate	0
+21073	Kentucky	Franklin	rec_facility_rate	12.2
+21075	Kentucky	Fulton	rec_facility_rate	0
+21077	Kentucky	Gallatin	rec_facility_rate	0
+21079	Kentucky	Garrard	rec_facility_rate	0
+21081	Kentucky	Grant	rec_facility_rate	12.2
+21083	Kentucky	Graves	rec_facility_rate	5.4
+21085	Kentucky	Grayson	rec_facility_rate	0
+21087	Kentucky	Green	rec_facility_rate	0
+21089	Kentucky	Greenup	rec_facility_rate	2.7
+21091	Kentucky	Hancock	rec_facility_rate	0
+21093	Kentucky	Hardin	rec_facility_rate	10.3
+21095	Kentucky	Harlan	rec_facility_rate	0
+21097	Kentucky	Harrison	rec_facility_rate	5.3
+21099	Kentucky	Hart	rec_facility_rate	5.5
+21101	Kentucky	Henderson	rec_facility_rate	8.6
+21103	Kentucky	Henry	rec_facility_rate	0
+21105	Kentucky	Hickman	rec_facility_rate	0
+21107	Kentucky	Hopkins	rec_facility_rate	8.5
+21109	Kentucky	Jackson	rec_facility_rate	0
+21111	Kentucky	Jefferson	rec_facility_rate	11
+21113	Kentucky	Jessamine	rec_facility_rate	8.2
+21115	Kentucky	Johnson	rec_facility_rate	8.5
+21117	Kentucky	Kenton	rec_facility_rate	11.9
+21119	Kentucky	Knott	rec_facility_rate	0
+21121	Kentucky	Knox	rec_facility_rate	0
+21123	Kentucky	Larue	rec_facility_rate	21.1
+21125	Kentucky	Laurel	rec_facility_rate	3.4
+21127	Kentucky	Lawrence	rec_facility_rate	0
+21129	Kentucky	Lee	rec_facility_rate	0
+21131	Kentucky	Leslie	rec_facility_rate	0
+21133	Kentucky	Letcher	rec_facility_rate	0
+21135	Kentucky	Lewis	rec_facility_rate	0
+21137	Kentucky	Lincoln	rec_facility_rate	4
+21139	Kentucky	Livingston	rec_facility_rate	0
+21141	Kentucky	Logan	rec_facility_rate	0
+21143	Kentucky	Lyon	rec_facility_rate	0
+21145	Kentucky	McCracken	rec_facility_rate	16.8
+21147	Kentucky	McCreary	rec_facility_rate	0
+21149	Kentucky	McLean	rec_facility_rate	0
+21151	Kentucky	Madison	rec_facility_rate	13.2
+21153	Kentucky	Magoffin	rec_facility_rate	0
+21155	Kentucky	Marion	rec_facility_rate	5
+21157	Kentucky	Marshall	rec_facility_rate	9.5
+21159	Kentucky	Martin	rec_facility_rate	7.8
+21161	Kentucky	Mason	rec_facility_rate	11.4
+21163	Kentucky	Meade	rec_facility_rate	3.5
+21165	Kentucky	Menifee	rec_facility_rate	0
+21167	Kentucky	Mercer	rec_facility_rate	4.7
+21169	Kentucky	Metcalfe	rec_facility_rate	0
+21171	Kentucky	Monroe	rec_facility_rate	18.2
+21173	Kentucky	Montgomery	rec_facility_rate	15.1
+21175	Kentucky	Morgan	rec_facility_rate	7.2
+21177	Kentucky	Muhlenberg	rec_facility_rate	6.4
+21179	Kentucky	Nelson	rec_facility_rate	13.8
+21181	Kentucky	Nicholas	rec_facility_rate	0
+21183	Kentucky	Ohio	rec_facility_rate	4.2
+21185	Kentucky	Oldham	rec_facility_rate	6.6
+21187	Kentucky	Owen	rec_facility_rate	0
+21189	Kentucky	Owsley	rec_facility_rate	0
+21191	Kentucky	Pendleton	rec_facility_rate	6.7
+21193	Kentucky	Perry	rec_facility_rate	0
+21195	Kentucky	Pike	rec_facility_rate	3.1
+21197	Kentucky	Powell	rec_facility_rate	7.9
+21199	Kentucky	Pulaski	rec_facility_rate	9.5
+21201	Kentucky	Robertson	rec_facility_rate	0
+21203	Kentucky	Rockcastle	rec_facility_rate	0
+21205	Kentucky	Rowan	rec_facility_rate	8.6
+21207	Kentucky	Russell	rec_facility_rate	5.7
+21209	Kentucky	Scott	rec_facility_rate	4.2
+21211	Kentucky	Shelby	rec_facility_rate	9.4
+21213	Kentucky	Simpson	rec_facility_rate	11.5
+21215	Kentucky	Spencer	rec_facility_rate	5.8
+21217	Kentucky	Taylor	rec_facility_rate	20.4
+21219	Kentucky	Todd	rec_facility_rate	0
+21221	Kentucky	Trigg	rec_facility_rate	7
+21223	Kentucky	Trimble	rec_facility_rate	0
+21225	Kentucky	Union	rec_facility_rate	13.3
+21227	Kentucky	Warren	rec_facility_rate	7.9
+21229	Kentucky	Washington	rec_facility_rate	8.5
+21231	Kentucky	Wayne	rec_facility_rate	4.8
+21233	Kentucky	Webster	rec_facility_rate	7.3
+21235	Kentucky	Whitley	rec_facility_rate	2.8
+21237	Kentucky	Wolfe	rec_facility_rate	13.6
+21239	Kentucky	Woodford	rec_facility_rate	0
+22001	Louisiana	Acadia	rec_facility_rate	11.3
+22003	Louisiana	Allen	rec_facility_rate	3.9
+22005	Louisiana	Ascension	rec_facility_rate	13.9
+22007	Louisiana	Assumption	rec_facility_rate	4.3
+22009	Louisiana	Avoyelles	rec_facility_rate	2.4
+22011	Louisiana	Beauregard	rec_facility_rate	5.6
+22013	Louisiana	Bienville	rec_facility_rate	0
+22015	Louisiana	Bossier	rec_facility_rate	11.1
+22017	Louisiana	Caddo	rec_facility_rate	9.4
+22019	Louisiana	Calcasieu	rec_facility_rate	6.7
+22021	Louisiana	Caldwell	rec_facility_rate	9.9
+22023	Louisiana	Cameron	rec_facility_rate	0
+22025	Louisiana	Catahoula	rec_facility_rate	0
+22027	Louisiana	Claiborne	rec_facility_rate	5.8
+22029	Louisiana	Concordia	rec_facility_rate	9.6
+22031	Louisiana	De Soto	rec_facility_rate	7.5
+22033	Louisiana	East Baton Rouge	rec_facility_rate	14.7
+22035	Louisiana	East Carroll	rec_facility_rate	0
+22037	Louisiana	East Feliciana	rec_facility_rate	5
+22039	Louisiana	Evangeline	rec_facility_rate	2.9
+22041	Louisiana	Franklin	rec_facility_rate	4.8
+22043	Louisiana	Grant	rec_facility_rate	0
+22045	Louisiana	Iberia	rec_facility_rate	5.5
+22047	Louisiana	Iberville	rec_facility_rate	3
+22049	Louisiana	Jackson	rec_facility_rate	6.1
+22051	Louisiana	Jefferson	rec_facility_rate	10.2
+22053	Louisiana	Jefferson Davis	rec_facility_rate	6.3
+22055	Louisiana	Lafayette	rec_facility_rate	11.7
+22057	Louisiana	Lafourche	rec_facility_rate	9.3
+22059	Louisiana	La Salle	rec_facility_rate	0
+22061	Louisiana	Lincoln	rec_facility_rate	8.5
+22063	Louisiana	Livingston	rec_facility_rate	10.1
+22065	Louisiana	Madison	rec_facility_rate	0
+22067	Louisiana	Morehouse	rec_facility_rate	0
+22069	Louisiana	Natchitoches	rec_facility_rate	7.6
+22071	Louisiana	Orleans	rec_facility_rate	8
+22073	Louisiana	Ouachita	rec_facility_rate	9.7
+22075	Louisiana	Plaquemines	rec_facility_rate	8.6
+22077	Louisiana	Pointe Coupee	rec_facility_rate	4.4
+22079	Louisiana	Rapides	rec_facility_rate	7.6
+22081	Louisiana	Red River	rec_facility_rate	0
+22083	Louisiana	Richland	rec_facility_rate	4.8
+22085	Louisiana	Sabine	rec_facility_rate	0
+22087	Louisiana	St. Bernard	rec_facility_rate	8.2
+22089	Louisiana	St. Charles	rec_facility_rate	13.3
+22091	Louisiana	St. Helena	rec_facility_rate	0
+22093	Louisiana	St. James	rec_facility_rate	13.6
+22095	Louisiana	St. John the Baptist	rec_facility_rate	10.9
+22097	Louisiana	St. Landry	rec_facility_rate	6
+22099	Louisiana	St. Martin	rec_facility_rate	5.7
+22101	Louisiana	St. Mary	rec_facility_rate	11
+22103	Louisiana	St. Tammany	rec_facility_rate	11.5
+22105	Louisiana	Tangipahoa	rec_facility_rate	9.1
+22107	Louisiana	Tensas	rec_facility_rate	0
+22109	Louisiana	Terrebonne	rec_facility_rate	9.8
+22111	Louisiana	Union	rec_facility_rate	13.2
+22113	Louisiana	Vermilion	rec_facility_rate	8.6
+22115	Louisiana	Vernon	rec_facility_rate	1.9
+22117	Louisiana	Washington	rec_facility_rate	4.2
+22119	Louisiana	Webster	rec_facility_rate	2.4
+22121	Louisiana	West Baton Rouge	rec_facility_rate	16.7
+22123	Louisiana	West Carroll	rec_facility_rate	8.6
+22125	Louisiana	West Feliciana	rec_facility_rate	0
+22127	Louisiana	Winn	rec_facility_rate	6.5
+23001	Maine	Androscoggin	rec_facility_rate	13
+23003	Maine	Aroostook	rec_facility_rate	4.2
+23005	Maine	Cumberland	rec_facility_rate	14.6
+23007	Maine	Franklin	rec_facility_rate	6.5
+23009	Maine	Hancock	rec_facility_rate	16.6
+23011	Maine	Kennebec	rec_facility_rate	12.3
+23013	Maine	Knox	rec_facility_rate	20.1
+23015	Maine	Lincoln	rec_facility_rate	14.5
+23017	Maine	Oxford	rec_facility_rate	3.5
+23019	Maine	Penobscot	rec_facility_rate	9.8
+23021	Maine	Piscataquis	rec_facility_rate	11.4
+23023	Maine	Sagadahoc	rec_facility_rate	14.2
+23025	Maine	Somerset	rec_facility_rate	3.8
+23027	Maine	Waldo	rec_facility_rate	10.3
+23029	Maine	Washington	rec_facility_rate	9.1
+23031	Maine	York	rec_facility_rate	12.2
+24001	Maryland	Allegany	rec_facility_rate	13.3
+24003	Maryland	Anne Arundel	rec_facility_rate	14.5
+24005	Maryland	Baltimore	rec_facility_rate	15.3
+24009	Maryland	Calvert	rec_facility_rate	9
+24011	Maryland	Caroline	rec_facility_rate	6
+24013	Maryland	Carroll	rec_facility_rate	12.6
+24015	Maryland	Cecil	rec_facility_rate	5.9
+24017	Maryland	Charles	rec_facility_rate	6.1
+24019	Maryland	Dorchester	rec_facility_rate	12.3
+24021	Maryland	Frederick	rec_facility_rate	12.8
+24023	Maryland	Garrett	rec_facility_rate	13.3
+24025	Maryland	Harford	rec_facility_rate	11.4
+24027	Maryland	Howard	rec_facility_rate	15.6
+24029	Maryland	Kent	rec_facility_rate	19.8
+24031	Maryland	Montgomery	rec_facility_rate	13.8
+24033	Maryland	Prince George's	rec_facility_rate	7.4
+24035	Maryland	Queen Anne's	rec_facility_rate	10.4
+24037	Maryland	St. Mary's	rec_facility_rate	9.5
+24039	Maryland	Somerset	rec_facility_rate	3.8
+24041	Maryland	Talbot	rec_facility_rate	21.1
+24043	Maryland	Washington	rec_facility_rate	10.2
+24045	Maryland	Wicomico	rec_facility_rate	10.1
+24047	Maryland	Worcester	rec_facility_rate	19.4
+24510	Maryland	Baltimore City	rec_facility_rate	5.6
+25001	Massachusetts	Barnstable	rec_facility_rate	21.3
+25003	Massachusetts	Berkshire	rec_facility_rate	9.2
+25005	Massachusetts	Bristol	rec_facility_rate	14
+25007	Massachusetts	Dukes	rec_facility_rate	42.2
+25009	Massachusetts	Essex	rec_facility_rate	16
+25011	Massachusetts	Franklin	rec_facility_rate	11.2
+25013	Massachusetts	Hampden	rec_facility_rate	8.2
+25015	Massachusetts	Hampshire	rec_facility_rate	12.7
+25017	Massachusetts	Middlesex	rec_facility_rate	20.1
+25019	Massachusetts	Nantucket	rec_facility_rate	19.7
+25021	Massachusetts	Norfolk	rec_facility_rate	17.9
+25023	Massachusetts	Plymouth	rec_facility_rate	19
+25025	Massachusetts	Suffolk	rec_facility_rate	14.7
+25027	Massachusetts	Worcester	rec_facility_rate	12.8
+26001	Michigan	Alcona	rec_facility_rate	0
+26003	Michigan	Alger	rec_facility_rate	0
+26005	Michigan	Allegan	rec_facility_rate	5.4
+26007	Michigan	Alpena	rec_facility_rate	6.8
+26009	Michigan	Antrim	rec_facility_rate	8.5
+26011	Michigan	Arenac	rec_facility_rate	6.3
+26013	Michigan	Baraga	rec_facility_rate	0
+26015	Michigan	Barry	rec_facility_rate	8.5
+26017	Michigan	Bay	rec_facility_rate	8.4
+26019	Michigan	Benzie	rec_facility_rate	5.7
+26021	Michigan	Berrien	rec_facility_rate	8.3
+26023	Michigan	Branch	rec_facility_rate	11.1
+26025	Michigan	Calhoun	rec_facility_rate	8.8
+26027	Michigan	Cass	rec_facility_rate	3.8
+26029	Michigan	Charlevoix	rec_facility_rate	19.3
+26031	Michigan	Cheboygan	rec_facility_rate	15.3
+26033	Michigan	Chippewa	rec_facility_rate	5.2
+26035	Michigan	Clare	rec_facility_rate	9.7
+26037	Michigan	Clinton	rec_facility_rate	4
+26039	Michigan	Crawford	rec_facility_rate	7.1
+26041	Michigan	Delta	rec_facility_rate	21.6
+26043	Michigan	Dickinson	rec_facility_rate	34.4
+26045	Michigan	Eaton	rec_facility_rate	9.3
+26047	Michigan	Emmet	rec_facility_rate	12.2
+26049	Michigan	Genesee	rec_facility_rate	6.6
+26051	Michigan	Gladwin	rec_facility_rate	7.8
+26053	Michigan	Gogebic	rec_facility_rate	18.3
+26055	Michigan	Grand Traverse	rec_facility_rate	13.8
+26057	Michigan	Gratiot	rec_facility_rate	4.7
+26059	Michigan	Hillsdale	rec_facility_rate	10.7
+26061	Michigan	Houghton	rec_facility_rate	13.6
+26063	Michigan	Huron	rec_facility_rate	12.1
+26065	Michigan	Ingham	rec_facility_rate	8.9
+26067	Michigan	Ionia	rec_facility_rate	9.4
+26069	Michigan	Iosco	rec_facility_rate	3.9
+26071	Michigan	Iron	rec_facility_rate	16.9
+26073	Michigan	Isabella	rec_facility_rate	5.7
+26075	Michigan	Jackson	rec_facility_rate	8.1
+26077	Michigan	Kalamazoo	rec_facility_rate	13.2
+26079	Michigan	Kalkaska	rec_facility_rate	0
+26081	Michigan	Kent	rec_facility_rate	10.1
+26083	Michigan	Keweenaw	rec_facility_rate	0
+26085	Michigan	Lake	rec_facility_rate	0
+26087	Michigan	Lapeer	rec_facility_rate	4.5
+26089	Michigan	Leelanau	rec_facility_rate	9.2
+26091	Michigan	Lenawee	rec_facility_rate	7
+26093	Michigan	Livingston	rec_facility_rate	9.9
+26095	Michigan	Luce	rec_facility_rate	0
+26097	Michigan	Mackinac	rec_facility_rate	0
+26099	Michigan	Macomb	rec_facility_rate	7.3
+26101	Michigan	Manistee	rec_facility_rate	0
+26103	Michigan	Marquette	rec_facility_rate	13.4
+26105	Michigan	Mason	rec_facility_rate	7
+26107	Michigan	Mecosta	rec_facility_rate	9.3
+26109	Michigan	Menominee	rec_facility_rate	16.7
+26111	Michigan	Midland	rec_facility_rate	21.5
+26113	Michigan	Missaukee	rec_facility_rate	6.7
+26115	Michigan	Monroe	rec_facility_rate	9.2
+26117	Michigan	Montcalm	rec_facility_rate	7.9
+26119	Michigan	Montmorency	rec_facility_rate	0
+26121	Michigan	Muskegon	rec_facility_rate	8.7
+26123	Michigan	Newaygo	rec_facility_rate	4.1
+26125	Michigan	Oakland	rec_facility_rate	13.4
+26127	Michigan	Oceana	rec_facility_rate	3.8
+26129	Michigan	Ogemaw	rec_facility_rate	9.2
+26131	Michigan	Ontonagon	rec_facility_rate	0
+26133	Michigan	Osceola	rec_facility_rate	0
+26135	Michigan	Oscoda	rec_facility_rate	0
+26137	Michigan	Otsego	rec_facility_rate	12.4
+26139	Michigan	Ottawa	rec_facility_rate	8.7
+26141	Michigan	Presque Isle	rec_facility_rate	30
+26143	Michigan	Roscommon	rec_facility_rate	4.1
+26145	Michigan	Saginaw	rec_facility_rate	6.5
+26147	Michigan	St. Clair	rec_facility_rate	9.8
+26149	Michigan	St. Joseph	rec_facility_rate	6.5
+26151	Michigan	Sanilac	rec_facility_rate	2.3
+26153	Michigan	Schoolcraft	rec_facility_rate	0
+26155	Michigan	Shiawassee	rec_facility_rate	8.5
+26157	Michigan	Tuscola	rec_facility_rate	7.2
+26159	Michigan	Van Buren	rec_facility_rate	3.9
+26161	Michigan	Washtenaw	rec_facility_rate	11.9
+26163	Michigan	Wayne	rec_facility_rate	6.9
+26165	Michigan	Wexford	rec_facility_rate	18.3
+27001	Minnesota	Aitkin	rec_facility_rate	0
+27003	Minnesota	Anoka	rec_facility_rate	8.7
+27005	Minnesota	Becker	rec_facility_rate	9.2
+27007	Minnesota	Beltrami	rec_facility_rate	9
+27009	Minnesota	Benton	rec_facility_rate	7.8
+27011	Minnesota	Big Stone	rec_facility_rate	19
+27013	Minnesota	Blue Earth	rec_facility_rate	12.5
+27015	Minnesota	Brown	rec_facility_rate	19.3
+27017	Minnesota	Carlton	rec_facility_rate	11.3
+27019	Minnesota	Carver	rec_facility_rate	16.4
+27021	Minnesota	Cass	rec_facility_rate	0
+27023	Minnesota	Chippewa	rec_facility_rate	16.1
+27025	Minnesota	Chisago	rec_facility_rate	11.1
+27027	Minnesota	Clay	rec_facility_rate	8.5
+27029	Minnesota	Clearwater	rec_facility_rate	0
+27031	Minnesota	Cook	rec_facility_rate	19.3
+27033	Minnesota	Cottonwood	rec_facility_rate	8.5
+27035	Minnesota	Crow Wing	rec_facility_rate	12.8
+27037	Minnesota	Dakota	rec_facility_rate	11.3
+27039	Minnesota	Dodge	rec_facility_rate	5
+27041	Minnesota	Douglas	rec_facility_rate	13.9
+27043	Minnesota	Faribault	rec_facility_rate	6.9
+27045	Minnesota	Fillmore	rec_facility_rate	4.8
+27047	Minnesota	Freeborn	rec_facility_rate	6.4
+27049	Minnesota	Goodhue	rec_facility_rate	13
+27051	Minnesota	Grant	rec_facility_rate	0
+27053	Minnesota	Hennepin	rec_facility_rate	13
+27055	Minnesota	Houston	rec_facility_rate	10.5
+27057	Minnesota	Hubbard	rec_facility_rate	14.7
+27059	Minnesota	Isanti	rec_facility_rate	18.5
+27061	Minnesota	Itasca	rec_facility_rate	4.4
+27063	Minnesota	Jackson	rec_facility_rate	19.5
+27065	Minnesota	Kanabec	rec_facility_rate	12.3
+27067	Minnesota	Kandiyohi	rec_facility_rate	14.2
+27069	Minnesota	Kittson	rec_facility_rate	0
+27071	Minnesota	Koochiching	rec_facility_rate	22.5
+27073	Minnesota	Lac qui Parle	rec_facility_rate	13.8
+27075	Minnesota	Lake	rec_facility_rate	9.2
+27077	Minnesota	Lake of the Woods	rec_facility_rate	24.7
+27079	Minnesota	Le Sueur	rec_facility_rate	25.3
+27081	Minnesota	Lincoln	rec_facility_rate	0
+27083	Minnesota	Lyon	rec_facility_rate	7.7
+27085	Minnesota	McLeod	rec_facility_rate	21.8
+27087	Minnesota	Mahnomen	rec_facility_rate	0
+27089	Minnesota	Marshall	rec_facility_rate	0
+27091	Minnesota	Martin	rec_facility_rate	9.6
+27093	Minnesota	Meeker	rec_facility_rate	17.2
+27095	Minnesota	Mille Lacs	rec_facility_rate	11.5
+27097	Minnesota	Morrison	rec_facility_rate	12
+27099	Minnesota	Mower	rec_facility_rate	10.2
+27101	Minnesota	Murray	rec_facility_rate	23
+27103	Minnesota	Nicollet	rec_facility_rate	9.2
+27105	Minnesota	Nobles	rec_facility_rate	14
+27107	Minnesota	Norman	rec_facility_rate	0
+27109	Minnesota	Olmsted	rec_facility_rate	7.6
+27111	Minnesota	Otter Tail	rec_facility_rate	12.2
+27113	Minnesota	Pennington	rec_facility_rate	0
+27115	Minnesota	Pine	rec_facility_rate	3.4
+27117	Minnesota	Pipestone	rec_facility_rate	0
+27119	Minnesota	Polk	rec_facility_rate	6.3
+27121	Minnesota	Pope	rec_facility_rate	18.2
+27123	Minnesota	Ramsey	rec_facility_rate	8.8
+27125	Minnesota	Red Lake	rec_facility_rate	0
+27127	Minnesota	Redwood	rec_facility_rate	0
+27129	Minnesota	Renville	rec_facility_rate	6.4
+27131	Minnesota	Rice	rec_facility_rate	9.3
+27133	Minnesota	Rock	rec_facility_rate	20.7
+27135	Minnesota	Roseau	rec_facility_rate	6.4
+27137	Minnesota	St. Louis	rec_facility_rate	9
+27139	Minnesota	Scott	rec_facility_rate	10
+27141	Minnesota	Sherburne	rec_facility_rate	9
+27143	Minnesota	Sibley	rec_facility_rate	13.1
+27145	Minnesota	Stearns	rec_facility_rate	17.2
+27147	Minnesota	Steele	rec_facility_rate	8.2
+27149	Minnesota	Stevens	rec_facility_rate	10.3
+27151	Minnesota	Swift	rec_facility_rate	0
+27153	Minnesota	Todd	rec_facility_rate	12.1
+27155	Minnesota	Traverse	rec_facility_rate	0
+27157	Minnesota	Wabasha	rec_facility_rate	18.5
+27159	Minnesota	Wadena	rec_facility_rate	7.2
+27161	Minnesota	Waseca	rec_facility_rate	20.9
+27163	Minnesota	Washington	rec_facility_rate	13.8
+27165	Minnesota	Watonwan	rec_facility_rate	17.8
+27167	Minnesota	Wilkin	rec_facility_rate	0
+27169	Minnesota	Winona	rec_facility_rate	11.7
+27171	Minnesota	Wright	rec_facility_rate	9.6
+27173	Minnesota	Yellow Medicine	rec_facility_rate	0
+28001	Mississippi	Adams	rec_facility_rate	6.2
+28003	Mississippi	Alcorn	rec_facility_rate	10.8
+28005	Mississippi	Amite	rec_facility_rate	15.3
+28007	Mississippi	Attala	rec_facility_rate	5.1
+28009	Mississippi	Benton	rec_facility_rate	0
+28011	Mississippi	Bolivar	rec_facility_rate	8.8
+28013	Mississippi	Calhoun	rec_facility_rate	0
+28015	Mississippi	Carroll	rec_facility_rate	0
+28017	Mississippi	Chickasaw	rec_facility_rate	0
+28019	Mississippi	Choctaw	rec_facility_rate	0
+28021	Mississippi	Claiborne	rec_facility_rate	0
+28023	Mississippi	Clarke	rec_facility_rate	0
+28025	Mississippi	Clay	rec_facility_rate	0
+28027	Mississippi	Coahoma	rec_facility_rate	3.8
+28029	Mississippi	Copiah	rec_facility_rate	0
+28031	Mississippi	Covington	rec_facility_rate	0
+28033	Mississippi	DeSoto	rec_facility_rate	9.3
+28035	Mississippi	Forrest	rec_facility_rate	9.3
+28037	Mississippi	Franklin	rec_facility_rate	0
+28039	Mississippi	George	rec_facility_rate	8.8
+28041	Mississippi	Greene	rec_facility_rate	7
+28043	Mississippi	Grenada	rec_facility_rate	18.3
+28045	Mississippi	Hancock	rec_facility_rate	6.8
+28047	Mississippi	Harrison	rec_facility_rate	6.4
+28049	Mississippi	Hinds	rec_facility_rate	9
+28051	Mississippi	Holmes	rec_facility_rate	0
+28053	Mississippi	Humphreys	rec_facility_rate	0
+28055	Mississippi	Issaquena	rec_facility_rate	0
+28057	Mississippi	Itawamba	rec_facility_rate	4.3
+28059	Mississippi	Jackson	rec_facility_rate	10
+28061	Mississippi	Jasper	rec_facility_rate	0
+28063	Mississippi	Jefferson	rec_facility_rate	0
+28065	Mississippi	Jefferson Davis	rec_facility_rate	0
+28067	Mississippi	Jones	rec_facility_rate	4.4
+28069	Mississippi	Kemper	rec_facility_rate	0
+28071	Mississippi	Lafayette	rec_facility_rate	10.5
+28073	Mississippi	Lamar	rec_facility_rate	12.5
+28075	Mississippi	Lauderdale	rec_facility_rate	5
+28077	Mississippi	Lawrence	rec_facility_rate	7.7
+28079	Mississippi	Leake	rec_facility_rate	4.2
+28081	Mississippi	Lee	rec_facility_rate	8.4
+28083	Mississippi	Leflore	rec_facility_rate	12.4
+28085	Mississippi	Lincoln	rec_facility_rate	14.3
+28087	Mississippi	Lowndes	rec_facility_rate	10
+28089	Mississippi	Madison	rec_facility_rate	14.7
+28091	Mississippi	Marion	rec_facility_rate	11.1
+28093	Mississippi	Marshall	rec_facility_rate	0
+28095	Mississippi	Monroe	rec_facility_rate	2.7
+28097	Mississippi	Montgomery	rec_facility_rate	0
+28099	Mississippi	Neshoba	rec_facility_rate	6.7
+28101	Mississippi	Newton	rec_facility_rate	4.6
+28103	Mississippi	Noxubee	rec_facility_rate	0
+28105	Mississippi	Oktibbeha	rec_facility_rate	8.4
+28107	Mississippi	Panola	rec_facility_rate	5.8
+28109	Mississippi	Pearl River	rec_facility_rate	5.4
+28111	Mississippi	Perry	rec_facility_rate	0
+28113	Mississippi	Pike	rec_facility_rate	9.9
+28115	Mississippi	Pontotoc	rec_facility_rate	3.3
+28117	Mississippi	Prentiss	rec_facility_rate	4
+28119	Mississippi	Quitman	rec_facility_rate	0
+28121	Mississippi	Rankin	rec_facility_rate	15.5
+28123	Mississippi	Scott	rec_facility_rate	7.1
+28125	Mississippi	Sharkey	rec_facility_rate	0
+28127	Mississippi	Simpson	rec_facility_rate	0
+28129	Mississippi	Smith	rec_facility_rate	0
+28131	Mississippi	Stone	rec_facility_rate	11.2
+28133	Mississippi	Sunflower	rec_facility_rate	3.4
+28135	Mississippi	Tallahatchie	rec_facility_rate	0
+28137	Mississippi	Tate	rec_facility_rate	3.5
+28139	Mississippi	Tippah	rec_facility_rate	0
+28141	Mississippi	Tishomingo	rec_facility_rate	0
+28143	Mississippi	Tunica	rec_facility_rate	0
+28145	Mississippi	Union	rec_facility_rate	11
+28147	Mississippi	Walthall	rec_facility_rate	13
+28149	Mississippi	Warren	rec_facility_rate	10.2
+28151	Mississippi	Washington	rec_facility_rate	11.8
+28153	Mississippi	Wayne	rec_facility_rate	0
+28155	Mississippi	Webster	rec_facility_rate	0
+28157	Mississippi	Wilkinson	rec_facility_rate	0
+28159	Mississippi	Winston	rec_facility_rate	0
+28161	Mississippi	Yalobusha	rec_facility_rate	0
+28163	Mississippi	Yazoo	rec_facility_rate	0
+29001	Missouri	Adair	rec_facility_rate	3.9
+29003	Missouri	Andrew	rec_facility_rate	5.8
+29005	Missouri	Atchison	rec_facility_rate	17.7
+29007	Missouri	Audrain	rec_facility_rate	7.8
+29009	Missouri	Barry	rec_facility_rate	11.2
+29011	Missouri	Barton	rec_facility_rate	0
+29013	Missouri	Bates	rec_facility_rate	11.7
+29015	Missouri	Benton	rec_facility_rate	5.2
+29017	Missouri	Bollinger	rec_facility_rate	8.1
+29019	Missouri	Boone	rec_facility_rate	12.9
+29021	Missouri	Buchanan	rec_facility_rate	12.4
+29023	Missouri	Butler	rec_facility_rate	4.7
+29025	Missouri	Caldwell	rec_facility_rate	0
+29027	Missouri	Callaway	rec_facility_rate	6.8
+29029	Missouri	Camden	rec_facility_rate	11.4
+29031	Missouri	Cape Girardeau	rec_facility_rate	6.6
+29033	Missouri	Carroll	rec_facility_rate	0
+29035	Missouri	Carter	rec_facility_rate	0
+29037	Missouri	Cass	rec_facility_rate	9
+29039	Missouri	Cedar	rec_facility_rate	7.1
+29041	Missouri	Chariton	rec_facility_rate	0
+29043	Missouri	Christian	rec_facility_rate	11.6
+29045	Missouri	Clark	rec_facility_rate	0
+29047	Missouri	Clay	rec_facility_rate	7.6
+29049	Missouri	Clinton	rec_facility_rate	4.8
+29051	Missouri	Cole	rec_facility_rate	14.5
+29053	Missouri	Cooper	rec_facility_rate	11.4
+29055	Missouri	Crawford	rec_facility_rate	8.1
+29057	Missouri	Dade	rec_facility_rate	0
+29059	Missouri	Dallas	rec_facility_rate	6
+29061	Missouri	Daviess	rec_facility_rate	0
+29063	Missouri	DeKalb	rec_facility_rate	0
+29065	Missouri	Dent	rec_facility_rate	0
+29067	Missouri	Douglas	rec_facility_rate	7.3
+29069	Missouri	Dunklin	rec_facility_rate	3.1
+29071	Missouri	Franklin	rec_facility_rate	10.8
+29073	Missouri	Gasconade	rec_facility_rate	0
+29075	Missouri	Gentry	rec_facility_rate	14.8
+29077	Missouri	Greene	rec_facility_rate	10.5
+29079	Missouri	Grundy	rec_facility_rate	0
+29081	Missouri	Harrison	rec_facility_rate	11.2
+29083	Missouri	Henry	rec_facility_rate	13.5
+29085	Missouri	Hickory	rec_facility_rate	10.4
+29087	Missouri	Holt	rec_facility_rate	40.8
+29089	Missouri	Howard	rec_facility_rate	0
+29091	Missouri	Howell	rec_facility_rate	9.9
+29093	Missouri	Iron	rec_facility_rate	18.9
+29095	Missouri	Jackson	rec_facility_rate	7.3
+29097	Missouri	Jasper	rec_facility_rate	10.2
+29099	Missouri	Jefferson	rec_facility_rate	5
+29101	Missouri	Johnson	rec_facility_rate	5.7
+29103	Missouri	Knox	rec_facility_rate	48.4
+29105	Missouri	Laclede	rec_facility_rate	11.2
+29107	Missouri	Lafayette	rec_facility_rate	3
+29109	Missouri	Lawrence	rec_facility_rate	10.4
+29111	Missouri	Lewis	rec_facility_rate	29.4
+29113	Missouri	Lincoln	rec_facility_rate	7.6
+29115	Missouri	Linn	rec_facility_rate	0
+29117	Missouri	Livingston	rec_facility_rate	0
+29119	Missouri	McDonald	rec_facility_rate	4.3
+29121	Missouri	Macon	rec_facility_rate	19.2
+29123	Missouri	Madison	rec_facility_rate	8.2
+29125	Missouri	Maries	rec_facility_rate	0
+29127	Missouri	Marion	rec_facility_rate	24.3
+29129	Missouri	Mercer	rec_facility_rate	26.5
+29131	Missouri	Miller	rec_facility_rate	8.1
+29133	Missouri	Mississippi	rec_facility_rate	7
+29135	Missouri	Moniteau	rec_facility_rate	12.8
+29137	Missouri	Monroe	rec_facility_rate	11.4
+29139	Missouri	Montgomery	rec_facility_rate	8.2
+29141	Missouri	Morgan	rec_facility_rate	19.5
+29143	Missouri	New Madrid	rec_facility_rate	0
+29145	Missouri	Newton	rec_facility_rate	5.2
+29147	Missouri	Nodaway	rec_facility_rate	4.3
+29149	Missouri	Oregon	rec_facility_rate	0
+29151	Missouri	Osage	rec_facility_rate	0
+29153	Missouri	Ozark	rec_facility_rate	0
+29155	Missouri	Pemiscot	rec_facility_rate	11
+29157	Missouri	Perry	rec_facility_rate	5.3
+29159	Missouri	Pettis	rec_facility_rate	11.8
+29161	Missouri	Phelps	rec_facility_rate	8.8
+29163	Missouri	Pike	rec_facility_rate	5.4
+29165	Missouri	Platte	rec_facility_rate	15.6
+29167	Missouri	Polk	rec_facility_rate	6.4
+29169	Missouri	Pulaski	rec_facility_rate	5.7
+29171	Missouri	Putnam	rec_facility_rate	0
+29173	Missouri	Ralls	rec_facility_rate	0
+29175	Missouri	Randolph	rec_facility_rate	11.8
+29177	Missouri	Ray	rec_facility_rate	4.3
+29179	Missouri	Reynolds	rec_facility_rate	0
+29181	Missouri	Ripley	rec_facility_rate	7.1
+29183	Missouri	St. Charles	rec_facility_rate	11.3
+29185	Missouri	St. Clair	rec_facility_rate	0
+29186	Missouri	Ste. Genevieve	rec_facility_rate	0
+29187	Missouri	St. Francois	rec_facility_rate	6.1
+29189	Missouri	St. Louis	rec_facility_rate	14.3
+29195	Missouri	Saline	rec_facility_rate	12.8
+29197	Missouri	Schuyler	rec_facility_rate	0
+29199	Missouri	Scotland	rec_facility_rate	20.7
+29201	Missouri	Scott	rec_facility_rate	10.2
+29203	Missouri	Shannon	rec_facility_rate	0
+29205	Missouri	Shelby	rec_facility_rate	15.7
+29207	Missouri	Stoddard	rec_facility_rate	10
+29209	Missouri	Stone	rec_facility_rate	6.2
+29211	Missouri	Sullivan	rec_facility_rate	0
+29213	Missouri	Taney	rec_facility_rate	11.6
+29215	Missouri	Texas	rec_facility_rate	3.8
+29217	Missouri	Vernon	rec_facility_rate	9.5
+29219	Missouri	Warren	rec_facility_rate	9.2
+29221	Missouri	Washington	rec_facility_rate	4
+29223	Missouri	Wayne	rec_facility_rate	0
+29225	Missouri	Webster	rec_facility_rate	11
+29227	Missouri	Worth	rec_facility_rate	0
+29229	Missouri	Wright	rec_facility_rate	10.6
+29510	Missouri	St. Louis City	rec_facility_rate	10.7
+30001	Montana	Beaverhead	rec_facility_rate	10.8
+30003	Montana	Big Horn	rec_facility_rate	0
+30005	Montana	Blaine	rec_facility_rate	0
+30007	Montana	Broadwater	rec_facility_rate	0
+30009	Montana	Carbon	rec_facility_rate	9.9
+30011	Montana	Carter	rec_facility_rate	0
+30013	Montana	Cascade	rec_facility_rate	9.8
+30015	Montana	Chouteau	rec_facility_rate	34.4
+30017	Montana	Custer	rec_facility_rate	0
+30019	Montana	Daniels	rec_facility_rate	0
+30021	Montana	Dawson	rec_facility_rate	11.2
+30023	Montana	Deer Lodge	rec_facility_rate	10.8
+30025	Montana	Fallon	rec_facility_rate	0
+30027	Montana	Fergus	rec_facility_rate	17.3
+30029	Montana	Flathead	rec_facility_rate	14.3
+30031	Montana	Gallatin	rec_facility_rate	17.9
+30033	Montana	Garfield	rec_facility_rate	0
+30035	Montana	Glacier	rec_facility_rate	0
+30037	Montana	Golden Valley	rec_facility_rate	0
+30039	Montana	Granite	rec_facility_rate	0
+30041	Montana	Hill	rec_facility_rate	37.1
+30043	Montana	Jefferson	rec_facility_rate	0
+30045	Montana	Judith Basin	rec_facility_rate	0
+30047	Montana	Lake	rec_facility_rate	10.4
+30049	Montana	Lewis and Clark	rec_facility_rate	20.4
+30051	Montana	Liberty	rec_facility_rate	42.5
+30053	Montana	Lincoln	rec_facility_rate	5.1
+30055	Montana	McCone	rec_facility_rate	0
+30057	Montana	Madison	rec_facility_rate	39
+30059	Montana	Meagher	rec_facility_rate	0
+30061	Montana	Mineral	rec_facility_rate	0
+30063	Montana	Missoula	rec_facility_rate	16.4
+30065	Montana	Musselshell	rec_facility_rate	0
+30067	Montana	Park	rec_facility_rate	6.4
+30069	Montana	Petroleum	rec_facility_rate	0
+30071	Montana	Phillips	rec_facility_rate	0
+30073	Montana	Pondera	rec_facility_rate	0
+30075	Montana	Powder River	rec_facility_rate	0
+30077	Montana	Powell	rec_facility_rate	14.2
+30079	Montana	Prairie	rec_facility_rate	0
+30081	Montana	Ravalli	rec_facility_rate	19.8
+30083	Montana	Richland	rec_facility_rate	10.3
+30085	Montana	Roosevelt	rec_facility_rate	0
+30087	Montana	Rosebud	rec_facility_rate	10.8
+30089	Montana	Sanders	rec_facility_rate	8.8
+30091	Montana	Sheridan	rec_facility_rate	0
+30093	Montana	Silver Bow	rec_facility_rate	11.7
+30095	Montana	Stillwater	rec_facility_rate	11
+30097	Montana	Sweet Grass	rec_facility_rate	0
+30099	Montana	Teton	rec_facility_rate	32.9
+30101	Montana	Toole	rec_facility_rate	0
+30103	Montana	Treasure	rec_facility_rate	0
+30105	Montana	Valley	rec_facility_rate	0
+30107	Montana	Wheatland	rec_facility_rate	0
+30109	Montana	Wibaux	rec_facility_rate	0
+30111	Montana	Yellowstone	rec_facility_rate	16.2
+31001	Nebraska	Adams	rec_facility_rate	12.8
+31003	Nebraska	Antelope	rec_facility_rate	0
+31005	Nebraska	Arthur	rec_facility_rate	0
+31007	Nebraska	Banner	rec_facility_rate	0
+31009	Nebraska	Blaine	rec_facility_rate	0
+31011	Nebraska	Boone	rec_facility_rate	0
+31013	Nebraska	Box Butte	rec_facility_rate	8.9
+31015	Nebraska	Boyd	rec_facility_rate	0
+31017	Nebraska	Brown	rec_facility_rate	31.7
+31019	Nebraska	Buffalo	rec_facility_rate	8.7
+31021	Nebraska	Burt	rec_facility_rate	0
+31023	Nebraska	Butler	rec_facility_rate	23.8
+31025	Nebraska	Cass	rec_facility_rate	0
+31027	Nebraska	Cedar	rec_facility_rate	11.3
+31029	Nebraska	Chase	rec_facility_rate	0
+31031	Nebraska	Cherry	rec_facility_rate	17.5
+31033	Nebraska	Cheyenne	rec_facility_rate	10
+31035	Nebraska	Clay	rec_facility_rate	0
+31037	Nebraska	Colfax	rec_facility_rate	0
+31039	Nebraska	Cuming	rec_facility_rate	10.9
+31041	Nebraska	Custer	rec_facility_rate	0
+31043	Nebraska	Dakota	rec_facility_rate	4.8
+31045	Nebraska	Dawes	rec_facility_rate	0
+31047	Nebraska	Dawson	rec_facility_rate	12.3
+31049	Nebraska	Deuel	rec_facility_rate	0
+31051	Nebraska	Dixon	rec_facility_rate	0
+31053	Nebraska	Dodge	rec_facility_rate	5.5
+31055	Nebraska	Douglas	rec_facility_rate	15.8
+31057	Nebraska	Dundy	rec_facility_rate	0
+31059	Nebraska	Fillmore	rec_facility_rate	0
+31061	Nebraska	Franklin	rec_facility_rate	30.9
+31063	Nebraska	Frontier	rec_facility_rate	0
+31065	Nebraska	Furnas	rec_facility_rate	0
+31067	Nebraska	Gage	rec_facility_rate	17.9
+31069	Nebraska	Garden	rec_facility_rate	0
+31071	Nebraska	Garfield	rec_facility_rate	48.9
+31073	Nebraska	Gosper	rec_facility_rate	0
+31075	Nebraska	Grant	rec_facility_rate	0
+31077	Nebraska	Greeley	rec_facility_rate	0
+31079	Nebraska	Hall	rec_facility_rate	11.9
+31081	Nebraska	Hamilton	rec_facility_rate	11
+31083	Nebraska	Harlan	rec_facility_rate	0
+31085	Nebraska	Hayes	rec_facility_rate	0
+31087	Nebraska	Hitchcock	rec_facility_rate	0
+31089	Nebraska	Holt	rec_facility_rate	9.6
+31091	Nebraska	Hooker	rec_facility_rate	0
+31093	Nebraska	Howard	rec_facility_rate	0
+31095	Nebraska	Jefferson	rec_facility_rate	0
+31097	Nebraska	Johnson	rec_facility_rate	0
+31099	Nebraska	Kearney	rec_facility_rate	0
+31101	Nebraska	Keith	rec_facility_rate	0
+31103	Nebraska	Keya Paha	rec_facility_rate	0
+31105	Nebraska	Kimball	rec_facility_rate	0
+31107	Nebraska	Knox	rec_facility_rate	0
+31109	Nebraska	Lancaster	rec_facility_rate	14.7
+31111	Nebraska	Lincoln	rec_facility_rate	13.8
+31113	Nebraska	Logan	rec_facility_rate	0
+31115	Nebraska	Loup	rec_facility_rate	0
+31117	Nebraska	McPherson	rec_facility_rate	0
+31119	Nebraska	Madison	rec_facility_rate	8.6
+31121	Nebraska	Merrick	rec_facility_rate	12.7
+31123	Nebraska	Morrill	rec_facility_rate	0
+31125	Nebraska	Nance	rec_facility_rate	0
+31127	Nebraska	Nemaha	rec_facility_rate	13.8
+31129	Nebraska	Nuckolls	rec_facility_rate	44.4
+31131	Nebraska	Otoe	rec_facility_rate	6.3
+31133	Nebraska	Pawnee	rec_facility_rate	0
+31135	Nebraska	Perkins	rec_facility_rate	33.6
+31137	Nebraska	Phelps	rec_facility_rate	32.6
+31139	Nebraska	Pierce	rec_facility_rate	0
+31141	Nebraska	Platte	rec_facility_rate	18.6
+31143	Nebraska	Polk	rec_facility_rate	18.6
+31145	Nebraska	Red Willow	rec_facility_rate	9
+31147	Nebraska	Richardson	rec_facility_rate	0
+31149	Nebraska	Rock	rec_facility_rate	0
+31151	Nebraska	Saline	rec_facility_rate	7
+31153	Nebraska	Sarpy	rec_facility_rate	13.8
+31155	Nebraska	Saunders	rec_facility_rate	0
+31157	Nebraska	Scotts Bluff	rec_facility_rate	16.2
+31159	Nebraska	Seward	rec_facility_rate	11.9
+31161	Nebraska	Sheridan	rec_facility_rate	18.3
+31163	Nebraska	Sherman	rec_facility_rate	0
+31165	Nebraska	Sioux	rec_facility_rate	0
+31167	Nebraska	Stanton	rec_facility_rate	0
+31169	Nebraska	Thayer	rec_facility_rate	0
+31171	Nebraska	Thomas	rec_facility_rate	0
+31173	Nebraska	Thurston	rec_facility_rate	14.3
+31175	Nebraska	Valley	rec_facility_rate	23.4
+31177	Nebraska	Washington	rec_facility_rate	19.7
+31179	Nebraska	Wayne	rec_facility_rate	0
+31181	Nebraska	Webster	rec_facility_rate	0
+31183	Nebraska	Wheeler	rec_facility_rate	0
+31185	Nebraska	York	rec_facility_rate	0
+32001	Nevada	Churchill	rec_facility_rate	28.2
+32003	Nevada	Clark	rec_facility_rate	5.2
+32005	Nevada	Douglas	rec_facility_rate	6.4
+32007	Nevada	Elko	rec_facility_rate	10.2
+32009	Nevada	Esmeralda	rec_facility_rate	0
+32011	Nevada	Eureka	rec_facility_rate	0
+32013	Nevada	Humboldt	rec_facility_rate	30.1
+32015	Nevada	Lander	rec_facility_rate	17.3
+32017	Nevada	Lincoln	rec_facility_rate	0
+32019	Nevada	Lyon	rec_facility_rate	15.4
+32021	Nevada	Mineral	rec_facility_rate	0
+32023	Nevada	Nye	rec_facility_rate	11.4
+32027	Nevada	Pershing	rec_facility_rate	0
+32029	Nevada	Storey	rec_facility_rate	0
+32031	Nevada	Washoe	rec_facility_rate	10.4
+32033	Nevada	White Pine	rec_facility_rate	0
+32510	Nevada	Carson City	rec_facility_rate	7.2
+33001	New Hampshire	Belknap	rec_facility_rate	13.3
+33003	New Hampshire	Carroll	rec_facility_rate	12.5
+33005	New Hampshire	Cheshire	rec_facility_rate	7.8
+33007	New Hampshire	Coos	rec_facility_rate	12.1
+33009	New Hampshire	Grafton	rec_facility_rate	23.6
+33011	New Hampshire	Hillsborough	rec_facility_rate	12.7
+33013	New Hampshire	Merrimack	rec_facility_rate	13
+33015	New Hampshire	Rockingham	rec_facility_rate	21
+33017	New Hampshire	Strafford	rec_facility_rate	8.1
+33019	New Hampshire	Sullivan	rec_facility_rate	2.3
+34001	New Jersey	Atlantic	rec_facility_rate	12.4
+34003	New Jersey	Bergen	rec_facility_rate	19.3
+34005	New Jersey	Burlington	rec_facility_rate	13.1
+34007	New Jersey	Camden	rec_facility_rate	12.7
+34009	New Jersey	Cape May	rec_facility_rate	15.4
+34011	New Jersey	Cumberland	rec_facility_rate	7.7
+34013	New Jersey	Essex	rec_facility_rate	10.2
+34015	New Jersey	Gloucester	rec_facility_rate	15.2
+34017	New Jersey	Hudson	rec_facility_rate	9
+34019	New Jersey	Hunterdon	rec_facility_rate	14
+34021	New Jersey	Mercer	rec_facility_rate	14.7
+34023	New Jersey	Middlesex	rec_facility_rate	10.9
+34025	New Jersey	Monmouth	rec_facility_rate	18.7
+34027	New Jersey	Morris	rec_facility_rate	22.3
+34029	New Jersey	Ocean	rec_facility_rate	9.9
+34031	New Jersey	Passaic	rec_facility_rate	9.6
+34033	New Jersey	Salem	rec_facility_rate	18.2
+34035	New Jersey	Somerset	rec_facility_rate	23.1
+34037	New Jersey	Sussex	rec_facility_rate	14.7
+34039	New Jersey	Union	rec_facility_rate	15.1
+34041	New Jersey	Warren	rec_facility_rate	18.4
+35001	New Mexico	Bernalillo	rec_facility_rate	9.2
+35003	New Mexico	Catron	rec_facility_rate	0
+35005	New Mexico	Chaves	rec_facility_rate	7.6
+35006	New Mexico	Cibola	rec_facility_rate	7.3
+35007	New Mexico	Colfax	rec_facility_rate	7.3
+35009	New Mexico	Curry	rec_facility_rate	10.2
+35011	New Mexico	De Baca	rec_facility_rate	0
+35013	New Mexico	Dona Ana	rec_facility_rate	6.2
+35015	New Mexico	Eddy	rec_facility_rate	9.3
+35017	New Mexico	Grant	rec_facility_rate	3.4
+35019	New Mexico	Guadalupe	rec_facility_rate	0
+35021	New Mexico	Harding	rec_facility_rate	0
+35023	New Mexico	Hidalgo	rec_facility_rate	0
+35025	New Mexico	Lea	rec_facility_rate	4.6
+35027	New Mexico	Lincoln	rec_facility_rate	19.5
+35028	New Mexico	Los Alamos	rec_facility_rate	49.9
+35029	New Mexico	Luna	rec_facility_rate	8
+35031	New Mexico	McKinley	rec_facility_rate	1.4
+35033	New Mexico	Mora	rec_facility_rate	0
+35035	New Mexico	Otero	rec_facility_rate	7.8
+35037	New Mexico	Quay	rec_facility_rate	0
+35039	New Mexico	Rio Arriba	rec_facility_rate	5
+35041	New Mexico	Roosevelt	rec_facility_rate	5
+35043	New Mexico	Sandoval	rec_facility_rate	6
+35045	New Mexico	San Juan	rec_facility_rate	3.8
+35047	New Mexico	San Miguel	rec_facility_rate	3.4
+35049	New Mexico	Santa Fe	rec_facility_rate	10.4
+35051	New Mexico	Sierra	rec_facility_rate	0
+35053	New Mexico	Socorro	rec_facility_rate	0
+35055	New Mexico	Taos	rec_facility_rate	15.2
+35057	New Mexico	Torrance	rec_facility_rate	0
+35059	New Mexico	Union	rec_facility_rate	0
+35061	New Mexico	Valencia	rec_facility_rate	6.5
+36001	New York	Albany	rec_facility_rate	12.8
+36003	New York	Allegany	rec_facility_rate	6.1
+36005	New York	Bronx	rec_facility_rate	3.3
+36007	New York	Broome	rec_facility_rate	11
+36009	New York	Cattaraugus	rec_facility_rate	6.2
+36011	New York	Cayuga	rec_facility_rate	3.8
+36013	New York	Chautauqua	rec_facility_rate	5.2
+36015	New York	Chemung	rec_facility_rate	14.6
+36017	New York	Chenango	rec_facility_rate	6
+36019	New York	Clinton	rec_facility_rate	3.7
+36021	New York	Columbia	rec_facility_rate	11.1
+36023	New York	Cortland	rec_facility_rate	10.1
+36025	New York	Delaware	rec_facility_rate	4.2
+36027	New York	Dutchess	rec_facility_rate	10.4
+36029	New York	Erie	rec_facility_rate	11.2
+36031	New York	Essex	rec_facility_rate	15.3
+36033	New York	Franklin	rec_facility_rate	7.8
+36035	New York	Fulton	rec_facility_rate	9
+36037	New York	Genesee	rec_facility_rate	10
+36039	New York	Greene	rec_facility_rate	16.3
+36041	New York	Hamilton	rec_facility_rate	0
+36043	New York	Herkimer	rec_facility_rate	7.8
+36045	New York	Jefferson	rec_facility_rate	4.3
+36047	New York	Kings	rec_facility_rate	4.8
+36049	New York	Lewis	rec_facility_rate	3.7
+36051	New York	Livingston	rec_facility_rate	12.2
+36053	New York	Madison	rec_facility_rate	9.5
+36055	New York	Monroe	rec_facility_rate	11.8
+36057	New York	Montgomery	rec_facility_rate	2
+36059	New York	Nassau	rec_facility_rate	15.1
+36061	New York	New York	rec_facility_rate	27.5
+36063	New York	Niagara	rec_facility_rate	9.7
+36065	New York	Oneida	rec_facility_rate	11.9
+36067	New York	Onondaga	rec_facility_rate	11.8
+36069	New York	Ontario	rec_facility_rate	13.9
+36071	New York	Orange	rec_facility_rate	10.2
+36073	New York	Orleans	rec_facility_rate	7
+36075	New York	Oswego	rec_facility_rate	7.4
+36077	New York	Otsego	rec_facility_rate	9.6
+36079	New York	Putnam	rec_facility_rate	19.1
+36081	New York	Queens	rec_facility_rate	5.6
+36083	New York	Rensselaer	rec_facility_rate	5
+36085	New York	Richmond	rec_facility_rate	7.5
+36087	New York	Rockland	rec_facility_rate	14.1
+36089	New York	St. Lawrence	rec_facility_rate	2.7
+36091	New York	Saratoga	rec_facility_rate	17.7
+36093	New York	Schenectady	rec_facility_rate	11
+36095	New York	Schoharie	rec_facility_rate	3.1
+36097	New York	Schuyler	rec_facility_rate	5.5
+36099	New York	Seneca	rec_facility_rate	0
+36101	New York	Steuben	rec_facility_rate	6.1
+36103	New York	Suffolk	rec_facility_rate	13.3
+36105	New York	Sullivan	rec_facility_rate	5.2
+36107	New York	Tioga	rec_facility_rate	5.9
+36109	New York	Tompkins	rec_facility_rate	16.7
+36111	New York	Ulster	rec_facility_rate	13.7
+36113	New York	Warren	rec_facility_rate	22.8
+36115	New York	Washington	rec_facility_rate	9.5
+36117	New York	Wayne	rec_facility_rate	5.3
+36119	New York	Westchester	rec_facility_rate	19.7
+36121	New York	Wyoming	rec_facility_rate	9.5
+36123	New York	Yates	rec_facility_rate	11.8
+37001	North Carolina	Alamance	rec_facility_rate	9.2
+37003	North Carolina	Alexander	rec_facility_rate	5.4
+37005	North Carolina	Alleghany	rec_facility_rate	17.9
+37007	North Carolina	Anson	rec_facility_rate	0
+37009	North Carolina	Ashe	rec_facility_rate	7.3
+37011	North Carolina	Avery	rec_facility_rate	0
+37013	North Carolina	Beaufort	rec_facility_rate	10.5
+37015	North Carolina	Bertie	rec_facility_rate	4.7
+37017	North Carolina	Bladen	rec_facility_rate	2.8
+37019	North Carolina	Brunswick	rec_facility_rate	8.3
+37021	North Carolina	Buncombe	rec_facility_rate	9.6
+37023	North Carolina	Burke	rec_facility_rate	5.5
+37025	North Carolina	Cabarrus	rec_facility_rate	15.1
+37027	North Carolina	Caldwell	rec_facility_rate	6
+37029	North Carolina	Camden	rec_facility_rate	0
+37031	North Carolina	Carteret	rec_facility_rate	18
+37033	North Carolina	Caswell	rec_facility_rate	4.2
+37035	North Carolina	Catawba	rec_facility_rate	5.8
+37037	North Carolina	Chatham	rec_facility_rate	9.4
+37039	North Carolina	Cherokee	rec_facility_rate	7.3
+37041	North Carolina	Chowan	rec_facility_rate	6.8
+37043	North Carolina	Clay	rec_facility_rate	0
+37045	North Carolina	Cleveland	rec_facility_rate	6.1
+37047	North Carolina	Columbus	rec_facility_rate	3.4
+37049	North Carolina	Craven	rec_facility_rate	6.7
+37051	North Carolina	Cumberland	rec_facility_rate	5.6
+37053	North Carolina	Currituck	rec_facility_rate	4.2
+37055	North Carolina	Dare	rec_facility_rate	14.7
+37057	North Carolina	Davidson	rec_facility_rate	13.5
+37059	North Carolina	Davie	rec_facility_rate	4.8
+37061	North Carolina	Duplin	rec_facility_rate	1.7
+37063	North Carolina	Durham	rec_facility_rate	14.5
+37065	North Carolina	Edgecombe	rec_facility_rate	3.5
+37067	North Carolina	Forsyth	rec_facility_rate	14.2
+37069	North Carolina	Franklin	rec_facility_rate	6.6
+37071	North Carolina	Gaston	rec_facility_rate	10.7
+37073	North Carolina	Gates	rec_facility_rate	0
+37075	North Carolina	Graham	rec_facility_rate	0
+37077	North Carolina	Granville	rec_facility_rate	10
+37079	North Carolina	Greene	rec_facility_rate	0
+37081	North Carolina	Guilford	rec_facility_rate	13.1
+37083	North Carolina	Halifax	rec_facility_rate	5.5
+37085	North Carolina	Harnett	rec_facility_rate	6
+37087	North Carolina	Haywood	rec_facility_rate	3.4
+37089	North Carolina	Henderson	rec_facility_rate	8.4
+37091	North Carolina	Hertford	rec_facility_rate	8.1
+37093	North Carolina	Hoke	rec_facility_rate	4.2
+37095	North Carolina	Hyde	rec_facility_rate	0
+37097	North Carolina	Iredell	rec_facility_rate	12.5
+37099	North Carolina	Jackson	rec_facility_rate	5
+37101	North Carolina	Johnston	rec_facility_rate	9.4
+37103	North Carolina	Jones	rec_facility_rate	0
+37105	North Carolina	Lee	rec_facility_rate	12.1
+37107	North Carolina	Lenoir	rec_facility_rate	13.5
+37109	North Carolina	Lincoln	rec_facility_rate	6.4
+37111	North Carolina	McDowell	rec_facility_rate	2.2
+37113	North Carolina	Macon	rec_facility_rate	11.8
+37115	North Carolina	Madison	rec_facility_rate	4.8
+37117	North Carolina	Martin	rec_facility_rate	4.1
+37119	North Carolina	Mecklenburg	rec_facility_rate	16.4
+37121	North Carolina	Mitchell	rec_facility_rate	6.4
+37123	North Carolina	Montgomery	rec_facility_rate	3.6
+37125	North Carolina	Moore	rec_facility_rate	10.2
+37127	North Carolina	Nash	rec_facility_rate	8.3
+37129	North Carolina	New Hanover	rec_facility_rate	8.9
+37131	North Carolina	Northampton	rec_facility_rate	9.1
+37133	North Carolina	Onslow	rec_facility_rate	6.1
+37135	North Carolina	Orange	rec_facility_rate	20.9
+37137	North Carolina	Pamlico	rec_facility_rate	7.6
+37139	North Carolina	Pasquotank	rec_facility_rate	9.8
+37141	North Carolina	Pender	rec_facility_rate	9.5
+37143	North Carolina	Perquimans	rec_facility_rate	7.4
+37145	North Carolina	Person	rec_facility_rate	20.3
+37147	North Carolina	Pitt	rec_facility_rate	8.9
+37149	North Carolina	Polk	rec_facility_rate	9.8
+37151	North Carolina	Randolph	rec_facility_rate	9.9
+37153	North Carolina	Richmond	rec_facility_rate	4.3
+37155	North Carolina	Robeson	rec_facility_rate	6.7
+37157	North Carolina	Rockingham	rec_facility_rate	11.7
+37159	North Carolina	Rowan	rec_facility_rate	7.2
+37161	North Carolina	Rutherford	rec_facility_rate	5.9
+37163	North Carolina	Sampson	rec_facility_rate	7.9
+37165	North Carolina	Scotland	rec_facility_rate	5.5
+37167	North Carolina	Stanly	rec_facility_rate	11.6
+37169	North Carolina	Stokes	rec_facility_rate	6.3
+37171	North Carolina	Surry	rec_facility_rate	6.8
+37173	North Carolina	Swain	rec_facility_rate	14.3
+37175	North Carolina	Transylvania	rec_facility_rate	9.1
+37177	North Carolina	Tyrrell	rec_facility_rate	0
+37179	North Carolina	Union	rec_facility_rate	9.9
+37181	North Carolina	Vance	rec_facility_rate	6.6
+37183	North Carolina	Wake	rec_facility_rate	15.2
+37185	North Carolina	Warren	rec_facility_rate	4.8
+37187	North Carolina	Washington	rec_facility_rate	0
+37189	North Carolina	Watauga	rec_facility_rate	7.8
+37191	North Carolina	Wayne	rec_facility_rate	12.2
+37193	North Carolina	Wilkes	rec_facility_rate	5.8
+37195	North Carolina	Wilson	rec_facility_rate	4.9
+37197	North Carolina	Yadkin	rec_facility_rate	13
+37199	North Carolina	Yancey	rec_facility_rate	5.6
+38001	North Dakota	Adams	rec_facility_rate	0
+38003	North Dakota	Barnes	rec_facility_rate	18.1
+38005	North Dakota	Benson	rec_facility_rate	14.9
+38007	North Dakota	Billings	rec_facility_rate	0
+38009	North Dakota	Bottineau	rec_facility_rate	0
+38011	North Dakota	Bowman	rec_facility_rate	0
+38013	North Dakota	Burke	rec_facility_rate	0
+38015	North Dakota	Burleigh	rec_facility_rate	12.2
+38017	North Dakota	Cass	rec_facility_rate	15.3
+38019	North Dakota	Cavalier	rec_facility_rate	25.1
+38021	North Dakota	Dickey	rec_facility_rate	18.9
+38023	North Dakota	Divide	rec_facility_rate	48.1
+38025	North Dakota	Dunn	rec_facility_rate	0
+38027	North Dakota	Eddy	rec_facility_rate	0
+38029	North Dakota	Emmons	rec_facility_rate	28.2
+38031	North Dakota	Foster	rec_facility_rate	29.9
+38033	North Dakota	Golden Valley	rec_facility_rate	0
+38035	North Dakota	Grand Forks	rec_facility_rate	10.5
+38037	North Dakota	Grant	rec_facility_rate	0
+38039	North Dakota	Griggs	rec_facility_rate	41.4
+38041	North Dakota	Hettinger	rec_facility_rate	0
+38043	North Dakota	Kidder	rec_facility_rate	40.9
+38045	North Dakota	LaMoure	rec_facility_rate	0
+38047	North Dakota	Logan	rec_facility_rate	0
+38049	North Dakota	McHenry	rec_facility_rate	0
+38051	North Dakota	McIntosh	rec_facility_rate	0
+38053	North Dakota	McKenzie	rec_facility_rate	0
+38055	North Dakota	McLean	rec_facility_rate	11.1
+38057	North Dakota	Mercer	rec_facility_rate	47.5
+38059	North Dakota	Morton	rec_facility_rate	3.6
+38061	North Dakota	Mountrail	rec_facility_rate	0
+38063	North Dakota	Nelson	rec_facility_rate	0
+38065	North Dakota	Oliver	rec_facility_rate	54.5
+38067	North Dakota	Pembina	rec_facility_rate	0
+38069	North Dakota	Pierce	rec_facility_rate	0
+38071	North Dakota	Ramsey	rec_facility_rate	17.4
+38073	North Dakota	Ransom	rec_facility_rate	0
+38075	North Dakota	Renville	rec_facility_rate	0
+38077	North Dakota	Richland	rec_facility_rate	6.1
+38079	North Dakota	Rolette	rec_facility_rate	0
+38081	North Dakota	Sargent	rec_facility_rate	0
+38083	North Dakota	Sheridan	rec_facility_rate	0
+38085	North Dakota	Sioux	rec_facility_rate	0
+38087	North Dakota	Slope	rec_facility_rate	0
+38089	North Dakota	Stark	rec_facility_rate	12.3
+38091	North Dakota	Steele	rec_facility_rate	0
+38093	North Dakota	Stutsman	rec_facility_rate	19
+38095	North Dakota	Towner	rec_facility_rate	0
+38097	North Dakota	Traill	rec_facility_rate	0
+38099	North Dakota	Walsh	rec_facility_rate	36
+38101	North Dakota	Ward	rec_facility_rate	8.1
+38103	North Dakota	Wells	rec_facility_rate	0
+38105	North Dakota	Williams	rec_facility_rate	22.2
+39001	Ohio	Adams	rec_facility_rate	0
+39003	Ohio	Allen	rec_facility_rate	12.2
+39005	Ohio	Ashland	rec_facility_rate	7.5
+39007	Ohio	Ashtabula	rec_facility_rate	9.9
+39009	Ohio	Athens	rec_facility_rate	3.1
+39011	Ohio	Auglaize	rec_facility_rate	6.5
+39013	Ohio	Belmont	rec_facility_rate	7.1
+39015	Ohio	Brown	rec_facility_rate	2.2
+39017	Ohio	Butler	rec_facility_rate	8.9
+39019	Ohio	Carroll	rec_facility_rate	6.9
+39021	Ohio	Champaign	rec_facility_rate	0
+39023	Ohio	Clark	rec_facility_rate	8
+39025	Ohio	Clermont	rec_facility_rate	11.6
+39027	Ohio	Clinton	rec_facility_rate	9.5
+39029	Ohio	Columbiana	rec_facility_rate	5.6
+39031	Ohio	Coshocton	rec_facility_rate	5.4
+39033	Ohio	Crawford	rec_facility_rate	13.7
+39035	Ohio	Cuyahoga	rec_facility_rate	10.1
+39037	Ohio	Darke	rec_facility_rate	9.4
+39039	Ohio	Defiance	rec_facility_rate	5.1
+39041	Ohio	Delaware	rec_facility_rate	17.7
+39043	Ohio	Erie	rec_facility_rate	13
+39045	Ohio	Fairfield	rec_facility_rate	9.6
+39047	Ohio	Fayette	rec_facility_rate	10.3
+39049	Ohio	Franklin	rec_facility_rate	10.2
+39051	Ohio	Fulton	rec_facility_rate	7
+39053	Ohio	Gallia	rec_facility_rate	6.5
+39055	Ohio	Geauga	rec_facility_rate	13.9
+39057	Ohio	Greene	rec_facility_rate	11.1
+39059	Ohio	Guernsey	rec_facility_rate	7.5
+39061	Ohio	Hamilton	rec_facility_rate	15.7
+39063	Ohio	Hancock	rec_facility_rate	9.4
+39065	Ohio	Hardin	rec_facility_rate	12.5
+39067	Ohio	Harrison	rec_facility_rate	6.3
+39069	Ohio	Henry	rec_facility_rate	3.5
+39071	Ohio	Highland	rec_facility_rate	6.9
+39073	Ohio	Hocking	rec_facility_rate	0
+39075	Ohio	Holmes	rec_facility_rate	4.7
+39077	Ohio	Huron	rec_facility_rate	6.7
+39079	Ohio	Jackson	rec_facility_rate	9
+39081	Ohio	Jefferson	rec_facility_rate	5.7
+39083	Ohio	Knox	rec_facility_rate	4.9
+39085	Ohio	Lake	rec_facility_rate	10.4
+39087	Ohio	Lawrence	rec_facility_rate	4.8
+39089	Ohio	Licking	rec_facility_rate	11.4
+39091	Ohio	Logan	rec_facility_rate	4.4
+39093	Ohio	Lorain	rec_facility_rate	7.6
+39095	Ohio	Lucas	rec_facility_rate	11.3
+39097	Ohio	Madison	rec_facility_rate	2.3
+39099	Ohio	Mahoning	rec_facility_rate	12.2
+39101	Ohio	Marion	rec_facility_rate	9
+39103	Ohio	Medina	rec_facility_rate	11.6
+39105	Ohio	Meigs	rec_facility_rate	0
+39107	Ohio	Mercer	rec_facility_rate	9.8
+39109	Ohio	Miami	rec_facility_rate	14.6
+39111	Ohio	Monroe	rec_facility_rate	6.8
+39113	Ohio	Montgomery	rec_facility_rate	11.6
+39115	Ohio	Morgan	rec_facility_rate	0
+39117	Ohio	Morrow	rec_facility_rate	5.7
+39119	Ohio	Muskingum	rec_facility_rate	7
+39121	Ohio	Noble	rec_facility_rate	13.6
+39123	Ohio	Ottawa	rec_facility_rate	9.7
+39125	Ohio	Paulding	rec_facility_rate	10.2
+39127	Ohio	Perry	rec_facility_rate	5.5
+39129	Ohio	Pickaway	rec_facility_rate	1.8
+39131	Ohio	Pike	rec_facility_rate	10.4
+39133	Ohio	Portage	rec_facility_rate	9.3
+39135	Ohio	Preble	rec_facility_rate	4.7
+39137	Ohio	Putnam	rec_facility_rate	2.9
+39139	Ohio	Richland	rec_facility_rate	9.7
+39141	Ohio	Ross	rec_facility_rate	6.4
+39143	Ohio	Sandusky	rec_facility_rate	8.2
+39145	Ohio	Scioto	rec_facility_rate	2.5
+39147	Ohio	Seneca	rec_facility_rate	7.1
+39149	Ohio	Shelby	rec_facility_rate	14.2
+39151	Ohio	Stark	rec_facility_rate	10.4
+39153	Ohio	Summit	rec_facility_rate	9.2
+39155	Ohio	Trumbull	rec_facility_rate	11.4
+39157	Ohio	Tuscarawas	rec_facility_rate	5.4
+39159	Ohio	Union	rec_facility_rate	5.7
+39161	Ohio	Van Wert	rec_facility_rate	10.5
+39163	Ohio	Vinton	rec_facility_rate	0
+39165	Ohio	Warren	rec_facility_rate	13.1
+39167	Ohio	Washington	rec_facility_rate	13
+39169	Ohio	Wayne	rec_facility_rate	5.2
+39171	Ohio	Williams	rec_facility_rate	5.3
+39173	Ohio	Wood	rec_facility_rate	8.8
+39175	Ohio	Wyandot	rec_facility_rate	8.8
+40001	Oklahoma	Adair	rec_facility_rate	0
+40003	Oklahoma	Alfalfa	rec_facility_rate	0
+40005	Oklahoma	Atoka	rec_facility_rate	0
+40007	Oklahoma	Beaver	rec_facility_rate	0
+40009	Oklahoma	Beckham	rec_facility_rate	4.5
+40011	Oklahoma	Blaine	rec_facility_rate	0
+40013	Oklahoma	Bryan	rec_facility_rate	9.4
+40015	Oklahoma	Caddo	rec_facility_rate	0
+40017	Oklahoma	Canadian	rec_facility_rate	6.9
+40019	Oklahoma	Carter	rec_facility_rate	8.4
+40021	Oklahoma	Cherokee	rec_facility_rate	4.2
+40023	Oklahoma	Choctaw	rec_facility_rate	0
+40025	Oklahoma	Cimarron	rec_facility_rate	0
+40027	Oklahoma	Cleveland	rec_facility_rate	8.6
+40029	Oklahoma	Coal	rec_facility_rate	0
+40031	Oklahoma	Comanche	rec_facility_rate	2.4
+40033	Oklahoma	Cotton	rec_facility_rate	0
+40035	Oklahoma	Craig	rec_facility_rate	0
+40037	Oklahoma	Creek	rec_facility_rate	5.7
+40039	Oklahoma	Custer	rec_facility_rate	7.3
+40041	Oklahoma	Delaware	rec_facility_rate	2.4
+40043	Oklahoma	Dewey	rec_facility_rate	0
+40045	Oklahoma	Ellis	rec_facility_rate	0
+40047	Oklahoma	Garfield	rec_facility_rate	9.9
+40049	Oklahoma	Garvin	rec_facility_rate	7.3
+40051	Oklahoma	Grady	rec_facility_rate	7.6
+40053	Oklahoma	Grant	rec_facility_rate	0
+40055	Oklahoma	Greer	rec_facility_rate	0
+40057	Oklahoma	Harmon	rec_facility_rate	0
+40059	Oklahoma	Harper	rec_facility_rate	0
+40061	Oklahoma	Haskell	rec_facility_rate	0
+40063	Oklahoma	Hughes	rec_facility_rate	7.1
+40065	Oklahoma	Jackson	rec_facility_rate	3.8
+40067	Oklahoma	Jefferson	rec_facility_rate	0
+40069	Oklahoma	Johnston	rec_facility_rate	0
+40071	Oklahoma	Kay	rec_facility_rate	4.3
+40073	Oklahoma	Kingfisher	rec_facility_rate	0
+40075	Oklahoma	Kiowa	rec_facility_rate	0
+40077	Oklahoma	Latimer	rec_facility_rate	0
+40079	Oklahoma	Le Flore	rec_facility_rate	4
+40081	Oklahoma	Lincoln	rec_facility_rate	2.9
+40083	Oklahoma	Logan	rec_facility_rate	9.5
+40085	Oklahoma	Love	rec_facility_rate	0
+40087	Oklahoma	McClain	rec_facility_rate	14.4
+40089	Oklahoma	McCurtain	rec_facility_rate	0
+40091	Oklahoma	McIntosh	rec_facility_rate	0
+40093	Oklahoma	Major	rec_facility_rate	13.3
+40095	Oklahoma	Marshall	rec_facility_rate	0
+40097	Oklahoma	Mayes	rec_facility_rate	2.4
+40099	Oklahoma	Murray	rec_facility_rate	7.4
+40101	Oklahoma	Muskogee	rec_facility_rate	9.8
+40103	Oklahoma	Noble	rec_facility_rate	0
+40105	Oklahoma	Nowata	rec_facility_rate	0
+40107	Oklahoma	Okfuskee	rec_facility_rate	0
+40109	Oklahoma	Oklahoma	rec_facility_rate	9.7
+40111	Oklahoma	Okmulgee	rec_facility_rate	5
+40113	Oklahoma	Osage	rec_facility_rate	4.2
+40115	Oklahoma	Ottawa	rec_facility_rate	3.1
+40117	Oklahoma	Pawnee	rec_facility_rate	0
+40119	Oklahoma	Payne	rec_facility_rate	3.9
+40121	Oklahoma	Pittsburg	rec_facility_rate	2.2
+40123	Oklahoma	Pontotoc	rec_facility_rate	2.7
+40125	Oklahoma	Pottawatomie	rec_facility_rate	4.3
+40127	Oklahoma	Pushmataha	rec_facility_rate	0
+40129	Oklahoma	Roger Mills	rec_facility_rate	0
+40131	Oklahoma	Rogers	rec_facility_rate	5.7
+40133	Oklahoma	Seminole	rec_facility_rate	0
+40135	Oklahoma	Sequoyah	rec_facility_rate	4.7
+40137	Oklahoma	Stephens	rec_facility_rate	2.2
+40139	Oklahoma	Texas	rec_facility_rate	0
+40141	Oklahoma	Tillman	rec_facility_rate	0
+40143	Oklahoma	Tulsa	rec_facility_rate	13.5
+40145	Oklahoma	Wagoner	rec_facility_rate	2.7
+40147	Oklahoma	Washington	rec_facility_rate	13.7
+40149	Oklahoma	Washita	rec_facility_rate	0
+40151	Oklahoma	Woods	rec_facility_rate	0
+40153	Oklahoma	Woodward	rec_facility_rate	5
+41001	Oregon	Baker	rec_facility_rate	24.9
+41003	Oregon	Benton	rec_facility_rate	15.2
+41005	Oregon	Clackamas	rec_facility_rate	12.5
+41007	Oregon	Clatsop	rec_facility_rate	10.8
+41009	Oregon	Columbia	rec_facility_rate	14.2
+41011	Oregon	Coos	rec_facility_rate	11.1
+41013	Oregon	Crook	rec_facility_rate	14.4
+41015	Oregon	Curry	rec_facility_rate	17.9
+41017	Oregon	Deschutes	rec_facility_rate	17.7
+41019	Oregon	Douglas	rec_facility_rate	11.1
+41021	Oregon	Gilliam	rec_facility_rate	0
+41023	Oregon	Grant	rec_facility_rate	13.4
+41025	Oregon	Harney	rec_facility_rate	13.5
+41027	Oregon	Hood River	rec_facility_rate	22.3
+41029	Oregon	Jackson	rec_facility_rate	12.3
+41031	Oregon	Jefferson	rec_facility_rate	9.2
+41033	Oregon	Josephine	rec_facility_rate	10.9
+41035	Oregon	Klamath	rec_facility_rate	10.6
+41037	Oregon	Lake	rec_facility_rate	25.4
+41039	Oregon	Lane	rec_facility_rate	11.9
+41041	Oregon	Lincoln	rec_facility_rate	10.9
+41043	Oregon	Linn	rec_facility_rate	9.4
+41045	Oregon	Malheur	rec_facility_rate	6.4
+41047	Oregon	Marion	rec_facility_rate	11.1
+41049	Oregon	Morrow	rec_facility_rate	0
+41051	Oregon	Multnomah	rec_facility_rate	11.4
+41053	Oregon	Polk	rec_facility_rate	10.6
+41055	Oregon	Sherman	rec_facility_rate	0
+41057	Oregon	Tillamook	rec_facility_rate	7.9
+41059	Oregon	Umatilla	rec_facility_rate	7.9
+41061	Oregon	Union	rec_facility_rate	7.8
+41063	Oregon	Wallowa	rec_facility_rate	0
+41065	Oregon	Wasco	rec_facility_rate	7.9
+41067	Oregon	Washington	rec_facility_rate	11.7
+41069	Oregon	Wheeler	rec_facility_rate	0
+41071	Oregon	Yamhill	rec_facility_rate	8
+42001	Pennsylvania	Adams	rec_facility_rate	9.9
+42003	Pennsylvania	Allegheny	rec_facility_rate	15.5
+42005	Pennsylvania	Armstrong	rec_facility_rate	11.6
+42007	Pennsylvania	Beaver	rec_facility_rate	6.4
+42009	Pennsylvania	Bedford	rec_facility_rate	4
+42011	Pennsylvania	Berks	rec_facility_rate	12.6
+42013	Pennsylvania	Blair	rec_facility_rate	7.9
+42015	Pennsylvania	Bradford	rec_facility_rate	11.2
+42017	Pennsylvania	Bucks	rec_facility_rate	11.7
+42019	Pennsylvania	Butler	rec_facility_rate	9.8
+42021	Pennsylvania	Cambria	rec_facility_rate	6.9
+42023	Pennsylvania	Cameron	rec_facility_rate	0
+42025	Pennsylvania	Carbon	rec_facility_rate	12.3
+42027	Pennsylvania	Centre	rec_facility_rate	8.4
+42029	Pennsylvania	Chester	rec_facility_rate	14.6
+42031	Pennsylvania	Clarion	rec_facility_rate	5
+42033	Pennsylvania	Clearfield	rec_facility_rate	8.6
+42035	Pennsylvania	Clinton	rec_facility_rate	10.3
+42037	Pennsylvania	Columbia	rec_facility_rate	11.8
+42039	Pennsylvania	Crawford	rec_facility_rate	9
+42041	Pennsylvania	Cumberland	rec_facility_rate	11.8
+42043	Pennsylvania	Dauphin	rec_facility_rate	12.7
+42045	Pennsylvania	Delaware	rec_facility_rate	15.4
+42047	Pennsylvania	Elk	rec_facility_rate	12.6
+42049	Pennsylvania	Erie	rec_facility_rate	12.8
+42051	Pennsylvania	Fayette	rec_facility_rate	5.1
+42053	Pennsylvania	Forest	rec_facility_rate	0
+42055	Pennsylvania	Franklin	rec_facility_rate	10.7
+42057	Pennsylvania	Fulton	rec_facility_rate	6.7
+42059	Pennsylvania	Greene	rec_facility_rate	5.2
+42061	Pennsylvania	Huntingdon	rec_facility_rate	13
+42063	Pennsylvania	Indiana	rec_facility_rate	5.6
+42065	Pennsylvania	Jefferson	rec_facility_rate	4.4
+42067	Pennsylvania	Juniata	rec_facility_rate	8.1
+42069	Pennsylvania	Lackawanna	rec_facility_rate	10.7
+42071	Pennsylvania	Lancaster	rec_facility_rate	11.3
+42073	Pennsylvania	Lawrence	rec_facility_rate	15.4
+42075	Pennsylvania	Lebanon	rec_facility_rate	13.5
+42077	Pennsylvania	Lehigh	rec_facility_rate	12
+42079	Pennsylvania	Luzerne	rec_facility_rate	8.4
+42081	Pennsylvania	Lycoming	rec_facility_rate	6.9
+42083	Pennsylvania	McKean	rec_facility_rate	4.6
+42085	Pennsylvania	Mercer	rec_facility_rate	10.3
+42087	Pennsylvania	Mifflin	rec_facility_rate	6.4
+42089	Pennsylvania	Monroe	rec_facility_rate	5.9
+42091	Pennsylvania	Montgomery	rec_facility_rate	19.2
+42093	Pennsylvania	Montour	rec_facility_rate	16.4
+42095	Pennsylvania	Northampton	rec_facility_rate	10.1
+42097	Pennsylvania	Northumberland	rec_facility_rate	6.4
+42099	Pennsylvania	Perry	rec_facility_rate	10.9
+42101	Pennsylvania	Philadelphia	rec_facility_rate	6
+42103	Pennsylvania	Pike	rec_facility_rate	8.7
+42105	Pennsylvania	Potter	rec_facility_rate	0
+42107	Pennsylvania	Schuylkill	rec_facility_rate	5.4
+42109	Pennsylvania	Snyder	rec_facility_rate	15.1
+42111	Pennsylvania	Somerset	rec_facility_rate	5.1
+42113	Pennsylvania	Sullivan	rec_facility_rate	0
+42115	Pennsylvania	Susquehanna	rec_facility_rate	4.6
+42117	Pennsylvania	Tioga	rec_facility_rate	9.5
+42119	Pennsylvania	Union	rec_facility_rate	4.5
+42121	Pennsylvania	Venango	rec_facility_rate	9.1
+42123	Pennsylvania	Warren	rec_facility_rate	2.4
+42125	Pennsylvania	Washington	rec_facility_rate	9.1
+42127	Pennsylvania	Wayne	rec_facility_rate	7.6
+42129	Pennsylvania	Westmoreland	rec_facility_rate	12.9
+42131	Pennsylvania	Wyoming	rec_facility_rate	3.5
+42133	Pennsylvania	York	rec_facility_rate	11
+44001	Rhode Island	Bristol	rec_facility_rate	10
+44003	Rhode Island	Kent	rec_facility_rate	22.9
+44005	Rhode Island	Newport	rec_facility_rate	16.9
+44007	Rhode Island	Providence	rec_facility_rate	11.8
+44009	Rhode Island	Washington	rec_facility_rate	17.3
+45001	South Carolina	Abbeville	rec_facility_rate	0
+45003	South Carolina	Aiken	rec_facility_rate	5
+45005	South Carolina	Allendale	rec_facility_rate	0
+45007	South Carolina	Anderson	rec_facility_rate	9.6
+45009	South Carolina	Bamberg	rec_facility_rate	6.3
+45011	South Carolina	Barnwell	rec_facility_rate	4.4
+45013	South Carolina	Beaufort	rec_facility_rate	12.9
+45015	South Carolina	Berkeley	rec_facility_rate	7.3
+45017	South Carolina	Calhoun	rec_facility_rate	0
+45019	South Carolina	Charleston	rec_facility_rate	12.8
+45021	South Carolina	Cherokee	rec_facility_rate	7.2
+45023	South Carolina	Chester	rec_facility_rate	3
+45025	South Carolina	Chesterfield	rec_facility_rate	4.3
+45027	South Carolina	Clarendon	rec_facility_rate	5.7
+45029	South Carolina	Colleton	rec_facility_rate	5.1
+45031	South Carolina	Darlington	rec_facility_rate	8.7
+45033	South Carolina	Dillon	rec_facility_rate	0
+45035	South Carolina	Dorchester	rec_facility_rate	7.3
+45037	South Carolina	Edgefield	rec_facility_rate	3.7
+45039	South Carolina	Fairfield	rec_facility_rate	0
+45041	South Carolina	Florence	rec_facility_rate	5.1
+45043	South Carolina	Georgetown	rec_facility_rate	8.3
+45045	South Carolina	Greenville	rec_facility_rate	13.2
+45047	South Carolina	Greenwood	rec_facility_rate	5.7
+45049	South Carolina	Hampton	rec_facility_rate	4.7
+45051	South Carolina	Horry	rec_facility_rate	11.8
+45053	South Carolina	Jasper	rec_facility_rate	4
+45055	South Carolina	Kershaw	rec_facility_rate	6.5
+45057	South Carolina	Lancaster	rec_facility_rate	3.9
+45059	South Carolina	Laurens	rec_facility_rate	7.5
+45061	South Carolina	Lee	rec_facility_rate	0
+45063	South Carolina	Lexington	rec_facility_rate	10.6
+45065	South Carolina	McCormick	rec_facility_rate	0
+45067	South Carolina	Marion	rec_facility_rate	3
+45069	South Carolina	Marlboro	rec_facility_rate	3.5
+45071	South Carolina	Newberry	rec_facility_rate	8
+45073	South Carolina	Oconee	rec_facility_rate	2.7
+45075	South Carolina	Orangeburg	rec_facility_rate	6.5
+45077	South Carolina	Pickens	rec_facility_rate	10.1
+45079	South Carolina	Richland	rec_facility_rate	8.8
+45081	South Carolina	Saluda	rec_facility_rate	0
+45083	South Carolina	Spartanburg	rec_facility_rate	11.2
+45085	South Carolina	Sumter	rec_facility_rate	4.6
+45087	South Carolina	Union	rec_facility_rate	3.5
+45089	South Carolina	Williamsburg	rec_facility_rate	8.7
+45091	South Carolina	York	rec_facility_rate	8.4
+46003	South Dakota	Aurora	rec_facility_rate	0
+46005	South Dakota	Beadle	rec_facility_rate	17.2
+46007	South Dakota	Bennett	rec_facility_rate	0
+46009	South Dakota	Bon Homme	rec_facility_rate	0
+46011	South Dakota	Brookings	rec_facility_rate	6.2
+46013	South Dakota	Brown	rec_facility_rate	19.1
+46015	South Dakota	Brule	rec_facility_rate	19
+46017	South Dakota	Buffalo	rec_facility_rate	0
+46019	South Dakota	Butte	rec_facility_rate	19.7
+46021	South Dakota	Campbell	rec_facility_rate	0
+46023	South Dakota	Charles Mix	rec_facility_rate	0
+46025	South Dakota	Clark	rec_facility_rate	0
+46027	South Dakota	Clay	rec_facility_rate	14.4
+46029	South Dakota	Codington	rec_facility_rate	22
+46031	South Dakota	Corson	rec_facility_rate	0
+46033	South Dakota	Custer	rec_facility_rate	12.1
+46035	South Dakota	Davison	rec_facility_rate	15.4
+46037	South Dakota	Day	rec_facility_rate	0
+46039	South Dakota	Deuel	rec_facility_rate	0
+46041	South Dakota	Dewey	rec_facility_rate	0
+46043	South Dakota	Douglas	rec_facility_rate	0
+46045	South Dakota	Edmunds	rec_facility_rate	0
+46047	South Dakota	Fall River	rec_facility_rate	14.1
+46049	South Dakota	Faulk	rec_facility_rate	0
+46051	South Dakota	Grant	rec_facility_rate	13.6
+46053	South Dakota	Gregory	rec_facility_rate	0
+46055	South Dakota	Haakon	rec_facility_rate	0
+46057	South Dakota	Hamlin	rec_facility_rate	0
+46059	South Dakota	Hand	rec_facility_rate	0
+46061	South Dakota	Hanson	rec_facility_rate	30
+46063	South Dakota	Harding	rec_facility_rate	0
+46065	South Dakota	Hughes	rec_facility_rate	17.6
+46067	South Dakota	Hutchinson	rec_facility_rate	0
+46069	South Dakota	Hyde	rec_facility_rate	0
+46071	South Dakota	Jackson	rec_facility_rate	0
+46073	South Dakota	Jerauld	rec_facility_rate	0
+46075	South Dakota	Jones	rec_facility_rate	0
+46077	South Dakota	Kingsbury	rec_facility_rate	0
+46079	South Dakota	Lake	rec_facility_rate	0
+46081	South Dakota	Lawrence	rec_facility_rate	12.4
+46083	South Dakota	Lincoln	rec_facility_rate	15.5
+46085	South Dakota	Lyman	rec_facility_rate	0
+46087	South Dakota	McCook	rec_facility_rate	35.6
+46089	South Dakota	McPherson	rec_facility_rate	0
+46091	South Dakota	Marshall	rec_facility_rate	0
+46093	South Dakota	Meade	rec_facility_rate	7.9
+46095	South Dakota	Mellette	rec_facility_rate	0
+46097	South Dakota	Miner	rec_facility_rate	41.9
+46099	South Dakota	Minnehaha	rec_facility_rate	13.5
+46101	South Dakota	Moody	rec_facility_rate	0
+46103	South Dakota	Pennington	rec_facility_rate	12.8
+46105	South Dakota	Perkins	rec_facility_rate	0
+46107	South Dakota	Potter	rec_facility_rate	42.7
+46109	South Dakota	Roberts	rec_facility_rate	0
+46111	South Dakota	Sanborn	rec_facility_rate	0
+46113	South Dakota	Shannon	rec_facility_rate	0
+46115	South Dakota	Spink	rec_facility_rate	15.6
+46117	South Dakota	Stanley	rec_facility_rate	0
+46119	South Dakota	Sully	rec_facility_rate	0
+46121	South Dakota	Todd	rec_facility_rate	0
+46123	South Dakota	Tripp	rec_facility_rate	53.1
+46125	South Dakota	Turner	rec_facility_rate	0
+46127	South Dakota	Union	rec_facility_rate	13.8
+46129	South Dakota	Walworth	rec_facility_rate	18.3
+46135	South Dakota	Yankton	rec_facility_rate	22.2
+46137	South Dakota	Ziebach	rec_facility_rate	35.4
+47001	Tennessee	Anderson	rec_facility_rate	5.3
+47003	Tennessee	Bedford	rec_facility_rate	8.9
+47005	Tennessee	Benton	rec_facility_rate	6.1
+47007	Tennessee	Bledsoe	rec_facility_rate	0
+47009	Tennessee	Blount	rec_facility_rate	5.7
+47011	Tennessee	Bradley	rec_facility_rate	7.1
+47013	Tennessee	Campbell	rec_facility_rate	9.8
+47015	Tennessee	Cannon	rec_facility_rate	0
+47017	Tennessee	Carroll	rec_facility_rate	3.5
+47019	Tennessee	Carter	rec_facility_rate	1.7
+47021	Tennessee	Cheatham	rec_facility_rate	2.6
+47023	Tennessee	Chester	rec_facility_rate	5.8
+47025	Tennessee	Claiborne	rec_facility_rate	3.1
+47027	Tennessee	Clay	rec_facility_rate	0
+47029	Tennessee	Cocke	rec_facility_rate	5.6
+47031	Tennessee	Coffee	rec_facility_rate	5.7
+47033	Tennessee	Crockett	rec_facility_rate	0
+47035	Tennessee	Cumberland	rec_facility_rate	5.3
+47037	Tennessee	Davidson	rec_facility_rate	9.1
+47039	Tennessee	Decatur	rec_facility_rate	8.5
+47041	Tennessee	DeKalb	rec_facility_rate	0
+47043	Tennessee	Dickson	rec_facility_rate	16.1
+47045	Tennessee	Dyer	rec_facility_rate	7.8
+47047	Tennessee	Fayette	rec_facility_rate	5.2
+47049	Tennessee	Fentress	rec_facility_rate	5.6
+47051	Tennessee	Franklin	rec_facility_rate	7.3
+47053	Tennessee	Gibson	rec_facility_rate	14.1
+47055	Tennessee	Giles	rec_facility_rate	10.2
+47057	Tennessee	Grainger	rec_facility_rate	0
+47059	Tennessee	Greene	rec_facility_rate	2.9
+47061	Tennessee	Grundy	rec_facility_rate	7.3
+47063	Tennessee	Hamblen	rec_facility_rate	4.8
+47065	Tennessee	Hamilton	rec_facility_rate	10.7
+47067	Tennessee	Hancock	rec_facility_rate	0
+47069	Tennessee	Hardeman	rec_facility_rate	3.7
+47071	Tennessee	Hardin	rec_facility_rate	15.4
+47073	Tennessee	Hawkins	rec_facility_rate	5.3
+47075	Tennessee	Haywood	rec_facility_rate	10.7
+47077	Tennessee	Henderson	rec_facility_rate	7.2
+47079	Tennessee	Henry	rec_facility_rate	3.1
+47081	Tennessee	Hickman	rec_facility_rate	0
+47083	Tennessee	Houston	rec_facility_rate	11.8
+47085	Tennessee	Humphreys	rec_facility_rate	0
+47087	Tennessee	Jackson	rec_facility_rate	0
+47089	Tennessee	Jefferson	rec_facility_rate	1.9
+47091	Tennessee	Johnson	rec_facility_rate	5.5
+47093	Tennessee	Knox	rec_facility_rate	9.7
+47095	Tennessee	Lake	rec_facility_rate	0
+47097	Tennessee	Lauderdale	rec_facility_rate	0
+47099	Tennessee	Lawrence	rec_facility_rate	4.8
+47101	Tennessee	Lewis	rec_facility_rate	0
+47103	Tennessee	Lincoln	rec_facility_rate	12
+47105	Tennessee	Loudon	rec_facility_rate	6.1
+47107	Tennessee	McMinn	rec_facility_rate	1.9
+47109	Tennessee	McNairy	rec_facility_rate	11.5
+47111	Tennessee	Macon	rec_facility_rate	0
+47113	Tennessee	Madison	rec_facility_rate	13.2
+47115	Tennessee	Marion	rec_facility_rate	7.1
+47117	Tennessee	Marshall	rec_facility_rate	6.5
+47119	Tennessee	Maury	rec_facility_rate	7.4
+47121	Tennessee	Meigs	rec_facility_rate	0
+47123	Tennessee	Monroe	rec_facility_rate	6.7
+47125	Tennessee	Montgomery	rec_facility_rate	5.8
+47127	Tennessee	Moore	rec_facility_rate	0
+47129	Tennessee	Morgan	rec_facility_rate	0
+47131	Tennessee	Obion	rec_facility_rate	9.4
+47133	Tennessee	Overton	rec_facility_rate	9
+47135	Tennessee	Perry	rec_facility_rate	0
+47137	Tennessee	Pickett	rec_facility_rate	0
+47139	Tennessee	Polk	rec_facility_rate	0
+47141	Tennessee	Putnam	rec_facility_rate	5.5
+47143	Tennessee	Rhea	rec_facility_rate	6.3
+47145	Tennessee	Roane	rec_facility_rate	9.2
+47147	Tennessee	Robertson	rec_facility_rate	4.5
+47149	Tennessee	Rutherford	rec_facility_rate	5.7
+47151	Tennessee	Scott	rec_facility_rate	0
+47153	Tennessee	Sequatchie	rec_facility_rate	7.1
+47155	Tennessee	Sevier	rec_facility_rate	6.7
+47157	Tennessee	Shelby	rec_facility_rate	7.2
+47159	Tennessee	Smith	rec_facility_rate	5.2
+47161	Tennessee	Stewart	rec_facility_rate	0
+47163	Tennessee	Sullivan	rec_facility_rate	12.8
+47165	Tennessee	Sumner	rec_facility_rate	9.3
+47167	Tennessee	Tipton	rec_facility_rate	3.3
+47169	Tennessee	Trousdale	rec_facility_rate	0
+47171	Tennessee	Unicoi	rec_facility_rate	5.5
+47173	Tennessee	Union	rec_facility_rate	0
+47175	Tennessee	Van Buren	rec_facility_rate	0
+47177	Tennessee	Warren	rec_facility_rate	2.5
+47179	Tennessee	Washington	rec_facility_rate	9.7
+47181	Tennessee	Wayne	rec_facility_rate	0
+47183	Tennessee	Weakley	rec_facility_rate	0
+47185	Tennessee	White	rec_facility_rate	3.9
+47187	Tennessee	Williamson	rec_facility_rate	17.9
+47189	Tennessee	Wilson	rec_facility_rate	7.9
+48001	Texas	Anderson	rec_facility_rate	5.1
+48003	Texas	Andrews	rec_facility_rate	0
+48005	Texas	Angelina	rec_facility_rate	6.9
+48007	Texas	Aransas	rec_facility_rate	8.6
+48009	Texas	Archer	rec_facility_rate	0
+48011	Texas	Armstrong	rec_facility_rate	0
+48013	Texas	Atascosa	rec_facility_rate	8.9
+48015	Texas	Austin	rec_facility_rate	7
+48017	Texas	Bailey	rec_facility_rate	13.9
+48019	Texas	Bandera	rec_facility_rate	4.9
+48021	Texas	Bastrop	rec_facility_rate	5.4
+48023	Texas	Baylor	rec_facility_rate	0
+48025	Texas	Bee	rec_facility_rate	9.4
+48027	Texas	Bell	rec_facility_rate	5.8
+48029	Texas	Bexar	rec_facility_rate	6.9
+48031	Texas	Blanco	rec_facility_rate	0
+48033	Texas	Borden	rec_facility_rate	0
+48035	Texas	Bosque	rec_facility_rate	0
+48037	Texas	Bowie	rec_facility_rate	12.9
+48039	Texas	Brazoria	rec_facility_rate	7.3
+48041	Texas	Brazos	rec_facility_rate	8.7
+48043	Texas	Brewster	rec_facility_rate	0
+48045	Texas	Briscoe	rec_facility_rate	61.3
+48047	Texas	Brooks	rec_facility_rate	0
+48049	Texas	Brown	rec_facility_rate	13.1
+48051	Texas	Burleson	rec_facility_rate	17.4
+48053	Texas	Burnet	rec_facility_rate	9.3
+48055	Texas	Caldwell	rec_facility_rate	2.6
+48057	Texas	Calhoun	rec_facility_rate	0
+48059	Texas	Callahan	rec_facility_rate	0
+48061	Texas	Cameron	rec_facility_rate	2.7
+48063	Texas	Camp	rec_facility_rate	0
+48065	Texas	Carson	rec_facility_rate	0
+48067	Texas	Cass	rec_facility_rate	3.3
+48069	Texas	Castro	rec_facility_rate	0
+48071	Texas	Chambers	rec_facility_rate	5.7
+48073	Texas	Cherokee	rec_facility_rate	5.9
+48075	Texas	Childress	rec_facility_rate	14.2
+48077	Texas	Clay	rec_facility_rate	0
+48079	Texas	Cochran	rec_facility_rate	0
+48081	Texas	Coke	rec_facility_rate	0
+48083	Texas	Coleman	rec_facility_rate	11.2
+48085	Texas	Collin	rec_facility_rate	9.3
+48087	Texas	Collingsworth	rec_facility_rate	32.7
+48089	Texas	Colorado	rec_facility_rate	19.1
+48091	Texas	Comal	rec_facility_rate	11
+48093	Texas	Comanche	rec_facility_rate	14.3
+48095	Texas	Concho	rec_facility_rate	0
+48097	Texas	Cooke	rec_facility_rate	7.8
+48099	Texas	Coryell	rec_facility_rate	5.3
+48101	Texas	Cottle	rec_facility_rate	0
+48103	Texas	Crane	rec_facility_rate	0
+48105	Texas	Crockett	rec_facility_rate	0
+48107	Texas	Crosby	rec_facility_rate	0
+48109	Texas	Culberson	rec_facility_rate	0
+48111	Texas	Dallam	rec_facility_rate	0
+48113	Texas	Dallas	rec_facility_rate	7.1
+48115	Texas	Dawson	rec_facility_rate	7.2
+48117	Texas	Deaf Smith	rec_facility_rate	5.1
+48119	Texas	Delta	rec_facility_rate	0
+48121	Texas	Denton	rec_facility_rate	7.8
+48123	Texas	DeWitt	rec_facility_rate	5
+48125	Texas	Dickens	rec_facility_rate	0
+48127	Texas	Dimmit	rec_facility_rate	0
+48129	Texas	Donley	rec_facility_rate	0
+48131	Texas	Duval	rec_facility_rate	0
+48133	Texas	Eastland	rec_facility_rate	16.1
+48135	Texas	Ector	rec_facility_rate	8
+48137	Texas	Edwards	rec_facility_rate	0
+48139	Texas	Ellis	rec_facility_rate	6.6
+48141	Texas	El Paso	rec_facility_rate	5.7
+48143	Texas	Erath	rec_facility_rate	13.2
+48145	Texas	Falls	rec_facility_rate	0
+48147	Texas	Fannin	rec_facility_rate	5.9
+48149	Texas	Fayette	rec_facility_rate	12.2
+48151	Texas	Fisher	rec_facility_rate	0
+48153	Texas	Floyd	rec_facility_rate	0
+48155	Texas	Foard	rec_facility_rate	0
+48157	Texas	Fort Bend	rec_facility_rate	6.9
+48159	Texas	Franklin	rec_facility_rate	0
+48161	Texas	Freestone	rec_facility_rate	5
+48163	Texas	Frio	rec_facility_rate	5.8
+48165	Texas	Gaines	rec_facility_rate	5.7
+48167	Texas	Galveston	rec_facility_rate	7.9
+48169	Texas	Garza	rec_facility_rate	0
+48171	Texas	Gillespie	rec_facility_rate	16.1
+48173	Texas	Glasscock	rec_facility_rate	0
+48175	Texas	Goliad	rec_facility_rate	13.8
+48177	Texas	Gonzales	rec_facility_rate	15.1
+48179	Texas	Gray	rec_facility_rate	4.5
+48181	Texas	Grayson	rec_facility_rate	10.7
+48183	Texas	Gregg	rec_facility_rate	7.4
+48185	Texas	Grimes	rec_facility_rate	3.8
+48187	Texas	Guadalupe	rec_facility_rate	1.5
+48189	Texas	Hale	rec_facility_rate	11
+48191	Texas	Hall	rec_facility_rate	0
+48193	Texas	Hamilton	rec_facility_rate	0
+48195	Texas	Hansford	rec_facility_rate	0
+48197	Texas	Hardeman	rec_facility_rate	0
+48199	Texas	Hardin	rec_facility_rate	3.7
+48201	Texas	Harris	rec_facility_rate	7.2
+48203	Texas	Harrison	rec_facility_rate	3
+48205	Texas	Hartley	rec_facility_rate	0
+48207	Texas	Haskell	rec_facility_rate	0
+48209	Texas	Hays	rec_facility_rate	10.7
+48211	Texas	Hemphill	rec_facility_rate	26.3
+48213	Texas	Henderson	rec_facility_rate	11.4
+48215	Texas	Hidalgo	rec_facility_rate	3.8
+48217	Texas	Hill	rec_facility_rate	8.5
+48219	Texas	Hockley	rec_facility_rate	0
+48221	Texas	Hood	rec_facility_rate	7.8
+48223	Texas	Hopkins	rec_facility_rate	8.5
+48225	Texas	Houston	rec_facility_rate	0
+48227	Texas	Howard	rec_facility_rate	2.9
+48229	Texas	Hudspeth	rec_facility_rate	0
+48231	Texas	Hunt	rec_facility_rate	5.8
+48233	Texas	Hutchinson	rec_facility_rate	9
+48235	Texas	Irion	rec_facility_rate	62.2
+48237	Texas	Jack	rec_facility_rate	0
+48239	Texas	Jackson	rec_facility_rate	0
+48241	Texas	Jasper	rec_facility_rate	5.6
+48243	Texas	Jeff Davis	rec_facility_rate	0
+48245	Texas	Jefferson	rec_facility_rate	6.7
+48247	Texas	Jim Hogg	rec_facility_rate	0
+48249	Texas	Jim Wells	rec_facility_rate	7.3
+48251	Texas	Johnson	rec_facility_rate	5.9
+48253	Texas	Jones	rec_facility_rate	4.9
+48255	Texas	Karnes	rec_facility_rate	6.7
+48257	Texas	Kaufman	rec_facility_rate	7.7
+48259	Texas	Kendall	rec_facility_rate	11.9
+48261	Texas	Kenedy	rec_facility_rate	0
+48263	Texas	Kent	rec_facility_rate	0
+48265	Texas	Kerr	rec_facility_rate	12.1
+48267	Texas	Kimble	rec_facility_rate	43.5
+48269	Texas	King	rec_facility_rate	0
+48271	Texas	Kinney	rec_facility_rate	0
+48273	Texas	Kleberg	rec_facility_rate	9.3
+48275	Texas	Knox	rec_facility_rate	0
+48277	Texas	Lamar	rec_facility_rate	4
+48279	Texas	Lamb	rec_facility_rate	7.1
+48281	Texas	Lampasas	rec_facility_rate	5.1
+48283	Texas	La Salle	rec_facility_rate	0
+48285	Texas	Lavaca	rec_facility_rate	10.4
+48287	Texas	Lee	rec_facility_rate	6
+48289	Texas	Leon	rec_facility_rate	6
+48291	Texas	Liberty	rec_facility_rate	1.3
+48293	Texas	Limestone	rec_facility_rate	4.3
+48295	Texas	Lipscomb	rec_facility_rate	0
+48297	Texas	Live Oak	rec_facility_rate	8.7
+48299	Texas	Llano	rec_facility_rate	10.3
+48301	Texas	Loving	rec_facility_rate	0
+48303	Texas	Lubbock	rec_facility_rate	9.6
+48305	Texas	Lynn	rec_facility_rate	0
+48307	Texas	McCulloch	rec_facility_rate	0
+48309	Texas	McLennan	rec_facility_rate	6.4
+48311	Texas	McMullen	rec_facility_rate	0
+48313	Texas	Madison	rec_facility_rate	0
+48315	Texas	Marion	rec_facility_rate	0
+48317	Texas	Martin	rec_facility_rate	0
+48319	Texas	Mason	rec_facility_rate	0
+48321	Texas	Matagorda	rec_facility_rate	2.7
+48323	Texas	Maverick	rec_facility_rate	1.8
+48325	Texas	Medina	rec_facility_rate	4.3
+48327	Texas	Menard	rec_facility_rate	0
+48329	Texas	Midland	rec_facility_rate	11.7
+48331	Texas	Milam	rec_facility_rate	0
+48333	Texas	Mills	rec_facility_rate	20.2
+48335	Texas	Mitchell	rec_facility_rate	10.6
+48337	Texas	Montague	rec_facility_rate	5.1
+48339	Texas	Montgomery	rec_facility_rate	8.5
+48341	Texas	Moore	rec_facility_rate	0
+48343	Texas	Morris	rec_facility_rate	0
+48345	Texas	Motley	rec_facility_rate	0
+48347	Texas	Nacogdoches	rec_facility_rate	6.2
+48349	Texas	Navarro	rec_facility_rate	8.4
+48351	Texas	Newton	rec_facility_rate	0
+48353	Texas	Nolan	rec_facility_rate	0
+48355	Texas	Nueces	rec_facility_rate	5.9
+48357	Texas	Ochiltree	rec_facility_rate	9.8
+48359	Texas	Oldham	rec_facility_rate	0
+48361	Texas	Orange	rec_facility_rate	6.1
+48363	Texas	Palo Pinto	rec_facility_rate	3.6
+48365	Texas	Panola	rec_facility_rate	8.4
+48367	Texas	Parker	rec_facility_rate	5.1
+48369	Texas	Parmer	rec_facility_rate	0
+48371	Texas	Pecos	rec_facility_rate	6.4
+48373	Texas	Polk	rec_facility_rate	0
+48375	Texas	Potter	rec_facility_rate	4.1
+48377	Texas	Presidio	rec_facility_rate	0
+48379	Texas	Rains	rec_facility_rate	0
+48381	Texas	Randall	rec_facility_rate	10.7
+48383	Texas	Reagan	rec_facility_rate	0
+48385	Texas	Real	rec_facility_rate	60.3
+48387	Texas	Red River	rec_facility_rate	7.8
+48389	Texas	Reeves	rec_facility_rate	0
+48391	Texas	Refugio	rec_facility_rate	0
+48393	Texas	Roberts	rec_facility_rate	0
+48395	Texas	Robertson	rec_facility_rate	6
+48397	Texas	Rockwall	rec_facility_rate	13.9
+48399	Texas	Runnels	rec_facility_rate	0
+48401	Texas	Rusk	rec_facility_rate	7.5
+48403	Texas	Sabine	rec_facility_rate	0
+48405	Texas	San Augustine	rec_facility_rate	0
+48407	Texas	San Jacinto	rec_facility_rate	0
+48409	Texas	San Patricio	rec_facility_rate	9.3
+48411	Texas	San Saba	rec_facility_rate	0
+48413	Texas	Schleicher	rec_facility_rate	0
+48415	Texas	Scurry	rec_facility_rate	11.8
+48417	Texas	Shackelford	rec_facility_rate	0
+48419	Texas	Shelby	rec_facility_rate	3.9
+48421	Texas	Sherman	rec_facility_rate	0
+48423	Texas	Smith	rec_facility_rate	9.5
+48425	Texas	Somervell	rec_facility_rate	0
+48427	Texas	Starr	rec_facility_rate	1.6
+48429	Texas	Stephens	rec_facility_rate	0
+48431	Texas	Sterling	rec_facility_rate	0
+48433	Texas	Stonewall	rec_facility_rate	0
+48435	Texas	Sutton	rec_facility_rate	0
+48437	Texas	Swisher	rec_facility_rate	0
+48439	Texas	Tarrant	rec_facility_rate	7.7
+48441	Texas	Taylor	rec_facility_rate	11.4
+48443	Texas	Terrell	rec_facility_rate	0
+48445	Texas	Terry	rec_facility_rate	7.9
+48447	Texas	Throckmorton	rec_facility_rate	0
+48449	Texas	Titus	rec_facility_rate	6.2
+48451	Texas	Tom Green	rec_facility_rate	6.3
+48453	Texas	Travis	rec_facility_rate	12.4
+48455	Texas	Trinity	rec_facility_rate	6.8
+48457	Texas	Tyler	rec_facility_rate	0
+48459	Texas	Upshur	rec_facility_rate	2.5
+48461	Texas	Upton	rec_facility_rate	0
+48463	Texas	Uvalde	rec_facility_rate	7.6
+48465	Texas	Val Verde	rec_facility_rate	6.1
+48467	Texas	Van Zandt	rec_facility_rate	3.8
+48469	Texas	Victoria	rec_facility_rate	10.4
+48471	Texas	Walker	rec_facility_rate	2.9
+48473	Texas	Waller	rec_facility_rate	2.3
+48475	Texas	Ward	rec_facility_rate	0
+48477	Texas	Washington	rec_facility_rate	8.9
+48479	Texas	Webb	rec_facility_rate	5.6
+48481	Texas	Wharton	rec_facility_rate	4.8
+48483	Texas	Wheeler	rec_facility_rate	18.5
+48485	Texas	Wichita	rec_facility_rate	5.3
+48487	Texas	Wilbarger	rec_facility_rate	7.4
+48489	Texas	Willacy	rec_facility_rate	0
+48491	Texas	Williamson	rec_facility_rate	9.4
+48493	Texas	Wilson	rec_facility_rate	4.6
+48495	Texas	Winkler	rec_facility_rate	0
+48497	Texas	Wise	rec_facility_rate	11.8
+48499	Texas	Wood	rec_facility_rate	2.4
+48501	Texas	Yoakum	rec_facility_rate	0
+48503	Texas	Young	rec_facility_rate	0
+48505	Texas	Zapata	rec_facility_rate	0
+48507	Texas	Zavala	rec_facility_rate	0
+49001	Utah	Beaver	rec_facility_rate	15
+49003	Utah	Box Elder	rec_facility_rate	12
+49005	Utah	Cache	rec_facility_rate	6.2
+49007	Utah	Carbon	rec_facility_rate	14
+49009	Utah	Daggett	rec_facility_rate	0
+49011	Utah	Davis	rec_facility_rate	9.1
+49013	Utah	Duchesne	rec_facility_rate	10.7
+49015	Utah	Emery	rec_facility_rate	0
+49017	Utah	Garfield	rec_facility_rate	0
+49019	Utah	Grand	rec_facility_rate	0
+49021	Utah	Iron	rec_facility_rate	4.3
+49023	Utah	Juab	rec_facility_rate	9.7
+49025	Utah	Kane	rec_facility_rate	28
+49027	Utah	Millard	rec_facility_rate	8
+49029	Utah	Morgan	rec_facility_rate	10.5
+49031	Utah	Piute	rec_facility_rate	0
+49033	Utah	Rich	rec_facility_rate	0
+49035	Utah	Salt Lake	rec_facility_rate	7.4
+49037	Utah	San Juan	rec_facility_rate	0
+49039	Utah	Sanpete	rec_facility_rate	3.6
+49041	Utah	Sevier	rec_facility_rate	9.6
+49043	Utah	Summit	rec_facility_rate	19.2
+49045	Utah	Tooele	rec_facility_rate	1.7
+49047	Utah	Uintah	rec_facility_rate	6.2
+49049	Utah	Utah	rec_facility_rate	5.4
+49051	Utah	Wasatch	rec_facility_rate	12.7
+49053	Utah	Washington	rec_facility_rate	10.1
+49055	Utah	Wayne	rec_facility_rate	36.1
+49057	Utah	Weber	rec_facility_rate	6.9
+50001	Vermont	Addison	rec_facility_rate	16.3
+50003	Vermont	Bennington	rec_facility_rate	24.3
+50005	Vermont	Caledonia	rec_facility_rate	3.2
+50007	Vermont	Chittenden	rec_facility_rate	16.6
+50009	Vermont	Essex	rec_facility_rate	0
+50011	Vermont	Franklin	rec_facility_rate	4.2
+50013	Vermont	Grand Isle	rec_facility_rate	0
+50015	Vermont	Lamoille	rec_facility_rate	16.3
+50017	Vermont	Orange	rec_facility_rate	3.5
+50019	Vermont	Orleans	rec_facility_rate	11
+50021	Vermont	Rutland	rec_facility_rate	8.1
+50023	Vermont	Washington	rec_facility_rate	18.5
+50025	Vermont	Windham	rec_facility_rate	15.7
+50027	Vermont	Windsor	rec_facility_rate	17.7
+51001	Virginia	Accomack	rec_facility_rate	6
+51003	Virginia	Albemarle	rec_facility_rate	12.1
+51005	Virginia	Alleghany	rec_facility_rate	6.2
+51007	Virginia	Amelia	rec_facility_rate	7.8
+51009	Virginia	Amherst	rec_facility_rate	3.1
+51011	Virginia	Appomattox	rec_facility_rate	20
+51013	Virginia	Arlington	rec_facility_rate	15.3
+51015	Virginia	Augusta	rec_facility_rate	5.4
+51017	Virginia	Bath	rec_facility_rate	0
+51019	Virginia	Bedford	rec_facility_rate	7.3
+51021	Virginia	Bland	rec_facility_rate	0
+51023	Virginia	Botetourt	rec_facility_rate	9
+51025	Virginia	Brunswick	rec_facility_rate	5.7
+51027	Virginia	Buchanan	rec_facility_rate	12.5
+51029	Virginia	Buckingham	rec_facility_rate	5.8
+51031	Virginia	Campbell	rec_facility_rate	10.9
+51033	Virginia	Caroline	rec_facility_rate	0
+51035	Virginia	Carroll	rec_facility_rate	3.3
+51036	Virginia	Charles City	rec_facility_rate	0
+51037	Virginia	Charlotte	rec_facility_rate	7.9
+51041	Virginia	Chesterfield	rec_facility_rate	12
+51043	Virginia	Clarke	rec_facility_rate	7.1
+51045	Virginia	Craig	rec_facility_rate	0
+51047	Virginia	Culpeper	rec_facility_rate	8.5
+51049	Virginia	Cumberland	rec_facility_rate	0
+51051	Virginia	Dickenson	rec_facility_rate	0
+51053	Virginia	Dinwiddie	rec_facility_rate	3.6
+51057	Virginia	Essex	rec_facility_rate	26.8
+51059	Virginia	Fairfax	rec_facility_rate	11.4
+51061	Virginia	Fauquier	rec_facility_rate	10.7
+51063	Virginia	Floyd	rec_facility_rate	6.5
+51065	Virginia	Fluvanna	rec_facility_rate	11.6
+51067	Virginia	Franklin	rec_facility_rate	7.1
+51069	Virginia	Frederick	rec_facility_rate	10.2
+51071	Virginia	Giles	rec_facility_rate	0
+51073	Virginia	Gloucester	rec_facility_rate	10.8
+51075	Virginia	Goochland	rec_facility_rate	4.6
+51077	Virginia	Grayson	rec_facility_rate	0
+51079	Virginia	Greene	rec_facility_rate	5.4
+51081	Virginia	Greensville	rec_facility_rate	0
+51083	Virginia	Halifax	rec_facility_rate	11
+51085	Virginia	Hanover	rec_facility_rate	15
+51087	Virginia	Henrico	rec_facility_rate	14
+51089	Virginia	Henry	rec_facility_rate	9.2
+51091	Virginia	Highland	rec_facility_rate	0
+51093	Virginia	Isle of Wight	rec_facility_rate	5.7
+51095	Virginia	James City	rec_facility_rate	16.3
+51097	Virginia	King and Queen	rec_facility_rate	0
+51099	Virginia	King George	rec_facility_rate	12.7
+51101	Virginia	King William	rec_facility_rate	25
+51103	Virginia	Lancaster	rec_facility_rate	0
+51105	Virginia	Lee	rec_facility_rate	0
+51107	Virginia	Loudoun	rec_facility_rate	14.6
+51109	Virginia	Louisa	rec_facility_rate	9
+51111	Virginia	Lunenburg	rec_facility_rate	7.7
+51113	Virginia	Madison	rec_facility_rate	7.5
+51115	Virginia	Mathews	rec_facility_rate	11.1
+51117	Virginia	Mecklenburg	rec_facility_rate	6.1
+51119	Virginia	Middlesex	rec_facility_rate	9.1
+51121	Virginia	Montgomery	rec_facility_rate	11.6
+51125	Virginia	Nelson	rec_facility_rate	6.7
+51127	Virginia	New Kent	rec_facility_rate	10.8
+51131	Virginia	Northampton	rec_facility_rate	8.1
+51133	Virginia	Northumberland	rec_facility_rate	0
+51135	Virginia	Nottoway	rec_facility_rate	0
+51137	Virginia	Orange	rec_facility_rate	8.9
+51139	Virginia	Page	rec_facility_rate	8.3
+51141	Virginia	Patrick	rec_facility_rate	5.4
+51143	Virginia	Pittsylvania	rec_facility_rate	0
+51145	Virginia	Powhatan	rec_facility_rate	7.1
+51147	Virginia	Prince Edward	rec_facility_rate	4.3
+51149	Virginia	Prince George	rec_facility_rate	2.8
+51153	Virginia	Prince William	rec_facility_rate	9.6
+51155	Virginia	Pulaski	rec_facility_rate	11.5
+51157	Virginia	Rappahannock	rec_facility_rate	0
+51159	Virginia	Richmond	rec_facility_rate	10.8
+51161	Virginia	Roanoke	rec_facility_rate	13
+51163	Virginia	Rockbridge	rec_facility_rate	9
+51165	Virginia	Rockingham	rec_facility_rate	6.5
+51167	Virginia	Russell	rec_facility_rate	3.5
+51169	Virginia	Scott	rec_facility_rate	8.6
+51171	Virginia	Shenandoah	rec_facility_rate	11.9
+51173	Virginia	Smyth	rec_facility_rate	9.3
+51175	Virginia	Southampton	rec_facility_rate	0
+51177	Virginia	Spotsylvania	rec_facility_rate	7.3
+51179	Virginia	Stafford	rec_facility_rate	10
+51181	Virginia	Surry	rec_facility_rate	0
+51183	Virginia	Sussex	rec_facility_rate	16.6
+51185	Virginia	Tazewell	rec_facility_rate	8.9
+51187	Virginia	Warren	rec_facility_rate	8
+51191	Virginia	Washington	rec_facility_rate	1.8
+51193	Virginia	Westmoreland	rec_facility_rate	5.7
+51195	Virginia	Wise	rec_facility_rate	2.4
+51197	Virginia	Wythe	rec_facility_rate	6.8
+51199	Virginia	York	rec_facility_rate	7.6
+51510	Virginia	Alexandria City	rec_facility_rate	11.4
+51515	Virginia	Bedford City	rec_facility_rate	0
+51520	Virginia	Bristol City	rec_facility_rate	16.8
+51530	Virginia	Buena Vista City	rec_facility_rate	15.1
+51540	Virginia	Charlottesville City	rec_facility_rate	25.3
+51550	Virginia	Chesapeake City	rec_facility_rate	8.5
+51570	Virginia	Colonial Heights City	rec_facility_rate	23
+51580	Virginia	Covington City	rec_facility_rate	16.7
+51590	Virginia	Danville City	rec_facility_rate	23.3
+51595	Virginia	Emporia City	rec_facility_rate	33.7
+51600	Virginia	Fairfax City	rec_facility_rate	57.5
+51610	Virginia	Falls Church City	rec_facility_rate	32
+51620	Virginia	Franklin City	rec_facility_rate	11.6
+51630	Virginia	Fredericksburg City	rec_facility_rate	16.4
+51640	Virginia	Galax City	rec_facility_rate	28.3
+51650	Virginia	Hampton City	rec_facility_rate	9.5
+51660	Virginia	Harrisonburg City	rec_facility_rate	6.1
+51670	Virginia	Hopewell City	rec_facility_rate	8.8
+51678	Virginia	Lexington City	rec_facility_rate	14.1
+51680	Virginia	Lynchburg City	rec_facility_rate	17.2
+51683	Virginia	Manassas City	rec_facility_rate	13.1
+51685	Virginia	Manassas Park City	rec_facility_rate	0
+51690	Virginia	Martinsville City	rec_facility_rate	21.8
+51700	Virginia	Newport News City	rec_facility_rate	10
+51710	Virginia	Norfolk City	rec_facility_rate	8.2
+51720	Virginia	Norton City	rec_facility_rate	25.1
+51730	Virginia	Petersburg City	rec_facility_rate	6.1
+51735	Virginia	Poquoson City	rec_facility_rate	8.2
+51740	Virginia	Portsmouth City	rec_facility_rate	5.2
+51750	Virginia	Radford City	rec_facility_rate	12.2
+51760	Virginia	Richmond City	rec_facility_rate	5.4
+51770	Virginia	Roanoke City	rec_facility_rate	14.5
+51775	Virginia	Salem City	rec_facility_rate	12.1
+51790	Virginia	Staunton City	rec_facility_rate	12.6
+51800	Virginia	Suffolk City	rec_facility_rate	3.5
+51810	Virginia	Virginia Beach City	rec_facility_rate	11.4
+51820	Virginia	Waynesboro City	rec_facility_rate	9.5
+51830	Virginia	Williamsburg City	rec_facility_rate	7.1
+51840	Virginia	Winchester City	rec_facility_rate	22.9
+53001	Washington	Adams	rec_facility_rate	5.3
+53003	Washington	Asotin	rec_facility_rate	4.6
+53005	Washington	Benton	rec_facility_rate	14.7
+53007	Washington	Chelan	rec_facility_rate	22
+53009	Washington	Clallam	rec_facility_rate	9.8
+53011	Washington	Clark	rec_facility_rate	9.8
+53013	Washington	Columbia	rec_facility_rate	0
+53015	Washington	Cowlitz	rec_facility_rate	6.8
+53017	Washington	Douglas	rec_facility_rate	5.2
+53019	Washington	Ferry	rec_facility_rate	0
+53021	Washington	Franklin	rec_facility_rate	7.6
+53023	Washington	Garfield	rec_facility_rate	0
+53025	Washington	Grant	rec_facility_rate	6.7
+53027	Washington	Grays Harbor	rec_facility_rate	8.2
+53029	Washington	Island	rec_facility_rate	10.2
+53031	Washington	Jefferson	rec_facility_rate	20.1
+53033	Washington	King	rec_facility_rate	16.2
+53035	Washington	Kitsap	rec_facility_rate	9.5
+53037	Washington	Kittitas	rec_facility_rate	12.2
+53039	Washington	Klickitat	rec_facility_rate	4.9
+53041	Washington	Lewis	rec_facility_rate	10.6
+53043	Washington	Lincoln	rec_facility_rate	0
+53045	Washington	Mason	rec_facility_rate	6.6
+53047	Washington	Okanogan	rec_facility_rate	9.7
+53049	Washington	Pacific	rec_facility_rate	9.6
+53051	Washington	Pend Oreille	rec_facility_rate	0
+53053	Washington	Pierce	rec_facility_rate	7.5
+53055	Washington	San Juan	rec_facility_rate	25.4
+53057	Washington	Skagit	rec_facility_rate	12
+53059	Washington	Skamania	rec_facility_rate	9
+53061	Washington	Snohomish	rec_facility_rate	9.1
+53063	Washington	Spokane	rec_facility_rate	11.2
+53065	Washington	Stevens	rec_facility_rate	9.2
+53067	Washington	Thurston	rec_facility_rate	9.1
+53069	Washington	Wahkiakum	rec_facility_rate	0
+53071	Washington	Walla Walla	rec_facility_rate	10.2
+53073	Washington	Whatcom	rec_facility_rate	13.9
+53075	Washington	Whitman	rec_facility_rate	4.5
+53077	Washington	Yakima	rec_facility_rate	6.5
+54001	West Virginia	Barbour	rec_facility_rate	6
+54003	West Virginia	Berkeley	rec_facility_rate	5.7
+54005	West Virginia	Boone	rec_facility_rate	0
+54007	West Virginia	Braxton	rec_facility_rate	13.8
+54009	West Virginia	Brooke	rec_facility_rate	0
+54011	West Virginia	Cabell	rec_facility_rate	9.3
+54013	West Virginia	Calhoun	rec_facility_rate	0
+54015	West Virginia	Clay	rec_facility_rate	0
+54017	West Virginia	Doddridge	rec_facility_rate	12.2
+54019	West Virginia	Fayette	rec_facility_rate	6.5
+54021	West Virginia	Gilmer	rec_facility_rate	0
+54023	West Virginia	Grant	rec_facility_rate	0
+54025	West Virginia	Greenbrier	rec_facility_rate	2.8
+54027	West Virginia	Hampshire	rec_facility_rate	0
+54029	West Virginia	Hancock	rec_facility_rate	3.3
+54031	West Virginia	Hardy	rec_facility_rate	0
+54033	West Virginia	Harrison	rec_facility_rate	13
+54035	West Virginia	Jackson	rec_facility_rate	6.8
+54037	West Virginia	Jefferson	rec_facility_rate	7.5
+54039	West Virginia	Kanawha	rec_facility_rate	11.9
+54041	West Virginia	Lewis	rec_facility_rate	6.1
+54043	West Virginia	Lincoln	rec_facility_rate	4.6
+54045	West Virginia	Logan	rec_facility_rate	2.7
+54047	West Virginia	McDowell	rec_facility_rate	0
+54049	West Virginia	Marion	rec_facility_rate	10.6
+54051	West Virginia	Marshall	rec_facility_rate	3
+54053	West Virginia	Mason	rec_facility_rate	0
+54055	West Virginia	Mercer	rec_facility_rate	6.4
+54057	West Virginia	Mineral	rec_facility_rate	7.1
+54059	West Virginia	Mingo	rec_facility_rate	3.7
+54061	West Virginia	Monongalia	rec_facility_rate	10.3
+54063	West Virginia	Monroe	rec_facility_rate	0
+54065	West Virginia	Morgan	rec_facility_rate	17.1
+54067	West Virginia	Nicholas	rec_facility_rate	7.6
+54069	West Virginia	Ohio	rec_facility_rate	11.2
+54071	West Virginia	Pendleton	rec_facility_rate	0
+54073	West Virginia	Pleasants	rec_facility_rate	0
+54075	West Virginia	Pocahontas	rec_facility_rate	0
+54077	West Virginia	Preston	rec_facility_rate	3
+54079	West Virginia	Putnam	rec_facility_rate	10.8
+54081	West Virginia	Raleigh	rec_facility_rate	6.3
+54083	West Virginia	Randolph	rec_facility_rate	10.2
+54085	West Virginia	Ritchie	rec_facility_rate	9.6
+54087	West Virginia	Roane	rec_facility_rate	6.7
+54089	West Virginia	Summers	rec_facility_rate	0
+54091	West Virginia	Taylor	rec_facility_rate	0
+54093	West Virginia	Tucker	rec_facility_rate	28.1
+54095	West Virginia	Tyler	rec_facility_rate	0
+54097	West Virginia	Upshur	rec_facility_rate	4.1
+54099	West Virginia	Wayne	rec_facility_rate	7.1
+54101	West Virginia	Webster	rec_facility_rate	10.9
+54103	West Virginia	Wetzel	rec_facility_rate	6
+54105	West Virginia	Wirt	rec_facility_rate	0
+54107	West Virginia	Wood	rec_facility_rate	14.9
+54109	West Virginia	Wyoming	rec_facility_rate	4.2
+55001	Wisconsin	Adams	rec_facility_rate	4.8
+55003	Wisconsin	Ashland	rec_facility_rate	12.4
+55005	Wisconsin	Barron	rec_facility_rate	8.7
+55007	Wisconsin	Bayfield	rec_facility_rate	13.3
+55009	Wisconsin	Brown	rec_facility_rate	12.5
+55011	Wisconsin	Buffalo	rec_facility_rate	22.1
+55013	Wisconsin	Burnett	rec_facility_rate	12.9
+55015	Wisconsin	Calumet	rec_facility_rate	12.2
+55017	Wisconsin	Chippewa	rec_facility_rate	14.4
+55019	Wisconsin	Clark	rec_facility_rate	0
+55021	Wisconsin	Columbia	rec_facility_rate	7
+55023	Wisconsin	Crawford	rec_facility_rate	6
+55025	Wisconsin	Dane	rec_facility_rate	17.2
+55027	Wisconsin	Dodge	rec_facility_rate	7.9
+55029	Wisconsin	Door	rec_facility_rate	14.4
+55031	Wisconsin	Douglas	rec_facility_rate	11.3
+55033	Wisconsin	Dunn	rec_facility_rate	13.7
+55035	Wisconsin	Eau Claire	rec_facility_rate	14.2
+55037	Wisconsin	Florence	rec_facility_rate	0
+55039	Wisconsin	Fond du Lac	rec_facility_rate	10.8
+55041	Wisconsin	Forest	rec_facility_rate	10.8
+55043	Wisconsin	Grant	rec_facility_rate	3.9
+55045	Wisconsin	Green	rec_facility_rate	16.3
+55047	Wisconsin	Green Lake	rec_facility_rate	26.2
+55049	Wisconsin	Iowa	rec_facility_rate	0
+55051	Wisconsin	Iron	rec_facility_rate	0
+55053	Wisconsin	Jackson	rec_facility_rate	19.5
+55055	Wisconsin	Jefferson	rec_facility_rate	14.3
+55057	Wisconsin	Juneau	rec_facility_rate	18.7
+55059	Wisconsin	Kenosha	rec_facility_rate	11.4
+55061	Wisconsin	Kewaunee	rec_facility_rate	4.9
+55063	Wisconsin	La Crosse	rec_facility_rate	10.4
+55065	Wisconsin	Lafayette	rec_facility_rate	5.9
+55067	Wisconsin	Langlade	rec_facility_rate	25.1
+55069	Wisconsin	Lincoln	rec_facility_rate	7
+55071	Wisconsin	Manitowoc	rec_facility_rate	7.4
+55073	Wisconsin	Marathon	rec_facility_rate	11.2
+55075	Wisconsin	Marinette	rec_facility_rate	7.2
+55077	Wisconsin	Marquette	rec_facility_rate	13
+55078	Wisconsin	Menominee	rec_facility_rate	0
+55079	Wisconsin	Milwaukee	rec_facility_rate	9.2
+55081	Wisconsin	Monroe	rec_facility_rate	4.5
+55083	Wisconsin	Oconto	rec_facility_rate	10.6
+55085	Wisconsin	Oneida	rec_facility_rate	22.3
+55087	Wisconsin	Outagamie	rec_facility_rate	17.5
+55089	Wisconsin	Ozaukee	rec_facility_rate	16.2
+55091	Wisconsin	Pepin	rec_facility_rate	0
+55093	Wisconsin	Pierce	rec_facility_rate	12.2
+55095	Wisconsin	Polk	rec_facility_rate	6.8
+55097	Wisconsin	Portage	rec_facility_rate	8.6
+55099	Wisconsin	Price	rec_facility_rate	0
+55101	Wisconsin	Racine	rec_facility_rate	7.2
+55103	Wisconsin	Richland	rec_facility_rate	5.6
+55105	Wisconsin	Rock	rec_facility_rate	8.7
+55107	Wisconsin	Rusk	rec_facility_rate	0
+55109	Wisconsin	St. Croix	rec_facility_rate	13
+55111	Wisconsin	Sauk	rec_facility_rate	9.7
+55113	Wisconsin	Sawyer	rec_facility_rate	6
+55115	Wisconsin	Shawano	rec_facility_rate	7.1
+55117	Wisconsin	Sheboygan	rec_facility_rate	10.4
+55119	Wisconsin	Taylor	rec_facility_rate	9.7
+55121	Wisconsin	Trempealeau	rec_facility_rate	3.5
+55123	Wisconsin	Vernon	rec_facility_rate	3.4
+55125	Wisconsin	Vilas	rec_facility_rate	18.6
+55127	Wisconsin	Walworth	rec_facility_rate	12.7
+55129	Wisconsin	Washburn	rec_facility_rate	6.3
+55131	Wisconsin	Washington	rec_facility_rate	15.2
+55133	Wisconsin	Waukesha	rec_facility_rate	13.6
+55135	Wisconsin	Waupaca	rec_facility_rate	7.6
+55137	Wisconsin	Waushara	rec_facility_rate	16.3
+55139	Wisconsin	Winnebago	rec_facility_rate	12
+55141	Wisconsin	Wood	rec_facility_rate	13.4
+56001	Wyoming	Albany	rec_facility_rate	11
+56003	Wyoming	Big Horn	rec_facility_rate	17.1
+56005	Wyoming	Campbell	rec_facility_rate	13
+56007	Wyoming	Carbon	rec_facility_rate	0
+56009	Wyoming	Converse	rec_facility_rate	14.5
+56011	Wyoming	Crook	rec_facility_rate	0
+56013	Wyoming	Fremont	rec_facility_rate	12.4
+56015	Wyoming	Goshen	rec_facility_rate	0
+56017	Wyoming	Hot Springs	rec_facility_rate	62.4
+56019	Wyoming	Johnson	rec_facility_rate	23.3
+56021	Wyoming	Laramie	rec_facility_rate	4.3
+56023	Wyoming	Lincoln	rec_facility_rate	5.5
+56025	Wyoming	Natrona	rec_facility_rate	13.2
+56027	Wyoming	Niobrara	rec_facility_rate	40.2
+56029	Wyoming	Park	rec_facility_rate	14.1
+56031	Wyoming	Platte	rec_facility_rate	0
+56033	Wyoming	Sheridan	rec_facility_rate	17.2
+56035	Wyoming	Sublette	rec_facility_rate	29.3
+56037	Wyoming	Sweetwater	rec_facility_rate	9.2
+56039	Wyoming	Teton	rec_facility_rate	37.5
+56041	Wyoming	Uinta	rec_facility_rate	9.5
+56043	Wyoming	Washakie	rec_facility_rate	23.4
+56045	Wyoming	Weston	rec_facility_rate	13.9

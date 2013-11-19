@@ -1,318 +1,318 @@
 FIPS	State	County	Variable	pcnt_physically_inactive
-01001	Alabama	Autauga	pcnt_physically_inactive	32
-01003	Alabama	Baldwin	pcnt_physically_inactive	25
-01005	Alabama	Barbour	pcnt_physically_inactive	34
-01007	Alabama	Bibb	pcnt_physically_inactive	37
-01009	Alabama	Blount	pcnt_physically_inactive	36
-01011	Alabama	Bullock	pcnt_physically_inactive	31
-01013	Alabama	Butler	pcnt_physically_inactive	37
-01015	Alabama	Calhoun	pcnt_physically_inactive	34
-01017	Alabama	Chambers	pcnt_physically_inactive	36
-01019	Alabama	Cherokee	pcnt_physically_inactive	36
-01021	Alabama	Chilton	pcnt_physically_inactive	31
-01023	Alabama	Choctaw	pcnt_physically_inactive	35
-01025	Alabama	Clarke	pcnt_physically_inactive	38
-01027	Alabama	Clay	pcnt_physically_inactive	38
-01029	Alabama	Cleburne	pcnt_physically_inactive	34
-01031	Alabama	Coffee	pcnt_physically_inactive	29
-01033	Alabama	Colbert	pcnt_physically_inactive	35
-01035	Alabama	Conecuh	pcnt_physically_inactive	36
-01037	Alabama	Coosa	pcnt_physically_inactive	35
-01039	Alabama	Covington	pcnt_physically_inactive	37
-01041	Alabama	Crenshaw	pcnt_physically_inactive	34
-01043	Alabama	Cullman	pcnt_physically_inactive	29
-01045	Alabama	Dale	pcnt_physically_inactive	31
-01047	Alabama	Dallas	pcnt_physically_inactive	34
-01049	Alabama	DeKalb	pcnt_physically_inactive	28
-01051	Alabama	Elmore	pcnt_physically_inactive	32
-01053	Alabama	Escambia	pcnt_physically_inactive	38
-01055	Alabama	Etowah	pcnt_physically_inactive	34
-01057	Alabama	Fayette	pcnt_physically_inactive	33
-01059	Alabama	Franklin	pcnt_physically_inactive	37
-01061	Alabama	Geneva	pcnt_physically_inactive	35
-01063	Alabama	Greene	pcnt_physically_inactive	38
-01065	Alabama	Hale	pcnt_physically_inactive	36
-01067	Alabama	Henry	pcnt_physically_inactive	31
-01069	Alabama	Houston	pcnt_physically_inactive	33
-01071	Alabama	Jackson	pcnt_physically_inactive	30
-01073	Alabama	Jefferson	pcnt_physically_inactive	29
-01075	Alabama	Lamar	pcnt_physically_inactive	36
-01077	Alabama	Lauderdale	pcnt_physically_inactive	33
-01079	Alabama	Lawrence	pcnt_physically_inactive	36
-01081	Alabama	Lee	pcnt_physically_inactive	27
-01083	Alabama	Limestone	pcnt_physically_inactive	31
-01085	Alabama	Lowndes	pcnt_physically_inactive	38
-01087	Alabama	Macon	pcnt_physically_inactive	31
-01089	Alabama	Madison	pcnt_physically_inactive	25
-01091	Alabama	Marengo	pcnt_physically_inactive	35
-01093	Alabama	Marion	pcnt_physically_inactive	36
-01095	Alabama	Marshall	pcnt_physically_inactive	32
-01097	Alabama	Mobile	pcnt_physically_inactive	31
-01099	Alabama	Monroe	pcnt_physically_inactive	32
-01101	Alabama	Montgomery	pcnt_physically_inactive	30
-01103	Alabama	Morgan	pcnt_physically_inactive	27
-01105	Alabama	Perry	pcnt_physically_inactive	35
-01107	Alabama	Pickens	pcnt_physically_inactive	33
-01109	Alabama	Pike	pcnt_physically_inactive	32
-01111	Alabama	Randolph	pcnt_physically_inactive	35
-01113	Alabama	Russell	pcnt_physically_inactive	37
-01115	Alabama	St. Clair	pcnt_physically_inactive	35
-01117	Alabama	Shelby	pcnt_physically_inactive	24
-01119	Alabama	Sumter	pcnt_physically_inactive	33
-01121	Alabama	Talladega	pcnt_physically_inactive	35
-01123	Alabama	Tallapoosa	pcnt_physically_inactive	31
-01125	Alabama	Tuscaloosa	pcnt_physically_inactive	29
-01127	Alabama	Walker	pcnt_physically_inactive	38
-01129	Alabama	Washington	pcnt_physically_inactive	33
-01131	Alabama	Wilcox	pcnt_physically_inactive	35
-01133	Alabama	Winston	pcnt_physically_inactive	34
-02013	Alaska	Aleutians East	pcnt_physically_inactive	29
-02016	Alaska	Aleutians West	pcnt_physically_inactive	23
-02020	Alaska	Anchorage	pcnt_physically_inactive	22
-02050	Alaska	Bethel	pcnt_physically_inactive	28
-02060	Alaska	Bristol Bay	pcnt_physically_inactive	24
-02068	Alaska	Denali	pcnt_physically_inactive	21
-02070	Alaska	Dillingham	pcnt_physically_inactive	28
-02090	Alaska	Fairbanks North Star	pcnt_physically_inactive	23
-02100	Alaska	Haines	pcnt_physically_inactive	21
-02110	Alaska	Juneau	pcnt_physically_inactive	18
-02122	Alaska	Kenai Peninsula	pcnt_physically_inactive	24
-02130	Alaska	Ketchikan Gateway	pcnt_physically_inactive	28
-02150	Alaska	Kodiak Island	pcnt_physically_inactive	21
-02164	Alaska	Lake and Peninsula	pcnt_physically_inactive	31
-02170	Alaska	Matanuska-Susitna	pcnt_physically_inactive	24
-02180	Alaska	Nome	pcnt_physically_inactive	24
-02185	Alaska	North Slope	pcnt_physically_inactive	33
-02188	Alaska	Northwest Arctic	pcnt_physically_inactive	32
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_physically_inactive	25
-02220	Alaska	Sitka	pcnt_physically_inactive	20
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_physically_inactive	25
-02240	Alaska	Southeast Fairbanks	pcnt_physically_inactive	25
-02261	Alaska	Valdez-Cordova	pcnt_physically_inactive	25
-02270	Alaska	Wade Hampton	pcnt_physically_inactive	28
-02280	Alaska	Wrangell-Petersburg	pcnt_physically_inactive	25
-02282	Alaska	Yakutat	pcnt_physically_inactive	24
-02290	Alaska	Yukon-Koyukuk	pcnt_physically_inactive	27
-04001	Arizona	Apache	pcnt_physically_inactive	28
-04003	Arizona	Cochise	pcnt_physically_inactive	24
-04005	Arizona	Coconino	pcnt_physically_inactive	17
-04007	Arizona	Gila	pcnt_physically_inactive	25
-04009	Arizona	Graham	pcnt_physically_inactive	27
-04011	Arizona	Greenlee	pcnt_physically_inactive	26
-04012	Arizona	La Paz	pcnt_physically_inactive	34
-04013	Arizona	Maricopa	pcnt_physically_inactive	19
-04015	Arizona	Mohave	pcnt_physically_inactive	30
-04017	Arizona	Navajo	pcnt_physically_inactive	25
-04019	Arizona	Pima	pcnt_physically_inactive	20
-04021	Arizona	Pinal	pcnt_physically_inactive	24
-04023	Arizona	Santa Cruz	pcnt_physically_inactive	18
-04025	Arizona	Yavapai	pcnt_physically_inactive	21
-04027	Arizona	Yuma	pcnt_physically_inactive	24
-05001	Arkansas	Arkansas	pcnt_physically_inactive	37
-05003	Arkansas	Ashley	pcnt_physically_inactive	39
-05005	Arkansas	Baxter	pcnt_physically_inactive	33
-05007	Arkansas	Benton	pcnt_physically_inactive	28
-05009	Arkansas	Boone	pcnt_physically_inactive	32
-05011	Arkansas	Bradley	pcnt_physically_inactive	33
-05013	Arkansas	Calhoun	pcnt_physically_inactive	37
-05015	Arkansas	Carroll	pcnt_physically_inactive	28
-05017	Arkansas	Chicot	pcnt_physically_inactive	36
-05019	Arkansas	Clark	pcnt_physically_inactive	31
-05021	Arkansas	Clay	pcnt_physically_inactive	35
-05023	Arkansas	Cleburne	pcnt_physically_inactive	32
-05025	Arkansas	Cleveland	pcnt_physically_inactive	28
-05027	Arkansas	Columbia	pcnt_physically_inactive	30
-05029	Arkansas	Conway	pcnt_physically_inactive	30
-05031	Arkansas	Craighead	pcnt_physically_inactive	32
-05033	Arkansas	Crawford	pcnt_physically_inactive	30
-05035	Arkansas	Crittenden	pcnt_physically_inactive	33
-05037	Arkansas	Cross	pcnt_physically_inactive	36
-05039	Arkansas	Dallas	pcnt_physically_inactive	34
-05041	Arkansas	Desha	pcnt_physically_inactive	33
-05043	Arkansas	Drew	pcnt_physically_inactive	33
-05045	Arkansas	Faulkner	pcnt_physically_inactive	28
-05047	Arkansas	Franklin	pcnt_physically_inactive	31
-05049	Arkansas	Fulton	pcnt_physically_inactive	30
-05051	Arkansas	Garland	pcnt_physically_inactive	28
-05053	Arkansas	Grant	pcnt_physically_inactive	34
-05055	Arkansas	Greene	pcnt_physically_inactive	28
-05057	Arkansas	Hempstead	pcnt_physically_inactive	32
-05059	Arkansas	Hot Spring	pcnt_physically_inactive	35
-05061	Arkansas	Howard	pcnt_physically_inactive	34
-05063	Arkansas	Independence	pcnt_physically_inactive	33
-05065	Arkansas	Izard	pcnt_physically_inactive	32
-05067	Arkansas	Jackson	pcnt_physically_inactive	37
-05069	Arkansas	Jefferson	pcnt_physically_inactive	35
-05071	Arkansas	Johnson	pcnt_physically_inactive	31
-05073	Arkansas	Lafayette	pcnt_physically_inactive	33
-05075	Arkansas	Lawrence	pcnt_physically_inactive	34
-05077	Arkansas	Lee	pcnt_physically_inactive	38
-05079	Arkansas	Lincoln	pcnt_physically_inactive	31
-05081	Arkansas	Little River	pcnt_physically_inactive	32
-05083	Arkansas	Logan	pcnt_physically_inactive	32
-05085	Arkansas	Lonoke	pcnt_physically_inactive	31
-05087	Arkansas	Madison	pcnt_physically_inactive	30
-05089	Arkansas	Marion	pcnt_physically_inactive	28
-05091	Arkansas	Miller	pcnt_physically_inactive	36
-05093	Arkansas	Mississippi	pcnt_physically_inactive	43
-05095	Arkansas	Monroe	pcnt_physically_inactive	37
-05097	Arkansas	Montgomery	pcnt_physically_inactive	29
-05099	Arkansas	Nevada	pcnt_physically_inactive	35
-05101	Arkansas	Newton	pcnt_physically_inactive	33
-05103	Arkansas	Ouachita	pcnt_physically_inactive	36
-05105	Arkansas	Perry	pcnt_physically_inactive	34
-05107	Arkansas	Phillips	pcnt_physically_inactive	39
-05109	Arkansas	Pike	pcnt_physically_inactive	29
-05111	Arkansas	Poinsett	pcnt_physically_inactive	38
-05113	Arkansas	Polk	pcnt_physically_inactive	32
-05115	Arkansas	Pope	pcnt_physically_inactive	26
-05117	Arkansas	Prairie	pcnt_physically_inactive	32
-05119	Arkansas	Pulaski	pcnt_physically_inactive	29
-05121	Arkansas	Randolph	pcnt_physically_inactive	33
-05123	Arkansas	St. Francis	pcnt_physically_inactive	41
-05125	Arkansas	Saline	pcnt_physically_inactive	26
-05127	Arkansas	Scott	pcnt_physically_inactive	33
-05129	Arkansas	Searcy	pcnt_physically_inactive	34
-05131	Arkansas	Sebastian	pcnt_physically_inactive	34
-05133	Arkansas	Sevier	pcnt_physically_inactive	33
-05135	Arkansas	Sharp	pcnt_physically_inactive	34
-05137	Arkansas	Stone	pcnt_physically_inactive	36
-05139	Arkansas	Union	pcnt_physically_inactive	28
-05141	Arkansas	Van Buren	pcnt_physically_inactive	35
-05143	Arkansas	Washington	pcnt_physically_inactive	24
-05145	Arkansas	White	pcnt_physically_inactive	28
-05147	Arkansas	Woodruff	pcnt_physically_inactive	35
-05149	Arkansas	Yell	pcnt_physically_inactive	29
-06001	California	Alameda	pcnt_physically_inactive	17
-06003	California	Alpine	pcnt_physically_inactive	20
-06005	California	Amador	pcnt_physically_inactive	18
-06007	California	Butte	pcnt_physically_inactive	17
-06009	California	Calaveras	pcnt_physically_inactive	21
-06011	California	Colusa	pcnt_physically_inactive	18
-06013	California	Contra Costa	pcnt_physically_inactive	18
-06015	California	Del Norte	pcnt_physically_inactive	18
-06017	California	El Dorado	pcnt_physically_inactive	15
-06019	California	Fresno	pcnt_physically_inactive	21
-06021	California	Glenn	pcnt_physically_inactive	19
-06023	California	Humboldt	pcnt_physically_inactive	19
-06025	California	Imperial	pcnt_physically_inactive	23
-06027	California	Inyo	pcnt_physically_inactive	18
-06029	California	Kern	pcnt_physically_inactive	24
-06031	California	Kings	pcnt_physically_inactive	22
-06033	California	Lake	pcnt_physically_inactive	18
-06035	California	Lassen	pcnt_physically_inactive	18
-06037	California	Los Angeles	pcnt_physically_inactive	19
-06039	California	Madera	pcnt_physically_inactive	20
-06041	California	Marin	pcnt_physically_inactive	13
-06043	California	Mariposa	pcnt_physically_inactive	21
-06045	California	Mendocino	pcnt_physically_inactive	18
-06047	California	Merced	pcnt_physically_inactive	20
-06049	California	Modoc	pcnt_physically_inactive	20
-06051	California	Mono	pcnt_physically_inactive	14
-06053	California	Monterey	pcnt_physically_inactive	16
-06055	California	Napa	pcnt_physically_inactive	16
-06057	California	Nevada	pcnt_physically_inactive	14
-06059	California	Orange	pcnt_physically_inactive	16
-06061	California	Placer	pcnt_physically_inactive	14
-06063	California	Plumas	pcnt_physically_inactive	20
-06065	California	Riverside	pcnt_physically_inactive	22
-06067	California	Sacramento	pcnt_physically_inactive	19
-06069	California	San Benito	pcnt_physically_inactive	16
-06071	California	San Bernardino	pcnt_physically_inactive	21
-06073	California	San Diego	pcnt_physically_inactive	17
-06075	California	San Francisco	pcnt_physically_inactive	17
-06077	California	San Joaquin	pcnt_physically_inactive	21
-06079	California	San Luis Obispo	pcnt_physically_inactive	15
-06081	California	San Mateo	pcnt_physically_inactive	16
-06083	California	Santa Barbara	pcnt_physically_inactive	16
-06085	California	Santa Clara	pcnt_physically_inactive	17
-06087	California	Santa Cruz	pcnt_physically_inactive	12
-06089	California	Shasta	pcnt_physically_inactive	20
-06091	California	Sierra	pcnt_physically_inactive	19
-06093	California	Siskiyou	pcnt_physically_inactive	20
-06095	California	Solano	pcnt_physically_inactive	21
-06097	California	Sonoma	pcnt_physically_inactive	15
-06099	California	Stanislaus	pcnt_physically_inactive	24
-06101	California	Sutter	pcnt_physically_inactive	22
-06103	California	Tehama	pcnt_physically_inactive	18
-06105	California	Trinity	pcnt_physically_inactive	23
-06107	California	Tulare	pcnt_physically_inactive	24
-06109	California	Tuolumne	pcnt_physically_inactive	19
-06111	California	Ventura	pcnt_physically_inactive	17
-06113	California	Yolo	pcnt_physically_inactive	16
-06115	California	Yuba	pcnt_physically_inactive	25
-08001	Colorado	Adams	pcnt_physically_inactive	21
-08003	Colorado	Alamosa	pcnt_physically_inactive	20
-08005	Colorado	Arapahoe	pcnt_physically_inactive	17
-08007	Colorado	Archuleta	pcnt_physically_inactive	17
-08009	Colorado	Baca	pcnt_physically_inactive	24
-08011	Colorado	Bent	pcnt_physically_inactive	22
-08013	Colorado	Boulder	pcnt_physically_inactive	11
-08014	Colorado	Broomfield	pcnt_physically_inactive	16
-08015	Colorado	Chaffee	pcnt_physically_inactive	17
-08017	Colorado	Cheyenne	pcnt_physically_inactive	21
-08019	Colorado	Clear Creek	pcnt_physically_inactive	18
-08021	Colorado	Conejos	pcnt_physically_inactive	20
-08023	Colorado	Costilla	pcnt_physically_inactive	20
-08025	Colorado	Crowley	pcnt_physically_inactive	22
-08027	Colorado	Custer	pcnt_physically_inactive	22
-08029	Colorado	Delta	pcnt_physically_inactive	24
-08031	Colorado	Denver	pcnt_physically_inactive	16
-08033	Colorado	Dolores	pcnt_physically_inactive	22
-08035	Colorado	Douglas	pcnt_physically_inactive	11
-08037	Colorado	Eagle	pcnt_physically_inactive	11
-08039	Colorado	Elbert	pcnt_physically_inactive	19
-08041	Colorado	El Paso	pcnt_physically_inactive	18
-08043	Colorado	Fremont	pcnt_physically_inactive	20
-08045	Colorado	Garfield	pcnt_physically_inactive	15
-08047	Colorado	Gilpin	pcnt_physically_inactive	19
-08049	Colorado	Grand	pcnt_physically_inactive	17
-08051	Colorado	Gunnison	pcnt_physically_inactive	15
-08053	Colorado	Hinsdale	pcnt_physically_inactive	20
-08055	Colorado	Huerfano	pcnt_physically_inactive	24
-08057	Colorado	Jackson	pcnt_physically_inactive	19
-08059	Colorado	Jefferson	pcnt_physically_inactive	16
-08061	Colorado	Kiowa	pcnt_physically_inactive	22
-08063	Colorado	Kit Carson	pcnt_physically_inactive	27
-08065	Colorado	Lake	pcnt_physically_inactive	18
-08067	Colorado	La Plata	pcnt_physically_inactive	15
-08069	Colorado	Larimer	pcnt_physically_inactive	14
-08071	Colorado	Las Animas	pcnt_physically_inactive	25
-08073	Colorado	Lincoln	pcnt_physically_inactive	24
-08075	Colorado	Logan	pcnt_physically_inactive	23
-08077	Colorado	Mesa	pcnt_physically_inactive	18
-08079	Colorado	Mineral	pcnt_physically_inactive	19
-08081	Colorado	Moffat	pcnt_physically_inactive	26
-08083	Colorado	Montezuma	pcnt_physically_inactive	21
-08085	Colorado	Montrose	pcnt_physically_inactive	20
-08087	Colorado	Morgan	pcnt_physically_inactive	24
-08089	Colorado	Otero	pcnt_physically_inactive	24
-08091	Colorado	Ouray	pcnt_physically_inactive	16
-08093	Colorado	Park	pcnt_physically_inactive	20
-08095	Colorado	Phillips	pcnt_physically_inactive	20
-08097	Colorado	Pitkin	pcnt_physically_inactive	13
-08099	Colorado	Prowers	pcnt_physically_inactive	28
-08101	Colorado	Pueblo	pcnt_physically_inactive	20
-08103	Colorado	Rio Blanco	pcnt_physically_inactive	19
-08105	Colorado	Rio Grande	pcnt_physically_inactive	24
-08107	Colorado	Routt	pcnt_physically_inactive	11
-08109	Colorado	Saguache	pcnt_physically_inactive	19
-08111	Colorado	San Juan	pcnt_physically_inactive	19
-08113	Colorado	San Miguel	pcnt_physically_inactive	13
-08115	Colorado	Sedgwick	pcnt_physically_inactive	21
-08117	Colorado	Summit	pcnt_physically_inactive	12
-08119	Colorado	Teller	pcnt_physically_inactive	19
-08121	Colorado	Washington	pcnt_physically_inactive	27
-08123	Colorado	Weld	pcnt_physically_inactive	18
-08125	Colorado	Yuma	pcnt_physically_inactive	22
-09001	Connecticut	Fairfield	pcnt_physically_inactive	20
-09003	Connecticut	Hartford	pcnt_physically_inactive	23
-09005	Connecticut	Litchfield	pcnt_physically_inactive	19
-09007	Connecticut	Middlesex	pcnt_physically_inactive	21
-09009	Connecticut	New Haven	pcnt_physically_inactive	27
-09011	Connecticut	New London	pcnt_physically_inactive	23
-09013	Connecticut	Tolland	pcnt_physically_inactive	19
-09015	Connecticut	Windham	pcnt_physically_inactive	26
+1001	Alabama	Autauga	pcnt_physically_inactive	32
+1003	Alabama	Baldwin	pcnt_physically_inactive	25
+1005	Alabama	Barbour	pcnt_physically_inactive	34
+1007	Alabama	Bibb	pcnt_physically_inactive	37
+1009	Alabama	Blount	pcnt_physically_inactive	36
+1011	Alabama	Bullock	pcnt_physically_inactive	31
+1013	Alabama	Butler	pcnt_physically_inactive	37
+1015	Alabama	Calhoun	pcnt_physically_inactive	34
+1017	Alabama	Chambers	pcnt_physically_inactive	36
+1019	Alabama	Cherokee	pcnt_physically_inactive	36
+1021	Alabama	Chilton	pcnt_physically_inactive	31
+1023	Alabama	Choctaw	pcnt_physically_inactive	35
+1025	Alabama	Clarke	pcnt_physically_inactive	38
+1027	Alabama	Clay	pcnt_physically_inactive	38
+1029	Alabama	Cleburne	pcnt_physically_inactive	34
+1031	Alabama	Coffee	pcnt_physically_inactive	29
+1033	Alabama	Colbert	pcnt_physically_inactive	35
+1035	Alabama	Conecuh	pcnt_physically_inactive	36
+1037	Alabama	Coosa	pcnt_physically_inactive	35
+1039	Alabama	Covington	pcnt_physically_inactive	37
+1041	Alabama	Crenshaw	pcnt_physically_inactive	34
+1043	Alabama	Cullman	pcnt_physically_inactive	29
+1045	Alabama	Dale	pcnt_physically_inactive	31
+1047	Alabama	Dallas	pcnt_physically_inactive	34
+1049	Alabama	DeKalb	pcnt_physically_inactive	28
+1051	Alabama	Elmore	pcnt_physically_inactive	32
+1053	Alabama	Escambia	pcnt_physically_inactive	38
+1055	Alabama	Etowah	pcnt_physically_inactive	34
+1057	Alabama	Fayette	pcnt_physically_inactive	33
+1059	Alabama	Franklin	pcnt_physically_inactive	37
+1061	Alabama	Geneva	pcnt_physically_inactive	35
+1063	Alabama	Greene	pcnt_physically_inactive	38
+1065	Alabama	Hale	pcnt_physically_inactive	36
+1067	Alabama	Henry	pcnt_physically_inactive	31
+1069	Alabama	Houston	pcnt_physically_inactive	33
+1071	Alabama	Jackson	pcnt_physically_inactive	30
+1073	Alabama	Jefferson	pcnt_physically_inactive	29
+1075	Alabama	Lamar	pcnt_physically_inactive	36
+1077	Alabama	Lauderdale	pcnt_physically_inactive	33
+1079	Alabama	Lawrence	pcnt_physically_inactive	36
+1081	Alabama	Lee	pcnt_physically_inactive	27
+1083	Alabama	Limestone	pcnt_physically_inactive	31
+1085	Alabama	Lowndes	pcnt_physically_inactive	38
+1087	Alabama	Macon	pcnt_physically_inactive	31
+1089	Alabama	Madison	pcnt_physically_inactive	25
+1091	Alabama	Marengo	pcnt_physically_inactive	35
+1093	Alabama	Marion	pcnt_physically_inactive	36
+1095	Alabama	Marshall	pcnt_physically_inactive	32
+1097	Alabama	Mobile	pcnt_physically_inactive	31
+1099	Alabama	Monroe	pcnt_physically_inactive	32
+1101	Alabama	Montgomery	pcnt_physically_inactive	30
+1103	Alabama	Morgan	pcnt_physically_inactive	27
+1105	Alabama	Perry	pcnt_physically_inactive	35
+1107	Alabama	Pickens	pcnt_physically_inactive	33
+1109	Alabama	Pike	pcnt_physically_inactive	32
+1111	Alabama	Randolph	pcnt_physically_inactive	35
+1113	Alabama	Russell	pcnt_physically_inactive	37
+1115	Alabama	St. Clair	pcnt_physically_inactive	35
+1117	Alabama	Shelby	pcnt_physically_inactive	24
+1119	Alabama	Sumter	pcnt_physically_inactive	33
+1121	Alabama	Talladega	pcnt_physically_inactive	35
+1123	Alabama	Tallapoosa	pcnt_physically_inactive	31
+1125	Alabama	Tuscaloosa	pcnt_physically_inactive	29
+1127	Alabama	Walker	pcnt_physically_inactive	38
+1129	Alabama	Washington	pcnt_physically_inactive	33
+1131	Alabama	Wilcox	pcnt_physically_inactive	35
+1133	Alabama	Winston	pcnt_physically_inactive	34
+2013	Alaska	Aleutians East	pcnt_physically_inactive	29
+2016	Alaska	Aleutians West	pcnt_physically_inactive	23
+2020	Alaska	Anchorage	pcnt_physically_inactive	22
+2050	Alaska	Bethel	pcnt_physically_inactive	28
+2060	Alaska	Bristol Bay	pcnt_physically_inactive	24
+2068	Alaska	Denali	pcnt_physically_inactive	21
+2070	Alaska	Dillingham	pcnt_physically_inactive	28
+2090	Alaska	Fairbanks North Star	pcnt_physically_inactive	23
+2100	Alaska	Haines	pcnt_physically_inactive	21
+2110	Alaska	Juneau	pcnt_physically_inactive	18
+2122	Alaska	Kenai Peninsula	pcnt_physically_inactive	24
+2130	Alaska	Ketchikan Gateway	pcnt_physically_inactive	28
+2150	Alaska	Kodiak Island	pcnt_physically_inactive	21
+2164	Alaska	Lake and Peninsula	pcnt_physically_inactive	31
+2170	Alaska	Matanuska-Susitna	pcnt_physically_inactive	24
+2180	Alaska	Nome	pcnt_physically_inactive	24
+2185	Alaska	North Slope	pcnt_physically_inactive	33
+2188	Alaska	Northwest Arctic	pcnt_physically_inactive	32
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_physically_inactive	25
+2220	Alaska	Sitka	pcnt_physically_inactive	20
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_physically_inactive	25
+2240	Alaska	Southeast Fairbanks	pcnt_physically_inactive	25
+2261	Alaska	Valdez-Cordova	pcnt_physically_inactive	25
+2270	Alaska	Wade Hampton	pcnt_physically_inactive	28
+2280	Alaska	Wrangell-Petersburg	pcnt_physically_inactive	25
+2282	Alaska	Yakutat	pcnt_physically_inactive	24
+2290	Alaska	Yukon-Koyukuk	pcnt_physically_inactive	27
+4001	Arizona	Apache	pcnt_physically_inactive	28
+4003	Arizona	Cochise	pcnt_physically_inactive	24
+4005	Arizona	Coconino	pcnt_physically_inactive	17
+4007	Arizona	Gila	pcnt_physically_inactive	25
+4009	Arizona	Graham	pcnt_physically_inactive	27
+4011	Arizona	Greenlee	pcnt_physically_inactive	26
+4012	Arizona	La Paz	pcnt_physically_inactive	34
+4013	Arizona	Maricopa	pcnt_physically_inactive	19
+4015	Arizona	Mohave	pcnt_physically_inactive	30
+4017	Arizona	Navajo	pcnt_physically_inactive	25
+4019	Arizona	Pima	pcnt_physically_inactive	20
+4021	Arizona	Pinal	pcnt_physically_inactive	24
+4023	Arizona	Santa Cruz	pcnt_physically_inactive	18
+4025	Arizona	Yavapai	pcnt_physically_inactive	21
+4027	Arizona	Yuma	pcnt_physically_inactive	24
+5001	Arkansas	Arkansas	pcnt_physically_inactive	37
+5003	Arkansas	Ashley	pcnt_physically_inactive	39
+5005	Arkansas	Baxter	pcnt_physically_inactive	33
+5007	Arkansas	Benton	pcnt_physically_inactive	28
+5009	Arkansas	Boone	pcnt_physically_inactive	32
+5011	Arkansas	Bradley	pcnt_physically_inactive	33
+5013	Arkansas	Calhoun	pcnt_physically_inactive	37
+5015	Arkansas	Carroll	pcnt_physically_inactive	28
+5017	Arkansas	Chicot	pcnt_physically_inactive	36
+5019	Arkansas	Clark	pcnt_physically_inactive	31
+5021	Arkansas	Clay	pcnt_physically_inactive	35
+5023	Arkansas	Cleburne	pcnt_physically_inactive	32
+5025	Arkansas	Cleveland	pcnt_physically_inactive	28
+5027	Arkansas	Columbia	pcnt_physically_inactive	30
+5029	Arkansas	Conway	pcnt_physically_inactive	30
+5031	Arkansas	Craighead	pcnt_physically_inactive	32
+5033	Arkansas	Crawford	pcnt_physically_inactive	30
+5035	Arkansas	Crittenden	pcnt_physically_inactive	33
+5037	Arkansas	Cross	pcnt_physically_inactive	36
+5039	Arkansas	Dallas	pcnt_physically_inactive	34
+5041	Arkansas	Desha	pcnt_physically_inactive	33
+5043	Arkansas	Drew	pcnt_physically_inactive	33
+5045	Arkansas	Faulkner	pcnt_physically_inactive	28
+5047	Arkansas	Franklin	pcnt_physically_inactive	31
+5049	Arkansas	Fulton	pcnt_physically_inactive	30
+5051	Arkansas	Garland	pcnt_physically_inactive	28
+5053	Arkansas	Grant	pcnt_physically_inactive	34
+5055	Arkansas	Greene	pcnt_physically_inactive	28
+5057	Arkansas	Hempstead	pcnt_physically_inactive	32
+5059	Arkansas	Hot Spring	pcnt_physically_inactive	35
+5061	Arkansas	Howard	pcnt_physically_inactive	34
+5063	Arkansas	Independence	pcnt_physically_inactive	33
+5065	Arkansas	Izard	pcnt_physically_inactive	32
+5067	Arkansas	Jackson	pcnt_physically_inactive	37
+5069	Arkansas	Jefferson	pcnt_physically_inactive	35
+5071	Arkansas	Johnson	pcnt_physically_inactive	31
+5073	Arkansas	Lafayette	pcnt_physically_inactive	33
+5075	Arkansas	Lawrence	pcnt_physically_inactive	34
+5077	Arkansas	Lee	pcnt_physically_inactive	38
+5079	Arkansas	Lincoln	pcnt_physically_inactive	31
+5081	Arkansas	Little River	pcnt_physically_inactive	32
+5083	Arkansas	Logan	pcnt_physically_inactive	32
+5085	Arkansas	Lonoke	pcnt_physically_inactive	31
+5087	Arkansas	Madison	pcnt_physically_inactive	30
+5089	Arkansas	Marion	pcnt_physically_inactive	28
+5091	Arkansas	Miller	pcnt_physically_inactive	36
+5093	Arkansas	Mississippi	pcnt_physically_inactive	43
+5095	Arkansas	Monroe	pcnt_physically_inactive	37
+5097	Arkansas	Montgomery	pcnt_physically_inactive	29
+5099	Arkansas	Nevada	pcnt_physically_inactive	35
+5101	Arkansas	Newton	pcnt_physically_inactive	33
+5103	Arkansas	Ouachita	pcnt_physically_inactive	36
+5105	Arkansas	Perry	pcnt_physically_inactive	34
+5107	Arkansas	Phillips	pcnt_physically_inactive	39
+5109	Arkansas	Pike	pcnt_physically_inactive	29
+5111	Arkansas	Poinsett	pcnt_physically_inactive	38
+5113	Arkansas	Polk	pcnt_physically_inactive	32
+5115	Arkansas	Pope	pcnt_physically_inactive	26
+5117	Arkansas	Prairie	pcnt_physically_inactive	32
+5119	Arkansas	Pulaski	pcnt_physically_inactive	29
+5121	Arkansas	Randolph	pcnt_physically_inactive	33
+5123	Arkansas	St. Francis	pcnt_physically_inactive	41
+5125	Arkansas	Saline	pcnt_physically_inactive	26
+5127	Arkansas	Scott	pcnt_physically_inactive	33
+5129	Arkansas	Searcy	pcnt_physically_inactive	34
+5131	Arkansas	Sebastian	pcnt_physically_inactive	34
+5133	Arkansas	Sevier	pcnt_physically_inactive	33
+5135	Arkansas	Sharp	pcnt_physically_inactive	34
+5137	Arkansas	Stone	pcnt_physically_inactive	36
+5139	Arkansas	Union	pcnt_physically_inactive	28
+5141	Arkansas	Van Buren	pcnt_physically_inactive	35
+5143	Arkansas	Washington	pcnt_physically_inactive	24
+5145	Arkansas	White	pcnt_physically_inactive	28
+5147	Arkansas	Woodruff	pcnt_physically_inactive	35
+5149	Arkansas	Yell	pcnt_physically_inactive	29
+6001	California	Alameda	pcnt_physically_inactive	17
+6003	California	Alpine	pcnt_physically_inactive	20
+6005	California	Amador	pcnt_physically_inactive	18
+6007	California	Butte	pcnt_physically_inactive	17
+6009	California	Calaveras	pcnt_physically_inactive	21
+6011	California	Colusa	pcnt_physically_inactive	18
+6013	California	Contra Costa	pcnt_physically_inactive	18
+6015	California	Del Norte	pcnt_physically_inactive	18
+6017	California	El Dorado	pcnt_physically_inactive	15
+6019	California	Fresno	pcnt_physically_inactive	21
+6021	California	Glenn	pcnt_physically_inactive	19
+6023	California	Humboldt	pcnt_physically_inactive	19
+6025	California	Imperial	pcnt_physically_inactive	23
+6027	California	Inyo	pcnt_physically_inactive	18
+6029	California	Kern	pcnt_physically_inactive	24
+6031	California	Kings	pcnt_physically_inactive	22
+6033	California	Lake	pcnt_physically_inactive	18
+6035	California	Lassen	pcnt_physically_inactive	18
+6037	California	Los Angeles	pcnt_physically_inactive	19
+6039	California	Madera	pcnt_physically_inactive	20
+6041	California	Marin	pcnt_physically_inactive	13
+6043	California	Mariposa	pcnt_physically_inactive	21
+6045	California	Mendocino	pcnt_physically_inactive	18
+6047	California	Merced	pcnt_physically_inactive	20
+6049	California	Modoc	pcnt_physically_inactive	20
+6051	California	Mono	pcnt_physically_inactive	14
+6053	California	Monterey	pcnt_physically_inactive	16
+6055	California	Napa	pcnt_physically_inactive	16
+6057	California	Nevada	pcnt_physically_inactive	14
+6059	California	Orange	pcnt_physically_inactive	16
+6061	California	Placer	pcnt_physically_inactive	14
+6063	California	Plumas	pcnt_physically_inactive	20
+6065	California	Riverside	pcnt_physically_inactive	22
+6067	California	Sacramento	pcnt_physically_inactive	19
+6069	California	San Benito	pcnt_physically_inactive	16
+6071	California	San Bernardino	pcnt_physically_inactive	21
+6073	California	San Diego	pcnt_physically_inactive	17
+6075	California	San Francisco	pcnt_physically_inactive	17
+6077	California	San Joaquin	pcnt_physically_inactive	21
+6079	California	San Luis Obispo	pcnt_physically_inactive	15
+6081	California	San Mateo	pcnt_physically_inactive	16
+6083	California	Santa Barbara	pcnt_physically_inactive	16
+6085	California	Santa Clara	pcnt_physically_inactive	17
+6087	California	Santa Cruz	pcnt_physically_inactive	12
+6089	California	Shasta	pcnt_physically_inactive	20
+6091	California	Sierra	pcnt_physically_inactive	19
+6093	California	Siskiyou	pcnt_physically_inactive	20
+6095	California	Solano	pcnt_physically_inactive	21
+6097	California	Sonoma	pcnt_physically_inactive	15
+6099	California	Stanislaus	pcnt_physically_inactive	24
+6101	California	Sutter	pcnt_physically_inactive	22
+6103	California	Tehama	pcnt_physically_inactive	18
+6105	California	Trinity	pcnt_physically_inactive	23
+6107	California	Tulare	pcnt_physically_inactive	24
+6109	California	Tuolumne	pcnt_physically_inactive	19
+6111	California	Ventura	pcnt_physically_inactive	17
+6113	California	Yolo	pcnt_physically_inactive	16
+6115	California	Yuba	pcnt_physically_inactive	25
+8001	Colorado	Adams	pcnt_physically_inactive	21
+8003	Colorado	Alamosa	pcnt_physically_inactive	20
+8005	Colorado	Arapahoe	pcnt_physically_inactive	17
+8007	Colorado	Archuleta	pcnt_physically_inactive	17
+8009	Colorado	Baca	pcnt_physically_inactive	24
+8011	Colorado	Bent	pcnt_physically_inactive	22
+8013	Colorado	Boulder	pcnt_physically_inactive	11
+8014	Colorado	Broomfield	pcnt_physically_inactive	16
+8015	Colorado	Chaffee	pcnt_physically_inactive	17
+8017	Colorado	Cheyenne	pcnt_physically_inactive	21
+8019	Colorado	Clear Creek	pcnt_physically_inactive	18
+8021	Colorado	Conejos	pcnt_physically_inactive	20
+8023	Colorado	Costilla	pcnt_physically_inactive	20
+8025	Colorado	Crowley	pcnt_physically_inactive	22
+8027	Colorado	Custer	pcnt_physically_inactive	22
+8029	Colorado	Delta	pcnt_physically_inactive	24
+8031	Colorado	Denver	pcnt_physically_inactive	16
+8033	Colorado	Dolores	pcnt_physically_inactive	22
+8035	Colorado	Douglas	pcnt_physically_inactive	11
+8037	Colorado	Eagle	pcnt_physically_inactive	11
+8039	Colorado	Elbert	pcnt_physically_inactive	19
+8041	Colorado	El Paso	pcnt_physically_inactive	18
+8043	Colorado	Fremont	pcnt_physically_inactive	20
+8045	Colorado	Garfield	pcnt_physically_inactive	15
+8047	Colorado	Gilpin	pcnt_physically_inactive	19
+8049	Colorado	Grand	pcnt_physically_inactive	17
+8051	Colorado	Gunnison	pcnt_physically_inactive	15
+8053	Colorado	Hinsdale	pcnt_physically_inactive	20
+8055	Colorado	Huerfano	pcnt_physically_inactive	24
+8057	Colorado	Jackson	pcnt_physically_inactive	19
+8059	Colorado	Jefferson	pcnt_physically_inactive	16
+8061	Colorado	Kiowa	pcnt_physically_inactive	22
+8063	Colorado	Kit Carson	pcnt_physically_inactive	27
+8065	Colorado	Lake	pcnt_physically_inactive	18
+8067	Colorado	La Plata	pcnt_physically_inactive	15
+8069	Colorado	Larimer	pcnt_physically_inactive	14
+8071	Colorado	Las Animas	pcnt_physically_inactive	25
+8073	Colorado	Lincoln	pcnt_physically_inactive	24
+8075	Colorado	Logan	pcnt_physically_inactive	23
+8077	Colorado	Mesa	pcnt_physically_inactive	18
+8079	Colorado	Mineral	pcnt_physically_inactive	19
+8081	Colorado	Moffat	pcnt_physically_inactive	26
+8083	Colorado	Montezuma	pcnt_physically_inactive	21
+8085	Colorado	Montrose	pcnt_physically_inactive	20
+8087	Colorado	Morgan	pcnt_physically_inactive	24
+8089	Colorado	Otero	pcnt_physically_inactive	24
+8091	Colorado	Ouray	pcnt_physically_inactive	16
+8093	Colorado	Park	pcnt_physically_inactive	20
+8095	Colorado	Phillips	pcnt_physically_inactive	20
+8097	Colorado	Pitkin	pcnt_physically_inactive	13
+8099	Colorado	Prowers	pcnt_physically_inactive	28
+8101	Colorado	Pueblo	pcnt_physically_inactive	20
+8103	Colorado	Rio Blanco	pcnt_physically_inactive	19
+8105	Colorado	Rio Grande	pcnt_physically_inactive	24
+8107	Colorado	Routt	pcnt_physically_inactive	11
+8109	Colorado	Saguache	pcnt_physically_inactive	19
+8111	Colorado	San Juan	pcnt_physically_inactive	19
+8113	Colorado	San Miguel	pcnt_physically_inactive	13
+8115	Colorado	Sedgwick	pcnt_physically_inactive	21
+8117	Colorado	Summit	pcnt_physically_inactive	12
+8119	Colorado	Teller	pcnt_physically_inactive	19
+8121	Colorado	Washington	pcnt_physically_inactive	27
+8123	Colorado	Weld	pcnt_physically_inactive	18
+8125	Colorado	Yuma	pcnt_physically_inactive	22
+9001	Connecticut	Fairfield	pcnt_physically_inactive	20
+9003	Connecticut	Hartford	pcnt_physically_inactive	23
+9005	Connecticut	Litchfield	pcnt_physically_inactive	19
+9007	Connecticut	Middlesex	pcnt_physically_inactive	21
+9009	Connecticut	New Haven	pcnt_physically_inactive	27
+9011	Connecticut	New London	pcnt_physically_inactive	23
+9013	Connecticut	Tolland	pcnt_physically_inactive	19
+9015	Connecticut	Windham	pcnt_physically_inactive	26
 10001	Delaware	Kent	pcnt_physically_inactive	28
 10003	Delaware	New Castle	pcnt_physically_inactive	22
 10005	Delaware	Sussex	pcnt_physically_inactive	26

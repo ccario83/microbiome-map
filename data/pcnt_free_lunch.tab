@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	pcnt_free_lunch
+1001	Alabama	Autauga	pcnt_free_lunch	36
+1003	Alabama	Baldwin	pcnt_free_lunch	37
+1005	Alabama	Barbour	pcnt_free_lunch	66
+1007	Alabama	Bibb	pcnt_free_lunch	54
+1009	Alabama	Blount	pcnt_free_lunch	44
+1011	Alabama	Bullock	pcnt_free_lunch	90
+1013	Alabama	Butler	pcnt_free_lunch	68
+1015	Alabama	Calhoun	pcnt_free_lunch	51
+1017	Alabama	Chambers	pcnt_free_lunch	65
+1019	Alabama	Cherokee	pcnt_free_lunch	51
+1021	Alabama	Chilton	pcnt_free_lunch	52
+1023	Alabama	Choctaw	pcnt_free_lunch	68
+1025	Alabama	Clarke	pcnt_free_lunch	60
+1027	Alabama	Clay	pcnt_free_lunch	52
+1029	Alabama	Cleburne	pcnt_free_lunch	49
+1031	Alabama	Coffee	pcnt_free_lunch	36
+1033	Alabama	Colbert	pcnt_free_lunch	44
+1035	Alabama	Conecuh	pcnt_free_lunch	81
+1037	Alabama	Coosa	pcnt_free_lunch	65
+1039	Alabama	Covington	pcnt_free_lunch	47
+1041	Alabama	Crenshaw	pcnt_free_lunch	50
+1043	Alabama	Cullman	pcnt_free_lunch	45
+1045	Alabama	Dale	pcnt_free_lunch	52
+1047	Alabama	Dallas	pcnt_free_lunch	77
+1049	Alabama	DeKalb	pcnt_free_lunch	59
+1051	Alabama	Elmore	pcnt_free_lunch	41
+1053	Alabama	Escambia	pcnt_free_lunch	62
+1055	Alabama	Etowah	pcnt_free_lunch	49
+1057	Alabama	Fayette	pcnt_free_lunch	48
+1059	Alabama	Franklin	pcnt_free_lunch	57
+1061	Alabama	Geneva	pcnt_free_lunch	54
+1063	Alabama	Greene	pcnt_free_lunch	87
+1065	Alabama	Hale	pcnt_free_lunch	68
+1067	Alabama	Henry	pcnt_free_lunch	53
+1069	Alabama	Houston	pcnt_free_lunch	54
+1071	Alabama	Jackson	pcnt_free_lunch	50
+1073	Alabama	Jefferson	pcnt_free_lunch	43
+1075	Alabama	Lamar	pcnt_free_lunch	50
+1077	Alabama	Lauderdale	pcnt_free_lunch	42
+1079	Alabama	Lawrence	pcnt_free_lunch	50
+1081	Alabama	Lee	pcnt_free_lunch	40
+1083	Alabama	Limestone	pcnt_free_lunch	39
+1085	Alabama	Lowndes	pcnt_free_lunch	91
+1087	Alabama	Macon	pcnt_free_lunch	98
+1089	Alabama	Madison	pcnt_free_lunch	32
+1091	Alabama	Marengo	pcnt_free_lunch	62
+1093	Alabama	Marion	pcnt_free_lunch	48
+1095	Alabama	Marshall	pcnt_free_lunch	49
+1097	Alabama	Mobile	pcnt_free_lunch	63
+1099	Alabama	Monroe	pcnt_free_lunch	61
+1101	Alabama	Montgomery	pcnt_free_lunch	65
+1103	Alabama	Morgan	pcnt_free_lunch	37
+1105	Alabama	Perry	pcnt_free_lunch	97
+1107	Alabama	Pickens	pcnt_free_lunch	68
+1109	Alabama	Pike	pcnt_free_lunch	62
+1111	Alabama	Randolph	pcnt_free_lunch	58
+1113	Alabama	Russell	pcnt_free_lunch	62
+1115	Alabama	St. Clair	pcnt_free_lunch	42
+1117	Alabama	Shelby	pcnt_free_lunch	23
+1119	Alabama	Sumter	pcnt_free_lunch	86
+1121	Alabama	Talladega	pcnt_free_lunch	63
+1123	Alabama	Tallapoosa	pcnt_free_lunch	54
+1125	Alabama	Tuscaloosa	pcnt_free_lunch	48
+1127	Alabama	Walker	pcnt_free_lunch	47
+1129	Alabama	Washington	pcnt_free_lunch	52
+1131	Alabama	Wilcox	pcnt_free_lunch	96
+1133	Alabama	Winston	pcnt_free_lunch	46
+2013	Alaska	Aleutians East	pcnt_free_lunch	38
+2016	Alaska	Aleutians West	pcnt_free_lunch	13
+2020	Alaska	Anchorage	pcnt_free_lunch	32
+2050	Alaska	Bethel	pcnt_free_lunch	67
+2060	Alaska	Bristol Bay	pcnt_free_lunch	33
+2068	Alaska	Denali	pcnt_free_lunch	0
+2070	Alaska	Dillingham	pcnt_free_lunch	64
+2090	Alaska	Fairbanks North Star	pcnt_free_lunch	16
+2100	Alaska	Haines	pcnt_free_lunch	40
+2110	Alaska	Juneau	pcnt_free_lunch	22
+2122	Alaska	Kenai Peninsula	pcnt_free_lunch	28
+2130	Alaska	Ketchikan Gateway	pcnt_free_lunch	32
+2150	Alaska	Kodiak Island	pcnt_free_lunch	35
+2164	Alaska	Lake and Peninsula	pcnt_free_lunch	63
+2170	Alaska	Matanuska-Susitna	pcnt_free_lunch	26
+2180	Alaska	Nome	pcnt_free_lunch	72
+2185	Alaska	North Slope	pcnt_free_lunch	34
+2188	Alaska	Northwest Arctic	pcnt_free_lunch	71
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_free_lunch	51
+2220	Alaska	Sitka	pcnt_free_lunch	29
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_free_lunch	32
+2240	Alaska	Southeast Fairbanks	pcnt_free_lunch	32
+2261	Alaska	Valdez-Cordova	pcnt_free_lunch	25
+2270	Alaska	Wade Hampton	pcnt_free_lunch	64
+2280	Alaska	Wrangell-Petersburg	pcnt_free_lunch	44
+2282	Alaska	Yakutat	pcnt_free_lunch	71
+2290	Alaska	Yukon-Koyukuk	pcnt_free_lunch	27
+4001	Arizona	Apache	pcnt_free_lunch	25
+4003	Arizona	Cochise	pcnt_free_lunch	43
+4005	Arizona	Coconino	pcnt_free_lunch	29
+4007	Arizona	Gila	pcnt_free_lunch	42
+4009	Arizona	Graham	pcnt_free_lunch	30
+4011	Arizona	Greenlee	pcnt_free_lunch	24
+4012	Arizona	La Paz	pcnt_free_lunch	59
+4013	Arizona	Maricopa	pcnt_free_lunch	33
+4015	Arizona	Mohave	pcnt_free_lunch	50
+4017	Arizona	Navajo	pcnt_free_lunch	39
+4019	Arizona	Pima	pcnt_free_lunch	40
+4021	Arizona	Pinal	pcnt_free_lunch	41
+4023	Arizona	Santa Cruz	pcnt_free_lunch	66
+4025	Arizona	Yavapai	pcnt_free_lunch	35
+4027	Arizona	Yuma	pcnt_free_lunch	34
+5001	Arkansas	Arkansas	pcnt_free_lunch	54
+5003	Arkansas	Ashley	pcnt_free_lunch	77
+5005	Arkansas	Baxter	pcnt_free_lunch	47
+5007	Arkansas	Benton	pcnt_free_lunch	37
+5009	Arkansas	Boone	pcnt_free_lunch	43
+5011	Arkansas	Bradley	pcnt_free_lunch	64
+5013	Arkansas	Calhoun	pcnt_free_lunch	50
+5015	Arkansas	Carroll	pcnt_free_lunch	53
+5017	Arkansas	Chicot	pcnt_free_lunch	98
+5019	Arkansas	Clark	pcnt_free_lunch	49
+5021	Arkansas	Clay	pcnt_free_lunch	49
+5023	Arkansas	Cleburne	pcnt_free_lunch	42
+5025	Arkansas	Cleveland	pcnt_free_lunch	38
+5027	Arkansas	Columbia	pcnt_free_lunch	56
+5029	Arkansas	Conway	pcnt_free_lunch	52
+5031	Arkansas	Craighead	pcnt_free_lunch	46
+5033	Arkansas	Crawford	pcnt_free_lunch	50
+5035	Arkansas	Crittenden	pcnt_free_lunch	79
+5037	Arkansas	Cross	pcnt_free_lunch	58
+5039	Arkansas	Dallas	pcnt_free_lunch	55
+5041	Arkansas	Desha	pcnt_free_lunch	70
+5043	Arkansas	Drew	pcnt_free_lunch	54
+5045	Arkansas	Faulkner	pcnt_free_lunch	35
+5047	Arkansas	Franklin	pcnt_free_lunch	44
+5049	Arkansas	Fulton	pcnt_free_lunch	51
+5051	Arkansas	Garland	pcnt_free_lunch	49
+5053	Arkansas	Grant	pcnt_free_lunch	35
+5055	Arkansas	Greene	pcnt_free_lunch	46
+5057	Arkansas	Hempstead	pcnt_free_lunch	69
+5059	Arkansas	Hot Spring	pcnt_free_lunch	48
+5061	Arkansas	Howard	pcnt_free_lunch	59
+5063	Arkansas	Independence	pcnt_free_lunch	47
+5065	Arkansas	Izard	pcnt_free_lunch	46
+5067	Arkansas	Jackson	pcnt_free_lunch	59
+5069	Arkansas	Jefferson	pcnt_free_lunch	61
+5071	Arkansas	Johnson	pcnt_free_lunch	60
+5073	Arkansas	Lafayette	pcnt_free_lunch	73
+5075	Arkansas	Lawrence	pcnt_free_lunch	54
+5077	Arkansas	Lee	pcnt_free_lunch	85
+5079	Arkansas	Lincoln	pcnt_free_lunch	51
+5081	Arkansas	Little River	pcnt_free_lunch	51
+5083	Arkansas	Logan	pcnt_free_lunch	50
+5085	Arkansas	Lonoke	pcnt_free_lunch	32
+5087	Arkansas	Madison	pcnt_free_lunch	51
+5089	Arkansas	Marion	pcnt_free_lunch	54
+5091	Arkansas	Miller	pcnt_free_lunch	55
+5093	Arkansas	Mississippi	pcnt_free_lunch	73
+5095	Arkansas	Monroe	pcnt_free_lunch	90
+5097	Arkansas	Montgomery	pcnt_free_lunch	61
+5099	Arkansas	Nevada	pcnt_free_lunch	63
+5101	Arkansas	Newton	pcnt_free_lunch	59
+5103	Arkansas	Ouachita	pcnt_free_lunch	60
+5105	Arkansas	Perry	pcnt_free_lunch	41
+5107	Arkansas	Phillips	pcnt_free_lunch	88
+5109	Arkansas	Pike	pcnt_free_lunch	53
+5111	Arkansas	Poinsett	pcnt_free_lunch	71
+5113	Arkansas	Polk	pcnt_free_lunch	64
+5115	Arkansas	Pope	pcnt_free_lunch	45
+5117	Arkansas	Prairie	pcnt_free_lunch	58
+5119	Arkansas	Pulaski	pcnt_free_lunch	55
+5121	Arkansas	Randolph	pcnt_free_lunch	58
+5123	Arkansas	St. Francis	pcnt_free_lunch	99
+5125	Arkansas	Saline	pcnt_free_lunch	30
+5127	Arkansas	Scott	pcnt_free_lunch	55
+5129	Arkansas	Searcy	pcnt_free_lunch	61
+5131	Arkansas	Sebastian	pcnt_free_lunch	52
+5133	Arkansas	Sevier	pcnt_free_lunch	63
+5135	Arkansas	Sharp	pcnt_free_lunch	53
+5137	Arkansas	Stone	pcnt_free_lunch	48
+5139	Arkansas	Union	pcnt_free_lunch	51
+5141	Arkansas	Van Buren	pcnt_free_lunch	54
+5143	Arkansas	Washington	pcnt_free_lunch	46
+5145	Arkansas	White	pcnt_free_lunch	42
+5147	Arkansas	Woodruff	pcnt_free_lunch	74
+5149	Arkansas	Yell	pcnt_free_lunch	63
+6001	California	Alameda	pcnt_free_lunch	35
+6003	California	Alpine	pcnt_free_lunch	45
+6005	California	Amador	pcnt_free_lunch	32
+6007	California	Butte	pcnt_free_lunch	47
+6009	California	Calaveras	pcnt_free_lunch	36
+6011	California	Colusa	pcnt_free_lunch	59
+6013	California	Contra Costa	pcnt_free_lunch	30
+6015	California	Del Norte	pcnt_free_lunch	54
+6017	California	El Dorado	pcnt_free_lunch	22
+6019	California	Fresno	pcnt_free_lunch	60
+6021	California	Glenn	pcnt_free_lunch	55
+6023	California	Humboldt	pcnt_free_lunch	40
+6025	California	Imperial	pcnt_free_lunch	63
+6027	California	Inyo	pcnt_free_lunch	40
+6029	California	Kern	pcnt_free_lunch	59
+6031	California	Kings	pcnt_free_lunch	57
+6033	California	Lake	pcnt_free_lunch	58
+6035	California	Lassen	pcnt_free_lunch	29
+6037	California	Los Angeles	pcnt_free_lunch	51
+6039	California	Madera	pcnt_free_lunch	63
+6041	California	Marin	pcnt_free_lunch	20
+6043	California	Mariposa	pcnt_free_lunch	40
+6045	California	Mendocino	pcnt_free_lunch	56
+6047	California	Merced	pcnt_free_lunch	65
+6049	California	Modoc	pcnt_free_lunch	51
+6051	California	Mono	pcnt_free_lunch	41
+6053	California	Monterey	pcnt_free_lunch	58
+6055	California	Napa	pcnt_free_lunch	35
+6057	California	Nevada	pcnt_free_lunch	25
+6059	California	Orange	pcnt_free_lunch	38
+6061	California	Placer	pcnt_free_lunch	20
+6063	California	Plumas	pcnt_free_lunch	29
+6065	California	Riverside	pcnt_free_lunch	46
+6067	California	Sacramento	pcnt_free_lunch	44
+6069	California	San Benito	pcnt_free_lunch	46
+6071	California	San Bernardino	pcnt_free_lunch	56
+6073	California	San Diego	pcnt_free_lunch	40
+6075	California	San Francisco	pcnt_free_lunch	49
+6077	California	San Joaquin	pcnt_free_lunch	51
+6079	California	San Luis Obispo	pcnt_free_lunch	34
+6081	California	San Mateo	pcnt_free_lunch	29
+6083	California	Santa Barbara	pcnt_free_lunch	45
+6085	California	Santa Clara	pcnt_free_lunch	31
+6087	California	Santa Cruz	pcnt_free_lunch	43
+6089	California	Shasta	pcnt_free_lunch	42
+6091	California	Sierra	pcnt_free_lunch	33
+6093	California	Siskiyou	pcnt_free_lunch	52
+6095	California	Solano	pcnt_free_lunch	37
+6097	California	Sonoma	pcnt_free_lunch	35
+6099	California	Stanislaus	pcnt_free_lunch	54
+6101	California	Sutter	pcnt_free_lunch	45
+6103	California	Tehama	pcnt_free_lunch	61
+6105	California	Trinity	pcnt_free_lunch	48
+6107	California	Tulare	pcnt_free_lunch	66
+6109	California	Tuolumne	pcnt_free_lunch	37
+6111	California	Ventura	pcnt_free_lunch	37
+6113	California	Yolo	pcnt_free_lunch	43
+6115	California	Yuba	pcnt_free_lunch	58
+8001	Colorado	Adams	pcnt_free_lunch	42
+8003	Colorado	Alamosa	pcnt_free_lunch	56
+8005	Colorado	Arapahoe	pcnt_free_lunch	32
+8007	Colorado	Archuleta	pcnt_free_lunch	40
+8009	Colorado	Baca	pcnt_free_lunch	40
+8011	Colorado	Bent	pcnt_free_lunch	59
+8013	Colorado	Boulder	pcnt_free_lunch	22
+8014	Colorado	Broomfield	pcnt_free_lunch	15
+8015	Colorado	Chaffee	pcnt_free_lunch	27
+8017	Colorado	Cheyenne	pcnt_free_lunch	25
+8019	Colorado	Clear Creek	pcnt_free_lunch	19
+8021	Colorado	Conejos	pcnt_free_lunch	55
+8023	Colorado	Costilla	pcnt_free_lunch	69
+8025	Colorado	Crowley	pcnt_free_lunch	60
+8027	Colorado	Custer	pcnt_free_lunch	30
+8029	Colorado	Delta	pcnt_free_lunch	37
+8031	Colorado	Denver	pcnt_free_lunch	64
+8033	Colorado	Dolores	pcnt_free_lunch	36
+8035	Colorado	Douglas	pcnt_free_lunch	8
+8037	Colorado	Eagle	pcnt_free_lunch	31
+8039	Colorado	Elbert	pcnt_free_lunch	16
+8041	Colorado	El Paso	pcnt_free_lunch	27
+8043	Colorado	Fremont	pcnt_free_lunch	39
+8045	Colorado	Garfield	pcnt_free_lunch	34
+8047	Colorado	Gilpin	pcnt_free_lunch	22
+8049	Colorado	Grand	pcnt_free_lunch	19
+8051	Colorado	Gunnison	pcnt_free_lunch	18
+8053	Colorado	Hinsdale	pcnt_free_lunch	14
+8055	Colorado	Huerfano	pcnt_free_lunch	58
+8057	Colorado	Jackson	pcnt_free_lunch	35
+8059	Colorado	Jefferson	pcnt_free_lunch	25
+8061	Colorado	Kiowa	pcnt_free_lunch	31
+8063	Colorado	Kit Carson	pcnt_free_lunch	36
+8065	Colorado	Lake	pcnt_free_lunch	53
+8067	Colorado	La Plata	pcnt_free_lunch	23
+8069	Colorado	Larimer	pcnt_free_lunch	24
+8071	Colorado	Las Animas	pcnt_free_lunch	38
+8073	Colorado	Lincoln	pcnt_free_lunch	29
+8075	Colorado	Logan	pcnt_free_lunch	35
+8077	Colorado	Mesa	pcnt_free_lunch	35
+8079	Colorado	Mineral	pcnt_free_lunch	35
+8081	Colorado	Moffat	pcnt_free_lunch	34
+8083	Colorado	Montezuma	pcnt_free_lunch	46
+8085	Colorado	Montrose	pcnt_free_lunch	47
+8087	Colorado	Morgan	pcnt_free_lunch	50
+8089	Colorado	Otero	pcnt_free_lunch	56
+8091	Colorado	Ouray	pcnt_free_lunch	22
+8093	Colorado	Park	pcnt_free_lunch	25
+8095	Colorado	Phillips	pcnt_free_lunch	36
+8097	Colorado	Pitkin	pcnt_free_lunch	13
+8099	Colorado	Prowers	pcnt_free_lunch	52
+8101	Colorado	Pueblo	pcnt_free_lunch	48
+8103	Colorado	Rio Blanco	pcnt_free_lunch	20
+8105	Colorado	Rio Grande	pcnt_free_lunch	45
+8107	Colorado	Routt	pcnt_free_lunch	14
+8109	Colorado	Saguache	pcnt_free_lunch	68
+8111	Colorado	San Juan	pcnt_free_lunch	52
+8113	Colorado	San Miguel	pcnt_free_lunch	18
+8115	Colorado	Sedgwick	pcnt_free_lunch	14
+8117	Colorado	Summit	pcnt_free_lunch	24
+8119	Colorado	Teller	pcnt_free_lunch	25
+8121	Colorado	Washington	pcnt_free_lunch	31
+8123	Colorado	Weld	pcnt_free_lunch	38
+8125	Colorado	Yuma	pcnt_free_lunch	40
+9001	Connecticut	Fairfield	pcnt_free_lunch	27
+9003	Connecticut	Hartford	pcnt_free_lunch	33
+9005	Connecticut	Litchfield	pcnt_free_lunch	15
+9007	Connecticut	Middlesex	pcnt_free_lunch	15
+9009	Connecticut	New Haven	pcnt_free_lunch	36
+9011	Connecticut	New London	pcnt_free_lunch	25
+9013	Connecticut	Tolland	pcnt_free_lunch	12
+9015	Connecticut	Windham	pcnt_free_lunch	31
+10001	Delaware	Kent	pcnt_free_lunch	38
+10003	Delaware	New Castle	pcnt_free_lunch	41
+10005	Delaware	Sussex	pcnt_free_lunch	49
+11001	District of Columbia	District of Columbia	pcnt_free_lunch	65
+12001	Florida	Alachua	pcnt_free_lunch	41
+12003	Florida	Baker	pcnt_free_lunch	40
+12005	Florida	Bay	pcnt_free_lunch	46
+12007	Florida	Bradford	pcnt_free_lunch	57
+12009	Florida	Brevard	pcnt_free_lunch	35
+12011	Florida	Broward	pcnt_free_lunch	46
+12013	Florida	Calhoun	pcnt_free_lunch	52
+12015	Florida	Charlotte	pcnt_free_lunch	49
+12017	Florida	Citrus	pcnt_free_lunch	46
+12019	Florida	Clay	pcnt_free_lunch	29
+12021	Florida	Collier	pcnt_free_lunch	52
+12023	Florida	Columbia	pcnt_free_lunch	53
+12027	Florida	DeSoto	pcnt_free_lunch	66
+12029	Florida	Dixie	pcnt_free_lunch	66
+12031	Florida	Duval	pcnt_free_lunch	48
+12033	Florida	Escambia	pcnt_free_lunch	51
+12035	Florida	Flagler	pcnt_free_lunch	50
+12037	Florida	Franklin	pcnt_free_lunch	66
+12039	Florida	Gadsden	pcnt_free_lunch	77
+12041	Florida	Gilchrist	pcnt_free_lunch	46
+12043	Florida	Glades	pcnt_free_lunch	51
+12045	Florida	Gulf	pcnt_free_lunch	43
+12047	Florida	Hamilton	pcnt_free_lunch	69
+12049	Florida	Hardee	pcnt_free_lunch	69
+12051	Florida	Hendry	pcnt_free_lunch	72
+12053	Florida	Hernando	pcnt_free_lunch	47
+12055	Florida	Highlands	pcnt_free_lunch	60
+12057	Florida	Hillsborough	pcnt_free_lunch	48
+12059	Florida	Holmes	pcnt_free_lunch	53
+12061	Florida	Indian River	pcnt_free_lunch	47
+12063	Florida	Jackson	pcnt_free_lunch	50
+12065	Florida	Jefferson	pcnt_free_lunch	67
+12067	Florida	Lafayette	pcnt_free_lunch	51
+12069	Florida	Lake	pcnt_free_lunch	46
+12071	Florida	Lee	pcnt_free_lunch	54
+12073	Florida	Leon	pcnt_free_lunch	37
+12075	Florida	Levy	pcnt_free_lunch	61
+12077	Florida	Liberty	pcnt_free_lunch	45
+12079	Florida	Madison	pcnt_free_lunch	70
+12081	Florida	Manatee	pcnt_free_lunch	48
+12083	Florida	Marion	pcnt_free_lunch	55
+12085	Florida	Martin	pcnt_free_lunch	35
+12086	Florida	Miami-Dade	pcnt_free_lunch	62
+12087	Florida	Monroe	pcnt_free_lunch	38
+12089	Florida	Nassau	pcnt_free_lunch	36
+12091	Florida	Okaloosa	pcnt_free_lunch	31
+12093	Florida	Okeechobee	pcnt_free_lunch	63
+12095	Florida	Orange	pcnt_free_lunch	50
+12097	Florida	Osceola	pcnt_free_lunch	54
+12099	Florida	Palm Beach	pcnt_free_lunch	46
+12101	Florida	Pasco	pcnt_free_lunch	44
+12103	Florida	Pinellas	pcnt_free_lunch	43
+12105	Florida	Polk	pcnt_free_lunch	58
+12107	Florida	Putnam	pcnt_free_lunch	73
+12109	Florida	St. Johns	pcnt_free_lunch	20
+12111	Florida	St. Lucie	pcnt_free_lunch	53
+12113	Florida	Santa Rosa	pcnt_free_lunch	34
+12115	Florida	Sarasota	pcnt_free_lunch	41
+12117	Florida	Seminole	pcnt_free_lunch	33
+12119	Florida	Sumter	pcnt_free_lunch	50
+12121	Florida	Suwannee	pcnt_free_lunch	59
+12123	Florida	Taylor	pcnt_free_lunch	62
+12125	Florida	Union	pcnt_free_lunch	51
+12127	Florida	Volusia	pcnt_free_lunch	48
+12129	Florida	Wakulla	pcnt_free_lunch	40
+12131	Florida	Walton	pcnt_free_lunch	44
+12133	Florida	Washington	pcnt_free_lunch	54
+13001	Georgia	Appling	pcnt_free_lunch	59
+13003	Georgia	Atkinson	pcnt_free_lunch	67
+13005	Georgia	Bacon	pcnt_free_lunch	53
+13007	Georgia	Baker	pcnt_free_lunch	80
+13009	Georgia	Baldwin	pcnt_free_lunch	66
+13011	Georgia	Banks	pcnt_free_lunch	57
+13013	Georgia	Barrow	pcnt_free_lunch	51
+13015	Georgia	Bartow	pcnt_free_lunch	51
+13017	Georgia	Ben Hill	pcnt_free_lunch	73
+13019	Georgia	Berrien	pcnt_free_lunch	61
+13021	Georgia	Bibb	pcnt_free_lunch	72
+13023	Georgia	Bleckley	pcnt_free_lunch	50
+13025	Georgia	Brantley	pcnt_free_lunch	55
+13027	Georgia	Brooks	pcnt_free_lunch	74
+13029	Georgia	Bryan	pcnt_free_lunch	31
+13031	Georgia	Bulloch	pcnt_free_lunch	52
+13033	Georgia	Burke	pcnt_free_lunch	71
+13035	Georgia	Butts	pcnt_free_lunch	55
+13037	Georgia	Calhoun	pcnt_free_lunch	74
+13039	Georgia	Camden	pcnt_free_lunch	37
+13043	Georgia	Candler	pcnt_free_lunch	65
+13045	Georgia	Carroll	pcnt_free_lunch	56
+13047	Georgia	Catoosa	pcnt_free_lunch	40
+13049	Georgia	Charlton	pcnt_free_lunch	62
+13051	Georgia	Chatham	pcnt_free_lunch	55
+13053	Georgia	Chattahoochee	pcnt_free_lunch	51
+13055	Georgia	Chattooga	pcnt_free_lunch	55
+13057	Georgia	Cherokee	pcnt_free_lunch	25
+13059	Georgia	Clarke	pcnt_free_lunch	74
+13061	Georgia	Clay	pcnt_free_lunch	82
+13063	Georgia	Clayton	pcnt_free_lunch	74
+13065	Georgia	Clinch	pcnt_free_lunch	62
+13067	Georgia	Cobb	pcnt_free_lunch	39
+13069	Georgia	Coffee	pcnt_free_lunch	67
+13071	Georgia	Colquitt	pcnt_free_lunch	66
+13073	Georgia	Columbia	pcnt_free_lunch	25
+13075	Georgia	Cook	pcnt_free_lunch	61
+13077	Georgia	Coweta	pcnt_free_lunch	36
+13079	Georgia	Crawford	pcnt_free_lunch	69
+13081	Georgia	Crisp	pcnt_free_lunch	72
+13083	Georgia	Dade	pcnt_free_lunch	44
+13085	Georgia	Dawson	pcnt_free_lunch	37
+13087	Georgia	Decatur	pcnt_free_lunch	66
+13089	Georgia	DeKalb	pcnt_free_lunch	62
+13091	Georgia	Dodge	pcnt_free_lunch	59
+13093	Georgia	Dooly	pcnt_free_lunch	75
+13095	Georgia	Dougherty	pcnt_free_lunch	75
+13097	Georgia	Douglas	pcnt_free_lunch	51
+13099	Georgia	Early	pcnt_free_lunch	69
+13101	Georgia	Echols	pcnt_free_lunch	64
+13103	Georgia	Effingham	pcnt_free_lunch	33
+13105	Georgia	Elbert	pcnt_free_lunch	61
+13107	Georgia	Emanuel	pcnt_free_lunch	70
+13109	Georgia	Evans	pcnt_free_lunch	72
+13111	Georgia	Fannin	pcnt_free_lunch	50
+13113	Georgia	Fayette	pcnt_free_lunch	19
+13115	Georgia	Floyd	pcnt_free_lunch	55
+13117	Georgia	Forsyth	pcnt_free_lunch	16
+13119	Georgia	Franklin	pcnt_free_lunch	51
+13121	Georgia	Fulton	pcnt_free_lunch	51
+13123	Georgia	Gilmer	pcnt_free_lunch	58
+13125	Georgia	Glascock	pcnt_free_lunch	42
+13127	Georgia	Glynn	pcnt_free_lunch	51
+13129	Georgia	Gordon	pcnt_free_lunch	53
+13131	Georgia	Grady	pcnt_free_lunch	65
+13133	Georgia	Greene	pcnt_free_lunch	71
+13135	Georgia	Gwinnett	pcnt_free_lunch	46
+13137	Georgia	Habersham	pcnt_free_lunch	47
+13139	Georgia	Hall	pcnt_free_lunch	56
+13141	Georgia	Hancock	pcnt_free_lunch	77
+13143	Georgia	Haralson	pcnt_free_lunch	42
+13145	Georgia	Harris	pcnt_free_lunch	29
+13147	Georgia	Hart	pcnt_free_lunch	54
+13149	Georgia	Heard	pcnt_free_lunch	54
+13151	Georgia	Henry	pcnt_free_lunch	40
+13153	Georgia	Houston	pcnt_free_lunch	43
+13155	Georgia	Irwin	pcnt_free_lunch	63
+13157	Georgia	Jackson	pcnt_free_lunch	40
+13159	Georgia	Jasper	pcnt_free_lunch	63
+13161	Georgia	Jeff Davis	pcnt_free_lunch	60
+13163	Georgia	Jefferson	pcnt_free_lunch	77
+13165	Georgia	Jenkins	pcnt_free_lunch	65
+13167	Georgia	Johnson	pcnt_free_lunch	63
+13169	Georgia	Jones	pcnt_free_lunch	38
+13171	Georgia	Lamar	pcnt_free_lunch	59
+13173	Georgia	Lanier	pcnt_free_lunch	65
+13175	Georgia	Laurens	pcnt_free_lunch	56
+13177	Georgia	Lee	pcnt_free_lunch	35
+13179	Georgia	Liberty	pcnt_free_lunch	50
+13181	Georgia	Lincoln	pcnt_free_lunch	56
+13183	Georgia	Long	pcnt_free_lunch	59
+13185	Georgia	Lowndes	pcnt_free_lunch	52
+13187	Georgia	Lumpkin	pcnt_free_lunch	46
+13189	Georgia	McDuffie	pcnt_free_lunch	62
+13191	Georgia	McIntosh	pcnt_free_lunch	71
+13193	Georgia	Macon	pcnt_free_lunch	70
+13195	Georgia	Madison	pcnt_free_lunch	49
+13197	Georgia	Marion	pcnt_free_lunch	64
+13199	Georgia	Meriwether	pcnt_free_lunch	53
+13201	Georgia	Miller	pcnt_free_lunch	63
+13205	Georgia	Mitchell	pcnt_free_lunch	67
+13207	Georgia	Monroe	pcnt_free_lunch	48
+13209	Georgia	Montgomery	pcnt_free_lunch	73
+13211	Georgia	Morgan	pcnt_free_lunch	43
+13213	Georgia	Murray	pcnt_free_lunch	63
+13215	Georgia	Muscogee	pcnt_free_lunch	55
+13217	Georgia	Newton	pcnt_free_lunch	55
+13219	Georgia	Oconee	pcnt_free_lunch	17
+13221	Georgia	Oglethorpe	pcnt_free_lunch	49
+13223	Georgia	Paulding	pcnt_free_lunch	32
+13225	Georgia	Peach	pcnt_free_lunch	65
+13227	Georgia	Pickens	pcnt_free_lunch	42
+13229	Georgia	Pierce	pcnt_free_lunch	48
+13231	Georgia	Pike	pcnt_free_lunch	39
+13233	Georgia	Polk	pcnt_free_lunch	58
+13235	Georgia	Pulaski	pcnt_free_lunch	60
+13237	Georgia	Putnam	pcnt_free_lunch	69
+13239	Georgia	Quitman	pcnt_free_lunch	93
+13241	Georgia	Rabun	pcnt_free_lunch	54
+13243	Georgia	Randolph	pcnt_free_lunch	83
+13245	Georgia	Richmond	pcnt_free_lunch	68
+13247	Georgia	Rockdale	pcnt_free_lunch	54
+13249	Georgia	Schley	pcnt_free_lunch	42
+13251	Georgia	Screven	pcnt_free_lunch	62
+13253	Georgia	Seminole	pcnt_free_lunch	66
+13255	Georgia	Spalding	pcnt_free_lunch	64
+13257	Georgia	Stephens	pcnt_free_lunch	50
+13259	Georgia	Stewart	pcnt_free_lunch	83
+13261	Georgia	Sumter	pcnt_free_lunch	77
+13263	Georgia	Talbot	pcnt_free_lunch	79
+13265	Georgia	Taliaferro	pcnt_free_lunch	82
+13267	Georgia	Tattnall	pcnt_free_lunch	64
+13269	Georgia	Taylor	pcnt_free_lunch	71
+13271	Georgia	Telfair	pcnt_free_lunch	67
+13273	Georgia	Terrell	pcnt_free_lunch	78
+13275	Georgia	Thomas	pcnt_free_lunch	57
+13277	Georgia	Tift	pcnt_free_lunch	60
+13279	Georgia	Toombs	pcnt_free_lunch	63
+13281	Georgia	Towns	pcnt_free_lunch	47
+13283	Georgia	Treutlen	pcnt_free_lunch	63
+13285	Georgia	Troup	pcnt_free_lunch	56
+13287	Georgia	Turner	pcnt_free_lunch	71
+13289	Georgia	Twiggs	pcnt_free_lunch	77
+13291	Georgia	Union	pcnt_free_lunch	34
+13293	Georgia	Upson	pcnt_free_lunch	57
+13295	Georgia	Walker	pcnt_free_lunch	54
+13297	Georgia	Walton	pcnt_free_lunch	43
+13299	Georgia	Ware	pcnt_free_lunch	60
+13301	Georgia	Warren	pcnt_free_lunch	82
+13303	Georgia	Washington	pcnt_free_lunch	54
+13305	Georgia	Wayne	pcnt_free_lunch	57
+13307	Georgia	Webster	pcnt_free_lunch	63
+13309	Georgia	Wheeler	pcnt_free_lunch	68
+13311	Georgia	White	pcnt_free_lunch	47
+13313	Georgia	Whitfield	pcnt_free_lunch	61
+13315	Georgia	Wilcox	pcnt_free_lunch	70
+13317	Georgia	Wilkes	pcnt_free_lunch	68
+13319	Georgia	Wilkinson	pcnt_free_lunch	75
+13321	Georgia	Worth	pcnt_free_lunch	62
+15001	Hawaii	Hawaii	pcnt_free_lunch	52
+15003	Hawaii	Honolulu	pcnt_free_lunch	33
+15005	Hawaii	Kalawao	pcnt_free_lunch	
+15007	Hawaii	Kauai	pcnt_free_lunch	34
+15009	Hawaii	Maui	pcnt_free_lunch	36
+16001	Idaho	Ada	pcnt_free_lunch	25
+16003	Idaho	Adams	pcnt_free_lunch	49
+16005	Idaho	Bannock	pcnt_free_lunch	37
+16007	Idaho	Bear Lake	pcnt_free_lunch	29
+16009	Idaho	Benewah	pcnt_free_lunch	45
+16011	Idaho	Bingham	pcnt_free_lunch	38
+16013	Idaho	Blaine	pcnt_free_lunch	30
+16015	Idaho	Boise	pcnt_free_lunch	38
+16017	Idaho	Bonner	pcnt_free_lunch	39
+16019	Idaho	Bonneville	pcnt_free_lunch	33
+16021	Idaho	Boundary	pcnt_free_lunch	41
+16023	Idaho	Butte	pcnt_free_lunch	29
+16025	Idaho	Camas	pcnt_free_lunch	38
+16027	Idaho	Canyon	pcnt_free_lunch	52
+16029	Idaho	Caribou	pcnt_free_lunch	27
+16031	Idaho	Cassia	pcnt_free_lunch	40
+16033	Idaho	Clark	pcnt_free_lunch	59
+16035	Idaho	Clearwater	pcnt_free_lunch	42
+16037	Idaho	Custer	pcnt_free_lunch	24
+16039	Idaho	Elmore	pcnt_free_lunch	34
+16041	Idaho	Franklin	pcnt_free_lunch	33
+16043	Idaho	Fremont	pcnt_free_lunch	38
+16045	Idaho	Gem	pcnt_free_lunch	47
+16047	Idaho	Gooding	pcnt_free_lunch	45
+16049	Idaho	Idaho	pcnt_free_lunch	38
+16051	Idaho	Jefferson	pcnt_free_lunch	35
+16053	Idaho	Jerome	pcnt_free_lunch	51
+16055	Idaho	Kootenai	pcnt_free_lunch	34
+16057	Idaho	Latah	pcnt_free_lunch	20
+16059	Idaho	Lemhi	pcnt_free_lunch	32
+16061	Idaho	Lewis	pcnt_free_lunch	42
+16063	Idaho	Lincoln	pcnt_free_lunch	54
+16065	Idaho	Madison	pcnt_free_lunch	30
+16067	Idaho	Minidoka	pcnt_free_lunch	49
+16069	Idaho	Nez Perce	pcnt_free_lunch	33
+16071	Idaho	Oneida	pcnt_free_lunch	32
+16073	Idaho	Owyhee	pcnt_free_lunch	56
+16075	Idaho	Payette	pcnt_free_lunch	45
+16077	Idaho	Power	pcnt_free_lunch	54
+16079	Idaho	Shoshone	pcnt_free_lunch	39
+16081	Idaho	Teton	pcnt_free_lunch	37
+16083	Idaho	Twin Falls	pcnt_free_lunch	44
+16085	Idaho	Valley	pcnt_free_lunch	29
+16087	Idaho	Washington	pcnt_free_lunch	48
+17001	Illinois	Adams	pcnt_free_lunch	40
+17003	Illinois	Alexander	pcnt_free_lunch	69
+17005	Illinois	Bond	pcnt_free_lunch	38
+17007	Illinois	Boone	pcnt_free_lunch	38
+17009	Illinois	Brown	pcnt_free_lunch	29
+17011	Illinois	Bureau	pcnt_free_lunch	31
+17013	Illinois	Calhoun	pcnt_free_lunch	35
+17015	Illinois	Carroll	pcnt_free_lunch	34
+17017	Illinois	Cass	pcnt_free_lunch	49
+17019	Illinois	Champaign	pcnt_free_lunch	39
+17021	Illinois	Christian	pcnt_free_lunch	38
+17023	Illinois	Clark	pcnt_free_lunch	33
+17025	Illinois	Clay	pcnt_free_lunch	39
+17027	Illinois	Clinton	pcnt_free_lunch	24
+17029	Illinois	Coles	pcnt_free_lunch	39
+17031	Illinois	Cook	pcnt_free_lunch	52
+17033	Illinois	Crawford	pcnt_free_lunch	35
+17035	Illinois	Cumberland	pcnt_free_lunch	30
+17037	Illinois	DeKalb	pcnt_free_lunch	27
+17039	Illinois	De Witt	pcnt_free_lunch	33
+17041	Illinois	Douglas	pcnt_free_lunch	26
+17043	Illinois	DuPage	pcnt_free_lunch	18
+17045	Illinois	Edgar	pcnt_free_lunch	37
+17047	Illinois	Edwards	pcnt_free_lunch	28
+17049	Illinois	Effingham	pcnt_free_lunch	26
+17051	Illinois	Fayette	pcnt_free_lunch	42
+17053	Illinois	Ford	pcnt_free_lunch	29
+17055	Illinois	Franklin	pcnt_free_lunch	47
+17057	Illinois	Fulton	pcnt_free_lunch	34
+17059	Illinois	Gallatin	pcnt_free_lunch	43
+17061	Illinois	Greene	pcnt_free_lunch	39
+17063	Illinois	Grundy	pcnt_free_lunch	16
+17065	Illinois	Hamilton	pcnt_free_lunch	39
+17067	Illinois	Hancock	pcnt_free_lunch	36
+17069	Illinois	Hardin	pcnt_free_lunch	49
+17071	Illinois	Henderson	pcnt_free_lunch	39
+17073	Illinois	Henry	pcnt_free_lunch	29
+17075	Illinois	Iroquois	pcnt_free_lunch	37
+17077	Illinois	Jackson	pcnt_free_lunch	49
+17079	Illinois	Jasper	pcnt_free_lunch	32
+17081	Illinois	Jefferson	pcnt_free_lunch	47
+17083	Illinois	Jersey	pcnt_free_lunch	36
+17085	Illinois	Jo Daviess	pcnt_free_lunch	26
+17087	Illinois	Johnson	pcnt_free_lunch	36
+17089	Illinois	Kane	pcnt_free_lunch	35
+17091	Illinois	Kankakee	pcnt_free_lunch	45
+17093	Illinois	Kendall	pcnt_free_lunch	17
+17095	Illinois	Knox	pcnt_free_lunch	43
+17097	Illinois	Lake	pcnt_free_lunch	23
+17099	Illinois	LaSalle	pcnt_free_lunch	34
+17101	Illinois	Lawrence	pcnt_free_lunch	38
+17103	Illinois	Lee	pcnt_free_lunch	33
+17105	Illinois	Livingston	pcnt_free_lunch	31
+17107	Illinois	Logan	pcnt_free_lunch	34
+17109	Illinois	McDonough	pcnt_free_lunch	39
+17111	Illinois	McHenry	pcnt_free_lunch	17
+17113	Illinois	McLean	pcnt_free_lunch	21
+17115	Illinois	Macon	pcnt_free_lunch	42
+17117	Illinois	Macoupin	pcnt_free_lunch	37
+17119	Illinois	Madison	pcnt_free_lunch	37
+17121	Illinois	Marion	pcnt_free_lunch	50
+17123	Illinois	Marshall	pcnt_free_lunch	35
+17125	Illinois	Mason	pcnt_free_lunch	40
+17127	Illinois	Massac	pcnt_free_lunch	49
+17129	Illinois	Menard	pcnt_free_lunch	23
+17131	Illinois	Mercer	pcnt_free_lunch	23
+17133	Illinois	Monroe	pcnt_free_lunch	11
+17135	Illinois	Montgomery	pcnt_free_lunch	37
+17137	Illinois	Morgan	pcnt_free_lunch	40
+17139	Illinois	Moultrie	pcnt_free_lunch	34
+17141	Illinois	Ogle	pcnt_free_lunch	24
+17143	Illinois	Peoria	pcnt_free_lunch	45
+17145	Illinois	Perry	pcnt_free_lunch	38
+17147	Illinois	Piatt	pcnt_free_lunch	20
+17149	Illinois	Pike	pcnt_free_lunch	37
+17151	Illinois	Pope	pcnt_free_lunch	45
+17153	Illinois	Pulaski	pcnt_free_lunch	73
+17155	Illinois	Putnam	pcnt_free_lunch	22
+17157	Illinois	Randolph	pcnt_free_lunch	38
+17159	Illinois	Richland	pcnt_free_lunch	39
+17161	Illinois	Rock Island	pcnt_free_lunch	44
+17163	Illinois	St. Clair	pcnt_free_lunch	42
+17165	Illinois	Saline	pcnt_free_lunch	44
+17167	Illinois	Sangamon	pcnt_free_lunch	34
+17169	Illinois	Schuyler	pcnt_free_lunch	37
+17171	Illinois	Scott	pcnt_free_lunch	27
+17173	Illinois	Shelby	pcnt_free_lunch	29
+17175	Illinois	Stark	pcnt_free_lunch	30
+17177	Illinois	Stephenson	pcnt_free_lunch	44
+17179	Illinois	Tazewell	pcnt_free_lunch	27
+17181	Illinois	Union	pcnt_free_lunch	45
+17183	Illinois	Vermilion	pcnt_free_lunch	51
+17185	Illinois	Wabash	pcnt_free_lunch	33
+17187	Illinois	Warren	pcnt_free_lunch	37
+17189	Illinois	Washington	pcnt_free_lunch	27
+17191	Illinois	Wayne	pcnt_free_lunch	36
+17193	Illinois	White	pcnt_free_lunch	40
+17195	Illinois	Whiteside	pcnt_free_lunch	37
+17197	Illinois	Will	pcnt_free_lunch	25
+17199	Illinois	Williamson	pcnt_free_lunch	42
+17201	Illinois	Winnebago	pcnt_free_lunch	52
+17203	Illinois	Woodford	pcnt_free_lunch	17
+18001	Indiana	Adams	pcnt_free_lunch	32
+18003	Indiana	Allen	pcnt_free_lunch	44
+18005	Indiana	Bartholomew	pcnt_free_lunch	32
+18007	Indiana	Benton	pcnt_free_lunch	36
+18009	Indiana	Blackford	pcnt_free_lunch	43
+18011	Indiana	Boone	pcnt_free_lunch	17
+18013	Indiana	Brown	pcnt_free_lunch	39
+18015	Indiana	Carroll	pcnt_free_lunch	34
+18017	Indiana	Cass	pcnt_free_lunch	41
+18019	Indiana	Clark	pcnt_free_lunch	40
+18021	Indiana	Clay	pcnt_free_lunch	39
+18023	Indiana	Clinton	pcnt_free_lunch	42
+18025	Indiana	Crawford	pcnt_free_lunch	48
+18027	Indiana	Daviess	pcnt_free_lunch	37
+18029	Indiana	Dearborn	pcnt_free_lunch	26
+18031	Indiana	Decatur	pcnt_free_lunch	36
+18033	Indiana	DeKalb	pcnt_free_lunch	33
+18035	Indiana	Delaware	pcnt_free_lunch	42
+18037	Indiana	Dubois	pcnt_free_lunch	23
+18039	Indiana	Elkhart	pcnt_free_lunch	46
+18041	Indiana	Fayette	pcnt_free_lunch	53
+18043	Indiana	Floyd	pcnt_free_lunch	35
+18045	Indiana	Fountain	pcnt_free_lunch	34
+18047	Indiana	Franklin	pcnt_free_lunch	30
+18049	Indiana	Fulton	pcnt_free_lunch	38
+18051	Indiana	Gibson	pcnt_free_lunch	28
+18053	Indiana	Grant	pcnt_free_lunch	46
+18055	Indiana	Greene	pcnt_free_lunch	36
+18057	Indiana	Hamilton	pcnt_free_lunch	12
+18059	Indiana	Hancock	pcnt_free_lunch	19
+18061	Indiana	Harrison	pcnt_free_lunch	33
+18063	Indiana	Hendricks	pcnt_free_lunch	17
+18065	Indiana	Henry	pcnt_free_lunch	40
+18067	Indiana	Howard	pcnt_free_lunch	40
+18069	Indiana	Huntington	pcnt_free_lunch	33
+18071	Indiana	Jackson	pcnt_free_lunch	38
+18073	Indiana	Jasper	pcnt_free_lunch	30
+18075	Indiana	Jay	pcnt_free_lunch	41
+18077	Indiana	Jefferson	pcnt_free_lunch	42
+18079	Indiana	Jennings	pcnt_free_lunch	44
+18081	Indiana	Johnson	pcnt_free_lunch	27
+18083	Indiana	Knox	pcnt_free_lunch	39
+18085	Indiana	Kosciusko	pcnt_free_lunch	38
+18087	Indiana	LaGrange	pcnt_free_lunch	35
+18089	Indiana	Lake	pcnt_free_lunch	48
+18091	Indiana	LaPorte	pcnt_free_lunch	43
+18093	Indiana	Lawrence	pcnt_free_lunch	37
+18095	Indiana	Madison	pcnt_free_lunch	40
+18097	Indiana	Marion	pcnt_free_lunch	56
+18099	Indiana	Marshall	pcnt_free_lunch	39
+18101	Indiana	Martin	pcnt_free_lunch	34
+18103	Indiana	Miami	pcnt_free_lunch	39
+18105	Indiana	Monroe	pcnt_free_lunch	29
+18107	Indiana	Montgomery	pcnt_free_lunch	35
+18109	Indiana	Morgan	pcnt_free_lunch	31
+18111	Indiana	Newton	pcnt_free_lunch	39
+18113	Indiana	Noble	pcnt_free_lunch	42
+18115	Indiana	Ohio	pcnt_free_lunch	30
+18117	Indiana	Orange	pcnt_free_lunch	41
+18119	Indiana	Owen	pcnt_free_lunch	35
+18121	Indiana	Parke	pcnt_free_lunch	44
+18123	Indiana	Perry	pcnt_free_lunch	37
+18125	Indiana	Pike	pcnt_free_lunch	30
+18127	Indiana	Porter	pcnt_free_lunch	26
+18129	Indiana	Posey	pcnt_free_lunch	24
+18131	Indiana	Pulaski	pcnt_free_lunch	37
+18133	Indiana	Putnam	pcnt_free_lunch	36
+18135	Indiana	Randolph	pcnt_free_lunch	42
+18137	Indiana	Ripley	pcnt_free_lunch	33
+18139	Indiana	Rush	pcnt_free_lunch	38
+18141	Indiana	St. Joseph	pcnt_free_lunch	45
+18143	Indiana	Scott	pcnt_free_lunch	43
+18145	Indiana	Shelby	pcnt_free_lunch	34
+18147	Indiana	Spencer	pcnt_free_lunch	28
+18149	Indiana	Starke	pcnt_free_lunch	47
+18151	Indiana	Steuben	pcnt_free_lunch	37
+18153	Indiana	Sullivan	pcnt_free_lunch	38
+18155	Indiana	Switzerland	pcnt_free_lunch	39
+18157	Indiana	Tippecanoe	pcnt_free_lunch	37
+18159	Indiana	Tipton	pcnt_free_lunch	26
+18161	Indiana	Union	pcnt_free_lunch	36
+18163	Indiana	Vanderburgh	pcnt_free_lunch	48
+18165	Indiana	Vermillion	pcnt_free_lunch	39
+18167	Indiana	Vigo	pcnt_free_lunch	43
+18169	Indiana	Wabash	pcnt_free_lunch	36
+18171	Indiana	Warren	pcnt_free_lunch	26
+18173	Indiana	Warrick	pcnt_free_lunch	22
+18175	Indiana	Washington	pcnt_free_lunch	43
+18177	Indiana	Wayne	pcnt_free_lunch	48
+18179	Indiana	Wells	pcnt_free_lunch	27
+18181	Indiana	White	pcnt_free_lunch	38
+18183	Indiana	Whitley	pcnt_free_lunch	24
+19001	Iowa	Adair	pcnt_free_lunch	31
+19003	Iowa	Adams	pcnt_free_lunch	33
+19005	Iowa	Allamakee	pcnt_free_lunch	37
+19007	Iowa	Appanoose	pcnt_free_lunch	36
+19009	Iowa	Audubon	pcnt_free_lunch	24
+19011	Iowa	Benton	pcnt_free_lunch	22
+19013	Iowa	Black Hawk	pcnt_free_lunch	40
+19015	Iowa	Boone	pcnt_free_lunch	31
+19017	Iowa	Bremer	pcnt_free_lunch	15
+19019	Iowa	Buchanan	pcnt_free_lunch	23
+19021	Iowa	Buena Vista	pcnt_free_lunch	46
+19023	Iowa	Butler	pcnt_free_lunch	21
+19025	Iowa	Calhoun	pcnt_free_lunch	29
+19027	Iowa	Carroll	pcnt_free_lunch	25
+19029	Iowa	Cass	pcnt_free_lunch	33
+19031	Iowa	Cedar	pcnt_free_lunch	20
+19033	Iowa	Cerro Gordo	pcnt_free_lunch	32
+19035	Iowa	Cherokee	pcnt_free_lunch	25
+19037	Iowa	Chickasaw	pcnt_free_lunch	23
+19039	Iowa	Clarke	pcnt_free_lunch	35
+19041	Iowa	Clay	pcnt_free_lunch	29
+19043	Iowa	Clayton	pcnt_free_lunch	27
+19045	Iowa	Clinton	pcnt_free_lunch	35
+19047	Iowa	Crawford	pcnt_free_lunch	46
+19049	Iowa	Dallas	pcnt_free_lunch	17
+19051	Iowa	Davis	pcnt_free_lunch	33
+19053	Iowa	Decatur	pcnt_free_lunch	46
+19055	Iowa	Delaware	pcnt_free_lunch	23
+19057	Iowa	Des Moines	pcnt_free_lunch	42
+19059	Iowa	Dickinson	pcnt_free_lunch	20
+19061	Iowa	Dubuque	pcnt_free_lunch	27
+19063	Iowa	Emmet	pcnt_free_lunch	29
+19065	Iowa	Fayette	pcnt_free_lunch	34
+19067	Iowa	Floyd	pcnt_free_lunch	32
+19069	Iowa	Franklin	pcnt_free_lunch	37
+19071	Iowa	Fremont	pcnt_free_lunch	33
+19073	Iowa	Greene	pcnt_free_lunch	38
+19075	Iowa	Grundy	pcnt_free_lunch	17
+19077	Iowa	Guthrie	pcnt_free_lunch	27
+19079	Iowa	Hamilton	pcnt_free_lunch	30
+19081	Iowa	Hancock	pcnt_free_lunch	25
+19083	Iowa	Hardin	pcnt_free_lunch	29
+19085	Iowa	Harrison	pcnt_free_lunch	25
+19087	Iowa	Henry	pcnt_free_lunch	36
+19089	Iowa	Howard	pcnt_free_lunch	28
+19091	Iowa	Humboldt	pcnt_free_lunch	32
+19093	Iowa	Ida	pcnt_free_lunch	24
+19095	Iowa	Iowa	pcnt_free_lunch	22
+19097	Iowa	Jackson	pcnt_free_lunch	30
+19099	Iowa	Jasper	pcnt_free_lunch	30
+19101	Iowa	Jefferson	pcnt_free_lunch	32
+19103	Iowa	Johnson	pcnt_free_lunch	23
+19105	Iowa	Jones	pcnt_free_lunch	24
+19107	Iowa	Keokuk	pcnt_free_lunch	27
+19109	Iowa	Kossuth	pcnt_free_lunch	27
+19111	Iowa	Lee	pcnt_free_lunch	37
+19113	Iowa	Linn	pcnt_free_lunch	26
+19115	Iowa	Louisa	pcnt_free_lunch	44
+19117	Iowa	Lucas	pcnt_free_lunch	38
+19119	Iowa	Lyon	pcnt_free_lunch	18
+19121	Iowa	Madison	pcnt_free_lunch	23
+19123	Iowa	Mahaska	pcnt_free_lunch	35
+19125	Iowa	Marion	pcnt_free_lunch	24
+19127	Iowa	Marshall	pcnt_free_lunch	47
+19129	Iowa	Mills	pcnt_free_lunch	29
+19131	Iowa	Mitchell	pcnt_free_lunch	20
+19133	Iowa	Monona	pcnt_free_lunch	35
+19135	Iowa	Monroe	pcnt_free_lunch	29
+19137	Iowa	Montgomery	pcnt_free_lunch	38
+19139	Iowa	Muscatine	pcnt_free_lunch	39
+19141	Iowa	O'Brien	pcnt_free_lunch	25
+19143	Iowa	Osceola	pcnt_free_lunch	26
+19145	Iowa	Page	pcnt_free_lunch	34
+19147	Iowa	Palo Alto	pcnt_free_lunch	24
+19149	Iowa	Plymouth	pcnt_free_lunch	18
+19151	Iowa	Pocahontas	pcnt_free_lunch	36
+19153	Iowa	Polk	pcnt_free_lunch	35
+19155	Iowa	Pottawattamie	pcnt_free_lunch	39
+19157	Iowa	Poweshiek	pcnt_free_lunch	26
+19159	Iowa	Ringgold	pcnt_free_lunch	35
+19161	Iowa	Sac	pcnt_free_lunch	27
+19163	Iowa	Scott	pcnt_free_lunch	36
+19165	Iowa	Shelby	pcnt_free_lunch	23
+19167	Iowa	Sioux	pcnt_free_lunch	23
+19169	Iowa	Story	pcnt_free_lunch	18
+19171	Iowa	Tama	pcnt_free_lunch	26
+19173	Iowa	Taylor	pcnt_free_lunch	42
+19175	Iowa	Union	pcnt_free_lunch	37
+19177	Iowa	Van Buren	pcnt_free_lunch	35
+19179	Iowa	Wapello	pcnt_free_lunch	44
+19181	Iowa	Warren	pcnt_free_lunch	17
+19183	Iowa	Washington	pcnt_free_lunch	26
+19185	Iowa	Wayne	pcnt_free_lunch	39
+19187	Iowa	Webster	pcnt_free_lunch	40
+19189	Iowa	Winnebago	pcnt_free_lunch	24
+19191	Iowa	Winneshiek	pcnt_free_lunch	18
+19193	Iowa	Woodbury	pcnt_free_lunch	41
+19195	Iowa	Worth	pcnt_free_lunch	23
+19197	Iowa	Wright	pcnt_free_lunch	37
+20001	Kansas	Allen	pcnt_free_lunch	44
+20003	Kansas	Anderson	pcnt_free_lunch	40
+20005	Kansas	Atchison	pcnt_free_lunch	49
+20007	Kansas	Barber	pcnt_free_lunch	27
+20009	Kansas	Barton	pcnt_free_lunch	47
+20011	Kansas	Bourbon	pcnt_free_lunch	51
+20013	Kansas	Brown	pcnt_free_lunch	46
+20015	Kansas	Butler	pcnt_free_lunch	22
+20017	Kansas	Chase	pcnt_free_lunch	25
+20019	Kansas	Chautauqua	pcnt_free_lunch	45
+20021	Kansas	Cherokee	pcnt_free_lunch	48
+20023	Kansas	Cheyenne	pcnt_free_lunch	36
+20025	Kansas	Clark	pcnt_free_lunch	30
+20027	Kansas	Clay	pcnt_free_lunch	26
+20029	Kansas	Cloud	pcnt_free_lunch	38
+20031	Kansas	Coffey	pcnt_free_lunch	32
+20033	Kansas	Comanche	pcnt_free_lunch	21
+20035	Kansas	Cowley	pcnt_free_lunch	48
+20037	Kansas	Crawford	pcnt_free_lunch	48
+20039	Kansas	Decatur	pcnt_free_lunch	29
+20041	Kansas	Dickinson	pcnt_free_lunch	28
+20043	Kansas	Doniphan	pcnt_free_lunch	35
+20045	Kansas	Douglas	pcnt_free_lunch	26
+20047	Kansas	Edwards	pcnt_free_lunch	39
+20049	Kansas	Elk	pcnt_free_lunch	48
+20051	Kansas	Ellis	pcnt_free_lunch	28
+20053	Kansas	Ellsworth	pcnt_free_lunch	34
+20055	Kansas	Finney	pcnt_free_lunch	54
+20057	Kansas	Ford	pcnt_free_lunch	65
+20059	Kansas	Franklin	pcnt_free_lunch	41
+20061	Kansas	Geary	pcnt_free_lunch	39
+20063	Kansas	Gove	pcnt_free_lunch	25
+20065	Kansas	Graham	pcnt_free_lunch	29
+20067	Kansas	Grant	pcnt_free_lunch	47
+20069	Kansas	Gray	pcnt_free_lunch	31
+20071	Kansas	Greeley	pcnt_free_lunch	35
+20073	Kansas	Greenwood	pcnt_free_lunch	45
+20075	Kansas	Hamilton	pcnt_free_lunch	52
+20077	Kansas	Harper	pcnt_free_lunch	49
+20079	Kansas	Harvey	pcnt_free_lunch	36
+20081	Kansas	Haskell	pcnt_free_lunch	52
+20083	Kansas	Hodgeman	pcnt_free_lunch	28
+20085	Kansas	Jackson	pcnt_free_lunch	31
+20087	Kansas	Jefferson	pcnt_free_lunch	28
+20089	Kansas	Jewell	pcnt_free_lunch	27
+20091	Kansas	Johnson	pcnt_free_lunch	17
+20093	Kansas	Kearny	pcnt_free_lunch	49
+20095	Kansas	Kingman	pcnt_free_lunch	35
+20097	Kansas	Kiowa	pcnt_free_lunch	37
+20099	Kansas	Labette	pcnt_free_lunch	48
+20101	Kansas	Lane	pcnt_free_lunch	30
+20103	Kansas	Leavenworth	pcnt_free_lunch	24
+20105	Kansas	Lincoln	pcnt_free_lunch	37
+20107	Kansas	Linn	pcnt_free_lunch	43
+20109	Kansas	Logan	pcnt_free_lunch	34
+20111	Kansas	Lyon	pcnt_free_lunch	52
+20113	Kansas	McPherson	pcnt_free_lunch	24
+20115	Kansas	Marion	pcnt_free_lunch	31
+20117	Kansas	Marshall	pcnt_free_lunch	30
+20119	Kansas	Meade	pcnt_free_lunch	39
+20121	Kansas	Miami	pcnt_free_lunch	28
+20123	Kansas	Mitchell	pcnt_free_lunch	30
+20125	Kansas	Montgomery	pcnt_free_lunch	48
+20127	Kansas	Morris	pcnt_free_lunch	29
+20129	Kansas	Morton	pcnt_free_lunch	45
+20131	Kansas	Nemaha	pcnt_free_lunch	20
+20133	Kansas	Neosho	pcnt_free_lunch	47
+20135	Kansas	Ness	pcnt_free_lunch	32
+20137	Kansas	Norton	pcnt_free_lunch	31
+20139	Kansas	Osage	pcnt_free_lunch	33
+20141	Kansas	Osborne	pcnt_free_lunch	41
+20143	Kansas	Ottawa	pcnt_free_lunch	26
+20145	Kansas	Pawnee	pcnt_free_lunch	43
+20147	Kansas	Phillips	pcnt_free_lunch	36
+20149	Kansas	Pottawatomie	pcnt_free_lunch	24
+20151	Kansas	Pratt	pcnt_free_lunch	33
+20153	Kansas	Rawlins	pcnt_free_lunch	31
+20155	Kansas	Reno	pcnt_free_lunch	42
+20157	Kansas	Republic	pcnt_free_lunch	36
+20159	Kansas	Rice	pcnt_free_lunch	44
+20161	Kansas	Riley	pcnt_free_lunch	23
+20163	Kansas	Rooks	pcnt_free_lunch	31
+20165	Kansas	Rush	pcnt_free_lunch	35
+20167	Kansas	Russell	pcnt_free_lunch	39
+20169	Kansas	Saline	pcnt_free_lunch	42
+20171	Kansas	Scott	pcnt_free_lunch	38
+20173	Kansas	Sedgwick	pcnt_free_lunch	48
+20175	Kansas	Seward	pcnt_free_lunch	65
+20177	Kansas	Shawnee	pcnt_free_lunch	43
+20179	Kansas	Sheridan	pcnt_free_lunch	26
+20181	Kansas	Sherman	pcnt_free_lunch	37
+20183	Kansas	Smith	pcnt_free_lunch	32
+20185	Kansas	Stafford	pcnt_free_lunch	44
+20187	Kansas	Stanton	pcnt_free_lunch	43
+20189	Kansas	Stevens	pcnt_free_lunch	42
+20191	Kansas	Sumner	pcnt_free_lunch	35
+20193	Kansas	Thomas	pcnt_free_lunch	31
+20195	Kansas	Trego	pcnt_free_lunch	21
+20197	Kansas	Wabaunsee	pcnt_free_lunch	22
+20199	Kansas	Wallace	pcnt_free_lunch	31
+20201	Kansas	Washington	pcnt_free_lunch	26
+20203	Kansas	Wichita	pcnt_free_lunch	44
+20205	Kansas	Wilson	pcnt_free_lunch	43
+20207	Kansas	Woodson	pcnt_free_lunch	44
+20209	Kansas	Wyandotte	pcnt_free_lunch	69
+21001	Kentucky	Adair	pcnt_free_lunch	52
+21003	Kentucky	Allen	pcnt_free_lunch	49
+21005	Kentucky	Anderson	pcnt_free_lunch	37
+21007	Kentucky	Ballard	pcnt_free_lunch	47
+21009	Kentucky	Barren	pcnt_free_lunch	50
+21011	Kentucky	Bath	pcnt_free_lunch	69
+21013	Kentucky	Bell	pcnt_free_lunch	72
+21015	Kentucky	Boone	pcnt_free_lunch	25
+21017	Kentucky	Bourbon	pcnt_free_lunch	52
+21019	Kentucky	Boyd	pcnt_free_lunch	47
+21021	Kentucky	Boyle	pcnt_free_lunch	42
+21023	Kentucky	Bracken	pcnt_free_lunch	47
+21025	Kentucky	Breathitt	pcnt_free_lunch	74
+21027	Kentucky	Breckinridge	pcnt_free_lunch	50
+21029	Kentucky	Bullitt	pcnt_free_lunch	39
+21031	Kentucky	Butler	pcnt_free_lunch	49
+21033	Kentucky	Caldwell	pcnt_free_lunch	55
+21035	Kentucky	Calloway	pcnt_free_lunch	43
+21037	Kentucky	Campbell	pcnt_free_lunch	40
+21039	Kentucky	Carlisle	pcnt_free_lunch	50
+21041	Kentucky	Carroll	pcnt_free_lunch	59
+21043	Kentucky	Carter	pcnt_free_lunch	54
+21045	Kentucky	Casey	pcnt_free_lunch	62
+21047	Kentucky	Christian	pcnt_free_lunch	60
+21049	Kentucky	Clark	pcnt_free_lunch	50
+21051	Kentucky	Clay	pcnt_free_lunch	66
+21053	Kentucky	Clinton	pcnt_free_lunch	57
+21055	Kentucky	Crittenden	pcnt_free_lunch	43
+21057	Kentucky	Cumberland	pcnt_free_lunch	60
+21059	Kentucky	Daviess	pcnt_free_lunch	51
+21061	Kentucky	Edmonson	pcnt_free_lunch	47
+21063	Kentucky	Elliott	pcnt_free_lunch	71
+21065	Kentucky	Estill	pcnt_free_lunch	61
+21067	Kentucky	Fayette	pcnt_free_lunch	42
+21069	Kentucky	Fleming	pcnt_free_lunch	51
+21071	Kentucky	Floyd	pcnt_free_lunch	68
+21073	Kentucky	Franklin	pcnt_free_lunch	43
+21075	Kentucky	Fulton	pcnt_free_lunch	80
+21077	Kentucky	Gallatin	pcnt_free_lunch	63
+21079	Kentucky	Garrard	pcnt_free_lunch	51
+21081	Kentucky	Grant	pcnt_free_lunch	50
+21083	Kentucky	Graves	pcnt_free_lunch	54
+21085	Kentucky	Grayson	pcnt_free_lunch	56
+21087	Kentucky	Green	pcnt_free_lunch	51
+21089	Kentucky	Greenup	pcnt_free_lunch	41
+21091	Kentucky	Hancock	pcnt_free_lunch	40
+21093	Kentucky	Hardin	pcnt_free_lunch	38
+21095	Kentucky	Harlan	pcnt_free_lunch	62
+21097	Kentucky	Harrison	pcnt_free_lunch	48
+21099	Kentucky	Hart	pcnt_free_lunch	54
+21101	Kentucky	Henderson	pcnt_free_lunch	49
+21103	Kentucky	Henry	pcnt_free_lunch	48
+21105	Kentucky	Hickman	pcnt_free_lunch	39
+21107	Kentucky	Hopkins	pcnt_free_lunch	49
+21109	Kentucky	Jackson	pcnt_free_lunch	75
+21111	Kentucky	Jefferson	pcnt_free_lunch	56
+21113	Kentucky	Jessamine	pcnt_free_lunch	46
+21115	Kentucky	Johnson	pcnt_free_lunch	51
+21117	Kentucky	Kenton	pcnt_free_lunch	40
+21119	Kentucky	Knott	pcnt_free_lunch	63
+21121	Kentucky	Knox	pcnt_free_lunch	63
+21123	Kentucky	Larue	pcnt_free_lunch	47
+21125	Kentucky	Laurel	pcnt_free_lunch	51
+21127	Kentucky	Lawrence	pcnt_free_lunch	60
+21129	Kentucky	Lee	pcnt_free_lunch	70
+21131	Kentucky	Leslie	pcnt_free_lunch	56
+21133	Kentucky	Letcher	pcnt_free_lunch	60
+21135	Kentucky	Lewis	pcnt_free_lunch	64
+21137	Kentucky	Lincoln	pcnt_free_lunch	62
+21139	Kentucky	Livingston	pcnt_free_lunch	52
+21141	Kentucky	Logan	pcnt_free_lunch	46
+21143	Kentucky	Lyon	pcnt_free_lunch	37
+21145	Kentucky	McCracken	pcnt_free_lunch	46
+21147	Kentucky	McCreary	pcnt_free_lunch	70
+21149	Kentucky	McLean	pcnt_free_lunch	46
+21151	Kentucky	Madison	pcnt_free_lunch	42
+21153	Kentucky	Magoffin	pcnt_free_lunch	90
+21155	Kentucky	Marion	pcnt_free_lunch	48
+21157	Kentucky	Marshall	pcnt_free_lunch	41
+21159	Kentucky	Martin	pcnt_free_lunch	61
+21161	Kentucky	Mason	pcnt_free_lunch	53
+21163	Kentucky	Meade	pcnt_free_lunch	39
+21165	Kentucky	Menifee	pcnt_free_lunch	62
+21167	Kentucky	Mercer	pcnt_free_lunch	41
+21169	Kentucky	Metcalfe	pcnt_free_lunch	62
+21171	Kentucky	Monroe	pcnt_free_lunch	58
+21173	Kentucky	Montgomery	pcnt_free_lunch	51
+21175	Kentucky	Morgan	pcnt_free_lunch	63
+21177	Kentucky	Muhlenberg	pcnt_free_lunch	49
+21179	Kentucky	Nelson	pcnt_free_lunch	45
+21181	Kentucky	Nicholas	pcnt_free_lunch	54
+21183	Kentucky	Ohio	pcnt_free_lunch	55
+21185	Kentucky	Oldham	pcnt_free_lunch	16
+21187	Kentucky	Owen	pcnt_free_lunch	52
+21189	Kentucky	Owsley	pcnt_free_lunch	76
+21191	Kentucky	Pendleton	pcnt_free_lunch	49
+21193	Kentucky	Perry	pcnt_free_lunch	64
+21195	Kentucky	Pike	pcnt_free_lunch	52
+21197	Kentucky	Powell	pcnt_free_lunch	65
+21199	Kentucky	Pulaski	pcnt_free_lunch	55
+21201	Kentucky	Robertson	pcnt_free_lunch	54
+21203	Kentucky	Rockcastle	pcnt_free_lunch	58
+21205	Kentucky	Rowan	pcnt_free_lunch	53
+21207	Kentucky	Russell	pcnt_free_lunch	57
+21209	Kentucky	Scott	pcnt_free_lunch	35
+21211	Kentucky	Shelby	pcnt_free_lunch	40
+21213	Kentucky	Simpson	pcnt_free_lunch	50
+21215	Kentucky	Spencer	pcnt_free_lunch	34
+21217	Kentucky	Taylor	pcnt_free_lunch	52
+21219	Kentucky	Todd	pcnt_free_lunch	55
+21221	Kentucky	Trigg	pcnt_free_lunch	48
+21223	Kentucky	Trimble	pcnt_free_lunch	47
+21225	Kentucky	Union	pcnt_free_lunch	53
+21227	Kentucky	Warren	pcnt_free_lunch	35
+21229	Kentucky	Washington	pcnt_free_lunch	49
+21231	Kentucky	Wayne	pcnt_free_lunch	62
+21233	Kentucky	Webster	pcnt_free_lunch	52
+21235	Kentucky	Whitley	pcnt_free_lunch	62
+21237	Kentucky	Wolfe	pcnt_free_lunch	78
+21239	Kentucky	Woodford	pcnt_free_lunch	31
+22001	Louisiana	Acadia	pcnt_free_lunch	60
+22003	Louisiana	Allen	pcnt_free_lunch	56
+22005	Louisiana	Ascension	pcnt_free_lunch	42
+22007	Louisiana	Assumption	pcnt_free_lunch	63
+22009	Louisiana	Avoyelles	pcnt_free_lunch	69
+22011	Louisiana	Beauregard	pcnt_free_lunch	44
+22013	Louisiana	Bienville	pcnt_free_lunch	65
+22015	Louisiana	Bossier	pcnt_free_lunch	39
+22017	Louisiana	Caddo	pcnt_free_lunch	61
+22019	Louisiana	Calcasieu	pcnt_free_lunch	52
+22021	Louisiana	Caldwell	pcnt_free_lunch	62
+22023	Louisiana	Cameron	pcnt_free_lunch	37
+22025	Louisiana	Catahoula	pcnt_free_lunch	65
+22027	Louisiana	Claiborne	pcnt_free_lunch	70
+22029	Louisiana	Concordia	pcnt_free_lunch	72
+22031	Louisiana	De Soto	pcnt_free_lunch	60
+22033	Louisiana	East Baton Rouge	pcnt_free_lunch	68
+22035	Louisiana	East Carroll	pcnt_free_lunch	91
+22037	Louisiana	East Feliciana	pcnt_free_lunch	78
+22039	Louisiana	Evangeline	pcnt_free_lunch	69
+22041	Louisiana	Franklin	pcnt_free_lunch	79
+22043	Louisiana	Grant	pcnt_free_lunch	56
+22045	Louisiana	Iberia	pcnt_free_lunch	65
+22047	Louisiana	Iberville	pcnt_free_lunch	77
+22049	Louisiana	Jackson	pcnt_free_lunch	54
+22051	Louisiana	Jefferson	pcnt_free_lunch	68
+22053	Louisiana	Jefferson Davis	pcnt_free_lunch	50
+22055	Louisiana	Lafayette	pcnt_free_lunch	52
+22057	Louisiana	Lafourche	pcnt_free_lunch	52
+22059	Louisiana	La Salle	pcnt_free_lunch	47
+22061	Louisiana	Lincoln	pcnt_free_lunch	54
+22063	Louisiana	Livingston	pcnt_free_lunch	39
+22065	Louisiana	Madison	pcnt_free_lunch	87
+22067	Louisiana	Morehouse	pcnt_free_lunch	79
+22069	Louisiana	Natchitoches	pcnt_free_lunch	65
+22071	Louisiana	Orleans	pcnt_free_lunch	80
+22073	Louisiana	Ouachita	pcnt_free_lunch	59
+22075	Louisiana	Plaquemines	pcnt_free_lunch	48
+22077	Louisiana	Pointe Coupee	pcnt_free_lunch	77
+22079	Louisiana	Rapides	pcnt_free_lunch	56
+22081	Louisiana	Red River	pcnt_free_lunch	82
+22083	Louisiana	Richland	pcnt_free_lunch	69
+22085	Louisiana	Sabine	pcnt_free_lunch	60
+22087	Louisiana	St. Bernard	pcnt_free_lunch	66
+22089	Louisiana	St. Charles	pcnt_free_lunch	42
+22091	Louisiana	St. Helena	pcnt_free_lunch	87
+22093	Louisiana	St. James	pcnt_free_lunch	66
+22095	Louisiana	St. John the Baptist	pcnt_free_lunch	84
+22097	Louisiana	St. Landry	pcnt_free_lunch	73
+22099	Louisiana	St. Martin	pcnt_free_lunch	64
+22101	Louisiana	St. Mary	pcnt_free_lunch	63
+22103	Louisiana	St. Tammany	pcnt_free_lunch	39
+22105	Louisiana	Tangipahoa	pcnt_free_lunch	68
+22107	Louisiana	Tensas	pcnt_free_lunch	89
+22109	Louisiana	Terrebonne	pcnt_free_lunch	58
+22111	Louisiana	Union	pcnt_free_lunch	72
+22113	Louisiana	Vermilion	pcnt_free_lunch	51
+22115	Louisiana	Vernon	pcnt_free_lunch	45
+22117	Louisiana	Washington	pcnt_free_lunch	80
+22119	Louisiana	Webster	pcnt_free_lunch	55
+22121	Louisiana	West Baton Rouge	pcnt_free_lunch	63
+22123	Louisiana	West Carroll	pcnt_free_lunch	67
+22125	Louisiana	West Feliciana	pcnt_free_lunch	44
+22127	Louisiana	Winn	pcnt_free_lunch	66
+23001	Maine	Androscoggin	pcnt_free_lunch	44
+23003	Maine	Aroostook	pcnt_free_lunch	42
+23005	Maine	Cumberland	pcnt_free_lunch	26
+23007	Maine	Franklin	pcnt_free_lunch	45
+23009	Maine	Hancock	pcnt_free_lunch	34
+23011	Maine	Kennebec	pcnt_free_lunch	38
+23013	Maine	Knox	pcnt_free_lunch	37
+23015	Maine	Lincoln	pcnt_free_lunch	42
+23017	Maine	Oxford	pcnt_free_lunch	48
+23019	Maine	Penobscot	pcnt_free_lunch	36
+23021	Maine	Piscataquis	pcnt_free_lunch	47
+23023	Maine	Sagadahoc	pcnt_free_lunch	32
+23025	Maine	Somerset	pcnt_free_lunch	50
+23027	Maine	Waldo	pcnt_free_lunch	48
+23029	Maine	Washington	pcnt_free_lunch	52
+23031	Maine	York	pcnt_free_lunch	29
+24001	Maryland	Allegany	pcnt_free_lunch	40
+24003	Maryland	Anne Arundel	pcnt_free_lunch	22
+24005	Maryland	Baltimore	pcnt_free_lunch	34
+24009	Maryland	Calvert	pcnt_free_lunch	18
+24011	Maryland	Caroline	pcnt_free_lunch	43
+24013	Maryland	Carroll	pcnt_free_lunch	12
+24015	Maryland	Cecil	pcnt_free_lunch	32
+24017	Maryland	Charles	pcnt_free_lunch	23
+24019	Maryland	Dorchester	pcnt_free_lunch	53
+24021	Maryland	Frederick	pcnt_free_lunch	18
+24023	Maryland	Garrett	pcnt_free_lunch	36
+24025	Maryland	Harford	pcnt_free_lunch	22
+24027	Maryland	Howard	pcnt_free_lunch	13
+24029	Maryland	Kent	pcnt_free_lunch	44
+24031	Maryland	Montgomery	pcnt_free_lunch	24
+24033	Maryland	Prince George's	pcnt_free_lunch	46
+24035	Maryland	Queen Anne's	pcnt_free_lunch	19
+24037	Maryland	St. Mary's	pcnt_free_lunch	24
+24039	Maryland	Somerset	pcnt_free_lunch	60
+24041	Maryland	Talbot	pcnt_free_lunch	29
+24043	Maryland	Washington	pcnt_free_lunch	36
+24045	Maryland	Wicomico	pcnt_free_lunch	46
+24047	Maryland	Worcester	pcnt_free_lunch	35
+24510	Maryland	Baltimore City	pcnt_free_lunch	76
+25001	Massachusetts	Barnstable	pcnt_free_lunch	20
+25003	Massachusetts	Berkshire	pcnt_free_lunch	33
+25005	Massachusetts	Bristol	pcnt_free_lunch	32
+25007	Massachusetts	Dukes	pcnt_free_lunch	12
+25009	Massachusetts	Essex	pcnt_free_lunch	32
+25011	Massachusetts	Franklin	pcnt_free_lunch	32
+25013	Massachusetts	Hampden	pcnt_free_lunch	49
+25015	Massachusetts	Hampshire	pcnt_free_lunch	20
+25017	Massachusetts	Middlesex	pcnt_free_lunch	19
+25019	Massachusetts	Nantucket	pcnt_free_lunch	9
+25021	Massachusetts	Norfolk	pcnt_free_lunch	13
+25023	Massachusetts	Plymouth	pcnt_free_lunch	22
+25025	Massachusetts	Suffolk	pcnt_free_lunch	66
+25027	Massachusetts	Worcester	pcnt_free_lunch	28
+26001	Michigan	Alcona	pcnt_free_lunch	45
+26003	Michigan	Alger	pcnt_free_lunch	37
+26005	Michigan	Allegan	pcnt_free_lunch	35
+26007	Michigan	Alpena	pcnt_free_lunch	41
+26009	Michigan	Antrim	pcnt_free_lunch	43
+26011	Michigan	Arenac	pcnt_free_lunch	51
+26013	Michigan	Baraga	pcnt_free_lunch	41
+26015	Michigan	Barry	pcnt_free_lunch	33
+26017	Michigan	Bay	pcnt_free_lunch	41
+26019	Michigan	Benzie	pcnt_free_lunch	49
+26021	Michigan	Berrien	pcnt_free_lunch	46
+26023	Michigan	Branch	pcnt_free_lunch	45
+26025	Michigan	Calhoun	pcnt_free_lunch	47
+26027	Michigan	Cass	pcnt_free_lunch	45
+26029	Michigan	Charlevoix	pcnt_free_lunch	39
+26031	Michigan	Cheboygan	pcnt_free_lunch	51
+26033	Michigan	Chippewa	pcnt_free_lunch	44
+26035	Michigan	Clare	pcnt_free_lunch	55
+26037	Michigan	Clinton	pcnt_free_lunch	22
+26039	Michigan	Crawford	pcnt_free_lunch	53
+26041	Michigan	Delta	pcnt_free_lunch	34
+26043	Michigan	Dickinson	pcnt_free_lunch	28
+26045	Michigan	Eaton	pcnt_free_lunch	32
+26047	Michigan	Emmet	pcnt_free_lunch	33
+26049	Michigan	Genesee	pcnt_free_lunch	48
+26051	Michigan	Gladwin	pcnt_free_lunch	51
+26053	Michigan	Gogebic	pcnt_free_lunch	47
+26055	Michigan	Grand Traverse	pcnt_free_lunch	33
+26057	Michigan	Gratiot	pcnt_free_lunch	42
+26059	Michigan	Hillsdale	pcnt_free_lunch	43
+26061	Michigan	Houghton	pcnt_free_lunch	36
+26063	Michigan	Huron	pcnt_free_lunch	41
+26065	Michigan	Ingham	pcnt_free_lunch	41
+26067	Michigan	Ionia	pcnt_free_lunch	41
+26069	Michigan	Iosco	pcnt_free_lunch	59
+26071	Michigan	Iron	pcnt_free_lunch	47
+26073	Michigan	Isabella	pcnt_free_lunch	36
+26075	Michigan	Jackson	pcnt_free_lunch	45
+26077	Michigan	Kalamazoo	pcnt_free_lunch	42
+26079	Michigan	Kalkaska	pcnt_free_lunch	50
+26081	Michigan	Kent	pcnt_free_lunch	41
+26083	Michigan	Keweenaw	pcnt_free_lunch	64
+26085	Michigan	Lake	pcnt_free_lunch	85
+26087	Michigan	Lapeer	pcnt_free_lunch	37
+26089	Michigan	Leelanau	pcnt_free_lunch	31
+26091	Michigan	Lenawee	pcnt_free_lunch	38
+26093	Michigan	Livingston	pcnt_free_lunch	17
+26095	Michigan	Luce	pcnt_free_lunch	44
+26097	Michigan	Mackinac	pcnt_free_lunch	37
+26099	Michigan	Macomb	pcnt_free_lunch	36
+26101	Michigan	Manistee	pcnt_free_lunch	47
+26103	Michigan	Marquette	pcnt_free_lunch	31
+26105	Michigan	Mason	pcnt_free_lunch	46
+26107	Michigan	Mecosta	pcnt_free_lunch	53
+26109	Michigan	Menominee	pcnt_free_lunch	39
+26111	Michigan	Midland	pcnt_free_lunch	26
+26113	Michigan	Missaukee	pcnt_free_lunch	45
+26115	Michigan	Monroe	pcnt_free_lunch	30
+26117	Michigan	Montcalm	pcnt_free_lunch	44
+26119	Michigan	Montmorency	pcnt_free_lunch	57
+26121	Michigan	Muskegon	pcnt_free_lunch	51
+26123	Michigan	Newaygo	pcnt_free_lunch	49
+26125	Michigan	Oakland	pcnt_free_lunch	27
+26127	Michigan	Oceana	pcnt_free_lunch	60
+26129	Michigan	Ogemaw	pcnt_free_lunch	54
+26131	Michigan	Ontonagon	pcnt_free_lunch	42
+26133	Michigan	Osceola	pcnt_free_lunch	52
+26135	Michigan	Oscoda	pcnt_free_lunch	55
+26137	Michigan	Otsego	pcnt_free_lunch	41
+26139	Michigan	Ottawa	pcnt_free_lunch	29
+26141	Michigan	Presque Isle	pcnt_free_lunch	46
+26143	Michigan	Roscommon	pcnt_free_lunch	57
+26145	Michigan	Saginaw	pcnt_free_lunch	50
+26147	Michigan	St. Clair	pcnt_free_lunch	36
+26149	Michigan	St. Joseph	pcnt_free_lunch	51
+26151	Michigan	Sanilac	pcnt_free_lunch	45
+26153	Michigan	Schoolcraft	pcnt_free_lunch	40
+26155	Michigan	Shiawassee	pcnt_free_lunch	38
+26157	Michigan	Tuscola	pcnt_free_lunch	45
+26159	Michigan	Van Buren	pcnt_free_lunch	45
+26161	Michigan	Washtenaw	pcnt_free_lunch	27
+26163	Michigan	Wayne	pcnt_free_lunch	56
+26165	Michigan	Wexford	pcnt_free_lunch	52
+27001	Minnesota	Aitkin	pcnt_free_lunch	38
+27003	Minnesota	Anoka	pcnt_free_lunch	25
+27005	Minnesota	Becker	pcnt_free_lunch	32
+27007	Minnesota	Beltrami	pcnt_free_lunch	50
+27009	Minnesota	Benton	pcnt_free_lunch	24
+27011	Minnesota	Big Stone	pcnt_free_lunch	28
+27013	Minnesota	Blue Earth	pcnt_free_lunch	25
+27015	Minnesota	Brown	pcnt_free_lunch	25
+27017	Minnesota	Carlton	pcnt_free_lunch	24
+27019	Minnesota	Carver	pcnt_free_lunch	11
+27021	Minnesota	Cass	pcnt_free_lunch	51
+27023	Minnesota	Chippewa	pcnt_free_lunch	27
+27025	Minnesota	Chisago	pcnt_free_lunch	17
+27027	Minnesota	Clay	pcnt_free_lunch	25
+27029	Minnesota	Clearwater	pcnt_free_lunch	40
+27031	Minnesota	Cook	pcnt_free_lunch	26
+27033	Minnesota	Cottonwood	pcnt_free_lunch	33
+27035	Minnesota	Crow Wing	pcnt_free_lunch	31
+27037	Minnesota	Dakota	pcnt_free_lunch	18
+27039	Minnesota	Dodge	pcnt_free_lunch	19
+27041	Minnesota	Douglas	pcnt_free_lunch	25
+27043	Minnesota	Faribault	pcnt_free_lunch	32
+27045	Minnesota	Fillmore	pcnt_free_lunch	26
+27047	Minnesota	Freeborn	pcnt_free_lunch	34
+27049	Minnesota	Goodhue	pcnt_free_lunch	20
+27051	Minnesota	Grant	pcnt_free_lunch	29
+27053	Minnesota	Hennepin	pcnt_free_lunch	34
+27055	Minnesota	Houston	pcnt_free_lunch	17
+27057	Minnesota	Hubbard	pcnt_free_lunch	40
+27059	Minnesota	Isanti	pcnt_free_lunch	26
+27061	Minnesota	Itasca	pcnt_free_lunch	35
+27063	Minnesota	Jackson	pcnt_free_lunch	24
+27065	Minnesota	Kanabec	pcnt_free_lunch	36
+27067	Minnesota	Kandiyohi	pcnt_free_lunch	37
+27069	Minnesota	Kittson	pcnt_free_lunch	25
+27071	Minnesota	Koochiching	pcnt_free_lunch	30
+27073	Minnesota	Lac qui Parle	pcnt_free_lunch	27
+27075	Minnesota	Lake	pcnt_free_lunch	21
+27077	Minnesota	Lake of the Woods	pcnt_free_lunch	33
+27079	Minnesota	Le Sueur	pcnt_free_lunch	23
+27081	Minnesota	Lincoln	pcnt_free_lunch	22
+27083	Minnesota	Lyon	pcnt_free_lunch	28
+27085	Minnesota	McLeod	pcnt_free_lunch	24
+27087	Minnesota	Mahnomen	pcnt_free_lunch	64
+27089	Minnesota	Marshall	pcnt_free_lunch	27
+27091	Minnesota	Martin	pcnt_free_lunch	27
+27093	Minnesota	Meeker	pcnt_free_lunch	28
+27095	Minnesota	Mille Lacs	pcnt_free_lunch	30
+27097	Minnesota	Morrison	pcnt_free_lunch	30
+27099	Minnesota	Mower	pcnt_free_lunch	37
+27101	Minnesota	Murray	pcnt_free_lunch	23
+27103	Minnesota	Nicollet	pcnt_free_lunch	26
+27105	Minnesota	Nobles	pcnt_free_lunch	44
+27107	Minnesota	Norman	pcnt_free_lunch	33
+27109	Minnesota	Olmsted	pcnt_free_lunch	25
+27111	Minnesota	Otter Tail	pcnt_free_lunch	29
+27113	Minnesota	Pennington	pcnt_free_lunch	28
+27115	Minnesota	Pine	pcnt_free_lunch	38
+27117	Minnesota	Pipestone	pcnt_free_lunch	29
+27119	Minnesota	Polk	pcnt_free_lunch	29
+27121	Minnesota	Pope	pcnt_free_lunch	28
+27123	Minnesota	Ramsey	pcnt_free_lunch	48
+27125	Minnesota	Red Lake	pcnt_free_lunch	32
+27127	Minnesota	Redwood	pcnt_free_lunch	27
+27129	Minnesota	Renville	pcnt_free_lunch	32
+27131	Minnesota	Rice	pcnt_free_lunch	30
+27133	Minnesota	Rock	pcnt_free_lunch	22
+27135	Minnesota	Roseau	pcnt_free_lunch	22
+27137	Minnesota	St. Louis	pcnt_free_lunch	32
+27139	Minnesota	Scott	pcnt_free_lunch	16
+27141	Minnesota	Sherburne	pcnt_free_lunch	21
+27143	Minnesota	Sibley	pcnt_free_lunch	31
+27145	Minnesota	Stearns	pcnt_free_lunch	26
+27147	Minnesota	Steele	pcnt_free_lunch	24
+27149	Minnesota	Stevens	pcnt_free_lunch	20
+27151	Minnesota	Swift	pcnt_free_lunch	27
+27153	Minnesota	Todd	pcnt_free_lunch	43
+27155	Minnesota	Traverse	pcnt_free_lunch	29
+27157	Minnesota	Wabasha	pcnt_free_lunch	21
+27159	Minnesota	Wadena	pcnt_free_lunch	42
+27161	Minnesota	Waseca	pcnt_free_lunch	25
+27163	Minnesota	Washington	pcnt_free_lunch	13
+27165	Minnesota	Watonwan	pcnt_free_lunch	41
+27167	Minnesota	Wilkin	pcnt_free_lunch	29
+27169	Minnesota	Winona	pcnt_free_lunch	26
+27171	Minnesota	Wright	pcnt_free_lunch	16
+27173	Minnesota	Yellow Medicine	pcnt_free_lunch	32
+28001	Mississippi	Adams	pcnt_free_lunch	90
+28003	Mississippi	Alcorn	pcnt_free_lunch	49
+28005	Mississippi	Amite	pcnt_free_lunch	81
+28007	Mississippi	Attala	pcnt_free_lunch	64
+28009	Mississippi	Benton	pcnt_free_lunch	90
+28011	Mississippi	Bolivar	pcnt_free_lunch	82
+28013	Mississippi	Calhoun	pcnt_free_lunch	70
+28015	Mississippi	Carroll	pcnt_free_lunch	84
+28017	Mississippi	Chickasaw	pcnt_free_lunch	69
+28019	Mississippi	Choctaw	pcnt_free_lunch	61
+28021	Mississippi	Claiborne	pcnt_free_lunch	94
+28023	Mississippi	Clarke	pcnt_free_lunch	58
+28025	Mississippi	Clay	pcnt_free_lunch	82
+28027	Mississippi	Coahoma	pcnt_free_lunch	91
+28029	Mississippi	Copiah	pcnt_free_lunch	77
+28031	Mississippi	Covington	pcnt_free_lunch	71
+28033	Mississippi	DeSoto	pcnt_free_lunch	40
+28035	Mississippi	Forrest	pcnt_free_lunch	66
+28037	Mississippi	Franklin	pcnt_free_lunch	63
+28039	Mississippi	George	pcnt_free_lunch	59
+28041	Mississippi	Greene	pcnt_free_lunch	74
+28043	Mississippi	Grenada	pcnt_free_lunch	61
+28045	Mississippi	Hancock	pcnt_free_lunch	58
+28047	Mississippi	Harrison	pcnt_free_lunch	57
+28049	Mississippi	Hinds	pcnt_free_lunch	74
+28051	Mississippi	Holmes	pcnt_free_lunch	95
+28053	Mississippi	Humphreys	pcnt_free_lunch	94
+28055	Mississippi	Issaquena	pcnt_free_lunch	
+28057	Mississippi	Itawamba	pcnt_free_lunch	54
+28059	Mississippi	Jackson	pcnt_free_lunch	51
+28061	Mississippi	Jasper	pcnt_free_lunch	81
+28063	Mississippi	Jefferson	pcnt_free_lunch	96
+28065	Mississippi	Jefferson Davis	pcnt_free_lunch	99
+28067	Mississippi	Jones	pcnt_free_lunch	63
+28069	Mississippi	Kemper	pcnt_free_lunch	85
+28071	Mississippi	Lafayette	pcnt_free_lunch	47
+28073	Mississippi	Lamar	pcnt_free_lunch	43
+28075	Mississippi	Lauderdale	pcnt_free_lunch	65
+28077	Mississippi	Lawrence	pcnt_free_lunch	63
+28079	Mississippi	Leake	pcnt_free_lunch	76
+28081	Mississippi	Lee	pcnt_free_lunch	53
+28083	Mississippi	Leflore	pcnt_free_lunch	94
+28085	Mississippi	Lincoln	pcnt_free_lunch	55
+28087	Mississippi	Lowndes	pcnt_free_lunch	62
+28089	Mississippi	Madison	pcnt_free_lunch	43
+28091	Mississippi	Marion	pcnt_free_lunch	73
+28093	Mississippi	Marshall	pcnt_free_lunch	86
+28095	Mississippi	Monroe	pcnt_free_lunch	61
+28097	Mississippi	Montgomery	pcnt_free_lunch	72
+28099	Mississippi	Neshoba	pcnt_free_lunch	60
+28101	Mississippi	Newton	pcnt_free_lunch	59
+28103	Mississippi	Noxubee	pcnt_free_lunch	99
+28105	Mississippi	Oktibbeha	pcnt_free_lunch	64
+28107	Mississippi	Panola	pcnt_free_lunch	77
+28109	Mississippi	Pearl River	pcnt_free_lunch	61
+28111	Mississippi	Perry	pcnt_free_lunch	66
+28113	Mississippi	Pike	pcnt_free_lunch	72
+28115	Mississippi	Pontotoc	pcnt_free_lunch	53
+28117	Mississippi	Prentiss	pcnt_free_lunch	54
+28119	Mississippi	Quitman	pcnt_free_lunch	99
+28121	Mississippi	Rankin	pcnt_free_lunch	37
+28123	Mississippi	Scott	pcnt_free_lunch	71
+28125	Mississippi	Sharkey	pcnt_free_lunch	94
+28127	Mississippi	Simpson	pcnt_free_lunch	72
+28129	Mississippi	Smith	pcnt_free_lunch	57
+28131	Mississippi	Stone	pcnt_free_lunch	51
+28133	Mississippi	Sunflower	pcnt_free_lunch	89
+28135	Mississippi	Tallahatchie	pcnt_free_lunch	87
+28137	Mississippi	Tate	pcnt_free_lunch	62
+28139	Mississippi	Tippah	pcnt_free_lunch	62
+28141	Mississippi	Tishomingo	pcnt_free_lunch	56
+28143	Mississippi	Tunica	pcnt_free_lunch	93
+28145	Mississippi	Union	pcnt_free_lunch	54
+28147	Mississippi	Walthall	pcnt_free_lunch	73
+28149	Mississippi	Warren	pcnt_free_lunch	67
+28151	Mississippi	Washington	pcnt_free_lunch	88
+28153	Mississippi	Wayne	pcnt_free_lunch	73
+28155	Mississippi	Webster	pcnt_free_lunch	54
+28157	Mississippi	Wilkinson	pcnt_free_lunch	99
+28159	Mississippi	Winston	pcnt_free_lunch	76
+28161	Mississippi	Yalobusha	pcnt_free_lunch	71
+28163	Mississippi	Yazoo	pcnt_free_lunch	86
+29001	Missouri	Adair	pcnt_free_lunch	36
+29003	Missouri	Andrew	pcnt_free_lunch	24
+29005	Missouri	Atchison	pcnt_free_lunch	32
+29007	Missouri	Audrain	pcnt_free_lunch	41
+29009	Missouri	Barry	pcnt_free_lunch	48
+29011	Missouri	Barton	pcnt_free_lunch	44
+29013	Missouri	Bates	pcnt_free_lunch	41
+29015	Missouri	Benton	pcnt_free_lunch	50
+29017	Missouri	Bollinger	pcnt_free_lunch	42
+29019	Missouri	Boone	pcnt_free_lunch	31
+29021	Missouri	Buchanan	pcnt_free_lunch	46
+29023	Missouri	Butler	pcnt_free_lunch	50
+29025	Missouri	Caldwell	pcnt_free_lunch	39
+29027	Missouri	Callaway	pcnt_free_lunch	37
+29029	Missouri	Camden	pcnt_free_lunch	46
+29031	Missouri	Cape Girardeau	pcnt_free_lunch	36
+29033	Missouri	Carroll	pcnt_free_lunch	41
+29035	Missouri	Carter	pcnt_free_lunch	57
+29037	Missouri	Cass	pcnt_free_lunch	26
+29039	Missouri	Cedar	pcnt_free_lunch	46
+29041	Missouri	Chariton	pcnt_free_lunch	39
+29043	Missouri	Christian	pcnt_free_lunch	29
+29045	Missouri	Clark	pcnt_free_lunch	36
+29047	Missouri	Clay	pcnt_free_lunch	26
+29049	Missouri	Clinton	pcnt_free_lunch	29
+29051	Missouri	Cole	pcnt_free_lunch	34
+29053	Missouri	Cooper	pcnt_free_lunch	38
+29055	Missouri	Crawford	pcnt_free_lunch	48
+29057	Missouri	Dade	pcnt_free_lunch	43
+29059	Missouri	Dallas	pcnt_free_lunch	51
+29061	Missouri	Daviess	pcnt_free_lunch	39
+29063	Missouri	DeKalb	pcnt_free_lunch	29
+29065	Missouri	Dent	pcnt_free_lunch	40
+29067	Missouri	Douglas	pcnt_free_lunch	56
+29069	Missouri	Dunklin	pcnt_free_lunch	59
+29071	Missouri	Franklin	pcnt_free_lunch	33
+29073	Missouri	Gasconade	pcnt_free_lunch	34
+29075	Missouri	Gentry	pcnt_free_lunch	32
+29077	Missouri	Greene	pcnt_free_lunch	38
+29079	Missouri	Grundy	pcnt_free_lunch	40
+29081	Missouri	Harrison	pcnt_free_lunch	41
+29083	Missouri	Henry	pcnt_free_lunch	44
+29085	Missouri	Hickory	pcnt_free_lunch	50
+29087	Missouri	Holt	pcnt_free_lunch	34
+29089	Missouri	Howard	pcnt_free_lunch	34
+29091	Missouri	Howell	pcnt_free_lunch	44
+29093	Missouri	Iron	pcnt_free_lunch	55
+29095	Missouri	Jackson	pcnt_free_lunch	43
+29097	Missouri	Jasper	pcnt_free_lunch	43
+29099	Missouri	Jefferson	pcnt_free_lunch	29
+29101	Missouri	Johnson	pcnt_free_lunch	28
+29103	Missouri	Knox	pcnt_free_lunch	47
+29105	Missouri	Laclede	pcnt_free_lunch	43
+29107	Missouri	Lafayette	pcnt_free_lunch	31
+29109	Missouri	Lawrence	pcnt_free_lunch	44
+29111	Missouri	Lewis	pcnt_free_lunch	37
+29113	Missouri	Lincoln	pcnt_free_lunch	37
+29115	Missouri	Linn	pcnt_free_lunch	36
+29117	Missouri	Livingston	pcnt_free_lunch	38
+29119	Missouri	McDonald	pcnt_free_lunch	56
+29121	Missouri	Macon	pcnt_free_lunch	39
+29123	Missouri	Madison	pcnt_free_lunch	47
+29125	Missouri	Maries	pcnt_free_lunch	40
+29127	Missouri	Marion	pcnt_free_lunch	41
+29129	Missouri	Mercer	pcnt_free_lunch	35
+29131	Missouri	Miller	pcnt_free_lunch	44
+29133	Missouri	Mississippi	pcnt_free_lunch	59
+29135	Missouri	Moniteau	pcnt_free_lunch	35
+29137	Missouri	Monroe	pcnt_free_lunch	37
+29139	Missouri	Montgomery	pcnt_free_lunch	44
+29141	Missouri	Morgan	pcnt_free_lunch	51
+29143	Missouri	New Madrid	pcnt_free_lunch	53
+29145	Missouri	Newton	pcnt_free_lunch	44
+29147	Missouri	Nodaway	pcnt_free_lunch	25
+29149	Missouri	Oregon	pcnt_free_lunch	49
+29151	Missouri	Osage	pcnt_free_lunch	23
+29153	Missouri	Ozark	pcnt_free_lunch	53
+29155	Missouri	Pemiscot	pcnt_free_lunch	61
+29157	Missouri	Perry	pcnt_free_lunch	37
+29159	Missouri	Pettis	pcnt_free_lunch	50
+29161	Missouri	Phelps	pcnt_free_lunch	41
+29163	Missouri	Pike	pcnt_free_lunch	38
+29165	Missouri	Platte	pcnt_free_lunch	19
+29167	Missouri	Polk	pcnt_free_lunch	41
+29169	Missouri	Pulaski	pcnt_free_lunch	29
+29171	Missouri	Putnam	pcnt_free_lunch	37
+29173	Missouri	Ralls	pcnt_free_lunch	31
+29175	Missouri	Randolph	pcnt_free_lunch	43
+29177	Missouri	Ray	pcnt_free_lunch	29
+29179	Missouri	Reynolds	pcnt_free_lunch	54
+29181	Missouri	Ripley	pcnt_free_lunch	58
+29183	Missouri	St. Charles	pcnt_free_lunch	16
+29185	Missouri	St. Clair	pcnt_free_lunch	45
+29186	Missouri	Ste. Genevieve	pcnt_free_lunch	37
+29187	Missouri	St. Francois	pcnt_free_lunch	45
+29189	Missouri	St. Louis	pcnt_free_lunch	30
+29195	Missouri	Saline	pcnt_free_lunch	45
+29197	Missouri	Schuyler	pcnt_free_lunch	44
+29199	Missouri	Scotland	pcnt_free_lunch	43
+29201	Missouri	Scott	pcnt_free_lunch	48
+29203	Missouri	Shannon	pcnt_free_lunch	60
+29205	Missouri	Shelby	pcnt_free_lunch	32
+29207	Missouri	Stoddard	pcnt_free_lunch	44
+29209	Missouri	Stone	pcnt_free_lunch	45
+29211	Missouri	Sullivan	pcnt_free_lunch	50
+29213	Missouri	Taney	pcnt_free_lunch	48
+29215	Missouri	Texas	pcnt_free_lunch	44
+29217	Missouri	Vernon	pcnt_free_lunch	41
+29219	Missouri	Warren	pcnt_free_lunch	39
+29221	Missouri	Washington	pcnt_free_lunch	52
+29223	Missouri	Wayne	pcnt_free_lunch	54
+29225	Missouri	Webster	pcnt_free_lunch	38
+29227	Missouri	Worth	pcnt_free_lunch	36
+29229	Missouri	Wright	pcnt_free_lunch	54
+29510	Missouri	St. Louis City	pcnt_free_lunch	76
+30001	Montana	Beaverhead	pcnt_free_lunch	22
+30003	Montana	Big Horn	pcnt_free_lunch	65
+30005	Montana	Blaine	pcnt_free_lunch	72
+30007	Montana	Broadwater	pcnt_free_lunch	33
+30009	Montana	Carbon	pcnt_free_lunch	19
+30011	Montana	Carter	pcnt_free_lunch	17
+30013	Montana	Cascade	pcnt_free_lunch	30
+30015	Montana	Chouteau	pcnt_free_lunch	33
+30017	Montana	Custer	pcnt_free_lunch	22
+30019	Montana	Daniels	pcnt_free_lunch	19
+30021	Montana	Dawson	pcnt_free_lunch	19
+30023	Montana	Deer Lodge	pcnt_free_lunch	34
+30025	Montana	Fallon	pcnt_free_lunch	15
+30027	Montana	Fergus	pcnt_free_lunch	28
+30029	Montana	Flathead	pcnt_free_lunch	30
+30031	Montana	Gallatin	pcnt_free_lunch	19
+30033	Montana	Garfield	pcnt_free_lunch	21
+30035	Montana	Glacier	pcnt_free_lunch	79
+30037	Montana	Golden Valley	pcnt_free_lunch	38
+30039	Montana	Granite	pcnt_free_lunch	14
+30041	Montana	Hill	pcnt_free_lunch	56
+30043	Montana	Jefferson	pcnt_free_lunch	19
+30045	Montana	Judith Basin	pcnt_free_lunch	34
+30047	Montana	Lake	pcnt_free_lunch	47
+30049	Montana	Lewis and Clark	pcnt_free_lunch	24
+30051	Montana	Liberty	pcnt_free_lunch	21
+30053	Montana	Lincoln	pcnt_free_lunch	37
+30055	Montana	McCone	pcnt_free_lunch	26
+30057	Montana	Madison	pcnt_free_lunch	25
+30059	Montana	Meagher	pcnt_free_lunch	42
+30061	Montana	Mineral	pcnt_free_lunch	49
+30063	Montana	Missoula	pcnt_free_lunch	34
+30065	Montana	Musselshell	pcnt_free_lunch	40
+30067	Montana	Park	pcnt_free_lunch	27
+30069	Montana	Petroleum	pcnt_free_lunch	50
+30071	Montana	Phillips	pcnt_free_lunch	35
+30073	Montana	Pondera	pcnt_free_lunch	38
+30075	Montana	Powder River	pcnt_free_lunch	16
+30077	Montana	Powell	pcnt_free_lunch	30
+30079	Montana	Prairie	pcnt_free_lunch	35
+30081	Montana	Ravalli	pcnt_free_lunch	34
+30083	Montana	Richland	pcnt_free_lunch	19
+30085	Montana	Roosevelt	pcnt_free_lunch	82
+30087	Montana	Rosebud	pcnt_free_lunch	48
+30089	Montana	Sanders	pcnt_free_lunch	54
+30091	Montana	Sheridan	pcnt_free_lunch	30
+30093	Montana	Silver Bow	pcnt_free_lunch	34
+30095	Montana	Stillwater	pcnt_free_lunch	16
+30097	Montana	Sweet Grass	pcnt_free_lunch	19
+30099	Montana	Teton	pcnt_free_lunch	24
+30101	Montana	Toole	pcnt_free_lunch	25
+30103	Montana	Treasure	pcnt_free_lunch	21
+30105	Montana	Valley	pcnt_free_lunch	36
+30107	Montana	Wheatland	pcnt_free_lunch	52
+30109	Montana	Wibaux	pcnt_free_lunch	20
+30111	Montana	Yellowstone	pcnt_free_lunch	27
+31001	Nebraska	Adams	pcnt_free_lunch	37
+31003	Nebraska	Antelope	pcnt_free_lunch	33
+31005	Nebraska	Arthur	pcnt_free_lunch	0
+31007	Nebraska	Banner	pcnt_free_lunch	40
+31009	Nebraska	Blaine	pcnt_free_lunch	39
+31011	Nebraska	Boone	pcnt_free_lunch	22
+31013	Nebraska	Box Butte	pcnt_free_lunch	37
+31015	Nebraska	Boyd	pcnt_free_lunch	35
+31017	Nebraska	Brown	pcnt_free_lunch	32
+31019	Nebraska	Buffalo	pcnt_free_lunch	29
+31021	Nebraska	Burt	pcnt_free_lunch	26
+31023	Nebraska	Butler	pcnt_free_lunch	28
+31025	Nebraska	Cass	pcnt_free_lunch	22
+31027	Nebraska	Cedar	pcnt_free_lunch	28
+31029	Nebraska	Chase	pcnt_free_lunch	30
+31031	Nebraska	Cherry	pcnt_free_lunch	36
+31033	Nebraska	Cheyenne	pcnt_free_lunch	24
+31035	Nebraska	Clay	pcnt_free_lunch	32
+31037	Nebraska	Colfax	pcnt_free_lunch	53
+31039	Nebraska	Cuming	pcnt_free_lunch	33
+31041	Nebraska	Custer	pcnt_free_lunch	28
+31043	Nebraska	Dakota	pcnt_free_lunch	49
+31045	Nebraska	Dawes	pcnt_free_lunch	35
+31047	Nebraska	Dawson	pcnt_free_lunch	49
+31049	Nebraska	Deuel	pcnt_free_lunch	31
+31051	Nebraska	Dixon	pcnt_free_lunch	21
+31053	Nebraska	Dodge	pcnt_free_lunch	37
+31055	Nebraska	Douglas	pcnt_free_lunch	39
+31057	Nebraska	Dundy	pcnt_free_lunch	28
+31059	Nebraska	Fillmore	pcnt_free_lunch	26
+31061	Nebraska	Franklin	pcnt_free_lunch	30
+31063	Nebraska	Frontier	pcnt_free_lunch	27
+31065	Nebraska	Furnas	pcnt_free_lunch	29
+31067	Nebraska	Gage	pcnt_free_lunch	28
+31069	Nebraska	Garden	pcnt_free_lunch	47
+31071	Nebraska	Garfield	pcnt_free_lunch	26
+31073	Nebraska	Gosper	pcnt_free_lunch	25
+31075	Nebraska	Grant	pcnt_free_lunch	29
+31077	Nebraska	Greeley	pcnt_free_lunch	43
+31079	Nebraska	Hall	pcnt_free_lunch	45
+31081	Nebraska	Hamilton	pcnt_free_lunch	20
+31083	Nebraska	Harlan	pcnt_free_lunch	32
+31085	Nebraska	Hayes	pcnt_free_lunch	30
+31087	Nebraska	Hitchcock	pcnt_free_lunch	42
+31089	Nebraska	Holt	pcnt_free_lunch	34
+31091	Nebraska	Hooker	pcnt_free_lunch	37
+31093	Nebraska	Howard	pcnt_free_lunch	23
+31095	Nebraska	Jefferson	pcnt_free_lunch	38
+31097	Nebraska	Johnson	pcnt_free_lunch	30
+31099	Nebraska	Kearney	pcnt_free_lunch	23
+31101	Nebraska	Keith	pcnt_free_lunch	31
+31103	Nebraska	Keya Paha	pcnt_free_lunch	30
+31105	Nebraska	Kimball	pcnt_free_lunch	33
+31107	Nebraska	Knox	pcnt_free_lunch	34
+31109	Nebraska	Lancaster	pcnt_free_lunch	33
+31111	Nebraska	Lincoln	pcnt_free_lunch	29
+31113	Nebraska	Logan	pcnt_free_lunch	27
+31115	Nebraska	Loup	pcnt_free_lunch	31
+31117	Nebraska	McPherson	pcnt_free_lunch	0
+31119	Nebraska	Madison	pcnt_free_lunch	35
+31121	Nebraska	Merrick	pcnt_free_lunch	27
+31123	Nebraska	Morrill	pcnt_free_lunch	39
+31125	Nebraska	Nance	pcnt_free_lunch	23
+31127	Nebraska	Nemaha	pcnt_free_lunch	28
+31129	Nebraska	Nuckolls	pcnt_free_lunch	22
+31131	Nebraska	Otoe	pcnt_free_lunch	30
+31133	Nebraska	Pawnee	pcnt_free_lunch	38
+31135	Nebraska	Perkins	pcnt_free_lunch	22
+31137	Nebraska	Phelps	pcnt_free_lunch	23
+31139	Nebraska	Pierce	pcnt_free_lunch	18
+31141	Nebraska	Platte	pcnt_free_lunch	36
+31143	Nebraska	Polk	pcnt_free_lunch	21
+31145	Nebraska	Red Willow	pcnt_free_lunch	29
+31147	Nebraska	Richardson	pcnt_free_lunch	39
+31149	Nebraska	Rock	pcnt_free_lunch	20
+31151	Nebraska	Saline	pcnt_free_lunch	31
+31153	Nebraska	Sarpy	pcnt_free_lunch	23
+31155	Nebraska	Saunders	pcnt_free_lunch	21
+31157	Nebraska	Scotts Bluff	pcnt_free_lunch	42
+31159	Nebraska	Seward	pcnt_free_lunch	15
+31161	Nebraska	Sheridan	pcnt_free_lunch	41
+31163	Nebraska	Sherman	pcnt_free_lunch	38
+31165	Nebraska	Sioux	pcnt_free_lunch	18
+31167	Nebraska	Stanton	pcnt_free_lunch	29
+31169	Nebraska	Thayer	pcnt_free_lunch	24
+31171	Nebraska	Thomas	pcnt_free_lunch	23
+31173	Nebraska	Thurston	pcnt_free_lunch	62
+31175	Nebraska	Valley	pcnt_free_lunch	29
+31177	Nebraska	Washington	pcnt_free_lunch	15
+31179	Nebraska	Wayne	pcnt_free_lunch	27
+31181	Nebraska	Webster	pcnt_free_lunch	29
+31183	Nebraska	Wheeler	pcnt_free_lunch	43
+31185	Nebraska	York	pcnt_free_lunch	28
+32001	Nevada	Churchill	pcnt_free_lunch	35
+32003	Nevada	Clark	pcnt_free_lunch	46
+32005	Nevada	Douglas	pcnt_free_lunch	28
+32007	Nevada	Elko	pcnt_free_lunch	25
+32009	Nevada	Esmeralda	pcnt_free_lunch	61
+32011	Nevada	Eureka	pcnt_free_lunch	17
+32013	Nevada	Humboldt	pcnt_free_lunch	31
+32015	Nevada	Lander	pcnt_free_lunch	21
+32017	Nevada	Lincoln	pcnt_free_lunch	36
+32019	Nevada	Lyon	pcnt_free_lunch	36
+32021	Nevada	Mineral	pcnt_free_lunch	41
+32023	Nevada	Nye	pcnt_free_lunch	49
+32027	Nevada	Pershing	pcnt_free_lunch	60
+32029	Nevada	Storey	pcnt_free_lunch	4
+32031	Nevada	Washoe	pcnt_free_lunch	39
+32033	Nevada	White Pine	pcnt_free_lunch	25
+32510	Nevada	Carson City	pcnt_free_lunch	38
+33001	New Hampshire	Belknap	pcnt_free_lunch	28
+33003	New Hampshire	Carroll	pcnt_free_lunch	24
+33005	New Hampshire	Cheshire	pcnt_free_lunch	27
+33007	New Hampshire	Coos	pcnt_free_lunch	33
+33009	New Hampshire	Grafton	pcnt_free_lunch	21
+33011	New Hampshire	Hillsborough	pcnt_free_lunch	22
+33013	New Hampshire	Merrimack	pcnt_free_lunch	20
+33015	New Hampshire	Rockingham	pcnt_free_lunch	10
+33017	New Hampshire	Strafford	pcnt_free_lunch	25
+33019	New Hampshire	Sullivan	pcnt_free_lunch	27
+34001	New Jersey	Atlantic	pcnt_free_lunch	38
+34003	New Jersey	Bergen	pcnt_free_lunch	13
+34005	New Jersey	Burlington	pcnt_free_lunch	16
+34007	New Jersey	Camden	pcnt_free_lunch	34
+34009	New Jersey	Cape May	pcnt_free_lunch	27
+34011	New Jersey	Cumberland	pcnt_free_lunch	48
+34013	New Jersey	Essex	pcnt_free_lunch	43
+34015	New Jersey	Gloucester	pcnt_free_lunch	18
+34017	New Jersey	Hudson	pcnt_free_lunch	59
+34019	New Jersey	Hunterdon	pcnt_free_lunch	4
+34021	New Jersey	Mercer	pcnt_free_lunch	25
+34023	New Jersey	Middlesex	pcnt_free_lunch	23
+34025	New Jersey	Monmouth	pcnt_free_lunch	16
+34027	New Jersey	Morris	pcnt_free_lunch	8
+34029	New Jersey	Ocean	pcnt_free_lunch	21
+34031	New Jersey	Passaic	pcnt_free_lunch	50
+34033	New Jersey	Salem	pcnt_free_lunch	33
+34035	New Jersey	Somerset	pcnt_free_lunch	12
+34037	New Jersey	Sussex	pcnt_free_lunch	9
+34039	New Jersey	Union	pcnt_free_lunch	38
+34041	New Jersey	Warren	pcnt_free_lunch	16
+35001	New Mexico	Bernalillo	pcnt_free_lunch	56
+35003	New Mexico	Catron	pcnt_free_lunch	63
+35005	New Mexico	Chaves	pcnt_free_lunch	77
+35006	New Mexico	Cibola	pcnt_free_lunch	62
+35007	New Mexico	Colfax	pcnt_free_lunch	53
+35009	New Mexico	Curry	pcnt_free_lunch	63
+35011	New Mexico	De Baca	pcnt_free_lunch	46
+35013	New Mexico	Dona Ana	pcnt_free_lunch	72
+35015	New Mexico	Eddy	pcnt_free_lunch	48
+35017	New Mexico	Grant	pcnt_free_lunch	66
+35019	New Mexico	Guadalupe	pcnt_free_lunch	97
+35021	New Mexico	Harding	pcnt_free_lunch	44
+35023	New Mexico	Hidalgo	pcnt_free_lunch	54
+35025	New Mexico	Lea	pcnt_free_lunch	51
+35027	New Mexico	Lincoln	pcnt_free_lunch	54
+35028	New Mexico	Los Alamos	pcnt_free_lunch	0
+35029	New Mexico	Luna	pcnt_free_lunch	99
+35031	New Mexico	McKinley	pcnt_free_lunch	76
+35033	New Mexico	Mora	pcnt_free_lunch	97
+35035	New Mexico	Otero	pcnt_free_lunch	51
+35037	New Mexico	Quay	pcnt_free_lunch	82
+35039	New Mexico	Rio Arriba	pcnt_free_lunch	86
+35041	New Mexico	Roosevelt	pcnt_free_lunch	58
+35043	New Mexico	Sandoval	pcnt_free_lunch	48
+35045	New Mexico	San Juan	pcnt_free_lunch	60
+35047	New Mexico	San Miguel	pcnt_free_lunch	77
+35049	New Mexico	Santa Fe	pcnt_free_lunch	59
+35051	New Mexico	Sierra	pcnt_free_lunch	67
+35053	New Mexico	Socorro	pcnt_free_lunch	60
+35055	New Mexico	Taos	pcnt_free_lunch	81
+35057	New Mexico	Torrance	pcnt_free_lunch	54
+35059	New Mexico	Union	pcnt_free_lunch	55
+35061	New Mexico	Valencia	pcnt_free_lunch	71
+36001	New York	Albany	pcnt_free_lunch	30
+36003	New York	Allegany	pcnt_free_lunch	37
+36005	New York	Bronx	pcnt_free_lunch	78
+36007	New York	Broome	pcnt_free_lunch	32
+36009	New York	Cattaraugus	pcnt_free_lunch	33
+36011	New York	Cayuga	pcnt_free_lunch	28
+36013	New York	Chautauqua	pcnt_free_lunch	37
+36015	New York	Chemung	pcnt_free_lunch	36
+36017	New York	Chenango	pcnt_free_lunch	37
+36019	New York	Clinton	pcnt_free_lunch	29
+36021	New York	Columbia	pcnt_free_lunch	28
+36023	New York	Cortland	pcnt_free_lunch	30
+36025	New York	Delaware	pcnt_free_lunch	36
+36027	New York	Dutchess	pcnt_free_lunch	20
+36029	New York	Erie	pcnt_free_lunch	35
+36031	New York	Essex	pcnt_free_lunch	29
+36033	New York	Franklin	pcnt_free_lunch	36
+36035	New York	Fulton	pcnt_free_lunch	34
+36037	New York	Genesee	pcnt_free_lunch	26
+36039	New York	Greene	pcnt_free_lunch	26
+36041	New York	Hamilton	pcnt_free_lunch	17
+36043	New York	Herkimer	pcnt_free_lunch	32
+36045	New York	Jefferson	pcnt_free_lunch	31
+36047	New York	Kings	pcnt_free_lunch	69
+36049	New York	Lewis	pcnt_free_lunch	30
+36051	New York	Livingston	pcnt_free_lunch	22
+36053	New York	Madison	pcnt_free_lunch	27
+36055	New York	Monroe	pcnt_free_lunch	34
+36057	New York	Montgomery	pcnt_free_lunch	33
+36059	New York	Nassau	pcnt_free_lunch	15
+36061	New York	New York	pcnt_free_lunch	63
+36063	New York	Niagara	pcnt_free_lunch	31
+36065	New York	Oneida	pcnt_free_lunch	36
+36067	New York	Onondaga	pcnt_free_lunch	32
+36069	New York	Ontario	pcnt_free_lunch	20
+36071	New York	Orange	pcnt_free_lunch	27
+36073	New York	Orleans	pcnt_free_lunch	33
+36075	New York	Oswego	pcnt_free_lunch	35
+36077	New York	Otsego	pcnt_free_lunch	27
+36079	New York	Putnam	pcnt_free_lunch	7
+36081	New York	Queens	pcnt_free_lunch	61
+36083	New York	Rensselaer	pcnt_free_lunch	27
+36085	New York	Richmond	pcnt_free_lunch	45
+36087	New York	Rockland	pcnt_free_lunch	21
+36089	New York	St. Lawrence	pcnt_free_lunch	35
+36091	New York	Saratoga	pcnt_free_lunch	12
+36093	New York	Schenectady	pcnt_free_lunch	31
+36095	New York	Schoharie	pcnt_free_lunch	27
+36097	New York	Schuyler	pcnt_free_lunch	27
+36099	New York	Seneca	pcnt_free_lunch	28
+36101	New York	Steuben	pcnt_free_lunch	35
+36103	New York	Suffolk	pcnt_free_lunch	19
+36105	New York	Sullivan	pcnt_free_lunch	36
+36107	New York	Tioga	pcnt_free_lunch	31
+36109	New York	Tompkins	pcnt_free_lunch	28
+36111	New York	Ulster	pcnt_free_lunch	25
+36113	New York	Warren	pcnt_free_lunch	22
+36115	New York	Washington	pcnt_free_lunch	29
+36117	New York	Wayne	pcnt_free_lunch	28
+36119	New York	Westchester	pcnt_free_lunch	26
+36121	New York	Wyoming	pcnt_free_lunch	23
+36123	New York	Yates	pcnt_free_lunch	36
+37001	North Carolina	Alamance	pcnt_free_lunch	44
+37003	North Carolina	Alexander	pcnt_free_lunch	42
+37005	North Carolina	Alleghany	pcnt_free_lunch	52
+37007	North Carolina	Anson	pcnt_free_lunch	0
+37009	North Carolina	Ashe	pcnt_free_lunch	34
+37011	North Carolina	Avery	pcnt_free_lunch	48
+37013	North Carolina	Beaufort	pcnt_free_lunch	53
+37015	North Carolina	Bertie	pcnt_free_lunch	68
+37017	North Carolina	Bladen	pcnt_free_lunch	63
+37019	North Carolina	Brunswick	pcnt_free_lunch	48
+37021	North Carolina	Buncombe	pcnt_free_lunch	42
+37023	North Carolina	Burke	pcnt_free_lunch	47
+37025	North Carolina	Cabarrus	pcnt_free_lunch	36
+37027	North Carolina	Caldwell	pcnt_free_lunch	49
+37029	North Carolina	Camden	pcnt_free_lunch	24
+37031	North Carolina	Carteret	pcnt_free_lunch	32
+37033	North Carolina	Caswell	pcnt_free_lunch	55
+37035	North Carolina	Catawba	pcnt_free_lunch	44
+37037	North Carolina	Chatham	pcnt_free_lunch	38
+37039	North Carolina	Cherokee	pcnt_free_lunch	51
+37041	North Carolina	Chowan	pcnt_free_lunch	1
+37043	North Carolina	Clay	pcnt_free_lunch	46
+37045	North Carolina	Cleveland	pcnt_free_lunch	50
+37047	North Carolina	Columbus	pcnt_free_lunch	60
+37049	North Carolina	Craven	pcnt_free_lunch	9
+37051	North Carolina	Cumberland	pcnt_free_lunch	47
+37053	North Carolina	Currituck	pcnt_free_lunch	25
+37055	North Carolina	Dare	pcnt_free_lunch	28
+37057	North Carolina	Davidson	pcnt_free_lunch	44
+37059	North Carolina	Davie	pcnt_free_lunch	36
+37061	North Carolina	Duplin	pcnt_free_lunch	60
+37063	North Carolina	Durham	pcnt_free_lunch	51
+37065	North Carolina	Edgecombe	pcnt_free_lunch	70
+37067	North Carolina	Forsyth	pcnt_free_lunch	47
+37069	North Carolina	Franklin	pcnt_free_lunch	50
+37071	North Carolina	Gaston	pcnt_free_lunch	6
+37073	North Carolina	Gates	pcnt_free_lunch	40
+37075	North Carolina	Graham	pcnt_free_lunch	46
+37077	North Carolina	Granville	pcnt_free_lunch	44
+37079	North Carolina	Greene	pcnt_free_lunch	65
+37081	North Carolina	Guilford	pcnt_free_lunch	46
+37083	North Carolina	Halifax	pcnt_free_lunch	47
+37085	North Carolina	Harnett	pcnt_free_lunch	46
+37087	North Carolina	Haywood	pcnt_free_lunch	45
+37089	North Carolina	Henderson	pcnt_free_lunch	43
+37091	North Carolina	Hertford	pcnt_free_lunch	33
+37093	North Carolina	Hoke	pcnt_free_lunch	43
+37095	North Carolina	Hyde	pcnt_free_lunch	52
+37097	North Carolina	Iredell	pcnt_free_lunch	32
+37099	North Carolina	Jackson	pcnt_free_lunch	45
+37101	North Carolina	Johnston	pcnt_free_lunch	38
+37103	North Carolina	Jones	pcnt_free_lunch	63
+37105	North Carolina	Lee	pcnt_free_lunch	53
+37107	North Carolina	Lenoir	pcnt_free_lunch	61
+37109	North Carolina	Lincoln	pcnt_free_lunch	36
+37111	North Carolina	McDowell	pcnt_free_lunch	50
+37113	North Carolina	Macon	pcnt_free_lunch	52
+37115	North Carolina	Madison	pcnt_free_lunch	49
+37117	North Carolina	Martin	pcnt_free_lunch	55
+37119	North Carolina	Mecklenburg	pcnt_free_lunch	46
+37121	North Carolina	Mitchell	pcnt_free_lunch	48
+37123	North Carolina	Montgomery	pcnt_free_lunch	66
+37125	North Carolina	Moore	pcnt_free_lunch	37
+37127	North Carolina	Nash	pcnt_free_lunch	54
+37129	North Carolina	New Hanover	pcnt_free_lunch	37
+37131	North Carolina	Northampton	pcnt_free_lunch	67
+37133	North Carolina	Onslow	pcnt_free_lunch	31
+37135	North Carolina	Orange	pcnt_free_lunch	25
+37137	North Carolina	Pamlico	pcnt_free_lunch	51
+37139	North Carolina	Pasquotank	pcnt_free_lunch	47
+37141	North Carolina	Pender	pcnt_free_lunch	47
+37143	North Carolina	Perquimans	pcnt_free_lunch	51
+37145	North Carolina	Person	pcnt_free_lunch	42
+37147	North Carolina	Pitt	pcnt_free_lunch	50
+37149	North Carolina	Polk	pcnt_free_lunch	44
+37151	North Carolina	Randolph	pcnt_free_lunch	47
+37153	North Carolina	Richmond	pcnt_free_lunch	63
+37155	North Carolina	Robeson	pcnt_free_lunch	74
+37157	North Carolina	Rockingham	pcnt_free_lunch	49
+37159	North Carolina	Rowan	pcnt_free_lunch	51
+37161	North Carolina	Rutherford	pcnt_free_lunch	49
+37163	North Carolina	Sampson	pcnt_free_lunch	61
+37165	North Carolina	Scotland	pcnt_free_lunch	67
+37167	North Carolina	Stanly	pcnt_free_lunch	43
+37169	North Carolina	Stokes	pcnt_free_lunch	38
+37171	North Carolina	Surry	pcnt_free_lunch	46
+37173	North Carolina	Swain	pcnt_free_lunch	44
+37175	North Carolina	Transylvania	pcnt_free_lunch	44
+37177	North Carolina	Tyrrell	pcnt_free_lunch	62
+37179	North Carolina	Union	pcnt_free_lunch	27
+37181	North Carolina	Vance	pcnt_free_lunch	70
+37183	North Carolina	Wake	pcnt_free_lunch	28
+37185	North Carolina	Warren	pcnt_free_lunch	69
+37187	North Carolina	Washington	pcnt_free_lunch	72
+37189	North Carolina	Watauga	pcnt_free_lunch	27
+37191	North Carolina	Wayne	pcnt_free_lunch	52
+37193	North Carolina	Wilkes	pcnt_free_lunch	52
+37195	North Carolina	Wilson	pcnt_free_lunch	58
+37197	North Carolina	Yadkin	pcnt_free_lunch	42
+37199	North Carolina	Yancey	pcnt_free_lunch	48
+38001	North Dakota	Adams	pcnt_free_lunch	18
+38003	North Dakota	Barnes	pcnt_free_lunch	26
+38005	North Dakota	Benson	pcnt_free_lunch	62
+38007	North Dakota	Billings	pcnt_free_lunch	5
+38009	North Dakota	Bottineau	pcnt_free_lunch	25
+38011	North Dakota	Bowman	pcnt_free_lunch	18
+38013	North Dakota	Burke	pcnt_free_lunch	17
+38015	North Dakota	Burleigh	pcnt_free_lunch	17
+38017	North Dakota	Cass	pcnt_free_lunch	22
+38019	North Dakota	Cavalier	pcnt_free_lunch	25
+38021	North Dakota	Dickey	pcnt_free_lunch	23
+38023	North Dakota	Divide	pcnt_free_lunch	29
+38025	North Dakota	Dunn	pcnt_free_lunch	19
+38027	North Dakota	Eddy	pcnt_free_lunch	30
+38029	North Dakota	Emmons	pcnt_free_lunch	30
+38031	North Dakota	Foster	pcnt_free_lunch	17
+38033	North Dakota	Golden Valley	pcnt_free_lunch	37
+38035	North Dakota	Grand Forks	pcnt_free_lunch	27
+38037	North Dakota	Grant	pcnt_free_lunch	38
+38039	North Dakota	Griggs	pcnt_free_lunch	32
+38041	North Dakota	Hettinger	pcnt_free_lunch	24
+38043	North Dakota	Kidder	pcnt_free_lunch	34
+38045	North Dakota	LaMoure	pcnt_free_lunch	32
+38047	North Dakota	Logan	pcnt_free_lunch	20
+38049	North Dakota	McHenry	pcnt_free_lunch	28
+38051	North Dakota	McIntosh	pcnt_free_lunch	26
+38053	North Dakota	McKenzie	pcnt_free_lunch	15
+38055	North Dakota	McLean	pcnt_free_lunch	22
+38057	North Dakota	Mercer	pcnt_free_lunch	18
+38059	North Dakota	Morton	pcnt_free_lunch	26
+38061	North Dakota	Mountrail	pcnt_free_lunch	38
+38063	North Dakota	Nelson	pcnt_free_lunch	28
+38065	North Dakota	Oliver	pcnt_free_lunch	24
+38067	North Dakota	Pembina	pcnt_free_lunch	27
+38069	North Dakota	Pierce	pcnt_free_lunch	23
+38071	North Dakota	Ramsey	pcnt_free_lunch	35
+38073	North Dakota	Ransom	pcnt_free_lunch	25
+38075	North Dakota	Renville	pcnt_free_lunch	23
+38077	North Dakota	Richland	pcnt_free_lunch	26
+38079	North Dakota	Rolette	pcnt_free_lunch	61
+38081	North Dakota	Sargent	pcnt_free_lunch	20
+38083	North Dakota	Sheridan	pcnt_free_lunch	52
+38085	North Dakota	Sioux	pcnt_free_lunch	77
+38087	North Dakota	Slope	pcnt_free_lunch	0
+38089	North Dakota	Stark	pcnt_free_lunch	22
+38091	North Dakota	Steele	pcnt_free_lunch	19
+38093	North Dakota	Stutsman	pcnt_free_lunch	28
+38095	North Dakota	Towner	pcnt_free_lunch	21
+38097	North Dakota	Traill	pcnt_free_lunch	19
+38099	North Dakota	Walsh	pcnt_free_lunch	32
+38101	North Dakota	Ward	pcnt_free_lunch	21
+38103	North Dakota	Wells	pcnt_free_lunch	23
+38105	North Dakota	Williams	pcnt_free_lunch	19
+39001	Ohio	Adams	pcnt_free_lunch	49
+39003	Ohio	Allen	pcnt_free_lunch	44
+39005	Ohio	Ashland	pcnt_free_lunch	33
+39007	Ohio	Ashtabula	pcnt_free_lunch	47
+39009	Ohio	Athens	pcnt_free_lunch	41
+39011	Ohio	Auglaize	pcnt_free_lunch	25
+39013	Ohio	Belmont	pcnt_free_lunch	38
+39015	Ohio	Brown	pcnt_free_lunch	43
+39017	Ohio	Butler	pcnt_free_lunch	33
+39019	Ohio	Carroll	pcnt_free_lunch	42
+39021	Ohio	Champaign	pcnt_free_lunch	33
+39023	Ohio	Clark	pcnt_free_lunch	46
+39025	Ohio	Clermont	pcnt_free_lunch	30
+39027	Ohio	Clinton	pcnt_free_lunch	38
+39029	Ohio	Columbiana	pcnt_free_lunch	41
+39031	Ohio	Coshocton	pcnt_free_lunch	45
+39033	Ohio	Crawford	pcnt_free_lunch	44
+39035	Ohio	Cuyahoga	pcnt_free_lunch	46
+39037	Ohio	Darke	pcnt_free_lunch	25
+39039	Ohio	Defiance	pcnt_free_lunch	34
+39041	Ohio	Delaware	pcnt_free_lunch	14
+39043	Ohio	Erie	pcnt_free_lunch	40
+39045	Ohio	Fairfield	pcnt_free_lunch	28
+39047	Ohio	Fayette	pcnt_free_lunch	44
+39049	Ohio	Franklin	pcnt_free_lunch	41
+39051	Ohio	Fulton	pcnt_free_lunch	30
+39053	Ohio	Gallia	pcnt_free_lunch	48
+39055	Ohio	Geauga	pcnt_free_lunch	14
+39057	Ohio	Greene	pcnt_free_lunch	25
+39059	Ohio	Guernsey	pcnt_free_lunch	49
+39061	Ohio	Hamilton	pcnt_free_lunch	39
+39063	Ohio	Hancock	pcnt_free_lunch	26
+39065	Ohio	Hardin	pcnt_free_lunch	35
+39067	Ohio	Harrison	pcnt_free_lunch	46
+39069	Ohio	Henry	pcnt_free_lunch	31
+39071	Ohio	Highland	pcnt_free_lunch	36
+39073	Ohio	Hocking	pcnt_free_lunch	51
+39075	Ohio	Holmes	pcnt_free_lunch	30
+39077	Ohio	Huron	pcnt_free_lunch	38
+39079	Ohio	Jackson	pcnt_free_lunch	53
+39081	Ohio	Jefferson	pcnt_free_lunch	50
+39083	Ohio	Knox	pcnt_free_lunch	37
+39085	Ohio	Lake	pcnt_free_lunch	26
+39087	Ohio	Lawrence	pcnt_free_lunch	42
+39089	Ohio	Licking	pcnt_free_lunch	31
+39091	Ohio	Logan	pcnt_free_lunch	36
+39093	Ohio	Lorain	pcnt_free_lunch	38
+39095	Ohio	Lucas	pcnt_free_lunch	40
+39097	Ohio	Madison	pcnt_free_lunch	29
+39099	Ohio	Mahoning	pcnt_free_lunch	43
+39101	Ohio	Marion	pcnt_free_lunch	36
+39103	Ohio	Medina	pcnt_free_lunch	16
+39105	Ohio	Meigs	pcnt_free_lunch	48
+39107	Ohio	Mercer	pcnt_free_lunch	19
+39109	Ohio	Miami	pcnt_free_lunch	30
+39111	Ohio	Monroe	pcnt_free_lunch	42
+39113	Ohio	Montgomery	pcnt_free_lunch	43
+39115	Ohio	Morgan	pcnt_free_lunch	48
+39117	Ohio	Morrow	pcnt_free_lunch	34
+39119	Ohio	Muskingum	pcnt_free_lunch	47
+39121	Ohio	Noble	pcnt_free_lunch	38
+39123	Ohio	Ottawa	pcnt_free_lunch	30
+39125	Ohio	Paulding	pcnt_free_lunch	36
+39127	Ohio	Perry	pcnt_free_lunch	45
+39129	Ohio	Pickaway	pcnt_free_lunch	37
+39131	Ohio	Pike	pcnt_free_lunch	51
+39133	Ohio	Portage	pcnt_free_lunch	29
+39135	Ohio	Preble	pcnt_free_lunch	34
+39137	Ohio	Putnam	pcnt_free_lunch	20
+39139	Ohio	Richland	pcnt_free_lunch	46
+39141	Ohio	Ross	pcnt_free_lunch	42
+39143	Ohio	Sandusky	pcnt_free_lunch	39
+39145	Ohio	Scioto	pcnt_free_lunch	53
+39147	Ohio	Seneca	pcnt_free_lunch	32
+39149	Ohio	Shelby	pcnt_free_lunch	30
+39151	Ohio	Stark	pcnt_free_lunch	39
+39153	Ohio	Summit	pcnt_free_lunch	35
+39155	Ohio	Trumbull	pcnt_free_lunch	43
+39157	Ohio	Tuscarawas	pcnt_free_lunch	35
+39159	Ohio	Union	pcnt_free_lunch	20
+39161	Ohio	Van Wert	pcnt_free_lunch	30
+39163	Ohio	Vinton	pcnt_free_lunch	60
+39165	Ohio	Warren	pcnt_free_lunch	14
+39167	Ohio	Washington	pcnt_free_lunch	39
+39169	Ohio	Wayne	pcnt_free_lunch	32
+39171	Ohio	Williams	pcnt_free_lunch	25
+39173	Ohio	Wood	pcnt_free_lunch	29
+39175	Ohio	Wyandot	pcnt_free_lunch	26
+40001	Oklahoma	Adair	pcnt_free_lunch	65
+40003	Oklahoma	Alfalfa	pcnt_free_lunch	45
+40005	Oklahoma	Atoka	pcnt_free_lunch	62
+40007	Oklahoma	Beaver	pcnt_free_lunch	46
+40009	Oklahoma	Beckham	pcnt_free_lunch	45
+40011	Oklahoma	Blaine	pcnt_free_lunch	62
+40013	Oklahoma	Bryan	pcnt_free_lunch	59
+40015	Oklahoma	Caddo	pcnt_free_lunch	66
+40017	Oklahoma	Canadian	pcnt_free_lunch	31
+40019	Oklahoma	Carter	pcnt_free_lunch	55
+40021	Oklahoma	Cherokee	pcnt_free_lunch	62
+40023	Oklahoma	Choctaw	pcnt_free_lunch	70
+40025	Oklahoma	Cimarron	pcnt_free_lunch	53
+40027	Oklahoma	Cleveland	pcnt_free_lunch	39
+40029	Oklahoma	Coal	pcnt_free_lunch	60
+40031	Oklahoma	Comanche	pcnt_free_lunch	45
+40033	Oklahoma	Cotton	pcnt_free_lunch	45
+40035	Oklahoma	Craig	pcnt_free_lunch	46
+40037	Oklahoma	Creek	pcnt_free_lunch	52
+40039	Oklahoma	Custer	pcnt_free_lunch	51
+40041	Oklahoma	Delaware	pcnt_free_lunch	60
+40043	Oklahoma	Dewey	pcnt_free_lunch	38
+40045	Oklahoma	Ellis	pcnt_free_lunch	45
+40047	Oklahoma	Garfield	pcnt_free_lunch	55
+40049	Oklahoma	Garvin	pcnt_free_lunch	52
+40051	Oklahoma	Grady	pcnt_free_lunch	42
+40053	Oklahoma	Grant	pcnt_free_lunch	43
+40055	Oklahoma	Greer	pcnt_free_lunch	51
+40057	Oklahoma	Harmon	pcnt_free_lunch	71
+40059	Oklahoma	Harper	pcnt_free_lunch	44
+40061	Oklahoma	Haskell	pcnt_free_lunch	64
+40063	Oklahoma	Hughes	pcnt_free_lunch	64
+40065	Oklahoma	Jackson	pcnt_free_lunch	49
+40067	Oklahoma	Jefferson	pcnt_free_lunch	67
+40069	Oklahoma	Johnston	pcnt_free_lunch	64
+40071	Oklahoma	Kay	pcnt_free_lunch	58
+40073	Oklahoma	Kingfisher	pcnt_free_lunch	47
+40075	Oklahoma	Kiowa	pcnt_free_lunch	58
+40077	Oklahoma	Latimer	pcnt_free_lunch	54
+40079	Oklahoma	Le Flore	pcnt_free_lunch	64
+40081	Oklahoma	Lincoln	pcnt_free_lunch	49
+40083	Oklahoma	Logan	pcnt_free_lunch	54
+40085	Oklahoma	Love	pcnt_free_lunch	59
+40087	Oklahoma	McClain	pcnt_free_lunch	36
+40089	Oklahoma	McCurtain	pcnt_free_lunch	68
+40091	Oklahoma	McIntosh	pcnt_free_lunch	63
+40093	Oklahoma	Major	pcnt_free_lunch	43
+40095	Oklahoma	Marshall	pcnt_free_lunch	70
+40097	Oklahoma	Mayes	pcnt_free_lunch	57
+40099	Oklahoma	Murray	pcnt_free_lunch	41
+40101	Oklahoma	Muskogee	pcnt_free_lunch	57
+40103	Oklahoma	Noble	pcnt_free_lunch	50
+40105	Oklahoma	Nowata	pcnt_free_lunch	51
+40107	Oklahoma	Okfuskee	pcnt_free_lunch	61
+40109	Oklahoma	Oklahoma	pcnt_free_lunch	56
+40111	Oklahoma	Okmulgee	pcnt_free_lunch	60
+40113	Oklahoma	Osage	pcnt_free_lunch	51
+40115	Oklahoma	Ottawa	pcnt_free_lunch	61
+40117	Oklahoma	Pawnee	pcnt_free_lunch	57
+40119	Oklahoma	Payne	pcnt_free_lunch	41
+40121	Oklahoma	Pittsburg	pcnt_free_lunch	58
+40123	Oklahoma	Pontotoc	pcnt_free_lunch	51
+40125	Oklahoma	Pottawatomie	pcnt_free_lunch	55
+40127	Oklahoma	Pushmataha	pcnt_free_lunch	68
+40129	Oklahoma	Roger Mills	pcnt_free_lunch	43
+40131	Oklahoma	Rogers	pcnt_free_lunch	37
+40133	Oklahoma	Seminole	pcnt_free_lunch	67
+40135	Oklahoma	Sequoyah	pcnt_free_lunch	65
+40137	Oklahoma	Stephens	pcnt_free_lunch	45
+40139	Oklahoma	Texas	pcnt_free_lunch	56
+40141	Oklahoma	Tillman	pcnt_free_lunch	70
+40143	Oklahoma	Tulsa	pcnt_free_lunch	48
+40145	Oklahoma	Wagoner	pcnt_free_lunch	44
+40147	Oklahoma	Washington	pcnt_free_lunch	43
+40149	Oklahoma	Washita	pcnt_free_lunch	57
+40151	Oklahoma	Woods	pcnt_free_lunch	37
+40153	Oklahoma	Woodward	pcnt_free_lunch	49
+41001	Oregon	Baker	pcnt_free_lunch	43
+41003	Oregon	Benton	pcnt_free_lunch	31
+41005	Oregon	Clackamas	pcnt_free_lunch	29
+41007	Oregon	Clatsop	pcnt_free_lunch	43
+41009	Oregon	Columbia	pcnt_free_lunch	36
+41011	Oregon	Coos	pcnt_free_lunch	48
+41013	Oregon	Crook	pcnt_free_lunch	53
+41015	Oregon	Curry	pcnt_free_lunch	47
+41017	Oregon	Deschutes	pcnt_free_lunch	44
+41019	Oregon	Douglas	pcnt_free_lunch	51
+41021	Oregon	Gilliam	pcnt_free_lunch	39
+41023	Oregon	Grant	pcnt_free_lunch	41
+41025	Oregon	Harney	pcnt_free_lunch	38
+41027	Oregon	Hood River	pcnt_free_lunch	50
+41029	Oregon	Jackson	pcnt_free_lunch	47
+41031	Oregon	Jefferson	pcnt_free_lunch	72
+41033	Oregon	Josephine	pcnt_free_lunch	53
+41035	Oregon	Klamath	pcnt_free_lunch	58
+41037	Oregon	Lake	pcnt_free_lunch	37
+41039	Oregon	Lane	pcnt_free_lunch	44
+41041	Oregon	Lincoln	pcnt_free_lunch	55
+41043	Oregon	Linn	pcnt_free_lunch	41
+41045	Oregon	Malheur	pcnt_free_lunch	58
+41047	Oregon	Marion	pcnt_free_lunch	54
+41049	Oregon	Morrow	pcnt_free_lunch	57
+41051	Oregon	Multnomah	pcnt_free_lunch	47
+41053	Oregon	Polk	pcnt_free_lunch	41
+41055	Oregon	Sherman	pcnt_free_lunch	46
+41057	Oregon	Tillamook	pcnt_free_lunch	49
+41059	Oregon	Umatilla	pcnt_free_lunch	55
+41061	Oregon	Union	pcnt_free_lunch	41
+41063	Oregon	Wallowa	pcnt_free_lunch	37
+41065	Oregon	Wasco	pcnt_free_lunch	52
+41067	Oregon	Washington	pcnt_free_lunch	33
+41069	Oregon	Wheeler	pcnt_free_lunch	52
+41071	Oregon	Yamhill	pcnt_free_lunch	44
+42001	Pennsylvania	Adams	pcnt_free_lunch	26
+42003	Pennsylvania	Allegheny	pcnt_free_lunch	32
+42005	Pennsylvania	Armstrong	pcnt_free_lunch	32
+42007	Pennsylvania	Beaver	pcnt_free_lunch	23
+42009	Pennsylvania	Bedford	pcnt_free_lunch	33
+42011	Pennsylvania	Berks	pcnt_free_lunch	35
+42013	Pennsylvania	Blair	pcnt_free_lunch	36
+42015	Pennsylvania	Bradford	pcnt_free_lunch	32
+42017	Pennsylvania	Bucks	pcnt_free_lunch	13
+42019	Pennsylvania	Butler	pcnt_free_lunch	17
+42021	Pennsylvania	Cambria	pcnt_free_lunch	35
+42023	Pennsylvania	Cameron	pcnt_free_lunch	19
+42025	Pennsylvania	Carbon	pcnt_free_lunch	33
+42027	Pennsylvania	Centre	pcnt_free_lunch	19
+42029	Pennsylvania	Chester	pcnt_free_lunch	16
+42031	Pennsylvania	Clarion	pcnt_free_lunch	30
+42033	Pennsylvania	Clearfield	pcnt_free_lunch	37
+42035	Pennsylvania	Clinton	pcnt_free_lunch	37
+42037	Pennsylvania	Columbia	pcnt_free_lunch	27
+42039	Pennsylvania	Crawford	pcnt_free_lunch	36
+42041	Pennsylvania	Cumberland	pcnt_free_lunch	16
+42043	Pennsylvania	Dauphin	pcnt_free_lunch	35
+42045	Pennsylvania	Delaware	pcnt_free_lunch	30
+42047	Pennsylvania	Elk	pcnt_free_lunch	30
+42049	Pennsylvania	Erie	pcnt_free_lunch	41
+42051	Pennsylvania	Fayette	pcnt_free_lunch	46
+42053	Pennsylvania	Forest	pcnt_free_lunch	33
+42055	Pennsylvania	Franklin	pcnt_free_lunch	26
+42057	Pennsylvania	Fulton	pcnt_free_lunch	32
+42059	Pennsylvania	Greene	pcnt_free_lunch	39
+42061	Pennsylvania	Huntingdon	pcnt_free_lunch	34
+42063	Pennsylvania	Indiana	pcnt_free_lunch	33
+42065	Pennsylvania	Jefferson	pcnt_free_lunch	36
+42067	Pennsylvania	Juniata	pcnt_free_lunch	30
+42069	Pennsylvania	Lackawanna	pcnt_free_lunch	35
+42071	Pennsylvania	Lancaster	pcnt_free_lunch	27
+42073	Pennsylvania	Lawrence	pcnt_free_lunch	34
+42075	Pennsylvania	Lebanon	pcnt_free_lunch	27
+42077	Pennsylvania	Lehigh	pcnt_free_lunch	37
+42079	Pennsylvania	Luzerne	pcnt_free_lunch	42
+42081	Pennsylvania	Lycoming	pcnt_free_lunch	31
+42083	Pennsylvania	McKean	pcnt_free_lunch	36
+42085	Pennsylvania	Mercer	pcnt_free_lunch	38
+42087	Pennsylvania	Mifflin	pcnt_free_lunch	36
+42089	Pennsylvania	Monroe	pcnt_free_lunch	33
+42091	Pennsylvania	Montgomery	pcnt_free_lunch	15
+42093	Pennsylvania	Montour	pcnt_free_lunch	20
+42095	Pennsylvania	Northampton	pcnt_free_lunch	27
+42097	Pennsylvania	Northumberland	pcnt_free_lunch	35
+42099	Pennsylvania	Perry	pcnt_free_lunch	26
+42101	Pennsylvania	Philadelphia	pcnt_free_lunch	75
+42103	Pennsylvania	Pike	pcnt_free_lunch	30
+42105	Pennsylvania	Potter	pcnt_free_lunch	38
+42107	Pennsylvania	Schuylkill	pcnt_free_lunch	34
+42109	Pennsylvania	Snyder	pcnt_free_lunch	26
+42111	Pennsylvania	Somerset	pcnt_free_lunch	31
+42113	Pennsylvania	Sullivan	pcnt_free_lunch	24
+42115	Pennsylvania	Susquehanna	pcnt_free_lunch	28
+42117	Pennsylvania	Tioga	pcnt_free_lunch	31
+42119	Pennsylvania	Union	pcnt_free_lunch	22
+42121	Pennsylvania	Venango	pcnt_free_lunch	39
+42123	Pennsylvania	Warren	pcnt_free_lunch	35
+42125	Pennsylvania	Washington	pcnt_free_lunch	25
+42127	Pennsylvania	Wayne	pcnt_free_lunch	33
+42129	Pennsylvania	Westmoreland	pcnt_free_lunch	24
+42131	Pennsylvania	Wyoming	pcnt_free_lunch	31
+42133	Pennsylvania	York	pcnt_free_lunch	22
+44001	Rhode Island	Bristol	pcnt_free_lunch	14
+44003	Rhode Island	Kent	pcnt_free_lunch	22
+44005	Rhode Island	Newport	pcnt_free_lunch	22
+44007	Rhode Island	Providence	pcnt_free_lunch	48
+44009	Rhode Island	Washington	pcnt_free_lunch	17
+45001	South Carolina	Abbeville	pcnt_free_lunch	51
+45003	South Carolina	Aiken	pcnt_free_lunch	49
+45005	South Carolina	Allendale	pcnt_free_lunch	90
+45007	South Carolina	Anderson	pcnt_free_lunch	43
+45009	South Carolina	Bamberg	pcnt_free_lunch	62
+45011	South Carolina	Barnwell	pcnt_free_lunch	58
+45013	South Carolina	Beaufort	pcnt_free_lunch	45
+45015	South Carolina	Berkeley	pcnt_free_lunch	47
+45017	South Carolina	Calhoun	pcnt_free_lunch	79
+45019	South Carolina	Charleston	pcnt_free_lunch	44
+45021	South Carolina	Cherokee	pcnt_free_lunch	62
+45023	South Carolina	Chester	pcnt_free_lunch	60
+45025	South Carolina	Chesterfield	pcnt_free_lunch	55
+45027	South Carolina	Clarendon	pcnt_free_lunch	63
+45029	South Carolina	Colleton	pcnt_free_lunch	71
+45031	South Carolina	Darlington	pcnt_free_lunch	66
+45033	South Carolina	Dillon	pcnt_free_lunch	73
+45035	South Carolina	Dorchester	pcnt_free_lunch	35
+45037	South Carolina	Edgefield	pcnt_free_lunch	55
+45039	South Carolina	Fairfield	pcnt_free_lunch	66
+45041	South Carolina	Florence	pcnt_free_lunch	57
+45043	South Carolina	Georgetown	pcnt_free_lunch	57
+45045	South Carolina	Greenville	pcnt_free_lunch	41
+45047	South Carolina	Greenwood	pcnt_free_lunch	51
+45049	South Carolina	Hampton	pcnt_free_lunch	69
+45051	South Carolina	Horry	pcnt_free_lunch	56
+45053	South Carolina	Jasper	pcnt_free_lunch	65
+45055	South Carolina	Kershaw	pcnt_free_lunch	48
+45057	South Carolina	Lancaster	pcnt_free_lunch	50
+45059	South Carolina	Laurens	pcnt_free_lunch	61
+45061	South Carolina	Lee	pcnt_free_lunch	83
+45063	South Carolina	Lexington	pcnt_free_lunch	38
+45065	South Carolina	McCormick	pcnt_free_lunch	59
+45067	South Carolina	Marion	pcnt_free_lunch	77
+45069	South Carolina	Marlboro	pcnt_free_lunch	71
+45071	South Carolina	Newberry	pcnt_free_lunch	58
+45073	South Carolina	Oconee	pcnt_free_lunch	48
+45075	South Carolina	Orangeburg	pcnt_free_lunch	64
+45077	South Carolina	Pickens	pcnt_free_lunch	37
+45079	South Carolina	Richland	pcnt_free_lunch	42
+45081	South Carolina	Saluda	pcnt_free_lunch	62
+45083	South Carolina	Spartanburg	pcnt_free_lunch	45
+45085	South Carolina	Sumter	pcnt_free_lunch	60
+45087	South Carolina	Union	pcnt_free_lunch	57
+45089	South Carolina	Williamsburg	pcnt_free_lunch	85
+45091	South Carolina	York	pcnt_free_lunch	35
+46003	South Dakota	Aurora	pcnt_free_lunch	26
+46005	South Dakota	Beadle	pcnt_free_lunch	36
+46007	South Dakota	Bennett	pcnt_free_lunch	53
+46009	South Dakota	Bon Homme	pcnt_free_lunch	23
+46011	South Dakota	Brookings	pcnt_free_lunch	16
+46013	South Dakota	Brown	pcnt_free_lunch	22
+46015	South Dakota	Brule	pcnt_free_lunch	37
+46017	South Dakota	Buffalo	pcnt_free_lunch	
+46019	South Dakota	Butte	pcnt_free_lunch	34
+46021	South Dakota	Campbell	pcnt_free_lunch	16
+46023	South Dakota	Charles Mix	pcnt_free_lunch	48
+46025	South Dakota	Clark	pcnt_free_lunch	36
+46027	South Dakota	Clay	pcnt_free_lunch	26
+46029	South Dakota	Codington	pcnt_free_lunch	20
+46031	South Dakota	Corson	pcnt_free_lunch	97
+46033	South Dakota	Custer	pcnt_free_lunch	37
+46035	South Dakota	Davison	pcnt_free_lunch	22
+46037	South Dakota	Day	pcnt_free_lunch	30
+46039	South Dakota	Deuel	pcnt_free_lunch	10
+46041	South Dakota	Dewey	pcnt_free_lunch	64
+46043	South Dakota	Douglas	pcnt_free_lunch	22
+46045	South Dakota	Edmunds	pcnt_free_lunch	21
+46047	South Dakota	Fall River	pcnt_free_lunch	42
+46049	South Dakota	Faulk	pcnt_free_lunch	17
+46051	South Dakota	Grant	pcnt_free_lunch	23
+46053	South Dakota	Gregory	pcnt_free_lunch	49
+46055	South Dakota	Haakon	pcnt_free_lunch	22
+46057	South Dakota	Hamlin	pcnt_free_lunch	25
+46059	South Dakota	Hand	pcnt_free_lunch	22
+46061	South Dakota	Hanson	pcnt_free_lunch	16
+46063	South Dakota	Harding	pcnt_free_lunch	19
+46065	South Dakota	Hughes	pcnt_free_lunch	20
+46067	South Dakota	Hutchinson	pcnt_free_lunch	24
+46069	South Dakota	Hyde	pcnt_free_lunch	23
+46071	South Dakota	Jackson	pcnt_free_lunch	40
+46073	South Dakota	Jerauld	pcnt_free_lunch	35
+46075	South Dakota	Jones	pcnt_free_lunch	35
+46077	South Dakota	Kingsbury	pcnt_free_lunch	20
+46079	South Dakota	Lake	pcnt_free_lunch	18
+46081	South Dakota	Lawrence	pcnt_free_lunch	25
+46083	South Dakota	Lincoln	pcnt_free_lunch	13
+46085	South Dakota	Lyman	pcnt_free_lunch	40
+46087	South Dakota	McCook	pcnt_free_lunch	22
+46089	South Dakota	McPherson	pcnt_free_lunch	43
+46091	South Dakota	Marshall	pcnt_free_lunch	32
+46093	South Dakota	Meade	pcnt_free_lunch	28
+46095	South Dakota	Mellette	pcnt_free_lunch	92
+46097	South Dakota	Miner	pcnt_free_lunch	26
+46099	South Dakota	Minnehaha	pcnt_free_lunch	27
+46101	South Dakota	Moody	pcnt_free_lunch	28
+46103	South Dakota	Pennington	pcnt_free_lunch	29
+46105	South Dakota	Perkins	pcnt_free_lunch	23
+46107	South Dakota	Potter	pcnt_free_lunch	20
+46109	South Dakota	Roberts	pcnt_free_lunch	38
+46111	South Dakota	Sanborn	pcnt_free_lunch	37
+46113	South Dakota	Shannon	pcnt_free_lunch	98
+46115	South Dakota	Spink	pcnt_free_lunch	24
+46117	South Dakota	Stanley	pcnt_free_lunch	29
+46119	South Dakota	Sully	pcnt_free_lunch	13
+46121	South Dakota	Todd	pcnt_free_lunch	98
+46123	South Dakota	Tripp	pcnt_free_lunch	36
+46125	South Dakota	Turner	pcnt_free_lunch	21
+46127	South Dakota	Union	pcnt_free_lunch	14
+46129	South Dakota	Walworth	pcnt_free_lunch	30
+46135	South Dakota	Yankton	pcnt_free_lunch	26
+46137	South Dakota	Ziebach	pcnt_free_lunch	97
+47001	Tennessee	Anderson	pcnt_free_lunch	42
+47003	Tennessee	Bedford	pcnt_free_lunch	52
+47005	Tennessee	Benton	pcnt_free_lunch	60
+47007	Tennessee	Bledsoe	pcnt_free_lunch	63
+47009	Tennessee	Blount	pcnt_free_lunch	36
+47011	Tennessee	Bradley	pcnt_free_lunch	47
+47013	Tennessee	Campbell	pcnt_free_lunch	64
+47015	Tennessee	Cannon	pcnt_free_lunch	52
+47017	Tennessee	Carroll	pcnt_free_lunch	51
+47019	Tennessee	Carter	pcnt_free_lunch	51
+47021	Tennessee	Cheatham	pcnt_free_lunch	39
+47023	Tennessee	Chester	pcnt_free_lunch	45
+47025	Tennessee	Claiborne	pcnt_free_lunch	58
+47027	Tennessee	Clay	pcnt_free_lunch	44
+47029	Tennessee	Cocke	pcnt_free_lunch	66
+47031	Tennessee	Coffee	pcnt_free_lunch	46
+47033	Tennessee	Crockett	pcnt_free_lunch	57
+47035	Tennessee	Cumberland	pcnt_free_lunch	53
+47037	Tennessee	Davidson	pcnt_free_lunch	59
+47039	Tennessee	Decatur	pcnt_free_lunch	50
+47041	Tennessee	DeKalb	pcnt_free_lunch	57
+47043	Tennessee	Dickson	pcnt_free_lunch	43
+47045	Tennessee	Dyer	pcnt_free_lunch	57
+47047	Tennessee	Fayette	pcnt_free_lunch	71
+47049	Tennessee	Fentress	pcnt_free_lunch	64
+47051	Tennessee	Franklin	pcnt_free_lunch	48
+47053	Tennessee	Gibson	pcnt_free_lunch	48
+47055	Tennessee	Giles	pcnt_free_lunch	48
+47057	Tennessee	Grainger	pcnt_free_lunch	55
+47059	Tennessee	Greene	pcnt_free_lunch	47
+47061	Tennessee	Grundy	pcnt_free_lunch	71
+47063	Tennessee	Hamblen	pcnt_free_lunch	50
+47065	Tennessee	Hamilton	pcnt_free_lunch	48
+47067	Tennessee	Hancock	pcnt_free_lunch	73
+47069	Tennessee	Hardeman	pcnt_free_lunch	71
+47071	Tennessee	Hardin	pcnt_free_lunch	59
+47073	Tennessee	Hawkins	pcnt_free_lunch	51
+47075	Tennessee	Haywood	pcnt_free_lunch	67
+47077	Tennessee	Henderson	pcnt_free_lunch	50
+47079	Tennessee	Henry	pcnt_free_lunch	55
+47081	Tennessee	Hickman	pcnt_free_lunch	56
+47083	Tennessee	Houston	pcnt_free_lunch	49
+47085	Tennessee	Humphreys	pcnt_free_lunch	41
+47087	Tennessee	Jackson	pcnt_free_lunch	62
+47089	Tennessee	Jefferson	pcnt_free_lunch	49
+47091	Tennessee	Johnson	pcnt_free_lunch	59
+47093	Tennessee	Knox	pcnt_free_lunch	38
+47095	Tennessee	Lake	pcnt_free_lunch	66
+47097	Tennessee	Lauderdale	pcnt_free_lunch	69
+47099	Tennessee	Lawrence	pcnt_free_lunch	49
+47101	Tennessee	Lewis	pcnt_free_lunch	56
+47103	Tennessee	Lincoln	pcnt_free_lunch	41
+47105	Tennessee	Loudon	pcnt_free_lunch	47
+47107	Tennessee	McMinn	pcnt_free_lunch	51
+47109	Tennessee	McNairy	pcnt_free_lunch	52
+47111	Tennessee	Macon	pcnt_free_lunch	51
+47113	Tennessee	Madison	pcnt_free_lunch	65
+47115	Tennessee	Marion	pcnt_free_lunch	54
+47117	Tennessee	Marshall	pcnt_free_lunch	44
+47119	Tennessee	Maury	pcnt_free_lunch	43
+47121	Tennessee	Meigs	pcnt_free_lunch	63
+47123	Tennessee	Monroe	pcnt_free_lunch	62
+47125	Tennessee	Montgomery	pcnt_free_lunch	35
+47127	Tennessee	Moore	pcnt_free_lunch	42
+47129	Tennessee	Morgan	pcnt_free_lunch	51
+47131	Tennessee	Obion	pcnt_free_lunch	49
+47133	Tennessee	Overton	pcnt_free_lunch	53
+47135	Tennessee	Perry	pcnt_free_lunch	57
+47137	Tennessee	Pickett	pcnt_free_lunch	51
+47139	Tennessee	Polk	pcnt_free_lunch	55
+47141	Tennessee	Putnam	pcnt_free_lunch	48
+47143	Tennessee	Rhea	pcnt_free_lunch	59
+47145	Tennessee	Roane	pcnt_free_lunch	44
+47147	Tennessee	Robertson	pcnt_free_lunch	39
+47149	Tennessee	Rutherford	pcnt_free_lunch	34
+47151	Tennessee	Scott	pcnt_free_lunch	67
+47153	Tennessee	Sequatchie	pcnt_free_lunch	57
+47155	Tennessee	Sevier	pcnt_free_lunch	46
+47157	Tennessee	Shelby	pcnt_free_lunch	58
+47159	Tennessee	Smith	pcnt_free_lunch	47
+47161	Tennessee	Stewart	pcnt_free_lunch	45
+47163	Tennessee	Sullivan	pcnt_free_lunch	42
+47165	Tennessee	Sumner	pcnt_free_lunch	31
+47167	Tennessee	Tipton	pcnt_free_lunch	44
+47169	Tennessee	Trousdale	pcnt_free_lunch	47
+47171	Tennessee	Unicoi	pcnt_free_lunch	52
+47173	Tennessee	Union	pcnt_free_lunch	63
+47175	Tennessee	Van Buren	pcnt_free_lunch	51
+47177	Tennessee	Warren	pcnt_free_lunch	56
+47179	Tennessee	Washington	pcnt_free_lunch	39
+47181	Tennessee	Wayne	pcnt_free_lunch	55
+47183	Tennessee	Weakley	pcnt_free_lunch	48
+47185	Tennessee	White	pcnt_free_lunch	51
+47187	Tennessee	Williamson	pcnt_free_lunch	11
+47189	Tennessee	Wilson	pcnt_free_lunch	30
+48001	Texas	Anderson	pcnt_free_lunch	52
+48003	Texas	Andrews	pcnt_free_lunch	20
+48005	Texas	Angelina	pcnt_free_lunch	59
+48007	Texas	Aransas	pcnt_free_lunch	58
+48009	Texas	Archer	pcnt_free_lunch	27
+48011	Texas	Armstrong	pcnt_free_lunch	27
+48013	Texas	Atascosa	pcnt_free_lunch	60
+48015	Texas	Austin	pcnt_free_lunch	43
+48017	Texas	Bailey	pcnt_free_lunch	75
+48019	Texas	Bandera	pcnt_free_lunch	41
+48021	Texas	Bastrop	pcnt_free_lunch	58
+48023	Texas	Baylor	pcnt_free_lunch	44
+48025	Texas	Bee	pcnt_free_lunch	60
+48027	Texas	Bell	pcnt_free_lunch	43
+48029	Texas	Bexar	pcnt_free_lunch	38
+48031	Texas	Blanco	pcnt_free_lunch	39
+48033	Texas	Borden	pcnt_free_lunch	0
+48035	Texas	Bosque	pcnt_free_lunch	53
+48037	Texas	Bowie	pcnt_free_lunch	49
+48039	Texas	Brazoria	pcnt_free_lunch	39
+48041	Texas	Brazos	pcnt_free_lunch	44
+48043	Texas	Brewster	pcnt_free_lunch	39
+48045	Texas	Briscoe	pcnt_free_lunch	46
+48047	Texas	Brooks	pcnt_free_lunch	11
+48049	Texas	Brown	pcnt_free_lunch	49
+48051	Texas	Burleson	pcnt_free_lunch	49
+48053	Texas	Burnet	pcnt_free_lunch	49
+48055	Texas	Caldwell	pcnt_free_lunch	57
+48057	Texas	Calhoun	pcnt_free_lunch	56
+48059	Texas	Callahan	pcnt_free_lunch	43
+48061	Texas	Cameron	pcnt_free_lunch	17
+48063	Texas	Camp	pcnt_free_lunch	66
+48065	Texas	Carson	pcnt_free_lunch	27
+48067	Texas	Cass	pcnt_free_lunch	51
+48069	Texas	Castro	pcnt_free_lunch	49
+48071	Texas	Chambers	pcnt_free_lunch	29
+48073	Texas	Cherokee	pcnt_free_lunch	61
+48075	Texas	Childress	pcnt_free_lunch	49
+48077	Texas	Clay	pcnt_free_lunch	36
+48079	Texas	Cochran	pcnt_free_lunch	67
+48081	Texas	Coke	pcnt_free_lunch	41
+48083	Texas	Coleman	pcnt_free_lunch	55
+48085	Texas	Collin	pcnt_free_lunch	20
+48087	Texas	Collingsworth	pcnt_free_lunch	54
+48089	Texas	Colorado	pcnt_free_lunch	54
+48091	Texas	Comal	pcnt_free_lunch	30
+48093	Texas	Comanche	pcnt_free_lunch	56
+48095	Texas	Concho	pcnt_free_lunch	53
+48097	Texas	Cooke	pcnt_free_lunch	49
+48099	Texas	Coryell	pcnt_free_lunch	38
+48101	Texas	Cottle	pcnt_free_lunch	60
+48103	Texas	Crane	pcnt_free_lunch	15
+48105	Texas	Crockett	pcnt_free_lunch	44
+48107	Texas	Crosby	pcnt_free_lunch	52
+48109	Texas	Culberson	pcnt_free_lunch	65
+48111	Texas	Dallam	pcnt_free_lunch	50
+48113	Texas	Dallas	pcnt_free_lunch	64
+48115	Texas	Dawson	pcnt_free_lunch	24
+48117	Texas	Deaf Smith	pcnt_free_lunch	71
+48119	Texas	Delta	pcnt_free_lunch	55
+48121	Texas	Denton	pcnt_free_lunch	26
+48123	Texas	DeWitt	pcnt_free_lunch	55
+48125	Texas	Dickens	pcnt_free_lunch	35
+48127	Texas	Dimmit	pcnt_free_lunch	69
+48129	Texas	Donley	pcnt_free_lunch	48
+48131	Texas	Duval	pcnt_free_lunch	47
+48133	Texas	Eastland	pcnt_free_lunch	55
+48135	Texas	Ector	pcnt_free_lunch	52
+48137	Texas	Edwards	pcnt_free_lunch	57
+48139	Texas	Ellis	pcnt_free_lunch	41
+48141	Texas	El Paso	pcnt_free_lunch	59
+48143	Texas	Erath	pcnt_free_lunch	47
+48145	Texas	Falls	pcnt_free_lunch	69
+48147	Texas	Fannin	pcnt_free_lunch	47
+48149	Texas	Fayette	pcnt_free_lunch	44
+48151	Texas	Fisher	pcnt_free_lunch	45
+48153	Texas	Floyd	pcnt_free_lunch	63
+48155	Texas	Foard	pcnt_free_lunch	49
+48157	Texas	Fort Bend	pcnt_free_lunch	28
+48159	Texas	Franklin	pcnt_free_lunch	47
+48161	Texas	Freestone	pcnt_free_lunch	43
+48163	Texas	Frio	pcnt_free_lunch	59
+48165	Texas	Gaines	pcnt_free_lunch	46
+48167	Texas	Galveston	pcnt_free_lunch	39
+48169	Texas	Garza	pcnt_free_lunch	55
+48171	Texas	Gillespie	pcnt_free_lunch	41
+48173	Texas	Glasscock	pcnt_free_lunch	30
+48175	Texas	Goliad	pcnt_free_lunch	46
+48177	Texas	Gonzales	pcnt_free_lunch	67
+48179	Texas	Gray	pcnt_free_lunch	51
+48181	Texas	Grayson	pcnt_free_lunch	45
+48183	Texas	Gregg	pcnt_free_lunch	50
+48185	Texas	Grimes	pcnt_free_lunch	57
+48187	Texas	Guadalupe	pcnt_free_lunch	36
+48189	Texas	Hale	pcnt_free_lunch	62
+48191	Texas	Hall	pcnt_free_lunch	62
+48193	Texas	Hamilton	pcnt_free_lunch	34
+48195	Texas	Hansford	pcnt_free_lunch	49
+48197	Texas	Hardeman	pcnt_free_lunch	61
+48199	Texas	Hardin	pcnt_free_lunch	35
+48201	Texas	Harris	pcnt_free_lunch	47
+48203	Texas	Harrison	pcnt_free_lunch	50
+48205	Texas	Hartley	pcnt_free_lunch	46
+48207	Texas	Haskell	pcnt_free_lunch	53
+48209	Texas	Hays	pcnt_free_lunch	40
+48211	Texas	Hemphill	pcnt_free_lunch	32
+48213	Texas	Henderson	pcnt_free_lunch	55
+48215	Texas	Hidalgo	pcnt_free_lunch	10
+48217	Texas	Hill	pcnt_free_lunch	58
+48219	Texas	Hockley	pcnt_free_lunch	52
+48221	Texas	Hood	pcnt_free_lunch	38
+48223	Texas	Hopkins	pcnt_free_lunch	50
+48225	Texas	Houston	pcnt_free_lunch	60
+48227	Texas	Howard	pcnt_free_lunch	49
+48229	Texas	Hudspeth	pcnt_free_lunch	75
+48231	Texas	Hunt	pcnt_free_lunch	50
+48233	Texas	Hutchinson	pcnt_free_lunch	40
+48235	Texas	Irion	pcnt_free_lunch	33
+48237	Texas	Jack	pcnt_free_lunch	44
+48239	Texas	Jackson	pcnt_free_lunch	45
+48241	Texas	Jasper	pcnt_free_lunch	52
+48243	Texas	Jeff Davis	pcnt_free_lunch	42
+48245	Texas	Jefferson	pcnt_free_lunch	57
+48247	Texas	Jim Hogg	pcnt_free_lunch	27
+48249	Texas	Jim Wells	pcnt_free_lunch	63
+48251	Texas	Johnson	pcnt_free_lunch	42
+48253	Texas	Jones	pcnt_free_lunch	55
+48255	Texas	Karnes	pcnt_free_lunch	56
+48257	Texas	Kaufman	pcnt_free_lunch	43
+48259	Texas	Kendall	pcnt_free_lunch	24
+48261	Texas	Kenedy	pcnt_free_lunch	46
+48263	Texas	Kent	pcnt_free_lunch	37
+48265	Texas	Kerr	pcnt_free_lunch	21
+48267	Texas	Kimble	pcnt_free_lunch	50
+48269	Texas	King	pcnt_free_lunch	21
+48271	Texas	Kinney	pcnt_free_lunch	59
+48273	Texas	Kleberg	pcnt_free_lunch	63
+48275	Texas	Knox	pcnt_free_lunch	59
+48277	Texas	Lamar	pcnt_free_lunch	51
+48279	Texas	Lamb	pcnt_free_lunch	56
+48281	Texas	Lampasas	pcnt_free_lunch	45
+48283	Texas	La Salle	pcnt_free_lunch	79
+48285	Texas	Lavaca	pcnt_free_lunch	29
+48287	Texas	Lee	pcnt_free_lunch	55
+48289	Texas	Leon	pcnt_free_lunch	47
+48291	Texas	Liberty	pcnt_free_lunch	55
+48293	Texas	Limestone	pcnt_free_lunch	61
+48295	Texas	Lipscomb	pcnt_free_lunch	49
+48297	Texas	Live Oak	pcnt_free_lunch	46
+48299	Texas	Llano	pcnt_free_lunch	50
+48301	Texas	Loving	pcnt_free_lunch	
+48303	Texas	Lubbock	pcnt_free_lunch	48
+48305	Texas	Lynn	pcnt_free_lunch	48
+48307	Texas	McCulloch	pcnt_free_lunch	54
+48309	Texas	McLennan	pcnt_free_lunch	54
+48311	Texas	McMullen	pcnt_free_lunch	35
+48313	Texas	Madison	pcnt_free_lunch	62
+48315	Texas	Marion	pcnt_free_lunch	32
+48317	Texas	Martin	pcnt_free_lunch	29
+48319	Texas	Mason	pcnt_free_lunch	49
+48321	Texas	Matagorda	pcnt_free_lunch	58
+48323	Texas	Maverick	pcnt_free_lunch	1
+48325	Texas	Medina	pcnt_free_lunch	42
+48327	Texas	Menard	pcnt_free_lunch	66
+48329	Texas	Midland	pcnt_free_lunch	43
+48331	Texas	Milam	pcnt_free_lunch	58
+48333	Texas	Mills	pcnt_free_lunch	52
+48335	Texas	Mitchell	pcnt_free_lunch	51
+48337	Texas	Montague	pcnt_free_lunch	43
+48339	Texas	Montgomery	pcnt_free_lunch	36
+48341	Texas	Moore	pcnt_free_lunch	57
+48343	Texas	Morris	pcnt_free_lunch	61
+48345	Texas	Motley	pcnt_free_lunch	64
+48347	Texas	Nacogdoches	pcnt_free_lunch	58
+48349	Texas	Navarro	pcnt_free_lunch	60
+48351	Texas	Newton	pcnt_free_lunch	62
+48353	Texas	Nolan	pcnt_free_lunch	54
+48355	Texas	Nueces	pcnt_free_lunch	52
+48357	Texas	Ochiltree	pcnt_free_lunch	51
+48359	Texas	Oldham	pcnt_free_lunch	20
+48361	Texas	Orange	pcnt_free_lunch	46
+48363	Texas	Palo Pinto	pcnt_free_lunch	51
+48365	Texas	Panola	pcnt_free_lunch	39
+48367	Texas	Parker	pcnt_free_lunch	31
+48369	Texas	Parmer	pcnt_free_lunch	30
+48371	Texas	Pecos	pcnt_free_lunch	54
+48373	Texas	Polk	pcnt_free_lunch	57
+48375	Texas	Potter	pcnt_free_lunch	63
+48377	Texas	Presidio	pcnt_free_lunch	46
+48379	Texas	Rains	pcnt_free_lunch	48
+48381	Texas	Randall	pcnt_free_lunch	31
+48383	Texas	Reagan	pcnt_free_lunch	42
+48385	Texas	Real	pcnt_free_lunch	58
+48387	Texas	Red River	pcnt_free_lunch	56
+48389	Texas	Reeves	pcnt_free_lunch	64
+48391	Texas	Refugio	pcnt_free_lunch	48
+48393	Texas	Roberts	pcnt_free_lunch	18
+48395	Texas	Robertson	pcnt_free_lunch	59
+48397	Texas	Rockwall	pcnt_free_lunch	23
+48399	Texas	Runnels	pcnt_free_lunch	44
+48401	Texas	Rusk	pcnt_free_lunch	54
+48403	Texas	Sabine	pcnt_free_lunch	42
+48405	Texas	San Augustine	pcnt_free_lunch	83
+48407	Texas	San Jacinto	pcnt_free_lunch	61
+48409	Texas	San Patricio	pcnt_free_lunch	55
+48411	Texas	San Saba	pcnt_free_lunch	54
+48413	Texas	Schleicher	pcnt_free_lunch	20
+48415	Texas	Scurry	pcnt_free_lunch	45
+48417	Texas	Shackelford	pcnt_free_lunch	42
+48419	Texas	Shelby	pcnt_free_lunch	61
+48421	Texas	Sherman	pcnt_free_lunch	40
+48423	Texas	Smith	pcnt_free_lunch	52
+48425	Texas	Somervell	pcnt_free_lunch	40
+48427	Texas	Starr	pcnt_free_lunch	33
+48429	Texas	Stephens	pcnt_free_lunch	55
+48431	Texas	Sterling	pcnt_free_lunch	40
+48433	Texas	Stonewall	pcnt_free_lunch	40
+48435	Texas	Sutton	pcnt_free_lunch	41
+48437	Texas	Swisher	pcnt_free_lunch	60
+48439	Texas	Tarrant	pcnt_free_lunch	45
+48441	Texas	Taylor	pcnt_free_lunch	46
+48443	Texas	Terrell	pcnt_free_lunch	33
+48445	Texas	Terry	pcnt_free_lunch	63
+48447	Texas	Throckmorton	pcnt_free_lunch	50
+48449	Texas	Titus	pcnt_free_lunch	68
+48451	Texas	Tom Green	pcnt_free_lunch	45
+48453	Texas	Travis	pcnt_free_lunch	49
+48455	Texas	Trinity	pcnt_free_lunch	47
+48457	Texas	Tyler	pcnt_free_lunch	48
+48459	Texas	Upshur	pcnt_free_lunch	40
+48461	Texas	Upton	pcnt_free_lunch	25
+48463	Texas	Uvalde	pcnt_free_lunch	67
+48465	Texas	Val Verde	pcnt_free_lunch	62
+48467	Texas	Van Zandt	pcnt_free_lunch	45
+48469	Texas	Victoria	pcnt_free_lunch	57
+48471	Texas	Walker	pcnt_free_lunch	31
+48473	Texas	Waller	pcnt_free_lunch	64
+48475	Texas	Ward	pcnt_free_lunch	45
+48477	Texas	Washington	pcnt_free_lunch	48
+48479	Texas	Webb	pcnt_free_lunch	43
+48481	Texas	Wharton	pcnt_free_lunch	53
+48483	Texas	Wheeler	pcnt_free_lunch	40
+48485	Texas	Wichita	pcnt_free_lunch	47
+48487	Texas	Wilbarger	pcnt_free_lunch	54
+48489	Texas	Willacy	pcnt_free_lunch	10
+48491	Texas	Williamson	pcnt_free_lunch	28
+48493	Texas	Wilson	pcnt_free_lunch	37
+48495	Texas	Winkler	pcnt_free_lunch	21
+48497	Texas	Wise	pcnt_free_lunch	36
+48499	Texas	Wood	pcnt_free_lunch	48
+48501	Texas	Yoakum	pcnt_free_lunch	46
+48503	Texas	Young	pcnt_free_lunch	46
+48505	Texas	Zapata	pcnt_free_lunch	71
+48507	Texas	Zavala	pcnt_free_lunch	73
+49001	Utah	Beaver	pcnt_free_lunch	32
+49003	Utah	Box Elder	pcnt_free_lunch	31
+49005	Utah	Cache	pcnt_free_lunch	27
+49007	Utah	Carbon	pcnt_free_lunch	44
+49009	Utah	Daggett	pcnt_free_lunch	19
+49011	Utah	Davis	pcnt_free_lunch	19
+49013	Utah	Duchesne	pcnt_free_lunch	34
+49015	Utah	Emery	pcnt_free_lunch	36
+49017	Utah	Garfield	pcnt_free_lunch	41
+49019	Utah	Grand	pcnt_free_lunch	39
+49021	Utah	Iron	pcnt_free_lunch	40
+49023	Utah	Juab	pcnt_free_lunch	30
+49025	Utah	Kane	pcnt_free_lunch	31
+49027	Utah	Millard	pcnt_free_lunch	39
+49029	Utah	Morgan	pcnt_free_lunch	12
+49031	Utah	Piute	pcnt_free_lunch	58
+49033	Utah	Rich	pcnt_free_lunch	56
+49035	Utah	Salt Lake	pcnt_free_lunch	35
+49037	Utah	San Juan	pcnt_free_lunch	61
+49039	Utah	Sanpete	pcnt_free_lunch	38
+49041	Utah	Sevier	pcnt_free_lunch	38
+49043	Utah	Summit	pcnt_free_lunch	18
+49045	Utah	Tooele	pcnt_free_lunch	34
+49047	Utah	Uintah	pcnt_free_lunch	36
+49049	Utah	Utah	pcnt_free_lunch	27
+49051	Utah	Wasatch	pcnt_free_lunch	30
+49053	Utah	Washington	pcnt_free_lunch	31
+49055	Utah	Wayne	pcnt_free_lunch	33
+49057	Utah	Weber	pcnt_free_lunch	37
+50001	Vermont	Addison	pcnt_free_lunch	25
+50003	Vermont	Bennington	pcnt_free_lunch	40
+50005	Vermont	Caledonia	pcnt_free_lunch	40
+50007	Vermont	Chittenden	pcnt_free_lunch	22
+50009	Vermont	Essex	pcnt_free_lunch	44
+50011	Vermont	Franklin	pcnt_free_lunch	31
+50013	Vermont	Grand Isle	pcnt_free_lunch	51
+50015	Vermont	Lamoille	pcnt_free_lunch	32
+50017	Vermont	Orange	pcnt_free_lunch	36
+50019	Vermont	Orleans	pcnt_free_lunch	44
+50021	Vermont	Rutland	pcnt_free_lunch	36
+50023	Vermont	Washington	pcnt_free_lunch	26
+50025	Vermont	Windham	pcnt_free_lunch	34
+50027	Vermont	Windsor	pcnt_free_lunch	28
+51001	Virginia	Accomack	pcnt_free_lunch	58
+51003	Virginia	Albemarle	pcnt_free_lunch	21
+51005	Virginia	Alleghany	pcnt_free_lunch	38
+51007	Virginia	Amelia	pcnt_free_lunch	40
+51009	Virginia	Amherst	pcnt_free_lunch	38
+51011	Virginia	Appomattox	pcnt_free_lunch	39
+51013	Virginia	Arlington	pcnt_free_lunch	25
+51015	Virginia	Augusta	pcnt_free_lunch	28
+51017	Virginia	Bath	pcnt_free_lunch	30
+51019	Virginia	Bedford	pcnt_free_lunch	28
+51021	Virginia	Bland	pcnt_free_lunch	30
+51023	Virginia	Botetourt	pcnt_free_lunch	16
+51025	Virginia	Brunswick	pcnt_free_lunch	70
+51027	Virginia	Buchanan	pcnt_free_lunch	54
+51029	Virginia	Buckingham	pcnt_free_lunch	52
+51031	Virginia	Campbell	pcnt_free_lunch	31
+51033	Virginia	Caroline	pcnt_free_lunch	41
+51035	Virginia	Carroll	pcnt_free_lunch	41
+51036	Virginia	Charles City	pcnt_free_lunch	55
+51037	Virginia	Charlotte	pcnt_free_lunch	44
+51041	Virginia	Chesterfield	pcnt_free_lunch	17
+51043	Virginia	Clarke	pcnt_free_lunch	16
+51045	Virginia	Craig	pcnt_free_lunch	32
+51047	Virginia	Culpeper	pcnt_free_lunch	32
+51049	Virginia	Cumberland	pcnt_free_lunch	55
+51051	Virginia	Dickenson	pcnt_free_lunch	44
+51053	Virginia	Dinwiddie	pcnt_free_lunch	46
+51057	Virginia	Essex	pcnt_free_lunch	58
+51059	Virginia	Fairfax	pcnt_free_lunch	20
+51061	Virginia	Fauquier	pcnt_free_lunch	19
+51063	Virginia	Floyd	pcnt_free_lunch	36
+51065	Virginia	Fluvanna	pcnt_free_lunch	21
+51067	Virginia	Franklin	pcnt_free_lunch	41
+51069	Virginia	Frederick	pcnt_free_lunch	24
+51071	Virginia	Giles	pcnt_free_lunch	35
+51073	Virginia	Gloucester	pcnt_free_lunch	27
+51075	Virginia	Goochland	pcnt_free_lunch	21
+51077	Virginia	Grayson	pcnt_free_lunch	45
+51079	Virginia	Greene	pcnt_free_lunch	29
+51081	Virginia	Greensville	pcnt_free_lunch	65
+51083	Virginia	Halifax	pcnt_free_lunch	52
+51085	Virginia	Hanover	pcnt_free_lunch	9
+51087	Virginia	Henrico	pcnt_free_lunch	31
+51089	Virginia	Henry	pcnt_free_lunch	49
+51091	Virginia	Highland	pcnt_free_lunch	51
+51093	Virginia	Isle of Wight	pcnt_free_lunch	28
+51095	Virginia	James City	pcnt_free_lunch	22
+51097	Virginia	King and Queen	pcnt_free_lunch	62
+51099	Virginia	King George	pcnt_free_lunch	22
+51101	Virginia	King William	pcnt_free_lunch	28
+51103	Virginia	Lancaster	pcnt_free_lunch	64
+51105	Virginia	Lee	pcnt_free_lunch	50
+51107	Virginia	Loudoun	pcnt_free_lunch	12
+51109	Virginia	Louisa	pcnt_free_lunch	36
+51111	Virginia	Lunenburg	pcnt_free_lunch	56
+51113	Virginia	Madison	pcnt_free_lunch	28
+51115	Virginia	Mathews	pcnt_free_lunch	29
+51117	Virginia	Mecklenburg	pcnt_free_lunch	50
+51119	Virginia	Middlesex	pcnt_free_lunch	41
+51121	Virginia	Montgomery	pcnt_free_lunch	30
+51125	Virginia	Nelson	pcnt_free_lunch	39
+51127	Virginia	New Kent	pcnt_free_lunch	18
+51131	Virginia	Northampton	pcnt_free_lunch	67
+51133	Virginia	Northumberland	pcnt_free_lunch	44
+51135	Virginia	Nottoway	pcnt_free_lunch	52
+51137	Virginia	Orange	pcnt_free_lunch	31
+51139	Virginia	Page	pcnt_free_lunch	43
+51141	Virginia	Patrick	pcnt_free_lunch	48
+51143	Virginia	Pittsylvania	pcnt_free_lunch	45
+51145	Virginia	Powhatan	pcnt_free_lunch	14
+51147	Virginia	Prince Edward	pcnt_free_lunch	55
+51149	Virginia	Prince George	pcnt_free_lunch	26
+51153	Virginia	Prince William	pcnt_free_lunch	28
+51155	Virginia	Pulaski	pcnt_free_lunch	44
+51157	Virginia	Rappahannock	pcnt_free_lunch	28
+51159	Virginia	Richmond	pcnt_free_lunch	44
+51161	Virginia	Roanoke	pcnt_free_lunch	19
+51163	Virginia	Rockbridge	pcnt_free_lunch	32
+51165	Virginia	Rockingham	pcnt_free_lunch	29
+51167	Virginia	Russell	pcnt_free_lunch	44
+51169	Virginia	Scott	pcnt_free_lunch	47
+51171	Virginia	Shenandoah	pcnt_free_lunch	33
+51173	Virginia	Smyth	pcnt_free_lunch	48
+51175	Virginia	Southampton	pcnt_free_lunch	36
+51177	Virginia	Spotsylvania	pcnt_free_lunch	24
+51179	Virginia	Stafford	pcnt_free_lunch	17
+51181	Virginia	Surry	pcnt_free_lunch	48
+51183	Virginia	Sussex	pcnt_free_lunch	69
+51185	Virginia	Tazewell	pcnt_free_lunch	40
+51187	Virginia	Warren	pcnt_free_lunch	31
+51191	Virginia	Washington	pcnt_free_lunch	35
+51193	Virginia	Westmoreland	pcnt_free_lunch	56
+51195	Virginia	Wise	pcnt_free_lunch	47
+51197	Virginia	Wythe	pcnt_free_lunch	39
+51199	Virginia	York	pcnt_free_lunch	13
+51510	Virginia	Alexandria City	pcnt_free_lunch	42
+51515	Virginia	Bedford City	pcnt_free_lunch	50
+51520	Virginia	Bristol City	pcnt_free_lunch	56
+51530	Virginia	Buena Vista City	pcnt_free_lunch	32
+51540	Virginia	Charlottesville City	pcnt_free_lunch	45
+51550	Virginia	Chesapeake City	pcnt_free_lunch	26
+51570	Virginia	Colonial Heights City	pcnt_free_lunch	29
+51580	Virginia	Covington City	pcnt_free_lunch	45
+51590	Virginia	Danville City	pcnt_free_lunch	66
+51595	Virginia	Emporia City	pcnt_free_lunch	52
+51600	Virginia	Fairfax City	pcnt_free_lunch	20
+51610	Virginia	Falls Church City	pcnt_free_lunch	7
+51620	Virginia	Franklin City	pcnt_free_lunch	71
+51630	Virginia	Fredericksburg City	pcnt_free_lunch	48
+51640	Virginia	Galax City	pcnt_free_lunch	56
+51650	Virginia	Hampton City	pcnt_free_lunch	42
+51660	Virginia	Harrisonburg City	pcnt_free_lunch	59
+51670	Virginia	Hopewell City	pcnt_free_lunch	57
+51678	Virginia	Lexington City	pcnt_free_lunch	25
+51680	Virginia	Lynchburg City	pcnt_free_lunch	53
+51683	Virginia	Manassas City	pcnt_free_lunch	38
+51685	Virginia	Manassas Park City	pcnt_free_lunch	45
+51690	Virginia	Martinsville City	pcnt_free_lunch	63
+51700	Virginia	Newport News City	pcnt_free_lunch	45
+51710	Virginia	Norfolk City	pcnt_free_lunch	56
+51720	Virginia	Norton City	pcnt_free_lunch	45
+51730	Virginia	Petersburg City	pcnt_free_lunch	64
+51735	Virginia	Poquoson City	pcnt_free_lunch	10
+51740	Virginia	Portsmouth City	pcnt_free_lunch	52
+51750	Virginia	Radford City	pcnt_free_lunch	37
+51760	Virginia	Richmond City	pcnt_free_lunch	66
+51770	Virginia	Roanoke City	pcnt_free_lunch	54
+51775	Virginia	Salem City	pcnt_free_lunch	23
+51790	Virginia	Staunton City	pcnt_free_lunch	45
+51800	Virginia	Suffolk City	pcnt_free_lunch	35
+51810	Virginia	Virginia Beach City	pcnt_free_lunch	23
+51820	Virginia	Waynesboro City	pcnt_free_lunch	48
+51830	Virginia	Williamsburg City	pcnt_free_lunch	32
+51840	Virginia	Winchester City	pcnt_free_lunch	40
+53001	Washington	Adams	pcnt_free_lunch	62
+53003	Washington	Asotin	pcnt_free_lunch	44
+53005	Washington	Benton	pcnt_free_lunch	38
+53007	Washington	Chelan	pcnt_free_lunch	49
+53009	Washington	Clallam	pcnt_free_lunch	32
+53011	Washington	Clark	pcnt_free_lunch	33
+53013	Washington	Columbia	pcnt_free_lunch	45
+53015	Washington	Cowlitz	pcnt_free_lunch	42
+53017	Washington	Douglas	pcnt_free_lunch	48
+53019	Washington	Ferry	pcnt_free_lunch	46
+53021	Washington	Franklin	pcnt_free_lunch	62
+53023	Washington	Garfield	pcnt_free_lunch	33
+53025	Washington	Grant	pcnt_free_lunch	62
+53027	Washington	Grays Harbor	pcnt_free_lunch	51
+53029	Washington	Island	pcnt_free_lunch	25
+53031	Washington	Jefferson	pcnt_free_lunch	35
+53033	Washington	King	pcnt_free_lunch	24
+53035	Washington	Kitsap	pcnt_free_lunch	23
+53037	Washington	Kittitas	pcnt_free_lunch	29
+53039	Washington	Klickitat	pcnt_free_lunch	42
+53041	Washington	Lewis	pcnt_free_lunch	47
+53043	Washington	Lincoln	pcnt_free_lunch	32
+53045	Washington	Mason	pcnt_free_lunch	48
+53047	Washington	Okanogan	pcnt_free_lunch	43
+53049	Washington	Pacific	pcnt_free_lunch	41
+53051	Washington	Pend Oreille	pcnt_free_lunch	50
+53053	Washington	Pierce	pcnt_free_lunch	31
+53055	Washington	San Juan	pcnt_free_lunch	23
+53057	Washington	Skagit	pcnt_free_lunch	43
+53059	Washington	Skamania	pcnt_free_lunch	33
+53061	Washington	Snohomish	pcnt_free_lunch	25
+53063	Washington	Spokane	pcnt_free_lunch	36
+53065	Washington	Stevens	pcnt_free_lunch	34
+53067	Washington	Thurston	pcnt_free_lunch	24
+53069	Washington	Wahkiakum	pcnt_free_lunch	47
+53071	Washington	Walla Walla	pcnt_free_lunch	39
+53073	Washington	Whatcom	pcnt_free_lunch	28
+53075	Washington	Whitman	pcnt_free_lunch	24
+53077	Washington	Yakima	pcnt_free_lunch	64
+54001	West Virginia	Barbour	pcnt_free_lunch	50
+54003	West Virginia	Berkeley	pcnt_free_lunch	40
+54005	West Virginia	Boone	pcnt_free_lunch	45
+54007	West Virginia	Braxton	pcnt_free_lunch	52
+54009	West Virginia	Brooke	pcnt_free_lunch	39
+54011	West Virginia	Cabell	pcnt_free_lunch	42
+54013	West Virginia	Calhoun	pcnt_free_lunch	54
+54015	West Virginia	Clay	pcnt_free_lunch	59
+54017	West Virginia	Doddridge	pcnt_free_lunch	48
+54019	West Virginia	Fayette	pcnt_free_lunch	53
+54021	West Virginia	Gilmer	pcnt_free_lunch	45
+54023	West Virginia	Grant	pcnt_free_lunch	41
+54025	West Virginia	Greenbrier	pcnt_free_lunch	46
+54027	West Virginia	Hampshire	pcnt_free_lunch	49
+54029	West Virginia	Hancock	pcnt_free_lunch	41
+54031	West Virginia	Hardy	pcnt_free_lunch	40
+54033	West Virginia	Harrison	pcnt_free_lunch	40
+54035	West Virginia	Jackson	pcnt_free_lunch	41
+54037	West Virginia	Jefferson	pcnt_free_lunch	28
+54039	West Virginia	Kanawha	pcnt_free_lunch	44
+54041	West Virginia	Lewis	pcnt_free_lunch	46
+54043	West Virginia	Lincoln	pcnt_free_lunch	58
+54045	West Virginia	Logan	pcnt_free_lunch	50
+54047	West Virginia	McDowell	pcnt_free_lunch	70
+54049	West Virginia	Marion	pcnt_free_lunch	43
+54051	West Virginia	Marshall	pcnt_free_lunch	43
+54053	West Virginia	Mason	pcnt_free_lunch	52
+54055	West Virginia	Mercer	pcnt_free_lunch	54
+54057	West Virginia	Mineral	pcnt_free_lunch	35
+54059	West Virginia	Mingo	pcnt_free_lunch	62
+54061	West Virginia	Monongalia	pcnt_free_lunch	32
+54063	West Virginia	Monroe	pcnt_free_lunch	48
+54065	West Virginia	Morgan	pcnt_free_lunch	44
+54067	West Virginia	Nicholas	pcnt_free_lunch	46
+54069	West Virginia	Ohio	pcnt_free_lunch	40
+54071	West Virginia	Pendleton	pcnt_free_lunch	42
+54073	West Virginia	Pleasants	pcnt_free_lunch	39
+54075	West Virginia	Pocahontas	pcnt_free_lunch	48
+54077	West Virginia	Preston	pcnt_free_lunch	38
+54079	West Virginia	Putnam	pcnt_free_lunch	28
+54081	West Virginia	Raleigh	pcnt_free_lunch	44
+54083	West Virginia	Randolph	pcnt_free_lunch	47
+54085	West Virginia	Ritchie	pcnt_free_lunch	37
+54087	West Virginia	Roane	pcnt_free_lunch	49
+54089	West Virginia	Summers	pcnt_free_lunch	56
+54091	West Virginia	Taylor	pcnt_free_lunch	41
+54093	West Virginia	Tucker	pcnt_free_lunch	46
+54095	West Virginia	Tyler	pcnt_free_lunch	45
+54097	West Virginia	Upshur	pcnt_free_lunch	44
+54099	West Virginia	Wayne	pcnt_free_lunch	49
+54101	West Virginia	Webster	pcnt_free_lunch	56
+54103	West Virginia	Wetzel	pcnt_free_lunch	44
+54105	West Virginia	Wirt	pcnt_free_lunch	48
+54107	West Virginia	Wood	pcnt_free_lunch	43
+54109	West Virginia	Wyoming	pcnt_free_lunch	51
+55001	Wisconsin	Adams	pcnt_free_lunch	60
+55003	Wisconsin	Ashland	pcnt_free_lunch	49
+55005	Wisconsin	Barron	pcnt_free_lunch	37
+55007	Wisconsin	Bayfield	pcnt_free_lunch	46
+55009	Wisconsin	Brown	pcnt_free_lunch	33
+55011	Wisconsin	Buffalo	pcnt_free_lunch	26
+55013	Wisconsin	Burnett	pcnt_free_lunch	37
+55015	Wisconsin	Calumet	pcnt_free_lunch	20
+55017	Wisconsin	Chippewa	pcnt_free_lunch	31
+55019	Wisconsin	Clark	pcnt_free_lunch	36
+55021	Wisconsin	Columbia	pcnt_free_lunch	22
+55023	Wisconsin	Crawford	pcnt_free_lunch	42
+55025	Wisconsin	Dane	pcnt_free_lunch	27
+55027	Wisconsin	Dodge	pcnt_free_lunch	30
+55029	Wisconsin	Door	pcnt_free_lunch	26
+55031	Wisconsin	Douglas	pcnt_free_lunch	38
+55033	Wisconsin	Dunn	pcnt_free_lunch	33
+55035	Wisconsin	Eau Claire	pcnt_free_lunch	34
+55037	Wisconsin	Florence	pcnt_free_lunch	33
+55039	Wisconsin	Fond du Lac	pcnt_free_lunch	29
+55041	Wisconsin	Forest	pcnt_free_lunch	21
+55043	Wisconsin	Grant	pcnt_free_lunch	31
+55045	Wisconsin	Green	pcnt_free_lunch	28
+55047	Wisconsin	Green Lake	pcnt_free_lunch	31
+55049	Wisconsin	Iowa	pcnt_free_lunch	25
+55051	Wisconsin	Iron	pcnt_free_lunch	41
+55053	Wisconsin	Jackson	pcnt_free_lunch	37
+55055	Wisconsin	Jefferson	pcnt_free_lunch	27
+55057	Wisconsin	Juneau	pcnt_free_lunch	41
+55059	Wisconsin	Kenosha	pcnt_free_lunch	39
+55061	Wisconsin	Kewaunee	pcnt_free_lunch	17
+55063	Wisconsin	La Crosse	pcnt_free_lunch	27
+55065	Wisconsin	Lafayette	pcnt_free_lunch	27
+55067	Wisconsin	Langlade	pcnt_free_lunch	37
+55069	Wisconsin	Lincoln	pcnt_free_lunch	36
+55071	Wisconsin	Manitowoc	pcnt_free_lunch	25
+55073	Wisconsin	Marathon	pcnt_free_lunch	30
+55075	Wisconsin	Marinette	pcnt_free_lunch	38
+55077	Wisconsin	Marquette	pcnt_free_lunch	40
+55078	Wisconsin	Menominee	pcnt_free_lunch	78
+55079	Wisconsin	Milwaukee	pcnt_free_lunch	54
+55081	Wisconsin	Monroe	pcnt_free_lunch	35
+55083	Wisconsin	Oconto	pcnt_free_lunch	31
+55085	Wisconsin	Oneida	pcnt_free_lunch	33
+55087	Wisconsin	Outagamie	pcnt_free_lunch	23
+55089	Wisconsin	Ozaukee	pcnt_free_lunch	13
+55091	Wisconsin	Pepin	pcnt_free_lunch	30
+55093	Wisconsin	Pierce	pcnt_free_lunch	17
+55095	Wisconsin	Polk	pcnt_free_lunch	31
+55097	Wisconsin	Portage	pcnt_free_lunch	28
+55099	Wisconsin	Price	pcnt_free_lunch	37
+55101	Wisconsin	Racine	pcnt_free_lunch	42
+55103	Wisconsin	Richland	pcnt_free_lunch	40
+55105	Wisconsin	Rock	pcnt_free_lunch	41
+55107	Wisconsin	Rusk	pcnt_free_lunch	50
+55109	Wisconsin	St. Croix	pcnt_free_lunch	18
+55111	Wisconsin	Sauk	pcnt_free_lunch	32
+55113	Wisconsin	Sawyer	pcnt_free_lunch	52
+55115	Wisconsin	Shawano	pcnt_free_lunch	36
+55117	Wisconsin	Sheboygan	pcnt_free_lunch	29
+55119	Wisconsin	Taylor	pcnt_free_lunch	38
+55121	Wisconsin	Trempealeau	pcnt_free_lunch	31
+55123	Wisconsin	Vernon	pcnt_free_lunch	32
+55125	Wisconsin	Vilas	pcnt_free_lunch	37
+55127	Wisconsin	Walworth	pcnt_free_lunch	34
+55129	Wisconsin	Washburn	pcnt_free_lunch	46
+55131	Wisconsin	Washington	pcnt_free_lunch	19
+55133	Wisconsin	Waukesha	pcnt_free_lunch	13
+55135	Wisconsin	Waupaca	pcnt_free_lunch	30
+55137	Wisconsin	Waushara	pcnt_free_lunch	48
+55139	Wisconsin	Winnebago	pcnt_free_lunch	30
+55141	Wisconsin	Wood	pcnt_free_lunch	30
+56001	Wyoming	Albany	pcnt_free_lunch	22
+56003	Wyoming	Big Horn	pcnt_free_lunch	29
+56005	Wyoming	Campbell	pcnt_free_lunch	21
+56007	Wyoming	Carbon	pcnt_free_lunch	29
+56009	Wyoming	Converse	pcnt_free_lunch	23
+56011	Wyoming	Crook	pcnt_free_lunch	18
+56013	Wyoming	Fremont	pcnt_free_lunch	44
+56015	Wyoming	Goshen	pcnt_free_lunch	39
+56017	Wyoming	Hot Springs	pcnt_free_lunch	34
+56019	Wyoming	Johnson	pcnt_free_lunch	23
+56021	Wyoming	Laramie	pcnt_free_lunch	30
+56023	Wyoming	Lincoln	pcnt_free_lunch	23
+56025	Wyoming	Natrona	pcnt_free_lunch	30
+56027	Wyoming	Niobrara	pcnt_free_lunch	20
+56029	Wyoming	Park	pcnt_free_lunch	24
+56031	Wyoming	Platte	pcnt_free_lunch	22
+56033	Wyoming	Sheridan	pcnt_free_lunch	26
+56035	Wyoming	Sublette	pcnt_free_lunch	11
+56037	Wyoming	Sweetwater	pcnt_free_lunch	25
+56039	Wyoming	Teton	pcnt_free_lunch	14
+56041	Wyoming	Uinta	pcnt_free_lunch	28
+56043	Wyoming	Washakie	pcnt_free_lunch	33
+56045	Wyoming	Weston	pcnt_free_lunch	23

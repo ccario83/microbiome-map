@@ -1,340 +1,340 @@
 FIPS	State	County	Variable	pcnt_some_college
-01001	Alabama	Autauga	pcnt_some_college	54.4
-01003	Alabama	Baldwin	pcnt_some_college	62.1
-01005	Alabama	Barbour	pcnt_some_college	42.1
-01007	Alabama	Bibb	pcnt_some_college	42.4
-01009	Alabama	Blount	pcnt_some_college	43.3
-01011	Alabama	Bullock	pcnt_some_college	39.0
-01013	Alabama	Butler	pcnt_some_college	47.3
-01015	Alabama	Calhoun	pcnt_some_college	49.2
-01017	Alabama	Chambers	pcnt_some_college	46.5
-01019	Alabama	Cherokee	pcnt_some_college	45.9
-01021	Alabama	Chilton	pcnt_some_college	43.7
-01023	Alabama	Choctaw	pcnt_some_college	41.4
-01025	Alabama	Clarke	pcnt_some_college	51.1
-01027	Alabama	Clay	pcnt_some_college	41.4
-01029	Alabama	Cleburne	pcnt_some_college	43.0
-01031	Alabama	Coffee	pcnt_some_college	58.7
-01033	Alabama	Colbert	pcnt_some_college	55.0
-01035	Alabama	Conecuh	pcnt_some_college	31.5
-01037	Alabama	Coosa	pcnt_some_college	32.3
-01039	Alabama	Covington	pcnt_some_college	44.8
-01041	Alabama	Crenshaw	pcnt_some_college	42.7
-01043	Alabama	Cullman	pcnt_some_college	49.0
-01045	Alabama	Dale	pcnt_some_college	62.3
-01047	Alabama	Dallas	pcnt_some_college	44.2
-01049	Alabama	DeKalb	pcnt_some_college	39.4
-01051	Alabama	Elmore	pcnt_some_college	55.0
-01053	Alabama	Escambia	pcnt_some_college	43.7
-01055	Alabama	Etowah	pcnt_some_college	55.9
-01057	Alabama	Fayette	pcnt_some_college	39.6
-01059	Alabama	Franklin	pcnt_some_college	42.4
-01061	Alabama	Geneva	pcnt_some_college	51.5
-01063	Alabama	Greene	pcnt_some_college	36.4
-01065	Alabama	Hale	pcnt_some_college	39.8
-01067	Alabama	Henry	pcnt_some_college	51.8
-01069	Alabama	Houston	pcnt_some_college	52.4
-01071	Alabama	Jackson	pcnt_some_college	47.4
-01073	Alabama	Jefferson	pcnt_some_college	64.7
-01075	Alabama	Lamar	pcnt_some_college	41.9
-01077	Alabama	Lauderdale	pcnt_some_college	55.5
-01079	Alabama	Lawrence	pcnt_some_college	46.6
-01081	Alabama	Lee	pcnt_some_college	64.6
-01083	Alabama	Limestone	pcnt_some_college	53.0
-01085	Alabama	Lowndes	pcnt_some_college	42.2
-01087	Alabama	Macon	pcnt_some_college	50.9
-01089	Alabama	Madison	pcnt_some_college	69.0
-01091	Alabama	Marengo	pcnt_some_college	50.0
-01093	Alabama	Marion	pcnt_some_college	48.7
-01095	Alabama	Marshall	pcnt_some_college	43.2
-01097	Alabama	Mobile	pcnt_some_college	55.9
-01099	Alabama	Monroe	pcnt_some_college	37.7
-01101	Alabama	Montgomery	pcnt_some_college	60.5
-01103	Alabama	Morgan	pcnt_some_college	55.2
-01105	Alabama	Perry	pcnt_some_college	40.4
-01107	Alabama	Pickens	pcnt_some_college	40.7
-01109	Alabama	Pike	pcnt_some_college	56.3
-01111	Alabama	Randolph	pcnt_some_college	43.6
-01113	Alabama	Russell	pcnt_some_college	53.3
-01115	Alabama	St. Clair	pcnt_some_college	48.9
-01117	Alabama	Shelby	pcnt_some_college	74.1
-01119	Alabama	Sumter	pcnt_some_college	50.4
-01121	Alabama	Talladega	pcnt_some_college	46.2
-01123	Alabama	Tallapoosa	pcnt_some_college	48.1
-01125	Alabama	Tuscaloosa	pcnt_some_college	61.2
-01127	Alabama	Walker	pcnt_some_college	50.8
-01129	Alabama	Washington	pcnt_some_college	41.3
-01131	Alabama	Wilcox	pcnt_some_college	34.4
-01133	Alabama	Winston	pcnt_some_college	42.3
-02013	Alaska	Aleutians East	pcnt_some_college	42.8
-02016	Alaska	Aleutians West	pcnt_some_college	53.5
-02020	Alaska	Anchorage	pcnt_some_college	70.3
-02050	Alaska	Bethel	pcnt_some_college	41.5
-02060	Alaska	Bristol Bay	pcnt_some_college	68.9
-02068	Alaska	Denali	pcnt_some_college	75.5
-02070	Alaska	Dillingham	pcnt_some_college	49.4
-02090	Alaska	Fairbanks North Star	pcnt_some_college	67.4
-02100	Alaska	Haines	pcnt_some_college	64.6
-02110	Alaska	Juneau	pcnt_some_college	74.2
-02122	Alaska	Kenai Peninsula	pcnt_some_college	60.0
-02130	Alaska	Ketchikan Gateway	pcnt_some_college	63.6
-02150	Alaska	Kodiak Island	pcnt_some_college	68.0
-02164	Alaska	Lake and Peninsula	pcnt_some_college	59.2
-02170	Alaska	Matanuska-Susitna	pcnt_some_college	61.6
-02180	Alaska	Nome	pcnt_some_college	40.9
-02185	Alaska	North Slope	pcnt_some_college	44.6
-02188	Alaska	Northwest Arctic	pcnt_some_college	36.5
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_some_college	47.9
-02220	Alaska	Sitka	pcnt_some_college	74.5
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_some_college	64.0
-02240	Alaska	Southeast Fairbanks	pcnt_some_college	64.4
-02261	Alaska	Valdez-Cordova	pcnt_some_college	71.5
-02270	Alaska	Wade Hampton	pcnt_some_college	30.0
-02280	Alaska	Wrangell-Petersburg	pcnt_some_college	64.8
-02282	Alaska	Yakutat	pcnt_some_college	69.4
-02290	Alaska	Yukon-Koyukuk	pcnt_some_college	45.3
-04001	Arizona	Apache	pcnt_some_college	43.2
-04003	Arizona	Cochise	pcnt_some_college	62.2
-04005	Arizona	Coconino	pcnt_some_college	67.3
-04007	Arizona	Gila	pcnt_some_college	40.4
-04009	Arizona	Graham	pcnt_some_college	51.6
-04011	Arizona	Greenlee	pcnt_some_college	57.5
-04012	Arizona	La Paz	pcnt_some_college	41.1
-04013	Arizona	Maricopa	pcnt_some_college	62.1
-04015	Arizona	Mohave	pcnt_some_college	49.4
-04017	Arizona	Navajo	pcnt_some_college	51.1
-04019	Arizona	Pima	pcnt_some_college	63.6
-04021	Arizona	Pinal	pcnt_some_college	55.7
-04023	Arizona	Santa Cruz	pcnt_some_college	43.4
-04025	Arizona	Yavapai	pcnt_some_college	59.3
-04027	Arizona	Yuma	pcnt_some_college	52.3
-05001	Arkansas	Arkansas	pcnt_some_college	44.3
-05003	Arkansas	Ashley	pcnt_some_college	43.4
-05005	Arkansas	Baxter	pcnt_some_college	55.5
-05007	Arkansas	Benton	pcnt_some_college	58.4
-05009	Arkansas	Boone	pcnt_some_college	50.0
-05011	Arkansas	Bradley	pcnt_some_college	33.2
-05013	Arkansas	Calhoun	pcnt_some_college	36.6
-05015	Arkansas	Carroll	pcnt_some_college	44.0
-05017	Arkansas	Chicot	pcnt_some_college	35.8
-05019	Arkansas	Clark	pcnt_some_college	56.1
-05021	Arkansas	Clay	pcnt_some_college	42.1
-05023	Arkansas	Cleburne	pcnt_some_college	49.6
-05025	Arkansas	Cleveland	pcnt_some_college	51.3
-05027	Arkansas	Columbia	pcnt_some_college	56.6
-05029	Arkansas	Conway	pcnt_some_college	45.3
-05031	Arkansas	Craighead	pcnt_some_college	57.8
-05033	Arkansas	Crawford	pcnt_some_college	49.1
-05035	Arkansas	Crittenden	pcnt_some_college	49.5
-05037	Arkansas	Cross	pcnt_some_college	35.8
-05039	Arkansas	Dallas	pcnt_some_college	32.5
-05041	Arkansas	Desha	pcnt_some_college	45.6
-05043	Arkansas	Drew	pcnt_some_college	54.0
-05045	Arkansas	Faulkner	pcnt_some_college	62.5
-05047	Arkansas	Franklin	pcnt_some_college	49.5
-05049	Arkansas	Fulton	pcnt_some_college	45.9
-05051	Arkansas	Garland	pcnt_some_college	51.9
-05053	Arkansas	Grant	pcnt_some_college	49.4
-05055	Arkansas	Greene	pcnt_some_college	47.9
-05057	Arkansas	Hempstead	pcnt_some_college	45.7
-05059	Arkansas	Hot Spring	pcnt_some_college	48.0
-05061	Arkansas	Howard	pcnt_some_college	39.8
-05063	Arkansas	Independence	pcnt_some_college	47.3
-05065	Arkansas	Izard	pcnt_some_college	42.8
-05067	Arkansas	Jackson	pcnt_some_college	37.9
-05069	Arkansas	Jefferson	pcnt_some_college	49.5
-05071	Arkansas	Johnson	pcnt_some_college	39.1
-05073	Arkansas	Lafayette	pcnt_some_college	40.5
-05075	Arkansas	Lawrence	pcnt_some_college	41.0
-05077	Arkansas	Lee	pcnt_some_college	33.8
-05079	Arkansas	Lincoln	pcnt_some_college	31.3
-05081	Arkansas	Little River	pcnt_some_college	48.4
-05083	Arkansas	Logan	pcnt_some_college	38.6
-05085	Arkansas	Lonoke	pcnt_some_college	58.9
-05087	Arkansas	Madison	pcnt_some_college	34.5
-05089	Arkansas	Marion	pcnt_some_college	53.2
-05091	Arkansas	Miller	pcnt_some_college	46.8
-05093	Arkansas	Mississippi	pcnt_some_college	45.8
-05095	Arkansas	Monroe	pcnt_some_college	51.7
-05097	Arkansas	Montgomery	pcnt_some_college	44.7
-05099	Arkansas	Nevada	pcnt_some_college	47.2
-05101	Arkansas	Newton	pcnt_some_college	47.3
-05103	Arkansas	Ouachita	pcnt_some_college	49.6
-05105	Arkansas	Perry	pcnt_some_college	38.6
-05107	Arkansas	Phillips	pcnt_some_college	49.0
-05109	Arkansas	Pike	pcnt_some_college	44.6
-05111	Arkansas	Poinsett	pcnt_some_college	38.7
-05113	Arkansas	Polk	pcnt_some_college	50.9
-05115	Arkansas	Pope	pcnt_some_college	53.6
-05117	Arkansas	Prairie	pcnt_some_college	45.7
-05119	Arkansas	Pulaski	pcnt_some_college	65.5
-05121	Arkansas	Randolph	pcnt_some_college	50.4
-05123	Arkansas	St. Francis	pcnt_some_college	37.3
-05125	Arkansas	Saline	pcnt_some_college	59.3
-05127	Arkansas	Scott	pcnt_some_college	38.5
-05129	Arkansas	Searcy	pcnt_some_college	46.4
-05131	Arkansas	Sebastian	pcnt_some_college	52.7
-05133	Arkansas	Sevier	pcnt_some_college	36.9
-05135	Arkansas	Sharp	pcnt_some_college	51.0
-05137	Arkansas	Stone	pcnt_some_college	49.1
-05139	Arkansas	Union	pcnt_some_college	54.1
-05141	Arkansas	Van Buren	pcnt_some_college	45.6
-05143	Arkansas	Washington	pcnt_some_college	56.4
-05145	Arkansas	White	pcnt_some_college	52.4
-05147	Arkansas	Woodruff	pcnt_some_college	32.7
-05149	Arkansas	Yell	pcnt_some_college	36.4
-06001	California	Alameda	pcnt_some_college	69.2
-06003	California	Alpine	pcnt_some_college	73.4
-06005	California	Amador	pcnt_some_college	53.3
-06007	California	Butte	pcnt_some_college	65.6
-06009	California	Calaveras	pcnt_some_college	64.1
-06011	California	Colusa	pcnt_some_college	44.0
-06013	California	Contra Costa	pcnt_some_college	67.8
-06015	California	Del Norte	pcnt_some_college	45.9
-06017	California	El Dorado	pcnt_some_college	67.4
-06019	California	Fresno	pcnt_some_college	49.8
-06021	California	Glenn	pcnt_some_college	46.2
-06023	California	Humboldt	pcnt_some_college	64.8
-06025	California	Imperial	pcnt_some_college	49.5
-06027	California	Inyo	pcnt_some_college	55.2
-06029	California	Kern	pcnt_some_college	43.1
-06031	California	Kings	pcnt_some_college	46.7
-06033	California	Lake	pcnt_some_college	52.3
-06035	California	Lassen	pcnt_some_college	44.7
-06037	California	Los Angeles	pcnt_some_college	57.3
-06039	California	Madera	pcnt_some_college	40.3
-06041	California	Marin	pcnt_some_college	73.1
-06043	California	Mariposa	pcnt_some_college	62.5
-06045	California	Mendocino	pcnt_some_college	52.4
-06047	California	Merced	pcnt_some_college	42.4
-06049	California	Modoc	pcnt_some_college	58.5
-06051	California	Mono	pcnt_some_college	55.2
-06053	California	Monterey	pcnt_some_college	44.6
-06055	California	Napa	pcnt_some_college	56.2
-06057	California	Nevada	pcnt_some_college	72.0
-06059	California	Orange	pcnt_some_college	64.5
-06061	California	Placer	pcnt_some_college	76.4
-06063	California	Plumas	pcnt_some_college	58.2
-06065	California	Riverside	pcnt_some_college	51.3
-06067	California	Sacramento	pcnt_some_college	64.6
-06069	California	San Benito	pcnt_some_college	50.1
-06071	California	San Bernardino	pcnt_some_college	51.2
-06073	California	San Diego	pcnt_some_college	67.4
-06075	California	San Francisco	pcnt_some_college	82.3
-06077	California	San Joaquin	pcnt_some_college	49.5
-06079	California	San Luis Obispo	pcnt_some_college	64.0
-06081	California	San Mateo	pcnt_some_college	72.7
-06083	California	Santa Barbara	pcnt_some_college	58.4
-06085	California	Santa Clara	pcnt_some_college	73.0
-06087	California	Santa Cruz	pcnt_some_college	64.1
-06089	California	Shasta	pcnt_some_college	62.0
-06091	California	Sierra	pcnt_some_college	59.2
-06093	California	Siskiyou	pcnt_some_college	60.6
-06095	California	Solano	pcnt_some_college	62.1
-06097	California	Sonoma	pcnt_some_college	60.2
-06099	California	Stanislaus	pcnt_some_college	48.2
-06101	California	Sutter	pcnt_some_college	53.8
-06103	California	Tehama	pcnt_some_college	49.4
-06105	California	Trinity	pcnt_some_college	60.8
-06107	California	Tulare	pcnt_some_college	43.7
-06109	California	Tuolumne	pcnt_some_college	51.8
-06111	California	Ventura	pcnt_some_college	60.4
-06113	California	Yolo	pcnt_some_college	67.6
-06115	California	Yuba	pcnt_some_college	51.2
-08001	Colorado	Adams	pcnt_some_college	54.2
-08003	Colorado	Alamosa	pcnt_some_college	52.3
-08005	Colorado	Arapahoe	pcnt_some_college	68.5
-08007	Colorado	Archuleta	pcnt_some_college	48.7
-08009	Colorado	Baca	pcnt_some_college	67.8
-08011	Colorado	Bent	pcnt_some_college	31.3
-08013	Colorado	Boulder	pcnt_some_college	81.5
-08014	Colorado	Broomfield	pcnt_some_college	82.6
-08015	Colorado	Chaffee	pcnt_some_college	50.8
-08017	Colorado	Cheyenne	pcnt_some_college	63.9
-08019	Colorado	Clear Creek	pcnt_some_college	70.1
-08021	Colorado	Conejos	pcnt_some_college	50.3
-08023	Colorado	Costilla	pcnt_some_college	22.9
-08025	Colorado	Crowley	pcnt_some_college	30.2
-08027	Colorado	Custer	pcnt_some_college	51.4
-08029	Colorado	Delta	pcnt_some_college	45.5
-08031	Colorado	Denver	pcnt_some_college	68.9
-08033	Colorado	Dolores	pcnt_some_college	49.2
-08035	Colorado	Douglas	pcnt_some_college	86.8
-08037	Colorado	Eagle	pcnt_some_college	63.5
-08039	Colorado	Elbert	pcnt_some_college	71.7
-08041	Colorado	El Paso	pcnt_some_college	71.8
-08043	Colorado	Fremont	pcnt_some_college	37.2
-08045	Colorado	Garfield	pcnt_some_college	53.2
-08047	Colorado	Gilpin	pcnt_some_college	70.9
-08049	Colorado	Grand	pcnt_some_college	61.2
-08051	Colorado	Gunnison	pcnt_some_college	76.6
-08053	Colorado	Hinsdale	pcnt_some_college	69.4
-08055	Colorado	Huerfano	pcnt_some_college	42.8
-08057	Colorado	Jackson	pcnt_some_college	68.7
-08059	Colorado	Jefferson	pcnt_some_college	72.8
-08061	Colorado	Kiowa	pcnt_some_college	75.9
-08063	Colorado	Kit Carson	pcnt_some_college	55.5
-08065	Colorado	Lake	pcnt_some_college	57.7
-08067	Colorado	La Plata	pcnt_some_college	74.1
-08069	Colorado	Larimer	pcnt_some_college	78.3
-08071	Colorado	Las Animas	pcnt_some_college	56.1
-08073	Colorado	Lincoln	pcnt_some_college	32.4
-08075	Colorado	Logan	pcnt_some_college	58.0
-08077	Colorado	Mesa	pcnt_some_college	61.2
-08079	Colorado	Mineral	pcnt_some_college	63.9
-08081	Colorado	Moffat	pcnt_some_college	51.0
-08083	Colorado	Montezuma	pcnt_some_college	63.1
-08085	Colorado	Montrose	pcnt_some_college	47.7
-08087	Colorado	Morgan	pcnt_some_college	48.5
-08089	Colorado	Otero	pcnt_some_college	53.8
-08091	Colorado	Ouray	pcnt_some_college	70.7
-08093	Colorado	Park	pcnt_some_college	66.0
-08095	Colorado	Phillips	pcnt_some_college	60.1
-08097	Colorado	Pitkin	pcnt_some_college	80.1
-08099	Colorado	Prowers	pcnt_some_college	54.9
-08101	Colorado	Pueblo	pcnt_some_college	59.7
-08103	Colorado	Rio Blanco	pcnt_some_college	51.3
-08105	Colorado	Rio Grande	pcnt_some_college	55.8
-08107	Colorado	Routt	pcnt_some_college	78.7
-08109	Colorado	Saguache	pcnt_some_college	43.2
-08111	Colorado	San Juan	pcnt_some_college	71.2
-08113	Colorado	San Miguel	pcnt_some_college	73.5
-08115	Colorado	Sedgwick	pcnt_some_college	59.2
-08117	Colorado	Summit	pcnt_some_college	74.4
-08119	Colorado	Teller	pcnt_some_college	63.8
-08121	Colorado	Washington	pcnt_some_college	60.4
-08123	Colorado	Weld	pcnt_some_college	62.1
-08125	Colorado	Yuma	pcnt_some_college	57.5
-09001	Connecticut	Fairfield	pcnt_some_college	68.9
-09003	Connecticut	Hartford	pcnt_some_college	66.0
-09005	Connecticut	Litchfield	pcnt_some_college	64.9
-09007	Connecticut	Middlesex	pcnt_some_college	72.1
-09009	Connecticut	New Haven	pcnt_some_college	64.4
-09011	Connecticut	New London	pcnt_some_college	61.6
-09013	Connecticut	Tolland	pcnt_some_college	71.2
-09015	Connecticut	Windham	pcnt_some_college	52.9
+1001	Alabama	Autauga	pcnt_some_college	54.4
+1003	Alabama	Baldwin	pcnt_some_college	62.1
+1005	Alabama	Barbour	pcnt_some_college	42.1
+1007	Alabama	Bibb	pcnt_some_college	42.4
+1009	Alabama	Blount	pcnt_some_college	43.3
+1011	Alabama	Bullock	pcnt_some_college	39
+1013	Alabama	Butler	pcnt_some_college	47.3
+1015	Alabama	Calhoun	pcnt_some_college	49.2
+1017	Alabama	Chambers	pcnt_some_college	46.5
+1019	Alabama	Cherokee	pcnt_some_college	45.9
+1021	Alabama	Chilton	pcnt_some_college	43.7
+1023	Alabama	Choctaw	pcnt_some_college	41.4
+1025	Alabama	Clarke	pcnt_some_college	51.1
+1027	Alabama	Clay	pcnt_some_college	41.4
+1029	Alabama	Cleburne	pcnt_some_college	43
+1031	Alabama	Coffee	pcnt_some_college	58.7
+1033	Alabama	Colbert	pcnt_some_college	55
+1035	Alabama	Conecuh	pcnt_some_college	31.5
+1037	Alabama	Coosa	pcnt_some_college	32.3
+1039	Alabama	Covington	pcnt_some_college	44.8
+1041	Alabama	Crenshaw	pcnt_some_college	42.7
+1043	Alabama	Cullman	pcnt_some_college	49
+1045	Alabama	Dale	pcnt_some_college	62.3
+1047	Alabama	Dallas	pcnt_some_college	44.2
+1049	Alabama	DeKalb	pcnt_some_college	39.4
+1051	Alabama	Elmore	pcnt_some_college	55
+1053	Alabama	Escambia	pcnt_some_college	43.7
+1055	Alabama	Etowah	pcnt_some_college	55.9
+1057	Alabama	Fayette	pcnt_some_college	39.6
+1059	Alabama	Franklin	pcnt_some_college	42.4
+1061	Alabama	Geneva	pcnt_some_college	51.5
+1063	Alabama	Greene	pcnt_some_college	36.4
+1065	Alabama	Hale	pcnt_some_college	39.8
+1067	Alabama	Henry	pcnt_some_college	51.8
+1069	Alabama	Houston	pcnt_some_college	52.4
+1071	Alabama	Jackson	pcnt_some_college	47.4
+1073	Alabama	Jefferson	pcnt_some_college	64.7
+1075	Alabama	Lamar	pcnt_some_college	41.9
+1077	Alabama	Lauderdale	pcnt_some_college	55.5
+1079	Alabama	Lawrence	pcnt_some_college	46.6
+1081	Alabama	Lee	pcnt_some_college	64.6
+1083	Alabama	Limestone	pcnt_some_college	53
+1085	Alabama	Lowndes	pcnt_some_college	42.2
+1087	Alabama	Macon	pcnt_some_college	50.9
+1089	Alabama	Madison	pcnt_some_college	69
+1091	Alabama	Marengo	pcnt_some_college	50
+1093	Alabama	Marion	pcnt_some_college	48.7
+1095	Alabama	Marshall	pcnt_some_college	43.2
+1097	Alabama	Mobile	pcnt_some_college	55.9
+1099	Alabama	Monroe	pcnt_some_college	37.7
+1101	Alabama	Montgomery	pcnt_some_college	60.5
+1103	Alabama	Morgan	pcnt_some_college	55.2
+1105	Alabama	Perry	pcnt_some_college	40.4
+1107	Alabama	Pickens	pcnt_some_college	40.7
+1109	Alabama	Pike	pcnt_some_college	56.3
+1111	Alabama	Randolph	pcnt_some_college	43.6
+1113	Alabama	Russell	pcnt_some_college	53.3
+1115	Alabama	St. Clair	pcnt_some_college	48.9
+1117	Alabama	Shelby	pcnt_some_college	74.1
+1119	Alabama	Sumter	pcnt_some_college	50.4
+1121	Alabama	Talladega	pcnt_some_college	46.2
+1123	Alabama	Tallapoosa	pcnt_some_college	48.1
+1125	Alabama	Tuscaloosa	pcnt_some_college	61.2
+1127	Alabama	Walker	pcnt_some_college	50.8
+1129	Alabama	Washington	pcnt_some_college	41.3
+1131	Alabama	Wilcox	pcnt_some_college	34.4
+1133	Alabama	Winston	pcnt_some_college	42.3
+2013	Alaska	Aleutians East	pcnt_some_college	42.8
+2016	Alaska	Aleutians West	pcnt_some_college	53.5
+2020	Alaska	Anchorage	pcnt_some_college	70.3
+2050	Alaska	Bethel	pcnt_some_college	41.5
+2060	Alaska	Bristol Bay	pcnt_some_college	68.9
+2068	Alaska	Denali	pcnt_some_college	75.5
+2070	Alaska	Dillingham	pcnt_some_college	49.4
+2090	Alaska	Fairbanks North Star	pcnt_some_college	67.4
+2100	Alaska	Haines	pcnt_some_college	64.6
+2110	Alaska	Juneau	pcnt_some_college	74.2
+2122	Alaska	Kenai Peninsula	pcnt_some_college	60
+2130	Alaska	Ketchikan Gateway	pcnt_some_college	63.6
+2150	Alaska	Kodiak Island	pcnt_some_college	68
+2164	Alaska	Lake and Peninsula	pcnt_some_college	59.2
+2170	Alaska	Matanuska-Susitna	pcnt_some_college	61.6
+2180	Alaska	Nome	pcnt_some_college	40.9
+2185	Alaska	North Slope	pcnt_some_college	44.6
+2188	Alaska	Northwest Arctic	pcnt_some_college	36.5
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_some_college	47.9
+2220	Alaska	Sitka	pcnt_some_college	74.5
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_some_college	64
+2240	Alaska	Southeast Fairbanks	pcnt_some_college	64.4
+2261	Alaska	Valdez-Cordova	pcnt_some_college	71.5
+2270	Alaska	Wade Hampton	pcnt_some_college	30
+2280	Alaska	Wrangell-Petersburg	pcnt_some_college	64.8
+2282	Alaska	Yakutat	pcnt_some_college	69.4
+2290	Alaska	Yukon-Koyukuk	pcnt_some_college	45.3
+4001	Arizona	Apache	pcnt_some_college	43.2
+4003	Arizona	Cochise	pcnt_some_college	62.2
+4005	Arizona	Coconino	pcnt_some_college	67.3
+4007	Arizona	Gila	pcnt_some_college	40.4
+4009	Arizona	Graham	pcnt_some_college	51.6
+4011	Arizona	Greenlee	pcnt_some_college	57.5
+4012	Arizona	La Paz	pcnt_some_college	41.1
+4013	Arizona	Maricopa	pcnt_some_college	62.1
+4015	Arizona	Mohave	pcnt_some_college	49.4
+4017	Arizona	Navajo	pcnt_some_college	51.1
+4019	Arizona	Pima	pcnt_some_college	63.6
+4021	Arizona	Pinal	pcnt_some_college	55.7
+4023	Arizona	Santa Cruz	pcnt_some_college	43.4
+4025	Arizona	Yavapai	pcnt_some_college	59.3
+4027	Arizona	Yuma	pcnt_some_college	52.3
+5001	Arkansas	Arkansas	pcnt_some_college	44.3
+5003	Arkansas	Ashley	pcnt_some_college	43.4
+5005	Arkansas	Baxter	pcnt_some_college	55.5
+5007	Arkansas	Benton	pcnt_some_college	58.4
+5009	Arkansas	Boone	pcnt_some_college	50
+5011	Arkansas	Bradley	pcnt_some_college	33.2
+5013	Arkansas	Calhoun	pcnt_some_college	36.6
+5015	Arkansas	Carroll	pcnt_some_college	44
+5017	Arkansas	Chicot	pcnt_some_college	35.8
+5019	Arkansas	Clark	pcnt_some_college	56.1
+5021	Arkansas	Clay	pcnt_some_college	42.1
+5023	Arkansas	Cleburne	pcnt_some_college	49.6
+5025	Arkansas	Cleveland	pcnt_some_college	51.3
+5027	Arkansas	Columbia	pcnt_some_college	56.6
+5029	Arkansas	Conway	pcnt_some_college	45.3
+5031	Arkansas	Craighead	pcnt_some_college	57.8
+5033	Arkansas	Crawford	pcnt_some_college	49.1
+5035	Arkansas	Crittenden	pcnt_some_college	49.5
+5037	Arkansas	Cross	pcnt_some_college	35.8
+5039	Arkansas	Dallas	pcnt_some_college	32.5
+5041	Arkansas	Desha	pcnt_some_college	45.6
+5043	Arkansas	Drew	pcnt_some_college	54
+5045	Arkansas	Faulkner	pcnt_some_college	62.5
+5047	Arkansas	Franklin	pcnt_some_college	49.5
+5049	Arkansas	Fulton	pcnt_some_college	45.9
+5051	Arkansas	Garland	pcnt_some_college	51.9
+5053	Arkansas	Grant	pcnt_some_college	49.4
+5055	Arkansas	Greene	pcnt_some_college	47.9
+5057	Arkansas	Hempstead	pcnt_some_college	45.7
+5059	Arkansas	Hot Spring	pcnt_some_college	48
+5061	Arkansas	Howard	pcnt_some_college	39.8
+5063	Arkansas	Independence	pcnt_some_college	47.3
+5065	Arkansas	Izard	pcnt_some_college	42.8
+5067	Arkansas	Jackson	pcnt_some_college	37.9
+5069	Arkansas	Jefferson	pcnt_some_college	49.5
+5071	Arkansas	Johnson	pcnt_some_college	39.1
+5073	Arkansas	Lafayette	pcnt_some_college	40.5
+5075	Arkansas	Lawrence	pcnt_some_college	41
+5077	Arkansas	Lee	pcnt_some_college	33.8
+5079	Arkansas	Lincoln	pcnt_some_college	31.3
+5081	Arkansas	Little River	pcnt_some_college	48.4
+5083	Arkansas	Logan	pcnt_some_college	38.6
+5085	Arkansas	Lonoke	pcnt_some_college	58.9
+5087	Arkansas	Madison	pcnt_some_college	34.5
+5089	Arkansas	Marion	pcnt_some_college	53.2
+5091	Arkansas	Miller	pcnt_some_college	46.8
+5093	Arkansas	Mississippi	pcnt_some_college	45.8
+5095	Arkansas	Monroe	pcnt_some_college	51.7
+5097	Arkansas	Montgomery	pcnt_some_college	44.7
+5099	Arkansas	Nevada	pcnt_some_college	47.2
+5101	Arkansas	Newton	pcnt_some_college	47.3
+5103	Arkansas	Ouachita	pcnt_some_college	49.6
+5105	Arkansas	Perry	pcnt_some_college	38.6
+5107	Arkansas	Phillips	pcnt_some_college	49
+5109	Arkansas	Pike	pcnt_some_college	44.6
+5111	Arkansas	Poinsett	pcnt_some_college	38.7
+5113	Arkansas	Polk	pcnt_some_college	50.9
+5115	Arkansas	Pope	pcnt_some_college	53.6
+5117	Arkansas	Prairie	pcnt_some_college	45.7
+5119	Arkansas	Pulaski	pcnt_some_college	65.5
+5121	Arkansas	Randolph	pcnt_some_college	50.4
+5123	Arkansas	St. Francis	pcnt_some_college	37.3
+5125	Arkansas	Saline	pcnt_some_college	59.3
+5127	Arkansas	Scott	pcnt_some_college	38.5
+5129	Arkansas	Searcy	pcnt_some_college	46.4
+5131	Arkansas	Sebastian	pcnt_some_college	52.7
+5133	Arkansas	Sevier	pcnt_some_college	36.9
+5135	Arkansas	Sharp	pcnt_some_college	51
+5137	Arkansas	Stone	pcnt_some_college	49.1
+5139	Arkansas	Union	pcnt_some_college	54.1
+5141	Arkansas	Van Buren	pcnt_some_college	45.6
+5143	Arkansas	Washington	pcnt_some_college	56.4
+5145	Arkansas	White	pcnt_some_college	52.4
+5147	Arkansas	Woodruff	pcnt_some_college	32.7
+5149	Arkansas	Yell	pcnt_some_college	36.4
+6001	California	Alameda	pcnt_some_college	69.2
+6003	California	Alpine	pcnt_some_college	73.4
+6005	California	Amador	pcnt_some_college	53.3
+6007	California	Butte	pcnt_some_college	65.6
+6009	California	Calaveras	pcnt_some_college	64.1
+6011	California	Colusa	pcnt_some_college	44
+6013	California	Contra Costa	pcnt_some_college	67.8
+6015	California	Del Norte	pcnt_some_college	45.9
+6017	California	El Dorado	pcnt_some_college	67.4
+6019	California	Fresno	pcnt_some_college	49.8
+6021	California	Glenn	pcnt_some_college	46.2
+6023	California	Humboldt	pcnt_some_college	64.8
+6025	California	Imperial	pcnt_some_college	49.5
+6027	California	Inyo	pcnt_some_college	55.2
+6029	California	Kern	pcnt_some_college	43.1
+6031	California	Kings	pcnt_some_college	46.7
+6033	California	Lake	pcnt_some_college	52.3
+6035	California	Lassen	pcnt_some_college	44.7
+6037	California	Los Angeles	pcnt_some_college	57.3
+6039	California	Madera	pcnt_some_college	40.3
+6041	California	Marin	pcnt_some_college	73.1
+6043	California	Mariposa	pcnt_some_college	62.5
+6045	California	Mendocino	pcnt_some_college	52.4
+6047	California	Merced	pcnt_some_college	42.4
+6049	California	Modoc	pcnt_some_college	58.5
+6051	California	Mono	pcnt_some_college	55.2
+6053	California	Monterey	pcnt_some_college	44.6
+6055	California	Napa	pcnt_some_college	56.2
+6057	California	Nevada	pcnt_some_college	72
+6059	California	Orange	pcnt_some_college	64.5
+6061	California	Placer	pcnt_some_college	76.4
+6063	California	Plumas	pcnt_some_college	58.2
+6065	California	Riverside	pcnt_some_college	51.3
+6067	California	Sacramento	pcnt_some_college	64.6
+6069	California	San Benito	pcnt_some_college	50.1
+6071	California	San Bernardino	pcnt_some_college	51.2
+6073	California	San Diego	pcnt_some_college	67.4
+6075	California	San Francisco	pcnt_some_college	82.3
+6077	California	San Joaquin	pcnt_some_college	49.5
+6079	California	San Luis Obispo	pcnt_some_college	64
+6081	California	San Mateo	pcnt_some_college	72.7
+6083	California	Santa Barbara	pcnt_some_college	58.4
+6085	California	Santa Clara	pcnt_some_college	73
+6087	California	Santa Cruz	pcnt_some_college	64.1
+6089	California	Shasta	pcnt_some_college	62
+6091	California	Sierra	pcnt_some_college	59.2
+6093	California	Siskiyou	pcnt_some_college	60.6
+6095	California	Solano	pcnt_some_college	62.1
+6097	California	Sonoma	pcnt_some_college	60.2
+6099	California	Stanislaus	pcnt_some_college	48.2
+6101	California	Sutter	pcnt_some_college	53.8
+6103	California	Tehama	pcnt_some_college	49.4
+6105	California	Trinity	pcnt_some_college	60.8
+6107	California	Tulare	pcnt_some_college	43.7
+6109	California	Tuolumne	pcnt_some_college	51.8
+6111	California	Ventura	pcnt_some_college	60.4
+6113	California	Yolo	pcnt_some_college	67.6
+6115	California	Yuba	pcnt_some_college	51.2
+8001	Colorado	Adams	pcnt_some_college	54.2
+8003	Colorado	Alamosa	pcnt_some_college	52.3
+8005	Colorado	Arapahoe	pcnt_some_college	68.5
+8007	Colorado	Archuleta	pcnt_some_college	48.7
+8009	Colorado	Baca	pcnt_some_college	67.8
+8011	Colorado	Bent	pcnt_some_college	31.3
+8013	Colorado	Boulder	pcnt_some_college	81.5
+8014	Colorado	Broomfield	pcnt_some_college	82.6
+8015	Colorado	Chaffee	pcnt_some_college	50.8
+8017	Colorado	Cheyenne	pcnt_some_college	63.9
+8019	Colorado	Clear Creek	pcnt_some_college	70.1
+8021	Colorado	Conejos	pcnt_some_college	50.3
+8023	Colorado	Costilla	pcnt_some_college	22.9
+8025	Colorado	Crowley	pcnt_some_college	30.2
+8027	Colorado	Custer	pcnt_some_college	51.4
+8029	Colorado	Delta	pcnt_some_college	45.5
+8031	Colorado	Denver	pcnt_some_college	68.9
+8033	Colorado	Dolores	pcnt_some_college	49.2
+8035	Colorado	Douglas	pcnt_some_college	86.8
+8037	Colorado	Eagle	pcnt_some_college	63.5
+8039	Colorado	Elbert	pcnt_some_college	71.7
+8041	Colorado	El Paso	pcnt_some_college	71.8
+8043	Colorado	Fremont	pcnt_some_college	37.2
+8045	Colorado	Garfield	pcnt_some_college	53.2
+8047	Colorado	Gilpin	pcnt_some_college	70.9
+8049	Colorado	Grand	pcnt_some_college	61.2
+8051	Colorado	Gunnison	pcnt_some_college	76.6
+8053	Colorado	Hinsdale	pcnt_some_college	69.4
+8055	Colorado	Huerfano	pcnt_some_college	42.8
+8057	Colorado	Jackson	pcnt_some_college	68.7
+8059	Colorado	Jefferson	pcnt_some_college	72.8
+8061	Colorado	Kiowa	pcnt_some_college	75.9
+8063	Colorado	Kit Carson	pcnt_some_college	55.5
+8065	Colorado	Lake	pcnt_some_college	57.7
+8067	Colorado	La Plata	pcnt_some_college	74.1
+8069	Colorado	Larimer	pcnt_some_college	78.3
+8071	Colorado	Las Animas	pcnt_some_college	56.1
+8073	Colorado	Lincoln	pcnt_some_college	32.4
+8075	Colorado	Logan	pcnt_some_college	58
+8077	Colorado	Mesa	pcnt_some_college	61.2
+8079	Colorado	Mineral	pcnt_some_college	63.9
+8081	Colorado	Moffat	pcnt_some_college	51
+8083	Colorado	Montezuma	pcnt_some_college	63.1
+8085	Colorado	Montrose	pcnt_some_college	47.7
+8087	Colorado	Morgan	pcnt_some_college	48.5
+8089	Colorado	Otero	pcnt_some_college	53.8
+8091	Colorado	Ouray	pcnt_some_college	70.7
+8093	Colorado	Park	pcnt_some_college	66
+8095	Colorado	Phillips	pcnt_some_college	60.1
+8097	Colorado	Pitkin	pcnt_some_college	80.1
+8099	Colorado	Prowers	pcnt_some_college	54.9
+8101	Colorado	Pueblo	pcnt_some_college	59.7
+8103	Colorado	Rio Blanco	pcnt_some_college	51.3
+8105	Colorado	Rio Grande	pcnt_some_college	55.8
+8107	Colorado	Routt	pcnt_some_college	78.7
+8109	Colorado	Saguache	pcnt_some_college	43.2
+8111	Colorado	San Juan	pcnt_some_college	71.2
+8113	Colorado	San Miguel	pcnt_some_college	73.5
+8115	Colorado	Sedgwick	pcnt_some_college	59.2
+8117	Colorado	Summit	pcnt_some_college	74.4
+8119	Colorado	Teller	pcnt_some_college	63.8
+8121	Colorado	Washington	pcnt_some_college	60.4
+8123	Colorado	Weld	pcnt_some_college	62.1
+8125	Colorado	Yuma	pcnt_some_college	57.5
+9001	Connecticut	Fairfield	pcnt_some_college	68.9
+9003	Connecticut	Hartford	pcnt_some_college	66
+9005	Connecticut	Litchfield	pcnt_some_college	64.9
+9007	Connecticut	Middlesex	pcnt_some_college	72.1
+9009	Connecticut	New Haven	pcnt_some_college	64.4
+9011	Connecticut	New London	pcnt_some_college	61.6
+9013	Connecticut	Tolland	pcnt_some_college	71.2
+9015	Connecticut	Windham	pcnt_some_college	52.9
 10001	Delaware	Kent	pcnt_some_college	58.7
 10003	Delaware	New Castle	pcnt_some_college	64.2
 10005	Delaware	Sussex	pcnt_some_college	48.1
 11001	District of Columbia	District of Columbia	pcnt_some_college	76.2
 12001	Florida	Alachua	pcnt_some_college	75.2
-12003	Florida	Baker	pcnt_some_college	31.0
+12003	Florida	Baker	pcnt_some_college	31
 12005	Florida	Bay	pcnt_some_college	58.7
 12007	Florida	Bradford	pcnt_some_college	35.4
 12009	Florida	Brevard	pcnt_some_college	64.3
 12011	Florida	Broward	pcnt_some_college	65.2
 12013	Florida	Calhoun	pcnt_some_college	31.6
-12015	Florida	Charlotte	pcnt_some_college	55.0
+12015	Florida	Charlotte	pcnt_some_college	55
 12017	Florida	Citrus	pcnt_some_college	45.2
 12019	Florida	Clay	pcnt_some_college	61.8
 12021	Florida	Collier	pcnt_some_college	47.9
-12023	Florida	Columbia	pcnt_some_college	46.0
+12023	Florida	Columbia	pcnt_some_college	46
 12027	Florida	DeSoto	pcnt_some_college	26.6
-12029	Florida	Dixie	pcnt_some_college	39.0
+12029	Florida	Dixie	pcnt_some_college	39
 12031	Florida	Duval	pcnt_some_college	62.3
 12033	Florida	Escambia	pcnt_some_college	60.2
 12035	Florida	Flagler	pcnt_some_college	58.7
-12037	Florida	Franklin	pcnt_some_college	37.0
+12037	Florida	Franklin	pcnt_some_college	37
 12039	Florida	Gadsden	pcnt_some_college	38.9
 12041	Florida	Gilchrist	pcnt_some_college	47.9
 12043	Florida	Glades	pcnt_some_college	32.1
@@ -346,20 +346,20 @@ FIPS	State	County	Variable	pcnt_some_college
 12055	Florida	Highlands	pcnt_some_college	42.9
 12057	Florida	Hillsborough	pcnt_some_college	62.9
 12059	Florida	Holmes	pcnt_some_college	29.2
-12061	Florida	Indian River	pcnt_some_college	55.0
+12061	Florida	Indian River	pcnt_some_college	55
 12063	Florida	Jackson	pcnt_some_college	45.9
-12065	Florida	Jefferson	pcnt_some_college	40.0
+12065	Florida	Jefferson	pcnt_some_college	40
 12067	Florida	Lafayette	pcnt_some_college	47.8
 12069	Florida	Lake	pcnt_some_college	54.5
 12071	Florida	Lee	pcnt_some_college	52.2
 12073	Florida	Leon	pcnt_some_college	74.4
-12075	Florida	Levy	pcnt_some_college	44.0
+12075	Florida	Levy	pcnt_some_college	44
 12077	Florida	Liberty	pcnt_some_college	41.2
-12079	Florida	Madison	pcnt_some_college	37.0
+12079	Florida	Madison	pcnt_some_college	37
 12081	Florida	Manatee	pcnt_some_college	52.9
 12083	Florida	Marion	pcnt_some_college	47.8
 12085	Florida	Martin	pcnt_some_college	60.3
-12086	Florida	Miami-Dade	pcnt_some_college	57.0
+12086	Florida	Miami-Dade	pcnt_some_college	57
 12087	Florida	Monroe	pcnt_some_college	57.3
 12089	Florida	Nassau	pcnt_some_college	51.6
 12091	Florida	Okaloosa	pcnt_some_college	63.7
@@ -378,7 +378,7 @@ FIPS	State	County	Variable	pcnt_some_college
 12117	Florida	Seminole	pcnt_some_college	70.5
 12119	Florida	Sumter	pcnt_some_college	35.2
 12121	Florida	Suwannee	pcnt_some_college	41.3
-12123	Florida	Taylor	pcnt_some_college	39.0
+12123	Florida	Taylor	pcnt_some_college	39
 12125	Florida	Union	pcnt_some_college	34.9
 12127	Florida	Volusia	pcnt_some_college	60.3
 12129	Florida	Wakulla	pcnt_some_college	46.6
@@ -390,13 +390,13 @@ FIPS	State	County	Variable	pcnt_some_college
 13007	Georgia	Baker	pcnt_some_college	46.2
 13009	Georgia	Baldwin	pcnt_some_college	48.6
 13011	Georgia	Banks	pcnt_some_college	39.1
-13013	Georgia	Barrow	pcnt_some_college	51.0
+13013	Georgia	Barrow	pcnt_some_college	51
 13015	Georgia	Bartow	pcnt_some_college	44.4
 13017	Georgia	Ben Hill	pcnt_some_college	40.6
 13019	Georgia	Berrien	pcnt_some_college	44.7
 13021	Georgia	Bibb	pcnt_some_college	56.1
 13023	Georgia	Bleckley	pcnt_some_college	37.4
-13025	Georgia	Brantley	pcnt_some_college	32.0
+13025	Georgia	Brantley	pcnt_some_college	32
 13027	Georgia	Brooks	pcnt_some_college	44.7
 13029	Georgia	Bryan	pcnt_some_college	68.5
 13031	Georgia	Bulloch	pcnt_some_college	60.9
@@ -417,11 +417,11 @@ FIPS	State	County	Variable	pcnt_some_college
 13063	Georgia	Clayton	pcnt_some_college	51.3
 13065	Georgia	Clinch	pcnt_some_college	35.8
 13067	Georgia	Cobb	pcnt_some_college	72.4
-13069	Georgia	Coffee	pcnt_some_college	36.0
-13071	Georgia	Colquitt	pcnt_some_college	38.0
+13069	Georgia	Coffee	pcnt_some_college	36
+13071	Georgia	Colquitt	pcnt_some_college	38
 13073	Georgia	Columbia	pcnt_some_college	68.5
 13075	Georgia	Cook	pcnt_some_college	41.3
-13077	Georgia	Coweta	pcnt_some_college	60.0
+13077	Georgia	Coweta	pcnt_some_college	60
 13079	Georgia	Crawford	pcnt_some_college	46.6
 13081	Georgia	Crisp	pcnt_some_college	41.9
 13083	Georgia	Dade	pcnt_some_college	48.5
@@ -429,7 +429,7 @@ FIPS	State	County	Variable	pcnt_some_college
 13087	Georgia	Decatur	pcnt_some_college	41.5
 13089	Georgia	DeKalb	pcnt_some_college	68.9
 13091	Georgia	Dodge	pcnt_some_college	39.7
-13093	Georgia	Dooly	pcnt_some_college	31.0
+13093	Georgia	Dooly	pcnt_some_college	31
 13095	Georgia	Dougherty	pcnt_some_college	57.3
 13097	Georgia	Douglas	pcnt_some_college	61.2
 13099	Georgia	Early	pcnt_some_college	43.1
@@ -446,7 +446,7 @@ FIPS	State	County	Variable	pcnt_some_college
 13121	Georgia	Fulton	pcnt_some_college	74.7
 13123	Georgia	Gilmer	pcnt_some_college	39.8
 13125	Georgia	Glascock	pcnt_some_college	44.4
-13127	Georgia	Glynn	pcnt_some_college	56.0
+13127	Georgia	Glynn	pcnt_some_college	56
 13129	Georgia	Gordon	pcnt_some_college	39.5
 13131	Georgia	Grady	pcnt_some_college	38.6
 13133	Georgia	Greene	pcnt_some_college	26.6
@@ -471,14 +471,14 @@ FIPS	State	County	Variable	pcnt_some_college
 13171	Georgia	Lamar	pcnt_some_college	44.8
 13173	Georgia	Lanier	pcnt_some_college	54.7
 13175	Georgia	Laurens	pcnt_some_college	41.3
-13177	Georgia	Lee	pcnt_some_college	55.0
+13177	Georgia	Lee	pcnt_some_college	55
 13179	Georgia	Liberty	pcnt_some_college	61.5
 13181	Georgia	Lincoln	pcnt_some_college	36.4
 13183	Georgia	Long	pcnt_some_college	46.8
 13185	Georgia	Lowndes	pcnt_some_college	60.2
 13187	Georgia	Lumpkin	pcnt_some_college	51.3
 13189	Georgia	McDuffie	pcnt_some_college	39.5
-13191	Georgia	McIntosh	pcnt_some_college	42.0
+13191	Georgia	McIntosh	pcnt_some_college	42
 13193	Georgia	Macon	pcnt_some_college	37.2
 13195	Georgia	Madison	pcnt_some_college	33.2
 13197	Georgia	Marion	pcnt_some_college	31.5
@@ -489,7 +489,7 @@ FIPS	State	County	Variable	pcnt_some_college
 13209	Georgia	Montgomery	pcnt_some_college	36.5
 13211	Georgia	Morgan	pcnt_some_college	52.4
 13213	Georgia	Murray	pcnt_some_college	29.2
-13215	Georgia	Muscogee	pcnt_some_college	61.0
+13215	Georgia	Muscogee	pcnt_some_college	61
 13217	Georgia	Newton	pcnt_some_college	55.5
 13219	Georgia	Oconee	pcnt_some_college	74.8
 13221	Georgia	Oglethorpe	pcnt_some_college	53.4
@@ -498,7 +498,7 @@ FIPS	State	County	Variable	pcnt_some_college
 13227	Georgia	Pickens	pcnt_some_college	41.5
 13229	Georgia	Pierce	pcnt_some_college	44.3
 13231	Georgia	Pike	pcnt_some_college	53.2
-13233	Georgia	Polk	pcnt_some_college	38.0
+13233	Georgia	Polk	pcnt_some_college	38
 13235	Georgia	Pulaski	pcnt_some_college	41.4
 13237	Georgia	Putnam	pcnt_some_college	49.9
 13239	Georgia	Quitman	pcnt_some_college	26.5
@@ -526,10 +526,10 @@ FIPS	State	County	Variable	pcnt_some_college
 13283	Georgia	Treutlen	pcnt_some_college	29.1
 13285	Georgia	Troup	pcnt_some_college	50.6
 13287	Georgia	Turner	pcnt_some_college	39.5
-13289	Georgia	Twiggs	pcnt_some_college	29.0
+13289	Georgia	Twiggs	pcnt_some_college	29
 13291	Georgia	Union	pcnt_some_college	60.1
-13293	Georgia	Upson	pcnt_some_college	46.0
-13295	Georgia	Walker	pcnt_some_college	46.0
+13293	Georgia	Upson	pcnt_some_college	46
+13295	Georgia	Walker	pcnt_some_college	46
 13297	Georgia	Walton	pcnt_some_college	52.8
 13299	Georgia	Ware	pcnt_some_college	40.9
 13301	Georgia	Warren	pcnt_some_college	30.2
@@ -545,7 +545,7 @@ FIPS	State	County	Variable	pcnt_some_college
 13321	Georgia	Worth	pcnt_some_college	38.3
 15001	Hawaii	Hawaii	pcnt_some_college	56.4
 15003	Hawaii	Honolulu	pcnt_some_college	69.5
-15005	Hawaii	Kalawao	pcnt_some_college	100.0
+15005	Hawaii	Kalawao	pcnt_some_college	100
 15007	Hawaii	Kauai	pcnt_some_college	63.2
 15009	Hawaii	Maui	pcnt_some_college	59.1
 16001	Idaho	Ada	pcnt_some_college	72.7
@@ -559,24 +559,24 @@ FIPS	State	County	Variable	pcnt_some_college
 16017	Idaho	Bonner	pcnt_some_college	55.9
 16019	Idaho	Bonneville	pcnt_some_college	64.4
 16021	Idaho	Boundary	pcnt_some_college	35.2
-16023	Idaho	Butte	pcnt_some_college	51.0
+16023	Idaho	Butte	pcnt_some_college	51
 16025	Idaho	Camas	pcnt_some_college	48.2
 16027	Idaho	Canyon	pcnt_some_college	53.4
 16029	Idaho	Caribou	pcnt_some_college	63.4
 16031	Idaho	Cassia	pcnt_some_college	48.2
-16033	Idaho	Clark	pcnt_some_college	39.0
+16033	Idaho	Clark	pcnt_some_college	39
 16035	Idaho	Clearwater	pcnt_some_college	50.8
 16037	Idaho	Custer	pcnt_some_college	45.7
 16039	Idaho	Elmore	pcnt_some_college	60.9
 16041	Idaho	Franklin	pcnt_some_college	48.7
 16043	Idaho	Fremont	pcnt_some_college	47.9
 16045	Idaho	Gem	pcnt_some_college	52.2
-16047	Idaho	Gooding	pcnt_some_college	40.0
+16047	Idaho	Gooding	pcnt_some_college	40
 16049	Idaho	Idaho	pcnt_some_college	51.1
 16051	Idaho	Jefferson	pcnt_some_college	61.2
 16053	Idaho	Jerome	pcnt_some_college	36.5
 16055	Idaho	Kootenai	pcnt_some_college	65.8
-16057	Idaho	Latah	pcnt_some_college	76.0
+16057	Idaho	Latah	pcnt_some_college	76
 16059	Idaho	Lemhi	pcnt_some_college	58.4
 16061	Idaho	Lewis	pcnt_some_college	60.1
 16063	Idaho	Lincoln	pcnt_some_college	37.5
@@ -596,26 +596,26 @@ FIPS	State	County	Variable	pcnt_some_college
 17003	Illinois	Alexander	pcnt_some_college	40.8
 17005	Illinois	Bond	pcnt_some_college	63.9
 17007	Illinois	Boone	pcnt_some_college	48.3
-17009	Illinois	Brown	pcnt_some_college	41.0
+17009	Illinois	Brown	pcnt_some_college	41
 17011	Illinois	Bureau	pcnt_some_college	53.7
 17013	Illinois	Calhoun	pcnt_some_college	65.2
-17015	Illinois	Carroll	pcnt_some_college	55.0
+17015	Illinois	Carroll	pcnt_some_college	55
 17017	Illinois	Cass	pcnt_some_college	40.2
 17019	Illinois	Champaign	pcnt_some_college	77.4
 17021	Illinois	Christian	pcnt_some_college	54.1
 17023	Illinois	Clark	pcnt_some_college	64.3
-17025	Illinois	Clay	pcnt_some_college	57.0
+17025	Illinois	Clay	pcnt_some_college	57
 17027	Illinois	Clinton	pcnt_some_college	66.7
 17029	Illinois	Coles	pcnt_some_college	62.7
 17031	Illinois	Cook	pcnt_some_college	65.6
-17033	Illinois	Crawford	pcnt_some_college	61.0
+17033	Illinois	Crawford	pcnt_some_college	61
 17035	Illinois	Cumberland	pcnt_some_college	57.1
 17037	Illinois	DeKalb	pcnt_some_college	69.8
 17039	Illinois	De Witt	pcnt_some_college	52.7
 17041	Illinois	Douglas	pcnt_some_college	48.7
 17043	Illinois	DuPage	pcnt_some_college	76.4
 17045	Illinois	Edgar	pcnt_some_college	54.7
-17047	Illinois	Edwards	pcnt_some_college	67.0
+17047	Illinois	Edwards	pcnt_some_college	67
 17049	Illinois	Effingham	pcnt_some_college	65.8
 17051	Illinois	Fayette	pcnt_some_college	49.5
 17053	Illinois	Ford	pcnt_some_college	58.7
@@ -623,12 +623,12 @@ FIPS	State	County	Variable	pcnt_some_college
 17057	Illinois	Fulton	pcnt_some_college	54.1
 17059	Illinois	Gallatin	pcnt_some_college	53.8
 17061	Illinois	Greene	pcnt_some_college	49.2
-17063	Illinois	Grundy	pcnt_some_college	63.0
+17063	Illinois	Grundy	pcnt_some_college	63
 17065	Illinois	Hamilton	pcnt_some_college	59.6
 17067	Illinois	Hancock	pcnt_some_college	58.1
 17069	Illinois	Hardin	pcnt_some_college	52.9
 17071	Illinois	Henderson	pcnt_some_college	60.4
-17073	Illinois	Henry	pcnt_some_college	61.0
+17073	Illinois	Henry	pcnt_some_college	61
 17075	Illinois	Iroquois	pcnt_some_college	57.9
 17077	Illinois	Jackson	pcnt_some_college	75.1
 17079	Illinois	Jasper	pcnt_some_college	63.3
@@ -641,15 +641,15 @@ FIPS	State	County	Variable	pcnt_some_college
 17093	Illinois	Kendall	pcnt_some_college	75.9
 17095	Illinois	Knox	pcnt_some_college	58.6
 17097	Illinois	Lake	pcnt_some_college	67.7
-17099	Illinois	LaSalle	pcnt_some_college	57.0
+17099	Illinois	LaSalle	pcnt_some_college	57
 17101	Illinois	Lawrence	pcnt_some_college	43.8
 17103	Illinois	Lee	pcnt_some_college	54.7
 17105	Illinois	Livingston	pcnt_some_college	53.1
 17107	Illinois	Logan	pcnt_some_college	54.3
-17109	Illinois	McDonough	pcnt_some_college	73.0
+17109	Illinois	McDonough	pcnt_some_college	73
 17111	Illinois	McHenry	pcnt_some_college	69.7
-17113	Illinois	McLean	pcnt_some_college	76.0
-17115	Illinois	Macon	pcnt_some_college	60.0
+17113	Illinois	McLean	pcnt_some_college	76
+17115	Illinois	Macon	pcnt_some_college	60
 17117	Illinois	Macoupin	pcnt_some_college	61.7
 17119	Illinois	Madison	pcnt_some_college	66.7
 17121	Illinois	Marion	pcnt_some_college	57.2
@@ -658,7 +658,7 @@ FIPS	State	County	Variable	pcnt_some_college
 17127	Illinois	Massac	pcnt_some_college	55.7
 17129	Illinois	Menard	pcnt_some_college	55.6
 17131	Illinois	Mercer	pcnt_some_college	58.6
-17133	Illinois	Monroe	pcnt_some_college	73.0
+17133	Illinois	Monroe	pcnt_some_college	73
 17135	Illinois	Montgomery	pcnt_some_college	51.6
 17137	Illinois	Morgan	pcnt_some_college	55.7
 17139	Illinois	Moultrie	pcnt_some_college	50.9
@@ -667,9 +667,9 @@ FIPS	State	County	Variable	pcnt_some_college
 17145	Illinois	Perry	pcnt_some_college	56.6
 17147	Illinois	Piatt	pcnt_some_college	70.4
 17149	Illinois	Pike	pcnt_some_college	46.5
-17151	Illinois	Pope	pcnt_some_college	68.0
+17151	Illinois	Pope	pcnt_some_college	68
 17153	Illinois	Pulaski	pcnt_some_college	47.3
-17155	Illinois	Putnam	pcnt_some_college	56.0
+17155	Illinois	Putnam	pcnt_some_college	56
 17157	Illinois	Randolph	pcnt_some_college	46.3
 17159	Illinois	Richland	pcnt_some_college	65.6
 17161	Illinois	Rock Island	pcnt_some_college	62.2
@@ -682,8 +682,8 @@ FIPS	State	County	Variable	pcnt_some_college
 17175	Illinois	Stark	pcnt_some_college	58.9
 17177	Illinois	Stephenson	pcnt_some_college	60.8
 17179	Illinois	Tazewell	pcnt_some_college	68.9
-17181	Illinois	Union	pcnt_some_college	55.0
-17183	Illinois	Vermilion	pcnt_some_college	51.0
+17181	Illinois	Union	pcnt_some_college	55
+17183	Illinois	Vermilion	pcnt_some_college	51
 17185	Illinois	Wabash	pcnt_some_college	64.1
 17187	Illinois	Warren	pcnt_some_college	51.7
 17189	Illinois	Washington	pcnt_some_college	71.4
@@ -698,7 +698,7 @@ FIPS	State	County	Variable	pcnt_some_college
 18003	Indiana	Allen	pcnt_some_college	64.2
 18005	Indiana	Bartholomew	pcnt_some_college	63.2
 18007	Indiana	Benton	pcnt_some_college	50.3
-18009	Indiana	Blackford	pcnt_some_college	41.0
+18009	Indiana	Blackford	pcnt_some_college	41
 18011	Indiana	Boone	pcnt_some_college	76.3
 18013	Indiana	Brown	pcnt_some_college	49.7
 18015	Indiana	Carroll	pcnt_some_college	53.6
@@ -709,7 +709,7 @@ FIPS	State	County	Variable	pcnt_some_college
 18025	Indiana	Crawford	pcnt_some_college	34.8
 18027	Indiana	Daviess	pcnt_some_college	43.1
 18029	Indiana	Dearborn	pcnt_some_college	55.4
-18031	Indiana	Decatur	pcnt_some_college	48.0
+18031	Indiana	Decatur	pcnt_some_college	48
 18033	Indiana	DeKalb	pcnt_some_college	53.8
 18035	Indiana	Delaware	pcnt_some_college	59.2
 18037	Indiana	Dubois	pcnt_some_college	52.3
@@ -731,7 +731,7 @@ FIPS	State	County	Variable	pcnt_some_college
 18069	Indiana	Huntington	pcnt_some_college	56.1
 18071	Indiana	Jackson	pcnt_some_college	47.9
 18073	Indiana	Jasper	pcnt_some_college	54.2
-18075	Indiana	Jay	pcnt_some_college	43.0
+18075	Indiana	Jay	pcnt_some_college	43
 18077	Indiana	Jefferson	pcnt_some_college	48.9
 18079	Indiana	Jennings	pcnt_some_college	42.7
 18081	Indiana	Johnson	pcnt_some_college	64.5
@@ -751,7 +751,7 @@ FIPS	State	County	Variable	pcnt_some_college
 18109	Indiana	Morgan	pcnt_some_college	50.9
 18111	Indiana	Newton	pcnt_some_college	47.4
 18113	Indiana	Noble	pcnt_some_college	45.3
-18115	Indiana	Ohio	pcnt_some_college	45.0
+18115	Indiana	Ohio	pcnt_some_college	45
 18117	Indiana	Orange	pcnt_some_college	46.2
 18119	Indiana	Owen	pcnt_some_college	44.8
 18121	Indiana	Parke	pcnt_some_college	48.3
@@ -765,7 +765,7 @@ FIPS	State	County	Variable	pcnt_some_college
 18137	Indiana	Ripley	pcnt_some_college	50.2
 18139	Indiana	Rush	pcnt_some_college	46.5
 18141	Indiana	St. Joseph	pcnt_some_college	62.1
-18143	Indiana	Scott	pcnt_some_college	37.0
+18143	Indiana	Scott	pcnt_some_college	37
 18145	Indiana	Shelby	pcnt_some_college	50.8
 18147	Indiana	Spencer	pcnt_some_college	51.6
 18149	Indiana	Starke	pcnt_some_college	42.4
@@ -804,14 +804,14 @@ FIPS	State	County	Variable	pcnt_some_college
 19031	Iowa	Cedar	pcnt_some_college	67.8
 19033	Iowa	Cerro Gordo	pcnt_some_college	70.3
 19035	Iowa	Cherokee	pcnt_some_college	68.7
-19037	Iowa	Chickasaw	pcnt_some_college	53.0
+19037	Iowa	Chickasaw	pcnt_some_college	53
 19039	Iowa	Clarke	pcnt_some_college	50.7
 19041	Iowa	Clay	pcnt_some_college	65.3
 19043	Iowa	Clayton	pcnt_some_college	58.2
 19045	Iowa	Clinton	pcnt_some_college	61.7
 19047	Iowa	Crawford	pcnt_some_college	47.1
 19049	Iowa	Dallas	pcnt_some_college	82.1
-19051	Iowa	Davis	pcnt_some_college	60.0
+19051	Iowa	Davis	pcnt_some_college	60
 19053	Iowa	Decatur	pcnt_some_college	55.5
 19055	Iowa	Delaware	pcnt_some_college	60.1
 19057	Iowa	Des Moines	pcnt_some_college	65.6
@@ -841,20 +841,20 @@ FIPS	State	County	Variable	pcnt_some_college
 19105	Iowa	Jones	pcnt_some_college	59.9
 19107	Iowa	Keokuk	pcnt_some_college	62.2
 19109	Iowa	Kossuth	pcnt_some_college	69.4
-19111	Iowa	Lee	pcnt_some_college	54.0
+19111	Iowa	Lee	pcnt_some_college	54
 19113	Iowa	Linn	pcnt_some_college	75.2
 19115	Iowa	Louisa	pcnt_some_college	46.5
 19117	Iowa	Lucas	pcnt_some_college	54.4
 19119	Iowa	Lyon	pcnt_some_college	65.9
 19121	Iowa	Madison	pcnt_some_college	59.7
 19123	Iowa	Mahaska	pcnt_some_college	59.5
-19125	Iowa	Marion	pcnt_some_college	70.0
+19125	Iowa	Marion	pcnt_some_college	70
 19127	Iowa	Marshall	pcnt_some_college	54.8
 19129	Iowa	Mills	pcnt_some_college	69.6
 19131	Iowa	Mitchell	pcnt_some_college	66.2
 19133	Iowa	Monona	pcnt_some_college	56.3
 19135	Iowa	Monroe	pcnt_some_college	64.9
-19137	Iowa	Montgomery	pcnt_some_college	63.0
+19137	Iowa	Montgomery	pcnt_some_college	63
 19139	Iowa	Muscatine	pcnt_some_college	57.5
 19141	Iowa	O'Brien	pcnt_some_college	63.6
 19143	Iowa	Osceola	pcnt_some_college	59.2
@@ -867,7 +867,7 @@ FIPS	State	County	Variable	pcnt_some_college
 19157	Iowa	Poweshiek	pcnt_some_college	64.3
 19159	Iowa	Ringgold	pcnt_some_college	66.2
 19161	Iowa	Sac	pcnt_some_college	64.9
-19163	Iowa	Scott	pcnt_some_college	73.0
+19163	Iowa	Scott	pcnt_some_college	73
 19165	Iowa	Shelby	pcnt_some_college	65.9
 19167	Iowa	Sioux	pcnt_some_college	60.8
 19169	Iowa	Story	pcnt_some_college	87.5
@@ -877,7 +877,7 @@ FIPS	State	County	Variable	pcnt_some_college
 19177	Iowa	Van Buren	pcnt_some_college	59.6
 19179	Iowa	Wapello	pcnt_some_college	51.3
 19181	Iowa	Warren	pcnt_some_college	72.4
-19183	Iowa	Washington	pcnt_some_college	64.0
+19183	Iowa	Washington	pcnt_some_college	64
 19185	Iowa	Wayne	pcnt_some_college	60.2
 19187	Iowa	Webster	pcnt_some_college	58.4
 19189	Iowa	Winnebago	pcnt_some_college	71.3
@@ -887,14 +887,14 @@ FIPS	State	County	Variable	pcnt_some_college
 19197	Iowa	Wright	pcnt_some_college	56.4
 20001	Kansas	Allen	pcnt_some_college	61.7
 20003	Kansas	Anderson	pcnt_some_college	44.4
-20005	Kansas	Atchison	pcnt_some_college	56.0
+20005	Kansas	Atchison	pcnt_some_college	56
 20007	Kansas	Barber	pcnt_some_college	70.2
 20009	Kansas	Barton	pcnt_some_college	59.3
-20011	Kansas	Bourbon	pcnt_some_college	68.0
+20011	Kansas	Bourbon	pcnt_some_college	68
 20013	Kansas	Brown	pcnt_some_college	51.7
 20015	Kansas	Butler	pcnt_some_college	70.4
 20017	Kansas	Chase	pcnt_some_college	57.8
-20019	Kansas	Chautauqua	pcnt_some_college	51.0
+20019	Kansas	Chautauqua	pcnt_some_college	51
 20021	Kansas	Cherokee	pcnt_some_college	56.5
 20023	Kansas	Cheyenne	pcnt_some_college	64.7
 20025	Kansas	Clark	pcnt_some_college	59.4
@@ -902,7 +902,7 @@ FIPS	State	County	Variable	pcnt_some_college
 20029	Kansas	Cloud	pcnt_some_college	57.7
 20031	Kansas	Coffey	pcnt_some_college	69.7
 20033	Kansas	Comanche	pcnt_some_college	63.7
-20035	Kansas	Cowley	pcnt_some_college	61.0
+20035	Kansas	Cowley	pcnt_some_college	61
 20037	Kansas	Crawford	pcnt_some_college	67.4
 20039	Kansas	Decatur	pcnt_some_college	63.4
 20041	Kansas	Dickinson	pcnt_some_college	59.5
@@ -914,7 +914,7 @@ FIPS	State	County	Variable	pcnt_some_college
 20053	Kansas	Ellsworth	pcnt_some_college	46.5
 20055	Kansas	Finney	pcnt_some_college	46.3
 20057	Kansas	Ford	pcnt_some_college	38.5
-20059	Kansas	Franklin	pcnt_some_college	59.0
+20059	Kansas	Franklin	pcnt_some_college	59
 20061	Kansas	Geary	pcnt_some_college	68.4
 20063	Kansas	Gove	pcnt_some_college	58.4
 20065	Kansas	Graham	pcnt_some_college	61.9
@@ -928,7 +928,7 @@ FIPS	State	County	Variable	pcnt_some_college
 20081	Kansas	Haskell	pcnt_some_college	39.4
 20083	Kansas	Hodgeman	pcnt_some_college	64.6
 20085	Kansas	Jackson	pcnt_some_college	62.9
-20087	Kansas	Jefferson	pcnt_some_college	61.0
+20087	Kansas	Jefferson	pcnt_some_college	61
 20089	Kansas	Jewell	pcnt_some_college	65.4
 20091	Kansas	Johnson	pcnt_some_college	83.3
 20093	Kansas	Kearny	pcnt_some_college	47.9
@@ -943,7 +943,7 @@ FIPS	State	County	Variable	pcnt_some_college
 20111	Kansas	Lyon	pcnt_some_college	55.5
 20113	Kansas	McPherson	pcnt_some_college	63.1
 20115	Kansas	Marion	pcnt_some_college	60.5
-20117	Kansas	Marshall	pcnt_some_college	54.0
+20117	Kansas	Marshall	pcnt_some_college	54
 20119	Kansas	Meade	pcnt_some_college	55.4
 20121	Kansas	Miami	pcnt_some_college	70.4
 20123	Kansas	Mitchell	pcnt_some_college	67.2
@@ -973,17 +973,17 @@ FIPS	State	County	Variable	pcnt_some_college
 20171	Kansas	Scott	pcnt_some_college	62.8
 20173	Kansas	Sedgwick	pcnt_some_college	64.2
 20175	Kansas	Seward	pcnt_some_college	33.7
-20177	Kansas	Shawnee	pcnt_some_college	64.0
+20177	Kansas	Shawnee	pcnt_some_college	64
 20179	Kansas	Sheridan	pcnt_some_college	69.4
 20181	Kansas	Sherman	pcnt_some_college	55.2
 20183	Kansas	Smith	pcnt_some_college	60.6
 20185	Kansas	Stafford	pcnt_some_college	62.9
 20187	Kansas	Stanton	pcnt_some_college	36.7
-20189	Kansas	Stevens	pcnt_some_college	48.0
+20189	Kansas	Stevens	pcnt_some_college	48
 20191	Kansas	Sumner	pcnt_some_college	61.3
 20193	Kansas	Thomas	pcnt_some_college	74.3
 20195	Kansas	Trego	pcnt_some_college	62.7
-20197	Kansas	Wabaunsee	pcnt_some_college	68.0
+20197	Kansas	Wabaunsee	pcnt_some_college	68
 20199	Kansas	Wallace	pcnt_some_college	70.6
 20201	Kansas	Washington	pcnt_some_college	69.8
 20203	Kansas	Wichita	pcnt_some_college	57.2
@@ -996,17 +996,17 @@ FIPS	State	County	Variable	pcnt_some_college
 21007	Kentucky	Ballard	pcnt_some_college	52.3
 21009	Kentucky	Barren	pcnt_some_college	46.5
 21011	Kentucky	Bath	pcnt_some_college	47.4
-21013	Kentucky	Bell	pcnt_some_college	37.0
+21013	Kentucky	Bell	pcnt_some_college	37
 21015	Kentucky	Boone	pcnt_some_college	70.1
 21017	Kentucky	Bourbon	pcnt_some_college	49.1
-21019	Kentucky	Boyd	pcnt_some_college	60.0
-21021	Kentucky	Boyle	pcnt_some_college	55.0
+21019	Kentucky	Boyd	pcnt_some_college	60
+21021	Kentucky	Boyle	pcnt_some_college	55
 21023	Kentucky	Bracken	pcnt_some_college	40.6
 21025	Kentucky	Breathitt	pcnt_some_college	34.6
 21027	Kentucky	Breckinridge	pcnt_some_college	39.6
-21029	Kentucky	Bullitt	pcnt_some_college	53.0
+21029	Kentucky	Bullitt	pcnt_some_college	53
 21031	Kentucky	Butler	pcnt_some_college	46.5
-21033	Kentucky	Caldwell	pcnt_some_college	43.0
+21033	Kentucky	Caldwell	pcnt_some_college	43
 21035	Kentucky	Calloway	pcnt_some_college	65.8
 21037	Kentucky	Campbell	pcnt_some_college	64.5
 21039	Kentucky	Carlisle	pcnt_some_college	49.5
@@ -1061,28 +1061,28 @@ FIPS	State	County	Variable	pcnt_some_college
 21137	Kentucky	Lincoln	pcnt_some_college	39.8
 21139	Kentucky	Livingston	pcnt_some_college	41.6
 21141	Kentucky	Logan	pcnt_some_college	36.4
-21143	Kentucky	Lyon	pcnt_some_college	52.0
+21143	Kentucky	Lyon	pcnt_some_college	52
 21145	Kentucky	McCracken	pcnt_some_college	64.1
-21147	Kentucky	McCreary	pcnt_some_college	40.0
+21147	Kentucky	McCreary	pcnt_some_college	40
 21149	Kentucky	McLean	pcnt_some_college	45.6
 21151	Kentucky	Madison	pcnt_some_college	63.4
-21153	Kentucky	Magoffin	pcnt_some_college	37.0
+21153	Kentucky	Magoffin	pcnt_some_college	37
 21155	Kentucky	Marion	pcnt_some_college	42.4
 21157	Kentucky	Marshall	pcnt_some_college	51.8
-21159	Kentucky	Martin	pcnt_some_college	36.0
+21159	Kentucky	Martin	pcnt_some_college	36
 21161	Kentucky	Mason	pcnt_some_college	49.9
 21163	Kentucky	Meade	pcnt_some_college	58.9
 21165	Kentucky	Menifee	pcnt_some_college	41.2
-21167	Kentucky	Mercer	pcnt_some_college	50.0
+21167	Kentucky	Mercer	pcnt_some_college	50
 21169	Kentucky	Metcalfe	pcnt_some_college	31.7
-21171	Kentucky	Monroe	pcnt_some_college	37.0
+21171	Kentucky	Monroe	pcnt_some_college	37
 21173	Kentucky	Montgomery	pcnt_some_college	45.7
 21175	Kentucky	Morgan	pcnt_some_college	35.7
 21177	Kentucky	Muhlenberg	pcnt_some_college	44.2
 21179	Kentucky	Nelson	pcnt_some_college	47.8
-21181	Kentucky	Nicholas	pcnt_some_college	44.0
+21181	Kentucky	Nicholas	pcnt_some_college	44
 21183	Kentucky	Ohio	pcnt_some_college	41.2
-21185	Kentucky	Oldham	pcnt_some_college	72.0
+21185	Kentucky	Oldham	pcnt_some_college	72
 21187	Kentucky	Owen	pcnt_some_college	47.1
 21189	Kentucky	Owsley	pcnt_some_college	29.9
 21191	Kentucky	Pendleton	pcnt_some_college	43.5
@@ -1092,12 +1092,12 @@ FIPS	State	County	Variable	pcnt_some_college
 21199	Kentucky	Pulaski	pcnt_some_college	48.9
 21201	Kentucky	Robertson	pcnt_some_college	40.9
 21203	Kentucky	Rockcastle	pcnt_some_college	45.6
-21205	Kentucky	Rowan	pcnt_some_college	53.0
-21207	Kentucky	Russell	pcnt_some_college	46.0
+21205	Kentucky	Rowan	pcnt_some_college	53
+21207	Kentucky	Russell	pcnt_some_college	46
 21209	Kentucky	Scott	pcnt_some_college	64.7
 21211	Kentucky	Shelby	pcnt_some_college	57.4
-21213	Kentucky	Simpson	pcnt_some_college	50.0
-21215	Kentucky	Spencer	pcnt_some_college	59.0
+21213	Kentucky	Simpson	pcnt_some_college	50
+21215	Kentucky	Spencer	pcnt_some_college	59
 21217	Kentucky	Taylor	pcnt_some_college	44.7
 21219	Kentucky	Todd	pcnt_some_college	41.3
 21221	Kentucky	Trigg	pcnt_some_college	50.9
@@ -1115,7 +1115,7 @@ FIPS	State	County	Variable	pcnt_some_college
 22005	Louisiana	Ascension	pcnt_some_college	57.5
 22007	Louisiana	Assumption	pcnt_some_college	32.3
 22009	Louisiana	Avoyelles	pcnt_some_college	37.1
-22011	Louisiana	Beauregard	pcnt_some_college	47.0
+22011	Louisiana	Beauregard	pcnt_some_college	47
 22013	Louisiana	Bienville	pcnt_some_college	42.1
 22015	Louisiana	Bossier	pcnt_some_college	59.5
 22017	Louisiana	Caddo	pcnt_some_college	55.2
@@ -1123,12 +1123,12 @@ FIPS	State	County	Variable	pcnt_some_college
 22021	Louisiana	Caldwell	pcnt_some_college	32.7
 22023	Louisiana	Cameron	pcnt_some_college	44.5
 22025	Louisiana	Catahoula	pcnt_some_college	28.1
-22027	Louisiana	Claiborne	pcnt_some_college	40.0
+22027	Louisiana	Claiborne	pcnt_some_college	40
 22029	Louisiana	Concordia	pcnt_some_college	34.9
 22031	Louisiana	De Soto	pcnt_some_college	45.6
 22033	Louisiana	East Baton Rouge	pcnt_some_college	66.7
 22035	Louisiana	East Carroll	pcnt_some_college	27.3
-22037	Louisiana	East Feliciana	pcnt_some_college	38.0
+22037	Louisiana	East Feliciana	pcnt_some_college	38
 22039	Louisiana	Evangeline	pcnt_some_college	36.2
 22041	Louisiana	Franklin	pcnt_some_college	33.9
 22043	Louisiana	Grant	pcnt_some_college	38.9
@@ -1149,8 +1149,8 @@ FIPS	State	County	Variable	pcnt_some_college
 22073	Louisiana	Ouachita	pcnt_some_college	53.6
 22075	Louisiana	Plaquemines	pcnt_some_college	59.5
 22077	Louisiana	Pointe Coupee	pcnt_some_college	39.4
-22079	Louisiana	Rapides	pcnt_some_college	51.0
-22081	Louisiana	Red River	pcnt_some_college	44.0
+22079	Louisiana	Rapides	pcnt_some_college	51
+22081	Louisiana	Red River	pcnt_some_college	44
 22083	Louisiana	Richland	pcnt_some_college	38.5
 22085	Louisiana	Sabine	pcnt_some_college	41.8
 22087	Louisiana	St. Bernard	pcnt_some_college	48.2
@@ -1161,33 +1161,33 @@ FIPS	State	County	Variable	pcnt_some_college
 22097	Louisiana	St. Landry	pcnt_some_college	36.5
 22099	Louisiana	St. Martin	pcnt_some_college	37.7
 22101	Louisiana	St. Mary	pcnt_some_college	37.6
-22103	Louisiana	St. Tammany	pcnt_some_college	66.0
-22105	Louisiana	Tangipahoa	pcnt_some_college	53.0
-22107	Louisiana	Tensas	pcnt_some_college	25.0
+22103	Louisiana	St. Tammany	pcnt_some_college	66
+22105	Louisiana	Tangipahoa	pcnt_some_college	53
+22107	Louisiana	Tensas	pcnt_some_college	25
 22109	Louisiana	Terrebonne	pcnt_some_college	38.6
 22111	Louisiana	Union	pcnt_some_college	39.5
 22113	Louisiana	Vermilion	pcnt_some_college	36.1
 22115	Louisiana	Vernon	pcnt_some_college	52.1
-22117	Louisiana	Washington	pcnt_some_college	37.0
+22117	Louisiana	Washington	pcnt_some_college	37
 22119	Louisiana	Webster	pcnt_some_college	39.5
 22121	Louisiana	West Baton Rouge	pcnt_some_college	55.5
-22123	Louisiana	West Carroll	pcnt_some_college	33.0
-22125	Louisiana	West Feliciana	pcnt_some_college	33.0
+22123	Louisiana	West Carroll	pcnt_some_college	33
+22125	Louisiana	West Feliciana	pcnt_some_college	33
 22127	Louisiana	Winn	pcnt_some_college	35.9
 23001	Maine	Androscoggin	pcnt_some_college	56.1
-23003	Maine	Aroostook	pcnt_some_college	57.0
+23003	Maine	Aroostook	pcnt_some_college	57
 23005	Maine	Cumberland	pcnt_some_college	73.1
 23007	Maine	Franklin	pcnt_some_college	57.8
 23009	Maine	Hancock	pcnt_some_college	59.7
 23011	Maine	Kennebec	pcnt_some_college	60.1
 23013	Maine	Knox	pcnt_some_college	49.3
-23015	Maine	Lincoln	pcnt_some_college	54.0
+23015	Maine	Lincoln	pcnt_some_college	54
 23017	Maine	Oxford	pcnt_some_college	50.7
 23019	Maine	Penobscot	pcnt_some_college	62.8
 23021	Maine	Piscataquis	pcnt_some_college	49.8
 23023	Maine	Sagadahoc	pcnt_some_college	63.8
 23025	Maine	Somerset	pcnt_some_college	50.3
-23027	Maine	Waldo	pcnt_some_college	53.0
+23027	Maine	Waldo	pcnt_some_college	53
 23029	Maine	Washington	pcnt_some_college	54.4
 23031	Maine	York	pcnt_some_college	62.7
 24001	Maryland	Allegany	pcnt_some_college	50.7
@@ -1202,7 +1202,7 @@ FIPS	State	County	Variable	pcnt_some_college
 24021	Maryland	Frederick	pcnt_some_college	72.1
 24023	Maryland	Garrett	pcnt_some_college	49.3
 24025	Maryland	Harford	pcnt_some_college	71.5
-24027	Maryland	Howard	pcnt_some_college	83.0
+24027	Maryland	Howard	pcnt_some_college	83
 24029	Maryland	Kent	pcnt_some_college	54.1
 24031	Maryland	Montgomery	pcnt_some_college	77.4
 24033	Maryland	Prince George's	pcnt_some_college	58.9
@@ -1219,11 +1219,11 @@ FIPS	State	County	Variable	pcnt_some_college
 25005	Massachusetts	Bristol	pcnt_some_college	58.6
 25007	Massachusetts	Dukes	pcnt_some_college	70.5
 25009	Massachusetts	Essex	pcnt_some_college	67.5
-25011	Massachusetts	Franklin	pcnt_some_college	63.0
+25011	Massachusetts	Franklin	pcnt_some_college	63
 25013	Massachusetts	Hampden	pcnt_some_college	56.1
 25015	Massachusetts	Hampshire	pcnt_some_college	74.5
 25017	Massachusetts	Middlesex	pcnt_some_college	77.4
-25019	Massachusetts	Nantucket	pcnt_some_college	69.0
+25019	Massachusetts	Nantucket	pcnt_some_college	69
 25021	Massachusetts	Norfolk	pcnt_some_college	79.8
 25023	Massachusetts	Plymouth	pcnt_some_college	67.2
 25025	Massachusetts	Suffolk	pcnt_some_college	68.5
@@ -1232,7 +1232,7 @@ FIPS	State	County	Variable	pcnt_some_college
 26003	Michigan	Alger	pcnt_some_college	41.9
 26005	Michigan	Allegan	pcnt_some_college	55.8
 26007	Michigan	Alpena	pcnt_some_college	67.2
-26009	Michigan	Antrim	pcnt_some_college	55.0
+26009	Michigan	Antrim	pcnt_some_college	55
 26011	Michigan	Arenac	pcnt_some_college	46.4
 26013	Michigan	Baraga	pcnt_some_college	40.7
 26015	Michigan	Barry	pcnt_some_college	56.1
@@ -1242,7 +1242,7 @@ FIPS	State	County	Variable	pcnt_some_college
 26023	Michigan	Branch	pcnt_some_college	47.8
 26025	Michigan	Calhoun	pcnt_some_college	57.6
 26027	Michigan	Cass	pcnt_some_college	54.9
-26029	Michigan	Charlevoix	pcnt_some_college	59.0
+26029	Michigan	Charlevoix	pcnt_some_college	59
 26031	Michigan	Cheboygan	pcnt_some_college	52.2
 26033	Michigan	Chippewa	pcnt_some_college	53.3
 26035	Michigan	Clare	pcnt_some_college	47.9
@@ -1254,7 +1254,7 @@ FIPS	State	County	Variable	pcnt_some_college
 26047	Michigan	Emmet	pcnt_some_college	64.3
 26049	Michigan	Genesee	pcnt_some_college	61.7
 26051	Michigan	Gladwin	pcnt_some_college	54.9
-26053	Michigan	Gogebic	pcnt_some_college	56.0
+26053	Michigan	Gogebic	pcnt_some_college	56
 26055	Michigan	Grand Traverse	pcnt_some_college	66.8
 26057	Michigan	Gratiot	pcnt_some_college	54.5
 26059	Michigan	Hillsdale	pcnt_some_college	51.8
@@ -1263,17 +1263,17 @@ FIPS	State	County	Variable	pcnt_some_college
 26065	Michigan	Ingham	pcnt_some_college	72.4
 26067	Michigan	Ionia	pcnt_some_college	54.2
 26069	Michigan	Iosco	pcnt_some_college	48.3
-26071	Michigan	Iron	pcnt_some_college	52.0
+26071	Michigan	Iron	pcnt_some_college	52
 26073	Michigan	Isabella	pcnt_some_college	64.1
 26075	Michigan	Jackson	pcnt_some_college	58.1
 26077	Michigan	Kalamazoo	pcnt_some_college	74.5
-26079	Michigan	Kalkaska	pcnt_some_college	44.0
+26079	Michigan	Kalkaska	pcnt_some_college	44
 26081	Michigan	Kent	pcnt_some_college	66.9
 26083	Michigan	Keweenaw	pcnt_some_college	52.7
 26085	Michigan	Lake	pcnt_some_college	45.2
 26087	Michigan	Lapeer	pcnt_some_college	58.2
 26089	Michigan	Leelanau	pcnt_some_college	69.9
-26091	Michigan	Lenawee	pcnt_some_college	60.0
+26091	Michigan	Lenawee	pcnt_some_college	60
 26093	Michigan	Livingston	pcnt_some_college	74.3
 26095	Michigan	Luce	pcnt_some_college	40.9
 26097	Michigan	Mackinac	pcnt_some_college	58.7
@@ -1305,17 +1305,17 @@ FIPS	State	County	Variable	pcnt_some_college
 26149	Michigan	St. Joseph	pcnt_some_college	48.3
 26151	Michigan	Sanilac	pcnt_some_college	46.8
 26153	Michigan	Schoolcraft	pcnt_some_college	50.1
-26155	Michigan	Shiawassee	pcnt_some_college	59.0
+26155	Michigan	Shiawassee	pcnt_some_college	59
 26157	Michigan	Tuscola	pcnt_some_college	56.2
 26159	Michigan	Van Buren	pcnt_some_college	52.2
 26161	Michigan	Washtenaw	pcnt_some_college	83.7
 26163	Michigan	Wayne	pcnt_some_college	57.2
 26165	Michigan	Wexford	pcnt_some_college	53.9
 27001	Minnesota	Aitkin	pcnt_some_college	63.3
-27003	Minnesota	Anoka	pcnt_some_college	70.0
+27003	Minnesota	Anoka	pcnt_some_college	70
 27005	Minnesota	Becker	pcnt_some_college	64.5
-27007	Minnesota	Beltrami	pcnt_some_college	67.0
-27009	Minnesota	Benton	pcnt_some_college	67.0
+27007	Minnesota	Beltrami	pcnt_some_college	67
+27009	Minnesota	Benton	pcnt_some_college	67
 27011	Minnesota	Big Stone	pcnt_some_college	71.5
 27013	Minnesota	Blue Earth	pcnt_some_college	73.1
 27015	Minnesota	Brown	pcnt_some_college	63.7
@@ -1337,7 +1337,7 @@ FIPS	State	County	Variable	pcnt_some_college
 27047	Minnesota	Freeborn	pcnt_some_college	59.8
 27049	Minnesota	Goodhue	pcnt_some_college	69.7
 27051	Minnesota	Grant	pcnt_some_college	68.9
-27053	Minnesota	Hennepin	pcnt_some_college	78.0
+27053	Minnesota	Hennepin	pcnt_some_college	78
 27055	Minnesota	Houston	pcnt_some_college	68.6
 27057	Minnesota	Hubbard	pcnt_some_college	63.8
 27059	Minnesota	Isanti	pcnt_some_college	62.3
@@ -1374,9 +1374,9 @@ FIPS	State	County	Variable	pcnt_some_college
 27121	Minnesota	Pope	pcnt_some_college	66.5
 27123	Minnesota	Ramsey	pcnt_some_college	70.7
 27125	Minnesota	Red Lake	pcnt_some_college	59.8
-27127	Minnesota	Redwood	pcnt_some_college	63.0
+27127	Minnesota	Redwood	pcnt_some_college	63
 27129	Minnesota	Renville	pcnt_some_college	60.9
-27131	Minnesota	Rice	pcnt_some_college	60.0
+27131	Minnesota	Rice	pcnt_some_college	60
 27133	Minnesota	Rock	pcnt_some_college	68.1
 27135	Minnesota	Roseau	pcnt_some_college	55.9
 27137	Minnesota	St. Louis	pcnt_some_college	72.2
@@ -1407,18 +1407,18 @@ FIPS	State	County	Variable	pcnt_some_college
 28013	Mississippi	Calhoun	pcnt_some_college	35.2
 28015	Mississippi	Carroll	pcnt_some_college	54.5
 28017	Mississippi	Chickasaw	pcnt_some_college	47.9
-28019	Mississippi	Choctaw	pcnt_some_college	57.0
+28019	Mississippi	Choctaw	pcnt_some_college	57
 28021	Mississippi	Claiborne	pcnt_some_college	54.3
 28023	Mississippi	Clarke	pcnt_some_college	44.3
 28025	Mississippi	Clay	pcnt_some_college	52.9
-28027	Mississippi	Coahoma	pcnt_some_college	51.0
+28027	Mississippi	Coahoma	pcnt_some_college	51
 28029	Mississippi	Copiah	pcnt_some_college	53.7
 28031	Mississippi	Covington	pcnt_some_college	55.1
 28033	Mississippi	DeSoto	pcnt_some_college	63.1
 28035	Mississippi	Forrest	pcnt_some_college	62.4
 28037	Mississippi	Franklin	pcnt_some_college	44.6
 28039	Mississippi	George	pcnt_some_college	44.4
-28041	Mississippi	Greene	pcnt_some_college	30.0
+28041	Mississippi	Greene	pcnt_some_college	30
 28043	Mississippi	Grenada	pcnt_some_college	48.9
 28045	Mississippi	Hancock	pcnt_some_college	59.6
 28047	Mississippi	Harrison	pcnt_some_college	57.6
@@ -1434,9 +1434,9 @@ FIPS	State	County	Variable	pcnt_some_college
 28067	Mississippi	Jones	pcnt_some_college	53.4
 28069	Mississippi	Kemper	pcnt_some_college	43.7
 28071	Mississippi	Lafayette	pcnt_some_college	78.5
-28073	Mississippi	Lamar	pcnt_some_college	72.0
+28073	Mississippi	Lamar	pcnt_some_college	72
 28075	Mississippi	Lauderdale	pcnt_some_college	56.3
-28077	Mississippi	Lawrence	pcnt_some_college	59.0
+28077	Mississippi	Lawrence	pcnt_some_college	59
 28079	Mississippi	Leake	pcnt_some_college	46.6
 28081	Mississippi	Lee	pcnt_some_college	61.4
 28083	Mississippi	Leflore	pcnt_some_college	41.7
@@ -1454,9 +1454,9 @@ FIPS	State	County	Variable	pcnt_some_college
 28107	Mississippi	Panola	pcnt_some_college	50.6
 28109	Mississippi	Pearl River	pcnt_some_college	52.2
 28111	Mississippi	Perry	pcnt_some_college	54.9
-28113	Mississippi	Pike	pcnt_some_college	51.0
+28113	Mississippi	Pike	pcnt_some_college	51
 28115	Mississippi	Pontotoc	pcnt_some_college	43.7
-28117	Mississippi	Prentiss	pcnt_some_college	43.0
+28117	Mississippi	Prentiss	pcnt_some_college	43
 28119	Mississippi	Quitman	pcnt_some_college	42.9
 28121	Mississippi	Rankin	pcnt_some_college	66.8
 28123	Mississippi	Scott	pcnt_some_college	34.6
@@ -1467,7 +1467,7 @@ FIPS	State	County	Variable	pcnt_some_college
 28133	Mississippi	Sunflower	pcnt_some_college	43.8
 28135	Mississippi	Tallahatchie	pcnt_some_college	33.5
 28137	Mississippi	Tate	pcnt_some_college	48.2
-28139	Mississippi	Tippah	pcnt_some_college	40.0
+28139	Mississippi	Tippah	pcnt_some_college	40
 28141	Mississippi	Tishomingo	pcnt_some_college	42.4
 28143	Mississippi	Tunica	pcnt_some_college	50.1
 28145	Mississippi	Union	pcnt_some_college	45.6
@@ -1479,15 +1479,15 @@ FIPS	State	County	Variable	pcnt_some_college
 28157	Mississippi	Wilkinson	pcnt_some_college	32.6
 28159	Mississippi	Winston	pcnt_some_college	57.3
 28161	Mississippi	Yalobusha	pcnt_some_college	50.3
-28163	Mississippi	Yazoo	pcnt_some_college	41.0
+28163	Mississippi	Yazoo	pcnt_some_college	41
 29001	Missouri	Adair	pcnt_some_college	59.8
-29003	Missouri	Andrew	pcnt_some_college	55.0
+29003	Missouri	Andrew	pcnt_some_college	55
 29005	Missouri	Atchison	pcnt_some_college	57.9
 29007	Missouri	Audrain	pcnt_some_college	43.2
 29009	Missouri	Barry	pcnt_some_college	40.8
 29011	Missouri	Barton	pcnt_some_college	49.6
 29013	Missouri	Bates	pcnt_some_college	40.4
-29015	Missouri	Benton	pcnt_some_college	44.0
+29015	Missouri	Benton	pcnt_some_college	44
 29017	Missouri	Bollinger	pcnt_some_college	35.9
 29019	Missouri	Boone	pcnt_some_college	76.5
 29021	Missouri	Buchanan	pcnt_some_college	49.8
@@ -1495,26 +1495,26 @@ FIPS	State	County	Variable	pcnt_some_college
 29025	Missouri	Caldwell	pcnt_some_college	48.9
 29027	Missouri	Callaway	pcnt_some_college	56.6
 29029	Missouri	Camden	pcnt_some_college	56.6
-29031	Missouri	Cape Girardeau	pcnt_some_college	62.0
+29031	Missouri	Cape Girardeau	pcnt_some_college	62
 29033	Missouri	Carroll	pcnt_some_college	47.7
 29035	Missouri	Carter	pcnt_some_college	38.8
 29037	Missouri	Cass	pcnt_some_college	63.7
 29039	Missouri	Cedar	pcnt_some_college	44.2
-29041	Missouri	Chariton	pcnt_some_college	57.0
+29041	Missouri	Chariton	pcnt_some_college	57
 29043	Missouri	Christian	pcnt_some_college	71.4
 29045	Missouri	Clark	pcnt_some_college	52.3
 29047	Missouri	Clay	pcnt_some_college	71.7
-29049	Missouri	Clinton	pcnt_some_college	60.0
+29049	Missouri	Clinton	pcnt_some_college	60
 29051	Missouri	Cole	pcnt_some_college	64.4
-29053	Missouri	Cooper	pcnt_some_college	52.0
+29053	Missouri	Cooper	pcnt_some_college	52
 29055	Missouri	Crawford	pcnt_some_college	44.7
 29057	Missouri	Dade	pcnt_some_college	42.3
 29059	Missouri	Dallas	pcnt_some_college	33.5
 29061	Missouri	Daviess	pcnt_some_college	48.2
 29063	Missouri	DeKalb	pcnt_some_college	37.1
-29065	Missouri	Dent	pcnt_some_college	46.0
+29065	Missouri	Dent	pcnt_some_college	46
 29067	Missouri	Douglas	pcnt_some_college	40.5
-29069	Missouri	Dunklin	pcnt_some_college	35.0
+29069	Missouri	Dunklin	pcnt_some_college	35
 29071	Missouri	Franklin	pcnt_some_college	59.1
 29073	Missouri	Gasconade	pcnt_some_college	51.8
 29075	Missouri	Gentry	pcnt_some_college	50.2
@@ -1528,9 +1528,9 @@ FIPS	State	County	Variable	pcnt_some_college
 29091	Missouri	Howell	pcnt_some_college	50.5
 29093	Missouri	Iron	pcnt_some_college	47.7
 29095	Missouri	Jackson	pcnt_some_college	62.6
-29097	Missouri	Jasper	pcnt_some_college	54.0
+29097	Missouri	Jasper	pcnt_some_college	54
 29099	Missouri	Jefferson	pcnt_some_college	64.2
-29101	Missouri	Johnson	pcnt_some_college	69.0
+29101	Missouri	Johnson	pcnt_some_college	69
 29103	Missouri	Knox	pcnt_some_college	51.2
 29105	Missouri	Laclede	pcnt_some_college	43.1
 29107	Missouri	Lafayette	pcnt_some_college	54.6
@@ -1553,7 +1553,7 @@ FIPS	State	County	Variable	pcnt_some_college
 29141	Missouri	Morgan	pcnt_some_college	42.4
 29143	Missouri	New Madrid	pcnt_some_college	41.1
 29145	Missouri	Newton	pcnt_some_college	56.6
-29147	Missouri	Nodaway	pcnt_some_college	54.0
+29147	Missouri	Nodaway	pcnt_some_college	54
 29149	Missouri	Oregon	pcnt_some_college	39.8
 29151	Missouri	Osage	pcnt_some_college	53.6
 29153	Missouri	Ozark	pcnt_some_college	35.1
@@ -1569,11 +1569,11 @@ FIPS	State	County	Variable	pcnt_some_college
 29173	Missouri	Ralls	pcnt_some_college	49.7
 29175	Missouri	Randolph	pcnt_some_college	43.6
 29177	Missouri	Ray	pcnt_some_college	48.3
-29179	Missouri	Reynolds	pcnt_some_college	45.0
+29179	Missouri	Reynolds	pcnt_some_college	45
 29181	Missouri	Ripley	pcnt_some_college	33.9
 29183	Missouri	St. Charles	pcnt_some_college	76.8
 29185	Missouri	St. Clair	pcnt_some_college	45.6
-29186	Missouri	Ste. Genevieve	pcnt_some_college	50.0
+29186	Missouri	Ste. Genevieve	pcnt_some_college	50
 29187	Missouri	St. Francois	pcnt_some_college	47.5
 29189	Missouri	St. Louis	pcnt_some_college	74.6
 29195	Missouri	Saline	pcnt_some_college	48.8
@@ -1591,19 +1591,19 @@ FIPS	State	County	Variable	pcnt_some_college
 29219	Missouri	Warren	pcnt_some_college	52.9
 29221	Missouri	Washington	pcnt_some_college	34.5
 29223	Missouri	Wayne	pcnt_some_college	38.6
-29225	Missouri	Webster	pcnt_some_college	43.0
+29225	Missouri	Webster	pcnt_some_college	43
 29227	Missouri	Worth	pcnt_some_college	49.6
 29229	Missouri	Wright	pcnt_some_college	40.6
 29510	Missouri	St. Louis City	pcnt_some_college	64.8
 30001	Montana	Beaverhead	pcnt_some_college	70.3
 30003	Montana	Big Horn	pcnt_some_college	47.2
-30005	Montana	Blaine	pcnt_some_college	62.0
+30005	Montana	Blaine	pcnt_some_college	62
 30007	Montana	Broadwater	pcnt_some_college	54.8
 30009	Montana	Carbon	pcnt_some_college	59.9
 30011	Montana	Carter	pcnt_some_college	62.3
 30013	Montana	Cascade	pcnt_some_college	66.5
 30015	Montana	Chouteau	pcnt_some_college	59.3
-30017	Montana	Custer	pcnt_some_college	66.0
+30017	Montana	Custer	pcnt_some_college	66
 30019	Montana	Daniels	pcnt_some_college	69.7
 30021	Montana	Dawson	pcnt_some_college	67.1
 30023	Montana	Deer Lodge	pcnt_some_college	58.1
@@ -1614,7 +1614,7 @@ FIPS	State	County	Variable	pcnt_some_college
 30033	Montana	Garfield	pcnt_some_college	68.8
 30035	Montana	Glacier	pcnt_some_college	53.4
 30037	Montana	Golden Valley	pcnt_some_college	40.7
-30039	Montana	Granite	pcnt_some_college	52.0
+30039	Montana	Granite	pcnt_some_college	52
 30041	Montana	Hill	pcnt_some_college	64.7
 30043	Montana	Jefferson	pcnt_some_college	63.9
 30045	Montana	Judith Basin	pcnt_some_college	70.7
@@ -1623,23 +1623,23 @@ FIPS	State	County	Variable	pcnt_some_college
 30051	Montana	Liberty	pcnt_some_college	56.8
 30053	Montana	Lincoln	pcnt_some_college	47.3
 30055	Montana	McCone	pcnt_some_college	67.1
-30057	Montana	Madison	pcnt_some_college	61.0
+30057	Montana	Madison	pcnt_some_college	61
 30059	Montana	Meagher	pcnt_some_college	38.7
 30061	Montana	Mineral	pcnt_some_college	38.1
-30063	Montana	Missoula	pcnt_some_college	74.0
+30063	Montana	Missoula	pcnt_some_college	74
 30065	Montana	Musselshell	pcnt_some_college	50.2
 30067	Montana	Park	pcnt_some_college	60.5
 30069	Montana	Petroleum	pcnt_some_college	63.6
 30071	Montana	Phillips	pcnt_some_college	56.1
 30073	Montana	Pondera	pcnt_some_college	64.3
 30075	Montana	Powder River	pcnt_some_college	69.5
-30077	Montana	Powell	pcnt_some_college	53.0
+30077	Montana	Powell	pcnt_some_college	53
 30079	Montana	Prairie	pcnt_some_college	75.9
 30081	Montana	Ravalli	pcnt_some_college	56.4
 30083	Montana	Richland	pcnt_some_college	55.5
 30085	Montana	Roosevelt	pcnt_some_college	45.3
-30087	Montana	Rosebud	pcnt_some_college	59.0
-30089	Montana	Sanders	pcnt_some_college	47.0
+30087	Montana	Rosebud	pcnt_some_college	59
+30089	Montana	Sanders	pcnt_some_college	47
 30091	Montana	Sheridan	pcnt_some_college	67.8
 30093	Montana	Silver Bow	pcnt_some_college	62.6
 30095	Montana	Stillwater	pcnt_some_college	62.5
@@ -1683,14 +1683,14 @@ FIPS	State	County	Variable	pcnt_some_college
 31059	Nebraska	Fillmore	pcnt_some_college	72.9
 31061	Nebraska	Franklin	pcnt_some_college	58.2
 31063	Nebraska	Frontier	pcnt_some_college	71.6
-31065	Nebraska	Furnas	pcnt_some_college	58.0
+31065	Nebraska	Furnas	pcnt_some_college	58
 31067	Nebraska	Gage	pcnt_some_college	66.9
 31069	Nebraska	Garden	pcnt_some_college	58.6
 31071	Nebraska	Garfield	pcnt_some_college	65.7
 31073	Nebraska	Gosper	pcnt_some_college	70.2
 31075	Nebraska	Grant	pcnt_some_college	56.9
 31077	Nebraska	Greeley	pcnt_some_college	51.8
-31079	Nebraska	Hall	pcnt_some_college	51.0
+31079	Nebraska	Hall	pcnt_some_college	51
 31081	Nebraska	Hamilton	pcnt_some_college	72.1
 31083	Nebraska	Harlan	pcnt_some_college	69.7
 31085	Nebraska	Hayes	pcnt_some_college	62.3
@@ -1717,7 +1717,7 @@ FIPS	State	County	Variable	pcnt_some_college
 31127	Nebraska	Nemaha	pcnt_some_college	73.4
 31129	Nebraska	Nuckolls	pcnt_some_college	56.5
 31131	Nebraska	Otoe	pcnt_some_college	64.1
-31133	Nebraska	Pawnee	pcnt_some_college	50.0
+31133	Nebraska	Pawnee	pcnt_some_college	50
 31135	Nebraska	Perkins	pcnt_some_college	74.5
 31137	Nebraska	Phelps	pcnt_some_college	75.4
 31139	Nebraska	Pierce	pcnt_some_college	70.7
@@ -1731,15 +1731,15 @@ FIPS	State	County	Variable	pcnt_some_college
 31155	Nebraska	Saunders	pcnt_some_college	70.8
 31157	Nebraska	Scotts Bluff	pcnt_some_college	58.7
 31159	Nebraska	Seward	pcnt_some_college	78.9
-31161	Nebraska	Sheridan	pcnt_some_college	63.0
+31161	Nebraska	Sheridan	pcnt_some_college	63
 31163	Nebraska	Sherman	pcnt_some_college	63.6
 31165	Nebraska	Sioux	pcnt_some_college	70.4
 31167	Nebraska	Stanton	pcnt_some_college	67.7
 31169	Nebraska	Thayer	pcnt_some_college	69.5
 31171	Nebraska	Thomas	pcnt_some_college	78.1
 31173	Nebraska	Thurston	pcnt_some_college	53.1
-31175	Nebraska	Valley	pcnt_some_college	66.0
-31177	Nebraska	Washington	pcnt_some_college	69.0
+31175	Nebraska	Valley	pcnt_some_college	66
+31177	Nebraska	Washington	pcnt_some_college	69
 31179	Nebraska	Wayne	pcnt_some_college	81.5
 31181	Nebraska	Webster	pcnt_some_college	62.8
 31183	Nebraska	Wheeler	pcnt_some_college	81.8
@@ -1747,15 +1747,15 @@ FIPS	State	County	Variable	pcnt_some_college
 32001	Nevada	Churchill	pcnt_some_college	57.3
 32003	Nevada	Clark	pcnt_some_college	53.9
 32005	Nevada	Douglas	pcnt_some_college	67.7
-32007	Nevada	Elko	pcnt_some_college	54.0
+32007	Nevada	Elko	pcnt_some_college	54
 32009	Nevada	Esmeralda	pcnt_some_college	40.7
 32011	Nevada	Eureka	pcnt_some_college	48.2
 32013	Nevada	Humboldt	pcnt_some_college	49.9
 32015	Nevada	Lander	pcnt_some_college	50.4
-32017	Nevada	Lincoln	pcnt_some_college	57.0
+32017	Nevada	Lincoln	pcnt_some_college	57
 32019	Nevada	Lyon	pcnt_some_college	53.3
 32021	Nevada	Mineral	pcnt_some_college	30.9
-32023	Nevada	Nye	pcnt_some_college	42.0
+32023	Nevada	Nye	pcnt_some_college	42
 32027	Nevada	Pershing	pcnt_some_college	37.7
 32029	Nevada	Storey	pcnt_some_college	74.3
 32031	Nevada	Washoe	pcnt_some_college	59.5
@@ -1767,12 +1767,12 @@ FIPS	State	County	Variable	pcnt_some_college
 33007	New Hampshire	Coos	pcnt_some_college	48.3
 33009	New Hampshire	Grafton	pcnt_some_college	65.7
 33011	New Hampshire	Hillsborough	pcnt_some_college	67.2
-33013	New Hampshire	Merrimack	pcnt_some_college	67.0
+33013	New Hampshire	Merrimack	pcnt_some_college	67
 33015	New Hampshire	Rockingham	pcnt_some_college	72.5
 33017	New Hampshire	Strafford	pcnt_some_college	66.8
 33019	New Hampshire	Sullivan	pcnt_some_college	55.8
-34001	New Jersey	Atlantic	pcnt_some_college	55.0
-34003	New Jersey	Bergen	pcnt_some_college	76.0
+34001	New Jersey	Atlantic	pcnt_some_college	55
+34003	New Jersey	Bergen	pcnt_some_college	76
 34005	New Jersey	Burlington	pcnt_some_college	68.4
 34007	New Jersey	Camden	pcnt_some_college	59.2
 34009	New Jersey	Cape May	pcnt_some_college	56.4
@@ -1785,7 +1785,7 @@ FIPS	State	County	Variable	pcnt_some_college
 34023	New Jersey	Middlesex	pcnt_some_college	69.3
 34025	New Jersey	Monmouth	pcnt_some_college	70.6
 34027	New Jersey	Morris	pcnt_some_college	76.6
-34029	New Jersey	Ocean	pcnt_some_college	61.0
+34029	New Jersey	Ocean	pcnt_some_college	61
 34031	New Jersey	Passaic	pcnt_some_college	52.5
 34033	New Jersey	Salem	pcnt_some_college	53.2
 34035	New Jersey	Somerset	pcnt_some_college	75.4
@@ -1804,15 +1804,15 @@ FIPS	State	County	Variable	pcnt_some_college
 35017	New Mexico	Grant	pcnt_some_college	60.3
 35019	New Mexico	Guadalupe	pcnt_some_college	42.5
 35021	New Mexico	Harding	pcnt_some_college	53.2
-35023	New Mexico	Hidalgo	pcnt_some_college	48.0
+35023	New Mexico	Hidalgo	pcnt_some_college	48
 35025	New Mexico	Lea	pcnt_some_college	43.6
-35027	New Mexico	Lincoln	pcnt_some_college	59.0
+35027	New Mexico	Lincoln	pcnt_some_college	59
 35028	New Mexico	Los Alamos	pcnt_some_college	90.4
 35029	New Mexico	Luna	pcnt_some_college	38.6
 35031	New Mexico	McKinley	pcnt_some_college	41.9
 35033	New Mexico	Mora	pcnt_some_college	43.2
 35035	New Mexico	Otero	pcnt_some_college	57.3
-35037	New Mexico	Quay	pcnt_some_college	37.0
+35037	New Mexico	Quay	pcnt_some_college	37
 35039	New Mexico	Rio Arriba	pcnt_some_college	49.5
 35041	New Mexico	Roosevelt	pcnt_some_college	53.6
 35043	New Mexico	Sandoval	pcnt_some_college	64.7
@@ -1820,10 +1820,10 @@ FIPS	State	County	Variable	pcnt_some_college
 35047	New Mexico	San Miguel	pcnt_some_college	57.5
 35049	New Mexico	Santa Fe	pcnt_some_college	58.7
 35051	New Mexico	Sierra	pcnt_some_college	36.3
-35053	New Mexico	Socorro	pcnt_some_college	46.0
+35053	New Mexico	Socorro	pcnt_some_college	46
 35055	New Mexico	Taos	pcnt_some_college	59.6
 35057	New Mexico	Torrance	pcnt_some_college	41.4
-35059	New Mexico	Union	pcnt_some_college	44.0
+35059	New Mexico	Union	pcnt_some_college	44
 35061	New Mexico	Valencia	pcnt_some_college	55.8
 36001	New York	Albany	pcnt_some_college	72.9
 36003	New York	Allegany	pcnt_some_college	54.8
@@ -1831,15 +1831,15 @@ FIPS	State	County	Variable	pcnt_some_college
 36007	New York	Broome	pcnt_some_college	62.9
 36009	New York	Cattaraugus	pcnt_some_college	53.1
 36011	New York	Cayuga	pcnt_some_college	52.9
-36013	New York	Chautauqua	pcnt_some_college	57.0
+36013	New York	Chautauqua	pcnt_some_college	57
 36015	New York	Chemung	pcnt_some_college	56.9
-36017	New York	Chenango	pcnt_some_college	53.0
+36017	New York	Chenango	pcnt_some_college	53
 36019	New York	Clinton	pcnt_some_college	50.2
 36021	New York	Columbia	pcnt_some_college	61.2
 36023	New York	Cortland	pcnt_some_college	59.2
 36025	New York	Delaware	pcnt_some_college	52.3
 36027	New York	Dutchess	pcnt_some_college	64.9
-36029	New York	Erie	pcnt_some_college	70.0
+36029	New York	Erie	pcnt_some_college	70
 36031	New York	Essex	pcnt_some_college	53.5
 36033	New York	Franklin	pcnt_some_college	48.4
 36035	New York	Fulton	pcnt_some_college	49.8
@@ -1865,28 +1865,28 @@ FIPS	State	County	Variable	pcnt_some_college
 36075	New York	Oswego	pcnt_some_college	52.9
 36077	New York	Otsego	pcnt_some_college	59.9
 36079	New York	Putnam	pcnt_some_college	71.1
-36081	New York	Queens	pcnt_some_college	61.0
+36081	New York	Queens	pcnt_some_college	61
 36083	New York	Rensselaer	pcnt_some_college	66.2
 36085	New York	Richmond	pcnt_some_college	63.9
 36087	New York	Rockland	pcnt_some_college	66.8
 36089	New York	St. Lawrence	pcnt_some_college	54.7
 36091	New York	Saratoga	pcnt_some_college	72.1
-36093	New York	Schenectady	pcnt_some_college	65.0
+36093	New York	Schenectady	pcnt_some_college	65
 36095	New York	Schoharie	pcnt_some_college	55.8
 36097	New York	Schuyler	pcnt_some_college	56.4
 36099	New York	Seneca	pcnt_some_college	52.7
 36101	New York	Steuben	pcnt_some_college	58.6
-36103	New York	Suffolk	pcnt_some_college	64.0
+36103	New York	Suffolk	pcnt_some_college	64
 36105	New York	Sullivan	pcnt_some_college	48.8
 36107	New York	Tioga	pcnt_some_college	57.4
 36109	New York	Tompkins	pcnt_some_college	79.8
-36111	New York	Ulster	pcnt_some_college	62.0
+36111	New York	Ulster	pcnt_some_college	62
 36113	New York	Warren	pcnt_some_college	62.6
 36115	New York	Washington	pcnt_some_college	45.1
 36117	New York	Wayne	pcnt_some_college	58.6
 36119	New York	Westchester	pcnt_some_college	68.3
 36121	New York	Wyoming	pcnt_some_college	50.6
-36123	New York	Yates	pcnt_some_college	43.0
+36123	New York	Yates	pcnt_some_college	43
 37001	North Carolina	Alamance	pcnt_some_college	56.2
 37003	North Carolina	Alexander	pcnt_some_college	41.2
 37005	North Carolina	Alleghany	pcnt_some_college	51.4
@@ -1894,19 +1894,19 @@ FIPS	State	County	Variable	pcnt_some_college
 37009	North Carolina	Ashe	pcnt_some_college	43.2
 37011	North Carolina	Avery	pcnt_some_college	51.7
 37013	North Carolina	Beaufort	pcnt_some_college	51.7
-37015	North Carolina	Bertie	pcnt_some_college	42.0
+37015	North Carolina	Bertie	pcnt_some_college	42
 37017	North Carolina	Bladen	pcnt_some_college	49.6
 37019	North Carolina	Brunswick	pcnt_some_college	57.7
 37021	North Carolina	Buncombe	pcnt_some_college	67.6
 37023	North Carolina	Burke	pcnt_some_college	49.7
 37025	North Carolina	Cabarrus	pcnt_some_college	64.2
-37027	North Carolina	Caldwell	pcnt_some_college	50.0
+37027	North Carolina	Caldwell	pcnt_some_college	50
 37029	North Carolina	Camden	pcnt_some_college	71.2
 37031	North Carolina	Carteret	pcnt_some_college	61.8
 37033	North Carolina	Caswell	pcnt_some_college	45.3
 37035	North Carolina	Catawba	pcnt_some_college	54.9
 37037	North Carolina	Chatham	pcnt_some_college	61.2
-37039	North Carolina	Cherokee	pcnt_some_college	57.0
+37039	North Carolina	Cherokee	pcnt_some_college	57
 37041	North Carolina	Chowan	pcnt_some_college	50.4
 37043	North Carolina	Clay	pcnt_some_college	55.1
 37045	North Carolina	Cleveland	pcnt_some_college	52.3
@@ -1917,7 +1917,7 @@ FIPS	State	County	Variable	pcnt_some_college
 37055	North Carolina	Dare	pcnt_some_college	66.5
 37057	North Carolina	Davidson	pcnt_some_college	48.2
 37059	North Carolina	Davie	pcnt_some_college	57.3
-37061	North Carolina	Duplin	pcnt_some_college	42.0
+37061	North Carolina	Duplin	pcnt_some_college	42
 37063	North Carolina	Durham	pcnt_some_college	70.9
 37065	North Carolina	Edgecombe	pcnt_some_college	48.2
 37067	North Carolina	Forsyth	pcnt_some_college	62.5
@@ -1941,7 +1941,7 @@ FIPS	State	County	Variable	pcnt_some_college
 37103	North Carolina	Jones	pcnt_some_college	55.7
 37105	North Carolina	Lee	pcnt_some_college	49.7
 37107	North Carolina	Lenoir	pcnt_some_college	53.1
-37109	North Carolina	Lincoln	pcnt_some_college	55.0
+37109	North Carolina	Lincoln	pcnt_some_college	55
 37111	North Carolina	McDowell	pcnt_some_college	50.1
 37113	North Carolina	Macon	pcnt_some_college	49.1
 37115	North Carolina	Madison	pcnt_some_college	52.6
@@ -1975,13 +1975,13 @@ FIPS	State	County	Variable	pcnt_some_college
 37171	North Carolina	Surry	pcnt_some_college	52.8
 37173	North Carolina	Swain	pcnt_some_college	58.4
 37175	North Carolina	Transylvania	pcnt_some_college	58.3
-37177	North Carolina	Tyrrell	pcnt_some_college	31.0
+37177	North Carolina	Tyrrell	pcnt_some_college	31
 37179	North Carolina	Union	pcnt_some_college	65.2
 37181	North Carolina	Vance	pcnt_some_college	44.4
 37183	North Carolina	Wake	pcnt_some_college	77.3
 37185	North Carolina	Warren	pcnt_some_college	45.6
 37187	North Carolina	Washington	pcnt_some_college	56.1
-37189	North Carolina	Watauga	pcnt_some_college	72.0
+37189	North Carolina	Watauga	pcnt_some_college	72
 37191	North Carolina	Wayne	pcnt_some_college	56.6
 37193	North Carolina	Wilkes	pcnt_some_college	47.5
 37195	North Carolina	Wilson	pcnt_some_college	51.9
@@ -2015,15 +2015,15 @@ FIPS	State	County	Variable	pcnt_some_college
 38051	North Dakota	McIntosh	pcnt_some_college	66.3
 38053	North Dakota	McKenzie	pcnt_some_college	74.1
 38055	North Dakota	McLean	pcnt_some_college	68.6
-38057	North Dakota	Mercer	pcnt_some_college	74.0
+38057	North Dakota	Mercer	pcnt_some_college	74
 38059	North Dakota	Morton	pcnt_some_college	71.5
 38061	North Dakota	Mountrail	pcnt_some_college	67.9
 38063	North Dakota	Nelson	pcnt_some_college	67.6
 38065	North Dakota	Oliver	pcnt_some_college	78.4
-38067	North Dakota	Pembina	pcnt_some_college	65.0
+38067	North Dakota	Pembina	pcnt_some_college	65
 38069	North Dakota	Pierce	pcnt_some_college	70.2
 38071	North Dakota	Ramsey	pcnt_some_college	68.1
-38073	North Dakota	Ransom	pcnt_some_college	64.0
+38073	North Dakota	Ransom	pcnt_some_college	64
 38075	North Dakota	Renville	pcnt_some_college	79.3
 38077	North Dakota	Richland	pcnt_some_college	75.1
 38079	North Dakota	Rolette	pcnt_some_college	61.8
@@ -2055,7 +2055,7 @@ FIPS	State	County	Variable	pcnt_some_college
 39025	Ohio	Clermont	pcnt_some_college	60.8
 39027	Ohio	Clinton	pcnt_some_college	51.6
 39029	Ohio	Columbiana	pcnt_some_college	45.2
-39031	Ohio	Coshocton	pcnt_some_college	44.0
+39031	Ohio	Coshocton	pcnt_some_college	44
 39033	Ohio	Crawford	pcnt_some_college	43.8
 39035	Ohio	Cuyahoga	pcnt_some_college	66.1
 39037	Ohio	Darke	pcnt_some_college	48.7
@@ -2073,12 +2073,12 @@ FIPS	State	County	Variable	pcnt_some_college
 39061	Ohio	Hamilton	pcnt_some_college	66.4
 39063	Ohio	Hancock	pcnt_some_college	61.7
 39065	Ohio	Hardin	pcnt_some_college	42.7
-39067	Ohio	Harrison	pcnt_some_college	45.0
+39067	Ohio	Harrison	pcnt_some_college	45
 39069	Ohio	Henry	pcnt_some_college	57.5
 39071	Ohio	Highland	pcnt_some_college	46.3
-39073	Ohio	Hocking	pcnt_some_college	51.0
+39073	Ohio	Hocking	pcnt_some_college	51
 39075	Ohio	Holmes	pcnt_some_college	24.4
-39077	Ohio	Huron	pcnt_some_college	44.0
+39077	Ohio	Huron	pcnt_some_college	44
 39079	Ohio	Jackson	pcnt_some_college	45.5
 39081	Ohio	Jefferson	pcnt_some_college	55.2
 39083	Ohio	Knox	pcnt_some_college	52.9
@@ -2088,22 +2088,22 @@ FIPS	State	County	Variable	pcnt_some_college
 39091	Ohio	Logan	pcnt_some_college	44.3
 39093	Ohio	Lorain	pcnt_some_college	60.9
 39095	Ohio	Lucas	pcnt_some_college	62.3
-39097	Ohio	Madison	pcnt_some_college	50.0
+39097	Ohio	Madison	pcnt_some_college	50
 39099	Ohio	Mahoning	pcnt_some_college	57.5
 39101	Ohio	Marion	pcnt_some_college	43.4
 39103	Ohio	Medina	pcnt_some_college	71.4
 39105	Ohio	Meigs	pcnt_some_college	48.4
 39107	Ohio	Mercer	pcnt_some_college	54.4
-39109	Ohio	Miami	pcnt_some_college	58.0
+39109	Ohio	Miami	pcnt_some_college	58
 39111	Ohio	Monroe	pcnt_some_college	40.9
 39113	Ohio	Montgomery	pcnt_some_college	65.9
 39115	Ohio	Morgan	pcnt_some_college	44.4
 39117	Ohio	Morrow	pcnt_some_college	50.4
 39119	Ohio	Muskingum	pcnt_some_college	49.3
 39121	Ohio	Noble	pcnt_some_college	37.5
-39123	Ohio	Ottawa	pcnt_some_college	61.0
+39123	Ohio	Ottawa	pcnt_some_college	61
 39125	Ohio	Paulding	pcnt_some_college	48.6
-39127	Ohio	Perry	pcnt_some_college	45.0
+39127	Ohio	Perry	pcnt_some_college	45
 39129	Ohio	Pickaway	pcnt_some_college	45.4
 39131	Ohio	Pike	pcnt_some_college	38.6
 39133	Ohio	Portage	pcnt_some_college	59.9
@@ -2118,7 +2118,7 @@ FIPS	State	County	Variable	pcnt_some_college
 39151	Ohio	Stark	pcnt_some_college	60.1
 39153	Ohio	Summit	pcnt_some_college	66.3
 39155	Ohio	Trumbull	pcnt_some_college	49.6
-39157	Ohio	Tuscarawas	pcnt_some_college	45.0
+39157	Ohio	Tuscarawas	pcnt_some_college	45
 39159	Ohio	Union	pcnt_some_college	64.3
 39161	Ohio	Van Wert	pcnt_some_college	54.2
 39163	Ohio	Vinton	pcnt_some_college	34.5
@@ -2127,7 +2127,7 @@ FIPS	State	County	Variable	pcnt_some_college
 39169	Ohio	Wayne	pcnt_some_college	46.3
 39171	Ohio	Williams	pcnt_some_college	53.2
 39173	Ohio	Wood	pcnt_some_college	69.2
-39175	Ohio	Wyandot	pcnt_some_college	54.0
+39175	Ohio	Wyandot	pcnt_some_college	54
 40001	Oklahoma	Adair	pcnt_some_college	36.4
 40003	Oklahoma	Alfalfa	pcnt_some_college	40.6
 40005	Oklahoma	Atoka	pcnt_some_college	40.7
@@ -2165,7 +2165,7 @@ FIPS	State	County	Variable	pcnt_some_college
 40069	Oklahoma	Johnston	pcnt_some_college	58.9
 40071	Oklahoma	Kay	pcnt_some_college	52.2
 40073	Oklahoma	Kingfisher	pcnt_some_college	54.8
-40075	Oklahoma	Kiowa	pcnt_some_college	46.0
+40075	Oklahoma	Kiowa	pcnt_some_college	46
 40077	Oklahoma	Latimer	pcnt_some_college	56.7
 40079	Oklahoma	Le Flore	pcnt_some_college	44.7
 40081	Oklahoma	Lincoln	pcnt_some_college	47.8
@@ -2181,20 +2181,20 @@ FIPS	State	County	Variable	pcnt_some_college
 40101	Oklahoma	Muskogee	pcnt_some_college	52.3
 40103	Oklahoma	Noble	pcnt_some_college	53.5
 40105	Oklahoma	Nowata	pcnt_some_college	55.8
-40107	Oklahoma	Okfuskee	pcnt_some_college	43.0
+40107	Oklahoma	Okfuskee	pcnt_some_college	43
 40109	Oklahoma	Oklahoma	pcnt_some_college	61.1
-40111	Oklahoma	Okmulgee	pcnt_some_college	50.0
-40113	Oklahoma	Osage	pcnt_some_college	51.0
+40111	Oklahoma	Okmulgee	pcnt_some_college	50
+40113	Oklahoma	Osage	pcnt_some_college	51
 40115	Oklahoma	Ottawa	pcnt_some_college	49.2
 40117	Oklahoma	Pawnee	pcnt_some_college	52.1
 40119	Oklahoma	Payne	pcnt_some_college	67.5
 40121	Oklahoma	Pittsburg	pcnt_some_college	48.3
 40123	Oklahoma	Pontotoc	pcnt_some_college	58.6
 40125	Oklahoma	Pottawatomie	pcnt_some_college	52.8
-40127	Oklahoma	Pushmataha	pcnt_some_college	44.0
+40127	Oklahoma	Pushmataha	pcnt_some_college	44
 40129	Oklahoma	Roger Mills	pcnt_some_college	56.4
 40131	Oklahoma	Rogers	pcnt_some_college	60.8
-40133	Oklahoma	Seminole	pcnt_some_college	48.0
+40133	Oklahoma	Seminole	pcnt_some_college	48
 40135	Oklahoma	Sequoyah	pcnt_some_college	43.1
 40137	Oklahoma	Stephens	pcnt_some_college	47.2
 40139	Oklahoma	Texas	pcnt_some_college	41.3
@@ -2216,7 +2216,7 @@ FIPS	State	County	Variable	pcnt_some_college
 41017	Oregon	Deschutes	pcnt_some_college	68.9
 41019	Oregon	Douglas	pcnt_some_college	53.9
 41021	Oregon	Gilliam	pcnt_some_college	57.4
-41023	Oregon	Grant	pcnt_some_college	65.0
+41023	Oregon	Grant	pcnt_some_college	65
 41025	Oregon	Harney	pcnt_some_college	61.7
 41027	Oregon	Hood River	pcnt_some_college	51.3
 41029	Oregon	Jackson	pcnt_some_college	58.1
@@ -2231,7 +2231,7 @@ FIPS	State	County	Variable	pcnt_some_college
 41047	Oregon	Marion	pcnt_some_college	51.5
 41049	Oregon	Morrow	pcnt_some_college	34.9
 41051	Oregon	Multnomah	pcnt_some_college	71.8
-41053	Oregon	Polk	pcnt_some_college	63.0
+41053	Oregon	Polk	pcnt_some_college	63
 41055	Oregon	Sherman	pcnt_some_college	65.1
 41057	Oregon	Tillamook	pcnt_some_college	46.6
 41059	Oregon	Umatilla	pcnt_some_college	48.8
@@ -2240,7 +2240,7 @@ FIPS	State	County	Variable	pcnt_some_college
 41065	Oregon	Wasco	pcnt_some_college	54.5
 41067	Oregon	Washington	pcnt_some_college	73.3
 41069	Oregon	Wheeler	pcnt_some_college	60.5
-41071	Oregon	Yamhill	pcnt_some_college	55.0
+41071	Oregon	Yamhill	pcnt_some_college	55
 42001	Pennsylvania	Adams	pcnt_some_college	49.3
 42003	Pennsylvania	Allegheny	pcnt_some_college	73.9
 42005	Pennsylvania	Armstrong	pcnt_some_college	49.5
@@ -2253,7 +2253,7 @@ FIPS	State	County	Variable	pcnt_some_college
 42019	Pennsylvania	Butler	pcnt_some_college	68.3
 42021	Pennsylvania	Cambria	pcnt_some_college	54.9
 42023	Pennsylvania	Cameron	pcnt_some_college	45.8
-42025	Pennsylvania	Carbon	pcnt_some_college	54.0
+42025	Pennsylvania	Carbon	pcnt_some_college	54
 42027	Pennsylvania	Centre	pcnt_some_college	70.3
 42029	Pennsylvania	Chester	pcnt_some_college	75.5
 42031	Pennsylvania	Clarion	pcnt_some_college	49.9
@@ -2268,7 +2268,7 @@ FIPS	State	County	Variable	pcnt_some_college
 42049	Pennsylvania	Erie	pcnt_some_college	55.3
 42051	Pennsylvania	Fayette	pcnt_some_college	45.8
 42053	Pennsylvania	Forest	pcnt_some_college	28.6
-42055	Pennsylvania	Franklin	pcnt_some_college	49.0
+42055	Pennsylvania	Franklin	pcnt_some_college	49
 42057	Pennsylvania	Fulton	pcnt_some_college	36.5
 42059	Pennsylvania	Greene	pcnt_some_college	42.6
 42061	Pennsylvania	Huntingdon	pcnt_some_college	41.4
@@ -2283,7 +2283,7 @@ FIPS	State	County	Variable	pcnt_some_college
 42079	Pennsylvania	Luzerne	pcnt_some_college	57.3
 42081	Pennsylvania	Lycoming	pcnt_some_college	53.4
 42083	Pennsylvania	McKean	pcnt_some_college	47.1
-42085	Pennsylvania	Mercer	pcnt_some_college	52.0
+42085	Pennsylvania	Mercer	pcnt_some_college	52
 42087	Pennsylvania	Mifflin	pcnt_some_college	40.5
 42089	Pennsylvania	Monroe	pcnt_some_college	59.9
 42091	Pennsylvania	Montgomery	pcnt_some_college	76.2
@@ -2293,7 +2293,7 @@ FIPS	State	County	Variable	pcnt_some_college
 42099	Pennsylvania	Perry	pcnt_some_college	45.1
 42101	Pennsylvania	Philadelphia	pcnt_some_college	54.8
 42103	Pennsylvania	Pike	pcnt_some_college	58.6
-42105	Pennsylvania	Potter	pcnt_some_college	47.0
+42105	Pennsylvania	Potter	pcnt_some_college	47
 42107	Pennsylvania	Schuylkill	pcnt_some_college	46.7
 42109	Pennsylvania	Snyder	pcnt_some_college	45.8
 42111	Pennsylvania	Somerset	pcnt_some_college	42.7
@@ -2306,7 +2306,7 @@ FIPS	State	County	Variable	pcnt_some_college
 42125	Pennsylvania	Washington	pcnt_some_college	64.9
 42127	Pennsylvania	Wayne	pcnt_some_college	47.6
 42129	Pennsylvania	Westmoreland	pcnt_some_college	65.1
-42131	Pennsylvania	Wyoming	pcnt_some_college	47.0
+42131	Pennsylvania	Wyoming	pcnt_some_college	47
 42133	Pennsylvania	York	pcnt_some_college	54.3
 44001	Rhode Island	Bristol	pcnt_some_college	75.9
 44003	Rhode Island	Kent	pcnt_some_college	67.3
@@ -2322,7 +2322,7 @@ FIPS	State	County	Variable	pcnt_some_college
 45013	South Carolina	Beaufort	pcnt_some_college	61.1
 45015	South Carolina	Berkeley	pcnt_some_college	56.1
 45017	South Carolina	Calhoun	pcnt_some_college	54.4
-45019	South Carolina	Charleston	pcnt_some_college	70.0
+45019	South Carolina	Charleston	pcnt_some_college	70
 45021	South Carolina	Cherokee	pcnt_some_college	41.8
 45023	South Carolina	Chester	pcnt_some_college	40.7
 45025	South Carolina	Chesterfield	pcnt_some_college	44.7
@@ -2332,7 +2332,7 @@ FIPS	State	County	Variable	pcnt_some_college
 45033	South Carolina	Dillon	pcnt_some_college	33.8
 45035	South Carolina	Dorchester	pcnt_some_college	62.2
 45037	South Carolina	Edgefield	pcnt_some_college	43.4
-45039	South Carolina	Fairfield	pcnt_some_college	43.0
+45039	South Carolina	Fairfield	pcnt_some_college	43
 45041	South Carolina	Florence	pcnt_some_college	53.3
 45043	South Carolina	Georgetown	pcnt_some_college	51.1
 45045	South Carolina	Greenville	pcnt_some_college	62.7
@@ -2345,14 +2345,14 @@ FIPS	State	County	Variable	pcnt_some_college
 45059	South Carolina	Laurens	pcnt_some_college	45.7
 45061	South Carolina	Lee	pcnt_some_college	33.4
 45063	South Carolina	Lexington	pcnt_some_college	64.5
-45065	South Carolina	McCormick	pcnt_some_college	43.0
+45065	South Carolina	McCormick	pcnt_some_college	43
 45067	South Carolina	Marion	pcnt_some_college	40.5
 45069	South Carolina	Marlboro	pcnt_some_college	29.6
 45071	South Carolina	Newberry	pcnt_some_college	47.5
 45073	South Carolina	Oconee	pcnt_some_college	51.3
 45075	South Carolina	Orangeburg	pcnt_some_college	46.2
 45077	South Carolina	Pickens	pcnt_some_college	57.8
-45079	South Carolina	Richland	pcnt_some_college	71.0
+45079	South Carolina	Richland	pcnt_some_college	71
 45081	South Carolina	Saluda	pcnt_some_college	36.6
 45083	South Carolina	Spartanburg	pcnt_some_college	54.7
 45085	South Carolina	Sumter	pcnt_some_college	55.2
@@ -2371,7 +2371,7 @@ FIPS	State	County	Variable	pcnt_some_college
 46021	South Dakota	Campbell	pcnt_some_college	76.8
 46023	South Dakota	Charles Mix	pcnt_some_college	50.4
 46025	South Dakota	Clark	pcnt_some_college	48.7
-46027	South Dakota	Clay	pcnt_some_college	79.0
+46027	South Dakota	Clay	pcnt_some_college	79
 46029	South Dakota	Codington	pcnt_some_college	67.5
 46031	South Dakota	Corson	pcnt_some_college	49.3
 46033	South Dakota	Custer	pcnt_some_college	78.3
@@ -2383,12 +2383,12 @@ FIPS	State	County	Variable	pcnt_some_college
 46045	South Dakota	Edmunds	pcnt_some_college	63.6
 46047	South Dakota	Fall River	pcnt_some_college	66.7
 46049	South Dakota	Faulk	pcnt_some_college	63.3
-46051	South Dakota	Grant	pcnt_some_college	59.0
+46051	South Dakota	Grant	pcnt_some_college	59
 46053	South Dakota	Gregory	pcnt_some_college	70.8
 46055	South Dakota	Haakon	pcnt_some_college	65.7
 46057	South Dakota	Hamlin	pcnt_some_college	56.9
 46059	South Dakota	Hand	pcnt_some_college	71.2
-46061	South Dakota	Hanson	pcnt_some_college	63.0
+46061	South Dakota	Hanson	pcnt_some_college	63
 46063	South Dakota	Harding	pcnt_some_college	71.5
 46065	South Dakota	Hughes	pcnt_some_college	75.2
 46067	South Dakota	Hutchinson	pcnt_some_college	64.9
@@ -2396,7 +2396,7 @@ FIPS	State	County	Variable	pcnt_some_college
 46071	South Dakota	Jackson	pcnt_some_college	59.9
 46073	South Dakota	Jerauld	pcnt_some_college	61.8
 46075	South Dakota	Jones	pcnt_some_college	78.1
-46077	South Dakota	Kingsbury	pcnt_some_college	64.0
+46077	South Dakota	Kingsbury	pcnt_some_college	64
 46079	South Dakota	Lake	pcnt_some_college	70.8
 46081	South Dakota	Lawrence	pcnt_some_college	65.7
 46083	South Dakota	Lincoln	pcnt_some_college	78.3
@@ -2419,9 +2419,9 @@ FIPS	State	County	Variable	pcnt_some_college
 46117	South Dakota	Stanley	pcnt_some_college	63.1
 46119	South Dakota	Sully	pcnt_some_college	64.4
 46121	South Dakota	Todd	pcnt_some_college	47.1
-46123	South Dakota	Tripp	pcnt_some_college	66.0
+46123	South Dakota	Tripp	pcnt_some_college	66
 46125	South Dakota	Turner	pcnt_some_college	67.9
-46127	South Dakota	Union	pcnt_some_college	76.0
+46127	South Dakota	Union	pcnt_some_college	76
 46129	South Dakota	Walworth	pcnt_some_college	64.6
 46135	South Dakota	Yankton	pcnt_some_college	56.1
 46137	South Dakota	Ziebach	pcnt_some_college	44.2
@@ -2430,7 +2430,7 @@ FIPS	State	County	Variable	pcnt_some_college
 47005	Tennessee	Benton	pcnt_some_college	40.9
 47007	Tennessee	Bledsoe	pcnt_some_college	34.6
 47009	Tennessee	Blount	pcnt_some_college	52.8
-47011	Tennessee	Bradley	pcnt_some_college	54.0
+47011	Tennessee	Bradley	pcnt_some_college	54
 47013	Tennessee	Campbell	pcnt_some_college	32.7
 47015	Tennessee	Cannon	pcnt_some_college	30.7
 47017	Tennessee	Carroll	pcnt_some_college	47.2
@@ -2438,11 +2438,11 @@ FIPS	State	County	Variable	pcnt_some_college
 47021	Tennessee	Cheatham	pcnt_some_college	54.2
 47023	Tennessee	Chester	pcnt_some_college	46.5
 47025	Tennessee	Claiborne	pcnt_some_college	36.9
-47027	Tennessee	Clay	pcnt_some_college	44.0
+47027	Tennessee	Clay	pcnt_some_college	44
 47029	Tennessee	Cocke	pcnt_some_college	32.8
 47031	Tennessee	Coffee	pcnt_some_college	47.1
 47033	Tennessee	Crockett	pcnt_some_college	40.9
-47035	Tennessee	Cumberland	pcnt_some_college	45.0
+47035	Tennessee	Cumberland	pcnt_some_college	45
 47037	Tennessee	Davidson	pcnt_some_college	64.8
 47039	Tennessee	Decatur	pcnt_some_college	43.5
 47041	Tennessee	DeKalb	pcnt_some_college	40.2
@@ -2450,10 +2450,10 @@ FIPS	State	County	Variable	pcnt_some_college
 47045	Tennessee	Dyer	pcnt_some_college	45.1
 47047	Tennessee	Fayette	pcnt_some_college	56.3
 47049	Tennessee	Fentress	pcnt_some_college	32.3
-47051	Tennessee	Franklin	pcnt_some_college	45.0
+47051	Tennessee	Franklin	pcnt_some_college	45
 47053	Tennessee	Gibson	pcnt_some_college	50.6
 47055	Tennessee	Giles	pcnt_some_college	42.6
-47057	Tennessee	Grainger	pcnt_some_college	32.0
+47057	Tennessee	Grainger	pcnt_some_college	32
 47059	Tennessee	Greene	pcnt_some_college	39.9
 47061	Tennessee	Grundy	pcnt_some_college	26.3
 47063	Tennessee	Hamblen	pcnt_some_college	47.3
@@ -2462,7 +2462,7 @@ FIPS	State	County	Variable	pcnt_some_college
 47069	Tennessee	Hardeman	pcnt_some_college	34.3
 47071	Tennessee	Hardin	pcnt_some_college	35.1
 47073	Tennessee	Hawkins	pcnt_some_college	45.3
-47075	Tennessee	Haywood	pcnt_some_college	41.0
+47075	Tennessee	Haywood	pcnt_some_college	41
 47077	Tennessee	Henderson	pcnt_some_college	44.9
 47079	Tennessee	Henry	pcnt_some_college	41.3
 47081	Tennessee	Hickman	pcnt_some_college	35.5
@@ -2471,9 +2471,9 @@ FIPS	State	County	Variable	pcnt_some_college
 47087	Tennessee	Jackson	pcnt_some_college	29.3
 47089	Tennessee	Jefferson	pcnt_some_college	46.7
 47091	Tennessee	Johnson	pcnt_some_college	33.3
-47093	Tennessee	Knox	pcnt_some_college	70.0
+47093	Tennessee	Knox	pcnt_some_college	70
 47095	Tennessee	Lake	pcnt_some_college	27.3
-47097	Tennessee	Lauderdale	pcnt_some_college	32.0
+47097	Tennessee	Lauderdale	pcnt_some_college	32
 47099	Tennessee	Lawrence	pcnt_some_college	44.5
 47101	Tennessee	Lewis	pcnt_some_college	35.4
 47103	Tennessee	Lincoln	pcnt_some_college	42.3
@@ -2492,19 +2492,19 @@ FIPS	State	County	Variable	pcnt_some_college
 47129	Tennessee	Morgan	pcnt_some_college	33.4
 47131	Tennessee	Obion	pcnt_some_college	41.8
 47133	Tennessee	Overton	pcnt_some_college	41.3
-47135	Tennessee	Perry	pcnt_some_college	33.0
-47137	Tennessee	Pickett	pcnt_some_college	35.0
+47135	Tennessee	Perry	pcnt_some_college	33
+47137	Tennessee	Pickett	pcnt_some_college	35
 47139	Tennessee	Polk	pcnt_some_college	35.4
 47141	Tennessee	Putnam	pcnt_some_college	49.9
 47143	Tennessee	Rhea	pcnt_some_college	36.7
 47145	Tennessee	Roane	pcnt_some_college	51.3
 47147	Tennessee	Robertson	pcnt_some_college	48.2
-47149	Tennessee	Rutherford	pcnt_some_college	65.0
+47149	Tennessee	Rutherford	pcnt_some_college	65
 47151	Tennessee	Scott	pcnt_some_college	39.3
 47153	Tennessee	Sequatchie	pcnt_some_college	42.9
-47155	Tennessee	Sevier	pcnt_some_college	47.0
+47155	Tennessee	Sevier	pcnt_some_college	47
 47157	Tennessee	Shelby	pcnt_some_college	61.4
-47159	Tennessee	Smith	pcnt_some_college	40.0
+47159	Tennessee	Smith	pcnt_some_college	40
 47161	Tennessee	Stewart	pcnt_some_college	51.4
 47163	Tennessee	Sullivan	pcnt_some_college	55.5
 47165	Tennessee	Sumner	pcnt_some_college	60.3
@@ -2513,13 +2513,13 @@ FIPS	State	County	Variable	pcnt_some_college
 47171	Tennessee	Unicoi	pcnt_some_college	44.1
 47173	Tennessee	Union	pcnt_some_college	30.7
 47175	Tennessee	Van Buren	pcnt_some_college	18.5
-47177	Tennessee	Warren	pcnt_some_college	40.0
+47177	Tennessee	Warren	pcnt_some_college	40
 47179	Tennessee	Washington	pcnt_some_college	64.3
 47181	Tennessee	Wayne	pcnt_some_college	32.3
 47183	Tennessee	Weakley	pcnt_some_college	48.7
-47185	Tennessee	White	pcnt_some_college	36.0
+47185	Tennessee	White	pcnt_some_college	36
 47187	Tennessee	Williamson	pcnt_some_college	81.2
-47189	Tennessee	Wilson	pcnt_some_college	61.0
+47189	Tennessee	Wilson	pcnt_some_college	61
 48001	Texas	Anderson	pcnt_some_college	40.2
 48003	Texas	Andrews	pcnt_some_college	46.6
 48005	Texas	Angelina	pcnt_some_college	51.2
@@ -2527,7 +2527,7 @@ FIPS	State	County	Variable	pcnt_some_college
 48009	Texas	Archer	pcnt_some_college	48.4
 48011	Texas	Armstrong	pcnt_some_college	77.8
 48013	Texas	Atascosa	pcnt_some_college	42.6
-48015	Texas	Austin	pcnt_some_college	51.0
+48015	Texas	Austin	pcnt_some_college	51
 48017	Texas	Bailey	pcnt_some_college	49.1
 48019	Texas	Bandera	pcnt_some_college	55.7
 48021	Texas	Bastrop	pcnt_some_college	46.2
@@ -2535,7 +2535,7 @@ FIPS	State	County	Variable	pcnt_some_college
 48025	Texas	Bee	pcnt_some_college	39.8
 48027	Texas	Bell	pcnt_some_college	63.3
 48029	Texas	Bexar	pcnt_some_college	60.6
-48031	Texas	Blanco	pcnt_some_college	59.0
+48031	Texas	Blanco	pcnt_some_college	59
 48033	Texas	Borden	pcnt_some_college	43.8
 48035	Texas	Bosque	pcnt_some_college	45.2
 48037	Texas	Bowie	pcnt_some_college	53.7
@@ -2551,7 +2551,7 @@ FIPS	State	County	Variable	pcnt_some_college
 48057	Texas	Calhoun	pcnt_some_college	51.1
 48059	Texas	Callahan	pcnt_some_college	57.9
 48061	Texas	Cameron	pcnt_some_college	44.1
-48063	Texas	Camp	pcnt_some_college	41.0
+48063	Texas	Camp	pcnt_some_college	41
 48065	Texas	Carson	pcnt_some_college	54.8
 48067	Texas	Cass	pcnt_some_college	52.8
 48069	Texas	Castro	pcnt_some_college	37.6
@@ -2563,11 +2563,11 @@ FIPS	State	County	Variable	pcnt_some_college
 48081	Texas	Coke	pcnt_some_college	55.7
 48083	Texas	Coleman	pcnt_some_college	49.7
 48085	Texas	Collin	pcnt_some_college	79.4
-48087	Texas	Collingsworth	pcnt_some_college	46.0
+48087	Texas	Collingsworth	pcnt_some_college	46
 48089	Texas	Colorado	pcnt_some_college	42.2
 48091	Texas	Comal	pcnt_some_college	66.7
 48093	Texas	Comanche	pcnt_some_college	46.3
-48095	Texas	Concho	pcnt_some_college	32.0
+48095	Texas	Concho	pcnt_some_college	32
 48097	Texas	Cooke	pcnt_some_college	50.9
 48099	Texas	Coryell	pcnt_some_college	55.5
 48101	Texas	Cottle	pcnt_some_college	49.5
@@ -2585,10 +2585,10 @@ FIPS	State	County	Variable	pcnt_some_college
 48125	Texas	Dickens	pcnt_some_college	38.5
 48127	Texas	Dimmit	pcnt_some_college	37.6
 48129	Texas	Donley	pcnt_some_college	62.1
-48131	Texas	Duval	pcnt_some_college	32.0
+48131	Texas	Duval	pcnt_some_college	32
 48133	Texas	Eastland	pcnt_some_college	44.4
 48135	Texas	Ector	pcnt_some_college	46.3
-48137	Texas	Edwards	pcnt_some_college	40.0
+48137	Texas	Edwards	pcnt_some_college	40
 48139	Texas	Ellis	pcnt_some_college	55.5
 48141	Texas	El Paso	pcnt_some_college	56.7
 48143	Texas	Erath	pcnt_some_college	56.9
@@ -2601,11 +2601,11 @@ FIPS	State	County	Variable	pcnt_some_college
 48157	Texas	Fort Bend	pcnt_some_college	71.8
 48159	Texas	Franklin	pcnt_some_college	55.2
 48161	Texas	Freestone	pcnt_some_college	44.9
-48163	Texas	Frio	pcnt_some_college	30.0
+48163	Texas	Frio	pcnt_some_college	30
 48165	Texas	Gaines	pcnt_some_college	34.1
 48167	Texas	Galveston	pcnt_some_college	62.4
 48169	Texas	Garza	pcnt_some_college	30.1
-48171	Texas	Gillespie	pcnt_some_college	54.0
+48171	Texas	Gillespie	pcnt_some_college	54
 48173	Texas	Glasscock	pcnt_some_college	73.2
 48175	Texas	Goliad	pcnt_some_college	56.3
 48177	Texas	Gonzales	pcnt_some_college	36.3
@@ -2619,21 +2619,21 @@ FIPS	State	County	Variable	pcnt_some_college
 48193	Texas	Hamilton	pcnt_some_college	54.5
 48195	Texas	Hansford	pcnt_some_college	46.5
 48197	Texas	Hardeman	pcnt_some_college	33.4
-48199	Texas	Hardin	pcnt_some_college	53.0
+48199	Texas	Hardin	pcnt_some_college	53
 48201	Texas	Harris	pcnt_some_college	54.3
 48203	Texas	Harrison	pcnt_some_college	51.9
 48205	Texas	Hartley	pcnt_some_college	42.5
 48207	Texas	Haskell	pcnt_some_college	45.8
-48209	Texas	Hays	pcnt_some_college	67.0
-48211	Texas	Hemphill	pcnt_some_college	51.0
+48209	Texas	Hays	pcnt_some_college	67
+48211	Texas	Hemphill	pcnt_some_college	51
 48213	Texas	Henderson	pcnt_some_college	47.9
 48215	Texas	Hidalgo	pcnt_some_college	41.6
 48217	Texas	Hill	pcnt_some_college	47.8
-48219	Texas	Hockley	pcnt_some_college	57.0
+48219	Texas	Hockley	pcnt_some_college	57
 48221	Texas	Hood	pcnt_some_college	55.5
 48223	Texas	Hopkins	pcnt_some_college	47.5
-48225	Texas	Houston	pcnt_some_college	38.0
-48227	Texas	Howard	pcnt_some_college	42.0
+48225	Texas	Houston	pcnt_some_college	38
+48227	Texas	Howard	pcnt_some_college	42
 48229	Texas	Hudspeth	pcnt_some_college	27.8
 48231	Texas	Hunt	pcnt_some_college	47.5
 48233	Texas	Hutchinson	pcnt_some_college	51.2
@@ -2670,9 +2670,9 @@ FIPS	State	County	Variable	pcnt_some_college
 48295	Texas	Lipscomb	pcnt_some_college	44.7
 48297	Texas	Live Oak	pcnt_some_college	44.2
 48299	Texas	Llano	pcnt_some_college	55.9
-48301	Texas	Loving	pcnt_some_college	0.0
+48301	Texas	Loving	pcnt_some_college	0
 48303	Texas	Lubbock	pcnt_some_college	62.6
-48305	Texas	Lynn	pcnt_some_college	45.0
+48305	Texas	Lynn	pcnt_some_college	45
 48307	Texas	McCulloch	pcnt_some_college	36.2
 48309	Texas	McLennan	pcnt_some_college	55.6
 48311	Texas	McMullen	pcnt_some_college	32.1
@@ -2692,19 +2692,19 @@ FIPS	State	County	Variable	pcnt_some_college
 48339	Texas	Montgomery	pcnt_some_college	61.7
 48341	Texas	Moore	pcnt_some_college	43.1
 48343	Texas	Morris	pcnt_some_college	54.4
-48345	Texas	Motley	pcnt_some_college	48.0
+48345	Texas	Motley	pcnt_some_college	48
 48347	Texas	Nacogdoches	pcnt_some_college	53.1
 48349	Texas	Navarro	pcnt_some_college	43.9
 48351	Texas	Newton	pcnt_some_college	35.8
 48353	Texas	Nolan	pcnt_some_college	53.9
 48355	Texas	Nueces	pcnt_some_college	55.5
 48357	Texas	Ochiltree	pcnt_some_college	35.5
-48359	Texas	Oldham	pcnt_some_college	74.0
+48359	Texas	Oldham	pcnt_some_college	74
 48361	Texas	Orange	pcnt_some_college	45.4
 48363	Texas	Palo Pinto	pcnt_some_college	43.5
 48365	Texas	Panola	pcnt_some_college	48.3
 48367	Texas	Parker	pcnt_some_college	59.1
-48369	Texas	Parmer	pcnt_some_college	37.0
+48369	Texas	Parmer	pcnt_some_college	37
 48371	Texas	Pecos	pcnt_some_college	30.8
 48373	Texas	Polk	pcnt_some_college	38.1
 48375	Texas	Potter	pcnt_some_college	47.1
@@ -2724,11 +2724,11 @@ FIPS	State	County	Variable	pcnt_some_college
 48403	Texas	Sabine	pcnt_some_college	39.4
 48405	Texas	San Augustine	pcnt_some_college	27.6
 48407	Texas	San Jacinto	pcnt_some_college	33.4
-48409	Texas	San Patricio	pcnt_some_college	53.0
+48409	Texas	San Patricio	pcnt_some_college	53
 48411	Texas	San Saba	pcnt_some_college	54.2
 48413	Texas	Schleicher	pcnt_some_college	41.7
 48415	Texas	Scurry	pcnt_some_college	46.5
-48417	Texas	Shackelford	pcnt_some_college	53.0
+48417	Texas	Shackelford	pcnt_some_college	53
 48419	Texas	Shelby	pcnt_some_college	44.6
 48421	Texas	Sherman	pcnt_some_college	47.4
 48423	Texas	Smith	pcnt_some_college	58.4
@@ -2740,7 +2740,7 @@ FIPS	State	County	Variable	pcnt_some_college
 48435	Texas	Sutton	pcnt_some_college	42.8
 48437	Texas	Swisher	pcnt_some_college	39.8
 48439	Texas	Tarrant	pcnt_some_college	60.4
-48441	Texas	Taylor	pcnt_some_college	60.0
+48441	Texas	Taylor	pcnt_some_college	60
 48443	Texas	Terrell	pcnt_some_college	49.6
 48445	Texas	Terry	pcnt_some_college	31.3
 48447	Texas	Throckmorton	pcnt_some_college	48.8
@@ -2748,15 +2748,15 @@ FIPS	State	County	Variable	pcnt_some_college
 48451	Texas	Tom Green	pcnt_some_college	53.7
 48453	Texas	Travis	pcnt_some_college	70.2
 48455	Texas	Trinity	pcnt_some_college	30.6
-48457	Texas	Tyler	pcnt_some_college	45.0
-48459	Texas	Upshur	pcnt_some_college	51.0
+48457	Texas	Tyler	pcnt_some_college	45
+48459	Texas	Upshur	pcnt_some_college	51
 48461	Texas	Upton	pcnt_some_college	49.2
 48463	Texas	Uvalde	pcnt_some_college	44.6
 48465	Texas	Val Verde	pcnt_some_college	49.4
 48467	Texas	Van Zandt	pcnt_some_college	43.4
 48469	Texas	Victoria	pcnt_some_college	54.2
 48471	Texas	Walker	pcnt_some_college	45.1
-48473	Texas	Waller	pcnt_some_college	39.0
+48473	Texas	Waller	pcnt_some_college	39
 48475	Texas	Ward	pcnt_some_college	46.3
 48477	Texas	Washington	pcnt_some_college	54.2
 48479	Texas	Webb	pcnt_some_college	49.6
@@ -2807,7 +2807,7 @@ FIPS	State	County	Variable	pcnt_some_college
 50003	Vermont	Bennington	pcnt_some_college	60.7
 50005	Vermont	Caledonia	pcnt_some_college	57.3
 50007	Vermont	Chittenden	pcnt_some_college	77.8
-50009	Vermont	Essex	pcnt_some_college	48.0
+50009	Vermont	Essex	pcnt_some_college	48
 50011	Vermont	Franklin	pcnt_some_college	54.3
 50013	Vermont	Grand Isle	pcnt_some_college	56.4
 50015	Vermont	Lamoille	pcnt_some_college	65.3
@@ -2833,15 +2833,15 @@ FIPS	State	County	Variable	pcnt_some_college
 51027	Virginia	Buchanan	pcnt_some_college	42.4
 51029	Virginia	Buckingham	pcnt_some_college	33.4
 51031	Virginia	Campbell	pcnt_some_college	55.9
-51033	Virginia	Caroline	pcnt_some_college	50.0
+51033	Virginia	Caroline	pcnt_some_college	50
 51035	Virginia	Carroll	pcnt_some_college	45.8
-51036	Virginia	Charles City	pcnt_some_college	38.0
+51036	Virginia	Charles City	pcnt_some_college	38
 51037	Virginia	Charlotte	pcnt_some_college	53.2
 51041	Virginia	Chesterfield	pcnt_some_college	68.3
 51043	Virginia	Clarke	pcnt_some_college	65.3
 51045	Virginia	Craig	pcnt_some_college	53.7
 51047	Virginia	Culpeper	pcnt_some_college	48.6
-51049	Virginia	Cumberland	pcnt_some_college	47.0
+51049	Virginia	Cumberland	pcnt_some_college	47
 51051	Virginia	Dickenson	pcnt_some_college	35.1
 51053	Virginia	Dinwiddie	pcnt_some_college	47.5
 51057	Virginia	Essex	pcnt_some_college	40.5
@@ -2852,13 +2852,13 @@ FIPS	State	County	Variable	pcnt_some_college
 51067	Virginia	Franklin	pcnt_some_college	51.2
 51069	Virginia	Frederick	pcnt_some_college	57.6
 51071	Virginia	Giles	pcnt_some_college	55.9
-51073	Virginia	Gloucester	pcnt_some_college	58.0
+51073	Virginia	Gloucester	pcnt_some_college	58
 51075	Virginia	Goochland	pcnt_some_college	52.8
 51077	Virginia	Grayson	pcnt_some_college	46.5
 51079	Virginia	Greene	pcnt_some_college	44.8
 51081	Virginia	Greensville	pcnt_some_college	25.6
 51083	Virginia	Halifax	pcnt_some_college	51.5
-51085	Virginia	Hanover	pcnt_some_college	72.0
+51085	Virginia	Hanover	pcnt_some_college	72
 51087	Virginia	Henrico	pcnt_some_college	72.7
 51089	Virginia	Henry	pcnt_some_college	45.9
 51091	Virginia	Highland	pcnt_some_college	43.6
@@ -2874,9 +2874,9 @@ FIPS	State	County	Variable	pcnt_some_college
 51111	Virginia	Lunenburg	pcnt_some_college	28.5
 51113	Virginia	Madison	pcnt_some_college	43.2
 51115	Virginia	Mathews	pcnt_some_college	50.2
-51117	Virginia	Mecklenburg	pcnt_some_college	44.0
+51117	Virginia	Mecklenburg	pcnt_some_college	44
 51119	Virginia	Middlesex	pcnt_some_college	46.5
-51121	Virginia	Montgomery	pcnt_some_college	74.0
+51121	Virginia	Montgomery	pcnt_some_college	74
 51125	Virginia	Nelson	pcnt_some_college	50.3
 51127	Virginia	New Kent	pcnt_some_college	56.7
 51131	Virginia	Northampton	pcnt_some_college	38.7
@@ -2887,7 +2887,7 @@ FIPS	State	County	Variable	pcnt_some_college
 51141	Virginia	Patrick	pcnt_some_college	44.6
 51143	Virginia	Pittsylvania	pcnt_some_college	51.4
 51145	Virginia	Powhatan	pcnt_some_college	53.5
-51147	Virginia	Prince Edward	pcnt_some_college	46.0
+51147	Virginia	Prince Edward	pcnt_some_college	46
 51149	Virginia	Prince George	pcnt_some_college	45.8
 51153	Virginia	Prince William	pcnt_some_college	66.5
 51155	Virginia	Pulaski	pcnt_some_college	50.6
@@ -2901,8 +2901,8 @@ FIPS	State	County	Variable	pcnt_some_college
 51171	Virginia	Shenandoah	pcnt_some_college	47.1
 51173	Virginia	Smyth	pcnt_some_college	47.1
 51175	Virginia	Southampton	pcnt_some_college	55.8
-51177	Virginia	Spotsylvania	pcnt_some_college	61.0
-51179	Virginia	Stafford	pcnt_some_college	68.0
+51177	Virginia	Spotsylvania	pcnt_some_college	61
+51179	Virginia	Stafford	pcnt_some_college	68
 51181	Virginia	Surry	pcnt_some_college	53.8
 51183	Virginia	Sussex	pcnt_some_college	26.8
 51185	Virginia	Tazewell	pcnt_some_college	51.2
@@ -2914,7 +2914,7 @@ FIPS	State	County	Variable	pcnt_some_college
 51199	Virginia	York	pcnt_some_college	79.4
 51510	Virginia	Alexandria City	pcnt_some_college	80.6
 51515	Virginia	Bedford City	pcnt_some_college	62.9
-51520	Virginia	Bristol City	pcnt_some_college	55.0
+51520	Virginia	Bristol City	pcnt_some_college	55
 51530	Virginia	Buena Vista City	pcnt_some_college	34.4
 51540	Virginia	Charlottesville City	pcnt_some_college	76.8
 51550	Virginia	Chesapeake City	pcnt_some_college	68.2
@@ -2925,13 +2925,13 @@ FIPS	State	County	Variable	pcnt_some_college
 51600	Virginia	Fairfax City	pcnt_some_college	84.6
 51610	Virginia	Falls Church City	pcnt_some_college	83.8
 51620	Virginia	Franklin City	pcnt_some_college	50.1
-51630	Virginia	Fredericksburg City	pcnt_some_college	59.0
+51630	Virginia	Fredericksburg City	pcnt_some_college	59
 51640	Virginia	Galax City	pcnt_some_college	47.6
 51650	Virginia	Hampton City	pcnt_some_college	66.1
 51660	Virginia	Harrisonburg City	pcnt_some_college	58.4
 51670	Virginia	Hopewell City	pcnt_some_college	38.6
 51678	Virginia	Lexington City	pcnt_some_college	66.1
-51680	Virginia	Lynchburg City	pcnt_some_college	64.0
+51680	Virginia	Lynchburg City	pcnt_some_college	64
 51683	Virginia	Manassas City	pcnt_some_college	47.6
 51685	Virginia	Manassas Park City	pcnt_some_college	55.4
 51690	Virginia	Martinsville City	pcnt_some_college	57.9
@@ -2950,9 +2950,9 @@ FIPS	State	County	Variable	pcnt_some_college
 51810	Virginia	Virginia Beach City	pcnt_some_college	73.5
 51820	Virginia	Waynesboro City	pcnt_some_college	45.2
 51830	Virginia	Williamsburg City	pcnt_some_college	80.4
-51840	Virginia	Winchester City	pcnt_some_college	57.0
+51840	Virginia	Winchester City	pcnt_some_college	57
 53001	Washington	Adams	pcnt_some_college	36.5
-53003	Washington	Asotin	pcnt_some_college	51.0
+53003	Washington	Asotin	pcnt_some_college	51
 53005	Washington	Benton	pcnt_some_college	62.9
 53007	Washington	Chelan	pcnt_some_college	47.2
 53009	Washington	Clallam	pcnt_some_college	60.9
@@ -2964,26 +2964,26 @@ FIPS	State	County	Variable	pcnt_some_college
 53021	Washington	Franklin	pcnt_some_college	40.4
 53023	Washington	Garfield	pcnt_some_college	66.5
 53025	Washington	Grant	pcnt_some_college	42.9
-53027	Washington	Grays Harbor	pcnt_some_college	51.0
+53027	Washington	Grays Harbor	pcnt_some_college	51
 53029	Washington	Island	pcnt_some_college	69.8
 53031	Washington	Jefferson	pcnt_some_college	65.5
 53033	Washington	King	pcnt_some_college	77.4
 53035	Washington	Kitsap	pcnt_some_college	68.1
-53037	Washington	Kittitas	pcnt_some_college	64.0
+53037	Washington	Kittitas	pcnt_some_college	64
 53039	Washington	Klickitat	pcnt_some_college	55.2
 53041	Washington	Lewis	pcnt_some_college	53.4
 53043	Washington	Lincoln	pcnt_some_college	60.6
 53045	Washington	Mason	pcnt_some_college	52.4
 53047	Washington	Okanogan	pcnt_some_college	44.6
-53049	Washington	Pacific	pcnt_some_college	52.0
+53049	Washington	Pacific	pcnt_some_college	52
 53051	Washington	Pend Oreille	pcnt_some_college	51.6
 53053	Washington	Pierce	pcnt_some_college	61.9
 53055	Washington	San Juan	pcnt_some_college	60.3
 53057	Washington	Skagit	pcnt_some_college	59.6
 53059	Washington	Skamania	pcnt_some_college	67.1
-53061	Washington	Snohomish	pcnt_some_college	67.0
+53061	Washington	Snohomish	pcnt_some_college	67
 53063	Washington	Spokane	pcnt_some_college	70.1
-53065	Washington	Stevens	pcnt_some_college	57.0
+53065	Washington	Stevens	pcnt_some_college	57
 53067	Washington	Thurston	pcnt_some_college	70.4
 53069	Washington	Wahkiakum	pcnt_some_college	57.4
 53071	Washington	Walla Walla	pcnt_some_college	61.4
@@ -3013,7 +3013,7 @@ FIPS	State	County	Variable	pcnt_some_college
 54041	West Virginia	Lewis	pcnt_some_college	41.1
 54043	West Virginia	Lincoln	pcnt_some_college	40.2
 54045	West Virginia	Logan	pcnt_some_college	37.9
-54047	West Virginia	McDowell	pcnt_some_college	30.0
+54047	West Virginia	McDowell	pcnt_some_college	30
 54049	West Virginia	Marion	pcnt_some_college	55.8
 54051	West Virginia	Marshall	pcnt_some_college	55.9
 54053	West Virginia	Mason	pcnt_some_college	53.7
@@ -3022,7 +3022,7 @@ FIPS	State	County	Variable	pcnt_some_college
 54059	West Virginia	Mingo	pcnt_some_college	35.4
 54061	West Virginia	Monongalia	pcnt_some_college	69.6
 54063	West Virginia	Monroe	pcnt_some_college	45.6
-54065	West Virginia	Morgan	pcnt_some_college	43.0
+54065	West Virginia	Morgan	pcnt_some_college	43
 54067	West Virginia	Nicholas	pcnt_some_college	39.5
 54069	West Virginia	Ohio	pcnt_some_college	63.5
 54071	West Virginia	Pendleton	pcnt_some_college	46.9
@@ -3038,7 +3038,7 @@ FIPS	State	County	Variable	pcnt_some_college
 54091	West Virginia	Taylor	pcnt_some_college	46.1
 54093	West Virginia	Tucker	pcnt_some_college	44.1
 54095	West Virginia	Tyler	pcnt_some_college	41.9
-54097	West Virginia	Upshur	pcnt_some_college	39.0
+54097	West Virginia	Upshur	pcnt_some_college	39
 54099	West Virginia	Wayne	pcnt_some_college	52.1
 54101	West Virginia	Webster	pcnt_some_college	30.1
 54103	West Virginia	Wetzel	pcnt_some_college	43.3
@@ -3062,9 +3062,9 @@ FIPS	State	County	Variable	pcnt_some_college
 55029	Wisconsin	Door	pcnt_some_college	59.4
 55031	Wisconsin	Douglas	pcnt_some_college	68.2
 55033	Wisconsin	Dunn	pcnt_some_college	65.8
-55035	Wisconsin	Eau Claire	pcnt_some_college	71.0
-55037	Wisconsin	Florence	pcnt_some_college	56.0
-55039	Wisconsin	Fond du Lac	pcnt_some_college	57.0
+55035	Wisconsin	Eau Claire	pcnt_some_college	71
+55037	Wisconsin	Florence	pcnt_some_college	56
+55039	Wisconsin	Fond du Lac	pcnt_some_college	57
 55041	Wisconsin	Forest	pcnt_some_college	47.7
 55043	Wisconsin	Grant	pcnt_some_college	60.5
 55045	Wisconsin	Green	pcnt_some_college	60.9
@@ -3079,7 +3079,7 @@ FIPS	State	County	Variable	pcnt_some_college
 55063	Wisconsin	La Crosse	pcnt_some_college	73.4
 55065	Wisconsin	Lafayette	pcnt_some_college	56.5
 55067	Wisconsin	Langlade	pcnt_some_college	51.4
-55069	Wisconsin	Lincoln	pcnt_some_college	53.0
+55069	Wisconsin	Lincoln	pcnt_some_college	53
 55071	Wisconsin	Manitowoc	pcnt_some_college	60.6
 55073	Wisconsin	Marathon	pcnt_some_college	60.1
 55075	Wisconsin	Marinette	pcnt_some_college	56.9
@@ -3090,7 +3090,7 @@ FIPS	State	County	Variable	pcnt_some_college
 55083	Wisconsin	Oconto	pcnt_some_college	57.9
 55085	Wisconsin	Oneida	pcnt_some_college	63.8
 55087	Wisconsin	Outagamie	pcnt_some_college	67.3
-55089	Wisconsin	Ozaukee	pcnt_some_college	80.0
+55089	Wisconsin	Ozaukee	pcnt_some_college	80
 55091	Wisconsin	Pepin	pcnt_some_college	62.7
 55093	Wisconsin	Pierce	pcnt_some_college	73.2
 55095	Wisconsin	Polk	pcnt_some_college	58.9
@@ -3099,10 +3099,10 @@ FIPS	State	County	Variable	pcnt_some_college
 55101	Wisconsin	Racine	pcnt_some_college	58.1
 55103	Wisconsin	Richland	pcnt_some_college	49.9
 55105	Wisconsin	Rock	pcnt_some_college	56.9
-55107	Wisconsin	Rusk	pcnt_some_college	47.0
-55109	Wisconsin	St. Croix	pcnt_some_college	75.0
+55107	Wisconsin	Rusk	pcnt_some_college	47
+55109	Wisconsin	St. Croix	pcnt_some_college	75
 55111	Wisconsin	Sauk	pcnt_some_college	57.6
-55113	Wisconsin	Sawyer	pcnt_some_college	58.0
+55113	Wisconsin	Sawyer	pcnt_some_college	58
 55115	Wisconsin	Shawano	pcnt_some_college	50.3
 55117	Wisconsin	Sheboygan	pcnt_some_college	60.9
 55119	Wisconsin	Taylor	pcnt_some_college	47.1
@@ -3113,7 +3113,7 @@ FIPS	State	County	Variable	pcnt_some_college
 55129	Wisconsin	Washburn	pcnt_some_college	53.8
 55131	Wisconsin	Washington	pcnt_some_college	70.2
 55133	Wisconsin	Waukesha	pcnt_some_college	78.2
-55135	Wisconsin	Waupaca	pcnt_some_college	50.0
+55135	Wisconsin	Waupaca	pcnt_some_college	50
 55137	Wisconsin	Waushara	pcnt_some_college	48.1
 55139	Wisconsin	Winnebago	pcnt_some_college	62.1
 55141	Wisconsin	Wood	pcnt_some_college	61.1

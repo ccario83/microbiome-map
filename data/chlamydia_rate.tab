@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	chlamydia_rate
+1001	Alabama	Autauga	chlamydia_rate	363
+1003	Alabama	Baldwin	chlamydia_rate	306
+1005	Alabama	Barbour	chlamydia_rate	645
+1007	Alabama	Bibb	chlamydia_rate	327
+1009	Alabama	Blount	chlamydia_rate	113
+1011	Alabama	Bullock	chlamydia_rate	770
+1013	Alabama	Butler	chlamydia_rate	645
+1015	Alabama	Calhoun	chlamydia_rate	566
+1017	Alabama	Chambers	chlamydia_rate	664
+1019	Alabama	Cherokee	chlamydia_rate	258
+1021	Alabama	Chilton	chlamydia_rate	197
+1023	Alabama	Choctaw	chlamydia_rate	433
+1025	Alabama	Clarke	chlamydia_rate	763
+1027	Alabama	Clay	chlamydia_rate	395
+1029	Alabama	Cleburne	chlamydia_rate	220
+1031	Alabama	Coffee	chlamydia_rate	623
+1033	Alabama	Colbert	chlamydia_rate	498
+1035	Alabama	Conecuh	chlamydia_rate	605
+1037	Alabama	Coosa	chlamydia_rate	477
+1039	Alabama	Covington	chlamydia_rate	471
+1041	Alabama	Crenshaw	chlamydia_rate	647
+1043	Alabama	Cullman	chlamydia_rate	214
+1045	Alabama	Dale	chlamydia_rate	444
+1047	Alabama	Dallas	chlamydia_rate	1264
+1049	Alabama	DeKalb	chlamydia_rate	179
+1051	Alabama	Elmore	chlamydia_rate	478
+1053	Alabama	Escambia	chlamydia_rate	446
+1055	Alabama	Etowah	chlamydia_rate	545
+1057	Alabama	Fayette	chlamydia_rate	302
+1059	Alabama	Franklin	chlamydia_rate	202
+1061	Alabama	Geneva	chlamydia_rate	433
+1063	Alabama	Greene	chlamydia_rate	1238
+1065	Alabama	Hale	chlamydia_rate	1326
+1067	Alabama	Henry	chlamydia_rate	665
+1069	Alabama	Houston	chlamydia_rate	750
+1071	Alabama	Jackson	chlamydia_rate	154
+1073	Alabama	Jefferson	chlamydia_rate	800
+1075	Alabama	Lamar	chlamydia_rate	295
+1077	Alabama	Lauderdale	chlamydia_rate	478
+1079	Alabama	Lawrence	chlamydia_rate	402
+1081	Alabama	Lee	chlamydia_rate	501
+1083	Alabama	Limestone	chlamydia_rate	268
+1085	Alabama	Lowndes	chlamydia_rate	903
+1087	Alabama	Macon	chlamydia_rate	1040
+1089	Alabama	Madison	chlamydia_rate	453
+1091	Alabama	Marengo	chlamydia_rate	666
+1093	Alabama	Marion	chlamydia_rate	150
+1095	Alabama	Marshall	chlamydia_rate	188
+1097	Alabama	Mobile	chlamydia_rate	785
+1099	Alabama	Monroe	chlamydia_rate	663
+1101	Alabama	Montgomery	chlamydia_rate	1175
+1103	Alabama	Morgan	chlamydia_rate	433
+1105	Alabama	Perry	chlamydia_rate	954
+1107	Alabama	Pickens	chlamydia_rate	532
+1109	Alabama	Pike	chlamydia_rate	1021
+1111	Alabama	Randolph	chlamydia_rate	249
+1113	Alabama	Russell	chlamydia_rate	816
+1115	Alabama	St. Clair	chlamydia_rate	
+1117	Alabama	Shelby	chlamydia_rate	191
+1119	Alabama	Sumter	chlamydia_rate	1075
+1121	Alabama	Talladega	chlamydia_rate	514
+1123	Alabama	Tallapoosa	chlamydia_rate	428
+1125	Alabama	Tuscaloosa	chlamydia_rate	620
+1127	Alabama	Walker	chlamydia_rate	388
+1129	Alabama	Washington	chlamydia_rate	438
+1131	Alabama	Wilcox	chlamydia_rate	1071
+1133	Alabama	Winston	chlamydia_rate	212
+2013	Alaska	Aleutians East	chlamydia_rate	287
+2016	Alaska	Aleutians West	chlamydia_rate	144
+2020	Alaska	Anchorage	chlamydia_rate	908
+2050	Alaska	Bethel	chlamydia_rate	2445
+2060	Alaska	Bristol Bay	chlamydia_rate	201
+2068	Alaska	Denali	chlamydia_rate	274
+2070	Alaska	Dillingham	chlamydia_rate	1527
+2090	Alaska	Fairbanks North Star	chlamydia_rate	823
+2100	Alaska	Haines	chlamydia_rate	399
+2110	Alaska	Juneau	chlamydia_rate	563
+2122	Alaska	Kenai Peninsula	chlamydia_rate	338
+2130	Alaska	Ketchikan Gateway	chlamydia_rate	861
+2150	Alaska	Kodiak Island	chlamydia_rate	383
+2164	Alaska	Lake and Peninsula	chlamydia_rate	613
+2170	Alaska	Matanuska-Susitna	chlamydia_rate	453
+2180	Alaska	Nome	chlamydia_rate	2813
+2185	Alaska	North Slope	chlamydia_rate	1251
+2188	Alaska	Northwest Arctic	chlamydia_rate	2738
+2201	Alaska	Prince of Wales-Outer Ketchikan	chlamydia_rate	
+2220	Alaska	Sitka	chlamydia_rate	563
+2232	Alaska	Skagway-Hoonah-Angoon	chlamydia_rate	962
+2240	Alaska	Southeast Fairbanks	chlamydia_rate	270
+2261	Alaska	Valdez-Cordova	chlamydia_rate	457
+2270	Alaska	Wade Hampton	chlamydia_rate	2802
+2280	Alaska	Wrangell-Petersburg	chlamydia_rate	
+2282	Alaska	Yakutat	chlamydia_rate	604
+2290	Alaska	Yukon-Koyukuk	chlamydia_rate	1199
+4001	Arizona	Apache	chlamydia_rate	646
+4003	Arizona	Cochise	chlamydia_rate	299
+4005	Arizona	Coconino	chlamydia_rate	542
+4007	Arizona	Gila	chlamydia_rate	235
+4009	Arizona	Graham	chlamydia_rate	344
+4011	Arizona	Greenlee	chlamydia_rate	190
+4012	Arizona	La Paz	chlamydia_rate	107
+4013	Arizona	Maricopa	chlamydia_rate	408
+4015	Arizona	Mohave	chlamydia_rate	139
+4017	Arizona	Navajo	chlamydia_rate	559
+4019	Arizona	Pima	chlamydia_rate	421
+4021	Arizona	Pinal	chlamydia_rate	253
+4023	Arizona	Santa Cruz	chlamydia_rate	297
+4025	Arizona	Yavapai	chlamydia_rate	114
+4027	Arizona	Yuma	chlamydia_rate	417
+5001	Arkansas	Arkansas	chlamydia_rate	684
+5003	Arkansas	Ashley	chlamydia_rate	837
+5005	Arkansas	Baxter	chlamydia_rate	289
+5007	Arkansas	Benton	chlamydia_rate	169
+5009	Arkansas	Boone	chlamydia_rate	306
+5011	Arkansas	Bradley	chlamydia_rate	591
+5013	Arkansas	Calhoun	chlamydia_rate	261
+5015	Arkansas	Carroll	chlamydia_rate	208
+5017	Arkansas	Chicot	chlamydia_rate	610
+5019	Arkansas	Clark	chlamydia_rate	944
+5021	Arkansas	Clay	chlamydia_rate	118
+5023	Arkansas	Cleburne	chlamydia_rate	254
+5025	Arkansas	Cleveland	chlamydia_rate	334
+5027	Arkansas	Columbia	chlamydia_rate	1234
+5029	Arkansas	Conway	chlamydia_rate	226
+5031	Arkansas	Craighead	chlamydia_rate	699
+5033	Arkansas	Crawford	chlamydia_rate	194
+5035	Arkansas	Crittenden	chlamydia_rate	1271
+5037	Arkansas	Cross	chlamydia_rate	778
+5039	Arkansas	Dallas	chlamydia_rate	887
+5041	Arkansas	Desha	chlamydia_rate	884
+5043	Arkansas	Drew	chlamydia_rate	729
+5045	Arkansas	Faulkner	chlamydia_rate	423
+5047	Arkansas	Franklin	chlamydia_rate	342
+5049	Arkansas	Fulton	chlamydia_rate	147
+5051	Arkansas	Garland	chlamydia_rate	334
+5053	Arkansas	Grant	chlamydia_rate	247
+5055	Arkansas	Greene	chlamydia_rate	304
+5057	Arkansas	Hempstead	chlamydia_rate	1106
+5059	Arkansas	Hot Spring	chlamydia_rate	416
+5061	Arkansas	Howard	chlamydia_rate	950
+5063	Arkansas	Independence	chlamydia_rate	415
+5065	Arkansas	Izard	chlamydia_rate	139
+5067	Arkansas	Jackson	chlamydia_rate	533
+5069	Arkansas	Jefferson	chlamydia_rate	1285
+5071	Arkansas	Johnson	chlamydia_rate	337
+5073	Arkansas	Lafayette	chlamydia_rate	1007
+5075	Arkansas	Lawrence	chlamydia_rate	293
+5077	Arkansas	Lee	chlamydia_rate	959
+5079	Arkansas	Lincoln	chlamydia_rate	368
+5081	Arkansas	Little River	chlamydia_rate	737
+5083	Arkansas	Logan	chlamydia_rate	300
+5085	Arkansas	Lonoke	chlamydia_rate	323
+5087	Arkansas	Madison	chlamydia_rate	153
+5089	Arkansas	Marion	chlamydia_rate	132
+5091	Arkansas	Miller	chlamydia_rate	960
+5093	Arkansas	Mississippi	chlamydia_rate	1102
+5095	Arkansas	Monroe	chlamydia_rate	1117
+5097	Arkansas	Montgomery	chlamydia_rate	200
+5099	Arkansas	Nevada	chlamydia_rate	800
+5101	Arkansas	Newton	chlamydia_rate	132
+5103	Arkansas	Ouachita	chlamydia_rate	865
+5105	Arkansas	Perry	chlamydia_rate	249
+5107	Arkansas	Phillips	chlamydia_rate	1066
+5109	Arkansas	Pike	chlamydia_rate	372
+5111	Arkansas	Poinsett	chlamydia_rate	631
+5113	Arkansas	Polk	chlamydia_rate	276
+5115	Arkansas	Pope	chlamydia_rate	468
+5117	Arkansas	Prairie	chlamydia_rate	425
+5119	Arkansas	Pulaski	chlamydia_rate	791
+5121	Arkansas	Randolph	chlamydia_rate	340
+5123	Arkansas	St. Francis	chlamydia_rate	1026
+5125	Arkansas	Saline	chlamydia_rate	211
+5127	Arkansas	Scott	chlamydia_rate	454
+5129	Arkansas	Searcy	chlamydia_rate	207
+5131	Arkansas	Sebastian	chlamydia_rate	446
+5133	Arkansas	Sevier	chlamydia_rate	504
+5135	Arkansas	Sharp	chlamydia_rate	267
+5137	Arkansas	Stone	chlamydia_rate	73
+5139	Arkansas	Union	chlamydia_rate	790
+5141	Arkansas	Van Buren	chlamydia_rate	197
+5143	Arkansas	Washington	chlamydia_rate	383
+5145	Arkansas	White	chlamydia_rate	352
+5147	Arkansas	Woodruff	chlamydia_rate	344
+5149	Arkansas	Yell	chlamydia_rate	370
+6001	California	Alameda	chlamydia_rate	438
+6003	California	Alpine	chlamydia_rate	0
+6005	California	Amador	chlamydia_rate	181
+6007	California	Butte	chlamydia_rate	371
+6009	California	Calaveras	chlamydia_rate	103
+6011	California	Colusa	chlamydia_rate	149
+6013	California	Contra Costa	chlamydia_rate	373
+6015	California	Del Norte	chlamydia_rate	178
+6017	California	El Dorado	chlamydia_rate	134
+6019	California	Fresno	chlamydia_rate	648
+6021	California	Glenn	chlamydia_rate	157
+6023	California	Humboldt	chlamydia_rate	267
+6025	California	Imperial	chlamydia_rate	368
+6027	California	Inyo	chlamydia_rate	173
+6029	California	Kern	chlamydia_rate	650
+6031	California	Kings	chlamydia_rate	324
+6033	California	Lake	chlamydia_rate	285
+6035	California	Lassen	chlamydia_rate	201
+6037	California	Los Angeles	chlamydia_rate	484
+6039	California	Madera	chlamydia_rate	457
+6041	California	Marin	chlamydia_rate	235
+6043	California	Mariposa	chlamydia_rate	110
+6045	California	Mendocino	chlamydia_rate	273
+6047	California	Merced	chlamydia_rate	401
+6049	California	Modoc	chlamydia_rate	10
+6051	California	Mono	chlamydia_rate	211
+6053	California	Monterey	chlamydia_rate	405
+6055	California	Napa	chlamydia_rate	196
+6057	California	Nevada	chlamydia_rate	150
+6059	California	Orange	chlamydia_rate	282
+6061	California	Placer	chlamydia_rate	174
+6063	California	Plumas	chlamydia_rate	270
+6065	California	Riverside	chlamydia_rate	171
+6067	California	Sacramento	chlamydia_rate	464
+6069	California	San Benito	chlamydia_rate	313
+6071	California	San Bernardino	chlamydia_rate	418
+6073	California	San Diego	chlamydia_rate	496
+6075	California	San Francisco	chlamydia_rate	571
+6077	California	San Joaquin	chlamydia_rate	542
+6079	California	San Luis Obispo	chlamydia_rate	257
+6081	California	San Mateo	chlamydia_rate	276
+6083	California	Santa Barbara	chlamydia_rate	338
+6085	California	Santa Clara	chlamydia_rate	310
+6087	California	Santa Cruz	chlamydia_rate	301
+6089	California	Shasta	chlamydia_rate	252
+6091	California	Sierra	chlamydia_rate	93
+6093	California	Siskiyou	chlamydia_rate	169
+6095	California	Solano	chlamydia_rate	499
+6097	California	Sonoma	chlamydia_rate	264
+6099	California	Stanislaus	chlamydia_rate	324
+6101	California	Sutter	chlamydia_rate	246
+6103	California	Tehama	chlamydia_rate	268
+6105	California	Trinity	chlamydia_rate	116
+6107	California	Tulare	chlamydia_rate	382
+6109	California	Tuolumne	chlamydia_rate	201
+6111	California	Ventura	chlamydia_rate	277
+6113	California	Yolo	chlamydia_rate	324
+6115	California	Yuba	chlamydia_rate	281
+8001	Colorado	Adams	chlamydia_rate	248
+8003	Colorado	Alamosa	chlamydia_rate	298
+8005	Colorado	Arapahoe	chlamydia_rate	313
+8007	Colorado	Archuleta	chlamydia_rate	149
+8009	Colorado	Baca	chlamydia_rate	238
+8011	Colorado	Bent	chlamydia_rate	154
+8013	Colorado	Boulder	chlamydia_rate	157
+8014	Colorado	Broomfield	chlamydia_rate	129
+8015	Colorado	Chaffee	chlamydia_rate	28
+8017	Colorado	Cheyenne	chlamydia_rate	55
+8019	Colorado	Clear Creek	chlamydia_rate	44
+8021	Colorado	Conejos	chlamydia_rate	85
+8023	Colorado	Costilla	chlamydia_rate	114
+8025	Colorado	Crowley	chlamydia_rate	52
+8027	Colorado	Custer	chlamydia_rate	0
+8029	Colorado	Delta	chlamydia_rate	107
+8031	Colorado	Denver	chlamydia_rate	1749
+8033	Colorado	Dolores	chlamydia_rate	0
+8035	Colorado	Douglas	chlamydia_rate	76
+8037	Colorado	Eagle	chlamydia_rate	54
+8039	Colorado	Elbert	chlamydia_rate	121
+8041	Colorado	El Paso	chlamydia_rate	280
+8043	Colorado	Fremont	chlamydia_rate	79
+8045	Colorado	Garfield	chlamydia_rate	106
+8047	Colorado	Gilpin	chlamydia_rate	129
+8049	Colorado	Grand	chlamydia_rate	54
+8051	Colorado	Gunnison	chlamydia_rate	189
+8053	Colorado	Hinsdale	chlamydia_rate	0
+8055	Colorado	Huerfano	chlamydia_rate	283
+8057	Colorado	Jackson	chlamydia_rate	0
+8059	Colorado	Jefferson	chlamydia_rate	113
+8061	Colorado	Kiowa	chlamydia_rate	215
+8063	Colorado	Kit Carson	chlamydia_rate	97
+8065	Colorado	Lake	chlamydia_rate	137
+8067	Colorado	La Plata	chlamydia_rate	166
+8069	Colorado	Larimer	chlamydia_rate	160
+8071	Colorado	Las Animas	chlamydia_rate	142
+8073	Colorado	Lincoln	chlamydia_rate	92
+8075	Colorado	Logan	chlamydia_rate	115
+8077	Colorado	Mesa	chlamydia_rate	314
+8079	Colorado	Mineral	chlamydia_rate	140
+8081	Colorado	Moffat	chlamydia_rate	131
+8083	Colorado	Montezuma	chlamydia_rate	356
+8085	Colorado	Montrose	chlamydia_rate	116
+8087	Colorado	Morgan	chlamydia_rate	224
+8089	Colorado	Otero	chlamydia_rate	239
+8091	Colorado	Ouray	chlamydia_rate	23
+8093	Colorado	Park	chlamydia_rate	31
+8095	Colorado	Phillips	chlamydia_rate	45
+8097	Colorado	Pitkin	chlamydia_rate	70
+8099	Colorado	Prowers	chlamydia_rate	207
+8101	Colorado	Pueblo	chlamydia_rate	352
+8103	Colorado	Rio Blanco	chlamydia_rate	150
+8105	Colorado	Rio Grande	chlamydia_rate	209
+8107	Colorado	Routt	chlamydia_rate	119
+8109	Colorado	Saguache	chlamydia_rate	16
+8111	Colorado	San Juan	chlamydia_rate	0
+8113	Colorado	San Miguel	chlamydia_rate	68
+8115	Colorado	Sedgwick	chlamydia_rate	126
+8117	Colorado	Summit	chlamydia_rate	139
+8119	Colorado	Teller	chlamydia_rate	90
+8121	Colorado	Washington	chlamydia_rate	83
+8123	Colorado	Weld	chlamydia_rate	190
+8125	Colorado	Yuma	chlamydia_rate	169
+9001	Connecticut	Fairfield	chlamydia_rate	294
+9003	Connecticut	Hartford	chlamydia_rate	456
+9005	Connecticut	Litchfield	chlamydia_rate	111
+9007	Connecticut	Middlesex	chlamydia_rate	181
+9009	Connecticut	New Haven	chlamydia_rate	427
+9011	Connecticut	New London	chlamydia_rate	241
+9013	Connecticut	Tolland	chlamydia_rate	156
+9015	Connecticut	Windham	chlamydia_rate	264
+10001	Delaware	Kent	chlamydia_rate	609
+10003	Delaware	New Castle	chlamydia_rate	464
+10005	Delaware	Sussex	chlamydia_rate	496
+11001	District of Columbia	District of Columbia	chlamydia_rate	929
+12001	Florida	Alachua	chlamydia_rate	685
+12003	Florida	Baker	chlamydia_rate	424
+12005	Florida	Bay	chlamydia_rate	433
+12007	Florida	Bradford	chlamydia_rate	519
+12009	Florida	Brevard	chlamydia_rate	292
+12011	Florida	Broward	chlamydia_rate	398
+12013	Florida	Calhoun	chlamydia_rate	321
+12015	Florida	Charlotte	chlamydia_rate	190
+12017	Florida	Citrus	chlamydia_rate	224
+12019	Florida	Clay	chlamydia_rate	321
+12021	Florida	Collier	chlamydia_rate	209
+12023	Florida	Columbia	chlamydia_rate	431
+12027	Florida	DeSoto	chlamydia_rate	356
+12029	Florida	Dixie	chlamydia_rate	420
+12031	Florida	Duval	chlamydia_rate	665
+12033	Florida	Escambia	chlamydia_rate	556
+12035	Florida	Flagler	chlamydia_rate	300
+12037	Florida	Franklin	chlamydia_rate	450
+12039	Florida	Gadsden	chlamydia_rate	1151
+12041	Florida	Gilchrist	chlamydia_rate	283
+12043	Florida	Glades	chlamydia_rate	326
+12045	Florida	Gulf	chlamydia_rate	315
+12047	Florida	Hamilton	chlamydia_rate	885
+12049	Florida	Hardee	chlamydia_rate	317
+12051	Florida	Hendry	chlamydia_rate	503
+12053	Florida	Hernando	chlamydia_rate	203
+12055	Florida	Highlands	chlamydia_rate	315
+12057	Florida	Hillsborough	chlamydia_rate	571
+12059	Florida	Holmes	chlamydia_rate	402
+12061	Florida	Indian River	chlamydia_rate	305
+12063	Florida	Jackson	chlamydia_rate	474
+12065	Florida	Jefferson	chlamydia_rate	583
+12067	Florida	Lafayette	chlamydia_rate	203
+12069	Florida	Lake	chlamydia_rate	295
+12071	Florida	Lee	chlamydia_rate	310
+12073	Florida	Leon	chlamydia_rate	1029
+12075	Florida	Levy	chlamydia_rate	441
+12077	Florida	Liberty	chlamydia_rate	311
+12079	Florida	Madison	chlamydia_rate	614
+12081	Florida	Manatee	chlamydia_rate	374
+12083	Florida	Marion	chlamydia_rate	390
+12085	Florida	Martin	chlamydia_rate	221
+12086	Florida	Miami-Dade	chlamydia_rate	347
+12087	Florida	Monroe	chlamydia_rate	208
+12089	Florida	Nassau	chlamydia_rate	289
+12091	Florida	Okaloosa	chlamydia_rate	448
+12093	Florida	Okeechobee	chlamydia_rate	460
+12095	Florida	Orange	chlamydia_rate	532
+12097	Florida	Osceola	chlamydia_rate	414
+12099	Florida	Palm Beach	chlamydia_rate	264
+12101	Florida	Pasco	chlamydia_rate	203
+12103	Florida	Pinellas	chlamydia_rate	419
+12105	Florida	Polk	chlamydia_rate	406
+12107	Florida	Putnam	chlamydia_rate	451
+12109	Florida	St. Johns	chlamydia_rate	215
+12111	Florida	St. Lucie	chlamydia_rate	373
+12113	Florida	Santa Rosa	chlamydia_rate	235
+12115	Florida	Sarasota	chlamydia_rate	229
+12117	Florida	Seminole	chlamydia_rate	333
+12119	Florida	Sumter	chlamydia_rate	181
+12121	Florida	Suwannee	chlamydia_rate	323
+12123	Florida	Taylor	chlamydia_rate	288
+12125	Florida	Union	chlamydia_rate	393
+12127	Florida	Volusia	chlamydia_rate	370
+12129	Florida	Wakulla	chlamydia_rate	403
+12131	Florida	Walton	chlamydia_rate	265
+12133	Florida	Washington	chlamydia_rate	281
+13001	Georgia	Appling	chlamydia_rate	324
+13003	Georgia	Atkinson	chlamydia_rate	334
+13005	Georgia	Bacon	chlamydia_rate	315
+13007	Georgia	Baker	chlamydia_rate	493
+13009	Georgia	Baldwin	chlamydia_rate	693
+13011	Georgia	Banks	chlamydia_rate	114
+13013	Georgia	Barrow	chlamydia_rate	303
+13015	Georgia	Bartow	chlamydia_rate	187
+13017	Georgia	Ben Hill	chlamydia_rate	805
+13019	Georgia	Berrien	chlamydia_rate	259
+13021	Georgia	Bibb	chlamydia_rate	684
+13023	Georgia	Bleckley	chlamydia_rate	720
+13025	Georgia	Brantley	chlamydia_rate	163
+13027	Georgia	Brooks	chlamydia_rate	419
+13029	Georgia	Bryan	chlamydia_rate	285
+13031	Georgia	Bulloch	chlamydia_rate	897
+13033	Georgia	Burke	chlamydia_rate	806
+13035	Georgia	Butts	chlamydia_rate	271
+13037	Georgia	Calhoun	chlamydia_rate	478
+13039	Georgia	Camden	chlamydia_rate	271
+13043	Georgia	Candler	chlamydia_rate	573
+13045	Georgia	Carroll	chlamydia_rate	375
+13047	Georgia	Catoosa	chlamydia_rate	122
+13049	Georgia	Charlton	chlamydia_rate	436
+13051	Georgia	Chatham	chlamydia_rate	838
+13053	Georgia	Chattahoochee	chlamydia_rate	462
+13055	Georgia	Chattooga	chlamydia_rate	200
+13057	Georgia	Cherokee	chlamydia_rate	123
+13059	Georgia	Clarke	chlamydia_rate	703
+13061	Georgia	Clay	chlamydia_rate	534
+13063	Georgia	Clayton	chlamydia_rate	735
+13065	Georgia	Clinch	chlamydia_rate	544
+13067	Georgia	Cobb	chlamydia_rate	321
+13069	Georgia	Coffee	chlamydia_rate	399
+13071	Georgia	Colquitt	chlamydia_rate	257
+13073	Georgia	Columbia	chlamydia_rate	212
+13075	Georgia	Cook	chlamydia_rate	354
+13077	Georgia	Coweta	chlamydia_rate	159
+13079	Georgia	Crawford	chlamydia_rate	269
+13081	Georgia	Crisp	chlamydia_rate	862
+13083	Georgia	Dade	chlamydia_rate	60
+13085	Georgia	Dawson	chlamydia_rate	99
+13087	Georgia	Decatur	chlamydia_rate	955
+13089	Georgia	DeKalb	chlamydia_rate	617
+13091	Georgia	Dodge	chlamydia_rate	431
+13093	Georgia	Dooly	chlamydia_rate	851
+13095	Georgia	Dougherty	chlamydia_rate	1065
+13097	Georgia	Douglas	chlamydia_rate	379
+13099	Georgia	Early	chlamydia_rate	981
+13101	Georgia	Echols	chlamydia_rate	99
+13103	Georgia	Effingham	chlamydia_rate	289
+13105	Georgia	Elbert	chlamydia_rate	486
+13107	Georgia	Emanuel	chlamydia_rate	651
+13109	Georgia	Evans	chlamydia_rate	782
+13111	Georgia	Fannin	chlamydia_rate	123
+13113	Georgia	Fayette	chlamydia_rate	166
+13115	Georgia	Floyd	chlamydia_rate	341
+13117	Georgia	Forsyth	chlamydia_rate	51
+13119	Georgia	Franklin	chlamydia_rate	199
+13121	Georgia	Fulton	chlamydia_rate	669
+13123	Georgia	Gilmer	chlamydia_rate	152
+13125	Georgia	Glascock	chlamydia_rate	292
+13127	Georgia	Glynn	chlamydia_rate	474
+13129	Georgia	Gordon	chlamydia_rate	163
+13131	Georgia	Grady	chlamydia_rate	280
+13133	Georgia	Greene	chlamydia_rate	463
+13135	Georgia	Gwinnett	chlamydia_rate	330
+13137	Georgia	Habersham	chlamydia_rate	179
+13139	Georgia	Hall	chlamydia_rate	178
+13141	Georgia	Hancock	chlamydia_rate	668
+13143	Georgia	Haralson	chlamydia_rate	198
+13145	Georgia	Harris	chlamydia_rate	200
+13147	Georgia	Hart	chlamydia_rate	182
+13149	Georgia	Heard	chlamydia_rate	203
+13151	Georgia	Henry	chlamydia_rate	344
+13153	Georgia	Houston	chlamydia_rate	464
+13155	Georgia	Irwin	chlamydia_rate	640
+13157	Georgia	Jackson	chlamydia_rate	248
+13159	Georgia	Jasper	chlamydia_rate	252
+13161	Georgia	Jeff Davis	chlamydia_rate	312
+13163	Georgia	Jefferson	chlamydia_rate	868
+13165	Georgia	Jenkins	chlamydia_rate	372
+13167	Georgia	Johnson	chlamydia_rate	371
+13169	Georgia	Jones	chlamydia_rate	108
+13171	Georgia	Lamar	chlamydia_rate	584
+13173	Georgia	Lanier	chlamydia_rate	377
+13175	Georgia	Laurens	chlamydia_rate	514
+13177	Georgia	Lee	chlamydia_rate	244
+13179	Georgia	Liberty	chlamydia_rate	522
+13181	Georgia	Lincoln	chlamydia_rate	225
+13183	Georgia	Long	chlamydia_rate	214
+13185	Georgia	Lowndes	chlamydia_rate	860
+13187	Georgia	Lumpkin	chlamydia_rate	124
+13189	Georgia	McDuffie	chlamydia_rate	594
+13191	Georgia	McIntosh	chlamydia_rate	370
+13193	Georgia	Macon	chlamydia_rate	475
+13195	Georgia	Madison	chlamydia_rate	331
+13197	Georgia	Marion	chlamydia_rate	309
+13199	Georgia	Meriwether	chlamydia_rate	523
+13201	Georgia	Miller	chlamydia_rate	669
+13205	Georgia	Mitchell	chlamydia_rate	502
+13207	Georgia	Monroe	chlamydia_rate	363
+13209	Georgia	Montgomery	chlamydia_rate	439
+13211	Georgia	Morgan	chlamydia_rate	330
+13213	Georgia	Murray	chlamydia_rate	207
+13215	Georgia	Muscogee	chlamydia_rate	825
+13217	Georgia	Newton	chlamydia_rate	552
+13219	Georgia	Oconee	chlamydia_rate	162
+13221	Georgia	Oglethorpe	chlamydia_rate	222
+13223	Georgia	Paulding	chlamydia_rate	224
+13225	Georgia	Peach	chlamydia_rate	715
+13227	Georgia	Pickens	chlamydia_rate	116
+13229	Georgia	Pierce	chlamydia_rate	251
+13231	Georgia	Pike	chlamydia_rate	151
+13233	Georgia	Polk	chlamydia_rate	280
+13235	Georgia	Pulaski	chlamydia_rate	358
+13237	Georgia	Putnam	chlamydia_rate	278
+13239	Georgia	Quitman	chlamydia_rate	478
+13241	Georgia	Rabun	chlamydia_rate	154
+13243	Georgia	Randolph	chlamydia_rate	557
+13245	Georgia	Richmond	chlamydia_rate	1220
+13247	Georgia	Rockdale	chlamydia_rate	405
+13249	Georgia	Schley	chlamydia_rate	240
+13251	Georgia	Screven	chlamydia_rate	439
+13253	Georgia	Seminole	chlamydia_rate	607
+13255	Georgia	Spalding	chlamydia_rate	437
+13257	Georgia	Stephens	chlamydia_rate	290
+13259	Georgia	Stewart	chlamydia_rate	957
+13261	Georgia	Sumter	chlamydia_rate	1301
+13263	Georgia	Talbot	chlamydia_rate	787
+13265	Georgia	Taliaferro	chlamydia_rate	757
+13267	Georgia	Tattnall	chlamydia_rate	364
+13269	Georgia	Taylor	chlamydia_rate	449
+13271	Georgia	Telfair	chlamydia_rate	455
+13273	Georgia	Terrell	chlamydia_rate	719
+13275	Georgia	Thomas	chlamydia_rate	472
+13277	Georgia	Tift	chlamydia_rate	668
+13279	Georgia	Toombs	chlamydia_rate	702
+13281	Georgia	Towns	chlamydia_rate	96
+13283	Georgia	Treutlen	chlamydia_rate	523
+13285	Georgia	Troup	chlamydia_rate	543
+13287	Georgia	Turner	chlamydia_rate	672
+13289	Georgia	Twiggs	chlamydia_rate	488
+13291	Georgia	Union	chlamydia_rate	70
+13293	Georgia	Upson	chlamydia_rate	438
+13295	Georgia	Walker	chlamydia_rate	105
+13297	Georgia	Walton	chlamydia_rate	247
+13299	Georgia	Ware	chlamydia_rate	746
+13301	Georgia	Warren	chlamydia_rate	891
+13303	Georgia	Washington	chlamydia_rate	651
+13305	Georgia	Wayne	chlamydia_rate	382
+13307	Georgia	Webster	chlamydia_rate	536
+13309	Georgia	Wheeler	chlamydia_rate	297
+13311	Georgia	White	chlamydia_rate	100
+13313	Georgia	Whitfield	chlamydia_rate	290
+13315	Georgia	Wilcox	chlamydia_rate	475
+13317	Georgia	Wilkes	chlamydia_rate	557
+13319	Georgia	Wilkinson	chlamydia_rate	512
+13321	Georgia	Worth	chlamydia_rate	789
+15001	Hawaii	Hawaii	chlamydia_rate	308
+15003	Hawaii	Honolulu	chlamydia_rate	506
+15005	Hawaii	Kalawao	chlamydia_rate	0
+15007	Hawaii	Kauai	chlamydia_rate	194
+15009	Hawaii	Maui	chlamydia_rate	314
+16001	Idaho	Ada	chlamydia_rate	307
+16003	Idaho	Adams	chlamydia_rate	101
+16005	Idaho	Bannock	chlamydia_rate	345
+16007	Idaho	Bear Lake	chlamydia_rate	50
+16009	Idaho	Benewah	chlamydia_rate	237
+16011	Idaho	Bingham	chlamydia_rate	184
+16013	Idaho	Blaine	chlamydia_rate	197
+16015	Idaho	Boise	chlamydia_rate	114
+16017	Idaho	Bonner	chlamydia_rate	162
+16019	Idaho	Bonneville	chlamydia_rate	212
+16021	Idaho	Boundary	chlamydia_rate	119
+16023	Idaho	Butte	chlamydia_rate	104
+16025	Idaho	Camas	chlamydia_rate	0
+16027	Idaho	Canyon	chlamydia_rate	350
+16029	Idaho	Caribou	chlamydia_rate	72
+16031	Idaho	Cassia	chlamydia_rate	183
+16033	Idaho	Clark	chlamydia_rate	306
+16035	Idaho	Clearwater	chlamydia_rate	80
+16037	Idaho	Custer	chlamydia_rate	183
+16039	Idaho	Elmore	chlamydia_rate	455
+16041	Idaho	Franklin	chlamydia_rate	102
+16043	Idaho	Fremont	chlamydia_rate	113
+16045	Idaho	Gem	chlamydia_rate	311
+16047	Idaho	Gooding	chlamydia_rate	155
+16049	Idaho	Idaho	chlamydia_rate	160
+16051	Idaho	Jefferson	chlamydia_rate	77
+16053	Idaho	Jerome	chlamydia_rate	273
+16055	Idaho	Kootenai	chlamydia_rate	365
+16057	Idaho	Latah	chlamydia_rate	320
+16059	Idaho	Lemhi	chlamydia_rate	50
+16061	Idaho	Lewis	chlamydia_rate	262
+16063	Idaho	Lincoln	chlamydia_rate	288
+16065	Idaho	Madison	chlamydia_rate	40
+16067	Idaho	Minidoka	chlamydia_rate	289
+16069	Idaho	Nez Perce	chlamydia_rate	382
+16071	Idaho	Oneida	chlamydia_rate	117
+16073	Idaho	Owyhee	chlamydia_rate	200
+16075	Idaho	Payette	chlamydia_rate	239
+16077	Idaho	Power	chlamydia_rate	154
+16079	Idaho	Shoshone	chlamydia_rate	165
+16081	Idaho	Teton	chlamydia_rate	59
+16083	Idaho	Twin Falls	chlamydia_rate	212
+16085	Idaho	Valley	chlamydia_rate	101
+16087	Idaho	Washington	chlamydia_rate	206
+17001	Illinois	Adams	chlamydia_rate	265
+17003	Illinois	Alexander	chlamydia_rate	886
+17005	Illinois	Bond	chlamydia_rate	236
+17007	Illinois	Boone	chlamydia_rate	161
+17009	Illinois	Brown	chlamydia_rate	72
+17011	Illinois	Bureau	chlamydia_rate	186
+17013	Illinois	Calhoun	chlamydia_rate	39
+17015	Illinois	Carroll	chlamydia_rate	169
+17017	Illinois	Cass	chlamydia_rate	323
+17019	Illinois	Champaign	chlamydia_rate	628
+17021	Illinois	Christian	chlamydia_rate	236
+17023	Illinois	Clark	chlamydia_rate	141
+17025	Illinois	Clay	chlamydia_rate	101
+17027	Illinois	Clinton	chlamydia_rate	175
+17029	Illinois	Coles	chlamydia_rate	490
+17031	Illinois	Cook	chlamydia_rate	667
+17033	Illinois	Crawford	chlamydia_rate	131
+17035	Illinois	Cumberland	chlamydia_rate	136
+17037	Illinois	DeKalb	chlamydia_rate	434
+17039	Illinois	De Witt	chlamydia_rate	169
+17041	Illinois	Douglas	chlamydia_rate	155
+17043	Illinois	DuPage	chlamydia_rate	168
+17045	Illinois	Edgar	chlamydia_rate	188
+17047	Illinois	Edwards	chlamydia_rate	119
+17049	Illinois	Effingham	chlamydia_rate	152
+17051	Illinois	Fayette	chlamydia_rate	194
+17053	Illinois	Ford	chlamydia_rate	185
+17055	Illinois	Franklin	chlamydia_rate	369
+17057	Illinois	Fulton	chlamydia_rate	192
+17059	Illinois	Gallatin	chlamydia_rate	197
+17061	Illinois	Greene	chlamydia_rate	158
+17063	Illinois	Grundy	chlamydia_rate	98
+17065	Illinois	Hamilton	chlamydia_rate	130
+17067	Illinois	Hancock	chlamydia_rate	147
+17069	Illinois	Hardin	chlamydia_rate	162
+17071	Illinois	Henderson	chlamydia_rate	205
+17073	Illinois	Henry	chlamydia_rate	198
+17075	Illinois	Iroquois	chlamydia_rate	91
+17077	Illinois	Jackson	chlamydia_rate	1159
+17079	Illinois	Jasper	chlamydia_rate	144
+17081	Illinois	Jefferson	chlamydia_rate	327
+17083	Illinois	Jersey	chlamydia_rate	100
+17085	Illinois	Jo Daviess	chlamydia_rate	93
+17087	Illinois	Johnson	chlamydia_rate	183
+17089	Illinois	Kane	chlamydia_rate	275
+17091	Illinois	Kankakee	chlamydia_rate	481
+17093	Illinois	Kendall	chlamydia_rate	138
+17095	Illinois	Knox	chlamydia_rate	387
+17097	Illinois	Lake	chlamydia_rate	282
+17099	Illinois	LaSalle	chlamydia_rate	223
+17101	Illinois	Lawrence	chlamydia_rate	178
+17103	Illinois	Lee	chlamydia_rate	242
+17105	Illinois	Livingston	chlamydia_rate	339
+17107	Illinois	Logan	chlamydia_rate	343
+17109	Illinois	McDonough	chlamydia_rate	297
+17111	Illinois	McHenry	chlamydia_rate	128
+17113	Illinois	McLean	chlamydia_rate	464
+17115	Illinois	Macon	chlamydia_rate	690
+17117	Illinois	Macoupin	chlamydia_rate	191
+17119	Illinois	Madison	chlamydia_rate	367
+17121	Illinois	Marion	chlamydia_rate	360
+17123	Illinois	Marshall	chlamydia_rate	174
+17125	Illinois	Mason	chlamydia_rate	232
+17127	Illinois	Massac	chlamydia_rate	227
+17129	Illinois	Menard	chlamydia_rate	244
+17131	Illinois	Mercer	chlamydia_rate	213
+17133	Illinois	Monroe	chlamydia_rate	88
+17135	Illinois	Montgomery	chlamydia_rate	223
+17137	Illinois	Morgan	chlamydia_rate	276
+17139	Illinois	Moultrie	chlamydia_rate	155
+17141	Illinois	Ogle	chlamydia_rate	275
+17143	Illinois	Peoria	chlamydia_rate	914
+17145	Illinois	Perry	chlamydia_rate	304
+17147	Illinois	Piatt	chlamydia_rate	155
+17149	Illinois	Pike	chlamydia_rate	164
+17151	Illinois	Pope	chlamydia_rate	716
+17153	Illinois	Pulaski	chlamydia_rate	682
+17155	Illinois	Putnam	chlamydia_rate	100
+17157	Illinois	Randolph	chlamydia_rate	248
+17159	Illinois	Richland	chlamydia_rate	117
+17161	Illinois	Rock Island	chlamydia_rate	487
+17163	Illinois	St. Clair	chlamydia_rate	857
+17165	Illinois	Saline	chlamydia_rate	321
+17167	Illinois	Sangamon	chlamydia_rate	607
+17169	Illinois	Schuyler	chlamydia_rate	186
+17171	Illinois	Scott	chlamydia_rate	131
+17173	Illinois	Shelby	chlamydia_rate	130
+17175	Illinois	Stark	chlamydia_rate	217
+17177	Illinois	Stephenson	chlamydia_rate	423
+17179	Illinois	Tazewell	chlamydia_rate	280
+17181	Illinois	Union	chlamydia_rate	236
+17183	Illinois	Vermilion	chlamydia_rate	538
+17185	Illinois	Wabash	chlamydia_rate	167
+17187	Illinois	Warren	chlamydia_rate	260
+17189	Illinois	Washington	chlamydia_rate	204
+17191	Illinois	Wayne	chlamydia_rate	137
+17193	Illinois	White	chlamydia_rate	198
+17195	Illinois	Whiteside	chlamydia_rate	335
+17197	Illinois	Will	chlamydia_rate	264
+17199	Illinois	Williamson	chlamydia_rate	324
+17201	Illinois	Winnebago	chlamydia_rate	535
+17203	Illinois	Woodford	chlamydia_rate	114
+18001	Indiana	Adams	chlamydia_rate	125
+18003	Indiana	Allen	chlamydia_rate	572
+18005	Indiana	Bartholomew	chlamydia_rate	208
+18007	Indiana	Benton	chlamydia_rate	181
+18009	Indiana	Blackford	chlamydia_rate	227
+18011	Indiana	Boone	chlamydia_rate	122
+18013	Indiana	Brown	chlamydia_rate	39
+18015	Indiana	Carroll	chlamydia_rate	129
+18017	Indiana	Cass	chlamydia_rate	77
+18019	Indiana	Clark	chlamydia_rate	352
+18021	Indiana	Clay	chlamydia_rate	134
+18023	Indiana	Clinton	chlamydia_rate	310
+18025	Indiana	Crawford	chlamydia_rate	159
+18027	Indiana	Daviess	chlamydia_rate	126
+18029	Indiana	Dearborn	chlamydia_rate	142
+18031	Indiana	Decatur	chlamydia_rate	140
+18033	Indiana	DeKalb	chlamydia_rate	114
+18035	Indiana	Delaware	chlamydia_rate	671
+18037	Indiana	Dubois	chlamydia_rate	127
+18039	Indiana	Elkhart	chlamydia_rate	337
+18041	Indiana	Fayette	chlamydia_rate	185
+18043	Indiana	Floyd	chlamydia_rate	406
+18045	Indiana	Fountain	chlamydia_rate	180
+18047	Indiana	Franklin	chlamydia_rate	100
+18049	Indiana	Fulton	chlamydia_rate	24
+18051	Indiana	Gibson	chlamydia_rate	290
+18053	Indiana	Grant	chlamydia_rate	337
+18055	Indiana	Greene	chlamydia_rate	127
+18057	Indiana	Hamilton	chlamydia_rate	93
+18059	Indiana	Hancock	chlamydia_rate	91
+18061	Indiana	Harrison	chlamydia_rate	170
+18063	Indiana	Hendricks	chlamydia_rate	107
+18065	Indiana	Henry	chlamydia_rate	214
+18067	Indiana	Howard	chlamydia_rate	365
+18069	Indiana	Huntington	chlamydia_rate	162
+18071	Indiana	Jackson	chlamydia_rate	307
+18073	Indiana	Jasper	chlamydia_rate	87
+18075	Indiana	Jay	chlamydia_rate	198
+18077	Indiana	Jefferson	chlamydia_rate	278
+18079	Indiana	Jennings	chlamydia_rate	165
+18081	Indiana	Johnson	chlamydia_rate	118
+18083	Indiana	Knox	chlamydia_rate	421
+18085	Indiana	Kosciusko	chlamydia_rate	142
+18087	Indiana	LaGrange	chlamydia_rate	49
+18089	Indiana	Lake	chlamydia_rate	461
+18091	Indiana	LaPorte	chlamydia_rate	218
+18093	Indiana	Lawrence	chlamydia_rate	223
+18095	Indiana	Madison	chlamydia_rate	397
+18097	Indiana	Marion	chlamydia_rate	808
+18099	Indiana	Marshall	chlamydia_rate	94
+18101	Indiana	Martin	chlamydia_rate	165
+18103	Indiana	Miami	chlamydia_rate	127
+18105	Indiana	Monroe	chlamydia_rate	328
+18107	Indiana	Montgomery	chlamydia_rate	150
+18109	Indiana	Morgan	chlamydia_rate	158
+18111	Indiana	Newton	chlamydia_rate	56
+18113	Indiana	Noble	chlamydia_rate	173
+18115	Indiana	Ohio	chlamydia_rate	114
+18117	Indiana	Orange	chlamydia_rate	86
+18119	Indiana	Owen	chlamydia_rate	93
+18121	Indiana	Parke	chlamydia_rate	288
+18123	Indiana	Perry	chlamydia_rate	26
+18125	Indiana	Pike	chlamydia_rate	93
+18127	Indiana	Porter	chlamydia_rate	137
+18129	Indiana	Posey	chlamydia_rate	193
+18131	Indiana	Pulaski	chlamydia_rate	67
+18133	Indiana	Putnam	chlamydia_rate	166
+18135	Indiana	Randolph	chlamydia_rate	245
+18137	Indiana	Ripley	chlamydia_rate	132
+18139	Indiana	Rush	chlamydia_rate	253
+18141	Indiana	St. Joseph	chlamydia_rate	348
+18143	Indiana	Scott	chlamydia_rate	335
+18145	Indiana	Shelby	chlamydia_rate	203
+18147	Indiana	Spencer	chlamydia_rate	53
+18149	Indiana	Starke	chlamydia_rate	30
+18151	Indiana	Steuben	chlamydia_rate	184
+18153	Indiana	Sullivan	chlamydia_rate	107
+18155	Indiana	Switzerland	chlamydia_rate	188
+18157	Indiana	Tippecanoe	chlamydia_rate	304
+18159	Indiana	Tipton	chlamydia_rate	94
+18161	Indiana	Union	chlamydia_rate	120
+18163	Indiana	Vanderburgh	chlamydia_rate	533
+18165	Indiana	Vermillion	chlamydia_rate	99
+18167	Indiana	Vigo	chlamydia_rate	317
+18169	Indiana	Wabash	chlamydia_rate	173
+18171	Indiana	Warren	chlamydia_rate	165
+18173	Indiana	Warrick	chlamydia_rate	183
+18175	Indiana	Washington	chlamydia_rate	191
+18177	Indiana	Wayne	chlamydia_rate	289
+18179	Indiana	Wells	chlamydia_rate	116
+18181	Indiana	White	chlamydia_rate	146
+18183	Indiana	Whitley	chlamydia_rate	189
+19001	Iowa	Adair	chlamydia_rate	117
+19003	Iowa	Adams	chlamydia_rate	99
+19005	Iowa	Allamakee	chlamydia_rate	195
+19007	Iowa	Appanoose	chlamydia_rate	163
+19009	Iowa	Audubon	chlamydia_rate	360
+19011	Iowa	Benton	chlamydia_rate	173
+19013	Iowa	Black Hawk	chlamydia_rate	719
+19015	Iowa	Boone	chlamydia_rate	194
+19017	Iowa	Bremer	chlamydia_rate	202
+19019	Iowa	Buchanan	chlamydia_rate	167
+19021	Iowa	Buena Vista	chlamydia_rate	331
+19023	Iowa	Butler	chlamydia_rate	182
+19025	Iowa	Calhoun	chlamydia_rate	197
+19027	Iowa	Carroll	chlamydia_rate	154
+19029	Iowa	Cass	chlamydia_rate	222
+19031	Iowa	Cedar	chlamydia_rate	168
+19033	Iowa	Cerro Gordo	chlamydia_rate	256
+19035	Iowa	Cherokee	chlamydia_rate	124
+19037	Iowa	Chickasaw	chlamydia_rate	153
+19039	Iowa	Clarke	chlamydia_rate	194
+19041	Iowa	Clay	chlamydia_rate	282
+19043	Iowa	Clayton	chlamydia_rate	83
+19045	Iowa	Clinton	chlamydia_rate	338
+19047	Iowa	Crawford	chlamydia_rate	374
+19049	Iowa	Dallas	chlamydia_rate	191
+19051	Iowa	Davis	chlamydia_rate	80
+19053	Iowa	Decatur	chlamydia_rate	260
+19055	Iowa	Delaware	chlamydia_rate	130
+19057	Iowa	Des Moines	chlamydia_rate	627
+19059	Iowa	Dickinson	chlamydia_rate	162
+19061	Iowa	Dubuque	chlamydia_rate	308
+19063	Iowa	Emmet	chlamydia_rate	330
+19065	Iowa	Fayette	chlamydia_rate	216
+19067	Iowa	Floyd	chlamydia_rate	288
+19069	Iowa	Franklin	chlamydia_rate	281
+19071	Iowa	Fremont	chlamydia_rate	134
+19073	Iowa	Greene	chlamydia_rate	246
+19075	Iowa	Grundy	chlamydia_rate	137
+19077	Iowa	Guthrie	chlamydia_rate	119
+19079	Iowa	Hamilton	chlamydia_rate	236
+19081	Iowa	Hancock	chlamydia_rate	150
+19083	Iowa	Hardin	chlamydia_rate	285
+19085	Iowa	Harrison	chlamydia_rate	114
+19087	Iowa	Henry	chlamydia_rate	303
+19089	Iowa	Howard	chlamydia_rate	167
+19091	Iowa	Humboldt	chlamydia_rate	194
+19093	Iowa	Ida	chlamydia_rate	169
+19095	Iowa	Iowa	chlamydia_rate	245
+19097	Iowa	Jackson	chlamydia_rate	242
+19099	Iowa	Jasper	chlamydia_rate	198
+19101	Iowa	Jefferson	chlamydia_rate	137
+19103	Iowa	Johnson	chlamydia_rate	523
+19105	Iowa	Jones	chlamydia_rate	174
+19107	Iowa	Keokuk	chlamydia_rate	143
+19109	Iowa	Kossuth	chlamydia_rate	135
+19111	Iowa	Lee	chlamydia_rate	332
+19113	Iowa	Linn	chlamydia_rate	409
+19115	Iowa	Louisa	chlamydia_rate	202
+19117	Iowa	Lucas	chlamydia_rate	135
+19119	Iowa	Lyon	chlamydia_rate	35
+19121	Iowa	Madison	chlamydia_rate	191
+19123	Iowa	Mahaska	chlamydia_rate	340
+19125	Iowa	Marion	chlamydia_rate	156
+19127	Iowa	Marshall	chlamydia_rate	376
+19129	Iowa	Mills	chlamydia_rate	126
+19131	Iowa	Mitchell	chlamydia_rate	46
+19133	Iowa	Monona	chlamydia_rate	173
+19135	Iowa	Monroe	chlamydia_rate	151
+19137	Iowa	Montgomery	chlamydia_rate	112
+19139	Iowa	Muscatine	chlamydia_rate	363
+19141	Iowa	O'Brien	chlamydia_rate	97
+19143	Iowa	Osceola	chlamydia_rate	46
+19145	Iowa	Page	chlamydia_rate	107
+19147	Iowa	Palo Alto	chlamydia_rate	138
+19149	Iowa	Plymouth	chlamydia_rate	196
+19151	Iowa	Pocahontas	chlamydia_rate	164
+19153	Iowa	Polk	chlamydia_rate	482
+19155	Iowa	Pottawattamie	chlamydia_rate	342
+19157	Iowa	Poweshiek	chlamydia_rate	317
+19159	Iowa	Ringgold	chlamydia_rate	97
+19161	Iowa	Sac	chlamydia_rate	77
+19163	Iowa	Scott	chlamydia_rate	572
+19165	Iowa	Shelby	chlamydia_rate	140
+19167	Iowa	Sioux	chlamydia_rate	89
+19169	Iowa	Story	chlamydia_rate	334
+19171	Iowa	Tama	chlamydia_rate	355
+19173	Iowa	Taylor	chlamydia_rate	238
+19175	Iowa	Union	chlamydia_rate	200
+19177	Iowa	Van Buren	chlamydia_rate	53
+19179	Iowa	Wapello	chlamydia_rate	373
+19181	Iowa	Warren	chlamydia_rate	182
+19183	Iowa	Washington	chlamydia_rate	221
+19185	Iowa	Wayne	chlamydia_rate	125
+19187	Iowa	Webster	chlamydia_rate	471
+19189	Iowa	Winnebago	chlamydia_rate	129
+19191	Iowa	Winneshiek	chlamydia_rate	147
+19193	Iowa	Woodbury	chlamydia_rate	466
+19195	Iowa	Worth	chlamydia_rate	158
+19197	Iowa	Wright	chlamydia_rate	204
+20001	Kansas	Allen	chlamydia_rate	172
+20003	Kansas	Anderson	chlamydia_rate	161
+20005	Kansas	Atchison	chlamydia_rate	307
+20007	Kansas	Barber	chlamydia_rate	82
+20009	Kansas	Barton	chlamydia_rate	289
+20011	Kansas	Bourbon	chlamydia_rate	224
+20013	Kansas	Brown	chlamydia_rate	260
+20015	Kansas	Butler	chlamydia_rate	196
+20017	Kansas	Chase	chlamydia_rate	215
+20019	Kansas	Chautauqua	chlamydia_rate	82
+20021	Kansas	Cherokee	chlamydia_rate	148
+20023	Kansas	Cheyenne	chlamydia_rate	110
+20025	Kansas	Clark	chlamydia_rate	90
+20027	Kansas	Clay	chlamydia_rate	129
+20029	Kansas	Cloud	chlamydia_rate	210
+20031	Kansas	Coffey	chlamydia_rate	105
+20033	Kansas	Comanche	chlamydia_rate	317
+20035	Kansas	Cowley	chlamydia_rate	397
+20037	Kansas	Crawford	chlamydia_rate	279
+20039	Kansas	Decatur	chlamydia_rate	101
+20041	Kansas	Dickinson	chlamydia_rate	142
+20043	Kansas	Doniphan	chlamydia_rate	239
+20045	Kansas	Douglas	chlamydia_rate	384
+20047	Kansas	Edwards	chlamydia_rate	66
+20049	Kansas	Elk	chlamydia_rate	104
+20051	Kansas	Ellis	chlamydia_rate	373
+20053	Kansas	Ellsworth	chlamydia_rate	62
+20055	Kansas	Finney	chlamydia_rate	500
+20057	Kansas	Ford	chlamydia_rate	381
+20059	Kansas	Franklin	chlamydia_rate	273
+20061	Kansas	Geary	chlamydia_rate	698
+20063	Kansas	Gove	chlamydia_rate	111
+20065	Kansas	Graham	chlamydia_rate	77
+20067	Kansas	Grant	chlamydia_rate	128
+20069	Kansas	Gray	chlamydia_rate	67
+20071	Kansas	Greeley	chlamydia_rate	241
+20073	Kansas	Greenwood	chlamydia_rate	30
+20075	Kansas	Hamilton	chlamydia_rate	223
+20077	Kansas	Harper	chlamydia_rate	149
+20079	Kansas	Harvey	chlamydia_rate	248
+20081	Kansas	Haskell	chlamydia_rate	376
+20083	Kansas	Hodgeman	chlamydia_rate	52
+20085	Kansas	Jackson	chlamydia_rate	223
+20087	Kansas	Jefferson	chlamydia_rate	173
+20089	Kansas	Jewell	chlamydia_rate	130
+20091	Kansas	Johnson	chlamydia_rate	188
+20093	Kansas	Kearny	chlamydia_rate	251
+20095	Kansas	Kingman	chlamydia_rate	115
+20097	Kansas	Kiowa	chlamydia_rate	78
+20099	Kansas	Labette	chlamydia_rate	231
+20101	Kansas	Lane	chlamydia_rate	0
+20103	Kansas	Leavenworth	chlamydia_rate	295
+20105	Kansas	Lincoln	chlamydia_rate	247
+20107	Kansas	Linn	chlamydia_rate	124
+20109	Kansas	Logan	chlamydia_rate	218
+20111	Kansas	Lyon	chlamydia_rate	356
+20113	Kansas	McPherson	chlamydia_rate	202
+20115	Kansas	Marion	chlamydia_rate	71
+20117	Kansas	Marshall	chlamydia_rate	188
+20119	Kansas	Meade	chlamydia_rate	22
+20121	Kansas	Miami	chlamydia_rate	149
+20123	Kansas	Mitchell	chlamydia_rate	141
+20125	Kansas	Montgomery	chlamydia_rate	251
+20127	Kansas	Morris	chlamydia_rate	118
+20129	Kansas	Morton	chlamydia_rate	217
+20131	Kansas	Nemaha	chlamydia_rate	49
+20133	Kansas	Neosho	chlamydia_rate	321
+20135	Kansas	Ness	chlamydia_rate	129
+20137	Kansas	Norton	chlamydia_rate	53
+20139	Kansas	Osage	chlamydia_rate	258
+20141	Kansas	Osborne	chlamydia_rate	181
+20143	Kansas	Ottawa	chlamydia_rate	82
+20145	Kansas	Pawnee	chlamydia_rate	186
+20147	Kansas	Phillips	chlamydia_rate	71
+20149	Kansas	Pottawatomie	chlamydia_rate	65
+20151	Kansas	Pratt	chlamydia_rate	83
+20153	Kansas	Rawlins	chlamydia_rate	40
+20155	Kansas	Reno	chlamydia_rate	336
+20157	Kansas	Republic	chlamydia_rate	80
+20159	Kansas	Rice	chlamydia_rate	159
+20161	Kansas	Riley	chlamydia_rate	471
+20163	Kansas	Rooks	chlamydia_rate	154
+20165	Kansas	Rush	chlamydia_rate	91
+20167	Kansas	Russell	chlamydia_rate	258
+20169	Kansas	Saline	chlamydia_rate	493
+20171	Kansas	Scott	chlamydia_rate	61
+20173	Kansas	Sedgwick	chlamydia_rate	536
+20175	Kansas	Seward	chlamydia_rate	322
+20177	Kansas	Shawnee	chlamydia_rate	434
+20179	Kansas	Sheridan	chlamydia_rate	39
+20181	Kansas	Sherman	chlamydia_rate	233
+20183	Kansas	Smith	chlamydia_rate	130
+20185	Kansas	Stafford	chlamydia_rate	23
+20187	Kansas	Stanton	chlamydia_rate	224
+20189	Kansas	Stevens	chlamydia_rate	140
+20191	Kansas	Sumner	chlamydia_rate	112
+20193	Kansas	Thomas	chlamydia_rate	152
+20195	Kansas	Trego	chlamydia_rate	167
+20197	Kansas	Wabaunsee	chlamydia_rate	128
+20199	Kansas	Wallace	chlamydia_rate	67
+20201	Kansas	Washington	chlamydia_rate	104
+20203	Kansas	Wichita	chlamydia_rate	45
+20205	Kansas	Wilson	chlamydia_rate	181
+20207	Kansas	Woodson	chlamydia_rate	151
+20209	Kansas	Wyandotte	chlamydia_rate	687
+21001	Kentucky	Adair	chlamydia_rate	359
+21003	Kentucky	Allen	chlamydia_rate	221
+21005	Kentucky	Anderson	chlamydia_rate	257
+21007	Kentucky	Ballard	chlamydia_rate	376
+21009	Kentucky	Barren	chlamydia_rate	259
+21011	Kentucky	Bath	chlamydia_rate	302
+21013	Kentucky	Bell	chlamydia_rate	436
+21015	Kentucky	Boone	chlamydia_rate	242
+21017	Kentucky	Bourbon	chlamydia_rate	185
+21019	Kentucky	Boyd	chlamydia_rate	305
+21021	Kentucky	Boyle	chlamydia_rate	485
+21023	Kentucky	Bracken	chlamydia_rate	377
+21025	Kentucky	Breathitt	chlamydia_rate	50
+21027	Kentucky	Breckinridge	chlamydia_rate	150
+21029	Kentucky	Bullitt	chlamydia_rate	245
+21031	Kentucky	Butler	chlamydia_rate	142
+21033	Kentucky	Caldwell	chlamydia_rate	316
+21035	Kentucky	Calloway	chlamydia_rate	422
+21037	Kentucky	Campbell	chlamydia_rate	337
+21039	Kentucky	Carlisle	chlamydia_rate	118
+21041	Kentucky	Carroll	chlamydia_rate	453
+21043	Kentucky	Carter	chlamydia_rate	170
+21045	Kentucky	Casey	chlamydia_rate	125
+21047	Kentucky	Christian	chlamydia_rate	604
+21049	Kentucky	Clark	chlamydia_rate	379
+21051	Kentucky	Clay	chlamydia_rate	87
+21053	Kentucky	Clinton	chlamydia_rate	58
+21055	Kentucky	Crittenden	chlamydia_rate	204
+21057	Kentucky	Cumberland	chlamydia_rate	117
+21059	Kentucky	Daviess	chlamydia_rate	474
+21061	Kentucky	Edmonson	chlamydia_rate	411
+21063	Kentucky	Elliott	chlamydia_rate	26
+21065	Kentucky	Estill	chlamydia_rate	205
+21067	Kentucky	Fayette	chlamydia_rate	545
+21069	Kentucky	Fleming	chlamydia_rate	139
+21071	Kentucky	Floyd	chlamydia_rate	238
+21073	Kentucky	Franklin	chlamydia_rate	739
+21075	Kentucky	Fulton	chlamydia_rate	822
+21077	Kentucky	Gallatin	chlamydia_rate	303
+21079	Kentucky	Garrard	chlamydia_rate	302
+21081	Kentucky	Grant	chlamydia_rate	308
+21083	Kentucky	Graves	chlamydia_rate	420
+21085	Kentucky	Grayson	chlamydia_rate	198
+21087	Kentucky	Green	chlamydia_rate	311
+21089	Kentucky	Greenup	chlamydia_rate	119
+21091	Kentucky	Hancock	chlamydia_rate	222
+21093	Kentucky	Hardin	chlamydia_rate	660
+21095	Kentucky	Harlan	chlamydia_rate	85
+21097	Kentucky	Harrison	chlamydia_rate	308
+21099	Kentucky	Hart	chlamydia_rate	280
+21101	Kentucky	Henderson	chlamydia_rate	329
+21103	Kentucky	Henry	chlamydia_rate	279
+21105	Kentucky	Hickman	chlamydia_rate	530
+21107	Kentucky	Hopkins	chlamydia_rate	309
+21109	Kentucky	Jackson	chlamydia_rate	163
+21111	Kentucky	Jefferson	chlamydia_rate	639
+21113	Kentucky	Jessamine	chlamydia_rate	268
+21115	Kentucky	Johnson	chlamydia_rate	60
+21117	Kentucky	Kenton	chlamydia_rate	382
+21119	Kentucky	Knott	chlamydia_rate	73
+21121	Kentucky	Knox	chlamydia_rate	251
+21123	Kentucky	Larue	chlamydia_rate	211
+21125	Kentucky	Laurel	chlamydia_rate	104
+21127	Kentucky	Lawrence	chlamydia_rate	101
+21129	Kentucky	Lee	chlamydia_rate	114
+21131	Kentucky	Leslie	chlamydia_rate	88
+21133	Kentucky	Letcher	chlamydia_rate	86
+21135	Kentucky	Lewis	chlamydia_rate	159
+21137	Kentucky	Lincoln	chlamydia_rate	243
+21139	Kentucky	Livingston	chlamydia_rate	126
+21141	Kentucky	Logan	chlamydia_rate	257
+21143	Kentucky	Lyon	chlamydia_rate	241
+21145	Kentucky	McCracken	chlamydia_rate	497
+21147	Kentucky	McCreary	chlamydia_rate	284
+21149	Kentucky	McLean	chlamydia_rate	105
+21151	Kentucky	Madison	chlamydia_rate	340
+21153	Kentucky	Magoffin	chlamydia_rate	113
+21155	Kentucky	Marion	chlamydia_rate	323
+21157	Kentucky	Marshall	chlamydia_rate	197
+21159	Kentucky	Martin	chlamydia_rate	108
+21161	Kentucky	Mason	chlamydia_rate	343
+21163	Kentucky	Meade	chlamydia_rate	213
+21165	Kentucky	Menifee	chlamydia_rate	460
+21167	Kentucky	Mercer	chlamydia_rate	295
+21169	Kentucky	Metcalfe	chlamydia_rate	69
+21171	Kentucky	Monroe	chlamydia_rate	201
+21173	Kentucky	Montgomery	chlamydia_rate	272
+21175	Kentucky	Morgan	chlamydia_rate	72
+21177	Kentucky	Muhlenberg	chlamydia_rate	406
+21179	Kentucky	Nelson	chlamydia_rate	477
+21181	Kentucky	Nicholas	chlamydia_rate	112
+21183	Kentucky	Ohio	chlamydia_rate	164
+21185	Kentucky	Oldham	chlamydia_rate	124
+21187	Kentucky	Owen	chlamydia_rate	175
+21189	Kentucky	Owsley	chlamydia_rate	63
+21191	Kentucky	Pendleton	chlamydia_rate	208
+21193	Kentucky	Perry	chlamydia_rate	164
+21195	Kentucky	Pike	chlamydia_rate	115
+21197	Kentucky	Powell	chlamydia_rate	159
+21199	Kentucky	Pulaski	chlamydia_rate	162
+21201	Kentucky	Robertson	chlamydia_rate	307
+21203	Kentucky	Rockcastle	chlamydia_rate	111
+21205	Kentucky	Rowan	chlamydia_rate	441
+21207	Kentucky	Russell	chlamydia_rate	165
+21209	Kentucky	Scott	chlamydia_rate	320
+21211	Kentucky	Shelby	chlamydia_rate	411
+21213	Kentucky	Simpson	chlamydia_rate	167
+21215	Kentucky	Spencer	chlamydia_rate	176
+21217	Kentucky	Taylor	chlamydia_rate	379
+21219	Kentucky	Todd	chlamydia_rate	217
+21221	Kentucky	Trigg	chlamydia_rate	181
+21223	Kentucky	Trimble	chlamydia_rate	329
+21225	Kentucky	Union	chlamydia_rate	1779
+21227	Kentucky	Warren	chlamydia_rate	348
+21229	Kentucky	Washington	chlamydia_rate	418
+21231	Kentucky	Wayne	chlamydia_rate	159
+21233	Kentucky	Webster	chlamydia_rate	206
+21235	Kentucky	Whitley	chlamydia_rate	160
+21237	Kentucky	Wolfe	chlamydia_rate	95
+21239	Kentucky	Woodford	chlamydia_rate	168
+22001	Louisiana	Acadia	chlamydia_rate	345
+22003	Louisiana	Allen	chlamydia_rate	396
+22005	Louisiana	Ascension	chlamydia_rate	237
+22007	Louisiana	Assumption	chlamydia_rate	278
+22009	Louisiana	Avoyelles	chlamydia_rate	316
+22011	Louisiana	Beauregard	chlamydia_rate	353
+22013	Louisiana	Bienville	chlamydia_rate	725
+22015	Louisiana	Bossier	chlamydia_rate	510
+22017	Louisiana	Caddo	chlamydia_rate	1512
+22019	Louisiana	Calcasieu	chlamydia_rate	572
+22021	Louisiana	Caldwell	chlamydia_rate	464
+22023	Louisiana	Cameron	chlamydia_rate	132
+22025	Louisiana	Catahoula	chlamydia_rate	375
+22027	Louisiana	Claiborne	chlamydia_rate	529
+22029	Louisiana	Concordia	chlamydia_rate	418
+22031	Louisiana	De Soto	chlamydia_rate	874
+22033	Louisiana	East Baton Rouge	chlamydia_rate	733
+22035	Louisiana	East Carroll	chlamydia_rate	1328
+22037	Louisiana	East Feliciana	chlamydia_rate	242
+22039	Louisiana	Evangeline	chlamydia_rate	453
+22041	Louisiana	Franklin	chlamydia_rate	612
+22043	Louisiana	Grant	chlamydia_rate	157
+22045	Louisiana	Iberia	chlamydia_rate	729
+22047	Louisiana	Iberville	chlamydia_rate	557
+22049	Louisiana	Jackson	chlamydia_rate	608
+22051	Louisiana	Jefferson	chlamydia_rate	285
+22053	Louisiana	Jefferson Davis	chlamydia_rate	415
+22055	Louisiana	Lafayette	chlamydia_rate	623
+22057	Louisiana	Lafourche	chlamydia_rate	591
+22059	Louisiana	La Salle	chlamydia_rate	175
+22061	Louisiana	Lincoln	chlamydia_rate	969
+22063	Louisiana	Livingston	chlamydia_rate	199
+22065	Louisiana	Madison	chlamydia_rate	1414
+22067	Louisiana	Morehouse	chlamydia_rate	987
+22069	Louisiana	Natchitoches	chlamydia_rate	890
+22071	Louisiana	Orleans	chlamydia_rate	1345
+22073	Louisiana	Ouachita	chlamydia_rate	966
+22075	Louisiana	Plaquemines	chlamydia_rate	161
+22077	Louisiana	Pointe Coupee	chlamydia_rate	395
+22079	Louisiana	Rapides	chlamydia_rate	787
+22081	Louisiana	Red River	chlamydia_rate	1045
+22083	Louisiana	Richland	chlamydia_rate	791
+22085	Louisiana	Sabine	chlamydia_rate	285
+22087	Louisiana	St. Bernard	chlamydia_rate	245
+22089	Louisiana	St. Charles	chlamydia_rate	273
+22091	Louisiana	St. Helena	chlamydia_rate	455
+22093	Louisiana	St. James	chlamydia_rate	466
+22095	Louisiana	St. John the Baptist	chlamydia_rate	490
+22097	Louisiana	St. Landry	chlamydia_rate	669
+22099	Louisiana	St. Martin	chlamydia_rate	529
+22101	Louisiana	St. Mary	chlamydia_rate	534
+22103	Louisiana	St. Tammany	chlamydia_rate	254
+22105	Louisiana	Tangipahoa	chlamydia_rate	699
+22107	Louisiana	Tensas	chlamydia_rate	400
+22109	Louisiana	Terrebonne	chlamydia_rate	463
+22111	Louisiana	Union	chlamydia_rate	497
+22113	Louisiana	Vermilion	chlamydia_rate	321
+22115	Louisiana	Vernon	chlamydia_rate	755
+22117	Louisiana	Washington	chlamydia_rate	490
+22119	Louisiana	Webster	chlamydia_rate	650
+22121	Louisiana	West Baton Rouge	chlamydia_rate	303
+22123	Louisiana	West Carroll	chlamydia_rate	405
+22125	Louisiana	West Feliciana	chlamydia_rate	128
+22127	Louisiana	Winn	chlamydia_rate	235
+23001	Maine	Androscoggin	chlamydia_rate	268
+23003	Maine	Aroostook	chlamydia_rate	178
+23005	Maine	Cumberland	chlamydia_rate	223
+23007	Maine	Franklin	chlamydia_rate	137
+23009	Maine	Hancock	chlamydia_rate	154
+23011	Maine	Kennebec	chlamydia_rate	242
+23013	Maine	Knox	chlamydia_rate	184
+23015	Maine	Lincoln	chlamydia_rate	136
+23017	Maine	Oxford	chlamydia_rate	128
+23019	Maine	Penobscot	chlamydia_rate	196
+23021	Maine	Piscataquis	chlamydia_rate	103
+23023	Maine	Sagadahoc	chlamydia_rate	187
+23025	Maine	Somerset	chlamydia_rate	193
+23027	Maine	Waldo	chlamydia_rate	150
+23029	Maine	Washington	chlamydia_rate	146
+23031	Maine	York	chlamydia_rate	168
+24001	Maryland	Allegany	chlamydia_rate	257
+24003	Maryland	Anne Arundel	chlamydia_rate	253
+24005	Maryland	Baltimore	chlamydia_rate	362
+24009	Maryland	Calvert	chlamydia_rate	231
+24011	Maryland	Caroline	chlamydia_rate	448
+24013	Maryland	Carroll	chlamydia_rate	136
+24015	Maryland	Cecil	chlamydia_rate	169
+24017	Maryland	Charles	chlamydia_rate	464
+24019	Maryland	Dorchester	chlamydia_rate	751
+24021	Maryland	Frederick	chlamydia_rate	218
+24023	Maryland	Garrett	chlamydia_rate	130
+24025	Maryland	Harford	chlamydia_rate	228
+24027	Maryland	Howard	chlamydia_rate	203
+24029	Maryland	Kent	chlamydia_rate	213
+24031	Maryland	Montgomery	chlamydia_rate	211
+24033	Maryland	Prince George's	chlamydia_rate	682
+24035	Maryland	Queen Anne's	chlamydia_rate	211
+24037	Maryland	St. Mary's	chlamydia_rate	338
+24039	Maryland	Somerset	chlamydia_rate	752
+24041	Maryland	Talbot	chlamydia_rate	315
+24043	Maryland	Washington	chlamydia_rate	309
+24045	Maryland	Wicomico	chlamydia_rate	714
+24047	Maryland	Worcester	chlamydia_rate	389
+24510	Maryland	Baltimore City	chlamydia_rate	1328
+25001	Massachusetts	Barnstable	chlamydia_rate	168
+25003	Massachusetts	Berkshire	chlamydia_rate	282
+25005	Massachusetts	Bristol	chlamydia_rate	234
+25007	Massachusetts	Dukes	chlamydia_rate	103
+25009	Massachusetts	Essex	chlamydia_rate	311
+25011	Massachusetts	Franklin	chlamydia_rate	184
+25013	Massachusetts	Hampden	chlamydia_rate	606
+25015	Massachusetts	Hampshire	chlamydia_rate	202
+25017	Massachusetts	Middlesex	chlamydia_rate	185
+25019	Massachusetts	Nantucket	chlamydia_rate	413
+25021	Massachusetts	Norfolk	chlamydia_rate	158
+25023	Massachusetts	Plymouth	chlamydia_rate	286
+25025	Massachusetts	Suffolk	chlamydia_rate	833
+25027	Massachusetts	Worcester	chlamydia_rate	271
+26001	Michigan	Alcona	chlamydia_rate	27
+26003	Michigan	Alger	chlamydia_rate	63
+26005	Michigan	Allegan	chlamydia_rate	215
+26007	Michigan	Alpena	chlamydia_rate	51
+26009	Michigan	Antrim	chlamydia_rate	144
+26011	Michigan	Arenac	chlamydia_rate	132
+26013	Michigan	Baraga	chlamydia_rate	135
+26015	Michigan	Barry	chlamydia_rate	125
+26017	Michigan	Bay	chlamydia_rate	267
+26019	Michigan	Benzie	chlamydia_rate	154
+26021	Michigan	Berrien	chlamydia_rate	537
+26023	Michigan	Branch	chlamydia_rate	175
+26025	Michigan	Calhoun	chlamydia_rate	599
+26027	Michigan	Cass	chlamydia_rate	208
+26029	Michigan	Charlevoix	chlamydia_rate	139
+26031	Michigan	Cheboygan	chlamydia_rate	88
+26033	Michigan	Chippewa	chlamydia_rate	135
+26035	Michigan	Clare	chlamydia_rate	168
+26037	Michigan	Clinton	chlamydia_rate	166
+26039	Michigan	Crawford	chlamydia_rate	242
+26041	Michigan	Delta	chlamydia_rate	186
+26043	Michigan	Dickinson	chlamydia_rate	153
+26045	Michigan	Eaton	chlamydia_rate	331
+26047	Michigan	Emmet	chlamydia_rate	190
+26049	Michigan	Genesee	chlamydia_rate	666
+26051	Michigan	Gladwin	chlamydia_rate	144
+26053	Michigan	Gogebic	chlamydia_rate	201
+26055	Michigan	Grand Traverse	chlamydia_rate	262
+26057	Michigan	Gratiot	chlamydia_rate	137
+26059	Michigan	Hillsdale	chlamydia_rate	146
+26061	Michigan	Houghton	chlamydia_rate	82
+26063	Michigan	Huron	chlamydia_rate	151
+26065	Michigan	Ingham	chlamydia_rate	752
+26067	Michigan	Ionia	chlamydia_rate	150
+26069	Michigan	Iosco	chlamydia_rate	73
+26071	Michigan	Iron	chlamydia_rate	119
+26073	Michigan	Isabella	chlamydia_rate	283
+26075	Michigan	Jackson	chlamydia_rate	408
+26077	Michigan	Kalamazoo	chlamydia_rate	696
+26079	Michigan	Kalkaska	chlamydia_rate	210
+26081	Michigan	Kent	chlamydia_rate	535
+26083	Michigan	Keweenaw	chlamydia_rate	557
+26085	Michigan	Lake	chlamydia_rate	173
+26087	Michigan	Lapeer	chlamydia_rate	104
+26089	Michigan	Leelanau	chlamydia_rate	124
+26091	Michigan	Lenawee	chlamydia_rate	227
+26093	Michigan	Livingston	chlamydia_rate	148
+26095	Michigan	Luce	chlamydia_rate	15
+26097	Michigan	Mackinac	chlamydia_rate	72
+26099	Michigan	Macomb	chlamydia_rate	254
+26101	Michigan	Manistee	chlamydia_rate	93
+26103	Michigan	Marquette	chlamydia_rate	171
+26105	Michigan	Mason	chlamydia_rate	101
+26107	Michigan	Mecosta	chlamydia_rate	276
+26109	Michigan	Menominee	chlamydia_rate	167
+26111	Michigan	Midland	chlamydia_rate	216
+26113	Michigan	Missaukee	chlamydia_rate	115
+26115	Michigan	Monroe	chlamydia_rate	206
+26117	Michigan	Montcalm	chlamydia_rate	202
+26119	Michigan	Montmorency	chlamydia_rate	41
+26121	Michigan	Muskegon	chlamydia_rate	725
+26123	Michigan	Newaygo	chlamydia_rate	192
+26125	Michigan	Oakland	chlamydia_rate	305
+26127	Michigan	Oceana	chlamydia_rate	218
+26129	Michigan	Ogemaw	chlamydia_rate	83
+26131	Michigan	Ontonagon	chlamydia_rate	59
+26133	Michigan	Osceola	chlamydia_rate	106
+26135	Michigan	Oscoda	chlamydia_rate	58
+26137	Michigan	Otsego	chlamydia_rate	120
+26139	Michigan	Ottawa	chlamydia_rate	187
+26141	Michigan	Presque Isle	chlamydia_rate	30
+26143	Michigan	Roscommon	chlamydia_rate	102
+26145	Michigan	Saginaw	chlamydia_rate	778
+26147	Michigan	St. Clair	chlamydia_rate	269
+26149	Michigan	St. Joseph	chlamydia_rate	193
+26151	Michigan	Sanilac	chlamydia_rate	88
+26153	Michigan	Schoolcraft	chlamydia_rate	71
+26155	Michigan	Shiawassee	chlamydia_rate	201
+26157	Michigan	Tuscola	chlamydia_rate	147
+26159	Michigan	Van Buren	chlamydia_rate	273
+26161	Michigan	Washtenaw	chlamydia_rate	400
+26163	Michigan	Wayne	chlamydia_rate	1162
+26165	Michigan	Wexford	chlamydia_rate	205
+27001	Minnesota	Aitkin	chlamydia_rate	56
+27003	Minnesota	Anoka	chlamydia_rate	275
+27005	Minnesota	Becker	chlamydia_rate	92
+27007	Minnesota	Beltrami	chlamydia_rate	322
+27009	Minnesota	Benton	chlamydia_rate	109
+27011	Minnesota	Big Stone	chlamydia_rate	57
+27013	Minnesota	Blue Earth	chlamydia_rate	380
+27015	Minnesota	Brown	chlamydia_rate	139
+27017	Minnesota	Carlton	chlamydia_rate	161
+27019	Minnesota	Carver	chlamydia_rate	96
+27021	Minnesota	Cass	chlamydia_rate	259
+27023	Minnesota	Chippewa	chlamydia_rate	121
+27025	Minnesota	Chisago	chlamydia_rate	176
+27027	Minnesota	Clay	chlamydia_rate	222
+27029	Minnesota	Clearwater	chlamydia_rate	58
+27031	Minnesota	Cook	chlamydia_rate	135
+27033	Minnesota	Cottonwood	chlamydia_rate	128
+27035	Minnesota	Crow Wing	chlamydia_rate	181
+27037	Minnesota	Dakota	chlamydia_rate	238
+27039	Minnesota	Dodge	chlamydia_rate	174
+27041	Minnesota	Douglas	chlamydia_rate	100
+27043	Minnesota	Faribault	chlamydia_rate	89
+27045	Minnesota	Fillmore	chlamydia_rate	182
+27047	Minnesota	Freeborn	chlamydia_rate	294
+27049	Minnesota	Goodhue	chlamydia_rate	195
+27051	Minnesota	Grant	chlamydia_rate	133
+27053	Minnesota	Hennepin	chlamydia_rate	455
+27055	Minnesota	Houston	chlamydia_rate	116
+27057	Minnesota	Hubbard	chlamydia_rate	73
+27059	Minnesota	Isanti	chlamydia_rate	106
+27061	Minnesota	Itasca	chlamydia_rate	120
+27063	Minnesota	Jackson	chlamydia_rate	49
+27065	Minnesota	Kanabec	chlamydia_rate	136
+27067	Minnesota	Kandiyohi	chlamydia_rate	220
+27069	Minnesota	Kittson	chlamydia_rate	44
+27071	Minnesota	Koochiching	chlamydia_rate	98
+27073	Minnesota	Lac qui Parle	chlamydia_rate	28
+27075	Minnesota	Lake	chlamydia_rate	110
+27077	Minnesota	Lake of the Woods	chlamydia_rate	148
+27079	Minnesota	Le Sueur	chlamydia_rate	137
+27081	Minnesota	Lincoln	chlamydia_rate	34
+27083	Minnesota	Lyon	chlamydia_rate	166
+27085	Minnesota	McLeod	chlamydia_rate	142
+27087	Minnesota	Mahnomen	chlamydia_rate	166
+27089	Minnesota	Marshall	chlamydia_rate	74
+27091	Minnesota	Martin	chlamydia_rate	96
+27093	Minnesota	Meeker	chlamydia_rate	107
+27095	Minnesota	Mille Lacs	chlamydia_rate	199
+27097	Minnesota	Morrison	chlamydia_rate	105
+27099	Minnesota	Mower	chlamydia_rate	260
+27101	Minnesota	Murray	chlamydia_rate	34
+27103	Minnesota	Nicollet	chlamydia_rate	107
+27105	Minnesota	Nobles	chlamydia_rate	211
+27107	Minnesota	Norman	chlamydia_rate	44
+27109	Minnesota	Olmsted	chlamydia_rate	302
+27111	Minnesota	Otter Tail	chlamydia_rate	89
+27113	Minnesota	Pennington	chlamydia_rate	108
+27115	Minnesota	Pine	chlamydia_rate	124
+27117	Minnesota	Pipestone	chlamydia_rate	42
+27119	Minnesota	Polk	chlamydia_rate	127
+27121	Minnesota	Pope	chlamydia_rate	73
+27123	Minnesota	Ramsey	chlamydia_rate	488
+27125	Minnesota	Red Lake	chlamydia_rate	98
+27127	Minnesota	Redwood	chlamydia_rate	75
+27129	Minnesota	Renville	chlamydia_rate	203
+27131	Minnesota	Rice	chlamydia_rate	134
+27133	Minnesota	Rock	chlamydia_rate	93
+27135	Minnesota	Roseau	chlamydia_rate	147
+27137	Minnesota	St. Louis	chlamydia_rate	250
+27139	Minnesota	Scott	chlamydia_rate	158
+27141	Minnesota	Sherburne	chlamydia_rate	127
+27143	Minnesota	Sibley	chlamydia_rate	99
+27145	Minnesota	Stearns	chlamydia_rate	244
+27147	Minnesota	Steele	chlamydia_rate	194
+27149	Minnesota	Stevens	chlamydia_rate	103
+27151	Minnesota	Swift	chlamydia_rate	102
+27153	Minnesota	Todd	chlamydia_rate	76
+27155	Minnesota	Traverse	chlamydia_rate	84
+27157	Minnesota	Wabasha	chlamydia_rate	240
+27159	Minnesota	Wadena	chlamydia_rate	36
+27161	Minnesota	Waseca	chlamydia_rate	141
+27163	Minnesota	Washington	chlamydia_rate	164
+27165	Minnesota	Watonwan	chlamydia_rate	196
+27167	Minnesota	Wilkin	chlamydia_rate	61
+27169	Minnesota	Winona	chlamydia_rate	210
+27171	Minnesota	Wright	chlamydia_rate	148
+27173	Minnesota	Yellow Medicine	chlamydia_rate	115
+28001	Mississippi	Adams	chlamydia_rate	910
+28003	Mississippi	Alcorn	chlamydia_rate	286
+28005	Mississippi	Amite	chlamydia_rate	518
+28007	Mississippi	Attala	chlamydia_rate	578
+28009	Mississippi	Benton	chlamydia_rate	264
+28011	Mississippi	Bolivar	chlamydia_rate	1412
+28013	Mississippi	Calhoun	chlamydia_rate	648
+28015	Mississippi	Carroll	chlamydia_rate	387
+28017	Mississippi	Chickasaw	chlamydia_rate	949
+28019	Mississippi	Choctaw	chlamydia_rate	410
+28021	Mississippi	Claiborne	chlamydia_rate	1187
+28023	Mississippi	Clarke	chlamydia_rate	669
+28025	Mississippi	Clay	chlamydia_rate	819
+28027	Mississippi	Coahoma	chlamydia_rate	1839
+28029	Mississippi	Copiah	chlamydia_rate	1172
+28031	Mississippi	Covington	chlamydia_rate	680
+28033	Mississippi	DeSoto	chlamydia_rate	465
+28035	Mississippi	Forrest	chlamydia_rate	1137
+28037	Mississippi	Franklin	chlamydia_rate	727
+28039	Mississippi	George	chlamydia_rate	377
+28041	Mississippi	Greene	chlamydia_rate	299
+28043	Mississippi	Grenada	chlamydia_rate	877
+28045	Mississippi	Hancock	chlamydia_rate	244
+28047	Mississippi	Harrison	chlamydia_rate	586
+28049	Mississippi	Hinds	chlamydia_rate	1188
+28051	Mississippi	Holmes	chlamydia_rate	1604
+28053	Mississippi	Humphreys	chlamydia_rate	1600
+28055	Mississippi	Issaquena	chlamydia_rate	782
+28057	Mississippi	Itawamba	chlamydia_rate	342
+28059	Mississippi	Jackson	chlamydia_rate	395
+28061	Mississippi	Jasper	chlamydia_rate	844
+28063	Mississippi	Jefferson	chlamydia_rate	1527
+28065	Mississippi	Jefferson Davis	chlamydia_rate	1033
+28067	Mississippi	Jones	chlamydia_rate	608
+28069	Mississippi	Kemper	chlamydia_rate	622
+28071	Mississippi	Lafayette	chlamydia_rate	435
+28073	Mississippi	Lamar	chlamydia_rate	167
+28075	Mississippi	Lauderdale	chlamydia_rate	807
+28077	Mississippi	Lawrence	chlamydia_rate	828
+28079	Mississippi	Leake	chlamydia_rate	1063
+28081	Mississippi	Lee	chlamydia_rate	790
+28083	Mississippi	Leflore	chlamydia_rate	1188
+28085	Mississippi	Lincoln	chlamydia_rate	740
+28087	Mississippi	Lowndes	chlamydia_rate	684
+28089	Mississippi	Madison	chlamydia_rate	549
+28091	Mississippi	Marion	chlamydia_rate	613
+28093	Mississippi	Marshall	chlamydia_rate	810
+28095	Mississippi	Monroe	chlamydia_rate	538
+28097	Mississippi	Montgomery	chlamydia_rate	778
+28099	Mississippi	Neshoba	chlamydia_rate	832
+28101	Mississippi	Newton	chlamydia_rate	893
+28103	Mississippi	Noxubee	chlamydia_rate	1109
+28105	Mississippi	Oktibbeha	chlamydia_rate	694
+28107	Mississippi	Panola	chlamydia_rate	913
+28109	Mississippi	Pearl River	chlamydia_rate	256
+28111	Mississippi	Perry	chlamydia_rate	498
+28113	Mississippi	Pike	chlamydia_rate	876
+28115	Mississippi	Pontotoc	chlamydia_rate	267
+28117	Mississippi	Prentiss	chlamydia_rate	285
+28119	Mississippi	Quitman	chlamydia_rate	1143
+28121	Mississippi	Rankin	chlamydia_rate	295
+28123	Mississippi	Scott	chlamydia_rate	1008
+28125	Mississippi	Sharkey	chlamydia_rate	875
+28127	Mississippi	Simpson	chlamydia_rate	709
+28129	Mississippi	Smith	chlamydia_rate	479
+28131	Mississippi	Stone	chlamydia_rate	444
+28133	Mississippi	Sunflower	chlamydia_rate	1402
+28135	Mississippi	Tallahatchie	chlamydia_rate	1223
+28137	Mississippi	Tate	chlamydia_rate	620
+28139	Mississippi	Tippah	chlamydia_rate	346
+28141	Mississippi	Tishomingo	chlamydia_rate	168
+28143	Mississippi	Tunica	chlamydia_rate	1494
+28145	Mississippi	Union	chlamydia_rate	354
+28147	Mississippi	Walthall	chlamydia_rate	414
+28149	Mississippi	Warren	chlamydia_rate	818
+28151	Mississippi	Washington	chlamydia_rate	1502
+28153	Mississippi	Wayne	chlamydia_rate	506
+28155	Mississippi	Webster	chlamydia_rate	371
+28157	Mississippi	Wilkinson	chlamydia_rate	749
+28159	Mississippi	Winston	chlamydia_rate	703
+28161	Mississippi	Yalobusha	chlamydia_rate	781
+28163	Mississippi	Yazoo	chlamydia_rate	1197
+29001	Missouri	Adair	chlamydia_rate	246
+29003	Missouri	Andrew	chlamydia_rate	185
+29005	Missouri	Atchison	chlamydia_rate	18
+29007	Missouri	Audrain	chlamydia_rate	353
+29009	Missouri	Barry	chlamydia_rate	155
+29011	Missouri	Barton	chlamydia_rate	129
+29013	Missouri	Bates	chlamydia_rate	111
+29015	Missouri	Benton	chlamydia_rate	115
+29017	Missouri	Bollinger	chlamydia_rate	178
+29019	Missouri	Boone	chlamydia_rate	598
+29021	Missouri	Buchanan	chlamydia_rate	419
+29023	Missouri	Butler	chlamydia_rate	318
+29025	Missouri	Caldwell	chlamydia_rate	191
+29027	Missouri	Callaway	chlamydia_rate	275
+29029	Missouri	Camden	chlamydia_rate	157
+29031	Missouri	Cape Girardeau	chlamydia_rate	568
+29033	Missouri	Carroll	chlamydia_rate	172
+29035	Missouri	Carter	chlamydia_rate	80
+29037	Missouri	Cass	chlamydia_rate	273
+29039	Missouri	Cedar	chlamydia_rate	122
+29041	Missouri	Chariton	chlamydia_rate	141
+29043	Missouri	Christian	chlamydia_rate	178
+29045	Missouri	Clark	chlamydia_rate	70
+29047	Missouri	Clay	chlamydia_rate	310
+29049	Missouri	Clinton	chlamydia_rate	289
+29051	Missouri	Cole	chlamydia_rate	465
+29053	Missouri	Cooper	chlamydia_rate	199
+29055	Missouri	Crawford	chlamydia_rate	158
+29057	Missouri	Dade	chlamydia_rate	76
+29059	Missouri	Dallas	chlamydia_rate	131
+29061	Missouri	Daviess	chlamydia_rate	178
+29063	Missouri	DeKalb	chlamydia_rate	116
+29065	Missouri	Dent	chlamydia_rate	58
+29067	Missouri	Douglas	chlamydia_rate	154
+29069	Missouri	Dunklin	chlamydia_rate	294
+29071	Missouri	Franklin	chlamydia_rate	158
+29073	Missouri	Gasconade	chlamydia_rate	131
+29075	Missouri	Gentry	chlamydia_rate	89
+29077	Missouri	Greene	chlamydia_rate	337
+29079	Missouri	Grundy	chlamydia_rate	224
+29081	Missouri	Harrison	chlamydia_rate	212
+29083	Missouri	Henry	chlamydia_rate	180
+29085	Missouri	Hickory	chlamydia_rate	94
+29087	Missouri	Holt	chlamydia_rate	143
+29089	Missouri	Howard	chlamydia_rate	345
+29091	Missouri	Howell	chlamydia_rate	243
+29093	Missouri	Iron	chlamydia_rate	151
+29095	Missouri	Jackson	chlamydia_rate	817
+29097	Missouri	Jasper	chlamydia_rate	474
+29099	Missouri	Jefferson	chlamydia_rate	154
+29101	Missouri	Johnson	chlamydia_rate	426
+29103	Missouri	Knox	chlamydia_rate	73
+29105	Missouri	Laclede	chlamydia_rate	290
+29107	Missouri	Lafayette	chlamydia_rate	234
+29109	Missouri	Lawrence	chlamydia_rate	197
+29111	Missouri	Lewis	chlamydia_rate	186
+29113	Missouri	Lincoln	chlamydia_rate	200
+29115	Missouri	Linn	chlamydia_rate	180
+29117	Missouri	Livingston	chlamydia_rate	244
+29119	Missouri	McDonald	chlamydia_rate	173
+29121	Missouri	Macon	chlamydia_rate	167
+29123	Missouri	Madison	chlamydia_rate	139
+29125	Missouri	Maries	chlamydia_rate	109
+29127	Missouri	Marion	chlamydia_rate	414
+29129	Missouri	Mercer	chlamydia_rate	238
+29131	Missouri	Miller	chlamydia_rate	170
+29133	Missouri	Mississippi	chlamydia_rate	348
+29135	Missouri	Moniteau	chlamydia_rate	205
+29137	Missouri	Monroe	chlamydia_rate	260
+29139	Missouri	Montgomery	chlamydia_rate	90
+29141	Missouri	Morgan	chlamydia_rate	175
+29143	Missouri	New Madrid	chlamydia_rate	459
+29145	Missouri	Newton	chlamydia_rate	313
+29147	Missouri	Nodaway	chlamydia_rate	338
+29149	Missouri	Oregon	chlamydia_rate	92
+29151	Missouri	Osage	chlamydia_rate	101
+29153	Missouri	Ozark	chlamydia_rate	72
+29155	Missouri	Pemiscot	chlamydia_rate	722
+29157	Missouri	Perry	chlamydia_rate	163
+29159	Missouri	Pettis	chlamydia_rate	329
+29161	Missouri	Phelps	chlamydia_rate	248
+29163	Missouri	Pike	chlamydia_rate	162
+29165	Missouri	Platte	chlamydia_rate	311
+29167	Missouri	Polk	chlamydia_rate	218
+29169	Missouri	Pulaski	chlamydia_rate	735
+29171	Missouri	Putnam	chlamydia_rate	161
+29173	Missouri	Ralls	chlamydia_rate	226
+29175	Missouri	Randolph	chlamydia_rate	291
+29177	Missouri	Ray	chlamydia_rate	255
+29179	Missouri	Reynolds	chlamydia_rate	60
+29181	Missouri	Ripley	chlamydia_rate	135
+29183	Missouri	St. Charles	chlamydia_rate	196
+29185	Missouri	St. Clair	chlamydia_rate	92
+29186	Missouri	Ste. Genevieve	chlamydia_rate	83
+29187	Missouri	St. Francois	chlamydia_rate	233
+29189	Missouri	St. Louis	chlamydia_rate	524
+29195	Missouri	Saline	chlamydia_rate	278
+29197	Missouri	Schuyler	chlamydia_rate	45
+29199	Missouri	Scotland	chlamydia_rate	165
+29201	Missouri	Scott	chlamydia_rate	
+29203	Missouri	Shannon	chlamydia_rate	107
+29205	Missouri	Shelby	chlamydia_rate	157
+29207	Missouri	Stoddard	chlamydia_rate	147
+29209	Missouri	Stone	chlamydia_rate	93
+29211	Missouri	Sullivan	chlamydia_rate	194
+29213	Missouri	Taney	chlamydia_rate	228
+29215	Missouri	Texas	chlamydia_rate	215
+29217	Missouri	Vernon	chlamydia_rate	199
+29219	Missouri	Warren	chlamydia_rate	175
+29221	Missouri	Washington	chlamydia_rate	123
+29223	Missouri	Wayne	chlamydia_rate	44
+29225	Missouri	Webster	chlamydia_rate	146
+29227	Missouri	Worth	chlamydia_rate	138
+29229	Missouri	Wright	chlamydia_rate	165
+29510	Missouri	St. Louis City	chlamydia_rate	1412
+30001	Montana	Beaverhead	chlamydia_rate	292
+30003	Montana	Big Horn	chlamydia_rate	536
+30005	Montana	Blaine	chlamydia_rate	555
+30007	Montana	Broadwater	chlamydia_rate	54
+30009	Montana	Carbon	chlamydia_rate	50
+30011	Montana	Carter	chlamydia_rate	259
+30013	Montana	Cascade	chlamydia_rate	446
+30015	Montana	Chouteau	chlamydia_rate	103
+30017	Montana	Custer	chlamydia_rate	308
+30019	Montana	Daniels	chlamydia_rate	0
+30021	Montana	Dawson	chlamydia_rate	167
+30023	Montana	Deer Lodge	chlamydia_rate	129
+30025	Montana	Fallon	chlamydia_rate	69
+30027	Montana	Fergus	chlamydia_rate	164
+30029	Montana	Flathead	chlamydia_rate	254
+30031	Montana	Gallatin	chlamydia_rate	258
+30033	Montana	Garfield	chlamydia_rate	0
+30035	Montana	Glacier	chlamydia_rate	866
+30037	Montana	Golden Valley	chlamydia_rate	339
+30039	Montana	Granite	chlamydia_rate	0
+30041	Montana	Hill	chlamydia_rate	1162
+30043	Montana	Jefferson	chlamydia_rate	123
+30045	Montana	Judith Basin	chlamydia_rate	0
+30047	Montana	Lake	chlamydia_rate	466
+30049	Montana	Lewis and Clark	chlamydia_rate	227
+30051	Montana	Liberty	chlamydia_rate	86
+30053	Montana	Lincoln	chlamydia_rate	173
+30055	Montana	McCone	chlamydia_rate	58
+30057	Montana	Madison	chlamydia_rate	65
+30059	Montana	Meagher	chlamydia_rate	106
+30061	Montana	Mineral	chlamydia_rate	71
+30063	Montana	Missoula	chlamydia_rate	355
+30065	Montana	Musselshell	chlamydia_rate	198
+30067	Montana	Park	chlamydia_rate	141
+30069	Montana	Petroleum	chlamydia_rate	0
+30071	Montana	Phillips	chlamydia_rate	71
+30073	Montana	Pondera	chlamydia_rate	65
+30075	Montana	Powder River	chlamydia_rate	0
+30077	Montana	Powell	chlamydia_rate	100
+30079	Montana	Prairie	chlamydia_rate	0
+30081	Montana	Ravalli	chlamydia_rate	159
+30083	Montana	Richland	chlamydia_rate	287
+30085	Montana	Roosevelt	chlamydia_rate	1468
+30087	Montana	Rosebud	chlamydia_rate	747
+30089	Montana	Sanders	chlamydia_rate	123
+30091	Montana	Sheridan	chlamydia_rate	89
+30093	Montana	Silver Bow	chlamydia_rate	275
+30095	Montana	Stillwater	chlamydia_rate	154
+30097	Montana	Sweet Grass	chlamydia_rate	274
+30099	Montana	Teton	chlamydia_rate	115
+30101	Montana	Toole	chlamydia_rate	263
+30103	Montana	Treasure	chlamydia_rate	0
+30105	Montana	Valley	chlamydia_rate	81
+30107	Montana	Wheatland	chlamydia_rate	138
+30109	Montana	Wibaux	chlamydia_rate	0
+30111	Montana	Yellowstone	chlamydia_rate	316
+31001	Nebraska	Adams	chlamydia_rate	86
+31003	Nebraska	Antelope	chlamydia_rate	30
+31005	Nebraska	Arthur	chlamydia_rate	0
+31007	Nebraska	Banner	chlamydia_rate	0
+31009	Nebraska	Blaine	chlamydia_rate	0
+31011	Nebraska	Boone	chlamydia_rate	18
+31013	Nebraska	Box Butte	chlamydia_rate	71
+31015	Nebraska	Boyd	chlamydia_rate	48
+31017	Nebraska	Brown	chlamydia_rate	0
+31019	Nebraska	Buffalo	chlamydia_rate	269
+31021	Nebraska	Burt	chlamydia_rate	73
+31023	Nebraska	Butler	chlamydia_rate	36
+31025	Nebraska	Cass	chlamydia_rate	79
+31027	Nebraska	Cedar	chlamydia_rate	34
+31029	Nebraska	Chase	chlamydia_rate	0
+31031	Nebraska	Cherry	chlamydia_rate	53
+31033	Nebraska	Cheyenne	chlamydia_rate	40
+31035	Nebraska	Clay	chlamydia_rate	15
+31037	Nebraska	Colfax	chlamydia_rate	181
+31039	Nebraska	Cuming	chlamydia_rate	88
+31041	Nebraska	Custer	chlamydia_rate	27
+31043	Nebraska	Dakota	chlamydia_rate	138
+31045	Nebraska	Dawes	chlamydia_rate	109
+31047	Nebraska	Dawson	chlamydia_rate	107
+31049	Nebraska	Deuel	chlamydia_rate	0
+31051	Nebraska	Dixon	chlamydia_rate	33
+31053	Nebraska	Dodge	chlamydia_rate	232
+31055	Nebraska	Douglas	chlamydia_rate	528
+31057	Nebraska	Dundy	chlamydia_rate	0
+31059	Nebraska	Fillmore	chlamydia_rate	255
+31061	Nebraska	Franklin	chlamydia_rate	93
+31063	Nebraska	Frontier	chlamydia_rate	36
+31065	Nebraska	Furnas	chlamydia_rate	20
+31067	Nebraska	Gage	chlamydia_rate	45
+31069	Nebraska	Garden	chlamydia_rate	97
+31071	Nebraska	Garfield	chlamydia_rate	0
+31073	Nebraska	Gosper	chlamydia_rate	98
+31075	Nebraska	Grant	chlamydia_rate	0
+31077	Nebraska	Greeley	chlamydia_rate	0
+31079	Nebraska	Hall	chlamydia_rate	208
+31081	Nebraska	Hamilton	chlamydia_rate	55
+31083	Nebraska	Harlan	chlamydia_rate	0
+31085	Nebraska	Hayes	chlamydia_rate	0
+31087	Nebraska	Hitchcock	chlamydia_rate	0
+31089	Nebraska	Holt	chlamydia_rate	10
+31091	Nebraska	Hooker	chlamydia_rate	0
+31093	Nebraska	Howard	chlamydia_rate	112
+31095	Nebraska	Jefferson	chlamydia_rate	
+31097	Nebraska	Johnson	chlamydia_rate	134
+31099	Nebraska	Kearney	chlamydia_rate	15
+31101	Nebraska	Keith	chlamydia_rate	36
+31103	Nebraska	Keya Paha	chlamydia_rate	0
+31105	Nebraska	Kimball	chlamydia_rate	52
+31107	Nebraska	Knox	chlamydia_rate	35
+31109	Nebraska	Lancaster	chlamydia_rate	335
+31111	Nebraska	Lincoln	chlamydia_rate	124
+31113	Nebraska	Logan	chlamydia_rate	131
+31115	Nebraska	Loup	chlamydia_rate	0
+31117	Nebraska	McPherson	chlamydia_rate	0
+31119	Nebraska	Madison	chlamydia_rate	155
+31121	Nebraska	Merrick	chlamydia_rate	64
+31123	Nebraska	Morrill	chlamydia_rate	60
+31125	Nebraska	Nance	chlamydia_rate	54
+31127	Nebraska	Nemaha	chlamydia_rate	97
+31129	Nebraska	Nuckolls	chlamydia_rate	133
+31131	Nebraska	Otoe	chlamydia_rate	184
+31133	Nebraska	Pawnee	chlamydia_rate	72
+31135	Nebraska	Perkins	chlamydia_rate	0
+31137	Nebraska	Phelps	chlamydia_rate	22
+31139	Nebraska	Pierce	chlamydia_rate	41
+31141	Nebraska	Platte	chlamydia_rate	149
+31143	Nebraska	Polk	chlamydia_rate	37
+31145	Nebraska	Red Willow	chlamydia_rate	36
+31147	Nebraska	Richardson	chlamydia_rate	167
+31149	Nebraska	Rock	chlamydia_rate	0
+31151	Nebraska	Saline	chlamydia_rate	70
+31153	Nebraska	Sarpy	chlamydia_rate	272
+31155	Nebraska	Saunders	chlamydia_rate	67
+31157	Nebraska	Scotts Bluff	chlamydia_rate	208
+31159	Nebraska	Seward	chlamydia_rate	6
+31161	Nebraska	Sheridan	chlamydia_rate	128
+31163	Nebraska	Sherman	chlamydia_rate	64
+31165	Nebraska	Sioux	chlamydia_rate	0
+31167	Nebraska	Stanton	chlamydia_rate	16
+31169	Nebraska	Thayer	chlamydia_rate	38
+31171	Nebraska	Thomas	chlamydia_rate	0
+31173	Nebraska	Thurston	chlamydia_rate	216
+31175	Nebraska	Valley	chlamydia_rate	188
+31177	Nebraska	Washington	chlamydia_rate	163
+31179	Nebraska	Wayne	chlamydia_rate	177
+31181	Nebraska	Webster	chlamydia_rate	53
+31183	Nebraska	Wheeler	chlamydia_rate	0
+31185	Nebraska	York	chlamydia_rate	66
+32001	Nevada	Churchill	chlamydia_rate	249
+32003	Nevada	Clark	chlamydia_rate	390
+32005	Nevada	Douglas	chlamydia_rate	136
+32007	Nevada	Elko	chlamydia_rate	213
+32009	Nevada	Esmeralda	chlamydia_rate	0
+32011	Nevada	Eureka	chlamydia_rate	50
+32013	Nevada	Humboldt	chlamydia_rate	218
+32015	Nevada	Lander	chlamydia_rate	139
+32017	Nevada	Lincoln	chlamydia_rate	19
+32019	Nevada	Lyon	chlamydia_rate	150
+32021	Nevada	Mineral	chlamydia_rate	189
+32023	Nevada	Nye	chlamydia_rate	130
+32027	Nevada	Pershing	chlamydia_rate	74
+32029	Nevada	Storey	chlamydia_rate	25
+32031	Nevada	Washoe	chlamydia_rate	339
+32033	Nevada	White Pine	chlamydia_rate	170
+32510	Nevada	Carson City	chlamydia_rate	326
+33001	New Hampshire	Belknap	chlamydia_rate	138
+33003	New Hampshire	Carroll	chlamydia_rate	144
+33005	New Hampshire	Cheshire	chlamydia_rate	200
+33007	New Hampshire	Coos	chlamydia_rate	109
+33009	New Hampshire	Grafton	chlamydia_rate	176
+33011	New Hampshire	Hillsborough	chlamydia_rate	222
+33013	New Hampshire	Merrimack	chlamydia_rate	185
+33015	New Hampshire	Rockingham	chlamydia_rate	132
+33017	New Hampshire	Strafford	chlamydia_rate	261
+33019	New Hampshire	Sullivan	chlamydia_rate	208
+34001	New Jersey	Atlantic	chlamydia_rate	491
+34003	New Jersey	Bergen	chlamydia_rate	116
+34005	New Jersey	Burlington	chlamydia_rate	290
+34007	New Jersey	Camden	chlamydia_rate	578
+34009	New Jersey	Cape May	chlamydia_rate	224
+34011	New Jersey	Cumberland	chlamydia_rate	479
+34013	New Jersey	Essex	chlamydia_rate	681
+34015	New Jersey	Gloucester	chlamydia_rate	200
+34017	New Jersey	Hudson	chlamydia_rate	352
+34019	New Jersey	Hunterdon	chlamydia_rate	94
+34021	New Jersey	Mercer	chlamydia_rate	401
+34023	New Jersey	Middlesex	chlamydia_rate	214
+34025	New Jersey	Monmouth	chlamydia_rate	172
+34027	New Jersey	Morris	chlamydia_rate	104
+34029	New Jersey	Ocean	chlamydia_rate	132
+34031	New Jersey	Passaic	chlamydia_rate	381
+34033	New Jersey	Salem	chlamydia_rate	310
+34035	New Jersey	Somerset	chlamydia_rate	153
+34037	New Jersey	Sussex	chlamydia_rate	89
+34039	New Jersey	Union	chlamydia_rate	338
+34041	New Jersey	Warren	chlamydia_rate	121
+35001	New Mexico	Bernalillo	chlamydia_rate	681
+35003	New Mexico	Catron	chlamydia_rate	81
+35005	New Mexico	Chaves	chlamydia_rate	480
+35006	New Mexico	Cibola	chlamydia_rate	786
+35007	New Mexico	Colfax	chlamydia_rate	306
+35009	New Mexico	Curry	chlamydia_rate	680
+35011	New Mexico	De Baca	chlamydia_rate	148
+35013	New Mexico	Dona Ana	chlamydia_rate	575
+35015	New Mexico	Eddy	chlamydia_rate	370
+35017	New Mexico	Grant	chlamydia_rate	464
+35019	New Mexico	Guadalupe	chlamydia_rate	683
+35021	New Mexico	Harding	chlamydia_rate	288
+35023	New Mexico	Hidalgo	chlamydia_rate	347
+35025	New Mexico	Lea	chlamydia_rate	542
+35027	New Mexico	Lincoln	chlamydia_rate	215
+35028	New Mexico	Los Alamos	chlamydia_rate	111
+35029	New Mexico	Luna	chlamydia_rate	622
+35031	New Mexico	McKinley	chlamydia_rate	1078
+35033	New Mexico	Mora	chlamydia_rate	451
+35035	New Mexico	Otero	chlamydia_rate	364
+35037	New Mexico	Quay	chlamydia_rate	266
+35039	New Mexico	Rio Arriba	chlamydia_rate	614
+35041	New Mexico	Roosevelt	chlamydia_rate	705
+35043	New Mexico	Sandoval	chlamydia_rate	364
+35045	New Mexico	San Juan	chlamydia_rate	642
+35047	New Mexico	San Miguel	chlamydia_rate	568
+35049	New Mexico	Santa Fe	chlamydia_rate	390
+35051	New Mexico	Sierra	chlamydia_rate	359
+35053	New Mexico	Socorro	chlamydia_rate	297
+35055	New Mexico	Taos	chlamydia_rate	437
+35057	New Mexico	Torrance	chlamydia_rate	366
+35059	New Mexico	Union	chlamydia_rate	198
+35061	New Mexico	Valencia	chlamydia_rate	415
+36001	New York	Albany	chlamydia_rate	464
+36003	New York	Allegany	chlamydia_rate	129
+36005	New York	Bronx	chlamydia_rate	1333
+36007	New York	Broome	chlamydia_rate	289
+36009	New York	Cattaraugus	chlamydia_rate	235
+36011	New York	Cayuga	chlamydia_rate	251
+36013	New York	Chautauqua	chlamydia_rate	314
+36015	New York	Chemung	chlamydia_rate	325
+36017	New York	Chenango	chlamydia_rate	133
+36019	New York	Clinton	chlamydia_rate	229
+36021	New York	Columbia	chlamydia_rate	198
+36023	New York	Cortland	chlamydia_rate	385
+36025	New York	Delaware	chlamydia_rate	138
+36027	New York	Dutchess	chlamydia_rate	257
+36029	New York	Erie	chlamydia_rate	553
+36031	New York	Essex	chlamydia_rate	122
+36033	New York	Franklin	chlamydia_rate	145
+36035	New York	Fulton	chlamydia_rate	222
+36037	New York	Genesee	chlamydia_rate	211
+36039	New York	Greene	chlamydia_rate	222
+36041	New York	Hamilton	chlamydia_rate	62
+36043	New York	Herkimer	chlamydia_rate	214
+36045	New York	Jefferson	chlamydia_rate	512
+36047	New York	Kings	chlamydia_rate	830
+36049	New York	Lewis	chlamydia_rate	133
+36051	New York	Livingston	chlamydia_rate	185
+36053	New York	Madison	chlamydia_rate	166
+36055	New York	Monroe	chlamydia_rate	772
+36057	New York	Montgomery	chlamydia_rate	223
+36059	New York	Nassau	chlamydia_rate	213
+36061	New York	New York	chlamydia_rate	714
+36063	New York	Niagara	chlamydia_rate	396
+36065	New York	Oneida	chlamydia_rate	285
+36067	New York	Onondaga	chlamydia_rate	509
+36069	New York	Ontario	chlamydia_rate	208
+36071	New York	Orange	chlamydia_rate	267
+36073	New York	Orleans	chlamydia_rate	464
+36075	New York	Oswego	chlamydia_rate	151
+36077	New York	Otsego	chlamydia_rate	257
+36079	New York	Putnam	chlamydia_rate	105
+36081	New York	Queens	chlamydia_rate	523
+36083	New York	Rensselaer	chlamydia_rate	320
+36085	New York	Richmond	chlamydia_rate	297
+36087	New York	Rockland	chlamydia_rate	190
+36089	New York	St. Lawrence	chlamydia_rate	209
+36091	New York	Saratoga	chlamydia_rate	149
+36093	New York	Schenectady	chlamydia_rate	424
+36095	New York	Schoharie	chlamydia_rate	134
+36097	New York	Schuyler	chlamydia_rate	115
+36099	New York	Seneca	chlamydia_rate	218
+36101	New York	Steuben	chlamydia_rate	208
+36103	New York	Suffolk	chlamydia_rate	227
+36105	New York	Sullivan	chlamydia_rate	343
+36107	New York	Tioga	chlamydia_rate	147
+36109	New York	Tompkins	chlamydia_rate	262
+36111	New York	Ulster	chlamydia_rate	210
+36113	New York	Warren	chlamydia_rate	247
+36115	New York	Washington	chlamydia_rate	259
+36117	New York	Wayne	chlamydia_rate	306
+36119	New York	Westchester	chlamydia_rate	307
+36121	New York	Wyoming	chlamydia_rate	145
+36123	New York	Yates	chlamydia_rate	185
+37001	North Carolina	Alamance	chlamydia_rate	409
+37003	North Carolina	Alexander	chlamydia_rate	177
+37005	North Carolina	Alleghany	chlamydia_rate	54
+37007	North Carolina	Anson	chlamydia_rate	623
+37009	North Carolina	Ashe	chlamydia_rate	77
+37011	North Carolina	Avery	chlamydia_rate	163
+37013	North Carolina	Beaufort	chlamydia_rate	438
+37015	North Carolina	Bertie	chlamydia_rate	747
+37017	North Carolina	Bladen	chlamydia_rate	551
+37019	North Carolina	Brunswick	chlamydia_rate	225
+37021	North Carolina	Buncombe	chlamydia_rate	300
+37023	North Carolina	Burke	chlamydia_rate	276
+37025	North Carolina	Cabarrus	chlamydia_rate	329
+37027	North Carolina	Caldwell	chlamydia_rate	204
+37029	North Carolina	Camden	chlamydia_rate	90
+37031	North Carolina	Carteret	chlamydia_rate	310
+37033	North Carolina	Caswell	chlamydia_rate	363
+37035	North Carolina	Catawba	chlamydia_rate	376
+37037	North Carolina	Chatham	chlamydia_rate	222
+37039	North Carolina	Cherokee	chlamydia_rate	128
+37041	North Carolina	Chowan	chlamydia_rate	581
+37043	North Carolina	Clay	chlamydia_rate	47
+37045	North Carolina	Cleveland	chlamydia_rate	415
+37047	North Carolina	Columbus	chlamydia_rate	331
+37049	North Carolina	Craven	chlamydia_rate	556
+37051	North Carolina	Cumberland	chlamydia_rate	542
+37053	North Carolina	Currituck	chlamydia_rate	166
+37055	North Carolina	Dare	chlamydia_rate	239
+37057	North Carolina	Davidson	chlamydia_rate	271
+37059	North Carolina	Davie	chlamydia_rate	150
+37061	North Carolina	Duplin	chlamydia_rate	349
+37063	North Carolina	Durham	chlamydia_rate	613
+37065	North Carolina	Edgecombe	chlamydia_rate	1144
+37067	North Carolina	Forsyth	chlamydia_rate	711
+37069	North Carolina	Franklin	chlamydia_rate	208
+37071	North Carolina	Gaston	chlamydia_rate	427
+37073	North Carolina	Gates	chlamydia_rate	377
+37075	North Carolina	Graham	chlamydia_rate	79
+37077	North Carolina	Granville	chlamydia_rate	357
+37079	North Carolina	Greene	chlamydia_rate	431
+37081	North Carolina	Guilford	chlamydia_rate	489
+37083	North Carolina	Halifax	chlamydia_rate	636
+37085	North Carolina	Harnett	chlamydia_rate	392
+37087	North Carolina	Haywood	chlamydia_rate	110
+37089	North Carolina	Henderson	chlamydia_rate	156
+37091	North Carolina	Hertford	chlamydia_rate	786
+37093	North Carolina	Hoke	chlamydia_rate	245
+37095	North Carolina	Hyde	chlamydia_rate	241
+37097	North Carolina	Iredell	chlamydia_rate	283
+37099	North Carolina	Jackson	chlamydia_rate	266
+37101	North Carolina	Johnston	chlamydia_rate	281
+37103	North Carolina	Jones	chlamydia_rate	394
+37105	North Carolina	Lee	chlamydia_rate	391
+37107	North Carolina	Lenoir	chlamydia_rate	578
+37109	North Carolina	Lincoln	chlamydia_rate	268
+37111	North Carolina	McDowell	chlamydia_rate	160
+37113	North Carolina	Macon	chlamydia_rate	171
+37115	North Carolina	Madison	chlamydia_rate	92
+37117	North Carolina	Martin	chlamydia_rate	673
+37119	North Carolina	Mecklenburg	chlamydia_rate	503
+37121	North Carolina	Mitchell	chlamydia_rate	83
+37123	North Carolina	Montgomery	chlamydia_rate	331
+37125	North Carolina	Moore	chlamydia_rate	257
+37127	North Carolina	Nash	chlamydia_rate	678
+37129	North Carolina	New Hanover	chlamydia_rate	344
+37131	North Carolina	Northampton	chlamydia_rate	412
+37133	North Carolina	Onslow	chlamydia_rate	639
+37135	North Carolina	Orange	chlamydia_rate	252
+37137	North Carolina	Pamlico	chlamydia_rate	274
+37139	North Carolina	Pasquotank	chlamydia_rate	588
+37141	North Carolina	Pender	chlamydia_rate	205
+37143	North Carolina	Perquimans	chlamydia_rate	297
+37145	North Carolina	Person	chlamydia_rate	317
+37147	North Carolina	Pitt	chlamydia_rate	1047
+37149	North Carolina	Polk	chlamydia_rate	83
+37151	North Carolina	Randolph	chlamydia_rate	253
+37153	North Carolina	Richmond	chlamydia_rate	437
+37155	North Carolina	Robeson	chlamydia_rate	761
+37157	North Carolina	Rockingham	chlamydia_rate	289
+37159	North Carolina	Rowan	chlamydia_rate	400
+37161	North Carolina	Rutherford	chlamydia_rate	282
+37163	North Carolina	Sampson	chlamydia_rate	353
+37165	North Carolina	Scotland	chlamydia_rate	490
+37167	North Carolina	Stanly	chlamydia_rate	535
+37169	North Carolina	Stokes	chlamydia_rate	184
+37171	North Carolina	Surry	chlamydia_rate	181
+37173	North Carolina	Swain	chlamydia_rate	300
+37175	North Carolina	Transylvania	chlamydia_rate	245
+37177	North Carolina	Tyrrell	chlamydia_rate	454
+37179	North Carolina	Union	chlamydia_rate	218
+37181	North Carolina	Vance	chlamydia_rate	872
+37183	North Carolina	Wake	chlamydia_rate	502
+37185	North Carolina	Warren	chlamydia_rate	501
+37187	North Carolina	Washington	chlamydia_rate	552
+37189	North Carolina	Watauga	chlamydia_rate	172
+37191	North Carolina	Wayne	chlamydia_rate	682
+37193	North Carolina	Wilkes	chlamydia_rate	203
+37195	North Carolina	Wilson	chlamydia_rate	1381
+37197	North Carolina	Yadkin	chlamydia_rate	133
+37199	North Carolina	Yancey	chlamydia_rate	152
+38001	North Dakota	Adams	chlamydia_rate	128
+38003	North Dakota	Barnes	chlamydia_rate	190
+38005	North Dakota	Benson	chlamydia_rate	1457
+38007	North Dakota	Billings	chlamydia_rate	128
+38009	North Dakota	Bottineau	chlamydia_rate	78
+38011	North Dakota	Bowman	chlamydia_rate	222
+38013	North Dakota	Burke	chlamydia_rate	305
+38015	North Dakota	Burleigh	chlamydia_rate	367
+38017	North Dakota	Cass	chlamydia_rate	377
+38019	North Dakota	Cavalier	chlamydia_rate	100
+38021	North Dakota	Dickey	chlamydia_rate	57
+38023	North Dakota	Divide	chlamydia_rate	97
+38025	North Dakota	Dunn	chlamydia_rate	226
+38027	North Dakota	Eddy	chlamydia_rate	294
+38029	North Dakota	Emmons	chlamydia_rate	28
+38031	North Dakota	Foster	chlamydia_rate	30
+38033	North Dakota	Golden Valley	chlamydia_rate	0
+38035	North Dakota	Grand Forks	chlamydia_rate	358
+38037	North Dakota	Grant	chlamydia_rate	42
+38039	North Dakota	Griggs	chlamydia_rate	83
+38041	North Dakota	Hettinger	chlamydia_rate	242
+38043	North Dakota	Kidder	chlamydia_rate	41
+38045	North Dakota	LaMoure	chlamydia_rate	193
+38047	North Dakota	Logan	chlamydia_rate	101
+38049	North Dakota	McHenry	chlamydia_rate	241
+38051	North Dakota	McIntosh	chlamydia_rate	36
+38053	North Dakota	McKenzie	chlamydia_rate	157
+38055	North Dakota	McLean	chlamydia_rate	179
+38057	North Dakota	Mercer	chlamydia_rate	131
+38059	North Dakota	Morton	chlamydia_rate	390
+38061	North Dakota	Mountrail	chlamydia_rate	834
+38063	North Dakota	Nelson	chlamydia_rate	192
+38065	North Dakota	Oliver	chlamydia_rate	217
+38067	North Dakota	Pembina	chlamydia_rate	27
+38069	North Dakota	Pierce	chlamydia_rate	138
+38071	North Dakota	Ramsey	chlamydia_rate	376
+38073	North Dakota	Ransom	chlamydia_rate	165
+38075	North Dakota	Renville	chlamydia_rate	324
+38077	North Dakota	Richland	chlamydia_rate	214
+38079	North Dakota	Rolette	chlamydia_rate	832
+38081	North Dakota	Sargent	chlamydia_rate	131
+38083	North Dakota	Sheridan	chlamydia_rate	151
+38085	North Dakota	Sioux	chlamydia_rate	530
+38087	North Dakota	Slope	chlamydia_rate	0
+38089	North Dakota	Stark	chlamydia_rate	298
+38091	North Dakota	Steele	chlamydia_rate	203
+38093	North Dakota	Stutsman	chlamydia_rate	384
+38095	North Dakota	Towner	chlamydia_rate	223
+38097	North Dakota	Traill	chlamydia_rate	246
+38099	North Dakota	Walsh	chlamydia_rate	117
+38101	North Dakota	Ward	chlamydia_rate	590
+38103	North Dakota	Wells	chlamydia_rate	71
+38105	North Dakota	Williams	chlamydia_rate	330
+39001	Ohio	Adams	chlamydia_rate	95
+39003	Ohio	Allen	chlamydia_rate	498
+39005	Ohio	Ashland	chlamydia_rate	181
+39007	Ohio	Ashtabula	chlamydia_rate	151
+39009	Ohio	Athens	chlamydia_rate	352
+39011	Ohio	Auglaize	chlamydia_rate	220
+39013	Ohio	Belmont	chlamydia_rate	178
+39015	Ohio	Brown	chlamydia_rate	201
+39017	Ohio	Butler	chlamydia_rate	290
+39019	Ohio	Carroll	chlamydia_rate	205
+39021	Ohio	Champaign	chlamydia_rate	117
+39023	Ohio	Clark	chlamydia_rate	310
+39025	Ohio	Clermont	chlamydia_rate	227
+39027	Ohio	Clinton	chlamydia_rate	186
+39029	Ohio	Columbiana	chlamydia_rate	138
+39031	Ohio	Coshocton	chlamydia_rate	165
+39033	Ohio	Crawford	chlamydia_rate	208
+39035	Ohio	Cuyahoga	chlamydia_rate	771
+39037	Ohio	Darke	chlamydia_rate	174
+39039	Ohio	Defiance	chlamydia_rate	182
+39041	Ohio	Delaware	chlamydia_rate	145
+39043	Ohio	Erie	chlamydia_rate	392
+39045	Ohio	Fairfield	chlamydia_rate	222
+39047	Ohio	Fayette	chlamydia_rate	207
+39049	Ohio	Franklin	chlamydia_rate	703
+39051	Ohio	Fulton	chlamydia_rate	192
+39053	Ohio	Gallia	chlamydia_rate	110
+39055	Ohio	Geauga	chlamydia_rate	96
+39057	Ohio	Greene	chlamydia_rate	313
+39059	Ohio	Guernsey	chlamydia_rate	227
+39061	Ohio	Hamilton	chlamydia_rate	795
+39063	Ohio	Hancock	chlamydia_rate	238
+39065	Ohio	Hardin	chlamydia_rate	193
+39067	Ohio	Harrison	chlamydia_rate	114
+39069	Ohio	Henry	chlamydia_rate	195
+39071	Ohio	Highland	chlamydia_rate	200
+39073	Ohio	Hocking	chlamydia_rate	116
+39075	Ohio	Holmes	chlamydia_rate	45
+39077	Ohio	Huron	chlamydia_rate	255
+39079	Ohio	Jackson	chlamydia_rate	187
+39081	Ohio	Jefferson	chlamydia_rate	268
+39083	Ohio	Knox	chlamydia_rate	71
+39085	Ohio	Lake	chlamydia_rate	224
+39087	Ohio	Lawrence	chlamydia_rate	159
+39089	Ohio	Licking	chlamydia_rate	234
+39091	Ohio	Logan	chlamydia_rate	255
+39093	Ohio	Lorain	chlamydia_rate	317
+39095	Ohio	Lucas	chlamydia_rate	624
+39097	Ohio	Madison	chlamydia_rate	173
+39099	Ohio	Mahoning	chlamydia_rate	436
+39101	Ohio	Marion	chlamydia_rate	358
+39103	Ohio	Medina	chlamydia_rate	107
+39105	Ohio	Meigs	chlamydia_rate	152
+39107	Ohio	Mercer	chlamydia_rate	113
+39109	Ohio	Miami	chlamydia_rate	226
+39111	Ohio	Monroe	chlamydia_rate	102
+39113	Ohio	Montgomery	chlamydia_rate	528
+39115	Ohio	Morgan	chlamydia_rate	126
+39117	Ohio	Morrow	chlamydia_rate	124
+39119	Ohio	Muskingum	chlamydia_rate	286
+39121	Ohio	Noble	chlamydia_rate	75
+39123	Ohio	Ottawa	chlamydia_rate	138
+39125	Ohio	Paulding	chlamydia_rate	143
+39127	Ohio	Perry	chlamydia_rate	128
+39129	Ohio	Pickaway	chlamydia_rate	232
+39131	Ohio	Pike	chlamydia_rate	132
+39133	Ohio	Portage	chlamydia_rate	195
+39135	Ohio	Preble	chlamydia_rate	114
+39137	Ohio	Putnam	chlamydia_rate	162
+39139	Ohio	Richland	chlamydia_rate	444
+39141	Ohio	Ross	chlamydia_rate	260
+39143	Ohio	Sandusky	chlamydia_rate	271
+39145	Ohio	Scioto	chlamydia_rate	284
+39147	Ohio	Seneca	chlamydia_rate	227
+39149	Ohio	Shelby	chlamydia_rate	251
+39151	Ohio	Stark	chlamydia_rate	342
+39153	Ohio	Summit	chlamydia_rate	422
+39155	Ohio	Trumbull	chlamydia_rate	332
+39157	Ohio	Tuscarawas	chlamydia_rate	221
+39159	Ohio	Union	chlamydia_rate	281
+39161	Ohio	Van Wert	chlamydia_rate	191
+39163	Ohio	Vinton	chlamydia_rate	134
+39165	Ohio	Warren	chlamydia_rate	167
+39167	Ohio	Washington	chlamydia_rate	144
+39169	Ohio	Wayne	chlamydia_rate	170
+39171	Ohio	Williams	chlamydia_rate	90
+39173	Ohio	Wood	chlamydia_rate	278
+39175	Ohio	Wyandot	chlamydia_rate	190
+40001	Oklahoma	Adair	chlamydia_rate	295
+40003	Oklahoma	Alfalfa	chlamydia_rate	53
+40005	Oklahoma	Atoka	chlamydia_rate	324
+40007	Oklahoma	Beaver	chlamydia_rate	107
+40009	Oklahoma	Beckham	chlamydia_rate	240
+40011	Oklahoma	Blaine	chlamydia_rate	142
+40013	Oklahoma	Bryan	chlamydia_rate	342
+40015	Oklahoma	Caddo	chlamydia_rate	311
+40017	Oklahoma	Canadian	chlamydia_rate	155
+40019	Oklahoma	Carter	chlamydia_rate	364
+40021	Oklahoma	Cherokee	chlamydia_rate	372
+40023	Oklahoma	Choctaw	chlamydia_rate	520
+40025	Oklahoma	Cimarron	chlamydia_rate	40
+40027	Oklahoma	Cleveland	chlamydia_rate	237
+40029	Oklahoma	Coal	chlamydia_rate	270
+40031	Oklahoma	Comanche	chlamydia_rate	964
+40033	Oklahoma	Cotton	chlamydia_rate	258
+40035	Oklahoma	Craig	chlamydia_rate	339
+40037	Oklahoma	Creek	chlamydia_rate	304
+40039	Oklahoma	Custer	chlamydia_rate	229
+40041	Oklahoma	Delaware	chlamydia_rate	198
+40043	Oklahoma	Dewey	chlamydia_rate	146
+40045	Oklahoma	Ellis	chlamydia_rate	48
+40047	Oklahoma	Garfield	chlamydia_rate	381
+40049	Oklahoma	Garvin	chlamydia_rate	247
+40051	Oklahoma	Grady	chlamydia_rate	208
+40053	Oklahoma	Grant	chlamydia_rate	133
+40055	Oklahoma	Greer	chlamydia_rate	192
+40057	Oklahoma	Harmon	chlamydia_rate	240
+40059	Oklahoma	Harper	chlamydia_rate	54
+40061	Oklahoma	Haskell	chlamydia_rate	118
+40063	Oklahoma	Hughes	chlamydia_rate	250
+40065	Oklahoma	Jackson	chlamydia_rate	495
+40067	Oklahoma	Jefferson	chlamydia_rate	232
+40069	Oklahoma	Johnston	chlamydia_rate	246
+40071	Oklahoma	Kay	chlamydia_rate	352
+40073	Oklahoma	Kingfisher	chlamydia_rate	126
+40075	Oklahoma	Kiowa	chlamydia_rate	169
+40077	Oklahoma	Latimer	chlamydia_rate	296
+40079	Oklahoma	Le Flore	chlamydia_rate	236
+40081	Oklahoma	Lincoln	chlamydia_rate	268
+40083	Oklahoma	Logan	chlamydia_rate	423
+40085	Oklahoma	Love	chlamydia_rate	234
+40087	Oklahoma	McClain	chlamydia_rate	180
+40089	Oklahoma	McCurtain	chlamydia_rate	471
+40091	Oklahoma	McIntosh	chlamydia_rate	365
+40093	Oklahoma	Major	chlamydia_rate	159
+40095	Oklahoma	Marshall	chlamydia_rate	133
+40097	Oklahoma	Mayes	chlamydia_rate	264
+40099	Oklahoma	Murray	chlamydia_rate	200
+40101	Oklahoma	Muskogee	chlamydia_rate	459
+40103	Oklahoma	Noble	chlamydia_rate	130
+40105	Oklahoma	Nowata	chlamydia_rate	209
+40107	Oklahoma	Okfuskee	chlamydia_rate	189
+40109	Oklahoma	Oklahoma	chlamydia_rate	484
+40111	Oklahoma	Okmulgee	chlamydia_rate	489
+40113	Oklahoma	Osage	chlamydia_rate	202
+40115	Oklahoma	Ottawa	chlamydia_rate	427
+40117	Oklahoma	Pawnee	chlamydia_rate	247
+40119	Oklahoma	Payne	chlamydia_rate	472
+40121	Oklahoma	Pittsburg	chlamydia_rate	277
+40123	Oklahoma	Pontotoc	chlamydia_rate	323
+40125	Oklahoma	Pottawatomie	chlamydia_rate	446
+40127	Oklahoma	Pushmataha	chlamydia_rate	199
+40129	Oklahoma	Roger Mills	chlamydia_rate	219
+40131	Oklahoma	Rogers	chlamydia_rate	199
+40133	Oklahoma	Seminole	chlamydia_rate	326
+40135	Oklahoma	Sequoyah	chlamydia_rate	250
+40137	Oklahoma	Stephens	chlamydia_rate	306
+40139	Oklahoma	Texas	chlamydia_rate	174
+40141	Oklahoma	Tillman	chlamydia_rate	338
+40143	Oklahoma	Tulsa	chlamydia_rate	521
+40145	Oklahoma	Wagoner	chlamydia_rate	126
+40147	Oklahoma	Washington	chlamydia_rate	133
+40149	Oklahoma	Washita	chlamydia_rate	181
+40151	Oklahoma	Woods	chlamydia_rate	372
+40153	Oklahoma	Woodward	chlamydia_rate	199
+41001	Oregon	Baker	chlamydia_rate	143
+41003	Oregon	Benton	chlamydia_rate	289
+41005	Oregon	Clackamas	chlamydia_rate	253
+41007	Oregon	Clatsop	chlamydia_rate	305
+41009	Oregon	Columbia	chlamydia_rate	292
+41011	Oregon	Coos	chlamydia_rate	295
+41013	Oregon	Crook	chlamydia_rate	243
+41015	Oregon	Curry	chlamydia_rate	98
+41017	Oregon	Deschutes	chlamydia_rate	290
+41019	Oregon	Douglas	chlamydia_rate	235
+41021	Oregon	Gilliam	chlamydia_rate	160
+41023	Oregon	Grant	chlamydia_rate	188
+41025	Oregon	Harney	chlamydia_rate	216
+41027	Oregon	Hood River	chlamydia_rate	206
+41029	Oregon	Jackson	chlamydia_rate	257
+41031	Oregon	Jefferson	chlamydia_rate	525
+41033	Oregon	Josephine	chlamydia_rate	220
+41035	Oregon	Klamath	chlamydia_rate	274
+41037	Oregon	Lake	chlamydia_rate	203
+41039	Oregon	Lane	chlamydia_rate	363
+41041	Oregon	Lincoln	chlamydia_rate	163
+41043	Oregon	Linn	chlamydia_rate	307
+41045	Oregon	Malheur	chlamydia_rate	345
+41047	Oregon	Marion	chlamydia_rate	441
+41049	Oregon	Morrow	chlamydia_rate	260
+41051	Oregon	Multnomah	chlamydia_rate	450
+41053	Oregon	Polk	chlamydia_rate	309
+41055	Oregon	Sherman	chlamydia_rate	227
+41057	Oregon	Tillamook	chlamydia_rate	127
+41059	Oregon	Umatilla	chlamydia_rate	260
+41061	Oregon	Union	chlamydia_rate	303
+41063	Oregon	Wallowa	chlamydia_rate	114
+41065	Oregon	Wasco	chlamydia_rate	258
+41067	Oregon	Washington	chlamydia_rate	262
+41069	Oregon	Wheeler	chlamydia_rate	208
+41071	Oregon	Yamhill	chlamydia_rate	258
+42001	Pennsylvania	Adams	chlamydia_rate	122
+42003	Pennsylvania	Allegheny	chlamydia_rate	412
+42005	Pennsylvania	Armstrong	chlamydia_rate	141
+42007	Pennsylvania	Beaver	chlamydia_rate	301
+42009	Pennsylvania	Bedford	chlamydia_rate	46
+42011	Pennsylvania	Berks	chlamydia_rate	303
+42013	Pennsylvania	Blair	chlamydia_rate	211
+42015	Pennsylvania	Bradford	chlamydia_rate	158
+42017	Pennsylvania	Bucks	chlamydia_rate	150
+42019	Pennsylvania	Butler	chlamydia_rate	108
+42021	Pennsylvania	Cambria	chlamydia_rate	157
+42023	Pennsylvania	Cameron	chlamydia_rate	79
+42025	Pennsylvania	Carbon	chlamydia_rate	103
+42027	Pennsylvania	Centre	chlamydia_rate	240
+42029	Pennsylvania	Chester	chlamydia_rate	180
+42031	Pennsylvania	Clarion	chlamydia_rate	198
+42033	Pennsylvania	Clearfield	chlamydia_rate	116
+42035	Pennsylvania	Clinton	chlamydia_rate	171
+42037	Pennsylvania	Columbia	chlamydia_rate	178
+42039	Pennsylvania	Crawford	chlamydia_rate	176
+42041	Pennsylvania	Cumberland	chlamydia_rate	164
+42043	Pennsylvania	Dauphin	chlamydia_rate	574
+42045	Pennsylvania	Delaware	chlamydia_rate	446
+42047	Pennsylvania	Elk	chlamydia_rate	75
+42049	Pennsylvania	Erie	chlamydia_rate	411
+42051	Pennsylvania	Fayette	chlamydia_rate	204
+42053	Pennsylvania	Forest	chlamydia_rate	156
+42055	Pennsylvania	Franklin	chlamydia_rate	188
+42057	Pennsylvania	Fulton	chlamydia_rate	88
+42059	Pennsylvania	Greene	chlamydia_rate	178
+42061	Pennsylvania	Huntingdon	chlamydia_rate	150
+42063	Pennsylvania	Indiana	chlamydia_rate	232
+42065	Pennsylvania	Jefferson	chlamydia_rate	95
+42067	Pennsylvania	Juniata	chlamydia_rate	61
+42069	Pennsylvania	Lackawanna	chlamydia_rate	187
+42071	Pennsylvania	Lancaster	chlamydia_rate	253
+42073	Pennsylvania	Lawrence	chlamydia_rate	276
+42075	Pennsylvania	Lebanon	chlamydia_rate	243
+42077	Pennsylvania	Lehigh	chlamydia_rate	361
+42079	Pennsylvania	Luzerne	chlamydia_rate	221
+42081	Pennsylvania	Lycoming	chlamydia_rate	318
+42083	Pennsylvania	McKean	chlamydia_rate	203
+42085	Pennsylvania	Mercer	chlamydia_rate	264
+42087	Pennsylvania	Mifflin	chlamydia_rate	238
+42089	Pennsylvania	Monroe	chlamydia_rate	153
+42091	Pennsylvania	Montgomery	chlamydia_rate	197
+42093	Pennsylvania	Montour	chlamydia_rate	153
+42095	Pennsylvania	Northampton	chlamydia_rate	226
+42097	Pennsylvania	Northumberland	chlamydia_rate	175
+42099	Pennsylvania	Perry	chlamydia_rate	144
+42101	Pennsylvania	Philadelphia	chlamydia_rate	1273
+42103	Pennsylvania	Pike	chlamydia_rate	89
+42105	Pennsylvania	Potter	chlamydia_rate	138
+42107	Pennsylvania	Schuylkill	chlamydia_rate	136
+42109	Pennsylvania	Snyder	chlamydia_rate	118
+42111	Pennsylvania	Somerset	chlamydia_rate	102
+42113	Pennsylvania	Sullivan	chlamydia_rate	249
+42115	Pennsylvania	Susquehanna	chlamydia_rate	88
+42117	Pennsylvania	Tioga	chlamydia_rate	167
+42119	Pennsylvania	Union	chlamydia_rate	125
+42121	Pennsylvania	Venango	chlamydia_rate	153
+42123	Pennsylvania	Warren	chlamydia_rate	112
+42125	Pennsylvania	Washington	chlamydia_rate	224
+42127	Pennsylvania	Wayne	chlamydia_rate	57
+42129	Pennsylvania	Westmoreland	chlamydia_rate	138
+42131	Pennsylvania	Wyoming	chlamydia_rate	106
+42133	Pennsylvania	York	chlamydia_rate	284
+44001	Rhode Island	Bristol	chlamydia_rate	106
+44003	Rhode Island	Kent	chlamydia_rate	165
+44005	Rhode Island	Newport	chlamydia_rate	156
+44007	Rhode Island	Providence	chlamydia_rate	451
+44009	Rhode Island	Washington	chlamydia_rate	150
+45001	South Carolina	Abbeville	chlamydia_rate	519
+45003	South Carolina	Aiken	chlamydia_rate	476
+45005	South Carolina	Allendale	chlamydia_rate	1382
+45007	South Carolina	Anderson	chlamydia_rate	495
+45009	South Carolina	Bamberg	chlamydia_rate	895
+45011	South Carolina	Barnwell	chlamydia_rate	654
+45013	South Carolina	Beaufort	chlamydia_rate	555
+45015	South Carolina	Berkeley	chlamydia_rate	401
+45017	South Carolina	Calhoun	chlamydia_rate	534
+45019	South Carolina	Charleston	chlamydia_rate	716
+45021	South Carolina	Cherokee	chlamydia_rate	605
+45023	South Carolina	Chester	chlamydia_rate	754
+45025	South Carolina	Chesterfield	chlamydia_rate	499
+45027	South Carolina	Clarendon	chlamydia_rate	709
+45029	South Carolina	Colleton	chlamydia_rate	658
+45031	South Carolina	Darlington	chlamydia_rate	779
+45033	South Carolina	Dillon	chlamydia_rate	939
+45035	South Carolina	Dorchester	chlamydia_rate	543
+45037	South Carolina	Edgefield	chlamydia_rate	341
+45039	South Carolina	Fairfield	chlamydia_rate	706
+45041	South Carolina	Florence	chlamydia_rate	745
+45043	South Carolina	Georgetown	chlamydia_rate	527
+45045	South Carolina	Greenville	chlamydia_rate	419
+45047	South Carolina	Greenwood	chlamydia_rate	759
+45049	South Carolina	Hampton	chlamydia_rate	688
+45051	South Carolina	Horry	chlamydia_rate	436
+45053	South Carolina	Jasper	chlamydia_rate	646
+45055	South Carolina	Kershaw	chlamydia_rate	541
+45057	South Carolina	Lancaster	chlamydia_rate	398
+45059	South Carolina	Laurens	chlamydia_rate	555
+45061	South Carolina	Lee	chlamydia_rate	697
+45063	South Carolina	Lexington	chlamydia_rate	373
+45065	South Carolina	McCormick	chlamydia_rate	567
+45067	South Carolina	Marion	chlamydia_rate	1143
+45069	South Carolina	Marlboro	chlamydia_rate	774
+45071	South Carolina	Newberry	chlamydia_rate	1000
+45073	South Carolina	Oconee	chlamydia_rate	299
+45075	South Carolina	Orangeburg	chlamydia_rate	1098
+45077	South Carolina	Pickens	chlamydia_rate	291
+45079	South Carolina	Richland	chlamydia_rate	837
+45081	South Carolina	Saluda	chlamydia_rate	498
+45083	South Carolina	Spartanburg	chlamydia_rate	551
+45085	South Carolina	Sumter	chlamydia_rate	796
+45087	South Carolina	Union	chlamydia_rate	673
+45089	South Carolina	Williamsburg	chlamydia_rate	677
+45091	South Carolina	York	chlamydia_rate	335
+46003	South Dakota	Aurora	chlamydia_rate	37
+46005	South Dakota	Beadle	chlamydia_rate	420
+46007	South Dakota	Bennett	chlamydia_rate	525
+46009	South Dakota	Bon Homme	chlamydia_rate	170
+46011	South Dakota	Brookings	chlamydia_rate	266
+46013	South Dakota	Brown	chlamydia_rate	435
+46015	South Dakota	Brule	chlamydia_rate	343
+46017	South Dakota	Buffalo	chlamydia_rate	1308
+46019	South Dakota	Butte	chlamydia_rate	198
+46021	South Dakota	Campbell	chlamydia_rate	0
+46023	South Dakota	Charles Mix	chlamydia_rate	515
+46025	South Dakota	Clark	chlamydia_rate	0
+46027	South Dakota	Clay	chlamydia_rate	296
+46029	South Dakota	Codington	chlamydia_rate	367
+46031	South Dakota	Corson	chlamydia_rate	1482
+46033	South Dakota	Custer	chlamydia_rate	426
+46035	South Dakota	Davison	chlamydia_rate	349
+46037	South Dakota	Day	chlamydia_rate	175
+46039	South Dakota	Deuel	chlamydia_rate	92
+46041	South Dakota	Dewey	chlamydia_rate	2245
+46043	South Dakota	Douglas	chlamydia_rate	167
+46045	South Dakota	Edmunds	chlamydia_rate	74
+46047	South Dakota	Fall River	chlamydia_rate	113
+46049	South Dakota	Faulk	chlamydia_rate	127
+46051	South Dakota	Grant	chlamydia_rate	68
+46053	South Dakota	Gregory	chlamydia_rate	164
+46055	South Dakota	Haakon	chlamydia_rate	103
+46057	South Dakota	Hamlin	chlamydia_rate	102
+46059	South Dakota	Hand	chlamydia_rate	29
+46061	South Dakota	Hanson	chlamydia_rate	60
+46063	South Dakota	Harding	chlamydia_rate	0
+46065	South Dakota	Hughes	chlamydia_rate	353
+46067	South Dakota	Hutchinson	chlamydia_rate	41
+46069	South Dakota	Hyde	chlamydia_rate	141
+46071	South Dakota	Jackson	chlamydia_rate	495
+46073	South Dakota	Jerauld	chlamydia_rate	97
+46075	South Dakota	Jones	chlamydia_rate	0
+46077	South Dakota	Kingsbury	chlamydia_rate	58
+46079	South Dakota	Lake	chlamydia_rate	161
+46081	South Dakota	Lawrence	chlamydia_rate	241
+46083	South Dakota	Lincoln	chlamydia_rate	109
+46085	South Dakota	Lyman	chlamydia_rate	746
+46087	South Dakota	McCook	chlamydia_rate	142
+46089	South Dakota	McPherson	chlamydia_rate	0
+46091	South Dakota	Marshall	chlamydia_rate	107
+46093	South Dakota	Meade	chlamydia_rate	173
+46095	South Dakota	Mellette	chlamydia_rate	342
+46097	South Dakota	Miner	chlamydia_rate	335
+46099	South Dakota	Minnehaha	chlamydia_rate	430
+46101	South Dakota	Moody	chlamydia_rate	200
+46103	South Dakota	Pennington	chlamydia_rate	481
+46105	South Dakota	Perkins	chlamydia_rate	34
+46107	South Dakota	Potter	chlamydia_rate	86
+46109	South Dakota	Roberts	chlamydia_rate	700
+46111	South Dakota	Sanborn	chlamydia_rate	297
+46113	South Dakota	Shannon	chlamydia_rate	2090
+46115	South Dakota	Spink	chlamydia_rate	94
+46117	South Dakota	Stanley	chlamydia_rate	270
+46119	South Dakota	Sully	chlamydia_rate	0
+46121	South Dakota	Todd	chlamydia_rate	2050
+46123	South Dakota	Tripp	chlamydia_rate	284
+46125	South Dakota	Turner	chlamydia_rate	132
+46127	South Dakota	Union	chlamydia_rate	97
+46129	South Dakota	Walworth	chlamydia_rate	331
+46135	South Dakota	Yankton	chlamydia_rate	272
+46137	South Dakota	Ziebach	chlamydia_rate	785
+47001	Tennessee	Anderson	chlamydia_rate	254
+47003	Tennessee	Bedford	chlamydia_rate	309
+47005	Tennessee	Benton	chlamydia_rate	212
+47007	Tennessee	Bledsoe	chlamydia_rate	140
+47009	Tennessee	Blount	chlamydia_rate	205
+47011	Tennessee	Bradley	chlamydia_rate	327
+47013	Tennessee	Campbell	chlamydia_rate	118
+47015	Tennessee	Cannon	chlamydia_rate	130
+47017	Tennessee	Carroll	chlamydia_rate	361
+47019	Tennessee	Carter	chlamydia_rate	150
+47021	Tennessee	Cheatham	chlamydia_rate	174
+47023	Tennessee	Chester	chlamydia_rate	269
+47025	Tennessee	Claiborne	chlamydia_rate	143
+47027	Tennessee	Clay	chlamydia_rate	102
+47029	Tennessee	Cocke	chlamydia_rate	286
+47031	Tennessee	Coffee	chlamydia_rate	256
+47033	Tennessee	Crockett	chlamydia_rate	363
+47035	Tennessee	Cumberland	chlamydia_rate	335
+47037	Tennessee	Davidson	chlamydia_rate	558
+47039	Tennessee	Decatur	chlamydia_rate	230
+47041	Tennessee	DeKalb	chlamydia_rate	187
+47043	Tennessee	Dickson	chlamydia_rate	306
+47045	Tennessee	Dyer	chlamydia_rate	616
+47047	Tennessee	Fayette	chlamydia_rate	312
+47049	Tennessee	Fentress	chlamydia_rate	95
+47051	Tennessee	Franklin	chlamydia_rate	380
+47053	Tennessee	Gibson	chlamydia_rate	670
+47055	Tennessee	Giles	chlamydia_rate	302
+47057	Tennessee	Grainger	chlamydia_rate	185
+47059	Tennessee	Greene	chlamydia_rate	190
+47061	Tennessee	Grundy	chlamydia_rate	139
+47063	Tennessee	Hamblen	chlamydia_rate	237
+47065	Tennessee	Hamilton	chlamydia_rate	457
+47067	Tennessee	Hancock	chlamydia_rate	191
+47069	Tennessee	Hardeman	chlamydia_rate	727
+47071	Tennessee	Hardin	chlamydia_rate	188
+47073	Tennessee	Hawkins	chlamydia_rate	141
+47075	Tennessee	Haywood	chlamydia_rate	617
+47077	Tennessee	Henderson	chlamydia_rate	447
+47079	Tennessee	Henry	chlamydia_rate	461
+47081	Tennessee	Hickman	chlamydia_rate	223
+47083	Tennessee	Houston	chlamydia_rate	202
+47085	Tennessee	Humphreys	chlamydia_rate	162
+47087	Tennessee	Jackson	chlamydia_rate	103
+47089	Tennessee	Jefferson	chlamydia_rate	204
+47091	Tennessee	Johnson	chlamydia_rate	104
+47093	Tennessee	Knox	chlamydia_rate	370
+47095	Tennessee	Lake	chlamydia_rate	613
+47097	Tennessee	Lauderdale	chlamydia_rate	795
+47099	Tennessee	Lawrence	chlamydia_rate	170
+47101	Tennessee	Lewis	chlamydia_rate	189
+47103	Tennessee	Lincoln	chlamydia_rate	390
+47105	Tennessee	Loudon	chlamydia_rate	290
+47107	Tennessee	McMinn	chlamydia_rate	285
+47109	Tennessee	McNairy	chlamydia_rate	184
+47111	Tennessee	Macon	chlamydia_rate	108
+47113	Tennessee	Madison	chlamydia_rate	701
+47115	Tennessee	Marion	chlamydia_rate	266
+47117	Tennessee	Marshall	chlamydia_rate	317
+47119	Tennessee	Maury	chlamydia_rate	397
+47121	Tennessee	Meigs	chlamydia_rate	247
+47123	Tennessee	Monroe	chlamydia_rate	256
+47125	Tennessee	Montgomery	chlamydia_rate	654
+47127	Tennessee	Moore	chlamydia_rate	63
+47129	Tennessee	Morgan	chlamydia_rate	277
+47131	Tennessee	Obion	chlamydia_rate	418
+47133	Tennessee	Overton	chlamydia_rate	177
+47135	Tennessee	Perry	chlamydia_rate	190
+47137	Tennessee	Pickett	chlamydia_rate	39
+47139	Tennessee	Polk	chlamydia_rate	214
+47141	Tennessee	Putnam	chlamydia_rate	242
+47143	Tennessee	Rhea	chlamydia_rate	299
+47145	Tennessee	Roane	chlamydia_rate	236
+47147	Tennessee	Robertson	chlamydia_rate	234
+47149	Tennessee	Rutherford	chlamydia_rate	397
+47151	Tennessee	Scott	chlamydia_rate	117
+47153	Tennessee	Sequatchie	chlamydia_rate	92
+47155	Tennessee	Sevier	chlamydia_rate	234
+47157	Tennessee	Shelby	chlamydia_rate	1076
+47159	Tennessee	Smith	chlamydia_rate	110
+47161	Tennessee	Stewart	chlamydia_rate	113
+47163	Tennessee	Sullivan	chlamydia_rate	188
+47165	Tennessee	Sumner	chlamydia_rate	181
+47167	Tennessee	Tipton	chlamydia_rate	537
+47169	Tennessee	Trousdale	chlamydia_rate	127
+47171	Tennessee	Unicoi	chlamydia_rate	98
+47173	Tennessee	Union	chlamydia_rate	225
+47175	Tennessee	Van Buren	chlamydia_rate	108
+47177	Tennessee	Warren	chlamydia_rate	223
+47179	Tennessee	Washington	chlamydia_rate	186
+47181	Tennessee	Wayne	chlamydia_rate	94
+47183	Tennessee	Weakley	chlamydia_rate	400
+47185	Tennessee	White	chlamydia_rate	267
+47187	Tennessee	Williamson	chlamydia_rate	90
+47189	Tennessee	Wilson	chlamydia_rate	183
+48001	Texas	Anderson	chlamydia_rate	255
+48003	Texas	Andrews	chlamydia_rate	352
+48005	Texas	Angelina	chlamydia_rate	432
+48007	Texas	Aransas	chlamydia_rate	592
+48009	Texas	Archer	chlamydia_rate	144
+48011	Texas	Armstrong	chlamydia_rate	263
+48013	Texas	Atascosa	chlamydia_rate	314
+48015	Texas	Austin	chlamydia_rate	243
+48017	Texas	Bailey	chlamydia_rate	475
+48019	Texas	Bandera	chlamydia_rate	142
+48021	Texas	Bastrop	chlamydia_rate	283
+48023	Texas	Baylor	chlamydia_rate	188
+48025	Texas	Bee	chlamydia_rate	509
+48027	Texas	Bell	chlamydia_rate	1293
+48029	Texas	Bexar	chlamydia_rate	667
+48031	Texas	Blanco	chlamydia_rate	172
+48033	Texas	Borden	chlamydia_rate	156
+48035	Texas	Bosque	chlamydia_rate	209
+48037	Texas	Bowie	chlamydia_rate	451
+48039	Texas	Brazoria	chlamydia_rate	343
+48041	Texas	Brazos	chlamydia_rate	506
+48043	Texas	Brewster	chlamydia_rate	217
+48045	Texas	Briscoe	chlamydia_rate	61
+48047	Texas	Brooks	chlamydia_rate	983
+48049	Texas	Brown	chlamydia_rate	412
+48051	Texas	Burleson	chlamydia_rate	326
+48053	Texas	Burnet	chlamydia_rate	220
+48055	Texas	Caldwell	chlamydia_rate	504
+48057	Texas	Calhoun	chlamydia_rate	285
+48059	Texas	Callahan	chlamydia_rate	177
+48061	Texas	Cameron	chlamydia_rate	352
+48063	Texas	Camp	chlamydia_rate	298
+48065	Texas	Carson	chlamydia_rate	97
+48067	Texas	Cass	chlamydia_rate	282
+48069	Texas	Castro	chlamydia_rate	310
+48071	Texas	Chambers	chlamydia_rate	100
+48073	Texas	Cherokee	chlamydia_rate	370
+48075	Texas	Childress	chlamydia_rate	241
+48077	Texas	Clay	chlamydia_rate	158
+48079	Texas	Cochran	chlamydia_rate	320
+48081	Texas	Coke	chlamydia_rate	211
+48083	Texas	Coleman	chlamydia_rate	202
+48085	Texas	Collin	chlamydia_rate	251
+48087	Texas	Collingsworth	chlamydia_rate	458
+48089	Texas	Colorado	chlamydia_rate	211
+48091	Texas	Comal	chlamydia_rate	203
+48093	Texas	Comanche	chlamydia_rate	186
+48095	Texas	Concho	chlamydia_rate	220
+48097	Texas	Cooke	chlamydia_rate	299
+48099	Texas	Coryell	chlamydia_rate	364
+48101	Texas	Cottle	chlamydia_rate	0
+48103	Texas	Crane	chlamydia_rate	137
+48105	Texas	Crockett	chlamydia_rate	350
+48107	Texas	Crosby	chlamydia_rate	528
+48109	Texas	Culberson	chlamydia_rate	334
+48111	Texas	Dallam	chlamydia_rate	463
+48113	Texas	Dallas	chlamydia_rate	657
+48115	Texas	Dawson	chlamydia_rate	419
+48117	Texas	Deaf Smith	chlamydia_rate	434
+48119	Texas	Delta	chlamydia_rate	210
+48121	Texas	Denton	chlamydia_rate	255
+48123	Texas	DeWitt	chlamydia_rate	304
+48125	Texas	Dickens	chlamydia_rate	82
+48127	Texas	Dimmit	chlamydia_rate	370
+48129	Texas	Donley	chlamydia_rate	816
+48131	Texas	Duval	chlamydia_rate	407
+48133	Texas	Eastland	chlamydia_rate	172
+48135	Texas	Ector	chlamydia_rate	570
+48137	Texas	Edwards	chlamydia_rate	350
+48139	Texas	Ellis	chlamydia_rate	335
+48141	Texas	El Paso	chlamydia_rate	546
+48143	Texas	Erath	chlamydia_rate	206
+48145	Texas	Falls	chlamydia_rate	689
+48147	Texas	Fannin	chlamydia_rate	310
+48149	Texas	Fayette	chlamydia_rate	159
+48151	Texas	Fisher	chlamydia_rate	227
+48153	Texas	Floyd	chlamydia_rate	434
+48155	Texas	Foard	chlamydia_rate	0
+48157	Texas	Fort Bend	chlamydia_rate	244
+48159	Texas	Franklin	chlamydia_rate	349
+48161	Texas	Freestone	chlamydia_rate	323
+48163	Texas	Frio	chlamydia_rate	482
+48165	Texas	Gaines	chlamydia_rate	160
+48167	Texas	Galveston	chlamydia_rate	393
+48169	Texas	Garza	chlamydia_rate	232
+48171	Texas	Gillespie	chlamydia_rate	173
+48173	Texas	Glasscock	chlamydia_rate	0
+48175	Texas	Goliad	chlamydia_rate	166
+48177	Texas	Gonzales	chlamydia_rate	449
+48179	Texas	Gray	chlamydia_rate	226
+48181	Texas	Grayson	chlamydia_rate	307
+48183	Texas	Gregg	chlamydia_rate	718
+48185	Texas	Grimes	chlamydia_rate	342
+48187	Texas	Guadalupe	chlamydia_rate	253
+48189	Texas	Hale	chlamydia_rate	598
+48191	Texas	Hall	chlamydia_rate	447
+48193	Texas	Hamilton	chlamydia_rate	94
+48195	Texas	Hansford	chlamydia_rate	178
+48197	Texas	Hardeman	chlamydia_rate	266
+48199	Texas	Hardin	chlamydia_rate	172
+48201	Texas	Harris	chlamydia_rate	545
+48203	Texas	Harrison	chlamydia_rate	387
+48205	Texas	Hartley	chlamydia_rate	66
+48207	Texas	Haskell	chlamydia_rate	305
+48209	Texas	Hays	chlamydia_rate	590
+48211	Texas	Hemphill	chlamydia_rate	131
+48213	Texas	Henderson	chlamydia_rate	232
+48215	Texas	Hidalgo	chlamydia_rate	410
+48217	Texas	Hill	chlamydia_rate	302
+48219	Texas	Hockley	chlamydia_rate	554
+48221	Texas	Hood	chlamydia_rate	219
+48223	Texas	Hopkins	chlamydia_rate	239
+48225	Texas	Houston	chlamydia_rate	257
+48227	Texas	Howard	chlamydia_rate	437
+48229	Texas	Hudspeth	chlamydia_rate	460
+48231	Texas	Hunt	chlamydia_rate	365
+48233	Texas	Hutchinson	chlamydia_rate	352
+48235	Texas	Irion	chlamydia_rate	438
+48237	Texas	Jack	chlamydia_rate	144
+48239	Texas	Jackson	chlamydia_rate	341
+48241	Texas	Jasper	chlamydia_rate	423
+48243	Texas	Jeff Davis	chlamydia_rate	43
+48245	Texas	Jefferson	chlamydia_rate	488
+48247	Texas	Jim Hogg	chlamydia_rate	472
+48249	Texas	Jim Wells	chlamydia_rate	627
+48251	Texas	Johnson	chlamydia_rate	284
+48253	Texas	Jones	chlamydia_rate	233
+48255	Texas	Karnes	chlamydia_rate	121
+48257	Texas	Kaufman	chlamydia_rate	311
+48259	Texas	Kendall	chlamydia_rate	228
+48261	Texas	Kenedy	chlamydia_rate	0
+48263	Texas	Kent	chlamydia_rate	0
+48265	Texas	Kerr	chlamydia_rate	202
+48267	Texas	Kimble	chlamydia_rate	65
+48269	Texas	King	chlamydia_rate	0
+48271	Texas	Kinney	chlamydia_rate	167
+48273	Texas	Kleberg	chlamydia_rate	717
+48275	Texas	Knox	chlamydia_rate	188
+48277	Texas	Lamar	chlamydia_rate	556
+48279	Texas	Lamb	chlamydia_rate	415
+48281	Texas	Lampasas	chlamydia_rate	351
+48283	Texas	La Salle	chlamydia_rate	203
+48285	Texas	Lavaca	chlamydia_rate	125
+48287	Texas	Lee	chlamydia_rate	223
+48289	Texas	Leon	chlamydia_rate	196
+48291	Texas	Liberty	chlamydia_rate	304
+48293	Texas	Limestone	chlamydia_rate	419
+48295	Texas	Lipscomb	chlamydia_rate	121
+48297	Texas	Live Oak	chlamydia_rate	200
+48299	Texas	Llano	chlamydia_rate	171
+48301	Texas	Loving	chlamydia_rate	0
+48303	Texas	Lubbock	chlamydia_rate	657
+48305	Texas	Lynn	chlamydia_rate	203
+48307	Texas	McCulloch	chlamydia_rate	278
+48309	Texas	McLennan	chlamydia_rate	653
+48311	Texas	McMullen	chlamydia_rate	283
+48313	Texas	Madison	chlamydia_rate	278
+48315	Texas	Marion	chlamydia_rate	209
+48317	Texas	Martin	chlamydia_rate	229
+48319	Texas	Mason	chlamydia_rate	75
+48321	Texas	Matagorda	chlamydia_rate	278
+48323	Texas	Maverick	chlamydia_rate	299
+48325	Texas	Medina	chlamydia_rate	267
+48327	Texas	Menard	chlamydia_rate	312
+48329	Texas	Midland	chlamydia_rate	588
+48331	Texas	Milam	chlamydia_rate	541
+48333	Texas	Mills	chlamydia_rate	61
+48335	Texas	Mitchell	chlamydia_rate	149
+48337	Texas	Montague	chlamydia_rate	142
+48339	Texas	Montgomery	chlamydia_rate	209
+48341	Texas	Moore	chlamydia_rate	384
+48343	Texas	Morris	chlamydia_rate	325
+48345	Texas	Motley	chlamydia_rate	579
+48347	Texas	Nacogdoches	chlamydia_rate	536
+48349	Texas	Navarro	chlamydia_rate	599
+48351	Texas	Newton	chlamydia_rate	235
+48353	Texas	Nolan	chlamydia_rate	500
+48355	Texas	Nueces	chlamydia_rate	705
+48357	Texas	Ochiltree	chlamydia_rate	137
+48359	Texas	Oldham	chlamydia_rate	49
+48361	Texas	Orange	chlamydia_rate	356
+48363	Texas	Palo Pinto	chlamydia_rate	263
+48365	Texas	Panola	chlamydia_rate	307
+48367	Texas	Parker	chlamydia_rate	223
+48369	Texas	Parmer	chlamydia_rate	146
+48371	Texas	Pecos	chlamydia_rate	439
+48373	Texas	Polk	chlamydia_rate	225
+48375	Texas	Potter	chlamydia_rate	943
+48377	Texas	Presidio	chlamydia_rate	141
+48379	Texas	Rains	chlamydia_rate	183
+48381	Texas	Randall	chlamydia_rate	298
+48383	Texas	Reagan	chlamydia_rate	386
+48385	Texas	Real	chlamydia_rate	151
+48387	Texas	Red River	chlamydia_rate	296
+48389	Texas	Reeves	chlamydia_rate	181
+48391	Texas	Refugio	chlamydia_rate	488
+48393	Texas	Roberts	chlamydia_rate	108
+48395	Texas	Robertson	chlamydia_rate	397
+48397	Texas	Rockwall	chlamydia_rate	160
+48399	Texas	Runnels	chlamydia_rate	295
+48401	Texas	Rusk	chlamydia_rate	221
+48403	Texas	Sabine	chlamydia_rate	212
+48405	Texas	San Augustine	chlamydia_rate	282
+48407	Texas	San Jacinto	chlamydia_rate	227
+48409	Texas	San Patricio	chlamydia_rate	466
+48411	Texas	San Saba	chlamydia_rate	277
+48413	Texas	Schleicher	chlamydia_rate	289
+48415	Texas	Scurry	chlamydia_rate	349
+48417	Texas	Shackelford	chlamydia_rate	178
+48419	Texas	Shelby	chlamydia_rate	287
+48421	Texas	Sherman	chlamydia_rate	264
+48423	Texas	Smith	chlamydia_rate	486
+48425	Texas	Somervell	chlamydia_rate	177
+48427	Texas	Starr	chlamydia_rate	328
+48429	Texas	Stephens	chlamydia_rate	125
+48431	Texas	Sterling	chlamydia_rate	263
+48433	Texas	Stonewall	chlamydia_rate	134
+48435	Texas	Sutton	chlamydia_rate	218
+48437	Texas	Swisher	chlamydia_rate	382
+48439	Texas	Tarrant	chlamydia_rate	444
+48441	Texas	Taylor	chlamydia_rate	512
+48443	Texas	Terrell	chlamydia_rate	102
+48445	Texas	Terry	chlamydia_rate	356
+48447	Texas	Throckmorton	chlamydia_rate	0
+48449	Texas	Titus	chlamydia_rate	380
+48451	Texas	Tom Green	chlamydia_rate	558
+48453	Texas	Travis	chlamydia_rate	569
+48455	Texas	Trinity	chlamydia_rate	213
+48457	Texas	Tyler	chlamydia_rate	138
+48459	Texas	Upshur	chlamydia_rate	272
+48461	Texas	Upton	chlamydia_rate	298
+48463	Texas	Uvalde	chlamydia_rate	561
+48465	Texas	Val Verde	chlamydia_rate	293
+48467	Texas	Van Zandt	chlamydia_rate	156
+48469	Texas	Victoria	chlamydia_rate	428
+48471	Texas	Walker	chlamydia_rate	466
+48473	Texas	Waller	chlamydia_rate	477
+48475	Texas	Ward	chlamydia_rate	235
+48477	Texas	Washington	chlamydia_rate	543
+48479	Texas	Webb	chlamydia_rate	415
+48481	Texas	Wharton	chlamydia_rate	230
+48483	Texas	Wheeler	chlamydia_rate	314
+48485	Texas	Wichita	chlamydia_rate	529
+48487	Texas	Wilbarger	chlamydia_rate	340
+48489	Texas	Willacy	chlamydia_rate	474
+48491	Texas	Williamson	chlamydia_rate	319
+48493	Texas	Wilson	chlamydia_rate	156
+48495	Texas	Winkler	chlamydia_rate	366
+48497	Texas	Wise	chlamydia_rate	183
+48499	Texas	Wood	chlamydia_rate	122
+48501	Texas	Yoakum	chlamydia_rate	190
+48503	Texas	Young	chlamydia_rate	200
+48505	Texas	Zapata	chlamydia_rate	342
+48507	Texas	Zavala	chlamydia_rate	608
+49001	Utah	Beaver	chlamydia_rate	211
+49003	Utah	Box Elder	chlamydia_rate	144
+49005	Utah	Cache	chlamydia_rate	142
+49007	Utah	Carbon	chlamydia_rate	168
+49009	Utah	Daggett	chlamydia_rate	94
+49011	Utah	Davis	chlamydia_rate	227
+49013	Utah	Duchesne	chlamydia_rate	140
+49015	Utah	Emery	chlamydia_rate	36
+49017	Utah	Garfield	chlamydia_rate	77
+49019	Utah	Grand	chlamydia_rate	249
+49021	Utah	Iron	chlamydia_rate	145
+49023	Utah	Juab	chlamydia_rate	117
+49025	Utah	Kane	chlamydia_rate	84
+49027	Utah	Millard	chlamydia_rate	128
+49029	Utah	Morgan	chlamydia_rate	42
+49031	Utah	Piute	chlamydia_rate	0
+49033	Utah	Rich	chlamydia_rate	133
+49035	Utah	Salt Lake	chlamydia_rate	343
+49037	Utah	San Juan	chlamydia_rate	285
+49039	Utah	Sanpete	chlamydia_rate	115
+49041	Utah	Sevier	chlamydia_rate	115
+49043	Utah	Summit	chlamydia_rate	176
+49045	Utah	Tooele	chlamydia_rate	213
+49047	Utah	Uintah	chlamydia_rate	178
+49049	Utah	Utah	chlamydia_rate	139
+49051	Utah	Wasatch	chlamydia_rate	123
+49053	Utah	Washington	chlamydia_rate	179
+49055	Utah	Wayne	chlamydia_rate	36
+49057	Utah	Weber	chlamydia_rate	293
+50001	Vermont	Addison	chlamydia_rate	111
+50003	Vermont	Bennington	chlamydia_rate	191
+50005	Vermont	Caledonia	chlamydia_rate	157
+50007	Vermont	Chittenden	chlamydia_rate	290
+50009	Vermont	Essex	chlamydia_rate	159
+50011	Vermont	Franklin	chlamydia_rate	140
+50013	Vermont	Grand Isle	chlamydia_rate	244
+50015	Vermont	Lamoille	chlamydia_rate	249
+50017	Vermont	Orange	chlamydia_rate	114
+50019	Vermont	Orleans	chlamydia_rate	217
+50021	Vermont	Rutland	chlamydia_rate	217
+50023	Vermont	Washington	chlamydia_rate	168
+50025	Vermont	Windham	chlamydia_rate	128
+50027	Vermont	Windsor	chlamydia_rate	178
+51001	Virginia	Accomack	chlamydia_rate	624
+51003	Virginia	Albemarle	chlamydia_rate	198
+51005	Virginia	Alleghany	chlamydia_rate	111
+51007	Virginia	Amelia	chlamydia_rate	331
+51009	Virginia	Amherst	chlamydia_rate	309
+51011	Virginia	Appomattox	chlamydia_rate	194
+51013	Virginia	Arlington	chlamydia_rate	182
+51015	Virginia	Augusta	chlamydia_rate	171
+51017	Virginia	Bath	chlamydia_rate	85
+51019	Virginia	Bedford	chlamydia_rate	117
+51021	Virginia	Bland	chlamydia_rate	88
+51023	Virginia	Botetourt	chlamydia_rate	88
+51025	Virginia	Brunswick	chlamydia_rate	522
+51027	Virginia	Buchanan	chlamydia_rate	108
+51029	Virginia	Buckingham	chlamydia_rate	379
+51031	Virginia	Campbell	chlamydia_rate	213
+51033	Virginia	Caroline	chlamydia_rate	305
+51035	Virginia	Carroll	chlamydia_rate	183
+51036	Virginia	Charles City	chlamydia_rate	345
+51037	Virginia	Charlotte	chlamydia_rate	596
+51041	Virginia	Chesterfield	chlamydia_rate	355
+51043	Virginia	Clarke	chlamydia_rate	114
+51045	Virginia	Craig	chlamydia_rate	116
+51047	Virginia	Culpeper	chlamydia_rate	328
+51049	Virginia	Cumberland	chlamydia_rate	677
+51051	Virginia	Dickenson	chlamydia_rate	82
+51053	Virginia	Dinwiddie	chlamydia_rate	450
+51057	Virginia	Essex	chlamydia_rate	771
+51059	Virginia	Fairfax	chlamydia_rate	127
+51061	Virginia	Fauquier	chlamydia_rate	164
+51063	Virginia	Floyd	chlamydia_rate	144
+51065	Virginia	Fluvanna	chlamydia_rate	195
+51067	Virginia	Franklin	chlamydia_rate	219
+51069	Virginia	Frederick	chlamydia_rate	130
+51071	Virginia	Giles	chlamydia_rate	203
+51073	Virginia	Gloucester	chlamydia_rate	171
+51075	Virginia	Goochland	chlamydia_rate	226
+51077	Virginia	Grayson	chlamydia_rate	161
+51079	Virginia	Greene	chlamydia_rate	163
+51081	Virginia	Greensville	chlamydia_rate	343
+51083	Virginia	Halifax	chlamydia_rate	439
+51085	Virginia	Hanover	chlamydia_rate	159
+51087	Virginia	Henrico	chlamydia_rate	472
+51089	Virginia	Henry	chlamydia_rate	305
+51091	Virginia	Highland	chlamydia_rate	0
+51093	Virginia	Isle of Wight	chlamydia_rate	388
+51095	Virginia	James City	chlamydia_rate	199
+51097	Virginia	King and Queen	chlamydia_rate	374
+51099	Virginia	King George	chlamydia_rate	259
+51101	Virginia	King William	chlamydia_rate	251
+51103	Virginia	Lancaster	chlamydia_rate	395
+51105	Virginia	Lee	chlamydia_rate	82
+51107	Virginia	Loudoun	chlamydia_rate	104
+51109	Virginia	Louisa	chlamydia_rate	181
+51111	Virginia	Lunenburg	chlamydia_rate	480
+51113	Virginia	Madison	chlamydia_rate	128
+51115	Virginia	Mathews	chlamydia_rate	201
+51117	Virginia	Mecklenburg	chlamydia_rate	611
+51119	Virginia	Middlesex	chlamydia_rate	292
+51121	Virginia	Montgomery	chlamydia_rate	219
+51125	Virginia	Nelson	chlamydia_rate	107
+51127	Virginia	New Kent	chlamydia_rate	201
+51131	Virginia	Northampton	chlamydia_rate	727
+51133	Virginia	Northumberland	chlamydia_rate	454
+51135	Virginia	Nottoway	chlamydia_rate	517
+51137	Virginia	Orange	chlamydia_rate	191
+51139	Virginia	Page	chlamydia_rate	129
+51141	Virginia	Patrick	chlamydia_rate	184
+51143	Virginia	Pittsylvania	chlamydia_rate	324
+51145	Virginia	Powhatan	chlamydia_rate	185
+51147	Virginia	Prince Edward	chlamydia_rate	612
+51149	Virginia	Prince George	chlamydia_rate	1358
+51153	Virginia	Prince William	chlamydia_rate	245
+51155	Virginia	Pulaski	chlamydia_rate	218
+51157	Virginia	Rappahannock	chlamydia_rate	54
+51159	Virginia	Richmond	chlamydia_rate	508
+51161	Virginia	Roanoke	chlamydia_rate	191
+51163	Virginia	Rockbridge	chlamydia_rate	144
+51165	Virginia	Rockingham	chlamydia_rate	106
+51167	Virginia	Russell	chlamydia_rate	93
+51169	Virginia	Scott	chlamydia_rate	121
+51171	Virginia	Shenandoah	chlamydia_rate	107
+51173	Virginia	Smyth	chlamydia_rate	202
+51175	Virginia	Southampton	chlamydia_rate	517
+51177	Virginia	Spotsylvania	chlamydia_rate	266
+51179	Virginia	Stafford	chlamydia_rate	220
+51181	Virginia	Surry	chlamydia_rate	666
+51183	Virginia	Sussex	chlamydia_rate	447
+51185	Virginia	Tazewell	chlamydia_rate	151
+51187	Virginia	Warren	chlamydia_rate	248
+51191	Virginia	Washington	chlamydia_rate	140
+51193	Virginia	Westmoreland	chlamydia_rate	447
+51195	Virginia	Wise	chlamydia_rate	215
+51197	Virginia	Wythe	chlamydia_rate	178
+51199	Virginia	York	chlamydia_rate	257
+51510	Virginia	Alexandria City	chlamydia_rate	354
+51515	Virginia	Bedford City	chlamydia_rate	257
+51520	Virginia	Bristol City	chlamydia_rate	331
+51530	Virginia	Buena Vista City	chlamydia_rate	271
+51540	Virginia	Charlottesville City	chlamydia_rate	642
+51550	Virginia	Chesapeake City	chlamydia_rate	536
+51570	Virginia	Colonial Heights City	chlamydia_rate	356
+51580	Virginia	Covington City	chlamydia_rate	369
+51590	Virginia	Danville City	chlamydia_rate	1064
+51595	Virginia	Emporia City	chlamydia_rate	1114
+51600	Virginia	Fairfax City	chlamydia_rate	328
+51610	Virginia	Falls Church City	chlamydia_rate	438
+51620	Virginia	Franklin City	chlamydia_rate	1165
+51630	Virginia	Fredericksburg City	chlamydia_rate	708
+51640	Virginia	Galax City	chlamydia_rate	398
+51650	Virginia	Hampton City	chlamydia_rate	891
+51660	Virginia	Harrisonburg City	chlamydia_rate	307
+51670	Virginia	Hopewell City	chlamydia_rate	668
+51678	Virginia	Lexington City	chlamydia_rate	170
+51680	Virginia	Lynchburg City	chlamydia_rate	451
+51683	Virginia	Manassas City	chlamydia_rate	407
+51685	Virginia	Manassas Park City	chlamydia_rate	
+51690	Virginia	Martinsville City	chlamydia_rate	658
+51700	Virginia	Newport News City	chlamydia_rate	1069
+51710	Virginia	Norfolk City	chlamydia_rate	1215
+51720	Virginia	Norton City	chlamydia_rate	278
+51730	Virginia	Petersburg City	chlamydia_rate	1595
+51735	Virginia	Poquoson City	chlamydia_rate	156
+51740	Virginia	Portsmouth City	chlamydia_rate	1080
+51750	Virginia	Radford City	chlamydia_rate	402
+51760	Virginia	Richmond City	chlamydia_rate	1200
+51770	Virginia	Roanoke City	chlamydia_rate	844
+51775	Virginia	Salem City	chlamydia_rate	311
+51790	Virginia	Staunton City	chlamydia_rate	535
+51800	Virginia	Suffolk City	chlamydia_rate	662
+51810	Virginia	Virginia Beach City	chlamydia_rate	414
+51820	Virginia	Waynesboro City	chlamydia_rate	338
+51830	Virginia	Williamsburg City	chlamydia_rate	441
+51840	Virginia	Winchester City	chlamydia_rate	347
+53001	Washington	Adams	chlamydia_rate	374
+53003	Washington	Asotin	chlamydia_rate	352
+53005	Washington	Benton	chlamydia_rate	470
+53007	Washington	Chelan	chlamydia_rate	283
+53009	Washington	Clallam	chlamydia_rate	234
+53011	Washington	Clark	chlamydia_rate	316
+53013	Washington	Columbia	chlamydia_rate	123
+53015	Washington	Cowlitz	chlamydia_rate	304
+53017	Washington	Douglas	chlamydia_rate	128
+53019	Washington	Ferry	chlamydia_rate	225
+53021	Washington	Franklin	chlamydia_rate	8
+53023	Washington	Garfield	chlamydia_rate	132
+53025	Washington	Grant	chlamydia_rate	332
+53027	Washington	Grays Harbor	chlamydia_rate	213
+53029	Washington	Island	chlamydia_rate	252
+53031	Washington	Jefferson	chlamydia_rate	184
+53033	Washington	King	chlamydia_rate	313
+53035	Washington	Kitsap	chlamydia_rate	311
+53037	Washington	Kittitas	chlamydia_rate	313
+53039	Washington	Klickitat	chlamydia_rate	197
+53041	Washington	Lewis	chlamydia_rate	213
+53043	Washington	Lincoln	chlamydia_rate	133
+53045	Washington	Mason	chlamydia_rate	227
+53047	Washington	Okanogan	chlamydia_rate	280
+53049	Washington	Pacific	chlamydia_rate	139
+53051	Washington	Pend Oreille	chlamydia_rate	131
+53053	Washington	Pierce	chlamydia_rate	474
+53055	Washington	San Juan	chlamydia_rate	51
+53057	Washington	Skagit	chlamydia_rate	282
+53059	Washington	Skamania	chlamydia_rate	208
+53061	Washington	Snohomish	chlamydia_rate	236
+53063	Washington	Spokane	chlamydia_rate	341
+53065	Washington	Stevens	chlamydia_rate	103
+53067	Washington	Thurston	chlamydia_rate	257
+53069	Washington	Wahkiakum	chlamydia_rate	201
+53071	Washington	Walla Walla	chlamydia_rate	284
+53073	Washington	Whatcom	chlamydia_rate	285
+53075	Washington	Whitman	chlamydia_rate	293
+53077	Washington	Yakima	chlamydia_rate	452
+54001	West Virginia	Barbour	chlamydia_rate	48
+54003	West Virginia	Berkeley	chlamydia_rate	262
+54005	West Virginia	Boone	chlamydia_rate	142
+54007	West Virginia	Braxton	chlamydia_rate	83
+54009	West Virginia	Brooke	chlamydia_rate	162
+54011	West Virginia	Cabell	chlamydia_rate	427
+54013	West Virginia	Calhoun	chlamydia_rate	66
+54015	West Virginia	Clay	chlamydia_rate	181
+54017	West Virginia	Doddridge	chlamydia_rate	122
+54019	West Virginia	Fayette	chlamydia_rate	180
+54021	West Virginia	Gilmer	chlamydia_rate	104
+54023	West Virginia	Grant	chlamydia_rate	117
+54025	West Virginia	Greenbrier	chlamydia_rate	178
+54027	West Virginia	Hampshire	chlamydia_rate	113
+54029	West Virginia	Hancock	chlamydia_rate	124
+54031	West Virginia	Hardy	chlamydia_rate	114
+54033	West Virginia	Harrison	chlamydia_rate	180
+54035	West Virginia	Jackson	chlamydia_rate	106
+54037	West Virginia	Jefferson	chlamydia_rate	226
+54039	West Virginia	Kanawha	chlamydia_rate	386
+54041	West Virginia	Lewis	chlamydia_rate	128
+54043	West Virginia	Lincoln	chlamydia_rate	161
+54045	West Virginia	Logan	chlamydia_rate	54
+54047	West Virginia	McDowell	chlamydia_rate	127
+54049	West Virginia	Marion	chlamydia_rate	287
+54051	West Virginia	Marshall	chlamydia_rate	103
+54053	West Virginia	Mason	chlamydia_rate	128
+54055	West Virginia	Mercer	chlamydia_rate	296
+54057	West Virginia	Mineral	chlamydia_rate	145
+54059	West Virginia	Mingo	chlamydia_rate	63
+54061	West Virginia	Monongalia	chlamydia_rate	415
+54063	West Virginia	Monroe	chlamydia_rate	37
+54065	West Virginia	Morgan	chlamydia_rate	86
+54067	West Virginia	Nicholas	chlamydia_rate	50
+54069	West Virginia	Ohio	chlamydia_rate	216
+54071	West Virginia	Pendleton	chlamydia_rate	78
+54073	West Virginia	Pleasants	chlamydia_rate	92
+54075	West Virginia	Pocahontas	chlamydia_rate	46
+54077	West Virginia	Preston	chlamydia_rate	143
+54079	West Virginia	Putnam	chlamydia_rate	101
+54081	West Virginia	Raleigh	chlamydia_rate	186
+54083	West Virginia	Randolph	chlamydia_rate	211
+54085	West Virginia	Ritchie	chlamydia_rate	77
+54087	West Virginia	Roane	chlamydia_rate	201
+54089	West Virginia	Summers	chlamydia_rate	79
+54091	West Virginia	Taylor	chlamydia_rate	53
+54093	West Virginia	Tucker	chlamydia_rate	112
+54095	West Virginia	Tyler	chlamydia_rate	130
+54097	West Virginia	Upshur	chlamydia_rate	107
+54099	West Virginia	Wayne	chlamydia_rate	75
+54101	West Virginia	Webster	chlamydia_rate	120
+54103	West Virginia	Wetzel	chlamydia_rate	157
+54105	West Virginia	Wirt	chlamydia_rate	157
+54107	West Virginia	Wood	chlamydia_rate	191
+54109	West Virginia	Wyoming	chlamydia_rate	50
+55001	Wisconsin	Adams	chlamydia_rate	134
+55003	Wisconsin	Ashland	chlamydia_rate	68
+55005	Wisconsin	Barron	chlamydia_rate	181
+55007	Wisconsin	Bayfield	chlamydia_rate	47
+55009	Wisconsin	Brown	chlamydia_rate	380
+55011	Wisconsin	Buffalo	chlamydia_rate	228
+55013	Wisconsin	Burnett	chlamydia_rate	129
+55015	Wisconsin	Calumet	chlamydia_rate	172
+55017	Wisconsin	Chippewa	chlamydia_rate	253
+55019	Wisconsin	Clark	chlamydia_rate	127
+55021	Wisconsin	Columbia	chlamydia_rate	187
+55023	Wisconsin	Crawford	chlamydia_rate	84
+55025	Wisconsin	Dane	chlamydia_rate	396
+55027	Wisconsin	Dodge	chlamydia_rate	421
+55029	Wisconsin	Door	chlamydia_rate	148
+55031	Wisconsin	Douglas	chlamydia_rate	265
+55033	Wisconsin	Dunn	chlamydia_rate	290
+55035	Wisconsin	Eau Claire	chlamydia_rate	371
+55037	Wisconsin	Florence	chlamydia_rate	90
+55039	Wisconsin	Fond du Lac	chlamydia_rate	208
+55041	Wisconsin	Forest	chlamydia_rate	419
+55043	Wisconsin	Grant	chlamydia_rate	170
+55045	Wisconsin	Green	chlamydia_rate	266
+55047	Wisconsin	Green Lake	chlamydia_rate	215
+55049	Wisconsin	Iowa	chlamydia_rate	122
+55051	Wisconsin	Iron	chlamydia_rate	118
+55053	Wisconsin	Jackson	chlamydia_rate	240
+55055	Wisconsin	Jefferson	chlamydia_rate	213
+55057	Wisconsin	Juneau	chlamydia_rate	259
+55059	Wisconsin	Kenosha	chlamydia_rate	432
+55061	Wisconsin	Kewaunee	chlamydia_rate	146
+55063	Wisconsin	La Crosse	chlamydia_rate	323
+55065	Wisconsin	Lafayette	chlamydia_rate	95
+55067	Wisconsin	Langlade	chlamydia_rate	90
+55069	Wisconsin	Lincoln	chlamydia_rate	132
+55071	Wisconsin	Manitowoc	chlamydia_rate	193
+55073	Wisconsin	Marathon	chlamydia_rate	214
+55075	Wisconsin	Marinette	chlamydia_rate	153
+55077	Wisconsin	Marquette	chlamydia_rate	156
+55078	Wisconsin	Menominee	chlamydia_rate	1654
+55079	Wisconsin	Milwaukee	chlamydia_rate	1130
+55081	Wisconsin	Monroe	chlamydia_rate	228
+55083	Wisconsin	Oconto	chlamydia_rate	260
+55085	Wisconsin	Oneida	chlamydia_rate	133
+55087	Wisconsin	Outagamie	chlamydia_rate	272
+55089	Wisconsin	Ozaukee	chlamydia_rate	96
+55091	Wisconsin	Pepin	chlamydia_rate	187
+55093	Wisconsin	Pierce	chlamydia_rate	139
+55095	Wisconsin	Polk	chlamydia_rate	165
+55097	Wisconsin	Portage	chlamydia_rate	281
+55099	Wisconsin	Price	chlamydia_rate	226
+55101	Wisconsin	Racine	chlamydia_rate	553
+55103	Wisconsin	Richland	chlamydia_rate	128
+55105	Wisconsin	Rock	chlamydia_rate	410
+55107	Wisconsin	Rusk	chlamydia_rate	183
+55109	Wisconsin	St. Croix	chlamydia_rate	140
+55111	Wisconsin	Sauk	chlamydia_rate	199
+55113	Wisconsin	Sawyer	chlamydia_rate	103
+55115	Wisconsin	Shawano	chlamydia_rate	229
+55117	Wisconsin	Sheboygan	chlamydia_rate	253
+55119	Wisconsin	Taylor	chlamydia_rate	155
+55121	Wisconsin	Trempealeau	chlamydia_rate	236
+55123	Wisconsin	Vernon	chlamydia_rate	50
+55125	Wisconsin	Vilas	chlamydia_rate	154
+55127	Wisconsin	Walworth	chlamydia_rate	179
+55129	Wisconsin	Washburn	chlamydia_rate	113
+55131	Wisconsin	Washington	chlamydia_rate	112
+55133	Wisconsin	Waukesha	chlamydia_rate	147
+55135	Wisconsin	Waupaca	chlamydia_rate	160
+55137	Wisconsin	Waushara	chlamydia_rate	94
+55139	Wisconsin	Winnebago	chlamydia_rate	300
+55141	Wisconsin	Wood	chlamydia_rate	187
+56001	Wyoming	Albany	chlamydia_rate	342
+56003	Wyoming	Big Horn	chlamydia_rate	34
+56005	Wyoming	Campbell	chlamydia_rate	364
+56007	Wyoming	Carbon	chlamydia_rate	264
+56009	Wyoming	Converse	chlamydia_rate	253
+56011	Wyoming	Crook	chlamydia_rate	85
+56013	Wyoming	Fremont	chlamydia_rate	638
+56015	Wyoming	Goshen	chlamydia_rate	174
+56017	Wyoming	Hot Springs	chlamydia_rate	125
+56019	Wyoming	Johnson	chlamydia_rate	198
+56021	Wyoming	Laramie	chlamydia_rate	628
+56023	Wyoming	Lincoln	chlamydia_rate	72
+56025	Wyoming	Natrona	chlamydia_rate	554
+56027	Wyoming	Niobrara	chlamydia_rate	0
+56029	Wyoming	Park	chlamydia_rate	266
+56031	Wyoming	Platte	chlamydia_rate	92
+56033	Wyoming	Sheridan	chlamydia_rate	306
+56035	Wyoming	Sublette	chlamydia_rate	59
+56037	Wyoming	Sweetwater	chlamydia_rate	311
+56039	Wyoming	Teton	chlamydia_rate	202
+56041	Wyoming	Uinta	chlamydia_rate	189
+56043	Wyoming	Washakie	chlamydia_rate	106
+56045	Wyoming	Weston	chlamydia_rate	264

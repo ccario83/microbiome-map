@@ -1,325 +1,325 @@
 FIPS	State	County	Variable	pcnt_unemployed
-01001	Alabama	Autauga	pcnt_unemployed	8.0
-01003	Alabama	Baldwin	pcnt_unemployed	8.1
-01005	Alabama	Barbour	pcnt_unemployed	11.4
-01007	Alabama	Bibb	pcnt_unemployed	9.9
-01009	Alabama	Blount	pcnt_unemployed	8.3
-01011	Alabama	Bullock	pcnt_unemployed	15.3
-01013	Alabama	Butler	pcnt_unemployed	11.6
-01015	Alabama	Calhoun	pcnt_unemployed	9.2
-01017	Alabama	Chambers	pcnt_unemployed	11.4
-01019	Alabama	Cherokee	pcnt_unemployed	8.7
-01021	Alabama	Chilton	pcnt_unemployed	8.6
-01023	Alabama	Choctaw	pcnt_unemployed	11.4
-01025	Alabama	Clarke	pcnt_unemployed	15.2
-01027	Alabama	Clay	pcnt_unemployed	11.8
-01029	Alabama	Cleburne	pcnt_unemployed	8.3
-01031	Alabama	Coffee	pcnt_unemployed	7.1
-01033	Alabama	Colbert	pcnt_unemployed	9.0
-01035	Alabama	Conecuh	pcnt_unemployed	14.8
-01037	Alabama	Coosa	pcnt_unemployed	10.6
-01039	Alabama	Covington	pcnt_unemployed	8.9
-01041	Alabama	Crenshaw	pcnt_unemployed	8.7
-01043	Alabama	Cullman	pcnt_unemployed	8.1
-01045	Alabama	Dale	pcnt_unemployed	8.3
-01047	Alabama	Dallas	pcnt_unemployed	16.2
-01049	Alabama	DeKalb	pcnt_unemployed	11.2
-01051	Alabama	Elmore	pcnt_unemployed	8.3
-01053	Alabama	Escambia	pcnt_unemployed	10.5
-01055	Alabama	Etowah	pcnt_unemployed	9.1
-01057	Alabama	Fayette	pcnt_unemployed	10.4
-01059	Alabama	Franklin	pcnt_unemployed	9.4
-01061	Alabama	Geneva	pcnt_unemployed	8.3
-01063	Alabama	Greene	pcnt_unemployed	14.2
-01065	Alabama	Hale	pcnt_unemployed	12.0
-01067	Alabama	Henry	pcnt_unemployed	8.4
-01069	Alabama	Houston	pcnt_unemployed	8.1
-01071	Alabama	Jackson	pcnt_unemployed	8.7
-01073	Alabama	Jefferson	pcnt_unemployed	8.7
-01075	Alabama	Lamar	pcnt_unemployed	9.9
-01077	Alabama	Lauderdale	pcnt_unemployed	8.3
-01079	Alabama	Lawrence	pcnt_unemployed	10.1
-01081	Alabama	Lee	pcnt_unemployed	7.4
-01083	Alabama	Limestone	pcnt_unemployed	7.6
-01085	Alabama	Lowndes	pcnt_unemployed	16.6
-01087	Alabama	Macon	pcnt_unemployed	12.5
-01089	Alabama	Madison	pcnt_unemployed	7.6
-01091	Alabama	Marengo	pcnt_unemployed	11.8
-01093	Alabama	Marion	pcnt_unemployed	11.3
-01095	Alabama	Marshall	pcnt_unemployed	8.6
-01097	Alabama	Mobile	pcnt_unemployed	10.1
-01099	Alabama	Monroe	pcnt_unemployed	15.3
-01101	Alabama	Montgomery	pcnt_unemployed	9.1
-01103	Alabama	Morgan	pcnt_unemployed	8.7
-01105	Alabama	Perry	pcnt_unemployed	16.4
-01107	Alabama	Pickens	pcnt_unemployed	10.7
-01109	Alabama	Pike	pcnt_unemployed	7.8
-01111	Alabama	Randolph	pcnt_unemployed	11.0
-01113	Alabama	Russell	pcnt_unemployed	10.1
-01115	Alabama	St. Clair	pcnt_unemployed	8.3
-01117	Alabama	Shelby	pcnt_unemployed	6.3
-01119	Alabama	Sumter	pcnt_unemployed	14.5
-01121	Alabama	Talladega	pcnt_unemployed	10.3
-01123	Alabama	Tallapoosa	pcnt_unemployed	11.5
-01125	Alabama	Tuscaloosa	pcnt_unemployed	8.2
-01127	Alabama	Walker	pcnt_unemployed	9.5
-01129	Alabama	Washington	pcnt_unemployed	14.0
-01131	Alabama	Wilcox	pcnt_unemployed	19.3
-01133	Alabama	Winston	pcnt_unemployed	13.4
-02013	Alaska	Aleutians East	pcnt_unemployed	11.1
-02016	Alaska	Aleutians West	pcnt_unemployed	7.8
-02020	Alaska	Anchorage	pcnt_unemployed	6.1
-02050	Alaska	Bethel	pcnt_unemployed	14.7
-02060	Alaska	Bristol Bay	pcnt_unemployed	3.9
-02068	Alaska	Denali	pcnt_unemployed	9.9
-02070	Alaska	Dillingham	pcnt_unemployed	10.2
-02090	Alaska	Fairbanks North Star	pcnt_unemployed	6.7
-02100	Alaska	Haines	pcnt_unemployed	8.2
-02110	Alaska	Juneau	pcnt_unemployed	5.3
-02122	Alaska	Kenai Peninsula	pcnt_unemployed	9.3
-02130	Alaska	Ketchikan Gateway	pcnt_unemployed	7.3
-02150	Alaska	Kodiak Island	pcnt_unemployed	6.9
-02164	Alaska	Lake and Peninsula	pcnt_unemployed	7.9
-02170	Alaska	Matanuska-Susitna	pcnt_unemployed	8.9
-02180	Alaska	Nome	pcnt_unemployed	12.3
-02185	Alaska	North Slope	pcnt_unemployed	5.4
-02188	Alaska	Northwest Arctic	pcnt_unemployed	14.7
-02201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_unemployed	15.3
-02220	Alaska	Sitka	pcnt_unemployed	6.1
-02232	Alaska	Skagway-Hoonah-Angoon	pcnt_unemployed	15.7
-02240	Alaska	Southeast Fairbanks	pcnt_unemployed	10.9
-02261	Alaska	Valdez-Cordova	pcnt_unemployed	9.1
-02270	Alaska	Wade Hampton	pcnt_unemployed	20.4
-02280	Alaska	Wrangell-Petersburg	pcnt_unemployed	9.8
-02282	Alaska	Yakutat	pcnt_unemployed	10.7
-02290	Alaska	Yukon-Koyukuk	pcnt_unemployed	15.7
-04001	Arizona	Apache	pcnt_unemployed	18.9
-04003	Arizona	Cochise	pcnt_unemployed	8.8
-04005	Arizona	Coconino	pcnt_unemployed	9.2
-04007	Arizona	Gila	pcnt_unemployed	10.8
-04009	Arizona	Graham	pcnt_unemployed	10.5
-04011	Arizona	Greenlee	pcnt_unemployed	8.3
-04012	Arizona	La Paz	pcnt_unemployed	10.3
-04013	Arizona	Maricopa	pcnt_unemployed	8.4
-04015	Arizona	Mohave	pcnt_unemployed	11.0
-04017	Arizona	Navajo	pcnt_unemployed	16.0
-04019	Arizona	Pima	pcnt_unemployed	8.4
-04021	Arizona	Pinal	pcnt_unemployed	10.3
-04023	Arizona	Santa Cruz	pcnt_unemployed	17.1
-04025	Arizona	Yavapai	pcnt_unemployed	10.0
-04027	Arizona	Yuma	pcnt_unemployed	27.1
-05001	Arkansas	Arkansas	pcnt_unemployed	10.8
-05003	Arkansas	Ashley	pcnt_unemployed	11.2
-05005	Arkansas	Baxter	pcnt_unemployed	8.6
-05007	Arkansas	Benton	pcnt_unemployed	6.3
-05009	Arkansas	Boone	pcnt_unemployed	7.4
-05011	Arkansas	Bradley	pcnt_unemployed	11.1
-05013	Arkansas	Calhoun	pcnt_unemployed	9.4
-05015	Arkansas	Carroll	pcnt_unemployed	6.3
-05017	Arkansas	Chicot	pcnt_unemployed	11.9
-05019	Arkansas	Clark	pcnt_unemployed	9.5
-05021	Arkansas	Clay	pcnt_unemployed	13.7
-05023	Arkansas	Cleburne	pcnt_unemployed	7.9
-05025	Arkansas	Cleveland	pcnt_unemployed	7.9
-05027	Arkansas	Columbia	pcnt_unemployed	9.4
-05029	Arkansas	Conway	pcnt_unemployed	8.3
-05031	Arkansas	Craighead	pcnt_unemployed	7.3
-05033	Arkansas	Crawford	pcnt_unemployed	8.5
-05035	Arkansas	Crittenden	pcnt_unemployed	12.6
-05037	Arkansas	Cross	pcnt_unemployed	8.5
-05039	Arkansas	Dallas	pcnt_unemployed	11.1
-05041	Arkansas	Desha	pcnt_unemployed	11.8
-05043	Arkansas	Drew	pcnt_unemployed	11.7
-05045	Arkansas	Faulkner	pcnt_unemployed	7.0
-05047	Arkansas	Franklin	pcnt_unemployed	7.5
-05049	Arkansas	Fulton	pcnt_unemployed	7.4
-05051	Arkansas	Garland	pcnt_unemployed	8.3
-05053	Arkansas	Grant	pcnt_unemployed	7.2
-05055	Arkansas	Greene	pcnt_unemployed	10.0
-05057	Arkansas	Hempstead	pcnt_unemployed	8.5
-05059	Arkansas	Hot Spring	pcnt_unemployed	7.6
-05061	Arkansas	Howard	pcnt_unemployed	8.0
-05063	Arkansas	Independence	pcnt_unemployed	8.8
-05065	Arkansas	Izard	pcnt_unemployed	9.4
-05067	Arkansas	Jackson	pcnt_unemployed	10.6
-05069	Arkansas	Jefferson	pcnt_unemployed	10.6
-05071	Arkansas	Johnson	pcnt_unemployed	7.2
-05073	Arkansas	Lafayette	pcnt_unemployed	9.9
-05075	Arkansas	Lawrence	pcnt_unemployed	9.8
-05077	Arkansas	Lee	pcnt_unemployed	11.3
-05079	Arkansas	Lincoln	pcnt_unemployed	9.4
-05081	Arkansas	Little River	pcnt_unemployed	7.7
-05083	Arkansas	Logan	pcnt_unemployed	8.4
-05085	Arkansas	Lonoke	pcnt_unemployed	6.8
-05087	Arkansas	Madison	pcnt_unemployed	6.2
-05089	Arkansas	Marion	pcnt_unemployed	9.4
-05091	Arkansas	Miller	pcnt_unemployed	7.0
-05093	Arkansas	Mississippi	pcnt_unemployed	11.1
-05095	Arkansas	Monroe	pcnt_unemployed	9.0
-05097	Arkansas	Montgomery	pcnt_unemployed	8.3
-05099	Arkansas	Nevada	pcnt_unemployed	9.2
-05101	Arkansas	Newton	pcnt_unemployed	7.8
-05103	Arkansas	Ouachita	pcnt_unemployed	9.4
-05105	Arkansas	Perry	pcnt_unemployed	8.6
-05107	Arkansas	Phillips	pcnt_unemployed	11.4
-05109	Arkansas	Pike	pcnt_unemployed	9.4
-05111	Arkansas	Poinsett	pcnt_unemployed	9.0
-05113	Arkansas	Polk	pcnt_unemployed	8.3
-05115	Arkansas	Pope	pcnt_unemployed	7.6
-05117	Arkansas	Prairie	pcnt_unemployed	8.2
-05119	Arkansas	Pulaski	pcnt_unemployed	7.2
-05121	Arkansas	Randolph	pcnt_unemployed	10.3
-05123	Arkansas	St. Francis	pcnt_unemployed	11.0
-05125	Arkansas	Saline	pcnt_unemployed	6.5
-05127	Arkansas	Scott	pcnt_unemployed	6.9
-05129	Arkansas	Searcy	pcnt_unemployed	8.5
-05131	Arkansas	Sebastian	pcnt_unemployed	8.3
-05133	Arkansas	Sevier	pcnt_unemployed	8.3
-05135	Arkansas	Sharp	pcnt_unemployed	10.3
-05137	Arkansas	Stone	pcnt_unemployed	10.2
-05139	Arkansas	Union	pcnt_unemployed	9.7
-05141	Arkansas	Van Buren	pcnt_unemployed	9.8
-05143	Arkansas	Washington	pcnt_unemployed	6.0
-05145	Arkansas	White	pcnt_unemployed	8.8
-05147	Arkansas	Woodruff	pcnt_unemployed	11.6
-05149	Arkansas	Yell	pcnt_unemployed	6.5
-06001	California	Alameda	pcnt_unemployed	10.4
-06003	California	Alpine	pcnt_unemployed	15.1
-06005	California	Amador	pcnt_unemployed	12.8
-06007	California	Butte	pcnt_unemployed	13.6
-06009	California	Calaveras	pcnt_unemployed	14.6
-06011	California	Colusa	pcnt_unemployed	20.4
-06013	California	Contra Costa	pcnt_unemployed	10.4
-06015	California	Del Norte	pcnt_unemployed	13.4
-06017	California	El Dorado	pcnt_unemployed	11.8
-06019	California	Fresno	pcnt_unemployed	16.5
-06021	California	Glenn	pcnt_unemployed	15.8
-06023	California	Humboldt	pcnt_unemployed	11.3
-06025	California	Imperial	pcnt_unemployed	29.7
-06027	California	Inyo	pcnt_unemployed	9.9
-06029	California	Kern	pcnt_unemployed	14.9
-06031	California	Kings	pcnt_unemployed	16.1
-06033	California	Lake	pcnt_unemployed	16.7
-06035	California	Lassen	pcnt_unemployed	13.5
-06037	California	Los Angeles	pcnt_unemployed	12.3
-06039	California	Madera	pcnt_unemployed	15.3
-06041	California	Marin	pcnt_unemployed	7.4
-06043	California	Mariposa	pcnt_unemployed	11.8
-06045	California	Mendocino	pcnt_unemployed	10.9
-06047	California	Merced	pcnt_unemployed	18.3
-06049	California	Modoc	pcnt_unemployed	14.9
-06051	California	Mono	pcnt_unemployed	10.0
-06053	California	Monterey	pcnt_unemployed	12.4
-06055	California	Napa	pcnt_unemployed	9.0
-06057	California	Nevada	pcnt_unemployed	10.6
-06059	California	Orange	pcnt_unemployed	8.7
-06061	California	Placer	pcnt_unemployed	10.8
-06063	California	Plumas	pcnt_unemployed	15.9
-06065	California	Riverside	pcnt_unemployed	13.6
-06067	California	Sacramento	pcnt_unemployed	12.1
-06069	California	San Benito	pcnt_unemployed	15.7
-06071	California	San Bernardino	pcnt_unemployed	13.2
-06073	California	San Diego	pcnt_unemployed	10.0
-06075	California	San Francisco	pcnt_unemployed	8.6
-06077	California	San Joaquin	pcnt_unemployed	16.8
-06079	California	San Luis Obispo	pcnt_unemployed	9.3
-06081	California	San Mateo	pcnt_unemployed	7.9
-06083	California	Santa Barbara	pcnt_unemployed	8.8
-06085	California	Santa Clara	pcnt_unemployed	9.7
-06087	California	Santa Cruz	pcnt_unemployed	12.1
-06089	California	Shasta	pcnt_unemployed	14.7
-06091	California	Sierra	pcnt_unemployed	14.3
-06093	California	Siskiyou	pcnt_unemployed	16.6
-06095	California	Solano	pcnt_unemployed	11.4
-06097	California	Sonoma	pcnt_unemployed	9.8
-06099	California	Stanislaus	pcnt_unemployed	16.8
-06101	California	Sutter	pcnt_unemployed	18.8
-06103	California	Tehama	pcnt_unemployed	15.0
-06105	California	Trinity	pcnt_unemployed	17.8
-06107	California	Tulare	pcnt_unemployed	16.6
-06109	California	Tuolumne	pcnt_unemployed	13.0
-06111	California	Ventura	pcnt_unemployed	10.1
-06113	California	Yolo	pcnt_unemployed	12.4
-06115	California	Yuba	pcnt_unemployed	18.2
-08001	Colorado	Adams	pcnt_unemployed	9.7
-08003	Colorado	Alamosa	pcnt_unemployed	8.1
-08005	Colorado	Arapahoe	pcnt_unemployed	8.2
-08007	Colorado	Archuleta	pcnt_unemployed	9.2
-08009	Colorado	Baca	pcnt_unemployed	3.9
-08011	Colorado	Bent	pcnt_unemployed	7.6
-08013	Colorado	Boulder	pcnt_unemployed	6.2
-08014	Colorado	Broomfield	pcnt_unemployed	7.3
-08015	Colorado	Chaffee	pcnt_unemployed	7.2
-08017	Colorado	Cheyenne	pcnt_unemployed	3.1
-08019	Colorado	Clear Creek	pcnt_unemployed	7.3
-08021	Colorado	Conejos	pcnt_unemployed	9.5
-08023	Colorado	Costilla	pcnt_unemployed	12.6
-08025	Colorado	Crowley	pcnt_unemployed	9.4
-08027	Colorado	Custer	pcnt_unemployed	6.5
-08029	Colorado	Delta	pcnt_unemployed	9.1
-08031	Colorado	Denver	pcnt_unemployed	9.1
-08033	Colorado	Dolores	pcnt_unemployed	11.4
-08035	Colorado	Douglas	pcnt_unemployed	6.4
-08037	Colorado	Eagle	pcnt_unemployed	8.6
-08039	Colorado	Elbert	pcnt_unemployed	7.3
-08041	Colorado	El Paso	pcnt_unemployed	9.2
-08043	Colorado	Fremont	pcnt_unemployed	10.0
-08045	Colorado	Garfield	pcnt_unemployed	8.8
-08047	Colorado	Gilpin	pcnt_unemployed	6.5
-08049	Colorado	Grand	pcnt_unemployed	8.2
-08051	Colorado	Gunnison	pcnt_unemployed	6.4
-08053	Colorado	Hinsdale	pcnt_unemployed	3.7
-08055	Colorado	Huerfano	pcnt_unemployed	11.3
-08057	Colorado	Jackson	pcnt_unemployed	3.9
-08059	Colorado	Jefferson	pcnt_unemployed	7.9
-08061	Colorado	Kiowa	pcnt_unemployed	3.9
-08063	Colorado	Kit Carson	pcnt_unemployed	4.8
-08065	Colorado	Lake	pcnt_unemployed	11.6
-08067	Colorado	La Plata	pcnt_unemployed	6.8
-08069	Colorado	Larimer	pcnt_unemployed	6.8
-08071	Colorado	Las Animas	pcnt_unemployed	9.8
-08073	Colorado	Lincoln	pcnt_unemployed	4.9
-08075	Colorado	Logan	pcnt_unemployed	6.6
-08077	Colorado	Mesa	pcnt_unemployed	9.6
-08079	Colorado	Mineral	pcnt_unemployed	5.0
-08081	Colorado	Moffat	pcnt_unemployed	8.5
-08083	Colorado	Montezuma	pcnt_unemployed	8.5
-08085	Colorado	Montrose	pcnt_unemployed	10.9
-08087	Colorado	Morgan	pcnt_unemployed	6.3
-08089	Colorado	Otero	pcnt_unemployed	9.1
-08091	Colorado	Ouray	pcnt_unemployed	7.7
-08093	Colorado	Park	pcnt_unemployed	7.8
-08095	Colorado	Phillips	pcnt_unemployed	4.4
-08097	Colorado	Pitkin	pcnt_unemployed	7.8
-08099	Colorado	Prowers	pcnt_unemployed	5.8
-08101	Colorado	Pueblo	pcnt_unemployed	10.2
-08103	Colorado	Rio Blanco	pcnt_unemployed	5.5
-08105	Colorado	Rio Grande	pcnt_unemployed	9.3
-08107	Colorado	Routt	pcnt_unemployed	8.2
-08109	Colorado	Saguache	pcnt_unemployed	10.0
-08111	Colorado	San Juan	pcnt_unemployed	10.3
-08113	Colorado	San Miguel	pcnt_unemployed	7.5
-08115	Colorado	Sedgwick	pcnt_unemployed	5.3
-08117	Colorado	Summit	pcnt_unemployed	7.5
-08119	Colorado	Teller	pcnt_unemployed	8.7
-08121	Colorado	Washington	pcnt_unemployed	4.8
-08123	Colorado	Weld	pcnt_unemployed	9.3
-08125	Colorado	Yuma	pcnt_unemployed	3.8
-09001	Connecticut	Fairfield	pcnt_unemployed	8.0
-09003	Connecticut	Hartford	pcnt_unemployed	9.2
-09005	Connecticut	Litchfield	pcnt_unemployed	8.2
-09007	Connecticut	Middlesex	pcnt_unemployed	7.6
-09009	Connecticut	New Haven	pcnt_unemployed	9.7
-09011	Connecticut	New London	pcnt_unemployed	8.6
-09013	Connecticut	Tolland	pcnt_unemployed	7.4
-09015	Connecticut	Windham	pcnt_unemployed	9.8
+1001	Alabama	Autauga	pcnt_unemployed	8
+1003	Alabama	Baldwin	pcnt_unemployed	8.1
+1005	Alabama	Barbour	pcnt_unemployed	11.4
+1007	Alabama	Bibb	pcnt_unemployed	9.9
+1009	Alabama	Blount	pcnt_unemployed	8.3
+1011	Alabama	Bullock	pcnt_unemployed	15.3
+1013	Alabama	Butler	pcnt_unemployed	11.6
+1015	Alabama	Calhoun	pcnt_unemployed	9.2
+1017	Alabama	Chambers	pcnt_unemployed	11.4
+1019	Alabama	Cherokee	pcnt_unemployed	8.7
+1021	Alabama	Chilton	pcnt_unemployed	8.6
+1023	Alabama	Choctaw	pcnt_unemployed	11.4
+1025	Alabama	Clarke	pcnt_unemployed	15.2
+1027	Alabama	Clay	pcnt_unemployed	11.8
+1029	Alabama	Cleburne	pcnt_unemployed	8.3
+1031	Alabama	Coffee	pcnt_unemployed	7.1
+1033	Alabama	Colbert	pcnt_unemployed	9
+1035	Alabama	Conecuh	pcnt_unemployed	14.8
+1037	Alabama	Coosa	pcnt_unemployed	10.6
+1039	Alabama	Covington	pcnt_unemployed	8.9
+1041	Alabama	Crenshaw	pcnt_unemployed	8.7
+1043	Alabama	Cullman	pcnt_unemployed	8.1
+1045	Alabama	Dale	pcnt_unemployed	8.3
+1047	Alabama	Dallas	pcnt_unemployed	16.2
+1049	Alabama	DeKalb	pcnt_unemployed	11.2
+1051	Alabama	Elmore	pcnt_unemployed	8.3
+1053	Alabama	Escambia	pcnt_unemployed	10.5
+1055	Alabama	Etowah	pcnt_unemployed	9.1
+1057	Alabama	Fayette	pcnt_unemployed	10.4
+1059	Alabama	Franklin	pcnt_unemployed	9.4
+1061	Alabama	Geneva	pcnt_unemployed	8.3
+1063	Alabama	Greene	pcnt_unemployed	14.2
+1065	Alabama	Hale	pcnt_unemployed	12
+1067	Alabama	Henry	pcnt_unemployed	8.4
+1069	Alabama	Houston	pcnt_unemployed	8.1
+1071	Alabama	Jackson	pcnt_unemployed	8.7
+1073	Alabama	Jefferson	pcnt_unemployed	8.7
+1075	Alabama	Lamar	pcnt_unemployed	9.9
+1077	Alabama	Lauderdale	pcnt_unemployed	8.3
+1079	Alabama	Lawrence	pcnt_unemployed	10.1
+1081	Alabama	Lee	pcnt_unemployed	7.4
+1083	Alabama	Limestone	pcnt_unemployed	7.6
+1085	Alabama	Lowndes	pcnt_unemployed	16.6
+1087	Alabama	Macon	pcnt_unemployed	12.5
+1089	Alabama	Madison	pcnt_unemployed	7.6
+1091	Alabama	Marengo	pcnt_unemployed	11.8
+1093	Alabama	Marion	pcnt_unemployed	11.3
+1095	Alabama	Marshall	pcnt_unemployed	8.6
+1097	Alabama	Mobile	pcnt_unemployed	10.1
+1099	Alabama	Monroe	pcnt_unemployed	15.3
+1101	Alabama	Montgomery	pcnt_unemployed	9.1
+1103	Alabama	Morgan	pcnt_unemployed	8.7
+1105	Alabama	Perry	pcnt_unemployed	16.4
+1107	Alabama	Pickens	pcnt_unemployed	10.7
+1109	Alabama	Pike	pcnt_unemployed	7.8
+1111	Alabama	Randolph	pcnt_unemployed	11
+1113	Alabama	Russell	pcnt_unemployed	10.1
+1115	Alabama	St. Clair	pcnt_unemployed	8.3
+1117	Alabama	Shelby	pcnt_unemployed	6.3
+1119	Alabama	Sumter	pcnt_unemployed	14.5
+1121	Alabama	Talladega	pcnt_unemployed	10.3
+1123	Alabama	Tallapoosa	pcnt_unemployed	11.5
+1125	Alabama	Tuscaloosa	pcnt_unemployed	8.2
+1127	Alabama	Walker	pcnt_unemployed	9.5
+1129	Alabama	Washington	pcnt_unemployed	14
+1131	Alabama	Wilcox	pcnt_unemployed	19.3
+1133	Alabama	Winston	pcnt_unemployed	13.4
+2013	Alaska	Aleutians East	pcnt_unemployed	11.1
+2016	Alaska	Aleutians West	pcnt_unemployed	7.8
+2020	Alaska	Anchorage	pcnt_unemployed	6.1
+2050	Alaska	Bethel	pcnt_unemployed	14.7
+2060	Alaska	Bristol Bay	pcnt_unemployed	3.9
+2068	Alaska	Denali	pcnt_unemployed	9.9
+2070	Alaska	Dillingham	pcnt_unemployed	10.2
+2090	Alaska	Fairbanks North Star	pcnt_unemployed	6.7
+2100	Alaska	Haines	pcnt_unemployed	8.2
+2110	Alaska	Juneau	pcnt_unemployed	5.3
+2122	Alaska	Kenai Peninsula	pcnt_unemployed	9.3
+2130	Alaska	Ketchikan Gateway	pcnt_unemployed	7.3
+2150	Alaska	Kodiak Island	pcnt_unemployed	6.9
+2164	Alaska	Lake and Peninsula	pcnt_unemployed	7.9
+2170	Alaska	Matanuska-Susitna	pcnt_unemployed	8.9
+2180	Alaska	Nome	pcnt_unemployed	12.3
+2185	Alaska	North Slope	pcnt_unemployed	5.4
+2188	Alaska	Northwest Arctic	pcnt_unemployed	14.7
+2201	Alaska	Prince of Wales-Outer Ketchikan	pcnt_unemployed	15.3
+2220	Alaska	Sitka	pcnt_unemployed	6.1
+2232	Alaska	Skagway-Hoonah-Angoon	pcnt_unemployed	15.7
+2240	Alaska	Southeast Fairbanks	pcnt_unemployed	10.9
+2261	Alaska	Valdez-Cordova	pcnt_unemployed	9.1
+2270	Alaska	Wade Hampton	pcnt_unemployed	20.4
+2280	Alaska	Wrangell-Petersburg	pcnt_unemployed	9.8
+2282	Alaska	Yakutat	pcnt_unemployed	10.7
+2290	Alaska	Yukon-Koyukuk	pcnt_unemployed	15.7
+4001	Arizona	Apache	pcnt_unemployed	18.9
+4003	Arizona	Cochise	pcnt_unemployed	8.8
+4005	Arizona	Coconino	pcnt_unemployed	9.2
+4007	Arizona	Gila	pcnt_unemployed	10.8
+4009	Arizona	Graham	pcnt_unemployed	10.5
+4011	Arizona	Greenlee	pcnt_unemployed	8.3
+4012	Arizona	La Paz	pcnt_unemployed	10.3
+4013	Arizona	Maricopa	pcnt_unemployed	8.4
+4015	Arizona	Mohave	pcnt_unemployed	11
+4017	Arizona	Navajo	pcnt_unemployed	16
+4019	Arizona	Pima	pcnt_unemployed	8.4
+4021	Arizona	Pinal	pcnt_unemployed	10.3
+4023	Arizona	Santa Cruz	pcnt_unemployed	17.1
+4025	Arizona	Yavapai	pcnt_unemployed	10
+4027	Arizona	Yuma	pcnt_unemployed	27.1
+5001	Arkansas	Arkansas	pcnt_unemployed	10.8
+5003	Arkansas	Ashley	pcnt_unemployed	11.2
+5005	Arkansas	Baxter	pcnt_unemployed	8.6
+5007	Arkansas	Benton	pcnt_unemployed	6.3
+5009	Arkansas	Boone	pcnt_unemployed	7.4
+5011	Arkansas	Bradley	pcnt_unemployed	11.1
+5013	Arkansas	Calhoun	pcnt_unemployed	9.4
+5015	Arkansas	Carroll	pcnt_unemployed	6.3
+5017	Arkansas	Chicot	pcnt_unemployed	11.9
+5019	Arkansas	Clark	pcnt_unemployed	9.5
+5021	Arkansas	Clay	pcnt_unemployed	13.7
+5023	Arkansas	Cleburne	pcnt_unemployed	7.9
+5025	Arkansas	Cleveland	pcnt_unemployed	7.9
+5027	Arkansas	Columbia	pcnt_unemployed	9.4
+5029	Arkansas	Conway	pcnt_unemployed	8.3
+5031	Arkansas	Craighead	pcnt_unemployed	7.3
+5033	Arkansas	Crawford	pcnt_unemployed	8.5
+5035	Arkansas	Crittenden	pcnt_unemployed	12.6
+5037	Arkansas	Cross	pcnt_unemployed	8.5
+5039	Arkansas	Dallas	pcnt_unemployed	11.1
+5041	Arkansas	Desha	pcnt_unemployed	11.8
+5043	Arkansas	Drew	pcnt_unemployed	11.7
+5045	Arkansas	Faulkner	pcnt_unemployed	7
+5047	Arkansas	Franklin	pcnt_unemployed	7.5
+5049	Arkansas	Fulton	pcnt_unemployed	7.4
+5051	Arkansas	Garland	pcnt_unemployed	8.3
+5053	Arkansas	Grant	pcnt_unemployed	7.2
+5055	Arkansas	Greene	pcnt_unemployed	10
+5057	Arkansas	Hempstead	pcnt_unemployed	8.5
+5059	Arkansas	Hot Spring	pcnt_unemployed	7.6
+5061	Arkansas	Howard	pcnt_unemployed	8
+5063	Arkansas	Independence	pcnt_unemployed	8.8
+5065	Arkansas	Izard	pcnt_unemployed	9.4
+5067	Arkansas	Jackson	pcnt_unemployed	10.6
+5069	Arkansas	Jefferson	pcnt_unemployed	10.6
+5071	Arkansas	Johnson	pcnt_unemployed	7.2
+5073	Arkansas	Lafayette	pcnt_unemployed	9.9
+5075	Arkansas	Lawrence	pcnt_unemployed	9.8
+5077	Arkansas	Lee	pcnt_unemployed	11.3
+5079	Arkansas	Lincoln	pcnt_unemployed	9.4
+5081	Arkansas	Little River	pcnt_unemployed	7.7
+5083	Arkansas	Logan	pcnt_unemployed	8.4
+5085	Arkansas	Lonoke	pcnt_unemployed	6.8
+5087	Arkansas	Madison	pcnt_unemployed	6.2
+5089	Arkansas	Marion	pcnt_unemployed	9.4
+5091	Arkansas	Miller	pcnt_unemployed	7
+5093	Arkansas	Mississippi	pcnt_unemployed	11.1
+5095	Arkansas	Monroe	pcnt_unemployed	9
+5097	Arkansas	Montgomery	pcnt_unemployed	8.3
+5099	Arkansas	Nevada	pcnt_unemployed	9.2
+5101	Arkansas	Newton	pcnt_unemployed	7.8
+5103	Arkansas	Ouachita	pcnt_unemployed	9.4
+5105	Arkansas	Perry	pcnt_unemployed	8.6
+5107	Arkansas	Phillips	pcnt_unemployed	11.4
+5109	Arkansas	Pike	pcnt_unemployed	9.4
+5111	Arkansas	Poinsett	pcnt_unemployed	9
+5113	Arkansas	Polk	pcnt_unemployed	8.3
+5115	Arkansas	Pope	pcnt_unemployed	7.6
+5117	Arkansas	Prairie	pcnt_unemployed	8.2
+5119	Arkansas	Pulaski	pcnt_unemployed	7.2
+5121	Arkansas	Randolph	pcnt_unemployed	10.3
+5123	Arkansas	St. Francis	pcnt_unemployed	11
+5125	Arkansas	Saline	pcnt_unemployed	6.5
+5127	Arkansas	Scott	pcnt_unemployed	6.9
+5129	Arkansas	Searcy	pcnt_unemployed	8.5
+5131	Arkansas	Sebastian	pcnt_unemployed	8.3
+5133	Arkansas	Sevier	pcnt_unemployed	8.3
+5135	Arkansas	Sharp	pcnt_unemployed	10.3
+5137	Arkansas	Stone	pcnt_unemployed	10.2
+5139	Arkansas	Union	pcnt_unemployed	9.7
+5141	Arkansas	Van Buren	pcnt_unemployed	9.8
+5143	Arkansas	Washington	pcnt_unemployed	6
+5145	Arkansas	White	pcnt_unemployed	8.8
+5147	Arkansas	Woodruff	pcnt_unemployed	11.6
+5149	Arkansas	Yell	pcnt_unemployed	6.5
+6001	California	Alameda	pcnt_unemployed	10.4
+6003	California	Alpine	pcnt_unemployed	15.1
+6005	California	Amador	pcnt_unemployed	12.8
+6007	California	Butte	pcnt_unemployed	13.6
+6009	California	Calaveras	pcnt_unemployed	14.6
+6011	California	Colusa	pcnt_unemployed	20.4
+6013	California	Contra Costa	pcnt_unemployed	10.4
+6015	California	Del Norte	pcnt_unemployed	13.4
+6017	California	El Dorado	pcnt_unemployed	11.8
+6019	California	Fresno	pcnt_unemployed	16.5
+6021	California	Glenn	pcnt_unemployed	15.8
+6023	California	Humboldt	pcnt_unemployed	11.3
+6025	California	Imperial	pcnt_unemployed	29.7
+6027	California	Inyo	pcnt_unemployed	9.9
+6029	California	Kern	pcnt_unemployed	14.9
+6031	California	Kings	pcnt_unemployed	16.1
+6033	California	Lake	pcnt_unemployed	16.7
+6035	California	Lassen	pcnt_unemployed	13.5
+6037	California	Los Angeles	pcnt_unemployed	12.3
+6039	California	Madera	pcnt_unemployed	15.3
+6041	California	Marin	pcnt_unemployed	7.4
+6043	California	Mariposa	pcnt_unemployed	11.8
+6045	California	Mendocino	pcnt_unemployed	10.9
+6047	California	Merced	pcnt_unemployed	18.3
+6049	California	Modoc	pcnt_unemployed	14.9
+6051	California	Mono	pcnt_unemployed	10
+6053	California	Monterey	pcnt_unemployed	12.4
+6055	California	Napa	pcnt_unemployed	9
+6057	California	Nevada	pcnt_unemployed	10.6
+6059	California	Orange	pcnt_unemployed	8.7
+6061	California	Placer	pcnt_unemployed	10.8
+6063	California	Plumas	pcnt_unemployed	15.9
+6065	California	Riverside	pcnt_unemployed	13.6
+6067	California	Sacramento	pcnt_unemployed	12.1
+6069	California	San Benito	pcnt_unemployed	15.7
+6071	California	San Bernardino	pcnt_unemployed	13.2
+6073	California	San Diego	pcnt_unemployed	10
+6075	California	San Francisco	pcnt_unemployed	8.6
+6077	California	San Joaquin	pcnt_unemployed	16.8
+6079	California	San Luis Obispo	pcnt_unemployed	9.3
+6081	California	San Mateo	pcnt_unemployed	7.9
+6083	California	Santa Barbara	pcnt_unemployed	8.8
+6085	California	Santa Clara	pcnt_unemployed	9.7
+6087	California	Santa Cruz	pcnt_unemployed	12.1
+6089	California	Shasta	pcnt_unemployed	14.7
+6091	California	Sierra	pcnt_unemployed	14.3
+6093	California	Siskiyou	pcnt_unemployed	16.6
+6095	California	Solano	pcnt_unemployed	11.4
+6097	California	Sonoma	pcnt_unemployed	9.8
+6099	California	Stanislaus	pcnt_unemployed	16.8
+6101	California	Sutter	pcnt_unemployed	18.8
+6103	California	Tehama	pcnt_unemployed	15
+6105	California	Trinity	pcnt_unemployed	17.8
+6107	California	Tulare	pcnt_unemployed	16.6
+6109	California	Tuolumne	pcnt_unemployed	13
+6111	California	Ventura	pcnt_unemployed	10.1
+6113	California	Yolo	pcnt_unemployed	12.4
+6115	California	Yuba	pcnt_unemployed	18.2
+8001	Colorado	Adams	pcnt_unemployed	9.7
+8003	Colorado	Alamosa	pcnt_unemployed	8.1
+8005	Colorado	Arapahoe	pcnt_unemployed	8.2
+8007	Colorado	Archuleta	pcnt_unemployed	9.2
+8009	Colorado	Baca	pcnt_unemployed	3.9
+8011	Colorado	Bent	pcnt_unemployed	7.6
+8013	Colorado	Boulder	pcnt_unemployed	6.2
+8014	Colorado	Broomfield	pcnt_unemployed	7.3
+8015	Colorado	Chaffee	pcnt_unemployed	7.2
+8017	Colorado	Cheyenne	pcnt_unemployed	3.1
+8019	Colorado	Clear Creek	pcnt_unemployed	7.3
+8021	Colorado	Conejos	pcnt_unemployed	9.5
+8023	Colorado	Costilla	pcnt_unemployed	12.6
+8025	Colorado	Crowley	pcnt_unemployed	9.4
+8027	Colorado	Custer	pcnt_unemployed	6.5
+8029	Colorado	Delta	pcnt_unemployed	9.1
+8031	Colorado	Denver	pcnt_unemployed	9.1
+8033	Colorado	Dolores	pcnt_unemployed	11.4
+8035	Colorado	Douglas	pcnt_unemployed	6.4
+8037	Colorado	Eagle	pcnt_unemployed	8.6
+8039	Colorado	Elbert	pcnt_unemployed	7.3
+8041	Colorado	El Paso	pcnt_unemployed	9.2
+8043	Colorado	Fremont	pcnt_unemployed	10
+8045	Colorado	Garfield	pcnt_unemployed	8.8
+8047	Colorado	Gilpin	pcnt_unemployed	6.5
+8049	Colorado	Grand	pcnt_unemployed	8.2
+8051	Colorado	Gunnison	pcnt_unemployed	6.4
+8053	Colorado	Hinsdale	pcnt_unemployed	3.7
+8055	Colorado	Huerfano	pcnt_unemployed	11.3
+8057	Colorado	Jackson	pcnt_unemployed	3.9
+8059	Colorado	Jefferson	pcnt_unemployed	7.9
+8061	Colorado	Kiowa	pcnt_unemployed	3.9
+8063	Colorado	Kit Carson	pcnt_unemployed	4.8
+8065	Colorado	Lake	pcnt_unemployed	11.6
+8067	Colorado	La Plata	pcnt_unemployed	6.8
+8069	Colorado	Larimer	pcnt_unemployed	6.8
+8071	Colorado	Las Animas	pcnt_unemployed	9.8
+8073	Colorado	Lincoln	pcnt_unemployed	4.9
+8075	Colorado	Logan	pcnt_unemployed	6.6
+8077	Colorado	Mesa	pcnt_unemployed	9.6
+8079	Colorado	Mineral	pcnt_unemployed	5
+8081	Colorado	Moffat	pcnt_unemployed	8.5
+8083	Colorado	Montezuma	pcnt_unemployed	8.5
+8085	Colorado	Montrose	pcnt_unemployed	10.9
+8087	Colorado	Morgan	pcnt_unemployed	6.3
+8089	Colorado	Otero	pcnt_unemployed	9.1
+8091	Colorado	Ouray	pcnt_unemployed	7.7
+8093	Colorado	Park	pcnt_unemployed	7.8
+8095	Colorado	Phillips	pcnt_unemployed	4.4
+8097	Colorado	Pitkin	pcnt_unemployed	7.8
+8099	Colorado	Prowers	pcnt_unemployed	5.8
+8101	Colorado	Pueblo	pcnt_unemployed	10.2
+8103	Colorado	Rio Blanco	pcnt_unemployed	5.5
+8105	Colorado	Rio Grande	pcnt_unemployed	9.3
+8107	Colorado	Routt	pcnt_unemployed	8.2
+8109	Colorado	Saguache	pcnt_unemployed	10
+8111	Colorado	San Juan	pcnt_unemployed	10.3
+8113	Colorado	San Miguel	pcnt_unemployed	7.5
+8115	Colorado	Sedgwick	pcnt_unemployed	5.3
+8117	Colorado	Summit	pcnt_unemployed	7.5
+8119	Colorado	Teller	pcnt_unemployed	8.7
+8121	Colorado	Washington	pcnt_unemployed	4.8
+8123	Colorado	Weld	pcnt_unemployed	9.3
+8125	Colorado	Yuma	pcnt_unemployed	3.8
+9001	Connecticut	Fairfield	pcnt_unemployed	8
+9003	Connecticut	Hartford	pcnt_unemployed	9.2
+9005	Connecticut	Litchfield	pcnt_unemployed	8.2
+9007	Connecticut	Middlesex	pcnt_unemployed	7.6
+9009	Connecticut	New Haven	pcnt_unemployed	9.7
+9011	Connecticut	New London	pcnt_unemployed	8.6
+9013	Connecticut	Tolland	pcnt_unemployed	7.4
+9015	Connecticut	Windham	pcnt_unemployed	9.8
 10001	Delaware	Kent	pcnt_unemployed	7.4
 10003	Delaware	New Castle	pcnt_unemployed	7.3
 10005	Delaware	Sussex	pcnt_unemployed	7.3
 11001	District of Columbia	District of Columbia	pcnt_unemployed	10.2
 12001	Florida	Alachua	pcnt_unemployed	7.7
 12003	Florida	Baker	pcnt_unemployed	9.9
-12005	Florida	Bay	pcnt_unemployed	10.0
+12005	Florida	Bay	pcnt_unemployed	10
 12007	Florida	Bradford	pcnt_unemployed	8.8
 12009	Florida	Brevard	pcnt_unemployed	11.1
 12011	Florida	Broward	pcnt_unemployed	9.2
@@ -352,7 +352,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 12067	Florida	Lafayette	pcnt_unemployed	8.1
 12069	Florida	Lake	pcnt_unemployed	11.2
 12071	Florida	Lee	pcnt_unemployed	11.1
-12073	Florida	Leon	pcnt_unemployed	8.0
+12073	Florida	Leon	pcnt_unemployed	8
 12075	Florida	Levy	pcnt_unemployed	11.3
 12077	Florida	Liberty	pcnt_unemployed	8.3
 12079	Florida	Madison	pcnt_unemployed	11.5
@@ -367,12 +367,12 @@ FIPS	State	County	Variable	pcnt_unemployed
 12095	Florida	Orange	pcnt_unemployed	10.3
 12097	Florida	Osceola	pcnt_unemployed	11.6
 12099	Florida	Palm Beach	pcnt_unemployed	10.8
-12101	Florida	Pasco	pcnt_unemployed	12.0
+12101	Florida	Pasco	pcnt_unemployed	12
 12103	Florida	Pinellas	pcnt_unemployed	10.5
 12105	Florida	Polk	pcnt_unemployed	11.6
 12107	Florida	Putnam	pcnt_unemployed	11.9
 12109	Florida	St. Johns	pcnt_unemployed	8.5
-12111	Florida	St. Lucie	pcnt_unemployed	13.0
+12111	Florida	St. Lucie	pcnt_unemployed	13
 12113	Florida	Santa Rosa	pcnt_unemployed	9.1
 12115	Florida	Sarasota	pcnt_unemployed	10.7
 12117	Florida	Seminole	pcnt_unemployed	9.7
@@ -384,8 +384,8 @@ FIPS	State	County	Variable	pcnt_unemployed
 12129	Florida	Wakulla	pcnt_unemployed	8.3
 12131	Florida	Walton	pcnt_unemployed	7.1
 12133	Florida	Washington	pcnt_unemployed	10.9
-13001	Georgia	Appling	pcnt_unemployed	11.0
-13003	Georgia	Atkinson	pcnt_unemployed	14.0
+13001	Georgia	Appling	pcnt_unemployed	11
+13003	Georgia	Atkinson	pcnt_unemployed	14
 13005	Georgia	Bacon	pcnt_unemployed	9.9
 13007	Georgia	Baker	pcnt_unemployed	8.9
 13009	Georgia	Baldwin	pcnt_unemployed	13.7
@@ -393,7 +393,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 13013	Georgia	Barrow	pcnt_unemployed	9.3
 13015	Georgia	Bartow	pcnt_unemployed	10.2
 13017	Georgia	Ben Hill	pcnt_unemployed	13.8
-13019	Georgia	Berrien	pcnt_unemployed	12.0
+13019	Georgia	Berrien	pcnt_unemployed	12
 13021	Georgia	Bibb	pcnt_unemployed	10.5
 13023	Georgia	Bleckley	pcnt_unemployed	13.7
 13025	Georgia	Brantley	pcnt_unemployed	11.5
@@ -426,7 +426,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 13081	Georgia	Crisp	pcnt_unemployed	13.3
 13083	Georgia	Dade	pcnt_unemployed	8.1
 13085	Georgia	Dawson	pcnt_unemployed	8.9
-13087	Georgia	Decatur	pcnt_unemployed	13.0
+13087	Georgia	Decatur	pcnt_unemployed	13
 13089	Georgia	DeKalb	pcnt_unemployed	10.1
 13091	Georgia	Dodge	pcnt_unemployed	11.7
 13093	Georgia	Dooly	pcnt_unemployed	14.2
@@ -455,7 +455,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 13139	Georgia	Hall	pcnt_unemployed	8.1
 13141	Georgia	Hancock	pcnt_unemployed	20.1
 13143	Georgia	Haralson	pcnt_unemployed	10.4
-13145	Georgia	Harris	pcnt_unemployed	7.0
+13145	Georgia	Harris	pcnt_unemployed	7
 13147	Georgia	Hart	pcnt_unemployed	11.6
 13149	Georgia	Heard	pcnt_unemployed	10.9
 13151	Georgia	Henry	pcnt_unemployed	9.7
@@ -471,7 +471,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 13171	Georgia	Lamar	pcnt_unemployed	11.8
 13173	Georgia	Lanier	pcnt_unemployed	8.5
 13175	Georgia	Laurens	pcnt_unemployed	12.8
-13177	Georgia	Lee	pcnt_unemployed	8.0
+13177	Georgia	Lee	pcnt_unemployed	8
 13179	Georgia	Liberty	pcnt_unemployed	9.7
 13181	Georgia	Lincoln	pcnt_unemployed	10.8
 13183	Georgia	Long	pcnt_unemployed	7.2
@@ -486,9 +486,9 @@ FIPS	State	County	Variable	pcnt_unemployed
 13201	Georgia	Miller	pcnt_unemployed	6.9
 13205	Georgia	Mitchell	pcnt_unemployed	9.8
 13207	Georgia	Monroe	pcnt_unemployed	8.8
-13209	Georgia	Montgomery	pcnt_unemployed	11.0
-13211	Georgia	Morgan	pcnt_unemployed	9.0
-13213	Georgia	Murray	pcnt_unemployed	13.0
+13209	Georgia	Montgomery	pcnt_unemployed	11
+13211	Georgia	Morgan	pcnt_unemployed	9
+13213	Georgia	Murray	pcnt_unemployed	13
 13215	Georgia	Muscogee	pcnt_unemployed	9.4
 13217	Georgia	Newton	pcnt_unemployed	11.5
 13219	Georgia	Oconee	pcnt_unemployed	6.1
@@ -499,7 +499,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 13229	Georgia	Pierce	pcnt_unemployed	9.8
 13231	Georgia	Pike	pcnt_unemployed	9.8
 13233	Georgia	Polk	pcnt_unemployed	10.1
-13235	Georgia	Pulaski	pcnt_unemployed	10.0
+13235	Georgia	Pulaski	pcnt_unemployed	10
 13237	Georgia	Putnam	pcnt_unemployed	11.5
 13239	Georgia	Quitman	pcnt_unemployed	12.3
 13241	Georgia	Rabun	pcnt_unemployed	12.5
@@ -540,7 +540,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 13311	Georgia	White	pcnt_unemployed	9.8
 13313	Georgia	Whitfield	pcnt_unemployed	12.1
 13315	Georgia	Wilcox	pcnt_unemployed	13.1
-13317	Georgia	Wilkes	pcnt_unemployed	12.0
+13317	Georgia	Wilkes	pcnt_unemployed	12
 13319	Georgia	Wilkinson	pcnt_unemployed	10.5
 13321	Georgia	Worth	pcnt_unemployed	9.9
 15001	Hawaii	Hawaii	pcnt_unemployed	9.9
@@ -548,9 +548,9 @@ FIPS	State	County	Variable	pcnt_unemployed
 15005	Hawaii	Kalawao	pcnt_unemployed	
 15007	Hawaii	Kauai	pcnt_unemployed	8.8
 15009	Hawaii	Maui	pcnt_unemployed	7.9
-16001	Idaho	Ada	pcnt_unemployed	8.0
+16001	Idaho	Ada	pcnt_unemployed	8
 16003	Idaho	Adams	pcnt_unemployed	17.3
-16005	Idaho	Bannock	pcnt_unemployed	8.0
+16005	Idaho	Bannock	pcnt_unemployed	8
 16007	Idaho	Bear Lake	pcnt_unemployed	5.5
 16009	Idaho	Benewah	pcnt_unemployed	13.7
 16011	Idaho	Bingham	pcnt_unemployed	7.3
@@ -567,7 +567,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 16033	Idaho	Clark	pcnt_unemployed	8.4
 16035	Idaho	Clearwater	pcnt_unemployed	14.9
 16037	Idaho	Custer	pcnt_unemployed	7.3
-16039	Idaho	Elmore	pcnt_unemployed	9.0
+16039	Idaho	Elmore	pcnt_unemployed	9
 16041	Idaho	Franklin	pcnt_unemployed	5.7
 16043	Idaho	Fremont	pcnt_unemployed	8.2
 16045	Idaho	Gem	pcnt_unemployed	11.4
@@ -584,12 +584,12 @@ FIPS	State	County	Variable	pcnt_unemployed
 16067	Idaho	Minidoka	pcnt_unemployed	7.3
 16069	Idaho	Nez Perce	pcnt_unemployed	6.9
 16071	Idaho	Oneida	pcnt_unemployed	5.1
-16073	Idaho	Owyhee	pcnt_unemployed	5.0
+16073	Idaho	Owyhee	pcnt_unemployed	5
 16075	Idaho	Payette	pcnt_unemployed	9.6
 16077	Idaho	Power	pcnt_unemployed	9.2
 16079	Idaho	Shoshone	pcnt_unemployed	13.7
 16081	Idaho	Teton	pcnt_unemployed	6.7
-16083	Idaho	Twin Falls	pcnt_unemployed	8.0
+16083	Idaho	Twin Falls	pcnt_unemployed	8
 16085	Idaho	Valley	pcnt_unemployed	15.2
 16087	Idaho	Washington	pcnt_unemployed	10.1
 17001	Illinois	Adams	pcnt_unemployed	6.6
@@ -605,7 +605,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 17021	Illinois	Christian	pcnt_unemployed	9.4
 17023	Illinois	Clark	pcnt_unemployed	11.2
 17025	Illinois	Clay	pcnt_unemployed	11.4
-17027	Illinois	Clinton	pcnt_unemployed	8.0
+17027	Illinois	Clinton	pcnt_unemployed	8
 17029	Illinois	Coles	pcnt_unemployed	9.3
 17031	Illinois	Cook	pcnt_unemployed	10.4
 17033	Illinois	Crawford	pcnt_unemployed	8.5
@@ -613,7 +613,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 17037	Illinois	DeKalb	pcnt_unemployed	9.2
 17039	Illinois	De Witt	pcnt_unemployed	8.5
 17041	Illinois	Douglas	pcnt_unemployed	8.7
-17043	Illinois	DuPage	pcnt_unemployed	8.0
+17043	Illinois	DuPage	pcnt_unemployed	8
 17045	Illinois	Edgar	pcnt_unemployed	10.2
 17047	Illinois	Edwards	pcnt_unemployed	8.6
 17049	Illinois	Effingham	pcnt_unemployed	7.3
@@ -629,7 +629,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 17069	Illinois	Hardin	pcnt_unemployed	11.3
 17071	Illinois	Henderson	pcnt_unemployed	7.9
 17073	Illinois	Henry	pcnt_unemployed	7.7
-17075	Illinois	Iroquois	pcnt_unemployed	9.0
+17075	Illinois	Iroquois	pcnt_unemployed	9
 17077	Illinois	Jackson	pcnt_unemployed	7.7
 17079	Illinois	Jasper	pcnt_unemployed	8.4
 17081	Illinois	Jefferson	pcnt_unemployed	8.7
@@ -643,24 +643,24 @@ FIPS	State	County	Variable	pcnt_unemployed
 17097	Illinois	Lake	pcnt_unemployed	9.4
 17099	Illinois	LaSalle	pcnt_unemployed	11.5
 17101	Illinois	Lawrence	pcnt_unemployed	8.8
-17103	Illinois	Lee	pcnt_unemployed	10.0
+17103	Illinois	Lee	pcnt_unemployed	10
 17105	Illinois	Livingston	pcnt_unemployed	8.9
 17107	Illinois	Logan	pcnt_unemployed	8.4
 17109	Illinois	McDonough	pcnt_unemployed	7.6
 17111	Illinois	McHenry	pcnt_unemployed	9.4
 17113	Illinois	McLean	pcnt_unemployed	7.2
 17115	Illinois	Macon	pcnt_unemployed	10.6
-17117	Illinois	Macoupin	pcnt_unemployed	10.0
-17119	Illinois	Madison	pcnt_unemployed	9.0
+17117	Illinois	Macoupin	pcnt_unemployed	10
+17119	Illinois	Madison	pcnt_unemployed	9
 17121	Illinois	Marion	pcnt_unemployed	11.1
 17123	Illinois	Marshall	pcnt_unemployed	8.8
 17125	Illinois	Mason	pcnt_unemployed	10.7
-17127	Illinois	Massac	pcnt_unemployed	9.0
+17127	Illinois	Massac	pcnt_unemployed	9
 17129	Illinois	Menard	pcnt_unemployed	7.5
 17131	Illinois	Mercer	pcnt_unemployed	8.9
 17133	Illinois	Monroe	pcnt_unemployed	7.4
 17135	Illinois	Montgomery	pcnt_unemployed	12.6
-17137	Illinois	Morgan	pcnt_unemployed	9.0
+17137	Illinois	Morgan	pcnt_unemployed	9
 17139	Illinois	Moultrie	pcnt_unemployed	7.7
 17141	Illinois	Ogle	pcnt_unemployed	12.1
 17143	Illinois	Peoria	pcnt_unemployed	9.5
@@ -693,12 +693,12 @@ FIPS	State	County	Variable	pcnt_unemployed
 17197	Illinois	Will	pcnt_unemployed	10.1
 17199	Illinois	Williamson	pcnt_unemployed	8.9
 17201	Illinois	Winnebago	pcnt_unemployed	12.7
-17203	Illinois	Woodford	pcnt_unemployed	7.0
+17203	Illinois	Woodford	pcnt_unemployed	7
 18001	Indiana	Adams	pcnt_unemployed	8.4
 18003	Indiana	Allen	pcnt_unemployed	9.1
 18005	Indiana	Bartholomew	pcnt_unemployed	7.4
 18007	Indiana	Benton	pcnt_unemployed	8.7
-18009	Indiana	Blackford	pcnt_unemployed	11.0
+18009	Indiana	Blackford	pcnt_unemployed	11
 18011	Indiana	Boone	pcnt_unemployed	7.3
 18013	Indiana	Brown	pcnt_unemployed	8.4
 18015	Indiana	Carroll	pcnt_unemployed	8.2
@@ -707,7 +707,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 18021	Indiana	Clay	pcnt_unemployed	10.7
 18023	Indiana	Clinton	pcnt_unemployed	8.7
 18025	Indiana	Crawford	pcnt_unemployed	10.9
-18027	Indiana	Daviess	pcnt_unemployed	6.0
+18027	Indiana	Daviess	pcnt_unemployed	6
 18029	Indiana	Dearborn	pcnt_unemployed	8.9
 18031	Indiana	Decatur	pcnt_unemployed	10.2
 18033	Indiana	DeKalb	pcnt_unemployed	9.9
@@ -715,11 +715,11 @@ FIPS	State	County	Variable	pcnt_unemployed
 18037	Indiana	Dubois	pcnt_unemployed	6.1
 18039	Indiana	Elkhart	pcnt_unemployed	11.2
 18041	Indiana	Fayette	pcnt_unemployed	12.7
-18043	Indiana	Floyd	pcnt_unemployed	8.0
+18043	Indiana	Floyd	pcnt_unemployed	8
 18045	Indiana	Fountain	pcnt_unemployed	9.6
 18047	Indiana	Franklin	pcnt_unemployed	9.1
 18049	Indiana	Fulton	pcnt_unemployed	9.3
-18051	Indiana	Gibson	pcnt_unemployed	8.0
+18051	Indiana	Gibson	pcnt_unemployed	8
 18053	Indiana	Grant	pcnt_unemployed	10.5
 18055	Indiana	Greene	pcnt_unemployed	9.1
 18057	Indiana	Hamilton	pcnt_unemployed	6.3
@@ -733,7 +733,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 18073	Indiana	Jasper	pcnt_unemployed	8.8
 18075	Indiana	Jay	pcnt_unemployed	8.2
 18077	Indiana	Jefferson	pcnt_unemployed	9.2
-18079	Indiana	Jennings	pcnt_unemployed	11.0
+18079	Indiana	Jennings	pcnt_unemployed	11
 18081	Indiana	Johnson	pcnt_unemployed	7.7
 18083	Indiana	Knox	pcnt_unemployed	6.7
 18085	Indiana	Kosciusko	pcnt_unemployed	8.3
@@ -745,15 +745,15 @@ FIPS	State	County	Variable	pcnt_unemployed
 18097	Indiana	Marion	pcnt_unemployed	9.4
 18099	Indiana	Marshall	pcnt_unemployed	9.9
 18101	Indiana	Martin	pcnt_unemployed	7.4
-18103	Indiana	Miami	pcnt_unemployed	11.0
+18103	Indiana	Miami	pcnt_unemployed	11
 18105	Indiana	Monroe	pcnt_unemployed	7.1
 18107	Indiana	Montgomery	pcnt_unemployed	8.8
 18109	Indiana	Morgan	pcnt_unemployed	8.9
 18111	Indiana	Newton	pcnt_unemployed	9.5
 18113	Indiana	Noble	pcnt_unemployed	10.6
 18115	Indiana	Ohio	pcnt_unemployed	8.8
-18117	Indiana	Orange	pcnt_unemployed	10.0
-18119	Indiana	Owen	pcnt_unemployed	10.0
+18117	Indiana	Orange	pcnt_unemployed	10
+18119	Indiana	Owen	pcnt_unemployed	10
 18121	Indiana	Parke	pcnt_unemployed	9.8
 18123	Indiana	Perry	pcnt_unemployed	8.6
 18125	Indiana	Pike	pcnt_unemployed	7.8
@@ -767,11 +767,11 @@ FIPS	State	County	Variable	pcnt_unemployed
 18141	Indiana	St. Joseph	pcnt_unemployed	10.1
 18143	Indiana	Scott	pcnt_unemployed	11.2
 18145	Indiana	Shelby	pcnt_unemployed	8.7
-18147	Indiana	Spencer	pcnt_unemployed	8.0
+18147	Indiana	Spencer	pcnt_unemployed	8
 18149	Indiana	Starke	pcnt_unemployed	10.9
 18151	Indiana	Steuben	pcnt_unemployed	10.2
 18153	Indiana	Sullivan	pcnt_unemployed	10.1
-18155	Indiana	Switzerland	pcnt_unemployed	7.0
+18155	Indiana	Switzerland	pcnt_unemployed	7
 18157	Indiana	Tippecanoe	pcnt_unemployed	7.7
 18159	Indiana	Tipton	pcnt_unemployed	10.3
 18161	Indiana	Union	pcnt_unemployed	9.1
@@ -780,7 +780,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 18167	Indiana	Vigo	pcnt_unemployed	10.2
 18169	Indiana	Wabash	pcnt_unemployed	9.2
 18171	Indiana	Warren	pcnt_unemployed	7.1
-18173	Indiana	Warrick	pcnt_unemployed	7.0
+18173	Indiana	Warrick	pcnt_unemployed	7
 18175	Indiana	Washington	pcnt_unemployed	9.4
 18177	Indiana	Wayne	pcnt_unemployed	11.2
 18179	Indiana	Wells	pcnt_unemployed	8.3
@@ -796,10 +796,10 @@ FIPS	State	County	Variable	pcnt_unemployed
 19015	Iowa	Boone	pcnt_unemployed	5.1
 19017	Iowa	Bremer	pcnt_unemployed	4.6
 19019	Iowa	Buchanan	pcnt_unemployed	6.1
-19021	Iowa	Buena Vista	pcnt_unemployed	5.0
+19021	Iowa	Buena Vista	pcnt_unemployed	5
 19023	Iowa	Butler	pcnt_unemployed	5.1
 19025	Iowa	Calhoun	pcnt_unemployed	5.2
-19027	Iowa	Carroll	pcnt_unemployed	4.0
+19027	Iowa	Carroll	pcnt_unemployed	4
 19029	Iowa	Cass	pcnt_unemployed	6.2
 19031	Iowa	Cedar	pcnt_unemployed	5.3
 19033	Iowa	Cerro Gordo	pcnt_unemployed	6.4
@@ -811,7 +811,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 19045	Iowa	Clinton	pcnt_unemployed	6.6
 19047	Iowa	Crawford	pcnt_unemployed	4.6
 19049	Iowa	Dallas	pcnt_unemployed	4.8
-19051	Iowa	Davis	pcnt_unemployed	7.0
+19051	Iowa	Davis	pcnt_unemployed	7
 19053	Iowa	Decatur	pcnt_unemployed	5.5
 19055	Iowa	Delaware	pcnt_unemployed	5.5
 19057	Iowa	Des Moines	pcnt_unemployed	7.2
@@ -822,7 +822,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 19067	Iowa	Floyd	pcnt_unemployed	6.8
 19069	Iowa	Franklin	pcnt_unemployed	5.5
 19071	Iowa	Fremont	pcnt_unemployed	6.4
-19073	Iowa	Greene	pcnt_unemployed	6.0
+19073	Iowa	Greene	pcnt_unemployed	6
 19075	Iowa	Grundy	pcnt_unemployed	5.1
 19077	Iowa	Guthrie	pcnt_unemployed	6.3
 19079	Iowa	Hamilton	pcnt_unemployed	9.9
@@ -830,10 +830,10 @@ FIPS	State	County	Variable	pcnt_unemployed
 19083	Iowa	Hardin	pcnt_unemployed	6.3
 19085	Iowa	Harrison	pcnt_unemployed	5.2
 19087	Iowa	Henry	pcnt_unemployed	7.6
-19089	Iowa	Howard	pcnt_unemployed	6.0
+19089	Iowa	Howard	pcnt_unemployed	6
 19091	Iowa	Humboldt	pcnt_unemployed	5.3
-19093	Iowa	Ida	pcnt_unemployed	5.0
-19095	Iowa	Iowa	pcnt_unemployed	6.0
+19093	Iowa	Ida	pcnt_unemployed	5
+19095	Iowa	Iowa	pcnt_unemployed	6
 19097	Iowa	Jackson	pcnt_unemployed	6.9
 19099	Iowa	Jasper	pcnt_unemployed	7.9
 19101	Iowa	Jefferson	pcnt_unemployed	7.3
@@ -842,16 +842,16 @@ FIPS	State	County	Variable	pcnt_unemployed
 19107	Iowa	Keokuk	pcnt_unemployed	6.4
 19109	Iowa	Kossuth	pcnt_unemployed	4.3
 19111	Iowa	Lee	pcnt_unemployed	9.3
-19113	Iowa	Linn	pcnt_unemployed	6.0
+19113	Iowa	Linn	pcnt_unemployed	6
 19115	Iowa	Louisa	pcnt_unemployed	6.3
 19117	Iowa	Lucas	pcnt_unemployed	5.1
-19119	Iowa	Lyon	pcnt_unemployed	3.0
+19119	Iowa	Lyon	pcnt_unemployed	3
 19121	Iowa	Madison	pcnt_unemployed	6.4
 19123	Iowa	Mahaska	pcnt_unemployed	6.3
 19125	Iowa	Marion	pcnt_unemployed	5.9
-19127	Iowa	Marshall	pcnt_unemployed	7.0
+19127	Iowa	Marshall	pcnt_unemployed	7
 19129	Iowa	Mills	pcnt_unemployed	4.4
-19131	Iowa	Mitchell	pcnt_unemployed	5.0
+19131	Iowa	Mitchell	pcnt_unemployed	5
 19133	Iowa	Monona	pcnt_unemployed	7.7
 19135	Iowa	Monroe	pcnt_unemployed	6.6
 19137	Iowa	Montgomery	pcnt_unemployed	6.4
@@ -877,26 +877,26 @@ FIPS	State	County	Variable	pcnt_unemployed
 19177	Iowa	Van Buren	pcnt_unemployed	7.1
 19179	Iowa	Wapello	pcnt_unemployed	7.6
 19181	Iowa	Warren	pcnt_unemployed	5.5
-19183	Iowa	Washington	pcnt_unemployed	5.0
+19183	Iowa	Washington	pcnt_unemployed	5
 19185	Iowa	Wayne	pcnt_unemployed	5.1
-19187	Iowa	Webster	pcnt_unemployed	8.0
+19187	Iowa	Webster	pcnt_unemployed	8
 19189	Iowa	Winnebago	pcnt_unemployed	6.6
 19191	Iowa	Winneshiek	pcnt_unemployed	5.2
 19193	Iowa	Woodbury	pcnt_unemployed	5.9
 19195	Iowa	Worth	pcnt_unemployed	6.6
 19197	Iowa	Wright	pcnt_unemployed	7.2
 20001	Kansas	Allen	pcnt_unemployed	7.4
-20003	Kansas	Anderson	pcnt_unemployed	8.0
+20003	Kansas	Anderson	pcnt_unemployed	8
 20005	Kansas	Atchison	pcnt_unemployed	8.3
-20007	Kansas	Barber	pcnt_unemployed	4.0
-20009	Kansas	Barton	pcnt_unemployed	5.0
+20007	Kansas	Barber	pcnt_unemployed	4
+20009	Kansas	Barton	pcnt_unemployed	5
 20011	Kansas	Bourbon	pcnt_unemployed	7.5
 20013	Kansas	Brown	pcnt_unemployed	5.6
 20015	Kansas	Butler	pcnt_unemployed	7.7
 20017	Kansas	Chase	pcnt_unemployed	4.7
 20019	Kansas	Chautauqua	pcnt_unemployed	7.8
 20021	Kansas	Cherokee	pcnt_unemployed	7.8
-20023	Kansas	Cheyenne	pcnt_unemployed	4.0
+20023	Kansas	Cheyenne	pcnt_unemployed	4
 20025	Kansas	Clark	pcnt_unemployed	3.7
 20027	Kansas	Clay	pcnt_unemployed	4.8
 20029	Kansas	Cloud	pcnt_unemployed	4.5
@@ -906,27 +906,27 @@ FIPS	State	County	Variable	pcnt_unemployed
 20037	Kansas	Crawford	pcnt_unemployed	7.7
 20039	Kansas	Decatur	pcnt_unemployed	4.4
 20041	Kansas	Dickinson	pcnt_unemployed	6.3
-20043	Kansas	Doniphan	pcnt_unemployed	8.0
-20045	Kansas	Douglas	pcnt_unemployed	6.0
+20043	Kansas	Doniphan	pcnt_unemployed	8
+20045	Kansas	Douglas	pcnt_unemployed	6
 20047	Kansas	Edwards	pcnt_unemployed	4.2
 20049	Kansas	Elk	pcnt_unemployed	7.1
 20051	Kansas	Ellis	pcnt_unemployed	3.4
 20053	Kansas	Ellsworth	pcnt_unemployed	3.9
 20055	Kansas	Finney	pcnt_unemployed	4.3
-20057	Kansas	Ford	pcnt_unemployed	4.0
+20057	Kansas	Ford	pcnt_unemployed	4
 20059	Kansas	Franklin	pcnt_unemployed	8.5
 20061	Kansas	Geary	pcnt_unemployed	8.1
 20063	Kansas	Gove	pcnt_unemployed	3.1
-20065	Kansas	Graham	pcnt_unemployed	4.0
+20065	Kansas	Graham	pcnt_unemployed	4
 20067	Kansas	Grant	pcnt_unemployed	4.2
 20069	Kansas	Gray	pcnt_unemployed	3.2
 20071	Kansas	Greeley	pcnt_unemployed	3.5
 20073	Kansas	Greenwood	pcnt_unemployed	6.8
-20075	Kansas	Hamilton	pcnt_unemployed	4.0
-20077	Kansas	Harper	pcnt_unemployed	5.0
+20075	Kansas	Hamilton	pcnt_unemployed	4
+20077	Kansas	Harper	pcnt_unemployed	5
 20079	Kansas	Harvey	pcnt_unemployed	6.5
 20081	Kansas	Haskell	pcnt_unemployed	3.7
-20083	Kansas	Hodgeman	pcnt_unemployed	4.0
+20083	Kansas	Hodgeman	pcnt_unemployed	4
 20085	Kansas	Jackson	pcnt_unemployed	6.8
 20087	Kansas	Jefferson	pcnt_unemployed	7.5
 20089	Kansas	Jewell	pcnt_unemployed	3.9
@@ -946,17 +946,17 @@ FIPS	State	County	Variable	pcnt_unemployed
 20117	Kansas	Marshall	pcnt_unemployed	4.6
 20119	Kansas	Meade	pcnt_unemployed	3.7
 20121	Kansas	Miami	pcnt_unemployed	7.6
-20123	Kansas	Mitchell	pcnt_unemployed	4.0
-20125	Kansas	Montgomery	pcnt_unemployed	10.0
+20123	Kansas	Mitchell	pcnt_unemployed	4
+20125	Kansas	Montgomery	pcnt_unemployed	10
 20127	Kansas	Morris	pcnt_unemployed	7.3
 20129	Kansas	Morton	pcnt_unemployed	3.9
 20131	Kansas	Nemaha	pcnt_unemployed	3.7
 20133	Kansas	Neosho	pcnt_unemployed	7.9
-20135	Kansas	Ness	pcnt_unemployed	3.0
+20135	Kansas	Ness	pcnt_unemployed	3
 20137	Kansas	Norton	pcnt_unemployed	4.3
 20139	Kansas	Osage	pcnt_unemployed	8.5
 20141	Kansas	Osborne	pcnt_unemployed	4.4
-20143	Kansas	Ottawa	pcnt_unemployed	6.0
+20143	Kansas	Ottawa	pcnt_unemployed	6
 20145	Kansas	Pawnee	pcnt_unemployed	4.6
 20147	Kansas	Phillips	pcnt_unemployed	4.9
 20149	Kansas	Pottawatomie	pcnt_unemployed	5.3
@@ -965,7 +965,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 20155	Kansas	Reno	pcnt_unemployed	5.9
 20157	Kansas	Republic	pcnt_unemployed	3.7
 20159	Kansas	Rice	pcnt_unemployed	4.7
-20161	Kansas	Riley	pcnt_unemployed	5.0
+20161	Kansas	Riley	pcnt_unemployed	5
 20163	Kansas	Rooks	pcnt_unemployed	5.6
 20165	Kansas	Rush	pcnt_unemployed	4.7
 20167	Kansas	Russell	pcnt_unemployed	4.9
@@ -973,13 +973,13 @@ FIPS	State	County	Variable	pcnt_unemployed
 20171	Kansas	Scott	pcnt_unemployed	3.5
 20173	Kansas	Sedgwick	pcnt_unemployed	8.2
 20175	Kansas	Seward	pcnt_unemployed	4.6
-20177	Kansas	Shawnee	pcnt_unemployed	7.0
-20179	Kansas	Sheridan	pcnt_unemployed	3.0
+20177	Kansas	Shawnee	pcnt_unemployed	7
+20179	Kansas	Sheridan	pcnt_unemployed	3
 20181	Kansas	Sherman	pcnt_unemployed	3.3
 20183	Kansas	Smith	pcnt_unemployed	4.1
 20185	Kansas	Stafford	pcnt_unemployed	5.3
 20187	Kansas	Stanton	pcnt_unemployed	3.6
-20189	Kansas	Stevens	pcnt_unemployed	5.0
+20189	Kansas	Stevens	pcnt_unemployed	5
 20191	Kansas	Sumner	pcnt_unemployed	7.4
 20193	Kansas	Thomas	pcnt_unemployed	3.9
 20195	Kansas	Trego	pcnt_unemployed	3.9
@@ -998,8 +998,8 @@ FIPS	State	County	Variable	pcnt_unemployed
 21011	Kentucky	Bath	pcnt_unemployed	12.2
 21013	Kentucky	Bell	pcnt_unemployed	13.2
 21015	Kentucky	Boone	pcnt_unemployed	8.1
-21017	Kentucky	Bourbon	pcnt_unemployed	9.0
-21019	Kentucky	Boyd	pcnt_unemployed	9.0
+21017	Kentucky	Bourbon	pcnt_unemployed	9
+21019	Kentucky	Boyd	pcnt_unemployed	9
 21021	Kentucky	Boyle	pcnt_unemployed	11.4
 21023	Kentucky	Bracken	pcnt_unemployed	10.8
 21025	Kentucky	Breathitt	pcnt_unemployed	10.4
@@ -1007,7 +1007,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 21029	Kentucky	Bullitt	pcnt_unemployed	10.6
 21031	Kentucky	Butler	pcnt_unemployed	10.6
 21033	Kentucky	Caldwell	pcnt_unemployed	8.2
-21035	Kentucky	Calloway	pcnt_unemployed	8.0
+21035	Kentucky	Calloway	pcnt_unemployed	8
 21037	Kentucky	Campbell	pcnt_unemployed	9.3
 21039	Kentucky	Carlisle	pcnt_unemployed	8.4
 21041	Kentucky	Carroll	pcnt_unemployed	11.3
@@ -1030,24 +1030,24 @@ FIPS	State	County	Variable	pcnt_unemployed
 21075	Kentucky	Fulton	pcnt_unemployed	14.6
 21077	Kentucky	Gallatin	pcnt_unemployed	9.5
 21079	Kentucky	Garrard	pcnt_unemployed	10.3
-21081	Kentucky	Grant	pcnt_unemployed	10.0
+21081	Kentucky	Grant	pcnt_unemployed	10
 21083	Kentucky	Graves	pcnt_unemployed	9.3
 21085	Kentucky	Grayson	pcnt_unemployed	12.3
 21087	Kentucky	Green	pcnt_unemployed	9.5
 21089	Kentucky	Greenup	pcnt_unemployed	9.6
 21091	Kentucky	Hancock	pcnt_unemployed	8.2
-21093	Kentucky	Hardin	pcnt_unemployed	9.0
+21093	Kentucky	Hardin	pcnt_unemployed	9
 21095	Kentucky	Harlan	pcnt_unemployed	10.6
 21097	Kentucky	Harrison	pcnt_unemployed	9.8
 21099	Kentucky	Hart	pcnt_unemployed	9.5
 21101	Kentucky	Henderson	pcnt_unemployed	8.7
 21103	Kentucky	Henry	pcnt_unemployed	9.2
 21105	Kentucky	Hickman	pcnt_unemployed	9.8
-21107	Kentucky	Hopkins	pcnt_unemployed	8.0
+21107	Kentucky	Hopkins	pcnt_unemployed	8
 21109	Kentucky	Jackson	pcnt_unemployed	16.2
-21111	Kentucky	Jefferson	pcnt_unemployed	10.0
+21111	Kentucky	Jefferson	pcnt_unemployed	10
 21113	Kentucky	Jessamine	pcnt_unemployed	8.4
-21115	Kentucky	Johnson	pcnt_unemployed	10.0
+21115	Kentucky	Johnson	pcnt_unemployed	10
 21117	Kentucky	Kenton	pcnt_unemployed	8.9
 21119	Kentucky	Knott	pcnt_unemployed	11.1
 21121	Kentucky	Knox	pcnt_unemployed	11.6
@@ -1074,14 +1074,14 @@ FIPS	State	County	Variable	pcnt_unemployed
 21163	Kentucky	Meade	pcnt_unemployed	12.7
 21165	Kentucky	Menifee	pcnt_unemployed	15.2
 21167	Kentucky	Mercer	pcnt_unemployed	10.6
-21169	Kentucky	Metcalfe	pcnt_unemployed	12.0
+21169	Kentucky	Metcalfe	pcnt_unemployed	12
 21171	Kentucky	Monroe	pcnt_unemployed	9.3
 21173	Kentucky	Montgomery	pcnt_unemployed	10.6
-21175	Kentucky	Morgan	pcnt_unemployed	12.0
+21175	Kentucky	Morgan	pcnt_unemployed	12
 21177	Kentucky	Muhlenberg	pcnt_unemployed	9.8
 21179	Kentucky	Nelson	pcnt_unemployed	11.6
 21181	Kentucky	Nicholas	pcnt_unemployed	10.3
-21183	Kentucky	Ohio	pcnt_unemployed	8.0
+21183	Kentucky	Ohio	pcnt_unemployed	8
 21185	Kentucky	Oldham	pcnt_unemployed	7.6
 21187	Kentucky	Owen	pcnt_unemployed	8.3
 21189	Kentucky	Owsley	pcnt_unemployed	11.6
@@ -1122,7 +1122,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 22019	Louisiana	Calcasieu	pcnt_unemployed	6.9
 22021	Louisiana	Caldwell	pcnt_unemployed	8.9
 22023	Louisiana	Cameron	pcnt_unemployed	5.8
-22025	Louisiana	Catahoula	pcnt_unemployed	10.0
+22025	Louisiana	Catahoula	pcnt_unemployed	10
 22027	Louisiana	Claiborne	pcnt_unemployed	8.9
 22029	Louisiana	Concordia	pcnt_unemployed	11.1
 22031	Louisiana	De Soto	pcnt_unemployed	7.8
@@ -1132,23 +1132,23 @@ FIPS	State	County	Variable	pcnt_unemployed
 22039	Louisiana	Evangeline	pcnt_unemployed	8.3
 22041	Louisiana	Franklin	pcnt_unemployed	11.9
 22043	Louisiana	Grant	pcnt_unemployed	7.3
-22045	Louisiana	Iberia	pcnt_unemployed	7.0
+22045	Louisiana	Iberia	pcnt_unemployed	7
 22047	Louisiana	Iberville	pcnt_unemployed	10.8
-22049	Louisiana	Jackson	pcnt_unemployed	8.0
+22049	Louisiana	Jackson	pcnt_unemployed	8
 22051	Louisiana	Jefferson	pcnt_unemployed	6.8
 22053	Louisiana	Jefferson Davis	pcnt_unemployed	6.1
 22055	Louisiana	Lafayette	pcnt_unemployed	5.5
 22057	Louisiana	Lafourche	pcnt_unemployed	5.3
 22059	Louisiana	La Salle	pcnt_unemployed	5.4
 22061	Louisiana	Lincoln	pcnt_unemployed	8.7
-22063	Louisiana	Livingston	pcnt_unemployed	7.0
+22063	Louisiana	Livingston	pcnt_unemployed	7
 22065	Louisiana	Madison	pcnt_unemployed	11.3
 22067	Louisiana	Morehouse	pcnt_unemployed	13.7
 22069	Louisiana	Natchitoches	pcnt_unemployed	8.4
 22071	Louisiana	Orleans	pcnt_unemployed	8.8
 22073	Louisiana	Ouachita	pcnt_unemployed	7.7
 22075	Louisiana	Plaquemines	pcnt_unemployed	6.9
-22077	Louisiana	Pointe Coupee	pcnt_unemployed	9.0
+22077	Louisiana	Pointe Coupee	pcnt_unemployed	9
 22079	Louisiana	Rapides	pcnt_unemployed	7.1
 22081	Louisiana	Red River	pcnt_unemployed	8.1
 22083	Louisiana	Richland	pcnt_unemployed	10.1
@@ -1162,10 +1162,10 @@ FIPS	State	County	Variable	pcnt_unemployed
 22099	Louisiana	St. Martin	pcnt_unemployed	6.9
 22101	Louisiana	St. Mary	pcnt_unemployed	9.2
 22103	Louisiana	St. Tammany	pcnt_unemployed	5.7
-22105	Louisiana	Tangipahoa	pcnt_unemployed	9.0
+22105	Louisiana	Tangipahoa	pcnt_unemployed	9
 22107	Louisiana	Tensas	pcnt_unemployed	13.6
 22109	Louisiana	Terrebonne	pcnt_unemployed	5.4
-22111	Louisiana	Union	pcnt_unemployed	8.0
+22111	Louisiana	Union	pcnt_unemployed	8
 22113	Louisiana	Vermilion	pcnt_unemployed	6.6
 22115	Louisiana	Vernon	pcnt_unemployed	7.7
 22117	Louisiana	Washington	pcnt_unemployed	9.9
@@ -1176,11 +1176,11 @@ FIPS	State	County	Variable	pcnt_unemployed
 22127	Louisiana	Winn	pcnt_unemployed	8.4
 23001	Maine	Androscoggin	pcnt_unemployed	7.5
 23003	Maine	Aroostook	pcnt_unemployed	9.5
-23005	Maine	Cumberland	pcnt_unemployed	6.0
+23005	Maine	Cumberland	pcnt_unemployed	6
 23007	Maine	Franklin	pcnt_unemployed	9.4
 23009	Maine	Hancock	pcnt_unemployed	8.6
 23011	Maine	Kennebec	pcnt_unemployed	7.1
-23013	Maine	Knox	pcnt_unemployed	7.0
+23013	Maine	Knox	pcnt_unemployed	7
 23015	Maine	Lincoln	pcnt_unemployed	7.1
 23017	Maine	Oxford	pcnt_unemployed	9.7
 23019	Maine	Penobscot	pcnt_unemployed	8.1
@@ -1197,7 +1197,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 24011	Maryland	Caroline	pcnt_unemployed	8.9
 24013	Maryland	Carroll	pcnt_unemployed	6.4
 24015	Maryland	Cecil	pcnt_unemployed	8.9
-24017	Maryland	Charles	pcnt_unemployed	6.0
+24017	Maryland	Charles	pcnt_unemployed	6
 24019	Maryland	Dorchester	pcnt_unemployed	10.5
 24021	Maryland	Frederick	pcnt_unemployed	6.1
 24023	Maryland	Garrett	pcnt_unemployed	7.5
@@ -1205,18 +1205,18 @@ FIPS	State	County	Variable	pcnt_unemployed
 24027	Maryland	Howard	pcnt_unemployed	5.1
 24029	Maryland	Kent	pcnt_unemployed	7.6
 24031	Maryland	Montgomery	pcnt_unemployed	5.2
-24033	Maryland	Prince George's	pcnt_unemployed	7.0
+24033	Maryland	Prince George's	pcnt_unemployed	7
 24035	Maryland	Queen Anne's	pcnt_unemployed	6.9
-24037	Maryland	St. Mary's	pcnt_unemployed	6.0
+24037	Maryland	St. Mary's	pcnt_unemployed	6
 24039	Maryland	Somerset	pcnt_unemployed	10.4
 24041	Maryland	Talbot	pcnt_unemployed	7.7
 24043	Maryland	Washington	pcnt_unemployed	9.8
-24045	Maryland	Wicomico	pcnt_unemployed	9.0
+24045	Maryland	Wicomico	pcnt_unemployed	9
 24047	Maryland	Worcester	pcnt_unemployed	12.2
 24510	Maryland	Baltimore City	pcnt_unemployed	10.5
 25001	Massachusetts	Barnstable	pcnt_unemployed	8.2
 25003	Massachusetts	Berkshire	pcnt_unemployed	7.3
-25005	Massachusetts	Bristol	pcnt_unemployed	10.0
+25005	Massachusetts	Bristol	pcnt_unemployed	10
 25007	Massachusetts	Dukes	pcnt_unemployed	7.3
 25009	Massachusetts	Essex	pcnt_unemployed	7.8
 25011	Massachusetts	Franklin	pcnt_unemployed	6.7
@@ -1237,18 +1237,18 @@ FIPS	State	County	Variable	pcnt_unemployed
 26013	Michigan	Baraga	pcnt_unemployed	18.7
 26015	Michigan	Barry	pcnt_unemployed	7.3
 26017	Michigan	Bay	pcnt_unemployed	9.7
-26019	Michigan	Benzie	pcnt_unemployed	12.0
+26019	Michigan	Benzie	pcnt_unemployed	12
 26021	Michigan	Berrien	pcnt_unemployed	10.1
 26023	Michigan	Branch	pcnt_unemployed	9.9
 26025	Michigan	Calhoun	pcnt_unemployed	8.9
 26027	Michigan	Cass	pcnt_unemployed	8.8
-26029	Michigan	Charlevoix	pcnt_unemployed	12.0
+26029	Michigan	Charlevoix	pcnt_unemployed	12
 26031	Michigan	Cheboygan	pcnt_unemployed	10.9
 26033	Michigan	Chippewa	pcnt_unemployed	11.5
 26035	Michigan	Clare	pcnt_unemployed	12.9
 26037	Michigan	Clinton	pcnt_unemployed	6.9
 26039	Michigan	Crawford	pcnt_unemployed	11.2
-26041	Michigan	Delta	pcnt_unemployed	10.0
+26041	Michigan	Delta	pcnt_unemployed	10
 26043	Michigan	Dickinson	pcnt_unemployed	8.9
 26045	Michigan	Eaton	pcnt_unemployed	7.3
 26047	Michigan	Emmet	pcnt_unemployed	12.6
@@ -1257,18 +1257,18 @@ FIPS	State	County	Variable	pcnt_unemployed
 26053	Michigan	Gogebic	pcnt_unemployed	11.2
 26055	Michigan	Grand Traverse	pcnt_unemployed	9.6
 26057	Michigan	Gratiot	pcnt_unemployed	10.3
-26059	Michigan	Hillsdale	pcnt_unemployed	11.0
+26059	Michigan	Hillsdale	pcnt_unemployed	11
 26061	Michigan	Houghton	pcnt_unemployed	9.4
-26063	Michigan	Huron	pcnt_unemployed	10.0
+26063	Michigan	Huron	pcnt_unemployed	10
 26065	Michigan	Ingham	pcnt_unemployed	8.7
-26067	Michigan	Ionia	pcnt_unemployed	10.0
-26069	Michigan	Iosco	pcnt_unemployed	13.0
+26067	Michigan	Ionia	pcnt_unemployed	10
+26069	Michigan	Iosco	pcnt_unemployed	13
 26071	Michigan	Iron	pcnt_unemployed	9.7
 26073	Michigan	Isabella	pcnt_unemployed	7.5
 26075	Michigan	Jackson	pcnt_unemployed	9.9
 26077	Michigan	Kalamazoo	pcnt_unemployed	8.2
 26079	Michigan	Kalkaska	pcnt_unemployed	11.3
-26081	Michigan	Kent	pcnt_unemployed	8.0
+26081	Michigan	Kent	pcnt_unemployed	8
 26083	Michigan	Keweenaw	pcnt_unemployed	13.2
 26085	Michigan	Lake	pcnt_unemployed	12.9
 26087	Michigan	Lapeer	pcnt_unemployed	13.1
@@ -1282,7 +1282,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 26103	Michigan	Marquette	pcnt_unemployed	8.5
 26105	Michigan	Mason	pcnt_unemployed	10.5
 26107	Michigan	Mecosta	pcnt_unemployed	10.6
-26109	Michigan	Menominee	pcnt_unemployed	8.0
+26109	Michigan	Menominee	pcnt_unemployed	8
 26111	Michigan	Midland	pcnt_unemployed	7.7
 26113	Michigan	Missaukee	pcnt_unemployed	12.5
 26115	Michigan	Monroe	pcnt_unemployed	9.7
@@ -1290,15 +1290,15 @@ FIPS	State	County	Variable	pcnt_unemployed
 26119	Michigan	Montmorency	pcnt_unemployed	17.4
 26121	Michigan	Muskegon	pcnt_unemployed	10.2
 26123	Michigan	Newaygo	pcnt_unemployed	10.3
-26125	Michigan	Oakland	pcnt_unemployed	10.0
+26125	Michigan	Oakland	pcnt_unemployed	10
 26127	Michigan	Oceana	pcnt_unemployed	12.6
 26129	Michigan	Ogemaw	pcnt_unemployed	11.4
-26131	Michigan	Ontonagon	pcnt_unemployed	16.0
+26131	Michigan	Ontonagon	pcnt_unemployed	16
 26133	Michigan	Osceola	pcnt_unemployed	11.8
 26135	Michigan	Oscoda	pcnt_unemployed	16.7
 26137	Michigan	Otsego	pcnt_unemployed	12.4
 26139	Michigan	Ottawa	pcnt_unemployed	8.3
-26141	Michigan	Presque Isle	pcnt_unemployed	16.0
+26141	Michigan	Presque Isle	pcnt_unemployed	16
 26143	Michigan	Roscommon	pcnt_unemployed	12.7
 26145	Michigan	Saginaw	pcnt_unemployed	9.6
 26147	Michigan	St. Clair	pcnt_unemployed	13.1
@@ -1307,13 +1307,13 @@ FIPS	State	County	Variable	pcnt_unemployed
 26153	Michigan	Schoolcraft	pcnt_unemployed	12.9
 26155	Michigan	Shiawassee	pcnt_unemployed	10.6
 26157	Michigan	Tuscola	pcnt_unemployed	11.3
-26159	Michigan	Van Buren	pcnt_unemployed	11.0
+26159	Michigan	Van Buren	pcnt_unemployed	11
 26161	Michigan	Washtenaw	pcnt_unemployed	6.5
 26163	Michigan	Wayne	pcnt_unemployed	12.6
 26165	Michigan	Wexford	pcnt_unemployed	12.7
 27001	Minnesota	Aitkin	pcnt_unemployed	8.9
 27003	Minnesota	Anoka	pcnt_unemployed	6.6
-27005	Minnesota	Becker	pcnt_unemployed	7.0
+27005	Minnesota	Becker	pcnt_unemployed	7
 27007	Minnesota	Beltrami	pcnt_unemployed	8.1
 27009	Minnesota	Benton	pcnt_unemployed	7.1
 27011	Minnesota	Big Stone	pcnt_unemployed	6.1
@@ -1322,23 +1322,23 @@ FIPS	State	County	Variable	pcnt_unemployed
 27017	Minnesota	Carlton	pcnt_unemployed	7.8
 27019	Minnesota	Carver	pcnt_unemployed	5.6
 27021	Minnesota	Cass	pcnt_unemployed	9.6
-27023	Minnesota	Chippewa	pcnt_unemployed	6.0
+27023	Minnesota	Chippewa	pcnt_unemployed	6
 27025	Minnesota	Chisago	pcnt_unemployed	7.7
-27027	Minnesota	Clay	pcnt_unemployed	5.0
+27027	Minnesota	Clay	pcnt_unemployed	5
 27029	Minnesota	Clearwater	pcnt_unemployed	12.2
 27031	Minnesota	Cook	pcnt_unemployed	6.3
 27033	Minnesota	Cottonwood	pcnt_unemployed	5.4
 27035	Minnesota	Crow Wing	pcnt_unemployed	8.1
-27037	Minnesota	Dakota	pcnt_unemployed	6.0
+27037	Minnesota	Dakota	pcnt_unemployed	6
 27039	Minnesota	Dodge	pcnt_unemployed	6.1
 27041	Minnesota	Douglas	pcnt_unemployed	5.6
-27043	Minnesota	Faribault	pcnt_unemployed	7.0
+27043	Minnesota	Faribault	pcnt_unemployed	7
 27045	Minnesota	Fillmore	pcnt_unemployed	6.4
 27047	Minnesota	Freeborn	pcnt_unemployed	6.6
 27049	Minnesota	Goodhue	pcnt_unemployed	6.1
 27051	Minnesota	Grant	pcnt_unemployed	7.1
-27053	Minnesota	Hennepin	pcnt_unemployed	6.0
-27055	Minnesota	Houston	pcnt_unemployed	7.0
+27053	Minnesota	Hennepin	pcnt_unemployed	6
+27055	Minnesota	Houston	pcnt_unemployed	7
 27057	Minnesota	Hubbard	pcnt_unemployed	9.2
 27059	Minnesota	Isanti	pcnt_unemployed	8.2
 27061	Minnesota	Itasca	pcnt_unemployed	8.6
@@ -1349,7 +1349,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 27071	Minnesota	Koochiching	pcnt_unemployed	8.3
 27073	Minnesota	Lac qui Parle	pcnt_unemployed	5.3
 27075	Minnesota	Lake	pcnt_unemployed	6.3
-27077	Minnesota	Lake of the Woods	pcnt_unemployed	6.0
+27077	Minnesota	Lake of the Woods	pcnt_unemployed	6
 27079	Minnesota	Le Sueur	pcnt_unemployed	8.2
 27081	Minnesota	Lincoln	pcnt_unemployed	4.9
 27083	Minnesota	Lyon	pcnt_unemployed	5.2
@@ -1361,9 +1361,9 @@ FIPS	State	County	Variable	pcnt_unemployed
 27095	Minnesota	Mille Lacs	pcnt_unemployed	10.3
 27097	Minnesota	Morrison	pcnt_unemployed	8.2
 27099	Minnesota	Mower	pcnt_unemployed	5.4
-27101	Minnesota	Murray	pcnt_unemployed	5.0
+27101	Minnesota	Murray	pcnt_unemployed	5
 27103	Minnesota	Nicollet	pcnt_unemployed	5.1
-27105	Minnesota	Nobles	pcnt_unemployed	5.0
+27105	Minnesota	Nobles	pcnt_unemployed	5
 27107	Minnesota	Norman	pcnt_unemployed	6.1
 27109	Minnesota	Olmsted	pcnt_unemployed	5.3
 27111	Minnesota	Otter Tail	pcnt_unemployed	6.3
@@ -1396,7 +1396,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 27165	Minnesota	Watonwan	pcnt_unemployed	6.8
 27167	Minnesota	Wilkin	pcnt_unemployed	4.8
 27169	Minnesota	Winona	pcnt_unemployed	5.7
-27171	Minnesota	Wright	pcnt_unemployed	7.0
+27171	Minnesota	Wright	pcnt_unemployed	7
 27173	Minnesota	Yellow Medicine	pcnt_unemployed	5.6
 28001	Mississippi	Adams	pcnt_unemployed	10.6
 28003	Mississippi	Alcorn	pcnt_unemployed	11.8
@@ -1411,10 +1411,10 @@ FIPS	State	County	Variable	pcnt_unemployed
 28021	Mississippi	Claiborne	pcnt_unemployed	15.6
 28023	Mississippi	Clarke	pcnt_unemployed	12.5
 28025	Mississippi	Clay	pcnt_unemployed	18.7
-28027	Mississippi	Coahoma	pcnt_unemployed	15.0
+28027	Mississippi	Coahoma	pcnt_unemployed	15
 28029	Mississippi	Copiah	pcnt_unemployed	11.9
 28031	Mississippi	Covington	pcnt_unemployed	9.3
-28033	Mississippi	DeSoto	pcnt_unemployed	8.0
+28033	Mississippi	DeSoto	pcnt_unemployed	8
 28035	Mississippi	Forrest	pcnt_unemployed	10.4
 28037	Mississippi	Franklin	pcnt_unemployed	11.8
 28039	Mississippi	George	pcnt_unemployed	12.9
@@ -1432,9 +1432,9 @@ FIPS	State	County	Variable	pcnt_unemployed
 28063	Mississippi	Jefferson	pcnt_unemployed	16.7
 28065	Mississippi	Jefferson Davis	pcnt_unemployed	13.2
 28067	Mississippi	Jones	pcnt_unemployed	8.5
-28069	Mississippi	Kemper	pcnt_unemployed	14.0
+28069	Mississippi	Kemper	pcnt_unemployed	14
 28071	Mississippi	Lafayette	pcnt_unemployed	8.8
-28073	Mississippi	Lamar	pcnt_unemployed	8.0
+28073	Mississippi	Lamar	pcnt_unemployed	8
 28075	Mississippi	Lauderdale	pcnt_unemployed	11.2
 28077	Mississippi	Lawrence	pcnt_unemployed	12.4
 28079	Mississippi	Leake	pcnt_unemployed	11.8
@@ -1444,15 +1444,15 @@ FIPS	State	County	Variable	pcnt_unemployed
 28087	Mississippi	Lowndes	pcnt_unemployed	11.6
 28089	Mississippi	Madison	pcnt_unemployed	7.4
 28091	Mississippi	Marion	pcnt_unemployed	11.3
-28093	Mississippi	Marshall	pcnt_unemployed	13.0
-28095	Mississippi	Monroe	pcnt_unemployed	13.0
+28093	Mississippi	Marshall	pcnt_unemployed	13
+28095	Mississippi	Monroe	pcnt_unemployed	13
 28097	Mississippi	Montgomery	pcnt_unemployed	13.3
 28099	Mississippi	Neshoba	pcnt_unemployed	8.7
-28101	Mississippi	Newton	pcnt_unemployed	10.0
+28101	Mississippi	Newton	pcnt_unemployed	10
 28103	Mississippi	Noxubee	pcnt_unemployed	17.9
 28105	Mississippi	Oktibbeha	pcnt_unemployed	10.9
 28107	Mississippi	Panola	pcnt_unemployed	13.1
-28109	Mississippi	Pearl River	pcnt_unemployed	11.0
+28109	Mississippi	Pearl River	pcnt_unemployed	11
 28111	Mississippi	Perry	pcnt_unemployed	11.8
 28113	Mississippi	Pike	pcnt_unemployed	12.5
 28115	Mississippi	Pontotoc	pcnt_unemployed	9.9
@@ -1462,15 +1462,15 @@ FIPS	State	County	Variable	pcnt_unemployed
 28123	Mississippi	Scott	pcnt_unemployed	8.7
 28125	Mississippi	Sharkey	pcnt_unemployed	13.1
 28127	Mississippi	Simpson	pcnt_unemployed	9.6
-28129	Mississippi	Smith	pcnt_unemployed	10.0
+28129	Mississippi	Smith	pcnt_unemployed	10
 28131	Mississippi	Stone	pcnt_unemployed	9.6
 28133	Mississippi	Sunflower	pcnt_unemployed	16.3
 28135	Mississippi	Tallahatchie	pcnt_unemployed	12.9
 28137	Mississippi	Tate	pcnt_unemployed	11.2
 28139	Mississippi	Tippah	pcnt_unemployed	13.4
 28141	Mississippi	Tishomingo	pcnt_unemployed	12.9
-28143	Mississippi	Tunica	pcnt_unemployed	19.0
-28145	Mississippi	Union	pcnt_unemployed	11.0
+28143	Mississippi	Tunica	pcnt_unemployed	19
+28145	Mississippi	Union	pcnt_unemployed	11
 28147	Mississippi	Walthall	pcnt_unemployed	12.9
 28149	Mississippi	Warren	pcnt_unemployed	11.6
 28151	Mississippi	Washington	pcnt_unemployed	15.6
@@ -1483,7 +1483,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 29001	Missouri	Adair	pcnt_unemployed	7.5
 29003	Missouri	Andrew	pcnt_unemployed	6.3
 29005	Missouri	Atchison	pcnt_unemployed	7.3
-29007	Missouri	Audrain	pcnt_unemployed	8.0
+29007	Missouri	Audrain	pcnt_unemployed	8
 29009	Missouri	Barry	pcnt_unemployed	8.1
 29011	Missouri	Barton	pcnt_unemployed	9.9
 29013	Missouri	Bates	pcnt_unemployed	10.4
@@ -1502,13 +1502,13 @@ FIPS	State	County	Variable	pcnt_unemployed
 29039	Missouri	Cedar	pcnt_unemployed	8.1
 29041	Missouri	Chariton	pcnt_unemployed	8.7
 29043	Missouri	Christian	pcnt_unemployed	7.5
-29045	Missouri	Clark	pcnt_unemployed	9.0
+29045	Missouri	Clark	pcnt_unemployed	9
 29047	Missouri	Clay	pcnt_unemployed	7.7
-29049	Missouri	Clinton	pcnt_unemployed	10.0
+29049	Missouri	Clinton	pcnt_unemployed	10
 29051	Missouri	Cole	pcnt_unemployed	6.4
 29053	Missouri	Cooper	pcnt_unemployed	8.6
-29055	Missouri	Crawford	pcnt_unemployed	10.0
-29057	Missouri	Dade	pcnt_unemployed	9.0
+29055	Missouri	Crawford	pcnt_unemployed	10
+29057	Missouri	Dade	pcnt_unemployed	9
 29059	Missouri	Dallas	pcnt_unemployed	10.2
 29061	Missouri	Daviess	pcnt_unemployed	8.9
 29063	Missouri	DeKalb	pcnt_unemployed	8.3
@@ -1582,14 +1582,14 @@ FIPS	State	County	Variable	pcnt_unemployed
 29201	Missouri	Scott	pcnt_unemployed	8.6
 29203	Missouri	Shannon	pcnt_unemployed	12.9
 29205	Missouri	Shelby	pcnt_unemployed	7.4
-29207	Missouri	Stoddard	pcnt_unemployed	9.0
+29207	Missouri	Stoddard	pcnt_unemployed	9
 29209	Missouri	Stone	pcnt_unemployed	11.8
 29211	Missouri	Sullivan	pcnt_unemployed	6.8
 29213	Missouri	Taney	pcnt_unemployed	12.1
 29215	Missouri	Texas	pcnt_unemployed	8.8
 29217	Missouri	Vernon	pcnt_unemployed	7.2
-29219	Missouri	Warren	pcnt_unemployed	9.0
-29221	Missouri	Washington	pcnt_unemployed	12.0
+29219	Missouri	Warren	pcnt_unemployed	9
+29221	Missouri	Washington	pcnt_unemployed	12
 29223	Missouri	Wayne	pcnt_unemployed	9.6
 29225	Missouri	Webster	pcnt_unemployed	8.4
 29227	Missouri	Worth	pcnt_unemployed	6.2
@@ -1601,19 +1601,19 @@ FIPS	State	County	Variable	pcnt_unemployed
 30007	Montana	Broadwater	pcnt_unemployed	7.8
 30009	Montana	Carbon	pcnt_unemployed	5.7
 30011	Montana	Carter	pcnt_unemployed	3.8
-30013	Montana	Cascade	pcnt_unemployed	6.0
+30013	Montana	Cascade	pcnt_unemployed	6
 30015	Montana	Chouteau	pcnt_unemployed	4.6
 30017	Montana	Custer	pcnt_unemployed	4.2
 30019	Montana	Daniels	pcnt_unemployed	4.1
 30021	Montana	Dawson	pcnt_unemployed	3.9
-30023	Montana	Deer Lodge	pcnt_unemployed	8.0
+30023	Montana	Deer Lodge	pcnt_unemployed	8
 30025	Montana	Fallon	pcnt_unemployed	2.4
-30027	Montana	Fergus	pcnt_unemployed	6.0
+30027	Montana	Fergus	pcnt_unemployed	6
 30029	Montana	Flathead	pcnt_unemployed	10.7
 30031	Montana	Gallatin	pcnt_unemployed	6.1
 30033	Montana	Garfield	pcnt_unemployed	4.4
 30035	Montana	Glacier	pcnt_unemployed	11.8
-30037	Montana	Golden Valley	pcnt_unemployed	4.0
+30037	Montana	Golden Valley	pcnt_unemployed	4
 30039	Montana	Granite	pcnt_unemployed	10.4
 30041	Montana	Hill	pcnt_unemployed	5.8
 30043	Montana	Jefferson	pcnt_unemployed	5.6
@@ -1622,7 +1622,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 30049	Montana	Lewis and Clark	pcnt_unemployed	5.3
 30051	Montana	Liberty	pcnt_unemployed	5.1
 30053	Montana	Lincoln	pcnt_unemployed	15.6
-30055	Montana	McCone	pcnt_unemployed	3.0
+30055	Montana	McCone	pcnt_unemployed	3
 30057	Montana	Madison	pcnt_unemployed	6.9
 30059	Montana	Meagher	pcnt_unemployed	8.4
 30061	Montana	Mineral	pcnt_unemployed	10.9
@@ -1632,7 +1632,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 30069	Montana	Petroleum	pcnt_unemployed	6.3
 30071	Montana	Phillips	pcnt_unemployed	6.4
 30073	Montana	Pondera	pcnt_unemployed	6.8
-30075	Montana	Powder River	pcnt_unemployed	5.0
+30075	Montana	Powder River	pcnt_unemployed	5
 30077	Montana	Powell	pcnt_unemployed	8.8
 30079	Montana	Prairie	pcnt_unemployed	5.2
 30081	Montana	Ravalli	pcnt_unemployed	9.3
@@ -1647,7 +1647,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 30099	Montana	Teton	pcnt_unemployed	5.4
 30101	Montana	Toole	pcnt_unemployed	4.8
 30103	Montana	Treasure	pcnt_unemployed	5.4
-30105	Montana	Valley	pcnt_unemployed	5.0
+30105	Montana	Valley	pcnt_unemployed	5
 30107	Montana	Wheatland	pcnt_unemployed	6.2
 30109	Montana	Wibaux	pcnt_unemployed	3.8
 30111	Montana	Yellowstone	pcnt_unemployed	5.1
@@ -1701,11 +1701,11 @@ FIPS	State	County	Variable	pcnt_unemployed
 31095	Nebraska	Jefferson	pcnt_unemployed	4.2
 31097	Nebraska	Johnson	pcnt_unemployed	4.2
 31099	Nebraska	Kearney	pcnt_unemployed	3.3
-31101	Nebraska	Keith	pcnt_unemployed	4.0
+31101	Nebraska	Keith	pcnt_unemployed	4
 31103	Nebraska	Keya Paha	pcnt_unemployed	4.3
-31105	Nebraska	Kimball	pcnt_unemployed	4.0
+31105	Nebraska	Kimball	pcnt_unemployed	4
 31107	Nebraska	Knox	pcnt_unemployed	3.7
-31109	Nebraska	Lancaster	pcnt_unemployed	4.0
+31109	Nebraska	Lancaster	pcnt_unemployed	4
 31111	Nebraska	Lincoln	pcnt_unemployed	3.9
 31113	Nebraska	Logan	pcnt_unemployed	2.6
 31115	Nebraska	Loup	pcnt_unemployed	4.9
@@ -1718,15 +1718,15 @@ FIPS	State	County	Variable	pcnt_unemployed
 31129	Nebraska	Nuckolls	pcnt_unemployed	3.7
 31131	Nebraska	Otoe	pcnt_unemployed	4.7
 31133	Nebraska	Pawnee	pcnt_unemployed	3.7
-31135	Nebraska	Perkins	pcnt_unemployed	3.0
+31135	Nebraska	Perkins	pcnt_unemployed	3
 31137	Nebraska	Phelps	pcnt_unemployed	3.5
 31139	Nebraska	Pierce	pcnt_unemployed	3.7
-31141	Nebraska	Platte	pcnt_unemployed	4.0
+31141	Nebraska	Platte	pcnt_unemployed	4
 31143	Nebraska	Polk	pcnt_unemployed	3.3
 31145	Nebraska	Red Willow	pcnt_unemployed	3.7
 31147	Nebraska	Richardson	pcnt_unemployed	6.4
 31149	Nebraska	Rock	pcnt_unemployed	2.7
-31151	Nebraska	Saline	pcnt_unemployed	4.0
+31151	Nebraska	Saline	pcnt_unemployed	4
 31153	Nebraska	Sarpy	pcnt_unemployed	4.6
 31155	Nebraska	Saunders	pcnt_unemployed	4.6
 31157	Nebraska	Scotts Bluff	pcnt_unemployed	4.9
@@ -1744,12 +1744,12 @@ FIPS	State	County	Variable	pcnt_unemployed
 31181	Nebraska	Webster	pcnt_unemployed	4.4
 31183	Nebraska	Wheeler	pcnt_unemployed	3.6
 31185	Nebraska	York	pcnt_unemployed	4.5
-32001	Nevada	Churchill	pcnt_unemployed	11.0
+32001	Nevada	Churchill	pcnt_unemployed	11
 32003	Nevada	Clark	pcnt_unemployed	13.9
 32005	Nevada	Douglas	pcnt_unemployed	14.4
 32007	Nevada	Elko	pcnt_unemployed	7.1
 32009	Nevada	Esmeralda	pcnt_unemployed	6.2
-32011	Nevada	Eureka	pcnt_unemployed	6.0
+32011	Nevada	Eureka	pcnt_unemployed	6
 32013	Nevada	Humboldt	pcnt_unemployed	7.2
 32015	Nevada	Lander	pcnt_unemployed	6.6
 32017	Nevada	Lincoln	pcnt_unemployed	13.7
@@ -1757,7 +1757,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 32021	Nevada	Mineral	pcnt_unemployed	13.3
 32023	Nevada	Nye	pcnt_unemployed	16.5
 32027	Nevada	Pershing	pcnt_unemployed	11.7
-32029	Nevada	Storey	pcnt_unemployed	14.0
+32029	Nevada	Storey	pcnt_unemployed	14
 32031	Nevada	Washoe	pcnt_unemployed	13.1
 32033	Nevada	White Pine	pcnt_unemployed	8.4
 32510	Nevada	Carson City	pcnt_unemployed	13.1
@@ -1784,8 +1784,8 @@ FIPS	State	County	Variable	pcnt_unemployed
 34021	New Jersey	Mercer	pcnt_unemployed	7.7
 34023	New Jersey	Middlesex	pcnt_unemployed	8.4
 34025	New Jersey	Monmouth	pcnt_unemployed	8.6
-34027	New Jersey	Morris	pcnt_unemployed	7.0
-34029	New Jersey	Ocean	pcnt_unemployed	10.0
+34027	New Jersey	Morris	pcnt_unemployed	7
+34029	New Jersey	Ocean	pcnt_unemployed	10
 34031	New Jersey	Passaic	pcnt_unemployed	11.1
 34033	New Jersey	Salem	pcnt_unemployed	10.8
 34035	New Jersey	Somerset	pcnt_unemployed	7.1
@@ -1794,10 +1794,10 @@ FIPS	State	County	Variable	pcnt_unemployed
 34041	New Jersey	Warren	pcnt_unemployed	8.4
 35001	New Mexico	Bernalillo	pcnt_unemployed	7.6
 35003	New Mexico	Catron	pcnt_unemployed	8.3
-35005	New Mexico	Chaves	pcnt_unemployed	7.0
+35005	New Mexico	Chaves	pcnt_unemployed	7
 35006	New Mexico	Cibola	pcnt_unemployed	7.1
-35007	New Mexico	Colfax	pcnt_unemployed	8.0
-35009	New Mexico	Curry	pcnt_unemployed	5.0
+35007	New Mexico	Colfax	pcnt_unemployed	8
+35009	New Mexico	Curry	pcnt_unemployed	5
 35011	New Mexico	De Baca	pcnt_unemployed	4.9
 35013	New Mexico	Dona Ana	pcnt_unemployed	7.5
 35015	New Mexico	Eddy	pcnt_unemployed	4.5
@@ -1817,15 +1817,15 @@ FIPS	State	County	Variable	pcnt_unemployed
 35041	New Mexico	Roosevelt	pcnt_unemployed	5.1
 35043	New Mexico	Sandoval	pcnt_unemployed	8.6
 35045	New Mexico	San Juan	pcnt_unemployed	7.8
-35047	New Mexico	San Miguel	pcnt_unemployed	8.0
-35049	New Mexico	Santa Fe	pcnt_unemployed	6.0
+35047	New Mexico	San Miguel	pcnt_unemployed	8
+35049	New Mexico	Santa Fe	pcnt_unemployed	6
 35051	New Mexico	Sierra	pcnt_unemployed	6.4
 35053	New Mexico	Socorro	pcnt_unemployed	5.5
 35055	New Mexico	Taos	pcnt_unemployed	9.4
 35057	New Mexico	Torrance	pcnt_unemployed	9.5
-35059	New Mexico	Union	pcnt_unemployed	5.0
+35059	New Mexico	Union	pcnt_unemployed	5
 35061	New Mexico	Valencia	pcnt_unemployed	8.7
-36001	New York	Albany	pcnt_unemployed	7.0
+36001	New York	Albany	pcnt_unemployed	7
 36003	New York	Allegany	pcnt_unemployed	8.7
 36005	New York	Bronx	pcnt_unemployed	12.3
 36007	New York	Broome	pcnt_unemployed	8.5
@@ -1842,7 +1842,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 36029	New York	Erie	pcnt_unemployed	7.9
 36031	New York	Essex	pcnt_unemployed	9.2
 36033	New York	Franklin	pcnt_unemployed	9.1
-36035	New York	Fulton	pcnt_unemployed	10.0
+36035	New York	Fulton	pcnt_unemployed	10
 36037	New York	Genesee	pcnt_unemployed	7.5
 36039	New York	Greene	pcnt_unemployed	8.7
 36041	New York	Hamilton	pcnt_unemployed	7.8
@@ -1905,26 +1905,26 @@ FIPS	State	County	Variable	pcnt_unemployed
 37031	North Carolina	Carteret	pcnt_unemployed	9.4
 37033	North Carolina	Caswell	pcnt_unemployed	10.9
 37035	North Carolina	Catawba	pcnt_unemployed	12.7
-37037	North Carolina	Chatham	pcnt_unemployed	8.0
+37037	North Carolina	Chatham	pcnt_unemployed	8
 37039	North Carolina	Cherokee	pcnt_unemployed	13.8
 37041	North Carolina	Chowan	pcnt_unemployed	11.6
 37043	North Carolina	Clay	pcnt_unemployed	10.7
 37045	North Carolina	Cleveland	pcnt_unemployed	11.8
 37047	North Carolina	Columbus	pcnt_unemployed	13.9
-37049	North Carolina	Craven	pcnt_unemployed	11.0
+37049	North Carolina	Craven	pcnt_unemployed	11
 37051	North Carolina	Cumberland	pcnt_unemployed	10.2
-37053	North Carolina	Currituck	pcnt_unemployed	7.0
+37053	North Carolina	Currituck	pcnt_unemployed	7
 37055	North Carolina	Dare	pcnt_unemployed	11.8
 37057	North Carolina	Davidson	pcnt_unemployed	11.6
 37059	North Carolina	Davie	pcnt_unemployed	10.2
 37061	North Carolina	Duplin	pcnt_unemployed	9.8
 37063	North Carolina	Durham	pcnt_unemployed	8.5
 37065	North Carolina	Edgecombe	pcnt_unemployed	15.9
-37067	North Carolina	Forsyth	pcnt_unemployed	10.0
+37067	North Carolina	Forsyth	pcnt_unemployed	10
 37069	North Carolina	Franklin	pcnt_unemployed	10.3
 37071	North Carolina	Gaston	pcnt_unemployed	11.6
 37073	North Carolina	Gates	pcnt_unemployed	7.8
-37075	North Carolina	Graham	pcnt_unemployed	17.0
+37075	North Carolina	Graham	pcnt_unemployed	17
 37077	North Carolina	Granville	pcnt_unemployed	10.5
 37079	North Carolina	Greene	pcnt_unemployed	10.7
 37081	North Carolina	Guilford	pcnt_unemployed	10.8
@@ -1942,7 +1942,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 37105	North Carolina	Lee	pcnt_unemployed	12.9
 37107	North Carolina	Lenoir	pcnt_unemployed	11.1
 37109	North Carolina	Lincoln	pcnt_unemployed	11.8
-37111	North Carolina	McDowell	pcnt_unemployed	13.0
+37111	North Carolina	McDowell	pcnt_unemployed	13
 37113	North Carolina	Macon	pcnt_unemployed	11.3
 37115	North Carolina	Madison	pcnt_unemployed	9.8
 37117	North Carolina	Martin	pcnt_unemployed	11.8
@@ -1950,14 +1950,14 @@ FIPS	State	County	Variable	pcnt_unemployed
 37121	North Carolina	Mitchell	pcnt_unemployed	11.7
 37123	North Carolina	Montgomery	pcnt_unemployed	12.6
 37125	North Carolina	Moore	pcnt_unemployed	9.5
-37127	North Carolina	Nash	pcnt_unemployed	13.0
+37127	North Carolina	Nash	pcnt_unemployed	13
 37129	North Carolina	New Hanover	pcnt_unemployed	9.9
 37131	North Carolina	Northampton	pcnt_unemployed	12.2
 37133	North Carolina	Onslow	pcnt_unemployed	9.1
 37135	North Carolina	Orange	pcnt_unemployed	6.7
 37137	North Carolina	Pamlico	pcnt_unemployed	10.3
 37139	North Carolina	Pasquotank	pcnt_unemployed	10.8
-37141	North Carolina	Pender	pcnt_unemployed	12.0
+37141	North Carolina	Pender	pcnt_unemployed	12
 37143	North Carolina	Perquimans	pcnt_unemployed	10.4
 37145	North Carolina	Person	pcnt_unemployed	10.6
 37147	North Carolina	Pitt	pcnt_unemployed	10.8
@@ -1968,7 +1968,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 37157	North Carolina	Rockingham	pcnt_unemployed	12.2
 37159	North Carolina	Rowan	pcnt_unemployed	11.6
 37161	North Carolina	Rutherford	pcnt_unemployed	14.8
-37163	North Carolina	Sampson	pcnt_unemployed	9.0
+37163	North Carolina	Sampson	pcnt_unemployed	9
 37165	North Carolina	Scotland	pcnt_unemployed	17.5
 37167	North Carolina	Stanly	pcnt_unemployed	11.5
 37169	North Carolina	Stokes	pcnt_unemployed	9.7
@@ -1981,12 +1981,12 @@ FIPS	State	County	Variable	pcnt_unemployed
 37183	North Carolina	Wake	pcnt_unemployed	8.3
 37185	North Carolina	Warren	pcnt_unemployed	13.9
 37187	North Carolina	Washington	pcnt_unemployed	13.5
-37189	North Carolina	Watauga	pcnt_unemployed	9.0
+37189	North Carolina	Watauga	pcnt_unemployed	9
 37191	North Carolina	Wayne	pcnt_unemployed	9.4
 37193	North Carolina	Wilkes	pcnt_unemployed	12.4
 37195	North Carolina	Wilson	pcnt_unemployed	13.5
 37197	North Carolina	Yadkin	pcnt_unemployed	9.8
-37199	North Carolina	Yancey	pcnt_unemployed	12.0
+37199	North Carolina	Yancey	pcnt_unemployed	12
 38001	North Dakota	Adams	pcnt_unemployed	2.7
 38003	North Dakota	Barnes	pcnt_unemployed	3.8
 38005	North Dakota	Benson	pcnt_unemployed	5.8
@@ -1997,26 +1997,26 @@ FIPS	State	County	Variable	pcnt_unemployed
 38015	North Dakota	Burleigh	pcnt_unemployed	3.1
 38017	North Dakota	Cass	pcnt_unemployed	3.4
 38019	North Dakota	Cavalier	pcnt_unemployed	3.2
-38021	North Dakota	Dickey	pcnt_unemployed	3.0
+38021	North Dakota	Dickey	pcnt_unemployed	3
 38023	North Dakota	Divide	pcnt_unemployed	2.6
-38025	North Dakota	Dunn	pcnt_unemployed	2.0
+38025	North Dakota	Dunn	pcnt_unemployed	2
 38027	North Dakota	Eddy	pcnt_unemployed	5.1
 38029	North Dakota	Emmons	pcnt_unemployed	6.7
 38031	North Dakota	Foster	pcnt_unemployed	3.3
 38033	North Dakota	Golden Valley	pcnt_unemployed	2.9
 38035	North Dakota	Grand Forks	pcnt_unemployed	3.9
 38037	North Dakota	Grant	pcnt_unemployed	4.1
-38039	North Dakota	Griggs	pcnt_unemployed	3.0
+38039	North Dakota	Griggs	pcnt_unemployed	3
 38041	North Dakota	Hettinger	pcnt_unemployed	3.5
 38043	North Dakota	Kidder	pcnt_unemployed	6.4
-38045	North Dakota	LaMoure	pcnt_unemployed	3.0
-38047	North Dakota	Logan	pcnt_unemployed	3.0
+38045	North Dakota	LaMoure	pcnt_unemployed	3
+38047	North Dakota	Logan	pcnt_unemployed	3
 38049	North Dakota	McHenry	pcnt_unemployed	4.8
 38051	North Dakota	McIntosh	pcnt_unemployed	3.9
 38053	North Dakota	McKenzie	pcnt_unemployed	1.7
 38055	North Dakota	McLean	pcnt_unemployed	4.6
-38057	North Dakota	Mercer	pcnt_unemployed	5.0
-38059	North Dakota	Morton	pcnt_unemployed	4.0
+38057	North Dakota	Mercer	pcnt_unemployed	5
+38059	North Dakota	Morton	pcnt_unemployed	4
 38061	North Dakota	Mountrail	pcnt_unemployed	2.4
 38063	North Dakota	Nelson	pcnt_unemployed	4.2
 38065	North Dakota	Oliver	pcnt_unemployed	4.7
@@ -2027,11 +2027,11 @@ FIPS	State	County	Variable	pcnt_unemployed
 38075	North Dakota	Renville	pcnt_unemployed	3.2
 38077	North Dakota	Richland	pcnt_unemployed	4.1
 38079	North Dakota	Rolette	pcnt_unemployed	11.4
-38081	North Dakota	Sargent	pcnt_unemployed	3.0
+38081	North Dakota	Sargent	pcnt_unemployed	3
 38083	North Dakota	Sheridan	pcnt_unemployed	4.7
 38085	North Dakota	Sioux	pcnt_unemployed	5.2
 38087	North Dakota	Slope	pcnt_unemployed	1.2
-38089	North Dakota	Stark	pcnt_unemployed	2.0
+38089	North Dakota	Stark	pcnt_unemployed	2
 38091	North Dakota	Steele	pcnt_unemployed	2.5
 38093	North Dakota	Stutsman	pcnt_unemployed	3.6
 38095	North Dakota	Towner	pcnt_unemployed	3.7
@@ -2057,7 +2057,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 39029	Ohio	Columbiana	pcnt_unemployed	10.2
 39031	Ohio	Coshocton	pcnt_unemployed	11.2
 39033	Ohio	Crawford	pcnt_unemployed	11.2
-39035	Ohio	Cuyahoga	pcnt_unemployed	8.0
+39035	Ohio	Cuyahoga	pcnt_unemployed	8
 39037	Ohio	Darke	pcnt_unemployed	8.7
 39039	Ohio	Defiance	pcnt_unemployed	9.3
 39041	Ohio	Delaware	pcnt_unemployed	6.1
@@ -2084,9 +2084,9 @@ FIPS	State	County	Variable	pcnt_unemployed
 39083	Ohio	Knox	pcnt_unemployed	8.7
 39085	Ohio	Lake	pcnt_unemployed	7.1
 39087	Ohio	Lawrence	pcnt_unemployed	8.4
-39089	Ohio	Licking	pcnt_unemployed	8.0
+39089	Ohio	Licking	pcnt_unemployed	8
 39091	Ohio	Logan	pcnt_unemployed	9.3
-39093	Ohio	Lorain	pcnt_unemployed	8.0
+39093	Ohio	Lorain	pcnt_unemployed	8
 39095	Ohio	Lucas	pcnt_unemployed	9.7
 39097	Ohio	Madison	pcnt_unemployed	8.3
 39099	Ohio	Mahoning	pcnt_unemployed	9.6
@@ -2136,7 +2136,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 40011	Oklahoma	Blaine	pcnt_unemployed	6.8
 40013	Oklahoma	Bryan	pcnt_unemployed	5.4
 40015	Oklahoma	Caddo	pcnt_unemployed	6.8
-40017	Oklahoma	Canadian	pcnt_unemployed	5.0
+40017	Oklahoma	Canadian	pcnt_unemployed	5
 40019	Oklahoma	Carter	pcnt_unemployed	5.1
 40021	Oklahoma	Cherokee	pcnt_unemployed	5.7
 40023	Oklahoma	Choctaw	pcnt_unemployed	7.6
@@ -2145,7 +2145,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 40029	Oklahoma	Coal	pcnt_unemployed	7.5
 40031	Oklahoma	Comanche	pcnt_unemployed	6.7
 40033	Oklahoma	Cotton	pcnt_unemployed	5.3
-40035	Oklahoma	Craig	pcnt_unemployed	6.0
+40035	Oklahoma	Craig	pcnt_unemployed	6
 40037	Oklahoma	Creek	pcnt_unemployed	7.2
 40039	Oklahoma	Custer	pcnt_unemployed	3.9
 40041	Oklahoma	Delaware	pcnt_unemployed	6.5
@@ -2161,7 +2161,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 40061	Oklahoma	Haskell	pcnt_unemployed	7.2
 40063	Oklahoma	Hughes	pcnt_unemployed	9.6
 40065	Oklahoma	Jackson	pcnt_unemployed	5.3
-40067	Oklahoma	Jefferson	pcnt_unemployed	7.0
+40067	Oklahoma	Jefferson	pcnt_unemployed	7
 40069	Oklahoma	Johnston	pcnt_unemployed	6.4
 40071	Oklahoma	Kay	pcnt_unemployed	7.2
 40073	Oklahoma	Kingfisher	pcnt_unemployed	3.8
@@ -2185,7 +2185,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 40109	Oklahoma	Oklahoma	pcnt_unemployed	6.1
 40111	Oklahoma	Okmulgee	pcnt_unemployed	9.7
 40113	Oklahoma	Osage	pcnt_unemployed	7.4
-40115	Oklahoma	Ottawa	pcnt_unemployed	6.0
+40115	Oklahoma	Ottawa	pcnt_unemployed	6
 40117	Oklahoma	Pawnee	pcnt_unemployed	8.2
 40119	Oklahoma	Payne	pcnt_unemployed	5.4
 40121	Oklahoma	Pittsburg	pcnt_unemployed	6.1
@@ -2204,7 +2204,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 40147	Oklahoma	Washington	pcnt_unemployed	5.1
 40149	Oklahoma	Washita	pcnt_unemployed	4.2
 40151	Oklahoma	Woods	pcnt_unemployed	3.7
-40153	Oklahoma	Woodward	pcnt_unemployed	4.0
+40153	Oklahoma	Woodward	pcnt_unemployed	4
 41001	Oregon	Baker	pcnt_unemployed	10.4
 41003	Oregon	Benton	pcnt_unemployed	6.6
 41005	Oregon	Clackamas	pcnt_unemployed	8.7
@@ -2212,7 +2212,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 41009	Oregon	Columbia	pcnt_unemployed	10.3
 41011	Oregon	Coos	pcnt_unemployed	11.4
 41013	Oregon	Crook	pcnt_unemployed	14.8
-41015	Oregon	Curry	pcnt_unemployed	12.0
+41015	Oregon	Curry	pcnt_unemployed	12
 41017	Oregon	Deschutes	pcnt_unemployed	12.4
 41019	Oregon	Douglas	pcnt_unemployed	13.1
 41021	Oregon	Gilliam	pcnt_unemployed	7.3
@@ -2232,9 +2232,9 @@ FIPS	State	County	Variable	pcnt_unemployed
 41049	Oregon	Morrow	pcnt_unemployed	8.5
 41051	Oregon	Multnomah	pcnt_unemployed	8.5
 41053	Oregon	Polk	pcnt_unemployed	8.7
-41055	Oregon	Sherman	pcnt_unemployed	9.0
+41055	Oregon	Sherman	pcnt_unemployed	9
 41057	Oregon	Tillamook	pcnt_unemployed	8.9
-41059	Oregon	Umatilla	pcnt_unemployed	9.0
+41059	Oregon	Umatilla	pcnt_unemployed	9
 41061	Oregon	Union	pcnt_unemployed	9.8
 41063	Oregon	Wallowa	pcnt_unemployed	11.2
 41065	Oregon	Wasco	pcnt_unemployed	8.5
@@ -2242,12 +2242,12 @@ FIPS	State	County	Variable	pcnt_unemployed
 41069	Oregon	Wheeler	pcnt_unemployed	9.9
 41071	Oregon	Yamhill	pcnt_unemployed	9.2
 42001	Pennsylvania	Adams	pcnt_unemployed	6.7
-42003	Pennsylvania	Allegheny	pcnt_unemployed	7.0
+42003	Pennsylvania	Allegheny	pcnt_unemployed	7
 42005	Pennsylvania	Armstrong	pcnt_unemployed	8.4
 42007	Pennsylvania	Beaver	pcnt_unemployed	7.4
 42009	Pennsylvania	Bedford	pcnt_unemployed	9.5
 42011	Pennsylvania	Berks	pcnt_unemployed	8.2
-42013	Pennsylvania	Blair	pcnt_unemployed	7.0
+42013	Pennsylvania	Blair	pcnt_unemployed	7
 42015	Pennsylvania	Bradford	pcnt_unemployed	5.9
 42017	Pennsylvania	Bucks	pcnt_unemployed	7.3
 42019	Pennsylvania	Butler	pcnt_unemployed	6.7
@@ -2258,14 +2258,14 @@ FIPS	State	County	Variable	pcnt_unemployed
 42029	Pennsylvania	Chester	pcnt_unemployed	6.1
 42031	Pennsylvania	Clarion	pcnt_unemployed	9.8
 42033	Pennsylvania	Clearfield	pcnt_unemployed	8.8
-42035	Pennsylvania	Clinton	pcnt_unemployed	8.0
+42035	Pennsylvania	Clinton	pcnt_unemployed	8
 42037	Pennsylvania	Columbia	pcnt_unemployed	8.1
 42039	Pennsylvania	Crawford	pcnt_unemployed	7.8
 42041	Pennsylvania	Cumberland	pcnt_unemployed	6.7
 42043	Pennsylvania	Dauphin	pcnt_unemployed	7.6
-42045	Pennsylvania	Delaware	pcnt_unemployed	8.0
+42045	Pennsylvania	Delaware	pcnt_unemployed	8
 42047	Pennsylvania	Elk	pcnt_unemployed	7.3
-42049	Pennsylvania	Erie	pcnt_unemployed	8.0
+42049	Pennsylvania	Erie	pcnt_unemployed	8
 42051	Pennsylvania	Fayette	pcnt_unemployed	9.3
 42053	Pennsylvania	Forest	pcnt_unemployed	8.1
 42055	Pennsylvania	Franklin	pcnt_unemployed	6.9
@@ -2295,7 +2295,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 42103	Pennsylvania	Pike	pcnt_unemployed	10.5
 42105	Pennsylvania	Potter	pcnt_unemployed	9.1
 42107	Pennsylvania	Schuylkill	pcnt_unemployed	9.5
-42109	Pennsylvania	Snyder	pcnt_unemployed	8.0
+42109	Pennsylvania	Snyder	pcnt_unemployed	8
 42111	Pennsylvania	Somerset	pcnt_unemployed	8.7
 42113	Pennsylvania	Sullivan	pcnt_unemployed	6.8
 42115	Pennsylvania	Susquehanna	pcnt_unemployed	7.6
@@ -2324,16 +2324,16 @@ FIPS	State	County	Variable	pcnt_unemployed
 45017	South Carolina	Calhoun	pcnt_unemployed	12.1
 45019	South Carolina	Charleston	pcnt_unemployed	8.3
 45021	South Carolina	Cherokee	pcnt_unemployed	13.1
-45023	South Carolina	Chester	pcnt_unemployed	16.0
+45023	South Carolina	Chester	pcnt_unemployed	16
 45025	South Carolina	Chesterfield	pcnt_unemployed	13.6
 45027	South Carolina	Clarendon	pcnt_unemployed	15.2
-45029	South Carolina	Colleton	pcnt_unemployed	13.0
+45029	South Carolina	Colleton	pcnt_unemployed	13
 45031	South Carolina	Darlington	pcnt_unemployed	12.1
 45033	South Carolina	Dillon	pcnt_unemployed	15.3
 45035	South Carolina	Dorchester	pcnt_unemployed	8.1
 45037	South Carolina	Edgefield	pcnt_unemployed	9.3
 45039	South Carolina	Fairfield	pcnt_unemployed	12.4
-45041	South Carolina	Florence	pcnt_unemployed	11.0
+45041	South Carolina	Florence	pcnt_unemployed	11
 45043	South Carolina	Georgetown	pcnt_unemployed	10.9
 45045	South Carolina	Greenville	pcnt_unemployed	8.1
 45047	South Carolina	Greenwood	pcnt_unemployed	11.1
@@ -2371,7 +2371,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 46021	South Dakota	Campbell	pcnt_unemployed	4.2
 46023	South Dakota	Charles Mix	pcnt_unemployed	4.8
 46025	South Dakota	Clark	pcnt_unemployed	4.9
-46027	South Dakota	Clay	pcnt_unemployed	4.0
+46027	South Dakota	Clay	pcnt_unemployed	4
 46029	South Dakota	Codington	pcnt_unemployed	4.3
 46031	South Dakota	Corson	pcnt_unemployed	7.6
 46033	South Dakota	Custer	pcnt_unemployed	4.6
@@ -2388,7 +2388,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 46055	South Dakota	Haakon	pcnt_unemployed	3.6
 46057	South Dakota	Hamlin	pcnt_unemployed	4.4
 46059	South Dakota	Hand	pcnt_unemployed	3.4
-46061	South Dakota	Hanson	pcnt_unemployed	5.0
+46061	South Dakota	Hanson	pcnt_unemployed	5
 46063	South Dakota	Harding	pcnt_unemployed	3.8
 46065	South Dakota	Hughes	pcnt_unemployed	3.6
 46067	South Dakota	Hutchinson	pcnt_unemployed	3.8
@@ -2404,16 +2404,16 @@ FIPS	State	County	Variable	pcnt_unemployed
 46087	South Dakota	McCook	pcnt_unemployed	4.6
 46089	South Dakota	McPherson	pcnt_unemployed	4.7
 46091	South Dakota	Marshall	pcnt_unemployed	6.6
-46093	South Dakota	Meade	pcnt_unemployed	5.0
+46093	South Dakota	Meade	pcnt_unemployed	5
 46095	South Dakota	Mellette	pcnt_unemployed	5.8
-46097	South Dakota	Miner	pcnt_unemployed	5.0
+46097	South Dakota	Miner	pcnt_unemployed	5
 46099	South Dakota	Minnehaha	pcnt_unemployed	4.6
 46101	South Dakota	Moody	pcnt_unemployed	6.4
 46103	South Dakota	Pennington	pcnt_unemployed	4.7
 46105	South Dakota	Perkins	pcnt_unemployed	4.2
 46107	South Dakota	Potter	pcnt_unemployed	5.2
 46109	South Dakota	Roberts	pcnt_unemployed	6.7
-46111	South Dakota	Sanborn	pcnt_unemployed	4.0
+46111	South Dakota	Sanborn	pcnt_unemployed	4
 46113	South Dakota	Shannon	pcnt_unemployed	13.5
 46115	South Dakota	Spink	pcnt_unemployed	4.1
 46117	South Dakota	Stanley	pcnt_unemployed	3.5
@@ -2430,7 +2430,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 47005	Tennessee	Benton	pcnt_unemployed	11.8
 47007	Tennessee	Bledsoe	pcnt_unemployed	11.2
 47009	Tennessee	Blount	pcnt_unemployed	7.7
-47011	Tennessee	Bradley	pcnt_unemployed	9.0
+47011	Tennessee	Bradley	pcnt_unemployed	9
 47013	Tennessee	Campbell	pcnt_unemployed	11.5
 47015	Tennessee	Cannon	pcnt_unemployed	8.9
 47017	Tennessee	Carroll	pcnt_unemployed	12.2
@@ -2444,7 +2444,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 47033	Tennessee	Crockett	pcnt_unemployed	11.9
 47035	Tennessee	Cumberland	pcnt_unemployed	10.3
 47037	Tennessee	Davidson	pcnt_unemployed	8.2
-47039	Tennessee	Decatur	pcnt_unemployed	11.0
+47039	Tennessee	Decatur	pcnt_unemployed	11
 47041	Tennessee	DeKalb	pcnt_unemployed	9.2
 47043	Tennessee	Dickson	pcnt_unemployed	9.6
 47045	Tennessee	Dyer	pcnt_unemployed	13.1
@@ -2466,16 +2466,16 @@ FIPS	State	County	Variable	pcnt_unemployed
 47077	Tennessee	Henderson	pcnt_unemployed	12.3
 47079	Tennessee	Henry	pcnt_unemployed	11.6
 47081	Tennessee	Hickman	pcnt_unemployed	10.6
-47083	Tennessee	Houston	pcnt_unemployed	10.0
+47083	Tennessee	Houston	pcnt_unemployed	10
 47085	Tennessee	Humphreys	pcnt_unemployed	10.3
 47087	Tennessee	Jackson	pcnt_unemployed	10.4
 47089	Tennessee	Jefferson	pcnt_unemployed	11.2
-47091	Tennessee	Johnson	pcnt_unemployed	12.0
+47091	Tennessee	Johnson	pcnt_unemployed	12
 47093	Tennessee	Knox	pcnt_unemployed	6.9
 47095	Tennessee	Lake	pcnt_unemployed	11.7
 47097	Tennessee	Lauderdale	pcnt_unemployed	14.2
 47099	Tennessee	Lawrence	pcnt_unemployed	12.3
-47101	Tennessee	Lewis	pcnt_unemployed	13.0
+47101	Tennessee	Lewis	pcnt_unemployed	13
 47103	Tennessee	Lincoln	pcnt_unemployed	6.1
 47105	Tennessee	Loudon	pcnt_unemployed	7.7
 47107	Tennessee	McMinn	pcnt_unemployed	11.2
@@ -2497,17 +2497,17 @@ FIPS	State	County	Variable	pcnt_unemployed
 47139	Tennessee	Polk	pcnt_unemployed	11.8
 47141	Tennessee	Putnam	pcnt_unemployed	8.6
 47143	Tennessee	Rhea	pcnt_unemployed	11.6
-47145	Tennessee	Roane	pcnt_unemployed	8.0
+47145	Tennessee	Roane	pcnt_unemployed	8
 47147	Tennessee	Robertson	pcnt_unemployed	8.3
-47149	Tennessee	Rutherford	pcnt_unemployed	8.0
+47149	Tennessee	Rutherford	pcnt_unemployed	8
 47151	Tennessee	Scott	pcnt_unemployed	19.8
 47153	Tennessee	Sequatchie	pcnt_unemployed	8.9
-47155	Tennessee	Sevier	pcnt_unemployed	10.0
+47155	Tennessee	Sevier	pcnt_unemployed	10
 47157	Tennessee	Shelby	pcnt_unemployed	9.9
 47159	Tennessee	Smith	pcnt_unemployed	9.4
 47161	Tennessee	Stewart	pcnt_unemployed	11.7
 47163	Tennessee	Sullivan	pcnt_unemployed	7.7
-47165	Tennessee	Sumner	pcnt_unemployed	8.0
+47165	Tennessee	Sumner	pcnt_unemployed	8
 47167	Tennessee	Tipton	pcnt_unemployed	9.8
 47169	Tennessee	Trousdale	pcnt_unemployed	10.5
 47171	Tennessee	Unicoi	pcnt_unemployed	9.7
@@ -2521,9 +2521,9 @@ FIPS	State	County	Variable	pcnt_unemployed
 47187	Tennessee	Williamson	pcnt_unemployed	6.2
 47189	Tennessee	Wilson	pcnt_unemployed	7.6
 48001	Texas	Anderson	pcnt_unemployed	9.1
-48003	Texas	Andrews	pcnt_unemployed	5.0
+48003	Texas	Andrews	pcnt_unemployed	5
 48005	Texas	Angelina	pcnt_unemployed	7.7
-48007	Texas	Aransas	pcnt_unemployed	8.0
+48007	Texas	Aransas	pcnt_unemployed	8
 48009	Texas	Archer	pcnt_unemployed	5.9
 48011	Texas	Armstrong	pcnt_unemployed	4.9
 48013	Texas	Atascosa	pcnt_unemployed	7.9
@@ -2533,7 +2533,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48021	Texas	Bastrop	pcnt_unemployed	7.8
 48023	Texas	Baylor	pcnt_unemployed	5.8
 48025	Texas	Bee	pcnt_unemployed	8.6
-48027	Texas	Bell	pcnt_unemployed	8.0
+48027	Texas	Bell	pcnt_unemployed	8
 48029	Texas	Bexar	pcnt_unemployed	7.6
 48031	Texas	Blanco	pcnt_unemployed	6.1
 48033	Texas	Borden	pcnt_unemployed	3.9
@@ -2552,17 +2552,17 @@ FIPS	State	County	Variable	pcnt_unemployed
 48059	Texas	Callahan	pcnt_unemployed	6.2
 48061	Texas	Cameron	pcnt_unemployed	11.8
 48063	Texas	Camp	pcnt_unemployed	8.8
-48065	Texas	Carson	pcnt_unemployed	5.0
+48065	Texas	Carson	pcnt_unemployed	5
 48067	Texas	Cass	pcnt_unemployed	10.6
 48069	Texas	Castro	pcnt_unemployed	5.7
 48071	Texas	Chambers	pcnt_unemployed	8.9
 48073	Texas	Cherokee	pcnt_unemployed	8.9
 48075	Texas	Childress	pcnt_unemployed	6.1
 48077	Texas	Clay	pcnt_unemployed	6.1
-48079	Texas	Cochran	pcnt_unemployed	9.0
-48081	Texas	Coke	pcnt_unemployed	7.0
+48079	Texas	Cochran	pcnt_unemployed	9
+48081	Texas	Coke	pcnt_unemployed	7
 48083	Texas	Coleman	pcnt_unemployed	7.1
-48085	Texas	Collin	pcnt_unemployed	7.0
+48085	Texas	Collin	pcnt_unemployed	7
 48087	Texas	Collingsworth	pcnt_unemployed	5.3
 48089	Texas	Colorado	pcnt_unemployed	7.1
 48091	Texas	Comal	pcnt_unemployed	6.9
@@ -2580,10 +2580,10 @@ FIPS	State	County	Variable	pcnt_unemployed
 48115	Texas	Dawson	pcnt_unemployed	7.9
 48117	Texas	Deaf Smith	pcnt_unemployed	5.6
 48119	Texas	Delta	pcnt_unemployed	8.9
-48121	Texas	Denton	pcnt_unemployed	7.0
+48121	Texas	Denton	pcnt_unemployed	7
 48123	Texas	DeWitt	pcnt_unemployed	6.7
 48125	Texas	Dickens	pcnt_unemployed	13.6
-48127	Texas	Dimmit	pcnt_unemployed	7.0
+48127	Texas	Dimmit	pcnt_unemployed	7
 48129	Texas	Donley	pcnt_unemployed	6.1
 48131	Texas	Duval	pcnt_unemployed	9.1
 48133	Texas	Eastland	pcnt_unemployed	7.1
@@ -2597,7 +2597,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48149	Texas	Fayette	pcnt_unemployed	5.8
 48151	Texas	Fisher	pcnt_unemployed	6.4
 48153	Texas	Floyd	pcnt_unemployed	8.3
-48155	Texas	Foard	pcnt_unemployed	7.0
+48155	Texas	Foard	pcnt_unemployed	7
 48157	Texas	Fort Bend	pcnt_unemployed	7.3
 48159	Texas	Franklin	pcnt_unemployed	7.3
 48161	Texas	Freestone	pcnt_unemployed	6.4
@@ -2609,7 +2609,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48173	Texas	Glasscock	pcnt_unemployed	4.4
 48175	Texas	Goliad	pcnt_unemployed	6.1
 48177	Texas	Gonzales	pcnt_unemployed	5.7
-48179	Texas	Gray	pcnt_unemployed	6.0
+48179	Texas	Gray	pcnt_unemployed	6
 48181	Texas	Grayson	pcnt_unemployed	8.3
 48183	Texas	Gregg	pcnt_unemployed	6.8
 48185	Texas	Grimes	pcnt_unemployed	7.9
@@ -2627,7 +2627,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48209	Texas	Hays	pcnt_unemployed	6.7
 48211	Texas	Hemphill	pcnt_unemployed	2.7
 48213	Texas	Henderson	pcnt_unemployed	8.4
-48215	Texas	Hidalgo	pcnt_unemployed	12.0
+48215	Texas	Hidalgo	pcnt_unemployed	12
 48217	Texas	Hill	pcnt_unemployed	8.3
 48219	Texas	Hockley	pcnt_unemployed	5.7
 48221	Texas	Hood	pcnt_unemployed	7.2
@@ -2651,7 +2651,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48257	Texas	Kaufman	pcnt_unemployed	8.3
 48259	Texas	Kendall	pcnt_unemployed	6.2
 48261	Texas	Kenedy	pcnt_unemployed	4.7
-48263	Texas	Kent	pcnt_unemployed	6.0
+48263	Texas	Kent	pcnt_unemployed	6
 48265	Texas	Kerr	pcnt_unemployed	6.4
 48267	Texas	Kimble	pcnt_unemployed	6.8
 48269	Texas	King	pcnt_unemployed	5.7
@@ -2683,7 +2683,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48321	Texas	Matagorda	pcnt_unemployed	11.6
 48323	Texas	Maverick	pcnt_unemployed	14.2
 48325	Texas	Medina	pcnt_unemployed	7.4
-48327	Texas	Menard	pcnt_unemployed	7.0
+48327	Texas	Menard	pcnt_unemployed	7
 48329	Texas	Midland	pcnt_unemployed	4.4
 48331	Texas	Milam	pcnt_unemployed	9.6
 48333	Texas	Mills	pcnt_unemployed	6.1
@@ -2692,7 +2692,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48339	Texas	Montgomery	pcnt_unemployed	7.2
 48341	Texas	Moore	pcnt_unemployed	4.7
 48343	Texas	Morris	pcnt_unemployed	11.5
-48345	Texas	Motley	pcnt_unemployed	6.0
+48345	Texas	Motley	pcnt_unemployed	6
 48347	Texas	Nacogdoches	pcnt_unemployed	6.8
 48349	Texas	Navarro	pcnt_unemployed	8.8
 48351	Texas	Newton	pcnt_unemployed	13.9
@@ -2714,13 +2714,13 @@ FIPS	State	County	Variable	pcnt_unemployed
 48383	Texas	Reagan	pcnt_unemployed	3.2
 48385	Texas	Real	pcnt_unemployed	7.3
 48387	Texas	Red River	pcnt_unemployed	11.8
-48389	Texas	Reeves	pcnt_unemployed	11.0
+48389	Texas	Reeves	pcnt_unemployed	11
 48391	Texas	Refugio	pcnt_unemployed	5.9
-48393	Texas	Roberts	pcnt_unemployed	4.0
+48393	Texas	Roberts	pcnt_unemployed	4
 48395	Texas	Robertson	pcnt_unemployed	8.8
 48397	Texas	Rockwall	pcnt_unemployed	7.2
 48399	Texas	Runnels	pcnt_unemployed	8.2
-48401	Texas	Rusk	pcnt_unemployed	7.0
+48401	Texas	Rusk	pcnt_unemployed	7
 48403	Texas	Sabine	pcnt_unemployed	16.3
 48405	Texas	San Augustine	pcnt_unemployed	12.4
 48407	Texas	San Jacinto	pcnt_unemployed	9.6
@@ -2730,13 +2730,13 @@ FIPS	State	County	Variable	pcnt_unemployed
 48415	Texas	Scurry	pcnt_unemployed	5.6
 48417	Texas	Shackelford	pcnt_unemployed	4.2
 48419	Texas	Shelby	pcnt_unemployed	7.9
-48421	Texas	Sherman	pcnt_unemployed	5.0
+48421	Texas	Sherman	pcnt_unemployed	5
 48423	Texas	Smith	pcnt_unemployed	7.8
 48425	Texas	Somervell	pcnt_unemployed	7.6
 48427	Texas	Starr	pcnt_unemployed	16.9
 48429	Texas	Stephens	pcnt_unemployed	7.5
 48431	Texas	Sterling	pcnt_unemployed	4.2
-48433	Texas	Stonewall	pcnt_unemployed	5.0
+48433	Texas	Stonewall	pcnt_unemployed	5
 48435	Texas	Sutton	pcnt_unemployed	4.5
 48437	Texas	Swisher	pcnt_unemployed	6.5
 48439	Texas	Tarrant	pcnt_unemployed	7.8
@@ -2751,17 +2751,17 @@ FIPS	State	County	Variable	pcnt_unemployed
 48457	Texas	Tyler	pcnt_unemployed	11.5
 48459	Texas	Upshur	pcnt_unemployed	7.2
 48461	Texas	Upton	pcnt_unemployed	4.5
-48463	Texas	Uvalde	pcnt_unemployed	9.0
-48465	Texas	Val Verde	pcnt_unemployed	9.0
+48463	Texas	Uvalde	pcnt_unemployed	9
+48465	Texas	Val Verde	pcnt_unemployed	9
 48467	Texas	Van Zandt	pcnt_unemployed	7.4
 48469	Texas	Victoria	pcnt_unemployed	6.4
 48471	Texas	Walker	pcnt_unemployed	7.8
 48473	Texas	Waller	pcnt_unemployed	8.2
 48475	Texas	Ward	pcnt_unemployed	6.2
-48477	Texas	Washington	pcnt_unemployed	6.0
+48477	Texas	Washington	pcnt_unemployed	6
 48479	Texas	Webb	pcnt_unemployed	8.1
 48481	Texas	Wharton	pcnt_unemployed	8.3
-48483	Texas	Wheeler	pcnt_unemployed	4.0
+48483	Texas	Wheeler	pcnt_unemployed	4
 48485	Texas	Wichita	pcnt_unemployed	7.3
 48487	Texas	Wilbarger	pcnt_unemployed	5.6
 48489	Texas	Willacy	pcnt_unemployed	14.3
@@ -2769,7 +2769,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 48493	Texas	Wilson	pcnt_unemployed	7.1
 48495	Texas	Winkler	pcnt_unemployed	6.1
 48497	Texas	Wise	pcnt_unemployed	7.2
-48499	Texas	Wood	pcnt_unemployed	8.0
+48499	Texas	Wood	pcnt_unemployed	8
 48501	Texas	Yoakum	pcnt_unemployed	4.7
 48503	Texas	Young	pcnt_unemployed	6.5
 48505	Texas	Zapata	pcnt_unemployed	8.5
@@ -2803,7 +2803,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 49053	Utah	Washington	pcnt_unemployed	8.6
 49055	Utah	Wayne	pcnt_unemployed	10.5
 49057	Utah	Weber	pcnt_unemployed	7.8
-50001	Vermont	Addison	pcnt_unemployed	5.0
+50001	Vermont	Addison	pcnt_unemployed	5
 50003	Vermont	Bennington	pcnt_unemployed	6.5
 50005	Vermont	Caledonia	pcnt_unemployed	6.5
 50007	Vermont	Chittenden	pcnt_unemployed	4.4
@@ -2824,10 +2824,10 @@ FIPS	State	County	Variable	pcnt_unemployed
 51009	Virginia	Amherst	pcnt_unemployed	7.2
 51011	Virginia	Appomattox	pcnt_unemployed	7.4
 51013	Virginia	Arlington	pcnt_unemployed	3.8
-51015	Virginia	Augusta	pcnt_unemployed	6.0
+51015	Virginia	Augusta	pcnt_unemployed	6
 51017	Virginia	Bath	pcnt_unemployed	5.4
 51019	Virginia	Bedford	pcnt_unemployed	6.2
-51021	Virginia	Bland	pcnt_unemployed	6.0
+51021	Virginia	Bland	pcnt_unemployed	6
 51023	Virginia	Botetourt	pcnt_unemployed	5.5
 51025	Virginia	Brunswick	pcnt_unemployed	10.7
 51027	Virginia	Buchanan	pcnt_unemployed	7.3
@@ -2838,7 +2838,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 51036	Virginia	Charles City	pcnt_unemployed	8.2
 51037	Virginia	Charlotte	pcnt_unemployed	9.1
 51041	Virginia	Chesterfield	pcnt_unemployed	6.1
-51043	Virginia	Clarke	pcnt_unemployed	5.0
+51043	Virginia	Clarke	pcnt_unemployed	5
 51045	Virginia	Craig	pcnt_unemployed	7.5
 51047	Virginia	Culpeper	pcnt_unemployed	6.9
 51049	Virginia	Cumberland	pcnt_unemployed	7.1
@@ -2861,7 +2861,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 51085	Virginia	Hanover	pcnt_unemployed	5.8
 51087	Virginia	Henrico	pcnt_unemployed	6.1
 51089	Virginia	Henry	pcnt_unemployed	11.3
-51091	Virginia	Highland	pcnt_unemployed	7.0
+51091	Virginia	Highland	pcnt_unemployed	7
 51093	Virginia	Isle of Wight	pcnt_unemployed	6.5
 51095	Virginia	James City	pcnt_unemployed	5.3
 51097	Virginia	King and Queen	pcnt_unemployed	7.4
@@ -2870,17 +2870,17 @@ FIPS	State	County	Variable	pcnt_unemployed
 51103	Virginia	Lancaster	pcnt_unemployed	9.2
 51105	Virginia	Lee	pcnt_unemployed	7.6
 51107	Virginia	Loudoun	pcnt_unemployed	4.2
-51109	Virginia	Louisa	pcnt_unemployed	7.0
+51109	Virginia	Louisa	pcnt_unemployed	7
 51111	Virginia	Lunenburg	pcnt_unemployed	9.1
 51113	Virginia	Madison	pcnt_unemployed	5.2
-51115	Virginia	Mathews	pcnt_unemployed	6.0
+51115	Virginia	Mathews	pcnt_unemployed	6
 51117	Virginia	Mecklenburg	pcnt_unemployed	10.6
 51119	Virginia	Middlesex	pcnt_unemployed	6.4
 51121	Virginia	Montgomery	pcnt_unemployed	6.4
 51125	Virginia	Nelson	pcnt_unemployed	5.4
 51127	Virginia	New Kent	pcnt_unemployed	6.4
-51131	Virginia	Northampton	pcnt_unemployed	8.0
-51133	Virginia	Northumberland	pcnt_unemployed	9.0
+51131	Virginia	Northampton	pcnt_unemployed	8
+51133	Virginia	Northumberland	pcnt_unemployed	9
 51135	Virginia	Nottoway	pcnt_unemployed	7.7
 51137	Virginia	Orange	pcnt_unemployed	7.2
 51139	Virginia	Page	pcnt_unemployed	10.9
@@ -2890,7 +2890,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 51147	Virginia	Prince Edward	pcnt_unemployed	9.2
 51149	Virginia	Prince George	pcnt_unemployed	6.8
 51153	Virginia	Prince William	pcnt_unemployed	5.1
-51155	Virginia	Pulaski	pcnt_unemployed	7.0
+51155	Virginia	Pulaski	pcnt_unemployed	7
 51157	Virginia	Rappahannock	pcnt_unemployed	5.2
 51159	Virginia	Richmond	pcnt_unemployed	8.1
 51161	Virginia	Roanoke	pcnt_unemployed	5.6
@@ -2898,7 +2898,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 51165	Virginia	Rockingham	pcnt_unemployed	5.5
 51167	Virginia	Russell	pcnt_unemployed	9.3
 51169	Virginia	Scott	pcnt_unemployed	8.1
-51171	Virginia	Shenandoah	pcnt_unemployed	7.0
+51171	Virginia	Shenandoah	pcnt_unemployed	7
 51173	Virginia	Smyth	pcnt_unemployed	9.7
 51175	Virginia	Southampton	pcnt_unemployed	8.6
 51177	Virginia	Spotsylvania	pcnt_unemployed	5.4
@@ -2915,7 +2915,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 51510	Virginia	Alexandria City	pcnt_unemployed	4.8
 51515	Virginia	Bedford City	pcnt_unemployed	8.7
 51520	Virginia	Bristol City	pcnt_unemployed	9.2
-51530	Virginia	Buena Vista City	pcnt_unemployed	8.0
+51530	Virginia	Buena Vista City	pcnt_unemployed	8
 51540	Virginia	Charlottesville City	pcnt_unemployed	6.2
 51550	Virginia	Chesapeake City	pcnt_unemployed	6.5
 51570	Virginia	Colonial Heights City	pcnt_unemployed	7.6
@@ -2947,23 +2947,23 @@ FIPS	State	County	Variable	pcnt_unemployed
 51775	Virginia	Salem City	pcnt_unemployed	6.2
 51790	Virginia	Staunton City	pcnt_unemployed	6.9
 51800	Virginia	Suffolk City	pcnt_unemployed	7.1
-51810	Virginia	Virginia Beach City	pcnt_unemployed	6.0
+51810	Virginia	Virginia Beach City	pcnt_unemployed	6
 51820	Virginia	Waynesboro City	pcnt_unemployed	7.9
-51830	Virginia	Williamsburg City	pcnt_unemployed	14.0
+51830	Virginia	Williamsburg City	pcnt_unemployed	14
 51840	Virginia	Winchester City	pcnt_unemployed	7.7
 53001	Washington	Adams	pcnt_unemployed	9.4
-53003	Washington	Asotin	pcnt_unemployed	9.0
+53003	Washington	Asotin	pcnt_unemployed	9
 53005	Washington	Benton	pcnt_unemployed	7.6
 53007	Washington	Chelan	pcnt_unemployed	8.4
 53009	Washington	Clallam	pcnt_unemployed	10.4
 53011	Washington	Clark	pcnt_unemployed	12.4
 53013	Washington	Columbia	pcnt_unemployed	11.2
 53015	Washington	Cowlitz	pcnt_unemployed	12.1
-53017	Washington	Douglas	pcnt_unemployed	8.0
+53017	Washington	Douglas	pcnt_unemployed	8
 53019	Washington	Ferry	pcnt_unemployed	14.2
 53021	Washington	Franklin	pcnt_unemployed	8.8
 53023	Washington	Garfield	pcnt_unemployed	7.4
-53025	Washington	Grant	pcnt_unemployed	10.0
+53025	Washington	Grant	pcnt_unemployed	10
 53027	Washington	Grays Harbor	pcnt_unemployed	13.2
 53029	Washington	Island	pcnt_unemployed	9.1
 53031	Washington	Jefferson	pcnt_unemployed	9.9
@@ -2990,7 +2990,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 53073	Washington	Whatcom	pcnt_unemployed	8.3
 53075	Washington	Whitman	pcnt_unemployed	6.6
 53077	Washington	Yakima	pcnt_unemployed	10.1
-54001	West Virginia	Barbour	pcnt_unemployed	9.0
+54001	West Virginia	Barbour	pcnt_unemployed	9
 54003	West Virginia	Berkeley	pcnt_unemployed	7.9
 54005	West Virginia	Boone	pcnt_unemployed	7.4
 54007	West Virginia	Braxton	pcnt_unemployed	10.1
@@ -3001,36 +3001,36 @@ FIPS	State	County	Variable	pcnt_unemployed
 54017	West Virginia	Doddridge	pcnt_unemployed	8.3
 54019	West Virginia	Fayette	pcnt_unemployed	8.6
 54021	West Virginia	Gilmer	pcnt_unemployed	7.4
-54023	West Virginia	Grant	pcnt_unemployed	11.0
+54023	West Virginia	Grant	pcnt_unemployed	11
 54025	West Virginia	Greenbrier	pcnt_unemployed	8.3
 54027	West Virginia	Hampshire	pcnt_unemployed	7.8
-54029	West Virginia	Hancock	pcnt_unemployed	12.0
+54029	West Virginia	Hancock	pcnt_unemployed	12
 54031	West Virginia	Hardy	pcnt_unemployed	8.4
 54033	West Virginia	Harrison	pcnt_unemployed	6.9
 54035	West Virginia	Jackson	pcnt_unemployed	10.8
-54037	West Virginia	Jefferson	pcnt_unemployed	6.0
-54039	West Virginia	Kanawha	pcnt_unemployed	7.0
+54037	West Virginia	Jefferson	pcnt_unemployed	6
+54039	West Virginia	Kanawha	pcnt_unemployed	7
 54041	West Virginia	Lewis	pcnt_unemployed	6.4
 54043	West Virginia	Lincoln	pcnt_unemployed	9.8
 54045	West Virginia	Logan	pcnt_unemployed	8.4
-54047	West Virginia	McDowell	pcnt_unemployed	10.0
+54047	West Virginia	McDowell	pcnt_unemployed	10
 54049	West Virginia	Marion	pcnt_unemployed	6.7
 54051	West Virginia	Marshall	pcnt_unemployed	9.5
-54053	West Virginia	Mason	pcnt_unemployed	12.0
+54053	West Virginia	Mason	pcnt_unemployed	12
 54055	West Virginia	Mercer	pcnt_unemployed	7.9
 54057	West Virginia	Mineral	pcnt_unemployed	7.5
 54059	West Virginia	Mingo	pcnt_unemployed	8.8
 54061	West Virginia	Monongalia	pcnt_unemployed	5.3
 54063	West Virginia	Monroe	pcnt_unemployed	7.1
 54065	West Virginia	Morgan	pcnt_unemployed	8.3
-54067	West Virginia	Nicholas	pcnt_unemployed	9.0
-54069	West Virginia	Ohio	pcnt_unemployed	8.0
+54067	West Virginia	Nicholas	pcnt_unemployed	9
+54069	West Virginia	Ohio	pcnt_unemployed	8
 54071	West Virginia	Pendleton	pcnt_unemployed	6.5
 54073	West Virginia	Pleasants	pcnt_unemployed	9.5
 54075	West Virginia	Pocahontas	pcnt_unemployed	11.6
-54077	West Virginia	Preston	pcnt_unemployed	7.0
+54077	West Virginia	Preston	pcnt_unemployed	7
 54079	West Virginia	Putnam	pcnt_unemployed	6.9
-54081	West Virginia	Raleigh	pcnt_unemployed	7.0
+54081	West Virginia	Raleigh	pcnt_unemployed	7
 54083	West Virginia	Randolph	pcnt_unemployed	9.6
 54085	West Virginia	Ritchie	pcnt_unemployed	8.9
 54087	West Virginia	Roane	pcnt_unemployed	12.6
@@ -3042,13 +3042,13 @@ FIPS	State	County	Variable	pcnt_unemployed
 54099	West Virginia	Wayne	pcnt_unemployed	8.1
 54101	West Virginia	Webster	pcnt_unemployed	10.8
 54103	West Virginia	Wetzel	pcnt_unemployed	11.9
-54105	West Virginia	Wirt	pcnt_unemployed	11.0
+54105	West Virginia	Wirt	pcnt_unemployed	11
 54107	West Virginia	Wood	pcnt_unemployed	8.4
 54109	West Virginia	Wyoming	pcnt_unemployed	8.8
 55001	Wisconsin	Adams	pcnt_unemployed	10.5
 55003	Wisconsin	Ashland	pcnt_unemployed	9.5
-55005	Wisconsin	Barron	pcnt_unemployed	8.0
-55007	Wisconsin	Bayfield	pcnt_unemployed	10.0
+55005	Wisconsin	Barron	pcnt_unemployed	8
+55007	Wisconsin	Bayfield	pcnt_unemployed	10
 55009	Wisconsin	Brown	pcnt_unemployed	6.8
 55011	Wisconsin	Buffalo	pcnt_unemployed	6.1
 55013	Wisconsin	Burnett	pcnt_unemployed	9.1
@@ -3057,7 +3057,7 @@ FIPS	State	County	Variable	pcnt_unemployed
 55019	Wisconsin	Clark	pcnt_unemployed	8.2
 55021	Wisconsin	Columbia	pcnt_unemployed	7.4
 55023	Wisconsin	Crawford	pcnt_unemployed	8.1
-55025	Wisconsin	Dane	pcnt_unemployed	5.0
+55025	Wisconsin	Dane	pcnt_unemployed	5
 55027	Wisconsin	Dodge	pcnt_unemployed	7.8
 55029	Wisconsin	Door	pcnt_unemployed	10.6
 55031	Wisconsin	Douglas	pcnt_unemployed	7.1
@@ -3067,37 +3067,37 @@ FIPS	State	County	Variable	pcnt_unemployed
 55039	Wisconsin	Fond du Lac	pcnt_unemployed	7.2
 55041	Wisconsin	Forest	pcnt_unemployed	9.9
 55043	Wisconsin	Grant	pcnt_unemployed	6.4
-55045	Wisconsin	Green	pcnt_unemployed	7.0
+55045	Wisconsin	Green	pcnt_unemployed	7
 55047	Wisconsin	Green Lake	pcnt_unemployed	8.1
 55049	Wisconsin	Iowa	pcnt_unemployed	6.4
 55051	Wisconsin	Iron	pcnt_unemployed	10.8
 55053	Wisconsin	Jackson	pcnt_unemployed	8.3
 55055	Wisconsin	Jefferson	pcnt_unemployed	8.2
 55057	Wisconsin	Juneau	pcnt_unemployed	9.3
-55059	Wisconsin	Kenosha	pcnt_unemployed	9.0
-55061	Wisconsin	Kewaunee	pcnt_unemployed	7.0
+55059	Wisconsin	Kenosha	pcnt_unemployed	9
+55061	Wisconsin	Kewaunee	pcnt_unemployed	7
 55063	Wisconsin	La Crosse	pcnt_unemployed	5.7
 55065	Wisconsin	Lafayette	pcnt_unemployed	6.2
 55067	Wisconsin	Langlade	pcnt_unemployed	9.4
-55069	Wisconsin	Lincoln	pcnt_unemployed	10.0
+55069	Wisconsin	Lincoln	pcnt_unemployed	10
 55071	Wisconsin	Manitowoc	pcnt_unemployed	8.1
 55073	Wisconsin	Marathon	pcnt_unemployed	7.6
 55075	Wisconsin	Marinette	pcnt_unemployed	9.5
 55077	Wisconsin	Marquette	pcnt_unemployed	9.5
 55078	Wisconsin	Menominee	pcnt_unemployed	16.8
-55079	Wisconsin	Milwaukee	pcnt_unemployed	9.0
+55079	Wisconsin	Milwaukee	pcnt_unemployed	9
 55081	Wisconsin	Monroe	pcnt_unemployed	6.7
 55083	Wisconsin	Oconto	pcnt_unemployed	8.7
 55085	Wisconsin	Oneida	pcnt_unemployed	9.4
-55087	Wisconsin	Outagamie	pcnt_unemployed	7.0
-55089	Wisconsin	Ozaukee	pcnt_unemployed	6.0
+55087	Wisconsin	Outagamie	pcnt_unemployed	7
+55089	Wisconsin	Ozaukee	pcnt_unemployed	6
 55091	Wisconsin	Pepin	pcnt_unemployed	6.2
 55093	Wisconsin	Pierce	pcnt_unemployed	5.8
 55095	Wisconsin	Polk	pcnt_unemployed	8.4
 55097	Wisconsin	Portage	pcnt_unemployed	6.6
-55099	Wisconsin	Price	pcnt_unemployed	8.0
+55099	Wisconsin	Price	pcnt_unemployed	8
 55101	Wisconsin	Racine	pcnt_unemployed	8.9
-55103	Wisconsin	Richland	pcnt_unemployed	7.0
+55103	Wisconsin	Richland	pcnt_unemployed	7
 55105	Wisconsin	Rock	pcnt_unemployed	9.5
 55107	Wisconsin	Rusk	pcnt_unemployed	10.7
 55109	Wisconsin	St. Croix	pcnt_unemployed	5.9

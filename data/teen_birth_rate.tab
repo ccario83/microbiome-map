@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	teen_birth_rate
+1001	Alabama	Autauga	teen_birth_rate	43
+1003	Alabama	Baldwin	teen_birth_rate	48
+1005	Alabama	Barbour	teen_birth_rate	74
+1007	Alabama	Bibb	teen_birth_rate	48
+1009	Alabama	Blount	teen_birth_rate	49
+1011	Alabama	Bullock	teen_birth_rate	86
+1013	Alabama	Butler	teen_birth_rate	62
+1015	Alabama	Calhoun	teen_birth_rate	51
+1017	Alabama	Chambers	teen_birth_rate	64
+1019	Alabama	Cherokee	teen_birth_rate	52
+1021	Alabama	Chilton	teen_birth_rate	57
+1023	Alabama	Choctaw	teen_birth_rate	48
+1025	Alabama	Clarke	teen_birth_rate	42
+1027	Alabama	Clay	teen_birth_rate	51
+1029	Alabama	Cleburne	teen_birth_rate	58
+1031	Alabama	Coffee	teen_birth_rate	49
+1033	Alabama	Colbert	teen_birth_rate	55
+1035	Alabama	Conecuh	teen_birth_rate	53
+1037	Alabama	Coosa	teen_birth_rate	48
+1039	Alabama	Covington	teen_birth_rate	70
+1041	Alabama	Crenshaw	teen_birth_rate	55
+1043	Alabama	Cullman	teen_birth_rate	57
+1045	Alabama	Dale	teen_birth_rate	53
+1047	Alabama	Dallas	teen_birth_rate	77
+1049	Alabama	DeKalb	teen_birth_rate	64
+1051	Alabama	Elmore	teen_birth_rate	44
+1053	Alabama	Escambia	teen_birth_rate	71
+1055	Alabama	Etowah	teen_birth_rate	56
+1057	Alabama	Fayette	teen_birth_rate	50
+1059	Alabama	Franklin	teen_birth_rate	69
+1061	Alabama	Geneva	teen_birth_rate	53
+1063	Alabama	Greene	teen_birth_rate	56
+1065	Alabama	Hale	teen_birth_rate	46
+1067	Alabama	Henry	teen_birth_rate	47
+1069	Alabama	Houston	teen_birth_rate	56
+1071	Alabama	Jackson	teen_birth_rate	53
+1073	Alabama	Jefferson	teen_birth_rate	49
+1075	Alabama	Lamar	teen_birth_rate	58
+1077	Alabama	Lauderdale	teen_birth_rate	37
+1079	Alabama	Lawrence	teen_birth_rate	51
+1081	Alabama	Lee	teen_birth_rate	25
+1083	Alabama	Limestone	teen_birth_rate	49
+1085	Alabama	Lowndes	teen_birth_rate	65
+1087	Alabama	Macon	teen_birth_rate	35
+1089	Alabama	Madison	teen_birth_rate	35
+1091	Alabama	Marengo	teen_birth_rate	51
+1093	Alabama	Marion	teen_birth_rate	65
+1095	Alabama	Marshall	teen_birth_rate	76
+1097	Alabama	Mobile	teen_birth_rate	59
+1099	Alabama	Monroe	teen_birth_rate	58
+1101	Alabama	Montgomery	teen_birth_rate	59
+1103	Alabama	Morgan	teen_birth_rate	52
+1105	Alabama	Perry	teen_birth_rate	54
+1107	Alabama	Pickens	teen_birth_rate	42
+1109	Alabama	Pike	teen_birth_rate	35
+1111	Alabama	Randolph	teen_birth_rate	54
+1113	Alabama	Russell	teen_birth_rate	57
+1115	Alabama	St. Clair	teen_birth_rate	50
+1117	Alabama	Shelby	teen_birth_rate	26
+1119	Alabama	Sumter	teen_birth_rate	34
+1121	Alabama	Talladega	teen_birth_rate	55
+1123	Alabama	Tallapoosa	teen_birth_rate	59
+1125	Alabama	Tuscaloosa	teen_birth_rate	31
+1127	Alabama	Walker	teen_birth_rate	59
+1129	Alabama	Washington	teen_birth_rate	45
+1131	Alabama	Wilcox	teen_birth_rate	52
+1133	Alabama	Winston	teen_birth_rate	56
+2013	Alaska	Aleutians East	teen_birth_rate	
+2016	Alaska	Aleutians West	teen_birth_rate	
+2020	Alaska	Anchorage	teen_birth_rate	39
+2050	Alaska	Bethel	teen_birth_rate	78
+2060	Alaska	Bristol Bay	teen_birth_rate	
+2068	Alaska	Denali	teen_birth_rate	
+2070	Alaska	Dillingham	teen_birth_rate	57
+2090	Alaska	Fairbanks North Star	teen_birth_rate	39
+2100	Alaska	Haines	teen_birth_rate	
+2110	Alaska	Juneau	teen_birth_rate	27
+2122	Alaska	Kenai Peninsula	teen_birth_rate	31
+2130	Alaska	Ketchikan Gateway	teen_birth_rate	33
+2150	Alaska	Kodiak Island	teen_birth_rate	35
+2164	Alaska	Lake and Peninsula	teen_birth_rate	52
+2170	Alaska	Matanuska-Susitna	teen_birth_rate	33
+2180	Alaska	Nome	teen_birth_rate	96
+2185	Alaska	North Slope	teen_birth_rate	101
+2188	Alaska	Northwest Arctic	teen_birth_rate	94
+2201	Alaska	Prince of Wales-Outer Ketchikan	teen_birth_rate	53
+2220	Alaska	Sitka	teen_birth_rate	26
+2232	Alaska	Skagway-Hoonah-Angoon	teen_birth_rate	
+2240	Alaska	Southeast Fairbanks	teen_birth_rate	34
+2261	Alaska	Valdez-Cordova	teen_birth_rate	25
+2270	Alaska	Wade Hampton	teen_birth_rate	101
+2280	Alaska	Wrangell-Petersburg	teen_birth_rate	33
+2282	Alaska	Yakutat	teen_birth_rate	
+2290	Alaska	Yukon-Koyukuk	teen_birth_rate	62
+4001	Arizona	Apache	teen_birth_rate	61
+4003	Arizona	Cochise	teen_birth_rate	55
+4005	Arizona	Coconino	teen_birth_rate	38
+4007	Arizona	Gila	teen_birth_rate	83
+4009	Arizona	Graham	teen_birth_rate	59
+4011	Arizona	Greenlee	teen_birth_rate	74
+4012	Arizona	La Paz	teen_birth_rate	82
+4013	Arizona	Maricopa	teen_birth_rate	55
+4015	Arizona	Mohave	teen_birth_rate	60
+4017	Arizona	Navajo	teen_birth_rate	69
+4019	Arizona	Pima	teen_birth_rate	47
+4021	Arizona	Pinal	teen_birth_rate	65
+4023	Arizona	Santa Cruz	teen_birth_rate	59
+4025	Arizona	Yavapai	teen_birth_rate	51
+4027	Arizona	Yuma	teen_birth_rate	72
+5001	Arkansas	Arkansas	teen_birth_rate	66
+5003	Arkansas	Ashley	teen_birth_rate	67
+5005	Arkansas	Baxter	teen_birth_rate	51
+5007	Arkansas	Benton	teen_birth_rate	52
+5009	Arkansas	Boone	teen_birth_rate	55
+5011	Arkansas	Bradley	teen_birth_rate	77
+5013	Arkansas	Calhoun	teen_birth_rate	44
+5015	Arkansas	Carroll	teen_birth_rate	70
+5017	Arkansas	Chicot	teen_birth_rate	75
+5019	Arkansas	Clark	teen_birth_rate	30
+5021	Arkansas	Clay	teen_birth_rate	65
+5023	Arkansas	Cleburne	teen_birth_rate	51
+5025	Arkansas	Cleveland	teen_birth_rate	52
+5027	Arkansas	Columbia	teen_birth_rate	52
+5029	Arkansas	Conway	teen_birth_rate	66
+5031	Arkansas	Craighead	teen_birth_rate	51
+5033	Arkansas	Crawford	teen_birth_rate	60
+5035	Arkansas	Crittenden	teen_birth_rate	90
+5037	Arkansas	Cross	teen_birth_rate	64
+5039	Arkansas	Dallas	teen_birth_rate	69
+5041	Arkansas	Desha	teen_birth_rate	87
+5043	Arkansas	Drew	teen_birth_rate	48
+5045	Arkansas	Faulkner	teen_birth_rate	36
+5047	Arkansas	Franklin	teen_birth_rate	55
+5049	Arkansas	Fulton	teen_birth_rate	51
+5051	Arkansas	Garland	teen_birth_rate	57
+5053	Arkansas	Grant	teen_birth_rate	48
+5055	Arkansas	Greene	teen_birth_rate	66
+5057	Arkansas	Hempstead	teen_birth_rate	78
+5059	Arkansas	Hot Spring	teen_birth_rate	65
+5061	Arkansas	Howard	teen_birth_rate	70
+5063	Arkansas	Independence	teen_birth_rate	59
+5065	Arkansas	Izard	teen_birth_rate	56
+5067	Arkansas	Jackson	teen_birth_rate	78
+5069	Arkansas	Jefferson	teen_birth_rate	70
+5071	Arkansas	Johnson	teen_birth_rate	66
+5073	Arkansas	Lafayette	teen_birth_rate	53
+5075	Arkansas	Lawrence	teen_birth_rate	49
+5077	Arkansas	Lee	teen_birth_rate	77
+5079	Arkansas	Lincoln	teen_birth_rate	61
+5081	Arkansas	Little River	teen_birth_rate	58
+5083	Arkansas	Logan	teen_birth_rate	64
+5085	Arkansas	Lonoke	teen_birth_rate	49
+5087	Arkansas	Madison	teen_birth_rate	47
+5089	Arkansas	Marion	teen_birth_rate	54
+5091	Arkansas	Miller	teen_birth_rate	75
+5093	Arkansas	Mississippi	teen_birth_rate	89
+5095	Arkansas	Monroe	teen_birth_rate	72
+5097	Arkansas	Montgomery	teen_birth_rate	52
+5099	Arkansas	Nevada	teen_birth_rate	73
+5101	Arkansas	Newton	teen_birth_rate	43
+5103	Arkansas	Ouachita	teen_birth_rate	81
+5105	Arkansas	Perry	teen_birth_rate	49
+5107	Arkansas	Phillips	teen_birth_rate	94
+5109	Arkansas	Pike	teen_birth_rate	51
+5111	Arkansas	Poinsett	teen_birth_rate	84
+5113	Arkansas	Polk	teen_birth_rate	68
+5115	Arkansas	Pope	teen_birth_rate	48
+5117	Arkansas	Prairie	teen_birth_rate	49
+5119	Arkansas	Pulaski	teen_birth_rate	60
+5121	Arkansas	Randolph	teen_birth_rate	57
+5123	Arkansas	St. Francis	teen_birth_rate	97
+5125	Arkansas	Saline	teen_birth_rate	39
+5127	Arkansas	Scott	teen_birth_rate	76
+5129	Arkansas	Searcy	teen_birth_rate	50
+5131	Arkansas	Sebastian	teen_birth_rate	61
+5133	Arkansas	Sevier	teen_birth_rate	79
+5135	Arkansas	Sharp	teen_birth_rate	60
+5137	Arkansas	Stone	teen_birth_rate	56
+5139	Arkansas	Union	teen_birth_rate	71
+5141	Arkansas	Van Buren	teen_birth_rate	60
+5143	Arkansas	Washington	teen_birth_rate	47
+5145	Arkansas	White	teen_birth_rate	50
+5147	Arkansas	Woodruff	teen_birth_rate	82
+5149	Arkansas	Yell	teen_birth_rate	83
+6001	California	Alameda	teen_birth_rate	27
+6003	California	Alpine	teen_birth_rate	
+6005	California	Amador	teen_birth_rate	24
+6007	California	Butte	teen_birth_rate	28
+6009	California	Calaveras	teen_birth_rate	25
+6011	California	Colusa	teen_birth_rate	51
+6013	California	Contra Costa	teen_birth_rate	24
+6015	California	Del Norte	teen_birth_rate	54
+6017	California	El Dorado	teen_birth_rate	19
+6019	California	Fresno	teen_birth_rate	57
+6021	California	Glenn	teen_birth_rate	50
+6023	California	Humboldt	teen_birth_rate	28
+6025	California	Imperial	teen_birth_rate	64
+6027	California	Inyo	teen_birth_rate	40
+6029	California	Kern	teen_birth_rate	65
+6031	California	Kings	teen_birth_rate	67
+6033	California	Lake	teen_birth_rate	44
+6035	California	Lassen	teen_birth_rate	35
+6037	California	Los Angeles	teen_birth_rate	38
+6039	California	Madera	teen_birth_rate	64
+6041	California	Marin	teen_birth_rate	14
+6043	California	Mariposa	teen_birth_rate	22
+6045	California	Mendocino	teen_birth_rate	39
+6047	California	Merced	teen_birth_rate	52
+6049	California	Modoc	teen_birth_rate	42
+6051	California	Mono	teen_birth_rate	25
+6053	California	Monterey	teen_birth_rate	55
+6055	California	Napa	teen_birth_rate	27
+6057	California	Nevada	teen_birth_rate	18
+6059	California	Orange	teen_birth_rate	28
+6061	California	Placer	teen_birth_rate	17
+6063	California	Plumas	teen_birth_rate	23
+6065	California	Riverside	teen_birth_rate	42
+6067	California	Sacramento	teen_birth_rate	38
+6069	California	San Benito	teen_birth_rate	37
+6071	California	San Bernardino	teen_birth_rate	47
+6073	California	San Diego	teen_birth_rate	35
+6075	California	San Francisco	teen_birth_rate	17
+6077	California	San Joaquin	teen_birth_rate	47
+6079	California	San Luis Obispo	teen_birth_rate	19
+6081	California	San Mateo	teen_birth_rate	22
+6083	California	Santa Barbara	teen_birth_rate	36
+6085	California	Santa Clara	teen_birth_rate	26
+6087	California	Santa Cruz	teen_birth_rate	27
+6089	California	Shasta	teen_birth_rate	37
+6091	California	Sierra	teen_birth_rate	
+6093	California	Siskiyou	teen_birth_rate	41
+6095	California	Solano	teen_birth_rate	31
+6097	California	Sonoma	teen_birth_rate	25
+6099	California	Stanislaus	teen_birth_rate	46
+6101	California	Sutter	teen_birth_rate	41
+6103	California	Tehama	teen_birth_rate	49
+6105	California	Trinity	teen_birth_rate	28
+6107	California	Tulare	teen_birth_rate	66
+6109	California	Tuolumne	teen_birth_rate	25
+6111	California	Ventura	teen_birth_rate	35
+6113	California	Yolo	teen_birth_rate	20
+6115	California	Yuba	teen_birth_rate	58
+8001	Colorado	Adams	teen_birth_rate	58
+8003	Colorado	Alamosa	teen_birth_rate	61
+8005	Colorado	Arapahoe	teen_birth_rate	37
+8007	Colorado	Archuleta	teen_birth_rate	39
+8009	Colorado	Baca	teen_birth_rate	36
+8011	Colorado	Bent	teen_birth_rate	71
+8013	Colorado	Boulder	teen_birth_rate	18
+8014	Colorado	Broomfield	teen_birth_rate	21
+8015	Colorado	Chaffee	teen_birth_rate	34
+8017	Colorado	Cheyenne	teen_birth_rate	
+8019	Colorado	Clear Creek	teen_birth_rate	18
+8021	Colorado	Conejos	teen_birth_rate	51
+8023	Colorado	Costilla	teen_birth_rate	57
+8025	Colorado	Crowley	teen_birth_rate	63
+8027	Colorado	Custer	teen_birth_rate	
+8029	Colorado	Delta	teen_birth_rate	52
+8031	Colorado	Denver	teen_birth_rate	78
+8033	Colorado	Dolores	teen_birth_rate	
+8035	Colorado	Douglas	teen_birth_rate	10
+8037	Colorado	Eagle	teen_birth_rate	44
+8039	Colorado	Elbert	teen_birth_rate	13
+8041	Colorado	El Paso	teen_birth_rate	38
+8043	Colorado	Fremont	teen_birth_rate	51
+8045	Colorado	Garfield	teen_birth_rate	54
+8047	Colorado	Gilpin	teen_birth_rate	
+8049	Colorado	Grand	teen_birth_rate	25
+8051	Colorado	Gunnison	teen_birth_rate	14
+8053	Colorado	Hinsdale	teen_birth_rate	
+8055	Colorado	Huerfano	teen_birth_rate	60
+8057	Colorado	Jackson	teen_birth_rate	
+8059	Colorado	Jefferson	teen_birth_rate	25
+8061	Colorado	Kiowa	teen_birth_rate	
+8063	Colorado	Kit Carson	teen_birth_rate	46
+8065	Colorado	Lake	teen_birth_rate	73
+8067	Colorado	La Plata	teen_birth_rate	24
+8069	Colorado	Larimer	teen_birth_rate	21
+8071	Colorado	Las Animas	teen_birth_rate	61
+8073	Colorado	Lincoln	teen_birth_rate	50
+8075	Colorado	Logan	teen_birth_rate	41
+8077	Colorado	Mesa	teen_birth_rate	48
+8079	Colorado	Mineral	teen_birth_rate	
+8081	Colorado	Moffat	teen_birth_rate	57
+8083	Colorado	Montezuma	teen_birth_rate	53
+8085	Colorado	Montrose	teen_birth_rate	54
+8087	Colorado	Morgan	teen_birth_rate	65
+8089	Colorado	Otero	teen_birth_rate	62
+8091	Colorado	Ouray	teen_birth_rate	
+8093	Colorado	Park	teen_birth_rate	11
+8095	Colorado	Phillips	teen_birth_rate	48
+8097	Colorado	Pitkin	teen_birth_rate	
+8099	Colorado	Prowers	teen_birth_rate	69
+8101	Colorado	Pueblo	teen_birth_rate	63
+8103	Colorado	Rio Blanco	teen_birth_rate	43
+8105	Colorado	Rio Grande	teen_birth_rate	76
+8107	Colorado	Routt	teen_birth_rate	15
+8109	Colorado	Saguache	teen_birth_rate	58
+8111	Colorado	San Juan	teen_birth_rate	
+8113	Colorado	San Miguel	teen_birth_rate	22
+8115	Colorado	Sedgwick	teen_birth_rate	
+8117	Colorado	Summit	teen_birth_rate	33
+8119	Colorado	Teller	teen_birth_rate	24
+8121	Colorado	Washington	teen_birth_rate	34
+8123	Colorado	Weld	teen_birth_rate	46
+8125	Colorado	Yuma	teen_birth_rate	49
+9001	Connecticut	Fairfield	teen_birth_rate	19
+9003	Connecticut	Hartford	teen_birth_rate	28
+9005	Connecticut	Litchfield	teen_birth_rate	13
+9007	Connecticut	Middlesex	teen_birth_rate	11
+9009	Connecticut	New Haven	teen_birth_rate	26
+9011	Connecticut	New London	teen_birth_rate	24
+9013	Connecticut	Tolland	teen_birth_rate	7
+9015	Connecticut	Windham	teen_birth_rate	25
+10001	Delaware	Kent	teen_birth_rate	39
+10003	Delaware	New Castle	teen_birth_rate	32
+10005	Delaware	Sussex	teen_birth_rate	56
+11001	District of Columbia	District of Columbia	teen_birth_rate	47
+12001	Florida	Alachua	teen_birth_rate	21
+12003	Florida	Baker	teen_birth_rate	70
+12005	Florida	Bay	teen_birth_rate	56
+12007	Florida	Bradford	teen_birth_rate	72
+12009	Florida	Brevard	teen_birth_rate	32
+12011	Florida	Broward	teen_birth_rate	30
+12013	Florida	Calhoun	teen_birth_rate	57
+12015	Florida	Charlotte	teen_birth_rate	35
+12017	Florida	Citrus	teen_birth_rate	43
+12019	Florida	Clay	teen_birth_rate	34
+12021	Florida	Collier	teen_birth_rate	48
+12023	Florida	Columbia	teen_birth_rate	66
+12027	Florida	DeSoto	teen_birth_rate	75
+12029	Florida	Dixie	teen_birth_rate	63
+12031	Florida	Duval	teen_birth_rate	50
+12033	Florida	Escambia	teen_birth_rate	51
+12035	Florida	Flagler	teen_birth_rate	33
+12037	Florida	Franklin	teen_birth_rate	82
+12039	Florida	Gadsden	teen_birth_rate	72
+12041	Florida	Gilchrist	teen_birth_rate	53
+12043	Florida	Glades	teen_birth_rate	50
+12045	Florida	Gulf	teen_birth_rate	44
+12047	Florida	Hamilton	teen_birth_rate	89
+12049	Florida	Hardee	teen_birth_rate	99
+12051	Florida	Hendry	teen_birth_rate	80
+12053	Florida	Hernando	teen_birth_rate	36
+12055	Florida	Highlands	teen_birth_rate	59
+12057	Florida	Hillsborough	teen_birth_rate	46
+12059	Florida	Holmes	teen_birth_rate	68
+12061	Florida	Indian River	teen_birth_rate	43
+12063	Florida	Jackson	teen_birth_rate	55
+12065	Florida	Jefferson	teen_birth_rate	57
+12067	Florida	Lafayette	teen_birth_rate	65
+12069	Florida	Lake	teen_birth_rate	51
+12071	Florida	Lee	teen_birth_rate	47
+12073	Florida	Leon	teen_birth_rate	19
+12075	Florida	Levy	teen_birth_rate	53
+12077	Florida	Liberty	teen_birth_rate	67
+12079	Florida	Madison	teen_birth_rate	56
+12081	Florida	Manatee	teen_birth_rate	57
+12083	Florida	Marion	teen_birth_rate	56
+12085	Florida	Martin	teen_birth_rate	36
+12086	Florida	Miami-Dade	teen_birth_rate	34
+12087	Florida	Monroe	teen_birth_rate	29
+12089	Florida	Nassau	teen_birth_rate	46
+12091	Florida	Okaloosa	teen_birth_rate	45
+12093	Florida	Okeechobee	teen_birth_rate	79
+12095	Florida	Orange	teen_birth_rate	39
+12097	Florida	Osceola	teen_birth_rate	46
+12099	Florida	Palm Beach	teen_birth_rate	34
+12101	Florida	Pasco	teen_birth_rate	38
+12103	Florida	Pinellas	teen_birth_rate	38
+12105	Florida	Polk	teen_birth_rate	58
+12107	Florida	Putnam	teen_birth_rate	73
+12109	Florida	St. Johns	teen_birth_rate	23
+12111	Florida	St. Lucie	teen_birth_rate	47
+12113	Florida	Santa Rosa	teen_birth_rate	34
+12115	Florida	Sarasota	teen_birth_rate	31
+12117	Florida	Seminole	teen_birth_rate	25
+12119	Florida	Sumter	teen_birth_rate	75
+12121	Florida	Suwannee	teen_birth_rate	69
+12123	Florida	Taylor	teen_birth_rate	73
+12125	Florida	Union	teen_birth_rate	68
+12127	Florida	Volusia	teen_birth_rate	40
+12129	Florida	Wakulla	teen_birth_rate	38
+12131	Florida	Walton	teen_birth_rate	53
+12133	Florida	Washington	teen_birth_rate	57
+13001	Georgia	Appling	teen_birth_rate	88
+13003	Georgia	Atkinson	teen_birth_rate	94
+13005	Georgia	Bacon	teen_birth_rate	96
+13007	Georgia	Baker	teen_birth_rate	35
+13009	Georgia	Baldwin	teen_birth_rate	35
+13011	Georgia	Banks	teen_birth_rate	50
+13013	Georgia	Barrow	teen_birth_rate	49
+13015	Georgia	Bartow	teen_birth_rate	61
+13017	Georgia	Ben Hill	teen_birth_rate	105
+13019	Georgia	Berrien	teen_birth_rate	81
+13021	Georgia	Bibb	teen_birth_rate	65
+13023	Georgia	Bleckley	teen_birth_rate	31
+13025	Georgia	Brantley	teen_birth_rate	54
+13027	Georgia	Brooks	teen_birth_rate	71
+13029	Georgia	Bryan	teen_birth_rate	41
+13031	Georgia	Bulloch	teen_birth_rate	28
+13033	Georgia	Burke	teen_birth_rate	73
+13035	Georgia	Butts	teen_birth_rate	72
+13037	Georgia	Calhoun	teen_birth_rate	76
+13039	Georgia	Camden	teen_birth_rate	54
+13043	Georgia	Candler	teen_birth_rate	96
+13045	Georgia	Carroll	teen_birth_rate	49
+13047	Georgia	Catoosa	teen_birth_rate	53
+13049	Georgia	Charlton	teen_birth_rate	67
+13051	Georgia	Chatham	teen_birth_rate	51
+13053	Georgia	Chattahoochee	teen_birth_rate	38
+13055	Georgia	Chattooga	teen_birth_rate	77
+13057	Georgia	Cherokee	teen_birth_rate	32
+13059	Georgia	Clarke	teen_birth_rate	26
+13061	Georgia	Clay	teen_birth_rate	65
+13063	Georgia	Clayton	teen_birth_rate	60
+13065	Georgia	Clinch	teen_birth_rate	92
+13067	Georgia	Cobb	teen_birth_rate	33
+13069	Georgia	Coffee	teen_birth_rate	88
+13071	Georgia	Colquitt	teen_birth_rate	91
+13073	Georgia	Columbia	teen_birth_rate	26
+13075	Georgia	Cook	teen_birth_rate	78
+13077	Georgia	Coweta	teen_birth_rate	43
+13079	Georgia	Crawford	teen_birth_rate	33
+13081	Georgia	Crisp	teen_birth_rate	97
+13083	Georgia	Dade	teen_birth_rate	34
+13085	Georgia	Dawson	teen_birth_rate	48
+13087	Georgia	Decatur	teen_birth_rate	86
+13089	Georgia	DeKalb	teen_birth_rate	47
+13091	Georgia	Dodge	teen_birth_rate	63
+13093	Georgia	Dooly	teen_birth_rate	66
+13095	Georgia	Dougherty	teen_birth_rate	75
+13097	Georgia	Douglas	teen_birth_rate	42
+13099	Georgia	Early	teen_birth_rate	75
+13101	Georgia	Echols	teen_birth_rate	39
+13103	Georgia	Effingham	teen_birth_rate	35
+13105	Georgia	Elbert	teen_birth_rate	63
+13107	Georgia	Emanuel	teen_birth_rate	77
+13109	Georgia	Evans	teen_birth_rate	95
+13111	Georgia	Fannin	teen_birth_rate	58
+13113	Georgia	Fayette	teen_birth_rate	14
+13115	Georgia	Floyd	teen_birth_rate	55
+13117	Georgia	Forsyth	teen_birth_rate	24
+13119	Georgia	Franklin	teen_birth_rate	67
+13121	Georgia	Fulton	teen_birth_rate	46
+13123	Georgia	Gilmer	teen_birth_rate	74
+13125	Georgia	Glascock	teen_birth_rate	39
+13127	Georgia	Glynn	teen_birth_rate	69
+13129	Georgia	Gordon	teen_birth_rate	69
+13131	Georgia	Grady	teen_birth_rate	85
+13133	Georgia	Greene	teen_birth_rate	57
+13135	Georgia	Gwinnett	teen_birth_rate	36
+13137	Georgia	Habersham	teen_birth_rate	65
+13139	Georgia	Hall	teen_birth_rate	63
+13141	Georgia	Hancock	teen_birth_rate	51
+13143	Georgia	Haralson	teen_birth_rate	61
+13145	Georgia	Harris	teen_birth_rate	29
+13147	Georgia	Hart	teen_birth_rate	50
+13149	Georgia	Heard	teen_birth_rate	52
+13151	Georgia	Henry	teen_birth_rate	35
+13153	Georgia	Houston	teen_birth_rate	46
+13155	Georgia	Irwin	teen_birth_rate	59
+13157	Georgia	Jackson	teen_birth_rate	54
+13159	Georgia	Jasper	teen_birth_rate	52
+13161	Georgia	Jeff Davis	teen_birth_rate	94
+13163	Georgia	Jefferson	teen_birth_rate	70
+13165	Georgia	Jenkins	teen_birth_rate	73
+13167	Georgia	Johnson	teen_birth_rate	70
+13169	Georgia	Jones	teen_birth_rate	27
+13171	Georgia	Lamar	teen_birth_rate	38
+13173	Georgia	Lanier	teen_birth_rate	57
+13175	Georgia	Laurens	teen_birth_rate	63
+13177	Georgia	Lee	teen_birth_rate	37
+13179	Georgia	Liberty	teen_birth_rate	68
+13181	Georgia	Lincoln	teen_birth_rate	42
+13183	Georgia	Long	teen_birth_rate	43
+13185	Georgia	Lowndes	teen_birth_rate	51
+13187	Georgia	Lumpkin	teen_birth_rate	25
+13189	Georgia	McDuffie	teen_birth_rate	72
+13191	Georgia	McIntosh	teen_birth_rate	58
+13193	Georgia	Macon	teen_birth_rate	56
+13195	Georgia	Madison	teen_birth_rate	52
+13197	Georgia	Marion	teen_birth_rate	70
+13199	Georgia	Meriwether	teen_birth_rate	61
+13201	Georgia	Miller	teen_birth_rate	53
+13205	Georgia	Mitchell	teen_birth_rate	89
+13207	Georgia	Monroe	teen_birth_rate	34
+13209	Georgia	Montgomery	teen_birth_rate	48
+13211	Georgia	Morgan	teen_birth_rate	42
+13213	Georgia	Murray	teen_birth_rate	80
+13215	Georgia	Muscogee	teen_birth_rate	70
+13217	Georgia	Newton	teen_birth_rate	51
+13219	Georgia	Oconee	teen_birth_rate	15
+13221	Georgia	Oglethorpe	teen_birth_rate	38
+13223	Georgia	Paulding	teen_birth_rate	28
+13225	Georgia	Peach	teen_birth_rate	44
+13227	Georgia	Pickens	teen_birth_rate	55
+13229	Georgia	Pierce	teen_birth_rate	81
+13231	Georgia	Pike	teen_birth_rate	40
+13233	Georgia	Polk	teen_birth_rate	84
+13235	Georgia	Pulaski	teen_birth_rate	57
+13237	Georgia	Putnam	teen_birth_rate	63
+13239	Georgia	Quitman	teen_birth_rate	84
+13241	Georgia	Rabun	teen_birth_rate	52
+13243	Georgia	Randolph	teen_birth_rate	56
+13245	Georgia	Richmond	teen_birth_rate	64
+13247	Georgia	Rockdale	teen_birth_rate	42
+13249	Georgia	Schley	teen_birth_rate	50
+13251	Georgia	Screven	teen_birth_rate	62
+13253	Georgia	Seminole	teen_birth_rate	78
+13255	Georgia	Spalding	teen_birth_rate	77
+13257	Georgia	Stephens	teen_birth_rate	55
+13259	Georgia	Stewart	teen_birth_rate	88
+13261	Georgia	Sumter	teen_birth_rate	66
+13263	Georgia	Talbot	teen_birth_rate	61
+13265	Georgia	Taliaferro	teen_birth_rate	71
+13267	Georgia	Tattnall	teen_birth_rate	91
+13269	Georgia	Taylor	teen_birth_rate	66
+13271	Georgia	Telfair	teen_birth_rate	75
+13273	Georgia	Terrell	teen_birth_rate	92
+13275	Georgia	Thomas	teen_birth_rate	68
+13277	Georgia	Tift	teen_birth_rate	73
+13279	Georgia	Toombs	teen_birth_rate	84
+13281	Georgia	Towns	teen_birth_rate	27
+13283	Georgia	Treutlen	teen_birth_rate	63
+13285	Georgia	Troup	teen_birth_rate	71
+13287	Georgia	Turner	teen_birth_rate	95
+13289	Georgia	Twiggs	teen_birth_rate	50
+13291	Georgia	Union	teen_birth_rate	50
+13293	Georgia	Upson	teen_birth_rate	68
+13295	Georgia	Walker	teen_birth_rate	65
+13297	Georgia	Walton	teen_birth_rate	48
+13299	Georgia	Ware	teen_birth_rate	89
+13301	Georgia	Warren	teen_birth_rate	64
+13303	Georgia	Washington	teen_birth_rate	58
+13305	Georgia	Wayne	teen_birth_rate	87
+13307	Georgia	Webster	teen_birth_rate	42
+13309	Georgia	Wheeler	teen_birth_rate	97
+13311	Georgia	White	teen_birth_rate	41
+13313	Georgia	Whitfield	teen_birth_rate	80
+13315	Georgia	Wilcox	teen_birth_rate	68
+13317	Georgia	Wilkes	teen_birth_rate	55
+13319	Georgia	Wilkinson	teen_birth_rate	62
+13321	Georgia	Worth	teen_birth_rate	50
+15001	Hawaii	Hawaii	teen_birth_rate	46
+15003	Hawaii	Honolulu	teen_birth_rate	34
+15005	Hawaii	Kalawao	teen_birth_rate	
+15007	Hawaii	Kauai	teen_birth_rate	43
+15009	Hawaii	Maui	teen_birth_rate	41
+16001	Idaho	Ada	teen_birth_rate	26
+16003	Idaho	Adams	teen_birth_rate	31
+16005	Idaho	Bannock	teen_birth_rate	35
+16007	Idaho	Bear Lake	teen_birth_rate	29
+16009	Idaho	Benewah	teen_birth_rate	51
+16011	Idaho	Bingham	teen_birth_rate	45
+16013	Idaho	Blaine	teen_birth_rate	37
+16015	Idaho	Boise	teen_birth_rate	20
+16017	Idaho	Bonner	teen_birth_rate	34
+16019	Idaho	Bonneville	teen_birth_rate	45
+16021	Idaho	Boundary	teen_birth_rate	33
+16023	Idaho	Butte	teen_birth_rate	29
+16025	Idaho	Camas	teen_birth_rate	
+16027	Idaho	Canyon	teen_birth_rate	61
+16029	Idaho	Caribou	teen_birth_rate	27
+16031	Idaho	Cassia	teen_birth_rate	52
+16033	Idaho	Clark	teen_birth_rate	
+16035	Idaho	Clearwater	teen_birth_rate	37
+16037	Idaho	Custer	teen_birth_rate	
+16039	Idaho	Elmore	teen_birth_rate	57
+16041	Idaho	Franklin	teen_birth_rate	26
+16043	Idaho	Fremont	teen_birth_rate	40
+16045	Idaho	Gem	teen_birth_rate	43
+16047	Idaho	Gooding	teen_birth_rate	58
+16049	Idaho	Idaho	teen_birth_rate	34
+16051	Idaho	Jefferson	teen_birth_rate	34
+16053	Idaho	Jerome	teen_birth_rate	71
+16055	Idaho	Kootenai	teen_birth_rate	31
+16057	Idaho	Latah	teen_birth_rate	9
+16059	Idaho	Lemhi	teen_birth_rate	35
+16061	Idaho	Lewis	teen_birth_rate	36
+16063	Idaho	Lincoln	teen_birth_rate	55
+16065	Idaho	Madison	teen_birth_rate	9
+16067	Idaho	Minidoka	teen_birth_rate	66
+16069	Idaho	Nez Perce	teen_birth_rate	33
+16071	Idaho	Oneida	teen_birth_rate	27
+16073	Idaho	Owyhee	teen_birth_rate	50
+16075	Idaho	Payette	teen_birth_rate	49
+16077	Idaho	Power	teen_birth_rate	51
+16079	Idaho	Shoshone	teen_birth_rate	50
+16081	Idaho	Teton	teen_birth_rate	29
+16083	Idaho	Twin Falls	teen_birth_rate	50
+16085	Idaho	Valley	teen_birth_rate	34
+16087	Idaho	Washington	teen_birth_rate	40
+17001	Illinois	Adams	teen_birth_rate	39
+17003	Illinois	Alexander	teen_birth_rate	93
+17005	Illinois	Bond	teen_birth_rate	33
+17007	Illinois	Boone	teen_birth_rate	33
+17009	Illinois	Brown	teen_birth_rate	27
+17011	Illinois	Bureau	teen_birth_rate	29
+17013	Illinois	Calhoun	teen_birth_rate	25
+17015	Illinois	Carroll	teen_birth_rate	32
+17017	Illinois	Cass	teen_birth_rate	46
+17019	Illinois	Champaign	teen_birth_rate	21
+17021	Illinois	Christian	teen_birth_rate	45
+17023	Illinois	Clark	teen_birth_rate	42
+17025	Illinois	Clay	teen_birth_rate	49
+17027	Illinois	Clinton	teen_birth_rate	29
+17029	Illinois	Coles	teen_birth_rate	21
+17031	Illinois	Cook	teen_birth_rate	46
+17033	Illinois	Crawford	teen_birth_rate	40
+17035	Illinois	Cumberland	teen_birth_rate	34
+17037	Illinois	DeKalb	teen_birth_rate	17
+17039	Illinois	De Witt	teen_birth_rate	36
+17041	Illinois	Douglas	teen_birth_rate	32
+17043	Illinois	DuPage	teen_birth_rate	16
+17045	Illinois	Edgar	teen_birth_rate	48
+17047	Illinois	Edwards	teen_birth_rate	35
+17049	Illinois	Effingham	teen_birth_rate	37
+17051	Illinois	Fayette	teen_birth_rate	44
+17053	Illinois	Ford	teen_birth_rate	35
+17055	Illinois	Franklin	teen_birth_rate	47
+17057	Illinois	Fulton	teen_birth_rate	44
+17059	Illinois	Gallatin	teen_birth_rate	55
+17061	Illinois	Greene	teen_birth_rate	40
+17063	Illinois	Grundy	teen_birth_rate	26
+17065	Illinois	Hamilton	teen_birth_rate	40
+17067	Illinois	Hancock	teen_birth_rate	40
+17069	Illinois	Hardin	teen_birth_rate	45
+17071	Illinois	Henderson	teen_birth_rate	36
+17073	Illinois	Henry	teen_birth_rate	33
+17075	Illinois	Iroquois	teen_birth_rate	35
+17077	Illinois	Jackson	teen_birth_rate	25
+17079	Illinois	Jasper	teen_birth_rate	32
+17081	Illinois	Jefferson	teen_birth_rate	55
+17083	Illinois	Jersey	teen_birth_rate	28
+17085	Illinois	Jo Daviess	teen_birth_rate	24
+17087	Illinois	Johnson	teen_birth_rate	33
+17089	Illinois	Kane	teen_birth_rate	40
+17091	Illinois	Kankakee	teen_birth_rate	43
+17093	Illinois	Kendall	teen_birth_rate	22
+17095	Illinois	Knox	teen_birth_rate	41
+17097	Illinois	Lake	teen_birth_rate	27
+17099	Illinois	LaSalle	teen_birth_rate	36
+17101	Illinois	Lawrence	teen_birth_rate	40
+17103	Illinois	Lee	teen_birth_rate	36
+17105	Illinois	Livingston	teen_birth_rate	36
+17107	Illinois	Logan	teen_birth_rate	34
+17109	Illinois	McDonough	teen_birth_rate	13
+17111	Illinois	McHenry	teen_birth_rate	20
+17113	Illinois	McLean	teen_birth_rate	18
+17115	Illinois	Macon	teen_birth_rate	55
+17117	Illinois	Macoupin	teen_birth_rate	35
+17119	Illinois	Madison	teen_birth_rate	39
+17121	Illinois	Marion	teen_birth_rate	62
+17123	Illinois	Marshall	teen_birth_rate	25
+17125	Illinois	Mason	teen_birth_rate	48
+17127	Illinois	Massac	teen_birth_rate	62
+17129	Illinois	Menard	teen_birth_rate	26
+17131	Illinois	Mercer	teen_birth_rate	35
+17133	Illinois	Monroe	teen_birth_rate	14
+17135	Illinois	Montgomery	teen_birth_rate	48
+17137	Illinois	Morgan	teen_birth_rate	36
+17139	Illinois	Moultrie	teen_birth_rate	30
+17141	Illinois	Ogle	teen_birth_rate	31
+17143	Illinois	Peoria	teen_birth_rate	52
+17145	Illinois	Perry	teen_birth_rate	43
+17147	Illinois	Piatt	teen_birth_rate	22
+17149	Illinois	Pike	teen_birth_rate	45
+17151	Illinois	Pope	teen_birth_rate	33
+17153	Illinois	Pulaski	teen_birth_rate	65
+17155	Illinois	Putnam	teen_birth_rate	20
+17157	Illinois	Randolph	teen_birth_rate	47
+17159	Illinois	Richland	teen_birth_rate	40
+17161	Illinois	Rock Island	teen_birth_rate	51
+17163	Illinois	St. Clair	teen_birth_rate	52
+17165	Illinois	Saline	teen_birth_rate	57
+17167	Illinois	Sangamon	teen_birth_rate	43
+17169	Illinois	Schuyler	teen_birth_rate	33
+17171	Illinois	Scott	teen_birth_rate	41
+17173	Illinois	Shelby	teen_birth_rate	38
+17175	Illinois	Stark	teen_birth_rate	29
+17177	Illinois	Stephenson	teen_birth_rate	45
+17179	Illinois	Tazewell	teen_birth_rate	34
+17181	Illinois	Union	teen_birth_rate	50
+17183	Illinois	Vermilion	teen_birth_rate	60
+17185	Illinois	Wabash	teen_birth_rate	39
+17187	Illinois	Warren	teen_birth_rate	28
+17189	Illinois	Washington	teen_birth_rate	29
+17191	Illinois	Wayne	teen_birth_rate	46
+17193	Illinois	White	teen_birth_rate	53
+17195	Illinois	Whiteside	teen_birth_rate	47
+17197	Illinois	Will	teen_birth_rate	26
+17199	Illinois	Williamson	teen_birth_rate	42
+17201	Illinois	Winnebago	teen_birth_rate	50
+17203	Illinois	Woodford	teen_birth_rate	20
+18001	Indiana	Adams	teen_birth_rate	31
+18003	Indiana	Allen	teen_birth_rate	44
+18005	Indiana	Bartholomew	teen_birth_rate	54
+18007	Indiana	Benton	teen_birth_rate	36
+18009	Indiana	Blackford	teen_birth_rate	51
+18011	Indiana	Boone	teen_birth_rate	23
+18013	Indiana	Brown	teen_birth_rate	22
+18015	Indiana	Carroll	teen_birth_rate	28
+18017	Indiana	Cass	teen_birth_rate	48
+18019	Indiana	Clark	teen_birth_rate	49
+18021	Indiana	Clay	teen_birth_rate	43
+18023	Indiana	Clinton	teen_birth_rate	53
+18025	Indiana	Crawford	teen_birth_rate	43
+18027	Indiana	Daviess	teen_birth_rate	47
+18029	Indiana	Dearborn	teen_birth_rate	36
+18031	Indiana	Decatur	teen_birth_rate	48
+18033	Indiana	DeKalb	teen_birth_rate	46
+18035	Indiana	Delaware	teen_birth_rate	25
+18037	Indiana	Dubois	teen_birth_rate	31
+18039	Indiana	Elkhart	teen_birth_rate	58
+18041	Indiana	Fayette	teen_birth_rate	61
+18043	Indiana	Floyd	teen_birth_rate	40
+18045	Indiana	Fountain	teen_birth_rate	49
+18047	Indiana	Franklin	teen_birth_rate	31
+18049	Indiana	Fulton	teen_birth_rate	52
+18051	Indiana	Gibson	teen_birth_rate	39
+18053	Indiana	Grant	teen_birth_rate	42
+18055	Indiana	Greene	teen_birth_rate	47
+18057	Indiana	Hamilton	teen_birth_rate	15
+18059	Indiana	Hancock	teen_birth_rate	29
+18061	Indiana	Harrison	teen_birth_rate	34
+18063	Indiana	Hendricks	teen_birth_rate	21
+18065	Indiana	Henry	teen_birth_rate	41
+18067	Indiana	Howard	teen_birth_rate	49
+18069	Indiana	Huntington	teen_birth_rate	29
+18071	Indiana	Jackson	teen_birth_rate	58
+18073	Indiana	Jasper	teen_birth_rate	35
+18075	Indiana	Jay	teen_birth_rate	45
+18077	Indiana	Jefferson	teen_birth_rate	37
+18079	Indiana	Jennings	teen_birth_rate	69
+18081	Indiana	Johnson	teen_birth_rate	35
+18083	Indiana	Knox	teen_birth_rate	42
+18085	Indiana	Kosciusko	teen_birth_rate	42
+18087	Indiana	LaGrange	teen_birth_rate	26
+18089	Indiana	Lake	teen_birth_rate	45
+18091	Indiana	LaPorte	teen_birth_rate	49
+18093	Indiana	Lawrence	teen_birth_rate	51
+18095	Indiana	Madison	teen_birth_rate	48
+18097	Indiana	Marion	teen_birth_rate	60
+18099	Indiana	Marshall	teen_birth_rate	38
+18101	Indiana	Martin	teen_birth_rate	45
+18103	Indiana	Miami	teen_birth_rate	46
+18105	Indiana	Monroe	teen_birth_rate	13
+18107	Indiana	Montgomery	teen_birth_rate	50
+18109	Indiana	Morgan	teen_birth_rate	40
+18111	Indiana	Newton	teen_birth_rate	34
+18113	Indiana	Noble	teen_birth_rate	50
+18115	Indiana	Ohio	teen_birth_rate	31
+18117	Indiana	Orange	teen_birth_rate	42
+18119	Indiana	Owen	teen_birth_rate	45
+18121	Indiana	Parke	teen_birth_rate	38
+18123	Indiana	Perry	teen_birth_rate	48
+18125	Indiana	Pike	teen_birth_rate	44
+18127	Indiana	Porter	teen_birth_rate	22
+18129	Indiana	Posey	teen_birth_rate	27
+18131	Indiana	Pulaski	teen_birth_rate	42
+18133	Indiana	Putnam	teen_birth_rate	31
+18135	Indiana	Randolph	teen_birth_rate	46
+18137	Indiana	Ripley	teen_birth_rate	41
+18139	Indiana	Rush	teen_birth_rate	45
+18141	Indiana	St. Joseph	teen_birth_rate	41
+18143	Indiana	Scott	teen_birth_rate	63
+18145	Indiana	Shelby	teen_birth_rate	45
+18147	Indiana	Spencer	teen_birth_rate	32
+18149	Indiana	Starke	teen_birth_rate	52
+18151	Indiana	Steuben	teen_birth_rate	41
+18153	Indiana	Sullivan	teen_birth_rate	48
+18155	Indiana	Switzerland	teen_birth_rate	36
+18157	Indiana	Tippecanoe	teen_birth_rate	25
+18159	Indiana	Tipton	teen_birth_rate	39
+18161	Indiana	Union	teen_birth_rate	46
+18163	Indiana	Vanderburgh	teen_birth_rate	43
+18165	Indiana	Vermillion	teen_birth_rate	44
+18167	Indiana	Vigo	teen_birth_rate	42
+18169	Indiana	Wabash	teen_birth_rate	35
+18171	Indiana	Warren	teen_birth_rate	32
+18173	Indiana	Warrick	teen_birth_rate	27
+18175	Indiana	Washington	teen_birth_rate	43
+18177	Indiana	Wayne	teen_birth_rate	52
+18179	Indiana	Wells	teen_birth_rate	24
+18181	Indiana	White	teen_birth_rate	45
+18183	Indiana	Whitley	teen_birth_rate	32
+19001	Iowa	Adair	teen_birth_rate	23
+19003	Iowa	Adams	teen_birth_rate	29
+19005	Iowa	Allamakee	teen_birth_rate	35
+19007	Iowa	Appanoose	teen_birth_rate	49
+19009	Iowa	Audubon	teen_birth_rate	31
+19011	Iowa	Benton	teen_birth_rate	19
+19013	Iowa	Black Hawk	teen_birth_rate	30
+19015	Iowa	Boone	teen_birth_rate	27
+19017	Iowa	Bremer	teen_birth_rate	12
+19019	Iowa	Buchanan	teen_birth_rate	26
+19021	Iowa	Buena Vista	teen_birth_rate	46
+19023	Iowa	Butler	teen_birth_rate	23
+19025	Iowa	Calhoun	teen_birth_rate	31
+19027	Iowa	Carroll	teen_birth_rate	26
+19029	Iowa	Cass	teen_birth_rate	41
+19031	Iowa	Cedar	teen_birth_rate	19
+19033	Iowa	Cerro Gordo	teen_birth_rate	30
+19035	Iowa	Cherokee	teen_birth_rate	31
+19037	Iowa	Chickasaw	teen_birth_rate	22
+19039	Iowa	Clarke	teen_birth_rate	51
+19041	Iowa	Clay	teen_birth_rate	32
+19043	Iowa	Clayton	teen_birth_rate	20
+19045	Iowa	Clinton	teen_birth_rate	43
+19047	Iowa	Crawford	teen_birth_rate	38
+19049	Iowa	Dallas	teen_birth_rate	24
+19051	Iowa	Davis	teen_birth_rate	26
+19053	Iowa	Decatur	teen_birth_rate	28
+19055	Iowa	Delaware	teen_birth_rate	23
+19057	Iowa	Des Moines	teen_birth_rate	50
+19059	Iowa	Dickinson	teen_birth_rate	26
+19061	Iowa	Dubuque	teen_birth_rate	27
+19063	Iowa	Emmet	teen_birth_rate	32
+19065	Iowa	Fayette	teen_birth_rate	28
+19067	Iowa	Floyd	teen_birth_rate	35
+19069	Iowa	Franklin	teen_birth_rate	41
+19071	Iowa	Fremont	teen_birth_rate	37
+19073	Iowa	Greene	teen_birth_rate	35
+19075	Iowa	Grundy	teen_birth_rate	16
+19077	Iowa	Guthrie	teen_birth_rate	18
+19079	Iowa	Hamilton	teen_birth_rate	36
+19081	Iowa	Hancock	teen_birth_rate	27
+19083	Iowa	Hardin	teen_birth_rate	31
+19085	Iowa	Harrison	teen_birth_rate	24
+19087	Iowa	Henry	teen_birth_rate	32
+19089	Iowa	Howard	teen_birth_rate	28
+19091	Iowa	Humboldt	teen_birth_rate	34
+19093	Iowa	Ida	teen_birth_rate	29
+19095	Iowa	Iowa	teen_birth_rate	18
+19097	Iowa	Jackson	teen_birth_rate	28
+19099	Iowa	Jasper	teen_birth_rate	33
+19101	Iowa	Jefferson	teen_birth_rate	27
+19103	Iowa	Johnson	teen_birth_rate	11
+19105	Iowa	Jones	teen_birth_rate	29
+19107	Iowa	Keokuk	teen_birth_rate	26
+19109	Iowa	Kossuth	teen_birth_rate	20
+19111	Iowa	Lee	teen_birth_rate	46
+19113	Iowa	Linn	teen_birth_rate	28
+19115	Iowa	Louisa	teen_birth_rate	44
+19117	Iowa	Lucas	teen_birth_rate	38
+19119	Iowa	Lyon	teen_birth_rate	16
+19121	Iowa	Madison	teen_birth_rate	27
+19123	Iowa	Mahaska	teen_birth_rate	38
+19125	Iowa	Marion	teen_birth_rate	23
+19127	Iowa	Marshall	teen_birth_rate	59
+19129	Iowa	Mills	teen_birth_rate	27
+19131	Iowa	Mitchell	teen_birth_rate	16
+19133	Iowa	Monona	teen_birth_rate	27
+19135	Iowa	Monroe	teen_birth_rate	42
+19137	Iowa	Montgomery	teen_birth_rate	40
+19139	Iowa	Muscatine	teen_birth_rate	50
+19141	Iowa	O'Brien	teen_birth_rate	37
+19143	Iowa	Osceola	teen_birth_rate	24
+19145	Iowa	Page	teen_birth_rate	37
+19147	Iowa	Palo Alto	teen_birth_rate	21
+19149	Iowa	Plymouth	teen_birth_rate	19
+19151	Iowa	Pocahontas	teen_birth_rate	29
+19153	Iowa	Polk	teen_birth_rate	41
+19155	Iowa	Pottawattamie	teen_birth_rate	42
+19157	Iowa	Poweshiek	teen_birth_rate	18
+19159	Iowa	Ringgold	teen_birth_rate	35
+19161	Iowa	Sac	teen_birth_rate	19
+19163	Iowa	Scott	teen_birth_rate	44
+19165	Iowa	Shelby	teen_birth_rate	19
+19167	Iowa	Sioux	teen_birth_rate	19
+19169	Iowa	Story	teen_birth_rate	9
+19171	Iowa	Tama	teen_birth_rate	38
+19173	Iowa	Taylor	teen_birth_rate	33
+19175	Iowa	Union	teen_birth_rate	33
+19177	Iowa	Van Buren	teen_birth_rate	32
+19179	Iowa	Wapello	teen_birth_rate	52
+19181	Iowa	Warren	teen_birth_rate	20
+19183	Iowa	Washington	teen_birth_rate	28
+19185	Iowa	Wayne	teen_birth_rate	45
+19187	Iowa	Webster	teen_birth_rate	41
+19189	Iowa	Winnebago	teen_birth_rate	26
+19191	Iowa	Winneshiek	teen_birth_rate	8
+19193	Iowa	Woodbury	teen_birth_rate	51
+19195	Iowa	Worth	teen_birth_rate	27
+19197	Iowa	Wright	teen_birth_rate	49
+20001	Kansas	Allen	teen_birth_rate	49
+20003	Kansas	Anderson	teen_birth_rate	47
+20005	Kansas	Atchison	teen_birth_rate	37
+20007	Kansas	Barber	teen_birth_rate	38
+20009	Kansas	Barton	teen_birth_rate	44
+20011	Kansas	Bourbon	teen_birth_rate	61
+20013	Kansas	Brown	teen_birth_rate	56
+20015	Kansas	Butler	teen_birth_rate	31
+20017	Kansas	Chase	teen_birth_rate	46
+20019	Kansas	Chautauqua	teen_birth_rate	41
+20021	Kansas	Cherokee	teen_birth_rate	61
+20023	Kansas	Cheyenne	teen_birth_rate	
+20025	Kansas	Clark	teen_birth_rate	
+20027	Kansas	Clay	teen_birth_rate	37
+20029	Kansas	Cloud	teen_birth_rate	39
+20031	Kansas	Coffey	teen_birth_rate	31
+20033	Kansas	Comanche	teen_birth_rate	
+20035	Kansas	Cowley	teen_birth_rate	48
+20037	Kansas	Crawford	teen_birth_rate	41
+20039	Kansas	Decatur	teen_birth_rate	
+20041	Kansas	Dickinson	teen_birth_rate	36
+20043	Kansas	Doniphan	teen_birth_rate	21
+20045	Kansas	Douglas	teen_birth_rate	13
+20047	Kansas	Edwards	teen_birth_rate	52
+20049	Kansas	Elk	teen_birth_rate	49
+20051	Kansas	Ellis	teen_birth_rate	25
+20053	Kansas	Ellsworth	teen_birth_rate	20
+20055	Kansas	Finney	teen_birth_rate	80
+20057	Kansas	Ford	teen_birth_rate	75
+20059	Kansas	Franklin	teen_birth_rate	47
+20061	Kansas	Geary	teen_birth_rate	73
+20063	Kansas	Gove	teen_birth_rate	
+20065	Kansas	Graham	teen_birth_rate	
+20067	Kansas	Grant	teen_birth_rate	75
+20069	Kansas	Gray	teen_birth_rate	35
+20071	Kansas	Greeley	teen_birth_rate	
+20073	Kansas	Greenwood	teen_birth_rate	48
+20075	Kansas	Hamilton	teen_birth_rate	72
+20077	Kansas	Harper	teen_birth_rate	46
+20079	Kansas	Harvey	teen_birth_rate	33
+20081	Kansas	Haskell	teen_birth_rate	53
+20083	Kansas	Hodgeman	teen_birth_rate	
+20085	Kansas	Jackson	teen_birth_rate	38
+20087	Kansas	Jefferson	teen_birth_rate	27
+20089	Kansas	Jewell	teen_birth_rate	
+20091	Kansas	Johnson	teen_birth_rate	19
+20093	Kansas	Kearny	teen_birth_rate	64
+20095	Kansas	Kingman	teen_birth_rate	27
+20097	Kansas	Kiowa	teen_birth_rate	
+20099	Kansas	Labette	teen_birth_rate	62
+20101	Kansas	Lane	teen_birth_rate	
+20103	Kansas	Leavenworth	teen_birth_rate	35
+20105	Kansas	Lincoln	teen_birth_rate	
+20107	Kansas	Linn	teen_birth_rate	40
+20109	Kansas	Logan	teen_birth_rate	
+20111	Kansas	Lyon	teen_birth_rate	39
+20113	Kansas	McPherson	teen_birth_rate	27
+20115	Kansas	Marion	teen_birth_rate	18
+20117	Kansas	Marshall	teen_birth_rate	26
+20119	Kansas	Meade	teen_birth_rate	40
+20121	Kansas	Miami	teen_birth_rate	30
+20123	Kansas	Mitchell	teen_birth_rate	21
+20125	Kansas	Montgomery	teen_birth_rate	59
+20127	Kansas	Morris	teen_birth_rate	42
+20129	Kansas	Morton	teen_birth_rate	65
+20131	Kansas	Nemaha	teen_birth_rate	15
+20133	Kansas	Neosho	teen_birth_rate	55
+20135	Kansas	Ness	teen_birth_rate	37
+20137	Kansas	Norton	teen_birth_rate	26
+20139	Kansas	Osage	teen_birth_rate	40
+20141	Kansas	Osborne	teen_birth_rate	34
+20143	Kansas	Ottawa	teen_birth_rate	34
+20145	Kansas	Pawnee	teen_birth_rate	38
+20147	Kansas	Phillips	teen_birth_rate	24
+20149	Kansas	Pottawatomie	teen_birth_rate	27
+20151	Kansas	Pratt	teen_birth_rate	39
+20153	Kansas	Rawlins	teen_birth_rate	
+20155	Kansas	Reno	teen_birth_rate	44
+20157	Kansas	Republic	teen_birth_rate	37
+20159	Kansas	Rice	teen_birth_rate	33
+20161	Kansas	Riley	teen_birth_rate	18
+20163	Kansas	Rooks	teen_birth_rate	30
+20165	Kansas	Rush	teen_birth_rate	32
+20167	Kansas	Russell	teen_birth_rate	40
+20169	Kansas	Saline	teen_birth_rate	57
+20171	Kansas	Scott	teen_birth_rate	52
+20173	Kansas	Sedgwick	teen_birth_rate	55
+20175	Kansas	Seward	teen_birth_rate	94
+20177	Kansas	Shawnee	teen_birth_rate	50
+20179	Kansas	Sheridan	teen_birth_rate	
+20181	Kansas	Sherman	teen_birth_rate	49
+20183	Kansas	Smith	teen_birth_rate	23
+20185	Kansas	Stafford	teen_birth_rate	36
+20187	Kansas	Stanton	teen_birth_rate	86
+20189	Kansas	Stevens	teen_birth_rate	55
+20191	Kansas	Sumner	teen_birth_rate	40
+20193	Kansas	Thomas	teen_birth_rate	27
+20195	Kansas	Trego	teen_birth_rate	29
+20197	Kansas	Wabaunsee	teen_birth_rate	23
+20199	Kansas	Wallace	teen_birth_rate	
+20201	Kansas	Washington	teen_birth_rate	18
+20203	Kansas	Wichita	teen_birth_rate	73
+20205	Kansas	Wilson	teen_birth_rate	60
+20207	Kansas	Woodson	teen_birth_rate	50
+20209	Kansas	Wyandotte	teen_birth_rate	81
+21001	Kentucky	Adair	teen_birth_rate	42
+21003	Kentucky	Allen	teen_birth_rate	50
+21005	Kentucky	Anderson	teen_birth_rate	49
+21007	Kentucky	Ballard	teen_birth_rate	56
+21009	Kentucky	Barren	teen_birth_rate	63
+21011	Kentucky	Bath	teen_birth_rate	84
+21013	Kentucky	Bell	teen_birth_rate	70
+21015	Kentucky	Boone	teen_birth_rate	34
+21017	Kentucky	Bourbon	teen_birth_rate	53
+21019	Kentucky	Boyd	teen_birth_rate	56
+21021	Kentucky	Boyle	teen_birth_rate	42
+21023	Kentucky	Bracken	teen_birth_rate	51
+21025	Kentucky	Breathitt	teen_birth_rate	53
+21027	Kentucky	Breckinridge	teen_birth_rate	46
+21029	Kentucky	Bullitt	teen_birth_rate	32
+21031	Kentucky	Butler	teen_birth_rate	56
+21033	Kentucky	Caldwell	teen_birth_rate	60
+21035	Kentucky	Calloway	teen_birth_rate	23
+21037	Kentucky	Campbell	teen_birth_rate	40
+21039	Kentucky	Carlisle	teen_birth_rate	43
+21041	Kentucky	Carroll	teen_birth_rate	80
+21043	Kentucky	Carter	teen_birth_rate	52
+21045	Kentucky	Casey	teen_birth_rate	55
+21047	Kentucky	Christian	teen_birth_rate	86
+21049	Kentucky	Clark	teen_birth_rate	57
+21051	Kentucky	Clay	teen_birth_rate	63
+21053	Kentucky	Clinton	teen_birth_rate	64
+21055	Kentucky	Crittenden	teen_birth_rate	45
+21057	Kentucky	Cumberland	teen_birth_rate	58
+21059	Kentucky	Daviess	teen_birth_rate	53
+21061	Kentucky	Edmonson	teen_birth_rate	46
+21063	Kentucky	Elliott	teen_birth_rate	67
+21065	Kentucky	Estill	teen_birth_rate	72
+21067	Kentucky	Fayette	teen_birth_rate	36
+21069	Kentucky	Fleming	teen_birth_rate	48
+21071	Kentucky	Floyd	teen_birth_rate	72
+21073	Kentucky	Franklin	teen_birth_rate	47
+21075	Kentucky	Fulton	teen_birth_rate	72
+21077	Kentucky	Gallatin	teen_birth_rate	70
+21079	Kentucky	Garrard	teen_birth_rate	47
+21081	Kentucky	Grant	teen_birth_rate	65
+21083	Kentucky	Graves	teen_birth_rate	55
+21085	Kentucky	Grayson	teen_birth_rate	57
+21087	Kentucky	Green	teen_birth_rate	47
+21089	Kentucky	Greenup	teen_birth_rate	44
+21091	Kentucky	Hancock	teen_birth_rate	57
+21093	Kentucky	Hardin	teen_birth_rate	54
+21095	Kentucky	Harlan	teen_birth_rate	86
+21097	Kentucky	Harrison	teen_birth_rate	65
+21099	Kentucky	Hart	teen_birth_rate	56
+21101	Kentucky	Henderson	teen_birth_rate	65
+21103	Kentucky	Henry	teen_birth_rate	56
+21105	Kentucky	Hickman	teen_birth_rate	41
+21107	Kentucky	Hopkins	teen_birth_rate	66
+21109	Kentucky	Jackson	teen_birth_rate	60
+21111	Kentucky	Jefferson	teen_birth_rate	48
+21113	Kentucky	Jessamine	teen_birth_rate	43
+21115	Kentucky	Johnson	teen_birth_rate	51
+21117	Kentucky	Kenton	teen_birth_rate	52
+21119	Kentucky	Knott	teen_birth_rate	49
+21121	Kentucky	Knox	teen_birth_rate	82
+21123	Kentucky	Larue	teen_birth_rate	52
+21125	Kentucky	Laurel	teen_birth_rate	62
+21127	Kentucky	Lawrence	teen_birth_rate	60
+21129	Kentucky	Lee	teen_birth_rate	55
+21131	Kentucky	Leslie	teen_birth_rate	63
+21133	Kentucky	Letcher	teen_birth_rate	62
+21135	Kentucky	Lewis	teen_birth_rate	76
+21137	Kentucky	Lincoln	teen_birth_rate	67
+21139	Kentucky	Livingston	teen_birth_rate	51
+21141	Kentucky	Logan	teen_birth_rate	66
+21143	Kentucky	Lyon	teen_birth_rate	38
+21145	Kentucky	McCracken	teen_birth_rate	53
+21147	Kentucky	McCreary	teen_birth_rate	81
+21149	Kentucky	McLean	teen_birth_rate	53
+21151	Kentucky	Madison	teen_birth_rate	30
+21153	Kentucky	Magoffin	teen_birth_rate	68
+21155	Kentucky	Marion	teen_birth_rate	55
+21157	Kentucky	Marshall	teen_birth_rate	48
+21159	Kentucky	Martin	teen_birth_rate	69
+21161	Kentucky	Mason	teen_birth_rate	70
+21163	Kentucky	Meade	teen_birth_rate	37
+21165	Kentucky	Menifee	teen_birth_rate	51
+21167	Kentucky	Mercer	teen_birth_rate	58
+21169	Kentucky	Metcalfe	teen_birth_rate	64
+21171	Kentucky	Monroe	teen_birth_rate	58
+21173	Kentucky	Montgomery	teen_birth_rate	68
+21175	Kentucky	Morgan	teen_birth_rate	48
+21177	Kentucky	Muhlenberg	teen_birth_rate	54
+21179	Kentucky	Nelson	teen_birth_rate	48
+21181	Kentucky	Nicholas	teen_birth_rate	60
+21183	Kentucky	Ohio	teen_birth_rate	65
+21185	Kentucky	Oldham	teen_birth_rate	16
+21187	Kentucky	Owen	teen_birth_rate	62
+21189	Kentucky	Owsley	teen_birth_rate	74
+21191	Kentucky	Pendleton	teen_birth_rate	50
+21193	Kentucky	Perry	teen_birth_rate	68
+21195	Kentucky	Pike	teen_birth_rate	58
+21197	Kentucky	Powell	teen_birth_rate	75
+21199	Kentucky	Pulaski	teen_birth_rate	65
+21201	Kentucky	Robertson	teen_birth_rate	36
+21203	Kentucky	Rockcastle	teen_birth_rate	54
+21205	Kentucky	Rowan	teen_birth_rate	23
+21207	Kentucky	Russell	teen_birth_rate	81
+21209	Kentucky	Scott	teen_birth_rate	42
+21211	Kentucky	Shelby	teen_birth_rate	46
+21213	Kentucky	Simpson	teen_birth_rate	66
+21215	Kentucky	Spencer	teen_birth_rate	27
+21217	Kentucky	Taylor	teen_birth_rate	48
+21219	Kentucky	Todd	teen_birth_rate	40
+21221	Kentucky	Trigg	teen_birth_rate	42
+21223	Kentucky	Trimble	teen_birth_rate	45
+21225	Kentucky	Union	teen_birth_rate	54
+21227	Kentucky	Warren	teen_birth_rate	33
+21229	Kentucky	Washington	teen_birth_rate	37
+21231	Kentucky	Wayne	teen_birth_rate	79
+21233	Kentucky	Webster	teen_birth_rate	62
+21235	Kentucky	Whitley	teen_birth_rate	61
+21237	Kentucky	Wolfe	teen_birth_rate	78
+21239	Kentucky	Woodford	teen_birth_rate	26
+22001	Louisiana	Acadia	teen_birth_rate	65
+22003	Louisiana	Allen	teen_birth_rate	72
+22005	Louisiana	Ascension	teen_birth_rate	43
+22007	Louisiana	Assumption	teen_birth_rate	44
+22009	Louisiana	Avoyelles	teen_birth_rate	75
+22011	Louisiana	Beauregard	teen_birth_rate	56
+22013	Louisiana	Bienville	teen_birth_rate	61
+22015	Louisiana	Bossier	teen_birth_rate	53
+22017	Louisiana	Caddo	teen_birth_rate	67
+22019	Louisiana	Calcasieu	teen_birth_rate	54
+22021	Louisiana	Caldwell	teen_birth_rate	70
+22023	Louisiana	Cameron	teen_birth_rate	30
+22025	Louisiana	Catahoula	teen_birth_rate	73
+22027	Louisiana	Claiborne	teen_birth_rate	64
+22029	Louisiana	Concordia	teen_birth_rate	71
+22031	Louisiana	De Soto	teen_birth_rate	63
+22033	Louisiana	East Baton Rouge	teen_birth_rate	41
+22035	Louisiana	East Carroll	teen_birth_rate	81
+22037	Louisiana	East Feliciana	teen_birth_rate	55
+22039	Louisiana	Evangeline	teen_birth_rate	73
+22041	Louisiana	Franklin	teen_birth_rate	83
+22043	Louisiana	Grant	teen_birth_rate	70
+22045	Louisiana	Iberia	teen_birth_rate	68
+22047	Louisiana	Iberville	teen_birth_rate	58
+22049	Louisiana	Jackson	teen_birth_rate	60
+22051	Louisiana	Jefferson	teen_birth_rate	46
+22053	Louisiana	Jefferson Davis	teen_birth_rate	56
+22055	Louisiana	Lafayette	teen_birth_rate	40
+22057	Louisiana	Lafourche	teen_birth_rate	47
+22059	Louisiana	La Salle	teen_birth_rate	61
+22061	Louisiana	Lincoln	teen_birth_rate	26
+22063	Louisiana	Livingston	teen_birth_rate	50
+22065	Louisiana	Madison	teen_birth_rate	93
+22067	Louisiana	Morehouse	teen_birth_rate	74
+22069	Louisiana	Natchitoches	teen_birth_rate	46
+22071	Louisiana	Orleans	teen_birth_rate	48
+22073	Louisiana	Ouachita	teen_birth_rate	57
+22075	Louisiana	Plaquemines	teen_birth_rate	36
+22077	Louisiana	Pointe Coupee	teen_birth_rate	64
+22079	Louisiana	Rapides	teen_birth_rate	60
+22081	Louisiana	Red River	teen_birth_rate	72
+22083	Louisiana	Richland	teen_birth_rate	65
+22085	Louisiana	Sabine	teen_birth_rate	61
+22087	Louisiana	St. Bernard	teen_birth_rate	52
+22089	Louisiana	St. Charles	teen_birth_rate	39
+22091	Louisiana	St. Helena	teen_birth_rate	47
+22093	Louisiana	St. James	teen_birth_rate	41
+22095	Louisiana	St. John the Baptist	teen_birth_rate	52
+22097	Louisiana	St. Landry	teen_birth_rate	77
+22099	Louisiana	St. Martin	teen_birth_rate	54
+22101	Louisiana	St. Mary	teen_birth_rate	65
+22103	Louisiana	St. Tammany	teen_birth_rate	32
+22105	Louisiana	Tangipahoa	teen_birth_rate	52
+22107	Louisiana	Tensas	teen_birth_rate	76
+22109	Louisiana	Terrebonne	teen_birth_rate	62
+22111	Louisiana	Union	teen_birth_rate	66
+22113	Louisiana	Vermilion	teen_birth_rate	55
+22115	Louisiana	Vernon	teen_birth_rate	70
+22117	Louisiana	Washington	teen_birth_rate	67
+22119	Louisiana	Webster	teen_birth_rate	64
+22121	Louisiana	West Baton Rouge	teen_birth_rate	46
+22123	Louisiana	West Carroll	teen_birth_rate	51
+22125	Louisiana	West Feliciana	teen_birth_rate	37
+22127	Louisiana	Winn	teen_birth_rate	66
+23001	Maine	Androscoggin	teen_birth_rate	37
+23003	Maine	Aroostook	teen_birth_rate	29
+23005	Maine	Cumberland	teen_birth_rate	16
+23007	Maine	Franklin	teen_birth_rate	19
+23009	Maine	Hancock	teen_birth_rate	22
+23011	Maine	Kennebec	teen_birth_rate	26
+23013	Maine	Knox	teen_birth_rate	32
+23015	Maine	Lincoln	teen_birth_rate	23
+23017	Maine	Oxford	teen_birth_rate	27
+23019	Maine	Penobscot	teen_birth_rate	22
+23021	Maine	Piscataquis	teen_birth_rate	30
+23023	Maine	Sagadahoc	teen_birth_rate	26
+23025	Maine	Somerset	teen_birth_rate	37
+23027	Maine	Waldo	teen_birth_rate	31
+23029	Maine	Washington	teen_birth_rate	36
+23031	Maine	York	teen_birth_rate	20
+24001	Maryland	Allegany	teen_birth_rate	32
+24003	Maryland	Anne Arundel	teen_birth_rate	26
+24005	Maryland	Baltimore	teen_birth_rate	26
+24009	Maryland	Calvert	teen_birth_rate	21
+24011	Maryland	Caroline	teen_birth_rate	52
+24013	Maryland	Carroll	teen_birth_rate	20
+24015	Maryland	Cecil	teen_birth_rate	37
+24017	Maryland	Charles	teen_birth_rate	27
+24019	Maryland	Dorchester	teen_birth_rate	63
+24021	Maryland	Frederick	teen_birth_rate	23
+24023	Maryland	Garrett	teen_birth_rate	30
+24025	Maryland	Harford	teen_birth_rate	21
+24027	Maryland	Howard	teen_birth_rate	13
+24029	Maryland	Kent	teen_birth_rate	29
+24031	Maryland	Montgomery	teen_birth_rate	21
+24033	Maryland	Prince George's	teen_birth_rate	36
+24035	Maryland	Queen Anne's	teen_birth_rate	22
+24037	Maryland	St. Mary's	teen_birth_rate	33
+24039	Maryland	Somerset	teen_birth_rate	29
+24041	Maryland	Talbot	teen_birth_rate	30
+24043	Maryland	Washington	teen_birth_rate	44
+24045	Maryland	Wicomico	teen_birth_rate	35
+24047	Maryland	Worcester	teen_birth_rate	32
+24510	Maryland	Baltimore City	teen_birth_rate	66
+25001	Massachusetts	Barnstable	teen_birth_rate	17
+25003	Massachusetts	Berkshire	teen_birth_rate	24
+25005	Massachusetts	Bristol	teen_birth_rate	26
+25007	Massachusetts	Dukes	teen_birth_rate	10
+25009	Massachusetts	Essex	teen_birth_rate	24
+25011	Massachusetts	Franklin	teen_birth_rate	20
+25013	Massachusetts	Hampden	teen_birth_rate	42
+25015	Massachusetts	Hampshire	teen_birth_rate	6
+25017	Massachusetts	Middlesex	teen_birth_rate	12
+25019	Massachusetts	Nantucket	teen_birth_rate	16
+25021	Massachusetts	Norfolk	teen_birth_rate	7
+25023	Massachusetts	Plymouth	teen_birth_rate	18
+25025	Massachusetts	Suffolk	teen_birth_rate	24
+25027	Massachusetts	Worcester	teen_birth_rate	22
+26001	Michigan	Alcona	teen_birth_rate	30
+26003	Michigan	Alger	teen_birth_rate	27
+26005	Michigan	Allegan	teen_birth_rate	33
+26007	Michigan	Alpena	teen_birth_rate	32
+26009	Michigan	Antrim	teen_birth_rate	36
+26011	Michigan	Arenac	teen_birth_rate	27
+26013	Michigan	Baraga	teen_birth_rate	40
+26015	Michigan	Barry	teen_birth_rate	31
+26017	Michigan	Bay	teen_birth_rate	35
+26019	Michigan	Benzie	teen_birth_rate	24
+26021	Michigan	Berrien	teen_birth_rate	48
+26023	Michigan	Branch	teen_birth_rate	48
+26025	Michigan	Calhoun	teen_birth_rate	50
+26027	Michigan	Cass	teen_birth_rate	40
+26029	Michigan	Charlevoix	teen_birth_rate	27
+26031	Michigan	Cheboygan	teen_birth_rate	34
+26033	Michigan	Chippewa	teen_birth_rate	29
+26035	Michigan	Clare	teen_birth_rate	49
+26037	Michigan	Clinton	teen_birth_rate	17
+26039	Michigan	Crawford	teen_birth_rate	44
+26041	Michigan	Delta	teen_birth_rate	25
+26043	Michigan	Dickinson	teen_birth_rate	28
+26045	Michigan	Eaton	teen_birth_rate	24
+26047	Michigan	Emmet	teen_birth_rate	22
+26049	Michigan	Genesee	teen_birth_rate	46
+26051	Michigan	Gladwin	teen_birth_rate	36
+26053	Michigan	Gogebic	teen_birth_rate	33
+26055	Michigan	Grand Traverse	teen_birth_rate	24
+26057	Michigan	Gratiot	teen_birth_rate	32
+26059	Michigan	Hillsdale	teen_birth_rate	32
+26061	Michigan	Houghton	teen_birth_rate	17
+26063	Michigan	Huron	teen_birth_rate	23
+26065	Michigan	Ingham	teen_birth_rate	25
+26067	Michigan	Ionia	teen_birth_rate	37
+26069	Michigan	Iosco	teen_birth_rate	33
+26071	Michigan	Iron	teen_birth_rate	34
+26073	Michigan	Isabella	teen_birth_rate	14
+26075	Michigan	Jackson	teen_birth_rate	47
+26077	Michigan	Kalamazoo	teen_birth_rate	30
+26079	Michigan	Kalkaska	teen_birth_rate	48
+26081	Michigan	Kent	teen_birth_rate	39
+26083	Michigan	Keweenaw	teen_birth_rate	
+26085	Michigan	Lake	teen_birth_rate	61
+26087	Michigan	Lapeer	teen_birth_rate	23
+26089	Michigan	Leelanau	teen_birth_rate	16
+26091	Michigan	Lenawee	teen_birth_rate	35
+26093	Michigan	Livingston	teen_birth_rate	13
+26095	Michigan	Luce	teen_birth_rate	53
+26097	Michigan	Mackinac	teen_birth_rate	20
+26099	Michigan	Macomb	teen_birth_rate	20
+26101	Michigan	Manistee	teen_birth_rate	37
+26103	Michigan	Marquette	teen_birth_rate	14
+26105	Michigan	Mason	teen_birth_rate	35
+26107	Michigan	Mecosta	teen_birth_rate	21
+26109	Michigan	Menominee	teen_birth_rate	33
+26111	Michigan	Midland	teen_birth_rate	23
+26113	Michigan	Missaukee	teen_birth_rate	38
+26115	Michigan	Monroe	teen_birth_rate	28
+26117	Michigan	Montcalm	teen_birth_rate	42
+26119	Michigan	Montmorency	teen_birth_rate	28
+26121	Michigan	Muskegon	teen_birth_rate	49
+26123	Michigan	Newaygo	teen_birth_rate	44
+26125	Michigan	Oakland	teen_birth_rate	18
+26127	Michigan	Oceana	teen_birth_rate	54
+26129	Michigan	Ogemaw	teen_birth_rate	36
+26131	Michigan	Ontonagon	teen_birth_rate	23
+26133	Michigan	Osceola	teen_birth_rate	39
+26135	Michigan	Oscoda	teen_birth_rate	33
+26137	Michigan	Otsego	teen_birth_rate	32
+26139	Michigan	Ottawa	teen_birth_rate	20
+26141	Michigan	Presque Isle	teen_birth_rate	24
+26143	Michigan	Roscommon	teen_birth_rate	37
+26145	Michigan	Saginaw	teen_birth_rate	41
+26147	Michigan	St. Clair	teen_birth_rate	31
+26149	Michigan	St. Joseph	teen_birth_rate	50
+26151	Michigan	Sanilac	teen_birth_rate	29
+26153	Michigan	Schoolcraft	teen_birth_rate	31
+26155	Michigan	Shiawassee	teen_birth_rate	29
+26157	Michigan	Tuscola	teen_birth_rate	27
+26159	Michigan	Van Buren	teen_birth_rate	46
+26161	Michigan	Washtenaw	teen_birth_rate	13
+26163	Michigan	Wayne	teen_birth_rate	46
+26165	Michigan	Wexford	teen_birth_rate	49
+27001	Minnesota	Aitkin	teen_birth_rate	31
+27003	Minnesota	Anoka	teen_birth_rate	20
+27005	Minnesota	Becker	teen_birth_rate	34
+27007	Minnesota	Beltrami	teen_birth_rate	56
+27009	Minnesota	Benton	teen_birth_rate	32
+27011	Minnesota	Big Stone	teen_birth_rate	17
+27013	Minnesota	Blue Earth	teen_birth_rate	14
+27015	Minnesota	Brown	teen_birth_rate	21
+27017	Minnesota	Carlton	teen_birth_rate	32
+27019	Minnesota	Carver	teen_birth_rate	11
+27021	Minnesota	Cass	teen_birth_rate	55
+27023	Minnesota	Chippewa	teen_birth_rate	39
+27025	Minnesota	Chisago	teen_birth_rate	19
+27027	Minnesota	Clay	teen_birth_rate	16
+27029	Minnesota	Clearwater	teen_birth_rate	40
+27031	Minnesota	Cook	teen_birth_rate	25
+27033	Minnesota	Cottonwood	teen_birth_rate	29
+27035	Minnesota	Crow Wing	teen_birth_rate	35
+27037	Minnesota	Dakota	teen_birth_rate	19
+27039	Minnesota	Dodge	teen_birth_rate	24
+27041	Minnesota	Douglas	teen_birth_rate	20
+27043	Minnesota	Faribault	teen_birth_rate	31
+27045	Minnesota	Fillmore	teen_birth_rate	19
+27047	Minnesota	Freeborn	teen_birth_rate	42
+27049	Minnesota	Goodhue	teen_birth_rate	26
+27051	Minnesota	Grant	teen_birth_rate	21
+27053	Minnesota	Hennepin	teen_birth_rate	29
+27055	Minnesota	Houston	teen_birth_rate	18
+27057	Minnesota	Hubbard	teen_birth_rate	30
+27059	Minnesota	Isanti	teen_birth_rate	26
+27061	Minnesota	Itasca	teen_birth_rate	31
+27063	Minnesota	Jackson	teen_birth_rate	20
+27065	Minnesota	Kanabec	teen_birth_rate	31
+27067	Minnesota	Kandiyohi	teen_birth_rate	43
+27069	Minnesota	Kittson	teen_birth_rate	
+27071	Minnesota	Koochiching	teen_birth_rate	28
+27073	Minnesota	Lac qui Parle	teen_birth_rate	18
+27075	Minnesota	Lake	teen_birth_rate	29
+27077	Minnesota	Lake of the Woods	teen_birth_rate	
+27079	Minnesota	Le Sueur	teen_birth_rate	25
+27081	Minnesota	Lincoln	teen_birth_rate	
+27083	Minnesota	Lyon	teen_birth_rate	20
+27085	Minnesota	McLeod	teen_birth_rate	31
+27087	Minnesota	Mahnomen	teen_birth_rate	83
+27089	Minnesota	Marshall	teen_birth_rate	24
+27091	Minnesota	Martin	teen_birth_rate	35
+27093	Minnesota	Meeker	teen_birth_rate	30
+27095	Minnesota	Mille Lacs	teen_birth_rate	39
+27097	Minnesota	Morrison	teen_birth_rate	29
+27099	Minnesota	Mower	teen_birth_rate	44
+27101	Minnesota	Murray	teen_birth_rate	30
+27103	Minnesota	Nicollet	teen_birth_rate	15
+27105	Minnesota	Nobles	teen_birth_rate	60
+27107	Minnesota	Norman	teen_birth_rate	22
+27109	Minnesota	Olmsted	teen_birth_rate	25
+27111	Minnesota	Otter Tail	teen_birth_rate	21
+27113	Minnesota	Pennington	teen_birth_rate	30
+27115	Minnesota	Pine	teen_birth_rate	38
+27117	Minnesota	Pipestone	teen_birth_rate	32
+27119	Minnesota	Polk	teen_birth_rate	32
+27121	Minnesota	Pope	teen_birth_rate	14
+27123	Minnesota	Ramsey	teen_birth_rate	36
+27125	Minnesota	Red Lake	teen_birth_rate	25
+27127	Minnesota	Redwood	teen_birth_rate	25
+27129	Minnesota	Renville	teen_birth_rate	38
+27131	Minnesota	Rice	teen_birth_rate	21
+27133	Minnesota	Rock	teen_birth_rate	23
+27135	Minnesota	Roseau	teen_birth_rate	28
+27137	Minnesota	St. Louis	teen_birth_rate	23
+27139	Minnesota	Scott	teen_birth_rate	18
+27141	Minnesota	Sherburne	teen_birth_rate	20
+27143	Minnesota	Sibley	teen_birth_rate	34
+27145	Minnesota	Stearns	teen_birth_rate	16
+27147	Minnesota	Steele	teen_birth_rate	35
+27149	Minnesota	Stevens	teen_birth_rate	11
+27151	Minnesota	Swift	teen_birth_rate	27
+27153	Minnesota	Todd	teen_birth_rate	32
+27155	Minnesota	Traverse	teen_birth_rate	
+27157	Minnesota	Wabasha	teen_birth_rate	25
+27159	Minnesota	Wadena	teen_birth_rate	37
+27161	Minnesota	Waseca	teen_birth_rate	32
+27163	Minnesota	Washington	teen_birth_rate	14
+27165	Minnesota	Watonwan	teen_birth_rate	49
+27167	Minnesota	Wilkin	teen_birth_rate	15
+27169	Minnesota	Winona	teen_birth_rate	11
+27171	Minnesota	Wright	teen_birth_rate	21
+27173	Minnesota	Yellow Medicine	teen_birth_rate	24
+28001	Mississippi	Adams	teen_birth_rate	72
+28003	Mississippi	Alcorn	teen_birth_rate	71
+28005	Mississippi	Amite	teen_birth_rate	57
+28007	Mississippi	Attala	teen_birth_rate	75
+28009	Mississippi	Benton	teen_birth_rate	67
+28011	Mississippi	Bolivar	teen_birth_rate	78
+28013	Mississippi	Calhoun	teen_birth_rate	69
+28015	Mississippi	Carroll	teen_birth_rate	43
+28017	Mississippi	Chickasaw	teen_birth_rate	95
+28019	Mississippi	Choctaw	teen_birth_rate	51
+28021	Mississippi	Claiborne	teen_birth_rate	54
+28023	Mississippi	Clarke	teen_birth_rate	58
+28025	Mississippi	Clay	teen_birth_rate	59
+28027	Mississippi	Coahoma	teen_birth_rate	92
+28029	Mississippi	Copiah	teen_birth_rate	65
+28031	Mississippi	Covington	teen_birth_rate	74
+28033	Mississippi	DeSoto	teen_birth_rate	43
+28035	Mississippi	Forrest	teen_birth_rate	56
+28037	Mississippi	Franklin	teen_birth_rate	56
+28039	Mississippi	George	teen_birth_rate	89
+28041	Mississippi	Greene	teen_birth_rate	62
+28043	Mississippi	Grenada	teen_birth_rate	69
+28045	Mississippi	Hancock	teen_birth_rate	54
+28047	Mississippi	Harrison	teen_birth_rate	60
+28049	Mississippi	Hinds	teen_birth_rate	60
+28051	Mississippi	Holmes	teen_birth_rate	87
+28053	Mississippi	Humphreys	teen_birth_rate	113
+28055	Mississippi	Issaquena	teen_birth_rate	65
+28057	Mississippi	Itawamba	teen_birth_rate	46
+28059	Mississippi	Jackson	teen_birth_rate	56
+28061	Mississippi	Jasper	teen_birth_rate	63
+28063	Mississippi	Jefferson	teen_birth_rate	85
+28065	Mississippi	Jefferson Davis	teen_birth_rate	71
+28067	Mississippi	Jones	teen_birth_rate	80
+28069	Mississippi	Kemper	teen_birth_rate	38
+28071	Mississippi	Lafayette	teen_birth_rate	19
+28073	Mississippi	Lamar	teen_birth_rate	42
+28075	Mississippi	Lauderdale	teen_birth_rate	63
+28077	Mississippi	Lawrence	teen_birth_rate	62
+28079	Mississippi	Leake	teen_birth_rate	82
+28081	Mississippi	Lee	teen_birth_rate	69
+28083	Mississippi	Leflore	teen_birth_rate	83
+28085	Mississippi	Lincoln	teen_birth_rate	60
+28087	Mississippi	Lowndes	teen_birth_rate	61
+28089	Mississippi	Madison	teen_birth_rate	41
+28091	Mississippi	Marion	teen_birth_rate	87
+28093	Mississippi	Marshall	teen_birth_rate	61
+28095	Mississippi	Monroe	teen_birth_rate	60
+28097	Mississippi	Montgomery	teen_birth_rate	69
+28099	Mississippi	Neshoba	teen_birth_rate	87
+28101	Mississippi	Newton	teen_birth_rate	55
+28103	Mississippi	Noxubee	teen_birth_rate	81
+28105	Mississippi	Oktibbeha	teen_birth_rate	24
+28107	Mississippi	Panola	teen_birth_rate	91
+28109	Mississippi	Pearl River	teen_birth_rate	55
+28111	Mississippi	Perry	teen_birth_rate	63
+28113	Mississippi	Pike	teen_birth_rate	74
+28115	Mississippi	Pontotoc	teen_birth_rate	71
+28117	Mississippi	Prentiss	teen_birth_rate	61
+28119	Mississippi	Quitman	teen_birth_rate	82
+28121	Mississippi	Rankin	teen_birth_rate	47
+28123	Mississippi	Scott	teen_birth_rate	90
+28125	Mississippi	Sharkey	teen_birth_rate	90
+28127	Mississippi	Simpson	teen_birth_rate	76
+28129	Mississippi	Smith	teen_birth_rate	55
+28131	Mississippi	Stone	teen_birth_rate	47
+28133	Mississippi	Sunflower	teen_birth_rate	93
+28135	Mississippi	Tallahatchie	teen_birth_rate	85
+28137	Mississippi	Tate	teen_birth_rate	51
+28139	Mississippi	Tippah	teen_birth_rate	71
+28141	Mississippi	Tishomingo	teen_birth_rate	55
+28143	Mississippi	Tunica	teen_birth_rate	118
+28145	Mississippi	Union	teen_birth_rate	71
+28147	Mississippi	Walthall	teen_birth_rate	60
+28149	Mississippi	Warren	teen_birth_rate	70
+28151	Mississippi	Washington	teen_birth_rate	90
+28153	Mississippi	Wayne	teen_birth_rate	76
+28155	Mississippi	Webster	teen_birth_rate	62
+28157	Mississippi	Wilkinson	teen_birth_rate	75
+28159	Mississippi	Winston	teen_birth_rate	61
+28161	Mississippi	Yalobusha	teen_birth_rate	89
+28163	Mississippi	Yazoo	teen_birth_rate	92
+29001	Missouri	Adair	teen_birth_rate	16
+29003	Missouri	Andrew	teen_birth_rate	34
+29005	Missouri	Atchison	teen_birth_rate	28
+29007	Missouri	Audrain	teen_birth_rate	54
+29009	Missouri	Barry	teen_birth_rate	64
+29011	Missouri	Barton	teen_birth_rate	50
+29013	Missouri	Bates	teen_birth_rate	53
+29015	Missouri	Benton	teen_birth_rate	49
+29017	Missouri	Bollinger	teen_birth_rate	54
+29019	Missouri	Boone	teen_birth_rate	21
+29021	Missouri	Buchanan	teen_birth_rate	62
+29023	Missouri	Butler	teen_birth_rate	71
+29025	Missouri	Caldwell	teen_birth_rate	49
+29027	Missouri	Callaway	teen_birth_rate	35
+29029	Missouri	Camden	teen_birth_rate	40
+29031	Missouri	Cape Girardeau	teen_birth_rate	34
+29033	Missouri	Carroll	teen_birth_rate	39
+29035	Missouri	Carter	teen_birth_rate	63
+29037	Missouri	Cass	teen_birth_rate	31
+29039	Missouri	Cedar	teen_birth_rate	52
+29041	Missouri	Chariton	teen_birth_rate	29
+29043	Missouri	Christian	teen_birth_rate	36
+29045	Missouri	Clark	teen_birth_rate	50
+29047	Missouri	Clay	teen_birth_rate	32
+29049	Missouri	Clinton	teen_birth_rate	40
+29051	Missouri	Cole	teen_birth_rate	36
+29053	Missouri	Cooper	teen_birth_rate	39
+29055	Missouri	Crawford	teen_birth_rate	62
+29057	Missouri	Dade	teen_birth_rate	44
+29059	Missouri	Dallas	teen_birth_rate	53
+29061	Missouri	Daviess	teen_birth_rate	37
+29063	Missouri	DeKalb	teen_birth_rate	37
+29065	Missouri	Dent	teen_birth_rate	56
+29067	Missouri	Douglas	teen_birth_rate	57
+29069	Missouri	Dunklin	teen_birth_rate	86
+29071	Missouri	Franklin	teen_birth_rate	37
+29073	Missouri	Gasconade	teen_birth_rate	43
+29075	Missouri	Gentry	teen_birth_rate	41
+29077	Missouri	Greene	teen_birth_rate	38
+29079	Missouri	Grundy	teen_birth_rate	55
+29081	Missouri	Harrison	teen_birth_rate	59
+29083	Missouri	Henry	teen_birth_rate	52
+29085	Missouri	Hickory	teen_birth_rate	58
+29087	Missouri	Holt	teen_birth_rate	47
+29089	Missouri	Howard	teen_birth_rate	22
+29091	Missouri	Howell	teen_birth_rate	68
+29093	Missouri	Iron	teen_birth_rate	53
+29095	Missouri	Jackson	teen_birth_rate	56
+29097	Missouri	Jasper	teen_birth_rate	64
+29099	Missouri	Jefferson	teen_birth_rate	32
+29101	Missouri	Johnson	teen_birth_rate	27
+29103	Missouri	Knox	teen_birth_rate	33
+29105	Missouri	Laclede	teen_birth_rate	67
+29107	Missouri	Lafayette	teen_birth_rate	44
+29109	Missouri	Lawrence	teen_birth_rate	51
+29111	Missouri	Lewis	teen_birth_rate	29
+29113	Missouri	Lincoln	teen_birth_rate	41
+29115	Missouri	Linn	teen_birth_rate	46
+29117	Missouri	Livingston	teen_birth_rate	58
+29119	Missouri	McDonald	teen_birth_rate	72
+29121	Missouri	Macon	teen_birth_rate	48
+29123	Missouri	Madison	teen_birth_rate	55
+29125	Missouri	Maries	teen_birth_rate	45
+29127	Missouri	Marion	teen_birth_rate	53
+29129	Missouri	Mercer	teen_birth_rate	26
+29131	Missouri	Miller	teen_birth_rate	55
+29133	Missouri	Mississippi	teen_birth_rate	93
+29135	Missouri	Moniteau	teen_birth_rate	44
+29137	Missouri	Monroe	teen_birth_rate	30
+29139	Missouri	Montgomery	teen_birth_rate	45
+29141	Missouri	Morgan	teen_birth_rate	53
+29143	Missouri	New Madrid	teen_birth_rate	74
+29145	Missouri	Newton	teen_birth_rate	52
+29147	Missouri	Nodaway	teen_birth_rate	14
+29149	Missouri	Oregon	teen_birth_rate	48
+29151	Missouri	Osage	teen_birth_rate	29
+29153	Missouri	Ozark	teen_birth_rate	45
+29155	Missouri	Pemiscot	teen_birth_rate	100
+29157	Missouri	Perry	teen_birth_rate	42
+29159	Missouri	Pettis	teen_birth_rate	60
+29161	Missouri	Phelps	teen_birth_rate	42
+29163	Missouri	Pike	teen_birth_rate	47
+29165	Missouri	Platte	teen_birth_rate	24
+29167	Missouri	Polk	teen_birth_rate	40
+29169	Missouri	Pulaski	teen_birth_rate	39
+29171	Missouri	Putnam	teen_birth_rate	45
+29173	Missouri	Ralls	teen_birth_rate	33
+29175	Missouri	Randolph	teen_birth_rate	54
+29177	Missouri	Ray	teen_birth_rate	43
+29179	Missouri	Reynolds	teen_birth_rate	50
+29181	Missouri	Ripley	teen_birth_rate	70
+29183	Missouri	St. Charles	teen_birth_rate	20
+29185	Missouri	St. Clair	teen_birth_rate	48
+29186	Missouri	Ste. Genevieve	teen_birth_rate	31
+29187	Missouri	St. Francois	teen_birth_rate	61
+29189	Missouri	St. Louis	teen_birth_rate	27
+29195	Missouri	Saline	teen_birth_rate	44
+29197	Missouri	Schuyler	teen_birth_rate	34
+29199	Missouri	Scotland	teen_birth_rate	
+29201	Missouri	Scott	teen_birth_rate	67
+29203	Missouri	Shannon	teen_birth_rate	67
+29205	Missouri	Shelby	teen_birth_rate	25
+29207	Missouri	Stoddard	teen_birth_rate	49
+29209	Missouri	Stone	teen_birth_rate	53
+29211	Missouri	Sullivan	teen_birth_rate	76
+29213	Missouri	Taney	teen_birth_rate	52
+29215	Missouri	Texas	teen_birth_rate	57
+29217	Missouri	Vernon	teen_birth_rate	42
+29219	Missouri	Warren	teen_birth_rate	48
+29221	Missouri	Washington	teen_birth_rate	66
+29223	Missouri	Wayne	teen_birth_rate	65
+29225	Missouri	Webster	teen_birth_rate	47
+29227	Missouri	Worth	teen_birth_rate	
+29229	Missouri	Wright	teen_birth_rate	70
+29510	Missouri	St. Louis City	teen_birth_rate	70
+30001	Montana	Beaverhead	teen_birth_rate	18
+30003	Montana	Big Horn	teen_birth_rate	107
+30005	Montana	Blaine	teen_birth_rate	81
+30007	Montana	Broadwater	teen_birth_rate	33
+30009	Montana	Carbon	teen_birth_rate	18
+30011	Montana	Carter	teen_birth_rate	
+30013	Montana	Cascade	teen_birth_rate	46
+30015	Montana	Chouteau	teen_birth_rate	
+30017	Montana	Custer	teen_birth_rate	39
+30019	Montana	Daniels	teen_birth_rate	
+30021	Montana	Dawson	teen_birth_rate	32
+30023	Montana	Deer Lodge	teen_birth_rate	35
+30025	Montana	Fallon	teen_birth_rate	39
+30027	Montana	Fergus	teen_birth_rate	16
+30029	Montana	Flathead	teen_birth_rate	36
+30031	Montana	Gallatin	teen_birth_rate	16
+30033	Montana	Garfield	teen_birth_rate	
+30035	Montana	Glacier	teen_birth_rate	91
+30037	Montana	Golden Valley	teen_birth_rate	
+30039	Montana	Granite	teen_birth_rate	
+30041	Montana	Hill	teen_birth_rate	68
+30043	Montana	Jefferson	teen_birth_rate	22
+30045	Montana	Judith Basin	teen_birth_rate	
+30047	Montana	Lake	teen_birth_rate	55
+30049	Montana	Lewis and Clark	teen_birth_rate	37
+30051	Montana	Liberty	teen_birth_rate	
+30053	Montana	Lincoln	teen_birth_rate	29
+30055	Montana	McCone	teen_birth_rate	
+30057	Montana	Madison	teen_birth_rate	
+30059	Montana	Meagher	teen_birth_rate	
+30061	Montana	Mineral	teen_birth_rate	31
+30063	Montana	Missoula	teen_birth_rate	21
+30065	Montana	Musselshell	teen_birth_rate	32
+30067	Montana	Park	teen_birth_rate	23
+30069	Montana	Petroleum	teen_birth_rate	
+30071	Montana	Phillips	teen_birth_rate	28
+30073	Montana	Pondera	teen_birth_rate	35
+30075	Montana	Powder River	teen_birth_rate	
+30077	Montana	Powell	teen_birth_rate	39
+30079	Montana	Prairie	teen_birth_rate	
+30081	Montana	Ravalli	teen_birth_rate	30
+30083	Montana	Richland	teen_birth_rate	39
+30085	Montana	Roosevelt	teen_birth_rate	108
+30087	Montana	Rosebud	teen_birth_rate	70
+30089	Montana	Sanders	teen_birth_rate	32
+30091	Montana	Sheridan	teen_birth_rate	
+30093	Montana	Silver Bow	teen_birth_rate	43
+30095	Montana	Stillwater	teen_birth_rate	17
+30097	Montana	Sweet Grass	teen_birth_rate	
+30099	Montana	Teton	teen_birth_rate	13
+30101	Montana	Toole	teen_birth_rate	26
+30103	Montana	Treasure	teen_birth_rate	
+30105	Montana	Valley	teen_birth_rate	30
+30107	Montana	Wheatland	teen_birth_rate	
+30109	Montana	Wibaux	teen_birth_rate	
+30111	Montana	Yellowstone	teen_birth_rate	40
+31001	Nebraska	Adams	teen_birth_rate	36
+31003	Nebraska	Antelope	teen_birth_rate	18
+31005	Nebraska	Arthur	teen_birth_rate	
+31007	Nebraska	Banner	teen_birth_rate	
+31009	Nebraska	Blaine	teen_birth_rate	
+31011	Nebraska	Boone	teen_birth_rate	15
+31013	Nebraska	Box Butte	teen_birth_rate	41
+31015	Nebraska	Boyd	teen_birth_rate	
+31017	Nebraska	Brown	teen_birth_rate	
+31019	Nebraska	Buffalo	teen_birth_rate	23
+31021	Nebraska	Burt	teen_birth_rate	21
+31023	Nebraska	Butler	teen_birth_rate	17
+31025	Nebraska	Cass	teen_birth_rate	20
+31027	Nebraska	Cedar	teen_birth_rate	14
+31029	Nebraska	Chase	teen_birth_rate	41
+31031	Nebraska	Cherry	teen_birth_rate	37
+31033	Nebraska	Cheyenne	teen_birth_rate	35
+31035	Nebraska	Clay	teen_birth_rate	26
+31037	Nebraska	Colfax	teen_birth_rate	72
+31039	Nebraska	Cuming	teen_birth_rate	21
+31041	Nebraska	Custer	teen_birth_rate	22
+31043	Nebraska	Dakota	teen_birth_rate	55
+31045	Nebraska	Dawes	teen_birth_rate	18
+31047	Nebraska	Dawson	teen_birth_rate	63
+31049	Nebraska	Deuel	teen_birth_rate	
+31051	Nebraska	Dixon	teen_birth_rate	29
+31053	Nebraska	Dodge	teen_birth_rate	38
+31055	Nebraska	Douglas	teen_birth_rate	43
+31057	Nebraska	Dundy	teen_birth_rate	
+31059	Nebraska	Fillmore	teen_birth_rate	24
+31061	Nebraska	Franklin	teen_birth_rate	
+31063	Nebraska	Frontier	teen_birth_rate	
+31065	Nebraska	Furnas	teen_birth_rate	32
+31067	Nebraska	Gage	teen_birth_rate	31
+31069	Nebraska	Garden	teen_birth_rate	
+31071	Nebraska	Garfield	teen_birth_rate	
+31073	Nebraska	Gosper	teen_birth_rate	
+31075	Nebraska	Grant	teen_birth_rate	
+31077	Nebraska	Greeley	teen_birth_rate	
+31079	Nebraska	Hall	teen_birth_rate	60
+31081	Nebraska	Hamilton	teen_birth_rate	21
+31083	Nebraska	Harlan	teen_birth_rate	
+31085	Nebraska	Hayes	teen_birth_rate	
+31087	Nebraska	Hitchcock	teen_birth_rate	32
+31089	Nebraska	Holt	teen_birth_rate	19
+31091	Nebraska	Hooker	teen_birth_rate	
+31093	Nebraska	Howard	teen_birth_rate	19
+31095	Nebraska	Jefferson	teen_birth_rate	31
+31097	Nebraska	Johnson	teen_birth_rate	26
+31099	Nebraska	Kearney	teen_birth_rate	22
+31101	Nebraska	Keith	teen_birth_rate	33
+31103	Nebraska	Keya Paha	teen_birth_rate	
+31105	Nebraska	Kimball	teen_birth_rate	42
+31107	Nebraska	Knox	teen_birth_rate	27
+31109	Nebraska	Lancaster	teen_birth_rate	26
+31111	Nebraska	Lincoln	teen_birth_rate	38
+31113	Nebraska	Logan	teen_birth_rate	
+31115	Nebraska	Loup	teen_birth_rate	
+31117	Nebraska	McPherson	teen_birth_rate	
+31119	Nebraska	Madison	teen_birth_rate	44
+31121	Nebraska	Merrick	teen_birth_rate	24
+31123	Nebraska	Morrill	teen_birth_rate	38
+31125	Nebraska	Nance	teen_birth_rate	
+31127	Nebraska	Nemaha	teen_birth_rate	22
+31129	Nebraska	Nuckolls	teen_birth_rate	30
+31131	Nebraska	Otoe	teen_birth_rate	34
+31133	Nebraska	Pawnee	teen_birth_rate	
+31135	Nebraska	Perkins	teen_birth_rate	
+31137	Nebraska	Phelps	teen_birth_rate	25
+31139	Nebraska	Pierce	teen_birth_rate	16
+31141	Nebraska	Platte	teen_birth_rate	39
+31143	Nebraska	Polk	teen_birth_rate	19
+31145	Nebraska	Red Willow	teen_birth_rate	26
+31147	Nebraska	Richardson	teen_birth_rate	32
+31149	Nebraska	Rock	teen_birth_rate	
+31151	Nebraska	Saline	teen_birth_rate	34
+31153	Nebraska	Sarpy	teen_birth_rate	26
+31155	Nebraska	Saunders	teen_birth_rate	16
+31157	Nebraska	Scotts Bluff	teen_birth_rate	59
+31159	Nebraska	Seward	teen_birth_rate	12
+31161	Nebraska	Sheridan	teen_birth_rate	35
+31163	Nebraska	Sherman	teen_birth_rate	
+31165	Nebraska	Sioux	teen_birth_rate	
+31167	Nebraska	Stanton	teen_birth_rate	28
+31169	Nebraska	Thayer	teen_birth_rate	
+31171	Nebraska	Thomas	teen_birth_rate	
+31173	Nebraska	Thurston	teen_birth_rate	105
+31175	Nebraska	Valley	teen_birth_rate	
+31177	Nebraska	Washington	teen_birth_rate	14
+31179	Nebraska	Wayne	teen_birth_rate	8
+31181	Nebraska	Webster	teen_birth_rate	
+31183	Nebraska	Wheeler	teen_birth_rate	
+31185	Nebraska	York	teen_birth_rate	30
+32001	Nevada	Churchill	teen_birth_rate	53
+32003	Nevada	Clark	teen_birth_rate	50
+32005	Nevada	Douglas	teen_birth_rate	20
+32007	Nevada	Elko	teen_birth_rate	57
+32009	Nevada	Esmeralda	teen_birth_rate	
+32011	Nevada	Eureka	teen_birth_rate	
+32013	Nevada	Humboldt	teen_birth_rate	60
+32015	Nevada	Lander	teen_birth_rate	45
+32017	Nevada	Lincoln	teen_birth_rate	14
+32019	Nevada	Lyon	teen_birth_rate	43
+32021	Nevada	Mineral	teen_birth_rate	43
+32023	Nevada	Nye	teen_birth_rate	45
+32027	Nevada	Pershing	teen_birth_rate	53
+32029	Nevada	Storey	teen_birth_rate	
+32031	Nevada	Washoe	teen_birth_rate	43
+32033	Nevada	White Pine	teen_birth_rate	54
+32510	Nevada	Carson City	teen_birth_rate	55
+33001	New Hampshire	Belknap	teen_birth_rate	26
+33003	New Hampshire	Carroll	teen_birth_rate	21
+33005	New Hampshire	Cheshire	teen_birth_rate	16
+33007	New Hampshire	Coos	teen_birth_rate	31
+33009	New Hampshire	Grafton	teen_birth_rate	15
+33011	New Hampshire	Hillsborough	teen_birth_rate	21
+33013	New Hampshire	Merrimack	teen_birth_rate	17
+33015	New Hampshire	Rockingham	teen_birth_rate	12
+33017	New Hampshire	Strafford	teen_birth_rate	16
+33019	New Hampshire	Sullivan	teen_birth_rate	34
+34001	New Jersey	Atlantic	teen_birth_rate	36
+34003	New Jersey	Bergen	teen_birth_rate	7
+34005	New Jersey	Burlington	teen_birth_rate	18
+34007	New Jersey	Camden	teen_birth_rate	38
+34009	New Jersey	Cape May	teen_birth_rate	29
+34011	New Jersey	Cumberland	teen_birth_rate	70
+34013	New Jersey	Essex	teen_birth_rate	37
+34015	New Jersey	Gloucester	teen_birth_rate	18
+34017	New Jersey	Hudson	teen_birth_rate	37
+34019	New Jersey	Hunterdon	teen_birth_rate	4
+34021	New Jersey	Mercer	teen_birth_rate	25
+34023	New Jersey	Middlesex	teen_birth_rate	17
+34025	New Jersey	Monmouth	teen_birth_rate	14
+34027	New Jersey	Morris	teen_birth_rate	7
+34029	New Jersey	Ocean	teen_birth_rate	20
+34031	New Jersey	Passaic	teen_birth_rate	37
+34033	New Jersey	Salem	teen_birth_rate	38
+34035	New Jersey	Somerset	teen_birth_rate	12
+34037	New Jersey	Sussex	teen_birth_rate	9
+34039	New Jersey	Union	teen_birth_rate	26
+34041	New Jersey	Warren	teen_birth_rate	16
+35001	New Mexico	Bernalillo	teen_birth_rate	52
+35003	New Mexico	Catron	teen_birth_rate	
+35005	New Mexico	Chaves	teen_birth_rate	74
+35006	New Mexico	Cibola	teen_birth_rate	80
+35007	New Mexico	Colfax	teen_birth_rate	55
+35009	New Mexico	Curry	teen_birth_rate	93
+35011	New Mexico	De Baca	teen_birth_rate	55
+35013	New Mexico	Dona Ana	teen_birth_rate	69
+35015	New Mexico	Eddy	teen_birth_rate	79
+35017	New Mexico	Grant	teen_birth_rate	74
+35019	New Mexico	Guadalupe	teen_birth_rate	51
+35021	New Mexico	Harding	teen_birth_rate	
+35023	New Mexico	Hidalgo	teen_birth_rate	68
+35025	New Mexico	Lea	teen_birth_rate	90
+35027	New Mexico	Lincoln	teen_birth_rate	61
+35028	New Mexico	Los Alamos	teen_birth_rate	10
+35029	New Mexico	Luna	teen_birth_rate	104
+35031	New Mexico	McKinley	teen_birth_rate	64
+35033	New Mexico	Mora	teen_birth_rate	38
+35035	New Mexico	Otero	teen_birth_rate	58
+35037	New Mexico	Quay	teen_birth_rate	87
+35039	New Mexico	Rio Arriba	teen_birth_rate	77
+35041	New Mexico	Roosevelt	teen_birth_rate	61
+35043	New Mexico	Sandoval	teen_birth_rate	38
+35045	New Mexico	San Juan	teen_birth_rate	65
+35047	New Mexico	San Miguel	teen_birth_rate	47
+35049	New Mexico	Santa Fe	teen_birth_rate	49
+35051	New Mexico	Sierra	teen_birth_rate	67
+35053	New Mexico	Socorro	teen_birth_rate	70
+35055	New Mexico	Taos	teen_birth_rate	50
+35057	New Mexico	Torrance	teen_birth_rate	47
+35059	New Mexico	Union	teen_birth_rate	52
+35061	New Mexico	Valencia	teen_birth_rate	54
+36001	New York	Albany	teen_birth_rate	18
+36003	New York	Allegany	teen_birth_rate	20
+36005	New York	Bronx	teen_birth_rate	45
+36007	New York	Broome	teen_birth_rate	23
+36009	New York	Cattaraugus	teen_birth_rate	34
+36011	New York	Cayuga	teen_birth_rate	27
+36013	New York	Chautauqua	teen_birth_rate	33
+36015	New York	Chemung	teen_birth_rate	37
+36017	New York	Chenango	teen_birth_rate	31
+36019	New York	Clinton	teen_birth_rate	21
+36021	New York	Columbia	teen_birth_rate	24
+36023	New York	Cortland	teen_birth_rate	18
+36025	New York	Delaware	teen_birth_rate	22
+36027	New York	Dutchess	teen_birth_rate	14
+36029	New York	Erie	teen_birth_rate	27
+36031	New York	Essex	teen_birth_rate	19
+36033	New York	Franklin	teen_birth_rate	32
+36035	New York	Fulton	teen_birth_rate	31
+36037	New York	Genesee	teen_birth_rate	23
+36039	New York	Greene	teen_birth_rate	25
+36041	New York	Hamilton	teen_birth_rate	
+36043	New York	Herkimer	teen_birth_rate	27
+36045	New York	Jefferson	teen_birth_rate	44
+36047	New York	Kings	teen_birth_rate	31
+36049	New York	Lewis	teen_birth_rate	28
+36051	New York	Livingston	teen_birth_rate	13
+36053	New York	Madison	teen_birth_rate	17
+36055	New York	Monroe	teen_birth_rate	28
+36057	New York	Montgomery	teen_birth_rate	39
+36059	New York	Nassau	teen_birth_rate	12
+36061	New York	New York	teen_birth_rate	26
+36063	New York	Niagara	teen_birth_rate	27
+36065	New York	Oneida	teen_birth_rate	31
+36067	New York	Onondaga	teen_birth_rate	28
+36069	New York	Ontario	teen_birth_rate	19
+36071	New York	Orange	teen_birth_rate	24
+36073	New York	Orleans	teen_birth_rate	29
+36075	New York	Oswego	teen_birth_rate	28
+36077	New York	Otsego	teen_birth_rate	11
+36079	New York	Putnam	teen_birth_rate	6
+36081	New York	Queens	teen_birth_rate	24
+36083	New York	Rensselaer	teen_birth_rate	26
+36085	New York	Richmond	teen_birth_rate	20
+36087	New York	Rockland	teen_birth_rate	17
+36089	New York	St. Lawrence	teen_birth_rate	23
+36091	New York	Saratoga	teen_birth_rate	16
+36093	New York	Schenectady	teen_birth_rate	28
+36095	New York	Schoharie	teen_birth_rate	16
+36097	New York	Schuyler	teen_birth_rate	29
+36099	New York	Seneca	teen_birth_rate	27
+36101	New York	Steuben	teen_birth_rate	28
+36103	New York	Suffolk	teen_birth_rate	17
+36105	New York	Sullivan	teen_birth_rate	32
+36107	New York	Tioga	teen_birth_rate	30
+36109	New York	Tompkins	teen_birth_rate	7
+36111	New York	Ulster	teen_birth_rate	19
+36113	New York	Warren	teen_birth_rate	25
+36115	New York	Washington	teen_birth_rate	31
+36117	New York	Wayne	teen_birth_rate	32
+36119	New York	Westchester	teen_birth_rate	18
+36121	New York	Wyoming	teen_birth_rate	17
+36123	New York	Yates	teen_birth_rate	19
+37001	North Carolina	Alamance	teen_birth_rate	44
+37003	North Carolina	Alexander	teen_birth_rate	47
+37005	North Carolina	Alleghany	teen_birth_rate	57
+37007	North Carolina	Anson	teen_birth_rate	60
+37009	North Carolina	Ashe	teen_birth_rate	57
+37011	North Carolina	Avery	teen_birth_rate	28
+37013	North Carolina	Beaufort	teen_birth_rate	60
+37015	North Carolina	Bertie	teen_birth_rate	62
+37017	North Carolina	Bladen	teen_birth_rate	56
+37019	North Carolina	Brunswick	teen_birth_rate	53
+37021	North Carolina	Buncombe	teen_birth_rate	40
+37023	North Carolina	Burke	teen_birth_rate	54
+37025	North Carolina	Cabarrus	teen_birth_rate	45
+37027	North Carolina	Caldwell	teen_birth_rate	54
+37029	North Carolina	Camden	teen_birth_rate	29
+37031	North Carolina	Carteret	teen_birth_rate	39
+37033	North Carolina	Caswell	teen_birth_rate	37
+37035	North Carolina	Catawba	teen_birth_rate	52
+37037	North Carolina	Chatham	teen_birth_rate	45
+37039	North Carolina	Cherokee	teen_birth_rate	48
+37041	North Carolina	Chowan	teen_birth_rate	52
+37043	North Carolina	Clay	teen_birth_rate	40
+37045	North Carolina	Cleveland	teen_birth_rate	57
+37047	North Carolina	Columbus	teen_birth_rate	63
+37049	North Carolina	Craven	teen_birth_rate	64
+37051	North Carolina	Cumberland	teen_birth_rate	55
+37053	North Carolina	Currituck	teen_birth_rate	33
+37055	North Carolina	Dare	teen_birth_rate	30
+37057	North Carolina	Davidson	teen_birth_rate	50
+37059	North Carolina	Davie	teen_birth_rate	36
+37061	North Carolina	Duplin	teen_birth_rate	65
+37063	North Carolina	Durham	teen_birth_rate	43
+37065	North Carolina	Edgecombe	teen_birth_rate	67
+37067	North Carolina	Forsyth	teen_birth_rate	45
+37069	North Carolina	Franklin	teen_birth_rate	47
+37071	North Carolina	Gaston	teen_birth_rate	58
+37073	North Carolina	Gates	teen_birth_rate	39
+37075	North Carolina	Graham	teen_birth_rate	66
+37077	North Carolina	Granville	teen_birth_rate	40
+37079	North Carolina	Greene	teen_birth_rate	60
+37081	North Carolina	Guilford	teen_birth_rate	33
+37083	North Carolina	Halifax	teen_birth_rate	65
+37085	North Carolina	Harnett	teen_birth_rate	46
+37087	North Carolina	Haywood	teen_birth_rate	47
+37089	North Carolina	Henderson	teen_birth_rate	52
+37091	North Carolina	Hertford	teen_birth_rate	63
+37093	North Carolina	Hoke	teen_birth_rate	63
+37095	North Carolina	Hyde	teen_birth_rate	50
+37097	North Carolina	Iredell	teen_birth_rate	44
+37099	North Carolina	Jackson	teen_birth_rate	28
+37101	North Carolina	Johnston	teen_birth_rate	50
+37103	North Carolina	Jones	teen_birth_rate	43
+37105	North Carolina	Lee	teen_birth_rate	73
+37107	North Carolina	Lenoir	teen_birth_rate	65
+37109	North Carolina	Lincoln	teen_birth_rate	46
+37111	North Carolina	McDowell	teen_birth_rate	59
+37113	North Carolina	Macon	teen_birth_rate	52
+37115	North Carolina	Madison	teen_birth_rate	33
+37117	North Carolina	Martin	teen_birth_rate	62
+37119	North Carolina	Mecklenburg	teen_birth_rate	42
+37121	North Carolina	Mitchell	teen_birth_rate	53
+37123	North Carolina	Montgomery	teen_birth_rate	69
+37125	North Carolina	Moore	teen_birth_rate	45
+37127	North Carolina	Nash	teen_birth_rate	51
+37129	North Carolina	New Hanover	teen_birth_rate	29
+37131	North Carolina	Northampton	teen_birth_rate	60
+37133	North Carolina	Onslow	teen_birth_rate	71
+37135	North Carolina	Orange	teen_birth_rate	12
+37137	North Carolina	Pamlico	teen_birth_rate	55
+37139	North Carolina	Pasquotank	teen_birth_rate	44
+37141	North Carolina	Pender	teen_birth_rate	41
+37143	North Carolina	Perquimans	teen_birth_rate	48
+37145	North Carolina	Person	teen_birth_rate	49
+37147	North Carolina	Pitt	teen_birth_rate	30
+37149	North Carolina	Polk	teen_birth_rate	30
+37151	North Carolina	Randolph	teen_birth_rate	54
+37153	North Carolina	Richmond	teen_birth_rate	80
+37155	North Carolina	Robeson	teen_birth_rate	77
+37157	North Carolina	Rockingham	teen_birth_rate	54
+37159	North Carolina	Rowan	teen_birth_rate	54
+37161	North Carolina	Rutherford	teen_birth_rate	57
+37163	North Carolina	Sampson	teen_birth_rate	65
+37165	North Carolina	Scotland	teen_birth_rate	70
+37167	North Carolina	Stanly	teen_birth_rate	50
+37169	North Carolina	Stokes	teen_birth_rate	36
+37171	North Carolina	Surry	teen_birth_rate	49
+37173	North Carolina	Swain	teen_birth_rate	69
+37175	North Carolina	Transylvania	teen_birth_rate	38
+37177	North Carolina	Tyrrell	teen_birth_rate	54
+37179	North Carolina	Union	teen_birth_rate	37
+37181	North Carolina	Vance	teen_birth_rate	80
+37183	North Carolina	Wake	teen_birth_rate	28
+37185	North Carolina	Warren	teen_birth_rate	52
+37187	North Carolina	Washington	teen_birth_rate	67
+37189	North Carolina	Watauga	teen_birth_rate	10
+37191	North Carolina	Wayne	teen_birth_rate	59
+37193	North Carolina	Wilkes	teen_birth_rate	50
+37195	North Carolina	Wilson	teen_birth_rate	62
+37197	North Carolina	Yadkin	teen_birth_rate	50
+37199	North Carolina	Yancey	teen_birth_rate	38
+38001	North Dakota	Adams	teen_birth_rate	
+38003	North Dakota	Barnes	teen_birth_rate	23
+38005	North Dakota	Benson	teen_birth_rate	93
+38007	North Dakota	Billings	teen_birth_rate	
+38009	North Dakota	Bottineau	teen_birth_rate	18
+38011	North Dakota	Bowman	teen_birth_rate	26
+38013	North Dakota	Burke	teen_birth_rate	
+38015	North Dakota	Burleigh	teen_birth_rate	23
+38017	North Dakota	Cass	teen_birth_rate	19
+38019	North Dakota	Cavalier	teen_birth_rate	
+38021	North Dakota	Dickey	teen_birth_rate	17
+38023	North Dakota	Divide	teen_birth_rate	
+38025	North Dakota	Dunn	teen_birth_rate	
+38027	North Dakota	Eddy	teen_birth_rate	
+38029	North Dakota	Emmons	teen_birth_rate	
+38031	North Dakota	Foster	teen_birth_rate	28
+38033	North Dakota	Golden Valley	teen_birth_rate	
+38035	North Dakota	Grand Forks	teen_birth_rate	21
+38037	North Dakota	Grant	teen_birth_rate	
+38039	North Dakota	Griggs	teen_birth_rate	
+38041	North Dakota	Hettinger	teen_birth_rate	
+38043	North Dakota	Kidder	teen_birth_rate	
+38045	North Dakota	LaMoure	teen_birth_rate	
+38047	North Dakota	Logan	teen_birth_rate	
+38049	North Dakota	McHenry	teen_birth_rate	19
+38051	North Dakota	McIntosh	teen_birth_rate	
+38053	North Dakota	McKenzie	teen_birth_rate	31
+38055	North Dakota	McLean	teen_birth_rate	15
+38057	North Dakota	Mercer	teen_birth_rate	15
+38059	North Dakota	Morton	teen_birth_rate	27
+38061	North Dakota	Mountrail	teen_birth_rate	69
+38063	North Dakota	Nelson	teen_birth_rate	
+38065	North Dakota	Oliver	teen_birth_rate	
+38067	North Dakota	Pembina	teen_birth_rate	22
+38069	North Dakota	Pierce	teen_birth_rate	
+38071	North Dakota	Ramsey	teen_birth_rate	45
+38073	North Dakota	Ransom	teen_birth_rate	27
+38075	North Dakota	Renville	teen_birth_rate	
+38077	North Dakota	Richland	teen_birth_rate	22
+38079	North Dakota	Rolette	teen_birth_rate	99
+38081	North Dakota	Sargent	teen_birth_rate	
+38083	North Dakota	Sheridan	teen_birth_rate	
+38085	North Dakota	Sioux	teen_birth_rate	128
+38087	North Dakota	Slope	teen_birth_rate	
+38089	North Dakota	Stark	teen_birth_rate	18
+38091	North Dakota	Steele	teen_birth_rate	
+38093	North Dakota	Stutsman	teen_birth_rate	24
+38095	North Dakota	Towner	teen_birth_rate	
+38097	North Dakota	Traill	teen_birth_rate	14
+38099	North Dakota	Walsh	teen_birth_rate	42
+38101	North Dakota	Ward	teen_birth_rate	38
+38103	North Dakota	Wells	teen_birth_rate	29
+38105	North Dakota	Williams	teen_birth_rate	39
+39001	Ohio	Adams	teen_birth_rate	56
+39003	Ohio	Allen	teen_birth_rate	52
+39005	Ohio	Ashland	teen_birth_rate	24
+39007	Ohio	Ashtabula	teen_birth_rate	44
+39009	Ohio	Athens	teen_birth_rate	15
+39011	Ohio	Auglaize	teen_birth_rate	33
+39013	Ohio	Belmont	teen_birth_rate	39
+39015	Ohio	Brown	teen_birth_rate	41
+39017	Ohio	Butler	teen_birth_rate	37
+39019	Ohio	Carroll	teen_birth_rate	32
+39021	Ohio	Champaign	teen_birth_rate	41
+39023	Ohio	Clark	teen_birth_rate	53
+39025	Ohio	Clermont	teen_birth_rate	38
+39027	Ohio	Clinton	teen_birth_rate	48
+39029	Ohio	Columbiana	teen_birth_rate	40
+39031	Ohio	Coshocton	teen_birth_rate	43
+39033	Ohio	Crawford	teen_birth_rate	47
+39035	Ohio	Cuyahoga	teen_birth_rate	41
+39037	Ohio	Darke	teen_birth_rate	39
+39039	Ohio	Defiance	teen_birth_rate	41
+39041	Ohio	Delaware	teen_birth_rate	15
+39043	Ohio	Erie	teen_birth_rate	40
+39045	Ohio	Fairfield	teen_birth_rate	30
+39047	Ohio	Fayette	teen_birth_rate	59
+39049	Ohio	Franklin	teen_birth_rate	45
+39051	Ohio	Fulton	teen_birth_rate	30
+39053	Ohio	Gallia	teen_birth_rate	55
+39055	Ohio	Geauga	teen_birth_rate	10
+39057	Ohio	Greene	teen_birth_rate	19
+39059	Ohio	Guernsey	teen_birth_rate	43
+39061	Ohio	Hamilton	teen_birth_rate	44
+39063	Ohio	Hancock	teen_birth_rate	34
+39065	Ohio	Hardin	teen_birth_rate	32
+39067	Ohio	Harrison	teen_birth_rate	45
+39069	Ohio	Henry	teen_birth_rate	33
+39071	Ohio	Highland	teen_birth_rate	50
+39073	Ohio	Hocking	teen_birth_rate	48
+39075	Ohio	Holmes	teen_birth_rate	16
+39077	Ohio	Huron	teen_birth_rate	46
+39079	Ohio	Jackson	teen_birth_rate	59
+39081	Ohio	Jefferson	teen_birth_rate	37
+39083	Ohio	Knox	teen_birth_rate	26
+39085	Ohio	Lake	teen_birth_rate	22
+39087	Ohio	Lawrence	teen_birth_rate	50
+39089	Ohio	Licking	teen_birth_rate	36
+39091	Ohio	Logan	teen_birth_rate	44
+39093	Ohio	Lorain	teen_birth_rate	36
+39095	Ohio	Lucas	teen_birth_rate	48
+39097	Ohio	Madison	teen_birth_rate	40
+39099	Ohio	Mahoning	teen_birth_rate	39
+39101	Ohio	Marion	teen_birth_rate	60
+39103	Ohio	Medina	teen_birth_rate	17
+39105	Ohio	Meigs	teen_birth_rate	50
+39107	Ohio	Mercer	teen_birth_rate	27
+39109	Ohio	Miami	teen_birth_rate	38
+39111	Ohio	Monroe	teen_birth_rate	29
+39113	Ohio	Montgomery	teen_birth_rate	45
+39115	Ohio	Morgan	teen_birth_rate	38
+39117	Ohio	Morrow	teen_birth_rate	35
+39119	Ohio	Muskingum	teen_birth_rate	46
+39121	Ohio	Noble	teen_birth_rate	37
+39123	Ohio	Ottawa	teen_birth_rate	30
+39125	Ohio	Paulding	teen_birth_rate	39
+39127	Ohio	Perry	teen_birth_rate	47
+39129	Ohio	Pickaway	teen_birth_rate	41
+39131	Ohio	Pike	teen_birth_rate	64
+39133	Ohio	Portage	teen_birth_rate	17
+39135	Ohio	Preble	teen_birth_rate	40
+39137	Ohio	Putnam	teen_birth_rate	25
+39139	Ohio	Richland	teen_birth_rate	53
+39141	Ohio	Ross	teen_birth_rate	57
+39143	Ohio	Sandusky	teen_birth_rate	43
+39145	Ohio	Scioto	teen_birth_rate	54
+39147	Ohio	Seneca	teen_birth_rate	35
+39149	Ohio	Shelby	teen_birth_rate	49
+39151	Ohio	Stark	teen_birth_rate	35
+39153	Ohio	Summit	teen_birth_rate	35
+39155	Ohio	Trumbull	teen_birth_rate	38
+39157	Ohio	Tuscarawas	teen_birth_rate	36
+39159	Ohio	Union	teen_birth_rate	29
+39161	Ohio	Van Wert	teen_birth_rate	37
+39163	Ohio	Vinton	teen_birth_rate	52
+39165	Ohio	Warren	teen_birth_rate	23
+39167	Ohio	Washington	teen_birth_rate	34
+39169	Ohio	Wayne	teen_birth_rate	25
+39171	Ohio	Williams	teen_birth_rate	45
+39173	Ohio	Wood	teen_birth_rate	17
+39175	Ohio	Wyandot	teen_birth_rate	41
+40001	Oklahoma	Adair	teen_birth_rate	80
+40003	Oklahoma	Alfalfa	teen_birth_rate	25
+40005	Oklahoma	Atoka	teen_birth_rate	67
+40007	Oklahoma	Beaver	teen_birth_rate	38
+40009	Oklahoma	Beckham	teen_birth_rate	85
+40011	Oklahoma	Blaine	teen_birth_rate	66
+40013	Oklahoma	Bryan	teen_birth_rate	65
+40015	Oklahoma	Caddo	teen_birth_rate	69
+40017	Oklahoma	Canadian	teen_birth_rate	34
+40019	Oklahoma	Carter	teen_birth_rate	72
+40021	Oklahoma	Cherokee	teen_birth_rate	50
+40023	Oklahoma	Choctaw	teen_birth_rate	97
+40025	Oklahoma	Cimarron	teen_birth_rate	63
+40027	Oklahoma	Cleveland	teen_birth_rate	24
+40029	Oklahoma	Coal	teen_birth_rate	78
+40031	Oklahoma	Comanche	teen_birth_rate	59
+40033	Oklahoma	Cotton	teen_birth_rate	64
+40035	Oklahoma	Craig	teen_birth_rate	67
+40037	Oklahoma	Creek	teen_birth_rate	56
+40039	Oklahoma	Custer	teen_birth_rate	50
+40041	Oklahoma	Delaware	teen_birth_rate	63
+40043	Oklahoma	Dewey	teen_birth_rate	41
+40045	Oklahoma	Ellis	teen_birth_rate	51
+40047	Oklahoma	Garfield	teen_birth_rate	65
+40049	Oklahoma	Garvin	teen_birth_rate	70
+40051	Oklahoma	Grady	teen_birth_rate	46
+40053	Oklahoma	Grant	teen_birth_rate	22
+40055	Oklahoma	Greer	teen_birth_rate	78
+40057	Oklahoma	Harmon	teen_birth_rate	83
+40059	Oklahoma	Harper	teen_birth_rate	50
+40061	Oklahoma	Haskell	teen_birth_rate	78
+40063	Oklahoma	Hughes	teen_birth_rate	73
+40065	Oklahoma	Jackson	teen_birth_rate	73
+40067	Oklahoma	Jefferson	teen_birth_rate	68
+40069	Oklahoma	Johnston	teen_birth_rate	72
+40071	Oklahoma	Kay	teen_birth_rate	70
+40073	Oklahoma	Kingfisher	teen_birth_rate	44
+40075	Oklahoma	Kiowa	teen_birth_rate	66
+40077	Oklahoma	Latimer	teen_birth_rate	56
+40079	Oklahoma	Le Flore	teen_birth_rate	72
+40081	Oklahoma	Lincoln	teen_birth_rate	47
+40083	Oklahoma	Logan	teen_birth_rate	30
+40085	Oklahoma	Love	teen_birth_rate	61
+40087	Oklahoma	McClain	teen_birth_rate	44
+40089	Oklahoma	McCurtain	teen_birth_rate	86
+40091	Oklahoma	McIntosh	teen_birth_rate	60
+40093	Oklahoma	Major	teen_birth_rate	44
+40095	Oklahoma	Marshall	teen_birth_rate	75
+40097	Oklahoma	Mayes	teen_birth_rate	63
+40099	Oklahoma	Murray	teen_birth_rate	78
+40101	Oklahoma	Muskogee	teen_birth_rate	72
+40103	Oklahoma	Noble	teen_birth_rate	43
+40105	Oklahoma	Nowata	teen_birth_rate	53
+40107	Oklahoma	Okfuskee	teen_birth_rate	67
+40109	Oklahoma	Oklahoma	teen_birth_rate	65
+40111	Oklahoma	Okmulgee	teen_birth_rate	70
+40113	Oklahoma	Osage	teen_birth_rate	42
+40115	Oklahoma	Ottawa	teen_birth_rate	66
+40117	Oklahoma	Pawnee	teen_birth_rate	55
+40119	Oklahoma	Payne	teen_birth_rate	23
+40121	Oklahoma	Pittsburg	teen_birth_rate	72
+40123	Oklahoma	Pontotoc	teen_birth_rate	58
+40125	Oklahoma	Pottawatomie	teen_birth_rate	59
+40127	Oklahoma	Pushmataha	teen_birth_rate	69
+40129	Oklahoma	Roger Mills	teen_birth_rate	73
+40131	Oklahoma	Rogers	teen_birth_rate	35
+40133	Oklahoma	Seminole	teen_birth_rate	67
+40135	Oklahoma	Sequoyah	teen_birth_rate	67
+40137	Oklahoma	Stephens	teen_birth_rate	56
+40139	Oklahoma	Texas	teen_birth_rate	84
+40141	Oklahoma	Tillman	teen_birth_rate	76
+40143	Oklahoma	Tulsa	teen_birth_rate	56
+40145	Oklahoma	Wagoner	teen_birth_rate	37
+40147	Oklahoma	Washington	teen_birth_rate	49
+40149	Oklahoma	Washita	teen_birth_rate	64
+40151	Oklahoma	Woods	teen_birth_rate	32
+40153	Oklahoma	Woodward	teen_birth_rate	76
+41001	Oregon	Baker	teen_birth_rate	39
+41003	Oregon	Benton	teen_birth_rate	9
+41005	Oregon	Clackamas	teen_birth_rate	20
+41007	Oregon	Clatsop	teen_birth_rate	31
+41009	Oregon	Columbia	teen_birth_rate	30
+41011	Oregon	Coos	teen_birth_rate	39
+41013	Oregon	Crook	teen_birth_rate	36
+41015	Oregon	Curry	teen_birth_rate	30
+41017	Oregon	Deschutes	teen_birth_rate	32
+41019	Oregon	Douglas	teen_birth_rate	40
+41021	Oregon	Gilliam	teen_birth_rate	
+41023	Oregon	Grant	teen_birth_rate	32
+41025	Oregon	Harney	teen_birth_rate	34
+41027	Oregon	Hood River	teen_birth_rate	34
+41029	Oregon	Jackson	teen_birth_rate	37
+41031	Oregon	Jefferson	teen_birth_rate	69
+41033	Oregon	Josephine	teen_birth_rate	36
+41035	Oregon	Klamath	teen_birth_rate	48
+41037	Oregon	Lake	teen_birth_rate	33
+41039	Oregon	Lane	teen_birth_rate	24
+41041	Oregon	Lincoln	teen_birth_rate	42
+41043	Oregon	Linn	teen_birth_rate	41
+41045	Oregon	Malheur	teen_birth_rate	66
+41047	Oregon	Marion	teen_birth_rate	51
+41049	Oregon	Morrow	teen_birth_rate	46
+41051	Oregon	Multnomah	teen_birth_rate	34
+41053	Oregon	Polk	teen_birth_rate	26
+41055	Oregon	Sherman	teen_birth_rate	
+41057	Oregon	Tillamook	teen_birth_rate	37
+41059	Oregon	Umatilla	teen_birth_rate	56
+41061	Oregon	Union	teen_birth_rate	29
+41063	Oregon	Wallowa	teen_birth_rate	16
+41065	Oregon	Wasco	teen_birth_rate	42
+41067	Oregon	Washington	teen_birth_rate	28
+41069	Oregon	Wheeler	teen_birth_rate	
+41071	Oregon	Yamhill	teen_birth_rate	33
+42001	Pennsylvania	Adams	teen_birth_rate	27
+42003	Pennsylvania	Allegheny	teen_birth_rate	24
+42005	Pennsylvania	Armstrong	teen_birth_rate	28
+42007	Pennsylvania	Beaver	teen_birth_rate	28
+42009	Pennsylvania	Bedford	teen_birth_rate	30
+42011	Pennsylvania	Berks	teen_birth_rate	36
+42013	Pennsylvania	Blair	teen_birth_rate	33
+42015	Pennsylvania	Bradford	teen_birth_rate	35
+42017	Pennsylvania	Bucks	teen_birth_rate	13
+42019	Pennsylvania	Butler	teen_birth_rate	15
+42021	Pennsylvania	Cambria	teen_birth_rate	28
+42023	Pennsylvania	Cameron	teen_birth_rate	34
+42025	Pennsylvania	Carbon	teen_birth_rate	29
+42027	Pennsylvania	Centre	teen_birth_rate	7
+42029	Pennsylvania	Chester	teen_birth_rate	15
+42031	Pennsylvania	Clarion	teen_birth_rate	18
+42033	Pennsylvania	Clearfield	teen_birth_rate	28
+42035	Pennsylvania	Clinton	teen_birth_rate	22
+42037	Pennsylvania	Columbia	teen_birth_rate	16
+42039	Pennsylvania	Crawford	teen_birth_rate	29
+42041	Pennsylvania	Cumberland	teen_birth_rate	18
+42043	Pennsylvania	Dauphin	teen_birth_rate	41
+42045	Pennsylvania	Delaware	teen_birth_rate	23
+42047	Pennsylvania	Elk	teen_birth_rate	21
+42049	Pennsylvania	Erie	teen_birth_rate	35
+42051	Pennsylvania	Fayette	teen_birth_rate	44
+42053	Pennsylvania	Forest	teen_birth_rate	
+42055	Pennsylvania	Franklin	teen_birth_rate	38
+42057	Pennsylvania	Fulton	teen_birth_rate	35
+42059	Pennsylvania	Greene	teen_birth_rate	34
+42061	Pennsylvania	Huntingdon	teen_birth_rate	30
+42063	Pennsylvania	Indiana	teen_birth_rate	13
+42065	Pennsylvania	Jefferson	teen_birth_rate	33
+42067	Pennsylvania	Juniata	teen_birth_rate	26
+42069	Pennsylvania	Lackawanna	teen_birth_rate	26
+42071	Pennsylvania	Lancaster	teen_birth_rate	28
+42073	Pennsylvania	Lawrence	teen_birth_rate	31
+42075	Pennsylvania	Lebanon	teen_birth_rate	34
+42077	Pennsylvania	Lehigh	teen_birth_rate	37
+42079	Pennsylvania	Luzerne	teen_birth_rate	31
+42081	Pennsylvania	Lycoming	teen_birth_rate	33
+42083	Pennsylvania	McKean	teen_birth_rate	39
+42085	Pennsylvania	Mercer	teen_birth_rate	27
+42087	Pennsylvania	Mifflin	teen_birth_rate	39
+42089	Pennsylvania	Monroe	teen_birth_rate	18
+42091	Pennsylvania	Montgomery	teen_birth_rate	15
+42093	Pennsylvania	Montour	teen_birth_rate	21
+42095	Pennsylvania	Northampton	teen_birth_rate	23
+42097	Pennsylvania	Northumberland	teen_birth_rate	35
+42099	Pennsylvania	Perry	teen_birth_rate	31
+42101	Pennsylvania	Philadelphia	teen_birth_rate	57
+42103	Pennsylvania	Pike	teen_birth_rate	13
+42105	Pennsylvania	Potter	teen_birth_rate	36
+42107	Pennsylvania	Schuylkill	teen_birth_rate	32
+42109	Pennsylvania	Snyder	teen_birth_rate	22
+42111	Pennsylvania	Somerset	teen_birth_rate	22
+42113	Pennsylvania	Sullivan	teen_birth_rate	28
+42115	Pennsylvania	Susquehanna	teen_birth_rate	27
+42117	Pennsylvania	Tioga	teen_birth_rate	28
+42119	Pennsylvania	Union	teen_birth_rate	16
+42121	Pennsylvania	Venango	teen_birth_rate	35
+42123	Pennsylvania	Warren	teen_birth_rate	25
+42125	Pennsylvania	Washington	teen_birth_rate	23
+42127	Pennsylvania	Wayne	teen_birth_rate	18
+42129	Pennsylvania	Westmoreland	teen_birth_rate	20
+42131	Pennsylvania	Wyoming	teen_birth_rate	30
+42133	Pennsylvania	York	teen_birth_rate	35
+44001	Rhode Island	Bristol	teen_birth_rate	8
+44003	Rhode Island	Kent	teen_birth_rate	21
+44005	Rhode Island	Newport	teen_birth_rate	16
+44007	Rhode Island	Providence	teen_birth_rate	35
+44009	Rhode Island	Washington	teen_birth_rate	10
+45001	South Carolina	Abbeville	teen_birth_rate	42
+45003	South Carolina	Aiken	teen_birth_rate	47
+45005	South Carolina	Allendale	teen_birth_rate	86
+45007	South Carolina	Anderson	teen_birth_rate	54
+45009	South Carolina	Bamberg	teen_birth_rate	34
+45011	South Carolina	Barnwell	teen_birth_rate	61
+45013	South Carolina	Beaufort	teen_birth_rate	50
+45015	South Carolina	Berkeley	teen_birth_rate	51
+45017	South Carolina	Calhoun	teen_birth_rate	41
+45019	South Carolina	Charleston	teen_birth_rate	43
+45021	South Carolina	Cherokee	teen_birth_rate	69
+45023	South Carolina	Chester	teen_birth_rate	69
+45025	South Carolina	Chesterfield	teen_birth_rate	62
+45027	South Carolina	Clarendon	teen_birth_rate	56
+45029	South Carolina	Colleton	teen_birth_rate	71
+45031	South Carolina	Darlington	teen_birth_rate	59
+45033	South Carolina	Dillon	teen_birth_rate	81
+45035	South Carolina	Dorchester	teen_birth_rate	42
+45037	South Carolina	Edgefield	teen_birth_rate	38
+45039	South Carolina	Fairfield	teen_birth_rate	55
+45041	South Carolina	Florence	teen_birth_rate	54
+45043	South Carolina	Georgetown	teen_birth_rate	55
+45045	South Carolina	Greenville	teen_birth_rate	47
+45047	South Carolina	Greenwood	teen_birth_rate	54
+45049	South Carolina	Hampton	teen_birth_rate	60
+45051	South Carolina	Horry	teen_birth_rate	48
+45053	South Carolina	Jasper	teen_birth_rate	73
+45055	South Carolina	Kershaw	teen_birth_rate	58
+45057	South Carolina	Lancaster	teen_birth_rate	61
+45059	South Carolina	Laurens	teen_birth_rate	63
+45061	South Carolina	Lee	teen_birth_rate	63
+45063	South Carolina	Lexington	teen_birth_rate	44
+45065	South Carolina	McCormick	teen_birth_rate	58
+45067	South Carolina	Marion	teen_birth_rate	73
+45069	South Carolina	Marlboro	teen_birth_rate	67
+45071	South Carolina	Newberry	teen_birth_rate	59
+45073	South Carolina	Oconee	teen_birth_rate	51
+45075	South Carolina	Orangeburg	teen_birth_rate	53
+45077	South Carolina	Pickens	teen_birth_rate	31
+45079	South Carolina	Richland	teen_birth_rate	32
+45081	South Carolina	Saluda	teen_birth_rate	55
+45083	South Carolina	Spartanburg	teen_birth_rate	55
+45085	South Carolina	Sumter	teen_birth_rate	59
+45087	South Carolina	Union	teen_birth_rate	73
+45089	South Carolina	Williamsburg	teen_birth_rate	54
+45091	South Carolina	York	teen_birth_rate	43
+46003	South Dakota	Aurora	teen_birth_rate	
+46005	South Dakota	Beadle	teen_birth_rate	48
+46007	South Dakota	Bennett	teen_birth_rate	74
+46009	South Dakota	Bon Homme	teen_birth_rate	19
+46011	South Dakota	Brookings	teen_birth_rate	11
+46013	South Dakota	Brown	teen_birth_rate	28
+46015	South Dakota	Brule	teen_birth_rate	25
+46017	South Dakota	Buffalo	teen_birth_rate	110
+46019	South Dakota	Butte	teen_birth_rate	39
+46021	South Dakota	Campbell	teen_birth_rate	
+46023	South Dakota	Charles Mix	teen_birth_rate	79
+46025	South Dakota	Clark	teen_birth_rate	
+46027	South Dakota	Clay	teen_birth_rate	8
+46029	South Dakota	Codington	teen_birth_rate	44
+46031	South Dakota	Corson	teen_birth_rate	87
+46033	South Dakota	Custer	teen_birth_rate	31
+46035	South Dakota	Davison	teen_birth_rate	40
+46037	South Dakota	Day	teen_birth_rate	34
+46039	South Dakota	Deuel	teen_birth_rate	26
+46041	South Dakota	Dewey	teen_birth_rate	100
+46043	South Dakota	Douglas	teen_birth_rate	
+46045	South Dakota	Edmunds	teen_birth_rate	
+46047	South Dakota	Fall River	teen_birth_rate	48
+46049	South Dakota	Faulk	teen_birth_rate	
+46051	South Dakota	Grant	teen_birth_rate	27
+46053	South Dakota	Gregory	teen_birth_rate	21
+46055	South Dakota	Haakon	teen_birth_rate	
+46057	South Dakota	Hamlin	teen_birth_rate	28
+46059	South Dakota	Hand	teen_birth_rate	
+46061	South Dakota	Hanson	teen_birth_rate	
+46063	South Dakota	Harding	teen_birth_rate	
+46065	South Dakota	Hughes	teen_birth_rate	37
+46067	South Dakota	Hutchinson	teen_birth_rate	12
+46069	South Dakota	Hyde	teen_birth_rate	
+46071	South Dakota	Jackson	teen_birth_rate	87
+46073	South Dakota	Jerauld	teen_birth_rate	
+46075	South Dakota	Jones	teen_birth_rate	
+46077	South Dakota	Kingsbury	teen_birth_rate	17
+46079	South Dakota	Lake	teen_birth_rate	14
+46081	South Dakota	Lawrence	teen_birth_rate	23
+46083	South Dakota	Lincoln	teen_birth_rate	18
+46085	South Dakota	Lyman	teen_birth_rate	73
+46087	South Dakota	McCook	teen_birth_rate	15
+46089	South Dakota	McPherson	teen_birth_rate	
+46091	South Dakota	Marshall	teen_birth_rate	33
+46093	South Dakota	Meade	teen_birth_rate	35
+46095	South Dakota	Mellette	teen_birth_rate	95
+46097	South Dakota	Miner	teen_birth_rate	
+46099	South Dakota	Minnehaha	teen_birth_rate	37
+46101	South Dakota	Moody	teen_birth_rate	31
+46103	South Dakota	Pennington	teen_birth_rate	53
+46105	South Dakota	Perkins	teen_birth_rate	
+46107	South Dakota	Potter	teen_birth_rate	
+46109	South Dakota	Roberts	teen_birth_rate	66
+46111	South Dakota	Sanborn	teen_birth_rate	
+46113	South Dakota	Shannon	teen_birth_rate	116
+46115	South Dakota	Spink	teen_birth_rate	17
+46117	South Dakota	Stanley	teen_birth_rate	32
+46119	South Dakota	Sully	teen_birth_rate	
+46121	South Dakota	Todd	teen_birth_rate	116
+46123	South Dakota	Tripp	teen_birth_rate	42
+46125	South Dakota	Turner	teen_birth_rate	16
+46127	South Dakota	Union	teen_birth_rate	21
+46129	South Dakota	Walworth	teen_birth_rate	46
+46135	South Dakota	Yankton	teen_birth_rate	28
+46137	South Dakota	Ziebach	teen_birth_rate	56
+47001	Tennessee	Anderson	teen_birth_rate	46
+47003	Tennessee	Bedford	teen_birth_rate	66
+47005	Tennessee	Benton	teen_birth_rate	60
+47007	Tennessee	Bledsoe	teen_birth_rate	51
+47009	Tennessee	Blount	teen_birth_rate	44
+47011	Tennessee	Bradley	teen_birth_rate	49
+47013	Tennessee	Campbell	teen_birth_rate	57
+47015	Tennessee	Cannon	teen_birth_rate	44
+47017	Tennessee	Carroll	teen_birth_rate	59
+47019	Tennessee	Carter	teen_birth_rate	49
+47021	Tennessee	Cheatham	teen_birth_rate	39
+47023	Tennessee	Chester	teen_birth_rate	32
+47025	Tennessee	Claiborne	teen_birth_rate	44
+47027	Tennessee	Clay	teen_birth_rate	55
+47029	Tennessee	Cocke	teen_birth_rate	69
+47031	Tennessee	Coffee	teen_birth_rate	60
+47033	Tennessee	Crockett	teen_birth_rate	58
+47035	Tennessee	Cumberland	teen_birth_rate	66
+47037	Tennessee	Davidson	teen_birth_rate	50
+47039	Tennessee	Decatur	teen_birth_rate	58
+47041	Tennessee	DeKalb	teen_birth_rate	71
+47043	Tennessee	Dickson	teen_birth_rate	56
+47045	Tennessee	Dyer	teen_birth_rate	67
+47047	Tennessee	Fayette	teen_birth_rate	56
+47049	Tennessee	Fentress	teen_birth_rate	56
+47051	Tennessee	Franklin	teen_birth_rate	38
+47053	Tennessee	Gibson	teen_birth_rate	58
+47055	Tennessee	Giles	teen_birth_rate	48
+47057	Tennessee	Grainger	teen_birth_rate	57
+47059	Tennessee	Greene	teen_birth_rate	52
+47061	Tennessee	Grundy	teen_birth_rate	55
+47063	Tennessee	Hamblen	teen_birth_rate	73
+47065	Tennessee	Hamilton	teen_birth_rate	48
+47067	Tennessee	Hancock	teen_birth_rate	56
+47069	Tennessee	Hardeman	teen_birth_rate	66
+47071	Tennessee	Hardin	teen_birth_rate	53
+47073	Tennessee	Hawkins	teen_birth_rate	55
+47075	Tennessee	Haywood	teen_birth_rate	71
+47077	Tennessee	Henderson	teen_birth_rate	60
+47079	Tennessee	Henry	teen_birth_rate	60
+47081	Tennessee	Hickman	teen_birth_rate	61
+47083	Tennessee	Houston	teen_birth_rate	72
+47085	Tennessee	Humphreys	teen_birth_rate	44
+47087	Tennessee	Jackson	teen_birth_rate	42
+47089	Tennessee	Jefferson	teen_birth_rate	49
+47091	Tennessee	Johnson	teen_birth_rate	61
+47093	Tennessee	Knox	teen_birth_rate	37
+47095	Tennessee	Lake	teen_birth_rate	93
+47097	Tennessee	Lauderdale	teen_birth_rate	76
+47099	Tennessee	Lawrence	teen_birth_rate	51
+47101	Tennessee	Lewis	teen_birth_rate	62
+47103	Tennessee	Lincoln	teen_birth_rate	58
+47105	Tennessee	Loudon	teen_birth_rate	54
+47107	Tennessee	McMinn	teen_birth_rate	52
+47109	Tennessee	McNairy	teen_birth_rate	58
+47111	Tennessee	Macon	teen_birth_rate	72
+47113	Tennessee	Madison	teen_birth_rate	49
+47115	Tennessee	Marion	teen_birth_rate	61
+47117	Tennessee	Marshall	teen_birth_rate	53
+47119	Tennessee	Maury	teen_birth_rate	57
+47121	Tennessee	Meigs	teen_birth_rate	62
+47123	Tennessee	Monroe	teen_birth_rate	67
+47125	Tennessee	Montgomery	teen_birth_rate	47
+47127	Tennessee	Moore	teen_birth_rate	33
+47129	Tennessee	Morgan	teen_birth_rate	47
+47131	Tennessee	Obion	teen_birth_rate	61
+47133	Tennessee	Overton	teen_birth_rate	43
+47135	Tennessee	Perry	teen_birth_rate	49
+47137	Tennessee	Pickett	teen_birth_rate	49
+47139	Tennessee	Polk	teen_birth_rate	64
+47141	Tennessee	Putnam	teen_birth_rate	39
+47143	Tennessee	Rhea	teen_birth_rate	66
+47145	Tennessee	Roane	teen_birth_rate	47
+47147	Tennessee	Robertson	teen_birth_rate	60
+47149	Tennessee	Rutherford	teen_birth_rate	37
+47151	Tennessee	Scott	teen_birth_rate	61
+47153	Tennessee	Sequatchie	teen_birth_rate	67
+47155	Tennessee	Sevier	teen_birth_rate	57
+47157	Tennessee	Shelby	teen_birth_rate	62
+47159	Tennessee	Smith	teen_birth_rate	46
+47161	Tennessee	Stewart	teen_birth_rate	42
+47163	Tennessee	Sullivan	teen_birth_rate	50
+47165	Tennessee	Sumner	teen_birth_rate	43
+47167	Tennessee	Tipton	teen_birth_rate	51
+47169	Tennessee	Trousdale	teen_birth_rate	50
+47171	Tennessee	Unicoi	teen_birth_rate	44
+47173	Tennessee	Union	teen_birth_rate	63
+47175	Tennessee	Van Buren	teen_birth_rate	59
+47177	Tennessee	Warren	teen_birth_rate	67
+47179	Tennessee	Washington	teen_birth_rate	34
+47181	Tennessee	Wayne	teen_birth_rate	40
+47183	Tennessee	Weakley	teen_birth_rate	29
+47185	Tennessee	White	teen_birth_rate	61
+47187	Tennessee	Williamson	teen_birth_rate	13
+47189	Tennessee	Wilson	teen_birth_rate	37
+48001	Texas	Anderson	teen_birth_rate	73
+48003	Texas	Andrews	teen_birth_rate	81
+48005	Texas	Angelina	teen_birth_rate	74
+48007	Texas	Aransas	teen_birth_rate	73
+48009	Texas	Archer	teen_birth_rate	38
+48011	Texas	Armstrong	teen_birth_rate	49
+48013	Texas	Atascosa	teen_birth_rate	71
+48015	Texas	Austin	teen_birth_rate	44
+48017	Texas	Bailey	teen_birth_rate	111
+48019	Texas	Bandera	teen_birth_rate	40
+48021	Texas	Bastrop	teen_birth_rate	55
+48023	Texas	Baylor	teen_birth_rate	74
+48025	Texas	Bee	teen_birth_rate	77
+48027	Texas	Bell	teen_birth_rate	68
+48029	Texas	Bexar	teen_birth_rate	60
+48031	Texas	Blanco	teen_birth_rate	37
+48033	Texas	Borden	teen_birth_rate	
+48035	Texas	Bosque	teen_birth_rate	51
+48037	Texas	Bowie	teen_birth_rate	68
+48039	Texas	Brazoria	teen_birth_rate	52
+48041	Texas	Brazos	teen_birth_rate	28
+48043	Texas	Brewster	teen_birth_rate	56
+48045	Texas	Briscoe	teen_birth_rate	63
+48047	Texas	Brooks	teen_birth_rate	130
+48049	Texas	Brown	teen_birth_rate	60
+48051	Texas	Burleson	teen_birth_rate	60
+48053	Texas	Burnet	teen_birth_rate	55
+48055	Texas	Caldwell	teen_birth_rate	63
+48057	Texas	Calhoun	teen_birth_rate	75
+48059	Texas	Callahan	teen_birth_rate	45
+48061	Texas	Cameron	teen_birth_rate	83
+48063	Texas	Camp	teen_birth_rate	85
+48065	Texas	Carson	teen_birth_rate	28
+48067	Texas	Cass	teen_birth_rate	59
+48069	Texas	Castro	teen_birth_rate	84
+48071	Texas	Chambers	teen_birth_rate	40
+48073	Texas	Cherokee	teen_birth_rate	73
+48075	Texas	Childress	teen_birth_rate	112
+48077	Texas	Clay	teen_birth_rate	35
+48079	Texas	Cochran	teen_birth_rate	80
+48081	Texas	Coke	teen_birth_rate	36
+48083	Texas	Coleman	teen_birth_rate	84
+48085	Texas	Collin	teen_birth_rate	23
+48087	Texas	Collingsworth	teen_birth_rate	85
+48089	Texas	Colorado	teen_birth_rate	52
+48091	Texas	Comal	teen_birth_rate	44
+48093	Texas	Comanche	teen_birth_rate	75
+48095	Texas	Concho	teen_birth_rate	68
+48097	Texas	Cooke	teen_birth_rate	62
+48099	Texas	Coryell	teen_birth_rate	47
+48101	Texas	Cottle	teen_birth_rate	
+48103	Texas	Crane	teen_birth_rate	57
+48105	Texas	Crockett	teen_birth_rate	93
+48107	Texas	Crosby	teen_birth_rate	110
+48109	Texas	Culberson	teen_birth_rate	90
+48111	Texas	Dallam	teen_birth_rate	105
+48113	Texas	Dallas	teen_birth_rate	71
+48115	Texas	Dawson	teen_birth_rate	97
+48117	Texas	Deaf Smith	teen_birth_rate	99
+48119	Texas	Delta	teen_birth_rate	50
+48121	Texas	Denton	teen_birth_rate	28
+48123	Texas	DeWitt	teen_birth_rate	63
+48125	Texas	Dickens	teen_birth_rate	64
+48127	Texas	Dimmit	teen_birth_rate	92
+48129	Texas	Donley	teen_birth_rate	35
+48131	Texas	Duval	teen_birth_rate	89
+48133	Texas	Eastland	teen_birth_rate	55
+48135	Texas	Ector	teen_birth_rate	98
+48137	Texas	Edwards	teen_birth_rate	75
+48139	Texas	Ellis	teen_birth_rate	50
+48141	Texas	El Paso	teen_birth_rate	71
+48143	Texas	Erath	teen_birth_rate	31
+48145	Texas	Falls	teen_birth_rate	62
+48147	Texas	Fannin	teen_birth_rate	59
+48149	Texas	Fayette	teen_birth_rate	38
+48151	Texas	Fisher	teen_birth_rate	48
+48153	Texas	Floyd	teen_birth_rate	96
+48155	Texas	Foard	teen_birth_rate	
+48157	Texas	Fort Bend	teen_birth_rate	26
+48159	Texas	Franklin	teen_birth_rate	62
+48161	Texas	Freestone	teen_birth_rate	59
+48163	Texas	Frio	teen_birth_rate	97
+48165	Texas	Gaines	teen_birth_rate	72
+48167	Texas	Galveston	teen_birth_rate	48
+48169	Texas	Garza	teen_birth_rate	83
+48171	Texas	Gillespie	teen_birth_rate	51
+48173	Texas	Glasscock	teen_birth_rate	
+48175	Texas	Goliad	teen_birth_rate	47
+48177	Texas	Gonzales	teen_birth_rate	91
+48179	Texas	Gray	teen_birth_rate	76
+48181	Texas	Grayson	teen_birth_rate	61
+48183	Texas	Gregg	teen_birth_rate	75
+48185	Texas	Grimes	teen_birth_rate	60
+48187	Texas	Guadalupe	teen_birth_rate	45
+48189	Texas	Hale	teen_birth_rate	101
+48191	Texas	Hall	teen_birth_rate	71
+48193	Texas	Hamilton	teen_birth_rate	49
+48195	Texas	Hansford	teen_birth_rate	51
+48197	Texas	Hardeman	teen_birth_rate	68
+48199	Texas	Hardin	teen_birth_rate	52
+48201	Texas	Harris	teen_birth_rate	60
+48203	Texas	Harrison	teen_birth_rate	59
+48205	Texas	Hartley	teen_birth_rate	44
+48207	Texas	Haskell	teen_birth_rate	71
+48209	Texas	Hays	teen_birth_rate	30
+48211	Texas	Hemphill	teen_birth_rate	59
+48213	Texas	Henderson	teen_birth_rate	67
+48215	Texas	Hidalgo	teen_birth_rate	87
+48217	Texas	Hill	teen_birth_rate	65
+48219	Texas	Hockley	teen_birth_rate	72
+48221	Texas	Hood	teen_birth_rate	57
+48223	Texas	Hopkins	teen_birth_rate	58
+48225	Texas	Houston	teen_birth_rate	66
+48227	Texas	Howard	teen_birth_rate	88
+48229	Texas	Hudspeth	teen_birth_rate	73
+48231	Texas	Hunt	teen_birth_rate	57
+48233	Texas	Hutchinson	teen_birth_rate	70
+48235	Texas	Irion	teen_birth_rate	
+48237	Texas	Jack	teen_birth_rate	66
+48239	Texas	Jackson	teen_birth_rate	72
+48241	Texas	Jasper	teen_birth_rate	68
+48243	Texas	Jeff Davis	teen_birth_rate	37
+48245	Texas	Jefferson	teen_birth_rate	56
+48247	Texas	Jim Hogg	teen_birth_rate	118
+48249	Texas	Jim Wells	teen_birth_rate	86
+48251	Texas	Johnson	teen_birth_rate	59
+48253	Texas	Jones	teen_birth_rate	69
+48255	Texas	Karnes	teen_birth_rate	83
+48257	Texas	Kaufman	teen_birth_rate	54
+48259	Texas	Kendall	teen_birth_rate	27
+48261	Texas	Kenedy	teen_birth_rate	
+48263	Texas	Kent	teen_birth_rate	
+48265	Texas	Kerr	teen_birth_rate	63
+48267	Texas	Kimble	teen_birth_rate	57
+48269	Texas	King	teen_birth_rate	
+48271	Texas	Kinney	teen_birth_rate	66
+48273	Texas	Kleberg	teen_birth_rate	62
+48275	Texas	Knox	teen_birth_rate	69
+48277	Texas	Lamar	teen_birth_rate	67
+48279	Texas	Lamb	teen_birth_rate	98
+48281	Texas	Lampasas	teen_birth_rate	58
+48283	Texas	La Salle	teen_birth_rate	85
+48285	Texas	Lavaca	teen_birth_rate	51
+48287	Texas	Lee	teen_birth_rate	43
+48289	Texas	Leon	teen_birth_rate	65
+48291	Texas	Liberty	teen_birth_rate	69
+48293	Texas	Limestone	teen_birth_rate	68
+48295	Texas	Lipscomb	teen_birth_rate	73
+48297	Texas	Live Oak	teen_birth_rate	47
+48299	Texas	Llano	teen_birth_rate	70
+48301	Texas	Loving	teen_birth_rate	
+48303	Texas	Lubbock	teen_birth_rate	58
+48305	Texas	Lynn	teen_birth_rate	58
+48307	Texas	McCulloch	teen_birth_rate	84
+48309	Texas	McLennan	teen_birth_rate	53
+48311	Texas	McMullen	teen_birth_rate	
+48313	Texas	Madison	teen_birth_rate	63
+48315	Texas	Marion	teen_birth_rate	68
+48317	Texas	Martin	teen_birth_rate	71
+48319	Texas	Mason	teen_birth_rate	29
+48321	Texas	Matagorda	teen_birth_rate	71
+48323	Texas	Maverick	teen_birth_rate	80
+48325	Texas	Medina	teen_birth_rate	54
+48327	Texas	Menard	teen_birth_rate	65
+48329	Texas	Midland	teen_birth_rate	71
+48331	Texas	Milam	teen_birth_rate	68
+48333	Texas	Mills	teen_birth_rate	45
+48335	Texas	Mitchell	teen_birth_rate	83
+48337	Texas	Montague	teen_birth_rate	65
+48339	Texas	Montgomery	teen_birth_rate	42
+48341	Texas	Moore	teen_birth_rate	98
+48343	Texas	Morris	teen_birth_rate	73
+48345	Texas	Motley	teen_birth_rate	
+48347	Texas	Nacogdoches	teen_birth_rate	42
+48349	Texas	Navarro	teen_birth_rate	73
+48351	Texas	Newton	teen_birth_rate	55
+48353	Texas	Nolan	teen_birth_rate	98
+48355	Texas	Nueces	teen_birth_rate	65
+48357	Texas	Ochiltree	teen_birth_rate	95
+48359	Texas	Oldham	teen_birth_rate	
+48361	Texas	Orange	teen_birth_rate	60
+48363	Texas	Palo Pinto	teen_birth_rate	77
+48365	Texas	Panola	teen_birth_rate	58
+48367	Texas	Parker	teen_birth_rate	43
+48369	Texas	Parmer	teen_birth_rate	61
+48371	Texas	Pecos	teen_birth_rate	88
+48373	Texas	Polk	teen_birth_rate	80
+48375	Texas	Potter	teen_birth_rate	102
+48377	Texas	Presidio	teen_birth_rate	94
+48379	Texas	Rains	teen_birth_rate	51
+48381	Texas	Randall	teen_birth_rate	36
+48383	Texas	Reagan	teen_birth_rate	78
+48385	Texas	Real	teen_birth_rate	56
+48387	Texas	Red River	teen_birth_rate	66
+48389	Texas	Reeves	teen_birth_rate	95
+48391	Texas	Refugio	teen_birth_rate	67
+48393	Texas	Roberts	teen_birth_rate	
+48395	Texas	Robertson	teen_birth_rate	72
+48397	Texas	Rockwall	teen_birth_rate	23
+48399	Texas	Runnels	teen_birth_rate	67
+48401	Texas	Rusk	teen_birth_rate	66
+48403	Texas	Sabine	teen_birth_rate	75
+48405	Texas	San Augustine	teen_birth_rate	79
+48407	Texas	San Jacinto	teen_birth_rate	61
+48409	Texas	San Patricio	teen_birth_rate	77
+48411	Texas	San Saba	teen_birth_rate	56
+48413	Texas	Schleicher	teen_birth_rate	67
+48415	Texas	Scurry	teen_birth_rate	91
+48417	Texas	Shackelford	teen_birth_rate	36
+48419	Texas	Shelby	teen_birth_rate	84
+48421	Texas	Sherman	teen_birth_rate	44
+48423	Texas	Smith	teen_birth_rate	53
+48425	Texas	Somervell	teen_birth_rate	39
+48427	Texas	Starr	teen_birth_rate	106
+48429	Texas	Stephens	teen_birth_rate	75
+48431	Texas	Sterling	teen_birth_rate	
+48433	Texas	Stonewall	teen_birth_rate	
+48435	Texas	Sutton	teen_birth_rate	64
+48437	Texas	Swisher	teen_birth_rate	95
+48439	Texas	Tarrant	teen_birth_rate	55
+48441	Texas	Taylor	teen_birth_rate	62
+48443	Texas	Terrell	teen_birth_rate	
+48445	Texas	Terry	teen_birth_rate	99
+48447	Texas	Throckmorton	teen_birth_rate	
+48449	Texas	Titus	teen_birth_rate	91
+48451	Texas	Tom Green	teen_birth_rate	58
+48453	Texas	Travis	teen_birth_rate	49
+48455	Texas	Trinity	teen_birth_rate	62
+48457	Texas	Tyler	teen_birth_rate	76
+48459	Texas	Upshur	teen_birth_rate	57
+48461	Texas	Upton	teen_birth_rate	68
+48463	Texas	Uvalde	teen_birth_rate	86
+48465	Texas	Val Verde	teen_birth_rate	86
+48467	Texas	Van Zandt	teen_birth_rate	53
+48469	Texas	Victoria	teen_birth_rate	80
+48471	Texas	Walker	teen_birth_rate	27
+48473	Texas	Waller	teen_birth_rate	37
+48475	Texas	Ward	teen_birth_rate	83
+48477	Texas	Washington	teen_birth_rate	44
+48479	Texas	Webb	teen_birth_rate	96
+48481	Texas	Wharton	teen_birth_rate	70
+48483	Texas	Wheeler	teen_birth_rate	68
+48485	Texas	Wichita	teen_birth_rate	61
+48487	Texas	Wilbarger	teen_birth_rate	81
+48489	Texas	Willacy	teen_birth_rate	82
+48491	Texas	Williamson	teen_birth_rate	35
+48493	Texas	Wilson	teen_birth_rate	37
+48495	Texas	Winkler	teen_birth_rate	66
+48497	Texas	Wise	teen_birth_rate	49
+48499	Texas	Wood	teen_birth_rate	57
+48501	Texas	Yoakum	teen_birth_rate	87
+48503	Texas	Young	teen_birth_rate	70
+48505	Texas	Zapata	teen_birth_rate	120
+48507	Texas	Zavala	teen_birth_rate	108
+49001	Utah	Beaver	teen_birth_rate	45
+49003	Utah	Box Elder	teen_birth_rate	37
+49005	Utah	Cache	teen_birth_rate	23
+49007	Utah	Carbon	teen_birth_rate	42
+49009	Utah	Daggett	teen_birth_rate	
+49011	Utah	Davis	teen_birth_rate	25
+49013	Utah	Duchesne	teen_birth_rate	63
+49015	Utah	Emery	teen_birth_rate	38
+49017	Utah	Garfield	teen_birth_rate	27
+49019	Utah	Grand	teen_birth_rate	54
+49021	Utah	Iron	teen_birth_rate	28
+49023	Utah	Juab	teen_birth_rate	39
+49025	Utah	Kane	teen_birth_rate	34
+49027	Utah	Millard	teen_birth_rate	41
+49029	Utah	Morgan	teen_birth_rate	13
+49031	Utah	Piute	teen_birth_rate	
+49033	Utah	Rich	teen_birth_rate	
+49035	Utah	Salt Lake	teen_birth_rate	38
+49037	Utah	San Juan	teen_birth_rate	39
+49039	Utah	Sanpete	teen_birth_rate	20
+49041	Utah	Sevier	teen_birth_rate	44
+49043	Utah	Summit	teen_birth_rate	25
+49045	Utah	Tooele	teen_birth_rate	42
+49047	Utah	Uintah	teen_birth_rate	59
+49049	Utah	Utah	teen_birth_rate	19
+49051	Utah	Wasatch	teen_birth_rate	31
+49053	Utah	Washington	teen_birth_rate	35
+49055	Utah	Wayne	teen_birth_rate	
+49057	Utah	Weber	teen_birth_rate	46
+50001	Vermont	Addison	teen_birth_rate	12
+50003	Vermont	Bennington	teen_birth_rate	28
+50005	Vermont	Caledonia	teen_birth_rate	24
+50007	Vermont	Chittenden	teen_birth_rate	11
+50009	Vermont	Essex	teen_birth_rate	20
+50011	Vermont	Franklin	teen_birth_rate	30
+50013	Vermont	Grand Isle	teen_birth_rate	27
+50015	Vermont	Lamoille	teen_birth_rate	21
+50017	Vermont	Orange	teen_birth_rate	20
+50019	Vermont	Orleans	teen_birth_rate	34
+50021	Vermont	Rutland	teen_birth_rate	21
+50023	Vermont	Washington	teen_birth_rate	20
+50025	Vermont	Windham	teen_birth_rate	23
+50027	Vermont	Windsor	teen_birth_rate	23
+51001	Virginia	Accomack	teen_birth_rate	66
+51003	Virginia	Albemarle	teen_birth_rate	13
+51005	Virginia	Alleghany	teen_birth_rate	50
+51007	Virginia	Amelia	teen_birth_rate	44
+51009	Virginia	Amherst	teen_birth_rate	31
+51011	Virginia	Appomattox	teen_birth_rate	44
+51013	Virginia	Arlington	teen_birth_rate	24
+51015	Virginia	Augusta	teen_birth_rate	35
+51017	Virginia	Bath	teen_birth_rate	
+51019	Virginia	Bedford	teen_birth_rate	25
+51021	Virginia	Bland	teen_birth_rate	28
+51023	Virginia	Botetourt	teen_birth_rate	18
+51025	Virginia	Brunswick	teen_birth_rate	46
+51027	Virginia	Buchanan	teen_birth_rate	47
+51029	Virginia	Buckingham	teen_birth_rate	42
+51031	Virginia	Campbell	teen_birth_rate	35
+51033	Virginia	Caroline	teen_birth_rate	46
+51035	Virginia	Carroll	teen_birth_rate	45
+51036	Virginia	Charles City	teen_birth_rate	30
+51037	Virginia	Charlotte	teen_birth_rate	40
+51041	Virginia	Chesterfield	teen_birth_rate	21
+51043	Virginia	Clarke	teen_birth_rate	25
+51045	Virginia	Craig	teen_birth_rate	30
+51047	Virginia	Culpeper	teen_birth_rate	40
+51049	Virginia	Cumberland	teen_birth_rate	29
+51051	Virginia	Dickenson	teen_birth_rate	48
+51053	Virginia	Dinwiddie	teen_birth_rate	33
+51057	Virginia	Essex	teen_birth_rate	43
+51059	Virginia	Fairfax	teen_birth_rate	17
+51061	Virginia	Fauquier	teen_birth_rate	24
+51063	Virginia	Floyd	teen_birth_rate	30
+51065	Virginia	Fluvanna	teen_birth_rate	26
+51067	Virginia	Franklin	teen_birth_rate	36
+51069	Virginia	Frederick	teen_birth_rate	36
+51071	Virginia	Giles	teen_birth_rate	44
+51073	Virginia	Gloucester	teen_birth_rate	27
+51075	Virginia	Goochland	teen_birth_rate	17
+51077	Virginia	Grayson	teen_birth_rate	47
+51079	Virginia	Greene	teen_birth_rate	37
+51081	Virginia	Greensville	teen_birth_rate	83
+51083	Virginia	Halifax	teen_birth_rate	48
+51085	Virginia	Hanover	teen_birth_rate	16
+51087	Virginia	Henrico	teen_birth_rate	27
+51089	Virginia	Henry	teen_birth_rate	57
+51091	Virginia	Highland	teen_birth_rate	
+51093	Virginia	Isle of Wight	teen_birth_rate	28
+51095	Virginia	James City	teen_birth_rate	23
+51097	Virginia	King and Queen	teen_birth_rate	51
+51099	Virginia	King George	teen_birth_rate	33
+51101	Virginia	King William	teen_birth_rate	31
+51103	Virginia	Lancaster	teen_birth_rate	40
+51105	Virginia	Lee	teen_birth_rate	54
+51107	Virginia	Loudoun	teen_birth_rate	15
+51109	Virginia	Louisa	teen_birth_rate	39
+51111	Virginia	Lunenburg	teen_birth_rate	49
+51113	Virginia	Madison	teen_birth_rate	35
+51115	Virginia	Mathews	teen_birth_rate	24
+51117	Virginia	Mecklenburg	teen_birth_rate	47
+51119	Virginia	Middlesex	teen_birth_rate	29
+51121	Virginia	Montgomery	teen_birth_rate	14
+51125	Virginia	Nelson	teen_birth_rate	37
+51127	Virginia	New Kent	teen_birth_rate	22
+51131	Virginia	Northampton	teen_birth_rate	60
+51133	Virginia	Northumberland	teen_birth_rate	57
+51135	Virginia	Nottoway	teen_birth_rate	50
+51137	Virginia	Orange	teen_birth_rate	36
+51139	Virginia	Page	teen_birth_rate	43
+51141	Virginia	Patrick	teen_birth_rate	36
+51143	Virginia	Pittsylvania	teen_birth_rate	36
+51145	Virginia	Powhatan	teen_birth_rate	14
+51147	Virginia	Prince Edward	teen_birth_rate	18
+51149	Virginia	Prince George	teen_birth_rate	24
+51153	Virginia	Prince William	teen_birth_rate	34
+51155	Virginia	Pulaski	teen_birth_rate	50
+51157	Virginia	Rappahannock	teen_birth_rate	22
+51159	Virginia	Richmond	teen_birth_rate	44
+51161	Virginia	Roanoke	teen_birth_rate	26
+51163	Virginia	Rockbridge	teen_birth_rate	49
+51165	Virginia	Rockingham	teen_birth_rate	31
+51167	Virginia	Russell	teen_birth_rate	43
+51169	Virginia	Scott	teen_birth_rate	49
+51171	Virginia	Shenandoah	teen_birth_rate	45
+51173	Virginia	Smyth	teen_birth_rate	55
+51175	Virginia	Southampton	teen_birth_rate	35
+51177	Virginia	Spotsylvania	teen_birth_rate	32
+51179	Virginia	Stafford	teen_birth_rate	24
+51181	Virginia	Surry	teen_birth_rate	29
+51183	Virginia	Sussex	teen_birth_rate	61
+51185	Virginia	Tazewell	teen_birth_rate	50
+51187	Virginia	Warren	teen_birth_rate	35
+51191	Virginia	Washington	teen_birth_rate	44
+51193	Virginia	Westmoreland	teen_birth_rate	54
+51195	Virginia	Wise	teen_birth_rate	59
+51197	Virginia	Wythe	teen_birth_rate	45
+51199	Virginia	York	teen_birth_rate	13
+51510	Virginia	Alexandria City	teen_birth_rate	48
+51515	Virginia	Bedford City	teen_birth_rate	53
+51520	Virginia	Bristol City	teen_birth_rate	41
+51530	Virginia	Buena Vista City	teen_birth_rate	20
+51540	Virginia	Charlottesville City	teen_birth_rate	28
+51550	Virginia	Chesapeake City	teen_birth_rate	33
+51570	Virginia	Colonial Heights City	teen_birth_rate	45
+51580	Virginia	Covington City	teen_birth_rate	30
+51590	Virginia	Danville City	teen_birth_rate	64
+51595	Virginia	Emporia City	teen_birth_rate	48
+51600	Virginia	Fairfax City	teen_birth_rate	21
+51610	Virginia	Falls Church City	teen_birth_rate	9
+51620	Virginia	Franklin City	teen_birth_rate	66
+51630	Virginia	Fredericksburg City	teen_birth_rate	31
+51640	Virginia	Galax City	teen_birth_rate	89
+51650	Virginia	Hampton City	teen_birth_rate	39
+51660	Virginia	Harrisonburg City	teen_birth_rate	13
+51670	Virginia	Hopewell City	teen_birth_rate	80
+51678	Virginia	Lexington City	teen_birth_rate	
+51680	Virginia	Lynchburg City	teen_birth_rate	29
+51683	Virginia	Manassas City	teen_birth_rate	48
+51685	Virginia	Manassas Park City	teen_birth_rate	49
+51690	Virginia	Martinsville City	teen_birth_rate	67
+51700	Virginia	Newport News City	teen_birth_rate	49
+51710	Virginia	Norfolk City	teen_birth_rate	55
+51720	Virginia	Norton City	teen_birth_rate	52
+51730	Virginia	Petersburg City	teen_birth_rate	96
+51735	Virginia	Poquoson City	teen_birth_rate	12
+51740	Virginia	Portsmouth City	teen_birth_rate	71
+51750	Virginia	Radford City	teen_birth_rate	9
+51760	Virginia	Richmond City	teen_birth_rate	49
+51770	Virginia	Roanoke City	teen_birth_rate	71
+51775	Virginia	Salem City	teen_birth_rate	24
+51790	Virginia	Staunton City	teen_birth_rate	37
+51800	Virginia	Suffolk City	teen_birth_rate	39
+51810	Virginia	Virginia Beach City	teen_birth_rate	30
+51820	Virginia	Waynesboro City	teen_birth_rate	61
+51830	Virginia	Williamsburg City	teen_birth_rate	10
+51840	Virginia	Winchester City	teen_birth_rate	59
+53001	Washington	Adams	teen_birth_rate	103
+53003	Washington	Asotin	teen_birth_rate	46
+53005	Washington	Benton	teen_birth_rate	42
+53007	Washington	Chelan	teen_birth_rate	45
+53009	Washington	Clallam	teen_birth_rate	33
+53011	Washington	Clark	teen_birth_rate	29
+53013	Washington	Columbia	teen_birth_rate	31
+53015	Washington	Cowlitz	teen_birth_rate	48
+53017	Washington	Douglas	teen_birth_rate	46
+53019	Washington	Ferry	teen_birth_rate	34
+53021	Washington	Franklin	teen_birth_rate	76
+53023	Washington	Garfield	teen_birth_rate	
+53025	Washington	Grant	teen_birth_rate	70
+53027	Washington	Grays Harbor	teen_birth_rate	48
+53029	Washington	Island	teen_birth_rate	26
+53031	Washington	Jefferson	teen_birth_rate	25
+53033	Washington	King	teen_birth_rate	20
+53035	Washington	Kitsap	teen_birth_rate	27
+53037	Washington	Kittitas	teen_birth_rate	13
+53039	Washington	Klickitat	teen_birth_rate	37
+53041	Washington	Lewis	teen_birth_rate	45
+53043	Washington	Lincoln	teen_birth_rate	26
+53045	Washington	Mason	teen_birth_rate	44
+53047	Washington	Okanogan	teen_birth_rate	55
+53049	Washington	Pacific	teen_birth_rate	37
+53051	Washington	Pend Oreille	teen_birth_rate	48
+53053	Washington	Pierce	teen_birth_rate	35
+53055	Washington	San Juan	teen_birth_rate	14
+53057	Washington	Skagit	teen_birth_rate	46
+53059	Washington	Skamania	teen_birth_rate	27
+53061	Washington	Snohomish	teen_birth_rate	24
+53063	Washington	Spokane	teen_birth_rate	29
+53065	Washington	Stevens	teen_birth_rate	38
+53067	Washington	Thurston	teen_birth_rate	25
+53069	Washington	Wahkiakum	teen_birth_rate	31
+53071	Washington	Walla Walla	teen_birth_rate	34
+53073	Washington	Whatcom	teen_birth_rate	20
+53075	Washington	Whitman	teen_birth_rate	5
+53077	Washington	Yakima	teen_birth_rate	71
+54001	West Virginia	Barbour	teen_birth_rate	41
+54003	West Virginia	Berkeley	teen_birth_rate	51
+54005	West Virginia	Boone	teen_birth_rate	68
+54007	West Virginia	Braxton	teen_birth_rate	50
+54009	West Virginia	Brooke	teen_birth_rate	26
+54011	West Virginia	Cabell	teen_birth_rate	47
+54013	West Virginia	Calhoun	teen_birth_rate	51
+54015	West Virginia	Clay	teen_birth_rate	66
+54017	West Virginia	Doddridge	teen_birth_rate	38
+54019	West Virginia	Fayette	teen_birth_rate	63
+54021	West Virginia	Gilmer	teen_birth_rate	26
+54023	West Virginia	Grant	teen_birth_rate	54
+54025	West Virginia	Greenbrier	teen_birth_rate	44
+54027	West Virginia	Hampshire	teen_birth_rate	46
+54029	West Virginia	Hancock	teen_birth_rate	36
+54031	West Virginia	Hardy	teen_birth_rate	43
+54033	West Virginia	Harrison	teen_birth_rate	49
+54035	West Virginia	Jackson	teen_birth_rate	42
+54037	West Virginia	Jefferson	teen_birth_rate	34
+54039	West Virginia	Kanawha	teen_birth_rate	52
+54041	West Virginia	Lewis	teen_birth_rate	51
+54043	West Virginia	Lincoln	teen_birth_rate	63
+54045	West Virginia	Logan	teen_birth_rate	62
+54047	West Virginia	McDowell	teen_birth_rate	85
+54049	West Virginia	Marion	teen_birth_rate	37
+54051	West Virginia	Marshall	teen_birth_rate	40
+54053	West Virginia	Mason	teen_birth_rate	48
+54055	West Virginia	Mercer	teen_birth_rate	62
+54057	West Virginia	Mineral	teen_birth_rate	37
+54059	West Virginia	Mingo	teen_birth_rate	70
+54061	West Virginia	Monongalia	teen_birth_rate	14
+54063	West Virginia	Monroe	teen_birth_rate	36
+54065	West Virginia	Morgan	teen_birth_rate	36
+54067	West Virginia	Nicholas	teen_birth_rate	49
+54069	West Virginia	Ohio	teen_birth_rate	35
+54071	West Virginia	Pendleton	teen_birth_rate	28
+54073	West Virginia	Pleasants	teen_birth_rate	37
+54075	West Virginia	Pocahontas	teen_birth_rate	39
+54077	West Virginia	Preston	teen_birth_rate	42
+54079	West Virginia	Putnam	teen_birth_rate	32
+54081	West Virginia	Raleigh	teen_birth_rate	55
+54083	West Virginia	Randolph	teen_birth_rate	53
+54085	West Virginia	Ritchie	teen_birth_rate	41
+54087	West Virginia	Roane	teen_birth_rate	46
+54089	West Virginia	Summers	teen_birth_rate	46
+54091	West Virginia	Taylor	teen_birth_rate	43
+54093	West Virginia	Tucker	teen_birth_rate	37
+54095	West Virginia	Tyler	teen_birth_rate	45
+54097	West Virginia	Upshur	teen_birth_rate	33
+54099	West Virginia	Wayne	teen_birth_rate	43
+54101	West Virginia	Webster	teen_birth_rate	43
+54103	West Virginia	Wetzel	teen_birth_rate	53
+54105	West Virginia	Wirt	teen_birth_rate	41
+54107	West Virginia	Wood	teen_birth_rate	48
+54109	West Virginia	Wyoming	teen_birth_rate	60
+55001	Wisconsin	Adams	teen_birth_rate	50
+55003	Wisconsin	Ashland	teen_birth_rate	30
+55005	Wisconsin	Barron	teen_birth_rate	29
+55007	Wisconsin	Bayfield	teen_birth_rate	23
+55009	Wisconsin	Brown	teen_birth_rate	32
+55011	Wisconsin	Buffalo	teen_birth_rate	19
+55013	Wisconsin	Burnett	teen_birth_rate	35
+55015	Wisconsin	Calumet	teen_birth_rate	15
+55017	Wisconsin	Chippewa	teen_birth_rate	27
+55019	Wisconsin	Clark	teen_birth_rate	25
+55021	Wisconsin	Columbia	teen_birth_rate	23
+55023	Wisconsin	Crawford	teen_birth_rate	25
+55025	Wisconsin	Dane	teen_birth_rate	19
+55027	Wisconsin	Dodge	teen_birth_rate	23
+55029	Wisconsin	Door	teen_birth_rate	19
+55031	Wisconsin	Douglas	teen_birth_rate	29
+55033	Wisconsin	Dunn	teen_birth_rate	15
+55035	Wisconsin	Eau Claire	teen_birth_rate	17
+55037	Wisconsin	Florence	teen_birth_rate	
+55039	Wisconsin	Fond du Lac	teen_birth_rate	25
+55041	Wisconsin	Forest	teen_birth_rate	41
+55043	Wisconsin	Grant	teen_birth_rate	18
+55045	Wisconsin	Green	teen_birth_rate	27
+55047	Wisconsin	Green Lake	teen_birth_rate	28
+55049	Wisconsin	Iowa	teen_birth_rate	22
+55051	Wisconsin	Iron	teen_birth_rate	
+55053	Wisconsin	Jackson	teen_birth_rate	36
+55055	Wisconsin	Jefferson	teen_birth_rate	18
+55057	Wisconsin	Juneau	teen_birth_rate	39
+55059	Wisconsin	Kenosha	teen_birth_rate	35
+55061	Wisconsin	Kewaunee	teen_birth_rate	17
+55063	Wisconsin	La Crosse	teen_birth_rate	18
+55065	Wisconsin	Lafayette	teen_birth_rate	20
+55067	Wisconsin	Langlade	teen_birth_rate	35
+55069	Wisconsin	Lincoln	teen_birth_rate	29
+55071	Wisconsin	Manitowoc	teen_birth_rate	25
+55073	Wisconsin	Marathon	teen_birth_rate	25
+55075	Wisconsin	Marinette	teen_birth_rate	28
+55077	Wisconsin	Marquette	teen_birth_rate	35
+55078	Wisconsin	Menominee	teen_birth_rate	116
+55079	Wisconsin	Milwaukee	teen_birth_rate	57
+55081	Wisconsin	Monroe	teen_birth_rate	38
+55083	Wisconsin	Oconto	teen_birth_rate	25
+55085	Wisconsin	Oneida	teen_birth_rate	24
+55087	Wisconsin	Outagamie	teen_birth_rate	21
+55089	Wisconsin	Ozaukee	teen_birth_rate	7
+55091	Wisconsin	Pepin	teen_birth_rate	14
+55093	Wisconsin	Pierce	teen_birth_rate	10
+55095	Wisconsin	Polk	teen_birth_rate	26
+55097	Wisconsin	Portage	teen_birth_rate	16
+55099	Wisconsin	Price	teen_birth_rate	16
+55101	Wisconsin	Racine	teen_birth_rate	43
+55103	Wisconsin	Richland	teen_birth_rate	21
+55105	Wisconsin	Rock	teen_birth_rate	40
+55107	Wisconsin	Rusk	teen_birth_rate	32
+55109	Wisconsin	St. Croix	teen_birth_rate	15
+55111	Wisconsin	Sauk	teen_birth_rate	32
+55113	Wisconsin	Sawyer	teen_birth_rate	48
+55115	Wisconsin	Shawano	teen_birth_rate	28
+55117	Wisconsin	Sheboygan	teen_birth_rate	31
+55119	Wisconsin	Taylor	teen_birth_rate	20
+55121	Wisconsin	Trempealeau	teen_birth_rate	30
+55123	Wisconsin	Vernon	teen_birth_rate	18
+55125	Wisconsin	Vilas	teen_birth_rate	30
+55127	Wisconsin	Walworth	teen_birth_rate	24
+55129	Wisconsin	Washburn	teen_birth_rate	32
+55131	Wisconsin	Washington	teen_birth_rate	15
+55133	Wisconsin	Waukesha	teen_birth_rate	10
+55135	Wisconsin	Waupaca	teen_birth_rate	28
+55137	Wisconsin	Waushara	teen_birth_rate	37
+55139	Wisconsin	Winnebago	teen_birth_rate	22
+55141	Wisconsin	Wood	teen_birth_rate	29
+56001	Wyoming	Albany	teen_birth_rate	13
+56003	Wyoming	Big Horn	teen_birth_rate	41
+56005	Wyoming	Campbell	teen_birth_rate	53
+56007	Wyoming	Carbon	teen_birth_rate	58
+56009	Wyoming	Converse	teen_birth_rate	45
+56011	Wyoming	Crook	teen_birth_rate	39
+56013	Wyoming	Fremont	teen_birth_rate	72
+56015	Wyoming	Goshen	teen_birth_rate	32
+56017	Wyoming	Hot Springs	teen_birth_rate	49
+56019	Wyoming	Johnson	teen_birth_rate	33
+56021	Wyoming	Laramie	teen_birth_rate	54
+56023	Wyoming	Lincoln	teen_birth_rate	35
+56025	Wyoming	Natrona	teen_birth_rate	52
+56027	Wyoming	Niobrara	teen_birth_rate	
+56029	Wyoming	Park	teen_birth_rate	25
+56031	Wyoming	Platte	teen_birth_rate	33
+56033	Wyoming	Sheridan	teen_birth_rate	30
+56035	Wyoming	Sublette	teen_birth_rate	40
+56037	Wyoming	Sweetwater	teen_birth_rate	57
+56039	Wyoming	Teton	teen_birth_rate	33
+56041	Wyoming	Uinta	teen_birth_rate	42
+56043	Wyoming	Washakie	teen_birth_rate	43
+56045	Wyoming	Weston	teen_birth_rate	36

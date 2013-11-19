@@ -1,0 +1,3142 @@
+FIPS	State	County	Variable	asian
+1001	Alabama	Autauga	asian	0.9
+1003	Alabama	Baldwin	asian	0.8
+1005	Alabama	Barbour	asian	0.4
+1007	Alabama	Bibb	asian	0.1
+1009	Alabama	Blount	asian	0.2
+1011	Alabama	Bullock	asian	0.2
+1013	Alabama	Butler	asian	0.9
+1015	Alabama	Calhoun	asian	0.8
+1017	Alabama	Chambers	asian	0.6
+1019	Alabama	Cherokee	asian	0.2
+1021	Alabama	Chilton	asian	0.3
+1023	Alabama	Choctaw	asian	0.2
+1025	Alabama	Clarke	asian	0.4
+1027	Alabama	Clay	asian	0.2
+1029	Alabama	Cleburne	asian	0.2
+1031	Alabama	Coffee	asian	1.3
+1033	Alabama	Colbert	asian	0.5
+1035	Alabama	Conecuh	asian	0.2
+1037	Alabama	Coosa	asian	0.2
+1039	Alabama	Covington	asian	0.5
+1041	Alabama	Crenshaw	asian	1.8
+1043	Alabama	Cullman	asian	0.5
+1045	Alabama	Dale	asian	1.2
+1047	Alabama	Dallas	asian	0.4
+1049	Alabama	DeKalb	asian	0.4
+1051	Alabama	Elmore	asian	0.7
+1053	Alabama	Escambia	asian	0.3
+1055	Alabama	Etowah	asian	0.7
+1057	Alabama	Fayette	asian	0.3
+1059	Alabama	Franklin	asian	0.3
+1061	Alabama	Geneva	asian	0.3
+1063	Alabama	Greene	asian	0.2
+1065	Alabama	Hale	asian	0.3
+1067	Alabama	Henry	asian	0.4
+1069	Alabama	Houston	asian	0.9
+1071	Alabama	Jackson	asian	0.4
+1073	Alabama	Jefferson	asian	1.5
+1075	Alabama	Lamar	asian	0.1
+1077	Alabama	Lauderdale	asian	0.8
+1079	Alabama	Lawrence	asian	0.2
+1081	Alabama	Lee	asian	2.7
+1083	Alabama	Limestone	asian	1.2
+1085	Alabama	Lowndes	asian	0.3
+1087	Alabama	Macon	asian	0.4
+1089	Alabama	Madison	asian	2.5
+1091	Alabama	Marengo	asian	0.3
+1093	Alabama	Marion	asian	0.2
+1095	Alabama	Marshall	asian	0.6
+1097	Alabama	Mobile	asian	1.9
+1099	Alabama	Monroe	asian	0.4
+1101	Alabama	Montgomery	asian	2.1
+1103	Alabama	Morgan	asian	0.6
+1105	Alabama	Perry	asian	0.3
+1107	Alabama	Pickens	asian	0.2
+1109	Alabama	Pike	asian	1.8
+1111	Alabama	Randolph	asian	0.3
+1113	Alabama	Russell	asian	0.6
+1115	Alabama	St. Clair	asian	0.7
+1117	Alabama	Shelby	asian	2
+1119	Alabama	Sumter	asian	0.3
+1121	Alabama	Talladega	asian	0.4
+1123	Alabama	Tallapoosa	asian	0.5
+1125	Alabama	Tuscaloosa	asian	1.3
+1127	Alabama	Walker	asian	0.3
+1129	Alabama	Washington	asian	0.1
+1131	Alabama	Wilcox	asian	0.1
+1133	Alabama	Winston	asian	0.3
+2013	Alaska	Aleutians East	asian	37.8
+2016	Alaska	Aleutians West	asian	30
+2020	Alaska	Anchorage	asian	8.4
+2050	Alaska	Bethel	asian	1
+2060	Alaska	Bristol Bay	asian	0.9
+2068	Alaska	Denali	asian	1.1
+2070	Alaska	Dillingham	asian	0.7
+2090	Alaska	Fairbanks North Star	asian	2.8
+2100	Alaska	Haines	asian	0.8
+2110	Alaska	Juneau	asian	6.1
+2122	Alaska	Kenai Peninsula	asian	1.2
+2130	Alaska	Ketchikan Gateway	asian	7.1
+2150	Alaska	Kodiak Island	asian	19.9
+2164	Alaska	Lake and Peninsula	asian	0.3
+2170	Alaska	Matanuska-Susitna	asian	1.4
+2180	Alaska	Nome	asian	1.1
+2185	Alaska	North Slope	asian	4.8
+2188	Alaska	Northwest Arctic	asian	0.6
+2201	Alaska	Prince of Wales-Outer Ketchikan	asian	0.5
+2220	Alaska	Sitka	asian	6
+2232	Alaska	Skagway-Hoonah-Angoon	asian	0.6
+2240	Alaska	Southeast Fairbanks	asian	1
+2261	Alaska	Valdez-Cordova	asian	4.1
+2270	Alaska	Wade Hampton	asian	0.3
+2280	Alaska	Wrangell-Petersburg	asian	2.3
+2282	Alaska	Yakutat	asian	5
+2290	Alaska	Yukon-Koyukuk	asian	0.3
+4001	Arizona	Apache	asian	0.4
+4003	Arizona	Cochise	asian	2.1
+4005	Arizona	Coconino	asian	1.6
+4007	Arizona	Gila	asian	0.6
+4009	Arizona	Graham	asian	0.6
+4011	Arizona	Greenlee	asian	0.7
+4012	Arizona	La Paz	asian	0.7
+4013	Arizona	Maricopa	asian	3.7
+4015	Arizona	Mohave	asian	1.2
+4017	Arizona	Navajo	asian	0.6
+4019	Arizona	Pima	asian	2.8
+4021	Arizona	Pinal	asian	1.9
+4023	Arizona	Santa Cruz	asian	0.7
+4025	Arizona	Yavapai	asian	0.9
+4027	Arizona	Yuma	asian	1.5
+5001	Arkansas	Arkansas	asian	0.5
+5003	Arkansas	Ashley	asian	0.3
+5005	Arkansas	Baxter	asian	0.5
+5007	Arkansas	Benton	asian	3.1
+5009	Arkansas	Boone	asian	0.5
+5011	Arkansas	Bradley	asian	0.3
+5013	Arkansas	Calhoun	asian	0.2
+5015	Arkansas	Carroll	asian	0.7
+5017	Arkansas	Chicot	asian	0.5
+5019	Arkansas	Clark	asian	0.6
+5021	Arkansas	Clay	asian	0.2
+5023	Arkansas	Cleburne	asian	0.2
+5025	Arkansas	Cleveland	asian	0.2
+5027	Arkansas	Columbia	asian	0.8
+5029	Arkansas	Conway	asian	0.5
+5031	Arkansas	Craighead	asian	1.2
+5033	Arkansas	Crawford	asian	1.5
+5035	Arkansas	Crittenden	asian	0.7
+5037	Arkansas	Cross	asian	0.5
+5039	Arkansas	Dallas	asian	0.2
+5041	Arkansas	Desha	asian	0.4
+5043	Arkansas	Drew	asian	0.6
+5045	Arkansas	Faulkner	asian	1.2
+5047	Arkansas	Franklin	asian	1
+5049	Arkansas	Fulton	asian	0.3
+5051	Arkansas	Garland	asian	0.8
+5053	Arkansas	Grant	asian	0.3
+5055	Arkansas	Greene	asian	0.3
+5057	Arkansas	Hempstead	asian	0.5
+5059	Arkansas	Hot Spring	asian	0.3
+5061	Arkansas	Howard	asian	0.7
+5063	Arkansas	Independence	asian	0.9
+5065	Arkansas	Izard	asian	0.3
+5067	Arkansas	Jackson	asian	0.3
+5069	Arkansas	Jefferson	asian	0.9
+5071	Arkansas	Johnson	asian	0.8
+5073	Arkansas	Lafayette	asian	0.4
+5075	Arkansas	Lawrence	asian	0.2
+5077	Arkansas	Lee	asian	0.4
+5079	Arkansas	Lincoln	asian	0.3
+5081	Arkansas	Little River	asian	0.3
+5083	Arkansas	Logan	asian	1.8
+5085	Arkansas	Lonoke	asian	0.9
+5087	Arkansas	Madison	asian	0.5
+5089	Arkansas	Marion	asian	0.3
+5091	Arkansas	Miller	asian	0.5
+5093	Arkansas	Mississippi	asian	0.6
+5095	Arkansas	Monroe	asian	0.6
+5097	Arkansas	Montgomery	asian	0.6
+5099	Arkansas	Nevada	asian	0.3
+5101	Arkansas	Newton	asian	0.3
+5103	Arkansas	Ouachita	asian	0.4
+5105	Arkansas	Perry	asian	0.2
+5107	Arkansas	Phillips	asian	0.4
+5109	Arkansas	Pike	asian	0.7
+5111	Arkansas	Poinsett	asian	0.2
+5113	Arkansas	Polk	asian	0.5
+5115	Arkansas	Pope	asian	1.1
+5117	Arkansas	Prairie	asian	0.1
+5119	Arkansas	Pulaski	asian	2.1
+5121	Arkansas	Randolph	asian	0.2
+5123	Arkansas	St. Francis	asian	0.5
+5125	Arkansas	Saline	asian	0.9
+5127	Arkansas	Scott	asian	3.6
+5129	Arkansas	Searcy	asian	0.2
+5131	Arkansas	Sebastian	asian	4.2
+5133	Arkansas	Sevier	asian	0.4
+5135	Arkansas	Sharp	asian	0.3
+5137	Arkansas	Stone	asian	0.4
+5139	Arkansas	Union	asian	0.6
+5141	Arkansas	Van Buren	asian	0.4
+5143	Arkansas	Washington	asian	2.3
+5145	Arkansas	White	asian	0.6
+5147	Arkansas	Woodruff	asian	0.2
+5149	Arkansas	Yell	asian	1.5
+6001	California	Alameda	asian	27
+6003	California	Alpine	asian	0.7
+6005	California	Amador	asian	1.3
+6007	California	Butte	asian	4.4
+6009	California	Calaveras	asian	1.4
+6011	California	Colusa	asian	1.6
+6013	California	Contra Costa	asian	15.2
+6015	California	Del Norte	asian	3.5
+6017	California	El Dorado	asian	3.7
+6019	California	Fresno	asian	10.3
+6021	California	Glenn	asian	2.9
+6023	California	Humboldt	asian	2.5
+6025	California	Imperial	asian	2.4
+6027	California	Inyo	asian	1.3
+6029	California	Kern	asian	4.7
+6031	California	Kings	asian	4.2
+6033	California	Lake	asian	1.3
+6035	California	Lassen	asian	1.3
+6037	California	Los Angeles	asian	14.2
+6039	California	Madera	asian	2.2
+6041	California	Marin	asian	5.8
+6043	California	Mariposa	asian	1.3
+6045	California	Mendocino	asian	1.9
+6047	California	Merced	asian	7.9
+6049	California	Modoc	asian	1.1
+6051	California	Mono	asian	1.7
+6053	California	Monterey	asian	6.9
+6055	California	Napa	asian	7.2
+6057	California	Nevada	asian	1.3
+6059	California	Orange	asian	18.4
+6061	California	Placer	asian	6.3
+6063	California	Plumas	asian	0.9
+6065	California	Riverside	asian	6.5
+6067	California	Sacramento	asian	15
+6069	California	San Benito	asian	3.2
+6071	California	San Bernardino	asian	6.9
+6073	California	San Diego	asian	11.4
+6075	California	San Francisco	asian	33.9
+6077	California	San Joaquin	asian	15.5
+6079	California	San Luis Obispo	asian	3.7
+6081	California	San Mateo	asian	25.8
+6083	California	Santa Barbara	asian	5.5
+6085	California	Santa Clara	asian	32.9
+6087	California	Santa Cruz	asian	4.8
+6089	California	Shasta	asian	2.7
+6091	California	Sierra	asian	0.4
+6093	California	Siskiyou	asian	1.3
+6095	California	Solano	asian	15.2
+6097	California	Sonoma	asian	4.1
+6099	California	Stanislaus	asian	5.7
+6101	California	Sutter	asian	15.5
+6103	California	Tehama	asian	1.2
+6105	California	Trinity	asian	0.8
+6107	California	Tulare	asian	3.9
+6109	California	Tuolumne	asian	1.2
+6111	California	Ventura	asian	7.2
+6113	California	Yolo	asian	14.1
+6115	California	Yuba	asian	7.2
+8001	Colorado	Adams	asian	3.8
+8003	Colorado	Alamosa	asian	1.5
+8005	Colorado	Arapahoe	asian	5.2
+8007	Colorado	Archuleta	asian	0.9
+8009	Colorado	Baca	asian	0.2
+8011	Colorado	Bent	asian	1.1
+8013	Colorado	Boulder	asian	4.3
+8014	Colorado	Broomfield	asian	6.1
+8015	Colorado	Chaffee	asian	0.7
+8017	Colorado	Cheyenne	asian	0.7
+8019	Colorado	Clear Creek	asian	0.6
+8021	Colorado	Conejos	asian	0.5
+8023	Colorado	Costilla	asian	1.1
+8025	Colorado	Crowley	asian	1.1
+8027	Colorado	Custer	asian	0.5
+8029	Colorado	Delta	asian	0.6
+8031	Colorado	Denver	asian	3.6
+8033	Colorado	Dolores	asian	0.1
+8035	Colorado	Douglas	asian	3.9
+8037	Colorado	Eagle	asian	1.1
+8039	Colorado	Elbert	asian	0.9
+8041	Colorado	El Paso	asian	2.9
+8043	Colorado	Fremont	asian	0.6
+8045	Colorado	Garfield	asian	0.8
+8047	Colorado	Gilpin	asian	1.4
+8049	Colorado	Grand	asian	0.9
+8051	Colorado	Gunnison	asian	0.8
+8053	Colorado	Hinsdale	asian	0.6
+8055	Colorado	Huerfano	asian	0.6
+8057	Colorado	Jackson	asian	0.1
+8059	Colorado	Jefferson	asian	2.7
+8061	Colorado	Kiowa	asian	0
+8063	Colorado	Kit Carson	asian	0.6
+8065	Colorado	Lake	asian	0.5
+8067	Colorado	La Plata	asian	0.8
+8069	Colorado	Larimer	asian	2.1
+8071	Colorado	Las Animas	asian	0.9
+8073	Colorado	Lincoln	asian	0.9
+8075	Colorado	Logan	asian	0.8
+8077	Colorado	Mesa	asian	0.9
+8079	Colorado	Mineral	asian	0.7
+8081	Colorado	Moffat	asian	0.6
+8083	Colorado	Montezuma	asian	0.5
+8085	Colorado	Montrose	asian	0.7
+8087	Colorado	Morgan	asian	0.6
+8089	Colorado	Otero	asian	0.9
+8091	Colorado	Ouray	asian	0.6
+8093	Colorado	Park	asian	0.7
+8095	Colorado	Phillips	asian	0.6
+8097	Colorado	Pitkin	asian	1.4
+8099	Colorado	Prowers	asian	0.4
+8101	Colorado	Pueblo	asian	1
+8103	Colorado	Rio Blanco	asian	0.4
+8105	Colorado	Rio Grande	asian	0.5
+8107	Colorado	Routt	asian	0.8
+8109	Colorado	Saguache	asian	0.9
+8111	Colorado	San Juan	asian	1
+8113	Colorado	San Miguel	asian	0.8
+8115	Colorado	Sedgwick	asian	0.9
+8117	Colorado	Summit	asian	1
+8119	Colorado	Teller	asian	0.8
+8121	Colorado	Washington	asian	0.4
+8123	Colorado	Weld	asian	1.3
+8125	Colorado	Yuma	asian	0.4
+9001	Connecticut	Fairfield	asian	4.9
+9003	Connecticut	Hartford	asian	4.5
+9005	Connecticut	Litchfield	asian	1.7
+9007	Connecticut	Middlesex	asian	2.6
+9009	Connecticut	New Haven	asian	3.7
+9011	Connecticut	New London	asian	4.3
+9013	Connecticut	Tolland	asian	3.6
+9015	Connecticut	Windham	asian	1.3
+10001	Delaware	Kent	asian	2.2
+10003	Delaware	New Castle	asian	4.5
+10005	Delaware	Sussex	asian	1.1
+11001	District of Columbia	District of Columbia	asian	3.7
+12001	Florida	Alachua	asian	5.6
+12003	Florida	Baker	asian	0.5
+12005	Florida	Bay	asian	2.1
+12007	Florida	Bradford	asian	0.6
+12009	Florida	Brevard	asian	2.2
+12011	Florida	Broward	asian	3.5
+12013	Florida	Calhoun	asian	0.6
+12015	Florida	Charlotte	asian	1.3
+12017	Florida	Citrus	asian	1.5
+12019	Florida	Clay	asian	3.1
+12021	Florida	Collier	asian	1.2
+12023	Florida	Columbia	asian	1.1
+12027	Florida	DeSoto	asian	0.7
+12029	Florida	Dixie	asian	0.4
+12031	Florida	Duval	asian	4.3
+12033	Florida	Escambia	asian	2.9
+12035	Florida	Flagler	asian	2.3
+12037	Florida	Franklin	asian	0.3
+12039	Florida	Gadsden	asian	0.6
+12041	Florida	Gilchrist	asian	0.4
+12043	Florida	Glades	asian	0.5
+12045	Florida	Gulf	asian	0.3
+12047	Florida	Hamilton	asian	0.6
+12049	Florida	Hardee	asian	1.3
+12051	Florida	Hendry	asian	0.9
+12053	Florida	Hernando	asian	1.2
+12055	Florida	Highlands	asian	1.6
+12057	Florida	Hillsborough	asian	3.6
+12059	Florida	Holmes	asian	0.6
+12061	Florida	Indian River	asian	1.3
+12063	Florida	Jackson	asian	0.6
+12065	Florida	Jefferson	asian	0.6
+12067	Florida	Lafayette	asian	0.2
+12069	Florida	Lake	asian	2
+12071	Florida	Lee	asian	1.5
+12073	Florida	Leon	asian	3
+12075	Florida	Levy	asian	0.6
+12077	Florida	Liberty	asian	0.3
+12079	Florida	Madison	asian	0.3
+12081	Florida	Manatee	asian	1.8
+12083	Florida	Marion	asian	1.4
+12085	Florida	Martin	asian	1.2
+12086	Florida	Miami-Dade	asian	1.7
+12087	Florida	Monroe	asian	1.2
+12089	Florida	Nassau	asian	1
+12091	Florida	Okaloosa	asian	3.1
+12093	Florida	Okeechobee	asian	0.9
+12095	Florida	Orange	asian	5.2
+12097	Florida	Osceola	asian	3
+12099	Florida	Palm Beach	asian	2.5
+12101	Florida	Pasco	asian	2.3
+12103	Florida	Pinellas	asian	3.1
+12105	Florida	Polk	asian	1.8
+12107	Florida	Putnam	asian	0.7
+12109	Florida	St. Johns	asian	2.3
+12111	Florida	St. Lucie	asian	1.8
+12113	Florida	Santa Rosa	asian	2
+12115	Florida	Sarasota	asian	1.4
+12117	Florida	Seminole	asian	3.9
+12119	Florida	Sumter	asian	0.8
+12121	Florida	Suwannee	asian	0.7
+12123	Florida	Taylor	asian	0.8
+12125	Florida	Union	asian	0.3
+12127	Florida	Volusia	asian	1.6
+12129	Florida	Wakulla	asian	0.5
+12131	Florida	Walton	asian	1
+12133	Florida	Washington	asian	0.6
+13001	Georgia	Appling	asian	0.8
+13003	Georgia	Atkinson	asian	0.6
+13005	Georgia	Bacon	asian	0.5
+13007	Georgia	Baker	asian	1.1
+13009	Georgia	Baldwin	asian	1.5
+13011	Georgia	Banks	asian	1
+13013	Georgia	Barrow	asian	3.5
+13015	Georgia	Bartow	asian	0.9
+13017	Georgia	Ben Hill	asian	0.8
+13019	Georgia	Berrien	asian	0.5
+13021	Georgia	Bibb	asian	1.7
+13023	Georgia	Bleckley	asian	0.9
+13025	Georgia	Brantley	asian	0.2
+13027	Georgia	Brooks	asian	0.4
+13029	Georgia	Bryan	asian	1.8
+13031	Georgia	Bulloch	asian	1.5
+13033	Georgia	Burke	asian	0.4
+13035	Georgia	Butts	asian	0.5
+13037	Georgia	Calhoun	asian	0.4
+13039	Georgia	Camden	asian	1.5
+13043	Georgia	Candler	asian	0.6
+13045	Georgia	Carroll	asian	0.9
+13047	Georgia	Catoosa	asian	1.3
+13049	Georgia	Charlton	asian	0.7
+13051	Georgia	Chatham	asian	2.5
+13053	Georgia	Chattahoochee	asian	2.4
+13055	Georgia	Chattooga	asian	0.5
+13057	Georgia	Cherokee	asian	1.8
+13059	Georgia	Clarke	asian	4.4
+13061	Georgia	Clay	asian	0.4
+13063	Georgia	Clayton	asian	5
+13065	Georgia	Clinch	asian	0.3
+13067	Georgia	Cobb	asian	4.7
+13069	Georgia	Coffee	asian	0.8
+13071	Georgia	Colquitt	asian	0.7
+13073	Georgia	Columbia	asian	4
+13075	Georgia	Cook	asian	0.7
+13077	Georgia	Coweta	asian	1.6
+13079	Georgia	Crawford	asian	0.4
+13081	Georgia	Crisp	asian	0.8
+13083	Georgia	Dade	asian	0.8
+13085	Georgia	Dawson	asian	0.7
+13087	Georgia	Decatur	asian	0.6
+13089	Georgia	DeKalb	asian	5.2
+13091	Georgia	Dodge	asian	0.5
+13093	Georgia	Dooly	asian	0.7
+13095	Georgia	Dougherty	asian	0.9
+13097	Georgia	Douglas	asian	1.6
+13099	Georgia	Early	asian	0.4
+13101	Georgia	Echols	asian	0.3
+13103	Georgia	Effingham	asian	0.9
+13105	Georgia	Elbert	asian	0.7
+13107	Georgia	Emanuel	asian	0.7
+13109	Georgia	Evans	asian	0.9
+13111	Georgia	Fannin	asian	0.3
+13113	Georgia	Fayette	asian	4.1
+13115	Georgia	Floyd	asian	1.4
+13117	Georgia	Forsyth	asian	6.7
+13119	Georgia	Franklin	asian	0.6
+13121	Georgia	Fulton	asian	5.8
+13123	Georgia	Gilmer	asian	0.3
+13125	Georgia	Glascock	asian	0
+13127	Georgia	Glynn	asian	1.3
+13129	Georgia	Gordon	asian	1.1
+13131	Georgia	Grady	asian	0.6
+13133	Georgia	Greene	asian	0.4
+13135	Georgia	Gwinnett	asian	10.8
+13137	Georgia	Habersham	asian	2.3
+13139	Georgia	Hall	asian	2
+13141	Georgia	Hancock	asian	0.4
+13143	Georgia	Haralson	asian	0.6
+13145	Georgia	Harris	asian	1
+13147	Georgia	Hart	asian	0.9
+13149	Georgia	Heard	asian	0.5
+13151	Georgia	Henry	asian	3.1
+13153	Georgia	Houston	asian	2.6
+13155	Georgia	Irwin	asian	0.8
+13157	Georgia	Jackson	asian	1.8
+13159	Georgia	Jasper	asian	0.4
+13161	Georgia	Jeff Davis	asian	0.5
+13163	Georgia	Jefferson	asian	0.6
+13165	Georgia	Jenkins	asian	0.6
+13167	Georgia	Johnson	asian	0.3
+13169	Georgia	Jones	asian	0.7
+13171	Georgia	Lamar	asian	0.5
+13173	Georgia	Lanier	asian	1.1
+13175	Georgia	Laurens	asian	1.1
+13177	Georgia	Lee	asian	2.4
+13179	Georgia	Liberty	asian	2.2
+13181	Georgia	Lincoln	asian	0.5
+13183	Georgia	Long	asian	1
+13185	Georgia	Lowndes	asian	1.6
+13187	Georgia	Lumpkin	asian	0.5
+13189	Georgia	McDuffie	asian	0.4
+13191	Georgia	McIntosh	asian	0.4
+13193	Georgia	Macon	asian	1.4
+13195	Georgia	Madison	asian	0.7
+13197	Georgia	Marion	asian	0.8
+13199	Georgia	Meriwether	asian	0.7
+13201	Georgia	Miller	asian	0.5
+13205	Georgia	Mitchell	asian	0.6
+13207	Georgia	Monroe	asian	0.9
+13209	Georgia	Montgomery	asian	0.3
+13211	Georgia	Morgan	asian	0.6
+13213	Georgia	Murray	asian	0.4
+13215	Georgia	Muscogee	asian	2.3
+13217	Georgia	Newton	asian	1
+13219	Georgia	Oconee	asian	3.3
+13221	Georgia	Oglethorpe	asian	0.6
+13223	Georgia	Paulding	asian	1
+13225	Georgia	Peach	asian	0.8
+13227	Georgia	Pickens	asian	0.4
+13229	Georgia	Pierce	asian	0.4
+13231	Georgia	Pike	asian	0.4
+13233	Georgia	Polk	asian	0.8
+13235	Georgia	Pulaski	asian	1.1
+13237	Georgia	Putnam	asian	0.6
+13239	Georgia	Quitman	asian	0.3
+13241	Georgia	Rabun	asian	0.9
+13243	Georgia	Randolph	asian	0.4
+13245	Georgia	Richmond	asian	1.8
+13247	Georgia	Rockdale	asian	1.9
+13249	Georgia	Schley	asian	0.9
+13251	Georgia	Screven	asian	0.4
+13253	Georgia	Seminole	asian	0.6
+13255	Georgia	Spalding	asian	1
+13257	Georgia	Stephens	asian	0.8
+13259	Georgia	Stewart	asian	1
+13261	Georgia	Sumter	asian	1.4
+13263	Georgia	Talbot	asian	0.2
+13265	Georgia	Taliaferro	asian	0.8
+13267	Georgia	Tattnall	asian	0.5
+13269	Georgia	Taylor	asian	0.7
+13271	Georgia	Telfair	asian	0.7
+13273	Georgia	Terrell	asian	0.4
+13275	Georgia	Thomas	asian	0.8
+13277	Georgia	Tift	asian	1.4
+13279	Georgia	Toombs	asian	0.8
+13281	Georgia	Towns	asian	0.5
+13283	Georgia	Treutlen	asian	0.2
+13285	Georgia	Troup	asian	1.7
+13287	Georgia	Turner	asian	0.6
+13289	Georgia	Twiggs	asian	0.2
+13291	Georgia	Union	asian	0.4
+13293	Georgia	Upson	asian	0.5
+13295	Georgia	Walker	asian	0.5
+13297	Georgia	Walton	asian	1.2
+13299	Georgia	Ware	asian	0.8
+13301	Georgia	Warren	asian	0.4
+13303	Georgia	Washington	asian	0.5
+13305	Georgia	Wayne	asian	0.6
+13307	Georgia	Webster	asian	0.5
+13309	Georgia	Wheeler	asian	0.2
+13311	Georgia	White	asian	0.5
+13313	Georgia	Whitfield	asian	1.4
+13315	Georgia	Wilcox	asian	0.5
+13317	Georgia	Wilkes	asian	0.7
+13319	Georgia	Wilkinson	asian	0.3
+13321	Georgia	Worth	asian	0.5
+15001	Hawaii	Hawaii	asian	22.6
+15003	Hawaii	Honolulu	asian	43.6
+15005	Hawaii	Kalawao	asian	7.8
+15007	Hawaii	Kauai	asian	31.8
+15009	Hawaii	Maui	asian	29.2
+16001	Idaho	Ada	asian	2.5
+16003	Idaho	Adams	asian	0.4
+16005	Idaho	Bannock	asian	1.4
+16007	Idaho	Bear Lake	asian	0.4
+16009	Idaho	Benewah	asian	0.4
+16011	Idaho	Bingham	asian	0.8
+16013	Idaho	Blaine	asian	0.9
+16015	Idaho	Boise	asian	0.6
+16017	Idaho	Bonner	asian	0.5
+16019	Idaho	Bonneville	asian	0.9
+16021	Idaho	Boundary	asian	0.7
+16023	Idaho	Butte	asian	0.2
+16025	Idaho	Camas	asian	0.1
+16027	Idaho	Canyon	asian	0.9
+16029	Idaho	Caribou	asian	0.5
+16031	Idaho	Cassia	asian	0.7
+16033	Idaho	Clark	asian	0.8
+16035	Idaho	Clearwater	asian	0.8
+16037	Idaho	Custer	asian	0.3
+16039	Idaho	Elmore	asian	2.9
+16041	Idaho	Franklin	asian	0.1
+16043	Idaho	Fremont	asian	0.3
+16045	Idaho	Gem	asian	0.6
+16047	Idaho	Gooding	asian	0.7
+16049	Idaho	Idaho	asian	0.5
+16051	Idaho	Jefferson	asian	0.5
+16053	Idaho	Jerome	asian	0.5
+16055	Idaho	Kootenai	asian	0.8
+16057	Idaho	Latah	asian	2
+16059	Idaho	Lemhi	asian	0.4
+16061	Idaho	Lewis	asian	0.5
+16063	Idaho	Lincoln	asian	0.4
+16065	Idaho	Madison	asian	1.1
+16067	Idaho	Minidoka	asian	0.6
+16069	Idaho	Nez Perce	asian	0.8
+16071	Idaho	Oneida	asian	0.5
+16073	Idaho	Owyhee	asian	0.8
+16075	Idaho	Payette	asian	0.9
+16077	Idaho	Power	asian	0.4
+16079	Idaho	Shoshone	asian	0.5
+16081	Idaho	Teton	asian	0.5
+16083	Idaho	Twin Falls	asian	1.3
+16085	Idaho	Valley	asian	0.4
+16087	Idaho	Washington	asian	1.1
+17001	Illinois	Adams	asian	0.7
+17003	Illinois	Alexander	asian	0.3
+17005	Illinois	Bond	asian	0.4
+17007	Illinois	Boone	asian	1.4
+17009	Illinois	Brown	asian	0.3
+17011	Illinois	Bureau	asian	0.8
+17013	Illinois	Calhoun	asian	0.3
+17015	Illinois	Carroll	asian	0.4
+17017	Illinois	Cass	asian	0.6
+17019	Illinois	Champaign	asian	9.4
+17021	Illinois	Christian	asian	0.6
+17023	Illinois	Clark	asian	0.3
+17025	Illinois	Clay	asian	0.6
+17027	Illinois	Clinton	asian	0.5
+17029	Illinois	Coles	asian	1
+17031	Illinois	Cook	asian	6.5
+17033	Illinois	Crawford	asian	0.5
+17035	Illinois	Cumberland	asian	0.3
+17037	Illinois	DeKalb	asian	2.7
+17039	Illinois	De Witt	asian	0.5
+17041	Illinois	Douglas	asian	0.5
+17043	Illinois	DuPage	asian	10.4
+17045	Illinois	Edgar	asian	0.2
+17047	Illinois	Edwards	asian	0.3
+17049	Illinois	Effingham	asian	0.5
+17051	Illinois	Fayette	asian	0.2
+17053	Illinois	Ford	asian	0.3
+17055	Illinois	Franklin	asian	0.4
+17057	Illinois	Fulton	asian	0.4
+17059	Illinois	Gallatin	asian	0.1
+17061	Illinois	Greene	asian	0.1
+17063	Illinois	Grundy	asian	0.8
+17065	Illinois	Hamilton	asian	0.2
+17067	Illinois	Hancock	asian	0.3
+17069	Illinois	Hardin	asian	0.5
+17071	Illinois	Henderson	asian	0.3
+17073	Illinois	Henry	asian	0.4
+17075	Illinois	Iroquois	asian	0.5
+17077	Illinois	Jackson	asian	3.7
+17079	Illinois	Jasper	asian	0.3
+17081	Illinois	Jefferson	asian	0.7
+17083	Illinois	Jersey	asian	0.4
+17085	Illinois	Jo Daviess	asian	0.4
+17087	Illinois	Johnson	asian	0.2
+17089	Illinois	Kane	asian	3.7
+17091	Illinois	Kankakee	asian	1
+17093	Illinois	Kendall	asian	3.3
+17095	Illinois	Knox	asian	0.7
+17097	Illinois	Lake	asian	6.6
+17099	Illinois	LaSalle	asian	0.7
+17101	Illinois	Lawrence	asian	0.3
+17103	Illinois	Lee	asian	0.8
+17105	Illinois	Livingston	asian	0.6
+17107	Illinois	Logan	asian	0.7
+17109	Illinois	McDonough	asian	2.2
+17111	Illinois	McHenry	asian	2.6
+17113	Illinois	McLean	asian	4.5
+17115	Illinois	Macon	asian	1.1
+17117	Illinois	Macoupin	asian	0.3
+17119	Illinois	Madison	asian	0.9
+17121	Illinois	Marion	asian	0.6
+17123	Illinois	Marshall	asian	0.5
+17125	Illinois	Mason	asian	0.3
+17127	Illinois	Massac	asian	0.3
+17129	Illinois	Menard	asian	0.3
+17131	Illinois	Mercer	asian	0.4
+17133	Illinois	Monroe	asian	0.5
+17135	Illinois	Montgomery	asian	0.4
+17137	Illinois	Morgan	asian	0.5
+17139	Illinois	Moultrie	asian	0.3
+17141	Illinois	Ogle	asian	0.6
+17143	Illinois	Peoria	asian	3.3
+17145	Illinois	Perry	asian	0.4
+17147	Illinois	Piatt	asian	0.4
+17149	Illinois	Pike	asian	0.2
+17151	Illinois	Pope	asian	0.3
+17153	Illinois	Pulaski	asian	0.3
+17155	Illinois	Putnam	asian	0.3
+17157	Illinois	Randolph	asian	0.3
+17159	Illinois	Richland	asian	0.8
+17161	Illinois	Rock Island	asian	1.8
+17163	Illinois	St. Clair	asian	1.3
+17165	Illinois	Saline	asian	0.5
+17167	Illinois	Sangamon	asian	1.7
+17169	Illinois	Schuyler	asian	0.3
+17171	Illinois	Scott	asian	0.2
+17173	Illinois	Shelby	asian	0.3
+17175	Illinois	Stark	asian	0.4
+17177	Illinois	Stephenson	asian	0.7
+17179	Illinois	Tazewell	asian	0.8
+17181	Illinois	Union	asian	0.4
+17183	Illinois	Vermilion	asian	0.8
+17185	Illinois	Wabash	asian	0.7
+17187	Illinois	Warren	asian	0.8
+17189	Illinois	Washington	asian	0.3
+17191	Illinois	Wayne	asian	0.5
+17193	Illinois	White	asian	0.2
+17195	Illinois	Whiteside	asian	0.5
+17197	Illinois	Will	asian	4.8
+17199	Illinois	Williamson	asian	0.9
+17201	Illinois	Winnebago	asian	2.4
+17203	Illinois	Woodford	asian	0.6
+18001	Indiana	Adams	asian	0.3
+18003	Indiana	Allen	asian	2.8
+18005	Indiana	Bartholomew	asian	3.7
+18007	Indiana	Benton	asian	0.2
+18009	Indiana	Blackford	asian	0.2
+18011	Indiana	Boone	asian	1.8
+18013	Indiana	Brown	asian	0.3
+18015	Indiana	Carroll	asian	0.1
+18017	Indiana	Cass	asian	1.1
+18019	Indiana	Clark	asian	0.9
+18021	Indiana	Clay	asian	0.3
+18023	Indiana	Clinton	asian	0.3
+18025	Indiana	Crawford	asian	0.2
+18027	Indiana	Daviess	asian	0.6
+18029	Indiana	Dearborn	asian	0.4
+18031	Indiana	Decatur	asian	0.9
+18033	Indiana	DeKalb	asian	0.5
+18035	Indiana	Delaware	asian	1.1
+18037	Indiana	Dubois	asian	0.5
+18039	Indiana	Elkhart	asian	1.1
+18041	Indiana	Fayette	asian	0.4
+18043	Indiana	Floyd	asian	1
+18045	Indiana	Fountain	asian	0.3
+18047	Indiana	Franklin	asian	0.2
+18049	Indiana	Fulton	asian	0.6
+18051	Indiana	Gibson	asian	0.5
+18053	Indiana	Grant	asian	0.6
+18055	Indiana	Greene	asian	0.3
+18057	Indiana	Hamilton	asian	5
+18059	Indiana	Hancock	asian	0.8
+18061	Indiana	Harrison	asian	0.4
+18063	Indiana	Hendricks	asian	2.2
+18065	Indiana	Henry	asian	0.3
+18067	Indiana	Howard	asian	1
+18069	Indiana	Huntington	asian	0.5
+18071	Indiana	Jackson	asian	0.9
+18073	Indiana	Jasper	asian	0.4
+18075	Indiana	Jay	asian	0.4
+18077	Indiana	Jefferson	asian	0.7
+18079	Indiana	Jennings	asian	0.3
+18081	Indiana	Johnson	asian	2.1
+18083	Indiana	Knox	asian	0.6
+18085	Indiana	Kosciusko	asian	1
+18087	Indiana	LaGrange	asian	0.4
+18089	Indiana	Lake	asian	1.4
+18091	Indiana	LaPorte	asian	0.6
+18093	Indiana	Lawrence	asian	0.5
+18095	Indiana	Madison	asian	0.4
+18097	Indiana	Marion	asian	2.1
+18099	Indiana	Marshall	asian	0.6
+18101	Indiana	Martin	asian	0.3
+18103	Indiana	Miami	asian	0.4
+18105	Indiana	Monroe	asian	5.6
+18107	Indiana	Montgomery	asian	0.6
+18109	Indiana	Morgan	asian	0.4
+18111	Indiana	Newton	asian	0.3
+18113	Indiana	Noble	asian	0.4
+18115	Indiana	Ohio	asian	0.3
+18117	Indiana	Orange	asian	0.3
+18119	Indiana	Owen	asian	0.4
+18121	Indiana	Parke	asian	0.2
+18123	Indiana	Perry	asian	0.4
+18125	Indiana	Pike	asian	0.2
+18127	Indiana	Porter	asian	1.3
+18129	Indiana	Posey	asian	0.3
+18131	Indiana	Pulaski	asian	0.3
+18133	Indiana	Putnam	asian	0.8
+18135	Indiana	Randolph	asian	0.3
+18137	Indiana	Ripley	asian	0.5
+18139	Indiana	Rush	asian	0.4
+18141	Indiana	St. Joseph	asian	2
+18143	Indiana	Scott	asian	0.6
+18145	Indiana	Shelby	asian	0.6
+18147	Indiana	Spencer	asian	0.4
+18149	Indiana	Starke	asian	0.3
+18151	Indiana	Steuben	asian	0.6
+18153	Indiana	Sullivan	asian	0.2
+18155	Indiana	Switzerland	asian	0.2
+18157	Indiana	Tippecanoe	asian	6.5
+18159	Indiana	Tipton	asian	0.4
+18161	Indiana	Union	asian	0.3
+18163	Indiana	Vanderburgh	asian	1.1
+18165	Indiana	Vermillion	asian	0.2
+18167	Indiana	Vigo	asian	1.8
+18169	Indiana	Wabash	asian	0.5
+18171	Indiana	Warren	asian	0.5
+18173	Indiana	Warrick	asian	1.7
+18175	Indiana	Washington	asian	0.3
+18177	Indiana	Wayne	asian	0.8
+18179	Indiana	Wells	asian	0.5
+18181	Indiana	White	asian	0.4
+18183	Indiana	Whitley	asian	0.4
+19001	Iowa	Adair	asian	0.3
+19003	Iowa	Adams	asian	0.5
+19005	Iowa	Allamakee	asian	0.3
+19007	Iowa	Appanoose	asian	0.4
+19009	Iowa	Audubon	asian	0.4
+19011	Iowa	Benton	asian	0.3
+19013	Iowa	Black Hawk	asian	1.5
+19015	Iowa	Boone	asian	0.4
+19017	Iowa	Bremer	asian	0.8
+19019	Iowa	Buchanan	asian	0.4
+19021	Iowa	Buena Vista	asian	6
+19023	Iowa	Butler	asian	0.3
+19025	Iowa	Calhoun	asian	0.3
+19027	Iowa	Carroll	asian	0.5
+19029	Iowa	Cass	asian	0.3
+19031	Iowa	Cedar	asian	0.5
+19033	Iowa	Cerro Gordo	asian	0.9
+19035	Iowa	Cherokee	asian	0.6
+19037	Iowa	Chickasaw	asian	0.4
+19039	Iowa	Clarke	asian	0.5
+19041	Iowa	Clay	asian	0.7
+19043	Iowa	Clayton	asian	0.2
+19045	Iowa	Clinton	asian	0.6
+19047	Iowa	Crawford	asian	0.8
+19049	Iowa	Dallas	asian	2.7
+19051	Iowa	Davis	asian	0.3
+19053	Iowa	Decatur	asian	0.9
+19055	Iowa	Delaware	asian	0.3
+19057	Iowa	Des Moines	asian	0.8
+19059	Iowa	Dickinson	asian	0.5
+19061	Iowa	Dubuque	asian	1.1
+19063	Iowa	Emmet	asian	0.5
+19065	Iowa	Fayette	asian	0.6
+19067	Iowa	Floyd	asian	1.5
+19069	Iowa	Franklin	asian	0.3
+19071	Iowa	Fremont	asian	0.3
+19073	Iowa	Greene	asian	0.5
+19075	Iowa	Grundy	asian	0.2
+19077	Iowa	Guthrie	asian	0.4
+19079	Iowa	Hamilton	asian	2
+19081	Iowa	Hancock	asian	0.5
+19083	Iowa	Hardin	asian	0.5
+19085	Iowa	Harrison	asian	0.3
+19087	Iowa	Henry	asian	2.5
+19089	Iowa	Howard	asian	0.3
+19091	Iowa	Humboldt	asian	0.4
+19093	Iowa	Ida	asian	0.3
+19095	Iowa	Iowa	asian	0.4
+19097	Iowa	Jackson	asian	0.3
+19099	Iowa	Jasper	asian	0.5
+19101	Iowa	Jefferson	asian	8.6
+19103	Iowa	Johnson	asian	5.4
+19105	Iowa	Jones	asian	0.4
+19107	Iowa	Keokuk	asian	0.3
+19109	Iowa	Kossuth	asian	0.4
+19111	Iowa	Lee	asian	0.6
+19113	Iowa	Linn	asian	1.9
+19115	Iowa	Louisa	asian	1.6
+19117	Iowa	Lucas	asian	0.2
+19119	Iowa	Lyon	asian	0.2
+19121	Iowa	Madison	asian	0.4
+19123	Iowa	Mahaska	asian	1.1
+19125	Iowa	Marion	asian	1.3
+19127	Iowa	Marshall	asian	1.6
+19129	Iowa	Mills	asian	0.4
+19131	Iowa	Mitchell	asian	0.3
+19133	Iowa	Monona	asian	0.2
+19135	Iowa	Monroe	asian	0.5
+19137	Iowa	Montgomery	asian	0.2
+19139	Iowa	Muscatine	asian	0.9
+19141	Iowa	O'Brien	asian	0.6
+19143	Iowa	Osceola	asian	0.3
+19145	Iowa	Page	asian	0.8
+19147	Iowa	Palo Alto	asian	0.4
+19149	Iowa	Plymouth	asian	0.5
+19151	Iowa	Pocahontas	asian	0.2
+19153	Iowa	Polk	asian	3.7
+19155	Iowa	Pottawattamie	asian	0.7
+19157	Iowa	Poweshiek	asian	1.5
+19159	Iowa	Ringgold	asian	0.4
+19161	Iowa	Sac	asian	0.2
+19163	Iowa	Scott	asian	2.1
+19165	Iowa	Shelby	asian	0.4
+19167	Iowa	Sioux	asian	0.8
+19169	Iowa	Story	asian	6.2
+19171	Iowa	Tama	asian	0.3
+19173	Iowa	Taylor	asian	0.3
+19175	Iowa	Union	asian	0.5
+19177	Iowa	Van Buren	asian	0.6
+19179	Iowa	Wapello	asian	0.8
+19181	Iowa	Warren	asian	0.5
+19183	Iowa	Washington	asian	0.4
+19185	Iowa	Wayne	asian	0.3
+19187	Iowa	Webster	asian	0.7
+19189	Iowa	Winnebago	asian	0.9
+19191	Iowa	Winneshiek	asian	1.2
+19193	Iowa	Woodbury	asian	2.5
+19195	Iowa	Worth	asian	0.5
+19197	Iowa	Wright	asian	0.3
+20001	Kansas	Allen	asian	0.6
+20003	Kansas	Anderson	asian	0.6
+20005	Kansas	Atchison	asian	0.5
+20007	Kansas	Barber	asian	0.4
+20009	Kansas	Barton	asian	0.3
+20011	Kansas	Bourbon	asian	0.5
+20013	Kansas	Brown	asian	0.4
+20015	Kansas	Butler	asian	0.8
+20017	Kansas	Chase	asian	0.4
+20019	Kansas	Chautauqua	asian	0.1
+20021	Kansas	Cherokee	asian	0.4
+20023	Kansas	Cheyenne	asian	0.7
+20025	Kansas	Clark	asian	1
+20027	Kansas	Clay	asian	0.4
+20029	Kansas	Cloud	asian	0.3
+20031	Kansas	Coffey	asian	0.5
+20033	Kansas	Comanche	asian	0.3
+20035	Kansas	Cowley	asian	1.7
+20037	Kansas	Crawford	asian	1.4
+20039	Kansas	Decatur	asian	0.2
+20041	Kansas	Dickinson	asian	0.4
+20043	Kansas	Doniphan	asian	0.3
+20045	Kansas	Douglas	asian	4.1
+20047	Kansas	Edwards	asian	0.6
+20049	Kansas	Elk	asian	0.4
+20051	Kansas	Ellis	asian	1.3
+20053	Kansas	Ellsworth	asian	0.4
+20055	Kansas	Finney	asian	3.7
+20057	Kansas	Ford	asian	1.7
+20059	Kansas	Franklin	asian	0.5
+20061	Kansas	Geary	asian	3.4
+20063	Kansas	Gove	asian	0.4
+20065	Kansas	Graham	asian	0.3
+20067	Kansas	Grant	asian	0.4
+20069	Kansas	Gray	asian	0.3
+20071	Kansas	Greeley	asian	0.3
+20073	Kansas	Greenwood	asian	0.3
+20075	Kansas	Hamilton	asian	0.3
+20077	Kansas	Harper	asian	0.2
+20079	Kansas	Harvey	asian	0.8
+20081	Kansas	Haskell	asian	0.4
+20083	Kansas	Hodgeman	asian	0.4
+20085	Kansas	Jackson	asian	0.4
+20087	Kansas	Jefferson	asian	0.2
+20089	Kansas	Jewell	asian	0.2
+20091	Kansas	Johnson	asian	4.3
+20093	Kansas	Kearny	asian	0.6
+20095	Kansas	Kingman	asian	0.6
+20097	Kansas	Kiowa	asian	0.7
+20099	Kansas	Labette	asian	0.4
+20101	Kansas	Lane	asian	0.3
+20103	Kansas	Leavenworth	asian	1.4
+20105	Kansas	Lincoln	asian	0.2
+20107	Kansas	Linn	asian	0.3
+20109	Kansas	Logan	asian	0.4
+20111	Kansas	Lyon	asian	2.5
+20113	Kansas	McPherson	asian	0.6
+20115	Kansas	Marion	asian	0.3
+20117	Kansas	Marshall	asian	0.3
+20119	Kansas	Meade	asian	0.4
+20121	Kansas	Miami	asian	0.4
+20123	Kansas	Mitchell	asian	0.4
+20125	Kansas	Montgomery	asian	0.6
+20127	Kansas	Morris	asian	0.3
+20129	Kansas	Morton	asian	2.2
+20131	Kansas	Nemaha	asian	0.2
+20133	Kansas	Neosho	asian	0.5
+20135	Kansas	Ness	asian	0.2
+20137	Kansas	Norton	asian	0.6
+20139	Kansas	Osage	asian	0.2
+20141	Kansas	Osborne	asian	0.5
+20143	Kansas	Ottawa	asian	0.2
+20145	Kansas	Pawnee	asian	0.6
+20147	Kansas	Phillips	asian	0.8
+20149	Kansas	Pottawatomie	asian	0.8
+20151	Kansas	Pratt	asian	0.4
+20153	Kansas	Rawlins	asian	0.2
+20155	Kansas	Reno	asian	0.5
+20157	Kansas	Republic	asian	0.3
+20159	Kansas	Rice	asian	0.4
+20161	Kansas	Riley	asian	4.2
+20163	Kansas	Rooks	asian	0.5
+20165	Kansas	Rush	asian	0.2
+20167	Kansas	Russell	asian	0.6
+20169	Kansas	Saline	asian	2.2
+20171	Kansas	Scott	asian	0.5
+20173	Kansas	Sedgwick	asian	4.2
+20175	Kansas	Seward	asian	2.9
+20177	Kansas	Shawnee	asian	1.2
+20179	Kansas	Sheridan	asian	0.2
+20181	Kansas	Sherman	asian	0.8
+20183	Kansas	Smith	asian	0.2
+20185	Kansas	Stafford	asian	0.5
+20187	Kansas	Stanton	asian	0.2
+20189	Kansas	Stevens	asian	0.3
+20191	Kansas	Sumner	asian	0.3
+20193	Kansas	Thomas	asian	0.7
+20195	Kansas	Trego	asian	0.4
+20197	Kansas	Wabaunsee	asian	0.2
+20199	Kansas	Wallace	asian	0.1
+20201	Kansas	Washington	asian	0.3
+20203	Kansas	Wichita	asian	0.1
+20205	Kansas	Wilson	asian	0.4
+20207	Kansas	Woodson	asian	0.2
+20209	Kansas	Wyandotte	asian	2.7
+21001	Kentucky	Adair	asian	0.3
+21003	Kentucky	Allen	asian	0.2
+21005	Kentucky	Anderson	asian	0.5
+21007	Kentucky	Ballard	asian	0.2
+21009	Kentucky	Barren	asian	0.5
+21011	Kentucky	Bath	asian	0.1
+21013	Kentucky	Bell	asian	0.3
+21015	Kentucky	Boone	asian	2.2
+21017	Kentucky	Bourbon	asian	0.4
+21019	Kentucky	Boyd	asian	0.5
+21021	Kentucky	Boyle	asian	0.8
+21023	Kentucky	Bracken	asian	0.1
+21025	Kentucky	Breathitt	asian	0.5
+21027	Kentucky	Breckinridge	asian	0.3
+21029	Kentucky	Bullitt	asian	0.6
+21031	Kentucky	Butler	asian	0.2
+21033	Kentucky	Caldwell	asian	0.3
+21035	Kentucky	Calloway	asian	1.8
+21037	Kentucky	Campbell	asian	0.9
+21039	Kentucky	Carlisle	asian	0.3
+21041	Kentucky	Carroll	asian	0.6
+21043	Kentucky	Carter	asian	0.2
+21045	Kentucky	Casey	asian	0.2
+21047	Kentucky	Christian	asian	1.2
+21049	Kentucky	Clark	asian	0.4
+21051	Kentucky	Clay	asian	0.1
+21053	Kentucky	Clinton	asian	0.2
+21055	Kentucky	Crittenden	asian	0.2
+21057	Kentucky	Cumberland	asian	0.1
+21059	Kentucky	Daviess	asian	0.7
+21061	Kentucky	Edmonson	asian	0.2
+21063	Kentucky	Elliott	asian	0.1
+21065	Kentucky	Estill	asian	0.1
+21067	Kentucky	Fayette	asian	3.4
+21069	Kentucky	Fleming	asian	0.2
+21071	Kentucky	Floyd	asian	0.2
+21073	Kentucky	Franklin	asian	1.5
+21075	Kentucky	Fulton	asian	0.7
+21077	Kentucky	Gallatin	asian	0.3
+21079	Kentucky	Garrard	asian	0.2
+21081	Kentucky	Grant	asian	0.4
+21083	Kentucky	Graves	asian	0.4
+21085	Kentucky	Grayson	asian	0.3
+21087	Kentucky	Green	asian	0.2
+21089	Kentucky	Greenup	asian	0.5
+21091	Kentucky	Hancock	asian	0.3
+21093	Kentucky	Hardin	asian	2.1
+21095	Kentucky	Harlan	asian	0.4
+21097	Kentucky	Harrison	asian	0.3
+21099	Kentucky	Hart	asian	0.3
+21101	Kentucky	Henderson	asian	0.5
+21103	Kentucky	Henry	asian	0.2
+21105	Kentucky	Hickman	asian	0.4
+21107	Kentucky	Hopkins	asian	0.5
+21109	Kentucky	Jackson	asian	0.1
+21111	Kentucky	Jefferson	asian	2.3
+21113	Kentucky	Jessamine	asian	1
+21115	Kentucky	Johnson	asian	0.4
+21117	Kentucky	Kenton	asian	1
+21119	Kentucky	Knott	asian	0.1
+21121	Kentucky	Knox	asian	0.2
+21123	Kentucky	Larue	asian	0.2
+21125	Kentucky	Laurel	asian	0.6
+21127	Kentucky	Lawrence	asian	0.2
+21129	Kentucky	Lee	asian	0.1
+21131	Kentucky	Leslie	asian	0.1
+21133	Kentucky	Letcher	asian	0.2
+21135	Kentucky	Lewis	asian	0.1
+21137	Kentucky	Lincoln	asian	0.2
+21139	Kentucky	Livingston	asian	0.2
+21141	Kentucky	Logan	asian	0.3
+21143	Kentucky	Lyon	asian	0.3
+21145	Kentucky	McCracken	asian	0.9
+21147	Kentucky	McCreary	asian	0.2
+21149	Kentucky	McLean	asian	0.1
+21151	Kentucky	Madison	asian	1
+21153	Kentucky	Magoffin	asian	0.1
+21155	Kentucky	Marion	asian	0.6
+21157	Kentucky	Marshall	asian	0.3
+21159	Kentucky	Martin	asian	0.2
+21161	Kentucky	Mason	asian	0.6
+21163	Kentucky	Meade	asian	0.7
+21165	Kentucky	Menifee	asian	0.1
+21167	Kentucky	Mercer	asian	0.4
+21169	Kentucky	Metcalfe	asian	0.2
+21171	Kentucky	Monroe	asian	0.1
+21173	Kentucky	Montgomery	asian	0.4
+21175	Kentucky	Morgan	asian	0.3
+21177	Kentucky	Muhlenberg	asian	0.2
+21179	Kentucky	Nelson	asian	0.5
+21181	Kentucky	Nicholas	asian	0.2
+21183	Kentucky	Ohio	asian	0.3
+21185	Kentucky	Oldham	asian	1.4
+21187	Kentucky	Owen	asian	0.2
+21189	Kentucky	Owsley	asian	0.1
+21191	Kentucky	Pendleton	asian	0.2
+21193	Kentucky	Perry	asian	0.5
+21195	Kentucky	Pike	asian	0.5
+21197	Kentucky	Powell	asian	0.1
+21199	Kentucky	Pulaski	asian	0.5
+21201	Kentucky	Robertson	asian	0.1
+21203	Kentucky	Rockcastle	asian	0.1
+21205	Kentucky	Rowan	asian	0.8
+21207	Kentucky	Russell	asian	0.3
+21209	Kentucky	Scott	asian	1
+21211	Kentucky	Shelby	asian	0.7
+21213	Kentucky	Simpson	asian	0.7
+21215	Kentucky	Spencer	asian	0.4
+21217	Kentucky	Taylor	asian	0.6
+21219	Kentucky	Todd	asian	0.1
+21221	Kentucky	Trigg	asian	0.4
+21223	Kentucky	Trimble	asian	0.5
+21225	Kentucky	Union	asian	0.4
+21227	Kentucky	Warren	asian	2.9
+21229	Kentucky	Washington	asian	0.3
+21231	Kentucky	Wayne	asian	0.4
+21233	Kentucky	Webster	asian	0.3
+21235	Kentucky	Whitley	asian	0.4
+21237	Kentucky	Wolfe	asian	0
+21239	Kentucky	Woodford	asian	0.6
+22001	Louisiana	Acadia	asian	0.2
+22003	Louisiana	Allen	asian	0.7
+22005	Louisiana	Ascension	asian	1
+22007	Louisiana	Assumption	asian	0.3
+22009	Louisiana	Avoyelles	asian	0.4
+22011	Louisiana	Beauregard	asian	0.7
+22013	Louisiana	Bienville	asian	0.2
+22015	Louisiana	Bossier	asian	1.8
+22017	Louisiana	Caddo	asian	1.1
+22019	Louisiana	Calcasieu	asian	1.1
+22021	Louisiana	Caldwell	asian	0.2
+22023	Louisiana	Cameron	asian	0.2
+22025	Louisiana	Catahoula	asian	0
+22027	Louisiana	Claiborne	asian	0.3
+22029	Louisiana	Concordia	asian	0.3
+22031	Louisiana	De Soto	asian	0.2
+22033	Louisiana	East Baton Rouge	asian	3
+22035	Louisiana	East Carroll	asian	0.5
+22037	Louisiana	East Feliciana	asian	0.3
+22039	Louisiana	Evangeline	asian	0.4
+22041	Louisiana	Franklin	asian	0.2
+22043	Louisiana	Grant	asian	0.3
+22045	Louisiana	Iberia	asian	2.5
+22047	Louisiana	Iberville	asian	0.4
+22049	Louisiana	Jackson	asian	0.2
+22051	Louisiana	Jefferson	asian	4
+22053	Louisiana	Jefferson Davis	asian	0.3
+22055	Louisiana	Lafayette	asian	1.5
+22057	Louisiana	Lafourche	asian	0.8
+22059	Louisiana	La Salle	asian	0.2
+22061	Louisiana	Lincoln	asian	1.8
+22063	Louisiana	Livingston	asian	0.5
+22065	Louisiana	Madison	asian	0.3
+22067	Louisiana	Morehouse	asian	0.4
+22069	Louisiana	Natchitoches	asian	0.6
+22071	Louisiana	Orleans	asian	2.9
+22073	Louisiana	Ouachita	asian	1
+22075	Louisiana	Plaquemines	asian	3.4
+22077	Louisiana	Pointe Coupee	asian	0.3
+22079	Louisiana	Rapides	asian	1.3
+22081	Louisiana	Red River	asian	0.2
+22083	Louisiana	Richland	asian	0.3
+22085	Louisiana	Sabine	asian	0.3
+22087	Louisiana	St. Bernard	asian	2.1
+22089	Louisiana	St. Charles	asian	0.9
+22091	Louisiana	St. Helena	asian	0.2
+22093	Louisiana	St. James	asian	0.3
+22095	Louisiana	St. John the Baptist	asian	0.8
+22097	Louisiana	St. Landry	asian	0.5
+22099	Louisiana	St. Martin	asian	0.8
+22101	Louisiana	St. Mary	asian	1.8
+22103	Louisiana	St. Tammany	asian	1.4
+22105	Louisiana	Tangipahoa	asian	0.7
+22107	Louisiana	Tensas	asian	0.2
+22109	Louisiana	Terrebonne	asian	1.1
+22111	Louisiana	Union	asian	0.2
+22113	Louisiana	Vermilion	asian	2.1
+22115	Louisiana	Vernon	asian	2
+22117	Louisiana	Washington	asian	0.3
+22119	Louisiana	Webster	asian	0.4
+22121	Louisiana	West Baton Rouge	asian	0.5
+22123	Louisiana	West Carroll	asian	0.3
+22125	Louisiana	West Feliciana	asian	0.3
+22127	Louisiana	Winn	asian	0.3
+23001	Maine	Androscoggin	asian	0.8
+23003	Maine	Aroostook	asian	0.5
+23005	Maine	Cumberland	asian	2.1
+23007	Maine	Franklin	asian	0.5
+23009	Maine	Hancock	asian	0.9
+23011	Maine	Kennebec	asian	0.8
+23013	Maine	Knox	asian	0.5
+23015	Maine	Lincoln	asian	0.6
+23017	Maine	Oxford	asian	0.6
+23019	Maine	Penobscot	asian	1
+23021	Maine	Piscataquis	asian	0.8
+23023	Maine	Sagadahoc	asian	0.8
+23025	Maine	Somerset	asian	0.6
+23027	Maine	Waldo	asian	0.5
+23029	Maine	Washington	asian	0.5
+23031	Maine	York	asian	1.1
+24001	Maryland	Allegany	asian	0.8
+24003	Maryland	Anne Arundel	asian	3.6
+24005	Maryland	Baltimore	asian	5.2
+24009	Maryland	Calvert	asian	1.5
+24011	Maryland	Caroline	asian	0.7
+24013	Maryland	Carroll	asian	1.5
+24015	Maryland	Cecil	asian	1.2
+24017	Maryland	Charles	asian	3.1
+24019	Maryland	Dorchester	asian	1
+24021	Maryland	Frederick	asian	4.1
+24023	Maryland	Garrett	asian	0.3
+24025	Maryland	Harford	asian	2.6
+24027	Maryland	Howard	asian	14.9
+24029	Maryland	Kent	asian	1
+24031	Maryland	Montgomery	asian	14.4
+24033	Maryland	Prince George's	asian	4.3
+24035	Maryland	Queen Anne's	asian	1.1
+24037	Maryland	St. Mary's	asian	2.7
+24039	Maryland	Somerset	asian	0.8
+24041	Maryland	Talbot	asian	1.4
+24043	Maryland	Washington	asian	1.5
+24045	Maryland	Wicomico	asian	2.7
+24047	Maryland	Worcester	asian	1.2
+24510	Maryland	Baltimore City	asian	2.5
+25001	Massachusetts	Barnstable	asian	1.2
+25003	Massachusetts	Berkshire	asian	1.3
+25005	Massachusetts	Bristol	asian	2
+25007	Massachusetts	Dukes	asian	0.9
+25009	Massachusetts	Essex	asian	3.4
+25011	Massachusetts	Franklin	asian	1.4
+25013	Massachusetts	Hampden	asian	2.1
+25015	Massachusetts	Hampshire	asian	4.8
+25017	Massachusetts	Middlesex	asian	9.8
+25019	Massachusetts	Nantucket	asian	1.3
+25021	Massachusetts	Norfolk	asian	8.9
+25023	Massachusetts	Plymouth	asian	1.4
+25025	Massachusetts	Suffolk	asian	8.5
+25027	Massachusetts	Worcester	asian	4.2
+26001	Michigan	Alcona	asian	0.2
+26003	Michigan	Alger	asian	0.4
+26005	Michigan	Allegan	asian	0.7
+26007	Michigan	Alpena	asian	0.6
+26009	Michigan	Antrim	asian	0.2
+26011	Michigan	Arenac	asian	0.2
+26013	Michigan	Baraga	asian	0.2
+26015	Michigan	Barry	asian	0.4
+26017	Michigan	Bay	asian	0.6
+26019	Michigan	Benzie	asian	0.3
+26021	Michigan	Berrien	asian	1.7
+26023	Michigan	Branch	asian	0.5
+26025	Michigan	Calhoun	asian	1.6
+26027	Michigan	Cass	asian	0.7
+26029	Michigan	Charlevoix	asian	0.4
+26031	Michigan	Cheboygan	asian	0.3
+26033	Michigan	Chippewa	asian	0.7
+26035	Michigan	Clare	asian	0.3
+26037	Michigan	Clinton	asian	1.4
+26039	Michigan	Crawford	asian	0.4
+26041	Michigan	Delta	asian	0.4
+26043	Michigan	Dickinson	asian	0.5
+26045	Michigan	Eaton	asian	1.8
+26047	Michigan	Emmet	asian	0.6
+26049	Michigan	Genesee	asian	0.9
+26051	Michigan	Gladwin	asian	0.3
+26053	Michigan	Gogebic	asian	0.3
+26055	Michigan	Grand Traverse	asian	0.8
+26057	Michigan	Gratiot	asian	0.4
+26059	Michigan	Hillsdale	asian	0.5
+26061	Michigan	Houghton	asian	2.8
+26063	Michigan	Huron	asian	0.5
+26065	Michigan	Ingham	asian	5.4
+26067	Michigan	Ionia	asian	0.4
+26069	Michigan	Iosco	asian	0.6
+26071	Michigan	Iron	asian	0.3
+26073	Michigan	Isabella	asian	1.7
+26075	Michigan	Jackson	asian	0.7
+26077	Michigan	Kalamazoo	asian	2.4
+26079	Michigan	Kalkaska	asian	0.3
+26081	Michigan	Kent	asian	2.5
+26083	Michigan	Keweenaw	asian	0
+26085	Michigan	Lake	asian	0.2
+26087	Michigan	Lapeer	asian	0.4
+26089	Michigan	Leelanau	asian	0.5
+26091	Michigan	Lenawee	asian	0.5
+26093	Michigan	Livingston	asian	0.8
+26095	Michigan	Luce	asian	0.3
+26097	Michigan	Mackinac	asian	0.3
+26099	Michigan	Macomb	asian	3.1
+26101	Michigan	Manistee	asian	0.3
+26103	Michigan	Marquette	asian	0.6
+26105	Michigan	Mason	asian	0.5
+26107	Michigan	Mecosta	asian	0.8
+26109	Michigan	Menominee	asian	0.3
+26111	Michigan	Midland	asian	2
+26113	Michigan	Missaukee	asian	0.3
+26115	Michigan	Monroe	asian	0.6
+26117	Michigan	Montcalm	asian	0.4
+26119	Michigan	Montmorency	asian	0.2
+26121	Michigan	Muskegon	asian	0.6
+26123	Michigan	Newaygo	asian	0.4
+26125	Michigan	Oakland	asian	5.8
+26127	Michigan	Oceana	asian	0.4
+26129	Michigan	Ogemaw	asian	0.4
+26131	Michigan	Ontonagon	asian	0.2
+26133	Michigan	Osceola	asian	0.2
+26135	Michigan	Oscoda	asian	0.1
+26137	Michigan	Otsego	asian	0.4
+26139	Michigan	Ottawa	asian	2.7
+26141	Michigan	Presque Isle	asian	0.4
+26143	Michigan	Roscommon	asian	0.4
+26145	Michigan	Saginaw	asian	1.1
+26147	Michigan	St. Clair	asian	0.5
+26149	Michigan	St. Joseph	asian	0.7
+26151	Michigan	Sanilac	asian	0.4
+26153	Michigan	Schoolcraft	asian	0.2
+26155	Michigan	Shiawassee	asian	0.4
+26157	Michigan	Tuscola	asian	0.3
+26159	Michigan	Van Buren	asian	0.5
+26161	Michigan	Washtenaw	asian	8.3
+26163	Michigan	Wayne	asian	2.7
+26165	Michigan	Wexford	asian	0.6
+27001	Minnesota	Aitkin	asian	0.2
+27003	Minnesota	Anoka	asian	4
+27005	Minnesota	Becker	asian	0.4
+27007	Minnesota	Beltrami	asian	0.8
+27009	Minnesota	Benton	asian	1.1
+27011	Minnesota	Big Stone	asian	0.1
+27013	Minnesota	Blue Earth	asian	2.3
+27015	Minnesota	Brown	asian	0.7
+27017	Minnesota	Carlton	asian	0.5
+27019	Minnesota	Carver	asian	2.8
+27021	Minnesota	Cass	asian	0.3
+27023	Minnesota	Chippewa	asian	0.6
+27025	Minnesota	Chisago	asian	0.9
+27027	Minnesota	Clay	asian	1.5
+27029	Minnesota	Clearwater	asian	0.3
+27031	Minnesota	Cook	asian	0.6
+27033	Minnesota	Cottonwood	asian	2.8
+27035	Minnesota	Crow Wing	asian	0.4
+27037	Minnesota	Dakota	asian	4.6
+27039	Minnesota	Dodge	asian	0.5
+27041	Minnesota	Douglas	asian	0.5
+27043	Minnesota	Faribault	asian	0.4
+27045	Minnesota	Fillmore	asian	0.4
+27047	Minnesota	Freeborn	asian	1
+27049	Minnesota	Goodhue	asian	0.6
+27051	Minnesota	Grant	asian	0.3
+27053	Minnesota	Hennepin	asian	6.5
+27055	Minnesota	Houston	asian	0.5
+27057	Minnesota	Hubbard	asian	0.3
+27059	Minnesota	Isanti	asian	0.9
+27061	Minnesota	Itasca	asian	0.4
+27063	Minnesota	Jackson	asian	1.4
+27065	Minnesota	Kanabec	asian	0.4
+27067	Minnesota	Kandiyohi	asian	0.5
+27069	Minnesota	Kittson	asian	0.4
+27071	Minnesota	Koochiching	asian	0.4
+27073	Minnesota	Lac qui Parle	asian	0.5
+27075	Minnesota	Lake	asian	0.3
+27077	Minnesota	Lake of the Woods	asian	0.8
+27079	Minnesota	Le Sueur	asian	0.6
+27081	Minnesota	Lincoln	asian	0.3
+27083	Minnesota	Lyon	asian	2.7
+27085	Minnesota	McLeod	asian	0.8
+27087	Minnesota	Mahnomen	asian	0.2
+27089	Minnesota	Marshall	asian	0.3
+27091	Minnesota	Martin	asian	0.6
+27093	Minnesota	Meeker	asian	0.3
+27095	Minnesota	Mille Lacs	asian	0.4
+27097	Minnesota	Morrison	asian	0.4
+27099	Minnesota	Mower	asian	1.9
+27101	Minnesota	Murray	asian	1
+27103	Minnesota	Nicollet	asian	1.5
+27105	Minnesota	Nobles	asian	5.9
+27107	Minnesota	Norman	asian	0.5
+27109	Minnesota	Olmsted	asian	5.6
+27111	Minnesota	Otter Tail	asian	0.5
+27113	Minnesota	Pennington	asian	0.8
+27115	Minnesota	Pine	asian	0.5
+27117	Minnesota	Pipestone	asian	0.9
+27119	Minnesota	Polk	asian	0.8
+27121	Minnesota	Pope	asian	0.4
+27123	Minnesota	Ramsey	asian	12
+27125	Minnesota	Red Lake	asian	0.2
+27127	Minnesota	Redwood	asian	3.2
+27129	Minnesota	Renville	asian	0.4
+27131	Minnesota	Rice	asian	2.1
+27133	Minnesota	Rock	asian	0.6
+27135	Minnesota	Roseau	asian	2.5
+27137	Minnesota	St. Louis	asian	1
+27139	Minnesota	Scott	asian	5.9
+27141	Minnesota	Sherburne	asian	1.3
+27143	Minnesota	Sibley	asian	0.6
+27145	Minnesota	Stearns	asian	2.1
+27147	Minnesota	Steele	asian	0.9
+27149	Minnesota	Stevens	asian	1.7
+27151	Minnesota	Swift	asian	0.2
+27153	Minnesota	Todd	asian	0.5
+27155	Minnesota	Traverse	asian	0.1
+27157	Minnesota	Wabasha	asian	0.5
+27159	Minnesota	Wadena	asian	0.3
+27161	Minnesota	Waseca	asian	0.8
+27163	Minnesota	Washington	asian	5.1
+27165	Minnesota	Watonwan	asian	0.9
+27167	Minnesota	Wilkin	asian	0.4
+27169	Minnesota	Winona	asian	2.4
+27171	Minnesota	Wright	asian	1.2
+27173	Minnesota	Yellow Medicine	asian	0.4
+28001	Mississippi	Adams	asian	0.4
+28003	Mississippi	Alcorn	asian	0.4
+28005	Mississippi	Amite	asian	0.1
+28007	Mississippi	Attala	asian	0.3
+28009	Mississippi	Benton	asian	0.1
+28011	Mississippi	Bolivar	asian	0.6
+28013	Mississippi	Calhoun	asian	0.1
+28015	Mississippi	Carroll	asian	0.2
+28017	Mississippi	Chickasaw	asian	0.4
+28019	Mississippi	Choctaw	asian	0.2
+28021	Mississippi	Claiborne	asian	0.4
+28023	Mississippi	Clarke	asian	0.2
+28025	Mississippi	Clay	asian	0.2
+28027	Mississippi	Coahoma	asian	0.6
+28029	Mississippi	Copiah	asian	0.3
+28031	Mississippi	Covington	asian	0.3
+28033	Mississippi	DeSoto	asian	1.3
+28035	Mississippi	Forrest	asian	1
+28037	Mississippi	Franklin	asian	0.1
+28039	Mississippi	George	asian	0.3
+28041	Mississippi	Greene	asian	0.2
+28043	Mississippi	Grenada	asian	0.4
+28045	Mississippi	Hancock	asian	1
+28047	Mississippi	Harrison	asian	2.9
+28049	Mississippi	Hinds	asian	0.8
+28051	Mississippi	Holmes	asian	0.2
+28053	Mississippi	Humphreys	asian	0.3
+28055	Mississippi	Issaquena	asian	0.4
+28057	Mississippi	Itawamba	asian	0.3
+28059	Mississippi	Jackson	asian	2.2
+28061	Mississippi	Jasper	asian	0.2
+28063	Mississippi	Jefferson	asian	0.1
+28065	Mississippi	Jefferson Davis	asian	0.2
+28067	Mississippi	Jones	asian	0.5
+28069	Mississippi	Kemper	asian	0.1
+28071	Mississippi	Lafayette	asian	2.2
+28073	Mississippi	Lamar	asian	1.2
+28075	Mississippi	Lauderdale	asian	0.8
+28077	Mississippi	Lawrence	asian	0.3
+28079	Mississippi	Leake	asian	0.3
+28081	Mississippi	Lee	asian	0.7
+28083	Mississippi	Leflore	asian	0.6
+28085	Mississippi	Lincoln	asian	0.4
+28087	Mississippi	Lowndes	asian	0.7
+28089	Mississippi	Madison	asian	2.2
+28091	Mississippi	Marion	asian	0.4
+28093	Mississippi	Marshall	asian	0.3
+28095	Mississippi	Monroe	asian	0.2
+28097	Mississippi	Montgomery	asian	0.4
+28099	Mississippi	Neshoba	asian	0.4
+28101	Mississippi	Newton	asian	0.3
+28103	Mississippi	Noxubee	asian	0.2
+28105	Mississippi	Oktibbeha	asian	2.9
+28107	Mississippi	Panola	asian	0.3
+28109	Mississippi	Pearl River	asian	0.5
+28111	Mississippi	Perry	asian	0.2
+28113	Mississippi	Pike	asian	0.6
+28115	Mississippi	Pontotoc	asian	0.2
+28117	Mississippi	Prentiss	asian	0.2
+28119	Mississippi	Quitman	asian	0.2
+28121	Mississippi	Rankin	asian	1.2
+28123	Mississippi	Scott	asian	0.4
+28125	Mississippi	Sharkey	asian	0.3
+28127	Mississippi	Simpson	asian	0.4
+28129	Mississippi	Smith	asian	0.1
+28131	Mississippi	Stone	asian	0.3
+28133	Mississippi	Sunflower	asian	0.3
+28135	Mississippi	Tallahatchie	asian	0.9
+28137	Mississippi	Tate	asian	0.3
+28139	Mississippi	Tippah	asian	0.2
+28141	Mississippi	Tishomingo	asian	0.1
+28143	Mississippi	Tunica	asian	0.7
+28145	Mississippi	Union	asian	0.2
+28147	Mississippi	Walthall	asian	0.2
+28149	Mississippi	Warren	asian	0.9
+28151	Mississippi	Washington	asian	0.6
+28153	Mississippi	Wayne	asian	0.2
+28155	Mississippi	Webster	asian	0.2
+28157	Mississippi	Wilkinson	asian	0
+28159	Mississippi	Winston	asian	0.2
+28161	Mississippi	Yalobusha	asian	0.2
+28163	Mississippi	Yazoo	asian	0.5
+29001	Missouri	Adair	asian	2.2
+29003	Missouri	Andrew	asian	0.5
+29005	Missouri	Atchison	asian	0.2
+29007	Missouri	Audrain	asian	0.5
+29009	Missouri	Barry	asian	1.3
+29011	Missouri	Barton	asian	0.3
+29013	Missouri	Bates	asian	0.2
+29015	Missouri	Benton	asian	0.4
+29017	Missouri	Bollinger	asian	0.3
+29019	Missouri	Boone	asian	3.9
+29021	Missouri	Buchanan	asian	0.9
+29023	Missouri	Butler	asian	0.7
+29025	Missouri	Caldwell	asian	0.2
+29027	Missouri	Callaway	asian	0.6
+29029	Missouri	Camden	asian	0.5
+29031	Missouri	Cape Girardeau	asian	1.3
+29033	Missouri	Carroll	asian	0.2
+29035	Missouri	Carter	asian	0.2
+29037	Missouri	Cass	asian	0.7
+29039	Missouri	Cedar	asian	0.4
+29041	Missouri	Chariton	asian	0.1
+29043	Missouri	Christian	asian	0.6
+29045	Missouri	Clark	asian	0.3
+29047	Missouri	Clay	asian	2.2
+29049	Missouri	Clinton	asian	0.4
+29051	Missouri	Cole	asian	1.3
+29053	Missouri	Cooper	asian	0.5
+29055	Missouri	Crawford	asian	0.3
+29057	Missouri	Dade	asian	0.3
+29059	Missouri	Dallas	asian	0.3
+29061	Missouri	Daviess	asian	0.1
+29063	Missouri	DeKalb	asian	0.3
+29065	Missouri	Dent	asian	0.3
+29067	Missouri	Douglas	asian	0.3
+29069	Missouri	Dunklin	asian	0.4
+29071	Missouri	Franklin	asian	0.4
+29073	Missouri	Gasconade	asian	0.5
+29075	Missouri	Gentry	asian	0.3
+29077	Missouri	Greene	asian	1.7
+29079	Missouri	Grundy	asian	0.4
+29081	Missouri	Harrison	asian	0.3
+29083	Missouri	Henry	asian	0.3
+29085	Missouri	Hickory	asian	0.2
+29087	Missouri	Holt	asian	0.4
+29089	Missouri	Howard	asian	0.3
+29091	Missouri	Howell	asian	0.6
+29093	Missouri	Iron	asian	0.2
+29095	Missouri	Jackson	asian	1.7
+29097	Missouri	Jasper	asian	1
+29099	Missouri	Jefferson	asian	0.7
+29101	Missouri	Johnson	asian	1.7
+29103	Missouri	Knox	asian	0.3
+29105	Missouri	Laclede	asian	0.5
+29107	Missouri	Lafayette	asian	0.4
+29109	Missouri	Lawrence	asian	0.4
+29111	Missouri	Lewis	asian	0.3
+29113	Missouri	Lincoln	asian	0.4
+29115	Missouri	Linn	asian	0.2
+29117	Missouri	Livingston	asian	0.3
+29119	Missouri	McDonald	asian	1.1
+29121	Missouri	Macon	asian	0.5
+29123	Missouri	Madison	asian	0.4
+29125	Missouri	Maries	asian	0.1
+29127	Missouri	Marion	asian	0.6
+29129	Missouri	Mercer	asian	0.5
+29131	Missouri	Miller	asian	0.3
+29133	Missouri	Mississippi	asian	0.2
+29135	Missouri	Moniteau	asian	0.4
+29137	Missouri	Monroe	asian	0.3
+29139	Missouri	Montgomery	asian	0.3
+29141	Missouri	Morgan	asian	0.4
+29143	Missouri	New Madrid	asian	0.5
+29145	Missouri	Newton	asian	1.5
+29147	Missouri	Nodaway	asian	1.5
+29149	Missouri	Oregon	asian	0.4
+29151	Missouri	Osage	asian	0.1
+29153	Missouri	Ozark	asian	0.2
+29155	Missouri	Pemiscot	asian	0.3
+29157	Missouri	Perry	asian	0.5
+29159	Missouri	Pettis	asian	0.7
+29161	Missouri	Phelps	asian	3
+29163	Missouri	Pike	asian	0.3
+29165	Missouri	Platte	asian	2.4
+29167	Missouri	Polk	asian	0.4
+29169	Missouri	Pulaski	asian	2.8
+29171	Missouri	Putnam	asian	0.5
+29173	Missouri	Ralls	asian	0.3
+29175	Missouri	Randolph	asian	0.5
+29177	Missouri	Ray	asian	0.3
+29179	Missouri	Reynolds	asian	0.2
+29181	Missouri	Ripley	asian	0.4
+29183	Missouri	St. Charles	asian	2.3
+29185	Missouri	St. Clair	asian	0.2
+29186	Missouri	Ste. Genevieve	asian	0.3
+29187	Missouri	St. Francois	asian	0.4
+29189	Missouri	St. Louis	asian	3.6
+29195	Missouri	Saline	asian	0.6
+29197	Missouri	Schuyler	asian	0.3
+29199	Missouri	Scotland	asian	0.2
+29201	Missouri	Scott	asian	0.4
+29203	Missouri	Shannon	asian	0.2
+29205	Missouri	Shelby	asian	0.2
+29207	Missouri	Stoddard	asian	0.2
+29209	Missouri	Stone	asian	0.4
+29211	Missouri	Sullivan	asian	0.3
+29213	Missouri	Taney	asian	0.7
+29215	Missouri	Texas	asian	0.3
+29217	Missouri	Vernon	asian	0.6
+29219	Missouri	Warren	asian	0.5
+29221	Missouri	Washington	asian	0.2
+29223	Missouri	Wayne	asian	0.3
+29225	Missouri	Webster	asian	0.2
+29227	Missouri	Worth	asian	0.3
+29229	Missouri	Wright	asian	0.3
+29510	Missouri	St. Louis City	asian	2.9
+30001	Montana	Beaverhead	asian	0.6
+30003	Montana	Big Horn	asian	0.6
+30005	Montana	Blaine	asian	0.1
+30007	Montana	Broadwater	asian	0.2
+30009	Montana	Carbon	asian	0.3
+30011	Montana	Carter	asian	0.1
+30013	Montana	Cascade	asian	0.8
+30015	Montana	Chouteau	asian	0.4
+30017	Montana	Custer	asian	0.4
+30019	Montana	Daniels	asian	0.2
+30021	Montana	Dawson	asian	0.3
+30023	Montana	Deer Lodge	asian	0.3
+30025	Montana	Fallon	asian	0.6
+30027	Montana	Fergus	asian	0.3
+30029	Montana	Flathead	asian	0.6
+30031	Montana	Gallatin	asian	1.3
+30033	Montana	Garfield	asian	0.2
+30035	Montana	Glacier	asian	0.3
+30037	Montana	Golden Valley	asian	0.7
+30039	Montana	Granite	asian	0.1
+30041	Montana	Hill	asian	0.5
+30043	Montana	Jefferson	asian	0.4
+30045	Montana	Judith Basin	asian	0.1
+30047	Montana	Lake	asian	0.4
+30049	Montana	Lewis and Clark	asian	0.6
+30051	Montana	Liberty	asian	0.1
+30053	Montana	Lincoln	asian	0.3
+30055	Montana	McCone	asian	0.1
+30057	Montana	Madison	asian	0.4
+30059	Montana	Meagher	asian	0.4
+30061	Montana	Mineral	asian	0.7
+30063	Montana	Missoula	asian	1.3
+30065	Montana	Musselshell	asian	0.3
+30067	Montana	Park	asian	0.4
+30069	Montana	Petroleum	asian	0
+30071	Montana	Phillips	asian	0.3
+30073	Montana	Pondera	asian	0.3
+30075	Montana	Powder River	asian	0.2
+30077	Montana	Powell	asian	0.5
+30079	Montana	Prairie	asian	0.5
+30081	Montana	Ravalli	asian	0.6
+30083	Montana	Richland	asian	0.3
+30085	Montana	Roosevelt	asian	0.5
+30087	Montana	Rosebud	asian	0.6
+30089	Montana	Sanders	asian	0.3
+30091	Montana	Sheridan	asian	0.4
+30093	Montana	Silver Bow	asian	0.5
+30095	Montana	Stillwater	asian	0.3
+30097	Montana	Sweet Grass	asian	0.7
+30099	Montana	Teton	asian	0.2
+30101	Montana	Toole	asian	0.6
+30103	Montana	Treasure	asian	0.6
+30105	Montana	Valley	asian	0.5
+30107	Montana	Wheatland	asian	0.6
+30109	Montana	Wibaux	asian	0.5
+30111	Montana	Yellowstone	asian	0.7
+31001	Nebraska	Adams	asian	1.5
+31003	Nebraska	Antelope	asian	0.5
+31005	Nebraska	Arthur	asian	0.2
+31007	Nebraska	Banner	asian	0
+31009	Nebraska	Blaine	asian	0
+31011	Nebraska	Boone	asian	0.2
+31013	Nebraska	Box Butte	asian	0.4
+31015	Nebraska	Boyd	asian	0.8
+31017	Nebraska	Brown	asian	0.2
+31019	Nebraska	Buffalo	asian	1.3
+31021	Nebraska	Burt	asian	0.3
+31023	Nebraska	Butler	asian	0.3
+31025	Nebraska	Cass	asian	0.4
+31027	Nebraska	Cedar	asian	0.1
+31029	Nebraska	Chase	asian	0.1
+31031	Nebraska	Cherry	asian	0.4
+31033	Nebraska	Cheyenne	asian	1.7
+31035	Nebraska	Clay	asian	0.2
+31037	Nebraska	Colfax	asian	0.5
+31039	Nebraska	Cuming	asian	0.3
+31041	Nebraska	Custer	asian	0.2
+31043	Nebraska	Dakota	asian	3.2
+31045	Nebraska	Dawes	asian	1.2
+31047	Nebraska	Dawson	asian	0.8
+31049	Nebraska	Deuel	asian	0.4
+31051	Nebraska	Dixon	asian	0.2
+31053	Nebraska	Dodge	asian	0.6
+31055	Nebraska	Douglas	asian	2.8
+31057	Nebraska	Dundy	asian	0.1
+31059	Nebraska	Fillmore	asian	0.3
+31061	Nebraska	Franklin	asian	0.1
+31063	Nebraska	Frontier	asian	0.3
+31065	Nebraska	Furnas	asian	0.2
+31067	Nebraska	Gage	asian	0.4
+31069	Nebraska	Garden	asian	0
+31071	Nebraska	Garfield	asian	0.1
+31073	Nebraska	Gosper	asian	0.3
+31075	Nebraska	Grant	asian	0.2
+31077	Nebraska	Greeley	asian	0.1
+31079	Nebraska	Hall	asian	1.1
+31081	Nebraska	Hamilton	asian	0.2
+31083	Nebraska	Harlan	asian	0.2
+31085	Nebraska	Hayes	asian	0.4
+31087	Nebraska	Hitchcock	asian	0.1
+31089	Nebraska	Holt	asian	0.2
+31091	Nebraska	Hooker	asian	0
+31093	Nebraska	Howard	asian	0.3
+31095	Nebraska	Jefferson	asian	0.3
+31097	Nebraska	Johnson	asian	1.4
+31099	Nebraska	Kearney	asian	0.4
+31101	Nebraska	Keith	asian	0.5
+31103	Nebraska	Keya Paha	asian	0.1
+31105	Nebraska	Kimball	asian	0.8
+31107	Nebraska	Knox	asian	0.3
+31109	Nebraska	Lancaster	asian	3.6
+31111	Nebraska	Lincoln	asian	0.6
+31113	Nebraska	Logan	asian	0.3
+31115	Nebraska	Loup	asian	0
+31117	Nebraska	McPherson	asian	0
+31119	Nebraska	Madison	asian	0.6
+31121	Nebraska	Merrick	asian	0.8
+31123	Nebraska	Morrill	asian	0.4
+31125	Nebraska	Nance	asian	0.1
+31127	Nebraska	Nemaha	asian	0.5
+31129	Nebraska	Nuckolls	asian	0.2
+31131	Nebraska	Otoe	asian	0.5
+31133	Nebraska	Pawnee	asian	0.3
+31135	Nebraska	Perkins	asian	0.2
+31137	Nebraska	Phelps	asian	0.4
+31139	Nebraska	Pierce	asian	0.2
+31141	Nebraska	Platte	asian	0.6
+31143	Nebraska	Polk	asian	0.3
+31145	Nebraska	Red Willow	asian	0.3
+31147	Nebraska	Richardson	asian	0.3
+31149	Nebraska	Rock	asian	0.3
+31151	Nebraska	Saline	asian	1.6
+31153	Nebraska	Sarpy	asian	2.2
+31155	Nebraska	Saunders	asian	0.4
+31157	Nebraska	Scotts Bluff	asian	0.7
+31159	Nebraska	Seward	asian	0.5
+31161	Nebraska	Sheridan	asian	0.4
+31163	Nebraska	Sherman	asian	0.4
+31165	Nebraska	Sioux	asian	0.1
+31167	Nebraska	Stanton	asian	0.1
+31169	Nebraska	Thayer	asian	0.3
+31171	Nebraska	Thomas	asian	0.3
+31173	Nebraska	Thurston	asian	0.4
+31175	Nebraska	Valley	asian	0.3
+31177	Nebraska	Washington	asian	0.3
+31179	Nebraska	Wayne	asian	0.8
+31181	Nebraska	Webster	asian	0.3
+31183	Nebraska	Wheeler	asian	0.5
+31185	Nebraska	York	asian	0.5
+32001	Nevada	Churchill	asian	3.1
+32003	Nevada	Clark	asian	9.1
+32005	Nevada	Douglas	asian	1.7
+32007	Nevada	Elko	asian	1
+32009	Nevada	Esmeralda	asian	0.4
+32011	Nevada	Eureka	asian	1
+32013	Nevada	Humboldt	asian	0.9
+32015	Nevada	Lander	asian	0.4
+32017	Nevada	Lincoln	asian	0.8
+32019	Nevada	Lyon	asian	1.5
+32021	Nevada	Mineral	asian	1.4
+32023	Nevada	Nye	asian	1.6
+32027	Nevada	Pershing	asian	1.3
+32029	Nevada	Storey	asian	1.6
+32031	Nevada	Washoe	asian	5.5
+32033	Nevada	White Pine	asian	1.1
+32510	Nevada	Carson City	asian	2.3
+33001	New Hampshire	Belknap	asian	1.2
+33003	New Hampshire	Carroll	asian	0.6
+33005	New Hampshire	Cheshire	asian	1.2
+33007	New Hampshire	Coos	asian	0.6
+33009	New Hampshire	Grafton	asian	3
+33011	New Hampshire	Hillsborough	asian	3.4
+33013	New Hampshire	Merrimack	asian	1.6
+33015	New Hampshire	Rockingham	asian	1.8
+33017	New Hampshire	Strafford	asian	2.7
+33019	New Hampshire	Sullivan	asian	0.6
+34001	New Jersey	Atlantic	asian	7.9
+34003	New Jersey	Bergen	asian	15
+34005	New Jersey	Burlington	asian	4.6
+34007	New Jersey	Camden	asian	5.4
+34009	New Jersey	Cape May	asian	1
+34011	New Jersey	Cumberland	asian	1.4
+34013	New Jersey	Essex	asian	4.9
+34015	New Jersey	Gloucester	asian	2.8
+34017	New Jersey	Hudson	asian	14.2
+34019	New Jersey	Hunterdon	asian	3.5
+34021	New Jersey	Mercer	asian	9.3
+34023	New Jersey	Middlesex	asian	22.2
+34025	New Jersey	Monmouth	asian	5.2
+34027	New Jersey	Morris	asian	9.4
+34029	New Jersey	Ocean	asian	1.9
+34031	New Jersey	Passaic	asian	5.4
+34033	New Jersey	Salem	asian	0.9
+34035	New Jersey	Somerset	asian	14.8
+34037	New Jersey	Sussex	asian	1.9
+34039	New Jersey	Union	asian	5
+34041	New Jersey	Warren	asian	2.7
+35001	New Mexico	Bernalillo	asian	2.6
+35003	New Mexico	Catron	asian	0.2
+35005	New Mexico	Chaves	asian	0.8
+35006	New Mexico	Cibola	asian	0.6
+35007	New Mexico	Colfax	asian	0.4
+35009	New Mexico	Curry	asian	1.5
+35011	New Mexico	De Baca	asian	0.3
+35013	New Mexico	Dona Ana	asian	1.3
+35015	New Mexico	Eddy	asian	0.8
+35017	New Mexico	Grant	asian	0.5
+35019	New Mexico	Guadalupe	asian	1.5
+35021	New Mexico	Harding	asian	0
+35023	New Mexico	Hidalgo	asian	0.6
+35025	New Mexico	Lea	asian	0.6
+35027	New Mexico	Lincoln	asian	0.5
+35028	New Mexico	Los Alamos	asian	6.1
+35029	New Mexico	Luna	asian	0.6
+35031	New Mexico	McKinley	asian	1
+35033	New Mexico	Mora	asian	0.4
+35035	New Mexico	Otero	asian	1.4
+35037	New Mexico	Quay	asian	1.1
+35039	New Mexico	Rio Arriba	asian	0.5
+35041	New Mexico	Roosevelt	asian	1.2
+35043	New Mexico	Sandoval	asian	1.6
+35045	New Mexico	San Juan	asian	0.5
+35047	New Mexico	San Miguel	asian	1.1
+35049	New Mexico	Santa Fe	asian	1.3
+35051	New Mexico	Sierra	asian	0.4
+35053	New Mexico	Socorro	asian	1.4
+35055	New Mexico	Taos	asian	0.9
+35057	New Mexico	Torrance	asian	0.5
+35059	New Mexico	Union	asian	0.6
+35061	New Mexico	Valencia	asian	0.7
+36001	New York	Albany	asian	5.1
+36003	New York	Allegany	asian	1
+36005	New York	Bronx	asian	4.2
+36007	New York	Broome	asian	3.6
+36009	New York	Cattaraugus	asian	0.7
+36011	New York	Cayuga	asian	0.6
+36013	New York	Chautauqua	asian	0.6
+36015	New York	Chemung	asian	1.3
+36017	New York	Chenango	asian	0.5
+36019	New York	Clinton	asian	1.2
+36021	New York	Columbia	asian	1.7
+36023	New York	Cortland	asian	1
+36025	New York	Delaware	asian	0.9
+36027	New York	Dutchess	asian	3.7
+36029	New York	Erie	asian	2.7
+36031	New York	Essex	asian	0.7
+36033	New York	Franklin	asian	0.5
+36035	New York	Fulton	asian	0.7
+36037	New York	Genesee	asian	0.7
+36039	New York	Greene	asian	0.9
+36041	New York	Hamilton	asian	0.5
+36043	New York	Herkimer	asian	0.6
+36045	New York	Jefferson	asian	1.6
+36047	New York	Kings	asian	11
+36049	New York	Lewis	asian	0.3
+36051	New York	Livingston	asian	1.3
+36053	New York	Madison	asian	0.9
+36055	New York	Monroe	asian	3.4
+36057	New York	Montgomery	asian	0.8
+36059	New York	Nassau	asian	8.2
+36061	New York	New York	asian	11.8
+36063	New York	Niagara	asian	0.9
+36065	New York	Oneida	asian	2.9
+36067	New York	Onondaga	asian	3.2
+36069	New York	Ontario	asian	1.1
+36071	New York	Orange	asian	2.6
+36073	New York	Orleans	asian	0.5
+36075	New York	Oswego	asian	0.7
+36077	New York	Otsego	asian	1.2
+36079	New York	Putnam	asian	2.1
+36081	New York	Queens	asian	24.3
+36083	New York	Rensselaer	asian	2.4
+36085	New York	Richmond	asian	7.9
+36087	New York	Rockland	asian	6.5
+36089	New York	St. Lawrence	asian	1
+36091	New York	Saratoga	asian	2
+36093	New York	Schenectady	asian	3.9
+36095	New York	Schoharie	asian	0.7
+36097	New York	Schuyler	asian	0.4
+36099	New York	Seneca	asian	0.8
+36101	New York	Steuben	asian	1.3
+36103	New York	Suffolk	asian	3.6
+36105	New York	Sullivan	asian	1.6
+36107	New York	Tioga	asian	0.8
+36109	New York	Tompkins	asian	9.7
+36111	New York	Ulster	asian	1.8
+36113	New York	Warren	asian	0.7
+36115	New York	Washington	asian	0.5
+36117	New York	Wayne	asian	0.6
+36119	New York	Westchester	asian	5.8
+36121	New York	Wyoming	asian	0.5
+36123	New York	Yates	asian	0.4
+37001	North Carolina	Alamance	asian	1.3
+37003	North Carolina	Alexander	asian	1.1
+37005	North Carolina	Alleghany	asian	0.6
+37007	North Carolina	Anson	asian	1.1
+37009	North Carolina	Ashe	asian	0.4
+37011	North Carolina	Avery	asian	0.4
+37013	North Carolina	Beaufort	asian	0.5
+37015	North Carolina	Bertie	asian	0.5
+37017	North Carolina	Bladen	asian	0.3
+37019	North Carolina	Brunswick	asian	0.6
+37021	North Carolina	Buncombe	asian	1.1
+37023	North Carolina	Burke	asian	3.6
+37025	North Carolina	Cabarrus	asian	2.2
+37027	North Carolina	Caldwell	asian	0.6
+37029	North Carolina	Camden	asian	1.8
+37031	North Carolina	Carteret	asian	0.9
+37033	North Carolina	Caswell	asian	0.3
+37035	North Carolina	Catawba	asian	3.6
+37037	North Carolina	Chatham	asian	1.2
+37039	North Carolina	Cherokee	asian	0.5
+37041	North Carolina	Chowan	asian	0.4
+37043	North Carolina	Clay	asian	0.3
+37045	North Carolina	Cleveland	asian	0.8
+37047	North Carolina	Columbus	asian	0.4
+37049	North Carolina	Craven	asian	2.1
+37051	North Carolina	Cumberland	asian	2.4
+37053	North Carolina	Currituck	asian	0.7
+37055	North Carolina	Dare	asian	0.7
+37057	North Carolina	Davidson	asian	1.3
+37059	North Carolina	Davie	asian	0.7
+37061	North Carolina	Duplin	asian	0.5
+37063	North Carolina	Durham	asian	4.7
+37065	North Carolina	Edgecombe	asian	0.3
+37067	North Carolina	Forsyth	asian	2
+37069	North Carolina	Franklin	asian	0.6
+37071	North Carolina	Gaston	asian	1.3
+37073	North Carolina	Gates	asian	0.2
+37075	North Carolina	Graham	asian	0.3
+37077	North Carolina	Granville	asian	0.6
+37079	North Carolina	Greene	asian	0.4
+37081	North Carolina	Guilford	asian	4.1
+37083	North Carolina	Halifax	asian	0.7
+37085	North Carolina	Harnett	asian	1.1
+37087	North Carolina	Haywood	asian	0.4
+37089	North Carolina	Henderson	asian	1.1
+37091	North Carolina	Hertford	asian	0.7
+37093	North Carolina	Hoke	asian	1.3
+37095	North Carolina	Hyde	asian	0.4
+37097	North Carolina	Iredell	asian	2
+37099	North Carolina	Jackson	asian	0.9
+37101	North Carolina	Johnston	asian	0.7
+37103	North Carolina	Jones	asian	0.4
+37105	North Carolina	Lee	asian	1
+37107	North Carolina	Lenoir	asian	0.6
+37109	North Carolina	Lincoln	asian	0.6
+37111	North Carolina	McDowell	asian	0.9
+37113	North Carolina	Macon	asian	0.7
+37115	North Carolina	Madison	asian	0.4
+37117	North Carolina	Martin	asian	0.3
+37119	North Carolina	Mecklenburg	asian	4.8
+37121	North Carolina	Mitchell	asian	0.3
+37123	North Carolina	Montgomery	asian	1.6
+37125	North Carolina	Moore	asian	1
+37127	North Carolina	Nash	asian	1
+37129	North Carolina	New Hanover	asian	1.3
+37131	North Carolina	Northampton	asian	0.3
+37133	North Carolina	Onslow	asian	2.1
+37135	North Carolina	Orange	asian	7.1
+37137	North Carolina	Pamlico	asian	0.4
+37139	North Carolina	Pasquotank	asian	1.3
+37141	North Carolina	Pender	asian	0.5
+37143	North Carolina	Perquimans	asian	0.4
+37145	North Carolina	Person	asian	0.4
+37147	North Carolina	Pitt	asian	1.7
+37149	North Carolina	Polk	asian	0.5
+37151	North Carolina	Randolph	asian	1
+37153	North Carolina	Richmond	asian	1.1
+37155	North Carolina	Robeson	asian	0.9
+37157	North Carolina	Rockingham	asian	0.5
+37159	North Carolina	Rowan	asian	1.1
+37161	North Carolina	Rutherford	asian	0.4
+37163	North Carolina	Sampson	asian	0.5
+37165	North Carolina	Scotland	asian	0.8
+37167	North Carolina	Stanly	asian	1.8
+37169	North Carolina	Stokes	asian	0.3
+37171	North Carolina	Surry	asian	0.6
+37173	North Carolina	Swain	asian	0.5
+37175	North Carolina	Transylvania	asian	0.5
+37177	North Carolina	Tyrrell	asian	2.1
+37179	North Carolina	Union	asian	1.8
+37181	North Carolina	Vance	asian	0.5
+37183	North Carolina	Wake	asian	5.6
+37185	North Carolina	Warren	asian	0.3
+37187	North Carolina	Washington	asian	0.3
+37189	North Carolina	Watauga	asian	1
+37191	North Carolina	Wayne	asian	1.3
+37193	North Carolina	Wilkes	asian	0.4
+37195	North Carolina	Wilson	asian	0.9
+37197	North Carolina	Yadkin	asian	0.3
+37199	North Carolina	Yancey	asian	0.2
+38001	North Dakota	Adams	asian	0.3
+38003	North Dakota	Barnes	asian	0.6
+38005	North Dakota	Benson	asian	0.2
+38007	North Dakota	Billings	asian	1
+38009	North Dakota	Bottineau	asian	0.3
+38011	North Dakota	Bowman	asian	0.2
+38013	North Dakota	Burke	asian	0.8
+38015	North Dakota	Burleigh	asian	0.5
+38017	North Dakota	Cass	asian	2.4
+38019	North Dakota	Cavalier	asian	0.2
+38021	North Dakota	Dickey	asian	0.4
+38023	North Dakota	Divide	asian	0.4
+38025	North Dakota	Dunn	asian	0.3
+38027	North Dakota	Eddy	asian	0.3
+38029	North Dakota	Emmons	asian	0.2
+38031	North Dakota	Foster	asian	0.1
+38033	North Dakota	Golden Valley	asian	0.1
+38035	North Dakota	Grand Forks	asian	1.9
+38037	North Dakota	Grant	asian	0.1
+38039	North Dakota	Griggs	asian	0.2
+38041	North Dakota	Hettinger	asian	0
+38043	North Dakota	Kidder	asian	1
+38045	North Dakota	LaMoure	asian	0.1
+38047	North Dakota	Logan	asian	0.3
+38049	North Dakota	McHenry	asian	0.3
+38051	North Dakota	McIntosh	asian	0.4
+38053	North Dakota	McKenzie	asian	0.4
+38055	North Dakota	McLean	asian	0.1
+38057	North Dakota	Mercer	asian	0.4
+38059	North Dakota	Morton	asian	0.3
+38061	North Dakota	Mountrail	asian	0.4
+38063	North Dakota	Nelson	asian	0.2
+38065	North Dakota	Oliver	asian	0.2
+38067	North Dakota	Pembina	asian	0.2
+38069	North Dakota	Pierce	asian	0.1
+38071	North Dakota	Ramsey	asian	0.5
+38073	North Dakota	Ransom	asian	0.4
+38075	North Dakota	Renville	asian	0.2
+38077	North Dakota	Richland	asian	0.5
+38079	North Dakota	Rolette	asian	0.3
+38081	North Dakota	Sargent	asian	0.3
+38083	North Dakota	Sheridan	asian	0.2
+38085	North Dakota	Sioux	asian	0.2
+38087	North Dakota	Slope	asian	0
+38089	North Dakota	Stark	asian	1.3
+38091	North Dakota	Steele	asian	0.1
+38093	North Dakota	Stutsman	asian	0.6
+38095	North Dakota	Towner	asian	0.1
+38097	North Dakota	Traill	asian	0.3
+38099	North Dakota	Walsh	asian	0.4
+38101	North Dakota	Ward	asian	1.1
+38103	North Dakota	Wells	asian	0.1
+38105	North Dakota	Williams	asian	0.4
+39001	Ohio	Adams	asian	0.2
+39003	Ohio	Allen	asian	0.7
+39005	Ohio	Ashland	asian	0.6
+39007	Ohio	Ashtabula	asian	0.4
+39009	Ohio	Athens	asian	2.8
+39011	Ohio	Auglaize	asian	0.4
+39013	Ohio	Belmont	asian	0.4
+39015	Ohio	Brown	asian	0.3
+39017	Ohio	Butler	asian	2.5
+39019	Ohio	Carroll	asian	0.2
+39021	Ohio	Champaign	asian	0.4
+39023	Ohio	Clark	asian	0.7
+39025	Ohio	Clermont	asian	1
+39027	Ohio	Clinton	asian	0.5
+39029	Ohio	Columbiana	asian	0.3
+39031	Ohio	Coshocton	asian	0.3
+39033	Ohio	Crawford	asian	0.4
+39035	Ohio	Cuyahoga	asian	2.7
+39037	Ohio	Darke	asian	0.3
+39039	Ohio	Defiance	asian	0.4
+39041	Ohio	Delaware	asian	4.5
+39043	Ohio	Erie	asian	0.6
+39045	Ohio	Fairfield	asian	1.2
+39047	Ohio	Fayette	asian	0.6
+39049	Ohio	Franklin	asian	4
+39051	Ohio	Fulton	asian	0.5
+39053	Ohio	Gallia	asian	0.5
+39055	Ohio	Geauga	asian	0.6
+39057	Ohio	Greene	asian	3
+39059	Ohio	Guernsey	asian	0.3
+39061	Ohio	Hamilton	asian	2.1
+39063	Ohio	Hancock	asian	1.7
+39065	Ohio	Hardin	asian	0.6
+39067	Ohio	Harrison	asian	0.2
+39069	Ohio	Henry	asian	0.4
+39071	Ohio	Highland	asian	0.2
+39073	Ohio	Hocking	asian	0.2
+39075	Ohio	Holmes	asian	0.1
+39077	Ohio	Huron	asian	0.3
+39079	Ohio	Jackson	asian	0.3
+39081	Ohio	Jefferson	asian	0.4
+39083	Ohio	Knox	asian	0.6
+39085	Ohio	Lake	asian	1.2
+39087	Ohio	Lawrence	asian	0.4
+39089	Ohio	Licking	asian	0.8
+39091	Ohio	Logan	asian	0.6
+39093	Ohio	Lorain	asian	1
+39095	Ohio	Lucas	asian	1.6
+39097	Ohio	Madison	asian	0.6
+39099	Ohio	Mahoning	asian	0.8
+39101	Ohio	Marion	asian	0.6
+39103	Ohio	Medina	asian	1
+39105	Ohio	Meigs	asian	0.2
+39107	Ohio	Mercer	asian	0.5
+39109	Ohio	Miami	asian	1.3
+39111	Ohio	Monroe	asian	0.1
+39113	Ohio	Montgomery	asian	1.8
+39115	Ohio	Morgan	asian	0.2
+39117	Ohio	Morrow	asian	0.3
+39119	Ohio	Muskingum	asian	0.4
+39121	Ohio	Noble	asian	0.2
+39123	Ohio	Ottawa	asian	0.3
+39125	Ohio	Paulding	asian	0.2
+39127	Ohio	Perry	asian	0.1
+39129	Ohio	Pickaway	asian	0.4
+39131	Ohio	Pike	asian	0.2
+39133	Ohio	Portage	asian	1.5
+39135	Ohio	Preble	asian	0.5
+39137	Ohio	Putnam	asian	0.3
+39139	Ohio	Richland	asian	0.7
+39141	Ohio	Ross	asian	0.4
+39143	Ohio	Sandusky	asian	0.3
+39145	Ohio	Scioto	asian	0.4
+39147	Ohio	Seneca	asian	0.6
+39149	Ohio	Shelby	asian	1
+39151	Ohio	Stark	asian	0.8
+39153	Ohio	Summit	asian	2.3
+39155	Ohio	Trumbull	asian	0.5
+39157	Ohio	Tuscarawas	asian	0.4
+39159	Ohio	Union	asian	2.7
+39161	Ohio	Van Wert	asian	0.3
+39163	Ohio	Vinton	asian	0.2
+39165	Ohio	Warren	asian	4.1
+39167	Ohio	Washington	asian	0.6
+39169	Ohio	Wayne	asian	0.8
+39171	Ohio	Williams	asian	0.6
+39173	Ohio	Wood	asian	1.6
+39175	Ohio	Wyandot	asian	0.8
+40001	Oklahoma	Adair	asian	0.5
+40003	Oklahoma	Alfalfa	asian	0.3
+40005	Oklahoma	Atoka	asian	0.5
+40007	Oklahoma	Beaver	asian	0.2
+40009	Oklahoma	Beckham	asian	0.9
+40011	Oklahoma	Blaine	asian	0.3
+40013	Oklahoma	Bryan	asian	0.6
+40015	Oklahoma	Caddo	asian	0.3
+40017	Oklahoma	Canadian	asian	3
+40019	Oklahoma	Carter	asian	1.1
+40021	Oklahoma	Cherokee	asian	0.7
+40023	Oklahoma	Choctaw	asian	0.3
+40025	Oklahoma	Cimarron	asian	0.3
+40027	Oklahoma	Cleveland	asian	4
+40029	Oklahoma	Coal	asian	0.2
+40031	Oklahoma	Comanche	asian	2.4
+40033	Oklahoma	Cotton	asian	0.3
+40035	Oklahoma	Craig	asian	0.7
+40037	Oklahoma	Creek	asian	0.4
+40039	Oklahoma	Custer	asian	1.5
+40041	Oklahoma	Delaware	asian	1.2
+40043	Oklahoma	Dewey	asian	0.8
+40045	Oklahoma	Ellis	asian	0.2
+40047	Oklahoma	Garfield	asian	1.1
+40049	Oklahoma	Garvin	asian	0.5
+40051	Oklahoma	Grady	asian	0.4
+40053	Oklahoma	Grant	asian	0.3
+40055	Oklahoma	Greer	asian	0.2
+40057	Oklahoma	Harmon	asian	0.5
+40059	Oklahoma	Harper	asian	0.2
+40061	Oklahoma	Haskell	asian	0.6
+40063	Oklahoma	Hughes	asian	0.2
+40065	Oklahoma	Jackson	asian	1.4
+40067	Oklahoma	Jefferson	asian	0.3
+40069	Oklahoma	Johnston	asian	0.3
+40071	Oklahoma	Kay	asian	0.6
+40073	Oklahoma	Kingfisher	asian	0.4
+40075	Oklahoma	Kiowa	asian	0.4
+40077	Oklahoma	Latimer	asian	0.3
+40079	Oklahoma	Le Flore	asian	0.6
+40081	Oklahoma	Lincoln	asian	0.2
+40083	Oklahoma	Logan	asian	0.5
+40085	Oklahoma	Love	asian	0.5
+40087	Oklahoma	McClain	asian	0.4
+40089	Oklahoma	McCurtain	asian	0.4
+40091	Oklahoma	McIntosh	asian	0.4
+40093	Oklahoma	Major	asian	0.4
+40095	Oklahoma	Marshall	asian	0.3
+40097	Oklahoma	Mayes	asian	0.4
+40099	Oklahoma	Murray	asian	0.4
+40101	Oklahoma	Muskogee	asian	0.6
+40103	Oklahoma	Noble	asian	0.4
+40105	Oklahoma	Nowata	asian	0.1
+40107	Oklahoma	Okfuskee	asian	0.2
+40109	Oklahoma	Oklahoma	asian	3.1
+40111	Oklahoma	Okmulgee	asian	0.4
+40113	Oklahoma	Osage	asian	0.3
+40115	Oklahoma	Ottawa	asian	0.6
+40117	Oklahoma	Pawnee	asian	0.3
+40119	Oklahoma	Payne	asian	3.9
+40121	Oklahoma	Pittsburg	asian	0.5
+40123	Oklahoma	Pontotoc	asian	0.7
+40125	Oklahoma	Pottawatomie	asian	0.6
+40127	Oklahoma	Pushmataha	asian	0.3
+40129	Oklahoma	Roger Mills	asian	0.4
+40131	Oklahoma	Rogers	asian	1.1
+40133	Oklahoma	Seminole	asian	0.3
+40135	Oklahoma	Sequoyah	asian	0.5
+40137	Oklahoma	Stephens	asian	0.6
+40139	Oklahoma	Texas	asian	2
+40141	Oklahoma	Tillman	asian	0.4
+40143	Oklahoma	Tulsa	asian	2.4
+40145	Oklahoma	Wagoner	asian	1.4
+40147	Oklahoma	Washington	asian	1.2
+40149	Oklahoma	Washita	asian	0.3
+40151	Oklahoma	Woods	asian	1
+40153	Oklahoma	Woodward	asian	0.7
+41001	Oregon	Baker	asian	0.5
+41003	Oregon	Benton	asian	5.5
+41005	Oregon	Clackamas	asian	3.8
+41007	Oregon	Clatsop	asian	1.4
+41009	Oregon	Columbia	asian	1
+41011	Oregon	Coos	asian	1.1
+41013	Oregon	Crook	asian	0.6
+41015	Oregon	Curry	asian	0.8
+41017	Oregon	Deschutes	asian	1
+41019	Oregon	Douglas	asian	1
+41021	Oregon	Gilliam	asian	0.3
+41023	Oregon	Grant	asian	0.4
+41025	Oregon	Harney	asian	0.5
+41027	Oregon	Hood River	asian	1.4
+41029	Oregon	Jackson	asian	1.3
+41031	Oregon	Jefferson	asian	0.6
+41033	Oregon	Josephine	asian	0.9
+41035	Oregon	Klamath	asian	1
+41037	Oregon	Lake	asian	0.9
+41039	Oregon	Lane	asian	2.7
+41041	Oregon	Lincoln	asian	1.2
+41043	Oregon	Linn	asian	1.1
+41045	Oregon	Malheur	asian	1.9
+41047	Oregon	Marion	asian	2.1
+41049	Oregon	Morrow	asian	0.9
+41051	Oregon	Multnomah	asian	6.7
+41053	Oregon	Polk	asian	2
+41055	Oregon	Sherman	asian	0.3
+41057	Oregon	Tillamook	asian	0.9
+41059	Oregon	Umatilla	asian	1.1
+41061	Oregon	Union	asian	1
+41063	Oregon	Wallowa	asian	0.4
+41065	Oregon	Wasco	asian	0.8
+41067	Oregon	Washington	asian	8.9
+41069	Oregon	Wheeler	asian	0.6
+41071	Oregon	Yamhill	asian	1.6
+42001	Pennsylvania	Adams	asian	0.8
+42003	Pennsylvania	Allegheny	asian	2.9
+42005	Pennsylvania	Armstrong	asian	0.2
+42007	Pennsylvania	Beaver	asian	0.5
+42009	Pennsylvania	Bedford	asian	0.2
+42011	Pennsylvania	Berks	asian	1.5
+42013	Pennsylvania	Blair	asian	0.6
+42015	Pennsylvania	Bradford	asian	0.6
+42017	Pennsylvania	Bucks	asian	4.1
+42019	Pennsylvania	Butler	asian	1
+42021	Pennsylvania	Cambria	asian	0.6
+42023	Pennsylvania	Cameron	asian	0.3
+42025	Pennsylvania	Carbon	asian	0.6
+42027	Pennsylvania	Centre	asian	5.4
+42029	Pennsylvania	Chester	asian	4
+42031	Pennsylvania	Clarion	asian	0.6
+42033	Pennsylvania	Clearfield	asian	0.5
+42035	Pennsylvania	Clinton	asian	0.6
+42037	Pennsylvania	Columbia	asian	0.9
+42039	Pennsylvania	Crawford	asian	0.5
+42041	Pennsylvania	Cumberland	asian	3.1
+42043	Pennsylvania	Dauphin	asian	3.3
+42045	Pennsylvania	Delaware	asian	4.9
+42047	Pennsylvania	Elk	asian	0.3
+42049	Pennsylvania	Erie	asian	1.2
+42051	Pennsylvania	Fayette	asian	0.3
+42053	Pennsylvania	Forest	asian	0.2
+42055	Pennsylvania	Franklin	asian	1
+42057	Pennsylvania	Fulton	asian	0.1
+42059	Pennsylvania	Greene	asian	0.3
+42061	Pennsylvania	Huntingdon	asian	0.5
+42063	Pennsylvania	Indiana	asian	1
+42065	Pennsylvania	Jefferson	asian	0.2
+42067	Pennsylvania	Juniata	asian	0.4
+42069	Pennsylvania	Lackawanna	asian	1.8
+42071	Pennsylvania	Lancaster	asian	2
+42073	Pennsylvania	Lawrence	asian	0.5
+42075	Pennsylvania	Lebanon	asian	1.3
+42077	Pennsylvania	Lehigh	asian	3.2
+42079	Pennsylvania	Luzerne	asian	1.1
+42081	Pennsylvania	Lycoming	asian	0.6
+42083	Pennsylvania	McKean	asian	0.5
+42085	Pennsylvania	Mercer	asian	0.7
+42087	Pennsylvania	Mifflin	asian	0.4
+42089	Pennsylvania	Monroe	asian	2.3
+42091	Pennsylvania	Montgomery	asian	6.6
+42093	Pennsylvania	Montour	asian	1.8
+42095	Pennsylvania	Northampton	asian	2.6
+42097	Pennsylvania	Northumberland	asian	0.4
+42099	Pennsylvania	Perry	asian	0.4
+42101	Pennsylvania	Philadelphia	asian	6.6
+42103	Pennsylvania	Pike	asian	1.2
+42105	Pennsylvania	Potter	asian	0.3
+42107	Pennsylvania	Schuylkill	asian	0.5
+42109	Pennsylvania	Snyder	asian	0.6
+42111	Pennsylvania	Somerset	asian	0.4
+42113	Pennsylvania	Sullivan	asian	0.3
+42115	Pennsylvania	Susquehanna	asian	0.3
+42117	Pennsylvania	Tioga	asian	0.5
+42119	Pennsylvania	Union	asian	1.3
+42121	Pennsylvania	Venango	asian	0.4
+42123	Pennsylvania	Warren	asian	0.4
+42125	Pennsylvania	Washington	asian	0.7
+42127	Pennsylvania	Wayne	asian	0.5
+42129	Pennsylvania	Westmoreland	asian	0.8
+42131	Pennsylvania	Wyoming	asian	0.4
+42133	Pennsylvania	York	asian	1.3
+44001	Rhode Island	Bristol	asian	1.6
+44003	Rhode Island	Kent	asian	2.2
+44005	Rhode Island	Newport	asian	1.7
+44007	Rhode Island	Providence	asian	3.9
+44009	Rhode Island	Washington	asian	1.8
+45001	South Carolina	Abbeville	asian	0.4
+45003	South Carolina	Aiken	asian	0.9
+45005	South Carolina	Allendale	asian	0.5
+45007	South Carolina	Anderson	asian	0.8
+45009	South Carolina	Bamberg	asian	0.5
+45011	South Carolina	Barnwell	asian	0.6
+45013	South Carolina	Beaufort	asian	1.3
+45015	South Carolina	Berkeley	asian	2.4
+45017	South Carolina	Calhoun	asian	0.3
+45019	South Carolina	Charleston	asian	1.5
+45021	South Carolina	Cherokee	asian	0.6
+45023	South Carolina	Chester	asian	0.4
+45025	South Carolina	Chesterfield	asian	0.4
+45027	South Carolina	Clarendon	asian	0.7
+45029	South Carolina	Colleton	asian	0.4
+45031	South Carolina	Darlington	asian	0.4
+45033	South Carolina	Dillon	asian	0.3
+45035	South Carolina	Dorchester	asian	1.7
+45037	South Carolina	Edgefield	asian	0.4
+45039	South Carolina	Fairfield	asian	0.3
+45041	South Carolina	Florence	asian	1.3
+45043	South Carolina	Georgetown	asian	0.5
+45045	South Carolina	Greenville	asian	2.1
+45047	South Carolina	Greenwood	asian	0.9
+45049	South Carolina	Hampton	asian	0.6
+45051	South Carolina	Horry	asian	1.1
+45053	South Carolina	Jasper	asian	0.8
+45055	South Carolina	Kershaw	asian	0.6
+45057	South Carolina	Lancaster	asian	0.7
+45059	South Carolina	Laurens	asian	0.4
+45061	South Carolina	Lee	asian	0.4
+45063	South Carolina	Lexington	asian	1.5
+45065	South Carolina	McCormick	asian	0.4
+45067	South Carolina	Marion	asian	0.6
+45069	South Carolina	Marlboro	asian	0.3
+45071	South Carolina	Newberry	asian	0.4
+45073	South Carolina	Oconee	asian	0.7
+45075	South Carolina	Orangeburg	asian	0.9
+45077	South Carolina	Pickens	asian	1.7
+45079	South Carolina	Richland	asian	2.3
+45081	South Carolina	Saluda	asian	0.2
+45083	South Carolina	Spartanburg	asian	2.1
+45085	South Carolina	Sumter	asian	1.2
+45087	South Carolina	Union	asian	0.3
+45089	South Carolina	Williamsburg	asian	0.4
+45091	South Carolina	York	asian	1.6
+46003	South Dakota	Aurora	asian	0.7
+46005	South Dakota	Beadle	asian	4.4
+46007	South Dakota	Bennett	asian	0.5
+46009	South Dakota	Bon Homme	asian	0.2
+46011	South Dakota	Brookings	asian	2.8
+46013	South Dakota	Brown	asian	1
+46015	South Dakota	Brule	asian	0.2
+46017	South Dakota	Buffalo	asian	0.2
+46019	South Dakota	Butte	asian	0.3
+46021	South Dakota	Campbell	asian	0.5
+46023	South Dakota	Charles Mix	asian	0.2
+46025	South Dakota	Clark	asian	0.1
+46027	South Dakota	Clay	asian	1.9
+46029	South Dakota	Codington	asian	0.5
+46031	South Dakota	Corson	asian	0.4
+46033	South Dakota	Custer	asian	0.4
+46035	South Dakota	Davison	asian	0.5
+46037	South Dakota	Day	asian	0.2
+46039	South Dakota	Deuel	asian	0.1
+46041	South Dakota	Dewey	asian	0.2
+46043	South Dakota	Douglas	asian	0.1
+46045	South Dakota	Edmunds	asian	0.1
+46047	South Dakota	Fall River	asian	0.4
+46049	South Dakota	Faulk	asian	0.1
+46051	South Dakota	Grant	asian	0.3
+46053	South Dakota	Gregory	asian	0.3
+46055	South Dakota	Haakon	asian	0.6
+46057	South Dakota	Hamlin	asian	0.3
+46059	South Dakota	Hand	asian	0.3
+46061	South Dakota	Hanson	asian	0.4
+46063	South Dakota	Harding	asian	0.1
+46065	South Dakota	Hughes	asian	0.6
+46067	South Dakota	Hutchinson	asian	0.2
+46069	South Dakota	Hyde	asian	0.2
+46071	South Dakota	Jackson	asian	0.1
+46073	South Dakota	Jerauld	asian	0.2
+46075	South Dakota	Jones	asian	0.1
+46077	South Dakota	Kingsbury	asian	0.3
+46079	South Dakota	Lake	asian	0.7
+46081	South Dakota	Lawrence	asian	0.7
+46083	South Dakota	Lincoln	asian	1.1
+46085	South Dakota	Lyman	asian	0.3
+46087	South Dakota	McCook	asian	0.2
+46089	South Dakota	McPherson	asian	0.2
+46091	South Dakota	Marshall	asian	0.3
+46093	South Dakota	Meade	asian	0.8
+46095	South Dakota	Mellette	asian	0.3
+46097	South Dakota	Miner	asian	0.4
+46099	South Dakota	Minnehaha	asian	1.5
+46101	South Dakota	Moody	asian	1.1
+46103	South Dakota	Pennington	asian	1.1
+46105	South Dakota	Perkins	asian	0.2
+46107	South Dakota	Potter	asian	0.4
+46109	South Dakota	Roberts	asian	0.3
+46111	South Dakota	Sanborn	asian	0.3
+46113	South Dakota	Shannon	asian	0.4
+46115	South Dakota	Spink	asian	0.1
+46117	South Dakota	Stanley	asian	0.1
+46119	South Dakota	Sully	asian	0
+46121	South Dakota	Todd	asian	0.3
+46123	South Dakota	Tripp	asian	0.2
+46125	South Dakota	Turner	asian	0.2
+46127	South Dakota	Union	asian	1
+46129	South Dakota	Walworth	asian	0.3
+46135	South Dakota	Yankton	asian	0.6
+46137	South Dakota	Ziebach	asian	0.3
+47001	Tennessee	Anderson	asian	1.1
+47003	Tennessee	Bedford	asian	0.9
+47005	Tennessee	Benton	asian	0.4
+47007	Tennessee	Bledsoe	asian	0.2
+47009	Tennessee	Blount	asian	0.8
+47011	Tennessee	Bradley	asian	1
+47013	Tennessee	Campbell	asian	0.3
+47015	Tennessee	Cannon	asian	0.2
+47017	Tennessee	Carroll	asian	0.3
+47019	Tennessee	Carter	asian	0.3
+47021	Tennessee	Cheatham	asian	0.4
+47023	Tennessee	Chester	asian	0.4
+47025	Tennessee	Claiborne	asian	0.5
+47027	Tennessee	Clay	asian	0.1
+47029	Tennessee	Cocke	asian	0.3
+47031	Tennessee	Coffee	asian	0.9
+47033	Tennessee	Crockett	asian	0.2
+47035	Tennessee	Cumberland	asian	0.5
+47037	Tennessee	Davidson	asian	3.2
+47039	Tennessee	Decatur	asian	0.4
+47041	Tennessee	DeKalb	asian	0.3
+47043	Tennessee	Dickson	asian	0.6
+47045	Tennessee	Dyer	asian	0.5
+47047	Tennessee	Fayette	asian	0.6
+47049	Tennessee	Fentress	asian	0.2
+47051	Tennessee	Franklin	asian	0.8
+47053	Tennessee	Gibson	asian	0.3
+47055	Tennessee	Giles	asian	0.4
+47057	Tennessee	Grainger	asian	0.2
+47059	Tennessee	Greene	asian	0.4
+47061	Tennessee	Grundy	asian	0.2
+47063	Tennessee	Hamblen	asian	0.8
+47065	Tennessee	Hamilton	asian	1.8
+47067	Tennessee	Hancock	asian	0.1
+47069	Tennessee	Hardeman	asian	0.6
+47071	Tennessee	Hardin	asian	0.4
+47073	Tennessee	Hawkins	asian	0.5
+47075	Tennessee	Haywood	asian	0.2
+47077	Tennessee	Henderson	asian	0.3
+47079	Tennessee	Henry	asian	0.3
+47081	Tennessee	Hickman	asian	0.3
+47083	Tennessee	Houston	asian	0.3
+47085	Tennessee	Humphreys	asian	0.2
+47087	Tennessee	Jackson	asian	0.1
+47089	Tennessee	Jefferson	asian	0.5
+47091	Tennessee	Johnson	asian	0.2
+47093	Tennessee	Knox	asian	2
+47095	Tennessee	Lake	asian	0.2
+47097	Tennessee	Lauderdale	asian	0.3
+47099	Tennessee	Lawrence	asian	0.3
+47101	Tennessee	Lewis	asian	0.4
+47103	Tennessee	Lincoln	asian	0.4
+47105	Tennessee	Loudon	asian	0.6
+47107	Tennessee	McMinn	asian	0.8
+47109	Tennessee	McNairy	asian	0.2
+47111	Tennessee	Macon	asian	0.3
+47113	Tennessee	Madison	asian	1
+47115	Tennessee	Marion	asian	0.5
+47117	Tennessee	Marshall	asian	0.6
+47119	Tennessee	Maury	asian	0.7
+47121	Tennessee	Meigs	asian	0.2
+47123	Tennessee	Monroe	asian	0.4
+47125	Tennessee	Montgomery	asian	2.2
+47127	Tennessee	Moore	asian	0.5
+47129	Tennessee	Morgan	asian	0.2
+47131	Tennessee	Obion	asian	0.3
+47133	Tennessee	Overton	asian	0.2
+47135	Tennessee	Perry	asian	0.3
+47137	Tennessee	Pickett	asian	0.1
+47139	Tennessee	Polk	asian	0.2
+47141	Tennessee	Putnam	asian	1.2
+47143	Tennessee	Rhea	asian	0.5
+47145	Tennessee	Roane	asian	0.6
+47147	Tennessee	Robertson	asian	0.6
+47149	Tennessee	Rutherford	asian	3.1
+47151	Tennessee	Scott	asian	0.2
+47153	Tennessee	Sequatchie	asian	0.3
+47155	Tennessee	Sevier	asian	0.9
+47157	Tennessee	Shelby	asian	2.4
+47159	Tennessee	Smith	asian	0.3
+47161	Tennessee	Stewart	asian	1.1
+47163	Tennessee	Sullivan	asian	0.6
+47165	Tennessee	Sumner	asian	1.1
+47167	Tennessee	Tipton	asian	0.6
+47169	Tennessee	Trousdale	asian	0.2
+47171	Tennessee	Unicoi	asian	0.2
+47173	Tennessee	Union	asian	0.2
+47175	Tennessee	Van Buren	asian	0.2
+47177	Tennessee	Warren	asian	0.5
+47179	Tennessee	Washington	asian	1.2
+47181	Tennessee	Wayne	asian	0.2
+47183	Tennessee	Weakley	asian	1.2
+47185	Tennessee	White	asian	0.3
+47187	Tennessee	Williamson	asian	3.1
+47189	Tennessee	Wilson	asian	1.2
+48001	Texas	Anderson	asian	0.8
+48003	Texas	Andrews	asian	0.7
+48005	Texas	Angelina	asian	1
+48007	Texas	Aransas	asian	2.1
+48009	Texas	Archer	asian	0.2
+48011	Texas	Armstrong	asian	0
+48013	Texas	Atascosa	asian	0.6
+48015	Texas	Austin	asian	0.5
+48017	Texas	Bailey	asian	0.6
+48019	Texas	Bandera	asian	0.4
+48021	Texas	Bastrop	asian	0.9
+48023	Texas	Baylor	asian	0.1
+48025	Texas	Bee	asian	0.7
+48027	Texas	Bell	asian	3.1
+48029	Texas	Bexar	asian	2.6
+48031	Texas	Blanco	asian	0.6
+48033	Texas	Borden	asian	0.2
+48035	Texas	Bosque	asian	0.4
+48037	Texas	Bowie	asian	0.9
+48039	Texas	Brazoria	asian	5.6
+48041	Texas	Brazos	asian	5.3
+48043	Texas	Brewster	asian	0.9
+48045	Texas	Briscoe	asian	0.2
+48047	Texas	Brooks	asian	0.5
+48049	Texas	Brown	asian	0.5
+48051	Texas	Burleson	asian	0.2
+48053	Texas	Burnet	asian	0.6
+48055	Texas	Caldwell	asian	1
+48057	Texas	Calhoun	asian	4.5
+48059	Texas	Callahan	asian	0.5
+48061	Texas	Cameron	asian	0.8
+48063	Texas	Camp	asian	0.8
+48065	Texas	Carson	asian	0.5
+48067	Texas	Cass	asian	0.4
+48069	Texas	Castro	asian	0.5
+48071	Texas	Chambers	asian	1.2
+48073	Texas	Cherokee	asian	0.5
+48075	Texas	Childress	asian	0.8
+48077	Texas	Clay	asian	0.3
+48079	Texas	Cochran	asian	0.2
+48081	Texas	Coke	asian	0.2
+48083	Texas	Coleman	asian	0.5
+48085	Texas	Collin	asian	11.5
+48087	Texas	Collingsworth	asian	0.5
+48089	Texas	Colorado	asian	0.6
+48091	Texas	Comal	asian	0.9
+48093	Texas	Comanche	asian	0.3
+48095	Texas	Concho	asian	0.4
+48097	Texas	Cooke	asian	0.9
+48099	Texas	Coryell	asian	2.2
+48101	Texas	Cottle	asian	0.1
+48103	Texas	Crane	asian	0.7
+48105	Texas	Crockett	asian	0.5
+48107	Texas	Crosby	asian	0.2
+48109	Texas	Culberson	asian	1.2
+48111	Texas	Dallam	asian	0.6
+48113	Texas	Dallas	asian	5.3
+48115	Texas	Dawson	asian	0.6
+48117	Texas	Deaf Smith	asian	0.4
+48119	Texas	Delta	asian	0.7
+48121	Texas	Denton	asian	6.8
+48123	Texas	DeWitt	asian	0.4
+48125	Texas	Dickens	asian	0.9
+48127	Texas	Dimmit	asian	0.7
+48129	Texas	Donley	asian	0.3
+48131	Texas	Duval	asian	0.3
+48133	Texas	Eastland	asian	0.4
+48135	Texas	Ector	asian	0.9
+48137	Texas	Edwards	asian	0.8
+48139	Texas	Ellis	asian	0.7
+48141	Texas	El Paso	asian	1.2
+48143	Texas	Erath	asian	0.8
+48145	Texas	Falls	asian	0.4
+48147	Texas	Fannin	asian	0.4
+48149	Texas	Fayette	asian	0.3
+48151	Texas	Fisher	asian	0.4
+48153	Texas	Floyd	asian	0.3
+48155	Texas	Foard	asian	0.4
+48157	Texas	Fort Bend	asian	17.5
+48159	Texas	Franklin	asian	0.5
+48161	Texas	Freestone	asian	0.5
+48163	Texas	Frio	asian	2.3
+48165	Texas	Gaines	asian	0.3
+48167	Texas	Galveston	asian	3.2
+48169	Texas	Garza	asian	0.2
+48171	Texas	Gillespie	asian	0.4
+48173	Texas	Glasscock	asian	0.1
+48175	Texas	Goliad	asian	0.3
+48177	Texas	Gonzales	asian	0.5
+48179	Texas	Gray	asian	0.5
+48181	Texas	Grayson	asian	1
+48183	Texas	Gregg	asian	1.2
+48185	Texas	Grimes	asian	0.4
+48187	Texas	Guadalupe	asian	1.6
+48189	Texas	Hale	asian	0.5
+48191	Texas	Hall	asian	0.3
+48193	Texas	Hamilton	asian	0.6
+48195	Texas	Hansford	asian	0.4
+48197	Texas	Hardeman	asian	0.4
+48199	Texas	Hardin	asian	0.6
+48201	Texas	Harris	asian	6.4
+48203	Texas	Harrison	asian	0.6
+48205	Texas	Hartley	asian	0.5
+48207	Texas	Haskell	asian	0.6
+48209	Texas	Hays	asian	1.4
+48211	Texas	Hemphill	asian	0.9
+48213	Texas	Henderson	asian	0.5
+48215	Texas	Hidalgo	asian	1
+48217	Texas	Hill	asian	0.5
+48219	Texas	Hockley	asian	0.4
+48221	Texas	Hood	asian	0.7
+48223	Texas	Hopkins	asian	0.5
+48225	Texas	Houston	asian	0.5
+48227	Texas	Howard	asian	1
+48229	Texas	Hudspeth	asian	0.8
+48231	Texas	Hunt	asian	1.1
+48233	Texas	Hutchinson	asian	0.5
+48235	Texas	Irion	asian	0.2
+48237	Texas	Jack	asian	0.4
+48239	Texas	Jackson	asian	0.4
+48241	Texas	Jasper	asian	0.6
+48243	Texas	Jeff Davis	asian	0.3
+48245	Texas	Jefferson	asian	3.6
+48247	Texas	Jim Hogg	asian	0.4
+48249	Texas	Jim Wells	asian	0.5
+48251	Texas	Johnson	asian	0.8
+48253	Texas	Jones	asian	0.7
+48255	Texas	Karnes	asian	0.3
+48257	Texas	Kaufman	asian	1
+48259	Texas	Kendall	asian	0.8
+48261	Texas	Kenedy	asian	0.5
+48263	Texas	Kent	asian	0
+48265	Texas	Kerr	asian	0.9
+48267	Texas	Kimble	asian	0.6
+48269	Texas	King	asian	0
+48271	Texas	Kinney	asian	0.5
+48273	Texas	Kleberg	asian	2.6
+48275	Texas	Knox	asian	0.2
+48277	Texas	Lamar	asian	0.7
+48279	Texas	Lamb	asian	0.3
+48281	Texas	Lampasas	asian	1.2
+48283	Texas	La Salle	asian	0.2
+48285	Texas	Lavaca	asian	0.4
+48287	Texas	Lee	asian	0.5
+48289	Texas	Leon	asian	0.7
+48291	Texas	Liberty	asian	0.6
+48293	Texas	Limestone	asian	0.5
+48295	Texas	Lipscomb	asian	0.3
+48297	Texas	Live Oak	asian	0.6
+48299	Texas	Llano	asian	0.5
+48301	Texas	Loving	asian	0
+48303	Texas	Lubbock	asian	2.2
+48305	Texas	Lynn	asian	0.3
+48307	Texas	McCulloch	asian	0.5
+48309	Texas	McLennan	asian	1.6
+48311	Texas	McMullen	asian	0.7
+48313	Texas	Madison	asian	0.7
+48315	Texas	Marion	asian	0.5
+48317	Texas	Martin	asian	0.4
+48319	Texas	Mason	asian	0.2
+48321	Texas	Matagorda	asian	2.1
+48323	Texas	Maverick	asian	0.5
+48325	Texas	Medina	asian	0.8
+48327	Texas	Menard	asian	0.3
+48329	Texas	Midland	asian	1.4
+48331	Texas	Milam	asian	0.5
+48333	Texas	Mills	asian	0.2
+48335	Texas	Mitchell	asian	0.6
+48337	Texas	Montague	asian	0.4
+48339	Texas	Montgomery	asian	2.3
+48341	Texas	Moore	asian	6.5
+48343	Texas	Morris	asian	0.4
+48345	Texas	Motley	asian	0.1
+48347	Texas	Nacogdoches	asian	1.3
+48349	Texas	Navarro	asian	0.7
+48351	Texas	Newton	asian	0.4
+48353	Texas	Nolan	asian	0.6
+48355	Texas	Nueces	asian	1.8
+48357	Texas	Ochiltree	asian	0.4
+48359	Texas	Oldham	asian	0.8
+48361	Texas	Orange	asian	1.1
+48363	Texas	Palo Pinto	asian	0.6
+48365	Texas	Panola	asian	0.4
+48367	Texas	Parker	asian	0.6
+48369	Texas	Parmer	asian	0.5
+48371	Texas	Pecos	asian	0.8
+48373	Texas	Polk	asian	0.6
+48375	Texas	Potter	asian	4.1
+48377	Texas	Presidio	asian	1.1
+48379	Texas	Rains	asian	0.6
+48381	Texas	Randall	asian	1.6
+48383	Texas	Reagan	asian	0.4
+48385	Texas	Real	asian	0.2
+48387	Texas	Red River	asian	0.3
+48389	Texas	Reeves	asian	1
+48391	Texas	Refugio	asian	0.7
+48393	Texas	Roberts	asian	0.4
+48395	Texas	Robertson	asian	0.8
+48397	Texas	Rockwall	asian	2.6
+48399	Texas	Runnels	asian	0.6
+48401	Texas	Rusk	asian	0.5
+48403	Texas	Sabine	asian	0.3
+48405	Texas	San Augustine	asian	0.4
+48407	Texas	San Jacinto	asian	0.5
+48409	Texas	San Patricio	asian	0.9
+48411	Texas	San Saba	asian	0.2
+48413	Texas	Schleicher	asian	0.3
+48415	Texas	Scurry	asian	0.6
+48417	Texas	Shackelford	asian	0.3
+48419	Texas	Shelby	asian	0.4
+48421	Texas	Sherman	asian	0.5
+48423	Texas	Smith	asian	1.4
+48425	Texas	Somervell	asian	0.8
+48427	Texas	Starr	asian	0.3
+48429	Texas	Stephens	asian	0.5
+48431	Texas	Sterling	asian	0.1
+48433	Texas	Stonewall	asian	0.8
+48435	Texas	Sutton	asian	0.3
+48437	Texas	Swisher	asian	0.3
+48439	Texas	Tarrant	asian	4.8
+48441	Texas	Taylor	asian	1.7
+48443	Texas	Terrell	asian	0.5
+48445	Texas	Terry	asian	0.5
+48447	Texas	Throckmorton	asian	0.4
+48449	Texas	Titus	asian	0.8
+48451	Texas	Tom Green	asian	1.2
+48453	Texas	Travis	asian	6
+48455	Texas	Trinity	asian	0.4
+48457	Texas	Tyler	asian	0.3
+48459	Texas	Upshur	asian	0.5
+48461	Texas	Upton	asian	0.3
+48463	Texas	Uvalde	asian	0.7
+48465	Texas	Val Verde	asian	0.6
+48467	Texas	Van Zandt	asian	0.4
+48469	Texas	Victoria	asian	1.2
+48471	Texas	Walker	asian	1
+48473	Texas	Waller	asian	0.6
+48475	Texas	Ward	asian	0.6
+48477	Texas	Washington	asian	1.4
+48479	Texas	Webb	asian	0.7
+48481	Texas	Wharton	asian	0.5
+48483	Texas	Wheeler	asian	0.4
+48485	Texas	Wichita	asian	2.1
+48487	Texas	Wilbarger	asian	0.9
+48489	Texas	Willacy	asian	0.8
+48491	Texas	Williamson	asian	5.1
+48493	Texas	Wilson	asian	0.5
+48495	Texas	Winkler	asian	0.5
+48497	Texas	Wise	asian	0.5
+48499	Texas	Wood	asian	0.5
+48501	Texas	Yoakum	asian	0.4
+48503	Texas	Young	asian	0.5
+48505	Texas	Zapata	asian	0.3
+48507	Texas	Zavala	asian	0.2
+49001	Utah	Beaver	asian	1.1
+49003	Utah	Box Elder	asian	1
+49005	Utah	Cache	asian	2.2
+49007	Utah	Carbon	asian	0.7
+49009	Utah	Daggett	asian	0.4
+49011	Utah	Davis	asian	1.9
+49013	Utah	Duchesne	asian	0.4
+49015	Utah	Emery	asian	0.4
+49017	Utah	Garfield	asian	1
+49019	Utah	Grand	asian	0.9
+49021	Utah	Iron	asian	1.1
+49023	Utah	Juab	asian	0.3
+49025	Utah	Kane	asian	0.4
+49027	Utah	Millard	asian	0.8
+49029	Utah	Morgan	asian	0.5
+49031	Utah	Piute	asian	0.4
+49033	Utah	Rich	asian	0.3
+49035	Utah	Salt Lake	asian	3.5
+49037	Utah	San Juan	asian	0.5
+49039	Utah	Sanpete	asian	0.7
+49041	Utah	Sevier	asian	0.4
+49043	Utah	Summit	asian	1.4
+49045	Utah	Tooele	asian	0.8
+49047	Utah	Uintah	asian	0.6
+49049	Utah	Utah	asian	1.6
+49051	Utah	Wasatch	asian	0.9
+49053	Utah	Washington	asian	0.8
+49055	Utah	Wayne	asian	0.7
+49057	Utah	Weber	asian	1.4
+50001	Vermont	Addison	asian	1.5
+50003	Vermont	Bennington	asian	0.7
+50005	Vermont	Caledonia	asian	0.9
+50007	Vermont	Chittenden	asian	3
+50009	Vermont	Essex	asian	0.3
+50011	Vermont	Franklin	asian	0.5
+50013	Vermont	Grand Isle	asian	0.4
+50015	Vermont	Lamoille	asian	0.6
+50017	Vermont	Orange	asian	0.6
+50019	Vermont	Orleans	asian	0.4
+50021	Vermont	Rutland	asian	0.6
+50023	Vermont	Washington	asian	0.9
+50025	Vermont	Windham	asian	1.1
+50027	Vermont	Windsor	asian	1
+51001	Virginia	Accomack	asian	0.6
+51003	Virginia	Albemarle	asian	4.7
+51005	Virginia	Alleghany	asian	0.3
+51007	Virginia	Amelia	asian	0.3
+51009	Virginia	Amherst	asian	0.5
+51011	Virginia	Appomattox	asian	0.3
+51013	Virginia	Arlington	asian	9.7
+51015	Virginia	Augusta	asian	0.6
+51017	Virginia	Bath	asian	0.2
+51019	Virginia	Bedford	asian	1.1
+51021	Virginia	Bland	asian	0.3
+51023	Virginia	Botetourt	asian	0.6
+51025	Virginia	Brunswick	asian	0.3
+51027	Virginia	Buchanan	asian	0.3
+51029	Virginia	Buckingham	asian	0.4
+51031	Virginia	Campbell	asian	1.1
+51033	Virginia	Caroline	asian	0.8
+51035	Virginia	Carroll	asian	0.2
+51036	Virginia	Charles City	asian	0.4
+51037	Virginia	Charlotte	asian	0.2
+51041	Virginia	Chesterfield	asian	3.4
+51043	Virginia	Clarke	asian	1.1
+51045	Virginia	Craig	asian	0.2
+51047	Virginia	Culpeper	asian	1.5
+51049	Virginia	Cumberland	asian	0.4
+51051	Virginia	Dickenson	asian	0.2
+51053	Virginia	Dinwiddie	asian	0.5
+51057	Virginia	Essex	asian	0.9
+51059	Virginia	Fairfax	asian	18
+51061	Virginia	Fauquier	asian	1.4
+51063	Virginia	Floyd	asian	0.3
+51065	Virginia	Fluvanna	asian	0.7
+51067	Virginia	Franklin	asian	0.5
+51069	Virginia	Frederick	asian	1.3
+51071	Virginia	Giles	asian	0.3
+51073	Virginia	Gloucester	asian	0.8
+51075	Virginia	Goochland	asian	1.2
+51077	Virginia	Grayson	asian	0.2
+51079	Virginia	Greene	asian	1.5
+51081	Virginia	Greensville	asian	0.4
+51083	Virginia	Halifax	asian	0.4
+51085	Virginia	Hanover	asian	1.5
+51087	Virginia	Henrico	asian	6.8
+51089	Virginia	Henry	asian	0.5
+51091	Virginia	Highland	asian	0.2
+51093	Virginia	Isle of Wight	asian	0.9
+51095	Virginia	James City	asian	2.3
+51097	Virginia	King and Queen	asian	0.3
+51099	Virginia	King George	asian	1.2
+51101	Virginia	King William	asian	0.8
+51103	Virginia	Lancaster	asian	0.7
+51105	Virginia	Lee	asian	0.2
+51107	Virginia	Loudoun	asian	15.3
+51109	Virginia	Louisa	asian	0.5
+51111	Virginia	Lunenburg	asian	0.2
+51113	Virginia	Madison	asian	0.6
+51115	Virginia	Mathews	asian	0.4
+51117	Virginia	Mecklenburg	asian	0.8
+51119	Virginia	Middlesex	asian	0.4
+51121	Virginia	Montgomery	asian	5.7
+51125	Virginia	Nelson	asian	0.5
+51127	Virginia	New Kent	asian	1
+51131	Virginia	Northampton	asian	0.8
+51133	Virginia	Northumberland	asian	0.3
+51135	Virginia	Nottoway	asian	0.4
+51137	Virginia	Orange	asian	0.8
+51139	Virginia	Page	asian	0.4
+51141	Virginia	Patrick	asian	0.3
+51143	Virginia	Pittsylvania	asian	0.3
+51145	Virginia	Powhatan	asian	0.5
+51147	Virginia	Prince Edward	asian	1
+51149	Virginia	Prince George	asian	1.8
+51153	Virginia	Prince William	asian	7.9
+51155	Virginia	Pulaski	asian	0.5
+51157	Virginia	Rappahannock	asian	0.6
+51159	Virginia	Richmond	asian	0.5
+51161	Virginia	Roanoke	asian	2.8
+51163	Virginia	Rockbridge	asian	0.5
+51165	Virginia	Rockingham	asian	0.7
+51167	Virginia	Russell	asian	0.2
+51169	Virginia	Scott	asian	0.2
+51171	Virginia	Shenandoah	asian	0.6
+51173	Virginia	Smyth	asian	0.3
+51175	Virginia	Southampton	asian	0.3
+51177	Virginia	Spotsylvania	asian	2.4
+51179	Virginia	Stafford	asian	3
+51181	Virginia	Surry	asian	0.3
+51183	Virginia	Sussex	asian	0.5
+51185	Virginia	Tazewell	asian	0.7
+51187	Virginia	Warren	asian	1.1
+51191	Virginia	Washington	asian	0.4
+51193	Virginia	Westmoreland	asian	0.7
+51195	Virginia	Wise	asian	0.4
+51197	Virginia	Wythe	asian	0.5
+51199	Virginia	York	asian	5.2
+51510	Virginia	Alexandria City	asian	6.4
+51515	Virginia	Bedford City	asian	0.6
+51520	Virginia	Bristol City	asian	0.8
+51530	Virginia	Buena Vista City	asian	0.5
+51540	Virginia	Charlottesville City	asian	6.8
+51550	Virginia	Chesapeake City	asian	3
+51570	Virginia	Colonial Heights City	asian	3.3
+51580	Virginia	Covington City	asian	0.7
+51590	Virginia	Danville City	asian	1
+51595	Virginia	Emporia City	asian	0.9
+51600	Virginia	Fairfax City	asian	15.7
+51610	Virginia	Falls Church City	asian	9.5
+51620	Virginia	Franklin City	asian	0.9
+51630	Virginia	Fredericksburg City	asian	3.1
+51640	Virginia	Galax City	asian	0.6
+51650	Virginia	Hampton City	asian	2.4
+51660	Virginia	Harrisonburg City	asian	4
+51670	Virginia	Hopewell City	asian	1
+51678	Virginia	Lexington City	asian	2.5
+51680	Virginia	Lynchburg City	asian	2.5
+51683	Virginia	Manassas City	asian	5.3
+51685	Virginia	Manassas Park City	asian	9.2
+51690	Virginia	Martinsville City	asian	1.1
+51700	Virginia	Newport News City	asian	2.9
+51710	Virginia	Norfolk City	asian	3.4
+51720	Virginia	Norton City	asian	1.6
+51730	Virginia	Petersburg City	asian	0.9
+51735	Virginia	Poquoson City	asian	2.2
+51740	Virginia	Portsmouth City	asian	1.2
+51750	Virginia	Radford City	asian	2.6
+51760	Virginia	Richmond City	asian	2.4
+51770	Virginia	Roanoke City	asian	1.8
+51775	Virginia	Salem City	asian	1.7
+51790	Virginia	Staunton City	asian	0.9
+51800	Virginia	Suffolk City	asian	1.7
+51810	Virginia	Virginia Beach City	asian	6.3
+51820	Virginia	Waynesboro City	asian	0.8
+51830	Virginia	Williamsburg City	asian	5.7
+51840	Virginia	Winchester City	asian	2.6
+53001	Washington	Adams	asian	1.1
+53003	Washington	Asotin	asian	0.7
+53005	Washington	Benton	asian	2.9
+53007	Washington	Chelan	asian	1
+53009	Washington	Clallam	asian	1.5
+53011	Washington	Clark	asian	4.3
+53013	Washington	Columbia	asian	0.6
+53015	Washington	Cowlitz	asian	1.6
+53017	Washington	Douglas	asian	1
+53019	Washington	Ferry	asian	1.1
+53021	Washington	Franklin	asian	2.1
+53023	Washington	Garfield	asian	1.7
+53025	Washington	Grant	asian	1.1
+53027	Washington	Grays Harbor	asian	1.5
+53029	Washington	Island	asian	4.6
+53031	Washington	Jefferson	asian	1.7
+53033	Washington	King	asian	15
+53035	Washington	Kitsap	asian	5.1
+53037	Washington	Kittitas	asian	2.3
+53039	Washington	Klickitat	asian	0.8
+53041	Washington	Lewis	asian	0.9
+53043	Washington	Lincoln	asian	0.4
+53045	Washington	Mason	asian	1.3
+53047	Washington	Okanogan	asian	0.8
+53049	Washington	Pacific	asian	2.2
+53051	Washington	Pend Oreille	asian	0.6
+53053	Washington	Pierce	asian	6.2
+53055	Washington	San Juan	asian	1.3
+53057	Washington	Skagit	asian	2
+53059	Washington	Skamania	asian	0.9
+53061	Washington	Snohomish	asian	9.2
+53063	Washington	Spokane	asian	2.2
+53065	Washington	Stevens	asian	0.6
+53067	Washington	Thurston	asian	5.4
+53069	Washington	Wahkiakum	asian	0.7
+53071	Washington	Walla Walla	asian	1.5
+53073	Washington	Whatcom	asian	3.9
+53075	Washington	Whitman	asian	7.9
+53077	Washington	Yakima	asian	1.4
+54001	West Virginia	Barbour	asian	0.2
+54003	West Virginia	Berkeley	asian	0.9
+54005	West Virginia	Boone	asian	0.1
+54007	West Virginia	Braxton	asian	0.2
+54009	West Virginia	Brooke	asian	0.4
+54011	West Virginia	Cabell	asian	1.1
+54013	West Virginia	Calhoun	asian	0.2
+54015	West Virginia	Clay	asian	0.1
+54017	West Virginia	Doddridge	asian	0.2
+54019	West Virginia	Fayette	asian	0.2
+54021	West Virginia	Gilmer	asian	0.7
+54023	West Virginia	Grant	asian	0.2
+54025	West Virginia	Greenbrier	asian	0.4
+54027	West Virginia	Hampshire	asian	0.2
+54029	West Virginia	Hancock	asian	0.3
+54031	West Virginia	Hardy	asian	1
+54033	West Virginia	Harrison	asian	0.5
+54035	West Virginia	Jackson	asian	0.3
+54037	West Virginia	Jefferson	asian	1.4
+54039	West Virginia	Kanawha	asian	1.1
+54041	West Virginia	Lewis	asian	0.4
+54043	West Virginia	Lincoln	asian	0.1
+54045	West Virginia	Logan	asian	0.3
+54047	West Virginia	McDowell	asian	0.1
+54049	West Virginia	Marion	asian	0.5
+54051	West Virginia	Marshall	asian	0.4
+54053	West Virginia	Mason	asian	0.4
+54055	West Virginia	Mercer	asian	0.5
+54057	West Virginia	Mineral	asian	0.4
+54059	West Virginia	Mingo	asian	0.2
+54061	West Virginia	Monongalia	asian	3.1
+54063	West Virginia	Monroe	asian	0.2
+54065	West Virginia	Morgan	asian	0.3
+54067	West Virginia	Nicholas	asian	0.3
+54069	West Virginia	Ohio	asian	0.8
+54071	West Virginia	Pendleton	asian	0.3
+54073	West Virginia	Pleasants	asian	0.1
+54075	West Virginia	Pocahontas	asian	0.1
+54077	West Virginia	Preston	asian	0.2
+54079	West Virginia	Putnam	asian	0.8
+54081	West Virginia	Raleigh	asian	0.9
+54083	West Virginia	Randolph	asian	0.4
+54085	West Virginia	Ritchie	asian	0.2
+54087	West Virginia	Roane	asian	0.3
+54089	West Virginia	Summers	asian	0.2
+54091	West Virginia	Taylor	asian	0.4
+54093	West Virginia	Tucker	asian	0.2
+54095	West Virginia	Tyler	asian	0.2
+54097	West Virginia	Upshur	asian	0.4
+54099	West Virginia	Wayne	asian	0.2
+54101	West Virginia	Webster	asian	0.1
+54103	West Virginia	Wetzel	asian	0.2
+54105	West Virginia	Wirt	asian	0.2
+54107	West Virginia	Wood	asian	0.6
+54109	West Virginia	Wyoming	asian	0.1
+55001	Wisconsin	Adams	asian	0.4
+55003	Wisconsin	Ashland	asian	0.4
+55005	Wisconsin	Barron	asian	0.6
+55007	Wisconsin	Bayfield	asian	0.3
+55009	Wisconsin	Brown	asian	2.9
+55011	Wisconsin	Buffalo	asian	0.3
+55013	Wisconsin	Burnett	asian	0.3
+55015	Wisconsin	Calumet	asian	2.1
+55017	Wisconsin	Chippewa	asian	1.3
+55019	Wisconsin	Clark	asian	0.4
+55021	Wisconsin	Columbia	asian	0.5
+55023	Wisconsin	Crawford	asian	0.4
+55025	Wisconsin	Dane	asian	5
+55027	Wisconsin	Dodge	asian	0.6
+55029	Wisconsin	Door	asian	0.5
+55031	Wisconsin	Douglas	asian	0.9
+55033	Wisconsin	Dunn	asian	2.7
+55035	Wisconsin	Eau Claire	asian	3.4
+55037	Wisconsin	Florence	asian	0.4
+55039	Wisconsin	Fond du Lac	asian	1.2
+55041	Wisconsin	Forest	asian	0.2
+55043	Wisconsin	Grant	asian	0.8
+55045	Wisconsin	Green	asian	0.6
+55047	Wisconsin	Green Lake	asian	0.5
+55049	Wisconsin	Iowa	asian	0.6
+55051	Wisconsin	Iron	asian	0.4
+55053	Wisconsin	Jackson	asian	0.3
+55055	Wisconsin	Jefferson	asian	0.7
+55057	Wisconsin	Juneau	asian	0.5
+55059	Wisconsin	Kenosha	asian	1.6
+55061	Wisconsin	Kewaunee	asian	0.4
+55063	Wisconsin	La Crosse	asian	4.2
+55065	Wisconsin	Lafayette	asian	0.4
+55067	Wisconsin	Langlade	asian	0.4
+55069	Wisconsin	Lincoln	asian	0.5
+55071	Wisconsin	Manitowoc	asian	2.6
+55073	Wisconsin	Marathon	asian	5.5
+55075	Wisconsin	Marinette	asian	0.5
+55077	Wisconsin	Marquette	asian	0.5
+55078	Wisconsin	Menominee	asian	0.2
+55079	Wisconsin	Milwaukee	asian	3.6
+55081	Wisconsin	Monroe	asian	0.7
+55083	Wisconsin	Oconto	asian	0.3
+55085	Wisconsin	Oneida	asian	0.5
+55087	Wisconsin	Outagamie	asian	3.1
+55089	Wisconsin	Ozaukee	asian	1.9
+55091	Wisconsin	Pepin	asian	0.3
+55093	Wisconsin	Pierce	asian	0.9
+55095	Wisconsin	Polk	asian	0.4
+55097	Wisconsin	Portage	asian	2.9
+55099	Wisconsin	Price	asian	0.5
+55101	Wisconsin	Racine	asian	1.2
+55103	Wisconsin	Richland	asian	0.6
+55105	Wisconsin	Rock	asian	1.1
+55107	Wisconsin	Rusk	asian	0.3
+55109	Wisconsin	St. Croix	asian	1.1
+55111	Wisconsin	Sauk	asian	0.6
+55113	Wisconsin	Sawyer	asian	0.3
+55115	Wisconsin	Shawano	asian	0.4
+55117	Wisconsin	Sheboygan	asian	4.7
+55119	Wisconsin	Taylor	asian	0.4
+55121	Wisconsin	Trempealeau	asian	0.6
+55123	Wisconsin	Vernon	asian	0.4
+55125	Wisconsin	Vilas	asian	0.3
+55127	Wisconsin	Walworth	asian	0.9
+55129	Wisconsin	Washburn	asian	0.5
+55131	Wisconsin	Washington	asian	1.2
+55133	Wisconsin	Waukesha	asian	2.9
+55135	Wisconsin	Waupaca	asian	0.4
+55137	Wisconsin	Waushara	asian	0.4
+55139	Wisconsin	Winnebago	asian	2.4
+55141	Wisconsin	Wood	asian	1.8
+56001	Wyoming	Albany	asian	3
+56003	Wyoming	Big Horn	asian	0.4
+56005	Wyoming	Campbell	asian	0.6
+56007	Wyoming	Carbon	asian	0.9
+56009	Wyoming	Converse	asian	0.4
+56011	Wyoming	Crook	asian	0.2
+56013	Wyoming	Fremont	asian	0.5
+56015	Wyoming	Goshen	asian	0.4
+56017	Wyoming	Hot Springs	asian	0.5
+56019	Wyoming	Johnson	asian	0.6
+56021	Wyoming	Laramie	asian	1.2
+56023	Wyoming	Lincoln	asian	0.4
+56025	Wyoming	Natrona	asian	0.7
+56027	Wyoming	Niobrara	asian	0.4
+56029	Wyoming	Park	asian	0.6
+56031	Wyoming	Platte	asian	0.4
+56033	Wyoming	Sheridan	asian	0.7
+56035	Wyoming	Sublette	asian	0.7
+56037	Wyoming	Sweetwater	asian	0.9
+56039	Wyoming	Teton	asian	1.2
+56041	Wyoming	Uinta	asian	0.4
+56043	Wyoming	Washakie	asian	0.7
+56045	Wyoming	Weston	asian	0.4
