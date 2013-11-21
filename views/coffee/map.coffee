@@ -5,10 +5,7 @@ rateById = d3.map()
 ready = (error, us) ->
   quantize = d3.scale.quantize()
   .domain([d3.min(rateById.values()), d3.max(rateById.values())])
-  .range(d3.range(9)
-  .map((i) ->
-    "q" + i + "-9"
-  ))
+  .range(colorbrewer.Greens[9])
 
   svg.append("g")
     .attr("class", "counties")
@@ -16,7 +13,7 @@ ready = (error, us) ->
     .data(topojson.feature(us, us.objects.counties).features)
     .enter()
     .append("path")
-    .attr("class", (d) ->
+    .attr("fill", (d) ->
       quantize rateById.get(d.id)
     )
     .attr "d", path
@@ -27,12 +24,29 @@ ready = (error, us) ->
     ))
     .attr("class", "states").attr "d", path
 
+  domain = d3.range(quantize.domain()[0],quantize.domain()[1],(quantize.domain()[1]-quantize.domain()[0])/(quantize.range().length-1))
+  domain.push(quantize.domain()[1])
+  legend = d3.select('#legend')
+    .append('ul')
+    .attr('class', 'list-inline')
+    .selectAll('li.key')
+    .data(quantize.range())
+    .enter().append('li')
+    .attr('class', 'key')
+    .style('border-left-color', String)
+    .text( (d) ->
+      Math.round(domain[quantize.range().indexOf(d)]*100).toString()
+    )
+  true
 
 path = d3.geo.path()
-svg = d3.select("body")
+
+svg = d3.select("#map")
   .append("svg")
   .attr("width", width)
   .attr("height", height)
+
+d3.select("#loading").remove()
 
 queue()
   .defer(d3.json, "/json/us_counties.json")
@@ -43,7 +57,6 @@ queue()
 $('.menu').dropit()
 $('.menu').show()
 
-$.getJSON("/json/dataset_metadata.json", (data) -> console.log(data))
 
 
 

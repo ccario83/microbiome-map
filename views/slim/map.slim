@@ -4,36 +4,46 @@ html
     title A simple map
 
   body
-  h1 id="header"
-    = @description
+  div id="selection"
+    h1 id="header"
+      = @description
 
-  - unless @files.empty?
-    ul class="menu" style="display:none;"
-      li
-        a href="#" class="btn" Datasets
-        ul class="dropit-submenu"
-          - for file in @files do
-            li
-              a href="/map/#{file}.tab" = file
+    - unless @files.empty?
+      ul class="menu" style="display:none;"
+        li
+          a href="#" class="btn" Datasets
+          ul class="dropit-submenu"
+            - for file in @files do
+              li
+                a href="/map/#{file}.tab" = file
 
-    div id="footer"
-      copyright 2013 Clinton Cario 
-
+  div id="data"
+    div id="legend"
     div id="datafile" style="display:none;" = @datafile
+    div id="map"
+      span id="loading"
+        | Loading...
+
+  div id="footer"
+    | Clinton Cario Pollard Lab &copy; 2013
 
   / Load jQuery and the google maps API
   script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"
 
   / Load jQuery and other libraries
-  script src="http://d3js.org/d3.v3.min.js"
+  script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js"
   script src="http://d3js.org/queue.v1.min.js"
   script src="http://d3js.org/topojson.v1.min.js"
+  script src="/colorbrewer.js"
   script src="/dropit.js"
+
 
   / Load the sites js and css
   script src="/js/index.js"
   script src="/js/map.js"
 
-  link   type="text/css" href="/css/index.css" rel="stylesheet" media="screen"
-  link   type="text/css" href="/css/map.css" rel="stylesheet" media="screen"
-  link   type="text/css" href="/dropit.css" rel="stylesheet"
+  link type="text/css" href="/css/index.css" rel="stylesheet" media="screen"
+  link type="text/css" href="/css/map.css" rel="stylesheet" media="screen"
+  link type="text/css" href="/colorbrewer.css" rel="stylesheet" media="screen"
+  link type="text/css" href="/dropit.css" rel="stylesheet"
+
