@@ -15,10 +15,6 @@ ready = (error, us) ->
     .append("path")
     .attr("fill", (d) ->
       quantize rateById.get(d.id)
-      console.log(quantize rateById.get(d.id))
-      console.log(rateById.get(d.id))
-      console.log(d.id)
-      console.log("----")
     )
     .attr "d", path
 

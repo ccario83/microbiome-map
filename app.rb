@@ -15,7 +15,7 @@ class App < Sinatra::Base
     
     # Route Handlers
     get '/' do
-        redirect '/map/pcnt_obese.tab'
+        redirect '/map/diabetictestAnmeanCHRR.tab'
     end
 
     get '/map/*.tab' do
@@ -23,7 +23,9 @@ class App < Sinatra::Base
         @files.map!{|file| File.basename(file, ".*")}
         @datafile = "/data/#{params[:splat].first}.tab"
         annotation = JSON.parse(File.read("views/json/dataset_metadata.json"))
-        @description = annotation[1][params[:splat].first]['Description']
+
+        file = params[:splat].first+'.tab'
+        @description = annotation[1][file]['Description']
         slim :"slim/map"
     end
 
