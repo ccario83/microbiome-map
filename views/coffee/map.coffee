@@ -15,6 +15,10 @@ ready = (error, us) ->
     .append("path")
     .attr("fill", (d) ->
       quantize rateById.get(d.id)
+      console.log(quantize rateById.get(d.id))
+      console.log(rateById.get(d.id))
+      console.log(d.id)
+      console.log("----")
     )
     .attr "d", path
 
@@ -35,7 +39,7 @@ ready = (error, us) ->
     .attr('class', 'key')
     .style('border-left-color', String)
     .text( (d) ->
-      Math.round(domain[quantize.range().indexOf(d)]*100).toString()
+      (domain[(quantize.range().indexOf(d))]*100).toExponential(2)
     )
   true
 
@@ -51,7 +55,7 @@ d3.select("#loading").remove()
 queue()
   .defer(d3.json, "/json/us_counties.json")
   .defer(d3.tsv, $('#datafile').text(), (d) ->
-    rateById.set String(+d.FIPS), +d[d.Variable] / 100
+    rateById.set String(+d.FIPS), (+d[d.Variable] / 100)
   ).await ready
 
 $('.menu').dropit()
