@@ -29,6 +29,19 @@ class App < Sinatra::Base
         slim :"slim/map"
     end
 
+
+    get '/piemap' do
+        redirect '/piemap/bactFirmRatio.csv'
+    end
+
+    get '/piemap/*.csv' do
+        @files = Dir.glob(File.join(settings.root, "pies/", "*"))
+        @files.map!{|file| File.basename(file, ".*")}
+        @datafile = "/piedata/#{params[:splat].first}.csv"
+        file = params[:splat].first+'.csv'
+        slim :"slim/piemap"
+    end
+
     # 4 OH 4
     not_found do
         slim :"slim/404"
@@ -43,6 +56,10 @@ class App < Sinatra::Base
     # To handle data
     get '/data/*.tab' do
         File.read("data/#{params[:splat].first}.tab")
+    end
+
+    get '/piedata/*.csv' do
+        File.read("pies/#{params[:splat].first}.csv")
     end
 
 end

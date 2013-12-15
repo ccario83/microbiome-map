@@ -1,0 +1,51 @@
+doctype html
+html
+  head
+    title A pie chart map of American Gut parameters
+
+  body
+  div id="selection"
+    - unless @files.empty?
+      ul class="menu" style="display:none;"
+        li
+          a href="#" class="btn" Datasets
+          ul class="dropit-submenu"
+            - for file in @files do
+              li
+                a href="/piemap/#{file}.csv" = file
+
+
+  div id="data"
+    div id="legend"
+      div
+        form action="javascript:plot_pies(true, $('#bin_size').val())"
+          | Bin Size (deg):
+          input type="text" id="bin_size" value="0.7"
+          input type="submit" value="Bin!"
+      div id="pie_legend"
+    div id="datafile" style="display:none;" = @datafile
+    div id="map"
+
+  div id="footer"
+    | Clinton Cario Pollard Lab &copy; 2013
+
+  / Load jQuery and the google maps API
+  script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"
+
+  / Load jQuery and other libraries
+  script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.3.9/d3.min.js"
+  script src="http://d3js.org/queue.v1.min.js"
+  script src="http://d3js.org/topojson.v1.min.js"
+  script src="/colorbrewer.js"
+  script src="/dropit.js"
+
+
+  / Load the sites js and css
+  script src="/js/index.js"
+  script src="/js/piemap.js"
+
+  link type="text/css" href="/css/index.css" rel="stylesheet" media="screen"
+  link type="text/css" href="/css/piemap.css" rel="stylesheet" media="screen"
+  link type="text/css" href="/colorbrewer.css" rel="stylesheet" media="screen"
+  link type="text/css" href="/dropit.css" rel="stylesheet"
+
