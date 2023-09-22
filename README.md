@@ -1,4 +1,3 @@
-simple-app
+Microbiome Map
 ==========
 
-A barebones Sinatra app to seed development. 
